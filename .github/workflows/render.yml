@@ -109,6 +109,12 @@ jobs:
           path: chunks
           merge-multiple: true
 
+      - name: Install FFmpeg
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes ffmpeg
+
       - name: Concatenate video shards
         shell: bash
         run: |
