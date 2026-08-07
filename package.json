@@ -1,0 +1,24 @@
+{
+  "name": "bbc-remotion-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@11.9.0",
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "verify:episode": "node scripts/verify-public-payload.mjs",
+    "render": "remotion render src/index.ts BBCBilingual"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.499",
+    "@remotion/google-fonts": "4.0.499",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "remotion": "4.0.499"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  }
+}

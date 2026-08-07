@@ -1,0 +1,9 @@
+node_modules/
+out/
+chunks/
+source.mp3
+episode-audio.m4a
+video-only.mp4
+concat.txt
+.DS_Store
+.tmp-actionlint/

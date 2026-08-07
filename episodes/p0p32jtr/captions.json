@@ -1,0 +1,2202 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "6 August 2026 · Evening Edition"
+  },
+  "durationMs": 1616080,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2960,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 国际台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4580,
+      "endMs": 5940,
+      "en": "Hello, I'm Oliver Conway.",
+      "zh": "大家好，我是奥利弗·康韦。"
+    },
+    {
+      "id": 3,
+      "startMs": 5940,
+      "endMs": 10180,
+      "en": "We're recording this at 15:00 GMT on Thursday, the 6th of August.",
+      "zh": "本期节目录制于格林尼治时间 8 月 6 日星期四 15 点。"
+    },
+    {
+      "id": 4,
+      "startMs": 10500,
+      "endMs": 15220,
+      "en": "Today, we have an exclusive report on Ukraine's battle with Russia in the Black Sea.",
+      "zh": "今天，我们将独家报道乌克兰与俄罗斯在黑海的较量。"
+    },
+    {
+      "id": 5,
+      "startMs": 15700,
+      "endMs": 20820,
+      "en": "Myanmar's military ruler emerges from diplomatic isolation with a visit to Thailand.",
+      "zh": "缅甸军方领导人访问泰国，走出外交孤立。"
+    },
+    {
+      "id": 6,
+      "startMs": 21380,
+      "endMs": 27940,
+      "en": "And after a four-year break, Indonesia resumes exports of endangered monkeys to the US for lab testing.",
+      "zh": "在中断四年后，印度尼西亚恢复向美国出口濒危猴类，用于实验室测试。"
+    },
+    {
+      "id": 7,
+      "startMs": 30380,
+      "endMs": 35020,
+      "en": "Also in the podcast, why wildfires can give us migraines. And...",
+      "zh": "本期节目还将探讨野火为何会引发偏头痛。以及……"
+    },
+    {
+      "id": 8,
+      "startMs": 36860,
+      "endMs": 39420,
+      "en": "I just get bored with life otherwise.",
+      "zh": "不然的话，我就是觉得生活很无聊。"
+    },
+    {
+      "id": 9,
+      "startMs": 40060,
+      "endMs": 45020,
+      "en": "When you get old, you can't go here, you can't do this, you can't drive, you can't see.",
+      "zh": "人老了以后，这里不能去，那件事不能做，不能开车，也看不见。"
+    },
+    {
+      "id": 10,
+      "startMs": 45020,
+      "endMs": 48220,
+      "en": "I can't see very well, and I get a bit frustrated.",
+      "zh": "我的视力不太好，这让我有点沮丧。"
+    },
+    {
+      "id": 11,
+      "startMs": 48700,
+      "endMs": 50620,
+      "en": "So I want to do the things that I can do.",
+      "zh": "所以，我想做那些自己还能做的事。"
+    },
+    {
+      "id": 12,
+      "startMs": 51180,
+      "endMs": 55740,
+      "en": "The 97-year-old wing walker who's just broken her own record.",
+      "zh": "这位 97 岁的机翼行走者刚刚打破了自己的纪录。"
+    },
+    {
+      "id": 13,
+      "startMs": 60560,
+      "endMs": 65360,
+      "en": "For months, Ukraine has been hitting Russia's energy sites, warehouses and supply routes",
+      "zh": "数月来，乌克兰一直在打击俄罗斯的能源设施、仓库和补给线，"
+    },
+    {
+      "id": 14,
+      "startMs": 65920,
+      "endMs": 70400,
+      "en": "to try to drive home to people there the true cost of President Putin's invasion.",
+      "zh": "试图让俄罗斯民众切身体会普京总统发动入侵的真实代价。"
+    },
+    {
+      "id": 15,
+      "startMs": 70880,
+      "endMs": 76800,
+      "en": "In the latest attack, Ukraine struck two Russian oil refineries, sending plumes of black smoke into the atmosphere.",
+      "zh": "在最近一次袭击中，乌克兰击中了俄罗斯的两座炼油厂，滚滚黑烟升入空中。"
+    },
+    {
+      "id": 16,
+      "startMs": 77360,
+      "endMs": 82160,
+      "en": "But along with the air war, Russia and Ukraine have also been battling it out at sea.",
+      "zh": "但除了空中战事，俄罗斯和乌克兰也一直在海上交锋。"
+    },
+    {
+      "id": 17,
+      "startMs": 82640,
+      "endMs": 90160,
+      "en": "Ukrainian officials say a Russian strike on the Black Sea port of Odesa overnight damaged a Guinea-Bissau-flagged ship loaded with wheat.",
+      "zh": "乌克兰官员称，俄罗斯夜间袭击黑海港口敖德萨，损坏了一艘悬挂几内亚比绍国旗、满载小麦的船只。"
+    },
+    {
+      "id": 18,
+      "startMs": 90480,
+      "endMs": 91840,
+      "en": "One crew member was killed.",
+      "zh": "一名船员遇难。"
+    },
+    {
+      "id": 19,
+      "startMs": 92320,
+      "endMs": 97360,
+      "en": "Our diplomatic correspondent Paul Adams has been given rare access to the Ukrainian Navy.",
+      "zh": "我们的外交事务记者保罗·亚当斯获准罕见地随同乌克兰海军采访。"
+    },
+    {
+      "id": 20,
+      "startMs": 99900,
+      "endMs": 106140,
+      "en": "We're going on patrol with the Ukrainian Navy, out into waters made increasingly dangerous by Russian attacks.",
+      "zh": "我们正随乌克兰海军出海巡逻，驶入因俄罗斯袭击而日益危险的水域。"
+    },
+    {
+      "id": 21,
+      "startMs": 107300,
+      "endMs": 111300,
+      "en": "In a part of the country where a drone or ballistic missile can arrive with little warning.",
+      "zh": "在这个地区，无人机或弹道导弹可能在几乎毫无预警的情况下来袭。"
+    },
+    {
+      "id": 22,
+      "startMs": 112940,
+      "endMs": 114860,
+      "en": "Everyone is focused, on alert.",
+      "zh": "每个人都全神贯注，保持警戒。"
+    },
+    {
+      "id": 23,
+      "startMs": 115260,
+      "endMs": 117020,
+      "en": "They fire their guns every day.",
+      "zh": "他们每天都要开火。"
+    },
+    {
+      "id": 24,
+      "startMs": 117980,
+      "endMs": 119740,
+      "en": "This morning, it looks deceptively calm.",
+      "zh": "今天早晨，表面上看似风平浪静。"
+    },
+    {
+      "id": 25,
+      "startMs": 121040,
+      "endMs": 127040,
+      "en": "With its guns, its netting, and some of the other equipment on board, this vessel can look after itself more or less.",
+      "zh": "凭借舰炮、防护网以及舰上的其他一些装备，这艘船基本可以保护自己。"
+    },
+    {
+      "id": 26,
+      "startMs": 127040,
+      "endMs": 134240,
+      "en": "But what it can't do is to stop Russia attacking civilian ships coming in and out of Ukraine's ports.",
+      "zh": "但它无法阻止俄罗斯袭击进出乌克兰港口的民用船只。"
+    },
+    {
+      "id": 27,
+      "startMs": 134780,
+      "endMs": 137740,
+      "en": "Those attacks are increasing, and it's a major problem.",
+      "zh": "这类袭击越来越多，已经成为一个严重问题。"
+    },
+    {
+      "id": 28,
+      "startMs": 138780,
+      "endMs": 140380,
+      "en": "There's a war out at sea.",
+      "zh": "海上正在打仗。"
+    },
+    {
+      "id": 29,
+      "startMs": 141660,
+      "endMs": 144860,
+      "en": "Russia and Ukraine hitting each other's ships, hundreds of them.",
+      "zh": "俄罗斯和乌克兰相互袭击对方的船只，涉及数百艘船。"
+    },
+    {
+      "id": 30,
+      "startMs": 147700,
+      "endMs": 151940,
+      "en": "Normally, all of them are crowd by vessels.",
+      "zh": "通常，所有港口都会挤满船只。"
+    },
+    {
+      "id": 31,
+      "startMs": 152100,
+      "endMs": 153860,
+      "en": "Now you can see how many vessels.",
+      "zh": "现在你可以看看还有多少船。"
+    },
+    {
+      "id": 32,
+      "startMs": 154020,
+      "endMs": 156180,
+      "en": "All we can see moving are a couple of tugboats.",
+      "zh": "我们能看到在动的只有两艘拖船。"
+    },
+    {
+      "id": 33,
+      "startMs": 156180,
+      "endMs": 157620,
+      "en": "Nothing else. Nothing else.",
+      "zh": "其他什么也没有。什么也没有。"
+    },
+    {
+      "id": 34,
+      "startMs": 160700,
+      "endMs": 163900,
+      "en": "I'm being shown round one of Ukraine's biggest Black Sea ports.",
+      "zh": "有人带我参观乌克兰在黑海最大的港口之一。"
+    },
+    {
+      "id": 35,
+      "startMs": 164060,
+      "endMs": 166540,
+      "en": "For security reasons, I'm not allowed to say which.",
+      "zh": "出于安全原因，我不能透露具体是哪一座港口。"
+    },
+    {
+      "id": 36,
+      "startMs": 166860,
+      "endMs": 168860,
+      "en": "And I'm going to call my guide Dmytro.",
+      "zh": "我将把带我参观的人称作德米特罗。"
+    },
+    {
+      "id": 37,
+      "startMs": 169180,
+      "endMs": 170220,
+      "en": "It's not his real name.",
+      "zh": "这不是他的真名。"
+    },
+    {
+      "id": 38,
+      "startMs": 170380,
+      "endMs": 172060,
+      "en": "He's worked here for 20 years.",
+      "zh": "他已经在这里工作了 20 年。"
+    },
+    {
+      "id": 39,
+      "startMs": 172060,
+      "endMs": 174060,
+      "en": "The port is virtually empty.",
+      "zh": "港口几乎空无一物。"
+    },
+    {
+      "id": 40,
+      "startMs": 174620,
+      "endMs": 176220,
+      "en": "Dmytro's never seen it like this.",
+      "zh": "德米特罗从未见过这样的景象。"
+    },
+    {
+      "id": 41,
+      "startMs": 177020,
+      "endMs": 181260,
+      "en": "Officially, ports are not closed, but vessels are not coming.",
+      "zh": "官方并未关闭港口，但船只都不来了。"
+    },
+    {
+      "id": 42,
+      "startMs": 181420,
+      "endMs": 186060,
+      "en": "They are scared of being hit like it was this morning in Odesa Bay.",
+      "zh": "他们害怕像今天早上在敖德萨湾那样遭到袭击。"
+    },
+    {
+      "id": 43,
+      "startMs": 186940,
+      "endMs": 191900,
+      "en": "Starting July, they hit trade vessels as a primary target.",
+      "zh": "从 7 月开始，他们把商船当作主要打击目标。"
+    },
+    {
+      "id": 44,
+      "startMs": 192460,
+      "endMs": 193740,
+      "en": "Why do you think this changed?",
+      "zh": "你认为为什么会发生这种变化？"
+    },
+    {
+      "id": 45,
+      "startMs": 194200,
+      "endMs": 201880,
+      "en": "It's better to ask them. Because main thing, they want to make a blockade of the Ukrainian ports because of the economy.",
+      "zh": "这个问题最好去问他们。最主要的是，他们想封锁乌克兰的港口，打击乌克兰经济。"
+    },
+    {
+      "id": 46,
+      "startMs": 204180,
+      "endMs": 214020,
+      "en": "Yeah, this is a really quite strange experience, driving under these enormous gantries and cranes, and the pipes and the buckets,",
+      "zh": "是的，这真是一次相当奇怪的经历：从这些巨大的龙门架、起重机、管道和抓斗下驶过，"
+    },
+    {
+      "id": 47,
+      "startMs": 214020,
+      "endMs": 220020,
+      "en": "and everything that you need for a busy port, and none of it, none of it is working.",
+      "zh": "繁忙港口所需的一切设施都在这里，可它们全都、全都没有运转。"
+    },
+    {
+      "id": 48,
+      "startMs": 222340,
+      "endMs": 226900,
+      "en": "Good day. Good day. Nice to meet you. I'm a journalist, Paul.",
+      "zh": "你好。你好。很高兴见到你。我是记者保罗。"
+    },
+    {
+      "id": 49,
+      "startMs": 226900,
+      "endMs": 233460,
+      "en": "At the offices of Ukraine's Transport Workers' Union, I meet Svitlana, a warehouse shift manager at Odesa's main port.",
+      "zh": "在乌克兰运输工人工会的办公室里，我见到了斯维特兰娜，她是敖德萨主要港口的一名仓库值班经理。"
+    },
+    {
+      "id": 50,
+      "startMs": 233940,
+      "endMs": 241060,
+      "en": "She's limping, fragments of a Russian ballistic missile still stuck in her leg and back following an explosion at the port a year ago.",
+      "zh": "她走路一瘸一拐。一年前港口发生爆炸后，俄罗斯弹道导弹的碎片至今仍留在她的腿部和背部。"
+    },
+    {
+      "id": 51,
+      "startMs": 241700,
+      "endMs": 247220,
+      "en": "She fights back tears as she talks, and her hands shake as she describes what life is like now.",
+      "zh": "她强忍泪水讲述如今的生活，双手不停地颤抖。"
+    },
+    {
+      "id": 52,
+      "startMs": 247300,
+      "endMs": 248740,
+      "en": "Oh, it's very difficult.",
+      "zh": "噢，真的非常艰难。"
+    },
+    {
+      "id": 53,
+      "startMs": 248740,
+      "endMs": 255060,
+      "en": "A lot of sirens, a lot of drones, a lot of hits.",
+      "zh": "有很多警报、很多无人机、很多次袭击。"
+    },
+    {
+      "id": 54,
+      "startMs": 255220,
+      "endMs": 259060,
+      "en": "And for morale, it's even more difficult.",
+      "zh": "对士气来说，情况更加艰难。"
+    },
+    {
+      "id": 55,
+      "startMs": 259060,
+      "endMs": 261700,
+      "en": "People are very tense.",
+      "zh": "人们都非常紧张。"
+    },
+    {
+      "id": 56,
+      "startMs": 262100,
+      "endMs": 263220,
+      "en": "What can I say?",
+      "zh": "我还能说什么呢？"
+    },
+    {
+      "id": 57,
+      "startMs": 264100,
+      "endMs": 265700,
+      "en": "Look at my hands.",
+      "zh": "看看我的手。"
+    },
+    {
+      "id": 58,
+      "startMs": 268080,
+      "endMs": 271600,
+      "en": "Back at Dmytro's port, the air raid siren sounds.",
+      "zh": "回到德米特罗所在的港口，防空警报响了起来。"
+    },
+    {
+      "id": 59,
+      "startMs": 277300,
+      "endMs": 283220,
+      "en": "We head for the nearest bomb shelter, soon joined by port workers, all scanning their phones for updates.",
+      "zh": "我们前往最近的防空洞，港口工人很快也赶了过来，所有人都在查看手机上的最新消息。"
+    },
+    {
+      "id": 60,
+      "startMs": 285760,
+      "endMs": 289920,
+      "en": "Is that the drone or is that a Ukrainian air defense?",
+      "zh": "那是无人机，还是乌克兰的防空火力？"
+    },
+    {
+      "id": 61,
+      "startMs": 290080,
+      "endMs": 290400,
+      "en": "That's the drone.",
+      "zh": "那是无人机。"
+    },
+    {
+      "id": 62,
+      "startMs": 295020,
+      "endMs": 297900,
+      "en": "Okay. Yeah, I hear it.",
+      "zh": "好。是的，我听见了。"
+    },
+    {
+      "id": 63,
+      "startMs": 299080,
+      "endMs": 306120,
+      "en": "So, you can feel by yourself how does it look working during the war...",
+      "zh": "所以，你可以亲身体会战争期间工作是什么样子……"
+    },
+    {
+      "id": 64,
+      "startMs": 306360,
+      "endMs": 307640,
+      "en": "...in the port.",
+      "zh": "……在港口工作是什么样子。"
+    },
+    {
+      "id": 65,
+      "startMs": 308620,
+      "endMs": 313020,
+      "en": "Unfortunately, it became typical for our life.",
+      "zh": "不幸的是，这已经成了我们生活的常态。"
+    },
+    {
+      "id": 66,
+      "startMs": 315420,
+      "endMs": 321660,
+      "en": "We're told that two jet-powered drones landed in the area, so we go looking for the scene of one of the explosions.",
+      "zh": "我们得知两架喷气式无人机落在这一地区，于是前去寻找其中一处爆炸现场。"
+    },
+    {
+      "id": 67,
+      "startMs": 324500,
+      "endMs": 331860,
+      "en": "Eventually, several miles from the port, we find 83-year-old Andriy Dudyk surveying the shattered ruins of his house and garden.",
+      "zh": "最终，我们在距离港口数英里的地方找到了 83 岁的安德里·杜迪克，他正察看自家房屋和花园的残垣断壁。"
+    },
+    {
+      "id": 68,
+      "startMs": 332420,
+      "endMs": 334420,
+      "en": "Somehow, he escaped without a scratch.",
+      "zh": "不知怎么，他竟毫发无伤地逃过一劫。"
+    },
+    {
+      "id": 69,
+      "startMs": 335120,
+      "endMs": 343120,
+      "en": "And I was planning what I would do after my lunch, but now I understand what I will be doing.",
+      "zh": "我本来还在计划午饭后要做什么，现在我知道自己该忙什么了。"
+    },
+    {
+      "id": 70,
+      "startMs": 343760,
+      "endMs": 347840,
+      "en": "You seem to have a sense of humor about this whole incident.",
+      "zh": "看起来，你对这整件事仍然保持着幽默感。"
+    },
+    {
+      "id": 71,
+      "startMs": 348500,
+      "endMs": 351380,
+      "en": "If we start crying, it will not lead to anything.",
+      "zh": "如果我们开始哭泣，那也于事无补。"
+    },
+    {
+      "id": 72,
+      "startMs": 351380,
+      "endMs": 355700,
+      "en": "Yes, this is true.",
+      "zh": "是的，确实如此。"
+    },
+    {
+      "id": 73,
+      "startMs": 357820,
+      "endMs": 359820,
+      "en": "Paul Adams, reporting from Ukraine.",
+      "zh": "保罗·亚当斯从乌克兰报道。"
+    },
+    {
+      "id": 74,
+      "startMs": 360620,
+      "endMs": 367020,
+      "en": "Next, to a warm welcome in Bangkok for a military ruler seen elsewhere as an international pariah.",
+      "zh": "接下来，一名在其他地方被视为国际弃儿的军方领导人在曼谷受到热情欢迎。"
+    },
+    {
+      "id": 75,
+      "startMs": 373440,
+      "endMs": 378720,
+      "en": "Thailand rolled out the red carpet for Min Aung Hlaing, leader of neighboring Myanmar.",
+      "zh": "泰国以红毯迎接邻国缅甸领导人敏昂莱。"
+    },
+    {
+      "id": 76,
+      "startMs": 378880,
+      "endMs": 385600,
+      "en": "This came despite his refusal to end the five years of violence sparked by his coup against the government of Aung San Suu Kyi.",
+      "zh": "尽管他拒绝结束由推翻昂山素季政府的政变所引发、持续五年的暴力冲突。"
+    },
+    {
+      "id": 77,
+      "startMs": 386000,
+      "endMs": 391840,
+      "en": "For more on the visit of the Burmese strongman, I spoke to our Southeast Asia correspondent Jonathan Head in Bangkok.",
+      "zh": "为进一步了解这位缅甸强人此次访问的情况，我采访了驻曼谷的东南亚事务记者乔纳森·黑德。"
+    },
+    {
+      "id": 78,
+      "startMs": 392320,
+      "endMs": 398880,
+      "en": "It's a surprise to most of us here that the Thais have escalated it to to what looks like a state visit.",
+      "zh": "令我们这里大多数人意外的是，泰国把接待规格提升到了看起来像国事访问的程度。"
+    },
+    {
+      "id": 79,
+      "startMs": 398960,
+      "endMs": 407200,
+      "en": "It's not a state visit, but Min Aung Hlaing is being given all of the honors and and trappings that go with a big official visit.",
+      "zh": "这并非国事访问，但敏昂莱享受了大型正式访问所配备的全部礼遇和排场。"
+    },
+    {
+      "id": 80,
+      "startMs": 407520,
+      "endMs": 414480,
+      "en": "This is a man who's not been able to travel to fellow Southeast Asian countries since he overthrew Aung San Suu Kyi's government.",
+      "zh": "自从推翻昂山素季政府以来，他一直无法前往其他东南亚国家。"
+    },
+    {
+      "id": 81,
+      "startMs": 414480,
+      "endMs": 420080,
+      "en": "He's been an international pariah, only really traveling to Russia and most recently to China.",
+      "zh": "他一直是国际弃儿，真正到访过的只有俄罗斯，最近又去了中国。"
+    },
+    {
+      "id": 82,
+      "startMs": 420320,
+      "endMs": 426720,
+      "en": "But the Southeast Asian governments have kept him at arm's length because he's caused a real crisis for them.",
+      "zh": "但东南亚各国政府一直与他保持距离，因为他给这些国家造成了真正的危机。"
+    },
+    {
+      "id": 83,
+      "startMs": 426880,
+      "endMs": 429520,
+      "en": "Thailand's got a 2,500-kilometer-long border.",
+      "zh": "泰国与缅甸有一条长达 2500 公里的边境线。"
+    },
+    {
+      "id": 84,
+      "startMs": 429600,
+      "endMs": 433700,
+      "en": "A lot of the civil war that was ignited by the coup is spilling over that border,",
+      "zh": "政变引发的内战有相当大一部分正越过这条边境线外溢，"
+    },
+    {
+      "id": 85,
+      "startMs": 434180,
+      "endMs": 443140,
+      "en": "and Min Aung Hlaing has point-blank refused to honor the promises he made after the coup that he would de-escalate violence and start negotiating with the opposition.",
+      "zh": "而敏昂莱断然拒绝履行他在政变后作出的承诺，即缓和暴力并开始与反对派谈判。"
+    },
+    {
+      "id": 86,
+      "startMs": 443620,
+      "endMs": 450820,
+      "en": "But I think there's been a growing sense in several countries, but particularly in Thailand, that Min Aung Hlaing is not going anywhere.",
+      "zh": "但我认为，几个国家越来越意识到，尤其是泰国，敏昂莱不会离开权力中心。"
+    },
+    {
+      "id": 87,
+      "startMs": 451140,
+      "endMs": 459460,
+      "en": "His military regime has regained a lot of the territory that it lost over the last year, thanks in large part to support from China.",
+      "zh": "他的军政权已夺回过去一年间失去的大片领土，这在很大程度上得益于中国的支持。"
+    },
+    {
+      "id": 88,
+      "startMs": 459940,
+      "endMs": 462020,
+      "en": "And his regime is not going to crumble.",
+      "zh": "而且他的政权不会垮台。"
+    },
+    {
+      "id": 89,
+      "startMs": 462020,
+      "endMs": 470180,
+      "en": "And having held this much-criticized election earlier this year and turned himself into a notionally civilian president, he's really cemented his hold on power.",
+      "zh": "今年早些时候，他举行了这场备受批评的选举，并把自己变成名义上的文职总统，从而真正巩固了权力。"
+    },
+    {
+      "id": 90,
+      "startMs": 470580,
+      "endMs": 474420,
+      "en": "And I think the Thai calculus is: we have to deal with him at some point.",
+      "zh": "我认为泰国的盘算是：我们迟早得和他打交道。"
+    },
+    {
+      "id": 91,
+      "startMs": 474580,
+      "endMs": 477380,
+      "en": "You know, we are neighbors, we have a lot of issues to share.",
+      "zh": "你知道，我们是邻国，有很多共同问题需要处理。"
+    },
+    {
+      "id": 92,
+      "startMs": 477700,
+      "endMs": 478820,
+      "en": "We may as well do it now.",
+      "zh": "不如现在就开始。"
+    },
+    {
+      "id": 93,
+      "startMs": 479060,
+      "endMs": 482740,
+      "en": "When we say roll out the red carpet, there was an awful lot of red carpet at Government House.",
+      "zh": "我们说“铺开红毯”时，政府大楼里确实铺了多得惊人的红毯。"
+    },
+    {
+      "id": 94,
+      "startMs": 482980,
+      "endMs": 486500,
+      "en": "There was a full military band and an honor guard and a lot of meetings,",
+      "zh": "现场有完整的军乐队和仪仗队，还有许多场会议，"
+    },
+    {
+      "id": 95,
+      "startMs": 486580,
+      "endMs": 491300,
+      "en": "a lot of business meetings as well, trying to build up the economic ties between the two countries.",
+      "zh": "也有许多商务会议，试图加强两国之间的经济联系。"
+    },
+    {
+      "id": 96,
+      "startMs": 491300,
+      "endMs": 496840,
+      "en": "It feels like business as usual between Thailand and Myanmar after five years of of the civil war.",
+      "zh": "经历五年内战后，泰国和缅甸之间似乎又恢复了往常的交往。"
+    },
+    {
+      "id": 97,
+      "startMs": 497320,
+      "endMs": 501240,
+      "en": "And what will other members of the regional body ASEAN, what will they make of it?",
+      "zh": "那么，地区组织东盟的其他成员国会怎么看这件事？"
+    },
+    {
+      "id": 98,
+      "startMs": 501560,
+      "endMs": 502520,
+      "en": "Some are unhappy.",
+      "zh": "有些国家对此不满。"
+    },
+    {
+      "id": 99,
+      "startMs": 502680,
+      "endMs": 507800,
+      "en": "Governments like Singapore have held out, saying, \"Look, we need to get concessions from Myanmar.",
+      "zh": "新加坡等国政府一直坚持说：“听着，我们需要让缅甸作出让步。"
+    },
+    {
+      "id": 100,
+      "startMs": 507800,
+      "endMs": 514360,
+      "en": "We need to see them doing what they promised five years ago and genuinely trying to de-escalate this war and talking to their opponents.\"",
+      "zh": "我们需要看到他们履行五年前的承诺，真正努力缓和这场战争，并与反对者对话。”"
+    },
+    {
+      "id": 101,
+      "startMs": 514680,
+      "endMs": 516200,
+      "en": "They've gone to war with their own people.",
+      "zh": "他们已经向自己的人民开战。"
+    },
+    {
+      "id": 102,
+      "startMs": 516440,
+      "endMs": 522920,
+      "en": "There are thousands of volunteer armed groups who've taken extraordinary risks to fight the military, but thousands of civilians as well.",
+      "zh": "有成千上万的志愿武装团体冒着巨大风险与军方作战，此外还有成千上万的平民受到波及。"
+    },
+    {
+      "id": 103,
+      "startMs": 522920,
+      "endMs": 524440,
+      "en": "Many have fled to the Thai side.",
+      "zh": "许多人已经逃到泰国一侧。"
+    },
+    {
+      "id": 104,
+      "startMs": 524760,
+      "endMs": 530280,
+      "en": "This is a a military government, essentially, despite the election, which is against its own people,",
+      "zh": "尽管举行了选举，这本质上仍是一个与本国人民为敌的军政府，"
+    },
+    {
+      "id": 105,
+      "startMs": 530360,
+      "endMs": 536520,
+      "en": "and other Southeast Asian countries really want to see some kind of signs of compromise, and the military isn't giving that.",
+      "zh": "其他东南亚国家确实希望看到某种妥协迹象，但军方没有作出任何表示。"
+    },
+    {
+      "id": 106,
+      "startMs": 536760,
+      "endMs": 542840,
+      "en": "So I think there's some dismay that Thailand has jumped so quickly to embrace Myanmar's coup leader",
+      "zh": "因此，我认为人们有些失望，因为泰国如此迅速地接纳了缅甸政变领导人，"
+    },
+    {
+      "id": 107,
+      "startMs": 543160,
+      "endMs": 546440,
+      "en": "rather than trying to extract more concessions from him.",
+      "zh": "而不是设法促使他作出更多让步。"
+    },
+    {
+      "id": 108,
+      "startMs": 546760,
+      "endMs": 549960,
+      "en": "But, you know, the military is extremely stubborn in its mindset.",
+      "zh": "但你知道，军方的思维极其顽固。"
+    },
+    {
+      "id": 109,
+      "startMs": 550120,
+      "endMs": 552280,
+      "en": "Min Aung Hlaing has expressed a lot of indignation.",
+      "zh": "敏昂莱表达了强烈的愤慨。"
+    },
+    {
+      "id": 110,
+      "startMs": 552280,
+      "endMs": 557820,
+      "en": "He says he feels Myanmar's being treated differently from other members of the Association of Southeast Asian Nations,",
+      "zh": "他说，他觉得缅甸受到的对待不同于东南亚国家联盟的其他成员国，"
+    },
+    {
+      "id": 111,
+      "startMs": 558060,
+      "endMs": 562540,
+      "en": "and he hasn't made any concessions in five years of this gruesome civil war.",
+      "zh": "而在这场残酷内战持续的五年中，他没有作出任何让步。"
+    },
+    {
+      "id": 112,
+      "startMs": 562620,
+      "endMs": 565420,
+      "en": "So I think Thailand's calculation is he's probably never going to do it.",
+      "zh": "所以我认为，泰国的判断是他很可能永远不会让步。"
+    },
+    {
+      "id": 113,
+      "startMs": 565500,
+      "endMs": 566620,
+      "en": "We've got to deal with him now.",
+      "zh": "我们现在必须与他打交道。"
+    },
+    {
+      "id": 114,
+      "startMs": 567020,
+      "endMs": 568460,
+      "en": "Jonathan Head in Bangkok.",
+      "zh": "乔纳森·黑德在曼谷报道。"
+    },
+    {
+      "id": 115,
+      "startMs": 569260,
+      "endMs": 576300,
+      "en": "The captain of one of Uganda's biggest football teams has died after being attacked near his home in the capital Kampala.",
+      "zh": "乌干达一家顶级足球俱乐部的队长在首都坎帕拉住所附近遭袭后身亡。"
+    },
+    {
+      "id": 116,
+      "startMs": 576860,
+      "endMs": 580540,
+      "en": "Police said David Owori was fatally assaulted by a street gang.",
+      "zh": "警方称，戴维·奥沃里遭街头团伙致命殴打。"
+    },
+    {
+      "id": 117,
+      "startMs": 580860,
+      "endMs": 586380,
+      "en": "His death has prompted an outpouring of grief and renewed anger over violent crime in Uganda.",
+      "zh": "他的去世引发了汹涌的哀悼，也再次激起人们对乌干达暴力犯罪的愤怒。"
+    },
+    {
+      "id": 118,
+      "startMs": 586780,
+      "endMs": 589740,
+      "en": "Our global affairs reporter Richard Kagoe told me more.",
+      "zh": "我们的全球事务记者理查德·卡戈介绍了更多情况。"
+    },
+    {
+      "id": 119,
+      "startMs": 590300,
+      "endMs": 602220,
+      "en": "The police are saying that Owori had resisted attempts by a group of robbers, so they're describing them as a street gang operating in a suburb in Kampala, just close to his home.",
+      "zh": "警方称，奥沃里曾反抗一群劫匪；警方把这些人描述为一个在坎帕拉郊区、靠近他住所的街头团伙。"
+    },
+    {
+      "id": 120,
+      "startMs": 602220,
+      "endMs": 612860,
+      "en": "So what happened is that he resisted an attempt to steal his mobile phone and other belongings, and as a result of that, he was fatally assaulted.",
+      "zh": "事情的经过是，他反抗了对方抢夺其手机和其他物品的企图，结果遭到致命殴打。"
+    },
+    {
+      "id": 121,
+      "startMs": 613120,
+      "endMs": 616800,
+      "en": "So we don't quite really have the details in terms of really how that transpired,",
+      "zh": "所以，我们并不完全清楚事情究竟是如何发生的，"
+    },
+    {
+      "id": 122,
+      "startMs": 617200,
+      "endMs": 621760,
+      "en": "but then what they say is that he was later found by passersby.",
+      "zh": "但警方称，后来有路人发现了他。"
+    },
+    {
+      "id": 123,
+      "startMs": 621760,
+      "endMs": 626720,
+      "en": "He was lying unconscious, and that they took him to a clinic which was nearby.",
+      "zh": "他当时昏迷倒地，路人把他送到附近一家诊所。"
+    },
+    {
+      "id": 124,
+      "startMs": 626720,
+      "endMs": 633360,
+      "en": "But then they say that they didn't have the capacity to treat him, so he was transferred to a nearby hospital,",
+      "zh": "但据称那家诊所没有能力为他治疗，于是他被转送到附近一家医院，"
+    },
+    {
+      "id": 125,
+      "startMs": 633360,
+      "endMs": 637920,
+      "en": "and unfortunately, he died from his injuries.",
+      "zh": "遗憾的是，他最终伤重不治。"
+    },
+    {
+      "id": 126,
+      "startMs": 638160,
+      "endMs": 643280,
+      "en": "And tell us more about David Owori's sporting prowess and the reaction to his death.",
+      "zh": "请再介绍一下戴维·奥沃里的运动成就，以及人们对他去世的反应。"
+    },
+    {
+      "id": 127,
+      "startMs": 643280,
+      "endMs": 647600,
+      "en": "Well, Owori was a renowned footballer, a very promising star there.",
+      "zh": "奥沃里是一名知名足球运动员，也是一颗非常有前途的新星。"
+    },
+    {
+      "id": 128,
+      "startMs": 647600,
+      "endMs": 650720,
+      "en": "He began his career about a decade ago, you know,",
+      "zh": "你知道，他大约十年前开始了自己的职业生涯，"
+    },
+    {
+      "id": 129,
+      "startMs": 650720,
+      "endMs": 659040,
+      "en": "really starting off from the grassroots level and now rising up even to playing for SC Villa, which is where he was the captain.",
+      "zh": "真正从基层起步，一路成长，最终效力于维拉体育俱乐部，并担任队长。"
+    },
+    {
+      "id": 130,
+      "startMs": 659040,
+      "endMs": 666000,
+      "en": "He also featured in the national team, that's the Ugandan Cranes, in the 2021 Africa Cup of Nations,",
+      "zh": "他还曾代表绰号“乌干达鹤”的国家队参加 2021 年非洲国家杯，"
+    },
+    {
+      "id": 131,
+      "startMs": 666320,
+      "endMs": 672400,
+      "en": "and he was also known to be a very prolific defender, you know, playing across the midfielder thereabouts.",
+      "zh": "他也以出色的防守能力著称，你知道，他还能胜任中场一带的位置。"
+    },
+    {
+      "id": 132,
+      "startMs": 673060,
+      "endMs": 676660,
+      "en": "And there has been really lots of tributes that have been pouring in.",
+      "zh": "各方的悼念确实不断涌来。"
+    },
+    {
+      "id": 133,
+      "startMs": 677060,
+      "endMs": 684740,
+      "en": "We've heard even from his football club, SC Villa, saying that he was indeed not just a player, but they saw him as a leader.",
+      "zh": "他的俱乐部维拉体育俱乐部表示，他的确不只是一名球员，他们还把他视为领袖。"
+    },
+    {
+      "id": 134,
+      "startMs": 684740,
+      "endMs": 693380,
+      "en": "They saw him as a brother, and also the national team saying that he was sort of like an inspiration to a new generation of footballers across Uganda.",
+      "zh": "他们把他视为兄弟；国家队也表示，他可以说激励了乌干达新一代足球运动员。"
+    },
+    {
+      "id": 135,
+      "startMs": 693780,
+      "endMs": 701460,
+      "en": "And it's interesting that even the national parliament yesterday, during one of its sessions, observed a minute's silence just in his honor.",
+      "zh": "值得一提的是，昨天国家议会甚至在一次会议期间为他默哀了一分钟。"
+    },
+    {
+      "id": 136,
+      "startMs": 701860,
+      "endMs": 707540,
+      "en": "So he was somebody who sort of like captured the imagination of Uganda, especially the sporting scene,",
+      "zh": "所以，他可以说是一位令乌干达人深受触动的人物，尤其是在体育界，"
+    },
+    {
+      "id": 137,
+      "startMs": 707540,
+      "endMs": 716340,
+      "en": "and a lot of people really are expressing, you know, anger at just, you know, his death and what really happened to him.",
+      "zh": "许多人确实对他的死亡以及他所遭遇的一切表达了愤怒。"
+    },
+    {
+      "id": 138,
+      "startMs": 716740,
+      "endMs": 722020,
+      "en": "Yeah, I mean, it comes not long after a rugby player was killed there.",
+      "zh": "是的，我是说，就在不久前，那里还有一名橄榄球运动员遇害。"
+    },
+    {
+      "id": 139,
+      "startMs": 722020,
+      "endMs": 724420,
+      "en": "How bad is violent crime in Uganda?",
+      "zh": "乌干达的暴力犯罪问题有多严重？"
+    },
+    {
+      "id": 140,
+      "startMs": 724420,
+      "endMs": 730260,
+      "en": "It's really been a major concern, and it's something that has repeatedly featured in most conversations",
+      "zh": "这确实一直是一个重大关切，也是大多数谈话中反复出现的话题，"
+    },
+    {
+      "id": 141,
+      "startMs": 730340,
+      "endMs": 741880,
+      "en": "because you'd have lots of young people, unfortunately, who have not been able to secure gainful employment, and so a lot of them are really resorting to street and violent crime.",
+      "zh": "因为遗憾的是，许多年轻人找不到有收入的工作，于是其中很多人转而从事街头犯罪和暴力犯罪。"
+    },
+    {
+      "id": 142,
+      "startMs": 741960,
+      "endMs": 748760,
+      "en": "And so this just happening two months after the famous Ugandan rugby player who was killed, it's really raised concern",
+      "zh": "而这起事件发生在那名著名乌干达橄榄球运动员遇害仅两个月后，确实引发了担忧："
+    },
+    {
+      "id": 143,
+      "startMs": 748840,
+      "endMs": 755640,
+      "en": "that, I mean, if notable, prominent people can really also fall victim to this, it's not just the ordinary Ugandan who's going through this.",
+      "zh": "我是说，如果知名的重要人物也确实可能受害，那经历这一切的就不只是普通乌干达人。"
+    },
+    {
+      "id": 144,
+      "startMs": 755640,
+      "endMs": 760920,
+      "en": "And that's why even the Deputy Speaker in the National Assembly really called on the police to address,",
+      "zh": "正因如此，就连国民议会副议长也确实呼吁警方应对，"
+    },
+    {
+      "id": 145,
+      "startMs": 760920,
+      "endMs": 766040,
+      "en": "you know, the wider security challenges in the capital Kampala and even just across the country.",
+      "zh": "你知道，首都坎帕拉乃至全国范围内更广泛的安全挑战。"
+    },
+    {
+      "id": 146,
+      "startMs": 766120,
+      "endMs": 768200,
+      "en": "Richard Kagoe, talking to me from Nairobi.",
+      "zh": "理查德·卡戈从内罗毕接受了我的采访。"
+    },
+    {
+      "id": 147,
+      "startMs": 769380,
+      "endMs": 776740,
+      "en": "With wildfires still raging in Western Europe, North Africa, and Canada, a new study has highlighted the dangers to human health.",
+      "zh": "随着野火继续在西欧、北非和加拿大肆虐，一项新研究凸显了野火对人体健康的危害。"
+    },
+    {
+      "id": 148,
+      "startMs": 777380,
+      "endMs": 780980,
+      "en": "As well as the immediate risk to life from flames and smoke inhalation,",
+      "zh": "除了火焰和吸入烟雾对生命造成的直接威胁外，"
+    },
+    {
+      "id": 149,
+      "startMs": 781140,
+      "endMs": 785300,
+      "en": "Canadian researchers say they can also cause migraine headaches.",
+      "zh": "加拿大研究人员称，野火还可能引发偏头痛。"
+    },
+    {
+      "id": 150,
+      "startMs": 785700,
+      "endMs": 788660,
+      "en": "Our health reporter Laura Foster has been looking at the findings.",
+      "zh": "我们的健康事务记者劳拉·福斯特研究了这些发现。"
+    },
+    {
+      "id": 151,
+      "startMs": 789300,
+      "endMs": 798260,
+      "en": "So, they took various bits of satellite and weather data from Canada, looking at where fires were, how plumes of smoke were traveling during the wildfire season,",
+      "zh": "研究人员收集了加拿大的各种卫星和天气数据，观察火灾发生的位置，以及野火季节烟雾如何飘移，"
+    },
+    {
+      "id": 152,
+      "startMs": 798660,
+      "endMs": 803540,
+      "en": "and they put it all into a computer, which worked out how much the air was filled with very small particles.",
+      "zh": "再把所有数据输入计算机，由它算出空气中充斥着多少极细微的颗粒物。"
+    },
+    {
+      "id": 153,
+      "startMs": 804020,
+      "endMs": 809220,
+      "en": "These are called PM2.5s, and they're called that because they're less than 2.5 micrometers wide.",
+      "zh": "这些颗粒被称为 PM2.5，因为其直径小于 2.5 微米。"
+    },
+    {
+      "id": 154,
+      "startMs": 809780,
+      "endMs": 812260,
+      "en": "To give you some context, if you take a strand of your hair,",
+      "zh": "为了让你有个直观概念，假如取一根头发，"
+    },
+    {
+      "id": 155,
+      "startMs": 812260,
+      "endMs": 817140,
+      "en": "or if you look at a hair on your arm, that's like 1/30th the width of a human hair.",
+      "zh": "或者看看手臂上的汗毛，这种颗粒的宽度大约只有人类头发的三十分之一。"
+    },
+    {
+      "id": 156,
+      "startMs": 817700,
+      "endMs": 821060,
+      "en": "So, it really shows how small they are and how they can get into your system.",
+      "zh": "这足以说明它们有多么微小，以及为何能够进入人体。"
+    },
+    {
+      "id": 157,
+      "startMs": 821620,
+      "endMs": 829300,
+      "en": "And what they did is they compared all that data from wildfire seasons and looked at admissions to emergency departments in Ontario and Alberta.",
+      "zh": "研究人员将野火季节的所有数据进行比较，并查看安大略省和艾伯塔省急诊科的就诊情况。"
+    },
+    {
+      "id": 158,
+      "startMs": 829320,
+      "endMs": 837480,
+      "en": "The researchers found, at the same time, there was also an increase of more than 6% to emergency departments for headaches and migraines.",
+      "zh": "研究人员发现，同期因头痛和偏头痛前往急诊科就诊的人数也增加了 6% 以上。"
+    },
+    {
+      "id": 159,
+      "startMs": 837640,
+      "endMs": 841960,
+      "en": "Because of these tiny PM2.5s, they're so small they can get into our lungs,",
+      "zh": "这些微小的 PM2.5 颗粒尺寸极小，能够进入我们的肺部，"
+    },
+    {
+      "id": 160,
+      "startMs": 842040,
+      "endMs": 848920,
+      "en": "and they contain these toxic compounds that can trigger various stress and inflammation in blood vessels.",
+      "zh": "其中含有的有毒化合物会引发各种应激反应和血管炎症。"
+    },
+    {
+      "id": 161,
+      "startMs": 849160,
+      "endMs": 855480,
+      "en": "And that can carry around our systems, it can activate the nerve pathways, and it leads to these migraines that require emergency care.",
+      "zh": "这些影响会传遍全身，激活神经通路，进而引发需要急诊治疗的偏头痛。"
+    },
+    {
+      "id": 162,
+      "startMs": 855720,
+      "endMs": 863400,
+      "en": "But then there's the second effect of wildfires, in that the stress and anxiety and sleep disruption and behavioral changes",
+      "zh": "但野火还会产生第二重影响：压力、焦虑、睡眠中断和行为变化，"
+    },
+    {
+      "id": 163,
+      "startMs": 863720,
+      "endMs": 870520,
+      "en": "that come about because you're caught up in a wildfire, that also can lead to increased migraines and headaches.",
+      "zh": "这些因身陷野火而出现的变化，也会使偏头痛和头痛增多。"
+    },
+    {
+      "id": 164,
+      "startMs": 870760,
+      "endMs": 872200,
+      "en": "Our health reporter Laura Foster.",
+      "zh": "以上是健康事务记者劳拉·福斯特的报道。"
+    },
+    {
+      "id": 165,
+      "startMs": 874980,
+      "endMs": 876340,
+      "en": "And still to come on this podcast...",
+      "zh": "本期节目稍后还将报道……"
+    },
+    {
+      "id": 166,
+      "startMs": 876900,
+      "endMs": 879460,
+      "en": "Traditional media companies must make this change.",
+      "zh": "传统媒体公司必须作出这种改变。"
+    },
+    {
+      "id": 167,
+      "startMs": 879460,
+      "endMs": 881220,
+      "en": "It is an absolute imperative.",
+      "zh": "这是绝对必要的。"
+    },
+    {
+      "id": 168,
+      "startMs": 881220,
+      "endMs": 882900,
+      "en": "They have to be where the audience is.",
+      "zh": "受众在哪里，他们就必须去哪里。"
+    },
+    {
+      "id": 169,
+      "startMs": 883140,
+      "endMs": 890020,
+      "en": "Short-form storytelling is the coin of the realm for younger audiences and those same audiences as they become older.",
+      "zh": "对于年轻受众，以及这些受众年龄增长之后，短内容叙事都是最重要的传播方式。"
+    },
+    {
+      "id": 170,
+      "startMs": 890500,
+      "endMs": 895060,
+      "en": "Why Disney is giving TikTok users access to its films and TV.",
+      "zh": "迪士尼为何要让 TikTok 用户使用其电影和电视内容。"
+    },
+    {
+      "id": 171,
+      "startMs": 895060,
+      "endMs": 899620,
+      "en": "In the United States, Anthony Fauci was the face of the COVID pandemic.",
+      "zh": "在美国，安东尼·福奇曾是新冠疫情期间的代表人物。"
+    },
+    {
+      "id": 172,
+      "startMs": 899620,
+      "endMs": 906260,
+      "en": "He stood alongside Donald Trump, looking on quizzically as the US President gave his take on how to tackle the virus.",
+      "zh": "当美国总统唐纳德·特朗普发表如何应对病毒的看法时，他站在一旁，神情困惑地看着。"
+    },
+    {
+      "id": 173,
+      "startMs": 906820,
+      "endMs": 911700,
+      "en": "The Chief Medical Adviser later became the bête noire of lockdown and vaccine skeptics.",
+      "zh": "这位首席医疗顾问后来成为反对封锁和质疑疫苗者最憎恶的人物。"
+    },
+    {
+      "id": 174,
+      "startMs": 912100,
+      "endMs": 917780,
+      "en": "Now, a Senate committee has voted on party lines to put him in contempt of Congress.",
+      "zh": "如今，参议院一个委员会按党派立场投票，认定他藐视国会。"
+    },
+    {
+      "id": 175,
+      "startMs": 918260,
+      "endMs": 922900,
+      "en": "The hearing was called after Mr. Fauci refused to answer questions at a hearing on COVID-19.",
+      "zh": "此前，福奇先生在一场有关新冠疫情的听证会上拒绝回答问题，因此召开了这次听证会。"
+    },
+    {
+      "id": 176,
+      "startMs": 922900,
+      "endMs": 926580,
+      "en": "Our White House correspondent Bernd Debusmann is covering the story.",
+      "zh": "我们的白宫记者伯恩德·德布斯曼正在报道此事。"
+    },
+    {
+      "id": 177,
+      "startMs": 926580,
+      "endMs": 927860,
+      "en": "He spoke to Tim Franks.",
+      "zh": "他接受了蒂姆·弗兰克斯的采访。"
+    },
+    {
+      "id": 178,
+      "startMs": 928420,
+      "endMs": 932900,
+      "en": "This vote was from the Senate Homeland Security and Governmental Affairs Committee,",
+      "zh": "这次投票由参议院国土安全和政府事务委员会举行，"
+    },
+    {
+      "id": 179,
+      "startMs": 932900,
+      "endMs": 941460,
+      "en": "and it all stems from a separate hearing that had taken place last week, in which Dr. Fauci was called in to answer questions",
+      "zh": "整件事源自上周举行的另一场听证会，当时福奇博士被传唤到场回答问题，"
+    },
+    {
+      "id": 180,
+      "startMs": 941460,
+      "endMs": 951700,
+      "en": "about his experience during the COVID pandemic, and specifically, many of these lawmakers wanted to drill down on the origins of COVID and how it was handled afterwards.",
+      "zh": "内容涉及他在新冠疫情期间的经历；具体来说，许多议员想深入追问新冠病毒的起源，以及疫情随后是如何处理的。"
+    },
+    {
+      "id": 181,
+      "startMs": 952020,
+      "endMs": 959240,
+      "en": "But during that hearing last week, Dr. Fauci invoked his constitutional right against self-incrimination more than 100 times.",
+      "zh": "但在上周的那场听证会上，福奇博士援引宪法赋予的免于自证其罪权利超过 100 次。"
+    },
+    {
+      "id": 182,
+      "startMs": 959240,
+      "endMs": 968360,
+      "en": "Essentially, he didn't answer any questions, and he sat quite still and just declined to answer questions for hours, including questions, for example,",
+      "zh": "实际上，他没有回答任何问题，只是静静坐着，连续数小时拒绝作答，其中甚至包括这样的问题："
+    },
+    {
+      "id": 183,
+      "startMs": 968680,
+      "endMs": 970360,
+      "en": "\"What color tie are you wearing?\"",
+      "zh": "“你戴的领带是什么颜色？”"
+    },
+    {
+      "id": 184,
+      "startMs": 970760,
+      "endMs": 977560,
+      "en": "Now, the senator who led that effort, Senator Rand Paul from Kentucky, he's held this vote to hold him in contempt,",
+      "zh": "如今，主导此事的肯塔基州参议员兰德·保罗举行了这次投票，要求认定福奇藐视国会，"
+    },
+    {
+      "id": 185,
+      "startMs": 977560,
+      "endMs": 985160,
+      "en": "which means that now that case will be referred to the Justice Department, and it's up to them whether they actually want to prosecute that case.",
+      "zh": "这意味着案件现在将移交司法部，由司法部决定是否真的提起诉讼。"
+    },
+    {
+      "id": 186,
+      "startMs": 985160,
+      "endMs": 988280,
+      "en": "If they do, it would be a misdemeanor with fines,",
+      "zh": "如果司法部提起诉讼，这将属于可能处以罚款的轻罪，"
+    },
+    {
+      "id": 187,
+      "startMs": 988280,
+      "endMs": 994520,
+      "en": "and in extreme cases, in the past, they've sentenced people to brief jail sentences of several months.",
+      "zh": "以往在极端情况下，也有人被判处数月的短期监禁。"
+    },
+    {
+      "id": 188,
+      "startMs": 994520,
+      "endMs": 999080,
+      "en": "Right. And just in terms of process, is it now completely in the hands of the Justice Department,",
+      "zh": "明白。那么仅从程序来看，此事现在是否完全掌握在司法部手中，"
+    },
+    {
+      "id": 189,
+      "startMs": 999080,
+      "endMs": 1002440,
+      "en": "or will they sort of refer it back to a full vote of the Senate?",
+      "zh": "还是会把它交回参议院全体表决？"
+    },
+    {
+      "id": 190,
+      "startMs": 1002440,
+      "endMs": 1010440,
+      "en": "Well, in normal cases, it would go to a full vote of the Senate, where it would require 60 of 100 votes to pass.",
+      "zh": "通常情况下，此事会交由参议院全体表决，需要获得 100 票中的 60 票才能通过。"
+    },
+    {
+      "id": 191,
+      "startMs": 1010760,
+      "endMs": 1015500,
+      "en": "At the moment, there are 53 Republicans in the Senate, which would make that unlikely.",
+      "zh": "目前参议院有 53 名共和党人，因此获得足够票数的可能性不大。"
+    },
+    {
+      "id": 192,
+      "startMs": 1015500,
+      "endMs": 1022700,
+      "en": "So Rand Paul, who's, again, leading this effort, has decided to circumvent that effort, and he's going directly to the Justice Department.",
+      "zh": "因此，再次主导此事的兰德·保罗决定绕过这一程序，直接将案件提交司法部。"
+    },
+    {
+      "id": 193,
+      "startMs": 1022700,
+      "endMs": 1028700,
+      "en": "But at the moment, it's not at all clear that the Justice Department will opt to prosecute Dr. Fauci for this.",
+      "zh": "但目前完全不清楚司法部是否会选择就此事起诉福奇博士。"
+    },
+    {
+      "id": 194,
+      "startMs": 1029180,
+      "endMs": 1039100,
+      "en": "Japan's Prime Minister, Sanae Takaichi, has led commemorations in Hiroshima on the 81st anniversary of the world's first use of nuclear weapons.",
+      "zh": "在世界首次使用核武器 81 周年之际，日本首相高市早苗在广岛主持了纪念活动。"
+    },
+    {
+      "id": 195,
+      "startMs": 1039500,
+      "endMs": 1046940,
+      "en": "140,000 people died when the US dropped an atomic bomb on the city as part of efforts to end the Second World War.",
+      "zh": "美国为结束第二次世界大战而向这座城市投下原子弹，造成 14 万人死亡。"
+    },
+    {
+      "id": 196,
+      "startMs": 1047340,
+      "endMs": 1051580,
+      "en": "In her address, Ms. Takaichi reaffirmed Japan's non-nuclear principles.",
+      "zh": "高市女士在讲话中重申了日本的无核三原则。"
+    },
+    {
+      "id": 197,
+      "startMs": 1051980,
+      "endMs": 1053500,
+      "en": "So, how significant is that?",
+      "zh": "那么，这有多重要？"
+    },
+    {
+      "id": 198,
+      "startMs": 1053500,
+      "endMs": 1056060,
+      "en": "Here's our Tokyo correspondent Kurumi Mori.",
+      "zh": "以下是驻东京记者森久留美的报道。"
+    },
+    {
+      "id": 199,
+      "startMs": 1056620,
+      "endMs": 1059900,
+      "en": "This message carries particular weight this year.",
+      "zh": "这一表态在今年具有格外重要的分量。"
+    },
+    {
+      "id": 200,
+      "startMs": 1059900,
+      "endMs": 1064140,
+      "en": "Japan is set to revise its key national security strategy later this year,",
+      "zh": "日本计划在今年晚些时候修订其重要的国家安全战略，"
+    },
+    {
+      "id": 201,
+      "startMs": 1064140,
+      "endMs": 1071340,
+      "en": "and that's prompting questions over whether its long-standing commitment to those principles could face new pressure.",
+      "zh": "这引发了疑问：日本长期坚持这些原则的承诺是否会面临新的压力。"
+    },
+    {
+      "id": 202,
+      "startMs": 1071340,
+      "endMs": 1076240,
+      "en": "This comes at a time when we're seeing East Asia's rapidly changing security environment.",
+      "zh": "与此同时，东亚的安全环境正在迅速变化。"
+    },
+    {
+      "id": 203,
+      "startMs": 1076320,
+      "endMs": 1080720,
+      "en": "And Takaichi did not address those concerns directly in her speech.",
+      "zh": "高市在讲话中没有直接回应这些担忧。"
+    },
+    {
+      "id": 204,
+      "startMs": 1080880,
+      "endMs": 1087760,
+      "en": "And instead, she stressed Japan's responsibility as the only country to have suffered atomic bombings in war",
+      "zh": "相反，她强调，日本作为唯一在战争中遭受过原子弹轰炸的国家，肩负着特殊责任，"
+    },
+    {
+      "id": 205,
+      "startMs": 1087840,
+      "endMs": 1093200,
+      "en": "and renewed that commitment to pursue a world with no nuclear weapons.",
+      "zh": "并重申了追求无核武器世界的承诺。"
+    },
+    {
+      "id": 206,
+      "startMs": 1093200,
+      "endMs": 1097440,
+      "en": "But the issue has become increasingly sensitive in Japan.",
+      "zh": "但这个问题在日本正变得愈发敏感。"
+    },
+    {
+      "id": 207,
+      "startMs": 1097440,
+      "endMs": 1104720,
+      "en": "Online, some questioned whether Takaichi, who is widely regarded as having a more hawkish national security stance,",
+      "zh": "网上有人质疑，被普遍认为在国家安全问题上立场更强硬的高市，"
+    },
+    {
+      "id": 208,
+      "startMs": 1104720,
+      "endMs": 1111520,
+      "en": "will maintain that pledge as the regional tensions just grow further and defense spending here continues to rise.",
+      "zh": "会不会在地区紧张局势进一步加剧、国内防务开支持续上升之际继续信守这项承诺。"
+    },
+    {
+      "id": 209,
+      "startMs": 1111840,
+      "endMs": 1117520,
+      "en": "You know, for many in Hiroshima, the ceremony is less about politics than about remembrance.",
+      "zh": "你知道，对许多广岛人而言，这场仪式与其说关乎政治，不如说关乎铭记。"
+    },
+    {
+      "id": 210,
+      "startMs": 1117520,
+      "endMs": 1123440,
+      "en": "As the number of atomic bomb survivors continues to decline in Japan, there's this growing urgency",
+      "zh": "随着日本原子弹爆炸幸存者的人数不断减少，人们越来越迫切地希望，"
+    },
+    {
+      "id": 211,
+      "startMs": 1123760,
+      "endMs": 1129860,
+      "en": "to preserve their testimony and ensure that lessons of Hiroshima, make sure that they are not forgotten.",
+      "zh": "保存他们的证词，并确保广岛的教训——确保这些教训不会被遗忘。"
+    },
+    {
+      "id": 212,
+      "startMs": 1130100,
+      "endMs": 1131860,
+      "en": "Kurumi Mori in Tokyo.",
+      "zh": "森久留美在东京报道。"
+    },
+    {
+      "id": 213,
+      "startMs": 1132020,
+      "endMs": 1138660,
+      "en": "Indonesia is resuming the export of long-tailed macaques for use in laboratory experiments after a four-year pause.",
+      "zh": "在暂停四年后，印度尼西亚正恢复出口用于实验室试验的长尾猕猴。"
+    },
+    {
+      "id": 214,
+      "startMs": 1139060,
+      "endMs": 1143780,
+      "en": "Animal welfare groups have strongly condemned the move, saying it threatens the monkeys' survival.",
+      "zh": "动物福利组织强烈谴责这一举措，称其威胁这些猴子的生存。"
+    },
+    {
+      "id": 215,
+      "startMs": 1144260,
+      "endMs": 1148020,
+      "en": "Our correspondent in Jakarta, Liza Tambunan, told me more.",
+      "zh": "驻雅加达记者莉萨·坦布南介绍了更多情况。"
+    },
+    {
+      "id": 216,
+      "startMs": 1148580,
+      "endMs": 1156980,
+      "en": "If we go back to 2022, the IUCN updated the status of the long-tailed macaques from vulnerable to endangered.",
+      "zh": "回到 2022 年，世界自然保护联盟将长尾猕猴的保护等级从“易危”上调为“濒危”。"
+    },
+    {
+      "id": 217,
+      "startMs": 1157300,
+      "endMs": 1164740,
+      "en": "And in Indonesia, there was growing pressure from animal welfare groups campaigning against the capture and live export of these macaques.",
+      "zh": "在印度尼西亚，动物福利组织反对捕捉和活体出口这些猕猴的行动带来了越来越大的压力。"
+    },
+    {
+      "id": 218,
+      "startMs": 1165220,
+      "endMs": 1172100,
+      "en": "This pressure prompted the Indonesian authorities to pause wild-captured quotas and also halt export permits",
+      "zh": "这种压力促使印度尼西亚当局暂停野外捕捉配额，并停止发放出口许可证，"
+    },
+    {
+      "id": 219,
+      "startMs": 1172100,
+      "endMs": 1179620,
+      "en": "in order to align with international compliance and prevent further depletion of wild monkeys.",
+      "zh": "以遵守国际规范，并防止野生猴群数量进一步减少。"
+    },
+    {
+      "id": 220,
+      "startMs": 1180360,
+      "endMs": 1187800,
+      "en": "Since then, there have been discussions with CITES, which is the international regulator of trade in endangered species.",
+      "zh": "此后，印尼一直与濒危野生动植物种国际贸易公约组织 CITES 进行讨论，该组织负责监管濒危物种国际贸易。"
+    },
+    {
+      "id": 221,
+      "startMs": 1188120,
+      "endMs": 1195080,
+      "en": "And this year, Indonesia was allocated by CITES almost 2,000 monkeys for export.",
+      "zh": "今年，CITES 向印度尼西亚分配了近 2000 只猴子的出口配额。"
+    },
+    {
+      "id": 222,
+      "startMs": 1195560,
+      "endMs": 1200680,
+      "en": "Okay. Why are these creatures in demand for testing?",
+      "zh": "好。为什么试验会需要这些动物？"
+    },
+    {
+      "id": 223,
+      "startMs": 1202020,
+      "endMs": 1203380,
+      "en": "There are two sides to this.",
+      "zh": "这件事有两个方面。"
+    },
+    {
+      "id": 224,
+      "startMs": 1203620,
+      "endMs": 1205140,
+      "en": "On one side is the medical one.",
+      "zh": "一方面是医学需求。"
+    },
+    {
+      "id": 225,
+      "startMs": 1205140,
+      "endMs": 1213460,
+      "en": "So, long-tailed macaques are the most widely used non-human primates in biomedical research globally.",
+      "zh": "长尾猕猴是全球生物医学研究中使用最广泛的非人灵长类动物。"
+    },
+    {
+      "id": 226,
+      "startMs": 1213780,
+      "endMs": 1219060,
+      "en": "And past research shows their immune system reacts similarly to the human immune system.",
+      "zh": "以往研究显示，它们的免疫系统反应与人类免疫系统相似。"
+    },
+    {
+      "id": 227,
+      "startMs": 1219140,
+      "endMs": 1225620,
+      "en": "This makes these monkeys what researchers say are ideal models for testing vaccines and treatments for viruses.",
+      "zh": "因此研究人员认为，这些猴子是测试疫苗和病毒治疗方法的理想模型。"
+    },
+    {
+      "id": 228,
+      "startMs": 1225940,
+      "endMs": 1227780,
+      "en": "On the other side is a financial one.",
+      "zh": "另一方面则是经济利益。"
+    },
+    {
+      "id": 229,
+      "startMs": 1227860,
+      "endMs": 1237700,
+      "en": "Indonesian officials justified the trade by highlighting lucrative research demand from the US, especially as one of its biggest markets.",
+      "zh": "印度尼西亚官员以美国利润丰厚的科研需求为依据，为这项贸易辩护，因为美国是其最大的市场之一。"
+    },
+    {
+      "id": 230,
+      "startMs": 1238100,
+      "endMs": 1249700,
+      "en": "And there are also ongoing negotiations with China where, according to Indonesian officials, the demand is double the US for its potential market value,",
+      "zh": "印尼还在与中国进行谈判；据印尼官员称，就潜在市场价值而言，中国的需求是美国的两倍，"
+    },
+    {
+      "id": 231,
+      "startMs": 1250100,
+      "endMs": 1259780,
+      "en": "with demand estimated to reach up to 20,000 macaques annually at prices between 3,000 and 4,000 US dollars per animal.",
+      "zh": "预计每年需求量最高可达 2 万只猕猴，每只价格在 3000 至 4000 美元之间。"
+    },
+    {
+      "id": 232,
+      "startMs": 1259940,
+      "endMs": 1264040,
+      "en": "And briefly, is there any opposition in Indonesia to this export trade?",
+      "zh": "简短问一下，印度尼西亚国内是否有人反对这项出口贸易？"
+    },
+    {
+      "id": 233,
+      "startMs": 1264120,
+      "endMs": 1267160,
+      "en": "Yes. Animal welfare groups strongly condemn this move.",
+      "zh": "有。动物福利组织强烈谴责这一举措。"
+    },
+    {
+      "id": 234,
+      "startMs": 1267240,
+      "endMs": 1270040,
+      "en": "They warn it threatens the species' survival, as you said earlier.",
+      "zh": "正如你先前所说，他们警告称，这会威胁该物种的生存。"
+    },
+    {
+      "id": 235,
+      "startMs": 1270280,
+      "endMs": 1273160,
+      "en": "Indonesian authorities insist the process is strictly regulated,",
+      "zh": "印度尼西亚当局坚称，这一过程受到严格监管，"
+    },
+    {
+      "id": 236,
+      "startMs": 1273160,
+      "endMs": 1280520,
+      "en": "but animal welfare groups are saying this is a setback for the protection of long-tailed macaques, which are native to Indonesia.",
+      "zh": "但动物福利组织表示，这对保护原产于印度尼西亚的长尾猕猴而言是一种倒退。"
+    },
+    {
+      "id": 237,
+      "startMs": 1281000,
+      "endMs": 1287800,
+      "en": "These groups are now urging Indonesia to suspend exports and shift toward modern, non-animal testing alternatives.",
+      "zh": "这些组织现在敦促印度尼西亚暂停出口，转向现代化的非动物试验替代方案。"
+    },
+    {
+      "id": 238,
+      "startMs": 1288040,
+      "endMs": 1290520,
+      "en": "Our correspondent in Indonesia, Liza Tambunan.",
+      "zh": "以上是驻印度尼西亚记者莉萨·坦布南的报道。"
+    },
+    {
+      "id": 239,
+      "startMs": 1291580,
+      "endMs": 1295420,
+      "en": "Disney characters could soon become official TikTok stars.",
+      "zh": "迪士尼角色可能很快成为 TikTok 的官方明星。"
+    },
+    {
+      "id": 240,
+      "startMs": 1295820,
+      "endMs": 1298060,
+      "en": "It follows what's been called a first-of-its-kind deal",
+      "zh": "此前双方达成了一项被称为首创的协议，"
+    },
+    {
+      "id": 241,
+      "startMs": 1298060,
+      "endMs": 1300700,
+      "en": "between the Hollywood studio and the video-sharing platform.",
+      "zh": "协议双方是这家好莱坞制片厂和该视频分享平台。"
+    },
+    {
+      "id": 242,
+      "startMs": 1311800,
+      "endMs": 1314360,
+      "en": "Hulk! Good to finally meet you, guys.",
+      "zh": "浩克！终于见到你们了，各位。"
+    },
+    {
+      "id": 243,
+      "startMs": 1315640,
+      "endMs": 1317160,
+      "en": "You're even more handsome in person.",
+      "zh": "你本人甚至更帅。"
+    },
+    {
+      "id": 244,
+      "startMs": 1318100,
+      "endMs": 1319220,
+      "en": "Iron Man! Dude, what are you doing off of the bench?",
+      "zh": "钢铁侠！老兄，你怎么离开替补席了？"
+    },
+    {
+      "id": 245,
+      "startMs": 1320820,
+      "endMs": 1327620,
+      "en": "Move over and listen. Do you know who you are? The story's true?",
+      "zh": "让开，听着。你知道自己是谁吗？传说是真的？"
+    },
+    {
+      "id": 246,
+      "startMs": 1327620,
+      "endMs": 1331380,
+      "en": "The story has just begun.",
+      "zh": "故事才刚刚开始。"
+    },
+    {
+      "id": 247,
+      "startMs": 1332920,
+      "endMs": 1339080,
+      "en": "Under the agreement, characters like Darth Vader, Spider-Man, and Moana from Disney films and its subsidiaries",
+      "zh": "根据协议，迪士尼及其子公司电影中的达斯·维达、蜘蛛侠和莫阿娜等角色，"
+    },
+    {
+      "id": 248,
+      "startMs": 1339320,
+      "endMs": 1344120,
+      "en": "will be allowed in TikTok videos, which will in turn be shared on the Disney+ app.",
+      "zh": "将获准出现在 TikTok 视频中，而这些视频随后会分享到 Disney+ 应用。"
+    },
+    {
+      "id": 249,
+      "startMs": 1344600,
+      "endMs": 1350280,
+      "en": "Disney said the move reflects how fans are engaging with its stories in, quote, \"entirely new ways\".",
+      "zh": "迪士尼表示，此举反映了粉丝正以其所谓“全新的方式”参与和体验旗下故事。"
+    },
+    {
+      "id": 250,
+      "startMs": 1350760,
+      "endMs": 1355640,
+      "en": "Kevin Mayer is a former senior Disney executive who also once served as the boss of TikTok.",
+      "zh": "凯文·梅耶尔曾是迪士尼高管，也曾担任 TikTok 负责人。"
+    },
+    {
+      "id": 251,
+      "startMs": 1356040,
+      "endMs": 1358040,
+      "en": "I think that Disney has seen the light.",
+      "zh": "我认为迪士尼已经看明白了。"
+    },
+    {
+      "id": 252,
+      "startMs": 1358120,
+      "endMs": 1365320,
+      "en": "I know they have, actually, about the permanence and the importance of this creator-led economy and the vertical video that comes from that.",
+      "zh": "实际上，我知道他们已经认识到这种创作者主导型经济的持久性和重要性，以及由此产生的竖屏视频的重要性。"
+    },
+    {
+      "id": 253,
+      "startMs": 1365560,
+      "endMs": 1369800,
+      "en": "So, they have to find a way to combine these experiences. And look, Disney+ is the way to do it.",
+      "zh": "所以，他们必须找到一种方式把这些体验结合起来。你看，Disney+ 正是实现这一点的途径。"
+    },
+    {
+      "id": 254,
+      "startMs": 1370040,
+      "endMs": 1374040,
+      "en": "I don't think Disney+ is going to end up being a social media storytelling operation.",
+      "zh": "我不认为 Disney+ 最终会变成一个在社交媒体上讲故事的平台。"
+    },
+    {
+      "id": 255,
+      "startMs": 1374040,
+      "endMs": 1378760,
+      "en": "It's still going to be based on and focused on the storytelling that they've been doing for decades.",
+      "zh": "它仍将以迪士尼几十年来一直从事的故事创作为基础和重心。"
+    },
+    {
+      "id": 256,
+      "startMs": 1378840,
+      "endMs": 1381720,
+      "en": "But this new component will open up a different avenue, different use cases.",
+      "zh": "但这一新组成部分将开辟不同的途径，带来不同的使用场景。"
+    },
+    {
+      "id": 257,
+      "startMs": 1381880,
+      "endMs": 1385080,
+      "en": "The change in consumer behavior is impossible to overstate.",
+      "zh": "消费者行为的变化怎么强调都不为过。"
+    },
+    {
+      "id": 258,
+      "startMs": 1385160,
+      "endMs": 1392940,
+      "en": "For users that are 13 and younger, 75% of their usage of media is on social media platforms, YouTube and TikTok especially,",
+      "zh": "对于 13 岁及以下的用户，他们 75% 的媒体使用时间花在社交媒体平台上，尤其是 YouTube 和 TikTok，"
+    },
+    {
+      "id": 259,
+      "startMs": 1393100,
+      "endMs": 1394860,
+      "en": "and video games, I should throw that in there, too.",
+      "zh": "还有电子游戏，我也应该把这一项算进去。"
+    },
+    {
+      "id": 260,
+      "startMs": 1395020,
+      "endMs": 1401020,
+      "en": "Only 25% of those young person's time is spent with TV shows that are either streamed or on a TV channel,",
+      "zh": "这些年轻人只有 25% 的时间用在电视节目上，无论是流媒体节目还是电视频道播出的节目，"
+    },
+    {
+      "id": 261,
+      "startMs": 1401020,
+      "endMs": 1404140,
+      "en": "more and more streaming, obviously, and movies, including theatrical releases.",
+      "zh": "当然，流媒体占比越来越高；此外还有电影，包括院线电影。"
+    },
+    {
+      "id": 262,
+      "startMs": 1404140,
+      "endMs": 1408300,
+      "en": "So, there's been a dramatic shift in where the audience wants to be",
+      "zh": "因此，受众希望在哪里观看内容，已经发生了巨大变化，"
+    },
+    {
+      "id": 263,
+      "startMs": 1408300,
+      "endMs": 1412380,
+      "en": "and where the audience wants to interact with not only Disney programming, but all programming.",
+      "zh": "受众希望在哪里与内容互动也发生了巨大变化，不仅是迪士尼内容，而是所有内容。"
+    },
+    {
+      "id": 264,
+      "startMs": 1412460,
+      "endMs": 1415100,
+      "en": "Traditional media companies must make this change.",
+      "zh": "传统媒体公司必须作出这种改变。"
+    },
+    {
+      "id": 265,
+      "startMs": 1415260,
+      "endMs": 1416860,
+      "en": "It is an absolute imperative.",
+      "zh": "这是绝对必要的。"
+    },
+    {
+      "id": 266,
+      "startMs": 1416860,
+      "endMs": 1418540,
+      "en": "They have to be where the audience is.",
+      "zh": "受众在哪里，他们就必须去哪里。"
+    },
+    {
+      "id": 267,
+      "startMs": 1418780,
+      "endMs": 1423020,
+      "en": "They have to tell stories in a way that this new audience likes those stories being told.",
+      "zh": "他们必须采用这种新受众喜欢的方式来讲故事。"
+    },
+    {
+      "id": 268,
+      "startMs": 1423020,
+      "endMs": 1424940,
+      "en": "And this extends to sports and ESPN as well.",
+      "zh": "这也适用于体育内容和 ESPN。"
+    },
+    {
+      "id": 269,
+      "startMs": 1425020,
+      "endMs": 1431900,
+      "en": "Short-form storytelling is the coin of the realm for younger audiences, and those same audiences as they become older.",
+      "zh": "对于年轻受众，以及这些受众年龄增长之后，短内容叙事都是最重要的传播方式。"
+    },
+    {
+      "id": 270,
+      "startMs": 1432060,
+      "endMs": 1437100,
+      "en": "That math has already shown that. Audiences hang on to this usage paradigm as they get older.",
+      "zh": "数据已经证明了这一点。受众年龄增长后仍会保留这种媒体使用模式。"
+    },
+    {
+      "id": 271,
+      "startMs": 1437260,
+      "endMs": 1438540,
+      "en": "So, Disney has to do it.",
+      "zh": "所以，迪士尼必须这样做。"
+    },
+    {
+      "id": 272,
+      "startMs": 1438620,
+      "endMs": 1440860,
+      "en": "And could it fall flat? Certainly possible.",
+      "zh": "那么，它有没有可能失败？当然有可能。"
+    },
+    {
+      "id": 273,
+      "startMs": 1440940,
+      "endMs": 1444140,
+      "en": "Could they iterate a bunch of times and see what works and what doesn't,",
+      "zh": "他们能否反复迭代，看看哪些方法有效、哪些无效，"
+    },
+    {
+      "id": 274,
+      "startMs": 1444220,
+      "endMs": 1450540,
+      "en": "and ultimately come up with a product that doesn't fall flat, that takes advantage of this interaction with their creators in a very robust and fan-friendly way?",
+      "zh": "最终开发出一款不会失败的产品，以稳健且对粉丝友好的方式充分利用与创作者的这种互动？"
+    },
+    {
+      "id": 275,
+      "startMs": 1450780,
+      "endMs": 1452540,
+      "en": "Likely, I think. Disney is really good about this.",
+      "zh": "我认为很有可能。迪士尼很擅长这件事。"
+    },
+    {
+      "id": 276,
+      "startMs": 1452480,
+      "endMs": 1455360,
+      "en": "The biggest risk there is, is not doing this.",
+      "zh": "这里最大的风险，就是不去做这件事。"
+    },
+    {
+      "id": 277,
+      "startMs": 1455600,
+      "endMs": 1457360,
+      "en": "Entertainment analyst Kevin Mayer.",
+      "zh": "以上是娱乐业分析师凯文·梅耶尔的观点。"
+    },
+    {
+      "id": 278,
+      "startMs": 1458080,
+      "endMs": 1467120,
+      "en": "Finally, a 97-year-old woman here in the UK has broken her own Guinness World Record to become the oldest person to complete a wing walk.",
+      "zh": "最后，英国一名 97 岁女性打破了自己保持的吉尼斯世界纪录，成为完成机翼行走年龄最大的人。"
+    },
+    {
+      "id": 279,
+      "startMs": 1467600,
+      "endMs": 1470240,
+      "en": "Betty Bromage started doing the stunts a decade ago.",
+      "zh": "贝蒂·布罗梅奇十年前开始进行这类特技。"
+    },
+    {
+      "id": 280,
+      "startMs": 1470480,
+      "endMs": 1471920,
+      "en": "Steve Knibbs has the story.",
+      "zh": "史蒂夫·尼布斯带来报道。"
+    },
+    {
+      "id": 281,
+      "startMs": 1475220,
+      "endMs": 1479380,
+      "en": "Betty's back. 97 years young and taking to the skies again.",
+      "zh": "贝蒂回来了。97 岁依然年轻，再次飞上天空。"
+    },
+    {
+      "id": 282,
+      "startMs": 1479620,
+      "endMs": 1482500,
+      "en": "I just get bored with life otherwise.",
+      "zh": "不然的话，我就是觉得生活很无聊。"
+    },
+    {
+      "id": 283,
+      "startMs": 1482900,
+      "endMs": 1487860,
+      "en": "When you get old, you can't go here, you can't do this, you can't drive, you can't see.",
+      "zh": "人老了以后，这里不能去，那件事不能做，不能开车，也看不见。"
+    },
+    {
+      "id": 284,
+      "startMs": 1487940,
+      "endMs": 1491140,
+      "en": "I can't see very well, and I get a bit frustrated.",
+      "zh": "我的视力不太好，这让我有点沮丧。"
+    },
+    {
+      "id": 285,
+      "startMs": 1491620,
+      "endMs": 1493620,
+      "en": "So I want to do the things that I can do.",
+      "zh": "所以，我想做那些自己还能做的事。"
+    },
+    {
+      "id": 286,
+      "startMs": 1494980,
+      "endMs": 1497540,
+      "en": "Up in the air, Betty's at home, in her element.",
+      "zh": "到了空中，贝蒂如在家中一般自在，完全进入了自己的状态。"
+    },
+    {
+      "id": 287,
+      "startMs": 1497940,
+      "endMs": 1502900,
+      "en": "On the ground, her friends and neighbors from her retirement village in Cheltenham watch on nervously.",
+      "zh": "在地面上，来自切尔滕纳姆养老社区的朋友和邻居紧张地看着。"
+    },
+    {
+      "id": 288,
+      "startMs": 1503600,
+      "endMs": 1508960,
+      "en": "Oh, Betty! What's it like watching her doing those loop-the-loops in the air?",
+      "zh": "噢，贝蒂！看着她在空中做那些筋斗是什么感觉？"
+    },
+    {
+      "id": 289,
+      "startMs": 1509680,
+      "endMs": 1511680,
+      "en": "Awful. I was here four years ago. Awful.",
+      "zh": "太难受了。我四年前也在这里。太难受了。"
+    },
+    {
+      "id": 290,
+      "startMs": 1513460,
+      "endMs": 1515460,
+      "en": "Makes you want to cry, but yeah, she's gone on fantastic.",
+      "zh": "让人想哭，不过，是的，她飞得太棒了。"
+    },
+    {
+      "id": 291,
+      "startMs": 1515460,
+      "endMs": 1516580,
+      "en": "Yeah, so proud of her.",
+      "zh": "是的，真为她骄傲。"
+    },
+    {
+      "id": 292,
+      "startMs": 1516820,
+      "endMs": 1522420,
+      "en": "It's incredible. I mean, she's partially sighted, in fact almost blind, and yet she can do this.",
+      "zh": "太不可思议了。她的视力部分受损，事实上几乎失明，却仍能完成这件事。"
+    },
+    {
+      "id": 293,
+      "startMs": 1522500,
+      "endMs": 1527940,
+      "en": "This isn't the first time she's done something like this, but at her age, it's just amazing, isn't it?",
+      "zh": "这不是她第一次做这种事，但以她的年龄来说，实在太惊人了，不是吗？"
+    },
+    {
+      "id": 294,
+      "startMs": 1528260,
+      "endMs": 1529860,
+      "en": "So, no, she's a wonder.",
+      "zh": "所以，是的，她真是个奇人。"
+    },
+    {
+      "id": 295,
+      "startMs": 1530920,
+      "endMs": 1533800,
+      "en": "Betty started all this 10 years ago at the age of 87.",
+      "zh": "贝蒂十年前、也就是 87 岁时开始了这一切。"
+    },
+    {
+      "id": 296,
+      "startMs": 1533880,
+      "endMs": 1538600,
+      "en": "She's since abseiled down a tower in Cheltenham and took on a zipwire in Snowdonia.",
+      "zh": "此后，她曾从切尔滕纳姆的一座塔上沿绳下降，还在斯诺登尼亚挑战过滑索。"
+    },
+    {
+      "id": 297,
+      "startMs": 1538920,
+      "endMs": 1543880,
+      "en": "And today, she pushed the envelope even further, asking the pilot to throw in a barrel roll.",
+      "zh": "今天，她进一步挑战极限，请飞行员加做一个桶滚动作。"
+    },
+    {
+      "id": 298,
+      "startMs": 1547240,
+      "endMs": 1553000,
+      "en": "Oh, my God. Oh, my God. She's explained to me inside that it's something that she really is keen to do, even at her age.",
+      "zh": "噢，天哪。噢，天哪。她在里面向我说明，即使到了这个年纪，这仍是她非常想做的事。"
+    },
+    {
+      "id": 299,
+      "startMs": 1553080,
+      "endMs": 1557240,
+      "en": "So, so I just think it's absolutely fantastic. And for me, it's such a privilege to be able to do that.",
+      "zh": "所以，所以我觉得这实在太棒了。对我来说，能够完成这件事是一种莫大的荣幸。"
+    },
+    {
+      "id": 300,
+      "startMs": 1558200,
+      "endMs": 1561400,
+      "en": "All of this was done to raise money for the stroke unit in Cheltenham.",
+      "zh": "这一切都是为了给切尔滕纳姆的卒中治疗部门筹款。"
+    },
+    {
+      "id": 301,
+      "startMs": 1561480,
+      "endMs": 1564280,
+      "en": "They helped Betty when she had a stroke last year.",
+      "zh": "贝蒂去年中风时，正是他们帮助了她。"
+    },
+    {
+      "id": 302,
+      "startMs": 1564760,
+      "endMs": 1567560,
+      "en": "So kind to me, and straight away, the treatment I got.",
+      "zh": "他们对我太好了，而且立刻就为我进行了治疗。"
+    },
+    {
+      "id": 303,
+      "startMs": 1569860,
+      "endMs": 1571220,
+      "en": "It's affected my words.",
+      "zh": "中风影响了我的说话能力。"
+    },
+    {
+      "id": 304,
+      "startMs": 1571540,
+      "endMs": 1578260,
+      "en": "I'd go to say a word and it doesn't always come out, but the rest of me, I'm fit as a fiddle. Well, for a 97-year-old.",
+      "zh": "我想说一个词时，它不一定总能说出口，但身体其他方面，我健康得很。嗯，以一个 97 岁的人来说。"
+    },
+    {
+      "id": 305,
+      "startMs": 1579960,
+      "endMs": 1583480,
+      "en": "Today, the staff sent her a good luck message, grateful for the support.",
+      "zh": "今天，工作人员向她送上祝福，感谢她的支持。"
+    },
+    {
+      "id": 306,
+      "startMs": 1587600,
+      "endMs": 1592240,
+      "en": "Thank you, Betty! Good luck from the stroke team! Back on the ground, Betty took it all in her stride.",
+      "zh": "谢谢你，贝蒂！卒中治疗团队祝你好运！回到地面后，贝蒂从容地接受了这一切。"
+    },
+    {
+      "id": 307,
+      "startMs": 1592560,
+      "endMs": 1597920,
+      "en": "with confirmation that she broke her own world record yet again as the oldest female wing walker.",
+      "zh": "随后确认，她再次刷新了自己保持的世界纪录，继续成为年龄最大的女性机翼行走者。"
+    },
+    {
+      "id": 308,
+      "startMs": 1598400,
+      "endMs": 1599840,
+      "en": "Steve Knibbs, reporting.",
+      "zh": "史蒂夫·尼布斯报道。"
+    },
+    {
+      "id": 309,
+      "startMs": 1602960,
+      "endMs": 1607040,
+      "en": "That is all from us for now, but the Global News Podcast will be back very soon.",
+      "zh": "本期节目到此结束，《全球新闻播客》很快将再次与您见面。"
+    },
+    {
+      "id": 310,
+      "startMs": 1607040,
+      "endMs": 1612000,
+      "en": "This edition was mixed by Jack Wilfan and produced by Alfie Habershon and Stephanie Zakrisson.",
+      "zh": "本期节目由杰克·威尔范混音，阿尔菲·哈伯申和斯蒂芬妮·扎克里松制作。"
+    },
+    {
+      "id": 311,
+      "startMs": 1612080,
+      "endMs": 1613600,
+      "en": "Our editor is Karen Martin.",
+      "zh": "编辑是卡伦·马丁。"
+    },
+    {
+      "id": 312,
+      "startMs": 1613680,
+      "endMs": 1614720,
+      "en": "I'm Oliver Conway.",
+      "zh": "我是奥利弗·康韦。"
+    },
+    {
+      "id": 313,
+      "startMs": 1614960,
+      "endMs": 1616080,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
