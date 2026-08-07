@@ -1,0 +1,2181 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "7 August 2026 · Morning Edition"
+  },
+  "durationMs": 1779980,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4000,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 国际台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6420,
+      "endMs": 11540,
+      "en": "I'm Charlotte Gallagher, and in the early hours of Friday, the 7th of August, these are our main stories.",
+      "zh": "我是夏洛特·加拉格尔。现在是 8 月 7 日星期五凌晨，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11940,
+      "endMs": 21060,
+      "en": "Scientists say they've used AI to create completely new viruses, which could develop new medicines, but there's concern the technology might cause harm.",
+      "zh": "科学家称，他们利用人工智能创造出了全新的病毒，这可能推动新药研发，但也有人担心该技术可能造成危害。"
+    },
+    {
+      "id": 4,
+      "startMs": 21700,
+      "endMs": 30100,
+      "en": "A US court has fined Meta more than half a billion dollars in the largest case yet against the social media giant over child safety.",
+      "zh": "一家美国法院判处 Meta 超过 5 亿美元罚款，这是迄今针对这家社交媒体巨头儿童安全问题的最大一宗案件。"
+    },
+    {
+      "id": 5,
+      "startMs": 30660,
+      "endMs": 35460,
+      "en": "And President Trump pushes back on claims that the US is running out of some weapons.",
+      "zh": "特朗普总统反驳了美国某些武器即将耗尽的说法。"
+    },
+    {
+      "id": 6,
+      "startMs": 38700,
+      "endMs": 46700,
+      "en": "Also in this podcast, a kneecap stolen from Glastonbury Abbey 70 years ago is returned, but whose is it?",
+      "zh": "本期节目还将报道，一块 70 年前从格拉斯顿伯里修道院被盗的髌骨失而复得，但它究竟属于谁？"
+    },
+    {
+      "id": 7,
+      "startMs": 47260,
+      "endMs": 51140,
+      "en": "We've got it narrowed down to about three possibilities.",
+      "zh": "我们已将范围缩小到大约三种可能。"
+    },
+    {
+      "id": 8,
+      "startMs": 51300,
+      "endMs": 57780,
+      "en": "But the problem is we wouldn't want to exhume all of them, and you wouldn't want to give an abbot three kneecaps either.",
+      "zh": "但问题是，我们不想把他们全都挖出来，而且你也不会想给一位修道院院长安上三块髌骨。"
+    },
+    {
+      "id": 9,
+      "startMs": 64400,
+      "endMs": 76000,
+      "en": "A development in AI is being called a significant turning point after it was used to create a genetic code of new viruses, ones that don't already exist in nature.",
+      "zh": "人工智能被用于创造自然界中原本不存在的新病毒遗传密码，这一进展被称为一个重要转折点。"
+    },
+    {
+      "id": 10,
+      "startMs": 76480,
+      "endMs": 84240,
+      "en": "The hope is that the work, carried out at Stanford University in the US, could revolutionize medicine, leading to new treatments and drugs.",
+      "zh": "人们希望，美国斯坦福大学开展的这项工作能够革新医学，带来新的疗法和药物。"
+    },
+    {
+      "id": 11,
+      "startMs": 84720,
+      "endMs": 90480,
+      "en": "But some experts have warned the technology could be used to create new infections and cause harm.",
+      "zh": "但一些专家警告说，这项技术可能被用来制造新的传染病并造成危害。"
+    },
+    {
+      "id": 12,
+      "startMs": 90480,
+      "endMs": 97920,
+      "en": "Over the past few weeks, there have been multiple reports of AI programs going rogue, engaging in hacking and even blackmail.",
+      "zh": "过去几周，多起报道称人工智能程序出现失控行为，参与黑客攻击，甚至实施勒索。"
+    },
+    {
+      "id": 13,
+      "startMs": 98400,
+      "endMs": 104800,
+      "en": "Our health and science correspondent James Gallagher has been looking at this new development and spoke to my colleague Valerie Sanderson.",
+      "zh": "本台健康与科学事务记者詹姆斯·加拉格尔一直在关注这一新进展，并与我的同事瓦莱丽·桑德森进行了交谈。"
+    },
+    {
+      "id": 14,
+      "startMs": 105040,
+      "endMs": 111200,
+      "en": "They've basically taken artificial intelligence tools and used it to design viruses completely from scratch,",
+      "zh": "他们基本上是利用人工智能工具，从零开始设计病毒，"
+    },
+    {
+      "id": 15,
+      "startMs": 111280,
+      "endMs": 114960,
+      "en": "and then they've started making those in the laboratory to see if they actually worked.",
+      "zh": "随后又在实验室中制造这些病毒，看看它们是否真的有效。"
+    },
+    {
+      "id": 16,
+      "startMs": 115120,
+      "endMs": 124080,
+      "en": "And they took 300 of these AI designs, and 16 of them turned into viruses that were fully functional in the laboratory.",
+      "zh": "他们选取了 300 个由人工智能生成的设计，其中 16 个变成了能在实验室中完全发挥作用的病毒。"
+    },
+    {
+      "id": 17,
+      "startMs": 124820,
+      "endMs": 129540,
+      "en": "They were designed to attack and feed off species of bacteria,",
+      "zh": "这些病毒被设计成攻击并以某些细菌为食，"
+    },
+    {
+      "id": 18,
+      "startMs": 129700,
+      "endMs": 134340,
+      "en": "and they showed that on 16 occasions, the AI was successful in designing these kinds of bacteria.",
+      "zh": "结果显示，人工智能曾 16 次成功设计出这类细菌。"
+    },
+    {
+      "id": 19,
+      "startMs": 134420,
+      "endMs": 140900,
+      "en": "So, let's just get in really early, Valerie, and just make it clear that these are not viruses that are going to go around infecting people or anything like that.",
+      "zh": "那么，瓦莱丽，我们先尽早说明白：这些病毒不会四处感染人类，也不会发生类似的事情。"
+    },
+    {
+      "id": 20,
+      "startMs": 140900,
+      "endMs": 143460,
+      "en": "They're a particular group of viruses that infect bacteria.",
+      "zh": "它们是一类专门感染细菌的病毒。"
+    },
+    {
+      "id": 21,
+      "startMs": 143700,
+      "endMs": 145860,
+      "en": "But how much of a breakthrough is this?",
+      "zh": "但这究竟算得上多大的突破？"
+    },
+    {
+      "id": 22,
+      "startMs": 146020,
+      "endMs": 148820,
+      "en": "I think it could be a really significant one, actually.",
+      "zh": "我认为，这实际上可能是一项非常重大的突破。"
+    },
+    {
+      "id": 23,
+      "startMs": 148820,
+      "endMs": 159380,
+      "en": "So, we already know that generative AI tools have done things like help design new vaccines and help design new antibiotics for treating drug-resistant infections,",
+      "zh": "我们已经知道，生成式人工智能工具可以帮助设计新疫苗，以及用于治疗耐药性感染的新型抗生素，"
+    },
+    {
+      "id": 24,
+      "startMs": 159380,
+      "endMs": 167860,
+      "en": "but this really feels like quite a significant step up, because now instead of just designing one single compound, one little protein,",
+      "zh": "但这次确实像是一次相当重大的飞跃，因为如今设计的不再只是单一化合物或一个小蛋白质，"
+    },
+    {
+      "id": 25,
+      "startMs": 168340,
+      "endMs": 174820,
+      "en": "This is actually the whole genome—the entire genetic code of a virus that is being developed completely from scratch.",
+      "zh": "而是整个基因组，也就是一种完全从零开始构建的病毒的完整遗传密码。"
+    },
+    {
+      "id": 26,
+      "startMs": 174820,
+      "endMs": 177860,
+      "en": "And producing something that is actually viable at the end of it.",
+      "zh": "并最终产生真正具有活性的成果。"
+    },
+    {
+      "id": 27,
+      "startMs": 177860,
+      "endMs": 179380,
+      "en": "That is a big step up.",
+      "zh": "这是一次巨大的飞跃。"
+    },
+    {
+      "id": 28,
+      "startMs": 179940,
+      "endMs": 186760,
+      "en": "Now, it is worth noting that this is still a very long way from what you might want to call creating life or anything like that.",
+      "zh": "不过，值得注意的是，这距离人们所谓的“创造生命”之类的事情还非常遥远。"
+    },
+    {
+      "id": 29,
+      "startMs": 186760,
+      "endMs": 192360,
+      "en": "So, it has a very tiny genetic code, these viruses, and are not technically deemed as being alive.",
+      "zh": "这些病毒的遗传密码非常短小，而且从严格的技术定义来看，它们并不被视为生命。"
+    },
+    {
+      "id": 30,
+      "startMs": 192920,
+      "endMs": 197400,
+      "en": "You'd have to produce something like—it's like a hundred times bigger in terms of the amount of genetic code—",
+      "zh": "你必须制造出某种遗传密码规模大约是它一百倍的东西，"
+    },
+    {
+      "id": 31,
+      "startMs": 197400,
+      "endMs": 207040,
+      "en": "before you were getting to those most basic single-celled organisms in the natural world, but this is still doing something that so far nature has not done.",
+      "zh": "才能接近自然界中最基本的单细胞生物；但这项技术仍然做到了迄今自然界未曾做到的事情。"
+    },
+    {
+      "id": 32,
+      "startMs": 207040,
+      "endMs": 210320,
+      "en": "This is creating viruses that don't exist in the natural world.",
+      "zh": "它创造出了自然界中不存在的病毒。"
+    },
+    {
+      "id": 33,
+      "startMs": 210320,
+      "endMs": 211600,
+      "en": "It is quite a breakthrough.",
+      "zh": "这确实是一项重大突破。"
+    },
+    {
+      "id": 34,
+      "startMs": 211840,
+      "endMs": 213360,
+      "en": "What could this be used for?",
+      "zh": "这项技术可以用来做什么？"
+    },
+    {
+      "id": 35,
+      "startMs": 213520,
+      "endMs": 217760,
+      "en": "Well, if you think about the big picture, first of all, not necessarily just the viruses,",
+      "zh": "如果从更宏观的角度来看，首先，这并不一定只关乎病毒，"
+    },
+    {
+      "id": 36,
+      "startMs": 217760,
+      "endMs": 227600,
+      "en": "but what this really shows you is the power of using generative AI to harness the power of biology that goes above and beyond what's actually available in the natural world.",
+      "zh": "它真正展示的是利用生成式人工智能驾驭生物学力量的潜力，而这种力量能够超越自然界实际存在的范围。"
+    },
+    {
+      "id": 37,
+      "startMs": 227600,
+      "endMs": 234480,
+      "en": "So, that could be designing new immunotherapies, antibodies that can go into the body to treat immune diseases.",
+      "zh": "这可能包括设计新的免疫疗法，也就是能够进入人体治疗免疫性疾病的抗体。"
+    },
+    {
+      "id": 38,
+      "startMs": 234480,
+      "endMs": 237840,
+      "en": "It could be new ways of targeting genetic diseases in the body.",
+      "zh": "它还可能带来针对人体遗传性疾病的新方法。"
+    },
+    {
+      "id": 39,
+      "startMs": 237840,
+      "endMs": 242160,
+      "en": "It could be, like in this example, developing viruses that eat bacteria.",
+      "zh": "也可能像这个例子一样，开发出吞噬细菌的病毒。"
+    },
+    {
+      "id": 40,
+      "startMs": 242160,
+      "endMs": 245360,
+      "en": "So, maybe you could design ones that could attack bacterial infection.",
+      "zh": "因此，也许可以设计出能够攻击细菌感染的病毒。"
+    },
+    {
+      "id": 41,
+      "startMs": 245360,
+      "endMs": 249200,
+      "en": "And there is a huge amount of work going on to find those viruses naturally in the wild,",
+      "zh": "目前，人们正在开展大量工作，试图在自然环境中寻找这些病毒，"
+    },
+    {
+      "id": 42,
+      "startMs": 249200,
+      "endMs": 252640,
+      "en": "but maybe you could just design them in the laboratory in the first place.",
+      "zh": "但也许一开始就可以直接在实验室里设计它们。"
+    },
+    {
+      "id": 43,
+      "startMs": 252960,
+      "endMs": 262260,
+      "en": "So, there is hope and optimism that if these tools are used and harnessed responsibly, they could actually deliver significant benefits in medicine.",
+      "zh": "因此，人们抱有希望和乐观态度，认为如果负责任地使用和驾驭这些工具，它们确实能够为医学带来重大益处。"
+    },
+    {
+      "id": 44,
+      "startMs": 262660,
+      "endMs": 263380,
+      "en": "James Gallagher.",
+      "zh": "詹姆斯·加拉格尔报道。"
+    },
+    {
+      "id": 45,
+      "startMs": 264100,
+      "endMs": 272420,
+      "en": "There have been increasing reports in the US that the military's stockpile of weapons is dangerously low as the war with Iran continues.",
+      "zh": "随着对伊朗战争持续，美国国内越来越多的报道称，美军武器库存已低至危险水平。"
+    },
+    {
+      "id": 46,
+      "startMs": 272740,
+      "endMs": 280340,
+      "en": "Posting on social media, President Trump warned that those leaking what he called treasonous statements could face long prison sentences.",
+      "zh": "特朗普总统在社交媒体上警告称，泄露其所谓“叛国言论”的人可能面临长期监禁。"
+    },
+    {
+      "id": 47,
+      "startMs": 280900,
+      "endMs": 287860,
+      "en": "Iran's defense minister has already seized on the reports as evidence of what he calls the enemy's declining capabilities.",
+      "zh": "伊朗国防部长已经借这些报道宣称，它们证明了所谓“敌人能力的衰退”。"
+    },
+    {
+      "id": 48,
+      "startMs": 288420,
+      "endMs": 290020,
+      "en": "Here's what President Trump had to say.",
+      "zh": "下面是特朗普总统的说法。"
+    },
+    {
+      "id": 49,
+      "startMs": 290980,
+      "endMs": 294180,
+      "en": "I rebuilt the military, and we also loaded it up with a lot of stuff.",
+      "zh": "我重建了军队，我们还为其补充了大量装备。"
+    },
+    {
+      "id": 50,
+      "startMs": 294820,
+      "endMs": 301860,
+      "en": "We have certain types of munitions that are very powerful, that we have unlimited, virtual unlimited supply.",
+      "zh": "我们有一些威力非常强大的弹药，供应是无限的，几乎可以说是无限的。"
+    },
+    {
+      "id": 51,
+      "startMs": 302260,
+      "endMs": 307700,
+      "en": "We have others where it's a little bit tighter, and we're getting them in on a daily basis.",
+      "zh": "还有一些弹药的供应稍微紧张一些，但我们每天都在获得补充。"
+    },
+    {
+      "id": 52,
+      "startMs": 307700,
+      "endMs": 314340,
+      "en": "Mr. Trump also denied reports he confronted his Defense Secretary, Pete Hegseth, over the alleged shortages.",
+      "zh": "特朗普还否认了有关他因所谓的短缺问题质问国防部长皮特·赫格塞思的报道。"
+    },
+    {
+      "id": 53,
+      "startMs": 314820,
+      "endMs": 317540,
+      "en": "Darin Selnick is a former adviser to Mr. Hegseth.",
+      "zh": "达林·塞尔尼克是赫格塞思的前顾问。"
+    },
+    {
+      "id": 54,
+      "startMs": 318020,
+      "endMs": 327480,
+      "en": "The fact that there's media reports, the fact that there are leaks from the Pentagon which show that we cannot afford to give to anybody else, because these take time.",
+      "zh": "媒体出现了相关报道，五角大楼也有消息泄露出来，显示我们无力再把这些武器提供给任何其他人，因为补充需要时间。"
+    },
+    {
+      "id": 55,
+      "startMs": 327480,
+      "endMs": 330120,
+      "en": "This can take a year, two years, to replenish.",
+      "zh": "补充库存可能需要一年，甚至两年。"
+    },
+    {
+      "id": 56,
+      "startMs": 330120,
+      "endMs": 339000,
+      "en": "And I know the Pentagon is working hard and doing contracts for replenishing, but I would say our stocks are low, probably dangerously low, way below that they should be.",
+      "zh": "我知道五角大楼正在努力签订补充库存的合同，但我得说，我们的库存很低，可能已低至危险水平，远低于应有的数量。"
+    },
+    {
+      "id": 57,
+      "startMs": 339480,
+      "endMs": 342760,
+      "en": "Our Washington correspondent, Bernd Debusmann, has been telling me more.",
+      "zh": "本台驻华盛顿记者伯恩德·德布斯曼向我介绍了更多情况。"
+    },
+    {
+      "id": 58,
+      "startMs": 343160,
+      "endMs": 346120,
+      "en": "The actual stockpiles are classified in the US.",
+      "zh": "美国的实际武器库存属于机密。"
+    },
+    {
+      "id": 59,
+      "startMs": 346280,
+      "endMs": 352520,
+      "en": "But researchers here in Washington have taken a pretty good look at what's been used in the conflict and what was available beforehand.",
+      "zh": "但华盛顿的研究人员仔细评估了冲突中使用了哪些武器，以及战前原有多少库存。"
+    },
+    {
+      "id": 60,
+      "startMs": 352520,
+      "endMs": 357720,
+      "en": "And for the US government and the White House, the most pressing ones are air defense systems.",
+      "zh": "对美国政府和白宫而言，最紧缺的是防空系统。"
+    },
+    {
+      "id": 61,
+      "startMs": 357720,
+      "endMs": 362920,
+      "en": "There's the Patriot interceptor and a missile called the THAAD, which intercepts at a higher altitude.",
+      "zh": "其中包括“爱国者”拦截弹，以及一种名为“萨德”的导弹，后者能在更高空实施拦截。"
+    },
+    {
+      "id": 62,
+      "startMs": 363240,
+      "endMs": 371560,
+      "en": "Those were extremely heavily used in the first month or so of the conflict in Iran, and those are weapons that can't easily be replaced.",
+      "zh": "在伊朗冲突开始后的大约第一个月里，这些武器被大量使用，而它们又很难得到补充。"
+    },
+    {
+      "id": 63,
+      "startMs": 371560,
+      "endMs": 380300,
+      "en": "There's also long-range strike weapons such as the Tomahawk cruise missile, which can hit targets at precision at more than a thousand miles away,",
+      "zh": "此外还有“战斧”巡航导弹等远程打击武器，能够精确打击一千多英里外的目标，"
+    },
+    {
+      "id": 64,
+      "startMs": 380300,
+      "endMs": 388060,
+      "en": "and those have been used very heavily in the conflict and in this kind of tit-for-tat strikes that have taken place since the original ceasefire was announced.",
+      "zh": "这类武器在冲突中以及最初停火协议宣布后发生的针锋相对式袭击中，都得到了大量使用。"
+    },
+    {
+      "id": 65,
+      "startMs": 388380,
+      "endMs": 392220,
+      "en": "And these leaks, I think it would be fair to say that Donald Trump is not happy about them.",
+      "zh": "至于这些泄密事件，可以说特朗普对此很不高兴。"
+    },
+    {
+      "id": 66,
+      "startMs": 393020,
+      "endMs": 401340,
+      "en": "No, he's certainly not, and the Trump administration has taken a very aggressive stance against leakers in government, predating the war with Iran.",
+      "zh": "没错，他当然不高兴。特朗普政府早在对伊朗战争之前，就已对政府内部的泄密者采取非常强硬的立场。"
+    },
+    {
+      "id": 67,
+      "startMs": 401340,
+      "endMs": 408140,
+      "en": "But what they really don't want is information to get out not through what they deem as the proper channels, for example,",
+      "zh": "但他们真正不希望看到的是，信息没有经由他们认定的正规渠道对外发布，例如，"
+    },
+    {
+      "id": 68,
+      "startMs": 408140,
+      "endMs": 411260,
+      "en": "the press office at the White House or at the Pentagon.",
+      "zh": "白宫或五角大楼的新闻办公室。"
+    },
+    {
+      "id": 69,
+      "startMs": 411580,
+      "endMs": 418300,
+      "en": "But so far, there's been really very little actual consequences for these leakers, and very few of them have been identified.",
+      "zh": "但到目前为止，这些泄密者几乎没有真正承担什么后果，而且被查明身份的人寥寥无几。"
+    },
+    {
+      "id": 70,
+      "startMs": 418300,
+      "endMs": 424860,
+      "en": "There was recently a case in the New York Times; journalists were subpoenaed to find leakers, but that case was dropped.",
+      "zh": "最近有一宗涉及《纽约时报》的案件，记者曾被传唤以查找泄密者，但该案后来被撤销。"
+    },
+    {
+      "id": 71,
+      "startMs": 425340,
+      "endMs": 431980,
+      "en": "And this will really raise questions about the cost of this war, especially because it is so unpopular with voters?",
+      "zh": "这也势必令人进一步质疑这场战争的代价，尤其是因为它在选民中如此不得人心，对吗？"
+    },
+    {
+      "id": 72,
+      "startMs": 431980,
+      "endMs": 440300,
+      "en": "It is. The Pentagon had announced a 1.5-or-so-trillion-dollar defense budget at the expense of domestic programs,",
+      "zh": "确实如此。五角大楼此前宣布了一项约 1.5 万亿美元的国防预算，而代价是牺牲国内项目，"
+    },
+    {
+      "id": 73,
+      "startMs": 440300,
+      "endMs": 448940,
+      "en": "and that, combined with people's concerns, particularly about petrol, but also farmers have had to pay much more for fertilizer since the war in Iran began,",
+      "zh": "再加上民众的担忧，尤其是对汽油价格的担忧；此外，自对伊朗战争开始以来，农民购买化肥的成本也大幅上升，"
+    },
+    {
+      "id": 74,
+      "startMs": 449580,
+      "endMs": 455600,
+      "en": "that all has combined into something of a perfect storm of public opinion against the war.",
+      "zh": "所有这些因素共同形成了一场反战舆论的“完美风暴”。"
+    },
+    {
+      "id": 75,
+      "startMs": 455600,
+      "endMs": 464080,
+      "en": "But the White House and President Trump have brushed that off entirely and said that any sort of short-term pain is worth Iran not having a nuclear weapon.",
+      "zh": "但白宫和特朗普总统对此完全不以为意，并表示，为了阻止伊朗拥有核武器，任何形式的短期阵痛都是值得的。"
+    },
+    {
+      "id": 76,
+      "startMs": 464400,
+      "endMs": 470080,
+      "en": "And this is also presumably having a knock-on effect with other conflicts, particularly Ukraine,",
+      "zh": "这想必也会对其他冲突产生连锁影响，尤其是乌克兰战事，"
+    },
+    {
+      "id": 77,
+      "startMs": 470320,
+      "endMs": 476800,
+      "en": "and we know that President Zelenskyy has been repeatedly asking the US for more of these Patriot missile interceptors?",
+      "zh": "而且我们知道，泽连斯基总统一直在反复请求美国提供更多“爱国者”导弹拦截弹，对吗？"
+    },
+    {
+      "id": 78,
+      "startMs": 477460,
+      "endMs": 485380,
+      "en": "It has. When they met recently, President Zelenskyy said that he had asked for 300 interceptors to get Ukraine through the winter,",
+      "zh": "的确如此。两人最近会晤时，泽连斯基总统表示，他请求获得 300 枚拦截弹，以帮助乌克兰度过冬季，"
+    },
+    {
+      "id": 79,
+      "startMs": 485380,
+      "endMs": 489380,
+      "en": "and Ukraine also wants a license to be able to produce them domestically.",
+      "zh": "乌克兰还希望获得许可，以便在国内生产这些拦截弹。"
+    },
+    {
+      "id": 80,
+      "startMs": 489780,
+      "endMs": 497540,
+      "en": "President Trump was initially receptive to the idea, but just given the vast expenditures, he's since kind of walked that back.",
+      "zh": "特朗普总统起初愿意考虑这个想法，但鉴于巨额开支，此后他多少收回了这一态度。"
+    },
+    {
+      "id": 81,
+      "startMs": 497780,
+      "endMs": 502260,
+      "en": "Many here in Washington are also concerned about what it could mean for hypothetical future conflicts.",
+      "zh": "华盛顿的许多人还担心，这对未来可能发生的冲突意味着什么。"
+    },
+    {
+      "id": 82,
+      "startMs": 502260,
+      "endMs": 507220,
+      "en": "If China were to invade Taiwan, for example, and the US were to come to Taiwan's defense,",
+      "zh": "例如，假如中国攻打台湾，而美国出兵保卫台湾，"
+    },
+    {
+      "id": 83,
+      "startMs": 507300,
+      "endMs": 514820,
+      "en": "what is a much more sophisticated and large air and missile force in China than compared to what Iran has.",
+      "zh": "中国拥有的空中和导弹力量比伊朗更加先进，规模也更大。"
+    },
+    {
+      "id": 84,
+      "startMs": 515140,
+      "endMs": 522580,
+      "en": "It also calls into question the future readiness of the US military, because none of these weapons can be replaced quickly.",
+      "zh": "这也令人质疑美军未来的战备能力，因为这些武器没有一种能够迅速得到补充。"
+    },
+    {
+      "id": 85,
+      "startMs": 522580,
+      "endMs": 528820,
+      "en": "It often takes two years or more between when they're funded and ordered to when they're actually delivered and ready for use.",
+      "zh": "从获得拨款并下单，到实际交付并可投入使用，往往需要两年甚至更长时间。"
+    },
+    {
+      "id": 86,
+      "startMs": 529300,
+      "endMs": 531140,
+      "en": "Bernd Debusmann in Washington.",
+      "zh": "伯恩德·德布斯曼在华盛顿报道。"
+    },
+    {
+      "id": 87,
+      "startMs": 531620,
+      "endMs": 537060,
+      "en": "A US judge has ordered Meta to pay another 567 million dollars",
+      "zh": "一名美国法官下令 Meta 再支付 5.67 亿美元，"
+    },
+    {
+      "id": 88,
+      "startMs": 537400,
+      "endMs": 546120,
+      "en": "for its failure to warn the public about the dangers its platforms pose to children, marking the largest ruling against the company over child safety.",
+      "zh": "原因是该公司未能就其平台对儿童构成的危险向公众发出警告。这是针对该公司儿童安全问题作出的最大一笔裁决。"
+    },
+    {
+      "id": 89,
+      "startMs": 546600,
+      "endMs": 552120,
+      "en": "The judge in New Mexico called Meta, the parent company of Facebook and Instagram, a public nuisance.",
+      "zh": "新墨西哥州的法官称，Facebook 和 Instagram 的母公司 Meta 构成“公共妨害”。"
+    },
+    {
+      "id": 90,
+      "startMs": 552520,
+      "endMs": 556920,
+      "en": "The ruling is an addition to 375 million dollars in fines",
+      "zh": "这项裁决是在此前 3.75 亿美元罚款的基础上追加的，"
+    },
+    {
+      "id": 91,
+      "startMs": 557240,
+      "endMs": 562040,
+      "en": "Meta was already ordered to pay in the case, taking the total to almost a billion.",
+      "zh": "Meta 此前已被判在该案中支付这笔罚款，使罚款总额接近 10 亿美元。"
+    },
+    {
+      "id": 92,
+      "startMs": 562440,
+      "endMs": 565560,
+      "en": "Stephanie Prentice is following the story and told me more.",
+      "zh": "斯蒂芬妮·普伦蒂斯正在关注此事，并向我介绍了更多情况。"
+    },
+    {
+      "id": 93,
+      "startMs": 565880,
+      "endMs": 569720,
+      "en": "This is being seen as a landmark ruling in the tech space.",
+      "zh": "这被视为科技领域的一项里程碑式裁决。"
+    },
+    {
+      "id": 94,
+      "startMs": 569800,
+      "endMs": 574520,
+      "en": "It's the second phase of a lawsuit over child protection failings from Meta.",
+      "zh": "这是一起针对 Meta 儿童保护失职诉讼的第二阶段。"
+    },
+    {
+      "id": 95,
+      "startMs": 575080,
+      "endMs": 584600,
+      "en": "And while that first part resulted in a massive fine because it found Meta's platforms had allowed children to be exposed to harmful content, this phase goes much further.",
+      "zh": "第一阶段认定 Meta 的平台使儿童接触到有害内容，因此处以巨额罚款，而这一阶段的裁决则更进一步。"
+    },
+    {
+      "id": 96,
+      "startMs": 584760,
+      "endMs": 589960,
+      "en": "For a start, this fine is bigger, another 567 million dollars.",
+      "zh": "首先，这次的罚款金额更高，又追加了 5.67 亿美元。"
+    },
+    {
+      "id": 97,
+      "startMs": 589960,
+      "endMs": 593560,
+      "en": "The total now: 942 million dollars.",
+      "zh": "目前罚款总额达到 9.42 亿美元。"
+    },
+    {
+      "id": 98,
+      "startMs": 594120,
+      "endMs": 601980,
+      "en": "And a judge ruled, as you mentioned, the company's impact on children amounts to a public nuisance, something that's affecting society as a whole.",
+      "zh": "正如你提到的，法官裁定该公司对儿童的影响构成“公共妨害”，也就是对整个社会造成影响。"
+    },
+    {
+      "id": 99,
+      "startMs": 601980,
+      "endMs": 611020,
+      "en": "So, if we look at that, public nuisance, it's a legal term that you usually see associated with things like environmental pollution, public health risks.",
+      "zh": "“公共妨害”是一个法律术语，通常与环境污染、公共卫生风险等问题联系在一起。"
+    },
+    {
+      "id": 100,
+      "startMs": 611020,
+      "endMs": 615020,
+      "en": "So, legally and symbolically, a really significant shift.",
+      "zh": "因此，无论在法律上还是象征意义上，这都是一次非常重大的转变。"
+    },
+    {
+      "id": 101,
+      "startMs": 615100,
+      "endMs": 624220,
+      "en": "We're seeing a social media company essentially being characterized not just as a platform that's having safety problems, but a source of wider public harm.",
+      "zh": "如今，一家社交媒体公司不再仅被视为存在安全问题的平台，而是被界定为更广泛公共危害的来源。"
+    },
+    {
+      "id": 102,
+      "startMs": 624940,
+      "endMs": 631340,
+      "en": "Now, the judge also ordered some mandatory concrete changes to how Meta's platforms operate for young people.",
+      "zh": "法官还下令，Meta 的平台必须就面向年轻人的运营方式作出一些具体改变。"
+    },
+    {
+      "id": 103,
+      "startMs": 631340,
+      "endMs": 638380,
+      "en": "So, things like stopping adults from being able to message minors, imposing really strict monthly usage limits,",
+      "zh": "例如，禁止成年人向未成年人发送消息，并实施非常严格的每月使用时长限制，"
+    },
+    {
+      "id": 104,
+      "startMs": 638780,
+      "endMs": 644460,
+      "en": "and getting rid of like counts as indicators of popularity of content for under-18s' accounts.",
+      "zh": "同时取消未满 18 岁用户账户中作为内容受欢迎程度指标的点赞数。"
+    },
+    {
+      "id": 105,
+      "startMs": 645100,
+      "endMs": 650380,
+      "en": "As for the money raised from those fines, it's set to be used to reduce the damage caused, the judge said.",
+      "zh": "法官表示，这些罚款所得资金将用于减轻已经造成的伤害。"
+    },
+    {
+      "id": 106,
+      "startMs": 650380,
+      "endMs": 658960,
+      "en": "So, hundreds of millions earmarked for things like mental health treatment, support programs, and related training for people like teachers and healthcare workers.",
+      "zh": "数亿美元将专门用于心理健康治疗、支持项目，以及为教师和医护人员等提供相关培训。"
+    },
+    {
+      "id": 107,
+      "startMs": 659440,
+      "endMs": 660640,
+      "en": "And what's Meta saying?",
+      "zh": "Meta 对此有何回应？"
+    },
+    {
+      "id": 108,
+      "startMs": 661600,
+      "endMs": 662720,
+      "en": "So, Meta's come out strong.",
+      "zh": "Meta 作出了强硬回应。"
+    },
+    {
+      "id": 109,
+      "startMs": 662720,
+      "endMs": 666080,
+      "en": "It says it will appeal the ruling, as well as the earlier verdict.",
+      "zh": "该公司表示，将对这项裁决以及此前的判决提出上诉。"
+    },
+    {
+      "id": 110,
+      "startMs": 666400,
+      "endMs": 671120,
+      "en": "It issued a statement saying it's been working to identify and to remove harmful content.",
+      "zh": "该公司发表声明称，一直在努力识别并移除有害内容。"
+    },
+    {
+      "id": 111,
+      "startMs": 671520,
+      "endMs": 675840,
+      "en": "It also argued it's invested very heavily in protecting teenagers online.",
+      "zh": "该公司还辩称，已为保护青少年网络安全投入了大量资源。"
+    },
+    {
+      "id": 112,
+      "startMs": 676000,
+      "endMs": 682000,
+      "en": "What impact could this have on how social media companies operate, because this, of course, isn't the only case of this kind?",
+      "zh": "这会对社交媒体公司的运营方式产生什么影响？当然，这并不是唯一一宗此类案件。"
+    },
+    {
+      "id": 113,
+      "startMs": 682720,
+      "endMs": 689600,
+      "en": "You're absolutely right, Charlotte. The company is facing thousands of lawsuits currently over claims its platforms can harm young users.",
+      "zh": "你说得完全正确，夏洛特。该公司目前面临数千起诉讼，指控其平台可能伤害年轻用户。"
+    },
+    {
+      "id": 114,
+      "startMs": 690160,
+      "endMs": 692960,
+      "en": "In March, we saw a case in Los Angeles Meta lost.",
+      "zh": "今年 3 月，Meta 在洛杉矶输掉了一宗案件。"
+    },
+    {
+      "id": 115,
+      "startMs": 692960,
+      "endMs": 698800,
+      "en": "That was brought by a young woman. She sued Meta and YouTube over her childhood addiction to social media.",
+      "zh": "该案由一名年轻女子提起，她因自己童年时期沉迷社交媒体而起诉 Meta 和 YouTube。"
+    },
+    {
+      "id": 116,
+      "startMs": 699360,
+      "endMs": 704000,
+      "en": "And next week we'll see a major multi-state trial starting in California.",
+      "zh": "下周，加利福尼亚州还将开审一宗重大的多州联合诉讼。"
+    },
+    {
+      "id": 117,
+      "startMs": 704000,
+      "endMs": 708560,
+      "en": "That's dozens of US states and the District of Columbia jointly suing Meta.",
+      "zh": "数十个美国州和哥伦比亚特区正在联合起诉 Meta。"
+    },
+    {
+      "id": 118,
+      "startMs": 708560,
+      "endMs": 714960,
+      "en": "And that's primarily over things like addictive product design: infinite scrolling and push notifications.",
+      "zh": "争议主要涉及易使人上瘾的产品设计，例如无限滚动和推送通知。"
+    },
+    {
+      "id": 119,
+      "startMs": 715600,
+      "endMs": 719120,
+      "en": "But this latest phase in New Mexico—it's just particularly interesting.",
+      "zh": "但新墨西哥州案件的这一最新阶段尤其引人关注。"
+    },
+    {
+      "id": 120,
+      "startMs": 719120,
+      "endMs": 725360,
+      "en": "Because, really, it's suggestive of an attitude shift when it comes to accountability for those big tech companies.",
+      "zh": "因为这确实表明，社会在追究这些大型科技公司责任方面的态度正在转变。"
+    },
+    {
+      "id": 121,
+      "startMs": 725360,
+      "endMs": 731840,
+      "en": "It's being seen as similar to how governments in the past might have tackled a tobacco manufacturer or environmental polluter.",
+      "zh": "这被认为类似于过去政府对烟草制造商或环境污染企业采取的治理方式。"
+    },
+    {
+      "id": 122,
+      "startMs": 732240,
+      "endMs": 735600,
+      "en": "Really, the result of that appeal will be very interesting.",
+      "zh": "这宗上诉的结果确实会非常值得关注。"
+    },
+    {
+      "id": 123,
+      "startMs": 736000,
+      "endMs": 737040,
+      "en": "Stephanie Prentice.",
+      "zh": "斯蒂芬妮·普伦蒂斯报道。"
+    },
+    {
+      "id": 124,
+      "startMs": 737520,
+      "endMs": 744420,
+      "en": "\"The world's greatest platform for creative freedom\"—that's how the Edinburgh Fringe is described by its organizers.",
+      "zh": "爱丁堡艺穗节的主办方称其为“世界上最伟大的创作自由平台”。"
+    },
+    {
+      "id": 125,
+      "startMs": 744740,
+      "endMs": 751460,
+      "en": "The annual festival brings together performers from 60 countries across more than 4,000 productions throughout August.",
+      "zh": "这项年度艺术节贯穿整个 8 月，汇聚来自 60 个国家的表演者，呈现 4,000 多部作品。"
+    },
+    {
+      "id": 126,
+      "startMs": 751940,
+      "endMs": 754420,
+      "en": "But can creative freedom go too far?",
+      "zh": "但创作自由是否也会走得太远？"
+    },
+    {
+      "id": 127,
+      "startMs": 754660,
+      "endMs": 757140,
+      "en": "One show this summer is drawing some anger.",
+      "zh": "今年夏天的一场演出引发了一些愤怒。"
+    },
+    {
+      "id": 128,
+      "startMs": 757540,
+      "endMs": 762900,
+      "en": "The sister of the British student Meredith Kercher, who was murdered in Italy nearly 20 years ago,",
+      "zh": "英国学生梅雷迪思·克尔彻近 20 年前在意大利遇害，她的姐姐，"
+    },
+    {
+      "id": 129,
+      "startMs": 763300,
+      "endMs": 770980,
+      "en": "has criticized a stand-up comedy show being performed by the woman who was convicted, but later acquitted, of Meredith's murder.",
+      "zh": "批评了一场单口喜剧演出。表演者曾因谋杀梅雷迪思被定罪，但后来获判无罪。"
+    },
+    {
+      "id": 130,
+      "startMs": 771540,
+      "endMs": 776180,
+      "en": "Amanda Knox was Meredith Kercher's flatmate when she was killed in Perugia in 2007.",
+      "zh": "2007 年梅雷迪思·克尔彻在佩鲁贾遇害时，阿曼达·诺克斯是她的室友。"
+    },
+    {
+      "id": 131,
+      "startMs": 776180,
+      "endMs": 785140,
+      "en": "Now 39 and married with children, Amanda Knox is performing a show she says is about motherhood and wrongful imprisonment.",
+      "zh": "现年 39 岁、已婚并育有子女的诺克斯正在表演一场她所称关于母职与冤狱的节目。"
+    },
+    {
+      "id": 132,
+      "startMs": 785620,
+      "endMs": 791540,
+      "en": "But speaking to the BBC, Stephanie Kercher, who's Meredith Kercher's sister, called for Knox to think again.",
+      "zh": "但梅雷迪思的姐姐斯蒂芬妮·克尔彻接受 BBC 采访时，呼吁诺克斯重新考虑。"
+    },
+    {
+      "id": 133,
+      "startMs": 791860,
+      "endMs": 797780,
+      "en": "I think the problem with this particular project is that it is comedy.",
+      "zh": "我认为这个项目的问题在于，它是一部喜剧。"
+    },
+    {
+      "id": 134,
+      "startMs": 797940,
+      "endMs": 806500,
+      "en": "Whilst I appreciate comedy is there to push the boundaries, it very much normalizes and trivializes violence against women, and Meredith in particular.",
+      "zh": "尽管我理解喜剧的作用之一是突破界限，但它在很大程度上将针对女性、尤其是针对梅雷迪思的暴力正常化和轻描淡写。"
+    },
+    {
+      "id": 135,
+      "startMs": 807060,
+      "endMs": 814980,
+      "en": "It's not a generic topic. It's targeting an individual traumatic case and an individual person and family.",
+      "zh": "这不是一个泛泛的话题，它针对的是一宗具体的创伤性案件，以及一个具体的人和家庭。"
+    },
+    {
+      "id": 136,
+      "startMs": 815380,
+      "endMs": 819300,
+      "en": "And I feel very strongly that Meredith wouldn't agree with that.",
+      "zh": "我强烈认为，梅雷迪思不会认同这种做法。"
+    },
+    {
+      "id": 137,
+      "startMs": 819380,
+      "endMs": 825060,
+      "en": "And, obviously, I have read certain comments that she's made that Meredith would have found it funny.",
+      "zh": "显然，我读到过她的一些言论，声称梅雷迪思会觉得这很有趣。"
+    },
+    {
+      "id": 138,
+      "startMs": 825140,
+      "endMs": 831060,
+      "en": "And Meredith absolutely wouldn't find these topics of, you know, any comedy value.",
+      "zh": "但梅雷迪思绝不会认为这些话题有任何喜剧价值，你知道的。"
+    },
+    {
+      "id": 139,
+      "startMs": 831860,
+      "endMs": 837540,
+      "en": "Arts correspondent Pauline McLean has interviewed Amanda Knox and told Jane Hill what she said.",
+      "zh": "艺术事务记者波琳·麦克莱恩采访了阿曼达·诺克斯，并向简·希尔介绍了她的说法。"
+    },
+    {
+      "id": 140,
+      "startMs": 838020,
+      "endMs": 840340,
+      "en": "Amanda Knox has done so much before.",
+      "zh": "阿曼达·诺克斯此前尝试过很多形式。"
+    },
+    {
+      "id": 141,
+      "startMs": 840340,
+      "endMs": 847460,
+      "en": "She's done TV drama, documentaries, podcasts, and books, but this foray into stand-up comedy is completely new.",
+      "zh": "她做过电视剧、纪录片、播客和图书，但涉足单口喜剧对她来说是全新的尝试。"
+    },
+    {
+      "id": 142,
+      "startMs": 847540,
+      "endMs": 851700,
+      "en": "She said today that it's partly a return to her student theater roots",
+      "zh": "她今天表示，这在一定程度上是回归自己学生时代的戏剧根基，"
+    },
+    {
+      "id": 143,
+      "startMs": 851700,
+      "endMs": 859060,
+      "en": "and partly because of her husband, who is a comedy writer and who introduced her to various people in the world of comedy.",
+      "zh": "也有一部分原因是她的丈夫是一名喜剧编剧，曾将她介绍给喜剧界的各类人士。"
+    },
+    {
+      "id": 144,
+      "startMs": 859460,
+      "endMs": 861780,
+      "en": "And \"Cartwheels\" is the show.",
+      "zh": "这场演出名为《侧手翻》。"
+    },
+    {
+      "id": 145,
+      "startMs": 861780,
+      "endMs": 866580,
+      "en": "It's a reference to the fact that the media said she was doing cartwheels in her cell at the time.",
+      "zh": "这个名字源于媒体当时声称她在牢房里做侧手翻。"
+    },
+    {
+      "id": 146,
+      "startMs": 866900,
+      "endMs": 874920,
+      "en": "But she says it's actually a show about motherhood, and it's about explaining what happened to her very young children.",
+      "zh": "但她说，这其实是一场关于母职的演出，也是在向年幼的孩子解释自己经历过什么。"
+    },
+    {
+      "id": 147,
+      "startMs": 875240,
+      "endMs": 881400,
+      "en": "Now, obviously, the Edinburgh Festival Fringe is the place where, as well as being absolutely huge, is where anything goes.",
+      "zh": "显然，爱丁堡艺穗节不仅规模庞大，也是一个几乎什么都能上演的地方。"
+    },
+    {
+      "id": 148,
+      "startMs": 881480,
+      "endMs": 887480,
+      "en": "And every year there just feels like there's a call to cancel someone because of their show, but it's allowed to go ahead.",
+      "zh": "每年似乎都会有人因演出内容而遭到抵制，但演出仍获准继续。"
+    },
+    {
+      "id": 149,
+      "startMs": 887480,
+      "endMs": 890520,
+      "en": "And I think she could see all of that would happen, too.",
+      "zh": "我认为她也预料到了这一切会发生。"
+    },
+    {
+      "id": 150,
+      "startMs": 890840,
+      "endMs": 901800,
+      "en": "But I think this one, this particular show, was always going to be sensitive for the Kercher family, who live in the UK, and they are backing a petition to have the show canceled.",
+      "zh": "但这场演出对居住在英国的克尔彻一家注定十分敏感，他们正在支持一项要求取消演出的请愿。"
+    },
+    {
+      "id": 151,
+      "startMs": 901880,
+      "endMs": 907400,
+      "en": "So, I put some of those criticisms—that it is an unsuitable topic for comedy—to her.",
+      "zh": "因此，我向她提出了其中一些批评意见，即这个题材并不适合用喜剧呈现。"
+    },
+    {
+      "id": 152,
+      "startMs": 907560,
+      "endMs": 913080,
+      "en": "I'm not the first person to invent using comedy to talk about traumatic and difficult material.",
+      "zh": "我并不是第一个用喜剧谈论创伤性和艰难题材的人。"
+    },
+    {
+      "id": 153,
+      "startMs": 913560,
+      "endMs": 919080,
+      "en": "And I think that, again, I would hope that people will honestly engage with my work and recognize, like,",
+      "zh": "我再次希望人们能够真诚地接触我的作品，并认识到，"
+    },
+    {
+      "id": 154,
+      "startMs": 919080,
+      "endMs": 926280,
+      "en": "the deep heart and sensitivity that I bring to it as I tell a very personal story through a comedic lens.",
+      "zh": "我透过喜剧视角讲述一个非常私人的故事时，投入了深厚的真情与敏感。"
+    },
+    {
+      "id": 155,
+      "startMs": 926360,
+      "endMs": 931960,
+      "en": "Yeah, she also says, like, \"What if it was your sister or your daughter that you were talking about?\"",
+      "zh": "是的，她还问道：“如果你谈论的是自己的姐妹或女儿呢？”"
+    },
+    {
+      "id": 156,
+      "startMs": 931820,
+      "endMs": 938060,
+      "en": "Well, the interesting irony of that is, like, a huge motivation for me doing this show is my daughter.",
+      "zh": "有意思的是，促使我创作这场演出的一个巨大动力恰恰是我的女儿。"
+    },
+    {
+      "id": 157,
+      "startMs": 938780,
+      "endMs": 943420,
+      "en": "Like, this is what that show is about. It's about how the world is unsafe and unfair towards women,",
+      "zh": "这正是演出探讨的内容：这个世界对女性而言既不安全，也不公平，"
+    },
+    {
+      "id": 158,
+      "startMs": 943500,
+      "endMs": 948300,
+      "en": "and what does it mean to raise a daughter in that world, knowing how bad it can be?",
+      "zh": "既然知道情况可能有多糟，在这样的世界里养育女儿又意味着什么？"
+    },
+    {
+      "id": 159,
+      "startMs": 948460,
+      "endMs": 952060,
+      "en": "Like, I've seen how bad—I've lived how bad it can be.",
+      "zh": "我见识过它有多糟，也亲身经历过它能糟到什么程度。"
+    },
+    {
+      "id": 160,
+      "startMs": 952780,
+      "endMs": 960300,
+      "en": "And, therefore, like, if anything, like, I think that, again, if they saw my show, they would recognize that.",
+      "zh": "所以我还是认为，如果他们看过我的演出，至少会理解这一点。"
+    },
+    {
+      "id": 161,
+      "startMs": 961180,
+      "endMs": 970060,
+      "en": "And, Jane, I asked her if she might change the show, not necessarily cancel it, but consider the way that it's done if the Kercher family asked her to.",
+      "zh": "简，我问她，如果克尔彻家人提出要求，她是否会修改演出，不一定取消，但会重新考虑呈现方式。"
+    },
+    {
+      "id": 162,
+      "startMs": 970060,
+      "endMs": 974300,
+      "en": "And she said that she would absolutely welcome a chance to talk to them.",
+      "zh": "她说自己非常欢迎有机会与他们交谈。"
+    },
+    {
+      "id": 163,
+      "startMs": 974300,
+      "endMs": 982380,
+      "en": "She says that she has asked them many times, apparently, and says she feels that they would understand the show more if they actually saw it.",
+      "zh": "她说自己显然已经邀请过他们很多次，并认为他们亲自看过后会更理解这场演出。"
+    },
+    {
+      "id": 164,
+      "startMs": 982540,
+      "endMs": 985980,
+      "en": "But I think it's pretty unlikely that they're going to come to the Fringe for that.",
+      "zh": "但我认为他们为此来到艺穗节的可能性很小。"
+    },
+    {
+      "id": 165,
+      "startMs": 986220,
+      "endMs": 994400,
+      "en": "And so, it is due to start tomorrow. I mean, is there anything, Pauline, that might stop that going ahead? I think it's unlikely.",
+      "zh": "演出定于明天开始。波琳，有什么可能阻止它如期举行吗？我认为不太可能。"
+    },
+    {
+      "id": 166,
+      "startMs": 994400,
+      "endMs": 998960,
+      "en": "The Fringe is completely uncurated. Anything goes—that's the whole point of it.",
+      "zh": "艺穗节完全不设内容审查，什么都能上演，这正是它的意义所在。"
+    },
+    {
+      "id": 167,
+      "startMs": 998960,
+      "endMs": 1004000,
+      "en": "You can choose to bring anything within reason to the festival and perform it.",
+      "zh": "只要在合理范围内，你可以带任何作品来参加艺术节并上演。"
+    },
+    {
+      "id": 168,
+      "startMs": 1004000,
+      "endMs": 1008720,
+      "en": "I think she's very aware of that, so it's only Amanda Knox herself who could cancel.",
+      "zh": "我认为她很清楚这一点，因此只有阿曼达·诺克斯本人能够取消演出。"
+    },
+    {
+      "id": 169,
+      "startMs": 1009040,
+      "endMs": 1015840,
+      "en": "And I think since she's sold out for at least the first part of the 11-day run, I suspect she's not going to.",
+      "zh": "这轮演出共持续 11 天，至少前半段已经售罄，所以我想她不会取消。"
+    },
+    {
+      "id": 170,
+      "startMs": 1016480,
+      "endMs": 1017680,
+      "en": "That was Pauline McLean.",
+      "zh": "以上是波琳·麦克莱恩的报道。"
+    },
+    {
+      "id": 171,
+      "startMs": 1020500,
+      "endMs": 1026100,
+      "en": "Still to come in this podcast: We know that anecdotes and testimonials are now the strongest form of evidence.",
+      "zh": "本期节目稍后还将报道：如今，轶事和亲身说法成了最有力的证据。"
+    },
+    {
+      "id": 172,
+      "startMs": 1026180,
+      "endMs": 1028740,
+      "en": "\"My aunt on Facebook did this, therefore it must be true.\"",
+      "zh": "“我姑妈在 Facebook 上这么做过，所以这一定是真的。”"
+    },
+    {
+      "id": 173,
+      "startMs": 1028820,
+      "endMs": 1032180,
+      "en": "I see the other side. I see the people where it doesn't work.",
+      "zh": "我看到的是另一面，也看到这些方法不起作用的人。"
+    },
+    {
+      "id": 174,
+      "startMs": 1032420,
+      "endMs": 1036980,
+      "en": "I think we've now got to the stage where your trustworthiness is based on how many followers you have.",
+      "zh": "我认为我们已走到这样一个阶段：一个人是否可信取决于他有多少粉丝。"
+    },
+    {
+      "id": 175,
+      "startMs": 1037700,
+      "endMs": 1043620,
+      "en": "How misinformation online is causing a surge in popularity of unproven cancer treatments.",
+      "zh": "网络虚假信息如何推动未经证实的癌症疗法迅速走红。"
+    },
+    {
+      "id": 176,
+      "startMs": 1051620,
+      "endMs": 1053620,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 177,
+      "startMs": 1054100,
+      "endMs": 1055540,
+      "en": "It was a case that shocked Mexico.",
+      "zh": "这是一起震惊墨西哥的案件。"
+    },
+    {
+      "id": 178,
+      "startMs": 1055620,
+      "endMs": 1063060,
+      "en": "In 2014, 43 students disappeared while traveling from Guerrero State to a protest.",
+      "zh": "2014 年，43 名学生从格雷罗州前往参加抗议活动途中失踪。"
+    },
+    {
+      "id": 179,
+      "startMs": 1063300,
+      "endMs": 1065380,
+      "en": "All of the students are presumed dead.",
+      "zh": "所有学生均被推定已经死亡。"
+    },
+    {
+      "id": 180,
+      "startMs": 1065940,
+      "endMs": 1069860,
+      "en": "There have been several investigations, but no one's ever been convicted.",
+      "zh": "此案经过多次调查，但从未有人被定罪。"
+    },
+    {
+      "id": 181,
+      "startMs": 1070180,
+      "endMs": 1073700,
+      "en": "The victims' families have accused public institutions of a cover-up.",
+      "zh": "受害者家属指控公共机构掩盖真相。"
+    },
+    {
+      "id": 182,
+      "startMs": 1074180,
+      "endMs": 1082340,
+      "en": "Now, a former politician who was a governor of Guerrero State at the time of the disappearances has been arrested, accused of tampering with evidence.",
+      "zh": "如今，失踪案发生时担任格雷罗州州长的一名前政治人物已被捕，被控篡改证据。"
+    },
+    {
+      "id": 183,
+      "startMs": 1082580,
+      "endMs": 1085700,
+      "en": "I've been hearing more from Luis Fajardo from BBC Monitoring.",
+      "zh": "BBC 监测部的路易斯·法哈多向我介绍了更多情况。"
+    },
+    {
+      "id": 184,
+      "startMs": 1086180,
+      "endMs": 1093700,
+      "en": "The Ayotzinapa case, as it's known in Mexico, has been a shocking and profoundly disturbing story for more than a decade.",
+      "zh": "这起在墨西哥被称为阿约齐纳帕案的事件，十多年来一直令人震惊且深感不安。"
+    },
+    {
+      "id": 185,
+      "startMs": 1094100,
+      "endMs": 1102340,
+      "en": "It happened in 2014 when 43 teacher college students from an area in rural Mexico disappeared.",
+      "zh": "事件发生于 2014 年，墨西哥一处乡村地区的 43 名师范院校学生失踪。"
+    },
+    {
+      "id": 186,
+      "startMs": 1102740,
+      "endMs": 1105380,
+      "en": "Only three human remains have been discovered.",
+      "zh": "目前只发现了三名遇害者的遗骸。"
+    },
+    {
+      "id": 187,
+      "startMs": 1105540,
+      "endMs": 1118840,
+      "en": "And after many twists and turns, the accepted version of events is that the students ran into some kind of crime organization—some local drug cartel.",
+      "zh": "经过许多曲折后，普遍接受的说法是，学生遇上了某个犯罪组织，也就是当地贩毒集团。"
+    },
+    {
+      "id": 188,
+      "startMs": 1119240,
+      "endMs": 1122840,
+      "en": "With cooperation from government security forces.",
+      "zh": "政府安全部队与其有所勾结。"
+    },
+    {
+      "id": 189,
+      "startMs": 1123000,
+      "endMs": 1126200,
+      "en": "It's not clear if local or state or federal.",
+      "zh": "目前不清楚涉事的是地方、州级还是联邦安全力量。"
+    },
+    {
+      "id": 190,
+      "startMs": 1126600,
+      "endMs": 1135080,
+      "en": "And since then, there has been a very, very long quest by the relatives of the disappeared to obtain justice,",
+      "zh": "从那以后，失踪者亲属展开了极其漫长的追寻，努力争取正义，"
+    },
+    {
+      "id": 191,
+      "startMs": 1135080,
+      "endMs": 1143080,
+      "en": "to obtain information, to obtain transparency about this case, which has been a very big scandal, again, for more than a decade in Mexican society.",
+      "zh": "获取信息并推动案件公开透明；十多年来，这一直是墨西哥社会的一大丑闻。"
+    },
+    {
+      "id": 192,
+      "startMs": 1143480,
+      "endMs": 1147560,
+      "en": "As you said, more than 10 years on now, but someone has been charged.",
+      "zh": "正如你所说，十多年过去了，如今终于有人受到指控。"
+    },
+    {
+      "id": 193,
+      "startMs": 1147560,
+      "endMs": 1149000,
+      "en": "Can you tell us a bit more about him?",
+      "zh": "你能再多介绍一些他的情况吗？"
+    },
+    {
+      "id": 194,
+      "startMs": 1149560,
+      "endMs": 1155080,
+      "en": "Yes, the former governor of Guerrero State, the place where the students disappeared,",
+      "zh": "是的，学生失踪所在地格雷罗州的前州长，"
+    },
+    {
+      "id": 195,
+      "startMs": 1155080,
+      "endMs": 1162280,
+      "en": "he was the governor there, and he has been arrested, and he has been accused of concealing evidence,",
+      "zh": "他当时就是该州州长。如今他已被捕，并被控隐瞒证据，"
+    },
+    {
+      "id": 196,
+      "startMs": 1162440,
+      "endMs": 1172380,
+      "en": "apparently of CCTV recordings, which apparently showed the moment in which the students were taken, course of events that led to their disappearance.",
+      "zh": "据称是监控录像，其中似乎记录了学生被带走的那一刻，以及导致他们失踪的一系列事件。"
+    },
+    {
+      "id": 197,
+      "startMs": 1172780,
+      "endMs": 1182780,
+      "en": "This is seen as a big move in the sense that a high-ranking former official is now being investigated and potentially has to respond for this.",
+      "zh": "这被视为一项重大进展，因为一名曾身居高位的官员如今正接受调查，并可能需要为此作出交代。"
+    },
+    {
+      "id": 198,
+      "startMs": 1182860,
+      "endMs": 1194060,
+      "en": "The biggest similar case was a few years ago, when the prosecutor general of Mexico, Jesús Murillo Karam, was also charged in relation with this incident.",
+      "zh": "规模最大的一起类似案件发生在几年前，当时墨西哥总检察长赫苏斯·穆里略·卡拉姆也因与这起事件有关而受到指控。"
+    },
+    {
+      "id": 199,
+      "startMs": 1194380,
+      "endMs": 1195660,
+      "en": "He's still awaiting trial.",
+      "zh": "他目前仍在等待审判。"
+    },
+    {
+      "id": 200,
+      "startMs": 1196380,
+      "endMs": 1202880,
+      "en": "Do you think, then, this is a bit of a watershed moment in terms of combating alleged corruption in Mexico?",
+      "zh": "那么，你认为这是否算是墨西哥打击涉嫌腐败问题的一个分水岭时刻？"
+    },
+    {
+      "id": 201,
+      "startMs": 1203760,
+      "endMs": 1209520,
+      "en": "Well, people have certainly been demanding for years transparency and accountability.",
+      "zh": "嗯，多年来人们的确一直在要求透明和问责。"
+    },
+    {
+      "id": 202,
+      "startMs": 1209840,
+      "endMs": 1218000,
+      "en": "And there's still a great deal of skepticism across Mexican society about how the state has reacted in this particular case.",
+      "zh": "而墨西哥社会对于政府在这起案件中的应对方式仍存在大量质疑。"
+    },
+    {
+      "id": 203,
+      "startMs": 1218000,
+      "endMs": 1219120,
+      "en": "It has taken so long.",
+      "zh": "事情已经拖了太久。"
+    },
+    {
+      "id": 204,
+      "startMs": 1219520,
+      "endMs": 1228400,
+      "en": "Again, the very, very visible plight of the relatives of the Ayotzinapa students has left a very big impression in public opinion.",
+      "zh": "再者，阿约齐纳帕学生家属那极其显眼的困境，给公众舆论留下了非常深刻的印象。"
+    },
+    {
+      "id": 205,
+      "startMs": 1228640,
+      "endMs": 1236240,
+      "en": "There have been many different false leads that, at one moment or another, gave families hope.",
+      "zh": "曾出现过许多不同的错误线索，一度让家属燃起希望。"
+    },
+    {
+      "id": 206,
+      "startMs": 1236240,
+      "endMs": 1241280,
+      "en": "That they would learn more about the fate of, of the students—of their, of their loved ones.",
+      "zh": "以为能进一步了解这些学生，也就是他们亲人的命运。"
+    },
+    {
+      "id": 207,
+      "startMs": 1241600,
+      "endMs": 1246240,
+      "en": "There have been international experts trying to help with the investigation around that,",
+      "zh": "一直有国际专家试图协助这方面的调查，"
+    },
+    {
+      "id": 208,
+      "startMs": 1246240,
+      "endMs": 1252880,
+      "en": "but I would say that overall, the feeling is of frustration from the students' families and from public opinion in general,",
+      "zh": "但我认为，总体而言，学生家属和社会公众普遍感到沮丧，"
+    },
+    {
+      "id": 209,
+      "startMs": 1252880,
+      "endMs": 1261300,
+      "en": "That has seen, in some cases, some members of these public institutions apparently were acting in cooperation with these criminal groups.",
+      "zh": "因为公众看到，在某些情况下，这些公共机构的一些成员似乎与犯罪集团相互勾结。"
+    },
+    {
+      "id": 210,
+      "startMs": 1261380,
+      "endMs": 1266100,
+      "en": "And this led to this very long saga of the Ayotzinapa students. Luis Fajardo.",
+      "zh": "最终酿成了阿约齐纳帕学生事件这场旷日持久的悲剧。路易斯·法哈多报道。"
+    },
+    {
+      "id": 211,
+      "startMs": 1266100,
+      "endMs": 1276420,
+      "en": "A BBC investigation has found that animal dewormer and a drug used to treat scabies are being sold and promoted as unproven cancer treatments online.",
+      "zh": "BBC 调查发现，动物驱虫药和一种用于治疗疥疮的药物，正在网上以未经证实的癌症疗法名义出售和推广。"
+    },
+    {
+      "id": 212,
+      "startMs": 1276740,
+      "endMs": 1279380,
+      "en": "Their popularity surged in the United States last year.",
+      "zh": "去年，这些药物在美国迅速走红。"
+    },
+    {
+      "id": 213,
+      "startMs": 1279540,
+      "endMs": 1288440,
+      "en": "After the actor Mel Gibson claimed on the influential Joe Rogan podcast that three friends were cured of cancer by taking the drugs.",
+      "zh": "此前，演员梅尔·吉布森在颇具影响力的乔·罗根播客中声称，三位朋友服用这些药物后癌症痊愈。"
+    },
+    {
+      "id": 214,
+      "startMs": 1288760,
+      "endMs": 1291960,
+      "en": "Paul Heaney reports on the situation in the UK.",
+      "zh": "保罗·希尼报道英国的情况。"
+    },
+    {
+      "id": 215,
+      "startMs": 1293060,
+      "endMs": 1295140,
+      "en": "It's all in there for you, right? Magic.",
+      "zh": "都给你装在里面了，对吧？太神奇了。"
+    },
+    {
+      "id": 216,
+      "startMs": 1295140,
+      "endMs": 1302340,
+      "en": "Selling an undercover journalist two medicines as cancer treatment.",
+      "zh": "他把两种药物作为癌症治疗药卖给了卧底记者。"
+    },
+    {
+      "id": 217,
+      "startMs": 1302340,
+      "endMs": 1309140,
+      "en": "That stuff there works best on lung cancer, but it does work on other cancers as well.",
+      "zh": "那种东西对肺癌效果最好，但对其他癌症也确实有效。"
+    },
+    {
+      "id": 218,
+      "startMs": 1309380,
+      "endMs": 1313220,
+      "en": "Meet Jason Sarver, a stairlift salesman from South Wales.",
+      "zh": "这位是来自南威尔士的座椅式楼梯升降机销售员杰森·萨弗。"
+    },
+    {
+      "id": 219,
+      "startMs": 1314020,
+      "endMs": 1320420,
+      "en": "He admits he's not a doctor, yet sold us fenbendazole, which he'd previously told us was a deworming medicine for animals,",
+      "zh": "他承认自己不是医生，却向我们出售了芬苯达唑，而他此前告诉我们这是一种动物驱虫药，"
+    },
+    {
+      "id": 220,
+      "startMs": 1320900,
+      "endMs": 1326580,
+      "en": "and ivermectin, which should only be available on prescription for stuff like scabies, not cancer.",
+      "zh": "还有伊维菌素；这种药只能凭处方用于疥疮等疾病，而非癌症。"
+    },
+    {
+      "id": 221,
+      "startMs": 1326580,
+      "endMs": 1328100,
+      "en": "Because that's my job as well.",
+      "zh": "因为这也是我的工作。"
+    },
+    {
+      "id": 222,
+      "startMs": 1328260,
+      "endMs": 1330900,
+      "en": "I see a lot of ill people, and I can't help myself.",
+      "zh": "我见过很多患病的人，我就是忍不住。"
+    },
+    {
+      "id": 223,
+      "startMs": 1332280,
+      "endMs": 1333240,
+      "en": "I gotta tell him about it.",
+      "zh": "我得把这件事告诉他。"
+    },
+    {
+      "id": 224,
+      "startMs": 1333800,
+      "endMs": 1335880,
+      "en": "He's not the only one making these claims.",
+      "zh": "提出这些说法的不止他一个。"
+    },
+    {
+      "id": 225,
+      "startMs": 1335880,
+      "endMs": 1343320,
+      "en": "We've seen videos and social posts with thousands, sometimes millions of views, talking about these medicines treating cancer.",
+      "zh": "我们看到一些视频和社交媒体帖子获得了数千、有时甚至数百万次浏览，都在谈论这些药物可以治疗癌症。"
+    },
+    {
+      "id": 226,
+      "startMs": 1343640,
+      "endMs": 1347480,
+      "en": "We have an increasing number of people asking about these two products.",
+      "zh": "越来越多的人向我们询问这两种产品。"
+    },
+    {
+      "id": 227,
+      "startMs": 1347560,
+      "endMs": 1351000,
+      "en": "Professor Richard Simcock is from Macmillan Cancer Support.",
+      "zh": "理查德·西姆科克教授来自麦克米伦癌症援助机构。"
+    },
+    {
+      "id": 228,
+      "startMs": 1351320,
+      "endMs": 1355160,
+      "en": "People are interested to know if it can help them when they're affected by cancer,",
+      "zh": "人们患癌后很想知道这些药物能否帮助自己，"
+    },
+    {
+      "id": 229,
+      "startMs": 1355160,
+      "endMs": 1362280,
+      "en": "and we're worried that they're not getting up-to-date and effective and accurate information about what these drugs are capable of,",
+      "zh": "而我们担心，他们没有获得有关这些药物实际功效的最新、有效且准确的信息，"
+    },
+    {
+      "id": 230,
+      "startMs": 1362520,
+      "endMs": 1370600,
+      "en": "because we have literally no clinical evidence, evidence in people affected by cancer of high standard, that shows that they are effective.",
+      "zh": "因为我们确实没有任何高质量的癌症患者临床证据可以证明这些药物有效。"
+    },
+    {
+      "id": 231,
+      "startMs": 1371820,
+      "endMs": 1378220,
+      "en": "As soon as she told me that she was diagnosed with cancer, I—she told me she wanted to take ivermectin and fenbendazole.",
+      "zh": "她一告诉我自己被诊断出癌症，我——她就说自己想服用伊维菌素和芬苯达唑。"
+    },
+    {
+      "id": 232,
+      "startMs": 1378860,
+      "endMs": 1387820,
+      "en": "Jared Wright, from Wisconsin in the USA, says his mum read about the unproven claims online and put her faith in them instead of conventional treatment.",
+      "zh": "美国威斯康星州的贾里德·赖特说，他的母亲在网上看到这些未经证实的说法后，选择相信它们而放弃了常规治疗。"
+    },
+    {
+      "id": 233,
+      "startMs": 1388460,
+      "endMs": 1393580,
+      "en": "My mother was scared, for one, but she was a victim of misinformation about cancer.",
+      "zh": "首先，我母亲当时很害怕，但她也是癌症虚假信息的受害者。"
+    },
+    {
+      "id": 234,
+      "startMs": 1394480,
+      "endMs": 1395440,
+      "en": "It was a horrible death.",
+      "zh": "那是一场可怕的死亡。"
+    },
+    {
+      "id": 235,
+      "startMs": 1395760,
+      "endMs": 1401760,
+      "en": "She just was, like, shaking, and she couldn't see.",
+      "zh": "她当时就一直在发抖，而且什么也看不见。"
+    },
+    {
+      "id": 236,
+      "startMs": 1401760,
+      "endMs": 1403600,
+      "en": "She had this, like, glaze over her eyes.",
+      "zh": "她的眼睛像是蒙上了一层东西。"
+    },
+    {
+      "id": 237,
+      "startMs": 1403600,
+      "endMs": 1404320,
+      "en": "She couldn't speak.",
+      "zh": "她无法说话。"
+    },
+    {
+      "id": 238,
+      "startMs": 1407100,
+      "endMs": 1414140,
+      "en": "And despite restrictions on their use in the UK, in these packages we've had both drugs delivered from the Amazon website:",
+      "zh": "尽管英国对这些药物的使用有所限制，我们还是通过亚马逊网站收到了装在这些包裹里的两种药物："
+    },
+    {
+      "id": 239,
+      "startMs": 1414220,
+      "endMs": 1423340,
+      "en": "this bottle of fenbendazole tablets listed under sports supplements, and the prescription-only ivermectin, with no checks.",
+      "zh": "这瓶被列在运动补剂类别下的芬苯达唑片，以及本应凭处方购买的伊维菌素，整个过程没有任何核查。"
+    },
+    {
+      "id": 240,
+      "startMs": 1424200,
+      "endMs": 1432840,
+      "en": "The medicine regulator told us it can take action, including criminal investigation, if prescription-only drugs were sold by someone without a prescription.",
+      "zh": "药品监管机构告诉我们，如果有人在没有处方的情况下销售处方药，监管机构可以采取行动，包括展开刑事调查。"
+    },
+    {
+      "id": 241,
+      "startMs": 1433560,
+      "endMs": 1435960,
+      "en": "Amazon removed the products after we contacted them.",
+      "zh": "在我们联系亚马逊后，该公司下架了这些产品。"
+    },
+    {
+      "id": 242,
+      "startMs": 1436280,
+      "endMs": 1444040,
+      "en": "It says it has measures in place to prevent prohibited products being listed by third-party sellers, and they continuously monitor their store.",
+      "zh": "亚马逊表示，公司已采取措施防止第三方卖家上架违禁商品，并持续监控其商城。"
+    },
+    {
+      "id": 243,
+      "startMs": 1444520,
+      "endMs": 1446040,
+      "en": "Hi, I'm Dr. Liz O'Riordan.",
+      "zh": "大家好，我是莉兹·奥里奥丹医生。"
+    },
+    {
+      "id": 244,
+      "startMs": 1446040,
+      "endMs": 1447800,
+      "en": "I'm a breast surgeon who's had breast cancer.",
+      "zh": "我是一名曾患乳腺癌的乳腺外科医生。"
+    },
+    {
+      "id": 245,
+      "startMs": 1448040,
+      "endMs": 1455160,
+      "en": "A three-time cancer survivor, Dr. O'Riordan now runs a YouTube channel challenging unproven health claims.",
+      "zh": "三度战胜癌症的奥里奥丹医生如今运营着一个 YouTube 频道，质疑未经证实的健康说法。"
+    },
+    {
+      "id": 246,
+      "startMs": 1455400,
+      "endMs": 1458520,
+      "en": "We know that anecdotes and testimonials are now the strongest form of evidence.",
+      "zh": "我们知道，如今轶事和亲身说法成了最有力的证据。"
+    },
+    {
+      "id": 247,
+      "startMs": 1458760,
+      "endMs": 1461320,
+      "en": "My aunt on Facebook did this, therefore it must be true.",
+      "zh": "我姨妈在脸书上这样做过，所以这肯定是真的。"
+    },
+    {
+      "id": 248,
+      "startMs": 1461320,
+      "endMs": 1462440,
+      "en": "I see the other side.",
+      "zh": "我看到的是另一面。"
+    },
+    {
+      "id": 249,
+      "startMs": 1463000,
+      "endMs": 1466760,
+      "en": "I see the people where it doesn't work, where they got sick, where they died.",
+      "zh": "我看到的是那些疗法无效的人，他们病情加重，甚至死亡。"
+    },
+    {
+      "id": 250,
+      "startMs": 1467080,
+      "endMs": 1471880,
+      "en": "I think we've now got to the stage where your, your trustworthiness is based on how many followers you have.",
+      "zh": "我觉得我们现在已经到了这样一种地步：你是否值得信任，取决于你有多少粉丝。"
+    },
+    {
+      "id": 251,
+      "startMs": 1472940,
+      "endMs": 1474220,
+      "en": "Jared agrees.",
+      "zh": "贾里德对此表示认同。"
+    },
+    {
+      "id": 252,
+      "startMs": 1474540,
+      "endMs": 1477260,
+      "en": "It's an enormous problem, the misinformation online.",
+      "zh": "网上的虚假信息是一个极其严重的问题。"
+    },
+    {
+      "id": 253,
+      "startMs": 1477580,
+      "endMs": 1489020,
+      "en": "But I, I hope I can help at least a little bit by speaking to you, and hopefully there are fewer people who die the way that my mother died.",
+      "zh": "但我、我希望通过和你谈这件事，至少能起到一点作用，也希望以后少一些人像我母亲那样死去。"
+    },
+    {
+      "id": 254,
+      "startMs": 1490120,
+      "endMs": 1493880,
+      "en": "We asked Jason Sarver, the stairlift salesman, why he sold us the drugs.",
+      "zh": "我们询问了座椅式楼梯升降机销售员杰森·萨弗，为何把这些药卖给我们。"
+    },
+    {
+      "id": 255,
+      "startMs": 1494280,
+      "endMs": 1495400,
+      "en": "He didn't want to comment.",
+      "zh": "他不愿置评。"
+    },
+    {
+      "id": 256,
+      "startMs": 1495720,
+      "endMs": 1502200,
+      "en": "But doctors and charities are concerned that his unproven claims are echoed by others online, across the world.",
+      "zh": "但医生和慈善机构担忧，他这些未经证实的说法正被世界各地的其他人在网上附和和传播。"
+    },
+    {
+      "id": 257,
+      "startMs": 1503680,
+      "endMs": 1504720,
+      "en": "That was Paul Heaney.",
+      "zh": "以上是保罗·希尼的报道。"
+    },
+    {
+      "id": 258,
+      "startMs": 1505440,
+      "endMs": 1513200,
+      "en": "World football remains deeply divided, with the English Football Association withdrawing its support for the embattled Gianni Infantino.",
+      "zh": "世界足坛依然严重分裂，英格兰足球总会撤回了对深陷困境的詹尼·因凡蒂诺的支持。"
+    },
+    {
+      "id": 259,
+      "startMs": 1513520,
+      "endMs": 1516320,
+      "en": "Even after FIFA backed him to stay on as president.",
+      "zh": "尽管国际足联支持他继续担任主席。"
+    },
+    {
+      "id": 260,
+      "startMs": 1516800,
+      "endMs": 1519840,
+      "en": "UEFA, which governs European football, wants him gone.",
+      "zh": "管理欧洲足球事务的欧足联希望他下台。"
+    },
+    {
+      "id": 261,
+      "startMs": 1520160,
+      "endMs": 1529920,
+      "en": "It has warned that European teams could still boycott competitions, including the World Cup, despite the controversial plan to sell it off to private investors being abandoned.",
+      "zh": "它警告称，即使将世界杯出售给私人投资者的争议计划已经放弃，欧洲球队仍可能抵制包括世界杯在内的赛事。"
+    },
+    {
+      "id": 262,
+      "startMs": 1530400,
+      "endMs": 1537120,
+      "en": "The former FA chairman, David Bernstein, says UEFA's threat is its best chance of removing Infantino.",
+      "zh": "英足总前主席戴维·伯恩斯坦表示，欧足联的威胁是罢免因凡蒂诺的最佳机会。"
+    },
+    {
+      "id": 263,
+      "startMs": 1537440,
+      "endMs": 1544320,
+      "en": "UEFA is key to this because without the European nations, the World Cup will be very, very little.",
+      "zh": "欧足联是此事的关键，因为没有欧洲国家，世界杯将大为失色。"
+    },
+    {
+      "id": 264,
+      "startMs": 1544480,
+      "endMs": 1552480,
+      "en": "If UEFA remains united and these big countries there included there in Spain, ourselves, Germany, Italy and so on, stick together,",
+      "zh": "如果欧足联保持团结，而其中包括西班牙、我们英国、德国、意大利等在内的这些大国也团结一致，"
+    },
+    {
+      "id": 265,
+      "startMs": 1552880,
+      "endMs": 1557920,
+      "en": "I believe that they can reach a positive conclusion, by which I mean Infantino will go.",
+      "zh": "我相信他们能取得一个积极结果，我的意思是，因凡蒂诺将会下台。"
+    },
+    {
+      "id": 266,
+      "startMs": 1558740,
+      "endMs": 1567860,
+      "en": "But the Confederation of African Football and the football associations of Argentina and Mexico have all issued statements voicing their support for Infantino.",
+      "zh": "但非洲足球联合会以及阿根廷和墨西哥足协都发表声明，表示支持因凡蒂诺。"
+    },
+    {
+      "id": 267,
+      "startMs": 1568260,
+      "endMs": 1572020,
+      "en": "Our sports editor, Dan Roan, has been telling us more about the developments.",
+      "zh": "本台体育编辑丹·罗恩进一步介绍了事态发展。"
+    },
+    {
+      "id": 268,
+      "startMs": 1572420,
+      "endMs": 1575460,
+      "en": "Clearly, he's digging in and believes he can ride this crisis out.",
+      "zh": "显然，他拒不退让，并相信自己能够挺过这场危机。"
+    },
+    {
+      "id": 269,
+      "startMs": 1575460,
+      "endMs": 1580180,
+      "en": "But Infantino is under pressure now from multiple angles, and his future remains uncertain.",
+      "zh": "但因凡蒂诺现在正承受来自多方面的压力，他的前途仍不明朗。"
+    },
+    {
+      "id": 270,
+      "startMs": 1580180,
+      "endMs": 1586900,
+      "en": "I think if he thought yesterday's attempted reset in Rabat and his apology would help draw a line under this saga, he's mistaken.",
+      "zh": "我认为，如果他以为昨天在拉巴特试图重整局面并作出道歉，就能让这场风波告一段落，那他就错了。"
+    },
+    {
+      "id": 271,
+      "startMs": 1587460,
+      "endMs": 1589140,
+      "en": "UEFA are not backing down.",
+      "zh": "欧足联并未退让。"
+    },
+    {
+      "id": 272,
+      "startMs": 1589140,
+      "endMs": 1593460,
+      "en": "In fact, they've doubled down, reasserting a threat to boycott FIFA competitions.",
+      "zh": "事实上，他们进一步加码，再次扬言抵制国际足联赛事。"
+    },
+    {
+      "id": 273,
+      "startMs": 1593780,
+      "endMs": 1596340,
+      "en": "Now, that's tough talk. Will they go through with such a move?",
+      "zh": "这话说得很强硬。他们会真的采取这一行动吗？"
+    },
+    {
+      "id": 274,
+      "startMs": 1596660,
+      "endMs": 1600900,
+      "en": "We'll find out soon because the Women's Under-20 World Cup, it takes place next month.",
+      "zh": "我们很快就会知道答案，因为女足 U20 世界杯将于下个月举行。"
+    },
+    {
+      "id": 275,
+      "startMs": 1600900,
+      "endMs": 1604580,
+      "en": "England are among six European countries due to take part.",
+      "zh": "英格兰是计划参赛的六个欧洲国家之一。"
+    },
+    {
+      "id": 276,
+      "startMs": 1604900,
+      "endMs": 1607060,
+      "en": "A boycott's not without risk for UEFA.",
+      "zh": "对欧足联来说，抵制行动并非没有风险。"
+    },
+    {
+      "id": 277,
+      "startMs": 1607060,
+      "endMs": 1614340,
+      "en": "If young players are denied the chance to participate in such an event over this feud, it could alienate some allies in this fight.",
+      "zh": "如果年轻球员因为这场争端而失去参加此类赛事的机会，可能会让这场斗争中的一些盟友离心。"
+    },
+    {
+      "id": 278,
+      "startMs": 1614340,
+      "endMs": 1618260,
+      "en": "But I think UEFA are now desperate to maintain the pressure on Infantino.",
+      "zh": "但我认为，欧足联现在迫切希望继续向因凡蒂诺施压。"
+    },
+    {
+      "id": 279,
+      "startMs": 1618340,
+      "endMs": 1621000,
+      "en": "The issue is that he retains support elsewhere.",
+      "zh": "问题在于，他在其他地区仍然拥有支持。"
+    },
+    {
+      "id": 280,
+      "startMs": 1621000,
+      "endMs": 1629960,
+      "en": "This evening, the African Confederation said it was fully behind him, in a reminder of the loyalty that FIFA's record development funds has earned the president.",
+      "zh": "今晚，非洲足联表示全力支持他，这也提醒人们，国际足联创纪录的发展资金为这位主席赢得了怎样的忠诚。"
+    },
+    {
+      "id": 281,
+      "startMs": 1630040,
+      "endMs": 1634040,
+      "en": "And while the South American region made clear its opposition to the sell-off scheme,",
+      "zh": "尽管南美地区明确反对出售方案，"
+    },
+    {
+      "id": 282,
+      "startMs": 1634040,
+      "endMs": 1639080,
+      "en": "It seemed to say Infantino should be allowed to stand for re-election for a fourth term next year.",
+      "zh": "但其表态似乎认为，应允许因凡蒂诺在明年竞选连任第四个任期。"
+    },
+    {
+      "id": 283,
+      "startMs": 1639080,
+      "endMs": 1641080,
+      "en": "Now, UEFA will hope he's long gone by then.",
+      "zh": "欧足联会希望到那时他早已离任。"
+    },
+    {
+      "id": 284,
+      "startMs": 1641320,
+      "endMs": 1644280,
+      "en": "If not, a unifying challenger candidate will have to be found.",
+      "zh": "如果没有，就必须找到一位能够凝聚各方的挑战者候选人。"
+    },
+    {
+      "id": 285,
+      "startMs": 1644280,
+      "endMs": 1649880,
+      "en": "But in the meantime, world football's unprecedented civil war could drag on for months. Dan Roan.",
+      "zh": "但与此同时，世界足坛这场前所未有的内战可能会持续数月。丹·罗恩报道。"
+    },
+    {
+      "id": 286,
+      "startMs": 1650120,
+      "endMs": 1660840,
+      "en": "Finally, an abbot's kneecap has been returned to an abbey in Somerset in southwest England after being taken by a schoolboy on a trip there more than 70 years ago.",
+      "zh": "最后，一块修道院院长的膝盖骨被归还给英格兰西南部萨默塞特的一座修道院。70 多年前，一名男学生参观时将它带走。"
+    },
+    {
+      "id": 287,
+      "startMs": 1661320,
+      "endMs": 1671320,
+      "en": "George Box was just 11 years old when he ducked under the ropes at Glastonbury Abbey in 1956 and took the medieval bone from an open tomb.",
+      "zh": "1956 年，年仅 11 岁的乔治·博克斯从格拉斯顿伯里修道院的围绳下钻过去，从一座敞开的墓穴中拿走了这块中世纪骨骼。"
+    },
+    {
+      "id": 288,
+      "startMs": 1671640,
+      "endMs": 1674280,
+      "en": "It's finally been brought back by his widow.",
+      "zh": "如今，他的遗孀终于将它送了回来。"
+    },
+    {
+      "id": 289,
+      "startMs": 1674600,
+      "endMs": 1676360,
+      "en": "Navtej Johal reports.",
+      "zh": "纳夫泰吉·乔哈尔报道。"
+    },
+    {
+      "id": 290,
+      "startMs": 1676600,
+      "endMs": 1679580,
+      "en": "Call it a case of joint enterprise.",
+      "zh": "不妨称之为一桩“关节合伙案”。"
+    },
+    {
+      "id": 291,
+      "startMs": 1679660,
+      "endMs": 1686620,
+      "en": "After George Box died last year, his widow got in touch with Glastonbury Abbey to confess to her late husband's childhood pilfering.",
+      "zh": "乔治·博克斯去年去世后，他的遗孀联系格拉斯顿伯里修道院，坦白亡夫儿时的偷窃行为。"
+    },
+    {
+      "id": 292,
+      "startMs": 1687180,
+      "endMs": 1694140,
+      "en": "The abbey says she described him as a scallywag who had not only taken the bone but a fragment of medieval floor tile too.",
+      "zh": "修道院称，她把丈夫形容为一个淘气鬼，因为他不仅拿走了骨头，还拿走了一块中世纪地砖碎片。"
+    },
+    {
+      "id": 293,
+      "startMs": 1694620,
+      "endMs": 1701740,
+      "en": "In 1970, George emigrated to Australia, where the abbot's kneecap and tile were on display in a glass cabinet in his hallway.",
+      "zh": "1970 年，乔治移居澳大利亚，院长的膝盖骨和地砖被陈列在他家走廊的玻璃柜中。"
+    },
+    {
+      "id": 294,
+      "startMs": 1702380,
+      "endMs": 1708620,
+      "en": "But it was only after he admitted the theft to his wife that he finally agreed that both artifacts should be returned,",
+      "zh": "但直到向妻子承认盗窃行为后，他才终于同意归还这两件文物，"
+    },
+    {
+      "id": 295,
+      "startMs": 1709020,
+      "endMs": 1712860,
+      "en": "though not until he had joined the abbot with one kneecap in the afterlife.",
+      "zh": "不过要等到他在来世与那位只有一块膝盖骨的院长相会之后。"
+    },
+    {
+      "id": 296,
+      "startMs": 1713500,
+      "endMs": 1722060,
+      "en": "Although it's not known exactly which abbot the kneecap belonged to, Lucy Newman, the abbey's collections manager, told BBC Radio Somerset that they have a good idea.",
+      "zh": "虽然尚不清楚这块膝盖骨究竟属于哪位院长，但修道院藏品经理露西·纽曼告诉 BBC 萨默塞特广播电台，他们大致有数。"
+    },
+    {
+      "id": 297,
+      "startMs": 1722380,
+      "endMs": 1729100,
+      "en": "We've got it narrowed down to about three possibilities, but the problem is we wouldn't want to exhume all of them.",
+      "zh": "我们已把范围缩小到大约三种可能，但问题是，我们不想把他们全都挖出来。"
+    },
+    {
+      "id": 298,
+      "startMs": 1729660,
+      "endMs": 1734060,
+      "en": "That would cause more damage to the archaeology than is probably, you know, the benefits.",
+      "zh": "那样对考古遗址造成的破坏，可能会超过它带来的好处，你知道。"
+    },
+    {
+      "id": 299,
+      "startMs": 1735660,
+      "endMs": 1738460,
+      "en": "And you wouldn't want to give an abbot three kneecaps.",
+      "zh": "而且你也不想让一位院长拥有三块膝盖骨。"
+    },
+    {
+      "id": 300,
+      "startMs": 1739680,
+      "endMs": 1747600,
+      "en": "Although the abbey does not condone such thievery, Lucy says that given 70 years had passed since the incident, there was a bit of an amnesty.",
+      "zh": "尽管修道院并不纵容这种偷窃行为，但露西说，鉴于事情已经过去 70 年，也算是给予了一定的宽免。"
+    },
+    {
+      "id": 301,
+      "startMs": 1747840,
+      "endMs": 1752400,
+      "en": "Both the kneecap and tile fragment are now on display in the abbey's museum.",
+      "zh": "这块膝盖骨和地砖碎片如今都在修道院博物馆展出。"
+    },
+    {
+      "id": 302,
+      "startMs": 1752720,
+      "endMs": 1753840,
+      "en": "Navtej Johal.",
+      "zh": "纳夫泰吉·乔哈尔报道。"
+    },
+    {
+      "id": 303,
+      "startMs": 1756780,
+      "endMs": 1757980,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是本期节目的全部内容。"
+    },
+    {
+      "id": 304,
+      "startMs": 1757980,
+      "endMs": 1762060,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 305,
+      "startMs": 1762380,
+      "endMs": 1765820,
+      "en": "You can also find us on X at @bbcworldservice.",
+      "zh": "你也可以在 X 上通过 @bbcworldservice 找到我们。"
+    },
+    {
+      "id": 306,
+      "startMs": 1765820,
+      "endMs": 1767660,
+      "en": "Use the hashtag #globalnewspod.",
+      "zh": "请使用话题标签 #globalnewspod。"
+    },
+    {
+      "id": 307,
+      "startMs": 1767980,
+      "endMs": 1770380,
+      "en": "Don't forget our sister podcast, The Global Story.",
+      "zh": "别忘了收听我们的姊妹播客《The Global Story》。"
+    },
+    {
+      "id": 308,
+      "startMs": 1770780,
+      "endMs": 1775580,
+      "en": "This edition of the Global News Podcast was mixed by Joe McCartney, and the producer was Rebecca Wood.",
+      "zh": "本期《Global News Podcast》由乔·麦卡特尼完成混音，制片人是丽贝卡·伍德。"
+    },
+    {
+      "id": 309,
+      "startMs": 1775900,
+      "endMs": 1778460,
+      "en": "The editor is Karen Martin, and I am Charlotte Gallagher.",
+      "zh": "编辑是凯伦·马丁，我是夏洛特·加拉格尔。"
+    },
+    {
+      "id": 310,
+      "startMs": 1778460,
+      "endMs": 1779980,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再会，再见。"
+    }
+  ]
+}

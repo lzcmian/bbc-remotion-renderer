@@ -1,0 +1,2118 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "7 August 2026 · Evening Edition"
+  },
+  "durationMs": 1704620,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3120,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 国际台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5480,
+      "endMs": 6920,
+      "en": "Hello, I'm Oliver Conway.",
+      "zh": "大家好，我是奥利弗·康韦。"
+    },
+    {
+      "id": 3,
+      "startMs": 6920,
+      "endMs": 11000,
+      "en": "We're recording this at 15:00 GMT on Friday, the 7th of August.",
+      "zh": "我们录制节目时是格林尼治标准时间 8 月 7 日星期五 15 点。"
+    },
+    {
+      "id": 4,
+      "startMs": 11320,
+      "endMs": 16920,
+      "en": "A teenager in Thailand has shot dead seven people, including teachers at his school, before killing himself.",
+      "zh": "泰国一名少年开枪打死包括本校教师在内的七人，随后自杀。"
+    },
+    {
+      "id": 5,
+      "startMs": 17640,
+      "endMs": 22440,
+      "en": "Saudi Arabia, Turkey and Pakistan sign a NATO-style defense agreement.",
+      "zh": "沙特阿拉伯、土耳其和巴基斯坦签署一项北约式防务协议。"
+    },
+    {
+      "id": 6,
+      "startMs": 23000,
+      "endMs": 30440,
+      "en": "And as the Ebola outbreak in Congo hits 4,000 cases, health experts say local communities must play a greater role.",
+      "zh": "刚果的埃博拉疫情病例达到 4,000 例，卫生专家称当地社区必须发挥更大作用。"
+    },
+    {
+      "id": 7,
+      "startMs": 33240,
+      "endMs": 39240,
+      "en": "Also in this podcast, a row in London over plans to encourage drinkers not to stand in pubs.",
+      "zh": "本期节目还将报道，伦敦一项鼓励酒客不要站着喝酒的计划引发争议。"
+    },
+    {
+      "id": 8,
+      "startMs": 39720,
+      "endMs": 45000,
+      "en": "Sometimes there's like a bit of a buzz about it, isn't there, like pub culture, I suppose, of mingling and, yeah, enjoying it and having fun.",
+      "zh": "有时候现场就是会有点热闹的气氛，对吧？我想，这就是酒吧文化：大家彼此交流，尽情享受、玩得开心。"
+    },
+    {
+      "id": 9,
+      "startMs": 45000,
+      "endMs": 49360,
+      "en": "If you come to a pub and all the tables are full, you'd probably just be like, no, not going to bother.",
+      "zh": "如果你来到酒吧，发现所有桌子都坐满了，你很可能会想：算了，不费这个劲了。"
+    },
+    {
+      "id": 10,
+      "startMs": 49920,
+      "endMs": 52480,
+      "en": "And the giant lizard of Lombardy.",
+      "zh": "还有伦巴第的巨型蜥蜴。"
+    },
+    {
+      "id": 11,
+      "startMs": 58840,
+      "endMs": 64360,
+      "en": "A school shooting in Thailand has left seven people dead and 13 people in hospital.",
+      "zh": "泰国发生一起校园枪击事件，造成七人死亡、13 人住院。"
+    },
+    {
+      "id": 12,
+      "startMs": 64520,
+      "endMs": 71080,
+      "en": "It comes after a string of high-profile attacks there in recent years, but has shocked the nation nonetheless.",
+      "zh": "近年来当地曾发生一连串备受关注的袭击事件，但此次事件仍然震惊全国。"
+    },
+    {
+      "id": 13,
+      "startMs": 71240,
+      "endMs": 79000,
+      "en": "The gunman was a 14-year-old pupil, and the school is part of a prestigious network which has educated royalty and prime ministers alike.",
+      "zh": "枪手是一名 14 岁学生；这所学校隶属一个享有盛誉的教育体系，曾培养王室成员和多位总理。"
+    },
+    {
+      "id": 14,
+      "startMs": 79480,
+      "endMs": 84920,
+      "en": "Police say the boy killed his grandparents before opening fire at the school and then killing himself.",
+      "zh": "警方称，这名男孩先杀害祖父母，随后到学校开枪并自杀。"
+    },
+    {
+      "id": 15,
+      "startMs": 85480,
+      "endMs": 89480,
+      "en": "This footage was recorded on a mobile phone by a student in one of the classrooms.",
+      "zh": "这段画面由一间教室内的学生用手机拍摄。"
+    },
+    {
+      "id": 16,
+      "startMs": 97220,
+      "endMs": 103860,
+      "en": "Pupils in their blue uniforms crouched on the floor underneath their desks, trying to stay as quiet as possible.",
+      "zh": "身穿蓝色校服的学生蹲伏在课桌下的地板上，尽量不发出声音。"
+    },
+    {
+      "id": 17,
+      "startMs": 104580,
+      "endMs": 106580,
+      "en": "Later, these students spoke about what they saw.",
+      "zh": "随后，这些学生讲述了他们的所见。"
+    },
+    {
+      "id": 18,
+      "startMs": 107460,
+      "endMs": 115140,
+      "en": "I was working in the room when I heard a gunshot, followed by several more continuously.",
+      "zh": "我当时正在房间里做事，突然听到一声枪响，接着又连续响了好几枪。"
+    },
+    {
+      "id": 19,
+      "startMs": 115460,
+      "endMs": 121060,
+      "en": "At first, I thought somebody was playing with a gun, so I called my friends to hide inside the room.",
+      "zh": "起初我以为有人在玩枪，于是叫朋友们躲进房间里。"
+    },
+    {
+      "id": 20,
+      "startMs": 121620,
+      "endMs": 128020,
+      "en": "He first opened fire underneath building five, then went up the building shooting students as he went.",
+      "zh": "他先在五号楼下开枪，随后一边上楼，一边向沿途的学生射击。"
+    },
+    {
+      "id": 21,
+      "startMs": 128420,
+      "endMs": 134900,
+      "en": "After that, he went up to another building, building four, and shot at every room. I don't know why.",
+      "zh": "之后，他又上了另一栋楼，也就是四号楼，朝每个房间开枪。我不知道为什么。"
+    },
+    {
+      "id": 22,
+      "startMs": 135140,
+      "endMs": 136740,
+      "en": "One of my friends got shot.",
+      "zh": "我的一名朋友中枪了。"
+    },
+    {
+      "id": 23,
+      "startMs": 137220,
+      "endMs": 139460,
+      "en": "He walked up to the door and just fired.",
+      "zh": "他走到门口，直接开了枪。"
+    },
+    {
+      "id": 24,
+      "startMs": 139860,
+      "endMs": 144340,
+      "en": "I don't know the shooter, but he seems to be a student with special needs.",
+      "zh": "我不认识枪手，但他似乎是一名有特殊需要的学生。"
+    },
+    {
+      "id": 25,
+      "startMs": 144740,
+      "endMs": 151780,
+      "en": "The Thai Prime Minister, Anutin Charnvirakul, said a friend of the gunman had told police the boy had been under great stress.",
+      "zh": "泰国总理阿努廷·参威拉军表示，枪手的一名朋友告诉警方，这名男孩一直承受着巨大压力。"
+    },
+    {
+      "id": 26,
+      "startMs": 152460,
+      "endMs": 156300,
+      "en": "This is violence, but it is not caused by criminals.",
+      "zh": "这是一起暴力事件，但并非罪犯所为。"
+    },
+    {
+      "id": 27,
+      "startMs": 156460,
+      "endMs": 161820,
+      "en": "It is caused by an individual who carried pressures and tensions.",
+      "zh": "这是一个背负压力和紧张情绪的人所造成的。"
+    },
+    {
+      "id": 28,
+      "startMs": 163300,
+      "endMs": 167780,
+      "en": "This really has nothing to do with security measures in the school.",
+      "zh": "这确实与学校的安保措施无关。"
+    },
+    {
+      "id": 29,
+      "startMs": 167780,
+      "endMs": 171940,
+      "en": "The gun is a registered one. It is kept in the house.",
+      "zh": "这把枪登记在册，平时存放在家中。"
+    },
+    {
+      "id": 30,
+      "startMs": 172440,
+      "endMs": 176520,
+      "en": "We don't know how this child got access to the gun.",
+      "zh": "我们不知道这个孩子是如何拿到枪的。"
+    },
+    {
+      "id": 31,
+      "startMs": 177160,
+      "endMs": 181560,
+      "en": "He intentionally came to school today to commit this unfortunate case.",
+      "zh": "他今天是有意来到学校制造这起不幸事件的。"
+    },
+    {
+      "id": 32,
+      "startMs": 181560,
+      "endMs": 189080,
+      "en": "Our Southeast Asia correspondent, Jonathan Head, gave me this update from the school north of Bangkok.",
+      "zh": "本台东南亚事务记者乔纳森·黑德从曼谷以北的这所学校带来了最新情况。"
+    },
+    {
+      "id": 33,
+      "startMs": 189800,
+      "endMs": 192760,
+      "en": "Well, it's the end of the day here, Oliver, but it's pretty quiet now.",
+      "zh": "奥利弗，这里一天将近结束，现在已经相当安静了。"
+    },
+    {
+      "id": 34,
+      "startMs": 193080,
+      "endMs": 197480,
+      "en": "All the ambulances, the police officers, paramedics and, of course, family members",
+      "zh": "所有救护车、警察、医护人员，当然还有遇难者家属"
+    },
+    {
+      "id": 35,
+      "startMs": 197560,
+      "endMs": 203160,
+      "en": "who came down during the day after the shooting, which started at 10:00 in the morning, have now gone.",
+      "zh": "这些人在上午 10 点开始的枪击发生后陆续赶来，现在都已经离开。"
+    },
+    {
+      "id": 36,
+      "startMs": 203720,
+      "endMs": 208680,
+      "en": "But of course there are a number of the victims, well over 20 people who were injured.",
+      "zh": "不过当然还有不少伤者，受伤人数远超 20 人。"
+    },
+    {
+      "id": 37,
+      "startMs": 208680,
+      "endMs": 214760,
+      "en": "We think between 20 and 30, but some of those victims are in critical condition in hospital.",
+      "zh": "我们认为有 20 至 30 人受伤，其中一些伤者正在医院接受救治，情况危急。"
+    },
+    {
+      "id": 38,
+      "startMs": 214760,
+      "endMs": 216760,
+      "en": "So there's a lot of concern about them.",
+      "zh": "因此，人们非常担心他们的状况。"
+    },
+    {
+      "id": 39,
+      "startMs": 217320,
+      "endMs": 223800,
+      "en": "And it's now down to the police to investigate a number of angles as to what actually happened here.",
+      "zh": "现在要由警方从多个角度调查这里究竟发生了什么。"
+    },
+    {
+      "id": 40,
+      "startMs": 223880,
+      "endMs": 230680,
+      "en": "This is a 14-year-old pupil at the school who teachers say had shown no behavioral issues before, was a good student.",
+      "zh": "这是该校一名 14 岁学生，教师称他此前没有表现出行为问题，是个好学生。"
+    },
+    {
+      "id": 41,
+      "startMs": 231480,
+      "endMs": 238220,
+      "en": "The Prime Minister here has referred to the fact that he might have been under some stress or some pressure from his grandparents.",
+      "zh": "这里的总理提到，他可能承受着一些压力，或是来自祖父母的压力。"
+    },
+    {
+      "id": 42,
+      "startMs": 238220,
+      "endMs": 242380,
+      "en": "And, of course, we know he shot his grandparents before he came down to the school.",
+      "zh": "当然，我们知道他来到学校前曾开枪射击祖父母。"
+    },
+    {
+      "id": 43,
+      "startMs": 243020,
+      "endMs": 247660,
+      "en": "Very vivid accounts from some of the students here describing, you know, hunkering down under their desks",
+      "zh": "这里一些学生的讲述非常生动，他们描述了自己如何躲在课桌下面，"
+    },
+    {
+      "id": 44,
+      "startMs": 247660,
+      "endMs": 253900,
+      "en": "as he went systematically from classroom to classroom, firing multiple shots into each of them.",
+      "zh": "而他则有条不紊地从一间教室走到另一间，朝每间教室连开数枪。"
+    },
+    {
+      "id": 45,
+      "startMs": 254380,
+      "endMs": 262380,
+      "en": "And the police have said they're quite surprised at how lethal he was, how accurate he appears to be—have been—with the gun.",
+      "zh": "警方称，他们很惊讶他的杀伤力如此之强，也惊讶于他用枪似乎如此——或者说曾经如此——精准。"
+    },
+    {
+      "id": 46,
+      "startMs": 262380,
+      "endMs": 264540,
+      "en": "So they think he may have had some kind of firearms training.",
+      "zh": "因此，他们认为他可能接受过某种枪械训练。"
+    },
+    {
+      "id": 47,
+      "startMs": 264940,
+      "endMs": 271580,
+      "en": "So there's, you know, obviously there has to be an investigation as to how he got hold of a gun and quite a significant amount of ammunition.",
+      "zh": "所以，显然必须调查他如何拿到枪支以及数量相当可观的弹药。"
+    },
+    {
+      "id": 48,
+      "startMs": 271580,
+      "endMs": 275500,
+      "en": "He had around 30 rounds still on him at the time that he shot himself.",
+      "zh": "他开枪自杀时，身上仍带着约 30 发子弹。"
+    },
+    {
+      "id": 49,
+      "startMs": 275980,
+      "endMs": 278220,
+      "en": "It appears it may have been his grandfather's gun.",
+      "zh": "看起来那可能是他祖父的枪。"
+    },
+    {
+      "id": 50,
+      "startMs": 278860,
+      "endMs": 282220,
+      "en": "And, of course, investigations into his state of mind and what went wrong.",
+      "zh": "当然，还要调查他的精神状态以及究竟出了什么问题。"
+    },
+    {
+      "id": 51,
+      "startMs": 282780,
+      "endMs": 290060,
+      "en": "And the fact that he was able to get hold of a gun despite strict laws there underlines the issue with gun control in Thailand?",
+      "zh": "尽管当地法律严格，他仍能拿到枪，这是否凸显了泰国枪支管控的问题？"
+    },
+    {
+      "id": 52,
+      "startMs": 290800,
+      "endMs": 296160,
+      "en": "Yeah, the strict laws apply to getting a license, and they've become stricter in recent years.",
+      "zh": "是的，严格的法律适用于申领持枪证，而且近年变得更加严格。"
+    },
+    {
+      "id": 53,
+      "startMs": 296160,
+      "endMs": 302400,
+      "en": "In fact, the Prime Minister pointed out that he tightened the gun permit rules three years ago when he was interior minister.",
+      "zh": "事实上，总理指出，他三年前担任内政部长时就收紧了持枪许可规定。"
+    },
+    {
+      "id": 54,
+      "startMs": 302800,
+      "endMs": 304880,
+      "en": "This was, by all accounts, a licensed gun.",
+      "zh": "从各方面来看，这是一把登记在册的枪。"
+    },
+    {
+      "id": 55,
+      "startMs": 305200,
+      "endMs": 307840,
+      "en": "The problem in Thailand is not the rules; it's enforcement.",
+      "zh": "泰国的问题不在于规定，而在于执行。"
+    },
+    {
+      "id": 56,
+      "startMs": 308320,
+      "endMs": 309840,
+      "en": "This country is awash with guns.",
+      "zh": "这个国家枪支泛滥。"
+    },
+    {
+      "id": 57,
+      "startMs": 310320,
+      "endMs": 312880,
+      "en": "Corruption is rife in the armed forces and police as well.",
+      "zh": "军队和警察系统中腐败现象也十分猖獗。"
+    },
+    {
+      "id": 58,
+      "startMs": 313200,
+      "endMs": 318320,
+      "en": "Anybody who wants to get a gun here can get one, and an awful lot of people have them, with or without licenses.",
+      "zh": "在这里，任何想弄到枪的人都能弄到，而且有枪的人非常多，无论是否持有许可。"
+    },
+    {
+      "id": 59,
+      "startMs": 318720,
+      "endMs": 321360,
+      "en": "Jonathan Head at the scene of that shooting in Thailand.",
+      "zh": "以上是乔纳森·黑德在泰国枪击现场的报道。"
+    },
+    {
+      "id": 60,
+      "startMs": 322160,
+      "endMs": 327120,
+      "en": "The Ebola outbreak in the Democratic Republic of Congo is now the fastest-spreading on record.",
+      "zh": "刚果民主共和国的埃博拉疫情现已成为有记录以来传播最快的一次。"
+    },
+    {
+      "id": 61,
+      "startMs": 327520,
+      "endMs": 336320,
+      "en": "Latest figures show there've been more than 4,000 cases and nearly 2,000 deaths, with infections confirmed in five provinces, including the epicenter, Ituri.",
+      "zh": "最新数据显示，病例已超过 4,000 例，死亡近 2,000 人；包括疫情中心伊图里在内的五个省均已确认感染病例。"
+    },
+    {
+      "id": 62,
+      "startMs": 336720,
+      "endMs": 345120,
+      "en": "However, the head of Africa's Disease Control and Prevention Centre, Dr. Jean Kaseya, remains optimistic, as he told the BBC about a new action plan.",
+      "zh": "不过，非洲疾病控制与预防中心负责人让·卡塞亚博士仍持乐观态度。他向 BBC 介绍了一项新的行动计划。"
+    },
+    {
+      "id": 63,
+      "startMs": 345680,
+      "endMs": 353620,
+      "en": "The new strategy that we discussed with President Tshisekedi on the 5th of August, when Dr. Tedros,",
+      "zh": "我们在 8 月 5 日与齐塞克迪总统讨论了新策略，当时谭德塞博士、"
+    },
+    {
+      "id": 64,
+      "startMs": 353860,
+      "endMs": 360420,
+      "en": "Professor Janabi and myself, coming together with a number of partners, came to suggest the new approach.",
+      "zh": "贾纳比教授和我与多位合作伙伴齐聚一堂，共同提出了这种新方法。"
+    },
+    {
+      "id": 65,
+      "startMs": 360740,
+      "endMs": 366900,
+      "en": "What is this new approach? It is to have what we call the village-centered response plan.",
+      "zh": "这种新方法是什么？就是实施我们所说的“以村庄为中心的应对计划”。"
+    },
+    {
+      "id": 66,
+      "startMs": 367620,
+      "endMs": 376420,
+      "en": "Everything now will be at village level, and that one is a great revolution because we know that we can stop this outbreak when the community is involved.",
+      "zh": "现在一切都将在村一级开展，这是一次重大变革，因为我们知道，只要社区参与进来，就能阻止疫情。"
+    },
+    {
+      "id": 67,
+      "startMs": 376980,
+      "endMs": 381860,
+      "en": "Our Global Affairs reporter, Richard Kagoe, told us more about this new village-level approach.",
+      "zh": "本台全球事务记者理查德·卡戈进一步介绍了这种新的村级应对方法。"
+    },
+    {
+      "id": 68,
+      "startMs": 382420,
+      "endMs": 389140,
+      "en": "The new response plan does involve community leaders, so you'd have leaders from various villages.",
+      "zh": "新的应对计划确实让社区领袖参与其中，因此会有来自各个村庄的负责人参加。"
+    },
+    {
+      "id": 69,
+      "startMs": 389540,
+      "endMs": 395380,
+      "en": "The thing is that the Africa Centres for Disease Control and the WHO are saying there's need to change strategy",
+      "zh": "问题是，非洲疾控中心和世界卫生组织都表示，需要改变策略，"
+    },
+    {
+      "id": 70,
+      "startMs": 395380,
+      "endMs": 403780,
+      "en": "because the response, especially from the local population, has really made the whole management of the outbreak a bit complex",
+      "zh": "因为当地民众的反应尤其使整场疫情的管理变得有些复杂，"
+    },
+    {
+      "id": 71,
+      "startMs": 403860,
+      "endMs": 409940,
+      "en": "because there has been hesitancy from local residents to report people who have symptoms of Ebola;",
+      "zh": "当地居民一直不太愿意报告出现埃博拉症状的人；"
+    },
+    {
+      "id": 72,
+      "startMs": 410420,
+      "endMs": 415320,
+      "en": "there has been skepticism just about the disease itself, and also the health workers.",
+      "zh": "人们也一直对这种疾病本身以及医务人员持怀疑态度。"
+    },
+    {
+      "id": 73,
+      "startMs": 415320,
+      "endMs": 418200,
+      "en": "So this has really proved sort of like a barrier.",
+      "zh": "所以，这确实构成了某种障碍。"
+    },
+    {
+      "id": 74,
+      "startMs": 418520,
+      "endMs": 426520,
+      "en": "The containment efforts have been really quite complicated because the local population seems not to quite coordinate with health workers.",
+      "zh": "遏制疫情的工作相当复杂，因为当地民众似乎不太配合医务人员。"
+    },
+    {
+      "id": 75,
+      "startMs": 426520,
+      "endMs": 429480,
+      "en": "And then, of course, these are the cultural practices element.",
+      "zh": "当然，还有文化习俗方面的因素。"
+    },
+    {
+      "id": 76,
+      "startMs": 429720,
+      "endMs": 433160,
+      "en": "So, like in terms of burial, how are those bodies being handled?",
+      "zh": "比如在安葬方面，那些遗体是如何处理的？"
+    },
+    {
+      "id": 77,
+      "startMs": 433560,
+      "endMs": 436760,
+      "en": "And these have been also classified as super-spreader events.",
+      "zh": "这些活动也被归为超级传播事件。"
+    },
+    {
+      "id": 78,
+      "startMs": 437000,
+      "endMs": 443080,
+      "en": "And so what they're saying is that it's important to involve community elders who understand the cultural nuances,",
+      "zh": "因此，他们认为，让理解文化细微差别的社区长老参与进来非常重要，"
+    },
+    {
+      "id": 79,
+      "startMs": 443400,
+      "endMs": 447240,
+      "en": "and people who can be used to disseminate information, who are believable.",
+      "zh": "还要让那些值得信任、能够传播信息的人参与进来。"
+    },
+    {
+      "id": 80,
+      "startMs": 447720,
+      "endMs": 453560,
+      "en": "And also part of it is to decentralize testing capacity, especially at the village level,",
+      "zh": "计划的另一部分是下放检测能力，尤其要下放到村一级，"
+    },
+    {
+      "id": 81,
+      "startMs": 453880,
+      "endMs": 458840,
+      "en": "and also making health services accessible by making sure that it is free.",
+      "zh": "同时通过确保医疗服务免费，使其更容易获得。"
+    },
+    {
+      "id": 82,
+      "startMs": 459000,
+      "endMs": 466760,
+      "en": "So that's perhaps just the highlights of this new response plan that is going to be rolled out next week, as mentioned by the Africa CDC boss.",
+      "zh": "以上或许只是这项新应对计划的几个要点。正如非洲疾控中心负责人所说，该计划将于下周推出。"
+    },
+    {
+      "id": 83,
+      "startMs": 466920,
+      "endMs": 470840,
+      "en": "Yeah, can this approach realistically bring down the number of cases?",
+      "zh": "那么，这种方法现实中真能减少病例数量吗？"
+    },
+    {
+      "id": 84,
+      "startMs": 471500,
+      "endMs": 474460,
+      "en": "If you look at the numbers, the outbreak is spreading rapidly.",
+      "zh": "从数据来看，疫情正在迅速扩散。"
+    },
+    {
+      "id": 85,
+      "startMs": 474860,
+      "endMs": 481500,
+      "en": "But I think the involvement of this would help perhaps slow down the spread of the disease itself.",
+      "zh": "但我认为，这种参与或许有助于减缓疾病本身的传播。"
+    },
+    {
+      "id": 86,
+      "startMs": 481820,
+      "endMs": 488540,
+      "en": "Because what is happening is that, especially in rural communities, a lot of them seem to be quite disengaged exactly with what's happening,",
+      "zh": "因为目前的情况是，尤其在农村社区，许多人似乎与正在发生的事情相当脱节，"
+    },
+    {
+      "id": 87,
+      "startMs": 488540,
+      "endMs": 495820,
+      "en": "especially from the regional capitals in places like Bunia and in North Kivu province, where the disease is quite prevalent.",
+      "zh": "尤其是远离布尼亚等地区中心，以及疫情相当严重的北基伍省。"
+    },
+    {
+      "id": 88,
+      "startMs": 496220,
+      "endMs": 501660,
+      "en": "So really changing the opinions and perspectives of the local population, getting their buy-in,",
+      "zh": "因此，真正改变当地民众的看法和观念、争取他们的认同，"
+    },
+    {
+      "id": 89,
+      "startMs": 501660,
+      "endMs": 508700,
+      "en": "for them to believe and even to support the health response, I think that would really be critical in terms of slowing down the response.",
+      "zh": "让他们信任甚至支持卫生应对工作，我认为这对于减缓应对进程而言确实至关重要。"
+    },
+    {
+      "id": 90,
+      "startMs": 508700,
+      "endMs": 515900,
+      "en": "Because if you look at it, experts say that it took just about 10 months for cases to hit 2,000 in the West Africa Ebola outbreak,",
+      "zh": "因为专家称，西非埃博拉疫情的病例数用了大约 10 个月才达到 2,000 例，"
+    },
+    {
+      "id": 91,
+      "startMs": 515900,
+      "endMs": 521532,
+      "en": "but this has just been barely two months for the numbers to hit more than 2,000, now exceeding 4,000 cases.",
+      "zh": "但此次疫情仅仅不到两个月，病例就超过了 2,000 例，如今已突破 4,000 例。"
+    },
+    {
+      "id": 92,
+      "startMs": 521884,
+      "endMs": 523820,
+      "en": "Richard Kagoe in Nairobi.",
+      "zh": "理查德·卡戈在内罗毕报道。"
+    },
+    {
+      "id": 93,
+      "startMs": 524460,
+      "endMs": 532000,
+      "en": "Saudi Arabia, Turkey and Pakistan have signed a joint defense agreement against the backdrop of the US-Israeli war with Iran.",
+      "zh": "在美以对伊朗战争的背景下，沙特阿拉伯、土耳其和巴基斯坦签署了一项联合防务协议。"
+    },
+    {
+      "id": 94,
+      "startMs": 532480,
+      "endMs": 534960,
+      "en": "The NATO-style pact was announced at a meeting in Mecca",
+      "zh": "这项北约式协议是在麦加举行的一场会晤中宣布的，"
+    },
+    {
+      "id": 95,
+      "startMs": 535360,
+      "endMs": 542880,
+      "en": "between Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and the Pakistani Prime Minister Shehbaz Sharif.",
+      "zh": "与会者包括沙特王储穆罕默德·本·萨勒曼、土耳其总统雷杰普·塔伊普·埃尔多安和巴基斯坦总理夏巴兹·谢里夫。"
+    },
+    {
+      "id": 96,
+      "startMs": 543040,
+      "endMs": 544320,
+      "en": "So, what does it involve?",
+      "zh": "那么，这项协议包括哪些内容？"
+    },
+    {
+      "id": 97,
+      "startMs": 544560,
+      "endMs": 547200,
+      "en": "Anbarasan Ethirajan is our Global Affairs reporter.",
+      "zh": "安巴拉桑·埃蒂拉詹是本台全球事务记者。"
+    },
+    {
+      "id": 98,
+      "startMs": 547760,
+      "endMs": 551440,
+      "en": "This is significant both in terms of symbolism and substance.",
+      "zh": "无论从象征意义还是实质内容来看，这都意义重大。"
+    },
+    {
+      "id": 99,
+      "startMs": 552000,
+      "endMs": 558560,
+      "en": "The three countries are talking about collective deterrence against any possible aggression in the future.",
+      "zh": "这三个国家谈的是共同威慑，以应对未来任何可能的侵略。"
+    },
+    {
+      "id": 100,
+      "startMs": 559200,
+      "endMs": 564640,
+      "en": "Now, you have three different countries with three different capacity and capability coming together.",
+      "zh": "现在，三个能力和实力各不相同的国家走到了一起。"
+    },
+    {
+      "id": 101,
+      "startMs": 564960,
+      "endMs": 568240,
+      "en": "Saudi Arabia is one of the biggest oil producers in the world.",
+      "zh": "沙特阿拉伯是世界上最大的石油生产国之一。"
+    },
+    {
+      "id": 102,
+      "startMs": 568240,
+      "endMs": 575200,
+      "en": "It provides the financial muscle and one of the biggest weapons purchaser, and its strategic location is very key.",
+      "zh": "它提供雄厚的财力，也是最大的武器购买方之一，其战略位置也非常关键。"
+    },
+    {
+      "id": 103,
+      "startMs": 575280,
+      "endMs": 584000,
+      "en": "Turkey is the second-biggest military force in NATO, and Pakistan is a nuclear-weapon state and also has a very strong military.",
+      "zh": "土耳其是北约第二大军事力量，而巴基斯坦是核武器国家，也拥有一支非常强大的军队。"
+    },
+    {
+      "id": 104,
+      "startMs": 584080,
+      "endMs": 590400,
+      "en": "Now, one of the key thing is that an attack on any one country will be treated as an attack against all.",
+      "zh": "其中一个关键点是，对任何一国的攻击都将被视为对三国全体的攻击。"
+    },
+    {
+      "id": 105,
+      "startMs": 590900,
+      "endMs": 592580,
+      "en": "So that is a very key wording here.",
+      "zh": "因此，这是这里非常关键的措辞。"
+    },
+    {
+      "id": 106,
+      "startMs": 592660,
+      "endMs": 596580,
+      "en": "They have not given out any specifics and details of this agreement.",
+      "zh": "他们尚未公布这项协议的任何具体内容和细节。"
+    },
+    {
+      "id": 107,
+      "startMs": 597060,
+      "endMs": 604020,
+      "en": "The fact that the three Sunni Muslim countries are coming together and signing this agreement in the holy city of Mecca,",
+      "zh": "这三个逊尼派穆斯林国家走到一起，在圣城麦加签署这项协议，"
+    },
+    {
+      "id": 108,
+      "startMs": 604020,
+      "endMs": 611220,
+      "en": "calling this as Mecca Joint Declaration, Joint Defense Agreement, is quite an important message sending out to the regional powers there.",
+      "zh": "并将其称为《麦加联合宣言》和联合防务协议，是向该地区各方发出的相当重要的信息。"
+    },
+    {
+      "id": 109,
+      "startMs": 611540,
+      "endMs": 618340,
+      "en": "Yeah, and Saudi Arabia is at the moment the country most likely to become embroiled in war.",
+      "zh": "是的，目前沙特阿拉伯是最有可能卷入战争的国家。"
+    },
+    {
+      "id": 110,
+      "startMs": 618340,
+      "endMs": 625780,
+      "en": "Will we realistically see Pakistan and Turkey coming to its aid, perhaps in the fight against the Houthi rebels in Yemen?",
+      "zh": "现实中，我们会看到巴基斯坦和土耳其前来援助沙特，或许协助其对抗也门胡塞武装吗？"
+    },
+    {
+      "id": 111,
+      "startMs": 626260,
+      "endMs": 629380,
+      "en": "Now, they do have some sort of military cooperation.",
+      "zh": "他们确实存在某种军事合作。"
+    },
+    {
+      "id": 112,
+      "startMs": 629380,
+      "endMs": 633700,
+      "en": "For example, on the ongoing Saudi conflict with the Houthi rebels,",
+      "zh": "例如，在沙特与胡塞武装持续的冲突中，"
+    },
+    {
+      "id": 113,
+      "startMs": 634420,
+      "endMs": 641700,
+      "en": "Pakistan had sent thousands of troops and fighter jets, and also an air defense and advisory group is already there.",
+      "zh": "巴基斯坦曾派出数千名士兵和战斗机，而且已有一个防空与顾问小组驻扎在那里。"
+    },
+    {
+      "id": 114,
+      "startMs": 641780,
+      "endMs": 644820,
+      "en": "And there have been, what, military cooperation for several years.",
+      "zh": "而且，怎么说呢，双方的军事合作已经持续了数年。"
+    },
+    {
+      "id": 115,
+      "startMs": 645300,
+      "endMs": 649700,
+      "en": "And Saudi Arabia agreed to buy drones from Turkey in military cooperation.",
+      "zh": "沙特阿拉伯也在军事合作框架下同意从土耳其购买无人机。"
+    },
+    {
+      "id": 116,
+      "startMs": 650260,
+      "endMs": 655000,
+      "en": "Now, if it comes to, for example, Iran, Pakistan is a neighbor of Iran,",
+      "zh": "但如果涉及例如伊朗的情况，巴基斯坦与伊朗接壤，"
+    },
+    {
+      "id": 117,
+      "startMs": 655160,
+      "endMs": 660360,
+      "en": "and whether they're going to come to the aid of Saudi Arabia if Iran attacks Saudi, that is a big question,",
+      "zh": "如果伊朗袭击沙特，巴基斯坦是否会前来援助沙特，这是一个大问题，"
+    },
+    {
+      "id": 118,
+      "startMs": 660360,
+      "endMs": 663160,
+      "en": "because they didn't come in the last round of conflict,",
+      "zh": "因为在上一轮冲突中，巴基斯坦并未出手；"
+    },
+    {
+      "id": 119,
+      "startMs": 663160,
+      "endMs": 671400,
+      "en": "even though they had a mutual defense pact signed last year—that is between Saudi Arabia and Pakistan—because Pakistan has its own security compulsions.",
+      "zh": "尽管沙特与巴基斯坦去年签署了共同防御条约，这是因为巴基斯坦有自身的安全考量。"
+    },
+    {
+      "id": 120,
+      "startMs": 671800,
+      "endMs": 676840,
+      "en": "But in the long run, what Iran will do, you know, these are the two things the three countries are looking at.",
+      "zh": "但从长远来看，伊朗会如何行动，你知道，这就是三国正在考虑的两个方面。"
+    },
+    {
+      "id": 121,
+      "startMs": 677160,
+      "endMs": 682360,
+      "en": "Now, some will describe this as an Islamic NATO, where it can involve other Gulf states as well.",
+      "zh": "有人会将其形容为“伊斯兰北约”，其他海湾国家也可以加入。"
+    },
+    {
+      "id": 122,
+      "startMs": 682760,
+      "endMs": 688360,
+      "en": "What has changed in the Gulf in the past few months is that the US used to be the net security provider.",
+      "zh": "过去几个月海湾地区发生的变化是，美国过去一直是净安全提供者。"
+    },
+    {
+      "id": 123,
+      "startMs": 688440,
+      "endMs": 694600,
+      "en": "Now, all these Gulf countries—Saudi Arabia, Qatar and UAE—have seen their installations being attacked.",
+      "zh": "如今，沙特阿拉伯、卡塔尔和阿联酋这些海湾国家的设施都遭到了袭击。"
+    },
+    {
+      "id": 124,
+      "startMs": 694600,
+      "endMs": 696600,
+      "en": "They're running out of weapons and missiles.",
+      "zh": "它们的武器和导弹正在耗尽。"
+    },
+    {
+      "id": 125,
+      "startMs": 696600,
+      "endMs": 699880,
+      "en": "They're not able to protect any of those strategic places.",
+      "zh": "它们无力保护那些战略要地。"
+    },
+    {
+      "id": 126,
+      "startMs": 700200,
+      "endMs": 701640,
+      "en": "Now, they are looking at other options.",
+      "zh": "现在，它们正在寻找其他选择。"
+    },
+    {
+      "id": 127,
+      "startMs": 701720,
+      "endMs": 707080,
+      "en": "See, if the US is not going to step in and protect them, who is going to be the net security provider?",
+      "zh": "你看，如果美国不介入并保护它们，谁来充当净安全提供者？"
+    },
+    {
+      "id": 128,
+      "startMs": 707320,
+      "endMs": 710760,
+      "en": "And that is why they are having this bigger, larger combined effort.",
+      "zh": "这就是它们开展这一更大、更广泛联合行动的原因。"
+    },
+    {
+      "id": 129,
+      "startMs": 710940,
+      "endMs": 713260,
+      "en": "And very briefly, what will India make of this?",
+      "zh": "最后简要说一下，印度会如何看待此事？"
+    },
+    {
+      "id": 130,
+      "startMs": 713660,
+      "endMs": 716140,
+      "en": "India has already looked at it, and then they've responded.",
+      "zh": "印度已经关注了此事，也作出了回应。"
+    },
+    {
+      "id": 131,
+      "startMs": 716140,
+      "endMs": 718700,
+      "en": "And what they are saying is that they are looking at this agreement.",
+      "zh": "他们表示，正在审视这项协议。"
+    },
+    {
+      "id": 132,
+      "startMs": 718940,
+      "endMs": 723100,
+      "en": "A brief statement was made, but they will probably respond at a later stage.",
+      "zh": "印度发表了一份简短声明，但可能会在日后作出进一步回应。"
+    },
+    {
+      "id": 133,
+      "startMs": 723420,
+      "endMs": 724620,
+      "en": "Anbarasan Ethirajan.",
+      "zh": "安巴拉桑·埃蒂拉詹报道。"
+    },
+    {
+      "id": 134,
+      "startMs": 725580,
+      "endMs": 733020,
+      "en": "When treating brain cancer, the traditional approach has been to wait four to six weeks after surgery before chemotherapy can begin.",
+      "zh": "治疗脑癌时，传统做法是术后等待四至六周，再开始化疗。"
+    },
+    {
+      "id": 135,
+      "startMs": 733500,
+      "endMs": 742620,
+      "en": "Now though, research on mice has suggested that an alternative timescale would be to carry it out either straight after the operation or between two to four days later.",
+      "zh": "不过，小鼠研究表明，可以采用另一种时间安排：在手术后立即化疗，或在术后两至四天进行。"
+    },
+    {
+      "id": 136,
+      "startMs": 743260,
+      "endMs": 747340,
+      "en": "Dr. Tom Kisby from the University of Manchester is co-lead on the study.",
+      "zh": "曼彻斯特大学的汤姆·基斯比博士是这项研究的共同负责人。"
+    },
+    {
+      "id": 137,
+      "startMs": 747420,
+      "endMs": 749260,
+      "en": "He explained the results to Johnny Diamond.",
+      "zh": "他向约翰尼·戴蒙德解释了研究结果。"
+    },
+    {
+      "id": 138,
+      "startMs": 749820,
+      "endMs": 756780,
+      "en": "One of the main problems of brain tumors, both due to their location in quite a critical organ, obviously the brain,",
+      "zh": "脑肿瘤的一个主要问题，既在于它们位于一个非常关键的器官——显然就是大脑——之中，"
+    },
+    {
+      "id": 139,
+      "startMs": 757020,
+      "endMs": 761260,
+      "en": "but also many of these are highly invasive, meaning that surgery itself can never be curative.",
+      "zh": "也在于其中许多肿瘤侵袭性很强，这意味着仅靠手术永远无法治愈。"
+    },
+    {
+      "id": 140,
+      "startMs": 761500,
+      "endMs": 766780,
+      "en": "The surgeons will always have to leave some cancer cells behind, which is exactly what we try to treat with chemotherapy.",
+      "zh": "外科医生总会不得不留下一些癌细胞，而这些正是我们试图通过化疗处理的对象。"
+    },
+    {
+      "id": 141,
+      "startMs": 766940,
+      "endMs": 771100,
+      "en": "Ah, I see. So the, the chemo is then sort of sent in to flush out what is left.",
+      "zh": "啊，明白了。所以化疗随后就像是被派进去，清除剩下的癌细胞。"
+    },
+    {
+      "id": 142,
+      "startMs": 771420,
+      "endMs": 778700,
+      "en": "You normally wait for a few weeks, but now have discovered these two windows.",
+      "zh": "通常要等待几周，但现在你们发现了这两个时间窗口。"
+    },
+    {
+      "id": 143,
+      "startMs": 779020,
+      "endMs": 781820,
+      "en": "Can, can you explain how they've been discovered?",
+      "zh": "你能解释一下这两个窗口是如何被发现的吗？"
+    },
+    {
+      "id": 144,
+      "startMs": 782060,
+      "endMs": 789040,
+      "en": "So one of the major challenges for brain tumors is that the brain is protected from the blood by a special barrier known as the blood-brain barrier.",
+      "zh": "治疗脑肿瘤的一项主要挑战是，大脑与血液之间由一道特殊屏障隔开，这就是血脑屏障。"
+    },
+    {
+      "id": 145,
+      "startMs": 789520,
+      "endMs": 794240,
+      "en": "So when we administer chemotherapies, these struggle actually to get into the brain and the site where we need them.",
+      "zh": "因此，施用化疗药物时，它们实际上很难进入大脑并抵达我们需要它们发挥作用的位置。"
+    },
+    {
+      "id": 146,
+      "startMs": 794400,
+      "endMs": 799680,
+      "en": "What we've identified, which is exactly what these windows are, is certain time periods after surgery",
+      "zh": "我们发现的是手术后的某些时段，而这正是所谓的时间窗口，"
+    },
+    {
+      "id": 147,
+      "startMs": 799680,
+      "endMs": 805760,
+      "en": "this barrier becomes more disrupted, which means this allows certain types of chemotherapies, in our case nanomedicines,",
+      "zh": "此时屏障受到的破坏更加明显，这使某些类型的化疗药物——在我们的研究中是纳米药物——"
+    },
+    {
+      "id": 148,
+      "startMs": 805760,
+      "endMs": 811120,
+      "en": "to be able to enter the brain at much higher levels than they would if we were to administer them four to six weeks after surgery.",
+      "zh": "能够以远高于术后四至六周施药时的浓度进入大脑。"
+    },
+    {
+      "id": 149,
+      "startMs": 811200,
+      "endMs": 818080,
+      "en": "Okay, so the surgery itself disrupts the blood-brain barrier and, and sort of what, opens it up for further therapy?",
+      "zh": "好的，所以手术本身会破坏血脑屏障，也就是说，在某种程度上为后续治疗打开了通道？"
+    },
+    {
+      "id": 150,
+      "startMs": 818080,
+      "endMs": 820080,
+      "en": "Exactly, yeah. So this is the two windows.",
+      "zh": "完全正确。这就是两个时间窗口。"
+    },
+    {
+      "id": 151,
+      "startMs": 820080,
+      "endMs": 822800,
+      "en": "The first one, we think, is a physical disruption of this barrier,",
+      "zh": "我们认为，第一个窗口源于这道屏障受到物理破坏，"
+    },
+    {
+      "id": 152,
+      "startMs": 822880,
+      "endMs": 827760,
+      "en": "and then there's kind of a response of the patient in the brain that seems to reopen this window a few days later.",
+      "zh": "随后患者大脑中会出现某种反应，似乎会在几天后再次打开这个窗口。"
+    },
+    {
+      "id": 153,
+      "startMs": 827760,
+      "endMs": 830880,
+      "en": "The research was done on mice, and again, daft question alert,",
+      "zh": "这项研究是在小鼠身上进行的。再次提醒，这是个傻问题："
+    },
+    {
+      "id": 154,
+      "startMs": 830960,
+      "endMs": 834240,
+      "en": "are you sure it transfers from mice to humans?",
+      "zh": "你确定研究结果能从小鼠推广到人类吗？"
+    },
+    {
+      "id": 155,
+      "startMs": 834400,
+      "endMs": 841200,
+      "en": "So there is some indirect evidence in humans from some imaging work that's been done that these same kind of disruption of the blood-brain barrier exists,",
+      "zh": "一些人体成像研究提供了间接证据，表明人类也存在这种血脑屏障受破坏的情况，"
+    },
+    {
+      "id": 156,
+      "startMs": 841200,
+      "endMs": 847700,
+      "en": "but of course, absolutely the next step that we need to do is confirm these same windows exist in humans and can be utilized in the same way.",
+      "zh": "但当然，我们下一步必须确认人类是否也存在同样的窗口，并能以相同方式加以利用。"
+    },
+    {
+      "id": 157,
+      "startMs": 847860,
+      "endMs": 854820,
+      "en": "So you now, I mean, if you get that, that next step and you, you adopt this as a, as a new procedure,",
+      "zh": "那么，我是说，如果你们完成了下一步，并将其作为一种新的治疗程序，"
+    },
+    {
+      "id": 158,
+      "startMs": 855460,
+      "endMs": 860660,
+      "en": "you would jump in and, forgive the phrase, flood the zone whilst the blood-brain barrier is disrupted.",
+      "zh": "就会趁血脑屏障受破坏时立即介入——请原谅这个说法——向该区域大量施药。"
+    },
+    {
+      "id": 159,
+      "startMs": 861300,
+      "endMs": 868980,
+      "en": "Is there a trade-off of some shape or form in terms of safety if you ignore what was previously the recovery period?",
+      "zh": "如果忽略过去所设的恢复期，在安全性方面是否会付出某种代价？"
+    },
+    {
+      "id": 160,
+      "startMs": 869140,
+      "endMs": 874020,
+      "en": "That's a good question. So again, this is something that I think really needs to be tested in, in clinical studies.",
+      "zh": "这是个好问题。所以我再强调一次，我认为这确实需要在临床研究中接受检验。"
+    },
+    {
+      "id": 161,
+      "startMs": 874020,
+      "endMs": 876020,
+      "en": "We, we haven't seen any issues in our mice,",
+      "zh": "我们在小鼠身上没有发现任何问题，"
+    },
+    {
+      "id": 162,
+      "startMs": 876420,
+      "endMs": 880020,
+      "en": "but it could be that what we—it could very well mean that what we do administer,",
+      "zh": "但这很可能意味着，对于我们所施用的药物，"
+    },
+    {
+      "id": 163,
+      "startMs": 880020,
+      "endMs": 884980,
+      "en": "we have to be very careful that it doesn't disrupt some of those recovery and healing responses that occur in the brain.",
+      "zh": "我们必须非常谨慎，确保它不会干扰大脑中的某些恢复和愈合反应。"
+    },
+    {
+      "id": 164,
+      "startMs": 884980,
+      "endMs": 887380,
+      "en": "Tom Kisby talking to Johnny Diamond.",
+      "zh": "以上是汤姆·基斯比接受约翰尼·戴蒙德采访。"
+    },
+    {
+      "id": 165,
+      "startMs": 888420,
+      "endMs": 896260,
+      "en": "Residents in the rural Italian town of Montichiari are used to sharing their neighborhood with the likes of foxes, hedgehogs and badgers.",
+      "zh": "意大利乡村小镇蒙蒂基亚里的居民早已习惯与狐狸、刺猬和獾等动物为邻。"
+    },
+    {
+      "id": 166,
+      "startMs": 896820,
+      "endMs": 905860,
+      "en": "But they have been warned to look out for a more fearsome visitor: a giant lizard with razor-sharp teeth and claws. Chantal Hartle explains.",
+      "zh": "但他们接到警告，要提防一位更可怕的来客：一只有着锋利牙齿和爪子的巨型蜥蜴。尚塔尔·哈特尔为我们讲述。"
+    },
+    {
+      "id": 167,
+      "startMs": 906660,
+      "endMs": 914100,
+      "en": "This tree-climbing lizard is just over one and a half meters long, dark green in color with yellow spots and big curved teeth.",
+      "zh": "这种会爬树的蜥蜴体长略超一米半，呈深绿色，带有黄色斑点和弯曲的大牙齿。"
+    },
+    {
+      "id": 168,
+      "startMs": 914500,
+      "endMs": 924180,
+      "en": "The Papuan monitor lizard, also known as a crocodile monitor, looks similar to its relative, the Komodo dragon, and as its name suggests, it is native to Papua New Guinea.",
+      "zh": "巴布亚巨蜥又称鳄鱼巨蜥，外形与近亲科莫多巨蜥相似；顾名思义，它原产于巴布亚新几内亚。"
+    },
+    {
+      "id": 169,
+      "startMs": 924820,
+      "endMs": 929060,
+      "en": "So how it ended up in the countryside in northern Italy is a mystery.",
+      "zh": "因此，它究竟如何出现在意大利北部乡间，仍是一个谜。"
+    },
+    {
+      "id": 170,
+      "startMs": 929060,
+      "endMs": 933380,
+      "en": "It was first spotted in July, prompting a major search operation.",
+      "zh": "人们于 7 月首次发现它，由此展开了一场大规模搜寻行动。"
+    },
+    {
+      "id": 171,
+      "startMs": 933700,
+      "endMs": 938500,
+      "en": "The mayor of Montichiari, Marco Togni, said initially he didn't believe it was true.",
+      "zh": "蒙蒂基亚里市长马尔科·托尼表示，他起初不相信这是真的。"
+    },
+    {
+      "id": 172,
+      "startMs": 939140,
+      "endMs": 941460,
+      "en": "Two more sightings have since been confirmed.",
+      "zh": "此后又有两次目击得到证实。"
+    },
+    {
+      "id": 173,
+      "startMs": 941940,
+      "endMs": 946820,
+      "en": "The authorities are attempting to track the lizard using drones with thermal cameras and night vision.",
+      "zh": "当局正尝试使用配备热成像和夜视功能的无人机追踪这只蜥蜴。"
+    },
+    {
+      "id": 174,
+      "startMs": 947300,
+      "endMs": 950980,
+      "en": "They've also set up cage traps filled with chicken to lure the reptile.",
+      "zh": "他们还设置了装有鸡肉的笼式陷阱，以引诱这只爬行动物。"
+    },
+    {
+      "id": 175,
+      "startMs": 951620,
+      "endMs": 955540,
+      "en": "The Papuan lizard typically feeds on animals such as pigs and deer.",
+      "zh": "巴布亚巨蜥通常以猪和鹿等动物为食。"
+    },
+    {
+      "id": 176,
+      "startMs": 956020,
+      "endMs": 965220,
+      "en": "It's not known to prey on humans, but is capable of inflicting a powerful venomous bite when threatened, so the town is taking no chances.",
+      "zh": "目前没有它捕食人类的记录，但受到威胁时，它能造成强力的毒性咬伤，因此小镇不敢掉以轻心。"
+    },
+    {
+      "id": 177,
+      "startMs": 965620,
+      "endMs": 970360,
+      "en": "It has banned residents from walking and cycling in the areas where the lizard was seen.",
+      "zh": "当地已禁止居民在发现蜥蜴的区域步行或骑车。"
+    },
+    {
+      "id": 178,
+      "startMs": 970840,
+      "endMs": 976920,
+      "en": "While this all might sound very alarming, some have seized the opportunity to get creative on social media.",
+      "zh": "尽管这一切听起来非常吓人，但有人借此机会在社交媒体上发挥创意。"
+    },
+    {
+      "id": 179,
+      "startMs": 977480,
+      "endMs": 987960,
+      "en": "AI-generated videos show the town's mayor as a lizard ranger, chasing the creature by a pool, flying a light aircraft and performing a song called \"Beware of the Lizard.\"",
+      "zh": "AI 生成的视频把镇长描绘成“蜥蜴护林员”：在泳池边追赶蜥蜴、驾驶轻型飞机，还演唱一首名为《小心蜥蜴》的歌。"
+    },
+    {
+      "id": 180,
+      "startMs": 988440,
+      "endMs": 996280,
+      "en": "The mayor has posted these memes to his own social media page, even suggesting the town adopts the reptile as a cultural mascot,",
+      "zh": "镇长把这些梗图发到了自己的社交媒体页面上，甚至建议小镇把这只爬行动物作为文化吉祥物，"
+    },
+    {
+      "id": 181,
+      "startMs": 996760,
+      "endMs": 1003320,
+      "en": "but he also stressed that residents shouldn't overlook the seriousness of the situation, and has urged people to be vigilant.",
+      "zh": "但他也强调，居民不应忽视事态的严重性，并敦促大家保持警惕。"
+    },
+    {
+      "id": 182,
+      "startMs": 1003720,
+      "endMs": 1004520,
+      "en": "Chantal Hartle.",
+      "zh": "尚塔尔·哈特尔报道。"
+    },
+    {
+      "id": 183,
+      "startMs": 1007420,
+      "endMs": 1013660,
+      "en": "And still to come on this podcast, President Trump says that hundreds of thousands of people come to the United States every year,",
+      "zh": "本期节目稍后还将报道：特朗普总统称，每年有数十万人来到美国，"
+    },
+    {
+      "id": 184,
+      "startMs": 1013660,
+      "endMs": 1021180,
+      "en": "claiming that they're coming on holiday, but really with the express purpose of giving birth to children who would then be able to obtain American citizenship.",
+      "zh": "声称自己是来度假，实际明确目的是生下随后能够取得美国公民身份的孩子。"
+    },
+    {
+      "id": 185,
+      "startMs": 1021660,
+      "endMs": 1027820,
+      "en": "Donald Trump signs two new executive orders in his latest attempt to end birthright citizenship.",
+      "zh": "唐纳德·特朗普签署两项新的行政令，再次尝试终止出生公民权。"
+    },
+    {
+      "id": 186,
+      "startMs": 1036200,
+      "endMs": 1038360,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 187,
+      "startMs": 1038680,
+      "endMs": 1046600,
+      "en": "A BBC investigation has found that Russia is seizing tens of thousands of homes across areas of Ukraine it's captured during its invasion.",
+      "zh": "BBC 的一项调查发现，俄罗斯正在其入侵期间占领的乌克兰地区没收数万套住宅。"
+    },
+    {
+      "id": 188,
+      "startMs": 1047080,
+      "endMs": 1052200,
+      "en": "The Russian government says the scheme is designed to, quote, \"integrate\" the regions into the Russian system.",
+      "zh": "俄罗斯政府称，该计划旨在——原话如此——将这些地区“纳入”俄罗斯体系。"
+    },
+    {
+      "id": 189,
+      "startMs": 1052760,
+      "endMs": 1054760,
+      "en": "Olga Robinson led the investigation.",
+      "zh": "奥尔加·罗宾逊牵头开展了这项调查。"
+    },
+    {
+      "id": 190,
+      "startMs": 1054760,
+      "endMs": 1057560,
+      "en": "I asked her what exactly are the occupiers doing.",
+      "zh": "我问她，占领者究竟在做什么。"
+    },
+    {
+      "id": 191,
+      "startMs": 1058120,
+      "endMs": 1066520,
+      "en": "I think what's very important to understand here is that the Russian forces haven't just captured physically some flats and houses.",
+      "zh": "我认为，这里非常重要的一点是，俄军不只是实际占据了一些公寓和住宅。"
+    },
+    {
+      "id": 192,
+      "startMs": 1066520,
+      "endMs": 1075000,
+      "en": "What they are doing there right now is they've created a whole legal framework that allows the occupation authorities to seize properties en masse,",
+      "zh": "他们目前在那里所做的，是建立起一整套法律框架，允许占领当局大规模没收房产，"
+    },
+    {
+      "id": 193,
+      "startMs": 1075080,
+      "endMs": 1084120,
+      "en": "and we found more than 34,000 homes which are currently in the process of being seized, and many of them belong to Ukrainians who have fled the fighting.",
+      "zh": "我们发现，目前有超过 34,000 套住宅正被没收，其中许多属于逃离战火的乌克兰人。"
+    },
+    {
+      "id": 194,
+      "startMs": 1084120,
+      "endMs": 1085480,
+      "en": "And it works like this:",
+      "zh": "具体运作方式如下："
+    },
+    {
+      "id": 195,
+      "startMs": 1085480,
+      "endMs": 1093080,
+      "en": "Properties are declared ownerless, even though they do have legal owners in Ukraine, and then they are transferred to local authorities,",
+      "zh": "房产会被宣布为无主财产，尽管它们在乌克兰确有合法所有者，随后这些房产被移交给地方当局，"
+    },
+    {
+      "id": 196,
+      "startMs": 1093160,
+      "endMs": 1101980,
+      "en": "and from there they could be allocated to Russian passport holders only into ownership. And the practice is not just some local scheme in the occupied territories.",
+      "zh": "之后，它们可以仅以所有权形式分配给持俄罗斯护照者。这种做法并非占领区内的某项地方计划。"
+    },
+    {
+      "id": 197,
+      "startMs": 1101980,
+      "endMs": 1108060,
+      "en": "It's been endorsed by Russian President Vladimir Putin, who signed a law late last year formalizing the scheme.",
+      "zh": "俄罗斯总统弗拉基米尔·普京已为此背书；他于去年年底签署了一项法律，使该计划正式化。"
+    },
+    {
+      "id": 198,
+      "startMs": 1108380,
+      "endMs": 1113100,
+      "en": "Now, of course, Russia claims this land that it's invaded as its own.",
+      "zh": "当然，俄罗斯声称其入侵的这些土地属于俄罗斯。"
+    },
+    {
+      "id": 199,
+      "startMs": 1113100,
+      "endMs": 1115420,
+      "en": "What's it said about this particular case?",
+      "zh": "对于这一具体案例，俄罗斯方面作何回应？"
+    },
+    {
+      "id": 200,
+      "startMs": 1115900,
+      "endMs": 1122220,
+      "en": "Well, in this particular case, the Russian government told us that the scheme is part of its legal framework",
+      "zh": "俄罗斯政府告诉我们，在这一案例中，该计划是其法律框架的一部分，"
+    },
+    {
+      "id": 201,
+      "startMs": 1122380,
+      "endMs": 1128140,
+      "en": "to reintegrate this, as they call it, \"reunited regions\" into the Russian system.",
+      "zh": "旨在将他们所谓的“重新统一地区”重新纳入俄罗斯体系。"
+    },
+    {
+      "id": 202,
+      "startMs": 1128140,
+      "endMs": 1137500,
+      "en": "And they also told us that the scheme manages properties whose owners cannot be identified or contacted, while providing for compensation should lawful owners come forward.",
+      "zh": "他们还称，该计划负责处置无法确认或联系到所有者的房产；如果合法所有者现身，则设有补偿安排。"
+    },
+    {
+      "id": 203,
+      "startMs": 1137500,
+      "endMs": 1146300,
+      "en": "But then experts we spoke to say it seems to be part of a much wider effort to Russify the area—areas of occupied Ukraine,",
+      "zh": "但接受我们采访的专家表示，这似乎是一项更广泛行动的一部分，旨在将乌克兰被占领地区俄罗斯化，"
+    },
+    {
+      "id": 204,
+      "startMs": 1146300,
+      "endMs": 1154780,
+      "en": "and to make it much harder for Ukrainians to reintegrate these areas in future, should they retake the territory at some point.",
+      "zh": "并让乌克兰日后即使重新夺回领土，也更难将这些地区重新整合。"
+    },
+    {
+      "id": 205,
+      "startMs": 1155020,
+      "endMs": 1158160,
+      "en": "Yeah, realistically, what can the homeowners do, if anything?",
+      "zh": "那么现实中，这些房主能做些什么吗？"
+    },
+    {
+      "id": 206,
+      "startMs": 1158720,
+      "endMs": 1168480,
+      "en": "Well, Ukrainians we spoke to say once their property appears on any of the ownerless lists, it feels it's almost pretty much done deal; it's gone.",
+      "zh": "接受我们采访的乌克兰人称，一旦房产出现在任何一份无主财产名单上，几乎就像已成定局：房子没了。"
+    },
+    {
+      "id": 207,
+      "startMs": 1168800,
+      "endMs": 1177680,
+      "en": "That's because to try and get their properties back, Ukrainians are required to obtain a Russian passport and return to occupied Ukraine in person.",
+      "zh": "因为乌克兰人若想取回房产，必须取得俄罗斯护照，并亲自返回被占领的乌克兰地区。"
+    },
+    {
+      "id": 208,
+      "startMs": 1177680,
+      "endMs": 1188400,
+      "en": "That means also going through grueling security checks at the Moscow Sheremetyevo Airport, which are known as filtration, and they have to do all of that within just 30 days.",
+      "zh": "这还意味着要在莫斯科谢列梅捷沃机场接受严苛的安全检查，也就是所谓的“甄别”，并且必须在短短 30 天内完成这一切。"
+    },
+    {
+      "id": 209,
+      "startMs": 1188400,
+      "endMs": 1194560,
+      "en": "So Ukrainians we spoke to say they feel it's neither safe nor possible for them to return to their homes.",
+      "zh": "因此，接受采访的乌克兰人表示，他们认为返回家园既不安全，也不可行。"
+    },
+    {
+      "id": 210,
+      "startMs": 1194560,
+      "endMs": 1199920,
+      "en": "So a few of them did come across as almost resigned to the idea that their homes are all but lost.",
+      "zh": "所以，其中几人似乎几乎已经接受了家园基本无法挽回的现实。"
+    },
+    {
+      "id": 211,
+      "startMs": 1200720,
+      "endMs": 1208880,
+      "en": "Olga Robinson. And we have more from Olga, including her own personal insight into being half Ukrainian and half Russian, on our YouTube channel.",
+      "zh": "以上是奥尔加·罗宾逊。我们的 YouTube 频道还有更多来自奥尔加的内容，其中包括她作为乌克兰与俄罗斯混血者的个人见解。"
+    },
+    {
+      "id": 212,
+      "startMs": 1209280,
+      "endMs": 1214800,
+      "en": "Search for BBC News on YouTube, and you'll find the Global News Podcast in the Podcasts section.",
+      "zh": "在 YouTube 搜索 BBC News，即可在“播客”栏目找到《全球新闻播客》。"
+    },
+    {
+      "id": 213,
+      "startMs": 1215640,
+      "endMs": 1225080,
+      "en": "Staying with the war in Ukraine, and the highest court in Sweden has ruled that a cargo ship seized in the Baltic Sea earlier this year can be handed over to Kyiv.",
+      "zh": "继续关注乌克兰战争。瑞典最高法院裁定，今年早些时候在波罗的海被扣押的一艘货船可移交给基辅。"
+    },
+    {
+      "id": 214,
+      "startMs": 1225640,
+      "endMs": 1234120,
+      "en": "The Caffa was sailing under a false flag of Guinea, but it's believed to have belonged to Russia's shadow fleet, which Moscow uses to avoid Western sanctions.",
+      "zh": "“卡法号”冒用几内亚船旗航行，但据信属于俄罗斯的“影子舰队”；莫斯科利用这支舰队规避西方制裁。"
+    },
+    {
+      "id": 215,
+      "startMs": 1234440,
+      "endMs": 1239880,
+      "en": "Ukraine suspected it was illegally transporting grain stolen from territory occupied by Russia.",
+      "zh": "乌克兰怀疑该船非法运输从俄占区掠夺的粮食。"
+    },
+    {
+      "id": 216,
+      "startMs": 1240440,
+      "endMs": 1246600,
+      "en": "Ben Wright heard more from Stephanie Baker at Bloomberg News, who's written extensively about Russia's shadow fleet.",
+      "zh": "本·赖特采访了彭博新闻社的斯蒂芬妮·贝克；她曾广泛报道俄罗斯影子舰队。"
+    },
+    {
+      "id": 217,
+      "startMs": 1247160,
+      "endMs": 1255400,
+      "en": "It is significant because I believe this is the first time a foreign court has approved transferring a vessel to Ukraine,",
+      "zh": "此事意义重大，因为我认为，这是外国法院首次批准将一艘船移交给乌克兰，"
+    },
+    {
+      "id": 218,
+      "startMs": 1255400,
+      "endMs": 1267080,
+      "en": "at the request of Ukrainian prosecutors, who say that it is part of a war crimes investigation into the alleged theft of grain from occupied Crimea.",
+      "zh": "这是应乌克兰检察官请求作出的；他们称，此举属于针对从被占领的克里米亚涉嫌盗取粮食的战争罪调查。"
+    },
+    {
+      "id": 219,
+      "startMs": 1267960,
+      "endMs": 1277000,
+      "en": "So there have been probably a dozen instances of European authorities either boarding or detaining a ship.",
+      "zh": "欧洲当局登船检查或扣押船只的案例大概已有十几起。"
+    },
+    {
+      "id": 220,
+      "startMs": 1277800,
+      "endMs": 1284280,
+      "en": "But Sweden has been particularly active this year and has detained five ships.",
+      "zh": "但瑞典今年尤其积极，已经扣押了五艘船。"
+    },
+    {
+      "id": 221,
+      "startMs": 1284520,
+      "endMs": 1290440,
+      "en": "And this one they have decided to hand over to the Ukrainians as part of this war crimes investigation.",
+      "zh": "而这艘船，瑞典决定作为战争罪调查的一部分移交给乌克兰方面。"
+    },
+    {
+      "id": 222,
+      "startMs": 1290440,
+      "endMs": 1298120,
+      "en": "And the Ukrainians are saying this is a precedent-setting case, implying that perhaps more of these actions could come in the near future.",
+      "zh": "乌克兰方面称这是一起开创先例的案件，暗示近期可能出现更多类似行动。"
+    },
+    {
+      "id": 223,
+      "startMs": 1298200,
+      "endMs": 1305400,
+      "en": "Because this was carrying grain, but most of the shadow fleet vessels that are boarded tend to carry oil, don't they?",
+      "zh": "因为这艘船运的是粮食，而被登船检查的影子舰队船只大多运油，对吧？"
+    },
+    {
+      "id": 224,
+      "startMs": 1305560,
+      "endMs": 1308920,
+      "en": "That's right. And that's another reason why this is significant and, and different.",
+      "zh": "没错。这也是此案意义重大且与众不同的另一个原因。"
+    },
+    {
+      "id": 225,
+      "startMs": 1309000,
+      "endMs": 1317960,
+      "en": "Most of the shadow fleet, about 600 vessels that have been sanctioned by the UK and Europe, are carrying oil on behalf of Russia.",
+      "zh": "影子舰队的大多数船只——约 600 艘受到英国和欧洲制裁的船只——都在为俄罗斯运输石油。"
+    },
+    {
+      "id": 226,
+      "startMs": 1318440,
+      "endMs": 1330140,
+      "en": "And so this is a first in terms of seizing a cargo ship that was allegedly transporting grain from occupied Crimea to Syria,",
+      "zh": "因此，扣押一艘涉嫌将粮食从被占领的克里米亚运往叙利亚的货船，尚属首次，"
+    },
+    {
+      "id": 227,
+      "startMs": 1330140,
+      "endMs": 1333580,
+      "en": "and was sailing from Morocco to St. Petersburg.",
+      "zh": "该船当时正从摩洛哥驶往圣彼得堡。"
+    },
+    {
+      "id": 228,
+      "startMs": 1333980,
+      "endMs": 1340460,
+      "en": "So this is a very different case, but the ship was operating in similar ways to shadow fleet ships.",
+      "zh": "所以这是一起非常不同的案件，但该船的运作方式与影子舰队船只相似。"
+    },
+    {
+      "id": 229,
+      "startMs": 1340620,
+      "endMs": 1348940,
+      "en": "They initially detained it because Swedish authorities believed it had a false flag, and that gave it grounds to board the ship and investigate.",
+      "zh": "瑞典当局起初扣押该船，是因为怀疑它冒用船旗；这为登船调查提供了依据。"
+    },
+    {
+      "id": 230,
+      "startMs": 1349500,
+      "endMs": 1361340,
+      "en": "But this is a huge problem because there are hundreds of vessels, many of them carrying sanctioned Russian oil, Iranian oil, and very few have been stopped.",
+      "zh": "但这是一个巨大问题，因为此类船只有数百艘，其中许多运输受制裁的俄罗斯石油和伊朗石油，却极少被拦截。"
+    },
+    {
+      "id": 231,
+      "startMs": 1361340,
+      "endMs": 1369660,
+      "en": "And many are carrying false flags or registering in jurisdictions that don't do checks on the underlying documentation or insurance.",
+      "zh": "许多船只冒用船旗，或在不核查基础文件和保险的司法管辖区登记。"
+    },
+    {
+      "id": 232,
+      "startMs": 1370300,
+      "endMs": 1377900,
+      "en": "And European authorities have allowed these ships to transit European waters without checks and have not been aggressively checking them.",
+      "zh": "欧洲当局允许这些船只未经检查通过欧洲水域，也没有积极对其开展核查。"
+    },
+    {
+      "id": 233,
+      "startMs": 1377980,
+      "endMs": 1387740,
+      "en": "Now, Sweden changed its rules last year to give its coast guard more authority to do checks, stop vessels and check for, you know, documentation.",
+      "zh": "瑞典去年修改规定，赋予海岸警卫队更大权限，可开展检查、拦停船只，并核查相关文件，"
+    },
+    {
+      "id": 234,
+      "startMs": 1387760,
+      "endMs": 1390560,
+      "en": "potential forged documentation and the like.",
+      "zh": "包括可能伪造的文件等。"
+    },
+    {
+      "id": 235,
+      "startMs": 1390800,
+      "endMs": 1397600,
+      "en": "And that has led to Sweden really stepping up and being one of the most active countries in Europe to, to try to police the shadow fleet.",
+      "zh": "这促使瑞典显著加大行动力度，成为欧洲最积极尝试监管影子舰队的国家之一。"
+    },
+    {
+      "id": 236,
+      "startMs": 1398080,
+      "endMs": 1406640,
+      "en": "But other countries, the UK, France, have boarded ships in the past, but they could be much more aggressive in terms of policing their waters.",
+      "zh": "英国、法国等其他国家过去也曾登船检查，但在监管本国水域方面本可以采取更积极的行动。"
+    },
+    {
+      "id": 237,
+      "startMs": 1406960,
+      "endMs": 1408880,
+      "en": "Stephanie Baker from Bloomberg News.",
+      "zh": "以上是彭博新闻社的斯蒂芬妮·贝克。"
+    },
+    {
+      "id": 238,
+      "startMs": 1409680,
+      "endMs": 1417600,
+      "en": "Weeks after the US Supreme Court overruled his last attempt to eliminate birthright citizenship, President Trump is trying again.",
+      "zh": "美国最高法院否决特朗普上一次取消出生公民权的尝试数周后，他再次采取行动。"
+    },
+    {
+      "id": 239,
+      "startMs": 1417920,
+      "endMs": 1425600,
+      "en": "On Thursday, he signed two executive orders aimed at curbing the right for anyone born in the USA to automatically become an American citizen.",
+      "zh": "周四，他签署两项行政令，旨在限制任何在美国出生者自动成为美国公民的权利。"
+    },
+    {
+      "id": 240,
+      "startMs": 1426160,
+      "endMs": 1430320,
+      "en": "One man came in with a family, had said, said he had 56 children.",
+      "zh": "有一个人带着家人进来，曾说——说自己有 56 个孩子。"
+    },
+    {
+      "id": 241,
+      "startMs": 1430720,
+      "endMs": 1433280,
+      "en": "Another one came in, they said they had 98 children.",
+      "zh": "另一个人进来时，他们说自己有 98 个孩子。"
+    },
+    {
+      "id": 242,
+      "startMs": 1434080,
+      "endMs": 1435440,
+      "en": "This was not what it was for.",
+      "zh": "这并不是这项权利的本意。"
+    },
+    {
+      "id": 243,
+      "startMs": 1435440,
+      "endMs": 1437840,
+      "en": "This was meant for the babies of slaves.",
+      "zh": "这原本是为奴隶的孩子设立的。"
+    },
+    {
+      "id": 244,
+      "startMs": 1438320,
+      "endMs": 1441920,
+      "en": "It was, it was right after, one week or two weeks after the Civil War ended.",
+      "zh": "那是在内战结束后不久，就在一两周之后。"
+    },
+    {
+      "id": 245,
+      "startMs": 1442560,
+      "endMs": 1452320,
+      "en": "This wasn't for wealthy multimillionaires, billionaires coming in and bringing 15, 20, 30 children along with them.",
+      "zh": "这并不是为富有的千万富翁、亿万富翁而设，让他们入境时带上 15 个、20 个、30 个孩子。"
+    },
+    {
+      "id": 246,
+      "startMs": 1452320,
+      "endMs": 1455760,
+      "en": "It's become a big business, and we're ending that business.",
+      "zh": "这已经成了一门大生意，而我们要终结这门生意。"
+    },
+    {
+      "id": 247,
+      "startMs": 1456240,
+      "endMs": 1459760,
+      "en": "Our North America editor, Sarah Smith, looks at the President's new tactics.",
+      "zh": "本台北美事务编辑莎拉·史密斯分析了总统的新策略。"
+    },
+    {
+      "id": 248,
+      "startMs": 1460160,
+      "endMs": 1464480,
+      "en": "He's trying to use a, a different method to achieve some of the same result here,",
+      "zh": "他正试图采用另一种方法，取得部分相同的结果，"
+    },
+    {
+      "id": 249,
+      "startMs": 1464560,
+      "endMs": 1469360,
+      "en": "because the initial executive order that he signed on his very first day in office was aimed at",
+      "zh": "因为他上任第一天签署的最初行政令，目的在于"
+    },
+    {
+      "id": 250,
+      "startMs": 1470180,
+      "endMs": 1478820,
+      "en": "getting rid of automatic birthright citizenship for children who were born of parents who were either undocumented migrants in America or were only in the country temporarily.",
+      "zh": "取消一部分儿童自动获得的出生公民权：他们的父母要么是美国境内的无证移民，要么只是临时身处美国。"
+    },
+    {
+      "id": 251,
+      "startMs": 1478900,
+      "endMs": 1482180,
+      "en": "But that's what the Supreme Court justices ruled was unconstitutional.",
+      "zh": "但最高法院大法官裁定，这种做法违反宪法。"
+    },
+    {
+      "id": 252,
+      "startMs": 1482740,
+      "endMs": 1487460,
+      "en": "Now, this new order is, is a different route to try and get some of the same result.",
+      "zh": "如今，这项新行政令是实现部分相同结果的另一条路径。"
+    },
+    {
+      "id": 253,
+      "startMs": 1487540,
+      "endMs": 1490820,
+      "en": "This order outlaws what he's calling birthright tourism.",
+      "zh": "这项行政令将他所谓的“出生公民权旅游”列为非法。"
+    },
+    {
+      "id": 254,
+      "startMs": 1491140,
+      "endMs": 1496900,
+      "en": "President Trump says that hundreds of thousands of people come to the United States every year, claiming that they're coming on holiday,",
+      "zh": "特朗普总统称，每年有数十万人来到美国，声称自己是来度假，"
+    },
+    {
+      "id": 255,
+      "startMs": 1496900,
+      "endMs": 1502900,
+      "en": "but really with the express purpose of giving birth to children who would then be able to obtain American citizenship.",
+      "zh": "但实际明确目的是生下随后能够取得美国公民身份的孩子。"
+    },
+    {
+      "id": 256,
+      "startMs": 1502980,
+      "endMs": 1508500,
+      "en": "Well, he says that that is fraud, and they would have fraudulently filled in visa forms.",
+      "zh": "他说，这属于欺诈，而这些人会被视为以欺诈方式填写了签证表格。"
+    },
+    {
+      "id": 257,
+      "startMs": 1508740,
+      "endMs": 1513700,
+      "en": "And therefore, they could be denied the citizenship for their children under immigration law.",
+      "zh": "因此，根据移民法，他们的孩子可能会被拒绝授予公民身份。"
+    },
+    {
+      "id": 258,
+      "startMs": 1513780,
+      "endMs": 1517940,
+      "en": "Now, it's a different way to try and work around the Supreme Court's initial ruling,",
+      "zh": "这是试图绕过最高法院最初裁决的另一种方式，"
+    },
+    {
+      "id": 259,
+      "startMs": 1517940,
+      "endMs": 1523140,
+      "en": "but this is bound to be challenged in court itself, possibly all the way up to the Supreme Court.",
+      "zh": "但它必然会在法庭上受到挑战，案件甚至可能一路上诉至最高法院。"
+    },
+    {
+      "id": 260,
+      "startMs": 1523140,
+      "endMs": 1526420,
+      "en": "So it's not clear Donald Trump will get this time what it is that he wants.",
+      "zh": "因此，唐纳德·特朗普这次能否如愿，尚不清楚。"
+    },
+    {
+      "id": 261,
+      "startMs": 1526900,
+      "endMs": 1528180,
+      "en": "Sarah Smith in Washington.",
+      "zh": "莎拉·史密斯在华盛顿报道。"
+    },
+    {
+      "id": 262,
+      "startMs": 1528820,
+      "endMs": 1535720,
+      "en": "Now, if you've ever passed a pub in London during the summertime, you'll probably have noticed crowds of people milling around outside, drinking.",
+      "zh": "如果你曾在夏天经过伦敦的一家酒吧，可能会注意到成群的人在外面边闲逛边喝酒。"
+    },
+    {
+      "id": 263,
+      "startMs": 1535960,
+      "endMs": 1539320,
+      "en": "Inside, there may well be crowds of people standing at the bar.",
+      "zh": "酒吧里面也很可能挤满站在吧台旁的人。"
+    },
+    {
+      "id": 264,
+      "startMs": 1539800,
+      "endMs": 1545560,
+      "en": "But one local authority in the city is considering guidance that could see less of this so-called vertical drinking.",
+      "zh": "但伦敦一个地方政府正在考虑制定指导意见，可能减少这种所谓的“站立饮酒”。"
+    },
+    {
+      "id": 265,
+      "startMs": 1546120,
+      "endMs": 1551720,
+      "en": "Westminster City Council says having more seating in pubs could discourage excessive drunkenness.",
+      "zh": "威斯敏斯特市议会称，酒吧增加座位可能有助于遏制过度醉酒。"
+    },
+    {
+      "id": 266,
+      "startMs": 1552120,
+      "endMs": 1558120,
+      "en": "The government has now weighed in, saying pubs full of people is not a public nuisance; it is British life.",
+      "zh": "英国政府现已介入，称酒吧里人头攒动并非扰民，而是英国生活。"
+    },
+    {
+      "id": 267,
+      "startMs": 1558600,
+      "endMs": 1560760,
+      "en": "Here's what some pub-goers here in London think.",
+      "zh": "来听听伦敦一些酒客的看法。"
+    },
+    {
+      "id": 268,
+      "startMs": 1561080,
+      "endMs": 1562440,
+      "en": "I mean, it depends on the place.",
+      "zh": "我是说，这要看具体场所。"
+    },
+    {
+      "id": 269,
+      "startMs": 1562440,
+      "endMs": 1566200,
+      "en": "Sometimes you go to some bars and you're stood there for ages and you don't get served, and you get annoyed.",
+      "zh": "有时候你去酒吧，站在那里等了很久却没人服务，确实会感到恼火。"
+    },
+    {
+      "id": 270,
+      "startMs": 1566200,
+      "endMs": 1570840,
+      "en": "I guess when you're at a table, you can do like table service, you know, or scan a QR code, things like that.",
+      "zh": "我想，坐在桌边时可以接受桌边服务，你知道，或者扫二维码之类的。"
+    },
+    {
+      "id": 271,
+      "startMs": 1570840,
+      "endMs": 1573000,
+      "en": "So I guess there's an argument for sitting down is better.",
+      "zh": "所以我想，确实有理由认为坐着更好。"
+    },
+    {
+      "id": 272,
+      "startMs": 1573000,
+      "endMs": 1576600,
+      "en": "But I don't know, sometimes there's like a bit of a buzz about it, isn't there?",
+      "zh": "但我也说不准，有时候现场就是会有点热闹的气氛，对吧？"
+    },
+    {
+      "id": 273,
+      "startMs": 1576600,
+      "endMs": 1580120,
+      "en": "Like pub culture, I suppose, of mingling and, yeah, enjoying it and having fun.",
+      "zh": "我想，这就是酒吧文化：大家彼此交流，尽情享受、玩得开心。"
+    },
+    {
+      "id": 274,
+      "startMs": 1580120,
+      "endMs": 1584360,
+      "en": "The businesses will struggle, because if you come to a pub and all the tables are full,",
+      "zh": "酒吧生意会陷入困境，因为如果你进店后发现桌子全满了，"
+    },
+    {
+      "id": 275,
+      "startMs": 1585080,
+      "endMs": 1589400,
+      "en": "whereas before, or now, you would sort of like squidge in and sort of get a little pint with your mate",
+      "zh": "而以前或者现在，你还能勉强挤进去，和朋友喝上一小杯，"
+    },
+    {
+      "id": 276,
+      "startMs": 1589580,
+      "endMs": 1593260,
+      "en": "and sort of have a little chat and then go to the train or whatever and be on your merry way,",
+      "zh": "聊上一会儿，再去赶火车或做别的事，然后轻松离开；"
+    },
+    {
+      "id": 277,
+      "startMs": 1593820,
+      "endMs": 1599500,
+      "en": "you'd probably just be like, \"No, not going to bother.\" You have more chats with people at the bar. Sometimes you meet people you don't know, not just your friends.",
+      "zh": "现在你很可能只会想：“算了，不费这个劲了。”站在吧台边会和更多人聊天；有时你会认识陌生人，而不只是和朋友待在一起。"
+    },
+    {
+      "id": 278,
+      "startMs": 1599500,
+      "endMs": 1603580,
+      "en": "I feel like that'll definitely be a massive impact if you couldn't stand up and queue at the bar.",
+      "zh": "我觉得，如果不能站着在吧台前排队，肯定会产生巨大影响。"
+    },
+    {
+      "id": 279,
+      "startMs": 1604140,
+      "endMs": 1608060,
+      "en": "Jonathan Lawson runs more than 100 pubs across the UK.",
+      "zh": "乔纳森·劳森在英国经营着 100 多家酒吧。"
+    },
+    {
+      "id": 280,
+      "startMs": 1608060,
+      "endMs": 1609340,
+      "en": "What does he make of all this?",
+      "zh": "他如何看待这一切？"
+    },
+    {
+      "id": 281,
+      "startMs": 1609980,
+      "endMs": 1614460,
+      "en": "When I first heard about this, it was yet another moment that I've had in this industry",
+      "zh": "我刚听说此事时，又一次产生了在这个行业里常有的那种感受，"
+    },
+    {
+      "id": 282,
+      "startMs": 1614460,
+      "endMs": 1621500,
+      "en": "where I've scratched my head about government, be it at a national or local level, doing things that you—really do perplex you.",
+      "zh": "那就是对政府感到困惑：无论国家还是地方层面，它们有时所做的事实在令人费解。"
+    },
+    {
+      "id": 283,
+      "startMs": 1622060,
+      "endMs": 1627820,
+      "en": "And once again, you've got an authority here getting involved in an issue which is not an issue.",
+      "zh": "又一次，当局介入了一个根本不成问题的问题。"
+    },
+    {
+      "id": 284,
+      "startMs": 1627980,
+      "endMs": 1630060,
+      "en": "Pubs are wonderful democratic things.",
+      "zh": "酒吧是非常美好的民主场所。"
+    },
+    {
+      "id": 285,
+      "startMs": 1630060,
+      "endMs": 1634300,
+      "en": "It's—you get to choose what you wish to do with people.",
+      "zh": "也就是说，你可以选择与人们一起做什么。"
+    },
+    {
+      "id": 286,
+      "startMs": 1634300,
+      "endMs": 1638700,
+      "en": "And if you look at any group of people standing in any one of our pubs at any given time,",
+      "zh": "如果你在任何时候看看我们任何一家酒吧里站着的人群，"
+    },
+    {
+      "id": 287,
+      "startMs": 1639020,
+      "endMs": 1645900,
+      "en": "some people will be drinking alcohol, some people won't, some people will have one drink and then go, some people will then have a few more drinks.",
+      "zh": "有些人在喝酒，有些人不喝；有些人喝一杯就走，也有些人会再多喝几杯。"
+    },
+    {
+      "id": 288,
+      "startMs": 1646220,
+      "endMs": 1648860,
+      "en": "The point is, you choose and you decide what to do.",
+      "zh": "关键在于，你可以自行选择并决定怎么做。"
+    },
+    {
+      "id": 289,
+      "startMs": 1649100,
+      "endMs": 1656640,
+      "en": "Pubs in London tend to be smaller, and therefore actually the economic model doesn't work if you're trying to encourage all of those people to sit down.",
+      "zh": "伦敦的酒吧通常较小，因此如果试图让所有人都坐下，这种经营模式实际上就行不通。"
+    },
+    {
+      "id": 290,
+      "startMs": 1657040,
+      "endMs": 1660320,
+      "en": "We just think a modern pub is an incredible thing now,",
+      "zh": "我们只是认为，如今的现代酒吧非常了不起，"
+    },
+    {
+      "id": 291,
+      "startMs": 1660320,
+      "endMs": 1669920,
+      "en": "where you might find locals drinking at the bar, you might find people in a business meeting, you might find people there for a special event or an occasion and a celebration.",
+      "zh": "你可能看到当地人在吧台喝酒，看到有人举行商务会议，也可能有人为某个特别活动、场合或庆典来到这里。"
+    },
+    {
+      "id": 292,
+      "startMs": 1670400,
+      "endMs": 1674080,
+      "en": "And that's a unique thing to be able to achieve within a British pub.",
+      "zh": "能够在英国酒吧中实现这一点，是非常独特的。"
+    },
+    {
+      "id": 293,
+      "startMs": 1674080,
+      "endMs": 1681040,
+      "en": "They're fantastic things, and actually the vast majority of customers behave completely responsibly and enjoy them,",
+      "zh": "酒吧是很棒的地方，而且绝大多数顾客都表现得非常负责任，并享受其中，"
+    },
+    {
+      "id": 294,
+      "startMs": 1681440,
+      "endMs": 1687120,
+      "en": "and I watch customers all day long and listen to them, and that they are fantastic, wonderful things that we should look after.",
+      "zh": "我整天观察顾客、听他们交谈；酒吧是我们应该珍惜的美妙事物。"
+    },
+    {
+      "id": 295,
+      "startMs": 1687440,
+      "endMs": 1689760,
+      "en": "Jonathan Lawson, manager of a British pub group.",
+      "zh": "以上是英国一家酒吧集团的经理乔纳森·劳森。"
+    },
+    {
+      "id": 296,
+      "startMs": 1692540,
+      "endMs": 1694140,
+      "en": "And that is all from us for now.",
+      "zh": "以上就是本期节目的全部内容。"
+    },
+    {
+      "id": 297,
+      "startMs": 1694220,
+      "endMs": 1696860,
+      "en": "But the Global News Podcast will be back very soon.",
+      "zh": "《全球新闻播客》很快会再次与您见面。"
+    },
+    {
+      "id": 298,
+      "startMs": 1697180,
+      "endMs": 1700620,
+      "en": "This edition was mixed by Sydney Dundon and produced by Alice Adderley.",
+      "zh": "本期节目由悉尼·邓登负责混音，爱丽丝·阿德利制作。"
+    },
+    {
+      "id": 299,
+      "startMs": 1700620,
+      "endMs": 1701580,
+      "en": "Our editor's Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 300,
+      "startMs": 1701900,
+      "endMs": 1703100,
+      "en": "I'm Oliver Conway.",
+      "zh": "我是奥利弗·康韦。"
+    },
+    {
+      "id": 301,
+      "startMs": 1703260,
+      "endMs": 1704620,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
