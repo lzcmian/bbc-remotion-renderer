@@ -126,20 +126,33 @@ jobs:
           ffmpeg -hide_banner -loglevel error -f concat -safe 0 -i concat.txt \
             -map 0:v:0 -c:v copy video-only.mp4
 
-      - name: Fetch and cut private audio
+          actual_frames="$(ffprobe -v error -select_streams v:0 -count_frames \
+            -show_entries stream=nb_read_frames -of csv=p=0 video-only.mp4)"
+          test "$actual_frames" -eq "${{ needs.plan.outputs.total_frames }}"
+
+      - name: Download and decrypt private audio
         env:
-          AUDIO_EPISODE: ${{ secrets.AUDIO_EPISODE }}
-          AUDIO_URL: ${{ secrets.AUDIO_URL }}
-          AUDIO_FILTER: ${{ secrets.AUDIO_FILTER }}
+          AUDIO_KEY: ${{ secrets.AUDIO_KEY }}
+          GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
-          test -n "$AUDIO_EPISODE"
-          test "$AUDIO_EPISODE" = "${{ inputs.episode }}"
-          test -n "$AUDIO_URL"
-          test -n "$AUDIO_FILTER"
-          curl --fail --location --silent --show-error "$AUDIO_URL" -o source.mp3
-          ffmpeg -hide_banner -loglevel error -y -i source.mp3 \
-            -filter_complex "$AUDIO_FILTER" -map '[outa]' \
+          test -n "$AUDIO_KEY"
+          gh release download "audio-${{ inputs.episode }}" \
+            --repo "$GITHUB_REPOSITORY" \
+            --pattern "${{ inputs.episode }}.full.mp3.enc"
+          node scripts/audio-crypt.mjs decrypt \
+            "${{ inputs.episode }}.full.mp3.enc" episode-audio.mp3
+
+          expected_duration="$(node -e \
+            "const fs=require('fs'); const p=JSON.parse(fs.readFileSync(process.argv[1])); console.log(p.durationMs / 1000)" \
+            "episodes/${{ inputs.episode }}/captions.json")"
+          actual_duration="$(ffprobe -v error -show_entries format=duration \
+            -of csv=p=0 episode-audio.mp3)"
+          node -e \
+            "const difference=Math.abs(Number(process.argv[1])-Number(process.argv[2])); if (difference > 0.25) { throw new Error('Audio duration mismatch: ' + difference + ' seconds'); }" \
+            "$expected_duration" "$actual_duration"
+
+          ffmpeg -hide_banner -loglevel error -y -i episode-audio.mp3 \
             -c:a aac -b:a 192k episode-audio.m4a
 
       - name: Mux final video

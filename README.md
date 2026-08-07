@@ -38,11 +38,11 @@ The `Distributed render` workflow:
 1. validates the selected public caption file;
 2. divides its 30 fps frame range into up to 16 shards;
 3. renders silent H.264 shards on standard GitHub-hosted Linux runners;
-4. concatenates the shards without re-encoding;
-5. fetches and cuts the audio from repository secrets, then muxes it once;
+4. concatenates the shards without re-encoding and verifies the exact frame count;
+5. downloads an AES-256-GCM encrypted audio asset, decrypts it with a repository secret, verifies its duration, and muxes it once;
 6. uploads the final MP4 for one day and deletes intermediate artifacts.
 
-The repository contains no audio URLs or editorial cut ranges. Repository maintainers configure these as Actions secrets.
+The repository contains no audio URLs or editorial cut ranges. Encrypted audio is stored as an opaque release asset, while its decryption key exists only as an Actions secret.
 
 ## Local checks
 
