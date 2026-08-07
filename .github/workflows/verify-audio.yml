@@ -1,0 +1,49 @@
+name: Verify encrypted audio
+
+on:
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: Episode directory name
+        required: true
+        default: p0p32jtr
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.episode }}
+    steps:
+      - name: Check out renderer
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+
+      - name: Install FFmpeg
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes ffmpeg
+
+      - name: Download, decrypt, and verify audio
+        env:
+          AUDIO_KEY: ${{ secrets.AUDIO_KEY }}
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          test -n "$AUDIO_KEY"
+          gh release download "audio-${{ inputs.episode }}" \
+            --repo "$GITHUB_REPOSITORY" \
+            --pattern "${{ inputs.episode }}.full.mp3.enc"
+          node scripts/audio-crypt.mjs decrypt \
+            "${{ inputs.episode }}.full.mp3.enc" episode-audio.mp3
+
+          expected_duration="$(node -e \
+            "const fs=require('fs'); const p=JSON.parse(fs.readFileSync(process.argv[1])); console.log(p.durationMs / 1000)" \
+            "episodes/${{ inputs.episode }}/captions.json")"
+          actual_duration="$(ffprobe -v error -show_entries format=duration \
+            -of csv=p=0 episode-audio.mp3)"
+          node -e \
+            "const difference=Math.abs(Number(process.argv[1])-Number(process.argv[2])); if (difference > 0.25) { throw new Error('Audio duration mismatch: ' + difference + ' seconds'); } console.log('Verified encrypted audio; duration difference: ' + difference.toFixed(3) + ' seconds');" \
+            "$expected_duration" "$actual_duration"
