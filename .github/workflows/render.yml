@@ -102,6 +102,7 @@ jobs:
     needs: [plan, render]
     if: always() && needs.plan.result == 'success' && (needs.render.result == 'success' || needs.render.result == 'skipped')
     runs-on: ubuntu-latest
+    environment: ${{ inputs.episode }}
     permissions:
       actions: write
       contents: read

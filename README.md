@@ -44,7 +44,7 @@ The `Distributed render` workflow:
 
 If assembly fails after the expensive shards have completed, pass the previous workflow run ID as `source_run_id`. The workflow skips rendering and retries assembly from those existing artifacts.
 
-The repository contains no audio URLs or editorial cut ranges. Encrypted audio is stored as an opaque release asset, while its decryption key exists only as an Actions secret.
+The repository contains no audio URLs or editorial cut ranges. Encrypted audio is stored as an opaque release asset. Each episode uses a same-named GitHub Environment whose `AUDIO_KEY` secret can decrypt only that episode, allowing episodes to render concurrently without sharing or rotating one repository-wide key.
 
 ## Local checks
 
