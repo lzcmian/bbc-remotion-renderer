@@ -42,6 +42,8 @@ The `Distributed render` workflow:
 5. downloads an AES-256-GCM encrypted audio asset, decrypts it with a repository secret, verifies its duration, and muxes it once;
 6. uploads the final MP4 for one day and deletes intermediate artifacts.
 
+If assembly fails after the expensive shards have completed, pass the previous workflow run ID as `source_run_id`. The workflow skips rendering and retries assembly from those existing artifacts.
+
 The repository contains no audio URLs or editorial cut ranges. Encrypted audio is stored as an opaque release asset, while its decryption key exists only as an Actions secret.
 
 ## Local checks
