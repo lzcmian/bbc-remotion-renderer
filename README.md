@@ -39,7 +39,7 @@ The `Distributed render` workflow:
 2. divides its 30 fps frame range into up to 16 shards;
 3. renders silent H.264 shards on standard GitHub-hosted Linux runners;
 4. concatenates the shards without re-encoding and verifies the exact frame count;
-5. downloads an AES-256-GCM encrypted audio asset, decrypts it with a repository secret, verifies its duration, and muxes it once;
+5. downloads an AES-256-GCM encrypted audio asset, decrypts it with a repository secret, verifies its duration, and muxes it once without truncating the video;
 6. uploads the final MP4 for one day and deletes intermediate artifacts.
 
 If assembly fails after the expensive shards have completed, pass the previous workflow run ID as `source_run_id`. The workflow skips rendering and retries assembly from those existing artifacts.

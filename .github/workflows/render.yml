@@ -171,8 +171,13 @@ jobs:
         run: |
           ffmpeg -hide_banner -loglevel error -y \
             -i video-only.mp4 -i episode-audio.m4a \
-            -map 0:v:0 -map 1:a:0 -c:v copy -c:a copy -shortest \
+            -map 0:v:0 -map 1:a:0 -c:v copy -c:a copy \
             "${{ inputs.episode }}.mp4"
+          final_frames="$(ffprobe -v error -select_streams v:0 -count_frames \
+            -show_entries stream=nb_read_frames \
+            -of default=nokey=1:noprint_wrappers=1 \
+            "${{ inputs.episode }}.mp4")"
+          test "$final_frames" -eq "${{ needs.plan.outputs.total_frames }}"
           ffprobe -v error -show_entries format=duration,size \
             -of default=noprint_wrappers=1 "${{ inputs.episode }}.mp4"
 
