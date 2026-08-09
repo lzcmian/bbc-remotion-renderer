@@ -1,0 +1,1768 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "8 August 2026"
+  },
+  "durationMs": 1574760,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4240,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 国际台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 7080,
+      "endMs": 12520,
+      "en": "I'm Charlotte Gallagher, and in the early hours of Saturday, the 8th of August, these are our main stories.",
+      "zh": "我是夏洛特·加拉格尔。现在是 8 月 8 日星期六凌晨，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12840,
+      "endMs": 18920,
+      "en": "Colombia's new president has been sworn into office and promises to hunt down cartels like rats.",
+      "zh": "哥伦比亚新总统已宣誓就职，并承诺要像抓老鼠一样追剿贩毒集团。"
+    },
+    {
+      "id": 4,
+      "startMs": 19400,
+      "endMs": 26200,
+      "en": "Donald Trump is forced to hit pause on his plan to build a $400 million ballroom in the White House.",
+      "zh": "唐纳德·特朗普被迫暂停在白宫修建一座耗资 4 亿美元宴会厅的计划。"
+    },
+    {
+      "id": 5,
+      "startMs": 26760,
+      "endMs": 32200,
+      "en": "The BBC tracks down the spy chief of Syria's former dictator, Bashar al-Assad.",
+      "zh": "BBC 找到了叙利亚前独裁者巴沙尔·阿萨德的情报首脑。"
+    },
+    {
+      "id": 6,
+      "startMs": 35180,
+      "endMs": 41740,
+      "en": "Also in this podcast, the 1,000 child migrants currently stuck in the Spanish territory of Ceuta.",
+      "zh": "本期还有：目前滞留在西班牙领土休达的 1,000 名儿童移民。"
+    },
+    {
+      "id": 7,
+      "startMs": 46140,
+      "endMs": 53500,
+      "en": "We start the podcast in Colombia, where Abelardo de la Espriella has been sworn in as the country's new president.",
+      "zh": "节目先从哥伦比亚开始，阿韦拉尔多·德拉埃斯普列亚已宣誓就任该国新总统。"
+    },
+    {
+      "id": 8,
+      "startMs": 60520,
+      "endMs": 69720,
+      "en": "The ceremony was held in the southwestern city of Cali, rather than the capital, Bogotá.",
+      "zh": "就职仪式在西南部城市卡利举行，而不是首都波哥大。"
+    },
+    {
+      "id": 9,
+      "startMs": 70200,
+      "endMs": 78760,
+      "en": "In his speech, the right-wing president, who's a supporter and ally of Donald Trump, vowed to improve security and tackle drug traffickers and armed groups.",
+      "zh": "这位右翼总统是唐纳德·特朗普的支持者和盟友。他在讲话中誓言改善治安，并打击毒贩和武装团体。"
+    },
+    {
+      "id": 10,
+      "startMs": 78920,
+      "endMs": 92200,
+      "en": "From Cali, a city so closely linked to national life and the capital of a province that has suffered the scourge of terrorism, drug trafficking, and the actions of violent groups,",
+      "zh": "卡利与国家生活紧密相连，也是一个饱受恐怖主义、毒品贩运和暴力团体活动祸害的省份的首府。"
+    },
+    {
+      "id": 11,
+      "startMs": 92200,
+      "endMs": 99640,
+      "en": "I send a firm message to the Colombian people: the time has come to restore order, authority, and freedom.",
+      "zh": "我向哥伦比亚人民发出坚定的信息：恢复秩序、权威和自由的时刻已经到来。"
+    },
+    {
+      "id": 12,
+      "startMs": 100520,
+      "endMs": 105640,
+      "en": "Some of the region's other right-wing leaders were there, including Argentina's Javier Milei.",
+      "zh": "该地区其他一些右翼领导人也出席了仪式，其中包括阿根廷总统哈维尔·米莱。"
+    },
+    {
+      "id": 13,
+      "startMs": 106040,
+      "endMs": 111960,
+      "en": "BBC Mundo's Colombia correspondent, José Carlos Cueto López, told me more about the new president.",
+      "zh": "BBC 西语部驻哥伦比亚记者何塞·卡洛斯·奎托·洛佩斯向我进一步介绍了这位新总统。"
+    },
+    {
+      "id": 14,
+      "startMs": 112440,
+      "endMs": 119400,
+      "en": "He was pretty much unknown in the political sphere before launching his presidential candidacy in July 2025.",
+      "zh": "在 2025 年 7 月宣布竞选总统之前，他在政界几乎默默无闻。"
+    },
+    {
+      "id": 15,
+      "startMs": 119400,
+      "endMs": 128060,
+      "en": "He describes himself as a political outsider and a high-profile lawyer who built much of his public profile through the media and social media.",
+      "zh": "他自称政治局外人，也是一位知名律师，其公众形象很大程度上是通过媒体和社交媒体建立起来的。"
+    },
+    {
+      "id": 16,
+      "startMs": 128220,
+      "endMs": 131020,
+      "en": "He describes himself as an admirer of Donald Trump.",
+      "zh": "他自称是唐纳德·特朗普的仰慕者。"
+    },
+    {
+      "id": 17,
+      "startMs": 131340,
+      "endMs": 140380,
+      "en": "They both share a preference for a tough approach to crime, free-market economic policies, and conservative and often religious speech.",
+      "zh": "两人都倾向于以强硬方式打击犯罪、推行自由市场经济政策，并发表保守且往往带有宗教色彩的言论。"
+    },
+    {
+      "id": 18,
+      "startMs": 140860,
+      "endMs": 148700,
+      "en": "In fact, Trump endorsed him during the campaign, and many analysts now expect a new chapter in the relationship between Colombia and the United States.",
+      "zh": "事实上，特朗普在竞选期间为他背书。许多分析人士如今预计，哥伦比亚与美国的关系将开启新篇章。"
+    },
+    {
+      "id": 19,
+      "startMs": 148700,
+      "endMs": 152860,
+      "en": "And that relationship is important not only economically, but also in terms of security.",
+      "zh": "这段关系不仅在经济上十分重要，在安全领域也是如此。"
+    },
+    {
+      "id": 20,
+      "startMs": 152860,
+      "endMs": 159340,
+      "en": "Because for decades Colombia has been one of Washington's closest security partners in Latin America.",
+      "zh": "因为数十年来，哥伦比亚一直是华盛顿在拉丁美洲最亲密的安全伙伴之一。"
+    },
+    {
+      "id": 21,
+      "startMs": 159900,
+      "endMs": 167100,
+      "en": "Both De la Espriella and Trump share, as I was saying, a preference for using the military to tackle organized crime and drug trafficking.",
+      "zh": "正如我刚才所说，德拉埃斯普列亚和特朗普都倾向于动用军队打击有组织犯罪和毒品贩运。"
+    },
+    {
+      "id": 22,
+      "startMs": 167100,
+      "endMs": 171420,
+      "en": "An approach that has also attracted criticism from human rights groups.",
+      "zh": "这种做法也招致了人权团体的批评。"
+    },
+    {
+      "id": 23,
+      "startMs": 171820,
+      "endMs": 176940,
+      "en": "So, yeah, I would say that he's a figure who attracts strong support, but also strong opposition.",
+      "zh": "所以，是的，我会说他是一个既获得坚定支持、也招致强烈反对的人物。"
+    },
+    {
+      "id": 24,
+      "startMs": 177180,
+      "endMs": 179500,
+      "en": "And you mentioned there this relationship with Donald Trump.",
+      "zh": "你刚才提到了他与唐纳德·特朗普的关系。"
+    },
+    {
+      "id": 25,
+      "startMs": 179500,
+      "endMs": 189440,
+      "en": "I wondered if anything had been said then about Colombians that were killed by the US military, you know, for allegedly being drug traffickers off the coast of Colombia.",
+      "zh": "我想知道，关于那些在哥伦比亚近海被美军击毙、据称是毒贩的哥伦比亚人，是否有人说过什么。"
+    },
+    {
+      "id": 26,
+      "startMs": 189440,
+      "endMs": 190960,
+      "en": "Has that come up in the campaign at all?",
+      "zh": "这件事在竞选中被提及过吗？"
+    },
+    {
+      "id": 27,
+      "startMs": 191600,
+      "endMs": 197760,
+      "en": "De la Espriella himself has promised to bomb drug-trafficking camps, drug-trafficking vessels.",
+      "zh": "德拉埃斯普列亚本人已承诺轰炸贩毒营地和贩毒船只。"
+    },
+    {
+      "id": 28,
+      "startMs": 198160,
+      "endMs": 210000,
+      "en": "And that strategy pretty much echoes the one that Trump is developing right now that has left more than 200 people killed in South American waters since last August in 2025.",
+      "zh": "这一策略与特朗普目前推行的做法非常相似；自 2025 年 8 月以来，后者已导致两百多人在南美洲水域丧生。"
+    },
+    {
+      "id": 29,
+      "startMs": 210240,
+      "endMs": 216080,
+      "en": "So, I would say that De la Espriella is willing to take a very strong stance against armed groups in the country.",
+      "zh": "所以，我认为德拉埃斯普列亚愿意对国内武装团体采取非常强硬的立场。"
+    },
+    {
+      "id": 30,
+      "startMs": 216400,
+      "endMs": 221280,
+      "en": "I think I read that he said he was going to hunt cartels down like rats.",
+      "zh": "我记得读到过，他说自己要像抓老鼠一样追剿贩毒集团。"
+    },
+    {
+      "id": 31,
+      "startMs": 221680,
+      "endMs": 231520,
+      "en": "And is the security situation and the power of cartels in Colombia, is that very concerning for just normal voters, the impact that it's having on their lives?",
+      "zh": "那么，哥伦比亚的安全局势和贩毒集团的势力，以及它们对生活造成的影响，是否让普通选民非常担忧？"
+    },
+    {
+      "id": 32,
+      "startMs": 231760,
+      "endMs": 238000,
+      "en": "Yeah, it has been a primary concern in Colombia pretty much since the armed conflict started 60 years ago.",
+      "zh": "是的，自从武装冲突在 60 年前爆发以来，这几乎一直是哥伦比亚民众最关切的问题。"
+    },
+    {
+      "id": 33,
+      "startMs": 238160,
+      "endMs": 246020,
+      "en": "The reality is that since the peace accords were signed between the state and the FARC rebel groups in 2016,",
+      "zh": "实际情况是，自 2016 年政府与反政府武装“哥伦比亚革命武装力量”签署和平协议以来，"
+    },
+    {
+      "id": 34,
+      "startMs": 246340,
+      "endMs": 254740,
+      "en": "pretty much shortly after that, in 2018, armed groups started to regroup again and become more powerful.",
+      "zh": "没过多久，武装团体就在 2018 年开始重新集结，并变得更加强大。"
+    },
+    {
+      "id": 35,
+      "startMs": 255060,
+      "endMs": 264420,
+      "en": "And part of that is because there are profound, deep situations that have not been solved and serve as a fertile ground for the proliferation of crime,",
+      "zh": "部分原因在于，一些深层次的严重问题尚未解决，成为犯罪滋生蔓延的温床。"
+    },
+    {
+      "id": 36,
+      "startMs": 264420,
+      "endMs": 277700,
+      "en": "Which is the extreme inequality and what is called here the absence of the state and the institutions in many remote areas that have, for example, many areas of coca leaf crops.",
+      "zh": "这些问题包括极端不平等，以及这里所说的国家和公共机构在许多偏远地区缺位；例如，许多地方都种植古柯叶。"
+    },
+    {
+      "id": 37,
+      "startMs": 278520,
+      "endMs": 285800,
+      "en": "And does his victory represent a general shift in that region towards right-wing politics, do you think?",
+      "zh": "你认为，他的胜选是否代表该地区总体上正在转向右翼政治？"
+    },
+    {
+      "id": 38,
+      "startMs": 286280,
+      "endMs": 287480,
+      "en": "Yes, definitely.",
+      "zh": "是的，毫无疑问。"
+    },
+    {
+      "id": 39,
+      "startMs": 287480,
+      "endMs": 296840,
+      "en": "If you look at the political map right now, the only two countries, at least in South America, that don't have a right-wing government at the moment are Brazil and Uruguay.",
+      "zh": "看看现在的政治版图，至少在南美洲，目前没有右翼政府的国家只有巴西和乌拉圭。"
+    },
+    {
+      "id": 40,
+      "startMs": 297240,
+      "endMs": 303960,
+      "en": "But definitely, with all these right-wing governments in the region, Donald Trump will be closer to succeeding in his strategy.",
+      "zh": "但可以肯定的是，随着该地区出现这么多右翼政府，唐纳德·特朗普将更有可能成功实施他的战略。"
+    },
+    {
+      "id": 41,
+      "startMs": 304280,
+      "endMs": 308680,
+      "en": "To have more influence over the region with what is called the Monroe Doctrine.",
+      "zh": "也就是通过所谓的“门罗主义”扩大对该地区的影响力。"
+    },
+    {
+      "id": 42,
+      "startMs": 309240,
+      "endMs": 312120,
+      "en": "José Carlos Cueto López in Bogotá.",
+      "zh": "何塞·卡洛斯·奎托·洛佩斯在波哥大报道。"
+    },
+    {
+      "id": 43,
+      "startMs": 312980,
+      "endMs": 320580,
+      "en": "Donald Trump is pursuing an ambitious makeover of Washington, D.C., but his renovations are not going to plan.",
+      "zh": "唐纳德·特朗普正大举改造华盛顿特区，但他的翻修工程并未按计划推进。"
+    },
+    {
+      "id": 44,
+      "startMs": 320980,
+      "endMs": 330660,
+      "en": "A US court has now ordered the Trump administration to halt construction of a $400 million ballroom on the site of the demolished East Wing of the White House.",
+      "zh": "美国一家法院现已下令特朗普政府暂停施工：白宫东翼被拆除后，原址上正在兴建一座耗资 4 亿美元的宴会厅。"
+    },
+    {
+      "id": 45,
+      "startMs": 331140,
+      "endMs": 335060,
+      "en": "The president called the ruling a \"national disgrace\" and vowed to appeal.",
+      "zh": "总统称这项裁决是“国家耻辱”，并誓言上诉。"
+    },
+    {
+      "id": 46,
+      "startMs": 335460,
+      "endMs": 338660,
+      "en": "Our North America editor, Sarah Smith, reports from Washington.",
+      "zh": "本台北美事务编辑萨拉·史密斯从华盛顿发回报道。"
+    },
+    {
+      "id": 47,
+      "startMs": 339300,
+      "endMs": 344740,
+      "en": "Donald Trump still essentially thinks and behaves like the property developer he used to be. One does what one thinks.",
+      "zh": "唐纳德·特朗普的思维和行事方式，本质上仍像他过去当房地产开发商时一样。人总会按自己的想法行事。"
+    },
+    {
+      "id": 48,
+      "startMs": 344740,
+      "endMs": 350020,
+      "en": "Three months ago, he was proud to show off the construction site where the East Wing previously stood.",
+      "zh": "三个月前，他还自豪地展示了原白宫东翼所在地的施工现场。"
+    },
+    {
+      "id": 49,
+      "startMs": 351920,
+      "endMs": 358800,
+      "en": "Its sudden demolition last year shocked many and sparked a lawsuit aimed at stopping him building his massive new ballroom.",
+      "zh": "东翼去年突然被拆除，令许多人震惊，并引发了一场诉讼，试图阻止他修建这座规模庞大的新宴会厅。"
+    },
+    {
+      "id": 50,
+      "startMs": 359520,
+      "endMs": 364480,
+      "en": "Today, he's been told he does not have the authority to dramatically alter this historic landmark.",
+      "zh": "如今，他被告知自己无权对这座历史地标进行大规模改造。"
+    },
+    {
+      "id": 51,
+      "startMs": 365680,
+      "endMs": 368640,
+      "en": "The ballroom has become something of an obsession for President Trump.",
+      "zh": "这座宴会厅在某种程度上已成为特朗普总统心中的执念。"
+    },
+    {
+      "id": 52,
+      "startMs": 369040,
+      "endMs": 372160,
+      "en": "He carries pictures of how he wants it to look on Air Force One.",
+      "zh": "他在“空军一号”上也随身带着自己理想中的宴会厅效果图。"
+    },
+    {
+      "id": 53,
+      "startMs": 372480,
+      "endMs": 374880,
+      "en": "A lot of people are giving it really good reviews.",
+      "zh": "很多人都对它给予了非常好的评价。"
+    },
+    {
+      "id": 54,
+      "startMs": 374880,
+      "endMs": 377280,
+      "en": "Some are giving it reviews without even seeing the building.",
+      "zh": "有些人甚至没见过这栋建筑，就已经给出了评价。"
+    },
+    {
+      "id": 55,
+      "startMs": 377520,
+      "endMs": 385040,
+      "en": "After a gunman caused him to be evacuated from the White House Correspondents' Dinner in April, he argued that showed the need for a secure ballroom.",
+      "zh": "今年 4 月，一名枪手导致他从白宫记者晚宴撤离。此后，他辩称这件事说明有必要建造一座安全的宴会厅。"
+    },
+    {
+      "id": 56,
+      "startMs": 385360,
+      "endMs": 388000,
+      "en": "It's drone-proof. It's bulletproof glass. We need the ballroom.",
+      "zh": "它能防无人机，还装有防弹玻璃。我们需要这座宴会厅。"
+    },
+    {
+      "id": 57,
+      "startMs": 388000,
+      "endMs": 390880,
+      "en": "That's why Secret Service, that's why the military are demanding it.",
+      "zh": "所以特勤局要求建，军方也要求建。"
+    },
+    {
+      "id": 58,
+      "startMs": 391120,
+      "endMs": 392960,
+      "en": "Today, he complained on social media:",
+      "zh": "今天，他在社交媒体上抱怨道："
+    },
+    {
+      "id": 59,
+      "startMs": 393360,
+      "endMs": 400320,
+      "en": "The military and Secret Service are viewing this horrendous, politically motivated, and unlawful ruling as a national security threat.",
+      "zh": "军方和特勤局认为，这项骇人听闻、出于政治动机且违法的裁决构成国家安全威胁。"
+    },
+    {
+      "id": 60,
+      "startMs": 401600,
+      "endMs": 405040,
+      "en": "There is a state-of-the-art military bunker being built underneath the ballroom.",
+      "zh": "宴会厅下方正在修建一座最先进的军事掩体。"
+    },
+    {
+      "id": 61,
+      "startMs": 405360,
+      "endMs": 407040,
+      "en": "Work on that is allowed to continue.",
+      "zh": "该工程获准继续施工。"
+    },
+    {
+      "id": 62,
+      "startMs": 408200,
+      "endMs": 413480,
+      "en": "You can see building work is still going on in the ballroom today, with cranes that are operating above the White House.",
+      "zh": "今天仍能看到宴会厅的施工在继续，起重机正在白宫上方作业。"
+    },
+    {
+      "id": 63,
+      "startMs": 413560,
+      "endMs": 421800,
+      "en": "And President Trump's got two weeks in which he can carry on while he appeals to the Supreme Court, hoping they will rule that he can finish the construction.",
+      "zh": "特朗普总统有两周时间可以继续施工，同时向最高法院提起上诉，希望最高法院裁定他可以完成工程。"
+    },
+    {
+      "id": 64,
+      "startMs": 422360,
+      "endMs": 427800,
+      "en": "If that fails, though, he can go to Congress and ask them to vote to give him the authority to finish the ballroom.",
+      "zh": "不过，如果上诉失败，他可以转向国会，请议员投票授权他完成宴会厅。"
+    },
+    {
+      "id": 65,
+      "startMs": 428200,
+      "endMs": 430760,
+      "en": "But it's far from certain that he would actually win that vote.",
+      "zh": "但他能否真正赢得这场表决，远非板上钉钉。"
+    },
+    {
+      "id": 66,
+      "startMs": 432000,
+      "endMs": 436480,
+      "en": "There is some mystery about what's going on behind the scenes with the funding for this project.",
+      "zh": "这个项目的资金运作背后仍有一些谜团。"
+    },
+    {
+      "id": 67,
+      "startMs": 437280,
+      "endMs": 444640,
+      "en": "President Trump has raised hundreds of millions of dollars from private donors, but won't tell us how much they've given or what he may have promised them in return.",
+      "zh": "特朗普总统已从私人捐助者那里筹集了数亿美元，但不愿透露他们捐了多少，也不说明自己可能向他们承诺了什么回报。"
+    },
+    {
+      "id": 68,
+      "startMs": 446060,
+      "endMs": 452780,
+      "en": "The disastrous refurbishment of Washington's Reflecting Pool has become a deeply embarrassing flop for Donald Trump.",
+      "zh": "华盛顿倒影池灾难性的翻修工程，已成为令唐纳德·特朗普极为难堪的败笔。"
+    },
+    {
+      "id": 69,
+      "startMs": 454040,
+      "endMs": 459400,
+      "en": "Now he has to ask the courts or Congress to let him complete his renovation of the most famous house in America.",
+      "zh": "现在，他必须请求法院或国会允许自己完成对这座美国最著名住宅的翻修。"
+    },
+    {
+      "id": 70,
+      "startMs": 460200,
+      "endMs": 461800,
+      "en": "Sarah Smith in Washington.",
+      "zh": "萨拉·史密斯在华盛顿报道。"
+    },
+    {
+      "id": 71,
+      "startMs": 463060,
+      "endMs": 472340,
+      "en": "In 2024, after 13 years of brutal civil war, Syria's then-president, Bashar al-Assad, was overthrown and fled to Russia.",
+      "zh": "2024年，经历了13年的残酷内战后，叙利亚时任总统巴沙尔·阿萨德被推翻并逃往俄罗斯。"
+    },
+    {
+      "id": 72,
+      "startMs": 472820,
+      "endMs": 475380,
+      "en": "Many of his top henchmen also escaped the country.",
+      "zh": "他的许多高级亲信也逃离了这个国家。"
+    },
+    {
+      "id": 73,
+      "startMs": 475780,
+      "endMs": 480740,
+      "en": "One was former senior intelligence officer Hossam Louka, known as ‘The Spider’.",
+      "zh": "其中一人是前高级情报官员霍萨姆·卢卡，人称“蜘蛛”。"
+    },
+    {
+      "id": 74,
+      "startMs": 480900,
+      "endMs": 487540,
+      "en": "He's considered one of Assad's most feared men and is accused of orchestrating atrocities and systematic torture.",
+      "zh": "他被认为是阿萨德手下最令人恐惧的人物之一，并被指控策划暴行和系统性酷刑。"
+    },
+    {
+      "id": 75,
+      "startMs": 488020,
+      "endMs": 496820,
+      "en": "When the regime fell, the BBC gained access to an abandoned apartment in Syria, where our reporter found a notebook that has now led her to track him down.",
+      "zh": "该政权倒台后，BBC得以进入叙利亚一间废弃公寓。我们的记者在那里发现了一本笔记簿，并以此为线索追查到了他。"
+    },
+    {
+      "id": 76,
+      "startMs": 497220,
+      "endMs": 498420,
+      "en": "Alice Cuddy reports.",
+      "zh": "爱丽丝·卡迪报道。"
+    },
+    {
+      "id": 77,
+      "startMs": 502600,
+      "endMs": 504120,
+      "en": "It's a Muslim holiday, Eid.",
+      "zh": "这一天是穆斯林节日开斋节。"
+    },
+    {
+      "id": 78,
+      "startMs": 505080,
+      "endMs": 512360,
+      "en": "Parents and children are enjoying a rare moment of fun at a playground in the Syrian city of Homs, amid the civil war in 2015.",
+      "zh": "2015年内战期间，在叙利亚城市霍姆斯的一处游乐场，家长和孩子们正享受着难得的欢乐时光。"
+    },
+    {
+      "id": 79,
+      "startMs": 515900,
+      "endMs": 522140,
+      "en": "Seven-year-old Wael is gardening in the play park his father, Muhammad, had created, when a bomb hits.",
+      "zh": "七岁的瓦埃勒正在父亲穆罕默德建造的游乐园里做园艺，这时一枚炸弹袭来。"
+    },
+    {
+      "id": 80,
+      "startMs": 525420,
+      "endMs": 535180,
+      "en": "This ground here, it was painted red with blood. There were body parts everywhere.",
+      "zh": "这里的地面被鲜血染红，到处都是残肢。"
+    },
+    {
+      "id": 81,
+      "startMs": 536300,
+      "endMs": 541660,
+      "en": "The tragedy that killed as many as 17 children is known as the Eid massacre.",
+      "zh": "这场导致多达17名儿童死亡的惨剧被称为“开斋节惨案”。"
+    },
+    {
+      "id": 82,
+      "startMs": 542400,
+      "endMs": 548640,
+      "en": "In the aftermath, one man's name was on everyone's lips.",
+      "zh": "惨案发生后，所有人都在谈论一个人的名字。"
+    },
+    {
+      "id": 83,
+      "startMs": 548800,
+      "endMs": 556240,
+      "en": "Hossam Louka, who was nicknamed ‘The Spider’, was a feared senior Syrian official under the Assad dictatorship.",
+      "zh": "霍萨姆·卢卡绰号“蜘蛛”，是阿萨德独裁统治下令人畏惧的叙利亚高级官员。"
+    },
+    {
+      "id": 84,
+      "startMs": 556240,
+      "endMs": 563680,
+      "en": "And he would go on to hold one of the most powerful roles in the country as head of one of its feared intelligence agencies.",
+      "zh": "此后，他担任了该国一个令人畏惧的情报机构负责人，成为叙利亚最有权势的人物之一。"
+    },
+    {
+      "id": 85,
+      "startMs": 564480,
+      "endMs": 568480,
+      "en": "Rebels celebrate the end of the regime of Syria's Bashar al-Assad.",
+      "zh": "反政府武装庆祝叙利亚巴沙尔·阿萨德政权终结。"
+    },
+    {
+      "id": 86,
+      "startMs": 568480,
+      "endMs": 572480,
+      "en": "In December 2024, Assad's brutal dictatorship collapsed.",
+      "zh": "2024年12月，阿萨德的残酷独裁政权垮台。"
+    },
+    {
+      "id": 87,
+      "startMs": 573120,
+      "endMs": 578480,
+      "en": "For the first time in years, journalists could enter a country long closed off from the world.",
+      "zh": "多年来，记者第一次得以进入这个长期与世隔绝的国家。"
+    },
+    {
+      "id": 88,
+      "startMs": 579200,
+      "endMs": 585200,
+      "en": "I was there in Damascus, and in an abandoned apartment, I stumbled across a forgotten address book.",
+      "zh": "我当时在大马士革，并在一间废弃公寓里偶然发现了一本被遗忘的通讯簿。"
+    },
+    {
+      "id": 89,
+      "startMs": 585760,
+      "endMs": 591120,
+      "en": "Cast aside next to a smiling photo of ‘The Spider’ warmly shaking the hand of Assad.",
+      "zh": "它被丢在一张照片旁，照片中“蜘蛛”面带微笑，与阿萨德热情握手。"
+    },
+    {
+      "id": 90,
+      "startMs": 591900,
+      "endMs": 595180,
+      "en": "It was the start of a more than year-long hunt for Hossam Louka.",
+      "zh": "这开启了一场持续一年多的霍萨姆·卢卡追踪行动。"
+    },
+    {
+      "id": 91,
+      "startMs": 596460,
+      "endMs": 600620,
+      "en": "Inside were the numbers of doctors, shopkeepers and friends in the regime.",
+      "zh": "里面记有医生、店主以及政权内部友人的电话号码。"
+    },
+    {
+      "id": 92,
+      "startMs": 601260,
+      "endMs": 603820,
+      "en": "I wanted to know more about what Louka was accused of.",
+      "zh": "我想进一步了解卢卡遭到了哪些指控。"
+    },
+    {
+      "id": 93,
+      "startMs": 606220,
+      "endMs": 613900,
+      "en": "My hunt for Hossam Louka has taken me to a hotel in central Homs, where I'm told he used to meet with his associates.",
+      "zh": "为追踪霍萨姆·卢卡，我来到霍姆斯市中心的一家酒店。据说他过去常在这里与同伙见面。"
+    },
+    {
+      "id": 94,
+      "startMs": 614580,
+      "endMs": 624180,
+      "en": "It feels really bizarre that today I've been meeting with men who've been telling me over coffee and cigarettes that they were victims or witnesses to his crimes in this city.",
+      "zh": "今天，我和一些男子喝着咖啡、抽着烟交谈，他们告诉我，自己是他在这座城市所犯罪行的受害者或目击者，这感觉非常不可思议。"
+    },
+    {
+      "id": 95,
+      "startMs": 624900,
+      "endMs": 630180,
+      "en": "Hossam Louka was an evil genius.",
+      "zh": "霍萨姆·卢卡是个邪恶的天才。"
+    },
+    {
+      "id": 96,
+      "startMs": 630180,
+      "endMs": 634340,
+      "en": "The siege of Old Homs was the first siege of its kind in Syria.",
+      "zh": "对霍姆斯老城的围困是叙利亚首次出现这种围困。"
+    },
+    {
+      "id": 97,
+      "startMs": 634820,
+      "endMs": 638020,
+      "en": "It became the blueprint of other sieges across Syria.",
+      "zh": "它后来成为叙利亚各地其他围困行动的蓝本。"
+    },
+    {
+      "id": 98,
+      "startMs": 638960,
+      "endMs": 644640,
+      "en": "Motaz was a trader before the revolution, and then joined rebel forces fighting the Assad regime.",
+      "zh": "穆塔兹在革命前是一名商人，后来加入了对抗阿萨德政权的反政府武装。"
+    },
+    {
+      "id": 99,
+      "startMs": 645040,
+      "endMs": 648800,
+      "en": "He should be executed at the very least.",
+      "zh": "至少应该处决他。"
+    },
+    {
+      "id": 100,
+      "startMs": 649120,
+      "endMs": 650560,
+      "en": "He was behind the murder of many.",
+      "zh": "许多人的遇害都与他有关。"
+    },
+    {
+      "id": 101,
+      "startMs": 650960,
+      "endMs": 657200,
+      "en": "It reached the point where the death of 10, 20 children wouldn't matter to him, for as long as the regime's objectives were fulfilled.",
+      "zh": "事情发展到这样的地步：只要政权的目标能够实现，死去10个、20个孩子对他来说都无关紧要。"
+    },
+    {
+      "id": 102,
+      "startMs": 659520,
+      "endMs": 665520,
+      "en": "From speaking to people like Motaz, it was clear that Louka was skilled in infiltrating rebel operations.",
+      "zh": "通过与穆塔兹等人交谈可以看出，卢卡很擅长渗透反政府武装的行动。"
+    },
+    {
+      "id": 103,
+      "startMs": 665920,
+      "endMs": 671760,
+      "en": "But where had he gone? There were rumours that he had fled via Lebanon, but something offered a lead.",
+      "zh": "但他去了哪里？有传言说他经由黎巴嫩逃走了，不过一条线索出现了。"
+    },
+    {
+      "id": 104,
+      "startMs": 672440,
+      "endMs": 683720,
+      "en": "As I started to dig further, a source gave me a recording that gave me a clue as to how he operated and what his voice sounded like.",
+      "zh": "随着我进一步调查，一名消息人士给了我一段录音，让我得以了解他的行事方式和声音。"
+    },
+    {
+      "id": 105,
+      "startMs": 683720,
+      "endMs": 690760,
+      "en": "In the recording, Louka can be heard leading talks with rebels alongside a Russian official.",
+      "zh": "录音中可以听到卢卡与一名俄罗斯官员共同主持同反政府武装的谈判。"
+    },
+    {
+      "id": 106,
+      "startMs": 691680,
+      "endMs": 694640,
+      "en": "It raised suspicions that he could be in Russia.",
+      "zh": "这让人怀疑他可能身在俄罗斯。"
+    },
+    {
+      "id": 107,
+      "startMs": 696980,
+      "endMs": 699220,
+      "en": "For months, we drew a blank in our hunt for Louka.",
+      "zh": "几个月来，我们对卢卡的追踪毫无进展。"
+    },
+    {
+      "id": 108,
+      "startMs": 699700,
+      "endMs": 705140,
+      "en": "We spoke to personal doctors of the family and neighbours, but no one would tell us where he was.",
+      "zh": "我们询问了这家人的私人医生和邻居，但没有人愿意告诉我们他的下落。"
+    },
+    {
+      "id": 109,
+      "startMs": 705620,
+      "endMs": 713460,
+      "en": "At one point, we found his personal bodyguard, who said he was angry Louka left him when he fled, but he wouldn't share his contact details.",
+      "zh": "我们一度找到了他的私人保镖。保镖说，他很生气卢卡逃亡时把他丢下，但仍不愿提供卢卡的联系方式。"
+    },
+    {
+      "id": 110,
+      "startMs": 713460,
+      "endMs": 719060,
+      "en": "My name's Alice. I'm a reporter at the BBC. I'm not sure how much you know about...",
+      "zh": "我叫爱丽丝，是BBC记者。我不知道您对……了解多少。"
+    },
+    {
+      "id": 111,
+      "startMs": 719060,
+      "endMs": 721460,
+      "en": "But then, finally, I found a route to Louka.",
+      "zh": "但后来，我终于找到了联系卢卡的途径。"
+    },
+    {
+      "id": 112,
+      "startMs": 721460,
+      "endMs": 725060,
+      "en": "A source called him, but he wouldn't answer my questions.",
+      "zh": "一名消息人士给他打了电话，但他不肯回答我的问题。"
+    },
+    {
+      "id": 113,
+      "startMs": 725700,
+      "endMs": 730980,
+      "en": "Then we found a phone number which we tracked to the outskirts of the Russian capital, Moscow.",
+      "zh": "随后我们找到一个电话号码，并将其追踪到俄罗斯首都莫斯科郊外。"
+    },
+    {
+      "id": 114,
+      "startMs": 731380,
+      "endMs": 736180,
+      "en": "We've located a Hossam Louka in Russia now, so I guess the final step of this is to call him again.",
+      "zh": "我们现在已经在俄罗斯锁定了一名叫霍萨姆·卢卡的人，所以我想最后一步就是再次给他打电话。"
+    },
+    {
+      "id": 115,
+      "startMs": 736260,
+      "endMs": 740420,
+      "en": "It was what we'd been looking for: a chance to speak to him directly.",
+      "zh": "这正是我们一直在寻找的机会：直接和他交谈。"
+    },
+    {
+      "id": 116,
+      "startMs": 742020,
+      "endMs": 744260,
+      "en": "I called with my Arabic-speaking colleague.",
+      "zh": "我和会说阿拉伯语的同事一起打了电话。"
+    },
+    {
+      "id": 117,
+      "startMs": 746500,
+      "endMs": 749700,
+      "en": "After ringing once with no answer, Louka picked up.",
+      "zh": "第一次拨打无人接听，之后卢卡接起了电话。"
+    },
+    {
+      "id": 118,
+      "startMs": 750580,
+      "endMs": 756500,
+      "en": "The phone call lasted only long enough to confirm it was him.",
+      "zh": "这通电话只持续了足够确认是他本人的时间。"
+    },
+    {
+      "id": 119,
+      "startMs": 756500,
+      "endMs": 758500,
+      "en": "But when we said we were the BBC, he hung up.",
+      "zh": "但当我们说自己来自 BBC 时，他便挂断了电话。"
+    },
+    {
+      "id": 120,
+      "startMs": 765840,
+      "endMs": 770400,
+      "en": "I sent him questions on WhatsApp about his alleged crimes, but he never responded.",
+      "zh": "我通过WhatsApp向他发送了有关其涉嫌罪行的问题，但他始终没有回复。"
+    },
+    {
+      "id": 121,
+      "startMs": 771440,
+      "endMs": 777520,
+      "en": "Like other Assad officials, by hiding in Russia, Louka has so far evaded justice.",
+      "zh": "与其他阿萨德政权官员一样，卢卡藏身俄罗斯，迄今仍逃避了司法追究。"
+    },
+    {
+      "id": 122,
+      "startMs": 778160,
+      "endMs": 783280,
+      "en": "We reached out to the Russian government about Hossam Louka's location, but they didn't respond.",
+      "zh": "我们就霍萨姆·卢卡的下落联系了俄罗斯政府，但对方没有回应。"
+    },
+    {
+      "id": 123,
+      "startMs": 786080,
+      "endMs": 787360,
+      "en": "Alice Cuddy reporting.",
+      "zh": "爱丽丝·卡迪报道。"
+    },
+    {
+      "id": 124,
+      "startMs": 790480,
+      "endMs": 800720,
+      "en": "Still to come in this podcast: Their good deed in CopenPay is to come out, help us clean up the waters, and the reward is to get a boat ride in return.",
+      "zh": "本期节目稍后还有：他们在CopenPay中要做的善举是出来帮助我们清理水域，回报则是获得一次乘船体验。"
+    },
+    {
+      "id": 125,
+      "startMs": 801360,
+      "endMs": 804960,
+      "en": "One country's new strategy to make tourism more sustainable.",
+      "zh": "一个国家推动旅游业更可持续的新策略。"
+    },
+    {
+      "id": 126,
+      "startMs": 812680,
+      "endMs": 814760,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 127,
+      "startMs": 815560,
+      "endMs": 823320,
+      "en": "Spain has brought in temporary border checks on people travelling from Italy, escalating a migration row between the two countries.",
+      "zh": "西班牙对从意大利入境的人员实施临时边境检查，加剧了两国之间的移民争端。"
+    },
+    {
+      "id": 128,
+      "startMs": 823560,
+      "endMs": 827560,
+      "en": "Last week, Italy announced similar measures applying to travellers from Spain.",
+      "zh": "上周，意大利宣布对来自西班牙的旅客采取类似措施。"
+    },
+    {
+      "id": 129,
+      "startMs": 827560,
+      "endMs": 836520,
+      "en": "Saying the partial suspension of the EU's border-free Schengen arrangements was in response to a surge of migrants into the North African territory of Ceuta.",
+      "zh": "意大利称，部分暂停欧盟申根区免边检安排，是为了应对大量移民涌入北非领地休达。"
+    },
+    {
+      "id": 130,
+      "startMs": 836840,
+      "endMs": 838120,
+      "en": "Charles Haviland reports.",
+      "zh": "查尔斯·哈维兰报道。"
+    },
+    {
+      "id": 131,
+      "startMs": 838680,
+      "endMs": 843560,
+      "en": "Spain has imposed controls on Italians for one month at its borders, ports and airports.",
+      "zh": "西班牙已在边境、港口和机场对意大利人实施为期一个月的管控。"
+    },
+    {
+      "id": 132,
+      "startMs": 843960,
+      "endMs": 850200,
+      "en": "Madrid's been angered by Italy's response to the sudden influx last week of tens of thousands of would-be migrants.",
+      "zh": "意大利对上周数万名试图入境的移民突然涌入一事作出反应，激怒了马德里。"
+    },
+    {
+      "id": 133,
+      "startMs": 850520,
+      "endMs": 858360,
+      "en": "Moroccans and others, including Sub-Saharan Africans and Egyptians—into the Spanish territory of Ceuta, an enclave on the Moroccan coast.",
+      "zh": "这些移民包括摩洛哥人、撒哈拉以南非洲人和埃及人，他们涌入了西班牙领地休达；休达是摩洛哥海岸的一块飞地。"
+    },
+    {
+      "id": 134,
+      "startMs": 859000,
+      "endMs": 862520,
+      "en": "Italy promptly imposed border restrictions on travellers from Spain.",
+      "zh": "意大利随即对来自西班牙的旅客实施边境限制。"
+    },
+    {
+      "id": 135,
+      "startMs": 862840,
+      "endMs": 867800,
+      "en": "Spain's foreign minister called this a ‘torpedo fired at the hull of European unity’.",
+      "zh": "西班牙外交大臣称此举是“一枚射向欧洲团结船体的鱼雷”。"
+    },
+    {
+      "id": 136,
+      "startMs": 868360,
+      "endMs": 878620,
+      "en": "Critics say the Italian prime minister, Giorgia Meloni, has overreacted, given that Ceuta isn't part of the Schengen open borders system shared by 29 European nations.",
+      "zh": "批评者称，意大利总理焦尔吉娅·梅洛尼反应过度，因为休达并不属于29个欧洲国家共同参与的申根开放边境体系。"
+    },
+    {
+      "id": 137,
+      "startMs": 879340,
+      "endMs": 887900,
+      "en": "Most of the migrants who swam or scrambled around the border from Morocco into Ceuta have now returned. But more than 1,000 children remain there.",
+      "zh": "大多数从摩洛哥游水或翻越边境进入休达的移民如今已经返回，但仍有1000多名儿童留在那里。"
+    },
+    {
+      "id": 138,
+      "startMs": 888140,
+      "endMs": 891100,
+      "en": "So, how are they being cared for, and what happens next?",
+      "zh": "那么，他们得到了怎样的照顾？接下来又会怎样？"
+    },
+    {
+      "id": 139,
+      "startMs": 891500,
+      "endMs": 897180,
+      "en": "Catalina Perazzo is director of advocacy and regional development for Save the Children in Spain.",
+      "zh": "卡塔利娜·佩拉佐是救助儿童会西班牙分会倡导与区域发展总监。"
+    },
+    {
+      "id": 140,
+      "startMs": 897820,
+      "endMs": 903900,
+      "en": "We are worried that it's not fast enough, the identification that it's been done of children, you know?",
+      "zh": "我们担心对儿童进行身份确认的速度还不够快，你知道吗？"
+    },
+    {
+      "id": 141,
+      "startMs": 904140,
+      "endMs": 908940,
+      "en": "But there are still children who are in the streets, the forests and the beaches.",
+      "zh": "但仍有一些儿童流落在街头、森林和海滩。"
+    },
+    {
+      "id": 142,
+      "startMs": 909340,
+      "endMs": 920860,
+      "en": "So, we are worried that they're exposed to violence, mainly girls we're worried about. And we think that we need to prioritise the child protection response.",
+      "zh": "因此，我们担心他们会遭受暴力，尤其担心女童。我们认为必须优先采取儿童保护措施。"
+    },
+    {
+      "id": 143,
+      "startMs": 920860,
+      "endMs": 924540,
+      "en": "And what will your priority be when you when you get to the city?",
+      "zh": "那么，当你到达这座城市时，首要任务是什么？"
+    },
+    {
+      "id": 144,
+      "startMs": 924540,
+      "endMs": 930460,
+      "en": "We think there are about 1,000 children, is that right, who are—are they on their own?",
+      "zh": "我们认为那里大约有1000名儿童，对吗？他们是独自一人吗？"
+    },
+    {
+      "id": 145,
+      "startMs": 930460,
+      "endMs": 937900,
+      "en": "They've been separated from their families, or or did they cross individually as children? Do you do you know how they ended up there?",
+      "zh": "他们是与家人失散了，还是以儿童身份独自越境？你知道他们是怎么到那里的吗？"
+    },
+    {
+      "id": 146,
+      "startMs": 939000,
+      "endMs": 941080,
+      "en": "Well, we have both, both cases.",
+      "zh": "嗯，两种情况都有。"
+    },
+    {
+      "id": 147,
+      "startMs": 941160,
+      "endMs": 948360,
+      "en": "I mean, the government said 1,200 children so far who are unaccompanied, like they crossed on their own.",
+      "zh": "我是说，政府称目前有1200名无人陪伴儿童，也就是他们独自越境。"
+    },
+    {
+      "id": 148,
+      "startMs": 948760,
+      "endMs": 955960,
+      "en": "They are within the child protection centres. And then there are children who are also with their families; we don't know the number of those ones.",
+      "zh": "他们目前在儿童保护中心。此外，还有一些儿童与家人在一起，这部分人数我们并不清楚。"
+    },
+    {
+      "id": 149,
+      "startMs": 957080,
+      "endMs": 969560,
+      "en": "And then there are also still children alone in the street, and that's the number we don't know, because there are no estimations yet, but it could be 1,000 more.",
+      "zh": "还有一些儿童仍独自流落街头，这部分人数我们也不知道，因为目前尚无估算，但可能另外还有1000人。"
+    },
+    {
+      "id": 150,
+      "startMs": 969720,
+      "endMs": 975960,
+      "en": "The Spanish government says they'll transfer many of these children, maybe all of them, to the to the mainland.",
+      "zh": "西班牙政府表示，将把其中许多儿童、或许是全部儿童，转移到西班牙本土。"
+    },
+    {
+      "id": 151,
+      "startMs": 975960,
+      "endMs": 977480,
+      "en": "Would you, would you be involved in that?",
+      "zh": "你们会参与这项工作吗？"
+    },
+    {
+      "id": 152,
+      "startMs": 978440,
+      "endMs": 988600,
+      "en": "Well, we are offering because we, we have these children on the move programmes, and we are specialised in forming teams who have cultural mediators.",
+      "zh": "我们正在提供帮助，因为我们设有流动儿童项目，并擅长组建包含文化调解员的团队。"
+    },
+    {
+      "id": 153,
+      "startMs": 988600,
+      "endMs": 995480,
+      "en": "Someone who speaks the language—which is very important in order to connect with these children—and then child protection officers.",
+      "zh": "文化调解员会说这些儿童的语言，这对于与他们建立联系非常重要；团队中还配有儿童保护官员。"
+    },
+    {
+      "id": 154,
+      "startMs": 995720,
+      "endMs": 1005720,
+      "en": "And what they do, they work with the children in order to kind of like carry out an interview so they can identify their needs and register all the information.",
+      "zh": "他们会和儿童一起进行类似访谈的工作，以便确认他们的需求，并登记所有信息。"
+    },
+    {
+      "id": 155,
+      "startMs": 1005720,
+      "endMs": 1016440,
+      "en": "And with this, we submit like a report that the authorities can use to carry out the procedure faster, you know, to be more agile to decide what's the best solution.",
+      "zh": "在此基础上，我们会提交一份类似报告的材料，供有关部门加快办理程序，更灵活地决定最佳解决方案。"
+    },
+    {
+      "id": 156,
+      "startMs": 1016600,
+      "endMs": 1018040,
+      "en": "Yes, because we are, yeah.",
+      "zh": "是的，因为我们正在……对。"
+    },
+    {
+      "id": 157,
+      "startMs": 1018040,
+      "endMs": 1024040,
+      "en": "Now, presumably there are parents in Morocco waiting to hear from missing children.",
+      "zh": "那么，想必摩洛哥也有父母正在等待失踪孩子的消息。"
+    },
+    {
+      "id": 158,
+      "startMs": 1024680,
+      "endMs": 1026360,
+      "en": "Indeed, indeed. Yeah, definitely.",
+      "zh": "的确，的确。是的，肯定如此。"
+    },
+    {
+      "id": 159,
+      "startMs": 1026440,
+      "endMs": 1031880,
+      "en": "That's why when we, when you carry out the interview and get to know the child's situation,",
+      "zh": "所以，在我们——在你进行访谈并了解孩子的情况时，"
+    },
+    {
+      "id": 160,
+      "startMs": 1032200,
+      "endMs": 1043260,
+      "en": "one of the main—the first operations or procedures that you have to carry out as a child protection system is to contact the family if it is in the best interest of the child,",
+      "zh": "儿童保护体系需要开展的一项主要工作——也是首要工作之一，就是在符合儿童最佳利益的情况下联系其家人，"
+    },
+    {
+      "id": 161,
+      "startMs": 1043580,
+      "endMs": 1050300,
+      "en": "and see, together with the country of origin, if it is possible to carry out a reunification.",
+      "zh": "并与其原籍国共同确认能否实现家庭团聚。"
+    },
+    {
+      "id": 162,
+      "startMs": 1050380,
+      "endMs": 1054940,
+      "en": "But at the moment, there are vulnerable children there who who quickly need your help.",
+      "zh": "但目前，那里有一些处境脆弱的儿童急需你们的帮助。"
+    },
+    {
+      "id": 163,
+      "startMs": 1056320,
+      "endMs": 1061040,
+      "en": "Well, yeah, all the help they can they can get, and that's what we are offering, yes.",
+      "zh": "嗯，是的，他们需要一切能够得到的帮助，而这正是我们在提供的。"
+    },
+    {
+      "id": 164,
+      "startMs": 1062200,
+      "endMs": 1066200,
+      "en": "That was Catalina Perazzo speaking to my colleague Ben Wright.",
+      "zh": "刚才是卡塔利娜·佩拉佐接受我的同事本·赖特采访。"
+    },
+    {
+      "id": 165,
+      "startMs": 1067240,
+      "endMs": 1074760,
+      "en": "Hunter Biden, the son of the former US President Joe Biden, has opened up about his father's politics and his presidential pardon.",
+      "zh": "美国前总统乔·拜登之子亨特·拜登公开谈论了父亲的政治生涯，以及自己获得的总统赦免。"
+    },
+    {
+      "id": 166,
+      "startMs": 1075320,
+      "endMs": 1081320,
+      "en": "Joe Biden pulled out of running for a second term after scrutiny about his cognitive abilities and age.",
+      "zh": "乔·拜登的认知能力和年龄受到审视后，他退出了连任竞选。"
+    },
+    {
+      "id": 167,
+      "startMs": 1081800,
+      "endMs": 1086760,
+      "en": "The BBC's Paddy O'Connell asked Hunter why the family didn't stop him before the campaign.",
+      "zh": "BBC 的帕迪·奥康奈尔问亨特，家人为什么没有在竞选前阻止乔·拜登。"
+    },
+    {
+      "id": 168,
+      "startMs": 1087480,
+      "endMs": 1089960,
+      "en": "Joe Biden made all the decisions.",
+      "zh": "所有决定都是乔·拜登自己作出的。"
+    },
+    {
+      "id": 169,
+      "startMs": 1090440,
+      "endMs": 1101240,
+      "en": "There was no taking the keys away from a president that had done more for the American people in a four-year period of time than any single one of his predecessors had since FDR.",
+      "zh": "不可能从一位总统手中夺走主导权；在四年任期内，他为美国人民所做的事情，比富兰克林·罗斯福以来任何一位前任都多。"
+    },
+    {
+      "id": 170,
+      "startMs": 1101480,
+      "endMs": 1116040,
+      "en": "Watching the 2024 presidential debate, where were you, Hunter, when your father failed to complete a sentence on prime-time television during a presidential election campaign?",
+      "zh": "亨特，2024 年总统辩论期间，你父亲在黄金时段的电视节目中没能说完一句话。当时你在哪里观看辩论？"
+    },
+    {
+      "id": 171,
+      "startMs": 1116040,
+      "endMs": 1117160,
+      "en": "Where were you watching that?",
+      "zh": "你当时在哪里看？"
+    },
+    {
+      "id": 172,
+      "startMs": 1118140,
+      "endMs": 1124540,
+      "en": "The total initiative, relative to what we can do with more Border Patrol and more asylum officers.",
+      "zh": "……整个方案，相较于我们通过增加边境巡逻人员和庇护事务官员所能做到的事情。"
+    },
+    {
+      "id": 173,
+      "startMs": 1125160,
+      "endMs": 1128360,
+      "en": "President Trump, I really don't know what he said at the end of that sentence.",
+      "zh": "特朗普总统：我真的不知道他那句话最后说了什么。"
+    },
+    {
+      "id": 174,
+      "startMs": 1128600,
+      "endMs": 1130040,
+      "en": "I don't think he knows what he said either.",
+      "zh": "我觉得连他自己都不知道说了什么。"
+    },
+    {
+      "id": 175,
+      "startMs": 1130040,
+      "endMs": 1131240,
+      "en": "Look, I wasn't alone.",
+      "zh": "听着，当时不只有我一个人。"
+    },
+    {
+      "id": 176,
+      "startMs": 1131240,
+      "endMs": 1136280,
+      "en": "I was at my house here in California, and like everybody else, I was shocked.",
+      "zh": "我当时在加利福尼亚州的家里，和其他所有人一样，我也很震惊。"
+    },
+    {
+      "id": 177,
+      "startMs": 1136600,
+      "endMs": 1139560,
+      "en": "I could tell as soon as my father came out that something was wrong.",
+      "zh": "父亲一出场，我就能看出有些不对劲。"
+    },
+    {
+      "id": 178,
+      "startMs": 1140120,
+      "endMs": 1145720,
+      "en": "I've never seen him with the kind of the 100-yard stare that he had.",
+      "zh": "我从没见过他露出当时那种双眼失神、直视远方的神情。"
+    },
+    {
+      "id": 179,
+      "startMs": 1145880,
+      "endMs": 1159080,
+      "en": "And, you know, everybody has their questions. But the reason that we know about that is not because Joe Biden wasn't on TV or in public a million and a half times before and after.",
+      "zh": "而且，你知道，每个人都有自己的疑问。但我们之所以知道这件事，并不是因为乔·拜登此前和此后没有一百五十万次出现在电视或公众面前。"
+    },
+    {
+      "id": 180,
+      "startMs": 1159080,
+      "endMs": 1164760,
+      "en": "The reason that was so shocking is because it had never happened before and it hasn't happened since.",
+      "zh": "之所以如此令人震惊，是因为这种情况以前从未发生，此后也没有再发生。"
+    },
+    {
+      "id": 181,
+      "startMs": 1165160,
+      "endMs": 1174280,
+      "en": "So, here's another of his own decisions, which is attracting controversy as well, which is a pardon for his son, for you, Hunter.",
+      "zh": "那么，他还有一项亲自作出的决定同样引发争议，那就是赦免自己的儿子，也就是你，亨特。"
+    },
+    {
+      "id": 182,
+      "startMs": 1174680,
+      "endMs": 1183160,
+      "en": "It looks like a favor to the family, which is another word, for critics, for corruption, which you've criticized the Trump administration for.",
+      "zh": "这看起来像是给家人的特殊照顾；在批评者看来，这换个说法就是腐败，而你也曾以此批评特朗普政府。"
+    },
+    {
+      "id": 183,
+      "startMs": 1183640,
+      "endMs": 1189260,
+      "en": "Do you think that he went too far as a dad in issuing a pardon to you?",
+      "zh": "你认为，他作为父亲赦免你，是不是做得太过了？"
+    },
+    {
+      "id": 184,
+      "startMs": 1189820,
+      "endMs": 1199340,
+      "en": "Well, here's what all I know is that I am, I am the most privileged person as it relates to that that there could possibly be.",
+      "zh": "嗯，我只知道，就这件事而言，我是，我是可能得到这种待遇的人中最幸运的一个。"
+    },
+    {
+      "id": 185,
+      "startMs": 1199340,
+      "endMs": 1203980,
+      "en": "I was one of one. And I am eternally grateful for it,",
+      "zh": "我是唯一获此待遇的人。我对此永远心怀感激，"
+    },
+    {
+      "id": 186,
+      "startMs": 1203980,
+      "endMs": 1209660,
+      "en": "because I think that Donald Trump has proven to be exactly who my dad thought he was going to be.",
+      "zh": "因为我认为，唐纳德·特朗普已经证明，他恰恰就是我父亲预料中的那种人。"
+    },
+    {
+      "id": 187,
+      "startMs": 1209820,
+      "endMs": 1214860,
+      "en": "As it relates to the revenge and retribution that he would seek on his political enemies.",
+      "zh": "也就是他会对政治对手寻求报复和惩罚。"
+    },
+    {
+      "id": 188,
+      "startMs": 1215420,
+      "endMs": 1217340,
+      "en": "And that's the decision that my dad made.",
+      "zh": "这就是我父亲作出的决定。"
+    },
+    {
+      "id": 189,
+      "startMs": 1217900,
+      "endMs": 1223580,
+      "en": "Was it good for our Constitution? Was it good for the American people? Was it good for my dad's legacy? No, on all counts.",
+      "zh": "这对我们的宪法有好处吗？对美国人民有好处吗？对我父亲的政治遗产有好处吗？三项答案全是否定的。"
+    },
+    {
+      "id": 190,
+      "startMs": 1223980,
+      "endMs": 1227420,
+      "en": "I asked if I could end by talking about your father's health.",
+      "zh": "最后，我问能否谈谈他父亲的健康状况。"
+    },
+    {
+      "id": 191,
+      "startMs": 1228060,
+      "endMs": 1236780,
+      "en": "He has prostate and bone cancer and will forever live with cancer. How has the family taken this diagnosis?",
+      "zh": "他患有前列腺癌和骨癌，将终身与癌症共存。家人如何面对这一诊断？"
+    },
+    {
+      "id": 192,
+      "startMs": 1237420,
+      "endMs": 1239820,
+      "en": "It's really tough, Paddy. That's the real answer.",
+      "zh": "真的很艰难，帕迪。这就是实话。"
+    },
+    {
+      "id": 193,
+      "startMs": 1240960,
+      "endMs": 1247920,
+      "en": "The only thing that I say about my dad, about his health right now, is I wish he would complain more, because it's not good.",
+      "zh": "关于父亲目前的健康状况，我只想说，我倒希望他能多抱怨几句，因为情况并不好。"
+    },
+    {
+      "id": 194,
+      "startMs": 1248400,
+      "endMs": 1253120,
+      "en": "The cancer has spread, has metastasized into his bones and further.",
+      "zh": "癌症已经扩散，转移到他的骨骼以及其他部位。"
+    },
+    {
+      "id": 195,
+      "startMs": 1253760,
+      "endMs": 1258480,
+      "en": "It's very painful. It's very debilitating in many respects. But he's still out there.",
+      "zh": "这非常痛苦，在许多方面都让人虚弱不堪。但他仍在坚持。"
+    },
+    {
+      "id": 196,
+      "startMs": 1258480,
+      "endMs": 1263520,
+      "en": "He's still doing his thing, that he so believes in this country.",
+      "zh": "他仍在做自己的事。他对这个国家抱有如此坚定的信念。"
+    },
+    {
+      "id": 197,
+      "startMs": 1264240,
+      "endMs": 1267520,
+      "en": "And as long as he's alive, I promise you he's going to continue to fight.",
+      "zh": "只要他还活着，我向你保证，他就会继续奋斗。"
+    },
+    {
+      "id": 198,
+      "startMs": 1268320,
+      "endMs": 1270480,
+      "en": "Hunter Biden, speaking to the BBC.",
+      "zh": "以上是亨特·拜登接受 BBC 采访时所说。"
+    },
+    {
+      "id": 199,
+      "startMs": 1270960,
+      "endMs": 1276080,
+      "en": "Over the last few decades, cheap flights and package holidays have fueled a boom in mass tourism.",
+      "zh": "过去几十年里，廉价航班和包价旅游推动了大众旅游的蓬勃发展。"
+    },
+    {
+      "id": 200,
+      "startMs": 1276560,
+      "endMs": 1282720,
+      "en": "In fact, the World Bank estimates around one in 10 jobs around the globe are now supported by travel and tourism.",
+      "zh": "事实上，世界银行估计，如今全球大约每十个工作岗位中就有一个由旅行和旅游业支撑。"
+    },
+    {
+      "id": 201,
+      "startMs": 1283120,
+      "endMs": 1290800,
+      "en": "But it's also led to increased pollution and waste, and some areas are becoming overwhelmed with visitors, upsetting local residents.",
+      "zh": "但这也增加了污染和废弃物，一些地区游客过多、不堪重负，令当地居民感到困扰。"
+    },
+    {
+      "id": 202,
+      "startMs": 1291040,
+      "endMs": 1294080,
+      "en": "So, how can tourism have a more positive impact?",
+      "zh": "那么，怎样才能让旅游产生更积极的影响？"
+    },
+    {
+      "id": 203,
+      "startMs": 1294640,
+      "endMs": 1300800,
+      "en": "Our reporter Adrienne Murray got on her bike to find out more about one idea in the Danish capital, Copenhagen.",
+      "zh": "本台记者阿德里安娜·默里骑上自行车，去了解丹麦首都哥本哈根的一项创意。"
+    },
+    {
+      "id": 204,
+      "startMs": 1301940,
+      "endMs": 1305540,
+      "en": "More tourists are choosing this green way of getting around.",
+      "zh": "越来越多游客选择这种绿色出行方式。"
+    },
+    {
+      "id": 205,
+      "startMs": 1305860,
+      "endMs": 1315900,
+      "en": "But as a local resident, I can tell you, many of them struggle with the busy cycle lanes, and it can cause us commuters a lot of frustration.",
+      "zh": "但作为当地居民，我可以告诉你，许多游客难以适应繁忙的自行车道，给我们这些通勤者带来不少困扰。"
+    },
+    {
+      "id": 206,
+      "startMs": 1316780,
+      "endMs": 1324780,
+      "en": "To help, the city is holding cycling safety workshops and offering a free bike rental session for visitors who take part.",
+      "zh": "为改善这种情况，市政府开办了骑行安全讲习班，并为参加的游客提供一次免费租车体验。"
+    },
+    {
+      "id": 207,
+      "startMs": 1325660,
+      "endMs": 1327180,
+      "en": "Don't forget to look over your shoulder.",
+      "zh": "别忘了回头看一眼。"
+    },
+    {
+      "id": 208,
+      "startMs": 1328300,
+      "endMs": 1331980,
+      "en": "Oh, okay, got it. Otherwise you blindly go into a corner, right? There might be somebody coming.",
+      "zh": "哦，好，明白了。否则你转弯时什么也看不见，对吧？可能正有人过来。"
+    },
+    {
+      "id": 209,
+      "startMs": 1332220,
+      "endMs": 1333180,
+      "en": "Yeah. Okay, take care.",
+      "zh": "好。行，注意安全。"
+    },
+    {
+      "id": 210,
+      "startMs": 1333600,
+      "endMs": 1340880,
+      "en": "The sessions are part of a citywide scheme called CopenPay, which essentially rewards tourists for good behavior.",
+      "zh": "这些课程是全市“CopenPay”计划的一部分，其核心是奖励游客的良好行为。"
+    },
+    {
+      "id": 211,
+      "startMs": 1341520,
+      "endMs": 1350320,
+      "en": "Visitors can earn perks, like a free drink or a museum tour, by doing some volunteering or traveling around by bike or public transport.",
+      "zh": "游客可以通过参加志愿活动，或骑车、乘坐公共交通出行，来获得免费饮品、博物馆参观等福利。"
+    },
+    {
+      "id": 212,
+      "startMs": 1350960,
+      "endMs": 1357360,
+      "en": "Rikke Holm Petersen from the local tourist board says the scheme has encouraged tourists to move around sustainably.",
+      "zh": "当地旅游局的里克·霍尔姆·彼得森说，这项计划鼓励游客以可持续方式出行。"
+    },
+    {
+      "id": 213,
+      "startMs": 1357680,
+      "endMs": 1364800,
+      "en": "We've been running CopenPay for two years now, and we've seen bike rental increase of 59%, which is huge.",
+      "zh": "CopenPay 已经实施两年，我们看到自行车租赁量增长了 59%，增幅非常大。"
+    },
+    {
+      "id": 214,
+      "startMs": 1364880,
+      "endMs": 1371760,
+      "en": "And for sure, we need to make sure that people are safe, so it really become a great experience, both for the visitors and the locals.",
+      "zh": "当然，我们需要确保大家的安全，让游客和当地居民都能真正获得良好的体验。"
+    },
+    {
+      "id": 215,
+      "startMs": 1371760,
+      "endMs": 1379360,
+      "en": "I got chatting to a few of my fellow cyclists to see what they thought, starting with Bo, who was visiting from New Jersey.",
+      "zh": "我和几位一同骑行的人聊了聊，听听他们的想法。首先是来自新泽西州的游客博。"
+    },
+    {
+      "id": 216,
+      "startMs": 1379680,
+      "endMs": 1381440,
+      "en": "I stumbled across it online.",
+      "zh": "我是在网上偶然看到这个活动的。"
+    },
+    {
+      "id": 217,
+      "startMs": 1381600,
+      "endMs": 1388320,
+      "en": "It didn't occur to me that we could do this in Copenhagen, but now that I'm doing it, I'm definitely going to rent a bike and see the city that way.",
+      "zh": "我之前没想到在哥本哈根还能这样做，但既然体验过了，我肯定会租一辆自行车，用这种方式游览这座城市。"
+    },
+    {
+      "id": 218,
+      "startMs": 1388320,
+      "endMs": 1390640,
+      "en": "You cover a lot more ground. It's great.",
+      "zh": "这样能游览更多地方，太棒了。"
+    },
+    {
+      "id": 219,
+      "startMs": 1391040,
+      "endMs": 1393360,
+      "en": "I'm Shefali Sachdeva. I belong to India.",
+      "zh": "我是谢法莉·萨奇德瓦，来自印度。"
+    },
+    {
+      "id": 220,
+      "startMs": 1393460,
+      "endMs": 1399940,
+      "en": "We wanted to experience the bike culture here, and it was a very pleasant experience, I would say, yeah.",
+      "zh": "我们想体验这里的自行车文化。我觉得这是一次非常愉快的体验，是的。"
+    },
+    {
+      "id": 221,
+      "startMs": 1400020,
+      "endMs": 1405780,
+      "en": "But do you think it's a good approach that Copenhagen, they kind of reward tourists for doing positive things?",
+      "zh": "不过，哥本哈根以奖励方式鼓励游客做有益的事情，你认为这种做法好吗？"
+    },
+    {
+      "id": 222,
+      "startMs": 1406180,
+      "endMs": 1407860,
+      "en": "Absolutely, it is a great thing.",
+      "zh": "当然，这是件很棒的事。"
+    },
+    {
+      "id": 223,
+      "startMs": 1408180,
+      "endMs": 1412980,
+      "en": "I mean, you know, rather than restricting places for tourists, which, you know, some of the cities do...",
+      "zh": "我是说，你知道，这总比限制游客前往某些地方要好；有些城市确实会这样做……"
+    },
+    {
+      "id": 224,
+      "startMs": 1413780,
+      "endMs": 1418420,
+      "en": "The CopenPay scheme started in 2024 with 24 local partners.",
+      "zh": "CopenPay 计划于 2024 年启动，当时有 24 家当地合作伙伴。"
+    },
+    {
+      "id": 225,
+      "startMs": 1419220,
+      "endMs": 1427540,
+      "en": "It's now expanded to more than 100 partners, and they range from cafes and restaurants to museums and even a ski slope.",
+      "zh": "如今，合作伙伴已增至一百多家，涵盖咖啡馆、餐厅、博物馆，甚至还有一座滑雪场。"
+    },
+    {
+      "id": 226,
+      "startMs": 1428440,
+      "endMs": 1437400,
+      "en": "Another partner that's been involved since the beginning is GoBoat, a Danish company that rents out battery-powered boats on Copenhagen's canals.",
+      "zh": "另一家从一开始就参与的合作伙伴是 GoBoat，这家丹麦公司在哥本哈根运河上出租电池驱动的船只。"
+    },
+    {
+      "id": 227,
+      "startMs": 1438780,
+      "endMs": 1445820,
+      "en": "I met up with GoBoat co-founder Kasper Eich-Romme to try out their activity.",
+      "zh": "我与 GoBoat 联合创始人卡斯帕·艾希-罗默见面，亲自体验了他们的活动。"
+    },
+    {
+      "id": 228,
+      "startMs": 1446540,
+      "endMs": 1454140,
+      "en": "Their good deed in CopenPay is to come out, help us clean up the waters, and the reward is to get a boat ride in return.",
+      "zh": "他们在 CopenPay 中要做的善举，是出来帮助我们清理水面，回报则是获得一次乘船体验。"
+    },
+    {
+      "id": 229,
+      "startMs": 1454380,
+      "endMs": 1460700,
+      "en": "The company uses the scheme to fill quieter morning slots and says it's become a valuable marketing tool.",
+      "zh": "该公司利用这项计划填补客流较少的早间时段，并称它已成为一种很有价值的营销工具。"
+    },
+    {
+      "id": 230,
+      "startMs": 1461100,
+      "endMs": 1468700,
+      "en": "So far, it's been sold out the two other years, so we've had 1,200, I think, guests out helping cleaning up the waterways.",
+      "zh": "此前两年活动都已满员，所以我想，大约已有 1,200 名游客出来帮忙清理水道。"
+    },
+    {
+      "id": 231,
+      "startMs": 1469180,
+      "endMs": 1471020,
+      "en": "So that's remarkable and nice.",
+      "zh": "这非常了不起，也令人欣喜。"
+    },
+    {
+      "id": 232,
+      "startMs": 1471260,
+      "endMs": 1475180,
+      "en": "So, should we, should we get ready with these nets? And we've got a bag here for collecting the rubbish in.",
+      "zh": "那我们用这些网兜准备开始吧？这里还有一个装垃圾的袋子。"
+    },
+    {
+      "id": 233,
+      "startMs": 1475180,
+      "endMs": 1476060,
+      "en": "Let's do our best.",
+      "zh": "我们尽力吧。"
+    },
+    {
+      "id": 234,
+      "startMs": 1478600,
+      "endMs": 1480200,
+      "en": "There's another one. Yeah, got it.",
+      "zh": "那边还有一个。好，捞到了。"
+    },
+    {
+      "id": 235,
+      "startMs": 1480680,
+      "endMs": 1487720,
+      "en": "Rikke from Copenhagen's tourist board says all the activities are shaped to help tourists think a bit more about their impact.",
+      "zh": "哥本哈根旅游局的里克说，所有活动的设计都是为了让游客更多思考自身带来的影响。"
+    },
+    {
+      "id": 236,
+      "startMs": 1488280,
+      "endMs": 1494680,
+      "en": "I mean, the reason why we did it was creating awareness about the choices we make when we travel or when we are at a destination.",
+      "zh": "我是说，我们这样做，是为了让人们意识到自己在旅行途中或身处目的地时所作的选择。"
+    },
+    {
+      "id": 237,
+      "startMs": 1494920,
+      "endMs": 1498840,
+      "en": "So, when we've been interviewing our visitors and asking them about CopenPay,",
+      "zh": "所以，我们采访游客并询问他们对 CopenPay 的看法时，"
+    },
+    {
+      "id": 238,
+      "startMs": 1499400,
+      "endMs": 1505560,
+      "en": "three out of four say they want to change, they will change behavior when they go back home or when they are back home.",
+      "zh": "每四人中就有三人表示想要改变，回家后会改变自己的行为。"
+    },
+    {
+      "id": 239,
+      "startMs": 1505960,
+      "endMs": 1515720,
+      "en": "We've had 30,000 participants doing CopenPay during the past two years, and of course we hope a lot more participants, or people, will join.",
+      "zh": "过去两年已有三万人参与 CopenPay，当然，我们希望今后有更多参与者、更多人加入。"
+    },
+    {
+      "id": 240,
+      "startMs": 1516040,
+      "endMs": 1520600,
+      "en": "The one thing we've been hearing over and over again is, like, \"Every city should have this.\"",
+      "zh": "我们反复听到的一句话就是：“每座城市都应该有这样的计划。”"
+    },
+    {
+      "id": 241,
+      "startMs": 1520840,
+      "endMs": 1529160,
+      "en": "Rikke says that since CopenPay was launched two years ago, 100 other tourist destinations have been in touch to find out how it works.",
+      "zh": "里克说，自 CopenPay 两年前启动以来，已有一百个其他旅游目的地联系他们，了解其运作方式。"
+    },
+    {
+      "id": 242,
+      "startMs": 1529880,
+      "endMs": 1533640,
+      "en": "Last month, Germany's capital ran a pilot called BerlinPay.",
+      "zh": "上个月，德国首都试行了一项名为 BerlinPay 的计划。"
+    },
+    {
+      "id": 243,
+      "startMs": 1533960,
+      "endMs": 1542860,
+      "en": "We cannot save the world here in Copenhagen, but imagine if we next year see 40 cities having implemented this, then we sort of started a global movement.",
+      "zh": "我们无法仅凭哥本哈根拯救世界，但设想一下，如果明年有 40 座城市实施这项计划，那我们也算发起了一场全球运动。"
+    },
+    {
+      "id": 244,
+      "startMs": 1543880,
+      "endMs": 1546680,
+      "en": "That was Adrienne Murray reporting from Copenhagen.",
+      "zh": "以上是阿德里安娜·默里从哥本哈根发回的报道。"
+    },
+    {
+      "id": 245,
+      "startMs": 1549640,
+      "endMs": 1550840,
+      "en": "And that's all from us for now.",
+      "zh": "本期节目到这里就结束了。"
+    },
+    {
+      "id": 246,
+      "startMs": 1550840,
+      "endMs": 1555240,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 247,
+      "startMs": 1555960,
+      "endMs": 1560840,
+      "en": "You can also find us on X @bbcworldservice. Use the hashtag #GlobalNewsPod.",
+      "zh": "你也可以在 X 平台关注 @bbcworldservice，并使用话题标签 #GlobalNewsPod。"
+    },
+    {
+      "id": 248,
+      "startMs": 1561160,
+      "endMs": 1563400,
+      "en": "Don't forget our sister podcast, The Global Story.",
+      "zh": "别忘了我们的姐妹播客《The Global Story》。"
+    },
+    {
+      "id": 249,
+      "startMs": 1563960,
+      "endMs": 1570440,
+      "en": "This edition of the Global News Podcast was mixed by Rebecca Miller, and the producers were Alfie Habershon and Charles Tanchree.",
+      "zh": "本期《全球新闻播客》由丽贝卡·米勒负责混音，制片人为阿尔菲·哈伯申和查尔斯·坦克里。"
+    },
+    {
+      "id": 250,
+      "startMs": 1570840,
+      "endMs": 1573160,
+      "en": "The editor is Karen Martin, and I'm Charlotte Gallagher.",
+      "zh": "编辑是凯伦·马丁，我是夏洛特·加拉格尔。"
+    },
+    {
+      "id": 251,
+      "startMs": 1573400,
+      "endMs": 1574760,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}

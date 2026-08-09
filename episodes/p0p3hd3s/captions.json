@@ -1,0 +1,2013 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "9 August 2026"
+  },
+  "durationMs": 1688740,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2800,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是英国广播公司国际台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5560,
+      "endMs": 10840,
+      "en": "Hello, I'm Ankur Desai, and in the early hours of Sunday, the 9th of August, these are our main stories.",
+      "zh": "大家好，我是安库尔·德赛。8月9日星期日凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11400,
+      "endMs": 15960,
+      "en": "Iran says negotiations over new arrangements for the Strait of Hormuz are going well,",
+      "zh": "伊朗表示，有关霍尔木兹海峡新安排的谈判进展顺利，"
+    },
+    {
+      "id": 4,
+      "startMs": 16360,
+      "endMs": 20520,
+      "en": "but sets out conditions for the US before the waterway can be reopened.",
+      "zh": "但也列出了美国在这条水道重开前必须满足的条件。"
+    },
+    {
+      "id": 5,
+      "startMs": 21160,
+      "endMs": 27480,
+      "en": "Ukraine's President Zelensky pleads for more European support on a visit to Serbia, a traditional Russian ally.",
+      "zh": "乌克兰总统泽连斯基访问俄罗斯的传统盟友塞尔维亚，并呼吁欧洲提供更多支持。"
+    },
+    {
+      "id": 6,
+      "startMs": 28120,
+      "endMs": 35720,
+      "en": "And the US Senate confirms Todd Blanche as the new Attorney General, putting Donald Trump's former lawyer in charge of the Justice Department.",
+      "zh": "美国参议院确认托德·布兰奇出任新任司法部长，使唐纳德·特朗普的前律师执掌司法部。"
+    },
+    {
+      "id": 7,
+      "startMs": 38920,
+      "endMs": 45320,
+      "en": "Also in this podcast, Palestinians accuse Israel of weaponizing archaeology in the occupied West Bank.",
+      "zh": "本期节目还将报道：巴勒斯坦人指责以色列在被占领的约旦河西岸将考古学武器化。"
+    },
+    {
+      "id": 8,
+      "startMs": 45720,
+      "endMs": 53480,
+      "en": "And orders coming minutes apart, one of them for 71 books, biographies, cartoons, political cartoon books.",
+      "zh": "还有，订单每隔几分钟就出现，其中一单购买了71本书，包括传记、漫画和政治漫画书。"
+    },
+    {
+      "id": 9,
+      "startMs": 53480,
+      "endMs": 55320,
+      "en": "It was obviously not human.",
+      "zh": "这显然不是人类所为。"
+    },
+    {
+      "id": 10,
+      "startMs": 55800,
+      "endMs": 60120,
+      "en": "Why are AI companies bulk buying old books and then destroying them?",
+      "zh": "人工智能公司为何批量购买旧书，然后又将它们销毁？"
+    },
+    {
+      "id": 11,
+      "startMs": 65280,
+      "endMs": 73040,
+      "en": "Both Iran and Oman say negotiations over new arrangements to manage traffic through the Strait of Hormuz have been constructive,",
+      "zh": "伊朗和阿曼都表示，关于管理霍尔木兹海峡通行的新安排，双方进行了富有建设性的谈判，"
+    },
+    {
+      "id": 12,
+      "startMs": 73520,
+      "endMs": 79120,
+      "en": "but Tehran has warned that any deal would not see an immediate reopening of the vital waterway.",
+      "zh": "但德黑兰警告称，任何协议都不会让这条重要水道立即重开。"
+    },
+    {
+      "id": 13,
+      "startMs": 79600,
+      "endMs": 84000,
+      "en": "It set out demands the US must meet before the strait can be reopened.",
+      "zh": "伊朗列出了美国必须满足的要求，之后海峡才可能重开。"
+    },
+    {
+      "id": 14,
+      "startMs": 84480,
+      "endMs": 88720,
+      "en": "Our Middle East analyst Sebastian Usher told me more about the Iranian conditions.",
+      "zh": "本台中东事务分析员塞巴斯蒂安·厄舍向我进一步介绍了伊朗提出的条件。"
+    },
+    {
+      "id": 15,
+      "startMs": 89120,
+      "endMs": 91920,
+      "en": "I mean, it looks like a hardening of Iran's stance.",
+      "zh": "我的意思是，这看起来表明伊朗的立场更加强硬了。"
+    },
+    {
+      "id": 16,
+      "startMs": 92320,
+      "endMs": 101200,
+      "en": "These are conditions that have been around, essentially a part of a memorandum of understanding, a framework agreement, but the timing was different and left more vague.",
+      "zh": "这些条件此前就已存在，实质上是一份谅解备忘录、一项框架协议的一部分，但当时的时间安排不同，而且表述得更为模糊。"
+    },
+    {
+      "id": 17,
+      "startMs": 101200,
+      "endMs": 104720,
+      "en": "I mean, what Iran's security chief has just come out with...",
+      "zh": "我的意思是，伊朗安全部门负责人刚刚提出的是……"
+    },
+    {
+      "id": 18,
+      "startMs": 105620,
+      "endMs": 112660,
+      "en": "...is demands saying that, in order just for the Strait of Hormuz to be fully reopened, to be fully operational, they need to be met.",
+      "zh": "……一系列要求，称这些要求必须得到满足，霍尔木兹海峡才能全面重开并完全恢复通航。"
+    },
+    {
+      "id": 19,
+      "startMs": 112660,
+      "endMs": 115940,
+      "en": "So that's for war reparations, that's sanctions relief,",
+      "zh": "其中包括战争赔偿和解除制裁，"
+    },
+    {
+      "id": 20,
+      "startMs": 116500,
+      "endMs": 124660,
+      "en": "the full withdrawal of all US troops and forces in the region, as well as an immediate end to the blockade that the US has imposed.",
+      "zh": "所有美国部队和武装力量全面撤出该地区，以及立即结束美国实施的封锁。"
+    },
+    {
+      "id": 21,
+      "startMs": 125140,
+      "endMs": 133940,
+      "en": "So all of those were sort of part of what the memorandum of understanding had, but the timing and the mechanism of it seemed very different.",
+      "zh": "所以，这些内容在某种程度上都是谅解备忘录的一部分，但其时间安排和落实机制看起来很不一样。"
+    },
+    {
+      "id": 22,
+      "startMs": 134420,
+      "endMs": 142900,
+      "en": "And the conditions from the US side were still very much about Iranian commitments over its nuclear programme,",
+      "zh": "而美国方面的条件仍然主要涉及伊朗对其核计划作出的承诺，"
+    },
+    {
+      "id": 23,
+      "startMs": 143220,
+      "endMs": 150020,
+      "en": "and giving up any ambitions to develop a nuclear bomb and potentially hand over the enriched uranium that it has.",
+      "zh": "包括放弃研制核弹的任何企图，并可能交出其拥有的浓缩铀。"
+    },
+    {
+      "id": 24,
+      "startMs": 150340,
+      "endMs": 156500,
+      "en": "This seems to change that and put much more pressure on the Americans to do this now.",
+      "zh": "如今的表态似乎改变了这种安排，给美国施加了更大压力，要求其立即采取行动。"
+    },
+    {
+      "id": 25,
+      "startMs": 156820,
+      "endMs": 160820,
+      "en": "Why have Iran got this emboldened stance, then, all of a sudden?",
+      "zh": "那么，伊朗为何突然采取了这种更为强硬的立场？"
+    },
+    {
+      "id": 26,
+      "startMs": 161300,
+      "endMs": 168200,
+      "en": "I mean, Iran has watched, as everyone else has, how President Trump has basically walked the world up to the hill and then walked them straight down again.",
+      "zh": "我的意思是，伊朗和其他所有人一样，都看到了特朗普总统如何把全世界带到山顶，又径直带了下来。"
+    },
+    {
+      "id": 27,
+      "startMs": 168600,
+      "endMs": 175240,
+      "en": "I mean, we've had media organizations like us, like CNN, essentially noting how many times President Trump has done that.",
+      "zh": "我的意思是，包括我们和美国有线电视新闻网在内的媒体机构，都在记录特朗普总统这样做过多少次。"
+    },
+    {
+      "id": 28,
+      "startMs": 175240,
+      "endMs": 183720,
+      "en": "I think it's at least seven times that he's threatened utter destruction in Iran and then stepped back and said that's because a deal is imminent.",
+      "zh": "我认为至少有七次，他威胁要彻底摧毁伊朗，随后又退让，并称这是因为协议即将达成。"
+    },
+    {
+      "id": 29,
+      "startMs": 183720,
+      "endMs": 192440,
+      "en": "He did that just a week ago, so therefore they have a stronger hand because the Strait of Hormuz is still essentially closed; very few vessels are going through.",
+      "zh": "就在一周前，他又这样做了一次。因此伊朗掌握了更强的筹码，因为霍尔木兹海峡实际上仍处于关闭状态，只有极少数船只通行。"
+    },
+    {
+      "id": 30,
+      "startMs": 193000,
+      "endMs": 198840,
+      "en": "There is a deal that is being worked on at the moment between Iran and Oman to open a new route,",
+      "zh": "伊朗和阿曼目前正在磋商一项协议，以开辟一条新航线，"
+    },
+    {
+      "id": 31,
+      "startMs": 199240,
+      "endMs": 205480,
+      "en": "but though both sides have talked about there being progress in that and constructive talks, that hasn't happened yet.",
+      "zh": "不过，尽管双方都说谈判取得了进展、富有建设性，新航线仍未开通。"
+    },
+    {
+      "id": 32,
+      "startMs": 205800,
+      "endMs": 210920,
+      "en": "And Iran has been stressing throughout the days those talks have been going on that even if it does happen,",
+      "zh": "在谈判进行的这些天里，伊朗一直强调，即使新航线确实开通，"
+    },
+    {
+      "id": 33,
+      "startMs": 211240,
+      "endMs": 216680,
+      "en": "it's not connected necessarily to a full reopening of the Strait of Hormuz, which of course is what the US wants.",
+      "zh": "它也未必与霍尔木兹海峡全面重开有关，而全面重开当然正是美国想要的。"
+    },
+    {
+      "id": 34,
+      "startMs": 216760,
+      "endMs": 222440,
+      "en": "President Trump has the pressure of midterms on the horizon, losing support at home from his MAGA core support base.",
+      "zh": "中期选举临近，特朗普总统面临压力，其国内的“让美国再次伟大”核心支持群体也在流失。"
+    },
+    {
+      "id": 35,
+      "startMs": 222440,
+      "endMs": 224280,
+      "en": "Where does it leave him and the US right now, then?",
+      "zh": "那么，这让他和美国如今处于怎样的境地？"
+    },
+    {
+      "id": 36,
+      "startMs": 225000,
+      "endMs": 226860,
+      "en": "I mean, in a difficult situation, there's no doubt.",
+      "zh": "毫无疑问，他们处境艰难。"
+    },
+    {
+      "id": 37,
+      "startMs": 226860,
+      "endMs": 235580,
+      "en": "I mean, as President Trump, as the US have said throughout, I mean, they have the military capability, obviously, to wreak that kind of destruction on Iran,",
+      "zh": "我的意思是，正如特朗普总统和美国一直所说，他们显然具备对伊朗造成那种破坏的军事能力，"
+    },
+    {
+      "id": 38,
+      "startMs": 235580,
+      "endMs": 238700,
+      "en": "but they don't have the political will to do it, essentially,",
+      "zh": "但他们实质上缺乏这样做的政治意愿，"
+    },
+    {
+      "id": 39,
+      "startMs": 238940,
+      "endMs": 246060,
+      "en": "and the consequences that there would be, obviously economically, going far beyond the dire consequences of the closure of the Strait of Hormuz,",
+      "zh": "而且由此产生的后果，尤其是经济后果，将远远超出霍尔木兹海峡关闭本身造成的严重影响，"
+    },
+    {
+      "id": 40,
+      "startMs": 246300,
+      "endMs": 255980,
+      "en": "and also now with the Houthis in Yemen closing down another important waterway, the Bab el-Mandeb—not closing it down, but making it more difficult for Saudi ships to go through.",
+      "zh": "如今也门胡塞武装还影响着另一条重要水道曼德海峡——并非将其关闭，而是让沙特船只更难通行。"
+    },
+    {
+      "id": 41,
+      "startMs": 256220,
+      "endMs": 259260,
+      "en": "So that pressure has only intensified; it hasn't weakened.",
+      "zh": "因此，这种压力只会加剧，并未减弱。"
+    },
+    {
+      "id": 42,
+      "startMs": 259580,
+      "endMs": 270620,
+      "en": "And each time that Washington has escalated, it only seems to have pushed Iran, the leadership, into an even more obstinate position,",
+      "zh": "而华盛顿每次升级局势，似乎都只是把伊朗领导层推向更加固执强硬的立场，"
+    },
+    {
+      "id": 43,
+      "startMs": 270620,
+      "endMs": 275740,
+      "en": "where they carry out more attacks on Gulf countries, they widen the conflict,",
+      "zh": "使其对海湾国家发动更多袭击，并扩大冲突，"
+    },
+    {
+      "id": 44,
+      "startMs": 276140,
+      "endMs": 285340,
+      "en": "and that price politically that President Trump, the Republican Party, the US itself, you know, has been paying just doesn't seem to be worth it.",
+      "zh": "而特朗普总统、共和党乃至美国自身一直为此付出的政治代价，似乎根本不值得。"
+    },
+    {
+      "id": 45,
+      "startMs": 285520,
+      "endMs": 287440,
+      "en": "It doesn't seem to be accomplishing what they want.",
+      "zh": "这似乎并没有实现他们想要的目标。"
+    },
+    {
+      "id": 46,
+      "startMs": 287760,
+      "endMs": 294400,
+      "en": "So how many times can President Trump issue such extraordinary threats and then not go through with them?",
+      "zh": "那么，特朗普总统还能多少次发出如此非同寻常的威胁，却又不付诸行动？"
+    },
+    {
+      "id": 47,
+      "startMs": 294960,
+      "endMs": 301120,
+      "en": "Just very briefly, I mean, this deal between Iran and Oman just a few weeks ago was something that President Trump utterly ruled out",
+      "zh": "简单来说，就在几周前，特朗普总统还彻底排除了伊朗与阿曼达成这项协议的可能，"
+    },
+    {
+      "id": 48,
+      "startMs": 301120,
+      "endMs": 305440,
+      "en": "because it leaves Iran with considerable control over the Strait of Hormuz.",
+      "zh": "因为协议会让伊朗对霍尔木兹海峡保有相当大的控制权。"
+    },
+    {
+      "id": 49,
+      "startMs": 305760,
+      "endMs": 308640,
+      "en": "It may well be able to charge fees for vessels going through.",
+      "zh": "伊朗很可能可以向过往船只收取费用。"
+    },
+    {
+      "id": 50,
+      "startMs": 309600,
+      "endMs": 313600,
+      "en": "At that time, President Trump was even talking about attacking Oman over this.",
+      "zh": "当时，特朗普总统甚至谈到要因此攻击阿曼。"
+    },
+    {
+      "id": 51,
+      "startMs": 313680,
+      "endMs": 318880,
+      "en": "That has very much shifted. These talks between Iran and Oman pretty much seem to have US blessing,",
+      "zh": "如今情况已经发生了很大变化。伊朗与阿曼的谈判看起来基本得到了美国的首肯，"
+    },
+    {
+      "id": 52,
+      "startMs": 318880,
+      "endMs": 324880,
+      "en": "and it may be an off-ramp for President Trump, not achieving anything essentially that he said that it could,",
+      "zh": "这或许能给特朗普总统提供一条退路，尽管实际上并未实现他声称能够实现的任何目标，"
+    },
+    {
+      "id": 53,
+      "startMs": 325200,
+      "endMs": 329360,
+      "en": "but removing the biggest headache that he's facing at the moment, which is the Strait of Hormuz,",
+      "zh": "但可以消除他目前面临的最大难题，也就是霍尔木兹海峡问题，"
+    },
+    {
+      "id": 54,
+      "startMs": 329680,
+      "endMs": 337600,
+      "en": "and then everything else, you know, I guess he feels, his administration feels, can be dealt with after that, but this is their most pressing political necessity.",
+      "zh": "至于其他问题，我想他和他的政府认为之后再处理也可以，但这正是他们当前最迫切的政治需要。"
+    },
+    {
+      "id": 55,
+      "startMs": 338080,
+      "endMs": 345120,
+      "en": "Sebastian Usher. And we'll hear more from Sebastian later in the programme with a special report from the occupied West Bank.",
+      "zh": "以上是塞巴斯蒂安·厄舍。稍后节目中，我们还将听到他从被占领的约旦河西岸发回的特别报道。"
+    },
+    {
+      "id": 56,
+      "startMs": 346160,
+      "endMs": 352160,
+      "en": "President Zelensky has made an impassioned plea for Ukraine's allies to urgently provide more interceptors",
+      "zh": "泽连斯基总统恳切呼吁乌克兰的盟友紧急提供更多拦截弹，"
+    },
+    {
+      "id": 57,
+      "startMs": 352560,
+      "endMs": 357920,
+      "en": "after another night when the country's defences failed to shoot down a single Russian missile.",
+      "zh": "此前又有一夜，乌克兰的防空系统未能击落任何一枚俄罗斯导弹。"
+    },
+    {
+      "id": 58,
+      "startMs": 358480,
+      "endMs": 362960,
+      "en": "Three members of one family, including a child, were killed in the latest round of strikes.",
+      "zh": "在最新一轮袭击中，同一家庭的三名成员遇难，其中包括一名儿童。"
+    },
+    {
+      "id": 59,
+      "startMs": 363440,
+      "endMs": 373040,
+      "en": "Volodymyr Zelensky aimed his appeals at Germany and Poland, but also mentioned Japan and South Korea, where such exports are restricted by domestic law.",
+      "zh": "沃洛迪米尔·泽连斯基主要向德国和波兰发出呼吁，但也提到了日本和韩国，这两个国家的国内法限制此类武器出口。"
+    },
+    {
+      "id": 60,
+      "startMs": 373520,
+      "endMs": 378240,
+      "en": "He was speaking in Serbia on his first visit to a long-standing ally of the Kremlin.",
+      "zh": "他是在塞尔维亚发表上述讲话的，这是他首次访问这个克里姆林宫的长期盟友。"
+    },
+    {
+      "id": 61,
+      "startMs": 378800,
+      "endMs": 381440,
+      "en": "Our Ukraine correspondent Dan Johnson sent this report.",
+      "zh": "本台乌克兰事务记者丹·约翰逊发回以下报道。"
+    },
+    {
+      "id": 62,
+      "startMs": 385920,
+      "endMs": 392960,
+      "en": "On the outskirts of Kyiv, firefighters tackled an intense blaze that destroyed a family home after it was hit by Russian drones.",
+      "zh": "在基辅郊外，消防员奋力扑灭一场猛烈大火。一处民宅遭俄罗斯无人机击中后被烧毁。"
+    },
+    {
+      "id": 63,
+      "startMs": 393880,
+      "endMs": 397480,
+      "en": "A three-year-old boy was killed along with his grandparents.",
+      "zh": "一名三岁男童与他的祖父母一同遇难。"
+    },
+    {
+      "id": 64,
+      "startMs": 397880,
+      "endMs": 402840,
+      "en": "His 15-year-old brother was injured along with their parents and a neighbour who tried to help.",
+      "zh": "他15岁的哥哥、他们的父母以及一名试图帮忙的邻居均受了伤。"
+    },
+    {
+      "id": 65,
+      "startMs": 403000,
+      "endMs": 405400,
+      "en": "Svitlana lives next door.",
+      "zh": "斯维特拉娜住在隔壁。"
+    },
+    {
+      "id": 66,
+      "startMs": 405400,
+      "endMs": 411240,
+      "en": "My husband rushed to get water to put out the fire, but that didn't help.",
+      "zh": "我丈夫赶紧去取水灭火，但无济于事。"
+    },
+    {
+      "id": 67,
+      "startMs": 411720,
+      "endMs": 416760,
+      "en": "The neighbours rushed out, trying to rescue a small child, but they couldn't find the child.",
+      "zh": "邻居们冲了出来，试图救出那个年幼的孩子，但他们找不到孩子。"
+    },
+    {
+      "id": 68,
+      "startMs": 421900,
+      "endMs": 427340,
+      "en": "Ukrainian prosecutors are gathering evidence at the scene and say it could amount to a war crime.",
+      "zh": "乌克兰检方正在现场收集证据，并表示此事可能构成战争罪。"
+    },
+    {
+      "id": 69,
+      "startMs": 428060,
+      "endMs": 431740,
+      "en": "Russia also claimed to have struck a missile factory close to Kyiv.",
+      "zh": "俄罗斯还声称击中了基辅附近的一座导弹工厂。"
+    },
+    {
+      "id": 70,
+      "startMs": 432060,
+      "endMs": 433580,
+      "en": "Ukraine wouldn't confirm it.",
+      "zh": "乌克兰方面拒绝证实这一说法。"
+    },
+    {
+      "id": 71,
+      "startMs": 434220,
+      "endMs": 443820,
+      "en": "President Zelensky has warned repeatedly of the need for more US Patriot interceptors to shoot down Russian missiles, but he's also pushing for tougher sanctions.",
+      "zh": "泽连斯基总统多次警告，乌克兰需要更多美国“爱国者”拦截弹来击落俄罗斯导弹，同时他也在推动实施更严厉的制裁。"
+    },
+    {
+      "id": 72,
+      "startMs": 448040,
+      "endMs": 458120,
+      "en": "He's concluded a two-day visit to Serbia, his first to the traditional Russian ally and one of the few European countries not to impose restrictions on the Kremlin.",
+      "zh": "他已结束对塞尔维亚为期两天的访问。这是他首次访问这个俄罗斯的传统盟友；塞尔维亚也是少数未对克里姆林宫实施限制的欧洲国家之一。"
+    },
+    {
+      "id": 73,
+      "startMs": 458280,
+      "endMs": 471400,
+      "en": "Supportive statements were exchanged with the Serbian President, but Aleksandar Vučić had already ruled out a change of policy towards Moscow.",
+      "zh": "泽连斯基与塞尔维亚总统互致支持性表态，但亚历山大·武契奇此前已排除改变对莫斯科政策的可能。"
+    },
+    {
+      "id": 74,
+      "startMs": 471880,
+      "endMs": 476520,
+      "en": "Serbia is pursuing European Union membership and has provided aid to Ukraine.",
+      "zh": "塞尔维亚正在谋求加入欧盟，并已向乌克兰提供援助。"
+    },
+    {
+      "id": 75,
+      "startMs": 476920,
+      "endMs": 478920,
+      "en": "There's talk of a possible trade deal.",
+      "zh": "双方还在讨论一项可能达成的贸易协议。"
+    },
+    {
+      "id": 76,
+      "startMs": 479400,
+      "endMs": 483800,
+      "en": "One of Mr Zelensky's aides described the visit as a slap in the face for Russia.",
+      "zh": "泽连斯基的一名助手称，此次访问对俄罗斯而言是“一记耳光”。"
+    },
+    {
+      "id": 77,
+      "startMs": 486660,
+      "endMs": 497540,
+      "en": "Ukraine's also hit two more Russian oil refineries in its intensifying campaign of long-range drone attacks targeting fuel supply facilities and online retail warehouses.",
+      "zh": "乌克兰还击中了另外两座俄罗斯炼油厂。其针对燃料供应设施和网络零售仓库的远程无人机袭击正在加剧。"
+    },
+    {
+      "id": 78,
+      "startMs": 498880,
+      "endMs": 500640,
+      "en": "Dan Johnson reporting from Kyiv.",
+      "zh": "丹·约翰逊在基辅报道。"
+    },
+    {
+      "id": 79,
+      "startMs": 501680,
+      "endMs": 503680,
+      "en": "The White House has a new Attorney General.",
+      "zh": "白宫迎来了一位新任司法部长。"
+    },
+    {
+      "id": 80,
+      "startMs": 504000,
+      "endMs": 510400,
+      "en": "On this vote, the yeas are 50, the nays are 49. The nomination is confirmed.",
+      "zh": "本次表决赞成票50票、反对票49票。提名获得确认。"
+    },
+    {
+      "id": 81,
+      "startMs": 511040,
+      "endMs": 515840,
+      "en": "The controversial appointment of Todd Blanche, previously Donald Trump's personal lawyer—",
+      "zh": "托德·布兰奇此前是唐纳德·特朗普的私人律师。对他的争议性任命——"
+    },
+    {
+      "id": 82,
+      "startMs": 516240,
+      "endMs": 523120,
+      "en": "has sparked criticism that an impartial government department could become an agency that would do his bidding.",
+      "zh": "引发批评，批评者担心一个本应保持公正的政府部门可能沦为听命于特朗普的机构。"
+    },
+    {
+      "id": 83,
+      "startMs": 523680,
+      "endMs": 529040,
+      "en": "He had been serving as acting Attorney General since April, after the sacking of Pam Bondi.",
+      "zh": "帕姆·邦迪被解职后，他自4月起一直担任代理司法部长。"
+    },
+    {
+      "id": 84,
+      "startMs": 529520,
+      "endMs": 536880,
+      "en": "And it's seen as a major win for the US President after several Republican senators had threatened to rebel and vote against him.",
+      "zh": "此前几名共和党参议员曾威胁倒戈投反对票，因此此事被视为美国总统的一场重大胜利。"
+    },
+    {
+      "id": 85,
+      "startMs": 537440,
+      "endMs": 544000,
+      "en": "One of the concerned senators was Bill Cassidy, who ended up voting in the way Mr Trump wanted. He explained why.",
+      "zh": "心存疑虑的参议员之一是比尔·卡西迪，他最终按特朗普希望的方式投票。他解释了原因。"
+    },
+    {
+      "id": 86,
+      "startMs": 544480,
+      "endMs": 546560,
+      "en": "This is not a referendum on President Trump.",
+      "zh": "这不是一场针对特朗普总统的公投。"
+    },
+    {
+      "id": 87,
+      "startMs": 546960,
+      "endMs": 551200,
+      "en": "It is a decision regarding Mr Blanche in very specific circumstances.",
+      "zh": "这是在非常具体的情况下对布兰奇先生作出的决定。"
+    },
+    {
+      "id": 88,
+      "startMs": 551840,
+      "endMs": 553760,
+      "en": "All considered, I will vote for Mr Blanche.",
+      "zh": "综合考虑后，我会投票支持布兰奇先生。"
+    },
+    {
+      "id": 89,
+      "startMs": 554480,
+      "endMs": 556160,
+      "en": "I'll be criticised for this vote. What's new?",
+      "zh": "我会因为这一票受到批评。这又有什么新鲜的呢？"
+    },
+    {
+      "id": 90,
+      "startMs": 557220,
+      "endMs": 564740,
+      "en": "But the people can be assured that I worked hard to understand the issue and to make the right decision.",
+      "zh": "但民众可以放心，我努力了解了这个问题，并努力作出正确决定。"
+    },
+    {
+      "id": 91,
+      "startMs": 565460,
+      "endMs": 569300,
+      "en": "So what is the history of the relationship between President Trump and Todd Blanche?",
+      "zh": "那么，特朗普总统和托德·布兰奇之间的关系有着怎样的历史？"
+    },
+    {
+      "id": 92,
+      "startMs": 569700,
+      "endMs": 572580,
+      "en": "I heard more from our White House correspondent, Bernd Debusmann.",
+      "zh": "我们的白宫记者伯恩德·德布斯曼作了进一步介绍。"
+    },
+    {
+      "id": 93,
+      "startMs": 572980,
+      "endMs": 575380,
+      "en": "They have a relationship spanning back many years.",
+      "zh": "两人的关系可以追溯到许多年前。"
+    },
+    {
+      "id": 94,
+      "startMs": 575380,
+      "endMs": 585220,
+      "en": "Todd Blanche was his personal attorney and, as such, kind of was at Trump's side during many of the legal battles he faced before returning to the White House in January.",
+      "zh": "托德·布兰奇曾是他的私人律师，因此在特朗普今年1月重返白宫前所面对的许多法律纠纷中，布兰奇多少都陪伴在他身边。"
+    },
+    {
+      "id": 95,
+      "startMs": 585220,
+      "endMs": 591300,
+      "en": "Since then, he's been the Deputy Attorney General under Pam Bondi until she lost her job not long ago,",
+      "zh": "此后，他在帕姆·邦迪手下担任副司法部长，直到她不久前被解职。"
+    },
+    {
+      "id": 96,
+      "startMs": 591300,
+      "endMs": 601780,
+      "en": "and then that kind of began these weeks of uncertainty about whether he would be confirmed to take the role formally going forward, and that's what the vote was about last night.",
+      "zh": "随后几周，人们一直不确定他能否获确认、正式接任这一职位，而昨晚的投票正是围绕此事展开。"
+    },
+    {
+      "id": 97,
+      "startMs": 601940,
+      "endMs": 606340,
+      "en": "I guess a lot of people will be wondering then: will he do what President Trump asks of him?",
+      "zh": "我想很多人会问：他会按照特朗普总统的要求行事吗？"
+    },
+    {
+      "id": 98,
+      "startMs": 606820,
+      "endMs": 612740,
+      "en": "Well, I think President Trump's detractors—of course Democrats, but also some Republicans—there is a concern",
+      "zh": "我认为，特朗普总统的反对者——当然包括民主党人，也包括一些共和党人——有一种担忧，"
+    },
+    {
+      "id": 99,
+      "startMs": 612820,
+      "endMs": 619860,
+      "en": "that under Todd Blanche, the Justice Department could be used to target President Trump's perceived political opponents",
+      "zh": "即司法部在托德·布兰奇领导下可能被用来针对特朗普眼中的政治对手，"
+    },
+    {
+      "id": 100,
+      "startMs": 619860,
+      "endMs": 623460,
+      "en": "and the detractors he has in government and outside of government.",
+      "zh": "以及政府内外批评他的人。"
+    },
+    {
+      "id": 101,
+      "startMs": 623480,
+      "endMs": 628040,
+      "en": "Of course, the White House and the Justice Department and Mr Blanche himself would push back on that,",
+      "zh": "当然，白宫、司法部以及布兰奇本人都会反驳这一说法，"
+    },
+    {
+      "id": 102,
+      "startMs": 628040,
+      "endMs": 636040,
+      "en": "saying that his role as the chief law enforcement officer of the United States is independent of the executive branch and the White House.",
+      "zh": "并称他作为美国最高执法官员，其职责独立于行政部门和白宫。"
+    },
+    {
+      "id": 103,
+      "startMs": 636040,
+      "endMs": 644040,
+      "en": "I think it's one of those questions that is highly partisan and in very divided opinion here in Washington. So it would depend who you ask.",
+      "zh": "我认为，这是华盛顿一个党派色彩浓厚、意见高度分裂的问题，所以答案取决于你问的是谁。"
+    },
+    {
+      "id": 104,
+      "startMs": 644280,
+      "endMs": 648120,
+      "en": "There was criticism of his handling of the Epstein files in the past as well.",
+      "zh": "他过去对爱泼斯坦档案的处理也曾受到批评。"
+    },
+    {
+      "id": 105,
+      "startMs": 648440,
+      "endMs": 654600,
+      "en": "Will there be criticism coming his way now he's in such a key position, or a lot more scrutiny over his decision-making?",
+      "zh": "如今他身居如此关键的职位，是否会面临批评，或者其决策会受到更多审视？"
+    },
+    {
+      "id": 106,
+      "startMs": 655000,
+      "endMs": 662040,
+      "en": "Well, I think in the coming days and weeks, we'll very likely hear from members of both parties who criticised his handling of the Epstein file,",
+      "zh": "我认为，未来几天和几周，我们很可能会听到两党中曾批评他处理爱泼斯坦档案方式的人发声，"
+    },
+    {
+      "id": 107,
+      "startMs": 662120,
+      "endMs": 664440,
+      "en": "as well as from some of the victims and the representatives",
+      "zh": "也会听到一些受害者和相关代表的声音，"
+    },
+    {
+      "id": 108,
+      "startMs": 664760,
+      "endMs": 672280,
+      "en": "who have kind of singled him out as someone they saw as not being particularly supportive to transparency with the Epstein files.",
+      "zh": "他们曾特别指出，在他们看来，他并不是一个特别支持提高爱泼斯坦档案透明度的人。"
+    },
+    {
+      "id": 109,
+      "startMs": 672680,
+      "endMs": 676920,
+      "en": "He's pushed back very, very strongly on that, and said he's done everything he can,",
+      "zh": "他对此作出了非常、非常强烈的反驳，并称自己已经尽了一切努力；"
+    },
+    {
+      "id": 110,
+      "startMs": 676920,
+      "endMs": 683480,
+      "en": "and that if he had seen any sort of potential criminal charges in the files, that he would have filed those criminal charges.",
+      "zh": "如果他在这些档案中发现任何可能提出刑事指控的内容，就会提起相应的刑事指控。"
+    },
+    {
+      "id": 111,
+      "startMs": 683500,
+      "endMs": 685500,
+      "en": "But nothing really has come of that.",
+      "zh": "但此事实际上并没有带来什么结果。"
+    },
+    {
+      "id": 112,
+      "startMs": 685500,
+      "endMs": 694060,
+      "en": "So I think there's quite a lot of dissatisfaction among people that feel very strongly about the Epstein case that he did not perform to the best of his ability.",
+      "zh": "因此，一些高度关注爱泼斯坦案的人相当不满，认为他没有尽到最大能力。"
+    },
+    {
+      "id": 113,
+      "startMs": 694300,
+      "endMs": 697980,
+      "en": "But as I mentioned, the Justice Department kind of dismisses those claims,",
+      "zh": "但正如我提到的，司法部基本上驳回了这些说法。"
+    },
+    {
+      "id": 114,
+      "startMs": 697980,
+      "endMs": 704860,
+      "en": "and at the moment there's really kind of no forward movement in terms of any sort of prosecutions that might take place here in the United States, at least.",
+      "zh": "至少目前，在美国可能进行的任何起诉方面，确实没有什么进展。"
+    },
+    {
+      "id": 115,
+      "startMs": 705020,
+      "endMs": 712140,
+      "en": "What can we make of the support that President Trump holds amongst Republicans? There were two who voted against this appointment.",
+      "zh": "我们该如何看待特朗普总统在共和党人中的支持度？有两名共和党人投票反对这项任命。"
+    },
+    {
+      "id": 116,
+      "startMs": 712140,
+      "endMs": 720460,
+      "en": "Well, there's there's certainly been a perception here in Washington that in recent months, more Republicans are willing to stand up to President Trump.",
+      "zh": "华盛顿确实有一种看法，认为近几个月有更多共和党人愿意站出来反对特朗普总统。"
+    },
+    {
+      "id": 117,
+      "startMs": 720460,
+      "endMs": 727740,
+      "en": "Before that, the kind of consensus had been that President Trump still has enormous power over the party as a whole.",
+      "zh": "在此之前，人们大体认为特朗普总统对整个共和党仍然拥有巨大影响力。"
+    },
+    {
+      "id": 118,
+      "startMs": 728140,
+      "endMs": 732060,
+      "en": "I think one of the main turning points was the war in Iran.",
+      "zh": "我认为一个主要转折点是伊朗战争。"
+    },
+    {
+      "id": 119,
+      "startMs": 732060,
+      "endMs": 738940,
+      "en": "We saw the Senate and the House pass kind of a symbolic War Powers Resolution, which in practice means little,",
+      "zh": "我们看到参议院和众议院通过了一项带有象征性质的《战争权力决议》，它在实践中的意义不大，"
+    },
+    {
+      "id": 120,
+      "startMs": 738940,
+      "endMs": 744880,
+      "en": "but it really was kind of a rebuke of President Trump by members of both parties.",
+      "zh": "但确实算是两党议员对特朗普总统的一次谴责。"
+    },
+    {
+      "id": 121,
+      "startMs": 745200,
+      "endMs": 751520,
+      "en": "Many of them will be hearing from their constituents about the high price of petrol that they're paying for, about the high prices of fertilizer.",
+      "zh": "其中许多人会听到选民抱怨高昂的汽油价格和化肥价格。"
+    },
+    {
+      "id": 122,
+      "startMs": 751840,
+      "endMs": 762320,
+      "en": "And I think that really weighs on some members of the party ahead of the November midterm elections, and their longer-term concerns for any sort of eroding support for Republicans.",
+      "zh": "我认为，在11月中期选举前，这给部分共和党议员带来很大压力，他们也长期担忧共和党的支持度可能出现任何程度的下滑。"
+    },
+    {
+      "id": 123,
+      "startMs": 762800,
+      "endMs": 764960,
+      "en": "Bernd Debusmann in Washington.",
+      "zh": "伯恩德·德布斯曼在华盛顿报道。"
+    },
+    {
+      "id": 124,
+      "startMs": 765440,
+      "endMs": 772800,
+      "en": "FIFA has denounced what it's called a concerted and ongoing effort to undermine its president, Gianni Infantino.",
+      "zh": "国际足联谴责了其所谓“有组织且持续进行的”破坏该组织主席詹尼·因凡蒂诺声誉的行动。"
+    },
+    {
+      "id": 125,
+      "startMs": 773280,
+      "endMs": 783600,
+      "en": "He's fighting for his future after his aborted plan to sell stakes in the World Cup and other football competitions to private investors led to calls for him to resign.",
+      "zh": "在他向私人投资者出售世界杯及其他足球赛事权益的计划流产并引发辞职呼声后，他正为自己的前途而战。"
+    },
+    {
+      "id": 126,
+      "startMs": 784080,
+      "endMs": 785920,
+      "en": "Here's our sports correspondent, Dale Johnson.",
+      "zh": "下面是本台体育记者戴尔·约翰逊的报道。"
+    },
+    {
+      "id": 127,
+      "startMs": 786240,
+      "endMs": 788400,
+      "en": "This statement follows a Daily Telegraph report",
+      "zh": "这份声明发布前，《每日电讯报》曾报道，"
+    },
+    {
+      "id": 128,
+      "startMs": 788480,
+      "endMs": 796640,
+      "en": "that a woman who's alleged to have been in a relationship with Mr Infantino was given a severance payment by European football's governing body, UEFA.",
+      "zh": "一名据称曾与因凡蒂诺有恋爱关系的女子，获得了欧洲足球管理机构欧足联支付的离职补偿金。"
+    },
+    {
+      "id": 129,
+      "startMs": 797280,
+      "endMs": 800400,
+      "en": "Mr Infantino has strongly denied those allegations.",
+      "zh": "因凡蒂诺强烈否认这些指控。"
+    },
+    {
+      "id": 130,
+      "startMs": 800960,
+      "endMs": 809440,
+      "en": "He's been under increasing pressure since he abandoned a plan to sell off stakes in competitions, including the World Cup, to a private investment company.",
+      "zh": "自从他放弃向一家私人投资公司出售包括世界杯在内的赛事权益后，他所承受的压力不断增加。"
+    },
+    {
+      "id": 131,
+      "startMs": 810000,
+      "endMs": 820000,
+      "en": "In a statement issued tonight, FIFA hit out at what it called unsubstantiated assertions and demonstrably false claims, but did not specify the reporting it was referring to.",
+      "zh": "国际足联在今晚发布的声明中抨击了其所谓“未经证实的说法”和“明显虚假的指控”，但没有说明所指的是哪篇报道。"
+    },
+    {
+      "id": 132,
+      "startMs": 820800,
+      "endMs": 830180,
+      "en": "It added that the future of its presidency should be decided by established democratic processes and not be the subject of allegation, insinuation or misinformation.",
+      "zh": "声明还称，国际足联主席职位的未来应由既定的民主程序决定，不应由指控、影射或错误信息左右。"
+    },
+    {
+      "id": 133,
+      "startMs": 830980,
+      "endMs": 836420,
+      "en": "Mr Infantino is due to stand for election for a fourth term as FIFA president next March.",
+      "zh": "因凡蒂诺定于明年3月竞选国际足联主席的第四个任期。"
+    },
+    {
+      "id": 134,
+      "startMs": 836940,
+      "endMs": 837900,
+      "en": "Dale Johnson.",
+      "zh": "戴尔·约翰逊报道。"
+    },
+    {
+      "id": 135,
+      "startMs": 840720,
+      "endMs": 848800,
+      "en": "Still to come in this podcast: There's definitely a stigma, but becoming a father, being present, that was more important for me.",
+      "zh": "本期节目稍后还有：这种污名肯定存在，但对我而言，成为父亲、陪伴在孩子身边更加重要。"
+    },
+    {
+      "id": 136,
+      "startMs": 849200,
+      "endMs": 853200,
+      "en": "The Japanese men breaking gender stereotypes to take paternity leave.",
+      "zh": "打破性别刻板印象、休陪产假的日本男性。"
+    },
+    {
+      "id": 137,
+      "startMs": 853200,
+      "endMs": 855040,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 138,
+      "startMs": 855840,
+      "endMs": 864080,
+      "en": "Now to Canada, where thousands of people are fleeing their homes as a raging wildfire in British Columbia has doubled in size and is spreading quickly.",
+      "zh": "现在来看加拿大。卑诗省一场猛烈山火的面积已经扩大一倍，并在迅速蔓延，数千人正在逃离家园。"
+    },
+    {
+      "id": 139,
+      "startMs": 864640,
+      "endMs": 869600,
+      "en": "The authorities say they're doing everything they can, but say the blaze is out of control.",
+      "zh": "当局表示正竭尽所能，但称火势已经失控。"
+    },
+    {
+      "id": 140,
+      "startMs": 870160,
+      "endMs": 872080,
+      "en": "The province's premier is David Eby.",
+      "zh": "该省省长是戴维·伊比。"
+    },
+    {
+      "id": 141,
+      "startMs": 872080,
+      "endMs": 876640,
+      "en": "Conditions are extremely dangerous and changing minute by minute.",
+      "zh": "情况极其危险，而且每分钟都在变化。"
+    },
+    {
+      "id": 142,
+      "startMs": 877040,
+      "endMs": 879200,
+      "en": "The fires are moving incredibly quickly.",
+      "zh": "火势蔓延得极快。"
+    },
+    {
+      "id": 143,
+      "startMs": 879600,
+      "endMs": 881840,
+      "en": "Please follow the directions of local officials.",
+      "zh": "请遵从当地官员的指示。"
+    },
+    {
+      "id": 144,
+      "startMs": 882080,
+      "endMs": 885600,
+      "en": "I know many families are facing an unimaginable day today.",
+      "zh": "我知道，许多家庭今天正面对难以想象的一天。"
+    },
+    {
+      "id": 145,
+      "startMs": 886000,
+      "endMs": 888800,
+      "en": "People have lost their homes, and many people have been displaced.",
+      "zh": "一些人失去了家园，许多人被迫流离失所。"
+    },
+    {
+      "id": 146,
+      "startMs": 889120,
+      "endMs": 890640,
+      "en": "Others are waiting for news about loved ones.",
+      "zh": "另一些人则在等待亲人的消息。"
+    },
+    {
+      "id": 147,
+      "startMs": 890960,
+      "endMs": 895520,
+      "en": "Support is being mobilized, including emergency accommodation and other essential services.",
+      "zh": "支援力量正在调集，包括紧急住宿和其他基本服务。"
+    },
+    {
+      "id": 148,
+      "startMs": 895920,
+      "endMs": 899360,
+      "en": "I got more details from our reporter, Alfie Habershon.",
+      "zh": "本台记者阿尔菲·哈伯申介绍了更多详情。"
+    },
+    {
+      "id": 149,
+      "startMs": 899760,
+      "endMs": 903760,
+      "en": "The footage that is coming out of British Columbia is truly, truly chilling.",
+      "zh": "从卑诗省传出的画面确实、确实令人不寒而栗。"
+    },
+    {
+      "id": 150,
+      "startMs": 904080,
+      "endMs": 912640,
+      "en": "We've seen videos of the night sky completely lit up in red, with these enormous and ferocious blazing flames. They're reaching far, far above the height of the top of the trees.",
+      "zh": "我们看到视频中夜空被彻底映成红色，巨大而猛烈的火焰熊熊燃烧，远远高过树梢。"
+    },
+    {
+      "id": 151,
+      "startMs": 912740,
+      "endMs": 919380,
+      "en": "And as you mentioned, it really speaks to how sort of fast this is moving, how out of control it really seems.",
+      "zh": "正如你提到的，这确实反映出火势蔓延得有多快，看起来又有多么失控。"
+    },
+    {
+      "id": 152,
+      "startMs": 919700,
+      "endMs": 925540,
+      "en": "The regional fire service have sort of confirmed this by saying it may be the quickest-moving wildfire they've ever seen.",
+      "zh": "地区消防部门也多少证实了这一点，称这可能是他们见过蔓延速度最快的山火。"
+    },
+    {
+      "id": 153,
+      "startMs": 925860,
+      "endMs": 933540,
+      "en": "It started on Friday, it's now twice as big, it shows no signs of calming down, and in terms of size, it's now at this point about 9,500 hectares.",
+      "zh": "山火始于周五，如今面积已经扩大一倍，没有任何减弱迹象，目前面积约为9500公顷。"
+    },
+    {
+      "id": 154,
+      "startMs": 933540,
+      "endMs": 937300,
+      "en": "For context, that's about the size of Paris.",
+      "zh": "作为参照，这大约相当于巴黎的面积。"
+    },
+    {
+      "id": 155,
+      "startMs": 937540,
+      "endMs": 939780,
+      "en": "So we are in an official state of emergency now.",
+      "zh": "因此，现在已经正式进入紧急状态。"
+    },
+    {
+      "id": 156,
+      "startMs": 940100,
+      "endMs": 943380,
+      "en": "Okay, and and Alfie, people are being urged to get out fast as well.",
+      "zh": "好的，阿尔菲，人们也被敦促尽快撤离。"
+    },
+    {
+      "id": 157,
+      "startMs": 943860,
+      "endMs": 946900,
+      "en": "Yes, we've been hearing that homes are being lost, buildings are getting destroyed,",
+      "zh": "是的，我们不断听到房屋被烧毁、建筑物遭到破坏的消息，"
+    },
+    {
+      "id": 158,
+      "startMs": 946900,
+      "endMs": 949620,
+      "en": "although we don't know what the scale of the damage really is right now,",
+      "zh": "尽管目前尚不清楚实际损失规模，"
+    },
+    {
+      "id": 159,
+      "startMs": 949860,
+      "endMs": 957060,
+      "en": "More than 20,000 people have been evacuated as the firefighters and the first responders are trying to rush in and turn this around.",
+      "zh": "已有超过2万人被疏散，消防员和应急人员正迅速进入灾区，努力扭转局面。"
+    },
+    {
+      "id": 160,
+      "startMs": 957060,
+      "endMs": 960180,
+      "en": "The authorities are saying they are really trying to do everything they can here,",
+      "zh": "当局表示，他们确实在这里尽一切努力，"
+    },
+    {
+      "id": 161,
+      "startMs": 960500,
+      "endMs": 966660,
+      "en": "but people are also getting trapped in the blaze as they try to get out, and that's making this rescue effort much, much more complicated.",
+      "zh": "但一些人在试图撤离时也被困在火场中，这让救援工作变得复杂得多、困难得多。"
+    },
+    {
+      "id": 162,
+      "startMs": 966980,
+      "endMs": 969860,
+      "en": "And don't forget, this part of Western Canada, it's a rural area.",
+      "zh": "别忘了，加拿大西部的这一地区属于乡村地区。"
+    },
+    {
+      "id": 163,
+      "startMs": 970100,
+      "endMs": 972740,
+      "en": "There's a lot of farm animals, and particularly horses, that are living here.",
+      "zh": "这里生活着许多农场动物，尤其是马匹。"
+    },
+    {
+      "id": 164,
+      "startMs": 972760,
+      "endMs": 977800,
+      "en": "And people are left with this dilemma that when they try to escape, they cannot take these animals with them.",
+      "zh": "人们因此陷入两难：逃生时无法把这些动物一起带走。"
+    },
+    {
+      "id": 165,
+      "startMs": 977960,
+      "endMs": 985000,
+      "en": "So they're having to just, in kind of desperation, throw the gates open and hope that these animals are going to escape by themselves or find their own way back.",
+      "zh": "所以他们只好近乎绝望地打开大门，希望动物能够自行逃生，或自己找到回去的路。"
+    },
+    {
+      "id": 166,
+      "startMs": 985080,
+      "endMs": 993080,
+      "en": "And some people are even resorting to putting specific markings on their animals to hope that they might be able to identify them at some time later on.",
+      "zh": "有些人甚至在动物身上做特殊标记，希望日后或许能够认出它们。"
+    },
+    {
+      "id": 167,
+      "startMs": 993400,
+      "endMs": 1000440,
+      "en": "So for the people who have actually managed to get out safely, it's a really distressing situation because they just don't know what they're going to return to.",
+      "zh": "对于那些已经成功安全撤离的人来说，这种处境非常令人痛苦，因为他们根本不知道回去后会面对什么。"
+    },
+    {
+      "id": 168,
+      "startMs": 1000440,
+      "endMs": 1007000,
+      "en": "I don't know whether my house is gone or still there or not, but that fire came so fast and furious.",
+      "zh": "我不知道自己的房子是已经没了，还是仍在那里，但那场大火来得又快又猛。"
+    },
+    {
+      "id": 169,
+      "startMs": 1007000,
+      "endMs": 1013980,
+      "en": "Here's how the fire went from 50 hectares to 400 to 1,000 to 5,000, like within two or three hours,",
+      "zh": "这场火就是这样从50公顷扩大到400公顷、1000公顷，再到5000公顷，仿佛只用了两三个小时，"
+    },
+    {
+      "id": 170,
+      "startMs": 1014620,
+      "endMs": 1019260,
+      "en": "and what was once 15 kilometres away is now right here at the hill.",
+      "zh": "原本15公里外的火，现在已经到了眼前这座山上。"
+    },
+    {
+      "id": 171,
+      "startMs": 1019660,
+      "endMs": 1025020,
+      "en": "It sounds more and more depressing and distressing when you hear these stories, especially what we've been hearing over Europe in recent weeks,",
+      "zh": "听到这些故事越来越让人沮丧和痛苦，尤其是最近几周我们从欧洲听到的情况，"
+    },
+    {
+      "id": 172,
+      "startMs": 1025020,
+      "endMs": 1029340,
+      "en": "and what you've just talked about there. So, therefore, I can imagine a lot of people then raising questions:",
+      "zh": "以及你刚才所说的这些。因此，我能想象许多人会提出疑问："
+    },
+    {
+      "id": 173,
+      "startMs": 1029340,
+      "endMs": 1036700,
+      "en": "So, how well-prepared are countries? And now there are more intense and more frequent these wildfires, yeah.",
+      "zh": "面对如今更猛烈、更频繁的山火，各国究竟准备得有多充分？是的。"
+    },
+    {
+      "id": 174,
+      "startMs": 1036700,
+      "endMs": 1041340,
+      "en": "Yeah, well, this is something that governments around the world are really going to have to sit with now.",
+      "zh": "是的，这是世界各国政府现在必须认真思考的问题。"
+    },
+    {
+      "id": 175,
+      "startMs": 1041580,
+      "endMs": 1047740,
+      "en": "Is it acceptable for people to be losing their homes, possibly losing their lives over something that could, in theory, be preventable?",
+      "zh": "人们因理论上可以预防的事情失去家园、甚至可能丧命，这可以接受吗？"
+    },
+    {
+      "id": 176,
+      "startMs": 1048060,
+      "endMs": 1055820,
+      "en": "We know these wildfires are getting more common, and this particular case is a good example of how they're becoming faster and more ferocious.",
+      "zh": "我们知道，这类山火越来越常见，而这起事件很好地说明了它们正变得更迅猛、更猛烈。"
+    },
+    {
+      "id": 177,
+      "startMs": 1056220,
+      "endMs": 1062940,
+      "en": "You know, people make the point that we've known about this trend for a while now, and they're starting to say that we are simply, evidently, just not prepared for it.",
+      "zh": "你知道，人们指出，我们早就已经了解这一趋势，而他们开始认为，很明显，我们根本没有为此做好准备。"
+    },
+    {
+      "id": 178,
+      "startMs": 1063420,
+      "endMs": 1064780,
+      "en": "Alfie Habershon reporting.",
+      "zh": "阿尔菲·哈伯申报道。"
+    },
+    {
+      "id": 179,
+      "startMs": 1065880,
+      "endMs": 1070360,
+      "en": "In the occupied West Bank, thousands of ancient sites remain unexcavated.",
+      "zh": "在被占领的约旦河西岸，数千处古代遗址仍未得到发掘。"
+    },
+    {
+      "id": 180,
+      "startMs": 1070520,
+      "endMs": 1076360,
+      "en": "But Palestinians say Israel is expropriating land to solidify its control of the territory.",
+      "zh": "但巴勒斯坦人称，以色列正在征用土地，以巩固其对该地区的控制。"
+    },
+    {
+      "id": 181,
+      "startMs": 1077000,
+      "endMs": 1081560,
+      "en": "Israel disputes that, saying it's simply protecting and preserving its heritage.",
+      "zh": "以色列对此提出异议，称其只是在保护和保存自身的文化遗产。"
+    },
+    {
+      "id": 182,
+      "startMs": 1082040,
+      "endMs": 1092600,
+      "en": "But a UNESCO move to add Sebastia near Nablus to both its World Heritage List and its List of World Heritage in Danger has brought the dispute into sharper focus.",
+      "zh": "但联合国教科文组织将纳布卢斯附近的塞巴斯蒂亚同时列入《世界遗产名录》和《濒危世界遗产名录》的举措，让这场争议更加受到关注。"
+    },
+    {
+      "id": 183,
+      "startMs": 1093000,
+      "endMs": 1095960,
+      "en": "Sebastian Usher has this special report from Sebastia.",
+      "zh": "塞巴斯蒂安·厄舍从塞巴斯蒂亚发回特别报道。"
+    },
+    {
+      "id": 184,
+      "startMs": 1098660,
+      "endMs": 1105140,
+      "en": "Up in the hills above the Roman columns of Sebastia are olive fields that have been cultivated for generations by Palestinian families.",
+      "zh": "在塞巴斯蒂亚罗马柱上方的山丘上，是巴勒斯坦家庭世代耕种的橄榄园。"
+    },
+    {
+      "id": 185,
+      "startMs": 1105540,
+      "endMs": 1109140,
+      "en": "It's a vital income for them, of course, but it goes deeper than that.",
+      "zh": "这些橄榄园当然是他们重要的收入来源，但意义远不止于此。"
+    },
+    {
+      "id": 186,
+      "startMs": 1109220,
+      "endMs": 1111780,
+      "en": "As one of those landowners, Abu Madi, explains:",
+      "zh": "其中一位土地主阿布·马迪解释说："
+    },
+    {
+      "id": 187,
+      "startMs": 1112020,
+      "endMs": 1118340,
+      "en": "Every tree has received more of my attention than my children, more than my family, and more than myself.",
+      "zh": "每一棵树得到的关心都超过了我的孩子、我的家人，甚至我自己。"
+    },
+    {
+      "id": 188,
+      "startMs": 1119060,
+      "endMs": 1125220,
+      "en": "Abu Madi says he's now received notification that his land is part of a tranche of around 450 acres",
+      "zh": "阿布·马迪说，他如今接到通知，自己的土地被划入一片约450英亩的地块，"
+    },
+    {
+      "id": 189,
+      "startMs": 1125220,
+      "endMs": 1132660,
+      "en": "that the Israeli authorities are taking possession of in order to develop a new national park in the archaeological site.",
+      "zh": "以色列当局正在接管这片土地，以便在考古遗址内开发一座新的国家公园。"
+    },
+    {
+      "id": 190,
+      "startMs": 1132660,
+      "endMs": 1142980,
+      "en": "Standing on a path between the car park at the ancient site of Sebastia, where the Roman-era forum once stood, and the columns of the basilica,",
+      "zh": "在塞巴斯蒂亚古遗址的一条小路上，一边是曾经矗立着古罗马广场的停车场，另一边是大教堂的石柱，"
+    },
+    {
+      "id": 191,
+      "startMs": 1143300,
+      "endMs": 1148980,
+      "en": "the mayor of Sebastia, Mohammad Azem, looks down to his right at some rubbish left in the ruins.",
+      "zh": "塞巴斯蒂亚市长穆罕默德·阿泽姆低头看向右侧，那里有一些垃圾留在遗迹中。"
+    },
+    {
+      "id": 192,
+      "startMs": 1149380,
+      "endMs": 1155140,
+      "en": "He says that as Israeli control tightens, local people no longer feel free to clean the site.",
+      "zh": "他说，随着以色列的控制收紧，当地人觉得自己已无法再自由清理遗址。"
+    },
+    {
+      "id": 193,
+      "startMs": 1155620,
+      "endMs": 1165720,
+      "en": "Nahed Sakka, who owns a local restaurant that is under threat of demolition, says the Israeli plan seems to be to cut Palestinian residents off from the archaeological site.",
+      "zh": "当地餐馆老板纳赫德·萨卡的店面临拆除威胁。他说，以色列的计划似乎是要切断巴勒斯坦居民与这处考古遗址的联系。"
+    },
+    {
+      "id": 194,
+      "startMs": 1166040,
+      "endMs": 1168440,
+      "en": "In the middle of the ancient Roman theatre,",
+      "zh": "在古罗马剧场中央，"
+    },
+    {
+      "id": 195,
+      "startMs": 1168440,
+      "endMs": 1176120,
+      "en": "an Israeli activist, Alon Arad, who heads a group that aims to ensure that the ancient heritage of the region belongs to all communities,",
+      "zh": "以色列活动人士阿隆·阿拉德领导着一个团体，致力于确保该地区的古代遗产属于所有社群。"
+    },
+    {
+      "id": 196,
+      "startMs": 1176440,
+      "endMs": 1182680,
+      "en": "says the Israeli authorities have bypassed consultation with the local administration and residents of Sebastia.",
+      "zh": "他说，以色列当局绕过了与塞巴斯蒂亚地方行政部门及居民的协商。"
+    },
+    {
+      "id": 197,
+      "startMs": 1183320,
+      "endMs": 1186680,
+      "en": "The thing is that Israel is not the owner of this place.",
+      "zh": "问题在于，以色列并不是这个地方的所有者。"
+    },
+    {
+      "id": 198,
+      "startMs": 1186680,
+      "endMs": 1194920,
+      "en": "This is a Palestinian heritage site, and in order to do it in a positive way, it has to be done with the local community,",
+      "zh": "这是巴勒斯坦的遗产地。要以积极的方式推进相关工作，就必须与当地社群合作，"
+    },
+    {
+      "id": 199,
+      "startMs": 1194920,
+      "endMs": 1198360,
+      "en": "with the municipality, in order for them to benefit.",
+      "zh": "也要与市政部门合作，让他们从中受益。"
+    },
+    {
+      "id": 200,
+      "startMs": 1202480,
+      "endMs": 1208880,
+      "en": "Further to the south in the West Bank, and just in sight of Jerusalem, a man-made hill rises at Herodium,",
+      "zh": "在约旦河西岸更南边、刚好可以望见耶路撒冷的地方，希律堡矗立着一座人工山丘，"
+    },
+    {
+      "id": 201,
+      "startMs": 1209200,
+      "endMs": 1217600,
+      "en": "with an extraordinary palace built on its summit by King Herod, who ruled these lands more than 2,000 years ago, before the birth of Christ.",
+      "zh": "山顶上有一座非凡的宫殿，由希律王建造。他在两千多年前、基督诞生之前统治这片土地。"
+    },
+    {
+      "id": 202,
+      "startMs": 1218160,
+      "endMs": 1228000,
+      "en": "Recently, here too, Israel has begun to expropriate land, this time around 80 acres, for what it says is the preservation and development of the site.",
+      "zh": "最近，以色列也开始在这里征用土地，这次约为80英亩；以色列称，这是为了保护和开发该遗址。"
+    },
+    {
+      "id": 203,
+      "startMs": 1228640,
+      "endMs": 1234320,
+      "en": "For Shmuel Browns, who's worked on excavations here and leads deeply-infused tours when there's a call,",
+      "zh": "什穆埃尔·布朗斯曾在这里参与发掘，也会应邀带领内容深入的导览。在他看来，"
+    },
+    {
+      "id": 204,
+      "startMs": 1234640,
+      "endMs": 1242560,
+      "en": "it's vital for Israeli archaeologists and officials to be able to oversee and protect places that are so freighted with significance.",
+      "zh": "让以色列考古学家和官员能够监督并保护这些承载着重大意义的地方至关重要。"
+    },
+    {
+      "id": 205,
+      "startMs": 1243200,
+      "endMs": 1254340,
+      "en": "The way we decide whether Herod was here is by finding a coin from Herod, or pottery that can be dated to the time of Herod, right here.",
+      "zh": "我们判断希律是否曾在这里的方式，就是在此地找到希律时期的硬币，或可以追溯至希律时代的陶器。"
+    },
+    {
+      "id": 206,
+      "startMs": 1254980,
+      "endMs": 1262900,
+      "en": "A new law was proposed earlier this year that would have given the Heritage Ministry sweeping powers to take control of land across the whole of the West Bank.",
+      "zh": "今年早些时候曾提出一项新法律，拟赋予遗产部广泛权力，使其可以接管整个约旦河西岸的土地。"
+    },
+    {
+      "id": 207,
+      "startMs": 1263300,
+      "endMs": 1267860,
+      "en": "It's now on hold as elections are coming up in Israel, and it may never re-emerge.",
+      "zh": "随着以色列选举临近，该法案目前已被搁置，而且可能永远不会再被提出。"
+    },
+    {
+      "id": 208,
+      "startMs": 1268420,
+      "endMs": 1274020,
+      "en": "Back in Sebastia, the Israeli activist Alon Arad says the very fact that the bill was put forward—",
+      "zh": "回到塞巴斯蒂亚，以色列活动人士阿隆·阿拉德说，这项法案曾被提出这一事实本身——"
+    },
+    {
+      "id": 209,
+      "startMs": 1274340,
+      "endMs": 1279460,
+      "en": "shows how even the extraordinary archaeological riches of the West Bank have been weaponized.",
+      "zh": "就表明约旦河西岸非凡的考古财富也被武器化了。"
+    },
+    {
+      "id": 210,
+      "startMs": 1279860,
+      "endMs": 1282340,
+      "en": "This is exactly how the mechanism works.",
+      "zh": "这正是这一机制的运作方式。"
+    },
+    {
+      "id": 211,
+      "startMs": 1282820,
+      "endMs": 1294340,
+      "en": "You use archaeology in order to do excavations, to rewrite history, but you also use it in order to reallocate lands from Palestinian to Israeli.",
+      "zh": "你利用考古进行发掘、重写历史，同时也利用它把土地从巴勒斯坦人手中重新分配给以色列人。"
+    },
+    {
+      "id": 212,
+      "startMs": 1294900,
+      "endMs": 1302100,
+      "en": "Despite the new law being on hold and the intervention by UNESCO, landowners fear their fortunes may never revive",
+      "zh": "尽管新法律已被搁置，联合国教科文组织也进行了干预，土地主们仍担心自己的处境可能永远无法好转，"
+    },
+    {
+      "id": 213,
+      "startMs": 1302500,
+      "endMs": 1311300,
+      "en": "if the Israeli authorities increase their control of the site, effectively removing it from the custodianship of its local Palestinian population.",
+      "zh": "如果以色列当局加强对遗址的控制，实际上就会剥夺当地巴勒斯坦居民对遗址的管理权。"
+    },
+    {
+      "id": 214,
+      "startMs": 1311960,
+      "endMs": 1312920,
+      "en": "Sebastian Usher.",
+      "zh": "塞巴斯蒂安·厄舍报道。"
+    },
+    {
+      "id": 215,
+      "startMs": 1314040,
+      "endMs": 1324360,
+      "en": "Despite men in Japan being allowed to take time off work when their children are born, deep-rooted gender stereotypes have largely stopped them doing so until recently.",
+      "zh": "尽管日本男性在孩子出生时可以休假，但根深蒂固的性别刻板印象直到最近仍让他们大多不敢这样做。"
+    },
+    {
+      "id": 216,
+      "startMs": 1324840,
+      "endMs": 1330120,
+      "en": "The latest figures show that, for the first time, more than half of Japanese men now take paternity leave.",
+      "zh": "最新数据显示，日本休育儿假的男性比例首次超过一半。"
+    },
+    {
+      "id": 217,
+      "startMs": 1330680,
+      "endMs": 1339080,
+      "en": "One early adopter was the writer Shu Matsuo, who also challenged convention by taking his wife's name when he got married.",
+      "zh": "作家松尾修是较早休育儿假的人之一。他结婚时随妻姓，也以此挑战了传统。"
+    },
+    {
+      "id": 218,
+      "startMs": 1339480,
+      "endMs": 1343720,
+      "en": "He told my colleague Owen Bennett-Jones about his decision to take paternity leave.",
+      "zh": "他向我的同事欧文·贝内特-琼斯讲述了自己休育儿假的决定。"
+    },
+    {
+      "id": 219,
+      "startMs": 1344280,
+      "endMs": 1349720,
+      "en": "All the stories that I was making up in my head made it more difficult than it actually was.",
+      "zh": "我脑中想象出的种种情况，让这件事显得比实际困难得多。"
+    },
+    {
+      "id": 220,
+      "startMs": 1349800,
+      "endMs": 1356600,
+      "en": "But when I actually opened up to my boss, he was super understanding, and the process was very simple and straightforward.",
+      "zh": "但当我真的向老板坦诚提出时，他非常理解，整个过程也十分简单顺利。"
+    },
+    {
+      "id": 221,
+      "startMs": 1356600,
+      "endMs": 1360760,
+      "en": "So I'm very grateful to have understanding boss at the time.",
+      "zh": "所以我很庆幸当时有一位善解人意的老板。"
+    },
+    {
+      "id": 222,
+      "startMs": 1361000,
+      "endMs": 1366600,
+      "en": "Yeah, because I guess most men at that time, and maybe some now, would think, you know, that would affect their promotion prospects.",
+      "zh": "是的，因为我想，当时大多数男性，或许现在仍有一些人，会觉得这会影响自己的晋升前景。"
+    },
+    {
+      "id": 223,
+      "startMs": 1366600,
+      "endMs": 1369720,
+      "en": "It could be difficult to ask and damaging to their career.",
+      "zh": "提出申请可能很难，也可能损害职业发展。"
+    },
+    {
+      "id": 224,
+      "startMs": 1369960,
+      "endMs": 1371640,
+      "en": "Yeah, there's definitely a stigma.",
+      "zh": "是的，这确实带有一种污名。"
+    },
+    {
+      "id": 225,
+      "startMs": 1371660,
+      "endMs": 1375580,
+      "en": "At least six years ago, when I went through it, you know, I thought about that as well.",
+      "zh": "至少六年前我经历这件事时，也考虑过这个问题。"
+    },
+    {
+      "id": 226,
+      "startMs": 1375660,
+      "endMs": 1387580,
+      "en": "But becoming a father, being present, and going through the process, you know, with my wife together, that was more important for me than, like, an immediate career, I guess.",
+      "zh": "但成为父亲、陪伴在场，并和妻子一起经历这个过程，对我来说比眼前的事业更重要，我想是这样。"
+    },
+    {
+      "id": 227,
+      "startMs": 1387820,
+      "endMs": 1395020,
+      "en": "Well, many have followed your example, and one of the striking things is how rapidly sentiment is changing on this issue in Japan.",
+      "zh": "很多人已经效仿你的做法。一个引人注目的现象是，日本社会对这一问题的看法正迅速改变。"
+    },
+    {
+      "id": 228,
+      "startMs": 1395100,
+      "endMs": 1396060,
+      "en": "Why is that, do you think?",
+      "zh": "你认为这是为什么？"
+    },
+    {
+      "id": 229,
+      "startMs": 1396380,
+      "endMs": 1405900,
+      "en": "I think one of the biggest reasons is that many companies have to disclose a number or percentage of male workers to take paternity leave,",
+      "zh": "我认为最主要的原因之一，是许多公司必须披露休育儿假的男性员工人数或比例，"
+    },
+    {
+      "id": 230,
+      "startMs": 1406140,
+      "endMs": 1410140,
+      "en": "and I think that's really pushing, holding those companies accountable.",
+      "zh": "我认为，这确实在推动并督促这些公司承担责任。"
+    },
+    {
+      "id": 231,
+      "startMs": 1410300,
+      "endMs": 1414540,
+      "en": "Also, at the personal level, I think more people are just talking about it.",
+      "zh": "另外，在个人层面，我觉得越来越多人开始谈论这件事。"
+    },
+    {
+      "id": 232,
+      "startMs": 1414540,
+      "endMs": 1416780,
+      "en": "You see that on the news, in newspapers.",
+      "zh": "你会在新闻和报纸上看到相关讨论。"
+    },
+    {
+      "id": 233,
+      "startMs": 1416940,
+      "endMs": 1421900,
+      "en": "So I think that's holding more men accountable, and I'm—it's really good to see that.",
+      "zh": "所以我认为，这让更多男性承担起责任，而我——看到这种变化真的很好。"
+    },
+    {
+      "id": 234,
+      "startMs": 1422060,
+      "endMs": 1425340,
+      "en": "Yeah, it's interesting. The government really is supportive of this, isn't it?",
+      "zh": "是的，这很有意思。政府确实很支持这种做法，对吧？"
+    },
+    {
+      "id": 235,
+      "startMs": 1425340,
+      "endMs": 1430140,
+      "en": "You can get as much as 12 months' paid parental leave as a father. Correct, yeah.",
+      "zh": "父亲最多可以享受12个月的带薪育儿假。没错，是的。"
+    },
+    {
+      "id": 236,
+      "startMs": 1430380,
+      "endMs": 1436560,
+      "en": "Many people will be listening to this in countries where these rights are just not—this sort of thing just never happens.",
+      "zh": "许多听众所在的国家根本没有这样的权利——这种事情从未发生过。"
+    },
+    {
+      "id": 237,
+      "startMs": 1436560,
+      "endMs": 1441680,
+      "en": "What would you say to people living in those societies about the value of taking paternity leave?",
+      "zh": "对于生活在这些社会的人，你会如何说明休育儿假的价值？"
+    },
+    {
+      "id": 238,
+      "startMs": 1441840,
+      "endMs": 1443680,
+      "en": "I'm going to speak from my personal experience.",
+      "zh": "我想从个人经历谈起。"
+    },
+    {
+      "id": 239,
+      "startMs": 1443840,
+      "endMs": 1446240,
+      "en": "It was overall very, very positive.",
+      "zh": "总体而言，这段经历非常、非常积极。"
+    },
+    {
+      "id": 240,
+      "startMs": 1446400,
+      "endMs": 1449760,
+      "en": "It gave me a lot of new perspective as a new father.",
+      "zh": "作为一个新手父亲，它给了我许多新的视角。"
+    },
+    {
+      "id": 241,
+      "startMs": 1450000,
+      "endMs": 1456880,
+      "en": "You know, my parents' generations, they grew up believing that, you know, men were supposed to go to work",
+      "zh": "你知道，我父母那一代人从小就相信，男性应该出去工作，"
+    },
+    {
+      "id": 242,
+      "startMs": 1457040,
+      "endMs": 1461760,
+      "en": "and women are supposed to stay back home and, you know, raise kids, and I think many people still do.",
+      "zh": "女性应该留在家里抚养孩子。我想很多人现在仍持有这种观念。"
+    },
+    {
+      "id": 243,
+      "startMs": 1461920,
+      "endMs": 1463920,
+      "en": "So that really challenged my belief.",
+      "zh": "所以这确实挑战了我的固有观念。"
+    },
+    {
+      "id": 244,
+      "startMs": 1464160,
+      "endMs": 1468320,
+      "en": "And being a provider doesn't necessarily mean just making money.",
+      "zh": "而承担养家责任并不一定只意味着挣钱。"
+    },
+    {
+      "id": 245,
+      "startMs": 1468400,
+      "endMs": 1471040,
+      "en": "You know, you can actually be present with your child.",
+      "zh": "你也可以真正陪伴在孩子身边。"
+    },
+    {
+      "id": 246,
+      "startMs": 1471680,
+      "endMs": 1473040,
+      "en": "Shu Matsuo.",
+      "zh": "以上是松尾修。"
+    },
+    {
+      "id": 247,
+      "startMs": 1473980,
+      "endMs": 1480860,
+      "en": "With AI companies having already scraped the internet for training data, they're now turning towards physical literature.",
+      "zh": "人工智能公司已经从互联网上抓取了训练数据，如今又把目光投向了实体书籍。"
+    },
+    {
+      "id": 248,
+      "startMs": 1481420,
+      "endMs": 1489900,
+      "en": "There's growing concern over old books being bought, scanned and destroyed to improve artificial intelligence, as Anna Aslam reports.",
+      "zh": "人们日益担忧，旧书正被买下、扫描并销毁，用于改进人工智能。安娜·阿斯拉姆报道。"
+    },
+    {
+      "id": 249,
+      "startMs": 1490300,
+      "endMs": 1494780,
+      "en": "In an effort to improve AI for the future, tech companies are looking to the past.",
+      "zh": "为了改进未来的人工智能，科技公司正在回望过去。"
+    },
+    {
+      "id": 250,
+      "startMs": 1495180,
+      "endMs": 1502620,
+      "en": "The practice of destructive scanning, where old books are bought in bulk, scanned to train large language models and then destroyed,",
+      "zh": "所谓“毁坏式扫描”，是指批量购买旧书、扫描其内容以训练大型语言模型，随后将书销毁。"
+    },
+    {
+      "id": 251,
+      "startMs": 1502940,
+      "endMs": 1505340,
+      "en": "is now understood to be widespread in the industry.",
+      "zh": "如今，这种做法被认为在业内相当普遍。"
+    },
+    {
+      "id": 252,
+      "startMs": 1505900,
+      "endMs": 1512460,
+      "en": "Booksellers from around the world have recently reported unusual orders for hundreds of old, obscure books at a time.",
+      "zh": "世界各地的书商最近都报告了异常订单，一次购买数百本冷门旧书。"
+    },
+    {
+      "id": 253,
+      "startMs": 1512940,
+      "endMs": 1519100,
+      "en": "Annemarie Thorby, who has a bookshop in New Zealand, said she was suspicious after a strange request from the US.",
+      "zh": "在新西兰经营书店的安妮玛丽·索比说，一份来自美国的奇怪订单让她起了疑心。"
+    },
+    {
+      "id": 254,
+      "startMs": 1519340,
+      "endMs": 1526620,
+      "en": "Orders coming minutes apart, one of them for 71 books, New Zealand local history books, New Zealand Māori books,",
+      "zh": "订单每隔几分钟就出现，其中一单购买了71本书，包括新西兰地方史书籍和新西兰毛利主题书籍，"
+    },
+    {
+      "id": 255,
+      "startMs": 1527180,
+      "endMs": 1531660,
+      "en": "biographies, cartoons, political cartoon books, and we were that naive.",
+      "zh": "还有传记、漫画和政治漫画书，而我们当时就是那么天真。"
+    },
+    {
+      "id": 256,
+      "startMs": 1531660,
+      "endMs": 1535420,
+      "en": "We actually thought, oh, this bookshop's been hacked, and so we emailed them.",
+      "zh": "我们当时真的以为，天哪，这家书店被黑客入侵了，于是便给他们发了邮件。"
+    },
+    {
+      "id": 257,
+      "startMs": 1535500,
+      "endMs": 1537180,
+      "en": "They never got back to us.",
+      "zh": "但他们一直没有回复。"
+    },
+    {
+      "id": 258,
+      "startMs": 1537580,
+      "endMs": 1538940,
+      "en": "So we did a little bit of research.",
+      "zh": "于是我们做了一番调查。"
+    },
+    {
+      "id": 259,
+      "startMs": 1539500,
+      "endMs": 1540940,
+      "en": "It was obviously not human.",
+      "zh": "这显然不是人类所为。"
+    },
+    {
+      "id": 260,
+      "startMs": 1541340,
+      "endMs": 1547580,
+      "en": "It was impossible to believe that these books were being bought for anything other than something like Project Panama.",
+      "zh": "很难相信购买这些书还有“巴拿马项目”之类用途以外的其他目的。"
+    },
+    {
+      "id": 261,
+      "startMs": 1547900,
+      "endMs": 1552700,
+      "en": "Project Panama refers to a copyright lawsuit brought by authors against Anthropic AI,",
+      "zh": "“巴拿马项目”指作家针对人工智能公司 Anthropic 提起的一起版权诉讼，"
+    },
+    {
+      "id": 262,
+      "startMs": 1553180,
+      "endMs": 1559660,
+      "en": "in which unsealed court documents revealed the company's aim was to destructively scan all the books in the world.",
+      "zh": "该案解封的法庭文件显示，这家公司的目标是对全世界所有书籍进行毁坏式扫描。"
+    },
+    {
+      "id": 263,
+      "startMs": 1560380,
+      "endMs": 1567820,
+      "en": "A US judge ruled the practice is fair use, and recent reports suggest intermediaries are now stepping up to facilitate the process.",
+      "zh": "一名美国法官裁定这种做法属于合理使用；近期报道则显示，中间商正加紧为这一过程提供便利。"
+    },
+    {
+      "id": 264,
+      "startMs": 1568380,
+      "endMs": 1574140,
+      "en": "But many people, especially artists, feel uneasy about literature being repurposed in this way.",
+      "zh": "但许多人，尤其是艺术家，对文学作品以这种方式被重新利用感到不安。"
+    },
+    {
+      "id": 265,
+      "startMs": 1574380,
+      "endMs": 1579100,
+      "en": "I think instinctively all of us are not enthused at the idea of anyone destroying books.",
+      "zh": "我想，出于本能，我们所有人对任何人销毁书籍这种想法都不会感到高兴。"
+    },
+    {
+      "id": 266,
+      "startMs": 1579260,
+      "endMs": 1583740,
+      "en": "I would count myself among these people, but I'm also not surprised that the companies are doing it.",
+      "zh": "我也属于这些人，但这些公司会这样做也并不让我意外。"
+    },
+    {
+      "id": 267,
+      "startMs": 1583740,
+      "endMs": 1587020,
+      "en": "As long as it's not sort of regulated away, they will be looking for any kind of edge.",
+      "zh": "只要这种做法没有在某种程度上被监管禁止，他们就会寻找任何可能的优势。"
+    },
+    {
+      "id": 268,
+      "startMs": 1587440,
+      "endMs": 1591760,
+      "en": "It's just another example of how the AI boom—or bubble, you might even call it—",
+      "zh": "这只是又一个例子，说明人工智能热潮——你甚至可以称之为泡沫——"
+    },
+    {
+      "id": 269,
+      "startMs": 1592000,
+      "endMs": 1598400,
+      "en": "is just extracting all the resources that we have to fuel the development of this technology,",
+      "zh": "正在榨取我们拥有的一切资源，为这项技术的发展提供燃料，"
+    },
+    {
+      "id": 270,
+      "startMs": 1598400,
+      "endMs": 1602240,
+      "en": "and that includes water, it includes energy, and apparently, it also includes rare books.",
+      "zh": "这些资源包括水、能源，显然现在也包括珍稀书籍。"
+    },
+    {
+      "id": 271,
+      "startMs": 1602560,
+      "endMs": 1605920,
+      "en": "Anthropic and other companies deny destroying rare books.",
+      "zh": "Anthropic 和其他公司否认销毁珍稀书籍。"
+    },
+    {
+      "id": 272,
+      "startMs": 1606400,
+      "endMs": 1615600,
+      "en": "Tech journalist Emanuel Maiberg explains that, for AI training, a 1970s manual on soil mechanics is more valuable than the Gutenberg Bible.",
+      "zh": "科技记者伊曼纽尔·迈伯格解释说，对于人工智能训练而言，一本20世纪70年代的土壤力学手册比《古腾堡圣经》更有价值。"
+    },
+    {
+      "id": 273,
+      "startMs": 1615680,
+      "endMs": 1624000,
+      "en": "I think when you say rare book, people imagine, like, a first edition of Oliver Twist or the Dead Sea Scrolls or something like that.",
+      "zh": "我想，当你说“珍稀书籍”时，人们会想到《雾都孤儿》初版本、《死海古卷》之类的东西。"
+    },
+    {
+      "id": 274,
+      "startMs": 1624560,
+      "endMs": 1630960,
+      "en": "The content that is in them, it exists online, it exists in other physical copies, it exists in digital copies.",
+      "zh": "这些书里的内容在网上存在，也存在于其他实体副本和数字副本中。"
+    },
+    {
+      "id": 275,
+      "startMs": 1631280,
+      "endMs": 1640640,
+      "en": "What is rare, literally rare, is, for example, I don't know, like a 1994 walking tour guidebook of Denver.",
+      "zh": "真正数量稀少的，举个例子，我也说不准，比如一本1994年的丹佛徒步游览指南。"
+    },
+    {
+      "id": 276,
+      "startMs": 1641040,
+      "endMs": 1643280,
+      "en": "That is not valuable to most people.",
+      "zh": "它对大多数人而言并没有价值。"
+    },
+    {
+      "id": 277,
+      "startMs": 1643280,
+      "endMs": 1648420,
+      "en": "It is not emotionally resonant, it's not culturally resonant, but it is valuable as training data.",
+      "zh": "它既不能引起情感共鸣，也没有文化共鸣，但作为训练数据却很有价值。"
+    },
+    {
+      "id": 278,
+      "startMs": 1648740,
+      "endMs": 1658660,
+      "en": "So yet another ethical dilemma posed by AI: is sacrificing old books to set up the next digital era a technological leap or a cultural loss?",
+      "zh": "这又是人工智能带来的一项伦理难题：牺牲旧书来开启下一个数字时代，究竟是技术飞跃，还是文化损失？"
+    },
+    {
+      "id": 279,
+      "startMs": 1659220,
+      "endMs": 1659860,
+      "en": "Anna Aslam.",
+      "zh": "安娜·阿斯拉姆报道。"
+    },
+    {
+      "id": 280,
+      "startMs": 1662820,
+      "endMs": 1664100,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是本期节目的全部内容。"
+    },
+    {
+      "id": 281,
+      "startMs": 1664100,
+      "endMs": 1669060,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 282,
+      "startMs": 1669540,
+      "endMs": 1674340,
+      "en": "You can also find us on X at @bbcworldservice. Use the hashtag #GlobalNewsPod.",
+      "zh": "你也可以在 X 平台关注 @bbcworldservice，并使用话题标签 #GlobalNewsPod。"
+    },
+    {
+      "id": 283,
+      "startMs": 1674820,
+      "endMs": 1680900,
+      "en": "And don't forget our sister podcast, The Global Story, which goes in-depth and beyond the headlines on one big story.",
+      "zh": "也别忘了我们的姊妹播客《全球故事》，它会围绕一则重大新闻深入探究标题背后的内容。"
+    },
+    {
+      "id": 284,
+      "startMs": 1681460,
+      "endMs": 1684260,
+      "en": "This edition of the Global News Podcast was mixed by Derek Clark.",
+      "zh": "本期《全球新闻播客》由德里克·克拉克混音制作。"
+    },
+    {
+      "id": 285,
+      "startMs": 1684580,
+      "endMs": 1686020,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 286,
+      "startMs": 1686340,
+      "endMs": 1688740,
+      "en": "I'm Ankur Desai. Until next time, goodbye.",
+      "zh": "我是安库尔·德赛。下次再见。"
+    }
+  ]
+}
