@@ -1,0 +1,2146 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "10 August 2026"
+  },
+  "durationMs": 1601620,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3120,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 国际台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6760,
+      "endMs": 11240,
+      "en": "I'm Pete Ross, and in the early hours of Monday, the 10th of August, these are our main stories.",
+      "zh": "我是皮特·罗斯。现在是 8 月 10 日星期一凌晨，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11800,
+      "endMs": 16520,
+      "en": "Israel's Prime Minister Benjamin Netanyahu rejects Washington's peace proposal for Gaza.",
+      "zh": "以色列总理本雅明·内塔尼亚胡拒绝华盛顿提出的加沙和平方案。"
+    },
+    {
+      "id": 4,
+      "startMs": 17160,
+      "endMs": 24360,
+      "en": "A suspected Irish crime boss has appeared in court in Dublin a decade after escaping an assassination attempt and fleeing into exile.",
+      "zh": "一名涉嫌为爱尔兰犯罪集团头目的男子在逃过暗杀并流亡十年后，于都柏林出庭。"
+    },
+    {
+      "id": 5,
+      "startMs": 24840,
+      "endMs": 32520,
+      "en": "And in Western Canada: 20 years ago, it was an exception to have a summer with smoke-filled skies and fires nearby.",
+      "zh": "在加拿大西部，20 年前，夏季出现烟雾弥漫的天空和附近山火还只是例外。"
+    },
+    {
+      "id": 6,
+      "startMs": 32680,
+      "endMs": 37160,
+      "en": "Now, it's an exception not to have it. It's become the new norm, and it's tragic.",
+      "zh": "如今，没有这种情况反倒成了例外。它已成为新常态，令人痛心。"
+    },
+    {
+      "id": 7,
+      "startMs": 37640,
+      "endMs": 41320,
+      "en": "Rapidly spreading wildfires force thousands of people to flee their homes.",
+      "zh": "迅速蔓延的山火迫使数千人逃离家园。"
+    },
+    {
+      "id": 8,
+      "startMs": 44660,
+      "endMs": 52500,
+      "en": "Also in this podcast, why are authorities in the UK spending hundreds of thousands of dollars to remove works by renowned street artist Banksy?",
+      "zh": "本期还有：英国当局为何花费数十万美元移除著名街头艺术家班克西的作品？"
+    },
+    {
+      "id": 9,
+      "startMs": 53060,
+      "endMs": 58660,
+      "en": "And the remarkable discovery of a more than 2,000-year-old Roman shipwreck off the coast of Sicily.",
+      "zh": "以及在西西里岛近海发现一艘两千多年历史的古罗马沉船。"
+    },
+    {
+      "id": 10,
+      "startMs": 63340,
+      "endMs": 68540,
+      "en": "We begin the podcast with the latest on the Trump administration's proposed peace plan for Gaza.",
+      "zh": "节目首先关注特朗普政府所提加沙和平方案的最新进展。"
+    },
+    {
+      "id": 11,
+      "startMs": 69020,
+      "endMs": 75820,
+      "en": "Just over a week ago, President Trump announced a 15-point document that required Hamas to commit to a phased disarmament,",
+      "zh": "一周多前，特朗普总统公布了一份包含 15 点的文件，要求哈马斯承诺分阶段解除武装，"
+    },
+    {
+      "id": 12,
+      "startMs": 76300,
+      "endMs": 80220,
+      "en": "while Israel would be required to withdraw its military forces from the territory.",
+      "zh": "同时要求以色列从该地区撤出军队。"
+    },
+    {
+      "id": 13,
+      "startMs": 80780,
+      "endMs": 87980,
+      "en": "On social media, President Trump described the proposal as a monumental step towards lasting peace and security in the territory.",
+      "zh": "特朗普总统在社交媒体上称，该方案是该地区迈向持久和平与安全的历史性一步。"
+    },
+    {
+      "id": 14,
+      "startMs": 88540,
+      "endMs": 97900,
+      "en": "Hamas almost immediately said it supported the plan on condition that Israel withdrew from Gaza. But until a few hours ago, there had been silence from Jerusalem.",
+      "zh": "哈马斯几乎立即表示支持该方案，条件是以色列撤出加沙。但就在几小时前，耶路撒冷方面仍保持沉默。"
+    },
+    {
+      "id": 15,
+      "startMs": 98060,
+      "endMs": 105900,
+      "en": "Now, Israel's Prime Minister Benjamin Netanyahu has responded by firmly rejecting the plan, which his officials had helped negotiate.",
+      "zh": "如今，以色列总理本雅明·内塔尼亚胡作出回应，坚决拒绝了这份由其官员协助谈判的方案。"
+    },
+    {
+      "id": 16,
+      "startMs": 106380,
+      "endMs": 109580,
+      "en": "Our correspondent John Donnison sent this update from Jerusalem.",
+      "zh": "本台记者约翰·唐尼森从耶路撒冷发来最新报道。"
+    },
+    {
+      "id": 17,
+      "startMs": 112020,
+      "endMs": 114420,
+      "en": "The war in Gaza never really ended.",
+      "zh": "加沙的战争实际上从未真正结束。"
+    },
+    {
+      "id": 18,
+      "startMs": 116100,
+      "endMs": 123300,
+      "en": "More than 1,200 Palestinians have been killed in Israeli strikes since a supposed ceasefire was announced last October.",
+      "zh": "自去年 10 月宣布所谓停火以来，已有 1,200 多名巴勒斯坦人在以色列的袭击中丧生。"
+    },
+    {
+      "id": 19,
+      "startMs": 123940,
+      "endMs": 126020,
+      "en": "Hundreds of thousands remain homeless.",
+      "zh": "仍有数十万人无家可归。"
+    },
+    {
+      "id": 20,
+      "startMs": 127080,
+      "endMs": 130200,
+      "en": "There's little doubt Gaza needs a plan.",
+      "zh": "毫无疑问，加沙需要一项方案。"
+    },
+    {
+      "id": 21,
+      "startMs": 132220,
+      "endMs": 136140,
+      "en": "Hamas disarming is a key part of President Trump's plan.",
+      "zh": "哈马斯解除武装是特朗普总统方案的关键部分。"
+    },
+    {
+      "id": 22,
+      "startMs": 136780,
+      "endMs": 140860,
+      "en": "It's just over a week since he announced what he called a monumental step.",
+      "zh": "他宣布这个所谓历史性举措，仅仅过去一周多。"
+    },
+    {
+      "id": 23,
+      "startMs": 141500,
+      "endMs": 148140,
+      "en": "For the first time, Hamas had agreed to give up its weapons if Israel withdrew its forces from Gaza.",
+      "zh": "哈马斯首次同意，只要以色列从加沙撤军，就放下武器。"
+    },
+    {
+      "id": 24,
+      "startMs": 149780,
+      "endMs": 155380,
+      "en": "And at Camp David last weekend, President Trump said Israel was on board.",
+      "zh": "上周末在戴维营，特朗普总统表示以色列已同意该方案。"
+    },
+    {
+      "id": 25,
+      "startMs": 155460,
+      "endMs": 159700,
+      "en": "Israel's very happy about it. Israel's optimistic. And they've been very good.",
+      "zh": "以色列对此非常满意。以色列很乐观，而且他们一直表现得很好。"
+    },
+    {
+      "id": 26,
+      "startMs": 160820,
+      "endMs": 165380,
+      "en": "But it turns out Israel's prime minister is not happy with the plan.",
+      "zh": "但事实证明，以色列总理对这项方案并不满意。"
+    },
+    {
+      "id": 27,
+      "startMs": 166100,
+      "endMs": 169460,
+      "en": "Israel rejects the 15-point document.",
+      "zh": "以色列拒绝这份包含 15 点的文件。"
+    },
+    {
+      "id": 28,
+      "startMs": 169460,
+      "endMs": 175060,
+      "en": "The IDF will not execute any withdrawal until Hamas is disarmed.",
+      "zh": "在哈马斯解除武装之前，以色列国防军不会执行任何撤军行动。"
+    },
+    {
+      "id": 29,
+      "startMs": 175060,
+      "endMs": 180820,
+      "en": "And when I say disarming Hamas, it means heavy weapons, less heavy weapons, all weapons.",
+      "zh": "我所说的哈马斯解除武装，是指重型武器、较轻型武器，所有武器。"
+    },
+    {
+      "id": 30,
+      "startMs": 180820,
+      "endMs": 184900,
+      "en": "And we are talking about real disarmament, not fictitious disarmament.",
+      "zh": "我们谈的是真正的解除武装，而不是虚假的解除武装。"
+    },
+    {
+      "id": 31,
+      "startMs": 186080,
+      "endMs": 191600,
+      "en": "So for now, Israel's forces, which fully occupy 70% of the strip, are going nowhere.",
+      "zh": "因此眼下，全面占据加沙地带 70% 地区的以军不会撤离。"
+    },
+    {
+      "id": 32,
+      "startMs": 192460,
+      "endMs": 196140,
+      "en": "Hamas called for America to pressure Israel to toe the line.",
+      "zh": "哈马斯呼吁美国向以色列施压，要求其遵守约定。"
+    },
+    {
+      "id": 33,
+      "startMs": 197260,
+      "endMs": 203660,
+      "en": "When it comes to peace in Gaza, for every step forward, there is always a step back.",
+      "zh": "谈到加沙和平，每向前一步，似乎总会后退一步。"
+    },
+    {
+      "id": 34,
+      "startMs": 204460,
+      "endMs": 214380,
+      "en": "Responding to Mr Netanyahu's rejection, the High Representative for Gaza for Donald Trump's Board of Peace insisted that the US-backed peace plan remained the only way forward.",
+      "zh": "针对内塔尼亚胡的拒绝，特朗普“和平委员会”的加沙高级代表坚称，美国支持的和平方案仍是唯一出路。"
+    },
+    {
+      "id": 35,
+      "startMs": 214700,
+      "endMs": 221980,
+      "en": "So how is the US president likely to respond to this very public rejection of Washington's hard-worked negotiations?",
+      "zh": "那么，面对对华盛顿艰苦谈判成果如此公开的拒绝，美国总统可能会如何回应？"
+    },
+    {
+      "id": 36,
+      "startMs": 222220,
+      "endMs": 225500,
+      "en": "That's a question I put to our Washington correspondent, Bernd Debusmann.",
+      "zh": "我就此询问了本台驻华盛顿记者伯恩德·德布斯曼。"
+    },
+    {
+      "id": 37,
+      "startMs": 225740,
+      "endMs": 230380,
+      "en": "This is a very rare public break between him and Prime Minister Netanyahu,",
+      "zh": "这是他与内塔尼亚胡总理之间极为罕见的公开决裂，"
+    },
+    {
+      "id": 38,
+      "startMs": 230380,
+      "endMs": 239180,
+      "en": "and it's something of a defeat for President Trump personally because he had been hailing this 15-point proposal as something of a foreign policy victory for his administration.",
+      "zh": "对特朗普总统本人来说，也算是一场挫败，因为他一直将这份 15 点方案誉为其政府的一项外交政策胜利。"
+    },
+    {
+      "id": 39,
+      "startMs": 239580,
+      "endMs": 245260,
+      "en": "Just last week, he said that Israel was very happy with the deal and that they had been consulted.",
+      "zh": "就在上周，他还表示以色列对这项协议非常满意，而且以方参与过磋商。"
+    },
+    {
+      "id": 40,
+      "startMs": 245340,
+      "endMs": 250780,
+      "en": "So I think such public rejection, I think he will very likely react quite negatively.",
+      "zh": "所以我认为，面对如此公开的拒绝，他很可能会作出相当负面的反应。"
+    },
+    {
+      "id": 41,
+      "startMs": 250780,
+      "endMs": 260140,
+      "en": "He's at times expressed frustration with Prime Minister Netanyahu in the past over operations in Gaza and in Lebanon, but certainly nothing of this scale.",
+      "zh": "过去，他有时曾因加沙和黎巴嫩的军事行动对内塔尼亚胡总理表达不满，但程度绝没有这次这么严重。"
+    },
+    {
+      "id": 42,
+      "startMs": 260380,
+      "endMs": 263260,
+      "en": "How is it likely to respond, the Trump administration?",
+      "zh": "特朗普政府可能会如何回应？"
+    },
+    {
+      "id": 43,
+      "startMs": 263740,
+      "endMs": 269840,
+      "en": "Well, Washington has enormous leverage over Israel due to the vast amounts of military and financial aid it gives Israel.",
+      "zh": "华盛顿向以色列提供巨额军事和财政援助，因此对以色列拥有巨大影响力。"
+    },
+    {
+      "id": 44,
+      "startMs": 269840,
+      "endMs": 277440,
+      "en": "But at no point throughout this conflict, neither the Biden administration nor the Trump administration has suggested cutting that.",
+      "zh": "但在这场冲突期间，无论是拜登政府还是特朗普政府，都从未提出削减这类援助。"
+    },
+    {
+      "id": 45,
+      "startMs": 277440,
+      "endMs": 286240,
+      "en": "But Prime Minister Netanyahu does enjoy very considerable support from the Trump administration, and that's something he points to domestically in Israel.",
+      "zh": "不过，内塔尼亚胡总理确实得到特朗普政府相当有力的支持，他也会在以色列国内强调这一点。"
+    },
+    {
+      "id": 46,
+      "startMs": 286240,
+      "endMs": 292640,
+      "en": "So I think if President Trump were to outwardly criticize, it also complicates matters for Prime Minister Netanyahu in Israel",
+      "zh": "因此我认为，如果特朗普总统公开批评，这也会让内塔尼亚胡总理在以色列国内的处境更加复杂，"
+    },
+    {
+      "id": 47,
+      "startMs": 292720,
+      "endMs": 299440,
+      "en": "as he tries to balance between moderate figures in his government and the more hardline figures in his government.",
+      "zh": "因为他正试图在政府内的温和派与更强硬的人物之间维持平衡。"
+    },
+    {
+      "id": 48,
+      "startMs": 299472,
+      "endMs": 306160,
+      "en": "And I think even a public spat between the two of them really complicates his efforts ahead of his re-election campaign.",
+      "zh": "我认为，即使只是两人公开争执，也会让他在竞选连任前的努力变得更加复杂。"
+    },
+    {
+      "id": 49,
+      "startMs": 306640,
+      "endMs": 308800,
+      "en": "Well, that's kind of perhaps the crux of this, isn't it?",
+      "zh": "这或许正是问题的关键所在，对吧？"
+    },
+    {
+      "id": 50,
+      "startMs": 308800,
+      "endMs": 318160,
+      "en": "Benjamin Netanyahu is facing pressure externally from Washington to accept this deal, but also internally in Israel. There are elections coming up.",
+      "zh": "本雅明·内塔尼亚胡既面临华盛顿要求接受协议的外部压力，也承受着以色列国内的压力，而且选举即将到来。"
+    },
+    {
+      "id": 51,
+      "startMs": 318400,
+      "endMs": 322480,
+      "en": "How much do you think that internal pressure has to do with this decision that we've heard today?",
+      "zh": "你认为，国内压力在多大程度上促成了我们今天听到的这一决定？"
+    },
+    {
+      "id": 52,
+      "startMs": 322640,
+      "endMs": 330100,
+      "en": "I think it has an enormous amount to do with the decision. I mean, many of these hardliners rejected the 15-point proposal very, very quickly.",
+      "zh": "我认为这与该决定有极大关系。我的意思是，许多强硬派非常迅速地拒绝了这份 15 点方案。"
+    },
+    {
+      "id": 53,
+      "startMs": 330100,
+      "endMs": 335220,
+      "en": "And Prime Minister Netanyahu really needs their support to remain in his current position.",
+      "zh": "内塔尼亚胡总理确实需要他们的支持，才能保住目前的职位。"
+    },
+    {
+      "id": 54,
+      "startMs": 335540,
+      "endMs": 339860,
+      "en": "So I think that in and of itself is a very tricky balancing act for the prime minister,",
+      "zh": "所以我认为，这本身对总理而言就是一项非常棘手的平衡工作，"
+    },
+    {
+      "id": 55,
+      "startMs": 339860,
+      "endMs": 344900,
+      "en": "especially when Washington very much wants to get this conflict done and dusted, as it were.",
+      "zh": "尤其是在华盛顿非常希望彻底了结这场冲突的情况下。"
+    },
+    {
+      "id": 56,
+      "startMs": 345060,
+      "endMs": 348100,
+      "en": "President Trump very much sees himself as a dealmaker,",
+      "zh": "特朗普总统非常自视为一名善于促成交易的人，"
+    },
+    {
+      "id": 57,
+      "startMs": 348100,
+      "endMs": 353860,
+      "en": "and any sort of rejection of his deals is something that weighs on him politically here in the United States,",
+      "zh": "任何对其协议的拒绝，都会让他在美国国内承受政治压力，"
+    },
+    {
+      "id": 58,
+      "startMs": 353860,
+      "endMs": 362580,
+      "en": "as he kind of repeatedly points to these conflicts, the war in Gaza included, as a sign that his foreign policies are working, especially in the Middle East.",
+      "zh": "因为他一再以这些冲突，包括加沙战争，来证明自己的外交政策正在奏效，尤其是在中东地区。"
+    },
+    {
+      "id": 59,
+      "startMs": 362820,
+      "endMs": 365140,
+      "en": "Our Washington correspondent Bernd Debusmann.",
+      "zh": "本台驻华盛顿记者伯恩德·德布斯曼。"
+    },
+    {
+      "id": 60,
+      "startMs": 366260,
+      "endMs": 375380,
+      "en": "To Ireland now, where the suspected Irish crime boss Daniel Kinahan has appeared in court in Dublin following his high-profile extradition from Dubai in the United Arab Emirates.",
+      "zh": "现在来看爱尔兰。涉嫌为爱尔兰犯罪集团头目的丹尼尔·基纳汉从阿联酋迪拜高调引渡后，已在都柏林出庭。"
+    },
+    {
+      "id": 61,
+      "startMs": 376020,
+      "endMs": 382740,
+      "en": "Kinahan was arrested there in April, a decade after escaping an assassination attempt in Ireland and fleeing into exile.",
+      "zh": "基纳汉今年 4 月在当地被捕；十年前，他在爱尔兰逃过一次暗杀后流亡海外。"
+    },
+    {
+      "id": 62,
+      "startMs": 382980,
+      "endMs": 388660,
+      "en": "Prosecutors and the US government say he's the ringleader of one of the world's most dangerous crime syndicates.",
+      "zh": "检方和美国政府称，他是世界上最危险的犯罪集团之一的头目。"
+    },
+    {
+      "id": 63,
+      "startMs": 388820,
+      "endMs": 394100,
+      "en": "He's appealed the extradition order over the last few months, but his attempts were unsuccessful,",
+      "zh": "过去几个月里，他一直对引渡令提出上诉，但未能成功，"
+    },
+    {
+      "id": 64,
+      "startMs": 394260,
+      "endMs": 399220,
+      "en": "bringing to an end a global game of cat and mouse with authorities in the US, Europe and the Gulf.",
+      "zh": "这结束了他与美国、欧洲和海湾地区当局之间一场全球性的猫鼠游戏。"
+    },
+    {
+      "id": 65,
+      "startMs": 399220,
+      "endMs": 405700,
+      "en": "Appearing in court under extra security, having been driven at high speed to a Special Criminal Court in Dublin,",
+      "zh": "在额外安保下，他被车辆高速送往都柏林特别刑事法院出庭，"
+    },
+    {
+      "id": 66,
+      "startMs": 406100,
+      "endMs": 413060,
+      "en": "the businessman and boxing promoter was charged with directing the Kinahan cartel, as well as drug trafficking and firearms offences.",
+      "zh": "这名商人兼拳击推广人被控领导基纳汉犯罪集团，并涉及贩毒和枪支犯罪。"
+    },
+    {
+      "id": 67,
+      "startMs": 413540,
+      "endMs": 416020,
+      "en": "He has always denied the allegations against him.",
+      "zh": "他始终否认针对他的这些指控。"
+    },
+    {
+      "id": 68,
+      "startMs": 416260,
+      "endMs": 422020,
+      "en": "Our Ireland correspondent Chris Page was in the Special Criminal Court in the Irish capital Dublin for the hearing.",
+      "zh": "庭审期间，本台驻爱尔兰记者克里斯·佩奇就在爱尔兰首都都柏林的特别刑事法院。"
+    },
+    {
+      "id": 69,
+      "startMs": 422420,
+      "endMs": 427460,
+      "en": "Daniel Kinahan appeared in court in a hearing that lasted for about 13 minutes.",
+      "zh": "丹尼尔·基纳汉出庭参加了一场持续约 13 分钟的听证。"
+    },
+    {
+      "id": 70,
+      "startMs": 427460,
+      "endMs": 431060,
+      "en": "He sat on a wooden bench for most of that time.",
+      "zh": "大部分时间里，他都坐在一张木凳上。"
+    },
+    {
+      "id": 71,
+      "startMs": 431060,
+      "endMs": 435460,
+      "en": "He was wearing a black hooded top. He occasionally sipped from a bottle of water.",
+      "zh": "他身穿黑色连帽上衣，偶尔从水瓶里喝一口水。"
+    },
+    {
+      "id": 72,
+      "startMs": 435460,
+      "endMs": 441880,
+      "en": "He rose to his feet on several occasions whenever one of the three judges, Patrick McGrath, addressed him directly.",
+      "zh": "三名法官之一帕特里克·麦格拉思每次直接向他发问时，他都会起身站立。"
+    },
+    {
+      "id": 73,
+      "startMs": 442120,
+      "endMs": 447480,
+      "en": "He also stood with his hands clasped in front of him when a court official put the charge to him.",
+      "zh": "法庭官员向他宣读指控时，他也站起身来，双手交握在身前。"
+    },
+    {
+      "id": 74,
+      "startMs": 447480,
+      "endMs": 457800,
+      "en": "So he faces one charge, and that is of directing the activities of a criminal organisation between October 2015 and April 2017.",
+      "zh": "因此，他面临一项指控，即在 2015 年 10 月至 2017 年 4 月期间领导犯罪组织活动。"
+    },
+    {
+      "id": 75,
+      "startMs": 457800,
+      "endMs": 464040,
+      "en": "Towards the end of the hearing, a prosecutor suggested to the judges that they should explain to Daniel Kinahan",
+      "zh": "听证临近结束时，一名检察官建议法官向丹尼尔·基纳汉说明，"
+    },
+    {
+      "id": 76,
+      "startMs": 464360,
+      "endMs": 468200,
+      "en": "that he could only apply for bail at the High Court in Dublin.",
+      "zh": "他只能向都柏林高等法院申请保释。"
+    },
+    {
+      "id": 77,
+      "startMs": 468680,
+      "endMs": 477320,
+      "en": "So the judge did that, and Daniel Kinahan replied, \"I think we know I won't get bail,\" but he went on to thank the judge.",
+      "zh": "法官于是作出说明，丹尼尔·基纳汉回答：“我想我们都知道我不会获准保释。”不过他随后还是向法官道了谢。"
+    },
+    {
+      "id": 78,
+      "startMs": 477480,
+      "endMs": 481400,
+      "en": "So now he has left here, this court complex in Dublin.",
+      "zh": "现在，他已经离开了都柏林的这座法院建筑群。"
+    },
+    {
+      "id": 79,
+      "startMs": 481720,
+      "endMs": 490600,
+      "en": "Also during that court hearing, a detective Garda gave some details about how he arrested Daniel Kinahan, how he executed the arrest warrant.",
+      "zh": "庭审期间，一名爱尔兰警探还介绍了他逮捕丹尼尔·基纳汉、执行逮捕令的一些细节。"
+    },
+    {
+      "id": 80,
+      "startMs": 490920,
+      "endMs": 493160,
+      "en": "So he's been remanded in custody until the 5th of October.",
+      "zh": "因此，他已被还押候审至 10 月 5 日。"
+    },
+    {
+      "id": 81,
+      "startMs": 493320,
+      "endMs": 500120,
+      "en": "Until then, he's being taken to Portlaoise Prison, not far outside Dublin.",
+      "zh": "在此之前，他将被送往距都柏林不远的波特劳伊斯监狱。"
+    },
+    {
+      "id": 82,
+      "startMs": 500360,
+      "endMs": 505240,
+      "en": "It's a maximum-security prison, and the facilities there, it's understood, have been upgraded.",
+      "zh": "那是一所最高戒备级别的监狱，据了解，里面的设施已经升级。"
+    },
+    {
+      "id": 83,
+      "startMs": 506040,
+      "endMs": 514700,
+      "en": "Daniel Kinahan's arrest has followed years of investigations into the Kinahan organised crime group by an international coalition of law enforcement agencies.",
+      "zh": "丹尼尔·基纳汉被捕之前，一个国际执法机构联盟已对基纳汉有组织犯罪集团调查多年。"
+    },
+    {
+      "id": 84,
+      "startMs": 515260,
+      "endMs": 517900,
+      "en": "Several members of the gang have been jailed in recent years,",
+      "zh": "近年来，该团伙已有数名成员入狱，"
+    },
+    {
+      "id": 85,
+      "startMs": 518220,
+      "endMs": 527020,
+      "en": "but Daniel Kinahan's extradition is likely to result in one of the most significant criminal trials in modern Irish history, says our correspondent Tom Symonds.",
+      "zh": "但本台记者汤姆·西蒙兹称，丹尼尔·基纳汉被引渡后，可能会迎来爱尔兰现代史上最重大的刑事审判之一。"
+    },
+    {
+      "id": 86,
+      "startMs": 527180,
+      "endMs": 534140,
+      "en": "Daniel Kinahan is alleged to have taken over the Kinahan organised crime group after his father Christy stepped back.",
+      "zh": "据称，丹尼尔·基纳汉在父亲克里斯蒂退居幕后后接管了基纳汉有组织犯罪集团。"
+    },
+    {
+      "id": 87,
+      "startMs": 534700,
+      "endMs": 540540,
+      "en": "He was arrested in 2010 in a Spanish investigation, which petered out through lack of evidence.",
+      "zh": "2010 年，他在西班牙的一项调查中被捕，但该调查因证据不足而不了了之。"
+    },
+    {
+      "id": 88,
+      "startMs": 540940,
+      "endMs": 546860,
+      "en": "A 2021 BBC investigation found he'd also been involved in managing professional boxers.",
+      "zh": "BBC 在 2021 年的一项调查发现，他还参与过职业拳击手的管理工作。"
+    },
+    {
+      "id": 89,
+      "startMs": 547180,
+      "endMs": 557740,
+      "en": "In 2016, he escaped an attempt by a rival gang to kill him with automatic weapons during a raid on a boxing weigh-in at the Regency Hotel in Dublin.",
+      "zh": "2016 年，一个敌对团伙持自动武器突袭都柏林摄政酒店的一场拳击称重活动，企图杀死他，但他逃过一劫。"
+    },
+    {
+      "id": 90,
+      "startMs": 558220,
+      "endMs": 561500,
+      "en": "The Kinahan group retaliated with a string of murders.",
+      "zh": "基纳汉集团随后以一连串谋杀展开报复。"
+    },
+    {
+      "id": 91,
+      "startMs": 561980,
+      "endMs": 569680,
+      "en": "Irish police eventually tracked down Sean McGovern, described as a senior Kinahan lieutenant who organised the killings,",
+      "zh": "爱尔兰警方最终追查到肖恩·麦戈文；此人被称为基纳汉集团的高级副手，曾组织这些杀戮，"
+    },
+    {
+      "id": 92,
+      "startMs": 569920,
+      "endMs": 576400,
+      "en": "extradited him from Dubai, and successfully prosecuted him using evidence from encrypted phones.",
+      "zh": "警方将他从迪拜引渡回国，并利用加密手机中的证据成功将其定罪。"
+    },
+    {
+      "id": 93,
+      "startMs": 576800,
+      "endMs": 582560,
+      "en": "The same special court with three judges and no jury may be used to prosecute Daniel Kinahan.",
+      "zh": "同一所由三名法官审理、不设陪审团的特别法院，可能会用来审判丹尼尔·基纳汉。"
+    },
+    {
+      "id": 94,
+      "startMs": 582720,
+      "endMs": 583600,
+      "en": "Tom Symonds.",
+      "zh": "汤姆·西蒙兹报道。"
+    },
+    {
+      "id": 95,
+      "startMs": 584320,
+      "endMs": 591440,
+      "en": "In Canada, the vast western province of British Columbia is under a state of emergency with more than 100 wildfires burning.",
+      "zh": "加拿大西部幅员辽阔的不列颠哥伦比亚省已进入紧急状态，目前有超过100处山火在燃烧。"
+    },
+    {
+      "id": 96,
+      "startMs": 591680,
+      "endMs": 597200,
+      "en": "Tens of thousands of people have been evacuated, including the 12,000 residents of Summerland.",
+      "zh": "数万人已被疏散，其中包括萨默兰的1.2万名居民。"
+    },
+    {
+      "id": 97,
+      "startMs": 597360,
+      "endMs": 602320,
+      "en": "The town's mayor is Doug Holmes, and he gave the BBC this update from Penticton,",
+      "zh": "该镇镇长道格·霍姆斯在彭蒂克顿向BBC介绍了最新情况。"
+    },
+    {
+      "id": 98,
+      "startMs": 602320,
+      "endMs": 607920,
+      "en": "about an hour's drive south, after he'd been ordered to leave his home very early on Saturday morning.",
+      "zh": "那里位于萨默兰以南约一小时车程；周六清晨，他接到命令离开了住所。"
+    },
+    {
+      "id": 99,
+      "startMs": 608400,
+      "endMs": 615600,
+      "en": "The fire started around 5:30 p.m., 15 kilometres outside Summerland, and then it just moved really quickly.",
+      "zh": "山火大约在下午5点半于萨默兰外15公里处燃起，随后迅速蔓延。"
+    },
+    {
+      "id": 100,
+      "startMs": 615600,
+      "endMs": 616800,
+      "en": "We're a farming community.",
+      "zh": "我们是一个农业社区。"
+    },
+    {
+      "id": 101,
+      "startMs": 616800,
+      "endMs": 622720,
+      "en": "There were kind of three mountain valleys with real rich soil, lots of cherry and peach orchards and vineyards.",
+      "zh": "这里大致有三条山谷，土壤非常肥沃，分布着许多樱桃园、桃园和葡萄园。"
+    },
+    {
+      "id": 102,
+      "startMs": 623120,
+      "endMs": 626560,
+      "en": "And the fire just kind of ripped through two of those three valleys.",
+      "zh": "山火就这样席卷了其中两条山谷。"
+    },
+    {
+      "id": 103,
+      "startMs": 627140,
+      "endMs": 633380,
+      "en": "So those two valleys were evacuated probably around 8:30, 9:00 Friday night, our time.",
+      "zh": "所以按我们当地时间，那两条山谷大约在周五晚上8点半到9点进行了疏散。"
+    },
+    {
+      "id": 104,
+      "startMs": 633540,
+      "endMs": 636580,
+      "en": "And then the fire just kept coming closer and closer to town.",
+      "zh": "随后山火不断逼近城镇。"
+    },
+    {
+      "id": 105,
+      "startMs": 636900,
+      "endMs": 642900,
+      "en": "And so the decision was made at midnight, Friday night, Saturday morning, to evacuate the whole town.",
+      "zh": "因此在周五深夜、也就是周六凌晨零点，当局决定疏散全镇。"
+    },
+    {
+      "id": 106,
+      "startMs": 643060,
+      "endMs": 648260,
+      "en": "You can imagine that number of people all packing up their cars and heading out at the same time.",
+      "zh": "可以想象，那么多人同时收拾东西、开车撤离会是什么情形。"
+    },
+    {
+      "id": 107,
+      "startMs": 648580,
+      "endMs": 651060,
+      "en": "There's only one highway that comes through Summerland.",
+      "zh": "穿过萨默兰的公路只有一条。"
+    },
+    {
+      "id": 108,
+      "startMs": 651140,
+      "endMs": 653860,
+      "en": "The north end of the town was blocked off by fire,",
+      "zh": "镇子北端被山火封锁。"
+    },
+    {
+      "id": 109,
+      "startMs": 654180,
+      "endMs": 658020,
+      "en": "so we could only leave, going to the town to the south, which is Penticton.",
+      "zh": "所以我们只能向南撤离，前往彭蒂克顿。"
+    },
+    {
+      "id": 110,
+      "startMs": 658100,
+      "endMs": 662180,
+      "en": "And so there was basically a large convoy of cars heading south.",
+      "zh": "于是大批车辆排成长队向南行驶。"
+    },
+    {
+      "id": 111,
+      "startMs": 662660,
+      "endMs": 672260,
+      "en": "You've arrived in Penticton, and it sounds like that's where most people have ended up as well, about an hour's drive under normal conditions south of Summerland.",
+      "zh": "你已经到了彭蒂克顿，听起来大多数人也都去了那里；正常情况下，它位于萨默兰以南约一小时车程。"
+    },
+    {
+      "id": 112,
+      "startMs": 672260,
+      "endMs": 674020,
+      "en": "And what are people staying in?",
+      "zh": "人们现在住在哪里？"
+    },
+    {
+      "id": 113,
+      "startMs": 674100,
+      "endMs": 679140,
+      "en": "We're two closely connected communities anyway, so people are staying at friends' or families'.",
+      "zh": "我们两个社区本来就联系紧密，所以人们住在亲友家中。"
+    },
+    {
+      "id": 114,
+      "startMs": 679380,
+      "endMs": 686500,
+      "en": "A lot of people left with their camp trailers and their caravans, and so the parking lots in Penticton are full.",
+      "zh": "许多人开着露营拖车和房车离开，因此彭蒂克顿的停车场都满了。"
+    },
+    {
+      "id": 115,
+      "startMs": 686520,
+      "endMs": 693000,
+      "en": "And if there are people who have no place to stay, there's an evacuation centre that's been set up at the convention centre here.",
+      "zh": "如果有人无处可住，这里的会议中心已经设立了一个疏散安置点。"
+    },
+    {
+      "id": 116,
+      "startMs": 693240,
+      "endMs": 695480,
+      "en": "Did the fire reach your town?",
+      "zh": "山火烧到你们镇了吗？"
+    },
+    {
+      "id": 117,
+      "startMs": 695640,
+      "endMs": 699160,
+      "en": "Lots of parts of town it did reach, not every part of town.",
+      "zh": "镇上很多地方都烧到了，但不是所有地方。"
+    },
+    {
+      "id": 118,
+      "startMs": 699160,
+      "endMs": 701480,
+      "en": "So we do know parts have been spared.",
+      "zh": "所以我们知道有些地区幸免于难。"
+    },
+    {
+      "id": 119,
+      "startMs": 701480,
+      "endMs": 705560,
+      "en": "We know our downtown is okay, but homes have been lost.",
+      "zh": "我们知道市中心没事，但已有房屋被毁。"
+    },
+    {
+      "id": 120,
+      "startMs": 705640,
+      "endMs": 708360,
+      "en": "Everybody will know somebody who has lost a home.",
+      "zh": "每个人都会认识某个失去家园的人。"
+    },
+    {
+      "id": 121,
+      "startMs": 708600,
+      "endMs": 713640,
+      "en": "It's an agricultural region, isn't it? I mean, there's a lot of farming that goes on.",
+      "zh": "这里是农业区，对吧？我是说，当地有大量农业活动。"
+    },
+    {
+      "id": 122,
+      "startMs": 713640,
+      "endMs": 716680,
+      "en": "I think a lot of winemaking that goes on as well.",
+      "zh": "我想当地也有很多葡萄酒酿造业。"
+    },
+    {
+      "id": 123,
+      "startMs": 716680,
+      "endMs": 721720,
+      "en": "I assume there must be immense concern about what's happened to the land.",
+      "zh": "我想大家一定非常担忧这片土地遭受的破坏。"
+    },
+    {
+      "id": 124,
+      "startMs": 721960,
+      "endMs": 725240,
+      "en": "You know, the immediate concern is what happens to people's crops.",
+      "zh": "你知道，眼下最令人担忧的是人们的农作物会怎样。"
+    },
+    {
+      "id": 125,
+      "startMs": 725320,
+      "endMs": 728600,
+      "en": "I know farmers who have told me that they know they've lost their barn, for example.",
+      "zh": "比如，我认识的一些农民告诉我，他们知道自家的谷仓已经被毁。"
+    },
+    {
+      "id": 126,
+      "startMs": 728600,
+      "endMs": 735720,
+      "en": "And recovery is going to be hard, going to need government support, but we'll pull together as a community and we'll get through it.",
+      "zh": "重建会很艰难，也需要政府支持，但我们会作为一个社区团结起来，共渡难关。"
+    },
+    {
+      "id": 127,
+      "startMs": 735800,
+      "endMs": 743480,
+      "en": "Have you got any update on the progress of the fire and when you and others may be able to return to Summerland?",
+      "zh": "关于火势进展，以及你和其他人何时能返回萨默兰，有最新消息吗？"
+    },
+    {
+      "id": 128,
+      "startMs": 743800,
+      "endMs": 748620,
+      "en": "Well, that's the number one question everybody asks: 'When can we go home?' And we just don't know yet.",
+      "zh": "这是每个人问的头号问题：“我们什么时候能回家？”但现在还不知道。"
+    },
+    {
+      "id": 129,
+      "startMs": 748780,
+      "endMs": 751420,
+      "en": "The fire is still out of control; they're still fighting it.",
+      "zh": "火势仍未得到控制，消防人员还在扑救。"
+    },
+    {
+      "id": 130,
+      "startMs": 751500,
+      "endMs": 754460,
+      "en": "That's the top priority right now, is to get the fire under control.",
+      "zh": "目前的首要任务就是控制住火势。"
+    },
+    {
+      "id": 131,
+      "startMs": 754620,
+      "endMs": 758460,
+      "en": "And then, once it's under control, we can start planning re-entry.",
+      "zh": "等火势受控后，我们才能开始规划居民返回。"
+    },
+    {
+      "id": 132,
+      "startMs": 758780,
+      "endMs": 764860,
+      "en": "There'll be farmers who've left animals behind; they need to get back to their farms to feed those animals.",
+      "zh": "有些农民把牲畜留在了农场，他们需要回去给牲畜喂食。"
+    },
+    {
+      "id": 133,
+      "startMs": 764940,
+      "endMs": 769100,
+      "en": "And then people can't return to their homes until we know it's safe to do so.",
+      "zh": "在确认安全之前，人们也不能返回家中。"
+    },
+    {
+      "id": 134,
+      "startMs": 769100,
+      "endMs": 772700,
+      "en": "There's power lines down; the water has been contaminated.",
+      "zh": "有电线被刮倒，供水也受到了污染。"
+    },
+    {
+      "id": 135,
+      "startMs": 773020,
+      "endMs": 775740,
+      "en": "There's structures that we don't know are safe or not,",
+      "zh": "还有一些建筑物是否安全也尚不清楚。"
+    },
+    {
+      "id": 136,
+      "startMs": 775820,
+      "endMs": 779980,
+      "en": "so all that sort of thing has to happen before people can return to their homes.",
+      "zh": "所有这些问题都必须先得到处理，人们才能回家。"
+    },
+    {
+      "id": 137,
+      "startMs": 780060,
+      "endMs": 781180,
+      "en": "All that's going to take time.",
+      "zh": "这一切都需要时间。"
+    },
+    {
+      "id": 138,
+      "startMs": 781660,
+      "endMs": 785180,
+      "en": "Summerland's mayor, Doug Holmes, talking to my colleague Tim Franks.",
+      "zh": "以上是萨默兰镇长道格·霍姆斯接受我的同事蒂姆·弗兰克斯采访。"
+    },
+    {
+      "id": 139,
+      "startMs": 786220,
+      "endMs": 789580,
+      "en": "Denmark is preparing to scrap its royal warrant system,",
+      "zh": "丹麦正准备废除王室认证制度。"
+    },
+    {
+      "id": 140,
+      "startMs": 789740,
+      "endMs": 795900,
+      "en": "ending a centuries-old royal seal of approval used by businesses to market everything from beer to cars.",
+      "zh": "这将终结延续数百年的王室认可标志，企业曾用它来推广从啤酒到汽车的各种商品。"
+    },
+    {
+      "id": 141,
+      "startMs": 796540,
+      "endMs": 802220,
+      "en": "The BBC's Daniel Rosney has been to Copenhagen to meet companies facing this change over the next three years.",
+      "zh": "BBC记者丹尼尔·罗斯尼前往哥本哈根，走访了未来三年将面对这一变化的企业。"
+    },
+    {
+      "id": 142,
+      "startMs": 802860,
+      "endMs": 809340,
+      "en": "Some of the most well-known Danish brands and businesses, such as Carlsberg and Lego, have a royal warrant.",
+      "zh": "丹麦一些最知名的品牌和企业，如嘉士伯和乐高，都拥有王室认证。"
+    },
+    {
+      "id": 143,
+      "startMs": 809740,
+      "endMs": 816540,
+      "en": "And as well as global brands, there are also smaller independent companies too, which all have a warrant.",
+      "zh": "除了全球品牌外，也有规模较小的独立企业获得了这种认证。"
+    },
+    {
+      "id": 144,
+      "startMs": 818320,
+      "endMs": 822480,
+      "en": "Many shops in this city that have the warrant put it proudly on the front of their premises,",
+      "zh": "这座城市许多拥有认证的商店，都自豪地把标志放在店面正面。"
+    },
+    {
+      "id": 145,
+      "startMs": 822480,
+      "endMs": 826560,
+      "en": "in big gold letters, just like this one.",
+      "zh": "就像这家店一样，用醒目的金色大字展示。"
+    },
+    {
+      "id": 146,
+      "startMs": 828960,
+      "endMs": 834400,
+      "en": "My name is Berit Hertz, and I'm the sixth generation of Denmark's oldest jewelry store.",
+      "zh": "我叫贝里特·赫兹，是丹麦最古老珠宝店的第六代传人。"
+    },
+    {
+      "id": 147,
+      "startMs": 834560,
+      "endMs": 837920,
+      "en": "It's called Peter Hertz. We've been here since 1834.",
+      "zh": "店名叫彼得·赫兹，我们自1834年起就在这里经营。"
+    },
+    {
+      "id": 148,
+      "startMs": 837920,
+      "endMs": 842240,
+      "en": "The Hertz family have had the title of Royal Court Jeweller for 120 years.",
+      "zh": "赫兹家族拥有“王室珠宝商”这一头衔已有120年。"
+    },
+    {
+      "id": 149,
+      "startMs": 842240,
+      "endMs": 846320,
+      "en": "We made the wedding bands to now the King and Queen,",
+      "zh": "我们为如今的国王和王后制作了婚戒。"
+    },
+    {
+      "id": 150,
+      "startMs": 846320,
+      "endMs": 850400,
+      "en": "and we're allowed to tell you about that because it was made from the first Greenland gold.",
+      "zh": "我们获准公开此事，因为婚戒使用了格陵兰出产的第一批黄金。"
+    },
+    {
+      "id": 151,
+      "startMs": 850480,
+      "endMs": 853520,
+      "en": "It was kind of a media story. Otherwise, we never tell what we make.",
+      "zh": "这件事算是受到媒体报道的新闻，否则我们从不透露制作过什么。"
+    },
+    {
+      "id": 152,
+      "startMs": 853600,
+      "endMs": 861760,
+      "en": "Since the business was founded and passed down through six generations, it has been awarded royal warrants by five Danish monarchs.",
+      "zh": "这家企业创立并传承六代以来，曾获五位丹麦君主授予王室认证。"
+    },
+    {
+      "id": 153,
+      "startMs": 861840,
+      "endMs": 865840,
+      "en": "Because we've had it for so many years, it kind of defines us, who we are, as well.",
+      "zh": "因为我们拥有它这么多年，它在某种程度上也定义了我们的身份。"
+    },
+    {
+      "id": 154,
+      "startMs": 866240,
+      "endMs": 868560,
+      "en": "Does it give you any kind of status?",
+      "zh": "它会给你们带来某种地位吗？"
+    },
+    {
+      "id": 155,
+      "startMs": 868560,
+      "endMs": 875360,
+      "en": "It gives it kind of a credibility that, okay, if this is a brand approved by the royal court, then they must be trustworthy.",
+      "zh": "它会带来某种信誉：如果一个品牌得到王室认可，那它一定值得信赖。"
+    },
+    {
+      "id": 156,
+      "startMs": 875520,
+      "endMs": 880160,
+      "en": "Because of the history that the Peter Hertz store has in Copenhagen,",
+      "zh": "鉴于彼得·赫兹珠宝店在哥本哈根的悠久历史。"
+    },
+    {
+      "id": 157,
+      "startMs": 880480,
+      "endMs": 887280,
+      "en": "Berit has been given permission to keep the crown on the facade of the store once the royal warrant has been phased out.",
+      "zh": "贝里特获准在王室认证逐步取消后，继续保留店面外墙上的王冠标志。"
+    },
+    {
+      "id": 158,
+      "startMs": 887760,
+      "endMs": 892340,
+      "en": "People really feel that the store is a part of the Copenhagen picture when you walk down Købmagergade,",
+      "zh": "人们走在克布马厄街上时，确实会觉得这家店是哥本哈根城市景观的一部分。"
+    },
+    {
+      "id": 159,
+      "startMs": 892660,
+      "endMs": 896580,
+      "en": "and you see that all the way from almost the Round Tower, and you can see down.",
+      "zh": "几乎从圆塔一路望下去，都能看到这家店。"
+    },
+    {
+      "id": 160,
+      "startMs": 897380,
+      "endMs": 902580,
+      "en": "My name is Camilla Søemod, and I am owner of an old candy factory.",
+      "zh": "我叫卡米拉·瑟莫德，是一家老式糖果工厂的负责人。"
+    },
+    {
+      "id": 161,
+      "startMs": 902740,
+      "endMs": 904340,
+      "en": "It is a hard-boiled candy.",
+      "zh": "这里制作的是硬糖。"
+    },
+    {
+      "id": 162,
+      "startMs": 904420,
+      "endMs": 909540,
+      "en": "This is a family-run business, and Camilla is the fifth generation to take charge.",
+      "zh": "这是一家家族企业，卡米拉是第五代负责人。"
+    },
+    {
+      "id": 163,
+      "startMs": 909540,
+      "endMs": 912580,
+      "en": "Do you still use traditional methods? Yes, everything in here is handmade.",
+      "zh": "你们仍使用传统方法吗？是的，这里的一切都是手工制作。"
+    },
+    {
+      "id": 164,
+      "startMs": 913500,
+      "endMs": 919100,
+      "en": "Sømods has had a royal warrant since 1991.",
+      "zh": "瑟莫德糖果自1991年起便拥有王室认证。"
+    },
+    {
+      "id": 165,
+      "startMs": 919820,
+      "endMs": 922460,
+      "en": "It's something the company proudly puts on its packaging.",
+      "zh": "公司自豪地把这一认证印在包装上。"
+    },
+    {
+      "id": 166,
+      "startMs": 922780,
+      "endMs": 924380,
+      "en": "It was a major step up.",
+      "zh": "这曾是一次重大的提升。"
+    },
+    {
+      "id": 167,
+      "startMs": 924540,
+      "endMs": 929020,
+      "en": "It was also because it was a time before social media. It was a time before internet.",
+      "zh": "这也是因为当时还没有社交媒体，互联网也尚未普及。"
+    },
+    {
+      "id": 168,
+      "startMs": 929100,
+      "endMs": 933340,
+      "en": "So it was a quality stamp. But two years ago, things changed.",
+      "zh": "因此它就是品质标志。但两年前，情况发生了变化。"
+    },
+    {
+      "id": 169,
+      "startMs": 934040,
+      "endMs": 938600,
+      "en": "I've spent a lot of time and a lot of energy to focus on the more modern approaches now,",
+      "zh": "如今我投入了大量时间和精力，专注于更现代的方式。"
+    },
+    {
+      "id": 170,
+      "startMs": 938920,
+      "endMs": 948120,
+      "en": "which is Google reviews and Trustpilot, because that is what the modern generation uses more so than the royal warrant title.",
+      "zh": "比如谷歌评价和Trustpilot，因为现代人使用这些的频率高于王室认证头衔。"
+    },
+    {
+      "id": 171,
+      "startMs": 948360,
+      "endMs": 954360,
+      "en": "But I do know that quite a few tourists, they appreciate it more and they follow that more.",
+      "zh": "但我确实知道，有不少游客更看重、也更关注王室认证。"
+    },
+    {
+      "id": 172,
+      "startMs": 954360,
+      "endMs": 957560,
+      "en": "They want to see the stores and the shops that has the title.",
+      "zh": "他们想去看看拥有这一头衔的商店。"
+    },
+    {
+      "id": 173,
+      "startMs": 959800,
+      "endMs": 963720,
+      "en": "There has been no public assessment on a projected economic impact,",
+      "zh": "目前尚无对预期经济影响的公开评估。"
+    },
+    {
+      "id": 174,
+      "startMs": 963880,
+      "endMs": 973960,
+      "en": "and there's also not an estimate on how much it will cost businesses to change their packaging, storefronts or advertisements that state it has a royal warrant.",
+      "zh": "企业修改印有王室认证说明的包装、店面或广告需要花费多少，目前也没有估算。"
+    },
+    {
+      "id": 175,
+      "startMs": 974760,
+      "endMs": 976600,
+      "en": "Daniel Rosney reporting.",
+      "zh": "丹尼尔·罗斯尼报道。"
+    },
+    {
+      "id": 176,
+      "startMs": 979900,
+      "endMs": 981580,
+      "en": "Still to come in this podcast...",
+      "zh": "本期节目稍后还有……"
+    },
+    {
+      "id": 177,
+      "startMs": 982060,
+      "endMs": 986120,
+      "en": "Because I'm not just Peter Parker. I'm Spider-Man.",
+      "zh": "因为我不只是彼得·帕克，我还是蜘蛛侠。"
+    },
+    {
+      "id": 178,
+      "startMs": 987880,
+      "endMs": 991400,
+      "en": "Why the new Spider-Man film is breaking box office records.",
+      "zh": "新《蜘蛛侠》电影为何打破票房纪录。"
+    },
+    {
+      "id": 179,
+      "startMs": 991400,
+      "endMs": 993400,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 180,
+      "startMs": 993960,
+      "endMs": 1000440,
+      "en": "To Nigeria, where the army has said its soldiers have rescued 33 people who were kidnapped in the northwest of the country.",
+      "zh": "下面转向尼日利亚。军方称，士兵解救了在该国西北部遭绑架的33人。"
+    },
+    {
+      "id": 181,
+      "startMs": 1001080,
+      "endMs": 1004200,
+      "en": "The group was travelling by road when the abduction took place.",
+      "zh": "绑架发生时，这群人正在公路上行进。"
+    },
+    {
+      "id": 182,
+      "startMs": 1004360,
+      "endMs": 1009960,
+      "en": "Our Africa correspondent, Simi Jolaoso, told Celia Hatton more about how the people were taken.",
+      "zh": "本台非洲记者西米·乔拉奥索向西莉亚·哈顿详细介绍了这些人被劫持的经过。"
+    },
+    {
+      "id": 183,
+      "startMs": 1010600,
+      "endMs": 1019080,
+      "en": "Well, according to the Nigerian army, a group of 33 passengers were travelling through an area called Magazu in Zamfara State,",
+      "zh": "据尼日利亚军方称，一行 33 名乘客当时正途经扎姆法拉州一个名为马加祖的地区，"
+    },
+    {
+      "id": 184,
+      "startMs": 1019080,
+      "endMs": 1024200,
+      "en": "which is in northwestern Nigeria, when they were abducted on Saturday afternoon.",
+      "zh": "该州位于尼日利亚西北部；他们于周六下午遭到绑架。"
+    },
+    {
+      "id": 185,
+      "startMs": 1024680,
+      "endMs": 1031800,
+      "en": "The army said it received calls about the attack and that, as the kidnappers were trying to move them to another location,",
+      "zh": "军方称，他们接到了有关袭击的求助电话；当时绑匪正试图将这些人转移到另一地点，"
+    },
+    {
+      "id": 186,
+      "startMs": 1031800,
+      "endMs": 1038840,
+      "en": "the army said it quickly mobilised troops alongside police officers to reach where the calls were coming from.",
+      "zh": "军方随即迅速调动部队，并与警察一同赶往求助电话发出的地点。"
+    },
+    {
+      "id": 187,
+      "startMs": 1039000,
+      "endMs": 1044760,
+      "en": "The army said its troops managed to catch up with the kidnappers as they were moving the passengers away.",
+      "zh": "军方称，绑匪转移乘客时，部队成功追上了他们。"
+    },
+    {
+      "id": 188,
+      "startMs": 1044760,
+      "endMs": 1050920,
+      "en": "The army said the troops then opened fire and that the gunmen fled into nearby bushes,",
+      "zh": "军方称，部队随后开火，持枪者逃进了附近的灌木丛，"
+    },
+    {
+      "id": 189,
+      "startMs": 1050940,
+      "endMs": 1054060,
+      "en": "leaving the 33 passengers behind.",
+      "zh": "留下了这33名乘客。"
+    },
+    {
+      "id": 190,
+      "startMs": 1054620,
+      "endMs": 1060540,
+      "en": "The army has confirmed that all 33 people were rescued safely and that there were no casualties or injuries.",
+      "zh": "军方确认，33人均被安全救出，没有人员伤亡。"
+    },
+    {
+      "id": 191,
+      "startMs": 1060940,
+      "endMs": 1065740,
+      "en": "And they said that they are now searching the area, trying to track down those kidnappers.",
+      "zh": "军方还称，他们目前正在搜查该地区，追捕这些绑匪。"
+    },
+    {
+      "id": 192,
+      "startMs": 1066140,
+      "endMs": 1074060,
+      "en": "This isn't the first time that we've talked about kidnappings in Nigeria, and recently, there's been an upsurge in violence in the state.",
+      "zh": "这并非我们第一次谈到尼日利亚的绑架事件，最近该州的暴力活动有所增加。"
+    },
+    {
+      "id": 193,
+      "startMs": 1074060,
+      "endMs": 1077260,
+      "en": "Tell us more about what's being done to address security challenges there.",
+      "zh": "请介绍一下当地为应对安全挑战采取了哪些措施。"
+    },
+    {
+      "id": 194,
+      "startMs": 1077500,
+      "endMs": 1085980,
+      "en": "Yeah, in fact, Zamfara State has been one of the worst affected by armed banditry and kidnappings, especially in northwestern Nigeria.",
+      "zh": "是的，事实上，扎姆法拉州一直是武装匪患和绑架问题最严重的地区之一，在尼日利亚西北部尤其如此。"
+    },
+    {
+      "id": 195,
+      "startMs": 1086540,
+      "endMs": 1090140,
+      "en": "And the security forces have increased military operations in the area,",
+      "zh": "安全部队已经加强了该地区的军事行动，"
+    },
+    {
+      "id": 196,
+      "startMs": 1090380,
+      "endMs": 1097660,
+      "en": "including patrols and operations aimed at disrupting these armed groups and rescuing kidnapped victims.",
+      "zh": "包括开展巡逻，以及旨在瓦解这些武装团体、营救被绑架者的行动。"
+    },
+    {
+      "id": 197,
+      "startMs": 1097660,
+      "endMs": 1101500,
+      "en": "But the scale of the problem remains significant.",
+      "zh": "但问题的规模依然很大。"
+    },
+    {
+      "id": 198,
+      "startMs": 1101740,
+      "endMs": 1105420,
+      "en": "Armed groups continue to operate in these remote areas.",
+      "zh": "武装团体继续在这些偏远地区活动。"
+    },
+    {
+      "id": 199,
+      "startMs": 1105480,
+      "endMs": 1112760,
+      "en": "And they particularly target people who travel along major roads and in rural communities.",
+      "zh": "他们尤其以主要公路上的出行者和乡村社区居民为目标。"
+    },
+    {
+      "id": 200,
+      "startMs": 1113160,
+      "endMs": 1123400,
+      "en": "The authorities, like in this case, are also relying on information from those local communities to identify the movements and locations of these kidnappers.",
+      "zh": "当局也像本案一样，依靠当地社区提供的信息来判断绑匪的动向和位置。"
+    },
+    {
+      "id": 201,
+      "startMs": 1123720,
+      "endMs": 1129880,
+      "en": "So, while there have been some successful rescue operations recently, including this latest one,",
+      "zh": "因此，尽管近期包括这次行动在内的一些营救取得了成功，"
+    },
+    {
+      "id": 202,
+      "startMs": 1130280,
+      "endMs": 1136440,
+      "en": "the wider security challenge in Zamfara State, but also in northwestern Nigeria, remains.",
+      "zh": "但扎姆法拉州乃至整个尼日利亚西北部仍面临更广泛的安全挑战。"
+    },
+    {
+      "id": 203,
+      "startMs": 1136760,
+      "endMs": 1138680,
+      "en": "Simi Jolaoso in Lagos.",
+      "zh": "以上是西米·乔拉奥索在拉各斯的报道。"
+    },
+    {
+      "id": 204,
+      "startMs": 1139700,
+      "endMs": 1143060,
+      "en": "The film Spider-Man: Brand New Day has made history.",
+      "zh": "电影《蜘蛛侠：崭新之日》创造了历史。"
+    },
+    {
+      "id": 205,
+      "startMs": 1143220,
+      "endMs": 1149620,
+      "en": "Sony Pictures says the film grossed almost $1.7 billion in its first ten days of opening,",
+      "zh": "索尼影业称，该片上映前十天的票房接近17亿美元，"
+    },
+    {
+      "id": 206,
+      "startMs": 1149780,
+      "endMs": 1152980,
+      "en": "putting it on course to become the biggest blockbuster ever.",
+      "zh": "有望成为史上票房最高的商业大片。"
+    },
+    {
+      "id": 207,
+      "startMs": 1153540,
+      "endMs": 1154980,
+      "en": "So why is it so popular?",
+      "zh": "那么，它为何如此受欢迎？"
+    },
+    {
+      "id": 208,
+      "startMs": 1155220,
+      "endMs": 1157220,
+      "en": "Gillian Warricker spoke to Sean O'Connell.",
+      "zh": "吉莉安·沃里克采访了肖恩·奥康奈尔。"
+    },
+    {
+      "id": 209,
+      "startMs": 1157700,
+      "endMs": 1166100,
+      "en": "He's an entertainment journalist and the author of With Great Power: How Spider-Man Conquered Hollywood During the Golden Age of Comic Book Blockbusters.",
+      "zh": "他是一名娱乐记者，也是《能力越大：蜘蛛侠如何在漫画改编大片的黄金时代征服好莱坞》一书的作者。"
+    },
+    {
+      "id": 210,
+      "startMs": 1166340,
+      "endMs": 1168100,
+      "en": "It's a combination of two different things.",
+      "zh": "这是两方面因素共同作用的结果。"
+    },
+    {
+      "id": 211,
+      "startMs": 1168260,
+      "endMs": 1173780,
+      "en": "One, fans love Tom Holland's interpretation specifically of Spider-Man.",
+      "zh": "第一，影迷尤其喜欢汤姆·赫兰德对蜘蛛侠的演绎。"
+    },
+    {
+      "id": 212,
+      "startMs": 1173860,
+      "endMs": 1178500,
+      "en": "I think they have bought into what he has done as the character for the previous three films.",
+      "zh": "我认为，观众已经认可了他在前三部电影中对这个角色的塑造。"
+    },
+    {
+      "id": 213,
+      "startMs": 1178820,
+      "endMs": 1180100,
+      "en": "Maybe I'll never read this to you.",
+      "zh": "也许我永远不会把这些念给你听。"
+    },
+    {
+      "id": 214,
+      "startMs": 1180740,
+      "endMs": 1180820,
+      "en": "No.",
+      "zh": "不会。"
+    },
+    {
+      "id": 215,
+      "startMs": 1182420,
+      "endMs": 1183860,
+      "en": "Maybe I'm just writing this for me.",
+      "zh": "也许我写这些只是给自己看的。"
+    },
+    {
+      "id": 216,
+      "startMs": 1186180,
+      "endMs": 1189700,
+      "en": "And maybe that's my responsibility, to live alone with the truth.",
+      "zh": "也许这就是我的责任：独自背负这个真相活下去。"
+    },
+    {
+      "id": 217,
+      "startMs": 1190100,
+      "endMs": 1194180,
+      "en": "Because I'm not just Peter Parker. I'm Spider-Man.",
+      "zh": "因为我不只是彼得·帕克。我是蜘蛛侠。"
+    },
+    {
+      "id": 218,
+      "startMs": 1195300,
+      "endMs": 1199780,
+      "en": "But even off screen, they love the combination of him and Zendaya.",
+      "zh": "即使在银幕之外，观众也喜欢他和赞达亚的组合。"
+    },
+    {
+      "id": 219,
+      "startMs": 1199860,
+      "endMs": 1200900,
+      "en": "Hi, I am Tom Holland.",
+      "zh": "大家好，我是汤姆·赫兰德。"
+    },
+    {
+      "id": 220,
+      "startMs": 1200900,
+      "endMs": 1202020,
+      "en": "Hello, I'm Zendaya.",
+      "zh": "大家好，我是赞达亚。"
+    },
+    {
+      "id": 221,
+      "startMs": 1202020,
+      "endMs": 1204340,
+      "en": "And we are answering your Spider-Man questions.",
+      "zh": "我们来回答大家关于蜘蛛侠的问题。"
+    },
+    {
+      "id": 222,
+      "startMs": 1205100,
+      "endMs": 1207180,
+      "en": "Your name's so big on the poster.",
+      "zh": "海报上你的名字好大。"
+    },
+    {
+      "id": 223,
+      "startMs": 1207980,
+      "endMs": 1213740,
+      "en": "Yeah! They have built this franchise around their two characters, and the fans are turning up to support that.",
+      "zh": "对啊！这个系列以他们两人的角色为核心打造，影迷也纷纷到场支持。"
+    },
+    {
+      "id": 224,
+      "startMs": 1214060,
+      "endMs": 1217740,
+      "en": "Marvel has been down a little bit in terms of the quality of their films,",
+      "zh": "漫威电影的质量最近有些下滑，"
+    },
+    {
+      "id": 225,
+      "startMs": 1217740,
+      "endMs": 1224460,
+      "en": "but Spider-Man's one of those trusted brands that, whether you're a die-hard fan or just a casual blockbuster attendee,",
+      "zh": "但蜘蛛侠是那种值得信赖的品牌，无论你是铁杆粉丝，还是偶尔看看商业大片的普通观众，"
+    },
+    {
+      "id": 226,
+      "startMs": 1224700,
+      "endMs": 1229500,
+      "en": "you know what you're getting from the Spider-Man films, and people are hungry for that in the summertime.",
+      "zh": "你都知道蜘蛛侠电影会带来什么，而人们在暑期正渴望这样的作品。"
+    },
+    {
+      "id": 227,
+      "startMs": 1229900,
+      "endMs": 1234380,
+      "en": "What is he doing with this character that is particularly appealing?",
+      "zh": "他对这个角色的演绎究竟有什么格外吸引人的地方？"
+    },
+    {
+      "id": 228,
+      "startMs": 1234540,
+      "endMs": 1241580,
+      "en": "He is giving a version of Peter Parker and Spider-Man that readers of the comics and fans of the movies have grown to love,",
+      "zh": "他塑造的彼得·帕克和蜘蛛侠，是漫画读者和电影观众逐渐喜爱的版本，"
+    },
+    {
+      "id": 229,
+      "startMs": 1241580,
+      "endMs": 1246780,
+      "en": "which is a beaten-down, down on his luck, poor, broke, alone.",
+      "zh": "一个饱受打击、时运不济、贫穷、身无分文又孤独的形象。"
+    },
+    {
+      "id": 230,
+      "startMs": 1246860,
+      "endMs": 1250300,
+      "en": "Like, this is the version of Spider-Man that we find relatable.",
+      "zh": "这正是让我们感到亲切、有共鸣的蜘蛛侠。"
+    },
+    {
+      "id": 231,
+      "startMs": 1250300,
+      "endMs": 1250780,
+      "en": "It's not Superman.",
+      "zh": "他不是超人。"
+    },
+    {
+      "id": 232,
+      "startMs": 1251340,
+      "endMs": 1254780,
+      "en": "It's not Batman, who's a billionaire with all the toys at his disposal.",
+      "zh": "他也不是拥有亿万身家、各种装备任其使用的蝙蝠侠。"
+    },
+    {
+      "id": 233,
+      "startMs": 1255260,
+      "endMs": 1258140,
+      "en": "The Tom Hardy Venom franchise didn't necessarily connect.",
+      "zh": "汤姆·哈迪主演的《毒液》系列并未真正引起观众共鸣。"
+    },
+    {
+      "id": 234,
+      "startMs": 1258140,
+      "endMs": 1264780,
+      "en": "Sony tried to make film franchises out of supporting characters like Morbius and Madame Web.",
+      "zh": "索尼曾尝试围绕莫比亚斯和蜘蛛夫人等配角打造电影系列。"
+    },
+    {
+      "id": 235,
+      "startMs": 1265280,
+      "endMs": 1271360,
+      "en": "And the audience was vocal about the fact that they did not like those films and did not want to see that bit continue.",
+      "zh": "观众明确表达了对这些电影的不满，也不希望这一方向继续下去。"
+    },
+    {
+      "id": 236,
+      "startMs": 1271360,
+      "endMs": 1278320,
+      "en": "The Spider-Man films that Tom Holland has been in have benefited from the fact that Marvel Studios is collaborating with Sony",
+      "zh": "汤姆·赫兰德出演的蜘蛛侠电影得益于漫威影业与索尼的合作，"
+    },
+    {
+      "id": 237,
+      "startMs": 1278320,
+      "endMs": 1282720,
+      "en": "from a creative standpoint to make sure that they are as close to the comics as they can be,",
+      "zh": "双方从创作层面努力确保电影尽可能贴近漫画，"
+    },
+    {
+      "id": 238,
+      "startMs": 1283040,
+      "endMs": 1284800,
+      "en": "and that's been really helpful up to this point.",
+      "zh": "到目前为止，这一点非常有帮助。"
+    },
+    {
+      "id": 239,
+      "startMs": 1284880,
+      "endMs": 1287840,
+      "en": "And I hope they can keep it going, but we know how difficult that can be.",
+      "zh": "我希望他们能继续合作，但我们也知道这并不容易。"
+    },
+    {
+      "id": 240,
+      "startMs": 1288160,
+      "endMs": 1292000,
+      "en": "And on the broader picture, clearly, many, many people are going to the cinema to see this,",
+      "zh": "从更宏观的角度看，显然有非常多的人走进电影院观看这部电影，"
+    },
+    {
+      "id": 241,
+      "startMs": 1292000,
+      "endMs": 1297600,
+      "en": "but they're actually going to the cinema more generally, perhaps more than people were expecting just now, aren't they?",
+      "zh": "而且总体而言，最近去电影院的人似乎也比大家预期的更多，对吧？"
+    },
+    {
+      "id": 242,
+      "startMs": 1297600,
+      "endMs": 1298720,
+      "en": "What's that all about?",
+      "zh": "这是为什么呢？"
+    },
+    {
+      "id": 243,
+      "startMs": 1298720,
+      "endMs": 1303040,
+      "en": "It's good product being put into the theatres, and Hollywood is still struggling with that.",
+      "zh": "关键是要有优质作品进入影院，而好莱坞在这方面仍然举步维艰。"
+    },
+    {
+      "id": 244,
+      "startMs": 1303040,
+      "endMs": 1306880,
+      "en": "The two big things that slowed the industry down: one was the pandemic,",
+      "zh": "拖慢电影业发展的两大因素之一是疫情，"
+    },
+    {
+      "id": 245,
+      "startMs": 1306880,
+      "endMs": 1310240,
+      "en": "and the other was a writers' strike that sort of ground Hollywood to a halt.",
+      "zh": "另一个是编剧罢工，它几乎让好莱坞陷入停摆。"
+    },
+    {
+      "id": 246,
+      "startMs": 1310720,
+      "endMs": 1316480,
+      "en": "We are now climbing out of that, and the studios are sort of stockpiling the types of films that they're able to get into theatres,",
+      "zh": "我们现在正逐渐走出低谷，各家制片厂也在储备能够推向影院的各类影片，"
+    },
+    {
+      "id": 247,
+      "startMs": 1316480,
+      "endMs": 1317280,
+      "en": "but we don't have enough.",
+      "zh": "但数量仍然不够。"
+    },
+    {
+      "id": 248,
+      "startMs": 1318000,
+      "endMs": 1322640,
+      "en": "You know, we're seeing one big movie every weekend where we used to see two to three,",
+      "zh": "要知道，现在每个周末只有一部大片，而过去会有两三部，"
+    },
+    {
+      "id": 249,
+      "startMs": 1322720,
+      "endMs": 1326900,
+      "en": "and now we might have some weekends where nothing major is landing at all.",
+      "zh": "现在有些周末甚至完全没有重要新片上映。"
+    },
+    {
+      "id": 250,
+      "startMs": 1327140,
+      "endMs": 1330820,
+      "en": "And so audiences are going to the theatres and saying, \"Okay, what's available? What can I see?\"",
+      "zh": "所以观众走进影院时会问：“现在有什么片？我能看什么？”"
+    },
+    {
+      "id": 251,
+      "startMs": 1330900,
+      "endMs": 1340180,
+      "en": "Audiences are ready to get off their couch, to get away from streaming and to get back to the big screen, as long as Hollywood will give them good films that they can support.",
+      "zh": "只要好莱坞能提供值得支持的好电影，观众已经准备好离开沙发、暂别流媒体，重新回到大银幕前。"
+    },
+    {
+      "id": 252,
+      "startMs": 1340980,
+      "endMs": 1344420,
+      "en": "Sean O'Connell, entertainment journalist, speaking to Gillian Warricker.",
+      "zh": "以上是娱乐记者肖恩·奥康奈尔接受吉莉安·沃里克采访。"
+    },
+    {
+      "id": 253,
+      "startMs": 1345460,
+      "endMs": 1350900,
+      "en": "Now, he's one of the most well-known, if not recognizable, artists in the world alive today.",
+      "zh": "他是当今世界最知名的艺术家之一，尽管人们未必认得出他。"
+    },
+    {
+      "id": 254,
+      "startMs": 1351220,
+      "endMs": 1356980,
+      "en": "Works by Banksy, who famously keeps his identity hidden, have sold for millions of dollars at auction.",
+      "zh": "班克斯以隐藏真实身份闻名，他的作品曾在拍卖会上以数百万美元成交。"
+    },
+    {
+      "id": 255,
+      "startMs": 1357540,
+      "endMs": 1362820,
+      "en": "But are the street murals and installations that often appear overnight and attract huge crowds",
+      "zh": "但这些常在一夜之间出现、吸引大批人群的街头壁画和装置，"
+    },
+    {
+      "id": 256,
+      "startMs": 1363300,
+      "endMs": 1368580,
+      "en": "art to be admired and preserved, or acts of vandalism that should be cleaned up and removed?",
+      "zh": "究竟是应当欣赏和保护的艺术，还是应当清理移除的破坏行为？"
+    },
+    {
+      "id": 257,
+      "startMs": 1369300,
+      "endMs": 1378340,
+      "en": "The BBC has been told that the British government has spent $270,000 dealing with three works put up in public by the elusive street artist.",
+      "zh": "BBC获悉，英国政府为处理这位神秘街头艺术家在公共场所创作的三件作品，已花费27万美元。"
+    },
+    {
+      "id": 258,
+      "startMs": 1378900,
+      "endMs": 1382180,
+      "en": "Most of the money went on getting rid of a mural on a court building in London",
+      "zh": "其中大部分资金用于移除伦敦一座法院大楼上的壁画，"
+    },
+    {
+      "id": 259,
+      "startMs": 1382180,
+      "endMs": 1386820,
+      "en": "that depicted a judge in a wig using his gavel to hit a protester.",
+      "zh": "画中一名戴假发的法官正用法槌击打一名抗议者。"
+    },
+    {
+      "id": 260,
+      "startMs": 1387460,
+      "endMs": 1393940,
+      "en": "Our global affairs reporter Paul Moss told us about the three Banksy pieces and what all the money was spent on.",
+      "zh": "本台全球事务记者保罗·莫斯介绍了这三件班克斯作品，以及这些钱的具体用途。"
+    },
+    {
+      "id": 261,
+      "startMs": 1394420,
+      "endMs": 1400020,
+      "en": "The first one, the most expensive one, is the one you mentioned: the judge bashing a protester over the head with a gavel,",
+      "zh": "第一件，也是花费最高的一件，就是你提到的那幅法官用法槌击打抗议者头部的作品，"
+    },
+    {
+      "id": 262,
+      "startMs": 1400020,
+      "endMs": 1405380,
+      "en": "which was seen as a comment on some recent judicial decisions where protesters have been prosecuted.",
+      "zh": "它被视为对近期一些起诉抗议者的司法裁决所作的评论。"
+    },
+    {
+      "id": 263,
+      "startMs": 1405700,
+      "endMs": 1409380,
+      "en": "Yes, the Ministry of Justice, they're responsible for the law court where it was painted.",
+      "zh": "是的，司法部负责管理这幅画所在的法院。"
+    },
+    {
+      "id": 264,
+      "startMs": 1409380,
+      "endMs": 1414740,
+      "en": "They say it cost the equivalent of $70,000 to remove the artwork,",
+      "zh": "司法部称，移除这件作品的费用折合7万美元，"
+    },
+    {
+      "id": 265,
+      "startMs": 1414740,
+      "endMs": 1419620,
+      "en": "and another $50,000 spent on security, making sure no one painted anything else.",
+      "zh": "另有5万美元用于安保，确保不再有人涂画其他内容。"
+    },
+    {
+      "id": 266,
+      "startMs": 1420180,
+      "endMs": 1425700,
+      "en": "Got to say, that does seem like a lot of money for a removal job that took two days, but that's what the Ministry is saying.",
+      "zh": "不得不说，一项只花两天的移除工作要这么多钱，确实显得很贵，但司法部就是这样说的。"
+    },
+    {
+      "id": 267,
+      "startMs": 1426420,
+      "endMs": 1430600,
+      "en": "The second work is a giant statue of a man marching along with a flag.",
+      "zh": "第二件作品是一座巨型雕像，呈现一名男子举旗行进。"
+    },
+    {
+      "id": 268,
+      "startMs": 1430600,
+      "endMs": 1438360,
+      "en": "The extraordinary thing about this is that Banksy managed to erect this in the middle of the night, right in the centre of London, without anyone noticing.",
+      "zh": "不可思议的是，班克斯竟在无人察觉的情况下，于深夜把它竖立在伦敦市中心。"
+    },
+    {
+      "id": 269,
+      "startMs": 1438360,
+      "endMs": 1443080,
+      "en": "Now, Westminster Council, they haven't removed it; they've put security fences around it.",
+      "zh": "威斯敏斯特市议会并未将其移走，而是在周围设置了安全围栏。"
+    },
+    {
+      "id": 270,
+      "startMs": 1443320,
+      "endMs": 1444920,
+      "en": "They say that has cost $80,000.",
+      "zh": "市议会称，这已花费8万美元。"
+    },
+    {
+      "id": 271,
+      "startMs": 1445000,
+      "endMs": 1453240,
+      "en": "And the final one was a police box, sort of sentry box for police, which Banksy covered in some rather colourful pictures of piranhas.",
+      "zh": "最后一件是一座警亭，类似警察岗亭，班克斯在上面画满了色彩鲜艳的食人鱼。"
+    },
+    {
+      "id": 272,
+      "startMs": 1453320,
+      "endMs": 1457560,
+      "en": "For that, the police simply removed it, and that cost a few thousand dollars.",
+      "zh": "警方直接将它移走，花费了数千美元。"
+    },
+    {
+      "id": 273,
+      "startMs": 1457880,
+      "endMs": 1459960,
+      "en": "So yes, as you say, a lot of money involved.",
+      "zh": "所以，正如你所说，这确实涉及一大笔钱。"
+    },
+    {
+      "id": 274,
+      "startMs": 1460360,
+      "endMs": 1465880,
+      "en": "One work of Banksy's was removed, and bear in mind they have to remove the whole wall as well as the painting.",
+      "zh": "班克斯有一件作品曾被拆走，要知道，他们必须连同画作把整面墙一起拆下。"
+    },
+    {
+      "id": 275,
+      "startMs": 1466200,
+      "endMs": 1471000,
+      "en": "One of the works went to auction, and get this, it went for $25 million.",
+      "zh": "其中一件作品后来上了拍卖会，你猜怎么着——它拍出了2500万美元。"
+    },
+    {
+      "id": 276,
+      "startMs": 1471320,
+      "endMs": 1476760,
+      "en": "One little postscript I should add is that Banksy's works have become quite a draw for tourists.",
+      "zh": "我还要补充一点：班克斯的作品已经成为颇具吸引力的旅游景点。"
+    },
+    {
+      "id": 277,
+      "startMs": 1477160,
+      "endMs": 1479080,
+      "en": "So local councils are a bit of a bind.",
+      "zh": "因此，地方议会有些左右为难。"
+    },
+    {
+      "id": 278,
+      "startMs": 1479080,
+      "endMs": 1484440,
+      "en": "They don't really like these works going up without permission, willy-nilly, but they do rather like the money.",
+      "zh": "他们不喜欢这些作品未经许可就随意出现，却很喜欢它们带来的收入。"
+    },
+    {
+      "id": 279,
+      "startMs": 1485080,
+      "endMs": 1485720,
+      "en": "Paul Moss.",
+      "zh": "以上是保罗·莫斯的报道。"
+    },
+    {
+      "id": 280,
+      "startMs": 1486520,
+      "endMs": 1492700,
+      "en": "And finally on the podcast, Italian divers have discovered a Roman-era shipwreck off the coast of Sicily.",
+      "zh": "最后，意大利潜水员在西西里岛近海发现了一艘古罗马时期的沉船。"
+    },
+    {
+      "id": 281,
+      "startMs": 1492700,
+      "endMs": 1497820,
+      "en": "Officials say measures will be taken to protect the site while it undergoes investigation.",
+      "zh": "官员表示，调查期间将采取措施保护该遗址。"
+    },
+    {
+      "id": 282,
+      "startMs": 1497900,
+      "endMs": 1499980,
+      "en": "Mimi Swaby has more details.",
+      "zh": "米米·斯瓦比带来详细报道。"
+    },
+    {
+      "id": 283,
+      "startMs": 1500460,
+      "endMs": 1504540,
+      "en": "The vessel, believed to be more than 2,000 years old, was found piled high",
+      "zh": "据信，这艘船已有两千多年历史；人们发现船上堆满了"
+    },
+    {
+      "id": 284,
+      "startMs": 1504540,
+      "endMs": 1510940,
+      "en": "with hundreds of well-preserved containers used in Roman times to transport goods and, most commonly, wine.",
+      "zh": "数百个保存完好的容器，古罗马时期用来运输货物，其中最常装的是葡萄酒。"
+    },
+    {
+      "id": 285,
+      "startMs": 1511500,
+      "endMs": 1517340,
+      "en": "Italy's Culture Minister said the wreck was one of the most important underwater archaeological discoveries of recent years.",
+      "zh": "意大利文化部长称，这艘沉船是近年来最重要的水下考古发现之一。"
+    },
+    {
+      "id": 286,
+      "startMs": 1517820,
+      "endMs": 1521340,
+      "en": "It was discovered 46 metres deep after a tip-off from fishermen.",
+      "zh": "在渔民提供线索后，人们在46米深的水下发现了它。"
+    },
+    {
+      "id": 287,
+      "startMs": 1521820,
+      "endMs": 1525340,
+      "en": "Giacomo de Mola, a fisherman and free diver, made the discovery.",
+      "zh": "发现者是渔民兼自由潜水员贾科莫·德·莫拉。"
+    },
+    {
+      "id": 288,
+      "startMs": 1525580,
+      "endMs": 1527980,
+      "en": "He described his experiences on social media.",
+      "zh": "他在社交媒体上描述了自己的经历。"
+    },
+    {
+      "id": 289,
+      "startMs": 1528380,
+      "endMs": 1531180,
+      "en": "Sotto di me, un'immensa distesa di anfore.",
+      "zh": "在我下方，是一大片无边无际的双耳陶罐。"
+    },
+    {
+      "id": 290,
+      "startMs": 1531180,
+      "endMs": 1537340,
+      "en": "Below me, an immense spread of amphorae, a few hundred amphorae, perfectly intact.",
+      "zh": "我下方铺展着大片双耳陶罐，几百个陶罐完好无损。"
+    },
+    {
+      "id": 291,
+      "startMs": 1537900,
+      "endMs": 1542780,
+      "en": "Below me, a Roman ship that's been sleeping there for at least 2,000 years.",
+      "zh": "我下方是一艘古罗马船只，已在那里沉睡了至少两千年。"
+    },
+    {
+      "id": 292,
+      "startMs": 1543420,
+      "endMs": 1545020,
+      "en": "It's hard to explain what you feel.",
+      "zh": "这种感受很难用语言解释。"
+    },
+    {
+      "id": 293,
+      "startMs": 1545500,
+      "endMs": 1553840,
+      "en": "For a few moments, you realise you're probably the first human being in 20 centuries to see this place, a treasure at the bottom of the sea.",
+      "zh": "有那么一瞬间，你意识到自己可能是二十个世纪以来第一个见到此地的人——这是一处海底宝藏。"
+    },
+    {
+      "id": 294,
+      "startMs": 1554560,
+      "endMs": 1558560,
+      "en": "Local media say the vessel is 21 metres long and six metres wide.",
+      "zh": "当地媒体称，这艘船长21米、宽6米。"
+    },
+    {
+      "id": 295,
+      "startMs": 1559040,
+      "endMs": 1566720,
+      "en": "The site will now undergo further documentation and investigation by experts to determine the nature of the wreck and learn more about its cargo.",
+      "zh": "专家接下来将对遗址进行进一步记录和调查，以确定沉船的性质，并了解更多有关船上货物的信息。"
+    },
+    {
+      "id": 296,
+      "startMs": 1567040,
+      "endMs": 1568560,
+      "en": "Mimi Swaby with that report.",
+      "zh": "以上是米米·斯瓦比的报道。"
+    },
+    {
+      "id": 297,
+      "startMs": 1572340,
+      "endMs": 1573620,
+      "en": "And that's all from us for now.",
+      "zh": "本期节目到这里就结束了。"
+    },
+    {
+      "id": 298,
+      "startMs": 1573780,
+      "endMs": 1578420,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 299,
+      "startMs": 1578420,
+      "endMs": 1582020,
+      "en": "You can also find us on X @bbcworldservice.",
+      "zh": "你也可以在 X 平台关注 @bbcworldservice。"
+    },
+    {
+      "id": 300,
+      "startMs": 1582020,
+      "endMs": 1584180,
+      "en": "Use the hashtag #globalnews.",
+      "zh": "请使用话题标签 #globalnews。"
+    },
+    {
+      "id": 301,
+      "startMs": 1584660,
+      "endMs": 1591060,
+      "en": "And don't forget our sister podcast, The Global Story, which goes in depth and beyond the headlines on one big story.",
+      "zh": "别忘了我们的姊妹播客《全球故事》，它会围绕一个重大事件深入探讨，呈现标题之外的内容。"
+    },
+    {
+      "id": 302,
+      "startMs": 1591620,
+      "endMs": 1596660,
+      "en": "This edition of the Global News Podcast was mixed by Derek Clark, and the producer was Emma Joseph.",
+      "zh": "本期《全球新闻播客》由德里克·克拉克负责混音，制片人是艾玛·约瑟夫。"
+    },
+    {
+      "id": 303,
+      "startMs": 1596980,
+      "endMs": 1598500,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 304,
+      "startMs": 1598740,
+      "endMs": 1599540,
+      "en": "I'm Pete Ross.",
+      "zh": "我是皮特·罗斯。"
+    },
+    {
+      "id": 305,
+      "startMs": 1600020,
+      "endMs": 1601620,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
