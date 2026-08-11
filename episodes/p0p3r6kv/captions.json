@@ -1,0 +1,2097 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "10 August 2026"
+  },
+  "durationMs": 1761500,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4000,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是BBC国际台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6260,
+      "endMs": 11060,
+      "en": "I'm Janat Jalil, and at 15 hours GMT on Monday, the 10th of August, these are our main stories.",
+      "zh": "我是贾纳特·贾利勒。格林尼治时间8月10日星期一15时，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11620,
+      "endMs": 16420,
+      "en": "Scientists warn that the world's oceans have hit record-high temperatures for July.",
+      "zh": "科学家警告，全球海洋温度创下7月历史新高。"
+    },
+    {
+      "id": 4,
+      "startMs": 17260,
+      "endMs": 22460,
+      "en": "Drone strikes target deep inside Russia in one of Ukraine's deadliest attacks yet.",
+      "zh": "无人机袭击俄罗斯腹地，成为乌克兰迄今造成死亡人数最多的袭击之一。"
+    },
+    {
+      "id": 5,
+      "startMs": 23420,
+      "endMs": 30380,
+      "en": "FIFA's embattled president Gianni Infantino faces yet more criticism from football confederations.",
+      "zh": "深陷争议的国际足联主席詹尼·因凡蒂诺再遭多家足球联合会批评。"
+    },
+    {
+      "id": 6,
+      "startMs": 32940,
+      "endMs": 37900,
+      "en": "Also in this podcast, we hear how acupuncture is benefiting animals.",
+      "zh": "本期节目还将介绍针灸如何使动物受益。"
+    },
+    {
+      "id": 7,
+      "startMs": 38140,
+      "endMs": 47500,
+      "en": "It really works through increasing the body's healing response, through mobilizing stem cells in the circulation, moving blood flow to the areas you're needling.",
+      "zh": "它通过增强身体的愈合反应、调动循环系统中的干细胞，并让血液流向施针部位来发挥作用。"
+    },
+    {
+      "id": 8,
+      "startMs": 51220,
+      "endMs": 54500,
+      "en": "We start with more grim news about our warming planet.",
+      "zh": "首先来看有关地球变暖的又一则严峻消息。"
+    },
+    {
+      "id": 9,
+      "startMs": 54740,
+      "endMs": 60980,
+      "en": "Scientists have found that the world's oceans were hotter last month than in any other July on record.",
+      "zh": "科学家发现，上个月全球海洋温度高于有记录以来的任何一个7月。"
+    },
+    {
+      "id": 10,
+      "startMs": 61460,
+      "endMs": 66020,
+      "en": "In a new report, the European Union's climate change monitoring programme, Copernicus,",
+      "zh": "欧盟气候变化监测项目“哥白尼”在一份新报告中称，"
+    },
+    {
+      "id": 11,
+      "startMs": 66260,
+      "endMs": 73540,
+      "en": "says average sea surface temperatures outside the polar regions hit nearly 21 degrees Celsius in July.",
+      "zh": "7月极地以外海域的平均海表温度接近21摄氏度。"
+    },
+    {
+      "id": 12,
+      "startMs": 74180,
+      "endMs": 83300,
+      "en": "It also says that Western Europe experienced its hottest June and July on record, driven by the El Niño weather pattern developing in the Pacific.",
+      "zh": "报告还称，在太平洋形成的厄尔尼诺天气模式推动下，西欧经历了有记录以来最热的6月和7月。"
+    },
+    {
+      "id": 13,
+      "startMs": 84100,
+      "endMs": 91460,
+      "en": "Diána Ürge-Vorsatz, from the UN's panel on climate change, said the data showed that urgent action was needed.",
+      "zh": "联合国政府间气候变化专门委员会的迪亚娜·于尔盖-沃尔萨茨表示，数据表明必须立即采取行动。"
+    },
+    {
+      "id": 14,
+      "startMs": 91860,
+      "endMs": 100180,
+      "en": "Unless we stop global warming, these records are continued to be exceeded, and the situation will continue to get worse and worse.",
+      "zh": "除非我们阻止全球变暖，否则这些纪录还会不断被打破，形势也会越来越糟。"
+    },
+    {
+      "id": 15,
+      "startMs": 100420,
+      "endMs": 110420,
+      "en": "More intense heatwaves, more intense droughts, more intense downpours, as well as more places where wildfires are burning up territories.",
+      "zh": "热浪、干旱和暴雨都会更加猛烈，野火肆虐的地区也会更多。"
+    },
+    {
+      "id": 16,
+      "startMs": 110760,
+      "endMs": 114920,
+      "en": "And also, the smoke is also very bad for an increasing area.",
+      "zh": "而且，烟霾还会对越来越广的地区造成严重影响。"
+    },
+    {
+      "id": 17,
+      "startMs": 115720,
+      "endMs": 118280,
+      "en": "Our environment correspondent Matt McGrath told me more.",
+      "zh": "本台环境事务记者马特·麦格拉思向我作了进一步介绍。"
+    },
+    {
+      "id": 18,
+      "startMs": 118840,
+      "endMs": 128120,
+      "en": "The figures from Copernicus—the 20.96 degrees temperature for the oceans in July, the highest July recording that they've ever had.",
+      "zh": "“哥白尼”的数据显示，7月海洋温度达到20.96摄氏度，是他们记录到的最高7月温度。"
+    },
+    {
+      "id": 19,
+      "startMs": 128440,
+      "endMs": 135720,
+      "en": "I think the average, in some respects, hides the detail and the scale of the heating that's going into the oceans right now.",
+      "zh": "我认为，这个平均值在某些方面掩盖了细节，也掩盖了目前海洋吸收热量的规模。"
+    },
+    {
+      "id": 20,
+      "startMs": 135720,
+      "endMs": 145400,
+      "en": "So, in some parts of Western Europe, temperatures in the seas were 8 degrees Celsius above the local norm that you'd expect for that time of the year.",
+      "zh": "因此，在西欧部分地区，海水温度比一年中这个时节当地应有的正常水平高出8摄氏度。"
+    },
+    {
+      "id": 21,
+      "startMs": 145800,
+      "endMs": 151000,
+      "en": "So, when we give these global average figures and people say, “Well, you know, that doesn't sound that much,”",
+      "zh": "所以，当我们给出这些全球平均数字，而人们说：“嗯，你知道，听起来也没有高多少”时，"
+    },
+    {
+      "id": 22,
+      "startMs": 151480,
+      "endMs": 156680,
+      "en": "when you see it on a local level, you see what's really happening in places like that, like in the Western Mediterranean.",
+      "zh": "一旦从当地层面观察，你就会看到这些地方真正发生了什么，比如西地中海。"
+    },
+    {
+      "id": 23,
+      "startMs": 157080,
+      "endMs": 161240,
+      "en": "And this is happening in many, many parts of the world, and has many implications, I think, for our oceans.",
+      "zh": "这种情况正在世界许多许多地区发生，我认为它会给海洋带来多方面影响。"
+    },
+    {
+      "id": 24,
+      "startMs": 161560,
+      "endMs": 167400,
+      "en": "We're creating marine heatwaves of intense capacity around the oceans, which threaten sea life directly.",
+      "zh": "我们正在各处海洋中制造强度极高的海洋热浪，直接威胁海洋生物。"
+    },
+    {
+      "id": 25,
+      "startMs": 167720,
+      "endMs": 173740,
+      "en": "But I suppose the biggest overall impact of the warming seas is the potential impact in sea-level rise.",
+      "zh": "不过我认为，海水变暖最大的总体影响，或许是对海平面上升的潜在影响。"
+    },
+    {
+      "id": 26,
+      "startMs": 174060,
+      "endMs": 175420,
+      "en": "Warming water expands.",
+      "zh": "水受热会膨胀。"
+    },
+    {
+      "id": 27,
+      "startMs": 175660,
+      "endMs": 179420,
+      "en": "That pushes that water up onto the land in different places,",
+      "zh": "这会让海水在不同地方涌上陆地；"
+    },
+    {
+      "id": 28,
+      "startMs": 179420,
+      "endMs": 185820,
+      "en": "and that can have a tremendous effect when it's combined with storms, heavy winds, and other natural phenomena like that.",
+      "zh": "若再叠加风暴、强风等自然现象，便可能造成巨大影响。"
+    },
+    {
+      "id": 29,
+      "startMs": 185820,
+      "endMs": 191900,
+      "en": "So, yeah, there's a whole range of things hidden in the data here that have real impacts in real people's lives all across the world.",
+      "zh": "所以，是的，这些数据背后隐藏着一系列问题，切实影响着世界各地人们的生活。"
+    },
+    {
+      "id": 30,
+      "startMs": 192460,
+      "endMs": 196460,
+      "en": "And this comes on top of all the wildfires that we've seen across Europe and North America.",
+      "zh": "而与此同时，我们还看到欧洲和北美各地发生了多场野火。"
+    },
+    {
+      "id": 31,
+      "startMs": 197320,
+      "endMs": 204920,
+      "en": "Yes, absolutely. We're seeing this, what's called a compound effect, where you have this drying out caused by the intense heat,",
+      "zh": "是的，确实如此。我们看到的是所谓的复合效应：酷热导致环境变干，"
+    },
+    {
+      "id": 32,
+      "startMs": 205320,
+      "endMs": 211080,
+      "en": "and that soil that dries out then reflects more heat back into the atmosphere, makes the conditions warmer.",
+      "zh": "而干燥的土壤又把更多热量反射回大气，使环境更加炎热。"
+    },
+    {
+      "id": 33,
+      "startMs": 211080,
+      "endMs": 221080,
+      "en": "So you get a vicious cycle, if you like, of drying heat in the atmosphere, drying ground, drying out continuously, and that is leaving a real tinderbox effect.",
+      "zh": "于是就形成了恶性循环：大气中的干热让地面持续干燥，最终造就了真正一点就着的局面。"
+    },
+    {
+      "id": 34,
+      "startMs": 221080,
+      "endMs": 225000,
+      "en": "And we've had in Europe and many other places a very wet winter just a few months ago.",
+      "zh": "就在几个月前，欧洲和许多其他地方还经历了一个非常湿润的冬季。"
+    },
+    {
+      "id": 35,
+      "startMs": 225000,
+      "endMs": 232680,
+      "en": "Now it seems unbelievable to talk about it being a wet winter, but that winter fuelled huge amounts of growth of grass, bushes, and other material, trees.",
+      "zh": "现在再说那是一个湿润的冬季似乎令人难以置信，但那个冬季促使大量草木、灌木和树木生长。"
+    },
+    {
+      "id": 36,
+      "startMs": 233000,
+      "endMs": 240440,
+      "en": "And they all provided extreme, I suppose, fuel for these fires that have lit in North America, in Europe, and many other places too.",
+      "zh": "我想，它们全都成了极易助燃的燃料，导致北美、欧洲和许多其他地方燃起这些大火。"
+    },
+    {
+      "id": 37,
+      "startMs": 240760,
+      "endMs": 242120,
+      "en": "Matt, can we turn this around?",
+      "zh": "马特，我们能扭转局面吗？"
+    },
+    {
+      "id": 38,
+      "startMs": 242280,
+      "endMs": 243000,
+      "en": "Is there still time?",
+      "zh": "现在还来得及吗？"
+    },
+    {
+      "id": 39,
+      "startMs": 243900,
+      "endMs": 249820,
+      "en": "I think it's going to be very difficult in the next year or two, because we have the impact of El Niño driving up the oceans, making the oceans warmer.",
+      "zh": "我认为未来一两年会非常艰难，因为厄尔尼诺的影响会推高海洋温度，使海水进一步变暖。"
+    },
+    {
+      "id": 40,
+      "startMs": 249820,
+      "endMs": 252620,
+      "en": "We'll really feel the full effect of that next year.",
+      "zh": "明年我们才会真正感受到它的全面影响。"
+    },
+    {
+      "id": 41,
+      "startMs": 252620,
+      "endMs": 255900,
+      "en": "So I think for the short term, it's going to be very, very difficult.",
+      "zh": "所以我认为，短期内形势会非常非常艰难。"
+    },
+    {
+      "id": 42,
+      "startMs": 255980,
+      "endMs": 261580,
+      "en": "Longer term, you know, political attention on the climate question has waned considerably.",
+      "zh": "从长远看，你知道，政界对气候问题的关注已经大幅减弱。"
+    },
+    {
+      "id": 43,
+      "startMs": 262380,
+      "endMs": 264140,
+      "en": "I would be worried about that longer term,",
+      "zh": "长期而言，我会对此感到担忧；"
+    },
+    {
+      "id": 44,
+      "startMs": 264460,
+      "endMs": 272060,
+      "en": "and I think short term we're going to see perhaps many more difficult hours, many more difficult recordings of data over the next 12 months.",
+      "zh": "短期内，我认为未来12个月或许还会出现更多艰难时刻，记录到更多严峻数据。"
+    },
+    {
+      "id": 45,
+      "startMs": 272860,
+      "endMs": 273500,
+      "en": "Matt McGrath.",
+      "zh": "马特·麦格拉思。"
+    },
+    {
+      "id": 46,
+      "startMs": 273980,
+      "endMs": 278540,
+      "en": "In what appears to be one of the deadliest air attacks by Ukraine on Russia so far,",
+      "zh": "在这场看来是乌克兰迄今对俄罗斯发动的致死人数最多的空袭之一中，"
+    },
+    {
+      "id": 47,
+      "startMs": 278780,
+      "endMs": 285980,
+      "en": "at least 13 people, including a child, have been killed by a drone strike deep inside Russian territory.",
+      "zh": "至少13人被深入俄境的无人机袭击炸死，其中包括一名儿童。"
+    },
+    {
+      "id": 48,
+      "startMs": 286380,
+      "endMs": 288380,
+      "en": "Nearly 40 other people were wounded.",
+      "zh": "另有近40人受伤。"
+    },
+    {
+      "id": 49,
+      "startMs": 288860,
+      "endMs": 297260,
+      "en": "Ukraine's military says it targeted an oil refinery in the city of Nizhnekamsk in Tatarstan, which lies a long way east of Moscow.",
+      "zh": "乌克兰军方称，其袭击目标是鞑靼斯坦共和国下卡姆斯克市的一座炼油厂；该市位于莫斯科以东很远的地方。"
+    },
+    {
+      "id": 50,
+      "startMs": 297740,
+      "endMs": 301420,
+      "en": "But the Russian authorities say civilian sites were also hit.",
+      "zh": "但俄罗斯当局称，民用设施也遭到了袭击。"
+    },
+    {
+      "id": 51,
+      "startMs": 301660,
+      "endMs": 304560,
+      "en": "I got more details from our Russia editor Steve Rosenberg.",
+      "zh": "本台俄罗斯事务编辑史蒂夫·罗森伯格向我介绍了更多细节。"
+    },
+    {
+      "id": 52,
+      "startMs": 305200,
+      "endMs": 307840,
+      "en": "Well, first of all, let me tell you a little bit about Nizhnekamsk.",
+      "zh": "嗯，首先我来简单介绍一下下卡姆斯克。"
+    },
+    {
+      "id": 53,
+      "startMs": 308080,
+      "endMs": 312400,
+      "en": "Yes, you're right, it's a long way away from Moscow, 900 kilometres or so.",
+      "zh": "是的，你说得对，那里距离莫斯科很远，大约900公里。"
+    },
+    {
+      "id": 54,
+      "startMs": 312880,
+      "endMs": 318800,
+      "en": "But clearly, Ukrainian long-range drones able to cover such long distances now.",
+      "zh": "但显然，乌克兰的远程无人机如今能够飞越如此长的距离。"
+    },
+    {
+      "id": 55,
+      "startMs": 319120,
+      "endMs": 329920,
+      "en": "Earlier today, the mayor of Nizhnekamsk announced that there'd been a drone attack, a Ukrainian drone attack, on the city, on civilian and industrial targets, he said.",
+      "zh": "今天早些时候，下卡姆斯克市长宣布该市遭到无人机袭击；他说，这是乌克兰无人机对民用和工业目标发动的袭击。"
+    },
+    {
+      "id": 56,
+      "startMs": 330000,
+      "endMs": 331840,
+      "en": "He said there had been fatalities.",
+      "zh": "他说，袭击造成人员死亡。"
+    },
+    {
+      "id": 57,
+      "startMs": 332320,
+      "endMs": 337600,
+      "en": "A short while later, officials confirmed at least 12 people had been killed.",
+      "zh": "不久后，官员证实至少12人死亡。"
+    },
+    {
+      "id": 58,
+      "startMs": 337600,
+      "endMs": 346080,
+      "en": "The latest information we've just received is 13 people now confirmed dead, at least 39 people wounded, in attacks there.",
+      "zh": "我们刚刚收到的最新消息是，当地袭击已确认造成13人死亡、至少39人受伤。"
+    },
+    {
+      "id": 59,
+      "startMs": 346240,
+      "endMs": 353360,
+      "en": "No official confirmation of which sites were hit, but as I say, this is a major industrial city,",
+      "zh": "目前尚无官方消息证实哪些地点遇袭，但正如我所说，这是一座重要的工业城市，"
+    },
+    {
+      "id": 60,
+      "startMs": 353600,
+      "endMs": 358640,
+      "en": "a major hub for Russia's oil refining and petrochemical industries,",
+      "zh": "也是俄罗斯炼油和石化产业的重要枢纽。"
+    },
+    {
+      "id": 61,
+      "startMs": 359280,
+      "endMs": 365700,
+      "en": "and I would imagine that more information about what was struck will come out through the morning.",
+      "zh": "我想，上午晚些时候会有更多关于遇袭目标的信息公布。"
+    },
+    {
+      "id": 62,
+      "startMs": 365940,
+      "endMs": 375940,
+      "en": "And this is just the latest in a series of attacks by Ukraine, which has been stepping up strikes on Russian oil refineries in recent months, which have caused fuel shortages.",
+      "zh": "这只是乌克兰一系列袭击中的最新一起；近几个月来，乌方不断加大对俄罗斯炼油厂的打击力度，已经造成燃料短缺。"
+    },
+    {
+      "id": 63,
+      "startMs": 377280,
+      "endMs": 380000,
+      "en": "You know, Russians are getting used now to waking up in the morning",
+      "zh": "你知道，俄罗斯人如今已逐渐习惯早晨醒来"
+    },
+    {
+      "id": 64,
+      "startMs": 380000,
+      "endMs": 390000,
+      "en": "and hearing news reports that Ukraine has launched a major drone strike on warehouses, on industrial facilities, on oil refineries.",
+      "zh": "就听到新闻报道，说乌克兰对仓库、工业设施和炼油厂发动了大规模无人机袭击。"
+    },
+    {
+      "id": 65,
+      "startMs": 390640,
+      "endMs": 394400,
+      "en": "This has been going on for weeks now. And yes, this is having consequences.",
+      "zh": "这种情况已经持续数周。是的，它正在产生后果。"
+    },
+    {
+      "id": 66,
+      "startMs": 394400,
+      "endMs": 401920,
+      "en": "In terms of strikes on oil facilities, these have sparked a fuel shortage in Russia during the summer.",
+      "zh": "就针对石油设施的袭击而言，它们已在今年夏天引发俄罗斯燃料短缺。"
+    },
+    {
+      "id": 67,
+      "startMs": 402400,
+      "endMs": 407920,
+      "en": "The situation isn't so bad in Moscow at the moment. The authorities have made sure about that.",
+      "zh": "目前莫斯科的情况没那么糟，当局已经确保了这一点。"
+    },
+    {
+      "id": 68,
+      "startMs": 408400,
+      "endMs": 420160,
+      "en": "But fuel shortages remain in other parts of Russia, and because of that, Russians are more than ever, I think, feeling the consequences of the war in Ukraine.",
+      "zh": "但俄罗斯其他地区仍然缺少燃料。因此我认为，俄罗斯人比以往任何时候都更能感受到乌克兰战争带来的后果。"
+    },
+    {
+      "id": 69,
+      "startMs": 420160,
+      "endMs": 429920,
+      "en": "You know, for so long, so many people here kind of pretended that it wasn't happening or that they didn't feel in their own lives the effects, the consequences of the war.",
+      "zh": "你知道，长期以来，这里的许多人多少都装作战争没有发生，或装作自己在生活中感受不到战争的影响和后果。"
+    },
+    {
+      "id": 70,
+      "startMs": 430400,
+      "endMs": 440660,
+      "en": "That has certainly changed now. And judging by recent opinion polls, judging by what people tell us on the streets, more and more people, you know, would like this war to be over.",
+      "zh": "现在情况显然变了。从近期民调以及人们在街头对我们的讲述来看，越来越多的人希望这场战争结束。"
+    },
+    {
+      "id": 71,
+      "startMs": 441920,
+      "endMs": 443520,
+      "en": "Steve Rosenberg in Moscow.",
+      "zh": "史蒂夫·罗森伯格在莫斯科报道。"
+    },
+    {
+      "id": 72,
+      "startMs": 444160,
+      "endMs": 447280,
+      "en": "Meanwhile, Russian attacks on Ukraine have continued.",
+      "zh": "与此同时，俄罗斯对乌克兰的袭击仍在继续。"
+    },
+    {
+      "id": 73,
+      "startMs": 447520,
+      "endMs": 452480,
+      "en": "Officials say five people were killed by Russian artillery in the Kharkiv region.",
+      "zh": "官员称，俄罗斯炮击在哈尔科夫地区造成5人死亡。"
+    },
+    {
+      "id": 74,
+      "startMs": 452880,
+      "endMs": 456800,
+      "en": "Our Ukraine correspondent Dan Johnson, who's in Kyiv, told us more.",
+      "zh": "本台驻基辅的乌克兰事务记者丹·约翰逊作了进一步介绍。"
+    },
+    {
+      "id": 75,
+      "startMs": 457200,
+      "endMs": 464480,
+      "en": "In a small village close to the frontline in Ukraine's east, Russian shelling which hit residential areas there,",
+      "zh": "在乌克兰东部一个靠近前线的小村庄，俄军炮击击中了当地居民区。"
+    },
+    {
+      "id": 76,
+      "startMs": 464480,
+      "endMs": 474320,
+      "en": "the regional prosecutor's office says that five people were killed and that there is an investigation ongoing to gather evidence there into a potential war crime.",
+      "zh": "地区检察机关称，袭击造成5人死亡；目前正在调查取证，以查明这起事件是否构成潜在战争罪。"
+    },
+    {
+      "id": 77,
+      "startMs": 474320,
+      "endMs": 481120,
+      "en": "It shows you the continued threat that people in the east close to the frontline are facing, but right across Ukraine as well.",
+      "zh": "这说明，不仅东部前线附近的民众持续面临威胁，整个乌克兰都是如此。"
+    },
+    {
+      "id": 78,
+      "startMs": 481120,
+      "endMs": 489280,
+      "en": "There was an air raid alert here in Kyiv, potentially in response to what Russia suffered last night at the hands of Ukraine's long-range drones.",
+      "zh": "基辅这里响起了防空警报，可能是对俄罗斯昨夜遭乌克兰远程无人机袭击的回应。"
+    },
+    {
+      "id": 79,
+      "startMs": 489360,
+      "endMs": 496320,
+      "en": "And the amount and distance of attacks have ramped up, especially over the last few weeks and months.",
+      "zh": "袭击的数量和距离都在增加，过去几周和几个月尤其如此。"
+    },
+    {
+      "id": 80,
+      "startMs": 496320,
+      "endMs": 501440,
+      "en": "Ukraine now has the capability to hit targets hundreds of miles into Russia.",
+      "zh": "乌克兰如今有能力打击俄罗斯境内数百英里深处的目标。"
+    },
+    {
+      "id": 81,
+      "startMs": 501700,
+      "endMs": 503860,
+      "en": "And it is doing that repeatedly every night.",
+      "zh": "而且每晚都在反复发动这种袭击。"
+    },
+    {
+      "id": 82,
+      "startMs": 503860,
+      "endMs": 506420,
+      "en": "There were hundreds of drones launched last night.",
+      "zh": "昨夜有数百架无人机升空。"
+    },
+    {
+      "id": 83,
+      "startMs": 506500,
+      "endMs": 512500,
+      "en": "The authorities here haven't commented on the civilian deaths that we're hearing from Russia today,",
+      "zh": "乌克兰当局尚未就今天从俄罗斯传来的平民死亡消息置评，"
+    },
+    {
+      "id": 84,
+      "startMs": 512500,
+      "endMs": 518180,
+      "en": "but they have confirmed that they struck that oil refinery and that there was an explosion and a fire.",
+      "zh": "但已证实他们袭击了那座炼油厂，并引发爆炸和火灾。"
+    },
+    {
+      "id": 85,
+      "startMs": 518180,
+      "endMs": 525860,
+      "en": "The head of Ukraine's unmanned vehicles unit, essentially the drone unit, said that they were still assessing the consequences of that hit,",
+      "zh": "乌克兰无人载具部队，也就是无人机部队的负责人称，他们仍在评估此次打击的后果；"
+    },
+    {
+      "id": 86,
+      "startMs": 525860,
+      "endMs": 535300,
+      "en": "but they consistently deny targeting civilians and said that this was a target carried out with the aim of reducing Russia's military capability.",
+      "zh": "但乌方一贯否认以平民为目标，并称此次行动旨在削弱俄罗斯的军事能力。"
+    },
+    {
+      "id": 87,
+      "startMs": 535540,
+      "endMs": 537780,
+      "en": "Ukraine feels it is on the front foot here.",
+      "zh": "乌克兰认为自己目前占据主动。"
+    },
+    {
+      "id": 88,
+      "startMs": 537780,
+      "endMs": 544660,
+      "en": "There is still that vulnerability with the lack of Patriot interceptors, meaning that Russian missiles still pose a real threat right across Ukraine.",
+      "zh": "由于缺少“爱国者”拦截弹，乌克兰仍存在这一脆弱之处，也就是说，俄罗斯导弹依然对乌克兰全境构成现实威胁。"
+    },
+    {
+      "id": 89,
+      "startMs": 544980,
+      "endMs": 548500,
+      "en": "But the conflict is essentially frozen in the east.",
+      "zh": "但东部战线基本处于僵持状态。"
+    },
+    {
+      "id": 90,
+      "startMs": 548580,
+      "endMs": 551540,
+      "en": "Ukraine has had some success in pushing the Russians back there,",
+      "zh": "乌克兰在那里成功击退部分俄军；"
+    },
+    {
+      "id": 91,
+      "startMs": 551540,
+      "endMs": 558660,
+      "en": "and this strategy of increasingly taking the war into Russian territory is designed to hurt the Kremlin in terms of income,",
+      "zh": "这种日益把战争带入俄罗斯领土的战略，旨在削减克里姆林宫的收入，"
+    },
+    {
+      "id": 92,
+      "startMs": 558660,
+      "endMs": 563720,
+      "en": "damage Russia's economy, mean that there's less fuel and supplies getting to its military,",
+      "zh": "破坏俄罗斯经济，并减少运往俄军的燃料和物资，"
+    },
+    {
+      "id": 93,
+      "startMs": 563720,
+      "endMs": 572520,
+      "en": "but it's also designed to make the Russian people feel the impact of this war, to give them a taste of what Ukrainians have lived through for the past four and a half years.",
+      "zh": "同时也旨在让俄罗斯民众感受到战争的冲击，让他们体会乌克兰人过去四年半所经历的一切。"
+    },
+    {
+      "id": 94,
+      "startMs": 573000,
+      "endMs": 574600,
+      "en": "Dan Johnson in Kyiv.",
+      "zh": "丹·约翰逊在基辅报道。"
+    },
+    {
+      "id": 95,
+      "startMs": 575620,
+      "endMs": 584500,
+      "en": "BBC Africa Eye has seen exclusive evidence that suggests a South African police detective was killed by the country's special forces.",
+      "zh": "BBC《非洲之眼》获得的独家证据显示，一名南非警探可能遭该国特种部队杀害。"
+    },
+    {
+      "id": 96,
+      "startMs": 584980,
+      "endMs": 591140,
+      "en": "Frans Mathipa was looking into their alleged role in the disappearance of a suspected Islamic State group militant",
+      "zh": "Frans Mathipa 生前正在调查特种部队是否涉嫌参与一名疑似“伊斯兰国”组织武装分子失踪案，"
+    },
+    {
+      "id": 97,
+      "startMs": 591460,
+      "endMs": 596660,
+      "en": "before he was found shot dead in his car on the 6th of August, 2023.",
+      "zh": "随后于2023年8月6日被发现中枪死于车内。"
+    },
+    {
+      "id": 98,
+      "startMs": 597520,
+      "endMs": 601200,
+      "en": "Mathipa's family and former colleagues are now demanding justice.",
+      "zh": "Mathipa 的家人和前同事如今正要求讨回公道。"
+    },
+    {
+      "id": 99,
+      "startMs": 601680,
+      "endMs": 607440,
+      "en": "Seven special forces soldiers and one other are due to stand trial in connection with the detective's murder.",
+      "zh": "七名特种部队士兵及另一人将因涉嫌与这名警探被杀案有关而受审。"
+    },
+    {
+      "id": 100,
+      "startMs": 607920,
+      "endMs": 615840,
+      "en": "Of those, seven are accused, alongside four others, of abducting and murdering the suspected IS militant.",
+      "zh": "其中七人还与另外四人一道，被控绑架并杀害这名疑似“伊斯兰国”武装分子。"
+    },
+    {
+      "id": 101,
+      "startMs": 616160,
+      "endMs": 618000,
+      "en": "They deny the allegations.",
+      "zh": "他们否认这些指控。"
+    },
+    {
+      "id": 102,
+      "startMs": 618640,
+      "endMs": 623680,
+      "en": "For the BBC World Service, Dino Mahtani has been investigating in South Africa.",
+      "zh": "Dino Mahtani 在南非为 BBC 国际台展开了调查。"
+    },
+    {
+      "id": 103,
+      "startMs": 629400,
+      "endMs": 631960,
+      "en": "So this is the final road on Mathipa's last journey.",
+      "zh": "所以，这就是 Mathipa 人生最后一程所走的最后一段路。"
+    },
+    {
+      "id": 104,
+      "startMs": 632840,
+      "endMs": 639640,
+      "en": "It is indeed, and we are about to, in just a few meters, approach the site where he died.",
+      "zh": "确实如此，再往前几米，我们就要到达他遇害的地点了。"
+    },
+    {
+      "id": 105,
+      "startMs": 641780,
+      "endMs": 651620,
+      "en": "On a Sunday evening in August 2023, Lieutenant Colonel Frans Mathipa was found shot dead in his car by the side of the N1 motorway outside Pretoria.",
+      "zh": "2023年8月的一个周日晚上，Frans Mathipa 中校被发现中枪死于车内，车辆停在比勒陀利亚郊外的 N1 高速公路旁。"
+    },
+    {
+      "id": 106,
+      "startMs": 652660,
+      "endMs": 662020,
+      "en": "The 53-year-old detective was a veteran of the Hawks, an elite police unit whose responsibilities include investigating crimes against the state.",
+      "zh": "这名53岁的资深警探隶属精英警察单位“雄鹰队”，该部门的职责包括调查危害国家的犯罪。"
+    },
+    {
+      "id": 107,
+      "startMs": 662500,
+      "endMs": 668340,
+      "en": "He was the finest man. He was a trusted and loyal man. Yeah, that is how Frans was.",
+      "zh": "他是最好的人。他为人可靠、忠诚。是的，Frans 就是这样的人。"
+    },
+    {
+      "id": 108,
+      "startMs": 668900,
+      "endMs": 672500,
+      "en": "Brigadier Paulina Sekapane was Mathipa's commanding officer.",
+      "zh": "Paulina Sekapane 准将曾是 Mathipa 的上级。"
+    },
+    {
+      "id": 109,
+      "startMs": 673140,
+      "endMs": 674660,
+      "en": "She says Mathipa was killed",
+      "zh": "她说，Mathipa 遇害时"
+    },
+    {
+      "id": 110,
+      "startMs": 674660,
+      "endMs": 683700,
+      "en": "while investigating whether special forces soldiers were behind the disappearance of suspected IS militant Abdella Abadiga in December 2022.",
+      "zh": "正在调查特种部队士兵是否为疑似“伊斯兰国”武装分子 Abdella Abadiga 于2022年12月失踪的幕后人员。"
+    },
+    {
+      "id": 111,
+      "startMs": 683700,
+      "endMs": 689300,
+      "en": "Mathipa had applied for a court order to force the military to hand over information.",
+      "zh": "Mathipa 曾申请法院命令，要求军方必须交出相关信息。"
+    },
+    {
+      "id": 112,
+      "startMs": 689300,
+      "endMs": 694660,
+      "en": "But after one meeting with the special forces, he made a chilling prediction to his boss.",
+      "zh": "但在与特种部队会面一次后，他向上级作出了一个令人不寒而栗的预言。"
+    },
+    {
+      "id": 113,
+      "startMs": 695140,
+      "endMs": 703160,
+      "en": "He said, \"Brigadier, you know, these people are going to kill me. I'm going to die.\"",
+      "zh": "他说：“准将，你知道的，这些人会杀了我。我要死了。”"
+    },
+    {
+      "id": 114,
+      "startMs": 704040,
+      "endMs": 707960,
+      "en": "Police say that two days later, on the 6th of August, 2023,",
+      "zh": "警方称，两天后的2023年8月6日，"
+    },
+    {
+      "id": 115,
+      "startMs": 708280,
+      "endMs": 715480,
+      "en": "Mathipa was lured to a petrol station in eastern Pretoria, where he believed he would meet an informant. But they didn't show up.",
+      "zh": "Mathipa 被诱至比勒陀利亚东部的一座加油站，他以为会在那里见到一名线人，但对方并未现身。"
+    },
+    {
+      "id": 116,
+      "startMs": 716280,
+      "endMs": 724120,
+      "en": "BBC Africa Eye has seen CCTV pictures which show Mathipa driving away on the motorway with a black BMW following him.",
+      "zh": "BBC《非洲之眼》看到的监控画面显示，Mathipa 驶上高速公路离开时，一辆黑色宝马跟在他后面。"
+    },
+    {
+      "id": 117,
+      "startMs": 725020,
+      "endMs": 726620,
+      "en": "He was shot dead shortly after.",
+      "zh": "不久之后，他中枪身亡。"
+    },
+    {
+      "id": 118,
+      "startMs": 727500,
+      "endMs": 733180,
+      "en": "Seven special forces soldiers and one other are due to stand trial in connection with the detective's murder.",
+      "zh": "七名特种部队士兵及另一人将因涉嫌与这名警探被杀案有关而受审。"
+    },
+    {
+      "id": 119,
+      "startMs": 733900,
+      "endMs": 739740,
+      "en": "Of those, seven are accused, alongside four others, of abducting and murdering Abadiga.",
+      "zh": "其中七人还与另外四人一道，被控绑架并杀害 Abadiga。"
+    },
+    {
+      "id": 120,
+      "startMs": 740380,
+      "endMs": 741820,
+      "en": "They deny the allegations.",
+      "zh": "他们否认这些指控。"
+    },
+    {
+      "id": 121,
+      "startMs": 743300,
+      "endMs": 746580,
+      "en": "Give me a lighter and you can just light the papers.",
+      "zh": "给我个打火机，你把这些纸点着就行。"
+    },
+    {
+      "id": 122,
+      "startMs": 749480,
+      "endMs": 754920,
+      "en": "Over a backyard barbecue, Colonel Frikkie Frichtenbergh, a former counterterrorism police chief,",
+      "zh": "在后院烧烤时，前反恐警察负责人 Frikkie Frichtenbergh 上校"
+    },
+    {
+      "id": 123,
+      "startMs": 755400,
+      "endMs": 760360,
+      "en": "tells BBC Africa Eye that South Africans should be concerned by Mathipa's murder.",
+      "zh": "告诉 BBC《非洲之眼》，南非民众应当对 Mathipa 遇害一事感到担忧。"
+    },
+    {
+      "id": 124,
+      "startMs": 760920,
+      "endMs": 765160,
+      "en": "The alleged killers of Mathipa is persons that are supposed to protect us.",
+      "zh": "涉嫌杀害 Mathipa 的人，本应是保护我们的人。"
+    },
+    {
+      "id": 125,
+      "startMs": 765800,
+      "endMs": 768120,
+      "en": "Who can you trust? Can we trust our government?",
+      "zh": "你还能相信谁？我们能相信自己的政府吗？"
+    },
+    {
+      "id": 126,
+      "startMs": 768760,
+      "endMs": 773160,
+      "en": "He believes Mathipa was close to uncovering the truth behind Abadiga's disappearance.",
+      "zh": "他认为，Mathipa 当时已接近查明 Abadiga 失踪背后的真相。"
+    },
+    {
+      "id": 127,
+      "startMs": 773880,
+      "endMs": 783560,
+      "en": "Colonel Frichtenbergh has revealed that before he went missing, Abadiga was being used as an intelligence asset, but he thinks his handlers underestimated him.",
+      "zh": "Frichtenbergh 上校透露，Abadiga 失踪前曾被用作情报线人，但他认为负责联络 Abadiga 的人低估了他。"
+    },
+    {
+      "id": 128,
+      "startMs": 784120,
+      "endMs": 793640,
+      "en": "I cannot say which intelligence organisation used him, which intelligence organisation, domestic or international. I will go that far.",
+      "zh": "我不能说是哪个情报机构利用了他，也不能说是国内还是国外的情报机构。我只能透露到这里。"
+    },
+    {
+      "id": 129,
+      "startMs": 794520,
+      "endMs": 796760,
+      "en": "Most probably he's lying somewhere in a shallow grave.",
+      "zh": "他很可能就躺在某处的一座浅坟里。"
+    },
+    {
+      "id": 130,
+      "startMs": 798100,
+      "endMs": 803700,
+      "en": "The BBC contacted the Department of Home Affairs and the South African National Defence Force for comment.",
+      "zh": "BBC 已联系南非内政部和南非国防军，请其置评。"
+    },
+    {
+      "id": 131,
+      "startMs": 804340,
+      "endMs": 805380,
+      "en": "They did not respond.",
+      "zh": "但两者均未回应。"
+    },
+    {
+      "id": 132,
+      "startMs": 806140,
+      "endMs": 814860,
+      "en": "Meanwhile, three years on from Mathipa's death, his daughter Basetsana says her family are still waiting for his killers to be held to account.",
+      "zh": "与此同时，Mathipa 去世三年后，他的女儿 Basetsana 表示，家人仍在等待凶手被追究责任。"
+    },
+    {
+      "id": 133,
+      "startMs": 815700,
+      "endMs": 825060,
+      "en": "I'm never gonna have my father anymore. Why? Why my father? Because he was doing his job?",
+      "zh": "我再也没有父亲了。为什么？为什么偏偏是我父亲？就因为他在履行职责吗？"
+    },
+    {
+      "id": 134,
+      "startMs": 826040,
+      "endMs": 829720,
+      "en": "We need justice. We need justice.",
+      "zh": "我们需要正义。我们需要正义。"
+    },
+    {
+      "id": 135,
+      "startMs": 831180,
+      "endMs": 837260,
+      "en": "Basetsana, the daughter of Frans Mathipa, ending that report by Dino Mahtani.",
+      "zh": "以上是 Frans Mathipa 的女儿 Basetsana，她为 Dino Mahtani 的这篇报道作结。"
+    },
+    {
+      "id": 136,
+      "startMs": 838700,
+      "endMs": 842460,
+      "en": "Police in eastern India have used tear gas and water cannon",
+      "zh": "印度东部警方动用催泪瓦斯和水炮，"
+    },
+    {
+      "id": 137,
+      "startMs": 842460,
+      "endMs": 850220,
+      "en": "to disperse thousands of young people protesting against alleged manipulation in civil service examinations in Jharkhand state.",
+      "zh": "驱散数千名抗议贾坎德邦公务员考试涉嫌遭操纵的年轻人。"
+    },
+    {
+      "id": 138,
+      "startMs": 851000,
+      "endMs": 857480,
+      "en": "Unemployed young people and students launched protests last month, alleging wrongdoing in key exams.",
+      "zh": "失业青年和学生上月发起抗议，指称多项重要考试存在违规行为。"
+    },
+    {
+      "id": 139,
+      "startMs": 857880,
+      "endMs": 866440,
+      "en": "Last month, in a blow to the Prime Minister Narendra Modi's authority, the education minister was forced to resign after similar nationwide demonstrations.",
+      "zh": "上月，在类似的全国性示威后，教育部长被迫辞职，这对总理 Narendra Modi 的权威构成打击。"
+    },
+    {
+      "id": 140,
+      "startMs": 866920,
+      "endMs": 869960,
+      "en": "Anbarasan Ethirajan has more on these latest protests.",
+      "zh": "Anbarasan Ethirajan 将带来这些最新抗议活动的更多情况。"
+    },
+    {
+      "id": 141,
+      "startMs": 873900,
+      "endMs": 883420,
+      "en": "Thousands marched towards the state legislature in the capital Ranchi in eastern India, climbing over police barricades, holding placards and waving the national flag.",
+      "zh": "数千人向印度东部贾坎德邦首府兰契的邦议会进发，他们翻越警方路障，高举标语牌并挥舞国旗。"
+    },
+    {
+      "id": 142,
+      "startMs": 883820,
+      "endMs": 887180,
+      "en": "Their demands include overhauling of the examination system.",
+      "zh": "他们的诉求包括彻底改革考试制度。"
+    },
+    {
+      "id": 143,
+      "startMs": 887580,
+      "endMs": 892140,
+      "en": "The Jharkhand government has sought to defuse the protests by accepting some demands.",
+      "zh": "贾坎德邦政府已接受部分诉求，试图平息抗议。"
+    },
+    {
+      "id": 144,
+      "startMs": 892540,
+      "endMs": 897260,
+      "en": "Several members of the civil service body overseeing the examinations have stepped down.",
+      "zh": "负责监督这些考试的公务员招考机构已有数名成员辞职。"
+    },
+    {
+      "id": 145,
+      "startMs": 897660,
+      "endMs": 902540,
+      "en": "The young protesters are demanding a federal investigation into the irregularities.",
+      "zh": "年轻抗议者要求联邦政府调查这些违规行为。"
+    },
+    {
+      "id": 146,
+      "startMs": 902940,
+      "endMs": 906780,
+      "en": "The protests follow weeks of youth-led demonstrations in Delhi",
+      "zh": "此前，德里持续数周的青年示威，"
+    },
+    {
+      "id": 147,
+      "startMs": 906860,
+      "endMs": 913740,
+      "en": "that led to the resignation of the country's education minister over national medical school entrance test paper leaks.",
+      "zh": "因全国医学院入学考试试卷泄露事件而起，并最终导致该国教育部长辞职。"
+    },
+    {
+      "id": 148,
+      "startMs": 914060,
+      "endMs": 922940,
+      "en": "The demonstrations are seen as reflecting wider frustration among young Indians who see government examinations as a key route to employment",
+      "zh": "这些示威被认为反映出印度年轻人更广泛的不满，他们把政府考试视为就业的重要途径，"
+    },
+    {
+      "id": 149,
+      "startMs": 922940,
+      "endMs": 926940,
+      "en": "in a country where millions compete for limited public sector jobs.",
+      "zh": "而这个国家有数百万人争夺有限的公共部门岗位。"
+    },
+    {
+      "id": 150,
+      "startMs": 927420,
+      "endMs": 928780,
+      "en": "Anbarasan Ethirajan.",
+      "zh": "Anbarasan Ethirajan 报道。"
+    },
+    {
+      "id": 151,
+      "startMs": 931860,
+      "endMs": 941860,
+      "en": "Still to come in this podcast, we hear from the actor campaigning to bring justice to communities devastated by toxic chemical waste dumped by factories.",
+      "zh": "本期节目稍后，我们将听一位演员讲述他的奔走呼吁，希望为那些遭工厂倾倒的有毒化学废料摧毁的社区讨回公道。"
+    },
+    {
+      "id": 152,
+      "startMs": 942180,
+      "endMs": 945220,
+      "en": "The people who are responsible for this have been able to get away with it.",
+      "zh": "对此负有责任的人一直逍遥法外。"
+    },
+    {
+      "id": 153,
+      "startMs": 945540,
+      "endMs": 951380,
+      "en": "So I hope that this will spark enough outrage from the public to push to get something done about this.",
+      "zh": "所以我希望这能激起公众足够强烈的愤慨，推动人们采取行动解决此事。"
+    },
+    {
+      "id": 154,
+      "startMs": 951380,
+      "endMs": 953460,
+      "en": "Welcome back to the Global News Podcast.",
+      "zh": "欢迎回到《环球新闻播客》。"
+    },
+    {
+      "id": 155,
+      "startMs": 953620,
+      "endMs": 957220,
+      "en": "Let's turn now to the crisis engulfing world football.",
+      "zh": "现在来看席卷世界足坛的危机。"
+    },
+    {
+      "id": 156,
+      "startMs": 957780,
+      "endMs": 965140,
+      "en": "FIFA and its embattled president Gianni Infantino have come under renewed fire as the fallout continues",
+      "zh": "国际足联及其深陷困境的主席詹尼·因凡蒂诺再次受到抨击；争议计划的余波仍在持续，"
+    },
+    {
+      "id": 157,
+      "startMs": 965140,
+      "endMs": 970500,
+      "en": "over his controversial plan to bring private investment into the World Cup and other tournaments.",
+      "zh": "该计划拟向世界杯等赛事引入私人投资。"
+    },
+    {
+      "id": 158,
+      "startMs": 971280,
+      "endMs": 979280,
+      "en": "He's been accused of breaking trust through deception in an open letter issued by three football confederations from three continents:",
+      "zh": "来自三大洲的三家足球联合会发表公开信，指责他以欺骗手段破坏信任："
+    },
+    {
+      "id": 159,
+      "startMs": 979760,
+      "endMs": 986160,
+      "en": "UEFA, CONCACAF and the Asian Football Confederation, who between them represent 136 nations—",
+      "zh": "欧足联、中北美洲及加勒比海足联和亚足联，合计代表136个国家——"
+    },
+    {
+      "id": 160,
+      "startMs": 986400,
+      "endMs": 988400,
+      "en": "that's more than half of FIFA's membership—",
+      "zh": "超过国际足联成员总数的一半——"
+    },
+    {
+      "id": 161,
+      "startMs": 988880,
+      "endMs": 998480,
+      "en": "said Mr Infantino's now-abandoned plan to sell off stakes in the World Cup raised questions about the integrity of the game and those elected to lead it.",
+      "zh": "公开信称，因凡蒂诺出售世界杯权益的计划虽已放弃，却令人质疑这项运动及其民选领导者的诚信。"
+    },
+    {
+      "id": 162,
+      "startMs": 998960,
+      "endMs": 1002320,
+      "en": "Our football issues correspondent Dale Johnson told me more.",
+      "zh": "本台足球事务记者戴尔·约翰逊向我介绍了更多情况。"
+    },
+    {
+      "id": 163,
+      "startMs": 1002720,
+      "endMs": 1006960,
+      "en": "These three confederations also cited Infantino shutting out the FIFA Council members",
+      "zh": "这三家联合会还提到，因凡蒂诺将国际足联理事会成员排除在外，"
+    },
+    {
+      "id": 164,
+      "startMs": 1007280,
+      "endMs": 1017920,
+      "en": "and basically just creating a meeting of its own staff to assess what happened with this FIFA Forward enterprise proposal, which, of course, was cancelled after just a few days.",
+      "zh": "基本上只让自己的工作人员开会评估这项“FIFA Forward”商业方案；当然，该方案仅数日后便被取消。"
+    },
+    {
+      "id": 165,
+      "startMs": 1017920,
+      "endMs": 1023760,
+      "en": "Now, if you look at the way they've approached their criticism of Infantino, who's not actually named in person,",
+      "zh": "再看他们批评因凡蒂诺的措辞，信中其实没有直接点名，"
+    },
+    {
+      "id": 166,
+      "startMs": 1024160,
+      "endMs": 1027920,
+      "en": "it says things like ‘the integrity of those who were elected to lead it’,",
+      "zh": "而是写了诸如“当选领导这项运动者的诚信”这样的话，"
+    },
+    {
+      "id": 167,
+      "startMs": 1028240,
+      "endMs": 1033700,
+      "en": "and it mentions an individual who placed himself above the collective, and that duty has been abandoned.",
+      "zh": "还提到有个人将自己凌驾于集体之上，并称那份责任已被抛弃。"
+    },
+    {
+      "id": 168,
+      "startMs": 1033700,
+      "endMs": 1042020,
+      "en": "So, whilst they're not mentioning Infantino personally, there is clearly a case here that they feel that Infantino's position is untenable,",
+      "zh": "所以，尽管他们没有直接点名因凡蒂诺，但显然可以看出，他们认为他的职位已难以为继，"
+    },
+    {
+      "id": 169,
+      "startMs": 1042340,
+      "endMs": 1046580,
+      "en": "and they feel he should resign and there should be a new FIFA president as soon as possible.",
+      "zh": "他们认为他应该辞职，并应尽快选出一位新的国际足联主席。"
+    },
+    {
+      "id": 170,
+      "startMs": 1046980,
+      "endMs": 1049140,
+      "en": "Can he survive this growing pressure?",
+      "zh": "面对不断加大的压力，他还能撑下去吗？"
+    },
+    {
+      "id": 171,
+      "startMs": 1049860,
+      "endMs": 1054980,
+      "en": "Well, this is the big question. Now, you mentioned just there that the three confederations have 136 votes.",
+      "zh": "这正是关键问题。你刚才提到，这三家联合会拥有136票。"
+    },
+    {
+      "id": 172,
+      "startMs": 1055780,
+      "endMs": 1064420,
+      "en": "It takes 106 to win an election, but the problem is, we do not know if these confederations will all vote to get rid of Infantino.",
+      "zh": "赢得选举需要106票，但问题是，我们不知道这些联合会是否都会投票罢免因凡蒂诺。"
+    },
+    {
+      "id": 173,
+      "startMs": 1064420,
+      "endMs": 1070900,
+      "en": "For instance, eight of the Asian nations have already come out in recent days and said they back him for re-election.",
+      "zh": "例如，已有八个亚洲成员近日公开表示支持他连任。"
+    },
+    {
+      "id": 174,
+      "startMs": 1070900,
+      "endMs": 1079060,
+      "en": "So, we're at this stage where he could possibly win an election of the 211 member associations,",
+      "zh": "因此，现在他或许能在211个成员协会的选举中获胜，"
+    },
+    {
+      "id": 175,
+      "startMs": 1079380,
+      "endMs": 1086980,
+      "en": "but the presidents who run Asia, CONCACAF and Europe may not back him at the FIFA Council meetings.",
+      "zh": "但执掌亚洲、中北美洲及加勒比海地区和欧洲足联的主席们，可能不会在国际足联理事会会议上支持他。"
+    },
+    {
+      "id": 176,
+      "startMs": 1086980,
+      "endMs": 1094040,
+      "en": "So, the next FIFA Council meeting takes place in October, where half of the Council will be against Infantino and half will be for him.",
+      "zh": "下一次国际足联理事会会议将在十月举行，届时理事会将有一半反对因凡蒂诺，另一半支持他。"
+    },
+    {
+      "id": 177,
+      "startMs": 1094440,
+      "endMs": 1101000,
+      "en": "So, just how can we get to a stage where FIFA are able to make decisions which are politically viable?",
+      "zh": "那么，国际足联究竟怎样才能走到能够作出政治上可行决策的阶段？"
+    },
+    {
+      "id": 178,
+      "startMs": 1101320,
+      "endMs": 1106920,
+      "en": "It just doesn't seem like there is a way he can continue in his position with that level of authority that he needs.",
+      "zh": "看来他似乎无法再以这个职位所需的权威继续任职。"
+    },
+    {
+      "id": 179,
+      "startMs": 1107160,
+      "endMs": 1113240,
+      "en": "One of Infantino's key roles is unifying football, and it doesn't seem like he can do that in his current position.",
+      "zh": "因凡蒂诺的一项关键职责是团结足坛，而他看来无法在目前的位置上做到这一点。"
+    },
+    {
+      "id": 180,
+      "startMs": 1114020,
+      "endMs": 1114660,
+      "en": "Dale Johnson.",
+      "zh": "戴尔·约翰逊。"
+    },
+    {
+      "id": 181,
+      "startMs": 1115700,
+      "endMs": 1120500,
+      "en": "Tupac Shakur is considered to be one of the most influential rappers of all time.",
+      "zh": "图派克·沙库尔被视为有史以来最具影响力的说唱歌手之一。"
+    },
+    {
+      "id": 182,
+      "startMs": 1120980,
+      "endMs": 1127860,
+      "en": "Tragically, he was killed at the age of just 25 in a drive-by shooting in Las Vegas 30 years ago.",
+      "zh": "不幸的是，30年前，他年仅25岁便在拉斯维加斯的一起驾车枪击案中遇害。"
+    },
+    {
+      "id": 183,
+      "startMs": 1128420,
+      "endMs": 1131700,
+      "en": "It's one of America's most high-profile unsolved murders.",
+      "zh": "这是美国最受瞩目的悬案之一。"
+    },
+    {
+      "id": 184,
+      "startMs": 1132420,
+      "endMs": 1139700,
+      "en": "Now, the trial is due to begin of a former gang leader, Duane “Keffe D” Davis, over his alleged involvement in the killing.",
+      "zh": "如今，前帮派头目杜安·“凯菲·D”·戴维斯即将因涉嫌参与这起杀人案而受审。"
+    },
+    {
+      "id": 185,
+      "startMs": 1140580,
+      "endMs": 1147220,
+      "en": "BBC journalist Anoushkha Mutanda-Dougherty is host of the Fame Under Fire podcast. She's covering the trial.",
+      "zh": "BBC记者阿努什卡·穆坦达-多尔蒂主持《Fame Under Fire》播客，她正在报道这场审判。"
+    },
+    {
+      "id": 186,
+      "startMs": 1147700,
+      "endMs": 1156580,
+      "en": "Tupac Shakur is arguably one of the most successful rappers of all time, but he kind of transcended being a commercially viable rapper into almost a political figure.",
+      "zh": "图派克·沙库尔可以说是史上最成功的说唱歌手之一，但他不只是商业上成功的歌手，几乎还成为了一位政治人物。"
+    },
+    {
+      "id": 187,
+      "startMs": 1156660,
+      "endMs": 1161700,
+      "en": "He was rapping about African-American experiences, police brutality, Black women's position in society,",
+      "zh": "他的说唱讲述非裔美国人的经历、警察暴力和黑人女性在社会中的处境，"
+    },
+    {
+      "id": 188,
+      "startMs": 1162020,
+      "endMs": 1168420,
+      "en": "and then he tragically died at 25 years old, which has kind of cemented him as this legend within the hip-hop community.",
+      "zh": "后来他不幸在25岁时去世，这也让他在嘻哈圈中成为了传奇。"
+    },
+    {
+      "id": 189,
+      "startMs": 1168420,
+      "endMs": 1176020,
+      "en": "And that death has become very mythologized because nobody was charged until 2023, if you can believe it, in this case.",
+      "zh": "他的死亡被赋予了许多传奇色彩，因为这起案件直到2023年才有人被起诉，难以置信。"
+    },
+    {
+      "id": 190,
+      "startMs": 1176020,
+      "endMs": 1179540,
+      "en": "There are so many theories and conspiracy theories about what happened that night.",
+      "zh": "关于那晚究竟发生了什么，存在着众多说法和阴谋论。"
+    },
+    {
+      "id": 191,
+      "startMs": 1179940,
+      "endMs": 1188500,
+      "en": "But the prosecutors in Las Vegas are alleging that in 1996, on the Las Vegas Strip, Tupac was in a car with Suge Knight, the owner of Death Row Records.",
+      "zh": "但拉斯维加斯检方指称，1996年，图派克当时在拉斯维加斯大道的一辆车里，同车的是死囚唱片公司老板苏格·奈特。"
+    },
+    {
+      "id": 192,
+      "startMs": 1188580,
+      "endMs": 1193880,
+      "en": "A white Cadillac pulled up next to them, and shots were fired from the Cadillac that ended up ending his life.",
+      "zh": "一辆白色凯迪拉克驶到他们旁边，有人从车内开枪，最终夺走了他的生命。"
+    },
+    {
+      "id": 193,
+      "startMs": 1194200,
+      "endMs": 1203000,
+      "en": "They have charged Duane “Keffe D” Davis with being the architect of that crime, so criminally liable for his death, although they haven't accused him of actually firing the gun.",
+      "zh": "检方指控杜安·“凯菲·D”·戴维斯策划了这起犯罪，因此要为图派克之死承担刑责；但并未指控他亲自开枪。"
+    },
+    {
+      "id": 194,
+      "startMs": 1203080,
+      "endMs": 1205160,
+      "en": "And why has it taken so long to come to trial?",
+      "zh": "那为什么过了这么久案件才开庭？"
+    },
+    {
+      "id": 195,
+      "startMs": 1205400,
+      "endMs": 1209640,
+      "en": "Well, I mean, a lot of this has to do with the undercurrent of gang ties.",
+      "zh": "这个嘛，我想很大程度上与暗中的帮派关系有关。"
+    },
+    {
+      "id": 196,
+      "startMs": 1209640,
+      "endMs": 1214200,
+      "en": "Tupac was associated with Mob Piru, so the Bloods.",
+      "zh": "图派克与属于血帮的莫布·派鲁有关联。"
+    },
+    {
+      "id": 197,
+      "startMs": 1214200,
+      "endMs": 1220040,
+      "en": "The other car, the white Cadillac, Keffe D, they're saying, was in there, who was quite high up in the Compton Crips gang.",
+      "zh": "至于另一辆车，也就是那辆白色凯迪拉克，检方称凯菲·D当时就在车里；他在康普顿瘸帮中地位颇高。"
+    },
+    {
+      "id": 198,
+      "startMs": 1220520,
+      "endMs": 1222920,
+      "en": "And there's just a ‘do not talk to police’ rule.",
+      "zh": "而帮派内部有一条“不要和警察说话”的规矩。"
+    },
+    {
+      "id": 199,
+      "startMs": 1222920,
+      "endMs": 1225720,
+      "en": "You know, this is set against the backdrop of police brutality.",
+      "zh": "你知道，这一切又发生在警察暴力的背景下。"
+    },
+    {
+      "id": 200,
+      "startMs": 1225720,
+      "endMs": 1229560,
+      "en": "So there was a high level of skepticism about speaking to law enforcement.",
+      "zh": "因此，人们对向执法部门开口有很强的戒心。"
+    },
+    {
+      "id": 201,
+      "startMs": 1229560,
+      "endMs": 1232520,
+      "en": "Those who did speak didn't offer anything very helpful.",
+      "zh": "而那些开口的人也没有提供什么很有用的信息。"
+    },
+    {
+      "id": 202,
+      "startMs": 1232840,
+      "endMs": 1240520,
+      "en": "It wasn't actually until 2018/2019, when Duane Davis, Duane “Keffe D” Davis, started talking about what he says happened on that night",
+      "zh": "直到2018或2019年，杜安·戴维斯，也就是杜安·“凯菲·D”·戴维斯，开始讲述他所称的当晚经过，"
+    },
+    {
+      "id": 203,
+      "startMs": 1240920,
+      "endMs": 1247800,
+      "en": "on podcasts, in interviews, and then eventually wrote his own book on it, that the investigation was reopened into what happened that night.",
+      "zh": "他在播客和采访中谈论此事，后来还就此写了一本书，调查才重新启动。"
+    },
+    {
+      "id": 204,
+      "startMs": 1248040,
+      "endMs": 1254700,
+      "en": "And this is an interesting case, because it's Mr Davis's own words that will be used as evidence against him.",
+      "zh": "这起案件很有意思，因为用来指证戴维斯先生的将是他自己的话。"
+    },
+    {
+      "id": 205,
+      "startMs": 1254700,
+      "endMs": 1257340,
+      "en": "He's the defendant, but he's also the star witness.",
+      "zh": "他既是被告，也是头号证人。"
+    },
+    {
+      "id": 206,
+      "startMs": 1257820,
+      "endMs": 1260860,
+      "en": "Yeah, it's a legally very interesting case.",
+      "zh": "是的，从法律角度看，这起案件非常有意思。"
+    },
+    {
+      "id": 207,
+      "startMs": 1260860,
+      "endMs": 1264060,
+      "en": "It is Duane “Keffe D” Davis against Duane “Keffe D” Davis.",
+      "zh": "这是杜安·“凯菲·D”·戴维斯对阵杜安·“凯菲·D”·戴维斯。"
+    },
+    {
+      "id": 208,
+      "startMs": 1264060,
+      "endMs": 1265180,
+      "en": "He wrote a book.",
+      "zh": "他写了一本书。"
+    },
+    {
+      "id": 209,
+      "startMs": 1265420,
+      "endMs": 1269340,
+      "en": "Here's the interesting legal distinction: in the book, he claims to have been in the white Cadillac,",
+      "zh": "法律上有个有意思的区别：他在书中声称自己当时在白色凯迪拉克里，"
+    },
+    {
+      "id": 210,
+      "startMs": 1269340,
+      "endMs": 1273100,
+      "en": "to have supplied the weapon, put it in the back seat, to have known what was going on.",
+      "zh": "提供了武器，把枪放在后座，并且知道发生了什么。"
+    },
+    {
+      "id": 211,
+      "startMs": 1273500,
+      "endMs": 1277740,
+      "en": "He's since come out and said, ‘The book's fictionalized. I made this up to sell copies.’",
+      "zh": "但此后他又公开表示：“这本书是虚构的，我编这些是为了卖书。”"
+    },
+    {
+      "id": 212,
+      "startMs": 1277740,
+      "endMs": 1282060,
+      "en": "But the judge has said, ‘So you kept co-signing on the veracity of the book.’",
+      "zh": "但法官指出：“你一直在反复为书中内容的真实性背书。”"
+    },
+    {
+      "id": 213,
+      "startMs": 1282060,
+      "endMs": 1285660,
+      "en": "You kept going in public places and saying, ‘If you want the truth, read the book.’",
+      "zh": "“你还不断在公开场合说：‘想知道真相，就去看这本书。’”"
+    },
+    {
+      "id": 214,
+      "startMs": 1285660,
+      "endMs": 1287820,
+      "en": "So, therefore, the book is going to go before the jury.",
+      "zh": "因此，这本书将作为材料呈交陪审团。"
+    },
+    {
+      "id": 215,
+      "startMs": 1288140,
+      "endMs": 1290860,
+      "en": "Now, he has every single right to get up on the stand.",
+      "zh": "当然，他完全有权出庭作证。"
+    },
+    {
+      "id": 216,
+      "startMs": 1290860,
+      "endMs": 1295660,
+      "en": "He doesn't have to, but he can get up on the stand and say, ‘Ladies and gentlemen of the jury, I'm a liar.’",
+      "zh": "他并非必须这样做，但他可以站上证人席说：“陪审团的女士们、先生们，我是个骗子。”"
+    },
+    {
+      "id": 217,
+      "startMs": 1295740,
+      "endMs": 1296780,
+      "en": "I made all that up.",
+      "zh": "那些都是我编的。"
+    },
+    {
+      "id": 218,
+      "startMs": 1296780,
+      "endMs": 1299180,
+      "en": "Don't listen to a word I said. Don't read the book.",
+      "zh": "我说的话一个字都别信，也别看那本书。"
+    },
+    {
+      "id": 219,
+      "startMs": 1299180,
+      "endMs": 1300140,
+      "en": "Don't listen to the book.’",
+      "zh": "也别听那本书。"
+    },
+    {
+      "id": 220,
+      "startMs": 1300540,
+      "endMs": 1305100,
+      "en": "But, essentially, if he does that, he will be cross-examined using his own words.",
+      "zh": "但归根结底，如果他这么做，检方就会用他自己的话对他进行交叉询问。"
+    },
+    {
+      "id": 221,
+      "startMs": 1305820,
+      "endMs": 1307420,
+      "en": "Anoushkha Mutanda-Dougherty.",
+      "zh": "阿努什卡·穆坦达-多尔蒂。"
+    },
+    {
+      "id": 222,
+      "startMs": 1308300,
+      "endMs": 1315900,
+      "en": "In 1967, a farming consultant named Douglas Gowan was called to look at a badly deformed calf at a farm in South Wales.",
+      "zh": "1967年，农业顾问道格拉斯·高恩受邀前往南威尔士的一座农场，查看一头严重畸形的小牛。"
+    },
+    {
+      "id": 223,
+      "startMs": 1316540,
+      "endMs": 1321660,
+      "en": "Gowan came to believe that the cause was the dumping of highly toxic chemicals from a Welsh factory.",
+      "zh": "高恩逐渐相信，原因是威尔士一家工厂倾倒了剧毒化学品。"
+    },
+    {
+      "id": 224,
+      "startMs": 1322300,
+      "endMs": 1324860,
+      "en": "Such practices have since been banned in the UK.",
+      "zh": "此类做法后来已在英国被禁止。"
+    },
+    {
+      "id": 225,
+      "startMs": 1325340,
+      "endMs": 1333020,
+      "en": "Over years of campaigning, he fought to raise awareness of the impact of these so-called ‘forever chemicals’ on the environment and on humans.",
+      "zh": "在多年的奔走呼吁中，他努力让人们认识到这些所谓“永久化学物”对环境和人类的影响。"
+    },
+    {
+      "id": 226,
+      "startMs": 1333880,
+      "endMs": 1339320,
+      "en": "Decades later, at home in Los Angeles, the actor Michael Sheen stumbled upon the story online.",
+      "zh": "几十年后，演员迈克尔·辛在洛杉矶家中偶然在网上看到了这个故事。"
+    },
+    {
+      "id": 227,
+      "startMs": 1339800,
+      "endMs": 1342600,
+      "en": "He chased down Douglas Gowan and asked if he could meet him.",
+      "zh": "他设法找到了道格拉斯·高恩，并询问能否见面。"
+    },
+    {
+      "id": 228,
+      "startMs": 1343080,
+      "endMs": 1346520,
+      "en": "‘Come quickly,’ was the reply. ‘I only have months to live.’",
+      "zh": "对方回复：“快来吧，我只剩几个月可活了。”"
+    },
+    {
+      "id": 229,
+      "startMs": 1347000,
+      "endMs": 1356920,
+      "en": "It's a journey which took the actor back to Wales and to the US state of Alabama, and has now culminated in a documentary, Buried with Michael Sheen.",
+      "zh": "这段旅程把这位演员带回威尔士，又带到美国阿拉巴马州，并最终拍成纪录片《与迈克尔·辛一起深埋》。"
+    },
+    {
+      "id": 230,
+      "startMs": 1357400,
+      "endMs": 1359160,
+      "en": "He's been speaking to Henry Zeffman.",
+      "zh": "他接受了亨利·泽夫曼的采访。"
+    },
+    {
+      "id": 231,
+      "startMs": 1359720,
+      "endMs": 1363640,
+      "en": "The more I found out about it, it started to push all kinds of buttons in me.",
+      "zh": "我了解得越多，这件事越能触动我内心的各种情绪。"
+    },
+    {
+      "id": 232,
+      "startMs": 1363640,
+      "endMs": 1368680,
+      "en": "So, obviously, the fact that it was happening sort of just up the road from where I, you know, grew up.",
+      "zh": "显然，其中一点是，这件事就发生在离我成长之地不远的地方。"
+    },
+    {
+      "id": 233,
+      "startMs": 1369160,
+      "endMs": 1375240,
+      "en": "It turns out that when I was born—and I was born in Newport in South Wales—Douglas was there.",
+      "zh": "原来我出生时——我出生在南威尔士的纽波特——道格拉斯就在那里。"
+    },
+    {
+      "id": 234,
+      "startMs": 1375560,
+      "endMs": 1382600,
+      "en": "He was doing his, you know, investigations and exploratory stuff around that time about the Monsanto plant in Newport.",
+      "zh": "大约就在那段时间，他正对纽波特的孟山都工厂开展调查和摸索研究。"
+    },
+    {
+      "id": 235,
+      "startMs": 1382600,
+      "endMs": 1386760,
+      "en": "So, you know, without me knowing, I was connected to it from when I was born.",
+      "zh": "所以，在我毫不知情的情况下，我从出生起就和这件事产生了联系。"
+    },
+    {
+      "id": 236,
+      "startMs": 1387160,
+      "endMs": 1393640,
+      "en": "But finding out more and more about the possibility that these communities and the places where this happened had a pattern to it—",
+      "zh": "但随着了解不断深入，我发现这些社区和事件发生地之间可能存在一种规律——"
+    },
+    {
+      "id": 237,
+      "startMs": 1394060,
+      "endMs": 1397420,
+      "en": "whether it was in Wales or in Anniston, Alabama, or wherever,",
+      "zh": "无论是在威尔士、阿拉巴马州安尼斯顿还是别处，"
+    },
+    {
+      "id": 238,
+      "startMs": 1397660,
+      "endMs": 1406620,
+      "en": "that—that this landed, this dumping tended to happen in places where there was a history of, of chronic illness, so it could be masked, potentially.",
+      "zh": "这些倾倒行为往往发生在长期受疾病困扰的地方，因而可能被掩盖。"
+    },
+    {
+      "id": 239,
+      "startMs": 1406860,
+      "endMs": 1411740,
+      "en": "They also tended to be places that didn't necessarily have much of a voice, that wouldn't be heard.",
+      "zh": "这些地方往往也没有多少发声能力，即便发声也不会被听见。"
+    },
+    {
+      "id": 240,
+      "startMs": 1412140,
+      "endMs": 1415580,
+      "en": "They tended to be places that, you know, were desperate for employment,",
+      "zh": "这些地方往往迫切需要就业机会，"
+    },
+    {
+      "id": 241,
+      "startMs": 1416140,
+      "endMs": 1422380,
+      "en": "and all of these things started to just outrage me more and more, and it felt more and more personal as it went along.",
+      "zh": "所有这些都让我越来越愤怒，随着事情发展，我也越来越觉得它与自己切身相关。"
+    },
+    {
+      "id": 242,
+      "startMs": 1422380,
+      "endMs": 1427500,
+      "en": "And, of course, once I'd met Douglas and I spent time with him, and had that sort of personal connection,",
+      "zh": "当然，在我见到道格拉斯、与他相处，并建立起那种私人联系之后，"
+    },
+    {
+      "id": 243,
+      "startMs": 1427500,
+      "endMs": 1438700,
+      "en": "and then him dying so soon afterwards—and, he believed, as a result of contaminated contact with PCBs and that kind of stuff—you can't help but feel it personally then.",
+      "zh": "后来他很快便去世了，而他认为这是接触受污染的多氯联苯之类物质所致；到了那时，你很难不把这件事放在心上。"
+    },
+    {
+      "id": 244,
+      "startMs": 1438700,
+      "endMs": 1442300,
+      "en": "And so, yeah, so it was a combination of factors, really, I think.",
+      "zh": "所以，是的，我想确实是多种因素共同作用。"
+    },
+    {
+      "id": 245,
+      "startMs": 1442540,
+      "endMs": 1448380,
+      "en": "And you mentioned Anniston, Alabama, there, because one of the things you do in this documentary is you go to Alabama",
+      "zh": "你刚才提到阿拉巴马州的安尼斯顿；在纪录片中，你去了阿拉巴马，"
+    },
+    {
+      "id": 246,
+      "startMs": 1448380,
+      "endMs": 1454400,
+      "en": "and you meet people who'd been waging a pretty similar campaign in Alabama to the campaign that you encountered in Wales.",
+      "zh": "并见到了当地一直开展类似行动的人，他们的经历与你在威尔士遇到的那场抗争相似。"
+    },
+    {
+      "id": 247,
+      "startMs": 1454560,
+      "endMs": 1459840,
+      "en": "Did it feel like, essentially, the same frustrations, even across that wide Atlantic Ocean?",
+      "zh": "即使远隔宽广的大西洋，双方感受到的挫败是否本质相同？"
+    },
+    {
+      "id": 248,
+      "startMs": 1460240,
+      "endMs": 1468640,
+      "en": "Well, of course, the story of what happened for the community in Anniston, Alabama, is, is different to what's been going on, particularly in Wales,",
+      "zh": "当然，阿拉巴马州安尼斯顿社区的经历，与威尔士发生的情况有所不同，"
+    },
+    {
+      "id": 249,
+      "startMs": 1468640,
+      "endMs": 1475840,
+      "en": "in that they were the first ones to actually take a case to court, take Monsanto to court and get compensation.",
+      "zh": "因为他们率先将案件诉诸法院，把孟山都告上法庭并获得了赔偿。"
+    },
+    {
+      "id": 250,
+      "startMs": 1475920,
+      "endMs": 1481920,
+      "en": "But they, they are a long, long way down the track from, from where things are at, certainly in Wales.",
+      "zh": "但与目前的进展相比，尤其是威尔士的情况，他们已经走出了很远。"
+    },
+    {
+      "id": 251,
+      "startMs": 1482320,
+      "endMs": 1489920,
+      "en": "And, and just to see, you know, I spoke to Donald Stewart, who was one of the attorneys who, who represented the community over there,",
+      "zh": "而且，你知道，我采访了唐纳德·斯图尔特，他是代表当地社区的律师之一，"
+    },
+    {
+      "id": 252,
+      "startMs": 1490080,
+      "endMs": 1496880,
+      "en": "and to see him breaking down in tears when I'm asking him about, you know, ‘Why was this community chosen? Why did they do it here?’",
+      "zh": "当我问他“为什么选中这个社区？他们为什么要在这里这么做？”时，看到他情绪崩溃、流下眼泪。"
+    },
+    {
+      "id": 253,
+      "startMs": 1496880,
+      "endMs": 1498640,
+      "en": "And him saying, ‘Because they have no voice.’",
+      "zh": "他回答：“因为他们没有话语权。”"
+    },
+    {
+      "id": 254,
+      "startMs": 1499120,
+      "endMs": 1503520,
+      "en": "Our chemist, Dave Megson, who did the testing over here and tested my own blood,",
+      "zh": "我们的化学家戴夫·梅格森在这里做了检测，也检测了我的血液，"
+    },
+    {
+      "id": 255,
+      "startMs": 1503920,
+      "endMs": 1508480,
+      "en": "when he was describing the results of the tests, seeing him, you know, start to break down as well.",
+      "zh": "他讲解检测结果时，看到他也开始情绪失控。"
+    },
+    {
+      "id": 256,
+      "startMs": 1508640,
+      "endMs": 1510560,
+      "en": "You don't expect to see these sort of things.",
+      "zh": "你不会想到会看到这种场面。"
+    },
+    {
+      "id": 257,
+      "startMs": 1510960,
+      "endMs": 1520020,
+      "en": "But then, when I actually sat there and I was told what I've got in me, and what the more dangerous ones are, and which ones of those I've got, and the levels they're at,",
+      "zh": "但后来，当我坐在那里，听别人告诉我体内有什么、哪些物质更危险、其中哪些在我体内以及含量有多高时，"
+    },
+    {
+      "id": 258,
+      "startMs": 1520500,
+      "endMs": 1528740,
+      "en": "and explained that that is not a safe amount, that is just what you would expect to find anywhere, I, I, I was, I was really shocked.",
+      "zh": "又听说那并非安全剂量，只是到处都可能检测到的普遍水平，我、我、我当时真的非常震惊。"
+    },
+    {
+      "id": 259,
+      "startMs": 1528740,
+      "endMs": 1539540,
+      "en": "But then, of course, when we saw the results for other people, people who might be even more exposed to it, and saw the kinds of levels there, that was incredibly shocking.",
+      "zh": "而当我们看到其他人的结果——那些接触程度可能更高的人——以及他们体内的含量时，那更是令人无比震惊。"
+    },
+    {
+      "id": 260,
+      "startMs": 1539540,
+      "endMs": 1546180,
+      "en": "The thing that we always have to remember is the people who are responsible for this have been able to get away with it up till now, pretty much.",
+      "zh": "我们必须始终记住，直到现在，应该为此负责的人基本上一直逍遥法外。"
+    },
+    {
+      "id": 261,
+      "startMs": 1546820,
+      "endMs": 1548660,
+      "en": "And it's very difficult to get at them.",
+      "zh": "而且很难追究他们。"
+    },
+    {
+      "id": 262,
+      "startMs": 1548980,
+      "endMs": 1557780,
+      "en": "So, in the light of that, I think we have to find a way, a way to, to move forward with this that doesn't hold individual councils responsible,",
+      "zh": "因此，鉴于这一点，我认为我们必须找到一种推进办法，不能让单个地方议会承担责任，"
+    },
+    {
+      "id": 263,
+      "startMs": 1558020,
+      "endMs": 1562180,
+      "en": "so that it goes beyond individual councils and possibly beyond individual governments.",
+      "zh": "而要超越单个地方议会，甚至可能超越单个国家政府。"
+    },
+    {
+      "id": 264,
+      "startMs": 1562260,
+      "endMs": 1570900,
+      "en": "This, I think, has to be a multinational effort to investigate this, support it, fund it, share data, share evidence.",
+      "zh": "我认为，这必须成为一项跨国行动：开展调查、提供支持和资金，并共享数据与证据。"
+    },
+    {
+      "id": 265,
+      "startMs": 1570900,
+      "endMs": 1576920,
+      "en": "So I hope that this will spark enough outrage from the public to push to get something done about this.",
+      "zh": "所以我希望这会激起公众足够的愤怒，推动人们采取行动。"
+    },
+    {
+      "id": 266,
+      "startMs": 1577640,
+      "endMs": 1579160,
+      "en": "Actor Michael Sheen.",
+      "zh": "演员迈克尔·辛。"
+    },
+    {
+      "id": 267,
+      "startMs": 1579640,
+      "endMs": 1589640,
+      "en": "Monsanto doesn't exist anymore, but Eastman Chemical Company, responsible for Monsanto's legacy production in the UK, did not respond to the BBC's request for comment.",
+      "zh": "孟山都已不复存在；负责承接孟山都在英国历史生产业务的伊士曼化学公司，没有回应BBC的置评请求。"
+    },
+    {
+      "id": 268,
+      "startMs": 1590960,
+      "endMs": 1596880,
+      "en": "There are plenty of people who swear by acupuncture for pain relief, to treat problems such as migraines.",
+      "zh": "许多人深信针灸能够缓解疼痛、治疗偏头痛等问题。"
+    },
+    {
+      "id": 269,
+      "startMs": 1597200,
+      "endMs": 1605360,
+      "en": "But it seems this type of therapy, using needles on pressure points on the body, is effective when used on animals as well.",
+      "zh": "但看来，这种在身体穴位上施针的疗法用于动物时似乎也有效。"
+    },
+    {
+      "id": 270,
+      "startMs": 1605920,
+      "endMs": 1615360,
+      "en": "ZooTampa in the US state of Florida has hired a full-time acupuncture therapist to work alongside its vets, as Nikki Caldwell reports.",
+      "zh": "美国佛罗里达州的坦帕动物园聘请了一名全职针灸治疗师，与兽医团队协作。妮基·考德威尔报道。"
+    },
+    {
+      "id": 271,
+      "startMs": 1618280,
+      "endMs": 1626600,
+      "en": "On a wooden platform next to a deep pool, Dr Alex Mason carefully places long acupuncture needles into a manatee's nose,",
+      "zh": "在深水池旁的木台上，亚历克斯·梅森医生小心地把长针扎进一头海牛的鼻子，"
+    },
+    {
+      "id": 272,
+      "startMs": 1626840,
+      "endMs": 1631640,
+      "en": "below its eye and at a couple of other points on the sea cow's head and neck.",
+      "zh": "还扎在眼睛下方，以及它头部和颈部的另外几个穴位。"
+    },
+    {
+      "id": 273,
+      "startMs": 1632360,
+      "endMs": 1637160,
+      "en": "Sloth the manatee was brought to ZooTampa with nerve damage to one side of his face.",
+      "zh": "这头名叫斯洛思的海牛被送到坦帕动物园时，面部一侧有神经损伤。"
+    },
+    {
+      "id": 274,
+      "startMs": 1637560,
+      "endMs": 1644440,
+      "en": "There are few conventional treatments for this kind of injury, but the team has seen improvements using acupuncture.",
+      "zh": "这种损伤几乎没有常规治疗办法，但园方团队表示，针灸治疗后情况已有改善。"
+    },
+    {
+      "id": 275,
+      "startMs": 1645080,
+      "endMs": 1650280,
+      "en": "Using different-sized needles, no creature is too big or too small to be treated.",
+      "zh": "只要使用不同尺寸的针，任何动物都不至于大到或小到无法接受治疗。"
+    },
+    {
+      "id": 276,
+      "startMs": 1650840,
+      "endMs": 1657560,
+      "en": "Dr Mason, who's also a qualified vet, says acupuncture works the same on animals as it does on humans.",
+      "zh": "同样具备兽医资质的梅森医生说，针灸作用于动物的方式与作用于人类相同。"
+    },
+    {
+      "id": 277,
+      "startMs": 1657720,
+      "endMs": 1664600,
+      "en": "A lot of the acupuncture points are located in areas where we know now that there's a lot of nerves coming into certain areas,",
+      "zh": "许多穴位所在的区域，如今我们知道会有大量神经汇入，"
+    },
+    {
+      "id": 278,
+      "startMs": 1664760,
+      "endMs": 1672200,
+      "en": "and so it really works through increasing the body's healing response, through mobilizing stem cells in the circulation,",
+      "zh": "因此，它的作用机制是增强身体的愈合反应，调动循环系统中的干细胞，"
+    },
+    {
+      "id": 279,
+      "startMs": 1672360,
+      "endMs": 1681020,
+      "en": "moving blood flow to the areas you're needling, in addition to allowing your body to release its own pain relief in the form of endorphins.",
+      "zh": "让血液流向施针区域，同时促使身体释放内啡肽，产生自身的镇痛作用。"
+    },
+    {
+      "id": 280,
+      "startMs": 1681100,
+      "endMs": 1684940,
+      "en": "ZooTampa specializes in conservation and rehabilitation.",
+      "zh": "坦帕动物园专注于动物保护和康复。"
+    },
+    {
+      "id": 281,
+      "startMs": 1685260,
+      "endMs": 1689660,
+      "en": "It frequently gets calls to come to the aid of injured and distressed creatures.",
+      "zh": "园方经常接到求助电话，前去援救受伤或受困的动物。"
+    },
+    {
+      "id": 282,
+      "startMs": 1689980,
+      "endMs": 1693340,
+      "en": "The aim is to return them to the wild wherever possible.",
+      "zh": "目标是在条件允许时尽可能让它们重返野外。"
+    },
+    {
+      "id": 283,
+      "startMs": 1693820,
+      "endMs": 1701340,
+      "en": "The zoo's senior vice president, Dr Meredith Persky, says this is about giving every animal the best chance of recovery.",
+      "zh": "动物园高级副总裁梅雷迪思·珀斯基医生说，这是为了让每只动物都获得最佳康复机会。"
+    },
+    {
+      "id": 284,
+      "startMs": 1701500,
+      "endMs": 1705740,
+      "en": "We definitely tailor every single treatment plan towards specific animals.",
+      "zh": "我们一定会针对每只动物量身制定治疗方案。"
+    },
+    {
+      "id": 285,
+      "startMs": 1706060,
+      "endMs": 1714060,
+      "en": "It might not be the first step, but it typically comes along when we have cases that—when we reach our limit of traditional medicine—",
+      "zh": "它也许不是第一步，但当病例遇到传统医学的能力极限时，通常就会采用这种办法——"
+    },
+    {
+      "id": 286,
+      "startMs": 1714300,
+      "endMs": 1717980,
+      "en": "this really allows us to give animals a chance that they may never have.",
+      "zh": "这确实让我们能够给动物一个原本可能永远得不到的机会。"
+    },
+    {
+      "id": 287,
+      "startMs": 1718620,
+      "endMs": 1720540,
+      "en": "And they've already had some successes.",
+      "zh": "他们已经取得了一些成功。"
+    },
+    {
+      "id": 288,
+      "startMs": 1720940,
+      "endMs": 1728220,
+      "en": "There's the spoonbill chick born unable to walk, which was treated with some rather tiny needles and is now back in its nest.",
+      "zh": "一只出生时无法行走的琵鹭雏鸟接受了极细针具的治疗，如今已回到巢中。"
+    },
+    {
+      "id": 289,
+      "startMs": 1728540,
+      "endMs": 1732780,
+      "en": "And for one elderly duck, acupuncture has meant a new lease of life.",
+      "zh": "对一只年迈的鸭子来说，针灸则意味着重获新生。"
+    },
+    {
+      "id": 290,
+      "startMs": 1733100,
+      "endMs": 1737660,
+      "en": "It's helped restore strength, movement and agility to its rather gammy leg.",
+      "zh": "园方称，针灸帮助它那条不太灵便的腿恢复了力量、活动能力和灵活性。"
+    },
+    {
+      "id": 291,
+      "startMs": 1738240,
+      "endMs": 1739520,
+      "en": "Nikki Caldwell.",
+      "zh": "妮基·考德威尔。"
+    },
+    {
+      "id": 292,
+      "startMs": 1742300,
+      "endMs": 1743740,
+      "en": "And that's all from us for now.",
+      "zh": "本期节目到这里就结束了。"
+    },
+    {
+      "id": 293,
+      "startMs": 1743820,
+      "endMs": 1749500,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 294,
+      "startMs": 1750540,
+      "endMs": 1753980,
+      "en": "This edition of the Global News Podcast was mixed by Mark Picken.",
+      "zh": "本期《环球新闻播客》由马克·皮肯完成混音。"
+    },
+    {
+      "id": 295,
+      "startMs": 1754140,
+      "endMs": 1755900,
+      "en": "The producer was Adrian White.",
+      "zh": "制片人是阿德里安·怀特。"
+    },
+    {
+      "id": 296,
+      "startMs": 1756380,
+      "endMs": 1758300,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 297,
+      "startMs": 1758780,
+      "endMs": 1759580,
+      "en": "I'm Janat Jalil.",
+      "zh": "我是贾纳特·贾利勒。"
+    },
+    {
+      "id": 298,
+      "startMs": 1759980,
+      "endMs": 1761500,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再会，再见。"
+    }
+  ]
+}

@@ -1,0 +1,2461 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "11 August 2026"
+  },
+  "durationMs": 1743060,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4000,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5540,
+      "endMs": 10900,
+      "en": "I am Will Chalk, and in the early hours of Tuesday, the 11th of August, these are our main stories.",
+      "zh": "我是威尔·乔克。8月11日星期二凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11460,
+      "endMs": 17780,
+      "en": "A state of emergency's declared in Colombia after a powerful earthquake kills more than 130 people.",
+      "zh": "哥伦比亚发生强烈地震，造成130多人死亡，该国已宣布进入紧急状态。"
+    },
+    {
+      "id": 4,
+      "startMs": 18420,
+      "endMs": 24500,
+      "en": "A law's been approved in Turkey aimed at resolving decades of conflict with the Kurdish militant group, the PKK.",
+      "zh": "土耳其通过了一项法律，旨在解决与库尔德武装组织库尔德工人党长达数十年的冲突。"
+    },
+    {
+      "id": 5,
+      "startMs": 26400,
+      "endMs": 27360,
+      "en": "Also in this podcast...",
+      "zh": "本期节目还将报道……"
+    },
+    {
+      "id": 6,
+      "startMs": 28000,
+      "endMs": 29600,
+      "en": "I've spent my life savings.",
+      "zh": "我花光了毕生积蓄。"
+    },
+    {
+      "id": 7,
+      "startMs": 30080,
+      "endMs": 34560,
+      "en": "The total damage is close to 74,000 US dollars.",
+      "zh": "损失总额接近7.4万美元。"
+    },
+    {
+      "id": 8,
+      "startMs": 35120,
+      "endMs": 37520,
+      "en": "I cannot work. I cannot sleep.",
+      "zh": "我无法工作，也无法入睡。"
+    },
+    {
+      "id": 9,
+      "startMs": 38080,
+      "endMs": 42080,
+      "en": "We have a special report on the crippling cost of sham marriages in China.",
+      "zh": "我们将特别报道中国虚假婚姻令人难以承受的代价。"
+    },
+    {
+      "id": 10,
+      "startMs": 42720,
+      "endMs": 46560,
+      "en": "Are humans and elephants getting a bit too close for comfort in Zambia?",
+      "zh": "在赞比亚，人类与大象是否已经近得让人不安？"
+    },
+    {
+      "id": 11,
+      "startMs": 46560,
+      "endMs": 49280,
+      "en": "And what are dogs thinking when we smile at them?",
+      "zh": "当我们对狗微笑时，它们在想什么？"
+    },
+    {
+      "id": 12,
+      "startMs": 49680,
+      "endMs": 54400,
+      "en": "The dog brain has certain capacity that makes them really good at understanding others.",
+      "zh": "狗的大脑具备某种能力，让它们非常善于理解他者。"
+    },
+    {
+      "id": 13,
+      "startMs": 58500,
+      "endMs": 59620,
+      "en": "We start with this.",
+      "zh": "我们先来听听这段话。"
+    },
+    {
+      "id": 14,
+      "startMs": 59780,
+      "endMs": 61700,
+      "en": "I was in a hotel at the moment.",
+      "zh": "当时我在一家酒店里。"
+    },
+    {
+      "id": 15,
+      "startMs": 61700,
+      "endMs": 65220,
+      "en": "It was moving quite strongly and everyone was screaming.",
+      "zh": "酒店晃动得很厉害，所有人都在尖叫。"
+    },
+    {
+      "id": 16,
+      "startMs": 65300,
+      "endMs": 72580,
+      "en": "And then as it stopped, I could look through the window and saw some, like, dust coming out of the neighbouring buildings.",
+      "zh": "后来晃动停下时，我从窗户望出去，看到附近的建筑里冒出了一些像灰尘一样的东西。"
+    },
+    {
+      "id": 17,
+      "startMs": 73220,
+      "endMs": 79460,
+      "en": "That's Angelica Avila, who was in the Colombian city of Manizales when a powerful earthquake struck.",
+      "zh": "这是安赫利卡·阿维拉。强烈地震发生时，她身处哥伦比亚城市马尼萨莱斯。"
+    },
+    {
+      "id": 18,
+      "startMs": 79780,
+      "endMs": 82900,
+      "en": "One of the cathedral's towers bent over.",
+      "zh": "大教堂的一座塔楼都弯了下来。"
+    },
+    {
+      "id": 19,
+      "startMs": 82900,
+      "endMs": 89860,
+      "en": "Like, the situation is a bit strange. We don't know, like, exactly what to do.",
+      "zh": "怎么说呢，情况有些异常，我们不太清楚到底该怎么办。"
+    },
+    {
+      "id": 20,
+      "startMs": 90340,
+      "endMs": 91860,
+      "en": "And the flights are cancelled.",
+      "zh": "航班也都取消了。"
+    },
+    {
+      "id": 21,
+      "startMs": 92260,
+      "endMs": 95240,
+      "en": "The airport is, is collapsed.",
+      "zh": "机场已经，已经垮了。"
+    },
+    {
+      "id": 22,
+      "startMs": 96120,
+      "endMs": 99480,
+      "en": "More than 130 people are now known to have been killed.",
+      "zh": "目前已知有130多人遇难。"
+    },
+    {
+      "id": 23,
+      "startMs": 99640,
+      "endMs": 101720,
+      "en": "The president's declared a state of emergency.",
+      "zh": "总统已宣布进入紧急状态。"
+    },
+    {
+      "id": 24,
+      "startMs": 101720,
+      "endMs": 107800,
+      "en": "And a major search and rescue operation has started for those buried under the rubble of dozens of collapsed buildings.",
+      "zh": "大规模搜救行动已经展开，以营救被埋在数十栋倒塌建筑废墟下的人。"
+    },
+    {
+      "id": 25,
+      "startMs": 108200,
+      "endMs": 112760,
+      "en": "Cali, 200 kilometres south of the epicentre, is one of the worst-affected cities.",
+      "zh": "位于震中以南200公里处的卡利是灾情最严重的城市之一。"
+    },
+    {
+      "id": 26,
+      "startMs": 113080,
+      "endMs": 118840,
+      "en": "Its mayor, Alejandro Eder, told the BBC the first 48 hours are critical for finding survivors.",
+      "zh": "卡利市长亚历杭德罗·埃德尔告诉 BBC，寻找幸存者的最初48小时至关重要。"
+    },
+    {
+      "id": 27,
+      "startMs": 119160,
+      "endMs": 121080,
+      "en": "We're still searching around the city.",
+      "zh": "我们仍在全城搜寻。"
+    },
+    {
+      "id": 28,
+      "startMs": 121080,
+      "endMs": 127000,
+      "en": "It's a very large city and it was a very strong quake, but the city held up quite well.",
+      "zh": "这是一座很大的城市，地震也非常强烈，但这座城市总体上经受住了冲击。"
+    },
+    {
+      "id": 29,
+      "startMs": 127080,
+      "endMs": 134440,
+      "en": "That kind of makes it a little bit harder to find the victims in the collapsed buildings, because it's kind of like finding needles in a haystack right now.",
+      "zh": "这反而让寻找倒塌建筑中的受困者更困难，因为现在有点像大海捞针。"
+    },
+    {
+      "id": 30,
+      "startMs": 135000,
+      "endMs": 136600,
+      "en": "Our teams are very well trained.",
+      "zh": "我们的队伍训练有素。"
+    },
+    {
+      "id": 31,
+      "startMs": 136840,
+      "endMs": 138840,
+      "en": "We actually sent our search and rescue team.",
+      "zh": "事实上，我们派出了搜救队。"
+    },
+    {
+      "id": 32,
+      "startMs": 138840,
+      "endMs": 145800,
+      "en": "We just sent it to Venezuela, so they have very recent experience in these types of events.",
+      "zh": "我们刚刚派他们去过委内瑞拉，所以他们对这类事件有非常近期的实战经验。"
+    },
+    {
+      "id": 33,
+      "startMs": 146280,
+      "endMs": 152520,
+      "en": "The earthquake was felt as far away as the capital, Bogota, where our reporter Jose Carlos Cueto is based.",
+      "zh": "远至首都波哥大都感受到了地震，我们的记者何塞·卡洛斯·奎托就驻在那里。"
+    },
+    {
+      "id": 34,
+      "startMs": 152520,
+      "endMs": 163500,
+      "en": "It was around 7:30 in the morning local time. I was in a taxi, and then the car started moving, to swing to both sides.",
+      "zh": "当地时间早上7点半左右，我当时在一辆出租车里，车子突然开始左右摇晃。"
+    },
+    {
+      "id": 35,
+      "startMs": 163820,
+      "endMs": 167980,
+      "en": "And then the driver asked me to leave and to get safe, for both of us.",
+      "zh": "随后司机让我下车，好让我们两个人都到安全的地方。"
+    },
+    {
+      "id": 36,
+      "startMs": 168460,
+      "endMs": 174540,
+      "en": "And then we could feel the ground shaking beneath our feet while buildings, trees and traffic lights swayed.",
+      "zh": "接着我们感觉到脚下的大地在震动，建筑、树木和交通信号灯都在摇摆。"
+    },
+    {
+      "id": 37,
+      "startMs": 175020,
+      "endMs": 179500,
+      "en": "This region is probably with the highest seismic activity in Colombia.",
+      "zh": "这个地区可能是哥伦比亚地震活动最频繁的地区。"
+    },
+    {
+      "id": 38,
+      "startMs": 179500,
+      "endMs": 183660,
+      "en": "All of this part that is somehow crossed by the Andes Mountains.",
+      "zh": "也就是安第斯山脉穿过的这一整片地区。"
+    },
+    {
+      "id": 39,
+      "startMs": 183980,
+      "endMs": 188060,
+      "en": "Major damage, such as that we're seeing in cities like Cali or Pereira.",
+      "zh": "卡利或佩雷拉等城市正遭受严重破坏。"
+    },
+    {
+      "id": 40,
+      "startMs": 188380,
+      "endMs": 190620,
+      "en": "Yeah, and what are we hearing out of those cities?",
+      "zh": "那么，我们从这些城市得到了什么消息？"
+    },
+    {
+      "id": 41,
+      "startMs": 190620,
+      "endMs": 191820,
+      "en": "What's the picture like there?",
+      "zh": "那里的情况如何？"
+    },
+    {
+      "id": 42,
+      "startMs": 192460,
+      "endMs": 197340,
+      "en": "Well, it's been hard to get information because communications have been down.",
+      "zh": "很难获得消息，因为通信已经中断。"
+    },
+    {
+      "id": 43,
+      "startMs": 197980,
+      "endMs": 201260,
+      "en": "They have been switching on and off during the whole day.",
+      "zh": "通信一整天都时断时续。"
+    },
+    {
+      "id": 44,
+      "startMs": 201740,
+      "endMs": 208620,
+      "en": "Also, because it's difficult to get there, the airports have ceased their operation.",
+      "zh": "此外，当地很难抵达，机场也已经停止运营。"
+    },
+    {
+      "id": 45,
+      "startMs": 208620,
+      "endMs": 214540,
+      "en": "They were re-established shortly, early in the afternoon in Cali, but in Pereira, the airport is not functioning.",
+      "zh": "卡利的机场在下午较早时恢复了运营，但佩雷拉的机场仍未运作。"
+    },
+    {
+      "id": 46,
+      "startMs": 214560,
+      "endMs": 225120,
+      "en": "It has damage as well, and getting there by road, the roads are limited because it's a very geographically difficult area surrounded by mountains.",
+      "zh": "机场本身也受损了；走公路前往同样受限，因为那里群山环绕，地理条件十分复杂。"
+    },
+    {
+      "id": 47,
+      "startMs": 225440,
+      "endMs": 231120,
+      "en": "So it hasn't been easy for the media to get there. It hasn't been easy for the rescue teams to get there.",
+      "zh": "因此，媒体很难抵达，救援队伍也很难抵达。"
+    },
+    {
+      "id": 48,
+      "startMs": 231360,
+      "endMs": 234800,
+      "en": "So getting the full picture is difficult now.",
+      "zh": "因此，目前很难掌握完整情况。"
+    },
+    {
+      "id": 49,
+      "startMs": 234800,
+      "endMs": 242000,
+      "en": "And when all these factors start to become more clear, people are fearing that the death toll can be higher.",
+      "zh": "随着这些情况逐渐明朗，民众担心死亡人数可能还会上升。"
+    },
+    {
+      "id": 50,
+      "startMs": 242320,
+      "endMs": 248960,
+      "en": "Yeah, and fresh in everyone's minds will be what happened in Venezuela earlier this year as well.",
+      "zh": "是的，大家对今年早些时候委内瑞拉发生的事也仍记忆犹新。"
+    },
+    {
+      "id": 51,
+      "startMs": 249680,
+      "endMs": 257280,
+      "en": "Yes, because, well, firstly because it's close and there are many human and cultural connections between Venezuela and Colombia.",
+      "zh": "是的，首先是因为两国距离很近，委内瑞拉和哥伦比亚之间有许多人文联系。"
+    },
+    {
+      "id": 52,
+      "startMs": 257280,
+      "endMs": 264400,
+      "en": "There are many Venezuelans living here, and it was very recent, that traumatic event in Venezuela that is still affecting the people on the ground.",
+      "zh": "这里生活着许多委内瑞拉人，而且那场创伤性事件发生不久，至今仍在影响当地民众。"
+    },
+    {
+      "id": 53,
+      "startMs": 264880,
+      "endMs": 270080,
+      "en": "For now, the two situations are not comparable when it comes to the magnitude.",
+      "zh": "就目前而言，两者的规模不可相提并论。"
+    },
+    {
+      "id": 54,
+      "startMs": 270160,
+      "endMs": 276020,
+      "en": "First of all, because Colombia hasn't been suffering the same economic crisis that Venezuela has over the last decade.",
+      "zh": "首先，哥伦比亚没有经历委内瑞拉过去十年所遭受的同等程度的经济危机。"
+    },
+    {
+      "id": 55,
+      "startMs": 276100,
+      "endMs": 282500,
+      "en": "So let's say that the infrastructure and the rescue teams are better prepared to respond to these sort of situations.",
+      "zh": "所以可以说，哥伦比亚的基础设施和救援队伍更有能力应对这类情况。"
+    },
+    {
+      "id": 56,
+      "startMs": 282500,
+      "endMs": 289860,
+      "en": "And also because of the conditions, because of the features of the earthquake, they are not the same.",
+      "zh": "此外，两次地震的条件和特征也并不相同。"
+    },
+    {
+      "id": 57,
+      "startMs": 289860,
+      "endMs": 294100,
+      "en": "It was—in Venezuela, it was a twin earthquake with many aftershocks.",
+      "zh": "委内瑞拉发生的是双震，并伴有多次余震。"
+    },
+    {
+      "id": 58,
+      "startMs": 294420,
+      "endMs": 298740,
+      "en": "Those aftershocks haven't been felt in the same way in Colombia.",
+      "zh": "哥伦比亚并未以同样方式感受到那些余震。"
+    },
+    {
+      "id": 59,
+      "startMs": 299060,
+      "endMs": 309700,
+      "en": "Having more than 100 dead people is a serious situation, though it's not expected to reach the level of thousands—more than 6,000—that Venezuela has already.",
+      "zh": "超过100人死亡已是严重灾情，不过预计不会达到委内瑞拉那种数以千计、超过6,000人死亡的规模。"
+    },
+    {
+      "id": 60,
+      "startMs": 310020,
+      "endMs": 315460,
+      "en": "Jose Carlos Cueto there from BBC Mundo, speaking to me from the Colombian capital, Bogota.",
+      "zh": "以上是 BBC Mundo 的何塞·卡洛斯·奎托从哥伦比亚首都波哥大发回的报道。"
+    },
+    {
+      "id": 61,
+      "startMs": 316880,
+      "endMs": 325280,
+      "en": "Let's bring you a story out of Turkey next, where the parliament has approved a law aimed at ending more than four decades of conflict with the Kurdish militant group, the PKK.",
+      "zh": "接下来关注土耳其。该国议会通过了一项法律，旨在结束与库尔德武装组织库尔德工人党持续四十多年的冲突。"
+    },
+    {
+      "id": 62,
+      "startMs": 326240,
+      "endMs": 333280,
+      "en": "The legislation will allow some former fighters to return to civilian life and suspend prosecutions or prison sentences for others.",
+      "zh": "该法案将允许一些前武装人员重返平民生活，并暂缓对另一些人的起诉或监禁刑罚。"
+    },
+    {
+      "id": 63,
+      "startMs": 333760,
+      "endMs": 343680,
+      "en": "The group announced last year that it planned to lay down its arms and disband, but the PKK's jailed leader, Abdullah Öcalan, does not appear to be among those who could be freed.",
+      "zh": "该组织去年宣布计划放下武器并解散，但被监禁的库尔德工人党领导人阿卜杜拉·厄贾兰似乎不在可能获释者之列。"
+    },
+    {
+      "id": 64,
+      "startMs": 344080,
+      "endMs": 348320,
+      "en": "Our senior international correspondent Orla Guerin told me why this was happening now.",
+      "zh": "我们的高级国际记者奥拉·格林向我解释了为何此事会在此时发生。"
+    },
+    {
+      "id": 65,
+      "startMs": 348960,
+      "endMs": 358240,
+      "en": "Well, I think this is connected very much with the electoral timetable and ambitions of the Turkish leader, President Recep Tayyip Erdogan.",
+      "zh": "嗯，我认为这与土耳其领导人雷杰普·塔伊普·埃尔多安总统的选举时间表和政治抱负密切相关。"
+    },
+    {
+      "id": 66,
+      "startMs": 358720,
+      "endMs": 364480,
+      "en": "It's widely known and understood here that he would like to run for a third term as president.",
+      "zh": "这里的人普遍知道并认为，他希望竞选第三个总统任期。"
+    },
+    {
+      "id": 67,
+      "startMs": 364960,
+      "endMs": 371760,
+      "en": "He's constitutionally barred from doing that, and his current term is due to expire in 2028.",
+      "zh": "宪法禁止他这样做，而他的本届任期将于2028年届满。"
+    },
+    {
+      "id": 68,
+      "startMs": 372560,
+      "endMs": 379620,
+      "en": "Now, there's only two ways around this for him: either he amends the constitution or he calls early elections.",
+      "zh": "现在，他只有两种办法可以绕过这一限制：要么修改宪法，要么提前举行选举。"
+    },
+    {
+      "id": 69,
+      "startMs": 380100,
+      "endMs": 386100,
+      "en": "To do either of those things, he needs the support of pro-Kurdish parties in parliament.",
+      "zh": "无论采取哪种办法，他都需要议会中亲库尔德政党的支持。"
+    },
+    {
+      "id": 70,
+      "startMs": 386580,
+      "endMs": 389140,
+      "en": "The numbers simply don't stack up without them.",
+      "zh": "没有它们，他根本凑不够所需票数。"
+    },
+    {
+      "id": 71,
+      "startMs": 389620,
+      "endMs": 393940,
+      "en": "That said, there has been a peace process underway since 2024.",
+      "zh": "不过，自2024年以来，和平进程一直在推进。"
+    },
+    {
+      "id": 72,
+      "startMs": 393940,
+      "endMs": 398980,
+      "en": "Contacts have been going on between the PKK and the government.",
+      "zh": "库尔德工人党与政府之间一直保持接触。"
+    },
+    {
+      "id": 73,
+      "startMs": 399380,
+      "endMs": 410020,
+      "en": "Last year, the jailed leader of the PKK, Abdullah Öcalan, publicly called for the organisation to disband, and it agreed to do that.",
+      "zh": "去年，被监禁的库尔德工人党领导人阿卜杜拉·厄贾兰公开呼吁该组织解散，该组织也同意这样做。"
+    },
+    {
+      "id": 74,
+      "startMs": 410580,
+      "endMs": 417460,
+      "en": "Kurdish politicians are saying, ‘Look, our long-standing demands for greater rights, political rights, cultural autonomy,",
+      "zh": "库尔德政治人士表示：“听着，我们长期以来要求更多权利、政治权利和文化自治，"
+    },
+    {
+      "id": 75,
+      "startMs": 417860,
+      "endMs": 421540,
+      "en": "all of those things still stand and have not yet been resolved.’",
+      "zh": "这些诉求依然存在，尚未得到解决。”"
+    },
+    {
+      "id": 76,
+      "startMs": 422100,
+      "endMs": 430580,
+      "en": "But does the fact that the PKK's leader, as you mentioned, Abdullah Öcalan, he's not part of this deal, does that make it a bit less meaningful?",
+      "zh": "不过，正如你提到的，库尔德工人党领导人阿卜杜拉·厄贾兰不在这项协议之中，这会不会削弱协议的意义？"
+    },
+    {
+      "id": 77,
+      "startMs": 430900,
+      "endMs": 439160,
+      "en": "He's part of it in the sense that he has strongly backed it, most recently a few days ago in a message sent from his prison cell.",
+      "zh": "从他一直强力支持这项协议的意义上说，他是其中的一部分；最近一次就是几天前从狱中发出的信息。"
+    },
+    {
+      "id": 78,
+      "startMs": 439560,
+      "endMs": 444760,
+      "en": "However, at the moment at least, he will not benefit from any of the measures,",
+      "zh": "不过，至少目前他不会从任何这些措施中受益。"
+    },
+    {
+      "id": 79,
+      "startMs": 445160,
+      "endMs": 457240,
+      "en": "which include things like a suspension of jail terms for people convicted of more minor offences, things like membership of the PKK or aiding the PKK.",
+      "zh": "这些措施包括暂缓对较轻罪行定罪者执行刑期，例如因加入或协助库尔德工人党而获罪的人。"
+    },
+    {
+      "id": 80,
+      "startMs": 457800,
+      "endMs": 467080,
+      "en": "Öcalan himself is serving an aggravated life sentence, so he doesn't qualify for any of these current relaxations, if you like.",
+      "zh": "厄贾兰本人正在服加重无期徒刑，所以，可以说，他不符合目前任何宽免措施的条件。"
+    },
+    {
+      "id": 81,
+      "startMs": 467160,
+      "endMs": 470680,
+      "en": "But there is speculation here that that could change in the future.",
+      "zh": "但当地有人猜测，未来情况可能会改变。"
+    },
+    {
+      "id": 82,
+      "startMs": 471240,
+      "endMs": 474840,
+      "en": "And what will this mean for ordinary Kurdish people in Turkey?",
+      "zh": "这对土耳其普通库尔德民众意味着什么？"
+    },
+    {
+      "id": 83,
+      "startMs": 475160,
+      "endMs": 477640,
+      "en": "For many, I think there will be a sense of relief.",
+      "zh": "我认为，许多人会感到如释重负。"
+    },
+    {
+      "id": 84,
+      "startMs": 477960,
+      "endMs": 481480,
+      "en": "I think there will also, for some, be a sense of disappointment.",
+      "zh": "我认为，也会有一些人感到失望。"
+    },
+    {
+      "id": 85,
+      "startMs": 481960,
+      "endMs": 494600,
+      "en": "You'll have to remember that the PKK insurgency began as far back as 1984, and the demand at that stage was for an autonomous Kurdish state in the southeast of Turkey.",
+      "zh": "要知道，库尔德工人党的武装叛乱早在1984年就开始了，当时的诉求是在土耳其东南部建立一个自治的库尔德国家。"
+    },
+    {
+      "id": 86,
+      "startMs": 495000,
+      "endMs": 496360,
+      "en": "Now, that has not been realised.",
+      "zh": "这一诉求并未实现。"
+    },
+    {
+      "id": 87,
+      "startMs": 496380,
+      "endMs": 500460,
+      "en": "The conflict went on for 40 years.",
+      "zh": "这场冲突持续了40年。"
+    },
+    {
+      "id": 88,
+      "startMs": 500460,
+      "endMs": 507580,
+      "en": "There were more than 40,000 people killed, most of them PKK fighters and Kurdish civilians.",
+      "zh": "超过4万人在冲突中丧生，其中大多数是库尔德工人党武装人员和库尔德平民。"
+    },
+    {
+      "id": 89,
+      "startMs": 507980,
+      "endMs": 515980,
+      "en": "And having spoken to people in the Kurdish areas last year when the PKK was being disbanded, feelings were mixed.",
+      "zh": "去年库尔德工人党解散之际，我在库尔德地区采访了当地民众，他们的感受不尽相同。"
+    },
+    {
+      "id": 90,
+      "startMs": 516060,
+      "endMs": 518220,
+      "en": "Some said, ‘Look, peace has to come.’",
+      "zh": "有人说：“听着，和平必须到来。”"
+    },
+    {
+      "id": 91,
+      "startMs": 518620,
+      "endMs": 520220,
+      "en": "This is a price worth paying.",
+      "zh": "这是值得付出的代价。"
+    },
+    {
+      "id": 92,
+      "startMs": 520220,
+      "endMs": 521660,
+      "en": "We have to do a deal now.",
+      "zh": "我们现在必须达成协议。"
+    },
+    {
+      "id": 93,
+      "startMs": 521660,
+      "endMs": 524380,
+      "en": "We haven't won by using weapons.",
+      "zh": "我们没能靠武器取胜。"
+    },
+    {
+      "id": 94,
+      "startMs": 524860,
+      "endMs": 531420,
+      "en": "Others felt that the PKK were giving up their weapons and their organisation and not getting enough in return.",
+      "zh": "另一些人则认为，库尔德工人党放弃了武器和组织，却没有得到足够的回报。"
+    },
+    {
+      "id": 95,
+      "startMs": 531900,
+      "endMs": 536940,
+      "en": "But I think across Turkey, there is a sense of caution.",
+      "zh": "但我认为，整个土耳其都弥漫着谨慎情绪。"
+    },
+    {
+      "id": 96,
+      "startMs": 536940,
+      "endMs": 541180,
+      "en": "I would say, because past peace processes have failed.",
+      "zh": "我之所以这样说，是因为过去的和平进程都失败了。"
+    },
+    {
+      "id": 97,
+      "startMs": 541660,
+      "endMs": 548620,
+      "en": "What we are seeing now is an attempt to provide a strong legislative framework to keep this one going.",
+      "zh": "我们现在看到的是一次尝试：建立强有力的法律框架，让这次和平进程继续下去。"
+    },
+    {
+      "id": 98,
+      "startMs": 549180,
+      "endMs": 552060,
+      "en": "Our senior international correspondent Orla Guerin.",
+      "zh": "以上是我们的高级国际记者奥拉·格林。"
+    },
+    {
+      "id": 99,
+      "startMs": 553020,
+      "endMs": 556220,
+      "en": "The authorities in China say there's been a rise in marriage fraud,",
+      "zh": "中国有关部门说，婚姻诈骗有所增加，"
+    },
+    {
+      "id": 100,
+      "startMs": 556380,
+      "endMs": 560540,
+      "en": "with scammers increasingly targeting single men desperate to find a wife.",
+      "zh": "骗子越来越多地盯上急于娶妻的单身男性。"
+    },
+    {
+      "id": 101,
+      "startMs": 561260,
+      "endMs": 564620,
+      "en": "The BBC has been to the heart of the so-called flash marriage industry,",
+      "zh": "BBC 深入调查了所谓的“闪婚产业”，"
+    },
+    {
+      "id": 102,
+      "startMs": 564780,
+      "endMs": 568060,
+      "en": "where matchmaking agencies arrange weddings in a matter of days.",
+      "zh": "婚介机构能在短短几天内安排婚礼。"
+    },
+    {
+      "id": 103,
+      "startMs": 568620,
+      "endMs": 571980,
+      "en": "The industry has sprung up in seemingly perfect conditions.",
+      "zh": "这一行业在看似完美的条件下兴起。"
+    },
+    {
+      "id": 104,
+      "startMs": 572220,
+      "endMs": 575580,
+      "en": "The country has a huge male-to-female gender imbalance,",
+      "zh": "中国男女比例严重失衡，"
+    },
+    {
+      "id": 105,
+      "startMs": 575660,
+      "endMs": 578220,
+      "en": "and men are willing to spend big to find a wife.",
+      "zh": "男性愿意花大价钱娶妻。"
+    },
+    {
+      "id": 106,
+      "startMs": 578860,
+      "endMs": 581420,
+      "en": "As our China correspondent Laura Bicker reports,",
+      "zh": "正如本台驻中国记者劳拉·比克尔报道的那样，"
+    },
+    {
+      "id": 107,
+      "startMs": 581420,
+      "endMs": 586060,
+      "en": "this scam is a symptom of a wider demographic crisis facing the country.",
+      "zh": "这起骗局折射出中国面临的一场更广泛的人口危机。"
+    },
+    {
+      "id": 108,
+      "startMs": 586840,
+      "endMs": 593400,
+      "en": "This music signifies the start of what appears to be a love story.",
+      "zh": "这段音乐标志着一段看似爱情故事的开端。"
+    },
+    {
+      "id": 109,
+      "startMs": 594500,
+      "endMs": 602820,
+      "en": "Alongside the romantic soundtrack, 37-year-old Wang Shuang is pictured smiling and holding hands with his fiancée,",
+      "zh": "伴着浪漫的配乐，画面中的 37 岁男子王爽面带笑容，与未婚妻牵着手，"
+    },
+    {
+      "id": 110,
+      "startMs": 603460,
+      "endMs": 607380,
+      "en": "after handing over most of his life savings to a matchmaking agency.",
+      "zh": "此前，他把大部分毕生积蓄交给了一家婚介机构。"
+    },
+    {
+      "id": 111,
+      "startMs": 607620,
+      "endMs": 610820,
+      "en": "How many women did you meet before you chose your bride?",
+      "zh": "选定新娘之前，你见过多少位女性？"
+    },
+    {
+      "id": 112,
+      "startMs": 611060,
+      "endMs": 616100,
+      "en": "I met seven. This was the eighth. I chose her.",
+      "zh": "我见了七个，她是第八个，我选了她。"
+    },
+    {
+      "id": 113,
+      "startMs": 616100,
+      "endMs": 620260,
+      "en": "Each meeting lasts about eight to ten minutes.",
+      "zh": "每次见面大约持续八到十分钟。"
+    },
+    {
+      "id": 114,
+      "startMs": 620900,
+      "endMs": 623780,
+      "en": "You see one person around four to five times.",
+      "zh": "和一个人大概会见四到五次。"
+    },
+    {
+      "id": 115,
+      "startMs": 623780,
+      "endMs": 625700,
+      "en": "How long after that meeting were you married?",
+      "zh": "那次见面后多久，你们就结婚了？"
+    },
+    {
+      "id": 116,
+      "startMs": 625940,
+      "endMs": 628420,
+      "en": "About three or four days.",
+      "zh": "大约三四天。"
+    },
+    {
+      "id": 117,
+      "startMs": 628500,
+      "endMs": 634260,
+      "en": "That's why they call this a flash marriage, a booming industry in China.",
+      "zh": "这就是所谓的“闪婚”，一个正在中国蓬勃发展的行业。"
+    },
+    {
+      "id": 118,
+      "startMs": 634340,
+      "endMs": 640740,
+      "en": "During their wedding ceremony, the pair pledged to build a new life.",
+      "zh": "婚礼上，两人承诺共同开启新生活。"
+    },
+    {
+      "id": 119,
+      "startMs": 641380,
+      "endMs": 646980,
+      "en": "He also handed her thousands of pounds as a bride price, a traditional Chinese marriage custom.",
+      "zh": "他还给了她数千英镑作为彩礼，这是中国传统婚姻习俗。"
+    },
+    {
+      "id": 120,
+      "startMs": 646980,
+      "endMs": 654020,
+      "en": "It wasn't long before he realised even her age was fake.",
+      "zh": "没过多久，他便发现连她的年龄都是假的。"
+    },
+    {
+      "id": 121,
+      "startMs": 655000,
+      "endMs": 659880,
+      "en": "He discovered she'd been married three times, had three kids, and was deeply in debt.",
+      "zh": "他发现她结过三次婚，有三个孩子，而且负债累累。"
+    },
+    {
+      "id": 122,
+      "startMs": 660120,
+      "endMs": 664520,
+      "en": "When this happens, you feel extremely anxious.",
+      "zh": "遇到这种事，你会感到极度焦虑。"
+    },
+    {
+      "id": 123,
+      "startMs": 664920,
+      "endMs": 667000,
+      "en": "I've spent my life savings.",
+      "zh": "我花光了毕生积蓄。"
+    },
+    {
+      "id": 124,
+      "startMs": 667320,
+      "endMs": 671560,
+      "en": "The total damage is close to 74,000 US dollars.",
+      "zh": "我的总损失接近 7.4 万美元。"
+    },
+    {
+      "id": 125,
+      "startMs": 672360,
+      "endMs": 673880,
+      "en": "My parents blame me.",
+      "zh": "父母责怪我。"
+    },
+    {
+      "id": 126,
+      "startMs": 674280,
+      "endMs": 676680,
+      "en": "I cannot work. I cannot sleep.",
+      "zh": "我没法工作。我没法睡觉。"
+    },
+    {
+      "id": 127,
+      "startMs": 676680,
+      "endMs": 683800,
+      "en": "He went back to confront the matchmaking firm, only to find the building empty.",
+      "zh": "他回去找婚介公司对质，却发现大楼已经人去楼空。"
+    },
+    {
+      "id": 128,
+      "startMs": 684360,
+      "endMs": 686840,
+      "en": "They too had disappeared with his money.",
+      "zh": "他们也带着他的钱消失了。"
+    },
+    {
+      "id": 129,
+      "startMs": 687880,
+      "endMs": 691880,
+      "en": "We toured a warren of offices trying to find an agency to talk to us.",
+      "zh": "我们穿梭在迷宫般的办公区里，试图找到一家愿意接受采访的机构。"
+    },
+    {
+      "id": 130,
+      "startMs": 692280,
+      "endMs": 693880,
+      "en": "One eventually agreed.",
+      "zh": "最终有一家同意了。"
+    },
+    {
+      "id": 131,
+      "startMs": 694280,
+      "endMs": 697720,
+      "en": "Of course, scam marriages affect us.",
+      "zh": "当然，婚姻诈骗也影响我们。"
+    },
+    {
+      "id": 132,
+      "startMs": 697880,
+      "endMs": 701640,
+      "en": "We have an old saying: one speck of dirt ruins a whole pot of soup.",
+      "zh": "我们有句老话：一粒老鼠屎坏了一锅粥。"
+    },
+    {
+      "id": 133,
+      "startMs": 702040,
+      "endMs": 704520,
+      "en": "We often attend meetings held by the local police.",
+      "zh": "我们经常参加当地警方召集的会议。"
+    },
+    {
+      "id": 134,
+      "startMs": 704680,
+      "endMs": 708840,
+      "en": "If any company commits fraud, it will shoulder legal responsibilities.",
+      "zh": "如果有公司实施诈骗，就要承担法律责任。"
+    },
+    {
+      "id": 135,
+      "startMs": 710160,
+      "endMs": 718560,
+      "en": "So, after our matchmaker interview, one of his colleagues was not pleased, and we had to leave quite quickly.",
+      "zh": "采访完这名婚介从业者后，他的一名同事很不高兴，我们只得迅速离开。"
+    },
+    {
+      "id": 136,
+      "startMs": 719200,
+      "endMs": 723120,
+      "en": "Although he says he is a legitimate business owner,",
+      "zh": "尽管他自称是合法经营的商家，"
+    },
+    {
+      "id": 137,
+      "startMs": 723120,
+      "endMs": 726400,
+      "en": "that he's there to try to match as many people as possible,",
+      "zh": "说自己是为了尽可能给更多人牵线，"
+    },
+    {
+      "id": 138,
+      "startMs": 726800,
+      "endMs": 730800,
+      "en": "and to ensure that his clients have some kind of background check,",
+      "zh": "并确保客户接受某种背景审查，"
+    },
+    {
+      "id": 139,
+      "startMs": 731660,
+      "endMs": 737900,
+      "en": "this is an industry where it's difficult to know, especially after just a few days, who you're marrying.",
+      "zh": "但在这一行业里，尤其仅仅过了几天，你很难知道自己究竟要和谁结婚。"
+    },
+    {
+      "id": 140,
+      "startMs": 738700,
+      "endMs": 743580,
+      "en": "The agencies springing up in Guizhou are a symptom of a much bigger problem.",
+      "zh": "贵州不断涌现的婚介机构，是一个更大问题的表征。"
+    },
+    {
+      "id": 141,
+      "startMs": 745840,
+      "endMs": 748720,
+      "en": "We've come to the countryside to get an idea of the scale of the problem.",
+      "zh": "我们来到乡村，想了解这一问题的规模。"
+    },
+    {
+      "id": 142,
+      "startMs": 748720,
+      "endMs": 752400,
+      "en": "China is facing a demographic crisis.",
+      "zh": "中国正面临一场人口危机。"
+    },
+    {
+      "id": 143,
+      "startMs": 752480,
+      "endMs": 758480,
+      "en": "Up until ten years ago, parents were only allowed to have one child, and there was a preference for boys.",
+      "zh": "直到十年前，父母只被允许生育一个孩子，而且人们更偏爱男孩。"
+    },
+    {
+      "id": 144,
+      "startMs": 758480,
+      "endMs": 764480,
+      "en": "That has left around 30 million men looking for a wife in this country.",
+      "zh": "这导致中国约有 3000 万男性正在寻找妻子。"
+    },
+    {
+      "id": 145,
+      "startMs": 764480,
+      "endMs": 770320,
+      "en": "That's the equivalent of the entire male population of the UK remaining a bachelor.",
+      "zh": "这相当于英国全部男性人口都处于单身状态。"
+    },
+    {
+      "id": 146,
+      "startMs": 770720,
+      "endMs": 773840,
+      "en": "The party is trying to get more people to get married,",
+      "zh": "执政党正努力推动更多人结婚，"
+    },
+    {
+      "id": 147,
+      "startMs": 774000,
+      "endMs": 778320,
+      "en": "trying to get more people to have children, but it's having a limited effect.",
+      "zh": "也试图让更多人生育，但成效有限。"
+    },
+    {
+      "id": 148,
+      "startMs": 779420,
+      "endMs": 784380,
+      "en": "Women in China can also afford to be choosy and demand a higher bride price.",
+      "zh": "中国女性也更有选择余地，可以要求更高的彩礼。"
+    },
+    {
+      "id": 149,
+      "startMs": 785180,
+      "endMs": 788540,
+      "en": "In China, the family line runs through the men of the household.",
+      "zh": "在中国，家族血脉被认为由家中的男性延续。"
+    },
+    {
+      "id": 150,
+      "startMs": 788940,
+      "endMs": 791900,
+      "en": "It's seen as a family duty to get married and have children.",
+      "zh": "结婚生子被视为一种家庭责任。"
+    },
+    {
+      "id": 151,
+      "startMs": 792220,
+      "endMs": 795500,
+      "en": "But this scam has left Wang Shuang with few options.",
+      "zh": "但这场骗局让王爽几乎无路可选。"
+    },
+    {
+      "id": 152,
+      "startMs": 795580,
+      "endMs": 800380,
+      "en": "I don't know whether I can get married after what happened.",
+      "zh": "出了这件事以后，我不知道自己还能不能结婚。"
+    },
+    {
+      "id": 153,
+      "startMs": 800380,
+      "endMs": 803500,
+      "en": "I wasn't a good catch, and I spent all my money.",
+      "zh": "我本来就不是理想的结婚对象，现在钱也全花光了。"
+    },
+    {
+      "id": 154,
+      "startMs": 803740,
+      "endMs": 805660,
+      "en": "I won't consider getting married again.",
+      "zh": "我不会再考虑结婚了。"
+    },
+    {
+      "id": 155,
+      "startMs": 807800,
+      "endMs": 813880,
+      "en": "Fewer marriages mean fewer children, at a time when China's population is shrinking.",
+      "zh": "在中国人口不断萎缩之际，结婚人数减少意味着新生儿也会减少。"
+    },
+    {
+      "id": 156,
+      "startMs": 814520,
+      "endMs": 821560,
+      "en": "It's a shift that's reshaping society and creating a challenge the Communist Party is struggling to overcome.",
+      "zh": "这一转变正在重塑社会，也带来了中国共产党难以应对的挑战。"
+    },
+    {
+      "id": 157,
+      "startMs": 822680,
+      "endMs": 825320,
+      "en": "Laura Bicker with that report from China.",
+      "zh": "以上是劳拉·比克尔从中国发回的报道。"
+    },
+    {
+      "id": 158,
+      "startMs": 826440,
+      "endMs": 831480,
+      "en": "Now, are you really a pet owner if you haven't looked at your pet and thought, \"I wonder what they're thinking?\"",
+      "zh": "如果你从没看着自己的宠物，心想“它在想什么呢？”，那你还算真正的宠物主人吗？"
+    },
+    {
+      "id": 159,
+      "startMs": 831960,
+      "endMs": 835720,
+      "en": "Well, scientists in Austria think they're getting closer to an answer.",
+      "zh": "奥地利的科学家认为，他们正越来越接近答案。"
+    },
+    {
+      "id": 160,
+      "startMs": 836200,
+      "endMs": 841320,
+      "en": "They say they've worked out what's going on inside a dog's brain when it sees a human smiling or scowling.",
+      "zh": "他们说，已经弄清狗看到人类微笑或怒视时，其大脑内部会发生什么。"
+    },
+    {
+      "id": 161,
+      "startMs": 841720,
+      "endMs": 844920,
+      "en": "The team hope it'll help people communicate better with their animals.",
+      "zh": "研究团队希望，这将帮助人们更好地与动物沟通。"
+    },
+    {
+      "id": 162,
+      "startMs": 845240,
+      "endMs": 848120,
+      "en": "Our science correspondent Victoria Gill has the story.",
+      "zh": "本台科学事务记者维多利亚·吉尔带来报道。"
+    },
+    {
+      "id": 163,
+      "startMs": 848760,
+      "endMs": 853400,
+      "en": "A total of 14 dogs were involved in the study—six good boys and eight good girls—",
+      "zh": "共有 14 只狗参与研究——六只公犬和八只母犬——"
+    },
+    {
+      "id": 164,
+      "startMs": 853400,
+      "endMs": 858680,
+      "en": "all trained to sit very still in a brain scanner while they were shown pictures of people's faces.",
+      "zh": "它们都受过训练，能在脑部扫描仪中静坐，同时观看人脸照片。"
+    },
+    {
+      "id": 165,
+      "startMs": 859240,
+      "endMs": 866760,
+      "en": "Photos of smiling human faces of complete strangers made an area of the dog's brain associated with reward light up with activity.",
+      "zh": "完全陌生的人类笑脸照片，会让狗脑中与奖励相关的区域活跃起来。"
+    },
+    {
+      "id": 166,
+      "startMs": 867400,
+      "endMs": 874040,
+      "en": "That reward circuitry is the part of the brain that's activated when we enjoy and remember good things like tasty food or praise.",
+      "zh": "当我们享受并记住美食或赞美等美好事物时，大脑中的这套奖励回路就会被激活。"
+    },
+    {
+      "id": 167,
+      "startMs": 874520,
+      "endMs": 879000,
+      "en": "In terms of our own human brains, we often refer to this activation as a dopamine hit.",
+      "zh": "就人脑而言，我们常把这种激活称为“多巴胺刺激”。"
+    },
+    {
+      "id": 168,
+      "startMs": 879240,
+      "endMs": 883660,
+      "en": "That's triggered by winning a game or even receiving a positive comment on a social media post.",
+      "zh": "赢下一场比赛，甚至社交媒体帖子收到一条好评，都能触发这种刺激。"
+    },
+    {
+      "id": 169,
+      "startMs": 884220,
+      "endMs": 891660,
+      "en": "And in previous research on dogs, that same brain circuitry was activated when they anticipated a tasty snack or smelled a familiar person.",
+      "zh": "此前对狗的研究发现，当它们期待美味零食或闻到熟悉的人时，同一套脑部回路也会被激活。"
+    },
+    {
+      "id": 170,
+      "startMs": 892300,
+      "endMs": 897900,
+      "en": "So this study shows, scientists say, that a human smile is a positive, rewarding thing for a dog.",
+      "zh": "科学家说，因此这项研究表明，人类的微笑对狗来说是一种积极且令人愉悦的事物。"
+    },
+    {
+      "id": 171,
+      "startMs": 898540,
+      "endMs": 902700,
+      "en": "The project was led by researchers at the University of Vienna, and one of the lead scientists,",
+      "zh": "该项目由维也纳大学的研究人员牵头，其中一位首席科学家"
+    },
+    {
+      "id": 172,
+      "startMs": 902700,
+      "endMs": 911580,
+      "en": "Raul Hernandez-Perez, says it's part of an ongoing series of studies showing how life with humans has reshaped the brains of our canine companions.",
+      "zh": "劳尔·埃尔南德斯-佩雷斯说，这是一系列持续研究的一部分，旨在揭示与人类共同生活如何重塑犬类伙伴的大脑。"
+    },
+    {
+      "id": 173,
+      "startMs": 911980,
+      "endMs": 920300,
+      "en": "The dog brain solved the problem of understanding emotions in others in a way that cannot be found in other similar animals.",
+      "zh": "狗的大脑以一种其他类似动物所不具备的方式，解决了理解他者情绪的问题。"
+    },
+    {
+      "id": 174,
+      "startMs": 920380,
+      "endMs": 923500,
+      "en": "So, the dog brain has certain capacity.",
+      "zh": "所以，狗的大脑具备某种能力。"
+    },
+    {
+      "id": 175,
+      "startMs": 923500,
+      "endMs": 928140,
+      "en": "They evolved something that makes them really good at understanding others.",
+      "zh": "它们进化出了某种特质，使其非常善于理解他者。"
+    },
+    {
+      "id": 176,
+      "startMs": 928140,
+      "endMs": 931340,
+      "en": "Another lead scientist on the study, Laura Cuaya, says",
+      "zh": "这项研究的另一位首席科学家劳拉·夸亚说，"
+    },
+    {
+      "id": 177,
+      "startMs": 931340,
+      "endMs": 935260,
+      "en": "the insights could even help us to understand and communicate better with our own dogs.",
+      "zh": "这些见解甚至可以帮助我们更好地理解自己的狗，并与它们沟通。"
+    },
+    {
+      "id": 178,
+      "startMs": 935820,
+      "endMs": 941580,
+      "en": "So we can learn from that, and we can also be more aware about how they are expressing their emotions.",
+      "zh": "所以我们可以从中学习，也能更加留意它们是如何表达情绪的。"
+    },
+    {
+      "id": 179,
+      "startMs": 941580,
+      "endMs": 945040,
+      "en": "And I think if we are aware of this, the relationship will improve.",
+      "zh": "我认为，如果我们意识到这一点，彼此的关系就会改善。"
+    },
+    {
+      "id": 180,
+      "startMs": 945520,
+      "endMs": 949440,
+      "en": "One simple thing you can do to improve that relationship: smile more at your dog.",
+      "zh": "改善这段关系有个简单办法：多对你的狗笑一笑。"
+    },
+    {
+      "id": 181,
+      "startMs": 950000,
+      "endMs": 952560,
+      "en": "You heard it here first: smile at your dog.",
+      "zh": "这可是本节目率先告诉你的：对你的狗笑一笑。"
+    },
+    {
+      "id": 182,
+      "startMs": 952640,
+      "endMs": 954160,
+      "en": "Victoria Gill with that report.",
+      "zh": "以上是维多利亚·吉尔的报道。"
+    },
+    {
+      "id": 183,
+      "startMs": 956300,
+      "endMs": 963420,
+      "en": "Still to come: Dobby's grave is a permanent reminder of how important he is to us as the fans.",
+      "zh": "稍后节目中：多比的墓永久提醒着我们这些粉丝，他对我们有多么重要。"
+    },
+    {
+      "id": 184,
+      "startMs": 963980,
+      "endMs": 968140,
+      "en": "The fictional character who forced the rerouting of a very real pipeline.",
+      "zh": "这个虚构角色迫使一条真实的管线改道。"
+    },
+    {
+      "id": 185,
+      "startMs": 968140,
+      "endMs": 969740,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 186,
+      "startMs": 970060,
+      "endMs": 973820,
+      "en": "President Trump has signed an order that calls for fewer childhood vaccines",
+      "zh": "特朗普总统签署了一项命令，要求减少儿童接种的疫苗"
+    },
+    {
+      "id": 187,
+      "startMs": 973980,
+      "endMs": 980620,
+      "en": "and also recommends administering mumps, measles and rubella, or MMR, shots in separate doses.",
+      "zh": "并建议将腮腺炎、麻疹和风疹联合疫苗，即 MMR 疫苗，分开注射。"
+    },
+    {
+      "id": 188,
+      "startMs": 981100,
+      "endMs": 985340,
+      "en": "The US president repeated unfounded claims linking vaccines with autism.",
+      "zh": "这位美国总统再次提出了疫苗与自闭症有关的无根据说法。"
+    },
+    {
+      "id": 189,
+      "startMs": 985740,
+      "endMs": 988380,
+      "en": "Here is just a bit of his address in the Oval Office.",
+      "zh": "下面是他在椭圆形办公室讲话的一个片段。"
+    },
+    {
+      "id": 190,
+      "startMs": 988860,
+      "endMs": 992380,
+      "en": "So, the MMR, we want to have separate, separate visits, separate times.",
+      "zh": "所以，MMR 疫苗，我们希望分开、分开就诊，在不同时间接种。"
+    },
+    {
+      "id": 191,
+      "startMs": 992380,
+      "endMs": 999100,
+      "en": "The vaccine being broken into three separate single doses, and vaccines being administered in separate visits.",
+      "zh": "把这种疫苗拆成三剂单独的疫苗，并分开就诊接种。"
+    },
+    {
+      "id": 192,
+      "startMs": 999100,
+      "endMs": 1007660,
+      "en": "For example, at one year, you should have five separate visits for vaccines rather than getting them all in the same day.",
+      "zh": "例如，孩子一岁时，应该分五次就诊接种疫苗，而不是在同一天全部接种。"
+    },
+    {
+      "id": 193,
+      "startMs": 1008540,
+      "endMs": 1010700,
+      "en": "And I saw this early on, and I've seen proof of it,",
+      "zh": "我很早就注意到了这一点，而且我见过相关证据，"
+    },
+    {
+      "id": 194,
+      "startMs": 1011180,
+      "endMs": 1019660,
+      "en": "where they have a vaccination that looks like the size of a bottle of soda poured into a little child's body.",
+      "zh": "他们接种的疫苗看起来像一整瓶汽水那么多，就这样注入一个小孩子体内。"
+    },
+    {
+      "id": 195,
+      "startMs": 1020580,
+      "endMs": 1022420,
+      "en": "And bad things happen in many, too many cases.",
+      "zh": "而且很多时候会发生不好的事情，次数实在太多了。"
+    },
+    {
+      "id": 196,
+      "startMs": 1022740,
+      "endMs": 1025620,
+      "en": "This is an explosion.",
+      "zh": "这是一次暴发。"
+    },
+    {
+      "id": 197,
+      "startMs": 1025620,
+      "endMs": 1026740,
+      "en": "This is an epidemic.",
+      "zh": "这是一场流行病。"
+    },
+    {
+      "id": 198,
+      "startMs": 1027300,
+      "endMs": 1030500,
+      "en": "The reaction from the medical community has been strong.",
+      "zh": "医学界对此反应强烈。"
+    },
+    {
+      "id": 199,
+      "startMs": 1030820,
+      "endMs": 1033700,
+      "en": "For a flavour of it, here is Dr William Schaffner,",
+      "zh": "要了解医学界的反应，下面请听威廉·沙夫纳医生的看法。"
+    },
+    {
+      "id": 200,
+      "startMs": 1034020,
+      "endMs": 1040420,
+      "en": "who's professor of medicine at Vanderbilt University Medical Center in Nashville, speaking to the BBC's Steve Lai.",
+      "zh": "他是纳什维尔范德堡大学医学中心的医学教授，正接受 BBC 的 Steve Lai 采访。"
+    },
+    {
+      "id": 201,
+      "startMs": 1041060,
+      "endMs": 1043860,
+      "en": "I think there is no scientific reason to do that.",
+      "zh": "我认为这样做没有任何科学依据。"
+    },
+    {
+      "id": 202,
+      "startMs": 1044340,
+      "endMs": 1045460,
+      "en": "There are only downsides.",
+      "zh": "这样做只有坏处。"
+    },
+    {
+      "id": 203,
+      "startMs": 1046420,
+      "endMs": 1053780,
+      "en": "Remember, each of these elements in the shots—measles, mumps and rubella—requires two inoculations.",
+      "zh": "要记住，疫苗中的每一种成分——麻疹、腮腺炎和风疹——都需要接种两剂。"
+    },
+    {
+      "id": 204,
+      "startMs": 1054100,
+      "endMs": 1056340,
+      "en": "So we'll go from two to six.",
+      "zh": "这样一来，接种次数就会从两次变成六次。"
+    },
+    {
+      "id": 205,
+      "startMs": 1056660,
+      "endMs": 1061460,
+      "en": "So the child will have, instead of two jabs, will have six.",
+      "zh": "因此，孩子要打的针会从两针变成六针。"
+    },
+    {
+      "id": 206,
+      "startMs": 1061860,
+      "endMs": 1068500,
+      "en": "And there will be a number of different visits, harder to keep track of by the parents and the providers.",
+      "zh": "还要分多次就诊，家长和医疗服务提供者都更难跟进记录。"
+    },
+    {
+      "id": 207,
+      "startMs": 1068900,
+      "endMs": 1070420,
+      "en": "It will cost more.",
+      "zh": "费用也会更高。"
+    },
+    {
+      "id": 208,
+      "startMs": 1070820,
+      "endMs": 1074340,
+      "en": "There's no scientific benefit to it at all.",
+      "zh": "这样做完全没有科学上的益处。"
+    },
+    {
+      "id": 209,
+      "startMs": 1074820,
+      "endMs": 1087720,
+      "en": "Autism was mentioned, and that concept has been proven many times over scientifically: there is no relationship between vaccines and autism.",
+      "zh": "刚才提到了自闭症，而科学已经多次证实了这一结论：疫苗与自闭症之间没有关联。"
+    },
+    {
+      "id": 210,
+      "startMs": 1088040,
+      "endMs": 1091320,
+      "en": "I can assure your viewers of that 100 percent.",
+      "zh": "这一点我可以百分之百地向你们的观众保证。"
+    },
+    {
+      "id": 211,
+      "startMs": 1091720,
+      "endMs": 1094120,
+      "en": "Yeah, and I just want to ask you next, actually.",
+      "zh": "是的，我接下来正想问您这个问题。"
+    },
+    {
+      "id": 212,
+      "startMs": 1094120,
+      "endMs": 1097320,
+      "en": "I mean, these autism suggestions seem to persist.",
+      "zh": "我是说，这些有关自闭症的说法似乎一直挥之不去。"
+    },
+    {
+      "id": 213,
+      "startMs": 1097480,
+      "endMs": 1099400,
+      "en": "Just break down to us what the research actually shows.",
+      "zh": "请为我们具体解释一下，研究究竟表明了什么。"
+    },
+    {
+      "id": 214,
+      "startMs": 1100360,
+      "endMs": 1108280,
+      "en": "There have been up to 40 different studies done by different investigators in different countries, in different populations,",
+      "zh": "已有多达40项不同研究，由不同国家的不同研究人员针对不同人群开展，"
+    },
+    {
+      "id": 215,
+      "startMs": 1108360,
+      "endMs": 1111080,
+      "en": "and all have come out with the same answer.",
+      "zh": "而所有研究都得出了相同答案。"
+    },
+    {
+      "id": 216,
+      "startMs": 1111720,
+      "endMs": 1115720,
+      "en": "There is no relationship between vaccines and autism.",
+      "zh": "疫苗与自闭症之间没有关联。"
+    },
+    {
+      "id": 217,
+      "startMs": 1116120,
+      "endMs": 1126120,
+      "en": "So that is now a secure, scientific, comfortable fact, and we can reassure parents that there is no relationship.",
+      "zh": "因此，这如今是一个确凿、科学、令人安心的事实，我们可以让家长放心：两者之间没有关联。"
+    },
+    {
+      "id": 218,
+      "startMs": 1126840,
+      "endMs": 1132120,
+      "en": "Vaccines prevent serious disease. They do not cause autism.",
+      "zh": "疫苗可以预防严重疾病，并不会导致自闭症。"
+    },
+    {
+      "id": 219,
+      "startMs": 1132280,
+      "endMs": 1139240,
+      "en": "So what's your advice then to parents that may have doubts about getting their children vaccinated for these three things—mumps, measles and rubella?",
+      "zh": "那么，对于可能不确定是否该让孩子接种腮腺炎、麻疹和风疹疫苗的家长，您有什么建议？"
+    },
+    {
+      "id": 220,
+      "startMs": 1139960,
+      "endMs": 1142360,
+      "en": "There are many doubts and many questions.",
+      "zh": "家长有很多疑虑，也有很多问题。"
+    },
+    {
+      "id": 221,
+      "startMs": 1142680,
+      "endMs": 1145400,
+      "en": "Please ask your provider, your doctor.",
+      "zh": "请咨询您的医疗服务提供者，也就是您的医生。"
+    },
+    {
+      "id": 222,
+      "startMs": 1146200,
+      "endMs": 1150920,
+      "en": "And if you want to go to a source, go to the American Academy of Pediatrics.",
+      "zh": "如果想查阅权威来源，可以去看美国儿科学会的信息。"
+    },
+    {
+      "id": 223,
+      "startMs": 1151320,
+      "endMs": 1157800,
+      "en": "The pediatricians in our country couldn't possibly recommend something that's bad for children.",
+      "zh": "我们国家的儿科医生绝不可能推荐对儿童有害的东西。"
+    },
+    {
+      "id": 224,
+      "startMs": 1158440,
+      "endMs": 1163800,
+      "en": "They recommend a comprehensive vaccination schedule, including MMR.",
+      "zh": "他们推荐包括 MMR 在内的完整疫苗接种计划。"
+    },
+    {
+      "id": 225,
+      "startMs": 1164440,
+      "endMs": 1167960,
+      "en": "Dr William Schaffner talking to my colleague Steve Lai.",
+      "zh": "以上是威廉·沙夫纳医生接受我的同事 Steve Lai 采访。"
+    },
+    {
+      "id": 226,
+      "startMs": 1169440,
+      "endMs": 1175200,
+      "en": "On to a story from here in the UK that is dominating many of the newspaper front pages.",
+      "zh": "接下来关注英国的一则新闻，它占据了许多报纸的头版。"
+    },
+    {
+      "id": 227,
+      "startMs": 1175520,
+      "endMs": 1181200,
+      "en": "A dinghy carrying 230 migrants on it crossing the Channel from France to England,",
+      "zh": "一艘载有230名移民的小艇正从法国穿越英吉利海峡前往英格兰，"
+    },
+    {
+      "id": 228,
+      "startMs": 1181200,
+      "endMs": 1186320,
+      "en": "and that sets a new record for the number of people making the journey in a single boat.",
+      "zh": "创下了单艘船只搭载人数的新纪录。"
+    },
+    {
+      "id": 229,
+      "startMs": 1186800,
+      "endMs": 1190640,
+      "en": "Those pictures show passengers packed onto the 15-metre boat,",
+      "zh": "画面显示，乘客挤在这艘15米长的小艇上，"
+    },
+    {
+      "id": 230,
+      "startMs": 1190640,
+      "endMs": 1192960,
+      "en": "many dangling their legs into the water.",
+      "zh": "许多人的双腿都悬在水中。"
+    },
+    {
+      "id": 231,
+      "startMs": 1193440,
+      "endMs": 1196240,
+      "en": "Both British and French authorities have condemned it.",
+      "zh": "英国和法国当局都对此表示谴责。"
+    },
+    {
+      "id": 232,
+      "startMs": 1196400,
+      "endMs": 1199520,
+      "en": "Our correspondent Simon Jones is at the British port of Dover.",
+      "zh": "我们的记者西蒙·琼斯正在英国港口多佛。"
+    },
+    {
+      "id": 233,
+      "startMs": 1200240,
+      "endMs": 1204960,
+      "en": "Those involved in the rescue operation said they had never seen anything like it before.",
+      "zh": "参与救援行动的人说，他们以前从未见过这样的情形。"
+    },
+    {
+      "id": 234,
+      "startMs": 1205200,
+      "endMs": 1212880,
+      "en": "More than 230 people, including 20 children, in one inflatable boat attempting to cross the world's busiest shipping lane.",
+      "zh": "230多人，其中包括20名儿童，挤在一艘充气艇上，试图穿越世界上最繁忙的航道。"
+    },
+    {
+      "id": 235,
+      "startMs": 1213280,
+      "endMs": 1215040,
+      "en": "The dinghy set off from northern France.",
+      "zh": "这艘小艇从法国北部出发。"
+    },
+    {
+      "id": 236,
+      "startMs": 1215280,
+      "endMs": 1221760,
+      "en": "As it approached the beach near Berck, scores and scores of migrants ran from the dunes into the sea to clamber on board.",
+      "zh": "当小艇靠近贝尔克附近的海滩时，大批移民从沙丘跑进海里，爬上船去。"
+    },
+    {
+      "id": 237,
+      "startMs": 1222160,
+      "endMs": 1226160,
+      "en": "Callum Blades is from the charity Samphire, which supports migrants in Dover.",
+      "zh": "卡勒姆·布莱兹来自慈善机构 Samphire，该机构在多佛为移民提供支持。"
+    },
+    {
+      "id": 238,
+      "startMs": 1226480,
+      "endMs": 1230500,
+      "en": "When you look at the amount of people that are on it, squashed together and fearful for their lives,",
+      "zh": "看到船上有那么多人挤在一起、为自己的生命担惊受怕，"
+    },
+    {
+      "id": 239,
+      "startMs": 1230740,
+      "endMs": 1236580,
+      "en": "I think there is maybe a sense of terror, I suppose, especially as this is kind of a last-ditch attempt, really.",
+      "zh": "我想他们或许有一种恐惧感，尤其因为这实际上算是最后一搏。"
+    },
+    {
+      "id": 240,
+      "startMs": 1236980,
+      "endMs": 1244020,
+      "en": "It's very dangerous. The fact is, a lot of these rafts and dinghies that we sort of encounter are botched together. They're not obviously regulated.",
+      "zh": "这非常危险。事实是，我们遇到的许多筏子和小艇都是粗制滥造拼起来的，显然没有受到规范监管。"
+    },
+    {
+      "id": 241,
+      "startMs": 1244260,
+      "endMs": 1251300,
+      "en": "The boat was being shadowed by the French authorities, who felt it was too dangerous to attempt to stop such an overloaded vessel at sea.",
+      "zh": "法国当局一路监视着这艘船；他们认为，在海上试图拦截这样一艘严重超载的船只太过危险。"
+    },
+    {
+      "id": 242,
+      "startMs": 1251700,
+      "endMs": 1256260,
+      "en": "Once the migrants reached UK waters, they were picked up by the Border Force and taken to Dover.",
+      "zh": "移民抵达英国水域后，由英国边境部队接走并送往多佛。"
+    },
+    {
+      "id": 243,
+      "startMs": 1256260,
+      "endMs": 1259780,
+      "en": "The so-called small boats have been getting much bigger over the years.",
+      "zh": "这些所谓的“小船”多年来正变得越来越大。"
+    },
+    {
+      "id": 244,
+      "startMs": 1260100,
+      "endMs": 1265300,
+      "en": "When the crossings began in earnest in 2018, there was an average of seven people per boat.",
+      "zh": "2018年这类横渡开始大量出现时，每艘船平均搭载7人。"
+    },
+    {
+      "id": 245,
+      "startMs": 1265540,
+      "endMs": 1267780,
+      "en": "Last year, that rose to more than 60.",
+      "zh": "去年，这一数字上升到60多人。"
+    },
+    {
+      "id": 246,
+      "startMs": 1267780,
+      "endMs": 1274020,
+      "en": "Earlier this month, 173 people had to be rescued from a single boat which caught fire mid-Channel.",
+      "zh": "本月早些时候，一艘船在英吉利海峡中途起火，船上173人不得不获救。"
+    },
+    {
+      "id": 247,
+      "startMs": 1274420,
+      "endMs": 1279460,
+      "en": "Rob Lawrie, a former soldier turned aid worker who works on BBC podcasts about migration,",
+      "zh": "罗布·劳里是一名从军人转行的援助工作者，参与制作 BBC 关于移民的播客。"
+    },
+    {
+      "id": 248,
+      "startMs": 1279700,
+      "endMs": 1283620,
+      "en": "says there's really only one main reason for the smugglers' change in tactics.",
+      "zh": "他说，走私者改变策略其实只有一个主要原因。"
+    },
+    {
+      "id": 249,
+      "startMs": 1283860,
+      "endMs": 1286500,
+      "en": "Bottom line: money. That's all it is. It's money.",
+      "zh": "归根结底就是钱。原因仅此而已。就是为了钱。"
+    },
+    {
+      "id": 250,
+      "startMs": 1286820,
+      "endMs": 1288820,
+      "en": "If 30 people go overboard on that boat,",
+      "zh": "如果那艘船上有30人落水，"
+    },
+    {
+      "id": 251,
+      "startMs": 1289400,
+      "endMs": 1292440,
+      "en": "make no mistake, the smugglers will disappear for a while.",
+      "zh": "毫无疑问，走私者会暂时销声匿迹。"
+    },
+    {
+      "id": 252,
+      "startMs": 1292600,
+      "endMs": 1294840,
+      "en": "It'll all calm down. They'll come back and they'll make more money.",
+      "zh": "事情会平息下来。然后他们会卷土重来，赚更多的钱。"
+    },
+    {
+      "id": 253,
+      "startMs": 1295240,
+      "endMs": 1297320,
+      "en": "That report was by Simon Jones.",
+      "zh": "以上报道来自西蒙·琼斯。"
+    },
+    {
+      "id": 254,
+      "startMs": 1298040,
+      "endMs": 1303560,
+      "en": "If you're lucky enough to have seen the Victoria Falls on the border of Zambia and Zimbabwe,",
+      "zh": "如果你有幸见过赞比亚与津巴布韦边境的维多利亚瀑布，"
+    },
+    {
+      "id": 255,
+      "startMs": 1303720,
+      "endMs": 1306120,
+      "en": "you'll know it's one of the natural wonders of the world.",
+      "zh": "就会知道它是世界自然奇观之一。"
+    },
+    {
+      "id": 256,
+      "startMs": 1306600,
+      "endMs": 1309560,
+      "en": "But inevitably, with tourists comes development,",
+      "zh": "但游客到来，开发也不可避免地随之而来，"
+    },
+    {
+      "id": 257,
+      "startMs": 1309880,
+      "endMs": 1314040,
+      "en": "and there's growing concern this is having an unintended impact on the local wildlife.",
+      "zh": "人们日益担忧，这正对当地野生动物造成意外影响。"
+    },
+    {
+      "id": 258,
+      "startMs": 1314520,
+      "endMs": 1318120,
+      "en": "Iza Jacobson reports from the nearby Zambian city of Livingstone.",
+      "zh": "Iza Jacobson 从附近的赞比亚城市利文斯通发来报道。"
+    },
+    {
+      "id": 259,
+      "startMs": 1320480,
+      "endMs": 1326080,
+      "en": "Late at night, Chamunolwa Chambo is on patrol on the edge of the peaceful town of Livingstone,",
+      "zh": "深夜，Chamunolwa Chambo 在宁静的利文斯通镇边缘巡逻，"
+    },
+    {
+      "id": 260,
+      "startMs": 1326400,
+      "endMs": 1332560,
+      "en": "the tourist capital of Zambia, which lies just a few miles from the Victoria Falls and its national park.",
+      "zh": "这里是赞比亚的旅游之都，距离维多利亚瀑布及其国家公园只有几英里。"
+    },
+    {
+      "id": 261,
+      "startMs": 1333120,
+      "endMs": 1338240,
+      "en": "He warns locals to be careful, not because of criminals, but because of elephants.",
+      "zh": "他提醒当地人小心，不是要提防罪犯，而是要提防大象。"
+    },
+    {
+      "id": 262,
+      "startMs": 1338320,
+      "endMs": 1341520,
+      "en": "I've told them it's not really safe for you to be moving in the night.",
+      "zh": "我告诉过他们，夜间出行其实并不安全。"
+    },
+    {
+      "id": 263,
+      "startMs": 1341920,
+      "endMs": 1349120,
+      "en": "He works for the Conservation and Tourism Society, a local group which promotes coexistence between communities and wildlife.",
+      "zh": "他供职于保护与旅游协会，这是一个促进社区与野生动物共存的当地团体。"
+    },
+    {
+      "id": 264,
+      "startMs": 1349680,
+      "endMs": 1354960,
+      "en": "In recent years, elephants have been coming into the city that's home to around 200,000 people",
+      "zh": "近年来，大象一直进入这座拥有约20万人口的城市，"
+    },
+    {
+      "id": 265,
+      "startMs": 1355280,
+      "endMs": 1357440,
+      "en": "to raid gardens and feed on food waste.",
+      "zh": "闯入花园，并以厨余垃圾为食。"
+    },
+    {
+      "id": 266,
+      "startMs": 1358080,
+      "endMs": 1358720,
+      "en": "Is that an elephant?",
+      "zh": "那是大象吗？"
+    },
+    {
+      "id": 267,
+      "startMs": 1359440,
+      "endMs": 1360800,
+      "en": "Yeah. Oh wow, it's gone. Yeah.",
+      "zh": "是的。哇，它走了。对。"
+    },
+    {
+      "id": 268,
+      "startMs": 1361680,
+      "endMs": 1365920,
+      "en": "Recent severe droughts have forced animals to seek food in unusual places.",
+      "zh": "近来的严重干旱迫使动物到不同寻常的地方觅食。"
+    },
+    {
+      "id": 269,
+      "startMs": 1366480,
+      "endMs": 1373040,
+      "en": "But experts say another key driver is increased development around the town and around the Victoria Falls,",
+      "zh": "但专家表示，另一个关键驱动因素是小镇和维多利亚瀑布周边开发增加，"
+    },
+    {
+      "id": 270,
+      "startMs": 1373360,
+      "endMs": 1380960,
+      "en": "which has cut across the traditional routes used by elephants as they migrate between neighbouring Zimbabwe, Botswana and Zambia.",
+      "zh": "这些开发切断了大象在相邻的津巴布韦、博茨瓦纳和赞比亚之间迁徙时使用的传统路线。"
+    },
+    {
+      "id": 271,
+      "startMs": 1381360,
+      "endMs": 1383760,
+      "en": "Elephants never used to come in our communities,",
+      "zh": "大象以前从不到我们的社区来，"
+    },
+    {
+      "id": 272,
+      "startMs": 1384320,
+      "endMs": 1388320,
+      "en": "but they keep on building lodges, give out land just like that.",
+      "zh": "但他们不断兴建旅馆，就这样把土地批出去。"
+    },
+    {
+      "id": 273,
+      "startMs": 1388320,
+      "endMs": 1392720,
+      "en": "Elephants, you know, do not have enough place or space for them to feed.",
+      "zh": "你知道，大象没有足够的地方或空间觅食。"
+    },
+    {
+      "id": 274,
+      "startMs": 1392720,
+      "endMs": 1399120,
+      "en": "They end up visiting those communities, spoil their gardens, cause damage to houses.",
+      "zh": "它们最终进入这些社区，毁坏花园，损坏房屋。"
+    },
+    {
+      "id": 275,
+      "startMs": 1399120,
+      "endMs": 1400560,
+      "en": "You know, people get angry.",
+      "zh": "你知道，人们会生气。"
+    },
+    {
+      "id": 276,
+      "startMs": 1400560,
+      "endMs": 1403760,
+      "en": "As a result, elephants get a hostile reception.",
+      "zh": "因此，大象会遭到敌意对待。"
+    },
+    {
+      "id": 277,
+      "startMs": 1404000,
+      "endMs": 1409920,
+      "en": "Local gangs have even turned elephant chasing into a sport, but it can have deadly consequences.",
+      "zh": "当地帮派甚至把驱赶大象当成一种游戏，但这可能造成致命后果。"
+    },
+    {
+      "id": 278,
+      "startMs": 1410320,
+      "endMs": 1414960,
+      "en": "At least three people from town have been killed in elephant encounters so far this year.",
+      "zh": "今年迄今，镇上至少已有三人在遭遇大象时丧生。"
+    },
+    {
+      "id": 279,
+      "startMs": 1415280,
+      "endMs": 1416400,
+      "en": "They throw stones at them.",
+      "zh": "他们向大象投掷石块。"
+    },
+    {
+      "id": 280,
+      "startMs": 1416400,
+      "endMs": 1419520,
+      "en": "They even end up following elephants to the game park.",
+      "zh": "他们甚至会一路追着大象进入野生动物园。"
+    },
+    {
+      "id": 281,
+      "startMs": 1419460,
+      "endMs": 1422340,
+      "en": "I would say they lack knowledge in our communities.",
+      "zh": "我认为，我们的社区缺乏相关知识。"
+    },
+    {
+      "id": 282,
+      "startMs": 1422660,
+      "endMs": 1426020,
+      "en": "We'll tell them, when you see elephants coming in the community and everything,",
+      "zh": "我们会告诉他们，当你看到大象进入社区之类的情况时，"
+    },
+    {
+      "id": 283,
+      "startMs": 1426020,
+      "endMs": 1429620,
+      "en": "don't throw stones at them. Don't scream, chase them or anything.",
+      "zh": "不要朝它们扔石头，也不要尖叫、追赶它们或做类似的事。"
+    },
+    {
+      "id": 284,
+      "startMs": 1429860,
+      "endMs": 1431300,
+      "en": "We just need to stay inside.",
+      "zh": "我们只需要待在室内。"
+    },
+    {
+      "id": 285,
+      "startMs": 1431940,
+      "endMs": 1438820,
+      "en": "Theresa Mashiba lives in Dambwa, a neighbourhood of Livingstone that has expanded right up to the edge of the national park.",
+      "zh": "Theresa Mashiba 住在利文斯通的 Dambwa 社区，这片社区已经扩张到国家公园边缘。"
+    },
+    {
+      "id": 286,
+      "startMs": 1439300,
+      "endMs": 1445380,
+      "en": "She collaborates with the Zambian Wildlife Department to help communities adapt to this new reality.",
+      "zh": "她与赞比亚野生动物部门合作，帮助社区适应这一新现实。"
+    },
+    {
+      "id": 287,
+      "startMs": 1445620,
+      "endMs": 1448340,
+      "en": "So you find that each household has mango trees.",
+      "zh": "你会发现，这里家家户户都有芒果树。"
+    },
+    {
+      "id": 288,
+      "startMs": 1448500,
+      "endMs": 1453140,
+      "en": "Then when elephants start coming looking for food, they always pluck big branches.",
+      "zh": "大象前来觅食时，总会扯下很大的树枝。"
+    },
+    {
+      "id": 289,
+      "startMs": 1454180,
+      "endMs": 1458260,
+      "en": "Maureen lives just a couple of metres from the fence with her young family.",
+      "zh": "Maureen 和年幼的家人住在离围栏只有几米远的地方。"
+    },
+    {
+      "id": 290,
+      "startMs": 1458580,
+      "endMs": 1465860,
+      "en": "So she's saying elephant problem are not something that's ending anytime soon.",
+      "zh": "她说，大象带来的问题短期内不会消失。"
+    },
+    {
+      "id": 291,
+      "startMs": 1465860,
+      "endMs": 1469620,
+      "en": "So if they can have anywhere to go, they'd rather relocate to another safe place.",
+      "zh": "所以，如果有地方可去，他们宁愿搬到另一个安全的地方。"
+    },
+    {
+      "id": 292,
+      "startMs": 1470460,
+      "endMs": 1475580,
+      "en": "Coexistence can be a hard sell. So on his night patrol, Chamu has a special job.",
+      "zh": "要让人们接受共存并不容易。因此在夜间巡逻时，Chamu 有一项特殊任务。"
+    },
+    {
+      "id": 293,
+      "startMs": 1476060,
+      "endMs": 1479180,
+      "en": "He tries to coax elephants away from hostile areas.",
+      "zh": "他试着温和地引导大象离开充满敌意的区域。"
+    },
+    {
+      "id": 294,
+      "startMs": 1479820,
+      "endMs": 1483900,
+      "en": "He shows that gentleness and understanding really can work.",
+      "zh": "他证明了温和与理解确实能够奏效。"
+    },
+    {
+      "id": 295,
+      "startMs": 1484220,
+      "endMs": 1485100,
+      "en": "There's some elephants.",
+      "zh": "那里有几头大象。"
+    },
+    {
+      "id": 296,
+      "startMs": 1485500,
+      "endMs": 1486780,
+      "en": "Oh wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 297,
+      "startMs": 1487180,
+      "endMs": 1494460,
+      "en": "So there are houses behind us, and elephants are right here feeding in the grass.",
+      "zh": "我们身后就是房屋，而大象就在这里的草地上进食。"
+    },
+    {
+      "id": 298,
+      "startMs": 1494460,
+      "endMs": 1496380,
+      "en": "It's only a few metres away from us.",
+      "zh": "它们离我们只有几米远。"
+    },
+    {
+      "id": 299,
+      "startMs": 1496780,
+      "endMs": 1499660,
+      "en": "Leaning out the window, Chamu works his magic.",
+      "zh": "Chamu 探出窗外，施展起他的妙招。"
+    },
+    {
+      "id": 300,
+      "startMs": 1500300,
+      "endMs": 1501420,
+      "en": "Come on, guys, it's time to go.",
+      "zh": "来吧，伙计们，该走了。"
+    },
+    {
+      "id": 301,
+      "startMs": 1503260,
+      "endMs": 1510220,
+      "en": "And then, incredibly, these massive animals respond to his words and slowly trundle across the road.",
+      "zh": "不可思议的是，这些庞然大物听从了他的话，慢慢走过马路。"
+    },
+    {
+      "id": 302,
+      "startMs": 1510880,
+      "endMs": 1514080,
+      "en": "He guides them away, back towards the national park.",
+      "zh": "他把大象引开，让它们返回国家公园方向。"
+    },
+    {
+      "id": 303,
+      "startMs": 1514720,
+      "endMs": 1523040,
+      "en": "This nightly challenge is unlikely to end, for in reality, the pressure for development of this landscape is only going to grow.",
+      "zh": "这种每晚都会遇到的挑战不太可能结束，因为现实是，这片土地面临的开发压力只会继续增加。"
+    },
+    {
+      "id": 304,
+      "startMs": 1523740,
+      "endMs": 1527820,
+      "en": "But Chamu hopes people will find a way to share the special land.",
+      "zh": "但 Chamu 希望人们能找到共享这片特殊土地的办法。"
+    },
+    {
+      "id": 305,
+      "startMs": 1528140,
+      "endMs": 1531500,
+      "en": "My prayer always is these animals, they can just live freely.",
+      "zh": "我一直祈愿这些动物能自由生活。"
+    },
+    {
+      "id": 306,
+      "startMs": 1531660,
+      "endMs": 1536220,
+      "en": "Maybe in the next five years, people's mindset will definitely going to change. Yeah.",
+      "zh": "也许未来五年里，人们的观念一定会发生改变。是的。"
+    },
+    {
+      "id": 307,
+      "startMs": 1536540,
+      "endMs": 1539580,
+      "en": "That report was by Iza Jacobson.",
+      "zh": "以上报道来自 Iza Jacobson。"
+    },
+    {
+      "id": 308,
+      "startMs": 1540460,
+      "endMs": 1543500,
+      "en": "Well, before we go, a fictional scene from a film.",
+      "zh": "节目结束前，先来听一段电影中的虚构场景。"
+    },
+    {
+      "id": 309,
+      "startMs": 1544480,
+      "endMs": 1553020,
+      "en": "Dobby is happy to be with his friend... Harry Potter.",
+      "zh": "多比很高兴能和他的朋友……哈利·波特在一起。"
+    },
+    {
+      "id": 310,
+      "startMs": 1556500,
+      "endMs": 1561060,
+      "en": "Yet the place where that scene, the death of Dobby the house-elf in the Harry Potter films,",
+      "zh": "然而，《哈利·波特》电影中家养小精灵多比死亡的这一虚构场景，"
+    },
+    {
+      "id": 311,
+      "startMs": 1561140,
+      "endMs": 1565540,
+      "en": "was shot has become a real-life pilgrimage location for fans.",
+      "zh": "其拍摄地已经成为粉丝现实中的朝圣之地。"
+    },
+    {
+      "id": 312,
+      "startMs": 1565860,
+      "endMs": 1574580,
+      "en": "So much so that when a multimillion-dollar underground cable project threatened the future of Dobby's fictional resting place in Pembrokeshire in Wales,",
+      "zh": "以至于一项耗资数百万美元的地下电缆工程威胁到多比位于威尔士彭布罗克郡的虚构安息地时，"
+    },
+    {
+      "id": 313,
+      "startMs": 1574900,
+      "endMs": 1577860,
+      "en": "hundreds lobbied the company to change its plans.",
+      "zh": "数百人游说该公司改变计划。"
+    },
+    {
+      "id": 314,
+      "startMs": 1578420,
+      "endMs": 1584580,
+      "en": "Victoria Mclean is a Harry Potter superfan who lives close to the memorial. She spoke to Rajini Vaidyanathan.",
+      "zh": "维多利亚·麦克莱恩是《哈利·波特》的超级粉丝，住在这处纪念地附近。她接受了 Rajini Vaidyanathan 的采访。"
+    },
+    {
+      "id": 315,
+      "startMs": 1584580,
+      "endMs": 1591860,
+      "en": "It's like a homage where people can come and say goodbye to an incredibly loved fictional character from the Harry Potter series.",
+      "zh": "这里就像一处致敬之地，人们可以来向《哈利·波特》系列中这个深受喜爱的虚构角色告别。"
+    },
+    {
+      "id": 316,
+      "startMs": 1591940,
+      "endMs": 1596340,
+      "en": "The beach itself, Freshwater West, is very much a natural, been-left-alone beach.",
+      "zh": "这片名为淡水西滩的海滩本身十分天然，一直没有被开发。"
+    },
+    {
+      "id": 317,
+      "startMs": 1596500,
+      "endMs": 1598180,
+      "en": "It's not a typical tourist attraction.",
+      "zh": "它不是典型的旅游景点。"
+    },
+    {
+      "id": 318,
+      "startMs": 1598180,
+      "endMs": 1601220,
+      "en": "There are no shops selling Welsh merchandise.",
+      "zh": "这里没有售卖威尔士商品的店铺。"
+    },
+    {
+      "id": 319,
+      "startMs": 1601380,
+      "endMs": 1604260,
+      "en": "There are no kind of restaurants or bars.",
+      "zh": "也没有餐厅或酒吧之类的设施。"
+    },
+    {
+      "id": 320,
+      "startMs": 1604900,
+      "endMs": 1609220,
+      "en": "It is literally a natural beach with beautiful sand dunes",
+      "zh": "它确实是一片拥有美丽沙丘的天然海滩，"
+    },
+    {
+      "id": 321,
+      "startMs": 1609380,
+      "endMs": 1615060,
+      "en": "that the producers of Harry Potter decided was going to be the final resting place of Dobby the house-elf.",
+      "zh": "《哈利·波特》的制片方决定把这里设定为家养小精灵多比的最终安息地。"
+    },
+    {
+      "id": 322,
+      "startMs": 1615140,
+      "endMs": 1620440,
+      "en": "And it's become a makeshift grave for Dobby, a memorial site for him.",
+      "zh": "这里后来成了多比的临时墓地，也就是纪念他的地方。"
+    },
+    {
+      "id": 323,
+      "startMs": 1620440,
+      "endMs": 1622520,
+      "en": "Yes, it has. He was buried there.",
+      "zh": "是的，确实如此。电影中的他就葬在那里。"
+    },
+    {
+      "id": 324,
+      "startMs": 1622520,
+      "endMs": 1627560,
+      "en": "He died on the beach during Deathly Hallows Part One, at the end of the film.",
+      "zh": "在电影《死亡圣器（上）》结尾，他死在了这片海滩上。"
+    },
+    {
+      "id": 325,
+      "startMs": 1628120,
+      "endMs": 1630280,
+      "en": "Spoiler alert for those who haven't seen Harry Potter.",
+      "zh": "还没看过《哈利·波特》的人注意剧透。"
+    },
+    {
+      "id": 326,
+      "startMs": 1630680,
+      "endMs": 1633240,
+      "en": "And he was buried at Shell Cottage.",
+      "zh": "他被葬在贝壳小屋。"
+    },
+    {
+      "id": 327,
+      "startMs": 1633240,
+      "endMs": 1636440,
+      "en": "Harry wanted, instead of using magic to create his grave,",
+      "zh": "哈利不想用魔法为他造墓，"
+    },
+    {
+      "id": 328,
+      "startMs": 1636840,
+      "endMs": 1639960,
+      "en": "Harry wanted to do it himself and dig it by hand.",
+      "zh": "而是想亲自动手挖掘。"
+    },
+    {
+      "id": 329,
+      "startMs": 1640360,
+      "endMs": 1647960,
+      "en": "The reason this has all become a news story is because they wanted to build undersea cables in the area,",
+      "zh": "这件事成为新闻，是因为有人计划在这一地区铺设海底电缆，"
+    },
+    {
+      "id": 330,
+      "startMs": 1648040,
+      "endMs": 1654440,
+      "en": "and you and other fans managed to stop that because Dobby's grave was going to be in its path. Is that right?",
+      "zh": "而你和其他粉丝设法阻止了，因为工程路线会经过多比的墓地。是这样吗？"
+    },
+    {
+      "id": 331,
+      "startMs": 1654680,
+      "endMs": 1660840,
+      "en": "Yes, incredibly. The person who actually did all the surveying didn't know who Dobby was. Fair enough.",
+      "zh": "是的，难以置信。实际负责全部勘测的人不知道多比是谁。这也情有可原。"
+    },
+    {
+      "id": 332,
+      "startMs": 1661080,
+      "endMs": 1666520,
+      "en": "And there was hundreds of calls made to the company asking them, please, do not do this to Dobby's grave,",
+      "zh": "数百通电话打到公司，请求他们不要这样对待多比的墓地，"
+    },
+    {
+      "id": 333,
+      "startMs": 1666600,
+      "endMs": 1669720,
+      "en": "because apparently it was going to go directly under Dobby's grave,",
+      "zh": "因为据说电缆会直接从多比的墓地下方穿过，"
+    },
+    {
+      "id": 334,
+      "startMs": 1669720,
+      "endMs": 1677260,
+      "en": "which, again, is quite a shock anyway, because even if Dobby's grave wasn't there, I think it would spoil what is naturally a very beautiful beach.",
+      "zh": "这本身就很令人震惊，因为即便那里没有多比的墓地，我认为工程也会破坏这片天然美丽的海滩。"
+    },
+    {
+      "id": 335,
+      "startMs": 1677660,
+      "endMs": 1683340,
+      "en": "But we stopped it. I mean, how many fictional characters do you know that that's happened to?",
+      "zh": "但我们阻止了它。我是说，你知道有多少虚构角色曾产生过这样的影响？"
+    },
+    {
+      "id": 336,
+      "startMs": 1683500,
+      "endMs": 1689740,
+      "en": "Could his grave not have been moved somewhere close by, even, so this important project could go ahead?",
+      "zh": "难道不能把他的墓移到附近某处，好让这个重要工程继续推进吗？"
+    },
+    {
+      "id": 337,
+      "startMs": 1690220,
+      "endMs": 1692380,
+      "en": "I don't think so.",
+      "zh": "我认为不行。"
+    },
+    {
+      "id": 338,
+      "startMs": 1692460,
+      "endMs": 1697500,
+      "en": "When you look at the site, there is so many hand-painted rocks there.",
+      "zh": "看看现场，那里有那么多手绘石块。"
+    },
+    {
+      "id": 339,
+      "startMs": 1697820,
+      "endMs": 1699580,
+      "en": "There are monuments to Dobby.",
+      "zh": "还有献给多比的纪念物。"
+    },
+    {
+      "id": 340,
+      "startMs": 1699900,
+      "endMs": 1702860,
+      "en": "People, they go there and they feel close to these characters.",
+      "zh": "人们来到这里，会觉得自己与这些角色更亲近。"
+    },
+    {
+      "id": 341,
+      "startMs": 1702860,
+      "endMs": 1710700,
+      "en": "And it's probably one of the many places in the UK where you don't have to pay for entrance to see something as important in the stories.",
+      "zh": "这里或许也是英国为数不多无需买票，就能看到故事中如此重要事物的地方之一。"
+    },
+    {
+      "id": 342,
+      "startMs": 1710860,
+      "endMs": 1717660,
+      "en": "So Dobby's grave is a permanent reminder of how important he is to us as the fans.",
+      "zh": "因此，多比的墓地永远提醒着人们：对我们这些粉丝来说，这个虚构角色有多么重要。"
+    },
+    {
+      "id": 343,
+      "startMs": 1718340,
+      "endMs": 1721140,
+      "en": "Harry Potter superfan there, Victoria Mclean.",
+      "zh": "以上是《哈利·波特》超级粉丝维多利亚·麦克莱恩。"
+    },
+    {
+      "id": 344,
+      "startMs": 1723540,
+      "endMs": 1724660,
+      "en": "That's all from us for now.",
+      "zh": "本期节目到这里就结束了。"
+    },
+    {
+      "id": 345,
+      "startMs": 1724740,
+      "endMs": 1729140,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 346,
+      "startMs": 1729460,
+      "endMs": 1732660,
+      "en": "We're also on X, @bbcworldservice.",
+      "zh": "你也可以在 X 平台上通过 @bbcworldservice 找到我们。"
+    },
+    {
+      "id": 347,
+      "startMs": 1733060,
+      "endMs": 1736900,
+      "en": "This edition of the Global News Podcast was mixed by Chris Murphy.",
+      "zh": "本期《全球新闻播客》由克里斯·墨菲负责混音。"
+    },
+    {
+      "id": 348,
+      "startMs": 1736900,
+      "endMs": 1738580,
+      "en": "The producer was Emma Joseph.",
+      "zh": "制作人是埃玛·约瑟夫。"
+    },
+    {
+      "id": 349,
+      "startMs": 1738660,
+      "endMs": 1741620,
+      "en": "The editor is Karen Martin, and I'm Will Chalk.",
+      "zh": "编辑是凯伦·马丁，我是威尔·乔克。"
+    },
+    {
+      "id": 350,
+      "startMs": 1741940,
+      "endMs": 1743060,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
