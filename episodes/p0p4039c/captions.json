@@ -1,0 +1,2244 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "12 August 2026"
+  },
+  "durationMs": 1825600,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3440,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是BBC国际台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5960,
+      "endMs": 10760,
+      "en": "I'm Paul Moss, and in the early hours of Wednesday, the 12th of August, these are our main stories.",
+      "zh": "我是保罗·莫斯。8月12日星期三凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11160,
+      "endMs": 18760,
+      "en": "Skywatchers prepare for an eclipse of the Sun, with some set to be treated to that rare spectacle of a total solar blackout.",
+      "zh": "天文爱好者正准备观看日食，其中一些人将有幸目睹罕见的太阳完全消失奇景。"
+    },
+    {
+      "id": 4,
+      "startMs": 19320,
+      "endMs": 25400,
+      "en": "And desperate efforts continue to rescue survivors of Colombia's earthquake, as the number of dead rises.",
+      "zh": "随着死亡人数上升，哥伦比亚地震幸存者的紧急搜救工作仍在继续。"
+    },
+    {
+      "id": 5,
+      "startMs": 28340,
+      "endMs": 34900,
+      "en": "Also in this podcast: what to do with empty offices, when so many now work from home? And...",
+      "zh": "本期节目还将关注：如今这么多人居家办公，那些空置办公室该怎么办？还有……"
+    },
+    {
+      "id": 6,
+      "startMs": 35820,
+      "endMs": 37340,
+      "en": "Stick with me, kid. I'll show you around.",
+      "zh": "跟着我，孩子。我带你四处看看。"
+    },
+    {
+      "id": 7,
+      "startMs": 38060,
+      "endMs": 42300,
+      "en": "Well, I'm planning on it. Merry Christmas, Jack. Oh, Merry Christmas, Lucy.",
+      "zh": "嗯，我正有此意。圣诞快乐，杰克。哦，圣诞快乐，露西。"
+    },
+    {
+      "id": 8,
+      "startMs": 42940,
+      "endMs": 47340,
+      "en": "It's happy birthday to the ‘happily ever after’ world of Hallmark TV.",
+      "zh": "霍尔马克电视台这个“从此幸福生活”的世界迎来了生日。"
+    },
+    {
+      "id": 9,
+      "startMs": 53020,
+      "endMs": 57340,
+      "en": "It's time for the daytime sky to go dark, the temperature to suddenly drop,",
+      "zh": "白昼的天空即将变暗，气温也会骤然下降，"
+    },
+    {
+      "id": 10,
+      "startMs": 57740,
+      "endMs": 63260,
+      "en": "and for millions of people to gaze up at the sky and marvel at that rare phenomenon—a total eclipse.",
+      "zh": "数百万人将仰望天空，为日全食这一罕见现象惊叹。"
+    },
+    {
+      "id": 11,
+      "startMs": 63340,
+      "endMs": 69100,
+      "en": "Across large parts of Europe, including Spain and Iceland, the Sun will be completely blocked out by the Moon.",
+      "zh": "在包括西班牙和冰岛在内的欧洲大片地区，太阳将被月球完全遮住。"
+    },
+    {
+      "id": 12,
+      "startMs": 69580,
+      "endMs": 71900,
+      "en": "Here in the UK, there'll be a partial eclipse,",
+      "zh": "而在英国这里，人们将看到日偏食；"
+    },
+    {
+      "id": 13,
+      "startMs": 72220,
+      "endMs": 77900,
+      "en": "and also in Northwest Africa and parts of the US, with Alaska seeing about a third of the Sun cut off.",
+      "zh": "非洲西北部和美国部分地区也是如此，阿拉斯加可见约三分之一的太阳被遮住。"
+    },
+    {
+      "id": 14,
+      "startMs": 78300,
+      "endMs": 83740,
+      "en": "Our science correspondent Pallab Ghosh is in the northern Spanish city of Burgos to witness the event.",
+      "zh": "我们的科学事务记者帕拉布·戈什正在西班牙北部城市布尔戈斯见证此次日食。"
+    },
+    {
+      "id": 15,
+      "startMs": 86080,
+      "endMs": 92080,
+      "en": "The cathedral bells of the picturesque medieval city of Burgos call the faithful to prayer.",
+      "zh": "风景如画的中世纪城市布尔戈斯，教堂钟声召唤信众前来祈祷。"
+    },
+    {
+      "id": 16,
+      "startMs": 93560,
+      "endMs": 98360,
+      "en": "It's done so for centuries, but now it's a magnet for pilgrims of a different sort.",
+      "zh": "数百年来一直如此，但如今这里吸引着另一类“朝圣者”。"
+    },
+    {
+      "id": 17,
+      "startMs": 99080,
+      "endMs": 102680,
+      "en": "Visitors are flocking here to witness a total solar eclipse.",
+      "zh": "游客正蜂拥而至，观看日全食。"
+    },
+    {
+      "id": 18,
+      "startMs": 102680,
+      "endMs": 105640,
+      "en": "I've traveled from Canada to come see the eclipse.",
+      "zh": "我从加拿大赶来，就是为了看这次日食。"
+    },
+    {
+      "id": 19,
+      "startMs": 105800,
+      "endMs": 111320,
+      "en": "Last time there was an eclipse in Burgos, it was in 1905, so we've been waiting for this for 121 years.",
+      "zh": "布尔戈斯上一次出现日食是在1905年，所以我们已经等了121年。"
+    },
+    {
+      "id": 20,
+      "startMs": 111560,
+      "endMs": 113800,
+      "en": "Very excited to see it. I've seen one.",
+      "zh": "非常期待看到它。我以前看过一次。"
+    },
+    {
+      "id": 21,
+      "startMs": 113960,
+      "endMs": 121400,
+      "en": "It was beautiful, it was amazing, and I'm so happy to have the chance to see one again.",
+      "zh": "那次很美，令人惊叹，我很高兴能有机会再看一次。"
+    },
+    {
+      "id": 22,
+      "startMs": 122320,
+      "endMs": 128640,
+      "en": "In a total eclipse, the Moon completely covers the Sun's bright disc, revealing its shimmering atmosphere.",
+      "zh": "日全食时，月球会完全遮住太阳明亮的圆面，显露出其闪耀的大气层。"
+    },
+    {
+      "id": 23,
+      "startMs": 129040,
+      "endMs": 133120,
+      "en": "It hangs in the sky like a gigantic, shimmering black pearl.",
+      "zh": "它悬在天空中，宛如一颗巨大而闪耀的黑珍珠。"
+    },
+    {
+      "id": 24,
+      "startMs": 133600,
+      "endMs": 140560,
+      "en": "For a few moments, day turns to night, and reality into a dream, as we witness the Sun's hidden beauty.",
+      "zh": "短短片刻间，白昼化作黑夜，现实如同梦境，我们得以见证太阳隐秘的美。"
+    },
+    {
+      "id": 25,
+      "startMs": 140960,
+      "endMs": 143520,
+      "en": "It's quite magical. It's very otherworldly.",
+      "zh": "这非常神奇，仿佛不属于这个世界。"
+    },
+    {
+      "id": 26,
+      "startMs": 143520,
+      "endMs": 146880,
+      "en": "Once people have seen one, many follow them all over the world,",
+      "zh": "许多人一旦看过一次，就会追随日食前往世界各地，"
+    },
+    {
+      "id": 27,
+      "startMs": 147200,
+      "endMs": 152240,
+      "en": "such as Paul and Julie Lee, who've travelled here from Henley-on-Thames in southern England.",
+      "zh": "比如保罗和朱莉·李，他们从英格兰南部的泰晤士河畔亨利来到这里。"
+    },
+    {
+      "id": 28,
+      "startMs": 152560,
+      "endMs": 156560,
+      "en": "This one is in a beautiful country in the middle of the summer. What's not to like?",
+      "zh": "这次是在盛夏时节，又是在一个美丽的国家，有什么不喜欢的呢？"
+    },
+    {
+      "id": 29,
+      "startMs": 156960,
+      "endMs": 162720,
+      "en": "It's going to be a very different eclipse, I think, from the ones that I've seen before, because it's very low on the horizon.",
+      "zh": "我觉得这次日食会与我以往看过的很不一样，因为它在地平线上的位置非常低。"
+    },
+    {
+      "id": 30,
+      "startMs": 163200,
+      "endMs": 169520,
+      "en": "The shared experience part of it is truly remarkable, and I think people who don't get underneath the totality don't ever appreciate that.",
+      "zh": "共同体验日全食的感觉确实非同寻常，我认为没有亲临全食带的人永远无法体会这一点。"
+    },
+    {
+      "id": 31,
+      "startMs": 169760,
+      "endMs": 172400,
+      "en": "Eclipse glasses are essential when looking at the Sun.",
+      "zh": "观看太阳时，日食眼镜必不可少。"
+    },
+    {
+      "id": 32,
+      "startMs": 172400,
+      "endMs": 178880,
+      "en": "Dr Martin Griffiths, an astronomer-turned-eclipse guide, briefs his party on the risks.",
+      "zh": "由天文学家转行做日食向导的马丁·格里菲思博士，向团队说明其中的风险。"
+    },
+    {
+      "id": 33,
+      "startMs": 179120,
+      "endMs": 183700,
+      "en": "It's so bright, so strong, that you could end up damaging your eyesight.",
+      "zh": "阳光如此明亮、如此强烈，最终可能会损伤你的视力。"
+    },
+    {
+      "id": 34,
+      "startMs": 184020,
+      "endMs": 190260,
+      "en": "But he tells me the glasses can be taken off once the Moon completely covers the Sun's bright disc.",
+      "zh": "但他告诉我，只有当月球完全遮住太阳明亮的圆面时，才可以摘下眼镜。"
+    },
+    {
+      "id": 35,
+      "startMs": 190660,
+      "endMs": 193140,
+      "en": "So wait until totality to look at it with the naked eye.",
+      "zh": "所以一定要等到进入全食阶段，才能用肉眼观看。"
+    },
+    {
+      "id": 36,
+      "startMs": 193460,
+      "endMs": 199220,
+      "en": "But also remember that there are lots and lots of astronomical societies across Spain, across the UK,",
+      "zh": "但也请记住，西班牙和英国各地有许多天文学会，"
+    },
+    {
+      "id": 37,
+      "startMs": 199460,
+      "endMs": 205540,
+      "en": "who are putting on shows so that people can come along and see things properly through properly filtered telescopes.",
+      "zh": "它们会举办观测活动，让人们前来通过正确安装滤镜的望远镜安全观看。"
+    },
+    {
+      "id": 38,
+      "startMs": 205860,
+      "endMs": 208020,
+      "en": "And, of course, they'll all have eclipse glasses as well.",
+      "zh": "当然，他们也都会备有日食眼镜。"
+    },
+    {
+      "id": 39,
+      "startMs": 209420,
+      "endMs": 216620,
+      "en": "The total eclipse begins over northern Siberia at sunrise, crosses the Arctic Ocean, Greenland, Iceland,",
+      "zh": "日全食将在日出时从西伯利亚北部开始，随后越过北冰洋、格陵兰和冰岛，"
+    },
+    {
+      "id": 40,
+      "startMs": 217020,
+      "endMs": 220780,
+      "en": "and then sweeps across the North Atlantic and the northern half of Spain,",
+      "zh": "然后横扫北大西洋和西班牙北半部，"
+    },
+    {
+      "id": 41,
+      "startMs": 221180,
+      "endMs": 226140,
+      "en": "clipping a corner of Portugal before ending near the Balearic Islands at sunset.",
+      "zh": "掠过葡萄牙一角，最后在日落时分于巴利阿里群岛附近结束。"
+    },
+    {
+      "id": 42,
+      "startMs": 226840,
+      "endMs": 231080,
+      "en": "But many others in Europe, including the UK, will see a partial eclipse,",
+      "zh": "但欧洲其他许多地区，包括英国，将会看到日偏食；"
+    },
+    {
+      "id": 43,
+      "startMs": 231480,
+      "endMs": 238920,
+      "en": "where the Moon covers more than 90% of the Sun, according to Dr Tim Revell, who's executive editor of New Scientist.",
+      "zh": "《新科学家》执行主编蒂姆·雷维尔博士说，在那里月球会遮住超过90%的太阳。"
+    },
+    {
+      "id": 44,
+      "startMs": 239160,
+      "endMs": 244760,
+      "en": "So with a partial eclipse, it begins with the Moon slowly starting to move in front of the Sun,",
+      "zh": "日偏食开始时，月球会缓缓移到太阳前方，"
+    },
+    {
+      "id": 45,
+      "startMs": 245080,
+      "endMs": 252040,
+      "en": "and over the course of about an hour or so, it will take progressively bigger chunks out of the Sun as it slowly moves across.",
+      "zh": "在大约一小时的缓慢移动过程中，它会逐渐遮住越来越大的一部分太阳。"
+    },
+    {
+      "id": 46,
+      "startMs": 252040,
+      "endMs": 256760,
+      "en": "And you'll notice the sky starts to get a bit darker, you start to see crescent shadows on the floor,",
+      "zh": "你会注意到天空开始稍稍变暗，地面上开始出现新月形的影子，"
+    },
+    {
+      "id": 47,
+      "startMs": 256760,
+      "endMs": 262520,
+      "en": "and eventually it will reach the maximum, and then the same thing will happen in reverse again over the course of an hour.",
+      "zh": "最终日食达到最大程度，随后同样的过程会在一小时内反向重演。"
+    },
+    {
+      "id": 48,
+      "startMs": 262920,
+      "endMs": 265720,
+      "en": "And you'll see the skies go darker, it might become a little bit colder,",
+      "zh": "你会看到天空变暗，天气可能会稍微变冷，"
+    },
+    {
+      "id": 49,
+      "startMs": 265960,
+      "endMs": 271400,
+      "en": "the birds might become a little bit quieter, and then that will be the kind of full experience of the partial eclipse.",
+      "zh": "鸟儿可能会安静一些，这大致就是日偏食的完整体验。"
+    },
+    {
+      "id": 50,
+      "startMs": 271800,
+      "endMs": 276120,
+      "en": "Those gathered here will witness one of the great natural wonders of the universe.",
+      "zh": "聚集在这里的人们将见证宇宙中最伟大的自然奇观之一。"
+    },
+    {
+      "id": 51,
+      "startMs": 276120,
+      "endMs": 280920,
+      "en": "Whether it's total or partial, it's a moment that moves us all,",
+      "zh": "无论是日全食还是日偏食，这一刻都会触动我们所有人，"
+    },
+    {
+      "id": 52,
+      "startMs": 281480,
+      "endMs": 285400,
+      "en": "reminding us of the wonder of the universe and our place in it.",
+      "zh": "提醒我们宇宙的奇妙，以及我们身处其中的位置。"
+    },
+    {
+      "id": 53,
+      "startMs": 287300,
+      "endMs": 289220,
+      "en": "Pallab Ghosh with that report.",
+      "zh": "以上是帕拉布·戈什的报道。"
+    },
+    {
+      "id": 54,
+      "startMs": 290180,
+      "endMs": 294500,
+      "en": "A rescue worker in the Colombian city of Cali described the scene there succinctly.",
+      "zh": "哥伦比亚城市卡利的一名救援人员简明扼要地描述了当地景象。"
+    },
+    {
+      "id": 55,
+      "startMs": 294500,
+      "endMs": 298900,
+      "en": "“It is,” he said, “like the end of the world.” And you could see what he meant.",
+      "zh": "他说：“这里就像世界末日。”你能明白他为什么这么说。"
+    },
+    {
+      "id": 56,
+      "startMs": 299300,
+      "endMs": 302660,
+      "en": "Not just buildings collapsed around him, with people buried alive,",
+      "zh": "他周围不仅有建筑倒塌、有人被活埋，"
+    },
+    {
+      "id": 57,
+      "startMs": 302900,
+      "endMs": 306500,
+      "en": "but the chaos which so often follows this kind of natural disaster:",
+      "zh": "还有这类自然灾害之后经常出现的混乱："
+    },
+    {
+      "id": 58,
+      "startMs": 306980,
+      "endMs": 312500,
+      "en": "people trying desperately to retrieve survivors from the rubble, when just reaching the afflicted areas is a challenge.",
+      "zh": "人们拼命从废墟中救出幸存者，而仅仅抵达灾区就已十分困难。"
+    },
+    {
+      "id": 59,
+      "startMs": 312900,
+      "endMs": 316260,
+      "en": "Regional airports near the earthquake have been forced to close.",
+      "zh": "地震附近的区域机场被迫关闭。"
+    },
+    {
+      "id": 60,
+      "startMs": 316740,
+      "endMs": 324020,
+      "en": "Water and electricity supplies have been disrupted, meaning that coordination of the rescue effort becomes a logistical nightmare.",
+      "zh": "供水供电中断，使救援协调变成了一场后勤噩梦。"
+    },
+    {
+      "id": 61,
+      "startMs": 324420,
+      "endMs": 328500,
+      "en": "The BBC's Jose Carlos Cueto Lopez has been on the ground in Cali.",
+      "zh": "BBC记者何塞·卡洛斯·奎托·洛佩斯一直在卡利现场。"
+    },
+    {
+      "id": 62,
+      "startMs": 330480,
+      "endMs": 335920,
+      "en": "Daybreak in Cali, one of the areas hardest hit by yesterday's 7.4-magnitude quake.",
+      "zh": "卡利迎来黎明，这里是昨天7.4级地震受灾最严重的地区之一。"
+    },
+    {
+      "id": 63,
+      "startMs": 336960,
+      "endMs": 344240,
+      "en": "Residents and rescue teams are working together around the clock, searching collapsed buildings and flattened homes for survivors.",
+      "zh": "居民和救援队昼夜协力，在倒塌的建筑和被夷平的房屋中搜寻幸存者。"
+    },
+    {
+      "id": 64,
+      "startMs": 345980,
+      "endMs": 350620,
+      "en": "Local resident Saul Paez spoke of the devastation that took place close to his home.",
+      "zh": "当地居民索尔·帕埃斯讲述了他家附近遭受的破坏。"
+    },
+    {
+      "id": 65,
+      "startMs": 350780,
+      "endMs": 354700,
+      "en": "This community was formed by several blocks of houses.",
+      "zh": "这个社区由好几个街区的房屋组成。"
+    },
+    {
+      "id": 66,
+      "startMs": 354940,
+      "endMs": 358140,
+      "en": "This was Block E here. All houses were destroyed.",
+      "zh": "这里原本是E区。所有房屋都被毁了。"
+    },
+    {
+      "id": 67,
+      "startMs": 358300,
+      "endMs": 364140,
+      "en": "This is a total loss. Thank God so many people managed to leave before the houses collapsed.",
+      "zh": "这里全毁了。感谢上帝，很多人赶在房屋倒塌前逃了出来。"
+    },
+    {
+      "id": 68,
+      "startMs": 367220,
+      "endMs": 371460,
+      "en": "Children and teachers faced falling debris as they made it down the stairwells of this school.",
+      "zh": "孩子和老师沿学校楼梯撤离时，面临着不断坠落的碎片。"
+    },
+    {
+      "id": 69,
+      "startMs": 372320,
+      "endMs": 374880,
+      "en": "Luckily, no one was badly hurt.",
+      "zh": "所幸无人受重伤。"
+    },
+    {
+      "id": 70,
+      "startMs": 377040,
+      "endMs": 379920,
+      "en": "Emergency workers made this dramatic rescue of a woman",
+      "zh": "紧急救援人员惊险救出了一名女子，"
+    },
+    {
+      "id": 71,
+      "startMs": 379920,
+      "endMs": 384400,
+      "en": "who was trapped under the rubble of a semi-collapsed building, lifting her to safety.",
+      "zh": "她被困在一栋半倒塌建筑的废墟下，救援人员将她吊起至安全地带。"
+    },
+    {
+      "id": 72,
+      "startMs": 384400,
+      "endMs": 389200,
+      "en": "Behind me, there is a totally collapsed building, with rescue teams hoping to find survivors.",
+      "zh": "我身后有一栋完全倒塌的建筑，救援队希望能找到幸存者。"
+    },
+    {
+      "id": 73,
+      "startMs": 389920,
+      "endMs": 395120,
+      "en": "It's a picture familiar where I am, just south of Cali, which is one of the worst-hit areas in this disaster.",
+      "zh": "我所在的卡利以南地区是此次灾害中受创最严重的地方之一，这样的景象随处可见。"
+    },
+    {
+      "id": 74,
+      "startMs": 395820,
+      "endMs": 402060,
+      "en": "Colombia's new president, who has only been in the job since Friday, has declared a state of emergency.",
+      "zh": "上周五才就职的哥伦比亚新总统已宣布进入紧急状态。"
+    },
+    {
+      "id": 75,
+      "startMs": 403160,
+      "endMs": 407960,
+      "en": "However, he now faces up to leading the country through its worst earthquake in a decade.",
+      "zh": "然而，他现在必须带领国家应对十年来最严重的地震。"
+    },
+    {
+      "id": 76,
+      "startMs": 407960,
+      "endMs": 410760,
+      "en": "Jose Carlos Cueto Lopez.",
+      "zh": "何塞·卡洛斯·奎托·洛佩斯报道。"
+    },
+    {
+      "id": 77,
+      "startMs": 411320,
+      "endMs": 415800,
+      "en": "It may be a challenge, but Colombia's new president has chosen to make it a personal one,",
+      "zh": "这或许是个挑战，但哥伦比亚新总统选择亲自承担，"
+    },
+    {
+      "id": 78,
+      "startMs": 416120,
+      "endMs": 419160,
+      "en": "announcing he was taking personal charge of the rescue.",
+      "zh": "宣布由自己亲自负责救援工作。"
+    },
+    {
+      "id": 79,
+      "startMs": 419560,
+      "endMs": 424760,
+      "en": "Abelardo de la Espriella has been to see rescue efforts in one of the worst-affected areas, Pereira.",
+      "zh": "阿韦拉多·德拉埃斯普列亚已前往受灾最严重的地区之一佩雷拉，视察救援工作。"
+    },
+    {
+      "id": 80,
+      "startMs": 425400,
+      "endMs": 429640,
+      "en": "But according to Annie Correal, Latin America correspondent for The New York Times,",
+      "zh": "但据《纽约时报》拉丁美洲记者安妮·科雷亚尔所说，"
+    },
+    {
+      "id": 81,
+      "startMs": 429960,
+      "endMs": 436760,
+      "en": "the days ahead will be a challenge for a man with such limited experience of governing, as she told my colleague Paul Henley.",
+      "zh": "对于治理经验如此有限的他而言，未来几天将是一场考验。她向我的同事保罗·亨利这样说道。"
+    },
+    {
+      "id": 82,
+      "startMs": 437240,
+      "endMs": 442360,
+      "en": "He was a criminal justice lawyer working from Colombia and from Miami,",
+      "zh": "他曾是一名刑事司法律师，在哥伦比亚和迈阿密工作，"
+    },
+    {
+      "id": 83,
+      "startMs": 442520,
+      "endMs": 449560,
+      "en": "and he ran businesses, launched brands, had a piano bar, had a gelato shop.",
+      "zh": "还经营企业、创立品牌，开过钢琴酒吧和意式冰淇淋店。"
+    },
+    {
+      "id": 84,
+      "startMs": 450040,
+      "endMs": 454280,
+      "en": "Now he's at the helm of a very large country,",
+      "zh": "如今他掌舵着一个幅员辽阔的国家，"
+    },
+    {
+      "id": 85,
+      "startMs": 454520,
+      "endMs": 460920,
+      "en": "and of managing a disaster that has spanned a huge swath of that country.",
+      "zh": "还要应对一场波及该国大片地区的灾难。"
+    },
+    {
+      "id": 86,
+      "startMs": 461000,
+      "endMs": 466700,
+      "en": "So I think he's going to be tested in the sense of his ability to manage the response.",
+      "zh": "所以我认为，他组织应对行动的能力将受到考验。"
+    },
+    {
+      "id": 87,
+      "startMs": 466700,
+      "endMs": 469820,
+      "en": "He has said that he is personally taking the lead,",
+      "zh": "他说自己正亲自领导救援，"
+    },
+    {
+      "id": 88,
+      "startMs": 469980,
+      "endMs": 480140,
+      "en": "and he immediately flew to the worst-hit areas to speak with people, to get an assessment of damage from local authorities.",
+      "zh": "并立即飞往受灾最严重的地区与民众交谈，听取地方当局对灾情的评估。"
+    },
+    {
+      "id": 89,
+      "startMs": 480300,
+      "endMs": 486300,
+      "en": "And he has actually made a tour of some of the cities that have seen the worst damage,",
+      "zh": "他实际上已经走访了一些受灾最严重的城市，"
+    },
+    {
+      "id": 90,
+      "startMs": 486380,
+      "endMs": 489020,
+      "en": "just like going from one to the next.",
+      "zh": "就这样从一座城市赶往下一座。"
+    },
+    {
+      "id": 91,
+      "startMs": 489440,
+      "endMs": 494560,
+      "en": "It almost seems like he's still campaigning as he visits these places.",
+      "zh": "他走访这些地方时，看起来几乎还像是在竞选。"
+    },
+    {
+      "id": 92,
+      "startMs": 494560,
+      "endMs": 496080,
+      "en": "His wife has gone with him,",
+      "zh": "他的妻子也与他同行，"
+    },
+    {
+      "id": 93,
+      "startMs": 496560,
+      "endMs": 502400,
+      "en": "and he really seems to be sending a message of confidence and competence:",
+      "zh": "他似乎确实在传递一种自信和胜任的信息："
+    },
+    {
+      "id": 94,
+      "startMs": 502720,
+      "endMs": 505520,
+      "en": "that he has got this, that he's going to be able to do it.",
+      "zh": "他能掌控局面，也有能力把事情办好。"
+    },
+    {
+      "id": 95,
+      "startMs": 506360,
+      "endMs": 509160,
+      "en": "It's a big test, isn't it, of his diplomatic strategy?",
+      "zh": "这也是对其外交策略的一次重大考验，不是吗？"
+    },
+    {
+      "id": 96,
+      "startMs": 509320,
+      "endMs": 513400,
+      "en": "He does have a friend in President Trump, and that surely will prove useful.",
+      "zh": "特朗普总统的确是他的朋友，这一点肯定会派上用场。"
+    },
+    {
+      "id": 97,
+      "startMs": 513720,
+      "endMs": 521640,
+      "en": "He has made inroads not just with President Trump, but with the US State Department, with Pentagon officials.",
+      "zh": "他不仅与特朗普总统建立了关系，还打通了美国国务院和五角大楼官员的门路。"
+    },
+    {
+      "id": 98,
+      "startMs": 522040,
+      "endMs": 526360,
+      "en": "One of the main promises of Abelardo de la Espriella's campaign",
+      "zh": "阿韦拉多·德拉埃斯普列亚竞选时的主要承诺之一，"
+    },
+    {
+      "id": 99,
+      "startMs": 526760,
+      "endMs": 531880,
+      "en": "was to come down hard on criminals and on armed trafficking groups.",
+      "zh": "就是严厉打击罪犯和武装贩运集团。"
+    },
+    {
+      "id": 100,
+      "startMs": 532280,
+      "endMs": 535960,
+      "en": "So with that promise, it's music to Trump's ears,",
+      "zh": "因此，这项承诺正中特朗普下怀，"
+    },
+    {
+      "id": 101,
+      "startMs": 536360,
+      "endMs": 543800,
+      "en": "and the US is offering Colombia $1 billion in assistance for security cooperation.",
+      "zh": "美国正向哥伦比亚提供10亿美元的安全合作援助。"
+    },
+    {
+      "id": 102,
+      "startMs": 544680,
+      "endMs": 551880,
+      "en": "And so when this disaster hit, Secretary of State Marco Rubio and others immediately voiced their support for Colombia.",
+      "zh": "因此灾难发生后，国务卿马尔科·鲁比奥等人立即表态支持哥伦比亚。"
+    },
+    {
+      "id": 103,
+      "startMs": 551880,
+      "endMs": 558520,
+      "en": "Today, $15 million in emergency disaster relief were added to that sum,",
+      "zh": "今天，又有1500万美元紧急救灾款加入了这笔援助，"
+    },
+    {
+      "id": 104,
+      "startMs": 558920,
+      "endMs": 564600,
+      "en": "and the US said that it was going to send a special team to help with disaster response.",
+      "zh": "美国还表示将派遣一个特别小组协助救灾。"
+    },
+    {
+      "id": 105,
+      "startMs": 565080,
+      "endMs": 570140,
+      "en": "Not necessarily an advantage when he's in areas controlled by militias and armed gangs,",
+      "zh": "但当他身处民兵和武装帮派控制的地区时，这未必是优势；"
+    },
+    {
+      "id": 106,
+      "startMs": 570300,
+      "endMs": 573660,
+      "en": "very briefly, that he's the sworn enemy of at the moment.",
+      "zh": "请简短回答，毕竟他目前是这些势力的死敌。"
+    },
+    {
+      "id": 107,
+      "startMs": 573900,
+      "endMs": 580140,
+      "en": "It's true. I think what's extraordinary is that, while this disaster hit just yesterday morning,",
+      "zh": "确实如此。我觉得非同寻常的是，尽管这场灾难昨天早上才发生，"
+    },
+    {
+      "id": 108,
+      "startMs": 580460,
+      "endMs": 588380,
+      "en": "he has continued with his plan, seemingly, to come down on these groups, as he said, with the wrath of God.",
+      "zh": "但他似乎仍在推进打击这些集团的计划，用他本人的话说，要以“上帝之怒”打击他们。"
+    },
+    {
+      "id": 109,
+      "startMs": 588780,
+      "endMs": 591020,
+      "en": "Annie Correal speaking to Paul Henley.",
+      "zh": "以上是安妮·科雷亚尔与保罗·亨利的对话。"
+    },
+    {
+      "id": 110,
+      "startMs": 591860,
+      "endMs": 601140,
+      "en": "President Trump has confirmed reports that he was taken off his official plane and transferred to another aircraft on his way home from a NATO summit in Turkey last month.",
+      "zh": "特朗普总统证实了相关报道：上个月，他从土耳其参加北约峰会回国途中，被带离专机并转乘另一架飞机。"
+    },
+    {
+      "id": 111,
+      "startMs": 601620,
+      "endMs": 607620,
+      "en": "A number of US media outlets said it was because of fears that Air Force One might be attacked by Iran.",
+      "zh": "多家美国媒体称，这是因为有人担心“空军一号”可能遭到伊朗袭击。"
+    },
+    {
+      "id": 112,
+      "startMs": 607940,
+      "endMs": 611540,
+      "en": "Here's what the president had to say at a noisy airbase in Maryland.",
+      "zh": "以下是总统在马里兰州一座嘈杂的空军基地所说的话。"
+    },
+    {
+      "id": 113,
+      "startMs": 612360,
+      "endMs": 615480,
+      "en": "Well, it's only up to Secret Service. I just follow what they'd like to do.",
+      "zh": "嗯，这完全由特勤局决定。我只是照他们希望的去做。"
+    },
+    {
+      "id": 114,
+      "startMs": 615480,
+      "endMs": 621480,
+      "en": "They wanted me to go on a different flight, a different plane. They wanted me to do it, so I do it. I do what they say.",
+      "zh": "他们要我换一个航班、换一架飞机。他们要我这么做，我就这么做。我听他们的。"
+    },
+    {
+      "id": 115,
+      "startMs": 621480,
+      "endMs": 631080,
+      "en": "The whole episode has left those who remained on board Air Force One rather angry, to put it mildly, wondering whether they were, in effect, acting as decoys.",
+      "zh": "整件事让那些仍留在“空军一号”上的人相当愤怒——这还是轻描淡写的说法——他们想知道自己实际上是否被当成了诱饵。"
+    },
+    {
+      "id": 116,
+      "startMs": 631320,
+      "endMs": 635960,
+      "en": "Alex Brandon is a photographer for Associated Press who was covering Mr Trump's visit.",
+      "zh": "亚历克斯·布兰登是美联社摄影记者，当时正在报道特朗普的访问。"
+    },
+    {
+      "id": 117,
+      "startMs": 636520,
+      "endMs": 642120,
+      "en": "As a veteran of presidential flights, he says he knew immediately something odd was going on.",
+      "zh": "作为经常随总统专机出行的资深记者，他说自己立刻就知道事情有些不对劲。"
+    },
+    {
+      "id": 118,
+      "startMs": 642600,
+      "endMs": 649320,
+      "en": "As we arrive at Air Force One in the motorcade, I look up and see those catering trucks.",
+      "zh": "我们随车队抵达“空军一号”时，我抬头看见了那些餐饮供应车。"
+    },
+    {
+      "id": 119,
+      "startMs": 649560,
+      "endMs": 657640,
+      "en": "I've been covering the president in Washington for 20 years, and presidents going back to Reagan for 20 years before that. I've never seen that before.",
+      "zh": "我在华盛顿报道这位总统已有20年，在此前20年还报道过早至里根时期的历任总统。我以前从没见过这种情况。"
+    },
+    {
+      "id": 120,
+      "startMs": 657720,
+      "endMs": 664600,
+      "en": "I immediately started taking pictures, alerting my editors that this was unusual, that that's real unusual for Air Force One.",
+      "zh": "我立刻开始拍照，并通知编辑这很反常，对“空军一号”来说非常反常。"
+    },
+    {
+      "id": 121,
+      "startMs": 664840,
+      "endMs": 673500,
+      "en": "We get to the plane, stop, get out, and the president has already exited the limousine and is already up the stairs and on the aircraft. That happens.",
+      "zh": "我们抵达飞机旁，停车下车时，总统已经下了豪华轿车，登上舷梯进了飞机。这种情况是会发生的。"
+    },
+    {
+      "id": 122,
+      "startMs": 673900,
+      "endMs": 682780,
+      "en": "We typically go underneath the wing of the aircraft and photograph, and sometimes the journalists will shout questions and try to get the president to come over and talk to us.",
+      "zh": "我们通常会走到机翼下拍照，有时记者会大声提问，试着让总统走过来和我们说几句话。"
+    },
+    {
+      "id": 123,
+      "startMs": 683340,
+      "endMs": 687740,
+      "en": "So that wasn't unusual, that he was already on the plane. And then we board the plane like normal.",
+      "zh": "所以他已经上了飞机并不反常。然后我们像平常一样登机。"
+    },
+    {
+      "id": 124,
+      "startMs": 687980,
+      "endMs": 690380,
+      "en": "I get in my seat, which happens to be a window seat.",
+      "zh": "我坐到自己的座位上，碰巧是靠窗座位。"
+    },
+    {
+      "id": 125,
+      "startMs": 690620,
+      "endMs": 701580,
+      "en": "I immediately lift the blind, which is shut, and a flight attendant, which is a US Air Force enlisted officer, comes over and says, \"Blinds have to be kept down.\"",
+      "zh": "我马上拉起原本关着的遮光板，一名身为美国空军士官的乘务员走过来说：“遮光板必须保持关闭。”"
+    },
+    {
+      "id": 126,
+      "startMs": 701580,
+      "endMs": 707260,
+      "en": "And I say, \"Why?\" And she says, \"Secret Service says so.\" And so, of course, I shut my blind.",
+      "zh": "我问：“为什么？”她说：“特勤局要求的。”所以我当然就关上了遮光板。"
+    },
+    {
+      "id": 127,
+      "startMs": 707660,
+      "endMs": 715740,
+      "en": "We'd been told that we were switching from the Qatar-donated Air Force One to the legacy, original Air Force One.",
+      "zh": "我们被告知，要从卡塔尔捐赠的“空军一号”换到原有的老款“空军一号”。"
+    },
+    {
+      "id": 128,
+      "startMs": 716220,
+      "endMs": 722780,
+      "en": "And so I thought maybe there was a little bit of enhanced security or something like that that they wanted to observe. That's the only indication I got whatsoever.",
+      "zh": "所以我想，也许他们想执行一些加强安保之类的措施。这是我得到的唯一一点迹象。"
+    },
+    {
+      "id": 129,
+      "startMs": 723100,
+      "endMs": 732060,
+      "en": "One of my biggest concerns is, if God forbid, the plane that we are on is taken out of the sky and the president continues on.",
+      "zh": "我最担心的一件事是：假如不幸我们乘坐的飞机被击落，而总统继续前行。"
+    },
+    {
+      "id": 130,
+      "startMs": 732400,
+      "endMs": 742880,
+      "en": "The world thinks that the president is dead. And in that moment, the world needs an independent journalist to say, \"Hey, I'm here. I'm with the president. Everything's fine.\"",
+      "zh": "全世界会以为总统已经死了。在那一刻，世界需要一名独立记者站出来说：“嘿，我在这里。我和总统在一起。一切都好。”"
+    },
+    {
+      "id": 131,
+      "startMs": 743280,
+      "endMs": 752720,
+      "en": "It is critically important to have that independent verification, and that's why we do what we do, so that the world knows that, yes, the president is safe in this moment.",
+      "zh": "有这样的独立核实至关重要，这正是我们从事这项工作的原因，让全世界知道：没错，总统此刻很安全。"
+    },
+    {
+      "id": 132,
+      "startMs": 753200,
+      "endMs": 759040,
+      "en": "Alex Brandon. He mentioned there the Secret Service, the people responsible for US presidents' safety.",
+      "zh": "以上是亚历克斯·布兰登。他提到了负责美国总统安全的特勤局。"
+    },
+    {
+      "id": 133,
+      "startMs": 759440,
+      "endMs": 765040,
+      "en": "Although, despite the name, they're not completely secret, as you'll see them at just about every public appearance he makes,",
+      "zh": "不过，尽管名字里有“秘密”二字，他们并不完全隐秘；总统几乎每次公开露面时你都能看到他们，"
+    },
+    {
+      "id": 134,
+      "startMs": 765520,
+      "endMs": 770640,
+      "en": "usually wearing dark glasses and glancing around nervously to spot any potential attackers.",
+      "zh": "他们通常戴着墨镜，紧张地四处张望，留意潜在袭击者。"
+    },
+    {
+      "id": 135,
+      "startMs": 771040,
+      "endMs": 778160,
+      "en": "Paul Eckloff served as a Secret Service agent and says the decision to swap the president's flight raises many concerns,",
+      "zh": "保罗·埃克洛夫曾任特勤局特工。他说，更换总统航班的决定引发诸多担忧，"
+    },
+    {
+      "id": 136,
+      "startMs": 778640,
+      "endMs": 781840,
+      "en": "not least that this strategy has now become public knowledge.",
+      "zh": "其中之一就是这项策略如今已经公开。"
+    },
+    {
+      "id": 137,
+      "startMs": 782400,
+      "endMs": 789280,
+      "en": "Everyone is fascinated by the airplane, the catering truck, the alleged deception, which I can neither confirm nor deny that it occurred.",
+      "zh": "大家都着迷于那架飞机、餐饮车以及所谓的欺骗行动；我既不能证实，也不能否认它确实发生过。"
+    },
+    {
+      "id": 138,
+      "startMs": 789920,
+      "endMs": 796260,
+      "en": "I'm more interested in who benefits from revealing how the Presidential Protection Division responds to a credible threat.",
+      "zh": "我更关心的是，披露总统保护处如何应对可信威胁，究竟会让谁受益。"
+    },
+    {
+      "id": 139,
+      "startMs": 796660,
+      "endMs": 802420,
+      "en": "Every disclosed detail potentially helps an adversary understand our capabilities, contingencies and decision-making.",
+      "zh": "每一个被披露的细节，都可能帮助对手了解我们的能力、应急方案和决策方式。"
+    },
+    {
+      "id": 140,
+      "startMs": 802740,
+      "endMs": 807380,
+      "en": "There are two limousines in the motorcade. You don't know which one he's in, or if he's even in one of those.",
+      "zh": "车队里有两辆豪华轿车。你不知道他在哪一辆里，甚至不知道他是否在其中任何一辆车里。"
+    },
+    {
+      "id": 141,
+      "startMs": 807620,
+      "endMs": 818020,
+      "en": "When the president travels to war zones, tactics and techniques are frequently used to make an adversary uncertain about which aircraft or which movement he's going to make.",
+      "zh": "总统前往战区时，经常会采用各种战术和手段，让对手无法确定他会乘坐哪架飞机或采取哪种行动。"
+    },
+    {
+      "id": 142,
+      "startMs": 818340,
+      "endMs": 822980,
+      "en": "What concerns me is, if sensitive operational information and materials are disclosed",
+      "zh": "我担心的是，如果敏感行动信息和材料被披露，"
+    },
+    {
+      "id": 143,
+      "startMs": 822980,
+      "endMs": 828100,
+      "en": "by someone with privileged access, the Iranian threat may have ended a month ago when the president left Turkey.",
+      "zh": "如果披露者拥有特权访问权限，那么伊朗方面的威胁或许在一个月前总统离开土耳其时就已结束。"
+    },
+    {
+      "id": 144,
+      "startMs": 828100,
+      "endMs": 834020,
+      "en": "But the threat posed by someone willing to disclose how we protected him may have travelled home with him.",
+      "zh": "但那个愿意披露我们如何保护总统的人所构成的威胁，可能已经随他一同回国。"
+    },
+    {
+      "id": 145,
+      "startMs": 834340,
+      "endMs": 836820,
+      "en": "Threats to Air Force One have persisted.",
+      "zh": "针对“空军一号”的威胁一直存在。"
+    },
+    {
+      "id": 146,
+      "startMs": 836820,
+      "endMs": 844100,
+      "en": "They even changed the call sign many years ago after Air Force One—when intelligence revealed that adversaries knew the call sign for Air Force One.",
+      "zh": "多年前，他们甚至更改了呼号，在“空军一号”之后……当情报显示对手知道了“空军一号”的呼号时。"
+    },
+    {
+      "id": 147,
+      "startMs": 844420,
+      "endMs": 848900,
+      "en": "If the reporting is accurate, those journalists weren't left sitting in an unprotected airplane somewhere.",
+      "zh": "如果报道属实，那些记者并不是被留在某处一架毫无防护的飞机里。"
+    },
+    {
+      "id": 148,
+      "startMs": 848980,
+      "endMs": 854520,
+      "en": "They were aboard Air Force One, one of the most sophisticated and protected aircraft in the world.",
+      "zh": "他们乘坐的是“空军一号”，这是世界上最先进、保护最严密的飞机之一。"
+    },
+    {
+      "id": 149,
+      "startMs": 855080,
+      "endMs": 855960,
+      "en": "Paul Eckloff.",
+      "zh": "以上是保罗·埃克洛夫。"
+    },
+    {
+      "id": 150,
+      "startMs": 856440,
+      "endMs": 858360,
+      "en": "And we go from one flight story to another.",
+      "zh": "接下来，我们从一则航班新闻转到另一则。"
+    },
+    {
+      "id": 151,
+      "startMs": 858360,
+      "endMs": 866840,
+      "en": "This one involves what should have been a routine plane trip between the Canadian cities of Victoria and Toronto. But that wasn't how it worked out.",
+      "zh": "这次事件涉及一趟原本应该平平无奇的航班，往返于加拿大的维多利亚和多伦多两座城市之间。但事情并未如此发展。"
+    },
+    {
+      "id": 152,
+      "startMs": 867000,
+      "endMs": 872920,
+      "en": "Our reporter in Seattle, Max Matza, told us more about what happened and why the flight was cancelled.",
+      "zh": "本台驻西雅图记者马克斯·马特扎进一步讲述了事情经过以及航班为何被取消。"
+    },
+    {
+      "id": 153,
+      "startMs": 873240,
+      "endMs": 880440,
+      "en": "This was a Porter Airlines flight. Their statement says that a young child was standing in their seat and would not secure their seatbelt.",
+      "zh": "这是波特航空的一趟航班。该公司的声明称，一名幼童站在座位上，不肯系好安全带。"
+    },
+    {
+      "id": 154,
+      "startMs": 880600,
+      "endMs": 887880,
+      "en": "Attempts by the accompanying parent and crew to address this were unsuccessful. The aircraft could not take off in this unsafe condition.",
+      "zh": "随行家长和机组人员试图处理这一情况，但没有成功。飞机无法在这种不安全的状态下起飞。"
+    },
+    {
+      "id": 155,
+      "startMs": 888040,
+      "endMs": 895720,
+      "en": "So the crew decided to turn around and actually cancel the flight, because at that point it was after midnight and the runway was about to close.",
+      "zh": "因此机组决定掉头，并最终取消航班，因为当时已过午夜，跑道也即将关闭。"
+    },
+    {
+      "id": 156,
+      "startMs": 895960,
+      "endMs": 903080,
+      "en": "So all of those passengers had to disembark the plane and stay in hotels or go back home and come back to the airport the following day.",
+      "zh": "所以所有乘客都不得不下飞机，住进酒店或回家，第二天再返回机场。"
+    },
+    {
+      "id": 157,
+      "startMs": 903400,
+      "endMs": 911560,
+      "en": "Just this summer, there have been three viral Reddit posts about really similar circumstances, except in those cases the flights were only delayed.",
+      "zh": "仅今年夏天，Reddit上就有三篇讲述类似情况的帖子广为传播，只不过那些航班都只是延误。"
+    },
+    {
+      "id": 158,
+      "startMs": 911720,
+      "endMs": 915980,
+      "en": "In this case, the flight was actually cancelled, but that's because it got so late in the day.",
+      "zh": "这一次航班确实被取消了，但那是因为时间已经太晚。"
+    },
+    {
+      "id": 159,
+      "startMs": 916060,
+      "endMs": 920860,
+      "en": "And after the passengers had to be removed from the plane, at that point it had gotten too late.",
+      "zh": "乘客被要求下飞机后，时间就已经太晚了。"
+    },
+    {
+      "id": 160,
+      "startMs": 920860,
+      "endMs": 927740,
+      "en": "So this seems to be the only case that I could find of a flight actually being cancelled because of a toddler refusing to sit.",
+      "zh": "所以这似乎是我能找到的唯一一起因幼童拒绝坐下而实际取消航班的事件。"
+    },
+    {
+      "id": 161,
+      "startMs": 928140,
+      "endMs": 934380,
+      "en": "Mostly, it's airline policy, according to the experts I talked to, that kids under two sit on their parents' laps.",
+      "zh": "据我采访的专家说，大多数航空公司的规定是，两岁以下儿童坐在父母腿上。"
+    },
+    {
+      "id": 162,
+      "startMs": 934620,
+      "endMs": 936060,
+      "en": "The kid is not strapped in.",
+      "zh": "这个孩子没有被安全带固定。"
+    },
+    {
+      "id": 163,
+      "startMs": 936300,
+      "endMs": 942540,
+      "en": "It's not only a danger to the child, but it's also a danger to other passengers, because that kid is not restrained.",
+      "zh": "这不仅会危及孩子，也会危及其他乘客，因为孩子没有被固定住。"
+    },
+    {
+      "id": 164,
+      "startMs": 942700,
+      "endMs": 949580,
+      "en": "In the event of turbulence or any other kind of incident, they could become a projectile that bashes into other people on the plane.",
+      "zh": "一旦发生颠簸或其他事故，孩子可能会像抛射物一样撞到飞机上的其他人。"
+    },
+    {
+      "id": 165,
+      "startMs": 949580,
+      "endMs": 953500,
+      "en": "Same reason why you have to secure your luggage for takeoff and departure.",
+      "zh": "这和起飞及离港时必须固定好行李是同一个道理。"
+    },
+    {
+      "id": 166,
+      "startMs": 953820,
+      "endMs": 960140,
+      "en": "This expert I was talking to, she's adamant that no child should be unrestrained on a plane, that it's very unsafe.",
+      "zh": "我采访的这位专家坚称，任何儿童都不应在飞机上不受约束，那非常不安全。"
+    },
+    {
+      "id": 167,
+      "startMs": 960620,
+      "endMs": 964460,
+      "en": "In her opinion, anyone under seven years old should be in a car seat.",
+      "zh": "她认为，任何七岁以下儿童都应该坐儿童安全座椅。"
+    },
+    {
+      "id": 168,
+      "startMs": 964700,
+      "endMs": 968940,
+      "en": "If you use a car seat when you're in a car, you should use the same car seat when you're on a plane.",
+      "zh": "如果坐汽车时使用儿童安全座椅，那么坐飞机时也应该使用同一个安全座椅。"
+    },
+    {
+      "id": 169,
+      "startMs": 969180,
+      "endMs": 969900,
+      "en": "Max Matza.",
+      "zh": "以上是马克斯·马特扎。"
+    },
+    {
+      "id": 170,
+      "startMs": 972880,
+      "endMs": 974400,
+      "en": "Still to come in this podcast:",
+      "zh": "本期节目稍后还有："
+    },
+    {
+      "id": 171,
+      "startMs": 975040,
+      "endMs": 982800,
+      "en": "The ones at, say, the Colosseum, they're 12 metres, so you're kind of throwing it a lot closer to the target, what we call the house.",
+      "zh": "比如斗兽场那里的赛道是12米，所以投掷距离离目标——也就是我们所说的“营垒”——要近得多。"
+    },
+    {
+      "id": 172,
+      "startMs": 983200,
+      "endMs": 987840,
+      "en": "How the winter sport of curling is wowing fans in hot, sunny Rome.",
+      "zh": "冬季运动冰壶如何在炎热晴朗的罗马令观众惊叹。"
+    },
+    {
+      "id": 173,
+      "startMs": 987840,
+      "endMs": 989920,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 174,
+      "startMs": 990640,
+      "endMs": 999920,
+      "en": "He was found guilty of war crimes and crimes against humanity, and Syria's ousted dictator Bashar al-Assad has been sentenced to death for these offences.",
+      "zh": "他被裁定犯有战争罪和反人类罪，叙利亚被赶下台的独裁者巴沙尔·阿萨德因这些罪行被判处死刑。"
+    },
+    {
+      "id": 175,
+      "startMs": 1000320,
+      "endMs": 1005200,
+      "en": "They were committed during Syria's brutal civil war, which cost about half a million lives.",
+      "zh": "这些罪行发生在叙利亚残酷的内战期间；这场战争造成约50万人丧生。"
+    },
+    {
+      "id": 176,
+      "startMs": 1005680,
+      "endMs": 1013840,
+      "en": "It's the first conviction against Assad, who fled with his family to Russia after his regime was overthrown in 2024, and who remains there.",
+      "zh": "这是针对阿萨德的首项定罪。他的政权于2024年被推翻后，他携家人逃往俄罗斯，并一直留在那里。"
+    },
+    {
+      "id": 177,
+      "startMs": 1014240,
+      "endMs": 1018480,
+      "en": "But in court for the verdict was his cousin, who was also sentenced to death.",
+      "zh": "不过，他的表亲到庭听取了判决，也被判处死刑。"
+    },
+    {
+      "id": 178,
+      "startMs": 1018640,
+      "endMs": 1028000,
+      "en": "Atef Najib was the head of political security in southern Syria's Daraa province. Outside the courthouse, people chanted and celebrated the verdict.",
+      "zh": "阿提夫·纳吉布曾任叙利亚南部德拉省政治安全部门负责人。法院外，人们高喊口号，庆祝判决。"
+    },
+    {
+      "id": 179,
+      "startMs": 1028240,
+      "endMs": 1034560,
+      "en": "Celia Hatton got more reaction from Heba Othman, Damascus correspondent for the BBC's Arabic Service.",
+      "zh": "西莉亚·哈顿采访了BBC阿拉伯语部驻大马士革记者赫巴·奥斯曼，了解更多反应。"
+    },
+    {
+      "id": 180,
+      "startMs": 1034960,
+      "endMs": 1047200,
+      "en": "I was outside the Palace of Justice in Damascus when the court issued death sentences against figures of the former Syrian regime, among them Bashar al-Assad and Maher al-Assad.",
+      "zh": "法院对叙利亚前政权多名人物判处死刑时，我就在大马士革司法宫外，其中包括巴沙尔·阿萨德和马赫尔·阿萨德。"
+    },
+    {
+      "id": 181,
+      "startMs": 1047380,
+      "endMs": 1055460,
+      "en": "Atef Najib, the maternal cousin of Bashar al-Assad, and the former head of the Political Security Branch in Daraa Governorate.",
+      "zh": "还有阿提夫·纳吉布，他是巴沙尔·阿萨德的姨表兄弟，曾任德拉省政治安全局局长。"
+    },
+    {
+      "id": 182,
+      "startMs": 1055860,
+      "endMs": 1067220,
+      "en": "Outside the Palace of Justice in Damascus, I noticed a kind of joy and happiness among a number of victims' families who gathered to celebrate the verdicts.",
+      "zh": "在大马士革司法宫外，我看到一些受害者家属流露出喜悦之情，他们聚集在那里庆祝这些判决。"
+    },
+    {
+      "id": 183,
+      "startMs": 1067220,
+      "endMs": 1077540,
+      "en": "Some families were holding pictures of victims who died at the hands of the security branch personnel in Daraa Governorate.",
+      "zh": "一些家属举着遇难者的照片，这些人死于德拉省政治安全局人员之手。"
+    },
+    {
+      "id": 184,
+      "startMs": 1078100,
+      "endMs": 1088580,
+      "en": "The families of victims described the ruling as a new victory for the Syrian revolution and as a victory for transitional justice here in Syria.",
+      "zh": "受害者家属称，这项裁决是叙利亚革命取得的新胜利，也是叙利亚过渡司法的胜利。"
+    },
+    {
+      "id": 185,
+      "startMs": 1088820,
+      "endMs": 1096020,
+      "en": "Heba, in the crowd was Nayef Abazayd, who was detained by the Assad regime in 2011. He gave his reaction to the verdict.",
+      "zh": "赫巴，人群中有一位纳耶夫·阿巴扎伊德，他曾于2011年被阿萨德政权拘押。他谈了自己对判决的反应。"
+    },
+    {
+      "id": 186,
+      "startMs": 1099300,
+      "endMs": 1105380,
+      "en": "I was detained by the Assad regime. They took me from my school when I was 13 years old.",
+      "zh": "我曾被阿萨德政权拘押。他们在我13岁时把我从学校带走。"
+    },
+    {
+      "id": 187,
+      "startMs": 1106180,
+      "endMs": 1116900,
+      "en": "Thank God, Assad fell and his cousin Atef Najib will be executed. And God willing, it will be Bashar al-Assad's turn to be executed.",
+      "zh": "感谢真主，阿萨德倒台了，他的表亲阿提夫·纳吉布将被处决。真主保佑，接下来就该轮到巴沙尔·阿萨德被处决了。"
+    },
+    {
+      "id": 188,
+      "startMs": 1117220,
+      "endMs": 1128340,
+      "en": "Heba, Bashar al-Assad fled to Russia in 2024. How will these sentences—the sentence against him and also his younger brother—be implemented?",
+      "zh": "赫巴，巴沙尔·阿萨德于2024年逃往俄罗斯。对他和他弟弟的这些判决将如何执行？"
+    },
+    {
+      "id": 189,
+      "startMs": 1128500,
+      "endMs": 1139220,
+      "en": "The court also issued in absentia death sentences against Bashar al-Assad and his brother on charges related to committing war crimes and crimes against humanity.",
+      "zh": "法院还以涉及战争罪和反人类罪的罪名，缺席判处巴沙尔·阿萨德及其弟弟死刑。"
+    },
+    {
+      "id": 190,
+      "startMs": 1139380,
+      "endMs": 1148020,
+      "en": "But I think this is something symbolic. I don't think that Moscow will hand over Bashar al-Assad to the new Syrian government.",
+      "zh": "但我认为这具有象征意义。我不认为莫斯科会把巴沙尔·阿萨德交给叙利亚新政府。"
+    },
+    {
+      "id": 191,
+      "startMs": 1148020,
+      "endMs": 1153380,
+      "en": "So this is something, uh, symbolic. They will only charge Atef Najib right now.",
+      "zh": "所以这件事，呃，具有象征意义。目前他们只会起诉阿提夫·纳吉布。"
+    },
+    {
+      "id": 192,
+      "startMs": 1153540,
+      "endMs": 1157220,
+      "en": "Should we expect more sentences to be handed out?",
+      "zh": "我们是否还会看到更多判决出炉？"
+    },
+    {
+      "id": 193,
+      "startMs": 1157380,
+      "endMs": 1164920,
+      "en": "Uh, a death of sentence against Atef Najib and Bashar al-Assad and Maher al-Assad and many people from the last Syrian regime,",
+      "zh": "呃，对阿提夫·纳吉布、巴沙尔·阿萨德、马赫尔·阿萨德以及叙利亚前政权许多人的死刑判决，"
+    },
+    {
+      "id": 194,
+      "startMs": 1164920,
+      "endMs": 1169480,
+      "en": "it's, uh, enough to ensure the stability in whole Syria.",
+      "zh": "呃，足以确保整个叙利亚的稳定。"
+    },
+    {
+      "id": 195,
+      "startMs": 1169720,
+      "endMs": 1180280,
+      "en": "During this month, the Fourth Criminal Court here in Damascus will also continue the trial of Ahmad Hassoun, the last Mufti of Syria.",
+      "zh": "本月，大马士革第四刑事法院还将继续审理叙利亚末任大穆夫提艾哈迈德·哈苏恩。"
+    },
+    {
+      "id": 196,
+      "startMs": 1180520,
+      "endMs": 1192840,
+      "en": "Also Wassim al-Assad, uh, the cousin of Bashar al-Assad, the last Syrian president. So, they will continue the charges against many of last former regime in this month.",
+      "zh": "还包括叙利亚前总统巴沙尔·阿萨德的堂表亲瓦西姆·阿萨德。这样，本月他们将继续对前政权的许多人提出指控。"
+    },
+    {
+      "id": 197,
+      "startMs": 1193400,
+      "endMs": 1197960,
+      "en": "Heba Othman from the BBC's Arabic Service in the Syrian capital, Damascus.",
+      "zh": "以上是BBC阿拉伯语部驻叙利亚首都大马士革记者赫巴·奥斯曼。"
+    },
+    {
+      "id": 198,
+      "startMs": 1198520,
+      "endMs": 1203160,
+      "en": "New court documents show Donald Trump has amended his legal case against the BBC.",
+      "zh": "新的法院文件显示，唐纳德·特朗普修改了针对BBC的诉讼。"
+    },
+    {
+      "id": 199,
+      "startMs": 1203640,
+      "endMs": 1213880,
+      "en": "The president is suing the corporation for $10 billion over a documentary which spliced together two parts of a speech he made on the day of the Capitol Hill riots in 2021.",
+      "zh": "总统因一部纪录片向BBC索赔100亿美元；该片把他在2021年国会山骚乱当日演讲的两个片段拼接在一起。"
+    },
+    {
+      "id": 200,
+      "startMs": 1213880,
+      "endMs": 1222700,
+      "en": "Mr Trump's amended lawsuit now focuses on the harm he claims he suffered personally, as our media editor Katie Razzall explains.",
+      "zh": "正如本台媒体事务编辑凯蒂·拉扎尔解释的那样，特朗普修改后的诉讼现在聚焦于他声称自己亲自遭受的损害。"
+    },
+    {
+      "id": 201,
+      "startMs": 1223260,
+      "endMs": 1231020,
+      "en": "The Panorama programme was, according to this latest court filing, a brazen attempt to influence the outcome of the 2024 election,",
+      "zh": "这份最新法庭文件称，《全景》节目是公然试图影响2024年大选结果，"
+    },
+    {
+      "id": 202,
+      "startMs": 1231340,
+      "endMs": 1236140,
+      "en": "and the BBC caused overwhelming reputational harm to the president personally, it says.",
+      "zh": "文件还称，BBC给总统个人声誉造成了巨大损害。"
+    },
+    {
+      "id": 203,
+      "startMs": 1236140,
+      "endMs": 1244700,
+      "en": "But his legal team has removed claims made in previous documents that his business and professional interests have also suffered direct harm.",
+      "zh": "但他的律师团队已删除此前文件中的一项主张，即他的商业及职业利益也遭受了直接损害。"
+    },
+    {
+      "id": 204,
+      "startMs": 1245180,
+      "endMs": 1248780,
+      "en": "The BBC had sought access to Mr Trump's financial records.",
+      "zh": "BBC此前曾寻求查阅特朗普的财务记录。"
+    },
+    {
+      "id": 205,
+      "startMs": 1249100,
+      "endMs": 1257340,
+      "en": "It argued it needed evidence that his businesses and brands had suffered, but his team pushed back, saying disclosure would cause him harm.",
+      "zh": "BBC主张需要证据证明他的企业和品牌受到了损害，但其团队反对称，披露这些资料会给他造成伤害。"
+    },
+    {
+      "id": 206,
+      "startMs": 1257580,
+      "endMs": 1264700,
+      "en": "Now, the president's team has removed that element of his case. Mr Trump is still suing the BBC for at least $10 billion.",
+      "zh": "现在，总统的团队已从诉讼中删除这一部分。特朗普仍在向BBC索赔至少100亿美元。"
+    },
+    {
+      "id": 207,
+      "startMs": 1264700,
+      "endMs": 1272700,
+      "en": "The document suggests it's reasonably certain the programme could have been viewed in Florida, where the president is bringing his case.",
+      "zh": "文件称，可以相当确定该节目可能曾在佛罗里达州被观看；总统正是在那里提起诉讼。"
+    },
+    {
+      "id": 208,
+      "startMs": 1273180,
+      "endMs": 1282160,
+      "en": "The BBC has apologised for an editing error that it says gave the mistaken impression that President Trump had made a direct call for violent action.",
+      "zh": "BBC已为剪辑错误道歉，并称该错误给人造成了特朗普总统直接呼吁采取暴力行动的错误印象。"
+    },
+    {
+      "id": 209,
+      "startMs": 1282560,
+      "endMs": 1289920,
+      "en": "But it has previously said the programme didn't meet the legal criteria for defamation, and wasn't made available on US platforms.",
+      "zh": "但BBC此前表示，该节目不符合法律上的诽谤认定标准，也未在美国平台上线。"
+    },
+    {
+      "id": 210,
+      "startMs": 1290480,
+      "endMs": 1298640,
+      "en": "The next stage is for the BBC to respond to Donald Trump's latest legal filing, with the case due to come to court in February. Katie Razzall.",
+      "zh": "下一步将由BBC回应唐纳德·特朗普提交的最新法律文件；此案定于2月开庭。以上是凯蒂·拉扎尔。"
+    },
+    {
+      "id": 211,
+      "startMs": 1299760,
+      "endMs": 1305040,
+      "en": "It's one of the more marked legacies of the COVID pandemic: people who were forced to work from home,",
+      "zh": "这是新冠疫情留下的较为明显的影响之一：一些人被迫居家办公，"
+    },
+    {
+      "id": 212,
+      "startMs": 1305440,
+      "endMs": 1311120,
+      "en": "deciding they actually rather like avoiding the daily commute, and have continued to stay away from the office.",
+      "zh": "后来发现自己其实很喜欢不用每天通勤，于是继续远离办公室。"
+    },
+    {
+      "id": 213,
+      "startMs": 1311440,
+      "endMs": 1315200,
+      "en": "But that's left many offices partially or maybe largely empty.",
+      "zh": "但这也使许多办公室部分空置，甚至可能大面积空置。"
+    },
+    {
+      "id": 214,
+      "startMs": 1315600,
+      "endMs": 1318320,
+      "en": "So what to do with all the unused space?",
+      "zh": "那么，这些闲置空间该如何处理？"
+    },
+    {
+      "id": 215,
+      "startMs": 1318640,
+      "endMs": 1321360,
+      "en": "Our reporter John Laurenson has been investigating.",
+      "zh": "本台记者约翰·劳伦森对此进行了调查。"
+    },
+    {
+      "id": 216,
+      "startMs": 1322080,
+      "endMs": 1328400,
+      "en": "I'm standing in the middle of Europe's biggest business district, La Défense, just west of Paris.",
+      "zh": "我正站在欧洲最大的商务区拉德芳斯中心，这里位于巴黎以西不远处。"
+    },
+    {
+      "id": 217,
+      "startMs": 1328880,
+      "endMs": 1335120,
+      "en": "I'm here with Pierre-Yves Guice, the head of Paris La Défense, the public company that runs this district.",
+      "zh": "我身边是巴黎拉德芳斯公共管理公司的负责人皮埃尔-伊夫·吉斯；这家公司负责运营该区域。"
+    },
+    {
+      "id": 218,
+      "startMs": 1335120,
+      "endMs": 1339120,
+      "en": "The vacancy rate is around 14–15% at the moment.",
+      "zh": "目前的空置率约为14%至15%。"
+    },
+    {
+      "id": 219,
+      "startMs": 1339520,
+      "endMs": 1345840,
+      "en": "Around 400,000 square metres of existing offices might have to be transformed in the next five to ten years",
+      "zh": "未来五到十年内，约40万平方米的现有办公空间可能必须进行改造，"
+    },
+    {
+      "id": 220,
+      "startMs": 1345840,
+      "endMs": 1352960,
+      "en": "into mostly housing, but also higher education facilities or entertainment facilities, shops, restaurants.",
+      "zh": "主要改成住宅，也会改成高等教育或娱乐设施、商店和餐厅。"
+    },
+    {
+      "id": 221,
+      "startMs": 1353200,
+      "endMs": 1356480,
+      "en": "So here you are in the office and there are desks and screens.",
+      "zh": "现在你身处办公室，眼前是办公桌和屏幕。"
+    },
+    {
+      "id": 222,
+      "startMs": 1356560,
+      "endMs": 1358240,
+      "en": "Tomorrow you are in an apartment?",
+      "zh": "明天这里就会变成一套公寓？"
+    },
+    {
+      "id": 223,
+      "startMs": 1359940,
+      "endMs": 1366180,
+      "en": "Roland Cubin, deputy CEO of the Groupama real estate management company, shows me round La Tour Diamant,",
+      "zh": "Groupama房地产管理公司的副首席执行官罗兰·屈班带我参观钻石大厦，"
+    },
+    {
+      "id": 224,
+      "startMs": 1366500,
+      "endMs": 1371380,
+      "en": "the Diamond Tower, which has office space for 1,800 workers.",
+      "zh": "这座大楼的办公空间可容纳1,800名员工。"
+    },
+    {
+      "id": 225,
+      "startMs": 1371780,
+      "endMs": 1375700,
+      "en": "He doesn't want it to disappear exactly, but he does want to convert it.",
+      "zh": "严格说来，他并不想让它消失，但确实想改造它。"
+    },
+    {
+      "id": 226,
+      "startMs": 1376020,
+      "endMs": 1378660,
+      "en": "Kitchen. Here there will be two bedrooms.",
+      "zh": "厨房。这里将会有两间卧室。"
+    },
+    {
+      "id": 227,
+      "startMs": 1379300,
+      "endMs": 1384500,
+      "en": "One of the challenges when you're converting office blocks into flats is the width of the buildings.",
+      "zh": "把办公楼改成公寓时，挑战之一是建筑本身的宽度。"
+    },
+    {
+      "id": 228,
+      "startMs": 1384820,
+      "endMs": 1387780,
+      "en": "Generally, they're much wider than residential ones,",
+      "zh": "一般来说，办公楼比住宅楼宽得多，"
+    },
+    {
+      "id": 229,
+      "startMs": 1387860,
+      "endMs": 1391860,
+      "en": "so you have a lot of windowless space in the middle that it's difficult to know what to do with.",
+      "zh": "因此中间会有大片没有窗户的空间，很难决定如何利用。"
+    },
+    {
+      "id": 230,
+      "startMs": 1392180,
+      "endMs": 1393860,
+      "en": "There won't be a—there won't be any rooms there.",
+      "zh": "那里不会有——那里不会安排任何房间。"
+    },
+    {
+      "id": 231,
+      "startMs": 1393860,
+      "endMs": 1395620,
+      "en": "No, no. It's only the access.",
+      "zh": "不，不。那里只是通道。"
+    },
+    {
+      "id": 232,
+      "startMs": 1395620,
+      "endMs": 1404660,
+      "en": "But even for the most suitable buildings, Roland Cubin says office-to-housing conversions are not going to happen at scale in France,",
+      "zh": "但罗兰·屈班说，即使是最适合改造的建筑，办公楼改住宅也不会在法国大规模展开，"
+    },
+    {
+      "id": 233,
+      "startMs": 1405060,
+      "endMs": 1407940,
+      "en": "unless the authorities remove some obstacles.",
+      "zh": "除非有关部门消除一些障碍。"
+    },
+    {
+      "id": 234,
+      "startMs": 1407940,
+      "endMs": 1415220,
+      "en": "At the moment, as soon as you transform a building in a way that changes its function,",
+      "zh": "目前，只要你以改变建筑用途的方式进行改造，"
+    },
+    {
+      "id": 235,
+      "startMs": 1415540,
+      "endMs": 1419220,
+      "en": "it is classed not as an old building that's been changed,",
+      "zh": "它就不会被归类为经过改造的旧建筑，"
+    },
+    {
+      "id": 236,
+      "startMs": 1419560,
+      "endMs": 1424360,
+      "en": "but as a new building with all the regulatory demands that go with new buildings",
+      "zh": "而会被视为新建筑，必须满足针对新建筑的全部监管要求，"
+    },
+    {
+      "id": 237,
+      "startMs": 1424440,
+      "endMs": 1429080,
+      "en": "regarding car parking spaces, wheelchair access, fire safety, and so on.",
+      "zh": "包括停车位、无障碍通行、消防安全等方面的要求。"
+    },
+    {
+      "id": 238,
+      "startMs": 1429160,
+      "endMs": 1433400,
+      "en": "Is it economically viable to convert offices into housing?",
+      "zh": "把办公室改成住宅在经济上可行吗？"
+    },
+    {
+      "id": 239,
+      "startMs": 1434120,
+      "endMs": 1440440,
+      "en": "Ludovic Delaisse is CEO of the French arm of the Canadian real estate services company Colliers.",
+      "zh": "吕多维克·德莱斯是加拿大房地产服务公司高力国际法国分公司的首席执行官。"
+    },
+    {
+      "id": 240,
+      "startMs": 1440840,
+      "endMs": 1448120,
+      "en": "Yes, but in most cases, only on the condition that the building can be acquired at a low price.",
+      "zh": "可行，但在大多数情况下，前提是能以低价购得这栋建筑。"
+    },
+    {
+      "id": 241,
+      "startMs": 1448680,
+      "endMs": 1455880,
+      "en": "It's often a better proposition economically to build hotels or student accommodation, because you can be certain of the demand.",
+      "zh": "从经济角度看，改建成酒店或学生宿舍往往更划算，因为需求比较确定。"
+    },
+    {
+      "id": 242,
+      "startMs": 1456120,
+      "endMs": 1462520,
+      "en": "For office conversions at scale, the best examples are in the United States, in New York and also Washington, D.C.",
+      "zh": "在大规模办公楼改造方面，最好的案例在美国，纽约和华盛顿都有。"
+    },
+    {
+      "id": 243,
+      "startMs": 1462520,
+      "endMs": 1468280,
+      "en": "They've found it's generally easier to convert steel-frame buildings than concrete ones,",
+      "zh": "他们发现，钢结构建筑通常比混凝土建筑更容易改造，"
+    },
+    {
+      "id": 244,
+      "startMs": 1468600,
+      "endMs": 1474120,
+      "en": "although the structural problems uncovered during the conversion of New York's former Pfizer headquarters",
+      "zh": "不过，纽约辉瑞前总部改造过程中暴露出的结构问题，"
+    },
+    {
+      "id": 245,
+      "startMs": 1474440,
+      "endMs": 1478760,
+      "en": "are a reminder that such projects can involve significant engineering challenges.",
+      "zh": "提醒人们这类项目可能面临重大的工程挑战。"
+    },
+    {
+      "id": 246,
+      "startMs": 1479500,
+      "endMs": 1485660,
+      "en": "The winter sport of curling is one of those which tends to capture people's attention",
+      "zh": "冰壶是容易吸引人们注意的一项冬季运动，"
+    },
+    {
+      "id": 247,
+      "startMs": 1485660,
+      "endMs": 1494620,
+      "en": "with the distinctive sight of competitors frantically scrubbing at the ice to make sure the stone, as it's called, glides as close as possible to its target.",
+      "zh": "它最鲜明的画面是选手奋力刷冰，确保所谓的“壶”尽可能滑近目标。"
+    },
+    {
+      "id": 248,
+      "startMs": 1494940,
+      "endMs": 1501900,
+      "en": "Now, curling is obviously associated with colder climates, but would you believe it's become popular in Rome?",
+      "zh": "冰壶显然让人联想到寒冷地区，但你能相信它在罗马流行起来了吗？"
+    },
+    {
+      "id": 249,
+      "startMs": 1502380,
+      "endMs": 1508780,
+      "en": "Though only by replacing the ice with a surface more suited to a city where temperatures regularly reach the mid-30s.",
+      "zh": "不过他们把冰面换成了更适合这座气温经常达到35摄氏度左右城市的场地。"
+    },
+    {
+      "id": 250,
+      "startMs": 1509100,
+      "endMs": 1511340,
+      "en": "Jen Dodds is a British medal-winning curler.",
+      "zh": "珍·多兹是英国获奖牌的冰壶运动员。"
+    },
+    {
+      "id": 251,
+      "startMs": 1511740,
+      "endMs": 1519980,
+      "en": "She explained to Nick Eardley that Italy's newfound affection for the sport stems from the national team winning a medal of its own at the last Winter Olympics.",
+      "zh": "她向尼克·厄德利解释说，意大利新近对这项运动产生热情，是因为国家队在上一届冬奥会上也赢得了奖牌。"
+    },
+    {
+      "id": 252,
+      "startMs": 1520800,
+      "endMs": 1528240,
+      "en": "Italy obviously hosted the Olympics, and they got a bronze medal in the mixed doubles, and obviously winning the gold in Beijing as well.",
+      "zh": "意大利显然承办了本届冬奥会，他们在混双项目获得铜牌，而且此前还在北京拿过金牌。"
+    },
+    {
+      "id": 253,
+      "startMs": 1528240,
+      "endMs": 1534320,
+      "en": "So they've had a lot of success, and I think with success, it breeds interest in the game.",
+      "zh": "所以他们取得了很多成功，而我认为成功会激发人们对这项运动的兴趣。"
+    },
+    {
+      "id": 254,
+      "startMs": 1534640,
+      "endMs": 1537440,
+      "en": "Curling's quite a long sport, so you can dip in and out of it as well,",
+      "zh": "冰壶比赛时间相当长，所以你也可以随时看一会儿、离开一会儿，"
+    },
+    {
+      "id": 255,
+      "startMs": 1537440,
+      "endMs": 1541120,
+      "en": "and it's always on the TV, so it's been really good for the sport, I think.",
+      "zh": "而且电视上总能看到，我认为这对这项运动非常有利。"
+    },
+    {
+      "id": 256,
+      "startMs": 1541360,
+      "endMs": 1548160,
+      "en": "Tell me a bit about the actual practicalities, though, because this isn't ice. It's a synthetic surface.",
+      "zh": "不过请具体说说实际玩法，因为这里不是冰面，而是合成材质的表面。"
+    },
+    {
+      "id": 257,
+      "startMs": 1548480,
+      "endMs": 1555360,
+      "en": "It looks a bit like it's not proper curling. It's almost throwing mini stones in the hope that they land in the right place.",
+      "zh": "它看起来有点不像正规的冰壶，几乎就是把迷你冰壶掷出去，希望它们落在正确位置。"
+    },
+    {
+      "id": 258,
+      "startMs": 1556880,
+      "endMs": 1559440,
+      "en": "Yeah, it's like a shortened game.",
+      "zh": "对，它就像是缩短版的比赛。"
+    },
+    {
+      "id": 259,
+      "startMs": 1559440,
+      "endMs": 1562800,
+      "en": "So the ones at, say, the Colosseum, they're 12 metres,",
+      "zh": "比如说，罗马斗兽场那里的赛道长12米，"
+    },
+    {
+      "id": 260,
+      "startMs": 1563120,
+      "endMs": 1567760,
+      "en": "so you're kind of throwing it a lot closer to the target, what we call the house.",
+      "zh": "因此投掷点离目标近得多；我们把这个目标区称为“营垒”。"
+    },
+    {
+      "id": 261,
+      "startMs": 1568080,
+      "endMs": 1572960,
+      "en": "It probably does make it a lot easier. If you can imagine, if you're trying to throw a ball at something,",
+      "zh": "这可能确实会容易很多。你可以想象一下，如果要把球投向某个目标，"
+    },
+    {
+      "id": 262,
+      "startMs": 1572960,
+      "endMs": 1575840,
+      "en": "it's a lot easier when it's closer to you than further away.",
+      "zh": "目标离你近时当然比离得远容易得多。"
+    },
+    {
+      "id": 263,
+      "startMs": 1575920,
+      "endMs": 1578560,
+      "en": "But they don't have sweepers or anything like that because it's synthetic.",
+      "zh": "但因为是合成场地，他们没有刷冰手之类的角色。"
+    },
+    {
+      "id": 264,
+      "startMs": 1578800,
+      "endMs": 1581440,
+      "en": "The sweeping, I suspect, doesn't really do much.",
+      "zh": "我怀疑刷动在这种场地上其实没多大作用。"
+    },
+    {
+      "id": 265,
+      "startMs": 1581840,
+      "endMs": 1583840,
+      "en": "You still need to have the feel.",
+      "zh": "你仍然需要掌握手感。"
+    },
+    {
+      "id": 266,
+      "startMs": 1583920,
+      "endMs": 1587440,
+      "en": "You still need to throw it into the rings, to the closest to the centre.",
+      "zh": "你仍要把壶投进圆圈，并尽量靠近中心。"
+    },
+    {
+      "id": 267,
+      "startMs": 1587600,
+      "endMs": 1592400,
+      "en": "But I would say on ice is a lot harder, because you've got so many other things to think about.",
+      "zh": "但我会说在冰面上难得多，因为你还要考虑许多其他事情。"
+    },
+    {
+      "id": 268,
+      "startMs": 1592800,
+      "endMs": 1599120,
+      "en": "Obviously, you need to keep your balance, you've got the sweeping, and that affects the line of the curl as well.",
+      "zh": "显然，你需要保持平衡，还要刷冰，而刷冰也会影响冰壶的弧线路径。"
+    },
+    {
+      "id": 269,
+      "startMs": 1599120,
+      "endMs": 1604960,
+      "en": "So I'd say on ice is a lot harder, but I think it gives a really good insight into what we do on ice.",
+      "zh": "所以我会说冰上冰壶难得多，但这种玩法能让人很好地了解我们在冰面上所做的事。"
+    },
+    {
+      "id": 270,
+      "startMs": 1604960,
+      "endMs": 1612480,
+      "en": "It's kind of a good beginner step, and I feel it can get people more interested in curling as well, and it's more accessible.",
+      "zh": "它算是不错的入门一步，我觉得既能让人们对冰壶更感兴趣，也更容易参与。"
+    },
+    {
+      "id": 271,
+      "startMs": 1612640,
+      "endMs": 1614640,
+      "en": "So it's a really good beginner step, I would say.",
+      "zh": "所以我会说，这是非常好的入门方式。"
+    },
+    {
+      "id": 272,
+      "startMs": 1615120,
+      "endMs": 1615840,
+      "en": "Jen Dodds.",
+      "zh": "珍·多兹。"
+    },
+    {
+      "id": 273,
+      "startMs": 1616900,
+      "endMs": 1622420,
+      "en": "A career-orientated woman from a big US city visits her small hometown over Christmas,",
+      "zh": "一名来自美国大城市、以事业为重的女性在圣诞节回到小家乡，"
+    },
+    {
+      "id": 274,
+      "startMs": 1622820,
+      "endMs": 1625940,
+      "en": "and falls in love with a ruggedly handsome, yet sensitive guy.",
+      "zh": "并爱上一个外表粗犷英俊、内心却很细腻的男人。"
+    },
+    {
+      "id": 275,
+      "startMs": 1626340,
+      "endMs": 1633460,
+      "en": "That is the kind of tried-and-tested formula for Hallmark's TV movies, which have charmed audiences over the years.",
+      "zh": "这正是Hallmark电视电影久经验证的套路，多年来一直令观众着迷。"
+    },
+    {
+      "id": 276,
+      "startMs": 1633460,
+      "endMs": 1636660,
+      "en": "The American channel is celebrating its 25th anniversary.",
+      "zh": "这个美国电视频道正在庆祝成立25周年。"
+    },
+    {
+      "id": 277,
+      "startMs": 1637060,
+      "endMs": 1639540,
+      "en": "Here's a look back at some of its classic moments.",
+      "zh": "下面回顾其中一些经典时刻。"
+    },
+    {
+      "id": 278,
+      "startMs": 1640600,
+      "endMs": 1646280,
+      "en": "You were there for all those crazy early Christmases, and you've been there ever since.",
+      "zh": "早些年那些疯狂的圣诞节，你都陪在我身边，此后也一直如此。"
+    },
+    {
+      "id": 279,
+      "startMs": 1647000,
+      "endMs": 1648280,
+      "en": "And I always will be.",
+      "zh": "我会永远陪着你。"
+    },
+    {
+      "id": 280,
+      "startMs": 1648920,
+      "endMs": 1652600,
+      "en": "I want to show you that the story of the Christmas hat isn't over. It's got a different ending.",
+      "zh": "我想让你看到，圣诞帽的故事还没有结束。它有了一个不同的结局。"
+    },
+    {
+      "id": 281,
+      "startMs": 1653400,
+      "endMs": 1655400,
+      "en": "I used to dream about a moment like this.",
+      "zh": "我曾经梦想过这样的时刻。"
+    },
+    {
+      "id": 282,
+      "startMs": 1656020,
+      "endMs": 1658500,
+      "en": "You even asked for one just like it for Christmas.",
+      "zh": "你甚至还说圣诞节想要一个这样的。"
+    },
+    {
+      "id": 283,
+      "startMs": 1658900,
+      "endMs": 1663620,
+      "en": "That's rule number 56: never let a mistletoe moment go to waste.",
+      "zh": "这是第56条规则：绝不要浪费槲寄生下的浪漫时刻。"
+    },
+    {
+      "id": 284,
+      "startMs": 1664080,
+      "endMs": 1666000,
+      "en": "Stick with me, kid. I'll show you around.",
+      "zh": "跟着我吧，姑娘。我带你四处看看。"
+    },
+    {
+      "id": 285,
+      "startMs": 1666240,
+      "endMs": 1669200,
+      "en": "Well, I'm planning on it. Merry Christmas, Jack.",
+      "zh": "嗯，我正有此意。圣诞快乐，杰克。"
+    },
+    {
+      "id": 286,
+      "startMs": 1669200,
+      "endMs": 1671520,
+      "en": "Oh, merry Christmas, Lucy.",
+      "zh": "噢，圣诞快乐，露西。"
+    },
+    {
+      "id": 287,
+      "startMs": 1671520,
+      "endMs": 1672640,
+      "en": "Merry Christmas, Lucy.",
+      "zh": "圣诞快乐，露西。"
+    },
+    {
+      "id": 288,
+      "startMs": 1672800,
+      "endMs": 1674720,
+      "en": "Happy-ever-after endings all round.",
+      "zh": "人人都迎来幸福美满的结局。"
+    },
+    {
+      "id": 289,
+      "startMs": 1675040,
+      "endMs": 1680560,
+      "en": "But with such predictable conclusions, what explains Hallmark movies' enduring appeal?",
+      "zh": "但结局如此容易预料，Hallmark电影为何仍有持久魅力？"
+    },
+    {
+      "id": 290,
+      "startMs": 1680720,
+      "endMs": 1683120,
+      "en": "Siobhan Synnot is a film and television critic.",
+      "zh": "西沃恩·西诺特是一名影视评论家。"
+    },
+    {
+      "id": 291,
+      "startMs": 1683520,
+      "endMs": 1684880,
+      "en": "She thinks she knows the answer.",
+      "zh": "她认为自己知道答案。"
+    },
+    {
+      "id": 292,
+      "startMs": 1685440,
+      "endMs": 1693680,
+      "en": "When modern life seems loud, chaotic, overloaded, I think people crave something soft, predictable and emotionally safe in Hallmark films.",
+      "zh": "当现代生活显得喧闹、混乱、不堪重负时，我想人们会在Hallmark电影中渴望一些温柔、可预期且能带来情绪安全感的东西。"
+    },
+    {
+      "id": 293,
+      "startMs": 1693760,
+      "endMs": 1696080,
+      "en": "You know, there's not going to be any jump scares.",
+      "zh": "你知道，不会突然冒出什么惊吓场面。"
+    },
+    {
+      "id": 294,
+      "startMs": 1696080,
+      "endMs": 1699280,
+      "en": "There's not going to be any maniacs in a cupboard.",
+      "zh": "橱柜里也不会藏着什么疯子。"
+    },
+    {
+      "id": 295,
+      "startMs": 1699520,
+      "endMs": 1702160,
+      "en": "There's no bleak twists. There's no existential dread.",
+      "zh": "没有阴郁的反转，也没有存在主义式的恐惧。"
+    },
+    {
+      "id": 296,
+      "startMs": 1702160,
+      "endMs": 1706160,
+      "en": "It's just gentle romance, small-town charm, and somebody trying to save a bakery.",
+      "zh": "只有温柔的爱情、小镇风情，还有某个人努力拯救一家面包店。"
+    },
+    {
+      "id": 297,
+      "startMs": 1706640,
+      "endMs": 1712560,
+      "en": "To be fair to Hallmark, they have evolved, and part of that evolution has been pushed on by streaming services.",
+      "zh": "公平地说，Hallmark也在发展，而流媒体服务推动了其中一部分变化。"
+    },
+    {
+      "id": 298,
+      "startMs": 1712560,
+      "endMs": 1718080,
+      "en": "Hallmark's looked at Netflix and Prime Video and Disney crowding out, particularly, the holiday space, and said, right,",
+      "zh": "Hallmark看到Netflix、Prime Video和Disney尤其在不断挤占节日内容市场，于是说，好吧，"
+    },
+    {
+      "id": 299,
+      "startMs": 1718160,
+      "endMs": 1722400,
+      "en": "we're not competing on size, but we are competing on comfort.",
+      "zh": "我们不比规模，但会比谁更能给人舒适感。"
+    },
+    {
+      "id": 300,
+      "startMs": 1722720,
+      "endMs": 1732500,
+      "en": "So there has been a strategic shift in Hallmark towards better cinematography, more polished sets, stronger casting, bigger location shoots.",
+      "zh": "因此Hallmark进行了战略调整，采用更好的摄影、更精致的布景、更强的演员阵容和更大规模的实景拍摄。"
+    },
+    {
+      "id": 301,
+      "startMs": 1732500,
+      "endMs": 1738340,
+      "en": "These films may still feel cosy, but they look less like they were shot in somebody's redecorated gift shop.",
+      "zh": "这些电影可能依然温馨，但看上去不再那么像是在某人重新装修过的礼品店里拍的。"
+    },
+    {
+      "id": 302,
+      "startMs": 1738580,
+      "endMs": 1741220,
+      "en": "And the storylines have also changed.",
+      "zh": "故事情节也发生了变化。"
+    },
+    {
+      "id": 303,
+      "startMs": 1741220,
+      "endMs": 1748820,
+      "en": "I mean, yes, a lot of the templates are: big-city girl returning home, or a royal romance with a prince in disguise,",
+      "zh": "我的意思是，没错，很多模板仍是大城市女孩返乡，或与乔装身份的王子展开王室恋情，"
+    },
+    {
+      "id": 304,
+      "startMs": 1748980,
+      "endMs": 1752900,
+      "en": "but we also see more LGBTQ+ storylines.",
+      "zh": "但我们也看到更多LGBTQ+题材的故事。"
+    },
+    {
+      "id": 305,
+      "startMs": 1753140,
+      "endMs": 1759860,
+      "en": "We see more, more diversity in the storylines, both racially and in terms of religion.",
+      "zh": "我们看到故事更加、更加多元，既体现在种族方面，也体现在宗教方面。"
+    },
+    {
+      "id": 306,
+      "startMs": 1760180,
+      "endMs": 1765460,
+      "en": "I mean, it's definitely afternoon viewing, but they are, I think, more self-aware now.",
+      "zh": "我的意思是，这绝对属于午后消遣，但我认为它们现在更有自知之明了。"
+    },
+    {
+      "id": 307,
+      "startMs": 1766020,
+      "endMs": 1769540,
+      "en": "In a world of endless choice, Hallmark's strategy still works.",
+      "zh": "在一个选择无穷无尽的世界里，Hallmark的策略依然奏效。"
+    },
+    {
+      "id": 308,
+      "startMs": 1769780,
+      "endMs": 1775060,
+      "en": "Gives people something warm, gives people something familiar, gives people something that's easy to love.",
+      "zh": "给人们温暖的东西，给人们熟悉的东西，给人们容易喜欢上的东西。"
+    },
+    {
+      "id": 309,
+      "startMs": 1775380,
+      "endMs": 1776260,
+      "en": "Siobhan Synnot.",
+      "zh": "西沃恩·西诺特。"
+    },
+    {
+      "id": 310,
+      "startMs": 1779200,
+      "endMs": 1780480,
+      "en": "And that's all from us for now.",
+      "zh": "本期节目到这里就结束了。"
+    },
+    {
+      "id": 311,
+      "startMs": 1780480,
+      "endMs": 1786880,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 312,
+      "startMs": 1787360,
+      "endMs": 1794400,
+      "en": "That is exactly what John Hamar from Shediac in New Brunswick, Canada, did, describing the Global News Podcast as",
+      "zh": "来自加拿大新不伦瑞克省谢迪亚克的约翰·哈马正是这样做的；他把《全球新闻播客》形容为："
+    },
+    {
+      "id": 313,
+      "startMs": 1794480,
+      "endMs": 1800720,
+      "en": "\"decisive, to the point, short and sweet, and his go-to news channel for the truth on world matters.\"",
+      "zh": "“果断、切中要点、简短明了，是他了解世界事务真相时首选的新闻频道。”"
+    },
+    {
+      "id": 314,
+      "startMs": 1800800,
+      "endMs": 1802080,
+      "en": "John, thank you very much.",
+      "zh": "约翰，非常感谢。"
+    },
+    {
+      "id": 315,
+      "startMs": 1802640,
+      "endMs": 1808320,
+      "en": "You can also find us on X at @BBCWorldService using the hashtag #GlobalNewsPod.",
+      "zh": "你也可以在X平台关注@BBCWorldService，并使用话题标签#GlobalNewsPod。"
+    },
+    {
+      "id": 316,
+      "startMs": 1808480,
+      "endMs": 1814800,
+      "en": "And don't forget our sister podcast, The Global Story, which goes in-depth and beyond the headlines on one big story.",
+      "zh": "也别忘了我们的姐妹播客《The Global Story》，它会深入头条背后，聚焦一个重大故事。"
+    },
+    {
+      "id": 317,
+      "startMs": 1815440,
+      "endMs": 1821280,
+      "en": "This edition of the Global News Podcast was mixed by Zabihullah Kurosh, and the producer was Emma Joseph.",
+      "zh": "本期《全球新闻播客》由扎比胡拉·库罗什完成混音，制片人是艾玛·约瑟夫。"
+    },
+    {
+      "id": 318,
+      "startMs": 1821520,
+      "endMs": 1822960,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 319,
+      "startMs": 1823360,
+      "endMs": 1825600,
+      "en": "I'm Paul Moss. Until next time, goodbye.",
+      "zh": "我是保罗·莫斯。下次再见。"
+    }
+  ]
+}

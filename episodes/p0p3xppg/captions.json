@@ -1,0 +1,1796 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "11 August 2026"
+  },
+  "durationMs": 1604700,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3520,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是BBC国际台的《环球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4120,
+      "endMs": 9960,
+      "en": "I'm Jannat Jalil, and at 15 hours GMT on Tuesday, the 11th of August, these are our main stories.",
+      "zh": "我是贾纳特·贾利勒。格林尼治时间8月11日星期二15时，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 10520,
+      "endMs": 19320,
+      "en": "The number of dead in Colombia's powerful earthquake rises to more than 200 as the race is on to find survivors trapped under the rubble.",
+      "zh": "哥伦比亚强烈地震的死亡人数升至200多人，搜救人员正争分夺秒寻找被困在废墟下的幸存者。"
+    },
+    {
+      "id": 4,
+      "startMs": 20240,
+      "endMs": 29760,
+      "en": "Reports say President Trump hid in a catering truck so he could swap planes because of a threat against him and Air Force One from Iran.",
+      "zh": "报道称，由于伊朗对特朗普总统及“空军一号”构成威胁，他藏进一辆餐饮服务车，以便换乘飞机。"
+    },
+    {
+      "id": 5,
+      "startMs": 30860,
+      "endMs": 37980,
+      "en": "The medical charity Médecins Sans Frontières is warning of an extreme hunger crisis among children in Somalia.",
+      "zh": "医疗慈善组织“无国界医生”警告称，索马里儿童正面临极端的饥饿危机。"
+    },
+    {
+      "id": 6,
+      "startMs": 40760,
+      "endMs": 45880,
+      "en": "Also in this podcast: What you've got to worry about is the sort of unintended consequences,",
+      "zh": "本期节目还有：你需要担心的是这类意外后果，"
+    },
+    {
+      "id": 7,
+      "startMs": 45880,
+      "endMs": 53640,
+      "en": "and what happens if you give a smart agent made by one of these extraordinary large language models the sort of freedom to roam around and do what it wants.",
+      "zh": "以及如果你让由这些非凡的大语言模型之一构建的智能代理获得自由，可以四处行动、为所欲为，会发生什么。"
+    },
+    {
+      "id": 8,
+      "startMs": 54200,
+      "endMs": 61880,
+      "en": "We hear how a simple request to an AI assistant to book a gym class exposed a potential major threat.",
+      "zh": "我们将了解，一个让AI助手预约健身课的简单请求，如何暴露出一个潜在的重大威胁。"
+    },
+    {
+      "id": 9,
+      "startMs": 66920,
+      "endMs": 77640,
+      "en": "We begin in Colombia, where, as we record this podcast, the death toll from a devastating earthquake in the west of the country has now risen to more than 220 people.",
+      "zh": "我们先来关注哥伦比亚。在我们录制本期节目时，该国西部毁灭性地震的死亡人数已升至220多人。"
+    },
+    {
+      "id": 10,
+      "startMs": 78120,
+      "endMs": 88200,
+      "en": "The 7.4-magnitude quake tore through Colombia's coffee-growing heartland on Monday, reducing multi-storey buildings to rubble in cities like Cali and Pereira,",
+      "zh": "周一，这场7.4级地震袭击了哥伦比亚咖啡种植腹地，将卡利和佩雷拉等城市的多层建筑夷为废墟，"
+    },
+    {
+      "id": 11,
+      "startMs": 88520,
+      "endMs": 92520,
+      "en": "and causing the spires of a cathedral to collapse in the city of Manizales.",
+      "zh": "还导致马尼萨莱斯市一座大教堂的尖塔坍塌。"
+    },
+    {
+      "id": 12,
+      "startMs": 92840,
+      "endMs": 96120,
+      "en": "It's the most powerful quake to hit Colombia in decades.",
+      "zh": "这是哥伦比亚数十年来遭遇的最强地震。"
+    },
+    {
+      "id": 13,
+      "startMs": 96360,
+      "endMs": 104600,
+      "en": "A state of emergency has been declared, and rescue teams are now in a race against time to find survivors under the rubble of collapsed buildings.",
+      "zh": "当地已宣布进入紧急状态，救援队正在争分夺秒，寻找被困在倒塌建筑废墟下的幸存者。"
+    },
+    {
+      "id": 14,
+      "startMs": 105160,
+      "endMs": 113420,
+      "en": "When they hear someone beneath the ruins, they call out, telling them to stay calm as the rescuers try to reach them.",
+      "zh": "当救援人员听到废墟下有人时，便会高声呼喊，让他们保持冷静，同时设法靠近他们。"
+    },
+    {
+      "id": 15,
+      "startMs": 114540,
+      "endMs": 120140,
+      "en": "Isabel Tamayo lives in one of the worst-hit cities, Cali, and spoke to the BBC about the rescue efforts there.",
+      "zh": "伊莎贝尔·塔马约住在受灾最严重的城市之一卡利，她向BBC讲述了当地的救援工作。"
+    },
+    {
+      "id": 16,
+      "startMs": 120860,
+      "endMs": 129900,
+      "en": "They're still trying to get survivors, and there was a school that collapsed, and it has a lot of children in there still.",
+      "zh": "他们仍在努力救出幸存者。有一所学校倒塌了，里面还有很多孩子。"
+    },
+    {
+      "id": 17,
+      "startMs": 129900,
+      "endMs": 139660,
+      "en": "So maybe more than 50 children, but I'm not so sure—from six years old to 16 years old.",
+      "zh": "所以可能有50多名儿童，但我不太确定——他们的年龄从6岁到16岁。"
+    },
+    {
+      "id": 18,
+      "startMs": 140740,
+      "endMs": 144340,
+      "en": "Blocked roads and disrupted communications are hampering rescue efforts.",
+      "zh": "道路受阻和通信中断正在妨碍救援工作。"
+    },
+    {
+      "id": 19,
+      "startMs": 144580,
+      "endMs": 151060,
+      "en": "Flights were cancelled as some airports were used exclusively in the effort to find survivors and help the injured and displaced.",
+      "zh": "由于一些机场被专门用于搜寻幸存者、救助伤员和流离失所者，多趟航班被取消。"
+    },
+    {
+      "id": 20,
+      "startMs": 151540,
+      "endMs": 158020,
+      "en": "This disaster comes just three days after Colombia's new president, Abelardo de la Espriella, was inaugurated.",
+      "zh": "这场灾难发生时，哥伦比亚新总统阿韦拉尔多·德拉埃斯普列亚才就职三天。"
+    },
+    {
+      "id": 21,
+      "startMs": 158500,
+      "endMs": 164100,
+      "en": "Now facing his first big test, he's vowed to personally lead the disaster response.",
+      "zh": "如今面对上任后的首次重大考验，他誓言亲自领导救灾工作。"
+    },
+    {
+      "id": 22,
+      "startMs": 164500,
+      "endMs": 170100,
+      "en": "I have ordered the suspension of my entire schedule in the nation's capital",
+      "zh": "我已下令暂停在首都的全部日程，"
+    },
+    {
+      "id": 23,
+      "startMs": 170420,
+      "endMs": 176500,
+      "en": "so that I can focus on the natural disaster that is currently ravaging our long-suffering Colombian people.",
+      "zh": "以便集中精力应对这场正肆虐我们饱经苦难的哥伦比亚人民的自然灾害。"
+    },
+    {
+      "id": 24,
+      "startMs": 176500,
+      "endMs": 181460,
+      "en": "I got this update from BBC Monitoring's Latin America specialist, Luis Fajardo.",
+      "zh": "BBC监测部拉丁美洲问题专家路易斯·法哈多向我介绍了最新情况。"
+    },
+    {
+      "id": 25,
+      "startMs": 181860,
+      "endMs": 188260,
+      "en": "The rescue crews have been working throughout the night as they try to find new survivors,",
+      "zh": "救援人员彻夜工作，努力寻找新的幸存者，"
+    },
+    {
+      "id": 26,
+      "startMs": 188260,
+      "endMs": 195620,
+      "en": "particularly in the large cities of Cali, Manizales and Pereira, which have been some of the hardest hit.",
+      "zh": "尤其是在受灾最严重的几个大城市卡利、马尼萨莱斯和佩雷拉。"
+    },
+    {
+      "id": 27,
+      "startMs": 195860,
+      "endMs": 202440,
+      "en": "The city of Cali, which is the third largest in Colombia, metropolitan area of around three million people,",
+      "zh": "卡利是哥伦比亚第三大城市，大都会区人口约300万。"
+    },
+    {
+      "id": 28,
+      "startMs": 202520,
+      "endMs": 212680,
+      "en": "has been under curfew as the mayor warned that there could be looting and other incidents as a result of the widespread disruption this earthquake has caused.",
+      "zh": "当地已实施宵禁，因为市长警告称，地震造成的大范围混乱可能引发抢劫及其他事件。"
+    },
+    {
+      "id": 29,
+      "startMs": 213320,
+      "endMs": 222120,
+      "en": "And, of course, people throughout the country are waiting to see what these search and rescue operations result.",
+      "zh": "当然，全国民众都在等待这些搜救行动的结果。"
+    },
+    {
+      "id": 30,
+      "startMs": 222200,
+      "endMs": 231160,
+      "en": "I mean, usually it is said that the first 48 hours or so after an earthquake are crucial to find survivors still under the rubble,",
+      "zh": "我的意思是，人们通常认为，地震发生后的头48小时左右，是寻找仍被困在废墟下的幸存者的关键时期，"
+    },
+    {
+      "id": 31,
+      "startMs": 231560,
+      "endMs": 235560,
+      "en": "and there certainly is hope that some more people will be found alive.",
+      "zh": "人们当然仍希望能发现更多生还者。"
+    },
+    {
+      "id": 32,
+      "startMs": 235880,
+      "endMs": 243480,
+      "en": "And other countries have been sending in rescue teams, including Venezuela, which itself saw powerful earthquakes just a couple of months ago.",
+      "zh": "其他国家也陆续派出救援队，其中包括几个月前刚遭遇强烈地震的委内瑞拉。"
+    },
+    {
+      "id": 33,
+      "startMs": 243880,
+      "endMs": 252200,
+      "en": "Yes, a lot of people have been making the comparison with Venezuela, which, as you say, experienced an earthquake of similar intensity.",
+      "zh": "是的，很多人一直在拿委内瑞拉作比较。正如你所说，那里也发生了强度相近的地震。"
+    },
+    {
+      "id": 34,
+      "startMs": 252440,
+      "endMs": 264860,
+      "en": "Also, people are mentioning that the death toll in Venezuela, apparently until now, was substantially larger than the one in Colombia—in Venezuela, in the thousands,",
+      "zh": "还有人提到，委内瑞拉的死亡人数显然到目前为止远高于哥伦比亚——委内瑞拉是数千人，"
+    },
+    {
+      "id": 35,
+      "startMs": 265100,
+      "endMs": 268460,
+      "en": "while in Colombia it still seems to be in the hundreds.",
+      "zh": "而哥伦比亚的死亡人数目前看来仍是数百人。"
+    },
+    {
+      "id": 36,
+      "startMs": 268780,
+      "endMs": 272460,
+      "en": "People are making the comparison both in Colombia and Venezuela.",
+      "zh": "哥伦比亚和委内瑞拉两国的人们都在作这种比较。"
+    },
+    {
+      "id": 37,
+      "startMs": 273020,
+      "endMs": 282940,
+      "en": "They're saying that building codes in Colombia were stronger, and because of that, very, very strong earthquake in Colombia, which caused the destruction of a lot of buildings,",
+      "zh": "他们说，哥伦比亚的建筑规范更严格，因此尽管哥伦比亚遭遇了非常、非常强烈的地震，许多建筑被毁，"
+    },
+    {
+      "id": 38,
+      "startMs": 282940,
+      "endMs": 285020,
+      "en": "but not at the same scale as in Venezuela.",
+      "zh": "但破坏规模没有委内瑞拉那么大。"
+    },
+    {
+      "id": 39,
+      "startMs": 285500,
+      "endMs": 293900,
+      "en": "And also, the initial reports are that the response from the authorities has been rather more effective in Colombia than was the case in Venezuela.",
+      "zh": "此外，初步报道称，哥伦比亚当局的应对似乎比委内瑞拉当时更为有效。"
+    },
+    {
+      "id": 40,
+      "startMs": 293900,
+      "endMs": 301820,
+      "en": "In the Venezuelan case, there was a lot of criticism of the government, people saying that there was little or no response from authorities",
+      "zh": "委内瑞拉方面，政府受到许多批评。有人说，当局几乎没有、甚至完全没有作出响应，"
+    },
+    {
+      "id": 41,
+      "startMs": 301820,
+      "endMs": 305180,
+      "en": "as people were desperate to try to get the survivors out of the rubble.",
+      "zh": "而民众则拼命设法把幸存者从废墟中救出来。"
+    },
+    {
+      "id": 42,
+      "startMs": 305180,
+      "endMs": 311740,
+      "en": "While in Colombia, until now, there has been more of a sense that the government is reacting.",
+      "zh": "而在哥伦比亚，至少到目前为止，人们更多地感到政府正在采取行动。"
+    },
+    {
+      "id": 43,
+      "startMs": 312060,
+      "endMs": 317580,
+      "en": "In Venezuela, you've got a long-ruling—well, she was vice president, now president—Delcy Rodríguez.",
+      "zh": "委内瑞拉有长期执政的——嗯，她曾任副总统，如今是总统——德尔西·罗德里格斯。"
+    },
+    {
+      "id": 44,
+      "startMs": 318060,
+      "endMs": 323840,
+      "en": "In Colombia, you've got a president who was inaugurated just days ago, Abelardo de la Espriella.",
+      "zh": "哥伦比亚则有一位几天前才就职的总统，阿韦拉尔多·德拉埃斯普列亚。"
+    },
+    {
+      "id": 45,
+      "startMs": 324080,
+      "endMs": 328080,
+      "en": "Yes, de la Espriella was sworn in last Friday, actually in the city of Cali,",
+      "zh": "是的，德拉埃斯普列亚上周五宣誓就职，地点其实就在卡利，"
+    },
+    {
+      "id": 46,
+      "startMs": 328080,
+      "endMs": 334560,
+      "en": "which is now, of course, one of the major focus points of rescue efforts because of the way the earthquake affected the city.",
+      "zh": "而鉴于这座城市受地震影响的程度，这里如今当然已成为救援工作的重点地区之一。"
+    },
+    {
+      "id": 47,
+      "startMs": 334960,
+      "endMs": 340560,
+      "en": "De la Espriella certainly sees this as a major political test, a test of leadership.",
+      "zh": "德拉埃斯普列亚无疑把这视为一场重大的政治考验，也是一场领导力考验。"
+    },
+    {
+      "id": 48,
+      "startMs": 340880,
+      "endMs": 349200,
+      "en": "And the de la Espriella government has been trying to project the impression, the image, that they're reacting quickly and effectively to the earthquake,",
+      "zh": "德拉埃斯普列亚政府一直试图展现这样一种印象和形象：他们正在迅速、有效地应对地震，"
+    },
+    {
+      "id": 49,
+      "startMs": 349360,
+      "endMs": 359440,
+      "en": "even though many of the key officials who would be in charge of a lot of the rescue activities have barely taken office, in some cases not even yet sworn in.",
+      "zh": "尽管许多本应负责大量救援工作的关键官员才刚刚上任，有些人甚至尚未宣誓就职。"
+    },
+    {
+      "id": 50,
+      "startMs": 359920,
+      "endMs": 365680,
+      "en": "So there's a lot of anxiety that this transition would maybe make things more difficult.",
+      "zh": "因此，人们非常担心这场权力交接或许会让局面更加困难。"
+    },
+    {
+      "id": 51,
+      "startMs": 366000,
+      "endMs": 374800,
+      "en": "But at the moment, again, the impression you get from the public discussion and social media is that the people sense that there has been some response,",
+      "zh": "不过目前，再次来说，从公众讨论和社交媒体上得到的印象是，人们感觉政府确实作出了一些响应，"
+    },
+    {
+      "id": 52,
+      "startMs": 374800,
+      "endMs": 379040,
+      "en": "and certainly better than in the Venezuelan case. Luis Fajardo.",
+      "zh": "而且肯定比委内瑞拉当时的情况要好。路易斯·法哈多。"
+    },
+    {
+      "id": 53,
+      "startMs": 379440,
+      "endMs": 387300,
+      "en": "And we have more on this on our YouTube channel. Search for BBC News on YouTube, and you'll find Global News Podcast in the podcast section.",
+      "zh": "我们的YouTube频道还有更多相关内容。在YouTube搜索“BBC News”，即可在播客栏目找到《环球新闻播客》。"
+    },
+    {
+      "id": 54,
+      "startMs": 387620,
+      "endMs": 390420,
+      "en": "There's a new story available every weekday.",
+      "zh": "每个工作日都有新的报道上线。"
+    },
+    {
+      "id": 55,
+      "startMs": 391620,
+      "endMs": 397780,
+      "en": "Since the early 1990s, people in Somalia have endured near-constant civil war.",
+      "zh": "自20世纪90年代初以来，索马里人民一直饱受近乎持续不断的内战之苦。"
+    },
+    {
+      "id": 56,
+      "startMs": 398260,
+      "endMs": 405940,
+      "en": "Now an international medical charity is warning that children in southwest Somalia are facing alarming food shortages,",
+      "zh": "如今，一家国际医疗慈善组织警告称，索马里西南部的儿童正面临令人担忧的食物短缺，"
+    },
+    {
+      "id": 57,
+      "startMs": 406260,
+      "endMs": 409940,
+      "en": "partly because of deep cuts in international humanitarian funding.",
+      "zh": "部分原因是国际人道主义资金遭到大幅削减。"
+    },
+    {
+      "id": 58,
+      "startMs": 410340,
+      "endMs": 419380,
+      "en": "Médecins Sans Frontières, or MSF, says a survey it carried out in the town of Baidoa found that half the children there were acutely malnourished.",
+      "zh": "无国界医生组织称，该组织在拜多阿镇开展的一项调查发现，当地半数儿童患有急性营养不良。"
+    },
+    {
+      "id": 59,
+      "startMs": 419860,
+      "endMs": 421940,
+      "en": "Mitchell Sangma works for the charity.",
+      "zh": "米切尔·桑马在该慈善组织工作。"
+    },
+    {
+      "id": 60,
+      "startMs": 422580,
+      "endMs": 428340,
+      "en": "Severe humanitarian emergency is unfolding right now in Baidoa and across the country.",
+      "zh": "拜多阿乃至全国眼下正出现严重的人道主义紧急状况。"
+    },
+    {
+      "id": 61,
+      "startMs": 429240,
+      "endMs": 431720,
+      "en": "There's an ongoing drought that has been declared since last year.",
+      "zh": "自去年宣布发生旱灾以来，旱情一直持续。"
+    },
+    {
+      "id": 62,
+      "startMs": 432200,
+      "endMs": 435480,
+      "en": "There's a severe shortage of water reported across many regions.",
+      "zh": "据报许多地区都严重缺水。"
+    },
+    {
+      "id": 63,
+      "startMs": 436180,
+      "endMs": 443460,
+      "en": "Crop failure across multiple seasons, loss of livelihood, loss of livestock—they have all been documented,",
+      "zh": "多个收成季歉收、生计丧失、牲畜损失——这些情况均已有记录，"
+    },
+    {
+      "id": 64,
+      "startMs": 443860,
+      "endMs": 448580,
+      "en": "and this is pushing many of the vulnerable populations beyond the level of survival.",
+      "zh": "这正把许多弱势群体推向难以生存的境地。"
+    },
+    {
+      "id": 65,
+      "startMs": 449540,
+      "endMs": 455060,
+      "en": "Our Africa correspondent, Barbara Plett-Usher, is monitoring the crisis in Somalia from neighbouring Kenya.",
+      "zh": "本台非洲事务记者芭芭拉·普莱特-厄舍正在邻国肯尼亚关注索马里的这场危机。"
+    },
+    {
+      "id": 66,
+      "startMs": 455700,
+      "endMs": 460740,
+      "en": "This is due largely to drought, but then exacerbated by the ongoing conflict.",
+      "zh": "这主要是干旱所致，而持续的冲突又使情况进一步恶化。"
+    },
+    {
+      "id": 67,
+      "startMs": 460740,
+      "endMs": 465700,
+      "en": "So the UN is saying in the first three months of the year, half a million people were displaced,",
+      "zh": "联合国表示，今年头三个月约有50万人流离失所，"
+    },
+    {
+      "id": 68,
+      "startMs": 465700,
+      "endMs": 469460,
+      "en": "the vast majority of them by drought, and the vast majority of them women and children.",
+      "zh": "其中绝大多数因干旱流离失所，绝大多数又是妇女和儿童。"
+    },
+    {
+      "id": 69,
+      "startMs": 469460,
+      "endMs": 474020,
+      "en": "And so this has caused a decrease in the amount of food available.",
+      "zh": "这导致可获得的食物数量减少。"
+    },
+    {
+      "id": 70,
+      "startMs": 474020,
+      "endMs": 479460,
+      "en": "They've seen this influx of malnourished children in the hospitals, have had to expand their bed capacity as much as they could.",
+      "zh": "医院看到营养不良儿童大量涌入，只得尽其所能扩充床位。"
+    },
+    {
+      "id": 71,
+      "startMs": 479780,
+      "endMs": 482180,
+      "en": "So then they wanted to see the situation in the community",
+      "zh": "因此，他们想了解社区里的情况，"
+    },
+    {
+      "id": 72,
+      "startMs": 482660,
+      "endMs": 491860,
+      "en": "and did this survey in various displacement sites, in which they found one in every two children were acutely malnourished and one in every four severely malnourished.",
+      "zh": "于是对多个流离失所者安置点进行了调查，发现每两名儿童中就有一人患急性营养不良，每四人中就有一人患严重营养不良。"
+    },
+    {
+      "id": 73,
+      "startMs": 491860,
+      "endMs": 495060,
+      "en": "And one of the things they talked about was this was a new normal,",
+      "zh": "他们提到的一点是，这已经成为一种新常态："
+    },
+    {
+      "id": 74,
+      "startMs": 495380,
+      "endMs": 499300,
+      "en": "where mothers were hoping their child would be sick enough to get admitted into hospital and stay,",
+      "zh": "母亲们希望自己的孩子病得足够严重，能够住进医院并留下来，"
+    },
+    {
+      "id": 75,
+      "startMs": 499300,
+      "endMs": 505940,
+      "en": "which is not the usual want, but that's because there wasn't enough food or water back in the community to help the kids.",
+      "zh": "这通常不是人们会期望的事，但这是因为社区里没有足够的食物或饮水来帮助孩子们。"
+    },
+    {
+      "id": 76,
+      "startMs": 505940,
+      "endMs": 513640,
+      "en": "And some 60% of them do get readmitted to either hospital or health programmes when they are released, so that's a vicious cycle.",
+      "zh": "其中约60%的孩子出院后确实会再次进入医院或卫生项目，因而形成恶性循环。"
+    },
+    {
+      "id": 77,
+      "startMs": 513640,
+      "endMs": 521400,
+      "en": "And so they compared this to a severe drought in 2022 in which 2.6 million people—children, I should say—had to be treated.",
+      "zh": "于是他们把这与2022年的严重旱灾作比较。当时有260万人——应该说是260万名儿童——需要接受治疗。"
+    },
+    {
+      "id": 78,
+      "startMs": 521400,
+      "endMs": 527000,
+      "en": "But at that time, there was just so much more money to deal with it: $2.2 billion available in 2022.",
+      "zh": "但当时可用于应对危机的资金要充裕得多，2022年有22亿美元。"
+    },
+    {
+      "id": 79,
+      "startMs": 527320,
+      "endMs": 534280,
+      "en": "Now it's only $300 million, he said, and that's because the US, the UK and the UN have severely cut their humanitarian funding.",
+      "zh": "他说，现在只有3亿美元，这是因为美国、英国和联合国大幅削减了人道主义资金。"
+    },
+    {
+      "id": 80,
+      "startMs": 534840,
+      "endMs": 539560,
+      "en": "Yes, that was one of President Trump's first acts when he came to power, cutting USAID.",
+      "zh": "是的，特朗普总统上台后的首批举措之一，就是削减美国国际开发署。"
+    },
+    {
+      "id": 81,
+      "startMs": 539560,
+      "endMs": 546600,
+      "en": "And there are also allegations that the US is carrying out strikes on Somalia too.",
+      "zh": "此外，还有指称称美国也正在对索马里实施打击。"
+    },
+    {
+      "id": 82,
+      "startMs": 547580,
+      "endMs": 556220,
+      "en": "The press conference this morning with MSF was speaking mostly about the humanitarian situation, and it said that the conflict was contributing to it,",
+      "zh": "今天上午无国界医生的记者会主要谈及人道主义局势，并表示冲突加剧了危机，"
+    },
+    {
+      "id": 83,
+      "startMs": 556220,
+      "endMs": 560060,
+      "en": "in that you couldn't get out and help people in the rural areas who really needed help,",
+      "zh": "因为救援人员无法外出帮助农村地区那些真正需要援助的人，"
+    },
+    {
+      "id": 84,
+      "startMs": 560060,
+      "endMs": 564620,
+      "en": "but that, by and large, the drought was very much a motivating factor.",
+      "zh": "但总的来说，干旱在很大程度上是主要诱因。"
+    },
+    {
+      "id": 85,
+      "startMs": 564620,
+      "endMs": 576140,
+      "en": "They did say that the US was one of the major donors to Somalia, $70 million to Somalia in different forms for different things last year, including health, and this year nothing.",
+      "zh": "他们确实表示，美国曾是索马里的主要援助方之一，去年以不同形式、面向不同领域向索马里提供了7000万美元，其中包括医疗卫生；今年则分文未给。"
+    },
+    {
+      "id": 86,
+      "startMs": 576140,
+      "endMs": 581500,
+      "en": "They said the UK has also cut around 50% of the funding, humanitarian funding,",
+      "zh": "他们说，英国也削减了约50%的资金，也就是人道主义资金，"
+    },
+    {
+      "id": 87,
+      "startMs": 581500,
+      "endMs": 588140,
+      "en": "and this is a question not just of being able to deal with malnutrition and getting people—getting children to survive,",
+      "zh": "而这不仅关系到能否应对营养不良，让人们——应该说让儿童——活下去，"
+    },
+    {
+      "id": 88,
+      "startMs": 588140,
+      "endMs": 593100,
+      "en": "but they are in a weaker condition because of the food shortage, and so they're more susceptible to disease.",
+      "zh": "还因为食物短缺使他们身体更加虚弱，因而更容易患病。"
+    },
+    {
+      "id": 89,
+      "startMs": 593100,
+      "endMs": 595260,
+      "en": "Plus, there is vaccination shortages.",
+      "zh": "此外，疫苗也存在短缺。"
+    },
+    {
+      "id": 90,
+      "startMs": 595580,
+      "endMs": 600780,
+      "en": "One woman was described as seeing three of her four children die of measles in 24 hours.",
+      "zh": "据描述，有一名妇女眼看着自己的四个孩子中有三个在24小时内死于麻疹。"
+    },
+    {
+      "id": 91,
+      "startMs": 601100,
+      "endMs": 608400,
+      "en": "So they, MSF and other humanitarians, are calling for not just funding to help deal with this malnutrition crisis,",
+      "zh": "因此，无国界医生和其他人道主义工作者呼吁，不仅要提供资金来应对这场营养不良危机，"
+    },
+    {
+      "id": 92,
+      "startMs": 608400,
+      "endMs": 614320,
+      "en": "but broader than that, to deal with food supplies, livelihoods, medical campaigns and so on.",
+      "zh": "还要采取更广泛的行动，解决食物供应、生计、医疗行动等问题。"
+    },
+    {
+      "id": 93,
+      "startMs": 614560,
+      "endMs": 617120,
+      "en": "Realistically, though, do you think their calls are going to be heeded?",
+      "zh": "不过现实地说，你认为他们的呼吁会得到响应吗？"
+    },
+    {
+      "id": 94,
+      "startMs": 617120,
+      "endMs": 620480,
+      "en": "It didn't sound that way from what they were saying.",
+      "zh": "从他们所说的话来看，听起来不会如此。"
+    },
+    {
+      "id": 95,
+      "startMs": 620800,
+      "endMs": 626640,
+      "en": "One of the doctors there said, \"I think, in general, there's been a declining interest in the humanitarian situations in Somalia.\"",
+      "zh": "在场的一名医生说：“我认为，总的来说，人们对索马里人道主义局势的关注一直在下降。”"
+    },
+    {
+      "id": 96,
+      "startMs": 626640,
+      "endMs": 633200,
+      "en": "He said, \"Basically, we're seeing now that humanitarian funding is not so much based on the needs, but mostly linked with political decisions.\"",
+      "zh": "他说：“基本上，我们现在看到，人道主义资金与其说是根据需求分配，不如说主要与政治决定挂钩。”"
+    },
+    {
+      "id": 97,
+      "startMs": 633200,
+      "endMs": 640240,
+      "en": "He didn't elaborate what he meant by that, but I think that that was part of the general pullback of humanitarian funding.",
+      "zh": "他没有详细说明这话的含义，但我认为，这属于人道主义资金普遍撤回趋势的一部分。"
+    },
+    {
+      "id": 98,
+      "startMs": 640240,
+      "endMs": 644480,
+      "en": "I mean, generally in the world, but also particularly in Somalia.",
+      "zh": "我的意思是，这在全世界普遍存在，但在索马里尤其明显。"
+    },
+    {
+      "id": 99,
+      "startMs": 644480,
+      "endMs": 651440,
+      "en": "But I felt the general sense of it was that there wasn't great international engagement and might not be. Barbara Plett-Usher.",
+      "zh": "但我的总体感受是，国际社会并未积极参与，而且今后可能也不会。芭芭拉·普莱特-厄舍。"
+    },
+    {
+      "id": 100,
+      "startMs": 651440,
+      "endMs": 661440,
+      "en": "US media say Donald Trump's security team carried out an extraordinary ruse to make sure that he left the NATO summit in Turkey safely last month.",
+      "zh": "美国媒体称，唐纳德·特朗普的安保团队上个月实施了一场非同寻常的障眼法，以确保他安全离开在土耳其举行的北约峰会。"
+    },
+    {
+      "id": 101,
+      "startMs": 661920,
+      "endMs": 671220,
+      "en": "As rumours swirled of a possible Iranian threat against him, it's understood he boarded Air Force One in view of television cameras,",
+      "zh": "当时有关伊朗可能威胁他的传闻四起。据了解，他先在电视镜头前登上“空军一号”，"
+    },
+    {
+      "id": 102,
+      "startMs": 671620,
+      "endMs": 680100,
+      "en": "before then being smuggled out on the other side of the plane into an airport catering truck, before then boarding a military aircraft.",
+      "zh": "随后从飞机另一侧被秘密送进一辆机场餐饮车，再转乘一架军用飞机。"
+    },
+    {
+      "id": 103,
+      "startMs": 680500,
+      "endMs": 684020,
+      "en": "Eric Schmitt, senior national security correspondent for The New York Times,",
+      "zh": "《纽约时报》高级国家安全记者埃里克·施密特，"
+    },
+    {
+      "id": 104,
+      "startMs": 684340,
+      "endMs": 689140,
+      "en": "is one of the journalists who's been reporting on this story, which was first broken by The Washington Post.",
+      "zh": "是报道此事的记者之一，这则消息最先由《华盛顿邮报》披露。"
+    },
+    {
+      "id": 105,
+      "startMs": 689700,
+      "endMs": 693220,
+      "en": "What happened was, on July 8th, the President's leaving Turkey.",
+      "zh": "事情是这样的：7月8日，总统准备离开土耳其。"
+    },
+    {
+      "id": 106,
+      "startMs": 693700,
+      "endMs": 702340,
+      "en": "He announces he's going to go on the older version of Air Force One, rather than the luxury 747 that was donated by Qatar that he had flown in on.",
+      "zh": "他宣布自己将乘坐旧版“空军一号”，而不是来时所乘的、由卡塔尔捐赠的豪华波音747。"
+    },
+    {
+      "id": 107,
+      "startMs": 702900,
+      "endMs": 707860,
+      "en": "Mr Trump told reporters at the time that he was making the switch for what he called 'old time's sake.'",
+      "zh": "特朗普当时告诉记者，他这次换飞机是为了他所谓的“怀旧”。"
+    },
+    {
+      "id": 108,
+      "startMs": 708020,
+      "endMs": 712820,
+      "en": "So Trump boards the older plane from the left-side door in full view of the cameras.",
+      "zh": "于是，特朗普在镜头清楚拍摄下，从左侧舱门登上了那架旧飞机。"
+    },
+    {
+      "id": 109,
+      "startMs": 713300,
+      "endMs": 716020,
+      "en": "And news organisations, including our own, The New York Times,",
+      "zh": "包括我们《纽约时报》在内的新闻机构，"
+    },
+    {
+      "id": 110,
+      "startMs": 716020,
+      "endMs": 723060,
+      "en": "reported that he had travelled on it to Britain, where he was going to switch back to the newer plane, the Qatari plane.",
+      "zh": "都报道称他乘这架飞机前往英国，并将在那里换回那架较新的卡塔尔飞机。"
+    },
+    {
+      "id": 111,
+      "startMs": 723540,
+      "endMs": 732440,
+      "en": "And the Times, we had reported at the time that the decision was driven in large part over the concern, as you said, about the security of this new plane donated by Qatar,",
+      "zh": "而我们《纽约时报》当时曾报道，正如你所说，这一决定很大程度上是出于对卡塔尔捐赠的这架新飞机安全性的担忧，"
+    },
+    {
+      "id": 112,
+      "startMs": 732440,
+      "endMs": 737560,
+      "en": "which had not been equipped with all the advanced defensive capabilities of the older versions,",
+      "zh": "因为它还没有配备旧版飞机所拥有的全部先进防御能力，"
+    },
+    {
+      "id": 113,
+      "startMs": 737560,
+      "endMs": 742120,
+      "en": "and the Secret Service had picked up a threat that Iran was maybe targeting this plane.",
+      "zh": "而特勤局此前获悉一项威胁：伊朗或许正把这架飞机作为目标。"
+    },
+    {
+      "id": 114,
+      "startMs": 742600,
+      "endMs": 747400,
+      "en": "But instead of flying out on the older powder-blue plane, which the President has criticised as kind of dowdy,",
+      "zh": "但他并没有乘那架淡蓝色的旧飞机离开——总统曾嫌它有点老土——"
+    },
+    {
+      "id": 115,
+      "startMs": 747400,
+      "endMs": 757480,
+      "en": "he was secretly whisked off that plane on a catering container that had been lifted to the opposite side of the plane from where the journalists travelling with him boarded.",
+      "zh": "而是通过一个升到飞机另一侧的餐饮货柜被秘密带下飞机；随行记者是从另一边登机的。"
+    },
+    {
+      "id": 116,
+      "startMs": 757720,
+      "endMs": 761320,
+      "en": "And from there, he was taken to a third plane, a 757.",
+      "zh": "然后，他被送往第三架飞机——一架波音757。"
+    },
+    {
+      "id": 117,
+      "startMs": 761320,
+      "endMs": 766600,
+      "en": "That's often flown by the Vice President and the Secretary of Defense, in which he flew secretly to Britain.",
+      "zh": "副总统和国防部长经常乘坐这种飞机；特朗普就乘它秘密飞往英国。"
+    },
+    {
+      "id": 118,
+      "startMs": 766680,
+      "endMs": 772520,
+      "en": "And then they did the whole thing over again and shuttled him back onto the old Air Force One",
+      "zh": "接着，他们把整套安排又做了一遍，将他转回旧“空军一号”，"
+    },
+    {
+      "id": 119,
+      "startMs": 772600,
+      "endMs": 777080,
+      "en": "so he could make his supposed entrance, you know, walking down the steps, which we all saw.",
+      "zh": "让他完成那场所谓的亮相——就是我们都看到的、走下舷梯的那一幕。"
+    },
+    {
+      "id": 120,
+      "startMs": 777640,
+      "endMs": 787080,
+      "en": "And then he eventually took the new plane, boarded that plane back to the United States. But all this was kept secret from not only the travelling press, but everybody since then.",
+      "zh": "最后，他登上新飞机，乘它返回美国。但此后，这一切不仅对随行记者秘而不宣，也一直瞒着所有人。"
+    },
+    {
+      "id": 121,
+      "startMs": 787340,
+      "endMs": 796540,
+      "en": "And worth noting, of course, that he did leave the travelling press and White House officials on what we're calling the old plane in Ankara,",
+      "zh": "当然，值得注意的是，他确实把随行记者和白宫官员留在了安卡拉那架被我们称为“旧飞机”的飞机上，"
+    },
+    {
+      "id": 122,
+      "startMs": 796780,
+      "endMs": 800940,
+      "en": "after having exited it unknown in the catering container.",
+      "zh": "而他此前已用餐饮货柜神不知鬼不觉地离开。"
+    },
+    {
+      "id": 123,
+      "startMs": 800940,
+      "endMs": 806060,
+      "en": "You were all sent off in the air, happily to be blown out of the air by whoever was targeting the President?",
+      "zh": "也就是说，你们全都被打发上了天，仿佛任由那个可能盯上总统的人把你们从空中击落？"
+    },
+    {
+      "id": 124,
+      "startMs": 806540,
+      "endMs": 813020,
+      "en": "That's right. The travelling press and the rest of the White House staff and everybody accompanying the President normally was basically a decoy.",
+      "zh": "没错。随行记者、其余白宫工作人员，以及通常陪同总统出行的所有人，基本上都成了诱饵。"
+    },
+    {
+      "id": 125,
+      "startMs": 813100,
+      "endMs": 818620,
+      "en": "And the Secret Service has done this in the past—nothing quite this elaborate, of course.",
+      "zh": "特勤局过去也做过这种事——当然，从没有安排得如此复杂。"
+    },
+    {
+      "id": 126,
+      "startMs": 818620,
+      "endMs": 825180,
+      "en": "But they say, 'Listen, our job is not to inform the media or anybody else or the public. It's basically to protect the President.'",
+      "zh": "但他们会说：“听着，我们的职责不是通知媒体、其他任何人或公众，基本职责就是保护总统。”"
+    },
+    {
+      "id": 127,
+      "startMs": 825260,
+      "endMs": 831740,
+      "en": "But obviously, the questions have surfaced in the days and weeks after this whole flight about all these different aircraft.",
+      "zh": "但很显然，这趟航程结束后的几天乃至几周里，人们对这些不同飞机产生了疑问。"
+    },
+    {
+      "id": 128,
+      "startMs": 831740,
+      "endMs": 836140,
+      "en": "And this is just now coming to light, that there was one more chapter to this whole saga.",
+      "zh": "直到现在大家才知道，整件事原来还有这么一段插曲。"
+    },
+    {
+      "id": 129,
+      "startMs": 836940,
+      "endMs": 839820,
+      "en": "Journalist Eric Schmitt speaking to Jonny Dymond.",
+      "zh": "记者埃里克·施密特接受乔尼·戴蒙德采访。"
+    },
+    {
+      "id": 130,
+      "startMs": 840680,
+      "endMs": 851560,
+      "en": "The government in Thailand has ordered the immediate suspension of gun permits after a shooting at a school last week, in which a 14-year-old pupil killed eight people and himself.",
+      "zh": "泰国上周发生校园枪击案，一名14岁学生杀死8人后自杀身亡。事后，泰国政府下令立即暂停发放持枪许可。"
+    },
+    {
+      "id": 131,
+      "startMs": 852120,
+      "endMs": 858120,
+      "en": "Thailand has one of the highest levels of gun ownership in the world and very high levels of gun crime.",
+      "zh": "泰国的枪支持有率位居世界前列，枪支犯罪率也很高。"
+    },
+    {
+      "id": 132,
+      "startMs": 858520,
+      "endMs": 861960,
+      "en": "Our Southeast Asia correspondent Jonathan Head reports from Bangkok.",
+      "zh": "本台东南亚事务记者乔纳森·黑德从曼谷发回报道。"
+    },
+    {
+      "id": 133,
+      "startMs": 862440,
+      "endMs": 866840,
+      "en": "The shock of last Friday's school shooting has forced the Thai government to act.",
+      "zh": "上周五校园枪击案造成的震动迫使泰国政府采取行动。"
+    },
+    {
+      "id": 134,
+      "startMs": 867400,
+      "endMs": 873720,
+      "en": "It says that from now, no new gun permits will be issued, and that existing permits cannot be renewed.",
+      "zh": "政府表示，从现在起将不再发放新的持枪许可，现有许可也不得续期。"
+    },
+    {
+      "id": 135,
+      "startMs": 874360,
+      "endMs": 878520,
+      "en": "Gun owners have been ordered to keep their weapons at home or at a shooting range.",
+      "zh": "枪支持有人被要求只能把武器放在家中或射击场。"
+    },
+    {
+      "id": 136,
+      "startMs": 878920,
+      "endMs": 883880,
+      "en": "Only designated officials like police officers will be allowed to carry their guns with them.",
+      "zh": "只有警察等指定官员才获准随身携枪。"
+    },
+    {
+      "id": 137,
+      "startMs": 884440,
+      "endMs": 889720,
+      "en": "It's warned of severe and decisive penalties for anyone violating the new rules.",
+      "zh": "政府警告，任何违反新规的人都将受到严厉而坚决的惩罚。"
+    },
+    {
+      "id": 138,
+      "startMs": 890280,
+      "endMs": 898040,
+      "en": "The government is also considering measures to persuade the owners of an estimated four million unlicensed guns to hand them in.",
+      "zh": "政府还在考虑采取措施，说服约400万支无证枪支的持有人上缴枪械。"
+    },
+    {
+      "id": 139,
+      "startMs": 898760,
+      "endMs": 907660,
+      "en": "The police are still investigating what drove a 14-year-old boy to open fire at his secondary school last week using his grandfather's handgun.",
+      "zh": "警方仍在调查，是什么促使这名14岁男孩上周使用祖父的手枪在自己的中学开火。"
+    },
+    {
+      "id": 140,
+      "startMs": 908140,
+      "endMs": 915660,
+      "en": "They say there is evidence that the boy watched violent content online and that he showed a strong interest in learning how to handle guns.",
+      "zh": "警方称，有证据显示这名男孩曾在网上观看暴力内容，并对学习如何使用枪支表现出浓厚兴趣。"
+    },
+    {
+      "id": 141,
+      "startMs": 916640,
+      "endMs": 923680,
+      "en": "The Education Minister has now proposed screening at the entrance to schools to stop students from bringing in weapons.",
+      "zh": "教育部长现已提议在学校入口处进行安检，防止学生携带武器入校。"
+    },
+    {
+      "id": 142,
+      "startMs": 924620,
+      "endMs": 925260,
+      "en": "Jonathan Head.",
+      "zh": "乔纳森·黑德报道。"
+    },
+    {
+      "id": 143,
+      "startMs": 928020,
+      "endMs": 931700,
+      "en": "Still to come in this podcast... I sell street food as my work.",
+      "zh": "本期节目稍后还有……我是靠卖街头小吃为生的。"
+    },
+    {
+      "id": 144,
+      "startMs": 932340,
+      "endMs": 934340,
+      "en": "It's really difficult to get some money.",
+      "zh": "现在真的很难挣到钱。"
+    },
+    {
+      "id": 145,
+      "startMs": 934820,
+      "endMs": 939780,
+      "en": "We are trying to stay strong to survive, but things have become really hard for us.",
+      "zh": "我们努力撑下去、活下去，但日子对我们来说真的越来越难了。"
+    },
+    {
+      "id": 146,
+      "startMs": 940420,
+      "endMs": 945460,
+      "en": "Ahead of national elections in Zambia, we hear from voters about their concerns.",
+      "zh": "赞比亚全国大选在即，我们将听听选民担忧的问题。"
+    },
+    {
+      "id": 147,
+      "startMs": 945460,
+      "endMs": 947220,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 148,
+      "startMs": 947860,
+      "endMs": 956640,
+      "en": "Ukraine and Russia continued to strike each other overnight on Monday, with President Zelenskyy accusing Moscow of using North Korean missiles.",
+      "zh": "周一夜间，乌克兰与俄罗斯继续相互发动袭击。泽连斯基总统指责莫斯科使用朝鲜导弹。"
+    },
+    {
+      "id": 149,
+      "startMs": 957120,
+      "endMs": 962080,
+      "en": "I got more details about the Russian attacks from our Ukraine correspondent, Dan Johnson, who's in Kyiv.",
+      "zh": "本台驻基辅的乌克兰事务记者丹·约翰逊向我介绍了俄方袭击的更多细节。"
+    },
+    {
+      "id": 150,
+      "startMs": 962720,
+      "endMs": 968400,
+      "en": "Yes, another night of intense bombardment affecting a number of cities across Ukraine. Kyiv was targeted.",
+      "zh": "是的，又是一个猛烈轰炸之夜，乌克兰多座城市受到波及。基辅成为袭击目标。"
+    },
+    {
+      "id": 151,
+      "startMs": 969040,
+      "endMs": 971920,
+      "en": "There were two rounds of air raid alerts here.",
+      "zh": "这里先后响起了两轮空袭警报。"
+    },
+    {
+      "id": 152,
+      "startMs": 971920,
+      "endMs": 977760,
+      "en": "The first after midnight, when the sirens first sounded, and then I heard loud explosions soon after that.",
+      "zh": "第一轮是在午夜过后，警报声先响起，随后不久我便听到了巨大的爆炸声。"
+    },
+    {
+      "id": 153,
+      "startMs": 977840,
+      "endMs": 981200,
+      "en": "Though that may have been the air defences here operating,",
+      "zh": "不过，那可能是当地防空系统运作的声音，"
+    },
+    {
+      "id": 154,
+      "startMs": 981200,
+      "endMs": 990880,
+      "en": "because it seems like Ukraine was a bit more successful last night in terms of repelling the Russian ballistic missile attack we're told came in two waves towards Kyiv.",
+      "zh": "因为乌克兰昨夜抵御俄方弹道导弹袭击似乎更为成功一些。据我们获悉，袭击分两波攻向基辅。"
+    },
+    {
+      "id": 155,
+      "startMs": 990960,
+      "endMs": 995360,
+      "en": "So a warehouse on the edge of the city was hit. There was a fire that was burning there.",
+      "zh": "城郊一座仓库遭到击中，那里燃起了大火。"
+    },
+    {
+      "id": 156,
+      "startMs": 995360,
+      "endMs": 997680,
+      "en": "We're told one person was injured.",
+      "zh": "据我们获悉，有一人受伤。"
+    },
+    {
+      "id": 157,
+      "startMs": 997920,
+      "endMs": 1003520,
+      "en": "A children's hospital on the edge of the city was also struck last night, but there were no injuries there.",
+      "zh": "城郊一家儿童医院昨夜也遭袭，但没有人员受伤。"
+    },
+    {
+      "id": 158,
+      "startMs": 1003520,
+      "endMs": 1009040,
+      "en": "We're told the patients and the staff were all sheltering and were safe in their basement.",
+      "zh": "据我们获悉，患者和工作人员都在地下室躲避，安然无恙。"
+    },
+    {
+      "id": 159,
+      "startMs": 1009360,
+      "endMs": 1016740,
+      "en": "Elsewhere, there was an intense strike on Zaporizhzhia, which has killed six people, injured 19.",
+      "zh": "其他地区，扎波罗热遭到猛烈袭击，造成6人死亡、19人受伤。"
+    },
+    {
+      "id": 160,
+      "startMs": 1017060,
+      "endMs": 1023140,
+      "en": "And we're also hearing that there were deaths, at least three, in Dnipropetrovsk last night.",
+      "zh": "我们还获悉，第聂伯罗彼得罗夫斯克昨夜也有人丧生，至少3人死亡。"
+    },
+    {
+      "id": 161,
+      "startMs": 1023220,
+      "endMs": 1030020,
+      "en": "So once again, the air defences of Ukraine having been tested by ballistic missiles fired by Russia.",
+      "zh": "因此，乌克兰的防空系统再次经受了俄罗斯发射的弹道导弹考验。"
+    },
+    {
+      "id": 162,
+      "startMs": 1030100,
+      "endMs": 1037860,
+      "en": "But also, we're told 120 drones came towards Ukraine from Russian territory, but also from occupied Crimea.",
+      "zh": "此外，据我们获悉，有120架无人机从俄罗斯境内以及被占领的克里米亚飞向乌克兰。"
+    },
+    {
+      "id": 163,
+      "startMs": 1038180,
+      "endMs": 1044340,
+      "en": "Interestingly, this morning the authorities here said they came under ballistic missile attack, but they've not given a number.",
+      "zh": "值得注意的是，当地官员今早表示遭到了弹道导弹袭击，却没有公布导弹数量。"
+    },
+    {
+      "id": 164,
+      "startMs": 1044340,
+      "endMs": 1048500,
+      "en": "For the first time, they've not spelled out the actual number of missiles fired.",
+      "zh": "这是他们首次没有明确公布实际发射了多少枚导弹。"
+    },
+    {
+      "id": 165,
+      "startMs": 1048820,
+      "endMs": 1055300,
+      "en": "And that's because they've been getting increasingly sensitive about reporting of missiles fired to missiles intercepted,",
+      "zh": "这是因为他们越来越敏感于公布导弹发射数与拦截数之比；"
+    },
+    {
+      "id": 166,
+      "startMs": 1055540,
+      "endMs": 1059460,
+      "en": "and the fact that that number has been looking particularly weak over the past few days.",
+      "zh": "过去几天，这一比例显得尤其不理想。"
+    },
+    {
+      "id": 167,
+      "startMs": 1060020,
+      "endMs": 1069860,
+      "en": "And President Zelenskyy has said that those missiles that were fired at Zaporizhzhia, which killed six people, as you just said, were North Korean missiles.",
+      "zh": "泽连斯基总统称，正如你刚才所说，袭击扎波罗热并造成6人死亡的那些导弹是朝鲜导弹。"
+    },
+    {
+      "id": 168,
+      "startMs": 1070920,
+      "endMs": 1079160,
+      "en": "Yes, he's been talking increasingly about the contribution of North Korea to Russia's war effort in terms of missiles,",
+      "zh": "是的，他越来越多地谈到朝鲜对俄罗斯战争行动的支持，其中包括导弹，"
+    },
+    {
+      "id": 169,
+      "startMs": 1079320,
+      "endMs": 1084600,
+      "en": "but also in terms of personnel joining the front lines in the east of Ukraine.",
+      "zh": "也包括加入乌克兰东部前线的人员。"
+    },
+    {
+      "id": 170,
+      "startMs": 1084600,
+      "endMs": 1088760,
+      "en": "And he's warned that this is an increasing threat not just to his country.",
+      "zh": "他警告说，这一日益加剧的威胁并非只针对乌克兰。"
+    },
+    {
+      "id": 171,
+      "startMs": 1088760,
+      "endMs": 1096120,
+      "en": "He's talking about the threat that North Korea poses to other countries, particularly its neighbours and surrounding countries there.",
+      "zh": "他谈到朝鲜对其他国家构成的威胁，尤其是对朝鲜的邻国和周边国家。"
+    },
+    {
+      "id": 172,
+      "startMs": 1096120,
+      "endMs": 1104120,
+      "en": "It's another ploy that he's using to try to draw international support together to back Ukraine in fighting against Russia.",
+      "zh": "记者认为，这是泽连斯基为争取国际社会团结支持乌克兰抗击俄罗斯而采取的又一种策略。"
+    },
+    {
+      "id": 173,
+      "startMs": 1104120,
+      "endMs": 1107880,
+      "en": "But increasingly, he says, the threat from North Korea too. Dan Johnson.",
+      "zh": "但他也越来越强调来自朝鲜的威胁。丹·约翰逊报道。"
+    },
+    {
+      "id": 174,
+      "startMs": 1108600,
+      "endMs": 1114280,
+      "en": "Now to Africa, where the people of Zambia will vote in presidential and parliamentary elections this week.",
+      "zh": "现在转向非洲，赞比亚民众本周将参加总统和议会选举。"
+    },
+    {
+      "id": 175,
+      "startMs": 1114760,
+      "endMs": 1125000,
+      "en": "Following a painful debt restructuring process and a series of promised economic reforms, many Zambians are still asking whether the benefits are reaching ordinary households.",
+      "zh": "在经历艰难的债务重组，并迎来一系列承诺中的经济改革后，许多赞比亚人仍在追问，这些好处是否惠及普通家庭。"
+    },
+    {
+      "id": 176,
+      "startMs": 1125560,
+      "endMs": 1135660,
+      "en": "Rising living costs, an energy crisis and unemployment remain major concerns on the campaign trail, even as the government points to progress in stabilizing the economy.",
+      "zh": "尽管政府强调稳定经济方面取得了进展，但生活成本上升、能源危机和失业仍是竞选中的主要关切。"
+    },
+    {
+      "id": 177,
+      "startMs": 1136300,
+      "endMs": 1139500,
+      "en": "Dingindaba Jonah Buyoya reports.",
+      "zh": "丁金达巴·乔纳·布约亚报道。"
+    },
+    {
+      "id": 178,
+      "startMs": 1141320,
+      "endMs": 1147800,
+      "en": "Calm and stable, Zambia's capital, Lusaka, is certainly not a quiet city.",
+      "zh": "赞比亚首都卢萨卡平静而稳定，但绝不是一座安静的城市。"
+    },
+    {
+      "id": 179,
+      "startMs": 1148900,
+      "endMs": 1153700,
+      "en": "On August 13th, Zambians vote to renew the parliament and their president.",
+      "zh": "8月13日，赞比亚人将投票改选议会和总统。"
+    },
+    {
+      "id": 180,
+      "startMs": 1153700,
+      "endMs": 1158740,
+      "en": "The incumbent leader, Hakainde Hichilema, is bidding for a second term.",
+      "zh": "现任总统哈凯恩德·希奇莱马正在争取连任。"
+    },
+    {
+      "id": 181,
+      "startMs": 1159060,
+      "endMs": 1163060,
+      "en": "But in recent weeks, a new challenger has gained momentum in the polls.",
+      "zh": "但最近几周，一位新的挑战者在民调中的势头不断增强。"
+    },
+    {
+      "id": 182,
+      "startMs": 1164900,
+      "endMs": 1174100,
+      "en": "Brian Mundubile, a former minister and ally of the previous president, the late Edgar Lungu, has gained popularity.",
+      "zh": "前部长布赖恩·蒙杜比莱是已故前总统埃德加·伦古的盟友，他的人气正在上升。"
+    },
+    {
+      "id": 183,
+      "startMs": 1174820,
+      "endMs": 1179700,
+      "en": "Many thought this upcoming vote would give Hichilema a fairly easy win.",
+      "zh": "许多人原以为，希奇莱马会相当轻松地赢得这次选举。"
+    },
+    {
+      "id": 184,
+      "startMs": 1180420,
+      "endMs": 1189540,
+      "en": "In the last elections five years ago, he received a solid mandate, and recently, one of his main challengers, former President Lungu, died.",
+      "zh": "五年前的上次选举中，他获得了稳固的民意授权；而最近，他的主要挑战者之一、前总统伦古去世了。"
+    },
+    {
+      "id": 185,
+      "startMs": 1190520,
+      "endMs": 1193960,
+      "en": "But many things have changed in Zambia over the past five years.",
+      "zh": "但过去五年里，赞比亚发生了许多变化。"
+    },
+    {
+      "id": 186,
+      "startMs": 1195600,
+      "endMs": 1202800,
+      "en": "The rising cost of living and an energy crisis, which only recently started to improve, are top issues among voters.",
+      "zh": "生活成本上涨，以及近期才开始缓解的能源危机，是选民最关心的问题。"
+    },
+    {
+      "id": 187,
+      "startMs": 1203440,
+      "endMs": 1210320,
+      "en": "The government boasts, among its biggest achievements, the introduction of free primary and secondary education,",
+      "zh": "政府宣称，其最大成就包括推行免费中小学教育，"
+    },
+    {
+      "id": 188,
+      "startMs": 1210800,
+      "endMs": 1217520,
+      "en": "the hiring of thousands of new teachers and health workers, and the successful restructuring of the country's high debt.",
+      "zh": "聘用数千名新教师和医务人员，以及成功重组该国的高额债务。"
+    },
+    {
+      "id": 189,
+      "startMs": 1218240,
+      "endMs": 1220080,
+      "en": "Here is President Hichilema.",
+      "zh": "下面是希奇莱马总统的讲话。"
+    },
+    {
+      "id": 190,
+      "startMs": 1220480,
+      "endMs": 1222320,
+      "en": "We inherited a broken-down country.",
+      "zh": "我们接手的是一个千疮百孔的国家。"
+    },
+    {
+      "id": 191,
+      "startMs": 1222640,
+      "endMs": 1230800,
+      "en": "We were in debt distress, defaulted on our obligations to pay our debt. The economy was declining. So we've restructured the debt.",
+      "zh": "我们陷入债务困境，未能履行偿债义务，经济也在下滑。所以我们重组了债务。"
+    },
+    {
+      "id": 192,
+      "startMs": 1231280,
+      "endMs": 1234000,
+      "en": "A clear saving of $1.9 billion per year.",
+      "zh": "每年实实在在节省19亿美元。"
+    },
+    {
+      "id": 193,
+      "startMs": 1234000,
+      "endMs": 1238400,
+      "en": "That's the money we're putting in the economy.",
+      "zh": "这笔钱正被我们投入经济之中。"
+    },
+    {
+      "id": 194,
+      "startMs": 1239540,
+      "endMs": 1244740,
+      "en": "Yet some Zambians say they are yet to reap the benefits of these measures.",
+      "zh": "然而，一些赞比亚人说，他们尚未从这些措施中受益。"
+    },
+    {
+      "id": 195,
+      "startMs": 1244740,
+      "endMs": 1250900,
+      "en": "I sell street food as my work. But now money has become so hard to come by.",
+      "zh": "我靠卖街头小吃为生，但现在钱实在太难赚了。"
+    },
+    {
+      "id": 196,
+      "startMs": 1251540,
+      "endMs": 1253460,
+      "en": "It's really difficult to get some money.",
+      "zh": "想赚到一点钱都很难。"
+    },
+    {
+      "id": 197,
+      "startMs": 1253940,
+      "endMs": 1258900,
+      "en": "We are trying to stay strong to survive, but things have become really hard for us.",
+      "zh": "我们努力坚强地活下去，但日子已经变得非常艰难。"
+    },
+    {
+      "id": 198,
+      "startMs": 1259300,
+      "endMs": 1264900,
+      "en": "It's not that the money that we are getting paid, it's enough we can sustain our lives.",
+      "zh": "我们赚到的钱根本不足以维持生活。"
+    },
+    {
+      "id": 199,
+      "startMs": 1271140,
+      "endMs": 1273940,
+      "en": "Meanwhile, the opposition is campaigning hard.",
+      "zh": "与此同时，反对派正在大力竞选。"
+    },
+    {
+      "id": 200,
+      "startMs": 1274500,
+      "endMs": 1282260,
+      "en": "In a country with more than 80% of people under the age of 30, Mr Mundubile says his party is targeting the youth.",
+      "zh": "在这个超过八成人口不满30岁的国家，蒙杜比莱先生说，他的政党正把青年作为重点争取对象。"
+    },
+    {
+      "id": 201,
+      "startMs": 1283060,
+      "endMs": 1289620,
+      "en": "We are moving the women and the youth from the margins to the center of policy and economic transformation.",
+      "zh": "我们正把妇女和青年从边缘带到政策与经济转型的中心。"
+    },
+    {
+      "id": 202,
+      "startMs": 1290580,
+      "endMs": 1296340,
+      "en": "We believe the youth have solutions to most of their challenges.",
+      "zh": "我们相信，青年有办法解决他们面临的大多数挑战。"
+    },
+    {
+      "id": 203,
+      "startMs": 1296660,
+      "endMs": 1301140,
+      "en": "So we are positioning ourselves. I'm positioning myself as president, as big brother to the youth.",
+      "zh": "所以我们正在找准自身定位。我把自己定位为总统，也定位为青年的大哥。"
+    },
+    {
+      "id": 204,
+      "startMs": 1301460,
+      "endMs": 1305940,
+      "en": "But some older voters, like this woman from Lusaka, distrust Mundubile's party",
+      "zh": "但一些年长选民并不信任蒙杜比莱的政党，比如这名来自卢萨卡的女子，"
+    },
+    {
+      "id": 205,
+      "startMs": 1305940,
+      "endMs": 1312660,
+      "en": "because it has links to old political parties who, in the past, faced corruption accusations.",
+      "zh": "因为该党与一些老牌政党有关联，而这些政党过去曾面临腐败指控。"
+    },
+    {
+      "id": 206,
+      "startMs": 1313140,
+      "endMs": 1316420,
+      "en": "We wouldn't love to see them come back in the first place",
+      "zh": "首先，我们不愿看到他们卷土重来，"
+    },
+    {
+      "id": 207,
+      "startMs": 1316740,
+      "endMs": 1321300,
+      "en": "because we gave them chance to rule the country and we saw what they did.",
+      "zh": "因为我们曾给他们机会治理国家，也看到了他们做过什么。"
+    },
+    {
+      "id": 208,
+      "startMs": 1322100,
+      "endMs": 1325620,
+      "en": "Voters will choose among 14 presidential candidates.",
+      "zh": "选民将在14名总统候选人中作出选择。"
+    },
+    {
+      "id": 209,
+      "startMs": 1326100,
+      "endMs": 1333700,
+      "en": "Of them, only one is a woman, Given Katuta, a two-time Member of Parliament from northern Zambia.",
+      "zh": "其中只有一名女性，即来自赞比亚北部、两度担任议员的吉文·卡图塔。"
+    },
+    {
+      "id": 210,
+      "startMs": 1334420,
+      "endMs": 1337140,
+      "en": "Observers say the previous elections were fair,",
+      "zh": "观察人士说，上次选举是公正的，"
+    },
+    {
+      "id": 211,
+      "startMs": 1337300,
+      "endMs": 1344900,
+      "en": "but some experts are now concerned about the impartiality of some members of the Electoral Commission tasked with overseeing the vote.",
+      "zh": "但如今一些专家担心，负责监督此次投票的选举委员会中，部分委员可能不够公正。"
+    },
+    {
+      "id": 212,
+      "startMs": 1345940,
+      "endMs": 1350180,
+      "en": "Linda Kasonde is former president of the Law Association of Zambia.",
+      "zh": "琳达·卡松德是赞比亚律师协会前会长。"
+    },
+    {
+      "id": 213,
+      "startMs": 1350440,
+      "endMs": 1353640,
+      "en": "In terms of the constitution of the Electoral Commission itself,",
+      "zh": "就选举委员会本身的组成而言，"
+    },
+    {
+      "id": 214,
+      "startMs": 1354040,
+      "endMs": 1365640,
+      "en": "a number of the members of the Commission are actually politically aligned to the incumbent UPND party and are not seen to be independent.",
+      "zh": "委员会有数名委员实际上在政治上与执政的国家发展联合党结盟，因而被认为并不独立。"
+    },
+    {
+      "id": 215,
+      "startMs": 1366200,
+      "endMs": 1370280,
+      "en": "And so we're yet to see how they will manage the actual election.",
+      "zh": "所以，他们究竟会如何组织这场选举，仍有待观察。"
+    },
+    {
+      "id": 216,
+      "startMs": 1371680,
+      "endMs": 1375600,
+      "en": "This election will test whether the changes over the past five years",
+      "zh": "这场选举将检验过去五年的变化，"
+    },
+    {
+      "id": 217,
+      "startMs": 1375920,
+      "endMs": 1380960,
+      "en": "have been enough for Zambians or if they'd like to see a different direction.",
+      "zh": "对赞比亚人来说是否已经足够，还是他们希望国家转向另一个方向。"
+    },
+    {
+      "id": 218,
+      "startMs": 1383180,
+      "endMs": 1385820,
+      "en": "Dingindaba Jonah Buyoya, reporting.",
+      "zh": "丁金达巴·乔纳·布约亚报道。"
+    },
+    {
+      "id": 219,
+      "startMs": 1385820,
+      "endMs": 1393180,
+      "en": "A technology executive who asked his AI assistant to book him a gym class, fairly simple on the face of it,",
+      "zh": "一名科技公司高管让他的AI助手替他预订一节健身课，表面上看是件相当简单的事，"
+    },
+    {
+      "id": 220,
+      "startMs": 1393260,
+      "endMs": 1397660,
+      "en": "found it actually hacked the system to boot other people off the waiting list.",
+      "zh": "结果却发现，它竟然入侵了系统，把其他人踢出了候补名单。"
+    },
+    {
+      "id": 221,
+      "startMs": 1398140,
+      "endMs": 1402780,
+      "en": "It also bypassed the gym's rules to get him into a class four months in advance.",
+      "zh": "它还绕过健身房的规定，让他提前四个月进入一节课的预约名单。"
+    },
+    {
+      "id": 222,
+      "startMs": 1403260,
+      "endMs": 1407020,
+      "en": "Andrew Bird wrote about this on his company's blog, saying,",
+      "zh": "安德鲁·伯德在公司博客中讲述了此事，并写道："
+    },
+    {
+      "id": 223,
+      "startMs": 1407340,
+      "endMs": 1414380,
+      "en": "If you give an AI agent permission to go do the thing, it will often discover paths you did not explicitly ask it to look for.",
+      "zh": "如果你授权一个AI智能体去办一件事，它往往会找到一些你并未明确要求它探索的路径。"
+    },
+    {
+      "id": 224,
+      "startMs": 1414860,
+      "endMs": 1419420,
+      "en": "It's now being described as Australia's first autonomous AI hack.",
+      "zh": "这起事件如今被描述为澳大利亚首起自主AI黑客攻击。"
+    },
+    {
+      "id": 225,
+      "startMs": 1419980,
+      "endMs": 1422860,
+      "en": "Rory Cellan-Jones is the BBC's former tech correspondent.",
+      "zh": "罗里·塞兰-琼斯是BBC前科技事务记者。"
+    },
+    {
+      "id": 226,
+      "startMs": 1423260,
+      "endMs": 1426380,
+      "en": "Anna Foster asked him about the implications of this development.",
+      "zh": "安娜·福斯特问他，这一事态发展意味着什么。"
+    },
+    {
+      "id": 227,
+      "startMs": 1427020,
+      "endMs": 1433020,
+      "en": "You can see all sorts of innocent uses for this, perhaps climbing the queue for Glastonbury tickets or whatever.",
+      "zh": "你可以想到这类技术的各种无害用途，比如在格拉斯顿伯里音乐节的购票队伍中往前挤，诸如此类。"
+    },
+    {
+      "id": 228,
+      "startMs": 1433420,
+      "endMs": 1438940,
+      "en": "But what you've got to worry about is the sort of unintended consequences, and what happens",
+      "zh": "但你真正需要担心的是这类意外后果，以及会发生什么——"
+    },
+    {
+      "id": 229,
+      "startMs": 1438940,
+      "endMs": 1445760,
+      "en": "if you give a smart agent made by one of these extraordinary large language models the sort of freedom to roam around and do what it wants.",
+      "zh": "如果你给一个由这些非凡大语言模型之一打造的智能体以四处行动、随心所欲的自由。"
+    },
+    {
+      "id": 230,
+      "startMs": 1446080,
+      "endMs": 1453920,
+      "en": "The nightmare scenario envisaged more than 20 years ago by an Oxford philosopher, Nick Bostrom, was called the Paperclip Scenario.",
+      "zh": "20多年前，牛津哲学家尼克·博斯特罗姆设想过一种噩梦般的情景，叫作“回形针情景”。"
+    },
+    {
+      "id": 231,
+      "startMs": 1454240,
+      "endMs": 1460800,
+      "en": "Say you told a bot that its only job was to make more paperclips and there would be no limit on what it could do.",
+      "zh": "假设你告诉一个机器人，它唯一的工作就是制造更多回形针，而且它可以不受任何限制。"
+    },
+    {
+      "id": 232,
+      "startMs": 1461200,
+      "endMs": 1466000,
+      "en": "It could end up deciding that humans would make decent paperclips—why not turn them into that?",
+      "zh": "它最后可能会认定，人类能制成不错的回形针——那为什么不把人变成回形针呢？"
+    },
+    {
+      "id": 233,
+      "startMs": 1466080,
+      "endMs": 1472960,
+      "en": "And it sounds trivial, but it is actually occupying quite a lot of headspace around the world as these models develop.",
+      "zh": "这听起来很荒唐，但随着这些模型发展，它实际上正让世界各地许多人费神思考。"
+    },
+    {
+      "id": 234,
+      "startMs": 1472960,
+      "endMs": 1477680,
+      "en": "And we're seeing a kind of live experiment without probably enough guardrails at the moment.",
+      "zh": "而我们眼下看到的，像是一场可能缺乏足够防护栏的实时实验。"
+    },
+    {
+      "id": 235,
+      "startMs": 1477840,
+      "endMs": 1486080,
+      "en": "On those guardrails, how are we getting on when it comes to teaching AI, I suppose, about morals and ethics,",
+      "zh": "说到这些防护栏，我们在教AI理解道德和伦理方面，我想，进展如何？"
+    },
+    {
+      "id": 236,
+      "startMs": 1486240,
+      "endMs": 1490560,
+      "en": "and the sort of thing that we approve of and the sort of thing that, you know, directions that they shouldn't go in?",
+      "zh": "也就是哪些事情是我们认可的，以及哪些事情——你知道，哪些方向是它们不该走的？"
+    },
+    {
+      "id": 237,
+      "startMs": 1490640,
+      "endMs": 1497360,
+      "en": "Well, the big companies, I suppose, are trying, but they've had to admit—the OpenAIs, the Anthropics of this world,",
+      "zh": "嗯，我想，大公司都在努力，但它们也不得不承认——比如OpenAI和Anthropic这些公司，"
+    },
+    {
+      "id": 238,
+      "startMs": 1497360,
+      "endMs": 1503860,
+      "en": "the leading players in this—that although they've attempted to put guardrails around their systems,",
+      "zh": "也就是这一领域的领军企业——尽管它们试图为自己的系统设置防护栏，"
+    },
+    {
+      "id": 239,
+      "startMs": 1504260,
+      "endMs": 1508900,
+      "en": "quite often the rules are broken and off these things roam, and they have to shut them down again.",
+      "zh": "规则却经常被突破，这些东西就此四处乱跑，最后公司又不得不把它们关掉。"
+    },
+    {
+      "id": 240,
+      "startMs": 1509220,
+      "endMs": 1516100,
+      "en": "What is more worrying is how little agreement there is at an international level now about how AI should be regulated.",
+      "zh": "更令人担忧的是，如今国际社会对于应如何监管AI几乎没有共识。"
+    },
+    {
+      "id": 241,
+      "startMs": 1516260,
+      "endMs": 1519380,
+      "en": "Europe's gone in quite tough, been criticised for it.",
+      "zh": "欧洲采取了相当强硬的做法，也因此受到批评。"
+    },
+    {
+      "id": 242,
+      "startMs": 1519700,
+      "endMs": 1525620,
+      "en": "America the opposite direction, the theory being there that in the battle with China, really anything goes.",
+      "zh": "美国则走向相反方向，那里的理论是，在与中国的竞争中，实际上可以不择手段。"
+    },
+    {
+      "id": 243,
+      "startMs": 1525940,
+      "endMs": 1531860,
+      "en": "Individual American states trying to do things, but no general agreement on a concerted approach",
+      "zh": "美国个别州正在尝试采取行动，但对于协调一致的做法并无总体共识，"
+    },
+    {
+      "id": 244,
+      "startMs": 1531860,
+      "endMs": 1536500,
+      "en": "to have some basic ground rules of the kind that you might have had with nuclear weapons and chemical weapons.",
+      "zh": "也无法像对待核武器和化学武器那样，制定一些基本规则。"
+    },
+    {
+      "id": 245,
+      "startMs": 1536740,
+      "endMs": 1542420,
+      "en": "Yeah, and if we go back to where we started, Rory, and right back to the grassroots and things like booking systems,",
+      "zh": "是的，罗里，如果回到我们最初谈的地方，回到最基层，回到预约系统之类的东西，"
+    },
+    {
+      "id": 246,
+      "startMs": 1542420,
+      "endMs": 1548820,
+      "en": "if people can build and create these AI assistants and they're using them already, will that inevitably lead to chaos?",
+      "zh": "如果人们能够打造这些AI助手，而且已经在使用它们，那是否必然会导致混乱？"
+    },
+    {
+      "id": 247,
+      "startMs": 1549060,
+      "endMs": 1554340,
+      "en": "There is the potential. I think the opposing argument to that is that will not be good commercially for the companies.",
+      "zh": "存在这种可能。我认为，反方观点是，这在商业上对企业没有好处。"
+    },
+    {
+      "id": 248,
+      "startMs": 1554340,
+      "endMs": 1560820,
+      "en": "If they are seen to be creating chaos, breaking rules, then that will invite much tougher regulation.",
+      "zh": "如果它们被认为在制造混乱、破坏规则，那就会招致严厉得多的监管。"
+    },
+    {
+      "id": 249,
+      "startMs": 1561140,
+      "endMs": 1564600,
+      "en": "And there are powerful voices in the tech world warning about this,",
+      "zh": "科技界也有一些很有影响力的人士对此发出警告，"
+    },
+    {
+      "id": 250,
+      "startMs": 1564840,
+      "endMs": 1574600,
+      "en": "recently from Sir Demis Hassabis, the sort of leading AI figure at Google DeepMind, about the need for more concerted thought about guardrails.",
+      "zh": "最近就有Google DeepMind的领军AI人物德米斯·哈萨比斯爵士，呼吁各方更协调地思考防护栏问题。"
+    },
+    {
+      "id": 251,
+      "startMs": 1575080,
+      "endMs": 1581240,
+      "en": "So there's a debate going on, and this kind of incident, although it sounds trivial, will highlight the need for more collaboration on this.",
+      "zh": "因此，争论仍在继续；这类事件虽然听起来微不足道，却会凸显各方在此问题上加强合作的必要性。"
+    },
+    {
+      "id": 252,
+      "startMs": 1581560,
+      "endMs": 1583400,
+      "en": "Rory Cellan-Jones.",
+      "zh": "罗里·塞兰-琼斯。"
+    },
+    {
+      "id": 253,
+      "startMs": 1585500,
+      "endMs": 1593020,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "本期节目到这里就结束了。如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 254,
+      "startMs": 1593820,
+      "endMs": 1599820,
+      "en": "This edition of the Global News Podcast was mixed by Jack Wilfan and the producer was Muzaffar Shafeer.",
+      "zh": "本期《全球新闻播客》由杰克·威尔凡完成混音，制片人是穆扎法尔·沙菲尔。"
+    },
+    {
+      "id": 255,
+      "startMs": 1600300,
+      "endMs": 1604700,
+      "en": "The editor is Karen Martin. I'm Jannat Jalil. Until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁。我是贾娜特·贾利勒。下次再见。"
+    }
+  ]
+}
