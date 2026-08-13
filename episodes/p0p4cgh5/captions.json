@@ -1,0 +1,2118 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "13 August 2026"
+  },
+  "durationMs": 1733180,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3520,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是英国广播公司国际频道的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5380,
+      "endMs": 11060,
+      "en": "I'm Valerie Sanderson, and at 15:00 GMT on Thursday, the 13th of August, these are our main stories.",
+      "zh": "我是瓦莱丽·桑德森。格林尼治标准时间8月13日星期四15点，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11460,
+      "endMs": 20100,
+      "en": "Palestinians say the Israeli military have evacuated several houses in a village in the West Bank, where Israeli settlers have been besieging Palestinian families.",
+      "zh": "巴勒斯坦人称，以色列军方疏散了约旦河西岸一个村庄的数座房屋；当地以色列定居者一直在围困巴勒斯坦家庭。"
+    },
+    {
+      "id": 4,
+      "startMs": 20660,
+      "endMs": 27460,
+      "en": "Russia's President Vladimir Putin visits an island claimed by Japan, drawing sharp criticism from Tokyo.",
+      "zh": "俄罗斯总统弗拉基米尔·普京访问一座日本声称拥有主权的岛屿，引发东京方面强烈批评。"
+    },
+    {
+      "id": 5,
+      "startMs": 28100,
+      "endMs": 33300,
+      "en": "Romania shuts down its only nuclear power plant because of low water levels in the Danube.",
+      "zh": "由于多瑙河水位过低，罗马尼亚关闭了国内唯一的核电站。"
+    },
+    {
+      "id": 6,
+      "startMs": 36140,
+      "endMs": 39420,
+      "en": "Also in this podcast: why vultures are becoming endangered.",
+      "zh": "本期播客还将探讨秃鹫为何日益濒危。"
+    },
+    {
+      "id": 7,
+      "startMs": 39820,
+      "endMs": 50140,
+      "en": "Hunting vultures to use them in what we call belief-based use, and that's the use for vultures in traditional medicine, or what we call voodoo.",
+      "zh": "人们猎捕秃鹫，用于所谓基于信仰的用途，也就是在传统医药或所谓巫术中使用秃鹫。"
+    },
+    {
+      "id": 8,
+      "startMs": 50700,
+      "endMs": 56620,
+      "en": "And Cameroon and Malawi make the final on Sunday of the Women's Africa Cup of Nations.",
+      "zh": "喀麦隆和马拉维将在周日的非洲女子国家杯决赛中相遇。"
+    },
+    {
+      "id": 9,
+      "startMs": 62000,
+      "endMs": 67360,
+      "en": "We begin the podcast in the occupied West Bank, in the village of Qusra, south of Nablus.",
+      "zh": "本期播客先从被占领的约旦河西岸说起，地点是纳布卢斯以南的库斯拉村。"
+    },
+    {
+      "id": 10,
+      "startMs": 67760,
+      "endMs": 76640,
+      "en": "There have been growing tensions there all week after a group of illegal Israeli settlers surrounded the residential compound of two Palestinian families on Sunday,",
+      "zh": "一群非法以色列定居者周日包围两个巴勒斯坦家庭的住宅院落后，当地一周来局势日益紧张，"
+    },
+    {
+      "id": 11,
+      "startMs": 77040,
+      "endMs": 78880,
+      "en": "blocking the entrance and exit.",
+      "zh": "并封锁了出入口。"
+    },
+    {
+      "id": 12,
+      "startMs": 79280,
+      "endMs": 83520,
+      "en": "The families told us the settlers had cut off their electricity and water supply.",
+      "zh": "这些家庭告诉我们，定居者切断了他们的水电供应。"
+    },
+    {
+      "id": 13,
+      "startMs": 84160,
+      "endMs": 93600,
+      "en": "Additional Israeli forces have been sent to remove Israeli settlers today, and the soldiers reportedly have told about a dozen Palestinian households to leave their properties.",
+      "zh": "今天，以色列增派部队驱离定居者；据报道，士兵已要求约十二户巴勒斯坦家庭离开其住所。"
+    },
+    {
+      "id": 14,
+      "startMs": 94160,
+      "endMs": 100720,
+      "en": "One of those evacuated is Qusay Abu Rida. His brother, who owns the property, is Palestinian-American.",
+      "zh": "被疏散者之一是库赛·阿布·里达。房产所有者是他的兄弟，一名巴勒斯坦裔美国人。"
+    },
+    {
+      "id": 15,
+      "startMs": 101460,
+      "endMs": 109140,
+      "en": "The army came to us and told me, ‘You have half an hour to take the belongings you need and leave the house.’",
+      "zh": "军队来到我们这里，对我说：“你有半小时拿走需要的物品并离开房子。”"
+    },
+    {
+      "id": 16,
+      "startMs": 109540,
+      "endMs": 111460,
+      "en": "I asked him, ‘What do you mean, leave the house?’",
+      "zh": "我问他：“你说离开房子是什么意思？”"
+    },
+    {
+      "id": 17,
+      "startMs": 111860,
+      "endMs": 115860,
+      "en": "He replied, ‘There's a military order here from the Central Command officer who's with us.",
+      "zh": "他回答：“同行的中央司令部军官带来了军事命令。"
+    },
+    {
+      "id": 18,
+      "startMs": 116420,
+      "endMs": 120500,
+      "en": "Your house and Yasser's house are among the homes that we want to turn into military posts.’",
+      "zh": "你家和亚西尔家都在我们准备改为军事哨所的房屋之列。”"
+    },
+    {
+      "id": 19,
+      "startMs": 121060,
+      "endMs": 122980,
+      "en": "They left us Rezeq's house, who's Yasser's brother.",
+      "zh": "他们把亚西尔兄弟里泽克的房子留给了我们。"
+    },
+    {
+      "id": 20,
+      "startMs": 123700,
+      "endMs": 125940,
+      "en": "His house is one of the homes that had been under siege.",
+      "zh": "他的房子也是此前遭围困的住宅之一。"
+    },
+    {
+      "id": 21,
+      "startMs": 126500,
+      "endMs": 135620,
+      "en": "A woman who asked us not to use her name was visiting one of the houses at the center of the story just before the siege of the property by Israeli settlers began.",
+      "zh": "一名要求匿名的女子在以色列定居者开始围困前，正在事件中心的一座房屋中做客。"
+    },
+    {
+      "id": 22,
+      "startMs": 136100,
+      "endMs": 141460,
+      "en": "She described how the IDF evacuated the families from the compound earlier on Thursday.",
+      "zh": "她讲述了以色列国防军周四早些时候如何疏散院落内的家庭。"
+    },
+    {
+      "id": 23,
+      "startMs": 141940,
+      "endMs": 148740,
+      "en": "At around maybe 8:39 in the morning, we have all been waking up very abruptly from the military.",
+      "zh": "大概早上8点39分，我们所有人都被军队突然惊醒。"
+    },
+    {
+      "id": 24,
+      "startMs": 149060,
+      "endMs": 161140,
+      "en": "At least 10, 15 militaries were standing in front of the house, and they asked us to evacuate the house in 30 minutes, and we have been moved to another house inside the gate.",
+      "zh": "至少有十到十五名军人站在房子前，要求我们在30分钟内撤离；我们随后被转移到大门内的另一座房子。"
+    },
+    {
+      "id": 25,
+      "startMs": 161640,
+      "endMs": 165960,
+      "en": "There has been no, no arrest whatsoever of settlers,",
+      "zh": "定居者完全没有人被捕，一个也没有，"
+    },
+    {
+      "id": 26,
+      "startMs": 165960,
+      "endMs": 176120,
+      "en": "and now from the house we can still see at least ten of them still harassing us and patrolling the house outside, without the army doing anything about it.",
+      "zh": "现在从房子里仍能看到至少十人在骚扰我们、在屋外巡逻，军队却没有采取任何行动。"
+    },
+    {
+      "id": 27,
+      "startMs": 176760,
+      "endMs": 183000,
+      "en": "David Mencer is a spokesman for the Israeli Prime Minister's Office. He says arrests will take place.",
+      "zh": "戴维·门瑟是以色列总理办公室发言人。他表示将会有人被捕。"
+    },
+    {
+      "id": 28,
+      "startMs": 183320,
+      "endMs": 188440,
+      "en": "We don't condone violence against innocent people. We're a country of law and order.",
+      "zh": "我们不纵容针对无辜民众的暴力。我们是一个讲法律和秩序的国家。"
+    },
+    {
+      "id": 29,
+      "startMs": 188920,
+      "endMs": 194360,
+      "en": "Where there is wrongdoing, we act against it, and we investigate it, and we arrest those responsible.",
+      "zh": "哪里有违法行为，我们就会采取行动、展开调查并逮捕责任人。"
+    },
+    {
+      "id": 30,
+      "startMs": 194440,
+      "endMs": 205880,
+      "en": "What here is so often missing from this discussion is that these crimes—and they are crimes—they're committed by a tiny extremist minority, maybe only 150 in number.",
+      "zh": "讨论中经常忽略的是，这些罪行——它们确实是罪行——由极少数极端分子实施，人数可能只有150人。"
+    },
+    {
+      "id": 31,
+      "startMs": 206120,
+      "endMs": 209800,
+      "en": "They're juvenile delinquents. Very often, they're not even from the area.",
+      "zh": "他们是少年违法者，往往甚至并非来自当地。"
+    },
+    {
+      "id": 32,
+      "startMs": 210440,
+      "endMs": 217080,
+      "en": "The American ambassador to Israel, Mike Huckabee, has described the group of settlers involved as Israeli terrorists.",
+      "zh": "美国驻以色列大使迈克·赫卡比将涉事定居者称为“以色列恐怖分子”。"
+    },
+    {
+      "id": 33,
+      "startMs": 217480,
+      "endMs": 221560,
+      "en": "He wrote on social media that there was no excuse for such thuggish behavior.",
+      "zh": "他在社交媒体上写道，这种暴徒行径没有任何借口。"
+    },
+    {
+      "id": 34,
+      "startMs": 222220,
+      "endMs": 226700,
+      "en": "Our correspondent Jon Donnison is in the village of Qusra and spoke to Rebecca Kesby.",
+      "zh": "本台记者乔恩·唐尼森身在库斯拉村，并接受了丽贝卡·凯斯比的采访。"
+    },
+    {
+      "id": 35,
+      "startMs": 227100,
+      "endMs": 234860,
+      "en": "The Israeli army, overnight, they went in with bulldozers and they demolished this small outpost, I guess tent encampment,",
+      "zh": "以色列军队夜间带着推土机进入，拆除了这座小型前哨——我想就是一处帐篷营地，"
+    },
+    {
+      "id": 36,
+      "startMs": 234860,
+      "endMs": 240860,
+      "en": "that these settlers had set up close to these Palestinian houses, which still remain under siege.",
+      "zh": "这是定居者在这些仍遭围困的巴勒斯坦房屋附近搭建的。"
+    },
+    {
+      "id": 37,
+      "startMs": 240860,
+      "endMs": 251740,
+      "en": "The soldiers then went inside the houses, and we've spoken to the families inside, and they told us that they were all moved from two of the houses into a third house.",
+      "zh": "士兵随后进入房屋。我们采访了里面的家庭，他们说所有人都从两座房子转移到了第三座房子。"
+    },
+    {
+      "id": 38,
+      "startMs": 251740,
+      "endMs": 255100,
+      "en": "So the families are all now in one house.",
+      "zh": "因此，这些家庭现在全都住在一座房子里。"
+    },
+    {
+      "id": 39,
+      "startMs": 255420,
+      "endMs": 265020,
+      "en": "They haven't been told to leave entirely yet, but that is what they fear, and they still say that they are low on water.",
+      "zh": "他们尚未被要求彻底离开，但这正是他们所担心的；他们还说水快用完了。"
+    },
+    {
+      "id": 40,
+      "startMs": 265020,
+      "endMs": 270780,
+      "en": "I think the electricity, certainly if it's not cut off for the moment, it's been cut off for much of the last few days.",
+      "zh": "至于电力，我想即便此刻没有断电，过去几天的大部分时间也一直被切断。"
+    },
+    {
+      "id": 41,
+      "startMs": 270940,
+      "endMs": 274940,
+      "en": "At the same time, we've just been down into Qusra village itself.",
+      "zh": "与此同时，我们刚刚下到库斯拉村内。"
+    },
+    {
+      "id": 42,
+      "startMs": 275100,
+      "endMs": 280940,
+      "en": "We spoke to a guy who was one of about eleven families who, this morning,",
+      "zh": "我们采访了一名男子，他属于约十一户家庭之一。今天早上，"
+    },
+    {
+      "id": 43,
+      "startMs": 280940,
+      "endMs": 291520,
+      "en": "the Israeli soldiers went in, simply went into their houses, told them to get out, and they have seized those houses for a period of several hours.",
+      "zh": "以色列士兵直接进入他们家中，命令他们出去，并占用这些房屋数小时。"
+    },
+    {
+      "id": 44,
+      "startMs": 291520,
+      "endMs": 298160,
+      "en": "They were told, but still they've not been allowed back in, so they have taken over those houses for what they said were military purposes.",
+      "zh": "他们被告知只会占用数小时，但至今仍未获准返回；军方称接管这些房屋是出于军事目的。"
+    },
+    {
+      "id": 45,
+      "startMs": 298240,
+      "endMs": 306560,
+      "en": "It was also quite interesting that Mr Mencer said that there will be arrests of these illegal settlers, but there is no sign that that's happened at all yet.",
+      "zh": "值得注意的是，门瑟先生说这些非法定居者将被逮捕，但目前完全没有迹象表明逮捕已经发生。"
+    },
+    {
+      "id": 46,
+      "startMs": 307040,
+      "endMs": 311760,
+      "en": "No, I did hear reports that perhaps one settler had been arrested overnight,",
+      "zh": "不，我确实听到报道称，也许有一名定居者夜间被捕，"
+    },
+    {
+      "id": 47,
+      "startMs": 312080,
+      "endMs": 320240,
+      "en": "but the truth is that prosecutions, given the number of incidents, successful prosecutions are very, very rare.",
+      "zh": "但事实是，相对于事件数量，成功起诉极其罕见。"
+    },
+    {
+      "id": 48,
+      "startMs": 320320,
+      "endMs": 333200,
+      "en": "And the accusation from the United Nations, from human rights groups, from Palestinians, is that the Israeli military allows settlers to act with impunity,",
+      "zh": "联合国、人权团体和巴勒斯坦人指控，以色列军方纵容定居者逍遥法外，"
+    },
+    {
+      "id": 49,
+      "startMs": 333280,
+      "endMs": 338320,
+      "en": "with the backing of far-right ministers within Israel's government,",
+      "zh": "而以色列政府中的极右翼部长在为其撑腰，"
+    },
+    {
+      "id": 50,
+      "startMs": 338480,
+      "endMs": 348180,
+      "en": "who not only don't condemn these sorts of actions, but they actively are accused of encouraging them and inciting such violence.",
+      "zh": "这些部长不仅不谴责此类行为，还被指积极鼓励并煽动这种暴力。"
+    },
+    {
+      "id": 51,
+      "startMs": 348180,
+      "endMs": 356340,
+      "en": "And I think what's important to remember here, and clearly the line from the Prime Minister's Office and from Ambassador Huckabee, the US ambassador, is",
+      "zh": "我认为必须记住，总理办公室和美国大使赫卡比的明确说法是，"
+    },
+    {
+      "id": 52,
+      "startMs": 356500,
+      "endMs": 359700,
+      "en": "that these are a few extremists, a few bad apples.",
+      "zh": "这只是少数极端分子、几颗坏苹果。"
+    },
+    {
+      "id": 53,
+      "startMs": 360020,
+      "endMs": 366420,
+      "en": "But certainly, you know, Mike Huckabee and the Israeli government support the settler project more broadly.",
+      "zh": "但当然，你知道，迈克·赫卡比和以色列政府在更广泛层面支持定居点计划。"
+    },
+    {
+      "id": 54,
+      "startMs": 366500,
+      "endMs": 369780,
+      "en": "And just—this is just one outpost that's been dismantled today.",
+      "zh": "而今天拆除的仅仅是一个前哨。"
+    },
+    {
+      "id": 55,
+      "startMs": 369780,
+      "endMs": 375780,
+      "en": "As it happens, in Jenin, a big Palestinian city to the north of here, today a whole new settlement has been opened.",
+      "zh": "与此同时，就在北面的巴勒斯坦大城市杰宁，今天一座全新的定居点投入使用。"
+    },
+    {
+      "id": 56,
+      "startMs": 375940,
+      "endMs": 377860,
+      "en": "Jon Donnison in the village of Qusra.",
+      "zh": "乔恩·唐尼森在库斯拉村报道。"
+    },
+    {
+      "id": 57,
+      "startMs": 378340,
+      "endMs": 380900,
+      "en": "And we'll have more on this story on our YouTube channel.",
+      "zh": "我们的YouTube频道将带来这一事件的更多内容。"
+    },
+    {
+      "id": 58,
+      "startMs": 380980,
+      "endMs": 386340,
+      "en": "Just search for BBC News on YouTube and you'll find the Global News Podcast in the podcast section.",
+      "zh": "只需在YouTube搜索BBC News，即可在播客专区找到《全球新闻播客》。"
+    },
+    {
+      "id": 59,
+      "startMs": 386660,
+      "endMs": 388820,
+      "en": "There's a new story available every weekday.",
+      "zh": "每个工作日都会更新一篇新报道。"
+    },
+    {
+      "id": 60,
+      "startMs": 389220,
+      "endMs": 394340,
+      "en": "The Kuril Islands have been a bone of contention between Japan and Russia for more than 150 years.",
+      "zh": "150多年来，千岛群岛一直是日本与俄罗斯之间的争议焦点。"
+    },
+    {
+      "id": 61,
+      "startMs": 394740,
+      "endMs": 400580,
+      "en": "Since the end of the Second World War, the island chain has been completely under Soviet and later Russian control.",
+      "zh": "自第二次世界大战结束以来，这一岛链一直完全处于苏联、后来是俄罗斯的控制之下。"
+    },
+    {
+      "id": 62,
+      "startMs": 401140,
+      "endMs": 411160,
+      "en": "Moscow maintains a military presence there, but Japan claims as its own the three southernmost islands, including Iturup, as well as a few smaller, uninhabited ones.",
+      "zh": "莫斯科在当地驻有军队，但日本声称最南端的三座岛屿——包括伊图鲁普岛——以及另外几座较小的无人岛属于日本。"
+    },
+    {
+      "id": 63,
+      "startMs": 411640,
+      "endMs": 417080,
+      "en": "That's why a visit by the Russian President Vladimir Putin to Iturup has caused anger in Tokyo.",
+      "zh": "因此，俄罗斯总统弗拉基米尔·普京访问伊图鲁普岛引发东京方面愤怒。"
+    },
+    {
+      "id": 64,
+      "startMs": 417720,
+      "endMs": 422680,
+      "en": "Our reporter in Tokyo, Kurumi Mori, told me more about the visit and the controversy it's caused.",
+      "zh": "本台驻东京记者森久留美进一步介绍了此次访问及其引发的争议。"
+    },
+    {
+      "id": 65,
+      "startMs": 423000,
+      "endMs": 432760,
+      "en": "President Putin visited one of the four Russian-held islands that Japan also claims. It's located off the coast of Japan's most northern prefecture of Hokkaido.",
+      "zh": "普京总统访问了俄罗斯控制、而日本也声称拥有主权的四岛之一。该岛位于日本最北端的北海道近海。"
+    },
+    {
+      "id": 66,
+      "startMs": 433160,
+      "endMs": 437320,
+      "en": "Russian media reports showed Putin walking around in a dark suit.",
+      "zh": "俄罗斯媒体报道画面显示，普京身穿深色西装四处走动。"
+    },
+    {
+      "id": 67,
+      "startMs": 437320,
+      "endMs": 444120,
+      "en": "He's inspecting some fish, and visited a seafood-processing facility, and tasted some local fish roe.",
+      "zh": "他查看了一些鱼，参观海产品加工设施，还品尝了当地鱼子。"
+    },
+    {
+      "id": 68,
+      "startMs": 444520,
+      "endMs": 454120,
+      "en": "Now, Japan and Russia never signed a formal Second World War peace treaty, so it remains this unresolved territorial dispute over the islands.",
+      "zh": "日本与俄罗斯从未签署正式的二战和平条约，因此围绕这些岛屿的领土争端一直悬而未决。"
+    },
+    {
+      "id": 69,
+      "startMs": 454440,
+      "endMs": 461960,
+      "en": "I want to point out, in 2018, then Japanese Prime Minister Shinzo Abe and Putin did engage in peace treaty negotiations.",
+      "zh": "需要指出的是，2018年，时任日本首相安倍晋三确实曾与普京展开和平条约谈判。"
+    },
+    {
+      "id": 70,
+      "startMs": 461580,
+      "endMs": 470780,
+      "en": "They did try to discuss this, but it never really materialized into any sort of treaty, and since then there hasn't been any progress.",
+      "zh": "双方确实讨论过这一问题，但最终没有形成任何条约，此后也没有取得进展。"
+    },
+    {
+      "id": 71,
+      "startMs": 470860,
+      "endMs": 474140,
+      "en": "Apart from voicing anger, though, what can Japan actually do?",
+      "zh": "不过，除了表达愤怒，日本实际上还能做什么？"
+    },
+    {
+      "id": 72,
+      "startMs": 474460,
+      "endMs": 476140,
+      "en": "That's the thing. Not much.",
+      "zh": "问题就在这里：能做的不多。"
+    },
+    {
+      "id": 73,
+      "startMs": 476220,
+      "endMs": 479580,
+      "en": "They can, as they did, issue a statement in response to the visit.",
+      "zh": "他们可以像这次一样，针对访问发表声明。"
+    },
+    {
+      "id": 74,
+      "startMs": 479820,
+      "endMs": 482540,
+      "en": "Foreign Minister Toshimitsu Motegi did so.",
+      "zh": "外相茂木敏充就这样做了。"
+    },
+    {
+      "id": 75,
+      "startMs": 482540,
+      "endMs": 492940,
+      "en": "He said Japan strongly protests the visit, and that the Northern Territories, as Japan calls them, are Japan's inherent territories, both historically and under international law.",
+      "zh": "他表示日本强烈抗议此次访问，并称日本所谓的“北方领土”无论从历史上还是国际法上看，都是日本固有领土。"
+    },
+    {
+      "id": 76,
+      "startMs": 493180,
+      "endMs": 501900,
+      "en": "We just heard a short while ago from Prime Minister Sanae Takaichi. She was speaking to reporters at the Prime Minister's Office, criticizing Putin's visit.",
+      "zh": "不久前我们刚听到高市早苗首相在首相官邸向记者讲话，批评普京的访问。"
+    },
+    {
+      "id": 77,
+      "startMs": 502140,
+      "endMs": 511740,
+      "en": "The Northern Territories are an inherent part of Japan's territory, both historically and under international law.",
+      "zh": "北方领土无论从历史上还是国际法上看，都是日本固有领土的一部分。"
+    },
+    {
+      "id": 78,
+      "startMs": 512140,
+      "endMs": 521900,
+      "en": "This latest visit to Etorofu Island by the Russian President is incompatible with Japan's consistent position regarding the Northern Territories.",
+      "zh": "俄罗斯总统最近访问择捉岛，与日本在北方领土问题上的一贯立场不相容。"
+    },
+    {
+      "id": 79,
+      "startMs": 521600,
+      "endMs": 528080,
+      "en": "It also hurts the feelings of the Japanese people and is absolutely unacceptable.",
+      "zh": "这也伤害了日本国民的感情，绝对不可接受。"
+    },
+    {
+      "id": 80,
+      "startMs": 528240,
+      "endMs": 533920,
+      "en": "She also said that it has made medium- to longer-term relations with Russia more difficult.",
+      "zh": "她还表示，这使日本与俄罗斯的中长期关系变得更加困难。"
+    },
+    {
+      "id": 81,
+      "startMs": 534320,
+      "endMs": 536960,
+      "en": "I mean, apart from that, I guess Japan can also find allies.",
+      "zh": "除此之外，我想日本也可以寻找盟友。"
+    },
+    {
+      "id": 82,
+      "startMs": 537040,
+      "endMs": 540720,
+      "en": "The US supports Japan's stance on the islands,",
+      "zh": "美国支持日本对这些岛屿的立场，"
+    },
+    {
+      "id": 83,
+      "startMs": 540960,
+      "endMs": 549200,
+      "en": "and to Russia that's been a threat, as Moscow sees the US presence, for example, on these islands, which are geographically very close to Russia, as a threat.",
+      "zh": "而俄罗斯将此视为威胁，因为莫斯科认为美国若出现在这些地理上非常接近俄罗斯的岛屿上会构成威胁。"
+    },
+    {
+      "id": 84,
+      "startMs": 549440,
+      "endMs": 556640,
+      "en": "I suppose there's lots of theories about why Vladimir Putin has chosen to make his first-ever visit to these islands now.",
+      "zh": "关于弗拉基米尔·普京为何选择此时首次访问这些岛屿，我想有很多种说法。"
+    },
+    {
+      "id": 85,
+      "startMs": 557200,
+      "endMs": 563920,
+      "en": "Yeah, you know, the timing is interesting. I mean, Japan has been supporting Ukraine. That could be a reason.",
+      "zh": "是的，你知道，时机很耐人寻味。日本一直支持乌克兰，这可能是一个原因。"
+    },
+    {
+      "id": 86,
+      "startMs": 564080,
+      "endMs": 573040,
+      "en": "We should also note the timing is significant because this comes two days before August 15th, which marks Japan's surrender in World War II.",
+      "zh": "还应注意到，此次访问发生在8月15日的两天前；这一天是日本在第二次世界大战中投降的纪念日。"
+    },
+    {
+      "id": 87,
+      "startMs": 573040,
+      "endMs": 580160,
+      "en": "So, given the context of these islands and the Second World War, it gives this visit some additional weight.",
+      "zh": "因此，考虑到这些岛屿和二战背景，此次访问又多了一层分量。"
+    },
+    {
+      "id": 88,
+      "startMs": 580160,
+      "endMs": 585620,
+      "en": "I mean, it is quite complicated when it comes to the validity of Japan's claim and Russia's claim,",
+      "zh": "日本与俄罗斯的主张究竟是否成立相当复杂，"
+    },
+    {
+      "id": 89,
+      "startMs": 585620,
+      "endMs": 594420,
+      "en": "because from Japan's perspective, it goes way back to 1855. That's when the islands peacefully became Japanese territory.",
+      "zh": "因为按照日本的说法，问题可追溯到1855年，当时这些岛屿和平成为日本领土。"
+    },
+    {
+      "id": 90,
+      "startMs": 594500,
+      "endMs": 605060,
+      "en": "When Japan, the Edo Shogunate, and Russia signed their first treaty, both sides mutually recognized them as inherent Japanese territory.",
+      "zh": "当时日本的江户幕府与俄罗斯签署双方首份条约，彼此确认这些岛屿为日本固有领土。"
+    },
+    {
+      "id": 91,
+      "startMs": 605060,
+      "endMs": 610260,
+      "en": "But just before the end of World War II, the Soviet Union, now Russia, broke that treaty and declared war.",
+      "zh": "但就在二战结束前，苏联——即今天的俄罗斯——撕毁该条约并宣战。"
+    },
+    {
+      "id": 92,
+      "startMs": 610500,
+      "endMs": 619780,
+      "en": "So after Japan's surrender, the Soviet army occupied all four northern islands, and Moscow views that as a legitimate outcome of that global conflict.",
+      "zh": "日本投降后，苏联军队占领全部四座北方岛屿；莫斯科认为这是那场世界大战的合法结果。"
+    },
+    {
+      "id": 93,
+      "startMs": 619780,
+      "endMs": 625140,
+      "en": "So it brings us to today, and just a couple of days before the 15th of August.",
+      "zh": "于是时间来到今天，距离8月15日只有两天。"
+    },
+    {
+      "id": 94,
+      "startMs": 625140,
+      "endMs": 626740,
+      "en": "Kurumi Mori in Tokyo.",
+      "zh": "森久留美在东京报道。"
+    },
+    {
+      "id": 95,
+      "startMs": 627380,
+      "endMs": 632500,
+      "en": "Elections are underway in Zambia, a country regarded as one of Africa's most stable democracies.",
+      "zh": "赞比亚正在举行选举，这个国家被视为非洲最稳定的民主国家之一。"
+    },
+    {
+      "id": 96,
+      "startMs": 632900,
+      "endMs": 641380,
+      "en": "Despite this stability and the fact that it's the continent's second-largest producer of copper, more than 70% of the population live on less than $3 a day.",
+      "zh": "尽管政局稳定，而且赞比亚是非洲第二大铜生产国，但超过70%的人口每天生活费不足3美元。"
+    },
+    {
+      "id": 97,
+      "startMs": 642280,
+      "endMs": 644200,
+      "en": "That's according to data from the World Bank.",
+      "zh": "这是世界银行的数据。"
+    },
+    {
+      "id": 98,
+      "startMs": 644760,
+      "endMs": 648120,
+      "en": "Our reporter, Dingindaba Jonah Buyoya, gave me this update.",
+      "zh": "本台记者丁因达巴·乔纳·布约亚介绍了最新情况。"
+    },
+    {
+      "id": 99,
+      "startMs": 648520,
+      "endMs": 650520,
+      "en": "The voting seems to be going on well.",
+      "zh": "投票似乎进展顺利。"
+    },
+    {
+      "id": 100,
+      "startMs": 650600,
+      "endMs": 657240,
+      "en": "A lot of the polling stations started at 6 a.m., which is the designated voting time for voting to start.",
+      "zh": "许多投票站早上6点开始投票，这也是规定的投票开始时间。"
+    },
+    {
+      "id": 101,
+      "startMs": 657640,
+      "endMs": 666040,
+      "en": "A lot of people have turned out to vote, which was a concern for several analysts, that some people may not turn out to vote.",
+      "zh": "许多人前来投票；此前一些分析人士曾担心部分选民可能不会出门投票。"
+    },
+    {
+      "id": 102,
+      "startMs": 666040,
+      "endMs": 669480,
+      "en": "But the voter turnout seems quite decent at this time.",
+      "zh": "但目前看来，投票率相当不错。"
+    },
+    {
+      "id": 103,
+      "startMs": 670040,
+      "endMs": 673240,
+      "en": "The president is seeking a second term, isn't he?",
+      "zh": "总统正在寻求第二个任期，对吧？"
+    },
+    {
+      "id": 104,
+      "startMs": 673720,
+      "endMs": 677640,
+      "en": "What about his main rivals? Or indeed, there is one main rival, isn't there?",
+      "zh": "他的主要对手情况如何？准确地说，是有一位主要对手，对吧？"
+    },
+    {
+      "id": 105,
+      "startMs": 678200,
+      "endMs": 679480,
+      "en": "Yeah, there is one main rival.",
+      "zh": "是的，有一位主要对手。"
+    },
+    {
+      "id": 106,
+      "startMs": 679560,
+      "endMs": 691080,
+      "en": "The election has 14 presidential candidates, but there is one main challenger, Brian Mundubile, who is a first-time presidential candidate.",
+      "zh": "本次选举有14名总统候选人，但主要挑战者只有一位，即首次参选总统的布赖恩·蒙杜比莱。"
+    },
+    {
+      "id": 107,
+      "startMs": 691160,
+      "endMs": 698680,
+      "en": "He served as a member of parliament and opposition whip in the previous government, and was also a minister in the previous government,",
+      "zh": "他曾任议会议员和反对党党鞭，也曾在上一届政府中担任部长，"
+    },
+    {
+      "id": 108,
+      "startMs": 699000,
+      "endMs": 700760,
+      "en": "and is now challenging for the presidency.",
+      "zh": "如今正在角逐总统职位。"
+    },
+    {
+      "id": 109,
+      "startMs": 700760,
+      "endMs": 705420,
+      "en": "He's an ally of the former president of Zambia, Edgar Lungu, who died last year.",
+      "zh": "他是赞比亚前总统埃德加·伦古的盟友；伦古于去年去世。"
+    },
+    {
+      "id": 110,
+      "startMs": 705820,
+      "endMs": 712060,
+      "en": "And a lot of the base support that he has at the moment is coming from the former president's supporters,",
+      "zh": "他目前相当一部分基本盘来自前总统的支持者，"
+    },
+    {
+      "id": 111,
+      "startMs": 712140,
+      "endMs": 720460,
+      "en": "the northern side of Zambia, which happens to be their stronghold, and the southern side being the stronghold of the incumbent.",
+      "zh": "赞比亚北部恰好是他们的票仓，而南部则是现任总统的票仓。"
+    },
+    {
+      "id": 112,
+      "startMs": 721020,
+      "endMs": 722780,
+      "en": "And what about the incumbent's record?",
+      "zh": "那么现任总统的政绩如何？"
+    },
+    {
+      "id": 113,
+      "startMs": 723260,
+      "endMs": 732860,
+      "en": "The incumbent president, Hakainde Hichilema, is seeking re-election, and his argument has been that his government has improved economic performance.",
+      "zh": "现任总统哈凯恩德·希奇莱马正在寻求连任，他主张自己的政府改善了经济表现。"
+    },
+    {
+      "id": 114,
+      "startMs": 732860,
+      "endMs": 736700,
+      "en": "Inflation has dropped from around 20% to now 6.5%.",
+      "zh": "通货膨胀率已从约20%降至目前的6.5%。"
+    },
+    {
+      "id": 115,
+      "startMs": 737260,
+      "endMs": 747660,
+      "en": "They say they've restructured the country's debt, and, as we may know, Zambia had been dealing with high debt levels, and it restructured around $13 billion.",
+      "zh": "政府称已经重组国家债务；众所周知，赞比亚一直面临高额债务，并重组了约130亿美元债务。"
+    },
+    {
+      "id": 116,
+      "startMs": 747740,
+      "endMs": 755500,
+      "en": "But that's also, interestingly, the argument by the opposition as well: that while these larger parts of the economy have been dealt with,",
+      "zh": "有意思的是，反对党也以此提出批评：尽管这些宏观经济问题得到了处理，"
+    },
+    {
+      "id": 117,
+      "startMs": 755740,
+      "endMs": 763520,
+      "en": "people still complain of a high cost of living, which they believe the incumbent has been unable to deal with.",
+      "zh": "民众仍在抱怨生活成本高企，并认为现任总统未能解决这一问题。"
+    },
+    {
+      "id": 118,
+      "startMs": 763760,
+      "endMs": 775520,
+      "en": "The incumbent has voted in the election already, and he has called for citizens to remain peaceful and uphold the country's legacy of holding peaceful and democratic elections.",
+      "zh": "现任总统已经投票，并呼吁公民保持和平，维护国家举行和平、民主选举的传统。"
+    },
+    {
+      "id": 119,
+      "startMs": 775920,
+      "endMs": 779760,
+      "en": "And do you think the economy is the main concern for voters?",
+      "zh": "你认为经济是选民最关心的问题吗？"
+    },
+    {
+      "id": 120,
+      "startMs": 780320,
+      "endMs": 782320,
+      "en": "Probably the biggest issue in this election.",
+      "zh": "这可能是本次选举中最大的问题。"
+    },
+    {
+      "id": 121,
+      "startMs": 782320,
+      "endMs": 785760,
+      "en": "The issues coming out of there have to do with the cost of living.",
+      "zh": "当地反映出的问题都与生活成本有关。"
+    },
+    {
+      "id": 122,
+      "startMs": 785920,
+      "endMs": 793680,
+      "en": "A lot of the Zambians that I have had the chance to talk to say they have seen the discussions around improved inflation,",
+      "zh": "许多接受我采访的赞比亚人说，他们看到了有关改善通胀的讨论，"
+    },
+    {
+      "id": 123,
+      "startMs": 793680,
+      "endMs": 799520,
+      "en": "improved debt restructuring and the introduction of free education.",
+      "zh": "还包括改善债务重组和实行免费教育。"
+    },
+    {
+      "id": 124,
+      "startMs": 799520,
+      "endMs": 804720,
+      "en": "But they say that the cost of their commodities keeps increasing and they are unable to afford it.",
+      "zh": "但他们说，商品价格不断上涨，自己已经负担不起。"
+    },
+    {
+      "id": 125,
+      "startMs": 804800,
+      "endMs": 807200,
+      "en": "There's also an issue around young people and employment.",
+      "zh": "年轻人和就业也是一个问题。"
+    },
+    {
+      "id": 126,
+      "startMs": 807520,
+      "endMs": 809760,
+      "en": "This has been a major talking point as well.",
+      "zh": "这也是一个主要议题。"
+    },
+    {
+      "id": 127,
+      "startMs": 810080,
+      "endMs": 819120,
+      "en": "The opposition are also saying that they feel like their democratic rights and freedom of expression have been limited.",
+      "zh": "反对党还表示，他们认为自身的民主权利和言论自由受到了限制。"
+    },
+    {
+      "id": 128,
+      "startMs": 819440,
+      "endMs": 824100,
+      "en": "And this is one of the talking points that they have been using to campaign throughout this period.",
+      "zh": "这也是他们在整个竞选期间一直使用的议题之一。"
+    },
+    {
+      "id": 129,
+      "startMs": 824900,
+      "endMs": 826660,
+      "en": "Dingindaba Jonah Buyoya.",
+      "zh": "丁因达巴·乔纳·布约亚报道。"
+    },
+    {
+      "id": 130,
+      "startMs": 826660,
+      "endMs": 834820,
+      "en": "A United Nations-backed multinational force in Haiti has begun its first major deployment outside the capital, Port-au-Prince.",
+      "zh": "一支得到联合国支持的海地多国部队，开始在首都太子港以外进行首次大规模部署。"
+    },
+    {
+      "id": 131,
+      "startMs": 835380,
+      "endMs": 842660,
+      "en": "The troops were sent to the Caribbean island nation to fight armed gangs who are terrorising large parts of Haiti, as Camilla Mills reports.",
+      "zh": "这些部队被派往这个加勒比岛国，打击在海地大片地区制造恐怖的武装帮派。卡米拉·米尔斯报道。"
+    },
+    {
+      "id": 132,
+      "startMs": 843140,
+      "endMs": 851860,
+      "en": "Sri Lankan troops have been sent to the central Artibonite region, where armed groups have expanded their control and carried out a series of deadly attacks.",
+      "zh": "斯里兰卡部队已被派往海地中部的阿蒂博尼特地区；当地武装团体扩大了控制范围，并发动了一系列致命袭击。"
+    },
+    {
+      "id": 133,
+      "startMs": 852020,
+      "endMs": 863060,
+      "en": "Artibonite is one of Haiti's most important agricultural areas, and growing insecurity there has disrupted communities already facing severe food shortages and displacement.",
+      "zh": "阿蒂博尼特是海地最重要的农业区之一；不断恶化的治安局势冲击了本已面临严重粮食短缺和流离失所问题的社区。"
+    },
+    {
+      "id": 134,
+      "startMs": 863380,
+      "endMs": 871140,
+      "en": "The Gang Suppression Force was authorised by the UN Security Council last year to replace an underfunded Kenyan-led mission,",
+      "zh": "联合国安全理事会去年授权成立“帮派镇压部队”，以取代资金不足、由肯尼亚主导的任务，"
+    },
+    {
+      "id": 135,
+      "startMs": 871300,
+      "endMs": 873540,
+      "en": "which struggled to contain the gangs.",
+      "zh": "后者一直难以遏制帮派势力。"
+    },
+    {
+      "id": 136,
+      "startMs": 873780,
+      "endMs": 880340,
+      "en": "The new force is intended to support Haitian police in retaking territory and improving security.",
+      "zh": "新部队旨在支持海地警方夺回领土并改善治安。"
+    },
+    {
+      "id": 137,
+      "startMs": 880500,
+      "endMs": 881060,
+      "en": "Camilla Mills.",
+      "zh": "卡米拉·米尔斯报道。"
+    },
+    {
+      "id": 138,
+      "startMs": 884000,
+      "endMs": 891760,
+      "en": "Still to come in this podcast: the World Health Organization says the spread of Ebola could make it the worst outbreak of the disease in Africa.",
+      "zh": "本期节目稍后还有：世界卫生组织称，埃博拉疫情的蔓延可能使其成为非洲最严重的一次埃博拉暴发。"
+    },
+    {
+      "id": 139,
+      "startMs": 891760,
+      "endMs": 900320,
+      "en": "At its current pace, it's on track to eclipse the West African Ebola outbreak of 2014 to 2016.",
+      "zh": "按照目前的速度，它很可能超过2014年至2016年的西非埃博拉疫情。"
+    },
+    {
+      "id": 140,
+      "startMs": 900320,
+      "endMs": 902240,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 141,
+      "startMs": 902640,
+      "endMs": 911920,
+      "en": "It generates a fifth of Romania's electricity, but now the Cernavodă plant, the country's sole nuclear power station, has been completely shut down.",
+      "zh": "切尔纳沃德核电站生产罗马尼亚五分之一的电力，但这座全国唯一的核电站如今已完全关闭。"
+    },
+    {
+      "id": 142,
+      "startMs": 912480,
+      "endMs": 918800,
+      "en": "The plant needs water from the Danube for its cooling systems, and the river is at a historically low water level.",
+      "zh": "核电站的冷却系统需要多瑙河水，而目前河流水位处于历史低点。"
+    },
+    {
+      "id": 143,
+      "startMs": 919360,
+      "endMs": 921920,
+      "en": "Romania shut down its other reactor last month.",
+      "zh": "罗马尼亚上个月关闭了另一座反应堆。"
+    },
+    {
+      "id": 144,
+      "startMs": 922400,
+      "endMs": 928640,
+      "en": "Neighbouring Hungary is planning engineering work on the Danube to raise the river's levels and keep its Paks power plant working.",
+      "zh": "邻国匈牙利正计划在多瑙河实施工程以抬高水位，使帕克什核电站能够继续运转。"
+    },
+    {
+      "id": 145,
+      "startMs": 929200,
+      "endMs": 933040,
+      "en": "The move comes as a fifth heatwave is peaking throughout Europe.",
+      "zh": "欧洲第五轮热浪正达到高峰之际，匈牙利采取了这一行动。"
+    },
+    {
+      "id": 146,
+      "startMs": 933520,
+      "endMs": 935760,
+      "en": "Our Central Europe correspondent, Nick Thorpe, told me more.",
+      "zh": "本台中欧记者尼克·索普作了进一步介绍。"
+    },
+    {
+      "id": 147,
+      "startMs": 936080,
+      "endMs": 937200,
+      "en": "It's pretty serious.",
+      "zh": "情况相当严重。"
+    },
+    {
+      "id": 148,
+      "startMs": 937280,
+      "endMs": 941120,
+      "en": "You know, one immediately thinks of water shortages with a consistent drought.",
+      "zh": "你知道，持续干旱首先让人想到的是缺水。"
+    },
+    {
+      "id": 149,
+      "startMs": 941440,
+      "endMs": 949360,
+      "en": "Instead of that, the emphasis, both here in Hungary and in neighbouring Romania and throughout the region, really, first and foremost, has now been on energy.",
+      "zh": "但无论是在匈牙利、邻国罗马尼亚，还是整个地区，目前首要关注的其实都是能源。"
+    },
+    {
+      "id": 150,
+      "startMs": 949840,
+      "endMs": 958560,
+      "en": "To lose 20% of the energy—and I'm told that it has now completely shut down the two reactors at Cernavodă—very serious indeed.",
+      "zh": "损失20%的电力，而且据我所知切尔纳沃德的两座反应堆现已全部关闭，情况确实非常严重。"
+    },
+    {
+      "id": 151,
+      "startMs": 958800,
+      "endMs": 964740,
+      "en": "Romania, fortunately for itself, has a lot of solar. It has wind power. It has hydro.",
+      "zh": "幸运的是，罗马尼亚拥有大量太阳能，还有风能和水电。"
+    },
+    {
+      "id": 152,
+      "startMs": 965060,
+      "endMs": 972020,
+      "en": "Just looking at the figures from an hour or so ago, solar is now generating 44% of Romania's electricity.",
+      "zh": "从大约一小时前的数据来看，太阳能目前提供罗马尼亚44%的电力。"
+    },
+    {
+      "id": 153,
+      "startMs": 972420,
+      "endMs": 975940,
+      "en": "Wind, 13%. Hydro is down to 8%.",
+      "zh": "风能占13%，水电则降至8%。"
+    },
+    {
+      "id": 154,
+      "startMs": 976020,
+      "endMs": 979940,
+      "en": "Romania has huge hydropower on many of its rivers.",
+      "zh": "罗马尼亚许多河流都拥有巨大的水电潜力。"
+    },
+    {
+      "id": 155,
+      "startMs": 980180,
+      "endMs": 984580,
+      "en": "But they're affected, of course, by those same low water levels. They can't step in now.",
+      "zh": "但这些水电站当然也受到低水位影响，现在无法填补缺口。"
+    },
+    {
+      "id": 156,
+      "startMs": 984580,
+      "endMs": 991540,
+      "en": "So during the evening hours, Romania will have to, for the coming weeks, as we can see it, import a lot of electricity.",
+      "zh": "因此照目前看来，未来几周的晚间时段，罗马尼亚将不得不进口大量电力。"
+    },
+    {
+      "id": 157,
+      "startMs": 991620,
+      "endMs": 993860,
+      "en": "And that will obviously cost people a lot of money.",
+      "zh": "这显然会让民众付出高昂成本。"
+    },
+    {
+      "id": 158,
+      "startMs": 994180,
+      "endMs": 996740,
+      "en": "Exactly, yes. And we've seen this in Hungary as well.",
+      "zh": "没错。匈牙利也出现了这种情况。"
+    },
+    {
+      "id": 159,
+      "startMs": 996740,
+      "endMs": 1002900,
+      "en": "The Paks nuclear power station is now running at only about a fifth or a sixth of its normal capacity.",
+      "zh": "帕克什核电站目前的运行水平仅约为正常产能的五分之一或六分之一。"
+    },
+    {
+      "id": 160,
+      "startMs": 1002900,
+      "endMs": 1004580,
+      "en": "It almost had to shut down.",
+      "zh": "它险些不得不关闭。"
+    },
+    {
+      "id": 161,
+      "startMs": 1004900,
+      "endMs": 1012340,
+      "en": "And, as you said in the introduction there, it's now trying to follow some of the same methods which were attempted in Romania but failed:",
+      "zh": "正如你在开场所说，它现在正尝试采用一些罗马尼亚用过但失败了的相同方法："
+    },
+    {
+      "id": 162,
+      "startMs": 1012740,
+      "endMs": 1019860,
+      "en": "to sink large barges with tons and tons of rocks in the middle of the Danube, to divert some of those very",
+      "zh": "在多瑙河中央沉入装有大量岩石的大型驳船，以便把一些极浅的河水，"
+    },
+    {
+      "id": 163,
+      "startMs": 1019800,
+      "endMs": 1025560,
+      "en": "shallow waters towards the cooling systems of the power station, to try and keep it ticking over.",
+      "zh": "引向核电站的冷却系统，尽量维持电站运转。"
+    },
+    {
+      "id": 164,
+      "startMs": 1025720,
+      "endMs": 1033000,
+      "en": "It's also, of course, you know, provoking debate about the future—whether nuclear power does have a future in these areas where it depends",
+      "zh": "当然，这也引发了有关未来的争论：在这些依赖多瑙河水的地区，核电是否还有未来，"
+    },
+    {
+      "id": 165,
+      "startMs": 1033000,
+      "endMs": 1042680,
+      "en": "on the waters of the Danube, which is not just having lower water levels during periods of drought, but year by year the levels of water in the Danube are sinking.",
+      "zh": "因为多瑙河不仅在干旱期水位更低，其水位还在逐年下降。"
+    },
+    {
+      "id": 166,
+      "startMs": 1043000,
+      "endMs": 1049080,
+      "en": "And if the water levels rise, is it quite straightforward to fire up this nuclear power station again?",
+      "zh": "如果水位回升，重新启动这座核电站是否相当简单？"
+    },
+    {
+      "id": 167,
+      "startMs": 1049320,
+      "endMs": 1056360,
+      "en": "It's relatively straightforward, but it takes a while, and it takes a long time for the waters—the rainwater, say,",
+      "zh": "这相对简单，但需要一些时间；比如雨水要经过很长时间，"
+    },
+    {
+      "id": 168,
+      "startMs": 1056360,
+      "endMs": 1065240,
+      "en": "falling in the Alps in Austria, or in the Carpathian Mountains up in Slovakia, on the border with Poland or Ukraine—to reach the Danube.",
+      "zh": "奥地利阿尔卑斯山或斯洛伐克境内、靠近波兰或乌克兰边境的喀尔巴阡山脉降下的雨水，才能流入多瑙河。"
+    },
+    {
+      "id": 169,
+      "startMs": 1065240,
+      "endMs": 1073640,
+      "en": "So we're talking about several weeks before they can reach 1,200 kilometres downstream from Budapest to the Cernavodă power station.",
+      "zh": "也就是说，河水从布达佩斯向下游流经1200公里抵达切尔纳沃德核电站，需要数周时间。"
+    },
+    {
+      "id": 170,
+      "startMs": 1074200,
+      "endMs": 1075720,
+      "en": "Nick Thorpe in Budapest.",
+      "zh": "尼克·索普在布达佩斯报道。"
+    },
+    {
+      "id": 171,
+      "startMs": 1076440,
+      "endMs": 1083740,
+      "en": "The World Health Organization says it's aiming to reverse the spread of Ebola in the Democratic Republic of Congo within three months,",
+      "zh": "世界卫生组织表示，目标是在三个月内扭转埃博拉在刚果民主共和国的传播，"
+    },
+    {
+      "id": 172,
+      "startMs": 1084140,
+      "endMs": 1086380,
+      "en": "but it's warning the outbreak will not be over by then.",
+      "zh": "但同时警告，届时疫情并不会结束。"
+    },
+    {
+      "id": 173,
+      "startMs": 1086620,
+      "endMs": 1089580,
+      "en": "The key, it says, is improving contact tracing.",
+      "zh": "世卫组织称，关键在于改进接触者追踪。"
+    },
+    {
+      "id": 174,
+      "startMs": 1090140,
+      "endMs": 1096300,
+      "en": "Meanwhile, the head of the WHO has warned that the current Ebola outbreak is on track to become the worst ever.",
+      "zh": "与此同时，世卫组织负责人警告，目前的埃博拉疫情可能成为史上最严重的一次。"
+    },
+    {
+      "id": 175,
+      "startMs": 1096860,
+      "endMs": 1102060,
+      "en": "Since May, there have been at least 2,000 deaths and more than 4,000 confirmed cases.",
+      "zh": "自5月以来，至少有2000人死亡，确诊病例超过4000例。"
+    },
+    {
+      "id": 176,
+      "startMs": 1102160,
+      "endMs": 1111680,
+      "en": "Dr Tedros Ghebreyesus said, ‘At the present rate, this outbreak would surpass the West African epidemic that killed more than 11,000 people a decade ago.",
+      "zh": "谭德塞·格布雷耶苏斯博士说：“按照目前的速度，本次疫情将超过十年前导致逾1.1万人死亡的西非疫情。"
+    },
+    {
+      "id": 177,
+      "startMs": 1112240,
+      "endMs": 1121440,
+      "en": "It's already the second-biggest Ebola epidemic on record, and it's moving faster than any previous Ebola outbreak.",
+      "zh": "它已经是有记录以来第二大埃博拉疫情，而且传播速度超过以往任何一次埃博拉疫情。"
+    },
+    {
+      "id": 178,
+      "startMs": 1122160,
+      "endMs": 1131360,
+      "en": "At its current pace, it's on track to eclipse the West African Ebola outbreak of 2014 to 2016.’",
+      "zh": "按照目前的速度，它很可能超过2014年至2016年的西非埃博拉疫情。”"
+    },
+    {
+      "id": 179,
+      "startMs": 1131360,
+      "endMs": 1135200,
+      "en": "One of the focal points of the outbreak is Bunia.",
+      "zh": "布尼亚是此次疫情的一个重点地区。"
+    },
+    {
+      "id": 180,
+      "startMs": 1135760,
+      "endMs": 1142080,
+      "en": "Trish Newport, the Ebola programme's deputy manager for Doctors Without Borders in the DRC, is there,",
+      "zh": "无国界医生驻刚果（金）埃博拉项目副经理特里什·纽波特身在当地，"
+    },
+    {
+      "id": 181,
+      "startMs": 1142080,
+      "endMs": 1146080,
+      "en": "and she told the BBC about the challenges in containing the spread of the disease.",
+      "zh": "她向BBC介绍了遏制疾病传播所面临的挑战。"
+    },
+    {
+      "id": 182,
+      "startMs": 1146480,
+      "endMs": 1152000,
+      "en": "This outbreak is increasing at such a rapid rate; it's an exponential increase.",
+      "zh": "此次疫情增长速度极快，呈指数级上升。"
+    },
+    {
+      "id": 183,
+      "startMs": 1152080,
+      "endMs": 1159360,
+      "en": "The response to the Ebola outbreak at this moment is not catching up to the size and the growth of the outbreak today.",
+      "zh": "目前的埃博拉应对行动没有跟上当下疫情的规模和增长速度。"
+    },
+    {
+      "id": 184,
+      "startMs": 1159360,
+      "endMs": 1169220,
+      "en": "There needs to be a rapid change in the strategy for how to respond. To be able to actually control the outbreak today, there needs to be a massive scale-up of the response.",
+      "zh": "应对策略需要迅速改变。要真正控制当前疫情，必须大规模加强应对行动。"
+    },
+    {
+      "id": 185,
+      "startMs": 1169220,
+      "endMs": 1174020,
+      "en": "There are areas where there are new Ebola cases, and there is absolutely no response today.",
+      "zh": "有些地区已经出现新的埃博拉病例，但目前完全没有应对行动。"
+    },
+    {
+      "id": 186,
+      "startMs": 1174500,
+      "endMs": 1179060,
+      "en": "And we saw just last week a new case went into an area that had no Ebola.",
+      "zh": "就在上周，我们看到一名新病例进入了此前没有埃博拉的地区。"
+    },
+    {
+      "id": 187,
+      "startMs": 1179140,
+      "endMs": 1182260,
+      "en": "They died, and two weeks later there were 17 new cases,",
+      "zh": "这名患者死亡，两周后当地出现了17例新病例，"
+    },
+    {
+      "id": 188,
+      "startMs": 1182580,
+      "endMs": 1190180,
+      "en": "which shows that if you don't have a response every single place where there is an Ebola case, the numbers are only going to grow exponentially.",
+      "zh": "这表明，如果不能在每一个出现埃博拉病例的地方采取应对行动，病例数只会呈指数级增长。"
+    },
+    {
+      "id": 189,
+      "startMs": 1190500,
+      "endMs": 1193380,
+      "en": "But putting Ebola treatment centres isn't enough.",
+      "zh": "但仅仅设立埃博拉治疗中心还不够。"
+    },
+    {
+      "id": 190,
+      "startMs": 1193620,
+      "endMs": 1196260,
+      "en": "You also need to really be engaging with the community.",
+      "zh": "还必须真正与社区沟通协作。"
+    },
+    {
+      "id": 191,
+      "startMs": 1196260,
+      "endMs": 1200660,
+      "en": "You need to be talking with the community leadership so that they're also leading the response.",
+      "zh": "必须与社区领导层沟通，让他们也来主导应对行动。"
+    },
+    {
+      "id": 192,
+      "startMs": 1200660,
+      "endMs": 1204820,
+      "en": "We can't cut the chains of transmission without the community involved.",
+      "zh": "没有社区参与，我们无法切断传播链。"
+    },
+    {
+      "id": 193,
+      "startMs": 1204980,
+      "endMs": 1205780,
+      "en": "This is essential.",
+      "zh": "这一点至关重要。"
+    },
+    {
+      "id": 194,
+      "startMs": 1206020,
+      "endMs": 1210340,
+      "en": "But yes, we need to be having Ebola responses everywhere where there are cases.",
+      "zh": "但确实，凡是出现病例的地方都必须开展埃博拉应对行动。"
+    },
+    {
+      "id": 195,
+      "startMs": 1210580,
+      "endMs": 1219860,
+      "en": "So in the villages, in more remote areas, we need to have enough resources on the ground that we can actually work in the areas that don't have cases yet.",
+      "zh": "因此在村庄和更偏远地区，必须有足够的现场资源，才能在尚未出现病例的地区开展工作。"
+    },
+    {
+      "id": 196,
+      "startMs": 1220260,
+      "endMs": 1225080,
+      "en": "And at this stage, with all of the reactive responses, there's just not the capacity to do that.",
+      "zh": "但现阶段所有行动都只是被动响应，根本没有能力做到这一点。"
+    },
+    {
+      "id": 197,
+      "startMs": 1225560,
+      "endMs": 1227960,
+      "en": "To respond to Ebola, you need specific training.",
+      "zh": "应对埃博拉需要专门培训。"
+    },
+    {
+      "id": 198,
+      "startMs": 1228040,
+      "endMs": 1233320,
+      "en": "If you have people responding that don't have the skills, more people are going to get exposed.",
+      "zh": "如果参与应对的人员不具备相关技能，就会有更多人暴露于病毒。"
+    },
+    {
+      "id": 199,
+      "startMs": 1233800,
+      "endMs": 1238200,
+      "en": "So in a new area, you need to make sure that you have that knowledge going to the area,",
+      "zh": "因此在一个新的地区，必须确保把相关知识带到当地，"
+    },
+    {
+      "id": 200,
+      "startMs": 1238360,
+      "endMs": 1241000,
+      "en": "to be able to do training, to be able to be setting things up.",
+      "zh": "以便开展培训并建立应对体系。"
+    },
+    {
+      "id": 201,
+      "startMs": 1241400,
+      "endMs": 1243720,
+      "en": "Today, this isn't happening everywhere.",
+      "zh": "目前，并非所有地方都能做到。"
+    },
+    {
+      "id": 202,
+      "startMs": 1243960,
+      "endMs": 1251720,
+      "en": "People are trying their hardest, but we definitely need more resources on the ground to be able to put changes of strategy into place.",
+      "zh": "人们正在竭尽全力，但我们确实需要更多现场资源，才能落实战略调整。"
+    },
+    {
+      "id": 203,
+      "startMs": 1252360,
+      "endMs": 1254920,
+      "en": "Trish Newport of Doctors Without Borders.",
+      "zh": "无国界医生组织的特里什·纽波特。"
+    },
+    {
+      "id": 204,
+      "startMs": 1256000,
+      "endMs": 1258480,
+      "en": "Vultures are disappearing across West Africa.",
+      "zh": "秃鹫正在西非各地消失。"
+    },
+    {
+      "id": 205,
+      "startMs": 1258720,
+      "endMs": 1266160,
+      "en": "Once a common sight around markets, abattoirs, and dump sites, the birds have become increasingly rare in many parts of Nigeria.",
+      "zh": "秃鹫曾常见于市场、屠宰场和垃圾场周围，如今在尼日利亚许多地区却越来越罕见。"
+    },
+    {
+      "id": 206,
+      "startMs": 1266800,
+      "endMs": 1273360,
+      "en": "Conservationists warn their decline could pose a serious public health risk, as they remove rotting meat from the environment.",
+      "zh": "保护人士警告，秃鹫数量下降可能带来严重公共卫生风险，因为它们会清除环境中的腐肉。"
+    },
+    {
+      "id": 207,
+      "startMs": 1273920,
+      "endMs": 1277360,
+      "en": "But in southeastern Nigeria, one community is defying that trend.",
+      "zh": "但尼日利亚东南部的一个社区正在逆转这一趋势。"
+    },
+    {
+      "id": 208,
+      "startMs": 1277760,
+      "endMs": 1282080,
+      "en": "There, vultures are revered and fiercely protected by local traditions.",
+      "zh": "在那里，秃鹫备受尊崇，并受到当地传统的严密保护。"
+    },
+    {
+      "id": 209,
+      "startMs": 1282720,
+      "endMs": 1287280,
+      "en": "Our reporter Makuochi Okafor has traveled to Anambra State to meet a man who's",
+      "zh": "本台记者马库奥奇·奥卡福前往阿南布拉州，拜访了一名男子。"
+    },
+    {
+      "id": 210,
+      "startMs": 1287280,
+      "endMs": 1294000,
+      "en": "dedicated his life to protecting the birds, risking his own safety and challenging deeply held perceptions.",
+      "zh": "他毕生致力于保护这些鸟类，不惜冒着自身风险，挑战根深蒂固的观念。"
+    },
+    {
+      "id": 211,
+      "startMs": 1294480,
+      "endMs": 1301120,
+      "en": "His story reveals how an ancient belief system has become one of the last refuges for vultures in the country.",
+      "zh": "他的故事揭示了一套古老信仰体系如何成为该国秃鹫最后的庇护所之一。"
+    },
+    {
+      "id": 212,
+      "startMs": 1301840,
+      "endMs": 1305600,
+      "en": "For many people, vultures are birds linked to death and decay.",
+      "zh": "在许多人眼中，秃鹫是与死亡和腐败相联系的鸟类。"
+    },
+    {
+      "id": 213,
+      "startMs": 1306080,
+      "endMs": 1309280,
+      "en": "Their disappearance across Africa has gone largely unnoticed.",
+      "zh": "它们在非洲各地的消失，很大程度上没有引起注意。"
+    },
+    {
+      "id": 214,
+      "startMs": 1309840,
+      "endMs": 1315760,
+      "en": "But in one community in southeastern Nigeria, one man is fighting to protect these misunderstood birds.",
+      "zh": "但在尼日利亚东南部的一个社区，一名男子正努力保护这些受到误解的鸟类。"
+    },
+    {
+      "id": 215,
+      "startMs": 1315700,
+      "endMs": 1320100,
+      "en": "Good afternoon, sir. Yeah. How are you doing? Good. Good to meet you today.",
+      "zh": "下午好，先生。你好。最近怎么样？很好。很高兴今天见到你。"
+    },
+    {
+      "id": 216,
+      "startMs": 1320100,
+      "endMs": 1324660,
+      "en": "I'm meeting Chukwuemeka Ikegwu, a middle-aged man, in Oka-Uzu-Ugba, inside",
+      "zh": "我在奥卡-乌祖-乌格巴见到了中年男子丘库埃梅卡·伊凯格乌，地点位于，"
+    },
+    {
+      "id": 217,
+      "startMs": 1324660,
+      "endMs": 1330260,
+      "en": "the sacred forest, where an ancient shrine has become an unlikely refuge for vultures.",
+      "zh": "一片神圣森林中，一座古老神龛出人意料地成了秃鹫的庇护所。"
+    },
+    {
+      "id": 218,
+      "startMs": 1332780,
+      "endMs": 1335180,
+      "en": "Locals know him by an unusual name.",
+      "zh": "当地人用一个不同寻常的名字称呼他。"
+    },
+    {
+      "id": 219,
+      "startMs": 1335500,
+      "endMs": 1340940,
+      "en": "So people began to call me Eze Udene, which means the king of vultures, and I cannot run away from it.",
+      "zh": "于是人们开始叫我“埃泽·乌德内”，意思是“秃鹫之王”，我也无法摆脱这个称呼。"
+    },
+    {
+      "id": 220,
+      "startMs": 1342020,
+      "endMs": 1345540,
+      "en": "At the center of this forest is the shrine to Ngene, where",
+      "zh": "森林中央是供奉恩格内的神龛，那里，"
+    },
+    {
+      "id": 221,
+      "startMs": 1345540,
+      "endMs": 1351140,
+      "en": "sacrifices and a sacred tree provide safety and shelter for vultures.",
+      "zh": "祭品和一棵圣树为秃鹫提供安全与庇护。"
+    },
+    {
+      "id": 222,
+      "startMs": 1351700,
+      "endMs": 1356340,
+      "en": "Like I said, most of the time, people do hunt the vultures.",
+      "zh": "就像我说的，大多数时候人们确实会捕猎秃鹫。"
+    },
+    {
+      "id": 223,
+      "startMs": 1357420,
+      "endMs": 1361500,
+      "en": "They will run to higher trees, but when they run here at this shrine,",
+      "zh": "它们会逃到更高的树上，但如果逃到这座神龛，"
+    },
+    {
+      "id": 224,
+      "startMs": 1362620,
+      "endMs": 1367420,
+      "en": "you find out that people fear the environment where the shrine is.",
+      "zh": "你就会发现，人们敬畏神龛所在的这片环境。"
+    },
+    {
+      "id": 225,
+      "startMs": 1368220,
+      "endMs": 1369980,
+      "en": "No evil will ever happen here.",
+      "zh": "这里永远不会发生邪恶之事。"
+    },
+    {
+      "id": 226,
+      "startMs": 1370940,
+      "endMs": 1373980,
+      "en": "So nobody fights vultures that perch here.",
+      "zh": "所以没有人会伤害栖息在这里的秃鹫。"
+    },
+    {
+      "id": 227,
+      "startMs": 1375340,
+      "endMs": 1378380,
+      "en": "But there was a time when vultures were disappearing from Oka-Uzu-Ugba.",
+      "zh": "但曾经有一段时间，秃鹫正从奥卡-乌祖-乌格巴消失。"
+    },
+    {
+      "id": 228,
+      "startMs": 1378940,
+      "endMs": 1381980,
+      "en": "Chukwuemeka remembers when the skies were once filled with them.",
+      "zh": "丘库埃梅卡还记得它们曾经布满天空的景象。"
+    },
+    {
+      "id": 229,
+      "startMs": 1382380,
+      "endMs": 1387740,
+      "en": "When we were growing up here, I tell you, vultures, there were too many, flying everywhere, because nobody hunted them.",
+      "zh": "我们在这里长大时，我告诉你，秃鹫多得很，到处飞，因为没有人捕猎它们。"
+    },
+    {
+      "id": 230,
+      "startMs": 1389480,
+      "endMs": 1391400,
+      "en": "The birds were part of everyday life.",
+      "zh": "这些鸟是日常生活的一部分。"
+    },
+    {
+      "id": 231,
+      "startMs": 1392120,
+      "endMs": 1397720,
+      "en": "You'll be walking, the vulture will be walking as well, looking for what to eat.",
+      "zh": "你在路上走，秃鹫也会在旁边走着，寻找食物。"
+    },
+    {
+      "id": 232,
+      "startMs": 1398700,
+      "endMs": 1401180,
+      "en": "Then hunters from outside the community arrived.",
+      "zh": "后来，社区外的猎人来了。"
+    },
+    {
+      "id": 233,
+      "startMs": 1401500,
+      "endMs": 1403900,
+      "en": "Slowly, the birds began to disappear.",
+      "zh": "这些鸟逐渐开始消失。"
+    },
+    {
+      "id": 234,
+      "startMs": 1404300,
+      "endMs": 1410700,
+      "en": "So at a time, vultures began to disappear, and nobody knows why and what caused it.",
+      "zh": "于是有一段时间，秃鹫开始消失，没有人知道原因，也不知道是什么造成的。"
+    },
+    {
+      "id": 235,
+      "startMs": 1411620,
+      "endMs": 1417380,
+      "en": "In 2017, the Nigerian Conservation Foundation began working with the community to protect the birds.",
+      "zh": "2017年，尼日利亚保护基金会开始与当地社区合作保护这些鸟类。"
+    },
+    {
+      "id": 236,
+      "startMs": 1417780,
+      "endMs": 1420820,
+      "en": "Chukwuemeka became one of their strongest voices.",
+      "zh": "丘库埃梅卡成了他们最有力的倡导者之一。"
+    },
+    {
+      "id": 237,
+      "startMs": 1421060,
+      "endMs": 1428180,
+      "en": "Thank God for the Conservation Foundation, NCF, and they brought this suggestion on how to make vultures come back.",
+      "zh": "感谢保护基金会NCF，是他们提出了让秃鹫回归的办法。"
+    },
+    {
+      "id": 238,
+      "startMs": 1428900,
+      "endMs": 1437860,
+      "en": "Across West Africa, conservationists say vultures face a growing crisis, driven partly by demand for traditional medicine and spiritual practices.",
+      "zh": "保护人士表示，西非秃鹫正面临日益严重的危机，部分原因是传统医药和精神习俗带来的需求。"
+    },
+    {
+      "id": 239,
+      "startMs": 1438180,
+      "endMs": 1442900,
+      "en": "It's not limited to Nigeria, which is hunting vultures to use them in what we",
+      "zh": "这并不局限于尼日利亚，人们捕猎秃鹫，用于我们所说的，"
+    },
+    {
+      "id": 240,
+      "startMs": 1442900,
+      "endMs": 1452740,
+      "en": "call belief-based use, and that's the use of vultures in traditional medicine, or what we call voodoo or jazz.",
+      "zh": "“基于信仰的用途”，也就是在传统医药中使用秃鹫，或我们所说的巫毒或“爵士”法术。"
+    },
+    {
+      "id": 241,
+      "startMs": 1453060,
+      "endMs": 1461540,
+      "en": "Dr. Stella Egbe, a conservation biologist with the Nigerian Conservation Foundation, says the demand for vulture parts has fueled a wider trade.",
+      "zh": "尼日利亚保护基金会的保护生物学家斯特拉·埃格贝博士表示，对秃鹫身体部位的需求推动了更广泛的贸易。"
+    },
+    {
+      "id": 242,
+      "startMs": 1462340,
+      "endMs": 1465620,
+      "en": "There is a huge demand for vultures and vulture parts for traditional medicine.",
+      "zh": "传统医药对秃鹫及其身体部位有着巨大需求。"
+    },
+    {
+      "id": 243,
+      "startMs": 1465860,
+      "endMs": 1471300,
+      "en": "Seven African vulture species are now threatened, with some listed as endangered or critically",
+      "zh": "目前有七种非洲秃鹫受到威胁，其中一些被列为濒危或极度，"
+    },
+    {
+      "id": 244,
+      "startMs": 1471480,
+      "endMs": 1476200,
+      "en": "endangered, and some populations declining by up to 98%.",
+      "zh": "濒危物种，一些种群数量降幅高达98%。"
+    },
+    {
+      "id": 245,
+      "startMs": 1476360,
+      "endMs": 1483960,
+      "en": "It's, it's been registered that vultures are used for that, and that demand for vultures has",
+      "zh": "已经有记录表明秃鹫被用于这些用途，而对秃鹫的需求，"
+    },
+    {
+      "id": 246,
+      "startMs": 1483960,
+      "endMs": 1489640,
+      "en": "created a network of trade within the country and even across the borders of the country.",
+      "zh": "在国内乃至跨越国境形成了一张贸易网络。"
+    },
+    {
+      "id": 247,
+      "startMs": 1490040,
+      "endMs": 1497640,
+      "en": "Nigerian Customs spokesperson Aliyu Maiwada says endangered species cannot legally cross borders under international laws.",
+      "zh": "尼日利亚海关发言人阿利尤·迈瓦达表示，根据国际法，濒危物种不得合法跨境。"
+    },
+    {
+      "id": 248,
+      "startMs": 1497960,
+      "endMs": 1502920,
+      "en": "He says seizures and prosecutions are helping to tackle the trade in Nigeria.",
+      "zh": "他说，查获和起诉行动正在帮助尼日利亚打击这一贸易。"
+    },
+    {
+      "id": 249,
+      "startMs": 1503240,
+      "endMs": 1506280,
+      "en": "So we are doing everything possible to make sure that smuggling of",
+      "zh": "因此，我们正在竭尽所能，确保走私，"
+    },
+    {
+      "id": 250,
+      "startMs": 1507340,
+      "endMs": 1517020,
+      "en": "items, including vultures, including donkeys, including other species outside the country, is truncated or suppressed to the barest minimum.",
+      "zh": "包括秃鹫、驴以及其他物种在内的物品出境行为被遏制，或压缩到最低程度。"
+    },
+    {
+      "id": 251,
+      "startMs": 1517820,
+      "endMs": 1523740,
+      "en": "But conservationists say enforcement alone is not enough. They say working with communities is key.",
+      "zh": "但保护人士表示，仅靠执法还不够，与社区合作才是关键。"
+    },
+    {
+      "id": 252,
+      "startMs": 1526700,
+      "endMs": 1531340,
+      "en": "For Chukwuemeka and other local volunteers, their efforts are starting to pay off.",
+      "zh": "丘库埃梅卡和其他当地志愿者的努力正开始取得成效。"
+    },
+    {
+      "id": 253,
+      "startMs": 1531900,
+      "endMs": 1536620,
+      "en": "The missing vultures, they're almost back. If you go to the marketplace now, you'll see vultures.",
+      "zh": "消失的秃鹫差不多都回来了。现在去市场，就能看见秃鹫。"
+    },
+    {
+      "id": 254,
+      "startMs": 1536860,
+      "endMs": 1540780,
+      "en": "What we've done in Oka-Uzu-Ugba is one very good example of a success",
+      "zh": "我们在奥卡-乌祖-乌格巴所做的，是一个非常成功的，"
+    },
+    {
+      "id": 255,
+      "startMs": 1540780,
+      "endMs": 1544380,
+      "en": "story where people have taken charge of what's going on in their environment.",
+      "zh": "案例，人们已经主动掌握自己环境中正在发生的事情。"
+    },
+    {
+      "id": 256,
+      "startMs": 1544380,
+      "endMs": 1545180,
+      "en": "That makes us happy.",
+      "zh": "这让我们感到高兴。"
+    },
+    {
+      "id": 257,
+      "startMs": 1545660,
+      "endMs": 1549580,
+      "en": "For this king of vultures, every returning bird is a victory.",
+      "zh": "对这位“秃鹫之王”来说，每一只回归的鸟都是一场胜利。"
+    },
+    {
+      "id": 258,
+      "startMs": 1550140,
+      "endMs": 1557660,
+      "en": "But with vultures still disappearing across much of Africa, he knows the fight to save them is far from over.",
+      "zh": "但非洲许多地区的秃鹫仍在消失，他知道拯救它们的斗争远未结束。"
+    },
+    {
+      "id": 259,
+      "startMs": 1558540,
+      "endMs": 1560620,
+      "en": "Makuochi Okafor in Nigeria.",
+      "zh": "马库奥奇·奥卡福在尼日利亚报道。"
+    },
+    {
+      "id": 260,
+      "startMs": 1561500,
+      "endMs": 1568860,
+      "en": "At the Women's Africa Cup of Nations, the hosts, Morocco, have crashed out of the competition in the semifinals after penalties.",
+      "zh": "女足非洲杯东道主摩洛哥在半决赛点球大战后惨遭淘汰。"
+    },
+    {
+      "id": 261,
+      "startMs": 1569260,
+      "endMs": 1573660,
+      "en": "Cameroon will now play Malawi in the final on Sunday after beating Algeria.",
+      "zh": "喀麦隆击败阿尔及利亚后，将在星期日的决赛中迎战马拉维。"
+    },
+    {
+      "id": 262,
+      "startMs": 1574060,
+      "endMs": 1576460,
+      "en": "Football commentator Piers Edwards is in Morocco.",
+      "zh": "足球评论员皮尔斯·爱德华兹正在摩洛哥。"
+    },
+    {
+      "id": 263,
+      "startMs": 1576860,
+      "endMs": 1579580,
+      "en": "Well, the Morocco-Cameroon game was quite extraordinary.",
+      "zh": "嗯，摩洛哥对阵喀麦隆的比赛相当不同寻常。"
+    },
+    {
+      "id": 264,
+      "startMs": 1579580,
+      "endMs": 1584540,
+      "en": "It followed Malawi beating Algeria earlier in the day, which had its own sensational story.",
+      "zh": "当天早些时候，马拉维击败阿尔及利亚，那场比赛也有自己的轰动故事。"
+    },
+    {
+      "id": 265,
+      "startMs": 1584540,
+      "endMs": 1589020,
+      "en": "Malawi, debutants in the competition, making it through to the final at the first ever try.",
+      "zh": "首次参赛的马拉维第一次尝试便闯进了决赛。"
+    },
+    {
+      "id": 266,
+      "startMs": 1589580,
+      "endMs": 1593980,
+      "en": "But the big match was Morocco, and the expectation was that the Atlas Lionesses, as they're",
+      "zh": "但焦点战属于摩洛哥，人们原本期待人称“阿特拉斯母狮”的摩洛哥队，"
+    },
+    {
+      "id": 267,
+      "startMs": 1593980,
+      "endMs": 1598940,
+      "en": "called, would make it through to their third final and hopefully go on and, and lift the trophy.",
+      "zh": "能够第三次闯进决赛，并有望继续前进——进而捧起奖杯。"
+    },
+    {
+      "id": 268,
+      "startMs": 1598940,
+      "endMs": 1603500,
+      "en": "But Cameroon's goalkeeper, Michaela Bihina, had other ideas.",
+      "zh": "但喀麦隆门将米凯拉·比希纳另有打算。"
+    },
+    {
+      "id": 269,
+      "startMs": 1603580,
+      "endMs": 1608700,
+      "en": "The game was goalless after 90 minutes, and was goalless as it came towards the end of extra time.",
+      "zh": "比赛在90分钟后仍是0比0，临近加时赛结束时也依然没有进球。"
+    },
+    {
+      "id": 270,
+      "startMs": 1609100,
+      "endMs": 1615420,
+      "en": "Morocco were awarded a penalty, saved by the Cameroonian goalkeeper, so it went to a penalty",
+      "zh": "摩洛哥获得一次点球，但被喀麦隆门将扑出，于是比赛进入点球，"
+    },
+    {
+      "id": 271,
+      "startMs": 1615420,
+      "endMs": 1621260,
+      "en": "shootout. And then, remarkably, she saved three of Morocco's spot-kicks in the shootout.",
+      "zh": "大战。随后令人惊叹的是，她又在点球大战中扑出了摩洛哥的三次点球。"
+    },
+    {
+      "id": 272,
+      "startMs": 1621440,
+      "endMs": 1625040,
+      "en": "They had never missed a spot-kick in a shootout before, Morocco.",
+      "zh": "摩洛哥此前在点球大战中从未罚失过点球。"
+    },
+    {
+      "id": 273,
+      "startMs": 1625120,
+      "endMs": 1631280,
+      "en": "Cameroon squeezing through, and so they will meet Malawi in Sunday's final.",
+      "zh": "喀麦隆惊险晋级，将在星期日的决赛中迎战马拉维。"
+    },
+    {
+      "id": 274,
+      "startMs": 1631280,
+      "endMs": 1635280,
+      "en": "And the remarkable thing about Cameroon is they didn't actually even qualify for this tournament.",
+      "zh": "喀麦隆更惊人之处在于，她们其实原本根本没有获得本届赛事的参赛资格。"
+    },
+    {
+      "id": 275,
+      "startMs": 1635760,
+      "endMs": 1640480,
+      "en": "About a week or so after their failure to do so, having gone out in the qualifying rounds, as I said, the",
+      "zh": "正如我所说，她们在预选赛出局、未能晋级大约一周后，"
+    },
+    {
+      "id": 276,
+      "startMs": 1640880,
+      "endMs": 1647360,
+      "en": "tournament was expanded from 12 teams to 16, so they got a backdoor entry to come in, and so they've made it through to the final.",
+      "zh": "赛事从12支球队扩充至16支，她们因此通过“后门”入围，如今一路闯进了决赛。"
+    },
+    {
+      "id": 277,
+      "startMs": 1647360,
+      "endMs": 1648800,
+      "en": "So a sensational story for them.",
+      "zh": "这对她们而言是一个轰动性的故事。"
+    },
+    {
+      "id": 278,
+      "startMs": 1649120,
+      "endMs": 1651920,
+      "en": "And Malawi, as I said, well, it's a fairy tale for them on their debut.",
+      "zh": "至于马拉维，正如我所说，首次参赛便书写了童话。"
+    },
+    {
+      "id": 279,
+      "startMs": 1652480,
+      "endMs": 1656400,
+      "en": "So sensational, a fairy tale. Is it your view this tournament's gone pretty well?",
+      "zh": "既轰动又像童话。你是否认为本届赛事办得相当成功？"
+    },
+    {
+      "id": 280,
+      "startMs": 1657820,
+      "endMs": 1659580,
+      "en": "It's gone amazingly well, I would say.",
+      "zh": "我会说，赛事办得非常成功。"
+    },
+    {
+      "id": 281,
+      "startMs": 1659580,
+      "endMs": 1663500,
+      "en": "So the Confederation of African Football, CAF, has put a lot of money and a",
+      "zh": "非洲足球联合会CAF投入了大量资金，"
+    },
+    {
+      "id": 282,
+      "startMs": 1663660,
+      "endMs": 1666540,
+      "en": "lot of investment into trying to develop women's football in recent times.",
+      "zh": "近来投入了大量资源，努力发展女子足球。"
+    },
+    {
+      "id": 283,
+      "startMs": 1666540,
+      "endMs": 1672780,
+      "en": "They've introduced a Women's Champions League, they've expanded this competition, they've said they've created more money for the women's game.",
+      "zh": "他们创办了女足冠军联赛，扩大了这项赛事，并表示为女足运动增加了资金。"
+    },
+    {
+      "id": 284,
+      "startMs": 1673180,
+      "endMs": 1675580,
+      "en": "And so we're seeing very much a changing of the guard.",
+      "zh": "因此，我们正清楚地看到新旧势力交替。"
+    },
+    {
+      "id": 285,
+      "startMs": 1675580,
+      "endMs": 1677660,
+      "en": "Nigeria, South Africa were the big guns.",
+      "zh": "尼日利亚和南非曾是传统强队。"
+    },
+    {
+      "id": 286,
+      "startMs": 1677660,
+      "endMs": 1682140,
+      "en": "Nigeria, record 10-time champions, they're not even in the semifinals for the first time.",
+      "zh": "创纪录的十届冠军尼日利亚首次连半决赛都未能进入。"
+    },
+    {
+      "id": 287,
+      "startMs": 1682140,
+      "endMs": 1683500,
+      "en": "So we're seeing new teams.",
+      "zh": "因此，我们正在看到新球队崛起。"
+    },
+    {
+      "id": 288,
+      "startMs": 1683900,
+      "endMs": 1689340,
+      "en": "And for Malawi, as I said, they're ranked 32nd on the continent, of 54 teams in Africa.",
+      "zh": "至于马拉维，正如我所说，在非洲54支球队中，她们排名第32位。"
+    },
+    {
+      "id": 289,
+      "startMs": 1689420,
+      "endMs": 1691100,
+      "en": "They are amongst the final two.",
+      "zh": "如今她们却成为最后两支球队之一。"
+    },
+    {
+      "id": 290,
+      "startMs": 1691580,
+      "endMs": 1696380,
+      "en": "They are led by some sisters called Tabitha and Temwa Chawinga, and they're nicknamed the Scorchers.",
+      "zh": "球队由塔比莎和滕布瓦·查温加姐妹领衔，绰号是“烈焰军团”。"
+    },
+    {
+      "id": 291,
+      "startMs": 1696460,
+      "endMs": 1698620,
+      "en": "And Malawi so far have been red-hot.",
+      "zh": "马拉维迄今的表现确实火热。"
+    },
+    {
+      "id": 292,
+      "startMs": 1699420,
+      "endMs": 1700220,
+      "en": "Piers Edwards.",
+      "zh": "皮尔斯·爱德华兹。"
+    },
+    {
+      "id": 293,
+      "startMs": 1702860,
+      "endMs": 1703820,
+      "en": "And that's it from us for now.",
+      "zh": "本期节目到此结束。"
+    },
+    {
+      "id": 294,
+      "startMs": 1703900,
+      "endMs": 1708940,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 295,
+      "startMs": 1709580,
+      "endMs": 1712700,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "你也可以在X平台上搜索BBC World Service找到我们。"
+    },
+    {
+      "id": 296,
+      "startMs": 1712940,
+      "endMs": 1714540,
+      "en": "Use the hashtag #GlobalNewsPod.",
+      "zh": "请使用话题标签#GlobalNewsPod。"
+    },
+    {
+      "id": 297,
+      "startMs": 1714940,
+      "endMs": 1722540,
+      "en": "And don't forget our sister podcast, The Global Story, which goes in-depth and beyond the headlines on one big story.",
+      "zh": "也别忘了我们的姐妹播客《The Global Story》，它会针对一则重大新闻进行超越标题的深入探讨。"
+    },
+    {
+      "id": 298,
+      "startMs": 1723020,
+      "endMs": 1726060,
+      "en": "This edition of the Global News Podcast was mixed by Joe McCartney.",
+      "zh": "本期《全球新闻播客》由乔·麦卡特尼完成混音。"
+    },
+    {
+      "id": 299,
+      "startMs": 1726380,
+      "endMs": 1729020,
+      "en": "The producers were Arian Koci and Oliver Barlow.",
+      "zh": "制片人是阿里安·科奇和奥利弗·巴洛。"
+    },
+    {
+      "id": 300,
+      "startMs": 1729100,
+      "endMs": 1730860,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 301,
+      "startMs": 1731340,
+      "endMs": 1733180,
+      "en": "I'm Valerie Sanderson. Until next time, bye-bye.",
+      "zh": "我是瓦莱丽·桑德森。下次再见。"
+    }
+  ]
+}

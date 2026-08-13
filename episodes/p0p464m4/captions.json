@@ -1,0 +1,2496 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "13 August 2026"
+  },
+  "durationMs": 1780260,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4240,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是BBC国际台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6560,
+      "endMs": 7840,
+      "en": "Hello, I'm Oliver Conway.",
+      "zh": "大家好，我是奥利弗·康韦。"
+    },
+    {
+      "id": 3,
+      "startMs": 7840,
+      "endMs": 11680,
+      "en": "This edition is published in the early hours of Thursday, the 13th of August.",
+      "zh": "本期节目于8月13日星期四凌晨发布。"
+    },
+    {
+      "id": 4,
+      "startMs": 12160,
+      "endMs": 18080,
+      "en": "A Russian Nobel Peace Prize winner tells the BBC President Putin will never win the war in Ukraine.",
+      "zh": "一名俄罗斯诺贝尔和平奖得主告诉BBC，普京总统永远无法赢得乌克兰战争。"
+    },
+    {
+      "id": 5,
+      "startMs": 18880,
+      "endMs": 22240,
+      "en": "Karoline Leavitt steps down as White House press secretary.",
+      "zh": "卡罗琳·莱维特辞去白宫新闻秘书职务。"
+    },
+    {
+      "id": 6,
+      "startMs": 22720,
+      "endMs": 26040,
+      "en": "And... It's gone. We are in darkness!",
+      "zh": "以及……它消失了，我们陷入了黑暗！"
+    },
+    {
+      "id": 7,
+      "startMs": 26040,
+      "endMs": 29240,
+      "en": "It was really, really amazing. It went too quickly for me.",
+      "zh": "真的非常非常精彩。对我来说，它结束得太快了。"
+    },
+    {
+      "id": 8,
+      "startMs": 29640,
+      "endMs": 32280,
+      "en": "It was surreal. Something out-of-body experience.",
+      "zh": "太不真实了，像是一种灵魂出窍的体验。"
+    },
+    {
+      "id": 9,
+      "startMs": 32760,
+      "endMs": 34920,
+      "en": "It's definitely something I'm going to remember for the rest of my life.",
+      "zh": "这绝对会成为我终生难忘的经历。"
+    },
+    {
+      "id": 10,
+      "startMs": 35320,
+      "endMs": 38520,
+      "en": "Millions across Europe enjoy a solar eclipse.",
+      "zh": "欧洲各地数百万人共同欣赏日食。"
+    },
+    {
+      "id": 11,
+      "startMs": 41440,
+      "endMs": 47440,
+      "en": "Also in this podcast, a rule change to stop war-torn countries hosting the Eurovision Song Contest.",
+      "zh": "本期节目还将报道一项规则变更，阻止饱受战争影响的国家主办欧洲歌唱大赛。"
+    },
+    {
+      "id": 12,
+      "startMs": 48000,
+      "endMs": 50800,
+      "en": "And how much would you pay to use a public loo?",
+      "zh": "以及，你愿意花多少钱使用公共厕所？"
+    },
+    {
+      "id": 13,
+      "startMs": 56660,
+      "endMs": 61380,
+      "en": "Vladimir Putin thought his invasion of Ukraine would be a brief military operation.",
+      "zh": "弗拉基米尔·普京曾认为，他对乌克兰的入侵会是一场短暂的军事行动。"
+    },
+    {
+      "id": 14,
+      "startMs": 61780,
+      "endMs": 63620,
+      "en": "That was four and a half years ago.",
+      "zh": "那已经是四年半以前的事了。"
+    },
+    {
+      "id": 15,
+      "startMs": 64100,
+      "endMs": 66900,
+      "en": "Russia has suffered big losses on the battlefield,",
+      "zh": "俄罗斯在战场上遭受了重大损失，"
+    },
+    {
+      "id": 16,
+      "startMs": 67300,
+      "endMs": 74500,
+      "en": "while Ukrainian drone attacks on its oil facilities and on Wildberries, Russia's version of Amazon, are causing economic pain.",
+      "zh": "与此同时，乌克兰无人机对其石油设施以及被称为“俄罗斯版亚马逊”的Wildberries发动袭击，给俄罗斯经济造成了压力。"
+    },
+    {
+      "id": 17,
+      "startMs": 75220,
+      "endMs": 78260,
+      "en": "In Russia, public criticism of the authorities carries a risk,",
+      "zh": "在俄罗斯，公开批评当局会带来风险，"
+    },
+    {
+      "id": 18,
+      "startMs": 78340,
+      "endMs": 83700,
+      "en": "but one man who continues to speak out is journalist and Nobel laureate Dmitry Muratov.",
+      "zh": "但记者、诺贝尔奖得主德米特里·穆拉托夫仍在继续发声。"
+    },
+    {
+      "id": 19,
+      "startMs": 84340,
+      "endMs": 89060,
+      "en": "In Moscow, he sat down for an exclusive interview with our Russia editor, Steve Rosenberg.",
+      "zh": "他在莫斯科接受了BBC俄罗斯事务编辑史蒂夫·罗森伯格的独家专访。"
+    },
+    {
+      "id": 20,
+      "startMs": 89060,
+      "endMs": 99460,
+      "en": "I meet Dmitry Muratov at Novaya Gazeta, the independent newspaper he co-founded in the 1990s.",
+      "zh": "我在《新报》见到了德米特里·穆拉托夫，这份独立报纸由他在20世纪90年代共同创办。"
+    },
+    {
+      "id": 21,
+      "startMs": 100540,
+      "endMs": 105340,
+      "en": "I'm struck by the emptiness. Empty corridors, deserted offices.",
+      "zh": "这里的空荡令我震惊：走廊空无一人，办公室也人去楼空。"
+    },
+    {
+      "id": 22,
+      "startMs": 106040,
+      "endMs": 109720,
+      "en": "He tells me that really, there is no newspaper anymore.",
+      "zh": "他告诉我，实际上这家报纸已经不复存在。"
+    },
+    {
+      "id": 23,
+      "startMs": 110360,
+      "endMs": 115240,
+      "en": "The authorities have revoked its license and blocked its website in Russia.",
+      "zh": "当局吊销了它的执照，并在俄罗斯境内封锁了其网站。"
+    },
+    {
+      "id": 24,
+      "startMs": 115240,
+      "endMs": 124440,
+      "en": "But at a time when independent voices here are being silenced, Mr. Muratov is still speaking out, not without risk.",
+      "zh": "然而，在这里的独立声音不断遭到压制之际，穆拉托夫仍在发声，而这并非毫无风险。"
+    },
+    {
+      "id": 25,
+      "startMs": 127000,
+      "endMs": 131480,
+      "en": "Almost all non-state media outlets have shut.",
+      "zh": "几乎所有非国营媒体都已关闭。"
+    },
+    {
+      "id": 26,
+      "startMs": 132120,
+      "endMs": 139320,
+      "en": "Most opinion leaders have been declared enemies of the state, foreign agents, extremists, or terrorists.",
+      "zh": "大多数意见领袖都被宣布为国家敌人、外国代理人、极端分子或恐怖分子。"
+    },
+    {
+      "id": 27,
+      "startMs": 139320,
+      "endMs": 146840,
+      "en": "Figures vary, but a conservative estimate is that a minimum of 1,500 people are now in prison",
+      "zh": "统计数字不一，但保守估计，目前至少有1500人身陷囹圄，"
+    },
+    {
+      "id": 28,
+      "startMs": 147160,
+      "endMs": 154360,
+      "en": "since the beginning of the special military operation, having spoken out against current state policy.",
+      "zh": "他们自所谓“特别军事行动”开始以来，因公开反对现行国家政策而被关押。"
+    },
+    {
+      "id": 29,
+      "startMs": 154680,
+      "endMs": 161480,
+      "en": "Novaya Gazeta built a reputation for fearless reporting on corruption and human rights abuses in Russia.",
+      "zh": "《新报》因无畏报道俄罗斯的腐败和侵犯人权问题而赢得声誉。"
+    },
+    {
+      "id": 30,
+      "startMs": 161960,
+      "endMs": 169660,
+      "en": "As a result, in 2021, Dmitry Muratov won the Nobel Peace Prize for defending freedom of expression.",
+      "zh": "因此，德米特里·穆拉托夫于2021年因捍卫言论自由而获得诺贝尔和平奖。"
+    },
+    {
+      "id": 31,
+      "startMs": 170220,
+      "endMs": 173260,
+      "en": "Just a few weeks later, the world changed.",
+      "zh": "仅仅几周后，世界发生了变化。"
+    },
+    {
+      "id": 32,
+      "startMs": 173740,
+      "endMs": 182300,
+      "en": "In February 2022, Vladimir Putin announced Russia's full-scale invasion of Ukraine,",
+      "zh": "2022年2月，弗拉基米尔·普京宣布俄罗斯全面入侵乌克兰，"
+    },
+    {
+      "id": 33,
+      "startMs": 183020,
+      "endMs": 186060,
+      "en": "as he put it, to ensure Russia's security.",
+      "zh": "按他的说法，此举是为了保障俄罗斯的安全。"
+    },
+    {
+      "id": 34,
+      "startMs": 186060,
+      "endMs": 191740,
+      "en": "Go on, tell me, has security increased",
+      "zh": "那就告诉我，安全状况究竟有没有改善？"
+    },
+    {
+      "id": 35,
+      "startMs": 192220,
+      "endMs": 202220,
+      "en": "with the Wildberries warehouses being attacked by Ukrainian drones, the petrol crisis, disrupted mobile internet communications, the political prisoners?",
+      "zh": "在Wildberries仓库遭乌克兰无人机袭击、汽油危机、移动互联网通信中断以及政治犯这些问题之下？"
+    },
+    {
+      "id": 36,
+      "startMs": 202220,
+      "endMs": 205020,
+      "en": "Has security increased here or not?",
+      "zh": "这里到底变得更安全了没有？"
+    },
+    {
+      "id": 37,
+      "startMs": 207640,
+      "endMs": 214040,
+      "en": "The so-called special military operation has become the bloodiest conflict in Europe since World War II.",
+      "zh": "所谓的“特别军事行动”已成为二战以来欧洲最血腥的冲突。"
+    },
+    {
+      "id": 38,
+      "startMs": 214920,
+      "endMs": 218280,
+      "en": "President Putin continues to predict a Russian victory.",
+      "zh": "普京总统仍在预言俄罗斯将取得胜利。"
+    },
+    {
+      "id": 39,
+      "startMs": 219080,
+      "endMs": 221240,
+      "en": "Dmitry Muratov is skeptical.",
+      "zh": "德米特里·穆拉托夫对此表示怀疑。"
+    },
+    {
+      "id": 40,
+      "startMs": 221800,
+      "endMs": 227560,
+      "en": "Understand this: there will never be victory.",
+      "zh": "要明白这一点：永远不会有胜利。"
+    },
+    {
+      "id": 41,
+      "startMs": 228360,
+      "endMs": 234600,
+      "en": "It can't be a victory when two Slavic nations have ripped a million people to shreds.",
+      "zh": "两个斯拉夫民族让一百万人粉身碎骨，这绝不可能称为胜利。"
+    },
+    {
+      "id": 42,
+      "startMs": 234600,
+      "endMs": 240760,
+      "en": "It seems to me that the situation with Ukraine now is this:",
+      "zh": "在我看来，乌克兰目前的处境是这样的："
+    },
+    {
+      "id": 43,
+      "startMs": 241000,
+      "endMs": 246680,
+      "en": "You can destroy it, but you cannot conquer it.",
+      "zh": "你可以摧毁它，却无法征服它。"
+    },
+    {
+      "id": 44,
+      "startMs": 246920,
+      "endMs": 252920,
+      "en": "What do I mean by destroy? Continued escalation all the way to nuclear war.",
+      "zh": "我所说的摧毁是什么意思？就是不断升级，直至核战争。"
+    },
+    {
+      "id": 45,
+      "startMs": 253000,
+      "endMs": 263578,
+      "en": "This year I've heard several Russian commentators championing the idea of a nuclear strike on the West.",
+      "zh": "今年，我听到几位俄罗斯评论人士鼓吹对西方发动核打击。"
+    },
+    {
+      "id": 46,
+      "startMs": 263763,
+      "endMs": 271500,
+      "en": "For example, the ultra-conservative oligarch Konstantin Malofeev outlined what he called a good scenario for Russia.",
+      "zh": "例如，极端保守派寡头康斯坦丁·马洛费耶夫描述了一个他所谓对俄罗斯有利的情景。"
+    },
+    {
+      "id": 47,
+      "startMs": 271980,
+      "endMs": 274700,
+      "en": "It included the use of a nuclear weapon.",
+      "zh": "其中包括使用核武器。"
+    },
+    {
+      "id": 48,
+      "startMs": 275420,
+      "endMs": 278380,
+      "en": "Some dismiss such talk as empty threats,",
+      "zh": "有人认为这种言论只是空洞的威胁，"
+    },
+    {
+      "id": 49,
+      "startMs": 278700,
+      "endMs": 284700,
+      "en": "but Dmitry Muratov points out no one really knows what the president is thinking or planning.",
+      "zh": "但德米特里·穆拉托夫指出，没有人真正知道总统在想什么、计划什么。"
+    },
+    {
+      "id": 50,
+      "startMs": 284700,
+      "endMs": 296060,
+      "en": "All those political experts who say, 'Putin thinks this, Putin must have decided so and so,' they're all charlatans.",
+      "zh": "那些声称“普京是这么想的，普京肯定做了某某决定”的政治专家，全都是江湖骗子。"
+    },
+    {
+      "id": 51,
+      "startMs": 296860,
+      "endMs": 301020,
+      "en": "Nobody knows what's going on in Vladimir Putin's head.",
+      "zh": "没有人知道弗拉基米尔·普京脑子里究竟在想什么。"
+    },
+    {
+      "id": 52,
+      "startMs": 301420,
+      "endMs": 303740,
+      "en": "I see things only as a journalist.",
+      "zh": "我只是以记者的身份观察事态。"
+    },
+    {
+      "id": 53,
+      "startMs": 303980,
+      "endMs": 305740,
+      "en": "I study big data,",
+      "zh": "我研究大数据，"
+    },
+    {
+      "id": 54,
+      "startMs": 306220,
+      "endMs": 313100,
+      "en": "and since the beginning of the year, the need to use nuclear weapons has been mentioned over 500 times.",
+      "zh": "而自年初以来，动用核武器的必要性已被提及五百多次。"
+    },
+    {
+      "id": 55,
+      "startMs": 313420,
+      "endMs": 318300,
+      "en": "The Russian state has designated Dmitry Muratov a foreign agent,",
+      "zh": "俄罗斯政府已将德米特里·穆拉托夫认定为“外国代理人”，"
+    },
+    {
+      "id": 56,
+      "startMs": 318300,
+      "endMs": 322380,
+      "en": "a label often used here to punish critics of the Kremlin.",
+      "zh": "这一标签在当地常被用来惩罚克里姆林宫的批评者。"
+    },
+    {
+      "id": 57,
+      "startMs": 322700,
+      "endMs": 326140,
+      "en": "They're banned from taking part in elections and from teaching.",
+      "zh": "被贴上这一标签的人不得参加选举，也不得从事教学。"
+    },
+    {
+      "id": 58,
+      "startMs": 326780,
+      "endMs": 331200,
+      "en": "It's also designed to create the sense in society of an enemy within.",
+      "zh": "它还旨在让社会产生“内部敌人”的感觉。"
+    },
+    {
+      "id": 59,
+      "startMs": 331680,
+      "endMs": 338720,
+      "en": "But Mr. Muratov prefers to focus not on his problems, but on those of his compatriots who are in jail.",
+      "zh": "但穆拉托夫更愿意关注的不是自己的困境，而是那些身陷囹圄的同胞。"
+    },
+    {
+      "id": 60,
+      "startMs": 339040,
+      "endMs": 346480,
+      "en": "What worries me most right now is that no one in the world has any interest in the political prisoners",
+      "zh": "现在最令我担忧的是，世界上没有人关心这些政治犯，"
+    },
+    {
+      "id": 61,
+      "startMs": 346800,
+      "endMs": 351840,
+      "en": "who were the first to speak out against the land grab in our neighboring country.",
+      "zh": "他们是最早站出来反对侵占我们邻国土地的人。"
+    },
+    {
+      "id": 62,
+      "startMs": 352240,
+      "endMs": 357440,
+      "en": "From a folder, he takes out a stack of photos of Russians behind bars.",
+      "zh": "他从文件夹里取出一叠身陷囹圄的俄罗斯人的照片。"
+    },
+    {
+      "id": 63,
+      "startMs": 358320,
+      "endMs": 363220,
+      "en": "There's a journalist, a local councilor, a 70-year-old pediatrician,",
+      "zh": "其中有一名记者、一位地方议员、一名70岁的儿科医生，"
+    },
+    {
+      "id": 64,
+      "startMs": 363860,
+      "endMs": 369380,
+      "en": "and a pianist, Pavel Kushnir, who was arrested after posting anti-war videos.",
+      "zh": "还有钢琴家帕维尔·库什尼尔，他因发布反战视频而被捕。"
+    },
+    {
+      "id": 65,
+      "startMs": 369620,
+      "endMs": 375620,
+      "en": "Pavel Kushnir. There's a second photo of the pianist in a coffin.",
+      "zh": "帕维尔·库什尼尔。另一张照片中，这位钢琴家躺在棺材里。"
+    },
+    {
+      "id": 66,
+      "startMs": 376340,
+      "endMs": 381620,
+      "en": "Pavel Kushnir had died in pre-trial detention during a hunger strike. He was 39.",
+      "zh": "帕维尔·库什尼尔在审前羁押期间绝食死亡，年仅39岁。"
+    },
+    {
+      "id": 67,
+      "startMs": 381940,
+      "endMs": 388580,
+      "en": "I ask Mr. Muratov, 'The fact that you're a Nobel laureate—'",
+      "zh": "我问穆拉托夫：“您是诺贝尔奖得主——”"
+    },
+    {
+      "id": 68,
+      "startMs": 388980,
+      "endMs": 392260,
+      "en": "does that give you at least some protection to say what you want?",
+      "zh": "这一身份是否至少能给您一些保护，让您可以畅所欲言？”"
+    },
+    {
+      "id": 69,
+      "startMs": 392340,
+      "endMs": 393620,
+      "en": "This is not a question for me.",
+      "zh": "这个问题不该问我。"
+    },
+    {
+      "id": 70,
+      "startMs": 393631,
+      "endMs": 402060,
+      "en": "So please, whenever you have the opportunity, ask the authorities that question.",
+      "zh": "所以，请你们有机会时去问当局这个问题。"
+    },
+    {
+      "id": 71,
+      "startMs": 402180,
+      "endMs": 406500,
+      "en": "And is there anything, I ask, that helps you through these difficult times?",
+      "zh": "我又问：“有没有什么能帮助您熬过这些艰难时刻？”"
+    },
+    {
+      "id": 72,
+      "startMs": 406530,
+      "endMs": 415300,
+      "en": "We live in a time where people stay silent, but many people do support what we do.",
+      "zh": "我们生活在一个人们保持沉默的时代，但确实有很多人支持我们所做的事。"
+    },
+    {
+      "id": 73,
+      "startMs": 416100,
+      "endMs": 420760,
+      "en": "On the streets of Moscow, my colleagues and I hear only words of gratitude.",
+      "zh": "在莫斯科街头，我和同事们听到的只有感谢的话语。"
+    },
+    {
+      "id": 74,
+      "startMs": 421240,
+      "endMs": 426600,
+      "en": "They are spoken in a whisper, but what people think is very important.",
+      "zh": "这些话是低声说出的，但人们心中的想法非常重要。"
+    },
+    {
+      "id": 75,
+      "startMs": 427000,
+      "endMs": 432200,
+      "en": "Shafts of light in an otherwise bleak picture for critics of the Kremlin.",
+      "zh": "在克里姆林宫批评者黯淡的处境中，这些话犹如几束微光。"
+    },
+    {
+      "id": 76,
+      "startMs": 433000,
+      "endMs": 435080,
+      "en": "Steve Rosenberg reporting from Moscow.",
+      "zh": "史蒂夫·罗森伯格在莫斯科报道。"
+    },
+    {
+      "id": 77,
+      "startMs": 435080,
+      "endMs": 439880,
+      "en": "And if you want to see his interview with Dmitry Muratov, go to the BBC News YouTube channel.",
+      "zh": "如果你想观看他对德米特里·穆拉托夫的采访，请前往BBC新闻YouTube频道。"
+    },
+    {
+      "id": 78,
+      "startMs": 440860,
+      "endMs": 447980,
+      "en": "Meanwhile, Ukraine has reportedly agreed to halt drone strikes on oil tankers using one Russian Black Sea port",
+      "zh": "与此同时，据报道，乌克兰已同意停止对使用俄罗斯一座黑海港口的油轮发动无人机袭击，"
+    },
+    {
+      "id": 79,
+      "startMs": 448140,
+      "endMs": 451660,
+      "en": "after a request from the US Vice President, JD Vance.",
+      "zh": "此前美国副总统JD·万斯提出了这一要求。"
+    },
+    {
+      "id": 80,
+      "startMs": 451980,
+      "endMs": 455740,
+      "en": "The Trump administration is said to be concerned about the high price of oil",
+      "zh": "据称，特朗普政府对高油价感到担忧，"
+    },
+    {
+      "id": 81,
+      "startMs": 455740,
+      "endMs": 463420,
+      "en": "and about American oil companies that have invested vast amounts of money in the Caspian Pipeline Consortium terminal in Novorossiysk.",
+      "zh": "同时也担忧美国石油公司在新罗西斯克的里海管道财团码头投入了巨额资金。"
+    },
+    {
+      "id": 82,
+      "startMs": 464060,
+      "endMs": 466540,
+      "en": "Christopher Miller from the Financial Times has the story.",
+      "zh": "英国《金融时报》的克里斯托弗·米勒带来详细报道。"
+    },
+    {
+      "id": 83,
+      "startMs": 467100,
+      "endMs": 472620,
+      "en": "I spoke with several senior Ukrainian officials, and my FT colleagues spoke with US officials,",
+      "zh": "我采访了几名乌克兰高级官员，我在《金融时报》的同事则采访了美国官员。"
+    },
+    {
+      "id": 84,
+      "startMs": 473180,
+      "endMs": 477340,
+      "en": "who all told us that on a phone call on the 31st of July,",
+      "zh": "他们都告诉我们，在7月31日的一次通话中，"
+    },
+    {
+      "id": 85,
+      "startMs": 477660,
+      "endMs": 481580,
+      "en": "JD Vance requested to Volodymyr Zelensky, the Ukrainian president,",
+      "zh": "JD·万斯向乌克兰总统弗拉基米尔·泽连斯基提出要求，"
+    },
+    {
+      "id": 86,
+      "startMs": 481660,
+      "endMs": 490620,
+      "en": "that the president ask his Ukrainian drone forces to stop striking the Caspian Pipeline Consortium terminal",
+      "zh": "要求总统下令乌克兰无人机部队停止袭击里海管道财团码头，"
+    },
+    {
+      "id": 87,
+      "startMs": 490700,
+      "endMs": 497900,
+      "en": "in the Russian port of Novorossiysk, a terminal that carries crude piped from Kazakhstan to the Black Sea ports there.",
+      "zh": "该码头位于俄罗斯港口新罗西斯克，输送由哈萨克斯坦经管道运往当地黑海港口的原油。"
+    },
+    {
+      "id": 88,
+      "startMs": 498220,
+      "endMs": 503920,
+      "en": "And this phone call took place just three days after Zelensky had visited the White House,",
+      "zh": "这次通话发生在泽连斯基访问白宫仅仅三天之后，"
+    },
+    {
+      "id": 89,
+      "startMs": 504000,
+      "endMs": 506240,
+      "en": "where he met Donald Trump in the Oval Office,",
+      "zh": "他在那里与唐纳德·特朗普在椭圆形办公室会面，"
+    },
+    {
+      "id": 90,
+      "startMs": 506640,
+      "endMs": 510800,
+      "en": "and they spoke about ways to try to bring the war to an end,",
+      "zh": "双方讨论了如何设法结束战争，"
+    },
+    {
+      "id": 91,
+      "startMs": 510800,
+      "endMs": 515680,
+      "en": "and Zelensky asked for greater support in terms of American military assistance.",
+      "zh": "泽连斯基还要求美国提供更多军事援助。"
+    },
+    {
+      "id": 92,
+      "startMs": 515840,
+      "endMs": 519520,
+      "en": "But it's not the first time that the Americans have made this request.",
+      "zh": "但这并不是美国人第一次提出这一要求。"
+    },
+    {
+      "id": 93,
+      "startMs": 519760,
+      "endMs": 525840,
+      "en": "Earlier this year, they told the then Ukrainian ambassador to Washington, Olha Stefanishyna,",
+      "zh": "今年早些时候，他们曾告知时任乌克兰驻华盛顿大使奥莉加·斯特凡尼希娜，"
+    },
+    {
+      "id": 94,
+      "startMs": 525840,
+      "endMs": 531440,
+      "en": "that they wanted the Ukrainians to stop striking the CPC terminal in Novorossiysk.",
+      "zh": "他们希望乌克兰方面停止袭击新罗西斯克的CPC码头。"
+    },
+    {
+      "id": 95,
+      "startMs": 531520,
+      "endMs": 537200,
+      "en": "And she received a formal warning from the US State Department, which she passed on to Kyiv.",
+      "zh": "她收到了美国国务院的正式警告，并将其转达给基辅。"
+    },
+    {
+      "id": 96,
+      "startMs": 537200,
+      "endMs": 543520,
+      "en": "But it's really come to a head, you know, several months after the US's war with Iran,",
+      "zh": "但在美国与伊朗的战争过去数月后，这件事确实到了紧要关头，"
+    },
+    {
+      "id": 97,
+      "startMs": 543520,
+      "endMs": 548800,
+      "en": "because the Strait of Hormuz that's closed had a big impact on oil prices around the world.",
+      "zh": "因为霍尔木兹海峡关闭，对全球油价造成了巨大影响。"
+    },
+    {
+      "id": 98,
+      "startMs": 548800,
+      "endMs": 554320,
+      "en": "Well, now you've got this other pipeline that's being attacked as part of the Russian-Ukrainian war,",
+      "zh": "而现在，另一条管道也因俄乌战争而遭到袭击，"
+    },
+    {
+      "id": 99,
+      "startMs": 554320,
+      "endMs": 561860,
+      "en": "and so the Americans are interested in seeing the price of oil drop and to see more oil on the global market.",
+      "zh": "因此，美国人希望油价下降，也希望全球市场上有更多石油供应。"
+    },
+    {
+      "id": 100,
+      "startMs": 561860,
+      "endMs": 565460,
+      "en": "And so they've been asking the Ukrainians now for a while to stop it.",
+      "zh": "所以，他们一段时间以来一直要求乌克兰方面停止袭击。"
+    },
+    {
+      "id": 101,
+      "startMs": 565540,
+      "endMs": 570660,
+      "en": "And there is one other reason why they've done so more insistently recently,",
+      "zh": "他们最近更加坚决地提出这一要求，还有另一个原因，"
+    },
+    {
+      "id": 102,
+      "startMs": 570660,
+      "endMs": 576900,
+      "en": "and that is because the American companies Chevron and ExxonMobil also have stakes in this pipeline.",
+      "zh": "那就是美国公司雪佛龙和埃克森美孚也持有这条管道的股份。"
+    },
+    {
+      "id": 103,
+      "startMs": 577220,
+      "endMs": 579300,
+      "en": "Christopher Miller from the Financial Times.",
+      "zh": "英国《金融时报》的克里斯托弗·米勒。"
+    },
+    {
+      "id": 104,
+      "startMs": 580100,
+      "endMs": 584660,
+      "en": "She is the youngest ever White House press secretary, but after 18 months in the job,",
+      "zh": "她是白宫历史上最年轻的新闻秘书，但任职18个月后，"
+    },
+    {
+      "id": 105,
+      "startMs": 584740,
+      "endMs": 587940,
+      "en": "28-year-old Karoline Leavitt is stepping down.",
+      "zh": "28岁的卡罗琳·莱维特将辞去职务。"
+    },
+    {
+      "id": 106,
+      "startMs": 588260,
+      "endMs": 594500,
+      "en": "President Trump said she would leave at the end of the month to spend more time with her, quote, ‘beautiful young children and family.’",
+      "zh": "特朗普总统表示，她将在本月底离职，以便花更多时间陪伴她所说的“可爱的年幼子女和家人”。"
+    },
+    {
+      "id": 107,
+      "startMs": 594900,
+      "endMs": 602340,
+      "en": "Ms Leavitt recently had a second child with her 60-year-old husband, Nicholas Riccio, and returned to work from maternity leave last month.",
+      "zh": "莱维特女士最近与60岁的丈夫尼古拉斯·里乔生下第二个孩子，并于上个月结束产假返岗。"
+    },
+    {
+      "id": 108,
+      "startMs": 602900,
+      "endMs": 609780,
+      "en": "During her time as press secretary, she earned a reputation as a fierce defender of the president's policies and actions.",
+      "zh": "在担任新闻秘书期间，她以强力捍卫总统的政策和行动而闻名。"
+    },
+    {
+      "id": 109,
+      "startMs": 610340,
+      "endMs": 614980,
+      "en": "It's only because of the United States of America that the French are not speaking German right now.",
+      "zh": "正是因为有美利坚合众国，法国人现在才没有说德语。"
+    },
+    {
+      "id": 110,
+      "startMs": 615460,
+      "endMs": 623220,
+      "en": "All Americans would agree that funding mastectomies in Mozambique is not something that the American people should be funding.",
+      "zh": "所有美国人都会同意，资助莫桑比克的乳房切除手术不该由美国人民买单。"
+    },
+    {
+      "id": 111,
+      "startMs": 623460,
+      "endMs": 629220,
+      "en": "Canada has been ripping off the United States of America and hardworking Americans for decades.",
+      "zh": "加拿大几十年来一直在占美利坚合众国和勤劳美国人的便宜。"
+    },
+    {
+      "id": 112,
+      "startMs": 629780,
+      "endMs": 635300,
+      "en": "It is a fact that the body of water off the coast of Louisiana is called the Gulf of America,",
+      "zh": "路易斯安那州海岸外的那片水域名为“美国湾”，这是事实，"
+    },
+    {
+      "id": 113,
+      "startMs": 635300,
+      "endMs": 640020,
+      "en": "and I'm not sure why news outlets don't want to call it that, but that is what it is.",
+      "zh": "我不明白新闻媒体为何不愿这样称呼，但它的名称就是如此。"
+    },
+    {
+      "id": 114,
+      "startMs": 640520,
+      "endMs": 644920,
+      "en": "Here's more about why Karoline Leavitt is leaving from Tom Bateman in Washington.",
+      "zh": "以下是汤姆·贝特曼从华盛顿带来的更多报道，说明卡罗琳·莱维特为何离职。"
+    },
+    {
+      "id": 115,
+      "startMs": 645320,
+      "endMs": 653000,
+      "en": "She says that, simply, she didn't feel like she could be the best mum possible to her children, given the demands of the job in the White House,",
+      "zh": "她表示，简单来说，鉴于白宫工作的繁重要求，她觉得自己无法尽可能成为孩子们最好的母亲，"
+    },
+    {
+      "id": 116,
+      "startMs": 653000,
+      "endMs": 655960,
+      "en": "and that is why she is departing for family reasons.",
+      "zh": "因此她出于家庭原因选择离职。"
+    },
+    {
+      "id": 117,
+      "startMs": 656280,
+      "endMs": 662120,
+      "en": "A message that was echoed by Donald Trump when he paid tribute to her in a social media post as well.",
+      "zh": "唐纳德·特朗普也在社交媒体发文向她致意时，呼应了这一说法。"
+    },
+    {
+      "id": 118,
+      "startMs": 662520,
+      "endMs": 667640,
+      "en": "And they have said that she will remain in an outside advisor role to the president.",
+      "zh": "他们还表示，她将继续担任总统的外部顾问。"
+    },
+    {
+      "id": 119,
+      "startMs": 667880,
+      "endMs": 674120,
+      "en": "Yeah, I mean, she's been a powerful advocate of Donald Trump's policies, despite her young age.",
+      "zh": "是的，我是说，尽管她很年轻，却一直是唐纳德·特朗普政策的有力支持者。"
+    },
+    {
+      "id": 120,
+      "startMs": 674520,
+      "endMs": 678600,
+      "en": "Very much so. She's had a very combative style on the podium.",
+      "zh": "的确如此。她在讲台上的风格非常好斗。"
+    },
+    {
+      "id": 121,
+      "startMs": 678600,
+      "endMs": 683800,
+      "en": "I think somebody who is seen to, at that very young age in her late 20s, be able to articulate—",
+      "zh": "我认为，她年纪轻轻、还不到30岁，却被认为能够清楚表达——"
+    },
+    {
+      "id": 122,
+      "startMs": 683800,
+      "endMs": 688520,
+      "en": "almost, to sort of second-guess what Mr Trump might say about any given issue.",
+      "zh": "几乎能揣摩出特朗普先生对任何特定问题可能会说什么。"
+    },
+    {
+      "id": 123,
+      "startMs": 688840,
+      "endMs": 697320,
+      "en": "And she has not refrained from holding back to lash out at reporters that the White House has an ideological problem with.",
+      "zh": "而对于那些白宫认为在意识形态上有问题的记者，她也毫不克制地予以抨击。"
+    },
+    {
+      "id": 124,
+      "startMs": 697560,
+      "endMs": 701820,
+      "en": "And even in the leaving note, she says, ‘I've relished holding the liberal media accountable.’",
+      "zh": "甚至在离职声明中，她也说：“我一直很享受追究自由派媒体的责任。”"
+    },
+    {
+      "id": 125,
+      "startMs": 702140,
+      "endMs": 709660,
+      "en": "In this, what has become really a feature of this administration, the way they have tried to turn the tables of accountability,",
+      "zh": "这已成为本届政府的一大特征：他们试图扭转问责关系，"
+    },
+    {
+      "id": 126,
+      "startMs": 709660,
+      "endMs": 713820,
+      "en": "suggesting that it's the role of the White House and the US government to hold the media to account.",
+      "zh": "声称监督问责媒体是白宫和美国政府的职责。"
+    },
+    {
+      "id": 127,
+      "startMs": 714140,
+      "endMs": 718540,
+      "en": "Will you and your fellow journalists in the Washington press pack, will you miss her?",
+      "zh": "你和华盛顿记者团的同行们会想念她吗？"
+    },
+    {
+      "id": 128,
+      "startMs": 718860,
+      "endMs": 726140,
+      "en": "Well, you know, it's a professional relationship, and the role of the White House press secretary is to be a first point of contact,",
+      "zh": "嗯，你知道，这是一种工作关系，而白宫新闻秘书的职责是充当首要联络人，"
+    },
+    {
+      "id": 129,
+      "startMs": 726540,
+      "endMs": 729580,
+      "en": "as well as a gatekeeper, in that sense, to the president.",
+      "zh": "从这个意义上说，也是接触总统的把关人。"
+    },
+    {
+      "id": 130,
+      "startMs": 729980,
+      "endMs": 736940,
+      "en": "But certainly, in, you know, my experience, you're talking about somebody that has acted behind the scenes, you know, with real professionalism—",
+      "zh": "但就我的经验而言，你所说的这个人在幕后行事时确实非常专业——"
+    },
+    {
+      "id": 131,
+      "startMs": 736940,
+      "endMs": 739660,
+      "en": "for example, on Air Force One trips.",
+      "zh": "例如在“空军一号”的行程中。"
+    },
+    {
+      "id": 132,
+      "startMs": 739980,
+      "endMs": 747420,
+      "en": "Somebody that has, given there has been this very fractured and tense relationship between the media and the White House itself,",
+      "zh": "考虑到媒体与白宫之间的关系已经非常破裂和紧张，她这样一个人，"
+    },
+    {
+      "id": 133,
+      "startMs": 747740,
+      "endMs": 752940,
+      "en": "I think it is certainly possible to have press secretaries that would be harder to deal with.",
+      "zh": "我认为，当然可能会有比她更难打交道的新闻秘书。"
+    },
+    {
+      "id": 134,
+      "startMs": 753500,
+      "endMs": 760060,
+      "en": "On the other hand, one incident comes to mind where a reporter was really angrily attacked by Karoline Leavitt,",
+      "zh": "另一方面，我想起一件事：一名记者曾遭到卡罗琳·莱维特非常愤怒的抨击，"
+    },
+    {
+      "id": 135,
+      "startMs": 760320,
+      "endMs": 764320,
+      "en": "because she didn't like the nature of the question in the briefing room.",
+      "zh": "因为她不喜欢对方在简报室所提问题的性质。"
+    },
+    {
+      "id": 136,
+      "startMs": 764320,
+      "endMs": 774240,
+      "en": "And that has been a feature, I think, that certainly many who study the relationship between the press and elected politicians in the US have been quite aghast at.",
+      "zh": "我认为，这也成了一种特征，许多研究美国新闻界与民选政治人物关系的人对此无疑相当震惊。"
+    },
+    {
+      "id": 137,
+      "startMs": 774720,
+      "endMs": 782160,
+      "en": "Also, given that Mr Trump himself has angrily abused verbally reporters, particularly women.",
+      "zh": "此外，特朗普先生本人也曾愤怒地辱骂记者，尤其是女记者。"
+    },
+    {
+      "id": 138,
+      "startMs": 782640,
+      "endMs": 786240,
+      "en": "And so we've sort of seen that part of this relationship as well,",
+      "zh": "所以，我们也算是看到了这段关系的这一面，"
+    },
+    {
+      "id": 139,
+      "startMs": 786480,
+      "endMs": 790000,
+      "en": "which has been really quite concerning, I think, for those that believe in the freedom of the press.",
+      "zh": "我认为，这让那些信奉新闻自由的人相当担忧。"
+    },
+    {
+      "id": 140,
+      "startMs": 790320,
+      "endMs": 795440,
+      "en": "But more broadly, when it comes to the departure of Karoline Leavitt, I think there may be more to come about this.",
+      "zh": "但更广泛地说到卡罗琳·莱维特的离职，我认为这件事可能还有后续。"
+    },
+    {
+      "id": 141,
+      "startMs": 795440,
+      "endMs": 798480,
+      "en": "If there is more to this than meets the eye,",
+      "zh": "如果此事背后另有隐情，"
+    },
+    {
+      "id": 142,
+      "startMs": 798480,
+      "endMs": 801200,
+      "en": "we just don't know yet because this news is really only just broken.",
+      "zh": "我们目前还不知道，因为这条消息确实才刚刚传出。"
+    },
+    {
+      "id": 143,
+      "startMs": 801440,
+      "endMs": 806080,
+      "en": "But I think it fits with the way we've seen other departures handled from the administration,",
+      "zh": "但我认为，这符合我们看到本届政府处理其他人事离职的方式，"
+    },
+    {
+      "id": 144,
+      "startMs": 806080,
+      "endMs": 815120,
+      "en": "where people have been moved to other jobs, or described as a promotion, or some kind of way that their role is evolving,",
+      "zh": "相关人员会被调往其他职位，或被描述为升职，又或者说其角色正在以某种方式演变，"
+    },
+    {
+      "id": 145,
+      "startMs": 815360,
+      "endMs": 821940,
+      "en": "rather than what we saw in the first Trump term, which was a whole series of sackings and angry resignations,",
+      "zh": "而不是像特朗普首个任期那样，接连出现解雇和愤怒辞职，"
+    },
+    {
+      "id": 146,
+      "startMs": 822180,
+      "endMs": 827700,
+      "en": "a lot of animosity and real kind of chaos about the personnel issues of the staff around Mr Trump.",
+      "zh": "特朗普先生身边工作人员的人事问题充满敌意，甚至是真正意义上的混乱。"
+    },
+    {
+      "id": 147,
+      "startMs": 827940,
+      "endMs": 835380,
+      "en": "This White House has kept a much more disciplined line, and when departures have taken place, they've been managed far more carefully.",
+      "zh": "本届白宫保持了严整得多的口径，出现人员离职时，处理方式也谨慎得多。"
+    },
+    {
+      "id": 148,
+      "startMs": 835860,
+      "endMs": 837300,
+      "en": "Tom Bateman in Washington.",
+      "zh": "汤姆·贝特曼在华盛顿报道。"
+    },
+    {
+      "id": 149,
+      "startMs": 838240,
+      "endMs": 845520,
+      "en": "It was billed as the most significant solar eclipse in Europe for almost three decades, and by all accounts, it didn't disappoint.",
+      "zh": "它被誉为近三十年来欧洲最重要的一次日食，而从各方反响来看，它没有令人失望。"
+    },
+    {
+      "id": 150,
+      "startMs": 845920,
+      "endMs": 852080,
+      "en": "Millions of people from Iceland and Greenland to northern Portugal and Spain witnessed what's called totality,",
+      "zh": "从冰岛和格陵兰岛到葡萄牙北部和西班牙，数百万人目睹了所谓的日全食，"
+    },
+    {
+      "id": 151,
+      "startMs": 852480,
+      "endMs": 854640,
+      "en": "when the sun is completely blocked by the moon.",
+      "zh": "即太阳被月球完全遮住。"
+    },
+    {
+      "id": 152,
+      "startMs": 855280,
+      "endMs": 860640,
+      "en": "In the UK and other parts of the continent, the eclipse was partial, but still drew plenty of onlookers.",
+      "zh": "在英国和欧洲大陆其他地区，人们看到的是日偏食，但仍吸引了大批观众。"
+    },
+    {
+      "id": 153,
+      "startMs": 860800,
+      "endMs": 867760,
+      "en": "Our science correspondent Pallab Ghosh was in northern Spain to see it for himself and sent this report from the city of Burgos.",
+      "zh": "本台科学记者帕拉布·高希身在西班牙北部亲眼见证，并从布尔戈斯市发来报道。"
+    },
+    {
+      "id": 154,
+      "startMs": 868320,
+      "endMs": 873520,
+      "en": "Those lucky enough to watch the total eclipse saw all they could have hoped for, and more.",
+      "zh": "有幸观看日全食的人不仅看到了期盼中的一切，还收获了更多。"
+    },
+    {
+      "id": 155,
+      "startMs": 874000,
+      "endMs": 879440,
+      "en": "The last sliver of sunlight disappeared as the moon covered the sun's bright disc.",
+      "zh": "当月球遮住太阳明亮的圆面时，最后一丝阳光消失了。"
+    },
+    {
+      "id": 156,
+      "startMs": 880000,
+      "endMs": 884800,
+      "en": "A flash, a diamond ring in the sky, and then totality.",
+      "zh": "一道闪光，天空中出现一枚钻石戒指，随后便是全食。"
+    },
+    {
+      "id": 157,
+      "startMs": 885280,
+      "endMs": 892720,
+      "en": "The sun's shimmering atmosphere, normally hidden, but now for a minute and three quarters, revealed in all its glory.",
+      "zh": "太阳闪烁的大气层通常隐而不见，此刻却在一分四十五秒里尽展光辉。"
+    },
+    {
+      "id": 158,
+      "startMs": 893200,
+      "endMs": 895920,
+      "en": "We could see bright red triangles at the edges.",
+      "zh": "我们能看到边缘处鲜红色的三角形。"
+    },
+    {
+      "id": 159,
+      "startMs": 896400,
+      "endMs": 901300,
+      "en": "These were nuclear explosions many times the size of the Earth.",
+      "zh": "这些是规模达到地球许多倍的核爆发。"
+    },
+    {
+      "id": 160,
+      "startMs": 901380,
+      "endMs": 906840,
+      "en": "Oh my goodness! I've literally got goosebumps.",
+      "zh": "天哪！我真的起了一身鸡皮疙瘩。"
+    },
+    {
+      "id": 161,
+      "startMs": 907480,
+      "endMs": 912600,
+      "en": "It's not just from the cold; it's about the spectacle that I've just witnessed.",
+      "zh": "这不只是因为寒冷，更是因为我刚刚目睹的奇观。"
+    },
+    {
+      "id": 162,
+      "startMs": 913080,
+      "endMs": 921000,
+      "en": "This reminds us of what it is to be human, that we are a small planet in a vast cosmos,",
+      "zh": "这提醒我们何谓身为人类：我们是浩瀚宇宙中的一颗小小行星，"
+    },
+    {
+      "id": 163,
+      "startMs": 921720,
+      "endMs": 926680,
+      "en": "and we're seeing the sun in its beautiful hidden form. Amazing.",
+      "zh": "而我们正看到太阳美丽却隐秘的形态。太神奇了。"
+    },
+    {
+      "id": 164,
+      "startMs": 927720,
+      "endMs": 932520,
+      "en": "On the ground, there was awe and sheer delight from those who witnessed the sight.",
+      "zh": "在地面上，目睹这一景象的人们充满敬畏与纯粹的喜悦。"
+    },
+    {
+      "id": 165,
+      "startMs": 932840,
+      "endMs": 941120,
+      "en": "It is going, and it is going, and... it's gone! We are in darkness!",
+      "zh": "它正在消失，还在消失，然后……没了！我们陷入黑暗了！"
+    },
+    {
+      "id": 166,
+      "startMs": 941520,
+      "endMs": 947360,
+      "en": "I can't believe this. Oh my goodness, I've taken my glasses off, and it is absolutely unbelievable.",
+      "zh": "真不敢相信。天哪，我已经摘下眼镜了，这简直难以置信。"
+    },
+    {
+      "id": 167,
+      "startMs": 947520,
+      "endMs": 951840,
+      "en": "The way the light was changing within a few seconds, that was really exciting.",
+      "zh": "光线在短短几秒内发生变化的方式，真的令人激动。"
+    },
+    {
+      "id": 168,
+      "startMs": 951840,
+      "endMs": 955040,
+      "en": "It was really, really amazing. It went too quickly for me,",
+      "zh": "真的、真的太奇妙了。对我来说，它结束得太快了，"
+    },
+    {
+      "id": 169,
+      "startMs": 955440,
+      "endMs": 959680,
+      "en": "but the moment when the moon went over the sun was incredible.",
+      "zh": "但月球越过太阳的那一刻令人难以置信。"
+    },
+    {
+      "id": 170,
+      "startMs": 960240,
+      "endMs": 963200,
+      "en": "It was surreal. It just feels like you're in a movie.",
+      "zh": "那感觉太不真实了，就像置身电影之中。"
+    },
+    {
+      "id": 171,
+      "startMs": 963200,
+      "endMs": 970080,
+      "en": "Everything stands still, like it was really quiet, and it just felt like, I don't know, something out-of-body experience.",
+      "zh": "一切仿佛静止了，周围真的非常安静，感觉就像——我也说不清——某种灵魂出窍的体验。"
+    },
+    {
+      "id": 172,
+      "startMs": 970080,
+      "endMs": 974000,
+      "en": "It really took my breath away. You feel emotional as well.",
+      "zh": "它真的令我屏息，你也会情绪激动。"
+    },
+    {
+      "id": 173,
+      "startMs": 974160,
+      "endMs": 978640,
+      "en": "You know, it just doesn't feel real at all, and it's definitely something I'm going to remember for the rest of my life.",
+      "zh": "你知道，这一切感觉完全不真实，而且绝对会成为我终生难忘的经历。"
+    },
+    {
+      "id": 174,
+      "startMs": 978880,
+      "endMs": 982080,
+      "en": "Two people were crying around us, so, yeah, it was special.",
+      "zh": "我们周围有两个人哭了，所以，是的，这很特别。"
+    },
+    {
+      "id": 175,
+      "startMs": 982900,
+      "endMs": 989540,
+      "en": "It ended as it began: a diamond ring, a flash, and then the moon and the sun went their separate ways,",
+      "zh": "它以开始时的方式结束：一枚钻石戒指，一道闪光，随后月球与太阳各自远去，"
+    },
+    {
+      "id": 176,
+      "startMs": 990100,
+      "endMs": 995780,
+      "en": "leaving those who saw this spectacular cosmic show with an unforgettable experience.",
+      "zh": "给目睹这场壮观宇宙表演的人们留下一段难忘的经历。"
+    },
+    {
+      "id": 177,
+      "startMs": 996180,
+      "endMs": 997060,
+      "en": "Pallab Ghosh.",
+      "zh": "帕拉布·高希报道。"
+    },
+    {
+      "id": 178,
+      "startMs": 999840,
+      "endMs": 1001280,
+      "en": "And still to come on this podcast...",
+      "zh": "本期播客稍后还有……"
+    },
+    {
+      "id": 179,
+      "startMs": 1001280,
+      "endMs": 1006240,
+      "en": "At first, it was just for fun. It was really a joke among friends.",
+      "zh": "起初只是为了好玩，真的是朋友间的一个玩笑。"
+    },
+    {
+      "id": 180,
+      "startMs": 1006240,
+      "endMs": 1011200,
+      "en": "Then, little by little, I started adding a tape measure at the front and finding a magnet.",
+      "zh": "后来，我一点一点地开始在前面加上卷尺，又找来一块磁铁。"
+    },
+    {
+      "id": 181,
+      "startMs": 1011200,
+      "endMs": 1014800,
+      "en": "The shoes designed specially for playing pétanque.",
+      "zh": "专为玩法式滚球设计的鞋子。"
+    },
+    {
+      "id": 182,
+      "startMs": 1014800,
+      "endMs": 1016960,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 183,
+      "startMs": 1017680,
+      "endMs": 1027040,
+      "en": "Immigration agents in the US could soon be issued with gloves that deliver electric shocks to enforce compliance from combative individuals they detain.",
+      "zh": "美国移民执法人员可能很快会配发能够释放电击的手套，用来迫使被拘留的反抗者服从。"
+    },
+    {
+      "id": 184,
+      "startMs": 1027600,
+      "endMs": 1032960,
+      "en": "But ICE is already facing criticism for its use of force during President Trump's immigration crackdown.",
+      "zh": "但在特朗普总统的移民打击行动中，美国移民与海关执法局已因使用武力而受到批评。"
+    },
+    {
+      "id": 185,
+      "startMs": 1033120,
+      "endMs": 1035120,
+      "en": "Here's our North America editor, Sarah Smith.",
+      "zh": "请听本台北美编辑莎拉·史密斯的报道。"
+    },
+    {
+      "id": 186,
+      "startMs": 1035680,
+      "endMs": 1041840,
+      "en": "Immigration and Customs Enforcement plan to spend $20 million on the gloves that are due to arrive by March next year.",
+      "zh": "美国移民与海关执法局计划斥资2000万美元购买这种手套，预计明年3月前到货。"
+    },
+    {
+      "id": 187,
+      "startMs": 1042240,
+      "endMs": 1047360,
+      "en": "They can deliver painful electric shocks with a maximum strength of up to 380 volts,",
+      "zh": "这种手套能释放令人疼痛的电击，最高电压可达380伏，"
+    },
+    {
+      "id": 188,
+      "startMs": 1047360,
+      "endMs": 1052960,
+      "en": "which the manufacturers say inhibits or distracts the subject from performing coordinated muscle movement.",
+      "zh": "制造商称，这会抑制或干扰对象做出协调的肌肉动作。"
+    },
+    {
+      "id": 189,
+      "startMs": 1053840,
+      "endMs": 1057040,
+      "en": "They claim that's usually enough to make people comply within less than three seconds.",
+      "zh": "他们声称，这通常足以让人在不到三秒内服从。"
+    },
+    {
+      "id": 190,
+      "startMs": 1057040,
+      "endMs": 1060560,
+      "en": "The gloves have already been used in some American jails.",
+      "zh": "这种手套已在美国一些监狱中使用。"
+    },
+    {
+      "id": 191,
+      "startMs": 1061040,
+      "endMs": 1064800,
+      "en": "Many ICE officers have already faced intense criticism for their use of force",
+      "zh": "许多移民与海关执法局人员已因使用武力而受到强烈批评，"
+    },
+    {
+      "id": 192,
+      "startMs": 1064800,
+      "endMs": 1070560,
+      "en": "against detainees and protesters as they've carried out the Trump administration's immigration crackdown across the country.",
+      "zh": "他们在全国执行特朗普政府移民打击行动时，对被拘留者和抗议者动用了武力。"
+    },
+    {
+      "id": 193,
+      "startMs": 1071280,
+      "endMs": 1076640,
+      "en": "Civil liberties activists have warned that giving immigration agents a concealed means of delivering terrible pain",
+      "zh": "公民自由活动人士警告，给移民执法人员一种可隐蔽制造剧痛的手段，"
+    },
+    {
+      "id": 194,
+      "startMs": 1076880,
+      "endMs": 1079840,
+      "en": "is a recipe for harm to the public and less accountability.",
+      "zh": "会导致公众受害，并削弱问责。"
+    },
+    {
+      "id": 195,
+      "startMs": 1080320,
+      "endMs": 1086480,
+      "en": "The manufacturer says the device should not be used as a punishment against people merely exhibiting verbal defiance or belligerence,",
+      "zh": "制造商表示，不应把这种装置用来惩罚仅在言语上抗拒或态度挑衅的人，"
+    },
+    {
+      "id": 196,
+      "startMs": 1086880,
+      "endMs": 1091680,
+      "en": "or on high-risk populations such as children, pregnant women, or elderly or disabled people.",
+      "zh": "也不应对儿童、孕妇、老年人或残障人士等高风险人群使用。"
+    },
+    {
+      "id": 197,
+      "startMs": 1092400,
+      "endMs": 1096480,
+      "en": "The Department of Homeland Security said that ICE agents were targeting the worst of the worst",
+      "zh": "美国国土安全部表示，移民与海关执法局人员针对的是“最恶劣的罪犯”，"
+    },
+    {
+      "id": 198,
+      "startMs": 1096800,
+      "endMs": 1100320,
+      "en": "and had faced a 1,300% increase in assaults.",
+      "zh": "而他们遭遇的袭击增加了1300%。"
+    },
+    {
+      "id": 199,
+      "startMs": 1100720,
+      "endMs": 1101360,
+      "en": "Sarah Smith.",
+      "zh": "莎拉·史密斯报道。"
+    },
+    {
+      "id": 200,
+      "startMs": 1102320,
+      "endMs": 1106080,
+      "en": "The Australian government has been accused of undermining a program",
+      "zh": "澳大利亚政府被指正在削弱一项计划，"
+    },
+    {
+      "id": 201,
+      "startMs": 1106080,
+      "endMs": 1110080,
+      "en": "that helps support more than three-quarters of a million people with lifelong disabilities.",
+      "zh": "该计划为超过75万名终身残障人士提供支持。"
+    },
+    {
+      "id": 202,
+      "startMs": 1110640,
+      "endMs": 1116000,
+      "en": "The National Disability Insurance Scheme allocates funding based on individual needs",
+      "zh": "国家残障保险计划根据个人需求分配资金，"
+    },
+    {
+      "id": 203,
+      "startMs": 1116000,
+      "endMs": 1118720,
+      "en": "and gives people a certain amount of freedom on how it's spent.",
+      "zh": "并让人们在资金使用方式上拥有一定自由。"
+    },
+    {
+      "id": 204,
+      "startMs": 1119200,
+      "endMs": 1124240,
+      "en": "Critics say the initiative has become a victim of its own success and is costing the government too much money.",
+      "zh": "批评者说，这项计划因自身成功而陷入困境，给政府造成了过高开支。"
+    },
+    {
+      "id": 205,
+      "startMs": 1124800,
+      "endMs": 1129600,
+      "en": "Disabled Australians and their carers say reforms proposed by the government",
+      "zh": "澳大利亚残障人士及其照护者说，政府提出的改革，"
+    },
+    {
+      "id": 206,
+      "startMs": 1129600,
+      "endMs": 1133280,
+      "en": "which could be voted on in the coming days, are certain to harm the community.",
+      "zh": "可能在未来几天表决，必定会伤害残障群体。"
+    },
+    {
+      "id": 207,
+      "startMs": 1133840,
+      "endMs": 1136960,
+      "en": "This report from our Australia correspondent, Katie Watson.",
+      "zh": "请听本台驻澳大利亚记者凯蒂·沃森的报道。"
+    },
+    {
+      "id": 208,
+      "startMs": 1137520,
+      "endMs": 1140080,
+      "en": "Yeah, that's good work. I think we're going to change legs. Let's change.",
+      "zh": "对，做得很好。我想我们该换一条腿了。来，换吧。"
+    },
+    {
+      "id": 209,
+      "startMs": 1140240,
+      "endMs": 1143360,
+      "en": "It's Thursday afternoon, and time for PhysioSize.",
+      "zh": "现在是周四下午，又到了“运动理疗”时间。"
+    },
+    {
+      "id": 210,
+      "startMs": 1143760,
+      "endMs": 1147840,
+      "en": "Support worker Cally is helping her client, Fran, flex those muscles.",
+      "zh": "支持工作者凯莉正帮助她的服务对象弗兰活动肌肉。"
+    },
+    {
+      "id": 211,
+      "startMs": 1148080,
+      "endMs": 1149680,
+      "en": "Yeah, it is hard work. It's supposed to be.",
+      "zh": "是啊，挺累的。本来就应该如此。"
+    },
+    {
+      "id": 212,
+      "startMs": 1150000,
+      "endMs": 1153200,
+      "en": "PhysioSize is just one of several activities Fran does each week.",
+      "zh": "“运动理疗”只是弗兰每周参加的多项活动之一。"
+    },
+    {
+      "id": 213,
+      "startMs": 1153840,
+      "endMs": 1159600,
+      "en": "She's 39 and has Down syndrome, a genetic condition that causes physical and intellectual disabilities.",
+      "zh": "她39岁，患有唐氏综合征；这是一种会造成身体和智力障碍的遗传疾病。"
+    },
+    {
+      "id": 214,
+      "startMs": 1160480,
+      "endMs": 1166980,
+      "en": "Fran's a participant of the NDIS, a scheme aimed at supporting Australians with lifelong and significant disabilities.",
+      "zh": "弗兰是国家残障保险计划的参与者，该计划旨在支持有终身重大残障的澳大利亚人。"
+    },
+    {
+      "id": 215,
+      "startMs": 1167700,
+      "endMs": 1173620,
+      "en": "When it was first introduced more than a decade ago, it ushered in a very different approach to disability support,",
+      "zh": "十多年前首次推出时，它带来了一种截然不同的残障支持方式，"
+    },
+    {
+      "id": 216,
+      "startMs": 1174100,
+      "endMs": 1178900,
+      "en": "making sure people were at the centre of decision-making rather than having to beg for welfare.",
+      "zh": "确保当事人处于决策中心，而不必低声下气地乞求福利。"
+    },
+    {
+      "id": 217,
+      "startMs": 1179640,
+      "endMs": 1182360,
+      "en": "But the scheme's success has also been its undoing.",
+      "zh": "但这项计划也因自身的成功而陷入困境。"
+    },
+    {
+      "id": 218,
+      "startMs": 1182600,
+      "endMs": 1185720,
+      "en": "It's grown too fast, and it's costing the government too much.",
+      "zh": "它扩张得太快，政府支出也过高。"
+    },
+    {
+      "id": 219,
+      "startMs": 1185720,
+      "endMs": 1192600,
+      "en": "Health Minister Mark Butler explained the reasons why the government's planning to reform the system",
+      "zh": "卫生部长马克·巴特勒解释了政府计划改革这一制度的原因；"
+    },
+    {
+      "id": 220,
+      "startMs": 1192600,
+      "endMs": 1196360,
+      "en": "that now costs more than twice what it was meant to when it was first introduced.",
+      "zh": "如今它的开支已超过最初设计时的两倍。"
+    },
+    {
+      "id": 221,
+      "startMs": 1196600,
+      "endMs": 1201320,
+      "en": "The philosophical underpinnings for a lifelong scheme of support are necessarily different.",
+      "zh": "终身支持计划的理念基础必然有所不同。"
+    },
+    {
+      "id": 222,
+      "startMs": 1201880,
+      "endMs": 1207640,
+      "en": "I think what I've tried to outline today is the need to get back to those basic design pillars",
+      "zh": "我想，我今天试图阐明的是，我们需要回归那些基本的设计支柱，"
+    },
+    {
+      "id": 223,
+      "startMs": 1207640,
+      "endMs": 1213080,
+      "en": "of a well-functioning social program that's working for participants, but also is effective for taxpayers.",
+      "zh": "让社会项目既能为参与者有效运作，也能对纳税人负责。"
+    },
+    {
+      "id": 224,
+      "startMs": 1213080,
+      "endMs": 1217960,
+      "en": "But changes could have a big impact on Fran, according to her mum, Tracey Lee.",
+      "zh": "但弗兰的母亲特蕾西·李说，这些改变可能会对弗兰产生巨大影响。"
+    },
+    {
+      "id": 225,
+      "startMs": 1218120,
+      "endMs": 1221960,
+      "en": "People will not get the supports that they need to live a good life.",
+      "zh": "人们将无法获得过上美好生活所需要的支持。"
+    },
+    {
+      "id": 226,
+      "startMs": 1221960,
+      "endMs": 1223480,
+      "en": "It's something we all deserve.",
+      "zh": "这是我们所有人都应得的。"
+    },
+    {
+      "id": 227,
+      "startMs": 1223480,
+      "endMs": 1224360,
+      "en": "It's a human right.",
+      "zh": "这是一项人权。"
+    },
+    {
+      "id": 228,
+      "startMs": 1224680,
+      "endMs": 1228840,
+      "en": "The other thing that worries me about the changes is that it'll push people with disability",
+      "zh": "这些改变还让我担心，它会把残障人士，"
+    },
+    {
+      "id": 229,
+      "startMs": 1229000,
+      "endMs": 1232440,
+      "en": "back into those sort of ghetto areas to save cost.",
+      "zh": "为了节省成本重新赶回那种被隔离的区域。"
+    },
+    {
+      "id": 230,
+      "startMs": 1232520,
+      "endMs": 1239640,
+      "en": "Having seen how wonderful community participation is for Franny, to continue to learn things",
+      "zh": "看到社区参与对弗兰妮如此有益，让她继续学习新事物，"
+    },
+    {
+      "id": 231,
+      "startMs": 1239740,
+      "endMs": 1245100,
+      "en": "and to continue to be part of her community is just a game changer for all of us.",
+      "zh": "并继续成为社区的一员，对我们所有人来说都彻底改变了生活。"
+    },
+    {
+      "id": 232,
+      "startMs": 1246140,
+      "endMs": 1251980,
+      "en": "This amendment is, in my opinion, reckless, ill-thought-out, and entirely devoid of any shred of understanding",
+      "zh": "在我看来，这项修正案鲁莽、考虑不周，完全缺乏一丝理解，"
+    },
+    {
+      "id": 233,
+      "startMs": 1252220,
+      "endMs": 1257420,
+      "en": "of what living a disabled life is actually like for both the person themselves and their support network.",
+      "zh": "不了解残障人士本人及其支持网络实际面对的是怎样的生活。"
+    },
+    {
+      "id": 234,
+      "startMs": 1258060,
+      "endMs": 1262300,
+      "en": "A recent Senate inquiry heard concerns from thousands in the disability community.",
+      "zh": "最近一次参议院调查听取了数千名残障群体成员的担忧。"
+    },
+    {
+      "id": 235,
+      "startMs": 1262780,
+      "endMs": 1266860,
+      "en": "Hannah Diviney, who has cerebral palsy, was one advocate who gave evidence.",
+      "zh": "患有脑瘫的汉娜·迪瓦尼是出庭作证的倡议者之一。"
+    },
+    {
+      "id": 236,
+      "startMs": 1267180,
+      "endMs": 1272460,
+      "en": "Such was the scrutiny over the proposals, the bill's progress was paused until mid-August.",
+      "zh": "由于这些提案受到严密审视，法案审议被暂停至8月中旬。"
+    },
+    {
+      "id": 237,
+      "startMs": 1272860,
+      "endMs": 1277100,
+      "en": "Any time I leave the house, if I'm not with a friend or a parent, it costs something.",
+      "zh": "每次我离开家，只要不是朋友或父母陪同，就会产生费用。"
+    },
+    {
+      "id": 238,
+      "startMs": 1277420,
+      "endMs": 1279500,
+      "en": "That's an incontrovertible fact of my life.",
+      "zh": "这是我生活中无可争辩的事实。"
+    },
+    {
+      "id": 239,
+      "startMs": 1280220,
+      "endMs": 1285660,
+      "en": "Freedom, ambition, career, a social life—all of the things other people in this room",
+      "zh": "自由、抱负、事业、社交生活——在座其他人拥有的这一切，"
+    },
+    {
+      "id": 240,
+      "startMs": 1286140,
+      "endMs": 1290300,
+      "en": "take as a given, or as a right even—has a price tag for someone like me.",
+      "zh": "被视为理所当然、甚至是一项权利的事，对我这样的人来说都有价格。"
+    },
+    {
+      "id": 241,
+      "startMs": 1290780,
+      "endMs": 1297580,
+      "en": "One of the criticisms of the NDIS has been that providers have gamed the system, offering unnecessary and expensive services.",
+      "zh": "对国家残障保险计划的一项批评是，服务提供商钻制度空子，提供不必要且昂贵的服务。"
+    },
+    {
+      "id": 242,
+      "startMs": 1298060,
+      "endMs": 1303420,
+      "en": "Bill Shorten helped set up the NDIS back in 2012 and then oversaw cuts to the scheme",
+      "zh": "比尔·肖顿曾在2012年协助建立国家残障保险计划，后来又负责削减该计划，"
+    },
+    {
+      "id": 243,
+      "startMs": 1303420,
+      "endMs": 1305420,
+      "en": "two years ago, after he returned as NDIS minister.",
+      "zh": "那是在两年前，他再次担任该计划事务部长之后。"
+    },
+    {
+      "id": 244,
+      "startMs": 1305920,
+      "endMs": 1310880,
+      "en": "He's since left politics and is vice-chancellor at the University of Canberra.",
+      "zh": "此后他离开政坛，现任堪培拉大学校长。"
+    },
+    {
+      "id": 245,
+      "startMs": 1311200,
+      "endMs": 1313120,
+      "en": "Many are good providers, but some were bad.",
+      "zh": "许多服务商是好的，但也有一些很糟糕。"
+    },
+    {
+      "id": 246,
+      "startMs": 1313120,
+      "endMs": 1315200,
+      "en": "And, you know, that's the nature of a government scheme.",
+      "zh": "而且，你知道，政府计划就是有这种特点。"
+    },
+    {
+      "id": 247,
+      "startMs": 1315360,
+      "endMs": 1319840,
+      "en": "People will hone in on it and try and slice off amounts for themselves.",
+      "zh": "人们会盯上它，想方设法从中切走一块给自己。"
+    },
+    {
+      "id": 248,
+      "startMs": 1319840,
+      "endMs": 1320720,
+      "en": "So that was a problem.",
+      "zh": "所以这确实是个问题。"
+    },
+    {
+      "id": 249,
+      "startMs": 1321200,
+      "endMs": 1324560,
+      "en": "But even so, tackling fraud, say experts, won't solve the problem.",
+      "zh": "但专家表示，即便如此，打击欺诈也无法解决问题。"
+    },
+    {
+      "id": 250,
+      "startMs": 1324960,
+      "endMs": 1330720,
+      "en": "Hannah Orban is senior associate at the Grattan Institute and author of a report, Saving the NDIS.",
+      "zh": "汉娜·奥尔班是格拉顿研究所高级研究员，也是《拯救国家残障保险计划》报告的作者。"
+    },
+    {
+      "id": 251,
+      "startMs": 1331120,
+      "endMs": 1335440,
+      "en": "The government absolutely needs to tackle fraud and get on top of people who are defrauding the scheme,",
+      "zh": "政府绝对需要打击欺诈，控制那些骗取该计划资金的人，"
+    },
+    {
+      "id": 252,
+      "startMs": 1335440,
+      "endMs": 1339680,
+      "en": "because they're defrauding people with disability and taxpayers, and it's just not acceptable.",
+      "zh": "因为他们欺骗的是残障人士和纳税人，这完全不可接受。"
+    },
+    {
+      "id": 253,
+      "startMs": 1340160,
+      "endMs": 1346240,
+      "en": "However, the savings from fraud that is evident even in the government's numbers is really small",
+      "zh": "然而，即使从政府的数据来看，打击欺诈所能节省的资金也非常少，"
+    },
+    {
+      "id": 254,
+      "startMs": 1346240,
+      "endMs": 1348480,
+      "en": "compared to the other reforms that they've put forward.",
+      "zh": "远小于他们提出的其他改革所带来的节省。"
+    },
+    {
+      "id": 255,
+      "startMs": 1349340,
+      "endMs": 1354620,
+      "en": "Few dispute the need for reforms, but how they're done is being watched closely by Fran's supporters,",
+      "zh": "很少有人否认改革的必要性，但弗兰的支持者正密切关注改革如何实施，"
+    },
+    {
+      "id": 256,
+      "startMs": 1355100,
+      "endMs": 1361500,
+      "en": "with legislation expected to pass in the coming days that will impact the more than 700,000 Australians on the NDIS.",
+      "zh": "相关法案预计将在未来几天通过，并影响70多万名国家残障保险计划参与者。"
+    },
+    {
+      "id": 257,
+      "startMs": 1362780,
+      "endMs": 1365020,
+      "en": "Katie Watson with that report from Sydney.",
+      "zh": "凯蒂·沃森从悉尼发回报道。"
+    },
+    {
+      "id": 258,
+      "startMs": 1366060,
+      "endMs": 1371180,
+      "en": "The organisers of the Eurovision Song Contest have changed the rules to say that winners",
+      "zh": "欧洲歌唱大赛主办方修改了规则，规定获胜者，"
+    },
+    {
+      "id": 259,
+      "startMs": 1371180,
+      "endMs": 1376300,
+      "en": "will no longer be eligible to host the competition if they're involved in an armed conflict.",
+      "zh": "如果卷入武装冲突，将不再有资格主办比赛。"
+    },
+    {
+      "id": 260,
+      "startMs": 1376860,
+      "endMs": 1379660,
+      "en": "The change is being seen as a reaction to Israel's presence at the contest,",
+      "zh": "这一变化被视为针对以色列参赛所作的回应，"
+    },
+    {
+      "id": 261,
+      "startMs": 1379660,
+      "endMs": 1383100,
+      "en": "given the continued fighting in Gaza and elsewhere.",
+      "zh": "背景是加沙及其他地区的战事仍在持续。"
+    },
+    {
+      "id": 262,
+      "startMs": 1383420,
+      "endMs": 1386380,
+      "en": "As our music correspondent Mark Savage explains,",
+      "zh": "本台音乐记者马克·萨维奇解释说，"
+    },
+    {
+      "id": 263,
+      "startMs": 1386940,
+      "endMs": 1391100,
+      "en": "for the last couple of years, there's been a huge amount of internal conflict at the EBU,",
+      "zh": "过去几年，欧洲广播联盟内部出现了大量争议，"
+    },
+    {
+      "id": 264,
+      "startMs": 1391100,
+      "endMs": 1397580,
+      "en": "which organises the Eurovision Song Contest, over the continued participation of Israel amid the war in Gaza.",
+      "zh": "该机构主办欧洲歌唱大赛，争议围绕加沙战争期间以色列继续参赛展开。"
+    },
+    {
+      "id": 265,
+      "startMs": 1397900,
+      "endMs": 1402460,
+      "en": "Last year, several countries tried to have the country excluded from the competition altogether.",
+      "zh": "去年，几个国家试图将以色列彻底排除在比赛之外。"
+    },
+    {
+      "id": 266,
+      "startMs": 1402460,
+      "endMs": 1407260,
+      "en": "When that failed, five countries decided to boycott the 2026 contest,",
+      "zh": "这一尝试失败后，五个国家决定抵制2026年的比赛，"
+    },
+    {
+      "id": 267,
+      "startMs": 1407260,
+      "endMs": 1413100,
+      "en": "and they included some of the biggest funders and winners of Eurovision, including Spain and Ireland.",
+      "zh": "其中包括西班牙和爱尔兰等大赛主要出资国和历届夺冠国。"
+    },
+    {
+      "id": 268,
+      "startMs": 1413500,
+      "endMs": 1417020,
+      "en": "Now, after the contest every year, there is a review.",
+      "zh": "如今，每年比赛结束后都会进行一次审查。"
+    },
+    {
+      "id": 269,
+      "startMs": 1417100,
+      "endMs": 1420540,
+      "en": "The rules are looked at and tweaked every 12 months.",
+      "zh": "规则每12个月都会接受审视并作出调整。"
+    },
+    {
+      "id": 270,
+      "startMs": 1420780,
+      "endMs": 1429600,
+      "en": "What seems to have happened this year is that there have been some private concerns expressed over whether the contest will take place in Israel, should Israel win.",
+      "zh": "今年似乎有人私下担忧，如果以色列获胜，比赛是否会在以色列举行。"
+    },
+    {
+      "id": 271,
+      "startMs": 1429840,
+      "endMs": 1435040,
+      "en": "And that's against the backdrop of the country coming second in both this year's contest and in 2025.",
+      "zh": "其背景是以色列在今年和2025年的比赛中都获得了第二名。"
+    },
+    {
+      "id": 272,
+      "startMs": 1435120,
+      "endMs": 1437280,
+      "en": "Israel is a really strong competitor.",
+      "zh": "以色列是一位实力非常强的参赛者。"
+    },
+    {
+      "id": 273,
+      "startMs": 1437520,
+      "endMs": 1442560,
+      "en": "And a lot of participating broadcasters were concerned that if the contest went to Jerusalem or Tel Aviv,",
+      "zh": "许多参赛广播机构担心，如果比赛移师耶路撒冷或特拉维夫，"
+    },
+    {
+      "id": 274,
+      "startMs": 1442640,
+      "endMs": 1449920,
+      "en": "where it's been held before, that that would compromise the safety of the contestants, but also the delegations who travel there and the audience.",
+      "zh": "尽管那里曾举办过比赛，但这会危及参赛者、前往当地的代表团以及观众的安全。"
+    },
+    {
+      "id": 275,
+      "startMs": 1450240,
+      "endMs": 1454560,
+      "en": "And this rule, although they haven't said this explicitly, appears to be in response to that.",
+      "zh": "虽然主办方没有明说，但这项规则似乎正是对此作出的回应。"
+    },
+    {
+      "id": 276,
+      "startMs": 1454640,
+      "endMs": 1457360,
+      "en": "It also excludes Ukraine because they're at war with Russia.",
+      "zh": "由于乌克兰正与俄罗斯交战，这项规则也将乌克兰排除在外。"
+    },
+    {
+      "id": 277,
+      "startMs": 1457760,
+      "endMs": 1464800,
+      "en": "And what will happen in the future is, if one of those countries were to win, then another country will step in and host the contest.",
+      "zh": "今后，如果这些国家中的一个获胜，将由另一个国家接手主办比赛。"
+    },
+    {
+      "id": 278,
+      "startMs": 1465120,
+      "endMs": 1473600,
+      "en": "And a significant change in that instance is that the replacement broadcaster will not be required to stage the event on behalf of the winning country.",
+      "zh": "一个重大变化是，替代的广播机构无须代表获胜国举办赛事。"
+    },
+    {
+      "id": 279,
+      "startMs": 1473920,
+      "endMs": 1478560,
+      "en": "Because, if you remember, in 2023, when the UK stepped in to host on behalf of Ukraine,",
+      "zh": "因为大家或许记得，2023年英国曾接手代表乌克兰主办比赛，"
+    },
+    {
+      "id": 280,
+      "startMs": 1478640,
+      "endMs": 1481120,
+      "en": "that was done in conjunction with the Ukrainian government.",
+      "zh": "当时赛事是与乌克兰政府合作举办的。"
+    },
+    {
+      "id": 281,
+      "startMs": 1481440,
+      "endMs": 1482240,
+      "en": "Mark Savage.",
+      "zh": "马克·萨维奇报道。"
+    },
+    {
+      "id": 282,
+      "startMs": 1483100,
+      "endMs": 1490300,
+      "en": "Surge pricing, where people have to pay more for concert or plane tickets when demand is high, already has plenty of critics.",
+      "zh": "需求旺盛时演唱会或机票价格上涨的“高峰定价”，已经招致许多批评。"
+    },
+    {
+      "id": 283,
+      "startMs": 1490700,
+      "endMs": 1495180,
+      "en": "But two councils here in England have been thinking about using it for toilets.",
+      "zh": "但英格兰有两个地方议会正考虑将它用于公共厕所。"
+    },
+    {
+      "id": 284,
+      "startMs": 1495500,
+      "endMs": 1501820,
+      "en": "Dynamic pricing has already been introduced in some pubs and car parks. So could toilets really be next?",
+      "zh": "一些酒吧和停车场已经引入动态定价，那么下一个真的会是厕所吗？"
+    },
+    {
+      "id": 285,
+      "startMs": 1502380,
+      "endMs": 1505820,
+      "en": "Raymond Martin is the managing director of the British Toilet Association.",
+      "zh": "雷蒙德·马丁是英国厕所协会的常务董事。"
+    },
+    {
+      "id": 286,
+      "startMs": 1506380,
+      "endMs": 1508620,
+      "en": "We've seen the introduction of charging over the last while,",
+      "zh": "过去一段时间，我们看到厕所开始收费，"
+    },
+    {
+      "id": 287,
+      "startMs": 1508620,
+      "endMs": 1513020,
+      "en": "and it helps to pay for some of the utilities and some of these facilities to make sure that they're available.",
+      "zh": "这有助于支付部分公共事业和设施开支，确保厕所可供使用。"
+    },
+    {
+      "id": 288,
+      "startMs": 1513260,
+      "endMs": 1515740,
+      "en": "So charging is something we're starting to come to live with,",
+      "zh": "所以我们正开始接受收费这件事，"
+    },
+    {
+      "id": 289,
+      "startMs": 1515820,
+      "endMs": 1519340,
+      "en": "but we certainly don't see a reason for surge charging or dynamic charging.",
+      "zh": "但我们绝对看不出实行高峰收费或动态收费的理由。"
+    },
+    {
+      "id": 290,
+      "startMs": 1519500,
+      "endMs": 1522140,
+      "en": "When more people come into a seaside resort or into a town, whatever,",
+      "zh": "当更多人来到海滨度假地或城镇时，不管是哪一种，"
+    },
+    {
+      "id": 291,
+      "startMs": 1522140,
+      "endMs": 1525500,
+      "en": "if they're going to spend money in the local shops, they're going to spend money in local businesses,",
+      "zh": "他们会在当地商店消费，也会在当地企业花钱，"
+    },
+    {
+      "id": 292,
+      "startMs": 1525660,
+      "endMs": 1527100,
+      "en": "and therefore the town's going to thrive.",
+      "zh": "因此这座城镇会繁荣起来。"
+    },
+    {
+      "id": 293,
+      "startMs": 1527420,
+      "endMs": 1528540,
+      "en": "Why would you want to penalise them?",
+      "zh": "为什么还要惩罚他们呢？"
+    },
+    {
+      "id": 294,
+      "startMs": 1528620,
+      "endMs": 1531820,
+      "en": "We've lost nearly 50% of the toilets across the country over the last while",
+      "zh": "过去一段时间，全国近50%的厕所已经消失，"
+    },
+    {
+      "id": 295,
+      "startMs": 1532060,
+      "endMs": 1536620,
+      "en": "because councils don't have the legal responsibility to provide them, or the funding from government.",
+      "zh": "因为地方议会既无法律责任提供厕所，也得不到政府资金。"
+    },
+    {
+      "id": 296,
+      "startMs": 1536860,
+      "endMs": 1541900,
+      "en": "So we are talking to government about getting a duty and a strategy duty and some funding to help councils.",
+      "zh": "因此我们正与政府商谈，希望确立职责和战略责任，并获得一些资金来帮助地方议会。"
+    },
+    {
+      "id": 297,
+      "startMs": 1542300,
+      "endMs": 1546060,
+      "en": "But we've seen it across the way where a town or a parish which doesn't have toilets,",
+      "zh": "但我们已经看到，如果一个城镇或教区没有厕所，"
+    },
+    {
+      "id": 298,
+      "startMs": 1546300,
+      "endMs": 1549980,
+      "en": "people will get in their cars and take themselves somewhere else where they don't see they're being penalised.",
+      "zh": "人们就会开车去别处，去一个不会让他们觉得受罚的地方。"
+    },
+    {
+      "id": 299,
+      "startMs": 1550140,
+      "endMs": 1556700,
+      "en": "So why not ensure that the price being charged adequately reflects the cost of keeping them,",
+      "zh": "那么，何不确保收费能充分反映维持厕所运营的成本，"
+    },
+    {
+      "id": 300,
+      "startMs": 1556700,
+      "endMs": 1560540,
+      "en": "which might be a little bit more, and ensure that those toilets are there for people to use?",
+      "zh": "即使价格可能略高一些，也能确保人们有厕所可用呢？"
+    },
+    {
+      "id": 301,
+      "startMs": 1560700,
+      "endMs": 1562300,
+      "en": "Well, you're absolutely right. I mean, when...",
+      "zh": "嗯，你说得完全正确。我的意思是，当……"
+    },
+    {
+      "id": 302,
+      "startMs": 1562320,
+      "endMs": 1565200,
+      "en": "When toilets were introduced, it was ‘spend a penny’, and that was back in the 1850s.",
+      "zh": "公共厕所刚出现时，人们说“花一便士”，那是在19世纪50年代。"
+    },
+    {
+      "id": 303,
+      "startMs": 1565360,
+      "endMs": 1567440,
+      "en": "And a penny then would have bought you a loaf of bread.",
+      "zh": "当时一便士可以买到一条面包。"
+    },
+    {
+      "id": 304,
+      "startMs": 1567760,
+      "endMs": 1572560,
+      "en": "So if we equate that today, we should really be paying £1.50 for the use of a public toilet.",
+      "zh": "按今天的价值换算，使用一次公共厕所其实应该支付1.5英镑。"
+    },
+    {
+      "id": 305,
+      "startMs": 1573040,
+      "endMs": 1576640,
+      "en": "But the councils have fought and fought, and most people don't want to pay for toilets.",
+      "zh": "但地方议会一再努力，而大多数人并不愿意为上厕所付费。"
+    },
+    {
+      "id": 306,
+      "startMs": 1576960,
+      "endMs": 1580640,
+      "en": "The majority of residents say, ‘We pay our rates. That money should already be in the council.’",
+      "zh": "多数居民说：“我们缴了地方税，这笔钱本来就应该在议会手里。”"
+    },
+    {
+      "id": 307,
+      "startMs": 1580880,
+      "endMs": 1585200,
+      "en": "But the council, not having the legal responsibility, has got to spend the money on cleaning streets,",
+      "zh": "但由于没有提供厕所的法定责任，地方议会得把钱花在街道清洁上，"
+    },
+    {
+      "id": 308,
+      "startMs": 1585200,
+      "endMs": 1588000,
+      "en": "emptying the bins, looking after parks and cemeteries, schools, roundabouts.",
+      "zh": "还要清空垃圾桶、维护公园和墓地、学校及环岛。"
+    },
+    {
+      "id": 309,
+      "startMs": 1588000,
+      "endMs": 1590880,
+      "en": "And, in fact, most of the council budgets are now going on welfare.",
+      "zh": "事实上，现在地方议会的大部分预算都花在福利上。"
+    },
+    {
+      "id": 310,
+      "startMs": 1591280,
+      "endMs": 1592880,
+      "en": "The councils are really, really strapped.",
+      "zh": "地方议会确实非常、非常拮据。"
+    },
+    {
+      "id": 311,
+      "startMs": 1593040,
+      "endMs": 1594320,
+      "en": "The money has to come from somewhere.",
+      "zh": "这笔钱总得有个来源。"
+    },
+    {
+      "id": 312,
+      "startMs": 1594320,
+      "endMs": 1595520,
+      "en": "It should come from central government.",
+      "zh": "它应该来自中央政府。"
+    },
+    {
+      "id": 313,
+      "startMs": 1595760,
+      "endMs": 1596800,
+      "en": "This is about human rights.",
+      "zh": "这关乎人权。"
+    },
+    {
+      "id": 314,
+      "startMs": 1596800,
+      "endMs": 1597760,
+      "en": "This is about equality.",
+      "zh": "这关乎平等。"
+    },
+    {
+      "id": 315,
+      "startMs": 1597920,
+      "endMs": 1600320,
+      "en": "This is about looking after people with disabilities.",
+      "zh": "这关乎照顾残障人士。"
+    },
+    {
+      "id": 316,
+      "startMs": 1600480,
+      "endMs": 1604880,
+      "en": "It's a matter of refinancing the funding rather than causing councils to have to dynamically charge people.",
+      "zh": "问题在于重新安排资金，而不是迫使地方议会对公众实行动态收费。"
+    },
+    {
+      "id": 317,
+      "startMs": 1605200,
+      "endMs": 1607440,
+      "en": "Raymond Martin, talking to Luke Jones.",
+      "zh": "雷蒙德·马丁接受卢克·琼斯采访。"
+    },
+    {
+      "id": 318,
+      "startMs": 1608000,
+      "endMs": 1614080,
+      "en": "Pétanque, or boules, is a popular French pastime where players throw steel balls at a wooden ball, or jack.",
+      "zh": "法式滚球是一项流行的法国消遣活动，玩家把钢球掷向一颗木制目标球。"
+    },
+    {
+      "id": 319,
+      "startMs": 1614480,
+      "endMs": 1617760,
+      "en": "It involves bending down to pick the balls up after each round,",
+      "zh": "每一轮结束后，玩家都要弯腰捡球，"
+    },
+    {
+      "id": 320,
+      "startMs": 1617840,
+      "endMs": 1620480,
+      "en": "with the potential of a sore back at the end of it all.",
+      "zh": "到最后可能会腰酸背痛。"
+    },
+    {
+      "id": 321,
+      "startMs": 1620800,
+      "endMs": 1624100,
+      "en": "But the owner of a shoe shop in Perpignan, in the south of France,",
+      "zh": "但法国南部佩皮尼昂一家鞋店的老板，"
+    },
+    {
+      "id": 322,
+      "startMs": 1624500,
+      "endMs": 1631140,
+      "en": "has designed espadrille shoes specifically for pétanque players, and they've become a massive hit all over the world.",
+      "zh": "专门为法式滚球玩家设计了帆布草底鞋，并在全球大受欢迎。"
+    },
+    {
+      "id": 323,
+      "startMs": 1631700,
+      "endMs": 1633220,
+      "en": "Wendy Urquhart has this report.",
+      "zh": "温迪·厄克特报道。"
+    },
+    {
+      "id": 324,
+      "startMs": 1636740,
+      "endMs": 1645300,
+      "en": "The game of pétanque dates back to the year 460 BC, when the Greeks got their kicks by throwing stones at a brick on the ground.",
+      "zh": "法式滚球可追溯到公元前460年，当时希腊人以向地上的砖块投掷石头为乐。"
+    },
+    {
+      "id": 325,
+      "startMs": 1645780,
+      "endMs": 1653220,
+      "en": "In later years, it became a firm favourite with French soldiers, and eventually the pétanque tools were refined,",
+      "zh": "后来，它深受法国士兵喜爱，法式滚球的器具也逐渐改良，"
+    },
+    {
+      "id": 326,
+      "startMs": 1653460,
+      "endMs": 1660740,
+      "en": "with players using lighter, smaller balls that they would fling at a circular piece of wood known as a jack.",
+      "zh": "玩家使用更轻、更小的球，掷向一块被称为目标球的圆形木头。"
+    },
+    {
+      "id": 327,
+      "startMs": 1661380,
+      "endMs": 1667780,
+      "en": "Now, it's part of the rich pageant of French culture, but no matter how many glasses of wine you've had,",
+      "zh": "如今它已是多彩法国文化的一部分，但无论你喝了多少杯葡萄酒，"
+    },
+    {
+      "id": 328,
+      "startMs": 1668020,
+      "endMs": 1672260,
+      "en": "all that bending down to pick up the steel balls is murder on your back.",
+      "zh": "不断弯腰捡钢球都会让你的腰吃不消。"
+    },
+    {
+      "id": 329,
+      "startMs": 1672260,
+      "endMs": 1677380,
+      "en": "Olivier Gelly, who founded the Payote brand, has come up with a solution.",
+      "zh": "Payote品牌创始人奥利维耶·热利想出了一个解决办法。"
+    },
+    {
+      "id": 330,
+      "startMs": 1677780,
+      "endMs": 1684180,
+      "en": "He's added a magnet to the side of espadrilles that's strong enough to pick up pétanque balls,",
+      "zh": "他在帆布草底鞋侧面加了一块磁铁，磁力足以吸起法式滚球的钢球，"
+    },
+    {
+      "id": 331,
+      "startMs": 1684420,
+      "endMs": 1686020,
+      "en": "which weigh around half a kilo.",
+      "zh": "这些球重约半公斤。"
+    },
+    {
+      "id": 332,
+      "startMs": 1686420,
+      "endMs": 1689380,
+      "en": "Olivier says it all started as a joke,",
+      "zh": "奥利维耶说，一切最初只是个玩笑，"
+    },
+    {
+      "id": 333,
+      "startMs": 1689460,
+      "endMs": 1695860,
+      "en": "but after selling 40,000 pairs worldwide, he's definitely laughing all the way to the bank.",
+      "zh": "但在全球卖出4万双之后，他显然赚得盆满钵满。"
+    },
+    {
+      "id": 334,
+      "startMs": 1696280,
+      "endMs": 1699160,
+      "en": "At first, it was just for fun.",
+      "zh": "起初，这只是为了好玩。"
+    },
+    {
+      "id": 335,
+      "startMs": 1699160,
+      "endMs": 1701000,
+      "en": "It was really a joke among friends.",
+      "zh": "这其实是朋友之间的一个玩笑。"
+    },
+    {
+      "id": 336,
+      "startMs": 1701080,
+      "endMs": 1704360,
+      "en": "Then, little by little, I started adding a tape measure at the front,",
+      "zh": "后来，我一点点改进，先在前面加上卷尺，"
+    },
+    {
+      "id": 337,
+      "startMs": 1704520,
+      "endMs": 1708120,
+      "en": "putting the cochonnet, or jack, on the side, and finding a magnet.",
+      "zh": "再把小目标球放在侧面，并找到了一块磁铁。"
+    },
+    {
+      "id": 338,
+      "startMs": 1708120,
+      "endMs": 1711640,
+      "en": "Gradually, we refined the design to make it ready for sale.",
+      "zh": "我们逐渐完善设计，让它达到可以销售的程度。"
+    },
+    {
+      "id": 339,
+      "startMs": 1712120,
+      "endMs": 1717400,
+      "en": "The new design does have at least one critic, though, who pointed out that players might cheat",
+      "zh": "不过，这项新设计至少有一位批评者，他指出玩家可能会作弊，"
+    },
+    {
+      "id": 340,
+      "startMs": 1717560,
+      "endMs": 1722040,
+      "en": "by using the magnet to move other people's pétanque balls when nobody's looking.",
+      "zh": "趁没人注意时用磁铁移动别人的法式滚球。"
+    },
+    {
+      "id": 341,
+      "startMs": 1722860,
+      "endMs": 1729340,
+      "en": "Pétanque has become so popular in the United States that some people even have a pétanque lane in their garden.",
+      "zh": "法式滚球在美国大受欢迎，有些人甚至在自家花园里建了球道。"
+    },
+    {
+      "id": 342,
+      "startMs": 1729740,
+      "endMs": 1737660,
+      "en": "And 40% of the sales of these new magnetic espadrilles were sold across the pond, which has even surprised Olivier.",
+      "zh": "这种新型磁力帆布草底鞋有40%销往大西洋彼岸，连奥利维耶都感到意外。"
+    },
+    {
+      "id": 343,
+      "startMs": 1737660,
+      "endMs": 1741580,
+      "en": "I suppose there must be pétanque players there.",
+      "zh": "我想那里肯定有法式滚球玩家。"
+    },
+    {
+      "id": 344,
+      "startMs": 1741900,
+      "endMs": 1745660,
+      "en": "I don't know, because when you look at the names, they're definitely American names.",
+      "zh": "我也不清楚，但看看那些姓名，确实都是美国人的名字。"
+    },
+    {
+      "id": 345,
+      "startMs": 1745820,
+      "endMs": 1751740,
+      "en": "Well, Olivier is already raking in the cash for his magnetic shoes, but he's not done yet.",
+      "zh": "奥利维耶已经靠磁力鞋赚得不少，但他还没有停下脚步。"
+    },
+    {
+      "id": 346,
+      "startMs": 1752140,
+      "endMs": 1756940,
+      "en": "Now he wants to design espadrilles with a tiny bottle opener on one side",
+      "zh": "现在他想设计一种帆布草底鞋，一侧带有迷你开瓶器，"
+    },
+    {
+      "id": 347,
+      "startMs": 1757020,
+      "endMs": 1760140,
+      "en": "and a little pocket for the bottle cap on the other side.",
+      "zh": "另一侧则有一个装瓶盖的小口袋。"
+    },
+    {
+      "id": 348,
+      "startMs": 1760540,
+      "endMs": 1763820,
+      "en": "There's only one response to that: Cheers, Olivier!",
+      "zh": "对此只有一句回应：干杯，奥利维耶！"
+    },
+    {
+      "id": 349,
+      "startMs": 1764380,
+      "endMs": 1765100,
+      "en": "Wendy Urquhart.",
+      "zh": "温迪·厄克特报道。"
+    },
+    {
+      "id": 350,
+      "startMs": 1768500,
+      "endMs": 1769780,
+      "en": "And that's all from us for now.",
+      "zh": "本期节目到这里就结束了。"
+    },
+    {
+      "id": 351,
+      "startMs": 1769780,
+      "endMs": 1772500,
+      "en": "But the Global News Podcast will be back very soon.",
+      "zh": "《全球新闻播客》很快会再次与您见面。"
+    },
+    {
+      "id": 352,
+      "startMs": 1772500,
+      "endMs": 1775940,
+      "en": "This edition was mixed by Sydney Dundon and produced by Emma Joseph.",
+      "zh": "本期节目由悉尼·邓登混音，艾玛·约瑟夫制作。"
+    },
+    {
+      "id": 353,
+      "startMs": 1776020,
+      "endMs": 1777620,
+      "en": "Our editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 354,
+      "startMs": 1777700,
+      "endMs": 1778740,
+      "en": "I'm Oliver Conway.",
+      "zh": "我是奥利弗·康韦。"
+    },
+    {
+      "id": 355,
+      "startMs": 1778740,
+      "endMs": 1780260,
+      "en": "Until next time, goodbye!",
+      "zh": "下次再会，再见！"
+    }
+  ]
+}
