@@ -1,0 +1,2020 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "14 August 2026"
+  },
+  "durationMs": 1730560,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3280,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5740,
+      "endMs": 11420,
+      "en": "Hello, I'm Oliver Conway and this edition is published in the early hours of Friday, the 14th of August.",
+      "zh": "你好，我是奥利弗·康威。本期节目发布于 8 月 14 日星期五凌晨。"
+    },
+    {
+      "id": 3,
+      "startMs": 11820,
+      "endMs": 19420,
+      "en": "Five years after the Taliban returned to power in Afghanistan, we have a special report on the restrictions they've imposed on women and girls.",
+      "zh": "塔利班重新掌权阿富汗五年后，我们特别报道他们对女性和女孩施加的限制。"
+    },
+    {
+      "id": 4,
+      "startMs": 19420,
+      "endMs": 28460,
+      "en": "US Democrats demand answers about poor conditions on an aircraft carrier in the Gulf and why America is executing more prisoners.",
+      "zh": "美国民主党人要求解释海湾一艘航空母舰上的恶劣状况，以及美国为何处决更多囚犯。"
+    },
+    {
+      "id": 5,
+      "startMs": 31280,
+      "endMs": 37120,
+      "en": "Also in this podcast, the climate of fear in Ghana after Parliament votes to jail gay people.",
+      "zh": "本期播客还将报道：加纳议会投票判同性恋者入狱后，当地弥漫的恐惧气氛。"
+    },
+    {
+      "id": 6,
+      "startMs": 37360,
+      "endMs": 43920,
+      "en": "This legislation being passed in Parliament has led to rhetoric that has left gay people here fearful.",
+      "zh": "这项在议会通过的法案引发了相关言论，让这里的同性恋者感到害怕。"
+    },
+    {
+      "id": 7,
+      "startMs": 44240,
+      "endMs": 45760,
+      "en": "Some of them have fled the country.",
+      "zh": "其中一些人已经逃离这个国家。"
+    },
+    {
+      "id": 8,
+      "startMs": 45760,
+      "endMs": 47280,
+      "en": "They have to go. We don't want them here.",
+      "zh": "他们必须离开。我们不想让他们留在这里。"
+    },
+    {
+      "id": 9,
+      "startMs": 47840,
+      "endMs": 50960,
+      "en": "And the benefits of jogging with a pushchair.",
+      "zh": "以及推着婴儿车慢跑的好处。"
+    },
+    {
+      "id": 10,
+      "startMs": 56420,
+      "endMs": 64980,
+      "en": "It is five years since the Taliban swept back into power in Afghanistan and life for women and girls is still severely restricted.",
+      "zh": "塔利班重新掌权阿富汗已经五年，女性和女孩的生活仍受到严厉限制。"
+    },
+    {
+      "id": 11,
+      "startMs": 65460,
+      "endMs": 72660,
+      "en": "Girls can only attend school until grade six, around the age of 12, and women are barred from university and many jobs.",
+      "zh": "女孩只能上学到六年级，大约 12 岁；女性则被禁止进入大学，也不能从事许多工作。"
+    },
+    {
+      "id": 12,
+      "startMs": 73140,
+      "endMs": 76100,
+      "en": "There are even rules over visiting public parks and gyms.",
+      "zh": "甚至连参观公园和去健身房也有规定。"
+    },
+    {
+      "id": 13,
+      "startMs": 76420,
+      "endMs": 86180,
+      "en": "Our Chief International Correspondent Lyse Doucet has returned to Afghanistan to meet those trying to keep learning and working despite what some call gender apartheid.",
+      "zh": "我们的首席国际记者莱丝·杜塞特回到阿富汗，采访那些努力继续学习和工作的女性，尽管有人称这种情况为性别隔离。"
+    },
+    {
+      "id": 14,
+      "startMs": 88500,
+      "endMs": 91220,
+      "en": "The sound of a school almost anywhere in the world.",
+      "zh": "这是世界上几乎任何一所学校都会有的声音。"
+    },
+    {
+      "id": 15,
+      "startMs": 91860,
+      "endMs": 96260,
+      "en": "Afghan boys and girls in primary school laughing and learning with their teachers.",
+      "zh": "阿富汗的小学男孩和女孩们与老师一起欢笑、学习。"
+    },
+    {
+      "id": 16,
+      "startMs": 96820,
+      "endMs": 101620,
+      "en": "But now we're going down a dark hallway into a far corner.",
+      "zh": "但现在，我们正沿着一条昏暗的走廊走向一个偏僻角落。"
+    },
+    {
+      "id": 17,
+      "startMs": 101620,
+      "endMs": 110260,
+      "en": "And this is how young girls in Afghanistan beyond grade six are being educated now.",
+      "zh": "这就是如今阿富汗六年级以上的女孩接受教育的方式。"
+    },
+    {
+      "id": 18,
+      "startMs": 110900,
+      "endMs": 113380,
+      "en": "This is what's called a secret school.",
+      "zh": "这就是所谓的秘密学校。"
+    },
+    {
+      "id": 19,
+      "startMs": 114820,
+      "endMs": 117700,
+      "en": "Hello. Salam Alaikum. How are you? Are you okay?",
+      "zh": "你好。愿你平安。你好吗？还好吗？"
+    },
+    {
+      "id": 20,
+      "startMs": 119140,
+      "endMs": 123140,
+      "en": "So, you teach the girls what to do if the morality police come?",
+      "zh": "所以，如果道德警察来了，你会教女孩们该怎么做吗？"
+    },
+    {
+      "id": 21,
+      "startMs": 123800,
+      "endMs": 128520,
+      "en": "This is one escape door. Yeah, one escape door. One is, the second one is here.",
+      "zh": "这是一扇逃生门。对，一扇逃生门。一扇在这里，第二扇在这里。"
+    },
+    {
+      "id": 22,
+      "startMs": 128920,
+      "endMs": 131560,
+      "en": "Where do the girls go, downstairs? This is back of...",
+      "zh": "女孩们要去哪儿，楼下吗？这是后面……"
+    },
+    {
+      "id": 23,
+      "startMs": 131640,
+      "endMs": 133480,
+      "en": "To the back, so they escape out the back door.",
+      "zh": "到后面去，这样她们就能从后门逃出去。"
+    },
+    {
+      "id": 24,
+      "startMs": 133880,
+      "endMs": 136040,
+      "en": "Did they ever catch you? No.",
+      "zh": "他们抓到过你吗？没有。"
+    },
+    {
+      "id": 25,
+      "startMs": 136040,
+      "endMs": 144600,
+      "en": "Why do you take this risk? Because I'm also father and I have a girls also. This is risk for us also. I accept.",
+      "zh": "你为什么要冒这个险？因为我也是父亲，我也有女儿。这对我们来说同样是风险。我接受。"
+    },
+    {
+      "id": 26,
+      "startMs": 146000,
+      "endMs": 151440,
+      "en": "Just going up the stairs now. Some other classrooms of the oldest girls studying here.",
+      "zh": "现在我们正上楼。这里还有一些年龄最大的女孩上课的教室。"
+    },
+    {
+      "id": 27,
+      "startMs": 151840,
+      "endMs": 159200,
+      "en": "I'm 13 years old and it's two years that I'm studying in a secret school and we are so happy to have a school like this.",
+      "zh": "我 13 岁了，我在秘密学校学习已经两年，我们很高兴能有这样一所学校。"
+    },
+    {
+      "id": 28,
+      "startMs": 159520,
+      "endMs": 162400,
+      "en": "When you sit in the classroom, how does it make you feel?",
+      "zh": "坐在教室里时，你感觉如何？"
+    },
+    {
+      "id": 29,
+      "startMs": 162960,
+      "endMs": 170960,
+      "en": "First is the feel that I'm gonna learn something and after that, this is some fear that what will happen if they find us.",
+      "zh": "首先，我感觉自己要学到东西；但随后又有些害怕，不知道如果他们发现我们会发生什么。"
+    },
+    {
+      "id": 30,
+      "startMs": 171440,
+      "endMs": 179300,
+      "en": "What do you fear? What could happen? If they find us, maybe something happened for us and also for our school.",
+      "zh": "你害怕什么？可能会发生什么？如果他们发现我们，我们和学校都可能出事。"
+    },
+    {
+      "id": 31,
+      "startMs": 179940,
+      "endMs": 184020,
+      "en": "But even with this fear, we're coming to study and learn something.",
+      "zh": "但即使有这种恐惧，我们还是来这里学习、获取知识。"
+    },
+    {
+      "id": 32,
+      "startMs": 184340,
+      "endMs": 190740,
+      "en": "Sometimes you get sad? Yeah, sometimes I'm thinking that what will happen in the future. Sometimes I get sad.",
+      "zh": "你有时会感到难过吗？会，有时我会想未来会发生什么。有时我会难过。"
+    },
+    {
+      "id": 33,
+      "startMs": 191380,
+      "endMs": 194260,
+      "en": "It's like, sometimes this feeling is coming.",
+      "zh": "就是有时会产生这种感觉。"
+    },
+    {
+      "id": 34,
+      "startMs": 194580,
+      "endMs": 198900,
+      "en": "Where do you find hope? From thinking about my future that maybe it will be good.",
+      "zh": "你从哪里找到希望？想到我的未来，也许会变好。"
+    },
+    {
+      "id": 35,
+      "startMs": 199620,
+      "endMs": 200660,
+      "en": "You're a very brave girl.",
+      "zh": "你是个非常勇敢的女孩。"
+    },
+    {
+      "id": 36,
+      "startMs": 202320,
+      "endMs": 202960,
+      "en": "Thank you also.",
+      "zh": "也谢谢你。"
+    },
+    {
+      "id": 37,
+      "startMs": 206100,
+      "endMs": 213620,
+      "en": "We've driven about an hour from Kabul and come to this village where we're going to meet women who are learning how to make jam.",
+      "zh": "我们从喀布尔驱车约一小时来到这个村庄，将在这里见到学习制作果酱的女性。"
+    },
+    {
+      "id": 38,
+      "startMs": 213940,
+      "endMs": 221860,
+      "en": "It's one of the many enterprises that are being set up by Afghan women because it is one area where the Taliban seem to have no objections.",
+      "zh": "这是阿富汗女性创办的众多企业之一，因为在这个领域，塔利班似乎没有异议。"
+    },
+    {
+      "id": 39,
+      "startMs": 222180,
+      "endMs": 222420,
+      "en": "Salaam.",
+      "zh": "你好。"
+    },
+    {
+      "id": 40,
+      "startMs": 223440,
+      "endMs": 228160,
+      "en": "What were you doing before the Taliban came to power during the Republic?",
+      "zh": "塔利班在共和国时期上台前，你在做什么？"
+    },
+    {
+      "id": 41,
+      "startMs": 228560,
+      "endMs": 236160,
+      "en": "I was a university student during the Republic and I was studying political science.",
+      "zh": "共和国时期，我是一名大学生，学习政治学。"
+    },
+    {
+      "id": 42,
+      "startMs": 236880,
+      "endMs": 243120,
+      "en": "I completed six semesters of my studies there. I had only two semesters left.",
+      "zh": "我在那里完成了六个学期的学业，只剩下两个学期。"
+    },
+    {
+      "id": 43,
+      "startMs": 243860,
+      "endMs": 248500,
+      "en": "That was when, unfortunately, the universities were closed to girls.",
+      "zh": "不幸的是，就在那时，大学对女孩关闭了大门。"
+    },
+    {
+      "id": 44,
+      "startMs": 249140,
+      "endMs": 253460,
+      "en": "And now it's been five years, you're learning to make jam.",
+      "zh": "如今五年过去了，你在学习制作果酱。"
+    },
+    {
+      "id": 45,
+      "startMs": 254100,
+      "endMs": 254980,
+      "en": "How does that feel?",
+      "zh": "你感觉如何？"
+    },
+    {
+      "id": 46,
+      "startMs": 255380,
+      "endMs": 260980,
+      "en": "If I cannot go to university, then I will find work.",
+      "zh": "如果我不能上大学，那我就找工作。"
+    },
+    {
+      "id": 47,
+      "startMs": 260980,
+      "endMs": 267540,
+      "en": "I knew that if I stayed at home, I would not make any progress or better myself.",
+      "zh": "我知道，如果待在家里，我不会取得任何进步，也无法提升自己。"
+    },
+    {
+      "id": 48,
+      "startMs": 268100,
+      "endMs": 274660,
+      "en": "But I am 100% sad. I loved my degree and I really wanted to finish it.",
+      "zh": "但我百分之百感到难过。我热爱自己的学位，真的很想完成学业。"
+    },
+    {
+      "id": 49,
+      "startMs": 275140,
+      "endMs": 283860,
+      "en": "When I apply for jobs and send my CV in or go to interviews, the first thing they ask is for my university certificate.",
+      "zh": "我申请工作、投递简历或参加面试时，他们首先要看的是我的大学证书。"
+    },
+    {
+      "id": 50,
+      "startMs": 284640,
+      "endMs": 286000,
+      "en": "But I never got one.",
+      "zh": "但我从未拿到过。"
+    },
+    {
+      "id": 51,
+      "startMs": 287040,
+      "endMs": 290560,
+      "en": "Even this space is getting squeezed. As of last year,",
+      "zh": "就连这个空间也在被压缩。自去年起，"
+    },
+    {
+      "id": 52,
+      "startMs": 291040,
+      "endMs": 295840,
+      "en": "women can't take the products themselves to the shops to sell. A man has to do it.",
+      "zh": "女性不能再亲自把产品拿到商店去卖，必须由男性代劳。"
+    },
+    {
+      "id": 53,
+      "startMs": 296320,
+      "endMs": 300560,
+      "en": "And if there's a trade fair, they can no longer be at the stalls.",
+      "zh": "如果有商品交易会，她们也不能再站在摊位上。"
+    },
+    {
+      "id": 54,
+      "startMs": 300720,
+      "endMs": 303440,
+      "en": "They have to send a man in their place.",
+      "zh": "她们必须派一名男性代替自己。"
+    },
+    {
+      "id": 55,
+      "startMs": 304080,
+      "endMs": 307280,
+      "en": "So year-on-year, it just keeps getting harder.",
+      "zh": "所以一年又一年，情况只会越来越困难。"
+    },
+    {
+      "id": 56,
+      "startMs": 309200,
+      "endMs": 317520,
+      "en": "We're on our way now to meet another young Afghan girl who's doing whatever she can to keep being educated.",
+      "zh": "我们现在要去见另一名年轻的阿富汗女孩，她正在尽一切努力继续接受教育。"
+    },
+    {
+      "id": 57,
+      "startMs": 318080,
+      "endMs": 323760,
+      "en": "And it's less risky both for the students as well as the teacher and that's studying online.",
+      "zh": "而且对学生和老师来说，在线学习风险都更低。"
+    },
+    {
+      "id": 58,
+      "startMs": 324160,
+      "endMs": 332000,
+      "en": "There's a growing number of initiatives outside and in Afghanistan to educate women in this way, and I'm going to meet one of these students.",
+      "zh": "在阿富汗境内外，越来越多的项目以这种方式教育女性；我将去见其中一名学生。"
+    },
+    {
+      "id": 59,
+      "startMs": 332000,
+      "endMs": 339440,
+      "en": "I'm 13 years old and I finished my 6th grade lessons and after that I am studying online my lessons.",
+      "zh": "我 13 岁，已经完成了六年级的课程，之后就在网上学习。"
+    },
+    {
+      "id": 60,
+      "startMs": 340000,
+      "endMs": 348460,
+      "en": "And you were sitting in a classroom with your fellow schoolgirls for six years. Now you're by yourself online.",
+      "zh": "你曾和女同学一起在教室里学习了六年。现在你独自在网上学习。"
+    },
+    {
+      "id": 61,
+      "startMs": 348700,
+      "endMs": 357740,
+      "en": "How does it feel? It feels very bad, I think. We studied six years. We were classmates, we were friends and we all studied together.",
+      "zh": "感觉如何？我觉得非常糟糕。我们一起学习了六年，是同学，是朋友，大家一起学习。"
+    },
+    {
+      "id": 62,
+      "startMs": 358300,
+      "endMs": 361660,
+      "en": "We're talking in a shop and you're getting trained for a new kind of skill.",
+      "zh": "我们现在在一家商店里交谈，你正在接受一种新技能的培训。"
+    },
+    {
+      "id": 63,
+      "startMs": 361980,
+      "endMs": 366940,
+      "en": "Yes. Right now I'm doing goldsmithing, which I make some jewels to sell.",
+      "zh": "是的。我现在学习金匠工艺，制作一些珠宝来卖。"
+    },
+    {
+      "id": 64,
+      "startMs": 367420,
+      "endMs": 373340,
+      "en": "What if your life was that you were a jewelry maker instead of a doctor? Would that be okay?",
+      "zh": "如果你的人生是成为珠宝匠，而不是医生，会怎样？你能接受吗？"
+    },
+    {
+      "id": 65,
+      "startMs": 373740,
+      "endMs": 378700,
+      "en": "No, I won't be happy. Becoming a doctor, I think, is much better than becoming a jeweler.",
+      "zh": "不，我不会开心。我觉得，成为医生比成为珠宝匠好得多。"
+    },
+    {
+      "id": 66,
+      "startMs": 378700,
+      "endMs": 382540,
+      "en": "Do you sometimes feel the world has forgotten Afghanistan and Afghan girls?",
+      "zh": "你有时是否觉得世界已经忘记了阿富汗和阿富汗女孩？"
+    },
+    {
+      "id": 67,
+      "startMs": 382780,
+      "endMs": 389020,
+      "en": "Yes, I think the same, they forgot it. But I can totally tell them that we are unstoppable and we will never give up.",
+      "zh": "是的，我也这么想，他们忘记了。但我可以明确告诉他们，我们不可阻挡，永远不会放弃。"
+    },
+    {
+      "id": 68,
+      "startMs": 390880,
+      "endMs": 400000,
+      "en": "Such impressive determination. And there are other girls like her. But there are many, many more who don't have access to the internet, online education,",
+      "zh": "这是多么令人钦佩的决心。还有其他像她一样的女孩，但更多、更多的女孩无法接触互联网和在线教育，"
+    },
+    {
+      "id": 69,
+      "startMs": 400480,
+      "endMs": 403440,
+      "en": "secret schools or even Islamic madrasas.",
+      "zh": "秘密学校，甚至伊斯兰宗教学校。"
+    },
+    {
+      "id": 70,
+      "startMs": 403440,
+      "endMs": 408240,
+      "en": "For them, usually the only option is early marriage, sometimes as young as a teenager.",
+      "zh": "对她们来说，通常唯一的选择就是早婚，有时年纪小到十几岁。"
+    },
+    {
+      "id": 71,
+      "startMs": 408640,
+      "endMs": 417600,
+      "en": "And this is not just an issue of girls' education. Five years on, a new society is being created in Afghanistan.",
+      "zh": "这不只是女孩受教育的问题。五年过去，一个新的社会正在阿富汗形成。"
+    },
+    {
+      "id": 72,
+      "startMs": 420160,
+      "endMs": 422160,
+      "en": "Lyse Doucet reporting from Afghanistan.",
+      "zh": "莱丝·杜塞特从阿富汗报道。"
+    },
+    {
+      "id": 73,
+      "startMs": 423360,
+      "endMs": 430960,
+      "en": "President Trump initially said the war against Iran would be over in weeks, but nearly six months in, there is no sign of it ending.",
+      "zh": "特朗普总统最初称对伊朗的战争几周内就会结束，但近六个月过去了，仍没有结束的迹象。"
+    },
+    {
+      "id": 74,
+      "startMs": 431200,
+      "endMs": 440240,
+      "en": "As a result, US military deployments are being extended indefinitely and that is reportedly harming the mental health of some personnel stuck in the Gulf,",
+      "zh": "因此，美国军事部署被无限期延长，据报道，这正在损害一些滞留海湾地区人员的心理健康，"
+    },
+    {
+      "id": 75,
+      "startMs": 440800,
+      "endMs": 444720,
+      "en": "particularly among the 5,000 crew of the USS Abraham Lincoln.",
+      "zh": "尤其是“亚伯拉罕·林肯号”航空母舰上的 5,000 名舰员。"
+    },
+    {
+      "id": 76,
+      "startMs": 445040,
+      "endMs": 451520,
+      "en": "They haven't been on dry land for more than 200 days, said to be a record for consecutive days at sea.",
+      "zh": "他们已经超过 200 天没有踏上陆地，据称创下连续在海上航行的天数纪录。"
+    },
+    {
+      "id": 77,
+      "startMs": 451920,
+      "endMs": 456400,
+      "en": "Allison Bath from the military newspaper Stars and Stripes has been speaking to some of the crew.",
+      "zh": "军方报纸《星条旗报》的艾莉森·巴思采访了一些舰员。"
+    },
+    {
+      "id": 78,
+      "startMs": 456880,
+      "endMs": 464320,
+      "en": "I learned from two sailors aboard the ship that there was an incident where one sailor had attempted to jump off the ship",
+      "zh": "我从船上的两名水手那里了解到，曾发生过一名水手试图跳下军舰的事件，"
+    },
+    {
+      "id": 79,
+      "startMs": 464800,
+      "endMs": 470240,
+      "en": "and that sailor was kept from doing that by watchstanders who were nearby.",
+      "zh": "附近值班人员阻止了这名水手这么做。"
+    },
+    {
+      "id": 80,
+      "startMs": 470720,
+      "endMs": 478080,
+      "en": "Other reports said multiple sailors had tried to jump overboard amid food shortages, water problems, and unsanitary conditions.",
+      "zh": "其他报道说，在食物短缺、供水问题和不卫生的环境中，多名水手曾试图跳海。"
+    },
+    {
+      "id": 81,
+      "startMs": 478560,
+      "endMs": 481860,
+      "en": "The allegations have been dismissed by the US Defense Secretary, Pete Hegseth.",
+      "zh": "美国国防部长皮特·赫格塞思驳回了这些指控。"
+    },
+    {
+      "id": 82,
+      "startMs": 482500,
+      "endMs": 485380,
+      "en": "Our North America correspondent, Daniel Bush, told me more.",
+      "zh": "我们的北美记者丹尼尔·布什向我介绍了更多情况。"
+    },
+    {
+      "id": 83,
+      "startMs": 485860,
+      "endMs": 488900,
+      "en": "There are claims coming in from a couple of different sources,",
+      "zh": "目前有来自几个不同来源的说法，"
+    },
+    {
+      "id": 84,
+      "startMs": 488900,
+      "endMs": 495300,
+      "en": "Ollie. There was a contentious meeting between spouses and other family members of the sailors on board with Navy officials",
+      "zh": "奥利。当时舰员的配偶和其他家属与海军官员举行了一场有争议的会议，"
+    },
+    {
+      "id": 85,
+      "startMs": 495380,
+      "endMs": 504420,
+      "en": "in which they claimed that their family members on board the USS Abraham Lincoln had written home complaining of lack of food, clean water, supplies.",
+      "zh": "他们声称，家人在“亚伯拉罕·林肯号”上写信回家，抱怨缺少食物、干净的水和物资。"
+    },
+    {
+      "id": 86,
+      "startMs": 504660,
+      "endMs": 514500,
+      "en": "And we also now know that a Democratic senator, Richard Blumenthal from Connecticut, has written a letter to Defense Secretary Pete Hegseth raising serious concern",
+      "zh": "我们现在还知道，来自康涅狄格州的民主党参议员理查德·布卢门撒尔已致信国防部长皮特·赫格塞思，表达严重担忧，"
+    },
+    {
+      "id": 87,
+      "startMs": 514660,
+      "endMs": 521060,
+      "en": "about the same issues, potential shortages of supplies of clean water, food, and other materials.",
+      "zh": "针对同样的问题：干净的水、食物和其他物资可能短缺。"
+    },
+    {
+      "id": 88,
+      "startMs": 521220,
+      "endMs": 528020,
+      "en": "Now the Navy has come out with a statement to the BBC saying that after a review did not find an increase",
+      "zh": "海军随后向 BBC 发表声明称，经过审查，没有发现增加，"
+    },
+    {
+      "id": 89,
+      "startMs": 528260,
+      "endMs": 535860,
+      "en": "in suicidal attempts on board, but there have been reports that multiple sailors jumped overboard from the USS Lincoln,",
+      "zh": "舰上自杀未遂事件的数量增加，但有报道称，多名水手从“林肯号”跳海，"
+    },
+    {
+      "id": 90,
+      "startMs": 535860,
+      "endMs": 539700,
+      "en": "one of whom was wearing, apparently, a life jacket and was quickly rescued by the Navy.",
+      "zh": "其中一人显然穿着救生衣，很快被海军救起。"
+    },
+    {
+      "id": 91,
+      "startMs": 539640,
+      "endMs": 543160,
+      "en": "By the Navy. So that is the state of affairs right now.",
+      "zh": "由海军救起。目前情况就是这样。"
+    },
+    {
+      "id": 92,
+      "startMs": 543160,
+      "endMs": 552360,
+      "en": "And as you said, this particular aircraft carrier has now been deployed for more than 250 days in the Middle East supporting the US war with Iran",
+      "zh": "正如你所说，这艘航空母舰已经在中东部署超过 250 天，支持美国对伊朗的战争，"
+    },
+    {
+      "id": 93,
+      "startMs": 552360,
+      "endMs": 558920,
+      "en": "and has not had a port of call in over 200 days, which the Democratic Senator Richard Blumenthal says is a modern-day record.",
+      "zh": "并且超过 200 天没有进港停靠；民主党参议员理查德·布卢门撒尔称，这是现代纪录。"
+    },
+    {
+      "id": 94,
+      "startMs": 559240,
+      "endMs": 562440,
+      "en": "And so what has Pete Hegseth said about all this?",
+      "zh": "那么，皮特·赫格塞思对此怎么说？"
+    },
+    {
+      "id": 95,
+      "startMs": 562920,
+      "endMs": 565800,
+      "en": "Well, he has pushed back, as has the Navy.",
+      "zh": "他予以反驳，海军也一样。"
+    },
+    {
+      "id": 96,
+      "startMs": 566120,
+      "endMs": 571400,
+      "en": "They, again, say that they keep the well-being of service members at top of mind,",
+      "zh": "他们再次表示，始终把军人的福祉放在首位，"
+    },
+    {
+      "id": 97,
+      "startMs": 571400,
+      "endMs": 580120,
+      "en": "that there are no shortages aboard this aircraft carrier, that there is a steady supply of food, water, that there are clean living conditions on board.",
+      "zh": "并称这艘航空母舰上没有物资短缺，食物和水供应稳定，舰上居住环境洁净。"
+    },
+    {
+      "id": 98,
+      "startMs": 580440,
+      "endMs": 589560,
+      "en": "You know, this comes as President Trump is facing increasing pressure to wind down this war, and the Navy has extended the deployment of this aircraft carrier",
+      "zh": "你知道，这发生在特朗普总统面临越来越大压力、被要求结束战争之际，而海军又延长了这艘航空母舰的部署，"
+    },
+    {
+      "id": 99,
+      "startMs": 589720,
+      "endMs": 595800,
+      "en": "without a certain return date. So this is a moment where morale apparently on board is very, very low",
+      "zh": "且没有确定返航日期。因此，舰上士气显然非常、非常低落，"
+    },
+    {
+      "id": 100,
+      "startMs": 595800,
+      "endMs": 600700,
+      "en": "as these sailors are now there for months on end for a war that has no end in sight.",
+      "zh": "因为这些水手要在那里一连待上数月，而这场战争看不到尽头。"
+    },
+    {
+      "id": 101,
+      "startMs": 601260,
+      "endMs": 609100,
+      "en": "And I guess some might argue that if you are a sailor or a soldier at war, you just have to put up with these kind of things.",
+      "zh": "我想，有人可能会说，既然你是参战的水手或士兵，就只能忍受这类事情。"
+    },
+    {
+      "id": 102,
+      "startMs": 609260,
+      "endMs": 613980,
+      "en": "Supporters of the war are saying this is part of what it means to be in a war zone.",
+      "zh": "战争支持者说，这就是身处战区的一部分代价。"
+    },
+    {
+      "id": 103,
+      "startMs": 613980,
+      "endMs": 620220,
+      "en": "But what critics who are focusing on these living conditions are arguing is that even in wartime, this is unusual.",
+      "zh": "但关注这些生活条件的批评者认为，即使在战时，这种情况也不寻常。"
+    },
+    {
+      "id": 104,
+      "startMs": 620220,
+      "endMs": 627020,
+      "en": "Again, this seems to be a modern-day record for the length of time that an aircraft carrier is deployed in a war zone without a port of call.",
+      "zh": "再说一次，这似乎创下了航空母舰在战区部署、却没有港口停靠的现代纪录。"
+    },
+    {
+      "id": 105,
+      "startMs": 627020,
+      "endMs": 630940,
+      "en": "There have been news reports just recently from Reuters",
+      "zh": "路透社最近刚刚报道称，"
+    },
+    {
+      "id": 106,
+      "startMs": 631020,
+      "endMs": 637580,
+      "en": "that the Navy is sending a separate aircraft carrier or group of ships to the region to replace the Abraham Lincoln.",
+      "zh": "海军正向该地区派遣另一艘航空母舰或一支舰队，以替换“亚伯拉罕·林肯号”。"
+    },
+    {
+      "id": 107,
+      "startMs": 637580,
+      "endMs": 641660,
+      "en": "The Navy itself has not confirmed this yet, so we're waiting to see whether that is the case.",
+      "zh": "海军方面尚未确认这一消息，因此我们还要等待，看看是否确实如此。"
+    },
+    {
+      "id": 108,
+      "startMs": 641660,
+      "endMs": 645660,
+      "en": "But it does suggest that the military is trying to respond to this moment.",
+      "zh": "但这确实表明，军方正试图应对当前局面。"
+    },
+    {
+      "id": 109,
+      "startMs": 646060,
+      "endMs": 647580,
+      "en": "Daniel Bush in Washington.",
+      "zh": "丹尼尔·布什在华盛顿报道。"
+    },
+    {
+      "id": 110,
+      "startMs": 648360,
+      "endMs": 655080,
+      "en": "Staying in the US, and for the first time in 16 years, three people there have been executed on the same day.",
+      "zh": "留在美国：那里16年来首次在同一天处决了三人。"
+    },
+    {
+      "id": 111,
+      "startMs": 655560,
+      "endMs": 662680,
+      "en": "The first was Carlos Cuesta-Rodriguez in Oklahoma. An hour later, Anthony Darrell Hines was put to death in Tennessee.",
+      "zh": "第一位是俄克拉何马州的卡洛斯·奎斯塔-罗德里格斯。一小时后，安东尼·达雷尔·海因斯在田纳西州被处决。"
+    },
+    {
+      "id": 112,
+      "startMs": 662920,
+      "endMs": 670200,
+      "en": "By the order of the Supreme Court, the Tennessee Department of Correction carried out the death sentence of Anthony Hines by means of lethal injection",
+      "zh": "根据最高法院命令，田纳西州惩教部门以注射致死的方式执行了安东尼·海因斯的死刑，"
+    },
+    {
+      "id": 113,
+      "startMs": 670520,
+      "endMs": 681000,
+      "en": "at the Riverbend Maximum Security Institution. Inmate Hines was pronounced dead at 10:43 a.m. and his last words were ‘Tell my son hello.’ This concludes my statement.",
+      "zh": "地点是河湾最高戒备监狱。囚犯海因斯于上午10点43分被宣布死亡，他的遗言是“代我向儿子问好”。我的声明到此结束。"
+    },
+    {
+      "id": 114,
+      "startMs": 681640,
+      "endMs": 687320,
+      "en": "Hines had killed Katherine Jenkins in 1985. Melissa Jenkins is Katherine's daughter.",
+      "zh": "海因斯于1985年杀害了凯瑟琳·詹金斯。梅丽莎·詹金斯是凯瑟琳的女儿。"
+    },
+    {
+      "id": 115,
+      "startMs": 687720,
+      "endMs": 693240,
+      "en": "For four decades, our family has endured the unimaginable pain and grief of her death.",
+      "zh": "40年来，我们一家承受着她去世带来的难以想象的痛苦和悲伤。"
+    },
+    {
+      "id": 116,
+      "startMs": 693560,
+      "endMs": 700920,
+      "en": "There is a deep void that will never be filled. A lifetime of memories we were denied because she was taken from us.",
+      "zh": "有一道永远无法填补的深深空缺。她被夺走，也让我们失去了本该拥有的一生回忆。"
+    },
+    {
+      "id": 117,
+      "startMs": 701400,
+      "endMs": 708280,
+      "en": "The third to die was Jeremy Williams in Alabama. He was convicted of raping and murdering a five-year-old girl in Georgia in 2021.",
+      "zh": "第三位死者是阿拉巴马州的杰里米·威廉姆斯。他因2021年在佐治亚州强奸并谋杀一名五岁女孩而被定罪。"
+    },
+    {
+      "id": 118,
+      "startMs": 708300,
+      "endMs": 717500,
+      "en": "There's been a steep rise in US executions recently, with four times as many people put to death last year as in 2021.",
+      "zh": "近来美国的处决数量大幅上升，去年被处决的人数是2021年的四倍。"
+    },
+    {
+      "id": 119,
+      "startMs": 717900,
+      "endMs": 722140,
+      "en": "But why is that? Luke Jones asked our North America reporter, Nardine Saad.",
+      "zh": "但为什么会这样？卢克·琼斯询问了我们的北美记者纳尔丁·萨阿德。"
+    },
+    {
+      "id": 120,
+      "startMs": 722620,
+      "endMs": 730860,
+      "en": "There were a total of 37 executions across 11 states in 2025. That's a marked increase from only 25 executions in 2024.",
+      "zh": "2025年，11个州共执行了37起死刑。这比2024年的25起大幅增加。"
+    },
+    {
+      "id": 121,
+      "startMs": 731260,
+      "endMs": 738300,
+      "en": "But about 40% of the deaths in 2025 were in Florida, and that's the biggest factor contributing to the US's rise in executions.",
+      "zh": "但2025年的死亡执行中约有40%发生在佛罗里达州，这是美国死刑数量上升的最大因素。"
+    },
+    {
+      "id": 122,
+      "startMs": 738620,
+      "endMs": 743180,
+      "en": "And just halfway through 2026, 12 of the 19 executions were out of Florida.",
+      "zh": "而到2026年年中，19起死刑执行中已有12起发生在佛罗里达州。"
+    },
+    {
+      "id": 123,
+      "startMs": 743340,
+      "endMs": 743900,
+      "en": "Why Florida?",
+      "zh": "为什么是佛罗里达州？"
+    },
+    {
+      "id": 124,
+      "startMs": 744380,
+      "endMs": 754700,
+      "en": "Governor Ron DeSantis has wide breadth of ability to authorize these executions and he, like President Donald Trump, is very pro-death penalty and believes it's a deterrent.",
+      "zh": "州长罗恩·德桑蒂斯拥有广泛的授权执行死刑的权力，而且和唐纳德·特朗普总统一样，他非常支持死刑，并认为死刑具有威慑作用。"
+    },
+    {
+      "id": 125,
+      "startMs": 755260,
+      "endMs": 758140,
+      "en": "President Trump has long been a major supporter of the death penalty.",
+      "zh": "特朗普总统长期以来都是死刑的主要支持者。"
+    },
+    {
+      "id": 126,
+      "startMs": 758140,
+      "endMs": 764940,
+      "en": "He describes capital punishment as, quote, ‘an essential tool for deterring and punishing those who commit the most heinous crimes,’ unquote.",
+      "zh": "他称死刑是“震慑和惩罚犯下最令人发指罪行者的必要工具”。"
+    },
+    {
+      "id": 127,
+      "startMs": 765020,
+      "endMs": 770560,
+      "en": "In 2020, during his first term, he ended a nearly two-decade moratorium on the federal death penalty.",
+      "zh": "2020年，在他的第一任期内，他结束了持续近20年的联邦死刑暂停执行。"
+    },
+    {
+      "id": 128,
+      "startMs": 770800,
+      "endMs": 774240,
+      "en": "And the moratorium returned under President Joe Biden.",
+      "zh": "乔·拜登总统任内又恢复了暂停执行。"
+    },
+    {
+      "id": 129,
+      "startMs": 774240,
+      "endMs": 780080,
+      "en": "But on his first day back in his second term, President Donald Trump signed an executive order that reinstated the death penalty.",
+      "zh": "但唐纳德·特朗普总统第二任期重返白宫的第一天，就签署行政令恢复了死刑。"
+    },
+    {
+      "id": 130,
+      "startMs": 780160,
+      "endMs": 782880,
+      "en": "I should add that no federal executions have been carried out since, though.",
+      "zh": "不过需要补充的是，此后并没有执行联邦死刑。"
+    },
+    {
+      "id": 131,
+      "startMs": 783280,
+      "endMs": 788960,
+      "en": "These executions are happening amid a steady decline of support for the death penalty in the United States and globally.",
+      "zh": "这些死刑执行发生之际，美国和全球对死刑的支持正在持续下降。"
+    },
+    {
+      "id": 132,
+      "startMs": 788960,
+      "endMs": 792240,
+      "en": "You see it being phased out in Europe and you see it waning in Africa.",
+      "zh": "死刑正在欧洲逐步废除，在非洲也日渐式微。"
+    },
+    {
+      "id": 133,
+      "startMs": 792560,
+      "endMs": 801840,
+      "en": "A Gallup poll in the US has shown that just 52% of Americans say the death penalty is morally acceptable, and that's the lowest number since the 1970s.",
+      "zh": "美国盖洛普民调显示，只有52%的美国人认为死刑在道德上可以接受，这是自20世纪70年代以来的最低比例。"
+    },
+    {
+      "id": 134,
+      "startMs": 802080,
+      "endMs": 805760,
+      "en": "There's also been a decline in the number of death sentences that are issued by juries.",
+      "zh": "陪审团判处死刑的数量也有所下降。"
+    },
+    {
+      "id": 135,
+      "startMs": 806160,
+      "endMs": 813680,
+      "en": "In the 1990s, juries across the country could issue upwards of 300 death sentences in a year. In 2025, they issued only 23.",
+      "zh": "20世纪90年代，全国陪审团一年可以判处超过300起死刑；2025年只有23起。"
+    },
+    {
+      "id": 136,
+      "startMs": 813920,
+      "endMs": 821680,
+      "en": "Hasn't there also been some upset, not just at the fact that executions are happening, but sometimes how they are happening, and there have been a few botched cases?",
+      "zh": "人们的不满是否不仅针对死刑正在执行这一事实，也针对执行方式？有几起执行失败的案例。"
+    },
+    {
+      "id": 137,
+      "startMs": 822320,
+      "endMs": 828160,
+      "en": "Those are the ones that are making the biggest headlines. Those have been with lethal injections, some issues with the three-drug cocktail.",
+      "zh": "这些案例最受新闻关注，涉及注射死刑，以及三种药物组合出现的一些问题。"
+    },
+    {
+      "id": 138,
+      "startMs": 828340,
+      "endMs": 834020,
+      "en": "Then you have pharmaceutical companies coming in and saying that they don't want their drugs to be used in this way,",
+      "zh": "此外，制药公司出面表示，不希望自己的药物以这种方式使用，"
+    },
+    {
+      "id": 139,
+      "startMs": 834020,
+      "endMs": 842340,
+      "en": "and so the drugs being obtained for these punishments have their own issues, and that is a contributing factor to these botched executions as well.",
+      "zh": "因此，为这些惩罚获取的药物本身也存在问题，这同样是导致这些执行失败的一个因素。"
+    },
+    {
+      "id": 140,
+      "startMs": 842820,
+      "endMs": 843540,
+      "en": "Nardine Saad.",
+      "zh": "纳尔丁·萨阿德报道。"
+    },
+    {
+      "id": 141,
+      "startMs": 844780,
+      "endMs": 851260,
+      "en": "According to a recent study, balloon fragments are the marine debris most likely to kill seabirds that ingest them.",
+      "zh": "一项近期研究显示，气球碎片是最可能导致吞食它们的海鸟死亡的海洋垃圾。"
+    },
+    {
+      "id": 142,
+      "startMs": 851660,
+      "endMs": 859180,
+      "en": "Scientists at Imperial College London have invented what they claim is the world's first fully biodegradable party balloon.",
+      "zh": "伦敦帝国理工学院的科学家发明了他们所称的全球首个完全可生物降解的派对气球。"
+    },
+    {
+      "id": 143,
+      "startMs": 859500,
+      "endMs": 865180,
+      "en": "They say it can break down within just nine months, as opposed to traditional balloons that take years.",
+      "zh": "他们说，这种气球只需九个月就能分解，而传统气球需要数年。"
+    },
+    {
+      "id": 144,
+      "startMs": 865500,
+      "endMs": 867260,
+      "en": "Laxmi Gopal has this report.",
+      "zh": "拉克希米·戈帕尔报道。"
+    },
+    {
+      "id": 145,
+      "startMs": 867740,
+      "endMs": 875980,
+      "en": "In some parts of the ocean, it's estimated that there are now over 1 million pieces of plastic for every square mile.",
+      "zh": "据估计，在海洋的某些区域，如今每平方英里有超过100万块塑料。"
+    },
+    {
+      "id": 146,
+      "startMs": 875980,
+      "endMs": 884220,
+      "en": "Highlighting how plastic pollution harms wildlife, the series Blue Planet II sparked action against single-use plastics such as straws.",
+      "zh": "系列纪录片《蓝色星球II》凸显塑料污染对野生动物的危害，引发了针对吸管等一次性塑料的行动。"
+    },
+    {
+      "id": 147,
+      "startMs": 884620,
+      "endMs": 889020,
+      "en": "Now, there's action against the environmental impact of another everyday item.",
+      "zh": "如今，人们也开始应对另一种日常用品对环境造成的影响。"
+    },
+    {
+      "id": 148,
+      "startMs": 889420,
+      "endMs": 892620,
+      "en": "It was the mission of high-end party planner Charlotte Melia.",
+      "zh": "这正是高端派对策划师夏洛特·梅莉娅的目标。"
+    },
+    {
+      "id": 149,
+      "startMs": 893180,
+      "endMs": 901660,
+      "en": "We'd just hosted a large event and I was surrounded by thousands of popped balloons at the end of the party, and that was the straw that broke the camel's back.",
+      "zh": "我们刚办完一场大型活动，派对结束时，我被数千个爆掉的气球包围，那成了压垮骆驼的最后一根稻草。"
+    },
+    {
+      "id": 150,
+      "startMs": 902060,
+      "endMs": 903420,
+      "en": "So how is it made?",
+      "zh": "那么它是怎么制成的？"
+    },
+    {
+      "id": 151,
+      "startMs": 903740,
+      "endMs": 906720,
+      "en": "Juliana Cumming is the co-inventor of Bioloon.",
+      "zh": "朱莉安娜·卡明是Bioloon的共同发明人。"
+    },
+    {
+      "id": 152,
+      "startMs": 906720,
+      "endMs": 914240,
+      "en": "We have a modified natural rubber and we just cut bits off of that, and that's what's in here, and we have a biodegradable semi-crystalline polymer which is just in here.",
+      "zh": "我们使用改性天然橡胶，把它切下一些，这里面就是这种材料；我们还有一种可生物降解的半结晶聚合物，也在这里面。"
+    },
+    {
+      "id": 153,
+      "startMs": 915040,
+      "endMs": 921280,
+      "en": "We blend them together in a solution and we pour it into this dish and we leave it to evaporate.",
+      "zh": "我们把它们混合在溶液中，倒进这个盘子里，让它蒸发。"
+    },
+    {
+      "id": 154,
+      "startMs": 921600,
+      "endMs": 924560,
+      "en": "It's a really thin film and this contains a cross-linking agent.",
+      "zh": "这是一层非常薄的膜，其中含有交联剂。"
+    },
+    {
+      "id": 155,
+      "startMs": 924880,
+      "endMs": 927360,
+      "en": "So we've just put this in the oven, 50 degrees,",
+      "zh": "所以我们把它放进烤箱，温度设为50度，"
+    },
+    {
+      "id": 156,
+      "startMs": 929900,
+      "endMs": 931020,
+      "en": "and we just leave it there for 10 minutes.",
+      "zh": "让它在里面放10分钟。"
+    },
+    {
+      "id": 157,
+      "startMs": 931500,
+      "endMs": 933420,
+      "en": "This really is like cooking, isn't it? It is, yes.",
+      "zh": "这真的很像做饭，对吧？是的。"
+    },
+    {
+      "id": 158,
+      "startMs": 933900,
+      "endMs": 938940,
+      "en": "After different versions of material proved too stretchy or too stiff, this one was just right.",
+      "zh": "不同版本的材料有的太有弹性，有的太硬，这一款恰到好处。"
+    },
+    {
+      "id": 159,
+      "startMs": 938940,
+      "endMs": 941820,
+      "en": "There you go, that's looking more like a balloon.",
+      "zh": "好了，这看起来更像气球了。"
+    },
+    {
+      "id": 160,
+      "startMs": 943860,
+      "endMs": 952580,
+      "en": "It's hoped it'll pose less risk to wildlife. A recent study found that balloon fragments were the marine debris most likely to kill seabirds that ingested it.",
+      "zh": "人们希望它对野生动物的风险更低。一项近期研究发现，气球碎片是最可能导致吞食它的海鸟死亡的海洋垃圾。"
+    },
+    {
+      "id": 161,
+      "startMs": 953140,
+      "endMs": 960900,
+      "en": "The Bioloon researchers say while standard balloons can take many years to break down, theirs should fully biodegrade within 9 months.",
+      "zh": "Bioloon研究人员说，普通气球可能需要多年才能分解，而他们的气球应能在9个月内完全生物降解。"
+    },
+    {
+      "id": 162,
+      "startMs": 961480,
+      "endMs": 970760,
+      "en": "A regular balloon, you need to add in sulphur and other additives which prevent it biodegrading and cause toxic chemicals to leach into the environment.",
+      "zh": "普通气球需要加入硫和其他添加剂，这些物质会阻止它生物降解，并导致有毒化学物质渗入环境。"
+    },
+    {
+      "id": 163,
+      "startMs": 971160,
+      "endMs": 978920,
+      "en": "Whereas our balloon, we start with biodegradable materials and we join them together just with what is present in there.",
+      "zh": "而我们的气球从可生物降解的材料开始，只用其中已有的成分把它们结合起来。"
+    },
+    {
+      "id": 164,
+      "startMs": 978920,
+      "endMs": 981720,
+      "en": "So it retains the biodegradability, so there's no additives.",
+      "zh": "因此它保留了可生物降解性，不需要添加剂。"
+    },
+    {
+      "id": 165,
+      "startMs": 982120,
+      "endMs": 990040,
+      "en": "Despite using a different process, the team claims it would be no more expensive and, what's more, would be easier to blow up than a traditional balloon.",
+      "zh": "团队称，尽管采用了不同工艺，它的成本不会更高，而且比传统气球更容易吹起来。"
+    },
+    {
+      "id": 166,
+      "startMs": 990680,
+      "endMs": 993240,
+      "en": "As for the materials used, the sky's the limit.",
+      "zh": "至于这种材料的用途，可以说前景无限。"
+    },
+    {
+      "id": 167,
+      "startMs": 993720,
+      "endMs": 995560,
+      "en": "Party planner Charlotte Melia.",
+      "zh": "派对策划师夏洛特·梅莉娅。"
+    },
+    {
+      "id": 168,
+      "startMs": 995640,
+      "endMs": 1001560,
+      "en": "We're starting with balloons, but we hope to work into gloves, surgical and non-surgical latex,",
+      "zh": "我们从气球开始，但希望拓展到手套、手术和非手术乳胶制品，"
+    },
+    {
+      "id": 169,
+      "startMs": 1001880,
+      "endMs": 1006760,
+      "en": "medicinal apparatus, medicinal balloons, clothing and even condoms in the future.",
+      "zh": "医疗器械、医用气囊、服装，未来甚至包括避孕套。"
+    },
+    {
+      "id": 170,
+      "startMs": 1007240,
+      "endMs": 1012440,
+      "en": "The team says the new greener balloons will be produced commercially within the next two years.",
+      "zh": "团队表示，这种更环保的新型气球将在未来两年内商业化生产。"
+    },
+    {
+      "id": 171,
+      "startMs": 1012920,
+      "endMs": 1014600,
+      "en": "Laxmi Gopal with that report.",
+      "zh": "拉克希米·戈帕尔的报道。"
+    },
+    {
+      "id": 172,
+      "startMs": 1017380,
+      "endMs": 1018900,
+      "en": "And still to come in this podcast...",
+      "zh": "本期节目稍后还将播出……"
+    },
+    {
+      "id": 173,
+      "startMs": 1019300,
+      "endMs": 1026260,
+      "en": "These geese fly 4,000 miles to get back to the sun. All I'm asking you to do is play 38 games to win the league.",
+      "zh": "这些鹅要飞行4000英里才能回到阳光下。我只要求你打38场比赛赢得联赛冠军。"
+    },
+    {
+      "id": 174,
+      "startMs": 1026660,
+      "endMs": 1028020,
+      "en": "I don't think I'm asking too much.",
+      "zh": "我不觉得自己的要求过分。"
+    },
+    {
+      "id": 175,
+      "startMs": 1028340,
+      "endMs": 1033380,
+      "en": "Why sports coaches are getting their teams to behave like migrating birds.",
+      "zh": "为什么体育教练让他们的球队像候鸟一样行动。"
+    },
+    {
+      "id": 176,
+      "startMs": 1040320,
+      "endMs": 1042640,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 177,
+      "startMs": 1043120,
+      "endMs": 1053920,
+      "en": "A law in Ghana, which would hand prison terms to members of the LGBT community and those seen as promoting homosexuality, is awaiting its final sign-off by the country's president.",
+      "zh": "加纳一项将对 LGBT 群体成员及被视为宣扬同性恋者判处监禁的法律，正等待该国总统的最终签署。"
+    },
+    {
+      "id": 178,
+      "startMs": 1054320,
+      "endMs": 1060880,
+      "en": "It was approved by Ghana's Parliament earlier this year with cross-party support. Critics say it puts lives at risk.",
+      "zh": "该法案于今年早些时候获加纳议会通过，并得到跨党派支持。批评者说，它将生命置于危险之中。"
+    },
+    {
+      "id": 179,
+      "startMs": 1061200,
+      "endMs": 1065120,
+      "en": "Our religion editor Aleem Maqbool has been to Ghana to find out more.",
+      "zh": "我们的宗教事务编辑阿利姆·马克布尔前往加纳了解详情。"
+    },
+    {
+      "id": 180,
+      "startMs": 1067000,
+      "endMs": 1072280,
+      "en": "There are more than 60 countries in the world where homosexuality is a crime.",
+      "zh": "全世界有超过 60 个国家将同性恋定为犯罪。"
+    },
+    {
+      "id": 181,
+      "startMs": 1072680,
+      "endMs": 1081000,
+      "en": "Around half of them are in Africa, and Ghana is in the process of becoming another that sends gay people to prison.",
+      "zh": "其中约一半在非洲，而加纳正逐渐成为另一个把同性恋者送进监狱的国家。"
+    },
+    {
+      "id": 182,
+      "startMs": 1081400,
+      "endMs": 1089880,
+      "en": "We are criminalizing people who carry themselves to be in that society.",
+      "zh": "我们正在把那些表现得像属于那个群体的人定为罪犯。"
+    },
+    {
+      "id": 183,
+      "startMs": 1089960,
+      "endMs": 1091240,
+      "en": "People who are gay? Gay.",
+      "zh": "同性恋者？同性恋。"
+    },
+    {
+      "id": 184,
+      "startMs": 1091800,
+      "endMs": 1099960,
+      "en": "If you are attracted to another man and you express it openly and you indulge in the act of kissing a man,",
+      "zh": "如果你被另一个男人吸引，并公开表达这种感情，还做出亲吻男人的行为，"
+    },
+    {
+      "id": 185,
+      "startMs": 1100680,
+      "endMs": 1104120,
+      "en": "it's unnatural for us. I mean, that is uncultural.",
+      "zh": "对我们来说这不自然。我的意思是，那是不合乎文化的。"
+    },
+    {
+      "id": 186,
+      "startMs": 1104680,
+      "endMs": 1115320,
+      "en": "That's Emmanuel Bedzrah, Ghanaian member of Parliament and one of the architects of a bill that doesn't just outlaw being gay, but also outlaws being an LGBT ally.",
+      "zh": "这是加纳议会议员伊曼纽尔·贝德兹拉。他是该法案的主要起草者之一；法案不仅禁止同性恋，也禁止成为 LGBT 的支持者。"
+    },
+    {
+      "id": 187,
+      "startMs": 1115800,
+      "endMs": 1121400,
+      "en": "We thought the spread of all this thing comes from people who are supporters.",
+      "zh": "我们认为，这些事情的传播源自那些支持者。"
+    },
+    {
+      "id": 188,
+      "startMs": 1122260,
+      "endMs": 1130100,
+      "en": "And so if you are an ally, or you are promoting it and you are caught, it means you want it spread, and so you also be... it's a criminal offence.",
+      "zh": "所以，如果你是支持者，或者你在宣扬它而被抓住，那就意味着你想让它传播，因此你也会……这是一种犯罪行为。"
+    },
+    {
+      "id": 189,
+      "startMs": 1130180,
+      "endMs": 1138900,
+      "en": "And if you're seen as an ally, if you're seen as somebody who expresses being gay, that could lead to prison terms?",
+      "zh": "如果你被视为支持者，或者被视为表达自己是同性恋的人，这可能导致监禁吗？"
+    },
+    {
+      "id": 190,
+      "startMs": 1138980,
+      "endMs": 1141220,
+      "en": "Of course. You should be in prison.",
+      "zh": "当然。你就应该进监狱。"
+    },
+    {
+      "id": 191,
+      "startMs": 1142120,
+      "endMs": 1144120,
+      "en": "More from Mr Bedzrah later.",
+      "zh": "稍后还有贝德兹拉先生的内容。"
+    },
+    {
+      "id": 192,
+      "startMs": 1144440,
+      "endMs": 1150840,
+      "en": "The bill he sponsored has been passed by Ghana's Parliament and is now waiting to be signed into law by the president.",
+      "zh": "他提出的法案已获加纳议会通过，目前正等待总统签署成为法律。"
+    },
+    {
+      "id": 193,
+      "startMs": 1150840,
+      "endMs": 1159480,
+      "en": "But some gay Ghanaians have already fled the country, like Baddie Akboateng, who has been hearing from those left behind.",
+      "zh": "但一些加纳同性恋者已经逃离该国，比如巴迪·阿克博滕；他一直在听取那些留下的人的经历。"
+    },
+    {
+      "id": 194,
+      "startMs": 1159640,
+      "endMs": 1166600,
+      "en": "Sometimes I'm, I'm drawn to tears because I've had my fair experience of that, of what they're going through.",
+      "zh": "有时我会，我会忍不住流泪，因为我也切身体会过他们正在经历的一切。"
+    },
+    {
+      "id": 195,
+      "startMs": 1167000,
+      "endMs": 1174600,
+      "en": "When you're going out you have to check, oh, is this person that I'm talking to, is he safe? Can I trust this person with who I am?",
+      "zh": "当你出门时，你必须确认：和我交谈的这个人安全吗？我能相信这个人，向他袒露真实的自己吗？"
+    },
+    {
+      "id": 196,
+      "startMs": 1174840,
+      "endMs": 1181480,
+      "en": "You feel now not only that you can't live in Ghana, but how do you feel about even visiting Ghana?",
+      "zh": "你现在不仅觉得自己无法生活在加纳，就连回加纳探访又是什么感受？"
+    },
+    {
+      "id": 197,
+      "startMs": 1181640,
+      "endMs": 1189720,
+      "en": "Visiting Ghana will be difficult. It's a sad situation for me, especially having a family there,",
+      "zh": "回加纳探访会很困难。这对我来说很悲哀，尤其是我的家人还在那里，"
+    },
+    {
+      "id": 198,
+      "startMs": 1189720,
+      "endMs": 1197880,
+      "en": "but I can't visit because I really want to live who I am without needing to pretend, without needing to lie to anybody. It's very sad.",
+      "zh": "但我不能回去，因为我想真实地生活，不必伪装，也不必对任何人撒谎。这非常令人难过。"
+    },
+    {
+      "id": 199,
+      "startMs": 1198280,
+      "endMs": 1199960,
+      "en": "Our society frown on some of these things.",
+      "zh": "我们的社会不赞成其中一些事情。"
+    },
+    {
+      "id": 200,
+      "startMs": 1200000,
+      "endMs": 1207120,
+      "en": "And so back to the MP, Emmanuel Bedzrah, one of those who drew up the anti-LGBT law.",
+      "zh": "回到议员伊曼纽尔·贝德兹拉这里，他是反 LGBT 法案的起草者之一。"
+    },
+    {
+      "id": 201,
+      "startMs": 1207360,
+      "endMs": 1213440,
+      "en": "How can you criminalize something that people can't control in themselves?",
+      "zh": "人们无法控制的事情，你怎么能把它定为犯罪？"
+    },
+    {
+      "id": 202,
+      "startMs": 1213520,
+      "endMs": 1218560,
+      "en": "I just give you one example that people sometimes have desire to steal.",
+      "zh": "我只举一个例子：人们有时会产生偷窃的欲望。"
+    },
+    {
+      "id": 203,
+      "startMs": 1218880,
+      "endMs": 1224800,
+      "en": "But this is very different. This is about living their own lives, expressing themselves.",
+      "zh": "但这完全不同。这关乎人们过自己的生活，表达自己。"
+    },
+    {
+      "id": 204,
+      "startMs": 1225120,
+      "endMs": 1230000,
+      "en": "So, there's a boundary in every society. One of the boundaries is that don't steal.",
+      "zh": "每个社会都有界限。其中一条界限就是不能偷窃。"
+    },
+    {
+      "id": 205,
+      "startMs": 1230480,
+      "endMs": 1238560,
+      "en": "But is it a crime that somebody is born in a way that they feel affection for somebody that is of their own gender?",
+      "zh": "但一个人生来就会对同性产生感情，这难道是犯罪吗？"
+    },
+    {
+      "id": 206,
+      "startMs": 1238880,
+      "endMs": 1242080,
+      "en": "Born in a way? Who born them in that way? You were born a man.",
+      "zh": "生来如此？谁让他们生来如此？你生来就是男人。"
+    },
+    {
+      "id": 207,
+      "startMs": 1242240,
+      "endMs": 1246560,
+      "en": "So do you accept that if somebody is gay, they were born that way?",
+      "zh": "所以，你是否承认一个人如果是同性恋，就是生来如此？"
+    },
+    {
+      "id": 208,
+      "startMs": 1246560,
+      "endMs": 1249600,
+      "en": "No, we don't. We don't accept. No, not at all. So don't even go there.",
+      "zh": "不，我们不承认。我们不接受。不，完全不接受。所以别提这个。"
+    },
+    {
+      "id": 209,
+      "startMs": 1249600,
+      "endMs": 1260480,
+      "en": "There are some calls from human rights activists from the international community to raise the issue more, but for some, that could seem like colonial interference.",
+      "zh": "国际社会的一些人权活动人士呼吁进一步提出这个问题，但在一些人看来，这可能像是殖民干涉。"
+    },
+    {
+      "id": 210,
+      "startMs": 1260740,
+      "endMs": 1268340,
+      "en": "We think that gayism, homosexuality, and all this acronyms, the LGBT, are import from the Western world.",
+      "zh": "我们认为同性恋、同性恋行为以及 LGBT 这些缩写，都是从西方世界传入的。"
+    },
+    {
+      "id": 211,
+      "startMs": 1268660,
+      "endMs": 1279460,
+      "en": "The process over recent years that has led to this legislation being passed in Parliament has led to rhetoric that has left gay people here fearful.",
+      "zh": "近年来促成这项法律在议会通过的过程，也催生了令当地同性恋者感到恐惧的言论。"
+    },
+    {
+      "id": 212,
+      "startMs": 1279780,
+      "endMs": 1281300,
+      "en": "Some of them have fled the country.",
+      "zh": "其中一些人已经逃离这个国家。"
+    },
+    {
+      "id": 213,
+      "startMs": 1281300,
+      "endMs": 1283140,
+      "en": "They have to go. We don't want them there, seriously.",
+      "zh": "他们必须离开。我们不希望他们在那里，真的。"
+    },
+    {
+      "id": 214,
+      "startMs": 1283540,
+      "endMs": 1291540,
+      "en": "The law's only been held up because some Christian and Muslim leaders wanted it to be more severe,",
+      "zh": "这项法律之所以被拖延，只是因为一些基督教和穆斯林领袖希望它更加严厉，"
+    },
+    {
+      "id": 215,
+      "startMs": 1291540,
+      "endMs": 1299140,
+      "en": "but it seems jail terms of up to three years could soon be a reality for anyone found to be gay in Ghana.",
+      "zh": "但看来，在加纳被认定为同性恋的人很快可能面临最高三年的监禁。"
+    },
+    {
+      "id": 216,
+      "startMs": 1299780,
+      "endMs": 1301780,
+      "en": "Aleem Maqbool reporting from Ghana.",
+      "zh": "阿利姆·马克布尔从加纳报道。"
+    },
+    {
+      "id": 217,
+      "startMs": 1302740,
+      "endMs": 1310260,
+      "en": "Colombia is still reeling from the powerful earthquake which hit on Monday, destroying thousands of homes and businesses in the west of the country.",
+      "zh": "哥伦比亚仍在从周一发生的强烈地震中缓过来；地震摧毁了该国西部数千座房屋和企业。"
+    },
+    {
+      "id": 218,
+      "startMs": 1310740,
+      "endMs": 1315700,
+      "en": "More than 270 people are known to have died, and the death toll continues to rise.",
+      "zh": "已知有超过 270 人死亡，死亡人数还在上升。"
+    },
+    {
+      "id": 219,
+      "startMs": 1316100,
+      "endMs": 1322180,
+      "en": "As rescue efforts continue, families face an anxious wait to find out if their relatives are still alive under the rubble.",
+      "zh": "救援工作仍在继续，许多家庭焦急等待，想知道亲人是否还活在瓦砾下。"
+    },
+    {
+      "id": 220,
+      "startMs": 1322660,
+      "endMs": 1330660,
+      "en": "A 10-year-old boy called Martin, who lived with his mother and grandmother, was on the third floor of an eight-storey apartment block when it collapsed.",
+      "zh": "一名叫马丁的 10 岁男孩与母亲和祖母住在一栋八层公寓楼里，楼房倒塌时他在三楼。"
+    },
+    {
+      "id": 221,
+      "startMs": 1330980,
+      "endMs": 1338660,
+      "en": "His cousin, Johanna Jimenez, told the BBC that signs of life in the building have given her hope that her relatives may have survived.",
+      "zh": "他的表姐乔安娜·希门尼斯告诉 BBC，楼内传出的生命迹象让她相信亲人可能幸存。"
+    },
+    {
+      "id": 222,
+      "startMs": 1339140,
+      "endMs": 1343220,
+      "en": "The Ana Pilar building in Cali collapsed in the earthquake.",
+      "zh": "卡利的安娜·皮拉尔大楼在地震中倒塌。"
+    },
+    {
+      "id": 223,
+      "startMs": 1343540,
+      "endMs": 1350682,
+      "en": "They have managed to locate Martin, who is in this collapsed building.",
+      "zh": "他们已经设法确认马丁就在这栋倒塌的大楼里。"
+    },
+    {
+      "id": 224,
+      "startMs": 1350717,
+      "endMs": 1361540,
+      "en": "They confirmed that there were signs of life in the building, but as you can imagine, it's very slow, the whole process.",
+      "zh": "他们确认大楼里有生命迹象，但正如你能想象的，整个过程非常缓慢。"
+    },
+    {
+      "id": 225,
+      "startMs": 1363720,
+      "endMs": 1369640,
+      "en": "So in the early hours, they said that there were some people who were alive and that they had heard signs of life.",
+      "zh": "所以在最初几个小时里，他们说有些人还活着，并且他们听到了生命迹象。"
+    },
+    {
+      "id": 226,
+      "startMs": 1370360,
+      "endMs": 1380120,
+      "en": "And I hope that the signs of life are of my aunt, Amparo, and my cousin, Alejandra, and we're praying that they can take Martin out of the rubble.",
+      "zh": "我希望这些生命迹象来自我的阿姨安帕罗和表妹亚历杭德拉，我们也在祈祷他们能够把马丁从瓦砾中救出来。"
+    },
+    {
+      "id": 227,
+      "startMs": 1384000,
+      "endMs": 1390160,
+      "en": "It's been very hard, very painful in a way. It's tough because we're a close-knit family,",
+      "zh": "这段经历非常艰难，也让人非常痛苦。事情之所以难熬，是因为我们是一个关系紧密的家庭，"
+    },
+    {
+      "id": 228,
+      "startMs": 1390560,
+      "endMs": 1398320,
+      "en": "and Martin is a lovely boy. He's a very happy boy, and so are my cousin Alejandra and my aunt.",
+      "zh": "而马丁是个可爱的孩子，他非常快乐，我的表妹亚历杭德拉和阿姨也是如此。"
+    },
+    {
+      "id": 229,
+      "startMs": 1398800,
+      "endMs": 1406560,
+      "en": "And we've been feeling this deep love everybody's been giving us. And we believe that God will make this miracle happen.",
+      "zh": "我们感受到了所有人给予我们的深深的爱。我们相信上帝会创造这个奇迹。"
+    },
+    {
+      "id": 230,
+      "startMs": 1406560,
+      "endMs": 1414320,
+      "en": "And ever since we saw that the building had collapsed, we've been here, and we've been really positive about the outcome of being able to find them.",
+      "zh": "自从看到大楼倒塌后，我们就一直守在这里，并且一直乐观地相信能够找到他们。"
+    },
+    {
+      "id": 231,
+      "startMs": 1414720,
+      "endMs": 1421840,
+      "en": "So many people have been affected. So many houses are just uninhabitable, or they look like they might collapse.",
+      "zh": "这么多人受到影响。许多房屋已经无法居住，或者看起来可能会倒塌。"
+    },
+    {
+      "id": 232,
+      "startMs": 1422380,
+      "endMs": 1430540,
+      "en": "So the city of Cali is paralysed, and the parts that have not been so badly affected, people from those parts have come to our aid.",
+      "zh": "所以卡利市陷入瘫痪，而在受灾没那么严重的地区，人们纷纷前来援助我们。"
+    },
+    {
+      "id": 233,
+      "startMs": 1431020,
+      "endMs": 1433660,
+      "en": "Nationally, people have come; internationally, people have come.",
+      "zh": "全国各地的人来了，国际社会的人也来了。"
+    },
+    {
+      "id": 234,
+      "startMs": 1434380,
+      "endMs": 1439580,
+      "en": "And the thing is, we're going to have to start from zero because our homes are uninhabitable.",
+      "zh": "问题在于，我们将不得不从零开始，因为我们的家已经无法居住。"
+    },
+    {
+      "id": 235,
+      "startMs": 1440220,
+      "endMs": 1442460,
+      "en": "Johanna Jimenez in Colombia.",
+      "zh": "来自哥伦比亚的乔安娜·希门尼斯报道。"
+    },
+    {
+      "id": 236,
+      "startMs": 1443660,
+      "endMs": 1452060,
+      "en": "A few days ago, a dad in the US state of Ohio set an unofficial world record by running a mile in 4 minutes and 17 seconds.",
+      "zh": "几天前，美国俄亥俄州一位父亲用4分17秒跑完一英里，创造了一项非官方世界纪录。"
+    },
+    {
+      "id": 237,
+      "startMs": 1452620,
+      "endMs": 1457020,
+      "en": "He was pushing his daughter along in a pushchair, or stroller, as they're known in the US.",
+      "zh": "他当时推着女儿坐的婴儿车，这种车在美国称为 stroller。"
+    },
+    {
+      "id": 238,
+      "startMs": 1457500,
+      "endMs": 1464540,
+      "en": "And while that may seem like a tiring way to jog, a new study has found it might actually help prevent injuries.",
+      "zh": "虽然这看起来是很累的慢跑方式，但一项新研究发现，这实际上可能有助于预防受伤。"
+    },
+    {
+      "id": 239,
+      "startMs": 1464860,
+      "endMs": 1469820,
+      "en": "I heard more from lead researcher Allison Altman Singles of Pennsylvania State University.",
+      "zh": "我向宾夕法尼亚州立大学的首席研究员艾莉森·奥尔特曼·辛格尔斯了解了更多情况。"
+    },
+    {
+      "id": 240,
+      "startMs": 1470220,
+      "endMs": 1478220,
+      "en": "What we found is that fewer runners that are running with strollers get injured, and they're getting injured at lower rates per 1,000 miles.",
+      "zh": "我们发现，使用婴儿车跑步的跑者受伤人数更少，而且每跑1000英里，受伤率也更低。"
+    },
+    {
+      "id": 241,
+      "startMs": 1479020,
+      "endMs": 1483260,
+      "en": "We think that the reason for that is because of the way that they're running with the strollers.",
+      "zh": "我们认为，这是因为他们使用婴儿车跑步的方式。"
+    },
+    {
+      "id": 242,
+      "startMs": 1483340,
+      "endMs": 1487740,
+      "en": "So when you push a stroller, you sort of lean forward onto it and hold onto the handlebars.",
+      "zh": "推动婴儿车时，你会稍微向前靠在车上并抓住把手。"
+    },
+    {
+      "id": 243,
+      "startMs": 1488140,
+      "endMs": 1491980,
+      "en": "And that puts some of your weight through the stroller, and not all of it goes through your legs.",
+      "zh": "这样一部分体重就由婴儿车承受，不会全部压在腿上。"
+    },
+    {
+      "id": 244,
+      "startMs": 1492380,
+      "endMs": 1495980,
+      "en": "So it almost has like an unweighting effect, kind of like when you're using a walker,",
+      "zh": "所以这几乎有一种减重效果，有点像使用助行器时，"
+    },
+    {
+      "id": 245,
+      "startMs": 1496140,
+      "endMs": 1500300,
+      "en": "how it kind of gives you a little bit less on your feet and more through your arms.",
+      "zh": "它会让你的脚承受得少一点，而手臂承受得多一点。"
+    },
+    {
+      "id": 246,
+      "startMs": 1500300,
+      "endMs": 1505120,
+      "en": "So they're getting less force through their body, which causes fewer overuse injuries in the runners.",
+      "zh": "因此跑者身体承受的力量更小，也就减少了过度使用造成的伤病。"
+    },
+    {
+      "id": 247,
+      "startMs": 1505360,
+      "endMs": 1510400,
+      "en": "Is it surprising that if you have something to lean on, you're less likely to get injured?",
+      "zh": "有东西可以倚靠就不容易受伤，这令人意外吗？"
+    },
+    {
+      "id": 248,
+      "startMs": 1510720,
+      "endMs": 1516640,
+      "en": "I don't think it's super surprising, and in fact we've heard of anecdotal studies of people using something similar to a stroller",
+      "zh": "我不觉得特别意外。事实上，我们听说过一些轶闻式研究，人们会使用类似婴儿车的东西，"
+    },
+    {
+      "id": 249,
+      "startMs": 1516720,
+      "endMs": 1520320,
+      "en": "for balance as they exercise, as they age as well, which we love.",
+      "zh": "在年纪大了以后锻炼时保持平衡，这一点我们很喜欢。"
+    },
+    {
+      "id": 250,
+      "startMs": 1520640,
+      "endMs": 1524160,
+      "en": "If you run with a stroller, do you tend to go faster or slower?",
+      "zh": "推着婴儿车跑步时，通常会更快还是更慢？"
+    },
+    {
+      "id": 251,
+      "startMs": 1524480,
+      "endMs": 1530320,
+      "en": "You tend to run a little bit slower, but even if you run the same speed, you still get this benefit from the stroller.",
+      "zh": "通常会慢一点，但即使速度不变，仍然能从婴儿车中获得这种好处。"
+    },
+    {
+      "id": 252,
+      "startMs": 1530720,
+      "endMs": 1535760,
+      "en": "What about the guy who just broke the record for running a mile with a stroller?",
+      "zh": "那位刚刚打破推婴儿车跑一英里纪录的人呢？"
+    },
+    {
+      "id": 253,
+      "startMs": 1536080,
+      "endMs": 1543120,
+      "en": "When you run on a smooth, flat surface, it doesn't take too much more effort to push a stroller. So it's awesome that he broke the record,",
+      "zh": "在平坦顺滑的地面上跑步，推婴儿车并不需要多费太多力。所以他打破纪录真的很棒，"
+    },
+    {
+      "id": 254,
+      "startMs": 1543120,
+      "endMs": 1547520,
+      "en": "and I think that there's still potential out there that we could be running fast miles with strollers.",
+      "zh": "我认为我们仍有可能推着婴儿车快速跑完一英里。"
+    },
+    {
+      "id": 255,
+      "startMs": 1547760,
+      "endMs": 1552880,
+      "en": "And does it make any difference the type of pushchair that a person uses when running?",
+      "zh": "跑步时使用哪种婴儿车，会有区别吗？"
+    },
+    {
+      "id": 256,
+      "startMs": 1553280,
+      "endMs": 1557280,
+      "en": "For speed, probably, but for injury, it does not seem like it makes a difference.",
+      "zh": "对速度来说可能有影响，但对受伤风险来说，似乎没有区别。"
+    },
+    {
+      "id": 257,
+      "startMs": 1557440,
+      "endMs": 1564660,
+      "en": "In our population, we expected to see most people using like a three-wheeled, directionally locked front wheel type of jogging stroller.",
+      "zh": "在我们的研究人群中，我们原以为大多数人会使用前轮锁定方向的三轮慢跑婴儿车。"
+    },
+    {
+      "id": 258,
+      "startMs": 1565060,
+      "endMs": 1569300,
+      "en": "We saw some people using four-wheeled strollers, some people using three-wheeled strollers,",
+      "zh": "我们看到有人使用四轮婴儿车，也有人使用三轮婴儿车，"
+    },
+    {
+      "id": 259,
+      "startMs": 1569300,
+      "endMs": 1572820,
+      "en": "some using directionally locked wheels, some that were not locked directionally.",
+      "zh": "有些车轮锁定了方向，有些则没有。"
+    },
+    {
+      "id": 260,
+      "startMs": 1572900,
+      "endMs": 1578100,
+      "en": "And so seeing this benefit over a wide variety of strollers is actually encouraging to us.",
+      "zh": "因此，在各种婴儿车上都看到这种好处，确实让我们很受鼓舞。"
+    },
+    {
+      "id": 261,
+      "startMs": 1578420,
+      "endMs": 1582020,
+      "en": "So would you advise people who are going out for a jog to take a stroller with them?",
+      "zh": "那么，你会建议出门慢跑的人带一辆婴儿车吗？"
+    },
+    {
+      "id": 262,
+      "startMs": 1582420,
+      "endMs": 1588740,
+      "en": "I think it's a great idea, especially if you are spending extra time with your kids or getting to get outside as a family.",
+      "zh": "我觉得这是个好主意，尤其是既能和孩子多相处，又能让全家一起出门。"
+    },
+    {
+      "id": 263,
+      "startMs": 1589300,
+      "endMs": 1594100,
+      "en": "How common is it for people to run in this way with their children in a pushchair?",
+      "zh": "人们推着婴儿车带孩子这样跑步常见吗？"
+    },
+    {
+      "id": 264,
+      "startMs": 1594420,
+      "endMs": 1599060,
+      "en": "I believe it's very common for mothers. I don't know how common it is for the rest of the world.",
+      "zh": "我认为这对母亲来说很常见，但我不知道在世界其他地方有多普遍。"
+    },
+    {
+      "id": 265,
+      "startMs": 1599380,
+      "endMs": 1604500,
+      "en": "This study only covered parents. We got a higher response rate from females, especially in the stroller group,",
+      "zh": "这项研究只涉及父母。女性的回复率更高，尤其是在婴儿车组，"
+    },
+    {
+      "id": 266,
+      "startMs": 1604500,
+      "endMs": 1607220,
+      "en": "so I think it tends to be more female-dominated.",
+      "zh": "所以我认为这项活动往往以女性为主。"
+    },
+    {
+      "id": 267,
+      "startMs": 1607460,
+      "endMs": 1610420,
+      "en": "However, I think everyone can benefit from pushing a stroller.",
+      "zh": "不过，我认为每个人都能从推婴儿车中受益。"
+    },
+    {
+      "id": 268,
+      "startMs": 1610740,
+      "endMs": 1616820,
+      "en": "And are there alternatives for people who don't have a baby or stroller at hand when they want to go for a run?",
+      "zh": "如果想跑步时身边没有婴儿或婴儿车，有没有替代办法？"
+    },
+    {
+      "id": 269,
+      "startMs": 1617140,
+      "endMs": 1622580,
+      "en": "I think running on a treadmill and holding the handlebars on a treadmill may have a similar effect to pushing a stroller.",
+      "zh": "我认为在跑步机上跑步并握住跑步机扶手，可能会产生与推婴儿车类似的效果。"
+    },
+    {
+      "id": 270,
+      "startMs": 1622820,
+      "endMs": 1626680,
+      "en": "Dr Allison Altman Singles from Pennsylvania State University.",
+      "zh": "宾夕法尼亚州立大学的艾莉森·奥尔特曼·辛格尔斯博士。"
+    },
+    {
+      "id": 271,
+      "startMs": 1627560,
+      "endMs": 1635800,
+      "en": "Finally, the coach of Japan's rugby team has revealed an unusual strategy for preparing his players for their game against Australia this weekend,",
+      "zh": "最后，日本橄榄球队教练透露了一种特别的策略，为本周末对阵澳大利亚的比赛准备队员，"
+    },
+    {
+      "id": 272,
+      "startMs": 1636280,
+      "endMs": 1641160,
+      "en": "showing them videos of geese. Our sports correspondent Andy Swiss has the story.",
+      "zh": "那就是给他们播放鹅的视频。我们的体育记者安迪·斯威斯报道。"
+    },
+    {
+      "id": 273,
+      "startMs": 1643940,
+      "endMs": 1649940,
+      "en": "‘The reason we watch videos of geese,’ Eddie Jones said, ‘is that the head of the flock is like the ball carrier.’",
+      "zh": "“我们观看鹅的视频，”埃迪·琼斯说，“是因为鹅群领头的就像持球者。”"
+    },
+    {
+      "id": 274,
+      "startMs": 1650340,
+      "endMs": 1654980,
+      "en": "Jones explained his unusual coaching method was an attempt to improve his players' teamwork.",
+      "zh": "琼斯解释说，他这种特别的训练方法是为了提升队员的团队协作。"
+    },
+    {
+      "id": 275,
+      "startMs": 1655380,
+      "endMs": 1660740,
+      "en": "‘The geese fly thousands of miles in formation,’ he added, ‘and they follow the one goose in front.’",
+      "zh": "“鹅群以编队形式飞行数千英里，”他补充说，“它们跟随最前面的那只鹅。”"
+    },
+    {
+      "id": 276,
+      "startMs": 1661060,
+      "endMs": 1665540,
+      "en": "And it's the responsibility of the support players to respond to what the ball carrier does.",
+      "zh": "而支援队员要根据持球者的动作作出回应。"
+    },
+    {
+      "id": 277,
+      "startMs": 1666020,
+      "endMs": 1675060,
+      "en": "He's not the first coach to have used such bird-based strategies. Sir Alex Ferguson would often tell his players to observe the geese during Manchester United's training sessions.",
+      "zh": "他不是第一个使用这种鸟群策略的教练。亚历克斯·弗格森爵士经常让曼联球员在训练期间观察鹅群。"
+    },
+    {
+      "id": 278,
+      "startMs": 1675460,
+      "endMs": 1680100,
+      "en": "In an interview after his retirement, he said it was a way of motivating his squad.",
+      "zh": "他退休后在一次采访中说，这是激励球队的一种方式。"
+    },
+    {
+      "id": 279,
+      "startMs": 1680100,
+      "endMs": 1685380,
+      "en": "I said to them, ‘These geese fly 4,000 miles to get back to the sun.’",
+      "zh": "我对他们说：“这些鹅要飞行4000英里才能回到阳光下。”"
+    },
+    {
+      "id": 280,
+      "startMs": 1685780,
+      "endMs": 1690260,
+      "en": "All I'm asking you to do is play 38 games to win the league. I don't think I'm asking too much.",
+      "zh": "我只要求你打38场比赛赢得联赛冠军。我不觉得自己的要求过分。"
+    },
+    {
+      "id": 281,
+      "startMs": 1690580,
+      "endMs": 1696580,
+      "en": "Sir Alex Ferguson passed his analogy on to Europe's Ryder Cup golfers before their match in 2014.",
+      "zh": "2014年欧洲莱德杯比赛前，亚历克斯·弗格森爵士把这个比喻传给了欧洲队高尔夫球员。"
+    },
+    {
+      "id": 282,
+      "startMs": 1696580,
+      "endMs": 1703380,
+      "en": "The team's victorious captain, Paul McGinley, said ‘Remember the geese’ became a phrase they used throughout the competition.",
+      "zh": "获胜队队长保罗·麦金利说，“记住鹅群”成了他们在整个比赛期间使用的一句话。"
+    },
+    {
+      "id": 283,
+      "startMs": 1703800,
+      "endMs": 1713480,
+      "en": "Just one small linguistic point for Eddie Jones: he should have, of course, referred to a skein, not a flock, the correct collective noun for geese when they are in flight.",
+      "zh": "给埃迪·琼斯提一个小小的语言建议：鹅飞行时正确的集合名词是“skein”，不是“flock”。"
+    },
+    {
+      "id": 284,
+      "startMs": 1714040,
+      "endMs": 1714840,
+      "en": "Andy Swiss.",
+      "zh": "安迪·斯威斯报道。"
+    },
+    {
+      "id": 285,
+      "startMs": 1718080,
+      "endMs": 1722560,
+      "en": "And that is all from us for now, but the Global News Podcast will be back very soon.",
+      "zh": "我们目前的节目就到这里，但《全球新闻播客》很快会回来。"
+    },
+    {
+      "id": 286,
+      "startMs": 1722560,
+      "endMs": 1727920,
+      "en": "This edition was mixed by Chris Ablacqua and produced by Emma Joseph. Our editor is Karen Martin.",
+      "zh": "本期节目由克里斯·阿布拉夸混音，艾玛·约瑟夫制作。编辑是凯伦·马丁。"
+    },
+    {
+      "id": 287,
+      "startMs": 1728000,
+      "endMs": 1730560,
+      "en": "I'm Oliver Conway. Until next time, goodbye.",
+      "zh": "我是奥利弗·康威。下次再见。"
+    }
+  ]
+}
