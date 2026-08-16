@@ -12,1869 +12,1904 @@
       "startMs": 0,
       "endMs": 3040,
       "en": "This is the Global News Podcast from the BBC World Service.",
-      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+      "zh": "这里是英国广播公司国际台的《全球新闻播客》。"
     },
     {
       "id": 2,
       "startMs": 5120,
-      "endMs": 9920,
-      "en": "Hello, I'm Oliver Conway. This edition is published in the early hours of Saturday, the 15th of August.",
-      "zh": "你好，我是奥利弗·康威。本期节目发布于 8 月 15 日星期六凌晨。"
+      "endMs": 6320,
+      "en": "Hello, I'm Oliver Conway.",
+      "zh": "大家好，我是奥利弗·康韦。"
     },
     {
       "id": 3,
-      "startMs": 10240,
-      "endMs": 15200,
-      "en": "High-profile murder suspect Luigi Mangione admits killing a healthcare boss in New York.",
-      "zh": "备受关注的谋杀案嫌疑人路易吉·曼焦内承认在纽约杀害一名医疗保健公司高管。"
+      "startMs": 6320,
+      "endMs": 9920,
+      "en": "This edition is published in the early hours of Saturday, the 15th of August.",
+      "zh": "本期节目于8月15日星期六凌晨发布。"
     },
     {
       "id": 4,
-      "startMs": 15840,
-      "endMs": 21440,
-      "en": "Jason Arday, the Cambridge professor who resigned over accusations of plagiarism, is found dead.",
-      "zh": "剑桥大学教授杰森·阿代因抄袭指控辞职后，被发现死亡。"
+      "startMs": 10240,
+      "endMs": 15200,
+      "en": "High-profile murder suspect Luigi Mangione admits killing a healthcare boss in New York.",
+      "zh": "备受关注的谋杀案嫌疑人路易吉·曼吉奥内承认在纽约杀害一名医疗保险公司高管。"
     },
     {
       "id": 5,
-      "startMs": 22080,
-      "endMs": 26400,
-      "en": "And President Trump says he will soon declare the Strait of Hormuz a US territory.",
-      "zh": "特朗普总统称，他很快将宣布霍尔木兹海峡为美国领土。"
+      "startMs": 15840,
+      "endMs": 21440,
+      "en": "Jason Arday, the Cambridge professor who resigned over accusations of plagiarism, is found dead.",
+      "zh": "因被指抄袭而辞职的剑桥大学教授杰森·阿戴被发现死亡。"
     },
     {
       "id": 6,
-      "startMs": 28400,
-      "endMs": 29600,
-      "en": "Also in this podcast...",
-      "zh": "本期播客还将报道……"
+      "startMs": 22080,
+      "endMs": 26400,
+      "en": "And President Trump says he will soon declare the Strait of Hormuz a US territory.",
+      "zh": "特朗普总统还说，他很快会宣布霍尔木兹海峡为美国领土。"
     },
     {
       "id": 7,
-      "startMs": 30000,
+      "startMs": 28400,
       "endMs": 37040,
-      "en": "People drive around at 150 km/h, even though the speed limit on most roads is 90,",
-      "zh": "人们以每小时 150 公里的速度驾车，尽管大多数道路限速 90 公里，"
+      "en": "Also in this podcast: People drive around at 150 km/h, even though the speed limit on most roads is 90,",
+      "zh": "本期节目还将报道：人们开车时速达到150公里，尽管大多数道路限速90公里，"
     },
     {
       "id": 8,
       "startMs": 37360,
       "endMs": 41920,
       "en": "because it's believed that driving that fast can reduce the probability of a drone hitting your car.",
-      "zh": "因为据说开这么快可以降低无人机撞上汽车的概率。"
+      "zh": "因为据说开得这么快能降低汽车被无人机击中的概率。"
     },
     {
       "id": 9,
       "startMs": 42320,
       "endMs": 46240,
       "en": "How the war against Ukraine is affecting daily life in Russia.",
-      "zh": "俄乌战争如何影响俄罗斯人的日常生活。"
+      "zh": "对乌克兰的战争如何影响俄罗斯人的日常生活。"
     },
     {
       "id": 10,
       "startMs": 46720,
       "endMs": 49680,
       "en": "And Jeff Bezos buys a stake in English football.",
-      "zh": "杰夫·贝索斯买下英格兰足球的一份股份。"
+      "zh": "以及杰夫·贝索斯入股英格兰足球。"
     },
     {
       "id": 11,
       "startMs": 53880,
-      "endMs": 56600,
-      "en": "But first, to a case that has gripped America.",
-      "zh": "首先来看一起牵动全美国的案件。"
+      "endMs": 62920,
+      "en": "But first, to a case that has gripped America: Health insurance boss Brian Thompson was shot dead outside a hotel in Manhattan in December 2024.",
+      "zh": "但首先来看一起牵动全美的案件：2024年12月，医疗保险公司高管布赖恩·汤普森在曼哈顿一家酒店外遭枪击身亡。"
     },
     {
       "id": 12,
-      "startMs": 56840,
-      "endMs": 62920,
-      "en": "Health insurance boss Brian Thompson was shot dead outside a hotel in Manhattan in December 2024.",
-      "zh": "医疗保险公司高管布莱恩·汤普森于 2024 年 12 月在曼哈顿一家酒店外遭枪杀。"
-    },
-    {
-      "id": 13,
       "startMs": 63880,
       "endMs": 69880,
       "en": "Now, the high-profile suspect, Luigi Mangione, has confessed to the killing in a New York court.",
-      "zh": "如今，这名备受关注的嫌疑人路易吉·曼焦内已在纽约法庭承认杀人。"
+      "zh": "如今，备受关注的嫌疑人路易吉·曼吉奥内已在纽约一家法院承认杀人。"
+    },
+    {
+      "id": 13,
+      "startMs": 70360,
+      "endMs": 77000,
+      "en": "The case has divided opinion in the US, highlighting the anger some Americans feel about the trillion-dollar healthcare industry.",
+      "zh": "此案令美国舆论分化，也凸显出部分美国人对规模达万亿美元的医疗产业所怀有的愤怒。"
     },
     {
       "id": 14,
-      "startMs": 70360,
+      "startMs": 77480,
       "endMs": 80520,
-      "en": "The case has divided opinion in the US, highlighting the anger some Americans feel about the trillion-dollar healthcare industry. Some called Mangione a hero who took a stand.",
-      "zh": "这起案件在美国引发意见分歧，凸显出一些美国人对万亿美元医疗保健行业的愤怒。有人称曼焦内是挺身而出的英雄。"
+      "en": "Some called Mangione a hero who took a stand.",
+      "zh": "有人称曼吉奥内是挺身而出的英雄。"
     },
     {
       "id": 15,
       "startMs": 81080,
       "endMs": 86040,
       "en": "This was how his lawyer, Karen Friedman Agnifilo, defended his actions outside the court.",
-      "zh": "这是他的律师凯伦·弗里德曼·阿格尼菲洛在法庭外为其行为所作的辩护。"
+      "zh": "他的律师凯伦·弗里德曼·阿尼菲洛在法院外这样为他的行为辩护。"
     },
     {
       "id": 16,
       "startMs": 86520,
       "endMs": 99240,
       "en": "As Luigi explained in court today, he endured years of severe, debilitating pain following a broken back, while struggling to navigate our healthcare and health insurance systems.",
-      "zh": "正如路易吉今天在法庭上所解释的那样，他背部骨折后承受了多年的剧烈、令人衰弱的疼痛，同时还艰难应对医疗保健和医疗保险体系。"
+      "zh": "正如路易吉今天在法庭上所解释的那样，他背部骨折后多年忍受着严重、使人失去生活能力的疼痛，同时艰难应对我们的医疗和健康保险体系。"
     },
     {
       "id": 17,
       "startMs": 99960,
       "endMs": 108200,
-      "en": "Like the thousands of people who have reached out since this tragedy to share their own experiences, he believed that the system had failed him and destroyed his life.",
-      "zh": "和这场悲剧发生后联系他、分享自身经历的数千人一样，他认为这个体系辜负了他，毁掉了他的人生。"
+      "en": "Like the thousands of people who've reached out since this tragedy to share their own experiences, he believed that the system had failed him and destroyed his life.",
+      "zh": "自这场悲剧发生以来，已有数千人联系我们分享各自的经历；和他们一样，他认为这个体系辜负了他，毁掉了他的人生。"
     },
     {
       "id": 18,
       "startMs": 108680,
       "endMs": 112840,
       "en": "For others, though, he is a criminal who stalked and murdered an innocent man.",
-      "zh": "不过对另一些人来说，他是跟踪并谋杀无辜者的罪犯。"
+      "zh": "但在另一些人看来，他是一个跟踪并杀害无辜者的罪犯。"
     },
     {
       "id": 19,
       "startMs": 113000,
       "endMs": 115820,
       "en": "This was New York Police Commissioner Jessica Tisch.",
-      "zh": "纽约市警察局局长杰西卡·蒂什这样说。"
+      "zh": "这是纽约市警察局局长杰西卡·蒂施。"
     },
     {
       "id": 20,
       "startMs": 116300,
       "endMs": 127820,
       "en": "To those who idolize Luigi Mangione, I say this: Violence is not a cause, murder is not a message, and a killer is certainly not a hero.",
-      "zh": "对那些崇拜路易吉·曼焦内的人，我要说：暴力不是事业，谋杀不是讯息，杀人犯当然也不是英雄。"
+      "zh": "我要对那些把路易吉·曼吉奥内奉为偶像的人说：暴力不是事业，谋杀不是宣言，杀人者更绝不是英雄。"
     },
     {
       "id": 21,
       "startMs": 128460,
       "endMs": 133580,
       "en": "Our correspondent Nada Tawfik was in court in New York. She spoke to my colleague Charlotte Gallagher.",
-      "zh": "我们的记者娜达·陶菲克当时在纽约法庭。她采访了我的同事夏洛特·加拉格尔。"
+      "zh": "本台记者娜达·陶菲克当时在纽约法庭内。她接受了我的同事夏洛特·加拉格尔的采访。"
     },
     {
       "id": 22,
       "startMs": 134220,
       "endMs": 143100,
-      "en": "I was a few rows back from where Luigi Mangione was seated with a direct view of him as he entered that plea of guilty.",
-      "zh": "我坐在路易吉·曼焦内座位后几排，可以直接看到他作出有罪答辩。"
+      "en": "I was a few rows back from where Luigi Mangione was seated, with a direct view of him as he entered that plea of guilty.",
+      "zh": "我坐在路易吉·曼吉奥内座位后几排的位置，可以直接看到他作出有罪答辩时的情形。"
     },
     {
       "id": 23,
       "startMs": 143180,
       "endMs": 149740,
       "en": "And the judge, after asking him a series of questions about whether he understood that he was waiving his right to a trial,",
-      "zh": "法官先问了他一系列问题，包括他是否明白自己放弃了接受审判的权利，"
+      "zh": "法官先向他提出一连串问题，询问他是否明白自己正在放弃受审权，"
     },
     {
       "id": 24,
       "startMs": 150060,
       "endMs": 157180,
       "en": "asking if he was competent to make this decision, and whether he understood that he could be facing life in prison,",
-      "zh": "还问他是否具备作出这一决定的能力，以及是否明白自己可能面临终身监禁，"
+      "zh": "又询问他是否具备作出这一决定的能力，以及是否明白自己可能面临终身监禁，"
     },
     {
       "id": 25,
       "startMs": 157580,
       "endMs": 166940,
       "en": "after he answered all those questions very calmly, she then asked him to describe in his own words why he was guilty.",
-      "zh": "在他非常平静地回答完所有问题后，法官让他用自己的话说明为何认罪。"
+      "zh": "他非常平静地回答完所有问题后，法官让他用自己的话说明为何自己有罪。"
     },
     {
       "id": 26,
       "startMs": 167260,
       "endMs": 175760,
       "en": "And that was some of the most dramatic moments of this hearing, because he began speaking, still seated in a tan prison uniform,",
-      "zh": "这成为听证会中最戏剧性的时刻之一：他仍穿着棕褐色囚服坐在那里，开始发言，"
+      "zh": "这成为庭审中最具戏剧性的时刻之一，因为他仍穿着棕褐色囚服坐在那里，开始陈述，"
     },
     {
       "id": 27,
       "startMs": 176000,
       "endMs": 185760,
-      "en": "saying that he had killed Brian Thompson in Manhattan, and that he had planned to do it, and he said, \"I knew what I was doing.\"",
-      "zh": "他说自己在曼哈顿杀死了布莱恩·汤普森，而且是有计划这么做的；他说：“我知道自己在做什么。”"
+      "en": "saying that he had killed Brian Thompson in Manhattan and that he had planned to do it. And he said, \"I knew what I was doing.\"",
+      "zh": "他说，自己在曼哈顿杀害了布赖恩·汤普森，而且是有预谋的。他还说：“我知道自己在做什么。”"
     },
     {
       "id": 28,
       "startMs": 186080,
       "endMs": 196240,
-      "en": "He described how, you know, after enduring years of back pain and navigating, trying to navigate the insurance industry without any luck,",
-      "zh": "他描述了自己如何——你知道——在承受多年背痛、试图应对保险行业却毫无结果后，"
+      "en": "He described how, you know, after enduring years of back pain and navigating—trying to navigate—the insurance industry without any luck,",
+      "zh": "他讲述了自己多年来忍受背痛，以及应付——试图应付——保险行业却处处碰壁的经历，"
     },
     {
       "id": 29,
       "startMs": 196640,
-      "endMs": 206240,
-      "en": "that he began researching and planning to go to this UnitedHealthcare annual investor conference, that he used a 3D printer to make a gun,",
-      "zh": "他开始研究并计划前往联合健康集团的年度投资者会议，还用 3D 打印机制造了一把枪，"
+      "endMs": 203440,
+      "en": "that he began researching and planning to go to this UnitedHealthcare annual investor conference,",
+      "zh": "之后他开始调查，并计划前往联合健康集团的这场年度投资者大会，"
     },
     {
       "id": 30,
-      "startMs": 206560,
-      "endMs": 211920,
-      "en": "and that he had the full intent to go there and to kill Mr Thompson, a father of two.",
-      "zh": "并且他完全打定主意要去那里杀死汤普森先生——一位两个孩子的父亲。"
+      "startMs": 203680,
+      "endMs": 206240,
+      "en": "that he used a 3D printer to make a gun,",
+      "zh": "他使用3D打印机制作了一把枪，"
     },
     {
       "id": 31,
-      "startMs": 212320,
-      "endMs": 224400,
-      "en": "So to hear Luigi Mangione set it out in that way in court with Mr Thompson's family right there, emotional and listening to this, was quite a moment in court.",
-      "zh": "所以，听着路易吉·曼焦内在法庭上这样陈述，而汤普森的家人就在现场，情绪激动地听着这一切，确实是法庭上的一个重要时刻。"
+      "startMs": 206560,
+      "endMs": 211920,
+      "en": "and that he had the full intent to go there and to kill Mr Thompson, a father of two.",
+      "zh": "而且他去那里的明确意图就是杀害身为两个孩子父亲的汤普森先生。"
     },
     {
       "id": 32,
-      "startMs": 224400,
-      "endMs": 233600,
-      "en": "You know, the judge then made sure he understood that she would decide on December 18th during sentencing how long he would spend in prison.",
-      "zh": "你知道，法官随后确认他明白，自己将在 12 月 18 日的量刑阶段决定要服刑多久。"
+      "startMs": 212320,
+      "endMs": 224400,
+      "en": "So to hear Luigi Mangione set it out in that way in court, with Mr Thompson's family right there, emotional and listening to this, was quite a moment in court.",
+      "zh": "汤普森先生的家人就在现场，情绪激动地听着这一切；听到路易吉·曼吉奥内在法庭上这样陈述，确实是庭上令人震动的一刻。"
     },
     {
       "id": 33,
-      "startMs": 234340,
-      "endMs": 241860,
-      "en": "We already know from prosecutors that they plan to seek life in prison. The defense are hoping that he gets less than that.",
-      "zh": "我们已经从检方得知，他们计划寻求判处终身监禁。辩方希望刑期低于这个期限。"
+      "startMs": 224400,
+      "endMs": 233600,
+      "en": "You know, the judge then made sure he understood that she would decide on December 18th, during sentencing, how long he would spend in prison.",
+      "zh": "法官随后确认他明白，她将在12月18日量刑时决定他的服刑年限。"
     },
     {
       "id": 34,
-      "startMs": 242260,
-      "endMs": 248420,
-      "en": "But this was really, of course, a dramatic moment in this legal process",
-      "zh": "不过，当然，这确实是这一法律程序中的戏剧性时刻，"
+      "startMs": 234340,
+      "endMs": 238340,
+      "en": "We already know from prosecutors that they plan to seek life in prison.",
+      "zh": "我们已经从检方得知，他们计划寻求判处终身监禁。"
     },
     {
       "id": 35,
-      "startMs": 248420,
-      "endMs": 256580,
-      "en": "because it's not just this federal case, this now impacts the state trial that was due to begin in just a few weeks on the 8th of September.",
-      "zh": "因为这不只是联邦案件，如今还会影响原定几周后、9 月 8 日开始的州级审判。"
+      "startMs": 238660,
+      "endMs": 241860,
+      "en": "The defense are hoping that he gets less than that.",
+      "zh": "辩方则希望他的刑期低于终身监禁。"
     },
     {
       "id": 36,
-      "startMs": 256220,
-      "endMs": 267260,
-      "en": "The reaction to this case has been really polarizing, with some believing Mangione is a folk hero, almost. Does it underline how unhappy people are in the US with corporations?",
-      "zh": "人们对此案的反应确实两极分化，有些人甚至认为曼焦内近乎民间英雄。这是否凸显了美国民众对企业有多么不满？"
+      "startMs": 242260,
+      "endMs": 250180,
+      "en": "But this was really, of course, a dramatic moment in this legal process, because it's not just this federal case;",
+      "zh": "但这无疑是这一法律程序中极具戏剧性的时刻，因为受到影响的不只是这起联邦案件；"
     },
     {
       "id": 37,
-      "startMs": 269180,
-      "endMs": 278540,
-      "en": "Look, I think any American you speak to can share their own stories of frustrations with the healthcare industry.",
-      "zh": "我想，你和任何一位美国人交谈，他们都能讲述自己对医疗保健行业感到挫折的经历。"
+      "startMs": 250180,
+      "endMs": 256220,
+      "en": "this now impacts the state trial that was due to begin in just a few weeks, on September 8th.",
+      "zh": "这也会影响原定仅数周后、即9月8日开始的州级审判。"
     },
     {
       "id": 38,
-      "startMs": 278620,
-      "endMs": 288860,
-      "en": "It is a very difficult system to navigate, very expensive, so nobody denies that it is a system that needs reform.",
-      "zh": "这是一个非常难以应对、成本也非常高的体系，所以没人否认它需要改革。"
+      "startMs": 256220,
+      "endMs": 262380,
+      "en": "The reaction to this case has been really polarizing, with some believing Mangione is a folk hero, almost.",
+      "zh": "人们对此案的反应高度两极化，有些人几乎把曼吉奥内视为民间英雄。"
     },
     {
       "id": 39,
-      "startMs": 289180,
-      "endMs": 295580,
-      "en": "And I think this does underline just how much people's sense of inequality. You know,",
-      "zh": "我认为，这确实凸显了人们对不平等的感受有多么强烈。你知道，"
+      "startMs": 262700,
+      "endMs": 267260,
+      "en": "Does it underline how unhappy people are in the US with corporations?",
+      "zh": "这是否凸显了美国民众对企业的不满程度？"
     },
     {
       "id": 40,
-      "startMs": 295660,
-      "endMs": 302860,
-      "en": "people talk about often how they feel corporate interests are trumping those of ordinary people in today's society.",
-      "zh": "人们经常谈到，他们觉得在当今社会，企业利益压过了普通人的利益。"
+      "startMs": 269180,
+      "endMs": 278540,
+      "en": "Look, I think any American you speak to can share their own stories of frustrations with the healthcare industry.",
+      "zh": "你问任何一个美国人，我想他们都能讲出自己对医疗行业感到受挫的亲身经历。"
     },
     {
       "id": 41,
-      "startMs": 303260,
-      "endMs": 311900,
-      "en": "I think all of this is certainly something that plays into why there's this surprising level of public support for Luigi Mangione.",
-      "zh": "我认为，所有这些因素当然都解释了为什么公众会出人意料地支持路易吉·曼焦内。"
+      "startMs": 278620,
+      "endMs": 283660,
+      "en": "It is a very difficult system to navigate, very expensive.",
+      "zh": "这个体系很难应付，而且费用高昂。"
     },
     {
       "id": 42,
-      "startMs": 312220,
-      "endMs": 321020,
-      "en": "And what we've seen, and we heard there with the clips you played, is this attempt by public officials to reiterate that that does not justify murder.",
-      "zh": "从你播放的片段中我们看到、听到的是，官员们试图重申：这些情况并不能为谋杀辩护。"
+      "startMs": 283980,
+      "endMs": 288860,
+      "en": "So nobody denies that it is a system that needs reform.",
+      "zh": "所以没有人否认这个体系需要改革。"
     },
     {
       "id": 43,
-      "startMs": 321420,
-      "endMs": 328380,
-      "en": "That at the end of the day Luigi Mangione, and he has pleaded guilty to that today, has taken the life of a father of two,",
-      "zh": "归根结底，路易吉·曼焦内——他今天已对此认罪——夺走了一位两个孩子的父亲的生命，"
+      "startMs": 289180,
+      "endMs": 294460,
+      "en": "And I think this does underline just how much people's sense of inequality...",
+      "zh": "我认为，这确实凸显了人们多么强烈的不平等感……"
     },
     {
       "id": 44,
-      "startMs": 328380,
-      "endMs": 339520,
-      "en": "a CEO, in a brazen killing in New York, and that that shouldn't, he should not be justified as, you know, a modern-day vigilante taking justice into his own hands.",
-      "zh": "一位首席执行官，在纽约一场肆无忌惮的杀人案中丧生；而且，这不该——他不应该被正当化为一个把正义掌握在自己手中的现代义警，你知道。"
+      "startMs": 294780,
+      "endMs": 302860,
+      "en": "You know, people often talk about how they feel corporate interests are trumping those of ordinary people in today's society.",
+      "zh": "人们经常谈到，他们觉得在当今社会，企业利益正压过普通人的利益。"
     },
     {
       "id": 45,
-      "startMs": 339920,
+      "startMs": 303260,
+      "endMs": 311900,
+      "en": "I think all of this is certainly something that plays into why there's this surprising level of public support for Luigi Mangione.",
+      "zh": "我认为，这一切无疑都有助于解释，为何路易吉·曼吉奥内会获得如此出人意料的公众支持。"
+    },
+    {
+      "id": 46,
+      "startMs": 312220,
+      "endMs": 321020,
+      "en": "And what we've seen, and we heard there with the clips you played, is this attempt by public officials to reiterate that that does not justify murder.",
+      "zh": "我们所看到的，以及刚才你播放的片段所反映的，是公职人员试图重申：这些不满并不能成为谋杀的正当理由。"
+    },
+    {
+      "id": 47,
+      "startMs": 321420,
+      "endMs": 328720,
+      "en": "That, at the end of the day, Luigi Mangione—and he has pleaded guilty to that today—has taken the life of a father of two, a CEO,",
+      "zh": "归根结底，路易吉·曼吉奥内——他今天已经就此认罪——夺走了一名公司首席执行官、两个孩子父亲的生命，"
+    },
+    {
+      "id": 48,
+      "startMs": 328720,
+      "endMs": 339520,
+      "en": "in a brazen killing in New York, and that that shouldn't—he should not be justified as, you know, a modern-day vigilante taking justice into his own hands.",
+      "zh": "这是发生在纽约的一起公然杀人案；不应把他正当化为一个自行执法的现代义警。"
+    },
+    {
+      "id": 49,
+      "startMs": 340000,
       "endMs": 341760,
       "en": "Nada Tawfik in New York.",
       "zh": "娜达·陶菲克在纽约报道。"
     },
     {
-      "id": 46,
-      "startMs": 342720,
-      "endMs": 347280,
-      "en": "He was at the heart of a culture war in Britain. Now he is dead.",
-      "zh": "他曾处于英国一场文化战争的核心。如今他去世了。"
-    },
-    {
-      "id": 47,
-      "startMs": 347760,
-      "endMs": 356640,
-      "en": "The appointment of Jason Arday as the youngest ever Black professor at Cambridge University in 2023 was celebrated at the time as a progressive moment.",
-      "zh": "2023 年，杰森·阿代获任剑桥大学有史以来最年轻的黑人教授，当时被誉为进步的时刻。"
-    },
-    {
-      "id": 48,
-      "startMs": 357200,
-      "endMs": 359360,
-      "en": "I was diagnosed with autism at the age of three.",
-      "zh": "我三岁时被诊断出患有自闭症。"
-    },
-    {
-      "id": 49,
-      "startMs": 359520,
-      "endMs": 362320,
-      "en": "I learned to speak just before the age of 12, so I was 11.",
-      "zh": "我在快满 12 岁时学会说话，所以当时是 11 岁。"
-    },
-    {
       "id": 50,
-      "startMs": 362320,
-      "endMs": 364720,
-      "en": "I learned to read and write when I was 18 years of age.",
-      "zh": "我 18 岁时学会了阅读和写作。"
+      "startMs": 342720,
+      "endMs": 345920,
+      "en": "He was at the heart of a culture war in Britain.",
+      "zh": "他曾处于英国一场文化之争的中心。"
     },
     {
       "id": 51,
-      "startMs": 364800,
-      "endMs": 366960,
-      "en": "Those milestones became quite significant.",
-      "zh": "这些人生里程碑意义重大。"
+      "startMs": 345920,
+      "endMs": 347280,
+      "en": "Now he is dead.",
+      "zh": "如今，他已经去世。"
     },
     {
       "id": 52,
-      "startMs": 367200,
-      "endMs": 374800,
-      "en": "12 years after learning to read and write, I gained a PhD and then I ended up becoming one of the youngest professorial chairs in Cambridge's history.",
-      "zh": "学会读写 12 年后，我获得了博士学位，最终成为剑桥大学历史上最年轻的教授职位担任者之一。"
+      "startMs": 347760,
+      "endMs": 356640,
+      "en": "The appointment of Jason Arday as the youngest ever Black professor at Cambridge University in 2023 was celebrated at the time as a progressive moment.",
+      "zh": "2023年，杰森·阿戴获任剑桥大学史上最年轻的黑人教授，当时被誉为一个具有进步意义的时刻。"
     },
     {
       "id": 53,
-      "startMs": 375200,
-      "endMs": 380400,
-      "en": "Jason Arday talking to the BBC three years ago after joining Cambridge at the age of 37.",
-      "zh": "这是杰森·阿代三年前接受 BBC 采访时的讲话，当时他 37 岁加入剑桥大学。"
+      "startMs": 357200,
+      "endMs": 359360,
+      "en": "I was diagnosed with autism at the age of three.",
+      "zh": "我三岁时被诊断患有自闭症。"
     },
     {
       "id": 54,
-      "startMs": 380640,
-      "endMs": 390000,
-      "en": "But it all came crashing down last week when he resigned following allegations of plagiarism and doubts over some of the claims he'd made about his life.",
-      "zh": "但上周一切轰然崩塌：他在遭到抄袭指控、且本人对生活经历的一些说法受到质疑后辞职。"
+      "startMs": 359520,
+      "endMs": 362320,
+      "en": "I learned to speak just before the age of 12, so I was 11.",
+      "zh": "我快满12岁时才学会说话，也就是当时11岁。"
     },
     {
       "id": 55,
-      "startMs": 390320,
-      "endMs": 396880,
-      "en": "He denied plagiarism, but admitted errors in his work, and stepped down after the university announced an investigation.",
-      "zh": "他否认抄袭，但承认作品中存在错误，并在大学宣布展开调查后辞职。"
+      "startMs": 362320,
+      "endMs": 364720,
+      "en": "I learned to read and write when I was 18 years of age.",
+      "zh": "我18岁时才学会读写。"
     },
     {
       "id": 56,
-      "startMs": 397360,
-      "endMs": 405940,
-      "en": "On Friday, Jason Arday was found dead at a home in London. Police said his death was unexpected, but is not believed to be suspicious.",
-      "zh": "星期五，杰森·阿代被发现死于伦敦一处住宅。警方称他的死亡出乎意料，但不认为有可疑之处。"
+      "startMs": 364800,
+      "endMs": 366960,
+      "en": "Those milestones became quite significant.",
+      "zh": "这些人生节点变得相当重要。"
     },
     {
       "id": 57,
-      "startMs": 406340,
-      "endMs": 411140,
-      "en": "Professor Simon Baron-Cohen from Cambridge was in contact with him in the hours before he died.",
-      "zh": "剑桥大学的西蒙·巴伦-科恩教授在他去世前几小时还与他联系。"
+      "startMs": 367200,
+      "endMs": 374800,
+      "en": "Twelve years after learning to read and write, I gained a PhD, and then I ended up becoming one of the youngest professorial chairs in Cambridge's history.",
+      "zh": "学会读写12年后，我取得了博士学位，后来成为剑桥大学历史上最年轻的教授之一。"
     },
     {
       "id": 58,
-      "startMs": 411940,
-      "endMs": 422980,
-      "en": "He was being subjected by both social media and traditional media over the last few weeks since the plagiarism allegations",
-      "zh": "过去几周，自抄袭指控出现以来，他一直受到社交媒体和传统媒体的对待，"
+      "startMs": 375200,
+      "endMs": 380400,
+      "en": "Jason Arday, talking to the BBC three years ago after joining Cambridge at the age of 37.",
+      "zh": "这是杰森·阿戴三年前、37岁加入剑桥大学后接受BBC采访时所说的话。"
     },
     {
       "id": 59,
-      "startMs": 422980,
-      "endMs": 426580,
-      "en": "came to sort of national news and then international news,",
-      "zh": "这些指控逐渐成为国内、继而国际新闻，"
+      "startMs": 380640,
+      "endMs": 390000,
+      "en": "But it all came crashing down last week when he resigned following allegations of plagiarism and doubts over some of the claims he'd made about his life.",
+      "zh": "但上周，在受到抄袭指控、个人经历中的一些说法也遭到质疑后，他辞职了，一切骤然崩塌。"
     },
     {
       "id": 60,
-      "startMs": 426900,
-      "endMs": 433220,
-      "en": "He was being subjected on an hourly basis to ridicule, humiliation.",
-      "zh": "他每时每刻都在遭受嘲笑和羞辱。"
+      "startMs": 390320,
+      "endMs": 396880,
+      "en": "He denied plagiarism, but admitted errors in his work, and stepped down after the university announced an investigation.",
+      "zh": "他否认抄袭，但承认作品中存在错误，并在校方宣布展开调查后辞职。"
     },
     {
       "id": 61,
-      "startMs": 433700,
-      "endMs": 439300,
-      "en": "He told me this morning that he couldn't leave his home because his face was now so well known,",
-      "zh": "他今天早上告诉我，他无法离开家，因为他的脸已经广为人知，"
+      "startMs": 397360,
+      "endMs": 401280,
+      "en": "On Friday, Jason Arday was found dead at a home in London.",
+      "zh": "星期五，杰森·阿戴被发现死于伦敦一处住宅。"
     },
     {
       "id": 62,
-      "startMs": 439300,
-      "endMs": 444260,
-      "en": "his name was so well known that he was a figure of shame.",
-      "zh": "他的名字也如此出名，以至于成了一个蒙羞的人。"
+      "startMs": 401840,
+      "endMs": 405940,
+      "en": "Police said his death was unexpected, but is not believed to be suspicious.",
+      "zh": "警方称，他的死亡来得突然，但据信并无可疑之处。"
     },
     {
       "id": 63,
-      "startMs": 444340,
-      "endMs": 449380,
-      "en": "Jason Arday's family have condemned what they called a campaign of harassment against him,",
-      "zh": "杰森·阿代的家人谴责他们所称的针对他的骚扰行动，"
+      "startMs": 406340,
+      "endMs": 411140,
+      "en": "Professor Simon Baron-Cohen from Cambridge was in contact with him in the hours before he died.",
+      "zh": "剑桥大学的西蒙·巴伦-科恩教授在他去世前数小时曾与他保持联系。"
     },
     {
       "id": 64,
-      "startMs": 449860,
-      "endMs": 456900,
-      "en": "saying he'd been subjected to sustained abuse by people who would leave no stone unturned in their quest to undermine him.",
-      "zh": "并说他一直遭受持续的辱骂，有些人为了诋毁他不惜翻遍每一块石头。"
+      "startMs": 411940,
+      "endMs": 420180,
+      "en": "He was being subjected by both social media and traditional media over the last few weeks,",
+      "zh": "过去几周，他一直承受着社交媒体和传统媒体的压力，"
     },
     {
       "id": 65,
-      "startMs": 457380,
-      "endMs": 463800,
-      "en": "Our correspondent Helena Wilkinson told us more about Jason Arday and the scrutiny he'd faced in recent weeks.",
-      "zh": "我们的记者海伦娜·威尔金森进一步介绍了杰森·阿代，以及他近几周所面临的审视。"
+      "startMs": 420180,
+      "endMs": 426580,
+      "en": "since the plagiarism allegations came to sort of national news and then international news.",
+      "zh": "因为抄袭指控先后成为全国乃至国际新闻。"
     },
     {
       "id": 66,
-      "startMs": 464520,
-      "endMs": 473720,
-      "en": "He appeared regularly in the media speaking about a number of subjects from his personal journey into academia and to societal debates.",
-      "zh": "他经常出现在媒体上，谈论从个人学术之路到社会议题等许多话题。"
+      "startMs": 426900,
+      "endMs": 433220,
+      "en": "He was being subjected on an hourly basis to ridicule, humiliation.",
+      "zh": "他几乎每小时都在遭受嘲弄和羞辱。"
     },
     {
       "id": 67,
-      "startMs": 473800,
-      "endMs": 479080,
-      "en": "There were recent allegations of plagiarism and questions about some of his achievements.",
-      "zh": "近期有人指控他抄袭，并质疑他取得的一些成就。"
+      "startMs": 433700,
+      "endMs": 444260,
+      "en": "He told me this morning that he couldn't leave his home because his face was now so well-known, his name was so well-known, that he was a figure of shame.",
+      "zh": "他今天早上告诉我，他无法离开家，因为他的脸和名字如今都太为人熟知，他已经成了一个蒙羞的公众人物。"
     },
     {
       "id": 68,
-      "startMs": 479080,
-      "endMs": 483160,
-      "en": "He denied those claims. He did admit errors in his work,",
-      "zh": "他否认这些说法，但确实承认作品中存在错误，"
+      "startMs": 444340,
+      "endMs": 449380,
+      "en": "Jason Arday's family have condemned what they called a campaign of harassment against him.",
+      "zh": "杰森·阿戴的家人谴责了他们所称的针对他的骚扰行动。"
     },
     {
       "id": 69,
-      "startMs": 483160,
-      "endMs": 491960,
-      "en": "but he said he had faced an unrelenting level of public scrutiny and personal attack, and he also said he was not a liar.",
-      "zh": "但他说自己一直承受无休止的公众审视和人身攻击，他还说自己不是骗子。"
+      "startMs": 449860,
+      "endMs": 456900,
+      "en": "They said he'd been subjected to sustained abuse by people who would leave no stone unturned in their quest to undermine him.",
+      "zh": "家人表示，有些人为了诋毁他不遗余力，使他长期遭受辱骂。"
     },
     {
       "id": 70,
-      "startMs": 492360,
-      "endMs": 498920,
-      "en": "When he resigned from his post, he talked about that intense public scrutiny that was on him.",
-      "zh": "他辞去职务时，谈到了自己所承受的强烈公众审视。"
+      "startMs": 457380,
+      "endMs": 463800,
+      "en": "Our correspondent Helena Wilkinson told us more about Jason Arday and the scrutiny he'd faced in recent weeks.",
+      "zh": "本台记者海伦娜·威尔金森进一步介绍了杰森·阿戴及其近几周面临的审视。"
     },
     {
       "id": 71,
-      "startMs": 499240,
-      "endMs": 508280,
-      "en": "And he said the relentless accusations—in a statement, speculation and public commentary—have taken a profound toll on me, he said,",
-      "zh": "他说，这些无休止的指责——声明中的猜测和公众评论——给我造成了深重的伤害，他说，"
+      "startMs": 464520,
+      "endMs": 473720,
+      "en": "He appeared regularly in the media, speaking about a number of subjects, from his personal journey into academia to societal debates.",
+      "zh": "他经常出现在媒体上，谈论从个人学术生涯到社会议题等多个主题。"
     },
     {
       "id": 72,
-      "startMs": 508280,
-      "endMs": 515160,
-      "en": "and on those I love, and that is why he said he felt like he had to step back.",
-      "zh": "也给我所爱的人造成了伤害，这就是他所说的自己觉得必须退一步的原因。"
+      "startMs": 473800,
+      "endMs": 479080,
+      "en": "There were recent allegations of plagiarism and questions about some of his achievements.",
+      "zh": "近期有人指控他抄袭，并对他的部分成就提出质疑。"
     },
     {
       "id": 73,
-      "startMs": 515160,
-      "endMs": 521480,
-      "en": "He stressed that his resignation should not be mistaken for an acceptance of the narratives that have surrounded me.",
-      "zh": "他强调，不应把他的辞职误解为接受那些围绕着我的说法。"
+      "startMs": 479080,
+      "endMs": 480760,
+      "en": "He denied those claims.",
+      "zh": "他否认了这些说法。"
     },
     {
       "id": 74,
-      "startMs": 521720,
-      "endMs": 524060,
-      "en": "That is what he said in a statement.",
-      "zh": "这是他在一份声明中说的。"
+      "startMs": 481160,
+      "endMs": 489240,
+      "en": "He did admit errors in his work, but he said he had faced an unrelenting level of public scrutiny and personal attack.",
+      "zh": "他确实承认作品中存在错误，但表示自己遭受了无休止的公众审视和人身攻击。"
     },
     {
       "id": 75,
-      "startMs": 524380,
-      "endMs": 533100,
-      "en": "Some critics have said the treatment of him had been motivated by racism, but others said the claims of plagiarism were legitimate.",
-      "zh": "一些批评者称，他所受到的对待是出于种族主义动机；但另一些人说，抄袭指控确有根据。"
+      "startMs": 489240,
+      "endMs": 491960,
+      "en": "And he also said he was not a liar.",
+      "zh": "他还表示，自己不是骗子。"
     },
     {
       "id": 76,
-      "startMs": 533420,
-      "endMs": 539340,
-      "en": "There will be a number of questions following the news that Jason Arday was found dead.",
-      "zh": "杰森·阿代被发现死亡的消息，将引发许多疑问。"
+      "startMs": 492360,
+      "endMs": 498920,
+      "en": "When he resigned from his post, he talked about that intense public scrutiny that was on him.",
+      "zh": "辞去职务时，他谈到了自己承受的强烈公众审视。"
     },
     {
       "id": 77,
-      "startMs": 539340,
-      "endMs": 545420,
-      "en": "Let me just bring you the statement from the Metropolitan Police, who said that they had been called",
-      "zh": "我先来转述伦敦警察厅的声明。警方说，他们接到报警，"
+      "startMs": 499240,
+      "endMs": 510840,
+      "en": "And he said in a statement: ‘The relentless accusations, speculation and public commentary have taken a profound toll on me and on those I love.’",
+      "zh": "他在一份声明中说：“接连不断的指控、猜测和公众评论，给我和我所爱的人造成了深重影响。”"
     },
     {
       "id": 78,
-      "startMs": 545900,
-      "endMs": 554940,
-      "en": "to an address in South London. Emergency services found a man to be unresponsive, a 41-year-old man.",
-      "zh": "赶往伦敦南部的一处地址。急救人员发现一名男子失去反应，死者为一名 41 岁男子。"
+      "startMs": 510840,
+      "endMs": 515160,
+      "en": "And that is why, he said, he felt like he had to step back.",
+      "zh": "他说，正因如此，他觉得自己不得不退下来。"
     },
     {
       "id": 79,
-      "startMs": 555180,
-      "endMs": 561100,
-      "en": "At this time, they say his death is being treated as unexpected, but is not believed to be suspicious.",
-      "zh": "警方称，目前他的死亡被视为意外，但不认为有可疑之处。"
+      "startMs": 515160,
+      "endMs": 521480,
+      "en": "He stressed that his resignation should not be mistaken for an acceptance of ‘the narratives that have surrounded me’.",
+      "zh": "他强调，不应把他的辞职误解为他接受了“围绕我的那些说法”。"
     },
     {
       "id": 80,
-      "startMs": 561500,
-      "endMs": 569820,
-      "en": "But yes, there will be a huge number of questions now. There is that independent investigation that Cambridge University are carrying out, and",
-      "zh": "不过，确实会有大量问题随之而来。剑桥大学正在进行一项独立调查，而"
+      "startMs": 521720,
+      "endMs": 524060,
+      "en": "That is what he said in a statement.",
+      "zh": "这是他在声明中的说法。"
     },
     {
       "id": 81,
-      "startMs": 569820,
-      "endMs": 574300,
-      "en": "Cambridge University Vice-Chancellor Professor Deborah Prentice has said,",
-      "zh": "剑桥大学副校长、黛博拉·普伦蒂斯教授说，"
+      "startMs": 524380,
+      "endMs": 533100,
+      "en": "Some critics have said the treatment of him had been motivated by racism, but others said the claims of plagiarism were legitimate.",
+      "zh": "一些批评者认为，他所受的对待出于种族主义动机；但也有人认为，抄袭指控有正当依据。"
     },
     {
       "id": 82,
-      "startMs": 574380,
-      "endMs": 583840,
-      "en": "We are desperately saddened to hear this tragic news. Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.",
-      "zh": "听到这一悲痛消息，我们万分悲伤。在这极其艰难的时刻，我们向杰森·阿代的家人和朋友致以诚挚慰问。"
+      "startMs": 533420,
+      "endMs": 539340,
+      "en": "There will be a number of questions following the news that Jason Arday was found dead.",
+      "zh": "杰森·阿戴被发现死亡的消息传出后，将会出现一系列疑问。"
     },
     {
       "id": 83,
-      "startMs": 584320,
-      "endMs": 585280,
-      "en": "Helena Wilkinson.",
-      "zh": "海伦娜·威尔金森。"
+      "startMs": 539340,
+      "endMs": 548220,
+      "en": "Let me just bring you the statement from the Metropolitan Police, who said that they had been called to an address in South London.",
+      "zh": "我来介绍一下伦敦警察厅的声明。警方称，他们接报前往伦敦南部一处地址。"
     },
     {
       "id": 84,
-      "startMs": 586160,
-      "endMs": 594240,
-      "en": "Peace talks between the US and Iran appear to be going nowhere at the moment, with the Strait of Hormuz remaining a key sticking point.",
-      "zh": "目前，美国和伊朗的和平谈判似乎毫无进展，霍尔木兹海峡仍是关键分歧。"
+      "startMs": 548460,
+      "endMs": 554940,
+      "en": "Emergency services found a man to be unresponsive, a 41-year-old man.",
+      "zh": "急救人员发现一名41岁男子已无反应。"
     },
     {
       "id": 85,
-      "startMs": 594720,
-      "endMs": 599920,
-      "en": "But that hasn't stopped President Trump saying the waterway could soon come under American control.",
-      "zh": "但这并未阻止特朗普总统声称，这条水道很快可能落入美国控制。"
+      "startMs": 555180,
+      "endMs": 561100,
+      "en": "At this time, they say his death is being treated as unexpected, but is not believed to be suspicious.",
+      "zh": "警方表示，目前将其死亡视为突发事件，但据信并无可疑之处。"
     },
     {
       "id": 86,
-      "startMs": 600480,
-      "endMs": 606480,
-      "en": "And after we finish defeating Iran, which is being very badly defeated,",
-      "zh": "等我们击败伊朗——伊朗正遭受惨重失败——之后，"
+      "startMs": 561500,
+      "endMs": 564620,
+      "en": "But yes, there will be a huge number of questions now.",
+      "zh": "不过，确实会有大量问题随之而来。"
     },
     {
       "id": 87,
-      "startMs": 608460,
-      "endMs": 614060,
-      "en": "Pretty soon I'll be declaring the Hormuz Strait a territory of the United States.",
-      "zh": "很快，我就会宣布霍尔木兹海峡是美国领土。"
+      "startMs": 564860,
+      "endMs": 574300,
+      "en": "There is that independent investigation that Cambridge University are carrying out, and Cambridge University Vice-Chancellor Professor Deborah Prentice has said:",
+      "zh": "剑桥大学仍在进行独立调查。剑桥大学副校长德博拉·普伦蒂斯教授表示："
     },
     {
       "id": 88,
-      "startMs": 616300,
-      "endMs": 621980,
-      "en": "Well, Iran's deputy foreign minister responded by saying the strait would remain under Iranian authority.",
-      "zh": "伊朗副外长回应说，该海峡仍将由伊朗管辖。"
+      "startMs": 574380,
+      "endMs": 577420,
+      "en": "‘We are desperately saddened to hear this tragic news.’",
+      "zh": "“听到这一噩耗，我们深感悲痛。”"
     },
     {
       "id": 89,
-      "startMs": 622460,
-      "endMs": 626380,
-      "en": "Its closure has already had a big impact on US petrol prices,",
-      "zh": "海峡关闭已经对美国汽油价格造成了重大影响，"
+      "startMs": 577820,
+      "endMs": 583840,
+      "en": "‘Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.’",
+      "zh": "“在这个极其艰难的时刻，我们向杰森·阿戴的家人和朋友致以最深切的慰问。”"
     },
     {
       "id": 90,
-      "startMs": 626860,
-      "endMs": 631500,
-      "en": "but President Trump said Americans should accept paying a tiny bit more for gas.",
-      "zh": "但特朗普总统说，美国人应该接受汽油价格小幅上涨。"
+      "startMs": 584320,
+      "endMs": 585280,
+      "en": "Helena Wilkinson.",
+      "zh": "海伦娜·威尔金森报道。"
     },
     {
       "id": 91,
-      "startMs": 631660,
-      "endMs": 636300,
-      "en": "I heard more about that from Daniel Bush in Washington, but first he gave me his assessment",
-      "zh": "我在华盛顿听取了丹尼尔·布什的更多介绍，不过首先，他先谈了自己的判断，"
+      "startMs": 586160,
+      "endMs": 594240,
+      "en": "Peace talks between the US and Iran appear to be going nowhere at the moment, with the Strait of Hormuz remaining a key sticking point.",
+      "zh": "美国与伊朗之间的和平谈判目前似乎毫无进展，霍尔木兹海峡仍是一个关键症结。"
     },
     {
       "id": 92,
-      "startMs": 636300,
-      "endMs": 640780,
-      "en": "of Mr Trump's claim that the Strait of Hormuz could become US territory.",
-      "zh": "内容是关于特朗普声称霍尔木兹海峡可能成为美国领土。"
+      "startMs": 594720,
+      "endMs": 599920,
+      "en": "But that hasn't stopped President Trump saying the waterway could soon come under American control.",
+      "zh": "但这并未阻止特朗普总统声称，这条水道可能很快会受美国控制。"
     },
     {
       "id": 93,
-      "startMs": 641500,
-      "endMs": 646060,
-      "en": "This is a president who likes to throw out lines like this at political rallies.",
-      "zh": "这位总统喜欢在政治集会上抛出这样的说法。"
+      "startMs": 600480,
+      "endMs": 606480,
+      "en": "And after we finish defeating Iran, which is being very badly defeated,",
+      "zh": "等我们彻底击败伊朗——伊朗现在正遭到惨败——"
     },
     {
       "id": 94,
-      "startMs": 646380,
-      "endMs": 649260,
-      "en": "Of course, there is no sort of concrete policy behind this.",
-      "zh": "当然，这背后并没有什么具体政策。"
+      "startMs": 608460,
+      "endMs": 614060,
+      "en": "pretty soon I'll be declaring the Strait of Hormuz a territory of the United States.",
+      "zh": "很快，我就会宣布霍尔木兹海峡为美国领土。"
     },
     {
       "id": 95,
-      "startMs": 649260,
-      "endMs": 652700,
-      "en": "It's unclear how the United States would even go about doing that.",
-      "zh": "美国究竟要如何实现这一点，目前还不清楚。"
+      "startMs": 616300,
+      "endMs": 621980,
+      "en": "But Iran's Deputy Foreign Minister responded by saying the strait would remain under Iranian authority.",
+      "zh": "但伊朗副外长回应称，该海峡仍将由伊朗管辖。"
     },
     {
       "id": 96,
-      "startMs": 652700,
-      "endMs": 658860,
-      "en": "The Strait of Hormuz is an international waterway that's controlled partly by multiple different countries in the region,",
-      "zh": "霍尔木兹海峡是一条国际水道，部分由该地区多个不同国家控制，"
+      "startMs": 622460,
+      "endMs": 631500,
+      "en": "Its closure has already had a big impact on US petrol prices, but President Trump said Americans should accept paying a tiny bit more for gas.",
+      "zh": "海峡关闭已对美国汽油价格产生重大影响，但特朗普总统说，美国人应接受为汽油多付一点点钱。"
     },
     {
       "id": 97,
-      "startMs": 658860,
-      "endMs": 661580,
-      "en": "so how the US would even do that remains unclear.",
-      "zh": "所以美国究竟如何做到这一点，仍不明确。"
+      "startMs": 631660,
+      "endMs": 640780,
+      "en": "I heard more about that from Daniel Bush in Washington. But first, he gave me his assessment of Mr Trump's claim that the Strait of Hormuz could become US territory.",
+      "zh": "丹尼尔·布什在华盛顿向我作了进一步介绍。但首先，他评估了特朗普关于霍尔木兹海峡可能成为美国领土的说法。"
     },
     {
       "id": 98,
-      "startMs": 661580,
-      "endMs": 666140,
-      "en": "And of course, before all of that, there is still this war that the US has not won.",
-      "zh": "当然，在那一切发生之前，这场战争仍未由美国取胜。"
+      "startMs": 641500,
+      "endMs": 646060,
+      "en": "This is a President who likes to throw out lines like this at political rallies.",
+      "zh": "这位总统喜欢在政治集会上抛出这样的说法。"
     },
     {
       "id": 99,
-      "startMs": 666380,
-      "endMs": 671500,
-      "en": "President Trump is struggling to figure out how to get Tehran back to the negotiating table.",
-      "zh": "特朗普总统正努力想办法让德黑兰重返谈判桌。"
+      "startMs": 646380,
+      "endMs": 649260,
+      "en": "Of course, there is no sort of concrete policy behind this.",
+      "zh": "当然，这背后并没有任何具体政策。"
     },
     {
       "id": 100,
-      "startMs": 671740,
-      "endMs": 675020,
-      "en": "There is a navy blockade which is still in place there.",
-      "zh": "那里仍然存在海军封锁。"
+      "startMs": 649260,
+      "endMs": 652700,
+      "en": "It's unclear how the United States would even go about doing that.",
+      "zh": "甚至连美国会如何实施都不清楚。"
     },
     {
       "id": 101,
+      "startMs": 652700,
+      "endMs": 658860,
+      "en": "The Strait of Hormuz is an international waterway that's controlled partly by multiple different countries in the region.",
+      "zh": "霍尔木兹海峡是一条国际水道，其部分区域由该地区多个不同国家管辖。"
+    },
+    {
+      "id": 102,
+      "startMs": 658860,
+      "endMs": 661580,
+      "en": "So how the US would even do that remains unclear.",
+      "zh": "因此，美国究竟要如何做到这一点仍不清楚。"
+    },
+    {
+      "id": 103,
+      "startMs": 661580,
+      "endMs": 666140,
+      "en": "And of course, before all of that, there is still this war that the US has not won.",
+      "zh": "当然，在这一切之前，这场美国尚未取胜的战争仍在继续。"
+    },
+    {
+      "id": 104,
+      "startMs": 666380,
+      "endMs": 671500,
+      "en": "President Trump is struggling to figure out how to get Tehran back to the negotiating table.",
+      "zh": "特朗普总统正设法弄清如何让德黑兰重返谈判桌。"
+    },
+    {
+      "id": 105,
+      "startMs": 671740,
+      "endMs": 675020,
+      "en": "There is a naval blockade which is still in place there.",
+      "zh": "当地的海上封锁仍未解除。"
+    },
+    {
+      "id": 106,
       "startMs": 675260,
       "endMs": 677360,
       "en": "There is no end in sight to this war.",
       "zh": "这场战争仍看不到尽头。"
     },
     {
-      "id": 102,
-      "startMs": 677440,
-      "endMs": 682480,
-      "en": "So this is a president, you know, speaking about a moment that could be months from now",
-      "zh": "所以，这位总统谈论的是一个可能要到几个月后才会到来的时刻，"
-    },
-    {
-      "id": 103,
-      "startMs": 682720,
-      "endMs": 687840,
-      "en": "without a lot of sort of concrete policy behind how it is that he might do that.",
-      "zh": "但对于他究竟如何实现这一点，背后并没有多少具体政策。"
-    },
-    {
-      "id": 104,
-      "startMs": 687840,
-      "endMs": 690240,
-      "en": "And this is in the context of a political rally",
-      "zh": "而这发生在一次政治集会的背景下，"
-    },
-    {
-      "id": 105,
-      "startMs": 690240,
-      "endMs": 694640,
-      "en": "where President Trump often likes to throw out these kinds of lines to test them, if you will,",
-      "zh": "特朗普总统经常在那里抛出这类说法，可以说是拿来试探，"
-    },
-    {
-      "id": 106,
-      "startMs": 694880,
-      "endMs": 698080,
-      "en": "with his base to see if they're popular, to see if they'll get applause lines.",
-      "zh": "看看他的基本盘是否喜欢，看看能否赢得掌声。"
-    },
-    {
       "id": 107,
-      "startMs": 698480,
-      "endMs": 701760,
-      "en": "It's not the first time also that President Trump has made some of these claims",
-      "zh": "这也不是特朗普总统第一次提出这些说法，"
+      "startMs": 677440,
+      "endMs": 687840,
+      "en": "So this is a President, you know, speaking about a moment that could be months from now, without a lot of sort of concrete policy behind how it is that he might do that.",
+      "zh": "所以，你知道，这位总统谈论的是一个可能要几个月后才会到来的时刻，而对于他可能如何实现这一点，并没有多少具体政策支撑。"
     },
     {
       "id": 108,
-      "startMs": 702160,
-      "endMs": 704320,
-      "en": "with the war in Iran and specifically around the Strait.",
-      "zh": "涉及伊朗战争，尤其是围绕这条海峡的战争。"
+      "startMs": 687840,
+      "endMs": 694640,
+      "en": "And this is in the context of a political rally, where President Trump often likes to throw out these kinds of lines to test them, if you will, with his base.",
+      "zh": "而且这番话是在政治集会的语境中说的；特朗普总统常喜欢抛出这类说法，可以说是拿他的基本盘来测试反应。"
     },
     {
       "id": 109,
-      "startMs": 704320,
-      "endMs": 709920,
-      "en": "A couple months ago he said that he might consider naming the Strait of Hormuz the Strait of America.",
-      "zh": "几个月前，他说过可能考虑把霍尔木兹海峡改名为“美国海峡”。"
+      "startMs": 694880,
+      "endMs": 698080,
+      "en": "He does this to see if they're popular, to see if they'll get applause lines.",
+      "zh": "他这样做，是为了看看这些说法是否受欢迎、能否赢得掌声。"
     },
     {
       "id": 110,
-      "startMs": 709920,
-      "endMs": 712080,
-      "en": "Months later, that has not been the case.",
-      "zh": "几个月过去了，事情并没有这样发展。"
+      "startMs": 698480,
+      "endMs": 704400,
+      "en": "It's also not the first time that President Trump has made some of these claims with the war in Iran, and specifically around the strait.",
+      "zh": "这也不是特朗普总统第一次就伊朗战争，尤其是围绕该海峡，提出这类主张。"
     },
     {
       "id": 111,
-      "startMs": 712560,
-      "endMs": 719040,
-      "en": "One of the other lines he threw out was Americans will have to pay a tiny little bit more for gasoline",
-      "zh": "他抛出的另一种说法是，美国人将不得不多支付一点汽油钱，"
+      "startMs": 704400,
+      "endMs": 709920,
+      "en": "A couple of months ago, he said that he might consider naming the Strait of Hormuz the Strait of America.",
+      "zh": "几个月前，他说自己可能会考虑把霍尔木兹海峡改称“美利坚海峡”。"
     },
     {
       "id": 112,
-      "startMs": 719120,
-      "endMs": 721520,
-      "en": "to stop Iran getting a nuclear weapon.",
-      "zh": "以阻止伊朗获得核武器。"
+      "startMs": 709920,
+      "endMs": 712080,
+      "en": "Months later, that has not been the case.",
+      "zh": "几个月过去，这并未成为现实。"
     },
     {
       "id": 113,
-      "startMs": 722080,
-      "endMs": 725600,
-      "en": "How will that go down among his base and the wider American public?",
-      "zh": "这在他的基本盘和更广泛的美国公众中会得到什么反响？"
+      "startMs": 712560,
+      "endMs": 721520,
+      "en": "One of the other lines he threw out was, “Americans will have to pay a tiny little bit more for gasoline to stop Iran getting a nuclear weapon.”",
+      "zh": "他抛出的另一个说法是：“为了阻止伊朗获得核武器，美国人将不得不为汽油多付一点点钱。”"
     },
     {
       "id": 114,
-      "startMs": 726320,
-      "endMs": 731040,
-      "en": "Not so well. Gas prices have been high for months now as a result of this war,",
-      "zh": "反响不会太好。由于这场战争，汽油价格已经高企数月，"
+      "startMs": 722080,
+      "endMs": 725600,
+      "en": "How will that go down among his base and the wider American public?",
+      "zh": "他的基本盘和更广泛的美国公众会如何看待这番话？"
     },
     {
       "id": 115,
-      "startMs": 731040,
-      "endMs": 735680,
-      "en": "and President Trump on multiple occasions has said very explicitly that he's not very concerned about that,",
-      "zh": "而特朗普总统多次非常明确地表示，他对此并不十分担心，"
+      "startMs": 726320,
+      "endMs": 731040,
+      "en": "Not so well. Gas prices have been high for months now as a result of this war.",
+      "zh": "反响不会太好。受这场战争影响，汽油价格已经连续数月居高不下。"
     },
     {
       "id": 116,
-      "startMs": 735760,
-      "endMs": 737620,
-      "en": "He's not concerned about the midterms,",
-      "zh": "他也不担心中期选举，"
+      "startMs": 731040,
+      "endMs": 735840,
+      "en": "And President Trump, on multiple occasions, has said very explicitly that he's not very concerned about that.",
+      "zh": "特朗普总统已多次非常明确地表示，他对此并不太担心。"
     },
     {
       "id": 117,
-      "startMs": 737940,
+      "startMs": 735860,
       "endMs": 744500,
-      "en": "that he's not taking those things into his calculations when he decides how to go about this war with Iran.",
-      "zh": "在决定如何推进这场对伊朗的战争时，他不会把这些因素纳入考量。"
+      "en": "He's not concerned about the midterms, that he's not taking those things into his calculations when he decides how to go about this war with Iran.",
+      "zh": "他不担心中期选举；在决定如何处理这场与伊朗的战争时，他没有把这些因素纳入考量。"
     },
     {
       "id": 118,
       "startMs": 744580,
       "endMs": 749060,
-      "en": "So that's something else that him and other senior administration officials have said multiple times",
-      "zh": "所以，这是他和其他政府高官多次说过的另一点，"
+      "en": "So that's something else that he and other senior administration officials have said multiple times:",
+      "zh": "所以，他和其他政府高级官员还多次表示："
     },
     {
       "id": 119,
       "startMs": 749060,
-      "endMs": 754100,
-      "en": "that, you know, American consumers will pay a slightly higher price for gas now, but that",
-      "zh": "也就是，美国消费者现在会为汽油支付略高的价格，但这"
+      "endMs": 753780,
+      "en": "that, you know, American consumers will pay a slightly higher price for gas now.",
+      "zh": "美国消费者现在会为汽油支付稍高一些的价格。"
     },
     {
       "id": 120,
-      "startMs": 754420,
-      "endMs": 760820,
-      "en": "in the long run it'll be worth it because of the, you know, the safety for Americans, the national security improvements",
-      "zh": "从长远看是值得的，因为这将提升美国人的安全和国家安全，"
+      "startMs": 753780,
+      "endMs": 755940,
+      "en": "But that in the long run, it'll be worth it",
+      "zh": "但从长远来看，这样做是值得的，"
     },
     {
       "id": 121,
-      "startMs": 760820,
+      "startMs": 755940,
       "endMs": 763220,
-      "en": "for the region, for US allies in the Middle East.",
-      "zh": "也有利于该地区和美国在中东的盟友。"
+      "en": "because of the, you know, the safety for Americans and the national security improvements for the region and for US allies in the Middle East.",
+      "zh": "因为这关系到美国人的安全，以及改善该地区和美国中东盟友的国家安全。"
     },
     {
       "id": 122,
       "startMs": 763620,
       "endMs": 769860,
-      "en": "But Republicans, Oliver, in the United States here who are very focused on their reelection prospects have not liked this rhetoric.",
-      "zh": "但奥利弗，美国那些非常关注连任前景的共和党人并不喜欢这番说辞。"
+      "en": "But Republicans, Olly, in the United States here, who are very focused on their re-election prospects, have not liked this rhetoric.",
+      "zh": "但是，奥利，美国这里那些非常关注自己连任前景的共和党人并不喜欢这种说法。"
     },
     {
       "id": 123,
       "startMs": 769860,
       "endMs": 774580,
       "en": "You know, prices at the gas pump are first and foremost, you know, a top concern for voters.",
-      "zh": "你知道，对选民来说，加油站的价格首先是最重要的，也是最关心的问题。"
+      "zh": "你知道，加油站的油价首先就是选民最关心的问题之一。"
     },
     {
       "id": 124,
       "startMs": 774580,
-      "endMs": 778980,
-      "en": "And so Republicans would like to see President Trump's rhetoric shift on this, would like to see him",
-      "zh": "所以共和党人希望特朗普总统在这件事上改变说辞，希望看到他"
+      "endMs": 778100,
+      "en": "And so Republicans would like to see President Trump's rhetoric shift on this.",
+      "zh": "因此，共和党人希望看到特朗普总统改变在这个问题上的措辞。"
     },
     {
       "id": 125,
-      "startMs": 779220,
+      "startMs": 778180,
       "endMs": 784980,
-      "en": "acknowledge a little bit more the economic sacrifices that the country is making for this war effort.",
-      "zh": "更多承认国家为这场战争所作出的经济牺牲。"
+      "en": "They would like to see him acknowledge a little bit more the economic sacrifices that the country is making for this war effort.",
+      "zh": "他们希望他更多承认，这个国家正为战争行动付出经济代价。"
     },
     {
       "id": 126,
       "startMs": 784980,
-      "endMs": 789060,
-      "en": "But with a couple months left, President Trump seems to be continuing with this messaging",
-      "zh": "但还剩几个月，特朗普总统似乎仍在继续传达这样的信息，"
+      "endMs": 792660,
+      "en": "But with a couple of months left, President Trump seems to be continuing with this messaging that this is just a short-term pain that Americans are going to have to endure.",
+      "zh": "但在只剩几个月的情况下，特朗普总统似乎仍在延续这种说法：这只是美国人不得不承受的短期阵痛。"
     },
     {
       "id": 127,
-      "startMs": 789060,
-      "endMs": 792660,
-      "en": "that this is just a short-term pain that Americans are going to have to endure.",
-      "zh": "即这只是美国人不得不忍受的短期痛苦。"
-    },
-    {
-      "id": 128,
       "startMs": 793060,
       "endMs": 794820,
       "en": "Daniel Bush in Washington.",
       "zh": "丹尼尔·布什在华盛顿报道。"
     },
     {
-      "id": 129,
+      "id": 128,
       "startMs": 795880,
       "endMs": 801960,
       "en": "The founder of Amazon, Jeff Bezos, has bought a share of the Premier League football club Liverpool as part of a consortium.",
-      "zh": "亚马逊创始人杰夫·贝索斯作为一个财团成员，购入了英超俱乐部利物浦的股份。"
+      "zh": "亚马逊创始人杰夫·贝索斯作为一家财团的成员，买下了英超足球俱乐部利物浦的部分股份。"
     },
     {
-      "id": 130,
+      "id": 129,
       "startMs": 802040,
       "endMs": 808520,
       "en": "He's the latest American billionaire to invest in English football, despite the sport not being that popular in the US.",
-      "zh": "他是最新一位投资英格兰足球的美国亿万富翁，尽管这项运动在美国并不那么受欢迎。"
+      "zh": "尽管足球在美国没有那么受欢迎，他仍成为最新一位投资英格兰足球的美国亿万富翁。"
     },
     {
-      "id": 131,
+      "id": 130,
       "startMs": 809080,
       "endMs": 810680,
       "en": "Jane Dougall has the details.",
-      "zh": "简·道格尔带来详情。"
+      "zh": "简·杜格尔介绍详细情况。"
+    },
+    {
+      "id": 131,
+      "startMs": 811240,
+      "endMs": 819960,
+      "en": "We have confirmation from Fenway Sports Group that they have agreed to sell around a third of the club to this consortium, which includes the billionaire Amazon founder Jeff Bezos.",
+      "zh": "芬威体育集团已证实，他们同意将俱乐部约三分之一的股份出售给这家财团；财团成员包括亚马逊创始人、亿万富翁杰夫·贝索斯。"
     },
     {
       "id": 132,
-      "startMs": 811240,
-      "endMs": 816520,
-      "en": "We have confirmation from Fenway Sports Group that they have agreed to sell around a third of the club to this consortium,",
-      "zh": "芬威体育集团确认，他们已同意将俱乐部约三分之一的股份出售给这个财团，"
+      "startMs": 819960,
+      "endMs": 827080,
+      "en": "Now, Fenway said in a statement they'd entered into a definitive agreement, and that the deal supports Liverpool's long-term growth ambitions,",
+      "zh": "芬威在一份声明中表示，双方已达成最终协议，这笔交易将支持利物浦的长期增长目标；"
     },
     {
       "id": 133,
-      "startMs": 816920,
-      "endMs": 823480,
-      "en": "which includes the billionaire Amazon founder Jeff Bezos. Now, Fenway said in a statement they'd entered into a definitive agreement",
-      "zh": "该财团包括亚马逊创始人、亿万富翁杰夫·贝索斯。芬威在声明中说，双方已达成最终协议，"
+      "startMs": 827400,
+      "endMs": 832600,
+      "en": "but that FSG will retain majority ownership and operational control of Liverpool,",
+      "zh": "不过，FSG仍将保留利物浦的多数股权和运营控制权；"
     },
     {
       "id": 134,
-      "startMs": 823560,
-      "endMs": 832600,
-      "en": "and that the deal supports Liverpool's long-term growth ambitions, but that FSG will retain majority ownership and operational control of Liverpool,",
-      "zh": "这笔交易支持利物浦的长期发展目标，但芬威体育集团仍将保留利物浦的多数股权和运营控制权，"
+      "startMs": 832920,
+      "endMs": 839880,
+      "en": "although it is suspected that this could be the catalyst for the American owners to gradually step away after 16 years in charge.",
+      "zh": "但有人猜测，这可能成为美国老板在掌管俱乐部16年后逐步退出的催化剂。"
     },
     {
       "id": 135,
-      "startMs": 832920,
-      "endMs": 839880,
-      "en": "Although it is suspected that this could be the catalyst for the American owners to gradually step away after 16 years in charge.",
-      "zh": "不过有人猜测，这可能会成为美国老板在掌舵16年后逐步退出的催化剂。"
-    },
-    {
-      "id": 136,
       "startMs": 840360,
       "endMs": 841960,
       "en": "But let's take a look at the consortium itself.",
-      "zh": "不过，我们先来看看这个财团本身。"
+      "zh": "不过，我们来看看这家财团本身。"
+    },
+    {
+      "id": 136,
+      "startMs": 842040,
+      "endMs": 850040,
+      "en": "It's led by British-Indian millionaire businessman Amit Bhatia, and also includes the billionaire Facebook co-owner Eduardo Saverin.",
+      "zh": "财团由英籍印度裔百万富翁商人阿米特·巴蒂亚领衔，成员还包括Facebook共同所有人、亿万富翁爱德华多·萨维林。"
     },
     {
       "id": 137,
-      "startMs": 842040,
-      "endMs": 850040,
-      "en": "It's led by British-Indian millionaire businessman Amat Bhatia and also includes the billionaire Facebook co-owner Eduardo Saverin.",
-      "zh": "财团由英印裔百万富商阿马特·巴蒂亚领衔，还包括身家亿万的 Facebook 共同所有者爱德华多·萨韦林。"
-    },
-    {
-      "id": 138,
       "startMs": 850520,
       "endMs": 853880,
       "en": "But it's Bhatia who's going to be the football brains of this consortium.",
-      "zh": "不过，巴蒂亚将是这个财团的足球专家。"
+      "zh": "不过，巴蒂亚将是这家财团中负责足球事务的智囊。"
+    },
+    {
+      "id": 138,
+      "startMs": 854280,
+      "endMs": 858860,
+      "en": "Let's not kid ourselves, though, here. Bezos is not investing because he grew up watching Kenny Dalglish.",
+      "zh": "但我们不要自欺欺人。贝索斯投资并不是因为他从小看肯尼·达格利什踢球。"
     },
     {
       "id": 139,
-      "startMs": 853880,
-      "endMs": 858860,
-      "en": "Let's not kid ourselves, though, here. Bezos is not investing because he grew up watching Kenny Dalglish.",
-      "zh": "不过，我们别自欺欺人。贝索斯投资并不是因为他从小看肯尼·达格利什的比赛长大。"
-    },
-    {
-      "id": 140,
       "startMs": 859340,
       "endMs": 861980,
       "en": "He is investing because they're looking for a return.",
-      "zh": "他投资是因为他们在寻求回报。"
+      "zh": "他之所以投资，是因为财团希望获得回报。"
+    },
+    {
+      "id": 140,
+      "startMs": 862620,
+      "endMs": 866300,
+      "en": "Liverpool is said to be valued at £5–6 billion.",
+      "zh": "据称，利物浦的估值为50亿至60亿英镑。"
     },
     {
       "id": 141,
-      "startMs": 862620,
-      "endMs": 866300,
-      "en": "Liverpool is said to be valued at 5 to 6 billion pounds.",
-      "zh": "据称利物浦的估值为50亿至60亿英镑。"
+      "startMs": 866860,
+      "endMs": 873260,
+      "en": "They recorded £703 million in revenue in their title-winning season, 2024–25.",
+      "zh": "在2024至2025赛季夺冠期间，利物浦录得7.03亿英镑收入。"
     },
     {
       "id": 142,
-      "startMs": 866860,
-      "endMs": 873260,
-      "en": "They recorded 703 million in revenue in their title-winning season, 2024–25.",
-      "zh": "他们在赢得冠军的2024至2025赛季实现了7.03亿英镑营收。"
-    },
-    {
-      "id": 143,
       "startMs": 873660,
       "endMs": 878860,
       "en": "They've got a global audience of 200 million followers across all social media platforms.",
-      "zh": "他们在所有社交媒体平台上拥有2亿粉丝的全球受众。"
+      "zh": "利物浦在各个社交媒体平台上的全球粉丝总数达到2亿。"
     },
     {
-      "id": 144,
+      "id": 143,
       "startMs": 879420,
       "endMs": 882940,
       "en": "Let's put that into perspective for an American investor like Bezos.",
-      "zh": "我们可以用贝索斯这样的美国投资者熟悉的数字来作个比较。"
+      "zh": "我们从贝索斯这样的美国投资者角度比较一下这些数字。"
+    },
+    {
+      "id": 144,
+      "startMs": 883420,
+      "endMs": 893180,
+      "en": "The LA Lakers, the NBA franchise that's expected to be purchased by Josh Kushner and Bob Iger—the Lakers look set to be purchased for a reported 9.3 billion,",
+      "zh": "NBA球队洛杉矶湖人预计将由乔希·库什纳和鲍勃·艾格尔收购；据报道，收购价将达到93亿，"
     },
     {
       "id": 145,
-      "startMs": 883420,
-      "endMs": 889180,
-      "en": "The LA Lakers, the NBA franchise, that's expected to be purchased by Josh Kushner and Bob Iger,",
-      "zh": "NBA球队洛杉矶湖人队预计将由乔什·库什纳和鲍勃·艾格收购，"
-    },
-    {
-      "id": 146,
-      "startMs": 889660,
-      "endMs": 893180,
-      "en": "the Lakers look set to be purchased for a reported 9.3 billion,",
-      "zh": "据报道，湖人队的收购价可能达到93亿，"
-    },
-    {
-      "id": 147,
       "startMs": 893260,
       "endMs": 897180,
       "en": "twice the amount that Liverpool is said to be worth.",
       "zh": "是利物浦据称估值的两倍。"
     },
     {
-      "id": 148,
+      "id": 146,
       "startMs": 897820,
       "endMs": 903980,
-      "en": "And the NBA team generated around 407 million pounds, half of what Liverpool generated.",
-      "zh": "这支NBA球队的营收约为4.07亿英镑，只有利物浦营收的一半。"
+      "en": "And the NBA team generated around £407 million, half of what Liverpool generated.",
+      "zh": "而这支NBA球队的收入约为4.07亿英镑，只有利物浦的一半。"
     },
     {
-      "id": 149,
+      "id": 147,
       "startMs": 904300,
       "endMs": 906140,
       "en": "So you can see the attraction, can't you?",
-      "zh": "所以你可以看出其中的吸引力，对吧？"
+      "zh": "所以你能看出其中的吸引力，对吧？"
     },
     {
-      "id": 150,
+      "id": 148,
       "startMs": 906140,
       "endMs": 908780,
       "en": "And also, there are 26 million supporters in the US.",
-      "zh": "此外，美国还有2600万名支持者。"
+      "zh": "此外，利物浦在美国有2600万名支持者。"
     },
     {
-      "id": 151,
+      "id": 149,
       "startMs": 909260,
       "endMs": 912700,
       "en": "They have the fastest-growing fan base of any Premier League club in the country.",
-      "zh": "在美国，他们的球迷群体增速是所有英超俱乐部中最快的。"
+      "zh": "在美国所有英超俱乐部中，利物浦的球迷群体增长速度最快。"
     },
     {
-      "id": 152,
+      "id": 150,
       "startMs": 913260,
       "endMs": 913820,
       "en": "Jane Dougall.",
-      "zh": "简·道格尔报道。"
+      "zh": "简·杜格尔。"
     },
     {
-      "id": 153,
+      "id": 151,
       "startMs": 916100,
-      "endMs": 917540,
-      "en": "And still to come on the podcast...",
-      "zh": "节目稍后还将播出……"
-    },
-    {
-      "id": 154,
-      "startMs": 917940,
       "endMs": 920180,
-      "en": "I think men fancy themselves that they can do anything.",
-      "zh": "我觉得男人往往自以为无所不能。"
+      "en": "And still to come on the podcast: I think men fancy themselves that they can do anything.",
+      "zh": "本期节目稍后还将报道：我认为，男人总觉得自己无所不能。"
     },
     {
-      "id": 155,
+      "id": 152,
       "startMs": 920180,
       "endMs": 925620,
       "en": "There is this confidence that I see in a lot of men, which just means that they think that everything is easy and that they can just do it.",
-      "zh": "我在很多男人身上看到这种自信，这意味着他们觉得一切都很容易，自己随手就能做到。"
+      "zh": "我在许多男性身上看到这种自信；这意味着他们觉得一切都很容易，自己说做就能做到。"
     },
     {
-      "id": 156,
+      "id": 153,
       "startMs": 926020,
       "endMs": 931140,
       "en": "Why two in five men think they'd be good enough to compete at the next Olympics.",
-      "zh": "为什么五分之二的男性认为自己足以参加下一届奥运会。"
+      "zh": "为何五分之二的男性认为自己有足够实力参加下一届奥运会。"
     },
     {
-      "id": 157,
+      "id": 154,
       "startMs": 938060,
       "endMs": 940540,
       "en": "This is the Global News Podcast.",
       "zh": "这里是《全球新闻播客》。"
     },
     {
-      "id": 158,
+      "id": 155,
       "startMs": 941180,
       "endMs": 947820,
       "en": "As Russia continues to bombard Ukraine, Kyiv is responding with its own campaign of long-range strikes.",
-      "zh": "随着俄罗斯继续轰炸乌克兰，基辅也在展开自己的远程打击行动。"
+      "zh": "随着俄罗斯继续轰炸乌克兰，基辅也以自己的远程打击行动作出回应。"
     },
     {
-      "id": 159,
+      "id": 156,
       "startMs": 948380,
       "endMs": 954780,
       "en": "Ukrainians have had more than four years of this, but for many Russians, the war now feels closer than ever before.",
-      "zh": "乌克兰人经历这种局面已经四年多了，但对许多俄罗斯人来说，战争如今前所未有地近在咫尺。"
+      "zh": "乌克兰人已经承受这种局面四年多，但对许多俄罗斯人来说，战争如今也比以往任何时候都更近。"
     },
     {
-      "id": 160,
+      "id": 157,
       "startMs": 955340,
       "endMs": 959500,
       "en": "Our correspondent James Beardsworth has been speaking to people across Russia.",
-      "zh": "我们的记者詹姆斯·比尔兹沃思一直在俄罗斯各地采访民众。"
+      "zh": "本台记者詹姆斯·比尔兹沃思采访了俄罗斯各地的居民。"
     },
     {
-      "id": 161,
+      "id": 158,
       "startMs": 959900,
       "endMs": 961980,
       "en": "Their names have been changed to protect their safety.",
-      "zh": "为保护他们的安全，文中使用了化名。"
+      "zh": "为保护他们的安全，报道中使用了化名。"
     },
     {
-      "id": 162,
+      "id": 159,
       "startMs": 968460,
       "endMs": 977740,
       "en": "In the city of Elektrostal, 60 kilometres east of Moscow, a Ukrainian drone crashes into a warehouse of the Russian retailer Wildberries.",
-      "zh": "在莫斯科以东 60 公里的叶列克斯塔尔市，一架乌克兰无人机撞入俄罗斯零售商 Wildberries 的仓库。"
+      "zh": "在莫斯科以东60公里的埃列克特罗斯塔尔市，一架乌克兰无人机撞入俄罗斯零售商Wildberries的一座仓库。"
     },
     {
-      "id": 163,
+      "id": 160,
       "startMs": 978840,
-      "endMs": 985160,
-      "en": "The explosions and resulting fires, which burnt for three days, so large they could be seen from space,",
-      "zh": "爆炸及由此引发的大火持续燃烧了三天，规模之大甚至从太空都能看到，"
-    },
-    {
-      "id": 164,
-      "startMs": 985320,
       "endMs": 987800,
-      "en": "destroyed tens of millions of dollars' worth of goods.",
-      "zh": "摧毁了价值数千万美元的货物。"
+      "en": "The explosions and resulting fires, which burned for three days and were so large they could be seen from space, destroyed tens of millions of dollars' worth of goods.",
+      "zh": "爆炸引发的大火燃烧了三天，规模之大从太空都能看到，并烧毁了价值数千万美元的商品。"
     },
     {
-      "id": 165,
+      "id": 161,
       "startMs": 988200,
       "endMs": 995480,
       "en": "The warehouse burned down, and we were told that all of our products, everything we had stored there, was lost.",
-      "zh": "仓库烧毁了。我们被告知，所有产品，也就是我们储存在那里的全部东西，都损失了。"
+      "zh": "仓库被烧毁了，我们被告知，所有产品、所有存放在那里的货物都没了。"
+    },
+    {
+      "id": 162,
+      "startMs": 995480,
+      "endMs": 1000360,
+      "en": "Margarita owns a small business selling confectionery across Russia.",
+      "zh": "玛格丽塔经营一家面向俄罗斯各地销售糖果的小企业。"
+    },
+    {
+      "id": 163,
+      "startMs": 1000360,
+      "endMs": 1005320,
+      "en": "The strikes on the Elektrostal plant cost her business thousands of dollars.",
+      "zh": "对埃列克特罗斯塔尔设施的打击让她的企业损失了数千美元。"
+    },
+    {
+      "id": 164,
+      "startMs": 1005400,
+      "endMs": 1010040,
+      "en": "Wildberries became one of our main sales channels.",
+      "zh": "Wildberries已经成为我们的主要销售渠道之一。"
+    },
+    {
+      "id": 165,
+      "startMs": 1010280,
+      "endMs": 1014520,
+      "en": "There, our sweets can be shipped to different cities across Russia and to neighbouring countries.",
+      "zh": "通过这个平台，我们的糖果可以运往俄罗斯各地城市和邻国。"
     },
     {
       "id": 166,
-      "startMs": 995480,
-      "endMs": 1005320,
-      "en": "Margarita owns a small business selling confectionery across Russia. The strikes on the Elektrostal plant cost her business thousands of dollars.",
-      "zh": "玛格丽塔在俄罗斯各地经营一家销售糖果的小企业。对叶列克斯塔尔工厂的袭击让她的生意损失了数千美元。"
-    },
-    {
-      "id": 167,
-      "startMs": 1005400,
-      "endMs": 1014520,
-      "en": "Wildberries for us at that moment became one of our main sales channels. There, our sweets can be shipped to different cities across Russia and to neighbouring countries.",
-      "zh": "那时，Wildberries 成了我们最主要的销售渠道之一。我们的糖果可以通过那里运往俄罗斯各地的城市以及邻国。"
-    },
-    {
-      "id": 168,
       "startMs": 1014920,
       "endMs": 1017720,
       "en": "But now we need to change our approach due to recent events.",
-      "zh": "但由于最近发生的事情，我们现在需要改变做法。"
+      "zh": "但由于近期发生的事件，我们现在必须调整经营方式。"
     },
     {
-      "id": 169,
+      "id": 167,
       "startMs": 1017720,
       "endMs": 1023240,
       "en": "The strikes on the retailer, Russia's equivalent of Amazon,",
-      "zh": "对这家相当于俄罗斯亚马逊的零售商发动的袭击，"
+      "zh": "这家被称为“俄罗斯版亚马逊”的零售商遭到打击，"
     },
     {
-      "id": 170,
+      "id": 168,
       "startMs": 1023560,
       "endMs": 1030520,
       "en": "are part of a recent Ukrainian campaign of long-range drone strikes targeting critical infrastructure deep inside Russia.",
-      "zh": "是乌克兰近期远程无人机打击行动的一部分；行动目标是俄罗斯腹地的关键基础设施。"
+      "zh": "是乌克兰近期远程无人机行动的一部分；该行动瞄准俄罗斯腹地的关键基础设施。"
+    },
+    {
+      "id": 169,
+      "startMs": 1032720,
+      "endMs": 1037920,
+      "en": "A plan, President Zelenskyy says, that is aimed at ‘bringing the war back to Russia’.",
+      "zh": "泽连斯基总统表示，这项计划旨在“把战争带回俄罗斯”。"
+    },
+    {
+      "id": 170,
+      "startMs": 1038000,
+      "endMs": 1046640,
+      "en": "Often thousands of kilometres from the front lines, the drone attacks have disrupted daily life.",
+      "zh": "这些无人机袭击往往发生在距离前线数千公里的地方，扰乱了日常生活。"
     },
     {
       "id": 171,
-      "startMs": 1032720,
-      "endMs": 1037920,
-      "en": "A plan, President Zelenskyy says, that is aimed at bringing the war back to Russia.",
-      "zh": "泽连斯基总统说，这项计划旨在把战争带回俄罗斯。"
+      "startMs": 1046800,
+      "endMs": 1050960,
+      "en": "They also remind Russians of a war that Moscow launched over four years ago.",
+      "zh": "这些袭击也提醒俄罗斯人，这场战争是莫斯科在四年多前发动的。"
     },
     {
       "id": 172,
-      "startMs": 1038000,
-      "endMs": 1050960,
-      "en": "Often thousands of kilometres from the front lines, the drone attacks have disrupted daily life and remind Russians of a war that Moscow launched over four years ago.",
-      "zh": "这些无人机袭击往往发生在距离前线数千公里的地方，却打乱了日常生活，也提醒俄罗斯人：这场战争是莫斯科四年多前发动的。"
-    },
-    {
-      "id": 173,
       "startMs": 1051440,
       "endMs": 1054000,
       "en": "Polina is a teacher in Moscow.",
       "zh": "波琳娜是莫斯科的一名教师。"
     },
     {
-      "id": 174,
+      "id": 173,
       "startMs": 1054480,
-      "endMs": 1062400,
-      "en": "Now that we know that a drone can hit our apartments, we feel scared for us, for our lives, for our relatives, you know,",
-      "zh": "现在我们知道无人机可能击中我们的公寓，我们为自己、为我们的生命、为我们的亲人感到害怕，你知道，"
+      "endMs": 1062000,
+      "en": "Now that we know that a drone can hit our apartments, we feel scared for us, for our lives, for our relatives.",
+      "zh": "如今我们知道无人机可能击中自己的公寓，所以会担心自己、自己的生命和亲人的安全。"
+    },
+    {
+      "id": 174,
+      "startMs": 1062000,
+      "endMs": 1066240,
+      "en": "You know, and we feel that the war is closer than ever.",
+      "zh": "你知道，我们觉得战争比以往任何时候都更近。"
     },
     {
       "id": 175,
-      "startMs": 1062480,
-      "endMs": 1066240,
-      "en": "and we feel that the war is closer than ever.",
-      "zh": "我们觉得战争比以往任何时候都更近。"
+      "startMs": 1066640,
+      "endMs": 1072240,
+      "en": "These strikes are much less frequent than Russia's daily drone and missile attacks across Ukraine.",
+      "zh": "这些打击的频率远低于俄罗斯每天对乌克兰各地发动的无人机和导弹袭击。"
     },
     {
       "id": 176,
-      "startMs": 1066640,
-      "endMs": 1072240,
-      "en": "Though the strikes are much less frequent than Russia's daily drone and missile attacks across Ukraine,",
-      "zh": "尽管这些袭击远没有俄罗斯每天对乌克兰各地发动的无人机和导弹袭击频繁，"
+      "startMs": 1072320,
+      "endMs": 1076560,
+      "en": "In Ukraine, however, civilian deaths in July were at their highest since the first few months of the war.",
+      "zh": "然而，乌克兰7月的平民死亡人数已升至战争最初几个月以来的最高水平。"
     },
     {
       "id": 177,
-      "startMs": 1072320,
-      "endMs": 1076560,
-      "en": "where civilian deaths in July were at their highest since the first few months of the war,",
-      "zh": "而乌克兰七月的平民死亡人数达到了战争头几个月以来的最高水平，"
-    },
-    {
-      "id": 178,
       "startMs": 1076960,
       "endMs": 1081120,
       "en": "Polina said the situation in the Russian capital is becoming more and more difficult.",
-      "zh": "波琳娜说，俄罗斯首都的情况正变得越来越困难。"
+      "zh": "波琳娜表示，俄罗斯首都的处境正变得越来越困难。"
     },
     {
-      "id": 179,
+      "id": 178,
       "startMs": 1083200,
       "endMs": 1089600,
       "en": "In Russia's Kursk region, closer to the Ukrainian border, the situation is far more perilous.",
-      "zh": "在距离乌克兰边境更近的俄罗斯库尔斯克地区，情况要危险得多。"
+      "zh": "在更靠近乌克兰边境的俄罗斯库尔斯克地区，情况要危险得多。"
+    },
+    {
+      "id": 179,
+      "startMs": 1089920,
+      "endMs": 1096640,
+      "en": "People drive around at 150 kilometres per hour, even though the speed limit on most roads is 90.",
+      "zh": "当地人会以每小时150公里的速度驾车，尽管大多数道路的限速是每小时90公里。"
     },
     {
       "id": 180,
-      "startMs": 1089920,
-      "endMs": 1096640,
-      "en": "People drive around at 150 km/h, even though the speed limit on most roads is 90,",
-      "zh": "人们以每小时 150 公里的速度驾车，尽管大多数道路的限速是 90 公里，"
+      "startMs": 1096960,
+      "endMs": 1101920,
+      "en": "This is because it's believed that driving that fast can reduce the probability of a drone hitting your car.",
+      "zh": "这是因为人们相信，开得这么快可以降低汽车被无人机击中的概率。"
     },
     {
       "id": 181,
-      "startMs": 1096960,
-      "endMs": 1101920,
-      "en": "because it's believed that driving that fast can reduce the probability of a drone hitting your car.",
-      "zh": "因为人们相信，开得这么快可以降低无人机击中汽车的概率。"
+      "startMs": 1101920,
+      "endMs": 1108320,
+      "en": "Nikolai is a Kursk resident and lives just an hour's drive away from the Russia-Ukraine border.",
+      "zh": "尼古拉是库尔斯克居民，住处距离俄乌边境只有约一小时车程。"
     },
     {
       "id": 182,
-      "startMs": 1101920,
-      "endMs": 1108320,
-      "en": "Nikolay is a Kursk resident and lives just an hour's drive away from the Russia-Ukraine border.",
-      "zh": "尼古拉是库尔斯克居民，住在距离俄乌边境仅一小时车程的地方。"
-    },
-    {
-      "id": 183,
       "startMs": 1108640,
       "endMs": 1115760,
       "en": "There, communications are heavily restricted, he says, and until recently, getting fuel had become a real struggle.",
-      "zh": "他说，那里通信受到严格限制，而且直到最近，加油一直是个大难题。"
+      "zh": "他表示，当地通信受到严格限制，而且直到最近，加油都非常困难。"
+    },
+    {
+      "id": 183,
+      "startMs": 1115760,
+      "endMs": 1119760,
+      "en": "I stood in line for two hours to get fuel.",
+      "zh": "我排了两个小时的队才加到油。"
     },
     {
       "id": 184,
-      "startMs": 1115760,
+      "startMs": 1119920,
       "endMs": 1121920,
-      "en": "I stood in line for two hours to get fuel. There were also limits on how much you can get.",
-      "zh": "我排了两个小时的队才加到油。而且加油量也有限制。"
+      "en": "There were also limits on how much you could get.",
+      "zh": "加油量也受到限制。"
     },
     {
       "id": 185,
       "startMs": 1122080,
       "endMs": 1126720,
-      "en": "Then later they introduced a different restriction based on license plate numbers.",
-      "zh": "后来，他们又根据车牌号码引入了另一种限制。"
+      "en": "Then later, they introduced a different restriction based on licence plate numbers.",
+      "zh": "后来，当地又根据车牌号码实施了另一种限制。"
     },
     {
       "id": 186,
       "startMs": 1126880,
-      "endMs": 1134080,
-      "en": "If your plate ends in an even number, you can fill up on even-numbered days; odd number, then on odd-numbered days.",
-      "zh": "如果车牌号码以偶数结尾，就只能在偶数日加油；以奇数结尾，就只能在奇数日加油。"
+      "endMs": 1131120,
+      "en": "If your plate ends in an even number, you can fill up on even-numbered days.",
+      "zh": "如果车牌尾号是偶数，就可以在偶数日期加油。"
     },
     {
       "id": 187,
-      "startMs": 1134800,
-      "endMs": 1141200,
-      "en": "Ukrainian drones have struck nearly all of Russia's major oil refineries, sparking a fuel crisis across the country.",
-      "zh": "乌克兰无人机袭击了俄罗斯几乎所有主要炼油厂，在全国引发了燃油危机。"
+      "startMs": 1131760,
+      "endMs": 1134080,
+      "en": "Odd number, then on odd-numbered days.",
+      "zh": "尾号是奇数，则在奇数日期加油。"
     },
     {
       "id": 188,
-      "startMs": 1141440,
-      "endMs": 1145220,
-      "en": "The attacks have also led to price rises, Polina says.",
-      "zh": "波琳娜说，这些袭击还导致价格上涨。"
+      "startMs": 1134800,
+      "endMs": 1141200,
+      "en": "Ukrainian drones have struck nearly all of Russia's major oil refineries, sparking a fuel crisis across the country.",
+      "zh": "乌克兰无人机已经袭击俄罗斯几乎所有主要炼油厂，在全国引发燃油危机。"
     },
     {
       "id": 189,
-      "startMs": 1145380,
-      "endMs": 1151380,
-      "en": "Everything is becoming more and more expensive, so people have to save money.",
-      "zh": "一切都变得越来越贵，所以人们不得不省钱。"
+      "startMs": 1141440,
+      "endMs": 1145220,
+      "en": "The attacks have also led to price rises, Polina says.",
+      "zh": "波琳娜表示，这些袭击还导致了物价上涨。"
     },
     {
       "id": 190,
-      "startMs": 1151380,
-      "endMs": 1160260,
-      "en": "People I know, they used to travel abroad, but now they go somewhere to Krasnodar Krai, for example, because they don't have money.",
-      "zh": "我认识的人以前会出国旅行，但现在他们会去克拉斯诺达尔边疆区之类的地方，因为他们没钱了。"
+      "startMs": 1145380,
+      "endMs": 1151380,
+      "en": "Everything is becoming more and more expensive, so people have to save money.",
+      "zh": "所有东西都越来越贵，人们不得不省钱。"
     },
     {
       "id": 191,
-      "startMs": 1160580,
-      "endMs": 1162980,
-      "en": "Travel, too, has become more problematic.",
-      "zh": "旅行也变得更加麻烦。"
+      "startMs": 1151380,
+      "endMs": 1160260,
+      "en": "People I know, they used to travel abroad, but now they go somewhere like Krasnodarsky Krai, for example, because they don't have money.",
+      "zh": "我认识的人过去会出国旅行，但现在因为没钱，只能去克拉斯诺达尔边疆区之类的地方。"
     },
     {
       "id": 192,
-      "startMs": 1163220,
-      "endMs": 1169140,
-      "en": "Mira, a St Petersburg resident, remembers a trip she took to the southern Russian city of Sochi late last year.",
-      "zh": "圣彼得堡居民米拉记得，去年年底她曾去俄罗斯南部城市索契旅行。"
+      "startMs": 1160580,
+      "endMs": 1162980,
+      "en": "Travel, too, has become more problematic.",
+      "zh": "出行也变得更加麻烦。"
     },
     {
       "id": 193,
-      "startMs": 1169220,
-      "endMs": 1174580,
-      "en": "Due to the drones, the situation in the air wasn't safe.",
-      "zh": "由于无人机，空中交通状况并不安全。"
+      "startMs": 1163220,
+      "endMs": 1169140,
+      "en": "Mira, a St Petersburg resident, remembers a trip she took to the southern Russian city of Sochi late last year.",
+      "zh": "圣彼得堡居民米拉回忆起去年年底前往俄罗斯南部城市索契的一次旅行。"
     },
     {
       "id": 194,
-      "startMs": 1174740,
-      "endMs": 1181460,
-      "en": "So in the end, I spent a sleepless night at the airport waiting for another flight to Sochi. Basically, this is our reality now.",
-      "zh": "所以最后，我在机场彻夜未眠，等待另一趟飞往索契的航班。基本上，这就是我们现在的现实。"
+      "startMs": 1169220,
+      "endMs": 1174580,
+      "en": "Due to the drones, the situation in the air wasn't safe.",
+      "zh": "由于有无人机活动，当时的空中状况并不安全。"
     },
     {
       "id": 195,
-      "startMs": 1181460,
-      "endMs": 1190820,
-      "en": "But rather than point fingers, the people I spoke to said that most are quietly adjusting to what is quickly becoming a new reality.",
-      "zh": "不过，我采访的人并没有相互指责，他们说大多数人正默默适应这个迅速成为新现实的局面。"
+      "startMs": 1174740,
+      "endMs": 1179540,
+      "en": "So in the end, I spent a sleepless night at the airport waiting for another flight to Sochi.",
+      "zh": "所以最后，我在机场彻夜未眠，等待另一班飞往索契的航班。"
     },
     {
       "id": 196,
-      "startMs": 1191060,
-      "endMs": 1192100,
-      "en": "Nikolay again.",
-      "zh": "尼古拉再次说道。"
+      "startMs": 1179540,
+      "endMs": 1181460,
+      "en": "Basically, this is our reality now.",
+      "zh": "基本上，这就是我们如今的现实。"
     },
     {
       "id": 197,
-      "startMs": 1192340,
-      "endMs": 1196980,
-      "en": "People have already gotten used to things. At this point, nothing can really surprise them.",
-      "zh": "人们已经习惯了这些事情。到了这个阶段，几乎没有什么能真正让他们感到意外。"
+      "startMs": 1181460,
+      "endMs": 1190820,
+      "en": "But rather than point fingers, the people I spoke to said that most are quietly adjusting to what is quickly becoming a new reality.",
+      "zh": "不过，我采访的人没有相互指责，而是说，大多数人正在默默适应这个迅速形成的新现实。"
     },
     {
       "id": 198,
+      "startMs": 1191140,
+      "endMs": 1192100,
+      "en": "Nikolai again.",
+      "zh": "再来听尼古拉。"
+    },
+    {
+      "id": 199,
+      "startMs": 1192340,
+      "endMs": 1194980,
+      "en": "People have already gotten used to things.",
+      "zh": "人们已经习惯了这些事情。"
+    },
+    {
+      "id": 200,
+      "startMs": 1194980,
+      "endMs": 1196980,
+      "en": "At this point, nothing can really surprise them.",
+      "zh": "到了这个时候，已经没有什么能真正让他们感到惊讶。"
+    },
+    {
+      "id": 201,
       "startMs": 1197060,
       "endMs": 1200480,
       "en": "A sentiment also shared by Mira.",
       "zh": "米拉也有同样的感受。"
     },
     {
-      "id": 199,
+      "id": 202,
       "startMs": 1201040,
       "endMs": 1209360,
       "en": "Everyone knows what's causing the issue, and everyone knows that it's not going to end tomorrow.",
-      "zh": "每个人都知道问题的原因，也都知道它不会明天就结束。"
-    },
-    {
-      "id": 200,
-      "startMs": 1209600,
-      "endMs": 1212480,
-      "en": "So I think we've reached a certain stage of acceptance.",
-      "zh": "所以我觉得，我们已经到达了某种接受阶段。"
-    },
-    {
-      "id": 201,
-      "startMs": 1212640,
-      "endMs": 1215360,
-      "en": "First is denial, then anger, then depression.",
-      "zh": "首先是否认，然后是愤怒，再然后是抑郁。"
-    },
-    {
-      "id": 202,
-      "startMs": 1215840,
-      "endMs": 1217920,
-      "en": "Well, I think we've reached the depression stage now.",
-      "zh": "嗯，我觉得我们现在已经到了抑郁阶段。"
+      "zh": "大家都知道问题的起因，也知道这一切不会明天就结束。"
     },
     {
       "id": 203,
-      "startMs": 1217920,
-      "endMs": 1222720,
-      "en": "That report by James Beardsworth.",
-      "zh": "以上报道来自詹姆斯·比尔兹沃思。"
+      "startMs": 1209600,
+      "endMs": 1212480,
+      "en": "So I think we've reached a certain stage of acceptance.",
+      "zh": "所以我认为，我们已经到达了某种接受现实的阶段。"
     },
     {
       "id": 204,
-      "startMs": 1223520,
-      "endMs": 1227680,
-      "en": "Following the surge of migrants to the Spanish North African territory of Ceuta,",
-      "zh": "随着移民涌入西班牙在北非的领地休达，"
+      "startMs": 1212640,
+      "endMs": 1215360,
+      "en": "First is denial, then anger, then depression.",
+      "zh": "先是否认，然后是愤怒，接着是抑郁。"
     },
     {
       "id": 205,
-      "startMs": 1228160,
-      "endMs": 1235040,
-      "en": "the BBC has identified dozens of Instagram profiles promoting positive content about crossing there from Morocco.",
-      "zh": "BBC 发现了数十个 Instagram 账号，发布从摩洛哥前往那里的正面宣传内容。"
+      "startMs": 1215840,
+      "endMs": 1217920,
+      "en": "Well, I think we've reached the depression stage.",
+      "zh": "嗯，我认为我们已经到了抑郁阶段。"
     },
     {
       "id": 206,
-      "startMs": 1235600,
-      "endMs": 1241680,
-      "en": "Some of them offer assistance to migrants in exchange for a fee, and suggest further attempts will be made this weekend.",
-      "zh": "其中一些账号向移民收费提供帮助，并暗示本周末还会有更多尝试。"
+      "startMs": 1217920,
+      "endMs": 1222720,
+      "en": "That report by James Beardsworth.",
+      "zh": "以上是詹姆斯·比尔兹沃思的报道。"
     },
     {
       "id": 207,
-      "startMs": 1242080,
-      "endMs": 1245680,
-      "en": "Our disinformation correspondent Marianna Spring has been investigating.",
-      "zh": "我们的虚假信息事务记者玛丽安娜·斯普林对此进行了调查。"
+      "startMs": 1223520,
+      "endMs": 1227680,
+      "en": "Following the surge of migrants to the Spanish North African territory of Ceuta,",
+      "zh": "在移民大量涌入西班牙北非属地休达之后，"
     },
     {
       "id": 208,
-      "startMs": 1246320,
-      "endMs": 1252160,
-      "en": "Mohammed wants to travel from Morocco to the neighbouring Spanish territory of Ceuta on the northern tip of Africa.",
-      "zh": "穆罕默德想从摩洛哥前往非洲北端、邻近的西班牙领地休达。"
+      "startMs": 1228160,
+      "endMs": 1235040,
+      "en": "the BBC has identified dozens of Instagram profiles promoting positive content about crossing there from Morocco.",
+      "zh": "BBC发现了数十个Instagram账号，它们发布美化从摩洛哥越境前往休达的内容。"
     },
     {
       "id": 209,
-      "startMs": 1252940,
-      "endMs": 1260860,
-      "en": "He's a Moroccan man in his twenties and wants to emigrate to Europe, not least because he's been seeing lots of videos on Instagram that make the trip look easy.",
-      "zh": "他是一名二十多岁的摩洛哥男子，想移民欧洲，尤其是因为他在 Instagram 上看到许多把这段旅程描绘得很容易的视频。"
+      "startMs": 1235600,
+      "endMs": 1241680,
+      "en": "Some of them offer assistance to migrants in exchange for a fee and suggest further attempts will be made this weekend.",
+      "zh": "其中一些账号收费向移民提供协助，并暗示本周末还会有人尝试越境。"
     },
     {
       "id": 210,
-      "startMs": 1261260,
-      "endMs": 1270140,
-      "en": "He's contacted several of the Instagram accounts and one replies, claiming to have helped many people and offering him advice on how to cross for hundreds of pounds.",
-      "zh": "他联系了几个 Instagram 账号，其中一个回复称曾帮助过许多人，并提出收取数百英镑，向他提供如何越境的建议。"
+      "startMs": 1242080,
+      "endMs": 1245680,
+      "en": "Our disinformation correspondent Marianna Spring has been investigating.",
+      "zh": "本台虚假信息事务记者玛丽安娜·斯普林对此展开了调查。"
     },
     {
       "id": 211,
-      "startMs": 1270460,
-      "endMs": 1271740,
-      "en": "Except Mohammed isn't real;",
-      "zh": "但穆罕默德并不是真实的人；"
+      "startMs": 1246320,
+      "endMs": 1252160,
+      "en": "Mohamed wants to travel from Morocco to the neighbouring Spanish territory of Ceuta, on the northern tip of Africa.",
+      "zh": "穆罕默德想从摩洛哥前往邻近的西班牙属地休达，那里位于非洲北端。"
     },
     {
       "id": 212,
-      "startMs": 1272140,
-      "endMs": 1280300,
-      "en": "he's a dummy account the BBC set up to investigate a network of interconnected Instagram profiles that are helping to drive the influx of migrants to Ceuta.",
-      "zh": "这是 BBC 为调查一个相互关联的 Instagram 账号网络而设立的虚拟账号；该网络正在助推移民涌入休达。"
+      "startMs": 1252940,
+      "endMs": 1260860,
+      "en": "He's a Moroccan man in his twenties and wants to emigrate to Europe, not least because he's been seeing lots of videos on Instagram that make the trip look easy.",
+      "zh": "他是一名二十多岁的摩洛哥男子，想移民欧洲，一个重要原因是他在 Instagram 上看到大量把这段旅程描述得很轻松的视频。"
     },
     {
       "id": 213,
-      "startMs": 1280860,
-      "endMs": 1285740,
-      "en": "Last month, roughly 78,000 people crossed from Morocco by sea into Ceuta",
-      "zh": "上个月，大约有 78,000 人从摩洛哥乘船进入休达"
+      "startMs": 1261260,
+      "endMs": 1270140,
+      "en": "He's contacted several of the Instagram accounts, and one replies, claiming to have helped many people and offering him advice on how to cross for hundreds of pounds.",
+      "zh": "他联系了多个 Instagram 账号，其中一个回复称自己帮助过很多人，并提出收取数百英镑，为他提供如何越境的建议。"
     },
     {
       "id": 214,
-      "startMs": 1285980,
-      "endMs": 1289180,
-      "en": "in a matter of hours, scores of whom died in the attempt.",
-      "zh": "短短数小时内完成越境，其中有几十人在尝试中死亡。"
+      "startMs": 1270460,
+      "endMs": 1271740,
+      "en": "Except Mohamed isn't real.",
+      "zh": "但穆罕默德并非真人。"
     },
     {
       "id": 215,
-      "startMs": 1289660,
-      "endMs": 1295660,
-      "en": "The crisis has calmed since, but it sparked tensions between EU nations who share open borders.",
-      "zh": "此后危机有所缓和，但它在共享开放边界的欧盟国家之间引发了紧张关系。"
+      "startMs": 1272140,
+      "endMs": 1280380,
+      "en": "He's a dummy account the BBC set up to investigate a network of interconnected Instagram profiles that are helping to drive the influx of migrants to Ceuta.",
+      "zh": "这是BBC为调查一个相互关联的Instagram账号网络而设立的虚拟账号；该网络正在助推移民涌入休达。"
     },
     {
       "id": 216,
-      "startMs": 1296140,
-      "endMs": 1298460,
-      "en": "There's also been criticism of the Spanish government.",
-      "zh": "西班牙政府也受到了批评。"
+      "startMs": 1280780,
+      "endMs": 1289180,
+      "en": "Last month, roughly 78,000 people crossed from Morocco by sea into Ceuta in a matter of hours, scores of whom died in the attempt.",
+      "zh": "上个月，约有 7.8 万人在数小时内从摩洛哥渡海进入休达，其中数十人在尝试过程中丧生。"
     },
     {
       "id": 217,
-      "startMs": 1298700,
-      "endMs": 1302780,
-      "en": "The BBC's Top Comment podcast has identified dozens of Instagram profiles",
-      "zh": "BBC 的《Top Comment》播客发现了数十个 Instagram 账号"
+      "startMs": 1289660,
+      "endMs": 1295660,
+      "en": "The crisis has calmed since, but it sparked tensions between EU nations who share open borders.",
+      "zh": "此后危机已经缓和，但它引发了实行开放边界的欧盟国家之间的紧张关系。"
     },
     {
       "id": 218,
-      "startMs": 1303100,
-      "endMs": 1306780,
-      "en": "that portray the short swim around the Morocco-Ceuta border fence as safe and easy.",
-      "zh": "这些账号把绕过摩洛哥—休达边境围栏的短途游泳描绘得安全又容易。"
+      "startMs": 1296140,
+      "endMs": 1298460,
+      "en": "There's also been criticism of the Spanish government.",
+      "zh": "西班牙政府也受到批评。"
     },
     {
       "id": 219,
-      "startMs": 1307100,
-      "endMs": 1310700,
-      "en": "The accounts also wrongly portray Ceuta as a viable route to mainland Europe.",
-      "zh": "这些账号还错误地把休达描绘成前往欧洲大陆的可行路线。"
+      "startMs": 1298700,
+      "endMs": 1306780,
+      "en": "The BBC's Top Comment podcast has identified dozens of Instagram profiles that portray the short swim around the Morocco-Ceuta border fence as safe and easy.",
+      "zh": "BBC 的《Top Comment》播客发现了数十个 Instagram 账号，它们把绕过摩洛哥与休达边境围栏的短途游泳描述得既安全又容易。"
     },
     {
       "id": 220,
-      "startMs": 1311260,
-      "endMs": 1314720,
-      "en": "The BBC's research suggests these accounts have contributed to the influx,",
-      "zh": "BBC 的研究表明，这些账号助推了移民涌入，"
+      "startMs": 1307100,
+      "endMs": 1310700,
+      "en": "The accounts also wrongly portray Ceuta as a viable route to mainland Europe.",
+      "zh": "这些账号还错误地把休达描述成一条通往欧洲大陆的可行路线。"
     },
     {
       "id": 221,
-      "startMs": 1315040,
-      "endMs": 1322160,
-      "en": "alongside other factors, such as misinformation about changes to Spanish immigration law and allegations about weak border controls.",
-      "zh": "其他因素也起了作用，例如关于西班牙移民法变化的错误信息，以及边境管控薄弱的说法。"
+      "startMs": 1311260,
+      "endMs": 1314720,
+      "en": "The BBC's research suggests these accounts have contributed to the influx alongside other factors,",
+      "zh": "BBC的研究显示，这些账号与其他因素一道助推了移民涌入，"
     },
     {
       "id": 222,
-      "startMs": 1322480,
-      "endMs": 1327680,
-      "en": "Meta, which owns Instagram, told the BBC that it removes content that violates its policies,",
-      "zh": "拥有 Instagram 的 Meta 告诉 BBC，他们会删除违反平台政策的内容，"
+      "startMs": 1315040,
+      "endMs": 1322160,
+      "en": "such as misinformation about changes to Spanish immigration law and allegations about weak border controls.",
+      "zh": "例如有关西班牙移民法变更的虚假信息，以及对边境管控薄弱的指称。"
     },
     {
       "id": 223,
-      "startMs": 1327680,
+      "startMs": 1322480,
       "endMs": 1332400,
-      "en": "including content that offers to provide, facilitate, or seek human smuggling services.",
-      "zh": "包括提出提供、促成或寻求人口走私服务的内容。"
+      "en": "Meta, which owns Instagram, told the BBC that it removes content that violates its policies, including content that offers to provide, facilitate or seek human smuggling services.",
+      "zh": "Instagram 的母公司 Meta 告诉 BBC，它会删除违反其政策的内容，包括提供、协助或寻求人口走私服务的内容。"
     },
     {
       "id": 224,
       "startMs": 1333040,
-      "endMs": 1340400,
-      "en": "Marianna Spring. We end this podcast with a question about sporting prowess from our reporter Stephanie Prentice.",
-      "zh": "玛丽安娜·斯普林。我们以记者斯蒂芬妮·普伦蒂斯提出的一个体育能力问题结束本期节目。"
+      "endMs": 1334000,
+      "en": "Marianna Spring.",
+      "zh": "玛丽安娜·斯普林报道。"
     },
     {
       "id": 225,
-      "startMs": 1341040,
-      "endMs": 1351680,
-      "en": "Olly, so tell me, if you started training with a professional coach tomorrow morning, could you compete in the 2028 Olympics in Los Angeles?",
-      "zh": "奥利，告诉我，如果你明天早上开始接受专业教练训练，你能参加在洛杉矶举行的 2028 年奥运会吗？"
+      "startMs": 1334880,
+      "endMs": 1340400,
+      "en": "We end this podcast with a question about sporting prowess from our reporter Stephanie Prentice.",
+      "zh": "节目最后，本台记者斯蒂芬妮·普伦蒂斯带来一个有关运动能力的问题。"
     },
     {
       "id": 226,
-      "startMs": 1351680,
-      "endMs": 1355680,
-      "en": "I don't think I could. I'm not a big fan of athletics.",
-      "zh": "我觉得不能。我不太喜欢田径。"
+      "startMs": 1341040,
+      "endMs": 1351680,
+      "en": "Olly, so tell me, if you started training with a professional coach tomorrow morning, could you compete in the 2028 Olympics in Los Angeles?",
+      "zh": "奥利，告诉我，如果你从明天早上开始接受职业教练训练，你能参加 2028 年洛杉矶奥运会吗？"
     },
     {
       "id": 227,
-      "startMs": 1356080,
-      "endMs": 1360000,
-      "en": "I'm not very good at running or long jump or any of those things.",
-      "zh": "我不擅长跑步、跳远之类的项目。"
+      "startMs": 1351680,
+      "endMs": 1353520,
+      "en": "I don't think I could.",
+      "zh": "我觉得我做不到。"
     },
     {
       "id": 228,
-      "startMs": 1360000,
-      "endMs": 1364720,
-      "en": "My sport is football, but even there, I think I'd struggle to match the professionals.",
-      "zh": "我擅长的是足球，但即便如此，我觉得也很难达到职业运动员的水平。"
+      "startMs": 1353520,
+      "endMs": 1355680,
+      "en": "I'm not a big fan of athletics.",
+      "zh": "我不太喜欢田径。"
     },
     {
       "id": 229,
-      "startMs": 1365200,
-      "endMs": 1367600,
-      "en": "Why are you asking? Well, there is a reason for this.",
-      "zh": "你为什么这么问？嗯，这是有原因的。"
+      "startMs": 1356080,
+      "endMs": 1360000,
+      "en": "I'm not very good at running or long jump or any of those things.",
+      "zh": "我不太擅长跑步、跳远之类的项目。"
     },
     {
       "id": 230,
-      "startMs": 1367600,
-      "endMs": 1372960,
-      "en": "So a new piece of research surveyed 2,000 people in the UK, and it found",
-      "zh": "一项新的研究调查了英国 2,000 人，发现"
+      "startMs": 1360000,
+      "endMs": 1364720,
+      "en": "My sport is football, but even there, I think I'd struggle to match the professionals.",
+      "zh": "我擅长的运动是足球，但即便在这方面，我觉得自己也很难达到职业选手的水平。"
     },
     {
       "id": 231,
-      "startMs": 1372980,
-      "endMs": 1380980,
-      "en": "almost 40% of men thought they could compete in the next Olympics if they had professional training and a strict regime.",
-      "zh": "如果接受专业训练并严格遵守训练制度，近 40% 的男性认为自己能参加下一届奥运会。"
+      "startMs": 1365200,
+      "endMs": 1367600,
+      "en": "Why are you asking? Well, there is a reason for this.",
+      "zh": "你为什么这么问？嗯，这么问是有原因的。"
     },
     {
       "id": 232,
-      "startMs": 1381540,
-      "endMs": 1389940,
-      "en": "More than a quarter of those men also said they could not only compete, but they could beat a professional in their chosen sport if they tried.",
-      "zh": "其中超过四分之一的男性还表示，他们不仅能参赛，只要努力，还能在自己选择的项目上击败职业选手。"
+      "startMs": 1367600,
+      "endMs": 1372960,
+      "en": "So, a new piece of research, it surveyed 2,000 people in the UK, and it found:",
+      "zh": "一项新研究调查了英国 2,000 人，结果发现："
     },
     {
       "id": 233,
-      "startMs": 1390740,
-      "endMs": 1394100,
-      "en": "Not unlike you, a lot of them selected football as an area they could shine.",
-      "zh": "和你一样，很多人选择了自己可以大放异彩的足球。"
+      "startMs": 1372980,
+      "endMs": 1380980,
+      "en": "Almost 40% of men thought they could compete in the next Olympics if they had professional training and a strict regime.",
+      "zh": "近 40% 的男性认为，只要接受专业训练和严格的训练安排，他们就能参加下一届奥运会。"
     },
     {
       "id": 234,
-      "startMs": 1394500,
-      "endMs": 1397540,
-      "en": "That was followed by tennis, so, so far so British,",
-      "zh": "其次是网球——到目前为止还真是很英国，"
+      "startMs": 1381540,
+      "endMs": 1389940,
+      "en": "More than a quarter of those men also said they could not only compete, but they could beat a professional in their chosen sport if they tried.",
+      "zh": "这些男性中超过四分之一还表示，只要努力，他们不仅能参赛，还能在自己选择的项目中击败职业选手。"
     },
     {
       "id": 235,
-      "startMs": 1398100,
-      "endMs": 1404740,
-      "en": "and 12% of them backed themselves to do the 100-metre sprint in under 15 seconds.",
-      "zh": "还有 12% 的人相信自己能在 15 秒内完成 100 米短跑。"
+      "startMs": 1390740,
+      "endMs": 1394100,
+      "en": "Not unlike you, a lot of them selected football as an area they could shine.",
+      "zh": "和你差不多，许多人选择了足球，认为自己能在这个项目上大显身手。"
     },
     {
       "id": 236,
-      "startMs": 1404740,
-      "endMs": 1409060,
-      "en": "Now, people were more cautious on thriving in sports like gymnastics and diving,",
-      "zh": "当然，在体操、跳水等项目上，人们就谨慎得多，"
+      "startMs": 1394500,
+      "endMs": 1404740,
+      "en": "That was followed by tennis, so, so far so British, and 12% of them backed themselves to do the 100-metre sprint in under 15 seconds.",
+      "zh": "其次是网球——到这里都很有英国特色——另有 12% 的人相信自己能在 15 秒内跑完 100 米。"
     },
     {
       "id": 237,
-      "startMs": 1409060,
-      "endMs": 1416180,
-      "en": "but overall, a third of those asked said that confidence would be more important in achieving success than natural ability.",
-      "zh": "但总体而言，三分之一的受访者表示，自信对于取得成功比天赋更重要。"
+      "startMs": 1404740,
+      "endMs": 1409060,
+      "en": "Now, people were more cautious on thriving in sports like gymnastics and diving.",
+      "zh": "对于体操和跳水等项目，人们就谨慎得多。"
     },
     {
       "id": 238,
-      "startMs": 1416740,
-      "endMs": 1420340,
-      "en": "There is a related psychological term for this. It's the Dunning-Kruger effect.",
-      "zh": "这有一个相关的心理学术语，叫作邓宁—克鲁格效应。"
+      "startMs": 1409060,
+      "endMs": 1416180,
+      "en": "But overall, a third of those asked said that confidence would be more important in achieving success than natural ability.",
+      "zh": "但总体而言，三分之一的受访者表示，要取得成功，自信比天赋更重要。"
     },
     {
       "id": 239,
-      "startMs": 1420340,
-      "endMs": 1425780,
-      "en": "It's basically a bias where people with low ability or knowledge kind of overestimate their competence.",
-      "zh": "这基本上是一种偏差：能力或知识不足的人往往会高估自己的能力。"
+      "startMs": 1416740,
+      "endMs": 1420340,
+      "en": "There is a related psychological term for this. It's the Dunning-Kruger effect.",
+      "zh": "心理学中有一个与此相关的术语，叫作邓宁—克鲁格效应。"
     },
     {
       "id": 240,
-      "startMs": 1426260,
-      "endMs": 1435080,
-      "en": "So we put this to the test. We asked some people in and around the BBC whether they could make it to the next Olympics if they had that dedicated training.",
-      "zh": "所以我们进行了测试。我们询问 BBC 内外的一些人，如果接受那样专注的训练，他们能否参加下一届奥运会。"
+      "startMs": 1420340,
+      "endMs": 1425780,
+      "en": "It's basically a bias where people with low ability or knowledge kind of overestimate their competence.",
+      "zh": "这基本上是一种认知偏差：能力或知识水平较低的人往往会高估自己的能力。"
     },
     {
       "id": 241,
-      "startMs": 1436040,
-      "endMs": 1441240,
-      "en": "I think I could, yeah, especially someone like you said, if it's a professional coach. I think I could, yeah.",
-      "zh": "我觉得可以，真的。尤其像你说的，如果有专业教练的话，我觉得可以。"
+      "startMs": 1426260,
+      "endMs": 1427620,
+      "en": "So we put this to the test.",
+      "zh": "所以我们对此进行了测试。"
     },
     {
       "id": 242,
+      "startMs": 1427700,
+      "endMs": 1435080,
+      "en": "We asked some people in and around the BBC whether they could make it to the next Olympics if they had that dedicated training.",
+      "zh": "我们询问了 BBC 内外的一些人，如果接受这种全身心投入的训练，他们能否参加下一届奥运会。"
+    },
+    {
+      "id": 243,
+      "startMs": 1436040,
+      "endMs": 1441240,
+      "en": "I think I could, yeah. Especially if someone, like you said, is a professional coach. I think I could, yeah.",
+      "zh": "我觉得我可以。对，特别是如果像你说的，有专业教练来指导。我觉得我可以。"
+    },
+    {
+      "id": 244,
       "startMs": 1441980,
       "endMs": 1443180,
       "en": "What would you choose to compete in?",
       "zh": "你会选择参加什么项目？"
     },
     {
-      "id": 243,
+      "id": 245,
       "startMs": 1444060,
       "endMs": 1446140,
-      "en": "Probably 100 metres. 100 metres.",
-      "zh": "大概是 100 米。100 米。"
-    },
-    {
-      "id": 244,
-      "startMs": 1446460,
-      "endMs": 1449420,
-      "en": "How quickly could you do the 100 metres, you reckon, after all that training?",
-      "zh": "你觉得经过那样的训练后，能多快跑完 100 米？"
-    },
-    {
-      "id": 245,
-      "startMs": 1450060,
-      "endMs": 1452400,
-      "en": "Under 12. Yeah, 12 seconds.",
-      "zh": "不到 12 秒。对，12 秒。"
+      "en": "Probably 100 metres, 100 metres.",
+      "zh": "可能是 100 米，100 米。"
     },
     {
       "id": 246,
-      "startMs": 1453120,
-      "endMs": 1461760,
-      "en": "I always think that Olympians and sportspeople make it look easy, and so, no, I think it takes a lot longer than that to get good at something.",
-      "zh": "我总觉得奥运选手和运动员让一切看起来很容易，所以不，我认为要把一件事做好，需要的时间比那长得多。"
+      "startMs": 1446460,
+      "endMs": 1449420,
+      "en": "How quickly could you do the 100 metres, do you reckon, after all that training?",
+      "zh": "你觉得，经过那么多训练后，自己能用多长时间跑完 100 米？"
     },
     {
       "id": 247,
-      "startMs": 1462000,
-      "endMs": 1466000,
-      "en": "Well, of course, if I have time and if I have the right training, then probably yes, I can.",
-      "zh": "当然，如果我有时间，也接受了正确的训练，那我大概可以。"
+      "startMs": 1450060,
+      "endMs": 1452400,
+      "en": "Under 12, yeah, under 12 seconds.",
+      "zh": "12 秒以内，对，12 秒以内。"
     },
     {
       "id": 248,
-      "startMs": 1466320,
-      "endMs": 1470720,
-      "en": "I think men fancy themselves that they can do anything. This is confidence that I see in a lot of men,",
-      "zh": "我觉得男性往往自以为无所不能。我在很多男性身上看到的这种自信，"
+      "startMs": 1453120,
+      "endMs": 1461760,
+      "en": "I always think that Olympians and sports people make it look easy. And so, no, I think it takes a lot longer than that to get good at something.",
+      "zh": "我总觉得奥运选手和运动员把一切表现得很容易。所以不行，我认为要真正擅长一件事，需要的时间比那长得多。"
     },
     {
       "id": 249,
-      "startMs": 1470720,
-      "endMs": 1474000,
-      "en": "which just means that they think that everything is easy and that they can just do it.",
-      "zh": "其实只是意味着他们认为一切都很容易，自己随手就能做到。"
+      "startMs": 1462000,
+      "endMs": 1466000,
+      "en": "Well, of course, if I have time and if I have the right training, then probably yes, I can.",
+      "zh": "嗯，当然，如果我有时间，又能接受合适的训练，那我大概可以。"
     },
     {
       "id": 250,
-      "startMs": 1474320,
-      "endMs": 1475520,
-      "en": "Probably depends on the sport.",
-      "zh": "可能取决于具体项目。"
+      "startMs": 1466320,
+      "endMs": 1468560,
+      "en": "I think men fancy themselves that they can do anything.",
+      "zh": "我觉得男人自认为无所不能。"
     },
     {
       "id": 251,
-      "startMs": 1475520,
-      "endMs": 1477520,
-      "en": "I definitely couldn't beat a professional sprinter.",
-      "zh": "我肯定跑不过职业短跑运动员。"
+      "startMs": 1468560,
+      "endMs": 1474000,
+      "en": "There's this confidence that I see in a lot of men, which just means that they think that everything is easy and that they can just do it.",
+      "zh": "我在很多男人身上都看到这种自信，也就是说，他们觉得凡事都很容易，自己随手就能做到。"
     },
     {
       "id": 252,
-      "startMs": 1478640,
-      "endMs": 1483040,
-      "en": "Anything that you'd back yourself in? 2028 Olympics in Los Angeles? Hot.",
-      "zh": "有什么项目是你敢在 2028 年洛杉矶奥运会上挑战的吗？——很热。"
+      "startMs": 1474320,
+      "endMs": 1477520,
+      "en": "Probably depends on the sport. I definitely couldn't beat a professional sprinter.",
+      "zh": "可能要看是什么项目。我肯定赢不了职业短跑运动员。"
     },
     {
       "id": 253,
-      "startMs": 1483040,
-      "endMs": 1484960,
-      "en": "I don't do well in the heat.",
-      "zh": "我不擅长应对炎热天气。"
+      "startMs": 1478640,
+      "endMs": 1479920,
+      "en": "Anything that you back yourself in?",
+      "zh": "有什么项目是你觉得自己能行的吗？"
     },
     {
       "id": 254,
-      "startMs": 1485680,
-      "endMs": 1491360,
-      "en": "So a mixture there, but as you mentioned, this is all about misplaced confidence.",
-      "zh": "看来答案各不相同。不过正如你所说，这一切都和错置的自信有关。"
+      "startMs": 1479920,
+      "endMs": 1483040,
+      "en": "2028 Olympics in Los Angeles. Hot.",
+      "zh": "2028 年洛杉矶奥运会。很热。"
     },
     {
       "id": 255,
-      "startMs": 1492040,
-      "endMs": 1494840,
-      "en": "It is, and it's not the first time we've seen that.",
-      "zh": "确实，而且这不是我们第一次看到这种情况。"
+      "startMs": 1483040,
+      "endMs": 1484960,
+      "en": "Oh, I don't do well in the heat.",
+      "zh": "哦，我在炎热天气里表现不好。"
     },
     {
       "id": 256,
-      "startMs": 1494840,
-      "endMs": 1501960,
-      "en": "So there have been other studies where men, in particular, report feeling confident in their ability to do arguably quite difficult tasks.",
-      "zh": "其他研究也显示，男性尤其容易对自己完成某些明显相当困难的任务感到自信。"
+      "startMs": 1485680,
+      "endMs": 1491360,
+      "en": "So a mixture there, but as you mentioned, this is all about misplaced confidence.",
+      "zh": "大家的回答各不相同，不过正如你所说，这一切都与错位的自信有关。"
     },
     {
       "id": 257,
-      "startMs": 1502440,
-      "endMs": 1511640,
-      "en": "In the US, in 2021, there was a study that found that 22% of men surveyed thought they could beat a chimpanzee in a fight.",
-      "zh": "美国 2021 年有一项研究发现，接受调查的男性中有 22% 认为自己能在打斗中击败黑猩猩。"
+      "startMs": 1492040,
+      "endMs": 1494840,
+      "en": "It is, and it's not the first time we've seen that.",
+      "zh": "是的，而且这并不是我们第一次看到这种情况。"
     },
     {
       "id": 258,
-      "startMs": 1512440,
-      "endMs": 1516120,
-      "en": "Another one that you might remember went quite viral in 2023.",
-      "zh": "另一项你可能记得的研究在 2023 年引发了广泛传播。"
+      "startMs": 1494840,
+      "endMs": 1501960,
+      "en": "So there have been other studies where men in particular report feeling confident in their ability to do arguably quite difficult tasks.",
+      "zh": "还有其他研究显示，尤其是男性，会声称自己有信心完成一些可以说相当困难的任务。"
     },
     {
       "id": 259,
-      "startMs": 1516120,
-      "endMs": 1522360,
-      "en": "It found that half of men surveyed in the US said they could land a commercial plane in an emergency.",
-      "zh": "研究发现，美国受访男性中有一半表示，紧急情况下他们能让一架民航客机着陆。"
+      "startMs": 1502440,
+      "endMs": 1511640,
+      "en": "In the US, in 2021, there was a study that found that 22% of men surveyed thought they could beat a chimpanzee in a fight.",
+      "zh": "2021 年，美国一项研究发现，22% 的男性受访者认为自己能在搏斗中打败黑猩猩。"
     },
     {
       "id": 260,
-      "startMs": 1522760,
-      "endMs": 1528360,
-      "en": "A quick point worth noting: last year, a British team looked into gender differences in estimating ability.",
-      "zh": "有一点值得说明：一个英国团队去年研究了能力估计方面的性别差异。"
+      "startMs": 1512440,
+      "endMs": 1516120,
+      "en": "Another one that you might remember, it went quite viral in 2023.",
+      "zh": "你可能还记得另一项研究，它在 2023 年一度广为流传。"
     },
     {
       "id": 261,
-      "startMs": 1528360,
-      "endMs": 1533240,
-      "en": "It did find that men tend to overestimate themselves, but women tended to underestimate.",
-      "zh": "研究确实发现，男性往往高估自己，而女性则往往低估自己。"
+      "startMs": 1516120,
+      "endMs": 1522360,
+      "en": "It found that half of men surveyed in the US said they could land a commercial plane in an emergency.",
+      "zh": "该研究发现，一半的美国男性受访者表示，紧急情况下自己能让一架民航客机着陆。"
     },
     {
       "id": 262,
-      "startMs": 1533640,
-      "endMs": 1536920,
-      "en": "So there could be something to be said for having a bit more confidence sometimes,",
-      "zh": "所以，有时多一点自信或许是有道理的，"
+      "startMs": 1522760,
+      "endMs": 1528360,
+      "en": "A quick point worth noting: a British team that looked into gender differences in estimating ability—that was last year—",
+      "zh": "还有一点值得一提：去年，一个英国团队研究了能力自我评估中的性别差异——"
     },
     {
       "id": 263,
-      "startMs": 1537320,
-      "endMs": 1540840,
-      "en": "though maybe not, we can argue, when it comes to fighting a chimpanzee.",
-      "zh": "不过我们可以说，面对和黑猩猩搏斗这件事，也许就不必了。"
+      "startMs": 1528360,
+      "endMs": 1533240,
+      "en": "it did find that men tend to overestimate themselves, but women tended to underestimate.",
+      "zh": "研究确实发现，男性往往会高估自己，而女性则往往会低估自己。"
     },
     {
       "id": 264,
-      "startMs": 1541400,
-      "endMs": 1542440,
-      "en": "Stephanie Prentice.",
-      "zh": "斯蒂芬妮·普伦蒂斯。"
+      "startMs": 1533640,
+      "endMs": 1537960,
+      "en": "So there could be something to be said for having a bit more confidence sometimes, though maybe not.",
+      "zh": "所以有时候多一点自信也许确实有些道理，不过也未必。"
     },
     {
       "id": 265,
-      "startMs": 1544720,
-      "endMs": 1548800,
-      "en": "And that is all from us for now, but the Global News Podcast will be back very soon.",
-      "zh": "以上就是本期全部内容，《全球新闻播客》很快会再见。"
+      "startMs": 1538120,
+      "endMs": 1540840,
+      "en": "We can argue, when it comes to fighting a chimpanzee.",
+      "zh": "至少说到和黑猩猩搏斗时，这一点还有待商榷。"
     },
     {
       "id": 266,
-      "startMs": 1548880,
-      "endMs": 1552320,
-      "en": "This edition was mixed by Paul Mason. Our editor is Karen Martin.",
-      "zh": "本期由保罗·梅森混音，编辑是凯伦·马丁。"
+      "startMs": 1541400,
+      "endMs": 1542440,
+      "en": "Stephanie Prentice.",
+      "zh": "斯蒂芬妮·普伦蒂斯报道。"
     },
     {
       "id": 267,
+      "startMs": 1544720,
+      "endMs": 1546240,
+      "en": "And that is all from us for now.",
+      "zh": "以上就是本期节目的全部内容。"
+    },
+    {
+      "id": 268,
+      "startMs": 1546240,
+      "endMs": 1548800,
+      "en": "But the Global News Podcast will be back very soon.",
+      "zh": "《全球新闻播客》很快会再与大家见面。"
+    },
+    {
+      "id": 269,
+      "startMs": 1548880,
+      "endMs": 1550800,
+      "en": "This edition was mixed by Paul Mason.",
+      "zh": "本期节目由保罗·梅森完成混音。"
+    },
+    {
+      "id": 270,
+      "startMs": 1550800,
+      "endMs": 1552320,
+      "en": "Our editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 271,
       "startMs": 1552720,
+      "endMs": 1553600,
+      "en": "I'm Oliver Conway.",
+      "zh": "我是奥利弗·康韦。"
+    },
+    {
+      "id": 272,
+      "startMs": 1553760,
       "endMs": 1555040,
-      "en": "I'm Oliver Conway. Until next time, goodbye.",
-      "zh": "我是奥利弗·康威。下期再见。"
+      "en": "Until next time, goodbye.",
+      "zh": "下次再会。"
     }
   ]
 }
