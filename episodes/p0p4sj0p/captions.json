@@ -1,0 +1,1691 @@
+{
+  "metadata": {
+    "brand": "BBC NEWS",
+    "title": "Global News Podcast",
+    "episode": "16 August 2026"
+  },
+  "durationMs": 1444820,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3200,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是BBC世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4800,
+      "endMs": 6160,
+      "en": "Hello, I'm Oliver Conway.",
+      "zh": "大家好，我是奥利弗·康韦。"
+    },
+    {
+      "id": 3,
+      "startMs": 6160,
+      "endMs": 9680,
+      "en": "This edition is published in the early hours of Sunday, the 16th of August.",
+      "zh": "本期节目发布于8月16日星期日凌晨。"
+    },
+    {
+      "id": 4,
+      "startMs": 10080,
+      "endMs": 14800,
+      "en": "Almost 50 people have been confirmed dead after a powerful earthquake hit Indonesia.",
+      "zh": "印度尼西亚发生强烈地震，已确认近50人死亡。"
+    },
+    {
+      "id": 5,
+      "startMs": 15280,
+      "endMs": 19440,
+      "en": "Israel carries out its deadliest strikes in southern Lebanon for months.",
+      "zh": "以色列对黎巴嫩南部发动了数月来最致命的空袭。"
+    },
+    {
+      "id": 6,
+      "startMs": 19920,
+      "endMs": 26880,
+      "en": "And Moroccan police stop hundreds of migrants breaking into Ceuta, two weeks after tens of thousands rushed into the Spanish territory.",
+      "zh": "摩洛哥警方阻止数百名移民闯入休达；两周前，数以万计的移民曾涌入这片西班牙领地。"
+    },
+    {
+      "id": 7,
+      "startMs": 28800,
+      "endMs": 34400,
+      "en": "Also in this podcast: the good news is, as it is a dorsal fin, it didn't enter into a muscle.",
+      "zh": "本期节目还将谈到：好消息是，伤处在背鳍，所以弹丸没有进入肌肉。"
+    },
+    {
+      "id": 8,
+      "startMs": 34480,
+      "endMs": 37840,
+      "en": "We saw her hunting, depredating, feeding.",
+      "zh": "我们看到它仍在捕猎、抢食和进食。"
+    },
+    {
+      "id": 9,
+      "startMs": 38400,
+      "endMs": 43360,
+      "en": "An orca, known among the boat-sinking community, survives a pellet gun attack.",
+      "zh": "一头在“撞船圈”颇有名气的虎鲸，在弹丸枪袭击中幸存下来。"
+    },
+    {
+      "id": 10,
+      "startMs": 45740,
+      "endMs": 49020,
+      "en": "On Saturday morning, Indonesia was hit by a powerful earthquake.",
+      "zh": "星期六早晨，印度尼西亚遭遇强烈地震。"
+    },
+    {
+      "id": 11,
+      "startMs": 52640,
+      "endMs": 58640,
+      "en": "Buildings collapsed and people ran for safety as the magnitude 7.7 quake rocked the island of Flores.",
+      "zh": "7.7级地震撼动弗洛勒斯岛，建筑物倒塌，人们纷纷逃生。"
+    },
+    {
+      "id": 12,
+      "startMs": 58960,
+      "endMs": 65120,
+      "en": "At least 47 people died, but the number is expected to rise as rescuers continue to pick through the rubble.",
+      "zh": "至少47人死亡；随着救援人员继续搜寻废墟，死亡人数预计还会上升。"
+    },
+    {
+      "id": 13,
+      "startMs": 65440,
+      "endMs": 70160,
+      "en": "Many survivors spent the night in evacuation camps, while the injured are being treated in hospital.",
+      "zh": "许多幸存者在疏散营地过夜，伤者则正在医院接受治疗。"
+    },
+    {
+      "id": 14,
+      "startMs": 70900,
+      "endMs": 78100,
+      "en": "The wound on my head is getting better, but my leg still hurts.",
+      "zh": "我头上的伤已经好多了，但腿还在疼。"
+    },
+    {
+      "id": 15,
+      "startMs": 78180,
+      "endMs": 81140,
+      "en": "It was broken when the house collapsed on me.",
+      "zh": "房子塌在我身上时，我的腿被砸断了。"
+    },
+    {
+      "id": 16,
+      "startMs": 81940,
+      "endMs": 88660,
+      "en": "It was six in the morning. I was taking a shower and getting ready for work when the earthquake suddenly struck.",
+      "zh": "当时是早上六点。我正在洗澡，准备去上班，地震突然发生了。"
+    },
+    {
+      "id": 17,
+      "startMs": 89560,
+      "endMs": 92680,
+      "en": "My grandchild was outside, so I ran to save them.",
+      "zh": "我的孙辈当时在外面，所以我跑去救孩子。"
+    },
+    {
+      "id": 18,
+      "startMs": 93240,
+      "endMs": 99000,
+      "en": "I shielded my grandchild under my stomach, and I was the one who was hit when the house collapsed.",
+      "zh": "我把孙辈护在身下，房子倒塌时，受伤的是我。"
+    },
+    {
+      "id": 19,
+      "startMs": 99400,
+      "endMs": 103480,
+      "en": "A tsunami warning was issued, but lifted around three hours later.",
+      "zh": "当局一度发布海啸预警，但约三小时后解除。"
+    },
+    {
+      "id": 20,
+      "startMs": 103960,
+      "endMs": 108440,
+      "en": "Aftershocks included a magnitude 6.4 earthquake in North Sumatra.",
+      "zh": "余震包括北苏门答腊发生的一次6.4级地震。"
+    },
+    {
+      "id": 21,
+      "startMs": 109240,
+      "endMs": 115160,
+      "en": "BBC Indonesia's Astudestra Ajengrastri told us about the ongoing rescue operation.",
+      "zh": "BBC印尼语部的阿斯图德斯特拉·阿坚格拉斯特里向我们介绍了仍在进行的救援行动。"
+    },
+    {
+      "id": 22,
+      "startMs": 115640,
+      "endMs": 120920,
+      "en": "The local government has now been deploying their own local rescue teams,",
+      "zh": "当地政府目前已派出本地救援队，"
+    },
+    {
+      "id": 23,
+      "startMs": 121240,
+      "endMs": 127320,
+      "en": "and the national agency from Jakarta is now also deploying their resources to help with the local government.",
+      "zh": "雅加达的国家机构也正在调派资源，协助当地政府。"
+    },
+    {
+      "id": 24,
+      "startMs": 127320,
+      "endMs": 135160,
+      "en": "The search and evacuation process is still ongoing because several people are still stuck under the rubble.",
+      "zh": "搜救和疏散工作仍在继续，因为还有数人被困在废墟下。"
+    },
+    {
+      "id": 25,
+      "startMs": 135400,
+      "endMs": 146280,
+      "en": "But at the same time, the government is also increasingly focused on providing emergency shelters and aid, like clean water and food.",
+      "zh": "与此同时，政府也越来越注重提供应急住所，以及清洁饮水和食物等援助。"
+    },
+    {
+      "id": 26,
+      "startMs": 146760,
+      "endMs": 152300,
+      "en": "About 2,000 residents are now still evacuating independently.",
+      "zh": "目前仍有约2,000名居民在自行疏散。"
+    },
+    {
+      "id": 27,
+      "startMs": 152460,
+      "endMs": 159260,
+      "en": "So the plan is for the government now to provide more coordinated help for those people.",
+      "zh": "因此，政府现在计划为这些人提供更加协调有序的帮助。"
+    },
+    {
+      "id": 28,
+      "startMs": 159740,
+      "endMs": 163180,
+      "en": "And we heard more from our Southeast Asia correspondent, Jonathan Head.",
+      "zh": "本台东南亚事务记者乔纳森·黑德作了进一步介绍。"
+    },
+    {
+      "id": 29,
+      "startMs": 163660,
+      "endMs": 168060,
+      "en": "In this area, Flores, there aren't any big high-rise buildings, you know, large buildings.",
+      "zh": "在弗洛勒斯这一带，没有什么高层建筑，你知道，也没有大型建筑。"
+    },
+    {
+      "id": 30,
+      "startMs": 168300,
+      "endMs": 174220,
+      "en": "I mean, Maumere, which is the largest town on Flores and quite close to the epicentre, has only about 300,000 people.",
+      "zh": "我是说，毛梅雷是弗洛勒斯岛最大的城镇，离震中很近，人口也只有约30万。"
+    },
+    {
+      "id": 31,
+      "startMs": 174220,
+      "endMs": 177500,
+      "en": "But people who were outside or in public buildings—",
+      "zh": "但当时在户外或公共建筑里的人——"
+    },
+    {
+      "id": 32,
+      "startMs": 177500,
+      "endMs": 183420,
+      "en": "this is a Catholic part of Indonesia, so if there were people at Mass in the morning—",
+      "zh": "这里是印度尼西亚的天主教地区，所以早晨可能有人在做弥撒——"
+    },
+    {
+      "id": 33,
+      "startMs": 183420,
+      "endMs": 186460,
+      "en": "I mean, some of them were injured when roof tiles or roofs caved in.",
+      "zh": "我是说，其中一些人在屋瓦或屋顶坍塌时受了伤。"
+    },
+    {
+      "id": 34,
+      "startMs": 186700,
+      "endMs": 190860,
+      "en": "And people just rushed out because they know about earthquakes.",
+      "zh": "人们直接冲了出去，因为他们知道地震有多危险。"
+    },
+    {
+      "id": 35,
+      "startMs": 190940,
+      "endMs": 192700,
+      "en": "The first thing was to get out of buildings.",
+      "zh": "第一件事就是离开建筑物。"
+    },
+    {
+      "id": 36,
+      "startMs": 192700,
+      "endMs": 194620,
+      "en": "You know, buildings are not always very strong there.",
+      "zh": "你知道，那里的建筑并不总是很坚固。"
+    },
+    {
+      "id": 37,
+      "startMs": 194940,
+      "endMs": 200380,
+      "en": "We've seen videos of public buildings not quite collapsing, but large chunks of concrete coming down.",
+      "zh": "我们看到一些视频，公共建筑虽未完全倒塌，但大块混凝土掉了下来。"
+    },
+    {
+      "id": 38,
+      "startMs": 200700,
+      "endMs": 205580,
+      "en": "We saw videos from the port in Maumere, where a large ferry was docked, taking on passengers.",
+      "zh": "我们还看到毛梅雷港口的视频，一艘大型渡轮当时正靠港接载乘客。"
+    },
+    {
+      "id": 39,
+      "startMs": 205820,
+      "endMs": 210160,
+      "en": "People on the gangway there were thrown into the sea when the whole thing collapsed into the water.",
+      "zh": "整个舷梯坍入水中时，上面的人被抛进了海里。"
+    },
+    {
+      "id": 40,
+      "startMs": 210160,
+      "endMs": 213760,
+      "en": "And a lot of people got on motorbikes and started heading inland.",
+      "zh": "许多人骑上摩托车，开始向内陆转移。"
+    },
+    {
+      "id": 41,
+      "startMs": 213840,
+      "endMs": 215680,
+      "en": "And that's because there were tsunami warnings.",
+      "zh": "这是因为当时发布了海啸预警。"
+    },
+    {
+      "id": 42,
+      "startMs": 216080,
+      "endMs": 220320,
+      "en": "At 7.7, this was a very powerful earthquake in the sea to the north of Flores.",
+      "zh": "这次地震震级达到7.7级，发生在弗洛勒斯岛以北海域，威力非常强。"
+    },
+    {
+      "id": 43,
+      "startMs": 220720,
+      "endMs": 230720,
+      "en": "And people there have a strong collective memory of a catastrophic earthquake back in 1992, where more than 2,000 people died, almost entirely because of a tsunami—a very high one.",
+      "zh": "当地人对1992年的那场灾难性地震有着深刻的集体记忆。当时逾2,000人死亡，几乎全是因为一场巨大的海啸。"
+    },
+    {
+      "id": 44,
+      "startMs": 231040,
+      "endMs": 235760,
+      "en": "In this case, it didn't happen, and that probably minimised loss of life.",
+      "zh": "这一次海啸没有发生，因此可能减少了人员伤亡。"
+    },
+    {
+      "id": 45,
+      "startMs": 236160,
+      "endMs": 240320,
+      "en": "But as things stand, it was felt very widely all over Flores.",
+      "zh": "但就目前来看，弗洛勒斯岛各地都有强烈震感。"
+    },
+    {
+      "id": 46,
+      "startMs": 240720,
+      "endMs": 243360,
+      "en": "There are lots of small towns; it's a very mountainous area.",
+      "zh": "那里有许多小城镇，而且山地众多。"
+    },
+    {
+      "id": 47,
+      "startMs": 243760,
+      "endMs": 253920,
+      "en": "So it's taking Indonesia's very experienced search and rescue teams time to reach all the communities where buildings have collapsed and where there may be trapped people.",
+      "zh": "因此，即使是经验丰富的印度尼西亚搜救队，也需要时间才能抵达所有发生建筑倒塌、可能有人被困的社区。"
+    },
+    {
+      "id": 48,
+      "startMs": 254160,
+      "endMs": 255680,
+      "en": "There have been landslides on the roads.",
+      "zh": "道路上发生了山体滑坡。"
+    },
+    {
+      "id": 49,
+      "startMs": 255680,
+      "endMs": 259040,
+      "en": "The roads are not very good anyway, so a lot of places are cut off.",
+      "zh": "当地路况本来就不好，因此许多地方已经与外界隔绝。"
+    },
+    {
+      "id": 50,
+      "startMs": 259120,
+      "endMs": 266480,
+      "en": "And it's proving quite difficult both to reach those areas and to make a full assessment of exactly how bad the damage is.",
+      "zh": "事实证明，无论是抵达这些地区，还是全面评估灾情究竟有多严重，都相当困难。"
+    },
+    {
+      "id": 51,
+      "startMs": 266480,
+      "endMs": 269280,
+      "en": "But it looks—it's not catastrophic, but it's pretty bad.",
+      "zh": "不过看起来，灾情虽然算不上灾难性，却也相当严重。"
+    },
+    {
+      "id": 52,
+      "startMs": 269700,
+      "endMs": 275540,
+      "en": "This is a very poor region, and a lot of buildings are quite badly damaged, with a lot of houses uninhabitable.",
+      "zh": "这是一个非常贫困的地区，许多建筑严重受损，大量房屋已无法居住。"
+    },
+    {
+      "id": 53,
+      "startMs": 275860,
+      "endMs": 278180,
+      "en": "Our Southeast Asia correspondent, Jonathan Head.",
+      "zh": "以上是本台东南亚事务记者乔纳森·黑德的报道。"
+    },
+    {
+      "id": 54,
+      "startMs": 278820,
+      "endMs": 283780,
+      "en": "Israel has carried out its deadliest strikes in Lebanon for months, killing 11 people.",
+      "zh": "以色列对黎巴嫩发动了数月来最致命的空袭，造成11人死亡。"
+    },
+    {
+      "id": 55,
+      "startMs": 284180,
+      "endMs": 291940,
+      "en": "The Israeli government said it was targeting the Iran-backed group Hezbollah and argued the attack should help rather than hinder peace talks with Lebanon.",
+      "zh": "以色列政府称，其目标是伊朗支持的真主党，并辩称这次袭击应有助于、而非阻碍与黎巴嫩的和平谈判。"
+    },
+    {
+      "id": 56,
+      "startMs": 292500,
+      "endMs": 295540,
+      "en": "Doran Spielman is the Israeli Prime Minister's spokesman.",
+      "zh": "多兰·斯皮尔曼是以色列总理的发言人。"
+    },
+    {
+      "id": 57,
+      "startMs": 296260,
+      "endMs": 298580,
+      "en": "Hezbollah committed two major violations today.",
+      "zh": "真主党今天实施了两项重大违规行为。"
+    },
+    {
+      "id": 58,
+      "startMs": 298900,
+      "endMs": 304500,
+      "en": "They struck Israeli troops who are operating in the security zone, in contravention of the ceasefire agreement.",
+      "zh": "他们袭击了在安全区行动的以色列军队，违反了停火协议。"
+    },
+    {
+      "id": 59,
+      "startMs": 304820,
+      "endMs": 311220,
+      "en": "And then, when Israel responded, they moved civilians inside their terrorist headquarters.",
+      "zh": "随后，以色列作出回应时，他们把平民转移到了其所谓的恐怖组织总部内。"
+    },
+    {
+      "id": 60,
+      "startMs": 311620,
+      "endMs": 313940,
+      "en": "They used their own civilians as human shields.",
+      "zh": "他们把自己的平民当作人肉盾牌。"
+    },
+    {
+      "id": 61,
+      "startMs": 314180,
+      "endMs": 319460,
+      "en": "So that later on they could point at Israel and say that Israel is targeting civilians, which we are not doing.",
+      "zh": "这样他们日后就能指责以色列袭击平民，而我们并没有这样做。"
+    },
+    {
+      "id": 62,
+      "startMs": 320020,
+      "endMs": 327460,
+      "en": "But the Lebanese President, Joseph Aoun, condemned the attack, which came ahead of a planned eighth round of US-brokered negotiations.",
+      "zh": "但黎巴嫩总统约瑟夫·奥恩谴责了这次袭击；袭击发生在美国斡旋的第八轮谈判原定举行之前。"
+    },
+    {
+      "id": 63,
+      "startMs": 327860,
+      "endMs": 335560,
+      "en": "Hezbollah, which is not involved in the talks, has called on the Lebanese government to walk away and vowed to respond to the latest Israeli strikes.",
+      "zh": "未参与谈判的真主党已呼吁黎巴嫩政府退出谈判，并誓言回应以色列最新的空袭。"
+    },
+    {
+      "id": 64,
+      "startMs": 336040,
+      "endMs": 340040,
+      "en": "We heard more from Nada Homsi, a correspondent for The National in Beirut.",
+      "zh": "我们听取了《国民报》驻贝鲁特记者娜达·霍姆西的进一步介绍。"
+    },
+    {
+      "id": 65,
+      "startMs": 340600,
+      "endMs": 350120,
+      "en": "It is the single deadliest attack since June, when the ceasefire was renewed and the US-brokered framework agreement was signed.",
+      "zh": "这是自六月停火协议续签、美国斡旋的框架协议签署以来伤亡最严重的一次袭击。"
+    },
+    {
+      "id": 66,
+      "startMs": 350520,
+      "endMs": 358440,
+      "en": "As you said, 11 people were killed—five of them civilians, three children and two women, all from the same family.",
+      "zh": "正如你所说，共有11人死亡；其中五名平民来自同一个家庭，包括三名儿童和两名女性。"
+    },
+    {
+      "id": 67,
+      "startMs": 359080,
+      "endMs": 365320,
+      "en": "Israel says that it attacked infrastructure belonging to Hezbollah and that it targeted a Hezbollah military commander.",
+      "zh": "以色列称，其袭击了真主党的基础设施，并以一名真主党军事指挥官为目标。"
+    },
+    {
+      "id": 68,
+      "startMs": 365720,
+      "endMs": 370120,
+      "en": "But, of course, this drew a significantly harsh response from Lebanese authorities.",
+      "zh": "但这当然引发了黎巴嫩当局非常强烈的回应。"
+    },
+    {
+      "id": 69,
+      "startMs": 370360,
+      "endMs": 377720,
+      "en": "The Lebanese Prime Minister, uh, Nawaf Salam, responded today that women and children who were killed are not military targets.",
+      "zh": "黎巴嫩总理纳瓦夫·萨拉姆今天回应称，遇害的妇女和儿童并不是军事目标。"
+    },
+    {
+      "id": 70,
+      "startMs": 378200,
+      "endMs": 387320,
+      "en": "And he and the President both said that these strikes sent a clear message with regard to the negotiation process, which, by all accounts, is already stalled.",
+      "zh": "他和总统都表示，这些空袭就谈判进程传递了一个明确的信息；而据各方说法，该进程已经陷入停滞。"
+    },
+    {
+      "id": 71,
+      "startMs": 387320,
+      "endMs": 388920,
+      "en": "It is a little bit of a mess.",
+      "zh": "局面有些混乱。"
+    },
+    {
+      "id": 72,
+      "startMs": 389500,
+      "endMs": 400620,
+      "en": "A significant portion of people in Lebanon are very critical of this framework agreement because they don't have faith that—well, first of all, Hezbollah has flat out rejected it.",
+      "zh": "黎巴嫩相当一部分民众对这份框架协议非常不满，因为他们缺乏信心——嗯，首先，真主党已经断然拒绝了它。"
+    },
+    {
+      "id": 73,
+      "startMs": 400780,
+      "endMs": 409020,
+      "en": "Obviously, that complicates things. And then also, Israel doesn't exactly have a very good reputation for abiding by these kinds of agreements.",
+      "zh": "显然，这使局势更加复杂。此外，以色列在遵守这类协议方面的声誉也并不算好。"
+    },
+    {
+      "id": 74,
+      "startMs": 409020,
+      "endMs": 414300,
+      "en": "That's certainly the case for the 2024 ceasefire, and as we're seeing, it's the case now.",
+      "zh": "2024年的停火协议显然就是如此；而正如我们现在所见，当前情况也一样。"
+    },
+    {
+      "id": 75,
+      "startMs": 414700,
+      "endMs": 417180,
+      "en": "Nada Homsi in the Lebanese capital, Beirut.",
+      "zh": "娜达·霍姆西在黎巴嫩首都贝鲁特报道。"
+    },
+    {
+      "id": 76,
+      "startMs": 417900,
+      "endMs": 425580,
+      "en": "Just over two weeks ago, tens of thousands of people in Morocco forced their way into Ceuta, the Spanish territory at the tip of North Africa.",
+      "zh": "就在两个多星期前，数万人从摩洛哥强行进入了位于北非顶端的西班牙领土休达。"
+    },
+    {
+      "id": 77,
+      "startMs": 425980,
+      "endMs": 430220,
+      "en": "Around 100 people died trying to swim along the coast to bypass the border.",
+      "zh": "约有100人在试图沿海岸游泳绕过边境时死亡。"
+    },
+    {
+      "id": 78,
+      "startMs": 430780,
+      "endMs": 435900,
+      "en": "Since then, there've been fears there may be another attempt to rush the frontier and get into Europe.",
+      "zh": "自那以后，人们一直担心可能会再次有人冲击边境、进入欧洲。"
+    },
+    {
+      "id": 79,
+      "startMs": 436220,
+      "endMs": 441420,
+      "en": "But on Saturday, police in Morocco said they managed to stop hundreds trying to breach the border.",
+      "zh": "但摩洛哥警方周六表示，他们成功阻止了数百名试图突破边境的人。"
+    },
+    {
+      "id": 80,
+      "startMs": 441820,
+      "endMs": 444540,
+      "en": "Spain says it's fortified all points of entry.",
+      "zh": "西班牙表示，所有入境点都已加强防守。"
+    },
+    {
+      "id": 81,
+      "startMs": 444940,
+      "endMs": 447580,
+      "en": "Stephanie Prentice has been following this for us.",
+      "zh": "斯蒂芬妮·普伦蒂斯一直在为我们追踪此事。"
+    },
+    {
+      "id": 82,
+      "startMs": 447580,
+      "endMs": 449500,
+      "en": "So are things now under control in Ceuta?",
+      "zh": "那么，休达目前的局势是否已经得到控制？"
+    },
+    {
+      "id": 83,
+      "startMs": 449520,
+      "endMs": 453760,
+      "en": "You could say, in one way, yes, but more broadly, no.",
+      "zh": "从一个角度看可以说是，但从更广泛的层面看并不是。"
+    },
+    {
+      "id": 84,
+      "startMs": 454160,
+      "endMs": 461920,
+      "en": "So, as you mentioned, we saw this organised, robust response on Saturday to large groups of people moving close to the border.",
+      "zh": "正如你所说，我们看到当局周六有组织地作出强力应对，针对的是向边境靠近的大批人群。"
+    },
+    {
+      "id": 85,
+      "startMs": 462400,
+      "endMs": 464800,
+      "en": "Security forces were ready this time.",
+      "zh": "这一次，安全部队做好了准备。"
+    },
+    {
+      "id": 86,
+      "startMs": 464800,
+      "endMs": 474560,
+      "en": "There were people in the hills nearby, including some in riot gear, and reportedly officials used tear gas to disperse groups that were seen gathered on those nearby hills.",
+      "zh": "附近山丘上有人，其中一些人穿着防暴装备；据报道，官员使用催泪瓦斯驱散了聚集在那些山丘上的人群。"
+    },
+    {
+      "id": 87,
+      "startMs": 475120,
+      "endMs": 483600,
+      "en": "As well as that, officials had been monitoring social media, where we know that videos have been inciting crossings, making it seem easy to get there.",
+      "zh": "此外，官员一直在监控社交媒体；据我们所知，平台上的视频一直在煽动越境，让抵达那里看起来很容易。"
+    },
+    {
+      "id": 88,
+      "startMs": 484080,
+      "endMs": 488800,
+      "en": "And they say 60 people have been arrested for inciting illegal migration.",
+      "zh": "他们还表示，已有60人因煽动非法移民而被捕。"
+    },
+    {
+      "id": 89,
+      "startMs": 489520,
+      "endMs": 497840,
+      "en": "That is, of course, a stark contrast to the scenes we saw just weeks ago, where around 100 people died trying to reach the beaches.",
+      "zh": "这当然与几周前的景象形成鲜明对比；当时约有100人在试图抵达海滩时死亡。"
+    },
+    {
+      "id": 90,
+      "startMs": 498240,
+      "endMs": 500480,
+      "en": "Tens of thousands made it onto land.",
+      "zh": "数万人成功登岸。"
+    },
+    {
+      "id": 91,
+      "startMs": 500960,
+      "endMs": 505600,
+      "en": "So from a security perspective, yes, it's seemingly under control in Ceuta,",
+      "zh": "所以，从安全角度看，休达的局势似乎已经受到控制；"
+    },
+    {
+      "id": 92,
+      "startMs": 506000,
+      "endMs": 510340,
+      "en": "but the human impact on the ground from that first onslaught is ongoing,",
+      "zh": "但第一次大规模涌入造成的人道影响仍在持续，"
+    },
+    {
+      "id": 93,
+      "startMs": 510580,
+      "endMs": 514500,
+      "en": "and the wider geopolitical impact is also still being felt.",
+      "zh": "更广泛的地缘政治影响也依然存在。"
+    },
+    {
+      "id": 94,
+      "startMs": 514900,
+      "endMs": 523140,
+      "en": "Yeah, after that big breach, many thousands went back into Morocco, but quite a few remained in Ceuta.",
+      "zh": "是的，那次大规模越境后，数千人返回摩洛哥，但仍有相当一部分人留在休达。"
+    },
+    {
+      "id": 95,
+      "startMs": 523140,
+      "endMs": 524500,
+      "en": "What is the situation for them?",
+      "zh": "他们目前的处境如何？"
+    },
+    {
+      "id": 96,
+      "startMs": 525220,
+      "endMs": 532500,
+      "en": "Well, it's absolutely worth mentioning that Ceuta is small, so its population is around 85,000 people.",
+      "zh": "必须指出的是，休达面积很小，人口约为8.5万。"
+    },
+    {
+      "id": 97,
+      "startMs": 532980,
+      "endMs": 541700,
+      "en": "Some estimates of that initial breach say almost 80,000 migrants got into the territory, and as you said, many were returned to Morocco.",
+      "zh": "对最初那次越境的一些估计称，进入该地区的移民接近8万人；正如你所说，其中许多人已被送回摩洛哥。"
+    },
+    {
+      "id": 98,
+      "startMs": 542020,
+      "endMs": 549220,
+      "en": "But that mass crossing, which was mainly by sea, left thousands of migrants living in these shanty towns along the beach.",
+      "zh": "但那次主要经海路进行的大规模越境，使数千名移民住进了海滩沿线的简陋聚居区。"
+    },
+    {
+      "id": 99,
+      "startMs": 549540,
+      "endMs": 552100,
+      "en": "They're now overflowing with waste and rubbish.",
+      "zh": "这些聚居区如今堆满了废弃物和垃圾。"
+    },
+    {
+      "id": 100,
+      "startMs": 552500,
+      "endMs": 558340,
+      "en": "And we've seen unverified videos on social media of local people complaining about the social impact,",
+      "zh": "我们还看到社交媒体上未经核实的视频，当地居民抱怨其社会影响；"
+    },
+    {
+      "id": 101,
+      "startMs": 558740,
+      "endMs": 563620,
+      "en": "showing people begging for food, begging for money, and highlighting sanitation issues.",
+      "zh": "画面显示有人乞讨食物和钱财，并反映出卫生问题。"
+    },
+    {
+      "id": 102,
+      "startMs": 564180,
+      "endMs": 570520,
+      "en": "Now, some of the migrants still in Ceuta say they want to make asylum applications, but they're not being processed.",
+      "zh": "仍在休达的一些移民表示，他们希望提出庇护申请，但申请并未得到处理。"
+    },
+    {
+      "id": 103,
+      "startMs": 570840,
+      "endMs": 577560,
+      "en": "Mohamed Bargaoui is one of the men who managed to swim to Ceuta's shores after leaving his home in Casablanca.",
+      "zh": "穆罕默德·巴尔加维离开卡萨布兰卡的家后，成功游到休达海岸，是成功抵达者之一。"
+    },
+    {
+      "id": 104,
+      "startMs": 578040,
+      "endMs": 584280,
+      "en": "We don't know how long we're going to live like this. People are dying.",
+      "zh": "我们不知道还要这样生活多久。有人正在死去。"
+    },
+    {
+      "id": 105,
+      "startMs": 584440,
+      "endMs": 588440,
+      "en": "There are people who went without food for four days because they closed us in.",
+      "zh": "有人因为我们被封在这里，连续四天没有食物。"
+    },
+    {
+      "id": 106,
+      "startMs": 588440,
+      "endMs": 593400,
+      "en": "People are in a terrible condition. Some have diabetes, and some have been injured.",
+      "zh": "人们的状况非常糟糕。有些人患有糖尿病，还有些人受了伤。"
+    },
+    {
+      "id": 107,
+      "startMs": 593400,
+      "endMs": 598840,
+      "en": "They'd cut off the water from us. No food, no water, nothing.",
+      "zh": "他们切断了我们的供水。没有食物，没有水，什么都没有。"
+    },
+    {
+      "id": 108,
+      "startMs": 599480,
+      "endMs": 604120,
+      "en": "So there is this large-scale humanitarian issue. It's getting worse by the day.",
+      "zh": "因此，这里存在大规模人道问题，而且一天比一天严重。"
+    },
+    {
+      "id": 109,
+      "startMs": 604520,
+      "endMs": 607560,
+      "en": "The migrants left after that initial breach are in limbo,",
+      "zh": "最初那次越境后留下的移民进退两难，"
+    },
+    {
+      "id": 110,
+      "startMs": 607560,
+      "endMs": 612040,
+      "en": "while people who live in Ceuta are accusing Madrid of not doing enough to resolve this.",
+      "zh": "与此同时，休达居民指责马德里在解决问题上做得不够。"
+    },
+    {
+      "id": 111,
+      "startMs": 612680,
+      "endMs": 621320,
+      "en": "And authorities in Ceuta and Madrid are still going back and forth on issues like how to process unaccompanied minors now left in the territory.",
+      "zh": "休达和马德里的当局仍在反复磋商，包括如何安置目前留在该地区的无人陪伴未成年人。"
+    },
+    {
+      "id": 112,
+      "startMs": 621720,
+      "endMs": 629080,
+      "en": "And what's been the political fallout from all this? Because quite a few European governments are under pressure over immigration.",
+      "zh": "这一切造成了怎样的政治影响？因为相当多欧洲政府正因移民问题承受压力。"
+    },
+    {
+      "id": 113,
+      "startMs": 629900,
+      "endMs": 638300,
+      "en": "Yeah, so even though the crisis calmed down quite quickly after it happened in late July, that tension between the EU nations is still rumbling on.",
+      "zh": "是的，尽管这场7月下旬发生的危机很快缓和下来，但欧盟国家之间的紧张关系仍在持续。"
+    },
+    {
+      "id": 114,
+      "startMs": 638620,
+      "endMs": 641740,
+      "en": "A lot of criticism was aimed at the Spanish government.",
+      "zh": "西班牙政府受到了大量批评。"
+    },
+    {
+      "id": 115,
+      "startMs": 642060,
+      "endMs": 646140,
+      "en": "So Ceuta is one of two land borders of the European Union with Africa.",
+      "zh": "休达是欧盟与非洲接壤的两个陆地边界之一。"
+    },
+    {
+      "id": 116,
+      "startMs": 646540,
+      "endMs": 657020,
+      "en": "Many EU nations have open borders with Spain, and as we've seen recently, politically, there has been a wave of anti-migrant sentiment in certain EU countries.",
+      "zh": "许多欧盟国家与西班牙之间边境开放；正如我们近期在政治上所看到的，某些欧盟国家出现了一波反移民情绪。"
+    },
+    {
+      "id": 117,
+      "startMs": 657580,
+      "endMs": 663020,
+      "en": "Now Spain did come out strong, sent reinforcements of troops and created a maritime barrier.",
+      "zh": "西班牙确实采取了强硬行动，增派部队并设置海上屏障。"
+    },
+    {
+      "id": 118,
+      "startMs": 663340,
+      "endMs": 670060,
+      "en": "The Interior Minister said migrants who entered irregularly would not be allowed to get to mainland Spain, except in rare cases.",
+      "zh": "西班牙内政大臣表示，除极少数情况外，非正常入境的移民不会获准前往西班牙本土。"
+    },
+    {
+      "id": 119,
+      "startMs": 670620,
+      "endMs": 680300,
+      "en": "But we saw Italy respond: it suspended the 29-member Schengen arrangement of free movement with Spain and introduced border checks on arrivals from Spain.",
+      "zh": "但意大利作出回应：暂停了与西班牙之间由29个成员组成的申根自由流动安排，并对来自西班牙的入境人员实施边境检查。"
+    },
+    {
+      "id": 120,
+      "startMs": 680860,
+      "endMs": 683180,
+      "en": "It was backed up by Finland and Denmark.",
+      "zh": "芬兰和丹麦支持这一行动。"
+    },
+    {
+      "id": 121,
+      "startMs": 683580,
+      "endMs": 688300,
+      "en": "Separately, the Czech Republic called for Spain's membership to be temporarily suspended.",
+      "zh": "另据报道，捷克共和国呼吁暂时中止西班牙的成员资格。"
+    },
+    {
+      "id": 122,
+      "startMs": 689020,
+      "endMs": 695840,
+      "en": "Spain reacted to that, with Prime Minister Pedro Sánchez saying Ceuta was not part of the Schengen area, so...",
+      "zh": "西班牙对此作出回应，首相佩德罗·桑切斯表示休达并不属于申根区，所以……"
+    },
+    {
+      "id": 123,
+      "startMs": 696520,
+      "endMs": 701880,
+      "en": "It's all still ongoing, and while Brussels has backed Spain, those tensions undeniably remain.",
+      "zh": "事态仍在发展；尽管布鲁塞尔支持西班牙，但这些紧张关系无疑依然存在。"
+    },
+    {
+      "id": 124,
+      "startMs": 702200,
+      "endMs": 703400,
+      "en": "Stephanie Prentice.",
+      "zh": "斯蒂芬妮·普伦蒂斯。"
+    },
+    {
+      "id": 125,
+      "startMs": 705980,
+      "endMs": 712700,
+      "en": "Still to come on the podcast: When you wear a headdress, that's usually something that's gifted to you for an honour.",
+      "zh": "本期节目稍后还将报道：佩戴头饰通常意味着那是为表彰荣誉而赠予你的物品。"
+    },
+    {
+      "id": 126,
+      "startMs": 713100,
+      "endMs": 716220,
+      "en": "It's not something you can just go buy off Etsy.",
+      "zh": "它不是可以随便到Etsy上购买的东西。"
+    },
+    {
+      "id": 127,
+      "startMs": 716620,
+      "endMs": 719980,
+      "en": "Why beauty pageants in Canada are getting a dress code.",
+      "zh": "加拿大选美比赛为何开始制定着装规范。"
+    },
+    {
+      "id": 128,
+      "startMs": 727760,
+      "endMs": 730080,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 129,
+      "startMs": 730480,
+      "endMs": 738080,
+      "en": "Political parties in Zambia have been urged to tone down inflammatory language as counting continues after Thursday's election.",
+      "zh": "赞比亚星期四选举后的计票仍在继续，各政党被敦促缓和煽动性言论。"
+    },
+    {
+      "id": 130,
+      "startMs": 738560,
+      "endMs": 743520,
+      "en": "The count was briefly halted on Friday following reports of violence targeting election officials.",
+      "zh": "有报道称选举工作人员遭到暴力袭击后，计票工作于星期五一度暂停。"
+    },
+    {
+      "id": 131,
+      "startMs": 743920,
+      "endMs": 745680,
+      "en": "The result is now expected on Monday.",
+      "zh": "选举结果目前预计将于星期一公布。"
+    },
+    {
+      "id": 132,
+      "startMs": 746080,
+      "endMs": 751760,
+      "en": "International observers said the poll had been marred by intimidation, assaults and even abductions.",
+      "zh": "国际观察员表示，这次选举受到恐吓、袭击甚至绑架事件的影响。"
+    },
+    {
+      "id": 133,
+      "startMs": 752320,
+      "endMs": 755520,
+      "en": "As I heard from our global affairs reporter, Richard Kagoe.",
+      "zh": "本台全球事务记者理查德·卡戈向我介绍了情况。"
+    },
+    {
+      "id": 134,
+      "startMs": 755840,
+      "endMs": 759680,
+      "en": "We heard from the groups of regional and international observers.",
+      "zh": "我们听取了地区和国际观察团体的说法。"
+    },
+    {
+      "id": 135,
+      "startMs": 759680,
+      "endMs": 768640,
+      "en": "What they say is, they noted that on the day of the election and after the election, there were incidents of violence.",
+      "zh": "他们表示，观察到投票当天及选举结束后都发生了暴力事件。"
+    },
+    {
+      "id": 136,
+      "startMs": 768880,
+      "endMs": 774560,
+      "en": "So this involved destruction of property across five provinces in Zambia.",
+      "zh": "这些事件包括赞比亚五个省份发生的财产破坏。"
+    },
+    {
+      "id": 137,
+      "startMs": 775040,
+      "endMs": 779360,
+      "en": "There was also the targeting of election officials.",
+      "zh": "选举工作人员也成为了攻击目标。"
+    },
+    {
+      "id": 138,
+      "startMs": 779360,
+      "endMs": 787680,
+      "en": "And also, they say that there had been reports of people who had been abducted, and also people being intimidated.",
+      "zh": "他们还表示，有报道称一些人遭到绑架，另一些人受到恐吓。"
+    },
+    {
+      "id": 139,
+      "startMs": 787680,
+      "endMs": 800880,
+      "en": "In fact, the EU observer mission representative said that, you know, the election itself really took place within an atmosphere of constrained democratic space.",
+      "zh": "事实上，欧盟观察团代表表示，你知道，这次选举是在民主空间受限的氛围中举行的。"
+    },
+    {
+      "id": 140,
+      "startMs": 801200,
+      "endMs": 812320,
+      "en": "So it's trying to create, basically, the picture of what it was like, especially for members of the opposition who felt that, sort of like, the government had an undue advantage.",
+      "zh": "这基本是在描绘当时的情形，尤其是反对派成员的处境；他们认为政府拥有不当优势。"
+    },
+    {
+      "id": 141,
+      "startMs": 812320,
+      "endMs": 819620,
+      "en": "Now, Zambia has had a reputation as one of Africa's most stable democracies. Is that now being undermined?",
+      "zh": "赞比亚素有非洲最稳定民主国家之一的声誉。如今这种声誉是否正在受损？"
+    },
+    {
+      "id": 142,
+      "startMs": 820180,
+      "endMs": 823620,
+      "en": "It's sort of like been a debate in the run-up to the elections.",
+      "zh": "这在选举前夕一直是一个争论话题。"
+    },
+    {
+      "id": 143,
+      "startMs": 823620,
+      "endMs": 830260,
+      "en": "But compared with elections elsewhere, Zambia still stands out.",
+      "zh": "但与其他地方的选举相比，赞比亚仍然相当突出。"
+    },
+    {
+      "id": 144,
+      "startMs": 830260,
+      "endMs": 838180,
+      "en": "That's because they've had, sort of like, a history of power transfer since the return of multiparty democracy in 1991.",
+      "zh": "这是因为自1991年恢复多党民主以来，该国有过政权交接的历史。"
+    },
+    {
+      "id": 145,
+      "startMs": 838180,
+      "endMs": 845860,
+      "en": "But this election actually was being seen as a test of its democratic credentials.",
+      "zh": "不过，这次选举实际上被视为对赞比亚民主信誉的一次考验。"
+    },
+    {
+      "id": 146,
+      "startMs": 846180,
+      "endMs": 852500,
+      "en": "That was because of all the allegations raised by the opposition in the run-up to the election itself.",
+      "zh": "这是因为反对派在选举前提出了种种指控。"
+    },
+    {
+      "id": 147,
+      "startMs": 852740,
+      "endMs": 862900,
+      "en": "So basically, the conduct of the electoral commission and also the government, even during the post-electoral period, is something that is being watched very closely.",
+      "zh": "因此，选举委员会和政府的行为，包括选举结束后的表现，都受到密切关注。"
+    },
+    {
+      "id": 148,
+      "startMs": 863300,
+      "endMs": 869460,
+      "en": "Tell us about the two leading candidates in the race and the issues that will have been on voters' minds when they went to the polls.",
+      "zh": "请介绍一下这场选举的两名主要候选人，以及选民投票时最关心的议题。"
+    },
+    {
+      "id": 149,
+      "startMs": 870100,
+      "endMs": 875620,
+      "en": "Yeah, so the two leaders—because you had 14 candidates, but two of them were most prominent, of course.",
+      "zh": "是的，虽然共有14名候选人，但其中两人显然最受关注。"
+    },
+    {
+      "id": 150,
+      "startMs": 875800,
+      "endMs": 887640,
+      "en": "Incumbent President Hakainde Hichilema and Brian Mundubile, who is a former government minister and was also allied to the late former President Edgar Lungu.",
+      "zh": "一位是现任总统哈凯恩德·希奇莱马；另一位是前政府部长布赖恩·蒙杜比莱，他也曾是已故前总统埃德加·伦古的盟友。"
+    },
+    {
+      "id": 151,
+      "startMs": 887640,
+      "endMs": 895880,
+      "en": "You know, Hichilema has really been banking on his economic track record to endear himself to the electorate.",
+      "zh": "你知道，希奇莱马一直希望凭借自己的经济政绩赢得选民支持。"
+    },
+    {
+      "id": 152,
+      "startMs": 896280,
+      "endMs": 904840,
+      "en": "So, speaking to an ordinary Zambian, they would say the issues at the top of their mind, the issues that were really going to influence how they voted—",
+      "zh": "所以，如果去问普通赞比亚人，他们会说，自己最关心、真正影响投票选择的议题是——"
+    },
+    {
+      "id": 153,
+      "startMs": 905000,
+      "endMs": 908920,
+      "en": "It's basically unemployment and also the rising cost of living.",
+      "zh": "主要就是失业和不断上涨的生活成本。"
+    },
+    {
+      "id": 154,
+      "startMs": 908920,
+      "endMs": 915040,
+      "en": "This is despite the fact that the economy has experienced rapid growth in the past five years.",
+      "zh": "尽管该国经济过去五年实现了快速增长，情况仍是如此。"
+    },
+    {
+      "id": 155,
+      "startMs": 915320,
+      "endMs": 921400,
+      "en": "That growth was partly because of the policies and reforms that President Hakainde Hichilema has made.",
+      "zh": "这种增长的部分原因在于哈凯恩德·希奇莱马总统推行的政策和改革。"
+    },
+    {
+      "id": 156,
+      "startMs": 921400,
+      "endMs": 926440,
+      "en": "But, of course, there are people who argue that the benefits didn't quite trickle down to the electorate.",
+      "zh": "但当然，也有人认为，经济增长的好处并未真正惠及选民。"
+    },
+    {
+      "id": 157,
+      "startMs": 926440,
+      "endMs": 929880,
+      "en": "Richard Kagoe on the election count in Zambia.",
+      "zh": "以上是理查德·卡戈对赞比亚选举计票的报道。"
+    },
+    {
+      "id": 158,
+      "startMs": 930980,
+      "endMs": 938260,
+      "en": "A female orca, known for ramming boats off the coasts of Portugal and Spain, has been seen swimming in the Strait of Gibraltar.",
+      "zh": "一头因在葡萄牙和西班牙近海撞击船只而闻名的雌性虎鲸，被人发现正在直布罗陀海峡游动。"
+    },
+    {
+      "id": 159,
+      "startMs": 938260,
+      "endMs": 941780,
+      "en": "She had what looked like pellet-gun wounds on her dorsal fin.",
+      "zh": "她的背鳍上有看似弹丸枪造成的伤口。"
+    },
+    {
+      "id": 160,
+      "startMs": 942340,
+      "endMs": 944820,
+      "en": "Spanish officials have launched an investigation.",
+      "zh": "西班牙官员已展开调查。"
+    },
+    {
+      "id": 161,
+      "startMs": 945220,
+      "endMs": 953700,
+      "en": "Toñi, the whale, and her pod made headlines in 2020 after sailors told of their boats being spun around or tipped sideways by the orcas.",
+      "zh": "2020年，水手们称自己的船被虎鲸转得打圈或掀向一侧，虎鲸托妮及其鲸群因此登上新闻。"
+    },
+    {
+      "id": 162,
+      "startMs": 953860,
+      "endMs": 958820,
+      "en": "Scientists said this could be a form of play or a means of practising hunting skills.",
+      "zh": "科学家表示，这可能是一种玩耍行为，也可能是练习捕猎技能的方式。"
+    },
+    {
+      "id": 163,
+      "startMs": 959300,
+      "endMs": 963620,
+      "en": "Janek Andre from the environmental group WeWhale has been tracking the pod.",
+      "zh": "环保组织WeWhale的亚内克·安德烈一直在追踪这个鲸群。"
+    },
+    {
+      "id": 164,
+      "startMs": 964180,
+      "endMs": 970020,
+      "en": "They all have, like, their own character. They have different moods, so they are sentient beings, and that's important to understand.",
+      "zh": "它们都有各自的性格，也有不同的情绪，所以它们是有感知力的生命，这一点很重要。"
+    },
+    {
+      "id": 165,
+      "startMs": 970020,
+      "endMs": 974780,
+      "en": "Also, that's something, of course, we want to show the world and make the world understand.",
+      "zh": "当然，这也是我们想向世界展示、让世人理解的事情。"
+    },
+    {
+      "id": 166,
+      "startMs": 974780,
+      "endMs": 982780,
+      "en": "That's because also the female who got shot, Toñi, she's the oldest one. She has a leading role, let's say, in this whole group.",
+      "zh": "这是因为，据称遭到枪击的雌鲸托妮是其中最年长的一头。可以说，她在整个鲸群中起着领导作用。"
+    },
+    {
+      "id": 167,
+      "startMs": 983340,
+      "endMs": 991340,
+      "en": "We went out on Tuesday morning, and as soon as our team arrived, we saw that there were wounds on her dorsal fin.",
+      "zh": "我们星期二早晨出海，团队一到现场，就看到她的背鳍上有伤口。"
+    },
+    {
+      "id": 168,
+      "startMs": 991580,
+      "endMs": 1002300,
+      "en": "Then we took pictures, and when we actually analysed the photos, we clearly saw that there were, like, pellets—ammunition—in the dorsal fin.",
+      "zh": "随后我们拍了照片；实际分析照片时，我们清楚地看到，背鳍里似乎有弹丸，也就是弹药。"
+    },
+    {
+      "id": 169,
+      "startMs": 1002380,
+      "endMs": 1008140,
+      "en": "You could also see it on site with your own eyes, let's say, from the boat, from the top side of the boat.",
+      "zh": "可以说，在现场从船上、从船的上方用肉眼也能看到。"
+    },
+    {
+      "id": 170,
+      "startMs": 1008460,
+      "endMs": 1012380,
+      "en": "So these animals, they like to be curious about boats.",
+      "zh": "这些动物喜欢对船只表现出好奇。"
+    },
+    {
+      "id": 171,
+      "startMs": 1012700,
+      "endMs": 1020620,
+      "en": "They like to be playful around boats, and some people just don't like that because it might be that the boat gets damaged.",
+      "zh": "它们喜欢在船只周围玩耍，有些人对此很反感，因为船只可能受损。"
+    },
+    {
+      "id": 172,
+      "startMs": 1021020,
+      "endMs": 1027020,
+      "en": "And that could also lead to the boat sinking, because water could enter the hull because of that.",
+      "zh": "这还可能导致船只沉没，因为船体受损后可能进水。"
+    },
+    {
+      "id": 173,
+      "startMs": 1027100,
+      "endMs": 1036880,
+      "en": "And then, yeah, I mean, people then maybe just think, “Well, before something like that happens to me, I will shoot the animal.”",
+      "zh": "然后，是的，我是说，人们也许就会想：“在这种事发生到我身上之前，我要开枪射杀这头动物。”"
+    },
+    {
+      "id": 174,
+      "startMs": 1037360,
+      "endMs": 1045920,
+      "en": "The good news is, as it is a dorsal fin, it didn't enter a muscle in that sense, you know, because there's no muscle inside the dorsal fin.",
+      "zh": "好消息是，伤处位于背鳍，因此从这个意义上说并未进入肌肉，你知道，因为背鳍内部没有肌肉。"
+    },
+    {
+      "id": 175,
+      "startMs": 1046560,
+      "endMs": 1050400,
+      "en": "So we can only observe and see what's going to happen.",
+      "zh": "所以我们只能继续观察，看看接下来会怎样。"
+    },
+    {
+      "id": 176,
+      "startMs": 1050720,
+      "endMs": 1052080,
+      "en": "How is she today, now?",
+      "zh": "她现在情况怎么样？"
+    },
+    {
+      "id": 177,
+      "startMs": 1052640,
+      "endMs": 1056320,
+      "en": "Well, we haven't seen her for the last two days because we could not go out because of the wind.",
+      "zh": "嗯，过去两天我们没有见到她，因为风太大，无法出海。"
+    },
+    {
+      "id": 178,
+      "startMs": 1056560,
+      "endMs": 1063120,
+      "en": "So the last time we saw her was on Wednesday, and we saw her hunting, depredating, feeding.",
+      "zh": "所以我们最后一次见到她是在星期三，当时她正在捕猎、夺食和进食。"
+    },
+    {
+      "id": 179,
+      "startMs": 1063520,
+      "endMs": 1070160,
+      "en": "She was around with her adopted son. She adopted a male orca in recent years.",
+      "zh": "她当时和自己的养子在一起。近年她收养了一头雄性虎鲸。"
+    },
+    {
+      "id": 180,
+      "startMs": 1071040,
+      "endMs": 1079440,
+      "en": "A third orca called Scarlet was with them. So she was okay, but she was not, like, kind of interested in the boat very much.",
+      "zh": "还有第三头名叫斯卡莱特的虎鲸。她当时状况尚可，但不像平常那样对船很感兴趣。"
+    },
+    {
+      "id": 181,
+      "startMs": 1080320,
+      "endMs": 1088800,
+      "en": "Normally she sometimes is, so most probably she is still also trying to get some rest and recovering, you know, from this situation.",
+      "zh": "平常她有时会对船更感兴趣，所以她很可能仍在休息，努力从这次状况中恢复，你知道。"
+    },
+    {
+      "id": 182,
+      "startMs": 1089120,
+      "endMs": 1091360,
+      "en": "Janek Andre, talking to Caroline Wyatt.",
+      "zh": "亚内克·安德烈接受了卡罗琳·怀亚特的采访。"
+    },
+    {
+      "id": 183,
+      "startMs": 1092140,
+      "endMs": 1096620,
+      "en": "In recent years, there's been growing concern about safety in professional cycling.",
+      "zh": "近年来，人们越来越担忧职业自行车运动的安全问题。"
+    },
+    {
+      "id": 184,
+      "startMs": 1096780,
+      "endMs": 1105980,
+      "en": "Six riders have died in road races in the past three years, the latest being 19-year-old Fin Tarling, killed on Friday in the Tour of Portugal.",
+      "zh": "过去三年里已有六名车手在公路赛中死亡，最近一名是19岁的芬·塔林，他于星期五在葡萄牙自行车赛中身亡。"
+    },
+    {
+      "id": 185,
+      "startMs": 1106380,
+      "endMs": 1109740,
+      "en": "He reportedly collided with a vehicle that wasn't involved in the race.",
+      "zh": "据报道，他与一辆未参与赛事的车辆相撞。"
+    },
+    {
+      "id": 186,
+      "startMs": 1110140,
+      "endMs": 1111420,
+      "en": "His team has now withdrawn.",
+      "zh": "他所在的车队现已退赛。"
+    },
+    {
+      "id": 187,
+      "startMs": 1111660,
+      "endMs": 1119500,
+      "en": "The cyclists' union said on social media, “We are speechless and filled with anger that it's not possible to prevent such serious accidents.”",
+      "zh": "自行车手工会在社交媒体上表示：“如此严重的事故竟无法避免，我们无言以对、满腔愤怒。”"
+    },
+    {
+      "id": 188,
+      "startMs": 1119900,
+      "endMs": 1122540,
+      "en": "Cycling journalist Ned Boulting explained what went wrong.",
+      "zh": "自行车记者内德·博尔廷解释了事故原因。"
+    },
+    {
+      "id": 189,
+      "startMs": 1123020,
+      "endMs": 1131580,
+      "en": "It happened on stage eight of the Tour of Portugal, effectively, which is a very old, very well-established and very venerable race, dating back almost 100 years.",
+      "zh": "事故发生在葡萄牙自行车赛第八赛段。这是一项非常古老、基础稳固且备受尊崇的赛事，历史可追溯到近100年前。"
+    },
+    {
+      "id": 190,
+      "startMs": 1132060,
+      "endMs": 1136620,
+      "en": "Road racing is carried out on public roads that have to be closed for the duration of the race, clearly.",
+      "zh": "显然，公路自行车赛在公共道路上举行，比赛期间必须封路。"
+    },
+    {
+      "id": 191,
+      "startMs": 1136700,
+      "endMs": 1146220,
+      "en": "There are different levels of closure, and what appears to have happened is that a car, a vehicle, got onto the road for whatever reason.",
+      "zh": "封路有不同等级；从目前来看，一辆汽车、一辆机动车不知为何进入了赛道。"
+    },
+    {
+      "id": 192,
+      "startMs": 1146940,
+      "endMs": 1151180,
+      "en": "The vehicle drove into the peloton and seems to have struck Fin.",
+      "zh": "车辆驶入车群，似乎撞到了芬。"
+    },
+    {
+      "id": 193,
+      "startMs": 1151340,
+      "endMs": 1155600,
+      "en": "So, a totally anomalous incident, but it's resulted in his death.",
+      "zh": "所以，这是一起完全反常的事件，却导致了他的死亡。"
+    },
+    {
+      "id": 194,
+      "startMs": 1156400,
+      "endMs": 1161040,
+      "en": "There have been, of late, a string of incidents that have resulted in fatalities.",
+      "zh": "近来发生了一连串造成人员死亡的事故。"
+    },
+    {
+      "id": 195,
+      "startMs": 1161040,
+      "endMs": 1170560,
+      "en": "While you try and learn individual lessons from individual cases, it's very, very hard to draw conclusions that would make this sport completely safe.",
+      "zh": "虽然人们会尝试从每个个案中吸取教训，但要得出能让这项运动彻底安全的结论非常、非常困难。"
+    },
+    {
+      "id": 196,
+      "startMs": 1170960,
+      "endMs": 1176480,
+      "en": "What I would say is that, going back to my point about closing roads, I think this is very, very important.",
+      "zh": "我要说的是，回到封路这个问题，我认为这非常、非常重要。"
+    },
+    {
+      "id": 197,
+      "startMs": 1176480,
+      "endMs": 1185840,
+      "en": "Fatalities like this haven't happened at the Tour de France, and the Tour de France is obviously the best-resourced race in the world.",
+      "zh": "因为环法自行车赛没有发生过这样的死亡事故，而环法显然是全世界资源最充足的赛事。"
+    },
+    {
+      "id": 198,
+      "startMs": 1186320,
+      "endMs": 1196880,
+      "en": "And just to give you a sense of how this works: because it is of such national importance, the state—Paris—pays for every single stage to be policed.",
+      "zh": "为了让你了解其运作方式：由于赛事具有如此重要的国家意义，国家层面，也就是巴黎方面，会出资为每一个赛段配备警力。"
+    },
+    {
+      "id": 199,
+      "startMs": 1197040,
+      "endMs": 1199760,
+      "en": "So there's a gendarme literally standing at every junction.",
+      "zh": "因此，几乎每个路口都真的站着一名宪兵。"
+    },
+    {
+      "id": 200,
+      "startMs": 1199840,
+      "endMs": 1205680,
+      "en": "That feeds onto the race route all day, so it's almost impossible for a vehicle to encroach on the race route.",
+      "zh": "每个通往赛道的路口全天有人把守，所以车辆几乎不可能闯入比赛路线。"
+    },
+    {
+      "id": 201,
+      "startMs": 1206240,
+      "endMs": 1211200,
+      "en": "That costs a phenomenal amount of money, and the Tour of Portugal doesn't have those kinds of funds.",
+      "zh": "这要耗费巨额资金，而葡萄牙自行车赛没有这种财力。"
+    },
+    {
+      "id": 202,
+      "startMs": 1211440,
+      "endMs": 1216960,
+      "en": "So the further you go down, if you like, the pyramid, the greater the risk. Ned Boulting.",
+      "zh": "所以，可以说，在赛事金字塔中越往下走，风险就越大。以上是内德·博尔廷的介绍。"
+    },
+    {
+      "id": 203,
+      "startMs": 1216960,
+      "endMs": 1227440,
+      "en": "The Miss Universe Canada pageant is introducing a comprehensive costume guide after a row triggered by two contestants wearing Indigenous-style costumes.",
+      "zh": "两名参赛者身穿原住民风格服装引发争议后，加拿大环球小姐选美比赛正推出一套全面的服装指南。"
+    },
+    {
+      "id": 204,
+      "startMs": 1228000,
+      "endMs": 1232000,
+      "en": "One had a feathered headdress and a small red painted hand on her cheek.",
+      "zh": "其中一人戴着羽毛头饰，脸颊上画着一个小小的红色手印。"
+    },
+    {
+      "id": 205,
+      "startMs": 1232560,
+      "endMs": 1237600,
+      "en": "The other wore a two-piece, ‘Arctic Beauty’-themed outfit with hair braids and mukluks,",
+      "zh": "另一人身穿以“北极美人”为主题的两件式服装，梳着辫子，脚穿穆克卢克靴，"
+    },
+    {
+      "id": 206,
+      "startMs": 1237920,
+      "endMs": 1245840,
+      "en": "light winter boots made from animal skin. There was an outcry from Canada's First Nations communities, who called it cultural appropriation.",
+      "zh": "也就是用动物皮制成的轻便冬靴。加拿大第一民族社群对此强烈不满，称其为文化挪用。"
+    },
+    {
+      "id": 207,
+      "startMs": 1246400,
+      "endMs": 1254480,
+      "en": "Ashley Callingbull, the first Indigenous Miss Universe Canada, co-presented this year's event. She told Paul Henley what happened.",
+      "zh": "首位获得加拿大环球小姐称号的原住民女性阿什莉·卡林布尔共同主持了今年的活动。她向保罗·亨利讲述了事情经过。"
+    },
+    {
+      "id": 208,
+      "startMs": 1254880,
+      "endMs": 1259680,
+      "en": "I was just checking in on the pageant before I got there to host the finals, and I was watching the national costume competition.",
+      "zh": "在我抵达现场主持决赛前，我只是查看了一下选美比赛的情况，当时正在观看民族服装环节。"
+    },
+    {
+      "id": 209,
+      "startMs": 1259860,
+      "endMs": 1271700,
+      "en": "And my jaw just dropped because I thought, ‘How did they let this happen? Who approved this? Who allowed this on stage? Like, how did it get this far?’",
+      "zh": "我惊得目瞪口呆，心想：“他们怎么会让这种事发生？谁批准的？谁允许它登台？事情怎么会发展到这一步？”"
+    },
+    {
+      "id": 210,
+      "startMs": 1271780,
+      "endMs": 1279940,
+      "en": "Immediately, I, like, called the organisation, and I was really, really upset because I won that title just two years ago. And I'm like,",
+      "zh": "我立刻就给主办机构打了电话。我真的非常、非常生气，因为就在两年前，我还赢得了那个头衔。我当时想："
+    },
+    {
+      "id": 211,
+      "startMs": 1279940,
+      "endMs": 1286740,
+      "en": "‘How can they not be educated on this or do the research? Or how can the contestants not know any better as well?’",
+      "zh": "“他们怎么会不了解这件事，也不做调查？参赛者自己又怎么会毫无常识？”"
+    },
+    {
+      "id": 212,
+      "startMs": 1286740,
+      "endMs": 1288180,
+      "en": "I mean, they're grown women.",
+      "zh": "我的意思是，她们都是成年女性。"
+    },
+    {
+      "id": 213,
+      "startMs": 1288820,
+      "endMs": 1299620,
+      "en": "I understand, like, ignorance can go so far, but you're in a country where you have the resources to educate yourself for free about the true history of Indigenous people.",
+      "zh": "我理解无知可能有一定限度，但你身处这样一个国家，可以免费利用各种资源去了解原住民真正的历史。"
+    },
+    {
+      "id": 214,
+      "startMs": 1300180,
+      "endMs": 1302420,
+      "en": "It just blew me away, and not in a good way.",
+      "zh": "这令我极为震惊，而且绝不是好的那种震惊。"
+    },
+    {
+      "id": 215,
+      "startMs": 1303060,
+      "endMs": 1312260,
+      "en": "I've seen the photographs, and you might just have to describe the looks for our listeners, because to me, it looks like a bad 1970s costume party.",
+      "zh": "我看过照片，你或许得向听众描述一下那些造型，因为在我看来，它就像一场糟糕的20世纪70年代化装舞会。"
+    },
+    {
+      "id": 216,
+      "startMs": 1312500,
+      "endMs": 1319860,
+      "en": "Yeah, so one of the contestants was wearing a headdress and a ribbon skirt and, like, a crop top and heels.",
+      "zh": "是的，其中一名参赛者戴着头饰，穿着丝带裙、露脐上衣和高跟鞋。"
+    },
+    {
+      "id": 217,
+      "startMs": 1320120,
+      "endMs": 1325880,
+      "en": "And when you wear a headdress, that's usually something that's gifted to you for an honour.",
+      "zh": "佩戴这种头饰通常意味着它是为表彰某种荣誉而赠予你的。"
+    },
+    {
+      "id": 218,
+      "startMs": 1325960,
+      "endMs": 1329880,
+      "en": "You're either a chief, a recognised warrior in your community.",
+      "zh": "佩戴者通常是酋长，或是社群认可的勇士。"
+    },
+    {
+      "id": 219,
+      "startMs": 1330200,
+      "endMs": 1335800,
+      "en": "It's not something you can just go buy off Etsy, and that's what that contestant did.",
+      "zh": "它不是可以随便到Etsy上购买的东西，但那名参赛者正是这样做的。"
+    },
+    {
+      "id": 220,
+      "startMs": 1335800,
+      "endMs": 1338520,
+      "en": "And she just assumed that it would be okay.",
+      "zh": "她只是想当然地认为这样做没问题。"
+    },
+    {
+      "id": 221,
+      "startMs": 1339080,
+      "endMs": 1345400,
+      "en": "And to do kind of like a little hip-motion dance at the end of it was just even worse.",
+      "zh": "最后还做了一段轻扭臀部的舞蹈，这就更糟了。"
+    },
+    {
+      "id": 222,
+      "startMs": 1345400,
+      "endMs": 1350440,
+      "en": "And then, when the other contestant came out, it was a Fashion Nova-bought outfit.",
+      "zh": "另一名参赛者登场时，穿的是从Fashion Nova购买的服装。"
+    },
+    {
+      "id": 223,
+      "startMs": 1350440,
+      "endMs": 1354520,
+      "en": "So none of these outfits were culturally appropriate.",
+      "zh": "所以，这些服装没有一套在文化层面是恰当的。"
+    },
+    {
+      "id": 224,
+      "startMs": 1354520,
+      "endMs": 1359640,
+      "en": "None of them were from actual, authentic Indigenous artists. There was no consultation made.",
+      "zh": "没有一套出自真正的原住民艺术家，也没有进行任何咨询。"
+    },
+    {
+      "id": 225,
+      "startMs": 1360120,
+      "endMs": 1365080,
+      "en": "It was basically like buying a Halloween costume and putting it on and going on a national stage.",
+      "zh": "这基本就像买来一套万圣节服装，穿上它走上全国性舞台。"
+    },
+    {
+      "id": 226,
+      "startMs": 1365320,
+      "endMs": 1373080,
+      "en": "To an extent, was it inviting disaster even having a ‘national costume’ segment of a beauty contest?",
+      "zh": "从某种程度上说，选美比赛设置“民族服装”环节，本身是否就在招致麻烦？"
+    },
+    {
+      "id": 227,
+      "startMs": 1373080,
+      "endMs": 1382940,
+      "en": "I mean, modern Canada doesn't have a very long history. Would Indigenous contestants be allowed to wear costumes like this? I mean, how should it work?",
+      "zh": "我的意思是，现代加拿大的历史并不很长。原住民参赛者可以穿这样的服装吗？这个环节究竟应当如何运作？"
+    },
+    {
+      "id": 228,
+      "startMs": 1383420,
+      "endMs": 1387740,
+      "en": "Well, that's the thing. Indigenous people know better. We know those aren't costumes.",
+      "zh": "问题就在这里。原住民自己更清楚。我们知道那些并不是“戏服”。"
+    },
+    {
+      "id": 229,
+      "startMs": 1387740,
+      "endMs": 1398060,
+      "en": "We don't even refer to headdresses as costumes like that. To us, it's our regalia, and we know better than to wear regalia in a costume competition.",
+      "zh": "我们甚至不会把头饰称作那种“戏服”。对我们而言，那是礼仪服饰；我们也知道不应穿着礼仪服饰参加戏服比赛。"
+    },
+    {
+      "id": 230,
+      "startMs": 1398140,
+      "endMs": 1403580,
+      "en": "So they very specifically state that, like, everything has to be a costume,",
+      "zh": "所以比赛规则非常明确地规定，一切都必须是舞台戏服，"
+    },
+    {
+      "id": 231,
+      "startMs": 1403580,
+      "endMs": 1408460,
+      "en": "where it's, like, Vegas-style. It has to be big, over the top on stage.",
+      "zh": "风格要像拉斯维加斯表演一样，必须夸张、醒目，适合舞台。"
+    },
+    {
+      "id": 232,
+      "startMs": 1408460,
+      "endMs": 1413660,
+      "en": "It can't be anything that's traditional or sacred or culturally appropriating anything.",
+      "zh": "不能使用任何传统或神圣物件，也不能对任何文化进行挪用。"
+    },
+    {
+      "id": 233,
+      "startMs": 1413980,
+      "endMs": 1423100,
+      "en": "And I thought, you know, people should know better than to wear another ethnic group's culture or sacred garments.",
+      "zh": "我认为，人们应该明白，不应把其他族群的文化或神圣服饰穿在自己身上。"
+    },
+    {
+      "id": 234,
+      "startMs": 1423100,
+      "endMs": 1425900,
+      "en": "That's just something I think is common sense.",
+      "zh": "我认为这不过是常识。"
+    },
+    {
+      "id": 235,
+      "startMs": 1426220,
+      "endMs": 1430140,
+      "en": "Ashley Callingbull, the first Indigenous Miss Universe Canada.",
+      "zh": "首位原住民加拿大环球小姐阿什莉·卡林布尔。"
+    },
+    {
+      "id": 236,
+      "startMs": 1432980,
+      "endMs": 1434500,
+      "en": "And that is all from us for now.",
+      "zh": "以上就是本期节目的全部内容。"
+    },
+    {
+      "id": 237,
+      "startMs": 1434500,
+      "endMs": 1437220,
+      "en": "But the Global News Podcast will be back very soon.",
+      "zh": "《全球新闻播客》很快会再次与您见面。"
+    },
+    {
+      "id": 238,
+      "startMs": 1437220,
+      "endMs": 1440660,
+      "en": "This edition was mixed by Philip Bull and produced by Siobhan Leahy.",
+      "zh": "本期节目由菲利普·布尔完成混音，西沃恩·利希担任制作人。"
+    },
+    {
+      "id": 239,
+      "startMs": 1440740,
+      "endMs": 1442260,
+      "en": "Our editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 240,
+      "startMs": 1442420,
+      "endMs": 1444820,
+      "en": "I'm Oliver Conway. Until next time, goodbye.",
+      "zh": "我是奥利弗·康韦。下次再见。"
+    }
+  ]
+}
