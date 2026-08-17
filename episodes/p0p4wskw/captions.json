@@ -1,0 +1,2027 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "17 August 2026"
+  },
+  "durationMs": 1754720,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3680,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是英国广播公司国际台的《环球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5460,
+      "endMs": 11220,
+      "en": "I'm Jannat Jalil, and in the early hours of Monday, the 17th of August, these are our main stories.",
+      "zh": "我是贾娜特·贾利勒。现在是8月17日星期一凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12080,
+      "endMs": 17360,
+      "en": "Donald Trump says he's dramatically scaling back joint military exercises with South Korea,",
+      "zh": "唐纳德·特朗普表示，他正在大幅缩减与韩国的联合军事演习，"
+    },
+    {
+      "id": 4,
+      "startMs": 17600,
+      "endMs": 22800,
+      "en": "saying they're too costly and threaten his very good relationship with North Korea's leader.",
+      "zh": "称这些演习成本过高，还会威胁他与朝鲜领导人之间非常好的关系。"
+    },
+    {
+      "id": 5,
+      "startMs": 23760,
+      "endMs": 31360,
+      "en": "The campaign for this year's elections in Brazil gets under way with President Lula taking on the son of his old rival, Jair Bolsonaro.",
+      "zh": "巴西今年的大选竞选活动拉开帷幕，卢拉总统将对阵其老对手雅伊尔·博索纳罗之子。"
+    },
+    {
+      "id": 6,
+      "startMs": 32220,
+      "endMs": 37900,
+      "en": "In football, Cameroon thrashed Malawi to win the Women's Africa Cup of Nations for the first time.",
+      "zh": "足球方面，喀麦隆大胜马拉维，首次赢得女足非洲杯冠军。"
+    },
+    {
+      "id": 7,
+      "startMs": 40820,
+      "endMs": 43540,
+      "en": "Also in this podcast: It's incredibly risky.",
+      "zh": "本期节目还有：这实在危险至极。"
+    },
+    {
+      "id": 8,
+      "startMs": 43540,
+      "endMs": 47300,
+      "en": "We're talking about a shark species here that is a true apex predator.",
+      "zh": "我们谈论的是一种真正处于食物链顶端的鲨鱼。"
+    },
+    {
+      "id": 9,
+      "startMs": 47380,
+      "endMs": 52100,
+      "en": "You wouldn't walk into the Serengeti and try and put your hand on the face of a lion.",
+      "zh": "你不会走进塞伦盖蒂，还试着把手放到狮子脸上。"
+    },
+    {
+      "id": 10,
+      "startMs": 52580,
+      "endMs": 58820,
+      "en": "The social media influencers getting bitten by sharks while chasing the perfect photo.",
+      "zh": "一些社交媒体网红为了追求完美照片而被鲨鱼咬伤。"
+    },
+    {
+      "id": 11,
+      "startMs": 63880,
+      "endMs": 69880,
+      "en": "Despite a history of tense relations between the US and North Korea over Pyongyang's nuclear program,",
+      "zh": "尽管美国与朝鲜因平壤核计划长期关系紧张，"
+    },
+    {
+      "id": 12,
+      "startMs": 70360,
+      "endMs": 77240,
+      "en": "back in 2018 Donald Trump became the first American president to meet the North Korean leader, Kim Jong Un.",
+      "zh": "但早在2018年，唐纳德·特朗普成为首位与朝鲜领导人金正恩会面的美国总统。"
+    },
+    {
+      "id": 13,
+      "startMs": 77720,
+      "endMs": 86840,
+      "en": "Our whole relationship with North Korea and the Korean Peninsula is going to be a very much different situation than it has in the past,",
+      "zh": "我们与朝鲜的整体关系，以及朝鲜半岛的局势，都将与过去大不相同，"
+    },
+    {
+      "id": 14,
+      "startMs": 87160,
+      "endMs": 90200,
+      "en": "and we have developed a very special bond.",
+      "zh": "而且我们已经建立了一种非常特殊的纽带。"
+    },
+    {
+      "id": 15,
+      "startMs": 90980,
+      "endMs": 100100,
+      "en": "At the time, the summit was hailed as historic, but in the end, it failed to deliver on Mr. Trump's pledge to persuade North Korea to dismantle its nuclear program.",
+      "zh": "当时，这场峰会被誉为具有历史意义，但最终未能兑现特朗普先生说服朝鲜拆除其核计划的承诺。"
+    },
+    {
+      "id": 16,
+      "startMs": 100660,
+      "endMs": 108100,
+      "en": "Even after he briefly set foot on North Korean soil a year later, in the demilitarized zone that separates the two Koreas.",
+      "zh": "即便一年后，他还曾在分隔朝韩两国的非军事区短暂踏上朝鲜领土。"
+    },
+    {
+      "id": 17,
+      "startMs": 108660,
+      "endMs": 110580,
+      "en": "Stepping across that line was a great honor.",
+      "zh": "跨过那条分界线是莫大的荣幸。"
+    },
+    {
+      "id": 18,
+      "startMs": 110580,
+      "endMs": 116180,
+      "en": "A lot of progress has been made, a lot of friendships have been made, and this has been, in particular, a great friendship.",
+      "zh": "我们取得了许多进展，建立了许多友谊，尤其是成就了这段深厚友谊。"
+    },
+    {
+      "id": 19,
+      "startMs": 117160,
+      "endMs": 120760,
+      "en": "We met, and we liked each other from day one, and that was very important.",
+      "zh": "我们见了面，从第一天起就彼此欣赏，这一点非常重要。"
+    },
+    {
+      "id": 20,
+      "startMs": 122080,
+      "endMs": 128240,
+      "en": "Well, fast-forward seven years, and on the eve of joint US-South Korean military exercises,",
+      "zh": "时间快进七年，就在美韩联合军演前夕，"
+    },
+    {
+      "id": 21,
+      "startMs": 128480,
+      "endMs": 135120,
+      "en": "President Trump abruptly announced that he was substantially reducing them, arguing that they're too expensive.",
+      "zh": "特朗普总统突然宣布将大幅缩减军演，并称其成本过高。"
+    },
+    {
+      "id": 22,
+      "startMs": 135120,
+      "endMs": 139120,
+      "en": "And they threaten his, quote, ‘very good relationship’ with Kim Jong Un.",
+      "zh": "而且军演还会威胁他所说的、自己与金正恩之间‘非常好的关系’。"
+    },
+    {
+      "id": 23,
+      "startMs": 139680,
+      "endMs": 148880,
+      "en": "This despite warnings that North Korea has learnt new battlefield tactics from sending its soldiers to fight in Ukraine alongside Russian forces.",
+      "zh": "尽管此前已有警告称，朝鲜通过派遣士兵与俄军并肩在乌克兰作战，掌握了新的战场战术。"
+    },
+    {
+      "id": 24,
+      "startMs": 149520,
+      "endMs": 157440,
+      "en": "Mr. Trump also said that South Korea had declined to join the US in, quote, \"the denuclearization of Iran.\"",
+      "zh": "特朗普先生还称，韩国拒绝与美国一道推进他所说的“伊朗无核化”。"
+    },
+    {
+      "id": 25,
+      "startMs": 158140,
+      "endMs": 162060,
+      "en": "Well, those military drills have begun since he made that post.",
+      "zh": "不过，自他发布那则帖文后，这些军事演习已经开始。"
+    },
+    {
+      "id": 26,
+      "startMs": 162220,
+      "endMs": 165100,
+      "en": "I heard more from our correspondent in Seoul, Jake Kwon.",
+      "zh": "我向本台驻首尔记者 Jake Kwon 了解了更多情况。"
+    },
+    {
+      "id": 27,
+      "startMs": 165900,
+      "endMs": 173420,
+      "en": "I think it's very unclear what prompted him to post that on social media, but it is certainly something we have heard from Mr. Trump",
+      "zh": "我认为，目前很不清楚是什么促使他在社交媒体上发出那番言论，但特朗普先生过去确实也说过类似的话，"
+    },
+    {
+      "id": 28,
+      "startMs": 173420,
+      "endMs": 180540,
+      "en": "back in 2018, right after he met with North Korea's leader, Kim Jong Un, for the first time in Singapore.",
+      "zh": "那是在2018年，他刚刚在新加坡首次会见朝鲜领导人金正恩之后。"
+    },
+    {
+      "id": 29,
+      "startMs": 180860,
+      "endMs": 183020,
+      "en": "He had this bombshell announcement:",
+      "zh": "他突然抛出了一项震撼性宣布："
+    },
+    {
+      "id": 30,
+      "startMs": 183180,
+      "endMs": 190620,
+      "en": "he called this joint exercise with South Korea provocative, and he called it war games, and he called for suspension.",
+      "zh": "他称与韩国的联合演习具有挑衅性，称其为“战争游戏”，并要求暂停演习。"
+    },
+    {
+      "id": 31,
+      "startMs": 190700,
+      "endMs": 199580,
+      "en": "And it was indeed suspended for four years, first two during his term and then next two years during the COVID time, before it was scaled back up.",
+      "zh": "演习确实暂停了四年，头两年是在他的任期内，随后两年是在新冠疫情期间，之后规模才重新扩大。"
+    },
+    {
+      "id": 32,
+      "startMs": 200140,
+      "endMs": 207180,
+      "en": "I think he—for him, a lot of the times when he talks about the alliance between South Korea and the United States,",
+      "zh": "我想，对他而言，很多时候当他谈到韩国与美国之间的同盟时，"
+    },
+    {
+      "id": 33,
+      "startMs": 207500,
+      "endMs": 213180,
+      "en": "it is an unfair relationship, where the US is spending, you know, too much money and not getting enough in return.",
+      "zh": "他认为这是一种不公平的关系，美国花了太多钱，却没有得到足够回报。"
+    },
+    {
+      "id": 34,
+      "startMs": 213580,
+      "endMs": 220400,
+      "en": "Whereas for Seoul, this exercise is very much core to the military alliance between the US and South Korea.",
+      "zh": "而对首尔方面来说，这场演习正是美韩军事同盟的核心所在。"
+    },
+    {
+      "id": 35,
+      "startMs": 220640,
+      "endMs": 224720,
+      "en": "It is very much the symbol of the friendship and the alliance between the two countries.",
+      "zh": "它在很大程度上象征着两国之间的友谊与同盟。"
+    },
+    {
+      "id": 36,
+      "startMs": 225280,
+      "endMs": 232640,
+      "en": "And Jake, Mr. Trump called North Korea unthreatening, but many countries are concerned not just about Pyongyang's weapons program,",
+      "zh": "Jake，特朗普先生称朝鲜不构成威胁，但许多国家不仅担忧平壤的武器计划，"
+    },
+    {
+      "id": 37,
+      "startMs": 232880,
+      "endMs": 241040,
+      "en": "but also about the growing ties between Russia and North Korea, with North Korean soldiers and weaponry being sent to help Russian forces in Ukraine.",
+      "zh": "还担忧俄罗斯与朝鲜日益密切的关系，包括朝鲜士兵和武器被派往乌克兰协助俄军。"
+    },
+    {
+      "id": 38,
+      "startMs": 241760,
+      "endMs": 247600,
+      "en": "Yes, and this is why, you know, many people may be reading this post from President Trump.",
+      "zh": "是的，所以很多人可能会这样解读特朗普总统的这篇帖子。"
+    },
+    {
+      "id": 39,
+      "startMs": 247680,
+      "endMs": 252240,
+      "en": "They may see it as him trying to reach out to Kim Jong Un to get him back to the dialogue.",
+      "zh": "他们可能认为，这是他在试图向金正恩示好，让其重返对话。"
+    },
+    {
+      "id": 40,
+      "startMs": 252320,
+      "endMs": 261120,
+      "en": "But North Korea is right now too busy, really, you know, upgrading their weapons and their tactics on the front, fighting against Ukrainians.",
+      "zh": "但朝鲜眼下忙于升级武器，以及提升其在前线与乌克兰人作战的战术。"
+    },
+    {
+      "id": 41,
+      "startMs": 261120,
+      "endMs": 266080,
+      "en": "They're making, you know, billions of dollars in cash from their soldiers being sent there.",
+      "zh": "他们通过向那里派兵获得了数十亿美元现金。"
+    },
+    {
+      "id": 42,
+      "startMs": 266480,
+      "endMs": 275520,
+      "en": "And many experts are pointing out that North Korean capability of fighting war is upgrading day by day, and they're also testing their missiles and nuclear weapons.",
+      "zh": "许多专家指出，朝鲜的作战能力正在与日俱增，而且他们还在试验导弹和核武器。"
+    },
+    {
+      "id": 43,
+      "startMs": 275520,
+      "endMs": 285060,
+      "en": "So although he is calling, you know, North Korea unthreatening, many of the experts might disagree with such a view, and certainly people in Seoul may be alarmed by that statement.",
+      "zh": "因此，尽管他称朝鲜不构成威胁，许多专家可能并不同意这种看法，首尔民众也肯定可能因这番话而感到不安。"
+    },
+    {
+      "id": 44,
+      "startMs": 285620,
+      "endMs": 294020,
+      "en": "And people in Seoul might also be alarmed by the fact that he's criticized South Korea for not helping him deal with Iran's nuclear program.",
+      "zh": "首尔民众也可能因他批评韩国没有帮助自己处理伊朗核计划而感到不安。"
+    },
+    {
+      "id": 45,
+      "startMs": 294500,
+      "endMs": 298820,
+      "en": "But at the same time, he doesn't seem to be bothered about North Korea's nuclear program.",
+      "zh": "但与此同时，他似乎并不在意朝鲜的核计划。"
+    },
+    {
+      "id": 46,
+      "startMs": 299820,
+      "endMs": 304220,
+      "en": "Yes, and, you know, I think there is some irony in that social media posting.",
+      "zh": "是的，我认为那则社交媒体帖文中带有某种讽刺意味。"
+    },
+    {
+      "id": 47,
+      "startMs": 304780,
+      "endMs": 310380,
+      "en": "I think Mr. Trump has discussed his, you know, frustration with Seoul.",
+      "zh": "我认为特朗普先生谈到过他对首尔方面的不满。"
+    },
+    {
+      "id": 48,
+      "startMs": 310780,
+      "endMs": 319980,
+      "en": "He believes that Seoul has not been investing enough money in the US while profiting from what he sees as an unfair trade imbalance.",
+      "zh": "他认为，首尔方面在从他眼中不公平的贸易失衡中获利之际，并未在美国投入足够资金。"
+    },
+    {
+      "id": 49,
+      "startMs": 320300,
+      "endMs": 332460,
+      "en": "He has also, you know, revealed that South Korea has not been, you know, forthcoming in joining the US kind of exercise, as well as initiative to reopen the Strait of Hormuz.",
+      "zh": "他还透露，韩国并未积极参与美国这类演习，以及重开霍尔木兹海峡的倡议。"
+    },
+    {
+      "id": 50,
+      "startMs": 332780,
+      "endMs": 336380,
+      "en": "And South Korea has been kind of keeping mum about exactly what their stance is.",
+      "zh": "而韩国对于自身确切立场一直有些保持沉默。"
+    },
+    {
+      "id": 51,
+      "startMs": 336380,
+      "endMs": 341900,
+      "en": "I think the feeling in Seoul has been that they're kind of hoping that this could go away.",
+      "zh": "我认为首尔方面的想法是，他们多少希望这件事能自行过去。"
+    },
+    {
+      "id": 52,
+      "startMs": 341900,
+      "endMs": 346300,
+      "en": "And South Korea has always tried to maintain a good relationship with Iran.",
+      "zh": "而韩国一直努力与伊朗维持良好关系。"
+    },
+    {
+      "id": 53,
+      "startMs": 346620,
+      "endMs": 354780,
+      "en": "You know, I think they're predicting that someday things will go back to normal, and that Seoul will want to have a relationship with Tehran.",
+      "zh": "我认为他们预计局势终有一天会恢复正常，而首尔也希望与德黑兰保持关系。"
+    },
+    {
+      "id": 54,
+      "startMs": 355180,
+      "endMs": 366160,
+      "en": "Now, when it comes to North Korea's nuclear program, it really is unclear how much North Korea is willing to denuclearize with, you know, in negotiation with President Trump.",
+      "zh": "至于朝鲜核计划，目前确实不清楚朝鲜在与特朗普总统谈判时愿意在多大程度上实现无核化。"
+    },
+    {
+      "id": 55,
+      "startMs": 366400,
+      "endMs": 372800,
+      "en": "South Korea has been putting a lot of effort, a lot of time, in trying to get Mr. Trump to care about Pyongyang again,",
+      "zh": "韩国投入了大量精力和时间，试图让特朗普先生重新关注平壤，"
+    },
+    {
+      "id": 56,
+      "startMs": 372960,
+      "endMs": 379360,
+      "en": "after he has seemingly been consumed with issues happening in Ukraine, Venezuela, as well as the Middle East.",
+      "zh": "因为他似乎一直忙于乌克兰、委内瑞拉以及中东发生的问题。"
+    },
+    {
+      "id": 57,
+      "startMs": 379680,
+      "endMs": 384320,
+      "en": "So President Lee Jae Myung in South Korea has been kind of flattering Mr. Trump,",
+      "zh": "因此，韩国总统李在明一直在某种程度上恭维特朗普先生，"
+    },
+    {
+      "id": 58,
+      "startMs": 384320,
+      "endMs": 388160,
+      "en": "calling him peacemaker, and that South Korea will play the supporting role.",
+      "zh": "称他为和平缔造者，并表示韩国将扮演辅助角色。"
+    },
+    {
+      "id": 59,
+      "startMs": 388480,
+      "endMs": 396560,
+      "en": "But some experts has also warned that, you know, when Mr. Trump engages with Pyongyang, it may not be exactly for Seoul's benefit,",
+      "zh": "但也有专家警告称，特朗普先生与平壤接触时，结果未必完全有利于首尔，"
+    },
+    {
+      "id": 60,
+      "startMs": 396880,
+      "endMs": 404800,
+      "en": "even though Seoul will be hoping for a certain outcome here, maybe a peace declaration, some steps towards denuclearization with North Korea.",
+      "zh": "尽管首尔希望取得某种成果，例如发表和平宣言，或在朝鲜无核化方面迈出一些步伐。"
+    },
+    {
+      "id": 61,
+      "startMs": 405280,
+      "endMs": 415360,
+      "en": "But, you know, what Mr. Trump has been also suggesting is scaling down these exercises, or maybe even scaling down the number of troops that they have stationed in South Korea.",
+      "zh": "但特朗普先生也一直提出缩减这些演习，甚至可能减少驻扎在韩国的军队人数。"
+    },
+    {
+      "id": 62,
+      "startMs": 415600,
+      "endMs": 424020,
+      "en": "And what, you know, some of the experts, especially those who are hoping for this outcome of a denuclearized North Korea and reunification with South Korea further down the line,",
+      "zh": "而一些专家，尤其是那些希望朝鲜实现无核化、并在更长远未来与韩国统一的人，"
+    },
+    {
+      "id": 63,
+      "startMs": 424580,
+      "endMs": 434340,
+      "en": "are worried about a scenario where President Trump offers North Korea some kind of tacit acceptance of North Korea's nuclear program,",
+      "zh": "担心出现这样一种局面：特朗普总统对朝鲜的核计划给予某种默许，"
+    },
+    {
+      "id": 64,
+      "startMs": 434660,
+      "endMs": 438740,
+      "en": "and this is something that South Korea has been quite concerned about.",
+      "zh": "而这正是韩国一直十分担忧的事情。"
+    },
+    {
+      "id": 65,
+      "startMs": 439540,
+      "endMs": 440820,
+      "en": "Jake Kwon in Seoul.",
+      "zh": "Jake Kwon 在首尔报道。"
+    },
+    {
+      "id": 66,
+      "startMs": 441700,
+      "endMs": 446260,
+      "en": "Russia has intensified its missile attacks across Ukraine in recent weeks,",
+      "zh": "近几周，俄罗斯加大了对乌克兰全境的导弹袭击，"
+    },
+    {
+      "id": 67,
+      "startMs": 446260,
+      "endMs": 450340,
+      "en": "while Kyiv has ramped up its drone strikes deep inside Russian territory.",
+      "zh": "与此同时，基辅方面也加大了对俄罗斯境内纵深地区的无人机袭击。"
+    },
+    {
+      "id": 68,
+      "startMs": 450900,
+      "endMs": 452820,
+      "en": "This weekend was no exception.",
+      "zh": "这个周末也不例外。"
+    },
+    {
+      "id": 69,
+      "startMs": 453220,
+      "endMs": 461060,
+      "en": "At least seven people have been killed in Russia after what officials called the largest-scale attack launched by Ukraine this year.",
+      "zh": "俄罗斯官员所称的乌克兰今年最大规模袭击发生后，俄境内至少有7人死亡。"
+    },
+    {
+      "id": 70,
+      "startMs": 461060,
+      "endMs": 468660,
+      "en": "While in Ukraine, the latest wave of Russian strikes has left at least eight people dead and dozens more wounded.",
+      "zh": "而在乌克兰，俄罗斯最新一轮袭击已造成至少8人死亡、另有数十人受伤。"
+    },
+    {
+      "id": 71,
+      "startMs": 469220,
+      "endMs": 472340,
+      "en": "The targets included a well-known book market in Kyiv.",
+      "zh": "遇袭目标包括基辅一座知名图书市场。"
+    },
+    {
+      "id": 72,
+      "startMs": 472740,
+      "endMs": 475220,
+      "en": "Dan Johnson reports from the Ukrainian capital.",
+      "zh": "丹·约翰逊从乌克兰首都发回报道。"
+    },
+    {
+      "id": 73,
+      "startMs": 477620,
+      "endMs": 483220,
+      "en": "Firefighters spent hours damping down after the blaze that tore through the market stalls in the north of Kyiv.",
+      "zh": "大火席卷基辅北部的市场摊位后，消防员花了数小时才将火势压下去。"
+    },
+    {
+      "id": 74,
+      "startMs": 483700,
+      "endMs": 484980,
+      "en": "Six people were injured.",
+      "zh": "有6人受伤。"
+    },
+    {
+      "id": 75,
+      "startMs": 485220,
+      "endMs": 490180,
+      "en": "Hundreds of small businesses were destroyed, each one a livelihood built with love.",
+      "zh": "数百家小商户被毁，每一家都是经营者倾注心血建立的生计。"
+    },
+    {
+      "id": 76,
+      "startMs": 491740,
+      "endMs": 497100,
+      "en": "In the smouldering ruins, we came across Luba, with very little to salvage from her stocks of vinyl.",
+      "zh": "在仍冒着烟的废墟中，我们遇到了卢芭，她收藏的黑胶唱片几乎已无可抢救。"
+    },
+    {
+      "id": 77,
+      "startMs": 498100,
+      "endMs": 502980,
+      "en": "My whole stall burned down.",
+      "zh": "我的整个摊位都烧毁了。"
+    },
+    {
+      "id": 78,
+      "startMs": 503380,
+      "endMs": 506100,
+      "en": "There were vinyl records I won't be able to replace now.",
+      "zh": "有些黑胶唱片如今再也补不回来了。"
+    },
+    {
+      "id": 79,
+      "startMs": 506820,
+      "endMs": 513780,
+      "en": "It's like nurturing a child for eight years and then, bang, it disappeared just like that.",
+      "zh": "这就像把一个孩子养育了8年，然后砰的一下，就这样消失了。"
+    },
+    {
+      "id": 80,
+      "startMs": 513780,
+      "endMs": 519540,
+      "en": "Sorry, it's just very hard, so hard.",
+      "zh": "对不起，这真的很难受，太难受了。"
+    },
+    {
+      "id": 81,
+      "startMs": 520180,
+      "endMs": 522740,
+      "en": "Hundreds of market stalls have been destroyed.",
+      "zh": "数百个市场摊位已被摧毁。"
+    },
+    {
+      "id": 82,
+      "startMs": 522900,
+      "endMs": 524148,
+      "en": "They're twisted and charred.",
+      "zh": "它们已经扭曲变形、烧得焦黑。"
+    },
+    {
+      "id": 83,
+      "startMs": 524340,
+      "endMs": 526900,
+      "en": "The firefighters are still putting out pockets of flame.",
+      "zh": "消防员仍在扑灭零星火点。"
+    },
+    {
+      "id": 84,
+      "startMs": 527780,
+      "endMs": 531860,
+      "en": "Russia says it was targeting military facilities around the capital,",
+      "zh": "俄罗斯称其打击目标是首都周边的军事设施，"
+    },
+    {
+      "id": 85,
+      "startMs": 531860,
+      "endMs": 537300,
+      "en": "but this was a second-hand market selling books and records, posters and bric-a-brac.",
+      "zh": "但这里是一座售卖旧书、唱片、海报和各类旧杂物的二手市场。"
+    },
+    {
+      "id": 86,
+      "startMs": 537540,
+      "endMs": 543700,
+      "en": "I know that because I was here myself exactly a week ago, when there were families here just trying to find a bargain.",
+      "zh": "我之所以知道，是因为恰好一周前我本人就在这里，当时一些家庭来此不过是想淘点便宜货。"
+    },
+    {
+      "id": 87,
+      "startMs": 544540,
+      "endMs": 550300,
+      "en": "Elsewhere in Ukraine, Russian bombs in Zaporizhzhia destroyed a home, killing a man and a woman in their sixties.",
+      "zh": "在乌克兰其他地区，俄罗斯炸弹摧毁了扎波罗热的一所住宅，造成一名60多岁的男子和一名同龄女子死亡。"
+    },
+    {
+      "id": 88,
+      "startMs": 550620,
+      "endMs": 555580,
+      "en": "And in Kryvyi Rih, two died and 14 were wounded when a steelworks was struck.",
+      "zh": "而在克里维里赫，一座钢铁厂遇袭，造成2人死亡、14人受伤。"
+    },
+    {
+      "id": 89,
+      "startMs": 559500,
+      "endMs": 567020,
+      "en": "Ukraine's response has reached further into Russia, with another attack on a warehouse of the online retailer Wildberries near Moscow.",
+      "zh": "乌克兰的反击进一步深入俄罗斯境内，莫斯科附近的网络零售商 Wildberries 一座仓库再次遇袭。"
+    },
+    {
+      "id": 90,
+      "startMs": 567420,
+      "endMs": 572460,
+      "en": "The Russian Ministry of Defence says it shot down more than 820 Ukrainian drones overnight,",
+      "zh": "俄罗斯国防部称，其一夜之间击落了820多架乌克兰无人机，"
+    },
+    {
+      "id": 91,
+      "startMs": 572620,
+      "endMs": 575820,
+      "en": "describing the attacks as the largest since the start of the year.",
+      "zh": "并称这是今年以来规模最大的袭击。"
+    },
+    {
+      "id": 92,
+      "startMs": 576300,
+      "endMs": 579020,
+      "en": "It's been confirmed that drones made by two British companies",
+      "zh": "目前已经证实，两家英国公司制造的无人机"
+    },
+    {
+      "id": 93,
+      "startMs": 579100,
+      "endMs": 585100,
+      "en": "have been fired in recent months by Ukraine at Russian oil refineries, logistics facilities and naval bases.",
+      "zh": "近几个月已被乌克兰用于打击俄罗斯的炼油厂、物流设施和海军基地。"
+    },
+    {
+      "id": 94,
+      "startMs": 585660,
+      "endMs": 587180,
+      "en": "Dan Johnson in Kyiv.",
+      "zh": "丹·约翰逊在基辅报道。"
+    },
+    {
+      "id": 95,
+      "startMs": 588060,
+      "endMs": 594700,
+      "en": "In Brazil, it will once again be a presidential showdown between the left-wing Lula and a right-wing Bolsonaro.",
+      "zh": "在巴西，总统大选将再次上演左翼的卢拉与右翼的博索纳罗之间的对决。"
+    },
+    {
+      "id": 96,
+      "startMs": 595180,
+      "endMs": 600220,
+      "en": "The difference this year is that the 80-year-old incumbent, Luiz Inácio Lula da Silva,",
+      "zh": "今年的不同之处在于，80岁的现任总统路易斯·伊纳西奥·卢拉·达席尔瓦，"
+    },
+    {
+      "id": 97,
+      "startMs": 600360,
+      "endMs": 608540,
+      "en": "will be facing not the man he defeated four years ago, Jair Bolsonaro, but his son, Flávio Bolsonaro, who's a senator.",
+      "zh": "面对的并非4年前被他击败的雅伊尔·博索纳罗，而是其担任参议员的儿子弗拉维奥·博索纳罗。"
+    },
+    {
+      "id": 98,
+      "startMs": 609180,
+      "endMs": 614220,
+      "en": "Both men kicked off their election campaigns on Sunday in what is expected to be a tight race.",
+      "zh": "两人都于周日启动竞选活动，预计选情将十分胶着。"
+    },
+    {
+      "id": 99,
+      "startMs": 614620,
+      "endMs": 619020,
+      "en": "Flávio Bolsonaro, whose father is currently under house arrest for an attempted coup,",
+      "zh": "弗拉维奥·博索纳罗的父亲目前因未遂政变而遭软禁，弗拉维奥本人"
+    },
+    {
+      "id": 100,
+      "startMs": 619680,
+      "endMs": 624320,
+      "en": "joined thousands of his supporters on Copacabana beach in Rio de Janeiro.",
+      "zh": "则与数千名支持者一同现身里约热内卢的科帕卡巴纳海滩。"
+    },
+    {
+      "id": 101,
+      "startMs": 628060,
+      "endMs": 634220,
+      "en": "Addressing the crowds, Mr Bolsonaro said he would fight crime and bring in tougher controls on state spending,",
+      "zh": "博索纳罗对人群发表讲话时表示，他将打击犯罪，并对政府支出实施更严格的管控，"
+    },
+    {
+      "id": 102,
+      "startMs": 634620,
+      "endMs": 638860,
+      "en": "and remove what he called 'left-wing ideology' from Brazilian schools.",
+      "zh": "还要把他所谓的“左翼意识形态”从巴西学校中清除出去。"
+    },
+    {
+      "id": 103,
+      "startMs": 639660,
+      "endMs": 649020,
+      "en": "For his part, President Lula, in an address to thousands of his supporters near São Paulo, the city where he first rose to fame nearly 50 years ago as a union leader,",
+      "zh": "卢拉总统则在圣保罗附近向数千名支持者发表讲话；近50年前，他正是在这座城市以工会领袖身份首次成名，"
+    },
+    {
+      "id": 104,
+      "startMs": 649340,
+      "endMs": 655100,
+      "en": "insisted that Brazil needed more of his policies and denounced foreign interference.",
+      "zh": "并坚称巴西需要更多延续他的政策，同时谴责外国干涉。"
+    },
+    {
+      "id": 105,
+      "startMs": 655580,
+      "endMs": 661900,
+      "en": "Statistics indicate that while the economy has grown under his rule, many voters feel poorer.",
+      "zh": "统计数据显示，尽管经济在他执政期间有所增长，许多选民却感觉自己变得更穷了。"
+    },
+    {
+      "id": 106,
+      "startMs": 662460,
+      "endMs": 666540,
+      "en": "These Brazilians say they will continue to back President Lula.",
+      "zh": "这些巴西人表示，他们将继续支持卢拉总统。"
+    },
+    {
+      "id": 107,
+      "startMs": 668260,
+      "endMs": 676980,
+      "en": "I think it's very important for us to be here to support him because he always champions causes that benefit us,",
+      "zh": "我认为我们来这里支持他非常重要，因为他总是推动有利于我们的事业，"
+    },
+    {
+      "id": 108,
+      "startMs": 677140,
+      "endMs": 681060,
+      "en": "like the minimum wage, tax issues, entrepreneurship.",
+      "zh": "比如最低工资、税收问题和创业。"
+    },
+    {
+      "id": 109,
+      "startMs": 683860,
+      "endMs": 694820,
+      "en": "We have a lot to show, from health to education, to culture, infrastructure, the work we do with so many sectors of society, policies for women, and tackling violence.",
+      "zh": "我们有许多成果可以展示，从医疗、教育到文化、基础设施，还有我们与社会众多领域开展的工作、妇女政策以及打击暴力。"
+    },
+    {
+      "id": 110,
+      "startMs": 694820,
+      "endMs": 708820,
+      "en": "I believe the biggest challenge is the grassroots work, defending a sovereign Brazil, of course lifting the country out of hunger, just as he has done before.",
+      "zh": "我认为最大的挑战是基层工作，是捍卫一个主权独立的巴西，当然还要让国家摆脱饥饿，就像他以前做过的那样。"
+    },
+    {
+      "id": 111,
+      "startMs": 709620,
+      "endMs": 714020,
+      "en": "Our South America correspondent, Ione Wells, was at President Lula's campaign launch.",
+      "zh": "本台南美洲记者艾奥妮·韦尔斯当时在卢拉总统的竞选启动现场。"
+    },
+    {
+      "id": 112,
+      "startMs": 714580,
+      "endMs": 722420,
+      "en": "President Lula came out onto the stage at this football stadium in the industrial city of São Bernardo do Campo, which is just outside São Paulo,",
+      "zh": "卢拉总统在工业城市圣贝尔纳多-杜坎普的这座足球场登台，这座城市就位于圣保罗郊外，"
+    },
+    {
+      "id": 113,
+      "startMs": 722420,
+      "endMs": 734340,
+      "en": "to black-and-white images of him here in 1979 and in the '80s, where he, as a union leader, led strikes demanding better wages and conditions for workers.",
+      "zh": "伴随着他1979年及20世纪80年代在这里的黑白影像；当时他作为工会领袖，领导罢工，要求为工人争取更好的工资和工作条件。"
+    },
+    {
+      "id": 114,
+      "startMs": 734820,
+      "endMs": 744740,
+      "en": "There were thousands of supporters here in the crowd cheering him on, and much of his speech not only referenced workers and his support of them over the years,",
+      "zh": "现场有数千名支持者为他欢呼，他的讲话有很大一部分不仅提到工人，也提到多年来他对工人的支持，"
+    },
+    {
+      "id": 115,
+      "startMs": 743880,
+      "endMs": 749000,
+      "en": "but also sovereignty—the fact that he will not let anyone interfere in Brazilian affairs.",
+      "zh": "还谈到了主权，也就是他不会允许任何人干涉巴西事务。"
+    },
+    {
+      "id": 116,
+      "startMs": 749000,
+      "endMs": 755240,
+      "en": "And I think that is undoubtedly a reference to his strong criticism of the United States,",
+      "zh": "我认为，这无疑是在呼应他对美国的强烈批评，"
+    },
+    {
+      "id": 117,
+      "startMs": 755240,
+      "endMs": 762280,
+      "en": "the tariffs that the US has imposed on Brazil, but also the US's designation of Brazilian gangs as terrorist organizations.",
+      "zh": "既包括美国对巴西加征的关税，也包括美国将巴西帮派列为恐怖组织。"
+    },
+    {
+      "id": 118,
+      "startMs": 762840,
+      "endMs": 770280,
+      "en": "President Lula has been pretty clear that he fears the US is going to try to interfere in Brazilian elections and Brazilian affairs more generally,",
+      "zh": "卢拉总统已相当明确地表示，他担心美国会试图干涉巴西选举，乃至更广泛地干涉巴西事务，"
+    },
+    {
+      "id": 119,
+      "startMs": 770440,
+      "endMs": 774760,
+      "en": "something he accuses his main rival, Flávio Bolsonaro, of encouraging.",
+      "zh": "而他指责其主要对手弗拉维奥·博索纳罗在助长这种干涉。"
+    },
+    {
+      "id": 120,
+      "startMs": 774840,
+      "endMs": 783240,
+      "en": "Flávio Bolsonaro, the son of the former right-wing president, Jair Bolsonaro, also launched his campaign today on Copacabana in Rio de Janeiro.",
+      "zh": "前右翼总统雅伊尔·博索纳罗之子弗拉维奥·博索纳罗，今天也在里约热内卢的科帕卡巴纳启动了竞选活动。"
+    },
+    {
+      "id": 121,
+      "startMs": 783720,
+      "endMs": 791320,
+      "en": "He is certainly campaigning very heavily on a campaign platform saying that he will tackle crime,",
+      "zh": "他显然正大力宣传一套竞选纲领，声称自己将打击犯罪，"
+    },
+    {
+      "id": 122,
+      "startMs": 791320,
+      "endMs": 798120,
+      "en": "that he will build mega-prisons in Brazil, and, yes, that he will also work much more closely with the government of the United States.",
+      "zh": "将在巴西修建巨型监狱；是的，他还将与美国政府展开更密切的合作。"
+    },
+    {
+      "id": 123,
+      "startMs": 798440,
+      "endMs": 805340,
+      "en": "He was in Washington earlier this year, lobbying the United States to designate Brazilian gangs as terrorist organizations,",
+      "zh": "今年早些时候，他曾在华盛顿游说美国将巴西帮派列为恐怖组织，"
+    },
+    {
+      "id": 124,
+      "startMs": 805820,
+      "endMs": 808380,
+      "en": "something which President Lula has been heavily critical about.",
+      "zh": "而卢拉总统一直对此强烈批评。"
+    },
+    {
+      "id": 125,
+      "startMs": 808540,
+      "endMs": 818140,
+      "en": "It is interesting that for a domestic presidential election, this issue of sovereignty, this issue of patriotism, has become such a key campaign issue.",
+      "zh": "有意思的是，在一场国内总统选举中，主权与爱国主义竟成了如此关键的竞选议题。"
+    },
+    {
+      "id": 126,
+      "startMs": 818460,
+      "endMs": 823260,
+      "en": "President Lula himself came out onto the stage with a huge Brazilian flag,",
+      "zh": "卢拉总统本人手持一面巨大的巴西国旗走上舞台，"
+    },
+    {
+      "id": 127,
+      "startMs": 823500,
+      "endMs": 830520,
+      "en": "something that for many years was a symbol—if displayed outside someone's home—that they were a supporter of Jair Bolsonaro.",
+      "zh": "多年来，如果有人在家门外悬挂巴西国旗，这就象征着此人是雅伊尔·博索纳罗的支持者。"
+    },
+    {
+      "id": 128,
+      "startMs": 831080,
+      "endMs": 838280,
+      "en": "Now, he is certainly trying to reclaim that image of patriotism, of sovereignty, as part of his left-wing campaign in this election.",
+      "zh": "如今，卢拉显然正试图为自己重新夺回这种爱国主义和主权捍卫者的形象，并将其纳入本次选举的左翼竞选活动。"
+    },
+    {
+      "id": 129,
+      "startMs": 839280,
+      "endMs": 840160,
+      "en": "Ione Wells.",
+      "zh": "艾奥妮·韦尔斯报道。"
+    },
+    {
+      "id": 130,
+      "startMs": 840880,
+      "endMs": 845600,
+      "en": "In their quest for viral videos and clicks, some social media influencers",
+      "zh": "为了追求爆款视频和点击量，一些社交媒体网红"
+    },
+    {
+      "id": 131,
+      "startMs": 845760,
+      "endMs": 852640,
+      "en": "film themselves swimming close to sharks, sometimes touching them or even trying to ride them.",
+      "zh": "会拍下自己近距离与鲨鱼同游的画面，有时还会触摸鲨鱼，甚至试图骑在鲨鱼身上。"
+    },
+    {
+      "id": 132,
+      "startMs": 853200,
+      "endMs": 856560,
+      "en": "Scientists say they're increasingly concerned about this practice.",
+      "zh": "科学家表示，他们越来越担忧这种做法。"
+    },
+    {
+      "id": 133,
+      "startMs": 857040,
+      "endMs": 866160,
+      "en": "Shark attacks are rare, but in the past year, at least three influencers have been bitten while trying to film themselves next to the marine predators.",
+      "zh": "鲨鱼袭击十分罕见，但过去一年里，至少有三名网红在试图拍摄自己靠近这种海洋捕食者时被咬伤。"
+    },
+    {
+      "id": 134,
+      "startMs": 866560,
+      "endMs": 868000,
+      "en": "Will Vernon reports.",
+      "zh": "威尔·弗农报道。"
+    },
+    {
+      "id": 135,
+      "startMs": 869880,
+      "endMs": 872760,
+      "en": "Back in April, just off the coast of Brazil...",
+      "zh": "今年4月，就在巴西近海……"
+    },
+    {
+      "id": 136,
+      "startMs": 873080,
+      "endMs": 875960,
+      "en": "We went diving with nurse sharks.",
+      "zh": "我们去和铰口鲨一起潜水。"
+    },
+    {
+      "id": 137,
+      "startMs": 876280,
+      "endMs": 879880,
+      "en": "Taianne Dalazen describes a dive that went badly wrong.",
+      "zh": "泰安妮·达拉赞讲述了一次严重出事的潜水经历。"
+    },
+    {
+      "id": 138,
+      "startMs": 880040,
+      "endMs": 885400,
+      "en": "Something that I thought was different is because they were on surface; there was a lot of them.",
+      "zh": "我当时觉得不太对劲的是，它们都浮在水面上，而且数量很多。"
+    },
+    {
+      "id": 139,
+      "startMs": 885720,
+      "endMs": 893080,
+      "en": "The lawyer and social media personality recalls how, after diving off the boat, she immediately felt something grab her leg.",
+      "zh": "这位律师兼社交媒体人物回忆说，她从船上潜入水中后，立刻感觉有什么东西咬住了她的腿。"
+    },
+    {
+      "id": 140,
+      "startMs": 896600,
+      "endMs": 900760,
+      "en": "The pressure and the pain was very strong, so it was very frightening.",
+      "zh": "那股压力和疼痛都非常强烈，所以真的很吓人。"
+    },
+    {
+      "id": 141,
+      "startMs": 900920,
+      "endMs": 905800,
+      "en": "After several seconds, the two-metre nurse shark that bit Taianne let her go.",
+      "zh": "几秒钟后，咬住泰安妮的那条两米长铰口鲨松开了她。"
+    },
+    {
+      "id": 142,
+      "startMs": 906440,
+      "endMs": 908920,
+      "en": "She managed to reach the boat and was taken to hospital.",
+      "zh": "她设法回到船上，随后被送往医院。"
+    },
+    {
+      "id": 143,
+      "startMs": 909720,
+      "endMs": 915880,
+      "en": "Taianne posted the footage of the shark bite online, where it's since been viewed tens of millions of times.",
+      "zh": "泰安妮把鲨鱼咬人的视频发到网上，此后播放量已达数千万次。"
+    },
+    {
+      "id": 144,
+      "startMs": 916440,
+      "endMs": 919560,
+      "en": "Me, I wasn't there for social media.",
+      "zh": "至于我，我去那里并不是为了社交媒体。"
+    },
+    {
+      "id": 145,
+      "startMs": 919560,
+      "endMs": 927160,
+      "en": "And if somebody wants to get close to a shark just for a photo, I think that's something that it shouldn't be done.",
+      "zh": "如果有人只是为了拍张照片就想靠近鲨鱼，我认为这种事不应该做。"
+    },
+    {
+      "id": 146,
+      "startMs": 928120,
+      "endMs": 929560,
+      "en": "I'm holding a shark right now.",
+      "zh": "我现在正抱着一条鲨鱼。"
+    },
+    {
+      "id": 147,
+      "startMs": 929560,
+      "endMs": 931800,
+      "en": "We're at a place called Compass. Let's go swimming with sharks.",
+      "zh": "我们在一个名叫康帕斯的地方。走吧，我们去和鲨鱼一起游泳。"
+    },
+    {
+      "id": 148,
+      "startMs": 932360,
+      "endMs": 936520,
+      "en": "But many influencers are doing just that, and the numbers are growing.",
+      "zh": "但许多网红恰恰正在这么做，而且人数还在增加。"
+    },
+    {
+      "id": 149,
+      "startMs": 936760,
+      "endMs": 942760,
+      "en": "I'm seeing these videos every single week now, and it is way, way more than it ever used to be.",
+      "zh": "现在我每周都能看到这类视频，数量比过去多得多，多得多。"
+    },
+    {
+      "id": 150,
+      "startMs": 942760,
+      "endMs": 949720,
+      "en": "Shark scientists like Dr Cristian Parton say they're increasingly concerned about the rise in social media videos",
+      "zh": "克里斯蒂安·帕顿博士等鲨鱼科学家表示，他们越来越担心社交媒体上此类视频日益增多，"
+    },
+    {
+      "id": 151,
+      "startMs": 949880,
+      "endMs": 954280,
+      "en": "showing people swimming too close to sharks, touching or even riding them.",
+      "zh": "视频中人们游得离鲨鱼过近，触摸鲨鱼，甚至骑在鲨鱼身上。"
+    },
+    {
+      "id": 152,
+      "startMs": 954680,
+      "endMs": 957400,
+      "en": "Sharks can actually get really stressed out when you approach them.",
+      "zh": "当你靠近鲨鱼时，它们其实会承受很大的压力。"
+    },
+    {
+      "id": 153,
+      "startMs": 957400,
+      "endMs": 960920,
+      "en": "There's something in their bodies called glucocorticoids, and that's a stress hormone.",
+      "zh": "它们体内有一种叫糖皮质激素的物质，那是一种压力激素。"
+    },
+    {
+      "id": 154,
+      "startMs": 960920,
+      "endMs": 966360,
+      "en": "So when animals are stressed out by humans, those glucocorticoid levels go up in their bodies,",
+      "zh": "因此，当动物因人类而承受压力时，它们体内的糖皮质激素水平就会上升，"
+    },
+    {
+      "id": 155,
+      "startMs": 966360,
+      "endMs": 973400,
+      "en": "and that can lead to a weakened immune system, potentially aborting offspring that they have, but also they may, you know, die from that.",
+      "zh": "这可能导致免疫系统减弱，甚至使它们流产，而且它们也可能因此死亡。"
+    },
+    {
+      "id": 156,
+      "startMs": 973480,
+      "endMs": 980120,
+      "en": "Researchers at the International Shark Attack File also told us they've seen a marked increase in the last three years",
+      "zh": "国际鲨鱼袭击档案的研究人员也告诉我们，过去三年里，他们明显看到"
+    },
+    {
+      "id": 157,
+      "startMs": 980360,
+      "endMs": 983400,
+      "en": "of people being bitten trying to get footage with sharks.",
+      "zh": "人们为了拍摄与鲨鱼同框的画面而被咬伤的情况有所增加。"
+    },
+    {
+      "id": 158,
+      "startMs": 983880,
+      "endMs": 988300,
+      "en": "In February last year, a tourist in the Caribbean had both hands bitten off",
+      "zh": "去年2月，一名游客在加勒比地区双手被咬断，"
+    },
+    {
+      "id": 159,
+      "startMs": 988460,
+      "endMs": 993660,
+      "en": "while trying to get a photograph of a bull shark from the shallows, according to local authorities.",
+      "zh": "据当地政府称，当时这名游客正试图在浅水区拍摄一条公牛鲨。"
+    },
+    {
+      "id": 160,
+      "startMs": 994220,
+      "endMs": 1001740,
+      "en": "Two months later, a snorkeller in Israel carrying a camera and a selfie stick was killed by sharks during a feeding frenzy.",
+      "zh": "两个月后，以色列一名携带相机和自拍杆的浮潜者在鲨鱼疯狂进食时被咬死。"
+    },
+    {
+      "id": 161,
+      "startMs": 1002380,
+      "endMs": 1007500,
+      "en": "Some influencers have been filmed touching tiger sharks and even great whites.",
+      "zh": "一些网红还被拍到触摸虎鲨，甚至大白鲨。"
+    },
+    {
+      "id": 162,
+      "startMs": 1007500,
+      "endMs": 1013260,
+      "en": "I think it's incredibly risky. We're talking about shark species here that is a true apex predator.",
+      "zh": "我认为这极其危险。我们说的这种鲨鱼是真正的顶级捕食者。"
+    },
+    {
+      "id": 163,
+      "startMs": 1013580,
+      "endMs": 1018380,
+      "en": "You wouldn't walk into the Serengeti and try and, you know, put your hand on the face of a lion.",
+      "zh": "你不会走进塞伦盖蒂，然后试着把手放到狮子脸上，对吧。"
+    },
+    {
+      "id": 164,
+      "startMs": 1018380,
+      "endMs": 1022220,
+      "en": "I feel like sometimes some of the criticism is just derailing the conversation.",
+      "zh": "我觉得有时有些批评只是在让讨论偏离重点。"
+    },
+    {
+      "id": 165,
+      "startMs": 1022300,
+      "endMs": 1028220,
+      "en": "One of the best-known shark content creators is Ocean Ramsey, a 38-year-old former model",
+      "zh": "最知名的鲨鱼内容创作者之一是奥申·拉姆齐，这位38岁的前模特"
+    },
+    {
+      "id": 166,
+      "startMs": 1028540,
+      "endMs": 1034060,
+      "en": "who shot to fame after she was pictured swimming with one of the largest great white sharks ever seen.",
+      "zh": "因被拍到与人类见过的最大大白鲨之一同游而一举成名。"
+    },
+    {
+      "id": 167,
+      "startMs": 1034860,
+      "endMs": 1037660,
+      "en": "She often posts footage of herself touching sharks.",
+      "zh": "她经常发布自己触摸鲨鱼的视频。"
+    },
+    {
+      "id": 168,
+      "startMs": 1038060,
+      "endMs": 1044700,
+      "en": "She spoke to us from a boat in Hawaii, where she runs Dive with Ocean shark tours for paying customers.",
+      "zh": "她在夏威夷的一艘船上接受了我们的采访；她在那里经营“与奥申潜水”鲨鱼观光项目，接待付费游客。"
+    },
+    {
+      "id": 169,
+      "startMs": 1044780,
+      "endMs": 1051200,
+      "en": "My intent with all of my content has never been to gain views. It's to gain protection for sharks.",
+      "zh": "我所有内容的目的从来都不是获取播放量，而是为鲨鱼争取保护。"
+    },
+    {
+      "id": 170,
+      "startMs": 1051360,
+      "endMs": 1056640,
+      "en": "But many shark scientists have criticised you, haven't they, for getting so close to the sharks",
+      "zh": "但许多鲨鱼科学家都批评过你，不是吗？因为你离鲨鱼太近，"
+    },
+    {
+      "id": 171,
+      "startMs": 1056640,
+      "endMs": 1060800,
+      "en": "and touching them, that they say is harmful to the sharks, that it causes them stress?",
+      "zh": "还触摸它们；科学家说这会伤害鲨鱼，给它们造成压力？"
+    },
+    {
+      "id": 172,
+      "startMs": 1061040,
+      "endMs": 1062560,
+      "en": "I'm not actually harming the shark.",
+      "zh": "我实际上并没有伤害鲨鱼。"
+    },
+    {
+      "id": 173,
+      "startMs": 1062960,
+      "endMs": 1067520,
+      "en": "All of my work and what I share is respecting and observing from a distance.",
+      "zh": "我的所有工作以及我分享的内容，都是尊重鲨鱼并保持距离观察。"
+    },
+    {
+      "id": 174,
+      "startMs": 1067680,
+      "endMs": 1072400,
+      "en": "But you're best known for touching the great whites and trying to ride their dorsal fins, aren't you?",
+      "zh": "但你最出名的不就是触摸大白鲨，还试图骑在它们的背鳍上吗？"
+    },
+    {
+      "id": 175,
+      "startMs": 1072640,
+      "endMs": 1077360,
+      "en": "They're not. That's a couple seconds over multiple decades of my career.",
+      "zh": "并不是。那只是我几十年职业生涯中的短短几秒。"
+    },
+    {
+      "id": 176,
+      "startMs": 1077760,
+      "endMs": 1084880,
+      "en": "We spoke to several content creators who all denied being motivated by social media views, clicks or revenue,",
+      "zh": "我们采访了几位内容创作者，他们都否认自己的动机是社交媒体播放量、点击量或收入，"
+    },
+    {
+      "id": 177,
+      "startMs": 1085200,
+      "endMs": 1090800,
+      "en": "and insisted they were supporting conservation or attempting to change public perceptions of sharks.",
+      "zh": "并坚称自己是在支持鲨鱼保护，或试图改变公众对鲨鱼的看法。"
+    },
+    {
+      "id": 178,
+      "startMs": 1091280,
+      "endMs": 1097520,
+      "en": "But the warning from experts is clear: getting that perfect pic could come at a painful price.",
+      "zh": "但专家的警告很明确：拍到那张完美照片，可能要付出痛苦的代价。"
+    },
+    {
+      "id": 179,
+      "startMs": 1100300,
+      "endMs": 1102540,
+      "en": "That report was by Will Vernon.",
+      "zh": "以上报道来自威尔·弗农。"
+    },
+    {
+      "id": 180,
+      "startMs": 1105120,
+      "endMs": 1110560,
+      "en": "Still to come in this podcast: the latest in a string of museum heists across Europe.",
+      "zh": "本期播客稍后还有：欧洲一连串博物馆盗窃案的最新进展。"
+    },
+    {
+      "id": 181,
+      "startMs": 1111120,
+      "endMs": 1116320,
+      "en": "Messina without Antonello is a city truly devoid of identity.",
+      "zh": "没有安东内洛的墨西拿，是一座真正失去身份认同的城市。"
+    },
+    {
+      "id": 182,
+      "startMs": 1116720,
+      "endMs": 1120960,
+      "en": "These are the kind of events that seem impossible, the sort of thing one usually sees in movies.",
+      "zh": "这类事件让人觉得不可能发生，通常只会在电影里看到。"
+    },
+    {
+      "id": 183,
+      "startMs": 1121600,
+      "endMs": 1126400,
+      "en": "Four Renaissance paintings worth millions are stolen from an Italian museum.",
+      "zh": "四幅价值数百万的文艺复兴时期画作从意大利一家博物馆失窃。"
+    },
+    {
+      "id": 184,
+      "startMs": 1133960,
+      "endMs": 1135960,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 185,
+      "startMs": 1136520,
+      "endMs": 1143400,
+      "en": "A 60-day deadline on the Memorandum of Understanding signed by the US and Iran in June has now passed.",
+      "zh": "美国与伊朗今年6月签署的谅解备忘录所规定的60天期限现已届满。"
+    },
+    {
+      "id": 186,
+      "startMs": 1144060,
+      "endMs": 1149660,
+      "en": "By now, the two countries were supposed to have sorted out a whole host of issues, including Iran's nuclear program.",
+      "zh": "按照原定计划，两国到此时本应解决一系列问题，其中包括伊朗核计划。"
+    },
+    {
+      "id": 187,
+      "startMs": 1150220,
+      "endMs": 1153580,
+      "en": "But the conflict continues, albeit at a lower level.",
+      "zh": "但冲突仍在继续，只是烈度有所降低。"
+    },
+    {
+      "id": 188,
+      "startMs": 1154140,
+      "endMs": 1160220,
+      "en": "Iran says it won't resume talks with the US until its conditions are met for shipping to resume through the Strait of Hormuz.",
+      "zh": "伊朗表示，在恢复霍尔木兹海峡航运的条件得到满足之前，不会重启与美国的谈判。"
+    },
+    {
+      "id": 189,
+      "startMs": 1160860,
+      "endMs": 1167820,
+      "en": "And the head of Iran's army has announced a bounty of $30,000 for every US soldier killed.",
+      "zh": "伊朗陆军负责人还宣布，每杀死一名美军士兵，将奖励3万美元。"
+    },
+    {
+      "id": 190,
+      "startMs": 1168380,
+      "endMs": 1176860,
+      "en": "Our world news correspondent, Joe Inwood, takes a look at what, if anything, the memorandum has achieved since it was signed two months ago.",
+      "zh": "本台国际新闻记者乔·因伍德将审视这份备忘录自两个月前签署以来究竟取得了哪些成果，如果确有成果的话。"
+    },
+    {
+      "id": 191,
+      "startMs": 1179500,
+      "endMs": 1187820,
+      "en": "Surrounded by world leaders and signing with his trademark thick black pen, this was hailed by the White House as a historic breakthrough.",
+      "zh": "在各国领导人的簇拥下，他用标志性的粗黑笔签字；白宫称这是一次历史性突破。"
+    },
+    {
+      "id": 192,
+      "startMs": 1191640,
+      "endMs": 1197320,
+      "en": "It was the moment Donald Trump signed the 14-point Memorandum of Understanding between the US and Iran.",
+      "zh": "这正是唐纳德·特朗普签署美伊14点谅解备忘录的时刻。"
+    },
+    {
+      "id": 193,
+      "startMs": 1197320,
+      "endMs": 1202920,
+      "en": "It was a deal they hoped would bring to an end the fighting that had raged since the 28th of February,",
+      "zh": "他们希望这项协议能结束自2月28日以来一直激烈进行的战斗，"
+    },
+    {
+      "id": 194,
+      "startMs": 1205380,
+      "endMs": 1215940,
+      "en": "would begin negotiations over the thorniest of issues, most notably Iran's nuclear program, and reopen the Strait of Hormuz, all within 60 days.",
+      "zh": "并在60天内就最棘手的问题展开谈判，尤其是伊朗核计划，同时重开霍尔木兹海峡。"
+    },
+    {
+      "id": 195,
+      "startMs": 1216180,
+      "endMs": 1221060,
+      "en": "Well, that day has now arrived with few signs of progress on the surface.",
+      "zh": "如今期限已经到来，但表面上几乎看不到取得进展的迹象。"
+    },
+    {
+      "id": 196,
+      "startMs": 1221540,
+      "endMs": 1227140,
+      "en": "One of the world's most vital waterways remains mostly blocked, maritime traffic reduced to a trickle.",
+      "zh": "这条世界上最重要的水道之一仍基本封锁，海上交通已降至寥寥无几。"
+    },
+    {
+      "id": 197,
+      "startMs": 1227860,
+      "endMs": 1236260,
+      "en": "But talks have been taking place between Iran and Oman, the other country that controls the Strait, as set out in the Memorandum of Understanding.",
+      "zh": "不过，按照谅解备忘录的规定，伊朗一直在与共同控制该海峡的另一国家阿曼举行会谈。"
+    },
+    {
+      "id": 198,
+      "startMs": 1236740,
+      "endMs": 1243860,
+      "en": "Iran's foreign minister, Abbas Araghchi, said a deal over the future management of the Strait was close.",
+      "zh": "伊朗外交部长阿巴斯·阿拉格齐表示，有关海峡未来管理方式的协议已接近达成。"
+    },
+    {
+      "id": 199,
+      "startMs": 1244244,
+      "endMs": 1252580,
+      "en": "It is possible that we will reach a result soon, but I want to emphasize that this negotiation and the opening of the Strait of Hormuz are two separate issues.",
+      "zh": "我们有可能很快取得结果，但我要强调，这项谈判与开放霍尔木兹海峡是两个不同的问题。"
+    },
+    {
+      "id": 200,
+      "startMs": 1253220,
+      "endMs": 1257540,
+      "en": "One is a technical negotiation regarding the determination of the maritime route.",
+      "zh": "其中一项是关于确定海上航线的技术谈判。"
+    },
+    {
+      "id": 201,
+      "startMs": 1258100,
+      "endMs": 1266200,
+      "en": "Once this route is determined, whether the Strait be reopened or not depends on the fulfillment of other conditions that the United States must adhere to.",
+      "zh": "一旦确定这条航线，海峡是否重开将取决于美国是否履行其必须遵守的其他条件。"
+    },
+    {
+      "id": 202,
+      "startMs": 1266680,
+      "endMs": 1276120,
+      "en": "Now, exactly what those conditions are is not yet clear, but they could involve the charging of fees by Iran, something the US and Gulf States say they cannot accept.",
+      "zh": "目前尚不清楚这些条件具体是什么，但可能包括由伊朗收取费用，而美国和海湾国家称这无法接受。"
+    },
+    {
+      "id": 203,
+      "startMs": 1276520,
+      "endMs": 1284680,
+      "en": "On Friday, speaking at a police training center, President Trump said his blockade on Iran would remain, even if there was a cost.",
+      "zh": "周五，特朗普总统在一所警察培训中心讲话时表示，即使需要付出代价，他对伊朗的封锁也将继续。"
+    },
+    {
+      "id": 204,
+      "startMs": 1285080,
+      "endMs": 1288680,
+      "en": "For you to pay a tiny little bit more for your gasoline,",
+      "zh": "如果你需要为汽油多付那么一点点钱，"
+    },
+    {
+      "id": 205,
+      "startMs": 1289480,
+      "endMs": 1297560,
+      "en": "just remember you're doing it so that a very evil country cannot have—a country, really, it's the number-one state sponsor of terror in the world.",
+      "zh": "请记住，你这样做是为了不让一个非常邪恶的国家拥有——这个国家实际上是世界头号支持恐怖主义的国家。"
+    },
+    {
+      "id": 206,
+      "startMs": 1298200,
+      "endMs": 1300200,
+      "en": "We don't want to have them have a nuclear weapon.",
+      "zh": "我们不希望他们拥有核武器。"
+    },
+    {
+      "id": 207,
+      "startMs": 1300280,
+      "endMs": 1308680,
+      "en": "So, what about the nuclear issue? Well, some technical discussions have taken place, but no one has suggested there have been any breakthroughs.",
+      "zh": "那么，核问题进展如何？一些技术性讨论已经举行，但没有人表示取得了任何突破。"
+    },
+    {
+      "id": 208,
+      "startMs": 1309160,
+      "endMs": 1313480,
+      "en": "The final, and maybe most urgent, aim of the memorandum was to end the fighting.",
+      "zh": "备忘录的最后一项目标，也可能是最紧迫的目标，是结束战斗。"
+    },
+    {
+      "id": 209,
+      "startMs": 1315320,
+      "endMs": 1318120,
+      "en": "Well, these are the sounds of the last 60 days.",
+      "zh": "以下是过去60天里的声音。"
+    },
+    {
+      "id": 210,
+      "startMs": 1319920,
+      "endMs": 1322640,
+      "en": "Iranian missiles being launched into the night sky,",
+      "zh": "伊朗导弹被发射升入夜空，"
+    },
+    {
+      "id": 211,
+      "startMs": 1324620,
+      "endMs": 1329100,
+      "en": "while US Central Command released images of Iranian targets being destroyed.",
+      "zh": "与此同时，美国中央司令部发布了伊朗目标被摧毁的画面。"
+    },
+    {
+      "id": 212,
+      "startMs": 1330220,
+      "endMs": 1333340,
+      "en": "Both sides have accused the other of violating the memorandum.",
+      "zh": "双方都指责对方违反了备忘录。"
+    },
+    {
+      "id": 213,
+      "startMs": 1333740,
+      "endMs": 1336620,
+      "en": "At one point, Donald Trump even said it was over.",
+      "zh": "唐纳德·特朗普甚至一度表示，备忘录已经终结。"
+    },
+    {
+      "id": 214,
+      "startMs": 1337260,
+      "endMs": 1341660,
+      "en": "But the fighting of the last two months was not at the level seen before it was signed.",
+      "zh": "但过去两个月的战斗烈度没有达到备忘录签署前的水平。"
+    },
+    {
+      "id": 215,
+      "startMs": 1342220,
+      "endMs": 1349740,
+      "en": "Taken together, it led Dr Ranj Alaaldin, senior associate fellow for international security at the Royal United Services Institute,",
+      "zh": "综合来看，这促使英国皇家联合军种研究所国际安全高级副研究员兰杰·阿拉丁博士，"
+    },
+    {
+      "id": 216,
+      "startMs": 1350220,
+      "endMs": 1353100,
+      "en": "to give this verdict on the Memorandum of Understanding:",
+      "zh": "对这份谅解备忘录作出如下评价："
+    },
+    {
+      "id": 217,
+      "startMs": 1353500,
+      "endMs": 1359660,
+      "en": "Certainly a partial success, a very fragile agreement with several shortcomings.",
+      "zh": "这当然算是部分成功，但协议非常脆弱，而且存在若干缺陷。"
+    },
+    {
+      "id": 218,
+      "startMs": 1360140,
+      "endMs": 1366300,
+      "en": "Instead of looking at the MOU as an agreement with clear, unambiguous terms,",
+      "zh": "我们不应把这份谅解备忘录视为一项条款清晰、毫无歧义的协议，"
+    },
+    {
+      "id": 219,
+      "startMs": 1366780,
+      "endMs": 1375340,
+      "en": "we should instead think of it as an agreement that sets the guiding principles for the very difficult negotiations that have to unfold.",
+      "zh": "而应将其视为一项为后续艰难谈判确立指导原则的协议。"
+    },
+    {
+      "id": 220,
+      "startMs": 1375740,
+      "endMs": 1381260,
+      "en": "But for now, it is far from clear when, or if, those negotiations will take place.",
+      "zh": "但目前远不清楚这些谈判何时会举行，甚至是否会举行。"
+    },
+    {
+      "id": 221,
+      "startMs": 1381260,
+      "endMs": 1385740,
+      "en": "It is often said it is easier to start a war than to end one.",
+      "zh": "人们常说，发动战争比结束战争更容易。"
+    },
+    {
+      "id": 222,
+      "startMs": 1386460,
+      "endMs": 1389100,
+      "en": "The last 60 days have shown that once again.",
+      "zh": "过去60天再次证明了这一点。"
+    },
+    {
+      "id": 223,
+      "startMs": 1390120,
+      "endMs": 1390920,
+      "en": "Joe Inwood.",
+      "zh": "乔·因伍德报道。"
+    },
+    {
+      "id": 224,
+      "startMs": 1391560,
+      "endMs": 1396360,
+      "en": "It's emerged that Italy was celebrating its summer national holiday this weekend.",
+      "zh": "据悉，本周末意大利正在庆祝夏季全国性节日。"
+    },
+    {
+      "id": 225,
+      "startMs": 1396600,
+      "endMs": 1406040,
+      "en": "Four of the most important paintings by the early Renaissance master Antonello da Messina were stolen in his hometown of Messina in Sicily.",
+      "zh": "文艺复兴早期大师安东内洛·达·梅西纳最重要的四幅画作，在其故乡西西里岛墨西拿被盗。"
+    },
+    {
+      "id": 226,
+      "startMs": 1406520,
+      "endMs": 1410680,
+      "en": "As Carla Conti reports, the theft has left residents in shock.",
+      "zh": "卡拉·孔蒂报道说，这起盗窃案令当地居民震惊。"
+    },
+    {
+      "id": 227,
+      "startMs": 1410840,
+      "endMs": 1420280,
+      "en": "While many Messiners were enjoying the summer holiday of Ferragosto on Saturday night, thieves broke into the regional museum, also known as the MuMe.",
+      "zh": "周六晚，许多墨西拿居民正在欢度夏季节日费拉戈斯托时，窃贼闯入了当地的地区博物馆，该馆也称 MuMe。"
+    },
+    {
+      "id": 228,
+      "startMs": 1420760,
+      "endMs": 1428520,
+      "en": "They left with three of the five surviving panels of Antonello da Messina's San Gregorio Polyptych, a 15th-century altarpiece,",
+      "zh": "他们带走了安托内洛·达·梅西纳15世纪祭坛画《圣格雷戈里奥多联画》现存五块画板中的三块，"
+    },
+    {
+      "id": 229,
+      "startMs": 1428760,
+      "endMs": 1435800,
+      "en": "as well as a small double-sided devotional painting showing the Virgin and Child on one side and Christ on the other.",
+      "zh": "以及一幅小型双面宗教画，一面绘有圣母与圣婴，另一面绘有基督。"
+    },
+    {
+      "id": 230,
+      "startMs": 1436440,
+      "endMs": 1442200,
+      "en": "The alarm went off and surveillance cameras were recording, but the thieves escaped before police arrived.",
+      "zh": "警报已经响起，监控摄像头也在录像，但窃贼在警方赶到前逃脱。"
+    },
+    {
+      "id": 231,
+      "startMs": 1442680,
+      "endMs": 1447160,
+      "en": "Two other panels from the altarpiece were found abandoned outside the museum.",
+      "zh": "祭坛画的另外两块画板被发现遗弃在博物馆外。"
+    },
+    {
+      "id": 232,
+      "startMs": 1447480,
+      "endMs": 1452060,
+      "en": "This is a great loss for Messina, going far beyond the value of the paintings.",
+      "zh": "这对墨西拿是一次重大损失，其意义远远超出画作本身的价值。"
+    },
+    {
+      "id": 233,
+      "startMs": 1452380,
+      "endMs": 1462140,
+      "en": "Antonello was born here around 1430 and became one of the most important painters of the early Renaissance, combining Italian and Flemish influences.",
+      "zh": "安托内洛约于1430年出生于此，后来成为文艺复兴早期最重要的画家之一，兼具意大利与佛兰德斯艺术影响。"
+    },
+    {
+      "id": 234,
+      "startMs": 1462460,
+      "endMs": 1468780,
+      "en": "The polyptych is especially symbolic for Messina, as it survived the devastating 1908 earthquake,",
+      "zh": "这组多联画对墨西拿尤其具有象征意义，因为它经历了毁灭性的1908年地震，"
+    },
+    {
+      "id": 235,
+      "startMs": 1469100,
+      "endMs": 1474380,
+      "en": "which destroyed much of the city, and it was the only work by Antonello never to have left his hometown.",
+      "zh": "那场地震摧毁了这座城市的大部分地区；它也是安东内洛唯一一件从未离开故乡的作品。"
+    },
+    {
+      "id": 236,
+      "startMs": 1474700,
+      "endMs": 1477900,
+      "en": "Vincenzo Caruso is Messina's councillor for culture.",
+      "zh": "温琴佐·卡鲁索是墨西拿市文化委员。"
+    },
+    {
+      "id": 237,
+      "startMs": 1478140,
+      "endMs": 1483420,
+      "en": "Messina without Antonello is a city truly devoid of identity.",
+      "zh": "没有安托内洛的墨西拿，是一座真正失去自身身份的城市。"
+    },
+    {
+      "id": 238,
+      "startMs": 1483820,
+      "endMs": 1488060,
+      "en": "These are the kind of events that seem impossible, the sort of thing one usually sees in movies.",
+      "zh": "这类事件让人觉得不可能发生，仿佛通常只会在电影中看到。"
+    },
+    {
+      "id": 239,
+      "startMs": 1488380,
+      "endMs": 1491660,
+      "en": "What is surprising is that these are not canvases, but panel paintings.",
+      "zh": "令人惊讶的是，这些并非画布作品，而是木板画。"
+    },
+    {
+      "id": 240,
+      "startMs": 1491980,
+      "endMs": 1499180,
+      "en": "Moving panels over a metre tall out of the museum was no easy feat, suggesting the theft was meticulously planned and executed.",
+      "zh": "把一米多高的画板搬出博物馆绝非易事，这表明盗窃经过了周密策划与实施。"
+    },
+    {
+      "id": 241,
+      "startMs": 1499180,
+      "endMs": 1507660,
+      "en": "Prosecutors have opened an investigation, with police looking into whether the paintings were stolen for the illicit art market.",
+      "zh": "检察机关已展开调查，警方正在查明这些画作是否为非法艺术品市场而盗。"
+    },
+    {
+      "id": 242,
+      "startMs": 1508220,
+      "endMs": 1517360,
+      "en": "Art theft expert Anthony Amore says that if the robbery was commissioned, it's unlikely to have been by a wealthy collector wanting the works for themselves.",
+      "zh": "艺术品盗窃专家安东尼·阿莫尔表示，如果这起盗窃是受人委托实施的，委托者不太可能是想独占作品的富有收藏家。"
+    },
+    {
+      "id": 243,
+      "startMs": 1517520,
+      "endMs": 1522080,
+      "en": "If it's stolen to order, it's more like some gang boss says,",
+      "zh": "如果这是一起受人指使的盗窃，就更像是某个帮派头目说："
+    },
+    {
+      "id": 244,
+      "startMs": 1522080,
+      "endMs": 1529280,
+      "en": "‘Take these things. They could be valuable to us as a get-out-of-jail-free card, or as collateral in the drug trade.’",
+      "zh": "‘把这些东西拿来。它们对我们可能很有价值，可以成为免罪脱身的筹码，或者用作毒品交易的抵押品。’"
+    },
+    {
+      "id": 245,
+      "startMs": 1529280,
+      "endMs": 1535520,
+      "en": "That would be much more common than would be some billionaire who wants them for himself.",
+      "zh": "这种情况要比某位亿万富翁想把画作据为己有常见得多。"
+    },
+    {
+      "id": 246,
+      "startMs": 1536240,
+      "endMs": 1540480,
+      "en": "Art theft expert Anthony Amore, ending that report by Carla Conti.",
+      "zh": "艺术品盗窃专家安东尼·阿莫尔为卡拉·孔蒂的报道作结。"
+    },
+    {
+      "id": 247,
+      "startMs": 1541440,
+      "endMs": 1542160,
+      "en": "Football now.",
+      "zh": "下面来看足球。"
+    },
+    {
+      "id": 248,
+      "startMs": 1544400,
+      "endMs": 1549200,
+      "en": "And that's the moment Cameroon won the Women's Africa Cup of Nations for the first time",
+      "zh": "这就是喀麦隆首次赢得女足非洲杯冠军的时刻，"
+    },
+    {
+      "id": 249,
+      "startMs": 1549280,
+      "endMs": 1554640,
+      "en": "after beating tournament debutants Malawi 3-0 in a dramatic final.",
+      "zh": "她们在一场扣人心弦的决赛中以3比0击败首次参赛的马拉维。"
+    },
+    {
+      "id": 250,
+      "startMs": 1555200,
+      "endMs": 1557440,
+      "en": "Many fans expressed their delight.",
+      "zh": "许多球迷表达了喜悦之情。"
+    },
+    {
+      "id": 251,
+      "startMs": 1557440,
+      "endMs": 1563440,
+      "en": "Like this man, who said: “I feel happy.”",
+      "zh": "比如这名男子就说：“我感到很开心。”"
+    },
+    {
+      "id": 252,
+      "startMs": 1563520,
+      "endMs": 1570400,
+      "en": "I feel like someone whose worries are a little bit over. That's what they say. Football gives hope. Football unites.",
+      "zh": "我感觉自己的忧愁稍微消散了一些。人们就是这么说的：足球带来希望，足球让人团结。"
+    },
+    {
+      "id": 253,
+      "startMs": 1570640,
+      "endMs": 1574480,
+      "en": "Our reporter, Maz Farooki, was among the fans at the match in Morocco.",
+      "zh": "本台记者马兹·法鲁基当时也在摩洛哥的现场球迷之中。"
+    },
+    {
+      "id": 254,
+      "startMs": 1575120,
+      "endMs": 1577760,
+      "en": "Well, it was a match really that Cameroon controlled from the front.",
+      "zh": "这场比赛确实从一开始就由喀麦隆掌控。"
+    },
+    {
+      "id": 255,
+      "startMs": 1577760,
+      "endMs": 1583760,
+      "en": "They've been in three Women's Africa Cup of Nations finals previously, lost all three of those to Nigeria.",
+      "zh": "她们此前三次打进女足非洲杯决赛，但三次都输给了尼日利亚。"
+    },
+    {
+      "id": 256,
+      "startMs": 1583760,
+      "endMs": 1589840,
+      "en": "And the big narrative heading into this final was the defence of Cameroon, which has been very strong in this tournament,",
+      "zh": "这场决赛前的一大看点，是本届赛事中一直表现非常强势的喀麦隆防线，"
+    },
+    {
+      "id": 257,
+      "startMs": 1589840,
+      "endMs": 1597520,
+      "en": "against the Chawinga sisters of Malawi, Tabitha and Temwa, who have been so strong going forward, scoring goals for Malawi.",
+      "zh": "迎战马拉维的查温加姐妹——塔比莎和滕布瓦；两人在进攻端表现强劲，不断为马拉维进球。"
+    },
+    {
+      "id": 258,
+      "startMs": 1597520,
+      "endMs": 1600720,
+      "en": "But they were absolutely out of this match throughout.",
+      "zh": "但她们整场比赛都完全被压制住了。"
+    },
+    {
+      "id": 259,
+      "startMs": 1600800,
+      "endMs": 1607940,
+      "en": "Cameroon tactically getting it spot on, their three goals coming in the first half, two from Marie Ngah, one from Naomi Eto,",
+      "zh": "喀麦隆的战术安排完全奏效，三个进球都出现在上半场，其中玛丽·恩加打进两球，娜奥米·埃托打进一球，"
+    },
+    {
+      "id": 260,
+      "startMs": 1608420,
+      "endMs": 1614660,
+      "en": "and they held on very comfortably in the second half to make history, lifting their first Women's Africa Cup of Nations title.",
+      "zh": "她们在下半场轻松守住优势，创造历史，捧起队史首座女足非洲杯冠军奖杯。"
+    },
+    {
+      "id": 261,
+      "startMs": 1615140,
+      "endMs": 1622580,
+      "en": "And it was Malawi's first appearance in this tournament, so a remarkable run for them, despite the disappointing final result.",
+      "zh": "这是马拉维首次参加这项赛事，因此尽管决赛结果令人失望，她们的征程依然十分了不起。"
+    },
+    {
+      "id": 262,
+      "startMs": 1623140,
+      "endMs": 1628660,
+      "en": "Indeed, they have never played in a Cup of Nations before, debutants making their way all the way to the final.",
+      "zh": "的确，她们此前从未参加过非洲杯，却以新军身份一路闯进决赛。"
+    },
+    {
+      "id": 263,
+      "startMs": 1628660,
+      "endMs": 1636020,
+      "en": "And, of course, getting to the semi-finals of this tournament means they have also qualified for the Women's World Cup next year in Brazil.",
+      "zh": "当然，打进本届赛事半决赛也意味着，她们已获得明年在巴西举行的女足世界杯参赛资格。"
+    },
+    {
+      "id": 264,
+      "startMs": 1636020,
+      "endMs": 1640900,
+      "en": "And speaking to their captain, Tabitha Chawinga, after this match, she wasn't too disappointed.",
+      "zh": "赛后采访马拉维队长塔比莎·查温加时，她并没有显得太过失望。"
+    },
+    {
+      "id": 265,
+      "startMs": 1640900,
+      "endMs": 1647460,
+      "en": "She just admitted that her side have lots of work to do over the next ten months ahead of that World Cup next year.",
+      "zh": "她只是承认，在明年的世界杯到来前，球队未来十个月还有大量工作要做。"
+    },
+    {
+      "id": 266,
+      "startMs": 1647780,
+      "endMs": 1651700,
+      "en": "I think we are not going to sleep. We're not going to sleep. We need to prepare very well.",
+      "zh": "我想我们不能松懈。我们不能松懈，必须做好充分准备。"
+    },
+    {
+      "id": 267,
+      "startMs": 1652820,
+      "endMs": 1658260,
+      "en": "We are underdogs, but God is there for us, and we can do good even in the World Cup. Yeah.",
+      "zh": "我们是弱旅，但上帝与我们同在，即使到了世界杯，我们也能有好的表现。是的。"
+    },
+    {
+      "id": 268,
+      "startMs": 1658500,
+      "endMs": 1664500,
+      "en": "For Cameroon, though, as well, it's a brilliant story because they only made it into this Cup of Nations",
+      "zh": "不过，对喀麦隆来说，这同样是一个精彩的故事，因为她们本来只是以"
+    },
+    {
+      "id": 269,
+      "startMs": 1664740,
+      "endMs": 1669540,
+      "en": "as a lucky loser when the tournament was expanded at the end of last year to 16 teams.",
+      "zh": "成绩最好的落选队身份，赶上去年年底赛事扩军至16支球队，才得以参赛。"
+    },
+    {
+      "id": 270,
+      "startMs": 1669540,
+      "endMs": 1674820,
+      "en": "So again, for them, it's a brilliant story. But it's such an unexpected final we had here.",
+      "zh": "所以对她们来说，这又是一个精彩的故事。而我们在这里见证的这场决赛实在出人意料。"
+    },
+    {
+      "id": 271,
+      "startMs": 1674900,
+      "endMs": 1680980,
+      "en": "It just shows how quickly the gap in African football is closing, certainly in the women's game.",
+      "zh": "这正说明非洲足球的实力差距正在迅速缩小，女足领域尤其如此。"
+    },
+    {
+      "id": 272,
+      "startMs": 1681220,
+      "endMs": 1686020,
+      "en": "And how much support does women's football in Africa get compared to men's football?",
+      "zh": "那么与男足相比，非洲女足能得到多少支持呢？"
+    },
+    {
+      "id": 273,
+      "startMs": 1686340,
+      "endMs": 1691700,
+      "en": "What I think is very interesting about both these finalists is how much support they do get.",
+      "zh": "我认为这两支决赛球队非常有意思的一点，就是她们确实得到了相当多的支持。"
+    },
+    {
+      "id": 274,
+      "startMs": 1691780,
+      "endMs": 1699540,
+      "en": "So the Football Federation president of Cameroon, Samuel Eto'o, of course, in his time, in his playing career, hugely successful player,",
+      "zh": "比如喀麦隆足协主席萨缪尔·埃托，在球员时代当然是一位极其成功的球员，"
+    },
+    {
+      "id": 275,
+      "startMs": 1699540,
+      "endMs": 1705540,
+      "en": "arguably the most successful in the history of Cameroonian football, is very, very keen to support the women's game.",
+      "zh": "可以说是喀麦隆足球史上最成功的球员；他非常、非常热心于支持女足。"
+    },
+    {
+      "id": 276,
+      "startMs": 1705540,
+      "endMs": 1708420,
+      "en": "And obviously that has taken them all the way to this final here.",
+      "zh": "显然，这份支持也帮助她们一路走到了这场决赛。"
+    },
+    {
+      "id": 277,
+      "startMs": 1708420,
+      "endMs": 1715160,
+      "en": "Malawi, over the last couple of years, they've had a new Football Federation president installed in their country since the end of 2023.",
+      "zh": "马拉维这边，自2023年年底以来，也有一位新任足协主席上任。"
+    },
+    {
+      "id": 278,
+      "startMs": 1715560,
+      "endMs": 1721320,
+      "en": "And again, it's very important for him to have equal pay, equal bonuses, between men's and women's teams.",
+      "zh": "同样，对他来说，男女国家队同工同酬、奖金平等非常重要。"
+    },
+    {
+      "id": 279,
+      "startMs": 1721320,
+      "endMs": 1727160,
+      "en": "So what these two nations have shown is that parity on the continent can bring absolutely brilliant stories",
+      "zh": "因此，这两个国家证明，在非洲大陆实现平等，可以造就无比精彩的故事，"
+    },
+    {
+      "id": 280,
+      "startMs": 1727160,
+      "endMs": 1730200,
+      "en": "and a huge, huge improvement in the level of football that they play.",
+      "zh": "也能让她们的足球竞技水平得到巨大、巨大的提升。"
+    },
+    {
+      "id": 281,
+      "startMs": 1731000,
+      "endMs": 1732040,
+      "en": "Maz Farooki.",
+      "zh": "马兹·法鲁基报道。"
+    },
+    {
+      "id": 282,
+      "startMs": 1734640,
+      "endMs": 1736000,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是本期节目的全部内容。"
+    },
+    {
+      "id": 283,
+      "startMs": 1736080,
+      "endMs": 1742800,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果您想联系我们，可以发送电子邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 284,
+      "startMs": 1743600,
+      "endMs": 1747280,
+      "en": "This edition of the Global News Podcast was mixed by David Evans.",
+      "zh": "本期《全球新闻播客》的混音由戴维·埃文斯完成。"
+    },
+    {
+      "id": 285,
+      "startMs": 1747520,
+      "endMs": 1750000,
+      "en": "The producers were Chantal Hartledge and Siobhan Leahy.",
+      "zh": "制片人是尚塔尔·哈特利奇和希沃恩·莱希。"
+    },
+    {
+      "id": 286,
+      "startMs": 1750480,
+      "endMs": 1752080,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 287,
+      "startMs": 1752240,
+      "endMs": 1753040,
+      "en": "I'm Jannat Jalil.",
+      "zh": "我是贾娜特·贾利勒。"
+    },
+    {
+      "id": 288,
+      "startMs": 1753280,
+      "endMs": 1754720,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
