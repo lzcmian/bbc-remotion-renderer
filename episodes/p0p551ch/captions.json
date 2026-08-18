@@ -1,0 +1,1838 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "18 August 2026"
+  },
+  "durationMs": 1628180,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2960,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是英国广播公司世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4560,
+      "endMs": 10880,
+      "en": "I'm Celia Hatton, and at 14:00 GMT on Tuesday, the 18th of August, these are our top stories.",
+      "zh": "我是西莉娅·哈顿。现在是8月18日星期二格林尼治标准时间14点，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11600,
+      "endMs": 21440,
+      "en": "As Russia and Ukraine exchange strikes, a senior officer in the Ukrainian military tells the BBC that long-range attacks deep inside Russian territory will continue.",
+      "zh": "在俄罗斯和乌克兰互相发动袭击之际，乌克兰军方一名高级军官告诉BBC，深入俄罗斯境内的远程袭击将继续。"
+    },
+    {
+      "id": 4,
+      "startMs": 22160,
+      "endMs": 29840,
+      "en": "Moscow warns Britain that there'll be consequences, following revelations that British drones were used by Ukraine to strike Russia.",
+      "zh": "有消息披露英国无人机被乌克兰用于袭击俄罗斯后，莫斯科警告英国将承担后果。"
+    },
+    {
+      "id": 5,
+      "startMs": 30320,
+      "endMs": 38000,
+      "en": "And a cousin of the deposed Syrian leader Bashar al-Assad has been sentenced to death for a series of crimes, including murder and torture.",
+      "zh": "此外，被推翻的叙利亚领导人巴沙尔·阿萨德的一名表亲因包括谋杀和酷刑在内的一系列罪行被判死刑。"
+    },
+    {
+      "id": 6,
+      "startMs": 40560,
+      "endMs": 51420,
+      "en": "I therefore declare Hakainde Hichilema to be President-elect.",
+      "zh": "因此，我宣布哈凯恩德·希奇莱马当选总统。"
+    },
+    {
+      "id": 7,
+      "startMs": 51900,
+      "endMs": 57660,
+      "en": "The President of Zambia wins another term in office, but the opposition says the vote wasn't fair.",
+      "zh": "赞比亚总统赢得又一个任期，但反对派称这次投票并不公平。"
+    },
+    {
+      "id": 8,
+      "startMs": 62420,
+      "endMs": 64340,
+      "en": "Let's start with Russia's war with Ukraine.",
+      "zh": "先从俄罗斯与乌克兰的战争说起。"
+    },
+    {
+      "id": 9,
+      "startMs": 64420,
+      "endMs": 69540,
+      "en": "The Ukrainian authorities have ordered the evacuation of more than 2,000 families with children",
+      "zh": "俄罗斯袭击增加后，乌克兰当局下令疏散两千多个有儿童的家庭"
+    },
+    {
+      "id": 10,
+      "startMs": 69780,
+      "endMs": 75460,
+      "en": "from the region of Dnipropetrovsk near the front line, following an increase in Russian strikes.",
+      "zh": "这些家庭来自靠近前线的第聂伯罗彼得罗夫斯克地区。"
+    },
+    {
+      "id": 11,
+      "startMs": 75780,
+      "endMs": 79700,
+      "en": "Overnight, both sides carried out attacks on each other, Russia and Ukraine.",
+      "zh": "夜间，俄罗斯和乌克兰双方互相发动了袭击。"
+    },
+    {
+      "id": 12,
+      "startMs": 80100,
+      "endMs": 85140,
+      "en": "At least 10 people died in a Russian missile strike in northeastern Ukraine's Kharkiv region.",
+      "zh": "在俄罗斯对乌克兰东北部哈尔科夫州发动的一次导弹袭击中，至少10人死亡。"
+    },
+    {
+      "id": 13,
+      "startMs": 85620,
+      "endMs": 92900,
+      "en": "On the other side of the border, the mayor of Moscow says more than 600 Ukrainian drones targeted the Russian capital on Monday evening.",
+      "zh": "在边境另一侧，莫斯科市长称，周一晚间有600多架乌克兰无人机瞄准了俄罗斯首都。"
+    },
+    {
+      "id": 14,
+      "startMs": 93380,
+      "endMs": 101700,
+      "en": "It's part of a campaign by Kyiv to try to take the war deep into Russia, by destroying military supply lines and infrastructure facilities.",
+      "zh": "这是基辅试图通过摧毁军事补给线和基础设施，把战争深入俄罗斯境内的行动的一部分。"
+    },
+    {
+      "id": 15,
+      "startMs": 102020,
+      "endMs": 110340,
+      "en": "In a secret location in Kyiv, our Ukraine correspondent Dan Johnson talked to the country's Deputy Chief of Military Intelligence, Vadym Skibitskyi,",
+      "zh": "在基辅一个秘密地点，我们的乌克兰事务记者丹·约翰逊采访了乌克兰军事情报部门副主管瓦季姆·斯基比茨基，"
+    },
+    {
+      "id": 16,
+      "startMs": 110740,
+      "endMs": 113460,
+      "en": "about how Ukraine is trying to combat Russia.",
+      "zh": "谈及乌克兰如何对抗俄罗斯。"
+    },
+    {
+      "id": 17,
+      "startMs": 113940,
+      "endMs": 119540,
+      "en": "Dan spoke to me about the interview, but he started by talking about the latest Russian attacks on Ukraine.",
+      "zh": "丹向我介绍了这次采访，不过他先谈到了俄罗斯最近对乌克兰发动的袭击。"
+    },
+    {
+      "id": 18,
+      "startMs": 119780,
+      "endMs": 123080,
+      "en": "There were more strikes on different Ukrainian cities.",
+      "zh": "乌克兰多个城市遭到了更多袭击。"
+    },
+    {
+      "id": 19,
+      "startMs": 123080,
+      "endMs": 129640,
+      "en": "There were five rounds of air alerts in Kyiv, but also deadly attacks in Kharkiv this morning.",
+      "zh": "基辅拉响了五轮空袭警报，今天早上哈尔科夫也遭到致命袭击。"
+    },
+    {
+      "id": 20,
+      "startMs": 129640,
+      "endMs": 135560,
+      "en": "A missile attack there is reported to have killed 10 Ukrainians and wounded more people there.",
+      "zh": "据报道，那里的一次导弹袭击造成10名乌克兰人死亡，另有更多人受伤。"
+    },
+    {
+      "id": 21,
+      "startMs": 135560,
+      "endMs": 141560,
+      "en": "Also, reports of deaths in Kherson, in Sumy, and in Zaporizhzhia, too.",
+      "zh": "赫尔松、苏梅和扎波罗热也有人员死亡的报告。"
+    },
+    {
+      "id": 22,
+      "startMs": 141560,
+      "endMs": 147160,
+      "en": "So the current death toll stands at 17, we understand, because of those attacks last night.",
+      "zh": "据我们了解，由于昨夜的这些袭击，目前死亡人数为17人。"
+    },
+    {
+      "id": 23,
+      "startMs": 147240,
+      "endMs": 152680,
+      "en": "It underlines again the challenge that Ukraine faces in defending itself against Russian attacks.",
+      "zh": "这再次凸显乌克兰在防御俄罗斯袭击方面面临的挑战。"
+    },
+    {
+      "id": 24,
+      "startMs": 153000,
+      "endMs": 157320,
+      "en": "Dan, you've spoken to Ukrainian military intelligence. What have they told you?",
+      "zh": "丹，你采访了乌克兰军事情报部门。他们告诉了你什么？"
+    },
+    {
+      "id": 25,
+      "startMs": 157640,
+      "endMs": 163560,
+      "en": "Yes, we sat down to talk to the Deputy Chief of Ukraine's intelligence organization.",
+      "zh": "是的，我们坐下来采访了乌克兰情报机构的副主管。"
+    },
+    {
+      "id": 26,
+      "startMs": 163560,
+      "endMs": 166280,
+      "en": "He's called Major General Vadym Skibitskyi.",
+      "zh": "他名叫瓦季姆·斯基比茨基，军衔是少将。"
+    },
+    {
+      "id": 27,
+      "startMs": 166600,
+      "endMs": 172040,
+      "en": "And I started by asking him about Ukraine's long-range drone attacks into Russia.",
+      "zh": "我首先问他乌克兰对俄罗斯发动的远程无人机袭击。"
+    },
+    {
+      "id": 28,
+      "startMs": 172520,
+      "endMs": 181400,
+      "en": "They've been successful in targeting a number of sites, a number of facilities, including oil refineries and warehouses, distribution centers.",
+      "zh": "这些袭击成功瞄准了多个地点和设施，包括炼油厂、仓库和配送中心。"
+    },
+    {
+      "id": 29,
+      "startMs": 181640,
+      "endMs": 184460,
+      "en": "And he told me he thought those attacks were justified.",
+      "zh": "他告诉我，他认为这些袭击是正当的。"
+    },
+    {
+      "id": 30,
+      "startMs": 184620,
+      "endMs": 193340,
+      "en": "We should destroy and disrupt, first of all, production weaponry, and that is why one of the main objects for us is defense industry.",
+      "zh": "我们首先应该摧毁并扰乱武器生产，这就是国防工业成为我们主要目标之一的原因。"
+    },
+    {
+      "id": 31,
+      "startMs": 193420,
+      "endMs": 197980,
+      "en": "And of course, next one, logistics system, including in some cases, Wildberries, for example. Why?",
+      "zh": "当然，下一个目标是物流系统，包括某些情况下的Wildberries等。为什么？"
+    },
+    {
+      "id": 32,
+      "startMs": 197980,
+      "endMs": 204460,
+      "en": "Because it's one of the elements of the logistics system of the Russian Federation to wage the war,",
+      "zh": "因为这是俄罗斯联邦用于发动战争的物流系统要素之一，"
+    },
+    {
+      "id": 33,
+      "startMs": 204540,
+      "endMs": 214620,
+      "en": "including, for example, through Wildberries, some military equipment, military components and other elements that the Russian Federation uses for war.",
+      "zh": "例如通过Wildberries运输一些军事装备、军事部件以及俄罗斯联邦用于战争的其他要素。"
+    },
+    {
+      "id": 34,
+      "startMs": 214940,
+      "endMs": 220860,
+      "en": "Dan, looking ahead, what do the Ukrainians expect this winter to look like?",
+      "zh": "丹，展望未来，乌克兰人预计今年冬天会是什么样？"
+    },
+    {
+      "id": 35,
+      "startMs": 220860,
+      "endMs": 226620,
+      "en": "Because in past winters, Russians have targeted infrastructure like power facilities.",
+      "zh": "因为过去几个冬天，俄罗斯人一直以电力设施等基础设施为目标。"
+    },
+    {
+      "id": 36,
+      "startMs": 226700,
+      "endMs": 230780,
+      "en": "Yes, the situation last winter was particularly grim for many Ukrainians.",
+      "zh": "是的，对许多乌克兰人来说，去年冬天的情况尤其惨淡。"
+    },
+    {
+      "id": 37,
+      "startMs": 230780,
+      "endMs": 236140,
+      "en": "It was very cold, and they were, for long periods, without heating, lighting, electricity.",
+      "zh": "天气非常寒冷，他们长时间没有暖气、照明和电力。"
+    },
+    {
+      "id": 38,
+      "startMs": 236140,
+      "endMs": 245840,
+      "en": "And the Major General said that he feared, in fact, his greatest fear looking ahead was that that situation would be repeated and would be even worse.",
+      "zh": "这名少将说，他担心，事实上，他展望未来时最大的恐惧就是这种情况会重演，而且会更加糟糕。"
+    },
+    {
+      "id": 39,
+      "startMs": 245840,
+      "endMs": 247520,
+      "en": "I asked him what concerns you most.",
+      "zh": "我问他最担心什么。"
+    },
+    {
+      "id": 40,
+      "startMs": 247520,
+      "endMs": 252160,
+      "en": "I thought he may say the lack of Patriot missile interceptors that they need to defend the skies.",
+      "zh": "我以为他可能会说，他们缺少保卫天空所需的爱国者导弹拦截器。"
+    },
+    {
+      "id": 41,
+      "startMs": 252320,
+      "endMs": 258080,
+      "en": "He acknowledged that shortage, but he actually said he worries most about the misery Russia may inflict in the coming winter.",
+      "zh": "他承认这一短缺，但他说自己最担心的其实是俄罗斯可能在即将到来的冬天造成的苦难。"
+    },
+    {
+      "id": 42,
+      "startMs": 258320,
+      "endMs": 269440,
+      "en": "And destroy, disrupt water supply system, heating system, electricity system and another objects and facilities for normal life of civilian population.",
+      "zh": "摧毁、扰乱供水系统、供暖系统、电力系统，以及保障平民正常生活的其他目标和设施。"
+    },
+    {
+      "id": 43,
+      "startMs": 270000,
+      "endMs": 276960,
+      "en": "And Dan, what about accusations that the Ukrainian side might be hitting civilian targets in Russia now?",
+      "zh": "丹，关于乌克兰方面现在可能袭击俄罗斯境内平民目标的指控，你怎么看？"
+    },
+    {
+      "id": 44,
+      "startMs": 277280,
+      "endMs": 283280,
+      "en": "Yes, Russia has claimed that there have been civilian deaths linked to this campaign of long-range drone strikes.",
+      "zh": "是的，俄罗斯声称，这场远程无人机袭击行动造成了平民死亡。"
+    },
+    {
+      "id": 45,
+      "startMs": 283600,
+      "endMs": 288880,
+      "en": "The Deputy Head of Ukrainian Intelligence said that Ukraine does not target civilians,",
+      "zh": "乌克兰情报部门副主管说，乌克兰不以平民为目标，"
+    },
+    {
+      "id": 46,
+      "startMs": 288880,
+      "endMs": 295200,
+      "en": "but that he considered the sites they have been hitting to be legitimate because they are supplying the military.",
+      "zh": "但他认为他们袭击的地点是正当目标，因为这些地点在为军方提供物资。"
+    },
+    {
+      "id": 47,
+      "startMs": 295280,
+      "endMs": 306180,
+      "en": "I said, given the prospects for this winter and the number of Ukrainian civilians who are being hurt and killed, did he actually consider that Ukraine was winning this war?",
+      "zh": "我说，考虑到今年冬天的前景，以及正在受伤和死亡的乌克兰平民人数，他是否真的认为乌克兰正在赢得这场战争？"
+    },
+    {
+      "id": 48,
+      "startMs": 306500,
+      "endMs": 311220,
+      "en": "It's our territory, it's our land, it's our culture, it's our history.",
+      "zh": "这是我们的领土、我们的土地、我们的文化、我们的历史。"
+    },
+    {
+      "id": 49,
+      "startMs": 311540,
+      "endMs": 318500,
+      "en": "We must fight to prevent the full occupation of our territory by the Russian Federation.",
+      "zh": "我们必须战斗，防止俄罗斯联邦完全占领我们的领土。"
+    },
+    {
+      "id": 50,
+      "startMs": 319060,
+      "endMs": 320980,
+      "en": "Do you think you are winning, succeeding?",
+      "zh": "你认为你们正在获胜、正在成功吗？"
+    },
+    {
+      "id": 51,
+      "startMs": 321380,
+      "endMs": 323140,
+      "en": "I think yes, I think yes.",
+      "zh": "我认为是的，我认为是的。"
+    },
+    {
+      "id": 52,
+      "startMs": 323780,
+      "endMs": 328580,
+      "en": "Ukraine's Deputy Chief of Intelligence, Vadym Skibitskyi, speaking to Dan Johnson.",
+      "zh": "乌克兰情报部门副主管瓦季姆·斯基比茨基接受丹·约翰逊采访。"
+    },
+    {
+      "id": 53,
+      "startMs": 328900,
+      "endMs": 334340,
+      "en": "Staying with the war, Moscow has threatened Britain with consequences following confirmation",
+      "zh": "继续关注这场战争。确认"
+    },
+    {
+      "id": 54,
+      "startMs": 334340,
+      "endMs": 339620,
+      "en": "the UK has supplied Ukraine with drones that have been used to hit targets deep inside Russia.",
+      "zh": "英国向乌克兰提供的无人机曾被用于袭击俄罗斯境内深处的目标后，莫斯科威胁英国将承担后果。"
+    },
+    {
+      "id": 55,
+      "startMs": 340260,
+      "endMs": 347940,
+      "en": "As we've been hearing, Kyiv is launching an increasing number of drone attacks across Russia, particularly on infrastructure targets.",
+      "zh": "正如我们一直听到的，基辅正在俄罗斯各地发动越来越多的无人机袭击，尤其针对基础设施目标。"
+    },
+    {
+      "id": 56,
+      "startMs": 348740,
+      "endMs": 354500,
+      "en": "Some reports suggest this is the first time British technology has been used to hit Russian targets.",
+      "zh": "一些报道称，这是英国技术首次被用于打击俄罗斯目标。"
+    },
+    {
+      "id": 57,
+      "startMs": 354900,
+      "endMs": 357700,
+      "en": "Our UK political correspondent is Damian Grammaticas.",
+      "zh": "我们的英国政治事务记者是达米安·格拉玛蒂卡斯。"
+    },
+    {
+      "id": 58,
+      "startMs": 357940,
+      "endMs": 367480,
+      "en": "This follows newspaper reports at the weekend that, for the first time, drone technology from the UK was used in these strikes against Russia, confirmed from sources to the BBC.",
+      "zh": "此前周末有报纸报道称，英国的无人机技术首次被用于对俄罗斯发动的这些袭击；英国广播公司从消息人士处证实了这一点。"
+    },
+    {
+      "id": 59,
+      "startMs": 367720,
+      "endMs": 374040,
+      "en": "Now, some of those reports talked about strikes on oil facilities in southern Russia, Yaroslavl near Moscow.",
+      "zh": "其中一些报道提到，袭击了俄罗斯南部、莫斯科附近的雅罗斯拉夫尔的石油设施。"
+    },
+    {
+      "id": 60,
+      "startMs": 374520,
+      "endMs": 383240,
+      "en": "What the Russian embassy here in London has put out is a statement saying that London is deliberately opting for escalation in Ukraine.",
+      "zh": "俄罗斯驻伦敦大使馆发表声明称，伦敦是在蓄意选择升级乌克兰局势。"
+    },
+    {
+      "id": 61,
+      "startMs": 383400,
+      "endMs": 393880,
+      "en": "So the UK was trying to contain Russia, inflict maximum damage on it by proxy, and those actions will inevitably carry consequences for which London will have to answer.",
+      "zh": "声明称，英国试图遏制俄罗斯，通过代理人对其造成最大损害，而这些行动不可避免地会带来后果，伦敦必须对此作出答复。"
+    },
+    {
+      "id": 62,
+      "startMs": 394360,
+      "endMs": 399320,
+      "en": "Now, in response, we've heard from the Ministry of Defence here. They have put out their own statement.",
+      "zh": "作为回应，我们听到了英国国防部的说法。他们也发表了自己的声明。"
+    },
+    {
+      "id": 63,
+      "startMs": 399320,
+      "endMs": 402840,
+      "en": "The Ministry of Defence spokesperson said Britain stands shoulder to shoulder with Ukraine.",
+      "zh": "英国国防部发言人表示，英国与乌克兰并肩站在一起。"
+    },
+    {
+      "id": 64,
+      "startMs": 402840,
+      "endMs": 411240,
+      "en": "It will continue to supply Ukraine with the equipment it needs to defend itself against what they say is Russia's illegal invasion of Ukraine.",
+      "zh": "英国将继续向乌克兰提供其自卫所需的装备，以应对他们所称的俄罗斯对乌克兰的非法入侵。"
+    },
+    {
+      "id": 65,
+      "startMs": 411320,
+      "endMs": 416280,
+      "en": "Russia should be in no doubt about the resolve of the government to stand against Russian aggression.",
+      "zh": "俄罗斯不应怀疑英国政府抵抗俄罗斯侵略的决心。"
+    },
+    {
+      "id": 66,
+      "startMs": 416280,
+      "endMs": 422120,
+      "en": "And that's also a message that Andy Burnham, the Prime Minister, delivered to his first foreign visitor here when he became Prime Minister.",
+      "zh": "这也是首相安迪·伯恩汉姆在就任首相后向他的第一位外国访客传达的信息。"
+    },
+    {
+      "id": 67,
+      "startMs": 422060,
+      "endMs": 427900,
+      "en": "A few weeks ago, that visitor was President Zelensky of Ukraine, and he said he would stand shoulder to shoulder with him. Interesting, Damian.",
+      "zh": "几周前，这位访客是乌克兰总统泽连斯基；伯恩汉姆说，他将与泽连斯基并肩站在一起。有意思，达米安。"
+    },
+    {
+      "id": 68,
+      "startMs": 427980,
+      "endMs": 441500,
+      "en": "We're used to hearing how far Kyiv has come in making its own drones, using its own drones on the battlefield, but how much military technology does the UK supply to Ukraine?",
+      "zh": "我们经常听到，基辅在制造自己的无人机、在战场上使用自己的无人机方面已经取得了多大进展；但英国向乌克兰提供多少军事技术？"
+    },
+    {
+      "id": 69,
+      "startMs": 442220,
+      "endMs": 447660,
+      "en": "Increasing amounts, and the UK has in the past supplied cruise missiles, Storm Shadows.",
+      "zh": "数量在不断增加；英国过去曾提供‘风暴阴影’巡航导弹。"
+    },
+    {
+      "id": 70,
+      "startMs": 447900,
+      "endMs": 453900,
+      "en": "They cost about a million dollars each. They have been used against military targets in Russia before, that's worth saying.",
+      "zh": "每枚导弹的成本约为100万美元。需要指出的是，它们此前已被用于打击俄罗斯境内的军事目标。"
+    },
+    {
+      "id": 71,
+      "startMs": 454220,
+      "endMs": 459100,
+      "en": "But what we've seen is ramping up, particularly drone technologies, as Western militaries are developing as well.",
+      "zh": "但我们看到，相关支持正在增加，尤其是无人机技术；西方军队也在发展这类技术。"
+    },
+    {
+      "id": 72,
+      "startMs": 459420,
+      "endMs": 466700,
+      "en": "This year, the UK signed a record package of support for Ukraine, about $4 billion worth.",
+      "zh": "今年，英国签署了一项创纪录的对乌支持方案，价值约40亿美元。"
+    },
+    {
+      "id": 73,
+      "startMs": 466700,
+      "endMs": 472380,
+      "en": "That was 120,000 drones in that package, just to give you an idea.",
+      "zh": "仅这项方案就包括12万架无人机，给你一个概念。"
+    },
+    {
+      "id": 74,
+      "startMs": 472380,
+      "endMs": 479660,
+      "en": "It includes these long-range strike drones, reconnaissance drones, naval drones, heavy-lift drones.",
+      "zh": "其中包括远程攻击无人机、侦察无人机、海军无人机和重型运输无人机。"
+    },
+    {
+      "id": 75,
+      "startMs": 479660,
+      "endMs": 484560,
+      "en": "Now, that is a significant amount of support for Ukraine and also significant technology,",
+      "zh": "这不仅是对乌克兰的大力支持，也包含重要技术，"
+    },
+    {
+      "id": 76,
+      "startMs": 484560,
+      "endMs": 492800,
+      "en": "For Ukraine and also significant technology, because part of it too is devices that are attached to drones to enable them to evade electronic jamming to reach their targets.",
+      "zh": "其中一部分是安装在无人机上的设备，使其能够躲避电子干扰并抵达目标。"
+    },
+    {
+      "id": 77,
+      "startMs": 493200,
+      "endMs": 498560,
+      "en": "So Ukraine, I think, still creates the bulk of its own drones, but the UK support is significant",
+      "zh": "所以我认为，乌克兰仍然制造了自己的大部分无人机，但英国的支持十分重要。"
+    },
+    {
+      "id": 78,
+      "startMs": 498560,
+      "endMs": 504320,
+      "en": "and it is worth saying it is two-way because these drones are being tested and used by Ukraine",
+      "zh": "还需要指出，这是一种双向合作，因为这些无人机正在由乌克兰测试和使用，"
+    },
+    {
+      "id": 79,
+      "startMs": 504720,
+      "endMs": 512080,
+      "en": "and then incorporated back into the British military, which is already buying and starting to have these in its own stockpiles.",
+      "zh": "随后又被纳入英国军队，而英国军队已经在采购这些无人机，并开始将其列入自己的库存。"
+    },
+    {
+      "id": 80,
+      "startMs": 512400,
+      "endMs": 516960,
+      "en": "So it is a sort of two-way thing, the UK providing and also benefiting from the experience.",
+      "zh": "所以这是一种双向关系：英国提供支持，也从相关经验中受益。"
+    },
+    {
+      "id": 81,
+      "startMs": 517440,
+      "endMs": 518560,
+      "en": "Damian Grammaticas.",
+      "zh": "达米安·格拉玛蒂卡斯。"
+    },
+    {
+      "id": 82,
+      "startMs": 518800,
+      "endMs": 519840,
+      "en": "Now to Syria.",
+      "zh": "现在来看叙利亚。"
+    },
+    {
+      "id": 83,
+      "startMs": 520240,
+      "endMs": 526080,
+      "en": "You might recall that a week ago the former dictator Bashar al-Assad was handed a death sentence in absentia",
+      "zh": "你可能还记得，一周前，前独裁者巴沙尔·阿萨德被缺席判处死刑，"
+    },
+    {
+      "id": 84,
+      "startMs": 526160,
+      "endMs": 530400,
+      "en": "for his role in overseeing a brutal 14-year civil war in his country.",
+      "zh": "罪名与他在本国负责指挥一场残酷的14年内战有关。"
+    },
+    {
+      "id": 85,
+      "startMs": 530880,
+      "endMs": 534400,
+      "en": "He fled to Russia when his regime fell at the end of 2024.",
+      "zh": "他的政权在2024年底垮台后，他逃往俄罗斯。"
+    },
+    {
+      "id": 86,
+      "startMs": 534400,
+      "endMs": 541760,
+      "en": "Just a short while ago, one of Assad's cousins was also sentenced to death, but he appeared in a courtroom in Damascus.",
+      "zh": "就在不久前，阿萨德的一名堂兄弟也被判处死刑，但他本人出现在大马士革的一间法庭上。"
+    },
+    {
+      "id": 87,
+      "startMs": 542100,
+      "endMs": 551060,
+      "en": "Standing inside a cage wearing a standard striped prison uniform, Wassim al-Assad was convicted of crimes that included multiple murders and torture.",
+      "zh": "瓦西姆·阿萨德身穿普通条纹囚服站在铁笼内，被判犯有包括多起谋杀和酷刑在内的罪行。"
+    },
+    {
+      "id": 88,
+      "startMs": 551300,
+      "endMs": 554180,
+      "en": "This was the moment when the court handed down that sentence.",
+      "zh": "这就是法庭宣判这一刑罚的时刻。"
+    },
+    {
+      "id": 89,
+      "startMs": 554340,
+      "endMs": 566500,
+      "en": "Our Arab affairs analyst Sebastian Usher told me more about Wassim al-Assad.",
+      "zh": "我们的阿拉伯事务分析员塞巴斯蒂安·厄舍向我介绍了更多关于瓦西姆·阿萨德的情况。"
+    },
+    {
+      "id": 90,
+      "startMs": 566580,
+      "endMs": 569380,
+      "en": "He was an enforcer for the Assad regime.",
+      "zh": "他是阿萨德政权的打手。"
+    },
+    {
+      "id": 91,
+      "startMs": 569380,
+      "endMs": 574900,
+      "en": "He was someone who would gather militias to fight on behalf of President Assad.",
+      "zh": "他会召集民兵，代表阿萨德总统作战。"
+    },
+    {
+      "id": 92,
+      "startMs": 575300,
+      "endMs": 580388,
+      "en": "Eastern Ghouta, which is on the outskirts of Damascus, which is still an utterly devastated area.",
+      "zh": "东古塔位于大马士革郊区，如今仍是一片彻底毁坏的地区。"
+    },
+    {
+      "id": 93,
+      "startMs": 580452,
+      "endMs": 581860,
+      "en": "I visited it not long ago.",
+      "zh": "我不久前去过那里。"
+    },
+    {
+      "id": 94,
+      "startMs": 582260,
+      "endMs": 587300,
+      "en": "Nothing has been done to rebuild it since its destruction, essentially during one of the major battles.",
+      "zh": "自从那里在一场重大战役中基本被摧毁后，就一直没有进行重建。"
+    },
+    {
+      "id": 95,
+      "startMs": 587780,
+      "endMs": 593540,
+      "en": "He was involved in that, but what he wasn't convicted of, and the court said this is because of lack of evidence,",
+      "zh": "他参与了那场战事，但法院表示，由于证据不足，他没有因另一项与其关联最深的事情被定罪，"
+    },
+    {
+      "id": 96,
+      "startMs": 594100,
+      "endMs": 599940,
+      "en": "was what many people associated him with most, which is the drugs, the trafficking, the networks, the Captagon,",
+      "zh": "那就是许多人最常将他与之联系起来的毒品、贩运、网络以及 Captagon，"
+    },
+    {
+      "id": 97,
+      "startMs": 599940,
+      "endMs": 607000,
+      "en": "which is an amphetamine which, during the Syrian civil war, became a major industrial enterprise,",
+      "zh": "Captagon 是一种安非他明类药物，在叙利亚内战期间发展成一项大型产业，"
+    },
+    {
+      "id": 98,
+      "startMs": 607000,
+      "endMs": 610760,
+      "en": "which essentially kept the regime going financially for years.",
+      "zh": "从经济上支撑了该政权多年。"
+    },
+    {
+      "id": 99,
+      "startMs": 611080,
+      "endMs": 615880,
+      "en": "And he was almost certainly, from what most people believe, a part of that.",
+      "zh": "而按照大多数人的看法，他几乎可以肯定是其中的一员。"
+    },
+    {
+      "id": 100,
+      "startMs": 616280,
+      "endMs": 618520,
+      "en": "And he very much lived that lifestyle.",
+      "zh": "他也确实过着那样的生活。"
+    },
+    {
+      "id": 101,
+      "startMs": 618600,
+      "endMs": 627240,
+      "en": "He showed himself off as a kind of drug warlord with his big cars, his fancy clothes, his fancy houses.",
+      "zh": "他炫耀自己是某种毒品军阀，拥有豪车、华服和豪宅。"
+    },
+    {
+      "id": 102,
+      "startMs": 627480,
+      "endMs": 633400,
+      "en": "So I think people would be slightly surprised that that wasn't one of the elements of which he's been convicted. So what does this all mean then?",
+      "zh": "所以我认为，人们会有些惊讶，因为这些并不是他被定罪的罪行之一。那么这一切意味着什么？"
+    },
+    {
+      "id": 103,
+      "startMs": 633400,
+      "endMs": 640280,
+      "en": "Does this draw a line under the horrors of the Assad regime, or is there more of a reckoning to come?",
+      "zh": "这是否意味着阿萨德政权的恐怖行径就此画上句号，还是说清算还会继续？"
+    },
+    {
+      "id": 104,
+      "startMs": 640520,
+      "endMs": 642120,
+      "en": "I think there's more of a reckoning to come.",
+      "zh": "我认为，清算还会继续。"
+    },
+    {
+      "id": 105,
+      "startMs": 642440,
+      "endMs": 646360,
+      "en": "I think you can't draw the line under those horrors because obviously they're still visible to people.",
+      "zh": "我认为，不能说这些恐怖行径已经结束，因为显然人们仍然看得见它们的影响。"
+    },
+    {
+      "id": 106,
+      "startMs": 646680,
+      "endMs": 651880,
+      "en": "They're still visible both physically, as I'm saying, like in Eastern Ghouta, and still visible in the human cost.",
+      "zh": "正如我所说，它们在物质层面仍然可见，比如东古塔；在人道代价中也仍然可见。"
+    },
+    {
+      "id": 107,
+      "startMs": 651960,
+      "endMs": 660840,
+      "en": "I mean, you meet people who psychologically are shattered, families, thousands, hundreds of thousands, totally shattered, and people haven't returned from abroad either.",
+      "zh": "我的意思是，你会遇到心理上支离破碎的人；成千上万、数十万的家庭彻底破碎，许多人也还没有从海外回来。"
+    },
+    {
+      "id": 108,
+      "startMs": 661160,
+      "endMs": 664540,
+      "en": "So those wounds are not likely to be healed anytime soon.",
+      "zh": "所以，那些创伤不太可能在近期愈合。"
+    },
+    {
+      "id": 109,
+      "startMs": 664940,
+      "endMs": 669500,
+      "en": "It is, though, part of the reckoning, part of the accountability that the new authorities have promised.",
+      "zh": "不过，这确实是清算的一部分，也是新当局承诺要实现的问责的一部分。"
+    },
+    {
+      "id": 110,
+      "startMs": 669500,
+      "endMs": 673580,
+      "en": "So, in that sense, it's being welcomed, and they're saying this is by no means the end of it.",
+      "zh": "所以从这个意义上说，这一判决受到欢迎；他们表示，这绝不是事情的终点。"
+    },
+    {
+      "id": 111,
+      "startMs": 673900,
+      "endMs": 678620,
+      "en": "When Wassim al-Assad was arrested last June, that was seen as a watershed moment.",
+      "zh": "瓦西姆·阿萨德去年六月被捕时，被视为一个分水岭时刻。"
+    },
+    {
+      "id": 112,
+      "startMs": 678620,
+      "endMs": 682380,
+      "en": "They were able actually to get one of those key movers in captivity.",
+      "zh": "他们确实成功抓获了其中一名关键推动者。"
+    },
+    {
+      "id": 113,
+      "startMs": 682620,
+      "endMs": 684220,
+      "en": "And there he was in his cage today.",
+      "zh": "而今天，他就待在自己的囚笼里。"
+    },
+    {
+      "id": 114,
+      "startMs": 684300,
+      "endMs": 690620,
+      "en": "We've mentioned that Bashar al-Assad is still living in exile with his close members of his family in Russia.",
+      "zh": "我们提到过，巴沙尔·阿萨德仍与家人中的亲近成员流亡在俄罗斯。"
+    },
+    {
+      "id": 115,
+      "startMs": 691100,
+      "endMs": 693900,
+      "en": "Does he still have supporters inside Syria today?",
+      "zh": "如今他在叙利亚境内还有支持者吗？"
+    },
+    {
+      "id": 116,
+      "startMs": 694220,
+      "endMs": 695900,
+      "en": "I don't think he has a huge amount of supporters.",
+      "zh": "我认为支持他的人并不多。"
+    },
+    {
+      "id": 117,
+      "startMs": 695980,
+      "endMs": 699820,
+      "en": "I mean, if you compare it to Saddam Hussein, for example, who went to ground",
+      "zh": "我的意思是，比如拿他和萨达姆·侯赛因相比，后者曾经藏匿起来，"
+    },
+    {
+      "id": 118,
+      "startMs": 699820,
+      "endMs": 703660,
+      "en": "and then he was captured, so he remained in Iraq as a kind of symbol of what he represented.",
+      "zh": "后来被捕，因此他留在伊拉克，成了自己所代表事物的一种象征。"
+    },
+    {
+      "id": 119,
+      "startMs": 703660,
+      "endMs": 707740,
+      "en": "And as time went on, people became more forgiving of some of the excesses.",
+      "zh": "随着时间推移，人们对其中一些过度行为变得更加宽容。"
+    },
+    {
+      "id": 120,
+      "startMs": 708380,
+      "endMs": 712620,
+      "en": "Because Bashar al-Assad basically cut and ran, he deserted his country, deserted the people around him.",
+      "zh": "因为巴沙尔·阿萨德基本上是逃之夭夭，抛弃了自己的国家，也抛弃了身边的人。"
+    },
+    {
+      "id": 121,
+      "startMs": 713100,
+      "endMs": 721820,
+      "en": "He is seen not just by those who loathed him, those who suffered under him, but even some of those who supported him, as a coward who didn't stand behind them,",
+      "zh": "不仅憎恨他、曾受他统治之苦的人，就连一些支持过他的人也把他看成懦夫：他没有支持他们，"
+    },
+    {
+      "id": 122,
+      "startMs": 721820,
+      "endMs": 728960,
+      "en": "who left them essentially to pay the price for what he'd done, so I don't think he personally has great support.",
+      "zh": "反而把他们丢下，让他们为他的所作所为付出代价。所以我认为，他个人并没有多少支持。"
+    },
+    {
+      "id": 123,
+      "startMs": 729200,
+      "endMs": 736800,
+      "en": "I don't think the Assad regime has great support; it had exhausted that, if it ever really existed beyond the police state that kept it in power.",
+      "zh": "我认为阿萨德政权也没有多少支持；如果这种支持真的曾经超越维持其统治的警察国家，它早已把这种支持耗尽了。"
+    },
+    {
+      "id": 124,
+      "startMs": 737280,
+      "endMs": 740400,
+      "en": "The issue is, though, that Syria still remains a very divided country,",
+      "zh": "不过，问题在于叙利亚仍是一个高度分裂的国家，"
+    },
+    {
+      "id": 125,
+      "startMs": 740720,
+      "endMs": 745360,
+      "en": "and the new Syrian authorities are still seen as very controversial in a lot of the things that they're doing.",
+      "zh": "而新叙利亚当局的许多做法仍被认为争议很大。"
+    },
+    {
+      "id": 126,
+      "startMs": 745680,
+      "endMs": 751600,
+      "en": "So there's support in that sense against the new authorities, but it doesn't go towards Assad.",
+      "zh": "所以，反对新当局的支持确实存在，但这种支持并不是转向阿萨德。"
+    },
+    {
+      "id": 127,
+      "startMs": 751600,
+      "endMs": 753040,
+      "en": "I don't think he will gain from this.",
+      "zh": "我不认为他会从中获益。"
+    },
+    {
+      "id": 128,
+      "startMs": 753280,
+      "endMs": 755600,
+      "en": "I don't think he has any more part to play in Syria's future.",
+      "zh": "我认为他在叙利亚的未来中已经没有任何作用。"
+    },
+    {
+      "id": 129,
+      "startMs": 755840,
+      "endMs": 765040,
+      "en": "Sebastian Usher, scientists have warned that the impact of rising global temperatures on the health of older people has been significantly underestimated.",
+      "zh": "塞巴斯蒂安·厄舍，科学家警告说，全球气温上升对老年人健康的影响一直被严重低估。"
+    },
+    {
+      "id": 130,
+      "startMs": 765040,
+      "endMs": 774320,
+      "en": "Researchers at Stanford University in the United States say previous studies have focused on younger people who are able to sweat more effectively and have stronger hearts.",
+      "zh": "美国斯坦福大学的研究人员说，以往的研究主要关注年轻人，他们出汗更有效，心脏也更强健。"
+    },
+    {
+      "id": 131,
+      "startMs": 774800,
+      "endMs": 781360,
+      "en": "Our global health correspondent Dominic Hughes told us more about the study and how it differed from previous ones.",
+      "zh": "本台全球健康事务记者多米尼克·休斯进一步介绍了这项研究，以及它与以往研究的不同。"
+    },
+    {
+      "id": 132,
+      "startMs": 781520,
+      "endMs": 791700,
+      "en": "The past research looked really at the effect of heat on the health of younger populations, people who were younger, fitter, who could manage the temperatures better, perhaps.",
+      "zh": "过去的研究主要考察高温对年轻人群健康的影响；他们或许更年轻、更健康，也更能应对高温。"
+    },
+    {
+      "id": 133,
+      "startMs": 791700,
+      "endMs": 802740,
+      "en": "So what this research has done is they've concentrated on new findings, new data from what are called wet-bulb experiments that measure both heat and humidity.",
+      "zh": "这项研究则集中分析了新发现和新数据，来源是所谓的湿球实验，这种实验同时测量高温和湿度。"
+    },
+    {
+      "id": 134,
+      "startMs": 803140,
+      "endMs": 810500,
+      "en": "Those experiments were conducted in the US. They tested how people over 60 tolerated both heat and humidity.",
+      "zh": "这些实验在美国进行，测试了60岁以上的人如何耐受高温和湿度。"
+    },
+    {
+      "id": 135,
+      "startMs": 811380,
+      "endMs": 821140,
+      "en": "Older people really struggle with that combination because they tend to sweat less, their blood vessels respond more slowly, their heart has to work harder,",
+      "zh": "老年人确实很难应对这种组合，因为他们往往出汗较少，血管反应较慢，心脏必须更加用力，"
+    },
+    {
+      "id": 136,
+      "startMs": 821300,
+      "endMs": 828980,
+      "en": "they may have pre-existing health conditions, and all of these things can feed into their ability to cope with high temperatures and high humidity.",
+      "zh": "他们可能已有健康问题，而所有这些因素都会影响他们应对高温高湿的能力。"
+    },
+    {
+      "id": 137,
+      "startMs": 829700,
+      "endMs": 839700,
+      "en": "Now, then the researchers applied those new models to how heat would impact on older populations by varying degrees of global warming.",
+      "zh": "随后，研究人员通过设定不同程度的全球变暖，把这些新模型用于分析高温将如何影响老年人群。"
+    },
+    {
+      "id": 138,
+      "startMs": 839940,
+      "endMs": 847780,
+      "en": "And what they found was that countries most at risk from global warming include India, Pakistan, Bangladesh, Niger,",
+      "zh": "他们发现，最易受全球变暖影响的国家包括印度、巴基斯坦、孟加拉国和尼日尔，"
+    },
+    {
+      "id": 139,
+      "startMs": 848340,
+      "endMs": 855380,
+      "en": "countries where poverty and limited access to cooling really, really increases vulnerability.",
+      "zh": "在这些国家，贫困和有限的制冷条件大大增加了脆弱性。"
+    },
+    {
+      "id": 140,
+      "startMs": 855380,
+      "endMs": 869460,
+      "en": "So, for example, a 1.5-degree warming of the climate would see 22% of older adults facing unsafe heat for at least a month,",
+      "zh": "例如，气候升温1.5度将意味着22%的老年人至少一个月面临不安全高温，"
+    },
+    {
+      "id": 141,
+      "startMs": 870020,
+      "endMs": 873240,
+      "en": "and they found that South Asia, the Persian Gulf,",
+      "zh": "研究还发现，在南亚和波斯湾，"
+    },
+    {
+      "id": 142,
+      "startMs": 873240,
+      "endMs": 883640,
+      "en": "if there was a three-degree rise in those areas, that would lead to around three months of solid, dangerous heat exposure for those older people.",
+      "zh": "如果这些地区升温3度，老年人将连续约三个月暴露于危险高温之中。"
+    },
+    {
+      "id": 143,
+      "startMs": 884200,
+      "endMs": 889080,
+      "en": "Okay, so Dominic, now that we have this new research, we know more about the real dangers.",
+      "zh": "好的，多米尼克，既然有了这项新研究，我们对真正的危险有了更多了解。"
+    },
+    {
+      "id": 144,
+      "startMs": 889400,
+      "endMs": 892520,
+      "en": "What more can be done to protect older people?",
+      "zh": "还可以采取哪些措施来保护老年人？"
+    },
+    {
+      "id": 145,
+      "startMs": 893080,
+      "endMs": 901880,
+      "en": "Yeah, well, the authors of this study, which is published in The Lancet, they call on governments really to develop what they call heat emergency plans",
+      "zh": "是的，这项发表在《柳叶刀》上的研究呼吁各国政府制定所谓的高温应急计划，"
+    },
+    {
+      "id": 146,
+      "startMs": 901880,
+      "endMs": 907320,
+      "en": "and to also improve access to cooling and also heat warning systems",
+      "zh": "并改善人们获得制冷条件和高温预警系统的机会，"
+    },
+    {
+      "id": 147,
+      "startMs": 907400,
+      "endMs": 913480,
+      "en": "to give people the ability to actually take shelter from that heat, if you like, and to prepare adequately for it.",
+      "zh": "让人们能够躲避高温，并做好充分准备。"
+    },
+    {
+      "id": 148,
+      "startMs": 913480,
+      "endMs": 920360,
+      "en": "And they also say, of course, that cutting emissions remains absolutely essential in order to reduce older people's risk",
+      "zh": "他们当然还说，削减排放仍然至关重要，这能降低老年人面临的风险，"
+    },
+    {
+      "id": 149,
+      "startMs": 920680,
+      "endMs": 925320,
+      "en": "of prolonged round-the-clock heat danger because it's not just during the day, but it's during the night as well,",
+      "zh": "因为持续全天候高温的危险不仅发生在白天，也发生在夜间，"
+    },
+    {
+      "id": 150,
+      "startMs": 925320,
+      "endMs": 928440,
+      "en": "when our bodies might have a chance to recover from a day of heat.",
+      "zh": "而夜间本应是身体从一天高温中恢复的机会。"
+    },
+    {
+      "id": 151,
+      "startMs": 928680,
+      "endMs": 932380,
+      "en": "If it's really hot at night, that can have a serious impact on our health as well.",
+      "zh": "如果夜间真的很热，也会严重影响我们的健康。"
+    },
+    {
+      "id": 152,
+      "startMs": 932780,
+      "endMs": 933580,
+      "en": "Dominic Hughes.",
+      "zh": "多米尼克·休斯。"
+    },
+    {
+      "id": 153,
+      "startMs": 935740,
+      "endMs": 937180,
+      "en": "Still to come in this podcast.",
+      "zh": "本期播客稍后还有内容。"
+    },
+    {
+      "id": 154,
+      "startMs": 937260,
+      "endMs": 943660,
+      "en": "If you've got a nice white fleece like that one, you're able to dye that pink, green, blue, whatever colour you want.",
+      "zh": "如果你有一块像那块一样漂亮的白色羊毛，就可以把它染成粉色、绿色、蓝色，想要什么颜色都行。"
+    },
+    {
+      "id": 155,
+      "startMs": 944060,
+      "endMs": 946620,
+      "en": "So there's more value to this fleece than there is this one.",
+      "zh": "所以这块羊毛比这一块更有价值。"
+    },
+    {
+      "id": 156,
+      "startMs": 947260,
+      "endMs": 950220,
+      "en": "The global price of sheep fleeces has gone up.",
+      "zh": "全球羊毛价格上涨了。"
+    },
+    {
+      "id": 157,
+      "startMs": 950540,
+      "endMs": 952220,
+      "en": "Good news for farmers in Wales.",
+      "zh": "这对威尔士农民来说是个好消息。"
+    },
+    {
+      "id": 158,
+      "startMs": 960020,
+      "endMs": 966900,
+      "en": "To Zambia now, where it's been confirmed that President Hakainde Hichilema has been re-elected for a second five-year term.",
+      "zh": "现在转向赞比亚：已确认总统哈凯恩德·希奇莱马再次当选，获得第二个五年任期。"
+    },
+    {
+      "id": 159,
+      "startMs": 967380,
+      "endMs": 971140,
+      "en": "Election officials say he secured 60% of the valid votes cast.",
+      "zh": "选举官员称，他获得了有效选票的60%。"
+    },
+    {
+      "id": 160,
+      "startMs": 971620,
+      "endMs": 973700,
+      "en": "This was the moment the result was announced.",
+      "zh": "这就是结果公布的时刻。"
+    },
+    {
+      "id": 161,
+      "startMs": 974180,
+      "endMs": 983160,
+      "en": "I therefore declare Hakainde Hichilema to be President",
+      "zh": "因此，我宣布哈凯恩德·希奇莱马当选总统"
+    },
+    {
+      "id": 162,
+      "startMs": 983320,
+      "endMs": 992600,
+      "en": "elect of the Republic of Zambia.",
+      "zh": "赞比亚共和国总统。"
+    },
+    {
+      "id": 163,
+      "startMs": 992920,
+      "endMs": 999720,
+      "en": "But in a country that's long been credited as one of Africa's most stable democracies, it's a system that's facing some challenges.",
+      "zh": "但在这个长期被认为是非洲最稳定民主国家之一的国家，其制度正面临一些挑战。"
+    },
+    {
+      "id": 164,
+      "startMs": 1000200,
+      "endMs": 1008520,
+      "en": "Mr. Hichilema's main political rival has questioned the credibility of the process and called for an investigation into alleged irregularities.",
+      "zh": "希奇莱马的主要政治对手质疑这一过程的可信度，并要求调查据称存在的违规行为。"
+    },
+    {
+      "id": 165,
+      "startMs": 1009000,
+      "endMs": 1014680,
+      "en": "Just a few days ago, police arrested eleven people, including leading opposition figures, in a raid.",
+      "zh": "就在几天前，警方在一次突袭中逮捕了11人，其中包括反对派主要人士。"
+    },
+    {
+      "id": 166,
+      "startMs": 1015320,
+      "endMs": 1022680,
+      "en": "Let's cross over to the capital, Lusaka, and our reporter Dingindaba Jonah Buyoya. First, was his victory expected?",
+      "zh": "我们连线首都卢萨卡的记者丁金达巴·乔纳·布约亚。首先，他的胜利是否在意料之中？"
+    },
+    {
+      "id": 167,
+      "startMs": 1022840,
+      "endMs": 1027160,
+      "en": "For a very long time he was, because a lot of things have happened building up to this election,",
+      "zh": "很长一段时间以来确实如此，因为在这次选举前发生了许多事情，"
+    },
+    {
+      "id": 168,
+      "startMs": 1027160,
+      "endMs": 1033320,
+      "en": "and one of the things that happened was the death of one of his main challengers, former President Edgar Lungu, last year.",
+      "zh": "其中一件事就是他的主要挑战者之一、前总统埃德加·伦古于去年去世。"
+    },
+    {
+      "id": 169,
+      "startMs": 1033400,
+      "endMs": 1041880,
+      "en": "He died in June, and that sort of sent the opposition into limbo, because nobody was sure which way this would go.",
+      "zh": "他于6月去世，这使反对派陷入某种停滞，因为没人确定局势会如何发展。"
+    },
+    {
+      "id": 170,
+      "startMs": 1041960,
+      "endMs": 1046920,
+      "en": "And from that point on, this was largely considered Hakainde Hichilema's victory.",
+      "zh": "从那时起，这场选举基本上就被认为是哈凯恩德·希奇莱马的胜利。"
+    },
+    {
+      "id": 171,
+      "startMs": 1046920,
+      "endMs": 1051100,
+      "en": "But things sort of changed in May when Brian Mundubile came onto the scene,",
+      "zh": "但5月布莱恩·蒙杜比莱登场后，情况似乎发生了变化，"
+    },
+    {
+      "id": 172,
+      "startMs": 1051420,
+      "endMs": 1059260,
+      "en": "because nobody really thought he would have garnered as much support as he has, having 1.8 million votes in the last election.",
+      "zh": "因为没人真正想到他能获得这么多支持；他在上次选举中获得了180万张选票。"
+    },
+    {
+      "id": 173,
+      "startMs": 1059500,
+      "endMs": 1066060,
+      "en": "Interestingly, that's the same number of votes that former President Edgar Lungu got when he lost the election in 2021, 1.8 million votes,",
+      "zh": "有意思的是，这与前总统埃德加·伦古在2021年落选时获得的票数相同，即180万张，"
+    },
+    {
+      "id": 174,
+      "startMs": 1066540,
+      "endMs": 1075580,
+      "en": "and Hakainde Hichilema in 2021 got 2.8 million votes, and this time around he's added around 100,000 more, 2.9.",
+      "zh": "而哈凯恩德·希奇莱马在2021年获得了280万张选票，这次增加了大约10万张，达到290万。"
+    },
+    {
+      "id": 175,
+      "startMs": 1076380,
+      "endMs": 1083900,
+      "en": "Interesting, I mentioned it before, but the opposition is challenging the result. Can you tell me more about what they've been saying?",
+      "zh": "有意思。我之前提到过，反对派正在挑战选举结果。你能详细说说他们的说法吗？"
+    },
+    {
+      "id": 176,
+      "startMs": 1083980,
+      "endMs": 1088300,
+      "en": "They say that there are irregularities in the contest.",
+      "zh": "他们说这场选举存在违规行为。"
+    },
+    {
+      "id": 177,
+      "startMs": 1088460,
+      "endMs": 1097500,
+      "en": "Yesterday, opposition candidate Brian Mundubile issued a statement where he said there were inconsistencies in the documents that certify the victory.",
+      "zh": "昨天，反对派候选人布莱恩·蒙杜比莱发表声明，称证明胜选的文件存在不一致之处。"
+    },
+    {
+      "id": 178,
+      "startMs": 1097900,
+      "endMs": 1104140,
+      "en": "They claim that these documents were being changed before reaching the National Results Center, or in essence,",
+      "zh": "他们声称，这些文件在送达全国计票中心前就被修改了；换句话说，"
+    },
+    {
+      "id": 179,
+      "startMs": 1104140,
+      "endMs": 1110060,
+      "en": "the figures were being changed before reaching the National Results Center, then altering the outcome of this election.",
+      "zh": "相关数字在送达全国计票中心前就被改动，进而改变了这次选举的结果。"
+    },
+    {
+      "id": 180,
+      "startMs": 1110240,
+      "endMs": 1117760,
+      "en": "They're also saying that the suspension of voting that happened on the 14th of August, the day after voting happened,",
+      "zh": "他们还说，8月14日发生了暂停投票，也就是投票结束后的第二天，"
+    },
+    {
+      "id": 181,
+      "startMs": 1117920,
+      "endMs": 1122240,
+      "en": "the suspension of counting rather, counting of votes and announcement of results",
+      "zh": "更准确地说，是暂停计票、统计选票和宣布结果，"
+    },
+    {
+      "id": 182,
+      "startMs": 1122400,
+      "endMs": 1124400,
+      "en": "was an attempt at manipulation.",
+      "zh": "是企图操纵选举。"
+    },
+    {
+      "id": 183,
+      "startMs": 1124400,
+      "endMs": 1132480,
+      "en": "The Electoral Commission said that it was because there were pockets of violence reported and a theft of ballot boxes containing marked ballot papers,",
+      "zh": "选举委员会说，这是因为有零星暴力事件的报告，以及装有已标记选票的投票箱被盗，"
+    },
+    {
+      "id": 184,
+      "startMs": 1132880,
+      "endMs": 1141840,
+      "en": "and that is what they're contesting, that this election lacks that integrity to give President Hichilema a convincing win.",
+      "zh": "而这正是他们所质疑的：这场选举缺乏足够的公正性，无法让希奇莱马取得令人信服的胜利。"
+    },
+    {
+      "id": 185,
+      "startMs": 1142160,
+      "endMs": 1145920,
+      "en": "You are speaking to us from the capital. What's the mood across the country?",
+      "zh": "你现在从首都向我们报道。全国的气氛如何？"
+    },
+    {
+      "id": 186,
+      "startMs": 1146320,
+      "endMs": 1153280,
+      "en": "Shortly after Hakainde Hichilema was announced President-elect, there were people on the streets that were celebrating.",
+      "zh": "哈凯恩德·希奇莱马被宣布为当选总统后不久，人们走上街头庆祝。"
+    },
+    {
+      "id": 187,
+      "startMs": 1153280,
+      "endMs": 1157040,
+      "en": "Most of them dressed in the ruling party's regalia.",
+      "zh": "他们大多身穿执政党的服装。"
+    },
+    {
+      "id": 188,
+      "startMs": 1157440,
+      "endMs": 1164480,
+      "en": "A lot of students from the University of Zambia, which President Hakainde Hichilema has support from, took to the streets to celebrate.",
+      "zh": "赞比亚大学有许多学生支持哈凯恩德·希奇莱马，他们也走上街头庆祝。"
+    },
+    {
+      "id": 189,
+      "startMs": 1164800,
+      "endMs": 1169120,
+      "en": "It's fair to mention that there are a lot of people that are dissatisfied with the process as well.",
+      "zh": "公平地说，也有很多人对这一过程感到不满。"
+    },
+    {
+      "id": 190,
+      "startMs": 1169120,
+      "endMs": 1171860,
+      "en": "They've been feeling quite unhappy about it,",
+      "zh": "他们对此一直相当不满，"
+    },
+    {
+      "id": 191,
+      "startMs": 1172500,
+      "endMs": 1177540,
+      "en": "there is presence of law enforcement agencies, especially in densely populated areas.",
+      "zh": "人口密集地区尤其有执法机构驻守。"
+    },
+    {
+      "id": 192,
+      "startMs": 1177540,
+      "endMs": 1187140,
+      "en": "Increased security patrols, and this is because there has been an anticipation of some sort of possible unrest that could have happened,",
+      "zh": "安保巡逻也增加了，这是因为人们预料可能发生某种动乱，"
+    },
+    {
+      "id": 193,
+      "startMs": 1187140,
+      "endMs": 1195700,
+      "en": "and that's why the law enforcement agencies decided to deploy, including the Zambia Army actually have been patrolling.",
+      "zh": "所以执法机构决定部署力量，包括赞比亚军队；军队实际上一直在巡逻。"
+    },
+    {
+      "id": 194,
+      "startMs": 1195940,
+      "endMs": 1207280,
+      "en": "Football news now. The global football body, FIFA, has sacked its Chief Operating Officer, Kevin Lamour, just weeks after he strongly criticized FIFA's President Gianni Infantino's",
+      "zh": "现在是足球新闻。国际足坛管理机构国际足联解雇了首席运营官凯文·拉穆尔；就在几周前，他曾强烈批评国际足联主席詹尼·因凡蒂诺的"
+    },
+    {
+      "id": 195,
+      "startMs": 1207360,
+      "endMs": 1215280,
+      "en": "plan to sell stakes in its competitions to private investors, that plan was shelved hours after Mr. Lamour spoke out.",
+      "zh": "向私人投资者出售其赛事股份的计划；拉穆尔先生发声数小时后，该计划便被搁置。"
+    },
+    {
+      "id": 196,
+      "startMs": 1215840,
+      "endMs": 1223120,
+      "en": "Before joining FIFA, Kevin Lamour was Deputy General Secretary at the governing body of European football, UEFA.",
+      "zh": "加入国际足联前，凯文·拉穆尔曾任欧洲足球管理机构欧足联副秘书长。"
+    },
+    {
+      "id": 197,
+      "startMs": 1223520,
+      "endMs": 1227040,
+      "en": "It's UEFA which has been leading the charge against Mr. Infantino.",
+      "zh": "一直带头反对因凡蒂诺的是欧足联。"
+    },
+    {
+      "id": 198,
+      "startMs": 1227600,
+      "endMs": 1235920,
+      "en": "David Bernstein is the former chairman of the English Football Association and has been one of the most prominent voices calling for reform of FIFA.",
+      "zh": "戴维·伯恩斯坦是英格兰足球总会前主席，也是呼吁国际足联改革的最知名人士之一。"
+    },
+    {
+      "id": 199,
+      "startMs": 1236320,
+      "endMs": 1239760,
+      "en": "Henry Zeffman began by asking him what he thought of the sacking.",
+      "zh": "亨利·泽夫曼先问他如何看待这次解雇。"
+    },
+    {
+      "id": 200,
+      "startMs": 1240000,
+      "endMs": 1247760,
+      "en": "Well, I think it's probably inevitable. You can't have a chairman and chief executive who—there's a clear loss of confidence—and for this situation to continue.",
+      "zh": "嗯，我认为这大概不可避免。既然董事长和首席执行官之间明显失去了信任，就不能让这种情况继续下去。"
+    },
+    {
+      "id": 201,
+      "startMs": 1247760,
+      "endMs": 1257360,
+      "en": "So I'm not really surprised at that, but I don't think in a way it's particularly significant, because the challenge to Infantino isn't going to come from within FIFA.",
+      "zh": "所以我对此并不十分惊讶，但我认为这其实并不特别重要，因为对因凡蒂诺的挑战不会来自国际足联内部。"
+    },
+    {
+      "id": 202,
+      "startMs": 1257840,
+      "endMs": 1265380,
+      "en": "It has to come from outside and particularly from UEFA, who have maintained a strong position so far,",
+      "zh": "挑战必须来自外部，尤其是欧足联；到目前为止，欧足联一直立场强硬，"
+    },
+    {
+      "id": 203,
+      "startMs": 1265380,
+      "endMs": 1270260,
+      "en": "but we need to see now whether they will really walk the walk and face Infantino down.",
+      "zh": "但现在还要看他们是否真的会采取行动，让因凡蒂诺正面应对。"
+    },
+    {
+      "id": 204,
+      "startMs": 1270500,
+      "endMs": 1273540,
+      "en": "Because if they don't, I think he will continue in position for the moment.",
+      "zh": "因为如果他们不这样做，我认为因凡蒂诺暂时会继续留任。"
+    },
+    {
+      "id": 205,
+      "startMs": 1273860,
+      "endMs": 1280500,
+      "en": "Well, what does walk the walk mean? Because of course there is Gianni Infantino's re-election effort coming up next year,",
+      "zh": "那么，所谓采取行动是什么意思？当然，詹尼·因凡蒂诺明年将寻求连任，"
+    },
+    {
+      "id": 206,
+      "startMs": 1280580,
+      "endMs": 1284260,
+      "en": "but UEFA are still talking about a boycott of FIFA competitions.",
+      "zh": "但欧足联仍在讨论抵制国际足联赛事。"
+    },
+    {
+      "id": 207,
+      "startMs": 1284580,
+      "endMs": 1289380,
+      "en": "Of course, we've just had the men's World Cup, but it's the FIFA Women's Under-20s World Cup",
+      "zh": "当然，男子世界杯刚刚举行；但接下来是国际足联女足U-20世界杯，"
+    },
+    {
+      "id": 208,
+      "startMs": 1289460,
+      "endMs": 1292420,
+      "en": "kicking off in Poland on the 5th of September, less than a month away.",
+      "zh": "将于9月5日在波兰开赛，距离现在还不到一个月。"
+    },
+    {
+      "id": 209,
+      "startMs": 1292820,
+      "endMs": 1296740,
+      "en": "Six European countries are due to take part in that, including England.",
+      "zh": "届时预计有六个欧洲国家参赛，包括英格兰。"
+    },
+    {
+      "id": 210,
+      "startMs": 1297220,
+      "endMs": 1298900,
+      "en": "Should England be taking part in that?",
+      "zh": "英格兰应该参加吗？"
+    },
+    {
+      "id": 211,
+      "startMs": 1298900,
+      "endMs": 1303720,
+      "en": "No, I don't think they should. Well, not on our own, but as part of a UEFA ban,",
+      "zh": "不，我认为他们不应该参加。不是英格兰单独退出，而是作为欧足联抵制行动的一部分，"
+    },
+    {
+      "id": 212,
+      "startMs": 1303940,
+      "endMs": 1308100,
+      "en": "I think UEFA have to go through with their threat not to participate.",
+      "zh": "我认为欧足联必须兑现不参赛的威胁。"
+    },
+    {
+      "id": 213,
+      "startMs": 1308100,
+      "endMs": 1311780,
+      "en": "I'd be very sorry for the, you know, the competitors and so on,",
+      "zh": "我当然会为参赛者之类的人感到非常遗憾。"
+    },
+    {
+      "id": 214,
+      "startMs": 1311780,
+      "endMs": 1317140,
+      "en": "but this is a very tough situation and Infantino has to be eyeballed here.",
+      "zh": "但现在的形势非常严峻，必须在这里直面因凡蒂诺。"
+    },
+    {
+      "id": 215,
+      "startMs": 1317380,
+      "endMs": 1326520,
+      "en": "And if UEFA and the other confederations go sort of soft now, then you can see the opposition sort of just drifting away.",
+      "zh": "如果欧足联和其他联合会现在变得软弱退让，那么反对力量就会逐渐消散。"
+    },
+    {
+      "id": 216,
+      "startMs": 1326520,
+      "endMs": 1334200,
+      "en": "And if people get bored about these issues, it'll lose its momentum, and you can see him staying in place until next year.",
+      "zh": "如果人们对这些问题感到厌倦，改革就会失去势头，你可以想见他会继续留任到明年。"
+    },
+    {
+      "id": 217,
+      "startMs": 1334600,
+      "endMs": 1337800,
+      "en": "Well, speaking of people getting bored of these issues, when you were FA chairman,",
+      "zh": "既然说到人们对这些问题感到厌倦，在你担任英格兰足总主席时，"
+    },
+    {
+      "id": 218,
+      "startMs": 1338440,
+      "endMs": 1346680,
+      "en": "you, the English FA, abstained from the 2011 FIFA presidential election in which Sepp Blatter was re-elected for his third term.",
+      "zh": "你和英格兰足总在2011年国际足联主席选举中弃权了；那次选举中，塞普·布拉特连任第三届主席。"
+    },
+    {
+      "id": 219,
+      "startMs": 1347080,
+      "endMs": 1350760,
+      "en": "And by the end, it was a pretty lonely mission for you and for the FA, wasn't it?",
+      "zh": "到最后，这对你和英格兰足总来说都是一项相当孤独的行动，对吧？"
+    },
+    {
+      "id": 220,
+      "startMs": 1350760,
+      "endMs": 1361800,
+      "en": "It was. I spoke out at the FIFA Congress in front of 2,000 delegates against Blatter's being put in position unopposed, because it became a coronation in his case.",
+      "zh": "确实如此。我在有2000名代表出席的国际足联大会上发言，反对让布拉特在无人竞争的情况下就任，因为那对他来说已经变成了一场加冕。"
+    },
+    {
+      "id": 221,
+      "startMs": 1362360,
+      "endMs": 1368840,
+      "en": "So, you know, I am one for actually following up very aggressive words with action; otherwise, it's all pretty meaningless.",
+      "zh": "所以，我这个人会把非常强硬的话付诸行动；否则，一切都相当没有意义。"
+    },
+    {
+      "id": 222,
+      "startMs": 1369320,
+      "endMs": 1379800,
+      "en": "But we'll have to see if UEFA don't stay tough and don't stay firm, and the only—the main force they've got is boycotting FIFA events.",
+      "zh": "但我们还得看看欧足联是否会坚持强硬、坚定立场；他们唯一、也是主要的力量，就是抵制国际足联赛事。"
+    },
+    {
+      "id": 223,
+      "startMs": 1379980,
+      "endMs": 1388940,
+      "en": "I have to say also that sponsors have a role to play, because if sponsors start to withdraw their support, that will put huge pressure onto FIFA.",
+      "zh": "我还必须说，赞助商也能发挥作用，因为如果赞助商开始撤回支持，就会给国际足联施加巨大压力。"
+    },
+    {
+      "id": 224,
+      "startMs": 1388940,
+      "endMs": 1394620,
+      "en": "But it won't come internally. I think Infantino will have his own people lined up behind him.",
+      "zh": "但压力不会来自内部。我认为因凡蒂诺会有自己的人站在他身后。"
+    },
+    {
+      "id": 225,
+      "startMs": 1394940,
+      "endMs": 1399820,
+      "en": "Former England Football Association chair David Bernstein speaking to Henry Zeffman.",
+      "zh": "前英格兰足总主席戴维·伯恩斯坦接受亨利·泽夫曼采访。"
+    },
+    {
+      "id": 226,
+      "startMs": 1400300,
+      "endMs": 1406220,
+      "en": "And last, some good news for sheep farmers: wool prices have increased sharply over the past year.",
+      "zh": "最后是羊农的一个好消息：过去一年，羊毛价格大幅上涨。"
+    },
+    {
+      "id": 227,
+      "startMs": 1406620,
+      "endMs": 1411980,
+      "en": "Here in Britain, in recent years, the number of sheep has been falling, and that's also pushing prices up.",
+      "zh": "在英国，近年来绵羊数量一直在减少，这也推高了价格。"
+    },
+    {
+      "id": 228,
+      "startMs": 1412540,
+      "endMs": 1420140,
+      "en": "It's a big change. Prices were so low for wool at one point that some farmers were even choosing to burn fleeces.",
+      "zh": "这是一个很大的变化。羊毛价格一度低到让一些农民甚至选择焚烧羊毛。"
+    },
+    {
+      "id": 229,
+      "startMs": 1420700,
+      "endMs": 1423660,
+      "en": "Our Wales correspondent Hywel Griffith has this report.",
+      "zh": "我们的威尔士记者休厄尔·格里菲思带来报道。"
+    },
+    {
+      "id": 230,
+      "startMs": 1426580,
+      "endMs": 1437860,
+      "en": "As spectator sports go, competitive sheep shearing may not be mainstream, but it always draws a crowd at the annual Royal Welsh Agricultural Show.",
+      "zh": "就观赏性运动而言，竞技剪羊毛或许不算主流，但在一年一度的皇家威尔士农业展上，它总能吸引人群。"
+    },
+    {
+      "id": 231,
+      "startMs": 1438500,
+      "endMs": 1442340,
+      "en": "This year, the sheep farmers visiting had reason to be cheerful.",
+      "zh": "今年，前来参展的羊农有理由感到高兴。"
+    },
+    {
+      "id": 232,
+      "startMs": 1442900,
+      "endMs": 1449780,
+      "en": "The money they receive for each fleece has been rising; on average, it's up 70% on last year.",
+      "zh": "他们每件羊毛所得一直在增加，平均比去年上涨了70%。"
+    },
+    {
+      "id": 233,
+      "startMs": 1450420,
+      "endMs": 1457780,
+      "en": "According to Gareth Jones from British Wool, it's part of a commodity boom shaped by international supply and demand.",
+      "zh": "英国羊毛公司的加雷思·琼斯说，这是由国际供需塑造的大宗商品繁荣的一部分。"
+    },
+    {
+      "id": 234,
+      "startMs": 1458800,
+      "endMs": 1464640,
+      "en": "If we look at the global markets, there's less sheep in Wales, less sheep in the UK, producing less wool.",
+      "zh": "看看全球市场，威尔士的羊少了，英国的羊也少了，生产的羊毛自然也少了。"
+    },
+    {
+      "id": 235,
+      "startMs": 1465040,
+      "endMs": 1473120,
+      "en": "But if we look at a comparable market to us, like New Zealand, there's less sheep in New Zealand now, and they also had a carryover of wool since COVID.",
+      "zh": "但如果看看与我们相近的市场，比如新西兰，现在新西兰的羊也少了，而且自新冠疫情以来还积压了一批羊毛。"
+    },
+    {
+      "id": 236,
+      "startMs": 1473440,
+      "endMs": 1475120,
+      "en": "That's cleared in the last two years now.",
+      "zh": "这批积压的羊毛如今已在过去两年里清掉了。"
+    },
+    {
+      "id": 237,
+      "startMs": 1475120,
+      "endMs": 1483920,
+      "en": "So, the limited supply that we have, including the increased demand, is increasing, obviously, the competition in the auction, which farmers are going to see the benefits of that.",
+      "zh": "所以，有限的供应，加上需求增加，显然正在加剧拍卖中的竞争，农民将从中受益。"
+    },
+    {
+      "id": 238,
+      "startMs": 1484320,
+      "endMs": 1485680,
+      "en": "And where's that demand coming from?",
+      "zh": "这种需求来自哪里？"
+    },
+    {
+      "id": 239,
+      "startMs": 1486160,
+      "endMs": 1495760,
+      "en": "So, we see it in the domestic market. So, 50% of our wool stays here in the UK. We have 180 brands who are working with us, who are specifying British wool in their products.",
+      "zh": "我们在国内市场看到了这种需求。我们有50%的羊毛留在英国国内；有180个品牌与我们合作，在产品中指定使用英国羊毛。"
+    },
+    {
+      "id": 240,
+      "startMs": 1495760,
+      "endMs": 1499440,
+      "en": "But we also have China, which is an important market for us.",
+      "zh": "此外，中国也是我们的重要市场。"
+    },
+    {
+      "id": 241,
+      "startMs": 1499440,
+      "endMs": 1504880,
+      "en": "We also have a bedding manufacturer in South Korea, and also we have some licensees in Japan.",
+      "zh": "我们在韩国还有一家床上用品制造商，在日本也有一些被许可方。"
+    },
+    {
+      "id": 242,
+      "startMs": 1504880,
+      "endMs": 1511120,
+      "en": "So, it's very much here in Wales, we're producing a fantastic fibre, but it's in demand worldwide.",
+      "zh": "所以，归根结底，我们在威尔士生产优质纤维，而它在全球都有需求。"
+    },
+    {
+      "id": 243,
+      "startMs": 1512240,
+      "endMs": 1514240,
+      "en": "Come on.",
+      "zh": "加油。"
+    },
+    {
+      "id": 244,
+      "startMs": 1514240,
+      "endMs": 1521440,
+      "en": "On his farm in the hills above Llanfair Caereinion in mid-Wales, Wyn Williams keeps a flock of around 700 sheep.",
+      "zh": "在威尔士中部、位于兰法伊尔·凯里尼恩上方山丘的农场里，温·威廉姆斯养着约700只羊。"
+    },
+    {
+      "id": 245,
+      "startMs": 1522160,
+      "endMs": 1530080,
+      "en": "He's been here for the last 38 years, rearing mainly for meat, but what he gets for the wool makes a real difference.",
+      "zh": "他在这里已经有38年，主要养羊供肉用，但羊毛收入也确实带来了很大不同。"
+    },
+    {
+      "id": 246,
+      "startMs": 1530160,
+      "endMs": 1536320,
+      "en": "It's not everybody that can shear, you know, and also, you know, your helpers, you know, the wool wrappers and everything.",
+      "zh": "不是每个人都会剪羊毛，你知道，而且还要有帮手，你知道，比如负责整理羊毛的人等等。"
+    },
+    {
+      "id": 247,
+      "startMs": 1536320,
+      "endMs": 1545440,
+      "en": "It assists with the cost of that. And most importantly, we have to shear from an animal welfare and health perspective.",
+      "zh": "这能帮助支付相关成本。更重要的是，从动物福利和健康角度看，我们必须给羊剪毛。"
+    },
+    {
+      "id": 248,
+      "startMs": 1545600,
+      "endMs": 1553120,
+      "en": "You know, who would want a big, big, strong winter coat still on with the excessive heat that we've got at the moment.",
+      "zh": "你想想，天气这么热，谁会愿意让羊身上还留着厚重、厚重而结实的冬毛呢？"
+    },
+    {
+      "id": 249,
+      "startMs": 1554440,
+      "endMs": 1564200,
+      "en": "Wool has been spun in Britain since the Bronze Age, and while technology's changed over the centuries, the process of sorting through each fleece is still done by hand.",
+      "zh": "自青铜时代以来，英国就一直纺制羊毛；虽然几个世纪来技术不断变化，但逐件分拣羊毛的过程仍由人工完成。"
+    },
+    {
+      "id": 250,
+      "startMs": 1565760,
+      "endMs": 1571520,
+      "en": "At a depot in Newtown, Barry Bellis says he can recognize 68 different grades of wool,",
+      "zh": "在纽敦的一处仓库，巴里·贝利斯说，他能辨认出68种不同等级的羊毛，"
+    },
+    {
+      "id": 251,
+      "startMs": 1572000,
+      "endMs": 1578400,
+      "en": "from the finest destined for knitwear, to the coarser kind that could end up in carpets or even slug pellets.",
+      "zh": "从用于针织品的最精细羊毛，到可能用于地毯甚至蜗牛颗粒的较粗羊毛。"
+    },
+    {
+      "id": 252,
+      "startMs": 1578560,
+      "endMs": 1584960,
+      "en": "If you've got a nice white fleece like that one, you're able to dye that pink, green, blue, whatever colour you want.",
+      "zh": "如果你有像那件一样漂亮的白色羊毛，就可以把它染成粉色、绿色、蓝色，想要什么颜色都行。"
+    },
+    {
+      "id": 253,
+      "startMs": 1585360,
+      "endMs": 1588000,
+      "en": "So, there's more value to this fleece than there is this one,",
+      "zh": "所以，这件羊毛比这一件更有价值，"
+    },
+    {
+      "id": 254,
+      "startMs": 1588240,
+      "endMs": 1592720,
+      "en": "whereas this type of fleece, that'll all tend to go into a carpet blend and stuff like that because of the colour.",
+      "zh": "而这种羊毛因为颜色的缘故，往往会被用于地毯混纺之类的产品。"
+    },
+    {
+      "id": 255,
+      "startMs": 1592880,
+      "endMs": 1600800,
+      "en": "Rising wool prices aren't necessarily good news for shoppers, of course, but they do offer reward for one of Britain's oldest industries.",
+      "zh": "当然，羊毛价格上涨对消费者未必是好消息，但确实给英国最古老的行业之一带来了回报。"
+    },
+    {
+      "id": 256,
+      "startMs": 1603940,
+      "endMs": 1607700,
+      "en": "Hywel Griffith. And that's all from us for now.",
+      "zh": "休厄尔·格里菲思。以上就是我们目前的全部内容。"
+    },
+    {
+      "id": 257,
+      "startMs": 1607940,
+      "endMs": 1612980,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送电子邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 258,
+      "startMs": 1613060,
+      "endMs": 1619380,
+      "en": "You can also now watch our episodes in full; just search for Global News Podcast on YouTube.",
+      "zh": "现在也可以完整观看我们的节目，只需在YouTube上搜索 Global News Podcast。"
+    },
+    {
+      "id": 259,
+      "startMs": 1620020,
+      "endMs": 1623620,
+      "en": "This edition of the Global News Podcast was mixed by Sid Dundon.",
+      "zh": "本期 Global News Podcast 由西德·邓登混音。"
+    },
+    {
+      "id": 260,
+      "startMs": 1624020,
+      "endMs": 1625220,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 261,
+      "startMs": 1625540,
+      "endMs": 1628180,
+      "en": "I am Celia Hatton. Until next time, goodbye.",
+      "zh": "我是西莉娅·哈顿。下次再见。"
+    }
+  ]
+}
