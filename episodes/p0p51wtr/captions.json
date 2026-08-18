@@ -1,0 +1,2048 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "18 August 2026"
+  },
+  "durationMs": 1872280,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4320,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是英国广播公司世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4780,
+      "endMs": 10220,
+      "en": "I'm Jannat Jalil, and in the early hours of Tuesday, the 18th of August, these are our main stories.",
+      "zh": "我是贾娜特·贾利勒。现在是8月18日星期二凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 10700,
+      "endMs": 14780,
+      "en": "Amid a growing backlash over the impact of social media on children,",
+      "zh": "在社会日益反弹、批评社交媒体对儿童影响之际，"
+    },
+    {
+      "id": 4,
+      "startMs": 15020,
+      "endMs": 21740,
+      "en": "Meta prepares for a landmark trial in the US that could see it fined well over a trillion dollars.",
+      "zh": "Meta准备在美国迎来一场具有里程碑意义的审判，可能面临远超1万亿美元的罚款。"
+    },
+    {
+      "id": 5,
+      "startMs": 22760,
+      "endMs": 31240,
+      "en": "President Trump's son-in-law Jared Kushner fails to persuade Israel's prime minister to drop his opposition to the US-backed Gaza peace plan.",
+      "zh": "特朗普总统的女婿贾里德·库什纳未能说服以色列总理放弃对美国支持的加沙和平计划的反对。"
+    },
+    {
+      "id": 6,
+      "startMs": 32060,
+      "endMs": 37980,
+      "en": "FIFA sacks its chief operating officer for criticising the president Gianni Infantino.",
+      "zh": "国际足联解雇了批评其主席詹尼·因凡蒂诺的首席运营官。"
+    },
+    {
+      "id": 7,
+      "startMs": 40660,
+      "endMs": 41780,
+      "en": "Also in this podcast,",
+      "zh": "本期播客还将报道："
+    },
+    {
+      "id": 8,
+      "startMs": 42420,
+      "endMs": 49540,
+      "en": "I'm in a big brick-walled warehouse, and I'm looking at stacks and stacks of packaged-up life jackets.",
+      "zh": "我在一座砖墙大仓库里，眼前是一摞又一摞包装好的救生衣。"
+    },
+    {
+      "id": 9,
+      "startMs": 49860,
+      "endMs": 52340,
+      "en": "They say they took more than 9,000 during this raid.",
+      "zh": "他们说，这次突袭中缴获了9000多件。"
+    },
+    {
+      "id": 10,
+      "startMs": 53240,
+      "endMs": 61800,
+      "en": "A special BBC report on German efforts to tackle small boat crossings by migrants from mainland Europe to the UK,",
+      "zh": "BBC特别报道：德国如何应对移民从欧洲大陆乘小船前往英国的偷渡行动。"
+    },
+    {
+      "id": 11,
+      "startMs": 62440,
+      "endMs": 68840,
+      "en": "and how the success of Italian athletes with African heritage could help combat racism.",
+      "zh": "以及具有非洲血统的意大利运动员取得的成功如何帮助打击种族主义。"
+    },
+    {
+      "id": 12,
+      "startMs": 74380,
+      "endMs": 81900,
+      "en": "In what's being called social media's big tobacco moment, the tech giant Meta is preparing for a courtroom showdown",
+      "zh": "在这被称为社交媒体的“烟草业大时刻”之际，科技巨头Meta正准备迎接一场法庭对决，"
+    },
+    {
+      "id": 13,
+      "startMs": 82060,
+      "endMs": 92620,
+      "en": "stemming from a lawsuit brought by 30 US states. They accuse Meta of numerous violations of federal and state privacy laws for children.",
+      "zh": "这起对决源于30个美国州提起的诉讼。这些州指控Meta多次违反联邦和州级儿童隐私法。"
+    },
+    {
+      "id": 14,
+      "startMs": 93100,
+      "endMs": 97500,
+      "en": "Rob Lalka is professor in business at Tulane University in the US.",
+      "zh": "罗布·拉尔卡是美国杜兰大学商学教授。"
+    },
+    {
+      "id": 15,
+      "startMs": 98060,
+      "endMs": 99740,
+      "en": "This is an issue that goes back decades.",
+      "zh": "这是一个可以追溯数十年的问题。"
+    },
+    {
+      "id": 16,
+      "startMs": 99740,
+      "endMs": 103420,
+      "en": "It goes back to the design that went into the way that these platforms were built",
+      "zh": "它可以追溯到这些平台设计和构建时所采用的理念，"
+    },
+    {
+      "id": 17,
+      "startMs": 103820,
+      "endMs": 109900,
+      "en": "and features that we all know all too well, the nudges that come to get our attention,",
+      "zh": "以及我们都再熟悉不过的各种功能：吸引我们注意力的推送，"
+    },
+    {
+      "id": 18,
+      "startMs": 109900,
+      "endMs": 115500,
+      "en": "the infinite scroll, all those types of things that have been proven to especially affect children.",
+      "zh": "无限滚动，以及所有那些已被证明尤其会影响儿童的设计。"
+    },
+    {
+      "id": 19,
+      "startMs": 116820,
+      "endMs": 126820,
+      "en": "In a jury trial set to begin in California on Tuesday, not only are the states seeking well over a trillion dollars from Meta,",
+      "zh": "一场陪审团审判定于周二在加州开始。这些州不仅要求Meta支付远超1万亿美元的赔偿，"
+    },
+    {
+      "id": 20,
+      "startMs": 127300,
+      "endMs": 137860,
+      "en": "that's a sum that's close to the company's entire market value, but they could also force fundamental changes that would completely change apps like Instagram and Facebook.",
+      "zh": "这笔金额接近该公司的全部市值；它们还可能迫使Meta进行根本性改革，彻底改变Instagram和Facebook等应用。"
+    },
+    {
+      "id": 21,
+      "startMs": 138540,
+      "endMs": 142860,
+      "en": "This is just the latest in a series of cases brought against the tech giant.",
+      "zh": "这只是针对这家科技巨头的一系列诉讼中的最新一起。"
+    },
+    {
+      "id": 22,
+      "startMs": 143260,
+      "endMs": 147180,
+      "en": "Our North America technology correspondent, Lily Jamali, told me more.",
+      "zh": "我们的北美科技记者莉莉·贾马利向我介绍了更多情况。"
+    },
+    {
+      "id": 23,
+      "startMs": 148080,
+      "endMs": 154800,
+      "en": "This is a case brought by dozens of US states in 2023. This is a bipartisan coalition,",
+      "zh": "这是数十个美国州在2023年提起的诉讼。这是一个跨党派联盟，"
+    },
+    {
+      "id": 24,
+      "startMs": 155360,
+      "endMs": 161440,
+      "en": "and what we often see on tech issues, including those or especially those that affect children,",
+      "zh": "在科技议题上我们经常看到，尤其是涉及儿童的议题，"
+    },
+    {
+      "id": 25,
+      "startMs": 161920,
+      "endMs": 168560,
+      "en": "is states setting their political differences aside and presenting a united front, and that's what we're seeing here.",
+      "zh": "各州会搁置政治分歧，展现统一阵线，这正是我们在这里看到的情况。"
+    },
+    {
+      "id": 26,
+      "startMs": 168560,
+      "endMs": 176480,
+      "en": "This trial is being held in California, but they're being joined by Colorado, New Jersey and Kentucky in actually arguing the case.",
+      "zh": "这场审判在加州举行，但科罗拉多州、新泽西州和肯塔基州也加入其中，实际参与案件辩论。"
+    },
+    {
+      "id": 27,
+      "startMs": 176880,
+      "endMs": 186160,
+      "en": "So the original complaint from 2023 alleged that Meta incorporated harmful features on Instagram and Facebook to drive engagement among young users,",
+      "zh": "2023年的原始诉状称，Meta在Instagram和Facebook中加入有害功能，以提高年轻用户的参与度，"
+    },
+    {
+      "id": 28,
+      "startMs": 186480,
+      "endMs": 188400,
+      "en": "all in the aim of boosting their profits.",
+      "zh": "目的都是增加其利润。"
+    },
+    {
+      "id": 29,
+      "startMs": 188800,
+      "endMs": 193680,
+      "en": "And then they argued that they misled the public about what they were doing.",
+      "zh": "他们还称，Meta就自身所作所为误导了公众。"
+    },
+    {
+      "id": 30,
+      "startMs": 193920,
+      "endMs": 197520,
+      "en": "So there have been other cases from individuals, from school districts, etc.,",
+      "zh": "个人、学区等也曾提起过其他诉讼，"
+    },
+    {
+      "id": 31,
+      "startMs": 197520,
+      "endMs": 204880,
+      "en": "but this one comes complete with the legal firepower of several state attorneys general, the top lawyer in their respective states.",
+      "zh": "但这起案件拥有数名州检察长的法律力量，他们是各自州的最高法律官员。"
+    },
+    {
+      "id": 32,
+      "startMs": 204880,
+      "endMs": 209940,
+      "en": "If Meta loses, it could face severe consequences. What are the states after?",
+      "zh": "如果Meta败诉，可能面临严重后果。各州想要什么？"
+    },
+    {
+      "id": 33,
+      "startMs": 210340,
+      "endMs": 215940,
+      "en": "Yeah, I think the states are after, more than anything, changes to these platforms.",
+      "zh": "是的，我认为各州最想要的，首先是改变这些平台。"
+    },
+    {
+      "id": 34,
+      "startMs": 216180,
+      "endMs": 219060,
+      "en": "Meta owns, of course, Instagram and Facebook, as I mentioned.",
+      "zh": "正如我提到的，Meta当然拥有Instagram和Facebook。"
+    },
+    {
+      "id": 35,
+      "startMs": 219060,
+      "endMs": 227780,
+      "en": "So we're talking about features like infinite scroll, likes, and push notifications, what the states have called a set of psychologically manipulative features.",
+      "zh": "所以我们谈论的是无限滚动、点赞和推送通知等功能，各州称这些是一套在心理上具有操纵性的功能。"
+    },
+    {
+      "id": 36,
+      "startMs": 228340,
+      "endMs": 234020,
+      "en": "They already have seen the state of New Mexico gain some ground, trying to make change.",
+      "zh": "他们已经看到新墨西哥州在推动变革方面取得了一些进展。"
+    },
+    {
+      "id": 37,
+      "startMs": 234580,
+      "endMs": 237620,
+      "en": "New Mexico brought a child endangerment case against Meta,",
+      "zh": "新墨西哥州以危害儿童为由起诉Meta，"
+    },
+    {
+      "id": 38,
+      "startMs": 237620,
+      "endMs": 245940,
+      "en": "and a judge there just ordered that they have to do more rigorous age enforcement, eliminate overnight push notifications for users under 18.",
+      "zh": "当地法官刚刚下令，Meta必须更严格地执行年龄验证，并取消面向18岁以下用户的夜间推送通知。"
+    },
+    {
+      "id": 39,
+      "startMs": 245940,
+      "endMs": 253460,
+      "en": "Those are for users in New Mexico just for the next five years, but there is a blueprint there that I think these other states are very interested in following.",
+      "zh": "这些措施仅适用于未来五年内的新墨西哥州用户，但那里已经有一个范本，我认为其他州很有兴趣效仿。"
+    },
+    {
+      "id": 40,
+      "startMs": 253860,
+      "endMs": 259620,
+      "en": "Plus, you have this $1.4 trillion that Meta says the states want.",
+      "zh": "此外，Meta称各州还要求1.4万亿美元。"
+    },
+    {
+      "id": 41,
+      "startMs": 259700,
+      "endMs": 265940,
+      "en": "I did talk to the California attorney general about that number. They say talk of money will come later in the process.",
+      "zh": "我就这个数字询问了加州检察长。他们说，赔偿金额要到程序后期才会讨论。"
+    },
+    {
+      "id": 42,
+      "startMs": 265940,
+      "endMs": 270920,
+      "en": "They say that Meta is basically using that number as a scare tactic before the trial begins.",
+      "zh": "他们说，Meta基本上是在审判开始前利用这个数字制造恐慌。"
+    },
+    {
+      "id": 43,
+      "startMs": 271400,
+      "endMs": 276600,
+      "en": "And Meta is denying that it deliberately tries to make its social media addictive for children.",
+      "zh": "Meta否认其故意让社交媒体对儿童产生依赖。"
+    },
+    {
+      "id": 44,
+      "startMs": 276760,
+      "endMs": 279960,
+      "en": "Right, they call the states' claims unsubstantiated.",
+      "zh": "没错，他们称各州的指控毫无根据。"
+    },
+    {
+      "id": 45,
+      "startMs": 280120,
+      "endMs": 287720,
+      "en": "They are basically saying that the states are trying to penalize them for things like age verification, which are difficult across the tech industry.",
+      "zh": "他们基本上是在说，各州试图因为年龄验证等整个科技行业都难以解决的问题惩罚他们。"
+    },
+    {
+      "id": 46,
+      "startMs": 288280,
+      "endMs": 296200,
+      "en": "And then, again, back to those trillion dollars plus in damages, Meta calls that financial demand vastly disproportionate.",
+      "zh": "再回到超过万亿美元的赔偿金这一点，Meta称这一财务要求极不相称。"
+    },
+    {
+      "id": 47,
+      "startMs": 296200,
+      "endMs": 300680,
+      "en": "This will all play out in a second phase if the states, again, are successful.",
+      "zh": "如果各州再次胜诉，这一切将在第二阶段展开。"
+    },
+    {
+      "id": 48,
+      "startMs": 301560,
+      "endMs": 302520,
+      "en": "Lily Jamali.",
+      "zh": "莉莉·贾马利。"
+    },
+    {
+      "id": 49,
+      "startMs": 303320,
+      "endMs": 310680,
+      "en": "President Trump's son-in-law, Jared Kushner, has failed to overturn Israeli objections to a US-backed Gaza peace plan",
+      "zh": "特朗普总统的女婿贾里德·库什纳未能推翻以色列对美国支持的加沙和平计划的反对，"
+    },
+    {
+      "id": 50,
+      "startMs": 311000,
+      "endMs": 313400,
+      "en": "after two days of talks in the Middle East,",
+      "zh": "此前他在中东进行了两天会谈，"
+    },
+    {
+      "id": 51,
+      "startMs": 313560,
+      "endMs": 318200,
+      "en": "first with the leader of Hamas and then with the Israeli Prime Minister Benjamin Netanyahu.",
+      "zh": "先是与哈马斯领导人会谈，随后又与以色列总理本雅明·内塔尼亚胡会谈。"
+    },
+    {
+      "id": 52,
+      "startMs": 318920,
+      "endMs": 327560,
+      "en": "Hamas has accepted the proposal, which calls for its gradual disarmament as Israeli troops begin to withdraw from the parts of Gaza they still occupy.",
+      "zh": "哈马斯已接受这项提议。按照提议，随着以军开始撤出仍在占领的加沙部分地区，哈马斯将逐步解除武装。"
+    },
+    {
+      "id": 53,
+      "startMs": 328140,
+      "endMs": 338940,
+      "en": "But Mr Netanyahu, whose coalition is trailing in opinion polls ahead of elections in October, says there will be no pullback until Hamas has been completely disarmed.",
+      "zh": "但内塔尼亚胡的执政联盟在十月选举前的民调中落后，他表示，在哈马斯完全解除武装之前不会撤军。"
+    },
+    {
+      "id": 54,
+      "startMs": 339420,
+      "endMs": 346060,
+      "en": "In an interview with Fox News, Mr Kushner said he hoped to see progress on Hamas giving up its weapons in a month's time.",
+      "zh": "库什纳在接受福克斯新闻采访时说，他希望一个月内看到哈马斯交出武器方面取得进展。"
+    },
+    {
+      "id": 55,
+      "startMs": 346660,
+      "endMs": 358260,
+      "en": "Since a supposed ceasefire ten months ago, Israel has killed more than 1,200 people in Gaza and wounded thousands more, according to Gaza's Health Ministry.",
+      "zh": "据加沙卫生部称，自十个月前所谓的停火以来，以色列已在加沙造成超过一千二百人死亡，另有数千人受伤。"
+    },
+    {
+      "id": 56,
+      "startMs": 358740,
+      "endMs": 362180,
+      "en": "Our Middle East correspondent, Lucy Williamson, reports from Jerusalem.",
+      "zh": "本台中东记者露西·威廉姆森从耶路撒冷报道。"
+    },
+    {
+      "id": 57,
+      "startMs": 362820,
+      "endMs": 366900,
+      "en": "Mr Netanyahu's office said it had been agreed to establish two working groups,",
+      "zh": "内塔尼亚胡办公室称，各方已同意成立两个工作组，"
+    },
+    {
+      "id": 58,
+      "startMs": 367220,
+      "endMs": 372900,
+      "en": "one on sanitation and clean water for Gaza, and one on disarmament and demilitarisation,",
+      "zh": "一个负责加沙的卫生和清洁用水，另一个负责解除武装和非军事化，"
+    },
+    {
+      "id": 59,
+      "startMs": 373300,
+      "endMs": 380820,
+      "en": "which, it said, both Israel and the Board of Peace were determined should be completed before any reconstruction happens.",
+      "zh": "该办公室说，以色列和和平委员会都决心在开始任何重建前完成这些工作。"
+    },
+    {
+      "id": 60,
+      "startMs": 381460,
+      "endMs": 390260,
+      "en": "Israel's prime minister had already refused point-blank to accept the next stage of Donald Trump's peace plan, despite Hamas agreeing to it.",
+      "zh": "尽管哈马斯已同意，以色列总理此前已经断然拒绝接受唐纳德·特朗普和平计划的下一阶段。"
+    },
+    {
+      "id": 61,
+      "startMs": 390580,
+      "endMs": 400260,
+      "en": "The meeting in Jerusalem today is a sign of the growing distance between Israel and its major ally, and the shrinking political space around Mr Netanyahu at home.",
+      "zh": "今天在耶路撒冷举行的会晤显示，以色列与其主要盟友之间的距离正在扩大，内塔尼亚胡在国内的政治空间也在收缩。"
+    },
+    {
+      "id": 62,
+      "startMs": 400580,
+      "endMs": 406660,
+      "en": "President Trump told the US network Fox News today that Israel should not be targeting Gaza at the moment.",
+      "zh": "特朗普总统今天告诉美国福克斯新闻，现阶段以色列不应把加沙作为打击目标。"
+    },
+    {
+      "id": 63,
+      "startMs": 406680,
+      "endMs": 416680,
+      "en": "At the moment, but Israel's prime minister also faces a difficult election in October, and the next stage of Trump's plan is unpopular with many of his voters.",
+      "zh": "不过，正值此时，以色列总理还面临十月的一场艰难选举，而特朗普计划的下一阶段不受他的许多选民欢迎。"
+    },
+    {
+      "id": 64,
+      "startMs": 417080,
+      "endMs": 425880,
+      "en": "Over the weekend, Mr Netanyahu's own far-right National Security Minister, Itamar Ben-Gvir, said Israel should be bombing Gaza more.",
+      "zh": "周末，内塔尼亚胡政府中的极右翼国家安全部长伊塔马尔·本-格维尔说，以色列应加大对加沙的轰炸。"
+    },
+    {
+      "id": 65,
+      "startMs": 425960,
+      "endMs": 428280,
+      "en": "It's no secret.",
+      "zh": "这不是什么秘密。"
+    },
+    {
+      "id": 66,
+      "startMs": 429080,
+      "endMs": 434760,
+      "en": "I disagree with the prime minister. I think targeted assassination should be carried out in Gaza,",
+      "zh": "我不同意总理的看法。我认为应该在加沙实施定点暗杀，"
+    },
+    {
+      "id": 67,
+      "startMs": 435480,
+      "endMs": 440280,
+      "en": "taking down 30 to 40 every night, not just those who pose an immediate threat.",
+      "zh": "每晚消灭三十到四十人，而不仅仅是那些构成即时威胁的人。"
+    },
+    {
+      "id": 68,
+      "startMs": 440840,
+      "endMs": 443080,
+      "en": "There are people there who are not worthy of life.",
+      "zh": "那里有些人不配拥有生命。"
+    },
+    {
+      "id": 69,
+      "startMs": 443720,
+      "endMs": 446120,
+      "en": "They shouldn't live. They are not even people.",
+      "zh": "他们不应该活着；他们甚至算不上人。"
+    },
+    {
+      "id": 70,
+      "startMs": 446840,
+      "endMs": 452760,
+      "en": "Almost a year after the Gaza ceasefire was signed, hopes for peace and reconstruction there are running out.",
+      "zh": "加沙停火协议签署近一年后，当地对和平与重建的希望正在消退。"
+    },
+    {
+      "id": 71,
+      "startMs": 453320,
+      "endMs": 461880,
+      "en": "Nesreen Abu Sada is still living in a tent in Khan Younis with her husband and children, alongside rats, mosquitoes and flies.",
+      "zh": "娜斯林·阿布·萨达仍和丈夫、孩子住在汗尤尼斯的一顶帐篷里，身边还有老鼠、蚊子和苍蝇。"
+    },
+    {
+      "id": 72,
+      "startMs": 462200,
+      "endMs": 467800,
+      "en": "Their family home lies in an area controlled by Israeli forces less than 2 miles away.",
+      "zh": "他们的家就在不到两英里外、由以色列军队控制的地区。"
+    },
+    {
+      "id": 73,
+      "startMs": 467800,
+      "endMs": 473960,
+      "en": "Honestly, for three years they have been holding meetings and making decisions,",
+      "zh": "说实话，三年来他们一直开会、作决定，"
+    },
+    {
+      "id": 74,
+      "startMs": 473960,
+      "endMs": 477640,
+      "en": "but nothing is implemented. They just sit in their chairs and leave.",
+      "zh": "但什么都没有落实。他们只是坐在椅子上，然后离开。"
+    },
+    {
+      "id": 75,
+      "startMs": 477960,
+      "endMs": 481800,
+      "en": "We don't see any results. We are just suffering for nothing.",
+      "zh": "我们看不到任何结果，只是在无谓地受苦。"
+    },
+    {
+      "id": 76,
+      "startMs": 482040,
+      "endMs": 483800,
+      "en": "We are the ones paying the price.",
+      "zh": "付出代价的是我们。"
+    },
+    {
+      "id": 77,
+      "startMs": 484200,
+      "endMs": 489000,
+      "en": "There's been no response yet from Hamas to the changes announced by Israel yesterday.",
+      "zh": "哈马斯尚未回应以色列昨天宣布的变更。"
+    },
+    {
+      "id": 78,
+      "startMs": 489020,
+      "endMs": 496860,
+      "en": "Eight Arab and Muslim countries jointly urged Washington to force Israel into complying with the next stage of the Gaza plan.",
+      "zh": "八个阿拉伯和穆斯林国家联合敦促华盛顿迫使以色列遵守加沙计划的下一阶段。"
+    },
+    {
+      "id": 79,
+      "startMs": 497260,
+      "endMs": 505660,
+      "en": "Benjamin Netanyahu wins elections by presenting himself as both Israel's Mr Security and Washington's friend.",
+      "zh": "本雅明·内塔尼亚胡通过把自己塑造成以色列的“安全先生”和华盛顿的朋友来赢得选举。"
+    },
+    {
+      "id": 80,
+      "startMs": 506060,
+      "endMs": 508700,
+      "en": "Harder this time to present himself as either.",
+      "zh": "这一次，他更难再把自己塑造成其中任何一种形象。"
+    },
+    {
+      "id": 81,
+      "startMs": 509760,
+      "endMs": 515040,
+      "en": "Lucy Williamson, well, with the US truce with Iran also seemingly going nowhere,",
+      "zh": "露西·威廉姆森。好，在美国与伊朗的停火似乎也毫无进展之际，"
+    },
+    {
+      "id": 82,
+      "startMs": 515440,
+      "endMs": 521760,
+      "en": "President Trump has lashed out at an ally that has been mediating between the two sides, Oman.",
+      "zh": "特朗普总统抨击了在双方之间进行调解的盟友阿曼。"
+    },
+    {
+      "id": 83,
+      "startMs": 522400,
+      "endMs": 529920,
+      "en": "Mr Trump threatened to bomb Oman if it got in the way of his administration's talks with Iran, according to Fox News.",
+      "zh": "据福克斯新闻报道，特朗普威胁称，如果阿曼妨碍其政府与伊朗的谈判，就要轰炸阿曼。"
+    },
+    {
+      "id": 84,
+      "startMs": 530480,
+      "endMs": 535360,
+      "en": "Oman has been holding separate negotiations with Iran about reopening the Strait of Hormuz.",
+      "zh": "阿曼一直在与伊朗单独谈判，讨论重新开放霍尔木兹海峡。"
+    },
+    {
+      "id": 85,
+      "startMs": 536080,
+      "endMs": 540240,
+      "en": "I got more on all these developments with our international editor Jeremy Bowen,",
+      "zh": "关于这些进展，我还采访了本台国际事务编辑杰里米·鲍恩，"
+    },
+    {
+      "id": 86,
+      "startMs": 540240,
+      "endMs": 546640,
+      "en": "starting with the US's failure to persuade Israel to drop its opposition to the Gaza plan.",
+      "zh": "首先谈美国未能说服以色列放弃反对加沙计划一事。"
+    },
+    {
+      "id": 87,
+      "startMs": 546640,
+      "endMs": 552480,
+      "en": "I think the breakthrough, if anything, judging by the statements that came out, was actually from the point of view",
+      "zh": "我认为，如果说有什么突破的话，从公开声明来看，其实是从……的角度而言，"
+    },
+    {
+      "id": 88,
+      "startMs": 552480,
+      "endMs": 560240,
+      "en": "of Benjamin Netanyahu, because Jared Kushner, who has always had a very strong reputation as a close friend of Israel,",
+      "zh": "从本雅明·内塔尼亚胡的角度看，因为被视为以色列亲密朋友、一直享有很高声誉的杰里德·库什纳，"
+    },
+    {
+      "id": 89,
+      "startMs": 560240,
+      "endMs": 568160,
+      "en": "I mean, he seems to have absorbed Israel's position entirely. I mean, of course, we don't know what he's been saying to Hamas,",
+      "zh": "我的意思是，他似乎完全接受了以色列的立场。当然，我们不知道他对哈马斯说了什么，"
+    },
+    {
+      "id": 90,
+      "startMs": 568480,
+      "endMs": 572900,
+      "en": "but the contacts I've had with some Hamas officials and looking at the wider picture,",
+      "zh": "但根据我与一些哈马斯官员的接触，以及对更广泛局势的观察，"
+    },
+    {
+      "id": 91,
+      "startMs": 572900,
+      "endMs": 582500,
+      "en": "there, it seems pretty clear that the Hamas agreement to disarm is predicated on a mutual process, and that's how it was presented to begin with.",
+      "zh": "很明显，哈马斯同意解除武装的前提是一个相互推进的过程，最初就是这样呈现的。"
+    },
+    {
+      "id": 92,
+      "startMs": 582500,
+      "endMs": 585780,
+      "en": "And then they brought in a Board of Peace person, Mr Mladenov, their diplomat,",
+      "zh": "后来他们又请来和平委员会的人、外交官姆拉德诺夫先生，"
+    },
+    {
+      "id": 93,
+      "startMs": 586180,
+      "endMs": 594260,
+      "en": "who, after a meeting with Netanyahu, sort of walked that one back, but essentially there was meant to be a reciprocal process going on.",
+      "zh": "他与内塔尼亚胡会面后，似乎收回了那一说法，但本质上原本应当是一个相互推进的过程。"
+    },
+    {
+      "id": 94,
+      "startMs": 594260,
+      "endMs": 596820,
+      "en": "Mladenov, do you realize that neither side trusted each other?",
+      "zh": "姆拉德诺夫，你是否意识到双方互不信任？"
+    },
+    {
+      "id": 95,
+      "startMs": 597300,
+      "endMs": 610180,
+      "en": "But the way that it's now being presented by Messrs Kushner and Netanyahu appears to be that Hamas disarms, then Israel decides if that's sufficient and then allows rebuilding.",
+      "zh": "但库什纳和内塔尼亚胡如今呈现的方式似乎是：哈马斯先解除武装，然后由以色列决定这是否足够，接着才允许重建。"
+    },
+    {
+      "id": 96,
+      "startMs": 610660,
+      "endMs": 617860,
+      "en": "If that is the case, this isn't going to work because Prime Minister Netanyahu faces elections at the end of October.",
+      "zh": "如果情况是这样，这不会奏效，因为内塔尼亚胡总理将在十月底面临选举。"
+    },
+    {
+      "id": 97,
+      "startMs": 618180,
+      "endMs": 628420,
+      "en": "He will not want to give any chance for his political rivals, or indeed his allies inside his cabinet, who include some really hard-line extremists.",
+      "zh": "他不会想给自己的政治对手，或者内阁中那些真正强硬的极端派盟友，留下任何机会。"
+    },
+    {
+      "id": 98,
+      "startMs": 628820,
+      "endMs": 634040,
+      "en": "He doesn't want to give them any opportunity to say he's being soft on either Hamas or the Palestinians?",
+      "zh": "他不想给他们任何机会，说他在哈马斯或巴勒斯坦人问题上立场软弱？"
+    },
+    {
+      "id": 99,
+      "startMs": 634360,
+      "endMs": 639960,
+      "en": "And I think that what he's basically trying to do, as he often does, is play for time until after the election.",
+      "zh": "我认为，他基本上是在像往常一样拖延时间，直到选举结束。"
+    },
+    {
+      "id": 100,
+      "startMs": 639960,
+      "endMs": 643720,
+      "en": "When, if he's still in power, he might be under pressure to do more. Who knows?",
+      "zh": "如果那时他仍在掌权，他可能会面临采取更多行动的压力。谁知道呢？"
+    },
+    {
+      "id": 101,
+      "startMs": 644280,
+      "endMs": 650600,
+      "en": "As you say, it does seem to be Israel that's got the concessions, because the US was talking about how Israel should not be striking Gaza.",
+      "zh": "正如你所说，看起来是以色列获得了让步，因为美国曾表示以色列不应继续打击加沙。"
+    },
+    {
+      "id": 102,
+      "startMs": 650600,
+      "endMs": 657960,
+      "en": "It seems to have rolled back on that. But a lot of people were surprised that Jared Kushner met the Hamas leader before he met the Israeli prime minister.",
+      "zh": "但美国似乎已经收回了这一说法。许多人还对贾里德·库什纳先会见哈马斯领导人、再会见以色列总理感到意外。"
+    },
+    {
+      "id": 103,
+      "startMs": 657960,
+      "endMs": 666680,
+      "en": "Yes, indeed, the Trump administration has been a lot less squeamish about talking directly to Hamas than others have done.",
+      "zh": "确实，特朗普政府相比其他政府，更不避讳直接与哈马斯交谈。"
+    },
+    {
+      "id": 104,
+      "startMs": 666920,
+      "endMs": 677240,
+      "en": "Hamas themselves, I think they accept that they're in a weak position, not least because they've lost the faith of a lot of people in Gaza who are living the most appalling lives.",
+      "zh": "我认为，哈马斯自己也承认处于弱势，尤其是因为他们已经失去了许多加沙民众的信任，而这些人正过着极其悲惨的生活。"
+    },
+    {
+      "id": 105,
+      "startMs": 677640,
+      "endMs": 683240,
+      "en": "And while of course they blame Israel for what's happening to them, because we are not allowed by Israel to get into Gaza,",
+      "zh": "当然，他们把自身遭遇归咎于以色列；而且以色列不允许我们进入加沙，"
+    },
+    {
+      "id": 106,
+      "startMs": 683240,
+      "endMs": 685720,
+      "en": "I can't say this firsthand from my own conversations,",
+      "zh": "我不能根据自己的交谈亲口证实这一点，"
+    },
+    {
+      "id": 107,
+      "startMs": 685960,
+      "endMs": 693260,
+      "en": "but the fact is people look round at the terrible lives they're having there and they try and think, well, how do we get into this mess?",
+      "zh": "但事实是，人们看看自己在那里过着的悲惨生活，不禁想：我们怎么会陷入这种困境？"
+    },
+    {
+      "id": 108,
+      "startMs": 693580,
+      "endMs": 695660,
+      "en": "Yes, there is this major conflict with Israel,",
+      "zh": "是的，这是一场与以色列的重大冲突，"
+    },
+    {
+      "id": 109,
+      "startMs": 695980,
+      "endMs": 705980,
+      "en": "but yes, Hamas did something militarily, killing a lot of Israeli civilians as well, which has resulted in Israel's massive vengeance.",
+      "zh": "但哈马斯确实采取了军事行动，也杀害了许多以色列平民，结果招致以色列大规模报复。"
+    },
+    {
+      "id": 110,
+      "startMs": 706540,
+      "endMs": 712540,
+      "en": "So the Trump administration can't get Israel to budge, it seems, and it's equally frustrated with Iran.",
+      "zh": "所以，特朗普政府似乎无法让以色列改变立场，对伊朗也同样感到挫败。"
+    },
+    {
+      "id": 111,
+      "startMs": 712540,
+      "endMs": 721260,
+      "en": "Mr. Trump says he's not seeking an extension of the 60-day deal that has now expired without anything realistically being achieved. What now?",
+      "zh": "特朗普说，他不寻求延长那项如今已经到期、实际上没有取得任何成果的 60 天协议。接下来怎么办？"
+    },
+    {
+      "id": 112,
+      "startMs": 721340,
+      "endMs": 729660,
+      "en": "Good question. And in fact, ironically, the one channel of diplomacy that appears to be potentially bearing some fruit,",
+      "zh": "问得好。事实上，颇具讽刺意味的是，唯一看起来可能取得一些成果的外交渠道，"
+    },
+    {
+      "id": 113,
+      "startMs": 730140,
+      "endMs": 737900,
+      "en": "which is the process between Oman and Iran, facing each other across the Hormuz Strait to try and get the strait reopened, has been the most serious game in town.",
+      "zh": "是阿曼与伊朗隔着霍尔木兹海峡展开谈判、试图重新开放海峡；这反而成了当前最重要的行动。"
+    },
+    {
+      "id": 114,
+      "startMs": 738140,
+      "endMs": 748380,
+      "en": "And so it is now more than ironic that Donald Trump is saying he might bomb Oman if it gets in the way.",
+      "zh": "因此，如今更具讽刺意味的是，唐纳德·特朗普说，如果阿曼妨碍进程，他可能会轰炸阿曼。"
+    },
+    {
+      "id": 115,
+      "startMs": 748460,
+      "endMs": 755840,
+      "en": "I mean, gets in the way of what? I think it could be that Oman is recognising that the only way that they're going to get the Strait reopened",
+      "zh": "我的意思是，妨碍什么呢？我认为，可能是因为阿曼意识到，重新开放海峡的唯一途径是，"
+    },
+    {
+      "id": 116,
+      "startMs": 756160,
+      "endMs": 764240,
+      "en": "is to offer serious concessions to Iran, which Donald Trump thinks will be presented then by Iran as a victory over him, and he won't accept that.",
+      "zh": "就是向伊朗作出重大让步；唐纳德·特朗普认为，伊朗会把这包装成对他的胜利，而他不会接受这一点。"
+    },
+    {
+      "id": 117,
+      "startMs": 764560,
+      "endMs": 770160,
+      "en": "So he's gone back to this business that he's doing everything that he's doing to stop Iran getting a nuclear weapon.",
+      "zh": "所以，他又回到了那套说法：他所做的一切，都是为了阻止伊朗获得核武器。"
+    },
+    {
+      "id": 118,
+      "startMs": 770560,
+      "endMs": 775920,
+      "en": "Let us not forget that not once but twice, they've said they've obliterated Iran's nuclear facilities.",
+      "zh": "别忘了，他们曾两次声称已经摧毁了伊朗的核设施。"
+    },
+    {
+      "id": 119,
+      "startMs": 776320,
+      "endMs": 778000,
+      "en": "So these things do not add up.",
+      "zh": "所以，这些说法彼此对不上。"
+    },
+    {
+      "id": 120,
+      "startMs": 778400,
+      "endMs": 784960,
+      "en": "I mean, what we're dealing with here is an American president who's seeing, to use one of his favorite words, a failing foreign policy,",
+      "zh": "我的意思是，我们面对的是一位美国总统；用他最喜欢的词来说，他看到的是一项失败的外交政策，"
+    },
+    {
+      "id": 121,
+      "startMs": 785440,
+      "endMs": 791040,
+      "en": "a situation in which America's adversaries have seen ways in which they can hurt America,",
+      "zh": "以及这样一种局面：美国的对手已经找到可以伤害美国的方式，"
+    },
+    {
+      "id": 122,
+      "startMs": 791520,
+      "endMs": 797200,
+      "en": "and Donald Trump is in a situation where not only does he face elections, this may be becoming his legacy,",
+      "zh": "而唐纳德·特朗普不仅面临选举，这件事还可能成为他的政治遗产，"
+    },
+    {
+      "id": 123,
+      "startMs": 797440,
+      "endMs": 803520,
+      "en": "and that's not something he wants. He does not want, above all, to be a loser. Jeremy Bowen.",
+      "zh": "而这并不是他想要的。最重要的是，他不想成为失败者。杰里米·鲍文。"
+    },
+    {
+      "id": 124,
+      "startMs": 804560,
+      "endMs": 810800,
+      "en": "At the start of this month, FIFA's president, Gianni Infantino, was forced to abandon his controversial plan",
+      "zh": "本月初，国际足联主席詹尼·因凡蒂诺被迫放弃其争议计划，"
+    },
+    {
+      "id": 125,
+      "startMs": 810880,
+      "endMs": 815840,
+      "en": "to sell off stakes in the Football World Cup and other tournaments after a fierce backlash.",
+      "zh": "该计划原本要在强烈反弹后出售足球世界杯及其他赛事的股份。"
+    },
+    {
+      "id": 126,
+      "startMs": 816400,
+      "endMs": 819200,
+      "en": "But so far, he's resisted calls for him to resign,",
+      "zh": "但到目前为止，他一直拒绝辞职要求，"
+    },
+    {
+      "id": 127,
+      "startMs": 819200,
+      "endMs": 828720,
+      "en": "and now a senior figure in world football's governing body who criticised him, Kevin Lamour, FIFA's chief operating officer, has been sacked.",
+      "zh": "如今，批评他的国际足坛管理机构高层、国际足联首席运营官凯文·拉穆尔被解雇了。"
+    },
+    {
+      "id": 128,
+      "startMs": 829040,
+      "endMs": 830960,
+      "en": "Here's our sports editor, Dan Roan.",
+      "zh": "以下是体育编辑丹·罗恩的报道。"
+    },
+    {
+      "id": 129,
+      "startMs": 831760,
+      "endMs": 835760,
+      "en": "Last month, Kevin Lamour publicly condemned Gianni Infantino,",
+      "zh": "上个月，凯文·拉穆尔公开谴责詹尼·因凡蒂诺，"
+    },
+    {
+      "id": 130,
+      "startMs": 836000,
+      "endMs": 844800,
+      "en": "the senior executive claiming that he and his FIFA colleagues had been deceived by their boss over the now abandoned FIFA Forward enterprise project.",
+      "zh": "这位高管称，他和国际足联同事在如今已放弃的FIFA Forward企业项目上被老板欺骗了。"
+    },
+    {
+      "id": 131,
+      "startMs": 844960,
+      "endMs": 850000,
+      "en": "At the time, the chief operating officer predicted that breaking ranks could result in his departure,",
+      "zh": "当时，这位首席运营官预料，公开决裂可能导致自己离职，"
+    },
+    {
+      "id": 132,
+      "startMs": 850480,
+      "endMs": 855200,
+      "en": "adding that he had a duty of loyalty to his employer, but also to certain values.",
+      "zh": "他还说，自己既有义务忠于雇主，也有义务忠于某些价值观。"
+    },
+    {
+      "id": 133,
+      "startMs": 855440,
+      "endMs": 860400,
+      "en": "If that means I lose my job, then so be it, he wrote. At least I'll sleep well tonight.",
+      "zh": "他写道：“如果这意味着我会失去工作，那就随它吧。至少今晚我能睡个好觉。”"
+    },
+    {
+      "id": 134,
+      "startMs": 861040,
+      "endMs": 871540,
+      "en": "In a statement, FIFA would only confirm that Mr Lamour had left, with staff told that the two parties had agreed to part ways after careful consideration earlier this month.",
+      "zh": "国际足联在一份声明中只确认拉穆尔已经离开，并告知员工双方在本月早些时候经过慎重考虑后同意分道扬镳。"
+    },
+    {
+      "id": 135,
+      "startMs": 871540,
+      "endMs": 880340,
+      "en": "Gianni Infantino received the backing of senior FIFA executives in a meeting in Morocco, but BBC Sport was told Mr Lamour was not invited.",
+      "zh": "詹尼·因凡蒂诺在摩洛哥的一次会议上获得了国际足联高层的支持，但 BBC 体育获悉，拉穆尔没有受邀。"
+    },
+    {
+      "id": 136,
+      "startMs": 880820,
+      "endMs": 884260,
+      "en": "Mr Lamour has been approached for comment. Dan Roan.",
+      "zh": "BBC 已联系拉穆尔寻求回应。丹·罗恩。"
+    },
+    {
+      "id": 137,
+      "startMs": 887640,
+      "endMs": 896600,
+      "en": "Still to come in this podcast, the prosecution is not alleging that Keffe D pulled the trigger, but they accuse him of masterminding the killing and setting it in motion.",
+      "zh": "本期节目稍后将播出：检方并未指控 Keffe D 亲自扣动扳机，但指称他策划并推动了这起谋杀。"
+    },
+    {
+      "id": 138,
+      "startMs": 896600,
+      "endMs": 900200,
+      "en": "The defense says these details were exaggerated to sell books.",
+      "zh": "辩方称，这些细节被夸大了，是为了卖书。"
+    },
+    {
+      "id": 139,
+      "startMs": 900920,
+      "endMs": 902760,
+      "en": "After a 30-year wait,",
+      "zh": "等待了30年之后，"
+    },
+    {
+      "id": 140,
+      "startMs": 902920,
+      "endMs": 908280,
+      "en": "a trial finally begins into the killing of the US rapper Tupac Shakur.",
+      "zh": "美国说唱歌手图派克·夏库尔遇害案终于开庭审理。"
+    },
+    {
+      "id": 141,
+      "startMs": 917540,
+      "endMs": 919620,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 142,
+      "startMs": 919620,
+      "endMs": 928180,
+      "en": "While Ukraine has been carrying out deadly strikes deep inside Russia this year, including on Wildberries, the Russian equivalent of Amazon,",
+      "zh": "今年以来，乌克兰一直在俄罗斯境内纵深发动致命袭击，包括袭击俄罗斯版亚马逊Wildberries，"
+    },
+    {
+      "id": 143,
+      "startMs": 928740,
+      "endMs": 936580,
+      "en": "it's also seen a big surge in the number of civilians killed as Russian ballistic missiles exploit its inadequate air defences.",
+      "zh": "与此同时，随着俄罗斯弹道导弹利用乌克兰防空能力不足的弱点，乌克兰平民死亡人数也大幅增加。"
+    },
+    {
+      "id": 144,
+      "startMs": 937220,
+      "endMs": 941780,
+      "en": "Ukraine has been ramping up a public campaign for more air defence capabilities.",
+      "zh": "乌克兰一直在加大公开宣传力度，呼吁获得更多防空能力。"
+    },
+    {
+      "id": 145,
+      "startMs": 942180,
+      "endMs": 948980,
+      "en": "Its military intelligence service has been gathering information about Russia's internal weaknesses.",
+      "zh": "乌克兰军事情报部门一直在收集俄罗斯内部弱点的信息。"
+    },
+    {
+      "id": 146,
+      "startMs": 949540,
+      "endMs": 958100,
+      "en": "In a secret location in Kyiv, our Ukraine correspondent Dan Johnson spoke to the service's deputy chief, Vadym Skibitskyi.",
+      "zh": "在基辅一个秘密地点，BBC乌克兰记者丹·约翰逊采访了该部门副负责人瓦季姆·斯基比茨基。"
+    },
+    {
+      "id": 147,
+      "startMs": 958580,
+      "endMs": 966420,
+      "en": "He started by asking him about Ukraine's latest strategy of deep-range drone strikes thousands of kilometres inside Russia,",
+      "zh": "他首先询问乌克兰最新的远程无人机袭击战略——这些袭击深入俄罗斯境内数千公里，"
+    },
+    {
+      "id": 148,
+      "startMs": 966900,
+      "endMs": 970900,
+      "en": "and how the Ukrainian military plans to grind down Moscow.",
+      "zh": "以及乌克兰军方打算如何逐步削弱莫斯科。"
+    },
+    {
+      "id": 149,
+      "startMs": 971940,
+      "endMs": 980660,
+      "en": "We should to destroy and disrupt, first of all, production weaponry, and that is why one of the main objects for us, it's defense industry.",
+      "zh": "首先，我们应该摧毁并扰乱武器生产，这就是为什么国防工业是我们的主要目标之一。"
+    },
+    {
+      "id": 150,
+      "startMs": 980740,
+      "endMs": 984740,
+      "en": "And of course, next one, logistic system, including, in some case, Wildberries, for example.",
+      "zh": "当然，下一个目标是后勤系统，包括在某些情况下的Wildberries。"
+    },
+    {
+      "id": 151,
+      "startMs": 984740,
+      "endMs": 991780,
+      "en": "Why? Because it's one of the elements of the logistic system of Russian Federation to wage the war,",
+      "zh": "为什么？因为它是俄罗斯联邦用于发动战争的后勤系统要素之一，"
+    },
+    {
+      "id": 152,
+      "startMs": 991940,
+      "endMs": 1001940,
+      "en": "including, for example, through Wildberries, some military equipment, military components, and another element that Russian Federation uses for war.",
+      "zh": "比如通过Wildberries运输的一些军事装备、军事部件，以及俄罗斯联邦用于战争的其他要素。"
+    },
+    {
+      "id": 153,
+      "startMs": 1002100,
+      "endMs": 1003620,
+      "en": "Will those deep strikes continue?",
+      "zh": "这些纵深袭击会继续吗？"
+    },
+    {
+      "id": 154,
+      "startMs": 1003620,
+      "endMs": 1006580,
+      "en": "Unfortunately. Even if more Russian civilians are killed?",
+      "zh": "很遗憾。即使会有更多俄罗斯平民被杀，也会继续吗？"
+    },
+    {
+      "id": 155,
+      "startMs": 1006740,
+      "endMs": 1015940,
+      "en": "First of all, I said we must destroy and disrupt the main elements of the wage of war of Russian Federation, not civilian people.",
+      "zh": "首先，我说过，我们必须摧毁并扰乱俄罗斯联邦发动战争的主要要素，而不是平民。"
+    },
+    {
+      "id": 156,
+      "startMs": 1015940,
+      "endMs": 1023220,
+      "en": "Do you see evidence that those deep strikes are increasing opposition to the Kremlin, not increasing its support?",
+      "zh": "你是否看到证据表明，这些纵深袭击正在增加对克里姆林宫的反对，而不是增加对它的支持？"
+    },
+    {
+      "id": 157,
+      "startMs": 1023300,
+      "endMs": 1025940,
+      "en": "It's real influence on the population of Russian Federation,",
+      "zh": "这确实会影响俄罗斯联邦民众，"
+    },
+    {
+      "id": 158,
+      "startMs": 1026340,
+      "endMs": 1036920,
+      "en": "because the understanding concerning the air defense system of Russian Federation, concerning the capability of Russian authority to prevent, to protect some areas.",
+      "zh": "因为人们会认识到俄罗斯联邦的防空系统，以及俄罗斯当局防止袭击、保护某些地区的能力。"
+    },
+    {
+      "id": 159,
+      "startMs": 1037080,
+      "endMs": 1046120,
+      "en": "Of course, another problem today for Russian Federation: the level of life of population. It's a prosperity for normal life in any country.",
+      "zh": "当然，俄罗斯联邦如今的另一个问题是民众的生活水平。任何国家的正常生活都需要繁荣。"
+    },
+    {
+      "id": 160,
+      "startMs": 1046280,
+      "endMs": 1051480,
+      "en": "What is the thing that worries you the most when you consider the different threats Russia poses?",
+      "zh": "考虑到俄罗斯构成的各种威胁，最令你担忧的是什么？"
+    },
+    {
+      "id": 161,
+      "startMs": 1051720,
+      "endMs": 1057160,
+      "en": "Today, we really understand that possible threat in the winter period of time, especially, for example,",
+      "zh": "如今，我们确实了解冬季可能出现的威胁，尤其是例如，"
+    },
+    {
+      "id": 162,
+      "startMs": 1057240,
+      "endMs": 1066600,
+      "en": "destroy, disrupt water supply system, heating system, electricity system and facilities for normal life of civilian population.",
+      "zh": "摧毁、扰乱供水系统、供暖系统、电力系统以及保障平民正常生活的设施。"
+    },
+    {
+      "id": 163,
+      "startMs": 1066760,
+      "endMs": 1070600,
+      "en": "And do you have the intelligence that those sorts of attacks are being planned by Russia?",
+      "zh": "你们是否掌握情报，知道俄罗斯正在策划这类袭击？"
+    },
+    {
+      "id": 164,
+      "startMs": 1070600,
+      "endMs": 1077320,
+      "en": "Due to our capability, defense intelligence of Ukraine, we absolutely understand the plans.",
+      "zh": "凭借我们的能力，乌克兰国防情报部门完全了解这些计划。"
+    },
+    {
+      "id": 165,
+      "startMs": 1077480,
+      "endMs": 1088280,
+      "en": "Knowledge is absolutely good, but without the air defense and other weapons, including weapons and ammunition, it's very hard to protect all territory of Ukraine.",
+      "zh": "了解情况当然很好，但没有防空系统和其他武器，包括武器和弹药，就很难保护乌克兰的全部领土。"
+    },
+    {
+      "id": 166,
+      "startMs": 1088520,
+      "endMs": 1094380,
+      "en": "Do you think ordinary Ukrainian people are going to feel the impact of that even more this winter than last?",
+      "zh": "你认为今年冬天，普通乌克兰民众受到的影响会比去年更大吗？"
+    },
+    {
+      "id": 167,
+      "startMs": 1094380,
+      "endMs": 1100220,
+      "en": "Yes, every day, we have the wounded and dead civilian population in many regions,",
+      "zh": "是的，每天都有平民在许多地区受伤或死亡，"
+    },
+    {
+      "id": 168,
+      "startMs": 1100380,
+      "endMs": 1112460,
+      "en": "and unfortunately, with increasing number of drones, some missile system Russian Federation, the threat and challenge can increase the losses of civilian population in our country.",
+      "zh": "遗憾的是，随着无人机数量增加，以及俄罗斯联邦的一些导弹系统，威胁和挑战可能会增加我国平民的伤亡。"
+    },
+    {
+      "id": 169,
+      "startMs": 1112460,
+      "endMs": 1116460,
+      "en": "Some people would say then that is the evidence that Ukraine is not winning this war.",
+      "zh": "有人会说，这就证明乌克兰没有赢得这场战争。"
+    },
+    {
+      "id": 170,
+      "startMs": 1116620,
+      "endMs": 1119340,
+      "en": "We have not another way for survival.",
+      "zh": "我们没有其他生存方式。"
+    },
+    {
+      "id": 171,
+      "startMs": 1119420,
+      "endMs": 1122540,
+      "en": "It's our territory, it's our culture, it's our history.",
+      "zh": "这是我们的领土、我们的文化、我们的历史。"
+    },
+    {
+      "id": 172,
+      "startMs": 1122540,
+      "endMs": 1127100,
+      "en": "We must fight to prevent the full occupation of Russian Federation.",
+      "zh": "我们必须战斗，阻止俄罗斯联邦全面占领。"
+    },
+    {
+      "id": 173,
+      "startMs": 1127180,
+      "endMs": 1128060,
+      "en": "Do you think you are winning?",
+      "zh": "你认为你们正在获胜吗？"
+    },
+    {
+      "id": 174,
+      "startMs": 1128220,
+      "endMs": 1128860,
+      "en": "I think yes.",
+      "zh": "我想是的。"
+    },
+    {
+      "id": 175,
+      "startMs": 1130120,
+      "endMs": 1138280,
+      "en": "That was Vadym Skibitskyi, the deputy chief of Ukraine's military intelligence, speaking to Dan Johnson.",
+      "zh": "以上是乌克兰军事情报部门副负责人瓦季姆·斯基比茨基接受丹·约翰逊采访的内容。"
+    },
+    {
+      "id": 176,
+      "startMs": 1139920,
+      "endMs": 1149120,
+      "en": "Well, in Russia itself, the country's only anti-war party has recently seen a surge in support ahead of next month's parliamentary elections.",
+      "zh": "在俄罗斯国内，该国唯一的反战政党最近获得的支持有所上升，而下个月将举行议会选举。"
+    },
+    {
+      "id": 177,
+      "startMs": 1149440,
+      "endMs": 1156640,
+      "en": "But last week, the Yabloko Party was barred from taking part in the vote, and now that decision has been upheld by the Supreme Court.",
+      "zh": "但上周，亚博卢克党被禁止参加投票，如今这一决定已获最高法院维持。"
+    },
+    {
+      "id": 178,
+      "startMs": 1157120,
+      "endMs": 1164640,
+      "en": "And another court has jailed the party's deputy chairman for 11 years for criticising the conflict in Ukraine.",
+      "zh": "另一家法院则以批评乌克兰冲突为由，将该党副主席判处11年监禁。"
+    },
+    {
+      "id": 179,
+      "startMs": 1165200,
+      "endMs": 1171920,
+      "en": "As our Russia editor, Steve Rosenberg, reports, supporters of the anti-war party were detained by police.",
+      "zh": "正如本台俄罗斯编辑史蒂夫·罗森伯格报道的那样，反战党支持者被警方拘留。"
+    },
+    {
+      "id": 180,
+      "startMs": 1172880,
+      "endMs": 1177200,
+      "en": "In Moscow, there was tight security and a flurry of arrests.",
+      "zh": "在莫斯科，安保严密，并发生了一连串逮捕。"
+    },
+    {
+      "id": 181,
+      "startMs": 1177600,
+      "endMs": 1180160,
+      "en": "Dozens were detained outside the Supreme Court.",
+      "zh": "最高法院外有数十人被拘留。"
+    },
+    {
+      "id": 182,
+      "startMs": 1181220,
+      "endMs": 1190980,
+      "en": "Many of them young people, they'd come to support a political party that is doing something rare in Russia, calling publicly for peace.",
+      "zh": "其中许多是年轻人。他们来支持一个在俄罗斯罕见地公开呼吁和平的政党。"
+    },
+    {
+      "id": 183,
+      "startMs": 1190980,
+      "endMs": 1197620,
+      "en": "Inside, Yabloko appealed the decision to bar it from the parliamentary election.",
+      "zh": "在法院内，亚博卢克党就被禁止参加议会选举的决定提出上诉。"
+    },
+    {
+      "id": 184,
+      "startMs": 1198420,
+      "endMs": 1207440,
+      "en": "It had been the only anti-war party allowed to run, but was struck off the ballot a week ago for alleged copyright violations.",
+      "zh": "它原本是唯一获准参选的反战政党，但一周前因涉嫌侵犯版权而被从选票中剔除。"
+    },
+    {
+      "id": 185,
+      "startMs": 1208300,
+      "endMs": 1209500,
+      "en": "The appeal was rejected.",
+      "zh": "上诉被驳回。"
+    },
+    {
+      "id": 186,
+      "startMs": 1209820,
+      "endMs": 1217500,
+      "en": "Yabloko was barred because we stand for peace and freedom, party leader Nikolai Rybakov says.",
+      "zh": "亚博卢克党领袖尼古拉·雷巴科夫说：“亚博卢克党被禁止参选，是因为我们主张和平与自由。”"
+    },
+    {
+      "id": 187,
+      "startMs": 1218140,
+      "endMs": 1221340,
+      "en": "Those who are removing us from the election stand for the opposite.",
+      "zh": "“那些把我们赶出选举的人主张的是相反的立场。”"
+    },
+    {
+      "id": 188,
+      "startMs": 1222220,
+      "endMs": 1225180,
+      "en": "What I find interesting is this, that just a few days ago,",
+      "zh": "我觉得有意思的是，就在几天前，"
+    },
+    {
+      "id": 189,
+      "startMs": 1225180,
+      "endMs": 1234300,
+      "en": "the authorities here seemed confident enough to allow an anti-war party to take part in the parliamentary election, and so Yabloko received its registration.",
+      "zh": "这里的当局似乎还相当有信心，允许一个反战政党参加议会选举，因此亚博卢克党获得了注册资格。"
+    },
+    {
+      "id": 190,
+      "startMs": 1235020,
+      "endMs": 1238700,
+      "en": "And just a few days later, that decision was reversed.",
+      "zh": "但仅仅几天之后，这一决定就被推翻了。"
+    },
+    {
+      "id": 191,
+      "startMs": 1238700,
+      "endMs": 1239020,
+      "en": "It was overturned.",
+      "zh": "它被撤销了。"
+    },
+    {
+      "id": 192,
+      "startMs": 1239740,
+      "endMs": 1240860,
+      "en": "Why? What had changed?",
+      "zh": "为什么？发生了什么变化？"
+    },
+    {
+      "id": 193,
+      "startMs": 1241420,
+      "endMs": 1250140,
+      "en": "Could it be that the people in power here have realized that anti-war sentiment in Russia is actually much greater than they'd imagined?",
+      "zh": "会不会是这里的掌权者已经意识到，俄罗斯的反战情绪实际上远比他们想象的强烈？"
+    },
+    {
+      "id": 194,
+      "startMs": 1250900,
+      "endMs": 1258500,
+      "en": "Recent polls show that around two-thirds of Russians want peace talks on Ukraine, not a continuation of the war.",
+      "zh": "近期民调显示，约三分之二的俄罗斯人希望就乌克兰问题举行和平谈判，而不是继续战争。"
+    },
+    {
+      "id": 195,
+      "startMs": 1260580,
+      "endMs": 1262580,
+      "en": "The figure's higher for young Russians.",
+      "zh": "年轻俄罗斯人中的这一比例更高。"
+    },
+    {
+      "id": 196,
+      "startMs": 1263140,
+      "endMs": 1269220,
+      "en": "It helps explain these scenes last week outside the court when Yabloko was removed from the ballot.",
+      "zh": "这有助于解释上周法院外的那些场景：亚博卢克党被从选票中除名。"
+    },
+    {
+      "id": 197,
+      "startMs": 1270180,
+      "endMs": 1272420,
+      "en": "Daniil has come out to support Yabloko.",
+      "zh": "丹尼尔出来支持亚博卢克党。"
+    },
+    {
+      "id": 198,
+      "startMs": 1272420,
+      "endMs": 1276260,
+      "en": "\"I was born and grew up in Putin's Russia,\" he says.",
+      "zh": "他说：“我出生并成长于普京治下的俄罗斯。”"
+    },
+    {
+      "id": 199,
+      "startMs": 1276260,
+      "endMs": 1281940,
+      "en": "Putin is the only leader I've ever known, but I'm worried about what's happening in the country.",
+      "zh": "我所知道的领导人只有普京，但我很担心这个国家正在发生的事情。"
+    },
+    {
+      "id": 200,
+      "startMs": 1282740,
+      "endMs": 1285060,
+      "en": "Later, more pressure on Yabloko.",
+      "zh": "随后，亚博卢克党又面临更大压力。"
+    },
+    {
+      "id": 201,
+      "startMs": 1285060,
+      "endMs": 1292580,
+      "en": "A senior member of the party, Lev Shlosberg, was sentenced to 11 years in prison for condemning the war in Ukraine.",
+      "zh": "该党一名高级成员列夫·什洛斯伯格因谴责乌克兰战争被判处 11 年监禁。"
+    },
+    {
+      "id": 202,
+      "startMs": 1293300,
+      "endMs": 1298180,
+      "en": "He was accused of discrediting and spreading fake news about the Russian army.",
+      "zh": "他被指控诋毁俄罗斯军队并散布有关俄军的虚假消息。"
+    },
+    {
+      "id": 203,
+      "startMs": 1298580,
+      "endMs": 1300420,
+      "en": "He's called the war a tragedy.",
+      "zh": "他称这场战争是一场悲剧。"
+    },
+    {
+      "id": 204,
+      "startMs": 1301060,
+      "endMs": 1303460,
+      "en": "There's no sign it's about to end.",
+      "zh": "没有迹象表明战争即将结束。"
+    },
+    {
+      "id": 205,
+      "startMs": 1304300,
+      "endMs": 1307740,
+      "en": "Our Russia editor, Steve Rosenberg, reporting from Moscow.",
+      "zh": "我们的俄罗斯编辑史蒂夫·罗森伯格从莫斯科报道。"
+    },
+    {
+      "id": 206,
+      "startMs": 1309140,
+      "endMs": 1316580,
+      "en": "Thirty years after the drive-by shooting that killed the rap star Tupac Shakur in Las Vegas, a trial has finally begun.",
+      "zh": "拉斯维加斯那起驾车枪击案导致说唱歌星图派克·夏库尔遇害，三十年后，审判终于开始。"
+    },
+    {
+      "id": 207,
+      "startMs": 1317140,
+      "endMs": 1327540,
+      "en": "Prosecutors alleged on Monday that Duane \"Keffe D\" Davis ordered the shooting as an act of gang revenge, and later boasted of it in a memoir and in interviews.",
+      "zh": "检方周一指控，杜安·“Keffe D”·戴维斯下令实施这起枪击，作为帮派报复行动，后来还在回忆录和采访中吹嘘此事。"
+    },
+    {
+      "id": 208,
+      "startMs": 1327940,
+      "endMs": 1332340,
+      "en": "Davis has pleaded not guilty and now disavows his memoir entirely.",
+      "zh": "戴维斯已表示不认罪，如今完全否认自己的回忆录。"
+    },
+    {
+      "id": 209,
+      "startMs": 1332980,
+      "endMs": 1341220,
+      "en": "The investigation into the killing has been hampered over the years because of witnesses refusing to talk or being killed in gang-related shootings.",
+      "zh": "多年来，这起谋杀案的调查一直受到阻碍，因为有证人拒绝开口，或在帮派相关枪击中被杀。"
+    },
+    {
+      "id": 210,
+      "startMs": 1341700,
+      "endMs": 1344500,
+      "en": "Shaimaa Khalil reports from the court in Las Vegas.",
+      "zh": "沙伊玛·哈利勒从拉斯维加斯法庭发回报道。"
+    },
+    {
+      "id": 211,
+      "startMs": 1345140,
+      "endMs": 1348740,
+      "en": "Duane \"Keffe D\" Davis had a neutral expression on his face.",
+      "zh": "杜安·“Keffe D”·戴维斯面无表情。"
+    },
+    {
+      "id": 212,
+      "startMs": 1348740,
+      "endMs": 1358900,
+      "en": "Sometimes he looked down, sometimes he was looking at the prosecutor as he laid out the events of what happened on that fatal night on the 7th of September, 1996.",
+      "zh": "他有时低头，有时看着检察官；检察官正在陈述 1996 年 9 月 7 日那个致命夜晚发生的事情。"
+    },
+    {
+      "id": 213,
+      "startMs": 1359220,
+      "endMs": 1363620,
+      "en": "The fight that broke out after a boxing match, a Mike Tyson boxing match,",
+      "zh": "那场冲突发生在一场拳击比赛之后——一场迈克·泰森的拳赛。"
+    },
+    {
+      "id": 214,
+      "startMs": 1363700,
+      "endMs": 1371400,
+      "en": "between Tupac, his entourage, and Keffe D's nephew, them attacking Keffe D's nephew, and then the planned retribution.",
+      "zh": "图派克及其随行人员与Keffe D的侄子发生冲突，他们攻击了Keffe D的侄子，随后便是有计划的报复。"
+    },
+    {
+      "id": 215,
+      "startMs": 1371640,
+      "endMs": 1378040,
+      "en": "The jury heard that Keffe D obtained a gun, got into the white Cadillac, handed the gun to someone in the back seat,",
+      "zh": "陪审团听取了这样的说法：Keffe D 弄到一把枪，坐进那辆白色凯迪拉克，把枪交给后座上的某个人，"
+    },
+    {
+      "id": 216,
+      "startMs": 1378120,
+      "endMs": 1385320,
+      "en": "and then they heard about this white Cadillac pulling up next to Tupac's car and the shots that were fired.",
+      "zh": "随后他们听说，这辆白色凯迪拉克驶到图派克的车旁，并响起了枪声。"
+    },
+    {
+      "id": 217,
+      "startMs": 1385400,
+      "endMs": 1393800,
+      "en": "Something that stood out to me as the prosecutor was laying out these details is that he kept saying to the jury, \"You will hear from Keffe D himself.\"",
+      "zh": "检察官陈述这些细节时，有一点让我印象深刻：他不断对陪审团说：“你们会听到 Keffe D 本人的说法。”"
+    },
+    {
+      "id": 218,
+      "startMs": 1393880,
+      "endMs": 1402920,
+      "en": "And that is because the bulk of the evidence in this case rests on Keffe D's words, whether it was a secret interview that he did with the police under a deal",
+      "zh": "这是因为本案的大部分证据都建立在 Keffe D 的话语之上，无论是他在一项协议下接受警方秘密采访，"
+    },
+    {
+      "id": 219,
+      "startMs": 1402920,
+      "endMs": 1413400,
+      "en": "that he then went public with in the information that he then shared in his memoir in 2019, where he did describe him supplying this weapon.",
+      "zh": "还是他后来公开这些信息，并在 2019 年的回忆录中分享；他确实在其中描述了自己提供这把武器。"
+    },
+    {
+      "id": 220,
+      "startMs": 1413720,
+      "endMs": 1421560,
+      "en": "Now, the prosecution is not alleging that Keffe D pulled the trigger, but they accuse him of masterminding the killing and setting it in motion.",
+      "zh": "检方并未指控 Keffe D 亲自扣动扳机，但指控他策划了这起谋杀并推动其实施。"
+    },
+    {
+      "id": 221,
+      "startMs": 1421560,
+      "endMs": 1428920,
+      "en": "The defense says these details were exaggerated to sell books, and they say that he's pleading not guilty.",
+      "zh": "辩方称这些细节是为了卖书而夸大的，并表示他现在作无罪抗辩。"
+    },
+    {
+      "id": 222,
+      "startMs": 1428860,
+      "endMs": 1434060,
+      "en": "Now, I spoke to Tupac's brother, Mopreme Shakur, about this case.",
+      "zh": "我还就此案采访了图派克的兄弟莫普里姆·夏库尔。"
+    },
+    {
+      "id": 223,
+      "startMs": 1434300,
+      "endMs": 1444460,
+      "en": "That this is finally happening nearly 30 years after Tupac's killing, and he said that the justice I really want, I won't get, because he said, \"I want my brother back.\"",
+      "zh": "这场审判终于在图派克遇害近 30 年后开始了。他说：“我真正想要的正义，我得不到，因为我想要的是我的兄弟回来。”"
+    },
+    {
+      "id": 224,
+      "startMs": 1444540,
+      "endMs": 1446220,
+      "en": "I want more time with Tupac.",
+      "zh": "我想和图派克多相处一些时间。"
+    },
+    {
+      "id": 225,
+      "startMs": 1446620,
+      "endMs": 1458860,
+      "en": "Shaimaa Khalil, the BBC has learned that a new German law to crack down on illegal crossings from mainland Europe to the UK has been used in police raids for the first time.",
+      "zh": "沙伊玛·哈利勒报道，BBC 获悉，德国一项打击从欧洲大陆非法前往英国的越境活动的新法律，首次被用于警方突袭。"
+    },
+    {
+      "id": 226,
+      "startMs": 1459420,
+      "endMs": 1469500,
+      "en": "We've been granted special access to see the equipment that was seized following an operation a few months ago involving British, German, and French officials.",
+      "zh": "我们获准特别查看几个月前一次行动中缴获的设备；那次行动有英国、德国和法国官员参与。"
+    },
+    {
+      "id": 227,
+      "startMs": 1469820,
+      "endMs": 1471580,
+      "en": "Jessica Parker reports.",
+      "zh": "杰西卡·帕克报道。"
+    },
+    {
+      "id": 228,
+      "startMs": 1475860,
+      "endMs": 1477860,
+      "en": "We're on the road to West Germany.",
+      "zh": "我们正在前往德国西部的路上。"
+    },
+    {
+      "id": 229,
+      "startMs": 1477860,
+      "endMs": 1488660,
+      "en": "The police have asked us to keep the location a secret, but we're going to get a rare glimpse into their work in efforts to crack down on small boat crossings to the UK.",
+      "zh": "警方要求我们对地点保密，但我们将难得一窥他们为打击乘小船前往英国的越境活动所做的工作。"
+    },
+    {
+      "id": 230,
+      "startMs": 1489060,
+      "endMs": 1497540,
+      "en": "Gangs use West Germany as a hub for storing small boats equipment before it's then rushed to the coast of northern France.",
+      "zh": "帮派把德国西部作为储存小船设备的枢纽，然后将设备迅速运往法国北部海岸。"
+    },
+    {
+      "id": 231,
+      "startMs": 1499720,
+      "endMs": 1501720,
+      "en": "Big heavy metal doors, and in we go.",
+      "zh": "巨大的厚重金属门，我们进去了。"
+    },
+    {
+      "id": 232,
+      "startMs": 1503400,
+      "endMs": 1504840,
+      "en": "Oh, wow, this place is huge.",
+      "zh": "哦，天哪，这地方真大。"
+    },
+    {
+      "id": 233,
+      "startMs": 1505320,
+      "endMs": 1513080,
+      "en": "I'm in a big brick-walled warehouse, and I'm looking at stacks and stacks of packaged-up life jackets.",
+      "zh": "我在一座砖墙大仓库里，眼前是一摞又一摞包装好的救生衣。"
+    },
+    {
+      "id": 234,
+      "startMs": 1513620,
+      "endMs": 1514340,
+      "en": "There's loads of them.",
+      "zh": "数量非常多。"
+    },
+    {
+      "id": 235,
+      "startMs": 1515460,
+      "endMs": 1517940,
+      "en": "They say they took more than 9,000 during this raid.",
+      "zh": "他们说，这次突袭缴获了 9,000 多件。"
+    },
+    {
+      "id": 236,
+      "startMs": 1518900,
+      "endMs": 1527060,
+      "en": "This equipment was seized during spring raids that used a new law in Germany for the first time, and we're seeing the results.",
+      "zh": "这些设备是在春季突袭中缴获的；德国首次运用了新法律，我们现在看到的就是行动结果。"
+    },
+    {
+      "id": 237,
+      "startMs": 1528660,
+      "endMs": 1535780,
+      "en": "And I've come over to more cardboard boxes, and inside those are deflated dinghies.",
+      "zh": "我又走到一些纸箱旁边，里面是放了气的橡皮艇。"
+    },
+    {
+      "id": 238,
+      "startMs": 1536860,
+      "endMs": 1546380,
+      "en": "Also on the programme, a BBC investigation finds evidence that people traffickers are storing small boats in Germany before migrants use them to try and cross the Channel.",
+      "zh": "节目还将播出：BBC 的一项调查发现，人口贩运者把小船藏在德国，随后移民利用这些船只尝试穿越英吉利海峡。"
+    },
+    {
+      "id": 239,
+      "startMs": 1546380,
+      "endMs": 1554220,
+      "en": "Two years ago, our BBC investigation exposed West Germany's role as a staging post in the small boats supply chain.",
+      "zh": "两年前，BBC 的调查揭露了德国西部在小船供应链中充当中转站的角色。"
+    },
+    {
+      "id": 240,
+      "startMs": 1554380,
+      "endMs": 1555900,
+      "en": "Our reporter went undercover.",
+      "zh": "我们的记者进行了卧底调查。"
+    },
+    {
+      "id": 241,
+      "startMs": 1556540,
+      "endMs": 1558540,
+      "en": "They tell me the equipment comes from Turkey.",
+      "zh": "他们告诉我，这些设备来自土耳其。"
+    },
+    {
+      "id": 242,
+      "startMs": 1558780,
+      "endMs": 1561020,
+      "en": "They have about ten warehouses around Essen.",
+      "zh": "他们在埃森附近有大约十个仓库。"
+    },
+    {
+      "id": 243,
+      "startMs": 1561260,
+      "endMs": 1568380,
+      "en": "Germany then agreed to change the law, specifically criminalising the facilitation of people smuggling to the UK,",
+      "zh": "随后，德国同意修改法律，具体将协助人口走私前往英国定为犯罪，"
+    },
+    {
+      "id": 244,
+      "startMs": 1568780,
+      "endMs": 1574540,
+      "en": "because certain anti-smuggling laws had stopped applying to Britain after Brexit.",
+      "zh": "因为脱欧后，某些反走私法律已不再适用于英国。"
+    },
+    {
+      "id": 245,
+      "startMs": 1574780,
+      "endMs": 1582380,
+      "en": "To remedy this, the United Kingdom was added again to the list of countries which the code applies to.",
+      "zh": "为弥补这一点，英国再次被列入该法适用的国家名单。"
+    },
+    {
+      "id": 246,
+      "startMs": 1582540,
+      "endMs": 1585820,
+      "en": "Bernhard Schmeizel is a specialist in UK-German law.",
+      "zh": "伯恩哈德·施迈策尔是英德法律专家。"
+    },
+    {
+      "id": 247,
+      "startMs": 1586060,
+      "endMs": 1592940,
+      "en": "So now it is the same situation as it was before Brexit, but the UK is explicitly mentioned.",
+      "zh": "所以现在的情况与脱欧前相同，只是明确提到了英国。"
+    },
+    {
+      "id": 248,
+      "startMs": 1593180,
+      "endMs": 1600720,
+      "en": "Do you think it's really a priority for German police to prosecute these kinds of cases?",
+      "zh": "你认为德国警方真的会优先起诉这类案件吗？"
+    },
+    {
+      "id": 249,
+      "startMs": 1600880,
+      "endMs": 1608880,
+      "en": "They all are understaffed, and they may focus on what they see more purely domestic matters.",
+      "zh": "他们都人手不足，可能会把重点放在他们认为更纯粹的国内事务上。"
+    },
+    {
+      "id": 250,
+      "startMs": 1608960,
+      "endMs": 1612400,
+      "en": "But technically they have to go after this.",
+      "zh": "但从法律上说，他们必须追查此事。"
+    },
+    {
+      "id": 251,
+      "startMs": 1612400,
+      "endMs": 1623920,
+      "en": "So if they are being notified about such suspicious activity, they will have to investigate, and then they will eventually have to punish those people.",
+      "zh": "所以，如果有人向他们通报此类可疑活动，他们就必须调查，最终还得惩处那些人。"
+    },
+    {
+      "id": 252,
+      "startMs": 1625420,
+      "endMs": 1629340,
+      "en": "One law change agreed here in Berlin isn't going to be a silver bullet.",
+      "zh": "在柏林达成的一项法律修改不会成为包治百病的良方。"
+    },
+    {
+      "id": 253,
+      "startMs": 1629500,
+      "endMs": 1636700,
+      "en": "But migrant and enforcement sources say tougher policing in Europe is helping to disrupt supply chains,",
+      "zh": "但移民问题和执法部门的消息人士称，欧洲加强执法正有助于打乱这条供应链，"
+    },
+    {
+      "id": 254,
+      "startMs": 1637100,
+      "endMs": 1642540,
+      "en": "possibly a factor driving some smugglers to put more people onto bigger boats.",
+      "zh": "这可能促使一些走私者把更多人装上更大的船。"
+    },
+    {
+      "id": 255,
+      "startMs": 1642860,
+      "endMs": 1650460,
+      "en": "Because these gangs don't just abandon their money-making schemes, rather they evade and they adapt.",
+      "zh": "因为这些团伙不会就此放弃赚钱的计划，而是会躲避追查并调整做法。"
+    },
+    {
+      "id": 256,
+      "startMs": 1652080,
+      "endMs": 1654160,
+      "en": "That report by Jessica Parker.",
+      "zh": "以上报道来自杰西卡·帕克。"
+    },
+    {
+      "id": 257,
+      "startMs": 1655120,
+      "endMs": 1660400,
+      "en": "The European Athletics Championships came to a close on Sunday night in the English city of Birmingham,",
+      "zh": "欧洲田径锦标赛周日晚在英国城市伯明翰落幕，"
+    },
+    {
+      "id": 258,
+      "startMs": 1660800,
+      "endMs": 1666640,
+      "en": "where Italy finished at the top of the medal table, edging the hosts, Great Britain, into second place.",
+      "zh": "意大利位列奖牌榜首位，将东道主英国挤到第二名。"
+    },
+    {
+      "id": 259,
+      "startMs": 1667200,
+      "endMs": 1673120,
+      "en": "Among the athletes who clinched gold for Italy was Larissa Iapichino in the long jump.",
+      "zh": "为意大利夺得金牌的运动员中，有跳远选手拉里萨·亚皮奇诺。"
+    },
+    {
+      "id": 260,
+      "startMs": 1673360,
+      "endMs": 1683200,
+      "en": "But her success and that of other Italian athletes of colour has reignited a wider discussion about race and what it means to be Italian.",
+      "zh": "但她以及其他有色意大利运动员的成功，再次引发了关于种族和意大利人身份含义的更广泛讨论。"
+    },
+    {
+      "id": 261,
+      "startMs": 1683600,
+      "endMs": 1688160,
+      "en": "Our reporter Carla Conti told us more about what sparked this debate.",
+      "zh": "我们的记者卡拉·孔蒂将进一步介绍这场争论的起因。"
+    },
+    {
+      "id": 262,
+      "startMs": 1688480,
+      "endMs": 1697280,
+      "en": "So, one of the driving forces behind these discussions online has been comments made by the former army general and far-right politician, Roberto Vannacci.",
+      "zh": "这些网络讨论的一个推动因素，是前陆军将军、极右翼政治人物罗伯托·万纳奇发表的言论。"
+    },
+    {
+      "id": 263,
+      "startMs": 1697680,
+      "endMs": 1702080,
+      "en": "Mr. Vannacci rose to public notice after he published a highly controversial book,",
+      "zh": "万纳奇出版了一本极具争议的书，之后受到公众关注，"
+    },
+    {
+      "id": 264,
+      "startMs": 1702160,
+      "endMs": 1707920,
+      "en": "titled \"The World Upside Down\", where he made comments regarding the volleyball player Paola Egonu,",
+      "zh": "这本书名为《颠倒的世界》，他在书中谈到了排球运动员保拉·埃格努，"
+    },
+    {
+      "id": 265,
+      "startMs": 1708320,
+      "endMs": 1716820,
+      "en": "writing that although she is an Italian citizen, it is evident that her physical features do not represent Italianness, as he put it in his book,",
+      "zh": "他写道，尽管她是意大利公民，但显然她的外貌并不代表“意大利性”，这是他在书中的说法；"
+    },
+    {
+      "id": 266,
+      "startMs": 1717380,
+      "endMs": 1722340,
+      "en": "many online have echoed the sentiment by directing racist abuse towards Black athletes.",
+      "zh": "许多网民通过对黑人运动员进行种族主义辱骂，呼应了这种观点。"
+    },
+    {
+      "id": 267,
+      "startMs": 1722660,
+      "endMs": 1726820,
+      "en": "But after the recent Italian success at the European Athletics Championship,",
+      "zh": "但在意大利运动员最近于欧洲田径锦标赛上取得成功后，"
+    },
+    {
+      "id": 268,
+      "startMs": 1727140,
+      "endMs": 1734020,
+      "en": "many were also joking that Mr. Vannacci had gone quiet as athletes of colour helped Italy reach that top spot.",
+      "zh": "许多人也开玩笑说，随着有色运动员帮助意大利登上榜首，万纳奇已经安静了下来。"
+    },
+    {
+      "id": 269,
+      "startMs": 1734340,
+      "endMs": 1740340,
+      "en": "And just a few days earlier, the 19-year-old Sara Curtis, whose mother is Nigerian and father Italian,",
+      "zh": "就在几天前，19岁的萨拉·柯蒂斯的母亲是尼日利亚人，父亲是意大利人，"
+    },
+    {
+      "id": 270,
+      "startMs": 1740660,
+      "endMs": 1746740,
+      "en": "set a new world record for the 50m backstroke at the European Swimming Championships in Paris.",
+      "zh": "她在巴黎举行的欧洲游泳锦标赛上，以50米仰泳创造了新的世界纪录。"
+    },
+    {
+      "id": 271,
+      "startMs": 1747300,
+      "endMs": 1754340,
+      "en": "And the Prime Minister, Giorgia Meloni, publicly hailed the two athletes as an example of the Italy that knows how to win, as she put it.",
+      "zh": "总理焦尔贾·梅洛尼公开称赞这两名运动员，称她们体现了一个懂得如何取胜的意大利。"
+    },
+    {
+      "id": 272,
+      "startMs": 1754660,
+      "endMs": 1763780,
+      "en": "So, her enthusiastic support was widely noted, especially as it directly contrasts with the silence of far-right figures like Roberto Vannacci.",
+      "zh": "因此，她的热情支持受到广泛关注，尤其是因为这直接对比出罗伯托·万纳奇等极右翼人物的沉默。"
+    },
+    {
+      "id": 273,
+      "startMs": 1764180,
+      "endMs": 1770740,
+      "en": "And Carla, how does this debate feed into the wider political rivalry between Mr. Vannacci and Ms. Meloni?",
+      "zh": "卡拉，那么这场争论如何影响万纳奇先生与梅洛尼女士之间更广泛的政治竞争？"
+    },
+    {
+      "id": 274,
+      "startMs": 1771140,
+      "endMs": 1780440,
+      "en": "So, since establishing his own political party, Futuro Nazionale, or National Future, Mr. Vannacci has sought to position himself as a rival to Giorgia Meloni,",
+      "zh": "自成立自己的政党“未来民族党”（即“国家未来党”）以来，万纳奇一直试图将自己定位为焦尔贾·梅洛尼的竞争对手，"
+    },
+    {
+      "id": 275,
+      "startMs": 1780440,
+      "endMs": 1788760,
+      "en": "championing an even stricter stance on migration and calling for a return to a concept which he has described as the \"Mediterranean patriarchy\".",
+      "zh": "他主张采取更严格的移民立场，并呼吁回归他所称的“地中海父权制”。"
+    },
+    {
+      "id": 276,
+      "startMs": 1789080,
+      "endMs": 1797800,
+      "en": "He says that in his ideal Italy, there must be room for, quote, \"strong men who are able to control their emotions and passions and protect women\".",
+      "zh": "他说，在他理想中的意大利，必须有空间容纳——引述原话——“能够控制情绪和欲望、保护女性的强壮男人”。"
+    },
+    {
+      "id": 277,
+      "startMs": 1798360,
+      "endMs": 1806520,
+      "en": "And now his party is polling at around 7%, which potentially complicates Giorgia Meloni's path towards re-election next year.",
+      "zh": "如今，他的政党民调支持率约为7%，这可能让焦尔贾·梅洛尼明年的连任之路更加复杂。"
+    },
+    {
+      "id": 278,
+      "startMs": 1807000,
+      "endMs": 1810600,
+      "en": "And there are signs that that competition will play out over migration.",
+      "zh": "有迹象表明，这场竞争将围绕移民问题展开。"
+    },
+    {
+      "id": 279,
+      "startMs": 1810920,
+      "endMs": 1819080,
+      "en": "As I said, Mr. Vannacci has gone further than Ms. Meloni in that regard by advocating for the removal of migrants and their descendants from Italy,",
+      "zh": "正如我所说，在这方面，万纳奇比梅洛尼走得更远，主张将移民及其后代移出意大利，"
+    },
+    {
+      "id": 280,
+      "startMs": 1819080,
+      "endMs": 1820920,
+      "en": "a concept also known as remigration.",
+      "zh": "这一概念也被称为“再移民”。"
+    },
+    {
+      "id": 281,
+      "startMs": 1821400,
+      "endMs": 1830120,
+      "en": "And for her part, Ms. Meloni has taken an increasingly confrontational position, most recently by imposing controls on travelers from Spain,",
+      "zh": "至于梅洛尼女士，她的立场越来越具有对抗性；最近，她对来自西班牙的旅行者实施了管控，"
+    },
+    {
+      "id": 282,
+      "startMs": 1830360,
+      "endMs": 1833180,
+      "en": "following the mass migrant crossings into Ceuta.",
+      "zh": "此前有大量移民涌入休达。"
+    },
+    {
+      "id": 283,
+      "startMs": 1833580,
+      "endMs": 1841660,
+      "en": "So, while this latest debate began in the world of sports, it also taps into a much bigger political argument about who gets to define",
+      "zh": "所以，尽管这场最新争论始于体育界，但它也触及一场更大的政治争论：谁有权定义，"
+    },
+    {
+      "id": 284,
+      "startMs": 1841660,
+      "endMs": 1848860,
+      "en": "what it means to be Italian, and which vision of the Italian right will prevail ahead of the 2027 general election.",
+      "zh": "“意大利人”意味着什么，以及在2027年大选前，意大利右翼的哪种愿景将胜出。"
+    },
+    {
+      "id": 285,
+      "startMs": 1849560,
+      "endMs": 1855160,
+      "en": "Carla Conti, and that's all from us for now.",
+      "zh": "卡拉·孔蒂报道。以上就是我们目前的全部内容。"
+    },
+    {
+      "id": 286,
+      "startMs": 1855240,
+      "endMs": 1861800,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 287,
+      "startMs": 1862280,
+      "endMs": 1865640,
+      "en": "This edition of the Global News Podcast was mixed by Javed Jalani.",
+      "zh": "本期《全球新闻播客》由贾维德·贾拉尼负责混音。"
+    },
+    {
+      "id": 288,
+      "startMs": 1865960,
+      "endMs": 1867560,
+      "en": "The producer was Emma Joseph.",
+      "zh": "制片人是艾玛·约瑟夫。"
+    },
+    {
+      "id": 289,
+      "startMs": 1867880,
+      "endMs": 1869560,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 290,
+      "startMs": 1869800,
+      "endMs": 1870680,
+      "en": "I am Jannat Jalil.",
+      "zh": "我是贾娜特·贾利勒。"
+    },
+    {
+      "id": 291,
+      "startMs": 1870840,
+      "endMs": 1872280,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
