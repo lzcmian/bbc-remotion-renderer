@@ -1,0 +1,2118 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "19 August 2026"
+  },
+  "durationMs": 1864440,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3040,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4620,
+      "endMs": 10700,
+      "en": "I'm Celia Hatton, and at 14 hours GMT on Wednesday, the 19th of August, these are our main stories:",
+      "zh": "我是西莉娅·哈顿。现在是 8 月 19 日星期三格林尼治标准时间 14 点，以下是本期主要新闻："
+    },
+    {
+      "id": 3,
+      "startMs": 11260,
+      "endMs": 19420,
+      "en": "Ukrainian politics in turmoil as a senior member of President Zelensky's team is sacked, and the former defense minister calls for wartime elections.",
+      "zh": "乌克兰政局陷入动荡：泽连斯基总统团队的一名高级成员被解职，前国防部长呼吁举行战时选举。"
+    },
+    {
+      "id": 4,
+      "startMs": 19980,
+      "endMs": 29900,
+      "en": "Israel opens up bids to build new housing in the occupied West Bank, and joint US-South Korean military exercises are cut short six days earlier than planned.",
+      "zh": "以色列开始为在被占领约旦河西岸修建新住房招标；美国与韩国的联合军事演习也比原计划提前六天结束。"
+    },
+    {
+      "id": 5,
+      "startMs": 32140,
+      "endMs": 39980,
+      "en": "Also in this podcast, scientists say they're stunned by how quickly children's lungs can recover in the wake of pollution restrictions.",
+      "zh": "本期节目还将报道：科学家表示，限制污染后，儿童肺部恢复的速度之快令他们震惊。"
+    },
+    {
+      "id": 6,
+      "startMs": 40220,
+      "endMs": 44780,
+      "en": "And one of our gardeners, he stood on it and he's 102 kilos, which is considerable.",
+      "zh": "我们的一名园丁站了上去，他体重 102 公斤，这相当可观。"
+    },
+    {
+      "id": 7,
+      "startMs": 44780,
+      "endMs": 50540,
+      "en": "I mean, if you imagine most leaves certainly couldn't take 83 kilos, and this year we've managed to go with 102 kilos.",
+      "zh": "你想想看，大多数叶子肯定承受不了 83 公斤，而今年我们成功达到了 102 公斤。"
+    },
+    {
+      "id": 8,
+      "startMs": 50860,
+      "endMs": 55500,
+      "en": "A special global competition to find the world's strongest giant water lily.",
+      "zh": "一场寻找世界上承重能力最强巨型睡莲的特别全球比赛。"
+    },
+    {
+      "id": 9,
+      "startMs": 59020,
+      "endMs": 66460,
+      "en": "We'll start in Ukraine. We often talk about Russia's war on that country, but today a lot is going on with Ukrainian domestic politics.",
+      "zh": "我们先从乌克兰开始。我们经常谈论俄罗斯对这个国家发动的战争，但今天乌克兰国内政坛也发生了许多事情。"
+    },
+    {
+      "id": 10,
+      "startMs": 66860,
+      "endMs": 73980,
+      "en": "In the last few hours, Ukraine's president Volodymyr Zelensky has dismissed a deputy head of the presidential office, Iryna Mudra.",
+      "zh": "过去几小时内，乌克兰总统弗拉基米尔·泽连斯基解除了总统办公室副主任伊琳娜·穆德拉的职务。"
+    },
+    {
+      "id": 11,
+      "startMs": 74460,
+      "endMs": 83580,
+      "en": "No reason was given for sacking her, though that change comes shortly after anti-corruption agencies said she'd been linked to a group accused of money laundering.",
+      "zh": "解职没有给出理由，但这一变动发生在反腐机构称她与一个被指控洗钱的团体有关之后不久。"
+    },
+    {
+      "id": 12,
+      "startMs": 84140,
+      "endMs": 91180,
+      "en": "Those same agencies have been carrying out raids today targeting current and former lawmakers and top government officials.",
+      "zh": "同一批机构今天一直在展开突袭行动，目标是现任和前任议员以及政府高官。"
+    },
+    {
+      "id": 13,
+      "startMs": 91660,
+      "endMs": 102060,
+      "en": "That's all unfolding not long after Ukraine's former defense minister Mykhailo Fedorov called for wartime elections, which are prohibited under the constitution.",
+      "zh": "这些事发生在乌克兰前国防部长米哈伊洛·费多罗夫呼吁举行战时选举后不久，而宪法禁止举行战时选举。"
+    },
+    {
+      "id": 14,
+      "startMs": 102780,
+      "endMs": 107580,
+      "en": "In a video posted online, he said Ukraine was facing a crisis of governance and corruption.",
+      "zh": "他在网上发布的一段视频中说，乌克兰正面临治理和腐败危机。"
+    },
+    {
+      "id": 15,
+      "startMs": 107980,
+      "endMs": 117180,
+      "en": "We must answer a fundamental question: how should the state function if the war lasts for years?",
+      "zh": "我们必须回答一个根本问题：如果战争持续多年，国家应如何运转？"
+    },
+    {
+      "id": 16,
+      "startMs": 117580,
+      "endMs": 124640,
+      "en": "Can Russia, in effect, gain the right to decide when Ukrainians will again be able to elect their authorities? I am convinced that it cannot.",
+      "zh": "俄罗斯实际上能否获得决定乌克兰人何时再次选举当局的权力？我确信它不能。"
+    },
+    {
+      "id": 17,
+      "startMs": 124640,
+      "endMs": 134560,
+      "en": "Mr. Fedorov was a popular defense minister. His abrupt sacking in late July led to mass protests.",
+      "zh": "费多罗夫曾是一位受欢迎的国防部长。他在七月底突然被解职，引发了大规模抗议。"
+    },
+    {
+      "id": 18,
+      "startMs": 135040,
+      "endMs": 144640,
+      "en": "Many credited him with overhauling Ukraine's armed forces, tackling corruption, and using data and advanced technology to improve Ukraine's standing in the war.",
+      "zh": "许多人认为，他重整了乌克兰武装部队、打击了腐败，并运用数据和先进技术提升乌克兰在战争中的地位。"
+    },
+    {
+      "id": 19,
+      "startMs": 145200,
+      "endMs": 152640,
+      "en": "Ukraine hasn't had an election in a while. President Zelensky's five-year term as president was due to end in May 2024.",
+      "zh": "乌克兰已经有一段时间没有举行选举。泽连斯基总统的五年总统任期原定于 2024 年 5 月结束。"
+    },
+    {
+      "id": 20,
+      "startMs": 152880,
+      "endMs": 162160,
+      "en": "However, elections have been suspended in Ukraine while the country's under martial law in place since Russia's full-scale invasion in February 2022.",
+      "zh": "不过，自俄罗斯于 2022 年 2 月全面入侵以来，乌克兰一直处于戒严状态，选举也因此暂停。"
+    },
+    {
+      "id": 21,
+      "startMs": 162640,
+      "endMs": 172720,
+      "en": "I asked our Ukraine analyst from BBC Monitoring, Vitaliy Shevchenko, about the significance of this latest dismissal within the president's office and the corruption rates.",
+      "zh": "我就总统办公室最近这次解职以及腐败程度的意义，询问了 BBC 监测部的乌克兰分析师维塔利·舍甫琴科。"
+    },
+    {
+      "id": 22,
+      "startMs": 173360,
+      "endMs": 180420,
+      "en": "As our listeners will know, Celia, Ukraine has been battling corruption for a long time,",
+      "zh": "正如听众所知，西莉娅，乌克兰长期以来一直在与腐败作斗争，"
+    },
+    {
+      "id": 23,
+      "startMs": 180500,
+      "endMs": 192020,
+      "en": "And for many people, the success of this battle determines Ukraine's success in another battlefield in its war against Russia.",
+      "zh": "对许多人来说，这场斗争的成败决定着乌克兰在对俄战争另一战场上的成败。"
+    },
+    {
+      "id": 24,
+      "startMs": 192500,
+      "endMs": 201780,
+      "en": "So, today, two of Ukraine's key anti-corruption agencies published what they said were excerpts",
+      "zh": "所以，今天，乌克兰两个主要反腐机构公布了他们所称的谈话节选，"
+    },
+    {
+      "id": 25,
+      "startMs": 201940,
+      "endMs": 207860,
+      "en": "Of intercepted conversations between members of what they call a criminal group.",
+      "zh": "内容来自他们所称的犯罪团体成员之间被截获的谈话。"
+    },
+    {
+      "id": 26,
+      "startMs": 208100,
+      "endMs": 213140,
+      "en": "Discussing ways of, you know, laundering money to pay bribes.",
+      "zh": "内容涉及如何洗钱行贿。"
+    },
+    {
+      "id": 27,
+      "startMs": 213220,
+      "endMs": 222580,
+      "en": "And they said that this group includes former and current members of parliament and also an official from the president's office.",
+      "zh": "他们还说，这个团体包括现任和前任议员，以及总统办公室的一名官员。"
+    },
+    {
+      "id": 28,
+      "startMs": 222980,
+      "endMs": 229300,
+      "en": "So, on the one hand, it's a setback or an inconvenience at the very least for President Zelensky,",
+      "zh": "所以，一方面，这至少对泽连斯基总统来说是一次挫折或不便，"
+    },
+    {
+      "id": 29,
+      "startMs": 229780,
+      "endMs": 237780,
+      "en": "But on the other hand, it shows that under his leadership, Ukraine is doing something to combat corruption.",
+      "zh": "但另一方面，这也表明在他的领导下，乌克兰正在采取行动打击腐败。"
+    },
+    {
+      "id": 30,
+      "startMs": 238340,
+      "endMs": 248200,
+      "en": "That's interesting. It's all going on as we've also had this call from Mykhailo Fedorov, the former defense minister, calling for fresh elections.",
+      "zh": "这很有意思。所有这些事情发生的同时，我们还听到了前国防部长米哈伊洛·费多罗夫呼吁举行新选举的声音。"
+    },
+    {
+      "id": 31,
+      "startMs": 248200,
+      "endMs": 253480,
+      "en": "What more can you tell us about him and also that call for new elections?",
+      "zh": "关于他以及他呼吁举行新选举一事，你还能告诉我们什么？"
+    },
+    {
+      "id": 32,
+      "startMs": 254480,
+      "endMs": 264480,
+      "en": "He is popular at the moment. I've had a look at opinion surveys in Ukraine, and at the moment he is Ukraine's third most popular figure.",
+      "zh": "他目前很受欢迎。我看过乌克兰的民调，目前他是乌克兰第三受欢迎的人物。"
+    },
+    {
+      "id": 33,
+      "startMs": 265120,
+      "endMs": 277200,
+      "en": "But that does not seem to be enough for Mykhailo Fedorov to force Volodymyr Zelensky's hand on any of the issues that he wants resolved,",
+      "zh": "但这似乎还不足以让米哈伊洛·费多罗夫迫使弗拉基米尔·泽连斯基在他希望解决的问题上作出让步，"
+    },
+    {
+      "id": 34,
+      "startMs": 277200,
+      "endMs": 281760,
+      "en": "Such as holding an election, despite what Ukrainian law says.",
+      "zh": "例如举行选举，尽管乌克兰法律对此另有规定。"
+    },
+    {
+      "id": 35,
+      "startMs": 281760,
+      "endMs": 285920,
+      "en": "And it says that as long as there's martial law, you can't hold elections.",
+      "zh": "法律规定，只要处于戒严状态，就不能举行选举。"
+    },
+    {
+      "id": 36,
+      "startMs": 286480,
+      "endMs": 292640,
+      "en": "Mykhailo Fedorov just does not have the political clout to achieve that.",
+      "zh": "米哈伊洛·费多罗夫就是没有足够的政治影响力来实现这一点。"
+    },
+    {
+      "id": 37,
+      "startMs": 293200,
+      "endMs": 302320,
+      "en": "Even though he's shot up in popularity, he is still lagging behind Volodymyr Zelensky, and his supporters—Mykhailo Fedorov's supporters—",
+      "zh": "尽管他的支持率大幅上升，但他仍落后于弗拉基米尔·泽连斯基；他的支持者——米哈伊洛·费多罗夫的支持者——"
+    },
+    {
+      "id": 38,
+      "startMs": 303020,
+      "endMs": 307180,
+      "en": "are still rallying in Kyiv and in other parts of Ukraine,",
+      "zh": "仍在基辅和乌克兰其他地区集会，"
+    },
+    {
+      "id": 39,
+      "startMs": 307500,
+      "endMs": 314700,
+      "en": "but the scale at the moment, Celia, it's nowhere near enough to pose a challenge to Volodymyr Zelensky.",
+      "zh": "但目前的规模，西莉亚，远远不足以对弗拉基米尔·泽连斯基构成挑战。"
+    },
+    {
+      "id": 40,
+      "startMs": 314700,
+      "endMs": 319820,
+      "en": "And also, Mykhailo Fedorov seems to be an outlier in this respect.",
+      "zh": "而且，在这方面，米哈伊洛·费多罗夫似乎是个例外。"
+    },
+    {
+      "id": 41,
+      "startMs": 320060,
+      "endMs": 328460,
+      "en": "No other prominent figure in Ukraine or an opponent of Volodymyr Zelensky is calling for fresh elections.",
+      "zh": "乌克兰没有其他知名人物或弗拉基米尔·泽连斯基的反对者呼吁举行新的选举。"
+    },
+    {
+      "id": 42,
+      "startMs": 328780,
+      "endMs": 337340,
+      "en": "Even Mykhailo Fedorov's supporters, they are demanding his reinstatement, not Zelensky's ouster or an election.",
+      "zh": "即使是米哈伊洛·费多罗夫的支持者，他们要求的也是恢复他的职务，而不是赶走泽连斯基或举行选举。"
+    },
+    {
+      "id": 43,
+      "startMs": 337740,
+      "endMs": 346060,
+      "en": "So my prediction, if I were to go out on a limb, is that that ship has sailed and it is going to blow over.",
+      "zh": "所以，如果要冒险作个预测，我认为时机已经错过，这件事会逐渐平息。"
+    },
+    {
+      "id": 44,
+      "startMs": 346620,
+      "endMs": 351020,
+      "en": "Next to the Middle East, and in particular, what's going on in the occupied West Bank.",
+      "zh": "下面转到中东，特别是被占领的约旦河西岸正在发生的事情。"
+    },
+    {
+      "id": 45,
+      "startMs": 351500,
+      "endMs": 357820,
+      "en": "Almost half a million Israelis live there, and all Israeli settlements there are considered illegal under international law.",
+      "zh": "那里居住着近五十万以色列人，而那里的所有以色列定居点都被认为违反国际法。"
+    },
+    {
+      "id": 46,
+      "startMs": 358300,
+      "endMs": 364560,
+      "en": "And now, Israel has just opened up bids for the construction of more than a thousand new homes east of Jerusalem.",
+      "zh": "现在，以色列刚刚为耶路撒冷以东一千多套新住房的建设开放投标。"
+    },
+    {
+      "id": 47,
+      "startMs": 365120,
+      "endMs": 367520,
+      "en": "Yolande Knell is our correspondent in Jerusalem.",
+      "zh": "约兰德·奈尔是我们驻耶路撒冷记者。"
+    },
+    {
+      "id": 48,
+      "startMs": 367920,
+      "endMs": 380800,
+      "en": "So, this is an area that is called E1. It's just to the east of occupied East Jerusalem and close to another large Israeli settlement in the West Bank, called Ma'ale Adumim.",
+      "zh": "这里是一个名为 E1 的地区，就在被占领的东耶路撒冷以东，靠近约旦河西岸另一个大型以色列定居点马阿勒阿杜明。"
+    },
+    {
+      "id": 49,
+      "startMs": 381200,
+      "endMs": 386400,
+      "en": "And the reason this is so important for Palestinians, why the international community has really, for years,",
+      "zh": "这对巴勒斯坦人如此重要，也是国际社会多年来，"
+    },
+    {
+      "id": 50,
+      "startMs": 386640,
+      "endMs": 396800,
+      "en": "You know, tried to get Israel to keep any plans to develop there on hold, is because it really disrupts the contiguity of the West Bank.",
+      "zh": "你知道，一直努力要求以色列搁置在那里开发的任何计划，因为这确实会破坏约旦河西岸的连续性。"
+    },
+    {
+      "id": 51,
+      "startMs": 396880,
+      "endMs": 406240,
+      "en": "It makes a kind of large Israeli development between Ramallah and Bethlehem, and it sort of bisects the West Bank.",
+      "zh": "这会在拉姆安拉和伯利恒之间形成一大片以色列开发区，某种程度上把约旦河西岸一分为二。"
+    },
+    {
+      "id": 52,
+      "startMs": 406560,
+      "endMs": 412400,
+      "en": "So that is why, really, for about three decades, Israel has shelved plans to develop there.",
+      "zh": "所以，这就是以色列三十年来一直搁置在那里开发计划的真正原因。"
+    },
+    {
+      "id": 53,
+      "startMs": 412560,
+      "endMs": 422960,
+      "en": "That changed last year when the far-right finance minister Bezalel Smotrich, who also has responsibilities for setting Israeli government policy in the West Bank, he announced that",
+      "zh": "去年情况发生了变化。当时，极右翼财政部长贝扎莱尔·斯莫特里奇也负责制定以色列政府在约旦河西岸的政策，他宣布，"
+    },
+    {
+      "id": 54,
+      "startMs": 423380,
+      "endMs": 428900,
+      "en": "There would be three and a half thousand new settler homes that would be developed in that area,",
+      "zh": "该地区将建设三千五百套新的定居者住房，"
+    },
+    {
+      "id": 55,
+      "startMs": 428980,
+      "endMs": 435860,
+      "en": "And he said he was acting in response to various countries, including the UK, recognizing a state of Palestine.",
+      "zh": "他说，他这样做是为了回应包括英国在内的多个国家承认巴勒斯坦国。"
+    },
+    {
+      "id": 56,
+      "startMs": 436260,
+      "endMs": 444500,
+      "en": "Now, what has happened since then is that there have been attempts by Palestinian Bedouin residents of that so-called E1 corridor",
+      "zh": "自那以后，所谓 E1 走廊的巴勒斯坦贝都因居民一直在努力，"
+    },
+    {
+      "id": 57,
+      "startMs": 444820,
+      "endMs": 450020,
+      "en": "And Israeli NGOs, including Peace Now, NGOs against occupation,",
+      "zh": "以及包括“现在就和平”在内的反占领以色列非政府组织，"
+    },
+    {
+      "id": 58,
+      "startMs": 450340,
+      "endMs": 458340,
+      "en": "really to try to stop or delay the implementation of this, the opening of construction tenders, which, of course, is the big step.",
+      "zh": "它们确实试图阻止或推迟这项计划的实施，也就是开放建设招标——这当然是关键一步。"
+    },
+    {
+      "id": 59,
+      "startMs": 458740,
+      "endMs": 468020,
+      "en": "But what's happened in the past day is that the government has put out, despite that active court process going on, tenders for half of the houses.",
+      "zh": "但过去一天发生的情况是，尽管相关诉讼仍在进行，政府还是为其中一半住房发布了招标。"
+    },
+    {
+      "id": 60,
+      "startMs": 468260,
+      "endMs": 471380,
+      "en": "Yolande, what's the significance of the timing of all of this?",
+      "zh": "约兰德，这一切发生在这个时间点有什么意义？"
+    },
+    {
+      "id": 61,
+      "startMs": 471380,
+      "endMs": 475220,
+      "en": "We have to note that Israel is planning to have elections in late October.",
+      "zh": "我们必须注意到，以色列计划在十月底举行选举。"
+    },
+    {
+      "id": 62,
+      "startMs": 476440,
+      "endMs": 483000,
+      "en": "That's right, and I think this government wants to do as much as possible to create what they call facts on the ground before those elections happen.",
+      "zh": "没错，我认为这个政府希望在选举前尽可能制造他们所谓的“既成事实”。"
+    },
+    {
+      "id": 63,
+      "startMs": 483000,
+      "endMs": 493320,
+      "en": "Because if you look at the polls at the moment, they indicate that the prime minister's Likud party and his coalition parties are not on track to keep power.",
+      "zh": "因为从目前的民调来看，结果显示总理所属的利库德集团及其联盟党派无望继续执政。"
+    },
+    {
+      "id": 64,
+      "startMs": 493960,
+      "endMs": 498440,
+      "en": "So they want to kind of, you know, protect what they would see as being their legacy.",
+      "zh": "所以，他们想要，怎么说呢，保护他们认为属于自己的政治遗产。"
+    },
+    {
+      "id": 65,
+      "startMs": 498680,
+      "endMs": 508200,
+      "en": "And this Israeli government has authorized 104 settlements in the past three and a half years, with all settlements being illegal under international law.",
+      "zh": "而在过去三年半里，这届以色列政府批准了 104 个定居点，所有定居点都被认为违反国际法。"
+    },
+    {
+      "id": 66,
+      "startMs": 508520,
+      "endMs": 511320,
+      "en": "There's been a surge in settler violence in the West Bank.",
+      "zh": "约旦河西岸的定居者暴力活动激增。"
+    },
+    {
+      "id": 67,
+      "startMs": 511320,
+      "endMs": 517240,
+      "en": "We saw that last week with a lot of focus on Qusra, this Palestinian village south of Nablus,",
+      "zh": "上周我们就看到了这一点，焦点集中在纳布卢斯以南的巴勒斯坦村庄古斯拉，"
+    },
+    {
+      "id": 68,
+      "startMs": 517560,
+      "endMs": 525160,
+      "en": "Where two Palestinian families have been besieged in their homes by a group of settlers, and that remains ongoing until now.",
+      "zh": "那里有两个巴勒斯坦家庭被一群定居者围困在家中，直到现在仍未结束。"
+    },
+    {
+      "id": 69,
+      "startMs": 525160,
+      "endMs": 529240,
+      "en": "Those families still are unable to move. They're trapped by the settlers there.",
+      "zh": "他们仍然无法离开，被定居者困在那里。"
+    },
+    {
+      "id": 70,
+      "startMs": 529400,
+      "endMs": 531320,
+      "en": "Yolande now speaking to me from Jerusalem.",
+      "zh": "约兰德从耶路撒冷向我报道。"
+    },
+    {
+      "id": 71,
+      "startMs": 532200,
+      "endMs": 535960,
+      "en": "Meanwhile, the conflict in Gaza has taken a huge toll on those inside the territory.",
+      "zh": "与此同时，加沙冲突给当地居民带来了巨大伤亡。"
+    },
+    {
+      "id": 72,
+      "startMs": 535980,
+      "endMs": 542540,
+      "en": "The territory's health ministry says more than 70,000 Gazans have died since the conflict began.",
+      "zh": "加沙地带卫生部称，冲突开始以来已有七万多名加沙人死亡。"
+    },
+    {
+      "id": 73,
+      "startMs": 543180,
+      "endMs": 550620,
+      "en": "More than 1,200 of those who died were killed in Israeli strikes in Gaza since a ceasefire was announced last October.",
+      "zh": "其中有一千二百多人是在去年十月宣布停火以来死于以色列对加沙的袭击。"
+    },
+    {
+      "id": 74,
+      "startMs": 551420,
+      "endMs": 557420,
+      "en": "Many others are still missing, presumed dead. Israel does not allow journalists free access to the territory.",
+      "zh": "还有许多人仍然失踪，被推定已经死亡。以色列不允许记者自由进入该地区。"
+    },
+    {
+      "id": 75,
+      "startMs": 557820,
+      "endMs": 561100,
+      "en": "Our correspondent John Donnison has this report from Jerusalem.",
+      "zh": "我们的记者约翰·多尼森从耶路撒冷发来报道。"
+    },
+    {
+      "id": 76,
+      "startMs": 563180,
+      "endMs": 573280,
+      "en": "In Gaza City earlier this month, a mass funeral for more than 100 people killed in an Israeli attack in 2023.",
+      "zh": "本月早些时候，加沙城举行了一场大型葬礼，悼念 2023 年以色列袭击中丧生的一百多人。"
+    },
+    {
+      "id": 77,
+      "startMs": 576060,
+      "endMs": 579500,
+      "en": "Their bodies were only recently recovered from under the rubble,",
+      "zh": "他们的遗体直到最近才从废墟下被找到，"
+    },
+    {
+      "id": 78,
+      "startMs": 581220,
+      "endMs": 585300,
+      "en": "And across the strip, there remain thousands who are still missing.",
+      "zh": "而在整个加沙地带，仍有数千人下落不明。"
+    },
+    {
+      "id": 79,
+      "startMs": 587340,
+      "endMs": 593500,
+      "en": "Ahmed al-Madhoun was 21 when he was last seen alive.",
+      "zh": "艾哈迈德·马杜恩最后一次被人看到还活着时年仅 21 岁。"
+    },
+    {
+      "id": 80,
+      "startMs": 595240,
+      "endMs": 601640,
+      "en": "The young man, who has Down syndrome, disappeared in May 2025 after popping to the shop.",
+      "zh": "这名患有唐氏综合征的年轻人于2025年5月出门去商店后失踪。"
+    },
+    {
+      "id": 81,
+      "startMs": 602280,
+      "endMs": 607880,
+      "en": "His family show us a video of him belly flopping into a swimming pool.",
+      "zh": "他的家人给我们看了一段他扑通跳进游泳池的视频。"
+    },
+    {
+      "id": 82,
+      "startMs": 610840,
+      "endMs": 614200,
+      "en": "They say he was loved by everyone and always joking around.",
+      "zh": "他们说，大家都喜欢他，他总是喜欢开玩笑。"
+    },
+    {
+      "id": 83,
+      "startMs": 615920,
+      "endMs": 619920,
+      "en": "For his mother, Majdia, it's the not knowing that's hardest.",
+      "zh": "对他的母亲Majdia来说，最难熬的就是不知道他的下落。"
+    },
+    {
+      "id": 84,
+      "startMs": 620600,
+      "endMs": 624600,
+      "en": "I haven't lost hope.",
+      "zh": "我没有失去希望。"
+    },
+    {
+      "id": 85,
+      "startMs": 624760,
+      "endMs": 632120,
+      "en": "Whether I find him alive, find him dead, find him buried, if they just tell me where he is, then I will truly be at peace.",
+      "zh": "无论我找到的是活着的他、死去的他，还是埋葬的他，只要他们告诉我他在哪里，我就真的可以安心了。"
+    },
+    {
+      "id": 86,
+      "startMs": 633880,
+      "endMs": 639560,
+      "en": "She knows Ahmed may well be dead, but there's also another reason why Gazans go missing.",
+      "zh": "她知道Ahmed很可能已经死了，但加沙人失踪还有另一个原因。"
+    },
+    {
+      "id": 87,
+      "startMs": 639560,
+      "endMs": 650920,
+      "en": "Aida Al-Drimly shows us a picture of her son, Mahmoud, a fresh-faced young man draped in a Palestinian scarf.",
+      "zh": "Aida Al-Drimly给我们看了她儿子Mahmoud的照片。那是一个面容清秀的年轻人，围着巴勒斯坦围巾。"
+    },
+    {
+      "id": 88,
+      "startMs": 651680,
+      "endMs": 656480,
+      "en": "He too disappeared in 2024.",
+      "zh": "他也在2024年失踪了。"
+    },
+    {
+      "id": 89,
+      "startMs": 658680,
+      "endMs": 671880,
+      "en": "Aida feared he'd been killed, but then this summer a photo emerged on social media showing two Israeli soldiers posing with a Palestinian detainee, blindfolded and bound.",
+      "zh": "Aida曾担心他已经遇害，但今年夏天，社交媒体上出现了一张照片，显示两名以色列士兵与一名被蒙住眼睛、捆绑起来的巴勒斯坦被拘押者合影。"
+    },
+    {
+      "id": 90,
+      "startMs": 672920,
+      "endMs": 674600,
+      "en": "The family believes it's Mahmoud.",
+      "zh": "这家人认为那个人就是Mahmoud。"
+    },
+    {
+      "id": 91,
+      "startMs": 674840,
+      "endMs": 680120,
+      "en": "My heart was torn into two when I saw the photo.",
+      "zh": "看到那张照片时，我的心都碎成了两半。"
+    },
+    {
+      "id": 92,
+      "startMs": 680760,
+      "endMs": 686600,
+      "en": "I was relieved that my son was okay, but at the same time, how can they humiliate him and other prisoners like him?",
+      "zh": "得知儿子平安，我松了一口气，但与此同时，他们怎么能这样羞辱他和其他像他一样的囚犯？"
+    },
+    {
+      "id": 93,
+      "startMs": 689140,
+      "endMs": 692180,
+      "en": "We asked the Israeli Prison Service about Mahmoud.",
+      "zh": "我们就Mahmoud的情况询问了以色列监狱管理部门。"
+    },
+    {
+      "id": 94,
+      "startMs": 692660,
+      "endMs": 694900,
+      "en": "They said they had no record of holding him.",
+      "zh": "他们说，没有记录显示他们拘押过他。"
+    },
+    {
+      "id": 95,
+      "startMs": 695800,
+      "endMs": 698280,
+      "en": "The Israeli military declined to comment.",
+      "zh": "以色列军方拒绝置评。"
+    },
+    {
+      "id": 96,
+      "startMs": 701820,
+      "endMs": 712140,
+      "en": "Well, here in Jerusalem, I've come now to meet Tal Steiner, an Israeli lawyer who's the executive director of HaMoked, a human rights organisation",
+      "zh": "我现在来到耶路撒冷，见到了以色列律师 Tal Steiner。他是人权组织 HaMoked 的执行主任，"
+    },
+    {
+      "id": 97,
+      "startMs": 712140,
+      "endMs": 717180,
+      "en": "That works to trace missing Gazans who may be being held in Israeli jails.",
+      "zh": "该组织致力于追查可能被关押在以色列监狱中的失踪加沙人。"
+    },
+    {
+      "id": 98,
+      "startMs": 719040,
+      "endMs": 723360,
+      "en": "What is the impact on the families of these people in terms of not knowing?",
+      "zh": "对这些人的家属来说，不知道亲人生死会造成什么影响？"
+    },
+    {
+      "id": 99,
+      "startMs": 724000,
+      "endMs": 728320,
+      "en": "The impact on families of the enforced disappeared people is devastating.",
+      "zh": "被迫失踪者的家属所承受的影响是毁灭性的。"
+    },
+    {
+      "id": 100,
+      "startMs": 728560,
+      "endMs": 730240,
+      "en": "It's an open wound that doesn't heal.",
+      "zh": "这是一道无法愈合的开放性伤口。"
+    },
+    {
+      "id": 101,
+      "startMs": 730400,
+      "endMs": 736000,
+      "en": "They have no rest, not even in knowing if their relative is dead or alive to bring him to proper burial.",
+      "zh": "他们不得安宁，甚至不知道亲人是死是活，无法将其妥善安葬。"
+    },
+    {
+      "id": 102,
+      "startMs": 737820,
+      "endMs": 743980,
+      "en": "Amid the destruction, the Red Cross estimates there are more than 5,000 missing people in Gaza.",
+      "zh": "在这片废墟之中，红十字会估计加沙仍有超过5000人失踪。"
+    },
+    {
+      "id": 103,
+      "startMs": 745020,
+      "endMs": 750380,
+      "en": "For their families, displaced and homeless, they're still not able to grieve.",
+      "zh": "对那些流离失所、无家可归的家属来说，他们仍然无法哀悼。"
+    },
+    {
+      "id": 104,
+      "startMs": 753300,
+      "endMs": 754020,
+      "en": "John Donnison.",
+      "zh": "约翰·唐尼森报道。"
+    },
+    {
+      "id": 105,
+      "startMs": 754740,
+      "endMs": 757860,
+      "en": "The air that we breathe has a huge impact on our health.",
+      "zh": "我们呼吸的空气对健康有巨大影响。"
+    },
+    {
+      "id": 106,
+      "startMs": 758020,
+      "endMs": 765380,
+      "en": "Unfortunately, we can't choose the quality of that air, and if you live in an urban area, more often than not, that air will be polluted.",
+      "zh": "遗憾的是，我们无法选择空气质量；如果你生活在城市，那里往往空气污染严重。"
+    },
+    {
+      "id": 107,
+      "startMs": 765940,
+      "endMs": 771540,
+      "en": "Six years ago, London became the first city to bring in what's called an Ultra Low Emission Zone.",
+      "zh": "六年前，伦敦成为首个设立所谓超低排放区的城市。"
+    },
+    {
+      "id": 108,
+      "startMs": 772020,
+      "endMs": 777620,
+      "en": "All vehicles, including passenger cars and motorbikes, have to comply with strict emission targets.",
+      "zh": "包括乘用车和摩托车在内的所有车辆，都必须符合严格的排放标准。"
+    },
+    {
+      "id": 109,
+      "startMs": 778020,
+      "endMs": 782740,
+      "en": "Drivers of higher-polluting vehicles have to pay a daily fee or face fines.",
+      "zh": "驾驶高排放车辆的人必须缴纳每日费用，否则将面临罚款。"
+    },
+    {
+      "id": 110,
+      "startMs": 783220,
+      "endMs": 788980,
+      "en": "Now comes the first evidence of the impact that those changes have had on the health of a group of children.",
+      "zh": "现在有了首份证据，显示这些改变对一群儿童的健康产生了影响。"
+    },
+    {
+      "id": 111,
+      "startMs": 789380,
+      "endMs": 791540,
+      "en": "Our reporter Nick Miles has been looking into this.",
+      "zh": "我们的记者Nick Miles一直在调查此事。"
+    },
+    {
+      "id": 112,
+      "startMs": 792340,
+      "endMs": 802180,
+      "en": "We've long known that particularly particulates like nitrogen oxides are deeply damaging for the health of lungs, particularly of young, growing children.",
+      "zh": "长期以来我们都知道，氮氧化物等颗粒物会严重损害肺部健康，尤其是正在成长的儿童的肺部。"
+    },
+    {
+      "id": 113,
+      "startMs": 802580,
+      "endMs": 807060,
+      "en": "And we also know that since ULEZ, those oxides have gone down significantly.",
+      "zh": "我们也知道，自从实施超低排放区以来，这些氧化物的含量已大幅下降。"
+    },
+    {
+      "id": 114,
+      "startMs": 807140,
+      "endMs": 808260,
+      "en": "So we know what's working.",
+      "zh": "所以我们知道什么措施有效。"
+    },
+    {
+      "id": 115,
+      "startMs": 808260,
+      "endMs": 818200,
+      "en": "What we haven't known until now is what impact that will have on lungs of children who had been damaged because of pollutants in the past.",
+      "zh": "直到现在，我们还不知道这会对那些曾因过去的污染物而受损的儿童肺部产生什么影响。"
+    },
+    {
+      "id": 116,
+      "startMs": 818920,
+      "endMs": 822600,
+      "en": "What Queen Mary University have done, they took 3,000 children.",
+      "zh": "玛丽女王大学的研究人员做的是，他们选取了3000名儿童。"
+    },
+    {
+      "id": 117,
+      "startMs": 822600,
+      "endMs": 828760,
+      "en": "They compared 1,500 in London, where there had been a reduction in these emissions over the last five years,",
+      "zh": "他们将伦敦的 1500 名儿童进行比较；过去五年里，伦敦的这些排放有所减少，"
+    },
+    {
+      "id": 118,
+      "startMs": 828920,
+      "endMs": 835880,
+      "en": "And they compared them to people in a town called Luton, a relatively small town where there hadn't been much pollution in the past.",
+      "zh": "他们还将其与一个名叫卢顿的相对较小城镇的人进行比较，那里过去的污染并不严重。"
+    },
+    {
+      "id": 119,
+      "startMs": 835880,
+      "endMs": 839080,
+      "en": "People have been talking about it as a stunning, a stunning result, really.",
+      "zh": "人们一直把这称为一个惊人、确实惊人的结果。"
+    },
+    {
+      "id": 120,
+      "startMs": 839320,
+      "endMs": 842520,
+      "en": "Well, let's listen now to one of the researchers, Chris Griffiths.",
+      "zh": "现在让我们听听研究人员之一Chris Griffiths怎么说。"
+    },
+    {
+      "id": 121,
+      "startMs": 842840,
+      "endMs": 850120,
+      "en": "The children in London, before the ULEZ was introduced, had smaller lung volumes compared with the Luton children.",
+      "zh": "在实施超低排放区之前，伦敦儿童的肺容量小于卢顿的儿童。"
+    },
+    {
+      "id": 122,
+      "startMs": 850680,
+      "endMs": 858520,
+      "en": "And then as air quality improved, we saw acceleration of lung growth in the children in London relative to those in Luton.",
+      "zh": "随后，随着空气质量改善，我们看到伦敦儿童的肺部生长速度相较卢顿儿童有所加快。"
+    },
+    {
+      "id": 123,
+      "startMs": 858520,
+      "endMs": 865080,
+      "en": "So after only four years, the measure that we were using was forced expiratory volume in one second.",
+      "zh": "因此，仅仅四年后，我们采用的测量指标是一秒用力呼气量。"
+    },
+    {
+      "id": 124,
+      "startMs": 865560,
+      "endMs": 872600,
+      "en": "So after only four years, they caught up the lost lung growth that they'd experienced from prior exposure to pollution.",
+      "zh": "仅仅四年后，他们弥补了此前因接触污染而失去的肺部生长。"
+    },
+    {
+      "id": 125,
+      "startMs": 872780,
+      "endMs": 874860,
+      "en": "So, this is an astonishing finding.",
+      "zh": "所以，这是一个惊人的发现。"
+    },
+    {
+      "id": 126,
+      "startMs": 875340,
+      "endMs": 879020,
+      "en": "Amazing, Nick. So, what impact might this report have?",
+      "zh": "太惊人了，Nick。那么，这份报告可能产生什么影响？"
+    },
+    {
+      "id": 127,
+      "startMs": 879740,
+      "endMs": 884620,
+      "en": "Well, you just got to look at the impact that particularly strong cases have had in the past.",
+      "zh": "你只要看看过去一些特别有力的案例所产生的影响就知道了。"
+    },
+    {
+      "id": 128,
+      "startMs": 884620,
+      "endMs": 889260,
+      "en": "There was one case of a nine-year-old girl who died from an asthma attack.",
+      "zh": "曾有一名九岁女孩死于哮喘发作。"
+    },
+    {
+      "id": 129,
+      "startMs": 889260,
+      "endMs": 892300,
+      "en": "She was living next to a very, very busy road in London.",
+      "zh": "她当时住在伦敦一条车流非常、非常繁忙的道路旁。"
+    },
+    {
+      "id": 130,
+      "startMs": 892540,
+      "endMs": 897980,
+      "en": "And for the first time, the coroner put on her death certificate the cause of air pollution.",
+      "zh": "法医首次在她的死亡证明上写明死因是空气污染。"
+    },
+    {
+      "id": 131,
+      "startMs": 898060,
+      "endMs": 899020,
+      "en": "And that had a huge impact.",
+      "zh": "这产生了巨大的影响。"
+    },
+    {
+      "id": 132,
+      "startMs": 899180,
+      "endMs": 902540,
+      "en": "It brought in some of the ULEZ legislation that we're seeing now.",
+      "zh": "这促成了我们现在看到的部分超低排放区立法。"
+    },
+    {
+      "id": 133,
+      "startMs": 903020,
+      "endMs": 911020,
+      "en": "What perhaps we may well see, and what a lot of the authors of this report are saying to me, is that we really do need this result,",
+      "zh": "也许我们将看到的，以及这份报告的许多作者对我所说的，是我们确实需要这一结果，"
+    },
+    {
+      "id": 134,
+      "startMs": 911020,
+      "endMs": 916140,
+      "en": "This very, very graphic result of lungs coming back to life, if you like, of young children.",
+      "zh": "如果你愿意这么说，就是儿童的肺部重新焕发生机这一非常、非常直观的结果。"
+    },
+    {
+      "id": 135,
+      "startMs": 916460,
+      "endMs": 924940,
+      "en": "We need that to actually give the political will a little bit of a bolster, because there has been a lot of opposition to these ULEZ over the last five years.",
+      "zh": "我们确实需要这个结果，为推动政策的政治意愿稍稍助力，因为过去五年来一直有很多人反对这些超低排放区。"
+    },
+    {
+      "id": 136,
+      "startMs": 925100,
+      "endMs": 928460,
+      "en": "It's expensive for people. A lot of people see it as a tax on the poor.",
+      "zh": "这对人们来说代价高昂。很多人把它看作是对穷人征税。"
+    },
+    {
+      "id": 137,
+      "startMs": 928860,
+      "endMs": 931580,
+      "en": "So what is the hope for the future?",
+      "zh": "那么，未来的希望是什么？"
+    },
+    {
+      "id": 138,
+      "startMs": 931580,
+      "endMs": 934000,
+      "en": "Helen Wood is another member of this study.",
+      "zh": "海伦·伍德也是这项研究的成员。"
+    },
+    {
+      "id": 139,
+      "startMs": 934240,
+      "endMs": 941600,
+      "en": "Given you can't undertake a randomised trial, you can't take a bunch of children and put them in a place with clean air versus a bunch of children",
+      "zh": "鉴于你无法开展随机试验，不能把一群孩子放在空气清洁的地方，再把另一群孩子，"
+    },
+    {
+      "id": 140,
+      "startMs": 941600,
+      "endMs": 949440,
+      "en": "And put them somewhere with dirty air, then this is the best kind of research that you can do when you are looking at epidemiology.",
+      "zh": "放到空气污浊的地方进行比较，所以在流行病学研究中，这就是你能做的最佳类型的研究。"
+    },
+    {
+      "id": 141,
+      "startMs": 949600,
+      "endMs": 959680,
+      "en": "I would hope that our policymakers and our elected politicians would look closely at this evidence that we've produced because it's an important study. It's a very big study.",
+      "zh": "我希望政策制定者和民选政治人物能仔细审视我们得出的这些证据，因为这是一项重要研究，也是一项规模非常大的研究。"
+    },
+    {
+      "id": 142,
+      "startMs": 959920,
+      "endMs": 966880,
+      "en": "And politicians around the world, she hopes as well, because there are 200 cities in Europe alone that have got these kind of low emission zones in.",
+      "zh": "她也希望世界各地的政治人物能关注这一点，因为仅欧洲就有200座城市设有这类低排放区。"
+    },
+    {
+      "id": 143,
+      "startMs": 967200,
+      "endMs": 970880,
+      "en": "They're also in place in some Chinese cities and Singapore and elsewhere.",
+      "zh": "中国的一些城市、新加坡以及其他地方也设有这类区域。"
+    },
+    {
+      "id": 144,
+      "startMs": 971200,
+      "endMs": 976480,
+      "en": "And people will hopefully look at these reports and say, look, it does have an impact on people's health.",
+      "zh": "人们希望能看到这些报告，并得出结论：看，这确实会影响人们的健康。"
+    },
+    {
+      "id": 145,
+      "startMs": 976720,
+      "endMs": 983760,
+      "en": "And when politicians are looking at these cost-benefit analyses of the pressure of perhaps keeping down costs against people's health,",
+      "zh": "当政治人物权衡控制成本与民众健康之间的压力、进行成本效益分析时，"
+    },
+    {
+      "id": 146,
+      "startMs": 984000,
+      "endMs": 988960,
+      "en": "They will come down on the side of people's health more often than they have in the past.",
+      "zh": "他们将比过去更经常站在民众健康这一边。"
+    },
+    {
+      "id": 147,
+      "startMs": 989520,
+      "endMs": 990240,
+      "en": "Nick Miles.",
+      "zh": "尼克·迈尔斯。"
+    },
+    {
+      "id": 148,
+      "startMs": 992780,
+      "endMs": 994060,
+      "en": "Still to come in this podcast...",
+      "zh": "本期节目稍后还有……"
+    },
+    {
+      "id": 149,
+      "startMs": 994140,
+      "endMs": 1004540,
+      "en": "I looked out to what I thought was some ships, which are quite common. Looked a bit closer and then realised it was a rocket, a space rocket, just out at sea that was being towed.",
+      "zh": "我朝外望去，以为那是一些很常见的船。仔细看了看才发现那是一枚火箭，一枚正在海上被拖走的太空火箭。"
+    },
+    {
+      "id": 150,
+      "startMs": 1004860,
+      "endMs": 1010780,
+      "en": "Christmas Island locals wake up to a surprise as debris from a SpaceX Starship floats off the coast.",
+      "zh": "圣诞岛居民醒来时发现一个惊喜：SpaceX“星舰”的残骸漂浮在海岸外。"
+    },
+    {
+      "id": 151,
+      "startMs": 1010780,
+      "endMs": 1019180,
+      "en": "Next to South Korea, and an announcement that the joint military exercises with the United States will be cut short and finish six days earlier than planned.",
+      "zh": "接下来关注韩国：韩美联合军事演习将提前结束，比原计划早六天。"
+    },
+    {
+      "id": 152,
+      "startMs": 1019820,
+      "endMs": 1029260,
+      "en": "This comes just days after President Trump said he wasn't happy with U.S. participation in the drills. He described them as being costly and hostile towards North Korea.",
+      "zh": "就在几天前，特朗普总统表示他对美国参加这场军演并不满意。他称军演代价高昂，而且对朝鲜抱有敌意。"
+    },
+    {
+      "id": 153,
+      "startMs": 1029740,
+      "endMs": 1032540,
+      "en": "I heard more from our South Korean correspondent, Jake Kwon.",
+      "zh": "我们的韩国记者杰克·权带来了更多报道。"
+    },
+    {
+      "id": 154,
+      "startMs": 1032860,
+      "endMs": 1038380,
+      "en": "This is a major exercise that happens every year, and it is between the United States and South Korea.",
+      "zh": "这是一项每年举行的重大演习，由美国和韩国共同参与。"
+    },
+    {
+      "id": 155,
+      "startMs": 1038700,
+      "endMs": 1046540,
+      "en": "And this year, some 18,000 South Korean troops were to participate, as well as troops from around 12 countries around the world.",
+      "zh": "今年原计划有约1.8万名韩国士兵参加，此外还有来自世界各地约12个国家的部队。"
+    },
+    {
+      "id": 156,
+      "startMs": 1046540,
+      "endMs": 1049740,
+      "en": "These are America's and South Korea's allies participating.",
+      "zh": "参加演习的是美国和韩国的盟友。"
+    },
+    {
+      "id": 157,
+      "startMs": 1050220,
+      "endMs": 1054700,
+      "en": "And then what we are hearing is that this 11-day exercise will be cut in half.",
+      "zh": "而我们听到的消息是，这场为期11天的演习将缩短一半。"
+    },
+    {
+      "id": 158,
+      "startMs": 1055180,
+      "endMs": 1062780,
+      "en": "So this Friday will be the last day as the Americans withdraw from the exercise after having done only the first half of it.",
+      "zh": "因此本周五将是最后一天；美国方面完成演习前半段后就会退出。"
+    },
+    {
+      "id": 159,
+      "startMs": 1063180,
+      "endMs": 1066540,
+      "en": "And this is a training exercise that has been done nearly every year.",
+      "zh": "这是一项几乎每年都会举行的训练演习。"
+    },
+    {
+      "id": 160,
+      "startMs": 1066780,
+      "endMs": 1075440,
+      "en": "There was a time that Mr. Trump had suspended it in 2018 for the sake of currying favor with Pyongyang, but it was reinstated in 2022.",
+      "zh": "特朗普先生曾在2018年暂停这项演习，以讨好平壤，但它于2022年恢复。"
+    },
+    {
+      "id": 161,
+      "startMs": 1076400,
+      "endMs": 1082720,
+      "en": "And like that time, this is training that takes months to prepare, and it is really unprecedented.",
+      "zh": "和那次一样，这项训练需要数月准备，像今天这样突然被缩短实属前所未有。"
+    },
+    {
+      "id": 162,
+      "startMs": 1082720,
+      "endMs": 1088000,
+      "en": "It would be cut abruptly like what we've seen today, and it is really a symbol",
+      "zh": "像今天这样突然被缩短实属前所未有，它确实象征着，"
+    },
+    {
+      "id": 163,
+      "startMs": 1088000,
+      "endMs": 1094480,
+      "en": "of South Korea's alliance and America's commitment to protecting South Korea from possible adversaries.",
+      "zh": "韩美同盟，以及美国保护韩国免受潜在对手威胁的承诺。"
+    },
+    {
+      "id": 164,
+      "startMs": 1094480,
+      "endMs": 1103760,
+      "en": "Why is Donald Trump citing the U.S. relationship with North Korea right now? Are there developments in that relationship?",
+      "zh": "唐纳德·特朗普为什么现在提到美国与朝鲜的关系？这段关系有什么新进展吗？"
+    },
+    {
+      "id": 165,
+      "startMs": 1104160,
+      "endMs": 1110800,
+      "en": "Well, it's difficult to understand exactly what prompted Mr. Trump to focus on North Korea suddenly.",
+      "zh": "这个问题很难确切判断：究竟是什么促使特朗普先生突然把注意力转向朝鲜？"
+    },
+    {
+      "id": 166,
+      "startMs": 1110880,
+      "endMs": 1118800,
+      "en": "He claimed that he has a great relationship with Kim Jong Un, and this is partly why he is suspending the exercise with South Korea.",
+      "zh": "他声称自己与金正恩关系很好，这也是他暂停与韩国举行演习的部分原因。"
+    },
+    {
+      "id": 167,
+      "startMs": 1118800,
+      "endMs": 1124900,
+      "en": "But we haven't seen any, for example, letters or communication happening between the two countries,",
+      "zh": "但我们没有看到任何信件或其他沟通在两国之间发生，"
+    },
+    {
+      "id": 168,
+      "startMs": 1124900,
+      "endMs": 1130340,
+      "en": "We haven't heard anything from North Korea yet, any response to what President Trump has claimed.",
+      "zh": "我们也还没有听到朝鲜方面对此作出任何回应，回应特朗普总统的上述说法。"
+    },
+    {
+      "id": 169,
+      "startMs": 1130900,
+      "endMs": 1140500,
+      "en": "So, you know, it is difficult to say exactly why now, but some of the observation has been that Mr Trump is currently having some difficulty ending the war with Iran,",
+      "zh": "所以，你知道，现在很难确切说为什么，但有些分析认为，特朗普目前很难结束与伊朗的战争，"
+    },
+    {
+      "id": 170,
+      "startMs": 1140820,
+      "endMs": 1146580,
+      "en": "And maybe he's looking for a win by, you know, moving some attention back to North Korea.",
+      "zh": "也许他想通过把一些注意力转回朝鲜来赢得一场胜利。"
+    },
+    {
+      "id": 171,
+      "startMs": 1146660,
+      "endMs": 1156740,
+      "en": "He had that unprecedented, a very historic meeting with Kim Jong Un, North Korea's leader, back in 2018, and perhaps he is trying to restart some of that.",
+      "zh": "2018年，他曾与朝鲜领导人金正恩举行那场前所未有、非常具有历史意义的会晤，也许他正试图重启部分进程。"
+    },
+    {
+      "id": 172,
+      "startMs": 1156740,
+      "endMs": 1166020,
+      "en": "But at the same time, if you look at the same post, he does talk about some frustration and disappointment with South Korea not helping him out in the Iran war.",
+      "zh": "但与此同时，如果你看看同一篇帖子，他确实谈到对韩国没有在伊朗战争中帮助他感到沮丧和失望。"
+    },
+    {
+      "id": 173,
+      "startMs": 1166020,
+      "endMs": 1170100,
+      "en": "So, some of us are also seeing it as a punishment of South Korea.",
+      "zh": "因此，我们中的一些人也把这看作是对韩国的惩罚。"
+    },
+    {
+      "id": 174,
+      "startMs": 1170420,
+      "endMs": 1177140,
+      "en": "Jake, what does this mean for the US relationship with South Korea in terms of trade or diplomacy?",
+      "zh": "杰克，这对美国与韩国的关系意味着什么？无论是在贸易还是外交方面。"
+    },
+    {
+      "id": 175,
+      "startMs": 1177380,
+      "endMs": 1183400,
+      "en": "Well, I think there is this concern in South Korea that used to be a very separate issue of security,",
+      "zh": "我认为，韩国方面担心，原本相互分开的安全问题，"
+    },
+    {
+      "id": 176,
+      "startMs": 1183640,
+      "endMs": 1191320,
+      "en": "American commitment to South Korea, and South Korea's trade with the United States, is all being mixed up under the Trump administration.",
+      "zh": "美国对韩国的承诺以及韩国与美国的贸易，如今都在特朗普政府下混为一谈。"
+    },
+    {
+      "id": 177,
+      "startMs": 1191640,
+      "endMs": 1196920,
+      "en": "And for South Korea, you know, they will try their best to kind of navigate this issue, but they're trying to see the silver lining",
+      "zh": "对韩国来说，他们会尽力应对这个问题，但也在努力看到其中的积极一面，"
+    },
+    {
+      "id": 178,
+      "startMs": 1196920,
+      "endMs": 1203400,
+      "en": "Because they have been asking Mr. Trump to speak to Kim Jong Un, and it seems to be heading that way, possibly.",
+      "zh": "因为他们一直要求特朗普与金正恩交谈，而事情可能正朝这个方向发展。"
+    },
+    {
+      "id": 179,
+      "startMs": 1204040,
+      "endMs": 1205160,
+      "en": "Jake Kwon in Seoul.",
+      "zh": "以上是杰克·权从首尔发来的报道。"
+    },
+    {
+      "id": 180,
+      "startMs": 1205960,
+      "endMs": 1211880,
+      "en": "To Somalia now. It's been grappling with decades of instability",
+      "zh": "现在转向索马里。这个国家几十年来一直在应对不稳定局势，"
+    },
+    {
+      "id": 181,
+      "startMs": 1211880,
+      "endMs": 1216280,
+      "en": "And the ongoing violent insurgency by the militant Al-Shabaab group, as well as prolonged droughts and severe flooding.",
+      "zh": "以及武装组织青年党持续发动的暴力叛乱，还有长期干旱和严重洪灾。"
+    },
+    {
+      "id": 182,
+      "startMs": 1216680,
+      "endMs": 1225400,
+      "en": "On top of that, it's now facing cuts to its aid budget and rises in fuel and fertilizer costs because of the conflicts in Ukraine, Iran and the Middle East.",
+      "zh": "除此之外，由于乌克兰、伊朗和中东的冲突，索马里目前还面临援助预算削减，以及燃料和化肥成本上涨。"
+    },
+    {
+      "id": 183,
+      "startMs": 1226040,
+      "endMs": 1235160,
+      "en": "Now the United Nations Children's Fund, UNICEF, is warning that nearly 1.9 million children are expected to suffer from malnutrition in Somalia this year.",
+      "zh": "联合国儿童基金会（UNICEF）警告说，今年索马里预计将有近190万名儿童遭受营养不良。"
+    },
+    {
+      "id": 184,
+      "startMs": 1235640,
+      "endMs": 1241320,
+      "en": "Nearly half a million of those will have severe acute malnutrition, the deadliest form of malnutrition.",
+      "zh": "其中近半数将患有重度急性营养不良，这是最致命的营养不良形式。"
+    },
+    {
+      "id": 185,
+      "startMs": 1241660,
+      "endMs": 1246140,
+      "en": "Anne Soy spoke to UNICEF's global spokesperson, James Elder, who's in Somalia.",
+      "zh": "BBC 记者安妮·索伊采访了正在索马里的联合国儿童基金会全球发言人詹姆斯·埃尔德。"
+    },
+    {
+      "id": 186,
+      "startMs": 1246940,
+      "endMs": 1255740,
+      "en": "In the first six months of this year, we've seen a 50% increase versus last year of girls and boys, babies, being admitted to stabilisation centres with complications.",
+      "zh": "今年前六个月，与去年相比，出现并发症、被送入营养稳定中心的女孩和男孩，也就是婴儿，增加了50%。"
+    },
+    {
+      "id": 187,
+      "startMs": 1255740,
+      "endMs": 1260700,
+      "en": "And why? It's simple, because when you have fewer facilities, you have longer journeys for mums and their babies.",
+      "zh": "为什么？原因很简单：设施减少后，母亲和婴儿要走更远的路。"
+    },
+    {
+      "id": 188,
+      "startMs": 1260700,
+      "endMs": 1266380,
+      "en": "Longer journeys means later treatment, and later treatment means more severe illness and more preventable death.",
+      "zh": "路途更远意味着治疗更晚，而治疗更晚意味着病情更重，也意味着更多本可避免的死亡。"
+    },
+    {
+      "id": 189,
+      "startMs": 1266380,
+      "endMs": 1271340,
+      "en": "To be perfectly honest, so, and we're seeing aid cuts close doors to healthcare.",
+      "zh": "说实话，援助削减正在关闭医疗服务的大门。"
+    },
+    {
+      "id": 190,
+      "startMs": 1271340,
+      "endMs": 1278620,
+      "en": "They're shutting down those nutrition services, and they're just pushing everything that kids need—water, education—further and further out of reach.",
+      "zh": "他们关闭营养服务，把儿童所需的一切——水和教育——推得越来越遥不可及。"
+    },
+    {
+      "id": 191,
+      "startMs": 1278780,
+      "endMs": 1287180,
+      "en": "How important are those services that you are talking about that are closing down now? Because this is a country that has been in crisis for such a long time.",
+      "zh": "你所说的、如今正在关闭的那些服务有多重要？毕竟这个国家已经陷入危机这么久了。"
+    },
+    {
+      "id": 192,
+      "startMs": 1287340,
+      "endMs": 1292140,
+      "en": "Yeah, they're everything. I met a boy yesterday, Abdulla. He's a teenager. He wanted to be a mechanic, right?",
+      "zh": "是的，它们就是一切。我昨天遇到一个男孩，叫阿卜杜拉。他是个青少年。他想成为一名机械师，对吧？"
+    },
+    {
+      "id": 193,
+      "startMs": 1292140,
+      "endMs": 1298380,
+      "en": "He was always tinkering with machinery in his village, and Al-Shabaab noticed this, and they offered him work and training as a mechanic.",
+      "zh": "他总是在村里摆弄机械。青年党注意到了这一点，向他提供了机械师的工作和培训。"
+    },
+    {
+      "id": 194,
+      "startMs": 1298380,
+      "endMs": 1303520,
+      "en": "Now, he had no opportunity. He was desperate to support his widowed mum, so he took it. It was a lie, right?",
+      "zh": "当时他没有别的机会。他急于养活守寡的母亲，于是接受了这份工作。但那是个骗局，对吧？"
+    },
+    {
+      "id": 195,
+      "startMs": 1303760,
+      "endMs": 1310480,
+      "en": "He was thrown into the battlefield. He tried to escape, he was caught, he was eventually wounded in battle, and he was captured by government forces.",
+      "zh": "他被扔进了战场。他试图逃跑，却被抓住，最终在战斗中受伤，并被政府军俘获。"
+    },
+    {
+      "id": 196,
+      "startMs": 1310480,
+      "endMs": 1313680,
+      "en": "Now, again, go back before these aid cuts really bit.",
+      "zh": "再说回援助削减真正造成影响之前的情况。"
+    },
+    {
+      "id": 197,
+      "startMs": 1314000,
+      "endMs": 1321680,
+      "en": "And UNICEF, we supported, you know, more than 160 children who'd been in those armed groups, enrolled in training centres: electrics, mechanics, cooking.",
+      "zh": "在联合国儿童基金会，我们曾支持过160多名曾加入那些武装组织的儿童，让他们进入培训中心学习电工、机械和烹饪。"
+    },
+    {
+      "id": 198,
+      "startMs": 1321920,
+      "endMs": 1327120,
+      "en": "They got starter kits that helped them start their own businesses. They got jobs, or they, as I say, created small businesses.",
+      "zh": "他们获得了创业工具包，得以开始自己的事业。他们找到了工作，或者如我所说，创办了小企业。"
+    },
+    {
+      "id": 199,
+      "startMs": 1327120,
+      "endMs": 1335200,
+      "en": "Now, aid cuts mean for a boy like Abdulla: no starter kit, no kickstart to that training. So those training kits, you know, they're a pathway to a stable future.",
+      "zh": "如今，援助削减意味着像阿卜杜拉这样的男孩没有创业工具包，也没有开启培训的助力。所以，这些培训工具包是通往稳定未来的道路。"
+    },
+    {
+      "id": 200,
+      "startMs": 1335200,
+      "endMs": 1339120,
+      "en": "They're helping kids not get re-recruited and contribute to their communities.",
+      "zh": "它们帮助孩子避免再次被招募，并为自己的社区作出贡献。"
+    },
+    {
+      "id": 201,
+      "startMs": 1339120,
+      "endMs": 1344960,
+      "en": "So the question is, you know, in that sense, it's not whether Somalia needs less aid because the world's become more difficult.",
+      "zh": "所以问题在于，从这个意义上说，问题不是世界变得更加艰难后索马里是否需要更少援助。"
+    },
+    {
+      "id": 202,
+      "startMs": 1345120,
+      "endMs": 1352800,
+      "en": "The question is whether the world can afford to make Somalia more fragile whilst these difficulties are multiplying. And, you know, the answer's got to be no.",
+      "zh": "而是当这些困难不断增加时，世界是否承受得起让索马里变得更加脆弱。答案显然是否定的。"
+    },
+    {
+      "id": 203,
+      "startMs": 1353280,
+      "endMs": 1358800,
+      "en": "You've been speaking to children like Abdulla. What about the parents that you have spoken to? What are they saying to you?",
+      "zh": "你一直在和像阿卜杜拉这样的孩子交谈。那你采访过的家长呢？他们对你说了什么？"
+    },
+    {
+      "id": 204,
+      "startMs": 1359280,
+      "endMs": 1365060,
+      "en": "It's achingly sad. Because, again, you are not seeing parents sitting around waiting for aid.",
+      "zh": "这令人心痛。因为你看到的并不是坐在那里等待援助的父母。"
+    },
+    {
+      "id": 205,
+      "startMs": 1365060,
+      "endMs": 1369860,
+      "en": "You are seeing parents do everything in their capacity to protect their children, but everything working against them.",
+      "zh": "你看到的是竭尽所能保护孩子、却处处受到阻碍的父母。"
+    },
+    {
+      "id": 206,
+      "startMs": 1369860,
+      "endMs": 1377700,
+      "en": "So, a couple of days ago in the southwest of Somalia, I met many, many mums, but if I think of just one, a lady called Hajio. Hajio.",
+      "zh": "几天前，在索马里西南部，我见到了许多母亲。但如果只说其中一位，那就是一个叫哈吉奥的女士。哈吉奥。"
+    },
+    {
+      "id": 207,
+      "startMs": 1377700,
+      "endMs": 1385460,
+      "en": "Hajio, she had a home, right? Her children went to school, she had cattle, but again, drought, a worsening climate started to kill her cattle. Eventually, they're all dead, right?",
+      "zh": "哈吉奥原本有自己的家，对吧？她的孩子上学，她还养着牛。但干旱和日益恶化的气候开始夺走她的牛。最终，牛全死了，对吧？"
+    },
+    {
+      "id": 208,
+      "startMs": 1385460,
+      "endMs": 1390180,
+      "en": "So, from a relatively prosperous life, Hajio and her children have nothing. So she fled.",
+      "zh": "所以，哈吉奥和她的孩子们从相对富足的生活陷入一无所有。因此她逃走了。"
+    },
+    {
+      "id": 209,
+      "startMs": 1390180,
+      "endMs": 1393620,
+      "en": "You go looking for help, but increasingly there's often none.",
+      "zh": "你四处寻求帮助，但越来越多时候根本没有帮助。"
+    },
+    {
+      "id": 210,
+      "startMs": 1393700,
+      "endMs": 1398580,
+      "en": "So today she's in a makeshift shelter. These are not tents; this is plastic and sticks.",
+      "zh": "所以如今她住在一个临时搭建的避难所里。这不是帐篷，只是塑料布和木棍。"
+    },
+    {
+      "id": 211,
+      "startMs": 1398580,
+      "endMs": 1402500,
+      "en": "It's no protection from burning heat, no protection from when it rains.",
+      "zh": "它无法遮挡灼热，也无法在下雨时提供保护。"
+    },
+    {
+      "id": 212,
+      "startMs": 1402980,
+      "endMs": 1407540,
+      "en": "She went to this town, Baidoa, in the southwest because she was told there'd be support.",
+      "zh": "她去了西南部的这座城镇拜多阿，因为有人告诉她那里会有援助。"
+    },
+    {
+      "id": 213,
+      "startMs": 1407540,
+      "endMs": 1412500,
+      "en": "Now, when she got there, in fairness, the nearby community itself, one of the poorest in the country, they gave her some clothes and tomatoes.",
+      "zh": "她到那里后，公平地说，附近社区本身就是全国最贫困的社区之一，但他们还是给了她一些衣服和西红柿。"
+    },
+    {
+      "id": 214,
+      "startMs": 1412740,
+      "endMs": 1417620,
+      "en": "She got nothing from the international community.",
+      "zh": "她没有从国际社会得到任何东西。"
+    },
+    {
+      "id": 215,
+      "startMs": 1417620,
+      "endMs": 1420580,
+      "en": "And I can't tell you how many times I heard this line from a mum.",
+      "zh": "我无法告诉你，我有多少次听到一位母亲说出这句话。"
+    },
+    {
+      "id": 216,
+      "startMs": 1421240,
+      "endMs": 1423240,
+      "en": "So, when I ask Hajio or mums, I say:",
+      "zh": "所以，当我问哈吉奥或其他母亲时，我会说："
+    },
+    {
+      "id": 217,
+      "startMs": 1423240,
+      "endMs": 1424520,
+      "en": "What do your children ask for?",
+      "zh": "你的孩子们想要什么？"
+    },
+    {
+      "id": 218,
+      "startMs": 1424600,
+      "endMs": 1427800,
+      "en": "Some of them will tell me it's food, it's clothes, it's school.",
+      "zh": "有些人会告诉我，是食物、衣服和上学。"
+    },
+    {
+      "id": 219,
+      "startMs": 1427800,
+      "endMs": 1429880,
+      "en": "Other mums will just say, \"Look around you.\"",
+      "zh": "其他母亲只会说：“看看你的周围。”"
+    },
+    {
+      "id": 220,
+      "startMs": 1429880,
+      "endMs": 1431640,
+      "en": "James, I mean, this is their grim reality.",
+      "zh": "詹姆斯，我是说，这就是她们残酷的现实。"
+    },
+    {
+      "id": 221,
+      "startMs": 1431640,
+      "endMs": 1433880,
+      "en": "My children know this. They ask for nothing.",
+      "zh": "我的孩子们知道这一点。他们什么也不求。"
+    },
+    {
+      "id": 222,
+      "startMs": 1434200,
+      "endMs": 1436360,
+      "en": "Hajio's words are etched on my mind.",
+      "zh": "哈吉奥的话深深刻在我的脑海里。"
+    },
+    {
+      "id": 223,
+      "startMs": 1436440,
+      "endMs": 1440280,
+      "en": "She just said, \"I always feel sad, and there is anger and stress.\"",
+      "zh": "她只是说：“我总是感到悲伤，还感到愤怒和压力。”"
+    },
+    {
+      "id": 224,
+      "startMs": 1440280,
+      "endMs": 1442360,
+      "en": "There is no way to be happy anymore.",
+      "zh": "再也不可能快乐了。"
+    },
+    {
+      "id": 225,
+      "startMs": 1442440,
+      "endMs": 1443480,
+      "en": "So, you know, what does Hajio do?",
+      "zh": "所以，你知道哈吉奥是怎么做的吗？"
+    },
+    {
+      "id": 226,
+      "startMs": 1443800,
+      "endMs": 1446520,
+      "en": "She tells her children stories at night. She reads to them.",
+      "zh": "她晚上给孩子们讲故事，给他们读书。"
+    },
+    {
+      "id": 227,
+      "startMs": 1446520,
+      "endMs": 1448840,
+      "en": "She's a smart woman, but they've got nothing.",
+      "zh": "她是个聪明的女人，但他们一无所有。"
+    },
+    {
+      "id": 228,
+      "startMs": 1448840,
+      "endMs": 1452840,
+      "en": "And she's watching these children get thinner and thinner because of wars around the world",
+      "zh": "她眼看着这些孩子因为世界各地的战争而变得越来越瘦，"
+    },
+    {
+      "id": 229,
+      "startMs": 1452840,
+      "endMs": 1457000,
+      "en": "Or a climate crisis to which she has contributed no carbon footprint, or aid cuts",
+      "zh": "或一场她几乎没有留下碳足迹却要承受后果的气候危机，或援助削减，"
+    },
+    {
+      "id": 230,
+      "startMs": 1457000,
+      "endMs": 1463560,
+      "en": "That she just doesn't understand—why this meagre support has been taken away at their moment of greatest need.",
+      "zh": "是她根本无法理解的——为什么在她们最需要的时候，这点微薄的支持也被夺走了。"
+    },
+    {
+      "id": 231,
+      "startMs": 1463880,
+      "endMs": 1466440,
+      "en": "UNICEF's global spokesperson, James Elder.",
+      "zh": "联合国儿童基金会全球发言人詹姆斯·埃尔德。"
+    },
+    {
+      "id": 232,
+      "startMs": 1467000,
+      "endMs": 1472920,
+      "en": "A 52-metre-long SpaceX rocket has been drifting off the coast of the remote Christmas Island,",
+      "zh": "一枚长达52米的SpaceX火箭一直漂流在偏远的圣诞岛海岸外，"
+    },
+    {
+      "id": 233,
+      "startMs": 1473160,
+      "endMs": 1476600,
+      "en": "some 1,500 kilometres off the coast of Western Australia.",
+      "zh": "圣诞岛距离西澳大利亚海岸约1500公里。"
+    },
+    {
+      "id": 234,
+      "startMs": 1477160,
+      "endMs": 1480600,
+      "en": "The spacecraft was launched in Texas in late July and released",
+      "zh": "这艘航天器于7月底在得克萨斯州发射，并释放了"
+    },
+    {
+      "id": 235,
+      "startMs": 1480780,
+      "endMs": 1486380,
+      "en": "twenty satellites before the upper part of the rocket re-entered the atmosphere and landed in the ocean.",
+      "zh": "20颗卫星，随后火箭上部重新进入大气层，落入海洋。"
+    },
+    {
+      "id": 236,
+      "startMs": 1486940,
+      "endMs": 1496220,
+      "en": "Engineers from Elon Musk's SpaceX have now retrieved the rocket and are analysing it, but that initial recovery operation was hampered by rough seas.",
+      "zh": "埃隆·马斯克旗下SpaceX的工程师如今已经找回火箭，正在对其进行分析，但最初的回收行动受到恶劣海况的阻碍。"
+    },
+    {
+      "id": 237,
+      "startMs": 1496780,
+      "endMs": 1502700,
+      "en": "Among the locals who went to have a look was David Watchorn, chair of Christmas Island's Tourism Association.",
+      "zh": "前去查看的当地人中有大卫·沃乔恩，他是圣诞岛旅游协会主席。"
+    },
+    {
+      "id": 238,
+      "startMs": 1503340,
+      "endMs": 1510220,
+      "en": "I just drove to work one morning in my two-minute commute on Christmas Island, pulled up at our scuba diving centre,",
+      "zh": "有一天早上，我在圣诞岛开车上班，两分钟就到了潜水中心，"
+    },
+    {
+      "id": 239,
+      "startMs": 1510220,
+      "endMs": 1515100,
+      "en": "got out of the car and looked out to what I thought was some ships which are quite common.",
+      "zh": "下车后向外看去，我以为那是几艘很常见的船。"
+    },
+    {
+      "id": 240,
+      "startMs": 1515500,
+      "endMs": 1521420,
+      "en": "Looked a bit closer and then realised it was a rocket, a space rocket, just out at sea that was being towed.",
+      "zh": "我仔细看了看，才意识到那是一枚火箭，一枚正在海上被拖走的太空火箭。"
+    },
+    {
+      "id": 241,
+      "startMs": 1521420,
+      "endMs": 1527020,
+      "en": "I was able to get my crew together, we got the boat off the jetty and went out to have a look.",
+      "zh": "我召集了船员，把船从码头驶出，前去看个究竟。"
+    },
+    {
+      "id": 242,
+      "startMs": 1527260,
+      "endMs": 1533180,
+      "en": "Some visitors that were at the local cafe, they walked out, they didn't really realise,",
+      "zh": "一些当时在当地咖啡馆的游客走了出来，他们并没有意识到发生了什么，"
+    },
+    {
+      "id": 243,
+      "startMs": 1533180,
+      "endMs": 1539820,
+      "en": "And I stopped them and pointed out that there was a space rocket out at sea which they didn't initially believe me,",
+      "zh": "我拦住他们，指给他们看海上的太空火箭，但他们一开始并不相信我，"
+    },
+    {
+      "id": 244,
+      "startMs": 1539820,
+      "endMs": 1544960,
+      "en": "but we were able to take a few out snorkelling today and get really close to it.",
+      "zh": "不过今天我们带了几个人去浮潜，得以非常接近它。"
+    },
+    {
+      "id": 245,
+      "startMs": 1545440,
+      "endMs": 1550160,
+      "en": "Alice Gorman is a space archaeologist at Flinders University in Adelaide.",
+      "zh": "爱丽丝·戈尔曼是阿德莱德弗林德斯大学的太空考古学家。"
+    },
+    {
+      "id": 246,
+      "startMs": 1550560,
+      "endMs": 1553920,
+      "en": "She spoke with Kasha Madeira about the rarity of this kind of event.",
+      "zh": "她与卡莎·马德拉谈到了这种事件的罕见性。"
+    },
+    {
+      "id": 247,
+      "startMs": 1554320,
+      "endMs": 1560640,
+      "en": "It's pretty rare. Normally, these rockets break up before they reach land or sea intact,",
+      "zh": "这相当罕见。通常，这些火箭还没能完整抵达陆地或海面就会解体，"
+    },
+    {
+      "id": 248,
+      "startMs": 1561040,
+      "endMs": 1568960,
+      "en": "and normally a lot of space junk simply burns up in the atmosphere, so people don't even realise that it's coming in every day.",
+      "zh": "而且通常大量太空垃圾会直接在大气层中烧毁，所以人们甚至意识不到它每天都在坠入大气层。"
+    },
+    {
+      "id": 249,
+      "startMs": 1569440,
+      "endMs": 1576160,
+      "en": "So to see a whole rocket of this size floating intact in the ocean, a pretty amazing sight.",
+      "zh": "所以，看到这么大的一整枚火箭完整地漂浮在海上，确实是非常惊人的景象。"
+    },
+    {
+      "id": 250,
+      "startMs": 1576720,
+      "endMs": 1580960,
+      "en": "So, is it a mistake that it didn't burn up and break apart?",
+      "zh": "那么，它没有烧毁并解体，是不是一个意外？"
+    },
+    {
+      "id": 251,
+      "startMs": 1582040,
+      "endMs": 1590520,
+      "en": "It was intended to land upright to test the feasibility of sending something reusable back from orbit.",
+      "zh": "它原本就计划以直立姿态着陆，用来测试把可重复使用的物体从轨道送回来的可行性。"
+    },
+    {
+      "id": 252,
+      "startMs": 1590920,
+      "endMs": 1598600,
+      "en": "So this was all part of the plan, but it was a test launch, so if something had gone wrong, that was kind of also expected.",
+      "zh": "所以这一切都是计划的一部分。但这是一次测试发射，如果出了问题，其实也在预料之中。"
+    },
+    {
+      "id": 253,
+      "startMs": 1598920,
+      "endMs": 1606440,
+      "en": "But normally the impact of coming through the atmosphere and then hitting the ocean, it often breaks rockets apart.",
+      "zh": "但通常火箭穿过大气层后撞击海面，冲击力往往会使火箭解体。"
+    },
+    {
+      "id": 254,
+      "startMs": 1606760,
+      "endMs": 1609880,
+      "en": "So it's extraordinary that this one landed whole.",
+      "zh": "所以，这枚火箭能够完整着陆实在不同寻常。"
+    },
+    {
+      "id": 255,
+      "startMs": 1610040,
+      "endMs": 1614680,
+      "en": "It didn't sink. It didn't release any toxic fuel into the environment.",
+      "zh": "它没有沉没，也没有向环境中释放有毒燃料。"
+    },
+    {
+      "id": 256,
+      "startMs": 1615000,
+      "endMs": 1617800,
+      "en": "So it's a pretty good result for SpaceX.",
+      "zh": "所以，对SpaceX来说结果相当不错。"
+    },
+    {
+      "id": 257,
+      "startMs": 1618280,
+      "endMs": 1625320,
+      "en": "We're hearing more and more about this kind of space junk that is incredibly damaging, even tiny little particles.",
+      "zh": "我们越来越多地听到这类太空垃圾的消息，它们的破坏性极大，哪怕只是微小颗粒也是如此。"
+    },
+    {
+      "id": 258,
+      "startMs": 1625560,
+      "endMs": 1630840,
+      "en": "Should we be concerned about having something this size land back on Earth?",
+      "zh": "有这么大的东西重新坠落地球，我们是否应该感到担忧？"
+    },
+    {
+      "id": 259,
+      "startMs": 1632020,
+      "endMs": 1637060,
+      "en": "Something this size is not going to be launched that frequently for a while,",
+      "zh": "一段时间内，这么大的东西不会被频繁发射，"
+    },
+    {
+      "id": 260,
+      "startMs": 1637060,
+      "endMs": 1642180,
+      "en": "but the intention is, Elon Musk is envisaging a launch of the Starship",
+      "zh": "但埃隆·马斯克设想发射星舰，"
+    },
+    {
+      "id": 261,
+      "startMs": 1642340,
+      "endMs": 1644100,
+      "en": "you know, on a daily basis.",
+      "zh": "你知道，是按每天一次的频率。"
+    },
+    {
+      "id": 262,
+      "startMs": 1644660,
+      "endMs": 1651780,
+      "en": "So if they perfect that reusable return to Earth technology, that's great for the Starship.",
+      "zh": "所以，如果他们完善了可重复使用的返回地球技术，这对星舰来说当然很好。"
+    },
+    {
+      "id": 263,
+      "startMs": 1652420,
+      "endMs": 1657060,
+      "en": "But we're going to see more spacecraft re-entering from orbit,",
+      "zh": "但我们将看到更多航天器从轨道重新进入大气层，"
+    },
+    {
+      "id": 264,
+      "startMs": 1657380,
+      "endMs": 1667380,
+      "en": "and the sheer number of the anticipated spacecraft means that more parts will survive impact to Earth, usually parts of the fuel system.",
+      "zh": "而预期中的航天器数量之多，意味着会有更多部件完整抵达地球，通常是燃料系统的部件。"
+    },
+    {
+      "id": 265,
+      "startMs": 1667700,
+      "endMs": 1675540,
+      "en": "So, we do have an increased risk that people or property or environmental harm might happen.",
+      "zh": "所以，人员、财产或环境遭受损害的风险确实有所增加。"
+    },
+    {
+      "id": 266,
+      "startMs": 1675780,
+      "endMs": 1677780,
+      "en": "What can these scientists learn from this then?",
+      "zh": "那么，科学家能从这次事件中了解到什么？"
+    },
+    {
+      "id": 267,
+      "startMs": 1679160,
+      "endMs": 1685560,
+      "en": "From this Starship re-entry, one of the key things is how the heat shield performed.",
+      "zh": "从这次星舰再入大气层的情况中，关键的一点是隔热罩的表现。"
+    },
+    {
+      "id": 268,
+      "startMs": 1685560,
+      "endMs": 1689000,
+      "en": "So, that's all the ceramic tiles that you can see on the outside.",
+      "zh": "那就是你在外部看到的那些陶瓷瓦片。"
+    },
+    {
+      "id": 269,
+      "startMs": 1689320,
+      "endMs": 1693880,
+      "en": "Some of them definitely burnt up when it re-entered, but a lot of them are still present.",
+      "zh": "再入大气层时，其中一些确实烧毁了，但还有很多仍然保留着。"
+    },
+    {
+      "id": 270,
+      "startMs": 1694360,
+      "endMs": 1701320,
+      "en": "The Starship is going to be used to actually send people, humans, to and from the Moon.",
+      "zh": "星舰将被真正用于运送人类往返月球。"
+    },
+    {
+      "id": 271,
+      "startMs": 1701640,
+      "endMs": 1708520,
+      "en": "So, how that heat shield performs is absolutely critical to their ability to survive coming back to Earth.",
+      "zh": "因此，隔热罩的性能对他们能否安全返回地球至关重要。"
+    },
+    {
+      "id": 272,
+      "startMs": 1708840,
+      "endMs": 1715000,
+      "en": "So, this is what the scientists are going to be particularly interested in now, how that heat shield survived.",
+      "zh": "所以，科学家现在尤其关注的，就是隔热罩如何经受住了考验。"
+    },
+    {
+      "id": 273,
+      "startMs": 1715560,
+      "endMs": 1717720,
+      "en": "Space archaeologist Alice Gorman.",
+      "zh": "空间考古学家爱丽丝·戈尔曼。"
+    },
+    {
+      "id": 274,
+      "startMs": 1718280,
+      "endMs": 1723320,
+      "en": "And finally, a competition to find out how much weight a giant water lily can bear.",
+      "zh": "最后，一项比赛要看看巨型睡莲能承受多大的重量。"
+    },
+    {
+      "id": 275,
+      "startMs": 1723720,
+      "endMs": 1728120,
+      "en": "Unbelievably, these plants are strong enough for a grown person to stand on.",
+      "zh": "难以置信的是，这些植物足够坚韧，可以让一个成年人站在上面。"
+    },
+    {
+      "id": 276,
+      "startMs": 1728600,
+      "endMs": 1735320,
+      "en": "About 40 gardens around the world are taking part this year, including the Royal Botanic Gardens in Kew, here in London.",
+      "zh": "今年全球约有 40 座植物园参加，其中包括这里伦敦的邱园皇家植物园。"
+    },
+    {
+      "id": 277,
+      "startMs": 1735880,
+      "endMs": 1741420,
+      "en": "Alex Summers is curator of Living Collections at Kew. He's been speaking to my colleague Emma Brennand.",
+      "zh": "亚历克斯·萨默斯是邱园活体收藏部的馆长。他接受了我的同事艾玛·布伦南德的采访。"
+    },
+    {
+      "id": 278,
+      "startMs": 1741900,
+      "endMs": 1749420,
+      "en": "It is as crazy as you say, but equally, I think we do it for a very good reason, which is celebrating the majesty and diversity of the plant kingdom.",
+      "zh": "正如你所说，这听起来很疯狂，但同样重要的是，我认为我们这样做有很好的理由：庆祝植物王国的壮丽与多样性。"
+    },
+    {
+      "id": 279,
+      "startMs": 1749420,
+      "endMs": 1752620,
+      "en": "And any way we can get out there to do that is fantastic.",
+      "zh": "只要能以任何方式把这件事推广出去，都是很棒的。"
+    },
+    {
+      "id": 280,
+      "startMs": 1752620,
+      "endMs": 1759180,
+      "en": "So, in the case here, the water lily weigh-off, across about 40 botanic gardens and zoos globally, we all grow these large water lilies.",
+      "zh": "就这次睡莲称重比赛而言，全球约 40 座植物园和动物园都种植这种大型睡莲。"
+    },
+    {
+      "id": 281,
+      "startMs": 1759180,
+      "endMs": 1763420,
+      "en": "Many people will be familiar with them because when they come through botanic gardens, they'll see them.",
+      "zh": "很多人应该都熟悉它们，因为参观植物园时就能看到。"
+    },
+    {
+      "id": 282,
+      "startMs": 1763420,
+      "endMs": 1771580,
+      "en": "These massive leaves, so up to 3 metres in the case of the plants we're growing in the pools at Kew here, and those leaves, they can bear a massive weight.",
+      "zh": "这些叶片非常巨大——我们在这里邱园水池中培育的植株，叶片直径可达 3 米——而且能够承受很大的重量。"
+    },
+    {
+      "id": 283,
+      "startMs": 1771660,
+      "endMs": 1775340,
+      "en": "So, the question is, who can put the largest weight on the lily pads that they grow?",
+      "zh": "所以问题是：谁种出的睡莲叶片能承受最大的重量？"
+    },
+    {
+      "id": 284,
+      "startMs": 1775660,
+      "endMs": 1780460,
+      "en": "So, essentially, you've got a structure there, a leaf, as many people will be familiar with, and the veins of the leaf.",
+      "zh": "基本上，你看到的是一种结构，也就是许多人熟悉的叶片，以及叶片的叶脉。"
+    },
+    {
+      "id": 285,
+      "startMs": 1780460,
+      "endMs": 1785340,
+      "en": "So, if anybody looks under a leaf that they've got at home, they'll see that they'll have these protruding vein structures.",
+      "zh": "如果有人查看家中植物的叶片背面，就会看到这些凸出的叶脉结构。"
+    },
+    {
+      "id": 286,
+      "startMs": 1785580,
+      "endMs": 1789340,
+      "en": "They are really, really prominent in these Victoria water lilies.",
+      "zh": "在这些王莲上，叶脉尤其突出。"
+    },
+    {
+      "id": 287,
+      "startMs": 1789340,
+      "endMs": 1796220,
+      "en": "They allow the leaf structure to be very strong, and they have these rigid air pockets in them, and that allows them to carry an enormous amount of weight.",
+      "zh": "它们让叶片结构非常坚固，叶片中还有坚硬的气囊，这使叶片能够承受极大的重量。"
+    },
+    {
+      "id": 288,
+      "startMs": 1796620,
+      "endMs": 1803520,
+      "en": "What we've done here at Kew, obviously, one of our gardeners, he stood on it, and he's not one of our smaller gardeners either, 102 kilos.",
+      "zh": "我们在邱园做的是，显然，我们的一名园丁站了上去，而且他也不是我们体格较小的园丁，体重 102 公斤。"
+    },
+    {
+      "id": 289,
+      "startMs": 1803520,
+      "endMs": 1811760,
+      "en": "Last year, it was about 83 kilos on a leaf, which is considerable. Most leaves couldn't take 83 kilos, and this year we've managed 102 kilos.",
+      "zh": "去年叶片承受了约 83 公斤，这已相当可观。大多数叶片承受不了 83 公斤，而今年我们达到了 102 公斤。"
+    },
+    {
+      "id": 290,
+      "startMs": 1811760,
+      "endMs": 1815200,
+      "en": "So, maybe, maybe we'll win across that network of botanic gardens.",
+      "zh": "所以，也许，也许我们能在这整个植物园网络中胜出。"
+    },
+    {
+      "id": 291,
+      "startMs": 1815200,
+      "endMs": 1817360,
+      "en": "But I think it is worth saying we are in a really fortunate spot",
+      "zh": "不过我认为，值得一提的是，我们确实处在非常有利的位置，"
+    },
+    {
+      "id": 292,
+      "startMs": 1817360,
+      "endMs": 1824560,
+      "en": "because the Victoria water lily that we've actually entered was described in 2022. We worked with partners in Bolivia, so Victoria boliviana,",
+      "zh": "因为我们参赛的王莲品种是在 2022 年描述命名的。我们与玻利维亚的合作伙伴共同开展工作，它就是 Victoria boliviana，"
+    },
+    {
+      "id": 293,
+      "startMs": 1824960,
+      "endMs": 1829040,
+      "en": "and so we do have somewhat of an advantage because it is within this group of water lilies,",
+      "zh": "所以我们确实有一定优势，因为在这组睡莲中，"
+    },
+    {
+      "id": 294,
+      "startMs": 1829120,
+      "endMs": 1833440,
+      "en": "it's the one with the largest pads, and we're one of the few people to grow it globally.",
+      "zh": "它的叶片最大，而我们也是全球少数培育这种睡莲的机构之一。"
+    },
+    {
+      "id": 295,
+      "startMs": 1833520,
+      "endMs": 1838240,
+      "en": "But it does equally highlight how amazing the plant kingdom is, how much there is still to discover.",
+      "zh": "但这同样凸显了植物王国有多么神奇，以及仍有多少东西等待我们发现。"
+    },
+    {
+      "id": 296,
+      "startMs": 1838960,
+      "endMs": 1846560,
+      "en": "The competition takes place across Instagram, TikTok, and Facebook, and this year's heavyweight champion of water lilies will be announced on the 28th of August.",
+      "zh": "比赛将在 Instagram、TikTok 和 Facebook 上举行，今年的睡莲重量级冠军将于 8 月 28 日公布。"
+    },
+    {
+      "id": 297,
+      "startMs": 1848920,
+      "endMs": 1850120,
+      "en": "That's all from us for now.",
+      "zh": "目前节目就到这里。"
+    },
+    {
+      "id": 298,
+      "startMs": 1850200,
+      "endMs": 1855160,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 299,
+      "startMs": 1855160,
+      "endMs": 1858760,
+      "en": "This edition of the Global News Podcast was mixed by Callum MacLean.",
+      "zh": "本期《Global News Podcast》由卡勒姆·麦克莱恩混音。"
+    },
+    {
+      "id": 300,
+      "startMs": 1859080,
+      "endMs": 1861960,
+      "en": "The producer was Judy Frankel. The editor is Karen Martin.",
+      "zh": "制片人是朱迪·弗兰克尔，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 301,
+      "startMs": 1862200,
+      "endMs": 1864440,
+      "en": "I am Celia Hatton. Until next time, goodbye.",
+      "zh": "我是西莉娅·哈顿。下次再见。"
+    }
+  ]
+}
