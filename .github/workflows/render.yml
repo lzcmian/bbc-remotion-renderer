@@ -123,8 +123,13 @@ jobs:
       - name: Install FFmpeg
         shell: bash
         run: |
-          sudo apt-get update
-          sudo apt-get install --yes ffmpeg
+          if command -v ffmpeg >/dev/null && command -v ffprobe >/dev/null; then
+            ffmpeg -version | head -n 1
+            ffprobe -version | head -n 1
+          else
+            sudo apt-get update
+            sudo apt-get install --yes ffmpeg
+          fi
 
       - name: Concatenate video shards
         shell: bash
