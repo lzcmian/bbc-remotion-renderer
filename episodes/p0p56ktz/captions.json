@@ -1,0 +1,1936 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "19 August 2026"
+  },
+  "durationMs": 1763800,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3920,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5840,
+      "endMs": 11280,
+      "en": "I'm Jannat Jalil and in the early hours of Wednesday, the 19th of August, these are our main stories.",
+      "zh": "我是 Jannat Jalil。现在是 8 月 19 日星期三凌晨，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11680,
+      "endMs": 20960,
+      "en": "At the start of a landmark trial in California, Meta denies deliberately designing platforms like Facebook and Instagram to be addictive to children.",
+      "zh": "在加利福尼亚州一场具有里程碑意义的审判开始之际，Meta 否认故意将 Facebook 和 Instagram 等平台设计成会让儿童上瘾。"
+    },
+    {
+      "id": 4,
+      "startMs": 21680,
+      "endMs": 28960,
+      "en": "The Trump administration intensifies pressure on the International Criminal Court by imposing more sanctions on top officials.",
+      "zh": "特朗普政府通过对国际刑事法院高级官员实施更多制裁，加大了对该法院的压力。"
+    },
+    {
+      "id": 5,
+      "startMs": 29820,
+      "endMs": 38700,
+      "en": "With the Ebola outbreak in Congo now one of the deadliest ever, the World Health Organisation says it's still far from being under control.",
+      "zh": "刚果的埃博拉疫情已成为有史以来致死人数最多的疫情之一，世界卫生组织表示，疫情仍远未得到控制。"
+    },
+    {
+      "id": 6,
+      "startMs": 41320,
+      "endMs": 50920,
+      "en": "Also in this podcast, an Australian woman who killed three relatives by feeding them a meal laced with poisonous mushrooms begins an appeal against her murder conviction.",
+      "zh": "本期节目还将报道：一名澳大利亚女子用含有毒蘑菇的餐食毒害三名亲属并将其杀害，如今开始对谋杀罪定罪提出上诉。"
+    },
+    {
+      "id": 7,
+      "startMs": 51560,
+      "endMs": 59720,
+      "en": "And in the mouse, we actually showed that the crucial wavelength of light for preventing myopia was actually in the UVA, ultraviolet A band.",
+      "zh": "研究人员还发现，在小鼠身上，预防近视的关键光波长实际上处于 UVA，也就是紫外线 A 波段。"
+    },
+    {
+      "id": 8,
+      "startMs": 59800,
+      "endMs": 62280,
+      "en": "And in the tree shrew, we showed it went the other direction.",
+      "zh": "但在树鼩身上，研究结果显示方向正好相反。"
+    },
+    {
+      "id": 9,
+      "startMs": 63080,
+      "endMs": 68760,
+      "en": "We hear how tree shrews could be a big help to short-sighted humans.",
+      "zh": "我们将了解树鼩如何可能帮助人类解决近视问题。"
+    },
+    {
+      "id": 10,
+      "startMs": 72640,
+      "endMs": 79840,
+      "en": "We begin with a trial that could transform some of the most popular social media apps on the planet.",
+      "zh": "我们先来看一场可能改变全球一些最受欢迎社交媒体应用的审判。"
+    },
+    {
+      "id": 11,
+      "startMs": 80160,
+      "endMs": 89520,
+      "en": "A group of 29 US states is suing the tech giant Meta, seeking potentially hundreds of billions of dollars in penalties.",
+      "zh": "美国 29 个州组成的团体正在起诉科技巨头 Meta，可能寻求数千亿美元的罚款。"
+    },
+    {
+      "id": 12,
+      "startMs": 90080,
+      "endMs": 95440,
+      "en": "The four lead states in the trial, California, Colorado, Kentucky and New Jersey,",
+      "zh": "参与审判的四个主导州——加利福尼亚州、科罗拉多州、肯塔基州和新泽西州——"
+    },
+    {
+      "id": 13,
+      "startMs": 95760,
+      "endMs": 103680,
+      "en": "accuse the company of harming children by designing Facebook and Instagram to be as addictive as cigarettes.",
+      "zh": "指控该公司把 Facebook 和 Instagram 设计得像香烟一样令人上瘾，从而伤害儿童。"
+    },
+    {
+      "id": 14,
+      "startMs": 104080,
+      "endMs": 117520,
+      "en": "The states argue Meta has fueled a national youth mental health crisis, causing depression, anxiety and even suicide, and that it's deceived users by promoting its apps as safe.",
+      "zh": "这些州认为，Meta 加剧了全国性的青少年心理健康危机，导致抑郁、焦虑，甚至自杀；他们还认为，Meta 宣称其应用安全，从而欺骗了用户。"
+    },
+    {
+      "id": 15,
+      "startMs": 118000,
+      "endMs": 120640,
+      "en": "California's Attorney General is Rob Bonta.",
+      "zh": "加利福尼亚州检察长是 Rob Bonta。"
+    },
+    {
+      "id": 16,
+      "startMs": 121200,
+      "endMs": 123360,
+      "en": "We want them to stop harming our kids knowingly.",
+      "zh": "我们希望他们停止明知故犯地伤害我们的孩子。"
+    },
+    {
+      "id": 17,
+      "startMs": 123440,
+      "endMs": 129680,
+      "en": "They designed a dangerous product. It was something they knew was dangerous, and they lied to the public about it.",
+      "zh": "他们设计了一款危险的产品。他们明知产品危险，却向公众撒了谎。"
+    },
+    {
+      "id": 18,
+      "startMs": 129680,
+      "endMs": 133540,
+      "en": "So we want them to end those practices, stop visiting harm upon our kids.",
+      "zh": "所以我们希望他们终止这些做法，不再把伤害施加给我们的孩子。"
+    },
+    {
+      "id": 19,
+      "startMs": 133780,
+      "endMs": 141060,
+      "en": "The features that they have, including infinite scroll and autoplay, and beeps and alerts, and likes and ephemeral content, hurt kids.",
+      "zh": "他们提供的功能，包括无限滚动、自动播放、提示音和提醒、点赞以及阅后即焚式内容，都会伤害孩子。"
+    },
+    {
+      "id": 20,
+      "startMs": 141980,
+      "endMs": 149980,
+      "en": "Parents who said that social media platforms played a role in their children's deaths gathered outside a federal courthouse in Oakland in California,",
+      "zh": "一些家长认为社交媒体平台导致了自己子女的死亡，他们聚集在加利福尼亚州奥克兰一座联邦法院外，"
+    },
+    {
+      "id": 21,
+      "startMs": 150300,
+      "endMs": 154860,
+      "en": "holding a banner with the names of their sons and daughters.",
+      "zh": "手持写有儿女姓名的横幅。"
+    },
+    {
+      "id": 22,
+      "startMs": 155340,
+      "endMs": 163260,
+      "en": "Emmie didn't want to die. She loved her family, she loved her pets, she loved her frogs, her geckos, and our time at the lake house.",
+      "zh": "Emmie 不想死。她爱自己的家人，爱她的宠物，爱她的青蛙和壁虎，也珍爱我们在湖边别墅共度的时光。"
+    },
+    {
+      "id": 23,
+      "startMs": 163660,
+      "endMs": 174300,
+      "en": "She loved her life. What she could not survive was the hopelessness and the helplessness that was created and amplified by the design choices that Meta put in front of her.",
+      "zh": "她热爱生活。她无法承受的，是 Meta 的设计选择在她面前造成并放大的绝望与无助。"
+    },
+    {
+      "id": 24,
+      "startMs": 174780,
+      "endMs": 180780,
+      "en": "This wasn't an accident. My son did not take his life. My son was killed.",
+      "zh": "这不是意外。我的儿子不是自杀的。我的儿子是被杀害的。"
+    },
+    {
+      "id": 25,
+      "startMs": 181260,
+      "endMs": 191500,
+      "en": "It's a design choice, a company that builds its platforms to maximize a child's engagement, click after click, at the cost of the child's safety.",
+      "zh": "这是设计选择：一家公司打造平台，最大限度地提高孩子的参与度，让他们一次又一次点击，却牺牲了孩子的安全。"
+    },
+    {
+      "id": 26,
+      "startMs": 192420,
+      "endMs": 198100,
+      "en": "But Meta completely denies the allegations, arguing they're unsupported by any evidence.",
+      "zh": "但 Meta 完全否认这些指控，称它们没有任何证据支持。"
+    },
+    {
+      "id": 27,
+      "startMs": 198420,
+      "endMs": 203220,
+      "en": "Our North America Technology Correspondent, Lily Jamali, was in court as the trial began.",
+      "zh": "本台北美科技记者 Lily Jamali 在审判开始时就在法庭现场。"
+    },
+    {
+      "id": 28,
+      "startMs": 203860,
+      "endMs": 206260,
+      "en": "We heard opening statements from both sides.",
+      "zh": "我们听取了双方的开庭陈述。"
+    },
+    {
+      "id": 29,
+      "startMs": 206260,
+      "endMs": 212100,
+      "en": "An attorney for the state of California opened saying that Meta hid the truth about how addictive its platforms are.",
+      "zh": "加利福尼亚州的律师在开庭陈述中说，Meta 隐瞒了其平台有多么容易让人上瘾的真相。"
+    },
+    {
+      "id": 30,
+      "startMs": 212420,
+      "endMs": 220020,
+      "en": "She tried to show that by drawing contrast between what Meta executives have said about how safe Instagram and Facebook are in public,",
+      "zh": "她试图通过对比来证明这一点：Meta 高管公开宣称 Instagram 和 Facebook 多么安全，"
+    },
+    {
+      "id": 31,
+      "startMs": 220340,
+      "endMs": 226420,
+      "en": "and what internal documents show about what they knew about the actual user experience.",
+      "zh": "而内部文件显示他们其实知道用户的真实体验。"
+    },
+    {
+      "id": 32,
+      "startMs": 226500,
+      "endMs": 233060,
+      "en": "Surveys showing, for example, a quarter of users as young as 13 experiencing bullying, seeing nudity and violence.",
+      "zh": "例如，调查显示，年仅 13 岁的用户中有四分之一遭遇过欺凌，看到过裸露和暴力内容。"
+    },
+    {
+      "id": 33,
+      "startMs": 233620,
+      "endMs": 238740,
+      "en": "Meta, by contrast, said it's been very transparent, that they've used their own research to make changes,",
+      "zh": "相比之下，Meta 表示自己一直非常透明，也利用自身研究作出改变，"
+    },
+    {
+      "id": 34,
+      "startMs": 238740,
+      "endMs": 242740,
+      "en": "built tools aimed at helping with things like time management on the platform.",
+      "zh": "开发了旨在帮助用户管理平台使用时间等方面的工具。"
+    },
+    {
+      "id": 35,
+      "startMs": 243140,
+      "endMs": 252340,
+      "en": "You could also see Meta's lawyer trying to sort of preemptively soften the impact of language in emails among Meta employees that jurors are going to see later in the trial.",
+      "zh": "你还可以看到，Meta 的律师试图提前缓和 Meta 内部员工邮件中一些措辞的影响，陪审员将在审判后期看到这些邮件。"
+    },
+    {
+      "id": 36,
+      "startMs": 253080,
+      "endMs": 256840,
+      "en": "And what would it mean if Meta were to lose this trial?",
+      "zh": "如果 Meta 输掉这场审判，会意味着什么？"
+    },
+    {
+      "id": 37,
+      "startMs": 257320,
+      "endMs": 261560,
+      "en": "It would mean that they could face significant financial penalties.",
+      "zh": "这意味着他们可能面临巨额经济处罚。"
+    },
+    {
+      "id": 38,
+      "startMs": 261640,
+      "endMs": 269560,
+      "en": "The Attorney General of California made clear at a news conference today that they will be asking for exactly that, significant payment.",
+      "zh": "加利福尼亚州检察长今天在新闻发布会上明确表示，他们将要求支付这笔巨额款项。"
+    },
+    {
+      "id": 39,
+      "startMs": 270040,
+      "endMs": 281800,
+      "en": "But the AGs are, the attorneys general, I should say, are not being terribly forthright about what that number will be. I think they think it's a little early to get into numbers.",
+      "zh": "不过，各州检察长——应该说是各州总检察长——并没有非常坦率地说明金额会是多少。我想，他们认为现在谈具体数字还为时过早。"
+    },
+    {
+      "id": 40,
+      "startMs": 282280,
+      "endMs": 288520,
+      "en": "Bigger picture, what they want—and they've been very clear about this—is that they want to see major changes to Meta's business model",
+      "zh": "更大的层面上，他们想要的是——对此他们一直说得很清楚——看到 Meta 改变商业模式，"
+    },
+    {
+      "id": 41,
+      "startMs": 288840,
+      "endMs": 295240,
+      "en": "and an end, or a curtailing, of what states say are these addictive features that are",
+      "zh": "终止或限制各州所称的这些成瘾性功能，这些功能"
+    },
+    {
+      "id": 42,
+      "startMs": 295240,
+      "endMs": 300600,
+      "en": "all about addicting young users and their telling of things, whether that's infinite scroll or push notifications.",
+      "zh": "旨在让年轻用户上瘾，包括无限滚动或推送通知。"
+    },
+    {
+      "id": 43,
+      "startMs": 300920,
+      "endMs": 304440,
+      "en": "And are we likely to hear from Meta's chief executive, Mark Zuckerberg?",
+      "zh": "我们有可能听到 Meta 首席执行官马克·扎克伯格的证词吗？"
+    },
+    {
+      "id": 44,
+      "startMs": 304840,
+      "endMs": 314460,
+      "en": "I pressed Attorney General Rob Bonta on that very question today. He wouldn't say. He said the answer to that is unknown and that he doesn't have a personal preference.",
+      "zh": "今天我就这个问题追问了加州总检察长罗布·邦塔。他不愿透露。他说答案尚不清楚，而且他个人没有偏好。"
+    },
+    {
+      "id": 45,
+      "startMs": 314460,
+      "endMs": 321820,
+      "en": "Meta lawyers indicated during opening statements today that Mark Zuckerberg would testify. He is a well-known figure.",
+      "zh": "Meta 的律师今天在开庭陈述中表示，马克·扎克伯格将出庭作证。他是一个广为人知的人物。"
+    },
+    {
+      "id": 46,
+      "startMs": 321980,
+      "endMs": 329580,
+      "en": "If he takes the stand, I think we get into issues of, you know, how he strikes jurors in terms of credibility and likability.",
+      "zh": "如果他出庭作证，我想我们会谈到陪审员如何看待他的可信度和亲和力之类的问题。"
+    },
+    {
+      "id": 47,
+      "startMs": 329820,
+      "endMs": 333180,
+      "en": "But jurors have been asked to leave any preconceived opinions at the door.",
+      "zh": "但陪审员已被要求把任何先入为主的看法留在法庭之外。"
+    },
+    {
+      "id": 48,
+      "startMs": 333580,
+      "endMs": 338300,
+      "en": "And Lily, just tell us what we're expecting to unfold over the coming weeks with this trial.",
+      "zh": "莉莉，请告诉我们，预计这场审判在未来几周会如何展开。"
+    },
+    {
+      "id": 49,
+      "startMs": 339340,
+      "endMs": 347340,
+      "en": "We're expecting six weeks at least of testimony. We're going to hear from some company executives, we're almost certain of that.",
+      "zh": "预计至少会有六周的证词陈述。我们几乎可以确定会听取一些公司高管的证词。"
+    },
+    {
+      "id": 50,
+      "startMs": 347420,
+      "endMs": 354940,
+      "en": "We've already started hearing from a Meta whistleblower, somebody who was at the company, left and came back",
+      "zh": "我们已经开始听取一名 Meta 举报人的证词。他曾在公司工作，后来离开又回来，"
+    },
+    {
+      "id": 51,
+      "startMs": 354940,
+      "endMs": 362860,
+      "en": "because of what he was witnessing with Instagram in his own kids' lives, and said that he flagged a number of concerns to no avail.",
+      "zh": "是因为他亲眼看到 Instagram 对自己孩子生活造成的影响；他说自己提出了许多担忧，却没有得到任何回应。"
+    },
+    {
+      "id": 52,
+      "startMs": 363180,
+      "endMs": 367900,
+      "en": "And we're talking about very high-level executives in the company who, according to him, were made aware.",
+      "zh": "据他所说，得知这些情况的是公司非常高层的管理人员。"
+    },
+    {
+      "id": 53,
+      "startMs": 368620,
+      "endMs": 379740,
+      "en": "The jury in this case is going to try and render a verdict, but that verdict will be just advisory. Ultimately, the final outcome rests with the judge in this case. Lily Jamali.",
+      "zh": "本案陪审团将尝试作出裁决，但这份裁决仅具有咨询性质。最终结果取决于本案法官。莉莉·贾迈勒报道。"
+    },
+    {
+      "id": 54,
+      "startMs": 380680,
+      "endMs": 388360,
+      "en": "The United States has imposed sanctions on the International Criminal Court's president and a senior trial lawyer at the ICC,",
+      "zh": "美国已对国际刑事法院院长以及该法院的一名高级审判律师实施制裁，"
+    },
+    {
+      "id": 55,
+      "startMs": 388600,
+      "endMs": 393160,
+      "en": "who's part of a prosecution team that has sought an arrest warrant for Israel's prime minister.",
+      "zh": "这名律师属于曾寻求对以色列总理发出逮捕令的检方团队。"
+    },
+    {
+      "id": 56,
+      "startMs": 393800,
+      "endMs": 404520,
+      "en": "The new sanctions were unveiled by the Secretary of State, Marco Rubio, who says the court is a threat to America's national sovereignty. The US is not a member of the court.",
+      "zh": "国务卿马可·卢比奥公布了这项新制裁。他说，该法院威胁到美国的国家主权。美国不是该法院的成员。"
+    },
+    {
+      "id": 57,
+      "startMs": 405160,
+      "endMs": 410280,
+      "en": "Mr Rubio published a statement on X, which has been voiced by one of our producers.",
+      "zh": "卢比奥在 X 上发表了一份声明，下面由我们的一位制片人代为播读。"
+    },
+    {
+      "id": 58,
+      "startMs": 410920,
+      "endMs": 422760,
+      "en": "The Trump administration is sanctioning ICC President Tomoko Akane and senior trial lawyer Abdoulaye Seye in our unwavering mission to protect Americans from this sham of a court.",
+      "zh": "特朗普政府正在制裁国际刑事法院院长赤根智子和高级审判律师阿卜杜拉耶·塞耶，这是我们坚定不移地保护美国人免受这个所谓法院侵害的使命的一部分。"
+    },
+    {
+      "id": 59,
+      "startMs": 423240,
+      "endMs": 431320,
+      "en": "In honour of our Declaration of Independence, Americans will never be transported beyond seas to be tried for pretended offences.",
+      "zh": "根据我们的《独立宣言》，美国人永远不会被押送到海外，因所谓的罪行受审。"
+    },
+    {
+      "id": 60,
+      "startMs": 432220,
+      "endMs": 439260,
+      "en": "The ICC was set up more than 20 years ago to investigate war crimes, genocide and crimes against humanity.",
+      "zh": "国际刑事法院成立于 20 多年前，旨在调查战争罪、种族灭绝罪和危害人类罪。"
+    },
+    {
+      "id": 61,
+      "startMs": 439740,
+      "endMs": 445980,
+      "en": "Our State Department correspondent, Tom Bateman, told us what the US was hoping to achieve by imposing sanctions on it.",
+      "zh": "我们的国务院记者汤姆·贝特曼告诉我们，美国希望通过制裁该法院实现什么目的。"
+    },
+    {
+      "id": 62,
+      "startMs": 446540,
+      "endMs": 454620,
+      "en": "This move is the latest escalation by the Trump administration to, in the words of Marco Rubio, the Secretary of State, dismantle",
+      "zh": "此举是特朗普政府采取的最新升级行动。用国务卿马可·卢比奥的话说，就是要拆解"
+    },
+    {
+      "id": 63,
+      "startMs": 454860,
+      "endMs": 458220,
+      "en": "the International Criminal Court. He says, brick by brick.",
+      "zh": "国际刑事法院。他说，要一砖一瓦地拆解。"
+    },
+    {
+      "id": 64,
+      "startMs": 458700,
+      "endMs": 469340,
+      "en": "We've already seen in this term the Trump administration dish out sanctions on at least eleven officials at the International Criminal Court. That included judges and prosecutors,",
+      "zh": "在本届任期内，我们已经看到特朗普政府对国际刑事法院至少 11 名官员实施制裁，其中包括法官和检察官，"
+    },
+    {
+      "id": 65,
+      "startMs": 469500,
+      "endMs": 474540,
+      "en": "and now you have these two top officials, the president and the senior trial lawyer at the court.",
+      "zh": "现在又轮到该法院的两名最高层官员——院长和高级审判律师。"
+    },
+    {
+      "id": 66,
+      "startMs": 475180,
+      "endMs": 484860,
+      "en": "That has come alongside a political campaign, a diplomatic campaign by the US State Department under Mr Rubio to try to pressure countries that belong to the court.",
+      "zh": "与此同时，卢比奥领导下的美国国务院还展开了政治和外交行动，试图向国际刑事法院的成员国施压。"
+    },
+    {
+      "id": 67,
+      "startMs": 484860,
+      "endMs": 487580,
+      "en": "There are more than 120 of those to withdraw from it.",
+      "zh": "这样的国家有 120 多个，美国希望它们退出该法院。"
+    },
+    {
+      "id": 68,
+      "startMs": 487740,
+      "endMs": 495520,
+      "en": "And I think, you know, what you see there is an attempt by the Trump administration to pull the rug out from the system of international law",
+      "zh": "我认为，你看到的是特朗普政府试图抽走国际法体系的根基，"
+    },
+    {
+      "id": 69,
+      "startMs": 495680,
+      "endMs": 501280,
+      "en": "of big multilateral international institutions, to try to replace it with a system really where",
+      "zh": "以及大型多边国际机构的根基，代之以一种体系，让"
+    },
+    {
+      "id": 70,
+      "startMs": 501360,
+      "endMs": 506800,
+      "en": "big, powerful countries become the kind of big beasts of the international order and call the shots.",
+      "zh": "强大的大国成为国际秩序中的“巨兽”并发号施令。"
+    },
+    {
+      "id": 71,
+      "startMs": 507200,
+      "endMs": 516320,
+      "en": "What has particularly irked the Trump administration is twofold. Some of it dates back to Mr Trump's first term, when he equally had disdain for the International Criminal Court.",
+      "zh": "尤其令特朗普政府恼火的有两点。其中一些可以追溯到特朗普第一任期，当时他同样鄙视国际刑事法院。"
+    },
+    {
+      "id": 72,
+      "startMs": 516560,
+      "endMs": 527760,
+      "en": "There was an investigation by the ICC into US personnel in Afghanistan, which the administrations, both Democrat and Republican, actually adamantly opposed and rejected.",
+      "zh": "国际刑事法院曾调查美国人员在阿富汗的行为，民主党和共和党政府都坚决反对并拒绝接受这项调查。"
+    },
+    {
+      "id": 73,
+      "startMs": 528160,
+      "endMs": 538320,
+      "en": "But then it was the issuing of arrest warrants by the ICC against senior Israeli officials, including Prime Minister Benjamin Netanyahu, for alleged war crimes in Gaza,",
+      "zh": "但后来，国际刑事法院以涉嫌在加沙犯下战争罪为由，对包括总理本雅明·内塔尼亚胡在内的以色列高级官员发出逮捕令，"
+    },
+    {
+      "id": 74,
+      "startMs": 538720,
+      "endMs": 546480,
+      "en": "that the Americans have fiercely opposed and rejected, and that is why they're continuing this escalating campaign against the court.",
+      "zh": "美国对此强烈反对并拒绝接受，这就是美国继续对该法院展开升级行动的原因。"
+    },
+    {
+      "id": 75,
+      "startMs": 546720,
+      "endMs": 552580,
+      "en": "Now, fairly unusually, there has been quite a strongly worded response from the court itself about all this,",
+      "zh": "现在，颇为罕见的是，该法院本身对此发表了措辞相当强硬的回应，"
+    },
+    {
+      "id": 76,
+      "startMs": 552580,
+      "endMs": 558340,
+      "en": "saying these kind of sanctions by states have the effect of undermining the international rule of law.",
+      "zh": "称各国实施的这类制裁会削弱国际法治。"
+    },
+    {
+      "id": 77,
+      "startMs": 559320,
+      "endMs": 567640,
+      "en": "The head of the World Health Organization has warned that the Ebola virus outbreak in the Democratic Republic of Congo,",
+      "zh": "世界卫生组织负责人警告说，刚果民主共和国暴发的埃博拉病毒疫情，"
+    },
+    {
+      "id": 78,
+      "startMs": 567720,
+      "endMs": 573080,
+      "en": "one of the largest ever reported in the country, is still far from being under control.",
+      "zh": "是该国有记录以来规模最大的疫情之一，目前仍远未得到控制。"
+    },
+    {
+      "id": 79,
+      "startMs": 573640,
+      "endMs": 584040,
+      "en": "Doctor Tedros Adhanom Ghebreyesus told the organization's Emergency Committee that the disease is spreading at an unprecedented rate and remains an international threat.",
+      "zh": "谭德塞博士告诉世卫组织紧急委员会，这种疾病正以空前的速度传播，仍然构成国际威胁。"
+    },
+    {
+      "id": 80,
+      "startMs": 584900,
+      "endMs": 592340,
+      "en": "Over 5,000 people have been infected and more than 2,300 have died since the outbreak was declared.",
+      "zh": "自疫情宣布暴发以来，已有超过 5,000 人感染，超过 2,300 人死亡。"
+    },
+    {
+      "id": 81,
+      "startMs": 592900,
+      "endMs": 600580,
+      "en": "Heather Kerr, who leads the International Rescue Committee in the DRC, says there are several reasons why the disease is continuing to spread.",
+      "zh": "国际救援委员会刚果民主共和国负责人希瑟·克尔说，这种疾病持续传播有几个原因。"
+    },
+    {
+      "id": 82,
+      "startMs": 601300,
+      "endMs": 611860,
+      "en": "It's heading to be probably the biggest Ebola outbreak ever, and it's already outstripped the 2018–2020 outbreak here in DRC.",
+      "zh": "这场疫情很可能将成为有史以来最大的埃博拉疫情，而且已经超过了刚果（金）2018 至 2020 年的那次疫情。"
+    },
+    {
+      "id": 83,
+      "startMs": 612180,
+      "endMs": 617620,
+      "en": "And part of the problem is that whilst it was declared on the 15th of May,",
+      "zh": "问题的一部分在于，尽管疫情是在5月15日宣布的，"
+    },
+    {
+      "id": 84,
+      "startMs": 618500,
+      "endMs": 626100,
+      "en": "research now and various investigations seem to say that the outbreak started way back in February.",
+      "zh": "如今的研究和各种调查似乎表明，疫情早在2月就已经开始了。"
+    },
+    {
+      "id": 85,
+      "startMs": 626500,
+      "endMs": 631620,
+      "en": "So we've been behind the curve all the time and we're playing catch-up.",
+      "zh": "所以我们一直落后于疫情发展，现在正在努力追赶。"
+    },
+    {
+      "id": 86,
+      "startMs": 631860,
+      "endMs": 637700,
+      "en": "The main issue here is really the work in the community and getting the trust of the community.",
+      "zh": "这里的主要问题确实是深入社区开展工作，并取得社区的信任。"
+    },
+    {
+      "id": 87,
+      "startMs": 638020,
+      "endMs": 642980,
+      "en": "And until we really get this, it's going to be difficult to slow down the outbreak.",
+      "zh": "在真正做到这一点之前，疫情很难得到遏制。"
+    },
+    {
+      "id": 88,
+      "startMs": 643880,
+      "endMs": 652040,
+      "en": "Well, earlier this month, the World Health Organization said that reversing Ebola's spread would be possible within a three-month period.",
+      "zh": "本月早些时候，世界卫生组织表示，有可能在三个月内扭转埃博拉的传播趋势。"
+    },
+    {
+      "id": 89,
+      "startMs": 652760,
+      "endMs": 658280,
+      "en": "Ankur Desai asked our Africa correspondent Thomas Naadi whether this was still the case.",
+      "zh": "安库尔·德赛询问我们的非洲记者托马斯·纳迪，情况是否仍然如此。"
+    },
+    {
+      "id": 90,
+      "startMs": 658840,
+      "endMs": 663480,
+      "en": "If the Director-General's speech to the committee is anything to go by,",
+      "zh": "如果以总干事对委员会的讲话为判断依据，"
+    },
+    {
+      "id": 91,
+      "startMs": 663480,
+      "endMs": 665240,
+      "en": "this is not looking good at all.",
+      "zh": "情况一点也不乐观。"
+    },
+    {
+      "id": 92,
+      "startMs": 665320,
+      "endMs": 668600,
+      "en": "They're saying that it's not close to being under control.",
+      "zh": "他们说，疫情远未得到控制。"
+    },
+    {
+      "id": 93,
+      "startMs": 669240,
+      "endMs": 671240,
+      "en": "This is mostly because of resources.",
+      "zh": "这主要是资源不足造成的。"
+    },
+    {
+      "id": 94,
+      "startMs": 671240,
+      "endMs": 674280,
+      "en": "The outbreak is happening in a country that is struggling with a lot of insecurity,",
+      "zh": "疫情发生在一个饱受安全局势不稳困扰的国家，"
+    },
+    {
+      "id": 95,
+      "startMs": 674520,
+      "endMs": 679720,
+      "en": "and on top of that, terrible transport systems and a health system that is still struggling.",
+      "zh": "此外，交通系统糟糕，医疗系统也仍然举步维艰。"
+    },
+    {
+      "id": 96,
+      "startMs": 679720,
+      "endMs": 683400,
+      "en": "And they're also dealing with multiple outbreaks, including measles and cholera.",
+      "zh": "他们还同时应对多种疫情，包括麻疹和霍乱。"
+    },
+    {
+      "id": 97,
+      "startMs": 683960,
+      "endMs": 686520,
+      "en": "So there's a bunch of things that you're dealing with at the same time.",
+      "zh": "所以他们要同时处理很多事情。"
+    },
+    {
+      "id": 98,
+      "startMs": 686840,
+      "endMs": 691720,
+      "en": "Have they been able to contain it in the DRC, or has it spread to any of the other neighbouring countries?",
+      "zh": "他们能否在刚果民主共和国境内控制疫情，还是疫情已经传播到了其他邻国？"
+    },
+    {
+      "id": 99,
+      "startMs": 691880,
+      "endMs": 701560,
+      "en": "It did spread to Uganda earlier on and there were around 20 cases, but Uganda declared itself Ebola-free around three weeks ago and they haven't recorded a single case since.",
+      "zh": "疫情早些时候确实传播到了乌干达，当时约有20个病例，但乌干达大约三周前宣布已无埃博拉病例，此后一个病例也没有记录。"
+    },
+    {
+      "id": 100,
+      "startMs": 701640,
+      "endMs": 703320,
+      "en": "And Uganda was the only country.",
+      "zh": "乌干达是唯一一个这样的国家。"
+    },
+    {
+      "id": 101,
+      "startMs": 703820,
+      "endMs": 711020,
+      "en": "Within this region, to have recorded an Ebola case outside of DR Congo, but then that's not to say that no other country has recorded a case.",
+      "zh": "在这个地区，乌干达是刚果民主共和国以外唯一记录过埃博拉病例的国家，但这并不意味着其他国家没有记录过病例。"
+    },
+    {
+      "id": 102,
+      "startMs": 711020,
+      "endMs": 717740,
+      "en": "A case was recorded in France, and cases of Americans who were working in DRC but went back home were also recorded.",
+      "zh": "法国曾记录过一例病例，在刚果民主共和国工作的美国人回国后也记录过病例。"
+    },
+    {
+      "id": 103,
+      "startMs": 718300,
+      "endMs": 721820,
+      "en": "But so far no other case has been detected outside the epicenter.",
+      "zh": "但到目前为止，震中以外没有发现其他病例。"
+    },
+    {
+      "id": 104,
+      "startMs": 722380,
+      "endMs": 729100,
+      "en": "Thomas, containing the virus is obviously a challenge, and developing vaccines as well for the disease is obviously difficult.",
+      "zh": "托马斯，控制病毒显然是一项挑战，为这种疾病研发疫苗也显然很困难。"
+    },
+    {
+      "id": 105,
+      "startMs": 729100,
+      "endMs": 733740,
+      "en": "What's the latest on that, and are the DRC able to get any aid and help?",
+      "zh": "这方面的最新进展如何，刚果民主共和国能得到援助和帮助吗？"
+    },
+    {
+      "id": 106,
+      "startMs": 734220,
+      "endMs": 742220,
+      "en": "Yes, the US just announced that it's sending hundreds of millions in donations to the Democratic Republic of Congo to help in the Ebola response.",
+      "zh": "是的，美国刚刚宣布将向刚果民主共和国捐赠数亿美元，用于应对埃博拉疫情。"
+    },
+    {
+      "id": 107,
+      "startMs": 742220,
+      "endMs": 747900,
+      "en": "So that's something good, and countries within the EU have also sent money to beef up the response.",
+      "zh": "这是一件好事，欧盟成员国也出资加强应对工作。"
+    },
+    {
+      "id": 108,
+      "startMs": 748460,
+      "endMs": 756940,
+      "en": "Two vaccines have entered human trials. That brings the number of total vaccines that will be in circulation to fight against the Ebola outbreak to around three,",
+      "zh": "两种疫苗已经进入人体试验阶段。这使得投入使用、用于抗击埃博拉疫情的疫苗总数达到约三种，"
+    },
+    {
+      "id": 109,
+      "startMs": 757100,
+      "endMs": 763740,
+      "en": "because apart from those two that have entered human trials, one specific vaccine that was specifically",
+      "zh": "因为除了进入人体试验的两种疫苗外，还有一种专门针对特定目标的疫苗，专门"
+    },
+    {
+      "id": 110,
+      "startMs": 763760,
+      "endMs": 773360,
+      "en": "designed against the Zaire strain. You'll remember that the current outbreak is not caused by the most prevalent strain; it's caused by a rare one called Bundibugyo.",
+      "zh": "用于对抗扎伊尔毒株。大家应该记得，目前的疫情并非由最常见的毒株引起，而是由一种名为Bundibugyo的罕见毒株引起。"
+    },
+    {
+      "id": 111,
+      "startMs": 774000,
+      "endMs": 784720,
+      "en": "So, the original vaccine was against the Zaire strain, and 2,000 doses of those have been sent to regions in the DRC because they've shown some success against this strain.",
+      "zh": "所以，最初的疫苗针对的是扎伊尔毒株，已有2000剂被送往刚果民主共和国的相关地区，因为它们在对抗这种毒株方面已显示出一定成效。"
+    },
+    {
+      "id": 112,
+      "startMs": 785200,
+      "endMs": 790080,
+      "en": "And this means that vaccines could be within the Democratic Republic of Congo soon.",
+      "zh": "这意味着疫苗很快就可能在刚果民主共和国境内投入使用。"
+    },
+    {
+      "id": 113,
+      "startMs": 790080,
+      "endMs": 797200,
+      "en": "But you remember the WHO said it would take around three months, and that's exactly what we are seeing here. Thomas Naadi.",
+      "zh": "但大家记得，世卫组织曾说这需要大约三个月，而我们现在看到的正是这一情况。以上是托马斯·纳迪的报道。"
+    },
+    {
+      "id": 114,
+      "startMs": 798480,
+      "endMs": 807920,
+      "en": "Could tree shrews, tiny mammals that are native to South and Southeast Asia, help us find a way to correct shortsightedness or myopia in humans?",
+      "zh": "树鼩这种原产于南亚和东南亚的小型哺乳动物，能否帮助我们找到矫正人类近视的方法？"
+    },
+    {
+      "id": 115,
+      "startMs": 808400,
+      "endMs": 811680,
+      "en": "Well, newly published research suggests that maybe they can.",
+      "zh": "新近发表的研究表明，它们或许可以。"
+    },
+    {
+      "id": 116,
+      "startMs": 812240,
+      "endMs": 817760,
+      "en": "The study by scientists in the US found that a colour-based therapy could help correct myopia.",
+      "zh": "美国科学家开展的这项研究发现，基于颜色的疗法可能有助于矫正近视。"
+    },
+    {
+      "id": 117,
+      "startMs": 818320,
+      "endMs": 822320,
+      "en": "Professor Richard Lang co-wrote the paper, which has just been published.",
+      "zh": "理查德·朗教授是这篇刚刚发表的论文的共同作者。"
+    },
+    {
+      "id": 118,
+      "startMs": 822960,
+      "endMs": 827200,
+      "en": "Tim Franks asked him why they'd picked tree shrews for their study.",
+      "zh": "蒂姆·弗兰克斯问他，为什么他们选择树鼩进行研究。"
+    },
+    {
+      "id": 119,
+      "startMs": 827760,
+      "endMs": 832080,
+      "en": "Because tree shrews are a really good model for the human visual system.",
+      "zh": "因为树鼩是研究人类视觉系统的非常理想的模型。"
+    },
+    {
+      "id": 120,
+      "startMs": 832400,
+      "endMs": 840400,
+      "en": "A lot of the work that I do is focused on mice, but their visual system is sufficiently different that it doesn't always work very well as a model for the human eye.",
+      "zh": "我的很多工作都聚焦于小鼠，但它们的视觉系统与人类差异足够大，因此并不总是适合作为人眼的模型。"
+    },
+    {
+      "id": 121,
+      "startMs": 840960,
+      "endMs": 847840,
+      "en": "So my colleague at University of Alabama Birmingham, Rafael Grytz, has a colony of tree shrews.",
+      "zh": "所以，我在阿拉巴马大学伯明翰分校的同事拉斐尔·格里茨饲养着一群树鼩。"
+    },
+    {
+      "id": 122,
+      "startMs": 847840,
+      "endMs": 853840,
+      "en": "And a long time back we got talking about using those animals for the study that's currently being published.",
+      "zh": "很久以前，我们开始讨论用这些动物开展目前正在发表的这项研究。"
+    },
+    {
+      "id": 123,
+      "startMs": 854000,
+      "endMs": 857040,
+      "en": "So their eyes are more similar to humans.",
+      "zh": "所以它们的眼睛与人类的更相似。"
+    },
+    {
+      "id": 124,
+      "startMs": 857200,
+      "endMs": 863600,
+      "en": "I'm intrigued. How do you actually make a tree shrew shortsighted? It sounds like the start of a joke, but tell me.",
+      "zh": "我很好奇。你究竟是如何让树鼩近视的？这听起来像一个笑话的开头，不过还是请告诉我。"
+    },
+    {
+      "id": 125,
+      "startMs": 864960,
+      "endMs": 872560,
+      "en": "So you give them spectacles, one lens of which for one eye projects the images that are coming into their eye behind the retina,",
+      "zh": "你会给它们戴上眼镜，其中一只眼睛的镜片会把进入眼睛的图像投射到视网膜后方，"
+    },
+    {
+      "id": 126,
+      "startMs": 873200,
+      "endMs": 877120,
+      "en": "and so the eye is able to respond by growing too long.",
+      "zh": "于是眼睛会通过过度生长来作出反应。"
+    },
+    {
+      "id": 127,
+      "startMs": 877600,
+      "endMs": 881680,
+      "en": "It's that long axis that is the fundamental problem with myopia.",
+      "zh": "正是眼轴过长构成了近视的根本问题。"
+    },
+    {
+      "id": 128,
+      "startMs": 882000,
+      "endMs": 889760,
+      "en": "So you basically use instruments that are very similar to those that are used in humans for testing the refractive power of the tree shrew eye.",
+      "zh": "所以，基本上你会使用与人类检查屈光力时非常相似的仪器，来检测树鼩眼睛的屈光力。"
+    },
+    {
+      "id": 129,
+      "startMs": 889840,
+      "endMs": 892880,
+      "en": "This is actually one of Rafael Grytz's expertises.",
+      "zh": "这其实是拉斐尔·格里茨的专长之一。"
+    },
+    {
+      "id": 130,
+      "startMs": 893200,
+      "endMs": 902640,
+      "en": "So it's been known for a long, long time in model animals that light determines whether the eye reaches this perfect focus condition.",
+      "zh": "所以，人们很久很久以来就知道，在模型动物中，光线决定眼睛能否达到这种完美的聚焦状态。"
+    },
+    {
+      "id": 131,
+      "startMs": 902720,
+      "endMs": 911360,
+      "en": "So, as the eye is growing, it goes through this complex growth regulation process that ensures that images are focused exactly on the retina.",
+      "zh": "所以，随着眼睛发育，它会经历复杂的生长调节过程，确保图像恰好聚焦在视网膜上。"
+    },
+    {
+      "id": 132,
+      "startMs": 912220,
+      "endMs": 915500,
+      "en": "And it's that process that goes awry when you get myopia.",
+      "zh": "而近视发生时，正是这个过程出了问题。"
+    },
+    {
+      "id": 133,
+      "startMs": 915980,
+      "endMs": 921340,
+      "en": "Now, what the epidemiology world has shown us recently is that that's probably also true in humans.",
+      "zh": "最近，流行病学界的研究表明，这一点在人类身上可能也成立。"
+    },
+    {
+      "id": 134,
+      "startMs": 921820,
+      "endMs": 926940,
+      "en": "So, if someone spends a lot of time outside, they are protected against getting myopia.",
+      "zh": "所以，如果一个人经常待在户外，就能受到保护，不容易近视。"
+    },
+    {
+      "id": 135,
+      "startMs": 927180,
+      "endMs": 931260,
+      "en": "If they spend a lot of time inside, they'll have a higher risk of getting myopia.",
+      "zh": "如果经常待在室内，近视风险就会更高。"
+    },
+    {
+      "id": 136,
+      "startMs": 932060,
+      "endMs": 936700,
+      "en": "And so it's consistent with this idea that light regulates the way the eye develops.",
+      "zh": "因此，这与光线调节眼睛发育这一观点是一致的。"
+    },
+    {
+      "id": 137,
+      "startMs": 936940,
+      "endMs": 947420,
+      "en": "And am I right in saying that one of your discoveries is that the light that regulates how mice see, that's very different to the tree shrew?",
+      "zh": "我这样说对吗：你们的发现之一是，调节老鼠视觉的光线，与调节树鼩视觉的光线非常不同？"
+    },
+    {
+      "id": 138,
+      "startMs": 947980,
+      "endMs": 953500,
+      "en": "Yeah, there's this fundamental difference in what we discovered in mouse experiments and then the tree shrew experiments.",
+      "zh": "是的，我们在老鼠实验和树鼩实验中发现了一个根本差异。"
+    },
+    {
+      "id": 139,
+      "startMs": 954060,
+      "endMs": 963660,
+      "en": "In the mouse, we actually showed that the crucial wavelength of light as a supplementation for preventing myopia was actually in the UVA, ultraviolet A band.",
+      "zh": "在老鼠实验中，我们确实证明，用来辅助预防近视的关键光波长，实际上处于 UVA，也就是紫外线 A 波段。"
+    },
+    {
+      "id": 140,
+      "startMs": 964220,
+      "endMs": 970940,
+      "en": "And in the tree shrew, we showed it went the other direction, that the important supplemental light was in the indigo, which is a very deep blue colour.",
+      "zh": "而在树鼩实验中，我们发现方向相反，重要的补充光线是靛蓝光，也就是非常深的蓝色。"
+    },
+    {
+      "id": 141,
+      "startMs": 971180,
+      "endMs": 978080,
+      "en": "That distinction's important. So, if we were willing to live outside again, no one would have myopia, most likely.",
+      "zh": "这个区别很重要。所以，如果我们愿意再次生活在户外，很可能就不会有人近视。"
+    },
+    {
+      "id": 142,
+      "startMs": 978720,
+      "endMs": 986000,
+      "en": "But the way to get around this, since we all want to live inside, is to provide a form of lighting with this supplemental wavelength.",
+      "zh": "但既然我们都想待在室内，解决办法就是提供含有这种补充波长的照明。"
+    },
+    {
+      "id": 143,
+      "startMs": 986980,
+      "endMs": 994900,
+      "en": "These technologies will be developed over the next few years, and I think before too long we'll see light-emitting devices, including lighting,",
+      "zh": "未来几年将开发出这些技术。我想，用不了太久，我们就会看到发光设备，包括照明设备，"
+    },
+    {
+      "id": 144,
+      "startMs": 995140,
+      "endMs": 998740,
+      "en": "that have been carefully tested and we know will function in preventing myopia.",
+      "zh": "这些设备经过仔细测试，已知能够预防近视。"
+    },
+    {
+      "id": 145,
+      "startMs": 999760,
+      "endMs": 1005600,
+      "en": "Professor Richard Lang of Cincinnati Children's Hospital in Ohio, in the US.",
+      "zh": "美国俄亥俄州辛辛那提儿童医院的理查德·朗教授。"
+    },
+    {
+      "id": 146,
+      "startMs": 1007700,
+      "endMs": 1008980,
+      "en": "Still to come in this podcast...",
+      "zh": "本期播客稍后还有……"
+    },
+    {
+      "id": 147,
+      "startMs": 1009460,
+      "endMs": 1016980,
+      "en": "A girl given the name of the ancient goddess of hunting was, in the end, the most hunted person of the modern age.",
+      "zh": "一个以古代狩猎女神命名的女孩，最终成了现代最受追逐的人。"
+    },
+    {
+      "id": 148,
+      "startMs": 1017780,
+      "endMs": 1025220,
+      "en": "Almost 30 years after that eulogy at her funeral, Princess Diana's brother is to publish a book about her.",
+      "zh": "在她葬礼上的那篇悼词发表近 30 年后，戴安娜王妃的兄弟将出版一本关于她的书。"
+    },
+    {
+      "id": 149,
+      "startMs": 1025220,
+      "endMs": 1027220,
+      "en": "This is the global news podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 150,
+      "startMs": 1027860,
+      "endMs": 1030500,
+      "en": "The mushroom murders case is back in the headlines.",
+      "zh": "蘑菇谋杀案再次登上头条。"
+    },
+    {
+      "id": 151,
+      "startMs": 1030660,
+      "endMs": 1036100,
+      "en": "A year after an Australian woman was found guilty of killing three people and trying to kill a fourth,",
+      "zh": "一名澳大利亚女子因杀害三人并试图杀害第四人而被判有罪；一年后，"
+    },
+    {
+      "id": 152,
+      "startMs": 1036420,
+      "endMs": 1043700,
+      "en": "by serving a Beef Wellington laced with deadly mushrooms, she's returned to court to appeal against her conviction.",
+      "zh": "她用掺有致命蘑菇的惠灵顿牛排实施了这些行为，如今她回到法庭，对定罪提出上诉。"
+    },
+    {
+      "id": 153,
+      "startMs": 1044260,
+      "endMs": 1050660,
+      "en": "Erin Patterson was jailed for life with no possibility of parole for at least 33 years.",
+      "zh": "Erin Patterson 被判终身监禁，至少 33 年不得假释。"
+    },
+    {
+      "id": 154,
+      "startMs": 1051220,
+      "endMs": 1058580,
+      "en": "Her lawyers claim she didn't receive a fair trial, but prosecutors are also appealing, saying her sentence is too lenient.",
+      "zh": "她的律师称她没有得到公平审判，但检方也在上诉，认为刑罚过轻。"
+    },
+    {
+      "id": 155,
+      "startMs": 1059140,
+      "endMs": 1063300,
+      "en": "Our Sydney correspondent Katy Watson has followed this story from the beginning.",
+      "zh": "本台悉尼记者 Katy Watson 从一开始就跟进了这起事件。"
+    },
+    {
+      "id": 156,
+      "startMs": 1063940,
+      "endMs": 1069780,
+      "en": "It was back in July 2023 when Erin Patterson served up a lunch of Beef Wellington",
+      "zh": "事情要追溯到 2023 年 7 月，当时 Erin Patterson 端上了一顿惠灵顿牛排午餐，"
+    },
+    {
+      "id": 157,
+      "startMs": 1070180,
+      "endMs": 1075860,
+      "en": "to her in-laws, Don and Gail Patterson, and Gail's sister Heather Wilkinson, her husband Ian.",
+      "zh": "给她的姻亲 Don 和 Gail Patterson，以及 Gail 的姐姐 Heather Wilkinson 和她的丈夫 Ian。"
+    },
+    {
+      "id": 158,
+      "startMs": 1076100,
+      "endMs": 1084500,
+      "en": "Now, in that Beef Wellington, there were death cap mushrooms, and within days of that lunch, three of the four guests had died.",
+      "zh": "那份惠灵顿牛排中含有死亡帽蘑菇，午餐后几天内，四名客人中有三人死亡。"
+    },
+    {
+      "id": 159,
+      "startMs": 1084760,
+      "endMs": 1090280,
+      "en": "Wilkinson was the only survivor, and he spent a considerable amount of time in a hospital before eventually recovering.",
+      "zh": "Wilkinson 是唯一的幸存者，他在医院住了相当长一段时间，最终康复。"
+    },
+    {
+      "id": 160,
+      "startMs": 1090280,
+      "endMs": 1093640,
+      "en": "Now, in court today, it's a double appeal.",
+      "zh": "今天在法庭上，这是一起双重上诉。"
+    },
+    {
+      "id": 161,
+      "startMs": 1093640,
+      "endMs": 1099560,
+      "en": "Actually, Erin Patterson is appealing her conviction, but the prosecution is appealing her sentence.",
+      "zh": "实际上，Erin Patterson 正在对定罪提出上诉，而检方则在对刑罚提出上诉。"
+    },
+    {
+      "id": 162,
+      "startMs": 1099640,
+      "endMs": 1104520,
+      "en": "They say that it is manifestly inadequate; she should never be released from jail.",
+      "zh": "检方称刑罚明显不足，她永远不应获释。"
+    },
+    {
+      "id": 163,
+      "startMs": 1104920,
+      "endMs": 1114760,
+      "en": "But today, and for a bit of tomorrow, Erin Patterson's team is going through the reasons they think her conviction should be overturned.",
+      "zh": "但今天以及明天的一部分时间里，Erin Patterson 的团队将陈述他们认为应推翻其定罪的理由。"
+    },
+    {
+      "id": 164,
+      "startMs": 1114760,
+      "endMs": 1124240,
+      "en": "She's actually not in court; she's appearing via video link from prison, although Ian Wilkinson, the only survivor, is watching all of this play out.",
+      "zh": "她其实不在法庭上，而是通过视频连线从监狱出庭；唯一的幸存者 Ian Wilkinson 正在观看整个过程。"
+    },
+    {
+      "id": 165,
+      "startMs": 1125120,
+      "endMs": 1129120,
+      "en": "And Katie, just take us through the reasons that she's launched this appeal.",
+      "zh": "Katie，请你介绍一下她提出这次上诉的理由。"
+    },
+    {
+      "id": 166,
+      "startMs": 1130820,
+      "endMs": 1133300,
+      "en": "Yeah, so as I said, there are seven grounds of appeal.",
+      "zh": "好的，正如我所说，共有七项上诉理由。"
+    },
+    {
+      "id": 167,
+      "startMs": 1133300,
+      "endMs": 1138180,
+      "en": "Now, some of that relates to evidence, some relates to the actions of prosecution.",
+      "zh": "其中一些涉及证据，另一些涉及检方的行为。"
+    },
+    {
+      "id": 168,
+      "startMs": 1138180,
+      "endMs": 1144420,
+      "en": "But the first ground that they covered this morning was on the issue of the jury.",
+      "zh": "但他们今天上午讨论的第一项理由，涉及陪审团问题。"
+    },
+    {
+      "id": 169,
+      "startMs": 1145060,
+      "endMs": 1149860,
+      "en": "Erin Patterson argues that the integrity of their verdict was compromised",
+      "zh": "Erin Patterson 认为，陪审团裁决的完整性受到了损害，"
+    },
+    {
+      "id": 170,
+      "startMs": 1149860,
+      "endMs": 1155300,
+      "en": "because you probably remember it was a massive story, there was a huge amount of interest throughout the trial.",
+      "zh": "因为你可能还记得，这起案件曾是轰动新闻，审判期间一直受到极大关注。"
+    },
+    {
+      "id": 171,
+      "startMs": 1155300,
+      "endMs": 1162180,
+      "en": "There was a lot of concern over the jury making sure that their views weren't contaminated by speaking to friends or family or even the media.",
+      "zh": "人们非常担心陪审员的观点会因与朋友、家人甚至媒体交谈而受到影响。"
+    },
+    {
+      "id": 172,
+      "startMs": 1162180,
+      "endMs": 1172260,
+      "en": "So when they started deliberating, they were deliberating in court during the day and then they'd have to go to a local hotel for the nights until they actually came to a decision.",
+      "zh": "所以陪审员开始审议后，白天在法庭内审议，晚上则必须前往当地一家酒店，直到最终作出决定。"
+    },
+    {
+      "id": 173,
+      "startMs": 1172580,
+      "endMs": 1178820,
+      "en": "Now, it happened to be that in the same hotel, there were members of the prosecution, a key witness, as well as some members of the media.",
+      "zh": "当时碰巧的是，同一家酒店里有检方人员、一名关键证人，以及一些媒体成员。"
+    },
+    {
+      "id": 174,
+      "startMs": 1178820,
+      "endMs": 1185380,
+      "en": "So her team are arguing that that has fatally undermined the integrity of the verdict and that it should be declared a mistrial. They're also looking at evidence.",
+      "zh": "所以，她的辩护团队认为，这致命地损害了裁决的公正性，应宣布审判无效。他们还在审查证据。"
+    },
+    {
+      "id": 175,
+      "startMs": 1185540,
+      "endMs": 1190340,
+      "en": "So, for example, evidence that she foraged mushrooms in some woodlands, they say.",
+      "zh": "比如，他们提到的证据包括她曾在一些林地里采蘑菇。"
+    },
+    {
+      "id": 176,
+      "startMs": 1190360,
+      "endMs": 1198840,
+      "en": "That kind of evidence that pinned her to that, which was cell phone evidence, as well as some sightings of death caps on some citizen science website.",
+      "zh": "这类证据把她与那件事联系起来，包括手机证据，以及某个公民科学网站上关于发现死亡帽蘑菇的一些记录。"
+    },
+    {
+      "id": 177,
+      "startMs": 1198840,
+      "endMs": 1204680,
+      "en": "While there was no proof that she had visited that, it was effectively turning kind of nothing into something.",
+      "zh": "但没有证据证明她去过那里，这实际上是把几乎不存在的东西说成了有实质意义的证据。"
+    },
+    {
+      "id": 178,
+      "startMs": 1205000,
+      "endMs": 1214360,
+      "en": "There have been three different grounds so far that they have gone over, and that will continue after lunch and into tomorrow before hearing the prosecution's argument.",
+      "zh": "到目前为止，他们已经审理了三项不同的上诉理由；审理将在午餐后继续，延续到明天，之后才会听取检方的陈词。"
+    },
+    {
+      "id": 179,
+      "startMs": 1214600,
+      "endMs": 1219320,
+      "en": "And as you say, the prosecution are also appealing too; they want a more severe sentence.",
+      "zh": "正如你所说，检方也在提出上诉；他们希望判处更严厉的刑罚。"
+    },
+    {
+      "id": 180,
+      "startMs": 1219640,
+      "endMs": 1222840,
+      "en": "Yeah, so they say that she shouldn't be considered for parole at all.",
+      "zh": "是的，他们说根本不应考虑让她假释。"
+    },
+    {
+      "id": 181,
+      "startMs": 1222920,
+      "endMs": 1227960,
+      "en": "Now, it's worth saying that there won't be an immediate decision on either appeal.",
+      "zh": "值得一提的是，两项上诉都不会立即作出裁决。"
+    },
+    {
+      "id": 182,
+      "startMs": 1227960,
+      "endMs": 1235960,
+      "en": "There are three appeal court judges, and there has to be a consensus or a majority vote, but a decision's not expected for several months now.",
+      "zh": "上诉法院有三名法官，必须达成共识或以多数票表决，但预计要几个月后才会作出决定。"
+    },
+    {
+      "id": 183,
+      "startMs": 1236280,
+      "endMs": 1243640,
+      "en": "If she's successful, then her conviction sentence could be overturned, there could be a retrial, she could apply for bail.",
+      "zh": "如果她上诉成功，她的定罪判决可能被推翻，案件可能重审，她也可能申请保释。"
+    },
+    {
+      "id": 184,
+      "startMs": 1243800,
+      "endMs": 1247560,
+      "en": "But equally, you know, statistically, appeals are more likely to fail than succeed.",
+      "zh": "但同样，你知道，从统计上看，上诉失败的可能性高于成功。"
+    },
+    {
+      "id": 185,
+      "startMs": 1248280,
+      "endMs": 1249080,
+      "en": "Katy Watson.",
+      "zh": "凯蒂·沃森报道。"
+    },
+    {
+      "id": 186,
+      "startMs": 1250020,
+      "endMs": 1258900,
+      "en": "Women involved in an alleged drugging case in France have told the BBC that delays to justice have left them feeling victimised a second time.",
+      "zh": "法国一宗涉嫌下药案的女性当事人告诉 BBC，司法拖延让她们感觉自己再次成为受害者。"
+    },
+    {
+      "id": 187,
+      "startMs": 1259300,
+      "endMs": 1268500,
+      "en": "Christian Nègre, a former senior civil servant, is accused of drugging 248 women during job interviews at the Ministry of Culture.",
+      "zh": "前高级公务员克里斯蒂安·内格尔被指控在文化部的求职面试期间给248名女性下药。"
+    },
+    {
+      "id": 188,
+      "startMs": 1268980,
+      "endMs": 1270580,
+      "en": "Nuala McGovern reports.",
+      "zh": "努阿拉·麦戈文报道。"
+    },
+    {
+      "id": 189,
+      "startMs": 1270580,
+      "endMs": 1275860,
+      "en": "She said, \"Did you know Mr Nègre was conducting an experiment on you?\"",
+      "zh": "她说：“你知道内格尔先生在拿你做实验吗？”"
+    },
+    {
+      "id": 190,
+      "startMs": 1275860,
+      "endMs": 1284100,
+      "en": "This is what a detective asked Marie-Hélène, two years after a job interview with a French government official that took a humiliating turn.",
+      "zh": "这是两年前一场求职面试变得屈辱不堪后，一名侦探问玛丽-埃莱娜的问题；面试对象是一名法国政府官员。"
+    },
+    {
+      "id": 191,
+      "startMs": 1284660,
+      "endMs": 1286900,
+      "en": "I've come down to the canal with Marie-Hélène.",
+      "zh": "我和玛丽-埃莱娜来到运河边。"
+    },
+    {
+      "id": 192,
+      "startMs": 1287300,
+      "endMs": 1296420,
+      "en": "The canal is wide and green, and the leaves of a horse chestnut tree drape down into the water, providing some much-needed shade on this very hot day.",
+      "zh": "运河宽阔而碧绿，一棵七叶树的叶子垂入水中，在这个酷热的日子里提供了急需的阴凉。"
+    },
+    {
+      "id": 193,
+      "startMs": 1297180,
+      "endMs": 1304540,
+      "en": "This beautiful setting, however, is in stark contrast to the dreadful experience that Marie-Hélène went through just close to here.",
+      "zh": "然而，这处美丽的景色与玛丽-埃莱娜就在附近经历的可怕遭遇形成鲜明对比。"
+    },
+    {
+      "id": 194,
+      "startMs": 1305020,
+      "endMs": 1307820,
+      "en": "It was an interview that started quite normally.",
+      "zh": "那场面试开始时相当正常。"
+    },
+    {
+      "id": 195,
+      "startMs": 1308220,
+      "endMs": 1311180,
+      "en": "He suggested that we continue the interview outside while walking.",
+      "zh": "他提议我们边走边在户外继续面试。"
+    },
+    {
+      "id": 196,
+      "startMs": 1311820,
+      "endMs": 1314540,
+      "en": "Quite quickly during this walk, I felt an urge to urinate.",
+      "zh": "走了没多久，我就感到一阵尿意。"
+    },
+    {
+      "id": 197,
+      "startMs": 1314540,
+      "endMs": 1323580,
+      "en": "Police say Christian Nègre spiked her coffee with powerful diuretics, triggering an urgent need to urinate, then led her away from toilets.",
+      "zh": "警方称，克里斯蒂安·内格尔在她的咖啡里掺入强效利尿剂，引发她强烈的尿意，随后把她带离厕所。"
+    },
+    {
+      "id": 198,
+      "startMs": 1323580,
+      "endMs": 1330220,
+      "en": "The urge started to become unbearable to the point that I had tears streaming down my cheeks from pain.",
+      "zh": "尿意逐渐变得难以忍受，我疼得泪水顺着脸颊流下。"
+    },
+    {
+      "id": 199,
+      "startMs": 1330220,
+      "endMs": 1335340,
+      "en": "I couldn't hold back and I urinated on myself, with a terrible feeling of humiliation.",
+      "zh": "我忍不住尿在了身上，感到无比屈辱。"
+    },
+    {
+      "id": 200,
+      "startMs": 1335340,
+      "endMs": 1344300,
+      "en": "For years, she blamed herself, until a detective revealed she was one of nearly 250 women police say Nègre targeted.",
+      "zh": "多年来她一直责怪自己，直到一名侦探告诉她，警方称她是内格尔针对的近250名女性之一。"
+    },
+    {
+      "id": 201,
+      "startMs": 1344380,
+      "endMs": 1353740,
+      "en": "They found an Excel table on his computer, which was called Experiments P, in which he noted the time the medication was administered,",
+      "zh": "他们在他的电脑上发现了一张名为“实验P”的 Excel 表格，记录了用药时间，"
+    },
+    {
+      "id": 202,
+      "startMs": 1354140,
+      "endMs": 1356860,
+      "en": "description of the urine stream, description of underwear.",
+      "zh": "尿流情况以及内衣的描述。"
+    },
+    {
+      "id": 203,
+      "startMs": 1358120,
+      "endMs": 1362280,
+      "en": "And then she pulled out a binder, and I see photos of women's legs taken under the table.",
+      "zh": "随后她拿出一个文件夹，我看到一些在桌下拍摄的女性腿部照片。"
+    },
+    {
+      "id": 204,
+      "startMs": 1362840,
+      "endMs": 1365320,
+      "en": "And then she says to me, \"Do you recognize yourself?\"",
+      "zh": "然后她对我说：“你认得照片里的自己吗？”"
+    },
+    {
+      "id": 205,
+      "startMs": 1365880,
+      "endMs": 1366600,
+      "en": "I was in shock.",
+      "zh": "我当时震惊了。"
+    },
+    {
+      "id": 206,
+      "startMs": 1367080,
+      "endMs": 1368440,
+      "en": "J'étais en état de choc.",
+      "zh": "我当时处于震惊之中。"
+    },
+    {
+      "id": 207,
+      "startMs": 1368840,
+      "endMs": 1373400,
+      "en": "Nègre was placed under investigation for charges including drugging and sexual assault.",
+      "zh": "内格尔因涉嫌下药和性侵等罪名被立案调查。"
+    },
+    {
+      "id": 208,
+      "startMs": 1373880,
+      "endMs": 1375960,
+      "en": "He declined the BBC's request for comment.",
+      "zh": "他拒绝了 BBC 的置评请求。"
+    },
+    {
+      "id": 209,
+      "startMs": 1375960,
+      "endMs": 1382200,
+      "en": "While the allegations against Christian Nègre remain untested in court, it is one of several",
+      "zh": "尽管针对克里斯蒂安·内格尔的指控尚未经过法庭审理，但这起案件是数起"
+    },
+    {
+      "id": 210,
+      "startMs": 1382200,
+      "endMs": 1387400,
+      "en": "high-profile cases about alleged drugging that have sparked a national debate in France.",
+      "zh": "在法国引发全国讨论的知名涉嫌下药案件之一。"
+    },
+    {
+      "id": 211,
+      "startMs": 1387720,
+      "endMs": 1393960,
+      "en": "A new scheme being piloted gives women direct access to toxicology testing if they fear they've been drugged.",
+      "zh": "一项正在试行的新计划让女性可以直接接受毒理学检测，以防她们担心自己被下药。"
+    },
+    {
+      "id": 212,
+      "startMs": 1394360,
+      "endMs": 1401000,
+      "en": "I've come to Garches hospital campus in a leafy suburb of Paris to meet with Professor Jean-Claude Alvarez.",
+      "zh": "我来到巴黎一处绿树成荫的郊区、加尔什医院园区，见毒理学专家让-克洛德·阿尔瓦雷斯教授。"
+    },
+    {
+      "id": 213,
+      "startMs": 1401000,
+      "endMs": 1409560,
+      "en": "Professor Alvarez is a toxicology expert, and I've come to his lab to find out just how effective tests are to prove diuretic drugging.",
+      "zh": "阿尔瓦雷斯教授是毒理学专家，我来到他的实验室，想了解检测证明利尿剂下药究竟有多有效。"
+    },
+    {
+      "id": 214,
+      "startMs": 1410400,
+      "endMs": 1412960,
+      "en": "Here we are in our lab.",
+      "zh": "这里就是我们的实验室。"
+    },
+    {
+      "id": 215,
+      "startMs": 1413360,
+      "endMs": 1420400,
+      "en": "We identify more than 400 molecules in blood, urine, saliva and hair.",
+      "zh": "我们能在血液、尿液、唾液和头发中鉴定出400多种分子。"
+    },
+    {
+      "id": 216,
+      "startMs": 1420400,
+      "endMs": 1425920,
+      "en": "Of course, in just six months, 200 women have sought direct testing at this Paris lab.",
+      "zh": "当然，仅六个月内，就有200名女性到这家巴黎实验室寻求直接检测。"
+    },
+    {
+      "id": 217,
+      "startMs": 1426000,
+      "endMs": 1429640,
+      "en": "Each envelope is one hair case.",
+      "zh": "每个信封就是一个头发样本。"
+    },
+    {
+      "id": 218,
+      "startMs": 1429960,
+      "endMs": 1437240,
+      "en": "This is an example of hair, of a strand of hair that we can receive.",
+      "zh": "这是一份头发样本，是我们能够接收的一缕头发。"
+    },
+    {
+      "id": 219,
+      "startMs": 1437400,
+      "endMs": 1442840,
+      "en": "We receive a lot, many strands every day in order to make a test.",
+      "zh": "我们每天都会收到很多、很多缕头发，用来进行检测。"
+    },
+    {
+      "id": 220,
+      "startMs": 1443820,
+      "endMs": 1449420,
+      "en": "This is the results with the two peaks here. It's a positive sample.",
+      "zh": "这就是检测结果，这里有两个峰值。这是阳性样本。"
+    },
+    {
+      "id": 221,
+      "startMs": 1449740,
+      "endMs": 1459900,
+      "en": "Results from this lab can be vital evidence in court, but with new drugs circulating online, Professor Alvarez is having to cast the net ever wider to identify them.",
+      "zh": "这家实验室的检测结果可能成为法庭上的关键证据，但随着网上流通的新型药物出现，阿尔瓦雷斯教授不得不撒下更大的网来识别它们。"
+    },
+    {
+      "id": 222,
+      "startMs": 1460860,
+      "endMs": 1464140,
+      "en": "Meanwhile, the wheels of justice are turning slowly.",
+      "zh": "与此同时，司法进程缓慢推进。"
+    },
+    {
+      "id": 223,
+      "startMs": 1464620,
+      "endMs": 1470380,
+      "en": "Seven years after the investigation into Christian Nègre began, no trial date has been set.",
+      "zh": "针对克里斯蒂安·内格尔的调查开始七年后，审判日期仍未确定。"
+    },
+    {
+      "id": 224,
+      "startMs": 1470940,
+      "endMs": 1478380,
+      "en": "The BBC asked the French police, judiciary and government about the criticism of their handling of the case, but they did not respond.",
+      "zh": "BBC 就外界对法国警方、司法部门和政府处理此案方式的批评询问了他们，但对方没有回应。"
+    },
+    {
+      "id": 225,
+      "startMs": 1479180,
+      "endMs": 1483980,
+      "en": "A decade on, Marie-Hélène says she still suffers from nightmares and urinary problems.",
+      "zh": "十年过去，玛丽-埃莱娜说，她仍饱受噩梦和泌尿问题的困扰。"
+    },
+    {
+      "id": 226,
+      "startMs": 1484460,
+      "endMs": 1490060,
+      "en": "By speaking out, she hopes to cast off the years of shame that she felt over what happened that day.",
+      "zh": "她希望通过发声，摆脱多年来因那天发生的事而感到的羞耻。"
+    },
+    {
+      "id": 227,
+      "startMs": 1490380,
+      "endMs": 1495660,
+      "en": "I actually need people to know what happened to me and what happened to us.",
+      "zh": "我确实需要让人们知道我遭遇了什么，以及我们遭遇了什么。"
+    },
+    {
+      "id": 228,
+      "startMs": 1495660,
+      "endMs": 1499580,
+      "en": "It's a small way to tell myself not to be ashamed or to hide.",
+      "zh": "这是一种小小的方式，让我告诉自己不要感到羞耻，也不要躲藏。"
+    },
+    {
+      "id": 229,
+      "startMs": 1503080,
+      "endMs": 1505320,
+      "en": "And that report was by Nuala McGovern.",
+      "zh": "以上报道由努阿拉·麦戈文采写。"
+    },
+    {
+      "id": 230,
+      "startMs": 1506680,
+      "endMs": 1511480,
+      "en": "Nearly three decades after her untimely death in a car accident in Paris,",
+      "zh": "在她于巴黎死于车祸、英年早逝近三十年后，"
+    },
+    {
+      "id": 231,
+      "startMs": 1511640,
+      "endMs": 1518040,
+      "en": "Princess Diana, the first wife of King Charles, remains one of the most popular members of the British royal family,",
+      "zh": "戴安娜王妃、查尔斯国王的第一任妻子，仍是英国王室最受欢迎的成员之一，"
+    },
+    {
+      "id": 232,
+      "startMs": 1518200,
+      "endMs": 1523000,
+      "en": "widely remembered for her global humanitarian work, her warmth and her style.",
+      "zh": "人们广泛铭记她在全球范围开展的人道主义工作、她的亲和力和她的风格。"
+    },
+    {
+      "id": 233,
+      "startMs": 1523560,
+      "endMs": 1531400,
+      "en": "Now her brother, Earl Spencer, has written a book about her called Swan Song: Diana, My Sister, which will soon be published in the UK.",
+      "zh": "如今，她的哥哥斯宾塞伯爵写了一本关于她的书，名为《绝唱：戴安娜，我的妹妹》，即将在英国出版。"
+    },
+    {
+      "id": 234,
+      "startMs": 1532040,
+      "endMs": 1536440,
+      "en": "Earl Spencer says he hopes it will help people understand who she really was.",
+      "zh": "斯宾塞伯爵说，他希望这本书能帮助人们了解真实的她。"
+    },
+    {
+      "id": 235,
+      "startMs": 1536680,
+      "endMs": 1539480,
+      "en": "Here's our royal correspondent, Noor Nanji.",
+      "zh": "下面请听我们的王室事务记者努尔·南吉的报道。"
+    },
+    {
+      "id": 236,
+      "startMs": 1540120,
+      "endMs": 1550840,
+      "en": "In 1997, at his sister's funeral at Westminster Abbey, Earl Spencer described Diana, Princess of Wales, as the very essence of compassion, duty, style and beauty,",
+      "zh": "1997年，在妹妹于威斯敏斯特教堂举行的葬礼上，斯宾塞伯爵称戴安娜王妃是同情心、责任、风格与美的完美体现，"
+    },
+    {
+      "id": 237,
+      "startMs": 1551240,
+      "endMs": 1554200,
+      "en": "and criticized the media for the way it had treated her.",
+      "zh": "并批评媒体对待她的方式。"
+    },
+    {
+      "id": 238,
+      "startMs": 1554360,
+      "endMs": 1559640,
+      "en": "It is a point to remember that of all the ironies about Diana, perhaps the greatest was this:",
+      "zh": "有一点值得记住：关于戴安娜的诸多讽刺之处中，或许最令人感慨的是："
+    },
+    {
+      "id": 239,
+      "startMs": 1560480,
+      "endMs": 1568080,
+      "en": "A girl given the name of the ancient goddess of hunting was in the end the most hunted person of the modern age.",
+      "zh": "这个以古代狩猎女神之名命名的女孩，最终却成了现代最受追逐的人。"
+    },
+    {
+      "id": 240,
+      "startMs": 1568800,
+      "endMs": 1577200,
+      "en": "Nearly 30 years later, Earl Spencer says that, just as he attempted to do during that eulogy, he wants to tell the truth about Diana.",
+      "zh": "近三十年后，斯宾塞伯爵说，正如他在那次悼词中试图做到的那样，他希望讲述关于戴安娜的真相。"
+    },
+    {
+      "id": 241,
+      "startMs": 1577840,
+      "endMs": 1584080,
+      "en": "As the anniversary of her death approaches, he says he has been inundated yet again with requests for interviews.",
+      "zh": "随着她的忌日临近，他说自己又一次被采访请求淹没。"
+    },
+    {
+      "id": 242,
+      "startMs": 1584640,
+      "endMs": 1590400,
+      "en": "This, he says, convinced him to write down his own thoughts and memories once and for all",
+      "zh": "他说，这使他下定决心，一劳永逸地写下自己的想法和记忆，"
+    },
+    {
+      "id": 243,
+      "startMs": 1590400,
+      "endMs": 1596240,
+      "en": "rather than having the discomfort of again reading the opinions of others, many of which are based on untruths.",
+      "zh": "而不是再次忍受阅读他人观点的不适，因为其中许多观点都建立在不实之上。"
+    },
+    {
+      "id": 244,
+      "startMs": 1597040,
+      "endMs": 1599360,
+      "en": "The book is expected to be released next month.",
+      "zh": "这本书预计下个月发行。"
+    },
+    {
+      "id": 245,
+      "startMs": 1599760,
+      "endMs": 1604880,
+      "en": "The publisher, Penguin Random House UK, has teased that it will include many revelations",
+      "zh": "出版商企鹅兰登书屋英国公司预告称，书中将包含许多披露，"
+    },
+    {
+      "id": 246,
+      "startMs": 1604880,
+      "endMs": 1610800,
+      "en": "that will draw considerable attention, but says it will also be a fitting tribute to a beloved woman.",
+      "zh": "这些内容将引起相当大的关注；但出版商也表示，这将是对这位受人爱戴的女性恰如其分的致敬。"
+    },
+    {
+      "id": 247,
+      "startMs": 1611440,
+      "endMs": 1612160,
+      "en": "Noor Nanji.",
+      "zh": "努尔·南吉。"
+    },
+    {
+      "id": 248,
+      "startMs": 1612880,
+      "endMs": 1621140,
+      "en": "With wildfires and droughts becoming more widespread and deadly, a UN conference in Mongolia this week has assumed even greater relevance.",
+      "zh": "随着野火和干旱变得更加普遍且致命，本周在蒙古举行的一场联合国会议显得更加重要。"
+    },
+    {
+      "id": 249,
+      "startMs": 1621620,
+      "endMs": 1628500,
+      "en": "The twice-yearly talks on desertification mainly focus on the impact of droughts on food supplies and the natural environment",
+      "zh": "这场每年举行两次的荒漠化会议主要关注干旱对粮食供应和自然环境的影响，"
+    },
+    {
+      "id": 250,
+      "startMs": 1628500,
+      "endMs": 1638420,
+      "en": "in the developing world. In southern Africa, the worsening water situation is creating huge challenges not just for humans but for animals as well.",
+      "zh": "重点在发展中国家。在非洲南部，日益恶化的水资源状况不仅给人类，也给动物带来了巨大挑战。"
+    },
+    {
+      "id": 251,
+      "startMs": 1639220,
+      "endMs": 1641940,
+      "en": "One species that are affected are cheetahs.",
+      "zh": "猎豹就是受影响的物种之一。"
+    },
+    {
+      "id": 252,
+      "startMs": 1642340,
+      "endMs": 1649780,
+      "en": "Dr Laurie Marker is executive director of the Cheetah Conservation Fund and she's at the UN conference in Ulaanbaatar.",
+      "zh": "劳里·马克博士是猎豹保护基金会执行主任，目前正在乌兰巴托参加联合国会议。"
+    },
+    {
+      "id": 253,
+      "startMs": 1650340,
+      "endMs": 1657380,
+      "en": "Eighty percent of them are found outside protected areas. There are only about 7,000 cheetahs left in the world today,",
+      "zh": "其中百分之八十生活在保护区之外。如今世界上只剩下约七千只猎豹，"
+    },
+    {
+      "id": 254,
+      "startMs": 1657380,
+      "endMs": 1665460,
+      "en": "found in Africa, with a handful in Iran and another small handful in India, which have been reintroduced there over the last couple of years.",
+      "zh": "它们分布在非洲，伊朗有少量，印度也有一小部分；印度的猎豹是在过去几年里重新引入的。"
+    },
+    {
+      "id": 255,
+      "startMs": 1665620,
+      "endMs": 1672260,
+      "en": "But we're seeing a decrease in their population throughout their range because of degraded land and competition.",
+      "zh": "不过，由于土地退化和竞争，它们的种群数量正在整个分布区减少。"
+    },
+    {
+      "id": 256,
+      "startMs": 1672420,
+      "endMs": 1678740,
+      "en": "Cheetahs live in some of the most arid landscapes in the world, and livestock overgrazing in these arid landscapes",
+      "zh": "猎豹生活在世界上最干旱的景观中，而牲畜在这些干旱地区过度放牧，"
+    },
+    {
+      "id": 257,
+      "startMs": 1678740,
+      "endMs": 1683080,
+      "en": "actually causes a great deal of problem, leading to desertification.",
+      "zh": "实际上造成了很大问题，导致土地荒漠化。"
+    },
+    {
+      "id": 258,
+      "startMs": 1683320,
+      "endMs": 1693480,
+      "en": "The priorities are to really look at the land, which is becoming even drier because of climate change, working together with the rural communities.",
+      "zh": "当务之急是认真关注土地；由于气候变化，土地正变得更加干燥，我们要与农村社区共同努力。"
+    },
+    {
+      "id": 259,
+      "startMs": 1693480,
+      "endMs": 1702520,
+      "en": "And much of what we do is work with rural communities on better livestock management, better land management and wildlife management.",
+      "zh": "我们所做的很多工作，就是与农村社区合作，改善牲畜管理、土地管理和野生动物管理。"
+    },
+    {
+      "id": 260,
+      "startMs": 1702760,
+      "endMs": 1706040,
+      "en": "Most of the places where the cheetah is living, the people are very poor.",
+      "zh": "猎豹生活的大多数地方，当地人都非常贫困。"
+    },
+    {
+      "id": 261,
+      "startMs": 1706120,
+      "endMs": 1713560,
+      "en": "They've got their livestock. Then you've got a lack of biodiversity because oftentimes in many of these areas you've got less wildlife.",
+      "zh": "他们有自己的牲畜。而且，由于这些地区往往野生动物较少，生物多样性也不足。"
+    },
+    {
+      "id": 262,
+      "startMs": 1713640,
+      "endMs": 1718520,
+      "en": "And when you end up with the top predator, you end up with a greater amount of biodiversity",
+      "zh": "而当顶级捕食者出现时，生物多样性就会更高，"
+    },
+    {
+      "id": 263,
+      "startMs": 1718920,
+      "endMs": 1721320,
+      "en": "and they help maintain the grazing lands.",
+      "zh": "它们还能帮助维护牧场。"
+    },
+    {
+      "id": 264,
+      "startMs": 1721640,
+      "endMs": 1724600,
+      "en": "The urgency is in everybody's mind.",
+      "zh": "紧迫性已铭刻在每个人心中。"
+    },
+    {
+      "id": 265,
+      "startMs": 1724680,
+      "endMs": 1726600,
+      "en": "We're living it every single day.",
+      "zh": "我们每天都在亲身经历。"
+    },
+    {
+      "id": 266,
+      "startMs": 1726840,
+      "endMs": 1731000,
+      "en": "Droughts are recurring more and more, and are more devastating.",
+      "zh": "干旱越来越频繁，也越来越具有破坏性。"
+    },
+    {
+      "id": 267,
+      "startMs": 1731400,
+      "endMs": 1736120,
+      "en": "And with that, it's trying to find a balance and a way out.",
+      "zh": "与此同时，我们正努力寻找平衡和出路。"
+    },
+    {
+      "id": 268,
+      "startMs": 1736200,
+      "endMs": 1738280,
+      "en": "And it's very, very hard to find a way out",
+      "zh": "而要找到出路非常、非常困难，"
+    },
+    {
+      "id": 269,
+      "startMs": 1738360,
+      "endMs": 1740360,
+      "en": "unless we can be very creative.",
+      "zh": "除非我们能够非常有创造力。"
+    },
+    {
+      "id": 270,
+      "startMs": 1741240,
+      "endMs": 1742680,
+      "en": "Dr Laurie Marker.",
+      "zh": "劳里·马克博士。"
+    },
+    {
+      "id": 271,
+      "startMs": 1745320,
+      "endMs": 1746600,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是我们目前的全部报道。"
+    },
+    {
+      "id": 272,
+      "startMs": 1746680,
+      "endMs": 1752920,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 273,
+      "startMs": 1753560,
+      "endMs": 1755560,
+      "en": "This edition of the Global News Podcast",
+      "zh": "本期《全球新闻播客》"
+    },
+    {
+      "id": 274,
+      "startMs": 1755560,
+      "endMs": 1761160,
+      "en": "was mixed by Daniel Fox, the producer was Emma Joseph and the editor is Karen Martin.",
+      "zh": "由丹尼尔·福克斯混音，制片人是艾玛·约瑟夫，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 275,
+      "startMs": 1761480,
+      "endMs": 1763800,
+      "en": "I am Jannat Jalil. Until next time, goodbye.",
+      "zh": "我是贾娜特·贾利勒。下次再见。"
+    }
+  ]
+}
