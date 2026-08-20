@@ -1,0 +1,1915 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "20 August 2026"
+  },
+  "durationMs": 1527940,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3280,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是BBC世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5580,
+      "endMs": 12060,
+      "en": "I'm Celia Hatton, and at 14:00 GMT on Thursday, the 20th of August, these are our main stories.",
+      "zh": "我是Celia Hatton。格林尼治时间8月20日星期四14:00，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12620,
+      "endMs": 19180,
+      "en": "Kyiv comes under bombardment from Russia as Ukraine continues to plead with its allies for more air-defence missiles.",
+      "zh": "基辅遭到俄罗斯轰炸，乌克兰继续向盟友请求更多防空导弹。"
+    },
+    {
+      "id": 4,
+      "startMs": 19180,
+      "endMs": 24060,
+      "en": "And a surprise announcement from Prince Harry and Meghan: they're moving back to the UK. We get reaction.",
+      "zh": "哈里王子和梅根突然宣布：他们要搬回英国。我们将带来各方反应。"
+    },
+    {
+      "id": 5,
+      "startMs": 26700,
+      "endMs": 36460,
+      "en": "Also in this podcast, we hear about efforts to preserve a geological marvel in Northern Ireland, removing coins that tourists wedged into the rocks.",
+      "zh": "本期还将介绍保护北爱尔兰一处地质奇观的努力：清除游客塞进岩石缝隙的硬币。"
+    },
+    {
+      "id": 6,
+      "startMs": 36700,
+      "endMs": 41820,
+      "en": "We've actually engaged the services of a local stonemason, and he's literally gone at it a bit like a dentist,",
+      "zh": "我们请来了一位当地石匠，他真的像牙医一样，"
+    },
+    {
+      "id": 7,
+      "startMs": 41900,
+      "endMs": 48300,
+      "en": "removing material from within the little joints in the rocks, taking one out painstakingly, one by one.",
+      "zh": "从岩石的小缝隙中一点一点地、费力地清除材料。"
+    },
+    {
+      "id": 8,
+      "startMs": 54260,
+      "endMs": 60660,
+      "en": "We begin this podcast in Ukraine and the devastating impact of Russian bombardment in the capital Kyiv overnight.",
+      "zh": "本期节目从乌克兰首都基辅开始：俄罗斯的轰炸在夜间造成了毁灭性影响。"
+    },
+    {
+      "id": 9,
+      "startMs": 66340,
+      "endMs": 72500,
+      "en": "At least 13 people were killed when a school, apartment blocks, and a children's hospital were hit.",
+      "zh": "一所学校、数栋公寓楼和一所儿童医院遭袭，至少13人死亡。"
+    },
+    {
+      "id": 10,
+      "startMs": 72900,
+      "endMs": 76900,
+      "en": "The Ukrainian MP Oleksiy Goncharenko, who's in Kyiv, spoke to the BBC.",
+      "zh": "人在基辅的乌克兰议员Oleksiy Goncharenko接受了BBC采访。"
+    },
+    {
+      "id": 11,
+      "startMs": 77220,
+      "endMs": 80020,
+      "en": "That was a heavy night, really difficult one.",
+      "zh": "那是难熬的一夜，真的非常艰难。"
+    },
+    {
+      "id": 12,
+      "startMs": 80180,
+      "endMs": 86100,
+      "en": "Dozens of Russian missiles—ballistic missiles and other types—attacked the city.",
+      "zh": "数十枚俄罗斯导弹——包括弹道导弹和其他类型的导弹——袭击了这座城市。"
+    },
+    {
+      "id": 13,
+      "startMs": 86340,
+      "endMs": 91460,
+      "en": "We have a big problem: we don't have missile interceptors for Patriot systems.",
+      "zh": "我们面临一个大问题：没有用于爱国者系统的导弹拦截弹。"
+    },
+    {
+      "id": 14,
+      "startMs": 91620,
+      "endMs": 94020,
+      "en": "We can't intercept ballistic missiles.",
+      "zh": "我们无法拦截弹道导弹。"
+    },
+    {
+      "id": 15,
+      "startMs": 94820,
+      "endMs": 100900,
+      "en": "We can intercept drones, different types of Russian drones, and part of Russian missiles,",
+      "zh": "我们能拦截无人机，包括不同类型的俄罗斯无人机，也能拦截部分俄罗斯导弹，"
+    },
+    {
+      "id": 16,
+      "startMs": 101380,
+      "endMs": 104980,
+      "en": "but ballistic missiles are a very serious threat,",
+      "zh": "但弹道导弹是非常严重的威胁，"
+    },
+    {
+      "id": 17,
+      "startMs": 105540,
+      "endMs": 108980,
+      "en": "and for the moment, we are absolutely unprotected from them.",
+      "zh": "目前我们完全没有能力防御它们。"
+    },
+    {
+      "id": 18,
+      "startMs": 109460,
+      "endMs": 114100,
+      "en": "Our Ukraine correspondent Dan Johnson spoke to us from one of the bombed buildings in Kyiv.",
+      "zh": "我们的乌克兰事务记者Dan Johnson在基辅一栋遭轰炸的建筑中向我们报道。"
+    },
+    {
+      "id": 19,
+      "startMs": 114420,
+      "endMs": 121140,
+      "en": "There are tower blocks here that have been totally destroyed by the waves of Russian missile strikes that hit this city,",
+      "zh": "这里有几栋高层住宅楼，在俄罗斯导弹袭击这座城市的冲击下已被彻底摧毁，"
+    },
+    {
+      "id": 20,
+      "startMs": 121380,
+      "endMs": 122900,
+      "en": "around midnight, 1:00 a.m.",
+      "zh": "袭击发生在午夜、凌晨1点左右。"
+    },
+    {
+      "id": 21,
+      "startMs": 122900,
+      "endMs": 125220,
+      "en": "There were a number of locations that were hit,",
+      "zh": "有多处地点遭到袭击，"
+    },
+    {
+      "id": 22,
+      "startMs": 125220,
+      "endMs": 132440,
+      "en": "but here we've got about four or five eight-storey buildings that are almost totally destroyed, still standing somehow.",
+      "zh": "但在这里，大约四五栋八层楼房几乎被完全摧毁，却不知为何仍然站立着。"
+    },
+    {
+      "id": 23,
+      "startMs": 132440,
+      "endMs": 139240,
+      "en": "But the recovery teams were showing me pictures from the roof that show where the missiles actually went straight in through the roof",
+      "zh": "救援队给我看了屋顶的照片，显示导弹从屋顶直接射入的地方，"
+    },
+    {
+      "id": 24,
+      "startMs": 139320,
+      "endMs": 142360,
+      "en": "and then essentially destroyed these flats from the inside out.",
+      "zh": "随后基本上把这些住宅从内部摧毁。"
+    },
+    {
+      "id": 25,
+      "startMs": 142440,
+      "endMs": 145400,
+      "en": "The recovery teams are going through this wreckage.",
+      "zh": "救援队正在清理这片废墟。"
+    },
+    {
+      "id": 26,
+      "startMs": 145560,
+      "endMs": 148680,
+      "en": "The noise you can hear is them throwing bits of rubble down",
+      "zh": "你听到的声音，是他们把一块块瓦砾扔下去，"
+    },
+    {
+      "id": 27,
+      "startMs": 148680,
+      "endMs": 154840,
+      "en": "as they try to clear their way through these apartments, searching for the bodies of those who are believed to have been killed here,",
+      "zh": "他们努力在这些公寓中清出通道，寻找据信已在这里遇难者的遗体，"
+    },
+    {
+      "id": 28,
+      "startMs": 155080,
+      "endMs": 157400,
+      "en": "and checking if there is anybody else trapped.",
+      "zh": "并确认是否还有其他人被困。"
+    },
+    {
+      "id": 29,
+      "startMs": 157400,
+      "endMs": 163480,
+      "en": "There are lots of evacuated residents who are gathered here, just really stunned by what they experienced last night",
+      "zh": "许多撤离的居民聚集在这里，他们对昨晚的经历感到十分震惊，"
+    },
+    {
+      "id": 30,
+      "startMs": 163480,
+      "endMs": 166680,
+      "en": "and what they're witnessing now in terms of the devastation of their homes.",
+      "zh": "也震惊于此刻眼前家园遭受的毁灭。"
+    },
+    {
+      "id": 31,
+      "startMs": 166680,
+      "endMs": 169320,
+      "en": "They're counting the cost. They're considering what their future is,",
+      "zh": "他们正在承受代价，也在思考自己的未来，"
+    },
+    {
+      "id": 32,
+      "startMs": 169320,
+      "endMs": 173080,
+      "en": "whether they can ever potentially return to live here. It looks unlikely.",
+      "zh": "是否还有可能回来生活。看起来希望渺茫。"
+    },
+    {
+      "id": 33,
+      "startMs": 173080,
+      "endMs": 176120,
+      "en": "I've been in one of the ground-floor flats just around the corner.",
+      "zh": "我去过拐角处的一套底层公寓。"
+    },
+    {
+      "id": 34,
+      "startMs": 176360,
+      "endMs": 179960,
+      "en": "There was a huge shard of glass that was actually embedded in the wall.",
+      "zh": "墙上嵌着一大片玻璃碎片。"
+    },
+    {
+      "id": 35,
+      "startMs": 179960,
+      "endMs": 182440,
+      "en": "The owner of that flat, Valeria, doesn't have a bomb shelter.",
+      "zh": "那套公寓的主人瓦莱里娅没有防空洞。"
+    },
+    {
+      "id": 36,
+      "startMs": 182440,
+      "endMs": 186700,
+      "en": "She was telling me how they were cowering in the corridor, in the hall last night.",
+      "zh": "她告诉我，昨晚他们蜷缩在走廊、在大厅里。"
+    },
+    {
+      "id": 37,
+      "startMs": 186700,
+      "endMs": 192460,
+      "en": "But if she'd stayed in her bedroom, that shard of glass may have cost her or her 13-year-old daughter their lives.",
+      "zh": "但如果她当时留在卧室，那块玻璃可能会夺走她或她13岁女儿的生命。"
+    },
+    {
+      "id": 38,
+      "startMs": 192620,
+      "endMs": 197340,
+      "en": "They'd actually moved to Kyiv, having been bombed out of their home in Mykolaiv.",
+      "zh": "她们此前因家乡遭轰炸而搬到了基辅，家乡是尼古拉耶夫。"
+    },
+    {
+      "id": 39,
+      "startMs": 197660,
+      "endMs": 201420,
+      "en": "Now they're considering whether they even have a safe future at all in Ukraine.",
+      "zh": "如今她们甚至在考虑，自己在乌克兰是否还有安全的未来。"
+    },
+    {
+      "id": 40,
+      "startMs": 201580,
+      "endMs": 208620,
+      "en": "And Dan, Ukraine is constantly pleading with the United States and its allies for more interceptors.",
+      "zh": "Dan，乌克兰一直在向美国及其盟友请求更多拦截弹。"
+    },
+    {
+      "id": 41,
+      "startMs": 208940,
+      "endMs": 212140,
+      "en": "This is proof, I imagine, that it's still not getting what it needs.",
+      "zh": "我想，这证明它仍未得到所需的装备。"
+    },
+    {
+      "id": 42,
+      "startMs": 213000,
+      "endMs": 217880,
+      "en": "Yes, absolutely. The intense barrage of Russian ballistic missiles that hit this city",
+      "zh": "是的，完全如此。昨晚袭击这座城市的俄罗斯弹道导弹密集来袭，"
+    },
+    {
+      "id": 43,
+      "startMs": 218120,
+      "endMs": 221560,
+      "en": "last night were able to get through and cause this damage and destruction",
+      "zh": "能够突破防线，造成这样的损伤和破坏，"
+    },
+    {
+      "id": 44,
+      "startMs": 221720,
+      "endMs": 225640,
+      "en": "because of the lack of American-made Patriot missile interceptors.",
+      "zh": "原因在于美国制造的爱国者导弹拦截弹不足。"
+    },
+    {
+      "id": 45,
+      "startMs": 225640,
+      "endMs": 230840,
+      "en": "They are key in defending these skies against the fast-moving ballistic missiles that Russia has.",
+      "zh": "它们对于保护这片天空、抵御俄罗斯拥有的高速弹道导弹至关重要。"
+    },
+    {
+      "id": 46,
+      "startMs": 230840,
+      "endMs": 235160,
+      "en": "Ukraine has been successful in shooting down Russian drones.",
+      "zh": "乌克兰成功击落了俄罗斯无人机。"
+    },
+    {
+      "id": 47,
+      "startMs": 235320,
+      "endMs": 237720,
+      "en": "But in terms of defending itself against ballistics,",
+      "zh": "但在抵御弹道导弹方面，"
+    },
+    {
+      "id": 48,
+      "startMs": 237960,
+      "endMs": 242600,
+      "en": "the plea from the President, from the mayor of Kyiv, and from everybody in Ukrainian politics is for greater supplies of those interceptors",
+      "zh": "总统、基辅市长以及乌克兰政界所有人的请求，都是希望获得更多这类拦截弹，"
+    },
+    {
+      "id": 49,
+      "startMs": 242920,
+      "endMs": 248760,
+      "en": "so they can try to stop this devastation and loss of life.",
+      "zh": "以便努力阻止这样的毁灭和生命损失。"
+    },
+    {
+      "id": 50,
+      "startMs": 249320,
+      "endMs": 250120,
+      "en": "Dan Johnson.",
+      "zh": "Dan Johnson报道。"
+    },
+    {
+      "id": 51,
+      "startMs": 250600,
+      "endMs": 257080,
+      "en": "Staying with this conflict, Russia offers men tens of thousands of dollars to join its military and be sent to fight in Ukraine.",
+      "zh": "继续关注这场冲突：俄罗斯向男子提供数万美元，招募他们加入军队并派往乌克兰作战。"
+    },
+    {
+      "id": 52,
+      "startMs": 257480,
+      "endMs": 267000,
+      "en": "But as the war escalates with no end in sight, there are increasing signs that despite financial incentives, it's finding it harder to recruit the numbers needed.",
+      "zh": "但随着战争升级、看不到尽头，越来越多迹象表明，尽管有经济奖励，俄罗斯越来越难以招募到所需兵力。"
+    },
+    {
+      "id": 53,
+      "startMs": 267480,
+      "endMs": 273000,
+      "en": "Russian soldiers captured recently in Ukraine have confirmed that, and also talked of a high casualty rate.",
+      "zh": "最近在乌克兰被俘的俄罗斯士兵证实了这一点，也谈到很高的伤亡率。"
+    },
+    {
+      "id": 54,
+      "startMs": 272860,
+      "endMs": 281900,
+      "en": "The BBC visited a prisoner-of-war camp to see the conditions and meet some of the men waiting to be sent home in the next exchange of soldiers.",
+      "zh": "BBC走访了一座战俘营，了解那里的状况，并见到了等待在下一轮换俘中被送回家的一些人。"
+    },
+    {
+      "id": 55,
+      "startMs": 282220,
+      "endMs": 285020,
+      "en": "But not all of them are Russian, as Sarah Rainsford reports.",
+      "zh": "但他们并不全是俄罗斯人，萨拉·雷恩斯福德报道。"
+    },
+    {
+      "id": 56,
+      "startMs": 286020,
+      "endMs": 294580,
+      "en": "In western Ukraine, behind layers of locked gates, there's a camp full of soldiers captured fighting for Russia.",
+      "zh": "在乌克兰西部，层层锁门之后有一座战俘营，关押着为俄罗斯作战时被俘的士兵。"
+    },
+    {
+      "id": 57,
+      "startMs": 294980,
+      "endMs": 299940,
+      "en": "But I went there to meet the Ukrainians who went to war against their own country.",
+      "zh": "但我去那里，是为了见到那些与自己的祖国交战的乌克兰人。"
+    },
+    {
+      "id": 58,
+      "startMs": 300580,
+      "endMs": 305860,
+      "en": "So, just come into the prison yard: coils of barbed wire and cameras everywhere.",
+      "zh": "现在进入监狱院子：到处都是盘绕的铁丝网和摄像头。"
+    },
+    {
+      "id": 59,
+      "startMs": 306580,
+      "endMs": 311460,
+      "en": "There are a few dozen prisoners of war in navy-blue uniforms, some with caps.",
+      "zh": "这里有几十名身穿海军蓝制服的战俘，有些人戴着帽子。"
+    },
+    {
+      "id": 60,
+      "startMs": 311780,
+      "endMs": 314340,
+      "en": "They've just all headed for the shadows, because it's baking hot here.",
+      "zh": "他们刚刚全都走到阴凉处，因为这里热得厉害。"
+    },
+    {
+      "id": 61,
+      "startMs": 314340,
+      "endMs": 319300,
+      "en": "Speaking to men in captivity is complicated,",
+      "zh": "和被俘人员交谈很复杂，"
+    },
+    {
+      "id": 62,
+      "startMs": 319300,
+      "endMs": 326420,
+      "en": "but when there's no access to soldiers in Russia itself, it does help reveal the dynamics of this war",
+      "zh": "但由于无法接触俄罗斯境内的士兵，这确实有助于揭示这场战争的运作方式，"
+    },
+    {
+      "id": 63,
+      "startMs": 326740,
+      "endMs": 329380,
+      "en": "and it helps explain what drives the people fighting it.",
+      "zh": "也有助于解释是什么驱使人们参战。"
+    },
+    {
+      "id": 64,
+      "startMs": 329940,
+      "endMs": 334660,
+      "en": "But for anyone who agreed to speak, I interviewed them far from any guards and without a camera.",
+      "zh": "但对于愿意开口的人，我都在远离警卫、没有摄像机的地方采访。"
+    },
+    {
+      "id": 65,
+      "startMs": 334660,
+      "endMs": 344100,
+      "en": "Anton was born in eastern Ukraine, a part of the Donbas that's been controlled by Moscow since 2014.",
+      "zh": "安东出生于乌克兰东部的顿巴斯，当地自2014年以来一直由莫斯科控制。"
+    },
+    {
+      "id": 66,
+      "startMs": 346040,
+      "endMs": 354600,
+      "en": "The year that Vladimir Putin escalated to a full-scale invasion, Anton turned 18 and he signed up to fight immediately, for Russia.",
+      "zh": "弗拉基米尔·普京升级为全面入侵的那一年，安东刚满18岁，立即报名为俄罗斯作战。"
+    },
+    {
+      "id": 67,
+      "startMs": 354600,
+      "endMs": 359800,
+      "en": "I don't regret my choice. I went to defend my land.",
+      "zh": "我不后悔自己的选择。我是去保卫我的土地。"
+    },
+    {
+      "id": 68,
+      "startMs": 360120,
+      "endMs": 362840,
+      "en": "So did all his friends.",
+      "zh": "他的朋友们也都这么做了。"
+    },
+    {
+      "id": 69,
+      "startMs": 362946,
+      "endMs": 370360,
+      "en": "They all went to different units. Then you get the SMS messages: dead, dead, dead.",
+      "zh": "他们都去了不同的部队。然后你会收到短信：死了，死了，死了。"
+    },
+    {
+      "id": 70,
+      "startMs": 370360,
+      "endMs": 380280,
+      "en": "Other prisoners tell me the same, that everyone they went to fight with has been killed, and that fewer men are now volunteering to replace them.",
+      "zh": "其他战俘也告诉我同样的情况：他们曾并肩作战的人全都死了，现在自愿来替补的人越来越少。"
+    },
+    {
+      "id": 71,
+      "startMs": 380280,
+      "endMs": 386880,
+      "en": "When Ukrainian-born soldiers like Anton are captured, they're tried for treason.",
+      "zh": "像安东这样的乌克兰出生士兵被俘后，会因叛国罪受审。"
+    },
+    {
+      "id": 72,
+      "startMs": 386920,
+      "endMs": 389880,
+      "en": "But Anton doesn't see himself as a traitor.",
+      "zh": "但安东不认为自己是叛徒。"
+    },
+    {
+      "id": 73,
+      "startMs": 389880,
+      "endMs": 398200,
+      "en": "An entire generation has now grown up in occupied areas with Russian schooling and with media controlled by the Kremlin.",
+      "zh": "整整一代人如今在被占领地区长大，接受俄罗斯式教育，接触由克里姆林宫控制的媒体。"
+    },
+    {
+      "id": 74,
+      "startMs": 399480,
+      "endMs": 403640,
+      "en": "Anton has absorbed all of it, and like Russia, he calls the government in Kyiv Nazis.",
+      "zh": "安东已全盘接受这些影响，和俄罗斯一样，他把基辅政府称为“纳粹”。"
+    },
+    {
+      "id": 75,
+      "startMs": 406700,
+      "endMs": 410940,
+      "en": "He also thinks Vladimir Putin should keep pushing to control the whole Donbas,",
+      "zh": "他还认为弗拉基米尔·普京应继续推进，以控制整个顿巴斯，"
+    },
+    {
+      "id": 76,
+      "startMs": 411340,
+      "endMs": 414700,
+      "en": "even though hundreds of thousands have already been killed trying.",
+      "zh": "尽管已有数十万人在这一过程中丧生。"
+    },
+    {
+      "id": 77,
+      "startMs": 414700,
+      "endMs": 419820,
+      "en": "Of course, I think it could have cost a lot less, but war is war.",
+      "zh": "当然，我认为代价本可以小得多，但战争就是战争。"
+    },
+    {
+      "id": 78,
+      "startMs": 419820,
+      "endMs": 424060,
+      "en": "It could have been ended, but no one wanted to do that.",
+      "zh": "本来可以结束战争，但没人想这么做。"
+    },
+    {
+      "id": 79,
+      "startMs": 427680,
+      "endMs": 433120,
+      "en": "In the prison hospital, there was another man from the Donbas wrapped in bandages.",
+      "zh": "在监狱医院里，还有一名来自顿巴斯、浑身缠着绷带的男子。"
+    },
+    {
+      "id": 80,
+      "startMs": 433760,
+      "endMs": 442560,
+      "en": "Artyom signed up to fight on the promise of a big cash bonus, but he never got it, and now he has a body full of shrapnel.",
+      "zh": "阿尔乔姆因承诺获得一大笔现金奖金而报名参战，却从未拿到，如今体内满是弹片。"
+    },
+    {
+      "id": 81,
+      "startMs": 448100,
+      "endMs": 451780,
+      "en": "I've stepped inside a workshop here in the prison camp,",
+      "zh": "我走进了战俘营里的一间工坊，"
+    },
+    {
+      "id": 82,
+      "startMs": 452340,
+      "endMs": 455460,
+      "en": "and I've just seen what these men are making.",
+      "zh": "刚看到这些人正在制作的东西。"
+    },
+    {
+      "id": 83,
+      "startMs": 455780,
+      "endMs": 460820,
+      "en": "These Russian prisoners of war are mass-producing wooden coffins.",
+      "zh": "这些俄罗斯战俘正在批量生产木棺。"
+    },
+    {
+      "id": 84,
+      "startMs": 464720,
+      "endMs": 469040,
+      "en": "In the next workshop, I met a drug dealer making artificial Christmas trees.",
+      "zh": "在下一间工坊，我遇到了一名正在制作人造圣诞树的毒贩。"
+    },
+    {
+      "id": 85,
+      "startMs": 469040,
+      "endMs": 472720,
+      "en": "Konstantin said he had one reason only for going to fight: it got him out of jail.",
+      "zh": "康斯坦丁说，他参战只有一个原因：那能让他出狱。"
+    },
+    {
+      "id": 86,
+      "startMs": 472960,
+      "endMs": 481840,
+      "en": "For me, 15 years in prison was too much.",
+      "zh": "对我来说，15年监禁太久了。"
+    },
+    {
+      "id": 87,
+      "startMs": 481840,
+      "endMs": 485200,
+      "en": "I know it probably doesn't excuse me, but it's a fact.",
+      "zh": "我知道这或许不能成为我的借口，但事实就是如此。"
+    },
+    {
+      "id": 88,
+      "startMs": 485200,
+      "endMs": 491920,
+      "en": "But he would be killing Ukrainians, I said, fighting the country he was born in.",
+      "zh": "我说，可他将杀害乌克兰人，和自己的出生国作战。"
+    },
+    {
+      "id": 89,
+      "startMs": 491920,
+      "endMs": 499440,
+      "en": "I see nothing good in any war, and in a war like this, there can be nothing good by definition.",
+      "zh": "我看不到任何战争中的好事，而像这样的战争，按定义不可能有任何好事。"
+    },
+    {
+      "id": 90,
+      "startMs": 499440,
+      "endMs": 508320,
+      "en": "Ukraine's real focus is on these men's practical value, because potentially they can be swapped to bring Ukraine's own soldiers home.",
+      "zh": "乌克兰真正关注的是这些人的实际价值，因为他们有可能被交换，以带回乌克兰自己的士兵。"
+    },
+    {
+      "id": 91,
+      "startMs": 508320,
+      "endMs": 517360,
+      "en": "Only during negotiations does it become clear that the men from the Donbas who risked everything for Russia are way down Moscow's priority list.",
+      "zh": "但到了谈判时才发现，那些为俄罗斯押上一切的顿巴斯人，在莫斯科的优先名单上排得很靠后。"
+    },
+    {
+      "id": 92,
+      "startMs": 517360,
+      "endMs": 526820,
+      "en": "Konstantin says only a handful of them have been swapped so far, and he thinks, “I'll be the very last to leave here.”",
+      "zh": "康斯坦丁说，目前只有少数几人获交换，而他认为：“我会是最后一个离开这里的人。”"
+    },
+    {
+      "id": 93,
+      "startMs": 528340,
+      "endMs": 529700,
+      "en": "Sarah Rainsford in Ukraine.",
+      "zh": "萨拉·雷恩斯福德，乌克兰报道。"
+    },
+    {
+      "id": 94,
+      "startMs": 529700,
+      "endMs": 538180,
+      "en": "The Giant's Causeway in County Antrim in Northern Ireland is one of the world's most striking landscapes and one of the most visited sites in the UK.",
+      "zh": "北爱尔兰安特里姆郡的巨人堤道，是世界上最壮观的景观之一，也是英国游客最多的景点之一。"
+    },
+    {
+      "id": 95,
+      "startMs": 538660,
+      "endMs": 543460,
+      "en": "Over the years, tourists have taken to jamming coins between the columns and into cracks.",
+      "zh": "多年来，游客们一直把硬币塞进石柱之间和岩缝里。"
+    },
+    {
+      "id": 96,
+      "startMs": 543880,
+      "endMs": 551000,
+      "en": "Either for luck or for love, but as the coins rusted, they started causing physical and chemical damage to the rocks.",
+      "zh": "他们或是为了祈求好运，或是为了爱情；但硬币生锈后，开始对岩石造成物理和化学损害。"
+    },
+    {
+      "id": 97,
+      "startMs": 551640,
+      "endMs": 555560,
+      "en": "A conservation project was begun and now, with the help of volunteers,",
+      "zh": "一项保护工程已经启动，如今在志愿者的帮助下，"
+    },
+    {
+      "id": 98,
+      "startMs": 555960,
+      "endMs": 560920,
+      "en": "the equivalent of 10,000 coins, weighing more than 20 kilograms, have been removed.",
+      "zh": "已经移除了相当于1万枚、重量超过20公斤的硬币。"
+    },
+    {
+      "id": 99,
+      "startMs": 561400,
+      "endMs": 566840,
+      "en": "James Kumarasamy spoke to Dr Kirsten Lemon from World Heritage, who's helping to restore the site.",
+      "zh": "詹姆斯·库马拉萨米采访了世界遗产组织的克尔斯滕·莱蒙博士，她正在协助修复这一景点。"
+    },
+    {
+      "id": 100,
+      "startMs": 567320,
+      "endMs": 572600,
+      "en": "The Giant's Causeway is quite an enigmatic site when it comes to geological features.",
+      "zh": "说到地质特征，巨人堤道是一处相当神秘的景点。"
+    },
+    {
+      "id": 101,
+      "startMs": 572600,
+      "endMs": 578680,
+      "en": "So if you imagine, it is approximately 40,000 rock pillars that are all interlocking",
+      "zh": "想象一下，这里大约有4万根相互咬合的岩柱，"
+    },
+    {
+      "id": 102,
+      "startMs": 578680,
+      "endMs": 582360,
+      "en": "and are jutting out into the Atlantic Ocean on the north coast of Northern Ireland.",
+      "zh": "它们伸入大西洋，位于北爱尔兰北部海岸。"
+    },
+    {
+      "id": 103,
+      "startMs": 583000,
+      "endMs": 587960,
+      "en": "So not only is it, I suppose, inspiringly beautiful because of where it is,",
+      "zh": "我想，它所在的位置不仅赋予了它令人赞叹的美，"
+    },
+    {
+      "id": 104,
+      "startMs": 588040,
+      "endMs": 593960,
+      "en": "but these really unusual hexagonal features really are quite prominent when it comes to looking at that whole coastline.",
+      "zh": "这些极不寻常的六边形特征，在整个海岸线上也非常醒目。"
+    },
+    {
+      "id": 105,
+      "startMs": 593960,
+      "endMs": 597960,
+      "en": "I mean, I've been there. You stand on it and you look down and you scratch your head, don't you?",
+      "zh": "我去过那里。你站在上面向下看，会挠头纳闷，对吧？"
+    },
+    {
+      "id": 106,
+      "startMs": 597960,
+      "endMs": 601240,
+      "en": "I mean, how on earth could they have just all popped up like that?",
+      "zh": "究竟怎么会一下子全都这样冒出来呢？"
+    },
+    {
+      "id": 107,
+      "startMs": 601800,
+      "endMs": 608200,
+      "en": "Yeah, the regular nature of the rocks themselves is, I think, one of those things that makes that site so interesting.",
+      "zh": "是的，我认为岩石本身规则的形态，正是让这个景点如此有趣的原因之一。"
+    },
+    {
+      "id": 108,
+      "startMs": 608600,
+      "endMs": 614620,
+      "en": "But we now know, after scientific research over the past hundred or so years, that the Giant's Causeway formed",
+      "zh": "但经过过去大约一百年的科学研究，我们现在知道巨人堤道形成于"
+    },
+    {
+      "id": 109,
+      "startMs": 614620,
+      "endMs": 618060,
+      "en": "as a result of volcanic activity just under 60 million years ago.",
+      "zh": "近6000万年前的一次火山活动。"
+    },
+    {
+      "id": 110,
+      "startMs": 618620,
+      "endMs": 622380,
+      "en": "But we have volcanic activity in other places, or have had, in the UK.",
+      "zh": "但英国其他地方也有过或仍有火山活动。"
+    },
+    {
+      "id": 111,
+      "startMs": 622780,
+      "endMs": 629740,
+      "en": "What makes the Giant's Causeway special is that the lava that flowed from these volcanoes actually pooled into valleys,",
+      "zh": "巨人堤道的特别之处在于，从这些火山流出的熔岩实际上汇入了山谷，"
+    },
+    {
+      "id": 112,
+      "startMs": 630140,
+      "endMs": 636460,
+      "en": "and because it cooled down really slowly, if you like, the valley sides acted like a big thermos flask.",
+      "zh": "而且由于冷却得非常缓慢，可以说，山谷两侧就像一个巨大的保温瓶。"
+    },
+    {
+      "id": 113,
+      "startMs": 637020,
+      "endMs": 643180,
+      "en": "So the lava cooled down slowly, and as it cooled, it cracked and it cracked into those really regular patterns that we see.",
+      "zh": "所以熔岩缓慢冷却，冷却时发生开裂，裂成了我们看到的那些非常规则的图案。"
+    },
+    {
+      "id": 114,
+      "startMs": 643180,
+      "endMs": 650860,
+      "en": "So it was created by activity on a giant scale, but activity on a much smaller scale has been causing problems with these coins.",
+      "zh": "所以，巨人堤道由大规模的地质活动形成，但如今是小得多的活动——游客塞入硬币——造成了问题。"
+    },
+    {
+      "id": 115,
+      "startMs": 651180,
+      "endMs": 659660,
+      "en": "Absolutely. So over the past, I suppose, maybe 10 or 15 years, we've seen an increase in the number of tourists coming to the site.",
+      "zh": "确实如此。我想，在过去大约十到十五年里，来到这里的游客越来越多。"
+    },
+    {
+      "id": 116,
+      "startMs": 660140,
+      "endMs": 666540,
+      "en": "They've put coins into the natural cracks within the rocks, and those are causing the problems.",
+      "zh": "他们把硬币塞进岩石的天然裂缝，而这些硬币正是问题所在。"
+    },
+    {
+      "id": 117,
+      "startMs": 666940,
+      "endMs": 671500,
+      "en": "And an operation then was needed to get rid of them. How straightforward has that been?",
+      "zh": "因此需要开展行动把硬币清除。这个过程顺利吗？"
+    },
+    {
+      "id": 118,
+      "startMs": 671520,
+      "endMs": 678640,
+      "en": "Well, I suppose it really started with my colleagues from the British Geological Survey and me.",
+      "zh": "我想，这个过程最初是由我和英国地质调查局的同事开始的。"
+    },
+    {
+      "id": 119,
+      "startMs": 678960,
+      "endMs": 683680,
+      "en": "What we did was we undertook a survey to assess the damage that the coins were doing in the first place.",
+      "zh": "开展了一项调查，评估硬币最初造成的损害。"
+    },
+    {
+      "id": 120,
+      "startMs": 683920,
+      "endMs": 686720,
+      "en": "We suspected there was damage, but we weren't entirely sure.",
+      "zh": "我们怀疑存在损害，但并不能完全确定。"
+    },
+    {
+      "id": 121,
+      "startMs": 687200,
+      "endMs": 692960,
+      "en": "So by looking at the coins, where they are, what's happening around them, as you've already mentioned,",
+      "zh": "所以，正如你刚才提到的，通过观察硬币的位置及其周围的情况，"
+    },
+    {
+      "id": 122,
+      "startMs": 693040,
+      "endMs": 696960,
+      "en": "we were able to assess that there was physical and chemical damage to the causeway itself.",
+      "zh": "我们得以评估出，巨人堤道本身受到了物理和化学损害。"
+    },
+    {
+      "id": 123,
+      "startMs": 697600,
+      "endMs": 703120,
+      "en": "So what's been happening since then is that we've had a pilot program to try and remove those coins.",
+      "zh": "所以从那以后，我们开展了一项试点计划，尝试移除这些硬币。"
+    },
+    {
+      "id": 124,
+      "startMs": 703120,
+      "endMs": 711520,
+      "en": "And I think the sheer scale of what we've been able to remove and the depth to which they've been stuck into the causeway has really, I suppose, surprised us all.",
+      "zh": "我想，我们清除的硬币数量，以及它们嵌入堤道的深度，确实都让我们大为惊讶。"
+    },
+    {
+      "id": 125,
+      "startMs": 711520,
+      "endMs": 716080,
+      "en": "And what about that process of removing them without damaging the rocks? How have you gone about it?",
+      "zh": "那么，如何在不损伤岩石的情况下移除硬币？你们是怎么做的？"
+    },
+    {
+      "id": 126,
+      "startMs": 716560,
+      "endMs": 722560,
+      "en": "Well, it's been a very laborious process. So we've actually engaged the services of a local stonemason",
+      "zh": "这是一个非常费力的过程。我们请来了一位当地石匠，"
+    },
+    {
+      "id": 127,
+      "startMs": 722640,
+      "endMs": 728000,
+      "en": "who is very familiar with working with this kind of stone, and he's literally gone at it a bit like a dentist,",
+      "zh": "他非常熟悉这种石头的处理，确实就像牙医一样，"
+    },
+    {
+      "id": 128,
+      "startMs": 728000,
+      "endMs": 731520,
+      "en": "removing material from within the little joints in the rock.",
+      "zh": "从岩石的小接缝中一点点去除材料。"
+    },
+    {
+      "id": 129,
+      "startMs": 731540,
+      "endMs": 736020,
+      "en": "So we basically use picks, taking one out painstakingly, one by one.",
+      "zh": "所以我们基本上用镐子，费力地一枚一枚取出硬币。"
+    },
+    {
+      "id": 130,
+      "startMs": 736500,
+      "endMs": 740500,
+      "en": "We've got around about, we think, about 10,000 of the coins out in total",
+      "zh": "我们总共清出了大约一万枚硬币，"
+    },
+    {
+      "id": 131,
+      "startMs": 740740,
+      "endMs": 748180,
+      "en": "and it is only in one area, because there are coins actually all across the Giant's Causeway and the Causeway Coast World Heritage Site.",
+      "zh": "但这只是在一个区域，因为巨人堤道和堤道海岸世界遗产地到处都有硬币。"
+    },
+    {
+      "id": 132,
+      "startMs": 748580,
+      "endMs": 752820,
+      "en": "So we've got a long road to go, but we've taken them out from the most obvious place.",
+      "zh": "所以我们还有很长的路要走，但已经先从最明显的区域把它们取出。"
+    },
+    {
+      "id": 133,
+      "startMs": 753060,
+      "endMs": 754100,
+      "en": "Dr Kirsten Lemon.",
+      "zh": "克斯滕·莱蒙博士。"
+    },
+    {
+      "id": 134,
+      "startMs": 756340,
+      "endMs": 760260,
+      "en": "Still to come in this podcast: It was like so bad, it's so good.",
+      "zh": "本期节目稍后还有：它糟糕得如此好笑，反而变得很棒。"
+    },
+    {
+      "id": 135,
+      "startMs": 760580,
+      "endMs": 765140,
+      "en": "AI could definitely make this in like 10 seconds, maybe even faster.",
+      "zh": "人工智能肯定能在大约十秒内做出这个，甚至可能更快。"
+    },
+    {
+      "id": 136,
+      "startMs": 765700,
+      "endMs": 769300,
+      "en": "It's because it's not perfect, it's good. It shows how human it is.",
+      "zh": "正因为它并不完美，所以才好；这展现了它多么有人性。"
+    },
+    {
+      "id": 137,
+      "startMs": 769620,
+      "endMs": 774500,
+      "en": "A homemade animated film about a baby cow that's become a surprise hit in China.",
+      "zh": "一部关于小牛宝宝的自制动画电影，意外在中国走红。"
+    },
+    {
+      "id": 138,
+      "startMs": 774500,
+      "endMs": 776420,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是 BBC《全球新闻播客》。"
+    },
+    {
+      "id": 139,
+      "startMs": 776420,
+      "endMs": 779620,
+      "en": "A tanker has reportedly been hijacked off the coast of Yemen.",
+      "zh": "据报道，一艘油轮在也门海岸外遭到劫持。"
+    },
+    {
+      "id": 140,
+      "startMs": 779780,
+      "endMs": 786340,
+      "en": "Maritime authorities say six armed men boarded the vessel, seized control, and diverted it towards Somalia.",
+      "zh": "海事部门称，六名武装人员登上船只，夺取控制权，并将其驶向索马里。"
+    },
+    {
+      "id": 141,
+      "startMs": 786820,
+      "endMs": 789460,
+      "en": "The condition of the crew is currently unknown.",
+      "zh": "船员目前的状况尚不清楚。"
+    },
+    {
+      "id": 142,
+      "startMs": 790100,
+      "endMs": 793460,
+      "en": "Our Africa correspondent Barbara Plett Usher is following developments.",
+      "zh": "我们的非洲记者芭芭拉·普莱特·厄舍正在跟进事态发展。"
+    },
+    {
+      "id": 143,
+      "startMs": 793700,
+      "endMs": 803220,
+      "en": "The UK Maritime Security Agency says that this happened 136 nautical miles off the coast of Yemen in the Gulf of Aden.",
+      "zh": "英国海事安全机构称，事件发生在也门海岸外136海里、亚丁湾内。"
+    },
+    {
+      "id": 144,
+      "startMs": 803620,
+      "endMs": 812820,
+      "en": "As you mentioned, six armed men boarded the vessel and then redirected it towards Somalia, which is on the other side of the Gulf.",
+      "zh": "正如你所说，六名武装人员登上船只，随后将它驶向海湾另一侧的索马里。"
+    },
+    {
+      "id": 145,
+      "startMs": 812820,
+      "endMs": 815860,
+      "en": "We don't have any information about the state of the crew.",
+      "zh": "我们没有任何关于船员状况的信息。"
+    },
+    {
+      "id": 146,
+      "startMs": 815860,
+      "endMs": 822980,
+      "en": "We don't have any further information about where the ship has ended up or what kind of flag it was carrying.",
+      "zh": "我们也不知道船只最终去了哪里，或悬挂的是哪国旗帜。"
+    },
+    {
+      "id": 147,
+      "startMs": 823060,
+      "endMs": 830420,
+      "en": "What I can say is that there has been a resurgence of Somali piracy over the past couple of months.",
+      "zh": "我能说的是，过去几个月索马里海盗活动再次抬头。"
+    },
+    {
+      "id": 148,
+      "startMs": 830420,
+      "endMs": 840600,
+      "en": "Since about March or April, a number of vessels have been hijacked, and this was after quite a long period of much better security in the Red Sea and the Gulf of Aden.",
+      "zh": "大约从三月或四月起，就有多艘船只遭到劫持；而在此之前，红海和亚丁湾的安全状况已经有相当长一段时间大为改善。"
+    },
+    {
+      "id": 149,
+      "startMs": 840600,
+      "endMs": 845320,
+      "en": "Given how big a problem Somali piracy was about ten years ago",
+      "zh": "鉴于大约十年前索马里海盗活动曾是多么严重的问题，"
+    },
+    {
+      "id": 150,
+      "startMs": 845560,
+      "endMs": 854440,
+      "en": "and this is also happening at a time, of course, when there are threats to maritime shipping, not just in the Gulf of Aden, but also especially in the Strait of Hormuz.",
+      "zh": "而且这发生在海上航运受到威胁之际，威胁不仅存在于亚丁湾，尤其也存在于霍尔木兹海峡。"
+    },
+    {
+      "id": 151,
+      "startMs": 854680,
+      "endMs": 860200,
+      "en": "There are also threats to security in the Red Sea, which empties into the Gulf.",
+      "zh": "红海的安全也受到威胁，而红海通向亚丁湾。"
+    },
+    {
+      "id": 152,
+      "startMs": 860280,
+      "endMs": 863720,
+      "en": "So it means that you have quite an unstable situation.",
+      "zh": "所以，这意味着局势相当不稳定。"
+    },
+    {
+      "id": 153,
+      "startMs": 864760,
+      "endMs": 870760,
+      "en": "Barbara, what's fueling that surge in piracy? Are the Houthis behind all of it?",
+      "zh": "芭芭拉，是什么推动了海盗活动的激增？这一切都是胡塞武装在背后吗？"
+    },
+    {
+      "id": 154,
+      "startMs": 871080,
+      "endMs": 876520,
+      "en": "Well, the surge in Somali piracy is partly because of domestic issues.",
+      "zh": "索马里海盗活动激增，部分原因在于国内问题。"
+    },
+    {
+      "id": 155,
+      "startMs": 876520,
+      "endMs": 885960,
+      "en": "So, according to reports, fishermen are angry at international trawlers, illegal trawlers, that are decimating the fishing industry.",
+      "zh": "据报道，一些渔民对摧毁渔业的国际拖网船、非法拖网船感到愤怒。"
+    },
+    {
+      "id": 156,
+      "startMs": 885960,
+      "endMs": 891240,
+      "en": "And so they have taken to piracy again to get money, basically.",
+      "zh": "因此，他们再次从事海盗活动，基本上是为了赚钱。"
+    },
+    {
+      "id": 157,
+      "startMs": 891480,
+      "endMs": 898780,
+      "en": "But some defence analysts suspect that perhaps Houthi rebels are coordinating with the Somali pirates.",
+      "zh": "但一些国防分析人士怀疑，也许胡塞叛军正在与索马里海盗协调行动。"
+    },
+    {
+      "id": 158,
+      "startMs": 898780,
+      "endMs": 904220,
+      "en": "There was one report a couple of weeks ago that there had been some coordination.",
+      "zh": "几周前有一份报告称，双方曾有过某种协调。"
+    },
+    {
+      "id": 159,
+      "startMs": 904220,
+      "endMs": 906540,
+      "en": "It wasn't clear why or how that ended up.",
+      "zh": "但不清楚事情为何、又是如何发展到那一步的。"
+    },
+    {
+      "id": 160,
+      "startMs": 906860,
+      "endMs": 915500,
+      "en": "But what everybody's thinking about, of course, is that Iran has threatened to ask its Houthi allies in Yemen to block shipping in the Red Sea",
+      "zh": "但当然，所有人想到的是：伊朗威胁要要求其在也门的胡塞盟友封锁红海航运，"
+    },
+    {
+      "id": 161,
+      "startMs": 915500,
+      "endMs": 919900,
+      "en": "which flows into the Gulf of Aden because of the threats around the Strait of Hormuz.",
+      "zh": "红海通向亚丁湾，而这一威胁源于霍尔木兹海峡周边的局势。"
+    },
+    {
+      "id": 162,
+      "startMs": 919980,
+      "endMs": 922860,
+      "en": "Iran had also wanted to take control of the Strait of Hormuz.",
+      "zh": "伊朗也曾想控制霍尔木兹海峡。"
+    },
+    {
+      "id": 163,
+      "startMs": 922940,
+      "endMs": 928860,
+      "en": "The US has blocked shipping there, and so there's been some question about whether that would also happen in the Red Sea.",
+      "zh": "美国已阻止那里的航运，因此有人怀疑红海是否也会发生这种情况。"
+    },
+    {
+      "id": 164,
+      "startMs": 929180,
+      "endMs": 936020,
+      "en": "And also, I would say, there's just more traffic around Somalia at the moment because of the closure of the Strait of Hormuz",
+      "zh": "另外，我想说，目前索马里附近的航运量也增加了，因为霍尔木兹海峡关闭，"
+    },
+    {
+      "id": 165,
+      "startMs": 936260,
+      "endMs": 942180,
+      "en": "and the problems and threats in the Red Sea. There's more traffic in the Indian Ocean, which is just out of the Gulf of Aden",
+      "zh": "以及红海的问题和威胁。印度洋就在亚丁湾外侧，那里有更多船只通行，"
+    },
+    {
+      "id": 166,
+      "startMs": 942180,
+      "endMs": 943860,
+      "en": "so you have more access to shipping.",
+      "zh": "所以能够接触到的航运也更多。"
+    },
+    {
+      "id": 167,
+      "startMs": 944340,
+      "endMs": 946340,
+      "en": "Our Africa correspondent Barbara Plett Usher.",
+      "zh": "我们的非洲记者芭芭拉·普莱特·厄舍。"
+    },
+    {
+      "id": 168,
+      "startMs": 946820,
+      "endMs": 949300,
+      "en": "The UK woke up to a royal surprise today.",
+      "zh": "英国今天一早迎来一个王室惊闻。"
+    },
+    {
+      "id": 169,
+      "startMs": 949380,
+      "endMs": 955540,
+      "en": "Prince Harry, his wife Meghan, and their children are reported to be planning to move back to England over the next few weeks.",
+      "zh": "据报道，哈里王子、妻子梅根和他们的孩子计划在未来几周搬回英国。"
+    },
+    {
+      "id": 170,
+      "startMs": 955940,
+      "endMs": 959300,
+      "en": "They won't be living in a royal residence, but it will be close to London.",
+      "zh": "他们不会住在王室住所，但住所将靠近伦敦。"
+    },
+    {
+      "id": 171,
+      "startMs": 959780,
+      "endMs": 964580,
+      "en": "Their two young children, Archie and Lilibet, have been enrolled in schools for the new term.",
+      "zh": "他们的两个年幼孩子阿奇和莉莉贝特已登记入读新学期的学校。"
+    },
+    {
+      "id": 172,
+      "startMs": 965140,
+      "endMs": 967780,
+      "en": "Harry and Meghan left for the United States six years ago.",
+      "zh": "哈里和梅根六年前离开英国前往美国。"
+    },
+    {
+      "id": 173,
+      "startMs": 968100,
+      "endMs": 975940,
+      "en": "Ailsa Anderson, a former press secretary to the late Queen Elizabeth, says an earlier visit to the UK this year may have prompted Harry's return.",
+      "zh": "已故女王伊丽莎白的前新闻秘书艾尔莎·安德森说，哈里今年早些时候访问英国可能促成了他的回归。"
+    },
+    {
+      "id": 174,
+      "startMs": 976180,
+      "endMs": 979380,
+      "en": "We know there's been an ongoing issue with security.",
+      "zh": "我们知道，安保问题一直存在。"
+    },
+    {
+      "id": 175,
+      "startMs": 979380,
+      "endMs": 983620,
+      "en": "He has said that until this is rectified, he won't be coming back to the United Kingdom.",
+      "zh": "他说，在这个问题得到解决之前，他不会回到英国。"
+    },
+    {
+      "id": 176,
+      "startMs": 983940,
+      "endMs": 989060,
+      "en": "But clearly now he's, you know, had a change of heart, and he wants to come back to his, you know, motherland.",
+      "zh": "但显然，他现在改变了想法，想回到自己的祖国。"
+    },
+    {
+      "id": 177,
+      "startMs": 989780,
+      "endMs": 997400,
+      "en": "And I wonder, because of the trip that he made earlier and going back to his late mother's ancestral home in Northamptonshire,",
+      "zh": "我在想，他早些时候的那次旅行，以及回到已故母亲位于北安普敦郡的祖居，"
+    },
+    {
+      "id": 178,
+      "startMs": 997480,
+      "endMs": 1004040,
+      "en": "whether that's made a shift in his views, and he really wants to come back because he's missed his life here for the last six years.",
+      "zh": "是否改变了他的看法；他确实想回来，因为过去六年他一直怀念这里的生活。"
+    },
+    {
+      "id": 179,
+      "startMs": 1004440,
+      "endMs": 1010040,
+      "en": "Our royal correspondent Noor Nanji stood outside Buckingham Palace in London and told us more about the decision.",
+      "zh": "我们的王室事务记者努尔·南吉在伦敦白金汉宫外介绍了更多决定详情。"
+    },
+    {
+      "id": 180,
+      "startMs": 1010280,
+      "endMs": 1012440,
+      "en": "It's a really surprising announcement.",
+      "zh": "这真是一个令人意外的声明。"
+    },
+    {
+      "id": 181,
+      "startMs": 1012440,
+      "endMs": 1016600,
+      "en": "I think a lot of people were not expecting this, and there are a lot of unanswered questions.",
+      "zh": "很多人没料到这一点，仍有许多问题没有答案。"
+    },
+    {
+      "id": 182,
+      "startMs": 1016600,
+      "endMs": 1023800,
+      "en": "What we do know is that Harry and Meghan and their two children, Archie and Lilibet, will be moving back to the UK,",
+      "zh": "我们确实知道，哈里和梅根以及他们的两个孩子阿奇和莉莉贝特将搬回英国，"
+    },
+    {
+      "id": 183,
+      "startMs": 1024120,
+      "endMs": 1030360,
+      "en": "and the children are enrolled in a British school over here, so they will be starting school in September.",
+      "zh": "孩子们已在英国这里的一所学校注册，因此将于九月入学。"
+    },
+    {
+      "id": 184,
+      "startMs": 1030600,
+      "endMs": 1033320,
+      "en": "So, as I say, it took a lot of people by surprise.",
+      "zh": "所以正如我所说，这让很多人感到意外。"
+    },
+    {
+      "id": 185,
+      "startMs": 1033720,
+      "endMs": 1038520,
+      "en": "What's driven it? That's one of the big questions. Why now? Why have they decided to do this?",
+      "zh": "是什么促成了这一决定？这是最大的疑问之一。为什么是现在？他们为什么决定这样做？"
+    },
+    {
+      "id": 186,
+      "startMs": 1038520,
+      "endMs": 1047000,
+      "en": "Well, we've been speaking to some people close to the couple who say that the decision to move back to the UK was taken relatively recently.",
+      "zh": "我们一直在与这对夫妇的身边人士交谈；他们说，搬回英国的决定是最近才作出的。"
+    },
+    {
+      "id": 187,
+      "startMs": 1047320,
+      "endMs": 1054460,
+      "en": "It's understood that that trip they made in July with the family to the UK played a part in that.",
+      "zh": "据了解，他们一家七月访问英国的那次旅行起到了一定作用。"
+    },
+    {
+      "id": 188,
+      "startMs": 1054460,
+      "endMs": 1061820,
+      "en": "We know that, of course, Harry, Prince Harry, Meghan, and the children spent time with the King and Queen at Highgrove,",
+      "zh": "我们知道，哈里王子、梅根和孩子们曾在海格罗夫与国王和王后共度时光，"
+    },
+    {
+      "id": 189,
+      "startMs": 1062060,
+      "endMs": 1071020,
+      "en": "and also with the Spencer family, Princess Diana's family, at the estate in Althorp, and that they really enjoyed that.",
+      "zh": "也在奥尔索普庄园与斯宾塞家族、戴安娜王妃的家人相处；据说他们非常享受这段时光。"
+    },
+    {
+      "id": 190,
+      "startMs": 1071100,
+      "endMs": 1074540,
+      "en": "And so it's understood that that has played a part in all of this.",
+      "zh": "因此，据了解，这在整件事中起到了一定作用。"
+    },
+    {
+      "id": 191,
+      "startMs": 1074540,
+      "endMs": 1079660,
+      "en": "Also, we understand that Harry and Meghan are keen to educate their children over here.",
+      "zh": "此外，据我们了解，哈里和梅根希望让孩子在英国接受教育。"
+    },
+    {
+      "id": 192,
+      "startMs": 1079980,
+      "endMs": 1084780,
+      "en": "And, of course, Harry has spoken extensively about how much he misses the UK.",
+      "zh": "当然，哈里也多次谈到自己有多么想念英国。"
+    },
+    {
+      "id": 193,
+      "startMs": 1084780,
+      "endMs": 1093420,
+      "en": "He said that in a BBC News interview last year, talking about how much he likes the idea of bringing his children back to his country of birth.",
+      "zh": "他去年接受 BBC News 采访时就这么说过，谈到自己多么希望把孩子带回出生的国家。"
+    },
+    {
+      "id": 194,
+      "startMs": 1093420,
+      "endMs": 1096060,
+      "en": "So we think all those factors have played a part in this.",
+      "zh": "所以我们认为，所有这些因素都促成了这一决定。"
+    },
+    {
+      "id": 195,
+      "startMs": 1096300,
+      "endMs": 1103820,
+      "en": "It's interesting, Noor, because he said in that same BBC interview that he couldn't anticipate returning to live in the UK.",
+      "zh": "这很有意思，努尔，因为他在同一次 BBC 采访中说过，无法预想回英国生活。"
+    },
+    {
+      "id": 196,
+      "startMs": 1103900,
+      "endMs": 1106060,
+      "en": "So something has changed.",
+      "zh": "所以情况发生了变化。"
+    },
+    {
+      "id": 197,
+      "startMs": 1106060,
+      "endMs": 1109100,
+      "en": "What's been the reaction inside the UK today?",
+      "zh": "今天英国国内有何反应？"
+    },
+    {
+      "id": 198,
+      "startMs": 1109500,
+      "endMs": 1118960,
+      "en": "Well, I think it's a really good point. One reason he gave for not being able to return, he said, was the issue of security.",
+      "zh": "我认为这是个很好的问题。他所说的无法回归的原因之一，是安保问题。"
+    },
+    {
+      "id": 199,
+      "startMs": 1118960,
+      "endMs": 1122880,
+      "en": "Because we know that's been a real sticking point for Prince Harry for some time.",
+      "zh": "因为我们知道，这段时间以来安保一直是哈里王子的真正症结。"
+    },
+    {
+      "id": 200,
+      "startMs": 1122880,
+      "endMs": 1131200,
+      "en": "He's been quite angry about the way that his and his family's security has been handled here in the UK ever since they moved to the US.",
+      "zh": "自从他们搬到美国后，哈里一直对他本人及家人在英国的安保处理方式感到相当愤怒。"
+    },
+    {
+      "id": 201,
+      "startMs": 1131200,
+      "endMs": 1138240,
+      "en": "And so the security arrangements and how that is handled when they move back here is going to be a really interesting thing to watch.",
+      "zh": "因此，他们搬回来时的安保安排及处理方式将非常值得关注。"
+    },
+    {
+      "id": 202,
+      "startMs": 1138240,
+      "endMs": 1142480,
+      "en": "We know that the Sussexes have a private security team in the US that they hire.",
+      "zh": "我们知道，苏塞克斯夫妇在美国雇有一支私人安保团队。"
+    },
+    {
+      "id": 203,
+      "startMs": 1142480,
+      "endMs": 1146080,
+      "en": "Whether that team will then move to the UK, it is not known.",
+      "zh": "这支团队是否会随他们搬到英国，目前不得而知。"
+    },
+    {
+      "id": 204,
+      "startMs": 1146240,
+      "endMs": 1152240,
+      "en": "It's also not known if Prince Harry has now resolved his long-running dispute with the Home Office over the security issues.",
+      "zh": "哈里王子是否已经解决与英国内政部长期围绕安保问题的争议，也不得而知。"
+    },
+    {
+      "id": 205,
+      "startMs": 1152240,
+      "endMs": 1159520,
+      "en": "But, as I say, with the family due to move here relatively shortly, we imagine all of this will come out into the open quite soon.",
+      "zh": "但正如我所说，既然一家人不久后就要搬来，我们想这些情况很快都会公之于众。"
+    },
+    {
+      "id": 206,
+      "startMs": 1159840,
+      "endMs": 1169840,
+      "en": "And in terms of reaction, we heard this morning, for example, from Education Secretary Lucy Powell, who said she welcomed their decision to move here.",
+      "zh": "至于反应，今天早上我们听到了教育大臣露西·鲍威尔的意见；她说欢迎他们搬来。"
+    },
+    {
+      "id": 207,
+      "startMs": 1169840,
+      "endMs": 1174420,
+      "en": "There will also be a lot of interest in where the children will be educated.",
+      "zh": "人们也会非常关注孩子将在哪里接受教育。"
+    },
+    {
+      "id": 208,
+      "startMs": 1174420,
+      "endMs": 1180900,
+      "en": "We know that, of course, their cousin, Prince George, is going to be starting at Eton pretty soon, in a couple of weeks.",
+      "zh": "我们知道，他们的表亲乔治王子几周后就将在伊顿公学入学。"
+    },
+    {
+      "id": 209,
+      "startMs": 1181140,
+      "endMs": 1184580,
+      "en": "Where Archie and Lilibet go to school will be of a lot of interest.",
+      "zh": "阿奇和莉莉贝特将去哪所学校，也会备受关注。"
+    },
+    {
+      "id": 210,
+      "startMs": 1184820,
+      "endMs": 1192980,
+      "en": "It won't most likely be in London, because we know that the family will not be living in London, but it could well be where they decide to locate.",
+      "zh": "学校很可能不在伦敦，因为我们知道他们一家不会住在伦敦；但学校可能就在他们决定定居的地方。"
+    },
+    {
+      "id": 211,
+      "startMs": 1192980,
+      "endMs": 1202180,
+      "en": "We think the rumour is that they could settle in the Cotswolds or Northampton area, close to Althorp, the Spencer family estate.",
+      "zh": "我们听到的传闻是，他们可能会选择在科茨沃尔德，或北安普敦一带定居，那里靠近斯宾塞家族的奥尔索普庄园。"
+    },
+    {
+      "id": 212,
+      "startMs": 1202420,
+      "endMs": 1204180,
+      "en": "Our royal correspondent, Noor Nanji.",
+      "zh": "我们的王室事务记者努尔·南吉。"
+    },
+    {
+      "id": 213,
+      "startMs": 1204580,
+      "endMs": 1208340,
+      "en": "To Australia, where there have been more developments in the mushroom murders trial.",
+      "zh": "转到澳大利亚，蘑菇谋杀案审判又有了新进展。"
+    },
+    {
+      "id": 214,
+      "startMs": 1208900,
+      "endMs": 1211940,
+      "en": "In Melbourne, an appeal hearing for Erin Patterson,",
+      "zh": "在墨尔本，Erin Patterson 的上诉听证会，"
+    },
+    {
+      "id": 215,
+      "startMs": 1211940,
+      "endMs": 1220260,
+      "en": "the Australian woman convicted of killing three people by feeding them a beef Wellington lunch laced with poisonous mushrooms, has come to a close.",
+      "zh": "这名澳大利亚女子被判定用掺有毒蘑菇的惠灵顿牛排午餐害死三人，听证会现已结束。"
+    },
+    {
+      "id": 216,
+      "startMs": 1220260,
+      "endMs": 1225940,
+      "en": "While her lawyers have been trying to overturn the conviction on the grounds of an unfair trial,",
+      "zh": "她的律师一直以审判不公为由，试图推翻定罪；"
+    },
+    {
+      "id": 217,
+      "startMs": 1226420,
+      "endMs": 1229780,
+      "en": "the prosecution say she should never have been allowed to leave prison.",
+      "zh": "检方则称，她本不该获准出狱。"
+    },
+    {
+      "id": 218,
+      "startMs": 1230260,
+      "endMs": 1232180,
+      "en": "Our Australia correspondent, Katie Watson.",
+      "zh": "澳大利亚记者 Katie Watson 报道。"
+    },
+    {
+      "id": 219,
+      "startMs": 1232200,
+      "endMs": 1236280,
+      "en": "Here are the details. Two days of hearings have now wrapped up in Melbourne.",
+      "zh": "详情如下。墨尔本的听证会如今已进行了两天并结束。"
+    },
+    {
+      "id": 220,
+      "startMs": 1236280,
+      "endMs": 1244120,
+      "en": "This was a double appeal. Erin Patterson was trying to overturn her conviction, and the prosecution was appealing against the sentence.",
+      "zh": "这是双重上诉：Erin Patterson 试图推翻定罪，检方则针对刑期提出上诉。"
+    },
+    {
+      "id": 221,
+      "startMs": 1244440,
+      "endMs": 1252120,
+      "en": "Now, much of Wednesday and today was spent going over Erin Patterson's case for appeal, seven grounds for appeal,",
+      "zh": "周三和今天的大部分时间，都在审理 Erin Patterson 的上诉案；她提出了七项上诉理由，"
+    },
+    {
+      "id": 222,
+      "startMs": 1252200,
+      "endMs": 1258360,
+      "en": "including issues with evidence, the actions of the prosecution, and the jury,",
+      "zh": "包括证据、检方行为以及陪审团方面的问题；"
+    },
+    {
+      "id": 223,
+      "startMs": 1258360,
+      "endMs": 1265400,
+      "en": "and her team going over in quite granular detail using previous cases to argue why they don't think that she had a fair trial last year.",
+      "zh": "她的团队还援引以往案件，极其细致地论证为何认为她去年没有得到公正审判。"
+    },
+    {
+      "id": 224,
+      "startMs": 1265480,
+      "endMs": 1272920,
+      "en": "Now, the last two hours of today was the prosecution's turn to argue why they think the sentence",
+      "zh": "今天最后两小时轮到检方说明，他们为何认为判给她的刑期"
+    },
+    {
+      "id": 225,
+      "startMs": 1273320,
+      "endMs": 1282760,
+      "en": "handed out to her, that's 33 years minimum before being allowed a chance for parole, they think that that is too lenient.",
+      "zh": "——至少服刑 33 年后才有机会假释——过于宽松。"
+    },
+    {
+      "id": 226,
+      "startMs": 1283160,
+      "endMs": 1290680,
+      "en": "They argue that the sentencing judge made a mistake in saying that she would face tough conditions inside prison",
+      "zh": "他们认为，量刑法官称她会在监狱里面临严酷条件，这是一个错误，"
+    },
+    {
+      "id": 227,
+      "startMs": 1290680,
+      "endMs": 1295820,
+      "en": "because of her notoriety and would be spending quite a considerable amount of time in the foreseeable future in solitary confinement.",
+      "zh": "因为她声名狼藉，预计未来相当长时间都要被单独监禁。"
+    },
+    {
+      "id": 228,
+      "startMs": 1295820,
+      "endMs": 1303820,
+      "en": "Now, the prosecution argues that's not necessarily the case. Evidence didn't point to that, and outlined",
+      "zh": "检方现在辩称，情况未必如此。证据并未指向这一点，而是说明"
+    },
+    {
+      "id": 229,
+      "startMs": 1303820,
+      "endMs": 1306940,
+      "en": "that she has access to a prison lounge,",
+      "zh": "她可以使用监狱休息室，"
+    },
+    {
+      "id": 230,
+      "startMs": 1307180,
+      "endMs": 1310940,
+      "en": "an exercise yard and to activities such as crocheting.",
+      "zh": "还能去锻炼场，并参加钩针编织等活动。"
+    },
+    {
+      "id": 231,
+      "startMs": 1311340,
+      "endMs": 1316700,
+      "en": "Now, at that point, the triple killer who was watching the hearing via video link",
+      "zh": "这时，这名三人谋杀案凶手通过视频连线旁听听证会，"
+    },
+    {
+      "id": 232,
+      "startMs": 1316860,
+      "endMs": 1319740,
+      "en": "closed her eyes and shook her head.",
+      "zh": "她闭上眼睛，摇了摇头。"
+    },
+    {
+      "id": 233,
+      "startMs": 1320220,
+      "endMs": 1325180,
+      "en": "Now, we won't have a decision on this for a while. They've reserved the decision,",
+      "zh": "这件事暂时不会有裁决。上诉法官宣布暂不作出决定，"
+    },
+    {
+      "id": 234,
+      "startMs": 1325180,
+      "endMs": 1330460,
+      "en": "the appeal judges, so it could take a matter of weeks or even months. Katie Watson.",
+      "zh": "上诉可能要几周甚至几个月。Katie Watson 报道。"
+    },
+    {
+      "id": 235,
+      "startMs": 1330780,
+      "endMs": 1338380,
+      "en": "And last, a crudely animated, homemade film about a baby cow has become an unlikely success at the box office in China.",
+      "zh": "最后，一部讲小牛、动画粗糙的自制电影，意外在中国票房大获成功。"
+    },
+    {
+      "id": 236,
+      "startMs": 1338780,
+      "endMs": 1343420,
+      "en": "Niu Lai was made on a low budget by a mother and son over five years.",
+      "zh": "《牛来》由一对母子用低成本花五年时间制作。"
+    },
+    {
+      "id": 237,
+      "startMs": 1343740,
+      "endMs": 1347980,
+      "en": "As of today, Thursday, it's grossed the equivalent of more than $4 million.",
+      "zh": "截至今天周四，影片票房已相当于超过 400 万美元。"
+    },
+    {
+      "id": 238,
+      "startMs": 1349180,
+      "endMs": 1353920,
+      "en": "This 25-year-old American musician working in Beijing summed up why he liked the film.",
+      "zh": "这名在北京工作的 25 岁美国音乐人概括了他喜欢这部电影的原因。"
+    },
+    {
+      "id": 239,
+      "startMs": 1354240,
+      "endMs": 1356400,
+      "en": "It was like so bad, it's so good.",
+      "zh": "它糟糕到极点，却又好得出奇。"
+    },
+    {
+      "id": 240,
+      "startMs": 1356720,
+      "endMs": 1363600,
+      "en": "AI could definitely make this like in like 10 seconds, maybe even faster. It's because it's not perfect, it's good.",
+      "zh": "人工智能绝对能在大约 10 秒内，甚至更快地做出这种东西。正因为它不完美，所以才好。"
+    },
+    {
+      "id": 241,
+      "startMs": 1363760,
+      "endMs": 1366560,
+      "en": "It shows how human it is. It's not serious,",
+      "zh": "这展现了它的人性。它并不严肃，"
+    },
+    {
+      "id": 242,
+      "startMs": 1366560,
+      "endMs": 1373920,
+      "en": "but I feel like life has become so serious, so like to see some things like this that we can just laugh at, you know, it's beautiful.",
+      "zh": "但我觉得生活变得太严肃了，所以看到这种能让我们一笑的东西，你知道，真的很美好。"
+    },
+    {
+      "id": 243,
+      "startMs": 1374320,
+      "endMs": 1378320,
+      "en": "Mengchen Zhang from the BBC World Service's Global China Unit told us more about the film.",
+      "zh": "BBC 世界台全球中国组的 Mengchen Zhang 向我们进一步介绍了这部电影。"
+    },
+    {
+      "id": 244,
+      "startMs": 1378400,
+      "endMs": 1388080,
+      "en": "The film is like something you would never expect to see on a big screen in a theater. It's very crude. It's like 2D animation.",
+      "zh": "这部电影是那种你绝不会想到会在影院大银幕上看到的作品。它很粗糙，就像二维动画。"
+    },
+    {
+      "id": 245,
+      "startMs": 1388080,
+      "endMs": 1392320,
+      "en": "You could almost make it from Flash. It's nothing like Spider-Man or any other fancy film we've seen.",
+      "zh": "几乎用 Flash 就能做出来。它完全不像《蜘蛛侠》或我们看过的其他华丽电影。"
+    },
+    {
+      "id": 246,
+      "startMs": 1392320,
+      "endMs": 1398160,
+      "en": "And tell me about the mother and the son who teamed up to make this film.",
+      "zh": "请介绍一下联手制作这部电影的母亲和儿子。"
+    },
+    {
+      "id": 247,
+      "startMs": 1398480,
+      "endMs": 1403200,
+      "en": "Yeah, that's one really interesting thing people want to know: who are the people behind the film?",
+      "zh": "是的，人们很想知道的一件有趣事情就是：这部电影背后是谁？"
+    },
+    {
+      "id": 248,
+      "startMs": 1403600,
+      "endMs": 1410480,
+      "en": "So, the director, Xing Yuming, he's someone in his 30s, and his mother, who was born in the '60s,",
+      "zh": "导演 Xing Yuming 现年 30 多岁；他的母亲出生于 20 世纪 60 年代，"
+    },
+    {
+      "id": 249,
+      "startMs": 1410480,
+      "endMs": 1416980,
+      "en": "they are the main crew and the cast behind the whole film. And the mother even sang the final song in the movie,",
+      "zh": "母子二人既是整部电影的主要制作团队，也是演员。母亲还演唱了片中的片尾曲，"
+    },
+    {
+      "id": 250,
+      "startMs": 1416980,
+      "endMs": 1419700,
+      "en": "and she's also dubbing a lot of the characters.",
+      "zh": "并为许多角色配音。"
+    },
+    {
+      "id": 251,
+      "startMs": 1420100,
+      "endMs": 1429780,
+      "en": "And what's most interesting about this mother-son duo is they are having zero background and professional training in animation or filmmaking.",
+      "zh": "这对母子最有趣之处在于，他们完全没有动画或电影制作背景，也没有受过专业训练。"
+    },
+    {
+      "id": 252,
+      "startMs": 1429860,
+      "endMs": 1436340,
+      "en": "The son, from what we've seen in Chinese reporting, he studied garden design and architecture design,",
+      "zh": "从中国媒体报道来看，儿子学习的是园林设计和建筑设计，"
+    },
+    {
+      "id": 253,
+      "startMs": 1436660,
+      "endMs": 1439940,
+      "en": "so that has nothing to do with actual filming and animation.",
+      "zh": "与实际的拍摄和动画制作毫无关系。"
+    },
+    {
+      "id": 254,
+      "startMs": 1440420,
+      "endMs": 1445860,
+      "en": "And the mother, we haven't seen much reporting about her, but she's not from a professional background either.",
+      "zh": "至于母亲，我们没有看到太多报道，但她同样没有专业背景。"
+    },
+    {
+      "id": 255,
+      "startMs": 1445940,
+      "endMs": 1450420,
+      "en": "I love the fact that they worked on this together and it took them five years to make it.",
+      "zh": "我很喜欢他们共同完成这部作品，而且花了五年时间。"
+    },
+    {
+      "id": 256,
+      "startMs": 1450900,
+      "endMs": 1457300,
+      "en": "How do you explain the popularity of this film? Is it a rejection of things looking too polished these days",
+      "zh": "你如何解释这部电影的受欢迎？这是否源于人们拒绝如今过度精致的作品，"
+    },
+    {
+      "id": 257,
+      "startMs": 1457300,
+      "endMs": 1459540,
+      "en": "and AI being used too much, do you think?",
+      "zh": "以及对人工智能过度使用的反感？"
+    },
+    {
+      "id": 258,
+      "startMs": 1459540,
+      "endMs": 1465620,
+      "en": "I think that's definitely a very important factor why people are getting this surprise.",
+      "zh": "我认为，这绝对是人们感到意外的一个重要因素。"
+    },
+    {
+      "id": 259,
+      "startMs": 1465620,
+      "endMs": 1472980,
+      "en": "Like you have seen a lot of AI-animated film on your phone that's even better than what we see on the big screen.",
+      "zh": "你会看到很多手机上的人工智能动画电影，甚至比大银幕上的还好。"
+    },
+    {
+      "id": 260,
+      "startMs": 1472980,
+      "endMs": 1475380,
+      "en": "So that's a very big surprise element there.",
+      "zh": "所以，这构成了一个很大的意外因素。"
+    },
+    {
+      "id": 261,
+      "startMs": 1475780,
+      "endMs": 1481540,
+      "en": "And the other thing is, while AI is developing so fast, like Chinese AI software Vidu,",
+      "zh": "另一点是，人工智能发展得如此之快；比如中国的人工智能软件 Vidu，"
+    },
+    {
+      "id": 262,
+      "startMs": 1481540,
+      "endMs": 1488660,
+      "en": "they can make almost like real people. And when you see such simple animation that's purely made by humans,",
+      "zh": "它们几乎可以制作出真人。反观这种完全由人制作的简单动画，"
+    },
+    {
+      "id": 263,
+      "startMs": 1488900,
+      "endMs": 1493780,
+      "en": "you can see there's a very different contrast there. You can actually feel the human story.",
+      "zh": "你会看到非常不同的对比，确实能感受到其中的人类故事。"
+    },
+    {
+      "id": 264,
+      "startMs": 1494100,
+      "endMs": 1497700,
+      "en": "Mengchen Zhang from the BBC World Service's Global China Unit.",
+      "zh": "BBC 世界台全球中国组的 Mengchen Zhang 报道。"
+    },
+    {
+      "id": 265,
+      "startMs": 1499700,
+      "endMs": 1500820,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是目前的全部内容。"
+    },
+    {
+      "id": 266,
+      "startMs": 1500900,
+      "endMs": 1505460,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 267,
+      "startMs": 1505460,
+      "endMs": 1510260,
+      "en": "You can also now watch our episodes in full. Just search for the Global News Podcast",
+      "zh": "现在还可以观看我们的完整节目，只需搜索 Global News Podcast，"
+    },
+    {
+      "id": 268,
+      "startMs": 1510260,
+      "endMs": 1513140,
+      "en": "on YouTube. And don't forget our sister podcast, The Global Story,",
+      "zh": "在 YouTube 上即可。别忘了我们的姊妹播客《全球故事》，"
+    },
+    {
+      "id": 269,
+      "startMs": 1513140,
+      "endMs": 1517940,
+      "en": "which goes in-depth and beyond the headlines on one big story.",
+      "zh": "它将围绕一个重大故事深入报道，超越新闻标题。"
+    },
+    {
+      "id": 270,
+      "startMs": 1518420,
+      "endMs": 1523700,
+      "en": "This edition of the Global News Podcast was mixed by Holly Smith, and the producer was Steve Jensen.",
+      "zh": "本期《全球新闻播客》由 Holly Smith 混音，制作人是 Steve Jensen。"
+    },
+    {
+      "id": 271,
+      "startMs": 1524100,
+      "endMs": 1525460,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是 Karen Martin。"
+    },
+    {
+      "id": 272,
+      "startMs": 1525460,
+      "endMs": 1527940,
+      "en": "I'm Celia Hatton. Until next time, goodbye.",
+      "zh": "我是 Celia Hatton。下次再见。"
+    }
+  ]
+}
