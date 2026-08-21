@@ -1,0 +1,1880 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "21 August 2026"
+  },
+  "durationMs": 1459960,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 5600,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6080,
+      "endMs": 10800,
+      "en": "I'm Valerie Sanderson, and on Friday, the 21st of August, these are our main stories.",
+      "zh": "我是瓦莱丽·桑德森。今天是8月21日星期五，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11360,
+      "endMs": 16320,
+      "en": "Weather experts warn that a developing El Niño event could become the largest in living memory.",
+      "zh": "气象专家警告，正在形成的厄尔尼诺事件可能成为有生之年最强的一次。"
+    },
+    {
+      "id": 4,
+      "startMs": 16880,
+      "endMs": 21920,
+      "en": "Imran Khan, Pakistan's former Prime Minister, is returned to jail after being taken to hospital.",
+      "zh": "巴基斯坦前总理伊姆兰·汗被送医后重新入狱。"
+    },
+    {
+      "id": 5,
+      "startMs": 22480,
+      "endMs": 28640,
+      "en": "A report from the occupied West Bank, where Israeli settlers have returned to a village after 21 years.",
+      "zh": "来自被占领约旦河西岸的报道：以色列定居者在离开21年后重返一个村庄。"
+    },
+    {
+      "id": 6,
+      "startMs": 30820,
+      "endMs": 37060,
+      "en": "Also in this podcast, the true story of a man who cycled from India to Europe for love is turned into a film.",
+      "zh": "本期还将介绍一部电影：一名男子为爱从印度骑车前往欧洲的真实故事被搬上银幕。"
+    },
+    {
+      "id": 7,
+      "startMs": 37300,
+      "endMs": 43460,
+      "en": "You meet them, and you're like, \"Wow, you know, this is a love story with a happy ending because you're still together.\"",
+      "zh": "你见到他们，会想：‘哇，你看，这是一段有圆满结局的爱情故事，因为你们至今仍在一起。’"
+    },
+    {
+      "id": 8,
+      "startMs": 43860,
+      "endMs": 50820,
+      "en": "They hold hands, and they're affectionate, and I'm like, \"I want that after 50 years, you know, it's amazing.\"",
+      "zh": "他们手牵着手，亲密相伴。我会想：‘我希望50年后也能这样，真的太美好了。’"
+    },
+    {
+      "id": 9,
+      "startMs": 53320,
+      "endMs": 61480,
+      "en": "It seems every week another report is released about extreme weather and the increasingly worrying state of the climate. Today is no exception.",
+      "zh": "似乎每周都会有关于极端天气和日益令人担忧的气候状况的新报告发布，今天也不例外。"
+    },
+    {
+      "id": 10,
+      "startMs": 61640,
+      "endMs": 68680,
+      "en": "Scientists are now warning that the El Niño weather event developing over the Pacific Ocean is likely to be the strongest in living memory.",
+      "zh": "科学家现在警告，正在太平洋上形成的厄尔尼诺天气事件，很可能是有生之年最强的一次。"
+    },
+    {
+      "id": 11,
+      "startMs": 69160,
+      "endMs": 75640,
+      "en": "Professor Adam Scaife is head of long-range forecasting for Britain's Met Office, which released the latest data.",
+      "zh": "亚当·斯凯夫教授负责英国气象局的长期预报，该机构发布了最新数据。"
+    },
+    {
+      "id": 12,
+      "startMs": 75640,
+      "endMs": 82440,
+      "en": "I've been involved in long-range forecasting for many years, and I have never seen an event like this in our forecasts.",
+      "zh": "我从事长期预报多年，从未在我们的预报中见过这样的事件。"
+    },
+    {
+      "id": 13,
+      "startMs": 82840,
+      "endMs": 86280,
+      "en": "The tropical Pacific is warming faster than I've ever seen,",
+      "zh": "热带太平洋正在以我前所未见的速度变暖，"
+    },
+    {
+      "id": 14,
+      "startMs": 86600,
+      "endMs": 91400,
+      "en": "and assuming forecasts are correct, we have very high confidence at this stage,",
+      "zh": "假设预报正确，我们目前对此有很高的信心，"
+    },
+    {
+      "id": 15,
+      "startMs": 91560,
+      "endMs": 99800,
+      "en": "we think that when it peaks in November and December, it's likely to be a record event, unprecedented, beyond anything we've seen in living memory.",
+      "zh": "我们认为，它在11月和12月达到峰值时，很可能创下纪录，是有生之年从未见过的空前事件。"
+    },
+    {
+      "id": 16,
+      "startMs": 99960,
+      "endMs": 103160,
+      "en": "I heard more from our environment correspondent, Matt McGrath.",
+      "zh": "环境事务记者马特·麦格拉思带来了更多报道。"
+    },
+    {
+      "id": 17,
+      "startMs": 103400,
+      "endMs": 108440,
+      "en": "It's worth bearing in mind: this current El Niño was declared just over two months ago in June,",
+      "zh": "需要记住，目前这次厄尔尼诺事件是在6月、也就是两个月多一点前才被宣布的，"
+    },
+    {
+      "id": 18,
+      "startMs": 108440,
+      "endMs": 115260,
+      "en": "and that declaration means the temperatures in the water have reached 0.5 degrees above the long-term average.",
+      "zh": "这项宣布意味着，海水温度已达到高于长期平均值0.5摄氏度的水平。"
+    },
+    {
+      "id": 19,
+      "startMs": 115500,
+      "endMs": 118460,
+      "en": "Now, that's gone from that to two degrees in a couple of months.",
+      "zh": "现在，仅几个月时间就从这个水平升到了2摄氏度。"
+    },
+    {
+      "id": 20,
+      "startMs": 118780,
+      "endMs": 122060,
+      "en": "It may rise to at least three degrees, according to the Met Office,",
+      "zh": "据英国气象局预测，温度可能升至至少3摄氏度，"
+    },
+    {
+      "id": 21,
+      "startMs": 122060,
+      "endMs": 124220,
+      "en": "maybe four degrees, according to other forecasts.",
+      "zh": "其他预报则认为可能达到4摄氏度。"
+    },
+    {
+      "id": 22,
+      "startMs": 124540,
+      "endMs": 126780,
+      "en": "Those are significant increases in temperatures.",
+      "zh": "这些都是显著的升温。"
+    },
+    {
+      "id": 23,
+      "startMs": 127020,
+      "endMs": 129340,
+      "en": "What's driving it? There's heat down in the water,",
+      "zh": "是什么推动了这一变化？海水深处储存着热量，"
+    },
+    {
+      "id": 24,
+      "startMs": 129340,
+      "endMs": 133660,
+      "en": "perhaps eight degrees above the long-term average deep in the waters of the Pacific.",
+      "zh": "太平洋深层水域的温度可能比长期平均值高出约8摄氏度。"
+    },
+    {
+      "id": 25,
+      "startMs": 133660,
+      "endMs": 139980,
+      "en": "So that's an awful lot of heat that could—and will—come out of the ocean and have impacts all around the world.",
+      "zh": "所以，大量热量将从海洋中释放，影响世界各地。"
+    },
+    {
+      "id": 26,
+      "startMs": 140460,
+      "endMs": 145980,
+      "en": "A lot of people listening to this, Matt, are going to think, you know, why is El Niño itself so important?",
+      "zh": "很多听众可能会想：马特，厄尔尼诺本身为什么如此重要？"
+    },
+    {
+      "id": 27,
+      "startMs": 146220,
+      "endMs": 147820,
+      "en": "What does this system actually do?",
+      "zh": "这个系统究竟会造成什么影响？"
+    },
+    {
+      "id": 28,
+      "startMs": 149100,
+      "endMs": 154700,
+      "en": "What it does really is disrupt the weather patterns and the weather systems that we've all gotten used to around the world.",
+      "zh": "它实际上会扰乱世界各地我们已经习惯的天气模式和天气系统。"
+    },
+    {
+      "id": 29,
+      "startMs": 154700,
+      "endMs": 159500,
+      "en": "So the monsoon, for instance, the increase of heat, the increase of change in the winds,",
+      "zh": "以季风为例，热量增加，以及风向变化加剧，"
+    },
+    {
+      "id": 30,
+      "startMs": 159500,
+      "endMs": 162300,
+      "en": "that's caused by the rise of heat in the Pacific,",
+      "zh": "这些都是太平洋热量上升造成的，"
+    },
+    {
+      "id": 31,
+      "startMs": 162700,
+      "endMs": 167260,
+      "en": "that increases the chance of a very low monsoon, which affects millions and millions of people.",
+      "zh": "这会增加季风严重偏弱的可能性，影响数以百万计的人。"
+    },
+    {
+      "id": 32,
+      "startMs": 167580,
+      "endMs": 171340,
+      "en": "You'll also see flooding in some places.",
+      "zh": "有些地方还会发生洪灾。"
+    },
+    {
+      "id": 33,
+      "startMs": 171340,
+      "endMs": 177660,
+      "en": "We've seen increased floods reported in Peru, right in El Niño's path, in the last couple of weeks.",
+      "zh": "秘鲁正处于厄尔尼诺影响路径上，报道称那里过去几周洪水有所增加。"
+    },
+    {
+      "id": 34,
+      "startMs": 177740,
+      "endMs": 182780,
+      "en": "The Panama Canal says it will cut the number of ships because of drought.",
+      "zh": "巴拿马运河方面表示，由于干旱将减少通行船只的数量。"
+    },
+    {
+      "id": 35,
+      "startMs": 182780,
+      "endMs": 189340,
+      "en": "Every area, especially around the tropical belt, is hugely affected—from Indonesia to Australia,",
+      "zh": "各地尤其是热带地区都会受到巨大影响，从印度尼西亚到澳大利亚都是如此，"
+    },
+    {
+      "id": 36,
+      "startMs": 189660,
+      "endMs": 192700,
+      "en": "The central region and other parts of the world are affected too.",
+      "zh": "整个太平洋中部区域以及世界其他地方也会受到影响。"
+    },
+    {
+      "id": 37,
+      "startMs": 192940,
+      "endMs": 199580,
+      "en": "We're likely to see the biggest impact: a new record global temperature next year,",
+      "zh": "我们可能看到的最大影响，是明年全球气温创下新纪录，"
+    },
+    {
+      "id": 38,
+      "startMs": 199580,
+      "endMs": 204060,
+      "en": "that will be directly linked, I think, to the added heat that El Niño will push into the atmosphere.",
+      "zh": "我认为，这将与厄尔尼诺推入大气的额外热量直接相关。"
+    },
+    {
+      "id": 39,
+      "startMs": 204380,
+      "endMs": 207580,
+      "en": "I mean, this is a simplistic question, but can anything be done?",
+      "zh": "我的问题可能很简单，但我们能做些什么吗？"
+    },
+    {
+      "id": 40,
+      "startMs": 208300,
+      "endMs": 212960,
+      "en": "I don't think anything can be done directly, and people often link these events to climate change.",
+      "zh": "我认为没有什么事情可以直接做；人们常说这些事件与气候变化有关。"
+    },
+    {
+      "id": 41,
+      "startMs": 212960,
+      "endMs": 218880,
+      "en": "This is a natural event, but it occurs in a much warmer world. It's not directly linked to climate change,",
+      "zh": "这是一种自然现象，但发生在更温暖的世界。它并非直接与气候变化相关，"
+    },
+    {
+      "id": 42,
+      "startMs": 218880,
+      "endMs": 225600,
+      "en": "so us cutting back our fossil fuels and our emissions aren't going to directly impact El Niño, but it's happening in a much warmer world.",
+      "zh": "所以削减化石燃料使用和排放不会直接影响厄尔尼诺，但它发生在一个更温暖的世界。"
+    },
+    {
+      "id": 43,
+      "startMs": 225600,
+      "endMs": 232000,
+      "en": "If it wasn't happening in such a warm world, it may not have such a direct impact. The floods, the droughts might not be as strong.",
+      "zh": "如果它不是发生在如此温暖的世界里，直接影响可能不会这么大；洪水和干旱或许也不会这么严重。"
+    },
+    {
+      "id": 44,
+      "startMs": 232000,
+      "endMs": 238080,
+      "en": "So I don't think there's anything we can do except bear it, be aware of it, listen to the forecast, be aware of what's happening in the world.",
+      "zh": "所以我认为我们除了承受、了解它，听取预报并关注世界各地的情况之外，别无他法。"
+    },
+    {
+      "id": 45,
+      "startMs": 238720,
+      "endMs": 245280,
+      "en": "But stopping it, I'm afraid, it's a natural event. It happens every two to seven years, and we've been having these for almost a thousand years.",
+      "zh": "但恐怕无法阻止它，这是自然现象。它每两到七年发生一次，而这种现象已经持续了近千年。"
+    },
+    {
+      "id": 46,
+      "startMs": 245440,
+      "endMs": 250080,
+      "en": "Matt McGrath. We heard there from Matt about the growing threat from El Niño.",
+      "zh": "马特·麦格拉思。刚才马特介绍了厄尔尼诺日益加剧的威胁。"
+    },
+    {
+      "id": 47,
+      "startMs": 250400,
+      "endMs": 255360,
+      "en": "Indian consumers are already feeling the impact with the skyrocketing price of sugar.",
+      "zh": "印度消费者已经感受到影响，糖价飞涨。"
+    },
+    {
+      "id": 48,
+      "startMs": 255840,
+      "endMs": 262080,
+      "en": "Now, the Indian authorities have approved duty-free imports of raw sugar to bolster local supplies.",
+      "zh": "印度当局批准免税进口原糖，以增加国内供应。"
+    },
+    {
+      "id": 49,
+      "startMs": 262480,
+      "endMs": 266880,
+      "en": "Our India business correspondent, Archana Shukla, is following this in Mumbai.",
+      "zh": "我们的印度商务记者阿尔查娜·舒克拉正在孟买跟进此事。"
+    },
+    {
+      "id": 50,
+      "startMs": 266880,
+      "endMs": 272500,
+      "en": "I asked her, will these measures be enough to satisfy the demand for sugar in the country?",
+      "zh": "我问她：这些措施足以满足印度国内的食糖需求吗？"
+    },
+    {
+      "id": 51,
+      "startMs": 272740,
+      "endMs": 276500,
+      "en": "Well, to some extent, yes. They are hoping that with additional supplies",
+      "zh": "在一定程度上可以。他们希望随着额外供应到来，"
+    },
+    {
+      "id": 52,
+      "startMs": 276500,
+      "endMs": 283060,
+      "en": "coming in, the prices will start easing, which have gone up by more than 40% here in the local markets.",
+      "zh": "价格会开始回落；当地市场的糖价已经上涨了逾40%。"
+    },
+    {
+      "id": 53,
+      "startMs": 283300,
+      "endMs": 289460,
+      "en": "And with the festive season coming up, we have a long period of festivals with Dussehra, Diwali, and then the wedding season.",
+      "zh": "随着节庆季临近，我们将迎来很长的节庆期，包括十胜节、排灯节，随后还有婚礼季。"
+    },
+    {
+      "id": 54,
+      "startMs": 289700,
+      "endMs": 297620,
+      "en": "That's a period when the demand for sweets actually goes up quite a lot, and that is the period when the government hopes that this supply would help.",
+      "zh": "这段时间人们对甜食的需求会大幅上升，也正是政府希望这些供应能发挥作用的时候。"
+    },
+    {
+      "id": 55,
+      "startMs": 297860,
+      "endMs": 302580,
+      "en": "You know, it wouldn't have been this big a problem if the cropping season was normal,",
+      "zh": "如果种植季正常，这本不会成为这么大的问题，"
+    },
+    {
+      "id": 56,
+      "startMs": 302580,
+      "endMs": 308500,
+      "en": "but because of the El Niño impact, there've been erratic rain patterns, and the sugarcane crop has been hurt.",
+      "zh": "但受厄尔尼诺影响，降雨模式反常，甘蔗作物受损。"
+    },
+    {
+      "id": 57,
+      "startMs": 308980,
+      "endMs": 314340,
+      "en": "And the spare capacity that India has normally is now being directed to ethanol-based fuels,",
+      "zh": "印度通常拥有的闲置产能如今被用于生产乙醇燃料，"
+    },
+    {
+      "id": 58,
+      "startMs": 314580,
+      "endMs": 317460,
+      "en": "so the supply actually is crunched from both sides,",
+      "zh": "所以供应实际上受到两方面的挤压，"
+    },
+    {
+      "id": 59,
+      "startMs": 317460,
+      "endMs": 321700,
+      "en": "and that is pushing the government to import for the first time in a decade.",
+      "zh": "这正促使政府十年来首次进口食糖。"
+    },
+    {
+      "id": 60,
+      "startMs": 321940,
+      "endMs": 329720,
+      "en": "And that will definitely have an impact globally, because India is the second-largest producer of sugar and the second-largest exporter.",
+      "zh": "这无疑也会产生全球影响，因为要记住，印度是世界第二大食糖生产国，也是第二大出口国。"
+    },
+    {
+      "id": 61,
+      "startMs": 329720,
+      "endMs": 337960,
+      "en": "And this is happening at a time when other major exporters like Brazil and Europe are also seeing impacts on sugar-crop production.",
+      "zh": "而此时，巴西和欧洲等其他主要出口方的糖料作物生产也正受到影响。"
+    },
+    {
+      "id": 62,
+      "startMs": 337960,
+      "endMs": 346440,
+      "en": "I checked earlier this morning: international sugar prices have started ticking up on news that India will import rather than export.",
+      "zh": "我今天早些时候查看时，国际糖价已经开始上涨，因为有消息称印度现在将进口而非出口。"
+    },
+    {
+      "id": 63,
+      "startMs": 347240,
+      "endMs": 353320,
+      "en": "And Archana, tell us about other ways that Indian consumers might be affected by El Niño.",
+      "zh": "阿尔查娜，请告诉我们厄尔尼诺还可能通过哪些方式影响印度消费者。"
+    },
+    {
+      "id": 64,
+      "startMs": 354380,
+      "endMs": 362620,
+      "en": "Well, across different aspects in our lives, this time in summer, we saw some of the most intense night-time heat for people.",
+      "zh": "在生活的各个方面，今年夏天人们经历了最强烈的夜间高温之一。"
+    },
+    {
+      "id": 65,
+      "startMs": 362940,
+      "endMs": 368300,
+      "en": "The demand for power went up; for cooling and air conditioning, it went up.",
+      "zh": "电力需求上升了，制冷和空调的需求也增加了。"
+    },
+    {
+      "id": 66,
+      "startMs": 368540,
+      "endMs": 375900,
+      "en": "It also impacted people's sleep patterns, their work life, and the biggest impact is now coming on food with erratic rains.",
+      "zh": "这还影响了人们的睡眠模式和工作生活，而反常降雨如今对食物造成了最大影响。"
+    },
+    {
+      "id": 67,
+      "startMs": 376220,
+      "endMs": 381980,
+      "en": "And we know India's majority of farms here in India are rain-fed, and with the monsoon being delayed,",
+      "zh": "我们知道，印度大多数农场依靠雨水灌溉；由于季风延迟，"
+    },
+    {
+      "id": 68,
+      "startMs": 382300,
+      "endMs": 391180,
+      "en": "With the monsoon delayed and erratic, it's affecting crops—not just sugarcane, but rice, wheat, the whole monsoon cropping season—and food prices.",
+      "zh": "季风又不稳定，受影响的不只是甘蔗，还有水稻、小麦和整个季风种植季，食品价格也受到冲击。"
+    },
+    {
+      "id": 69,
+      "startMs": 391180,
+      "endMs": 398700,
+      "en": "We've seen some of our kitchen staples becoming very expensive, from the grains, from vegetables, and that's a direct hit on household budgets.",
+      "zh": "我们看到一些厨房主食变得非常昂贵，从谷物到蔬菜都是如此，这直接冲击了家庭预算。"
+    },
+    {
+      "id": 70,
+      "startMs": 399100,
+      "endMs": 405580,
+      "en": "Then we are looking at water reservoirs at very low capacities at this point in time.",
+      "zh": "此外，目前水库的蓄水量也处于很低的水平。"
+    },
+    {
+      "id": 71,
+      "startMs": 405980,
+      "endMs": 413900,
+      "en": "And everybody's looking at the monsoon to kind of fill in; otherwise, water for drinking and even for winter crops could be a problem.",
+      "zh": "所有人都在盼望季风带来降雨补充水源；否则，饮用水甚至冬季作物用水都可能成为问题。"
+    },
+    {
+      "id": 72,
+      "startMs": 414000,
+      "endMs": 416080,
+      "en": "It could be a problem. Archana Shukla.",
+      "zh": "这可能会成为问题。阿尔查娜·舒克拉。"
+    },
+    {
+      "id": 73,
+      "startMs": 416720,
+      "endMs": 420560,
+      "en": "Israeli settlers have returned to the settlement of Kadim in the occupied West Bank.",
+      "zh": "以色列定居者重返被占领的约旦河西岸的卡迪姆定居点。"
+    },
+    {
+      "id": 74,
+      "startMs": 420880,
+      "endMs": 424560,
+      "en": "Twenty-one years after it was evacuated by a previous Israeli government.",
+      "zh": "这里在以色列前届政府撤离定居者后，已有21年。"
+    },
+    {
+      "id": 75,
+      "startMs": 425120,
+      "endMs": 429200,
+      "en": "Kadim is the last of four West Bank settlements dismantled in 2005",
+      "zh": "卡迪姆是2005年被拆除的四个约旦河西岸定居点中最后一个"
+    },
+    {
+      "id": 76,
+      "startMs": 429680,
+      "endMs": 433120,
+      "en": "to be reopened under the current Israeli government.",
+      "zh": "在现任以色列政府执政期间重新开放的定居点。"
+    },
+    {
+      "id": 77,
+      "startMs": 433440,
+      "endMs": 439760,
+      "en": "and is part of a sprint to expand settlements across the West Bank before elections are held in Israel in October.",
+      "zh": "这也是以色列在10月举行大选前加速扩大约旦河西岸定居点的一部分。"
+    },
+    {
+      "id": 78,
+      "startMs": 440320,
+      "endMs": 444480,
+      "en": "Our Middle East correspondent Lucy Williamson has this report from outside Kadim.",
+      "zh": "请听中东记者露西·威廉姆森在卡迪姆外的报道。"
+    },
+    {
+      "id": 79,
+      "startMs": 447560,
+      "endMs": 453240,
+      "en": "Flanked by government ministers and rows of new white caravans, settler leader Yossi Dagan",
+      "zh": "在政府部长和一排排白色新活动房屋的簇拥下，定居者领袖约西·达甘"
+    },
+    {
+      "id": 80,
+      "startMs": 453320,
+      "endMs": 458600,
+      "en": "congratulated Kadim's new settler families as the inaugural ribbon was cut.",
+      "zh": "祝贺卡迪姆的新定居者家庭，现场剪开彩带。"
+    },
+    {
+      "id": 81,
+      "startMs": 459500,
+      "endMs": 463580,
+      "en": "\"We've corrected the expulsion from Northern Samaria,\" Dagan said,",
+      "zh": "达甘说：“我们纠正了把我们驱逐出北撒马利亚的错误。”"
+    },
+    {
+      "id": 82,
+      "startMs": 464060,
+      "endMs": 466700,
+      "en": "using the biblical name for the occupied West Bank,",
+      "zh": "他使用了被占领的约旦河西岸的《圣经》名称，"
+    },
+    {
+      "id": 83,
+      "startMs": 467180,
+      "endMs": 470780,
+      "en": "vowing that Jewish settlers would return to Gaza too.",
+      "zh": "并发誓犹太定居者也将返回加沙。"
+    },
+    {
+      "id": 84,
+      "startMs": 473920,
+      "endMs": 480480,
+      "en": "This area around Jenin is the latest focus of Israel's push to expand settlements across the West Bank.",
+      "zh": "杰宁周边地区是以色列推动扩大约旦河西岸定居点的最新焦点。"
+    },
+    {
+      "id": 85,
+      "startMs": 481620,
+      "endMs": 488340,
+      "en": "Government ministers and settler leaders were invited to Kadim's opening ceremony. Journalists were not.",
+      "zh": "政府部长和定居者领袖受邀参加卡迪姆的开幕仪式，记者却没有获邀。"
+    },
+    {
+      "id": 86,
+      "startMs": 488980,
+      "endMs": 494660,
+      "en": "Down a narrow track just behind the settlement, we found a Palestinian vegetable farmer and his family.",
+      "zh": "就在定居点后方一条狭窄小路上，我们找到了一名巴勒斯坦蔬菜农民和他的家人。"
+    },
+    {
+      "id": 87,
+      "startMs": 495220,
+      "endMs": 497060,
+      "en": "He asked us to hide his identity.",
+      "zh": "他要求我们隐去身份。"
+    },
+    {
+      "id": 88,
+      "startMs": 497860,
+      "endMs": 503620,
+      "en": "As a boy, he told us he'd watched from this same house as the settlement of Kadim was built,",
+      "zh": "他告诉我们，自己还是孩子时，就在这所房子里看着卡迪姆定居点建成，"
+    },
+    {
+      "id": 89,
+      "startMs": 504180,
+      "endMs": 510020,
+      "en": "then watched it evacuated two decades later. Now, he's watching the settlers return.",
+      "zh": "二十年后又看着它被撤离；如今，他正看着定居者回来。"
+    },
+    {
+      "id": 90,
+      "startMs": 510940,
+      "endMs": 517100,
+      "en": "\"This time, it's different,\" he told me. \"Back then, the settlers lived alongside us.\"",
+      "zh": "“这次不一样，”他告诉我，“那时定居者和我们住在一起。”"
+    },
+    {
+      "id": 91,
+      "startMs": 517500,
+      "endMs": 519820,
+      "en": "They lived their lives, and we lived ours.",
+      "zh": "他们过他们的生活，我们过我们的生活。"
+    },
+    {
+      "id": 92,
+      "startMs": 520380,
+      "endMs": 527020,
+      "en": "But now, they've already driven my nephews away from their citrus trees, telling them, \"You have no place here.\"",
+      "zh": "但现在，他们已经把我的侄子们赶离自家的柑橘树，还对他们说：“这里没有你们的位置。”"
+    },
+    {
+      "id": 93,
+      "startMs": 527500,
+      "endMs": 528140,
+      "en": "Don't come back.",
+      "zh": "别回来。"
+    },
+    {
+      "id": 94,
+      "startMs": 533280,
+      "endMs": 538240,
+      "en": "Kadim was one of four Israeli settlements forcibly evacuated in 2005.",
+      "zh": "卡迪姆是2005年被强制撤离的四个以色列定居点之一。"
+    },
+    {
+      "id": 95,
+      "startMs": 538240,
+      "endMs": 546720,
+      "en": "Israel's current government has reopened all four of them and approved more new settlements in the area as well.",
+      "zh": "以色列现政府已重新开放这四个定居点，并批准在该地区建立更多新定居点。"
+    },
+    {
+      "id": 96,
+      "startMs": 547280,
+      "endMs": 551120,
+      "en": "overturning a 20-year ban on Israeli settlers around Jenin.",
+      "zh": "这推翻了围绕杰宁禁止以色列定居者活动长达20年的禁令。"
+    },
+    {
+      "id": 97,
+      "startMs": 552280,
+      "endMs": 556600,
+      "en": "By the time caravans had arrived at the new settlement of Emek Dotan,",
+      "zh": "等到活动房屋抵达埃梅克·多坦新定居点时，"
+    },
+    {
+      "id": 98,
+      "startMs": 557000,
+      "endMs": 561160,
+      "en": "Palestinian teacher Samer Jaber says the problems had already begun.",
+      "zh": "巴勒斯坦教师萨默尔·贾比尔说，问题已经开始出现。"
+    },
+    {
+      "id": 99,
+      "startMs": 565140,
+      "endMs": 569300,
+      "en": "\"Settlers try to enter our homes and provoke us in every possible way.",
+      "zh": "“定居者试图进入我们的家，以各种方式挑衅我们。"
+    },
+    {
+      "id": 100,
+      "startMs": 569780,
+      "endMs": 573140,
+      "en": "The biggest problem is after midnight. After midnight,",
+      "zh": "最大的问题发生在午夜之后。午夜之后，"
+    },
+    {
+      "id": 101,
+      "startMs": 573460,
+      "endMs": 577460,
+      "en": "they have powerful floodlights, and they stop right next to the house,",
+      "zh": "他们开着强力探照灯，把车停在房子旁边，"
+    },
+    {
+      "id": 102,
+      "startMs": 577780,
+      "endMs": 581300,
+      "en": "shining them directly through the windows, house after house,",
+      "zh": "让灯光直接照进一户又一户人家的窗户，"
+    },
+    {
+      "id": 103,
+      "startMs": 581620,
+      "endMs": 583380,
+      "en": "until two or three in the morning.\"",
+      "zh": "一直持续到凌晨两三点。”"
+    },
+    {
+      "id": 104,
+      "startMs": 586020,
+      "endMs": 593700,
+      "en": "Alongside new settlements around Jenin are new Israeli military bases, including one near Jenin's refugee camp,",
+      "zh": "杰宁周边的新定居点旁还出现了新的以色列军事基地，其中一个靠近杰宁难民营，"
+    },
+    {
+      "id": 105,
+      "startMs": 594100,
+      "endMs": 600180,
+      "en": "the first permanent Israeli military site built on land under full Palestinian Authority control.",
+      "zh": "这是首个建在巴勒斯坦民族权力机构完全控制土地上的以色列永久军事设施。"
+    },
+    {
+      "id": 106,
+      "startMs": 600180,
+      "endMs": 606980,
+      "en": "\"In the past, we enjoyed the bliss of not having settlements.",
+      "zh": "“过去，没有定居点的生活让我们享有平静，"
+    },
+    {
+      "id": 107,
+      "startMs": 606980,
+      "endMs": 612020,
+      "en": "Now we live in a hell made by settlers and their attacks.\"",
+      "zh": "现在，我们生活在定居者及其袭击制造的地狱里。”"
+    },
+    {
+      "id": 108,
+      "startMs": 612740,
+      "endMs": 616660,
+      "en": "Kamal Abu al-Rub is the Palestinian Authority governor in Jenin.",
+      "zh": "卡迈勒·阿布·鲁卜是巴勒斯坦民族权力机构驻杰宁的省长。"
+    },
+    {
+      "id": 109,
+      "startMs": 617140,
+      "endMs": 621460,
+      "en": "\"It's as if the Israelis are racing against time before the upcoming elections.",
+      "zh": "“这就好像以色列人在即将到来的选举前争分夺秒，"
+    },
+    {
+      "id": 110,
+      "startMs": 622340,
+      "endMs": 625700,
+      "en": "Many of the areas around the city are now surrounded by settlements.",
+      "zh": "这座城市周边许多地区如今都被定居点包围。"
+    },
+    {
+      "id": 111,
+      "startMs": 626500,
+      "endMs": 630660,
+      "en": "Farmers are afraid and anxious about settler attacks when they go to work on their lands.",
+      "zh": "农民下地劳作时，害怕并担心遭到定居者袭击。"
+    },
+    {
+      "id": 112,
+      "startMs": 631060,
+      "endMs": 634500,
+      "en": "They have also cut off roads, bulldozed lands, and cut down trees.\"",
+      "zh": "他们还切断道路、推平土地并砍伐树木。”"
+    },
+    {
+      "id": 113,
+      "startMs": 636160,
+      "endMs": 640240,
+      "en": "This is the road that links the new settlement of Kadim to Israel.",
+      "zh": "这条路连接卡迪姆新定居点和以色列。"
+    },
+    {
+      "id": 114,
+      "startMs": 640640,
+      "endMs": 646160,
+      "en": "The last time I was here, just a few weeks ago, we sat in a cafe over here drinking coffee,",
+      "zh": "几周前我上次来这里时，我们就坐在这家咖啡馆里喝咖啡，"
+    },
+    {
+      "id": 115,
+      "startMs": 646480,
+      "endMs": 650560,
+      "en": "surrounded by Palestinian shops and businesses.",
+      "zh": "四周是巴勒斯坦人的商店和企业。"
+    },
+    {
+      "id": 116,
+      "startMs": 651040,
+      "endMs": 656800,
+      "en": "Since then, dozens of those businesses have been flattened by the Israeli army.",
+      "zh": "从那以后，那些商店和企业已有数十家被以色列军队夷为平地。"
+    },
+    {
+      "id": 117,
+      "startMs": 657440,
+      "endMs": 661440,
+      "en": "It gives you some sense of how fast things here are changing.",
+      "zh": "这让人多少感受到这里的变化有多快。"
+    },
+    {
+      "id": 118,
+      "startMs": 663600,
+      "endMs": 665200,
+      "en": "Lucy Williamson reporting.",
+      "zh": "露西·威廉姆森报道。"
+    },
+    {
+      "id": 119,
+      "startMs": 665760,
+      "endMs": 669200,
+      "en": "This morning's headlines here in Britain are dominated by the news",
+      "zh": "今天早间英国的头条新闻都在关注这一消息："
+    },
+    {
+      "id": 120,
+      "startMs": 669200,
+      "endMs": 674160,
+      "en": "that Prince Harry and his family are returning to the UK after six years in the US.",
+      "zh": "哈里王子和家人在美国生活六年后即将返回英国。"
+    },
+    {
+      "id": 121,
+      "startMs": 674640,
+      "endMs": 681600,
+      "en": "And reports in Australia say that his wife, Meghan, has been offered an acting role here, which sources close to the family have not denied.",
+      "zh": "澳大利亚的报道称，他的妻子梅根获邀在英国出演一个角色；接近这一家庭的消息人士没有否认。"
+    },
+    {
+      "id": 122,
+      "startMs": 682080,
+      "endMs": 689760,
+      "en": "Bronte Coy is senior entertainment and royal correspondent at the Australian outlet news.com.au, which broke the story.",
+      "zh": "布朗特·科伊是率先报道此事的澳大利亚新闻网站 news.com.au 的资深娱乐和王室记者。"
+    },
+    {
+      "id": 123,
+      "startMs": 690000,
+      "endMs": 693920,
+      "en": "This is such a key part of the puzzle. And I think when we all heard that news",
+      "zh": "这是拼图中非常关键的一块。我想，当我们听到这个消息时，"
+    },
+    {
+      "id": 124,
+      "startMs": 693920,
+      "endMs": 698320,
+      "en": "that Harry and Meghan were moving here; within days, the kids were enrolled in school,",
+      "zh": "得知哈里和梅根要搬来；几天内，孩子们就入学了，"
+    },
+    {
+      "id": 125,
+      "startMs": 698640,
+      "endMs": 705440,
+      "en": "everyone was asking, \"Well, what is Meghan going to be doing?\" Is she keen on returning to royal life, or what will her career look like in the UK?",
+      "zh": "所有人都在问：“那么，梅根要做什么？她是否有意回归王室生活？她在英国的事业会是什么样？”"
+    },
+    {
+      "id": 126,
+      "startMs": 705440,
+      "endMs": 709200,
+      "en": "And I think this here answers a lot of that. Now, I had heard rumours that",
+      "zh": "我认为这件事回答了很多问题。我此前听说，"
+    },
+    {
+      "id": 127,
+      "startMs": 709520,
+      "endMs": 712560,
+      "en": "potentially she'd be stepping into the acting world a little bit more.",
+      "zh": "她可能会更多地进入演艺界。"
+    },
+    {
+      "id": 128,
+      "startMs": 712800,
+      "endMs": 715840,
+      "en": "We saw a sign of that actually late last year when it emerged that",
+      "zh": "去年年底有迹象显示，"
+    },
+    {
+      "id": 129,
+      "startMs": 715840,
+      "endMs": 721760,
+      "en": "she had filmed a cameo as herself in a big upcoming movie with Jack Quaid and Lily Collins.",
+      "zh": "她在一部即将上映、由杰克·奎德和莉莉·柯林斯出演的大制作电影中客串了自己。"
+    },
+    {
+      "id": 130,
+      "startMs": 721760,
+      "endMs": 725300,
+      "en": "But this is obviously a massive step now back into that direction",
+      "zh": "但这显然是她朝那个方向迈出的重大一步，"
+    },
+    {
+      "id": 131,
+      "startMs": 725300,
+      "endMs": 730980,
+      "en": "and again, this is clearly part of why they've decided now to relocate over here with the kids.",
+      "zh": "而且这显然是他们决定现在带着孩子搬到这里的部分原因。"
+    },
+    {
+      "id": 132,
+      "startMs": 731380,
+      "endMs": 734740,
+      "en": "Because either she has signed or is about to sign on for this project.",
+      "zh": "因为据说她已经签约，或即将签约参与这个项目。"
+    },
+    {
+      "id": 133,
+      "startMs": 734980,
+      "endMs": 739300,
+      "en": "I'm told it's significant and she's excited about it, but we don't know exactly what it is.",
+      "zh": "据我所知，这个项目很重要，她对此很兴奋，但我们还不知道它究竟是什么。"
+    },
+    {
+      "id": 134,
+      "startMs": 739300,
+      "endMs": 742180,
+      "en": "The details we do have are fairly scant,",
+      "zh": "我们掌握的细节相当有限，"
+    },
+    {
+      "id": 135,
+      "startMs": 742420,
+      "endMs": 747140,
+      "en": "the fact that the children will be enrolled in school might be telling.",
+      "zh": "孩子们将入学这一点或许很能说明问题。"
+    },
+    {
+      "id": 136,
+      "startMs": 747140,
+      "endMs": 755940,
+      "en": "Because things like Hollywood blockbuster movies or TV shows tend to be filmed reasonably quickly now, in just a couple of months.",
+      "zh": "因为好莱坞大片或电视节目通常现在拍得很快，几个月就能完成。"
+    },
+    {
+      "id": 137,
+      "startMs": 756020,
+      "endMs": 759940,
+      "en": "So it could be a longer-term role, a longer-lasting role, perhaps?",
+      "zh": "所以这或许会是一个长期角色，持续时间更长的角色？"
+    },
+    {
+      "id": 138,
+      "startMs": 760380,
+      "endMs": 765580,
+      "en": "You're exactly right. I mean, this has clearly been a top-secret operation as conversations have been ongoing.",
+      "zh": "你说得完全对。这显然一直是个高度保密的行动，相关谈话也在持续进行。"
+    },
+    {
+      "id": 139,
+      "startMs": 765660,
+      "endMs": 771340,
+      "en": "But what we can glean is that, if they're going to be there for what we're told is an extended period of time.",
+      "zh": "但我们能推断的是，如果他们如我们所知要在那里待一段较长时间，"
+    },
+    {
+      "id": 140,
+      "startMs": 771660,
+      "endMs": 776780,
+      "en": "It does indicate that it would be a lengthier project, possibly a show. I think we'll find out relatively soon.",
+      "zh": "这确实表明那会是一个更长期的项目，可能是一部剧。我想我们很快就会知道。"
+    },
+    {
+      "id": 141,
+      "startMs": 776780,
+      "endMs": 781260,
+      "en": "Because if she's signing on now, I know this project is definitely happening.",
+      "zh": "因为既然现在已经到了她要签约的阶段，我知道这个项目肯定会实现。"
+    },
+    {
+      "id": 142,
+      "startMs": 781260,
+      "endMs": 783980,
+      "en": "As I say, this is why they wanted to move over there.",
+      "zh": "因为正如我所说，这正是他们想搬到英国的一个重要原因。"
+    },
+    {
+      "id": 143,
+      "startMs": 783980,
+      "endMs": 790060,
+      "en": "There's also, obviously, Harry's connection to the UK and wanting to spend time with his wider family, but this is a big part of it.",
+      "zh": "当然，哈里与英国的联系以及想和大家庭共度时光，也是原因之一，但这件事是其中很重要的一部分。"
+    },
+    {
+      "id": 144,
+      "startMs": 790380,
+      "endMs": 792540,
+      "en": "Bronte Coy speaking there to Anna Foster.",
+      "zh": "以上是布朗特·科伊接受安娜·福斯特采访时的谈话。"
+    },
+    {
+      "id": 145,
+      "startMs": 795080,
+      "endMs": 796440,
+      "en": "Still to come in this podcast...",
+      "zh": "本期节目稍后还将介绍……"
+    },
+    {
+      "id": 146,
+      "startMs": 797320,
+      "endMs": 802600,
+      "en": "A classic 19th-century novel reimagined by AI for Generation Z.",
+      "zh": "一部经典的19世纪小说被人工智能为Z世代重新演绎。"
+    },
+    {
+      "id": 147,
+      "startMs": 802840,
+      "endMs": 808040,
+      "en": "I used to stare at headstones, imagining what they looked like. It was bare-brain-rot behavior.",
+      "zh": "我过去常盯着墓碑，试着想象墓中人是什么样；现在想想，那简直是彻头彻尾的脑腐行为。"
+    },
+    {
+      "id": 148,
+      "startMs": 808360,
+      "endMs": 811640,
+      "en": "Just me standing in a graveyard, doomscrolling through my own trauma.",
+      "zh": "就是我站在墓地里，无休止地刷着自己的创伤。"
+    },
+    {
+      "id": 149,
+      "startMs": 811640,
+      "endMs": 818040,
+      "en": "Pakistan's former Prime Minister Imran Khan is back in prison after being taken to hospital amid reports that he was unwell.",
+      "zh": "巴基斯坦前总理伊姆兰·汗在被送往医院、传出身体不适后，已返回监狱。"
+    },
+    {
+      "id": 150,
+      "startMs": 818440,
+      "endMs": 825240,
+      "en": "His lawyers say he's practically blind in one eye, but on Friday morning, doctors at the hospital deemed him medically fit.",
+      "zh": "他的律师称他一只眼睛几乎失明，但周五上午，医院医生判定他在医学上适合出院。"
+    },
+    {
+      "id": 151,
+      "startMs": 825800,
+      "endMs": 831400,
+      "en": "Mr Khan has been held in prison for three years on corruption charges, which he says are politically motivated.",
+      "zh": "汗因腐败指控已被关押三年，他称这些指控出于政治动机。"
+    },
+    {
+      "id": 152,
+      "startMs": 831400,
+      "endMs": 836760,
+      "en": "A short while ago, Imran Khan's sister, who had been present at the hospital, spoke to reporters.",
+      "zh": "不久前，曾在医院的伊姆兰·汗的姐妹向记者发表了讲话。"
+    },
+    {
+      "id": 153,
+      "startMs": 837000,
+      "endMs": 845880,
+      "en": "They only examined Imran Khan's eyes. No blood tests or any other medical examinations were conducted. Only his eyes were checked.",
+      "zh": "他们只检查了伊姆兰·汗的眼睛，没有验血或进行其他医学检查，只检查了他的眼睛。"
+    },
+    {
+      "id": 154,
+      "startMs": 846280,
+      "endMs": 852840,
+      "en": "I don't know who these doctors were. Only Imran Khan's blood pressure was measured, and no other tests were performed.",
+      "zh": "我不知道这些医生是谁。只测量了伊姆兰·汗的血压，没有进行其他检查。"
+    },
+    {
+      "id": 155,
+      "startMs": 852840,
+      "endMs": 856680,
+      "en": "I got more from our correspondent Caroline Davies.",
+      "zh": "我们的记者卡罗琳·戴维斯带来了更多消息。"
+    },
+    {
+      "id": 156,
+      "startMs": 856920,
+      "endMs": 861560,
+      "en": "At the conference, they discussed last night's events, which caused a lot of confusion.",
+      "zh": "在那场记者会上，他们谈到昨晚发生的事，因为这次事件确实相当混乱。"
+    },
+    {
+      "id": 157,
+      "startMs": 861560,
+      "endMs": 865000,
+      "en": "Around this transfer to hospital and then back again to prison.",
+      "zh": "混乱围绕着他被转送到医院、随后又返回监狱的过程。"
+    },
+    {
+      "id": 158,
+      "startMs": 865400,
+      "endMs": 872940,
+      "en": "There had been a Supreme Court ruling that said he should be moved to a particular private hospital. His family and party preferred that hospital.",
+      "zh": "最高法院曾裁定，他应被转送到一家特定的私立医院；那是他的家人和政党希望他去的医院。"
+    },
+    {
+      "id": 159,
+      "startMs": 873020,
+      "endMs": 876620,
+      "en": "And they wanted him to be seen by his own personal physician.",
+      "zh": "他们还希望由他自己的私人医生为他诊治。"
+    },
+    {
+      "id": 160,
+      "startMs": 877180,
+      "endMs": 880300,
+      "en": "However, it has now emerged that he did not go to that hospital.",
+      "zh": "然而，现在已经披露，他并没有去那家医院。"
+    },
+    {
+      "id": 161,
+      "startMs": 880300,
+      "endMs": 885820,
+      "en": "Instead, he was taken along with his sister to a different hospital, which was a state-run facility.",
+      "zh": "相反，他和姐妹被带到另一家医院，那是一所公立医院。"
+    },
+    {
+      "id": 162,
+      "startMs": 886140,
+      "endMs": 892860,
+      "en": "His doctor, meanwhile, told us at the conference that he was taken to the private hospital, where he waited for Mr Khan.",
+      "zh": "与此同时，他的医生在记者会上告诉我们，他去了那家私立医院，在那里等候汗先生。"
+    },
+    {
+      "id": 163,
+      "startMs": 892860,
+      "endMs": 897740,
+      "en": "But Mr Khan never appeared because he was taken from the state-run hospital straight back to prison.",
+      "zh": "但汗先生始终没有出现，因为他从那所公立医院直接被带回了监狱。"
+    },
+    {
+      "id": 164,
+      "startMs": 897740,
+      "endMs": 900540,
+      "en": "So, a lot of confusion around exactly what happened there.",
+      "zh": "所以，事情究竟如何发生的，仍有很多混乱。"
+    },
+    {
+      "id": 165,
+      "startMs": 901020,
+      "endMs": 906620,
+      "en": "Mr Khan did have checks and tests done on him. They were observed by his sister",
+      "zh": "汗确实接受了检查和测试。他的姐妹在一旁观察，"
+    },
+    {
+      "id": 166,
+      "startMs": 906620,
+      "endMs": 911180,
+      "en": "who is also a doctor, so she was monitoring what happened.",
+      "zh": "她也是医生，所以一直在监控整个过程。"
+    },
+    {
+      "id": 167,
+      "startMs": 911580,
+      "endMs": 916700,
+      "en": "Now, the other sort of element of confusion is that we were repeatedly told during the press conference",
+      "zh": "现在，另一个令人困惑的地方是，记者会上我们被反复告知，"
+    },
+    {
+      "id": 168,
+      "startMs": 916700,
+      "endMs": 920780,
+      "en": "about how fit and healthy Mr Khan is as an individual,",
+      "zh": "汗本人是多么健康、状况多么良好，"
+    },
+    {
+      "id": 169,
+      "startMs": 920780,
+      "endMs": 927180,
+      "en": "but also that they have these ongoing concerns about some of his blood pressure readings that had been taken in the run-up to this.",
+      "zh": "但与此同时，他们仍担心他在此之前测得的部分血压读数。"
+    },
+    {
+      "id": 170,
+      "startMs": 927180,
+      "endMs": 930780,
+      "en": "Those readings and the eye condition you mentioned have apparently improved.",
+      "zh": "据称这些读数已经改善；至于你提到的眼疾，"
+    },
+    {
+      "id": 171,
+      "startMs": 930780,
+      "endMs": 936240,
+      "en": "It was particularly prevalent earlier this year, and we've also seen reports that it has improved.",
+      "zh": "它今年早些时候尤其严重，但我们也看到报道说已经有所好转。"
+    },
+    {
+      "id": 172,
+      "startMs": 936560,
+      "endMs": 938400,
+      "en": "And Mr Khan is now back in prison.",
+      "zh": "汗先生现在已经返回监狱。"
+    },
+    {
+      "id": 173,
+      "startMs": 938800,
+      "endMs": 946000,
+      "en": "I think beyond the health concerns, which have many supporters worried, this is also about something else.",
+      "zh": "我认为，除了让许多支持者担忧的健康问题，这件事还涉及其他方面。"
+    },
+    {
+      "id": 174,
+      "startMs": 946160,
+      "endMs": 953760,
+      "en": "This is the fact that after over three years in prison, this is the first indication of Mr Khan getting some form of relief,",
+      "zh": "那就是，入狱三年多以来，这是汗先生首次显露出可能获得某种形式缓解的迹象，"
+    },
+    {
+      "id": 175,
+      "startMs": 953840,
+      "endMs": 956800,
+      "en": "in whatever form that is, from the court system.",
+      "zh": "无论这种缓解以何种形式出现，都来自法院系统。"
+    },
+    {
+      "id": 176,
+      "startMs": 957120,
+      "endMs": 962960,
+      "en": "Because this has not happened in three years, there has been much speculation in Islamabad",
+      "zh": "而过去三年一直没有发生这种事，意味着伊斯兰堡出现了大量猜测，"
+    },
+    {
+      "id": 177,
+      "startMs": 963040,
+      "endMs": 969920,
+      "en": "about what might be going on behind the scenes that has led to that level of development. Now, that is all speculation.",
+      "zh": "人们猜测，幕后可能发生了什么，才促成了这样的进展。不过，这些都只是猜测。"
+    },
+    {
+      "id": 178,
+      "startMs": 970160,
+      "endMs": 977360,
+      "en": "We have not heard of anything from Imran Khan's party talking about any form of deal or discussions going on.",
+      "zh": "我们没有听到伊姆兰·汗的政党谈论任何形式的协议或会谈。"
+    },
+    {
+      "id": 179,
+      "startMs": 977440,
+      "endMs": 981840,
+      "en": "Particularly with Pakistan's politically powerful military and intelligence services.",
+      "zh": "尤其是与巴基斯坦政治影响力强大的军方和情报机构之间的协议或会谈。"
+    },
+    {
+      "id": 180,
+      "startMs": 981840,
+      "endMs": 986480,
+      "en": "Of course, we have not heard from the military either. But people are certainly watching that.",
+      "zh": "当然，我们也没有听到军方方面的任何消息。但这正是人们密切关注的事情。"
+    },
+    {
+      "id": 181,
+      "startMs": 986480,
+      "endMs": 990400,
+      "en": "And that is also why all of these tiny intricacies, which might seem like intricacies,",
+      "zh": "这也是为什么所有这些看似细枝末节的情况，"
+    },
+    {
+      "id": 182,
+      "startMs": 990640,
+      "endMs": 995540,
+      "en": "Which hospital he went to and how quickly he was transferred back are also being monitored and looked at,",
+      "zh": "比如他去了哪家医院、又多快被转回监狱，也都受到监测和审视，"
+    },
+    {
+      "id": 183,
+      "startMs": 995620,
+      "endMs": 1001940,
+      "en": "because everybody's trying to see if this is an indication of what might happen next with Mr Khan. Caroline Davies.",
+      "zh": "因为所有人都想知道这是否预示着汗先生下一步可能发生什么。卡罗琳·戴维斯报道。"
+    },
+    {
+      "id": 184,
+      "startMs": 1001940,
+      "endMs": 1009620,
+      "en": "A new film, The Cycle of Love, focusing on the discrimination people can face because of India's caste system, has premiered in the US.",
+      "zh": "新电影《爱的循环》聚焦印度种姓制度下人们可能遭受的歧视，已在美国上映。"
+    },
+    {
+      "id": 185,
+      "startMs": 1010020,
+      "endMs": 1016660,
+      "en": "It tells the true-life story of PK, a street artist from the marginalised Dalit caste, who cycled more than 9,000 kilometres",
+      "zh": "影片讲述达利特边缘化种姓街头艺人PK的真实故事，他骑行超过9000公里"
+    },
+    {
+      "id": 186,
+      "startMs": 1016660,
+      "endMs": 1020900,
+      "en": "from India to Europe to try to reunite with his true love, Lotta from Sweden.",
+      "zh": "从印度前往欧洲，试图与来自瑞典的真爱洛塔重聚。"
+    },
+    {
+      "id": 187,
+      "startMs": 1021380,
+      "endMs": 1028660,
+      "en": "About 200 million people in India are Dalits, historically known as untouchables, who face generations of discrimination and exclusion.",
+      "zh": "印度约有2亿达利特人，历史上被称为“不可接触者”，世世代代遭受歧视和排斥。"
+    },
+    {
+      "id": 188,
+      "startMs": 1029140,
+      "endMs": 1034820,
+      "en": "Our culture correspondent Noor Nanji spoke to Priyanka Chopra Jonas, who executive produced the movie,",
+      "zh": "我们的文化事务记者努尔·南吉采访了制片人普里扬卡·乔普拉·乔纳斯，"
+    },
+    {
+      "id": 189,
+      "startMs": 1035060,
+      "endMs": 1041300,
+      "en": "and its director, Orlando von Einsiedel, and asked them what the real-life PK and Lotta think about the film.",
+      "zh": "以及导演奥兰多·冯·艾因西德尔，并询问现实中的PK和洛塔如何看待这部电影。"
+    },
+    {
+      "id": 190,
+      "startMs": 1041620,
+      "endMs": 1047620,
+      "en": "I think one of the things that makes me feel that maybe we got it right is when this film's played at film festivals,",
+      "zh": "我觉得，让我感到我们或许做对了的一点，是这部电影在电影节放映时，"
+    },
+    {
+      "id": 191,
+      "startMs": 1047860,
+      "endMs": 1053080,
+      "en": "PK and Lotta have come and watched every single screening of the film, which is amazing.",
+      "zh": "PK和洛塔会来观看每一场放映，这太棒了。"
+    },
+    {
+      "id": 192,
+      "startMs": 1053400,
+      "endMs": 1062840,
+      "en": "They're cute together. You meet them and you're like, 'Wow, this is a happy-ending love story because you're still together, and you're still cute.'",
+      "zh": "他们在一起很可爱。你见到他们会想：“哇，这是个圆满结局的爱情故事，因为你们还在一起，而且依然可爱。”"
+    },
+    {
+      "id": 193,
+      "startMs": 1062840,
+      "endMs": 1071080,
+      "en": "Like, they still hold hands and they're affectionate, and I'm like, 'I want that after 50 years, you know, that's amazing.'",
+      "zh": "他们牵着手，彼此亲昵。我会想：“我希望50年后也能这样，真的太棒了。”"
+    },
+    {
+      "id": 194,
+      "startMs": 1071240,
+      "endMs": 1073880,
+      "en": "What does this film say to you about the power of love?",
+      "zh": "这部电影让你怎么看待爱情的力量？"
+    },
+    {
+      "id": 195,
+      "startMs": 1074280,
+      "endMs": 1079160,
+      "en": "I think it stands for how resilient love can be,",
+      "zh": "我认为，它体现了爱情可以多么坚韧，"
+    },
+    {
+      "id": 196,
+      "startMs": 1079560,
+      "endMs": 1085800,
+      "en": "and I think resilience is one of the most important qualities when it's actually really true love.",
+      "zh": "而且我认为，坚韧是面对真正爱情时最重要的品质之一。"
+    },
+    {
+      "id": 197,
+      "startMs": 1085800,
+      "endMs": 1091880,
+      "en": "Like, when you're resilient and you're like, 'I will bend heaven and earth to achieve this thing,'",
+      "zh": "当你足够坚韧，心想：“我会竭尽全力实现这件事”，"
+    },
+    {
+      "id": 198,
+      "startMs": 1092440,
+      "endMs": 1098040,
+      "en": "that makes it passionate, it makes it magical, and this movie is like an absolute example of that.",
+      "zh": "那会让爱情充满激情、变得神奇，而这部电影就是这种爱情的绝佳例证。"
+    },
+    {
+      "id": 199,
+      "startMs": 1098440,
+      "endMs": 1107080,
+      "en": "Orlando, do you think many people outside of India will be shocked that this level of discrimination based on a person's caste exists?",
+      "zh": "奥兰多，你认为印度以外的许多人会震惊于这种基于种姓的歧视依然存在吗？"
+    },
+    {
+      "id": 200,
+      "startMs": 1107720,
+      "endMs": 1112540,
+      "en": "Well, I think discrimination exists in all societies. More than anything,",
+      "zh": "我认为，歧视存在于所有社会。更重要的是，"
+    },
+    {
+      "id": 201,
+      "startMs": 1112540,
+      "endMs": 1117660,
+      "en": "this is also, as Priyanka was saying, a story about extraordinary human resilience,",
+      "zh": "正如普里扬卡所说，这是一个关于非凡人类韧性的故事，"
+    },
+    {
+      "id": 202,
+      "startMs": 1117980,
+      "endMs": 1123980,
+      "en": "and a man learning to love himself, and by loving himself, being able to love others.",
+      "zh": "也是一个男人学会爱自己，并因爱自己而能够爱他人的故事。"
+    },
+    {
+      "id": 203,
+      "startMs": 1124540,
+      "endMs": 1132060,
+      "en": "And Priyanka, the issues in this film of social justice and an unfair system are very topical right now, given the protests we've seen in India.",
+      "zh": "普里扬卡，鉴于印度近期的抗议活动，影片中有关社会正义和不公平制度的议题正切合当下。"
+    },
+    {
+      "id": 204,
+      "startMs": 1132380,
+      "endMs": 1136940,
+      "en": "How timely do you feel that your film is, and what do you hope that the film will achieve?",
+      "zh": "你觉得这部电影有多应时？希望它实现什么？"
+    },
+    {
+      "id": 205,
+      "startMs": 1137500,
+      "endMs": 1140860,
+      "en": "I think this is a conversation which is timely at any given time.",
+      "zh": "我认为，这是一个在任何时候都应当讨论的话题。"
+    },
+    {
+      "id": 206,
+      "startMs": 1141440,
+      "endMs": 1146640,
+      "en": "It's unfortunate that, I'm sorry, your question makes it timely just currently.",
+      "zh": "遗憾的是，抱歉，是你的问题让它只在当下显得应时。"
+    },
+    {
+      "id": 207,
+      "startMs": 1146640,
+      "endMs": 1154400,
+      "en": "I think these are issues we've discussed historically, and as human beings, taking the right step in that direction is what is crucial.",
+      "zh": "我认为这些问题历来都有人讨论，而作为人类，朝那个方向迈出正确一步才是关键。"
+    },
+    {
+      "id": 208,
+      "startMs": 1154480,
+      "endMs": 1161760,
+      "en": "And the word 'untouchable' itself is quite contentious and maybe even offensive to some. What discussions did you guys have around it?",
+      "zh": "“不可接触者”这个词本身颇有争议，甚至可能冒犯一些人。你们围绕它有过哪些讨论？"
+    },
+    {
+      "id": 209,
+      "startMs": 1162080,
+      "endMs": 1167520,
+      "en": "So, you know, whenever you make a film outside of your own socioeconomic experience, it's an enormous responsibility.",
+      "zh": "每当你拍摄超出自身社会经济经历的电影，都会肩负巨大责任。"
+    },
+    {
+      "id": 210,
+      "startMs": 1167840,
+      "endMs": 1171360,
+      "en": "We took trying to get this right in the film very, very seriously.",
+      "zh": "我们非常、非常认真地努力把这部电影做好。"
+    },
+    {
+      "id": 211,
+      "startMs": 1171600,
+      "endMs": 1178160,
+      "en": "That began by working together with PK, Lotta and the whole family, but we also surrounded ourselves with experts.",
+      "zh": "首先，我们与PK、洛塔和全家合作，同时也请许多专家协助。"
+    },
+    {
+      "id": 212,
+      "startMs": 1178160,
+      "endMs": 1181760,
+      "en": "We worked with a number of caste experts on this film.",
+      "zh": "我们为这部电影请教了许多种姓问题专家。"
+    },
+    {
+      "id": 213,
+      "startMs": 1181760,
+      "endMs": 1188880,
+      "en": "And, you know, I knew very little about this before getting into it, and I've done my best to educate myself.",
+      "zh": "在参与其中之前，我对这些知之甚少，也尽力让自己学习了解。"
+    },
+    {
+      "id": 214,
+      "startMs": 1188880,
+      "endMs": 1192400,
+      "en": "And hopefully, we've done a good job of representing this correctly in the film.",
+      "zh": "希望我们已经在电影中正确呈现了这些内容。"
+    },
+    {
+      "id": 215,
+      "startMs": 1192560,
+      "endMs": 1197600,
+      "en": "Orlando von Einsiedel and Priyanka Chopra Jonas speaking there to Noor Nanji.",
+      "zh": "以上是奥兰多·冯·艾因西德尔和普里扬卡·乔普拉·乔纳斯接受努尔·南吉采访的内容。"
+    },
+    {
+      "id": 216,
+      "startMs": 1198240,
+      "endMs": 1201440,
+      "en": "Many of Charles Dickens' novels have been adapted. Here's the latest:",
+      "zh": "查尔斯·狄更斯的小说已有许多改编，这次是最新的一部："
+    },
+    {
+      "id": 217,
+      "startMs": 1201620,
+      "endMs": 1207860,
+      "en": "a reimagining of Great Expectations to reflect the way teenagers speak today.",
+      "zh": "重构《远大前程》，呈现如今青少年的说话方式。"
+    },
+    {
+      "id": 218,
+      "startMs": 1208340,
+      "endMs": 1214900,
+      "en": "The novel was fed into an AI model and translated into Generation Z, or Gen Z, slang.",
+      "zh": "小说被输入人工智能模型，翻译成Z世代、也就是Gen Z的俚语。"
+    },
+    {
+      "id": 219,
+      "startMs": 1215300,
+      "endMs": 1217860,
+      "en": "Here's the opening of the novel, the way Dickens wrote it:",
+      "zh": "下面是狄更斯原著小说的开头："
+    },
+    {
+      "id": 220,
+      "startMs": 1218260,
+      "endMs": 1226020,
+      "en": "My father's family name being Pirrip, and my Christian name Philip, my infant tongue could make nothing longer or more explicit than Pip,",
+      "zh": "我父亲的姓是皮里普，我的教名是菲利普；幼时的我无法把这两个名字说得更长或更清楚，只能说成皮普，"
+    },
+    {
+      "id": 221,
+      "startMs": 1226580,
+      "endMs": 1229460,
+      "en": "so I called myself Pip, and came to be called Pip.",
+      "zh": "所以我称自己为皮普，别人也叫我皮普。"
+    },
+    {
+      "id": 222,
+      "startMs": 1229940,
+      "endMs": 1237700,
+      "en": "I give Pirrip as my father's family name, on the authority of his tombstone, and my sister, Mrs Joe Gargery, who married the blacksmith,",
+      "zh": "我把皮里普作为父亲的姓，是依据他的墓碑；我的姐姐乔·加吉里夫人嫁给了铁匠，"
+    },
+    {
+      "id": 223,
+      "startMs": 1238180,
+      "endMs": 1245060,
+      "en": "As I never saw my father or my mother, and never saw any likeness of either of them (for their days were long before the days of photographs),",
+      "zh": "由于我从未见过父亲或母亲，也没见过他们任何一人的肖像（那时还远没有照片），"
+    },
+    {
+      "id": 224,
+      "startMs": 1245380,
+      "endMs": 1250180,
+      "en": "my first fancies regarding what they were like were unreasonably derived from their tombstones.",
+      "zh": "我最初对他们模样的想象，毫无道理地都来自他们的墓碑。"
+    },
+    {
+      "id": 225,
+      "startMs": 1250580,
+      "endMs": 1253060,
+      "en": "And here's its Gen Z translation:",
+      "zh": "下面是它的Z世代译文："
+    },
+    {
+      "id": 226,
+      "startMs": 1253300,
+      "endMs": 1257220,
+      "en": "So I called myself Pip. I know. I can't lie.",
+      "zh": "所以我称自己为皮普。我知道，实话说，"
+    },
+    {
+      "id": 227,
+      "startMs": 1257540,
+      "endMs": 1260340,
+      "en": "It's not exactly a name with much rizz, but here we are.",
+      "zh": "这名字确实没多少魅力，不过就这样吧。"
+    },
+    {
+      "id": 228,
+      "startMs": 1260900,
+      "endMs": 1265400,
+      "en": "I never knew my parents. I'd only ever seen their gravestones in the churchyard down in the marshes.",
+      "zh": "我从未认识父母，只在沼泽低地的墓园里见过他们的墓碑。"
+    },
+    {
+      "id": 229,
+      "startMs": 1265720,
+      "endMs": 1268360,
+      "en": "Proper bleak vibes, all mist and sadness.",
+      "zh": "氛围非常凄凉，满是雾气和悲伤。"
+    },
+    {
+      "id": 230,
+      "startMs": 1268840,
+      "endMs": 1274200,
+      "en": "I used to stare at headstones, trying to imagine what they looked like—bare-brain rot behaviour, when you think about it.",
+      "zh": "我过去常盯着墓碑，想象他们长什么样；现在想想，那真是彻头彻尾的脑腐行为。"
+    },
+    {
+      "id": 231,
+      "startMs": 1274760,
+      "endMs": 1278280,
+      "en": "Just me, standing in a graveyard, doomscrolling through my own trauma.",
+      "zh": "就我一个人站在墓地里，不停刷着自己的创伤。"
+    },
+    {
+      "id": 232,
+      "startMs": 1278920,
+      "endMs": 1283080,
+      "en": "It was on one such evening, Christmas Eve, no less, that my life went mad delulu.",
+      "zh": "就在这样的一个夜晚——还是平安夜——我的人生疯狂“德鲁鲁”了。"
+    },
+    {
+      "id": 233,
+      "startMs": 1283080,
+      "endMs": 1288680,
+      "en": "Simon Jacks spoke to Lucinda Dickens Hawksley, the author of several books on Charles Dickens.",
+      "zh": "西蒙·杰克斯采访了露辛达·狄更斯·霍克斯利，她著有多本关于查尔斯·狄更斯的书。"
+    },
+    {
+      "id": 234,
+      "startMs": 1289000,
+      "endMs": 1293320,
+      "en": "She's also the great-great-great-granddaughter of the celebrated novelist.",
+      "zh": "她还是这位著名小说家的玄孙女。"
+    },
+    {
+      "id": 235,
+      "startMs": 1293640,
+      "endMs": 1296520,
+      "en": "So what does she make of this Gen Z version?",
+      "zh": "那么，她如何看待这个 Z 世代版本？"
+    },
+    {
+      "id": 236,
+      "startMs": 1296840,
+      "endMs": 1304360,
+      "en": "Well. I mean, I think it's always great to have Dickens reinterpreted. I think people get really hidebound by, oh, we have to just stick to the original.",
+      "zh": "嗯。我是说，我觉得重新诠释狄更斯的作品总是件好事。我觉得人们太拘泥于“我们必须完全遵循原作”这一点了。"
+    },
+    {
+      "id": 237,
+      "startMs": 1304360,
+      "endMs": 1311400,
+      "en": "As long as the original is always kept and able to be studied, I think it's great to bring Dickens out for a new generation.",
+      "zh": "只要原作始终被保留、能够供人研读，我觉得让新一代接触狄更斯是件好事。"
+    },
+    {
+      "id": 238,
+      "startMs": 1311560,
+      "endMs": 1319000,
+      "en": "I just think that maybe people aren't as hidebound to Generation Z tech-speak as we think they are.",
+      "zh": "我只是觉得，人们可能并不像我们想的那样拘泥于 Z 世代的网络用语。"
+    },
+    {
+      "id": 239,
+      "startMs": 1319400,
+      "endMs": 1325400,
+      "en": "I guess the thing is, it's all very well having modern words, but as long as they're accurate and convey the original meaning.",
+      "zh": "我想，使用现代词汇本身没问题，但前提是它们准确，并且能传达原意。"
+    },
+    {
+      "id": 240,
+      "startMs": 1326500,
+      "endMs": 1329940,
+      "en": "Yeah, I mean, I read an article that said that this version was so that",
+      "zh": "是的，我读过一篇文章，说这个版本是为了让"
+    },
+    {
+      "id": 241,
+      "startMs": 1330100,
+      "endMs": 1335860,
+      "en": "parents could understand what their Generation Z children were talking about, and it just really made me laugh.",
+      "zh": "父母能够理解他们的 Z 世代子女在说什么，这真的让我笑了出来。"
+    },
+    {
+      "id": 242,
+      "startMs": 1335940,
+      "endMs": 1341140,
+      "en": "I love the fact that every single parent apparently knows Great Expectations well enough to be able to translate it.",
+      "zh": "我喜欢这种说法：每一位父母似乎都熟悉《远大前程》，熟悉到足以翻译它。"
+    },
+    {
+      "id": 243,
+      "startMs": 1341380,
+      "endMs": 1344680,
+      "en": "I mean. That's a great idea. I just don't know that that's always true.",
+      "zh": "我是说，这主意很棒。但我不知道事实是否总是如此。"
+    },
+    {
+      "id": 244,
+      "startMs": 1345080,
+      "endMs": 1351560,
+      "en": "I think, joking aside, I think it's a great thing to have Dickens reinterpreted because every generation learns a new Dickens.",
+      "zh": "我觉得，玩笑归玩笑，重新诠释狄更斯是件好事，因为每一代人认识的都是一个新的狄更斯。"
+    },
+    {
+      "id": 245,
+      "startMs": 1351560,
+      "endMs": 1356200,
+      "en": "I mean, we have so many different adaptations of things such as A Christmas Carol every year. There's a new one.",
+      "zh": "我是说，我们每年都会看到许多不同的改编作品，比如《圣诞颂歌》，每年都有新的版本。"
+    },
+    {
+      "id": 246,
+      "startMs": 1356520,
+      "endMs": 1359400,
+      "en": "I do think we need to look at the fact that this was written with AI.",
+      "zh": "我确实认为，我们需要关注这部作品是由 AI 写成的这一事实。"
+    },
+    {
+      "id": 247,
+      "startMs": 1359720,
+      "endMs": 1363720,
+      "en": "So does AI actually know what Generation Z is talking about?",
+      "zh": "那么，AI 真的知道 Z 世代在谈论什么吗？"
+    },
+    {
+      "id": 248,
+      "startMs": 1364120,
+      "endMs": 1370040,
+      "en": "And I'd also like to point out that AI, like Anthropic and Meta, have actually taken without permission or payment",
+      "zh": "我还想指出，Anthropic 和 Meta 等 AI 公司确实未经许可、也未付费就拿走了"
+    },
+    {
+      "id": 249,
+      "startMs": 1370440,
+      "endMs": 1372280,
+      "en": "works of many authors, including me.",
+      "zh": "许多作者的作品，包括我的作品。"
+    },
+    {
+      "id": 250,
+      "startMs": 1372680,
+      "endMs": 1380200,
+      "en": "And I think that they couldn't have written this without having scraped perhaps words by Generation Z authors. So that's something that really does need to be looked at.",
+      "zh": "我认为，如果没有抓取一些 Z 世代作者的文字，他们不可能写出这个版本。所以，这确实是需要认真审视的问题。"
+    },
+    {
+      "id": 251,
+      "startMs": 1380280,
+      "endMs": 1385400,
+      "en": "We can joke about it and say it's a good gimmick, but AI is a real issue for real working authors.",
+      "zh": "我们可以拿它开玩笑，说这是个不错的噱头，但 AI 对真正靠写作谋生的作者来说是个现实问题。"
+    },
+    {
+      "id": 252,
+      "startMs": 1385400,
+      "endMs": 1393240,
+      "en": "And I wonder what Dickens would have thought of that, of his work being rewritten not by a Generation Z author, which would be great, but by a bot.",
+      "zh": "我想知道，狄更斯会如何看待自己的作品被改写——不是由一位 Z 世代作者改写，那倒很好，而是被一个机器人改写。"
+    },
+    {
+      "id": 253,
+      "startMs": 1393320,
+      "endMs": 1396760,
+      "en": "You mentioned it yourself that, you know, how many times has A Christmas Carol been done over again?",
+      "zh": "你自己也提到了，《圣诞颂歌》到底被重做过多少次？"
+    },
+    {
+      "id": 254,
+      "startMs": 1396760,
+      "endMs": 1401720,
+      "en": "How many times has Great Expectations? I mean, why has his work been adapted so many times over the years?",
+      "zh": "《远大前程》又被改编过多少次？我是说，多年来，他的作品为什么会被改编这么多次？"
+    },
+    {
+      "id": 255,
+      "startMs": 1401720,
+      "endMs": 1405900,
+      "en": "What is it about? The work that still captures each generation, whatever interpretation is done,",
+      "zh": "它究竟有什么魅力？无论怎样诠释，这些作品仍能吸引每一代人，"
+    },
+    {
+      "id": 256,
+      "startMs": 1405900,
+      "endMs": 1410380,
+      "en": "Dickens wrote great plots, and that is what's always going to work as long as you get the plot right.",
+      "zh": "狄更斯写出了精彩的情节；只要把情节讲好，这一点就永远有效。"
+    },
+    {
+      "id": 257,
+      "startMs": 1410940,
+      "endMs": 1418060,
+      "en": "It's when people take great works, classic works, and they rewrite them and give them their own ending because they didn't like the original or whatever it might be.",
+      "zh": "让人恼火的是，有人拿经典名著来重写，给它们安排自己的结局，因为他们不喜欢原作，或者出于其他什么原因。"
+    },
+    {
+      "id": 258,
+      "startMs": 1418540,
+      "endMs": 1422140,
+      "en": "I think that is a bit frustrating because then you're not really sticking with the essence of it.",
+      "zh": "我觉得这有点令人沮丧，因为那样就没有真正遵循作品的精髓。"
+    },
+    {
+      "id": 259,
+      "startMs": 1422140,
+      "endMs": 1426060,
+      "en": "But what I love about Dickens is his characters stand the test of time.",
+      "zh": "但我喜欢狄更斯的一点是，他笔下的人物经得起时间考验。"
+    },
+    {
+      "id": 260,
+      "startMs": 1426300,
+      "endMs": 1427740,
+      "en": "Lucinda Dickens Hawksley.",
+      "zh": "露辛达·狄更斯·霍克斯利。"
+    },
+    {
+      "id": 261,
+      "startMs": 1430180,
+      "endMs": 1431060,
+      "en": "And that's it from us for now.",
+      "zh": "今天的节目就到这里。"
+    },
+    {
+      "id": 262,
+      "startMs": 1431220,
+      "endMs": 1435940,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 263,
+      "startMs": 1435940,
+      "endMs": 1442260,
+      "en": "You can also watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "你也可以在 YouTube 上观看完整节目，只需搜索 Global News Podcast。"
+    },
+    {
+      "id": 264,
+      "startMs": 1442660,
+      "endMs": 1449380,
+      "en": "And don't forget our sister podcast, The Global Story, which goes in depth and beyond the headlines on one big story.",
+      "zh": "别忘了我们的姊妹播客《全球故事》，它深入探讨一个重大故事，超越新闻标题。"
+    },
+    {
+      "id": 265,
+      "startMs": 1450040,
+      "endMs": 1453400,
+      "en": "This edition of the Global News Podcast was mixed by Darcy O'Bree.",
+      "zh": "本期《全球新闻播客》由达西·奥布里混音。"
+    },
+    {
+      "id": 266,
+      "startMs": 1453640,
+      "endMs": 1457240,
+      "en": "The producer was Adrian White and the editor is Karen Martin.",
+      "zh": "制片人是 Adrian White，编辑是 Karen Martin。"
+    },
+    {
+      "id": 267,
+      "startMs": 1457800,
+      "endMs": 1459960,
+      "en": "I'm Valerie Sanderson. Until next time, bye-bye.",
+      "zh": "我是 Valerie Sanderson。下次再见，拜拜。"
+    }
+  ]
+}

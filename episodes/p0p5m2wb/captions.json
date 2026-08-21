@@ -1,0 +1,2265 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "21 August 2026"
+  },
+  "durationMs": 1763180,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3840,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6100,
+      "endMs": 12340,
+      "en": "I'm Alex Ritson, and in the early hours of Friday, the 21st of August, these are our main stories.",
+      "zh": "我是 Alex Ritson。8月21日星期五凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12900,
+      "endMs": 22020,
+      "en": "Key Western leaders, excluding the US, jointly condemn Israel's settlement project that would cut off the Palestinian West Bank from East Jerusalem.",
+      "zh": "不包括美国在内的西方主要领导人联合谴责以色列的定居点项目，该项目将切断巴勒斯坦约旦河西岸与东耶路撒冷的联系。"
+    },
+    {
+      "id": 4,
+      "startMs": 22740,
+      "endMs": 30260,
+      "en": "Reports from Pakistan say former Prime Minister Imran Khan has been returned to jail after a court-ordered visit to hospital.",
+      "zh": "来自巴基斯坦的报道说，前总理 Imran Khan 在法院下令前往医院后被送回监狱。"
+    },
+    {
+      "id": 5,
+      "startMs": 30740,
+      "endMs": 39140,
+      "en": "And the World Health Organization says it's sending 70,000 vaccine doses to help tackle the Ebola outbreak in the Democratic Republic of Congo.",
+      "zh": "世界卫生组织表示，将向刚果民主共和国运送7万剂疫苗，帮助应对埃博拉疫情。"
+    },
+    {
+      "id": 6,
+      "startMs": 41860,
+      "endMs": 48740,
+      "en": "Also in this podcast, the US piles pressure on Cuba by slapping it with yet more sanctions.",
+      "zh": "本期节目还将关注：美国对古巴施加更多制裁，进一步加大压力。"
+    },
+    {
+      "id": 7,
+      "startMs": 48740,
+      "endMs": 54820,
+      "en": "And I don't think it's helpful for people to think that they have to slog on with something they're not enjoying.",
+      "zh": "我不认为让人们觉得必须苦撑着读自己不喜欢的东西会有帮助。"
+    },
+    {
+      "id": 8,
+      "startMs": 54820,
+      "endMs": 60180,
+      "en": "I think it'd be better to move on to something else and think that reading should just be a pleasure.",
+      "zh": "我觉得不如换读别的东西，并认为阅读就应该是一种享受。"
+    },
+    {
+      "id": 9,
+      "startMs": 60580,
+      "endMs": 64740,
+      "en": "The debate about whether it's okay to not finish reading books.",
+      "zh": "这场争论讨论的是，读书读不完是否也没关系。"
+    },
+    {
+      "id": 10,
+      "startMs": 69700,
+      "endMs": 79060,
+      "en": "Not for the first time, major Western powers have united to rebuke Israel over Jewish settlement activity in the occupied West Bank.",
+      "zh": "这不是西方大国第一次联合起来，就以色列在被占领约旦河西岸的犹太人定居活动严厉谴责以色列。"
+    },
+    {
+      "id": 11,
+      "startMs": 79460,
+      "endMs": 86100,
+      "en": "They're demanding that Israel immediately stop a bidding process to build around 1,200 homes in the settlement called E1",
+      "zh": "他们要求以色列立即停止在名为 E1 的定居点修建约1,200套住房的招标程序"
+    },
+    {
+      "id": 12,
+      "startMs": 86500,
+      "endMs": 90100,
+      "en": "which would cut off occupied East Jerusalem from the West Bank.",
+      "zh": "该项目将切断被占领的东耶路撒冷与约旦河西岸的联系。"
+    },
+    {
+      "id": 13,
+      "startMs": 90500,
+      "endMs": 98420,
+      "en": "Israel's far-right finance minister, Bezalel Smotrich, previously said that E1 would bury the idea of a Palestinian state.",
+      "zh": "以色列极右翼财政部长 Bezalel Smotrich 此前说过，E1 将埋葬建立巴勒斯坦国的想法。"
+    },
+    {
+      "id": 14,
+      "startMs": 98820,
+      "endMs": 103460,
+      "en": "Israel's closest ally, the United States, isn't one of the Western powers condemning Israel.",
+      "zh": "以色列最亲密的盟友美国，并不在谴责以色列的西方国家之列。"
+    },
+    {
+      "id": 15,
+      "startMs": 103780,
+      "endMs": 107860,
+      "en": "Our diplomatic correspondent Caroline Hawley told me which ones were.",
+      "zh": "我们的外交事务记者 Caroline Hawley 告诉我，参与的国家有哪些。"
+    },
+    {
+      "id": 16,
+      "startMs": 108340,
+      "endMs": 115060,
+      "en": "It's the UK, France, Germany, Italy, the Netherlands, Canada, and Norway. They have voiced grave concerns.",
+      "zh": "它们是英国、法国、德国、意大利、荷兰、加拿大和挪威。这些国家表达了严重关切。"
+    },
+    {
+      "id": 17,
+      "startMs": 115460,
+      "endMs": 119300,
+      "en": "They say privately and publicly about this E1 project.",
+      "zh": "他们私下和公开都谈到了 E1 项目。"
+    },
+    {
+      "id": 18,
+      "startMs": 119620,
+      "endMs": 127620,
+      "en": "They say it would drive a wedge through the West Bank and undermine prospects for a two-state solution—a state for Palestinians as well as Israel.",
+      "zh": "他们说，这会撕裂约旦河西岸，破坏两国方案的前景，也就是既属于巴勒斯坦人、也属于以色列的国家。"
+    },
+    {
+      "id": 19,
+      "startMs": 128100,
+      "endMs": 134040,
+      "en": "They say that under international law it is clear that settlements in the West Bank are illegal.",
+      "zh": "他们说，根据国际法，约旦河西岸的定居点显然属于非法。"
+    },
+    {
+      "id": 20,
+      "startMs": 134360,
+      "endMs": 142040,
+      "en": "They say this comes at a time of unprecedented violence by settlers in the West Bank, and they urge Israel to retract.",
+      "zh": "他们说，此时约旦河西岸正发生前所未有的定居者暴力，并敦促以色列撤回这些计划。"
+    },
+    {
+      "id": 21,
+      "startMs": 142040,
+      "endMs": 145800,
+      "en": "And they say that these plans further undermine its international standing.",
+      "zh": "他们还说，这些计划将进一步损害以色列的国际地位。"
+    },
+    {
+      "id": 22,
+      "startMs": 146120,
+      "endMs": 153000,
+      "en": "Now, very interestingly as well, they also have a warning to construction companies, and I'm going to quote.",
+      "zh": "此外，有意思的是，他们还向建筑公司发出警告。我来引用原文。"
+    },
+    {
+      "id": 23,
+      "startMs": 153080,
+      "endMs": 157160,
+      "en": "They say, ‘Businesses should not consider bidding for construction tenders.’",
+      "zh": "他们说：“企业不应考虑竞标建筑工程。”"
+    },
+    {
+      "id": 24,
+      "startMs": 157480,
+      "endMs": 166040,
+      "en": "They should be aware of legal and reputational consequences, including the risk of involving themselves in serious breaches of international law.’",
+      "zh": "企业应意识到法律和声誉后果，包括可能卷入严重违反国际法行为的风险。”"
+    },
+    {
+      "id": 25,
+      "startMs": 166200,
+      "endMs": 169480,
+      "en": "So it's a strong statement. The Israeli government is presumably unmoved?",
+      "zh": "所以这是一份措辞强硬的声明。以色列政府想必无动于衷？"
+    },
+    {
+      "id": 26,
+      "startMs": 169720,
+      "endMs": 179720,
+      "en": "The Israeli government has not commented, but Britain strongly criticized it before this joint statement.",
+      "zh": "目前以色列政府尚未置评，但英国在这份联合声明之前就已提出强烈批评。"
+    },
+    {
+      "id": 27,
+      "startMs": 180200,
+      "endMs": 188120,
+      "en": "The Israeli Chargé d'Affaires was called in to hear of Britain's profound objection to the E1 plans and these construction tenders.",
+      "zh": "以色列代办被召见，听取英国对 E1 计划和这些建筑招标的强烈反对。"
+    },
+    {
+      "id": 28,
+      "startMs": 188780,
+      "endMs": 196620,
+      "en": "Israeli Foreign Minister Gideon Sa'ar called it absurd for the UK to lecture Jewish people on where they can live.",
+      "zh": "以色列外长 Gideon Sa'ar 回应说，英国竟教训犹太人应该住在哪里，实在荒谬。"
+    },
+    {
+      "id": 29,
+      "startMs": 197020,
+      "endMs": 199340,
+      "en": "Is this statement likely to make any difference at all?",
+      "zh": "这份声明究竟可能带来任何改变吗？"
+    },
+    {
+      "id": 30,
+      "startMs": 199500,
+      "endMs": 203340,
+      "en": "This is a difficult question. I think statements alone will not make a difference.",
+      "zh": "这是个很难回答的问题。我认为仅靠声明不会带来改变。"
+    },
+    {
+      "id": 31,
+      "startMs": 203580,
+      "endMs": 210860,
+      "en": "Ed Miliband, the British Foreign Secretary, has said that in the coming weeks there will be further measures, including sanctions.",
+      "zh": "英国外交大臣 Ed Miliband 说，未来几周还会采取包括制裁在内的进一步措施。"
+    },
+    {
+      "id": 32,
+      "startMs": 210860,
+      "endMs": 217980,
+      "en": "But it's interesting, I was just looking at a statement from the Israeli group Peace Now, which is opposed to settlements",
+      "zh": "不过有意思的是，我刚看到以色列反对定居点组织 Peace Now 的一份声明"
+    },
+    {
+      "id": 33,
+      "startMs": 218460,
+      "endMs": 226220,
+      "en": "and it says that the bidding period closes a week before the Israeli elections in October.",
+      "zh": "声明说，招标期将在10月以色列大选前一周结束。"
+    },
+    {
+      "id": 34,
+      "startMs": 226220,
+      "endMs": 234460,
+      "en": "So we're in an election period. The statement says the current Israeli government is trying to sign contracts with contractors before the elections",
+      "zh": "所以现在正值选举期，声明还说，以色列现政府正试图在选举前与承包商签订合同"
+    },
+    {
+      "id": 35,
+      "startMs": 234860,
+      "endMs": 239660,
+      "en": "so that it'll be much harder for the next government to cancel the construction. So that's their viewpoint.",
+      "zh": "这样下一届政府就会更难取消建设。这就是他们的观点。"
+    },
+    {
+      "id": 36,
+      "startMs": 239900,
+      "endMs": 241820,
+      "en": "What position have other nations taken?",
+      "zh": "其他国家采取了什么立场？"
+    },
+    {
+      "id": 37,
+      "startMs": 241980,
+      "endMs": 248700,
+      "en": "Well, interestingly, not on the list of the countries signing this joint statement is the US, of course.",
+      "zh": "有意思的是，当然，美国并不在签署这份联合声明的国家名单上。"
+    },
+    {
+      "id": 38,
+      "startMs": 248720,
+      "endMs": 250560,
+      "en": "Because it has the greatest sway.",
+      "zh": "因为美国拥有最大的影响力。"
+    },
+    {
+      "id": 39,
+      "startMs": 250880,
+      "endMs": 255760,
+      "en": "But you have had the US ambassador to Israel, Mike Huckabee, who is a supporter of settlements",
+      "zh": "但美国驻以色列大使 Mike Huckabee 是定居点支持者"
+    },
+    {
+      "id": 40,
+      "startMs": 255760,
+      "endMs": 262800,
+      "en": "being very, very critical of recent violence that we've seen being meted out by settlers against Palestinians.",
+      "zh": "他一直严厉批评近期定居者对巴勒斯坦人施加的暴力。"
+    },
+    {
+      "id": 41,
+      "startMs": 263360,
+      "endMs": 264400,
+      "en": "Caroline Hawley.",
+      "zh": "Caroline Hawley 报道。"
+    },
+    {
+      "id": 42,
+      "startMs": 265480,
+      "endMs": 270760,
+      "en": "Pakistan's former prime minister and one-time legendary cricketer Imran Khan",
+      "zh": "巴基斯坦前总理、曾经的传奇板球运动员伊姆兰·汗"
+    },
+    {
+      "id": 43,
+      "startMs": 270760,
+      "endMs": 276680,
+      "en": "has been in jail for three years on what he says are politically motivated corruption charges.",
+      "zh": "因他所称的出于政治动机的腐败指控入狱已有三年。"
+    },
+    {
+      "id": 44,
+      "startMs": 277160,
+      "endMs": 282600,
+      "en": "Earlier this morning, he was moved to hospital for health checkups on the orders of the Supreme Court.",
+      "zh": "今天早些时候，他根据最高法院的命令被送往医院接受健康检查。"
+    },
+    {
+      "id": 45,
+      "startMs": 283000,
+      "endMs": 284760,
+      "en": "His family say his health is failing.",
+      "zh": "他的家人说，他的健康状况正在恶化。"
+    },
+    {
+      "id": 46,
+      "startMs": 285160,
+      "endMs": 289240,
+      "en": "The government, though, isn't convinced and tried to keep him behind bars.",
+      "zh": "但政府并不相信，并试图把他继续关在狱中。"
+    },
+    {
+      "id": 47,
+      "startMs": 289320,
+      "endMs": 297000,
+      "en": "And now, after only a few hours in hospital, reports from Pakistan say Imran Khan has been taken back to prison.",
+      "zh": "现在，据巴基斯坦方面报道，伊姆兰·汗在医院仅待了几小时后就被带回监狱。"
+    },
+    {
+      "id": 48,
+      "startMs": 297480,
+      "endMs": 303000,
+      "en": "Our Pakistan correspondent Carrie Davies told me more about the background to the latest move.",
+      "zh": "我们的巴基斯坦记者凯莉·戴维斯向我介绍了这一最新动向的背景。"
+    },
+    {
+      "id": 49,
+      "startMs": 303720,
+      "endMs": 308120,
+      "en": "That movement has prompted lots of people to start speculating here in Islamabad.",
+      "zh": "这一动向促使伊斯兰堡的许多人开始猜测。"
+    },
+    {
+      "id": 50,
+      "startMs": 308440,
+      "endMs": 311240,
+      "en": "Quite often, when there are decisions being made by the courts",
+      "zh": "通常，当法院作出决定时"
+    },
+    {
+      "id": 51,
+      "startMs": 311320,
+      "endMs": 316040,
+      "en": "that go against Mr Khan, his party will talk about this being politically motivated.",
+      "zh": "如果决定对汗先生不利，他的政党就会称其出于政治动机。"
+    },
+    {
+      "id": 52,
+      "startMs": 316440,
+      "endMs": 319080,
+      "en": "However, in this particular case, where it seems to have gone in his favour,",
+      "zh": "然而，在这起看似对他有利的特殊案件中，"
+    },
+    {
+      "id": 53,
+      "startMs": 319080,
+      "endMs": 323960,
+      "en": "they have not commented on the speculation that there could be political manoeuvrings going on behind the scenes.",
+      "zh": "他们没有对幕后可能存在政治运作的猜测发表评论。"
+    },
+    {
+      "id": 54,
+      "startMs": 324280,
+      "endMs": 328860,
+      "en": "What is incredibly difficult to say from where we're standing is what is actually going on behind the scenes.",
+      "zh": "我们身处现场，却很难说清幕后究竟发生了什么。"
+    },
+    {
+      "id": 55,
+      "startMs": 328940,
+      "endMs": 331260,
+      "en": "Is this entirely to do with Mr Khan's health?",
+      "zh": "这完全是因为汗先生的健康状况吗？"
+    },
+    {
+      "id": 56,
+      "startMs": 331580,
+      "endMs": 333820,
+      "en": "Certainly, his family have not seen him for months.",
+      "zh": "可以肯定的是，他的家人已经数月没有见到他。"
+    },
+    {
+      "id": 57,
+      "startMs": 333820,
+      "endMs": 339180,
+      "en": "They want to make sure that his health is fine, and they want to have that reassurance by his own personal physician.",
+      "zh": "他们想确认他的健康状况良好，并希望由他的私人医生给予保证。"
+    },
+    {
+      "id": 58,
+      "startMs": 339740,
+      "endMs": 345260,
+      "en": "He was the most famous man in Pakistan by a very long way.",
+      "zh": "他曾是当之无愧的巴基斯坦最知名人士。"
+    },
+    {
+      "id": 59,
+      "startMs": 345500,
+      "endMs": 347900,
+      "en": "He was the prime minister, he was a major sportsman.",
+      "zh": "他曾是总理，也是一位杰出的运动员。"
+    },
+    {
+      "id": 60,
+      "startMs": 348220,
+      "endMs": 354220,
+      "en": "If he did get out of jail more permanently, is he still a political contender?",
+      "zh": "如果他最终获释，他仍然是政治竞争者吗？"
+    },
+    {
+      "id": 61,
+      "startMs": 354780,
+      "endMs": 358300,
+      "en": "Mr Khan is probably one of the most famous sons of Pakistan.",
+      "zh": "汗先生可能是巴基斯坦最著名的人物之一。"
+    },
+    {
+      "id": 62,
+      "startMs": 358540,
+      "endMs": 360060,
+      "en": "He is still incredibly popular.",
+      "zh": "他仍然极受欢迎。"
+    },
+    {
+      "id": 63,
+      "startMs": 360380,
+      "endMs": 365340,
+      "en": "And even though he has not been in public view for the course of the last three years,",
+      "zh": "尽管过去三年他一直没有公开露面，"
+    },
+    {
+      "id": 64,
+      "startMs": 365340,
+      "endMs": 369900,
+      "en": "his party have tried as much as they can to keep him in the public consciousness.",
+      "zh": "他的政党仍尽力让公众记住他。"
+    },
+    {
+      "id": 65,
+      "startMs": 370220,
+      "endMs": 377180,
+      "en": "The fact that they have been able to keep his sort of social media following going, he obviously has a huge number of supporters as well around the world,",
+      "zh": "他们能够维持他在社交媒体上的追随者群体；显然，他在世界各地也有大量支持者，"
+    },
+    {
+      "id": 66,
+      "startMs": 377500,
+      "endMs": 385260,
+      "en": "as well, of course, his family, who have been repeatedly talking about the fact that he is still in prison. So he has not totally drifted from public consciousness.",
+      "zh": "当然，他的家人也一再谈到他仍在狱中。因此，他并没有完全淡出公众视野。"
+    },
+    {
+      "id": 67,
+      "startMs": 385200,
+      "endMs": 387680,
+      "en": "I think he is still politically popular.",
+      "zh": "我认为他在政治上仍然受欢迎。"
+    },
+    {
+      "id": 68,
+      "startMs": 387920,
+      "endMs": 393200,
+      "en": "He is still certainly someone that enters the public and the political consciousness there in Pakistan.",
+      "zh": "他无疑仍是巴基斯坦公众和政治意识中的重要人物。"
+    },
+    {
+      "id": 69,
+      "startMs": 393520,
+      "endMs": 397840,
+      "en": "It's obviously difficult to say exactly how popular he'd be in an election at this exact moment,",
+      "zh": "显然，很难准确判断此刻他在选举中会有多受欢迎，"
+    },
+    {
+      "id": 70,
+      "startMs": 398240,
+      "endMs": 402800,
+      "en": "but I would not certainly say that he's been written off by the fact that he's been in prison for the course of the last few years.",
+      "zh": "但我绝不会说，他过去几年一直入狱就意味着他已被政治抛弃。"
+    },
+    {
+      "id": 71,
+      "startMs": 402800,
+      "endMs": 403280,
+      "en": "Far from it.",
+      "zh": "远非如此。"
+    },
+    {
+      "id": 72,
+      "startMs": 404260,
+      "endMs": 406180,
+      "en": "Carrie Davies in Islamabad.",
+      "zh": "凯莉·戴维斯在伊斯兰堡报道。"
+    },
+    {
+      "id": 73,
+      "startMs": 407220,
+      "endMs": 411700,
+      "en": "The World Health Organization has announced that the Democratic Republic of Congo will receive",
+      "zh": "世界卫生组织宣布，刚果民主共和国将获得"
+    },
+    {
+      "id": 74,
+      "startMs": 411780,
+      "endMs": 414180,
+      "en": "70,000 doses of a vaccine that will help it contain the Ebola outbreak.",
+      "zh": "70,000剂疫苗，以帮助控制埃博拉疫情。"
+    },
+    {
+      "id": 75,
+      "startMs": 414580,
+      "endMs": 421540,
+      "en": "The Ervebo vaccine has proved effective against the Zaire strain of the virus,",
+      "zh": "Ervebo疫苗已被证明对这种病毒的扎伊尔毒株有效，"
+    },
+    {
+      "id": 76,
+      "startMs": 422020,
+      "endMs": 430020,
+      "en": "but it's not known whether it will protect against the Bundibugyo species behind the current outbreak, which is the fastest spreading on record.",
+      "zh": "但尚不清楚它能否预防导致当前疫情的本迪布焦种；这是有记录以来传播最快的一次疫情。"
+    },
+    {
+      "id": 77,
+      "startMs": 430500,
+      "endMs": 433780,
+      "en": "The BBC's Africa correspondent Thomas Naadi reports.",
+      "zh": "BBC非洲记者托马斯·纳迪报道。"
+    },
+    {
+      "id": 78,
+      "startMs": 434420,
+      "endMs": 442180,
+      "en": "Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, says that the vaccine had shown some effectiveness in trials",
+      "zh": "世界卫生组织总干事谭德塞说，这种疫苗在试验中对"
+    },
+    {
+      "id": 79,
+      "startMs": 442180,
+      "endMs": 446020,
+      "en": "against the rare Bundibugyo strain, which is spreading in DR Congo.",
+      "zh": "正在刚果民主共和国传播的罕见本迪布焦毒株显示出一定疗效。"
+    },
+    {
+      "id": 80,
+      "startMs": 446340,
+      "endMs": 451700,
+      "en": "Twenty thousand doses are being sent to the country for clinical trials, with the rest for frontline workers.",
+      "zh": "其中20,000剂将送往该国用于临床试验，其余供一线工作人员使用。"
+    },
+    {
+      "id": 81,
+      "startMs": 452100,
+      "endMs": 458580,
+      "en": "Two separate vaccines specifically designed against the implicated strain are also entering human trials for the first time.",
+      "zh": "另外两种专门针对涉事毒株研发的疫苗也首次进入人体试验。"
+    },
+    {
+      "id": 82,
+      "startMs": 458820,
+      "endMs": 467720,
+      "en": "So far, 2,378 people are confirmed to have died due to Ebola in DR Congo, with 5,021 confirmed cases.",
+      "zh": "目前，刚果民主共和国已有2,378人确认死于埃博拉，确诊病例为5,021例。"
+    },
+    {
+      "id": 83,
+      "startMs": 468120,
+      "endMs": 474840,
+      "en": "Dr Tedros previously told the global body's emergency health committee that the disease is far from being under control.",
+      "zh": "谭德塞此前告诉全球卫生机构的紧急卫生委员会，这种疾病远未得到控制。"
+    },
+    {
+      "id": 84,
+      "startMs": 475160,
+      "endMs": 476760,
+      "en": "Thomas Naadi reporting.",
+      "zh": "托马斯·纳迪报道。"
+    },
+    {
+      "id": 85,
+      "startMs": 477000,
+      "endMs": 480280,
+      "en": "So, what's happening on the ground in the DRC?",
+      "zh": "那么，刚果民主共和国当地情况如何？"
+    },
+    {
+      "id": 86,
+      "startMs": 480600,
+      "endMs": 487160,
+      "en": "Trish Newport is the emergency and medical coordinator for the aid charity Médecins Sans Frontières",
+      "zh": "特里什·纽波特是援助慈善组织无国界医生的紧急事务和医疗协调员，"
+    },
+    {
+      "id": 87,
+      "startMs": 487400,
+      "endMs": 493000,
+      "en": "in Bunia, a city in the northeast of the DRC, which is worst affected by the outbreak.",
+      "zh": "她在刚果民主共和国东北部城市布尼亚工作，那里受疫情影响最严重。"
+    },
+    {
+      "id": 88,
+      "startMs": 493400,
+      "endMs": 498920,
+      "en": "She's been sharing her thoughts on how they're treating people in very challenging circumstances.",
+      "zh": "她分享了自己在极其艰难的环境中救治患者的感受。"
+    },
+    {
+      "id": 89,
+      "startMs": 499480,
+      "endMs": 501320,
+      "en": "Today was a very busy day.",
+      "zh": "今天非常忙碌。"
+    },
+    {
+      "id": 90,
+      "startMs": 501960,
+      "endMs": 509240,
+      "en": "We have a project that was there even before Ebola in a place called Fataki, and we work in a displacement camp.",
+      "zh": "我们在法塔基有一个早在埃博拉疫情前就开展的项目，并在一个流离失所者营地工作。"
+    },
+    {
+      "id": 91,
+      "startMs": 509240,
+      "endMs": 515960,
+      "en": "It is the most horrific humanitarian situation I have seen in a very, very long time.",
+      "zh": "这是我很长很长时间以来见过的最可怕的人道主义局势。"
+    },
+    {
+      "id": 92,
+      "startMs": 515960,
+      "endMs": 522360,
+      "en": "Eighty thousand people living in very cramped, horrible conditions, and then Ebola started.",
+      "zh": "8万人生活在极其拥挤、恶劣的环境中，随后埃博拉疫情暴发了。"
+    },
+    {
+      "id": 93,
+      "startMs": 522920,
+      "endMs": 527660,
+      "en": "And so we built this eight-bed Ebola treatment centre about an hour away from the camp,",
+      "zh": "因此，我们在距离营地约一小时路程处建起了这座拥有8张床位的埃博拉治疗中心，"
+    },
+    {
+      "id": 94,
+      "startMs": 528220,
+      "endMs": 534060,
+      "en": "and in the last few weeks, the numbers have just exploded, so we've just scaled up to 20 beds.",
+      "zh": "过去几周病例数激增，所以我们刚把规模扩大到20张床位。"
+    },
+    {
+      "id": 95,
+      "startMs": 534380,
+      "endMs": 538860,
+      "en": "But it's difficult to actually do, because then you have to find all of those staff,",
+      "zh": "但实际操作很困难，因为你必须找到所有这些工作人员，"
+    },
+    {
+      "id": 96,
+      "startMs": 539340,
+      "endMs": 544220,
+      "en": "and then we need to be training them, making sure that they can work in a safe environment.",
+      "zh": "还要培训他们，确保他们能在安全的环境中工作。"
+    },
+    {
+      "id": 97,
+      "startMs": 544620,
+      "endMs": 547340,
+      "en": "Because an Ebola treatment centre doesn't just work on its own.",
+      "zh": "因为埃博拉治疗中心并不是独立运作的。"
+    },
+    {
+      "id": 98,
+      "startMs": 547740,
+      "endMs": 551340,
+      "en": "You actually need to have surveillance, you need to have contact tracing,",
+      "zh": "你还必须开展监测和接触者追踪，"
+    },
+    {
+      "id": 99,
+      "startMs": 551660,
+      "endMs": 557420,
+      "en": "you need to be able to decontaminate the homes that people are coming from, have ambulance referrals,",
+      "zh": "能够为人们离开的住所消毒，并安排救护车转诊，"
+    },
+    {
+      "id": 100,
+      "startMs": 557900,
+      "endMs": 562300,
+      "en": "and not forget the absolute humanitarian disaster in the Rhoe camp.",
+      "zh": "也不能忘记罗埃营地那场彻底的人道主义灾难。"
+    },
+    {
+      "id": 101,
+      "startMs": 562940,
+      "endMs": 568540,
+      "en": "And then something a bit more joyous is we have an Ebola treatment centre in Mambasa, where the outbreak actually started.",
+      "zh": "还有一件更令人欣慰的事：我们在疫情实际开始的地方曼巴萨设有一所埃博拉治疗中心。"
+    },
+    {
+      "id": 102,
+      "startMs": 569100,
+      "endMs": 577100,
+      "en": "Now, we have 95 people that have survived Ebola from Mambasa, and so we spent time thinking about how to celebrate",
+      "zh": "现在，曼巴萨已有95名埃博拉幸存者，因此我们花时间思考如何庆祝"
+    },
+    {
+      "id": 103,
+      "startMs": 577580,
+      "endMs": 584060,
+      "en": "the day that we actually have 100 survivors, and how to celebrate with the community, because this is really big news for them.",
+      "zh": "达到100名幸存者的那一天，以及如何和社区一起庆祝，因为这对他们来说真是个大新闻。"
+    },
+    {
+      "id": 104,
+      "startMs": 584560,
+      "endMs": 587840,
+      "en": "Trish Newport from Médecins Sans Frontières.",
+      "zh": "无国界医生组织的特里什·纽波特。"
+    },
+    {
+      "id": 105,
+      "startMs": 588400,
+      "endMs": 594560,
+      "en": "One of the problems in tackling the outbreak in the DRC is the relative invisibility of the crisis.",
+      "zh": "应对刚果（金）疫情的问题之一，是这场危机相对不受关注。"
+    },
+    {
+      "id": 106,
+      "startMs": 594880,
+      "endMs": 599360,
+      "en": "Devi Sridhar is a professor of global public health at the University of Edinburgh.",
+      "zh": "德维·斯里达尔是爱丁堡大学全球公共卫生学教授。"
+    },
+    {
+      "id": 107,
+      "startMs": 599760,
+      "endMs": 609520,
+      "en": "She's written extensively about this. Paul Henley asked why this Ebola outbreak is getting much less international attention.",
+      "zh": "她长期报道此事。保罗·亨利问她，为什么这次埃博拉疫情得到的国际关注少了这么多。"
+    },
+    {
+      "id": 108,
+      "startMs": 609840,
+      "endMs": 613280,
+      "en": "Than the previous one in West Africa in 2014.",
+      "zh": "比2014年西非上一次疫情少得多。"
+    },
+    {
+      "id": 109,
+      "startMs": 613440,
+      "endMs": 623360,
+      "en": "Yeah, it's really puzzling because, actually, like, I think back to working on the 2014 outbreak, and Ebola was, I think, the most googled news term in the world that year.",
+      "zh": "是的，这确实令人费解。回想2014年疫情，埃博拉曾是那年全球搜索量最高的新闻词。"
+    },
+    {
+      "id": 110,
+      "startMs": 623760,
+      "endMs": 633040,
+      "en": "Almost every day, newspaper headlines and magazine covers featured it. This outbreak is on track to be possibly the second worst—or the worst, on par with that.",
+      "zh": "那时几乎每天都有报纸头条和杂志封面报道它。这次疫情可能会成为史上第二严重，甚至最严重的一次，与那次相当。"
+    },
+    {
+      "id": 111,
+      "startMs": 633040,
+      "endMs": 640460,
+      "en": "And, yeah, I think it's because everyone's just tired of disease, possibly after the pandemic—maybe COVID-19 fatigue.",
+      "zh": "我想，这可能是因为疫情大流行之后，人们已经厌倦了疾病，也许是对新冠的疲劳。"
+    },
+    {
+      "id": 112,
+      "startMs": 640540,
+      "endMs": 649580,
+      "en": "No one really wants to hear about infectious diseases, and that may drive producers to think, actually, should we cover this or should we maybe cover something else?",
+      "zh": "现在人们不太想听传染病的消息，这也许会让制作人考虑：我们该报道这个，还是换个主题？"
+    },
+    {
+      "id": 113,
+      "startMs": 649660,
+      "endMs": 655180,
+      "en": "The public health effort isn't the coordinated international one that it was in 2014, though, is it?",
+      "zh": "不过，现在的公共卫生行动，已经不像2014年那样由国际社会协调推进了，对吗？"
+    },
+    {
+      "id": 114,
+      "startMs": 655660,
+      "endMs": 666140,
+      "en": "Yeah, thinking back to 2014, the United States, the UK and France provided real leadership. They came together with the World Health Organization to ask, how do we stop this?",
+      "zh": "回想2014年，美国、英国和法国政府发挥了真正的领导作用，并与世界卫生组织共同思考：我们该如何阻止疫情？"
+    },
+    {
+      "id": 115,
+      "startMs": 666460,
+      "endMs": 674380,
+      "en": "They brought military-like coordination, resources and trained personnel to say, basically, we need to stop this and get on top of it.",
+      "zh": "他们带来了军事化的协调、资源和受训人员，基本目标就是控制住疫情。"
+    },
+    {
+      "id": 116,
+      "startMs": 674860,
+      "endMs": 681260,
+      "en": "Today, the United States is no longer part of the WHO and is responding alone, making efforts on Ebola.",
+      "zh": "如今，美国已不再是世卫组织成员，正单独应对疫情，采取一些埃博拉防控行动。"
+    },
+    {
+      "id": 117,
+      "startMs": 681260,
+      "endMs": 687100,
+      "en": "But this is happening in the context of defunding foreign aid and closing USAID.",
+      "zh": "但这些行动发生在削减对外援助、关闭美国国际开发署的背景下。"
+    },
+    {
+      "id": 118,
+      "startMs": 687100,
+      "endMs": 692860,
+      "en": "The UK is facing its own challenges since Brexit, with domestic issues and the war in Ukraine.",
+      "zh": "英国脱欧后也面临自身挑战，包括国内问题和乌克兰战争。"
+    },
+    {
+      "id": 119,
+      "startMs": 692940,
+      "endMs": 695600,
+      "en": "I mean, we're in a completely different political environment right now.",
+      "zh": "我的意思是，我们现在处于完全不同的政治环境中。"
+    },
+    {
+      "id": 120,
+      "startMs": 695600,
+      "endMs": 701920,
+      "en": "This makes it very hard to get collective action globally, make this a priority, and bring in the necessary resources.",
+      "zh": "这让全球采取集体行动、将疫情列为优先事项并获得必要资源变得非常困难。"
+    },
+    {
+      "id": 121,
+      "startMs": 702560,
+      "endMs": 705360,
+      "en": "Devi Sridhar speaking to Paul Henley.",
+      "zh": "德维·斯里达尔接受保罗·亨利采访。"
+    },
+    {
+      "id": 122,
+      "startMs": 706080,
+      "endMs": 709920,
+      "en": "Now to a tragic communication error in Australia.",
+      "zh": "下面来看澳大利亚发生的一起悲剧性通信错误。"
+    },
+    {
+      "id": 123,
+      "startMs": 710480,
+      "endMs": 715840,
+      "en": "Imagine hearing that, after being missing for more than a week, your loved one has been found alive.",
+      "zh": "想象一下，亲人失踪一周多后，你听到她还活着、已经被找到的消息。"
+    },
+    {
+      "id": 124,
+      "startMs": 716740,
+      "endMs": 719380,
+      "en": "But nine minutes later, you're told they're actually dead.",
+      "zh": "但九分钟后，你却被告知她其实已经死亡。"
+    },
+    {
+      "id": 125,
+      "startMs": 719700,
+      "endMs": 726660,
+      "en": "That's what happened to Lily Hooper's family. She's an Australian teenager who disappeared while hiking in New South Wales.",
+      "zh": "莉莉·胡珀的家人就经历了这一切。她是澳大利亚一名少女，在新南威尔士州徒步时失踪。"
+    },
+    {
+      "id": 126,
+      "startMs": 727060,
+      "endMs": 728180,
+      "en": "Helena Burke reports.",
+      "zh": "海伦娜·伯克报道。"
+    },
+    {
+      "id": 127,
+      "startMs": 728580,
+      "endMs": 732260,
+      "en": "The search continues for a teenager who disappeared while hiking alone.",
+      "zh": "搜救仍在继续，一名少女独自徒步时失踪。"
+    },
+    {
+      "id": 128,
+      "startMs": 732260,
+      "endMs": 735620,
+      "en": "Police believe 18-year-old Lily Hooper could still be found alive.",
+      "zh": "警方相信，18岁的莉莉·胡珀仍可能生还。"
+    },
+    {
+      "id": 129,
+      "startMs": 735700,
+      "endMs": 740180,
+      "en": "The bushwalker hasn't been in contact with friends or family since Wednesday.",
+      "zh": "这名丛林徒步者自周三起就没有与亲友联系。"
+    },
+    {
+      "id": 130,
+      "startMs": 740420,
+      "endMs": 745860,
+      "en": "For more than a week, Australia held its breath as rescuers tried to find Lily Hooper.",
+      "zh": "一周多来，澳大利亚屏息以待，救援人员努力寻找莉莉·胡珀。"
+    },
+    {
+      "id": 131,
+      "startMs": 745860,
+      "endMs": 750340,
+      "en": "The 18-year-old went missing while hiking alone in the forest on August 12.",
+      "zh": "这名18岁少女于8月12日独自在森林徒步时失踪。"
+    },
+    {
+      "id": 132,
+      "startMs": 750340,
+      "endMs": 757700,
+      "en": "A large-scale search operation was launched, with rescuers braving freezing temperatures, thick bushland and steep terrain.",
+      "zh": "随后展开大规模搜救，救援人员冒着严寒，穿越茂密灌木丛和陡峭地形。"
+    },
+    {
+      "id": 133,
+      "startMs": 758340,
+      "endMs": 763780,
+      "en": "Eight days in, news broke that everyone had been hoping for: Lily had been found alive.",
+      "zh": "失踪第八天，大家盼望的消息传来：莉莉被找到，而且还活着。"
+    },
+    {
+      "id": 134,
+      "startMs": 764260,
+      "endMs": 769620,
+      "en": "The Premier of New South Wales, Chris Minns, interrupted a parliamentary hearing to relay the good news.",
+      "zh": "新南威尔士州州长克里斯·明斯打断议会听证会，转达这一好消息。"
+    },
+    {
+      "id": 135,
+      "startMs": 769700,
+      "endMs": 773780,
+      "en": "Got some fantastic news, Mr Chair. Lily Hooper's been found alive. I just saw that.",
+      "zh": "主席先生，有个极好的消息。莉莉·胡珀被找到，而且还活着。我刚看到消息。"
+    },
+    {
+      "id": 136,
+      "startMs": 773780,
+      "endMs": 778440,
+      "en": "Found in the bush with half a bottle of water. With her, so that's fantastic news.",
+      "zh": "她是在丛林中被找到的，身边只有半瓶水。这真是个好消息。"
+    },
+    {
+      "id": 137,
+      "startMs": 778680,
+      "endMs": 783320,
+      "en": "Videos showed Lily's family cheering, hugging and crying tears of joy.",
+      "zh": "视频显示，莉莉的家人欢呼、拥抱，喜极而泣。"
+    },
+    {
+      "id": 138,
+      "startMs": 783800,
+      "endMs": 790680,
+      "en": "But as media outlets across Australia reported the news, it suddenly became apparent that there had been a terrible mistake.",
+      "zh": "但澳大利亚各地媒体报道这一消息时，人们突然发现，原来发生了可怕的错误。"
+    },
+    {
+      "id": 139,
+      "startMs": 791000,
+      "endMs": 795800,
+      "en": "I've got some terrible news, and I apologise to the committee, but it seems the early advice was wrong.",
+      "zh": "有个可怕的消息，我向委员会道歉，但看来早先的通知是错的。"
+    },
+    {
+      "id": 140,
+      "startMs": 795800,
+      "endMs": 801640,
+      "en": "Can we stop the clock? And Lily's body's been found, and she's been found deceased.",
+      "zh": "能暂停计时吗？莉莉的遗体被找到了，她已经死亡。"
+    },
+    {
+      "id": 141,
+      "startMs": 801880,
+      "endMs": 804440,
+      "en": "I made the earlier advice, and I'm very sorry for that.",
+      "zh": "早先的通知是我发布的，对此我非常抱歉。"
+    },
+    {
+      "id": 142,
+      "startMs": 804680,
+      "endMs": 810360,
+      "en": "Joseph Cassar from New South Wales Police said there had been a communication error with the search teams.",
+      "zh": "新南威尔士州警方的约瑟夫·卡萨尔说，搜救队伍之间出现了通信错误。"
+    },
+    {
+      "id": 143,
+      "startMs": 810520,
+      "endMs": 813080,
+      "en": "The area is thick, dense terrain.",
+      "zh": "当地地形复杂、植被茂密。"
+    },
+    {
+      "id": 144,
+      "startMs": 813240,
+      "endMs": 815560,
+      "en": "We've got hundreds of searchers out there.",
+      "zh": "那里有数百名搜救人员。"
+    },
+    {
+      "id": 145,
+      "startMs": 815800,
+      "endMs": 823160,
+      "en": "They're carrying handheld communication devices and, as you can appreciate, sometimes communication is a challenge.",
+      "zh": "他们携带手持通信设备，但正如你能理解的，有时通信确实很困难。"
+    },
+    {
+      "id": 146,
+      "startMs": 823400,
+      "endMs": 831000,
+      "en": "Police say it was about nine minutes between Lily's family being told she was alive and then being told she was, in fact, dead.",
+      "zh": "警方说，莉莉的家人先被告知她还活着，约九分钟后又被告知她其实已经死亡。"
+    },
+    {
+      "id": 147,
+      "startMs": 831640,
+      "endMs": 835560,
+      "en": "The head of New South Wales Police, Mal Lanyon, has apologised for the mix-up.",
+      "zh": "新南威尔士州警察总长马尔·兰扬为这次混乱道歉。"
+    },
+    {
+      "id": 148,
+      "startMs": 836040,
+      "endMs": 839900,
+      "en": "Sadly, this morning, there was a miscommunication when Lily's body was recovered.",
+      "zh": "令人遗憾的是，今天早上找到莉莉遗体时，出现了通信错误。"
+    },
+    {
+      "id": 149,
+      "startMs": 840220,
+      "endMs": 846700,
+      "en": "That miscommunication—I unashamedly apologise for any additional trauma that may have caused Lily's family.",
+      "zh": "这次通信错误给莉莉的家人造成了额外创伤，我对此毫不推诿地道歉。"
+    },
+    {
+      "id": 150,
+      "startMs": 847100,
+      "endMs": 850060,
+      "en": "But certainly for the embarrassment and confusion that caused.",
+      "zh": "当然，也为由此造成的尴尬和困惑道歉。"
+    },
+    {
+      "id": 151,
+      "startMs": 850460,
+      "endMs": 854300,
+      "en": "There will now be an investigation into how the miscommunication occurred.",
+      "zh": "现在将调查这次通信错误是如何发生的。"
+    },
+    {
+      "id": 152,
+      "startMs": 854620,
+      "endMs": 858860,
+      "en": "A report is also being prepared for the coroner to determine Lily's cause of death.",
+      "zh": "同时正在准备报告，供验尸官确定莉莉的死因。"
+    },
+    {
+      "id": 153,
+      "startMs": 859980,
+      "endMs": 860780,
+      "en": "Helena Burke.",
+      "zh": "海伦娜·伯克。"
+    },
+    {
+      "id": 154,
+      "startMs": 861500,
+      "endMs": 863820,
+      "en": "Here in the UK, speculation is rife",
+      "zh": "在英国，人们议论纷纷"
+    },
+    {
+      "id": 155,
+      "startMs": 863820,
+      "endMs": 867180,
+      "en": "as to what Harry and Meghan, the Duke and Duchess of Sussex,",
+      "zh": "哈里和梅根、苏塞克斯公爵和公爵夫人将如何行动"
+    },
+    {
+      "id": 156,
+      "startMs": 867180,
+      "endMs": 869820,
+      "en": "will do when they return to the country from the US,",
+      "zh": "他们从美国返回英国后会做什么"
+    },
+    {
+      "id": 157,
+      "startMs": 869820,
+      "endMs": 872300,
+      "en": "where they've been living for the last six years.",
+      "zh": "他们在那里已经生活了六年。"
+    },
+    {
+      "id": 158,
+      "startMs": 872300,
+      "endMs": 876460,
+      "en": "The couple don't carry out any official duties for the British royal family,",
+      "zh": "这对夫妇不再履行英国王室的任何公务"
+    },
+    {
+      "id": 159,
+      "startMs": 876460,
+      "endMs": 881740,
+      "en": "and they no longer act as representatives for Prince Harry's father, King Charles.",
+      "zh": "也不再代表哈里的父亲、查尔斯国王。"
+    },
+    {
+      "id": 160,
+      "startMs": 881740,
+      "endMs": 887820,
+      "en": "In recent years, Meghan has earned millions of dollars with a lifestyle and cooking series for Netflix,",
+      "zh": "近年来，梅根凭借在 Netflix 制作的生活方式与烹饪系列节目赚取了数百万美元"
+    },
+    {
+      "id": 161,
+      "startMs": 887820,
+      "endMs": 891340,
+      "en": "but this has been cancelled. So what could be next for her?",
+      "zh": "但节目已被取消。她接下来可能做什么？"
+    },
+    {
+      "id": 162,
+      "startMs": 891340,
+      "endMs": 894060,
+      "en": "Here's our royal correspondent Daniela Relph.",
+      "zh": "以下是王室事务记者丹妮拉·雷尔夫的报道。"
+    },
+    {
+      "id": 163,
+      "startMs": 894140,
+      "endMs": 898620,
+      "en": "In all the speculation around why Harry and Meghan are coming back to the UK,",
+      "zh": "围绕哈里和梅根为何回英国的种种猜测中"
+    },
+    {
+      "id": 164,
+      "startMs": 898620,
+      "endMs": 901980,
+      "en": "could Meghan be about to return to acting?",
+      "zh": "梅根是否可能重返演艺圈？"
+    },
+    {
+      "id": 165,
+      "startMs": 901980,
+      "endMs": 907020,
+      "en": "There are reports that she has a role in a new UK-based entertainment project,",
+      "zh": "有报道称，她将在一个新的英国娱乐项目中出演角色"
+    },
+    {
+      "id": 166,
+      "startMs": 907020,
+      "endMs": 910620,
+      "en": "and that is one of the reasons why the family is leaving America.",
+      "zh": "这也是这个家庭离开美国的原因之一。"
+    },
+    {
+      "id": 167,
+      "startMs": 910620,
+      "endMs": 915740,
+      "en": "Harry and Meghan's team has not denied the story, but aren't giving any details at this stage",
+      "zh": "哈里和梅根的团队没有否认这一消息，但目前没有透露任何细节"
+    },
+    {
+      "id": 168,
+      "startMs": 915740,
+      "endMs": 918380,
+      "en": "of what Meghan's new role is.",
+      "zh": "也没有说明梅根的新角色是什么。"
+    },
+    {
+      "id": 169,
+      "startMs": 918380,
+      "endMs": 922400,
+      "en": "Her acting career has pretty much been on hold since her marriage to Harry.",
+      "zh": "自从与哈里结婚以来，她的演艺事业基本处于停滞状态。"
+    },
+    {
+      "id": 170,
+      "startMs": 922880,
+      "endMs": 926080,
+      "en": "Her most famous role within the US-based legal drama Suits",
+      "zh": "她最著名的角色是在美国法律剧《金装律师》中"
+    },
+    {
+      "id": 171,
+      "startMs": 926320,
+      "endMs": 930240,
+      "en": "where for seven seasons she played the lawyer Rachel Zane.",
+      "zh": "她在剧中七季都饰演律师瑞秋·赞恩。"
+    },
+    {
+      "id": 172,
+      "startMs": 930240,
+      "endMs": 933600,
+      "en": "A return to acting could be lucrative for Meghan.",
+      "zh": "重返演艺圈可能为梅根带来丰厚收入。"
+    },
+    {
+      "id": 173,
+      "startMs": 933600,
+      "endMs": 937040,
+      "en": "There will be huge interest in whatever she does in this space,",
+      "zh": "无论她在这一领域做什么，都会引起极大关注"
+    },
+    {
+      "id": 174,
+      "startMs": 937040,
+      "endMs": 942400,
+      "en": "as the Sussexes' UK return continues to grab attention.",
+      "zh": "因为苏塞克斯夫妇回英国一事持续受到关注。"
+    },
+    {
+      "id": 175,
+      "startMs": 942400,
+      "endMs": 946020,
+      "en": "Daniela Relph.",
+      "zh": "丹妮拉·雷尔夫。"
+    },
+    {
+      "id": 176,
+      "startMs": 946020,
+      "endMs": 948660,
+      "en": "Still to come in this podcast.",
+      "zh": "本期节目稍后还有。"
+    },
+    {
+      "id": 177,
+      "startMs": 948900,
+      "endMs": 957060,
+      "en": "Now, this whole line of inquiry has now been undermined by the news that the kidney being studied was not that of Diego Armando Maradona.",
+      "zh": "如今，所研究的肾脏并非迭戈·阿曼多·马拉多纳的，这一消息削弱了整条调查思路。"
+    },
+    {
+      "id": 178,
+      "startMs": 957140,
+      "endMs": 958580,
+      "en": "It was that of his father.",
+      "zh": "那是他父亲的肾脏。"
+    },
+    {
+      "id": 179,
+      "startMs": 958980,
+      "endMs": 962740,
+      "en": "The trial over the death of football legend Maradona is halted",
+      "zh": "足球传奇马拉多纳死亡案的审判暂停"
+    },
+    {
+      "id": 180,
+      "startMs": 963140,
+      "endMs": 964980,
+      "en": "following a kidney test mix-up.",
+      "zh": "原因是肾脏检测出现混淆。"
+    },
+    {
+      "id": 181,
+      "startMs": 964980,
+      "endMs": 966980,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《Global News Podcast》。"
+    },
+    {
+      "id": 182,
+      "startMs": 968100,
+      "endMs": 973380,
+      "en": "The Trump administration is ramping up the pressure on Cuba with a new raft of sanctions",
+      "zh": "特朗普政府通过新一轮制裁加大对古巴的压力"
+    },
+    {
+      "id": 183,
+      "startMs": 973380,
+      "endMs": 980820,
+      "en": "targeting various individuals and organizations. The US Secretary of State Marco Rubio announced the new restrictions on Thursday.",
+      "zh": "目标包括多个个人和组织。美国国务卿马可·鲁比奥周四宣布了这些新限制。"
+    },
+    {
+      "id": 184,
+      "startMs": 981220,
+      "endMs": 986180,
+      "en": "Cuba's UN representative Ernesto Soberón Guzmán denounced the sanctions",
+      "zh": "古巴驻联合国代表埃内斯托·索贝隆·古斯曼谴责这些制裁"
+    },
+    {
+      "id": 185,
+      "startMs": 986180,
+      "endMs": 991700,
+      "en": "and warned that any US military action against the Caribbean island would have serious repercussions.",
+      "zh": "并警告称，任何针对这个加勒比岛屿的美国军事行动都将产生严重后果。"
+    },
+    {
+      "id": 186,
+      "startMs": 992180,
+      "endMs": 999620,
+      "en": "Should a military adventure against Cuba be launched, the consequences will be immeasurable.",
+      "zh": "如果对古巴发动军事冒险，后果将无法估量。"
+    },
+    {
+      "id": 187,
+      "startMs": 999780,
+      "endMs": 1006020,
+      "en": "It will not only affect Cuba and the US, but also jeopardize peace, security and stability",
+      "zh": "这不仅会影响古巴和美国，还会危及和平、安全与稳定"
+    },
+    {
+      "id": 188,
+      "startMs": 1006020,
+      "endMs": 1009620,
+      "en": "in the Western Hemisphere and even the entire world.",
+      "zh": "以及西半球乃至全世界。"
+    },
+    {
+      "id": 189,
+      "startMs": 1009940,
+      "endMs": 1013300,
+      "en": "The US has already imposed many sanctions on Cuba.",
+      "zh": "美国已经对古巴实施了许多制裁。"
+    },
+    {
+      "id": 190,
+      "startMs": 1013620,
+      "endMs": 1018820,
+      "en": "I asked Luis Fajardo from BBC Monitoring if these new ones would make any difference.",
+      "zh": "我询问了 BBC 监测部的路易斯·法哈尔多，这些新制裁是否会带来不同。"
+    },
+    {
+      "id": 191,
+      "startMs": 1019300,
+      "endMs": 1024500,
+      "en": "Alex, it is one more step in, as you mentioned, the continued intense",
+      "zh": "亚历克斯，正如你所说，这是美国持续施加的强大压力中的又一步"
+    },
+    {
+      "id": 192,
+      "startMs": 1024520,
+      "endMs": 1027880,
+      "en": "economic pressure that the United States is putting on Cuba.",
+      "zh": "美国正把这种经济压力施加于古巴。"
+    },
+    {
+      "id": 193,
+      "startMs": 1028280,
+      "endMs": 1034120,
+      "en": "This round of sanctions affects three officials who were involved in a more political role in an agency",
+      "zh": "这一轮制裁针对三名官员，他们在某机构中担任更具政治性的职务"
+    },
+    {
+      "id": 194,
+      "startMs": 1034120,
+      "endMs": 1039080,
+      "en": "that the US says was, quote-unquote, exporting communist subversion to other countries.",
+      "zh": "美国称该机构在“向其他国家输出共产主义颠覆活动”。"
+    },
+    {
+      "id": 195,
+      "startMs": 1039240,
+      "endMs": 1045320,
+      "en": "And it also involves sanctions on nine agencies in things like the Ministry of Construction,",
+      "zh": "制裁还涉及九个机构，包括建设部等部门"
+    },
+    {
+      "id": 196,
+      "startMs": 1045560,
+      "endMs": 1050760,
+      "en": "a company involved in nickel mining, which traditionally has been an important source of money for Cuba.",
+      "zh": "以及一家镍矿企业；镍矿传统上一直是古巴的重要收入来源。"
+    },
+    {
+      "id": 197,
+      "startMs": 1051080,
+      "endMs": 1056760,
+      "en": "So it is part of a continued effort by the US to weaken the Cuban economy,",
+      "zh": "因此，这是美国持续削弱古巴经济的一部分"
+    },
+    {
+      "id": 198,
+      "startMs": 1056840,
+      "endMs": 1065160,
+      "en": "on top of great restrictions, for example, on oil, on fuel and all kinds of things that are causing a great deal of disruption in the Cuban economy.",
+      "zh": "此外，石油、燃料等方面的严格限制，也给古巴经济造成了巨大混乱。"
+    },
+    {
+      "id": 199,
+      "startMs": 1065360,
+      "endMs": 1068400,
+      "en": "How are ordinary Cubans coping at the moment?",
+      "zh": "普通古巴人目前如何应对？"
+    },
+    {
+      "id": 200,
+      "startMs": 1068880,
+      "endMs": 1072080,
+      "en": "They're facing a lot of disruption in their everyday life.",
+      "zh": "他们的日常生活正面临许多混乱。"
+    },
+    {
+      "id": 201,
+      "startMs": 1072480,
+      "endMs": 1078240,
+      "en": "Energy shortages are leading to big power outages, very frequent across the country.",
+      "zh": "能源短缺导致大规模停电，而且停电在全国十分频繁。"
+    },
+    {
+      "id": 202,
+      "startMs": 1078560,
+      "endMs": 1085920,
+      "en": "There are shortages of basic goods and there's a sense of serious economic deterioration, inflation, all kinds of things.",
+      "zh": "基本商品短缺，经济严重恶化，还有通货膨胀等各种问题。"
+    },
+    {
+      "id": 203,
+      "startMs": 1086160,
+      "endMs": 1094960,
+      "en": "And besides, a traditional escape valve for the island, which was immigration to the US, of course, is much, much more restricted nowadays.",
+      "zh": "此外，这个岛国过去的传统出路——移民美国——如今当然也受到更多限制。"
+    },
+    {
+      "id": 204,
+      "startMs": 1095280,
+      "endMs": 1101440,
+      "en": "So, all in all, a very difficult situation for Cubans trying to withstand this economic pressure by the US.",
+      "zh": "总而言之，古巴人试图承受美国经济压力，处境十分艰难。"
+    },
+    {
+      "id": 205,
+      "startMs": 1101920,
+      "endMs": 1103520,
+      "en": "What's the US trying to achieve?",
+      "zh": "美国想达到什么目的？"
+    },
+    {
+      "id": 206,
+      "startMs": 1104240,
+      "endMs": 1111600,
+      "en": "Well, the United States, particularly the Trump administration, has been saying that they want political change in the island",
+      "zh": "美国，尤其是特朗普政府，一直表示希望这个岛国发生政治变革"
+    },
+    {
+      "id": 207,
+      "startMs": 1111920,
+      "endMs": 1119600,
+      "en": "and specifically in Miami, where I am based, of course, many people think and hope that this time they would manage to do it.",
+      "zh": "特别是在我所在的迈阿密，许多人认为并希望这次他们能够做到。"
+    },
+    {
+      "id": 208,
+      "startMs": 1120080,
+      "endMs": 1125040,
+      "en": "There's been a lot of speculation in the media that the US was trying to look for a Venezuelan-type",
+      "zh": "媒体上有很多猜测，认为美国正试图寻找一种委内瑞拉式的"
+    },
+    {
+      "id": 209,
+      "startMs": 1125060,
+      "endMs": 1132420,
+      "en": "scenario where someone in the Cuban administration would agree for a takeover with the US and cooperate somehow with the US.",
+      "zh": "局面：古巴政府中有人同意与美国合作，由美国接管政权。"
+    },
+    {
+      "id": 210,
+      "startMs": 1132820,
+      "endMs": 1136580,
+      "en": "This is a government that has been extremely resilient over the decades.",
+      "zh": "这个政府几十年来一直极具韧性。"
+    },
+    {
+      "id": 211,
+      "startMs": 1136740,
+      "endMs": 1142260,
+      "en": "Many, many different US governments have tried to change the political situation in Cuba and have failed.",
+      "zh": "许多届不同的美国政府都曾试图改变古巴的政治局势，但都失败了。"
+    },
+    {
+      "id": 212,
+      "startMs": 1142340,
+      "endMs": 1147060,
+      "en": "So it is very difficult just to assume that this time they're going to be successful.",
+      "zh": "因此，很难简单认定这次他们会成功。"
+    },
+    {
+      "id": 213,
+      "startMs": 1147060,
+      "endMs": 1149220,
+      "en": "I was going to say, is it going to be different this time?",
+      "zh": "我正想问，这次会有所不同吗？"
+    },
+    {
+      "id": 214,
+      "startMs": 1149540,
+      "endMs": 1155140,
+      "en": "People in Miami say that very few times Cuba has faced such a harsh economic crisis,",
+      "zh": "迈阿密的人说，古巴很少面对如此严峻的经济危机"
+    },
+    {
+      "id": 215,
+      "startMs": 1155380,
+      "endMs": 1161460,
+      "en": "but again, this is a government that has gone through a lot, that has withstood a lot of pressure, and it is very hard to discount.",
+      "zh": "但再次强调，这是一个历经磨难、承受过巨大压力的政府，很难低估它。"
+    },
+    {
+      "id": 216,
+      "startMs": 1162100,
+      "endMs": 1164420,
+      "en": "Luis Fajardo from BBC Monitoring.",
+      "zh": "BBC 监测部的路易斯·法哈尔多。"
+    },
+    {
+      "id": 217,
+      "startMs": 1165140,
+      "endMs": 1171540,
+      "en": "There's yet more drama in the legal wrangling over the death of Diego Maradona, and it's all down to kidneys.",
+      "zh": "围绕迭戈·马拉多纳死因的法律纠纷又有了新戏剧，而这一切都与肾脏有关。"
+    },
+    {
+      "id": 218,
+      "startMs": 1171940,
+      "endMs": 1179220,
+      "en": "The Argentine football legend died in 2020, but since then a case to determine if anyone's responsible has collapsed.",
+      "zh": "这位阿根廷足球传奇于2020年去世，此后确认是否有人应负责任的案件已经流产。"
+    },
+    {
+      "id": 219,
+      "startMs": 1179460,
+      "endMs": 1189460,
+      "en": "Now another trial has been put on hold after medical experts admitted the information they analysed about his kidneys was actually about his father.",
+      "zh": "医疗专家承认，他们分析的有关马拉多纳肾脏的信息其实涉及他的父亲，另一场审判因此暂停。"
+    },
+    {
+      "id": 220,
+      "startMs": 1189460,
+      "endMs": 1193700,
+      "en": "Who died in 2015 and was also called Diego Maradona.",
+      "zh": "他的父亲于2015年去世，也叫迭戈·马拉多纳。"
+    },
+    {
+      "id": 221,
+      "startMs": 1194180,
+      "endMs": 1199060,
+      "en": "The South American football expert Tim Vickery told us more about this mix-up.",
+      "zh": "南美足球专家蒂姆·维克里为我们进一步讲述了这起混淆。"
+    },
+    {
+      "id": 222,
+      "startMs": 1199620,
+      "endMs": 1204680,
+      "en": "Oh, it's an extraordinary story. It's every bit as meandering as the life of Maradona himself.",
+      "zh": "这真是个非同寻常的故事，和马拉多纳本人的一生一样曲折。"
+    },
+    {
+      "id": 223,
+      "startMs": 1205560,
+      "endMs": 1211000,
+      "en": "The first trial collapsed because one of the judges was collaborating with a documentary television programme.",
+      "zh": "第一次审判流产了，因为其中一名法官在与一档电视纪录片合作。"
+    },
+    {
+      "id": 224,
+      "startMs": 1211400,
+      "endMs": 1214280,
+      "en": "It clearly had an editorial line that the defendants were guilty.",
+      "zh": "那档节目显然预设了被告有罪的编辑立场。"
+    },
+    {
+      "id": 225,
+      "startMs": 1214680,
+      "endMs": 1217800,
+      "en": "So we had to dust ourselves down and do the whole thing over again.",
+      "zh": "所以他们只好重整旗鼓，把整个过程再来一遍。"
+    },
+    {
+      "id": 226,
+      "startMs": 1218360,
+      "endMs": 1220680,
+      "en": "The death of Maradona in 2020.",
+      "zh": "马拉多纳于2020年去世。"
+    },
+    {
+      "id": 227,
+      "startMs": 1221560,
+      "endMs": 1230680,
+      "en": "The accusation from a medical board in Argentina is that his treatment was inadequate, deficient and reckless.",
+      "zh": "阿根廷一个医疗委员会指控，他接受的治疗不充分、有缺陷且鲁莽。"
+    },
+    {
+      "id": 228,
+      "startMs": 1231320,
+      "endMs": 1240440,
+      "en": "What they're saying is that the medical professionals were treating Maradona as if he had a mental problem with addiction,",
+      "zh": "他们的说法是，医护人员把马拉多纳当作有成瘾心理问题的人来治疗，"
+    },
+    {
+      "id": 229,
+      "startMs": 1240840,
+      "endMs": 1247480,
+      "en": "when there were far more pressing physical elements to be looked at that weren't examined sufficiently.",
+      "zh": "而当时还有更紧迫的身体问题需要检查，却没有得到充分检查。"
+    },
+    {
+      "id": 230,
+      "startMs": 1247720,
+      "endMs": 1251640,
+      "en": "And part of this was Diego Maradona's kidneys.",
+      "zh": "马拉多纳的肾脏就是其中一部分。"
+    },
+    {
+      "id": 231,
+      "startMs": 1252200,
+      "endMs": 1258280,
+      "en": "The liver specialist was giving testimony earlier this week when he said, \"Look at the kidney. Look at it.\"",
+      "zh": "本周早些时候，一名肝脏专家作证时说：“看看这个肾脏，看看它。”"
+    },
+    {
+      "id": 232,
+      "startMs": 1258360,
+      "endMs": 1267240,
+      "en": "This is the kidney of someone who has suffered the ravages of obesity, hypertension and cocaine use,",
+      "zh": "这是一个饱受肥胖、高血压和吸食可卡因摧残的人的肾脏，"
+    },
+    {
+      "id": 233,
+      "startMs": 1267560,
+      "endMs": 1271960,
+      "en": "and no blood tests were being carried out. This is clear negligence.",
+      "zh": "而且当时没有进行血液检查。这显然是疏忽。"
+    },
+    {
+      "id": 234,
+      "startMs": 1272200,
+      "endMs": 1281400,
+      "en": "Now this whole line of inquiry has been undermined by the news that the kidney being studied was not that of Diego Armando Maradona.",
+      "zh": "如今，所研究的肾脏并非迭戈·阿曼多·马拉多纳的，这一消息动摇了整条调查思路。"
+    },
+    {
+      "id": 235,
+      "startMs": 1281820,
+      "endMs": 1286540,
+      "en": "It was that of his father, and it's no wonder that the kidney was in an advanced state,",
+      "zh": "那是他父亲的肾脏，难怪它已经处于严重病变状态，"
+    },
+    {
+      "id": 236,
+      "startMs": 1286860,
+      "endMs": 1292220,
+      "en": "because Diego Maradona's father was 33 years older than Diego Maradona.",
+      "zh": "因为马拉多纳的父亲比马拉多纳年长33岁。"
+    },
+    {
+      "id": 237,
+      "startMs": 1292460,
+      "endMs": 1296460,
+      "en": "So they've been looking at the wrong kidney. How on earth has this happened?",
+      "zh": "所以他们一直研究的是错误的肾脏。这到底是怎么发生的？"
+    },
+    {
+      "id": 238,
+      "startMs": 1296940,
+      "endMs": 1301900,
+      "en": "There will be a full investigation of the medical facility concerned.",
+      "zh": "有关方面将对涉事医疗机构展开全面调查。"
+    },
+    {
+      "id": 239,
+      "startMs": 1302220,
+      "endMs": 1305180,
+      "en": "The other question is, where on earth does this leave the trial?",
+      "zh": "另一个问题是，这到底会让审判走向何方？"
+    },
+    {
+      "id": 240,
+      "startMs": 1305420,
+      "endMs": 1314300,
+      "en": "This would seem to greatly undermine the evidence given by this medical board, and so at the moment we really don't know where the whole thing stands.",
+      "zh": "这似乎会极大削弱该医疗委员会提供的证据，所以目前我们确实不知道整件事进展如何。"
+    },
+    {
+      "id": 241,
+      "startMs": 1314780,
+      "endMs": 1315900,
+      "en": "Tim Vickery.",
+      "zh": "蒂姆·维克里报道。"
+    },
+    {
+      "id": 242,
+      "startMs": 1316880,
+      "endMs": 1325280,
+      "en": "Bangladesh, Uganda, Saudi Arabia and the Bahamas are just some of the countries where attempting suicide is against the law.",
+      "zh": "孟加拉国、乌干达、沙特阿拉伯和巴哈马，只是一些将自杀未遂定为违法的国家。"
+    },
+    {
+      "id": 243,
+      "startMs": 1325520,
+      "endMs": 1333440,
+      "en": "In Nigeria, trying to take your own life is punishable by up to a year in prison, a fine or both. But that will soon change.",
+      "zh": "在尼日利亚，试图结束自己的生命可处一年以下监禁、罚款，或两者并罚。但这种情况很快会改变。"
+    },
+    {
+      "id": 244,
+      "startMs": 1333520,
+      "endMs": 1343520,
+      "en": "The Nigerian government approved plans to decriminalize it, a significant policy shift in a country where mental illness remains heavily stigmatized.",
+      "zh": "尼日利亚政府刚刚批准将其去罪化的计划；在一个精神疾病仍受严重污名化的国家，这是一项重大的政策转变。"
+    },
+    {
+      "id": 245,
+      "startMs": 1343840,
+      "endMs": 1350640,
+      "en": "Ankur Desai asked our Africa correspondent Simi Jolaoso in Lagos why this decision had been taken.",
+      "zh": "安库尔·德赛在拉各斯询问了我们的非洲记者西米·乔拉奥索，为何作出这一决定。"
+    },
+    {
+      "id": 246,
+      "startMs": 1351120,
+      "endMs": 1357200,
+      "en": "The Nigerian government's decision is essentially based on the argument that attempted suicide should be treated",
+      "zh": "尼日利亚政府的决定，本质上基于这样的观点：自杀未遂应被视为"
+    },
+    {
+      "id": 247,
+      "startMs": 1357200,
+      "endMs": 1362320,
+      "en": "as a mental health and public health emergency rather than as a criminal act.",
+      "zh": "一种心理健康和公共卫生紧急事件，而不是刑事行为。"
+    },
+    {
+      "id": 248,
+      "startMs": 1362640,
+      "endMs": 1369360,
+      "en": "So the country's health minister, Professor Muhammad Ali Pate, called suicide a major public health concern",
+      "zh": "该国卫生部长穆罕默德·阿里·帕特教授称，自杀是一个重大的公共卫生问题，"
+    },
+    {
+      "id": 249,
+      "startMs": 1369360,
+      "endMs": 1376400,
+      "en": "and said that there are around 300,000 suicide attempts every year and at least 7,000 deaths.",
+      "zh": "并说每年约有30万起自杀未遂，至少有7,000人死亡。"
+    },
+    {
+      "id": 250,
+      "startMs": 1376740,
+      "endMs": 1382900,
+      "en": "He said people who attempt suicide should be regarded as people who need care and support rather than prosecution.",
+      "zh": "他说，应将自杀未遂者视为需要照护和支持的人，而不是起诉对象。"
+    },
+    {
+      "id": 251,
+      "startMs": 1382900,
+      "endMs": 1389700,
+      "en": "So his argument is that removing that threat of arrest could make it easier for people in crisis and their families",
+      "zh": "所以他的论点是，消除被逮捕的威胁，能让处于危机中的人及其家人更容易"
+    },
+    {
+      "id": 252,
+      "startMs": 1389780,
+      "endMs": 1392820,
+      "en": "to seek help and then for health professionals to intervene.",
+      "zh": "寻求帮助，也让卫生专业人员介入。"
+    },
+    {
+      "id": 253,
+      "startMs": 1393220,
+      "endMs": 1398740,
+      "en": "And if we talk about Nigeria itself, mental illness is stigmatized in the country. Why is that?",
+      "zh": "说到尼日利亚本身，精神疾病在这个国家受到污名化。为什么会这样？"
+    },
+    {
+      "id": 254,
+      "startMs": 1399060,
+      "endMs": 1408420,
+      "en": "The stigma around mental illnesses in Nigeria is deeply rooted in a combination of cultural beliefs and religion,",
+      "zh": "尼日利亚对精神疾病的污名，深深植根于文化信仰和宗教，"
+    },
+    {
+      "id": 255,
+      "startMs": 1408580,
+      "endMs": 1416100,
+      "en": "a lack of mental health literacy and the historical lack of accessible psychiatric care.",
+      "zh": "以及心理健康知识匮乏和长期缺少可获得的精神科医疗服务。"
+    },
+    {
+      "id": 256,
+      "startMs": 1416500,
+      "endMs": 1424980,
+      "en": "In many Nigerian communities, mental illness can be interpreted as witchcraft or a spiritual attack rather than as a medical condition.",
+      "zh": "在许多尼日利亚社区，精神疾病可能被解释为巫术或灵魂攻击，而非一种医学疾病。"
+    },
+    {
+      "id": 257,
+      "startMs": 1425380,
+      "endMs": 1431380,
+      "en": "So there's essentially a lack of understanding about what mental illness actually looks like and that it's not always physical.",
+      "zh": "因此，人们基本不了解精神疾病究竟是什么样，也不了解它并不总是表现为身体症状。"
+    },
+    {
+      "id": 258,
+      "startMs": 1431780,
+      "endMs": 1438200,
+      "en": "And coupled with the shortage of mental health services, that reinforces the problem.",
+      "zh": "再加上心理健康服务短缺，这进一步强化了问题。"
+    },
+    {
+      "id": 259,
+      "startMs": 1438520,
+      "endMs": 1445080,
+      "en": "According to the Association of Psychiatrists in Nigeria, there are fewer than 1,000 psychiatrists",
+      "zh": "据尼日利亚精神科医生协会称，该国精神科医生不足1,000名，"
+    },
+    {
+      "id": 260,
+      "startMs": 1445080,
+      "endMs": 1449800,
+      "en": "for a country with a population of more than 200 million people.",
+      "zh": "而这个国家的人口超过2亿。"
+    },
+    {
+      "id": 261,
+      "startMs": 1450280,
+      "endMs": 1457880,
+      "en": "The strongest research available does not show that countries with criminal penalties have consistently lower suicide rates.",
+      "zh": "现有最有力的研究并未显示，将自杀未遂入罪的国家自杀率一贯更低。"
+    },
+    {
+      "id": 262,
+      "startMs": 1458200,
+      "endMs": 1465880,
+      "en": "Many health organisations also argue that criminalisation can actually increase stigma and discourage people from seeking help",
+      "zh": "许多卫生组织还认为，将其入罪实际上会加重污名，并阻碍人们寻求帮助，"
+    },
+    {
+      "id": 263,
+      "startMs": 1465880,
+      "endMs": 1468680,
+      "en": "which is what the Nigerian government is trying to work at here.",
+      "zh": "这正是尼日利亚政府试图在此解决的问题。"
+    },
+    {
+      "id": 264,
+      "startMs": 1468840,
+      "endMs": 1477960,
+      "en": "The International Association for Suicide Prevention says it's an important stepping stone in suicide prevention,",
+      "zh": "国际自杀预防协会称，这是自杀预防的重要一步，"
+    },
+    {
+      "id": 265,
+      "startMs": 1478200,
+      "endMs": 1486040,
+      "en": "but stresses that it must be accompanied by wider measures, such as accessible mental health services and national suicide prevention strategies.",
+      "zh": "但强调必须辅以更广泛的措施，例如人人可及的心理健康服务和国家自杀预防战略。"
+    },
+    {
+      "id": 266,
+      "startMs": 1486120,
+      "endMs": 1494760,
+      "en": "The organisation also says that at least 23 countries still criminalise suicide, but it seems that soon Nigeria won't be one of them.",
+      "zh": "该组织还说，至少仍有23个国家将自杀未遂入罪，但尼日利亚似乎很快就不会是其中之一。"
+    },
+    {
+      "id": 267,
+      "startMs": 1495160,
+      "endMs": 1496360,
+      "en": "Simi Jolaoso.",
+      "zh": "西米·乔拉奥索报道。"
+    },
+    {
+      "id": 268,
+      "startMs": 1497440,
+      "endMs": 1501600,
+      "en": "And finally, when you start a book, do you always finish reading it?",
+      "zh": "最后，开始读一本书后，你总会读完吗？"
+    },
+    {
+      "id": 269,
+      "startMs": 1501760,
+      "endMs": 1505680,
+      "en": "Or if it doesn't immediately transport you, do you toss it aside?",
+      "zh": "还是说，如果它没能立刻带你进入书中，你就会把它搁置一旁？"
+    },
+    {
+      "id": 270,
+      "startMs": 1505840,
+      "endMs": 1509760,
+      "en": "And crucially, if you do the latter, will you keep it a secret?",
+      "zh": "更重要的是，如果你选择后者，会把这件事藏起来吗？"
+    },
+    {
+      "id": 271,
+      "startMs": 1509760,
+      "endMs": 1514400,
+      "en": "Fearing not finishing is a sign of intellectual failure on your part.",
+      "zh": "因为你担心读不完会被视为智力上的失败？"
+    },
+    {
+      "id": 272,
+      "startMs": 1514560,
+      "endMs": 1520560,
+      "en": "Well, now DNF, which stands for \"Did Not Finish\", is being used almost as a badge of honour.",
+      "zh": "如今，DNF是“未读完”的缩写，几乎成了一种荣誉徽章。"
+    },
+    {
+      "id": 273,
+      "startMs": 1520800,
+      "endMs": 1527760,
+      "en": "Earlier this year, the world's biggest website for readers, Goodreads, introduced a DNF feature",
+      "zh": "今年早些时候，全球最大的读者网站 Goodreads 推出了 DNF 功能，"
+    },
+    {
+      "id": 274,
+      "startMs": 1527840,
+      "endMs": 1533760,
+      "en": "to sit alongside other categories relating to featured books, including \"Want to Read\" and \"Read\".",
+      "zh": "与“想读”和“已读”等其他图书分类并列。"
+    },
+    {
+      "id": 275,
+      "startMs": 1534240,
+      "endMs": 1540480,
+      "en": "Kathy Rentzenbrink is a memoirist and author of \"Dear Reader: The Comfort and Joy of Books\".",
+      "zh": "凯茜·伦岑布林克是回忆录作家，也是《亲爱的读者：书籍带来的慰藉与喜悦》的作者。"
+    },
+    {
+      "id": 276,
+      "startMs": 1540960,
+      "endMs": 1543760,
+      "en": "Alex Clark is a writer and literary critic.",
+      "zh": "亚历克斯·克拉克是作家和文学评论家。"
+    },
+    {
+      "id": 277,
+      "startMs": 1543840,
+      "endMs": 1549920,
+      "en": "First, Katie Razzall asked Kathy if she always feels like she has to finish a book.",
+      "zh": "凯蒂·拉扎尔先问凯茜，她是否总觉得自己必须读完一本书。"
+    },
+    {
+      "id": 278,
+      "startMs": 1550480,
+      "endMs": 1555200,
+      "en": "No, I don't. And I actually think in general people don't have to finish books.",
+      "zh": "不必。我其实认为，一般来说，人们不必读完每一本书。"
+    },
+    {
+      "id": 279,
+      "startMs": 1555200,
+      "endMs": 1557780,
+      "en": "I think the right book is out there for everyone.",
+      "zh": "我认为，每个人都能找到适合自己的书。"
+    },
+    {
+      "id": 280,
+      "startMs": 1557780,
+      "endMs": 1562500,
+      "en": "So even if somebody thinks they don't like reading, they just haven't met the right book yet. They're probably put off by school.",
+      "zh": "所以，即使有人觉得自己不喜欢阅读，也只是还没遇到合适的书。他们可能是因为上学时的经历而对阅读望而却步。"
+    },
+    {
+      "id": 281,
+      "startMs": 1562980,
+      "endMs": 1568420,
+      "en": "So I don't think it's helpful for people to think that they have to slog on with something they're not enjoying.",
+      "zh": "所以，我不认为让人们觉得必须苦撑着读完不喜欢的东西会有帮助。"
+    },
+    {
+      "id": 282,
+      "startMs": 1568420,
+      "endMs": 1576500,
+      "en": "I think it'd be better to move on to something else and think that reading should just be a beautiful, sumptuous, fantastic pleasure.",
+      "zh": "我认为，最好换读别的东西，并相信阅读就该是一种美好、丰盛而奇妙的享受。"
+    },
+    {
+      "id": 283,
+      "startMs": 1576660,
+      "endMs": 1580420,
+      "en": "Presumably you hope your books will be a sumptuous pleasure for people.",
+      "zh": "想必你也希望自己的书能给读者带来丰盛的乐趣。"
+    },
+    {
+      "id": 284,
+      "startMs": 1580420,
+      "endMs": 1583860,
+      "en": "You don't want them tossing them aside, or are you relaxed about that too?",
+      "zh": "你当然不希望他们把书搁在一旁；还是说，对此你也很看得开？"
+    },
+    {
+      "id": 285,
+      "startMs": 1584180,
+      "endMs": 1588420,
+      "en": "Well, no, I do want them to be! I do want them to be pleasurable, and I think about the reader a lot.",
+      "zh": "不，我当然希望它们能带来乐趣！我确实希望它们令人愉悦，也经常考虑读者。"
+    },
+    {
+      "id": 286,
+      "startMs": 1588420,
+      "endMs": 1590900,
+      "en": "But near the beginning of my book about writing, I said,",
+      "zh": "不过，我写的那本关于写作的书开头不久，我就说："
+    },
+    {
+      "id": 287,
+      "startMs": 1590900,
+      "endMs": 1594500,
+      "en": "\"Look, if this book isn't for you, just put it down and find something else.\"",
+      "zh": "“听着，如果这本书不适合你，就放下它，去找别的书吧。”"
+    },
+    {
+      "id": 288,
+      "startMs": 1594740,
+      "endMs": 1596420,
+      "en": "But my editor wanted me to take that out!",
+      "zh": "但我的编辑想让我删掉这句话！"
+    },
+    {
+      "id": 289,
+      "startMs": 1597600,
+      "endMs": 1600800,
+      "en": "Again, I think that not everyone will be for everyone.",
+      "zh": "不过，我还是认为，不会有一本书适合所有人。"
+    },
+    {
+      "id": 290,
+      "startMs": 1600800,
+      "endMs": 1603520,
+      "en": "I probably wouldn't use \"Did Not Finish\"; it sounds a bit cruel.",
+      "zh": "我大概不会用“未读完”，因为听起来有点刻薄。"
+    },
+    {
+      "id": 291,
+      "startMs": 1603600,
+      "endMs": 1609600,
+      "en": "I'd just go for \"Not my bag\". That's what I say when I don't like something. It's someone else's bag, but it's just not my bag.",
+      "zh": "我会说“不合我的口味”。我不喜欢某样东西时就这么说。它可能合别人的口味，只是不合我的口味。"
+    },
+    {
+      "id": 292,
+      "startMs": 1609760,
+      "endMs": 1614000,
+      "en": "And Alex Clark, \"not my bag\" and toss it aside, or what do you think?",
+      "zh": "亚历克斯·克拉克，你会说“不合我的口味”然后把书搁下吗？你怎么看？"
+    },
+    {
+      "id": 293,
+      "startMs": 1614240,
+      "endMs": 1619520,
+      "en": "I think it is perfectly fine to read or not read a book, put it aside, come back to it later,",
+      "zh": "我认为，读不读一本书都完全没问题；可以把它放下，之后再回来读，"
+    },
+    {
+      "id": 294,
+      "startMs": 1619520,
+      "endMs": 1623040,
+      "en": "decide it's the worst thing that you've ever read, or throw it away.",
+      "zh": "也可以认定它是你读过最糟的东西，或者把它扔掉。"
+    },
+    {
+      "id": 295,
+      "startMs": 1623360,
+      "endMs": 1628800,
+      "en": "What I am bemused by is this idea that you would need to publicly catalogue that.",
+      "zh": "让我困惑的是，为什么你需要把这件事公开记录下来。"
+    },
+    {
+      "id": 296,
+      "startMs": 1629040,
+      "endMs": 1631120,
+      "en": "This is the DNF phenomenon. Exactly.",
+      "zh": "这就是 DNF 现象。没错。"
+    },
+    {
+      "id": 297,
+      "startMs": 1631600,
+      "endMs": 1633760,
+      "en": "It's sort of slightly bewilders me.",
+      "zh": "这多少让我有些不解。"
+    },
+    {
+      "id": 298,
+      "startMs": 1633760,
+      "endMs": 1636080,
+      "en": "It's almost like kind of anti-gatekeeping.",
+      "zh": "它几乎有点像反门槛文化。"
+    },
+    {
+      "id": 299,
+      "startMs": 1636320,
+      "endMs": 1639600,
+      "en": "It's people saying, \"Don't worry, you don't have to read this. It's fine.\"",
+      "zh": "就像人们在说：“别担心，你不必读这本书，没关系。”"
+    },
+    {
+      "id": 300,
+      "startMs": 1640000,
+      "endMs": 1646000,
+      "en": "It's the idea that you hang this albatross around the neck of a book that might be absolutely somebody else's bag.",
+      "zh": "这就像把一块沉重的负担挂在一本书的脖子上，而它可能完全合另一个人的口味。"
+    },
+    {
+      "id": 301,
+      "startMs": 1646400,
+      "endMs": 1652640,
+      "en": "It seems less about reading and more about the psychology of display and private life to me.",
+      "zh": "在我看来，这似乎与阅读关系不大，更多关乎展示心理和私人生活。"
+    },
+    {
+      "id": 302,
+      "startMs": 1653280,
+      "endMs": 1656720,
+      "en": "And so you would never put DNF on any online site?",
+      "zh": "所以，你绝不会在任何网站上标记 DNF？"
+    },
+    {
+      "id": 303,
+      "startMs": 1656960,
+      "endMs": 1662740,
+      "en": "I don't think I would want to tell anyone because I'd have that sort of fear that you were labeling something.",
+      "zh": "我想我不会告诉任何人，因为我会担心自己给某样东西贴上了标签。"
+    },
+    {
+      "id": 304,
+      "startMs": 1662740,
+      "endMs": 1668420,
+      "en": "It carries a negative connotation even if you are firmly saying, \"This isn't for me.\"",
+      "zh": "即使你明确是在说“这不适合我”，它仍带有负面意味。"
+    },
+    {
+      "id": 305,
+      "startMs": 1668660,
+      "endMs": 1675380,
+      "en": "And I think that is absolutely fine, but I think it's also important to say that things are for people at different times.",
+      "zh": "我认为这完全没问题，但也要说清楚：不同的事物适合人们的不同阶段。"
+    },
+    {
+      "id": 306,
+      "startMs": 1675380,
+      "endMs": 1677700,
+      "en": "You vibe with books, don't vibe with them.",
+      "zh": "你可能与某些书合拍，也可能合不来。"
+    },
+    {
+      "id": 307,
+      "startMs": 1678180,
+      "endMs": 1681860,
+      "en": "Find they've got something to say to you, feel very irritated by them.",
+      "zh": "你可能觉得它们有话想对你说，也可能被它们弄得非常恼火。"
+    },
+    {
+      "id": 308,
+      "startMs": 1682580,
+      "endMs": 1689620,
+      "en": "Depending on what's happening in your life at the time, where your emotions are, and that's absolutely fine.",
+      "zh": "这取决于当时你的生活状况和情绪，而这完全没问题。"
+    },
+    {
+      "id": 309,
+      "startMs": 1689700,
+      "endMs": 1695220,
+      "en": "Why you would need to tell anybody else about it is slightly beyond me, but perhaps I'm just old.",
+      "zh": "为什么要把这些告诉别人，我有点无法理解；不过，也许只是我老了。"
+    },
+    {
+      "id": 310,
+      "startMs": 1695700,
+      "endMs": 1699700,
+      "en": "Kathy, what do you think about the DNF phenomenon? Would you ever put it up beside a book?",
+      "zh": "凯茜，你怎么看 DNF 现象？你会把它标在一本书旁边吗？"
+    },
+    {
+      "id": 311,
+      "startMs": 1699780,
+      "endMs": 1704260,
+      "en": "I might say that privately to a friend, but I'd never put that online because I am a writer.",
+      "zh": "我可能会私下对朋友这么说，但绝不会放到网上，因为我是作家。"
+    },
+    {
+      "id": 312,
+      "startMs": 1704260,
+      "endMs": 1706980,
+      "en": "So I know how horrible it is. I'm thinking right now,",
+      "zh": "所以我知道那有多糟。我现在就在想，"
+    },
+    {
+      "id": 313,
+      "startMs": 1706980,
+      "endMs": 1712340,
+      "en": "Maybe someone's listening and thinking, \"Let's Google how often people have said DNF about her rubbish books,\"",
+      "zh": "也许有人正在收听，心想：“搜搜看，人们有多少次说她的书糟糕到 DNF，”"
+    },
+    {
+      "id": 314,
+      "startMs": 1712340,
+      "endMs": 1713300,
+      "en": "and then they'll tell me about it!",
+      "zh": "然后再把结果告诉我！"
+    },
+    {
+      "id": 315,
+      "startMs": 1715040,
+      "endMs": 1717760,
+      "en": "Well, everyone's wishing you well. They're going to buy your book now.",
+      "zh": "大家都在祝你一切顺利。他们现在要去买你的书了。"
+    },
+    {
+      "id": 316,
+      "startMs": 1718080,
+      "endMs": 1724640,
+      "en": "Kathy Rentzenbrink and Alex Clark speaking to Katie Razzall.",
+      "zh": "凯茜·伦岑布林克和亚历克斯·克拉克接受了凯蒂·拉扎尔的采访。"
+    },
+    {
+      "id": 317,
+      "startMs": 1727660,
+      "endMs": 1729900,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是目前的全部内容。"
+    },
+    {
+      "id": 318,
+      "startMs": 1730060,
+      "endMs": 1735580,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 319,
+      "startMs": 1735580,
+      "endMs": 1741980,
+      "en": "You can also find us on X at BBC World Service. Use the hashtag #GlobalNewsPod.",
+      "zh": "你也可以在 X 上通过 BBC World Service 找到我们，使用话题标签 #GlobalNewsPod。"
+    },
+    {
+      "id": 320,
+      "startMs": 1741980,
+      "endMs": 1750380,
+      "en": "And don't forget our sister podcast, The Global Story, which goes in depth and beyond the headlines on one big story.",
+      "zh": "别忘了我们的姊妹播客《全球故事》，它会围绕一个重大故事深入探究，超越新闻标题。"
+    },
+    {
+      "id": 321,
+      "startMs": 1750860,
+      "endMs": 1758220,
+      "en": "This edition of the Global News Podcast was mixed by Rosewyn Dorrell, and the producer was Emma Joseph.",
+      "zh": "本期《全球新闻播客》由罗斯温·多雷尔混音，制片人是艾玛·约瑟夫。"
+    },
+    {
+      "id": 322,
+      "startMs": 1758620,
+      "endMs": 1763180,
+      "en": "The editor is Karen Martin. I'm Alex Ritson. Until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁。我是亚历克斯·里特森。下次再见。"
+    }
+  ]
+}
