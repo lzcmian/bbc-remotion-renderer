@@ -1,0 +1,2027 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "The Happy Pod",
+    "episode": "22 August 2026"
+  },
+  "durationMs": 1576060,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3840,
+      "en": "This is The Happy Pod from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《The Happy Pod》。"
+    },
+    {
+      "id": 2,
+      "startMs": 8640,
+      "endMs": 11360,
+      "en": "I'm Holly Gibbs, and in this edition...",
+      "zh": "我是 Holly Gibbs，本期节目将带来……"
+    },
+    {
+      "id": 3,
+      "startMs": 11520,
+      "endMs": 15040,
+      "en": "Nicci said, yeah, are you, you know, my mom's son?",
+      "zh": "Nicci 说：“你是我妈妈的儿子吗？”"
+    },
+    {
+      "id": 4,
+      "startMs": 15600,
+      "endMs": 19280,
+      "en": "Then my mind switched and said, oh my God, I'm actually talking to my sister.",
+      "zh": "那一刻我突然意识到：天哪，我竟然是在和我的姐姐说话。"
+    },
+    {
+      "id": 5,
+      "startMs": 19520,
+      "endMs": 25760,
+      "en": "The man who used AI to try and track down his mother, only to discover he had three siblings.",
+      "zh": "一名男子借助人工智能寻找母亲，却发现自己还有三个兄弟姐妹。"
+    },
+    {
+      "id": 6,
+      "startMs": 26160,
+      "endMs": 34240,
+      "en": "Also on this podcast, it's incredible. The care and the passion of our team here at Tanganyika is second to none.",
+      "zh": "本期节目还将讲述：这简直不可思议。我们 Tanganyika 团队的照料和热忱无与伦比。"
+    },
+    {
+      "id": 7,
+      "startMs": 34400,
+      "endMs": 38880,
+      "en": "We have so many people working around the clock to make sure that she had the care that she needed.",
+      "zh": "许多人夜以继日地工作，只为确保她得到所需的照料。"
+    },
+    {
+      "id": 8,
+      "startMs": 39120,
+      "endMs": 44480,
+      "en": "She is Milani the giraffe. We meet her and find out how her birth made history.",
+      "zh": "她就是长颈鹿 Milani。我们将见到她，了解她如何因出生创造历史。"
+    },
+    {
+      "id": 9,
+      "startMs": 44800,
+      "endMs": 51920,
+      "en": "Plus, it's a full workout. When we've finished, they carry me out and put me in my car.",
+      "zh": "此外，还有一次完整的锻炼。结束后，他们把我抬出去，放进我的车里。"
+    },
+    {
+      "id": 10,
+      "startMs": 52400,
+      "endMs": 57360,
+      "en": "The 88-year-old who is channelling his grief into weightlifting.",
+      "zh": "一位 88 岁老人把悲痛转化为举重的力量。"
+    },
+    {
+      "id": 11,
+      "startMs": 57360,
+      "endMs": 64080,
+      "en": "One of the kids that visited increased his reading levels by two grade levels.",
+      "zh": "一名来访的孩子阅读水平提高了两个年级。"
+    },
+    {
+      "id": 12,
+      "startMs": 64240,
+      "endMs": 68000,
+      "en": "It made us feel good, like we're actually making a difference in these children's lives.",
+      "zh": "这让我们感到欣慰，因为我们确实正在改变这些孩子的生活。"
+    },
+    {
+      "id": 13,
+      "startMs": 68080,
+      "endMs": 72020,
+      "en": "The library on wheels getting children excited about reading.",
+      "zh": "这座流动图书馆让孩子们爱上阅读。"
+    },
+    {
+      "id": 14,
+      "startMs": 77940,
+      "endMs": 83540,
+      "en": "A man in Canada has used AI to find three siblings who he never knew existed.",
+      "zh": "加拿大一名男子借助人工智能找到了三个从不知道存在的兄弟姐妹。"
+    },
+    {
+      "id": 15,
+      "startMs": 83940,
+      "endMs": 90260,
+      "en": "Avtar Singh, who was born in India and is now 66 years old, grew up not knowing his Kenyan-born mother.",
+      "zh": "Avtar Singh 出生于印度，如今 66 岁；他从小不知道自己的母亲出生于肯尼亚。"
+    },
+    {
+      "id": 16,
+      "startMs": 90660,
+      "endMs": 97140,
+      "en": "His father had separated from her and not told him anything about her, apart from her first name, which was Savinder.",
+      "zh": "他的父亲与母亲分开后，对她只字未提，只告诉了他母亲的名字 Savinder。"
+    },
+    {
+      "id": 17,
+      "startMs": 97620,
+      "endMs": 102100,
+      "en": "One day, Avtar typed her name, approximate age, and links to Africa and India into AI.",
+      "zh": "一天，Avtar 把她的名字、大致年龄以及与非洲和印度的关联输入人工智能。"
+    },
+    {
+      "id": 18,
+      "startMs": 102100,
+      "endMs": 107860,
+      "en": "It found a blog post by someone called Nicci Dhamu, a jewellery designer in London.",
+      "zh": "人工智能找到一篇博客文章，作者是伦敦珠宝设计师 Nicci Dhamu。"
+    },
+    {
+      "id": 19,
+      "startMs": 108580,
+      "endMs": 115300,
+      "en": "Avtar reached out to Nicci, and after talking about their past, the pair realised they were actually half-siblings.",
+      "zh": "Avtar 联系了 Nicci；两人谈起各自的过去后，意识到原来是同母异父的兄弟姐妹。"
+    },
+    {
+      "id": 20,
+      "startMs": 115700,
+      "endMs": 119700,
+      "en": "My colleague Julian Worricker has been speaking to both Avtar and Nicci.",
+      "zh": "我的同事 Julian Worricker 采访了 Avtar 和 Nicci。"
+    },
+    {
+      "id": 21,
+      "startMs": 119780,
+      "endMs": 124100,
+      "en": "I grew up with so much influence, creative influence, from my mum.",
+      "zh": "我在母亲给予的巨大创作影响下长大。"
+    },
+    {
+      "id": 22,
+      "startMs": 124420,
+      "endMs": 127460,
+      "en": "About a year and a half or a year after she died, I think...",
+      "zh": "我想，在她去世大约一年半或一年后……"
+    },
+    {
+      "id": 23,
+      "startMs": 127460,
+      "endMs": 137460,
+      "en": "I wanted to honour her creativity and honour the creative legacy that she's left me, which is what I express through my own work.",
+      "zh": "我想致敬她的创造力，以及她留给我的创作遗产；我也通过自己的作品表达这些。"
+    },
+    {
+      "id": 24,
+      "startMs": 137480,
+      "endMs": 144360,
+      "en": "And obviously, her past, which included Avtar, wasn't something that had been discussed at all.",
+      "zh": "显然，她那段包括 Avtar 在内的过去，从未被讨论过。"
+    },
+    {
+      "id": 25,
+      "startMs": 144520,
+      "endMs": 154120,
+      "en": "Never spoken. She never, never once said anything in a direct sentence that I have been married before.",
+      "zh": "从来没人提过。她从未、一次也没有直接说过自己以前结过婚。"
+    },
+    {
+      "id": 26,
+      "startMs": 154200,
+      "endMs": 163880,
+      "en": "And, you know, I became the detective when I needed to find Avtar for my mum because in her later years she was crying.",
+      "zh": "后来我需要替母亲寻找 Avtar，于是成了侦探；她晚年常常哭泣。"
+    },
+    {
+      "id": 27,
+      "startMs": 164360,
+      "endMs": 170280,
+      "en": "She had dementia. She would say, “mera baccha,” and cry. “Mera baccha” in Punjabi means “my child.”",
+      "zh": "她患有痴呆。她会说“mera baccha”然后哭泣。“Mera baccha”在旁遮普语中意为“我的孩子”。"
+    },
+    {
+      "id": 28,
+      "startMs": 170600,
+      "endMs": 174680,
+      "en": "After having read that article, what was the next step?",
+      "zh": "读完那篇文章后，下一步是什么？"
+    },
+    {
+      "id": 29,
+      "startMs": 175000,
+      "endMs": 180120,
+      "en": "I crafted an email saying I would like to learn more about your mother's life in India.",
+      "zh": "我写了一封邮件，说我想进一步了解你母亲在印度的生活。"
+    },
+    {
+      "id": 30,
+      "startMs": 180280,
+      "endMs": 186920,
+      "en": "I felt, just from reading the article, that it touched me and we might have some family connection, so I sent that.",
+      "zh": "我只是读了那篇文章，就觉得深受触动，也许我们有某种亲缘关系，于是发出了邮件。"
+    },
+    {
+      "id": 31,
+      "startMs": 186920,
+      "endMs": 192680,
+      "en": "I read this email and I was just like, whoa.",
+      "zh": "我读到这封邮件时，简直惊呼：“哇。”"
+    },
+    {
+      "id": 32,
+      "startMs": 192760,
+      "endMs": 196520,
+      "en": "My mind started thinking, is this Titu?",
+      "zh": "我开始想：这会是 Titu 吗？"
+    },
+    {
+      "id": 33,
+      "startMs": 197500,
+      "endMs": 202300,
+      "en": "Is this my mum's son? I must have read it a couple of times and started getting quite emotional.",
+      "zh": "这是妈妈的儿子吗？我肯定把邮件读了好几遍，情绪也越来越激动。"
+    },
+    {
+      "id": 34,
+      "startMs": 202300,
+      "endMs": 207580,
+      "en": "I'm not surprised. And I sent him a very polite reply saying I'd be open to having a conversation.",
+      "zh": "我并不意外。于是我礼貌地回复说，愿意和他聊一聊。"
+    },
+    {
+      "id": 35,
+      "startMs": 207980,
+      "endMs": 212220,
+      "en": "When we did actually speak, why don’t you tell them what you were asking me?",
+      "zh": "我们真正通话时，你问了我什么，不妨告诉大家？"
+    },
+    {
+      "id": 36,
+      "startMs": 212220,
+      "endMs": 215580,
+      "en": "So I said, you know, can you tell me about your mum's life in India?",
+      "zh": "我说：“你能告诉我你母亲在印度的生活吗？”"
+    },
+    {
+      "id": 37,
+      "startMs": 215980,
+      "endMs": 218220,
+      "en": "Then I did ask, I said, well, did she have any children?",
+      "zh": "然后我又问：“那么，她有孩子吗？”"
+    },
+    {
+      "id": 38,
+      "startMs": 218220,
+      "endMs": 227420,
+      "en": "And Nicci replied with the answer that kind of made my heart kind of stop for a few minutes: that she had a son.",
+      "zh": "Nicci 的回答让我心跳仿佛停了几分钟：她有一个儿子。"
+    },
+    {
+      "id": 39,
+      "startMs": 227580,
+      "endMs": 234220,
+      "en": "And that silent pause is where the next words that Nicci said to me just...",
+      "zh": "那段沉默之后，Nicci 对我说出的下一句话就是……"
+    },
+    {
+      "id": 40,
+      "startMs": 234620,
+      "endMs": 239900,
+      "en": "I said, are you? Are you Titu? Are you my mum's son?",
+      "zh": "我说：“是你吗？你是 Titu？你是我妈妈的儿子吗？”"
+    },
+    {
+      "id": 41,
+      "startMs": 240700,
+      "endMs": 242620,
+      "en": "I just could not believe I heard that.",
+      "zh": "我简直不敢相信自己听到了这句话。"
+    },
+    {
+      "id": 42,
+      "startMs": 243180,
+      "endMs": 246700,
+      "en": "And I just said, you know, pardon, could you repeat that again?",
+      "zh": "我只是说：“抱歉，你能再重复一遍吗？”"
+    },
+    {
+      "id": 43,
+      "startMs": 246940,
+      "endMs": 250700,
+      "en": "And, you know, she said the same name again.",
+      "zh": "她又说了一遍同样的名字。"
+    },
+    {
+      "id": 44,
+      "startMs": 250700,
+      "endMs": 255660,
+      "en": "And this sheer flood of emotion that I could not control came out.",
+      "zh": "随后，一股我无法控制的强烈情绪涌了出来。"
+    },
+    {
+      "id": 45,
+      "startMs": 255740,
+      "endMs": 261200,
+      "en": "And, you know, I was just in tears because it's a nickname of mine from childhood.",
+      "zh": "我当时泪流满面，因为那是我儿时的昵称。"
+    },
+    {
+      "id": 46,
+      "startMs": 261360,
+      "endMs": 268240,
+      "en": "But the pronunciation of saying “Titu” was done by my grandmother when I lived in India.",
+      "zh": "但我住在印度时，外祖母就是这样念“Titu”的。"
+    },
+    {
+      "id": 47,
+      "startMs": 268480,
+      "endMs": 270960,
+      "en": "I said, “This is my final confirmation.”",
+      "zh": "我说：“这就是最后的确认。”"
+    },
+    {
+      "id": 48,
+      "startMs": 271680,
+      "endMs": 274560,
+      "en": "And he started crying. I think you both did.",
+      "zh": "然后他哭了。我想你们两个都哭了。"
+    },
+    {
+      "id": 49,
+      "startMs": 274560,
+      "endMs": 277680,
+      "en": "I was crying. I'm crying even right now.",
+      "zh": "我当时在哭，现在甚至还在哭。"
+    },
+    {
+      "id": 50,
+      "startMs": 277840,
+      "endMs": 282160,
+      "en": "I mean, this is every time I replay that in my mind, tears come to my eyes.",
+      "zh": "每当我在脑海中重放那一幕，眼泪就会涌上来。"
+    },
+    {
+      "id": 51,
+      "startMs": 282160,
+      "endMs": 283440,
+      "en": "Yeah, even I'm choked up now.",
+      "zh": "是的，我现在也哽咽了。"
+    },
+    {
+      "id": 52,
+      "startMs": 283440,
+      "endMs": 287920,
+      "en": "I mean, it's an extraordinary privilege to sit here listening to you telling that story.",
+      "zh": "能坐在这里听你讲述这个故事，是莫大的荣幸。"
+    },
+    {
+      "id": 53,
+      "startMs": 288000,
+      "endMs": 291920,
+      "en": "Yeah. I wonder, sort of months on, how does it feel now?",
+      "zh": "是的。几个月过去了，你现在感觉如何？"
+    },
+    {
+      "id": 54,
+      "startMs": 292160,
+      "endMs": 297440,
+      "en": "It is absolutely amazing. You know, I have an older sister, I'm the middle child.",
+      "zh": "这真是太奇妙了。我有一个姐姐，而我是排行中间的孩子。"
+    },
+    {
+      "id": 55,
+      "startMs": 297440,
+      "endMs": 300000,
+      "en": "I have a younger brother, and now there's four of us.",
+      "zh": "我还有一个弟弟，现在我们一共有四个人。"
+    },
+    {
+      "id": 56,
+      "startMs": 300000,
+      "endMs": 301120,
+      "en": "We have an older brother.",
+      "zh": "我们还有一个哥哥。"
+    },
+    {
+      "id": 57,
+      "startMs": 301840,
+      "endMs": 309040,
+      "en": "You know, Avtar did come over. I introduced him to my mum's younger brother, who remembered him as a child.",
+      "zh": "Avtar 后来的确过来了。我把他介绍给我舅舅；舅舅还记得他小时候的样子。"
+    },
+    {
+      "id": 58,
+      "startMs": 309760,
+      "endMs": 312400,
+      "en": "And I remember my auntie saying...",
+      "zh": "我记得姨妈说……"
+    },
+    {
+      "id": 59,
+      "startMs": 313080,
+      "endMs": 316440,
+      "en": "It's been so many years, and finally the doors have opened.",
+      "zh": "这么多年过去了，门终于打开了。"
+    },
+    {
+      "id": 60,
+      "startMs": 316680,
+      "endMs": 322040,
+      "en": "I didn't really expect to find my mother alive. I mean, that would have been a miracle.",
+      "zh": "我真的没想过还能找到活着的母亲。那简直就是奇迹。"
+    },
+    {
+      "id": 61,
+      "startMs": 322440,
+      "endMs": 330280,
+      "en": "But what I did not expect at all, when Nicci said, “Yeah, are you, you know, my mum's son?”",
+      "zh": "但我完全没想到，Nicci 说：“你是我妈妈的儿子吗？”"
+    },
+    {
+      "id": 62,
+      "startMs": 330760,
+      "endMs": 334680,
+      "en": "Then my mind switched and said, “Oh my God, I'm actually talking to my sister.”",
+      "zh": "那一刻我突然意识到：“天哪，我竟然是在和我的姐姐说话。”"
+    },
+    {
+      "id": 63,
+      "startMs": 335700,
+      "endMs": 341220,
+      "en": "And then you asked me, “Are there more of you? Have you got brothers and sisters?”",
+      "zh": "然后你问我：“你还有其他兄弟姐妹吗？”"
+    },
+    {
+      "id": 64,
+      "startMs": 342700,
+      "endMs": 344780,
+      "en": "Now my crying turned into laughter.",
+      "zh": "这时，我止住眼泪，笑了起来。"
+    },
+    {
+      "id": 65,
+      "startMs": 344780,
+      "endMs": 348860,
+      "en": "I said, oh my God, I can't believe I actually have this other family out there.",
+      "zh": "我说，天哪，我真不敢相信，外面竟然还有这样一个家族。"
+    },
+    {
+      "id": 66,
+      "startMs": 349260,
+      "endMs": 352140,
+      "en": "I was very content and very happy, but look at this now.",
+      "zh": "我原本非常满足、非常快乐，但现在看看这一切。"
+    },
+    {
+      "id": 67,
+      "startMs": 352220,
+      "endMs": 359260,
+      "en": "This is just like a bonus that I got of not just my three siblings over there.",
+      "zh": "这就像是我得到的一份额外礼物：不只是那边的三个兄弟姐妹。"
+    },
+    {
+      "id": 68,
+      "startMs": 359660,
+      "endMs": 364380,
+      "en": "But I've got this large extended family of cousins and nieces and nephews.",
+      "zh": "我还有一个庞大的大家庭，有表亲、侄女和侄子。"
+    },
+    {
+      "id": 69,
+      "startMs": 365100,
+      "endMs": 371580,
+      "en": "And the best thing is that, you know, this family has just embraced me with all the love in the world.",
+      "zh": "最棒的是，这个家庭用全世界的爱接纳了我。"
+    },
+    {
+      "id": 70,
+      "startMs": 371740,
+      "endMs": 374620,
+      "en": "Avtar and Nicci speaking to Julian Worricker.",
+      "zh": "Avtar 和 Nicci 接受 Julian Worricker 采访。"
+    },
+    {
+      "id": 71,
+      "startMs": 375180,
+      "endMs": 380540,
+      "en": "Our next story was sent to us by a listener, so thank you, Constanza, for this one.",
+      "zh": "下一个故事由一位听众寄给我们，谢谢你，Constanza。"
+    },
+    {
+      "id": 72,
+      "startMs": 380940,
+      "endMs": 389100,
+      "en": "A giraffe called Milani was born last month at Tanganyika Wildlife Park in Kansas, but Milani isn't any giraffe.",
+      "zh": "名叫 Milani 的长颈鹿上月出生于堪萨斯 Tanganyika Wildlife Park，但她不是普通长颈鹿。"
+    },
+    {
+      "id": 73,
+      "startMs": 389420,
+      "endMs": 394220,
+      "en": "The zoo says she is the first ever to have survived being born by C-section.",
+      "zh": "动物园称，她是首只通过剖宫产出生并存活下来的长颈鹿。"
+    },
+    {
+      "id": 74,
+      "startMs": 394620,
+      "endMs": 400700,
+      "en": "It was a team effort across multiple animal centres to keep her alive, which included around-the-clock care.",
+      "zh": "这是多个动物中心共同努力的结果，包括全天候照料，才让她活了下来。"
+    },
+    {
+      "id": 75,
+      "startMs": 401180,
+      "endMs": 410080,
+      "en": "I caught up with the director of Tanganyika Wildlife Park, Matt Fouts, and, as you'll hear, we were also joined by Milani herself.",
+      "zh": "我采访了 Tanganyika Wildlife Park 园长 Matt Fouts；你将听到，Milani 本人也加入了采访。"
+    },
+    {
+      "id": 76,
+      "startMs": 410240,
+      "endMs": 417120,
+      "en": "Milani was born on July 11th in an emergency C-section that we had to perform.",
+      "zh": "Milani 于7月11日在一次紧急剖宫产中出生。"
+    },
+    {
+      "id": 77,
+      "startMs": 417440,
+      "endMs": 424960,
+      "en": "Her mom had kind of fallen ill, and we'd been treating her, but she got to a point where we weren't sure that she was going to make it.",
+      "zh": "她的母亲患了病，我们一直在治疗，但后来情况恶化到我们不确定她能否活下来。"
+    },
+    {
+      "id": 78,
+      "startMs": 425040,
+      "endMs": 429680,
+      "en": "And so we chose to do the emergency C-section in hopes that we could save the baby.",
+      "zh": "所以我们决定实施紧急剖宫产，希望救下这只幼崽。"
+    },
+    {
+      "id": 79,
+      "startMs": 429840,
+      "endMs": 436720,
+      "en": "For people who can't see you, you are stood next to Milani, who was sat very nicely but is now stood up.",
+      "zh": "对于看不到画面的听众，你正站在Milani旁边；她刚才乖乖坐着，现在已经站了起来。"
+    },
+    {
+      "id": 80,
+      "startMs": 437360,
+      "endMs": 439920,
+      "en": "Talk to me about the care that she received from the zoo.",
+      "zh": "请谈谈动物园如何照料她。"
+    },
+    {
+      "id": 81,
+      "startMs": 440080,
+      "endMs": 441920,
+      "en": "From the start, you know, it was a mad scramble.",
+      "zh": "从一开始，现场就一片忙乱。"
+    },
+    {
+      "id": 82,
+      "startMs": 441920,
+      "endMs": 450560,
+      "en": "Once—I mean, we had to obviously cut Mom open and pull her out. At that point, she's not moving, she's not breathing, and her eyes aren't open.",
+      "zh": "当时——我是说，我们显然得剖开母亲的身体，把小长颈鹿取出来。那时她不会动、不会呼吸，眼睛也没有睁开。"
+    },
+    {
+      "id": 83,
+      "startMs": 450880,
+      "endMs": 458080,
+      "en": "And so, for giraffes normally when they're born, they fall about six feet down to the ground.",
+      "zh": "长颈鹿通常出生时，会从大约六英尺高处摔到地面。"
+    },
+    {
+      "id": 84,
+      "startMs": 458240,
+      "endMs": 461840,
+      "en": "And that kind of signals to their body, like, okay, it's time to be alive, right?",
+      "zh": "这会向它们的身体发出信号：好了，该活过来了，对吧？"
+    },
+    {
+      "id": 85,
+      "startMs": 461920,
+      "endMs": 465780,
+      "en": "It's time to wake up, and we had to try and recreate that with Milani.",
+      "zh": "该醒来了，而我们得想办法让 Milani 重现这一过程。"
+    },
+    {
+      "id": 86,
+      "startMs": 466020,
+      "endMs": 471300,
+      "en": "Finally, she kind of opened her eyes, she took a breath, and then immediately the team kind of went to work.",
+      "zh": "最后，她睁开眼睛，吸了一口气，团队随即开始行动。"
+    },
+    {
+      "id": 87,
+      "startMs": 471300,
+      "endMs": 476180,
+      "en": "We had oxygen for her, we had to get oxygen to her, get her cleaned up, get her kind of stable.",
+      "zh": "我们准备了氧气，给她输氧，清理身体，让她逐渐稳定下来。"
+    },
+    {
+      "id": 88,
+      "startMs": 476340,
+      "endMs": 483380,
+      "en": "And then once that was done, we got her moved to a stall that was a little smaller that we could continue care with her.",
+      "zh": "完成后，我们把她转移到一个较小的栏舍，继续照料她。"
+    },
+    {
+      "id": 89,
+      "startMs": 483700,
+      "endMs": 485620,
+      "en": "Then she's on the move.",
+      "zh": "她动起来了。"
+    },
+    {
+      "id": 90,
+      "startMs": 485780,
+      "endMs": 490420,
+      "en": "Yes, Milani's just walked off from the interview. The camera...",
+      "zh": "是的，Milani 刚走出采访画面。镜头……"
+    },
+    {
+      "id": 91,
+      "startMs": 490820,
+      "endMs": 496820,
+      "en": "So then we just needed to get essentials, like we were using an oxygen mask on her, but that wasn't going to work long-term.",
+      "zh": "所以我们得准备必需品。我们给她用氧气面罩，但这无法长期奏效。"
+    },
+    {
+      "id": 92,
+      "startMs": 496900,
+      "endMs": 505140,
+      "en": "So we had to find a way to get an oxygen tube that we could put down her, and find a machine that could, you know, do constant oxygen.",
+      "zh": "于是我们想办法找一根能插入她体内的输氧管，还要找一台能持续供氧的机器。"
+    },
+    {
+      "id": 93,
+      "startMs": 505220,
+      "endMs": 510580,
+      "en": "We scrambled. We were able to work with Dickerson Park Zoo and get some plasma from another giraffe.",
+      "zh": "我们一阵忙乱，后来与 Dickerson Park Zoo 合作，取得了另一只长颈鹿的血浆。"
+    },
+    {
+      "id": 94,
+      "startMs": 510740,
+      "endMs": 514580,
+      "en": "That was about a five-hour round trip, but we finally got that and got that in her.",
+      "zh": "这一来回大约要五个小时，但我们最终拿到血浆并给她输上了。"
+    },
+    {
+      "id": 95,
+      "startMs": 514740,
+      "endMs": 516820,
+      "en": "I mean, initially she couldn't even hold her neck up.",
+      "zh": "起初，她甚至无法抬起脖子。"
+    },
+    {
+      "id": 96,
+      "startMs": 516900,
+      "endMs": 525080,
+      "en": "Two people with her around the clock, making sure her head stayed in a position that allowed her to breathe.",
+      "zh": "两个人全天候陪着她，确保她的头部保持在能让她呼吸的位置。"
+    },
+    {
+      "id": 97,
+      "startMs": 525320,
+      "endMs": 530680,
+      "en": "Even just during our chat, Milani is up, walking about, trying to eat the camera.",
+      "zh": "就在我们交谈时，Milani 已经站起来走动，还试图啃镜头。"
+    },
+    {
+      "id": 98,
+      "startMs": 530840,
+      "endMs": 532840,
+      "en": "Tell us a bit about her personality.",
+      "zh": "请介绍一下她的性格。"
+    },
+    {
+      "id": 99,
+      "startMs": 533940,
+      "endMs": 536500,
+      "en": "Yeah, so, I mean, kind of remains to be seen still.",
+      "zh": "是的，我是说，她的性格还有待观察。"
+    },
+    {
+      "id": 100,
+      "startMs": 536500,
+      "endMs": 542900,
+      "en": "I think she's—I'm not sure exactly what the phases would be for giraffes, but I feel like she's maybe kind of entering the terrible twos phase.",
+      "zh": "我也说不准长颈鹿会经历哪些阶段，但我觉得她可能正进入可怕的两岁阶段。"
+    },
+    {
+      "id": 101,
+      "startMs": 543300,
+      "endMs": 550820,
+      "en": "You know, where I think she's now starting to kind of find her independence a little bit and, you know, do her own thing, assert herself.",
+      "zh": "她开始有点寻求独立，做自己的事，表现自我。"
+    },
+    {
+      "id": 102,
+      "startMs": 550820,
+      "endMs": 557300,
+      "en": "So we'll have to see as she continues to get a little bit older if she ends up being more friendly and loving of humans",
+      "zh": "所以还要等她再长大一些，看看她会不会更亲近、更喜欢人类，"
+    },
+    {
+      "id": 103,
+      "startMs": 557300,
+      "endMs": 561460,
+      "en": "or is like, you know what, I've had enough of you guys. I was around you the first, you know, month of my life.",
+      "zh": "还是会说：你们够了。我生命的第一个月一直和你们待在一起。"
+    },
+    {
+      "id": 104,
+      "startMs": 562500,
+      "endMs": 563220,
+      "en": "Just leave me alone.",
+      "zh": "别烦我。"
+    },
+    {
+      "id": 105,
+      "startMs": 563620,
+      "endMs": 571700,
+      "en": "And how does it feel to be part of a team that managed to keep this baby giraffe alive?",
+      "zh": "作为让这只长颈鹿宝宝活下来的团队成员，你有什么感受？"
+    },
+    {
+      "id": 106,
+      "startMs": 571940,
+      "endMs": 578580,
+      "en": "It's incredible. I mean, the care and the passion of our team here at Tanganyika is second to none.",
+      "zh": "这太不可思议了。我们 Tanganyika 团队的照料和热情无与伦比。"
+    },
+    {
+      "id": 107,
+      "startMs": 578900,
+      "endMs": 584580,
+      "en": "I mean, like I said, we had so many people working around the clock to make sure that she had the care that she needed.",
+      "zh": "正如我所说，我们有很多人全天候工作，确保她得到所需的照料。"
+    },
+    {
+      "id": 108,
+      "startMs": 584740,
+      "endMs": 592580,
+      "en": "It was minute by minute initially, then hour by hour, and finally maybe day by day—and she's doing such a great job.",
+      "zh": "最初真的是分分秒秒地应对，后来按小时，最终大概可以按天了，而她表现得非常好。"
+    },
+    {
+      "id": 109,
+      "startMs": 592580,
+      "endMs": 596040,
+      "en": "But I really think it illustrates not only how awesome our team is",
+      "zh": "但我确实认为，这不仅体现了我们团队有多棒，"
+    },
+    {
+      "id": 110,
+      "startMs": 596040,
+      "endMs": 603320,
+      "en": "but just how much zookeepers and wildlife professionals really care about their animals at zoos around the country and around the world.",
+      "zh": "也体现了世界各地动物园的饲养员和野生动物专业人士多么在乎自己的动物。"
+    },
+    {
+      "id": 111,
+      "startMs": 603560,
+      "endMs": 608760,
+      "en": "Sometimes they get a hard time, or it's a thankless job, but they really do care about their animals",
+      "zh": "有时他们会受到苛责，或者这是一份不被感谢的工作，但他们确实在乎自己的动物，"
+    },
+    {
+      "id": 112,
+      "startMs": 608760,
+      "endMs": 613800,
+      "en": "and they give so much of themselves—blood, sweat and tears—to make sure that these animals have amazing lives.",
+      "zh": "他们倾注自己的心血、汗水和泪水，只为确保这些动物拥有美好的生活。"
+    },
+    {
+      "id": 113,
+      "startMs": 613960,
+      "endMs": 619080,
+      "en": "And so, just to be part of that, not only on our team but just in the industry is incredible.",
+      "zh": "所以，能成为其中一员，不只是我们团队的一员，也是整个行业的一员，真的不可思议。"
+    },
+    {
+      "id": 114,
+      "startMs": 619160,
+      "endMs": 628040,
+      "en": "Even though our team, I mean, put a tremendous amount of effort and accomplished something that has never been done before, it definitely was a collaboration that made it possible.",
+      "zh": "尽管我们的团队付出了巨大努力，完成了前所未有的事情，但这确实是各方合作才得以实现的。"
+    },
+    {
+      "id": 115,
+      "startMs": 628120,
+      "endMs": 633240,
+      "en": "I mean, we worked with six or seven different zoos around the United States to make this happen.",
+      "zh": "我们与美国各地六七家不同的动物园合作，才促成了这件事。"
+    },
+    {
+      "id": 116,
+      "startMs": 633400,
+      "endMs": 636840,
+      "en": "That was incredibly valuable because, again, this has never been done before.",
+      "zh": "这极其宝贵，因为这件事以前从未有人做到过。"
+    },
+    {
+      "id": 117,
+      "startMs": 637160,
+      "endMs": 645000,
+      "en": "And so just having different resources to call upon to help make sure we had the best possible chance to help her survive played a critical role.",
+      "zh": "因此，能调动不同资源，确保她有最大的存活机会，发挥了关键作用。"
+    },
+    {
+      "id": 118,
+      "startMs": 645160,
+      "endMs": 647720,
+      "en": "She's bringing a lot of people joy.",
+      "zh": "她给很多人带来了快乐。"
+    },
+    {
+      "id": 119,
+      "startMs": 647880,
+      "endMs": 650280,
+      "en": "Why do you think she's cheering so many people up?",
+      "zh": "你觉得她为什么能让这么多人振奋起来？"
+    },
+    {
+      "id": 120,
+      "startMs": 650520,
+      "endMs": 653480,
+      "en": "I mean, I think it's just an incredible, just heartwarming story.",
+      "zh": "我觉得这真是个不可思议、令人暖心的故事。"
+    },
+    {
+      "id": 121,
+      "startMs": 653500,
+      "endMs": 661980,
+      "en": "I think our social media team did an excellent job just really illustrating how much passion our team pours into these animals.",
+      "zh": "我觉得我们的社交媒体团队做得非常好，充分展现了团队对这些动物倾注的热情。"
+    },
+    {
+      "id": 122,
+      "startMs": 662140,
+      "endMs": 670220,
+      "en": "It's an incredible story. Anytime you see humans doing amazing things for good to try and help preserve this world, it's just it's very, very powerful.",
+      "zh": "这是个不可思议的故事。看到人类为善而努力，试图保护这个世界，真的非常非常有力量。"
+    },
+    {
+      "id": 123,
+      "startMs": 670300,
+      "endMs": 672300,
+      "en": "Our connection to animals is incredibly deep.",
+      "zh": "我们与动物的联系极其深厚。"
+    },
+    {
+      "id": 124,
+      "startMs": 672460,
+      "endMs": 674780,
+      "en": "And so I think this story really resonates with people.",
+      "zh": "所以我觉得这个故事确实引起了人们的共鸣。"
+    },
+    {
+      "id": 125,
+      "startMs": 675100,
+      "endMs": 676300,
+      "en": "That was Matt Fouts.",
+      "zh": "以上是马特·福茨。"
+    },
+    {
+      "id": 126,
+      "startMs": 677340,
+      "endMs": 685580,
+      "en": "Here in the UK, an 88-year-old has gained hundreds of thousands of views on social media for sharing his weightlifting journey.",
+      "zh": "在英国，一名88岁老人分享自己的举重历程，在社交媒体上获得了数十万次观看。"
+    },
+    {
+      "id": 127,
+      "startMs": 685980,
+      "endMs": 692620,
+      "en": "Mick Wadge started going to the gym after his wife Margaret died shortly after their 60th wedding anniversary.",
+      "zh": "米克·韦奇的妻子玛格丽特在两人结婚60周年纪念日后不久去世，此后他开始去健身房。"
+    },
+    {
+      "id": 128,
+      "startMs": 693020,
+      "endMs": 700220,
+      "en": "His personal trainer, Ross Starkey, set up a TikTok account for him, where fans have called Mick an inspiration.",
+      "zh": "他的私人教练罗斯·斯塔基为他开设了TikTok账号，粉丝称米克鼓舞人心。"
+    },
+    {
+      "id": 129,
+      "startMs": 700620,
+      "endMs": 706220,
+      "en": "He began by lifting a broom and milk cartons, but it escalated quickly.",
+      "zh": "他最初举的是扫帚和牛奶盒，但训练强度很快就升级了。"
+    },
+    {
+      "id": 130,
+      "startMs": 706460,
+      "endMs": 715220,
+      "en": "Hi, I'm Mick. I'm 88. One of my favourite exercises to build the shoulders is lateral raises.",
+      "zh": "大家好，我是米克，今年88岁。我最喜欢的肩部训练之一是侧平举。"
+    },
+    {
+      "id": 131,
+      "startMs": 715220,
+      "endMs": 720500,
+      "en": "A low weight to start with, and build up as I go through the sets.",
+      "zh": "先从较轻的重量开始，随着组数增加再逐步加重。"
+    },
+    {
+      "id": 132,
+      "startMs": 721020,
+      "endMs": 725740,
+      "en": "I know it's just a number, but it's a bloody big number. That's the problem.",
+      "zh": "我知道年龄只是个数字，但这个数字大得吓人，问题就在这里。"
+    },
+    {
+      "id": 133,
+      "startMs": 726660,
+      "endMs": 732340,
+      "en": "Hi guys, we're gonna try something different now called the Piston Press.",
+      "zh": "大家好，我们现在要尝试一种不同的训练，叫作Piston Press。"
+    },
+    {
+      "id": 134,
+      "startMs": 732580,
+      "endMs": 735860,
+      "en": "Using one arm at a time, pushing forward.",
+      "zh": "一次用一只手臂向前推。"
+    },
+    {
+      "id": 135,
+      "startMs": 736260,
+      "endMs": 742180,
+      "en": "Not done this before, so this is the first. Oh, oh, this is hard.",
+      "zh": "以前没做过，这是第一次。哦，哦，真难。"
+    },
+    {
+      "id": 136,
+      "startMs": 742260,
+      "endMs": 747300,
+      "en": "I keep coming into the gym, enjoying every minute.",
+      "zh": "我一直来健身房，享受每一分钟。"
+    },
+    {
+      "id": 137,
+      "startMs": 747540,
+      "endMs": 751380,
+      "en": "Mick and Ross have been speaking to the BBC's Henry Zeffman.",
+      "zh": "米克和罗斯接受了BBC记者亨利·泽夫曼的采访。"
+    },
+    {
+      "id": 138,
+      "startMs": 751620,
+      "endMs": 761780,
+      "en": "I do four sessions a week, Monday, Wednesday and Friday, and Tuesday I'm coached by Ross.",
+      "zh": "我每周训练四次，周一、周三和周五训练，周二由罗斯指导。"
+    },
+    {
+      "id": 139,
+      "startMs": 762020,
+      "endMs": 768260,
+      "en": "We do like about an hour and a half, with deadlift, bench press...",
+      "zh": "我们每次大约训练一个半小时，做硬拉、卧推……"
+    },
+    {
+      "id": 140,
+      "startMs": 769700,
+      "endMs": 775300,
+      "en": "We use the machines, and it's a full, full workout.",
+      "zh": "我们使用器械，这是一次完整、全面的训练。"
+    },
+    {
+      "id": 141,
+      "startMs": 775620,
+      "endMs": 780260,
+      "en": "So when we've finished, they carry me out and put me in my car.",
+      "zh": "训练结束后，他们把我抬出去，扶我上车。"
+    },
+    {
+      "id": 142,
+      "startMs": 780740,
+      "endMs": 790260,
+      "en": "And it says here, Mick, I doubt you're being carried out, because it says here that your personal best for a deadlift is 100 kilograms. Is that right?",
+      "zh": "这里写着，米克，我不信你需要被抬出去，因为这里说你的硬拉个人最好成绩是100公斤，对吗？"
+    },
+    {
+      "id": 143,
+      "startMs": 791060,
+      "endMs": 793380,
+      "en": "No. Yeah, you did one. No, we did 110.",
+      "zh": "不对。对，你确实做过一次。不，我们做到了110公斤。"
+    },
+    {
+      "id": 144,
+      "startMs": 793380,
+      "endMs": 796900,
+      "en": "Oh, okay, sorry. I am understating your achievements.",
+      "zh": "哦，好吧，抱歉。我低估了你的成就。"
+    },
+    {
+      "id": 145,
+      "startMs": 797620,
+      "endMs": 799940,
+      "en": "Hey, he's trying to knock them down here.",
+      "zh": "嘿，他这是想把数字往下压呢。"
+    },
+    {
+      "id": 146,
+      "startMs": 801460,
+      "endMs": 812820,
+      "en": "Now we did 110, and one of my targets was the deadlift because I talked to a friend of mine, 77, is it?",
+      "zh": "我们做到了110公斤，而我的目标之一就是硬拉，因为我说服了一位77岁的朋友，对吧？"
+    },
+    {
+      "id": 147,
+      "startMs": 812820,
+      "endMs": 819540,
+      "en": "Yeah, 77. I talked him into coming, and he went and lifted 120 on the deadlift.",
+      "zh": "对，77岁。我劝他来训练，他随后在硬拉项目中举起了120公斤。"
+    },
+    {
+      "id": 148,
+      "startMs": 819780,
+      "endMs": 827460,
+      "en": "So that was my challenge, and I haven't been able to reach it. So I've fallen out with him now.",
+      "zh": "所以那就是我的挑战，但我一直没能达到。现在我都和他闹掰了。"
+    },
+    {
+      "id": 149,
+      "startMs": 827540,
+      "endMs": 832740,
+      "en": "I'm sure it's just a matter of days, if not even hours, after the motivation of having told that story.",
+      "zh": "我相信，在讲完这个故事获得动力后，最多几天、甚至几小时就能实现。"
+    },
+    {
+      "id": 150,
+      "startMs": 833140,
+      "endMs": 839940,
+      "en": "Ross, give us a sense of what it is like training somebody who is a little older, 88 in Mick's case.",
+      "zh": "罗斯，请谈谈训练年长者是什么感觉，以米克为例，他已经88岁了。"
+    },
+    {
+      "id": 151,
+      "startMs": 839940,
+      "endMs": 842180,
+      "en": "Are there particular challenges that you need to be aware of?",
+      "zh": "你需要特别注意哪些挑战吗？"
+    },
+    {
+      "id": 152,
+      "startMs": 842660,
+      "endMs": 845940,
+      "en": "Well, I think this is the issue where a lot of people are doing it wrong.",
+      "zh": "我认为问题在于，很多人训练老年人时做错了。"
+    },
+    {
+      "id": 153,
+      "startMs": 846340,
+      "endMs": 850100,
+      "en": "They treat old people like old people, and I've never treated Mick like that.",
+      "zh": "他们把老人当老人对待，而我从没那样对待米克。"
+    },
+    {
+      "id": 154,
+      "startMs": 850420,
+      "endMs": 854340,
+      "en": "I've never changed his training. That's why he's able to do what he can do.",
+      "zh": "我从未改变他的训练方式，所以他才能做到这些。"
+    },
+    {
+      "id": 155,
+      "startMs": 854820,
+      "endMs": 860120,
+      "en": "People are so scared of hurting old people that they don't ever challenge them, and then they never grow.",
+      "zh": "人们太害怕让老人受伤，所以从不挑战他们，于是他们也无法进步。"
+    },
+    {
+      "id": 156,
+      "startMs": 860120,
+      "endMs": 863240,
+      "en": "And then you see them with these little plastic weights and these rubber bands.",
+      "zh": "结果你看到他们只用小塑料哑铃和橡皮筋。"
+    },
+    {
+      "id": 157,
+      "startMs": 863880,
+      "endMs": 867480,
+      "en": "And Mick's older than a lot of these people, and he's deadlifting 100 kilograms with ease.",
+      "zh": "米克比其中很多人年长，却能轻松完成100公斤硬拉。"
+    },
+    {
+      "id": 158,
+      "startMs": 867480,
+      "endMs": 870920,
+      "en": "But this is a journey, what we've done over three years to get him to this point.",
+      "zh": "但这是一个过程，我们用了三年多才让他达到现在的水平。"
+    },
+    {
+      "id": 159,
+      "startMs": 871320,
+      "endMs": 875240,
+      "en": "You said 100 again, Ross. I think it's 110. I just want to correct you before Mick does.",
+      "zh": "罗斯，你又说100公斤了。我觉得应该是110公斤，只是想在米克纠正你前先说出来。"
+    },
+    {
+      "id": 160,
+      "startMs": 875240,
+      "endMs": 879820,
+      "en": "But tell me, what are the benefits for people?",
+      "zh": "不过请告诉我，训练对人有什么好处？"
+    },
+    {
+      "id": 161,
+      "startMs": 880860,
+      "endMs": 887900,
+      "en": "What are the benefits for people, Ross, who are training when they're older in terms of their lifestyle at that stage of life?",
+      "zh": "罗斯，对年长者来说，在人生这个阶段训练对生活方式有什么好处？"
+    },
+    {
+      "id": 162,
+      "startMs": 888540,
+      "endMs": 890940,
+      "en": "I think one of the most important things is bone density.",
+      "zh": "我认为最重要的好处之一是骨密度。"
+    },
+    {
+      "id": 163,
+      "startMs": 891420,
+      "endMs": 896860,
+      "en": "As you get older, your bone density starts to decay, but you can actually prevent that with heavy strength training.",
+      "zh": "随着年龄增长，骨密度会开始下降，但通过高强度力量训练确实可以预防。"
+    },
+    {
+      "id": 164,
+      "startMs": 896860,
+      "endMs": 900620,
+      "en": "So if Mick was to fall over, he's not going to break an ankle or a bone.",
+      "zh": "所以米克如果摔倒，不会摔断脚踝或其他骨头。"
+    },
+    {
+      "id": 165,
+      "startMs": 900620,
+      "endMs": 904140,
+      "en": "He's—he's really robust now, so if he falls over he can get back up.",
+      "zh": "他现在非常强健，所以即使摔倒也能自己爬起来。"
+    },
+    {
+      "id": 166,
+      "startMs": 904460,
+      "endMs": 910780,
+      "en": "And Mick, you've been praised online by countless people who've seen the TikTok account.",
+      "zh": "米克，看过这个TikTok账号的无数人都在网上称赞你。"
+    },
+    {
+      "id": 167,
+      "startMs": 911340,
+      "endMs": 916380,
+      "en": "But no less than Arnold Schwarzenegger, who said he loved what you're doing: keep pumping.",
+      "zh": "其中甚至包括阿诺德·施瓦辛格，他说很喜欢你做的事，还让你继续加油。"
+    },
+    {
+      "id": 168,
+      "startMs": 916620,
+      "endMs": 919660,
+      "en": "Tell me, what does it mean to get praised like that?",
+      "zh": "得到这样的赞誉，对你来说意味着什么？"
+    },
+    {
+      "id": 169,
+      "startMs": 919740,
+      "endMs": 924540,
+      "en": "Really, it’s just amazing. I mean, Arnold was my favourite bodybuilder years ago.",
+      "zh": "真的，太不可思议了。阿诺德多年前就是我最喜欢的健美运动员。"
+    },
+    {
+      "id": 170,
+      "startMs": 924540,
+      "endMs": 932380,
+      "en": "I've seen every one of his films dozens of times.",
+      "zh": "他的每一部电影我都看过几十遍。"
+    },
+    {
+      "id": 171,
+      "startMs": 933000,
+      "endMs": 937240,
+      "en": "And for him to contact us like that, it's just amazing.",
+      "zh": "他能这样联系我们，真的太不可思议了。"
+    },
+    {
+      "id": 172,
+      "startMs": 937720,
+      "endMs": 946120,
+      "en": "I mean, it's well worth all the effort I've put in. Just for what Arnold's done, he sent us a message.",
+      "zh": "我的意思是，我付出的一切努力都完全值得。阿诺德还因此给我们发了条消息。"
+    },
+    {
+      "id": 173,
+      "startMs": 946520,
+      "endMs": 951080,
+      "en": "Just great. Mick Wadge and Ross Starkey speaking to Henry Zeffman.",
+      "zh": "太棒了。Mick Wadge 和 Ross Starkey 接受 Henry Zeffman 采访。"
+    },
+    {
+      "id": 174,
+      "startMs": 956100,
+      "endMs": 957620,
+      "en": "Coming up on The Happy Pod.",
+      "zh": "《The Happy Pod》预告。"
+    },
+    {
+      "id": 175,
+      "startMs": 957940,
+      "endMs": 965780,
+      "en": "We've had people who've come to a dozen, a dozen Ugly Potato Days, and we've heard it's the only time they can have or afford fruit in summer.",
+      "zh": "有人来过十二届、十二届“丑土豆日”，他们说，那是夏天唯一能吃到或买得起水果的时候。"
+    },
+    {
+      "id": 176,
+      "startMs": 966340,
+      "endMs": 971460,
+      "en": "And so that warms our heart, you know. We have people that drive sometimes six hours to come to the event.",
+      "zh": "所以，这让我们很感动。有人有时要开六个小时的车来参加活动。"
+    },
+    {
+      "id": 177,
+      "startMs": 971700,
+      "endMs": 975700,
+      "en": "How Ugly Potato Day is stopping food waste in Canada.",
+      "zh": "“丑土豆日”如何在加拿大减少食物浪费。"
+    },
+    {
+      "id": 178,
+      "startMs": 975700,
+      "endMs": 977780,
+      "en": "You're listening to The Happy Pod.",
+      "zh": "你正在收听《The Happy Pod》。"
+    },
+    {
+      "id": 179,
+      "startMs": 978340,
+      "endMs": 983860,
+      "en": "In the United States, three sisters have turned an old school bus into a library on wheels.",
+      "zh": "在美国，三姐妹把一辆旧校车改造成了流动图书馆。"
+    },
+    {
+      "id": 180,
+      "startMs": 984180,
+      "endMs": 988180,
+      "en": "It's equipped with dozens of books and computers to help children learn.",
+      "zh": "车上有几十本书和电脑，帮助孩子们学习。"
+    },
+    {
+      "id": 181,
+      "startMs": 988580,
+      "endMs": 991380,
+      "en": "The BBC's Matthew Carter has the details.",
+      "zh": "BBC 的 Matthew Carter 带来详细报道。"
+    },
+    {
+      "id": 182,
+      "startMs": 991540,
+      "endMs": 997860,
+      "en": "When the big blue library bus rolls down the street in Oklahoma City, many children can barely contain their excitement.",
+      "zh": "这辆蓝色大型图书馆巴士驶过俄克拉何马城街道时，许多孩子几乎按捺不住兴奋之情。"
+    },
+    {
+      "id": 183,
+      "startMs": 998180,
+      "endMs": 1002020,
+      "en": "They know our schedule. They are standing outside waiting for us.",
+      "zh": "他们知道我们的时间表，会站在外面等我们。"
+    },
+    {
+      "id": 184,
+      "startMs": 1002260,
+      "endMs": 1007860,
+      "en": "They're jumping up and down, they're clapping, they're racing each other to the bus. Like, it is the best thing ever.",
+      "zh": "他们又蹦又跳、拍手叫好，还互相追赶着跑向巴士。这真是最棒的事。"
+    },
+    {
+      "id": 185,
+      "startMs": 1008180,
+      "endMs": 1011940,
+      "en": "Teresa Day converted the bus in 2022 along with her two sisters.",
+      "zh": "Teresa Day 于2022年和两个姐妹一起改造了这辆巴士。"
+    },
+    {
+      "id": 186,
+      "startMs": 1012340,
+      "endMs": 1016580,
+      "en": "They did so to improve literacy levels among children in disadvantaged communities.",
+      "zh": "她们这样做，是为了提高弱势社区儿童的读写能力。"
+    },
+    {
+      "id": 187,
+      "startMs": 1016660,
+      "endMs": 1025780,
+      "en": "We've seen that it was a huge need here in Oklahoma City, so we just acted on that and expanded on what we experienced in our childhood.",
+      "zh": "我们看到，俄克拉何马城确实有巨大需求，于是立即行动，并把童年时的经历加以拓展。"
+    },
+    {
+      "id": 188,
+      "startMs": 1026180,
+      "endMs": 1030420,
+      "en": "The areas that we serve, there's not very many after-school programming for them.",
+      "zh": "我们服务的地区，没有多少课后活动供他们参加。"
+    },
+    {
+      "id": 189,
+      "startMs": 1030420,
+      "endMs": 1035220,
+      "en": "And if it is, the parents can't afford it, or there's not transportation for them.",
+      "zh": "即使有这样的活动，家长也负担不起，或者孩子们没有交通工具前往。"
+    },
+    {
+      "id": 190,
+      "startMs": 1035240,
+      "endMs": 1039240,
+      "en": "To get there, so that just give us the inspiration to keep going.",
+      "zh": "因此，这给了我们继续下去的动力。"
+    },
+    {
+      "id": 191,
+      "startMs": 1039720,
+      "endMs": 1045720,
+      "en": "Once they're on board, kids have shelves of books to choose from, along with computers with learning games installed.",
+      "zh": "孩子们上车后，可以从书架上挑选书籍，也能使用装有学习游戏的电脑。"
+    },
+    {
+      "id": 192,
+      "startMs": 1045960,
+      "endMs": 1048600,
+      "en": "Teresa says it's had a huge impact on some children.",
+      "zh": "Teresa 说，这对一些孩子产生了巨大影响。"
+    },
+    {
+      "id": 193,
+      "startMs": 1048680,
+      "endMs": 1056200,
+      "en": "A book can change your life. There's things in books that you would never ever know about, but you sit down and you learned it.",
+      "zh": "一本书可以改变你的人生。书里有许多你永远不会知道的事，但坐下来读书就能学到。"
+    },
+    {
+      "id": 194,
+      "startMs": 1056520,
+      "endMs": 1058600,
+      "en": "It can change your mindset.",
+      "zh": "它能改变你的思维方式。"
+    },
+    {
+      "id": 195,
+      "startMs": 1058600,
+      "endMs": 1060840,
+      "en": "We push it onto these kids.",
+      "zh": "我们把这些书和机会带给孩子们。"
+    },
+    {
+      "id": 196,
+      "startMs": 1061000,
+      "endMs": 1066040,
+      "en": "We have gotten some of these kids to want to pursue STEM education.",
+      "zh": "我们让其中一些孩子有了接受 STEM 教育的愿望。"
+    },
+    {
+      "id": 197,
+      "startMs": 1066040,
+      "endMs": 1069400,
+      "en": "Like for nursing, to be a doctor, to be a lawyer.",
+      "zh": "比如学习护理、成为医生或律师。"
+    },
+    {
+      "id": 198,
+      "startMs": 1069800,
+      "endMs": 1076360,
+      "en": "One of the kids that visited, he increased his reading levels by two grade levels.",
+      "zh": "一名来访的孩子，阅读水平提高了两个年级。"
+    },
+    {
+      "id": 199,
+      "startMs": 1076360,
+      "endMs": 1083800,
+      "en": "Like he struggled really, really badly, and seeing that he was able to get his reading scores up was just such an amazing thing.",
+      "zh": "他曾经非常、非常不擅长阅读，看到他的阅读成绩能够提高，真是令人惊喜。"
+    },
+    {
+      "id": 200,
+      "startMs": 1084040,
+      "endMs": 1087720,
+      "en": "It made us feel good. We're actually making a difference in these children's lives.",
+      "zh": "这让我们感到欣慰。我们确实正在改变这些孩子的生活。"
+    },
+    {
+      "id": 201,
+      "startMs": 1087960,
+      "endMs": 1093480,
+      "en": "In December 2025, the Seize the Day bus was featured in a Disney Christmas special on TV.",
+      "zh": "2025年12月，Seize the Day 巴士在电视台的迪士尼圣诞特别节目中亮相。"
+    },
+    {
+      "id": 202,
+      "startMs": 1093800,
+      "endMs": 1098220,
+      "en": "After that, thousands of books were donated by people across the United States.",
+      "zh": "之后，美国各地的人们捐赠了数千本书。"
+    },
+    {
+      "id": 203,
+      "startMs": 1098700,
+      "endMs": 1106060,
+      "en": "The three sisters ended up with so much extra stock that they put on a special book fair, giving away free books to children in need.",
+      "zh": "三姐妹最终有了大量多余书籍，于是举办特别书展，向有需要的孩子免费送书。"
+    },
+    {
+      "id": 204,
+      "startMs": 1106460,
+      "endMs": 1110860,
+      "en": "Teresa says she's benefited from the mobile library just as much as the kids have.",
+      "zh": "Teresa 说，她本人从这座流动图书馆中得到的益处和孩子们一样多。"
+    },
+    {
+      "id": 205,
+      "startMs": 1111100,
+      "endMs": 1119660,
+      "en": "No matter how exhausted or tired I feel, it's always rewarding, especially seeing these kids experience things they've never got to experience.",
+      "zh": "无论我感到多么精疲力竭，这始终都很有意义；尤其是看到孩子们体验从未有机会体验的事物。"
+    },
+    {
+      "id": 206,
+      "startMs": 1120060,
+      "endMs": 1127340,
+      "en": "Especially seeing that they have an opportunity to have access to this stuff even without having to have any money.",
+      "zh": "尤其是看到他们有机会接触这些东西，即使一分钱也不用花。"
+    },
+    {
+      "id": 207,
+      "startMs": 1127580,
+      "endMs": 1131500,
+      "en": "It's exciting. It just gives you that dopamine rush to keep it going.",
+      "zh": "这令人兴奋，也会带来多巴胺冲动，让你继续坚持下去。"
+    },
+    {
+      "id": 208,
+      "startMs": 1131980,
+      "endMs": 1135020,
+      "en": "Teresa Day, ending that report by Matthew Carter.",
+      "zh": "Teresa Day。以上报道由 Matthew Carter 撰写。"
+    },
+    {
+      "id": 209,
+      "startMs": 1135960,
+      "endMs": 1144400,
+      "en": "The Via Alpina is one of the world's toughest endurance challenges, a 2,000-kilometre trail across the Alps spanning eight different countries.",
+      "zh": "Via Alpina 是世界上最艰苦的耐力挑战之一：这条全长2,000公里的阿尔卑斯山步道横跨八个国家。"
+    },
+    {
+      "id": 210,
+      "startMs": 1144800,
+      "endMs": 1154400,
+      "en": "It runs from Slovenia's Adriatic coast, rising the equivalent of climbing Mount Everest twelve times before ending on Monaco's Mediterranean coast.",
+      "zh": "它从斯洛文尼亚的亚得里亚海沿岸出发，累计爬升相当于攀登12次珠穆朗玛峰，最后抵达摩纳哥的地中海海岸。"
+    },
+    {
+      "id": 211,
+      "startMs": 1154960,
+      "endMs": 1163280,
+      "en": "Earlier this month, ultra-runner Sophie Woods from New Zealand became the fastest person to ever complete it, taking just 29 days.",
+      "zh": "本月早些时候，来自新西兰的超级马拉松选手Sophie Woods成为完成这条路线最快的人，仅用时29天。"
+    },
+    {
+      "id": 212,
+      "startMs": 1163680,
+      "endMs": 1167360,
+      "en": "The 42-year-old spoke to my colleague Regeeni Vaddianathan.",
+      "zh": "42岁选手接受我同事Regeeni Vaddianathan采访。"
+    },
+    {
+      "id": 213,
+      "startMs": 1167440,
+      "endMs": 1176000,
+      "en": "Every day was just really tough. You know, I think when we first planned it, I actually expected to move faster than I did.",
+      "zh": "每一天都非常艰难。我们最初规划时，我以为自己的速度会比实际更快。"
+    },
+    {
+      "id": 214,
+      "startMs": 1176400,
+      "endMs": 1182400,
+      "en": "The terrain was a lot more technical than I was expecting, and we faced quite a few sort of crises along the way.",
+      "zh": "地形的技术难度远超我的预期，我们一路上还遇到了不少危机。"
+    },
+    {
+      "id": 215,
+      "startMs": 1182560,
+      "endMs": 1186640,
+      "en": "What sort of extreme weather conditions did you personally encounter on your run?",
+      "zh": "你在跑步过程中亲身遇到了哪些极端天气？"
+    },
+    {
+      "id": 216,
+      "startMs": 1187040,
+      "endMs": 1189520,
+      "en": "Oh, so we had two heatwaves, which was awesome.",
+      "zh": "我们遇到了两次热浪，感觉很棒。"
+    },
+    {
+      "id": 217,
+      "startMs": 1189920,
+      "endMs": 1195200,
+      "en": "I think it probably got up to about 37 degrees, which is a lot when you're at altitude running.",
+      "zh": "我想气温最高大约37度；在高海拔跑步时，这个温度相当高。"
+    },
+    {
+      "id": 218,
+      "startMs": 1195360,
+      "endMs": 1198480,
+      "en": "And then we also had some storms to contend with.",
+      "zh": "此外，我们还要应对一些暴风雨。"
+    },
+    {
+      "id": 219,
+      "startMs": 1198480,
+      "endMs": 1203860,
+      "en": "And then there were just all sorts of things, like the van had, you know, a flat tire.",
+      "zh": "后来还发生了各种各样的事，比如那辆面包车爆了胎。"
+    },
+    {
+      "id": 220,
+      "startMs": 1203860,
+      "endMs": 1207540,
+      "en": "At one point we had to deal with huge swarms of bugs.",
+      "zh": "有一次，我们不得不应对成群的虫子。"
+    },
+    {
+      "id": 221,
+      "startMs": 1207540,
+      "endMs": 1211300,
+      "en": "And it was, yeah, it was a challenging, a challenging time.",
+      "zh": "那确实是一段充满挑战、非常艰难的时期。"
+    },
+    {
+      "id": 222,
+      "startMs": 1211300,
+      "endMs": 1218980,
+      "en": "Not to mention, there were wildfires happening at the same time, so we had to divert because the route went right through them.",
+      "zh": "更不用说当时还同时发生了野火，我们不得不改道，因为路线正好穿过火场。"
+    },
+    {
+      "id": 223,
+      "startMs": 1219220,
+      "endMs": 1222260,
+      "en": "How do you prepare for something like this?",
+      "zh": "你如何为这样的挑战做准备？"
+    },
+    {
+      "id": 224,
+      "startMs": 1222500,
+      "endMs": 1225700,
+      "en": "I've been running ultramarathons for the last decade.",
+      "zh": "过去十年，我一直在跑超马。"
+    },
+    {
+      "id": 225,
+      "startMs": 1225940,
+      "endMs": 1231140,
+      "en": "I've run in some of the most incredible races around the world, and I think that really prepares you.",
+      "zh": "我参加过世界各地一些最不可思议的比赛，我认为这些经历确实能让你做好准备。"
+    },
+    {
+      "id": 226,
+      "startMs": 1231620,
+      "endMs": 1239060,
+      "en": "It's spending long days out by yourself, learning how to be strong and capable in the mountains",
+      "zh": "你需要独自在户外度过漫长的一天又一天，学会在山中变得强大而有能力，"
+    },
+    {
+      "id": 227,
+      "startMs": 1239060,
+      "endMs": 1244180,
+      "en": "and have skills to effectively save yourself in, you know, these sorts of conditions.",
+      "zh": "并掌握在这种环境中有效自救的技能。"
+    },
+    {
+      "id": 228,
+      "startMs": 1244500,
+      "endMs": 1246900,
+      "en": "It's something that you build over years of experience.",
+      "zh": "这些能力需要多年的经验积累。"
+    },
+    {
+      "id": 229,
+      "startMs": 1247220,
+      "endMs": 1252260,
+      "en": "But leading into this, I was very aware that my body was going to take a pretty big hit",
+      "zh": "但在开始之前，我很清楚自己的身体会承受相当大的冲击，"
+    },
+    {
+      "id": 230,
+      "startMs": 1252420,
+      "endMs": 1259220,
+      "en": "and so I was focusing a lot on my strength work, on making sure that I was eating really well",
+      "zh": "所以我很重视力量训练，也确保自己吃得非常好，"
+    },
+    {
+      "id": 231,
+      "startMs": 1259220,
+      "endMs": 1262100,
+      "en": "and making sure that I started with as many stores as I could.",
+      "zh": "并确保自己出发时尽可能做好储备。"
+    },
+    {
+      "id": 232,
+      "startMs": 1262360,
+      "endMs": 1267240,
+      "en": "I've had the most amazing adventure, which is why I got into this sport in the first place",
+      "zh": "我经历了一场最棒的冒险，这正是我当初投身这项运动的原因，"
+    },
+    {
+      "id": 233,
+      "startMs": 1267240,
+      "endMs": 1270440,
+      "en": "was to have adventures in incredible environments.",
+      "zh": "就是为了在不可思议的环境中冒险。"
+    },
+    {
+      "id": 234,
+      "startMs": 1270680,
+      "endMs": 1272520,
+      "en": "And how do you mentally prepare for this?",
+      "zh": "那你在心理上如何为此做准备？"
+    },
+    {
+      "id": 235,
+      "startMs": 1272760,
+      "endMs": 1275960,
+      "en": "The mental side of it is really important. I just keep moving.",
+      "zh": "心理层面非常重要。我只是不断前进。"
+    },
+    {
+      "id": 236,
+      "startMs": 1276200,
+      "endMs": 1278520,
+      "en": "No matter what happens, I just keep moving.",
+      "zh": "无论发生什么，我都只是继续前进。"
+    },
+    {
+      "id": 237,
+      "startMs": 1278840,
+      "endMs": 1285000,
+      "en": "There is always going to be that little voice in your head being like, 'Just have a wee seat, why not? There's one there.'",
+      "zh": "你脑中总会有个小声音说：“坐一会儿吧，为什么不呢？那里就有个位置。”"
+    },
+    {
+      "id": 238,
+      "startMs": 1285640,
+      "endMs": 1289560,
+      "en": "You know, nothing grows in the comfort zone, so you just got to keep moving forward.",
+      "zh": "舒适区里不会有成长，所以你得继续向前。"
+    },
+    {
+      "id": 239,
+      "startMs": 1289960,
+      "endMs": 1293160,
+      "en": "And I think if you practice that enough, it just becomes conditioning.",
+      "zh": "我认为只要充分练习，这就会变成一种条件反射。"
+    },
+    {
+      "id": 240,
+      "startMs": 1293560,
+      "endMs": 1299320,
+      "en": "And also the fact that I had so many people out there supporting me and cheering me on, like that is invaluable",
+      "zh": "而且还有那么多人在外面支持我、为我加油，这种支持无价，"
+    },
+    {
+      "id": 241,
+      "startMs": 1299320,
+      "endMs": 1303960,
+      "en": "to know that no matter what time of day I was out on the trail, if it was the middle of the night",
+      "zh": "因为无论我在什么时候、即使半夜仍在路上，"
+    },
+    {
+      "id": 242,
+      "startMs": 1303960,
+      "endMs": 1308920,
+      "en": "there were people somewhere in the world checking on my little dot, making sure that I was still moving.",
+      "zh": "世界某处都有人查看我的小点，确认我仍在前进。"
+    },
+    {
+      "id": 243,
+      "startMs": 1309080,
+      "endMs": 1315400,
+      "en": "That was Sophie Woods. We end in Canada, where a farmer is on a mission to solve food waste.",
+      "zh": "刚才是Sophie Woods。最后来到加拿大，一位农民正致力于解决食物浪费问题。"
+    },
+    {
+      "id": 244,
+      "startMs": 1315800,
+      "endMs": 1319720,
+      "en": "Tyler Heppell is a fifth-generation farmer in Cloverdale, British Columbia.",
+      "zh": "Tyler Heppell是卑诗省克洛弗代尔的第五代农民。"
+    },
+    {
+      "id": 245,
+      "startMs": 1320120,
+      "endMs": 1326700,
+      "en": "He got fed up of seeing produce that his family grew being rejected by supermarkets for being the wrong shape or size.",
+      "zh": "他厌倦了看到家人种的农产品因形状或大小不合标准而被超市拒收。"
+    },
+    {
+      "id": 246,
+      "startMs": 1327100,
+      "endMs": 1330700,
+      "en": "So he came up with an idea to host Ugly Potato Day.",
+      "zh": "于是他想出了举办“丑土豆日”的主意。"
+    },
+    {
+      "id": 247,
+      "startMs": 1331180,
+      "endMs": 1336700,
+      "en": "Last month, the event broke the Guinness World Record for the most fruits and vegetables given away in 24 hours.",
+      "zh": "上个月，这项活动打破了24小时内赠出最多水果和蔬菜的吉尼斯世界纪录。"
+    },
+    {
+      "id": 248,
+      "startMs": 1336700,
+      "endMs": 1342620,
+      "en": "The Happy Pod's Helena Burke spoke to Tyler about how he started Ugly Potato Day.",
+      "zh": "《The Happy Pod》的Helena Burke采访了Tyler，请他讲述如何创办“丑土豆日”。"
+    },
+    {
+      "id": 249,
+      "startMs": 1342860,
+      "endMs": 1346620,
+      "en": "I had around 50,000 followers, and I posted to my community",
+      "zh": "当时我大约有5万名关注者，于是我发帖邀请社区成员，"
+    },
+    {
+      "id": 250,
+      "startMs": 1346940,
+      "endMs": 1351740,
+      "en": "inviting them to come out to our farm on a Saturday and just grab some free potatoes.",
+      "zh": "请他们周六来我们的农场，免费拿些土豆。"
+    },
+    {
+      "id": 251,
+      "startMs": 1351900,
+      "endMs": 1359100,
+      "en": "And we had 12 people come out, and I remember feeling a little discouraged because it was over four hours in the sun.",
+      "zh": "结果只有12个人到场；我记得自己有些沮丧，因为在太阳下忙了四个多小时。"
+    },
+    {
+      "id": 252,
+      "startMs": 1359100,
+      "endMs": 1363580,
+      "en": "However, I had a really good conversation with one person who encouraged me to do it again.",
+      "zh": "不过，我和一位鼓励我再办一次的人进行了很好的交谈。"
+    },
+    {
+      "id": 253,
+      "startMs": 1363980,
+      "endMs": 1366140,
+      "en": "And so two weeks later we did it again",
+      "zh": "于是两周后，我们又办了一次，"
+    },
+    {
+      "id": 254,
+      "startMs": 1366220,
+      "endMs": 1369420,
+      "en": "and we kept kind of doing it that year every two weeks",
+      "zh": "那一年我们每两周就这样办一次，"
+    },
+    {
+      "id": 255,
+      "startMs": 1369420,
+      "endMs": 1371740,
+      "en": "and since then we've done it 24 times.",
+      "zh": "从那以后，我们已经办过24次。"
+    },
+    {
+      "id": 256,
+      "startMs": 1371900,
+      "endMs": 1375420,
+      "en": "We've definitely cut down the amount of times we do it per year",
+      "zh": "我们确实减少了每年的举办次数，"
+    },
+    {
+      "id": 257,
+      "startMs": 1375420,
+      "endMs": 1378940,
+      "en": "but we just had 37,000 people out to our last event.",
+      "zh": "但最近一次活动仍吸引了3.7万人到场。"
+    },
+    {
+      "id": 258,
+      "startMs": 1379020,
+      "endMs": 1380780,
+      "en": "And how does Ugly Potato Day work?",
+      "zh": "Ugly Potato Day如何运作？"
+    },
+    {
+      "id": 259,
+      "startMs": 1381020,
+      "endMs": 1386720,
+      "en": "People have to claim a free ticket. That's just to help us control the crowds, but the event is absolutely free.",
+      "zh": "人们需要领取免费门票，只是为了帮助我们控制人流，但活动完全免费。"
+    },
+    {
+      "id": 260,
+      "startMs": 1386720,
+      "endMs": 1392320,
+      "en": "We allow 2,500 people in at a time, and then we clear out a big barn.",
+      "zh": "我们一次允许2,500人入场，然后清空一座大谷仓。"
+    },
+    {
+      "id": 261,
+      "startMs": 1392480,
+      "endMs": 1400400,
+      "en": "We have these massive macro bins that hold 1,000 pounds of potatoes or 700 pounds of corn, and people can come and grab and fill up their bags.",
+      "zh": "我们有巨大的周转箱，能装1,000磅土豆或700磅玉米，人们可以来取食物，装满自己的袋子。"
+    },
+    {
+      "id": 262,
+      "startMs": 1400480,
+      "endMs": 1408720,
+      "en": "And then some of our higher-value stuff, like the apples and the tomatoes, we have volunteers monitoring how much people grab.",
+      "zh": "至于苹果和西红柿等价值较高的食材，我们会让志愿者监督人们取用的数量。"
+    },
+    {
+      "id": 263,
+      "startMs": 1408880,
+      "endMs": 1416880,
+      "en": "We've had people come to a dozen Ugly Potato Days, and we've heard that it's the only time they can have or afford fruit in the summer.",
+      "zh": "有人来过十几次Ugly Potato Day；我们听说，那是他们夏天唯一能吃得起水果的时候。"
+    },
+    {
+      "id": 264,
+      "startMs": 1417440,
+      "endMs": 1422560,
+      "en": "And so that warms our heart. You know, we have people that drive sometimes six hours to come to the event.",
+      "zh": "这让我们感到很温暖。有些人有时会开车六个小时来参加活动。"
+    },
+    {
+      "id": 265,
+      "startMs": 1422560,
+      "endMs": 1427920,
+      "en": "And we get an array of people, people who can't afford to feed their families of six",
+      "zh": "来的人形形色色，有人连一家六口的饭都负担不起，"
+    },
+    {
+      "id": 266,
+      "startMs": 1428000,
+      "endMs": 1434080,
+      "en": "and people that are doctors, and they just want to be a part of it, and they come grab a few potatoes and donate $50 to the cause.",
+      "zh": "也有医生；他们只是想参与其中，来拿几个土豆，并为这项事业捐出50美元。"
+    },
+    {
+      "id": 267,
+      "startMs": 1434240,
+      "endMs": 1441040,
+      "en": "There's actually nothing wrong with this produce, is there? It looks strange, maybe a bit too big or a bit too small, but does it taste any different?",
+      "zh": "这些农产品其实没什么问题，对吧？它们看起来很奇怪，可能太大或太小，但味道有不同吗？"
+    },
+    {
+      "id": 268,
+      "startMs": 1441280,
+      "endMs": 1444180,
+      "en": "No, and that's why we think it's the dumbest problem ever.",
+      "zh": "没有，所以我们觉得这真是最愚蠢的问题。"
+    },
+    {
+      "id": 269,
+      "startMs": 1444180,
+      "endMs": 1450900,
+      "en": "It tastes the exact same. It's still as nutritious and delicious; it just looks a bit weirder.",
+      "zh": "味道完全一样，依然营养又美味，只是看起来更奇怪一点。"
+    },
+    {
+      "id": 270,
+      "startMs": 1451220,
+      "endMs": 1455300,
+      "en": "At this year's Ugly Potato Day, you guys actually broke a Guinness World Record, didn't you?",
+      "zh": "在今年的Ugly Potato Day上，你们确实打破了一项吉尼斯世界纪录，对吧？"
+    },
+    {
+      "id": 271,
+      "startMs": 1455460,
+      "endMs": 1460980,
+      "en": "Yeah, we decided to go for the record this year. We were close last year, so we really pushed this year",
+      "zh": "是的，我们决定今年冲击这项纪录。去年我们已经很接近了，所以今年确实加大了力度，"
+    },
+    {
+      "id": 272,
+      "startMs": 1460980,
+      "endMs": 1470260,
+      "en": "and we ended up giving out 546,000 pounds of fresh fruits and vegetables, and then we actually gave a bit more than that too.",
+      "zh": "最终发放了546,000磅新鲜水果和蔬菜，而且实际上还不止这些。"
+    },
+    {
+      "id": 273,
+      "startMs": 1470260,
+      "endMs": 1475780,
+      "en": "But with the Guinness World Record, we had 24 hours to scan in what we were going to donate before we distributed it.",
+      "zh": "不过，按照吉尼斯世界纪录的要求，我们有24小时把要捐出的农产品扫描登记后，才能进行分发。"
+    },
+    {
+      "id": 274,
+      "startMs": 1475940,
+      "endMs": 1477940,
+      "en": "It was very euphoric. I'm happy we did it.",
+      "zh": "那种感觉令人极度兴奋。我很高兴我们做到了。"
+    },
+    {
+      "id": 275,
+      "startMs": 1478420,
+      "endMs": 1487780,
+      "en": "I know many farmers and scientists warn that rising extreme heatwaves worldwide will make wonky, misshapen vegetables increasingly common.",
+      "zh": "许多农民和科学家警告，全球极端热浪增加，会让古怪、畸形的蔬菜越来越常见。"
+    },
+    {
+      "id": 276,
+      "startMs": 1488180,
+      "endMs": 1490980,
+      "en": "Could Ugly Potato Day be a strategy for dealing with this?",
+      "zh": "Ugly Potato Day能成为应对这一问题的策略吗？"
+    },
+    {
+      "id": 277,
+      "startMs": 1491380,
+      "endMs": 1496740,
+      "en": "Yeah, I think Ugly Potato Day can really be a big solver of food insecurity.",
+      "zh": "是的，我认为Ugly Potato Day确实能大力解决粮食不安全问题。"
+    },
+    {
+      "id": 278,
+      "startMs": 1496900,
+      "endMs": 1502180,
+      "en": "We should know now that we actually grow enough food to feed everyone. It's just a distribution issue.",
+      "zh": "我们现在应该知道，我们种植的食物其实足够养活所有人，只是分配出了问题。"
+    },
+    {
+      "id": 279,
+      "startMs": 1502440,
+      "endMs": 1510040,
+      "en": "What we're trying to do here is show our community that just because produce isn't perfect doesn't mean it's not nutritious and delicious.",
+      "zh": "我们想做的是让社区明白，农产品不完美，并不意味着它不营养、不美味。"
+    },
+    {
+      "id": 280,
+      "startMs": 1510040,
+      "endMs": 1513640,
+      "en": "And it's going to take a lot of work to do that globally.",
+      "zh": "而要在全球做到这一点，还需要付出很多努力。"
+    },
+    {
+      "id": 281,
+      "startMs": 1513960,
+      "endMs": 1520360,
+      "en": "What do you hope The Happy Pod listeners take away from your story and what you've achieved with Ugly Potato Day?",
+      "zh": "你希望《The Happy Pod》听众从你的故事和Ugly Potato Day的成就中得到什么启示？"
+    },
+    {
+      "id": 282,
+      "startMs": 1520680,
+      "endMs": 1529960,
+      "en": "Don't give up on your beliefs. If I'd given up after twelve people came to Ugly Potato Day, I wouldn't be here now or have found my purpose.",
+      "zh": "不要放弃自己的信念。如果我在只有12人来到Ugly Potato Day后就放弃，就不会有今天，也不会找到人生目标。"
+    },
+    {
+      "id": 283,
+      "startMs": 1530200,
+      "endMs": 1539800,
+      "en": "Many people see someone else's achievement—30,000 people at their event—and say, 'I could never have that impact.'",
+      "zh": "我还觉得，很多人看到有人取得成就，比如活动来了3万人，就会说：“我永远不可能有那样的影响力。”"
+    },
+    {
+      "id": 284,
+      "startMs": 1539800,
+      "endMs": 1547960,
+      "en": "Well, you get the same grateful feeling from helping someone, even through one conversation at the grocery store where you go out of your way to help them.",
+      "zh": "你知道吗？帮助别人会带来同样的感恩感，哪怕只是在杂货店和某人聊一次，并特意伸手帮助对方。"
+    },
+    {
+      "id": 285,
+      "startMs": 1548040,
+      "endMs": 1553400,
+      "en": "Don't underestimate the small actions every day, because those can compound into doing something great.",
+      "zh": "不要低估每天微小的行动，因为它们可以积少成多，成就伟大的事情。"
+    },
+    {
+      "id": 286,
+      "startMs": 1553480,
+      "endMs": 1555960,
+      "en": "Tyler Heppell, speaking to Helena Burke.",
+      "zh": "Tyler Heppell接受Helena Burke采访。"
+    },
+    {
+      "id": 287,
+      "startMs": 1561260,
+      "endMs": 1568940,
+      "en": "And that's all from The Happy Pod for now. We'd love to hear from you. As ever, the address is globalpodcast@bbc.co.uk.",
+      "zh": "以上是本期《The Happy Pod》。我们期待你的来信，邮箱是globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 288,
+      "startMs": 1568940,
+      "endMs": 1576060,
+      "en": "The editor of this edition is Karen Martin. I'm Holly Gibbs. Until next time, goodbye.",
+      "zh": "本期编辑是Karen Martin。我是Holly Gibbs。下期再见。"
+    }
+  ]
+}

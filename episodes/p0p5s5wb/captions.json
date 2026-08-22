@@ -1,0 +1,2069 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "22 August 2026"
+  },
+  "durationMs": 1745240,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3920,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5680,
+      "endMs": 12560,
+      "en": "I'm Alex Ritson, and in the early hours of Saturday the 22nd of August, these are our main stories.",
+      "zh": "我是 Alex Ritson。8月22日星期六凌晨，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 13200,
+      "endMs": 20240,
+      "en": "A Russian drone attack on a shopping centre in central Ukraine has killed at least 16 people and injured 130.",
+      "zh": "俄罗斯无人机袭击乌克兰中部一座购物中心，至少16人死亡、130人受伤。"
+    },
+    {
+      "id": 4,
+      "startMs": 21200,
+      "endMs": 26960,
+      "en": "Donald Trump wins the latest round of a legal battle over his plans to build a huge White House ballroom.",
+      "zh": "唐纳德·特朗普在围绕建造白宫大型宴会厅计划的法律斗争中赢得最新一轮。"
+    },
+    {
+      "id": 5,
+      "startMs": 27520,
+      "endMs": 36800,
+      "en": "The Netherlands has fined the US tech company Uber hundreds of millions of dollars, one of the largest ever penalties issued under Europe's technology privacy rules.",
+      "zh": "荷兰对美国科技公司 Uber 处以数亿美元罚款，这是欧洲科技隐私规则下有史以来最大的处罚之一。"
+    },
+    {
+      "id": 6,
+      "startMs": 39480,
+      "endMs": 45720,
+      "en": "Also in this podcast, the United Nations says the Ebola outbreak in the Democratic Republic of Congo,",
+      "zh": "本期还将报道，联合国称刚果民主共和国的埃博拉疫情，"
+    },
+    {
+      "id": 7,
+      "startMs": 45960,
+      "endMs": 50360,
+      "en": "is the deadliest in the country's history, and it is growing exponentially.",
+      "zh": "是该国历史上最严重的疫情，而且正在呈指数级增长。"
+    },
+    {
+      "id": 8,
+      "startMs": 50760,
+      "endMs": 60440,
+      "en": "The epidemic is spreading to an area that is bigger than France, and the outbreak is growing faster and wider than the Ebola response.",
+      "zh": "疫情正扩散到比法国更大的区域，且扩散速度和范围都超过了埃博拉应对行动。"
+    },
+    {
+      "id": 9,
+      "startMs": 60920,
+      "endMs": 67880,
+      "en": "And a collection of handwritten notes by the Indian independence leader Mahatma Gandhi has been sold at auction.",
+      "zh": "一批印度独立运动领袖圣雄甘地的手写笔记已在拍卖会上售出。"
+    },
+    {
+      "id": 10,
+      "startMs": 72280,
+      "endMs": 77960,
+      "en": "It's not known what the strategic value of a Ukrainian shopping centre was to the Russian military,",
+      "zh": "目前尚不清楚一座乌克兰购物中心对俄罗斯军方有何战略价值，"
+    },
+    {
+      "id": 11,
+      "startMs": 77960,
+      "endMs": 82200,
+      "en": "which used drones to attack the building, killing at least 16 people.",
+      "zh": "俄军用无人机攻击了这座建筑，造成至少16人死亡。"
+    },
+    {
+      "id": 12,
+      "startMs": 82600,
+      "endMs": 87560,
+      "en": "But it's in Kryvyi Rih in central Ukraine, which is President Zelensky's hometown.",
+      "zh": "但购物中心位于乌克兰中部的克里维里赫，是泽连斯基总统的故乡。"
+    },
+    {
+      "id": 13,
+      "startMs": 87640,
+      "endMs": 90360,
+      "en": "In his nightly address, he condemned the attack.",
+      "zh": "他在晚间讲话中谴责了这次袭击。"
+    },
+    {
+      "id": 14,
+      "startMs": 90760,
+      "endMs": 95320,
+      "en": "A rescue operation is currently underway.",
+      "zh": "救援行动目前仍在进行。"
+    },
+    {
+      "id": 15,
+      "startMs": 95320,
+      "endMs": 98200,
+      "en": "This is an absolute atrocity committed by the Russians.",
+      "zh": "这是俄罗斯人犯下的绝对暴行。"
+    },
+    {
+      "id": 16,
+      "startMs": 98440,
+      "endMs": 99880,
+      "en": "They're nothing but beasts.",
+      "zh": "他们不过是一群野兽。"
+    },
+    {
+      "id": 17,
+      "startMs": 100280,
+      "endMs": 101720,
+      "en": "We will definitely respond.",
+      "zh": "我们一定会作出回应。"
+    },
+    {
+      "id": 18,
+      "startMs": 101800,
+      "endMs": 105240,
+      "en": "It's crucial that we have everything we need to protect lives.",
+      "zh": "至关重要的是，我们拥有保护生命所需的一切。"
+    },
+    {
+      "id": 19,
+      "startMs": 105240,
+      "endMs": 109000,
+      "en": "It's important that the world doesn't remain silent about all of this.",
+      "zh": "世界不能对此保持沉默，这一点很重要。"
+    },
+    {
+      "id": 20,
+      "startMs": 109320,
+      "endMs": 113240,
+      "en": "This Russian war must come to an end, and the world must help us achieve that.",
+      "zh": "这场俄罗斯战争必须结束，全世界都必须帮助我们实现这一点。"
+    },
+    {
+      "id": 21,
+      "startMs": 113880,
+      "endMs": 119000,
+      "en": "The authorities said that around 130 people were wounded, more than 20 of them children.",
+      "zh": "当局称约有130人受伤，其中20多人是儿童。"
+    },
+    {
+      "id": 22,
+      "startMs": 119240,
+      "endMs": 121720,
+      "en": "Svetlana worked at a store in the shopping centre.",
+      "zh": "Svetlana 在购物中心的一家商店工作。"
+    },
+    {
+      "id": 23,
+      "startMs": 121720,
+      "endMs": 128760,
+      "en": "I thought my earbuds had burst in my ear, then mirrors started falling.",
+      "zh": "我以为是耳塞在耳朵里爆了，随后镜子开始掉落。"
+    },
+    {
+      "id": 24,
+      "startMs": 129000,
+      "endMs": 133100,
+      "en": "I went out, thought it was all over, and started walking back and forth.",
+      "zh": "我走了出去，以为一切都结束了，便开始来回走动。"
+    },
+    {
+      "id": 25,
+      "startMs": 133420,
+      "endMs": 135740,
+      "en": "Then I saw my friend, who was covered in blood.",
+      "zh": "接着，我看到了浑身是血的朋友。"
+    },
+    {
+      "id": 26,
+      "startMs": 136060,
+      "endMs": 137420,
+      "en": "I took a bottle of water.",
+      "zh": "我拿了一瓶水。"
+    },
+    {
+      "id": 27,
+      "startMs": 137660,
+      "endMs": 141100,
+      "en": "He was moving on his own, but had lots of shrapnel wounds.",
+      "zh": "他还能自己移动，但身上有很多弹片伤。"
+    },
+    {
+      "id": 28,
+      "startMs": 141420,
+      "endMs": 144940,
+      "en": "I laid him down and an ambulance arrived and took him away.",
+      "zh": "我把他放下，救护车赶到后把他带走了。"
+    },
+    {
+      "id": 29,
+      "startMs": 145020,
+      "endMs": 148460,
+      "en": "I got the latest from our Ukraine correspondent, Dan Johnson.",
+      "zh": "以下是乌克兰记者 Dan Johnson 带来的最新消息。"
+    },
+    {
+      "id": 30,
+      "startMs": 149020,
+      "endMs": 155580,
+      "en": "The search and rescue operations are still ongoing there, we're told, and so the death toll keeps rising.",
+      "zh": "据我们了解，搜救行动仍在进行，因此死亡人数还在上升。"
+    },
+    {
+      "id": 31,
+      "startMs": 155580,
+      "endMs": 162700,
+      "en": "The number of wounded has been increasing, more than a hundred people who were hurt in this, as well as those killed.",
+      "zh": "伤者人数一直在增加，受伤者已超过100人，此外还有死者。"
+    },
+    {
+      "id": 32,
+      "startMs": 162940,
+      "endMs": 170460,
+      "en": "It looks like a classic example of the worst kind of double-tap attack, as it is called.",
+      "zh": "这看起来是所谓“双击”袭击中最典型、也是最糟糕的一种。"
+    },
+    {
+      "id": 33,
+      "startMs": 170700,
+      "endMs": 179900,
+      "en": "We've had footage from the scene verified, which shows the first drone hitting the shopping centre, an explosion and a fire,",
+      "zh": "我们已经核实了现场画面，显示第一架无人机撞击购物中心，发生爆炸并引发火灾，"
+    },
+    {
+      "id": 34,
+      "startMs": 180460,
+      "endMs": 186460,
+      "en": "and then President Zelensky said it was half an hour later that a second drone hit the centre,",
+      "zh": "随后泽连斯基总统说，半小时后第二架无人机袭击了购物中心，"
+    },
+    {
+      "id": 35,
+      "startMs": 186700,
+      "endMs": 193200,
+      "en": "once the first emergency responders were there trying to treat those who'd already been wounded.",
+      "zh": "当第一批急救人员赶到、试图救治已经受伤的人时。"
+    },
+    {
+      "id": 36,
+      "startMs": 193440,
+      "endMs": 201280,
+      "en": "The video of that shows another, what appears to be a Shahed jet-powered drone, diving from the sky towards the centre.",
+      "zh": "相关视频显示，另一架疑似沙赫德喷气动力无人机从空中俯冲向购物中心。"
+    },
+    {
+      "id": 37,
+      "startMs": 201280,
+      "endMs": 209840,
+      "en": "You can actually hear Ukrainian soldiers or air defence units trying to shoot it down with machine-gun fire, but they were unsuccessful.",
+      "zh": "你实际上能听到乌克兰士兵或防空部队用机枪扫射，试图将它击落，但他们没有成功。"
+    },
+    {
+      "id": 38,
+      "startMs": 209840,
+      "endMs": 214480,
+      "en": "So that second drone has hit, causing more deaths and more injuries.",
+      "zh": "因此第二架无人机撞上了目标，造成更多人死亡和受伤。"
+    },
+    {
+      "id": 39,
+      "startMs": 214720,
+      "endMs": 218160,
+      "en": "The president, who is actually from Kryvyi Rih, the city where this happened,",
+      "zh": "总统本人来自事发城市克里维里赫，"
+    },
+    {
+      "id": 40,
+      "startMs": 218480,
+      "endMs": 225200,
+      "en": "said this was a cynical attack and that he's been talking to the UN Secretary-General.",
+      "zh": "他说这是一次冷酷的袭击，而且一直在与联合国秘书长交谈。"
+    },
+    {
+      "id": 41,
+      "startMs": 225360,
+      "endMs": 227120,
+      "en": "I think that was a call that was set up anyway,",
+      "zh": "我想那通电话本来就已经安排好了，"
+    },
+    {
+      "id": 42,
+      "startMs": 227120,
+      "endMs": 235840,
+      "en": "but he's used the opportunity to highlight what he said was the Russian targeting of civilians in such a clear and cynical way.",
+      "zh": "但他借此机会强调了他所说的俄罗斯以如此明显而冷酷的方式针对平民。"
+    },
+    {
+      "id": 43,
+      "startMs": 236080,
+      "endMs": 243360,
+      "en": "Trying to shoot a drone like this down with machine guns doesn't sound ideal.",
+      "zh": "用机枪击落这样的无人机，听起来并不理想。"
+    },
+    {
+      "id": 44,
+      "startMs": 243360,
+      "endMs": 248240,
+      "en": "I mean, are there better ways, and does Kyiv have the technology that it needs?",
+      "zh": "我是说，有没有更好的办法？基辅拥有所需的技术吗？"
+    },
+    {
+      "id": 45,
+      "startMs": 248480,
+      "endMs": 251680,
+      "en": "Air defences across Ukraine have been overstretched,",
+      "zh": "乌克兰各地的防空系统都不堪重负，"
+    },
+    {
+      "id": 46,
+      "startMs": 251860,
+      "endMs": 257460,
+      "en": "particularly in terms of incoming missiles. The record in shooting down drones had been better.",
+      "zh": "尤其是在应对来袭导弹方面；但击落无人机的记录原本更好。"
+    },
+    {
+      "id": 47,
+      "startMs": 257700,
+      "endMs": 263220,
+      "en": "We know an air-raid alert had gone out in Kryvyi Rih, the city where this shopping centre was.",
+      "zh": "我们知道，克里维里赫曾拉响空袭警报，这就是购物中心所在的城市。"
+    },
+    {
+      "id": 48,
+      "startMs": 263460,
+      "endMs": 268500,
+      "en": "There's actually been an investigation launched, the regional head of government has said,",
+      "zh": "当地政府负责人说，已经展开调查；"
+    },
+    {
+      "id": 49,
+      "startMs": 268820,
+      "endMs": 274100,
+      "en": "into why that centre was still open and some of the stores were open despite the air-raid alert.",
+      "zh": "调查购物中心和部分商店为何在空袭警报响起时仍然营业。"
+    },
+    {
+      "id": 50,
+      "startMs": 274100,
+      "endMs": 278820,
+      "en": "That's an indication of how relaxed some Ukrainians have become,",
+      "zh": "这表明一些乌克兰人已经变得多么放松，"
+    },
+    {
+      "id": 51,
+      "startMs": 279060,
+      "endMs": 286100,
+      "en": "because after four and a half years of hearing those sirens, not everybody reacts as suddenly as perhaps they would have at the start of this.",
+      "zh": "因为听了四年半的警报后，并不是每个人都像战争初期那样迅速作出反应。"
+    },
+    {
+      "id": 52,
+      "startMs": 286100,
+      "endMs": 292260,
+      "en": "But this is a jet-powered drone, we understand, at least that second one that we've been able to see on video.",
+      "zh": "但据我们了解，这是一架喷气动力无人机，至少我们在视频中看到的第二架是这样。"
+    },
+    {
+      "id": 53,
+      "startMs": 292260,
+      "endMs": 295380,
+      "en": "That is a relatively new innovation from the Russians.",
+      "zh": "这是一项俄罗斯人相对较新的创新。"
+    },
+    {
+      "id": 54,
+      "startMs": 295380,
+      "endMs": 301460,
+      "en": "They've taken the old propeller-powered, motor-powered Shahed, which was relatively slow-moving.",
+      "zh": "他们采用了老式的螺旋桨动力、发动机驱动的沙赫德无人机，它飞得相对缓慢。"
+    },
+    {
+      "id": 55,
+      "startMs": 301700,
+      "endMs": 307860,
+      "en": "They've put a jet engine on that instead, which means it moves much faster and is much harder to shoot down.",
+      "zh": "他们换上了喷气发动机，这意味着它飞得快得多，也更难击落。"
+    },
+    {
+      "id": 56,
+      "startMs": 307860,
+      "endMs": 313160,
+      "en": "And by the time they're effectively firing at it with a machine gun from the back of a four-by-four,",
+      "zh": "而当他们实际上从一辆四驱车后方用机枪向它射击时，"
+    },
+    {
+      "id": 57,
+      "startMs": 313240,
+      "endMs": 318120,
+      "en": "that is really a last desperate effort to try to bring down a drone to save people.",
+      "zh": "那确实是试图击落无人机、拯救人们的最后绝望之举。"
+    },
+    {
+      "id": 58,
+      "startMs": 318120,
+      "endMs": 325400,
+      "en": "But by that point, it was already heading for its target, and there was very little chance of actually stopping it doing the further damage that was inflicted.",
+      "zh": "但那时它已经朝目标飞去，几乎不可能阻止它造成进一步损害。"
+    },
+    {
+      "id": 59,
+      "startMs": 325960,
+      "endMs": 327560,
+      "en": "Dan Johnson in Kyiv.",
+      "zh": "Dan Johnson 在基辅报道。"
+    },
+    {
+      "id": 60,
+      "startMs": 328360,
+      "endMs": 332040,
+      "en": "Donald Trump has won the latest round in an ongoing legal battle.",
+      "zh": "唐纳德·特朗普在一场持续的法律战中赢得了最新一轮胜利。"
+    },
+    {
+      "id": 61,
+      "startMs": 332040,
+      "endMs": 335720,
+      "en": "It concerns his plans to rebuild the entire East Wing of the White House.",
+      "zh": "这场法律战涉及他重建白宫整个东翼的计划。"
+    },
+    {
+      "id": 62,
+      "startMs": 336120,
+      "endMs": 341960,
+      "en": "The US Supreme Court says work can temporarily resume on a massive 8,400 square metre ballroom.",
+      "zh": "美国最高法院表示，一座面积8400平方米的巨型宴会厅可以暂时复工。"
+    },
+    {
+      "id": 63,
+      "startMs": 342360,
+      "endMs": 347160,
+      "en": "It is a key part of the president's plans to extensively reshape the US capital.",
+      "zh": "这是总统大幅改造美国首都计划的关键部分。"
+    },
+    {
+      "id": 64,
+      "startMs": 347480,
+      "endMs": 351400,
+      "en": "The decision gives judges more time to consider Trump's emergency appeal.",
+      "zh": "这项决定让法官有更多时间审议特朗普的紧急上诉。"
+    },
+    {
+      "id": 65,
+      "startMs": 351400,
+      "endMs": 356600,
+      "en": "That follows a lower court ruling demanding a halt to construction by Friday.",
+      "zh": "此前下级法院裁定，要求在周五之前停止施工。"
+    },
+    {
+      "id": 66,
+      "startMs": 357080,
+      "endMs": 362840,
+      "en": "Oliver Conway asked our White House reporter, Bernd Debusmann, for his assessment of the latest ruling.",
+      "zh": "奥利弗·康韦请本台白宫记者贝恩德·德布斯曼评估这项最新裁决。"
+    },
+    {
+      "id": 67,
+      "startMs": 363400,
+      "endMs": 366680,
+      "en": "The action is known as an administrative stay.",
+      "zh": "这一行动被称为行政暂缓令。"
+    },
+    {
+      "id": 68,
+      "startMs": 366680,
+      "endMs": 373560,
+      "en": "It gives the justices time to consider the administration's broader request to let work continue on the ballroom.",
+      "zh": "这让大法官有时间考虑政府允许宴会厅继续施工的更广泛请求。"
+    },
+    {
+      "id": 69,
+      "startMs": 373880,
+      "endMs": 382600,
+      "en": "President Trump will be pleased. Recently, he has framed this as more than the ballroom initially envisioned when announced last year.",
+      "zh": "特朗普总统会很高兴。近来，他把这描述成不只是去年宣布时最初设想的宴会厅。"
+    },
+    {
+      "id": 70,
+      "startMs": 382600,
+      "endMs": 390780,
+      "en": "He presents it more as a national security complex, vital to protect presidents, their families and important guests in the future.",
+      "zh": "他更多地将其描述为国家安全综合设施，对未来保护总统、总统家属和重要宾客至关重要。"
+    },
+    {
+      "id": 71,
+      "startMs": 390780,
+      "endMs": 398140,
+      "en": "From just outside the White House, I can see two massive cranes over what used to be the East Wing of the White House.",
+      "zh": "我就在白宫外，可以看到两台巨型起重机矗立在原白宫东翼的位置。"
+    },
+    {
+      "id": 72,
+      "startMs": 398540,
+      "endMs": 408780,
+      "en": "Last week, the administration's attorneys said the work was about 65% done, and since then reporters have been seeing and hearing work continue.",
+      "zh": "上周，政府律师说工程已完成约65%；此后，记者一直看到并听到工程继续进行。"
+    },
+    {
+      "id": 73,
+      "startMs": 409100,
+      "endMs": 413020,
+      "en": "Sometimes it continues for much of the day, 20 hours a day in some instances.",
+      "zh": "工程有时持续一天中的大部分时间，个别情况下每天长达20小时。"
+    },
+    {
+      "id": 74,
+      "startMs": 413420,
+      "endMs": 419180,
+      "en": "So it's very much a work in progress, even as this whole legal battle has been playing out in the US court system.",
+      "zh": "所以工程仍在进行中，而整场法律战也一直在美国法院系统展开。"
+    },
+    {
+      "id": 75,
+      "startMs": 419500,
+      "endMs": 422620,
+      "en": "And is it an issue that American voters actually care about?",
+      "zh": "美国选民真的在意这个问题吗？"
+    },
+    {
+      "id": 76,
+      "startMs": 422620,
+      "endMs": 431820,
+      "en": "I think many Americans are purists who think these historical sites should be kept in place.",
+      "zh": "我认为，许多美国人比较守旧，认为这些历史遗址应当保留原貌。"
+    },
+    {
+      "id": 77,
+      "startMs": 432220,
+      "endMs": 442140,
+      "en": "They bought the argument in the initial lawsuit that this process requires a more formal review with public comment invited.",
+      "zh": "他们接受最初诉讼中的观点，即这一过程需要更正式的审查，并征求公众意见。"
+    },
+    {
+      "id": 78,
+      "startMs": 442540,
+      "endMs": 448620,
+      "en": "On the other hand, many of the president's supporters support having the ballroom built.",
+      "zh": "另一方面，许多总统支持者当然支持建造宴会厅。"
+    },
+    {
+      "id": 79,
+      "startMs": 448320,
+      "endMs": 455280,
+      "en": "Especially now that it's been framed from a security perspective, given the multiple attempts on President Trump's life.",
+      "zh": "尤其是现在它被赋予了安全层面的意义，毕竟特朗普总统曾多次遭遇袭击。"
+    },
+    {
+      "id": 80,
+      "startMs": 455360,
+      "endMs": 459040,
+      "en": "And does this suggest that the ballroom will ultimately get completed?",
+      "zh": "这是否意味着宴会厅最终会完工？"
+    },
+    {
+      "id": 81,
+      "startMs": 459440,
+      "endMs": 465840,
+      "en": "The fact remains that the East Wing of the White House is gone, and much of this project is already built.",
+      "zh": "事实是，白宫东翼已经不复存在，而这项工程大部分已经建成。"
+    },
+    {
+      "id": 82,
+      "startMs": 466480,
+      "endMs": 470880,
+      "en": "Whether or not it continues, the White House has already been transformed for the future.",
+      "zh": "无论工程是否继续，白宫已经为未来发生了改变。"
+    },
+    {
+      "id": 83,
+      "startMs": 470880,
+      "endMs": 476000,
+      "en": "I see very little possibility of it going back to the way it was.",
+      "zh": "我认为它几乎不可能恢复原状。"
+    },
+    {
+      "id": 84,
+      "startMs": 476940,
+      "endMs": 483180,
+      "en": "Bernd Debusmann. In the last few hours, President Trump has said he's grateful for the Supreme Court's decision.",
+      "zh": "贝恩德·德布斯曼报道。过去几小时，特朗普总统表示感谢最高法院的决定。"
+    },
+    {
+      "id": 85,
+      "startMs": 484080,
+      "endMs": 490320,
+      "en": "The Netherlands has fined the US tech company Uber 966 million dollars.",
+      "zh": "荷兰对美国科技公司优步处以9.66亿美元罚款。"
+    },
+    {
+      "id": 86,
+      "startMs": 490400,
+      "endMs": 495120,
+      "en": "It is one of the largest ever penalties issued under Europe's technology privacy rules.",
+      "zh": "这是欧洲科技隐私规则下开出的最大罚款之一。"
+    },
+    {
+      "id": 87,
+      "startMs": 495520,
+      "endMs": 503600,
+      "en": "The Dutch regulator says the ride-hailing group used automated systems to deactivate driver accounts without adequate warning.",
+      "zh": "荷兰监管机构称，这家网约车集团使用自动系统停用司机账户，却没有给予充分警告。"
+    },
+    {
+      "id": 88,
+      "startMs": 503760,
+      "endMs": 510080,
+      "en": "It's the latest huge fine from European regulators, who've imposed billions of dollars in penalties.",
+      "zh": "这是欧洲监管机构开出的又一笔巨额罚款；它们已处以数十亿美元罚款。"
+    },
+    {
+      "id": 89,
+      "startMs": 510400,
+      "endMs": 515760,
+      "en": "Those penalties target US tech companies over privacy, competition and digital market rules.",
+      "zh": "这些罚款针对美国科技公司违反隐私、竞争和数字市场规则的行为。"
+    },
+    {
+      "id": 90,
+      "startMs": 516160,
+      "endMs": 519120,
+      "en": "The BBC's Pete Ross has been investigating the story.",
+      "zh": "BBC记者皮特·罗斯一直在调查此事。"
+    },
+    {
+      "id": 91,
+      "startMs": 519600,
+      "endMs": 527200,
+      "en": "This particular case began with complaints from drivers in France and relates to events between 2020 and 2022.",
+      "zh": "这起案件源于法国司机的投诉，涉及2020年至2022年间发生的事件。"
+    },
+    {
+      "id": 92,
+      "startMs": 528320,
+      "endMs": 538000,
+      "en": "Uber temporarily suspended some drivers' accounts when its systems concluded, without human intervention or oversight, that they were guilty of fraud.",
+      "zh": "优步的系统认定一些司机涉嫌欺诈后，曾在无人干预或监督的情况下暂时停用他们的账户。"
+    },
+    {
+      "id": 93,
+      "startMs": 538080,
+      "endMs": 545940,
+      "en": "When we say fraud, examples could be drivers taking a longer route than necessary in order to inflate fares.",
+      "zh": "所谓欺诈，例如司机为了抬高车费而绕更远的路。"
+    },
+    {
+      "id": 94,
+      "startMs": 546340,
+      "endMs": 554580,
+      "en": "Or so-called ghost rides, involving drivers accepting a trip and then sitting still without moving.",
+      "zh": "或者所谓的“幽灵行程”：司机接单后坐着不动。"
+    },
+    {
+      "id": 95,
+      "startMs": 554660,
+      "endMs": 560660,
+      "en": "Whoever hailed the ride would get frustrated, cancel, and then the driver gets a cash payment.",
+      "zh": "叫车的人会感到沮丧并取消行程，随后司机会收到一笔现金款项。"
+    },
+    {
+      "id": 96,
+      "startMs": 560660,
+      "endMs": 564900,
+      "en": "The driver gets that payment without doing any work or, perhaps crucially, using any gas.",
+      "zh": "司机无需真正接送乘客，或更重要的是，无需消耗汽油，就能得到这笔钱。"
+    },
+    {
+      "id": 97,
+      "startMs": 565060,
+      "endMs": 572820,
+      "en": "Uber says suspensions under the automated detection system for suspected scams were usually brief.",
+      "zh": "优步称，在自动检测系统下，涉嫌这类骗局的司机通常只会被短暂停用账户。"
+    },
+    {
+      "id": 98,
+      "startMs": 572980,
+      "endMs": 582660,
+      "en": "However, the Dutch regulator says drivers caught by this system who also had a low rating found themselves permanently locked out.",
+      "zh": "但荷兰监管机构称，被该系统抓到且评分较低的司机发现自己被永久锁在账户外。"
+    },
+    {
+      "id": 99,
+      "startMs": 582820,
+      "endMs": 585380,
+      "en": "They were locked out by computer. That breaches its rules.",
+      "zh": "他们被电脑系统锁在账户外，这违反了相关规定。"
+    },
+    {
+      "id": 100,
+      "startMs": 585460,
+      "endMs": 590260,
+      "en": "Essentially, Uber drivers might open their account to find they could no longer access it.",
+      "zh": "也就是说，优步司机打开账户时，可能会发现自己再也无法登录。"
+    },
+    {
+      "id": 101,
+      "startMs": 590500,
+      "endMs": 598100,
+      "en": "They couldn't go out and earn a living, and that contravenes the GDPR, the European General Data Protection Regulation rules.",
+      "zh": "他们无法继续工作谋生，这违反了《通用数据保护条例》（GDPR）的规定。"
+    },
+    {
+      "id": 102,
+      "startMs": 598180,
+      "endMs": 606680,
+      "en": "Those rules essentially say, among other things, that computers automatically making decisions",
+      "zh": "这些规定大意是，除其他事项外，由电脑自动作出决定，"
+    },
+    {
+      "id": 103,
+      "startMs": 606680,
+      "endMs": 610200,
+      "en": "that would impinge on someone's employment is against the rules.",
+      "zh": "如果会影响某人的就业，就违反了规定。"
+    },
+    {
+      "id": 104,
+      "startMs": 610200,
+      "endMs": 614680,
+      "en": "Uber disputes that this happened and is going to appeal the latest fine.",
+      "zh": "优步否认发生过这种情况，并将对这笔最新罚款提出上诉。"
+    },
+    {
+      "id": 105,
+      "startMs": 614920,
+      "endMs": 624280,
+      "en": "Yeah, it's an enormous fine and an interesting case, but Uber is far from the only big US tech company to fall foul of European regulators.",
+      "zh": "是的，这笔罚款数额惊人，案件也很有意思，但优步远非唯一触犯欧洲监管规定的美国科技巨头。"
+    },
+    {
+      "id": 106,
+      "startMs": 624360,
+      "endMs": 633800,
+      "en": "Absolutely. Meta, Google, Apple and Amazon all face multiple fines, all of them being appealed.",
+      "zh": "当然。Meta、谷歌、苹果和亚马逊都面临多笔罚款，而且都在上诉。"
+    },
+    {
+      "id": 107,
+      "startMs": 634120,
+      "endMs": 640280,
+      "en": "The biggest of those came in 2023 over privacy violations under Ireland's Data Protection Commission.",
+      "zh": "其中最大的一笔发生在2023年，涉及爱尔兰数据保护委员会认定的隐私违规。"
+    },
+    {
+      "id": 108,
+      "startMs": 640680,
+      "endMs": 649000,
+      "en": "Meta, the company responsible for Facebook and Instagram, was hit with a 1.3 billion dollar fine.",
+      "zh": "负责运营脸书和Instagram的Meta被处以13亿美元罚款。"
+    },
+    {
+      "id": 109,
+      "startMs": 649000,
+      "endMs": 652200,
+      "en": "The US group is currently appealing that penalty too.",
+      "zh": "这家美国集团目前也在对这笔罚款提出上诉。"
+    },
+    {
+      "id": 110,
+      "startMs": 652520,
+      "endMs": 657240,
+      "en": "And one person who's not happy about these fines is Donald Trump.",
+      "zh": "还有一个人对这些罚款不满，那就是唐纳德·特朗普。"
+    },
+    {
+      "id": 111,
+      "startMs": 657320,
+      "endMs": 663400,
+      "en": "Donald Trump's administration has frequently clashed with Europe's General Data Protection Regulation, the GDPR.",
+      "zh": "唐纳德·特朗普政府经常与欧洲的《通用数据保护条例》（GDPR）发生冲突。"
+    },
+    {
+      "id": 112,
+      "startMs": 664300,
+      "endMs": 668700,
+      "en": "It says that the regulation prevents the American tech industry from being able to thrive.",
+      "zh": "特朗普政府称，该条例妨碍美国科技行业发展。"
+    },
+    {
+      "id": 113,
+      "startMs": 668940,
+      "endMs": 676620,
+      "en": "Recently, he wrote on his Truth Social network that the United States of America is not a piggy bank for Europe.",
+      "zh": "最近，他在Truth Social平台上写道，美国不是欧洲的提款机。"
+    },
+    {
+      "id": 114,
+      "startMs": 676780,
+      "endMs": 680140,
+      "en": "Nor will it be allowed. Pete Ross.",
+      "zh": "美国也不会被允许沦为提款机。皮特·罗斯报道。"
+    },
+    {
+      "id": 115,
+      "startMs": 681220,
+      "endMs": 691540,
+      "en": "Argentina won few friends with their post-match antics at the World Cup, unfurling a banner after beating England in the semi-final.",
+      "zh": "阿根廷队在世界杯上的赛后行为并未赢得多少好感，他们在半决赛击败英格兰后展开了一面横幅。"
+    },
+    {
+      "id": 116,
+      "startMs": 691620,
+      "endMs": 695620,
+      "en": "Then they lashed out when they lost to Spain in the final.",
+      "zh": "而在决赛输给西班牙后，他们又大打出手。"
+    },
+    {
+      "id": 117,
+      "startMs": 695620,
+      "endMs": 703540,
+      "en": "Now, football's world governing body, FIFA, has fined Argentina a total of $321,000 for breaches of discipline and handed out lengthy suspensions",
+      "zh": "如今，足球世界管理机构国际足联以违反纪律为由，对阿根廷处以总计32.1万美元的罚款，并对多名球员处以长期禁赛。"
+    },
+    {
+      "id": 118,
+      "startMs": 703540,
+      "endMs": 707460,
+      "en": "to several players. The details from our sports presenter, Lizzie Greenwood-Hughes.",
+      "zh": "以下是我们的体育节目主持人莉齐·格林伍德-休斯带来的详情。"
+    },
+    {
+      "id": 119,
+      "startMs": 707540,
+      "endMs": 717460,
+      "en": "The FIFA Disciplinary Committee have taken their time with this case, and they've come down hard, it has to be said, because there are two separate issues here.",
+      "zh": "国际足联纪律委员会花了很长时间处理此案，而且必须说，他们的处罚很重，因为这里涉及两个不同的问题。"
+    },
+    {
+      "id": 120,
+      "startMs": 717460,
+      "endMs": 726500,
+      "en": "Firstly, the Falklands banner which the Argentina players carried after the World Cup semi-final when they won over England.",
+      "zh": "首先是福克兰群岛横幅：阿根廷球员在世界杯半决赛战胜英格兰后，带着这面横幅走上场。"
+    },
+    {
+      "id": 121,
+      "startMs": 726500,
+      "endMs": 729060,
+      "en": "The second: a fight and racist comments after the final against Spain.",
+      "zh": "第二个是对阵西班牙决赛后的斗殴和种族主义言论。"
+    },
+    {
+      "id": 122,
+      "startMs": 729060,
+      "endMs": 734980,
+      "en": "Well, let's look at the banner first of all, which Argentine players brought out after beating England in Atlanta.",
+      "zh": "先来看这面横幅：阿根廷球员在亚特兰大击败英格兰后拿出了它。"
+    },
+    {
+      "id": 123,
+      "startMs": 734980,
+      "endMs": 742040,
+      "en": "The banner said, ‘The Malvinas are Argentina's,’ which is obviously politically very sensitive, controversial and incendiary",
+      "zh": "横幅上写着“马尔维纳斯群岛属于阿根廷”，这显然在政治上极其敏感、具有争议性和煽动性。"
+    },
+    {
+      "id": 124,
+      "startMs": 742120,
+      "endMs": 748360,
+      "en": "particularly, of course, following the conflict there in 1982, during which many lives were lost from both sides.",
+      "zh": "尤其是在1982年那场冲突之后，双方都有许多人丧生。"
+    },
+    {
+      "id": 125,
+      "startMs": 748600,
+      "endMs": 755880,
+      "en": "So the banner clearly breached FIFA's rules, which say no team, individual or spectator is allowed to use a FIFA sporting event for demonstrations of a non-sporting nature.",
+      "zh": "因此，这面横幅明显违反了国际足联规定：任何球队、个人或观众都不得利用国际足联赛事进行非体育性质的示威。"
+    },
+    {
+      "id": 126,
+      "startMs": 756280,
+      "endMs": 759880,
+      "en": "And it's also not the first time Argentina have been in trouble over Falkland banners.",
+      "zh": "这也不是阿根廷第一次因福克兰群岛横幅惹上麻烦。"
+    },
+    {
+      "id": 127,
+      "startMs": 760200,
+      "endMs": 766200,
+      "en": "In 2014, ahead of the World Cup in Brazil, their players displayed the same slogan before a friendly match.",
+      "zh": "2014年巴西世界杯前，他们的球员在一场友谊赛前展示了同样的口号。"
+    },
+    {
+      "id": 128,
+      "startMs": 766200,
+      "endMs": 779320,
+      "en": "Now then, FIFA only fined them $27,000, but we don't know how much of this fine is for the banner, because $321,000 is what FIFA have given to the Argentina FA.",
+      "zh": "当时国际足联只罚了他们2.7万美元；但国际足联这次对阿根廷足协共罚款32.1万美元，我们不知道其中多少针对横幅。"
+    },
+    {
+      "id": 129,
+      "startMs": 779320,
+      "endMs": 787080,
+      "en": "It also relates to the Argentina players' behaviour after the final against Spain, when they'd comfortably won the match and a fight broke out on the pitch.",
+      "zh": "处罚也涉及阿根廷球员在对阵西班牙的决赛后所作所为：他们轻松赢下比赛后，场上爆发了斗殴。"
+    },
+    {
+      "id": 130,
+      "startMs": 787160,
+      "endMs": 797960,
+      "en": "Now FIFA deemed that the Argentina Football Association broke rules on team misconduct, discrimination, and racist and discriminatory chants and gestures by its supporters.",
+      "zh": "国际足联认定，阿根廷足协违反了有关球队不当行为、歧视，以及支持者种族主义和歧视性口号与手势的规定。"
+    },
+    {
+      "id": 131,
+      "startMs": 798280,
+      "endMs": 801080,
+      "en": "And lastly, it failed to keep order and security.",
+      "zh": "最后，阿根廷足协还未能维持秩序和安全。"
+    },
+    {
+      "id": 132,
+      "startMs": 800940,
+      "endMs": 805180,
+      "en": "So I think this is where most of the fines have come from.",
+      "zh": "因此我认为，大部分罚款都源于这些问题。"
+    },
+    {
+      "id": 133,
+      "startMs": 805420,
+      "endMs": 812620,
+      "en": "Now, $100,000 of that $321,000 are suspended, but interestingly FIFA are insisting that about a third of the overall fine",
+      "zh": "32.1万美元罚款中有10万美元暂缓执行，但有意思的是，国际足联要求总罚款的大约三分之一"
+    },
+    {
+      "id": 134,
+      "startMs": 812620,
+      "endMs": 818700,
+      "en": "must be invested into a plan to combat discrimination. So they're trying to do something good with this punishment that they're giving out to the AFA.",
+      "zh": "必须投入一项反歧视计划。因此，他们试图让对阿根廷足协的惩罚发挥一些积极作用。"
+    },
+    {
+      "id": 135,
+      "startMs": 819020,
+      "endMs": 824140,
+      "en": "And as well as that, Argentina will only be allowed 50% capacity for their next two home matches",
+      "zh": "此外，阿根廷接下来的两场主场比赛只能开放50%的观众容量，"
+    },
+    {
+      "id": 136,
+      "startMs": 824140,
+      "endMs": 829660,
+      "en": "although one of those matches is suspended, so you would imagine that if Argentina behave for the first game",
+      "zh": "不过其中一场处罚暂缓执行，所以可以想见，如果阿根廷队在第一场比赛中表现良好，"
+    },
+    {
+      "id": 137,
+      "startMs": 829660,
+      "endMs": 834460,
+      "en": "then they will be allowed a full contingent of fans for the second.",
+      "zh": "第二场比赛就可以允许全部球迷入场。"
+    },
+    {
+      "id": 138,
+      "startMs": 834700,
+      "endMs": 843820,
+      "en": "But the strongest punishment is actually for the players themselves, with lengthy international bans handed out to five of the Argentine players, including Leandro Paredes",
+      "zh": "但最严厉的处罚其实针对球员本人：五名阿根廷球员被处以长期国际比赛禁赛，其中包括莱安德罗·帕雷德斯。"
+    },
+    {
+      "id": 139,
+      "startMs": 843820,
+      "endMs": 851980,
+      "en": "He will have to sit out the next 10 Argentina matches and pay a fine of $90,000. Now, 10 matches is a very long time for a 32-year-old footballer.",
+      "zh": "他将缺席阿根廷接下来的10场比赛，并被罚款9万美元。对一名32岁的足球运动员来说，10场比赛时间很长。"
+    },
+    {
+      "id": 140,
+      "startMs": 852220,
+      "endMs": 860780,
+      "en": "Spain's Gavi has also been given a one-match ban and a $30,000 fine. So, strong punishment from FIFA. Lizzie Greenwood-Hughes.",
+      "zh": "西班牙球员加维也被禁赛一场并罚款3万美元。国际足联的处罚很重。莉齐·格林伍德-休斯报道。"
+    },
+    {
+      "id": 141,
+      "startMs": 863500,
+      "endMs": 871740,
+      "en": "Still to come in this podcast: it can be quite challenging to deal with such a large patient. She's 15 foot and",
+      "zh": "本期节目稍后：面对这样一位巨大的患者可能颇具挑战。她身长15英尺，"
+    },
+    {
+      "id": 142,
+      "startMs": 871820,
+      "endMs": 879100,
+      "en": "weighs just under 50 kilos. A cancer treatment normally used on humans has been used successfully to remove a tumour",
+      "zh": "体重不到50公斤。一种通常用于人类的癌症疗法，已成功用于切除肿瘤。"
+    },
+    {
+      "id": 143,
+      "startMs": 879100,
+      "endMs": 889440,
+      "en": "on a snake for the first time.",
+      "zh": "这是该疗法首次用于蛇。"
+    },
+    {
+      "id": 144,
+      "startMs": 889440,
+      "endMs": 893920,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 145,
+      "startMs": 894000,
+      "endMs": 900160,
+      "en": "The Ebola outbreak in the Democratic Republic of Congo was only confirmed in May, but it's already the deadliest in the country's history and the second worst ever in the world.",
+      "zh": "刚果民主共和国的埃博拉疫情直到5月才得到确认，但已经成为该国历史上最致命、全球史上第二严重的疫情。"
+    },
+    {
+      "id": 146,
+      "startMs": 900240,
+      "endMs": 907120,
+      "en": "More than 2,500 people have died, half of those in the past 20 days, and the",
+      "zh": "已有超过2500人死亡，其中一半是在过去20天内死亡的，而"
+    },
+    {
+      "id": 147,
+      "startMs": 907120,
+      "endMs": 917440,
+      "en": "United Nations says the outbreak is now growing exponentially. Julien Harneis is the UN's senior Ebola coordinator.",
+      "zh": "联合国表示，疫情目前正在呈指数级增长。朱利安·哈内斯是联合国高级埃博拉协调员。"
+    },
+    {
+      "id": 148,
+      "startMs": 917440,
+      "endMs": 928160,
+      "en": "The epidemic is spreading to an area that is bigger than France, and the outbreak is growing faster and wider than the Ebola response.",
+      "zh": "疫情正在蔓延到一个比法国还大的地区，而且疫情扩散的速度和范围都超过了埃博拉应对行动。"
+    },
+    {
+      "id": 149,
+      "startMs": 928560,
+      "endMs": 936560,
+      "en": "And all of this is happening in an area which has had three decades of conflict and is generating huge humanitarian needs.",
+      "zh": "这一切都发生在一个历经三十年冲突、正产生巨大人道需求的地区。"
+    },
+    {
+      "id": 150,
+      "startMs": 936560,
+      "endMs": 945600,
+      "en": "The conflict, which has been going on in various forms since 1999, has displaced a million people in Ituri alone.",
+      "zh": "这场冲突自1999年以来以各种形式持续，仅在伊图里省就有100万人流离失所。"
+    },
+    {
+      "id": 151,
+      "startMs": 945600,
+      "endMs": 952500,
+      "en": "The law and order is undermined, and the basic social services, particularly health, have been fragmented.",
+      "zh": "法律和秩序受到削弱，基本社会服务，尤其是医疗服务，也支离破碎。"
+    },
+    {
+      "id": 152,
+      "startMs": 953300,
+      "endMs": 958740,
+      "en": "The operating conditions are brutal. I heard more from our global affairs reporter, Richard Kagoe, who's covering the story from Nairobi.",
+      "zh": "工作条件极其艰苦。我们的全球事务记者理查德·卡戈正在内罗毕报道此事，我听取了他的更多介绍。"
+    },
+    {
+      "id": 153,
+      "startMs": 959380,
+      "endMs": 964340,
+      "en": "We've been seeing an increasing number of people who have been infected, which is now slightly over 5,000,",
+      "zh": "感染人数不断增加，目前略超5000人，"
+    },
+    {
+      "id": 154,
+      "startMs": 964660,
+      "endMs": 970100,
+      "en": "and the disease has been detected in six provinces across eastern DRC.",
+      "zh": "疾病已在刚果民主共和国东部六个省份被发现。"
+    },
+    {
+      "id": 155,
+      "startMs": 970180,
+      "endMs": 975700,
+      "en": "Especially in regions that do border neighbouring countries within the East and Central Africa region.",
+      "zh": "尤其是在与东非和中非地区邻国接壤的省份。"
+    },
+    {
+      "id": 156,
+      "startMs": 975700,
+      "endMs": 983780,
+      "en": "So basically, the rate of transmission, the pace is a major concern because it has outpaced the response by health workers.",
+      "zh": "总的来说，传播率和传播速度令人非常担忧，因为它已经超过了卫生工作者的应对速度。"
+    },
+    {
+      "id": 157,
+      "startMs": 984020,
+      "endMs": 986420,
+      "en": "Yeah, why is it spreading so fast?",
+      "zh": "是啊，为什么传播得这么快？"
+    },
+    {
+      "id": 158,
+      "startMs": 986500,
+      "endMs": 995940,
+      "en": "Part of the reason is because this outbreak is taking place within a region that has not got a very significant presence of the government there.",
+      "zh": "部分原因是，这次疫情发生在一个政府力量并不强大的地区。"
+    },
+    {
+      "id": 159,
+      "startMs": 996260,
+      "endMs": 1002820,
+      "en": "So what happens is that there's very underdeveloped infrastructure to support the health crisis.",
+      "zh": "因此，支持应对这场卫生危机的基础设施十分落后。"
+    },
+    {
+      "id": 160,
+      "startMs": 1002820,
+      "endMs": 1009400,
+      "en": "So if you're talking about facilities that can be used for diagnosis, and also the number of health workers,",
+      "zh": "无论是用于诊断的设施，还是卫生工作者的人数，"
+    },
+    {
+      "id": 161,
+      "startMs": 1009400,
+      "endMs": 1017160,
+      "en": "it's a very expansive region which is quite underdeveloped, and so even transportation is really a huge challenge.",
+      "zh": "这里地域广阔且相当不发达，因此连交通运输也是巨大挑战。"
+    },
+    {
+      "id": 162,
+      "startMs": 1017400,
+      "endMs": 1023800,
+      "en": "Also, the banking system, it's become very difficult to actually process wages for the health workers in that region.",
+      "zh": "此外，当地银行系统也变得很难为该地区的卫生工作者实际发放工资。"
+    },
+    {
+      "id": 163,
+      "startMs": 1023800,
+      "endMs": 1028040,
+      "en": "That's why we saw some of them really going on strike about two, three weeks ago.",
+      "zh": "所以大约两三周前，我们看到其中一些人举行了罢工。"
+    },
+    {
+      "id": 164,
+      "startMs": 1028280,
+      "endMs": 1034920,
+      "en": "But then, of course, there is the perception amongst the local communities who still think that Ebola is a conspiracy.",
+      "zh": "当然，当地社区中仍有人认为埃博拉疫情是阴谋，这种看法也造成了影响。"
+    },
+    {
+      "id": 165,
+      "startMs": 1035160,
+      "endMs": 1039720,
+      "en": "So we're seeing a lot of members of the communities really not going to treatment centers.",
+      "zh": "因此，许多社区成员根本不去治疗中心。"
+    },
+    {
+      "id": 166,
+      "startMs": 1039720,
+      "endMs": 1042040,
+      "en": "Some of them only go when they're critically ill,",
+      "zh": "有些人只有病重时才去，"
+    },
+    {
+      "id": 167,
+      "startMs": 1042360,
+      "endMs": 1049160,
+      "en": "and some of them have actually even been attacking ambulances and health workers, and that's really complicated the response.",
+      "zh": "还有人甚至攻击救护车和卫生工作者，这确实让应对工作更加复杂。"
+    },
+    {
+      "id": 168,
+      "startMs": 1049160,
+      "endMs": 1053320,
+      "en": "And not also just the fact that there's an armed conflict taking place in that region.",
+      "zh": "此外，那里正在发生武装冲突，这一点本身也造成影响。"
+    },
+    {
+      "id": 169,
+      "startMs": 1053560,
+      "endMs": 1059320,
+      "en": "So there are a multiplicity of factors that have really made it so difficult to contain this outbreak.",
+      "zh": "所以，多重因素让遏制这场疫情变得极其困难。"
+    },
+    {
+      "id": 170,
+      "startMs": 1059560,
+      "endMs": 1067720,
+      "en": "And has there been any progress in terms of vaccines to prevent people getting it in the first place, or treatments for those who do have it?",
+      "zh": "在疫苗预防感染，或治疗已经感染者方面，有没有取得进展？"
+    },
+    {
+      "id": 171,
+      "startMs": 1067880,
+      "endMs": 1071580,
+      "en": "Yes, there has been quite some bit of progress that has been made on that end.",
+      "zh": "是的，这方面已经取得了相当大的进展。"
+    },
+    {
+      "id": 172,
+      "startMs": 1071580,
+      "endMs": 1077500,
+      "en": "So currently, we have vaccines that are candidates for trials, which have been ongoing for the past one month.",
+      "zh": "目前有一些候选疫苗正在进行试验，试验已持续一个月。"
+    },
+    {
+      "id": 173,
+      "startMs": 1077900,
+      "endMs": 1085660,
+      "en": "And just on Thursday, the World Health Organization helped to approve the release of about 70,000 doses.",
+      "zh": "就在周四，世界卫生组织协助批准了约7万剂疫苗的发放。"
+    },
+    {
+      "id": 174,
+      "startMs": 1085900,
+      "endMs": 1092620,
+      "en": "About 20,000 of those doses will be used for clinical trials, later-stage clinical trials, phase three,",
+      "zh": "其中约2万剂将用于临床试验，即后期的三期临床试验，"
+    },
+    {
+      "id": 175,
+      "startMs": 1092764,
+      "endMs": 1097340,
+      "en": "and about 50,000 will be used just to support health workers, just to reinforce the response.",
+      "zh": "约5万剂将用于支持卫生工作者、加强应对工作。"
+    },
+    {
+      "id": 176,
+      "startMs": 1097820,
+      "endMs": 1107020,
+      "en": "Based on WHO projections, we might possibly have an approved vaccine in about six months or so. Richard Kagoe.",
+      "zh": "根据世卫组织的评估和预测，可能约六个月后就会有获批疫苗。理查德·卡戈埃。"
+    },
+    {
+      "id": 177,
+      "startMs": 1107020,
+      "endMs": 1115500,
+      "en": "A collection of handwritten notes by the Indian independence leader Mahatma Gandhi has been sold at auction for $1.7 million.",
+      "zh": "印度独立运动领袖圣雄甘地的一批手写笔记以170万美元拍卖成交。"
+    },
+    {
+      "id": 178,
+      "startMs": 1115500,
+      "endMs": 1119980,
+      "en": "The sale in Mumbai sets a new record, as Joanna Keen explains.",
+      "zh": "这场在孟买举行的拍卖创下新纪录，乔安娜·基恩报道。"
+    },
+    {
+      "id": 179,
+      "startMs": 1120620,
+      "endMs": 1124860,
+      "en": "This isn't the first time items belonging to Mahatma Gandhi have gone on sale.",
+      "zh": "这不是甘地的物品第一次被拍卖。"
+    },
+    {
+      "id": 180,
+      "startMs": 1125100,
+      "endMs": 1132640,
+      "en": "Six years ago, a pair of his distinctive round spectacles were found sticking halfway out of the letterbox of an auction house in the West of England.",
+      "zh": "六年前，他那副独特的圆眼镜被发现卡在英格兰西部一家拍卖行的信箱里。"
+    },
+    {
+      "id": 181,
+      "startMs": 1133040,
+      "endMs": 1142960,
+      "en": "They were bought by an American collector for $350,000. But this latest auction in Mumbai has fetched a record sum for an Indian historical document.",
+      "zh": "一名美国收藏家以35万美元买下了眼镜。但这次孟买拍卖为一件印度历史文献拍出了创纪录的金额。"
+    },
+    {
+      "id": 182,
+      "startMs": 1143360,
+      "endMs": 1148880,
+      "en": "Perhaps it's because these handwritten notes offer a personal insight into the political leader's thinking.",
+      "zh": "或许是因为这些手写笔记让人得以亲自了解这位政治领袖的思想。"
+    },
+    {
+      "id": 183,
+      "startMs": 1149120,
+      "endMs": 1152640,
+      "en": "during the decade in which India gained independence from British rule.",
+      "zh": "尤其是印度脱离英国统治、赢得独立的十年间。"
+    },
+    {
+      "id": 184,
+      "startMs": 1153440,
+      "endMs": 1160560,
+      "en": "The notes were written by the man known as the father of the nation over a period of two years, between 1944 and 1946,",
+      "zh": "这些笔记由被称为“国父”的甘地在1944至1946年间两年里写下，"
+    },
+    {
+      "id": 185,
+      "startMs": 1160640,
+      "endMs": 1165520,
+      "en": "to a close associate and freedom fighter, Anand T. Hingorani.",
+      "zh": "写给亲密伙伴、自由斗士阿南德·T·欣戈拉尼。"
+    },
+    {
+      "id": 186,
+      "startMs": 1166000,
+      "endMs": 1172880,
+      "en": "Mahatma Gandhi offers personal guidance, saying non-violence is not a negative state of harmlessness, but a positive state of love.",
+      "zh": "甘地给出个人指导说，非暴力不是无害的消极状态，而是爱的积极状态。"
+    },
+    {
+      "id": 187,
+      "startMs": 1173520,
+      "endMs": 1177280,
+      "en": "Truth, he says, is not merely a concept to study, but a living reality.",
+      "zh": "他说，真理不只是供人研究的概念，而是活生生的现实。"
+    },
+    {
+      "id": 188,
+      "startMs": 1177760,
+      "endMs": 1185120,
+      "en": "There are also reflections on grief and self-restraint. The collection was later compiled into a book called A Thought for the Day.",
+      "zh": "其中也有对悲伤和自我克制的思考。这批笔记后来编成《每日一思》一书。"
+    },
+    {
+      "id": 189,
+      "startMs": 1185520,
+      "endMs": 1188960,
+      "en": "The identity of the buyer hasn't been revealed, but the auction house says",
+      "zh": "买家身份尚未公布，但拍卖行表示，"
+    },
+    {
+      "id": 190,
+      "startMs": 1188960,
+      "endMs": 1193280,
+      "en": "the notes will remain in India. Although the messages were the highlight of the sale,",
+      "zh": "这些笔记将留在印度。尽管这些文字是拍卖亮点，"
+    },
+    {
+      "id": 191,
+      "startMs": 1193280,
+      "endMs": 1200640,
+      "en": "dozens of personal items went under the hammer, including manuscripts, photographs and Mahatma Gandhi's portable spinning wheel,",
+      "zh": "仍有数十件私人藏品被拍卖，包括手稿、照片以及甘地的便携式纺车，"
+    },
+    {
+      "id": 192,
+      "startMs": 1201040,
+      "endMs": 1207260,
+      "en": "alongside two letters about the spiritual discipline of spinning. Joanna Keen.",
+      "zh": "此外还有两封关于纺纱精神修行的信。乔安娜·基恩报道。"
+    },
+    {
+      "id": 193,
+      "startMs": 1208300,
+      "endMs": 1214300,
+      "en": "A python has become the first snake to be given a cancer treatment normally used on humans.",
+      "zh": "一条蟒蛇成为首条接受通常用于人类的癌症治疗的蛇。"
+    },
+    {
+      "id": 194,
+      "startMs": 1214620,
+      "endMs": 1223820,
+      "en": "The four-metre-long reptile, named after the actress Jodie Foster, was given electrochemotherapy to remove a tumour at Chester Zoo here in the UK.",
+      "zh": "这条四米长的爬行动物以女演员朱迪·福斯特命名，在英国切斯特动物园接受了电化学疗法，以切除肿瘤。"
+    },
+    {
+      "id": 195,
+      "startMs": 1224300,
+      "endMs": 1227100,
+      "en": "The BBC's Helena Burke has the details.",
+      "zh": "BBC记者海伦娜·伯克报道详情。"
+    },
+    {
+      "id": 196,
+      "startMs": 1227660,
+      "endMs": 1234060,
+      "en": "Two decades ago, a young python arrived at Chester Zoo with the letters \"JF\" on her paperwork.",
+      "zh": "二十年前，一条年轻的蟒蛇来到切斯特动物园，文件上写着字母“JF”。"
+    },
+    {
+      "id": 197,
+      "startMs": 1234140,
+      "endMs": 1241900,
+      "en": "While officially the initials mean \"juvenile female\", zookeepers decided they should instead represent the snake's new moniker.",
+      "zh": "虽然这两个字母正式代表“幼年雌性”，但饲养员决定让它们代表这条蛇的新名字。"
+    },
+    {
+      "id": 198,
+      "startMs": 1242300,
+      "endMs": 1244380,
+      "en": "And so she was named Jodie Foster.",
+      "zh": "于是她被命名为朱迪·福斯特。"
+    },
+    {
+      "id": 199,
+      "startMs": 1245100,
+      "endMs": 1250940,
+      "en": "Years later, zookeepers noticed that Jodie was eating less and wasn't her usual snaky self.",
+      "zh": "多年后，饲养员注意到朱迪吃得少了，也不像平时那样活跃。"
+    },
+    {
+      "id": 200,
+      "startMs": 1251580,
+      "endMs": 1255180,
+      "en": "The keeper team noticed that she was starting to get a little bit of a lump on her lip.",
+      "zh": "饲养团队注意到，她的嘴唇上开始长出一个小肿块。"
+    },
+    {
+      "id": 201,
+      "startMs": 1255900,
+      "endMs": 1263580,
+      "en": "So we removed that lump, but unfortunately, when we sent off the tests, we found that it was a cancerous lesion.",
+      "zh": "于是我们切除了肿块，但遗憾的是，送检后发现那是癌变病灶。"
+    },
+    {
+      "id": 202,
+      "startMs": 1263740,
+      "endMs": 1269040,
+      "en": "Charlotte Bentley, a veterinarian at the zoo, says that although the cancer was removed successfully,",
+      "zh": "动物园兽医夏洛特·本特利说，虽然癌症已成功切除，"
+    },
+    {
+      "id": 203,
+      "startMs": 1269360,
+      "endMs": 1272080,
+      "en": "twelve months later it grew back on Jodie's jaw.",
+      "zh": "但十二个月后，它又在朱迪的下颌上复发了。"
+    },
+    {
+      "id": 204,
+      "startMs": 1272400,
+      "endMs": 1278640,
+      "en": "So we decided to go a little bit to the drawing board of what we were going to do, and that's when we came up with the idea",
+      "zh": "所以我们重新考虑接下来要怎么做，就在那时想到了这个主意："
+    },
+    {
+      "id": 205,
+      "startMs": 1278640,
+      "endMs": 1285360,
+      "en": "of doing a surgery and combining it with electrochemotherapy to give her the best, best outcome.",
+      "zh": "进行手术并结合电化学疗法，以取得最、最好的效果。"
+    },
+    {
+      "id": 206,
+      "startMs": 1285760,
+      "endMs": 1290880,
+      "en": "Electrochemotherapy has been used to treat human cancer patients since the '90s.",
+      "zh": "自上世纪90年代以来，电化学疗法一直用于治疗人类癌症患者。"
+    },
+    {
+      "id": 207,
+      "startMs": 1291200,
+      "endMs": 1296400,
+      "en": "It combines a low dose of chemotherapy with short, intense electrical shocks on the tumour site.",
+      "zh": "它将低剂量化疗药物与肿瘤部位短促而强烈的电击结合。"
+    },
+    {
+      "id": 208,
+      "startMs": 1296720,
+      "endMs": 1299520,
+      "en": "To help the medicine enter the cancer cells and kill them.",
+      "zh": "这样能帮助药物进入癌细胞并将其杀死。"
+    },
+    {
+      "id": 209,
+      "startMs": 1300080,
+      "endMs": 1304800,
+      "en": "The veterinary team had to use two operating tables to fit Jodie's long body.",
+      "zh": "兽医团队不得不使用两张手术台，才能容纳朱迪的长身体。"
+    },
+    {
+      "id": 210,
+      "startMs": 1305040,
+      "endMs": 1310240,
+      "en": "But aside from that, Dr. Bentley says the surgery works mostly the same as it does for humans.",
+      "zh": "但本特利医生说，除此之外，这种手术与人类手术基本相同。"
+    },
+    {
+      "id": 211,
+      "startMs": 1310400,
+      "endMs": 1314800,
+      "en": "It can be quite challenging to deal with such a large patient.",
+      "zh": "应对这么大的患者可能相当有挑战。"
+    },
+    {
+      "id": 212,
+      "startMs": 1315200,
+      "endMs": 1318320,
+      "en": "She's 15 foot and weighs just under 50 kilos.",
+      "zh": "她身长15英尺，体重不到50公斤。"
+    },
+    {
+      "id": 213,
+      "startMs": 1318480,
+      "endMs": 1323120,
+      "en": "We have to use anaesthesia to get her completely still, and to look in her mouth.",
+      "zh": "我们必须使用麻醉，让她完全静止下来，以便查看她的口腔。"
+    },
+    {
+      "id": 214,
+      "startMs": 1323600,
+      "endMs": 1330260,
+      "en": "But actually, from that point onwards, the technique is very similar, so it's all about making sure",
+      "zh": "但实际上，从那一步起，技术就非常相似，关键是确保："
+    },
+    {
+      "id": 215,
+      "startMs": 1330340,
+      "endMs": 1334340,
+      "en": "that the drugs and the electrodes are placed in the affected tissue.",
+      "zh": "药物和电极都放置在受影响的组织中。"
+    },
+    {
+      "id": 216,
+      "startMs": 1334740,
+      "endMs": 1341780,
+      "en": "And by sending those little pulses, no matter whether it's a dog, a snake or a person, the treatment should work the same way.",
+      "zh": "通过发送这些微小脉冲，无论对象是狗、蛇还是人，这种治疗都应以同样的方式发挥作用。"
+    },
+    {
+      "id": 217,
+      "startMs": 1342180,
+      "endMs": 1348180,
+      "en": "The team hopes the surgery will encourage other vets to try the technique on a wider variety of animals.",
+      "zh": "团队希望这次手术能鼓励其他兽医在更多种类的动物身上尝试这种技术。"
+    },
+    {
+      "id": 218,
+      "startMs": 1348420,
+      "endMs": 1353620,
+      "en": "Electrochemotherapy has been done on other mammals and also, there's been a few cases in birds.",
+      "zh": "其他哺乳动物也接受过电化学疗法，鸟类身上也有过少数病例。"
+    },
+    {
+      "id": 219,
+      "startMs": 1354100,
+      "endMs": 1357620,
+      "en": "From what we could see, this is the first time it's been done in any reptile.",
+      "zh": "据我们所知，这是这种疗法首次用于任何爬行动物。"
+    },
+    {
+      "id": 220,
+      "startMs": 1357940,
+      "endMs": 1362340,
+      "en": "So hopefully it means that it's kind of expanding its use a little bit further",
+      "zh": "所以希望这意味着它的应用范围正在进一步扩大，"
+    },
+    {
+      "id": 221,
+      "startMs": 1362420,
+      "endMs": 1367300,
+      "en": "and we can even start thinking further afield with our amphibians or even fish patients in the future.",
+      "zh": "未来我们甚至可以考虑为两栖动物，甚至鱼类患者使用这种疗法。"
+    },
+    {
+      "id": 222,
+      "startMs": 1367620,
+      "endMs": 1373540,
+      "en": "And as for Jodie Foster, the python, she's now cancer-free and back to her usual self.",
+      "zh": "至于蟒蛇朱迪·福斯特，她现在已经无癌，并恢复了平时的状态。"
+    },
+    {
+      "id": 223,
+      "startMs": 1373860,
+      "endMs": 1379780,
+      "en": "She has been a fantastic patient and she's gone on to make a really, really excellent recovery.",
+      "zh": "她是一位非常棒的患者，恢复得真的、真的非常好。"
+    },
+    {
+      "id": 224,
+      "startMs": 1380100,
+      "endMs": 1383780,
+      "en": "She had very few side effects, we didn't see any problems with the chemotherapy,",
+      "zh": "她的副作用非常少，我们没有发现化疗带来任何问题，"
+    },
+    {
+      "id": 225,
+      "startMs": 1384100,
+      "endMs": 1393000,
+      "en": "and actually she's now back to her feisty character and is definitely not having any problems with her eating anymore.",
+      "zh": "事实上，她现在已经恢复了活泼好动的性格，吃东西也绝对不再有任何问题。"
+    },
+    {
+      "id": 226,
+      "startMs": 1393480,
+      "endMs": 1398280,
+      "en": "Charlotte Bentley from Chester Zoo, ending that report by Helena Burke.",
+      "zh": "切斯特动物园的夏洛特·本特利；报道由海伦娜·伯克完成。"
+    },
+    {
+      "id": 227,
+      "startMs": 1399580,
+      "endMs": 1402940,
+      "en": "The movie industry has been through a few turbulent years.",
+      "zh": "电影业经历了几年的动荡。"
+    },
+    {
+      "id": 228,
+      "startMs": 1403020,
+      "endMs": 1407660,
+      "en": "Cinema attendances in the US are down by around a third on pre-COVID levels.",
+      "zh": "美国电影院的观影人次比新冠疫情前的水平下降了约三分之一。"
+    },
+    {
+      "id": 229,
+      "startMs": 1408060,
+      "endMs": 1413660,
+      "en": "It's perhaps not surprising that Hollywood has been having second thoughts about some of its projects.",
+      "zh": "好莱坞开始重新考虑部分项目，或许并不令人意外。"
+    },
+    {
+      "id": 230,
+      "startMs": 1413740,
+      "endMs": 1418780,
+      "en": "But one of the films Warner Brothers decided to write off as a tax loss has fought back.",
+      "zh": "但华纳兄弟决定作为税务损失注销的一部电影却奋力反击。"
+    },
+    {
+      "id": 231,
+      "startMs": 1419020,
+      "endMs": 1425260,
+      "en": "Fans, film directors, and even a US congressman have saved a movie from the scrap heap",
+      "zh": "影迷、电影导演，甚至一名美国国会议员，都把一部电影从废片堆中救了出来，"
+    },
+    {
+      "id": 232,
+      "startMs": 1425260,
+      "endMs": 1432460,
+      "en": "and later this month, audiences will finally get a chance to see the much-anticipated legal drama featuring one of the stars",
+      "zh": "本月晚些时候，观众终于有机会看到这部备受期待的法律喜剧，其中一位主演是："
+    },
+    {
+      "id": 233,
+      "startMs": 1432540,
+      "endMs": 1441100,
+      "en": "of Looney Tunes, Wile E. Coyote taking on that American corporate giant, the Acme Corporation.",
+      "zh": "《乐一通》中的威利狼，他将对抗美国企业巨头Acme公司。"
+    },
+    {
+      "id": 234,
+      "startMs": 1441500,
+      "endMs": 1443260,
+      "en": "David Sillito takes up the story.",
+      "zh": "大卫·西利托展开报道。"
+    },
+    {
+      "id": 235,
+      "startMs": 1444780,
+      "endMs": 1446220,
+      "en": "My name is Samy Burch.",
+      "zh": "我叫萨米·伯奇。"
+    },
+    {
+      "id": 236,
+      "startMs": 1448640,
+      "endMs": 1456160,
+      "en": "I'm the screenwriter of Coyote versus Acme, which is the comeback movie nobody thought we would actually get.",
+      "zh": "我是《威利狼对Acme》的编剧——这部回归之作，没人想到我们真的能拍出来。"
+    },
+    {
+      "id": 237,
+      "startMs": 1457820,
+      "endMs": 1466380,
+      "en": "Wile E. Coyote, cartoon hero, tireless, ravenous pursuer of the profoundly annoying Road Runner.",
+      "zh": "威利狼，这位卡通英雄，是永不疲倦、贪得无厌地追逐极其讨厌的嗖嗖鸟的追捕者。"
+    },
+    {
+      "id": 238,
+      "startMs": 1467680,
+      "endMs": 1472640,
+      "en": "Who is again and again let down by his mail-order purchases from the Acme Corporation.",
+      "zh": "他一次又一次被从Acme公司邮购的产品坑惨。"
+    },
+    {
+      "id": 239,
+      "startMs": 1472640,
+      "endMs": 1476880,
+      "en": "Have you been horribly injured by a product made by the Acme Corporation?",
+      "zh": "你是否曾被Acme公司制造的产品严重伤害？"
+    },
+    {
+      "id": 240,
+      "startMs": 1476960,
+      "endMs": 1482560,
+      "en": "He is now the star of a new movie based on a classic article about a courtroom confrontation.",
+      "zh": "如今，他成为一部新电影的主角；电影改编自一篇讲述法庭对峙的经典文章。"
+    },
+    {
+      "id": 241,
+      "startMs": 1482800,
+      "endMs": 1491020,
+      "en": "I mean, Ian Frazier wrote a really famous humour piece for The New Yorker entitled",
+      "zh": "我是说，伊恩·弗雷泽为《纽约客》写过一篇非常著名的幽默作品，题为："
+    },
+    {
+      "id": 242,
+      "startMs": 1491020,
+      "endMs": 1501020,
+      "en": "\"Coyote v. Acme\", which is a straight-faced court transcript of a trial between Wile E. Coyote and the Acme Corporation.",
+      "zh": "《威利狼诉Acme》，是一份一本正经记录威利狼与Acme公司庭审的法庭笔录。"
+    },
+    {
+      "id": 243,
+      "startMs": 1501420,
+      "endMs": 1508300,
+      "en": "Have you ever set a big stack of TNT on the road, hoping to blow up your nemesis, but the detonator itself explodes?",
+      "zh": "你是否曾把一大堆TNT放在路上，想炸掉宿敌，结果引爆器自己先爆炸？"
+    },
+    {
+      "id": 244,
+      "startMs": 1508900,
+      "endMs": 1513780,
+      "en": "Have you ever pulled the rip cord of your parachute and only a bunch of silverware comes out?",
+      "zh": "你是否曾拉动降落伞的拉绳，结果出来的只有一堆餐具？"
+    },
+    {
+      "id": 245,
+      "startMs": 1516240,
+      "endMs": 1520880,
+      "en": "It's not your fault. Acme is evil.",
+      "zh": "这不是你的错。Acme公司邪恶至极。"
+    },
+    {
+      "id": 246,
+      "startMs": 1521680,
+      "endMs": 1530620,
+      "en": "And there had been, since 1990, people wanting to make this into a feature film",
+      "zh": "自1990年以来，一直有人想把它拍成长篇电影，"
+    },
+    {
+      "id": 247,
+      "startMs": 1530780,
+      "endMs": 1533100,
+      "en": "And eventually Warner Brothers gave the green light",
+      "zh": "最终华纳兄弟批准了这个项目，"
+    },
+    {
+      "id": 248,
+      "startMs": 1533340,
+      "endMs": 1536380,
+      "en": "to Samy and the rest of the team to go out and make it.",
+      "zh": "让萨米和其余团队成员出去把它拍出来。"
+    },
+    {
+      "id": 249,
+      "startMs": 1536700,
+      "endMs": 1538700,
+      "en": "Mr. Coyote, how can I help you?",
+      "zh": "科约特先生，我能为您做什么？"
+    },
+    {
+      "id": 250,
+      "startMs": 1540360,
+      "endMs": 1544200,
+      "en": "But then came the plummet to the bottom of the canyon moment.",
+      "zh": "但随后，迎来了坠入峡谷底部的时刻。"
+    },
+    {
+      "id": 251,
+      "startMs": 1544440,
+      "endMs": 1550040,
+      "en": "Warners decided they'd make more money if they wrote it off against tax rather than release it.",
+      "zh": "华纳兄弟认为，与其上映，不如将其作为税务损失注销，这样赚得更多。"
+    },
+    {
+      "id": 252,
+      "startMs": 1551040,
+      "endMs": 1552480,
+      "en": "It was a shock.",
+      "zh": "这令人震惊。"
+    },
+    {
+      "id": 253,
+      "startMs": 1552720,
+      "endMs": 1559000,
+      "en": "I mean, it was really—I mean, the metaphors have been very literal in this case.",
+      "zh": "我的意思是，真的……我是说，在这件事上，这些比喻几乎成了字面现实。"
+    },
+    {
+      "id": 254,
+      "startMs": 1559000,
+      "endMs": 1566040,
+      "en": "Because, given what Wile E. Coyote normally experiences, where things are really going to plan",
+      "zh": "毕竟，按照歪心狼通常的遭遇，事情明明正按计划进行，"
+    },
+    {
+      "id": 255,
+      "startMs": 1566440,
+      "endMs": 1568280,
+      "en": "and then something falls out of the sky,",
+      "zh": "却总会有东西从天上掉下来，"
+    },
+    {
+      "id": 256,
+      "startMs": 1568280,
+      "endMs": 1569880,
+      "en": "I mean, it really did feel like that.",
+      "zh": "所以，这次真的就是这种感觉。"
+    },
+    {
+      "id": 257,
+      "startMs": 1572460,
+      "endMs": 1576940,
+      "en": "And it wasn't just the cast and crew who wanted to see it in the cinemas.",
+      "zh": "想在电影院看到它的，不只是演员和剧组人员。"
+    },
+    {
+      "id": 258,
+      "startMs": 1576940,
+      "endMs": 1581740,
+      "en": "I hate to be political, but release Coyote versus Acme!",
+      "zh": "我不想谈政治，但请上映《科约特对战 ACME》！"
+    },
+    {
+      "id": 259,
+      "startMs": 1583380,
+      "endMs": 1587220,
+      "en": "The campaign, Release Coyote, has gone far and wide.",
+      "zh": "“Release Coyote”运动已经影响广泛。"
+    },
+    {
+      "id": 260,
+      "startMs": 1587460,
+      "endMs": 1593540,
+      "en": "It was really moving, actually, to see big directors that came out against it.",
+      "zh": "看到大牌导演站出来反对这一决定，确实令人感动。"
+    },
+    {
+      "id": 261,
+      "startMs": 1593540,
+      "endMs": 1596660,
+      "en": "There were congressmen—",
+      "zh": "还有国会议员——"
+    },
+    {
+      "id": 262,
+      "startMs": 1597880,
+      "endMs": 1601400,
+      "en": "That was mostly notable to me because that happens in the movie.",
+      "zh": "这对我来说尤其值得注意，因为电影里就有这样的情节。"
+    },
+    {
+      "id": 263,
+      "startMs": 1601480,
+      "endMs": 1603480,
+      "en": "You know, there's been a lot of parallels.",
+      "zh": "你知道，现实与电影之间有许多相似之处。"
+    },
+    {
+      "id": 264,
+      "startMs": 1603800,
+      "endMs": 1608360,
+      "en": "All of which ended with a company called Ketchup being allowed to take it on, which means...",
+      "zh": "这一切最终促成一家名为 Ketchup 的公司获准接手，这意味着……"
+    },
+    {
+      "id": 265,
+      "startMs": 1608520,
+      "endMs": 1613640,
+      "en": "The Looney Tunes legal comedy that got shelved is officially back on the calendar!",
+      "zh": "这部被搁置的《乐一通》法律喜剧正式重新排上日程！"
+    },
+    {
+      "id": 266,
+      "startMs": 1613800,
+      "endMs": 1619320,
+      "en": "Can you reassure me that this hasn't been a very clever guerrilla marketing campaign?",
+      "zh": "你能向我保证，这不是一场高明的游击式营销活动吗？"
+    },
+    {
+      "id": 267,
+      "startMs": 1620200,
+      "endMs": 1625480,
+      "en": "I can. I think the people at Ketchup Entertainment who wrote the check to buy this movie,",
+      "zh": "可以。我相信，Ketchup Entertainment 为买下这部电影开出了支票，"
+    },
+    {
+      "id": 268,
+      "startMs": 1625480,
+      "endMs": 1630840,
+      "en": "I'm sure they would want you to know that it wasn't just a joke.",
+      "zh": "我敢肯定，他们会希望你知道，这不只是个玩笑。"
+    },
+    {
+      "id": 269,
+      "startMs": 1631400,
+      "endMs": 1632360,
+      "en": "And now we've seen it!",
+      "zh": "现在，我们已经看到了！"
+    },
+    {
+      "id": 270,
+      "startMs": 1632600,
+      "endMs": 1633720,
+      "en": "It's amazing.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 271,
+      "startMs": 1633800,
+      "endMs": 1636040,
+      "en": "I think it's the best Looney Tunes movie ever made.",
+      "zh": "我认为这是有史以来最好的《乐一通》电影。"
+    },
+    {
+      "id": 272,
+      "startMs": 1636040,
+      "endMs": 1639080,
+      "en": "Almost every time Wile E. Coyote held up a sign, it got a laugh.",
+      "zh": "几乎每次歪心狼举起牌子，都会引来笑声。"
+    },
+    {
+      "id": 273,
+      "startMs": 1639080,
+      "endMs": 1643720,
+      "en": "And I just have to say it lives up to the hype, and I'm still blown away that they tried to cancel this movie.",
+      "zh": "我得说，它没有辜负宣传；他们竟试图取消这部电影，至今仍让我震撼。"
+    },
+    {
+      "id": 274,
+      "startMs": 1643720,
+      "endMs": 1649560,
+      "en": "The Rotten Tomatoes collated reviews has it at a startling 95% approval.",
+      "zh": "烂番茄评论汇总显示，这部电影的好评率高达 95%。"
+    },
+    {
+      "id": 275,
+      "startMs": 1649720,
+      "endMs": 1653800,
+      "en": "When I saw the final movie, it was what was being called the funeral screening.",
+      "zh": "我看到最终成片时，那场放映被称为“葬礼放映”。"
+    },
+    {
+      "id": 276,
+      "startMs": 1655220,
+      "endMs": 1657220,
+      "en": "And I was so proud of it.",
+      "zh": "我为它感到无比自豪。"
+    },
+    {
+      "id": 277,
+      "startMs": 1657780,
+      "endMs": 1665000,
+      "en": "I think a lot of people thought, \"Oh, well, it probably sucks if they're gonna throw it away.\" And then: \"This doesn't suck.\"",
+      "zh": "我想，很多人当时会觉得：“既然他们要把它扔掉，想必很糟。”但后来却发现：“这并不糟。”"
+    },
+    {
+      "id": 278,
+      "startMs": 1665400,
+      "endMs": 1668280,
+      "en": "Name of the case is Coyote versus Acme.",
+      "zh": "案件名称是《科约特对战 ACME》。"
+    },
+    {
+      "id": 279,
+      "startMs": 1668680,
+      "endMs": 1678360,
+      "en": "The fact that it's getting to come out, that kids can be introduced to these characters, it's an amazing, only happy moment.",
+      "zh": "它终于能够上映，让孩子们认识这些角色，这是一个令人惊叹、纯粹快乐的时刻。"
+    },
+    {
+      "id": 280,
+      "startMs": 1678840,
+      "endMs": 1684280,
+      "en": "And for Mr. Coyote, a rare moment of joy in a life of failure.",
+      "zh": "而对科约特先生来说，这是失败人生中罕见的喜悦时刻。"
+    },
+    {
+      "id": 281,
+      "startMs": 1685380,
+      "endMs": 1687940,
+      "en": "He's one of the most hardworking people I've ever met.",
+      "zh": "他是我见过最勤奋的人之一。"
+    },
+    {
+      "id": 282,
+      "startMs": 1688260,
+      "endMs": 1690340,
+      "en": "And the older you get, the more you fail in life.",
+      "zh": "你年纪越大，人生中的失败就越多。"
+    },
+    {
+      "id": 283,
+      "startMs": 1690900,
+      "endMs": 1693460,
+      "en": "Surely we're all supposed to be rooting for Wile E. Coyote, aren't we?",
+      "zh": "我们当然都应该支持歪心狼，对吧？"
+    },
+    {
+      "id": 284,
+      "startMs": 1693460,
+      "endMs": 1700580,
+      "en": "I mean, of course, the movie takes, I think, an anti-bird stance in general...",
+      "zh": "我的意思是，当然，这部电影总体上，我觉得，采取了反鸟立场……"
+    },
+    {
+      "id": 285,
+      "startMs": 1700820,
+      "endMs": 1703620,
+      "en": "And at the end of it, you won, haven't you?",
+      "zh": "而到了最后，你赢了，对吧？"
+    },
+    {
+      "id": 286,
+      "startMs": 1706020,
+      "endMs": 1710980,
+      "en": "We haven't been splat yet at the bottom of the canyon, so we're taking that as a win.",
+      "zh": "我们还没有啪叽一声摔到峡谷底部，所以就把这当作胜利。"
+    },
+    {
+      "id": 287,
+      "startMs": 1711660,
+      "endMs": 1712300,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 288,
+      "startMs": 1716040,
+      "endMs": 1717000,
+      "en": "That's all, folks.",
+      "zh": "就到这里，各位。"
+    },
+    {
+      "id": 289,
+      "startMs": 1719320,
+      "endMs": 1725720,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如需联系我们，可发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 290,
+      "startMs": 1725720,
+      "endMs": 1729080,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "你也可以在 X 上关注 BBC World Service。"
+    },
+    {
+      "id": 291,
+      "startMs": 1729720,
+      "endMs": 1732280,
+      "en": "Use the hashtag #GlobalNewsPod.",
+      "zh": "请使用话题标签 #GlobalNewsPod。"
+    },
+    {
+      "id": 292,
+      "startMs": 1732760,
+      "endMs": 1739480,
+      "en": "This edition of the Global News Podcast was mixed by Martin Baker and the producer was Wendy Urquhart.",
+      "zh": "本期《全球新闻播客》由 Martin Baker 混音，制片人是 Wendy Urquhart。"
+    },
+    {
+      "id": 293,
+      "startMs": 1740120,
+      "endMs": 1742200,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是 Karen Martin。"
+    },
+    {
+      "id": 294,
+      "startMs": 1742520,
+      "endMs": 1745240,
+      "en": "I'm Alex Ritson. Until next time, goodbye.",
+      "zh": "我是 Alex Ritson。下次再见。"
+    }
+  ]
+}
