@@ -1,0 +1,1537 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "23 August 2026"
+  },
+  "durationMs": 1367400,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3840,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是BBC World Service的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5980,
+      "endMs": 12300,
+      "en": "I'm Alex Ritson, and in the early hours of Sunday the 23rd of August, these are our main stories.",
+      "zh": "我是亚历克斯·里森。现在是8月23日星期日凌晨，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12780,
+      "endMs": 20380,
+      "en": "Canada promises to match Donald Trump's retaliatory tariffs dollar for dollar as the old allies enter a full-on trade war.",
+      "zh": "加拿大承诺以同等规模回击唐纳德·特朗普的报复性关税，昔日盟友正式陷入全面贸易战。"
+    },
+    {
+      "id": 4,
+      "startMs": 20780,
+      "endMs": 25580,
+      "en": "Fired for insubordination, the editor of America's official military newspaper.",
+      "zh": "美国官方军报的主编因不服从命令被解职。"
+    },
+    {
+      "id": 5,
+      "startMs": 25580,
+      "endMs": 27340,
+      "en": "Also in this podcast...",
+      "zh": "本期还将关注……"
+    },
+    {
+      "id": 6,
+      "startMs": 27580,
+      "endMs": 34540,
+      "en": "Lightning Bolt, the humanoid robot that has smashed Usain Bolt's 100-metre world record in China.",
+      "zh": "中国的人形机器人“闪电”打破了尤赛恩·博尔特的百米世界纪录。"
+    },
+    {
+      "id": 7,
+      "startMs": 34540,
+      "endMs": 41660,
+      "en": "I'm very surprised by the improvement. I feel very proud of our country's technological advancement.",
+      "zh": "我对这一进步感到非常惊讶，也为我国的科技发展感到非常自豪。"
+    },
+    {
+      "id": 8,
+      "startMs": 47560,
+      "endMs": 53320,
+      "en": "For decades, the United States and Canada weren't just neighbours; they were the closest of allies.",
+      "zh": "几十年来，美国和加拿大不仅是邻国，更是最亲密的盟友。"
+    },
+    {
+      "id": 9,
+      "startMs": 53400,
+      "endMs": 60600,
+      "en": "But President Trump's global trade war has seriously fractured their relationship, which had flourished under their free-trade partnership.",
+      "zh": "但特朗普总统发起的全球贸易战严重破坏了两国关系，而这段关系曾在自由贸易伙伴关系下蓬勃发展。"
+    },
+    {
+      "id": 10,
+      "startMs": 61000,
+      "endMs": 65880,
+      "en": "Washington and Ottawa were in trade talks, but these broke down on Friday.",
+      "zh": "华盛顿和渥太华原本正在进行贸易谈判，但谈判周五破裂。"
+    },
+    {
+      "id": 11,
+      "startMs": 66040,
+      "endMs": 74920,
+      "en": "Canada walked away, saying that at the 11th hour, US negotiators wanted unfair restrictions on Canadian trade deals with other countries.",
+      "zh": "加拿大退出谈判，称美国谈判代表在最后关头想对加拿大与其他国家的贸易协议施加不公平限制。"
+    },
+    {
+      "id": 12,
+      "startMs": 75320,
+      "endMs": 83640,
+      "en": "After the talks collapsed, as Mr Trump had threatened, he imposed 50% tariffs on nearly $20 billion worth of Canadian imports.",
+      "zh": "谈判破裂后，正如特朗普先生威胁的那样，他对价值近200亿美元的加拿大进口商品征收50%的关税。"
+    },
+    {
+      "id": 13,
+      "startMs": 83960,
+      "endMs": 89640,
+      "en": "Doug Ford, the premier of the Canadian province of Ontario, gave this scathing response.",
+      "zh": "加拿大安大略省省长道格·福特作出了这番尖锐回应。"
+    },
+    {
+      "id": 14,
+      "startMs": 90040,
+      "endMs": 93480,
+      "en": "President Trump, he can't be trusted. Simple as that.",
+      "zh": "特朗普总统不可信，就是这么简单。"
+    },
+    {
+      "id": 15,
+      "startMs": 93960,
+      "endMs": 96920,
+      "en": "He changes the deal; he keeps moving the goalpost.",
+      "zh": "他不断改变协议，反复移动目标。"
+    },
+    {
+      "id": 16,
+      "startMs": 97480,
+      "endMs": 104440,
+      "en": "You know, let me tell you about President Trump. President Trump is the type of person that would steal your lunch money the first day.",
+      "zh": "你知道，我来告诉你特朗普总统是什么样的人：他会第一天偷走你的午餐钱。"
+    },
+    {
+      "id": 17,
+      "startMs": 105080,
+      "endMs": 109500,
+      "en": "He'd steal the toque off your head the second day, and the third day, he'd steal your running shoes.",
+      "zh": "第二天他会偷走你头上的毛线帽，第三天还会偷走你的跑鞋。"
+    },
+    {
+      "id": 18,
+      "startMs": 109980,
+      "endMs": 113340,
+      "en": "He is not to be trusted whatsoever. We need to stay united.",
+      "zh": "他完全不值得信任。我们必须团结一致。"
+    },
+    {
+      "id": 19,
+      "startMs": 113900,
+      "endMs": 121180,
+      "en": "The US Trade Representative, Jamieson Greer, said that Ottawa had made new demands and walked back from other commitments.",
+      "zh": "美国贸易代表贾米森·格里尔说，渥太华提出了新要求，并放弃了其他承诺。"
+    },
+    {
+      "id": 20,
+      "startMs": 121500,
+      "endMs": 125740,
+      "en": "He added that Washington had no plans to restart negotiations.",
+      "zh": "他还说，华盛顿没有重启谈判的计划。"
+    },
+    {
+      "id": 21,
+      "startMs": 125900,
+      "endMs": 131980,
+      "en": "We don't have new talks planned with the Canadians. We're moving forward with measures that respond to Canadian retaliation.",
+      "zh": "我们没有与加拿大人进行新谈判的计划。我们将继续采取措施回应加拿大的报复。"
+    },
+    {
+      "id": 22,
+      "startMs": 131980,
+      "endMs": 137660,
+      "en": "Remember, as President Trump has introduced a trade policy to re-shore American production and protect American jobs.",
+      "zh": "请记住，特朗普总统推行贸易政策，是为了让美国生产回流并保护美国就业。"
+    },
+    {
+      "id": 23,
+      "startMs": 138060,
+      "endMs": 142540,
+      "en": "Two countries have retaliated against the United States: the People's Republic of China and Canada.",
+      "zh": "有两个国家对美国采取了报复措施：中华人民共和国和加拿大。"
+    },
+    {
+      "id": 24,
+      "startMs": 143100,
+      "endMs": 146780,
+      "en": "Our interest is in protecting American workers and protecting American supply chains.",
+      "zh": "我们的利益在于保护美国工人和美国供应链。"
+    },
+    {
+      "id": 25,
+      "startMs": 147100,
+      "endMs": 152460,
+      "en": "The Canadian Prime Minister, Mark Carney, has promised to retaliate against Washington's new tariffs.",
+      "zh": "加拿大总理马克·卡尼承诺反击华盛顿的新关税。"
+    },
+    {
+      "id": 26,
+      "startMs": 152540,
+      "endMs": 159740,
+      "en": "With duties on US products that include steel and dairy, as well as pressing ahead with building new trade relationships.",
+      "zh": "反制措施将针对包括钢铁和乳制品在内的美国商品，同时继续建立新的贸易关系。"
+    },
+    {
+      "id": 27,
+      "startMs": 160060,
+      "endMs": 167600,
+      "en": "Our North America correspondent, David Willis, told me that this dispute will lead to economic pain on both sides of the border.",
+      "zh": "我们的北美记者戴维·威利斯告诉我，这场争端将给边境两边带来经济痛苦。"
+    },
+    {
+      "id": 28,
+      "startMs": 167600,
+      "endMs": 176160,
+      "en": "I think the bottom line here, Alex, is that nobody really benefits from trade wars, trade conflicts of this kind.",
+      "zh": "我认为关键在于，亚历克斯，没有人真正能从这类贸易战或贸易冲突中获益。"
+    },
+    {
+      "id": 29,
+      "startMs": 176240,
+      "endMs": 184400,
+      "en": "And these latest US tariffs will affect about 5% of Canadian exports to the US.",
+      "zh": "而美国最新关税将影响加拿大对美出口的大约5%。"
+    },
+    {
+      "id": 30,
+      "startMs": 184400,
+      "endMs": 189520,
+      "en": "That's not a huge amount, but they will apply to a wide array of goods.",
+      "zh": "这并不是很大的比例，但关税将适用于各种各样的商品。"
+    },
+    {
+      "id": 31,
+      "startMs": 189520,
+      "endMs": 194480,
+      "en": "A very diverse array of goods ranging from alcohol to building materials.",
+      "zh": "商品种类非常多，从酒类到建筑材料都有。"
+    },
+    {
+      "id": 32,
+      "startMs": 194800,
+      "endMs": 202480,
+      "en": "And to put that into perspective, about 80% of Canadian goods will still enter the United States tariff-free.",
+      "zh": "作为参照，加拿大商品中约80%仍可免关税进入美国。"
+    },
+    {
+      "id": 33,
+      "startMs": 202720,
+      "endMs": 209280,
+      "en": "Nonetheless, it's a policy that threatens to heighten tensions between the United States and Canada.",
+      "zh": "尽管如此，这项政策仍可能加剧美国和加拿大之间的紧张关系。"
+    },
+    {
+      "id": 34,
+      "startMs": 209280,
+      "endMs": 216560,
+      "en": "To make negotiations over a new US-Canada-Mexico trade agreement all the more difficult.",
+      "zh": "并使围绕新的美加墨贸易协定的谈判更加困难。"
+    },
+    {
+      "id": 35,
+      "startMs": 217040,
+      "endMs": 225200,
+      "en": "And it will impact the economies of both nations because potentially it could weaken investment in Canada and put jobs at risk there.",
+      "zh": "这还会影响两国经济，因为它可能削弱加拿大的投资，并使当地就业面临风险。"
+    },
+    {
+      "id": 36,
+      "startMs": 225440,
+      "endMs": 231460,
+      "en": "It could push up prices here in the United States at what would be a very unfortunate time.",
+      "zh": "这可能在一个非常不利的时机推高美国的物价。"
+    },
+    {
+      "id": 37,
+      "startMs": 231460,
+      "endMs": 238020,
+      "en": "Of course, for President Trump, there are just three months—less than three months—to go until the midterm elections.",
+      "zh": "当然，对特朗普总统而言，距离中期选举只剩三个月——还不到三个月。"
+    },
+    {
+      "id": 38,
+      "startMs": 238100,
+      "endMs": 247140,
+      "en": "One of the crucial issues is likely to be inflation, the so-called affordability crisis here in the United States.",
+      "zh": "其中一个关键议题很可能是通胀，也就是美国所谓的“生活负担危机”。"
+    },
+    {
+      "id": 39,
+      "startMs": 247140,
+      "endMs": 254260,
+      "en": "Indeed, already one US Senator, Amy Klobuchar of Minnesota—that's a state which borders Canada—",
+      "zh": "事实上，美国参议员艾米·克洛布彻已经发出警告；她来自与加拿大接壤的明尼苏达州——"
+    },
+    {
+      "id": 40,
+      "startMs": 254660,
+      "endMs": 260740,
+      "en": "has warned of the possibility of rising costs for businesses there because of this dispute.",
+      "zh": "她警告说，这场争端可能导致当地企业成本上升。"
+    },
+    {
+      "id": 41,
+      "startMs": 260980,
+      "endMs": 267460,
+      "en": "I suppose President Trump would say that all this could be avoided if only Canada would agree to become the 51st state.",
+      "zh": "我想，特朗普总统会说，只要加拿大同意成为美国第51个州，这一切都可以避免。"
+    },
+    {
+      "id": 42,
+      "startMs": 268020,
+      "endMs": 274420,
+      "en": "That's right, and that's one of the things that he's said in the past that has really infuriated the Canadians, of course.",
+      "zh": "没错，这正是他过去说过、令加拿大人极其愤怒的事情之一。"
+    },
+    {
+      "id": 43,
+      "startMs": 274420,
+      "endMs": 283140,
+      "en": "And Canada is now preparing to retaliate with tariffs of its own that are set to come into place in just a couple of weeks' time.",
+      "zh": "加拿大现在正准备实施自己的反制关税，预计几周后就会生效。"
+    },
+    {
+      "id": 44,
+      "startMs": 283540,
+      "endMs": 292360,
+      "en": "Those are expected to target US farmers, with tariffs on dairy appliances and other agricultural equipment as well.",
+      "zh": "这些关税预计将针对美国农民，也会涉及乳制品设备和其他农业器械。"
+    },
+    {
+      "id": 45,
+      "startMs": 292920,
+      "endMs": 300200,
+      "en": "And Mark Carney alluded to the mistrust that now exists between Canada and the United States.",
+      "zh": "马克·卡尼还提到了如今存在于加拿大和美国之间的不信任。"
+    },
+    {
+      "id": 46,
+      "startMs": 300200,
+      "endMs": 306840,
+      "en": "You mentioned those rapidly deteriorating relations over President Trump's comments, Alex, there.",
+      "zh": "你刚才提到，特朗普总统的言论让两国关系迅速恶化，亚历克斯。"
+    },
+    {
+      "id": 47,
+      "startMs": 306840,
+      "endMs": 315480,
+      "en": "And as Mark Carney said, the new US tariffs were designed, as he put it, to hurt Canada and divide its citizens.",
+      "zh": "正如马克·卡尼所说，正如他的原话，新关税的设计目的就是伤害加拿大、分裂加拿大民众。"
+    },
+    {
+      "id": 48,
+      "startMs": 315480,
+      "endMs": 321560,
+      "en": "He said the United States was, in his words, trying to break Canada so that it could own the country.",
+      "zh": "他称，美国用他的话说，正试图击垮加拿大，从而拥有这个国家。"
+    },
+    {
+      "id": 49,
+      "startMs": 321640,
+      "endMs": 329080,
+      "en": "A reference, presumably, to what you were just talking about there, Alex, of President Trump's remarks about the 51st state. David Willis.",
+      "zh": "这显然是在指你刚才提到的、特朗普总统关于第51个州的言论。David Willis 报道。"
+    },
+    {
+      "id": 50,
+      "startMs": 329080,
+      "endMs": 338600,
+      "en": "Let's stay in the United States, because the editor-in-chief of the US military newspaper Stars and Stripes says he was sacked for insubordination.",
+      "zh": "让我们继续关注美国。美国军方报纸《星条旗报》的主编称，他因不服从命令而被解职。"
+    },
+    {
+      "id": 51,
+      "startMs": 338920,
+      "endMs": 345000,
+      "en": "Eric Slavin claimed that this was because he spoke out against potential editorial interference by the Pentagon.",
+      "zh": "埃里克·斯拉文称，这是因为他公开反对五角大楼可能干预编辑事务。"
+    },
+    {
+      "id": 52,
+      "startMs": 345400,
+      "endMs": 354700,
+      "en": "And a correspondent, Lara Korff, also said she'd been fired after she reported on the alleged hardships of sailors aboard the USS Abraham Lincoln.",
+      "zh": "记者拉拉·科夫也称，她报道“亚伯拉罕·林肯”号航母上水兵据称面临的困境后遭到解雇。"
+    },
+    {
+      "id": 53,
+      "startMs": 355180,
+      "endMs": 361340,
+      "en": "Stars and Stripes is partly funded by the Defense Department, but has historically been editorially independent.",
+      "zh": "《星条旗报》部分由国防部资助，但历来保持编辑独立。"
+    },
+    {
+      "id": 54,
+      "startMs": 361660,
+      "endMs": 367580,
+      "en": "James Coomarasamy asked Mr. Slavin whether he was surprised by the department's decision to fire him.",
+      "zh": "詹姆斯·库马拉萨米询问斯拉文，国防部决定解雇他是否令他感到意外。"
+    },
+    {
+      "id": 55,
+      "startMs": 368060,
+      "endMs": 371020,
+      "en": "It's certainly not what I expected when I woke up on Friday morning.",
+      "zh": "星期五早上醒来时，我确实没想到会发生这样的事。"
+    },
+    {
+      "id": 56,
+      "startMs": 371260,
+      "endMs": 384140,
+      "en": "Certainly there were tensions that went back to a 15th of January tweet by a senior Pentagon press official about changing Stars and Stripes substantially.",
+      "zh": "当然，早在1月15日，五角大楼一名高级新闻官员发帖谈到要大幅改变《星条旗报》时，双方就已经存在紧张关系。"
+    },
+    {
+      "id": 57,
+      "startMs": 384780,
+      "endMs": 387260,
+      "en": "And that tweet came with absolutely zero notice.",
+      "zh": "而且那条推文事先完全没有任何通知。"
+    },
+    {
+      "id": 58,
+      "startMs": 387660,
+      "endMs": 398380,
+      "en": "At the same time, a federal regulation was removed, and a story was leaked to a friendly news organization.",
+      "zh": "与此同时，一项联邦法规被删除，一则消息被泄露给一家友好的新闻机构。"
+    },
+    {
+      "id": 59,
+      "startMs": 399060,
+      "endMs": 407380,
+      "en": "The story was about firing a bunch of our reporters, so we had some idea that there were problems, but still did not expect this to happen.",
+      "zh": "那则消息谈的是要解雇我们的一批记者，所以我们知道出了问题，但仍没想到事情会这样发生。"
+    },
+    {
+      "id": 60,
+      "startMs": 408180,
+      "endMs": 417220,
+      "en": "When that process began and you got wind that changes were coming—substantial changes from the Pentagon—what did you do?",
+      "zh": "当这一过程开始、你得知五角大楼将要进行重大改变时，你做了什么？"
+    },
+    {
+      "id": 61,
+      "startMs": 418040,
+      "endMs": 423160,
+      "en": "Well, initially we attempted to contact them for more information, and they referred us to the tweet.",
+      "zh": "起初，我们试图联系他们获取更多信息，但他们让我们去看那条推文。"
+    },
+    {
+      "id": 62,
+      "startMs": 423400,
+      "endMs": 432280,
+      "en": "And then nothing really happened for about two months, and we felt rather secure that maybe things could, you know, die down a bit.",
+      "zh": "之后大约两个月什么都没发生，我们相当安心，觉得事情或许会平息一些。"
+    },
+    {
+      "id": 63,
+      "startMs": 433080,
+      "endMs": 441800,
+      "en": "And then another memo came out on the 9th of March, which proceeded to reaffirm our independence, but then place new restrictions upon the organization.",
+      "zh": "然后3月9日又发布了一份备忘录，重申我们的独立性，却又对这个机构施加了新的限制。"
+    },
+    {
+      "id": 64,
+      "startMs": 441880,
+      "endMs": 447400,
+      "en": "You gave, I guess, what would now be seen as a fateful interview, from your point of view, to CBS…",
+      "zh": "我想，从你的角度看，你接受了CBS的一次如今看来或许决定命运的采访……"
+    },
+    {
+      "id": 65,
+      "startMs": 447400,
+      "endMs": 453240,
+      "en": "in which you were asked about red lines the Pentagon shouldn't cross, and you talked about censorship.",
+      "zh": "采访中有人问到五角大楼不应越过的红线，你谈到了审查。"
+    },
+    {
+      "id": 66,
+      "startMs": 453400,
+      "endMs": 458040,
+      "en": "Is that because you believe now that censorship is in place?",
+      "zh": "这是因为你现在认为审查已经存在吗？"
+    },
+    {
+      "id": 67,
+      "startMs": 458280,
+      "endMs": 463880,
+      "en": "Well, that was my unofficial opinion that I gave to CBS, and they asked me what my red line would be.",
+      "zh": "那只是我向CBS表达的非正式看法；他们问我的红线是什么。"
+    },
+    {
+      "id": 68,
+      "startMs": 464120,
+      "endMs": 473140,
+      "en": "And I said, if there was a perfectly accurate story we weren't allowed to run, and they gave us something else written by the Pentagon, that would be a red line for me.",
+      "zh": "我说，如果一篇完全准确的报道不准我们刊发，却给我们一篇五角大楼写的其他稿件，那对我来说就是红线。"
+    },
+    {
+      "id": 69,
+      "startMs": 473300,
+      "endMs": 476660,
+      "en": "I never said that I would disobey any sort of directive.",
+      "zh": "我从没说过要违抗任何指令。"
+    },
+    {
+      "id": 70,
+      "startMs": 476660,
+      "endMs": 484100,
+      "en": "I simply explained what I thought the rules were, because the rules say that we must remain editorially independent.",
+      "zh": "我只是解释了我所理解的规则，因为规则要求我们保持编辑独立。"
+    },
+    {
+      "id": 71,
+      "startMs": 484100,
+      "endMs": 491060,
+      "en": "That's actually Defense Department policy, and for that I was given a separation notice for insubordination.",
+      "zh": "这其实是国防部的政策，而我却因此收到了一份以不服从命令为由的解职通知。"
+    },
+    {
+      "id": 72,
+      "startMs": 491380,
+      "endMs": 496420,
+      "en": "I sincerely hope that Stars and Stripes can continue to report independently.",
+      "zh": "我真心希望《星条旗报》能够继续独立报道。"
+    },
+    {
+      "id": 73,
+      "startMs": 496820,
+      "endMs": 499700,
+      "en": "Of course, I'm concerned, given what has recently happened.",
+      "zh": "当然，鉴于最近发生的事，我很担忧。"
+    },
+    {
+      "id": 74,
+      "startMs": 499860,
+      "endMs": 506500,
+      "en": "Why is it so important that a newspaper is independent, but it is for servicemen and women?",
+      "zh": "一家面向军人的报纸保持独立，为什么如此重要？"
+    },
+    {
+      "id": 75,
+      "startMs": 506980,
+      "endMs": 515580,
+      "en": "Why is it so important that it does report independently and is not, if you like, an in-house magazine that is used to boost morale?",
+      "zh": "为什么它必须独立报道，而不能算作一种用于鼓舞士气的内部杂志？"
+    },
+    {
+      "id": 76,
+      "startMs": 515900,
+      "endMs": 523260,
+      "en": "I think it is ultimately one of the best expressions of American values that we can show the world.",
+      "zh": "我认为，这最终是我们向世界展示美国价值观的最佳方式之一。"
+    },
+    {
+      "id": 77,
+      "startMs": 523340,
+      "endMs": 533260,
+      "en": "Here is a news organization that is partially funded by the government, and part of its job is to hold government to account.",
+      "zh": "这是一个部分由政府资助的新闻机构，而它的职责之一就是监督政府、让政府承担责任。"
+    },
+    {
+      "id": 78,
+      "startMs": 533820,
+      "endMs": 537660,
+      "en": "Eric Slavin of the US military newspaper Stars and Stripes.",
+      "zh": "美国军方报纸《星条旗报》的埃里克·斯拉文。"
+    },
+    {
+      "id": 79,
+      "startMs": 538140,
+      "endMs": 547980,
+      "en": "The Pentagon declined to comment on his claims, but it previously issued a memo saying that the paper's articles must be consistent with good order and military discipline.",
+      "zh": "五角大楼拒绝评论他的说法，但此前曾发布备忘录称，该报文章必须符合良好秩序和军纪。"
+    },
+    {
+      "id": 80,
+      "startMs": 547980,
+      "endMs": 556780,
+      "en": "China's second World Humanoid Robot Games are underway in Beijing, where more than 2,000 robots are participating in events.",
+      "zh": "中国第二届世界人形机器人运动会正在北京举行，超过2000台机器人参加各项比赛。"
+    },
+    {
+      "id": 81,
+      "startMs": 556780,
+      "endMs": 562060,
+      "en": "These include boxing and sprints, as well as household tasks and even firefighting.",
+      "zh": "项目包括拳击、短跑、家务，甚至消防。"
+    },
+    {
+      "id": 82,
+      "startMs": 562220,
+      "endMs": 566700,
+      "en": "The teams taking part in the competition represent companies rather than countries.",
+      "zh": "参赛队伍代表的是企业，而不是国家。"
+    },
+    {
+      "id": 83,
+      "startMs": 567180,
+      "endMs": 574140,
+      "en": "One of them, the Chinese smartphone maker Honor, says its humanoid robot has broken the world record.",
+      "zh": "其中一家中国智能手机制造商荣耀称，其人形机器人打破了世界纪录。"
+    },
+    {
+      "id": 84,
+      "startMs": 574140,
+      "endMs": 578380,
+      "en": "It broke the 100-metre sprint record set by Usain Bolt 17 years ago.",
+      "zh": "它打破了博尔特17年前创造的100米短跑纪录。"
+    },
+    {
+      "id": 85,
+      "startMs": 578940,
+      "endMs": 585980,
+      "en": "The BBC's China correspondent Laura Bicker was at the games' opening day in Beijing and sent us this report.",
+      "zh": "BBC中国记者劳拉·比克在北京参加了运动会开幕日，并发回报道。"
+    },
+    {
+      "id": 86,
+      "startMs": 586720,
+      "endMs": 596320,
+      "en": "Before the games had even begun, a robot smashed the 100-metre world record.",
+      "zh": "运动会甚至还没开始，一台机器人就打破了100米世界纪录。"
+    },
+    {
+      "id": 87,
+      "startMs": 597680,
+      "endMs": 600320,
+      "en": "Rather fittingly, it's called Lightning.",
+      "zh": "很贴切的是，它名叫“闪电”。"
+    },
+    {
+      "id": 88,
+      "startMs": 600960,
+      "endMs": 604880,
+      "en": "Speed isn't the problem; braking is.",
+      "zh": "速度不是问题，刹车才是。"
+    },
+    {
+      "id": 89,
+      "startMs": 605520,
+      "endMs": 608320,
+      "en": "And after the finish line, it looked like it needed a lie down.",
+      "zh": "冲过终点线后，它看起来需要躺下来休息。"
+    },
+    {
+      "id": 90,
+      "startMs": 609420,
+      "endMs": 615980,
+      "en": "This display of precision, power, and programming isn't just to prove robots can jump high.",
+      "zh": "这场精准、力量与编程能力的展示，不只是为了证明机器人能跳得高。"
+    },
+    {
+      "id": 91,
+      "startMs": 617720,
+      "endMs": 620600,
+      "en": "It's to show how far this technology has come.",
+      "zh": "它还要展示这项技术已经发展到何种程度。"
+    },
+    {
+      "id": 92,
+      "startMs": 622280,
+      "endMs": 630840,
+      "en": "As competitors lined up in a packed stadium, China choreographed an opening ceremony to showcase its technological ambitions.",
+      "zh": "参赛者在座无虚席的体育场列队时，中国精心编排开幕式，展示其科技雄心。"
+    },
+    {
+      "id": 93,
+      "startMs": 631080,
+      "endMs": 634120,
+      "en": "I'm very surprised by the improvements.",
+      "zh": "我对这些进步感到非常惊讶。"
+    },
+    {
+      "id": 94,
+      "startMs": 634120,
+      "endMs": 637960,
+      "en": "I feel very proud of our country's technological advancements.",
+      "zh": "我为我们国家的科技进步感到非常自豪。"
+    },
+    {
+      "id": 95,
+      "startMs": 638440,
+      "endMs": 644760,
+      "en": "I hope my daughter can one day work in this industry and contribute to our nation.",
+      "zh": "我希望女儿有一天能在这个行业工作，为我们的国家作贡献。"
+    },
+    {
+      "id": 96,
+      "startMs": 644840,
+      "endMs": 652920,
+      "en": "Almost every team here is Chinese, but the real competition extends far beyond the arena.",
+      "zh": "这里几乎每支队伍都是中国队，但真正的竞争远远超出赛场。"
+    },
+    {
+      "id": 97,
+      "startMs": 652920,
+      "endMs": 656920,
+      "en": "It mirrors a much larger race with the United States.",
+      "zh": "这反映出一场规模大得多的中美竞赛。"
+    },
+    {
+      "id": 98,
+      "startMs": 657300,
+      "endMs": 666100,
+      "en": "There's no doubt China's robots have made advances in the last year, but the question investors want to know is not just how fast they can run.",
+      "zh": "毫无疑问，中国的机器人在过去一年取得了进步，但投资者想知道的不只是它们跑得多快。"
+    },
+    {
+      "id": 99,
+      "startMs": 666500,
+      "endMs": 669380,
+      "en": "Can they actually fold laundry?",
+      "zh": "它们真的会叠衣服吗？"
+    },
+    {
+      "id": 100,
+      "startMs": 669780,
+      "endMs": 676100,
+      "en": "Can this technological spectacle step out of the sporting arena and be of some use in your home?",
+      "zh": "这场科技奇观能走出体育场，在你家中发挥作用吗？"
+    },
+    {
+      "id": 101,
+      "startMs": 677720,
+      "endMs": 680920,
+      "en": "And now, even housework is a competitive sport.",
+      "zh": "现在，连家务都成了竞技项目。"
+    },
+    {
+      "id": 102,
+      "startMs": 681400,
+      "endMs": 684120,
+      "en": "Points are lost for dropped items and collisions.",
+      "zh": "物品掉落和发生碰撞都会被扣分。"
+    },
+    {
+      "id": 103,
+      "startMs": 684600,
+      "endMs": 688440,
+      "en": "And yes, in the future, apparently even our pets are robots.",
+      "zh": "没错，显然未来连我们的宠物也会是机器人。"
+    },
+    {
+      "id": 104,
+      "startMs": 690240,
+      "endMs": 694000,
+      "en": "China is already a global leader in humanoid robotics.",
+      "zh": "中国已经是全球人形机器人技术的领导者。"
+    },
+    {
+      "id": 105,
+      "startMs": 694400,
+      "endMs": 696480,
+      "en": "It's attracting attention in Washington.",
+      "zh": "这正引起华盛顿的关注。"
+    },
+    {
+      "id": 106,
+      "startMs": 696800,
+      "endMs": 701280,
+      "en": "Donald Trump has moved to restrict imports of some new Chinese products.",
+      "zh": "唐纳德·特朗普已采取措施限制一些中国新产品的进口。"
+    },
+    {
+      "id": 107,
+      "startMs": 701800,
+      "endMs": 709960,
+      "en": "But this country's biggest challenge isn't building these machines; it's turning them into something millions of people actually want to buy.",
+      "zh": "但这个国家最大的挑战不是造出这些机器，而是让数百万人真正想买它们。"
+    },
+    {
+      "id": 108,
+      "startMs": 711460,
+      "endMs": 713380,
+      "en": "Laura Bicker in Beijing.",
+      "zh": "劳拉·比克在北京报道。"
+    },
+    {
+      "id": 109,
+      "startMs": 715900,
+      "endMs": 724540,
+      "en": "Still to come in this podcast: what time is it on the Moon, and why that question needs to be answered sooner rather than later?",
+      "zh": "本期节目稍后将讨论：月球上现在是什么时间？为什么这个问题必须尽快得到答案？"
+    },
+    {
+      "id": 110,
+      "startMs": 724860,
+      "endMs": 727100,
+      "en": "Time is really critical for a spacecraft.",
+      "zh": "时间对航天器至关重要。"
+    },
+    {
+      "id": 111,
+      "startMs": 727100,
+      "endMs": 731020,
+      "en": "If you get it wrong, you might fire your rocket engines at just the wrong time.",
+      "zh": "如果时间弄错，火箭发动机可能会在完全错误的时刻点火。"
+    },
+    {
+      "id": 112,
+      "startMs": 731020,
+      "endMs": 734780,
+      "en": "Your navigation errors could go huge, and it could have catastrophic consequences.",
+      "zh": "导航误差可能大幅增加，并造成灾难性后果。"
+    },
+    {
+      "id": 113,
+      "startMs": 734780,
+      "endMs": 737100,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 114,
+      "startMs": 737900,
+      "endMs": 741980,
+      "en": "Fish skin has been used by doctors to treat burns for years.",
+      "zh": "多年来，医生一直使用鱼皮治疗烧伤。"
+    },
+    {
+      "id": 115,
+      "startMs": 742060,
+      "endMs": 754380,
+      "en": "Now, a team of US scientists says fish skin may be safer and more effective than man-made products typically used before major skin surgery, such as skin grafts.",
+      "zh": "如今，一个美国科学家团队称，与大型皮肤手术（如植皮）前通常使用的人造产品相比，鱼皮可能更安全、更有效。"
+    },
+    {
+      "id": 116,
+      "startMs": 754860,
+      "endMs": 757580,
+      "en": "But what kind of fish are we talking about exactly?",
+      "zh": "但我们具体说的是哪种鱼？"
+    },
+    {
+      "id": 117,
+      "startMs": 757580,
+      "endMs": 760140,
+      "en": "I put that question to our reporter, Warren Bull.",
+      "zh": "我把这个问题交给记者沃伦·布尔。"
+    },
+    {
+      "id": 118,
+      "startMs": 760540,
+      "endMs": 767900,
+      "en": "We're talking about Atlantic cod, and the reason why they chose Atlantic cod is because they're very large.",
+      "zh": "我们说的是大西洋鳕鱼；他们选择它，是因为这种鱼体型很大。"
+    },
+    {
+      "id": 119,
+      "startMs": 768060,
+      "endMs": 772220,
+      "en": "So it means that they can cover a large area that has been burned.",
+      "zh": "这意味着鱼皮可以覆盖大面积烧伤区域。"
+    },
+    {
+      "id": 120,
+      "startMs": 772540,
+      "endMs": 778220,
+      "en": "And in a surgical situation, that's quite important because it means they don't have to stitch bits together.",
+      "zh": "在手术中这一点很重要，因为不必把多块鱼皮缝在一起。"
+    },
+    {
+      "id": 121,
+      "startMs": 778620,
+      "endMs": 784780,
+      "en": "It's much more practical in a surgery situation ahead of giving a skin graft.",
+      "zh": "在植皮前的手术阶段，这样实用得多。"
+    },
+    {
+      "id": 122,
+      "startMs": 784780,
+      "endMs": 787020,
+      "en": "So, how does this work exactly?",
+      "zh": "那么，这具体是如何发挥作用的？"
+    },
+    {
+      "id": 123,
+      "startMs": 787260,
+      "endMs": 793100,
+      "en": "What they do is they put the fish skin onto the burnt area.",
+      "zh": "他们会把鱼皮敷在烧伤部位。"
+    },
+    {
+      "id": 124,
+      "startMs": 793580,
+      "endMs": 802240,
+      "en": "Ahead of giving a skin graft, the idea has been used for years with synthetic products.",
+      "zh": "在植皮前，多年来人们一直用合成产品进行类似处理。"
+    },
+    {
+      "id": 125,
+      "startMs": 802560,
+      "endMs": 808880,
+      "en": "Normally, they use something with collagen in it, because it's a human protein like glue and helps accelerate healing.",
+      "zh": "通常使用含胶原蛋白的材料，因为胶原蛋白是类似胶水的人体蛋白质，有助于加速愈合。"
+    },
+    {
+      "id": 126,
+      "startMs": 809280,
+      "endMs": 815920,
+      "en": "In this case, they've gone back to something far more ancient that people sometimes used with burns.",
+      "zh": "这一次，他们回到了更古老的方法——人们过去有时用它治疗烧伤。"
+    },
+    {
+      "id": 127,
+      "startMs": 816240,
+      "endMs": 818400,
+      "en": "They've also used honey in the past.",
+      "zh": "过去人们也用过蜂蜜。"
+    },
+    {
+      "id": 128,
+      "startMs": 818800,
+      "endMs": 827840,
+      "en": "But with fish, they found that it has properties that give what they say is the right amount of inflammation to assist the healing process.",
+      "zh": "但他们发现，鱼皮具有能产生适量炎症的特性，从而帮助伤口愈合。"
+    },
+    {
+      "id": 129,
+      "startMs": 828160,
+      "endMs": 835920,
+      "en": "So it does come up looking red after the fish has been applied, but it doesn't then harm the skin.",
+      "zh": "鱼皮敷上后，皮肤确实会发红，但不会因此损伤皮肤。"
+    },
+    {
+      "id": 130,
+      "startMs": 836320,
+      "endMs": 839840,
+      "en": "It allows it to heal ahead of having a skin graft.",
+      "zh": "它能让伤口在植皮前愈合。"
+    },
+    {
+      "id": 131,
+      "startMs": 840160,
+      "endMs": 850720,
+      "en": "They found that patients would leave hospital up to 12 days earlier than if they'd had a synthetic version of this.",
+      "zh": "他们发现，与使用合成替代品相比，接受鱼皮治疗的患者最多可提前12天出院。"
+    },
+    {
+      "id": 132,
+      "startMs": 851520,
+      "endMs": 859300,
+      "en": "So, for example, they said that patients on average were having a skin graft and coming out 25 days later instead of 37 days later.",
+      "zh": "例如，他们说，患者接受植皮后平均25天出院，而不是37天。"
+    },
+    {
+      "id": 133,
+      "startMs": 859300,
+      "endMs": 862580,
+      "en": "So there was a massive difference in how long they'd have to stay in hospital.",
+      "zh": "因此，他们住院所需的时间有巨大差异。"
+    },
+    {
+      "id": 134,
+      "startMs": 863220,
+      "endMs": 869380,
+      "en": "And they also said that they had a lower chance of other complications compared to synthetic treatments.",
+      "zh": "他们还说，与合成治疗相比，其他并发症的概率更低。"
+    },
+    {
+      "id": 135,
+      "startMs": 869460,
+      "endMs": 873860,
+      "en": "So, for example, it cut their chances of getting sepsis by half.",
+      "zh": "例如，这使他们患败血症的概率减半。"
+    },
+    {
+      "id": 136,
+      "startMs": 874340,
+      "endMs": 881220,
+      "en": "It had an all-round effect that was an improvement on using a synthetic product that had collagen in it. Warren Bull.",
+      "zh": "总体而言，这种方法比使用含胶原蛋白的合成产品效果更好。沃伦·布尔报道。"
+    },
+    {
+      "id": 137,
+      "startMs": 881540,
+      "endMs": 892260,
+      "en": "For several years, scientists have been finding evidence that seas, lakes and rivers are being contaminated by traces of drugs, including antibiotics and opioids.",
+      "zh": "多年来，科学家一直发现证据表明，海洋、湖泊和河流正受到包括抗生素和阿片类药物在内的药物残留污染。"
+    },
+    {
+      "id": 138,
+      "startMs": 892260,
+      "endMs": 898740,
+      "en": "But recently, there have been more cases of these kinds of substances being found in marine animals.",
+      "zh": "但最近，在海洋动物体内发现这类物质的案例越来越多。"
+    },
+    {
+      "id": 139,
+      "startMs": 899220,
+      "endMs": 902900,
+      "en": "Earlier this year, sharks in the Caribbean were found to have swallowed caffeine.",
+      "zh": "今年早些时候，人们发现加勒比海的鲨鱼吞食了咖啡因。"
+    },
+    {
+      "id": 140,
+      "startMs": 903300,
+      "endMs": 908820,
+      "en": "So, what's going on, and how can these drugs be removed from marine environments?",
+      "zh": "那么，这是怎么回事？这些药物又该如何从海洋环境中清除？"
+    },
+    {
+      "id": 141,
+      "startMs": 909220,
+      "endMs": 912420,
+      "en": "The BBC's Ryan Keane has been looking into the phenomenon.",
+      "zh": "BBC 记者 Ryan Keane 一直在调查这一现象。"
+    },
+    {
+      "id": 142,
+      "startMs": 913140,
+      "endMs": 916120,
+      "en": "One of the main ways drugs enter wild water is through sewage plants.",
+      "zh": "药物进入自然水域的主要途径之一，是通过污水处理厂。"
+    },
+    {
+      "id": 143,
+      "startMs": 919080,
+      "endMs": 924600,
+      "en": "When people don't finish a course of antibiotics or antidepressants, for instance, they might flush them down the toilet whole.",
+      "zh": "例如，人们没有完成一疗程的抗生素或抗抑郁药治疗时，可能会把整颗药冲进马桶。"
+    },
+    {
+      "id": 144,
+      "startMs": 927600,
+      "endMs": 933280,
+      "en": "And even if they do finish the course, traces of these drugs can enter the sewage system through their urine or faecal matter.",
+      "zh": "即使完成了疗程，这些药物的残留也可能通过尿液或粪便进入污水系统。"
+    },
+    {
+      "id": 145,
+      "startMs": 933920,
+      "endMs": 936720,
+      "en": "But why aren't some sewage plants filtering out these toxins?",
+      "zh": "但为什么有些污水处理厂没有过滤掉这些毒素？"
+    },
+    {
+      "id": 146,
+      "startMs": 937600,
+      "endMs": 940480,
+      "en": "They were designed to filter out solids and nutrients like nitrogen.",
+      "zh": "它们原本是为过滤固体和氮等营养物而设计的。"
+    },
+    {
+      "id": 147,
+      "startMs": 941120,
+      "endMs": 946960,
+      "en": "In periods of heavy rain and flooding, sewage naturally overflows, especially before it's been screened and treated.",
+      "zh": "在强降雨和洪水期间，污水会自然溢出，尤其是在经过筛滤和处理之前。"
+    },
+    {
+      "id": 148,
+      "startMs": 947760,
+      "endMs": 953360,
+      "en": "And of course, if untreated sewage is going into wild water and into wildlife, so are the traces of drugs inside it.",
+      "zh": "当然，如果未经处理的污水进入自然水域和野生动物栖息地，其中的药物残留也会随之进入。"
+    },
+    {
+      "id": 149,
+      "startMs": 954360,
+      "endMs": 959960,
+      "en": "One study conducted this year in the Bahamas uncovered a new substance present in sharks: caffeine.",
+      "zh": "今年在巴哈马开展的一项研究发现，鲨鱼体内出现了一种新物质：咖啡因。"
+    },
+    {
+      "id": 150,
+      "startMs": 960440,
+      "endMs": 965720,
+      "en": "Natascha Wosnick, who led the study, told me she was shocked by the findings gathered through blood sampling.",
+      "zh": "主持这项研究的 Natascha Wosnick 告诉我，她对通过血液采样得出的发现感到震惊。"
+    },
+    {
+      "id": 151,
+      "startMs": 966200,
+      "endMs": 975320,
+      "en": "I guess what surprised us the most was finding these substances in sharks in a place we often imagine as a pristine paradise, far from pollution and other human disturbances.",
+      "zh": "最令我们惊讶的，是在鲨鱼体内发现了这些物质，而那里常被我们想象成远离污染和其他人类干扰的纯净天堂。"
+    },
+    {
+      "id": 152,
+      "startMs": 975720,
+      "endMs": 984540,
+      "en": "We detected cocaine alongside caffeine and painkillers, showing that very different substances from our daily lives are making their way into the marine environment.",
+      "zh": "我们检测到可卡因、咖啡因和止痛药，这表明日常生活中各种截然不同的物质正进入海洋环境。"
+    },
+    {
+      "id": 153,
+      "startMs": 984860,
+      "endMs": 986940,
+      "en": "And that was a real eye-opener for us.",
+      "zh": "这确实让我们大开眼界。"
+    },
+    {
+      "id": 154,
+      "startMs": 987420,
+      "endMs": 995340,
+      "en": "It's unknown how caffeine affects shark behavior, but one aquatic species where behavioral changes have been logged as a result of drug pollution is Atlantic salmon.",
+      "zh": "目前尚不清楚咖啡因如何影响鲨鱼行为，但已有一种水生物种被记录到因药物污染而出现行为变化，那就是大西洋鲑。"
+    },
+    {
+      "id": 155,
+      "startMs": 997480,
+      "endMs": 1000200,
+      "en": "So what are some of the possible solutions to drug pollution?",
+      "zh": "那么，药物污染有哪些可能的解决办法？"
+    },
+    {
+      "id": 156,
+      "startMs": 1000520,
+      "endMs": 1003800,
+      "en": "One obvious suggestion is to improve filtration techniques in sewage plants.",
+      "zh": "一个显而易见的建议，是改进污水处理厂的过滤技术。"
+    },
+    {
+      "id": 157,
+      "startMs": 1004760,
+      "endMs": 1011240,
+      "en": "While bigger-picture solutions are being discussed by regulators, one expert I've spoken to says a shorter-term solution could be explored.",
+      "zh": "监管机构正在讨论更宏观的解决方案；我采访的一位专家说，也可以探索短期解决办法。"
+    },
+    {
+      "id": 158,
+      "startMs": 1011880,
+      "endMs": 1019880,
+      "en": "Charles Tyler at the University of Exeter in the UK says that despite few anti-waste programs existing, one country is leading the charge for change.",
+      "zh": "英国埃克塞特大学的查尔斯·泰勒说，尽管现有的反浪费项目很少，但有一个国家正带头推动改变。"
+    },
+    {
+      "id": 159,
+      "startMs": 1020280,
+      "endMs": 1026920,
+      "en": "Now in Sweden it's very different, largely through things like extensive public awareness campaigns on the risk of drugs to wildlife and the environment.",
+      "zh": "在瑞典，情况则大不相同，主要得益于广泛开展的公众宣传活动，提醒人们药物对野生动物和环境的风险。"
+    },
+    {
+      "id": 160,
+      "startMs": 1027240,
+      "endMs": 1030040,
+      "en": "How likely it is that other governments will follow suit is debatable.",
+      "zh": "其他政府有多大可能效仿，仍有争议。"
+    },
+    {
+      "id": 161,
+      "startMs": 1030360,
+      "endMs": 1036760,
+      "en": "But the scheme in Sweden shows that where there's a will to keep drug traces out of our water sources, there's most certainly a way.",
+      "zh": "但瑞典的方案表明，只要有意愿让药物残留远离我们的水源，就肯定能找到办法。"
+    },
+    {
+      "id": 162,
+      "startMs": 1038600,
+      "endMs": 1039720,
+      "en": "Ryan Keane.",
+      "zh": "Ryan Keane 报道。"
+    },
+    {
+      "id": 163,
+      "startMs": 1040680,
+      "endMs": 1048680,
+      "en": "The FBI has returned dozens of stolen artifacts to Egypt after a successful investigation into a trafficking operation.",
+      "zh": "美国联邦调查局经过成功调查一宗走私行动后，已将数十件被盗文物归还埃及。"
+    },
+    {
+      "id": 164,
+      "startMs": 1048760,
+      "endMs": 1057160,
+      "en": "The objects, spanning thousands of years of Egyptian history, were displayed at a ceremony in Los Angeles, as Stephanie Prentice reports.",
+      "zh": "这些跨越数千年埃及历史的文物在洛杉矶一场仪式上展出，斯蒂芬妮·普伦蒂斯报道。"
+    },
+    {
+      "id": 165,
+      "startMs": 1059480,
+      "endMs": 1069480,
+      "en": "Officials from the FBI's Art Crime Team handing over 48 stolen items, including jewellery, statues, sculptures and ancient inscriptions.",
+      "zh": "FBI艺术犯罪小组的官员正在移交48件被盗物品，包括珠宝、雕像、雕塑和古代铭文。"
+    },
+    {
+      "id": 166,
+      "startMs": 1070200,
+      "endMs": 1074440,
+      "en": "The team in Los Angeles confirmed they'd been removed from Egypt illegally.",
+      "zh": "洛杉矶的这支团队确认，这些物品是被非法带出埃及的。"
+    },
+    {
+      "id": 167,
+      "startMs": 1075000,
+      "endMs": 1077720,
+      "en": "Patrick Grandy was one of the leads on the case.",
+      "zh": "Patrick Grandy 是此案的主要负责人之一。"
+    },
+    {
+      "id": 168,
+      "startMs": 1078200,
+      "endMs": 1081000,
+      "en": "These artifacts represent the rich history of Egypt.",
+      "zh": "这些文物代表着埃及丰富的历史。"
+    },
+    {
+      "id": 169,
+      "startMs": 1081800,
+      "endMs": 1088360,
+      "en": "Most of them are thousands of years old, and their cultural significance to the Egyptian people is invaluable.",
+      "zh": "其中大多数已有数千年历史，对埃及人民而言具有无可估量的文化意义。"
+    },
+    {
+      "id": 170,
+      "startMs": 1088920,
+      "endMs": 1098840,
+      "en": "The items include carved figurines, amulets and tomb equipment, among other items, from the Pharaonic, Roman and Coptic periods.",
+      "zh": "这些物品包括法老时期、罗马时期和科普特时期的雕刻小像、护身符、墓葬用品等。"
+    },
+    {
+      "id": 171,
+      "startMs": 1099320,
+      "endMs": 1103320,
+      "en": "Details of how the items were taken were not revealed during the handover.",
+      "zh": "移交仪式上没有透露这些物品被带走的具体经过。"
+    },
+    {
+      "id": 172,
+      "startMs": 1103320,
+      "endMs": 1107640,
+      "en": "But agents suggested the haul is part of a wider smuggling network.",
+      "zh": "但探员暗示，这批文物是更大走私网络的一部分。"
+    },
+    {
+      "id": 173,
+      "startMs": 1108280,
+      "endMs": 1112200,
+      "en": "Allen Grove is a special agent on the FBI's Art Crime Team.",
+      "zh": "Allen Grove 是 FBI 艺术犯罪小组的特别探员。"
+    },
+    {
+      "id": 174,
+      "startMs": 1112760,
+      "endMs": 1116120,
+      "en": "This is an ongoing investigation, so we're not going to go into a lot of the details.",
+      "zh": "这项调查仍在进行，因此我们不会透露太多细节。"
+    },
+    {
+      "id": 175,
+      "startMs": 1116520,
+      "endMs": 1123980,
+      "en": "Primarily, despite knowing that the suspected trafficker is now deceased, we are seeking to identify further co-conspirators.",
+      "zh": "首先，尽管我们知道涉案嫌疑走私者已经死亡，但我们仍在设法确认更多共谋者。"
+    },
+    {
+      "id": 176,
+      "startMs": 1124300,
+      "endMs": 1128380,
+      "en": "And additionally, we have reason to believe there may be more items out there.",
+      "zh": "此外，我们有理由相信外面可能还有更多文物。"
+    },
+    {
+      "id": 177,
+      "startMs": 1128780,
+      "endMs": 1133820,
+      "en": "The operation is part of an agreement between Washington and Cairo that started in 2016.",
+      "zh": "这项行动是华盛顿与开罗之间一项始于2016年的协议的一部分。"
+    },
+    {
+      "id": 178,
+      "startMs": 1134700,
+      "endMs": 1140780,
+      "en": "It's designed to stop trafficked antiquities entering America and help repatriate stolen objects.",
+      "zh": "协议旨在阻止被走私的古代文物进入美国，并帮助遣返被盗文物。"
+    },
+    {
+      "id": 179,
+      "startMs": 1141260,
+      "endMs": 1145660,
+      "en": "The Egyptian Consul General, Hossam Eldeen Aly, accepted the items.",
+      "zh": "埃及总领事 Hossam Eldeen Aly 接收了这些物品。"
+    },
+    {
+      "id": 180,
+      "startMs": 1146220,
+      "endMs": 1153980,
+      "en": "These artifacts are an integral part of our people's identity, cultural heritage, and history.",
+      "zh": "这些文物是我们民族身份、文化遗产和历史不可分割的一部分。"
+    },
+    {
+      "id": 181,
+      "startMs": 1154620,
+      "endMs": 1159740,
+      "en": "And it's truly a great honor to see that our partnership with the US allows us to bring them home.",
+      "zh": "看到我们与美国的伙伴关系让我们得以把它们带回家，实在是莫大的荣幸。"
+    },
+    {
+      "id": 182,
+      "startMs": 1160300,
+      "endMs": 1171020,
+      "en": "According to the FBI, US law enforcement agencies have returned more than 5,000 archaeological and cultural artifacts to Egypt over the past decade. Stephanie Prentice.",
+      "zh": "据 FBI 称，美国执法机构在过去十年已向埃及归还超过5,000件考古和文化文物。Stephanie Prentice 报道。"
+    },
+    {
+      "id": 183,
+      "startMs": 1171780,
+      "endMs": 1178100,
+      "en": "And let's end the podcast with a tricky question: What time is it on the Moon?",
+      "zh": "让我们用一个棘手的问题结束节目：月球上现在几点？"
+    },
+    {
+      "id": 184,
+      "startMs": 1178740,
+      "endMs": 1181860,
+      "en": "There's actually no right answer because it's never been agreed.",
+      "zh": "其实没有正确答案，因为人们从未达成一致。"
+    },
+    {
+      "id": 185,
+      "startMs": 1182180,
+      "endMs": 1188500,
+      "en": "But that might be about to change, with discussions underway on how time should be measured up there.",
+      "zh": "但这或许即将改变，目前人们正在讨论应如何测量月球上的时间。"
+    },
+    {
+      "id": 186,
+      "startMs": 1188660,
+      "endMs": 1195300,
+      "en": "And with governments and corporations eyeing up opportunities on the Moon, it is becoming more important than ever.",
+      "zh": "随着各国政府和企业纷纷关注月球上的机遇，这件事变得前所未有地重要。"
+    },
+    {
+      "id": 187,
+      "startMs": 1195380,
+      "endMs": 1197060,
+      "en": "So how can it be done?",
+      "zh": "那么，这要怎么实现？"
+    },
+    {
+      "id": 188,
+      "startMs": 1197460,
+      "endMs": 1201620,
+      "en": "Libby Jackson is the head of space at Britain's Science Museum.",
+      "zh": "丽比·杰克逊是英国科学博物馆的太空部门负责人。"
+    },
+    {
+      "id": 189,
+      "startMs": 1202100,
+      "endMs": 1208260,
+      "en": "Thanks to Albert Einstein, we understand space and time and relativity.",
+      "zh": "多亏阿尔伯特·爱因斯坦，我们理解了空间、时间和相对论。"
+    },
+    {
+      "id": 190,
+      "startMs": 1208500,
+      "endMs": 1216500,
+      "en": "And time on the Moon runs ever so slightly faster than time on Earth because the Moon is smaller than the Earth.",
+      "zh": "月球上的时间流逝比地球上略快，因为月球比地球小。"
+    },
+    {
+      "id": 191,
+      "startMs": 1216900,
+      "endMs": 1224100,
+      "en": "And we are entering an era of lots and lots of spacecraft heading to the Moon for missions.",
+      "zh": "我们正进入一个大量航天器前往月球执行任务的时代。"
+    },
+    {
+      "id": 192,
+      "startMs": 1224420,
+      "endMs": 1229780,
+      "en": "Space agencies around the world are looking to explore the south pole of the Moon, and they want to work together.",
+      "zh": "世界各地的航天机构都计划探索月球南极，并希望展开合作。"
+    },
+    {
+      "id": 193,
+      "startMs": 1230420,
+      "endMs": 1236920,
+      "en": "And in order to do that, they have to agree on what time it is, because time is really critical for a spacecraft.",
+      "zh": "为此，它们必须就时间达成一致，因为时间对航天器至关重要。"
+    },
+    {
+      "id": 194,
+      "startMs": 1236920,
+      "endMs": 1240840,
+      "en": "It tells you when you want to fire your rocket engines.",
+      "zh": "时间决定你何时点燃火箭发动机。"
+    },
+    {
+      "id": 195,
+      "startMs": 1241160,
+      "endMs": 1245000,
+      "en": "If you get it wrong, you might fire your rocket engines at just the wrong time.",
+      "zh": "如果判断错误，你可能会在完全不对的时间点燃火箭发动机。"
+    },
+    {
+      "id": 196,
+      "startMs": 1245000,
+      "endMs": 1248840,
+      "en": "Your navigation errors could go huge, and it could have catastrophic consequences.",
+      "zh": "导航误差可能急剧扩大，并造成灾难性后果。"
+    },
+    {
+      "id": 197,
+      "startMs": 1248840,
+      "endMs": 1253400,
+      "en": "For landers that are trying to position themselves and land on the Moon really accurately.",
+      "zh": "对于试图精确定位并降落月球的着陆器来说，后果尤其严重。"
+    },
+    {
+      "id": 198,
+      "startMs": 1253960,
+      "endMs": 1260040,
+      "en": "At the moment, it's up to any spacecraft operator what time they want to use.",
+      "zh": "目前，各航天器运营方可以自行决定使用什么时间。"
+    },
+    {
+      "id": 199,
+      "startMs": 1260040,
+      "endMs": 1264200,
+      "en": "They might synchronize themselves to Earth time, or use a different Moon time.",
+      "zh": "它们可以与地球时间同步，也可以使用不同的月球时间。"
+    },
+    {
+      "id": 200,
+      "startMs": 1264440,
+      "endMs": 1271000,
+      "en": "They might just use a mission elapsed time, synchronized to the day that they lifted off from Earth.",
+      "zh": "它们也可以只使用任务经过时间，与从地球发射当天同步。"
+    },
+    {
+      "id": 201,
+      "startMs": 1271400,
+      "endMs": 1277720,
+      "en": "The concept of agreeing that there should be a standard time is something that everybody is in broad agreement with.",
+      "zh": "制定标准时间的理念，基本得到了所有人的认同。"
+    },
+    {
+      "id": 202,
+      "startMs": 1278120,
+      "endMs": 1281320,
+      "en": "It makes sense here on Earth; it makes sense on the Moon as well.",
+      "zh": "这在地球上合理，在月球上同样合理。"
+    },
+    {
+      "id": 203,
+      "startMs": 1281880,
+      "endMs": 1287000,
+      "en": "Three different ways of measuring time on the Moon were proposed.",
+      "zh": "此前有人提出过三种不同的月球时间测量方案。"
+    },
+    {
+      "id": 204,
+      "startMs": 1287080,
+      "endMs": 1288440,
+      "en": "One has been discarded.",
+      "zh": "其中一种已经被弃用。"
+    },
+    {
+      "id": 205,
+      "startMs": 1288760,
+      "endMs": 1298300,
+      "en": "The other two essentially use either the time at the centre of the Moon or the time on the lunar surface, because they can be slightly different.",
+      "zh": "另外两种方案分别采用月球中心的时间或月面时间，因为两者可能略有不同。"
+    },
+    {
+      "id": 206,
+      "startMs": 1298620,
+      "endMs": 1304940,
+      "en": "And those discussions are ongoing, and we expect to see a resolution to which one gets picked later this year.",
+      "zh": "相关讨论仍在进行，预计今年晚些时候会决定采用哪一种。"
+    },
+    {
+      "id": 207,
+      "startMs": 1305340,
+      "endMs": 1314140,
+      "en": "It is how here on Earth we coordinate time, how we agree that UTC, Coordinated Universal Time, is our standard.",
+      "zh": "地球上正是这样协调时间的：我们约定UTC，即协调世界时，为统一标准。"
+    },
+    {
+      "id": 208,
+      "startMs": 1314380,
+      "endMs": 1319100,
+      "en": "And that same body is now looking to find a way to standardize time on the Moon.",
+      "zh": "同一机构如今也在寻找月球时间标准化的方法。"
+    },
+    {
+      "id": 209,
+      "startMs": 1319420,
+      "endMs": 1325020,
+      "en": "And they want to do it in such a way that then when perhaps we also want to standardize time on Mars.",
+      "zh": "他们希望这样做，以便将来我们可能还要统一火星时间时，"
+    },
+    {
+      "id": 210,
+      "startMs": 1325260,
+      "endMs": 1331900,
+      "en": "It's been the same process and the same set of decisions, and they can say, yep, we understand and we all agree what the time is on Mars as well.",
+      "zh": "可以沿用同样的流程和同样的决定，然后大家就能说：是的，我们理解并一致认定火星上的时间。"
+    },
+    {
+      "id": 211,
+      "startMs": 1332140,
+      "endMs": 1334140,
+      "en": "The Science Museum's Libby Jackson.",
+      "zh": "英国科学博物馆的丽比·杰克逊。"
+    },
+    {
+      "id": 212,
+      "startMs": 1336040,
+      "endMs": 1338920,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是目前的全部内容。"
+    },
+    {
+      "id": 213,
+      "startMs": 1339240,
+      "endMs": 1345320,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 214,
+      "startMs": 1345320,
+      "endMs": 1353960,
+      "en": "You can also now watch our episodes in full. Just search for the Global News Podcast on YouTube.",
+      "zh": "现在也可以观看完整节目，只需在YouTube上搜索《Global News Podcast》。"
+    },
+    {
+      "id": 215,
+      "startMs": 1354600,
+      "endMs": 1358680,
+      "en": "This edition of the Global News Podcast was mixed by Mark Pickett,",
+      "zh": "本期《Global News Podcast》由马克·皮克特混音，"
+    },
+    {
+      "id": 216,
+      "startMs": 1359080,
+      "endMs": 1362200,
+      "en": "and the producers were Carla Conti and Pete Ross.",
+      "zh": "制片人是卡拉·孔蒂和皮特·罗斯。"
+    },
+    {
+      "id": 217,
+      "startMs": 1362760,
+      "endMs": 1364680,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 218,
+      "startMs": 1365000,
+      "endMs": 1367400,
+      "en": "I am Alex Ritson. Until next time, goodbye.",
+      "zh": "我是亚历克斯·里森。下次再会。"
+    }
+  ]
+}
