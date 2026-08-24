@@ -1,0 +1,1761 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "24 August 2026"
+  },
+  "durationMs": 1581000,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 12040,
+      "en": "This is the Global News Podcast from the BBC World Service. I'm Alex Ritson, and in the early hours of Monday the 24th of August.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。我是 Alex Ritson。8月24日星期一凌晨，主要新闻如下。"
+    },
+    {
+      "id": 2,
+      "startMs": 12120,
+      "endMs": 20440,
+      "en": "These are our main stories: a landslide caused by a mountain of rubbish collapsing at a waste site in Guinea kills at least 30 people.",
+      "zh": "以下是主要新闻：几内亚一处垃圾场的垃圾山坍塌，引发山体滑坡，造成至少30人死亡。"
+    },
+    {
+      "id": 3,
+      "startMs": 21080,
+      "endMs": 27480,
+      "en": "In Ukraine, the sacked defence minister tells the BBC he stands by his call for elections, despite the war.",
+      "zh": "在乌克兰，被解职的国防部长向 BBC 表示，尽管仍在战争中，他仍坚持呼吁举行选举。"
+    },
+    {
+      "id": 4,
+      "startMs": 28120,
+      "endMs": 34680,
+      "en": "Ninety thousand people are ordered to flee their homes in the US state of Nevada due to a fast-moving wildfire.",
+      "zh": "美国内华达州因火势迅速蔓延，下令9万人撤离家园。"
+    },
+    {
+      "id": 5,
+      "startMs": 37920,
+      "endMs": 48080,
+      "en": "Also in this podcast, it really was the day that Maradona stopped being considered an ordinary mortal by Argentine society and started to be considered a god.",
+      "zh": "本期节目还将回顾：那一天，马拉多纳不再被阿根廷社会视为普通人，而开始被视为神。"
+    },
+    {
+      "id": 6,
+      "startMs": 48800,
+      "endMs": 54960,
+      "en": "The football Maradona punched into the net with the Hand of God has sold for millions of dollars.",
+      "zh": "马拉多纳用“上帝之手”打入球门的那只足球，已拍出数百万美元。"
+    },
+    {
+      "id": 7,
+      "startMs": 60480,
+      "endMs": 63760,
+      "en": "At least 30 people have been killed and six injured.",
+      "zh": "至少30人死亡，6人受伤。"
+    },
+    {
+      "id": 8,
+      "startMs": 63760,
+      "endMs": 71200,
+      "en": "In the West African state of Guinea, after a large pile of rubbish collapsed at one of the biggest landfill sites in the capital, Conakry.",
+      "zh": "西非国家几内亚首都科纳克里，一处最大的垃圾填埋场发生大规模垃圾坍塌。"
+    },
+    {
+      "id": 9,
+      "startMs": 71680,
+      "endMs": 79680,
+      "en": "The authorities said it happened early on Sunday morning following heavy rain, days after officials were planning to close the site because of the danger.",
+      "zh": "当局说，坍塌发生在周日清晨的一场大雨后；此前几天，官员正计划因危险关闭该场地。"
+    },
+    {
+      "id": 10,
+      "startMs": 80080,
+      "endMs": 81840,
+      "en": "These two men were among the survivors.",
+      "zh": "这两名男子是幸存者。"
+    },
+    {
+      "id": 11,
+      "startMs": 81840,
+      "endMs": 90720,
+      "en": "At around two or three in the morning, we heard something sliding, a scream outside. Everyone was shouting.",
+      "zh": "凌晨两三点左右，我们听到有什么东西滑动，外面还有尖叫声。所有人都在喊叫。"
+    },
+    {
+      "id": 12,
+      "startMs": 91200,
+      "endMs": 97120,
+      "en": "I then called to my wife, “We can't stay in the house. People are screaming outside. Let's go.”",
+      "zh": "我随后对妻子喊道：“我们不能待在屋里。外面有人在尖叫。我们走吧。”"
+    },
+    {
+      "id": 13,
+      "startMs": 97120,
+      "endMs": 100320,
+      "en": "By the time we got outside, not even two or three minutes had passed.",
+      "zh": "等我们来到屋外，甚至还没过去两三分钟。"
+    },
+    {
+      "id": 14,
+      "startMs": 100320,
+      "endMs": 107180,
+      "en": "I was sleeping with my little brother, my two brothers. I was sleeping.",
+      "zh": "我当时和我的小弟弟，也就是我的两个兄弟一起睡觉。我正在睡觉。"
+    },
+    {
+      "id": 15,
+      "startMs": 107280,
+      "endMs": 110480,
+      "en": "There were strange noises behind me. Then I saw it collapse.",
+      "zh": "我身后传来奇怪的声音，随后我看到它坍塌了。"
+    },
+    {
+      "id": 16,
+      "startMs": 110960,
+      "endMs": 112640,
+      "en": "So there were two of us, my little brother...",
+      "zh": "当时我们有两个人，我的小弟弟……"
+    },
+    {
+      "id": 17,
+      "startMs": 112960,
+      "endMs": 115840,
+      "en": "The other one died in it, and we got the other one out.",
+      "zh": "另一个死在里面，我们把另一人救了出来。"
+    },
+    {
+      "id": 18,
+      "startMs": 115840,
+      "endMs": 118880,
+      "en": "I went to call people to come and help me and get my mother out.",
+      "zh": "我去叫人来帮忙，把我的母亲救出来。"
+    },
+    {
+      "id": 19,
+      "startMs": 119300,
+      "endMs": 124740,
+      "en": "Oliver Conway heard more about the accident from the BBC's Makuochi Okafor, who's in the region.",
+      "zh": "Oliver Conway 从驻当地的 BBC 记者 Makuochi Okafor 那里了解了更多事故情况。"
+    },
+    {
+      "id": 20,
+      "startMs": 125060,
+      "endMs": 131700,
+      "en": "Authorities in Guinea have said, following some heavy rainfalls, because currently now is rainy season in the country.",
+      "zh": "几内亚当局说，最近下了大雨；目前该国正处于雨季。"
+    },
+    {
+      "id": 21,
+      "startMs": 132340,
+      "endMs": 140580,
+      "en": "A huge part of a landfill in the Dar es Salaam area collapsed into people's homes, and now six people were injured.",
+      "zh": "达累斯萨拉姆地区一处填埋场的大量垃圾坍塌，冲入民宅，造成6人受伤。"
+    },
+    {
+      "id": 22,
+      "startMs": 140740,
+      "endMs": 148900,
+      "en": "Also, about 15—over 15 more people sustained minor injuries. Several homes around that area got destroyed.",
+      "zh": "此外，还有约15人、超过15人受轻伤。该地区数所房屋被毁。"
+    },
+    {
+      "id": 23,
+      "startMs": 149460,
+      "endMs": 157460,
+      "en": "Search and rescue operations are still going on because they suspect some bodies are perhaps trapped under the rubble of what has happened.",
+      "zh": "搜救行动仍在进行，因为他们怀疑可能有遗体被困在坍塌废墟下。"
+    },
+    {
+      "id": 24,
+      "startMs": 157460,
+      "endMs": 162820,
+      "en": "So that sort of means that this death toll of 30, they're saying, has the potential to rise.",
+      "zh": "这意味着，他们所说的30人死亡数字可能还会上升。"
+    },
+    {
+      "id": 25,
+      "startMs": 163220,
+      "endMs": 170020,
+      "en": "Now, a bit of background: Guinea has had a huge waste-management problem for the longest time.",
+      "zh": "先介绍一些背景：长期以来，几内亚一直面临严重的废物管理问题。"
+    },
+    {
+      "id": 26,
+      "startMs": 170020,
+      "endMs": 178740,
+      "en": "In the past, there have been incidents similar to this in 2019 and 2017, still around the same area where this was.",
+      "zh": "过去，2019年和2017年也发生过类似事故，地点仍在这次事故发生地附近。"
+    },
+    {
+      "id": 27,
+      "startMs": 179800,
+      "endMs": 184120,
+      "en": "And the country has been making efforts to manage waste a lot better.",
+      "zh": "该国一直在努力改善废物管理。"
+    },
+    {
+      "id": 28,
+      "startMs": 184120,
+      "endMs": 192520,
+      "en": "In fact, they tried to close this particular dump site that has collapsed and explore new places.",
+      "zh": "事实上，他们曾试图关闭这处已经坍塌的垃圾场，并寻找新的地点。"
+    },
+    {
+      "id": 29,
+      "startMs": 192600,
+      "endMs": 195480,
+      "en": "But that seems not to have just worked out, unfortunately.",
+      "zh": "但遗憾的是，这似乎并没有顺利实现。"
+    },
+    {
+      "id": 30,
+      "startMs": 195640,
+      "endMs": 197640,
+      "en": "And now there's been 30 deaths.",
+      "zh": "如今已有30人死亡。"
+    },
+    {
+      "id": 31,
+      "startMs": 198040,
+      "endMs": 203480,
+      "en": "And do we know what was being dumped in this landfill site? Was it household waste or something from industry?",
+      "zh": "我们知道这处填埋场倾倒的是什么吗？是生活垃圾，还是工业废料？"
+    },
+    {
+      "id": 32,
+      "startMs": 203640,
+      "endMs": 211800,
+      "en": "It's more of household waste: plastics, clothes, you know, regular dump-site waste, not like on an industrial level.",
+      "zh": "主要是生活垃圾：塑料、衣物等普通垃圾，不是工业规模的废料。"
+    },
+    {
+      "id": 33,
+      "startMs": 211800,
+      "endMs": 217720,
+      "en": "And that's also now become quite a huge issue because people live around here.",
+      "zh": "这也成了一个严重问题，因为有人住在这里周围。"
+    },
+    {
+      "id": 34,
+      "startMs": 217720,
+      "endMs": 226040,
+      "en": "I mean, the country's population is growing, urbanization is happening, and people don't have so much space in the newer urban areas.",
+      "zh": "我的意思是，该国人口正在增长，城市化不断推进，而新城区的空间并不充足。"
+    },
+    {
+      "id": 35,
+      "startMs": 226040,
+      "endMs": 230680,
+      "en": "And these are low-income families, kind of forced to live close to this dump site.",
+      "zh": "这些低收入家庭在某种程度上被迫住在垃圾场附近。"
+    },
+    {
+      "id": 36,
+      "startMs": 230680,
+      "endMs": 237960,
+      "en": "The dump site has this sort of rubbish from homes, you know: food, decaying food materials, clothes and plastic and all that.",
+      "zh": "垃圾场里有来自家庭的各种垃圾，比如食物、腐烂的食材、衣物、塑料等。"
+    },
+    {
+      "id": 37,
+      "startMs": 237960,
+      "endMs": 246140,
+      "en": "And that's sort of just collapsed and, you know, into some people's homes following the rains and led to this unfortunate and tragic incident.",
+      "zh": "垃圾堆就这样坍塌，随着降雨冲进一些人的家中，造成了这场不幸而悲惨的事故。"
+    },
+    {
+      "id": 38,
+      "startMs": 246380,
+      "endMs": 249580,
+      "en": "And what can be done to prevent this kind of thing happening again?",
+      "zh": "要怎样做才能防止这类事情再次发生？"
+    },
+    {
+      "id": 39,
+      "startMs": 249900,
+      "endMs": 257660,
+      "en": "I mean, authorities say they've been sending warning signs to people living there as far back as six months ago",
+      "zh": "当局说，早在六个月前，他们就一直向当地居民发出警告，"
+    },
+    {
+      "id": 40,
+      "startMs": 258060,
+      "endMs": 261820,
+      "en": "that they've been raising awareness, but people seem not to have heeded to that.",
+      "zh": "提高人们的警觉，但居民似乎没有听从这些警告。"
+    },
+    {
+      "id": 41,
+      "startMs": 261900,
+      "endMs": 269180,
+      "en": "Maybe stronger enforcement, perhaps, would have helped in getting people out of there early enough, strong early warning signs,",
+      "zh": "也许更有力的执法能及时把人们撤离那里，及早发出强烈警报，"
+    },
+    {
+      "id": 42,
+      "startMs": 269660,
+      "endMs": 274860,
+      "en": "and also even considering recycling, because that has also been one of the ideas",
+      "zh": "还可以考虑回收，因为这也是他们提出的办法之一，"
+    },
+    {
+      "id": 43,
+      "startMs": 275420,
+      "endMs": 278460,
+      "en": "the country has been looking at: exploring recycling waste.",
+      "zh": "这个国家一直在研究，也就是探索废物回收。"
+    },
+    {
+      "id": 44,
+      "startMs": 278460,
+      "endMs": 283980,
+      "en": "But that seemed not just to have happened as smoothly as they have planned through the years.",
+      "zh": "但多年来，这件事似乎并没有按他们的计划顺利推进。"
+    },
+    {
+      "id": 45,
+      "startMs": 283980,
+      "endMs": 286220,
+      "en": "And, you know, it has now led to this.",
+      "zh": "而现在，这就导致了眼前的局面。"
+    },
+    {
+      "id": 46,
+      "startMs": 286220,
+      "endMs": 294620,
+      "en": "Now they're closing the site where this happened. New sites could potentially be opened, and better ways of managing waste explored.",
+      "zh": "现在他们要关闭事发填埋场，因此可能会启用新场址，并探索更好的废物管理方式。"
+    },
+    {
+      "id": 47,
+      "startMs": 294860,
+      "endMs": 296460,
+      "en": "Makuochi Okafor.",
+      "zh": "Makuochi Okafor。"
+    },
+    {
+      "id": 48,
+      "startMs": 297340,
+      "endMs": 304240,
+      "en": "Ukraine's former defence minister, Mykhailo Fedorov, has told the BBC that he stands by his call for nationwide elections,",
+      "zh": "乌克兰前国防部长米哈伊洛·费多罗夫告诉 BBC，他坚持呼吁举行全国大选，"
+    },
+    {
+      "id": 49,
+      "startMs": 304320,
+      "endMs": 308800,
+      "en": "even though the country is at war. But he stopped short of saying that he would stand as a candidate.",
+      "zh": "尽管乌克兰正处于战争之中。但他没有明确表示自己会参选。"
+    },
+    {
+      "id": 50,
+      "startMs": 309200,
+      "endMs": 317120,
+      "en": "Mr Fedorov, who was sacked last month, is the first high-profile politician to call for elections, which have been delayed for two years.",
+      "zh": "费多罗夫上月被解职，是首位呼吁举行大选的知名政治人物；选举已被推迟两年。"
+    },
+    {
+      "id": 51,
+      "startMs": 317440,
+      "endMs": 322080,
+      "en": "Valerie Sanderson heard more from our Ukraine correspondent, Dan Johnson, in Kyiv.",
+      "zh": "瓦莱丽·桑德森请驻基辅的乌克兰记者丹·约翰逊作进一步介绍。"
+    },
+    {
+      "id": 52,
+      "startMs": 322400,
+      "endMs": 326160,
+      "en": "Well, he has called for widespread political reform.",
+      "zh": "他呼吁进行广泛的政治改革。"
+    },
+    {
+      "id": 53,
+      "startMs": 326160,
+      "endMs": 333200,
+      "en": "He highlighted corruption and inefficiency and a number of issues throughout the way that government is run here.",
+      "zh": "他指出了腐败、低效，以及乌克兰政府运作中的诸多问题。"
+    },
+    {
+      "id": 54,
+      "startMs": 333200,
+      "endMs": 338080,
+      "en": "In a video statement that he posted, he said the country was going through a crisis of governance",
+      "zh": "他在发布的一段视频声明中说，乌克兰正经历治理危机，"
+    },
+    {
+      "id": 55,
+      "startMs": 338080,
+      "endMs": 344160,
+      "en": "and that that's why he felt it was right to confront the question of Ukraine's elections.",
+      "zh": "因此，他认为现在正是直面乌克兰选举问题的时候。"
+    },
+    {
+      "id": 56,
+      "startMs": 344160,
+      "endMs": 346640,
+      "en": "He told me he wasn't necessarily insisting on that right now,",
+      "zh": "他告诉我，他并不是说现在就一定要举行选举，"
+    },
+    {
+      "id": 57,
+      "startMs": 346960,
+      "endMs": 355840,
+      "en": "but that he thought it was his moral right to at least start the conversation about the practicalities of holding an election.",
+      "zh": "但他认为，至少开始讨论举行选举的实际问题，是他的道义权利。"
+    },
+    {
+      "id": 58,
+      "startMs": 355840,
+      "endMs": 359940,
+      "en": "He said it was inevitable that an election would have to come sooner or later,",
+      "zh": "他说，选举迟早不可避免地要举行，"
+    },
+    {
+      "id": 59,
+      "startMs": 360180,
+      "endMs": 364580,
+      "en": "but his call largely fell flat. There was very little support for it",
+      "zh": "但他的呼吁基本没有得到响应，支持者寥寥无几，"
+    },
+    {
+      "id": 60,
+      "startMs": 364580,
+      "endMs": 370500,
+      "en": "because most Ukrainians see the difficulty, the risk of Russian interference in that election, the complication",
+      "zh": "因为大多数乌克兰人看到了其中的困难：俄罗斯干预选举的风险，以及如何实际组织选举的复杂性，"
+    },
+    {
+      "id": 61,
+      "startMs": 370500,
+      "endMs": 374580,
+      "en": "of how to actually involve and engage people in a free and fair vote",
+      "zh": "如何让民众真正参与自由公正的投票，"
+    },
+    {
+      "id": 62,
+      "startMs": 374900,
+      "endMs": 380260,
+      "en": "at a time of war when there are so many people displaced and fighting, people who are living under occupation.",
+      "zh": "以及在战争期间，如何面对大量流离失所、正在作战或生活在占领区的人们。"
+    },
+    {
+      "id": 63,
+      "startMs": 380340,
+      "endMs": 384820,
+      "en": "So with all these considerations, I asked if he regretted the call that he made.",
+      "zh": "考虑到所有这些因素，我问他是否后悔发出这一呼吁。"
+    },
+    {
+      "id": 64,
+      "startMs": 384820,
+      "endMs": 390740,
+      "en": "He's been accused of destabilizing the country and opening up splits in Ukrainian society.",
+      "zh": "有人指责他破坏国家稳定，撕裂乌克兰社会。"
+    },
+    {
+      "id": 65,
+      "startMs": 390740,
+      "endMs": 397940,
+      "en": "I put to him that some Ukrainians think he has, by doing this, given a gift to the Kremlin and to Vladimir Putin.",
+      "zh": "我对他说，一些乌克兰人认为，他这样做是把一份礼物送给了克里姆林宫和弗拉基米尔·普京。"
+    },
+    {
+      "id": 66,
+      "startMs": 397940,
+      "endMs": 406660,
+      "en": "A huge number of people started talking and supporting the idea of coming back to the democratic cycle.",
+      "zh": "大量民众开始讨论并支持回归民主选举周期的想法。"
+    },
+    {
+      "id": 67,
+      "startMs": 407300,
+      "endMs": 414180,
+      "en": "And I believe that neither Putin nor the president of any other country can speak about our own democracy.",
+      "zh": "我相信，无论是普京还是其他国家的总统，都无权谈论我们的民主。"
+    },
+    {
+      "id": 68,
+      "startMs": 414740,
+      "endMs": 421240,
+      "en": "We are the only ones who will decide what we do going forward. That's what democracy is all about.",
+      "zh": "只有我们自己能决定今后怎么做。这就是民主的意义。"
+    },
+    {
+      "id": 69,
+      "startMs": 421320,
+      "endMs": 426920,
+      "en": "If I cannot share my ideas and be open about them, then what are we fighting for?",
+      "zh": "如果我不能分享自己的想法、公开谈论它们，那我们究竟是在为什么而战？"
+    },
+    {
+      "id": 70,
+      "startMs": 427560,
+      "endMs": 432520,
+      "en": "You really believe an election would be in the interests of Ukraine and not in your personal interests?",
+      "zh": "你真的认为举行选举是为了乌克兰的利益，而不是你个人的利益吗？"
+    },
+    {
+      "id": 71,
+      "startMs": 433160,
+      "endMs": 441800,
+      "en": "It's definitely in my vested interest because I want this war to be over and Ukraine to become a successful country.",
+      "zh": "这当然符合我的切身利益，因为我希望战争结束，乌克兰成为一个成功的国家。"
+    },
+    {
+      "id": 72,
+      "startMs": 441800,
+      "endMs": 449880,
+      "en": "So yeah, this is in my interest for sure. But of course, it's also in the interest of all Ukrainians.",
+      "zh": "所以，这当然符合我的利益。但当然，这也符合所有乌克兰人的利益。"
+    },
+    {
+      "id": 73,
+      "startMs": 449891,
+      "endMs": 458200,
+      "en": "But if you are asking whether it will be useful for my political future, if I were thinking about this, I would not have made this statement.",
+      "zh": "但如果你问这是否有利于我的政治前途，那么如果我真这样想，就不会发表这番声明。"
+    },
+    {
+      "id": 74,
+      "startMs": 458840,
+      "endMs": 462600,
+      "en": "So Dan, what about President Zelenskyy's response to all this?",
+      "zh": "丹，那么泽连斯基总统对此有何回应？"
+    },
+    {
+      "id": 75,
+      "startMs": 462680,
+      "endMs": 471640,
+      "en": "Because, you know, he had raised accusations of corruption within President Zelenskyy's government, hadn't he?",
+      "zh": "因为，据你所知，他曾指称泽连斯基总统政府内部存在腐败，对吧？"
+    },
+    {
+      "id": 76,
+      "startMs": 472040,
+      "endMs": 477720,
+      "en": "Yes, he raised the question of corruption. On elections, we have a fresh response from President Zelensky",
+      "zh": "是的，他提出了腐败问题。关于选举，我们刚刚收到泽连斯基总统的回应，"
+    },
+    {
+      "id": 77,
+      "startMs": 477720,
+      "endMs": 483980,
+      "en": "saying, 'I believe that if we want to destroy the country, then during a war like this, we can move towards elections,' he said.",
+      "zh": "他说：“我认为，如果我们想毁掉这个国家，那么在这样的战争期间，我们可以走向选举。”"
+    },
+    {
+      "id": 78,
+      "startMs": 483980,
+      "endMs": 488540,
+      "en": "He believed that during a war, elections involved enormous risks, and that right now,",
+      "zh": "他认为，在战争期间举行选举会带来巨大风险，而现在，"
+    },
+    {
+      "id": 79,
+      "startMs": 488780,
+      "endMs": 492940,
+      "en": "an election would be a tsunami for the state that would divide Ukraine.",
+      "zh": "举行选举将给国家带来海啸般的冲击，分裂乌克兰。"
+    },
+    {
+      "id": 80,
+      "startMs": 492940,
+      "endMs": 494700,
+      "en": "So he's holding firm on that.",
+      "zh": "所以，他坚持这一立场。"
+    },
+    {
+      "id": 81,
+      "startMs": 494940,
+      "endMs": 500380,
+      "en": "On corruption, I asked Mykhailo Fedorov whether he thought President Zelensky should have been aware",
+      "zh": "关于腐败问题，我问米哈伊洛·费多罗夫，他是否认为泽连斯基总统本应知晓，"
+    },
+    {
+      "id": 82,
+      "startMs": 500860,
+      "endMs": 504380,
+      "en": "of the allegations that have now come closer and closer to his inner circle.",
+      "zh": "那些如今越来越牵涉其核心圈子的指控。"
+    },
+    {
+      "id": 83,
+      "startMs": 504380,
+      "endMs": 509180,
+      "en": "A deputy head of the presidential office was sacked amid new allegations of money laundering.",
+      "zh": "总统办公室一名副主任在新的洗钱指控中被解职。"
+    },
+    {
+      "id": 84,
+      "startMs": 509180,
+      "endMs": 515500,
+      "en": "Mykhailo Fedorov said he thought the president should answer questions about his awareness and what he knew.",
+      "zh": "米哈伊洛·费多罗夫说，他认为总统应回答自己是否知情以及了解什么等问题。"
+    },
+    {
+      "id": 85,
+      "startMs": 515900,
+      "endMs": 520940,
+      "en": "The president's office responded angrily to that, saying Mykhailo Fedorov was part of that government",
+      "zh": "总统办公室对此作出愤怒回应，称米哈伊洛·费多罗夫曾是该政府的一员"
+    },
+    {
+      "id": 86,
+      "startMs": 521020,
+      "endMs": 524780,
+      "en": "For the last seven years, they never heard him raise concerns about corruption.",
+      "zh": "长达七年，他们从未听到他提出腐败问题。"
+    },
+    {
+      "id": 87,
+      "startMs": 525020,
+      "endMs": 531820,
+      "en": "And all this is happening, isn't it, as an investigation is underway into suspected criminal negligence",
+      "zh": "而这一切发生之际，一项调查正在进行，涉及是否存在涉嫌刑事过失"
+    },
+    {
+      "id": 88,
+      "startMs": 531820,
+      "endMs": 537500,
+      "en": "into the managers of a shopping centre where 16 people died in a Russian attack on Friday.",
+      "zh": "以及一家购物中心的管理者；周五俄罗斯的一次袭击在那里造成16人死亡。"
+    },
+    {
+      "id": 89,
+      "startMs": 537500,
+      "endMs": 544400,
+      "en": "What can you tell us about that? Yes, this was a shopping mall in Kryvyi Rih, close to the eastern front lines.",
+      "zh": "关于这件事，你能告诉我们什么？是的，这是克里维伊里赫的一家购物中心，靠近东部前线。"
+    },
+    {
+      "id": 90,
+      "startMs": 544400,
+      "endMs": 548480,
+      "en": "A double Russian drone attack, a double tap half an hour apart.",
+      "zh": "这是俄罗斯无人机的两次袭击，两次攻击相隔半小时。"
+    },
+    {
+      "id": 91,
+      "startMs": 548480,
+      "endMs": 556800,
+      "en": "So one drone hit the shopping centre and exploded, and then, as emergency responders were dealing with the casualties there, a second drone hit.",
+      "zh": "一架无人机击中购物中心并爆炸；随后，在急救人员处理现场伤亡者时，第二架无人机又发动了袭击。"
+    },
+    {
+      "id": 92,
+      "startMs": 556880,
+      "endMs": 565360,
+      "en": "It emerged that although air-raid sirens had sounded across that region warning of an incoming attack, the shopping centre had not been evacuated.",
+      "zh": "后来发现，尽管该地区各处都响起了预警来袭攻击的防空警报，购物中心却没有疏散。"
+    },
+    {
+      "id": 93,
+      "startMs": 565360,
+      "endMs": 570640,
+      "en": "And many people were not in the bomb shelter, hence why there were so many deaths and injuries there.",
+      "zh": "许多人也没有进入防空洞，这就是那里死伤如此惨重的原因。"
+    },
+    {
+      "id": 94,
+      "startMs": 570720,
+      "endMs": 577760,
+      "en": "There is now an investigation into why people were not told to take shelter, or why they ignored those warnings.",
+      "zh": "目前正在调查：人们为何没有被告知要寻找掩护，或为何忽视了这些警报。"
+    },
+    {
+      "id": 95,
+      "startMs": 577760,
+      "endMs": 587680,
+      "en": "It's an issue across Ukraine. Four and a half years into this war, frequent sirens mean not everyone reacts as seriously as they should.",
+      "zh": "这是整个乌克兰面临的问题。战争持续四年半后，警报如此规律、频繁，并非所有人都会像应有的那样认真应对。"
+    },
+    {
+      "id": 96,
+      "startMs": 587680,
+      "endMs": 593840,
+      "en": "This is a difficult issue of everyday life for Ukrainians: what level of disruption they put up with",
+      "zh": "这是乌克兰人日常生活中的难题：他们能容忍多大程度的扰乱"
+    },
+    {
+      "id": 97,
+      "startMs": 593840,
+      "endMs": 598960,
+      "en": "and react to, what level of risk they are willing personally to take. Dan Johnson.",
+      "zh": "并作出应对，又愿意亲自承担多大的风险。丹·约翰逊。"
+    },
+    {
+      "id": 98,
+      "startMs": 599860,
+      "endMs": 607060,
+      "en": "Firefighters in the US state of Nevada are battling fast-moving wildfires. They've reached the outskirts of the city of Reno,",
+      "zh": "美国内华达州的消防员正在与迅速蔓延的野火搏斗。大火已逼近里诺市郊，"
+    },
+    {
+      "id": 99,
+      "startMs": 607140,
+      "endMs": 610420,
+      "en": "where tens of thousands of people have been told to leave their homes.",
+      "zh": "数万人被告知撤离家园。"
+    },
+    {
+      "id": 100,
+      "startMs": 610740,
+      "endMs": 615060,
+      "en": "Shane Ackerson is a local commander leading fire and rescue operations.",
+      "zh": "谢恩·阿克森是负责消防和救援行动的当地指挥官。"
+    },
+    {
+      "id": 101,
+      "startMs": 615380,
+      "endMs": 618660,
+      "en": "The fire is currently sitting at approximately 13,000 acres.",
+      "zh": "目前火势已覆盖约1.3万英亩。"
+    },
+    {
+      "id": 102,
+      "startMs": 619060,
+      "endMs": 627300,
+      "en": "We have 800 personnel working on the incident, engaged 24 hours a day with both ground and aviation resources.",
+      "zh": "我们有800名人员参与处置，并全天24小时动用地面和航空资源开展行动。"
+    },
+    {
+      "id": 103,
+      "startMs": 627940,
+      "endMs": 640500,
+      "en": "Currently, we have 42,000 individuals who are displaced and on an active evacuation, with approximately 45,000 individuals that are in the set status to be prepared to evacuate.",
+      "zh": "目前有4.2万人流离失所并正在撤离，另有约4.5万人处于准备撤离状态。"
+    },
+    {
+      "id": 104,
+      "startMs": 640500,
+      "endMs": 645300,
+      "en": "I got this update from our North America correspondent David Willis, who's in Los Angeles.",
+      "zh": "这是我们的北美记者大卫·威利斯从洛杉矶发来的最新消息。"
+    },
+    {
+      "id": 105,
+      "startMs": 645700,
+      "endMs": 654980,
+      "en": "Well, what surprised firefighters with this particular blaze, Alex, is the speed at which the flames have started to spread.",
+      "zh": "这场大火令消防员感到意外的是，火焰开始蔓延的速度，亚历克斯。"
+    },
+    {
+      "id": 106,
+      "startMs": 655220,
+      "endMs": 661320,
+      "en": "Saturday night, there was, I think, very little to suggest that this would move at quite this speed.",
+      "zh": "周六晚上，几乎没有迹象表明火势会以这样的速度蔓延。"
+    },
+    {
+      "id": 107,
+      "startMs": 661320,
+      "endMs": 667320,
+      "en": "But there is dry brush and very high winds, and that of course is a potent cocktail.",
+      "zh": "但当地有干燥的灌木丛和很强的风，这当然是极其危险的组合。"
+    },
+    {
+      "id": 108,
+      "startMs": 667320,
+      "endMs": 674840,
+      "en": "It's now covered this. It's called the Hawk Fire, 13,000 acres of land, that's more than 50 square kilometres.",
+      "zh": "如今火势已覆盖这片土地。这场火被称为霍克大火，面积达1.3万英亩，也就是超过50平方公里。"
+    },
+    {
+      "id": 109,
+      "startMs": 675240,
+      "endMs": 682040,
+      "en": "And officials have urged a total of more than 90,000 people to evacuate from their homes.",
+      "zh": "官员已敦促总计超过9万人撤离家园。"
+    },
+    {
+      "id": 110,
+      "startMs": 682200,
+      "endMs": 689080,
+      "en": "They include some residents near the state borders with Oregon and California.",
+      "zh": "其中包括靠近俄勒冈州和加利福尼亚州边界的一些居民。"
+    },
+    {
+      "id": 111,
+      "startMs": 689240,
+      "endMs": 696520,
+      "en": "Several homes in the north of Nevada, northwest of Reno, a gambling town, are thought to have been destroyed.",
+      "zh": "据认为，内华达州北部、里诺西北方这座博彩城市附近的数栋房屋已经被毁。"
+    },
+    {
+      "id": 112,
+      "startMs": 696680,
+      "endMs": 705640,
+      "en": "And at least six people, officials say, have been injured. Nevada's governor Joe Lombardo has declared a state of emergency.",
+      "zh": "官员称，至少有6人受伤。内华达州州长乔·隆巴多已宣布进入紧急状态。"
+    },
+    {
+      "id": 113,
+      "startMs": 706040,
+      "endMs": 715480,
+      "en": "He's bringing in the National Guard to support aerial firefighting efforts and also safeguard evacuated neighbourhoods.",
+      "zh": "他将调动国民警卫队，支援空中灭火行动，并保护已疏散的社区。"
+    },
+    {
+      "id": 114,
+      "startMs": 715560,
+      "endMs": 726060,
+      "en": "But Reno is a gambling town, and casinos there are even offering discounts on hotel rooms to those who've been forced to flee the flames.",
+      "zh": "但里诺是一座博彩城市，那里的赌场甚至为被迫逃离火焰的人提供酒店客房折扣。"
+    },
+    {
+      "id": 115,
+      "startMs": 726060,
+      "endMs": 736780,
+      "en": "And indeed, more than 400 people spent the night at the Reno Convention Center, which has been turned into a shelter for evacuees.",
+      "zh": "事实上，超过400人在里诺会议中心过夜，该中心已被改造成疏散人员的避难所。"
+    },
+    {
+      "id": 116,
+      "startMs": 736860,
+      "endMs": 742700,
+      "en": "David, do we know the cause of the fire? Well, officials haven't pinpointed a precise cause.",
+      "zh": "大卫，我们知道起火原因吗？官员尚未确定确切原因。"
+    },
+    {
+      "id": 117,
+      "startMs": 742780,
+      "endMs": 751420,
+      "en": "But they say, perhaps cryptically, that human activity in the area is thought to be to blame for the fire.",
+      "zh": "但他们含糊地表示，据信当地的人类活动应对火灾负责。"
+    },
+    {
+      "id": 118,
+      "startMs": 751420,
+      "endMs": 760220,
+      "en": "Now, that of course could include a number of different things, and we'll wait for more details perhaps before speculating on that.",
+      "zh": "当然，这可能包括许多不同因素；我们或许要等更多细节后再对此推测。"
+    },
+    {
+      "id": 119,
+      "startMs": 760300,
+      "endMs": 772220,
+      "en": "But it's a major concern because the University of Nevada's Reno campus, where many of the 20,000 undergraduates have arrived in the last few days to begin their new terms,",
+      "zh": "但这令人非常担忧，因为内华达大学里诺校区有许多本科生近几天已抵达，准备开始新学期；"
+    },
+    {
+      "id": 120,
+      "startMs": 772700,
+      "endMs": 778300,
+      "en": "they are just outside the evacuation zone.",
+      "zh": "而校区就在疏散区外。"
+    },
+    {
+      "id": 121,
+      "startMs": 778780,
+      "endMs": 789440,
+      "en": "Very close to it, and university officials have said they're monitoring the fire's progress and that an evacuation plan has been prepared in case it becomes necessary.",
+      "zh": "距离疏散区非常近。校方表示，他们正在监测火势，并已准备好疏散计划，以备有需要时实施。"
+    },
+    {
+      "id": 122,
+      "startMs": 789600,
+      "endMs": 798320,
+      "en": "What are the chances of bringing this under control quickly and with minimal disruption and death? Well, bringing it under control, they will.",
+      "zh": "迅速控制火势、尽量减少干扰和死亡的可能性有多大？火势他们肯定会控制住。"
+    },
+    {
+      "id": 123,
+      "startMs": 798720,
+      "endMs": 808240,
+      "en": "The speed at which they do that, I think, very much depends, as ever, on the elements. They are the firefighters trying to battle this one,",
+      "zh": "但控制的速度，我想一如既往，很大程度取决于天气因素。消防员正努力应对这场火灾，"
+    },
+    {
+      "id": 124,
+      "startMs": 808240,
+      "endMs": 819600,
+      "en": "as I mentioned, from the air using helicopters, and that's more or less the most effective and only hope they have of getting a march on these sorts of blazes.",
+      "zh": "正如我所说，他们使用直升机从空中灭火，这几乎是他们抢在这类大火前面、控制火势的最有效也是唯一希望。"
+    },
+    {
+      "id": 125,
+      "startMs": 819600,
+      "endMs": 827040,
+      "en": "We've seen it ourselves here in California, and those helicopters have often been used very effectively in these sorts of instances.",
+      "zh": "我们在加利福尼亚亲眼见过这种情况，直升机在这类事件中往往非常有效。"
+    },
+    {
+      "id": 126,
+      "startMs": 827360,
+      "endMs": 834720,
+      "en": "But it's very unpredictable, this blaze, Alex, and it could, who knows, take days, maybe even weeks, to put it out completely.",
+      "zh": "但这场大火非常难以预测，亚历克斯。谁知道呢，可能需要几天，甚至几周才能将其彻底扑灭。"
+    },
+    {
+      "id": 127,
+      "startMs": 834960,
+      "endMs": 837200,
+      "en": "David Willis in Los Angeles.",
+      "zh": "洛杉矶的戴维·威利斯。"
+    },
+    {
+      "id": 128,
+      "startMs": 838420,
+      "endMs": 848900,
+      "en": "The football that Diego Maradona punched into the net for his infamous ‘Hand of God’ goal has sold for $3.3 million at auction in the US.",
+      "zh": "迭戈·马拉多纳用手打进那粒臭名昭著的“上帝之手”进球时所用的足球，在美国拍卖中以330万美元成交。"
+    },
+    {
+      "id": 129,
+      "startMs": 849220,
+      "endMs": 855540,
+      "en": "The ball was used during the 1986 World Cup quarter-final between England and Argentina.",
+      "zh": "这只球曾用于1986年世界杯英格兰对阿根廷的四分之一决赛。"
+    },
+    {
+      "id": 130,
+      "startMs": 855940,
+      "endMs": 860660,
+      "en": "Maradona scored two goals to give Argentina a controversial 2-1 victory.",
+      "zh": "马拉多纳打进两球，帮助阿根廷以2比1取得一场颇具争议的胜利。"
+    },
+    {
+      "id": 131,
+      "startMs": 861060,
+      "endMs": 868820,
+      "en": "Just four years after the war in the Falkland Islands, the self-governing British Overseas Territory in the South Atlantic,",
+      "zh": "就在马岛战争四年后；马尔维纳斯群岛是南大西洋上的英国自治海外领土，"
+    },
+    {
+      "id": 132,
+      "startMs": 868820,
+      "endMs": 873540,
+      "en": "which Argentina claims as its own and invaded in 1982.",
+      "zh": "阿根廷声称拥有该群岛，并于1982年入侵。"
+    },
+    {
+      "id": 133,
+      "startMs": 874020,
+      "endMs": 880180,
+      "en": "Britain sent a naval task force and defeated the Argentinians, who call the islands the Malvinas.",
+      "zh": "英国派出海军特遣部队击败阿根廷军队；阿根廷人称这些岛屿为马尔维纳斯群岛。"
+    },
+    {
+      "id": 134,
+      "startMs": 880420,
+      "endMs": 886020,
+      "en": "The South American football journalist Tim Vickery told us more about the sale of the football.",
+      "zh": "南美足球记者蒂姆·维克里进一步介绍了这只足球的拍卖。"
+    },
+    {
+      "id": 135,
+      "startMs": 886580,
+      "endMs": 892100,
+      "en": "Well, there was an expectation, a hope, that the price would be far, far higher, maybe even 10 million.",
+      "zh": "当时大家预期、也希望价格能高得多，甚至达到1000万美元。"
+    },
+    {
+      "id": 136,
+      "startMs": 892580,
+      "endMs": 898680,
+      "en": "Maradona’s shirt that he wore in that game sold in England for 9.3 million some four years ago.",
+      "zh": "马拉多纳在那场比赛中穿的球衣，约四年前在英国以930万英镑售出。"
+    },
+    {
+      "id": 137,
+      "startMs": 899320,
+      "endMs": 904040,
+      "en": "So there was hope and expectation that there would be more money.",
+      "zh": "所以人们原本希望并预期能卖出更高的价格。"
+    },
+    {
+      "id": 138,
+      "startMs": 904360,
+      "endMs": 908280,
+      "en": "But the money isn’t in Argentina, is it? And it’s Argentines",
+      "zh": "但这笔钱并没有流入阿根廷，对吧？而最想拥有这些物件的，应该是阿根廷人，"
+    },
+    {
+      "id": 139,
+      "startMs": 908600,
+      "endMs": 917000,
+      "en": "who would be most disposed to own these artifacts because these are such important artifacts in Argentine society.",
+      "zh": "因为这些物件在阿根廷社会具有极其重要的意义。"
+    },
+    {
+      "id": 140,
+      "startMs": 917400,
+      "endMs": 921720,
+      "en": "The day that Diego Maradona scored those two goals against England",
+      "zh": "迭戈·马拉多纳对英格兰打进那两球的那一天，"
+    },
+    {
+      "id": 141,
+      "startMs": 921880,
+      "endMs": 925720,
+      "en": "the nature of the two goals that he scored and the opponent against whom he scored them",
+      "zh": "那两粒进球的性质，以及他进球时面对的对手，"
+    },
+    {
+      "id": 142,
+      "startMs": 926200,
+      "endMs": 931400,
+      "en": "it really was the day that Maradona stopped being considered an ordinary mortal by Argentine society",
+      "zh": "确实让马拉多纳在阿根廷社会中不再被视为普通凡人，"
+    },
+    {
+      "id": 143,
+      "startMs": 931720,
+      "endMs": 937800,
+      "en": "and started to be considered a god, with disastrous consequences for the rest of his life.",
+      "zh": "而开始被视为神明，并给他的余生带来了灾难性的后果。"
+    },
+    {
+      "id": 144,
+      "startMs": 938280,
+      "endMs": 945000,
+      "en": "So Diego Maradona... I remember that marvellous radio commentary about the wonderful second goal that he scored there",
+      "zh": "说到迭戈·马拉多纳……我记得 BBC 对他那粒精彩的第二球有一段美妙的广播解说，"
+    },
+    {
+      "id": 145,
+      "startMs": 945000,
+      "endMs": 947400,
+      "en": "on the BBC Radio. It was Brian Butler.",
+      "zh": "解说员是布莱恩·巴特勒。"
+    },
+    {
+      "id": 146,
+      "startMs": 947960,
+      "endMs": 955880,
+      "en": "‘Maradona, stocky little man, wriggling like a little eel.’ And even beyond the grave, Diego Maradona continues to wriggle like a little eel.",
+      "zh": "“马拉多纳，这个矮壮的小个子，像小鳗鱼一样扭动。”即使在死后，迭戈·马拉多纳仍像小鳗鱼一样扭动不止。"
+    },
+    {
+      "id": 147,
+      "startMs": 956440,
+      "endMs": 957480,
+      "en": "Tim Vickery.",
+      "zh": "蒂姆·维克里报道。"
+    },
+    {
+      "id": 148,
+      "startMs": 960280,
+      "endMs": 965960,
+      "en": "Still to come in this podcast: Season starts now, so it’s time to get a fresh start and everything.",
+      "zh": "本节目稍后请听：新赛季开始了，是时候一切重新开始。"
+    },
+    {
+      "id": 149,
+      "startMs": 965960,
+      "endMs": 968920,
+      "en": "I’m a bit nervous. I want buzz cuts, like I’ve been in military.",
+      "zh": "我有点紧张。我想剪成板寸，就像参过军一样。"
+    },
+    {
+      "id": 150,
+      "startMs": 968920,
+      "endMs": 973240,
+      "en": "The most famous golden locks in football are no more.",
+      "zh": "足坛最著名的金色长发不复存在了。"
+    },
+    {
+      "id": 151,
+      "startMs": 973240,
+      "endMs": 975320,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 152,
+      "startMs": 976120,
+      "endMs": 980920,
+      "en": "The United States’ sustained bombing campaign has failed to defeat Iran militarily.",
+      "zh": "美国持续的轰炸行动未能在军事上击败伊朗。"
+    },
+    {
+      "id": 153,
+      "startMs": 981080,
+      "endMs": 985240,
+      "en": "Now, President Trump is planning further financial pressure against Tehran.",
+      "zh": "现在，特朗普总统正计划对德黑兰施加进一步的金融压力。"
+    },
+    {
+      "id": 154,
+      "startMs": 985720,
+      "endMs": 991000,
+      "en": "The US Treasury Secretary, Scott Bessent, is going to outline a new series of economic penalties.",
+      "zh": "美国财政部长斯科特·贝森特将公布一系列新的经济惩罚措施。"
+    },
+    {
+      "id": 155,
+      "startMs": 991240,
+      "endMs": 993560,
+      "en": "Under the measures to be announced on Monday,",
+      "zh": "根据将于周一宣布的措施，"
+    },
+    {
+      "id": 156,
+      "startMs": 993560,
+      "endMs": 1001000,
+      "en": "it’s expected that the US could threaten secondary sanctions on any entity doing even limited business with Iran.",
+      "zh": "预计美国可能威胁对任何与伊朗有哪怕有限商业往来的实体实施次级制裁。"
+    },
+    {
+      "id": 157,
+      "startMs": 1001400,
+      "endMs": 1004920,
+      "en": "Tehran has dismissed the new sanctions as doomed to fail,",
+      "zh": "德黑兰称这些新制裁注定失败，"
+    },
+    {
+      "id": 158,
+      "startMs": 1005000,
+      "endMs": 1012440,
+      "en": "but Iran’s economy is really struggling. Inflation has rocketed, and its currency has hit a record low against the US dollar.",
+      "zh": "但伊朗经济正苦苦挣扎。通胀率飙升，其货币兑美元汇率也跌至历史低点。"
+    },
+    {
+      "id": 159,
+      "startMs": 1012840,
+      "endMs": 1021580,
+      "en": "Paul Henley spoke to Professor Djavad Salehi-Isfahani, an Iranian economist at Virginia Tech University in the US",
+      "zh": "保罗·亨利采访了美国弗吉尼亚理工大学的伊朗经济学家贾瓦德·萨勒希-伊斯法哈尼教授，"
+    },
+    {
+      "id": 160,
+      "startMs": 1021660,
+      "endMs": 1026940,
+      "en": "and began by asking how everyday lives are being affected by the war and sanctions.",
+      "zh": "首先询问战争和制裁如何影响人们的日常生活。"
+    },
+    {
+      "id": 161,
+      "startMs": 1027260,
+      "endMs": 1035900,
+      "en": "Prices are rising very fast, and maybe the larger problem is that the rate at which prices increase is changing.",
+      "zh": "物价上涨非常快，也许更大的问题在于，物价上涨的速度正在变化。"
+    },
+    {
+      "id": 162,
+      "startMs": 1036220,
+      "endMs": 1041660,
+      "en": "So people who last month knew how to spend money the first week of the month",
+      "zh": "所以，上个月人们还知道该如何在月初第一周花钱，"
+    },
+    {
+      "id": 163,
+      "startMs": 1042220,
+      "endMs": 1045180,
+      "en": "so they would have enough for food for the last week of the month.",
+      "zh": "以便为月底最后一周留足买食物的钱。"
+    },
+    {
+      "id": 164,
+      "startMs": 1045660,
+      "endMs": 1048700,
+      "en": "they’re not sure if the same applies to this month.",
+      "zh": "但他们不确定这个月是否仍然适用。"
+    },
+    {
+      "id": 165,
+      "startMs": 1049420,
+      "endMs": 1057900,
+      "en": "So inflation rates can change from one month to another, and that uncertainty, more than anything, is putting pressure on low-income families.",
+      "zh": "所以，通胀率可能月月变化；这种不确定性尤其给低收入家庭带来压力。"
+    },
+    {
+      "id": 166,
+      "startMs": 1058220,
+      "endMs": 1062460,
+      "en": "What are the sanctions at the moment, and how much worse can they get?",
+      "zh": "目前的制裁是什么情况？还可能恶化到什么程度？"
+    },
+    {
+      "id": 167,
+      "startMs": 1062540,
+      "endMs": 1074140,
+      "en": "Then-Vice President Biden said in 2012 that US sanctions on Iran were the most crippling ever. Yes, that's the trouble with those announcements.",
+      "zh": "时任副总统拜登曾在2012年说，美国对伊朗的制裁是制裁史上最具破坏力的制裁，仅此而已。是的，这正是那些声明的问题。"
+    },
+    {
+      "id": 168,
+      "startMs": 1074800,
+      "endMs": 1088720,
+      "en": "They don't leave room for more increases or claims of sanctions being ratcheted up. I don't know what they mean by D-Day and finishing off the regime.",
+      "zh": "这些声明几乎不给日后加码制裁、或让人觉得制裁正在升级留下空间。我不清楚他们所说的“D日”和“终结政权”究竟指什么。"
+    },
+    {
+      "id": 169,
+      "startMs": 1089200,
+      "endMs": 1101040,
+      "en": "Iran has borders with at least six countries that can supply food to it, and if you just focus on that, Iran is mostly self-sufficient for its food.",
+      "zh": "伊朗与至少六个国家接壤，这些国家可以向它供应食物；只看这一点，伊朗的粮食基本能够自给。"
+    },
+    {
+      "id": 170,
+      "startMs": 1101440,
+      "endMs": 1105520,
+      "en": "They were planning to import about a billion dollars worth of wheat",
+      "zh": "他们原计划进口价值约10亿美元的小麦。"
+    },
+    {
+      "id": 171,
+      "startMs": 1105840,
+      "endMs": 1115200,
+      "en": "which can probably come easily from the northern borders, and I don't see a food shortage or hunger becoming an issue.",
+      "zh": "小麦可能很容易从北部边境运来；我不认为粮食短缺或饥饿会成为问题。"
+    },
+    {
+      "id": 172,
+      "startMs": 1115680,
+      "endMs": 1128000,
+      "en": "But industrial inputs, yes. Many come by sea through the Persian Gulf, and I think the blockade is doing more damage than sanctions ever did.",
+      "zh": "但工业投入品确实是问题。很多物资经由波斯湾海运而来；我认为这场封锁造成的损害远超制裁。"
+    },
+    {
+      "id": 173,
+      "startMs": 1128320,
+      "endMs": 1134800,
+      "en": "What are Iranians, what are Iranian citizens saying about the situation at the moment? Can you give us a feeling, a sample?",
+      "zh": "伊朗人、伊朗公民目前如何谈论这种局势？能否举例说明他们的感受？"
+    },
+    {
+      "id": 174,
+      "startMs": 1134900,
+      "endMs": 1142580,
+      "en": "Well, it depends on who you talk to. The interesting conversations I had was with people who were previously anti-regime.",
+      "zh": "这取决于你和谁交谈。我与一些曾经反对政权的人进行了有意思的交流。"
+    },
+    {
+      "id": 175,
+      "startMs": 1142580,
+      "endMs": 1147620,
+      "en": "A year ago, they might have been complaining a lot and saying they're corrupt, they're mismanaging the economy.",
+      "zh": "一年前，他们可能还常常抱怨，说政府腐败、经济管理不善。"
+    },
+    {
+      "id": 176,
+      "startMs": 1147700,
+      "endMs": 1157300,
+      "en": "This time, they were talking with some pride and surprise that they didn't think that the Revolutionary Guards would be able to hold the line.",
+      "zh": "这一次，他们带着些许自豪和惊讶谈起此事：他们没想到革命卫队能够守住阵线。"
+    },
+    {
+      "id": 177,
+      "startMs": 1157380,
+      "endMs": 1163780,
+      "en": "And they could prevent the US and Israel from actually entering the country to land and then control the government.",
+      "zh": "并阻止美国和以色列真正进入伊朗、登陆并控制政府。"
+    },
+    {
+      "id": 178,
+      "startMs": 1164100,
+      "endMs": 1167620,
+      "en": "They were very proud that what happened in Venezuela is not happening to Iran.",
+      "zh": "他们很自豪，因为委内瑞拉发生的事没有发生在伊朗。"
+    },
+    {
+      "id": 179,
+      "startMs": 1167860,
+      "endMs": 1176340,
+      "en": "I think there is that on one side, and then there are these pressures of daily life, the economic misery that we were talking about earlier.",
+      "zh": "我认为，一方面是这种情绪，另一方面则是我们刚才谈到的日常压力和经济困境。"
+    },
+    {
+      "id": 180,
+      "startMs": 1176500,
+      "endMs": 1182660,
+      "en": "And these two are kind of two very different emotions that Iranians are dealing with every day.",
+      "zh": "这两种截然不同的情绪，伊朗人每天都在应对。"
+    },
+    {
+      "id": 181,
+      "startMs": 1182980,
+      "endMs": 1194500,
+      "en": "Iranians want to defend this several-millennia-old civilization against forces that don't appreciate the country and just want it to surrender.",
+      "zh": "伊朗人希望捍卫这个延续数千年的文明，抵抗那些并不尊重这个国家、只想让它投降的势力。"
+    },
+    {
+      "id": 182,
+      "startMs": 1194840,
+      "endMs": 1207320,
+      "en": "They also find that sections of their government are taking a very hard line and may not be allowing a decent, respectable peace to prevail.",
+      "zh": "他们还认为，政府中的一些部门立场十分强硬，可能不让一份体面、可接受的和平协议占上风。"
+    },
+    {
+      "id": 183,
+      "startMs": 1207640,
+      "endMs": 1210840,
+      "en": "Professor Djavad Salehi-Isfahani.",
+      "zh": "贾瓦德·萨利希-伊斯法哈尼教授。"
+    },
+    {
+      "id": 184,
+      "startMs": 1212060,
+      "endMs": 1222380,
+      "en": "On Sunday, Washington, D.C., became a racetrack for an IndyCar Grand Prix celebrating the 250th anniversary of American independence.",
+      "zh": "周日，华盛顿特区的街道变成了赛道，举行印第赛车大奖赛，庆祝美国独立250周年。"
+    },
+    {
+      "id": 185,
+      "startMs": 1222700,
+      "endMs": 1230060,
+      "en": "Drivers sped past famous landmarks, including the National Mall and the Capitol Building, at more than 300 kilometres an hour.",
+      "zh": "车手以每小时300多公里的速度驶过国家广场和国会大厦等著名地标。"
+    },
+    {
+      "id": 186,
+      "startMs": 1230140,
+      "endMs": 1236220,
+      "en": "President Trump and the First Lady Melania Trump were watching on, as was our correspondent, Helena Humphrey.",
+      "zh": "特朗普总统和第一夫人梅拉尼娅·特朗普也在现场观看，我们的记者海伦娜·汉弗莱同样在场。"
+    },
+    {
+      "id": 187,
+      "startMs": 1239040,
+      "endMs": 1246800,
+      "en": "A city used to races for power, but none quite like this. President Trump waved the green flag, and then they were off.",
+      "zh": "这座城市习惯了权力角逐，却从未见过这样的比赛。特朗普总统挥下绿旗，比赛随即开始。"
+    },
+    {
+      "id": 188,
+      "startMs": 1249260,
+      "endMs": 1252540,
+      "en": "Twenty-five drivers roaring through the capital's streets.",
+      "zh": "25名车手轰鸣着驶过首都街道。"
+    },
+    {
+      "id": 189,
+      "startMs": 1252540,
+      "endMs": 1255660,
+      "en": "Do I hold on? The car will hold on to you.",
+      "zh": "我需要抓紧吗？这辆车会把你固定住。"
+    },
+    {
+      "id": 190,
+      "startMs": 1255660,
+      "endMs": 1259260,
+      "en": "Before the race got underway, I strapped in for a taste of the track.",
+      "zh": "比赛开始前，我系好安全带，体验了一下这条赛道。"
+    },
+    {
+      "id": 191,
+      "startMs": 1266480,
+      "endMs": 1270080,
+      "en": "Seven tight turns on a circuit never raced before.",
+      "zh": "这条从未举办过比赛的赛道有七个急弯。"
+    },
+    {
+      "id": 192,
+      "startMs": 1271660,
+      "endMs": 1282540,
+      "en": "We were going 190 miles an hour around this track, flying past iconic sites in Washington, D.C., and those drivers will go even faster.",
+      "zh": "我们刚才以每小时190英里的速度绕赛道行驶，飞驰经过华盛顿特区最具标志性的一些景点；那些车手还会更快。"
+    },
+    {
+      "id": 193,
+      "startMs": 1284580,
+      "endMs": 1287460,
+      "en": "This track a new thrill, even for the drivers.",
+      "zh": "这条赛道对车手来说也是全新的刺激。"
+    },
+    {
+      "id": 194,
+      "startMs": 1288180,
+      "endMs": 1292660,
+      "en": "Super unique—you may never see this again, so as an American driver, I think it's very special.",
+      "zh": "非常独特——也许再也看不到这样的比赛了；作为美国车手，我觉得这非常特别。"
+    },
+    {
+      "id": 195,
+      "startMs": 1292660,
+      "endMs": 1300660,
+      "en": "It's special to race in our nation's capital for the country's 250th anniversary. It's beautiful, and surreal to drive an IndyCar around here.",
+      "zh": "庆祝美国独立250周年之际，在国家首都参赛很特别。这座城市很美，驾驶印第赛车绕这里一圈如梦似幻。"
+    },
+    {
+      "id": 196,
+      "startMs": 1301620,
+      "endMs": 1309460,
+      "en": "With tens of thousands of spectators lining the circuit, President Trump took a victory lap in The Beast before the race had even begun,",
+      "zh": "赛道两旁聚集了数万名观众，比赛尚未开始，特朗普总统就乘坐“野兽”号绕场一周，"
+    },
+    {
+      "id": 197,
+      "startMs": 1309780,
+      "endMs": 1312980,
+      "en": "his new Air Force One completing a flyover above.",
+      "zh": "他的新一代空军一号还从上空飞越。"
+    },
+    {
+      "id": 198,
+      "startMs": 1314700,
+      "endMs": 1321420,
+      "en": "His close association with the event led some to question whether it was truly a bipartisan celebration.",
+      "zh": "他与这场活动关系密切，让一些人质疑这是否真的是两党共同的庆祝活动。"
+    },
+    {
+      "id": 199,
+      "startMs": 1322980,
+      "endMs": 1328580,
+      "en": "For those attending, though, a party atmosphere largely drowned out any political noise.",
+      "zh": "不过，对到场者来说，派对般的气氛基本淹没了所有政治杂音。"
+    },
+    {
+      "id": 200,
+      "startMs": 1328580,
+      "endMs": 1329220,
+      "en": "Cheers.",
+      "zh": "欢呼声。"
+    },
+    {
+      "id": 201,
+      "startMs": 1330820,
+      "endMs": 1337380,
+      "en": "I love open-wheel racing. We've done every America 250 event we could all year, so this is our last one, and we're excited about it.",
+      "zh": "我喜欢方程式赛车。我们一整年都参加了所有能参加的“美国250”庆祝活动，这是今年最后一场，我们很兴奋。"
+    },
+    {
+      "id": 202,
+      "startMs": 1337380,
+      "endMs": 1341300,
+      "en": "I've never been to one of these races before, so this is a first-time event for me.",
+      "zh": "我以前从没看过这种比赛，所以这是我的第一次。"
+    },
+    {
+      "id": 203,
+      "startMs": 1341300,
+      "endMs": 1348660,
+      "en": "I've never seen a car go over 200 miles an hour, so I just want to see how that looks and just the sheer power of these engines and stuff.",
+      "zh": "我从没见过时速超过200英里的赛车，只想看看那是什么样，感受这些发动机的纯粹力量。"
+    },
+    {
+      "id": 204,
+      "startMs": 1349540,
+      "endMs": 1360820,
+      "en": "After 147 laps, or 250 miles, Kyle Kirkwood took the checkered flag—an American victory for America's 250th birthday.",
+      "zh": "147圈、也就是250英里后，凯尔·柯克伍德率先冲过方格旗，为美国250岁生日赢得一场美国式胜利。"
+    },
+    {
+      "id": 205,
+      "startMs": 1361540,
+      "endMs": 1363780,
+      "en": "Helena Humphrey in Washington.",
+      "zh": "海伦娜·汉弗莱在华盛顿报道。"
+    },
+    {
+      "id": 206,
+      "startMs": 1364760,
+      "endMs": 1372440,
+      "en": "As the English Premier League kicked off this weekend, there was one story away from the football on the pitch that grabbed plenty of the headlines.",
+      "zh": "本周末英格兰足球超级联赛开赛，场上足球之外还有一则新闻吸引了大量关注。"
+    },
+    {
+      "id": 207,
+      "startMs": 1372440,
+      "endMs": 1376760,
+      "en": "The Norwegian star Erling Haaland is beginning the season with a new look.",
+      "zh": "这位挪威球星埃尔林·哈兰德以新造型开启本赛季。"
+    },
+    {
+      "id": 208,
+      "startMs": 1377080,
+      "endMs": 1383800,
+      "en": "The Manchester City player was one of the standout strikers at the recent World Cup, where he scored seven goals.",
+      "zh": "这名曼城球员是最近一届世界杯上的杰出前锋之一，并打进了7球。"
+    },
+    {
+      "id": 209,
+      "startMs": 1383800,
+      "endMs": 1389240,
+      "en": "But he became almost as well known for his long blonde hair tied up at the back in a bun.",
+      "zh": "但他的长金发在脑后扎成发髻，也几乎和他的球技一样出名。"
+    },
+    {
+      "id": 210,
+      "startMs": 1389480,
+      "endMs": 1396760,
+      "en": "Now Haaland has revealed on social media a crew cut with the caption \"New season, new trim.\"",
+      "zh": "如今哈兰德在社交媒体上晒出寸头，并配文：“新赛季，新发型。”"
+    },
+    {
+      "id": 211,
+      "startMs": 1397080,
+      "endMs": 1400600,
+      "en": "Pete Ross told me more about Haaland and other hairdos.",
+      "zh": "皮特·罗斯将进一步介绍哈兰德和其他球星的发型。"
+    },
+    {
+      "id": 212,
+      "startMs": 1400760,
+      "endMs": 1404440,
+      "en": "Football has not lacked for standout hairstyles over the years.",
+      "zh": "多年来，足坛从来不缺引人注目的发型。"
+    },
+    {
+      "id": 213,
+      "startMs": 1404440,
+      "endMs": 1411080,
+      "en": "Consider the original Ronaldo, the Brazilian striker who sported his iconic haircut in the 2002 World Cup.",
+      "zh": "想想巴西前锋“外星人”罗纳尔多，他在2002年世界杯上留着标志性的发型。"
+    },
+    {
+      "id": 214,
+      "startMs": 1411080,
+      "endMs": 1415400,
+      "en": "It was all shaved off, a triangular tuft at the front. It grabbed lots of headlines.",
+      "zh": "那发型几乎全剃光，只在前额留下一撮三角形头发，吸引了大量报道。"
+    },
+    {
+      "id": 215,
+      "startMs": 1415800,
+      "endMs": 1421720,
+      "en": "He said years later that it was to distract the media from his ongoing injury troubles and to take some of the pressure off his Brazil side.",
+      "zh": "多年后他表示，这样做是为了转移媒体对持续伤病的注意力，也减轻巴西队的一些压力。"
+    },
+    {
+      "id": 216,
+      "startMs": 1422200,
+      "endMs": 1428540,
+      "en": "There's also one of Italy's most famous players, Roberto Baggio, El Divino Codino, the Divine Ponytail.",
+      "zh": "意大利最著名的球员之一罗伯特·巴乔也有独特发型——“神之马尾”。"
+    },
+    {
+      "id": 217,
+      "startMs": 1428860,
+      "endMs": 1434220,
+      "en": "So well known was he for his preferred do, which he sported throughout his long and illustrious career.",
+      "zh": "他钟爱的发型广为人知，并在漫长而辉煌的职业生涯中一直保持着这个造型。"
+    },
+    {
+      "id": 218,
+      "startMs": 1434620,
+      "endMs": 1442060,
+      "en": "And that's before we even start considering England's David Beckham, who at the height of his career seemed to change his hairdo almost every week.",
+      "zh": "更别说英格兰的戴维·贝克汉姆了，他职业生涯巅峰期似乎几乎每周都换发型。"
+    },
+    {
+      "id": 219,
+      "startMs": 1442140,
+      "endMs": 1444700,
+      "en": "From cornrows to the shaggy mohawk.",
+      "zh": "从玉米辫到蓬乱的莫霍克头，样样都有。"
+    },
+    {
+      "id": 220,
+      "startMs": 1444700,
+      "endMs": 1451100,
+      "en": "But amongst all the hairstyles, perhaps the man bun, as you described, long hair pulled up onto the top of the head and into a bun.",
+      "zh": "但在这些发型中，或许正如你所说，最值得一提的是男士发髻：把长发向上梳到头顶，再扎成发髻。"
+    },
+    {
+      "id": 221,
+      "startMs": 1451500,
+      "endMs": 1455660,
+      "en": "It has been adopted by some of the game's greatest and most famous players:",
+      "zh": "足坛一些最出色、最知名的球员都采用过这种发型："
+    },
+    {
+      "id": 222,
+      "startMs": 1456060,
+      "endMs": 1459580,
+      "en": "Gareth Bale, Zlatan Ibrahimović and David Beckham again.",
+      "zh": "加雷斯·贝尔、兹拉坦·伊布拉希莫维奇，以及再次留过它的戴维·贝克汉姆。"
+    },
+    {
+      "id": 223,
+      "startMs": 1459980,
+      "endMs": 1467100,
+      "en": "But perhaps one man has become more synonymous than any other in the last few years with that haircut: the aforementioned Erling Haaland.",
+      "zh": "但过去几年里，或许没有谁比前面提到的埃尔林·哈兰德更能代表这种发型。"
+    },
+    {
+      "id": 224,
+      "startMs": 1467420,
+      "endMs": 1472540,
+      "en": "He became almost as well-known for his striking look at the recent World Cup as for the number of goals he scored.",
+      "zh": "正如你所说，他在最近一届世界杯上的醒目造型，几乎和进球数一样出名。"
+    },
+    {
+      "id": 225,
+      "startMs": 1472780,
+      "endMs": 1475260,
+      "en": "And he scores an awful lot of goals.",
+      "zh": "而且他进球多得惊人。"
+    },
+    {
+      "id": 226,
+      "startMs": 1475260,
+      "endMs": 1479900,
+      "en": "So when he announced on social media he was having it all cut off, it caused a bit of a stir.",
+      "zh": "所以，当他在社交媒体上宣布要把头发全部剪掉时，引起了一阵轰动。"
+    },
+    {
+      "id": 227,
+      "startMs": 1479900,
+      "endMs": 1483740,
+      "en": "And here's the man himself explaining why he was cutting off his long locks.",
+      "zh": "下面听他本人解释为何要剪掉自己的长发。"
+    },
+    {
+      "id": 228,
+      "startMs": 1485600,
+      "endMs": 1488320,
+      "en": "Beautiful blonde hair, time to let it go.",
+      "zh": "漂亮的金发，是时候告别了。"
+    },
+    {
+      "id": 229,
+      "startMs": 1488880,
+      "endMs": 1493040,
+      "en": "I planned to do this after the World Cup, but we were so busy, so I didn't.",
+      "zh": "我本想在世界杯后马上剪掉，但当时太忙了，所以没剪。"
+    },
+    {
+      "id": 230,
+      "startMs": 1493280,
+      "endMs": 1496640,
+      "en": "Season starts now, so it's time to get a fresh start and everything.",
+      "zh": "现在赛季开始了，是时候一切重新开始。"
+    },
+    {
+      "id": 231,
+      "startMs": 1496800,
+      "endMs": 1501600,
+      "en": "The only thing is, Zlatan told me, \"Never cut your hair because your strength is in your hair.\"",
+      "zh": "唯一的问题是，兹拉坦告诉我：“永远别剪头发，因为你的力量就在头发里。”"
+    },
+    {
+      "id": 232,
+      "startMs": 1501840,
+      "endMs": 1504800,
+      "en": "I'm a bit nervous. I want buzz cuts, like I've been in the military.",
+      "zh": "我有点紧张。我想要寸头，就像当过兵一样。"
+    },
+    {
+      "id": 233,
+      "startMs": 1505280,
+      "endMs": 1508640,
+      "en": "Yeah, so biblical references there. What's the reaction been?",
+      "zh": "是的，这里有《圣经》的典故。大家反应如何？"
+    },
+    {
+      "id": 234,
+      "startMs": 1508720,
+      "endMs": 1513840,
+      "en": "Well, his video has already racked up a couple of million views in just a few hours on his YouTube channel",
+      "zh": "这段视频在他的YouTube频道上线短短几小时，已经获得了数百万次观看，"
+    },
+    {
+      "id": 235,
+      "startMs": 1513920,
+      "endMs": 1516080,
+      "en": "he looked nervous before it was all cut off.",
+      "zh": "在头发被全部剪掉前，他看起来相当紧张。"
+    },
+    {
+      "id": 236,
+      "startMs": 1516080,
+      "endMs": 1520240,
+      "en": "And then he decided to phone up some of his famous pals and show off his new look.",
+      "zh": "随后他决定打电话给几位名人朋友，展示自己的新造型。"
+    },
+    {
+      "id": 237,
+      "startMs": 1520240,
+      "endMs": 1523600,
+      "en": "He had his teammate Jack Grealish, who said he looked about 10 years old.",
+      "zh": "他的队友杰克·格拉利什说，他看起来大约只有10岁。"
+    },
+    {
+      "id": 238,
+      "startMs": 1523840,
+      "endMs": 1528400,
+      "en": "And here's the reaction of his old boss, former Manchester City boss, Pep Guardiola.",
+      "zh": "下面是他的老上司、前曼城主帅佩普·瓜迪奥拉的反应。"
+    },
+    {
+      "id": 239,
+      "startMs": 1531200,
+      "endMs": 1534080,
+      "en": "You are lucky, you have hair. I would love to have it.",
+      "zh": "你真幸运，还有头发。我真想拥有你的头发。"
+    },
+    {
+      "id": 240,
+      "startMs": 1537460,
+      "endMs": 1539300,
+      "en": "Do you like it? Yeah, it's okay.",
+      "zh": "你喜欢吗？嗯，还不错。"
+    },
+    {
+      "id": 241,
+      "startMs": 1539380,
+      "endMs": 1544420,
+      "en": "Listen, listen, if you don't like it, it'll grow back, so don't worry. Thank you so much.",
+      "zh": "听着，听着，如果你不喜欢，它还会长回来，别担心。非常感谢。"
+    },
+    {
+      "id": 242,
+      "startMs": 1544820,
+      "endMs": 1548740,
+      "en": "But back to Zlatan, maybe he was right because he showed off his haircut.",
+      "zh": "回到兹拉坦的话题，也许他说得对，因为哈兰德展示了自己的新发型。"
+    },
+    {
+      "id": 243,
+      "startMs": 1548820,
+      "endMs": 1551780,
+      "en": "But Man City, although they won the game, Haaland failed to score.",
+      "zh": "不过曼城虽然赢了比赛，哈兰德却没能进球。"
+    },
+    {
+      "id": 244,
+      "startMs": 1552260,
+      "endMs": 1554820,
+      "en": "Here today, gone tomorrow. Pete Ross.",
+      "zh": "今日登场，明日告别。皮特·罗斯报道。"
+    },
+    {
+      "id": 245,
+      "startMs": 1557240,
+      "endMs": 1559800,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是今天的全部内容。"
+    },
+    {
+      "id": 246,
+      "startMs": 1559960,
+      "endMs": 1564840,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如想联系我们，可发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 247,
+      "startMs": 1564840,
+      "endMs": 1571960,
+      "en": "You can also find us on X at BBC World Service. Use the hashtag #GlobalNewsPod.",
+      "zh": "你也可以在X上关注BBC World Service，使用话题标签#GlobalNewsPod。"
+    },
+    {
+      "id": 248,
+      "startMs": 1571960,
+      "endMs": 1575800,
+      "en": "This edition of the Global News Podcast was mixed by Chris Lovelock.",
+      "zh": "本期《全球新闻播客》由克里斯·洛夫洛克负责混音。"
+    },
+    {
+      "id": 249,
+      "startMs": 1576120,
+      "endMs": 1578120,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 250,
+      "startMs": 1578520,
+      "endMs": 1581000,
+      "en": "I am Alex Ritson. Until next time, goodbye.",
+      "zh": "我是亚历克斯·里特森。下次再见。"
+    }
+  ]
+}

@@ -1,0 +1,1768 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "23 August 2026"
+  },
+  "durationMs": 1683040,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4800,
+      "en": "Hey there, it's Asma Khalid. I'm one of the hosts of The Global Story podcast from the BBC.",
+      "zh": "大家好，我是阿斯玛·哈立德，是 BBC 播客《The Global Story》的主持人之一。"
+    },
+    {
+      "id": 2,
+      "startMs": 5120,
+      "endMs": 9760,
+      "en": "And as a bonus for your feed, we're bringing you one of our favorite episodes of the week.",
+      "zh": "作为额外内容，我们为你的节目列表带来本周最喜欢的一期节目。"
+    },
+    {
+      "id": 3,
+      "startMs": 10240,
+      "endMs": 16560,
+      "en": "Every weekday on The Global Story, we try to tell one big story about where the world and America intersect.",
+      "zh": "《The Global Story》每个工作日都试图讲述一个世界与美国交汇处的重要故事。"
+    },
+    {
+      "id": 4,
+      "startMs": 16960,
+      "endMs": 26560,
+      "en": "This week, Donald Trump's son-in-law and adviser Jared Kushner met with Benjamin Netanyahu in Israel in an attempt to get the US-led Gaza peace plan back on track.",
+      "zh": "本周，唐纳德·特朗普的女婿兼顾问贾里德·库什纳在以色列会见本雅明·内塔尼亚胡，试图让美国主导的加沙和平计划重回正轨。"
+    },
+    {
+      "id": 5,
+      "startMs": 27120,
+      "endMs": 32560,
+      "en": "But convincing the Israeli prime minister to change his position will likely be an uphill battle,",
+      "zh": "但要说服这位以色列总理改变立场，可能会是一场艰苦的斗争，"
+    },
+    {
+      "id": 6,
+      "startMs": 32720,
+      "endMs": 36320,
+      "en": "in part because Netanyahu is also thinking about domestic politics.",
+      "zh": "部分原因在于，内塔尼亚胡还在考虑国内政治。"
+    },
+    {
+      "id": 7,
+      "startMs": 36640,
+      "endMs": 41120,
+      "en": "He has elections he's trying to win this fall and wants to prove he's tough on Hamas.",
+      "zh": "他将在今年秋天参加选举，并希望证明自己对哈马斯态度强硬。"
+    },
+    {
+      "id": 8,
+      "startMs": 41520,
+      "endMs": 45600,
+      "en": "And Netanyahu is facing some major competition in this upcoming election.",
+      "zh": "而内塔尼亚胡正面临这场即将到来的选举中的强劲竞争。"
+    },
+    {
+      "id": 9,
+      "startMs": 46160,
+      "endMs": 53200,
+      "en": "We spoke to David Remnick, editor of The New Yorker, about the man emerging as one of Netanyahu's most formidable opponents.",
+      "zh": "我们采访了《纽约客》编辑戴维·雷姆尼克，谈论这位逐渐成为内塔尼亚胡最强对手之一的人物。"
+    },
+    {
+      "id": 10,
+      "startMs": 53680,
+      "endMs": 55920,
+      "en": "Remnick recently profiled him for the magazine.",
+      "zh": "雷姆尼克最近为该杂志撰写了他的深度人物特写。"
+    },
+    {
+      "id": 11,
+      "startMs": 56240,
+      "endMs": 58800,
+      "en": "And a note that if you enjoy our episode today, you can",
+      "zh": "另外，如果你喜欢今天这期节目，你可以"
+    },
+    {
+      "id": 12,
+      "startMs": 58900,
+      "endMs": 64180,
+      "en": "always find more from us by searching for The Global Story wherever you listen to your favorite shows.",
+      "zh": "在你收听喜爱节目的平台搜索《The Global Story》，找到更多我们的节目。"
+    },
+    {
+      "id": 13,
+      "startMs": 64420,
+      "endMs": 65780,
+      "en": "Now, on to today's show.",
+      "zh": "现在进入今天的节目。"
+    },
+    {
+      "id": 14,
+      "startMs": 66960,
+      "endMs": 70320,
+      "en": "Benjamin Netanyahu's been on the scene for a long time.",
+      "zh": "本雅明·内塔尼亚胡活跃在政坛已经很久了。"
+    },
+    {
+      "id": 15,
+      "startMs": 70640,
+      "endMs": 79680,
+      "en": "You could have just turned 30 years old and never known a time when he wasn't either prime minister or somewhere near the top of Israeli politics.",
+      "zh": "一个人即使刚满30岁，也可能从未经历过内塔尼亚胡不是总理、或不是以色列政坛高层的时期。"
+    },
+    {
+      "id": 16,
+      "startMs": 80080,
+      "endMs": 82560,
+      "en": "But that could be about to change.",
+      "zh": "但这可能即将改变。"
+    },
+    {
+      "id": 17,
+      "startMs": 84460,
+      "endMs": 90860,
+      "en": "Israel is less than three months away from a high-stakes general election in which Netanyahu could lose.",
+      "zh": "距离以色列一场事关重大的大选不到三个月，内塔尼亚胡可能会输掉这场选举。"
+    },
+    {
+      "id": 18,
+      "startMs": 92440,
+      "endMs": 97960,
+      "en": "And it could be to a man who's little known outside of Israel, by the name of Gadi Eisenkot.",
+      "zh": "输给的可能是一位在以色列以外鲜为人知的人，他名叫加迪·艾森科特。"
+    },
+    {
+      "id": 19,
+      "startMs": 99940,
+      "endMs": 103380,
+      "en": "He's the former top general in the Israeli military.",
+      "zh": "他曾是以色列军队的最高级别将领。"
+    },
+    {
+      "id": 20,
+      "startMs": 103620,
+      "endMs": 106020,
+      "en": "He served in Netanyahu's war cabinet.",
+      "zh": "他曾在内塔尼亚胡的战时内阁任职。"
+    },
+    {
+      "id": 21,
+      "startMs": 106340,
+      "endMs": 108980,
+      "en": "His son was killed in the war in Gaza.",
+      "zh": "他的儿子在加沙战争中遇害。"
+    },
+    {
+      "id": 22,
+      "startMs": 110020,
+      "endMs": 116660,
+      "en": "And now he's being talked about by some in the international press as the anti-Netanyahu, but is that really true?",
+      "zh": "如今，国际媒体中的一些人把他称为“反内塔尼亚胡”人物，但事实真是如此吗？"
+    },
+    {
+      "id": 23,
+      "startMs": 118160,
+      "endMs": 127120,
+      "en": "Today on the show, we talk to David Remnick, editor of The New Yorker magazine, and a man who's been reporting on Israel for more than twenty-five years.",
+      "zh": "今天节目中，我们将采访《纽约客》杂志编辑戴维·雷姆尼克；他报道以色列已经超过25年。"
+    },
+    {
+      "id": 24,
+      "startMs": 127440,
+      "endMs": 131440,
+      "en": "He recently spent time with Eisenkot and wrote an extensive profile of him.",
+      "zh": "他最近与艾森科特相处了一段时间，并为他撰写了一篇详尽的人物特写。"
+    },
+    {
+      "id": 25,
+      "startMs": 132300,
+      "endMs": 135980,
+      "en": "From the BBC, I'm Tristan Redman and I'm Asma Khalid.",
+      "zh": "这里是 BBC，我是特里斯坦·雷德曼，我是阿斯玛·哈立德。"
+    },
+    {
+      "id": 26,
+      "startMs": 136700,
+      "endMs": 139980,
+      "en": "And today on The Global Story, who is Gadi Eisenkot,",
+      "zh": "今天在《The Global Story》中，我们要探讨加迪·艾森科特是谁，"
+    },
+    {
+      "id": 27,
+      "startMs": 139980,
+      "endMs": 145100,
+      "en": "and if he were to become the Israeli prime minister, would anything actually change?",
+      "zh": "以及如果他成为以色列总理，情况真的会改变吗？"
+    },
+    {
+      "id": 28,
+      "startMs": 149740,
+      "endMs": 157340,
+      "en": "David, thank you for taking the time to join us on The Global Story. We really appreciate it. Pleasure to be here. It's great to have you with us, David.",
+      "zh": "戴维，感谢你抽时间参加《The Global Story》。我们非常感谢。很高兴来到这里。戴维，很高兴你来参加我们的节目。"
+    },
+    {
+      "id": 29,
+      "startMs": 157660,
+      "endMs": 163740,
+      "en": "You've written this long profile for The New Yorker of Gadi Eisenkot.",
+      "zh": "你为《纽约客》撰写了这篇关于加迪·艾森科特的长篇人物特写。"
+    },
+    {
+      "id": 30,
+      "startMs": 164140,
+      "endMs": 171580,
+      "en": "We're talking to you today to try to understand who this man is because he's one of the front runners,",
+      "zh": "今天我们采访你，是想了解这个人是谁，因为他是领先的候选人之一，"
+    },
+    {
+      "id": 31,
+      "startMs": 171580,
+      "endMs": 174700,
+      "en": "for the upcoming Israeli election, which is a big deal.",
+      "zh": "将参加即将到来的以色列大选，而这是一场重要选举。"
+    },
+    {
+      "id": 32,
+      "startMs": 175100,
+      "endMs": 179500,
+      "en": "When Asma and I both read your piece, which we really enjoyed,",
+      "zh": "阿斯玛和我都读了你的文章，非常喜欢；"
+    },
+    {
+      "id": 33,
+      "startMs": 179980,
+      "endMs": 184060,
+      "en": "we were really struck by one story in it in particular,",
+      "zh": "其中有一个故事尤其令我们印象深刻，"
+    },
+    {
+      "id": 34,
+      "startMs": 184380,
+      "endMs": 190060,
+      "en": "which is the story of how Gadi Eisenkot lost his son not so long ago.",
+      "zh": "那就是加迪·艾森科特不久前失去儿子的故事。"
+    },
+    {
+      "id": 35,
+      "startMs": 190880,
+      "endMs": 196320,
+      "en": "What happened and why has this story become so central to his election run?",
+      "zh": "发生了什么？为什么这个故事成为他竞选活动的核心？"
+    },
+    {
+      "id": 36,
+      "startMs": 196480,
+      "endMs": 202240,
+      "en": "Everybody's kids serve in the military, and one of his five children was called up as a reservist.",
+      "zh": "每个人的孩子都会服兵役；他的五个孩子中，有一个被征召成为预备役军人。"
+    },
+    {
+      "id": 37,
+      "startMs": 202320,
+      "endMs": 203840,
+      "en": "He was an army medic.",
+      "zh": "他是一名军医。"
+    },
+    {
+      "id": 38,
+      "startMs": 204760,
+      "endMs": 215560,
+      "en": "And he was sent on a mission with his small group to retrieve the bodies of two hostages who had been killed in Gaza.",
+      "zh": "他和小组成员接到任务，去加沙找回两名已被杀害的人质的遗体。"
+    },
+    {
+      "id": 39,
+      "startMs": 216120,
+      "endMs": 227020,
+      "en": "Not two living hostages, but their bodies. During that mission, he likely was shot or, more likely, stepped on an IED, an explosive device.",
+      "zh": "不是去找活着的人质，而是遗体。在那次任务中，他可能是中枪，但更可能是踩到了简易爆炸装置。"
+    },
+    {
+      "id": 40,
+      "startMs": 227420,
+      "endMs": 230540,
+      "en": "Everybody heard about this because of who Gadi Eisenkot is.",
+      "zh": "由于加迪·艾森科特的身份，所有人都听说了这件事。"
+    },
+    {
+      "id": 41,
+      "startMs": 230540,
+      "endMs": 237980,
+      "en": "At the funeral of IDF soldier Gal Eisenkot, wails of sorrow.",
+      "zh": "在以色列国防军士兵加尔·艾森科特的葬礼上，哀声阵阵。"
+    },
+    {
+      "id": 42,
+      "startMs": 238140,
+      "endMs": 246140,
+      "en": "The funeral was on television. Senior officials mourned with the family in the most high-profile loss for the IDF so far.",
+      "zh": "葬礼在电视上播出。高级官员与家人共同哀悼，这是迄今以色列国防军最受关注的阵亡事件。"
+    },
+    {
+      "id": 43,
+      "startMs": 246220,
+      "endMs": 249180,
+      "en": "Eisenkot's eulogy was televised.",
+      "zh": "艾森科特的悼词在电视上播出。"
+    },
+    {
+      "id": 44,
+      "startMs": 251900,
+      "endMs": 257420,
+      "en": "People felt this very acutely.",
+      "zh": "人们对此感受极其深切。"
+    },
+    {
+      "id": 45,
+      "startMs": 257820,
+      "endMs": 266140,
+      "en": "So it sounds like this story of losing his son is really central to how the Israeli public views Eisenkot.",
+      "zh": "所以，失去儿子的故事似乎确实是以色列公众看待艾森科特的核心。"
+    },
+    {
+      "id": 46,
+      "startMs": 266780,
+      "endMs": 271900,
+      "en": "But Eisenkot has a long backstory in Israeli public life.",
+      "zh": "但艾森科特在以色列公共生活中有着漫长的经历。"
+    },
+    {
+      "id": 47,
+      "startMs": 272140,
+      "endMs": 276620,
+      "en": "And you write about that as well. Can you tell us what that story is?",
+      "zh": "你也写到了这一点。能否告诉我们那段经历是什么？"
+    },
+    {
+      "id": 48,
+      "startMs": 277180,
+      "endMs": 281500,
+      "en": "So Eisenkot is Moroccan.",
+      "zh": "艾森科特是摩洛哥裔。"
+    },
+    {
+      "id": 49,
+      "startMs": 282320,
+      "endMs": 290480,
+      "en": "Every Prime Minister since Ben-Gurion has been Ashkenazi, in other words, descended from Eastern European Jews.",
+      "zh": "自本-古里安以来，每位总理都是阿什肯纳兹犹太人，也就是东欧犹太人的后裔。"
+    },
+    {
+      "id": 50,
+      "startMs": 291040,
+      "endMs": 300000,
+      "en": "When he goes to a town that has a lot of Moroccan Jews, people who came from Morocco or from other Muslim states,",
+      "zh": "他去到有许多摩洛哥犹太人的城镇时，那些来自摩洛哥或其他穆斯林国家的人，"
+    },
+    {
+      "id": 51,
+      "startMs": 300640,
+      "endMs": 308320,
+      "en": "Iraq and Syria, these are Jews who left in the forties and the fifties and into the sixties,",
+      "zh": "包括来自伊拉克和叙利亚的人；这些犹太人在四十、五十年代以及进入六十年代时离开了那里，"
+    },
+    {
+      "id": 52,
+      "startMs": 308800,
+      "endMs": 316480,
+      "en": "they use a Moroccan Arabic phrase indicating ‘one of us’, and that's not something that Netanyahu can challenge.",
+      "zh": "会用一句摩洛哥阿拉伯语称他为“我们中的一员”，这是内塔尼亚胡无法挑战的身份认同。"
+    },
+    {
+      "id": 53,
+      "startMs": 316720,
+      "endMs": 322800,
+      "en": "But Gadi Eisenkot is a military man. He's a very high-ranking military officer.",
+      "zh": "但加迪·艾森科特是军人，是一名军衔很高的军官。"
+    },
+    {
+      "id": 54,
+      "startMs": 322880,
+      "endMs": 327540,
+      "en": "He was even at one point Chief of Staff under Netanyahu.",
+      "zh": "他甚至曾在内塔尼亚胡手下担任总参谋长。"
+    },
+    {
+      "id": 55,
+      "startMs": 328340,
+      "endMs": 338980,
+      "en": "He worked his way to the very top of the IDF, a position that carried almost celebrity status.",
+      "zh": "他一路升至以色列国防军最高层，这一职位几乎带有名人般的地位。"
+    },
+    {
+      "id": 56,
+      "startMs": 339380,
+      "endMs": 345700,
+      "en": "But if I can point out, though, I will say this: celebrity, maybe celebrity status gives him a certain glamour that he does not",
+      "zh": "不过我想指出的是：这种名声，或许这种名人地位，确实给他增添了某种光环，但他并不"
+    },
+    {
+      "id": 57,
+      "startMs": 345700,
+      "endMs": 350960,
+      "en": "have. He's not a magnetic personality.",
+      "zh": "具备那种魅力。他不是很有个人吸引力的人。"
+    },
+    {
+      "id": 58,
+      "startMs": 351520,
+      "endMs": 354400,
+      "en": "You know, Bibi Netanyahu, think of him what you will.",
+      "zh": "你看，至于本雅明·内塔尼亚胡，不管你怎么看他，"
+    },
+    {
+      "id": 59,
+      "startMs": 354400,
+      "endMs": 357600,
+      "en": "And I certainly think of him as I do. I'm no fan.",
+      "zh": "我的看法自然很明确，我不是他的支持者。"
+    },
+    {
+      "id": 60,
+      "startMs": 357600,
+      "endMs": 361680,
+      "en": "And I've been covering him since the nineties. He is extremely fluid.",
+      "zh": "我从九十年代起就一直报道他。他极其圆融灵活。"
+    },
+    {
+      "id": 61,
+      "startMs": 361680,
+      "endMs": 364640,
+      "en": "He's a great political campaigner, a very cynical one.",
+      "zh": "他是出色的政治竞选者，而且非常犬儒。"
+    },
+    {
+      "id": 62,
+      "startMs": 365280,
+      "endMs": 370560,
+      "en": "His English is famously perfect, having spent so many years in the United States as a young man.",
+      "zh": "他的英语完美得出了名，因为年轻时曾在美国生活多年。"
+    },
+    {
+      "id": 63,
+      "startMs": 371040,
+      "endMs": 374400,
+      "en": "Eisenkot's English, it's like my Russian, it's a bit rough.",
+      "zh": "艾森科特的英语就像我的俄语一样，有点生硬。"
+    },
+    {
+      "id": 64,
+      "startMs": 375380,
+      "endMs": 377140,
+      "en": "And he's not a magnetic speaker.",
+      "zh": "而且他不是很有感染力的演说者。"
+    },
+    {
+      "id": 65,
+      "startMs": 377540,
+      "endMs": 387620,
+      "en": "He's a kind of, if you don't mind a little Yiddish, a little schlumpy, mensch-y, your favorite uncle type person, unthreatening.",
+      "zh": "用一句意第绪语来说，他有点邋遢、像个亲切的人，是那种你最喜欢的叔叔型人物，不会让人感到威胁。"
+    },
+    {
+      "id": 66,
+      "startMs": 388180,
+      "endMs": 394500,
+      "en": "At the same time, as a military man, it should be pointed out he was the key originator of what's called the Dahiya doctrine.",
+      "zh": "同时也必须指出，作为军人，他是所谓“达希亚主义”的主要创始人。"
+    },
+    {
+      "id": 67,
+      "startMs": 395360,
+      "endMs": 399920,
+      "en": "It has to do with a kind of asymmetrical warfare, if you will.",
+      "zh": "这涉及一种可以说是不对称战争的作战方式。"
+    },
+    {
+      "id": 68,
+      "startMs": 399920,
+      "endMs": 406560,
+      "en": "In other words, the doctrine applies when attacks come from Hezbollah in Beirut's Dahiya neighbourhood.",
+      "zh": "换句话说，如果真主党从贝鲁特的达希亚社区发动袭击，这套主义就会适用。"
+    },
+    {
+      "id": 69,
+      "startMs": 406720,
+      "endMs": 412640,
+      "en": "It calls for attacks with great ferocity, even against civilian infrastructure where those attacks originate.",
+      "zh": "就要以极大力度发动攻击，甚至打击发动袭击的地点的民用基础设施。"
+    },
+    {
+      "id": 70,
+      "startMs": 413360,
+      "endMs": 418160,
+      "en": "He's not a bleeding heart. He's a military tough guy.",
+      "zh": "他不是心慈手软的人，而是强硬的军人。"
+    },
+    {
+      "id": 71,
+      "startMs": 418160,
+      "endMs": 422880,
+      "en": "Is that a fair description? This is a man of his institution.",
+      "zh": "这样的描述公平吗？他是一个代表其体制的人。"
+    },
+    {
+      "id": 72,
+      "startMs": 424220,
+      "endMs": 430860,
+      "en": "Okay, well, by the time the 7th of October happens, Gadi Eisenkot is in the Knesset.",
+      "zh": "好，那么到10月7日发生时，加迪·艾森科特已经在议会任职。"
+    },
+    {
+      "id": 73,
+      "startMs": 430860,
+      "endMs": 434460,
+      "en": "He's left the military, so he's an MP in parliament.",
+      "zh": "他已经离开军队，成为议会的一名议员。"
+    },
+    {
+      "id": 74,
+      "startMs": 434700,
+      "endMs": 439260,
+      "en": "He's a relatively new politician; he's only been there for a year.",
+      "zh": "他是个相对年轻的政治人物，在那里任职才一年。"
+    },
+    {
+      "id": 75,
+      "startMs": 439260,
+      "endMs": 449500,
+      "en": "He's not a supporter of Netanyahu, but when the attack happens, Netanyahu nonetheless asks him to join a war cabinet.",
+      "zh": "他并不支持内塔尼亚胡，但袭击发生后，内塔尼亚胡仍邀请他加入战争内阁。"
+    },
+    {
+      "id": 76,
+      "startMs": 449660,
+      "endMs": 455420,
+      "en": "Correct. Why does he agree to that, and what is his role in that cabinet?",
+      "zh": "没错。他为什么同意？他在内阁中扮演什么角色？"
+    },
+    {
+      "id": 77,
+      "startMs": 455420,
+      "endMs": 461580,
+      "en": "In light of what's happened in Gaza and the scale of the horror there, recall the atmosphere in Israel right after October 7.",
+      "zh": "鉴于加沙发生的一切及那里的惨烈程度，我们应回想10月7日之后以色列的氛围。"
+    },
+    {
+      "id": 78,
+      "startMs": 461580,
+      "endMs": 470620,
+      "en": "I can't begin to describe the sense of shock in Israeli society, and grief and disorientation.",
+      "zh": "我无法描述以色列社会所感受到的震惊、悲痛与迷惘。"
+    },
+    {
+      "id": 79,
+      "startMs": 471100,
+      "endMs": 482200,
+      "en": "In other words, the entire purpose of the state, in some sense, which is the security of a people that for centuries had been defenseless,",
+      "zh": "换句话说，这个国家在某种意义上的全部目的，就是保障一个数百年来一直无力自卫的民族的安全，"
+    },
+    {
+      "id": 80,
+      "startMs": 482280,
+      "endMs": 490780,
+      "en": "essentially to anti-Semitism, violent anti-Semitism, culminating with the Holocaust,",
+      "zh": "这个民族长期面对反犹主义和暴力反犹主义，最终走向大屠杀，"
+    },
+    {
+      "id": 81,
+      "startMs": 491740,
+      "endMs": 501100,
+      "en": "and suddenly one day, hundreds and hundreds of Israelis are killed. Over 200 are taken hostage and brought back to Gaza.",
+      "zh": "却突然在一天之内有数百名以色列人被杀，超过200人被扣为人质并带回加沙。"
+    },
+    {
+      "id": 82,
+      "startMs": 501780,
+      "endMs": 509940,
+      "en": "The state collapsed, and so suddenly it was quite clear that that was going to need to be answered.",
+      "zh": "国家崩溃了，因此很快就清楚，必须对此作出回应。"
+    },
+    {
+      "id": 83,
+      "startMs": 510580,
+      "endMs": 513620,
+      "en": "This was a very disunified moment in Israeli history.",
+      "zh": "这是以色列历史上极其不团结的时刻。"
+    },
+    {
+      "id": 84,
+      "startMs": 513620,
+      "endMs": 520360,
+      "en": "It had been preceded by endless demonstrations about what was called judicial reform.",
+      "zh": "此前，以色列一直在举行针对所谓司法改革的无休止示威。"
+    },
+    {
+      "id": 85,
+      "startMs": 520360,
+      "endMs": 528360,
+      "en": "Which was really a Netanyahu government attempt to disempower the Supreme Court and the Attorney General.",
+      "zh": "这实际上是内塔尼亚胡政府试图削弱最高法院和总检察长权力的举措。"
+    },
+    {
+      "id": 86,
+      "startMs": 528840,
+      "endMs": 531640,
+      "en": "This was a huge issue in internal Israel.",
+      "zh": "这在以色列国内是一个重大问题。"
+    },
+    {
+      "id": 87,
+      "startMs": 531960,
+      "endMs": 539880,
+      "en": "So he needed this show of unity in the most important decisions being made, namely the military decisions, and so he brought him in.",
+      "zh": "因此，在最重要的军事决策上，他需要展现团结，于是把艾森科特请了进来。"
+    },
+    {
+      "id": 88,
+      "startMs": 541060,
+      "endMs": 554980,
+      "en": "Eisenkot is, by the standards of present-day, post-October 7 Israeli politics—and it's important to point that out—somebody of the centre-left.",
+      "zh": "按如今、尤其是10月7日之后的以色列政治标准来看，艾森科特属于中间偏左阵营——这一点很重要。"
+    },
+    {
+      "id": 89,
+      "startMs": 555780,
+      "endMs": 560580,
+      "en": "I think he's probably of the centre-left in today's Israel, because it's moved so far to the right.",
+      "zh": "我认为在如今的以色列，他大概属于中间偏左，因为以色列已经大幅右转。"
+    },
+    {
+      "id": 90,
+      "startMs": 561300,
+      "endMs": 566420,
+      "en": "Centre, centre-left—can you define that in American political terms?",
+      "zh": "中间派、中间偏左？能用美国政治术语解释一下吗？"
+    },
+    {
+      "id": 91,
+      "startMs": 566980,
+      "endMs": 572980,
+      "en": "Well, maybe it's not translatable, but it is translatable—we're speaking in different tongues.",
+      "zh": "嗯，也许无法直接对应，但确实可以对应——我们说的是不同的政治语言。"
+    },
+    {
+      "id": 92,
+      "startMs": 572980,
+      "endMs": 582900,
+      "en": "In other words, the issue that Americans, Brits and almost everyone else thinks about first and foremost when they're thinking about Israeli politics is the Palestinian question.",
+      "zh": "换句话说，美国人、英国人以及几乎所有其他人想到以色列政治时，首先想到的就是巴勒斯坦问题。"
+    },
+    {
+      "id": 93,
+      "startMs": 584060,
+      "endMs": 590940,
+      "en": "Like it or not, that is not the central issue in the Israeli election campaign.",
+      "zh": "不管人们是否喜欢，这并不是以色列竞选活动的核心议题。"
+    },
+    {
+      "id": 94,
+      "startMs": 591580,
+      "endMs": 602220,
+      "en": "In fact, I would say none of the major contenders, except for Yair Golan of the Democrats, dares to speak about",
+      "zh": "事实上，我认为除了民主党的亚伊尔·戈兰之外，没有哪个主要竞争者敢开口谈论……"
+    },
+    {
+      "id": 95,
+      "startMs": 603440,
+      "endMs": 612880,
+      "en": "a resolution, a solution to the terrible conflict that's been going on for so many decades, and so I thought.",
+      "zh": "解决这场持续数十年的可怕冲突——所以我就这么想。"
+    },
+    {
+      "id": 96,
+      "startMs": 612880,
+      "endMs": 626080,
+      "en": "Eisenkot and another general, Benny Gantz, were asked to join this essentially national-unity war cabinet of very experienced generals, and they fell into argument pretty quickly.",
+      "zh": "艾森科特和另一位将军本尼·甘茨受邀加入这个由经验丰富的将军组成的全国团结战时内阁，但他们很快就发生了争执。"
+    },
+    {
+      "id": 97,
+      "startMs": 626960,
+      "endMs": 637280,
+      "en": "Over what exactly? The first thing that happened is that Eisenkot helped stave off an immediate attack against Lebanon, against Hezbollah.",
+      "zh": "具体争什么？首先，艾森科特帮助阻止了立即对黎巴嫩、对真主党发动的攻击。"
+    },
+    {
+      "id": 98,
+      "startMs": 637760,
+      "endMs": 642180,
+      "en": "There were generals that wanted immediately to open a second front in the north.",
+      "zh": "有些将军当时想立即在北部开辟第二战线。"
+    },
+    {
+      "id": 99,
+      "startMs": 643620,
+      "endMs": 646820,
+      "en": "Eisenkot successfully argued against this and helped stave that off.",
+      "zh": "艾森科特成功提出反对意见，帮助阻止了这一行动。"
+    },
+    {
+      "id": 100,
+      "startMs": 647980,
+      "endMs": 656720,
+      "en": "More consequentially, Eisenkot thought the strategy should be, first and foremost, to get all the hostages home.",
+      "zh": "更重要的是，艾森科特认为战略首先应该是让所有人质回家。"
+    },
+    {
+      "id": 101,
+      "startMs": 657740,
+      "endMs": 665740,
+      "en": "First and foremost, people in the cabinet—not just Ben-Gvir and Smotrich—",
+      "zh": "首先，内阁中的人——不只是本-格维尔和斯莫特里奇——"
+    },
+    {
+      "id": 102,
+      "startMs": 665740,
+      "endMs": 673620,
+      "en": "but also eventually Netanyahu himself really wanted vengeance in a completist way.",
+      "zh": "最终连内塔尼亚胡本人也确实想要以一种不留余地的方式复仇。"
+    },
+    {
+      "id": 103,
+      "startMs": 674800,
+      "endMs": 679520,
+      "en": "To defeat Hamas as if this could be done in some totalist way.",
+      "zh": "仿佛可以用一种彻底的方式击败哈马斯。"
+    },
+    {
+      "id": 104,
+      "startMs": 680500,
+      "endMs": 690740,
+      "en": "And if that meant some hostages would have to remain behind, or those deals would not happen as quickly as possible, then so be it.",
+      "zh": "如果这意味着一些人质必须继续被留下，或者相关协议无法尽快达成，那也就这样。"
+    },
+    {
+      "id": 105,
+      "startMs": 691980,
+      "endMs": 700220,
+      "en": "And after a while, Eisenkot could not countenance that, and he and Gantz left the war cabinet.",
+      "zh": "过了一段时间，艾森科特无法接受这一点，于是他和甘茨离开了战时内阁。"
+    },
+    {
+      "id": 106,
+      "startMs": 701320,
+      "endMs": 707640,
+      "en": "And then, shortly after he left the war cabinet—and that was, I believe, in the summer of 2024—",
+      "zh": "然后，他离开战时内阁不久后——我记得那是在2024年夏天——"
+    },
+    {
+      "id": 107,
+      "startMs": 707800,
+      "endMs": 712760,
+      "en": "So a little while later, he decides to form his own political party.",
+      "zh": "过了一阵子，他决定组建自己的政党。"
+    },
+    {
+      "id": 108,
+      "startMs": 712760,
+      "endMs": 722360,
+      "en": "And, David, if we can just explain that Israel has a coalition system of governance, it's not anything like our two-party system here in the United States.",
+      "zh": "大卫，我们先解释一下：以色列实行联合政府体制，完全不像美国这样的两党制。"
+    },
+    {
+      "id": 109,
+      "startMs": 722600,
+      "endMs": 727400,
+      "en": "If you're not up to date on Israeli politics, you think of Labor as this big party, and Likud as this big party.",
+      "zh": "如果你不了解以色列政治，可能会以为工党是大党，利库德也是大党。"
+    },
+    {
+      "id": 110,
+      "startMs": 727480,
+      "endMs": 735560,
+      "en": "Uh, Labor is now tiny, so you have to form a coalition with other parties, which makes things, very, shall we say, interesting and chaotic.",
+      "zh": "嗯，工党如今很小，所以必须和其他政党组建联合政府，这让局势——怎么说呢——既有趣又混乱。"
+    },
+    {
+      "id": 111,
+      "startMs": 736280,
+      "endMs": 740600,
+      "en": "So new parties are being formed with rather stunning regularity,",
+      "zh": "因此，新政党以相当惊人的频率不断成立，"
+    },
+    {
+      "id": 112,
+      "startMs": 740840,
+      "endMs": 747400,
+      "en": "and sometimes they form around one person, and sometimes around a political impulse of a particular moment.",
+      "zh": "有时它们围绕某个人成立，有时则围绕某一时刻的政治诉求成立。"
+    },
+    {
+      "id": 113,
+      "startMs": 748740,
+      "endMs": 760620,
+      "en": "Somebody's going to have to form a coalition to form a government after this election. It is unlikely that any one party will get 61 mandates on its own in the Knesset.",
+      "zh": "选举之后，总得有人组建联合政府。任何一个政党都不太可能单独在议会赢得61个席位。"
+    },
+    {
+      "id": 114,
+      "startMs": 760700,
+      "endMs": 768700,
+      "en": "What has to happen is that a number of parties have to come together and form a coalition after the election.",
+      "zh": "必须发生的是，多个政党在选举后联合起来组建执政联盟。"
+    },
+    {
+      "id": 115,
+      "startMs": 768700,
+      "endMs": 776540,
+      "en": "The president, which is largely a ceremonial office, gives somebody the first chance to do it. It's usually the leading vote-getter.",
+      "zh": "总统这一职位基本上是礼仪性的，会给某人第一次组阁机会。通常是得票最多的人。"
+    },
+    {
+      "id": 116,
+      "startMs": 776620,
+      "endMs": 783260,
+      "en": "So if it's Eisenkot, then he will try to form a coalition. If it's Netanyahu, he will do the same.",
+      "zh": "所以如果是艾森科特，他就会尝试组建联合政府；如果是内塔尼亚胡，也会这么做。"
+    },
+    {
+      "id": 117,
+      "startMs": 783820,
+      "endMs": 792620,
+      "en": "The coalition that Eisenkot would be likely to lead is his party, which is called Yashar, which means straightforward or honest or something like that.",
+      "zh": "艾森科特可能领导的联盟，核心是他的政党，名为Yashar，意思大概是“直率”或“诚实”。"
+    },
+    {
+      "id": 118,
+      "startMs": 793440,
+      "endMs": 800320,
+      "en": "And then you have a party led by Naftali Bennett, who's a man of the right and was briefly prime minister,",
+      "zh": "此外，还有纳夫塔利·贝内特领导的政党；他是右翼人士，曾短暂担任总理。"
+    },
+    {
+      "id": 119,
+      "startMs": 800800,
+      "endMs": 806080,
+      "en": "and he's together with Yesh Atid, which is a party of the kind of centre-left.",
+      "zh": "他的政党与Yesh Atid合作，后者大致属于中间偏左。"
+    },
+    {
+      "id": 120,
+      "startMs": 807080,
+      "endMs": 809880,
+      "en": "And then you have the Democrats; it's more of the left.",
+      "zh": "还有民主党，它更加偏左。"
+    },
+    {
+      "id": 121,
+      "startMs": 809880,
+      "endMs": 813720,
+      "en": "Am I confusing everybody? Have I succeeded in confusing absolutely everybody at this point?",
+      "zh": "我是不是把大家都弄糊涂了？到现在为止，我是不是成功把所有人都弄糊涂了？"
+    },
+    {
+      "id": 122,
+      "startMs": 814200,
+      "endMs": 819880,
+      "en": "No, no, you're doing great. Carry on. And on the right, you have Likud, but then you have these other parties.",
+      "zh": "不，不，你讲得很好。请继续。右翼有利库德，但还有其他这些政党。"
+    },
+    {
+      "id": 123,
+      "startMs": 820840,
+      "endMs": 825960,
+      "en": "And most vividly, you have these religious parties—religious nationalist, and then religious religious.",
+      "zh": "最明显的是这些宗教政党——宗教民族主义政党，以及其他宗教政党。"
+    },
+    {
+      "id": 124,
+      "startMs": 827300,
+      "endMs": 835380,
+      "en": "And what Netanyahu does to keep feeding that coalition is to make all kinds of concessions to the Orthodox, the ultra-Orthodox.",
+      "zh": "内塔尼亚胡为了维持这个联盟，会向正统派、极端正统派作出各种让步。"
+    },
+    {
+      "id": 125,
+      "startMs": 836340,
+      "endMs": 844980,
+      "en": "So that they don't have to go into the draft. You have a big community of ultra-Orthodox Israelis, who, by the way, were not Zionists long ago.",
+      "zh": "这样他们就不用参军。以色列有一个庞大的极端正统派社群，顺带一提，他们很久以前并不是犹太复国主义者。"
+    },
+    {
+      "id": 126,
+      "startMs": 846020,
+      "endMs": 856420,
+      "en": "Who, first, refuse to serve in the military—or try to—and second, are the recipients of enormous amounts of essentially social-welfare programs.",
+      "zh": "他们第一是拒绝服兵役，或者试图拒绝；第二是获得巨额的社会福利项目。"
+    },
+    {
+      "id": 127,
+      "startMs": 856740,
+      "endMs": 859140,
+      "en": "This infuriates most Israelis.",
+      "zh": "这激怒了大多数以色列人。"
+    },
+    {
+      "id": 128,
+      "startMs": 859860,
+      "endMs": 865940,
+      "en": "My kid's going to go into the army and get killed to protect you, and you're going to read Torah and Talmud and call it a day.",
+      "zh": "我的孩子要参军，甚至可能为保护你们而牺牲，而你们却要读《妥拉》和《塔木德》，就这样算了。"
+    },
+    {
+      "id": 129,
+      "startMs": 866340,
+      "endMs": 868740,
+      "en": "This is a very, very divisive thing.",
+      "zh": "这是一个极其、极其分裂的问题。"
+    },
+    {
+      "id": 130,
+      "startMs": 869060,
+      "endMs": 876840,
+      "en": "Cynically, the extremely secular Bibi Netanyahu is willing to make these deals all the time.",
+      "zh": "讽刺的是，极其世俗的内塔尼亚胡却一直愿意做这些交易。"
+    },
+    {
+      "id": 131,
+      "startMs": 877880,
+      "endMs": 879560,
+      "en": "For the sake of building coalitions.",
+      "zh": "为了组建联盟。"
+    },
+    {
+      "id": 132,
+      "startMs": 879880,
+      "endMs": 885720,
+      "en": "And what is Eisenkot's platform in this party that he forms? What's he offering Israeli voters?",
+      "zh": "那么，艾森科特组建的这个政党的纲领是什么？他要向以色列选民提供什么？"
+    },
+    {
+      "id": 133,
+      "startMs": 886860,
+      "endMs": 893660,
+      "en": "Well, he thinks that everybody should serve in one way or another, even the Arab community. Even in the military?",
+      "zh": "他认为每个人都应该以某种方式服役，包括阿拉伯社群。也包括参军吗？"
+    },
+    {
+      "id": 134,
+      "startMs": 894060,
+      "endMs": 902300,
+      "en": "Not necessarily. If you want social service, you know, the equivalent of a domestic AmeriCorps or Peace Corps, or something like that, okay.",
+      "zh": "不一定。你可以从事某种社会服务，比如国内版的 AmeriCorps 或和平队之类的服务。"
+    },
+    {
+      "id": 135,
+      "startMs": 902700,
+      "endMs": 904380,
+      "en": "In other words, he has answers for that.",
+      "zh": "换句话说，他对此有自己的方案。"
+    },
+    {
+      "id": 136,
+      "startMs": 905400,
+      "endMs": 911880,
+      "en": "An end to this so-called judicial reform, a greater emphasis on democracy, separation of powers.",
+      "zh": "终结所谓的司法改革，更加重视民主和权力分立。"
+    },
+    {
+      "id": 137,
+      "startMs": 912600,
+      "endMs": 921020,
+      "en": "He sees and recognizes that the Netanyahu of now, unlike the Likud of many years ago,",
+      "zh": "他看得很清楚，如今的内塔尼亚胡不同于多年前的利库德，"
+    },
+    {
+      "id": 138,
+      "startMs": 921020,
+      "endMs": 925420,
+      "en": "is not a particularly democratically inclined party, to say the least.",
+      "zh": "至少可以说，如今的利库德并不是一个特别倾向民主的政党。"
+    },
+    {
+      "id": 139,
+      "startMs": 925500,
+      "endMs": 927020,
+      "en": "And he is pro-democracy.",
+      "zh": "而他支持民主。"
+    },
+    {
+      "id": 140,
+      "startMs": 927740,
+      "endMs": 934460,
+      "en": "Now, I would argue you don't have a democracy unless all your citizens have equal rights, and that brings in the Palestinian question.",
+      "zh": "我认为，除非所有公民都享有平等权利，否则就不能称为民主；这就涉及巴勒斯坦问题。"
+    },
+    {
+      "id": 141,
+      "startMs": 934940,
+      "endMs": 944940,
+      "en": "I don't believe my country was a true democracy until arguably the mid-60s, until Black voters were empowered by the Civil Rights Act.",
+      "zh": "我认为，我的国家直到大约20世纪60年代中期、黑人选民因《民权法案》获得那样的权利后，才算真正的民主。"
+    },
+    {
+      "id": 142,
+      "startMs": 944940,
+      "endMs": 954160,
+      "en": "So, again, a resolution to the Palestinian question is not in the center of the debate, to put it mildly.",
+      "zh": "所以再说一次，委婉地说，解决巴勒斯坦问题并不处于辩论的中心。"
+    },
+    {
+      "id": 143,
+      "startMs": 954720,
+      "endMs": 963120,
+      "en": "That is striking to hear, David, because it feels like the central question so many Americans think about when they think about Israel.",
+      "zh": "大卫，听你这么说很令人震惊，因为这确实是许多美国人想到以色列时认为的核心问题。"
+    },
+    {
+      "id": 144,
+      "startMs": 963360,
+      "endMs": 968400,
+      "en": "And I have seen a number of profiles of Eisenkot.",
+      "zh": "我看过不少关于艾森科特的人物专访。"
+    },
+    {
+      "id": 145,
+      "startMs": 968400,
+      "endMs": 974880,
+      "en": "He is being framed, by and large, I would say, in the Western press, as sort of the anti-Netanyahu.",
+      "zh": "总的来说，我认为西方媒体把他塑造成某种“反内塔尼亚胡”人物。"
+    },
+    {
+      "id": 146,
+      "startMs": 975640,
+      "endMs": 985000,
+      "en": "But you're describing a man who, it sounds like, at least on some substantive foreign policy issues, isn't necessarily all that different?",
+      "zh": "但听你的描述，至少在一些实质性的外交政策问题上，他似乎并没有那么不同？"
+    },
+    {
+      "id": 147,
+      "startMs": 985640,
+      "endMs": 988840,
+      "en": "Insofar as Eisenkot is the anti-Bibi, what does that mean?",
+      "zh": "既然艾森科特被称为“反比比”，这意味着什么？"
+    },
+    {
+      "id": 148,
+      "startMs": 989800,
+      "endMs": 991080,
+      "en": "It's a question of character.",
+      "zh": "这是性格的问题。"
+    },
+    {
+      "id": 149,
+      "startMs": 992360,
+      "endMs": 997560,
+      "en": "His behavior, he's not considered corrupt. Bibi, in many circles, is considered corrupt.",
+      "zh": "就行为而言，他不被认为腐败；而在许多圈子里，比比被认为是腐败的。"
+    },
+    {
+      "id": 150,
+      "startMs": 998360,
+      "endMs": 1003480,
+      "en": "He's not giving the world away to the religious. Bibi gives the world away to the ultra-Orthodox.",
+      "zh": "他不会把一切都让给宗教派；比比却把一切都让给极端正统派。"
+    },
+    {
+      "id": 151,
+      "startMs": 1004760,
+      "endMs": 1008280,
+      "en": "He will fight back against settler violence.",
+      "zh": "他会反击定居者的暴力。"
+    },
+    {
+      "id": 152,
+      "startMs": 1008360,
+      "endMs": 1013640,
+      "en": "Bibi does not dare to do that, and when he talks about it, he talks about it in preposterous euphemisms.",
+      "zh": "比比不敢这么做；他谈到这件事时，总是用荒谬的委婉说法。"
+    },
+    {
+      "id": 153,
+      "startMs": 1014280,
+      "endMs": 1023320,
+      "en": "He will fight for internal democracy, insofar as Bibi was trying to disempower the Supreme Court and the Attorney General.",
+      "zh": "他会捍卫内部民主，而比比一直试图削弱最高法院和总检察长的权力。"
+    },
+    {
+      "id": 154,
+      "startMs": 1025560,
+      "endMs": 1039020,
+      "en": "On the Palestinian question, I don't think you'll hear him campaign on anything specific, like a two-state solution or anything of the like.",
+      "zh": "至于巴勒斯坦问题，我不认为你会在这场竞选中听到他明确谈论两国方案之类的具体主张。"
+    },
+    {
+      "id": 155,
+      "startMs": 1039420,
+      "endMs": 1048800,
+      "en": "But you will hear language about moving forward, progress, you know—try to end violence, etc., etc.",
+      "zh": "但你会听到向前推进、取得进展之类的说法，比如努力结束暴力，等等。"
+    },
+    {
+      "id": 156,
+      "startMs": 1048960,
+      "endMs": 1055440,
+      "en": "At most, one could call this mealy-mouthed rhetoric.",
+      "zh": "最委婉地说，这可以算是含糊其辞的说法。"
+    },
+    {
+      "id": 157,
+      "startMs": 1056720,
+      "endMs": 1063120,
+      "en": "Mainly to avoid inflaming anybody, mainly to keep it out of the center of conversation.",
+      "zh": "主要是不想激怒任何人，也不想让它成为讨论的中心。"
+    },
+    {
+      "id": 158,
+      "startMs": 1064000,
+      "endMs": 1067600,
+      "en": "Netanyahu wants it to be at the very center of the conversation.",
+      "zh": "内塔尼亚胡却希望它成为讨论的核心。"
+    },
+    {
+      "id": 159,
+      "startMs": 1069980,
+      "endMs": 1076620,
+      "en": "Insofar as he wants to make sure everybody knows he would never compromise with the Palestinians at all, ever.",
+      "zh": "因为他想确保所有人都知道，他绝不会、永远不会向巴勒斯坦人妥协。"
+    },
+    {
+      "id": 160,
+      "startMs": 1076620,
+      "endMs": 1085420,
+      "en": "It sounds like there is some daylight between Eisenkot and Netanyahu. Perhaps not a chasm of political daylight between the two of them.",
+      "zh": "听起来，艾森科特和内塔尼亚胡之间存在一些分歧，但或许还没有达到政治分歧的鸿沟。"
+    },
+    {
+      "id": 161,
+      "startMs": 1085900,
+      "endMs": 1093260,
+      "en": "But let me present you, I hope you'll indulge us, with a counterfactual to help us understand where he stands on things.",
+      "zh": "但请允许我提出一个反事实问题，帮助我们理解他在这些问题上的立场。"
+    },
+    {
+      "id": 162,
+      "startMs": 1093740,
+      "endMs": 1101660,
+      "en": "If Eisenkot had been prime minister in the aftermath of October 7th, what's your sense of what might have gone differently?",
+      "zh": "如果10月7日之后由艾森科特担任总理，你认为哪些事情可能会有所不同？"
+    },
+    {
+      "id": 163,
+      "startMs": 1101660,
+      "endMs": 1105340,
+      "en": "What would have been different, and what would have been the same?",
+      "zh": "哪些会不同，哪些又会一样？"
+    },
+    {
+      "id": 164,
+      "startMs": 1105900,
+      "endMs": 1113120,
+      "en": "I don't know that today we'd be sitting here with Gaza as an absolute ruin.",
+      "zh": "我不知道，如果是这样，今天我们是否会看到加沙变成一片废墟。"
+    },
+    {
+      "id": 165,
+      "startMs": 1114100,
+      "endMs": 1122660,
+      "en": "with at the very minimum 70,000 people, including 20,000 children, dead.",
+      "zh": "至少已有7万人死亡，其中包括2万名儿童。"
+    },
+    {
+      "id": 166,
+      "startMs": 1123060,
+      "endMs": 1125220,
+      "en": "Would there have been a war? Yes.",
+      "zh": "还会不会发生战争？会。"
+    },
+    {
+      "id": 167,
+      "startMs": 1126180,
+      "endMs": 1127780,
+      "en": "How would it have been prosecuted?",
+      "zh": "战争会以怎样的方式进行？"
+    },
+    {
+      "id": 168,
+      "startMs": 1128660,
+      "endMs": 1133380,
+      "en": "Some of your listeners will quickly say, \"Yes, but this is the architect of the Dahiya doctrine,\"",
+      "zh": "有些听众马上会说：“是的，但他可是‘达希亚主义’的制定者。”"
+    },
+    {
+      "id": 169,
+      "startMs": 1133380,
+      "endMs": 1138420,
+      "en": "but I don't know what that would imply, and I would be a fool to predict it in any specificity.",
+      "zh": "但我不知道那意味着什么；如果具体预测，我就是自以为是了。"
+    },
+    {
+      "id": 170,
+      "startMs": 1139060,
+      "endMs": 1147120,
+      "en": "But I don't want to be naive; it's not as if October 7th would have been answered with a laurel branch.",
+      "zh": "但我不想天真地看待这件事；以色列不可能用橄榄枝来回应10月7日的袭击。"
+    },
+    {
+      "id": 171,
+      "startMs": 1147680,
+      "endMs": 1157440,
+      "en": "So, David, we saw the Israeli Prime Minister, Benjamin Netanyahu, rejecting a plan from Donald Trump's Board of Peace for the disarmament of Hamas.",
+      "zh": "大卫，我们看到以色列总理本雅明·内塔尼亚胡拒绝了唐纳德·特朗普“和平委员会”提出的解除哈马斯武装计划。"
+    },
+    {
+      "id": 172,
+      "startMs": 1157840,
+      "endMs": 1163360,
+      "en": "What would Eisenkot have done had he been in office, in your best estimation?",
+      "zh": "依你判断，如果当时在任的是艾森科特，他会怎么做？"
+    },
+    {
+      "id": 173,
+      "startMs": 1163360,
+      "endMs": 1165120,
+      "en": "I don't know. Bibi—",
+      "zh": "我不知道。至于比比——"
+    },
+    {
+      "id": 174,
+      "startMs": 1166160,
+      "endMs": 1171680,
+      "en": "His image in the United States, and I assume in the UK, could not be more miserable.",
+      "zh": "他在美国——我想在英国也是如此——的形象糟糕透顶。"
+    },
+    {
+      "id": 175,
+      "startMs": 1172740,
+      "endMs": 1180580,
+      "en": "But he's not running for president of the United States. He's running to remain as prime minister of Israel, which has gotten increasingly right-wing.",
+      "zh": "但他不是在竞选美国总统，而是在竞选连任以色列总理；以色列已经越来越右倾。"
+    },
+    {
+      "id": 176,
+      "startMs": 1181220,
+      "endMs": 1189820,
+      "en": "He needs to keep his base, which is the religious nationalists, the ultra-Orthodox, the traditional Likud,",
+      "zh": "他需要稳住自己的基本盘：宗教民族主义者、极端正统派和传统的利库德集团，"
+    },
+    {
+      "id": 177,
+      "startMs": 1190460,
+      "endMs": 1194140,
+      "en": "and that kind of soft right that I've talked about that's kind of up for grabs.",
+      "zh": "以及我提到过的、立场温和且尚待争取的右翼选民。"
+    },
+    {
+      "id": 178,
+      "startMs": 1195260,
+      "endMs": 1197980,
+      "en": "So in his view, he needs to say:",
+      "zh": "所以在他看来，他需要这样说："
+    },
+    {
+      "id": 179,
+      "startMs": 1200020,
+      "endMs": 1204660,
+      "en": "No Palestinian state, end to the security threat.",
+      "zh": "不要巴勒斯坦国，终结安全威胁。"
+    },
+    {
+      "id": 180,
+      "startMs": 1204980,
+      "endMs": 1212580,
+      "en": "Look what I've done by dealing with threats all over, although that argument has gotten much shakier, right?",
+      "zh": "看看我如何应对各处的威胁——不过这个说法已经变得站不住脚了，对吧？"
+    },
+    {
+      "id": 181,
+      "startMs": 1212660,
+      "endMs": 1217220,
+      "en": "A year ago, he might have argued, you could argue with him, but you know, okay, we bombed the nuclear reactor.",
+      "zh": "一年前，他或许还能这样争辩；你可以和他争论，但当时可以说，我们轰炸了核反应堆。"
+    },
+    {
+      "id": 182,
+      "startMs": 1217220,
+      "endMs": 1223380,
+      "en": "I've gotten the United States to bomb nuclear facilities in Iran.",
+      "zh": "我还促使美国轰炸了伊朗的核设施。"
+    },
+    {
+      "id": 183,
+      "startMs": 1223700,
+      "endMs": 1229220,
+      "en": "We had this incredible James Bond-like success with Hezbollah.",
+      "zh": "我们对真主党取得了令人难以置信、如詹姆斯·邦德电影般的成功。"
+    },
+    {
+      "id": 184,
+      "startMs": 1229620,
+      "endMs": 1234660,
+      "en": "Sinwar is no longer alive to lead Hamas in Gaza.",
+      "zh": "辛瓦尔已经死亡，无法再领导加沙的哈马斯。"
+    },
+    {
+      "id": 185,
+      "startMs": 1234660,
+      "endMs": 1239920,
+      "en": "Nasrallah is no longer alive in Beirut, and he might have called it a day there,",
+      "zh": "纳斯鲁拉也已死于贝鲁特；说到这里，他或许就可以宣告结束，"
+    },
+    {
+      "id": 186,
+      "startMs": 1240000,
+      "endMs": 1245280,
+      "en": "but now this war that was supposed to take three weeks, or whatever it was going to be, is now six months later.",
+      "zh": "但如今，这场原本预计持续三周左右的战争，已经拖到了六个月之后。"
+    },
+    {
+      "id": 187,
+      "startMs": 1246680,
+      "endMs": 1256360,
+      "en": "The Iranian leadership was, quote, I hate this phrase, \"taken out,\" but then replaced by an even more hardline Iranian leadership.",
+      "zh": "伊朗领导层——引用这个我讨厌的说法——被“清除”了，但随后又被更加强硬的伊朗领导层取代。"
+    },
+    {
+      "id": 188,
+      "startMs": 1257340,
+      "endMs": 1259900,
+      "en": "And it's in control of Hormuz and much else.",
+      "zh": "而且新的领导层控制着霍尔木兹海峡以及更多地区。"
+    },
+    {
+      "id": 189,
+      "startMs": 1261100,
+      "endMs": 1265400,
+      "en": "The Israelis see this failure.",
+      "zh": "以色列人看到了这一失败。"
+    },
+    {
+      "id": 190,
+      "startMs": 1266440,
+      "endMs": 1275800,
+      "en": "So Netanyahu has to create, or rebuild, this imagery of strength and security.",
+      "zh": "因此，内塔尼亚胡必须营造或重建强大与安全的形象。"
+    },
+    {
+      "id": 191,
+      "startMs": 1277180,
+      "endMs": 1281740,
+      "en": "In the face of the facts, he's in trouble.",
+      "zh": "但事实摆在眼前，他陷入了困境。"
+    },
+    {
+      "id": 192,
+      "startMs": 1281740,
+      "endMs": 1286940,
+      "en": "But I would emphasize to your listeners this: he is behind in the polls.",
+      "zh": "但我想特别告诉听众：他在民调中落后。"
+    },
+    {
+      "id": 193,
+      "startMs": 1287980,
+      "endMs": 1293260,
+      "en": "The opposition coalition is at about 60. He's at about 50, which is far from winning.",
+      "zh": "反对派联盟约有60席，他约有50席，距离胜选还很远。"
+    },
+    {
+      "id": 194,
+      "startMs": 1293580,
+      "endMs": 1302300,
+      "en": "But he is an incredibly crafty campaigner, and it's 80 days until the election, and that's a lifetime in Israeli politics.",
+      "zh": "但他是极其老练的竞选者，而距选举还有80天；在以色列政治中，这已经足以改变一切。"
+    },
+    {
+      "id": 195,
+      "startMs": 1303620,
+      "endMs": 1308340,
+      "en": "David, our show is about where the world and America meet,",
+      "zh": "大卫，我们的节目关注世界与美国交汇之处，"
+    },
+    {
+      "id": 196,
+      "startMs": 1309820,
+      "endMs": 1317180,
+      "en": "and I've heard you talk about both Netanyahu and Eisenkot in the context of a domestic Israeli political dynamic,",
+      "zh": "我听你一直从以色列国内政治的角度谈论内塔尼亚胡和艾森科特，"
+    },
+    {
+      "id": 197,
+      "startMs": 1317820,
+      "endMs": 1320540,
+      "en": "but it is, in my view, important to note that, you know,",
+      "zh": "但在我看来，有一点必须指出，"
+    },
+    {
+      "id": 198,
+      "startMs": 1320540,
+      "endMs": 1324060,
+      "en": "Israel's longstanding closest ally has been the United States,",
+      "zh": "美国长期以来一直是以色列最亲密的盟友，"
+    },
+    {
+      "id": 199,
+      "startMs": 1324140,
+      "endMs": 1331180,
+      "en": "and this election in Israel is happening at a moment when US politics on Israel have shifted dramatically.",
+      "zh": "而以色列的这场选举，正发生在美国对以色列的政治态度剧烈转变之际。"
+    },
+    {
+      "id": 200,
+      "startMs": 1331180,
+      "endMs": 1338780,
+      "en": "I mean, we see this if we look at a Pew Research poll from this spring that shows 60% of US adults now have an unfavorable view of Israel.",
+      "zh": "比如，今年春季皮尤研究中心的一项民调显示，如今60%的美国成年人对以色列持负面看法。"
+    },
+    {
+      "id": 201,
+      "startMs": 1338780,
+      "endMs": 1341500,
+      "en": "These are numbers we have not historically seen.",
+      "zh": "历史上我们从未见过这样的数字。"
+    },
+    {
+      "id": 202,
+      "startMs": 1341900,
+      "endMs": 1350300,
+      "en": "We saw also recently an unprecedented number of Democrats in Congress vote to block billions of dollars in military aid.",
+      "zh": "最近还有创纪录数量的国会民主党议员投票阻止数十亿美元的军事援助。"
+    },
+    {
+      "id": 203,
+      "startMs": 1350860,
+      "endMs": 1354460,
+      "en": "And this leads, I guess, to my fundamental question here:",
+      "zh": "这引出了我最根本的问题："
+    },
+    {
+      "id": 204,
+      "startMs": 1354700,
+      "endMs": 1362780,
+      "en": "Do you have a sense that Eisenkot has a plan for salvaging the US-Israel relationship?",
+      "zh": "你觉得艾森科特有拯救美以关系的计划吗？"
+    },
+    {
+      "id": 205,
+      "startMs": 1362780,
+      "endMs": 1370820,
+      "en": "Because it strikes me that in the United States, being not Netanyahu is not necessarily enough anymore in our political climate.",
+      "zh": "因为在我看来，在如今的美国政治环境中，仅仅不是内塔尼亚胡，或许已经不够了。"
+    },
+    {
+      "id": 206,
+      "startMs": 1370980,
+      "endMs": 1373860,
+      "en": "No, but I think he's right to think it will be a lot.",
+      "zh": "不，但我认为他觉得这会是一项艰巨任务，是有道理的。"
+    },
+    {
+      "id": 207,
+      "startMs": 1374500,
+      "endMs": 1384100,
+      "en": "The dynamics of how Americans feel about Israel, about spending money on Israeli defense and doing it reflexively,",
+      "zh": "美国人如何看待以色列、如何看待不加思索地花钱支持以色列国防，相关态势已经改变。"
+    },
+    {
+      "id": 208,
+      "startMs": 1385260,
+      "endMs": 1393420,
+      "en": "I think that is Netanyahu's most catastrophic loss that is recognized in Israel.",
+      "zh": "我认为，这是以色列国内公认的、内塔尼亚胡最灾难性的损失。"
+    },
+    {
+      "id": 209,
+      "startMs": 1393500,
+      "endMs": 1399580,
+      "en": "They're not going to have automatic American support anymore.",
+      "zh": "他们将不再拥有美国自动提供的支持。"
+    },
+    {
+      "id": 210,
+      "startMs": 1399580,
+      "endMs": 1410680,
+      "en": "It's no longer considered taboo to speak up against Israeli behavior or AIPAC.",
+      "zh": "公开批评以色列的行为或美国以色列公共事务委员会，已经不再被视为禁忌。"
+    },
+    {
+      "id": 211,
+      "startMs": 1411240,
+      "endMs": 1418520,
+      "en": "People routinely talk about war crimes, genocide, and all kinds of descriptions of what's transpired in the last three years,",
+      "zh": "人们经常谈论战争罪、种族灭绝，以及对过去三年所发生一切的各种描述，"
+    },
+    {
+      "id": 212,
+      "startMs": 1418680,
+      "endMs": 1426040,
+      "en": "and it is horrific, and it has transformed the US-Israeli relationship, not only in the Democratic Party.",
+      "zh": "这令人恐怖，也改变了美以关系，而且不只是在民主党内部。"
+    },
+    {
+      "id": 213,
+      "startMs": 1426760,
+      "endMs": 1431000,
+      "en": "But you're seeing it as a divisive issue in the Republican Party.",
+      "zh": "你也看到，这在共和党内部成了一个造成分裂的问题。"
+    },
+    {
+      "id": 214,
+      "startMs": 1431400,
+      "endMs": 1440200,
+      "en": "Now, look, has antisemitism grown in horrific ways in the US and in Britain and elsewhere? Absolutely.",
+      "zh": "那么，美国、英国和其他地方的反犹主义是否以可怕的方式增长了？当然。"
+    },
+    {
+      "id": 215,
+      "startMs": 1441180,
+      "endMs": 1453980,
+      "en": "But I think it's possible, and right-thinking people can recognize a difference between criticism and even condemnation of Israeli political and military behavior,",
+      "zh": "但我认为这是可能的，有常识的人能够认识到，批评甚至谴责以色列的政治和军事行为，"
+    },
+    {
+      "id": 216,
+      "startMs": 1454820,
+      "endMs": 1457060,
+      "en": "and thinking that that's automatically antisemitism.",
+      "zh": "与把这自动视为反犹主义，是有区别的。"
+    },
+    {
+      "id": 217,
+      "startMs": 1458020,
+      "endMs": 1466100,
+      "en": "The reason I guess I want to understand what Eisenkot's thinking on this is is that I did, you know, some reporting a few years ago.",
+      "zh": "我想了解艾森科特对此事想法的原因，是因为几年前我曾做过一些相关报道。"
+    },
+    {
+      "id": 218,
+      "startMs": 1466260,
+      "endMs": 1470340,
+      "en": "Pre-October 7th, I reported on the shifting dynamics in the relationship,",
+      "zh": "在10月7日之前，我曾报道过这段关系不断变化的态势；"
+    },
+    {
+      "id": 219,
+      "startMs": 1470580,
+      "endMs": 1479860,
+      "en": "and amongst many Democrats at the time, I heard that Netanyahu was, in their view, the catalyst—the reason for this deteriorating relationship.",
+      "zh": "当时我从许多民主党人士那里听到，在他们看来，内塔尼亚胡是这段关系恶化的催化剂，也是原因。"
+    },
+    {
+      "id": 220,
+      "startMs": 1480420,
+      "endMs": 1487540,
+      "en": "Now when I talk to folks, particularly on the left, on the Democratic side, I hear a more fundamental shift in the relationship.",
+      "zh": "如今我和一些人交谈，尤其是民主党内的左翼人士，我听到的是这段关系发生了更根本的转变。"
+    },
+    {
+      "id": 221,
+      "startMs": 1487540,
+      "endMs": 1491380,
+      "en": "As we said, people are saying that they want to wholeheartedly block military aid.",
+      "zh": "正如我们所说，有人表示他们希望彻底阻止军事援助。"
+    },
+    {
+      "id": 222,
+      "startMs": 1491860,
+      "endMs": 1497860,
+      "en": "It feels like there's a beginning of a reimagining of the entire relationship.",
+      "zh": "感觉这段关系正开始被重新构想。"
+    },
+    {
+      "id": 223,
+      "startMs": 1498420,
+      "endMs": 1502180,
+      "en": "How does Eisenkot plan to deal with that?",
+      "zh": "艾森科特打算如何应对？"
+    },
+    {
+      "id": 224,
+      "startMs": 1502260,
+      "endMs": 1506420,
+      "en": "Yes, they will need to confront that, but it is essential. They're not naive.",
+      "zh": "是的，他们必须面对这一点，但这至关重要。他们并不天真。"
+    },
+    {
+      "id": 225,
+      "startMs": 1506980,
+      "endMs": 1514320,
+      "en": "And I think only when they're lying to themselves do they ascribe every tendency about that shift to antisemitism.",
+      "zh": "我认为，只有在自欺时，他们才会把这种转变的一切倾向都归咎于反犹主义。"
+    },
+    {
+      "id": 226,
+      "startMs": 1515420,
+      "endMs": 1522620,
+      "en": "I've written about two foreign places my whole career. I'm now an elderly gentleman of 67.",
+      "zh": "我整个职业生涯只写过两个外国地方。如今我已经是67岁的老人了。"
+    },
+    {
+      "id": 227,
+      "startMs": 1522620,
+      "endMs": 1526700,
+      "en": "And when I would write about Russia, where I lived for four years,",
+      "zh": "我曾在俄罗斯生活四年；每当我写俄罗斯时，"
+    },
+    {
+      "id": 228,
+      "startMs": 1526860,
+      "endMs": 1533420,
+      "en": "the reaction to pieces in The New Yorker or The Washington Post, where I used to work, was generally, ‘That is so interesting,’",
+      "zh": "人们对我在《纽约客》或我曾任职的《华盛顿邮报》上发表的文章，通常会回应：“真有意思”，"
+    },
+    {
+      "id": 229,
+      "startMs": 1533740,
+      "endMs": 1543680,
+      "en": "or ‘I didn't know X,’ or ‘Let me tell you about what I think.’ It was, you know, sometimes hostile, but when I write about this, you can't win.",
+      "zh": "或者“我不知道这一点”，又或者“让我告诉你我的看法”。有时反应会带有敌意，但当我写这个问题时，你不可能讨好所有人。"
+    },
+    {
+      "id": 230,
+      "startMs": 1546000,
+      "endMs": 1552400,
+      "en": "So I've been called, you know, too soft or a self-hating Jew—every insult imaginable.",
+      "zh": "所以我被骂得太软弱，或是“自我憎恨的犹太人”——能想到的侮辱我都听过。"
+    },
+    {
+      "id": 231,
+      "startMs": 1553040,
+      "endMs": 1561680,
+      "en": "That is part and parcel of the emotional, historical quality of this,",
+      "zh": "这正是这个问题所具有的情感和历史属性的一部分，"
+    },
+    {
+      "id": 232,
+      "startMs": 1562000,
+      "endMs": 1568480,
+      "en": "and I've never seen it as bad, as volatile, as filled with",
+      "zh": "我从未见过如此糟糕、如此动荡、充满"
+    },
+    {
+      "id": 233,
+      "startMs": 1571060,
+      "endMs": 1579140,
+      "en": "legitimate concern and fury, but also at the same time, racial hatred.",
+      "zh": "正当的忧虑和愤怒，但与此同时，也充斥着种族仇恨。"
+    },
+    {
+      "id": 234,
+      "startMs": 1580260,
+      "endMs": 1586760,
+      "en": "And to think that everything will get better by magic, I think is naive.",
+      "zh": "认为一切会奇迹般好转，我觉得是天真的。"
+    },
+    {
+      "id": 235,
+      "startMs": 1586760,
+      "endMs": 1595060,
+      "en": "It's going to be affirmative imagination and political bravery all around.",
+      "zh": "这需要各方积极的想象力和政治勇气。"
+    },
+    {
+      "id": 236,
+      "startMs": 1598080,
+      "endMs": 1599440,
+      "en": "And that's not going to happen overnight.",
+      "zh": "而这不会一夜之间发生。"
+    },
+    {
+      "id": 237,
+      "startMs": 1606900,
+      "endMs": 1611060,
+      "en": "David Remnick, thank you so much. It's been a pleasure to talk this through with you.",
+      "zh": "大卫·雷姆尼克，非常感谢你。很高兴能和你深入谈论这些问题。"
+    },
+    {
+      "id": 238,
+      "startMs": 1611380,
+      "endMs": 1614180,
+      "en": "Thank you. I really appreciate the opportunity. Thank you so much.",
+      "zh": "谢谢。我非常感谢这次机会。非常感谢。"
+    },
+    {
+      "id": 239,
+      "startMs": 1620860,
+      "endMs": 1624060,
+      "en": "That was David Remnick, editor of The New Yorker magazine.",
+      "zh": "刚才的嘉宾是《纽约客》杂志编辑大卫·雷姆尼克。"
+    },
+    {
+      "id": 240,
+      "startMs": 1624300,
+      "endMs": 1630860,
+      "en": "And as always, if you're looking for a way to stay in touch, you can always reach us at our email address, theglobalstory@bbc.com.",
+      "zh": "一如既往，如果你想联系我们，可以通过邮箱theglobalstory@bbc.com找到我们。"
+    },
+    {
+      "id": 241,
+      "startMs": 1631340,
+      "endMs": 1636140,
+      "en": "Thank you to Maria for the nice message about our episode on the school strike in Iran.",
+      "zh": "感谢玛丽亚发来关于我们伊朗罢课节目集的友好留言。"
+    },
+    {
+      "id": 242,
+      "startMs": 1636460,
+      "endMs": 1642380,
+      "en": "And we also want to let you know that the BBC is closely following the moving story in the West Bank.",
+      "zh": "我们还想告诉你，BBC正在密切追踪约旦河西岸这段令人关注的故事。"
+    },
+    {
+      "id": 243,
+      "startMs": 1642780,
+      "endMs": 1650220,
+      "en": "If you want to catch up on the very latest news headlines from there, then you can always check out our sister show, The Global News Podcast.",
+      "zh": "如果你想了解那里的最新新闻头条，可以收听我们的姊妹节目《全球新闻播客》。"
+    },
+    {
+      "id": 244,
+      "startMs": 1650540,
+      "endMs": 1655180,
+      "en": "We here on The Global Story dive deep every weekday on one big story.",
+      "zh": "《全球故事》每个工作日都会深入探讨一个重大故事。"
+    },
+    {
+      "id": 245,
+      "startMs": 1655500,
+      "endMs": 1660300,
+      "en": "And we're also in fact working on an episode about the West Bank that we hope to bring to you soon.",
+      "zh": "我们其实也正在制作一期关于约旦河西岸的节目，希望很快带给你。"
+    },
+    {
+      "id": 246,
+      "startMs": 1660620,
+      "endMs": 1666140,
+      "en": "But that's it from us for this time for The Global Story. Today's show was produced by Zandra Ellen.",
+      "zh": "本期《全球故事》就到这里。今天的节目由赞德拉·埃伦制作。"
+    },
+    {
+      "id": 247,
+      "startMs": 1666380,
+      "endMs": 1669980,
+      "en": "It was edited by James Shield and mixed by Travis Evans.",
+      "zh": "詹姆斯·希尔德负责剪辑，特拉维斯·埃文斯负责混音。"
+    },
+    {
+      "id": 248,
+      "startMs": 1670300,
+      "endMs": 1672460,
+      "en": "Our digital producer is Tom Bage.",
+      "zh": "我们的数字制片人是汤姆·贝奇。"
+    },
+    {
+      "id": 249,
+      "startMs": 1672700,
+      "endMs": 1675100,
+      "en": "Our senior news editor is China Collins.",
+      "zh": "我们的高级新闻编辑是奇娜·柯林斯。"
+    },
+    {
+      "id": 250,
+      "startMs": 1675500,
+      "endMs": 1678220,
+      "en": "And I'm Tristan Redman. And I'm Asma Khalid.",
+      "zh": "我是特里斯坦·雷德曼。我是阿斯玛·哈立德。"
+    },
+    {
+      "id": 251,
+      "startMs": 1678540,
+      "endMs": 1683040,
+      "en": "Thanks as always for spending some time with us, and we'll talk to you again tomorrow. Cheerio.",
+      "zh": "一如既往，感谢你抽时间陪伴我们。我们明天再聊，再见。"
+    }
+  ]
+}
