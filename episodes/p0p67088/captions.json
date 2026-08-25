@@ -1,0 +1,1187 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "25 August 2026"
+  },
+  "durationMs": 937500,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4480,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《Global News Podcast》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6460,
+      "endMs": 12540,
+      "en": "Hi, I'm Ankur Desai, and at 14:00 GMT on Tuesday, 25 August, these are our main stories.",
+      "zh": "你好，我是 Ankur Desai。8月25日星期二格林尼治时间14点，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12540,
+      "endMs": 17900,
+      "en": "But China, the biggest buyer of Iranian oil, says it opposes what it calls illegal unilateral sanctions.",
+      "zh": "但伊朗石油最大买家中国表示，反对其所称的非法单边制裁。"
+    },
+    {
+      "id": 4,
+      "startMs": 18460,
+      "endMs": 27020,
+      "en": "A report says flooding in East Africa, caused by a supercharged El Niño, could result in the displacement of 3 million people.",
+      "zh": "一份报告称，强烈厄尔尼诺引发的东非洪灾，可能导致300万人流离失所。"
+    },
+    {
+      "id": 5,
+      "startMs": 27660,
+      "endMs": 34700,
+      "en": "And there's mounting concern over Haiti's ability to stage elections this year after another mass killing by armed gangs.",
+      "zh": "武装帮派再次发动大规模杀戮后，人们越来越担心海地能否在今年举行选举。"
+    },
+    {
+      "id": 6,
+      "startMs": 36980,
+      "endMs": 41780,
+      "en": "Also in this podcast: This is the visible effect of the man-made climate crisis.",
+      "zh": "本期播客还将关注：这就是人为气候危机带来的显著影响。"
+    },
+    {
+      "id": 7,
+      "startMs": 41940,
+      "endMs": 47060,
+      "en": "Normally we have 2 million litres of water each second, that's really a huge amount.",
+      "zh": "正常情况下，我们每秒有200万升水，那真的是非常巨大的水量。"
+    },
+    {
+      "id": 8,
+      "startMs": 47700,
+      "endMs": 50740,
+      "en": "But because of the drought, we have just about 600,000.",
+      "zh": "但由于干旱，现在每秒只有大约60万升。"
+    },
+    {
+      "id": 9,
+      "startMs": 50740,
+      "endMs": 60260,
+      "en": "Water levels in Europe's second-longest river, responsible for generating half of Austria's energy, are at their lowest levels for 30 years.",
+      "zh": "欧洲第二长河、负责供应奥地利一半能源的多瑙河，水位降至30年来最低。"
+    },
+    {
+      "id": 10,
+      "startMs": 60260,
+      "endMs": 73460,
+      "en": "A brutal attack on a Haitian farming community has again highlighted instability and raised concerns about safety and the possibility of December's democratic elections.",
+      "zh": "海地一个农业社区遭到残酷袭击，再次凸显当地局势不稳，也加剧了人们对安全以及定于12月举行的民主选举能否实现的担忧。"
+    },
+    {
+      "id": 11,
+      "startMs": 74100,
+      "endMs": 84100,
+      "en": "At least 47 people were killed in a gang raid on a hillside community near the capital, Port-au-Prince, which is mostly controlled by a coalition of armed gangs.",
+      "zh": "至少47人在一次帮派袭击中丧生，遇袭的是首都太子港附近的山坡社区；太子港大部分地区由武装帮派联盟控制。"
+    },
+    {
+      "id": 12,
+      "startMs": 84660,
+      "endMs": 87940,
+      "en": "Many of the dead had been sheltering in a church in Kenscoff.",
+      "zh": "许多死者当时正在肯斯科夫的一座教堂里避难。"
+    },
+    {
+      "id": 13,
+      "startMs": 89960,
+      "endMs": 98840,
+      "en": "I saw 45 to 50 dead people with my own eyes, not counting those they took away and those who are still missing.",
+      "zh": "我亲眼看到45到50具尸体，还不包括他们带走的，以及仍然失踪的人。"
+    },
+    {
+      "id": 14,
+      "startMs": 99400,
+      "endMs": 102520,
+      "en": "Those who died were young people who were the future of this country.",
+      "zh": "死者都是年轻人，他们本来是这个国家的未来。"
+    },
+    {
+      "id": 15,
+      "startMs": 103240,
+      "endMs": 111720,
+      "en": "We live in humiliation. The government have nothing for us. They do nothing, nothing for us.",
+      "zh": "我们活在屈辱之中。政府什么也没有给我们。他们什么也不做，什么也不为我们做。"
+    },
+    {
+      "id": 16,
+      "startMs": 112360,
+      "endMs": 117080,
+      "en": "The blood of the population does not stop flowing in Kenscoff. We can't take it anymore.",
+      "zh": "肯斯科夫民众的鲜血流淌不止。我们再也无法承受了。"
+    },
+    {
+      "id": 17,
+      "startMs": 117640,
+      "endMs": 120840,
+      "en": "I heard more from our World Affairs correspondent, Paul Moss.",
+      "zh": "我们的《World Affairs》记者保罗·莫斯带来了更多消息。"
+    },
+    {
+      "id": 18,
+      "startMs": 121400,
+      "endMs": 126680,
+      "en": "Kenscoff has suffered particularly simply because it's in what's considered a strategic position.",
+      "zh": "肯斯科夫之所以遭受特别严重的打击，原因很简单：它处于一个被认为具有战略意义的位置。"
+    },
+    {
+      "id": 19,
+      "startMs": 126680,
+      "endMs": 130120,
+      "en": "It looks down over Port-au-Prince, the capital.",
+      "zh": "它俯瞰首都太子港。"
+    },
+    {
+      "id": 20,
+      "startMs": 130440,
+      "endMs": 134040,
+      "en": "It also looks down on some of the roads that go in and out of the capital.",
+      "zh": "它还俯瞰着一些进出首都的道路。"
+    },
+    {
+      "id": 21,
+      "startMs": 134040,
+      "endMs": 138680,
+      "en": "So gangs feel that if they can control Kenscoff, they control a lot of what goes in and out.",
+      "zh": "因此，帮派认为，只要控制肯斯科夫，就能控制大量进出首都的人和物资。"
+    },
+    {
+      "id": 22,
+      "startMs": 139400,
+      "endMs": 142440,
+      "en": "But yes, sadly, what happened there is all too typical.",
+      "zh": "但很遗憾，那里的遭遇实在太典型了。"
+    },
+    {
+      "id": 23,
+      "startMs": 142440,
+      "endMs": 149560,
+      "en": "I mean, one thing that's typical, Kenscoff has a police station, and by the accounts of some residents, there were police who tried to intervene.",
+      "zh": "我的意思是，肯斯科夫有一处警察局，这一点就很典型；一些居民说，警察曾试图介入。"
+    },
+    {
+      "id": 24,
+      "startMs": 149880,
+      "endMs": 155400,
+      "en": "But in the end they proved completely ineffectual, and as we've been hearing, dozens of people were killed.",
+      "zh": "但最终事实证明他们完全无能为力；正如我们听到的，有几十人丧生。"
+    },
+    {
+      "id": 25,
+      "startMs": 155400,
+      "endMs": 161160,
+      "en": "But Haiti is a country where there are police, there is an army, and there's some semblance of government.",
+      "zh": "但海地是一个有警察、有军队，也有某种政府雏形的国家。"
+    },
+    {
+      "id": 26,
+      "startMs": 161400,
+      "endMs": 166780,
+      "en": "But they actually have almost no power, and the country is effectively run by gangs.",
+      "zh": "但实际上，他们几乎没有权力，这个国家事实上由帮派控制。"
+    },
+    {
+      "id": 27,
+      "startMs": 167260,
+      "endMs": 169900,
+      "en": "And what's awful is this is nothing new.",
+      "zh": "更糟糕的是，这并不是什么新鲜事。"
+    },
+    {
+      "id": 28,
+      "startMs": 169900,
+      "endMs": 177020,
+      "en": "I mean, the current wave of violence began when the last president was assassinated, Jovenel Moïse, in 2021.",
+      "zh": "我的意思是，当前这波暴力始于上一任总统若弗内尔·莫伊兹于2021年遇刺。"
+    },
+    {
+      "id": 29,
+      "startMs": 177100,
+      "endMs": 180220,
+      "en": "But Haiti has never really had a chance.",
+      "zh": "但有人会说，海地从来没有真正得到过机会。"
+    },
+    {
+      "id": 30,
+      "startMs": 180220,
+      "endMs": 185820,
+      "en": "Some would say this is a country that, when it got independence, France gave it a huge debt in compensation,",
+      "zh": "有人会说，海地独立时，法国以赔偿为名让这个国家背负了巨额债务，"
+    },
+    {
+      "id": 31,
+      "startMs": 185820,
+      "endMs": 189260,
+      "en": "which it took most of its independence years to pay off.",
+      "zh": "海地用了独立后的大部分岁月才还清。"
+    },
+    {
+      "id": 32,
+      "startMs": 189260,
+      "endMs": 194540,
+      "en": "Then it was ruled by one of the cruelest dictators I think the world has seen, a man called Papa Doc Duvalier.",
+      "zh": "之后，海地又被我认为世上最残酷的独裁者之一统治——此人名叫“爸爸博士”杜瓦利埃。"
+    },
+    {
+      "id": 33,
+      "startMs": 194860,
+      "endMs": 198540,
+      "en": "It's a country which suffers from earthquakes, has had a cholera outbreak.",
+      "zh": "这是一个饱受地震之苦、还曾爆发霍乱的国家。"
+    },
+    {
+      "id": 34,
+      "startMs": 198940,
+      "endMs": 202940,
+      "en": "There really is no central power, and the place is run by marauding gangs.",
+      "zh": "那里确实没有中央权力，整个地方由横行的帮派控制。"
+    },
+    {
+      "id": 35,
+      "startMs": 203020,
+      "endMs": 207660,
+      "en": "Now, Paul, a new UN gang suppression force is building up there, but previous UN attempts have failed.",
+      "zh": "保罗，一支新的联合国帮派镇压部队正在那里组建，但联合国此前的尝试都失败了。"
+    },
+    {
+      "id": 36,
+      "startMs": 207660,
+      "endMs": 211340,
+      "en": "Is there any hope the new one could make a difference when fully assembled?",
+      "zh": "这支新部队全部就位后，有希望带来改变吗？"
+    },
+    {
+      "id": 37,
+      "startMs": 211340,
+      "endMs": 215660,
+      "en": "The gang suppression force sounds optimistic, but as you suggest,",
+      "zh": "“帮派镇压部队”听起来颇为乐观，但正如你所说，"
+    },
+    {
+      "id": 38,
+      "startMs": 215660,
+      "endMs": 218460,
+      "en": "this is just the latest attempt to control things.",
+      "zh": "这不过是控制局势的最新一次尝试。"
+    },
+    {
+      "id": 39,
+      "startMs": 218620,
+      "endMs": 222780,
+      "en": "I mean, first of all, this gang suppression force, when it gets its full complement of police.",
+      "zh": "首先，这支帮派镇压部队在警察人员全部到位后，"
+    },
+    {
+      "id": 40,
+      "startMs": 223280,
+      "endMs": 225680,
+      "en": "And soldiers in, it's supposed to be in October.",
+      "zh": "还要有士兵加入，预计将在十月到位。"
+    },
+    {
+      "id": 41,
+      "startMs": 226080,
+      "endMs": 228400,
+      "en": "It'll be five and a half thousand people.",
+      "zh": "总人数将达到5500人。"
+    },
+    {
+      "id": 42,
+      "startMs": 228800,
+      "endMs": 234560,
+      "en": "Just to put that in perspective, we're speaking in London, a very calm city by international standards.",
+      "zh": "作为对比，我们现在谈的是伦敦——按国际标准来说，这是一座非常平静的城市。"
+    },
+    {
+      "id": 43,
+      "startMs": 234960,
+      "endMs": 238640,
+      "en": "There are 50,000 police and support staff to control this city.",
+      "zh": "伦敦有5万名警察和后勤人员负责维持这座城市的秩序。"
+    },
+    {
+      "id": 44,
+      "startMs": 239120,
+      "endMs": 242720,
+      "en": "They're talking about 5,000 to control the whole of Haiti,",
+      "zh": "而他们谈的是用5000人控制整个海地，"
+    },
+    {
+      "id": 45,
+      "startMs": 243120,
+      "endMs": 246160,
+      "en": "a country which is, as you've described, violent chaos.",
+      "zh": "这个国家正如你所描述的，陷于暴力混乱之中。"
+    },
+    {
+      "id": 46,
+      "startMs": 246160,
+      "endMs": 250960,
+      "en": "And there have been these sort of forces before. We had the multinational security force",
+      "zh": "此前也出现过类似部队。我们曾有过多国安全部队，"
+    },
+    {
+      "id": 47,
+      "startMs": 250960,
+      "endMs": 255440,
+      "en": "that was supposed to be built up by Kenya, that was supposed to control the violence.",
+      "zh": "原本应由肯尼亚组建，用来控制暴力局势。"
+    },
+    {
+      "id": 48,
+      "startMs": 255440,
+      "endMs": 259360,
+      "en": "In fact, they never reached the planned numbers or got the staff they needed.",
+      "zh": "事实上，他们从未达到计划人数，也从未拥有所需的人员。"
+    },
+    {
+      "id": 49,
+      "startMs": 259680,
+      "endMs": 265360,
+      "en": "Before that, there was a UN stabilization mission in Haiti from 2004, I think, until 2017.",
+      "zh": "在那之前，联合国还曾于2004年至——我想是2017年——在海地执行稳定任务。"
+    },
+    {
+      "id": 50,
+      "startMs": 265440,
+      "endMs": 268000,
+      "en": "The legacy of that is all around.",
+      "zh": "那项任务留下的影响随处可见。"
+    },
+    {
+      "id": 51,
+      "startMs": 268000,
+      "endMs": 273200,
+      "en": "So, I don't want to be pessimistic, but you can understand why people in Haiti are very skeptical",
+      "zh": "所以我不想悲观，但你可以理解海地人为何非常怀疑，"
+    },
+    {
+      "id": 52,
+      "startMs": 273200,
+      "endMs": 276240,
+      "en": "about whether this is going to achieve any more than previous ones.",
+      "zh": "这次行动是否会比以往的行动取得更多成果。"
+    },
+    {
+      "id": 53,
+      "startMs": 276720,
+      "endMs": 278560,
+      "en": "Our World Affairs correspondent, Paul Moss.",
+      "zh": "本台国际事务记者保罗·莫斯。"
+    },
+    {
+      "id": 54,
+      "startMs": 278560,
+      "endMs": 280560,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 55,
+      "startMs": 281600,
+      "endMs": 286560,
+      "en": "Recent weeks have brought warnings of extreme weather around the world this year due to a super El Niño,",
+      "zh": "最近几周的预警称，超级厄尔尼诺可能导致今年全球出现极端天气，"
+    },
+    {
+      "id": 56,
+      "startMs": 286560,
+      "endMs": 293440,
+      "en": "a climate pattern in the tropical Pacific caused by warm ocean temperatures.",
+      "zh": "这是一种由海洋温度升高导致的热带太平洋气候模式。"
+    },
+    {
+      "id": 57,
+      "startMs": 293840,
+      "endMs": 299360,
+      "en": "Now East Africa is predicted to be hit by extreme rainfall and flooding later this year,",
+      "zh": "目前预测东非今年晚些时候将遭遇极端降雨和洪灾，"
+    },
+    {
+      "id": 58,
+      "startMs": 299760,
+      "endMs": 302560,
+      "en": "which could leave up to 3 million people displaced.",
+      "zh": "可能导致多达300万人流离失所。"
+    },
+    {
+      "id": 59,
+      "startMs": 303040,
+      "endMs": 306320,
+      "en": "I got more on this from our Africa correspondent, Thomas Naadi.",
+      "zh": "我们的非洲记者托马斯·纳迪将带来更多信息。"
+    },
+    {
+      "id": 60,
+      "startMs": 306960,
+      "endMs": 311360,
+      "en": "The report is a warning from the Danish Refugee Council here in East Africa,",
+      "zh": "这份报告是东非的丹麦难民委员会发出的警告，"
+    },
+    {
+      "id": 61,
+      "startMs": 311760,
+      "endMs": 318960,
+      "en": "says that a number of countries, including Kenya, Somalia and Uganda, could be facing higher than usual rainfall.",
+      "zh": "报告称，包括肯尼亚、索马里和乌干达在内的一些国家，可能面临高于往常的降雨量。"
+    },
+    {
+      "id": 62,
+      "startMs": 318960,
+      "endMs": 327040,
+      "en": "And that falls in line with what global alerts have been, that we might be facing an El Niño that is the worst in human memory.",
+      "zh": "这与全球预警相符：我们可能正面临人类记忆中最严重的一次厄尔尼诺。"
+    },
+    {
+      "id": 63,
+      "startMs": 327440,
+      "endMs": 332240,
+      "en": "The last time this happened in Kenya at a massive scale was in 1998.",
+      "zh": "上一次肯尼亚大规模发生这种情况是在1998年。"
+    },
+    {
+      "id": 64,
+      "startMs": 332320,
+      "endMs": 341940,
+      "en": "When rain across ten months broke health systems and infrastructure, around 100,000 kilometres of road were destroyed, and up to 2,000 people died.",
+      "zh": "连续十个月的降雨导致医疗系统和基础设施瘫痪，约十万公里道路被毁，最多造成两千人死亡。"
+    },
+    {
+      "id": 65,
+      "startMs": 342420,
+      "endMs": 349380,
+      "en": "And the last time this happened in the region, in 2024, it was much less severe here in Kenya, but severe in Tanzania.",
+      "zh": "上一次该地区发生这种情况是在2024年；肯尼亚的灾情轻得多，但坦桑尼亚很严重。"
+    },
+    {
+      "id": 66,
+      "startMs": 349700,
+      "endMs": 353220,
+      "en": "Around 155 people died, and 45 people died here in Kenya.",
+      "zh": "约155人死亡，其中45人死在肯尼亚。"
+    },
+    {
+      "id": 67,
+      "startMs": 353860,
+      "endMs": 362420,
+      "en": "Usually, when higher-than-usual rainfall happens across the country, mostly in the central part, it causes a lot of disruption here in Nairobi.",
+      "zh": "通常，全国降雨高于正常水平时，主要在中部地区，会给这里的内罗毕带来许多混乱。"
+    },
+    {
+      "id": 68,
+      "startMs": 362420,
+      "endMs": 368900,
+      "en": "You often see roads flooding, and many times people drowning in their homes and in their cars in the most severe cases.",
+      "zh": "你经常会看到道路被淹；在最严重的情况下，人们还会在家中或车里溺亡。"
+    },
+    {
+      "id": 69,
+      "startMs": 369220,
+      "endMs": 373380,
+      "en": "You mentioned Somalia, Kenya, South Sudan and Uganda.",
+      "zh": "你提到了那里的一些国家：索马里、肯尼亚和南苏丹，也提到了乌干达。"
+    },
+    {
+      "id": 70,
+      "startMs": 373380,
+      "endMs": 382740,
+      "en": "How prepared are these countries for an event like this? Kenya's Disaster Authority says it is preparing for the worst-case scenario and",
+      "zh": "但这些国家为这样的事件做好了多少准备？肯尼亚灾害管理机构称，正为最坏情况做准备，而"
+    },
+    {
+      "id": 71,
+      "startMs": 382740,
+      "endMs": 384020,
+      "en": "the same is happening in DRC.",
+      "zh": "刚果民主共和国也在这样做。"
+    },
+    {
+      "id": 72,
+      "startMs": 384020,
+      "endMs": 391860,
+      "en": "DRC is known to be facing Ebola right now, but they might be facing this problem as well, because this sweeps across the entire region.",
+      "zh": "刚果民主共和国目前正面临埃博拉疫情，也可能面临这一问题，因为这场灾害会席卷整个地区。"
+    },
+    {
+      "id": 73,
+      "startMs": 391860,
+      "endMs": 398100,
+      "en": "The risk is most severe in Kenya and Somalia, where the governments and the Danish Refugee Council estimate",
+      "zh": "肯尼亚和索马里的风险最为严重。两国政府和丹麦难民委员会估计，"
+    },
+    {
+      "id": 74,
+      "startMs": 398120,
+      "endMs": 403880,
+      "en": "that, in a worst-case scenario, 60% to 70% of the 3 million people displaced would be in those two countries.",
+      "zh": "最坏情况下，在300万流离失所者中，约60%至70%会来自这两个国家。"
+    },
+    {
+      "id": 75,
+      "startMs": 405320,
+      "endMs": 412520,
+      "en": "But the Kenyan government says that it's preparing heavily. Historically, it's not known to prepare effectively for such disasters.",
+      "zh": "但肯尼亚政府称正全力准备。历史上，它并不以能有效应对这类灾害而闻名。"
+    },
+    {
+      "id": 76,
+      "startMs": 413000,
+      "endMs": 418120,
+      "en": "Nairobi has a horrible drainage system. Its county government is saying that it's trying to repair that.",
+      "zh": "内罗毕的排水系统糟糕透顶。该市郡政府称正努力修复。"
+    },
+    {
+      "id": 77,
+      "startMs": 418600,
+      "endMs": 426440,
+      "en": "The Kenyan government says it's trying to make people stock up, especially in the northeast, and buy what they need before this happens.",
+      "zh": "肯尼亚政府称正努力让民众，尤其是东北部地区的民众，在灾害发生前储备必需品。"
+    },
+    {
+      "id": 78,
+      "startMs": 426440,
+      "endMs": 433000,
+      "en": "But again, this is something that might happen, and if it does happen, it could mean that these economies suffer greatly.",
+      "zh": "但再说一次，这只是可能发生的事；如果发生，这些经济体可能遭受重创。"
+    },
+    {
+      "id": 79,
+      "startMs": 433000,
+      "endMs": 438520,
+      "en": "Because higher-than-usual rainfall means the crops in these farm fields may be disrupted.",
+      "zh": "因为高于正常水平的降雨意味着这些农田里的作物可能受损，"
+    },
+    {
+      "id": 80,
+      "startMs": 438600,
+      "endMs": 443640,
+      "en": "These fields are meant to feed the countries' bread baskets, but they might face disruption.",
+      "zh": "这些农田本应养活这些国家的粮仓地区，但可能遭遇破坏。"
+    },
+    {
+      "id": 81,
+      "startMs": 443640,
+      "endMs": 451560,
+      "en": "Destroyed crops mean households will have to spend more. And after that, then comes maybe a cycle of drought and famine.",
+      "zh": "作物被毁意味着家庭必须增加支出。之后，可能还会出现旱灾和饥荒的循环。"
+    },
+    {
+      "id": 82,
+      "startMs": 451640,
+      "endMs": 455000,
+      "en": "So Somalia is already facing its worst famine in years.",
+      "zh": "所以，索马里正面临多年来最严重的饥荒。"
+    },
+    {
+      "id": 83,
+      "startMs": 455000,
+      "endMs": 461500,
+      "en": "This could be devastating on the drier front when famine follows the rainfall.",
+      "zh": "降雨过后，饥荒可能在更干旱的一面造成灾难性后果。"
+    },
+    {
+      "id": 84,
+      "startMs": 461500,
+      "endMs": 465980,
+      "en": "More immediately, in October, when higher-than-usual rainfall happens, most governments say they are prepared.",
+      "zh": "更紧迫的是，面对十月的异常降雨，多数政府称已做好准备。"
+    },
+    {
+      "id": 85,
+      "startMs": 465980,
+      "endMs": 471100,
+      "en": "But previous times they've been tested, they've proven not to be as prepared as they should have been.",
+      "zh": "但过去接受考验时，它们都证明自己并没有应有的准备。"
+    },
+    {
+      "id": 86,
+      "startMs": 471500,
+      "endMs": 477260,
+      "en": "Thomas, climate change is already causing extreme weather events in Africa.",
+      "zh": "托马斯，气候变化已经在非洲造成极端天气。"
+    },
+    {
+      "id": 87,
+      "startMs": 477340,
+      "endMs": 483100,
+      "en": "I guess this could worsen the impact of situations that El Niño could bring.",
+      "zh": "我想，这可能加剧厄尔尼诺带来的影响。"
+    },
+    {
+      "id": 88,
+      "startMs": 483180,
+      "endMs": 494620,
+      "en": "The impact of El Niño could be far-reaching. As I say, most people in these regions are already in lower-middle-income countries.",
+      "zh": "厄尔尼诺的影响可能波及深远。正如我所说，这些地区大多数已经是中低收入国家。"
+    },
+    {
+      "id": 89,
+      "startMs": 494620,
+      "endMs": 497180,
+      "en": "Somalia, Kenya and Uganda.",
+      "zh": "索马里、肯尼亚和乌干达。"
+    },
+    {
+      "id": 90,
+      "startMs": 497340,
+      "endMs": 503900,
+      "en": "If this happens and affects food supply, it could mean more than usual money going to food.",
+      "zh": "如果灾害发生并影响粮食供应，人们可能要把更多钱花在食物上。"
+    },
+    {
+      "id": 91,
+      "startMs": 505020,
+      "endMs": 508940,
+      "en": "And places like Somalia, already facing famine, will have less and less food.",
+      "zh": "像索马里这样的饥荒国家，粮食会越来越少。"
+    },
+    {
+      "id": 92,
+      "startMs": 509340,
+      "endMs": 518540,
+      "en": "Here in Kenya, communities living in informal settlements across Nairobi and outside Nairobi are in particular danger.",
+      "zh": "在肯尼亚，生活在内罗毕及其外围非正规住区的社区尤其危险。"
+    },
+    {
+      "id": 93,
+      "startMs": 518160,
+      "endMs": 520640,
+      "en": "Especially around the Nairobi River.",
+      "zh": "尤其是在内罗毕河沿岸。"
+    },
+    {
+      "id": 94,
+      "startMs": 520640,
+      "endMs": 526000,
+      "en": "A lot of communities along the Mathare area could be facing higher-than-usual rainfall.",
+      "zh": "马萨雷地区沿岸许多社区可能面临高于正常水平的降雨。"
+    },
+    {
+      "id": 95,
+      "startMs": 526080,
+      "endMs": 532080,
+      "en": "The river breaks its banks, and the shacks these people live in could endanger them.",
+      "zh": "河水一旦决堤，这些人居住的简陋棚屋可能危及他们。"
+    },
+    {
+      "id": 96,
+      "startMs": 532400,
+      "endMs": 538480,
+      "en": "This is a problem, and the government says that it's moving these people out of these areas, but the impact could be severe if it happens.",
+      "zh": "这是个问题。政府称正把人们迁出这些地区，但如果灾害发生，影响可能很严重。"
+    },
+    {
+      "id": 97,
+      "startMs": 538960,
+      "endMs": 541200,
+      "en": "Our Africa correspondent, Thomas Naadi.",
+      "zh": "本台非洲记者托马斯·纳迪报道。"
+    },
+    {
+      "id": 98,
+      "startMs": 542320,
+      "endMs": 547440,
+      "en": "As we were hearing there, severe climate change continues to affect the world as we know it.",
+      "zh": "正如我们刚才听到的，严重的气候变化正持续影响我们所知的世界。"
+    },
+    {
+      "id": 99,
+      "startMs": 548080,
+      "endMs": 553680,
+      "en": "The Danube is Europe's second-longest river, vital to energy supplies across the continent.",
+      "zh": "多瑙河是欧洲第二长河，对整个欧洲大陆的能源供应至关重要。"
+    },
+    {
+      "id": 100,
+      "startMs": 553920,
+      "endMs": 559120,
+      "en": "Especially in Austria, where more than half the country's energy comes from hydropower.",
+      "zh": "尤其在奥地利，超过一半的能源来自水力发电。"
+    },
+    {
+      "id": 101,
+      "startMs": 559120,
+      "endMs": 563520,
+      "en": "But the river is now at its lowest levels for 30 years due to droughts.",
+      "zh": "但由于干旱，多瑙河水位目前处于30年来最低。"
+    },
+    {
+      "id": 102,
+      "startMs": 563920,
+      "endMs": 573600,
+      "en": "Some industry insiders warn that the river is drying up, calling the shift in available energy sources a crisis and warning that higher costs are on the way.",
+      "zh": "一些业内人士警告，多瑙河正在干涸；他们称可用能源转变是一场危机，并警告成本将会上升。"
+    },
+    {
+      "id": 103,
+      "startMs": 574240,
+      "endMs": 577280,
+      "en": "Business Daily reporter Hannah Mullane has been speaking to one of them.",
+      "zh": "《商业日报》记者汉娜·穆兰采访了其中一人。"
+    },
+    {
+      "id": 104,
+      "startMs": 578080,
+      "endMs": 583680,
+      "en": "Along the Upper Danube in Germany and Austria, the river is used to power hydroelectric plants.",
+      "zh": "在德国和奥地利的多瑙河上游，人们利用这条河为水电站发电。"
+    },
+    {
+      "id": 105,
+      "startMs": 584160,
+      "endMs": 591520,
+      "en": "This is where the river is at its fastest as it tumbles through the mountains, and there are 59 dams on just the first 1,000 kilometres of the river.",
+      "zh": "这里的河水穿过山脉奔流，速度最快；仅多瑙河最初一千公里就有59座大坝。"
+    },
+    {
+      "id": 106,
+      "startMs": 591920,
+      "endMs": 594800,
+      "en": "So when the river runs low, so does energy production.",
+      "zh": "所以河流水位低，能源产量也会下降。"
+    },
+    {
+      "id": 107,
+      "startMs": 596380,
+      "endMs": 604380,
+      "en": "I am here at the Greifenstein hydropower plant, and it provides electricity for 400,000 households each year.",
+      "zh": "我现在位于格赖芬施泰因水电站，它每年为40万户家庭供电。"
+    },
+    {
+      "id": 108,
+      "startMs": 604700,
+      "endMs": 607660,
+      "en": "The level of water is far below its usual level.",
+      "zh": "水位远低于通常水平。"
+    },
+    {
+      "id": 109,
+      "startMs": 607820,
+      "endMs": 612140,
+      "en": "Florian Seidl is the spokesperson for Verbund, Austria's largest energy supplier.",
+      "zh": "弗洛里安·赛德尔是奥地利最大能源供应商Verbund的发言人。"
+    },
+    {
+      "id": 110,
+      "startMs": 612460,
+      "endMs": 618860,
+      "en": "He's speaking to me from the roof of the Greifenstein plant, where the river levels are very low and the capacity of the plant has been cut.",
+      "zh": "他在格赖芬施泰因电站的屋顶接受我的采访，那里河流水位很低，电站产能也已削减。"
+    },
+    {
+      "id": 111,
+      "startMs": 620040,
+      "endMs": 624280,
+      "en": "Nobody, no man alive, no colleagues have ever seen such things.",
+      "zh": "没有人，没有一个活着的人，没有同事见过这样的情景。"
+    },
+    {
+      "id": 112,
+      "startMs": 624840,
+      "endMs": 627800,
+      "en": "This is the visible effect of the man-made climate crisis.",
+      "zh": "这是人为气候危机带来的显而易见的影响。"
+    },
+    {
+      "id": 113,
+      "startMs": 628440,
+      "endMs": 633660,
+      "en": "Normally, we have 2 million litres of water each second—that's really a huge amount.",
+      "zh": "通常每秒有200万升水流过，这真的是巨大的水量。"
+    },
+    {
+      "id": 114,
+      "startMs": 634220,
+      "endMs": 637340,
+      "en": "But because of the drought, we have just about 600,000.",
+      "zh": "但由于干旱，现在只有大约60万升。"
+    },
+    {
+      "id": 115,
+      "startMs": 637340,
+      "endMs": 643740,
+      "en": "If the hydro plants reduce capacity, then less energy is produced, and that has an economic impact.",
+      "zh": "如果水电站降低产能，发电量就会减少，从而产生经济影响。"
+    },
+    {
+      "id": 116,
+      "startMs": 644360,
+      "endMs": 650120,
+      "en": "Verbund reported a loss of earnings totaling €370 million in the first six months of the year.",
+      "zh": "Verbund报告称，今年前六个月的收益损失总额达3.7亿欧元。"
+    },
+    {
+      "id": 117,
+      "startMs": 650440,
+      "endMs": 654680,
+      "en": "That's more than $400 million, and a lot of that was because of the drought.",
+      "zh": "这超过4亿美元，其中很大一部分是干旱造成的。"
+    },
+    {
+      "id": 118,
+      "startMs": 655320,
+      "endMs": 656760,
+      "en": "We have to face two problems.",
+      "zh": "我们必须面对两个问题。"
+    },
+    {
+      "id": 119,
+      "startMs": 657480,
+      "endMs": 665720,
+      "en": "One is, of course, the lack of generation from our own hydropower, and the other was the decline of wholesale prices in Europe.",
+      "zh": "一个当然是我们自身水力发电量不足，另一个是欧洲批发电价下跌。"
+    },
+    {
+      "id": 120,
+      "startMs": 666280,
+      "endMs": 674120,
+      "en": "It's costing the business money. Overall, Austria has to import more energy to plug the gap until river levels improve—and that's expensive.",
+      "zh": "这让企业蒙受损失，总体而言，奥地利不得不进口更多能源来填补水位恢复前的缺口，而这代价高昂。"
+    },
+    {
+      "id": 121,
+      "startMs": 674680,
+      "endMs": 677000,
+      "en": "It may not have an impact on bills straight away,",
+      "zh": "这可能不会立即影响账单，"
+    },
+    {
+      "id": 122,
+      "startMs": 677240,
+      "endMs": 682200,
+      "en": "but if wholesale prices go up, then eventually it's likely to reach household bills at some point.",
+      "zh": "但如果批发价上涨，最终很可能会在某个时候传导到家庭账单。"
+    },
+    {
+      "id": 123,
+      "startMs": 682520,
+      "endMs": 684920,
+      "en": "So what's the answer? What does the future hold?",
+      "zh": "那么答案是什么？未来会怎样？"
+    },
+    {
+      "id": 124,
+      "startMs": 685560,
+      "endMs": 693640,
+      "en": "Austria relied always on hydropower, and we have never faced a crisis like this,",
+      "zh": "奥地利一直依赖水力发电，我们从未面临过这样的危机，"
+    },
+    {
+      "id": 125,
+      "startMs": 693800,
+      "endMs": 698440,
+      "en": "and so this will be the key for the future: to build up more wind power, more solar power, and of course more storage facilities.",
+      "zh": "所以未来的关键是发展更多风电、太阳能，当然还要建设更多储能设施。"
+    },
+    {
+      "id": 126,
+      "startMs": 699880,
+      "endMs": 704040,
+      "en": "People don't like windmills, but we need electricity.",
+      "zh": "人们不喜欢风车，但我们需要电力。"
+    },
+    {
+      "id": 127,
+      "startMs": 704220,
+      "endMs": 712700,
+      "en": "We need to get rid of fossil fuels because otherwise we won't manage the energy transition and the climate crisis.",
+      "zh": "我们需要摆脱化石燃料，否则就无法应对能源转型和气候危机。"
+    },
+    {
+      "id": 128,
+      "startMs": 713740,
+      "endMs": 717100,
+      "en": "The drought has certainly been a reminder of what needs to change.",
+      "zh": "这场干旱无疑提醒我们需要改变什么。"
+    },
+    {
+      "id": 129,
+      "startMs": 717180,
+      "endMs": 723900,
+      "en": "As we see more countries investing in wind and solar power, those renewable energies depend less on water.",
+      "zh": "随着越来越多国家投资风能和太阳能，这些可再生能源对水的依赖较少。"
+    },
+    {
+      "id": 130,
+      "startMs": 724740,
+      "endMs": 733460,
+      "en": "The impact on the energy sector may speed up this process as governments across Europe see the economic consequences of such extreme weather.",
+      "zh": "随着欧洲各国政府看到极端天气造成的现实经济后果，这种对能源行业的影响甚至可能加快转型进程。"
+    },
+    {
+      "id": 131,
+      "startMs": 734100,
+      "endMs": 735220,
+      "en": "Hannah Mullane reporting.",
+      "zh": "汉娜·穆兰报道。"
+    },
+    {
+      "id": 132,
+      "startMs": 735220,
+      "endMs": 744180,
+      "en": "The Australian Recording Industry Association says it's banning music primarily made by artificial intelligence from Australia's official charts.",
+      "zh": "澳大利亚唱片业协会表示，将禁止主要由人工智能制作的音乐进入澳大利亚官方排行榜。"
+    },
+    {
+      "id": 133,
+      "startMs": 744660,
+      "endMs": 749860,
+      "en": "The decision comes after a cover by Josh Fawaz of Madonna's Like a Prayer,",
+      "zh": "这一决定出台前，乔什·法瓦兹翻唱了麦当娜的《Like a Prayer》，"
+    },
+    {
+      "id": 134,
+      "startMs": 750180,
+      "endMs": 756660,
+      "en": "which soared towards the top of the charts last month, was revealed to have used AI-generated vocals and drums.",
+      "zh": "这首歌上月冲上排行榜前列，后来被发现使用了人工智能生成的人声和鼓声。"
+    },
+    {
+      "id": 135,
+      "startMs": 757060,
+      "endMs": 761300,
+      "en": "Our correspondent in Sydney, Simon Atkinson, told us more about the new rules.",
+      "zh": "本台驻悉尼记者西蒙·阿特金森介绍了新规的更多情况。"
+    },
+    {
+      "id": 136,
+      "startMs": 761860,
+      "endMs": 764100,
+      "en": "It's been very, very, very, very popular indeed.",
+      "zh": "这首歌确实非常、非常、非常、非常受欢迎。"
+    },
+    {
+      "id": 137,
+      "startMs": 764100,
+      "endMs": 770580,
+      "en": "I mean, it topped the dance singles chart here, peaked at number two in the overall chart, and it's been in the charts for over four months.",
+      "zh": "我的意思是，它登上了这里的舞曲单曲榜榜首，在综合榜最高排名第二，而且已上榜四个多月。"
+    },
+    {
+      "id": 138,
+      "startMs": 770820,
+      "endMs": 778580,
+      "en": "So it is hugely popular there. The producer is an Australian DJ, but it's probably the one song in this world of AI slop,",
+      "zh": "所以它在那里很受欢迎。制作人是一名澳大利亚 DJ，但在这个所谓“人工智能垃圾”的世界里，它或许是唯一一首"
+    },
+    {
+      "id": 139,
+      "startMs": 778820,
+      "endMs": 785460,
+      "en": "as people call it, that's really got people talking about how valid it should be that we have this kind of music in the charts.",
+      "zh": "真正引发人们讨论的，是这类音乐进入排行榜究竟是否合理。"
+    },
+    {
+      "id": 140,
+      "startMs": 785700,
+      "endMs": 792420,
+      "en": "It's a very fast-changing industry, and what this ban is seeking to do, it's not saying you can't use any AI in music.",
+      "zh": "这是一个变化非常快的行业，而这项禁令并不是说音乐中完全不能使用人工智能。"
+    },
+    {
+      "id": 141,
+      "startMs": 792420,
+      "endMs": 799560,
+      "en": "I mean, AI has been used in various forms for a long time. We think of autotune, perhaps that lyric in the Cher song Believe,",
+      "zh": "我的意思是，人工智能以各种形式被使用已经很久了。比如自动调音，也许还有雪儿歌曲《Believe》中的那句歌词，"
+    },
+    {
+      "id": 142,
+      "startMs": 799560,
+      "endMs": 803160,
+      "en": "perhaps the most famous example in recent years, is it?",
+      "zh": "这算是近年来最著名的例子，也许是吧？"
+    },
+    {
+      "id": 143,
+      "startMs": 803400,
+      "endMs": 808680,
+      "en": "But it's talking specifically about when it changes the nature of music, and what it's saying is",
+      "zh": "但它具体针对的是人工智能改变音乐本质的情况；它所说的是，"
+    },
+    {
+      "id": 144,
+      "startMs": 808680,
+      "endMs": 813880,
+      "en": "that all songs now must be substantially human-made to be eligible for the charts.",
+      "zh": "现在所有歌曲都必须主要由人类创作，才有资格进入排行榜。"
+    },
+    {
+      "id": 145,
+      "startMs": 813960,
+      "endMs": 817320,
+      "en": "It can still be used for drum machines and similar things,",
+      "zh": "人工智能仍可用于鼓机之类的用途，"
+    },
+    {
+      "id": 146,
+      "startMs": 817320,
+      "endMs": 825000,
+      "en": "but the vocals and the songs must be written by a human, the vocals must be human, and the lead instruments must be performed by humans.",
+      "zh": "但歌曲必须由人类创作，人声必须由人类演唱，主奏乐器也必须由人类演奏。"
+    },
+    {
+      "id": 147,
+      "startMs": 825320,
+      "endMs": 829240,
+      "en": "And if that's not the case, then they won't be eligible for the charts.",
+      "zh": "如果不是这样，就没有资格进入排行榜。"
+    },
+    {
+      "id": 148,
+      "startMs": 829240,
+      "endMs": 836760,
+      "en": "I think one of the interesting comments we've had already is from one of Australia's leading electronic dance groups, called Peking Duk.",
+      "zh": "我认为，我们已经听到的一条有趣评论来自澳大利亚领先的电子舞曲组合 Peking Duk。"
+    },
+    {
+      "id": 149,
+      "startMs": 837000,
+      "endMs": 845720,
+      "en": "They recently remixed one of their songs on social media, giving it an over-the-top AI version, and captioned it,",
+      "zh": "他们最近在社交媒体上重新混音了自己的一首歌，制作了一个夸张的人工智能版本，并配文："
+    },
+    {
+      "id": 150,
+      "startMs": 845720,
+      "endMs": 850200,
+      "en": "\"This is what happens when you re-record your own song with AI, so Australian radio will play it again.\"",
+      "zh": "“这就是用人工智能重新录制自己的歌曲会发生的事，所以澳大利亚电台会再次播放它。”"
+    },
+    {
+      "id": 151,
+      "startMs": 850600,
+      "endMs": 852840,
+      "en": "Because, you know, people have latched onto it.",
+      "zh": "因为，你知道，人们已经喜欢上它了。"
+    },
+    {
+      "id": 152,
+      "startMs": 853080,
+      "endMs": 862300,
+      "en": "But one of the band members, speaking to local media today, talked about AI-generated music removing the human experience from life.",
+      "zh": "但乐队成员之一今天接受当地媒体采访时说，人工智能生成的音乐正在从生活中移除人类体验。"
+    },
+    {
+      "id": 153,
+      "startMs": 862300,
+      "endMs": 865740,
+      "en": "And Australia is trying to lead the way on many of these issues.",
+      "zh": "而在澳大利亚，你知道，他们正试图在许多这类事务上走在前面。"
+    },
+    {
+      "id": 154,
+      "startMs": 865820,
+      "endMs": 870780,
+      "en": "Of course, it brought in a social media ban, which has been copied in many parts of the world.",
+      "zh": "当然，澳大利亚推出了社交媒体禁令，世界许多地方也仿效了这一做法。"
+    },
+    {
+      "id": 155,
+      "startMs": 871100,
+      "endMs": 877900,
+      "en": "Prime Minister Anthony Albanese promised a lot more protection from AI for Australian creatives.",
+      "zh": "总理安东尼·阿尔巴尼斯承诺，为澳大利亚创意工作者提供更多人工智能保护。"
+    },
+    {
+      "id": 156,
+      "startMs": 878140,
+      "endMs": 880940,
+      "en": "But you can see why musicians might be leaning in on it.",
+      "zh": "不过，你看，也就不难理解音乐人为什么可能会倾向于使用它。"
+    },
+    {
+      "id": 157,
+      "startMs": 880940,
+      "endMs": 883900,
+      "en": "And of course, there's nothing to stop them still doing that.",
+      "zh": "当然，没有什么能阻止他们继续这样做。"
+    },
+    {
+      "id": 158,
+      "startMs": 883900,
+      "endMs": 886860,
+      "en": "It just means they wouldn't be eligible for those charts.",
+      "zh": "这只是意味着，他们将没有资格进入这些排行榜。"
+    },
+    {
+      "id": 159,
+      "startMs": 886940,
+      "endMs": 890300,
+      "en": "Artists will have to declare when they've used AI.",
+      "zh": "顺便说一句，是否使用过人工智能，将由艺人负责申报。"
+    },
+    {
+      "id": 160,
+      "startMs": 890540,
+      "endMs": 897340,
+      "en": "So they submit it to be considered for the charts, and they're supposed to list what kind of artificial intelligence has gone into it.",
+      "zh": "他们提交作品参与排行榜评选时，应列明其中使用了哪种人工智能。"
+    },
+    {
+      "id": 161,
+      "startMs": 897500,
+      "endMs": 905500,
+      "en": "But the organisation running the charts says if it later finds AI was used without declaration, it would recalculate the charts.",
+      "zh": "但负责运营排行榜的机构表示，如果日后发现作品使用了人工智能却未申报，他们将重新计算排行榜。"
+    },
+    {
+      "id": 162,
+      "startMs": 905820,
+      "endMs": 911340,
+      "en": "And if it happened to get to number one, well, they might well ask for the little trophy that you get to be given back.",
+      "zh": "如果这首歌碰巧登上第一名，他们很可能会要求获奖者归还拿到的小奖杯。"
+    },
+    {
+      "id": 163,
+      "startMs": 911900,
+      "endMs": 914060,
+      "en": "Our Sydney correspondent, Simon Atkinson.",
+      "zh": "本台驻悉尼记者西蒙·阿特金森。"
+    },
+    {
+      "id": 164,
+      "startMs": 916380,
+      "endMs": 923100,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部报道。如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 165,
+      "startMs": 923100,
+      "endMs": 928540,
+      "en": "You can also watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "你也可以在 YouTube 上搜索 Global News Podcast，观看完整节目。"
+    },
+    {
+      "id": 166,
+      "startMs": 929020,
+      "endMs": 932780,
+      "en": "This edition was mixed by Chris Hansen, and the producer was Stephanie Tillotson.",
+      "zh": "本期由克里斯·汉森混音，制片人是斯蒂芬妮·蒂洛森。"
+    },
+    {
+      "id": 167,
+      "startMs": 932780,
+      "endMs": 935740,
+      "en": "The editor is Karen Martin, and I'm Ankur Desai.",
+      "zh": "编辑是凯伦·马丁，我是安库尔·德赛。"
+    },
+    {
+      "id": 168,
+      "startMs": 935980,
+      "endMs": 937500,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再会，再见。"
+    }
+  ]
+}

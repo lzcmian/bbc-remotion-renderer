@@ -1,0 +1,1712 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "25 August 2026"
+  },
+  "durationMs": 1370280,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4320,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《Global News Podcast》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6840,
+      "endMs": 12440,
+      "en": "I'm Pete Ross and in the early hours of Tuesday, the 25th of August, these are our main stories.",
+      "zh": "我是 Pete Ross。现在是 8 月 25 日星期二凌晨，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12440,
+      "endMs": 18040,
+      "en": "Authorities in the US state of Nevada say they're beginning to contain the huge wildfire on the outskirts of Reno.",
+      "zh": "美国内华达州官员说，他们开始控制里诺郊外的这场大规模野火。"
+    },
+    {
+      "id": 4,
+      "startMs": 22440,
+      "endMs": 27720,
+      "en": "Also in this podcast, I think that if I was in a disaster zone and didn't have anything else to eat, that I would eat it,",
+      "zh": "本期播客还将讨论：我想，如果身处灾区、没有别的东西可吃，我会吃它，"
+    },
+    {
+      "id": 5,
+      "startMs": 27720,
+      "endMs": 30760,
+      "en": "but I'm not sure I would pick it off the shelf over an Oreo.",
+      "zh": "但我不确定自己会不会放弃货架上的奥利奥而选择它。"
+    },
+    {
+      "id": 6,
+      "startMs": 31740,
+      "endMs": 33740,
+      "en": "Turning plastic into a cookie.",
+      "zh": "把塑料变成饼干。"
+    },
+    {
+      "id": 7,
+      "startMs": 33740,
+      "endMs": 40700,
+      "en": "Firefighters have managed to get part of a blaze that's threatening homes in the city of Reno in the US state of Nevada under control.",
+      "zh": "消防员已设法控制住部分威胁美国内华达州里诺市民宅的火势。"
+    },
+    {
+      "id": 8,
+      "startMs": 41260,
+      "endMs": 45500,
+      "en": "Crews said they'd carved out containment lines around a quarter of the wildfire.",
+      "zh": "消防人员说，他们已在这场野火约四分之一的范围周围开辟了隔离线。"
+    },
+    {
+      "id": 9,
+      "startMs": 46140,
+      "endMs": 52220,
+      "en": "Tens of thousands of people were evacuated when a blaze in the foothills of the Sierra Nevada spread to the outskirts of Reno.",
+      "zh": "塞拉内华山麓的火灾蔓延至里诺郊区，数万人被疏散。"
+    },
+    {
+      "id": 10,
+      "startMs": 52300,
+      "endMs": 55340,
+      "en": "Reno has a population of around a quarter of a million people.",
+      "zh": "里诺人口约25万。"
+    },
+    {
+      "id": 11,
+      "startMs": 55900,
+      "endMs": 58620,
+      "en": "Some of those who fled spoke of their experiences.",
+      "zh": "一些逃离的人讲述了他们的经历。"
+    },
+    {
+      "id": 12,
+      "startMs": 58860,
+      "endMs": 61340,
+      "en": "The fire was coming so close. We did see the flames.",
+      "zh": "火势逼得太近了，我们确实看到了火焰。"
+    },
+    {
+      "id": 13,
+      "startMs": 61340,
+      "endMs": 64780,
+      "en": "That's why we just booked it. We just, like, grabbed everything we could.",
+      "zh": "所以我们赶紧跑了。我们就把能拿的东西全都拿上了。"
+    },
+    {
+      "id": 14,
+      "startMs": 64860,
+      "endMs": 69260,
+      "en": "We all got an alert on our phone and all of the neighbours came out all at once.",
+      "zh": "我们所有人的手机都收到警报，邻居们也一下子全出来了。"
+    },
+    {
+      "id": 15,
+      "startMs": 69340,
+      "endMs": 72220,
+      "en": "And we were like, okay, well, we've got to get out of here.",
+      "zh": "我们当时想，好吧，我们得离开这里。"
+    },
+    {
+      "id": 16,
+      "startMs": 72620,
+      "endMs": 76460,
+      "en": "And it was just really smoky and chaotic.",
+      "zh": "现场烟雾弥漫，一片混乱。"
+    },
+    {
+      "id": 17,
+      "startMs": 76460,
+      "endMs": 80060,
+      "en": "Within 20 minutes, we got the alarm to go ahead and get out of there.",
+      "zh": "不到20分钟，我们就收到警报，要赶紧离开那里。"
+    },
+    {
+      "id": 18,
+      "startMs": 80540,
+      "endMs": 82700,
+      "en": "So we saw the fire come down the hill.",
+      "zh": "我们看到火从山坡上冲下来。"
+    },
+    {
+      "id": 19,
+      "startMs": 83180,
+      "endMs": 86940,
+      "en": "So I gathered up all the family and we took off.",
+      "zh": "于是我召集全家人，赶紧撤离。"
+    },
+    {
+      "id": 20,
+      "startMs": 87660,
+      "endMs": 93280,
+      "en": "Officials say the wildfire was human-caused, but how it started is still under investigation.",
+      "zh": "官员说，这场野火由人为因素引发，但起火原因仍在调查。"
+    },
+    {
+      "id": 21,
+      "startMs": 93840,
+      "endMs": 102320,
+      "en": "The so-called Hawk Fire was named because it was first reported near the Hawk Meadow Trail, just west of the city, and began on Saturday.",
+      "zh": "这场所谓的霍克大火因最初在该市以西的霍克梅多步道附近被报告而得名，火灾始于周六。"
+    },
+    {
+      "id": 22,
+      "startMs": 102880,
+      "endMs": 108240,
+      "en": "As fire crews started to get the blaze under control, evacuation orders in some areas were lifted.",
+      "zh": "消防人员开始控制火势后，部分地区解除了疏散令。"
+    },
+    {
+      "id": 23,
+      "startMs": 108400,
+      "endMs": 115920,
+      "en": "As our correspondent Shaimaa Khalil began by telling me, we've just heard from the sheriff's office about the Hawk Fire.",
+      "zh": "我们的记者沙伊玛·哈利勒先告诉我，刚刚我们听到了警长办公室关于霍克大火的消息。"
+    },
+    {
+      "id": 24,
+      "startMs": 115920,
+      "endMs": 125360,
+      "en": "They say that even though the fire remains just over 15,000 acres, containment has improved from zero to 27 percent.",
+      "zh": "警长办公室说，尽管火灾面积仍略超1.5万英亩，但控制率已从0%提高到27%。"
+    },
+    {
+      "id": 25,
+      "startMs": 125760,
+      "endMs": 133840,
+      "en": "We understand that more than 900 firefighters and other personnel are now assigned to this operation, including crews from 15 US states.",
+      "zh": "据我们了解，目前有900多名消防员及其他人员参与行动，包括来自美国15个州的队伍。"
+    },
+    {
+      "id": 26,
+      "startMs": 133840,
+      "endMs": 138880,
+      "en": "They also said this includes Australian and New Zealand crews.",
+      "zh": "他们还说，行动也有澳大利亚和新西兰的队伍参加。"
+    },
+    {
+      "id": 27,
+      "startMs": 139360,
+      "endMs": 145040,
+      "en": "As it stands, officials say roughly 40,000 people remain under get-set warnings.",
+      "zh": "目前，官员说仍有约4万人处于“准备撤离”警报之下。"
+    },
+    {
+      "id": 28,
+      "startMs": 145040,
+      "endMs": 150000,
+      "en": "These are get-set-to-go-if-needed warnings, meaning people need to be prepared to evacuate.",
+      "zh": "这意味着如有需要就要撤离，居民必须做好撤离准备。"
+    },
+    {
+      "id": 29,
+      "startMs": 150640,
+      "endMs": 160660,
+      "en": "But we also heard that some evacuation orders have been downgraded, so there are residents in the Somersett and La Brisa neighbourhoods.",
+      "zh": "但我们还听说，萨默塞特和拉布里萨社区部分居民的疏散令已降级。"
+    },
+    {
+      "id": 30,
+      "startMs": 160900,
+      "endMs": 165300,
+      "en": "These are mainly suburban residential neighbourhoods.",
+      "zh": "这些主要是郊区住宅社区。"
+    },
+    {
+      "id": 31,
+      "startMs": 165460,
+      "endMs": 173060,
+      "en": "They have been told that the evacuation has been downgraded. They've been told that they can return, but they must also be ready to leave again.",
+      "zh": "他们获告知疏散级别已降低，可以返回，但也必须准备好再次离开。"
+    },
+    {
+      "id": 32,
+      "startMs": 173380,
+      "endMs": 178180,
+      "en": "However, evacuation orders have remained in force elsewhere.",
+      "zh": "不过，其他地区的疏散令仍然有效。"
+    },
+    {
+      "id": 33,
+      "startMs": 178580,
+      "endMs": 186740,
+      "en": "I think the main message from the authorities is that the picture is improving, but a huge amount of work remains.",
+      "zh": "我认为，当局传达的主要信息是情况正在改善，但仍有大量工作要做。"
+    },
+    {
+      "id": 34,
+      "startMs": 187060,
+      "endMs": 190180,
+      "en": "About 73 percent of the perimeter remains uncontained.",
+      "zh": "约73%的火场周边仍未得到控制。"
+    },
+    {
+      "id": 35,
+      "startMs": 190580,
+      "endMs": 200180,
+      "en": "And families who were told to go back to their communities need to remain vigilant, because conditions can change and the wind can change.",
+      "zh": "被告知可以回到社区的家庭仍需保持警惕，因为天气和风向都可能改变。"
+    },
+    {
+      "id": 36,
+      "startMs": 200260,
+      "endMs": 209380,
+      "en": "It sounds like they're beginning to control part of this fire, but, as you say, a lot is still raging out there over those 15,000 acres.",
+      "zh": "听起来他们开始控制住部分火势，但正如你所说，那里仍有大火在1.5万英亩的范围内肆虐。"
+    },
+    {
+      "id": 37,
+      "startMs": 209380,
+      "endMs": 211780,
+      "en": "Are there fears that the fires could still spread then?",
+      "zh": "人们是否担心火势仍会蔓延？"
+    },
+    {
+      "id": 38,
+      "startMs": 211800,
+      "endMs": 217320,
+      "en": "I think the fear is that the weather conditions could actually turn against the firefighters.",
+      "zh": "我认为，令人担心的是天气状况可能反过来对消防员不利。"
+    },
+    {
+      "id": 39,
+      "startMs": 217320,
+      "endMs": 225160,
+      "en": "What they've been up against is really, really dry conditions, which means that this terrain is bone dry. It's like a tinderbox.",
+      "zh": "他们面对的是极其干燥的天气，意味着这片地形干得像骨头一样，简直像个火药桶。"
+    },
+    {
+      "id": 40,
+      "startMs": 225240,
+      "endMs": 235960,
+      "en": "And with gusts of wind, these embers can turn into fuel that can travel fast and unpredictably.",
+      "zh": "阵风一吹，这些余烬就会变成燃料，快速且不可预测地蔓延。"
+    },
+    {
+      "id": 41,
+      "startMs": 236120,
+      "endMs": 248280,
+      "en": "For the past couple of days, since the fire was reported on Saturday, they've been fighting it from the ground and the skies, with helicopters and fire retardants.",
+      "zh": "过去几天，自周六报告这场火灾以来，他们一直从地面和空中灭火，出动直升机并使用阻燃剂。"
+    },
+    {
+      "id": 42,
+      "startMs": 248840,
+      "endMs": 251640,
+      "en": "The problem is that the movement becomes really, really fast.",
+      "zh": "问题在于火势移动得非常快。"
+    },
+    {
+      "id": 43,
+      "startMs": 251640,
+      "endMs": 258760,
+      "en": "And so one of the fire wardens today was saying, \"Look, we only have so many resources, and it's almost like whack-a-mole.\"",
+      "zh": "一名消防主管今天说：“我们资源有限，这几乎就像打地鼠。”"
+    },
+    {
+      "id": 44,
+      "startMs": 258760,
+      "endMs": 266360,
+      "en": "Because you could be holding a line of fire in one area, and all of a sudden the fire literally jumps to another area.",
+      "zh": "因为你可能刚在一个区域守住火线，突然间火就真的跳到了另一个区域。"
+    },
+    {
+      "id": 45,
+      "startMs": 266360,
+      "endMs": 270120,
+      "en": "And I've seen this quite a lot in the fires that I've covered, for example, in Australia.",
+      "zh": "我报道过的火灾中，这种情况很常见，比如澳大利亚的火灾。"
+    },
+    {
+      "id": 46,
+      "startMs": 271820,
+      "endMs": 274300,
+      "en": "Are wildfires like this becoming more common there?",
+      "zh": "这类野火在那里是否越来越常见？"
+    },
+    {
+      "id": 47,
+      "startMs": 274300,
+      "endMs": 276380,
+      "en": "They are part of a bigger picture.",
+      "zh": "这是更大趋势的一部分。"
+    },
+    {
+      "id": 48,
+      "startMs": 276380,
+      "endMs": 280460,
+      "en": "The Hawk Fire is the third major fire in Reno in the last two weeks.",
+      "zh": "霍克大火是里诺过去两周发生的第三场重大火灾。"
+    },
+    {
+      "id": 49,
+      "startMs": 280460,
+      "endMs": 288140,
+      "en": "Nevada has recorded hundreds of fires this year, and millions of acres have burned across America's West Coast.",
+      "zh": "内华达州今年已记录数百场火灾，美国西海岸则有数百万英亩土地被烧毁。"
+    },
+    {
+      "id": 50,
+      "startMs": 288220,
+      "endMs": 292940,
+      "en": "And it's taken a long time. It's taken weeks for some to be contained. Shaimaa Khalil.",
+      "zh": "而且控制这些火灾花了很长时间，有些花了数周才得到控制。沙伊玛·哈利勒。"
+    },
+    {
+      "id": 51,
+      "startMs": 293860,
+      "endMs": 303700,
+      "en": "The deadly Ebola outbreak in eastern Congo has been made much harder to combat by public distrust of the health authorities and the long-running conflict in the region.",
+      "zh": "刚果东部致命的埃博拉疫情因公众不信任卫生部门以及该地区旷日持久的冲突而更难应对。"
+    },
+    {
+      "id": 52,
+      "startMs": 304340,
+      "endMs": 310020,
+      "en": "In the past few days, six workers involved in the Ebola response have been injured in three separate attacks.",
+      "zh": "过去几天，参与埃博拉应对工作的6名人员在3起袭击中受伤。"
+    },
+    {
+      "id": 53,
+      "startMs": 310900,
+      "endMs": 312580,
+      "en": "That's according to the Red Cross.",
+      "zh": "红十字会如此表示。"
+    },
+    {
+      "id": 54,
+      "startMs": 313140,
+      "endMs": 319940,
+      "en": "The outbreak is the fastest-growing on record, with an average of 90 confirmed cases a day since it began just over three months ago.",
+      "zh": "这是有记录以来增长最快的疫情，自三个多月前暴发以来，平均每天确认90例。"
+    },
+    {
+      "id": 55,
+      "startMs": 320420,
+      "endMs": 324420,
+      "en": "Oliver Conway heard more about the attacks from our reporter Richard Kagoe.",
+      "zh": "奥利弗·康威从我们的记者理查德·卡戈那里进一步了解了这些袭击。"
+    },
+    {
+      "id": 56,
+      "startMs": 325060,
+      "endMs": 333540,
+      "en": "There was a convoy helping with the response in Ituri Province, in the east of the country and at the centre of the outbreak.",
+      "zh": "一支参与应对工作的车队在该国东部伊图里省遭遇袭击，那里是疫情中心。"
+    },
+    {
+      "id": 57,
+      "startMs": 333540,
+      "endMs": 335220,
+      "en": "The convoy was ambushed.",
+      "zh": "车队遭到伏击。"
+    },
+    {
+      "id": 58,
+      "startMs": 335620,
+      "endMs": 339220,
+      "en": "One person was seriously injured and two ambulances were destroyed.",
+      "zh": "一人重伤，两辆救护车被毁。"
+    },
+    {
+      "id": 59,
+      "startMs": 339700,
+      "endMs": 349140,
+      "en": "Two volunteers were also injured while trying to conduct a burial in Haut-Uele Province, where Ebola has also been detected.",
+      "zh": "另有两名志愿者在上韦莱省执行安葬时受伤，那里也发现了埃博拉病例。"
+    },
+    {
+      "id": 60,
+      "startMs": 349460,
+      "endMs": 354200,
+      "en": "The vehicle was damaged and they were evacuated for medical care.",
+      "zh": "车辆受损，他们被撤离接受医疗救治。"
+    },
+    {
+      "id": 61,
+      "startMs": 354600,
+      "endMs": 359560,
+      "en": "Also, in North Kivu Province, three volunteers were attacked.",
+      "zh": "此外，在北基伍省，3名志愿者遭到袭击。"
+    },
+    {
+      "id": 62,
+      "startMs": 360040,
+      "endMs": 365400,
+      "en": "Their vehicles and the equipment they were using for the response were also destroyed.",
+      "zh": "他们的车辆以及应对行动所用设备也被毁。"
+    },
+    {
+      "id": 63,
+      "startMs": 365640,
+      "endMs": 372120,
+      "en": "So they have just given a summary of what has happened, especially in the past 101 days since the outbreak was declared.",
+      "zh": "所以，他们刚刚总结了疫情宣布以来、尤其是过去101天发生的情况。"
+    },
+    {
+      "id": 64,
+      "startMs": 372360,
+      "endMs": 377800,
+      "en": "They say that twelve volunteers have been injured, and this has involved eleven incidents.",
+      "zh": "他们说，有12名志愿者受伤，涉及11起事件。"
+    },
+    {
+      "id": 65,
+      "startMs": 377960,
+      "endMs": 383160,
+      "en": "Yeah, and are these incidents linked to people who are worried about what these health workers are doing,",
+      "zh": "那么，这些事件是否与一些人担心这些卫生工作者的所作所为有关，"
+    },
+    {
+      "id": 66,
+      "startMs": 383160,
+      "endMs": 388120,
+      "en": "or is it linked to the conflict that's dogged this region for many years?",
+      "zh": "还是与困扰该地区多年的冲突有关？"
+    },
+    {
+      "id": 67,
+      "startMs": 388820,
+      "endMs": 396980,
+      "en": "In this particular case, it's not related to armed conflict in the eastern DRC, much as we've had many groups operating for decades now.",
+      "zh": "就这起事件而言，它与刚果民主共和国东部的武装冲突无关，尽管那里多年来一直有许多团体活动。"
+    },
+    {
+      "id": 68,
+      "startMs": 397060,
+      "endMs": 406260,
+      "en": "This involved the local community, so you'd have situations like the one in Haut-Uele Province, where the burial was being conducted.",
+      "zh": "这起事件涉及当地社区；比如在上韦莱省，就发生过进行葬礼时遭袭的情况。"
+    },
+    {
+      "id": 69,
+      "startMs": 406580,
+      "endMs": 409860,
+      "en": "You have communities who are hostile towards health workers.",
+      "zh": "有些社区对卫生工作者抱有敌意。"
+    },
+    {
+      "id": 70,
+      "startMs": 409860,
+      "endMs": 417460,
+      "en": "There are disagreements when it comes to burials using the various health protocols regarding Ebola.",
+      "zh": "按照有关埃博拉的各种卫生规程进行葬礼时，双方会产生分歧。"
+    },
+    {
+      "id": 71,
+      "startMs": 417780,
+      "endMs": 425620,
+      "en": "So communities have been very sceptical about health workers whenever they're trying to make inroads,",
+      "zh": "因此，每当卫生工作者试图进入当地开展工作时，社区都对他们非常怀疑，"
+    },
+    {
+      "id": 72,
+      "startMs": 425620,
+      "endMs": 428980,
+      "en": "especially in the rural areas where people are still sceptical about the whole Ebola outbreak.",
+      "zh": "尤其是在农村地区，人们仍然不相信这场埃博拉疫情。"
+    },
+    {
+      "id": 73,
+      "startMs": 429140,
+      "endMs": 436660,
+      "en": "They don't believe that it exists, and some believe that health workers are the ones bringing the disease to their communities.",
+      "zh": "他们不相信疫情真实存在，有些人甚至认为卫生工作者把疾病带进了社区。"
+    },
+    {
+      "id": 74,
+      "startMs": 436660,
+      "endMs": 445540,
+      "en": "As a result, there's pushback and resistance, and some have even become violent when dealing with health workers.",
+      "zh": "因此，当地出现反弹和抵制，有些人在面对卫生工作者时甚至变得暴力。"
+    },
+    {
+      "id": 75,
+      "startMs": 445620,
+      "endMs": 455640,
+      "en": "And can anything be done to reduce the suspicion of the local population and get them to accept that they need help to fight this outbreak?",
+      "zh": "那么，有什么办法能减少当地民众的疑虑，让他们接受自己需要帮助来抗击疫情吗？"
+    },
+    {
+      "id": 76,
+      "startMs": 455800,
+      "endMs": 461320,
+      "en": "There have been several initiatives. They are engaging community leaders; they are very influential.",
+      "zh": "已经采取了几项措施。他们正在动员社区领袖，因为这些领袖很有影响力。"
+    },
+    {
+      "id": 77,
+      "startMs": 461560,
+      "endMs": 468120,
+      "en": "And what they're encouraging them is to be on the forefront to educate the communities about the outbreak itself.",
+      "zh": "他们鼓励社区领袖站在最前线，向社区居民讲解疫情本身。"
+    },
+    {
+      "id": 78,
+      "startMs": 468120,
+      "endMs": 477700,
+      "en": "The threat that it poses, and why it's important for them to collaborate with health workers to contain this particular outbreak. Richard Kagoe.",
+      "zh": "还要说明疫情带来的威胁，以及他们为何必须与卫生工作者合作，遏制这场疫情。理查德·卡戈报道。"
+    },
+    {
+      "id": 79,
+      "startMs": 477700,
+      "endMs": 484180,
+      "en": "But first, to Brazil, where more than 200 million people live and more and more of them are becoming gamblers.",
+      "zh": "先来看巴西。那里生活着超过2亿人，其中越来越多人正在成为赌徒。"
+    },
+    {
+      "id": 80,
+      "startMs": 484420,
+      "endMs": 487140,
+      "en": "Online betting has exploded in the country.",
+      "zh": "网络赌博在这个国家迅速扩张。"
+    },
+    {
+      "id": 81,
+      "startMs": 487700,
+      "endMs": 491940,
+      "en": "The self-help group Gamblers Anonymous says it's receiving thousands of calls each month.",
+      "zh": "自助组织 Gamblers Anonymous 表示，他们每月接到数千个求助电话。"
+    },
+    {
+      "id": 82,
+      "startMs": 492500,
+      "endMs": 498500,
+      "en": "Politicians are worried. In recent years, restrictions have been introduced, but the government says it wants to do more.",
+      "zh": "政界人士对此感到担忧。近年来政府已出台限制措施，但表示希望采取更多行动。"
+    },
+    {
+      "id": 83,
+      "startMs": 498980,
+      "endMs": 500900,
+      "en": "Bob Howard reports from São Paulo.",
+      "zh": "Bob Howard 从圣保罗发回报道。"
+    },
+    {
+      "id": 84,
+      "startMs": 502480,
+      "endMs": 514320,
+      "en": "My name is John. I'm a compulsive gambler, and when I discovered poker, I think I discovered the best thing of my life that will fix all my problems.",
+      "zh": "我叫 John，是个嗜赌成瘾的人。我发现扑克时，以为找到了人生中能解决所有问题的最好东西。"
+    },
+    {
+      "id": 85,
+      "startMs": 514880,
+      "endMs": 517840,
+      "en": "John works in IT and is in his early 40s.",
+      "zh": "John 从事 IT 工作，40岁出头。"
+    },
+    {
+      "id": 86,
+      "startMs": 517840,
+      "endMs": 523520,
+      "en": "He comes from Rio de Janeiro, but now lives in Brazil's biggest city, São Paulo.",
+      "zh": "他来自里约热内卢，如今住在巴西最大的城市圣保罗。"
+    },
+    {
+      "id": 87,
+      "startMs": 524320,
+      "endMs": 527920,
+      "en": "Like millions of other people in this country, he has a gambling habit.",
+      "zh": "和这个国家数百万人一样，他有赌博的习惯。"
+    },
+    {
+      "id": 88,
+      "startMs": 528160,
+      "endMs": 535520,
+      "en": "I used to travel a lot to the US, and in one weekend I entered there and spent $75,000.",
+      "zh": "我过去经常去美国，有个周末我进了赌场，就花掉了7万5千美元。"
+    },
+    {
+      "id": 89,
+      "startMs": 535760,
+      "endMs": 544400,
+      "en": "And I spent a lot of money on my wife. I destroyed her credit cards, so I was completely out of control.",
+      "zh": "我还在妻子身上花了很多钱。我毁掉了她的信用卡，完全失去了控制。"
+    },
+    {
+      "id": 90,
+      "startMs": 544960,
+      "endMs": 552640,
+      "en": "John's taking part in a Gamblers Anonymous meeting in a Sunday school classroom attached to a church in São Paulo's financial district.",
+      "zh": "John 正在圣保罗金融区一座教堂附属的主日学校教室里参加 Gamblers Anonymous 聚会。"
+    },
+    {
+      "id": 91,
+      "startMs": 553440,
+      "endMs": 557520,
+      "en": "He didn't want us to use his real name because he doesn't want to be recognised.",
+      "zh": "他不愿我们使用真名，因为不想被认出来。"
+    },
+    {
+      "id": 92,
+      "startMs": 558080,
+      "endMs": 561120,
+      "en": "There are about a dozen people attending so far, mostly men.",
+      "zh": "目前大约有十几人参加，主要是男性。"
+    },
+    {
+      "id": 93,
+      "startMs": 562000,
+      "endMs": 571040,
+      "en": "Hermano Tavares is a psychiatrist and also an associate professor at the University of São Paulo.",
+      "zh": "Hermano Tavares 是一名精神科医生，也是圣保罗大学的副教授。"
+    },
+    {
+      "id": 94,
+      "startMs": 571440,
+      "endMs": 579040,
+      "en": "He runs a clinic which helps around 300 patients a year who have been diagnosed as being clinically addicted to gambling.",
+      "zh": "他在一所诊所工作，每年帮助约300名被临床诊断为赌博成瘾的患者。"
+    },
+    {
+      "id": 95,
+      "startMs": 579360,
+      "endMs": 582640,
+      "en": "And we are talking about 2.1 million people needing treatment today.",
+      "zh": "而目前需要治疗的人数达到210万。"
+    },
+    {
+      "id": 96,
+      "startMs": 583120,
+      "endMs": 585840,
+      "en": "And those are just people with a clinical diagnosis.",
+      "zh": "而这还只是被临床诊断的人数。"
+    },
+    {
+      "id": 97,
+      "startMs": 586480,
+      "endMs": 588960,
+      "en": "If you look at the people with moderate or severe problems",
+      "zh": "如果看那些有中度或重度问题的人"
+    },
+    {
+      "id": 98,
+      "startMs": 589360,
+      "endMs": 593120,
+      "en": "those who have financial, emotional or relationship problems from gambling.",
+      "zh": "也就是因赌博产生财务、情感或关系问题的人。"
+    },
+    {
+      "id": 99,
+      "startMs": 593520,
+      "endMs": 597280,
+      "en": "The number of people impacted reaches seven and a half million.",
+      "zh": "受影响的人数达到750万。"
+    },
+    {
+      "id": 100,
+      "startMs": 597280,
+      "endMs": 602480,
+      "en": "Do you think there will be enough psychologists and psychiatrists in the world to treat that?",
+      "zh": "你觉得全世界有足够多的心理学家和精神科医生来治疗这些人吗？"
+    },
+    {
+      "id": 101,
+      "startMs": 602800,
+      "endMs": 606800,
+      "en": "I don't think so. Most of the people Professor Tavares treats are men.",
+      "zh": "我不这么认为。塔瓦雷斯教授接诊的人大多是男性。"
+    },
+    {
+      "id": 102,
+      "startMs": 607200,
+      "endMs": 610480,
+      "en": "There are increasing numbers of women suffering from addiction as well.",
+      "zh": "但患上成瘾的女性也越来越多。"
+    },
+    {
+      "id": 103,
+      "startMs": 610960,
+      "endMs": 615920,
+      "en": "Rosângela, a businesswoman in her early fifties, told me about her addiction issues.",
+      "zh": "五十岁出头的女商人罗桑热拉向我讲述了她的成瘾问题。"
+    },
+    {
+      "id": 104,
+      "startMs": 616000,
+      "endMs": 617680,
+      "en": "After the new year, I started losing.",
+      "zh": "新年过后，我开始输钱。"
+    },
+    {
+      "id": 105,
+      "startMs": 621840,
+      "endMs": 626500,
+      "en": "I took loans from three different banks and was still hiding from my family.",
+      "zh": "我从三家不同的银行贷款，还一直瞒着家人。"
+    },
+    {
+      "id": 106,
+      "startMs": 626900,
+      "endMs": 631140,
+      "en": "Sometimes they would say something, and I would laugh and reply, ‘Are you crazy?’",
+      "zh": "有时他们说起什么，我会笑着回答：“你疯了吗？”"
+    },
+    {
+      "id": 107,
+      "startMs": 631460,
+      "endMs": 635620,
+      "en": "I am not gambling. I couldn't work. My business was suffering.",
+      "zh": "我没有赌博。我无法工作，生意也受到了影响。"
+    },
+    {
+      "id": 108,
+      "startMs": 636020,
+      "endMs": 640820,
+      "en": "I didn't eat properly anymore. I didn't shower. I went so far",
+      "zh": "我不再正常吃饭，也不洗澡，甚至到了"
+    },
+    {
+      "id": 109,
+      "startMs": 640820,
+      "endMs": 643220,
+      "en": "as to say that I had a constipation problem",
+      "zh": "要谎称自己便秘的地步"
+    },
+    {
+      "id": 110,
+      "startMs": 643540,
+      "endMs": 646660,
+      "en": "to justify why I was spending so much time in the bathroom.",
+      "zh": "借此解释我为什么在卫生间待那么久。"
+    },
+    {
+      "id": 111,
+      "startMs": 647140,
+      "endMs": 648820,
+      "en": "In fact, I was gambling.",
+      "zh": "其实我是在赌博。"
+    },
+    {
+      "id": 112,
+      "startMs": 648820,
+      "endMs": 653300,
+      "en": "A new law means gamblers can register their ID cards with betting companies",
+      "zh": "新法律规定，赌徒可以向博彩公司登记身份证"
+    },
+    {
+      "id": 113,
+      "startMs": 653620,
+      "endMs": 656900,
+      "en": "to block themselves from sites if they are becoming addicted.",
+      "zh": "一旦开始上瘾，就能将自己屏蔽在这些网站之外。"
+    },
+    {
+      "id": 114,
+      "startMs": 657540,
+      "endMs": 661060,
+      "en": "Rosângela has asked to be blocked. She's made good progress",
+      "zh": "罗桑热拉申请了屏蔽。她进步很大"
+    },
+    {
+      "id": 115,
+      "startMs": 661460,
+      "endMs": 664260,
+      "en": "but she doesn't feel yet in control of her addiction.",
+      "zh": "但她觉得自己还没有控制住成瘾。"
+    },
+    {
+      "id": 116,
+      "startMs": 664820,
+      "endMs": 669700,
+      "en": "Bruna works with Professor Tavares and is a supervisor of the outpatient clinic.",
+      "zh": "布鲁娜与塔瓦雷斯教授共事，是这家门诊的主管。"
+    },
+    {
+      "id": 117,
+      "startMs": 670500,
+      "endMs": 676580,
+      "en": "She fears the number of women gamblers suffering addiction issues may soon equal the number of men.",
+      "zh": "她担心，患有赌博成瘾的女性很快会和男性一样多。"
+    },
+    {
+      "id": 118,
+      "startMs": 676820,
+      "endMs": 681380,
+      "en": "There has always been a demand for women to undergo treatment.",
+      "zh": "一直都有女性需要接受治疗。"
+    },
+    {
+      "id": 119,
+      "startMs": 682040,
+      "endMs": 689240,
+      "en": "But the profile was older women who played more bingo games. After the legalisation in 2018, we observed a change.",
+      "zh": "但过去患者多是爱玩宾果游戏的年长女性。2018年合法化后，情况变了。"
+    },
+    {
+      "id": 120,
+      "startMs": 689400,
+      "endMs": 692760,
+      "en": "So 10 years ago, 25% of our patients were women.",
+      "zh": "十年前，女性患者占我们患者总数的25%。"
+    },
+    {
+      "id": 121,
+      "startMs": 693320,
+      "endMs": 701400,
+      "en": "Now, it's around 40%. President Lula's government started regulating both sports betting and online casinos at the end of 2023.",
+      "zh": "现在约为40%。卢拉总统政府于2023年底开始监管体育博彩和网络赌场。"
+    },
+    {
+      "id": 122,
+      "startMs": 701400,
+      "endMs": 704440,
+      "en": "That's brought in large tax revenues.",
+      "zh": "这带来了可观的税收。"
+    },
+    {
+      "id": 123,
+      "startMs": 704760,
+      "endMs": 707800,
+      "en": "and somewhat reduced the number of people gambling illegally.",
+      "zh": "非法赌博的人数也有所减少。"
+    },
+    {
+      "id": 124,
+      "startMs": 708360,
+      "endMs": 712440,
+      "en": "It's restricted gambling ads, and it's trying to reduce the exposure of children",
+      "zh": "它限制赌博广告，并试图减少儿童接触"
+    },
+    {
+      "id": 125,
+      "startMs": 712520,
+      "endMs": 716680,
+      "en": "to advertising. But critics argue that more needs to be done.",
+      "zh": "广告的机会。但批评者认为还需要采取更多措施。"
+    },
+    {
+      "id": 126,
+      "startMs": 717000,
+      "endMs": 721800,
+      "en": "to try and halt the increasing addiction to betting of more and more Brazilians.",
+      "zh": "以遏制越来越多巴西人日益严重的博彩成瘾。"
+    },
+    {
+      "id": 127,
+      "startMs": 722980,
+      "endMs": 724180,
+      "en": "That report from Bob Howard.",
+      "zh": "以上报道来自鲍勃·霍华德。"
+    },
+    {
+      "id": 128,
+      "startMs": 725480,
+      "endMs": 729320,
+      "en": "In their heyday, they were rivals on the pitch, but now cricketing greats",
+      "zh": "在巅峰时期，他们是球场上的对手；如今，世界各地的板球名将"
+    },
+    {
+      "id": 129,
+      "startMs": 729320,
+      "endMs": 735800,
+      "en": "from across the world have come together to raise concerns about the treatment of Pakistan's ex-captain Imran Khan.",
+      "zh": "却联合起来，对巴基斯坦前队长伊姆兰·汗受到的待遇表示担忧。"
+    },
+    {
+      "id": 130,
+      "startMs": 736440,
+      "endMs": 740200,
+      "en": "who served as the country's prime minister after ending his sporting career.",
+      "zh": "他结束运动员生涯后曾担任该国总理。"
+    },
+    {
+      "id": 131,
+      "startMs": 740840,
+      "endMs": 746920,
+      "en": "The 73-year-old has been in jail since 2023 on charges of corruption, which he denies.",
+      "zh": "这名73岁老人自2023年起因腐败指控入狱，他否认这些指控。"
+    },
+    {
+      "id": 132,
+      "startMs": 747480,
+      "endMs": 751480,
+      "en": "His family and friends say they're worried about his health and prison conditions.",
+      "zh": "他的家人和朋友说，他们担心他的健康和监狱条件。"
+    },
+    {
+      "id": 133,
+      "startMs": 751960,
+      "endMs": 760840,
+      "en": "A letter signed by many former top players calls on Pakistan's current prime minister to ensure proper treatment and visiting rights for Mr Khan.",
+      "zh": "多名前顶尖球员联署一封信，呼吁巴基斯坦现任总理确保汗先生得到适当治疗并享有探视权。"
+    },
+    {
+      "id": 134,
+      "startMs": 761320,
+      "endMs": 765080,
+      "en": "Former England cricket captain David Gower is one of those who has signed.",
+      "zh": "前英格兰板球队长戴维·高尔也是签署者之一。"
+    },
+    {
+      "id": 135,
+      "startMs": 765560,
+      "endMs": 769480,
+      "en": "It's not for me, nor us as a group, to intervene in the judicial process",
+      "zh": "我个人或我们这个团体都不应介入司法程序"
+    },
+    {
+      "id": 136,
+      "startMs": 769640,
+      "endMs": 778200,
+      "en": "But you'd expect that in other circumstances, maybe elsewhere in the world, that things might move more quickly.",
+      "zh": "但在其他情况下，比如世界上别的地方，人们会期待事情进展得更快。"
+    },
+    {
+      "id": 137,
+      "startMs": 778280,
+      "endMs": 781800,
+      "en": "Do you think you yourself could help move things along then?",
+      "zh": "你觉得自己能推动事情进展吗？"
+    },
+    {
+      "id": 138,
+      "startMs": 781800,
+      "endMs": 786540,
+      "en": "Would you consider a trip to Pakistan with some of the co-signatories, perhaps?",
+      "zh": "你会考虑和一些联署者一起去巴基斯坦吗？"
+    },
+    {
+      "id": 139,
+      "startMs": 787260,
+      "endMs": 790140,
+      "en": "Well, last time I was there, I asked that same question.",
+      "zh": "我上次去那里时，也问过同样的问题。"
+    },
+    {
+      "id": 140,
+      "startMs": 790780,
+      "endMs": 793980,
+      "en": "So Imran Khan was in jail at that point, was he? Oh yes, very much so.",
+      "zh": "所以当时伊姆兰·汗在监狱里，对吗？是的，确实如此。"
+    },
+    {
+      "id": 141,
+      "startMs": 793980,
+      "endMs": 801020,
+      "en": "I mean, the last time I saw him, he was prime minister. I went to see him in the prime minister's house in Islamabad, and very impressive it was, too.",
+      "zh": "我最后一次见到他时，他还是总理。我去伊斯兰堡的总理官邸见他，那地方也非常气派。"
+    },
+    {
+      "id": 142,
+      "startMs": 801260,
+      "endMs": 809020,
+      "en": "The last time I was in Pakistan, a couple of years ago, I asked one of his lawyers, ‘Could one actually make contact?’",
+      "zh": "几年前我最后一次去巴基斯坦时，问他的一名律师：“能不能真的和他取得联系？”"
+    },
+    {
+      "id": 143,
+      "startMs": 809660,
+      "endMs": 813260,
+      "en": "And let's face it, his close family, so Jemima, ex-wife, the sons",
+      "zh": "说实话，他的近亲——前妻杰迈玛和几个儿子——"
+    },
+    {
+      "id": 144,
+      "startMs": 813660,
+      "endMs": 818220,
+      "en": "you know, they found it very hard to speak to their ex-husband and father respectively.",
+      "zh": "都很难分别与自己的前夫和父亲交谈。"
+    },
+    {
+      "id": 145,
+      "startMs": 818300,
+      "endMs": 823180,
+      "en": "For me, coming in just as a former cricketer, there's zero chance I would get anywhere near him.",
+      "zh": "对我这个前板球运动员来说，根本不可能接近他。"
+    },
+    {
+      "id": 146,
+      "startMs": 823260,
+      "endMs": 826940,
+      "en": "That's what I found out very, very quickly. What would you say to the assertion",
+      "zh": "这是我很快就发现的。对于这一说法你怎么看"
+    },
+    {
+      "id": 147,
+      "startMs": 826940,
+      "endMs": 833980,
+      "en": "from the government and government doctors that, first of all, Imran Khan is receiving the best possible medical care",
+      "zh": "政府和政府医生说，首先，伊姆兰·汗正接受最好的医疗照护"
+    },
+    {
+      "id": 148,
+      "startMs": 834380,
+      "endMs": 835980,
+      "en": "and that he is in good health.",
+      "zh": "而且身体状况良好。"
+    },
+    {
+      "id": 149,
+      "startMs": 836540,
+      "endMs": 839500,
+      "en": "One would treat that statement with a little bit of suspicion.",
+      "zh": "人们对这种说法难免有些怀疑。"
+    },
+    {
+      "id": 150,
+      "startMs": 839580,
+      "endMs": 841980,
+      "en": "The news, as I see it in front of me, is that",
+      "zh": "就我眼前看到的消息而言"
+    },
+    {
+      "id": 151,
+      "startMs": 842700,
+      "endMs": 852400,
+      "en": "the Supreme Court, no less, agreed he should be assessed by a board of physicians. As an impartial observer, that's what I try to be here,",
+      "zh": "最高法院已同意由医生委员会对他进行评估。作为公正的旁观者，我在这里也努力做到这一点。"
+    },
+    {
+      "id": 152,
+      "startMs": 852800,
+      "endMs": 860880,
+      "en": "if a Supreme Court says he should be allowed to be assessed by a certain board of independent doctors,",
+      "zh": "既然最高法院认为应由特定的独立医生委员会评估他"
+    },
+    {
+      "id": 153,
+      "startMs": 860960,
+      "endMs": 866960,
+      "en": "albeit one of those would have been his own sister, and his own physicians, maybe just for them to be reassured as to his condition.",
+      "zh": "其中包括他的姐姐和私人医生，也许只是让他们确认他的状况。"
+    },
+    {
+      "id": 154,
+      "startMs": 867040,
+      "endMs": 873840,
+      "en": "When he's only allowed to see a board of state-appointed physicians",
+      "zh": "但他只能接受国家任命的医生委员会诊治"
+    },
+    {
+      "id": 155,
+      "startMs": 874480,
+      "endMs": 876400,
+      "en": "surely that's not really enough.",
+      "zh": "这显然远远不够。"
+    },
+    {
+      "id": 156,
+      "startMs": 876800,
+      "endMs": 881680,
+      "en": "You're amongst a group of international well-known cricketers who've signed this letter",
+      "zh": "你和一群国际知名板球运动员联署了这封信"
+    },
+    {
+      "id": 157,
+      "startMs": 881760,
+      "endMs": 890560,
+      "en": "but what's quite telling, isn't it, that there are only two other Pakistani cricketers who've actually been speaking out about Imran Khan?",
+      "zh": "但耐人寻味的是，实际上只有另外两名巴基斯坦板球运动员公开谈论伊姆兰·汗，对吗？"
+    },
+    {
+      "id": 158,
+      "startMs": 890640,
+      "endMs": 901520,
+      "en": "Why do you think that's the case? It may be simple: if you live in Pakistan under the current government, you probably want to keep your head down.",
+      "zh": "你认为这是为什么？原因可能很简单：生活在现政府治下的巴基斯坦，或许会选择低调行事。"
+    },
+    {
+      "id": 159,
+      "startMs": 901760,
+      "endMs": 908500,
+      "en": "What's interesting to me is that the list includes obviously generated by Greg Chappell, an Australian.",
+      "zh": "有意思的是，这份名单显然由澳大利亚人格雷格·查佩尔发起。"
+    },
+    {
+      "id": 160,
+      "startMs": 909060,
+      "endMs": 913860,
+      "en": "We've got some of the English captains from my time, starting with Mike Brearley",
+      "zh": "名单中有我那个时代的一些英格兰队长，首先是迈克·布里尔利"
+    },
+    {
+      "id": 161,
+      "startMs": 913860,
+      "endMs": 918420,
+      "en": "Mike Gatting. You've got Australians, you've got Indians, Sunil Gavaskar",
+      "zh": "还有迈克·加廷；还有澳大利亚人、印度人，以及苏尼尔·加瓦斯卡"
+    },
+    {
+      "id": 162,
+      "startMs": 918420,
+      "endMs": 920260,
+      "en": "who is an immensely well-respected figure.",
+      "zh": "他是一位备受尊敬的人物。"
+    },
+    {
+      "id": 163,
+      "startMs": 920420,
+      "endMs": 925460,
+      "en": "So, you've got a consensus across the world, and I think that's more telling than the absence",
+      "zh": "所以，这代表了全球共识；我认为这比没有人发声更说明问题"
+    },
+    {
+      "id": 164,
+      "startMs": 925540,
+      "endMs": 929060,
+      "en": "of anyone who might feel it's more sensible to keep their heads down.",
+      "zh": "因为有些人可能觉得保持低调更明智。"
+    },
+    {
+      "id": 165,
+      "startMs": 929780,
+      "endMs": 932820,
+      "en": "David Gower speaking to the BBC's Rajini Vaidyanathan.",
+      "zh": "戴维·高尔接受了BBC记者拉吉妮·瓦伊迪亚纳坦的采访。"
+    },
+    {
+      "id": 166,
+      "startMs": 934460,
+      "endMs": 938460,
+      "en": "Grand Theft Auto is one of the biggest video game franchises of all time.",
+      "zh": "《侠盗猎车手》是有史以来最大的电子游戏系列之一。"
+    },
+    {
+      "id": 167,
+      "startMs": 938540,
+      "endMs": 943820,
+      "en": "The last in the series sold over 200 million copies since it was released in 2013.",
+      "zh": "该系列上一部作品自2013年发行以来已售出超过2亿份。"
+    },
+    {
+      "id": 168,
+      "startMs": 943820,
+      "endMs": 952460,
+      "en": "If you've ever played it, you'll know most of the fun lies in cheating, stealing and manipulating your way to the top of the criminal underworld.",
+      "zh": "如果你玩过这款游戏，就会知道其中大部分乐趣在于作弊、偷窃，并一路操纵着爬到犯罪世界的顶端。"
+    },
+    {
+      "id": 169,
+      "startMs": 953180,
+      "endMs": 958620,
+      "en": "There's an irony then, perhaps, that the game's developers here in Britain are struggling to track down a hacker",
+      "zh": "或许讽刺的是，这款游戏在英国的开发者正努力追查一名黑客，"
+    },
+    {
+      "id": 170,
+      "startMs": 959020,
+      "endMs": 964620,
+      "en": "who's seemingly got hold of their upcoming GTA 6 and is leaking footage online.",
+      "zh": "此人似乎拿到了即将推出的《GTA 6》，并在网上泄露画面。"
+    },
+    {
+      "id": 171,
+      "startMs": 964860,
+      "endMs": 970140,
+      "en": "I asked our reporter Will Chalk to put into context just how big a deal this game is.",
+      "zh": "我请本台记者威尔·乔克介绍一下这款游戏究竟有多重要。"
+    },
+    {
+      "id": 172,
+      "startMs": 970780,
+      "endMs": 973340,
+      "en": "Well, the short answer, Pete, is absolutely massive.",
+      "zh": "皮特，简短的答案是：它规模大得惊人。"
+    },
+    {
+      "id": 173,
+      "startMs": 973340,
+      "endMs": 978140,
+      "en": "I mean, I think the global gaming industry is worth hundreds of billions of dollars.",
+      "zh": "我的意思是，我认为全球游戏产业价值数千亿美元。"
+    },
+    {
+      "id": 174,
+      "startMs": 978140,
+      "endMs": 982140,
+      "en": "It's actually worth more than the music and movie industries combined.",
+      "zh": "它的价值实际上超过音乐和电影产业的总和。"
+    },
+    {
+      "id": 175,
+      "startMs": 982220,
+      "endMs": 985180,
+      "en": "And GTA 6 is right at the pinnacle right now.",
+      "zh": "而《GTA 6》如今正处于顶峰。"
+    },
+    {
+      "id": 176,
+      "startMs": 985180,
+      "endMs": 988940,
+      "en": "You know, it's probably the most anticipated video game of all time.",
+      "zh": "要知道，它可能是有史以来最受期待的电子游戏。"
+    },
+    {
+      "id": 177,
+      "startMs": 988940,
+      "endMs": 992620,
+      "en": "It's cost somewhere around $1.5 to $2 billion to make.",
+      "zh": "它的制作成本约为15亿至20亿美元。"
+    },
+    {
+      "id": 178,
+      "startMs": 993180,
+      "endMs": 999040,
+      "en": "And its predecessor, GTA 5, as you said, was the fastest-selling entertainment product in history.",
+      "zh": "正如你所说，它的前作《GTA 5》是历史上销售最快的娱乐产品。"
+    },
+    {
+      "id": 179,
+      "startMs": 999600,
+      "endMs": 1005520,
+      "en": "Now, given that this game has taken around a decade to develop so far, its release date has been delayed twice.",
+      "zh": "鉴于这款游戏迄今已开发约十年，其发布日期已经两度推迟。"
+    },
+    {
+      "id": 180,
+      "startMs": 1005840,
+      "endMs": 1011840,
+      "en": "And so far, all fans have seen of it is this: I'm here for Lucia Caminos. She's supposed to be getting out.",
+      "zh": "到目前为止，粉丝看到的全部内容就是这个：我来找露西亚·卡米诺斯。她应该要出来了。"
+    },
+    {
+      "id": 181,
+      "startMs": 1013020,
+      "endMs": 1015100,
+      "en": "What's your name? Jason Duval.",
+      "zh": "你叫什么名字？杰森·杜瓦尔。"
+    },
+    {
+      "id": 182,
+      "startMs": 1016060,
+      "endMs": 1020620,
+      "en": "So that's a snippet there from just one of two short official trailers on YouTube.",
+      "zh": "这只是 YouTube 上两部官方短预告片中的一段。"
+    },
+    {
+      "id": 183,
+      "startMs": 1020620,
+      "endMs": 1028220,
+      "en": "So basically fans have seen so little of it, and that means the appetite for any content about the game itself is absolutely huge.",
+      "zh": "所以粉丝基本没看到多少内容，这意味着大家对任何游戏本身的内容都极其渴望。"
+    },
+    {
+      "id": 184,
+      "startMs": 1028620,
+      "endMs": 1032380,
+      "en": "Lots of anticipation then, and I guess this is where this hacker comes in.",
+      "zh": "期待如此强烈，我想这正是这名黑客介入的地方。"
+    },
+    {
+      "id": 185,
+      "startMs": 1032460,
+      "endMs": 1038700,
+      "en": "Yeah, the timing is really interesting because actually on Thursday, GTA's developers Rockstar made an announcement.",
+      "zh": "是的，时机确实很有意思，因为《GTA》的开发商 Rockstar 实际上在周四宣布了一件事。"
+    },
+    {
+      "id": 186,
+      "startMs": 1038700,
+      "endMs": 1044140,
+      "en": "they're having a Netflix special, which they say will give people an extended look at gameplay.",
+      "zh": "他们将推出一档 Netflix 特别节目，据称会让观众更完整地了解游戏玩法。"
+    },
+    {
+      "id": 187,
+      "startMs": 1044460,
+      "endMs": 1049820,
+      "en": "But since earlier in this month, a series of leaks have already been showing gameplay online.",
+      "zh": "但从本月早些时候起，一系列泄露内容已经在网上展示游戏玩法。"
+    },
+    {
+      "id": 188,
+      "startMs": 1049820,
+      "endMs": 1056220,
+      "en": "You know, maps, fully played sections, and they've all come from this anonymous account called CyberLeek.",
+      "zh": "包括地图和完整游玩片段；这些内容都来自一个名为 CyberLeek 的匿名账号。"
+    },
+    {
+      "id": 189,
+      "startMs": 1056620,
+      "endMs": 1061100,
+      "en": "Now, as to whether they're real, this is quite interesting. So evidence would seem to suggest yes.",
+      "zh": "至于它们是否真实，情况相当有意思。证据似乎表明，确实是真的。"
+    },
+    {
+      "id": 190,
+      "startMs": 1061100,
+      "endMs": 1067020,
+      "en": "We've had no official comment, but Take-Two Interactive is Rockstar's parent company.",
+      "zh": "我们尚未得到官方回应，但 Take-Two Interactive 是 Rockstar 的母公司。"
+    },
+    {
+      "id": 191,
+      "startMs": 1067420,
+      "endMs": 1076400,
+      "en": "It went to court on Friday. It was getting court orders that would require Microsoft and Discord to give it data to help try and find the hacker.",
+      "zh": "于周五诉诸法庭，申请法院命令，要求微软和 Discord 提供数据，以帮助寻找这名黑客。"
+    },
+    {
+      "id": 192,
+      "startMs": 1076880,
+      "endMs": 1081760,
+      "en": "At this court appearance, they had to acknowledge that some material had been posted online",
+      "zh": "在这次出庭过程中，他们不得不承认，部分发布到网上的材料"
+    },
+    {
+      "id": 193,
+      "startMs": 1081760,
+      "endMs": 1090480,
+      "en": "had violated their copyright. In other words, they're acknowledging that these videos are real and do show things that they own from the game.",
+      "zh": "侵犯了他们的版权。换句话说，他们承认这些视频是真的，展示了游戏中属于他们的内容。"
+    },
+    {
+      "id": 194,
+      "startMs": 1091260,
+      "endMs": 1095660,
+      "en": "Now, as for why this all matters, for a start, it's not a great look, right?",
+      "zh": "至于这一切为何重要，首先，这可不是什么光彩的事，对吧？"
+    },
+    {
+      "id": 195,
+      "startMs": 1095740,
+      "endMs": 1099420,
+      "en": "Firstly, these leaks often appear to be riddled with mistakes.",
+      "zh": "首先，这些泄露内容似乎常常错误百出。"
+    },
+    {
+      "id": 196,
+      "startMs": 1099500,
+      "endMs": 1106780,
+      "en": "But Shay Thompson, a gaming journalist, says this is likely because the game will be far from finished, even at this late stage.",
+      "zh": "但游戏记者谢伊·汤普森说，这很可能是因为即使到了这个阶段，游戏距离完成也还很远。"
+    },
+    {
+      "id": 197,
+      "startMs": 1106860,
+      "endMs": 1116540,
+      "en": "Things get scrapped at the last minute because they don't end up working. And so it's destructive to have their work put out into the ether like this.",
+      "zh": "有些东西会在最后一刻被删掉，因为它们最终无法正常运行。因此，把他们的工作这样公之于众，破坏性很大。"
+    },
+    {
+      "id": 198,
+      "startMs": 1116940,
+      "endMs": 1123820,
+      "en": "This is the better part of a decade's work put into this. To have it leaked in such an unceremonious manner, I think, does more harm than good.",
+      "zh": "这是十年心血打造的作品，却以如此不体面的方式泄露；我认为这弊大于利。"
+    },
+    {
+      "id": 199,
+      "startMs": 1124140,
+      "endMs": 1129340,
+      "en": "Now this court date was on Friday, but it doesn't seem to have put CyberLeek, whoever they are, off.",
+      "zh": "这次开庭是在周五，但似乎并没有让 CyberLeek——无论他们是谁——收手。"
+    },
+    {
+      "id": 200,
+      "startMs": 1129340,
+      "endMs": 1132460,
+      "en": "It's continued, and the latest leak came in the last day or so.",
+      "zh": "泄露仍在继续，最近一次大约发生在过去一天。"
+    },
+    {
+      "id": 201,
+      "startMs": 1133180,
+      "endMs": 1140140,
+      "en": "And when a hacker does something like this and leaks a game that people have long been waiting for, it's often just for the kudos of doing it, right?",
+      "zh": "黑客做出这种事、泄露一款人们期待已久的游戏时，往往只是为了获得这样做的赞誉，对吧？"
+    },
+    {
+      "id": 202,
+      "startMs": 1140140,
+      "endMs": 1142860,
+      "en": "But there's a little bit more to this case.",
+      "zh": "但这起事件还有更多内情。"
+    },
+    {
+      "id": 203,
+      "startMs": 1142860,
+      "endMs": 1146620,
+      "en": "Is there? Well, there could be, yeah. It could be about money.",
+      "zh": "是吗？嗯，也有可能。可能是为了钱。"
+    },
+    {
+      "id": 204,
+      "startMs": 1146620,
+      "endMs": 1151440,
+      "en": "So every time they do a leak, they've been asking for people to give them cryptocurrency donations.",
+      "zh": "所以每次泄露，他们都会要求人们向他们捐赠加密货币。"
+    },
+    {
+      "id": 205,
+      "startMs": 1152560,
+      "endMs": 1158000,
+      "en": "There is something on their website about doing this to protest against anti-consumer practices in gaming.",
+      "zh": "他们的网站上说，这样做是为了抗议游戏行业损害消费者权益的做法。"
+    },
+    {
+      "id": 206,
+      "startMs": 1158240,
+      "endMs": 1162800,
+      "en": "Specifically from Rockstar, but it does look like it is more about the money. Will Chalk.",
+      "zh": "特别是 Rockstar 的做法；但看起来，这更多是为了钱。威尔·乔克。"
+    },
+    {
+      "id": 207,
+      "startMs": 1164220,
+      "endMs": 1170540,
+      "en": "Now, how would you feel about eating a biscuit or a cookie that started life as a piece of plastic?",
+      "zh": "那么，如果一块饼干从一块塑料开始，你会想吃吗？"
+    },
+    {
+      "id": 208,
+      "startMs": 1171180,
+      "endMs": 1180540,
+      "en": "Scientists at a NASA-funded project in Illinois in the US have used specially designed yeasts to transform plastics and agricultural waste",
+      "zh": "美国伊利诺伊州一个由NASA资助的项目中，科学家用特制酵母将塑料和农业废料"
+    },
+    {
+      "id": 209,
+      "startMs": 1180700,
+      "endMs": 1186060,
+      "en": "into edible proteins, fats and flavorings, which they've then turned into a cookie.",
+      "zh": "转化成可食用的蛋白质、脂肪和调味物，再制成了一块饼干。"
+    },
+    {
+      "id": 210,
+      "startMs": 1186540,
+      "endMs": 1191500,
+      "en": "James Coomarasamy heard more from Mary Whitfill Roeloffs, a science writer with Forbes magazine.",
+      "zh": "詹姆斯·库马拉萨米请《福布斯》杂志科学作家玛丽·惠特菲尔·罗洛夫斯介绍了更多情况。"
+    },
+    {
+      "id": 211,
+      "startMs": 1192060,
+      "endMs": 1196060,
+      "en": "It's important to note that humans aren't eating raw plastic, even in these cookies.",
+      "zh": "需要注意的是，即使在这种饼干中，人吃的也不是原始塑料。"
+    },
+    {
+      "id": 212,
+      "startMs": 1196380,
+      "endMs": 1205020,
+      "en": "Microbes, like bacteria and algae, are eating the plastic, and then breaking it down into the nutritional molecules that we think about, like proteins and fats and vitamins.",
+      "zh": "微生物，比如细菌和藻类，会吞食塑料，再将其分解成我们所说的营养分子，比如蛋白质、脂肪和维生素。"
+    },
+    {
+      "id": 213,
+      "startMs": 1205500,
+      "endMs": 1214940,
+      "en": "And then more yeast are reassembling those things back into a food product, and then a 3D printer is actually turning the final mixture into a little cookie.",
+      "zh": "然后，更多酵母把这些东西重新组装成食品，接着3D打印机将最终混合物制成一块小饼干。"
+    },
+    {
+      "id": 214,
+      "startMs": 1214940,
+      "endMs": 1216780,
+      "en": "That's reportedly quite nutrient-dense.",
+      "zh": "据报道，它的营养密度相当高。"
+    },
+    {
+      "id": 215,
+      "startMs": 1217420,
+      "endMs": 1219580,
+      "en": "Reportedly, but no one's actually tried it yet.",
+      "zh": "据报道是这样，但实际上还没人尝过。"
+    },
+    {
+      "id": 216,
+      "startMs": 1219900,
+      "endMs": 1227600,
+      "en": "They did smell tests, and most participants said they would eat the cookies in a resource-limited setting if there wasn't much available.",
+      "zh": "他们做了气味测试，大多数参与者说，在资源有限、没有多少东西可用的情况下，他们会吃这种饼干。"
+    },
+    {
+      "id": 217,
+      "startMs": 1227840,
+      "endMs": 1229440,
+      "en": "It passed the sniff test then.",
+      "zh": "那它算是通过嗅觉测试了。"
+    },
+    {
+      "id": 218,
+      "startMs": 1230120,
+      "endMs": 1231400,
+      "en": "Barely, I think, but yes.",
+      "zh": "我觉得勉强算吧，但确实算。"
+    },
+    {
+      "id": 219,
+      "startMs": 1232200,
+      "endMs": 1235560,
+      "en": "And the word vanilla has been mentioned about the aroma?",
+      "zh": "关于香气，是提到了香草这个词吗？"
+    },
+    {
+      "id": 220,
+      "startMs": 1236040,
+      "endMs": 1241560,
+      "en": "Yes, apparently the scientists were able to use brewer's yeast to add a vanilla flavoring.",
+      "zh": "是的，据说科学家能够用酿酒酵母添加香草味。"
+    },
+    {
+      "id": 221,
+      "startMs": 1241800,
+      "endMs": 1243560,
+      "en": "Why? What's the idea behind this?",
+      "zh": "为什么？这么做的想法是什么？"
+    },
+    {
+      "id": 222,
+      "startMs": 1243960,
+      "endMs": 1248760,
+      "en": "I think the main thing they're going for is food that would sustain life in a really difficult setting.",
+      "zh": "我觉得他们主要是想为极其艰苦的环境制造能够维持生命的食物。"
+    },
+    {
+      "id": 223,
+      "startMs": 1248760,
+      "endMs": 1254600,
+      "en": "So, the work was conducted as part of a NASA-led project aimed at creating food for deep space exploration.",
+      "zh": "这项工作是NASA主导项目的一部分，旨在为深空探索制造食物。"
+    },
+    {
+      "id": 224,
+      "startMs": 1255080,
+      "endMs": 1263800,
+      "en": "And then the researchers have also said that it could sustain life in disaster zones or, you know, in space-limited places like submarines or even in moon colonies.",
+      "zh": "研究人员还说，这种食物可以在灾区维持生命，也能用于潜艇等空间有限的地方，甚至月球殖民地。"
+    },
+    {
+      "id": 225,
+      "startMs": 1263880,
+      "endMs": 1270600,
+      "en": "But for the wider public, is that—is it something that people have looked at before, this kind of reusing plastic?",
+      "zh": "但对大众来说，这种回收利用塑料的做法以前有人研究过吗？"
+    },
+    {
+      "id": 226,
+      "startMs": 1270600,
+      "endMs": 1273640,
+      "en": "Scientists have achieved this on a bit of a smaller scale.",
+      "zh": "科学家已经在较小规模上实现过类似做法。"
+    },
+    {
+      "id": 227,
+      "startMs": 1273960,
+      "endMs": 1278280,
+      "en": "A study a few years ago converted plastic into vanilla flavoring,",
+      "zh": "几年前的一项研究把塑料转化成了香草味调料，"
+    },
+    {
+      "id": 228,
+      "startMs": 1278600,
+      "endMs": 1283800,
+      "en": "and researchers here in the US have engineered a fungus capable of eating Styrofoam and packaging,",
+      "zh": "美国研究人员还培育出一种能吞食泡沫塑料和包装材料的真菌，"
+    },
+    {
+      "id": 229,
+      "startMs": 1284040,
+      "endMs": 1290040,
+      "en": "but this is the first that I personally have heard about it being used to make a real food, as opposed to just an additive.",
+      "zh": "但据我所知，这是第一次有人用它来制作真正的食品，而不只是做成添加剂。"
+    },
+    {
+      "id": 230,
+      "startMs": 1290780,
+      "endMs": 1300380,
+      "en": "Do you think I can get past the ick factor? If I was in a disaster zone with nothing else to eat, I would eat it, but I'm not sure I'd pick it off the shelf over an Oreo.",
+      "zh": "你觉得它能过恶心这一关吗？如果在灾区没别的东西可吃，我会吃，但不确定会不会放弃货架上的奥利奥选它。"
+    },
+    {
+      "id": 231,
+      "startMs": 1301880,
+      "endMs": 1306120,
+      "en": "Are there plans for other types of food to be made from plastic like this?",
+      "zh": "有没有计划像这样用塑料制作其他种类的食物？"
+    },
+    {
+      "id": 232,
+      "startMs": 1306280,
+      "endMs": 1313560,
+      "en": "I do know that these researchers are hoping to make even more than what they've already made using microbes.",
+      "zh": "我知道，这些研究人员希望利用微生物，做出比目前更多的食品。"
+    },
+    {
+      "id": 233,
+      "startMs": 1313560,
+      "endMs": 1316600,
+      "en": "So they want to also be able to add starch and fiber and sweetener.",
+      "zh": "他们还希望能够添加淀粉、纤维和甜味剂。"
+    },
+    {
+      "id": 234,
+      "startMs": 1316840,
+      "endMs": 1320520,
+      "en": "And if they can do all that, I don't know why we couldn't turn it into something other than a cookie.",
+      "zh": "如果这些都能做到，我不知道为什么不能把它做成饼干以外的东西。"
+    },
+    {
+      "id": 235,
+      "startMs": 1320680,
+      "endMs": 1327000,
+      "en": "But we do have to first get this sort of permission for it to be digestible by humans, don't we?",
+      "zh": "不过，我们确实得先获得许可，证明它能被人类消化，对吧？"
+    },
+    {
+      "id": 236,
+      "startMs": 1327400,
+      "endMs": 1334520,
+      "en": "Yes, exactly. It has been cleared by safety testing, but they're still awaiting that sign-off before conducting taste tests.",
+      "zh": "没错。它已通过安全测试，但他们仍在等待签字批准，之后才能进行味觉测试。"
+    },
+    {
+      "id": 237,
+      "startMs": 1335000,
+      "endMs": 1336440,
+      "en": "And are you looking forward to trying it?",
+      "zh": "那你期待尝尝它吗？"
+    },
+    {
+      "id": 238,
+      "startMs": 1337160,
+      "endMs": 1342460,
+      "en": "Oh, looking forward to, I'm not sure, but I'd be willing. I'm not sure I would.",
+      "zh": "哦，说期待嘛，我不确定，但我愿意试试。我不确定自己会。"
+    },
+    {
+      "id": 239,
+      "startMs": 1343100,
+      "endMs": 1346220,
+      "en": "Mary Whitfill Roeloffs, who was speaking to James Coomarasamy.",
+      "zh": "玛丽·惠特菲尔·罗洛夫斯接受詹姆斯·库马拉萨米采访。"
+    },
+    {
+      "id": 240,
+      "startMs": 1350120,
+      "endMs": 1355960,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "我们暂时就说到这里。你可以通过globalpodcast@bbc.co.uk给我们发邮件。"
+    },
+    {
+      "id": 241,
+      "startMs": 1356120,
+      "endMs": 1361560,
+      "en": "You can also find us on X @bbcworldservice, use the hashtag #globalnewspod.",
+      "zh": "你也可以在X上关注@bbcworldservice，并使用标签#globalnewspod。"
+    },
+    {
+      "id": 242,
+      "startMs": 1361560,
+      "endMs": 1366840,
+      "en": "This edition of the Global News Podcast was mixed by Martin Baker. The editor is Karen Martin.",
+      "zh": "本期《全球新闻播客》由马丁·贝克混音，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 243,
+      "startMs": 1367560,
+      "endMs": 1370280,
+      "en": "I'm Pete Ross. Until next time, goodbye.",
+      "zh": "我是皮特·罗斯。下次再见。"
+    }
+  ]
+}
