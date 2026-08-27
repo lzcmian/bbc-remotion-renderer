@@ -1,0 +1,1152 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "26 August 2026"
+  },
+  "durationMs": 933040,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2720,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5100,
+      "endMs": 11500,
+      "en": "Hello, I'm Ankur Desai, and at 14:00 GMT on Wednesday the 26th of August, these are our main stories.",
+      "zh": "你好，我是 Ankur Desai。现在是 8 月 26 日星期三格林尼治标准时间 14 点，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11500,
+      "endMs": 17100,
+      "en": "At least 14 newborn babies are killed in a fire in the maternity ward of a hospital in Pakistan.",
+      "zh": "巴基斯坦一家医院的产科病房发生火灾，至少 14 名新生儿死亡。"
+    },
+    {
+      "id": 4,
+      "startMs": 17100,
+      "endMs": 21660,
+      "en": "Also in this podcast, Russia targets Ukrainian petrol stations along the frontline.",
+      "zh": "本期节目还将关注：俄罗斯袭击乌克兰前线沿线的加油站。"
+    },
+    {
+      "id": 5,
+      "startMs": 22220,
+      "endMs": 28700,
+      "en": "And new research suggests vaping may be a better way to quit smoking than using nicotine gum or patches.",
+      "zh": "新研究显示，使用电子烟戒烟可能比使用尼古丁口香糖或贴片更有效。"
+    },
+    {
+      "id": 6,
+      "startMs": 28700,
+      "endMs": 37180,
+      "en": "Now to a tragic incident in Pakistan: a fire at a maternity ward at a hospital in Islamabad has killed at least 14 newborn babies.",
+      "zh": "现在来看巴基斯坦的一起悲剧：伊斯兰堡一家医院的产科病房发生火灾，至少造成14名新生儿死亡。"
+    },
+    {
+      "id": 7,
+      "startMs": 37740,
+      "endMs": 42300,
+      "en": "The blaze started on the third floor of the Pakistan Institute of Medical Sciences.",
+      "zh": "火灾从巴基斯坦医学科学研究所的三楼开始。"
+    },
+    {
+      "id": 8,
+      "startMs": 42700,
+      "endMs": 51020,
+      "en": "One newborn was rescued. A spokesperson for the hospital told the BBC the fire was caused by an air-conditioning unit that exploded.",
+      "zh": "一名新生儿获救。医院发言人告诉BBC，火灾是由一台空调机组爆炸引起的。"
+    },
+    {
+      "id": 9,
+      "startMs": 51580,
+      "endMs": 56940,
+      "en": "In the aftermath, families gathered outside the building with many of its windows shattered by the blaze.",
+      "zh": "火灾过后，许多家庭聚集在楼外，楼上许多窗户被大火震碎。"
+    },
+    {
+      "id": 10,
+      "startMs": 57580,
+      "endMs": 61580,
+      "en": "A mother of one of the victims said little was done to save the newborn babies.",
+      "zh": "一名遇难新生儿的母亲说，几乎没人采取措施拯救这些婴儿。"
+    },
+    {
+      "id": 11,
+      "startMs": 61580,
+      "endMs": 66700,
+      "en": "I have a three-day-old son.",
+      "zh": "我有一个才三天大的儿子。"
+    },
+    {
+      "id": 12,
+      "startMs": 67020,
+      "endMs": 68860,
+      "en": "They said we have to save the adults first.",
+      "zh": "他们说必须先救成年人。"
+    },
+    {
+      "id": 13,
+      "startMs": 69580,
+      "endMs": 72380,
+      "en": "Why were they saving adults? They could have gotten out on foot.",
+      "zh": "为什么要救成年人？他们自己走出去就可以了。"
+    },
+    {
+      "id": 14,
+      "startMs": 72860,
+      "endMs": 76880,
+      "en": "Why didn't they save the children first? And why was the children's ward locked?",
+      "zh": "为什么不先救孩子？为什么儿童病房会上锁？"
+    },
+    {
+      "id": 15,
+      "startMs": 77680,
+      "endMs": 82480,
+      "en": "After two hours, the rescue team finally arrived, and after four hours, the police came.",
+      "zh": "两小时后，救援队终于抵达；四小时后，警察才赶到。"
+    },
+    {
+      "id": 16,
+      "startMs": 82800,
+      "endMs": 88320,
+      "en": "Why? I got the latest from our Pakistan correspondent, Caroline Davies, who was at the scene.",
+      "zh": "为什么？我从当时在现场的巴基斯坦记者卡罗琳·戴维斯那里了解了最新情况。"
+    },
+    {
+      "id": 17,
+      "startMs": 88560,
+      "endMs": 93920,
+      "en": "I think it's been truly shocking, and this incident has really, really struck so many people here in Islamabad.",
+      "zh": "我认为这确实令人震惊，这起事件让伊斯兰堡的许多人深受触动。"
+    },
+    {
+      "id": 18,
+      "startMs": 93920,
+      "endMs": 101600,
+      "en": "To have something like this happen in such a major hospital in the heart of Pakistan's capital is fairly incredible.",
+      "zh": "这样的事情发生在巴基斯坦首都中心的一家大型医院里，实在令人难以置信。"
+    },
+    {
+      "id": 19,
+      "startMs": 101600,
+      "endMs": 103680,
+      "en": "So, we were at the scene earlier.",
+      "zh": "我们此前到过现场。"
+    },
+    {
+      "id": 20,
+      "startMs": 103680,
+      "endMs": 108560,
+      "en": "We spoke to many families. As soon as we arrived, we saw families still grieving.",
+      "zh": "我们与许多家庭交谈。刚到现场就看到，那里仍有许多家庭沉浸在悲痛之中。"
+    },
+    {
+      "id": 21,
+      "startMs": 108560,
+      "endMs": 112320,
+      "en": "It was only hours after this fire had been got under control.",
+      "zh": "就在这场火灾得到控制几小时后。"
+    },
+    {
+      "id": 22,
+      "startMs": 112880,
+      "endMs": 117760,
+      "en": "We have now heard from the officials that the bodies of all 14 babies",
+      "zh": "我们现在得知，火灾中14名婴儿的遗体"
+    },
+    {
+      "id": 23,
+      "startMs": 117760,
+      "endMs": 123040,
+      "en": "that died in this fire have now been given back to their families.",
+      "zh": "都已交还家属。"
+    },
+    {
+      "id": 24,
+      "startMs": 123040,
+      "endMs": 128160,
+      "en": "They've continued to talk about the fact that there will be an ongoing investigation into what happened there.",
+      "zh": "他们还表示，将继续调查那里发生的事情。"
+    },
+    {
+      "id": 25,
+      "startMs": 128160,
+      "endMs": 130080,
+      "en": "But this has raised lots of questions.",
+      "zh": "但这也引发了许多疑问。"
+    },
+    {
+      "id": 26,
+      "startMs": 130320,
+      "endMs": 139060,
+      "en": "Of course, we heard from a father there talking about concerns about fire escapes, about being able to move out of the building.",
+      "zh": "当然，我们听到一位父亲谈到人们对消防逃生通道以及能否撤出大楼的担忧。"
+    },
+    {
+      "id": 27,
+      "startMs": 139220,
+      "endMs": 143300,
+      "en": "He also questioned how quickly rescue services reached the site.",
+      "zh": "他还质疑救援人员抵达现场的速度。"
+    },
+    {
+      "id": 28,
+      "startMs": 143300,
+      "endMs": 147380,
+      "en": "Now the authorities have said that the rescue services arrived very quickly.",
+      "zh": "当局表示，救援人员抵达得非常快。"
+    },
+    {
+      "id": 29,
+      "startMs": 147700,
+      "endMs": 152180,
+      "en": "But their timing seemed slightly different from what some people at the scene told us.",
+      "zh": "但他们所说的时间，似乎与现场一些人告诉我们的略有不同。"
+    },
+    {
+      "id": 30,
+      "startMs": 152180,
+      "endMs": 154900,
+      "en": "So I'm sure that the investigation will be looking further into that.",
+      "zh": "所以我相信，调查会进一步查明这一点。"
+    },
+    {
+      "id": 31,
+      "startMs": 155460,
+      "endMs": 158420,
+      "en": "And there are questions too about the doors being locked.",
+      "zh": "此外，病房门是否上锁也引发了疑问。"
+    },
+    {
+      "id": 32,
+      "startMs": 158420,
+      "endMs": 166740,
+      "en": "So one of the women who lost her three-day-old child said that the doors to the ward had been locked.",
+      "zh": "一名失去三天大孩子的女性说，病房的门当时被锁上了。"
+    },
+    {
+      "id": 33,
+      "startMs": 166804,
+      "endMs": 171780,
+      "en": "Now, I spoke to the chief executive of the hospital, who said that the doors of that ward were not locked.",
+      "zh": "我采访了这家医院的首席执行官，他说那间病房的门并没有上锁。"
+    },
+    {
+      "id": 34,
+      "startMs": 171780,
+      "endMs": 178980,
+      "en": "But they were manned, because previous instances in government hospitals had seen babies stolen from the ward",
+      "zh": "但病房有人看守，因为政府医院此前曾发生婴儿被从病房偷走的事件，"
+    },
+    {
+      "id": 35,
+      "startMs": 178980,
+      "endMs": 180900,
+      "en": "That's why they had security measures in place.",
+      "zh": "所以他们才设置了安保措施。"
+    },
+    {
+      "id": 36,
+      "startMs": 181380,
+      "endMs": 187620,
+      "en": "But still, a huge number of questions remain about the safety and how something like this could happen.",
+      "zh": "但人们仍对安全问题，以及这种事怎么会发生，提出了大量疑问。"
+    },
+    {
+      "id": 37,
+      "startMs": 188020,
+      "endMs": 193140,
+      "en": "As you say, officials say there seems to have been short-circuiting that led to a spark.",
+      "zh": "正如你所说，当局表示，似乎是某种短路引发了火花。"
+    },
+    {
+      "id": 38,
+      "startMs": 193140,
+      "endMs": 196660,
+      "en": "And the federal minister who was at the scene and spoke to the media",
+      "zh": "当时在现场并接受媒体采访的联邦部长"
+    },
+    {
+      "id": 39,
+      "startMs": 196520,
+      "endMs": 205800,
+      "en": "said that this spark had happened and had been spread because there were oxygen pipes and oxygen cylinders in this particular unit, in this ward.",
+      "zh": "说，火花引发火势并使其蔓延，是因为这间病房的这个单元里有氧气管道和氧气瓶。"
+    },
+    {
+      "id": 40,
+      "startMs": 206280,
+      "endMs": 210040,
+      "en": "When I asked, \"Could there not have been more checks to make sure that\"",
+      "zh": "我问道：“难道不能加强检查，确保”"
+    },
+    {
+      "id": 41,
+      "startMs": 210040,
+      "endMs": 215240,
+      "en": "those sorts, any sort of flammable material was nowhere near something that could potentially cause a spark?\"",
+      "zh": "这些易燃物不会靠近可能引发火花的东西吗？”"
+    },
+    {
+      "id": 42,
+      "startMs": 215480,
+      "endMs": 220360,
+      "en": "He said that if there was short-circuiting with these things nearby, there wasn't much more they could do.",
+      "zh": "他说，如果发生某种短路，而附近又有这些东西，他们也没有太多办法。"
+    },
+    {
+      "id": 43,
+      "startMs": 220440,
+      "endMs": 227960,
+      "en": "They did the things that they could do. But many families feel many more measures could have been put in place to keep their very young babies safe.",
+      "zh": "他们已经采取了能采取的措施。但许多家庭认为，本可以采取更多措施，保护那些年幼的孩子。"
+    },
+    {
+      "id": 44,
+      "startMs": 228360,
+      "endMs": 233800,
+      "en": "And Caroline, just very briefly, you've been speaking to some of the parents who tragically lost their newborns.",
+      "zh": "Caroline，简单说说，你采访了一些不幸失去新生儿的家长。"
+    },
+    {
+      "id": 45,
+      "startMs": 234520,
+      "endMs": 238600,
+      "en": "We were able to speak to a few. Many didn't really want to go on camera.",
+      "zh": "我们采访了几位，但很多人并不愿意出镜。"
+    },
+    {
+      "id": 46,
+      "startMs": 238600,
+      "endMs": 242920,
+      "en": "One man told us that his daughter had died, again, only three days old.",
+      "zh": "一名男子告诉我们，他的女儿去世时才三天大。"
+    },
+    {
+      "id": 47,
+      "startMs": 242920,
+      "endMs": 249480,
+      "en": "We spoke to an uncle of one man as well. He'd lost his niece, who was also three days old.",
+      "zh": "我们还采访了一名男子的叔叔。他失去了同样只有三天大的侄女。"
+    },
+    {
+      "id": 48,
+      "startMs": 249640,
+      "endMs": 254360,
+      "en": "She had been born but needed oxygen, and that was why she was in that particular ward.",
+      "zh": "她出生后需要氧气支持，所以才在那间病房里。"
+    },
+    {
+      "id": 49,
+      "startMs": 254840,
+      "endMs": 264700,
+      "en": "And again, we also spoke to a woman who, by sheer chance, happened to have been in a separate ward with her sister-in-law's baby.",
+      "zh": "此外，我们还采访了一名女子；纯属偶然，她当时和嫂子的宝宝待在另一间病房。"
+    },
+    {
+      "id": 50,
+      "startMs": 265260,
+      "endMs": 269100,
+      "en": "She was shocked by the sheer chance that, simply by being in a different ward,",
+      "zh": "她很震惊：仅仅因为身处另一间病房，"
+    },
+    {
+      "id": 51,
+      "startMs": 269100,
+      "endMs": 273500,
+      "en": "she and the baby survived; she'd grabbed the baby and run out as soon as she saw smoke.",
+      "zh": "她和宝宝才得以幸存；她一看到烟雾就抱起孩子逃了出去。"
+    },
+    {
+      "id": 52,
+      "startMs": 273500,
+      "endMs": 277180,
+      "en": "I think they were still reeling and fully trying to understand what had happened.",
+      "zh": "我想，她们仍然惊魂未定，还在努力弄清发生了什么。"
+    },
+    {
+      "id": 53,
+      "startMs": 277740,
+      "endMs": 279580,
+      "en": "Caroline Davies in Islamabad.",
+      "zh": "伊斯兰堡的 Caroline Davies。"
+    },
+    {
+      "id": 54,
+      "startMs": 280060,
+      "endMs": 288780,
+      "en": "Next, new analysis suggests smokers wanting to quit their habit have a better chance if they use nicotine vapes rather than patches or gum.",
+      "zh": "接下来，最新分析显示，想戒烟的人使用含尼古丁电子烟，比使用尼古丁贴片或口香糖更有可能成功。"
+    },
+    {
+      "id": 55,
+      "startMs": 289260,
+      "endMs": 295980,
+      "en": "The review by an international group of experts also found that use of e-cigarettes was more successful than support programmes.",
+      "zh": "一个国际专家团队的综述还发现，使用电子烟比参加戒烟支持项目更成功。"
+    },
+    {
+      "id": 56,
+      "startMs": 296220,
+      "endMs": 298380,
+      "en": "I heard more from our health editor, Hugh Pym.",
+      "zh": "卫生事务编辑 Hugh Pym 介绍了更多情况。"
+    },
+    {
+      "id": 57,
+      "startMs": 298780,
+      "endMs": 305900,
+      "en": "It's the Cochrane Group, an international group of experts, and their role is to review the latest evidence",
+      "zh": "这是 Cochrane 组织，一个国际专家团队；他们的职责是审查最新证据，"
+    },
+    {
+      "id": 58,
+      "startMs": 306220,
+      "endMs": 309340,
+      "en": "in a number of different fields which are considered important.",
+      "zh": "涉及多个被认为重要的不同领域。"
+    },
+    {
+      "id": 59,
+      "startMs": 309820,
+      "endMs": 316220,
+      "en": "And in this case, they looked at the impact of vaping on helping adult smokers give up the habit.",
+      "zh": "这一次，他们研究了电子烟帮助成年吸烟者戒烟的效果。"
+    },
+    {
+      "id": 60,
+      "startMs": 316560,
+      "endMs": 324400,
+      "en": "The trials involved 30,000 participants internationally, with 80 different individual pieces of research.",
+      "zh": "这些试验涉及全球3万名参与者，包括80项独立研究。"
+    },
+    {
+      "id": 61,
+      "startMs": 324720,
+      "endMs": 329520,
+      "en": "And the key bit of evidence and conclusion they came up with is that",
+      "zh": "他们得出的关键证据和结论是，"
+    },
+    {
+      "id": 62,
+      "startMs": 329520,
+      "endMs": 336880,
+      "en": "six in 100 smokers who were trying to quit did so with nicotine patches and gum—they succeeded, six in 100.",
+      "zh": "每100名尝试戒烟的吸烟者中，有6人通过尼古丁贴片和口香糖成功戒烟——成功率是6%。"
+    },
+    {
+      "id": 63,
+      "startMs": 337200,
+      "endMs": 343680,
+      "en": "It was 10 in 100 for those who'd used vaping with nicotine as a way of quitting their habit.",
+      "zh": "而使用含尼古丁电子烟戒烟的人，成功率是每100人中10人。"
+    },
+    {
+      "id": 64,
+      "startMs": 343680,
+      "endMs": 351440,
+      "en": "And actually, vaping was also ahead of conventional support programmes that might be offered to smokers trying to give up.",
+      "zh": "而且，电子烟的效果也优于提供给戒烟者的传统支持项目。"
+    },
+    {
+      "id": 65,
+      "startMs": 351760,
+      "endMs": 360080,
+      "en": "And the authors also said there was no evidence of any serious safety issue around vaping compared with continuing to smoke.",
+      "zh": "作者还表示，没有证据表明电子烟相较于继续吸烟存在严重安全问题。"
+    },
+    {
+      "id": 66,
+      "startMs": 360160,
+      "endMs": 366640,
+      "en": "So they are also making the point that smoking remains very bad for the health of an individual.",
+      "zh": "所以他们也指出，吸烟对个人健康仍然非常有害。"
+    },
+    {
+      "id": 67,
+      "startMs": 367040,
+      "endMs": 372000,
+      "en": "And that vaping will be a lot less unhealthy for someone who wants to give up smoking.",
+      "zh": "而对于想戒烟的人来说，吸电子烟的危害要小得多。"
+    },
+    {
+      "id": 68,
+      "startMs": 372240,
+      "endMs": 377540,
+      "en": "But Hugh, is it fair to say that we don't currently know what the long-term health risks of vaping are?",
+      "zh": "但是，休，这样说公平吗：我们目前并不知道吸电子烟的长期健康风险？"
+    },
+    {
+      "id": 69,
+      "startMs": 378100,
+      "endMs": 385380,
+      "en": "Well, that's right, and actually the authors say they've looked at licensed vaping products with regulators.",
+      "zh": "没错。实际上，作者说他们考察的是经过监管机构许可的电子烟产品。"
+    },
+    {
+      "id": 70,
+      "startMs": 385780,
+      "endMs": 392020,
+      "en": "There are some on the market that are not licensed out there available on the streets, which may have toxic substances,",
+      "zh": "市场上也有一些未经许可、在街头出售的产品，里面可能含有有毒物质，"
+    },
+    {
+      "id": 71,
+      "startMs": 392020,
+      "endMs": 394900,
+      "en": "so they can't speak for the health impact of those.",
+      "zh": "因此他们无法说明这些产品对健康的影响。"
+    },
+    {
+      "id": 72,
+      "startMs": 395220,
+      "endMs": 398020,
+      "en": "They're also saying, yes, longer-term research is needed.",
+      "zh": "他们还表示，是的，还需要开展更长期的研究。"
+    },
+    {
+      "id": 73,
+      "startMs": 398260,
+      "endMs": 401540,
+      "en": "You can never ever say anything is 100% safe,",
+      "zh": "你永远不能说任何东西是百分之百安全的，"
+    },
+    {
+      "id": 74,
+      "startMs": 401700,
+      "endMs": 409380,
+      "en": "but they are keen to emphasise that a smoker wanting to give up is more likely to succeed with vaping,",
+      "zh": "但他们特别强调，对想戒烟的吸烟者来说，电子烟更有可能帮助其成功戒烟，"
+    },
+    {
+      "id": 75,
+      "startMs": 409380,
+      "endMs": 416900,
+      "en": "and that vaping is, in their view, a lot less damaging than continuing to smoke tobacco would be.",
+      "zh": "而且在他们看来，电子烟的危害远小于继续吸食烟草。"
+    },
+    {
+      "id": 76,
+      "startMs": 417140,
+      "endMs": 418500,
+      "en": "Our health editor, Hugh Pym.",
+      "zh": "我们的健康事务编辑休·皮姆。"
+    },
+    {
+      "id": 77,
+      "startMs": 418500,
+      "endMs": 420340,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 78,
+      "startMs": 420500,
+      "endMs": 424180,
+      "en": "Russia is waging a campaign to destroy petrol stations in Ukraine.",
+      "zh": "俄罗斯正在发动一场摧毁乌克兰加油站的行动。"
+    },
+    {
+      "id": 79,
+      "startMs": 424660,
+      "endMs": 431060,
+      "en": "More than 200 of them have been hit so far, and the strikes are getting worse, especially in villages close to the frontline.",
+      "zh": "目前已有200多座加油站遭到袭击，而且袭击正在加剧，尤其是在靠近前线的村庄。"
+    },
+    {
+      "id": 80,
+      "startMs": 431620,
+      "endMs": 438580,
+      "en": "In response, local authorities started dispensing fuel straight from road tankers that change locations to minimise getting hit.",
+      "zh": "作为应对，地方当局开始直接用公路油罐车供油，并不断更换地点，以尽量避免遭到袭击。"
+    },
+    {
+      "id": 81,
+      "startMs": 439060,
+      "endMs": 440820,
+      "en": "Vitaliy Shevchenko reports.",
+      "zh": "维塔利·舍甫琴科报道。"
+    },
+    {
+      "id": 82,
+      "startMs": 442740,
+      "endMs": 447220,
+      "en": "Filling up your car with fuel can be a dangerous endeavour in Ukraine.",
+      "zh": "在乌克兰，给汽车加油可能是一件危险的事。"
+    },
+    {
+      "id": 83,
+      "startMs": 450960,
+      "endMs": 456800,
+      "en": "And the authorities are urging drivers to be extremely careful when pulling up to the pump.",
+      "zh": "当局敦促司机驶近油泵时务必格外小心。"
+    },
+    {
+      "id": 84,
+      "startMs": 457520,
+      "endMs": 467760,
+      "en": "Ihor Terekhov, the mayor of Ukraine's second largest city, Kharkiv, wrote on social media, warning people to fill up quickly and move on to avoid becoming targets.",
+      "zh": "乌克兰第二大城市哈尔科夫市长伊霍尔·捷列霍夫在社交媒体上发文，警告人们加油后要迅速离开，以免成为目标。"
+    },
+    {
+      "id": 85,
+      "startMs": 470800,
+      "endMs": 477680,
+      "en": "Attacks come both in the form of smaller drones and much bigger and more expensive Shahed drones.",
+      "zh": "袭击既有小型无人机发动的，也有体积大得多、造价更高的沙赫德无人机发动的。"
+    },
+    {
+      "id": 86,
+      "startMs": 478160,
+      "endMs": 484720,
+      "en": "The Ukrainian government says 4% of the country's petrol stations have been damaged or destroyed.",
+      "zh": "乌克兰政府说，该国4%的加油站已受损或被摧毁。"
+    },
+    {
+      "id": 87,
+      "startMs": 485040,
+      "endMs": 493040,
+      "en": "Oleksandr Sirenko, an analyst with the Ukrainian energy think tank NaftoRynok, says 246 so far.",
+      "zh": "乌克兰能源智库 NaftoRynok 的分析师奥列克桑德尔·西连科说，目前已有246座。"
+    },
+    {
+      "id": 88,
+      "startMs": 493600,
+      "endMs": 504480,
+      "en": "From April, we have been seeing a concerted campaign to implement orders or intentions to destroy frontline petrol stations,",
+      "zh": "从4月起，我们看到了一场协调行动，旨在执行摧毁前线加油站的命令或意图，"
+    },
+    {
+      "id": 89,
+      "startMs": 504960,
+      "endMs": 511920,
+      "en": "Not just vehicles that turn up for refuelling, but actual petrol stations in five regions closest to the frontline.",
+      "zh": "目标不只是前来加油的车辆，还有距离前线最近的五个地区中的加油站本身。"
+    },
+    {
+      "id": 90,
+      "startMs": 512640,
+      "endMs": 515360,
+      "en": "Such attacks are getting more frequent.",
+      "zh": "这类袭击正变得更加频繁。"
+    },
+    {
+      "id": 91,
+      "startMs": 515760,
+      "endMs": 524480,
+      "en": "The Centre for Information Resilience, a non-profit organisation based in London, says the number jumped by 72% in July.",
+      "zh": "总部位于伦敦的非营利组织信息韧性中心说，袭击次数在7月增加了72%。"
+    },
+    {
+      "id": 92,
+      "startMs": 524800,
+      "endMs": 530880,
+      "en": "However, Ukraine has so many petrol stations to start with that there are still ways of getting fuel.",
+      "zh": "不过，乌克兰原本就有很多加油站，因此仍有办法获得燃油。"
+    },
+    {
+      "id": 93,
+      "startMs": 530820,
+      "endMs": 536980,
+      "en": "In the affected areas, if you're willing to drive a bit further and take the risk of pulling up at the pump,",
+      "zh": "在受影响地区，如果你愿意多开一段路，并冒险把车驶到油泵旁，"
+    },
+    {
+      "id": 94,
+      "startMs": 537300,
+      "endMs": 543940,
+      "en": "Ukrainian soldier Andriy Banakh says it's still possible to get fuel even right next to the frontline.",
+      "zh": "乌克兰士兵安德里·巴纳赫说，即使在前线旁也仍然可以加到油。"
+    },
+    {
+      "id": 95,
+      "startMs": 544260,
+      "endMs": 550340,
+      "en": "Almost all petrol stations here in Donbas have been hit,",
+      "zh": "顿巴斯这里几乎所有加油站都遭到过袭击，"
+    },
+    {
+      "id": 96,
+      "startMs": 550820,
+      "endMs": 556180,
+      "en": "but some have been partly repaired by operators who try to keep them going so that people can fill up.",
+      "zh": "但一些运营商修复了部分设施，努力让它们继续运转，以便人们加油。"
+    },
+    {
+      "id": 97,
+      "startMs": 556900,
+      "endMs": 559140,
+      "en": "Everyone knows which petrol stations to go to.",
+      "zh": "大家都知道该去哪几座加油站。"
+    },
+    {
+      "id": 98,
+      "startMs": 559140,
+      "endMs": 565060,
+      "en": "I can go get fuel now, be it petrol, diesel or LPG, here in Sloviansk.",
+      "zh": "我现在就能在斯洛维扬斯克加到油，无论是汽油、柴油还是液化石油气。"
+    },
+    {
+      "id": 99,
+      "startMs": 565740,
+      "endMs": 570540,
+      "en": "Logistics got a bit more complicated, but I wouldn't say it's a catastrophe.",
+      "zh": "后勤变得有些复杂，但我不会说这是一场灾难。"
+    },
+    {
+      "id": 100,
+      "startMs": 571100,
+      "endMs": 576780,
+      "en": "But still, Russian strikes targeting forecourts have caused major issues locally.",
+      "zh": "但俄罗斯针对加油站前场的袭击，仍在当地造成了严重问题。"
+    },
+    {
+      "id": 101,
+      "startMs": 577340,
+      "endMs": 580700,
+      "en": "Some key roads have no functioning petrol stations left.",
+      "zh": "一些重要道路沿线已经没有仍在运营的加油站。"
+    },
+    {
+      "id": 102,
+      "startMs": 581260,
+      "endMs": 591420,
+      "en": "After all filling stations were destroyed in one town in northeastern Ukraine, the local authorities started dispensing fuel straight from road tankers.",
+      "zh": "乌克兰东北部一座城镇的所有加油站都被摧毁后，地方当局开始直接用公路油罐车供油。"
+    },
+    {
+      "id": 103,
+      "startMs": 591820,
+      "endMs": 596220,
+      "en": "They keep changing the location to minimise the chances of being hit.",
+      "zh": "他们不断更换地点，以尽量降低遭到袭击的可能性。"
+    },
+    {
+      "id": 104,
+      "startMs": 596620,
+      "endMs": 601820,
+      "en": "And petrol station owners are also taking steps to protect their customers.",
+      "zh": "加油站经营者也在采取措施保护顾客。"
+    },
+    {
+      "id": 105,
+      "startMs": 602380,
+      "endMs": 609100,
+      "en": "Here's Oleksandr Melnychuk, an executive from a Ukrainian chain of petrol stations called BRSM-Nafta.",
+      "zh": "下面请听奥列克桑德尔·梅尔尼丘克的介绍，他是乌克兰连锁加油站BRSM-Nafta的高管。"
+    },
+    {
+      "id": 106,
+      "startMs": 609100,
+      "endMs": 617340,
+      "en": "The first thing we started doing is protecting fuel tanks that are not underground.",
+      "zh": "我们首先开始保护那些不在地下的储油罐。"
+    },
+    {
+      "id": 107,
+      "startMs": 617660,
+      "endMs": 623260,
+      "en": "Liquefied petroleum gas tanks are usually located on the ground, and that's what they are trying to hit.",
+      "zh": "液化石油气罐通常位于地面，这正是他们试图攻击的目标。"
+    },
+    {
+      "id": 108,
+      "startMs": 623580,
+      "endMs": 626400,
+      "en": "If they do, the explosion is going to be much bigger.",
+      "zh": "如果他们击中，爆炸会大得多。"
+    },
+    {
+      "id": 109,
+      "startMs": 626640,
+      "endMs": 630640,
+      "en": "That's why we're using sandbags or concrete blocks to cover such tanks.",
+      "zh": "所以我们用沙袋或混凝土块遮盖这类储罐。"
+    },
+    {
+      "id": 110,
+      "startMs": 630880,
+      "endMs": 634800,
+      "en": "We are also using anti-drone nets in all the cities near the frontline.",
+      "zh": "我们还在前线附近所有城市使用反无人机网。"
+    },
+    {
+      "id": 111,
+      "startMs": 635120,
+      "endMs": 639760,
+      "en": "It will help against smaller drones, but it's useless against the heavy ones, such as Shaheds.",
+      "zh": "这有助于防范小型无人机，但对沙赫德这类重型无人机毫无用处。"
+    },
+    {
+      "id": 112,
+      "startMs": 640400,
+      "endMs": 646800,
+      "en": "Russian airstrikes against Ukrainian petrol stations have so far failed to cause fuel shortages,",
+      "zh": "俄罗斯对乌克兰加油站的空袭目前尚未造成燃油短缺，"
+    },
+    {
+      "id": 113,
+      "startMs": 647200,
+      "endMs": 652560,
+      "en": "but they are yet another way of increasing pressure on the embattled country.",
+      "zh": "但它们又成为向这个饱受战火的国家施压的方式。"
+    },
+    {
+      "id": 114,
+      "startMs": 653040,
+      "endMs": 654880,
+      "en": "Vitaliy Shevchenko with that report.",
+      "zh": "维塔利·舍甫琴科报道。"
+    },
+    {
+      "id": 115,
+      "startMs": 654880,
+      "endMs": 659220,
+      "en": "Tributes from across the world have been paid to Dolly Parton, who's died at the age of 80.",
+      "zh": "世界各地纷纷悼念享年 80 岁的 Dolly Parton。"
+    },
+    {
+      "id": 116,
+      "startMs": 659780,
+      "endMs": 666500,
+      "en": "During her career, she released nearly 50 albums and sold more than 100 million records over more than six decades.",
+      "zh": "在她的职业生涯中，她发行了近 50 张专辑，并在六十多年里卖出超过 1 亿张唱片。"
+    },
+    {
+      "id": 117,
+      "startMs": 666980,
+      "endMs": 672420,
+      "en": "Elton John said she was a giant of an artist, unique and irreplaceable, with the kindest heart.",
+      "zh": "Elton John 说，她是一位伟大、独一无二且无可替代的艺术家，拥有最善良的心。"
+    },
+    {
+      "id": 118,
+      "startMs": 672980,
+      "endMs": 680260,
+      "en": "Taylor Swift praised Dolly Parton's generosity and said she'd changed countless lives for the better as a singer and philanthropist.",
+      "zh": "Taylor Swift 称赞 Dolly Parton 的慷慨，说她作为歌手和慈善家让无数人的生活变得更好。"
+    },
+    {
+      "id": 119,
+      "startMs": 680820,
+      "endMs": 683220,
+      "en": "Fans gathered at her star on Hollywood Boulevard.",
+      "zh": "歌迷聚集在她位于好莱坞大道的星形奖章旁。"
+    },
+    {
+      "id": 120,
+      "startMs": 683620,
+      "endMs": 686100,
+      "en": "This is a devastating loss.",
+      "zh": "这真是令人痛心的损失。"
+    },
+    {
+      "id": 121,
+      "startMs": 686202,
+      "endMs": 693780,
+      "en": "Dolly Parton truly is an important person and will forever be in our hearts, definitely.",
+      "zh": "Dolly Parton 确实是一位重要人物，也一定会永远留在我们心中。"
+    },
+    {
+      "id": 122,
+      "startMs": 693780,
+      "endMs": 695140,
+      "en": "Dolly was everything to me.",
+      "zh": "Dolly 对我来说就是一切。"
+    },
+    {
+      "id": 123,
+      "startMs": 695140,
+      "endMs": 700900,
+      "en": "Everybody was calling me when she passed away—my sisters and my best friend.",
+      "zh": "她去世时，姐妹们和我最好的朋友都打电话给我。"
+    },
+    {
+      "id": 124,
+      "startMs": 701220,
+      "endMs": 702820,
+      "en": "She was like an angel on Earth.",
+      "zh": "她就像人间天使。"
+    },
+    {
+      "id": 125,
+      "startMs": 703300,
+      "endMs": 705140,
+      "en": "She was too good for this world.",
+      "zh": "她太善良，不属于这个世界。"
+    },
+    {
+      "id": 126,
+      "startMs": 708020,
+      "endMs": 713540,
+      "en": "She taught me how to just be myself, how to just have fun and not care what people think.",
+      "zh": "她教会我做自己、尽情享受，不要在意别人怎么想。"
+    },
+    {
+      "id": 127,
+      "startMs": 714180,
+      "endMs": 721220,
+      "en": "Fellow Tennessee singer and rapper Jelly Roll also paid tribute to Dolly Parton, saying she might be the last American everyone liked.",
+      "zh": "田纳西歌手兼说唱歌手 Jelly Roll 也悼念 Dolly Parton，说她或许是最后一位人人都喜欢的美国人。"
+    },
+    {
+      "id": 128,
+      "startMs": 721700,
+      "endMs": 727140,
+      "en": "Our correspondent Helena Humphrey is in Dolly Parton's home state of Tennessee, from where she gave us this update.",
+      "zh": "我们的记者 Helena Humphrey 目前在 Dolly Parton 的家乡田纳西州，并从那里发回报道。"
+    },
+    {
+      "id": 129,
+      "startMs": 727300,
+      "endMs": 729700,
+      "en": "We've been here since yesterday evening.",
+      "zh": "我们从昨晚开始一直在这里。"
+    },
+    {
+      "id": 130,
+      "startMs": 730020,
+      "endMs": 733540,
+      "en": "Locals, tourists alike, coming here to Nashville.",
+      "zh": "当地人和游客纷纷来到纳什维尔。"
+    },
+    {
+      "id": 131,
+      "startMs": 733540,
+      "endMs": 738820,
+      "en": "This is the city where Dolly Parton arrived at the tender age of 18.",
+      "zh": "这座城市就是 Dolly Parton 18 岁时来到的地方。"
+    },
+    {
+      "id": 132,
+      "startMs": 738980,
+      "endMs": 744500,
+      "en": "One day after graduating from high school, to make her name in the music industry...",
+      "zh": "高中毕业后的第二天，她来到这里，在音乐界闯出名堂。"
+    },
+    {
+      "id": 133,
+      "startMs": 744500,
+      "endMs": 748740,
+      "en": "Here we're just a stone's throw away from the honky-tonk bars,",
+      "zh": "我们离 honky-tonk 酒吧只有一步之遥，"
+    },
+    {
+      "id": 134,
+      "startMs": 748740,
+      "endMs": 755380,
+      "en": "But, you know, away from that kind of noise of the music scene, here a sense of quiet reflection.",
+      "zh": "但你知道，远离那种音乐场景的喧嚣，这里是一片安静的沉思之地。"
+    },
+    {
+      "id": 135,
+      "startMs": 755380,
+      "endMs": 759140,
+      "en": "I'm outside the Country Music Hall of Fame.",
+      "zh": "我就在乡村音乐名人堂外。"
+    },
+    {
+      "id": 136,
+      "startMs": 759620,
+      "endMs": 761940,
+      "en": "Dolly Parton's star is just behind me.",
+      "zh": "Dolly Parton 的星形奖章就在我身后。"
+    },
+    {
+      "id": 137,
+      "startMs": 762260,
+      "endMs": 765940,
+      "en": "Around it, flowers, candles in tribute.",
+      "zh": "周围摆满鲜花和蜡烛，以示悼念。"
+    },
+    {
+      "id": 138,
+      "startMs": 765940,
+      "endMs": 767380,
+      "en": "Her star is right at the centre,",
+      "zh": "她的星形奖章就在正中央，"
+    },
+    {
+      "id": 139,
+      "startMs": 767480,
+      "endMs": 774600,
+      "en": "surrounded by other country music stars who have been inducted into the Hall of Fame.",
+      "zh": "周围是其他已入选乡村音乐名人堂的明星。"
+    },
+    {
+      "id": 140,
+      "startMs": 774600,
+      "endMs": 782760,
+      "en": "And in terms of who's been coming down here, what's so striking is that she has reached across generations, across political divides.",
+      "zh": "至于来到这里的人群，最引人注目的是，她跨越了世代和政治分歧。"
+    },
+    {
+      "id": 141,
+      "startMs": 782760,
+      "endMs": 789960,
+      "en": "Last night when we arrived, we found seven-year-old Nash. He had his violin with him, or as he refers to it, his fiddle.",
+      "zh": "昨晚我们抵达时，遇到了七岁的纳什。他带着小提琴，或者按他的说法，是他的提琴。"
+    },
+    {
+      "id": 142,
+      "startMs": 789960,
+      "endMs": 793080,
+      "en": "And he wanted to play her song Coat of Many Colors.",
+      "zh": "他想演奏她的歌曲《Coat of Many Colors》。"
+    },
+    {
+      "id": 143,
+      "startMs": 793160,
+      "endMs": 801720,
+      "en": "That's the song about growing up poor in rural Tennessee that she wrote, and it spoke to, it speaks to so many people here in Tennessee.",
+      "zh": "那首歌讲述她在田纳西乡村贫困中长大，是她创作的；它曾打动、也正在打动这里许多田纳西人。"
+    },
+    {
+      "id": 144,
+      "startMs": 801720,
+      "endMs": 807320,
+      "en": "People mention Jolene, they mention I Will Always Love You, but that's the one that they keep coming back to.",
+      "zh": "人们会提到《Jolene》和《I Will Always Love You》，但他们总会反复提到这一首。"
+    },
+    {
+      "id": 145,
+      "startMs": 807320,
+      "endMs": 815240,
+      "en": "I also met teenagers wearing their sparkly rhinestone cowboy boots, the kind of boots, of course, that Dolly had worn.",
+      "zh": "我还遇到一些穿着闪亮水钻牛仔靴的青少年，当然，那正是多莉穿过的那种靴子。"
+    },
+    {
+      "id": 146,
+      "startMs": 815400,
+      "endMs": 822920,
+      "en": "Just so many people coming out, paying tribute, not just to her music and those brilliant words but beyond that, the brilliant deeds as well.",
+      "zh": "有这么多人走出来悼念她，不仅是悼念她的音乐和那些精彩的歌词，更是悼念她杰出的善举。"
+    },
+    {
+      "id": 147,
+      "startMs": 823240,
+      "endMs": 829820,
+      "en": "She was also a philanthropist and gave back so much to her community.",
+      "zh": "她也是一位慈善家，为自己的社区回馈了许多。"
+    },
+    {
+      "id": 148,
+      "startMs": 829820,
+      "endMs": 833500,
+      "en": "You know, this is just a taste of the memorial that's going on here today.",
+      "zh": "你看，这只是今天这里纪念活动的一小部分。"
+    },
+    {
+      "id": 149,
+      "startMs": 833580,
+      "endMs": 845980,
+      "en": "She'd always been so proud to come from Tennessee, and I think this state today is proud to remember someone who achieved so much with such kindness and grace.",
+      "zh": "她一直为自己来自田纳西而自豪，我想今天这个州也为纪念这位以善良和优雅成就非凡事业的人而自豪。"
+    },
+    {
+      "id": 150,
+      "startMs": 846540,
+      "endMs": 857180,
+      "en": "And Helena, I guess there'll be sadness, but will people also celebrate Dolly's life and share wonderful memories of her achievements?",
+      "zh": "海伦娜，我想人们会非常悲伤，但也会有人庆祝多莉的一生，分享关于她和她成就的美好回忆吗？"
+    },
+    {
+      "id": 151,
+      "startMs": 857260,
+      "endMs": 865660,
+      "en": "Absolutely, so many people I have met here have been sad, of course, but they have these wonderful memories of her.",
+      "zh": "当然，我在这里遇到的很多人都很悲伤，但他们拥有关于她的美好回忆。"
+    },
+    {
+      "id": 152,
+      "startMs": 865660,
+      "endMs": 873020,
+      "en": "I met one local journalist on the music scene last night who said, \"Look, I met her once and I had a chat with her about my daughter, Charlotte.\"",
+      "zh": "昨晚我遇到一位当地音乐记者，她说：“我曾见过她一次，还和她聊过我的女儿夏洛特。”"
+    },
+    {
+      "id": 153,
+      "startMs": 873020,
+      "endMs": 877420,
+      "en": "I met her again a year later. The first thing she said was, \"How's your daughter, Charlotte?\"",
+      "zh": "一年后我又遇到了她。她对我说的第一句话是：“你的女儿夏洛特怎么样？”"
+    },
+    {
+      "id": 154,
+      "startMs": 877420,
+      "endMs": 882300,
+      "en": "She touched so many people with that personal, warm approach.",
+      "zh": "她以那种亲切温暖的待人方式打动了许多人。"
+    },
+    {
+      "id": 155,
+      "startMs": 882300,
+      "endMs": 887500,
+      "en": "And I think people are celebrating. People have been playing her music, as you can imagine.",
+      "zh": "我想人们正在庆祝。你可以想象，大家一直在播放她的音乐。"
+    },
+    {
+      "id": 156,
+      "startMs": 887520,
+      "endMs": 896240,
+      "en": "People are coming past with boomboxes, playing country music. As I said, there's that little boy Nash with his fiddle.",
+      "zh": "人们带着音箱、播放乡村音乐从这里经过；正如我所说，还有那个带着提琴的小男孩纳什。"
+    },
+    {
+      "id": 157,
+      "startMs": 896560,
+      "endMs": 901600,
+      "en": "So I think it will be a moment of reflection but also great celebration as well.",
+      "zh": "所以我认为，这将是反思的时刻，也会是盛大的庆祝。"
+    },
+    {
+      "id": 158,
+      "startMs": 902080,
+      "endMs": 908400,
+      "en": "This is about memorializing a daughter of Tennessee who went on to accomplish so much on a global stage.",
+      "zh": "这是在纪念一位田纳西的女儿，她后来在全球舞台上取得了非凡成就。"
+    },
+    {
+      "id": 159,
+      "startMs": 908720,
+      "endMs": 910080,
+      "en": "Helena Humphrey in Nashville.",
+      "zh": "海伦娜·汉弗莱在纳什维尔报道。"
+    },
+    {
+      "id": 160,
+      "startMs": 912720,
+      "endMs": 918480,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部内容。如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 161,
+      "startMs": 918640,
+      "endMs": 923680,
+      "en": "And you can also watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "你也可以在 YouTube 上观看完整节目，只需搜索《Global News Podcast》。"
+    },
+    {
+      "id": 162,
+      "startMs": 924240,
+      "endMs": 930400,
+      "en": "This edition was mixed by Syd Dungan. The producer was Alfie Habershon, and the editor is Karen Martin.",
+      "zh": "本期由 Syd Dungan 混音，制作人是 Alfie Habershon，编辑是 Karen Martin。"
+    },
+    {
+      "id": 163,
+      "startMs": 930400,
+      "endMs": 933040,
+      "en": "and I am Ankur Desai. Until next time, goodbye.",
+      "zh": "我是安库尔·德赛。下次再见。"
+    }
+  ]
+}

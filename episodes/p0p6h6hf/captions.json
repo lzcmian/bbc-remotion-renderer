@@ -1,0 +1,1894 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "27 August 2026"
+  },
+  "durationMs": 1472620,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4560,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 7560,
+      "endMs": 12680,
+      "en": "I'm Will Chalk and in the early hours of Thursday the 27th of August, these are our main stories.",
+      "zh": "我是 Will Chalk。现在是8月27日星期四凌晨，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 13080,
+      "endMs": 20920,
+      "en": "Meta agrees to a multi-billion-dollar settlement over claims brought by a number of US states that its social media platforms harm children.",
+      "zh": "Meta 就多州提出的诉讼达成数十亿美元和解，这些州指控其社交媒体平台伤害儿童。"
+    },
+    {
+      "id": 4,
+      "startMs": 21640,
+      "endMs": 27640,
+      "en": "The world's most valuable company, Nvidia, which creates microchips for AI, sees a boom in revenue.",
+      "zh": "全球市值最高的公司、为人工智能制造芯片的英伟达，营收迎来繁荣增长。"
+    },
+    {
+      "id": 5,
+      "startMs": 27640,
+      "endMs": 31160,
+      "en": "Plus, they started shooting indiscriminately.",
+      "zh": "此外，他们开始不分青红皂白地开枪。"
+    },
+    {
+      "id": 6,
+      "startMs": 31800,
+      "endMs": 34520,
+      "en": "If you run into a room, they set the room on fire.",
+      "zh": "如果你跑进一个房间，他们就放火烧房。"
+    },
+    {
+      "id": 7,
+      "startMs": 34920,
+      "endMs": 37480,
+      "en": "If you come out and start running, they shoot you.",
+      "zh": "如果你出来逃跑，他们就开枪打你。"
+    },
+    {
+      "id": 8,
+      "startMs": 37960,
+      "endMs": 42680,
+      "en": "How bandits are running rampant and terrorising residents in north-west Nigeria.",
+      "zh": "匪徒如何在尼日利亚西北部横行，令居民生活在恐惧之中。"
+    },
+    {
+      "id": 9,
+      "startMs": 42680,
+      "endMs": 47720,
+      "en": "And we'll look back at the life of one of the leading figures in Palestinian art, Sliman Mansour.",
+      "zh": "我们还将回顾巴勒斯坦艺术界领军人物之一、艺术家 Sliman Mansour 的一生。"
+    },
+    {
+      "id": 10,
+      "startMs": 54520,
+      "endMs": 62520,
+      "en": "$18 billion, the amount Meta, which owns Facebook and Instagram, has agreed to pay a group of US states that had accused it of harming children.",
+      "zh": "Meta 同意向一批指控其伤害儿童的美国州政府支付180亿美元；Meta 拥有 Facebook 和 Instagram。"
+    },
+    {
+      "id": 11,
+      "startMs": 63080,
+      "endMs": 66760,
+      "en": "The company's also agreed to bring in changes to better protect young people.",
+      "zh": "该公司还同意进行改革，更好地保护年轻人。"
+    },
+    {
+      "id": 12,
+      "startMs": 67080,
+      "endMs": 71240,
+      "en": "Crucially though, as part of this deal, the company has admitted no wrongdoing.",
+      "zh": "但关键是，作为协议的一部分，该公司没有承认有任何不当行为。"
+    },
+    {
+      "id": 13,
+      "startMs": 71640,
+      "endMs": 76040,
+      "en": "And the deal also brings to an end early a high-profile trial in California.",
+      "zh": "这项协议还让加州一宗备受关注的审判提前结束。"
+    },
+    {
+      "id": 14,
+      "startMs": 76120,
+      "endMs": 83560,
+      "en": "In that trial, lawyers for the states were arguing that Meta knew millions of 11- and 12-year-olds used their sites, but did little to keep them off.",
+      "zh": "在这场审判中，各州律师主张，Meta 知道数百万名11岁和12岁的孩子在使用其网站，却几乎没有采取措施阻止他们使用。"
+    },
+    {
+      "id": 15,
+      "startMs": 83960,
+      "endMs": 89720,
+      "en": "Our North America correspondent, Lily Jamali, sent this report from the Federal Courthouse in Oakland, California.",
+      "zh": "我们的北美记者 Lily Jamali 从加利福尼亚州奥克兰的联邦法院发来报道。"
+    },
+    {
+      "id": 16,
+      "startMs": 90120,
+      "endMs": 94840,
+      "en": "Multiple states had sued Meta alleging it deliberately designed its platforms to be addictive,",
+      "zh": "多个州起诉 Meta，指控它故意将平台设计得容易让人上瘾，"
+    },
+    {
+      "id": 17,
+      "startMs": 94920,
+      "endMs": 100280,
+      "en": "then misled the public about how problematic apps like Instagram and Facebook are for young users.",
+      "zh": "随后又误导公众，不说明 Instagram 和 Facebook 等应用会给年轻用户带来多大问题。"
+    },
+    {
+      "id": 18,
+      "startMs": 100680,
+      "endMs": 105880,
+      "en": "The company had also been accused of improperly harvesting the data of young users without parental consent.",
+      "zh": "该公司还被指控未经家长同意，不当收集年轻用户的数据。"
+    },
+    {
+      "id": 19,
+      "startMs": 106200,
+      "endMs": 110520,
+      "en": "California's Attorney General Rob Bonta described the settlement as a watershed moment.",
+      "zh": "加州总检察长 Rob Bonta 将这项和解称为一个里程碑时刻。"
+    },
+    {
+      "id": 20,
+      "startMs": 110680,
+      "endMs": 115980,
+      "en": "This is a significant victory for families across the country, for parents, for children.",
+      "zh": "这对全国各地的家庭、父母和孩子来说，都是一次重大胜利。"
+    },
+    {
+      "id": 21,
+      "startMs": 116380,
+      "endMs": 120620,
+      "en": "This is a major breakthrough, a milestone moment, a watershed moment.",
+      "zh": "这是一次重大突破，是里程碑式的时刻，是一个转折点。"
+    },
+    {
+      "id": 22,
+      "startMs": 120700,
+      "endMs": 125100,
+      "en": "We believe the proposed settlement filed today addresses some of the concerns at the core of our lawsuit,",
+      "zh": "我们认为，今天提交的拟议和解回应了诉讼核心的一些关切，"
+    },
+    {
+      "id": 23,
+      "startMs": 125100,
+      "endMs": 131100,
+      "en": "and that it will force transformative changes necessary to protect our children.",
+      "zh": "并将迫使相关方面进行必要的变革，以保护我们的孩子。"
+    },
+    {
+      "id": 24,
+      "startMs": 131420,
+      "endMs": 134700,
+      "en": "And importantly, these changes will be made within months.",
+      "zh": "重要的是，这些改变将在数月内实现。"
+    },
+    {
+      "id": 25,
+      "startMs": 134780,
+      "endMs": 138540,
+      "en": "As part of this settlement, the company is set to pay up to $17.1 billion.",
+      "zh": "作为和解的一部分，该公司将支付最高171亿美元。"
+    },
+    {
+      "id": 26,
+      "startMs": 139740,
+      "endMs": 145180,
+      "en": "It's also agreeing to a framework for change, including two-hour daily limits for teens on their apps,",
+      "zh": "公司还同意一套改革框架，包括每天限制青少年使用其应用两小时，"
+    },
+    {
+      "id": 27,
+      "startMs": 145500,
+      "endMs": 149900,
+      "en": "as well as Night Mode and School Mode with muted notifications during those times.",
+      "zh": "以及夜间模式和上学模式，在这些时段关闭通知。"
+    },
+    {
+      "id": 28,
+      "startMs": 150220,
+      "endMs": 153420,
+      "en": "Meta has not accepted any wrongdoing as part of this settlement.",
+      "zh": "Meta 没有在这项和解中承认有任何不当行为。"
+    },
+    {
+      "id": 29,
+      "startMs": 153740,
+      "endMs": 159100,
+      "en": "Matthew Bergman is a lawyer who represented a young woman who won a case against the company earlier this year.",
+      "zh": "Matthew Bergman 是一名律师，他代理的一名年轻女性今年早些时候赢得了针对该公司的诉讼。"
+    },
+    {
+      "id": 30,
+      "startMs": 159260,
+      "endMs": 163420,
+      "en": "Their actions in agreeing to this monumental financial amount,",
+      "zh": "他们同意支付这笔巨额款项，"
+    },
+    {
+      "id": 31,
+      "startMs": 163420,
+      "endMs": 170860,
+      "en": "but even more importantly, agreeing to make common-sense changes to its design to make it safer for kids,",
+      "zh": "但更重要的是，同意对产品设计进行常识性的改变，让孩子使用起来更安全，"
+    },
+    {
+      "id": 32,
+      "startMs": 171180,
+      "endMs": 174220,
+      "en": "speaks volumes in terms of their accountability",
+      "zh": "这充分体现了他们应负的责任，"
+    },
+    {
+      "id": 33,
+      "startMs": 173600,
+      "endMs": 178880,
+      "en": "and their acknowledgement of their role in contributing to the youth mental-health crisis.",
+      "zh": "也表明他们承认自己在加剧青少年心理健康危机中所起的作用。"
+    },
+    {
+      "id": 34,
+      "startMs": 178880,
+      "endMs": 180720,
+      "en": "But this settlement is a first step.",
+      "zh": "但这项和解只是第一步。"
+    },
+    {
+      "id": 35,
+      "startMs": 180960,
+      "endMs": 186640,
+      "en": "The company wants to see competitors including Google's YouTube and TikTok agree to daily time limits as well.",
+      "zh": "该公司希望包括 Google 旗下 YouTube 和 TikTok 在内的竞争对手也同意实行每日使用时长限制。"
+    },
+    {
+      "id": 36,
+      "startMs": 186960,
+      "endMs": 191120,
+      "en": "They don't want to be at a competitive disadvantage. Lily Jamali there.",
+      "zh": "他们不想在竞争中处于劣势。以上是 Lily Jamali 的报道。"
+    },
+    {
+      "id": 37,
+      "startMs": 191280,
+      "endMs": 196800,
+      "en": "Now, this settlement comes after years of campaigning from parents around safety on social media platforms.",
+      "zh": "这项和解是在家长们围绕社交媒体平台安全问题开展多年倡议之后达成的。"
+    },
+    {
+      "id": 38,
+      "startMs": 197200,
+      "endMs": 200800,
+      "en": "Amy Neville is the co-founder of Social Media Victims Remembrance Day.",
+      "zh": "Amy Neville 是“社交媒体受害者纪念日”的共同创办人。"
+    },
+    {
+      "id": 39,
+      "startMs": 201520,
+      "endMs": 203920,
+      "en": "This is historic. This is a really big moment.",
+      "zh": "这是历史性的一刻，是一个非常重要的时刻。"
+    },
+    {
+      "id": 40,
+      "startMs": 204320,
+      "endMs": 206960,
+      "en": "But let's not give Meta credit for these changes.",
+      "zh": "但我们不要把这些改变归功于 Meta。"
+    },
+    {
+      "id": 41,
+      "startMs": 206960,
+      "endMs": 209600,
+      "en": "They certainly did not volunteer to make any design changes.",
+      "zh": "这些设计改变绝不是 Meta 主动提出要做的。"
+    },
+    {
+      "id": 42,
+      "startMs": 209600,
+      "endMs": 213760,
+      "en": "This is being forced upon them. That's been brought to court by 29 AGs.",
+      "zh": "这是被迫施加给他们的，是由29名州总检察长诉诸法院后促成的。"
+    },
+    {
+      "id": 43,
+      "startMs": 213760,
+      "endMs": 216560,
+      "en": "There's no apology with this.",
+      "zh": "这件事没有任何道歉。"
+    },
+    {
+      "id": 44,
+      "startMs": 216720,
+      "endMs": 220000,
+      "en": "And this is the beginning of the fight. We're still in the early stages of this fight.",
+      "zh": "这只是斗争的开始，我们仍处于这场斗争的早期阶段。"
+    },
+    {
+      "id": 45,
+      "startMs": 220000,
+      "endMs": 222560,
+      "en": "This is definitely not the end of the fight for accountability.",
+      "zh": "这绝对不是追究责任之战的终点。"
+    },
+    {
+      "id": 46,
+      "startMs": 222880,
+      "endMs": 229920,
+      "en": "We lost our son Alexander in June of 2020 to fentanyl poisoning after being groomed by a drug dealer on Snapchat.",
+      "zh": "我们的儿子亚历山大在2020年6月因芬太尼中毒去世，此前他曾在 Snapchat 上被毒贩诱骗。"
+    },
+    {
+      "id": 47,
+      "startMs": 230080,
+      "endMs": 234740,
+      "en": "But going back to this case, how are predators still not going to reach our kids? That part's not clear.",
+      "zh": "回到这个案件，今后又要如何防止掠食者接触我们的孩子？这一点并不清楚。"
+    },
+    {
+      "id": 48,
+      "startMs": 235060,
+      "endMs": 239700,
+      "en": "You know, we're talking about the addictive design features that they're going to fix, supposedly,",
+      "zh": "你知道，我们说的是他们据称要修复的、会让人上瘾的设计功能，"
+    },
+    {
+      "id": 49,
+      "startMs": 239700,
+      "endMs": 244020,
+      "en": "which will need to go through rigorous testing to really see if they amount to anything.",
+      "zh": "还需要经过严格测试，才能真正看出这些修复是否有用。"
+    },
+    {
+      "id": 50,
+      "startMs": 244100,
+      "endMs": 246260,
+      "en": "But what's going to keep the predators away from our kids?",
+      "zh": "但究竟怎样才能让掠食者远离我们的孩子？"
+    },
+    {
+      "id": 51,
+      "startMs": 246580,
+      "endMs": 249620,
+      "en": "Let's get the perspective of Arturo Béjar, a former Meta insider",
+      "zh": "我们来听听前 Meta 内部人士阿图罗·贝哈尔的看法，"
+    },
+    {
+      "id": 52,
+      "startMs": 249620,
+      "endMs": 254980,
+      "en": "who turned whistleblower because he was concerned about the company's handling of child safety.",
+      "zh": "他因担心公司处理儿童安全问题的方式而成为吹哨人。"
+    },
+    {
+      "id": 53,
+      "startMs": 255540,
+      "endMs": 259140,
+      "en": "During his time at the social media firm, he worked to combat cyberbullying.",
+      "zh": "在这家社交媒体公司任职期间，他曾致力于打击网络欺凌。"
+    },
+    {
+      "id": 54,
+      "startMs": 259460,
+      "endMs": 260980,
+      "en": "So what does he think of this settlement?",
+      "zh": "那么，他如何看待这项和解？"
+    },
+    {
+      "id": 55,
+      "startMs": 261540,
+      "endMs": 266100,
+      "en": "It should not be interpreted as an all-clear sign by parents or public officials,",
+      "zh": "家长或政府官员不应把它解读为一切安好的信号，"
+    },
+    {
+      "id": 56,
+      "startMs": 266260,
+      "endMs": 271380,
+      "en": "because while the settlement addresses a number of things, there's some significant problems which remain.",
+      "zh": "因为虽然和解涉及一些问题，但仍有若干重大问题没有解决。"
+    },
+    {
+      "id": 57,
+      "startMs": 271700,
+      "endMs": 274100,
+      "en": "It requires the other companies to join in,",
+      "zh": "它要求其他公司加入，"
+    },
+    {
+      "id": 58,
+      "startMs": 274660,
+      "endMs": 279860,
+      "en": "but then another part which is also critical is that it allows Meta to define harm.",
+      "zh": "但另一个同样关键的问题是，它允许 Meta 定义什么算作伤害。"
+    },
+    {
+      "id": 59,
+      "startMs": 280100,
+      "endMs": 285780,
+      "en": "And behind my whistleblowing was this internal knowledge that Mark Zuckerberg knew",
+      "zh": "而我选择吹哨的背后，是公司内部知道马克·扎克伯格也知道这一事实："
+    },
+    {
+      "id": 60,
+      "startMs": 286180,
+      "endMs": 293620,
+      "en": "that the harm that the company was reporting publicly was 100 to 400 times less than what they knew people were experiencing.",
+      "zh": "公司对外公布的伤害程度，比他们知道人们实际遭受的伤害低了100到400倍。"
+    },
+    {
+      "id": 61,
+      "startMs": 293640,
+      "endMs": 297160,
+      "en": "Especially young people: suicide, all these kinds of things,",
+      "zh": "尤其是年轻人遭遇的自杀等各种情况，"
+    },
+    {
+      "id": 62,
+      "startMs": 297160,
+      "endMs": 301320,
+      "en": "and the agreement as it stands does not make that better.",
+      "zh": "而按目前的协议，这些情况并不会因此改善。"
+    },
+    {
+      "id": 63,
+      "startMs": 301320,
+      "endMs": 303800,
+      "en": "It could. There are still things that can happen,",
+      "zh": "它本可以改善；事情仍可能有转机，"
+    },
+    {
+      "id": 64,
+      "startMs": 303960,
+      "endMs": 306440,
+      "en": "but our kids will not be any safer.",
+      "zh": "但我们的孩子不会因此更安全。"
+    },
+    {
+      "id": 65,
+      "startMs": 306760,
+      "endMs": 308840,
+      "en": "They'll just get less exposure to things.",
+      "zh": "他们只会少接触一些东西。"
+    },
+    {
+      "id": 66,
+      "startMs": 309160,
+      "endMs": 317320,
+      "en": "The features that Meta has touted as its safety commitments are mostly theatre, which can be independently tested and verified.",
+      "zh": "Meta 吹嘘为安全承诺的功能大多只是作秀，而这一点可以通过独立测试和验证来确认。"
+    },
+    {
+      "id": 67,
+      "startMs": 317320,
+      "endMs": 322040,
+      "en": "And so, ultimately, the grade that Meta should be given",
+      "zh": "所以，归根结底，给 Meta 的评价"
+    },
+    {
+      "id": 68,
+      "startMs": 322360,
+      "endMs": 325000,
+      "en": "should not be based on what they claim their efforts are,",
+      "zh": "不应依据他们声称做出的努力，"
+    },
+    {
+      "id": 69,
+      "startMs": 325000,
+      "endMs": 331240,
+      "en": "but by the measurement of the impact that they've had on the harm reduction that young people are experiencing.",
+      "zh": "而应依据这些努力对减少年轻人所遭受伤害产生的实际影响。"
+    },
+    {
+      "id": 70,
+      "startMs": 331720,
+      "endMs": 338200,
+      "en": "And until that is happening, in any country that's thinking about this, our kids are not going to be any safer.",
+      "zh": "在这一点实现之前，无论哪个国家在考虑此事，我们的孩子都不会更安全。"
+    },
+    {
+      "id": 71,
+      "startMs": 338600,
+      "endMs": 341640,
+      "en": "And that's what really should matter in the way that this is approached.",
+      "zh": "这才是处理这件事时真正应该关注的重点。"
+    },
+    {
+      "id": 72,
+      "startMs": 342120,
+      "endMs": 344440,
+      "en": "That was former Meta employee Arturo Béjar.",
+      "zh": "以上是 Meta 前员工阿图罗·贝哈尔。"
+    },
+    {
+      "id": 73,
+      "startMs": 344440,
+      "endMs": 347160,
+      "en": "Now, we should tell you, a Meta spokesperson says",
+      "zh": "现在需要说明的是，Meta 发言人称，"
+    },
+    {
+      "id": 74,
+      "startMs": 347160,
+      "endMs": 354300,
+      "en": "the company works hard to keep people safe on its platforms and has been transparent about the challenges of removing harmful content.",
+      "zh": "公司努力保障用户在其平台上的安全，并且一直如实说明移除有害内容所面临的挑战。"
+    },
+    {
+      "id": 75,
+      "startMs": 354940,
+      "endMs": 360540,
+      "en": "Well, let's move on from the difficulties of one tech giant to the seemingly never-ending good fortunes of another.",
+      "zh": "好，我们从一家科技巨头的困境，转向另一家似乎好运不断的科技巨头。"
+    },
+    {
+      "id": 76,
+      "startMs": 361100,
+      "endMs": 367020,
+      "en": "The expansion of the world's already most valuable company, Nvidia, is showing no signs of slowing down.",
+      "zh": "全球市值最高的公司 Nvidia 仍在扩张，势头丝毫没有放缓的迹象。"
+    },
+    {
+      "id": 77,
+      "startMs": 367500,
+      "endMs": 371420,
+      "en": "The firm, which makes the chips for companies such as Amazon and Microsoft,",
+      "zh": "这家公司为亚马逊和微软等企业制造芯片，"
+    },
+    {
+      "id": 78,
+      "startMs": 371420,
+      "endMs": 377020,
+      "en": "that are used to power AI data centres, has reported better-than-forecast quarterly revenue,",
+      "zh": "这些芯片用于驱动人工智能数据中心；公司公布的季度营收高于预期，"
+    },
+    {
+      "id": 79,
+      "startMs": 377180,
+      "endMs": 383340,
+      "en": "with CEO Jensen Huang saying the industry's running at full steam. Our business editor, Simon Jack, told me more.",
+      "zh": "首席执行官黄仁勋说，这个行业正全速运行。我们的商业编辑西蒙·杰克进一步介绍了情况。"
+    },
+    {
+      "id": 80,
+      "startMs": 384140,
+      "endMs": 392140,
+      "en": "So, they made $96 billion in the three months to the end of July, which is about double what they made in the same period a year ago.",
+      "zh": "他们截至7月底的三个月营收达到960亿美元，大约是去年同期的两倍。"
+    },
+    {
+      "id": 81,
+      "startMs": 393180,
+      "endMs": 397500,
+      "en": "And importantly, what people were looking for was what they're going to make in the future.",
+      "zh": "重要的是，人们关注的是他们未来能赚多少。"
+    },
+    {
+      "id": 82,
+      "startMs": 397660,
+      "endMs": 402300,
+      "en": "And they said in the next quarter they're going to make $108 billion, give or take one or 2%.",
+      "zh": "他们说，下一季度营收将达到1080亿美元，上下浮动一到两个百分点。"
+    },
+    {
+      "id": 83,
+      "startMs": 402940,
+      "endMs": 409020,
+      "en": "And at that point, when those numbers first came out in after-hours trading, the shares dropped a little bit",
+      "zh": "当这些数字最初在盘后交易中公布时，股价一度小幅下跌，"
+    },
+    {
+      "id": 84,
+      "startMs": 409100,
+      "endMs": 411660,
+      "en": "because even though these are wowee numbers,",
+      "zh": "因为尽管这些数字非常惊人，"
+    },
+    {
+      "id": 85,
+      "startMs": 411740,
+      "endMs": 414720,
+      "en": "they've got used to being totally incredible.",
+      "zh": "人们已经习惯了它们极其惊人的表现。"
+    },
+    {
+      "id": 86,
+      "startMs": 415280,
+      "endMs": 420480,
+      "en": "But then when Jensen Huang started talking to people on the call around these numbers,",
+      "zh": "但随后黄仁勋在围绕这些数字举行的电话会议上开始发言，"
+    },
+    {
+      "id": 87,
+      "startMs": 420560,
+      "endMs": 428000,
+      "en": "he started talking about a 70% increase in revenue by 2028, at which point the shares started going up again.",
+      "zh": "他谈到到2028年营收将增长70%，股价随即再次上涨。"
+    },
+    {
+      "id": 88,
+      "startMs": 428320,
+      "endMs": 435680,
+      "en": "And this is important because I would say that not only is Nvidia the most valuable company in the world,",
+      "zh": "这很重要，因为我认为 Nvidia 不仅是全球市值最高的公司，"
+    },
+    {
+      "id": 89,
+      "startMs": 436240,
+      "endMs": 439600,
+      "en": "it's got a fair claim to being the most important company in the world",
+      "zh": "也完全有理由被称为全球最重要的公司，"
+    },
+    {
+      "id": 90,
+      "startMs": 439600,
+      "endMs": 446720,
+      "en": "because it sits like a kind of sun in the middle of a solar system with all these other companies revolving around it,",
+      "zh": "因为它就像太阳系中央的太阳，其他公司都围绕着它运转，"
+    },
+    {
+      "id": 91,
+      "startMs": 446720,
+      "endMs": 453900,
+      "en": "because it supplies chips to the AI revolution, you know, it is the dominant player in that business.",
+      "zh": "因为它为人工智能革命供应芯片，是这个行业的主导者。"
+    },
+    {
+      "id": 92,
+      "startMs": 454460,
+      "endMs": 459980,
+      "en": "And of course, that is what is carrying the hopes and the fears of millions of people.",
+      "zh": "当然，这也承载着数百万人的希望与恐惧。"
+    },
+    {
+      "id": 93,
+      "startMs": 459980,
+      "endMs": 464060,
+      "en": "Some people think it'll revolutionize the world, some people think it'll ruin the world",
+      "zh": "有人认为它会改变世界，也有人认为它会毁掉世界，"
+    },
+    {
+      "id": 94,
+      "startMs": 464060,
+      "endMs": 465580,
+      "en": "in terms of, you know, taking jobs,",
+      "zh": "比如说，它会夺走人们的工作，"
+    },
+    {
+      "id": 95,
+      "startMs": 466460,
+      "endMs": 469980,
+      "en": "but people are worried about, at some point, does this bubble burst?",
+      "zh": "但人们担心，这个泡沫最终会不会破裂？"
+    },
+    {
+      "id": 96,
+      "startMs": 469980,
+      "endMs": 479100,
+      "en": "And I think that what happened tonight is that a little bit of air was blown back into that bubble and say, 'Actually, demand looks pretty strong, and so on we go.'",
+      "zh": "我认为今晚发生的事，是给这个泡沫吹回了一点空气：需求看起来相当强劲，我们继续前进。"
+    },
+    {
+      "id": 97,
+      "startMs": 479180,
+      "endMs": 484460,
+      "en": "But that's why people are so focused on Nvidia, because it's right at the centre of this AI revolution.",
+      "zh": "但这就是人们如此关注英伟达的原因，因为它正处于这场人工智能革命的核心。"
+    },
+    {
+      "id": 98,
+      "startMs": 484860,
+      "endMs": 489020,
+      "en": "It's not just at the centre, is it? Because it makes the chips that power everything.",
+      "zh": "它不只是处于核心，对吧？这是因为它制造的芯片为一切提供动力。"
+    },
+    {
+      "id": 99,
+      "startMs": 489020,
+      "endMs": 497420,
+      "en": "It's also right at the start of the supply chain, so people often use it as almost a bellwether to see where they think the AI industry is going.",
+      "zh": "它也正处于供应链的起点，所以人们常把它近乎当作风向标，观察人工智能行业的发展方向。"
+    },
+    {
+      "id": 100,
+      "startMs": 497420,
+      "endMs": 500060,
+      "en": "And based on this, it just seems: grow, grow, grow.",
+      "zh": "根据这些情况，趋势似乎就是：增长、增长、再增长。"
+    },
+    {
+      "id": 101,
+      "startMs": 500540,
+      "endMs": 503420,
+      "en": "That's right. I mean, demand seems to be incredibly strong.",
+      "zh": "没错。我的意思是，需求似乎强劲得惊人。"
+    },
+    {
+      "id": 102,
+      "startMs": 503820,
+      "endMs": 511440,
+      "en": "They supply chips to all the sort of hyperscalers, that's the name they give to people like Google's parent Alphabet, Amazon, Meta, et cetera.",
+      "zh": "他们向各类所谓的超大规模云服务商供应芯片，这个称呼指的是谷歌母公司 Alphabet、亚马逊、Meta 等。"
+    },
+    {
+      "id": 103,
+      "startMs": 512160,
+      "endMs": 515520,
+      "en": "And on these numbers, it looks like things are going pretty well.",
+      "zh": "从这些数字来看，情况似乎进展得相当不错。"
+    },
+    {
+      "id": 104,
+      "startMs": 515920,
+      "endMs": 524080,
+      "en": "Now, what people worry about, I guess, is that not only is Nvidia the biggest supplier of chips to these companies,",
+      "zh": "现在，人们担心的是，英伟达不仅是这些企业最大的芯片供应商，"
+    },
+    {
+      "id": 105,
+      "startMs": 524080,
+      "endMs": 531680,
+      "en": "it's also become, because of its riches and its incredible earning power, it's become almost like a private bank to some of these companies.",
+      "zh": "它还因为财富和惊人的赚钱能力，几乎成了其中一些企业的私人银行。"
+    },
+    {
+      "id": 106,
+      "startMs": 532160,
+      "endMs": 538080,
+      "en": "And so it's done quite a lot of, like, buying stakes or lending billions of dollars to its own customers,",
+      "zh": "因此，它做了很多类似购买股份或向自己的客户借出数十亿美元的操作，"
+    },
+    {
+      "id": 107,
+      "startMs": 538560,
+      "endMs": 543440,
+      "en": "which has made people get a bit nervous, because they think about circular financing.",
+      "zh": "这让人们有些紧张，因为他们想到的是循环融资。"
+    },
+    {
+      "id": 108,
+      "startMs": 543440,
+      "endMs": 551360,
+      "en": "If you're giving your customers the money to buy the stuff from you, given that people think they're going to be winners and losers in the AI race,",
+      "zh": "如果你实际上是在给客户钱，让他们来买你的产品，考虑到人们认为人工智能竞赛中会有赢家和输家，"
+    },
+    {
+      "id": 109,
+      "startMs": 551440,
+      "endMs": 554960,
+      "en": "if they all own stakes in each other, do the losers bring down the winners?",
+      "zh": "如果它们彼此都持有股份，输家会把赢家拖垮吗？"
+    },
+    {
+      "id": 110,
+      "startMs": 555040,
+      "endMs": 559200,
+      "en": "But on these numbers, I think those fears, for now, have been brushed aside.",
+      "zh": "但从这些数字来看，我认为这些担忧目前已经被打消了。"
+    },
+    {
+      "id": 111,
+      "startMs": 559360,
+      "endMs": 561280,
+      "en": "So, our business editor, Simon Jack.",
+      "zh": "我们的商业编辑西蒙·杰克带来报道。"
+    },
+    {
+      "id": 112,
+      "startMs": 561280,
+      "endMs": 565200,
+      "en": "On Tuesday, John Ratcliffe, the head of the CIA, travelled to Moscow.",
+      "zh": "周二，中央情报局局长约翰·拉特克利夫前往莫斯科。"
+    },
+    {
+      "id": 113,
+      "startMs": 565460,
+      "endMs": 574820,
+      "en": "On a military plane. Given he runs the US's spy agency, it's perhaps fitting we still don't know why he went, exactly who he met or what they discussed.",
+      "zh": "他乘坐的是一架军用飞机。鉴于他掌管美国间谍机构，也难怪我们仍不知道他为何前往、确切会见了谁，或讨论了什么。"
+    },
+    {
+      "id": 114,
+      "startMs": 575380,
+      "endMs": 579460,
+      "en": "But a day on, our Russia editor, Steve Rosenberg, takes a look at what we do know.",
+      "zh": "但一天之后，我们的俄罗斯编辑史蒂夫·罗森伯格来看看我们目前知道些什么。"
+    },
+    {
+      "id": 115,
+      "startMs": 580580,
+      "endMs": 587380,
+      "en": "It's a Moscow mystery that has the world scratching its head and wondering where Russia and the West are heading.",
+      "zh": "这是一个令全世界困惑的莫斯科谜团，人们想知道俄罗斯和西方将走向何方。"
+    },
+    {
+      "id": 116,
+      "startMs": 588100,
+      "endMs": 592340,
+      "en": "Unannounced, unexpected, there's been a high-level foreign visitor.",
+      "zh": "一位高级外国访客未作宣布、出人意料地到来了。"
+    },
+    {
+      "id": 117,
+      "startMs": 593160,
+      "endMs": 602120,
+      "en": "He kept well away from the cameras, but the military plane he flew on was spotted, arriving in Moscow and then leaving a few hours later.",
+      "zh": "他始终避开镜头，但他乘坐的军机被发现抵达莫斯科，几小时后又离开。"
+    },
+    {
+      "id": 118,
+      "startMs": 603040,
+      "endMs": 608320,
+      "en": "On board was John Ratcliffe, the head of America's Central Intelligence Agency.",
+      "zh": "机上是美国中央情报局局长约翰·拉特克利夫。"
+    },
+    {
+      "id": 119,
+      "startMs": 609220,
+      "endMs": 612740,
+      "en": "What was he doing in Russia? Who had he come to see?",
+      "zh": "他在俄罗斯做什么？他是来见谁的？"
+    },
+    {
+      "id": 120,
+      "startMs": 612740,
+      "endMs": 620100,
+      "en": "Not President Putin, Kremlin spokesman Dmitry Peskov says.",
+      "zh": "克里姆林宫发言人德米特里·佩斯科夫说：“不是普京总统。”"
+    },
+    {
+      "id": 121,
+      "startMs": 620100,
+      "endMs": 624180,
+      "en": "The CIA chief had been meeting Russian intelligence officials.",
+      "zh": "这位中情局局长一直在与俄罗斯情报官员会面。"
+    },
+    {
+      "id": 122,
+      "startMs": 624420,
+      "endMs": 628980,
+      "en": "And what did they talk about? I ask. Iran or Ukraine?",
+      "zh": "那他们谈了什么？我问道。伊朗还是乌克兰？"
+    },
+    {
+      "id": 123,
+      "startMs": 629620,
+      "endMs": 637380,
+      "en": "And amid fears that Moscow may try to test NATO's resolve, I also ask, did he deliver a warning to Russia?",
+      "zh": "而且，鉴于有人担心莫斯科可能试探北约的决心，我还问道：他是否向俄罗斯发出了警告？"
+    },
+    {
+      "id": 124,
+      "startMs": 637380,
+      "endMs": 642980,
+      "en": "Mr Peskov's reply: I have nothing to add.",
+      "zh": "佩斯科夫先生回答：“我无可补充。”"
+    },
+    {
+      "id": 125,
+      "startMs": 643980,
+      "endMs": 647020,
+      "en": "There are times when you just have to put up your hands and say, 'Look,'",
+      "zh": "有时你只能摊开双手说：“听着，"
+    },
+    {
+      "id": 126,
+      "startMs": 647500,
+      "endMs": 650460,
+      "en": "we do not know — not yet — what is going on here,",
+      "zh": "我们不知道——至少现在还不知道——这里究竟发生了什么，"
+    },
+    {
+      "id": 127,
+      "startMs": 651020,
+      "endMs": 655980,
+      "en": "because of the lack of information and because of the cloak of secrecy around what is happening.",
+      "zh": "因为信息匮乏，也因为正在发生的一切笼罩在秘密之中。"
+    },
+    {
+      "id": 128,
+      "startMs": 656620,
+      "endMs": 660380,
+      "en": "And that applies to this surprise visit by the head of US intelligence.",
+      "zh": "美国情报部门负责人这次突然访问也是如此。"
+    },
+    {
+      "id": 129,
+      "startMs": 661780,
+      "endMs": 670500,
+      "en": "Later, in an interview, President Trump gave few details of John Ratcliffe's talks, but hinted that the focus had been on Ukraine.",
+      "zh": "后来在一次采访中，特朗普总统没有透露约翰·拉特克利夫会谈的多少细节，但暗示重点是乌克兰。"
+    },
+    {
+      "id": 130,
+      "startMs": 672780,
+      "endMs": 677980,
+      "en": "William Burns was the last CIA director to travel to Moscow, nearly five years ago.",
+      "zh": "威廉·伯恩斯是上一位前往莫斯科的中情局局长，那已是近五年前。"
+    },
+    {
+      "id": 131,
+      "startMs": 679100,
+      "endMs": 683100,
+      "en": "He'd warned Moscow not to launch a full-scale invasion of Ukraine.",
+      "zh": "他曾警告莫斯科不要对乌克兰发动全面入侵。"
+    },
+    {
+      "id": 132,
+      "startMs": 683900,
+      "endMs": 685420,
+      "en": "Russia went ahead anyway.",
+      "zh": "但俄罗斯还是这么做了。"
+    },
+    {
+      "id": 133,
+      "startMs": 686500,
+      "endMs": 689860,
+      "en": "Now, US and Russian intelligence are talking again.",
+      "zh": "如今，美国和俄罗斯情报部门再次展开对话。"
+    },
+    {
+      "id": 134,
+      "startMs": 690660,
+      "endMs": 693380,
+      "en": "So, what will be the upshot of these conversations?",
+      "zh": "那么，这些对话将带来什么结果？"
+    },
+    {
+      "id": 135,
+      "startMs": 694020,
+      "endMs": 696340,
+      "en": "Peace or further confrontation?",
+      "zh": "是和平，还是进一步对抗？"
+    },
+    {
+      "id": 136,
+      "startMs": 697220,
+      "endMs": 699700,
+      "en": "Steve Rosenberg reporting from Moscow.",
+      "zh": "史蒂夫·罗森伯格从莫斯科报道。"
+    },
+    {
+      "id": 137,
+      "startMs": 699700,
+      "endMs": 701380,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《Global News Podcast》。"
+    },
+    {
+      "id": 138,
+      "startMs": 702260,
+      "endMs": 707300,
+      "en": "On to a bandit crisis that's bringing terror to huge swathes of northwest Nigeria,",
+      "zh": "下面关注给尼日利亚西北部大片地区带来恐怖的匪患危机，"
+    },
+    {
+      "id": 139,
+      "startMs": 707460,
+      "endMs": 711780,
+      "en": "with armed gangs on motorbikes raiding towns and carrying out mass abductions.",
+      "zh": "武装团伙骑摩托车袭击城镇并实施大规模绑架。"
+    },
+    {
+      "id": 140,
+      "startMs": 712420,
+      "endMs": 719300,
+      "en": "Analysis by the BBC World Service of attacks recorded by the ACLED monitoring group show the problem is getting worse.",
+      "zh": "BBC World Service 对 ACLED 监测组织记录的袭击进行分析后显示，问题正在恶化。"
+    },
+    {
+      "id": 141,
+      "startMs": 719780,
+      "endMs": 724740,
+      "en": "Incidents between January and June were up 78% on the same time last year.",
+      "zh": "今年1月至6月的事件数量较去年同期增加了78%。"
+    },
+    {
+      "id": 142,
+      "startMs": 724820,
+      "endMs": 731940,
+      "en": "The World Service's Yemisi Adegoke sent this report from Gusau in Zamfara, one of the areas at the heart of the crisis.",
+      "zh": "World Service 的 Yemisi Adegoke 从 Zamfara 州 Gusau、危机核心地区之一发来报道。"
+    },
+    {
+      "id": 143,
+      "startMs": 736260,
+      "endMs": 740900,
+      "en": "Shots ring out as gunmen on motorbikes ride into a village in north-west Nigeria.",
+      "zh": "枪声响起，骑摩托车的枪手闯入尼日利亚西北部一个村庄。"
+    },
+    {
+      "id": 144,
+      "startMs": 741620,
+      "endMs": 744580,
+      "en": "This is the sound of Nigeria's bandit crisis.",
+      "zh": "这就是尼日利亚匪患危机的声音。"
+    },
+    {
+      "id": 145,
+      "startMs": 746500,
+      "endMs": 754100,
+      "en": "It's seen hundreds of thousands flee their homes, people kidnapped and murdered, and parents too scared to send their children to school.",
+      "zh": "数十万人逃离家园，有人遭到绑架和杀害，家长也因恐惧而不敢送孩子上学。"
+    },
+    {
+      "id": 146,
+      "startMs": 756520,
+      "endMs": 763960,
+      "en": "The military is still struggling to contain the crisis, which is now threatening to spread from the country's north-west to other areas.",
+      "zh": "军方仍在努力遏制这场危机，而危机正威胁从该国西北部蔓延到其他地区。"
+    },
+    {
+      "id": 147,
+      "startMs": 766960,
+      "endMs": 770560,
+      "en": "Zamfara is one of the states worst affected by the bandit crisis.",
+      "zh": "Zamfara 是受匪患危机影响最严重的州之一。"
+    },
+    {
+      "id": 148,
+      "startMs": 771120,
+      "endMs": 774160,
+      "en": "With no airport, the only way to get in is by road.",
+      "zh": "这里没有机场，进入该州的唯一途径是公路。"
+    },
+    {
+      "id": 149,
+      "startMs": 775580,
+      "endMs": 779740,
+      "en": "We're being escorted by the military because there have been some attacks in the surrounding villages,",
+      "zh": "由于周边村庄发生过一些袭击，我们由军方护送，"
+    },
+    {
+      "id": 150,
+      "startMs": 780140,
+      "endMs": 785020,
+      "en": "and a lot of security personnel have been killed in this area.",
+      "zh": "而且这一地区已有许多安保人员遇害。"
+    },
+    {
+      "id": 151,
+      "startMs": 785660,
+      "endMs": 789340,
+      "en": "So, there's a sense that we just kind of want to make it past this zone.",
+      "zh": "所以我们只想设法通过这片区域，这种感觉很强烈。"
+    },
+    {
+      "id": 152,
+      "startMs": 793540,
+      "endMs": 800420,
+      "en": "In the state capital, Gusau, we meet some of the 800,000 people across the north-west who've fled their homes.",
+      "zh": "在州首府 Gusau，我们见到西北部逃离家园的80万人中的一些人。"
+    },
+    {
+      "id": 153,
+      "startMs": 800980,
+      "endMs": 803540,
+      "en": "Many of them are escaping bandit violence.",
+      "zh": "他们中的许多人是在躲避匪徒暴力。"
+    },
+    {
+      "id": 154,
+      "startMs": 805420,
+      "endMs": 812540,
+      "en": "Fatima breaks down as she recalls how her village was attacked, her husband killed along with six of his brothers.",
+      "zh": "Fatima 回忆村庄遭袭时情绪崩溃；她的丈夫和丈夫的六个兄弟一起被杀。"
+    },
+    {
+      "id": 155,
+      "startMs": 812860,
+      "endMs": 817660,
+      "en": "They opened fire without a care in the world.",
+      "zh": "他们肆无忌惮地开火。"
+    },
+    {
+      "id": 156,
+      "startMs": 817660,
+      "endMs": 820220,
+      "en": "They started shooting indiscriminately.",
+      "zh": "他们开始不分青红皂白地射击。"
+    },
+    {
+      "id": 157,
+      "startMs": 820620,
+      "endMs": 823420,
+      "en": "If you run into a room, they set the room on fire.",
+      "zh": "如果你跑进房间，他们就放火烧毁房间。"
+    },
+    {
+      "id": 158,
+      "startMs": 823900,
+      "endMs": 826460,
+      "en": "If you come out and start running, they shoot you.",
+      "zh": "如果你出来逃跑，他们就开枪打你。"
+    },
+    {
+      "id": 159,
+      "startMs": 827180,
+      "endMs": 831340,
+      "en": "What's left of Fatima's family now lives in a makeshift camp on the edge of the city.",
+      "zh": "Fatima 的家人如今所剩无几，住在城边的临时营地里。"
+    },
+    {
+      "id": 160,
+      "startMs": 832160,
+      "endMs": 836880,
+      "en": "While they now have some protection, she says they find it difficult to even pay for food.",
+      "zh": "她说，虽然如今得到了一些保护，但他们甚至很难支付食物费用。"
+    },
+    {
+      "id": 161,
+      "startMs": 840020,
+      "endMs": 843860,
+      "en": "Sat on a motorbike by the side of the street with an assault rifle in his lap,",
+      "zh": "我们见到一名男子坐在街边的摩托车上，膝头放着一支突击步枪，"
+    },
+    {
+      "id": 162,
+      "startMs": 844420,
+      "endMs": 848740,
+      "en": "we meet one of the men authorities are turning to to help combat the bandit problem.",
+      "zh": "他是当局为打击匪患而求助的人之一。"
+    },
+    {
+      "id": 163,
+      "startMs": 849360,
+      "endMs": 851600,
+      "en": "But with the security forces struggling to cope,",
+      "zh": "但由于安全部队难以应对，"
+    },
+    {
+      "id": 164,
+      "startMs": 852160,
+      "endMs": 856480,
+      "en": "fighters are being hired from local communities to help support the army and police.",
+      "zh": "当局正从当地社区招募武装人员，协助军队和警察。"
+    },
+    {
+      "id": 165,
+      "startMs": 856720,
+      "endMs": 863920,
+      "en": "Let them understand that when they attack a place, they can kill, but they can also be killed.",
+      "zh": "让他们明白，他们袭击一个地方时可以杀人，但他们也可能被杀。"
+    },
+    {
+      "id": 166,
+      "startMs": 864240,
+      "endMs": 873200,
+      "en": "When told that the bandits are out, we try to get to where they're going before they arrive. With God's help, we successfully chase them away.",
+      "zh": "得知匪徒出动后，我们会在他们抵达前赶到目的地。在上帝的帮助下，我们成功将他们赶走。"
+    },
+    {
+      "id": 167,
+      "startMs": 874000,
+      "endMs": 879840,
+      "en": "But there are concerns that arming more people could lead to a spiral of violence that authorities can't contain.",
+      "zh": "但有人担心，武装更多人可能导致当局无法遏制的暴力螺旋。"
+    },
+    {
+      "id": 168,
+      "startMs": 880520,
+      "endMs": 889080,
+      "en": "This is Malik Samuel from Good Governance Africa. At the end of the crisis, how can you disarm them? But look at the issues in the north-west,",
+      "zh": "这是 Good Governance Africa 的 Malik Samuel。他问：危机后如何解除武装？但看看西北问题，"
+    },
+    {
+      "id": 169,
+      "startMs": 889320,
+      "endMs": 893640,
+      "en": "many of these communities don't have protection from the state. So what are they supposed to do?",
+      "zh": "这些社区中的许多并未得到国家保护。那么，他们应该怎么办？"
+    },
+    {
+      "id": 170,
+      "startMs": 895380,
+      "endMs": 898100,
+      "en": "Authorities say they're taking the fight to the bandits.",
+      "zh": "当局表示，他们正在主动打击匪徒。"
+    },
+    {
+      "id": 171,
+      "startMs": 898580,
+      "endMs": 900980,
+      "en": "Twenty-eight thousand new soldiers are being recruited,",
+      "zh": "正在招募2.8万名新士兵，"
+    },
+    {
+      "id": 172,
+      "startMs": 901460,
+      "endMs": 906820,
+      "en": "and President Bola Tinubu announced a record $4 billion for defence and security in the latest budget.",
+      "zh": "总统 Bola Tinubu 在最新预算中宣布创纪录的40亿美元国防与安全拨款。"
+    },
+    {
+      "id": 173,
+      "startMs": 907060,
+      "endMs": 915860,
+      "en": "To bandits, kidnappers, and sponsors of terror, surrender or face the full force of the Nigerian state.",
+      "zh": "匪徒、绑架者和恐怖活动支持者：投降，否则就面对尼日利亚国家机器的全力打击。"
+    },
+    {
+      "id": 174,
+      "startMs": 917320,
+      "endMs": 921960,
+      "en": "But in the north-west, the number of bandit attacks is continuing to rise.",
+      "zh": "但在西北部，匪徒袭击的数量仍在持续上升。"
+    },
+    {
+      "id": 175,
+      "startMs": 922680,
+      "endMs": 929400,
+      "en": "The return to normality that Fatima and her family in Zamfara desperately crave seems a distant possibility.",
+      "zh": "Fatima 和她在 Zamfara 的家人苦苦渴望恢复正常生活，但这似乎仍遥不可及。"
+    },
+    {
+      "id": 176,
+      "startMs": 929640,
+      "endMs": 936120,
+      "en": "So, what is it? I said we had peace. We had money. Now, everything has changed. We have become beggars.",
+      "zh": "是这样。我说我们曾经有和平、有钱。现在一切都变了，我们成了乞丐。"
+    },
+    {
+      "id": 177,
+      "startMs": 937140,
+      "endMs": 939300,
+      "en": "Fatima, ending that report by Yemisi Adegoke.",
+      "zh": "Yemisi Adegoke 的报道以 Fatima 的话作结。"
+    },
+    {
+      "id": 178,
+      "startMs": 940900,
+      "endMs": 943700,
+      "en": "Mexico can be a dangerous place to be a journalist,",
+      "zh": "在墨西哥当记者可能很危险，"
+    },
+    {
+      "id": 179,
+      "startMs": 943780,
+      "endMs": 950180,
+      "en": "and now dozens of Mexican media outlets are calling on the country's president, Claudia Sheinbaum, to do something about it.",
+      "zh": "如今，数十家墨西哥媒体呼吁该国总统克劳迪娅·辛鲍姆采取行动。"
+    },
+    {
+      "id": 180,
+      "startMs": 950660,
+      "endMs": 956020,
+      "en": "The press freedom organisation, Reporters Without Borders, or RSF, is backing the call as well.",
+      "zh": "新闻自由组织“无国界记者”，即RSF，也支持这一呼吁。"
+    },
+    {
+      "id": 181,
+      "startMs": 956580,
+      "endMs": 960980,
+      "en": "It says at least 17 reporters have been killed since President Sheinbaum took office,",
+      "zh": "该组织称，自辛鲍姆总统近两年前上任以来，至少有17名记者遇害，"
+    },
+    {
+      "id": 182,
+      "startMs": 960980,
+      "endMs": 964740,
+      "en": "nearly two years ago, despite her pledge to strengthen protections for the media.",
+      "zh": "尽管她曾承诺加强对媒体的保护。"
+    },
+    {
+      "id": 183,
+      "startMs": 965300,
+      "endMs": 966420,
+      "en": "Ella Bicknell reports.",
+      "zh": "Ella Bicknell报道。"
+    },
+    {
+      "id": 184,
+      "startMs": 966820,
+      "endMs": 974340,
+      "en": "According to Reporters Without Borders, seven of 22 journalists killed worldwide so far in 2026 hail from Mexico.",
+      "zh": "据无国界记者组织称，2026年至今全球遇害的22名记者中，有7人来自墨西哥。"
+    },
+    {
+      "id": 185,
+      "startMs": 974740,
+      "endMs": 981460,
+      "en": "That's prompted more than 40 local media outlets to endorse the NGO's statement, urging President Sheinbaum to take action.",
+      "zh": "这促使40多家当地媒体支持该非政府组织的声明，敦促辛鲍姆总统采取行动。"
+    },
+    {
+      "id": 186,
+      "startMs": 981940,
+      "endMs": 985380,
+      "en": "It says many of the attacks go uninvestigated and unpunished,",
+      "zh": "声明称，许多袭击未得到调查，也未有人受到惩罚，"
+    },
+    {
+      "id": 187,
+      "startMs": 985700,
+      "endMs": 990980,
+      "en": "calling for better coordination across all levels of government to find those responsible for the deaths.",
+      "zh": "并呼吁各级政府加强协调，找出应为这些死亡负责的人。"
+    },
+    {
+      "id": 188,
+      "startMs": 991540,
+      "endMs": 994900,
+      "en": "This was a recent information campaign video by the RSF.",
+      "zh": "这是RSF最近发布的一段宣传视频。"
+    },
+    {
+      "id": 189,
+      "startMs": 996120,
+      "endMs": 1001320,
+      "en": "Ladies and gentlemen, welcome aboard flight RA150 to Mexico City, Mexico.",
+      "zh": "女士们、先生们，欢迎乘坐RA150航班前往墨西哥墨西哥城。"
+    },
+    {
+      "id": 190,
+      "startMs": 1001960,
+      "endMs": 1007320,
+      "en": "Should you report on organised crime, please remember to reach for the bulletproof vest located within your reach.",
+      "zh": "如果你要报道有组织犯罪，请记得拿起手边的防弹背心。"
+    },
+    {
+      "id": 191,
+      "startMs": 1007640,
+      "endMs": 1013960,
+      "en": "When covering subjects linked to corruption, please take your belongings and return to where you came from as quickly as possible.",
+      "zh": "报道与腐败有关的主题时，请带上随身物品，尽快回到你来的地方。"
+    },
+    {
+      "id": 192,
+      "startMs": 1014440,
+      "endMs": 1021960,
+      "en": "The most recently documented murder was that of Francisco Alejandro Leyva Aguilar, a political columnist from the state of Oaxaca.",
+      "zh": "最近记录在案的遇害者是弗朗西斯科·亚历杭德罗·莱瓦·阿吉拉尔，他是瓦哈卡州的政治专栏作家。"
+    },
+    {
+      "id": 193,
+      "startMs": 1022360,
+      "endMs": 1027400,
+      "en": "In July, he wrote a column criticising the local governor and several members of his administration.",
+      "zh": "7月，他撰文批评当地州长及其政府的几名成员。"
+    },
+    {
+      "id": 194,
+      "startMs": 1027960,
+      "endMs": 1031800,
+      "en": "The next day, he was shot dead at a food stall whilst buying breakfast.",
+      "zh": "第二天，他在一个小吃摊买早餐时遭枪杀。"
+    },
+    {
+      "id": 195,
+      "startMs": 1032120,
+      "endMs": 1036680,
+      "en": "A year earlier, he had told the local authorities that he'd been receiving regular death threats.",
+      "zh": "一年前，他曾告诉当地政府，自己一直定期收到死亡威胁。"
+    },
+    {
+      "id": 196,
+      "startMs": 1037740,
+      "endMs": 1041100,
+      "en": "As well as general pressure to provide more press protections,",
+      "zh": "除了要求提供更多新闻保护的一般性压力，"
+    },
+    {
+      "id": 197,
+      "startMs": 1041500,
+      "endMs": 1049580,
+      "en": "last week President Sheinbaum's administration received condemnation for publishing the names of individuals and media outlets that had criticised the government.",
+      "zh": "上周，辛鲍姆总统的政府因公布批评政府的个人和媒体名称而受到谴责。"
+    },
+    {
+      "id": 198,
+      "startMs": 1049580,
+      "endMs": 1053580,
+      "en": "Ms. Sheinbaum had denied that she was intimidating journalists.",
+      "zh": "辛鲍姆女士否认自己在恐吓记者。"
+    },
+    {
+      "id": 199,
+      "startMs": 1053820,
+      "endMs": 1058620,
+      "en": "She said there had been incidents of fake news and said the names would not be circulated again.",
+      "zh": "她说曾出现过假新闻事件，并表示这些姓名不会再次被传播。"
+    },
+    {
+      "id": 200,
+      "startMs": 1059100,
+      "endMs": 1068860,
+      "en": "But journalist groups say the killings, attacks, and threats continue to create an atmosphere of silence, threatening the right of millions of people to be informed.",
+      "zh": "但记者团体称，杀戮、袭击和威胁仍在制造沉默氛围，威胁数百万人的知情权。"
+    },
+    {
+      "id": 201,
+      "startMs": 1069500,
+      "endMs": 1070860,
+      "en": "Ella Bicknell reporting.",
+      "zh": "Ella Bicknell报道。"
+    },
+    {
+      "id": 202,
+      "startMs": 1071780,
+      "endMs": 1078740,
+      "en": "For the first time in France, a flight attendant has succeeded in having her breast cancer recognised as an occupational disease.",
+      "zh": "在法国，一名空乘人员首次成功让自己的乳腺癌被认定为职业病。"
+    },
+    {
+      "id": 203,
+      "startMs": 1078900,
+      "endMs": 1085300,
+      "en": "A court found that 59-year-old Sophie Lenoir, who worked for Air France for decades, had frequently worked night shifts,",
+      "zh": "法院认定，59岁的索菲·勒努瓦在法航工作数十年，期间经常上夜班，"
+    },
+    {
+      "id": 204,
+      "startMs": 1085460,
+      "endMs": 1090580,
+      "en": "been exposed to cosmic radiation and to cigarette smoke until the airline banned smoking in 2000.",
+      "zh": "接触宇宙辐射和香烟烟雾，直到该航空公司于2000年禁烟。"
+    },
+    {
+      "id": 205,
+      "startMs": 1090660,
+      "endMs": 1100580,
+      "en": "A study this month at Harvard Medical School in the US found that out of hundreds of professions, flight crews and pilots had the highest level of radiation-related cancer deaths.",
+      "zh": "美国哈佛医学院本月一项研究发现，在数百种职业中，机组人员和飞行员死于辐射相关癌症的比例最高。"
+    },
+    {
+      "id": 206,
+      "startMs": 1101060,
+      "endMs": 1102740,
+      "en": "Dr. Vishal Patel led the study.",
+      "zh": "维沙尔·帕特尔博士主持了这项研究。"
+    },
+    {
+      "id": 207,
+      "startMs": 1103220,
+      "endMs": 1114420,
+      "en": "There are certain occupations that have extreme exposures, cumulatively, to this type of radiation, and pilots and flight attendants are two of those occupations.",
+      "zh": "有些职业会长期大量暴露于这类辐射，飞行员和空乘人员就是其中两种。"
+    },
+    {
+      "id": 208,
+      "startMs": 1114500,
+      "endMs": 1122660,
+      "en": "So, we looked at about 13 million deaths, occurring across about 500 different occupations in the United States,",
+      "zh": "我们研究了约1300万例死亡，涉及美国约500种不同职业，"
+    },
+    {
+      "id": 209,
+      "startMs": 1122820,
+      "endMs": 1133480,
+      "en": "and flight attendants and pilots came top and second for the share of deaths from radiation-associated cancers.",
+      "zh": "其中，空乘人员和飞行员死于辐射相关癌症的比例分别位居第一和第二。"
+    },
+    {
+      "id": 210,
+      "startMs": 1134120,
+      "endMs": 1138520,
+      "en": "Our correspondent in Paris, Hugh Schofield, told us about the magnitude of this ruling.",
+      "zh": "我们的巴黎记者休·斯科菲尔德介绍了这项裁决的影响。"
+    },
+    {
+      "id": 211,
+      "startMs": 1139240,
+      "endMs": 1146680,
+      "en": "But this is the first time that breast cancer has been officially recognised in France as an occupational illness of flight crews.",
+      "zh": "但这是乳腺癌首次在法国被正式认定为机组人员的职业病。"
+    },
+    {
+      "id": 212,
+      "startMs": 1146920,
+      "endMs": 1149720,
+      "en": "The connection spelled out in the court is threefold.",
+      "zh": "法院阐明，这一关联有三个方面。"
+    },
+    {
+      "id": 213,
+      "startMs": 1150120,
+      "endMs": 1153800,
+      "en": "First, when this lady started, there was still smoking on planes.",
+      "zh": "首先，这位女士开始工作时，飞机上仍允许吸烟。"
+    },
+    {
+      "id": 214,
+      "startMs": 1154200,
+      "endMs": 1155720,
+      "en": "The other thing is nighttime working.",
+      "zh": "另一个因素是夜间工作。"
+    },
+    {
+      "id": 215,
+      "startMs": 1155880,
+      "endMs": 1163880,
+      "en": "There's evidence that suggests that nighttime working disrupts women's body clocks and so on, which can be an aggravating factor in breast cancer.",
+      "zh": "有证据表明，夜间工作会扰乱女性的生物钟等，并可能加重乳腺癌风险。"
+    },
+    {
+      "id": 216,
+      "startMs": 1164120,
+      "endMs": 1169240,
+      "en": "But the third thing is cosmic radiation, cosmic rays, the same sort of things that cause the Northern Lights, for example.",
+      "zh": "但第三点是宇宙辐射，也就是会造成北极光的那类东西。"
+    },
+    {
+      "id": 217,
+      "startMs": 1170040,
+      "endMs": 1173640,
+      "en": "Which are of particular danger to flight crews.",
+      "zh": "这种辐射对机组人员尤其危险。"
+    },
+    {
+      "id": 218,
+      "startMs": 1173720,
+      "endMs": 1180840,
+      "en": "Why? Because they're flying at very high altitudes, and also because a lot of long-haul flights are going over the poles,",
+      "zh": "为什么？因为他们飞行高度很高，而且许多长途航班会飞越极地，"
+    },
+    {
+      "id": 219,
+      "startMs": 1180920,
+      "endMs": 1188760,
+      "en": "particularly the North Pole, for Air France, which is where these charged particles from cosmic radiation concentrate.",
+      "zh": "对法航而言尤其会飞越北极，而宇宙辐射的带电粒子正集中在那里。"
+    },
+    {
+      "id": 220,
+      "startMs": 1188920,
+      "endMs": 1193260,
+      "en": "The rest of the world is protected by the Earth's magnetic shield, but not at the poles.",
+      "zh": "世界其他地方受到地球磁场屏蔽，但两极并非如此。"
+    },
+    {
+      "id": 221,
+      "startMs": 1193740,
+      "endMs": 1198700,
+      "en": "So, this scientific detail is what's been adduced in this case.",
+      "zh": "所以，这项科学细节就是本案提出的依据。"
+    },
+    {
+      "id": 222,
+      "startMs": 1198940,
+      "endMs": 1201420,
+      "en": "So, doctors examined her extensively, obviously.",
+      "zh": "所以，医生显然对她进行了全面检查。"
+    },
+    {
+      "id": 223,
+      "startMs": 1201420,
+      "endMs": 1205420,
+      "en": "And there is no genetic, particular risk in her family.",
+      "zh": "而且她的家族中没有特殊的遗传风险。"
+    },
+    {
+      "id": 224,
+      "startMs": 1205660,
+      "endMs": 1208940,
+      "en": "There was no lifestyle risk attached to the way she was living, and so on.",
+      "zh": "她的生活方式也没有相关风险，等等。"
+    },
+    {
+      "id": 225,
+      "startMs": 1208940,
+      "endMs": 1216540,
+      "en": "So, the court has decided that therefore there is enough evidence to suggest that it was occupationally linked.",
+      "zh": "因此，法院认定已有足够证据表明，这与她的职业有关。"
+    },
+    {
+      "id": 226,
+      "startMs": 1216540,
+      "endMs": 1218780,
+      "en": "And it is, of course, a big victory for her.",
+      "zh": "当然，这对她来说是一次巨大的胜利。"
+    },
+    {
+      "id": 227,
+      "startMs": 1218860,
+      "endMs": 1225020,
+      "en": "But, you know, more to the point, in a way, is how this might then open the gates for more similar claims.",
+      "zh": "但更重要的是，从某种意义上说，这或许会为更多类似索赔打开大门。"
+    },
+    {
+      "id": 228,
+      "startMs": 1225020,
+      "endMs": 1232780,
+      "en": "And there is growing evidence from medical studies that flight crews face a higher risk of breast cancer.",
+      "zh": "而且，越来越多的医学研究证据显示，机组人员面临更高的乳腺癌风险。"
+    },
+    {
+      "id": 229,
+      "startMs": 1232860,
+      "endMs": 1236540,
+      "en": "The risk for flight crews is higher than for the general population.",
+      "zh": "机组人员的这一风险高于普通人群。"
+    },
+    {
+      "id": 230,
+      "startMs": 1237020,
+      "endMs": 1238700,
+      "en": "Hugh Schofield in Paris there.",
+      "zh": "以上是巴黎的 Hugh Schofield 报道。"
+    },
+    {
+      "id": 231,
+      "startMs": 1239520,
+      "endMs": 1247360,
+      "en": "A funeral for one of the leading figures in Palestinian art, Sliman Mansour, has taken place near the city of Ramallah in the occupied West Bank.",
+      "zh": "巴勒斯坦艺术界的重要人物之一 Sliman Mansour 的葬礼，在被占领的约旦河西岸拉姆安拉附近举行。"
+    },
+    {
+      "id": 232,
+      "startMs": 1247840,
+      "endMs": 1252000,
+      "en": "The painter, sculptor and cartoonist died earlier this week at the age of 79.",
+      "zh": "这位画家、雕塑家和漫画家本周早些时候去世，享年 79 岁。"
+    },
+    {
+      "id": 233,
+      "startMs": 1252480,
+      "endMs": 1259040,
+      "en": "For more than half a century, his work helped capture and define the Palestinian experience. Carla Conti told me more about him.",
+      "zh": "半个多世纪以来，他的作品帮助记录并诠释了巴勒斯坦人的经历。Carla Conti 将为我们进一步介绍他的生平。"
+    },
+    {
+      "id": 234,
+      "startMs": 1259760,
+      "endMs": 1267600,
+      "en": "He was born in the village of Birzeit in British Mandate Palestine in 1947, a year before the State of Israel was established,",
+      "zh": "他 1947 年出生于英属巴勒斯坦托管地的比尔宰特村，当时距离以色列建国还有一年。"
+    },
+    {
+      "id": 235,
+      "startMs": 1267600,
+      "endMs": 1272720,
+      "en": "and a year before the first Arab-Israeli War took place, during which more than 700,000",
+      "zh": "也比第一次阿以战争爆发早一年；战争期间，超过 70 万名"
+    },
+    {
+      "id": 236,
+      "startMs": 1273280,
+      "endMs": 1282320,
+      "en": "Palestinians were expelled from their homes in what is known as the Nakba, meaning the catastrophe or disaster in Arabic.",
+      "zh": "巴勒斯坦人被驱逐出家园，这就是阿拉伯语所称的“纳克巴”，意为灾难。"
+    },
+    {
+      "id": 237,
+      "startMs": 1282720,
+      "endMs": 1290080,
+      "en": "And Mansour spent most of his career documenting the life of Palestinian people, using olive groves and citrus trees",
+      "zh": "曼苏尔一生大部分时间都在记录巴勒斯坦人的生活，画中的橄榄林和柑橘树"
+    },
+    {
+      "id": 238,
+      "startMs": 1290080,
+      "endMs": 1296240,
+      "en": "and traditional embroidered dresses and other vibrant imagery to bring his paintings to life.",
+      "zh": "以及传统刺绣服饰等鲜明意象，让他的画作栩栩如生。"
+    },
+    {
+      "id": 239,
+      "startMs": 1296480,
+      "endMs": 1303940,
+      "en": "But above all, people will remember his art as a symbol of Palestinian resistance under the Israeli military occupation.",
+      "zh": "但最重要的是，人们会记住他的艺术，它是以色列军事占领下巴勒斯坦抵抗的象征。"
+    },
+    {
+      "id": 240,
+      "startMs": 1304260,
+      "endMs": 1308900,
+      "en": "And one of the most enduring and striking images to come out of his body of work",
+      "zh": "而他作品中最持久、最令人印象深刻的形象之一"
+    },
+    {
+      "id": 241,
+      "startMs": 1309300,
+      "endMs": 1314420,
+      "en": "is a painting from 1973 called 'The Camel of Hardship',",
+      "zh": "是一幅创作于 1973 年、名为《苦难之骆驼》的画作，"
+    },
+    {
+      "id": 242,
+      "startMs": 1314820,
+      "endMs": 1319780,
+      "en": "which depicts an elderly Palestinian man carrying the city of Jerusalem on his back.",
+      "zh": "画中，一位年迈的巴勒斯坦男子背负着耶路撒冷城。"
+    },
+    {
+      "id": 243,
+      "startMs": 1320100,
+      "endMs": 1326820,
+      "en": "Its weight is heavy on his body, which looks weary but perseveres ahead despite the burden.",
+      "zh": "城市的重量压在他身上；他看起来疲惫不堪，却仍不顾负担坚持前行。"
+    },
+    {
+      "id": 244,
+      "startMs": 1327300,
+      "endMs": 1335380,
+      "en": "And during the First Intifada, or uprising, which began in 1987, Mansour helped found the New Vision Collective",
+      "zh": "在 1987 年开始的第一次起义，即第一次因提法达期间，曼苏尔参与创立了“新视野集体”，"
+    },
+    {
+      "id": 245,
+      "startMs": 1335380,
+      "endMs": 1340580,
+      "en": "with fellow artists, turning to mud, straw, wood, and other natural elements",
+      "zh": "与其他艺术家一起，转而使用泥土、稻草、木材和其他天然材料，"
+    },
+    {
+      "id": 246,
+      "startMs": 1340820,
+      "endMs": 1345620,
+      "en": "after Palestinian artists boycotted Israeli-made supplies.",
+      "zh": "因为巴勒斯坦艺术家抵制以色列制造的艺术用品。"
+    },
+    {
+      "id": 247,
+      "startMs": 1345940,
+      "endMs": 1350580,
+      "en": "And this marked a change in his career, a shift to a darker art, if you will,",
+      "zh": "这标志着他艺术生涯的转变，也可以说是转向了更为阴郁的艺术，"
+    },
+    {
+      "id": 248,
+      "startMs": 1350980,
+      "endMs": 1356180,
+      "en": "which is something he discussed in 2018 while speaking to the BBC's Stephen Sackur.",
+      "zh": "他在 2018 年接受 BBC 的 Stephen Sackur 采访时谈到了这一点。"
+    },
+    {
+      "id": 249,
+      "startMs": 1356420,
+      "endMs": 1363880,
+      "en": "The big difference between these figures and the figures of the heroic people that I used to do in the seventies and eighties.",
+      "zh": "这些形象与我过去在 20 世纪七八十年代创作的英雄人物形象之间，最大的区别在于"
+    },
+    {
+      "id": 250,
+      "startMs": 1364840,
+      "endMs": 1368520,
+      "en": "Depends on the situation, you know, the political situation.",
+      "zh": "这取决于当时的情况，也就是政治局势。"
+    },
+    {
+      "id": 251,
+      "startMs": 1368920,
+      "endMs": 1371160,
+      "en": "I hope it will change another time,",
+      "zh": "我希望有一天情况会改变，"
+    },
+    {
+      "id": 252,
+      "startMs": 1371800,
+      "endMs": 1374760,
+      "en": "because I love—I love to make heroic paintings,",
+      "zh": "因为我喜欢——我喜欢创作英雄主义画作，"
+    },
+    {
+      "id": 253,
+      "startMs": 1375160,
+      "endMs": 1381400,
+      "en": "to reach again that feeling of being hopeful and optimistic.",
+      "zh": "再次找回那种充满希望和乐观的感觉。"
+    },
+    {
+      "id": 254,
+      "startMs": 1382280,
+      "endMs": 1389720,
+      "en": "And an example of this shift that he just spoke about can be found in his 1996 piece titled 'The Shrinking Object',",
+      "zh": "他刚才谈到的这种转变，在他 1996 年创作的《收缩的物体》中便可见一斑。"
+    },
+    {
+      "id": 255,
+      "startMs": 1390040,
+      "endMs": 1394520,
+      "en": "which features a map of Palestine built completely out of mud.",
+      "zh": "这件作品以泥土完整塑造出一幅巴勒斯坦地图。"
+    },
+    {
+      "id": 256,
+      "startMs": 1394920,
+      "endMs": 1403960,
+      "en": "And as the mud begins to dry out over time, it naturally begins to crack and break apart, much like the Palestinian territories at the time.",
+      "zh": "随着泥土逐渐干燥，它自然开始出现裂缝并碎裂开来，就像当时的巴勒斯坦领土一样。"
+    },
+    {
+      "id": 257,
+      "startMs": 1404280,
+      "endMs": 1409320,
+      "en": "Yeah, it's quite an incredible career, and I guess that that was reflected in the crowds at the funeral.",
+      "zh": "是的，这是一段非凡的艺术生涯，我想葬礼上的人群也反映了这一点。"
+    },
+    {
+      "id": 258,
+      "startMs": 1409560,
+      "endMs": 1416440,
+      "en": "Yes, the turnout was massive, and crowds of mourners followed the hearse from his hometown",
+      "zh": "是的，参加葬礼的人非常多，哀悼者从他的家乡一路跟随灵车"
+    },
+    {
+      "id": 259,
+      "startMs": 1416440,
+      "endMs": 1422920,
+      "en": "in Birzeit to a packed Anglican church, which was led by uniformed scouts playing bagpipes.",
+      "zh": "从比尔宰特前往座无虚席的圣公会教堂；身着制服的童军吹着风笛走在前方。"
+    },
+    {
+      "id": 260,
+      "startMs": 1423320,
+      "endMs": 1429580,
+      "en": "And friends say they'll remember Mansour as a humble, soft-spoken man who loved to share his work.",
+      "zh": "朋友们说，他们会记住曼苏尔：一个谦逊寡言、热爱分享作品的人。"
+    },
+    {
+      "id": 261,
+      "startMs": 1429820,
+      "endMs": 1434940,
+      "en": "Who had a talent for turning complex stories into simple, but effective artwork.",
+      "zh": "他擅长把复杂的故事变成简单却有力的艺术作品。"
+    },
+    {
+      "id": 262,
+      "startMs": 1435340,
+      "endMs": 1439660,
+      "en": "And in a symbolic tribute, his coffin was draped in olive branches",
+      "zh": "作为象征性的致敬，他的棺木覆盖着橄榄枝，"
+    },
+    {
+      "id": 263,
+      "startMs": 1439980,
+      "endMs": 1443180,
+      "en": "in a nod to the landscapes that defined his work.",
+      "zh": "向那些定义了他作品的景观致意。"
+    },
+    {
+      "id": 264,
+      "startMs": 1443820,
+      "endMs": 1444780,
+      "en": "Carla Conti there.",
+      "zh": "以上是 Carla Conti 的报道。"
+    },
+    {
+      "id": 265,
+      "startMs": 1448460,
+      "endMs": 1454060,
+      "en": "That's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "今天的节目就到这里。如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 266,
+      "startMs": 1454140,
+      "endMs": 1457580,
+      "en": "You can also find us on X @bbcworldservice.",
+      "zh": "你也可以在 X 上关注 @bbcworldservice。"
+    },
+    {
+      "id": 267,
+      "startMs": 1457660,
+      "endMs": 1463020,
+      "en": "We have a sister podcast, The Global Story, which goes in depth and beyond the headlines on one big story.",
+      "zh": "我们还有一档姊妹播客《全球故事》，深入报道一个重大故事，超越新闻标题。"
+    },
+    {
+      "id": 268,
+      "startMs": 1463580,
+      "endMs": 1468540,
+      "en": "This edition of the Global News Podcast was mixed by Masood Ibrahim and the producer was Emma Joseph.",
+      "zh": "本期《全球新闻播客》由 Masood Ibrahim 混音，制片人是 Emma Joseph。"
+    },
+    {
+      "id": 269,
+      "startMs": 1468780,
+      "endMs": 1472620,
+      "en": "The editor is Karen Martin and I am Will Chalk. Until next time, goodbye.",
+      "zh": "编辑 Karen Martin；我是 Will Chalk。下次再见。"
+    }
+  ]
+}
