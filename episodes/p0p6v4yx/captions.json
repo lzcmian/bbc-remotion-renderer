@@ -1,0 +1,2034 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "29 August 2026"
+  },
+  "durationMs": 1569640,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3840,
+      "en": "This is The Happy Pod from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《快乐播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 9660,
+      "endMs": 11740,
+      "en": "I'm Holly Gibbs, and in this edition...",
+      "zh": "我是 Holly Gibbs，本期节目将带来……"
+    },
+    {
+      "id": 3,
+      "startMs": 11900,
+      "endMs": 18780,
+      "en": "We've always had a deep bond, but now with this tattoo, it almost feels magical, and it's just the most incredible feeling in the world.",
+      "zh": "我们一直有着深厚的羁绊，但有了这个纹身后，感觉几乎像魔法一样，这是世上最不可思议的感受。"
+    },
+    {
+      "id": 4,
+      "startMs": 19260,
+      "endMs": 23980,
+      "en": "How one mother's tattoo has opened up a new world of communication for her son.",
+      "zh": "一位母亲的纹身如何为她的儿子打开了全新的沟通世界。"
+    },
+    {
+      "id": 5,
+      "startMs": 24540,
+      "endMs": 30140,
+      "en": "Also on this podcast, the regatta where all the participants are breast cancer survivors.",
+      "zh": "本期还将介绍一场特别的赛艇会，所有参赛者都是乳腺癌幸存者。"
+    },
+    {
+      "id": 6,
+      "startMs": 30220,
+      "endMs": 39740,
+      "en": "We joke all the time that we're all in the same boat, literally. We have differences across everything else, and then there's this one major thing that binds us all.",
+      "zh": "我们总开玩笑说，字面意义上我们都在同一条船上。除此之外，我们各不相同，但有一件大事把我们所有人联系在一起。"
+    },
+    {
+      "id": 7,
+      "startMs": 39980,
+      "endMs": 46140,
+      "en": "Plus the nursery which operates inside a retirement home, and a world first.",
+      "zh": "此外，还有一家开在养老院里的托儿所，以及一项全球首创。"
+    },
+    {
+      "id": 8,
+      "startMs": 46140,
+      "endMs": 54460,
+      "en": "The AI acted as a sort of co-pilot assistant adjacent to the primary screen, identifying the structures that we care most about.",
+      "zh": "人工智能像副驾驶助手一样位于主屏幕旁，识别出我们最关注的结构。"
+    },
+    {
+      "id": 9,
+      "startMs": 54620,
+      "endMs": 59100,
+      "en": "How AI was used to help successfully remove a tumour near the brain.",
+      "zh": "人工智能如何帮助医生成功切除脑部附近的肿瘤。"
+    },
+    {
+      "id": 10,
+      "startMs": 64960,
+      "endMs": 70080,
+      "en": "A mother in Canada has come up with a unique way to communicate with her autistic child.",
+      "zh": "加拿大一位母亲想出了与自闭症孩子沟通的独特方式。"
+    },
+    {
+      "id": 11,
+      "startMs": 70560,
+      "endMs": 77200,
+      "en": "Jessica Fletcher has a keyboard tattooed on her forearm, which her non-speaking son Hunter uses to talk to her.",
+      "zh": "Jessica Fletcher 在前臂上纹了一副键盘，她不会说话的儿子 Hunter 用它与她交流。"
+    },
+    {
+      "id": 12,
+      "startMs": 77600,
+      "endMs": 85760,
+      "en": "She posted it online in a video which has been viewed millions of times, and has even inspired other parents to get the same design.",
+      "zh": "她把这件事拍成视频发布到网上，观看次数已达数百万，甚至还启发其他家长纹上同样的图案。"
+    },
+    {
+      "id": 13,
+      "startMs": 86160,
+      "endMs": 87680,
+      "en": "I caught up with Jessica.",
+      "zh": "我采访了 Jessica。"
+    },
+    {
+      "id": 14,
+      "startMs": 88080,
+      "endMs": 95280,
+      "en": "My son, Hunter, he's 11 years old, and he was diagnosed with autism spectrum disorder when he was three.",
+      "zh": "我儿子 Hunter 今年11岁，三岁时被诊断为自闭症谱系障碍。"
+    },
+    {
+      "id": 15,
+      "startMs": 95440,
+      "endMs": 103920,
+      "en": "At a very young age, he started communicating with a system called PECS, and that's where he would just get pictures and bring them to me.",
+      "zh": "他很小的时候就开始使用一种叫 PECS 的系统沟通：拿来图片，再把图片带给我。"
+    },
+    {
+      "id": 16,
+      "startMs": 103920,
+      "endMs": 110640,
+      "en": "And that turned into him using an AAC device, which is an iPad with symbols, and it speaks for him.",
+      "zh": "后来他开始使用 AAC 设备，也就是一台带有符号的 iPad，由它替他发声。"
+    },
+    {
+      "id": 17,
+      "startMs": 110800,
+      "endMs": 115200,
+      "en": "And he's just the light of my life. He is the most beautiful thing about my life.",
+      "zh": "他就是我生命中的光，是我生命中最美好的存在。"
+    },
+    {
+      "id": 18,
+      "startMs": 115360,
+      "endMs": 117200,
+      "en": "Can you describe your tattoo?",
+      "zh": "你能描述一下你的纹身吗？"
+    },
+    {
+      "id": 19,
+      "startMs": 117520,
+      "endMs": 121520,
+      "en": "Yeah, so my tattoo is just a basic keyboard layout.",
+      "zh": "好，我的纹身就是一个基本的键盘布局。"
+    },
+    {
+      "id": 20,
+      "startMs": 121600,
+      "endMs": 127620,
+      "en": "There's no punctuation or no numbers, but there is a space bar, there's a yes and a no button.",
+      "zh": "上面没有标点符号，也没有数字，但有空格键，还有“是”和“否”按钮。"
+    },
+    {
+      "id": 21,
+      "startMs": 127700,
+      "endMs": 131780,
+      "en": "There's also an I love you button, and there is a happy face and a sad face.",
+      "zh": "还有“我爱你”按钮，以及笑脸和哭脸。"
+    },
+    {
+      "id": 22,
+      "startMs": 131860,
+      "endMs": 137060,
+      "en": "And it's on my left forearm because it's easier for him to reach and easier for me to read.",
+      "zh": "它纹在我的左前臂上，因为这样他更容易够到，我也更容易看清。"
+    },
+    {
+      "id": 23,
+      "startMs": 137140,
+      "endMs": 141060,
+      "en": "It's so funny because I have to look at it closely to tell what he's reading,",
+      "zh": "这很有趣，因为我得仔细看，才能知道他读的是哪一部分，"
+    },
+    {
+      "id": 24,
+      "startMs": 141460,
+      "endMs": 145620,
+      "en": "but he can type on it if he's standing to my left and it's upside down to him.",
+      "zh": "但如果他站在我的左边，即使键盘对他来说是倒过来的，他也能在上面打字。"
+    },
+    {
+      "id": 25,
+      "startMs": 145780,
+      "endMs": 147540,
+      "en": "Where did the idea come from?",
+      "zh": "这个想法是怎么来的？"
+    },
+    {
+      "id": 26,
+      "startMs": 147700,
+      "endMs": 150420,
+      "en": "Hunter loves to swim. That's his main hobby.",
+      "zh": "Hunter 喜欢游泳，那是他的主要爱好。"
+    },
+    {
+      "id": 27,
+      "startMs": 150980,
+      "endMs": 157060,
+      "en": "And he has always struggled with not being able to communicate in the water, because he can't take his device in the water.",
+      "zh": "他一直苦于无法在水里沟通，因为不能把设备带进水中。"
+    },
+    {
+      "id": 28,
+      "startMs": 157380,
+      "endMs": 163380,
+      "en": "So I've made communication boards that were waterproof. It wasn't convenient, and it wasn't accessible enough.",
+      "zh": "所以我做过防水的沟通板，但既不方便，也不够易于使用。"
+    },
+    {
+      "id": 29,
+      "startMs": 163460,
+      "endMs": 166020,
+      "en": "So I've always been trying to come up with a new way.",
+      "zh": "所以我一直在想办法找出新的方式。"
+    },
+    {
+      "id": 30,
+      "startMs": 166100,
+      "endMs": 169140,
+      "en": "One day, we went to a restaurant, and his device died,",
+      "zh": "有一天，我们去了餐厅，他的设备没电了，"
+    },
+    {
+      "id": 31,
+      "startMs": 169380,
+      "endMs": 177300,
+      "en": "and I started writing the alphabet, because at school, one of his teachers has an alphabet board up, and I've seen him finger spell on it.",
+      "zh": "我就开始写字母表，因为他学校的一位老师挂着字母板，我见过他在上面用手指拼写。"
+    },
+    {
+      "id": 32,
+      "startMs": 177540,
+      "endMs": 182580,
+      "en": "Well, Hunter got mad at me, flipped the paper over, and started writing the keyboard layout.",
+      "zh": "结果 Hunter 生我的气，把纸翻过来，开始写键盘布局。"
+    },
+    {
+      "id": 33,
+      "startMs": 182740,
+      "endMs": 189000,
+      "en": "That's because he's learned to type on a keyboard, because he likes to Google things to show me what he wants.",
+      "zh": "这是因为他学会了在键盘上打字，他喜欢把想要的东西搜出来给我看。"
+    },
+    {
+      "id": 34,
+      "startMs": 189080,
+      "endMs": 195160,
+      "en": "So that was kind of the aha moment, and I was like, okay, a keyboard, that's clearly his favourite way to communicate.",
+      "zh": "那一刻我恍然大悟：好，键盘显然是他最喜欢的沟通方式。"
+    },
+    {
+      "id": 35,
+      "startMs": 195400,
+      "endMs": 202600,
+      "en": "And then I thought, how can I make this so we'd never forget it at home, so it's waterproof, and the battery doesn't die.",
+      "zh": "然后我想，怎样才能让我们在家永远不会忘记它，让它防水，而且电池不会没电？"
+    },
+    {
+      "id": 36,
+      "startMs": 202680,
+      "endMs": 204840,
+      "en": "And then that's where the idea of a tattoo came.",
+      "zh": "于是，纹身这个想法就产生了。"
+    },
+    {
+      "id": 37,
+      "startMs": 205320,
+      "endMs": 206760,
+      "en": "And how has it helped Hunter?",
+      "zh": "这个纹身对 Hunter 有什么帮助？"
+    },
+    {
+      "id": 38,
+      "startMs": 207000,
+      "endMs": 208360,
+      "en": "It's helped tremendously.",
+      "zh": "帮助非常大。"
+    },
+    {
+      "id": 39,
+      "startMs": 208520,
+      "endMs": 214920,
+      "en": "A lot of kids with autism struggle with physical touch, and this has kind of taught Hunter what safe touch means.",
+      "zh": "很多自闭症孩子不适应身体接触，而这个纹身算是让 Hunter 明白了什么是安全的触碰。"
+    },
+    {
+      "id": 40,
+      "startMs": 214920,
+      "endMs": 217800,
+      "en": "So now I'm getting a lot more affection, a lot more hugs.",
+      "zh": "所以现在他对我表达了更多亲昵，也拥抱我更多。"
+    },
+    {
+      "id": 41,
+      "startMs": 218040,
+      "endMs": 223640,
+      "en": "He says, I love you, a lot more often. It's also given him the ability to speak to me privately,",
+      "zh": "他说“我爱你”的次数多多了。这个纹身还让他能够私下和我交流，"
+    },
+    {
+      "id": 42,
+      "startMs": 224120,
+      "endMs": 227480,
+      "en": "because when he uses the device, the whole room hears what he's saying.",
+      "zh": "因为他使用设备时，整个房间的人都会听见他说的话。"
+    },
+    {
+      "id": 43,
+      "startMs": 227720,
+      "endMs": 230840,
+      "en": "Do you have a favourite memory of him using it?",
+      "zh": "你最喜欢他使用纹身的哪段记忆是什么？"
+    },
+    {
+      "id": 44,
+      "startMs": 231080,
+      "endMs": 233160,
+      "en": "Definitely the first day I got it.",
+      "zh": "当然是我拿到纹身的第一天。"
+    },
+    {
+      "id": 45,
+      "startMs": 233160,
+      "endMs": 240440,
+      "en": "He grabbed my arm and made such direct eye contact, which he does when he sees something that's visually stimulating to him.",
+      "zh": "他抓住我的手臂，直直地看着我；看到视觉上吸引他的东西时，他就会这样。"
+    },
+    {
+      "id": 46,
+      "startMs": 240760,
+      "endMs": 242600,
+      "en": "And he wrote mama on my arm.",
+      "zh": "然后他在我的手臂上写下了“妈妈”。"
+    },
+    {
+      "id": 47,
+      "startMs": 242760,
+      "endMs": 250460,
+      "en": "Later that night, a couple hours later, I think he really had time to process and realized that it was permanent and it was all for him.",
+      "zh": "那天晚上过了几个小时，我想他终于有时间消化这件事，意识到纹身是永久的，而且这一切都是为他做的。"
+    },
+    {
+      "id": 48,
+      "startMs": 250620,
+      "endMs": 252620,
+      "en": "And he said, \"I love you, Mama,\" on it.",
+      "zh": "然后他在上面写道：“妈妈，我爱你。”"
+    },
+    {
+      "id": 49,
+      "startMs": 253020,
+      "endMs": 257100,
+      "en": "How do you feel when he uses it? That must be a really special feeling.",
+      "zh": "他使用纹身时，你有什么感受？那一定是非常特别的感受。"
+    },
+    {
+      "id": 50,
+      "startMs": 257260,
+      "endMs": 264620,
+      "en": "It's just, we've always had a deep bond, but now with this tattoo, it almost feels magical, and it's just the most incredible feeling in the world.",
+      "zh": "我们一直感情深厚，但有了这个纹身，一切几乎变得不可思议。这是世界上最奇妙的感受。"
+    },
+    {
+      "id": 51,
+      "startMs": 264940,
+      "endMs": 266940,
+      "en": "It's crazy that something as—I mean,",
+      "zh": "这太不可思议了——我的意思是，"
+    },
+    {
+      "id": 52,
+      "startMs": 266940,
+      "endMs": 273020,
+      "en": "It's not simple, but it is. It's crazy something just a tattoo has opened up this world of communication for you both.",
+      "zh": "它并不简单，但又确实简单。难以想象，仅仅一个纹身就为你们俩打开了沟通的新世界。"
+    },
+    {
+      "id": 53,
+      "startMs": 273580,
+      "endMs": 281420,
+      "en": "Yeah, it is. And a lot of parents have reached out. I have photos of at least a dozen parents that have gone and gotten the same tattoo.",
+      "zh": "是的。很多家长联系了我，至少有十几位家长已经去做了一模一样的纹身，我还收到了他们的照片。"
+    },
+    {
+      "id": 54,
+      "startMs": 281660,
+      "endMs": 286860,
+      "en": "There's tattoo artists all over the world that are offering to do it for free for parents in need.",
+      "zh": "世界各地的纹身师都愿意为有需要的家长免费制作这个纹身。"
+    },
+    {
+      "id": 55,
+      "startMs": 286860,
+      "endMs": 294860,
+      "en": "I've heard from artists in the United States, in the United Kingdom, in Ireland, and in Australia, and it's just crazy how global it's gotten.",
+      "zh": "美国、英国、爱尔兰和澳大利亚的纹身师都联系过我，真没想到它会传播到全世界。"
+    },
+    {
+      "id": 56,
+      "startMs": 294940,
+      "endMs": 299980,
+      "en": "And so we created shirts with it on the sleeve for people that don't want a tattoo.",
+      "zh": "所以我们把这个图案印在衣袖上做成衣服，给不想纹身的人穿。"
+    },
+    {
+      "id": 57,
+      "startMs": 299980,
+      "endMs": 302700,
+      "en": "And it's not just the autism community that's interested.",
+      "zh": "感兴趣的不只是自闭症群体。"
+    },
+    {
+      "id": 58,
+      "startMs": 303180,
+      "endMs": 308400,
+      "en": "I've had nurses that work with patients that have lost their ability to speak reach out about it.",
+      "zh": "也有帮助失去说话能力的患者的护士联系我。"
+    },
+    {
+      "id": 59,
+      "startMs": 308560,
+      "endMs": 310800,
+      "en": "First responders are reaching out about it.",
+      "zh": "急救人员也联系了我。"
+    },
+    {
+      "id": 60,
+      "startMs": 311040,
+      "endMs": 317440,
+      "en": "It's really opening a lot of doors and opening a lot of conversations about communication barriers.",
+      "zh": "它确实打开了许多大门，也引发了很多关于沟通障碍的讨论。"
+    },
+    {
+      "id": 61,
+      "startMs": 317680,
+      "endMs": 324720,
+      "en": "I guess there's a message here, isn't there, about going out of your way to help people who can't communicate through words.",
+      "zh": "我想这传达了一个信息：我们应该主动帮助那些无法用语言沟通的人。"
+    },
+    {
+      "id": 62,
+      "startMs": 325120,
+      "endMs": 328800,
+      "en": "Why is it important that we do find ways to communicate with everybody?",
+      "zh": "为什么我们一定要找到与每个人沟通的方式？"
+    },
+    {
+      "id": 63,
+      "startMs": 328880,
+      "endMs": 338400,
+      "en": "Historically, we've often brushed off non-speakers. There's been this long-time assumption that non-speaking means non-thinking, and that's not true.",
+      "zh": "过去，我们多少忽视了不说话的人。长期以来，人们以为不会说话就不会思考，但事实并非如此。"
+    },
+    {
+      "id": 64,
+      "startMs": 338400,
+      "endMs": 345280,
+      "en": "Just because they can't speak, they have a whole world of thoughts and feelings and complex ideas inside of them.",
+      "zh": "他们只是无法说话，但内心拥有完整的思想、感受和复杂的想法。"
+    },
+    {
+      "id": 65,
+      "startMs": 345360,
+      "endMs": 350720,
+      "en": "You spoke a minute ago just about the reaction that you've had when you posted this tattoo online.",
+      "zh": "你刚才谈到了把这个纹身发到网上后得到的反响。"
+    },
+    {
+      "id": 66,
+      "startMs": 351040,
+      "endMs": 355920,
+      "en": "How does it feel to know that you're inspiring that change for other families?",
+      "zh": "知道自己正在为其他家庭带来这样的改变，你感觉如何？"
+    },
+    {
+      "id": 67,
+      "startMs": 356240,
+      "endMs": 363760,
+      "en": "It feels really incredible. I didn't expect it to go this viral. Like to see that it has over 115 million views is wild.",
+      "zh": "感觉真的不可思议。我没想到它会这么火。看到浏览量超过1.15亿，简直太疯狂了。"
+    },
+    {
+      "id": 68,
+      "startMs": 363920,
+      "endMs": 371780,
+      "en": "I knew in this life that my purpose was Hunter, but I've always wanted to make an impact in the world and make a difference for other families.",
+      "zh": "我知道此生的使命就是陪伴亨特，但我一直也想影响这个世界，为其他家庭带来改变。"
+    },
+    {
+      "id": 69,
+      "startMs": 372180,
+      "endMs": 377140,
+      "en": "The main message I like to tell people is to always presume competence.",
+      "zh": "我最想告诉大家的是：永远要假定他们有能力。"
+    },
+    {
+      "id": 70,
+      "startMs": 377300,
+      "endMs": 379860,
+      "en": "Don't talk about them, talk to them.",
+      "zh": "不要谈论他们，要和他们交谈。"
+    },
+    {
+      "id": 71,
+      "startMs": 379860,
+      "endMs": 386660,
+      "en": "Don't assume that they aren't as intelligent as you are, because 99% of the time, they are.",
+      "zh": "不要以为他们不如你聪明，因为99%的时候，他们和你一样聪明。"
+    },
+    {
+      "id": 72,
+      "startMs": 387460,
+      "endMs": 394340,
+      "en": "That was Jessica Fletcher. To the French Alps next, where a regatta is taking place in Aix-les-Bains.",
+      "zh": "刚才是杰西卡·弗莱彻。接下来前往法国阿尔卑斯山，艾克斯莱班正在举行一场赛艇比赛。"
+    },
+    {
+      "id": 73,
+      "startMs": 394980,
+      "endMs": 397940,
+      "en": "This, however, is a festival with a difference.",
+      "zh": "不过，这是一场与众不同的节庆活动。"
+    },
+    {
+      "id": 74,
+      "startMs": 398180,
+      "endMs": 402580,
+      "en": "All the participants in the dragon boat race are survivors of breast cancer.",
+      "zh": "龙舟赛的所有参赛者都是乳腺癌幸存者。"
+    },
+    {
+      "id": 75,
+      "startMs": 402980,
+      "endMs": 410020,
+      "en": "The event is run by the International Breast Cancer Paddlers' Commission, and one of the women taking part is Maria Fleming.",
+      "zh": "活动由国际乳腺癌划船者委员会主办，参赛者之一是玛丽亚·弗莱明。"
+    },
+    {
+      "id": 76,
+      "startMs": 410340,
+      "endMs": 415780,
+      "en": "She belongs to the Irish group, the Plurabelle Paddlers. She spoke to me from the event.",
+      "zh": "她来自爱尔兰的 Plurabelle Paddlers 队，并在活动现场接受了我的采访。"
+    },
+    {
+      "id": 77,
+      "startMs": 416100,
+      "endMs": 424420,
+      "en": "I was diagnosed in 2019, and I was 49 at the time.",
+      "zh": "我在2019年确诊，那时我49岁。"
+    },
+    {
+      "id": 78,
+      "startMs": 424600,
+      "endMs": 426920,
+      "en": "I remember my oncologist telling me:",
+      "zh": "我记得肿瘤科医生告诉我这个消息时说："
+    },
+    {
+      "id": 79,
+      "startMs": 426920,
+      "endMs": 429800,
+      "en": "\"So you're probably looking at a year and a half of treatment.\"",
+      "zh": "“所以你可能要接受一年半的治疗。”"
+    },
+    {
+      "id": 80,
+      "startMs": 430120,
+      "endMs": 433720,
+      "en": "And in my head, I was saying, \"Who's got a year and a half to give to cancer?\"",
+      "zh": "但我心里想的是：“谁能拿出一年半的时间给癌症？”"
+    },
+    {
+      "id": 81,
+      "startMs": 433720,
+      "endMs": 440680,
+      "en": "I'll give it six months, but after that, I really need to be cracking on with things, as if I had some control over it.",
+      "zh": "我给它六个月，但之后我真的得继续生活，好像一切还在我的掌控之中。"
+    },
+    {
+      "id": 82,
+      "startMs": 440760,
+      "endMs": 449480,
+      "en": "I went through treatment, and I had seen people out racing in dragon boats on this piece of water in Dublin that I passed sporadically",
+      "zh": "治疗期间，我曾看到有人在都柏林这片水域上划龙舟比赛；我偶尔会经过那里，"
+    },
+    {
+      "id": 83,
+      "startMs": 449480,
+      "endMs": 451240,
+      "en": "and thinking, that looks fantastic.",
+      "zh": "心想：看起来真棒。"
+    },
+    {
+      "id": 84,
+      "startMs": 451480,
+      "endMs": 456440,
+      "en": "And I remember noticing that it was all women in the boat that I saw, and I was kind of wondering what that club is.",
+      "zh": "我记得我注意到，看到的船上全是女性，于是有点好奇那是什么俱乐部。"
+    },
+    {
+      "id": 85,
+      "startMs": 456920,
+      "endMs": 465160,
+      "en": "And then during my cancer treatment, somebody mentioned to me the Plurabelle Paddlers, who were a breast cancer dragon boat team.",
+      "zh": "后来在治疗期间，有人向我提到 Plurabelle Paddlers，那是一支乳腺癌患者龙舟队。"
+    },
+    {
+      "id": 86,
+      "startMs": 465560,
+      "endMs": 472440,
+      "en": "So, when I got towards the end of my treatment, I looked it up on the website and signed up for a trial,",
+      "zh": "治疗接近尾声时，我在网站上查了查，报名参加试训，"
+    },
+    {
+      "id": 87,
+      "startMs": 472760,
+      "endMs": 480440,
+      "en": "and it was absolutely the best thing that I ever did and the best thing to come out of the cancer diagnosis and treatment.",
+      "zh": "这是我做过最棒的决定，也是癌症诊断和治疗带来的最好结果。"
+    },
+    {
+      "id": 88,
+      "startMs": 480520,
+      "endMs": 483000,
+      "en": "Where breast cancer dragon boat came from.",
+      "zh": "乳腺癌龙舟运动的起源。"
+    },
+    {
+      "id": 89,
+      "startMs": 483000,
+      "endMs": 490860,
+      "en": "Dragon boating itself is over 2,000 years old and it originated in China, and it's a really growing sport.",
+      "zh": "龙舟运动本身已有两千多年历史，起源于中国，如今正日益普及。"
+    },
+    {
+      "id": 90,
+      "startMs": 491020,
+      "endMs": 497260,
+      "en": "But a fabulous man in Canada, Dr. Don McKenzie, who was a sports medicine specialist,",
+      "zh": "但加拿大有一位了不起的人，运动医学专家唐·麦肯齐博士，"
+    },
+    {
+      "id": 91,
+      "startMs": 497740,
+      "endMs": 503580,
+      "en": "wanted to try out if dragon boating and repetitive upper body and arm exercises",
+      "zh": "想研究龙舟运动以及反复的上肢和手臂锻炼，"
+    },
+    {
+      "id": 92,
+      "startMs": 503660,
+      "endMs": 512060,
+      "en": "would help women in recovery from breast cancer to regrow their upper body strength after treatment.",
+      "zh": "是否能帮助乳腺癌康复女性在治疗后恢复上肢力量。"
+    },
+    {
+      "id": 93,
+      "startMs": 512060,
+      "endMs": 514940,
+      "en": "in a pilot with 25 women in Canada.",
+      "zh": "在加拿大对25名女性开展了一项试点研究。"
+    },
+    {
+      "id": 94,
+      "startMs": 515180,
+      "endMs": 520700,
+      "en": "And of course, what he discovered was that not only was it fantastic for rebuilding their upper-body strength",
+      "zh": "当然，他发现这不仅非常有助于她们重建上肢力量，"
+    },
+    {
+      "id": 95,
+      "startMs": 521020,
+      "endMs": 527180,
+      "en": "but emotionally, physically, socially, it was just fantastic for the women in every way.",
+      "zh": "在情感、身体和社交层面，这对女性各方面都非常有益。"
+    },
+    {
+      "id": 96,
+      "startMs": 527580,
+      "endMs": 534540,
+      "en": "And then the first world competition for breast cancer teams happened in Canada.",
+      "zh": "随后，首届乳腺癌团队世界大赛在加拿大举行。"
+    },
+    {
+      "id": 97,
+      "startMs": 534620,
+      "endMs": 538860,
+      "en": "Through the growing sport, it's now gone all over the world.",
+      "zh": "随着这项运动发展壮大，如今它已遍及全球。"
+    },
+    {
+      "id": 98,
+      "startMs": 539020,
+      "endMs": 545600,
+      "en": "How does it feel to be paddling alongside women that have had a very similar journey to you?",
+      "zh": "和经历过相似历程的女性一起划船，感觉如何？"
+    },
+    {
+      "id": 99,
+      "startMs": 545840,
+      "endMs": 549760,
+      "en": "Do you know, we joke all the time that we're all in the same boat, literally.",
+      "zh": "你知道，我们总是开玩笑说，字面意义上我们都在同一条船上。"
+    },
+    {
+      "id": 100,
+      "startMs": 550960,
+      "endMs": 556080,
+      "en": "There are women of every shape and size and age and colour and creed.",
+      "zh": "这些女性有着不同的体形、身材、年龄、肤色和信仰。"
+    },
+    {
+      "id": 101,
+      "startMs": 556320,
+      "endMs": 563600,
+      "en": "You know, we have differences across everything else, and then there's this one major thing that binds us all.",
+      "zh": "我们在其他方面各不相同，但有一件大事把我们所有人联系在一起。"
+    },
+    {
+      "id": 102,
+      "startMs": 564000,
+      "endMs": 568240,
+      "en": "And I'm not going to lie, yesterday I got a bit emotional, like looking around the lake",
+      "zh": "说实话，昨天我有些激动，我环顾湖面时，"
+    },
+    {
+      "id": 103,
+      "startMs": 568240,
+      "endMs": 574160,
+      "en": "and looking around the site and going, every one of us, every single one of us has gone through this journey.",
+      "zh": "又环顾现场，心想我们每一个人，真的每一个人，都经历过这段旅程。"
+    },
+    {
+      "id": 104,
+      "startMs": 574560,
+      "endMs": 582880,
+      "en": "There is a shorthand that we have with each other because we understand what people have been through, the journey they've gone on.",
+      "zh": "我们彼此之间有一种默契，因为我们了解对方经历过什么、走过怎样的历程。"
+    },
+    {
+      "id": 105,
+      "startMs": 582880,
+      "endMs": 587600,
+      "en": "And there's something we share and know about each other that others, with the best will in the world",
+      "zh": "我们共享着一些只有彼此才能理解的东西，即使别人再有善意，"
+    },
+    {
+      "id": 106,
+      "startMs": 587600,
+      "endMs": 595360,
+      "en": "can't understand what it might be to get a cancer diagnosis, to have to go through treatment.",
+      "zh": "也无法理解得知癌症诊断、不得不接受治疗是什么感受。"
+    },
+    {
+      "id": 107,
+      "startMs": 595760,
+      "endMs": 600080,
+      "en": "And I really see it that we all took those lemons and we made lemonade.",
+      "zh": "我真心觉得，我们都把那些柠檬变成了柠檬水。"
+    },
+    {
+      "id": 108,
+      "startMs": 600480,
+      "endMs": 605460,
+      "en": "What message do you hope people take away when they see you paddling?",
+      "zh": "你希望人们看到你们划船时得到什么启示？"
+    },
+    {
+      "id": 109,
+      "startMs": 605620,
+      "endMs": 610980,
+      "en": "There is no family anywhere in the world now, really, that hasn't been impacted by cancer.",
+      "zh": "如今，世界上几乎没有哪个家庭未曾受到癌症影响。"
+    },
+    {
+      "id": 110,
+      "startMs": 611220,
+      "endMs": 620020,
+      "en": "And what I'd love for them to take from seeing 4,500 women on a lake in France, paddling and living their best lives",
+      "zh": "我希望他们看到法国湖面上4500名女性划船、享受美好生活时，"
+    },
+    {
+      "id": 111,
+      "startMs": 620820,
+      "endMs": 628900,
+      "en": "is that there are positive stories. Of course, there is loss, but there is life, and there is a way",
+      "zh": "明白其中有许多积极的故事。当然会有失去，但也有生命，也有办法"
+    },
+    {
+      "id": 112,
+      "startMs": 629060,
+      "endMs": 634100,
+      "en": "to get back your strength, your health, your happiness.",
+      "zh": "重新找回力量、健康和幸福。"
+    },
+    {
+      "id": 113,
+      "startMs": 634500,
+      "endMs": 638420,
+      "en": "And, you know, we're looking for support. We're not looking for pity.",
+      "zh": "我们寻求的是支持，而不是怜悯。"
+    },
+    {
+      "id": 114,
+      "startMs": 638580,
+      "endMs": 641780,
+      "en": "And we're looking for support for us to live our best lives.",
+      "zh": "我们希望得到支持，去过好自己的生活。"
+    },
+    {
+      "id": 115,
+      "startMs": 642180,
+      "endMs": 646980,
+      "en": "And I have to say that phrase has been used so many times by members of the club",
+      "zh": "我得说，俱乐部成员们已经多次说起这句话，"
+    },
+    {
+      "id": 116,
+      "startMs": 646980,
+      "endMs": 653620,
+      "en": "as we wander around France here in between trainings, you know, stopping and having an ice cream.",
+      "zh": "我们在法国训练间隙四处走走，停下来吃个冰淇淋时也会说起。"
+    },
+    {
+      "id": 117,
+      "startMs": 653700,
+      "endMs": 657940,
+      "en": "We just really appreciate that we're living our best lives and that we've been supported",
+      "zh": "我们非常珍惜自己正在过着最好的生活，也珍惜得到的支持，"
+    },
+    {
+      "id": 118,
+      "startMs": 658420,
+      "endMs": 661380,
+      "en": "to make the best of our lives, however long that may be",
+      "zh": "让我们无论还能拥有多久，都尽力过好生活，"
+    },
+    {
+      "id": 119,
+      "startMs": 661380,
+      "endMs": 664020,
+      "en": "and it will be different for everybody.",
+      "zh": "而这对每个人来说都不一样。"
+    },
+    {
+      "id": 120,
+      "startMs": 664680,
+      "endMs": 672120,
+      "en": "Maria Fleming. Now, plastic probably isn't the first ingredient you think of when you're making some cookies.",
+      "zh": "玛丽亚·弗莱明。现在，塑料大概不是你做饼干时首先想到的食材。"
+    },
+    {
+      "id": 121,
+      "startMs": 672200,
+      "endMs": 675880,
+      "en": "In fact, plastic probably is not in your recipe at all.",
+      "zh": "事实上，塑料根本不在你的食谱里。"
+    },
+    {
+      "id": 122,
+      "startMs": 676200,
+      "endMs": 683000,
+      "en": "However, researchers in the United States are working on a recipe for cookies made from recycled plastic bottles.",
+      "zh": "然而，美国研究人员正在研究一种用回收塑料瓶制作饼干的配方。"
+    },
+    {
+      "id": 123,
+      "startMs": 683320,
+      "endMs": 688440,
+      "en": "Mary Roeloffs from Forbes magazine spoke to my colleague Reegini Vardinathan.",
+      "zh": "《福布斯》杂志的玛丽·罗洛夫斯接受了我同事里吉尼·瓦尔迪纳坦的采访。"
+    },
+    {
+      "id": 124,
+      "startMs": 688600,
+      "endMs": 692520,
+      "en": "It's important to note that humans aren't eating raw plastic, even in these cookies.",
+      "zh": "需要指出的是，即使在这些饼干中，人类吃的也不是未经处理的塑料。"
+    },
+    {
+      "id": 125,
+      "startMs": 692840,
+      "endMs": 699160,
+      "en": "Microbes, you know, like bacteria and algae, are eating the plastic and then breaking it down into the nutritional molecules",
+      "zh": "微生物，比如细菌和藻类，会吞噬塑料并将其分解成营养分子，"
+    },
+    {
+      "id": 126,
+      "startMs": 699160,
+      "endMs": 701480,
+      "en": "that we think of as proteins, fats and vitamins.",
+      "zh": "也就是蛋白质、脂肪和维生素等。"
+    },
+    {
+      "id": 127,
+      "startMs": 701560,
+      "endMs": 706200,
+      "en": "And then more yeast are reassembling those things back into a food product.",
+      "zh": "然后，更多酵母会把这些物质重新组装成食品。"
+    },
+    {
+      "id": 128,
+      "startMs": 706200,
+      "endMs": 712680,
+      "en": "And then a 3D printer is actually turning the final mixture into a little cookie that's reportedly quite nutrient-dense.",
+      "zh": "接着，3D打印机会把最终混合物制成一块据报道营养相当丰富的小饼干。"
+    },
+    {
+      "id": 129,
+      "startMs": 712680,
+      "endMs": 714280,
+      "en": "Have you tried one? I have not.",
+      "zh": "你试过一块吗？我没有。"
+    },
+    {
+      "id": 130,
+      "startMs": 714680,
+      "endMs": 717960,
+      "en": "They are not doing full-scale taste testing yet.",
+      "zh": "他们还没有进行全面的味觉测试。"
+    },
+    {
+      "id": 131,
+      "startMs": 717960,
+      "endMs": 724680,
+      "en": "They're still waiting for sign-off, but they have done some smell tests, and apparently most participants said that they would eat the cookies",
+      "zh": "他们仍在等待批准，但已经做过一些嗅觉测试，据说大多数参与者表示会吃这种饼干。"
+    },
+    {
+      "id": 132,
+      "startMs": 724780,
+      "endMs": 728700,
+      "en": "in a resource-limited setting. These are supposed to be quite good for you, aren't they?",
+      "zh": "在资源有限的环境下，据说这种饼干对身体相当有益，对吧？"
+    },
+    {
+      "id": 133,
+      "startMs": 728780,
+      "endMs": 732620,
+      "en": "Which to most people might sound counterintuitive, certainly to me.",
+      "zh": "这对大多数人来说听起来可能违反直觉，至少对我来说是这样。"
+    },
+    {
+      "id": 134,
+      "startMs": 732860,
+      "endMs": 738380,
+      "en": "I think there's protein and vitamins and fats, and in the future they said they're hoping that they'll be able to",
+      "zh": "我想其中有蛋白质、维生素和脂肪；他们说，未来希望能够"
+    },
+    {
+      "id": 135,
+      "startMs": 738460,
+      "endMs": 744220,
+      "en": "make the starch and the fiber and the sweetener and everything, really, using this microbe process that they've come up with.",
+      "zh": "真正利用他们研发的微生物工艺制造淀粉、纤维、甜味剂等所有成分。"
+    },
+    {
+      "id": 136,
+      "startMs": 744540,
+      "endMs": 751900,
+      "en": "And what's the reasoning behind this? It was conducted as part of a NASA-led project aimed at creating foods for deep-space exploration.",
+      "zh": "那这样做的原因是什么？这项研究是美国国家航空航天局牵头项目的一部分，旨在为深空探索制造食物。"
+    },
+    {
+      "id": 137,
+      "startMs": 752140,
+      "endMs": 757260,
+      "en": "Astronauts could be among the earliest adopters, but they could also be used in disaster zones.",
+      "zh": "宇航员可能会成为最早使用者，灾区也可能用得上这种食品。"
+    },
+    {
+      "id": 138,
+      "startMs": 757260,
+      "endMs": 760780,
+      "en": "On submarines, or other places where fresh foods are harder to get.",
+      "zh": "它还可以用于潜艇，或其他难以获得新鲜食物的地方。"
+    },
+    {
+      "id": 139,
+      "startMs": 761100,
+      "endMs": 765020,
+      "en": "And this isn't the first time that plastic's been used for food in this way, is it?",
+      "zh": "这也不是塑料第一次以这种方式用于食品，对吧？"
+    },
+    {
+      "id": 140,
+      "startMs": 765020,
+      "endMs": 768540,
+      "en": "I think scientists have achieved this before, but on a bit of a smaller scale.",
+      "zh": "我想科学家以前实现过这一点，只是规模小一些。"
+    },
+    {
+      "id": 141,
+      "startMs": 768860,
+      "endMs": 773820,
+      "en": "So, an Edinburgh study a few years ago was able to convert plastic water bottles into vanilla flavouring.",
+      "zh": "几年前，爱丁堡的一项研究就曾将塑料水瓶转化为香草调味剂。"
+    },
+    {
+      "id": 142,
+      "startMs": 774060,
+      "endMs": 781980,
+      "en": "But researchers in the US have also been able to engineer a fungus that's capable of eating things like styrofoam and foam cups and packaging",
+      "zh": "但美国研究人员还成功培育出一种真菌，能够吞食泡沫塑料、泡沫杯和包装材料等物质，"
+    },
+    {
+      "id": 143,
+      "startMs": 781980,
+      "endMs": 783660,
+      "en": "to help break down those materials.",
+      "zh": "从而帮助分解这些材料。"
+    },
+    {
+      "id": 144,
+      "startMs": 784140,
+      "endMs": 786720,
+      "en": "And why would you do this in the first place?",
+      "zh": "那最初为什么要这样做呢？"
+    },
+    {
+      "id": 145,
+      "startMs": 786800,
+      "endMs": 790640,
+      "en": "I think being able to do this might help bolster the global food",
+      "zh": "我认为，这样做可能大大有助于增强全球粮食"
+    },
+    {
+      "id": 146,
+      "startMs": 790640,
+      "endMs": 793360,
+      "en": "supply as demand continues to surge.",
+      "zh": "全球食品供应，因为需求仍在不断激增。"
+    },
+    {
+      "id": 147,
+      "startMs": 793440,
+      "endMs": 801460,
+      "en": "Mary Roeloffs. Coming up on The Happy Pod,",
+      "zh": "玛丽·罗洛夫斯。接下来，《快乐播客》将带来……"
+    },
+    {
+      "id": 148,
+      "startMs": 801780,
+      "endMs": 808740,
+      "en": "those small victories of introducing Synergy to someone and they previously were unwilling to work with us",
+      "zh": "那些小小的胜利：把 Synergy 介绍给一些人，他们之前不愿与我们合作。"
+    },
+    {
+      "id": 149,
+      "startMs": 808740,
+      "endMs": 811860,
+      "en": "to get their documents, but because of her being there, they're willing.",
+      "zh": "他们本不愿提供证件，但因为 Synergy 在场，他们愿意了。"
+    },
+    {
+      "id": 150,
+      "startMs": 812180,
+      "endMs": 816020,
+      "en": "The mini pig helping to combat homelessness in Washington, D.C.",
+      "zh": "这头迷你小猪帮助应对华盛顿特区的无家可归问题。"
+    },
+    {
+      "id": 151,
+      "startMs": 816020,
+      "endMs": 818020,
+      "en": "You're listening to The Happy Pod.",
+      "zh": "你正在收听《快乐播客》。"
+    },
+    {
+      "id": 152,
+      "startMs": 818820,
+      "endMs": 823620,
+      "en": "A community in the north of England is on a mission to bring together multiple generations,",
+      "zh": "英格兰北部的一个社区致力于让不同世代走到一起，"
+    },
+    {
+      "id": 153,
+      "startMs": 823780,
+      "endMs": 828260,
+      "en": "so they've built a nursery inside a retirement living facility.",
+      "zh": "因此，他们在一处养老居住设施内建起了托儿所。"
+    },
+    {
+      "id": 154,
+      "startMs": 828900,
+      "endMs": 832900,
+      "en": "The owners say everyone has something to offer, no matter their age.",
+      "zh": "业主们说，无论年龄大小，每个人都有所贡献。"
+    },
+    {
+      "id": 155,
+      "startMs": 833220,
+      "endMs": 836340,
+      "en": "The BBC's Maira Anubi has been along to find out more.",
+      "zh": "BBC 记者 Maira Anubi 前往那里了解更多情况。"
+    },
+    {
+      "id": 156,
+      "startMs": 837140,
+      "endMs": 842180,
+      "en": "I've just stepped into a bright, open area that has both a reception and cafe.",
+      "zh": "我刚走进一处明亮开阔的区域，那里既有接待处，也有咖啡馆。"
+    },
+    {
+      "id": 157,
+      "startMs": 842420,
+      "endMs": 849220,
+      "en": "This place is called Belong. It's a retirement village, basically a building with apartments and rooms for older people",
+      "zh": "这里叫 Belong，是一座养老村，本质上是一栋为老人提供公寓和房间的建筑，"
+    },
+    {
+      "id": 158,
+      "startMs": 849700,
+      "endMs": 853460,
+      "en": "who are either living independently or need more care and support.",
+      "zh": "他们有的能独立生活，有的则需要更多照护和支持。"
+    },
+    {
+      "id": 159,
+      "startMs": 854100,
+      "endMs": 856660,
+      "en": "There also happens to be a nursery here.",
+      "zh": "这里恰好还设有一所托儿所。"
+    },
+    {
+      "id": 160,
+      "startMs": 858800,
+      "endMs": 861680,
+      "en": "I've been invited to a room where there are about 20 people,",
+      "zh": "我受邀来到一间房，里面大约有20个人，"
+    },
+    {
+      "id": 161,
+      "startMs": 861760,
+      "endMs": 864480,
+      "en": "so the older folks, support workers, children,",
+      "zh": "包括老人、工作人员和孩子，"
+    },
+    {
+      "id": 162,
+      "startMs": 864800,
+      "endMs": 869120,
+      "en": "and they're all sat on chairs in a big circle for one of their shared activities.",
+      "zh": "他们都围坐在椅子上，参加一项共同活动。"
+    },
+    {
+      "id": 163,
+      "startMs": 869960,
+      "endMs": 874840,
+      "en": "So right now, they're having a session where one man has brought in different reptiles",
+      "zh": "现在，他们正在进行一场活动：一名男子带来了各种爬行动物，"
+    },
+    {
+      "id": 164,
+      "startMs": 874840,
+      "endMs": 877880,
+      "en": "and everyone is having a go touching them, and it's fascinating.",
+      "zh": "大家轮流触摸它们，场面非常有趣。"
+    },
+    {
+      "id": 165,
+      "startMs": 877880,
+      "endMs": 881880,
+      "en": "Nice to meet you. What's your name? Frieda.",
+      "zh": "很高兴认识你。你叫什么名字？弗里达。"
+    },
+    {
+      "id": 166,
+      "startMs": 882040,
+      "endMs": 884280,
+      "en": "Frieda, how did you find today's session with the reptiles?",
+      "zh": "弗里达，你觉得今天和爬行动物一起的活动怎么样？"
+    },
+    {
+      "id": 167,
+      "startMs": 884840,
+      "endMs": 886040,
+      "en": "Very interesting.",
+      "zh": "非常有趣。"
+    },
+    {
+      "id": 168,
+      "startMs": 887180,
+      "endMs": 889900,
+      "en": "And how do you find interacting with the kids?",
+      "zh": "和孩子们互动，你感觉怎么样？"
+    },
+    {
+      "id": 169,
+      "startMs": 890220,
+      "endMs": 895500,
+      "en": "I do enjoy being with the children. They're so enthusiastic about things, aren't they?",
+      "zh": "我很喜欢和孩子们在一起。他们对什么都那么热情，对吧？"
+    },
+    {
+      "id": 170,
+      "startMs": 897120,
+      "endMs": 904320,
+      "en": "And you just... you just get drawn in, and sort of enjoy being with them, really.",
+      "zh": "你会不知不觉被吸引进去，真的就喜欢和他们待在一起。"
+    },
+    {
+      "id": 171,
+      "startMs": 904320,
+      "endMs": 910160,
+      "en": "Yes. Could you tell me your name and, if you would, I know you look really young, but how old you are?",
+      "zh": "是的。可以告诉我你的名字吗？虽然你看起来很年轻，但如果方便的话，你多大了？"
+    },
+    {
+      "id": 172,
+      "startMs": 911200,
+      "endMs": 914160,
+      "en": "I'm 69. My name is Ann.",
+      "zh": "我69岁。我叫 Ann。"
+    },
+    {
+      "id": 173,
+      "startMs": 914560,
+      "endMs": 922240,
+      "en": "I think it's wonderful with children that they have opportunity to chat to the older people.",
+      "zh": "我觉得孩子们有机会和老人聊天非常好。"
+    },
+    {
+      "id": 174,
+      "startMs": 922400,
+      "endMs": 929600,
+      "en": "I like to come and see what the children are doing. They ask some fascinating questions.",
+      "zh": "我喜欢过来看看孩子们在做什么。他们会问一些非常有趣的问题。"
+    },
+    {
+      "id": 175,
+      "startMs": 931180,
+      "endMs": 934620,
+      "en": "They're finding out and you're finding out. It's lovely.",
+      "zh": "他们在了解，你也在了解。这很美好。"
+    },
+    {
+      "id": 176,
+      "startMs": 934940,
+      "endMs": 937820,
+      "en": "Ann, are you going to come clean now? Oh, my God.",
+      "zh": "Ann，你现在要坦白了吗？天哪。"
+    },
+    {
+      "id": 177,
+      "startMs": 937820,
+      "endMs": 941660,
+      "en": "You told everybody you were 69, and how old are you really?",
+      "zh": "你告诉大家你69岁，那你到底多大了？"
+    },
+    {
+      "id": 178,
+      "startMs": 941980,
+      "endMs": 948580,
+      "en": "85. And the person who knows their real age—well, that's Sue Egersdorff,",
+      "zh": "85岁。而知道她真实年龄的人——就是 Sue Egersdorff，"
+    },
+    {
+      "id": 179,
+      "startMs": 948900,
+      "endMs": 952020,
+      "en": "the co-founder of the charity that runs this nursery.",
+      "zh": "她是运营这所托儿所的慈善机构联合创始人。"
+    },
+    {
+      "id": 180,
+      "startMs": 952340,
+      "endMs": 957860,
+      "en": "Now, Sue saw a big need for a space that would let people mingle outside their own age group.",
+      "zh": "Sue 发现，人们非常需要一个能让不同年龄群体彼此交流的空间。"
+    },
+    {
+      "id": 181,
+      "startMs": 958680,
+      "endMs": 966600,
+      "en": "What we see is, you know, a society which is becoming fragmented and people are becoming socially isolated.",
+      "zh": "我们看到，社会正变得碎片化，人们也越来越与社会隔绝。"
+    },
+    {
+      "id": 182,
+      "startMs": 966920,
+      "endMs": 972040,
+      "en": "How can we connect some of these things that have traditionally been quite separate and diverse?",
+      "zh": "我们怎样才能把这些传统上相当分离、各不相同的事物联系起来？"
+    },
+    {
+      "id": 183,
+      "startMs": 972480,
+      "endMs": 979040,
+      "en": "It all started when Sue noticed that residents at her own mother's care home seemed secluded from the wider community,",
+      "zh": "一切始于 Sue 注意到，自己母亲所在的护理院居民似乎与更广泛的社区隔绝，"
+    },
+    {
+      "id": 184,
+      "startMs": 979440,
+      "endMs": 981680,
+      "en": "even though they still had a lot more to give.",
+      "zh": "尽管他们仍有许多东西可以贡献。"
+    },
+    {
+      "id": 185,
+      "startMs": 982400,
+      "endMs": 989200,
+      "en": "It just felt like within the care settings, there was such diversity of knowledge and wisdom",
+      "zh": "她只是觉得，在护理环境中蕴藏着如此多元的知识与智慧，"
+    },
+    {
+      "id": 186,
+      "startMs": 989200,
+      "endMs": 994960,
+      "en": "that could be used to really help young children progress and see how they fitted into the world.",
+      "zh": "这些知识与智慧本可以真正帮助孩子成长，并了解自己如何融入世界。"
+    },
+    {
+      "id": 187,
+      "startMs": 995680,
+      "endMs": 1002320,
+      "en": "Back in 2019, Sue and her co-founder, Liz Ludden, founded the charity Ready Generations",
+      "zh": "2019年，Sue 与联合创始人 Liz Ludden 创办了 Ready Generations 慈善机构，"
+    },
+    {
+      "id": 188,
+      "startMs": 1002560,
+      "endMs": 1006400,
+      "en": "to create a centre that would bring elderly people and young children together.",
+      "zh": "旨在建立一个让老年人与幼儿走到一起的中心。"
+    },
+    {
+      "id": 189,
+      "startMs": 1006640,
+      "endMs": 1010560,
+      "en": "So they approached Belong Villages, an organisation that runs retirement homes,",
+      "zh": "于是，他们找到运营养老院的 Belong Villages，"
+    },
+    {
+      "id": 190,
+      "startMs": 1010560,
+      "endMs": 1014480,
+      "en": "with the idea of putting a nursery in one of them.",
+      "zh": "提出在其中一处养老院开设托儿所的想法。"
+    },
+    {
+      "id": 191,
+      "startMs": 1014880,
+      "endMs": 1018160,
+      "en": "The nursery in Belong opened in 2022.",
+      "zh": "Belong 的托儿所于2022年开业。"
+    },
+    {
+      "id": 192,
+      "startMs": 1018240,
+      "endMs": 1025440,
+      "en": "It started off with just two children, but word of this unusual place spread, and it's now full, with 25 children.",
+      "zh": "这里最初只有两个孩子，但这处特别的地方逐渐传开，如今已经招满25个孩子。"
+    },
+    {
+      "id": 193,
+      "startMs": 1026000,
+      "endMs": 1029920,
+      "en": "Alison is visiting her mother Dorothy, who lives at this retirement village,",
+      "zh": "Alison 正在探望住在这座养老村的母亲 Dorothy，"
+    },
+    {
+      "id": 194,
+      "startMs": 1030240,
+      "endMs": 1034660,
+      "en": "and they both say they've seen a positive impact on both the kids and the older people.",
+      "zh": "她们都说，这里对孩子和老人都有积极影响。"
+    },
+    {
+      "id": 195,
+      "startMs": 1035300,
+      "endMs": 1038500,
+      "en": "To see people kneeling down on the floor, that is sensational.",
+      "zh": "看着大家跪在地板上，真是太棒了。"
+    },
+    {
+      "id": 196,
+      "startMs": 1038660,
+      "endMs": 1041860,
+      "en": "The kids make you forget the aches and... Oh, yes. Yes. Yes.",
+      "zh": "孩子们会让你忘记疼痛……哦，是的，是的，是的。"
+    },
+    {
+      "id": 197,
+      "startMs": 1042100,
+      "endMs": 1046500,
+      "en": "The nursery has brought a lot of pleasure and interest.",
+      "zh": "这家托儿所带来了许多快乐和兴趣。"
+    },
+    {
+      "id": 198,
+      "startMs": 1046980,
+      "endMs": 1051620,
+      "en": "They learn to care and share, which I think is very important.",
+      "zh": "他们学会关心和分享，我认为这非常重要。"
+    },
+    {
+      "id": 199,
+      "startMs": 1052180,
+      "endMs": 1054180,
+      "en": "That report was from Maira Anubi.",
+      "zh": "以上报道来自梅拉·阿努比。"
+    },
+    {
+      "id": 200,
+      "startMs": 1054180,
+      "endMs": 1061060,
+      "en": "A man here in London has become the first person in the world to undergo live AI-assisted brain surgery.",
+      "zh": "伦敦一名男子成为全球首位接受实时AI辅助脑部手术的人。"
+    },
+    {
+      "id": 201,
+      "startMs": 1061540,
+      "endMs": 1068180,
+      "en": "Rhys Hibbert could have lost his sight had a tumour not been removed from his pituitary gland that contains vital hormones.",
+      "zh": "如果不从含有重要激素的垂体腺中切除肿瘤，里斯·希伯特可能会失明。"
+    },
+    {
+      "id": 202,
+      "startMs": 1068580,
+      "endMs": 1074020,
+      "en": "My colleague Sarah Montague spoke to Professor Hani Marcus, who performed the operation.",
+      "zh": "我的同事莎拉·蒙塔古采访了主刀的哈尼·马库斯教授。"
+    },
+    {
+      "id": 203,
+      "startMs": 1074180,
+      "endMs": 1080260,
+      "en": "The gland sits more or less in the centre of the brain, and although it's not cancer, these tumours grow and grow and grow,",
+      "zh": "这个腺体大致位于大脑中央；虽然肿瘤不是癌症，却会不断生长。"
+    },
+    {
+      "id": 204,
+      "startMs": 1080340,
+      "endMs": 1085220,
+      "en": "and eventually put pressure on the sort of associated structures, including those that supply his vision.",
+      "zh": "最终，它们会压迫相关结构，包括负责供给视觉的结构。"
+    },
+    {
+      "id": 205,
+      "startMs": 1085460,
+      "endMs": 1088180,
+      "en": "And in this particular case, he was losing his eyesight.",
+      "zh": "而在他的具体病例中，他当时正在失去视力。"
+    },
+    {
+      "id": 206,
+      "startMs": 1088340,
+      "endMs": 1092660,
+      "en": "Yes. Yes. Tell us how this AI tool helped when you were removing the tumour.",
+      "zh": "是的，是的。请说说，切除肿瘤时，这款AI工具如何提供帮助。"
+    },
+    {
+      "id": 207,
+      "startMs": 1092900,
+      "endMs": 1098020,
+      "en": "We do this operation using a tiny camera placed through the nose",
+      "zh": "手术时，我们会把一枚微型摄像头从鼻腔放入，"
+    },
+    {
+      "id": 208,
+      "startMs": 1098180,
+      "endMs": 1102100,
+      "en": "then looking at a screen to recognise the structures at the base of the brain.",
+      "zh": "然后看着屏幕，努力辨认大脑底部的结构。"
+    },
+    {
+      "id": 209,
+      "startMs": 1102260,
+      "endMs": 1105380,
+      "en": "And sometimes it's obvious, but sometimes it can be very challenging.",
+      "zh": "有时这些结构很明显，但有时辨认起来非常困难。"
+    },
+    {
+      "id": 210,
+      "startMs": 1105400,
+      "endMs": 1110920,
+      "en": "Partly because these structures are covered by bone, but also because the tumour itself can deform these structures,",
+      "zh": "一部分原因是这些结构被骨头覆盖，另一部分是肿瘤本身会使它们变形，"
+    },
+    {
+      "id": 211,
+      "startMs": 1111240,
+      "endMs": 1116920,
+      "en": "and so the AI acted as a sort of co-pilot assistant adjacent to the primary screen,",
+      "zh": "因此，AI就像主屏幕旁的副驾驶助手，"
+    },
+    {
+      "id": 212,
+      "startMs": 1117160,
+      "endMs": 1121000,
+      "en": "identifying the structures that we care most about—the blood vessels and the tumour itself.",
+      "zh": "它会标出我们最关心的结构——血管和肿瘤本身。"
+    },
+    {
+      "id": 213,
+      "startMs": 1121400,
+      "endMs": 1130040,
+      "en": "So, what it has effectively is knowledge of a model of a brain or of your patient's brain,",
+      "zh": "所以，实际上，它掌握了一个大脑模型，或是你这位患者的大脑模型，"
+    },
+    {
+      "id": 214,
+      "startMs": 1130440,
+      "endMs": 1133880,
+      "en": "and while you're operating, it is guiding you?",
+      "zh": "也就是说，你手术时它会为你提供引导？"
+    },
+    {
+      "id": 215,
+      "startMs": 1133880,
+      "endMs": 1142520,
+      "en": "It's been trained on many, many operations in the past, hundreds of operations, and so it knows very well what an operation should look like.",
+      "zh": "它接受过许多、许多过去手术的训练，数量达数百例，因此非常清楚手术应该是什么样子。"
+    },
+    {
+      "id": 216,
+      "startMs": 1142760,
+      "endMs": 1148360,
+      "en": "With that training, when it looks at the operation in real time, it can identify a structure and say, \"I think this is that.\"",
+      "zh": "有了这些训练，它实时观察手术时，就能识别结构并说：“我认为这就是那个结构。”"
+    },
+    {
+      "id": 217,
+      "startMs": 1149000,
+      "endMs": 1152040,
+      "en": "It's an assistant that often just confirms what you think,",
+      "zh": "它只是辅助工具，通常只是确认你的判断，"
+    },
+    {
+      "id": 218,
+      "startMs": 1152040,
+      "endMs": 1156680,
+      "en": "but it's an additional safety measure, and we think can help patients have a more safe operation.",
+      "zh": "但它是额外的安全措施，我们认为能帮助患者更安全地接受手术。"
+    },
+    {
+      "id": 219,
+      "startMs": 1157080,
+      "endMs": 1164280,
+      "en": "Okay, so what, as you are there with your scalpel, yes, a voice is saying from the AI tool, \"Oops, don't do that.\"",
+      "zh": "那么，当你拿着手术刀时，AI工具会不会在旁边说：“糟糕，别这么做”？"
+    },
+    {
+      "id": 220,
+      "startMs": 1165160,
+      "endMs": 1167880,
+      "en": "It's on the screen rather than a voice, but yes, exactly that.",
+      "zh": "它不是用声音，而是在屏幕上显示，但确实如此。"
+    },
+    {
+      "id": 221,
+      "startMs": 1168120,
+      "endMs": 1173400,
+      "en": "It annotates the live video feed and will draw around the structures as it recognises them when you ask it.",
+      "zh": "它会标注实时视频画面；你要求时，还会在识别出的结构周围画圈。"
+    },
+    {
+      "id": 222,
+      "startMs": 1173640,
+      "endMs": 1177640,
+      "en": "Okay, so you're using the screen as a guide whether to move left or to move right?",
+      "zh": "所以，你是在用屏幕引导自己向左或向右移动？"
+    },
+    {
+      "id": 223,
+      "startMs": 1177800,
+      "endMs": 1183400,
+      "en": "Yes, well, we do the operation as usual, and then at key points, the most important parts of the operation,",
+      "zh": "是的，我们照常进行手术，然后在关键节点——手术最重要的部分——停下来，"
+    },
+    {
+      "id": 224,
+      "startMs": 1183560,
+      "endMs": 1189320,
+      "en": "we would usually stop and reassess to make sure that we understand where everything is and don't make a mistake.",
+      "zh": "我们通常会重新评估，确保了解一切所在，并且不会犯错。"
+    },
+    {
+      "id": 225,
+      "startMs": 1189480,
+      "endMs": 1196280,
+      "en": "And at those points, that's when the AI is most helpful, because it provides an additional check to make sure the surgeon's got everything right.",
+      "zh": "而在这些节点，AI最有帮助，因为它提供额外检查，确保外科医生判断无误。"
+    },
+    {
+      "id": 226,
+      "startMs": 1196360,
+      "endMs": 1200440,
+      "en": "Most people now use GPS when they drive,",
+      "zh": "这就像现在大多数人开车都会使用GPS，"
+    },
+    {
+      "id": 227,
+      "startMs": 1200760,
+      "endMs": 1207080,
+      "en": "But the AI co-pilot is like someone beside you, looking through the windscreen and warning you if you might miss a turn.",
+      "zh": "但有了AI副驾驶，就像旁边有人透过挡风玻璃看路，提醒你可能错过转弯。"
+    },
+    {
+      "id": 228,
+      "startMs": 1207080,
+      "endMs": 1214440,
+      "en": "Okay, now, given this extra expertise, was it the most successful, the best operation you've ever done?",
+      "zh": "那么，有了这份额外专业支持，这是你做过最成功、最好的一次手术吗？"
+    },
+    {
+      "id": 229,
+      "startMs": 1215160,
+      "endMs": 1219640,
+      "en": "Yes, it went really well. I'm very happy to say, and I'm most pleased that he's made such a good recovery.",
+      "zh": "是的，手术非常顺利。我很高兴这么说，也最欣慰他恢复得这么好。"
+    },
+    {
+      "id": 230,
+      "startMs": 1220040,
+      "endMs": 1223400,
+      "en": "Okay, so we should say, for him, he was losing his sight. Now...",
+      "zh": "我们应该说明，他当时正在失去视力。现在……"
+    },
+    {
+      "id": 231,
+      "startMs": 1223640,
+      "endMs": 1228540,
+      "en": "Yes, it's back to normal. He's fully back to normal, too.",
+      "zh": "是的，现在视力恢复正常，他本人也完全恢复正常。"
+    },
+    {
+      "id": 232,
+      "startMs": 1229020,
+      "endMs": 1236060,
+      "en": "So, the point of the AI is that it allows you to remove more of the tumour and do less damage?",
+      "zh": "所以，AI的作用是让你能切除更多肿瘤，同时减少损伤？"
+    },
+    {
+      "id": 233,
+      "startMs": 1236220,
+      "endMs": 1240220,
+      "en": "Yes, I think it's most important for safety reasons.",
+      "zh": "是的，我认为它最重要的意义在于安全。"
+    },
+    {
+      "id": 234,
+      "startMs": 1240540,
+      "endMs": 1249980,
+      "en": "So, the structures there are so delicate that if you make an error, even perhaps by a few millimetres, you can cause great injury to a patient.",
+      "zh": "这些结构非常脆弱，即使只差几毫米，也可能对患者造成严重伤害。"
+    },
+    {
+      "id": 235,
+      "startMs": 1249980,
+      "endMs": 1257260,
+      "en": "And we're very careful surgeons, both to have looked at a patient's scan and be very cautious during the operation itself.",
+      "zh": "我们外科医生非常谨慎，会查看患者扫描结果，并在手术中格外小心。"
+    },
+    {
+      "id": 236,
+      "startMs": 1257660,
+      "endMs": 1263980,
+      "en": "But it's any tool that can help you be even more safe to make sure these structures are protected is greatly appreciated.",
+      "zh": "任何能让你更加安全、确保这些结构受到保护的工具，都非常宝贵。"
+    },
+    {
+      "id": 237,
+      "startMs": 1264140,
+      "endMs": 1268140,
+      "en": "So, this, do you think this is now the way forward for most surgeries?",
+      "zh": "那么，你认为这会成为大多数手术今后的发展方向吗？"
+    },
+    {
+      "id": 238,
+      "startMs": 1268220,
+      "endMs": 1273020,
+      "en": "I think it's the very first step, but I'm bullish that in the next five or ten years",
+      "zh": "我认为这只是第一步，但我乐观地相信，未来五到十年，"
+    },
+    {
+      "id": 239,
+      "startMs": 1273020,
+      "endMs": 1276380,
+      "en": "this will make as much impact in surgery as it's made outside of surgery.",
+      "zh": "它对手术的影响会和它在手术之外产生的影响一样大。"
+    },
+    {
+      "id": 240,
+      "startMs": 1276540,
+      "endMs": 1286240,
+      "en": "Having used it, I'm confident a surgeon using this sort of AI will do better, make better decisions and have a better operation than one not using AI.",
+      "zh": "我亲自使用过它，因此相信采用这类AI的外科医生会做得更好，作出更好的决定，手术效果也会优于不用AI的医生。"
+    },
+    {
+      "id": 241,
+      "startMs": 1286400,
+      "endMs": 1289440,
+      "en": "Professor Hani Marcus speaking to Sarah Montague.",
+      "zh": "Hani Marcus教授接受Sarah Montague采访。"
+    },
+    {
+      "id": 242,
+      "startMs": 1290000,
+      "endMs": 1294080,
+      "en": "We end in Washington, D.C., where a small pig is being...",
+      "zh": "我们最后来到华盛顿特区，那里有一头小猪正在被用于……"
+    },
+    {
+      "id": 243,
+      "startMs": 1294080,
+      "endMs": 1297760,
+      "en": "used as part of a campaign to help people experiencing homelessness.",
+      "zh": "用于一项帮助无家可归者的行动。"
+    },
+    {
+      "id": 244,
+      "startMs": 1298240,
+      "endMs": 1301040,
+      "en": "The Happy Pod's Rylee Farrell has been to meet her.",
+      "zh": "《Happy Pod》的莱莉·法雷尔去见了她。"
+    },
+    {
+      "id": 245,
+      "startMs": 1301440,
+      "endMs": 1307920,
+      "en": "I'm in Washington, D.C.'s Union Station, a historic travel hub, just a jog from the US Capitol.",
+      "zh": "我在华盛顿特区的联合车站，这座历史悠久的交通枢纽距离美国国会大厦仅几步之遥。"
+    },
+    {
+      "id": 246,
+      "startMs": 1311260,
+      "endMs": 1317340,
+      "en": "Under vaulted ceilings decorated with gold leaf, travelers bustle towards trains and buses.",
+      "zh": "在饰有金箔的拱顶下，旅客匆忙赶往火车和公交车。"
+    },
+    {
+      "id": 247,
+      "startMs": 1317580,
+      "endMs": 1323600,
+      "en": "Locals and out-of-towners shuffle across the white granite floor. It's business as usual, except.",
+      "zh": "当地人和外地人穿过白色花岗岩地面。一切一如往常，只是……"
+    },
+    {
+      "id": 248,
+      "startMs": 1324080,
+      "endMs": 1330160,
+      "en": "Hi, this is Synergy. Cool. Synergy? Synergy. Yeah, she works with the unhoused for humanization.",
+      "zh": "嗨，这是赛能吉。酷。赛能吉？赛能吉。没错，她和无家可归者一起工作，帮助他们恢复人的尊严。"
+    },
+    {
+      "id": 249,
+      "startMs": 1331120,
+      "endMs": 1337360,
+      "en": "Meet Synergy, a 2-kilogram pig. Her toenails are painted red, and she's turning heads.",
+      "zh": "认识一下赛能吉，一头两公斤重的小猪。她的脚趾甲涂成红色，吸引了众人的目光。"
+    },
+    {
+      "id": 250,
+      "startMs": 1337440,
+      "endMs": 1342240,
+      "en": "But she offers more than entertainment. Synergy is training to become a therapy animal.",
+      "zh": "但她不只是供人娱乐。赛能吉正在接受训练，准备成为一只治疗动物。"
+    },
+    {
+      "id": 251,
+      "startMs": 1342480,
+      "endMs": 1350720,
+      "en": "She also works as a wellness ambassador for people experiencing homelessness. She's part of a crisis intervention nonprofit called the H3 Project.",
+      "zh": "她还担任无家可归者的健康大使。她属于一家名为 H3 Project 的危机干预非营利组织。"
+    },
+    {
+      "id": 252,
+      "startMs": 1354260,
+      "endMs": 1361460,
+      "en": "She works with the unhoused. Train stations like Union Station often attract people who are experiencing homelessness.",
+      "zh": "她在这里帮助无家可归者。联合车站这样的火车站经常吸引无家可归的人。"
+    },
+    {
+      "id": 253,
+      "startMs": 1361620,
+      "endMs": 1366100,
+      "en": "They are public places that offer shelter from extreme weather and access to restrooms.",
+      "zh": "这些公共场所能让人躲避极端天气，也能使用洗手间。"
+    },
+    {
+      "id": 254,
+      "startMs": 1366740,
+      "endMs": 1372180,
+      "en": "It's also where Dr Amy Angel spends most of her time. She works with the unhoused here at Union Station.",
+      "zh": "这也是艾米·安格尔博士大部分时间工作的地方。她在联合车站帮助无家可归者。"
+    },
+    {
+      "id": 255,
+      "startMs": 1372340,
+      "endMs": 1381840,
+      "en": "We'll be walking along and two people, you know, the thuggish type, who'd never stop and talk, suddenly say, \"Oh, my God! Is that a pig?\"",
+      "zh": "我们走着走着，两个看起来有些凶悍的人——他们本来绝不会停下来交谈——突然会说：“天哪！那是一头猪吗？”"
+    },
+    {
+      "id": 256,
+      "startMs": 1382080,
+      "endMs": 1390320,
+      "en": "Next to two non-English speakers and a homeless person, a group that would never otherwise mix is talking, all looking at the same thing,",
+      "zh": "两个不会说英语的人、一个无家可归者，还有这群本来不会相聚的人，竟一起交谈，所有人都看着同一个东西。"
+    },
+    {
+      "id": 257,
+      "startMs": 1390320,
+      "endMs": 1392560,
+      "en": "And that's what's amazing. She just breaks down those barriers.",
+      "zh": "这正是神奇之处。她就这样打破了那些隔阂。"
+    },
+    {
+      "id": 258,
+      "startMs": 1393360,
+      "endMs": 1398240,
+      "en": "She founded the H3 Project. The name stands for Home, Health, and Happiness.",
+      "zh": "她创立了 H3 Project。这个名称代表“家园、健康和幸福”。"
+    },
+    {
+      "id": 259,
+      "startMs": 1398960,
+      "endMs": 1405120,
+      "en": "And as we make our way through the station, Synergy is about to make a new friend. It's a pig.",
+      "zh": "我们穿过车站时，赛能吉要结交一位新朋友了。她是一头猪。"
+    },
+    {
+      "id": 260,
+      "startMs": 1405480,
+      "endMs": 1411400,
+      "en": "Have you seen her yet? You met her? I have never. Hi, how are you? I mean, this is Synergy.",
+      "zh": "你见过她吗？你认识她吗？我从没见过。嗨，你好吗？我是说，这就是赛能吉。"
+    },
+    {
+      "id": 261,
+      "startMs": 1411400,
+      "endMs": 1416040,
+      "en": "For Amy, moments like that are exactly why Synergy is there.",
+      "zh": "对艾米来说，这样的时刻正是赛能吉来到这里的原因。"
+    },
+    {
+      "id": 262,
+      "startMs": 1416360,
+      "endMs": 1420200,
+      "en": "Synergy was just a concept because I had heard how smart pigs are.",
+      "zh": "赛能吉最初只是一个想法，因为我听说猪非常聪明。"
+    },
+    {
+      "id": 263,
+      "startMs": 1420280,
+      "endMs": 1425480,
+      "en": "So I was just looking for an idea that would help to have a different approach,",
+      "zh": "所以我只是想找一个想法，采取不同的方式，"
+    },
+    {
+      "id": 264,
+      "startMs": 1425640,
+      "endMs": 1431000,
+      "en": "to have something to open up that conversation, someone maybe that's resistant to case management,",
+      "zh": "找个契机开启对话，接触那些可能抗拒个案管理的人，"
+    },
+    {
+      "id": 265,
+      "startMs": 1431080,
+      "endMs": 1436680,
+      "en": "have that outside-of-the-box type of thing that might engage them with us.",
+      "zh": "用这种突破常规的方式，让他们愿意和我们接触。"
+    },
+    {
+      "id": 266,
+      "startMs": 1436680,
+      "endMs": 1441880,
+      "en": "Amy founded H3 in January 2020. First four months of COVID, I worked every single day.",
+      "zh": "艾米于2020年1月创立 H3。新冠疫情开始的头四个月，我每天都在工作。"
+    },
+    {
+      "id": 267,
+      "startMs": 1442360,
+      "endMs": 1449720,
+      "en": "Right behind Union Station were 67 tents and 78 individuals. I knew them all and their stories, because frankly nobody else was out there.",
+      "zh": "就在联合车站后面，有67顶帐篷、78个人。我认识他们每一个人，知道他们的故事，因为说实话，当时那里没有其他人。"
+    },
+    {
+      "id": 268,
+      "startMs": 1450520,
+      "endMs": 1453560,
+      "en": "People living out there felt forgotten and abandoned.",
+      "zh": "住在那里的人感到自己被遗忘、被抛弃。"
+    },
+    {
+      "id": 269,
+      "startMs": 1453800,
+      "endMs": 1461800,
+      "en": "In the past year, H3 says it has provided 93 housing matches and 217 Narcan administrations for overdose reversal.",
+      "zh": "H3称，过去一年已促成93次住房匹配，并进行了217次纳洛酮给药以逆转药物过量。"
+    },
+    {
+      "id": 270,
+      "startMs": 1462120,
+      "endMs": 1470060,
+      "en": "A child doesn't grow up saying, \"I want to experience homelessness,\" or \"I want mental instability,\" or \"a substance challenge.\"",
+      "zh": "没有孩子长大后会说：“我想体验无家可归、精神不稳定，或药物滥用。”"
+    },
+    {
+      "id": 271,
+      "startMs": 1470300,
+      "endMs": 1479180,
+      "en": "Life happens, trauma happens. Everyone out here has a reason. We can't understand it unless we dive into their story and see them as an individual,",
+      "zh": "生活会发生变故，创伤也会发生。每个流落街头的人都有原因，除非深入了解其故事、把他们视为个体，否则无法理解。"
+    },
+    {
+      "id": 272,
+      "startMs": 1479420,
+      "endMs": 1482540,
+      "en": "not just a number and not just a statistic, because they deserve that.",
+      "zh": "而不只是一个数字或统计数据，因为他们值得被这样看待。"
+    },
+    {
+      "id": 273,
+      "startMs": 1483100,
+      "endMs": 1487980,
+      "en": "What motivates me is those small things, those small wins.",
+      "zh": "激励我的，是那些小事、那些小小的胜利。"
+    },
+    {
+      "id": 274,
+      "startMs": 1488220,
+      "endMs": 1490380,
+      "en": "I mean, obviously, I want the big wins.",
+      "zh": "当然，我也希望取得大的胜利。"
+    },
+    {
+      "id": 275,
+      "startMs": 1490380,
+      "endMs": 1492700,
+      "en": "I want the person getting employed.",
+      "zh": "我希望有人能够找到工作。"
+    },
+    {
+      "id": 276,
+      "startMs": 1492700,
+      "endMs": 1499580,
+      "en": "I want the person who finally was able to get his high school diploma at age 34.",
+      "zh": "我希望有人终于能在34岁拿到高中毕业证书。"
+    },
+    {
+      "id": 277,
+      "startMs": 1499580,
+      "endMs": 1502140,
+      "en": "I want everyone in housing.",
+      "zh": "我希望每个人都有住房。"
+    },
+    {
+      "id": 278,
+      "startMs": 1502140,
+      "endMs": 1509940,
+      "en": "I want those big wins, but I also have to take time, appreciate, and really celebrate those small wins,",
+      "zh": "我希望取得那些大的胜利，但也要花时间去珍惜、真正庆祝那些小小的胜利，"
+    },
+    {
+      "id": 279,
+      "startMs": 1510180,
+      "endMs": 1515060,
+      "en": "those small victories, and that's what really even Synergy brings in, because those small victories",
+      "zh": "那些小小的成功；赛能吉带来的正是这些小小的成功，"
+    },
+    {
+      "id": 280,
+      "startMs": 1515300,
+      "endMs": 1522100,
+      "en": "of introducing Synergy to someone and they previously were unwilling to work with us to get their documents,",
+      "zh": "比如把赛能吉介绍给某个人，原本他不愿意和我们合作办理证件，"
+    },
+    {
+      "id": 281,
+      "startMs": 1522100,
+      "endMs": 1526420,
+      "en": "but because of her being there, they're willing, and that's a win to me.",
+      "zh": "但因为她在场，对方愿意了，这对我来说就是胜利。"
+    },
+    {
+      "id": 282,
+      "startMs": 1526580,
+      "endMs": 1534420,
+      "en": "Just know, the most important thing to do when you see someone experiencing homelessness is to acknowledge them.",
+      "zh": "请记住，看到无家可归者时，最重要的是认可他们、和他们打招呼。"
+    },
+    {
+      "id": 283,
+      "startMs": 1534500,
+      "endMs": 1541460,
+      "en": "Smiles go a long way, and looking at someone is like, \"How are you doing today?\" or \"Good morning.\" Little things like that",
+      "zh": "一个微笑很有帮助，看着对方问一句“你今天好吗？”或“早上好”，这样的小事"
+    },
+    {
+      "id": 284,
+      "startMs": 1542480,
+      "endMs": 1547280,
+      "en": "Can literally make or break someone's day, especially when they're on the street.",
+      "zh": "真的可能让一个人的一天变好或变糟，尤其是当他们流落街头时。"
+    },
+    {
+      "id": 285,
+      "startMs": 1547680,
+      "endMs": 1549680,
+      "en": "That was Rylee Farrell reporting.",
+      "zh": "以上是莱莉·法雷尔的报道。"
+    },
+    {
+      "id": 286,
+      "startMs": 1554920,
+      "endMs": 1557160,
+      "en": "And that's all from The Happy Pod for now.",
+      "zh": "以上就是本期《Happy Pod》的全部内容。"
+    },
+    {
+      "id": 287,
+      "startMs": 1557400,
+      "endMs": 1562600,
+      "en": "We'd love to hear from you. As ever, the address is globalpodcast@bbc.co.uk.",
+      "zh": "我们期待听到你的来信。地址一如既往，是 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 288,
+      "startMs": 1562600,
+      "endMs": 1566600,
+      "en": "The editor of this edition is Karen Martin.",
+      "zh": "本期编辑是凯伦·马丁。"
+    },
+    {
+      "id": 289,
+      "startMs": 1567000,
+      "endMs": 1569640,
+      "en": "I'm Holly Gibbs. Until next time, goodbye.",
+      "zh": "我是霍莉·吉布斯。下期再见。"
+    }
+  ]
+}

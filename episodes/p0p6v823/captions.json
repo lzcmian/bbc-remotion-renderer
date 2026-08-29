@@ -1,0 +1,1747 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "28 August 2026"
+  },
+  "durationMs": 1419960,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2720,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5360,
+      "endMs": 10960,
+      "en": "Hi, I'm Ankur Desai and at 14:00 GMT on Friday, the 28th of August, these are our main stories.",
+      "zh": "你好，我是安库尔·德赛。以下是8月28日星期五格林尼治时间14点的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 10960,
+      "endMs": 17520,
+      "en": "Norway mourns as King Harald V dies at the age of 89.",
+      "zh": "挪威哀悼国王哈拉尔五世，他享年89岁。"
+    },
+    {
+      "id": 4,
+      "startMs": 17760,
+      "endMs": 21920,
+      "en": "And we analyze the situation in the Middle East, six months since the start of the conflict between Iran and the United States.",
+      "zh": "我们还将分析中东局势——伊朗与美国的冲突已开始六个月。"
+    },
+    {
+      "id": 5,
+      "startMs": 24840,
+      "endMs": 33640,
+      "en": "Also in this podcast, a new study reveals that our brains apply a special tag to events as they happen to help us prioritize our memories.",
+      "zh": "本期节目还将介绍一项新研究：大脑会在事件发生时给它们打上特殊标签，帮助我们排列记忆的优先级。"
+    },
+    {
+      "id": 6,
+      "startMs": 33960,
+      "endMs": 41800,
+      "en": "Every day our senses are sort of bombarded by so much information that our brain needs a way to figure out what is actually important.",
+      "zh": "我们每天的感官都会受到海量信息的冲击，大脑需要想办法判断哪些信息真正重要"
+    },
+    {
+      "id": 7,
+      "startMs": 41960,
+      "endMs": 45640,
+      "en": "The things we're seeing and hearing need to be committed into long-term memory.",
+      "zh": "我们看到和听到的内容需要被写入长期记忆。"
+    },
+    {
+      "id": 8,
+      "startMs": 46120,
+      "endMs": 49320,
+      "en": "And we are both male British voices, for sure.",
+      "zh": "而且我们确实都是英国男性的声音。"
+    },
+    {
+      "id": 9,
+      "startMs": 50280,
+      "endMs": 55260,
+      "en": "However, I am not David Attenborough, for anyone out there who might be confused.",
+      "zh": "不过，如果有人感到困惑，我并不是大卫·爱登堡。"
+    },
+    {
+      "id": 10,
+      "startMs": 56460,
+      "endMs": 65100,
+      "en": "More than 80 actors are calling on the British government to give every person a legal right to own their voice because of famous voices cloned by AI.",
+      "zh": "80多名演员呼吁英国政府赋予每个人拥有自己声音的法律权利，因为名人的声音正被人工智能克隆。"
+    },
+    {
+      "id": 11,
+      "startMs": 65100,
+      "endMs": 70380,
+      "en": "King Haakon VIII has ascended to the throne in Norway after the death of his father, Harald V.",
+      "zh": "哈康八世国王在父亲哈拉尔五世去世后登上挪威王位。"
+    },
+    {
+      "id": 12,
+      "startMs": 71420,
+      "endMs": 74860,
+      "en": "Harald died early on Friday morning at the age of 89.",
+      "zh": "哈拉尔于周五清晨去世，享年89岁。"
+    },
+    {
+      "id": 13,
+      "startMs": 75260,
+      "endMs": 81500,
+      "en": "Large crowds gathered to watch the new monarch's arrival at the Royal Palace in Oslo, where he's been meeting government ministers.",
+      "zh": "大批人群聚集在奥斯陆王宫，等待观看新君主抵达；他在那里会见政府部长。"
+    },
+    {
+      "id": 14,
+      "startMs": 82140,
+      "endMs": 86380,
+      "en": "We really love our king, and I thought he was really a king of the people.",
+      "zh": "我们真的很爱我们的国王，我觉得他真的是人民的国王。"
+    },
+    {
+      "id": 15,
+      "startMs": 86700,
+      "endMs": 94860,
+      "en": "So, I think it's really important that people come here to show how grateful we we are for his, his heart.",
+      "zh": "所以，人们来这里表达对他的善心有多么感激，这非常重要。"
+    },
+    {
+      "id": 16,
+      "startMs": 94860,
+      "endMs": 97020,
+      "en": "He was really a good-hearted man.",
+      "zh": "他真的是个善良的人。"
+    },
+    {
+      "id": 17,
+      "startMs": 97500,
+      "endMs": 99340,
+      "en": "King Harald has been such a good king",
+      "zh": "哈拉尔国王一直是一位非常好的国王，"
+    },
+    {
+      "id": 18,
+      "startMs": 100440,
+      "endMs": 104280,
+      "en": "and I think most Norwegians really feel that they know him very well.",
+      "zh": "我想大多数挪威人都觉得自己非常了解他。"
+    },
+    {
+      "id": 19,
+      "startMs": 104280,
+      "endMs": 107800,
+      "en": "He's been very active as a king.",
+      "zh": "他一直积极履行国王职责。"
+    },
+    {
+      "id": 20,
+      "startMs": 107800,
+      "endMs": 114360,
+      "en": "He's been participating in so many different situations for so many years, and he was a great guy.",
+      "zh": "多年来，他积极参与各种场合，是个非常棒的人。"
+    },
+    {
+      "id": 21,
+      "startMs": 115000,
+      "endMs": 118840,
+      "en": "The king's final months, though, were overshadowed by turmoil in the royal family.",
+      "zh": "不过，国王生命最后几个月被王室的动荡蒙上阴影。"
+    },
+    {
+      "id": 22,
+      "startMs": 119320,
+      "endMs": 123240,
+      "en": "His daughter-in-law, Crown Princess Mette-Marit, underwent a lung transplant.",
+      "zh": "他的儿媳、王储妃梅特-玛丽特接受了肺移植手术。"
+    },
+    {
+      "id": 23,
+      "startMs": 123720,
+      "endMs": 128680,
+      "en": "Her son, Marius Borg Høiby, was jailed for four years after being convicted of two rapes.",
+      "zh": "她的儿子马里乌斯·博格·赫伊比因两项强奸罪名成立，被判入狱四年。"
+    },
+    {
+      "id": 24,
+      "startMs": 129080,
+      "endMs": 133000,
+      "en": "Mette-Marit also apologised for her past friendship with Jeffrey Epstein.",
+      "zh": "梅特-玛丽特还为过去与杰弗里·爱泼斯坦的友谊道歉。"
+    },
+    {
+      "id": 25,
+      "startMs": 133560,
+      "endMs": 137400,
+      "en": "A global affairs reporter, Mimmi Swaeby, told me more about his life and reign.",
+      "zh": "我们的全球事务记者 Mimmi Swaeby 向我介绍了他的生平和统治。"
+    },
+    {
+      "id": 26,
+      "startMs": 137960,
+      "endMs": 146040,
+      "en": "King Harald V took the throne in 1991 and oversaw so many changes worldwide, let alone in his country, Norway.",
+      "zh": "哈拉尔五世国王于1991年登基，见证了全球乃至本国挪威的诸多变化。"
+    },
+    {
+      "id": 27,
+      "startMs": 146040,
+      "endMs": 150840,
+      "en": "But he was seen, despite having no political power or formal political power",
+      "zh": "但尽管没有政治或正式的政治权力，"
+    },
+    {
+      "id": 28,
+      "startMs": 151080,
+      "endMs": 156680,
+      "en": "as very much a symbol and a source of comfort and stability for many Norwegians.",
+      "zh": "他仍是许多挪威人心中带来安慰与稳定的象征。"
+    },
+    {
+      "id": 29,
+      "startMs": 156760,
+      "endMs": 164780,
+      "en": "He would often go to disasters, address victims of attacks, and really was seen as a king of the people.",
+      "zh": "他常前往灾区，慰问袭击事件的受害者，被视为人民的国王。"
+    },
+    {
+      "id": 30,
+      "startMs": 164780,
+      "endMs": 170780,
+      "en": "And that is something I've heard from mourners throughout yesterday, when people started preparing for this event",
+      "zh": "从昨天人们开始为这一事件做准备起，我就不断听到哀悼者这样说，"
+    },
+    {
+      "id": 31,
+      "startMs": 170780,
+      "endMs": 175340,
+      "en": "going to the palace and also laying down flowers, lighting candles, holding vigil for him",
+      "zh": "他们前往王宫，为他献花、点蜡烛、守夜，"
+    },
+    {
+      "id": 32,
+      "startMs": 175580,
+      "endMs": 179340,
+      "en": "until this morning again, when we heard the news from the royal court",
+      "zh": "直到今天早上，我们再次从王室那里听到消息，"
+    },
+    {
+      "id": 33,
+      "startMs": 179660,
+      "endMs": 182940,
+      "en": "confirming that King Harald had passed away peacefully, they said",
+      "zh": "王室确认哈拉尔国王已安详离世，"
+    },
+    {
+      "id": 34,
+      "startMs": 182940,
+      "endMs": 189340,
+      "en": "at Oslo University Hospital after suffering from a blood infection, which he was being treated for there.",
+      "zh": "据称他当时正在奥斯陆大学医院接受血液感染治疗。"
+    },
+    {
+      "id": 35,
+      "startMs": 189820,
+      "endMs": 192540,
+      "en": "But he was very much seen as a modest king.",
+      "zh": "但人们一直认为他是一位谦逊的国王。"
+    },
+    {
+      "id": 36,
+      "startMs": 192540,
+      "endMs": 197580,
+      "en": "He was a unifying symbol, a unifying figure, and that is something that many people have been saying",
+      "zh": "他是团结人心的象征和人物，许多人一直这样说，"
+    },
+    {
+      "id": 37,
+      "startMs": 197820,
+      "endMs": 203340,
+      "en": "that they remember him as a grandfather figure for the country, and that he was hugely loved despite all these scandals",
+      "zh": "他们会把他铭记为这个国家祖父般的人物，他也深受爱戴，尽管有这些丑闻，"
+    },
+    {
+      "id": 38,
+      "startMs": 203340,
+      "endMs": 206860,
+      "en": "that the wider royal family have been plagued with in",
+      "zh": "王室大家族一直饱受这些丑闻困扰，"
+    },
+    {
+      "id": 39,
+      "startMs": 206860,
+      "endMs": 209580,
+      "en": "recent years. And maybe do we know what happens next?",
+      "zh": "近年来一直如此。那接下来会发生什么？"
+    },
+    {
+      "id": 40,
+      "startMs": 209580,
+      "endMs": 211580,
+      "en": "So when the successor will be sworn in",
+      "zh": "那么，继任者何时宣誓就任？"
+    },
+    {
+      "id": 41,
+      "startMs": 211580,
+      "endMs": 214780,
+      "en": "for example? King Haakon is now the new king.",
+      "zh": "比如说？哈康国王现在已经是新国王了。"
+    },
+    {
+      "id": 42,
+      "startMs": 214780,
+      "endMs": 222720,
+      "en": "It is automatic when the previous monarch passes away: the next in line, his son, automatically assumes that title.",
+      "zh": "前任君主去世后，继承顺位中的下一人，也就是他的儿子，会自动获得这一头衔。"
+    },
+    {
+      "id": 43,
+      "startMs": 222800,
+      "endMs": 226400,
+      "en": "So he's now officially the new king. He hasn't been sworn in yet.",
+      "zh": "所以他现在已正式成为新国王，但还没有宣誓就任。"
+    },
+    {
+      "id": 44,
+      "startMs": 226400,
+      "endMs": 229520,
+      "en": "He will take an oath at a later time.",
+      "zh": "他将在稍后宣誓。"
+    },
+    {
+      "id": 45,
+      "startMs": 229760,
+      "endMs": 233440,
+      "en": "But at the moment, we're seeing mourners pay their respects.",
+      "zh": "不过目前，我们看到哀悼者前来致意。"
+    },
+    {
+      "id": 46,
+      "startMs": 233440,
+      "endMs": 237040,
+      "en": "There is an extraordinary Council of State happening right now",
+      "zh": "现在正在召开特别国务委员会会议，"
+    },
+    {
+      "id": 47,
+      "startMs": 237040,
+      "endMs": 242080,
+      "en": "and that is basically a meeting of the full cabinet of Norway's parliament with the new monarch.",
+      "zh": "基本上就是挪威议会全体内阁与新君主举行的会议。"
+    },
+    {
+      "id": 48,
+      "startMs": 242160,
+      "endMs": 246720,
+      "en": "They're signing their condolences. We can then expect an in-person kind of appearance",
+      "zh": "他们正在签署慰问辞。随后，新国王和大臣们预计会亲自现身，"
+    },
+    {
+      "id": 49,
+      "startMs": 246800,
+      "endMs": 251200,
+      "en": "in the palace square by ministers, as well as the new king.",
+      "zh": "地点就在王宫广场。"
+    },
+    {
+      "id": 50,
+      "startMs": 251440,
+      "endMs": 256400,
+      "en": "And then a sequence of eulogies, then going on to officially being sworn in.",
+      "zh": "接着是致悼词，之后正式宣誓就任。"
+    },
+    {
+      "id": 51,
+      "startMs": 256800,
+      "endMs": 263120,
+      "en": "And this is a sequence of events, a timetable which is full of tradition and ceremony",
+      "zh": "这是一连串充满传统与仪式的活动，也是一份时间表。"
+    },
+    {
+      "id": 52,
+      "startMs": 263360,
+      "endMs": 272880,
+      "en": "But it is important to say it is also in keeping with the nation's more low-key royal family and their approach to reigning over Norway.",
+      "zh": "但重要的是，这也符合这个国家低调王室统治挪威的方式。"
+    },
+    {
+      "id": 53,
+      "startMs": 273040,
+      "endMs": 282180,
+      "en": "This will be nothing to rival the pageantry and ceremony that we saw in the likes of the British succession, as well as other monarchies.",
+      "zh": "这不会有英国王位继承仪式或其他君主制国家那样的盛大排场与仪式。"
+    },
+    {
+      "id": 54,
+      "startMs": 282180,
+      "endMs": 287700,
+      "en": "So it will be a humble affair. And these are words I've been using all morning: humble, modest, low-key.",
+      "zh": "所以这将是一场朴素的仪式。这些是我今早一直使用的词：谦朴、低调、内敛。"
+    },
+    {
+      "id": 55,
+      "startMs": 287860,
+      "endMs": 291140,
+      "en": "We can expect this in today's sequence of events.",
+      "zh": "今天这系列活动中，我们可以期待看到这一点。"
+    },
+    {
+      "id": 56,
+      "startMs": 291380,
+      "endMs": 297620,
+      "en": "Norway is in mourning. We don't know how long it will last, but it will continue until the funeral; the date is yet to be announced.",
+      "zh": "挪威目前处于哀悼期。我们不知道会持续多久，但会一直持续到葬礼；日期尚未公布。"
+    },
+    {
+      "id": 57,
+      "startMs": 297860,
+      "endMs": 302020,
+      "en": "And the flag is flying at half-mast over the palace in Oslo.",
+      "zh": "奥斯陆王宫上方的国旗降半旗。"
+    },
+    {
+      "id": 58,
+      "startMs": 302020,
+      "endMs": 309700,
+      "en": "But yeah, there is a sequence of events which has already started and will last for the coming hours, but also days, before that funeral is held.",
+      "zh": "不过，这一系列活动已经开始，将持续数小时甚至数天，直到葬礼举行。"
+    },
+    {
+      "id": 59,
+      "startMs": 310180,
+      "endMs": 314820,
+      "en": "Mimmi Swaeby. Now, do you remember that car license plate you saw the other day?",
+      "zh": "米米·斯韦比。你还记得前几天看到的那块车牌吗？"
+    },
+    {
+      "id": 60,
+      "startMs": 315300,
+      "endMs": 318980,
+      "en": "The one with the combination of letters and numbers that made you think?",
+      "zh": "就是那块字母和数字的组合让你产生联想的车牌？"
+    },
+    {
+      "id": 61,
+      "startMs": 319780,
+      "endMs": 322340,
+      "en": "No. Well, there's a reason you don't.",
+      "zh": "不记得。嗯，这是有原因的。"
+    },
+    {
+      "id": 62,
+      "startMs": 322740,
+      "endMs": 331460,
+      "en": "New research has found that your brain applies a kind of tag to your daily experiences and then overnight uses those tags to work out",
+      "zh": "最新研究发现，大脑会给日常经历贴上一种标签，然后在夜间利用这些标签判断，"
+    },
+    {
+      "id": 63,
+      "startMs": 331780,
+      "endMs": 335540,
+      "en": "whether or not to remember those moments or to let them slip away.",
+      "zh": "哪些时刻该记住，哪些该悄然淡忘。"
+    },
+    {
+      "id": 64,
+      "startMs": 336020,
+      "endMs": 341720,
+      "en": "The study was led by Dan Denis from York University's Department of Psychology here in the UK",
+      "zh": "这项研究由英国约克大学心理学系的丹·丹尼斯主持，"
+    },
+    {
+      "id": 65,
+      "startMs": 342040,
+      "endMs": 343400,
+      "en": "he spoke to Jonny Dymond.",
+      "zh": "他接受了乔尼·戴蒙德的采访。"
+    },
+    {
+      "id": 66,
+      "startMs": 344120,
+      "endMs": 352840,
+      "en": "Every day our senses are sort of bombarded by so much incoming information that really our brain needs a way to figure out what is actually important",
+      "zh": "我们的感官每天都会接收大量涌入的信息，因此大脑需要判断，究竟哪些内容真正重要，"
+    },
+    {
+      "id": 67,
+      "startMs": 353000,
+      "endMs": 356680,
+      "en": "that we're seeing and we're hearing that needs to be committed into long-term memory.",
+      "zh": "也就是我们看到和听到的、需要存入长期记忆的内容。"
+    },
+    {
+      "id": 68,
+      "startMs": 356920,
+      "endMs": 363880,
+      "en": "And we think that these tags that sit alongside these memory traces are what essentially guides the brain into making that decision.",
+      "zh": "我们认为，伴随这些记忆痕迹的标签，基本上会引导大脑作出这一决定。"
+    },
+    {
+      "id": 69,
+      "startMs": 364120,
+      "endMs": 372200,
+      "en": "It's important to understand that memories aren't static snapshots of exactly how we experience things. They are transformed and evolve over time.",
+      "zh": "重要的是，我们的记忆并非对经历的静态、原样快照，而会随时间转变和发展。"
+    },
+    {
+      "id": 70,
+      "startMs": 372200,
+      "endMs": 376840,
+      "en": "So when we first experience something, the brain will tag it, give it a level of priority",
+      "zh": "所以，当我们第一次经历某件事时，大脑会为它贴上标签，赋予一定的优先级，"
+    },
+    {
+      "id": 71,
+      "startMs": 377160,
+      "endMs": 384360,
+      "en": "And that priority might be based on things like felt emotion or the personal relevance you feel towards that particular experience.",
+      "zh": "而优先级可能取决于当时的情绪，或你认为这段经历与你个人的相关程度。"
+    },
+    {
+      "id": 72,
+      "startMs": 384520,
+      "endMs": 391560,
+      "en": "And then to ensure that it remains a stable memory into the long term it then needs to be reprocessed again during sleep",
+      "zh": "为了让它长期保持为稳定记忆，还需要在睡眠中再次进行加工，"
+    },
+    {
+      "id": 73,
+      "startMs": 391640,
+      "endMs": 395400,
+      "en": "where that memory trace gets replayed in the brain multiple times.",
+      "zh": "让那段记忆痕迹在大脑中反复重播。"
+    },
+    {
+      "id": 74,
+      "startMs": 395720,
+      "endMs": 402620,
+      "en": "And that's the process by which the new experience that we formed during the day enters our long-term memory so that we can recall it in the future.",
+      "zh": "这就是我们白天形成的新经历进入长期记忆、从而在未来得以回忆的过程。"
+    },
+    {
+      "id": 75,
+      "startMs": 402940,
+      "endMs": 410940,
+      "en": "Different people remember different things, don't they? I mean, this is a very sort of personal and individual moment.",
+      "zh": "不同的人记住的事情不同，对吧？我的意思是，这是非常个人化的时刻。"
+    },
+    {
+      "id": 76,
+      "startMs": 411100,
+      "endMs": 419260,
+      "en": "It's not something that you're saying applies in a uniform way. You're just explaining how these things are remembered. Is that right?",
+      "zh": "你并不是说它以统一的方式适用于所有人，而是在解释这些事情如何被记住，对吗？"
+    },
+    {
+      "id": 77,
+      "startMs": 419660,
+      "endMs": 423260,
+      "en": "Yeah, exactly. Some things are probably well remembered by almost anyone",
+      "zh": "对，正是如此。有些事情可能几乎人人都会记得，"
+    },
+    {
+      "id": 78,
+      "startMs": 423420,
+      "endMs": 429180,
+      "en": "and they tend to be emotionally charged, often quite negative events tend to have an almost universal salience.",
+      "zh": "它们往往带有强烈情绪；通常相当负面的事件，几乎对所有人都很突出。"
+    },
+    {
+      "id": 79,
+      "startMs": 429580,
+      "endMs": 432860,
+      "en": "But many other things, as you said, vary from person to person.",
+      "zh": "但正如你所说，还有很多事情会因人而异，"
+    },
+    {
+      "id": 80,
+      "startMs": 433100,
+      "endMs": 437580,
+      "en": "and that's what this tagging is doing. It's deciding or indicating relevancy.",
+      "zh": "而标签的作用，就是决定或指出相关性。"
+    },
+    {
+      "id": 81,
+      "startMs": 437820,
+      "endMs": 444940,
+      "en": "And it might be drawing on our own past experiences and our own previous memories in deciding in the moment what is relevant to you as an individual.",
+      "zh": "它可能会参考我们过去的经历和记忆，在当下判断什么与你这个个体相关。"
+    },
+    {
+      "id": 82,
+      "startMs": 445420,
+      "endMs": 452940,
+      "en": "And how important is the nature of the sleep that you get to the filing process, if I can call it that?",
+      "zh": "如果可以这样称呼的话，你的睡眠状况对这种归档过程有多重要？"
+    },
+    {
+      "id": 83,
+      "startMs": 453180,
+      "endMs": 455100,
+      "en": "The sleep itself is very, very important.",
+      "zh": "睡眠本身非常重要。"
+    },
+    {
+      "id": 84,
+      "startMs": 455180,
+      "endMs": 462160,
+      "en": "We think that the filing process, as you said, or the replaying of the new experiences tends to happen when we're in a stage of sleep called",
+      "zh": "我们认为，正如你所说，这种归档过程，或者说新经历的重播，往往发生在一种叫作……的睡眠阶段，"
+    },
+    {
+      "id": 85,
+      "startMs": 462160,
+      "endMs": 464800,
+      "en": "slow-wave sleep, and that's the deepest stage of sleep",
+      "zh": "慢波睡眠，也就是最深的睡眠阶段，"
+    },
+    {
+      "id": 86,
+      "startMs": 465200,
+      "endMs": 467680,
+      "en": "that we get, when we're most detached from the world.",
+      "zh": "那时我们与外界隔绝得最深。"
+    },
+    {
+      "id": 87,
+      "startMs": 468000,
+      "endMs": 476080,
+      "en": "Anything that disrupts deep sleep might interfere with ongoing memory processing, ultimately harming memory.",
+      "zh": "因此，任何扰乱深度睡眠的事情，都可能干扰持续进行的记忆加工，最终损害记忆。"
+    },
+    {
+      "id": 88,
+      "startMs": 476560,
+      "endMs": 481440,
+      "en": "How does it mesh with the idea that you can improve your memory, that you can",
+      "zh": "这与我们能够改善记忆、能够"
+    },
+    {
+      "id": 89,
+      "startMs": 482000,
+      "endMs": 485840,
+      "en": "train yourself to remember more and different things.",
+      "zh": "训练自己记住更多、不同的事情，这个想法如何相融？"
+    },
+    {
+      "id": 90,
+      "startMs": 486320,
+      "endMs": 493920,
+      "en": "Yeah, this is a really interesting question, and something we want to explore more in the future: how different learning strategies influence",
+      "zh": "是的，我觉得这是个很有意思的问题，也是我们想进一步探索的方向：不同的学习策略将如何影响，"
+    },
+    {
+      "id": 91,
+      "startMs": 493920,
+      "endMs": 497520,
+      "en": "This process of selectivity in what we end up remembering in the long term.",
+      "zh": "这种选择过程决定了我们最终长期记住什么。"
+    },
+    {
+      "id": 92,
+      "startMs": 497600,
+      "endMs": 503280,
+      "en": "One thing, for example, is if you're trying to remember a new association, like maybe an association between a new name and a face,",
+      "zh": "例如，如果你想记住一种新的联系，比如一个新名字和一张脸之间的联系，"
+    },
+    {
+      "id": 93,
+      "startMs": 503840,
+      "endMs": 508800,
+      "en": "if you can form a visualization in your mind that links those two things together very strongly,",
+      "zh": "如果你能在脑海中形成一幅画面，把这两者牢牢联系起来，"
+    },
+    {
+      "id": 94,
+      "startMs": 509040,
+      "endMs": 512320,
+      "en": "this will help you recall that person's name when you see them",
+      "zh": "这会提高你以后见到那个人时回忆起其名字的能力。"
+    },
+    {
+      "id": 95,
+      "startMs": 512560,
+      "endMs": 518240,
+      "en": "in the future. Interestingly, the brain mechanisms involved in binding, linking different things together,",
+      "zh": "未来回忆起来。有意思的是，参与这种绑定过程、把不同事物联系起来的大脑机制，"
+    },
+    {
+      "id": 96,
+      "startMs": 518240,
+      "endMs": 524180,
+      "en": "appear to be the same kinds of brain mechanisms that are involved in the tagging that we are seeing in our research.",
+      "zh": "似乎与我们研究中观察到的、参与记忆标记的机制相同。"
+    },
+    {
+      "id": 97,
+      "startMs": 524660,
+      "endMs": 529700,
+      "en": "Psychology Professor, Dan Denis. Next, have you heard of voice cloning?",
+      "zh": "心理学教授丹·丹尼斯。接下来，你听说过声音克隆吗？"
+    },
+    {
+      "id": 98,
+      "startMs": 530260,
+      "endMs": 537460,
+      "en": "This is where artificial intelligence creates a digital replica of a person's voice based on an audio sample of them speaking.",
+      "zh": "这指的是人工智能根据某人说话的音频样本，生成其声音的数字复制品。"
+    },
+    {
+      "id": 99,
+      "startMs": 537940,
+      "endMs": 546500,
+      "en": "Sir David Attenborough said he was profoundly disturbed when he discovered two years ago that he was being widely mimicked online using AI technology.",
+      "zh": "大卫·爱登堡爵士说，两年前发现自己的声音被人工智能技术广泛模仿并发布在网上时，他深感不安。"
+    },
+    {
+      "id": 100,
+      "startMs": 547060,
+      "endMs": 554260,
+      "en": "One of the websites that had been creating copycat clips of the British naturalist responded to the controversy by posting this audio.",
+      "zh": "一家制作这位英国博物学家仿冒音频的网站，发布了下面这段音频回应争议。"
+    },
+    {
+      "id": 101,
+      "startMs": 554340,
+      "endMs": 562180,
+      "en": "Let's set the record straight. Unless Mr. Attenborough has been moonlighting for us in secret and under an assumed name",
+      "zh": "我们来澄清事实。除非爱登堡先生一直秘密以化名为我们兼职，"
+    },
+    {
+      "id": 102,
+      "startMs": 562180,
+      "endMs": 566100,
+      "en": "with work authorization in the United States, he is not on our payroll.",
+      "zh": "并持有美国工作许可，否则他并不在我们的工资名册上。"
+    },
+    {
+      "id": 103,
+      "startMs": 566420,
+      "endMs": 571140,
+      "en": "I am not David Attenborough. We are both male British voices, for sure.",
+      "zh": "我不是大卫·爱登堡。我们确实都是英国男性的声音。"
+    },
+    {
+      "id": 104,
+      "startMs": 571860,
+      "endMs": 574500,
+      "en": "However, I am not David Attenborough.",
+      "zh": "不过，我不是大卫·爱登堡。"
+    },
+    {
+      "id": 105,
+      "startMs": 574820,
+      "endMs": 580500,
+      "en": "For anyone out there who might be confused, it sounds a lot like him, but just to be clear,",
+      "zh": "对于可能感到困惑的人来说，它听起来很像爱登堡，但需要明确的是，"
+    },
+    {
+      "id": 106,
+      "startMs": 580740,
+      "endMs": 585620,
+      "en": "that's an unauthorized AI version of David Attenborough and not the real thing.",
+      "zh": "这是未经授权的大卫·爱登堡人工智能版本，并不是真人。"
+    },
+    {
+      "id": 107,
+      "startMs": 586260,
+      "endMs": 592580,
+      "en": "Now, a group of more than 80 actors, including Hugh Bonneville, are calling on the government to give every person in the UK",
+      "zh": "现在，包括休·博纳维尔在内的80多名演员呼吁政府赋予英国每个人"
+    },
+    {
+      "id": 108,
+      "startMs": 592900,
+      "endMs": 594900,
+      "en": "a legal right to own their voice.",
+      "zh": "拥有自己声音的法定权利。"
+    },
+    {
+      "id": 109,
+      "startMs": 595380,
+      "endMs": 600420,
+      "en": "They're concerned performers like voiceover artists could lose their livelihoods to digital knockoffs.",
+      "zh": "他们担心，配音演员等表演者可能因数字仿制品而失去生计。"
+    },
+    {
+      "id": 110,
+      "startMs": 600900,
+      "endMs": 604420,
+      "en": "They also point to the growing number of scams involving voice cloning.",
+      "zh": "他们还指出，涉及声音克隆的诈骗越来越多。"
+    },
+    {
+      "id": 111,
+      "startMs": 604980,
+      "endMs": 608740,
+      "en": "Peter Caulfield is founder of the Save Our Voices Now campaign.",
+      "zh": "彼得·考尔菲尔德是“拯救我们的声音”运动的发起人。"
+    },
+    {
+      "id": 112,
+      "startMs": 609300,
+      "endMs": 618260,
+      "en": "Digging deeper into these companies' clauses, it seemed we had no rights over our voice.",
+      "zh": "深入研究这些公司的条款后，我发现我们似乎没有声音所有权。"
+    },
+    {
+      "id": 113,
+      "startMs": 618500,
+      "endMs": 624020,
+      "en": "From an artist's point of view, that's quite scary, because we're putting our voice out there",
+      "zh": "所以从艺术家的角度看，这相当可怕，因为我们一直把自己的声音放到外面，"
+    },
+    {
+      "id": 114,
+      "startMs": 624020,
+      "endMs": 631700,
+      "en": "all the time, on social media or audition tapes. What actually happens to that data and to your voice",
+      "zh": "无论是在社交媒体上，还是在试音带里。实际上，那些数据和你的声音会怎么样，"
+    },
+    {
+      "id": 115,
+      "startMs": 631780,
+      "endMs": 638760,
+      "en": "after you've sent it off into the ether? At this point, we don't really have rights or laws to protect our voice.",
+      "zh": "在你把它发送到虚拟空间后会怎么样？目前，确实没有权利或法律保护我们的声音。"
+    },
+    {
+      "id": 116,
+      "startMs": 638760,
+      "endMs": 643880,
+      "en": "You'd think you owned your voice because you were born with it, but no law really protects us",
+      "zh": "你会以为生来就拥有自己的声音，但没有法律真正保护我们，"
+    },
+    {
+      "id": 117,
+      "startMs": 643880,
+      "endMs": 653320,
+      "en": "from anyone with suitable AI software copying your voice in 3 seconds and using it as their own—which is terrifying.",
+      "zh": "不受拥有合适人工智能软件的人在3秒内复制你的声音并据为己用——这相当可怕。"
+    },
+    {
+      "id": 118,
+      "startMs": 653880,
+      "endMs": 658920,
+      "en": "The actor Peter Caulfield, who's part of a new campaign calling for a crackdown on AI voice cloning.",
+      "zh": "演员彼得·考尔菲尔德参与了一项呼吁严厉打击人工智能声音克隆的新运动。"
+    },
+    {
+      "id": 119,
+      "startMs": 661800,
+      "endMs": 668200,
+      "en": "Still to come in this podcast: Samsung's eight generations into this product already. They've obviously gone through a lot of growing pains.",
+      "zh": "本期节目稍后还将讨论：三星这款产品已经发展到第八代，显然经历了不少成长阵痛。"
+    },
+    {
+      "id": 120,
+      "startMs": 668200,
+      "endMs": 673960,
+      "en": "It does look like Apple's coming in later. We find out why Apple are about to enter the foldable phone market.",
+      "zh": "苹果确实晚些时候才入场。我们将探讨苹果为何即将进入折叠手机市场。"
+    },
+    {
+      "id": 121,
+      "startMs": 673960,
+      "endMs": 681720,
+      "en": "This is the Global News Podcast. Today marks exactly six months since the start of the conflict between Iran and the United States.",
+      "zh": "这里是《全球新闻播客》。今天正好是伊朗与美国冲突开始六个月。"
+    },
+    {
+      "id": 122,
+      "startMs": 682200,
+      "endMs": 687560,
+      "en": "Professor Paul Moorcraft has spent decades analysing and reporting from the world's war zones.",
+      "zh": "保罗·穆尔克拉夫特教授数十年来一直在世界各地的战区分析和报道。"
+    },
+    {
+      "id": 123,
+      "startMs": 688040,
+      "endMs": 693880,
+      "en": "Joel Mitchell asked him if we could still be sitting here in three months' time in the same situation as now.",
+      "zh": "乔尔·米切尔问他，三个月后我们是否还会处于如今同样的局面。"
+    },
+    {
+      "id": 124,
+      "startMs": 694600,
+      "endMs": 703080,
+      "en": "You know, it's very easy to be depressing about this war, especially as some argue we're in the foothills of the Third World War.",
+      "zh": "你知道，人们很容易对这场战争感到悲观，尤其有人认为我们正处于第三次世界大战的初期。"
+    },
+    {
+      "id": 125,
+      "startMs": 703080,
+      "endMs": 711960,
+      "en": "I don't think so. We've had six months since the war on Iran started, and last week the 60 days of the ceasefire ran out.",
+      "zh": "我不这么认为。针对伊朗的战争已经持续六个月，上周停火的60天期限也已结束。"
+    },
+    {
+      "id": 126,
+      "startMs": 712600,
+      "endMs": 718680,
+      "en": "So the first phase is over: the heavy kinetic fighting, Israel and America, Iran.",
+      "zh": "所以第一阶段已经结束：以色列、美国与伊朗之间的激烈武装冲突告一段落。"
+    },
+    {
+      "id": 127,
+      "startMs": 719080,
+      "endMs": 721480,
+      "en": "Now Washington says we're in the big...",
+      "zh": "现在，华盛顿称我们正处于大规模……"
+    },
+    {
+      "id": 128,
+      "startMs": 721480,
+      "endMs": 724120,
+      "en": "economic war. That's the second phase.",
+      "zh": "经济战。这是第二阶段。"
+    },
+    {
+      "id": 129,
+      "startMs": 724280,
+      "endMs": 731240,
+      "en": "I think there could be a third phase. It depends what happens to the American elections, to the Israeli elections and so on.",
+      "zh": "我认为可能会有第三阶段。这取决于美国大选、以色列大选等将如何发展。"
+    },
+    {
+      "id": 130,
+      "startMs": 731720,
+      "endMs": 737500,
+      "en": "But I think there is likely to be a managed kind of on-off war until next year,",
+      "zh": "但我认为，某种受控的断断续续的战争很可能会持续到明年，"
+    },
+    {
+      "id": 131,
+      "startMs": 737900,
+      "endMs": 740860,
+      "en": "and that's going to be bad news for the world economies.",
+      "zh": "这对全球经济来说将是坏消息。"
+    },
+    {
+      "id": 132,
+      "startMs": 741020,
+      "endMs": 743820,
+      "en": "Yes, and you mentioned the economic phase.",
+      "zh": "是的，你提到了经济阶段。"
+    },
+    {
+      "id": 133,
+      "startMs": 743820,
+      "endMs": 751820,
+      "en": "This talk of economic D-Day was being talked about, and as we began the week, we were expecting those sanctions.",
+      "zh": "人们一直在谈论所谓的经济“D日”；本周开始时，我们预计那些制裁措施会出台。"
+    },
+    {
+      "id": 134,
+      "startMs": 751900,
+      "endMs": 761500,
+      "en": "We got them by midweek, but not all the major international players, particularly China, went along with the United States on that.",
+      "zh": "到本周中旬制裁已经出台，但并非所有主要国际参与者，尤其是中国，都和美国采取了相同立场。"
+    },
+    {
+      "id": 135,
+      "startMs": 761820,
+      "endMs": 771020,
+      "en": "And it's worth a reminder: the global economy, oil production, massively affected by Iran's closure and control over the Strait of Hormuz.",
+      "zh": "值得提醒的是，伊朗关闭并控制霍尔木兹海峡，严重影响了全球经济和石油产量。"
+    },
+    {
+      "id": 136,
+      "startMs": 771580,
+      "endMs": 775740,
+      "en": "Well, of course, and it could get worse if it moves into a third phase.",
+      "zh": "当然，如果局势进入第三阶段，情况可能会更加恶化。"
+    },
+    {
+      "id": 137,
+      "startMs": 776140,
+      "endMs": 782300,
+      "en": "Then the Houthis under Tehran's orders will start blocking the Red Sea",
+      "zh": "届时，奉德黑兰之命的胡塞武装将开始封锁红海，"
+    },
+    {
+      "id": 138,
+      "startMs": 782700,
+      "endMs": 786940,
+      "en": "having a go at the Suez Canal and the Egyptian ports.",
+      "zh": "并对苏伊士运河和埃及港口采取行动。"
+    },
+    {
+      "id": 139,
+      "startMs": 787180,
+      "endMs": 791900,
+      "en": "There's lots of things the Iranians could do. They've done extremely well in this war.",
+      "zh": "伊朗人可以采取很多行动。他们在这场战争中表现得非常出色。"
+    },
+    {
+      "id": 140,
+      "startMs": 792220,
+      "endMs": 798320,
+      "en": "They've showed great resilience, great spirit, and they have fought much harder than people expected.",
+      "zh": "他们展现出强大的韧性和顽强的精神，战斗得比人们预想的更加激烈。"
+    },
+    {
+      "id": 141,
+      "startMs": 798880,
+      "endMs": 807840,
+      "en": "But neither side, neither the Americans or the Iranians—Israelis maybe different—want a major war because of the economic effects.",
+      "zh": "但双方——美国人和伊朗人，或许以色列人有所不同——都不想要一场大战，因为会带来经济影响。"
+    },
+    {
+      "id": 142,
+      "startMs": 808080,
+      "endMs": 813840,
+      "en": "Unlike the First World War or the Second World War or NATO versus the Warsaw Pact, there are cross-cutting allegiances.",
+      "zh": "不同于第一次世界大战、第二次世界大战，或北约对抗华约的格局，各方之间存在交错的联盟关系。"
+    },
+    {
+      "id": 143,
+      "startMs": 814320,
+      "endMs": 820400,
+      "en": "China's economy is very important to America.",
+      "zh": "中国经济对美国非常重要。"
+    },
+    {
+      "id": 144,
+      "startMs": 820720,
+      "endMs": 825200,
+      "en": "Also the Russians and the Israelis still are quite close in some respects.",
+      "zh": "此外，俄罗斯人和以色列人在某些方面仍然关系密切。"
+    },
+    {
+      "id": 145,
+      "startMs": 825440,
+      "endMs": 831280,
+      "en": "So this isn't a complete and utter war. It's not going to turn into the Third World War.",
+      "zh": "所以这不是一场全面彻底的战争，也不会演变成第三次世界大战。"
+    },
+    {
+      "id": 146,
+      "startMs": 831840,
+      "endMs": 836400,
+      "en": "But nobody wants the Strait of Hormuz to remain closed",
+      "zh": "但没有人希望霍尔木兹海峡继续关闭，"
+    },
+    {
+      "id": 147,
+      "startMs": 836960,
+      "endMs": 840720,
+      "en": "except perhaps the Iranians. In this sense, they have won this war.",
+      "zh": "或许伊朗人例外。从这个意义上说，他们赢得了这场战争。"
+    },
+    {
+      "id": 148,
+      "startMs": 840800,
+      "endMs": 844640,
+      "en": "They're much stronger than before the war started six months ago.",
+      "zh": "他们比六个月前战争开始时强大得多。"
+    },
+    {
+      "id": 149,
+      "startMs": 845120,
+      "endMs": 847840,
+      "en": "So the Americans got to do an awful lot of things.",
+      "zh": "所以美国人必须做很多事情。"
+    },
+    {
+      "id": 150,
+      "startMs": 847840,
+      "endMs": 852400,
+      "en": "They got to persuade the Iranians to do a deal, a proper deal.",
+      "zh": "他们必须说服伊朗人达成一项协议，一项真正的协议。"
+    },
+    {
+      "id": 151,
+      "startMs": 852880,
+      "endMs": 856420,
+      "en": "They've got to open the Strait of Hormuz without charging money",
+      "zh": "他们必须让霍尔木兹海峡重新开放，而且不能收费，"
+    },
+    {
+      "id": 152,
+      "startMs": 856820,
+      "endMs": 860020,
+      "en": "and there's lots of things that the Iranians want.",
+      "zh": "而且伊朗人还有许多要求。"
+    },
+    {
+      "id": 153,
+      "startMs": 860420,
+      "endMs": 867380,
+      "en": "Whether the Americans can give it, and on top of that, the Iranian government is much more hardline than it was.",
+      "zh": "美国人能否满足这些要求还很难说；此外，伊朗政府比过去强硬得多。"
+    },
+    {
+      "id": 154,
+      "startMs": 867460,
+      "endMs": 876740,
+      "en": "Officially, it was a theocratic government, but now the military—or the Revolutionary Guard Corps—basically runs the show, as well as the economy.",
+      "zh": "从官方定义看，它是一个神权政府；但如今军方，或者说伊斯兰革命卫队，基本掌控了局面和经济。"
+    },
+    {
+      "id": 155,
+      "startMs": 877060,
+      "endMs": 885380,
+      "en": "There are many hardliners within the Guard Corps who do not want to do any deals, so there are splits within the Iranian government.",
+      "zh": "革命卫队内部有许多强硬派不愿达成任何协议，因此伊朗政府内部存在分歧。"
+    },
+    {
+      "id": 156,
+      "startMs": 885380,
+      "endMs": 890420,
+      "en": "Whether a third phase of further bombing will make them change their mind, I don't know.",
+      "zh": "第三阶段的进一步轰炸是否会让他们改变想法，我不知道。"
+    },
+    {
+      "id": 157,
+      "startMs": 890980,
+      "endMs": 900180,
+      "en": "But I think the Chinese getting involved, and perhaps the Russians too, is because Trump likes to talk and feels he can talk to President Putin.",
+      "zh": "但我认为，中国介入、或许俄罗斯也介入，是因为特朗普喜欢交谈，觉得自己能和普京总统对话。"
+    },
+    {
+      "id": 158,
+      "startMs": 900580,
+      "endMs": 903860,
+      "en": "I think there's not going to be an absolute kinetic war.",
+      "zh": "我认为不会爆发一场彻底的武装战争。"
+    },
+    {
+      "id": 159,
+      "startMs": 904180,
+      "endMs": 912340,
+      "en": "Besides, there are lots of problems with the American military, whether it's Patriot missiles or endurance on the carriers, and so on.",
+      "zh": "此外，美国军方也有许多问题，无论是爱国者导弹，还是航母的续航能力，等等。"
+    },
+    {
+      "id": 160,
+      "startMs": 912900,
+      "endMs": 922600,
+      "en": "I think that, despite all the problems, Trump and some compromising elements of the Guard Corps will do a deal. I hope.",
+      "zh": "我认为，尽管问题重重，特朗普和革命卫队内部一些愿意妥协的势力会达成协议。希望如此。"
+    },
+    {
+      "id": 161,
+      "startMs": 923400,
+      "endMs": 925000,
+      "en": "Analyst Paul Moorcroft.",
+      "zh": "分析员保罗·穆尔克罗夫特。"
+    },
+    {
+      "id": 162,
+      "startMs": 925800,
+      "endMs": 930440,
+      "en": "Violence by Jewish settlers in the occupied West Bank is set to reach record levels this year.",
+      "zh": "今年，被占领的约旦河西岸的犹太定居者暴力事件预计将达到创纪录水平。"
+    },
+    {
+      "id": 163,
+      "startMs": 930920,
+      "endMs": 936040,
+      "en": "As human rights groups warn, they are increasingly spreading into new areas of the territory.",
+      "zh": "人权组织警告说，这类暴力正不断蔓延到该地区的新区域。"
+    },
+    {
+      "id": 164,
+      "startMs": 936520,
+      "endMs": 943080,
+      "en": "Attacks on Palestinians have risen under Israel's current government, alongside a rapid increase in Israeli settlements.",
+      "zh": "在以色列现政府执政期间，针对巴勒斯坦人的袭击增加，以色列定居点也迅速扩张。"
+    },
+    {
+      "id": 165,
+      "startMs": 943560,
+      "endMs": 950920,
+      "en": "Our Middle East correspondent, Lucy Williamson, has been looking at reports of settler violence across the West Bank in the course of one week.",
+      "zh": "我们的中东记者露西·威廉姆森调查了一周内约旦河西岸各地的定居者暴力报道。"
+    },
+    {
+      "id": 166,
+      "startMs": 952480,
+      "endMs": 960000,
+      "en": "A teenager shot dead. Beatings. Arson attacks. A donkey tortured.",
+      "zh": "一名少年中枪身亡。殴打。纵火袭击。一头驴遭到虐待。"
+    },
+    {
+      "id": 167,
+      "startMs": 960640,
+      "endMs": 965360,
+      "en": "You might have seen the worst attacks by Jewish settlers here in the occupied West Bank",
+      "zh": "你可能见过这里被占领的约旦河西岸发生的最严重的犹太定居者袭击，"
+    },
+    {
+      "id": 168,
+      "startMs": 965440,
+      "endMs": 971360,
+      "en": "but behind those lies a much wider campaign of violence against Palestinians.",
+      "zh": "但这些事件背后，是一场范围广得多的针对巴勒斯坦人的暴力行动。"
+    },
+    {
+      "id": 169,
+      "startMs": 971840,
+      "endMs": 976000,
+      "en": "We've counted more than 60 incidents here just in the past week",
+      "zh": "仅在过去一周，我们就在这里统计到超过60起事件，"
+    },
+    {
+      "id": 170,
+      "startMs": 976480,
+      "endMs": 984320,
+      "en": "including daily incursions and intimidations that never make the news, some of which aren't even reported by the victims at all.",
+      "zh": "包括每天发生、从未登上新闻的闯入和恐吓，其中一些甚至根本没有由受害者报告。"
+    },
+    {
+      "id": 171,
+      "startMs": 985140,
+      "endMs": 991300,
+      "en": "On Saturday, amputee Saeed Al-Amour was beaten by a settler with an iron bar.",
+      "zh": "星期六，截肢者赛义德·阿勒-阿穆尔遭一名定居者用铁棍殴打。"
+    },
+    {
+      "id": 172,
+      "startMs": 991540,
+      "endMs": 1000180,
+      "en": "As he stooped to pick up one of his crutches, a shocking video recording of the assault clearly shows his attacker, who's now under arrest.",
+      "zh": "他弯腰捡起一根拐杖时，一段记录这起袭击的骇人视频清楚拍下了袭击者；此人现已被捕。"
+    },
+    {
+      "id": 173,
+      "startMs": 1000180,
+      "endMs": 1008420,
+      "en": "Saeed, who lost his leg last year after being shot near his house by a settler security guard,",
+      "zh": "赛义德去年在家附近遭一名定居者保安枪击后失去了一条腿；他表示，"
+    },
+    {
+      "id": 174,
+      "startMs": 1008900,
+      "endMs": 1011780,
+      "en": "says settlers are constantly harassing the family.",
+      "zh": "定居者一直在骚扰他的家人。"
+    },
+    {
+      "id": 175,
+      "startMs": 1012180,
+      "endMs": 1014820,
+      "en": "They want me to leave this place.",
+      "zh": "他们想让我离开这里。"
+    },
+    {
+      "id": 176,
+      "startMs": 1015620,
+      "endMs": 1018260,
+      "en": "It's not only me who's targeted. It's everyone.",
+      "zh": "被针对的不只是我，而是所有人。"
+    },
+    {
+      "id": 177,
+      "startMs": 1018540,
+      "endMs": 1023460,
+      "en": "If I leave, they'll go after my neighbour down the road, then the next one.",
+      "zh": "如果我离开，他们会沿着这条路找我邻居的麻烦，然后是下一个人。"
+    },
+    {
+      "id": 178,
+      "startMs": 1023700,
+      "endMs": 1029620,
+      "en": "Then the one after that, until they remove everyone from these areas and replace them with Zionists.",
+      "zh": "再下一个，直到他们把所有人从这些地区赶走，用犹太复国主义者取而代之。"
+    },
+    {
+      "id": 179,
+      "startMs": 1031900,
+      "endMs": 1039580,
+      "en": "On Friday, a large group of Jewish settlers, some of them armed, walked through the Palestinian village of Sayyara near Hebron.",
+      "zh": "星期五，一大群犹太定居者，其中一些携带武器，穿过了希伯伦附近的巴勒斯坦村庄赛亚拉。"
+    },
+    {
+      "id": 180,
+      "startMs": 1041600,
+      "endMs": 1044960,
+      "en": "Past the house of 17-year-old Karim Shalaldeh.",
+      "zh": "他们经过了17岁的卡里姆·沙拉尔德的家。"
+    },
+    {
+      "id": 181,
+      "startMs": 1044960,
+      "endMs": 1052080,
+      "en": "His father Sanad told us Karim was killed while filming the settlers.",
+      "zh": "他的父亲萨纳德告诉我们，卡里姆在拍摄定居者时遇害。"
+    },
+    {
+      "id": 182,
+      "startMs": 1052080,
+      "endMs": 1059200,
+      "en": "The second bullet struck my son. I ran to him before he fell and held him in my arms.",
+      "zh": "第二颗子弹击中了我的儿子。他倒下前我跑到他身边，把他抱在怀里。"
+    },
+    {
+      "id": 183,
+      "startMs": 1059780,
+      "endMs": 1064820,
+      "en": "I would rather die myself a thousand times than see it happen to my child.",
+      "zh": "我宁愿自己死上一千次，也不愿看到这种事发生在孩子身上。"
+    },
+    {
+      "id": 184,
+      "startMs": 1065700,
+      "endMs": 1070420,
+      "en": "Israel's army said it had received reports of Palestinians throwing stones.",
+      "zh": "以色列军方称，他们收到巴勒斯坦人投掷石块的报告。"
+    },
+    {
+      "id": 185,
+      "startMs": 1072560,
+      "endMs": 1079760,
+      "en": "Jewish settlements here, illegal under international law, are expanding and settler attacks are rising as well.",
+      "zh": "这里的犹太人定居点正不断扩张，按照国际法这些定居点是非法的，定居者袭击也在增加。"
+    },
+    {
+      "id": 186,
+      "startMs": 1081180,
+      "endMs": 1086540,
+      "en": "The Israeli human rights organisation Yesh Din says more than 90% of police...",
+      "zh": "以色列人权组织“Yesh Din”称，超过90%的警方调查……"
+    },
+    {
+      "id": 187,
+      "startMs": 1086540,
+      "endMs": 1090780,
+      "en": "investigations into settler violence end without indictment.",
+      "zh": "针对定居者暴力的调查最终没有提出起诉。"
+    },
+    {
+      "id": 188,
+      "startMs": 1090860,
+      "endMs": 1092940,
+      "en": "There is a problem of violence in the West Bank.",
+      "zh": "约旦河西岸存在暴力问题。"
+    },
+    {
+      "id": 189,
+      "startMs": 1093100,
+      "endMs": 1098780,
+      "en": "Doron Spielman, a spokesman for the Israeli prime minister's office, spoke to the BBC late last month.",
+      "zh": "以色列总理办公室发言人多龙·施皮尔曼上月末接受了 BBC 采访。"
+    },
+    {
+      "id": 190,
+      "startMs": 1098940,
+      "endMs": 1102620,
+      "en": "There are Jews who are a very small number of Jews.",
+      "zh": "犹太人中只有极少数人涉及这些行为。"
+    },
+    {
+      "id": 191,
+      "startMs": 1102620,
+      "endMs": 1107980,
+      "en": "They are human beings with names, not just 'settlers'; some have in fact been prosecuted by the police.",
+      "zh": "他们是有姓名的普通人，不只是被称为“定居者”的人，其中确实有人被警方起诉。"
+    },
+    {
+      "id": 192,
+      "startMs": 1107980,
+      "endMs": 1116380,
+      "en": "Like, the vast-- the largest estimate would be maybe 300 or 400 young people involved in this, out of a population of 750,000.",
+      "zh": "比如，估计最多也许只有三四百名年轻人参与其中，而总人口有75万。"
+    },
+    {
+      "id": 193,
+      "startMs": 1119320,
+      "endMs": 1127240,
+      "en": "This week, Zvi Sukkot, a settler lawmaker in Israel's governing coalition, filmed himself destroying a village memorial",
+      "zh": "本周，以色列执政联盟中的定居者议员兹维·苏科特拍下了自己摧毁约旦河西岸一座村庄纪念碑的画面"
+    },
+    {
+      "id": 194,
+      "startMs": 1127240,
+      "endMs": 1130760,
+      "en": "in the West Bank because, he said, it honoured terrorists.",
+      "zh": "他说，纪念碑纪念的是恐怖分子。"
+    },
+    {
+      "id": 195,
+      "startMs": 1131320,
+      "endMs": 1137400,
+      "en": "It triggered a rebuke from Israel's foreign minister and from the office of the prime minister, Benjamin Netanyahu.",
+      "zh": "这引发了以色列外长以及总理本雅明·内塔尼亚胡办公室的斥责。"
+    },
+    {
+      "id": 196,
+      "startMs": 1138780,
+      "endMs": 1146140,
+      "en": "Jewish settlers were also filmed torturing a donkey, tying it to their vehicle and dragging it along until it was dead.",
+      "zh": "还有画面拍到犹太定居者虐待一头驴，把它绑在车上拖行，直到它死亡。"
+    },
+    {
+      "id": 197,
+      "startMs": 1146780,
+      "endMs": 1153020,
+      "en": "A sadistic act of aggression that shocked Israelis more than it shocked Palestinians.",
+      "zh": "这种残暴的侵略行为令以色列人比巴勒斯坦人更加震惊。"
+    },
+    {
+      "id": 198,
+      "startMs": 1153660,
+      "endMs": 1155740,
+      "en": "Lucy Williamson reporting from the West Bank.",
+      "zh": "露西·威廉姆森从约旦河西岸报道。"
+    },
+    {
+      "id": 199,
+      "startMs": 1155740,
+      "endMs": 1161740,
+      "en": "US media is reporting that the Trump administration is in talks with Venezuela's interim government",
+      "zh": "美国媒体报道称，特朗普政府正与委内瑞拉临时政府谈判"
+    },
+    {
+      "id": 200,
+      "startMs": 1162140,
+      "endMs": 1166540,
+      "en": "about Washington taking an ownership stake in its huge oil resources.",
+      "zh": "讨论华盛顿持有该国庞大石油资源的所有权股份。"
+    },
+    {
+      "id": 201,
+      "startMs": 1166940,
+      "endMs": 1169820,
+      "en": "We heard more from our business reporter, Ejiofor Ndubisi.",
+      "zh": "商业记者埃吉奥福尔·恩杜比西带来更多报道。"
+    },
+    {
+      "id": 202,
+      "startMs": 1169820,
+      "endMs": 1178380,
+      "en": "Based on these reports, the US is in talks with Venezuela about taking quite a significantly large stake in its oil fields.",
+      "zh": "据这些报道，美国正与委内瑞拉谈判，拟持有其油田相当大的一部分股份。"
+    },
+    {
+      "id": 203,
+      "startMs": 1178380,
+      "endMs": 1182380,
+      "en": "According to these reports, the details are still being ironed out.",
+      "zh": "据这些报道，具体细节仍在敲定中。"
+    },
+    {
+      "id": 204,
+      "startMs": 1182620,
+      "endMs": 1191180,
+      "en": "The discussions are said to involve more than a dozen productive oil fields, which have about 90 billion barrels of proven reserves.",
+      "zh": "据称，谈判涉及十多个在产油田，这些油田拥有约900亿桶探明储量。"
+    },
+    {
+      "id": 205,
+      "startMs": 1191580,
+      "endMs": 1198700,
+      "en": "And if you bear in mind that Venezuela has 300 billion barrels of proven reserves, that's nearly a third of that.",
+      "zh": "要知道，委内瑞拉拥有3000亿桶探明储量，这几乎是其中的三分之一。"
+    },
+    {
+      "id": 206,
+      "startMs": 1199100,
+      "endMs": 1206780,
+      "en": "Now, some of these oil fields that are being discussed used to be controlled by former Venezuelan insiders, people with close",
+      "zh": "目前，正在讨论的一些油田过去由委内瑞拉前内部人士控制，他们与政府关系密切"
+    },
+    {
+      "id": 207,
+      "startMs": 1206800,
+      "endMs": 1214240,
+      "en": "ties to the Venezuelan government, including some who've now been indicted, and we know that some of them were also controlled by China.",
+      "zh": "其中一些人如今已被起诉；我们知道，这些油田中有一些也曾由中国控制。"
+    },
+    {
+      "id": 208,
+      "startMs": 1214640,
+      "endMs": 1220240,
+      "en": "And from what we understand at this stage, in return for a US ownership stake,",
+      "zh": "据我们目前了解，作为美国取得所有权股份的交换，"
+    },
+    {
+      "id": 209,
+      "startMs": 1220640,
+      "endMs": 1229760,
+      "en": "private companies, including American firms, would take over the development of these oil fields and return more oil revenue to Venezuela.",
+      "zh": "包括美国企业在内的私营公司将接管这些油田的开发，并向委内瑞拉返还更多石油收入。"
+    },
+    {
+      "id": 210,
+      "startMs": 1230000,
+      "endMs": 1234480,
+      "en": "There are some small oil traders who are very excited about this deal",
+      "zh": "一些小型石油交易商对这笔交易非常兴奋，"
+    },
+    {
+      "id": 211,
+      "startMs": 1234560,
+      "endMs": 1240320,
+      "en": "but generally, if you look at some of the oil majors who have traditionally operated in Venezuela,",
+      "zh": "但总体而言，传统上在委内瑞拉经营的一些大型石油公司，"
+    },
+    {
+      "id": 212,
+      "startMs": 1240320,
+      "endMs": 1245680,
+      "en": "they're quite nervous about investing huge sums of money into the country",
+      "zh": "对向这个国家投入巨额资金相当谨慎，"
+    },
+    {
+      "id": 213,
+      "startMs": 1245920,
+      "endMs": 1252480,
+      "en": "especially during a time of political turmoil, because they've invested money before and not got their returns back.",
+      "zh": "尤其是在政治动荡时期，因为它们过去投入过资金，却没能收回回报。"
+    },
+    {
+      "id": 214,
+      "startMs": 1252800,
+      "endMs": 1260960,
+      "en": "When the Maduro regime was in operation, a lot of them weren't able to take full advantage of what they'd put into those reserves.",
+      "zh": "马杜罗政权执政时，许多公司无法充分利用自己投入这些储量的资金。"
+    },
+    {
+      "id": 215,
+      "startMs": 1261520,
+      "endMs": 1262240,
+      "en": "Ejiofor Ndubisi reporting.",
+      "zh": "埃吉奥福尔·恩杜比西报道。"
+    },
+    {
+      "id": 216,
+      "startMs": 1263960,
+      "endMs": 1270200,
+      "en": "Apple is planning to shake up the tech industry again, as it prepares to enter the foldable smartphone market",
+      "zh": "苹果准备进入折叠智能手机市场，计划再次撼动科技行业"
+    },
+    {
+      "id": 217,
+      "startMs": 1270520,
+      "endMs": 1274280,
+      "en": "with its first foldable iPhone expected to be unveiled next month.",
+      "zh": "其首款折叠 iPhone 预计将于下月发布。"
+    },
+    {
+      "id": 218,
+      "startMs": 1274840,
+      "endMs": 1284120,
+      "en": "Huawei and Samsung currently dominate the market, accounting for 36% and 34% of global foldable shipments respectively last year.",
+      "zh": "华为和三星目前主导着这一市场，去年分别占全球折叠设备出货量的36%和34%。"
+    },
+    {
+      "id": 219,
+      "startMs": 1284760,
+      "endMs": 1287320,
+      "en": "Apple's entry could significantly reshape the market.",
+      "zh": "苹果的加入可能大幅重塑这一市场。"
+    },
+    {
+      "id": 220,
+      "startMs": 1287880,
+      "endMs": 1292840,
+      "en": "The launch will also mark the first major product unveiling under new CEO John Ternus.",
+      "zh": "这次发布也将是新任首席执行官约翰·特努斯任内首次推出重大产品。"
+    },
+    {
+      "id": 221,
+      "startMs": 1293160,
+      "endMs": 1296840,
+      "en": "So why has Apple waited so long to enter the foldable market?",
+      "zh": "那么，苹果为什么等了这么久才进入折叠屏市场？"
+    },
+    {
+      "id": 222,
+      "startMs": 1297240,
+      "endMs": 1300520,
+      "en": "Bryan Ma is a technology industry analyst with IDC.",
+      "zh": "布莱恩·马是 IDC 的科技行业分析师。"
+    },
+    {
+      "id": 223,
+      "startMs": 1300520,
+      "endMs": 1307000,
+      "en": "It's not entirely out of character for Apple to kind of sit it out for a while, let the technology mature a bit before they get into it.",
+      "zh": "苹果暂时观望一段时间、让技术更加成熟后再进入，并不完全不符合它的一贯风格。"
+    },
+    {
+      "id": 224,
+      "startMs": 1307000,
+      "endMs": 1312760,
+      "en": "But on paper, Samsung's eight generations into this product already, they've obviously gone through a lot of growing pains",
+      "zh": "从纸面上看，三星这款产品已经发展到第八代，显然经历了不少成长的阵痛，"
+    },
+    {
+      "id": 225,
+      "startMs": 1312760,
+      "endMs": 1316440,
+      "en": "learning how to get the hinge to work, the waterproofing to work, all that kind of stuff.",
+      "zh": "学习如何让铰链运作、实现防水，以及处理类似的各种问题。"
+    },
+    {
+      "id": 226,
+      "startMs": 1316840,
+      "endMs": 1318840,
+      "en": "Apple is entering later.",
+      "zh": "所以，苹果确实是后来才加入。"
+    },
+    {
+      "id": 227,
+      "startMs": 1318840,
+      "endMs": 1323720,
+      "en": "However, I think they wanted to make sure the experience was going to be good for a consumer.",
+      "zh": "不过，我认为他们是想确保消费者获得良好的使用体验。"
+    },
+    {
+      "id": 228,
+      "startMs": 1323900,
+      "endMs": 1328780,
+      "en": "Opening and closing, whether there's much of a crease in the fold area, whether the hinge works out well.",
+      "zh": "比如开合体验、折叠处是否有明显折痕，以及铰链是否运作良好。"
+    },
+    {
+      "id": 229,
+      "startMs": 1329100,
+      "endMs": 1332540,
+      "en": "One of the challenges is that in order to get it so thin",
+      "zh": "挑战之一是，为了把手机做得这么薄，"
+    },
+    {
+      "id": 230,
+      "startMs": 1332540,
+      "endMs": 1336300,
+      "en": "they had to step back on a few things that they normally put into iPhones",
+      "zh": "他们不得不舍弃 iPhone 通常配备的一些功能，"
+    },
+    {
+      "id": 231,
+      "startMs": 1336300,
+      "endMs": 1339260,
+      "en": "like Face ID, like a zoom lens.",
+      "zh": "比如面容 ID 和变焦镜头。"
+    },
+    {
+      "id": 232,
+      "startMs": 1339260,
+      "endMs": 1343580,
+      "en": "So the rumors are, at least, that Apple had to give up on some of those in order to make this work.",
+      "zh": "所以，至少有传言称，苹果为了实现这一设计，不得不放弃其中一些功能。"
+    },
+    {
+      "id": 233,
+      "startMs": 1343980,
+      "endMs": 1346700,
+      "en": "This first-generation product may be a compromise.",
+      "zh": "所以，这款第一代产品对消费者来说可能有些妥协，"
+    },
+    {
+      "id": 234,
+      "startMs": 1346700,
+      "endMs": 1353020,
+      "en": "but eventually, the hope is that as Apple comes out with future generations of the product,",
+      "zh": "但最终，我们希望苹果推出后续产品时，"
+    },
+    {
+      "id": 235,
+      "startMs": 1353420,
+      "endMs": 1358140,
+      "en": "let's hope they do build in that zoom lens and that sort of thing. And so, eventually, we may get there.",
+      "zh": "能把变焦镜头之类的功能加回来。这样一来，我们最终或许能实现理想效果。"
+    },
+    {
+      "id": 236,
+      "startMs": 1358460,
+      "endMs": 1361900,
+      "en": "Think of what Apple did with Apple Watch Ultra, right?",
+      "zh": "想想苹果推出 Apple Watch Ultra 时的做法，对吧？"
+    },
+    {
+      "id": 237,
+      "startMs": 1361900,
+      "endMs": 1368460,
+      "en": "Really going beyond even just the high-end Apple Watch, present the Ultra, even what they did with the iPhones going to Pro Max.",
+      "zh": "它不只是推出高端 Apple Watch，还推出了 Ultra；iPhone 也有升级到 Pro Max 的做法。"
+    },
+    {
+      "id": 238,
+      "startMs": 1368700,
+      "endMs": 1370540,
+      "en": "So this will be a premium product.",
+      "zh": "所以这将是一款非常高端的产品。"
+    },
+    {
+      "id": 239,
+      "startMs": 1370780,
+      "endMs": 1375580,
+      "en": "We think this is going to be well over $2,000, so clearly that's not quite a mainstream product yet.",
+      "zh": "我们认为它的售价会超过2000美元，所以显然还不是面向大众的产品。"
+    },
+    {
+      "id": 240,
+      "startMs": 1375580,
+      "endMs": 1385440,
+      "en": "It will be for early adopters, but people see someone carrying a Samsung Galaxy Fold and ask, 'When will Apple have one?'",
+      "zh": "它面向早期尝鲜者，但人们看到有人拿着三星 Galaxy Fold，就会问：“苹果什么时候也会有这样的产品？”"
+    },
+    {
+      "id": 241,
+      "startMs": 1385760,
+      "endMs": 1391040,
+      "en": "I think people are watching, assuming Apple delivers a decent experience,",
+      "zh": "所以，我认为有人正在关注这款产品；假如苹果确实能提供不错的体验，"
+    },
+    {
+      "id": 242,
+      "startMs": 1391040,
+      "endMs": 1395440,
+      "en": "this is something that is going to be in good demand.",
+      "zh": "这款产品的需求会很旺盛。"
+    },
+    {
+      "id": 243,
+      "startMs": 1395440,
+      "endMs": 1400640,
+      "en": "But again, that price point means that it will prohibit that from becoming a mainstream thing for at least the time being.",
+      "zh": "但话说回来，这个价位意味着至少目前它不会成为大众产品。"
+    },
+    {
+      "id": 244,
+      "startMs": 1401280,
+      "endMs": 1403040,
+      "en": "Tech industry analyst Bryan Ma.",
+      "zh": "科技行业分析师布莱恩·马。"
+    },
+    {
+      "id": 245,
+      "startMs": 1406360,
+      "endMs": 1411480,
+      "en": "And that's all for us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是今天的全部内容。如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 246,
+      "startMs": 1411480,
+      "endMs": 1415320,
+      "en": "This edition was mixed by Tom Bartlett and the producer was Nikki Wiggall.",
+      "zh": "本期由汤姆·巴特利特混音，制片人是妮基·威格尔。"
+    },
+    {
+      "id": 247,
+      "startMs": 1415880,
+      "endMs": 1418280,
+      "en": "The editor is Karen Martin and I am Ankur Desai.",
+      "zh": "编辑是凯伦·马丁，我是安库尔·德赛。"
+    },
+    {
+      "id": 248,
+      "startMs": 1418520,
+      "endMs": 1419960,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}

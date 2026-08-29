@@ -1,0 +1,2006 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "29 August 2026"
+  },
+  "durationMs": 1578700,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4560,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 7340,
+      "endMs": 13260,
+      "en": "I'm Charlotte Gallagher. In the early hours of Saturday, the 29th of August, these are our main stories.",
+      "zh": "我是夏洛特·加拉格尔。现在是8月29日星期六凌晨，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 13740,
+      "endMs": 18380,
+      "en": "Donald Trump says the US has reached a huge oil deal with Venezuela.",
+      "zh": "唐纳德·特朗普说，美国已与委内瑞拉达成一项巨额石油协议。"
+    },
+    {
+      "id": 4,
+      "startMs": 18380,
+      "endMs": 23420,
+      "en": "Also in this podcast: human rights violated, but not genocide.",
+      "zh": "本期节目还将报道：人权受到侵犯，但不构成种族灭绝。"
+    },
+    {
+      "id": 5,
+      "startMs": 23820,
+      "endMs": 29260,
+      "en": "Two reports on the forced contraception of women and girls in Greenland have been published.",
+      "zh": "两份关于格陵兰妇女和女孩遭强制避孕的报告已经发布。"
+    },
+    {
+      "id": 6,
+      "startMs": 29500,
+      "endMs": 36620,
+      "en": "L'honneur, le bon sens, l'intérêt supérieur de la Patrie.",
+      "zh": "荣誉、常识、祖国的最高利益。"
+    },
+    {
+      "id": 7,
+      "startMs": 37340,
+      "endMs": 41260,
+      "en": "We learn more about France's wartime leader in exile.",
+      "zh": "我们将进一步了解法国这位流亡海外的战时领袖。"
+    },
+    {
+      "id": 8,
+      "startMs": 47020,
+      "endMs": 53580,
+      "en": "But we start with the biggest oil deal in world history. Well, that's according to Donald Trump.",
+      "zh": "但我们先从世界历史上规模最大的石油协议说起。当然，这是唐纳德·特朗普的说法。"
+    },
+    {
+      "id": 9,
+      "startMs": 54140,
+      "endMs": 56940,
+      "en": "The president has announced an agreement with Venezuela.",
+      "zh": "总统宣布已与委内瑞拉达成协议。"
+    },
+    {
+      "id": 10,
+      "startMs": 57020,
+      "endMs": 63740,
+      "en": "He says it will more than double US oil reserves and substantially lower petrol prices for Americans.",
+      "zh": "他表示，这将使美国石油储量增加一倍以上，并大幅降低美国人的汽油价格。"
+    },
+    {
+      "id": 11,
+      "startMs": 64220,
+      "endMs": 67820,
+      "en": "Caracas has welcomed the deal as a historic milestone.",
+      "zh": "加拉加斯称这项协议是一个历史性里程碑。"
+    },
+    {
+      "id": 12,
+      "startMs": 68220,
+      "endMs": 72780,
+      "en": "The interim leader Delcy Rodríguez said the investment will help the nation's revival.",
+      "zh": "临时领导人德尔茜·罗德里格斯说，这项投资将助力国家复兴。"
+    },
+    {
+      "id": 13,
+      "startMs": 73180,
+      "endMs": 77260,
+      "en": "Our Latin America expert in Miami, Luis Fajardo, has been telling me more.",
+      "zh": "驻迈阿密的拉丁美洲事务专家路易斯·法哈多将为我们进一步解读。"
+    },
+    {
+      "id": 14,
+      "startMs": 77980,
+      "endMs": 84300,
+      "en": "Certainly, we're talking about a very big deal, according to what President Trump said in his social media statement.",
+      "zh": "当然，这是一项规模非常大的协议——根据特朗普总统在社交媒体声明中的说法。"
+    },
+    {
+      "id": 15,
+      "startMs": 84300,
+      "endMs": 93340,
+      "en": "He mentioned 65 billion barrels, estimated to be nearly one-fifth of Venezuela's oil reserves.",
+      "zh": "他提到650亿桶石油，据估计接近委内瑞拉石油储量的五分之一。"
+    },
+    {
+      "id": 16,
+      "startMs": 93340,
+      "endMs": 97180,
+      "en": "Of course, Venezuela is one of the countries with the biggest oil reserves in the world.",
+      "zh": "当然，委内瑞拉是世界上石油储量最大的国家之一。"
+    },
+    {
+      "id": 17,
+      "startMs": 97660,
+      "endMs": 107040,
+      "en": "Also, Marco Rubio, the US Secretary of State, was posting on social media saying that $100 billion in investment would go to Venezuela.",
+      "zh": "此外，美国国务卿马可·鲁比奥在社交媒体发文称，将有1000亿美元投资流向委内瑞拉。"
+    },
+    {
+      "id": 18,
+      "startMs": 107360,
+      "endMs": 114880,
+      "en": "This is precisely the amount of money that some experts have suggested would be needed to restore the Venezuelan oil industry.",
+      "zh": "一些专家认为，恢复委内瑞拉石油业恰恰需要这笔资金。"
+    },
+    {
+      "id": 19,
+      "startMs": 114880,
+      "endMs": 118720,
+      "en": "Which has suffered terribly in the last decade, or even more.",
+      "zh": "该行业在过去十年甚至更长时间里一直饱受重创。"
+    },
+    {
+      "id": 20,
+      "startMs": 119040,
+      "endMs": 123680,
+      "en": "Because of mismanagement and all the turmoil that has confronted Venezuela in the last few years.",
+      "zh": "原因在于管理不善，以及委内瑞拉近几年面临的种种动荡。"
+    },
+    {
+      "id": 21,
+      "startMs": 124480,
+      "endMs": 128640,
+      "en": "So, I think this will probably be seen as a win for Donald Trump ahead of the midterms.",
+      "zh": "所以我认为，在中期选举前，这很可能会被视为唐纳德·特朗普的一场胜利。"
+    },
+    {
+      "id": 22,
+      "startMs": 128880,
+      "endMs": 131440,
+      "en": "What do you think Caracas will make of this?",
+      "zh": "你认为加拉加斯会如何看待这件事？"
+    },
+    {
+      "id": 23,
+      "startMs": 132040,
+      "endMs": 137880,
+      "en": "There's certainly going to be some eyebrows raised in at least parts of the Venezuelan government.",
+      "zh": "委内瑞拉政府至少部分人士肯定会对此感到惊讶。"
+    },
+    {
+      "id": 24,
+      "startMs": 137880,
+      "endMs": 145800,
+      "en": "This goes against, of course, the entire ideology of the Bolivarian Revolution of Hugo Chávez and Nicolás Maduro.",
+      "zh": "当然，这与雨果·查韦斯和尼古拉斯·马杜罗所代表的玻利瓦尔革命的整体意识形态背道而驰。"
+    },
+    {
+      "id": 25,
+      "startMs": 146200,
+      "endMs": 153320,
+      "en": "They were the people who, with Delcy Rodríguez, originally came to government through that movement.",
+      "zh": "他们正是与德尔茜·罗德里格斯一道，最初通过这场运动进入政府的人。"
+    },
+    {
+      "id": 26,
+      "startMs": 153320,
+      "endMs": 157240,
+      "en": "It was all about economic nationalism and control of natural resources.",
+      "zh": "这场运动强调经济民族主义以及对自然资源的控制。"
+    },
+    {
+      "id": 27,
+      "startMs": 157240,
+      "endMs": 159080,
+      "en": "This goes in the opposite direction.",
+      "zh": "而这项协议走向了相反的方向。"
+    },
+    {
+      "id": 28,
+      "startMs": 159400,
+      "endMs": 166680,
+      "en": "But on the other hand, there's going to be people in Venezuela saying that these oil resources have been drastically mismanaged in the last decade.",
+      "zh": "但另一方面，委内瑞拉也会有人说，这些石油资源在过去十年中一直遭到严重的管理不善。"
+    },
+    {
+      "id": 29,
+      "startMs": 167000,
+      "endMs": 168840,
+      "en": "This brought economic chaos to Venezuela.",
+      "zh": "这给委内瑞拉带来了经济混乱。"
+    },
+    {
+      "id": 30,
+      "startMs": 169160,
+      "endMs": 176040,
+      "en": "And if this oil deal brings prosperity again to the country, certainly people will have a different opinion on that.",
+      "zh": "如果这项石油协议能让这个国家再次繁荣，人们对此的看法当然会不同。"
+    },
+    {
+      "id": 31,
+      "startMs": 176600,
+      "endMs": 183400,
+      "en": "Because, I mean, it's definitely true that the US is exerting increasing influence on Venezuela since Maduro was ousted.",
+      "zh": "因为，确实可以说，自马杜罗被赶下台以来，美国一直在加强对委内瑞拉的影响。"
+    },
+    {
+      "id": 32,
+      "startMs": 184200,
+      "endMs": 189080,
+      "en": "It has, but on the other hand, it has been a delicate balance, because in many aspects",
+      "zh": "确实如此，但另一方面，这一直是一种微妙的平衡，因为在许多方面，"
+    },
+    {
+      "id": 33,
+      "startMs": 189400,
+      "endMs": 195660,
+      "en": "the US is working with a government, the Chavista government of Delcy Rodríguez,",
+      "zh": "美国正与一个政府合作，也就是德尔茜·罗德里格斯领导的查韦斯主义政府，"
+    },
+    {
+      "id": 34,
+      "startMs": 195900,
+      "endMs": 200300,
+      "en": "Which still controls a lot of aspects of domestic life in Venezuela.",
+      "zh": "该政府仍控制着委内瑞拉国内生活的许多方面。"
+    },
+    {
+      "id": 35,
+      "startMs": 200300,
+      "endMs": 206620,
+      "en": "There is still very big criticism of political prisoners still being in Venezuela.",
+      "zh": "对于政治犯仍被关押在委内瑞拉，外界依然有强烈批评。"
+    },
+    {
+      "id": 36,
+      "startMs": 206940,
+      "endMs": 210140,
+      "en": "So it is difficult to know up to what point",
+      "zh": "因此很难判断到什么程度，"
+    },
+    {
+      "id": 37,
+      "startMs": 210380,
+      "endMs": 216540,
+      "en": "the US government was actually doing or making the decisions on the ground at a micro level,",
+      "zh": "美国政府实际上是在基层执行决策，还是在微观层面作出决策，"
+    },
+    {
+      "id": 38,
+      "startMs": 216540,
+      "endMs": 220140,
+      "en": "but certainly at the macro level, big decisions like this suggest",
+      "zh": "但毫无疑问，在宏观层面，这样的重大决定表明，"
+    },
+    {
+      "id": 39,
+      "startMs": 220380,
+      "endMs": 228380,
+      "en": "that the US government has created a huge, huge change in the political priorities and even the national priorities of Venezuela",
+      "zh": "美国政府已经让委内瑞拉的政治优先事项、乃至国家优先事项发生了巨大变化，"
+    },
+    {
+      "id": 40,
+      "startMs": 228620,
+      "endMs": 232620,
+      "en": "since the military actions of early 2026. Luis Fajardo.",
+      "zh": "这种变化始于2026年初的军事行动。路易斯·法哈多。"
+    },
+    {
+      "id": 41,
+      "startMs": 232940,
+      "endMs": 242860,
+      "en": "The number of people missing after Wednesday's flash floods in Nepal has doubled to nearly 2,000, including many foreign nationals.",
+      "zh": "尼泊尔周三突发洪水后，失踪人数已增至近2000人，其中包括许多外国公民。"
+    },
+    {
+      "id": 42,
+      "startMs": 243260,
+      "endMs": 250220,
+      "en": "More than 570 people are known to have died when a huge torrent of rock, ice and mud was unleashed",
+      "zh": "已知有570多人死亡；当时岩石、冰块和泥浆组成的巨大洪流倾泻而下，"
+    },
+    {
+      "id": 43,
+      "startMs": 250220,
+      "endMs": 253120,
+      "en": "by the collapse of a glacier in the Himalayan region",
+      "zh": "原因是喜马拉雅地区一座冰川崩塌，"
+    },
+    {
+      "id": 44,
+      "startMs": 253440,
+      "endMs": 258080,
+      "en": "and even as rescue efforts continue, there are fears of further sudden floods.",
+      "zh": "即使救援仍在继续，人们仍担心会发生更多突发洪水。"
+    },
+    {
+      "id": 45,
+      "startMs": 258480,
+      "endMs": 262400,
+      "en": "Azadeh Moshiri sent this report from one of the worst-hit areas of Nepal.",
+      "zh": "阿扎德·莫希里从尼泊尔受灾最严重的地区之一发回报道。"
+    },
+    {
+      "id": 46,
+      "startMs": 264720,
+      "endMs": 268400,
+      "en": "I've reached army barracks in Trishuli in northern Nepal.",
+      "zh": "我已抵达尼泊尔北部特里苏利的军营。"
+    },
+    {
+      "id": 47,
+      "startMs": 269360,
+      "endMs": 277680,
+      "en": "Every few minutes, helicopters are landing, dropping off people stranded by the floods—survivors and injured people.",
+      "zh": "每隔几分钟就有直升机降落，送来被洪水困住的人——幸存者和伤者。"
+    },
+    {
+      "id": 48,
+      "startMs": 278160,
+      "endMs": 284240,
+      "en": "And on the other side of the gate are just some of the people who are waiting for news of their loved ones.",
+      "zh": "而在大门另一侧，有一些人在等待亲人的消息。"
+    },
+    {
+      "id": 49,
+      "startMs": 285620,
+      "endMs": 295060,
+      "en": "Families are going up to a wall here with a list of the names of people the army has recovered so far, people who have been found.",
+      "zh": "一些家庭来到这里的墙边，墙上列着军方迄今找到的人员名单。"
+    },
+    {
+      "id": 50,
+      "startMs": 296240,
+      "endMs": 302160,
+      "en": "One of the people here desperate for news is Sujata Joshi. She tells me four of her family members are missing.",
+      "zh": "这里一位焦急等待消息的人是苏贾塔·乔希。她告诉我，她有四名家人失踪。"
+    },
+    {
+      "id": 51,
+      "startMs": 302160,
+      "endMs": 306960,
+      "en": "Who in your family is missing?",
+      "zh": "你家里谁失踪了？"
+    },
+    {
+      "id": 52,
+      "startMs": 307760,
+      "endMs": 310000,
+      "en": "My sister-in-law.",
+      "zh": "我的嫂子。"
+    },
+    {
+      "id": 53,
+      "startMs": 312980,
+      "endMs": 317220,
+      "en": "My cousin, my nephew, and niece.",
+      "zh": "我的表亲、侄子和侄女。"
+    },
+    {
+      "id": 54,
+      "startMs": 319520,
+      "endMs": 329460,
+      "en": "Her brother Sumit is here, and he tells me that when the flood hit his home, he ran with his wife and child. He survived. They were washed away.",
+      "zh": "她的哥哥苏米特也在这里。他告诉我，洪水袭击家中时，他带着妻子和孩子逃跑。他活了下来，他们却被洪水冲走了。"
+    },
+    {
+      "id": 55,
+      "startMs": 329460,
+      "endMs": 335140,
+      "en": "We were at home. When the flooding started, I rushed out.",
+      "zh": "我们当时在家。洪水开始后，我冲了出去。"
+    },
+    {
+      "id": 56,
+      "startMs": 335620,
+      "endMs": 340660,
+      "en": "I asked my sister-in-law to hurry, but she was busy closing up our shop and got caught in the floods.",
+      "zh": "我让嫂子快一点，但她正忙着关店，结果被洪水困住了。"
+    },
+    {
+      "id": 57,
+      "startMs": 342380,
+      "endMs": 347900,
+      "en": "One of the helicopters has just dropped off Balbir BK, who was stranded while working at a tunnel in Trishuli.",
+      "zh": "一架直升机刚刚送下巴尔比尔·BK，他在特里苏利一条隧道工作时被困。"
+    },
+    {
+      "id": 58,
+      "startMs": 347900,
+      "endMs": 356220,
+      "en": "We didn't know about the flood. We saw a huge cloud of brown dust from inside the tunnel.",
+      "zh": "我们不知道发生了洪水。我们在隧道里看到一大片棕色尘雾。"
+    },
+    {
+      "id": 59,
+      "startMs": 356860,
+      "endMs": 360540,
+      "en": "We felt a gust of cold air. We didn't know what was happening.",
+      "zh": "我们感到一阵冷风。我们不知道发生了什么。"
+    },
+    {
+      "id": 60,
+      "startMs": 361180,
+      "endMs": 370140,
+      "en": "One of the army spokespeople here, Brigadier Rajaram Basnet, explained how difficult it is to rescue people from tunnels here.",
+      "zh": "这里的一名军方发言人拉贾拉姆·巴斯内特准将解释了从当地隧道中救人的困难。"
+    },
+    {
+      "id": 61,
+      "startMs": 370620,
+      "endMs": 374540,
+      "en": "Even the tunnels' entry and exit points are closed, and they're very difficult to locate.",
+      "zh": "即使是隧道，出入口也封闭了，而且很难找到。"
+    },
+    {
+      "id": 62,
+      "startMs": 374700,
+      "endMs": 376060,
+      "en": "I haven't seen this kind of, you know, disaster in my life.",
+      "zh": "我这辈子从没见过这样的灾难。"
+    },
+    {
+      "id": 63,
+      "startMs": 385320,
+      "endMs": 391320,
+      "en": "The warnings have eased now, and emergency officials are letting people leave and get closer to the river.",
+      "zh": "现在警报已经减弱，应急官员允许人们离开并靠近河边。"
+    },
+    {
+      "id": 64,
+      "startMs": 391480,
+      "endMs": 398680,
+      "en": "We're right next to the Trishuli River now, and the helicopters are still flying up above as search and rescue operations continue.",
+      "zh": "我们现在就在特里苏利河边，搜救行动仍在继续，直升机还在上空飞行。"
+    },
+    {
+      "id": 65,
+      "startMs": 398680,
+      "endMs": 401560,
+      "en": "It just goes to show how worried people are.",
+      "zh": "这正说明人们有多么担心。"
+    },
+    {
+      "id": 66,
+      "startMs": 402600,
+      "endMs": 409240,
+      "en": "The number of casualties has continued to rise, and there's an anxious wait for the hundreds who are still missing.",
+      "zh": "伤亡人数持续上升，数百名仍然失踪者的家人正焦急等待。"
+    },
+    {
+      "id": 67,
+      "startMs": 409720,
+      "endMs": 416040,
+      "en": "We've also just heard the Prime Minister Balen Shah and his cabinet have decided to donate a month's wages to the government's relief fund.",
+      "zh": "我们刚刚还获悉，巴伦·沙阿总理及其内阁决定将一个月的工资捐给政府救济基金。"
+    },
+    {
+      "id": 68,
+      "startMs": 416280,
+      "endMs": 423560,
+      "en": "A little over six months in office, and Balen Shah is now responding to the worst disaster Nepal has seen in more than a decade.",
+      "zh": "上任刚刚六个多月的巴伦·沙阿，正在应对尼泊尔十多年来最严重的灾难。"
+    },
+    {
+      "id": 69,
+      "startMs": 424760,
+      "endMs": 426920,
+      "en": "Azadeh Moshiri in Nepal.",
+      "zh": "尼泊尔的阿扎德·莫希里报道。"
+    },
+    {
+      "id": 70,
+      "startMs": 426920,
+      "endMs": 434440,
+      "en": "In Sudan, the military-led government has lifted a two-year curfew and state of emergency in the capital Khartoum.",
+      "zh": "在苏丹，由军方领导的政府解除了首都喀土穆为期两年的宵禁和紧急状态。"
+    },
+    {
+      "id": 71,
+      "startMs": 434840,
+      "endMs": 442120,
+      "en": "It's 18 months since the army seized back control of the city from the paramilitary Rapid Support Forces, or RSF.",
+      "zh": "军队从准军事组织快速支援部队（RSF）手中夺回该市控制权，至今已有18个月。"
+    },
+    {
+      "id": 72,
+      "startMs": 442520,
+      "endMs": 446760,
+      "en": "But the civil war, now in its fourth year, rages on elsewhere.",
+      "zh": "但这场已进入第四年的内战仍在其他地区肆虐。"
+    },
+    {
+      "id": 73,
+      "startMs": 447240,
+      "endMs": 452600,
+      "en": "During the state of emergency, Khalid Mohammed Al-Bageer ran food kitchens for thousands.",
+      "zh": "紧急状态期间，哈立德·穆罕默德·阿勒-巴吉尔为数千人运营供餐厨房。"
+    },
+    {
+      "id": 74,
+      "startMs": 453080,
+      "endMs": 458360,
+      "en": "The BBC's Paul Henley asked him about the lifting of the curfew and what life was like before.",
+      "zh": "BBC记者保罗·亨利询问了他解除宵禁的情况，以及此前的生活。"
+    },
+    {
+      "id": 75,
+      "startMs": 459160,
+      "endMs": 462680,
+      "en": "It was really horrible during those days.",
+      "zh": "那段日子确实非常糟糕。"
+    },
+    {
+      "id": 76,
+      "startMs": 463080,
+      "endMs": 468040,
+      "en": "People, they don't have work, they don't have any resource of income,",
+      "zh": "人们没有工作，也没有任何收入来源，"
+    },
+    {
+      "id": 77,
+      "startMs": 468520,
+      "endMs": 475260,
+      "en": "so they were faced like a lot of problems of hunger, needing medicine, etc.",
+      "zh": "所以他们面临饥饿、需要药品等许多问题。"
+    },
+    {
+      "id": 78,
+      "startMs": 476000,
+      "endMs": 480880,
+      "en": "There are still security checkpoints, there's still an army presence in the capital, isn't there?",
+      "zh": "首都仍有安检站，军队也仍驻扎在那里，对吧？"
+    },
+    {
+      "id": 79,
+      "startMs": 481120,
+      "endMs": 483920,
+      "en": "It's more by the police, not by the army, right.",
+      "zh": "现在主要是警察，不是军队。"
+    },
+    {
+      "id": 80,
+      "startMs": 483920,
+      "endMs": 485600,
+      "en": "So what's changed? What's different?",
+      "zh": "那么，什么变了？有什么不同？"
+    },
+    {
+      "id": 81,
+      "startMs": 486160,
+      "endMs": 488080,
+      "en": "Oh, it's a lot of differences.",
+      "zh": "变化非常大。"
+    },
+    {
+      "id": 82,
+      "startMs": 488720,
+      "endMs": 495600,
+      "en": "Now people feel more safe. They can move freely. The business can work till late night.",
+      "zh": "现在人们感觉更安全了，可以自由行动，商家也能营业到深夜。"
+    },
+    {
+      "id": 83,
+      "startMs": 496320,
+      "endMs": 501040,
+      "en": "There are so many impacts in different ways, like inner impact.",
+      "zh": "影响体现在许多方面，比如内心的感受。"
+    },
+    {
+      "id": 84,
+      "startMs": 501920,
+      "endMs": 508160,
+      "en": "The feeling of being safe. In Khartoum now, people can move, like they can cross the bridge, etc.",
+      "zh": "比如安全感。如今在喀土穆，人们可以自由行动，可以过桥等等。"
+    },
+    {
+      "id": 85,
+      "startMs": 508720,
+      "endMs": 516960,
+      "en": "Even for the business, it's good. Taxi drivers can work, small shops can work, any other businesses can work better.",
+      "zh": "这对商业也有好处：出租车司机可以工作，小商店可以营业，其他生意也能运转得更好。"
+    },
+    {
+      "id": 86,
+      "startMs": 517840,
+      "endMs": 521920,
+      "en": "Do you think all those people who fled the capital will now start to come home?",
+      "zh": "你认为那些逃离首都的人现在会开始回家吗？"
+    },
+    {
+      "id": 87,
+      "startMs": 522720,
+      "endMs": 531200,
+      "en": "Yeah, most of them, except the people who don't have any fund to repair their houses, the destroyed houses.",
+      "zh": "会，大多数人会回来，除了那些没有资金修缮被毁房屋的人。"
+    },
+    {
+      "id": 88,
+      "startMs": 532380,
+      "endMs": 536300,
+      "en": "I think if the government work hard to make life more easier,",
+      "zh": "我认为，如果政府努力让生活变得更容易，"
+    },
+    {
+      "id": 89,
+      "startMs": 536540,
+      "endMs": 543100,
+      "en": "I mean, the basics, electricity, water, etc., more people will come back to the capital.",
+      "zh": "我的意思是，电力、供水等基本生活条件改善后，会有更多人回到首都。"
+    },
+    {
+      "id": 90,
+      "startMs": 544080,
+      "endMs": 550240,
+      "en": "What kind of economic price have you paid during this war? You run hotels in Khartoum, is that right?",
+      "zh": "这场战争让你付出了怎样的经济代价？你在喀土穆经营酒店，对吗？"
+    },
+    {
+      "id": 91,
+      "startMs": 550720,
+      "endMs": 554720,
+      "en": "Yeah, exactly. It was horrible. It was fully destroyed.",
+      "zh": "是的，没错。情况糟透了，酒店被彻底毁掉。"
+    },
+    {
+      "id": 92,
+      "startMs": 555040,
+      "endMs": 560560,
+      "en": "They stole everything, the appliances, the computer system, even the security cams.",
+      "zh": "他们偷走了一切：电器、电脑系统，甚至监控摄像头。"
+    },
+    {
+      "id": 93,
+      "startMs": 561120,
+      "endMs": 565200,
+      "en": "And are the basics for daily life returning? Is the power back on and reliable?",
+      "zh": "日常生活的基本条件恢复了吗？电力恢复并稳定供应了吗？"
+    },
+    {
+      "id": 94,
+      "startMs": 565920,
+      "endMs": 569280,
+      "en": "Yeah, but it's not stable. But it's better than before.",
+      "zh": "恢复了，但还不稳定。不过比以前好。"
+    },
+    {
+      "id": 95,
+      "startMs": 569840,
+      "endMs": 577560,
+      "en": "Now I'm in the office with the AC working and the lights on, and I have water. It's better.",
+      "zh": "我现在在办公室里，空调在运转，灯也亮着，还有水。情况好多了。"
+    },
+    {
+      "id": 96,
+      "startMs": 578040,
+      "endMs": 582200,
+      "en": "Do you think that the military government has a real chance of winning this war?",
+      "zh": "你认为军政府真的有机会赢得这场战争吗？"
+    },
+    {
+      "id": 97,
+      "startMs": 583320,
+      "endMs": 588360,
+      "en": "Only in one case: if the countries that are supporting the RSF stopped.",
+      "zh": "只有一种情况：支持RSF的国家停止支持。"
+    },
+    {
+      "id": 98,
+      "startMs": 589160,
+      "endMs": 592440,
+      "en": "That was Khalid Mohammed Al-Bageer in Khartoum.",
+      "zh": "以上是喀土穆的哈立德·穆罕默德·阿勒-巴吉尔。"
+    },
+    {
+      "id": 99,
+      "startMs": 592440,
+      "endMs": 595720,
+      "en": "People are saying the world around us is changing, and that's very true.",
+      "zh": "人们都说我们周围的世界正在变化，这确实如此。"
+    },
+    {
+      "id": 100,
+      "startMs": 595720,
+      "endMs": 600920,
+      "en": "But I do think that that does not mean that we have to lock ourselves in an agreement with the European Union.",
+      "zh": "但我确实认为，这并不意味着我们必须把自己锁定在与欧盟达成的协议中。"
+    },
+    {
+      "id": 101,
+      "startMs": 601400,
+      "endMs": 607480,
+      "en": "Iceland holds a referendum on whether to restart talks on joining the European Union.",
+      "zh": "冰岛就是否重启加入欧盟的谈判举行公投。"
+    },
+    {
+      "id": 102,
+      "startMs": 616340,
+      "endMs": 618420,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 103,
+      "startMs": 619140,
+      "endMs": 624580,
+      "en": "Milo Yiannopoulos once called himself the most fabulous supervillain on the internet",
+      "zh": "米洛·扬诺普洛斯曾称自己是互联网上最华丽的超级恶棍，"
+    },
+    {
+      "id": 104,
+      "startMs": 624980,
+      "endMs": 629620,
+      "en": "courting controversy with his remarks about Islam, feminists, and race.",
+      "zh": "他的言论涉及伊斯兰教、女权主义者和种族问题，因而不断引发争议。"
+    },
+    {
+      "id": 105,
+      "startMs": 630100,
+      "endMs": 636260,
+      "en": "The British far-right commentator, who lives in the US, was an early supporter of Donald Trump and the MAGA movement.",
+      "zh": "这名居住在美国的英国极右翼评论员，曾是唐纳德·特朗普和MAGA运动的早期支持者。"
+    },
+    {
+      "id": 106,
+      "startMs": 636660,
+      "endMs": 643780,
+      "en": "But the 41-year-old has now found himself on the wrong side of the strict immigration policies he's publicly endorsed.",
+      "zh": "但这名41岁的人如今却站到了自己公开支持的严苛移民政策的对立面。"
+    },
+    {
+      "id": 107,
+      "startMs": 644180,
+      "endMs": 647700,
+      "en": "He's been detained by ICE and is awaiting deportation.",
+      "zh": "他已被美国移民与海关执法局拘留，正等待被驱逐出境。"
+    },
+    {
+      "id": 108,
+      "startMs": 648100,
+      "endMs": 650180,
+      "en": "Our correspondent Shaima Khalil told me more.",
+      "zh": "我们的记者沙伊玛·哈利勒告诉我更多详情。"
+    },
+    {
+      "id": 109,
+      "startMs": 650980,
+      "endMs": 654100,
+      "en": "Milo Yiannopoulos is a self-styled provocateur.",
+      "zh": "米洛·扬诺普洛斯自称是挑衅者。"
+    },
+    {
+      "id": 110,
+      "startMs": 654340,
+      "endMs": 657940,
+      "en": "People may remember him from the first Trump administration.",
+      "zh": "人们或许还记得他在特朗普第一届政府时期的经历。"
+    },
+    {
+      "id": 111,
+      "startMs": 658500,
+      "endMs": 666260,
+      "en": "He rose to prominence really as an editor of Breitbart, a very prominent conservative publication at the time.",
+      "zh": "他当时正是作为《布赖特巴特》的一名编辑崭露头角的；那是很有影响力的保守派出版物。"
+    },
+    {
+      "id": 112,
+      "startMs": 666820,
+      "endMs": 669220,
+      "en": "He was an editor, he was a news editor there,",
+      "zh": "他是那里的一名编辑，担任新闻编辑，"
+    },
+    {
+      "id": 113,
+      "startMs": 669220,
+      "endMs": 676520,
+      "en": "but he was so outspoken against everything: the Black Lives Matter movement, feminism, and transgender people.",
+      "zh": "但他公开强烈反对一切：黑人的命也是命运动、女权主义以及跨性别人群。"
+    },
+    {
+      "id": 114,
+      "startMs": 677000,
+      "endMs": 681800,
+      "en": "And he was an early supporter of Donald Trump during the 2016 election,",
+      "zh": "在2016年大选期间，他还是唐纳德·特朗普的早期支持者，"
+    },
+    {
+      "id": 115,
+      "startMs": 681800,
+      "endMs": 686120,
+      "en": "headlining events called \"Gays for Trump\" during the Republican National Convention.",
+      "zh": "并在共和党全国代表大会期间，为名为“同性恋支持特朗普”的活动担任主讲。"
+    },
+    {
+      "id": 116,
+      "startMs": 687080,
+      "endMs": 691800,
+      "en": "He backed President Trump's tighter immigration restrictions in the United States",
+      "zh": "他支持特朗普总统在美国实施更严格的移民限制，"
+    },
+    {
+      "id": 117,
+      "startMs": 692360,
+      "endMs": 696520,
+      "en": "and then he had a recent fallout with Mr Trump and the Trump administration.",
+      "zh": "但最近他与特朗普先生及其政府发生了冲突。"
+    },
+    {
+      "id": 118,
+      "startMs": 696520,
+      "endMs": 698760,
+      "en": "He said that he'd lost his way.",
+      "zh": "他说自己迷失了方向。"
+    },
+    {
+      "id": 119,
+      "startMs": 699160,
+      "endMs": 706760,
+      "en": "He more recently was working for Kanye West, again a very controversial figure, obviously the rapper in the music industry.",
+      "zh": "最近他还曾为坎耶·韦斯特工作；后者也是极具争议的人物，显然是音乐界的说唱歌手。"
+    },
+    {
+      "id": 120,
+      "startMs": 707400,
+      "endMs": 709800,
+      "en": "But this is where people would remember him.",
+      "zh": "不过，人们会记住他的正是这一点。"
+    },
+    {
+      "id": 121,
+      "startMs": 710040,
+      "endMs": 713240,
+      "en": "Recently, though, we haven't heard much about him or from him.",
+      "zh": "不过最近，我们很少听到关于他的消息，也很少听到他的声音。"
+    },
+    {
+      "id": 122,
+      "startMs": 713560,
+      "endMs": 717160,
+      "en": "So when the news came out today that he was arrested by ICE,",
+      "zh": "所以今天传出他被ICE逮捕的消息时，"
+    },
+    {
+      "id": 123,
+      "startMs": 717240,
+      "endMs": 719400,
+      "en": "I think it took everybody by surprise.",
+      "zh": "我想这让所有人都感到意外。"
+    },
+    {
+      "id": 124,
+      "startMs": 719640,
+      "endMs": 721880,
+      "en": "Do we know yet why he's been detained?",
+      "zh": "我们知道他为何被拘留了吗？"
+    },
+    {
+      "id": 125,
+      "startMs": 722280,
+      "endMs": 726840,
+      "en": "Well, we have a statement from ICE now, from the US Immigration and Customs Enforcement.",
+      "zh": "现在我们有一份ICE，也就是美国移民与海关执法局的声明。"
+    },
+    {
+      "id": 126,
+      "startMs": 727000,
+      "endMs": 729480,
+      "en": "They said that they had arrested",
+      "zh": "声明说，他们逮捕了他，"
+    },
+    {
+      "id": 127,
+      "startMs": 729800,
+      "endMs": 735560,
+      "en": "They described him as an \"illegal alien from the United Kingdom\" in New Orleans International Airport.",
+      "zh": "他们称他是来自英国的“非法外国人”，并在新奥尔良国际机场将其逮捕。"
+    },
+    {
+      "id": 128,
+      "startMs": 736060,
+      "endMs": 739420,
+      "en": "And that he had entered the United States...",
+      "zh": "声明还称他曾进入美国……"
+    },
+    {
+      "id": 129,
+      "startMs": 739420,
+      "endMs": 745660,
+      "en": "legally in 2019, but as the statement put it, he had chosen to overstay his welcome.",
+      "zh": "他于2019年合法入境，但正如声明所说，他选择逾期停留。"
+    },
+    {
+      "id": 130,
+      "startMs": 745980,
+      "endMs": 748860,
+      "en": "ICE says that he had failed to attend an immigration hearing.",
+      "zh": "美国移民与海关执法局称，他未参加移民听证会。"
+    },
+    {
+      "id": 131,
+      "startMs": 748860,
+      "endMs": 754140,
+      "en": "He was issued with a final removal order last month, and then he was arrested today.",
+      "zh": "他上个月收到最终遣返令，随后于今天被捕。"
+    },
+    {
+      "id": 132,
+      "startMs": 754300,
+      "endMs": 759580,
+      "en": "We also know that he will remain in ICE custody pending removal or pending deportation.",
+      "zh": "我们还知道，在被遣返或驱逐出境前，他将继续由美国移民局拘押。"
+    },
+    {
+      "id": 133,
+      "startMs": 759900,
+      "endMs": 763740,
+      "en": "Some might say ironically, Shaima, he was a very big supporter of ICE.",
+      "zh": "沙伊玛，有人或许会讽刺地说，他曾是美国移民局的坚定支持者。"
+    },
+    {
+      "id": 134,
+      "startMs": 764300,
+      "endMs": 770220,
+      "en": "Just looking at his tweets from last year, he says, \"Total legal immunity for ICE agents when they're on duty.\"",
+      "zh": "只看他去年的推文，他就曾说：“美国移民局执勤人员应享有全面法律豁免。”"
+    },
+    {
+      "id": 135,
+      "startMs": 770540,
+      "endMs": 775660,
+      "en": "We've got to deport millions and millions and millions of people. Without that, nothing else matters.",
+      "zh": "我们必须驱逐数百万、数百万、数百万的人。没有做到这一点，其他一切都无关紧要。"
+    },
+    {
+      "id": 136,
+      "startMs": 776300,
+      "endMs": 781420,
+      "en": "Exactly. And for a person who was so outspoken about deporting people,",
+      "zh": "确实如此。对于一个如此公开主张驱逐他人的人，"
+    },
+    {
+      "id": 137,
+      "startMs": 781420,
+      "endMs": 786860,
+      "en": "who was so outspoken in favor of essentially what ICE is doing right now,",
+      "zh": "一个如此公开支持美国移民局如今所做之事的人，"
+    },
+    {
+      "id": 138,
+      "startMs": 787260,
+      "endMs": 795980,
+      "en": "of Donald Trump's policies about immigration, for this particular person to be then detained by ICE is quite ironic.",
+      "zh": "尤其是支持特朗普移民政策的这个人，后来却被美国移民局拘留，实在颇具讽刺意味。"
+    },
+    {
+      "id": 139,
+      "startMs": 795920,
+      "endMs": 804080,
+      "en": "Indeed, is painfully ironic to be himself called an illegal alien and to be eventually deported by ICE. Shaima Khalil.",
+      "zh": "的确，这非常讽刺：他本人被称为“非法外国人”，最终还将被美国移民局驱逐出境。"
+    },
+    {
+      "id": 140,
+      "startMs": 804080,
+      "endMs": 810240,
+      "en": "Experts say Denmark's campaign of forced contraception on women and girls in Greenland",
+      "zh": "专家称，丹麦对格陵兰妇女和女孩实施的强制避孕，"
+    },
+    {
+      "id": 141,
+      "startMs": 810240,
+      "endMs": 817840,
+      "en": "in the 1960s and seventies violated human rights, but did not meet the legal definition of genocide.",
+      "zh": "发生在20世纪60至70年代，侵犯了人权，但不符合法律上对种族灭绝的定义。"
+    },
+    {
+      "id": 142,
+      "startMs": 818240,
+      "endMs": 824160,
+      "en": "Two long-awaited reports were released on Friday and both found that the women's rights were breached.",
+      "zh": "两份期待已久的报告于周五发布，均认定女性权利受到侵犯。"
+    },
+    {
+      "id": 143,
+      "startMs": 824560,
+      "endMs": 832080,
+      "en": "More than 4,000 Inuit women and girls, who were the main ethnic group in Greenland, were given IUDs or coils,",
+      "zh": "超过4000名因纽特妇女和女孩——她们是格陵兰的主要族群——被放置了宫内节育器，"
+    },
+    {
+      "id": 144,
+      "startMs": 832240,
+      "endMs": 839760,
+      "en": "often without their consent. Many say they suffered pain and trauma, and some were left sterile, like this woman, Inga Platu.",
+      "zh": "而且往往未经同意。许多人说她们遭受了疼痛和创伤，有些人因此不孕，例如这位名叫英加·普拉图的女子。"
+    },
+    {
+      "id": 145,
+      "startMs": 840000,
+      "endMs": 843280,
+      "en": "Jeg fik ikke noget at vide om at jeg skulle have spiral op.",
+      "zh": "我没有被告知要给我放置宫内节育器。"
+    },
+    {
+      "id": 146,
+      "startMs": 843680,
+      "endMs": 847600,
+      "en": "I wasn't told anything about me having an IUD inserted.",
+      "zh": "我没有被告知要给我放置宫内节育器。"
+    },
+    {
+      "id": 147,
+      "startMs": 848240,
+      "endMs": 851680,
+      "en": "I was in hospital for a minor operation in my pelvic area.",
+      "zh": "我当时因盆腔部位的小手术住院。"
+    },
+    {
+      "id": 148,
+      "startMs": 852160,
+      "endMs": 858500,
+      "en": "When I came round, an IUD had been fitted without me being asked first. I was 20 years old.",
+      "zh": "我醒来时，宫内节育器已经被放入体内，事先没人征求我的同意。我当时20岁。"
+    },
+    {
+      "id": 149,
+      "startMs": 858500,
+      "endMs": 862660,
+      "en": "I'd imagined my future with more children, but I wasn't able to.",
+      "zh": "我曾设想未来再要几个孩子，但我没能如愿。"
+    },
+    {
+      "id": 150,
+      "startMs": 863060,
+      "endMs": 866660,
+      "en": "I envied my friends who were having children and starting families.",
+      "zh": "我羡慕那些正在生儿育女、组建家庭的朋友。"
+    },
+    {
+      "id": 151,
+      "startMs": 867520,
+      "endMs": 868800,
+      "en": "We decided to adopt.",
+      "zh": "我们决定收养孩子。"
+    },
+    {
+      "id": 152,
+      "startMs": 869680,
+      "endMs": 874240,
+      "en": "The practice was so widespread that Greenland's population growth severely slowed.",
+      "zh": "这种做法如此普遍，以至于格陵兰的人口增长大幅放缓。"
+    },
+    {
+      "id": 153,
+      "startMs": 874640,
+      "endMs": 881680,
+      "en": "Greenland is a self-governing territory of Denmark, which will pay around $47,000 to each affected woman.",
+      "zh": "格陵兰是丹麦的自治领土，丹麦将向每名受影响的女性支付约4.7万美元。"
+    },
+    {
+      "id": 154,
+      "startMs": 882240,
+      "endMs": 885040,
+      "en": "I got more from our Denmark correspondent, Adrienne Murray.",
+      "zh": "丹麦记者阿德里安·默里带来了更多消息。"
+    },
+    {
+      "id": 155,
+      "startMs": 885840,
+      "endMs": 890240,
+      "en": "Two separate reports have been published by Greenland's government.",
+      "zh": "格陵兰政府发布了两份独立报告。"
+    },
+    {
+      "id": 156,
+      "startMs": 890320,
+      "endMs": 898640,
+      "en": "Now, initially, they commissioned one panel to investigate or examine what the legal aspects of this case were.",
+      "zh": "最初，他们委托一个小组调查或审视此案涉及的法律问题。"
+    },
+    {
+      "id": 157,
+      "startMs": 898720,
+      "endMs": 904640,
+      "en": "So that's whether human rights violations had occurred and also, crucially, whether this would constitute genocide.",
+      "zh": "也就是调查是否发生侵犯人权的行为，以及更关键的，这是否构成种族灭绝。"
+    },
+    {
+      "id": 158,
+      "startMs": 904720,
+      "endMs": 907040,
+      "en": "Now, this happened about a year and a half ago.",
+      "zh": "这件事发生在大约一年半以前。"
+    },
+    {
+      "id": 159,
+      "startMs": 907680,
+      "endMs": 913600,
+      "en": "The experts behind that panel, they had a disagreement, and they split into two groups.",
+      "zh": "该小组的专家之间产生了分歧，于是分成了两组。"
+    },
+    {
+      "id": 160,
+      "startMs": 913760,
+      "endMs": 918560,
+      "en": "There are now two reports, authored by two different groups.",
+      "zh": "结果是，现在发布了两份报告，分别由两组不同的专家撰写。"
+    },
+    {
+      "id": 161,
+      "startMs": 918720,
+      "endMs": 922400,
+      "en": "Now, in terms of the findings that the government presented,",
+      "zh": "就政府公布的调查结果而言，"
+    },
+    {
+      "id": 162,
+      "startMs": 922800,
+      "endMs": 928580,
+      "en": "both of these reports concluded that there were cases of forced contraception,",
+      "zh": "两份报告都认定存在强制避孕案例，"
+    },
+    {
+      "id": 163,
+      "startMs": 928740,
+      "endMs": 933140,
+      "en": "and that there were violations of the women's human rights,",
+      "zh": "并认定女性的人权受到侵犯，"
+    },
+    {
+      "id": 164,
+      "startMs": 933300,
+      "endMs": 938160,
+      "en": "but neither established that genocide had occurred.",
+      "zh": "但两份报告都未认定发生了种族灭绝。"
+    },
+    {
+      "id": 165,
+      "startMs": 938800,
+      "endMs": 945040,
+      "en": "The first group, the Danish experts, they said there was no empirical evidence to suggest genocide at all,",
+      "zh": "第一组丹麦专家称，完全没有实证证据表明发生了种族灭绝，"
+    },
+    {
+      "id": 166,
+      "startMs": 945360,
+      "endMs": 947520,
+      "en": "and they concluded there was no intention proven.",
+      "zh": "并认定没有证据证明存在这种意图。"
+    },
+    {
+      "id": 167,
+      "startMs": 947920,
+      "endMs": 953440,
+      "en": "The second report by two international experts, however, was a bit more nuanced.",
+      "zh": "不过，第二份由两名国际专家撰写的报告更加细致。"
+    },
+    {
+      "id": 168,
+      "startMs": 953840,
+      "endMs": 957840,
+      "en": "They did not establish genocide, but this report, however, said",
+      "zh": "他们没有认定构成种族灭绝，但这份报告说，"
+    },
+    {
+      "id": 169,
+      "startMs": 957840,
+      "endMs": 963840,
+      "en": "there were reasonable grounds to believe that involuntary contraception was actually systematic,",
+      "zh": "有合理理由相信，非自愿避孕实际上是系统性的，"
+    },
+    {
+      "id": 170,
+      "startMs": 963920,
+      "endMs": 970720,
+      "en": "that it was discriminatory, and that, in their view, however, on this genocide issue, only a court can decide.",
+      "zh": "并且具有歧视性，但他们认为，关于种族灭绝这一问题，只有法院才能作出裁决。"
+    },
+    {
+      "id": 171,
+      "startMs": 971280,
+      "endMs": 975440,
+      "en": "So they stopped short in that capacity, in terms of their conclusions.",
+      "zh": "因此，就结论而言，他们在这一点上没有下定论。"
+    },
+    {
+      "id": 172,
+      "startMs": 975920,
+      "endMs": 977360,
+      "en": "That was Adrienne Murray.",
+      "zh": "以上是阿德里安·默里。"
+    },
+    {
+      "id": 173,
+      "startMs": 977920,
+      "endMs": 982640,
+      "en": "A decade after Iceland broke off negotiations to join the European Union,",
+      "zh": "冰岛中止加入欧盟谈判十年后，"
+    },
+    {
+      "id": 174,
+      "startMs": 982960,
+      "endMs": 988080,
+      "en": "voters are deciding whether or not to start talking about applying for membership in the future.",
+      "zh": "选民正在决定未来是否重新启动入盟申请谈判。"
+    },
+    {
+      "id": 175,
+      "startMs": 988640,
+      "endMs": 991760,
+      "en": "Early polling shows the result could be very close.",
+      "zh": "早期民调显示，结果可能会非常接近。"
+    },
+    {
+      "id": 176,
+      "startMs": 992000,
+      "endMs": 1000900,
+      "en": "Here's the top headline on the national broadcaster. They're saying that big queues were reported in the capital, Reykjavík,",
+      "zh": "下面是国家广播公司的头条报道。据报道，首都雷克雅未克出现了长长的队伍，"
+    },
+    {
+      "id": 177,
+      "startMs": 1005300,
+      "endMs": 1008260,
+      "en": "on Friday as people lined up for early voting.",
+      "zh": "周五人们排队进行提前投票。"
+    },
+    {
+      "id": 178,
+      "startMs": 1008260,
+      "endMs": 1016980,
+      "en": "Now, Iceland is already part of the European Economic Area, and residents have the right to travel and work throughout the European Union.",
+      "zh": "冰岛已经是欧洲经济区的一员，居民有权在整个欧盟境内旅行和工作。"
+    },
+    {
+      "id": 179,
+      "startMs": 1017540,
+      "endMs": 1025540,
+      "en": "But Donald Trump's threats over Greenland, its vast neighbour to the northwest, have left some in Iceland wondering whether they should join the EU.",
+      "zh": "但特朗普对格陵兰的威胁——这个位于冰岛西北方的广大邻地——让一些冰岛人开始思考是否应加入欧盟。"
+    },
+    {
+      "id": 180,
+      "startMs": 1026100,
+      "endMs": 1029380,
+      "en": "The BBC's Shaun Ley brought together two young voters.",
+      "zh": "BBC记者肖恩·莱邀请了两名年轻选民。"
+    },
+    {
+      "id": 181,
+      "startMs": 1030020,
+      "endMs": 1038820,
+      "en": "In a moment, we'll hear from Magnea Jóhannesdóttir, a deputy member of Reykjavík City Council, who plans to vote no.",
+      "zh": "稍后我们将听到雷克雅未克市议会副议员玛格妮娅·约翰内斯多蒂尔的看法，她计划投反对票。"
+    },
+    {
+      "id": 182,
+      "startMs": 1039140,
+      "endMs": 1048340,
+      "en": "But first, here's Thórnhildur Davíðsdóttir Sævarck, vice chair of the pro-European Icelandic Youth, who plans to vote yes.",
+      "zh": "但首先请听亲欧的冰岛青年组织副主席索恩希尔杜尔·达维兹多蒂尔·赛瓦克，她计划投赞成票。"
+    },
+    {
+      "id": 183,
+      "startMs": 1048900,
+      "endMs": 1053700,
+      "en": "I think it's just the changed reality, the changed geopolitical circumstances.",
+      "zh": "我认为，这只是现实和地缘政治形势发生了变化。"
+    },
+    {
+      "id": 184,
+      "startMs": 1053780,
+      "endMs": 1055880,
+      "en": "I think. We belong most with Europe.",
+      "zh": "我认为，我们最应与欧洲站在一起。"
+    },
+    {
+      "id": 185,
+      "startMs": 1055880,
+      "endMs": 1059000,
+      "en": "I think we share a lot of values of democracy and human rights.",
+      "zh": "我认为，我们在民主和人权方面有许多共同价值。"
+    },
+    {
+      "id": 186,
+      "startMs": 1059240,
+      "endMs": 1062680,
+      "en": "The US has been a historically very strong ally for Iceland,",
+      "zh": "美国历来都是冰岛非常强大的盟友，"
+    },
+    {
+      "id": 187,
+      "startMs": 1062840,
+      "endMs": 1068040,
+      "en": "but, like now, with a new leadership, they're becoming more unreliable, untrustworthy.",
+      "zh": "但如今随着新领导层上台，美国正变得更加不可靠、不值得信任。"
+    },
+    {
+      "id": 188,
+      "startMs": 1068040,
+      "endMs": 1070040,
+      "en": "You can't really know what they're going to do next.",
+      "zh": "你实在无法知道他们下一步会做什么。"
+    },
+    {
+      "id": 189,
+      "startMs": 1070520,
+      "endMs": 1072520,
+      "en": "Magnea, does that worry you?",
+      "zh": "玛格妮娅，这让你担心吗？"
+    },
+    {
+      "id": 190,
+      "startMs": 1072520,
+      "endMs": 1077080,
+      "en": "What's happening around Iceland at the moment? People are saying the world around us is",
+      "zh": "此刻冰岛周围发生了什么？有人说，我们周围的世界正在"
+    },
+    {
+      "id": 191,
+      "startMs": 1077240,
+      "endMs": 1078520,
+      "en": "changing, and that's very true.",
+      "zh": "世界正在变化，这一点确实如此。"
+    },
+    {
+      "id": 192,
+      "startMs": 1078520,
+      "endMs": 1084360,
+      "en": "But I do think that that does not mean that we have to lock ourselves in a trade agreement with the European Union.",
+      "zh": "但我认为，这并不意味着我们必须把自己锁定在与欧盟的贸易协定中。"
+    },
+    {
+      "id": 193,
+      "startMs": 1084920,
+      "endMs": 1090120,
+      "en": "We do have trade agreements, e.g., with China, that might be put at risk if we join the European Union.",
+      "zh": "我们确实有贸易协定，例如与中国的协定；如果加入欧盟，这些协定可能会受到影响。"
+    },
+    {
+      "id": 194,
+      "startMs": 1090280,
+      "endMs": 1094280,
+      "en": "When it comes to protection, we are a founding member of NATO.",
+      "zh": "在安全保障方面，我们是北约创始成员。"
+    },
+    {
+      "id": 195,
+      "startMs": 1094680,
+      "endMs": 1100280,
+      "en": "We have a bilateral protection agreement with the United States of America, and we are a part of the European Economic Area.",
+      "zh": "我们与美国有双边安全保障协议，也是欧洲经济区的一部分。"
+    },
+    {
+      "id": 196,
+      "startMs": 1100360,
+      "endMs": 1102440,
+      "en": "So we do have strong ties with Europe.",
+      "zh": "所以，我们与欧洲确实联系紧密。"
+    },
+    {
+      "id": 197,
+      "startMs": 1102520,
+      "endMs": 1104040,
+      "en": "We are part of their single market.",
+      "zh": "我们是欧洲单一市场的一部分。"
+    },
+    {
+      "id": 198,
+      "startMs": 1104520,
+      "endMs": 1106680,
+      "en": "We can go and work and study everywhere else.",
+      "zh": "我们可以去欧洲其他地方工作和学习。"
+    },
+    {
+      "id": 199,
+      "startMs": 1107240,
+      "endMs": 1108840,
+      "en": "So Hilda, that's a good point, isn't it?",
+      "zh": "希尔达，你说得有道理，对吧？"
+    },
+    {
+      "id": 200,
+      "startMs": 1108840,
+      "endMs": 1113960,
+      "en": "I mean, it's hard to see what the advantage would be of joining the EU, certainly on an economic ground.",
+      "zh": "我的意思是，加入欧盟有什么优势很难看出来，尤其从经济角度而言。"
+    },
+    {
+      "id": 201,
+      "startMs": 1114220,
+      "endMs": 1123020,
+      "en": "We don't have any say; we don't have a seat at the table in EU institutions, and now we're kind of in the EEA Agreement, sheltered by Norway.",
+      "zh": "我们没有发言权，也无法在欧盟机构中占有一席之地；现在我们算是受挪威庇护、处于欧洲经济区协定之内。"
+    },
+    {
+      "id": 202,
+      "startMs": 1123260,
+      "endMs": 1129980,
+      "en": "But I think if Norway were to join, Iceland's negotiating power would decline significantly.",
+      "zh": "但我认为，如果挪威加入，冰岛的谈判能力将大幅下降。"
+    },
+    {
+      "id": 203,
+      "startMs": 1130060,
+      "endMs": 1137420,
+      "en": "Which I think is one of the biggest reasons for joining the European Union for Iceland would be to adopt the euro.",
+      "zh": "我认为，这正是冰岛加入欧盟的最大原因之一：采用欧元。"
+    },
+    {
+      "id": 204,
+      "startMs": 1137420,
+      "endMs": 1143820,
+      "en": "So now in Iceland, we have the Icelandic krona, which is the smallest independent floating currency in the world.",
+      "zh": "如今，冰岛使用冰岛克朗，这是世界上规模最小的独立浮动货币。"
+    },
+    {
+      "id": 205,
+      "startMs": 1144220,
+      "endMs": 1147020,
+      "en": "We have sky-high interest rates.",
+      "zh": "我们的利率高得惊人。"
+    },
+    {
+      "id": 206,
+      "startMs": 1147260,
+      "endMs": 1152860,
+      "en": "We're still not in the customs union, so we're still paying tariffs both ways.",
+      "zh": "我们仍未加入关税同盟，所以进出口双方仍要缴纳关税。"
+    },
+    {
+      "id": 207,
+      "startMs": 1153100,
+      "endMs": 1158540,
+      "en": "That increases the grocery prices and just makes the cost of living in Iceland significantly harder.",
+      "zh": "这推高了食品杂货价格，也让冰岛的生活成本大幅上升。"
+    },
+    {
+      "id": 208,
+      "startMs": 1158780,
+      "endMs": 1163420,
+      "en": "Magna, I am not a big fan of internationally outsourcing power and authority.",
+      "zh": "玛格妮娅，我不太赞成把权力和决策权交由国际机构。"
+    },
+    {
+      "id": 209,
+      "startMs": 1163820,
+      "endMs": 1167500,
+      "en": "Joining the EU would mean that we would have to change our constitution.",
+      "zh": "加入欧盟意味着我们必须修改宪法。"
+    },
+    {
+      "id": 210,
+      "startMs": 1167900,
+      "endMs": 1169740,
+      "en": "Our seat at the table is very small.",
+      "zh": "我们在谈判桌上的席位很少。"
+    },
+    {
+      "id": 211,
+      "startMs": 1169820,
+      "endMs": 1173340,
+      "en": "We are a small nation of only 400,000 people.",
+      "zh": "我们是一个只有40万人口的小国。"
+    },
+    {
+      "id": 212,
+      "startMs": 1173340,
+      "endMs": 1179200,
+      "en": "That means that we only get six seats at the European Parliament, which is under 1% of the votes.",
+      "zh": "这意味着我们在欧洲议会只有6个席位，占总票数不到1%。"
+    },
+    {
+      "id": 213,
+      "startMs": 1179600,
+      "endMs": 1186320,
+      "en": "And I do fear that we would just drown in that regulation in there because we don't have the power right now.",
+      "zh": "我确实担心，我们会淹没在那些法规中，因为我们现在没有这样的权力。"
+    },
+    {
+      "id": 214,
+      "startMs": 1186320,
+      "endMs": 1193360,
+      "en": "We're part of the European Economic Area, we can say no to things in there, and in the end, it's our parliament that implements the law.",
+      "zh": "我们属于欧洲经济区，可以拒绝其中的一些事项，最终由我们的议会实施法律。"
+    },
+    {
+      "id": 215,
+      "startMs": 1193520,
+      "endMs": 1194880,
+      "en": "It's not the European Union.",
+      "zh": "实施法律的不是欧盟。"
+    },
+    {
+      "id": 216,
+      "startMs": 1195040,
+      "endMs": 1203680,
+      "en": "Having an independent currency is a good thing, and the krona has been a shock absorber when Iceland experiences economic crisis or shocks.",
+      "zh": "拥有独立货币是好事；冰岛遭遇经济危机或冲击时，克朗一直发挥着缓冲作用。"
+    },
+    {
+      "id": 217,
+      "startMs": 1204000,
+      "endMs": 1213120,
+      "en": "When it comes to young people and voting, the polls now in Iceland are showing that 60% of young people from 18 to 29 are actually going to vote no.",
+      "zh": "说到年轻人和投票，冰岛目前的民调显示，18至29岁的年轻人中有60%确实打算投反对票。"
+    },
+    {
+      "id": 218,
+      "startMs": 1213280,
+      "endMs": 1214880,
+      "en": "They don't want to join the European Union.",
+      "zh": "他们不想加入欧盟。"
+    },
+    {
+      "id": 219,
+      "startMs": 1215900,
+      "endMs": 1222940,
+      "en": "Next, more than 200 wild elephants died in Sri Lanka in the first eight months of this year.",
+      "zh": "接下来，今年前八个月，斯里兰卡有超过200头野生大象死亡。"
+    },
+    {
+      "id": 220,
+      "startMs": 1223500,
+      "endMs": 1228460,
+      "en": "The Wildlife Conservation Department says nearly 90 of them were killed by farmers.",
+      "zh": "野生动物保护部门称，其中近90头是被农民杀死的。"
+    },
+    {
+      "id": 221,
+      "startMs": 1228940,
+      "endMs": 1233100,
+      "en": "Our global affairs correspondent Anbarasan Ethirajan has more details.",
+      "zh": "本台全球事务记者阿纳巴拉桑·埃蒂拉詹带来更多详情。"
+    },
+    {
+      "id": 222,
+      "startMs": 1233820,
+      "endMs": 1236220,
+      "en": "Elephants are considered sacred in Sri Lanka.",
+      "zh": "在斯里兰卡，大象被视为神圣动物。"
+    },
+    {
+      "id": 223,
+      "startMs": 1236460,
+      "endMs": 1246620,
+      "en": "Nevertheless, since 2021, the average number of deaths each year has reached 400, triggering concerns over their long-term future in the island nation.",
+      "zh": "然而，自2021年以来，大象年均死亡数已达400头，引发人们对其在这个岛国长期生存前景的担忧。"
+    },
+    {
+      "id": 224,
+      "startMs": 1247100,
+      "endMs": 1251980,
+      "en": "The increasing encounters between humans and wild elephants are proving deadly.",
+      "zh": "人与野生大象日益频繁的相遇正造成致命后果。"
+    },
+    {
+      "id": 225,
+      "startMs": 1252380,
+      "endMs": 1257740,
+      "en": "Many of the elephants were shot or came into contact with illegal electric fences.",
+      "zh": "许多大象遭到枪击，或接触了非法电网。"
+    },
+    {
+      "id": 226,
+      "startMs": 1258060,
+      "endMs": 1266300,
+      "en": "Twenty-six that died this year had consumed jaw bombs, explosives hidden in food that detonate inside the animal's mouth.",
+      "zh": "今年死亡的大象中有26头吃下了“颚炸弹”，这种炸药藏在食物中，会在动物口中爆炸。"
+    },
+    {
+      "id": 227,
+      "startMs": 1266940,
+      "endMs": 1274540,
+      "en": "Killing elephants, which are endangered, is illegal in Sri Lanka and can carry the death penalty, but this is rarely enforced.",
+      "zh": "大象属于濒危动物，在斯里兰卡杀害大象属违法行为，可判死刑，但这一规定很少执行。"
+    },
+    {
+      "id": 228,
+      "startMs": 1274940,
+      "endMs": 1278560,
+      "en": "Scores of people also get killed by elephants every year.",
+      "zh": "每年也有许多人被大象杀死。"
+    },
+    {
+      "id": 229,
+      "startMs": 1278960,
+      "endMs": 1286640,
+      "en": "An estimated 5,800 elephants roam across Sri Lanka's protected habitats, wetlands, and highlands.",
+      "zh": "估计有5800头大象栖息在斯里兰卡的保护区、湿地和高地。"
+    },
+    {
+      "id": 230,
+      "startMs": 1287040,
+      "endMs": 1291600,
+      "en": "But experts warn that if elephant deaths continue to rise at the current rate,",
+      "zh": "但专家警告，如果大象死亡继续按当前速度上升，"
+    },
+    {
+      "id": 231,
+      "startMs": 1291920,
+      "endMs": 1297280,
+      "en": "up to 70% of the island's elephant population would be gone in the coming years.",
+      "zh": "未来几年，岛上多达70%的大象将会消失。"
+    },
+    {
+      "id": 232,
+      "startMs": 1297840,
+      "endMs": 1299120,
+      "en": "I am Anbarasan Ethirajan.",
+      "zh": "我是阿纳巴拉桑·埃蒂拉詹。"
+    },
+    {
+      "id": 233,
+      "startMs": 1299840,
+      "endMs": 1307840,
+      "en": "Finally, millions of people in France have flocked to see a film about the French Second World War leader Charles de Gaulle over the summer.",
+      "zh": "最后，今夏数百万法国人涌去观看一部关于二战时期法国领导人夏尔·戴高乐的电影。"
+    },
+    {
+      "id": 234,
+      "startMs": 1308320,
+      "endMs": 1312720,
+      "en": "Now, De Gaulle: Résistance is about to open in the UK and Ireland.",
+      "zh": "《戴高乐：抵抗》即将在英国和爱尔兰上映。"
+    },
+    {
+      "id": 235,
+      "startMs": 1314660,
+      "endMs": 1316980,
+      "en": "You chose our side, the side of freedom.",
+      "zh": "你选择了我们这一边，自由的一边。"
+    },
+    {
+      "id": 236,
+      "startMs": 1318780,
+      "endMs": 1322140,
+      "en": "You see a child attacked by savages, you'd step in.",
+      "zh": "如果你看到一个孩子遭野蛮人袭击，你会出手相助。"
+    },
+    {
+      "id": 237,
+      "startMs": 1322620,
+      "endMs": 1324700,
+      "en": "La France n'est pas un enfant, monsieur le président.",
+      "zh": "法国不是一个孩子，总统先生。"
+    },
+    {
+      "id": 238,
+      "startMs": 1324700,
+      "endMs": 1326220,
+      "en": "Elle a toujours continué à se battre.",
+      "zh": "她始终在战斗。"
+    },
+    {
+      "id": 239,
+      "startMs": 1330060,
+      "endMs": 1335820,
+      "en": "The film is about France's darkest hour, when German forces occupied the country.",
+      "zh": "这部电影讲述法国最黑暗的时刻：德国军队占领了这个国家。"
+    },
+    {
+      "id": 240,
+      "startMs": 1336060,
+      "endMs": 1343420,
+      "en": "De Gaulle, then a little-known figure, had escaped to London, and it was from the BBC studios here in Broadcasting House",
+      "zh": "当时还默默无闻的戴高乐逃到了伦敦；正是在这里的广播大厦BBC演播室，"
+    },
+    {
+      "id": 241,
+      "startMs": 1343420,
+      "endMs": 1348540,
+      "en": "on the 18th of June 1940 that he called on the French to resist the Nazis.",
+      "zh": "1940年6月18日，他在此呼吁法国人抵抗纳粹。"
+    },
+    {
+      "id": 242,
+      "startMs": 1348700,
+      "endMs": 1352940,
+      "en": "No recording was made, but here's a speech from a few days later.",
+      "zh": "当时没有录音，但这是几天后的一段演讲。"
+    },
+    {
+      "id": 243,
+      "startMs": 1357060,
+      "endMs": 1361860,
+      "en": "L'intérêt supérieur de la patrie commande à tous les.",
+      "zh": "祖国至高无上的利益要求所有……"
+    },
+    {
+      "id": 244,
+      "startMs": 1362004,
+      "endMs": 1366500,
+      "en": "He was saying, \"Honor, common sense, and the interests of the country",
+      "zh": "他的意思是：“荣誉、常识以及国家的利益，"
+    },
+    {
+      "id": 245,
+      "startMs": 1366580,
+      "endMs": 1372660,
+      "en": "require that all free Frenchmen, wherever they be, should continue the fight as best they may.\"",
+      "zh": "要求所有自由的法国人，无论身在何处，都应尽其所能继续战斗。”"
+    },
+    {
+      "id": 246,
+      "startMs": 1373300,
+      "endMs": 1377300,
+      "en": "The film was inspired by a book by the British historian Julian Jackson,",
+      "zh": "这部电影的灵感来自英国历史学家朱利安·杰克逊的一本书，"
+    },
+    {
+      "id": 247,
+      "startMs": 1377300,
+      "endMs": 1385780,
+      "en": "who's been speaking to my colleague Evan Davis about the French general's tumultuous relationship with his host, the British wartime leader Winston Churchill.",
+      "zh": "他一直在和我的同事埃文·戴维斯谈论这位法国将军与东道主、英国战时领导人温斯顿·丘吉尔之间波折的关系。"
+    },
+    {
+      "id": 248,
+      "startMs": 1386500,
+      "endMs": 1388020,
+      "en": "Complicated is an underestimate.",
+      "zh": "说它复杂都算轻描淡写。"
+    },
+    {
+      "id": 249,
+      "startMs": 1388900,
+      "endMs": 1392740,
+      "en": "It is a fantastically difficult relationship to understand. A lot",
+      "zh": "这段关系复杂得令人难以理解。很多人"
+    },
+    {
+      "id": 250,
+      "startMs": 1392740,
+      "endMs": 1395220,
+      "en": "of people think, \"Oh, the two men hated each other.\"",
+      "zh": "很多人认为：“哦，这两个人彼此憎恨。”"
+    },
+    {
+      "id": 251,
+      "startMs": 1395700,
+      "endMs": 1402900,
+      "en": "They spent most of the war quarreling. There's a wonderful, wonderful scene in the film which absolutely happened in reality, where they're shouting at each other.",
+      "zh": "战争期间的大部分时间，他们都在争吵。电影中有一幕非常精彩的场景，而且确实发生过：他们正在互相大喊。"
+    },
+    {
+      "id": 252,
+      "startMs": 1402900,
+      "endMs": 1407380,
+      "en": "De Gaulle smashes a chair, leaves the room, and as he's leaving the room,",
+      "zh": "戴高乐砸了一把椅子，离开房间；就在他离开时，"
+    },
+    {
+      "id": 253,
+      "startMs": 1407860,
+      "endMs": 1415220,
+      "en": "Clementine Churchill is coming in, and De Gaulle, who's always very polite to women, says, \"So, I'm delighted to meet you, Madam.\"",
+      "zh": "克莱门泰因·丘吉尔走了进来。戴高乐一向对女性很有礼貌，便说：“夫人，很高兴见到您。”"
+    },
+    {
+      "id": 254,
+      "startMs": 1415220,
+      "endMs": 1418120,
+      "en": "And she goes in to see her husband and says, \"What a charming man!\"",
+      "zh": "她进去见丈夫，说：“多么迷人的人啊！”"
+    },
+    {
+      "id": 255,
+      "startMs": 1418360,
+      "endMs": 1422040,
+      "en": "So there is an element with De Gaulle of play-acting in his tantrums.",
+      "zh": "所以，戴高乐发脾气时，确实有表演的一面。"
+    },
+    {
+      "id": 256,
+      "startMs": 1422280,
+      "endMs": 1426760,
+      "en": "But why the anger? I think because once De Gaulle was in London,",
+      "zh": "但他为什么愤怒呢？我认为，这是因为戴高乐到了伦敦，"
+    },
+    {
+      "id": 257,
+      "startMs": 1426760,
+      "endMs": 1433800,
+      "en": "and once he'd established himself, he really needed to show that he wasn't a puppet of the British.",
+      "zh": "并站稳脚跟后，非常需要证明自己不是英国人的傀儡。"
+    },
+    {
+      "id": 258,
+      "startMs": 1434360,
+      "endMs": 1438760,
+      "en": "And so he behaved often abysmally to Churchill.",
+      "zh": "所以他常常对丘吉尔表现得极其恶劣。"
+    },
+    {
+      "id": 259,
+      "startMs": 1438840,
+      "endMs": 1444840,
+      "en": "He bit the hand that fed him. And why did he bite the hand that fed him? Because he wanted to show that France had teeth.",
+      "zh": "他反咬了养活自己的那只手。那他为什么要这样做？因为他想证明法国是有锋芒的。"
+    },
+    {
+      "id": 260,
+      "startMs": 1445160,
+      "endMs": 1448840,
+      "en": "And Churchill, he saw in De Gaulle someone a bit like a romantic,",
+      "zh": "丘吉尔认为戴高乐有些像一个浪漫主义者，"
+    },
+    {
+      "id": 261,
+      "startMs": 1449480,
+      "endMs": 1457400,
+      "en": "but he was under pressure from somebody who hated De Gaulle, although he hardly knew him, which was Roosevelt in the United States.",
+      "zh": "但他还受到一个痛恨戴高乐之人的压力——那就是美国的罗斯福，尽管罗斯福几乎不了解戴高乐。"
+    },
+    {
+      "id": 262,
+      "startMs": 1457720,
+      "endMs": 1461400,
+      "en": "Talk to me about why this film might be enjoyed now.",
+      "zh": "请谈谈为什么如今观众可能会喜欢这部电影。"
+    },
+    {
+      "id": 263,
+      "startMs": 1462360,
+      "endMs": 1468200,
+      "en": "What is surprising about the film, and you can't predict whether a film will be successful or not, is the amazing success",
+      "zh": "这部电影令人惊讶之处在于，电影是否成功无法预料，但它取得了惊人的成功，"
+    },
+    {
+      "id": 264,
+      "startMs": 1468440,
+      "endMs": 1470120,
+      "en": "it has seemed to have had in France.",
+      "zh": "至少从目前看来，它在法国大获成功。"
+    },
+    {
+      "id": 265,
+      "startMs": 1470940,
+      "endMs": 1472700,
+      "en": "It's given two things.",
+      "zh": "它带来了两方面的意义。"
+    },
+    {
+      "id": 266,
+      "startMs": 1472700,
+      "endMs": 1480700,
+      "en": "One, there's a lot of writing about how badly the French behaved in the war, about collaboration, all things that happened, all things that are true.",
+      "zh": "一方面，许多文章都在讲法国人在战争中的糟糕表现、通敌，以及那些确实发生过的事情。"
+    },
+    {
+      "id": 267,
+      "startMs": 1481340,
+      "endMs": 1488140,
+      "en": "And I think this is a film that gives the French a sense that they can actually be proud of their country, that there is another story to tell.",
+      "zh": "我认为，这部电影让法国人感到，他们其实可以为自己的国家感到骄傲，因为历史还有另一个故事可以讲述。"
+    },
+    {
+      "id": 268,
+      "startMs": 1488460,
+      "endMs": 1491900,
+      "en": "And I've been very struck by quite young people that I know who write to me.",
+      "zh": "让我印象很深的是，我认识的一些相当年轻的人写信给我。"
+    },
+    {
+      "id": 269,
+      "startMs": 1491980,
+      "endMs": 1496940,
+      "en": "A young man in his late 20s, he wrote and said, \"I went to see the film and I came out and I was crying.\"",
+      "zh": "一名二十多岁快到三十岁的年轻人写信说：“我去看了这部电影，出来时哭了。”"
+    },
+    {
+      "id": 270,
+      "startMs": 1497260,
+      "endMs": 1501500,
+      "en": "So I think there's a legitimate reason to be proud of your country.",
+      "zh": "所以我认为，为自己的国家感到骄傲是有正当理由的。"
+    },
+    {
+      "id": 271,
+      "startMs": 1501820,
+      "endMs": 1509660,
+      "en": "This extraordinary, sort of larger-than-life figure who, in some sense, did save his country.",
+      "zh": "这个非凡的、近乎传奇的人物，在某种意义上确实拯救了他的国家。"
+    },
+    {
+      "id": 272,
+      "startMs": 1510140,
+      "endMs": 1515180,
+      "en": "He did lots of things that we might not find admirable. He was not in all ways an attractive figure,",
+      "zh": "他做过许多我们可能并不赞赏的事情。他并不是一个在各方面都讨人喜欢的人物，"
+    },
+    {
+      "id": 273,
+      "startMs": 1515660,
+      "endMs": 1521180,
+      "en": "but I think it could be said that he saved the honor of France, and I think that's what a lot of French people are responding to.",
+      "zh": "但我认为可以说，他挽救了法国的荣誉；我想，这正是许多法国人产生共鸣的地方。"
+    },
+    {
+      "id": 274,
+      "startMs": 1521740,
+      "endMs": 1528540,
+      "en": "He created the most powerful democratic presidency anywhere in the Western world.",
+      "zh": "他建立了西方世界最强有力的民主总统制。"
+    },
+    {
+      "id": 275,
+      "startMs": 1529260,
+      "endMs": 1534640,
+      "en": "For all that there are lots of criticisms of the way that the Fifth Republic works, of its authoritarianism, etc.,",
+      "zh": "尽管人们对第五共和国的运作方式、其威权主义等有诸多批评，"
+    },
+    {
+      "id": 276,
+      "startMs": 1535120,
+      "endMs": 1538480,
+      "en": "it hasn't served France too badly for the last 50 years.",
+      "zh": "但过去五十年来，它对法国的作用并不算太差。"
+    },
+    {
+      "id": 277,
+      "startMs": 1538960,
+      "endMs": 1541440,
+      "en": "I think that that's an extraordinary legacy.",
+      "zh": "我认为，这是一份非凡的遗产。"
+    },
+    {
+      "id": 278,
+      "startMs": 1542320,
+      "endMs": 1548380,
+      "en": "That was Julian Jackson. And that's all from us for now.",
+      "zh": "刚才是朱利安·杰克逊。今天的节目就到这里。"
+    },
+    {
+      "id": 279,
+      "startMs": 1548380,
+      "endMs": 1552860,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 280,
+      "startMs": 1553020,
+      "endMs": 1559020,
+      "en": "You can also find us on X at BBC World Service. Use the hashtag #GlobalNewsPod.",
+      "zh": "你也可以在 X 上关注 BBC World Service。请使用话题标签 #GlobalNewsPod。"
+    },
+    {
+      "id": 281,
+      "startMs": 1559340,
+      "endMs": 1561660,
+      "en": "Don't forget our sister podcast, The Global Story.",
+      "zh": "别忘了我们的姊妹播客《全球故事》。"
+    },
+    {
+      "id": 282,
+      "startMs": 1561980,
+      "endMs": 1567260,
+      "en": "This edition of the Global News Podcast was mixed by Rebecca Miller, and the producer was Marion Stroud.",
+      "zh": "本期《全球新闻播客》由丽贝卡·米勒负责混音，制片人是马里昂·斯特劳德。"
+    },
+    {
+      "id": 283,
+      "startMs": 1567340,
+      "endMs": 1569660,
+      "en": "The editor is Karen Martin, and I'm Charlotte Gallagher.",
+      "zh": "编辑是凯伦·马丁，我是夏洛特·加拉格尔。"
+    },
+    {
+      "id": 284,
+      "startMs": 1570060,
+      "endMs": 1571420,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见，拜拜。"
+    },
+    {
+      "id": 285,
+      "startMs": 1571420,
+      "endMs": 1578700,
+      "en": "Hi, I'm Mariko Oi from Asia Pacific, where we bring you Asia Pacific stories unpacked by those who know them best.",
+      "zh": "你好，我是《亚太纵横》的 Mariko Oi。我们由最了解这些故事的人，为你深入解读亚太新闻。"
+    }
+  ]
+}

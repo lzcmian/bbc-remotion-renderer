@@ -1,0 +1,1894 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "28 August 2026"
+  },
+  "durationMs": 1468400,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4480,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6660,
+      "endMs": 11380,
+      "en": "I'm Will Chalk, and in the early hours of Friday, the 28th of August, these are our main stories.",
+      "zh": "我是威尔·查克。8月28日星期五凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11380,
+      "endMs": 18820,
+      "en": "The Bosnian Serb commander Ratko Mladić, who oversaw the worst atrocities in Europe since the Second World War, has died.",
+      "zh": "波斯尼亚塞族指挥官拉特科·姆拉迪奇去世。他曾主导二战以来欧洲最严重的暴行。"
+    },
+    {
+      "id": 4,
+      "startMs": 19300,
+      "endMs": 24420,
+      "en": "And a trial that's gripped the US. She was very anxious and sad.",
+      "zh": "还有一场牵动全美的审判。她当时非常焦虑和悲伤。"
+    },
+    {
+      "id": 5,
+      "startMs": 24820,
+      "endMs": 26420,
+      "en": "She was begging for help.",
+      "zh": "她苦苦哀求帮助。"
+    },
+    {
+      "id": 6,
+      "startMs": 26820,
+      "endMs": 31780,
+      "en": "This was a woman who acted intentionally to accomplish a very specific goal: to kill.",
+      "zh": "这是一个蓄意行动、为了实现一个非常明确目标的女人：杀人。"
+    },
+    {
+      "id": 7,
+      "startMs": 31780,
+      "endMs": 40260,
+      "en": "The story of Lindsay Clancy, who strangled her three children, but her defence say postpartum psychosis means it wasn't murder.",
+      "zh": "林赛·克兰西的故事：她勒死了自己的三个孩子，但其辩护方称，产后精神病意味着这并非谋杀。"
+    },
+    {
+      "id": 8,
+      "startMs": 43420,
+      "endMs": 50860,
+      "en": "Also in this podcast, Donald Trump renames Lake Ontario as the tariff war between the US and Canada notches up yet another gear.",
+      "zh": "本期还将谈到：唐纳德·特朗普重命名安大略湖；与此同时，美加关税战再次升级。"
+    },
+    {
+      "id": 9,
+      "startMs": 51260,
+      "endMs": 57980,
+      "en": "And the telescope's designed to help us answer fundamental questions about the structure and the composition of the universe.",
+      "zh": "以及这台望远镜将帮助我们回答有关宇宙结构与组成的根本问题。"
+    },
+    {
+      "id": 10,
+      "startMs": 58300,
+      "endMs": 61980,
+      "en": "NASA gears up for the launch of its flagship space observatory.",
+      "zh": "美国国家航空航天局准备发射其旗舰太空天文台。"
+    },
+    {
+      "id": 11,
+      "startMs": 61980,
+      "endMs": 68780,
+      "en": "Moving on to our next story. He was known as the Butcher of Bosnia and oversaw a brutal campaign of ethnic cleansing.",
+      "zh": "下面来看下一则新闻。他被称为“波斯尼亚屠夫”，并主导了一场残酷的种族清洗行动。"
+    },
+    {
+      "id": 12,
+      "startMs": 68780,
+      "endMs": 73980,
+      "en": "As Yugoslavia splintered in the nineties, he spent his final years in prison for war crimes.",
+      "zh": "随着南斯拉夫在上世纪90年代分裂，他晚年因战争罪在狱中度过。"
+    },
+    {
+      "id": 13,
+      "startMs": 74460,
+      "endMs": 79820,
+      "en": "Yet, among some Serbs, Ratko Mladić remains a respected wartime figure.",
+      "zh": "然而，在一些塞尔维亚人眼中，拉特科·姆拉迪奇仍是受尊敬的战时人物。"
+    },
+    {
+      "id": 14,
+      "startMs": 80460,
+      "endMs": 86700,
+      "en": "His death at the age of 84 has, for many, meant looking back on one of the darkest chapters in modern European history.",
+      "zh": "他84岁去世，对许多人来说意味着回望现代欧洲历史上最黑暗的篇章之一。"
+    },
+    {
+      "id": 15,
+      "startMs": 87500,
+      "endMs": 92060,
+      "en": "Mladić oversaw the siege of Sarajevo, in which thousands of civilians were killed.",
+      "zh": "姆拉迪奇主导了萨拉热窝围城，数千名平民在其中丧生。"
+    },
+    {
+      "id": 16,
+      "startMs": 92620,
+      "endMs": 97280,
+      "en": "This is audio of him ordering the bombardment of Muslim areas of the city during the war.",
+      "zh": "这是战争期间他下令炮击该市穆斯林区域的录音。"
+    },
+    {
+      "id": 17,
+      "startMs": 99720,
+      "endMs": 103720,
+      "en": "General Mladić here. Shell the Presidency and the Parliament.",
+      "zh": "这里是姆拉迪奇将军。炮击总统府和议会。"
+    },
+    {
+      "id": 18,
+      "startMs": 104360,
+      "endMs": 109620,
+      "en": "Shoot at slow intervals till I order you to stop. Understood.",
+      "zh": "间隔开火，直到我下令停止。明白吗？"
+    },
+    {
+      "id": 19,
+      "startMs": 113300,
+      "endMs": 117460,
+      "en": "Target Muslim neighbourhoods. Not many Serbs live there. Yes.",
+      "zh": "以穆斯林社区为目标。那里没多少塞族人居住。是。"
+    },
+    {
+      "id": 20,
+      "startMs": 118480,
+      "endMs": 121040,
+      "en": "Shell them till they are on the edge of madness.",
+      "zh": "炮击那里，直到他们濒临疯狂。"
+    },
+    {
+      "id": 21,
+      "startMs": 122400,
+      "endMs": 129840,
+      "en": "Mladić also led attempts to force Croat and Muslim civilians from large swathes of Bosnia in the campaign which became known as ethnic cleansing.",
+      "zh": "姆拉迪奇还试图将克罗地亚族和穆斯林平民赶出波斯尼亚大片地区，这场行动后来被称为种族清洗。"
+    },
+    {
+      "id": 22,
+      "startMs": 130400,
+      "endMs": 136320,
+      "en": "In 1995, his forces massacred more than 8,000 Muslim men and boys in Srebrenica.",
+      "zh": "1995年，他的部队在斯雷布雷尼察屠杀了八千多名穆斯林男子和男孩。"
+    },
+    {
+      "id": 23,
+      "startMs": 136880,
+      "endMs": 138320,
+      "en": "This woman lost her relatives.",
+      "zh": "这名女子失去了亲人。"
+    },
+    {
+      "id": 24,
+      "startMs": 139040,
+      "endMs": 143280,
+      "en": "It's really difficult to describe how I feel.",
+      "zh": "我真的很难描述自己的感受。"
+    },
+    {
+      "id": 25,
+      "startMs": 143840,
+      "endMs": 147120,
+      "en": "We watched as men and boys had their throats cut all around us.",
+      "zh": "我们眼看着周围的男子和男孩被割喉。"
+    },
+    {
+      "id": 26,
+      "startMs": 147760,
+      "endMs": 148800,
+      "en": "Women were raped here.",
+      "zh": "妇女在这里遭到强奸。"
+    },
+    {
+      "id": 27,
+      "startMs": 149200,
+      "endMs": 152320,
+      "en": "Over two nights, people committed suicide watching what was happening.",
+      "zh": "连续两个晚上，人们目睹这一切后自杀。"
+    },
+    {
+      "id": 28,
+      "startMs": 152320,
+      "endMs": 154960,
+      "en": "They took my husband to that building over there.",
+      "zh": "他们把我丈夫带到了那边的那栋楼。"
+    },
+    {
+      "id": 29,
+      "startMs": 154960,
+      "endMs": 157920,
+      "en": "My son wanted to escape, but he never appeared again.",
+      "zh": "我儿子想逃走，但他再也没有出现。"
+    },
+    {
+      "id": 30,
+      "startMs": 158720,
+      "endMs": 164080,
+      "en": "For many years, Mladić evaded justice, assisted by nationalist Serbs who saw him as a war hero.",
+      "zh": "多年来，姆拉迪奇在视他为战争英雄的塞族民族主义者帮助下逃避审判。"
+    },
+    {
+      "id": 31,
+      "startMs": 164480,
+      "endMs": 170000,
+      "en": "But he was eventually captured and sentenced to life imprisonment in 2017 for his many crimes.",
+      "zh": "但他最终被捕，并于2017年因多项罪行被判处终身监禁。"
+    },
+    {
+      "id": 32,
+      "startMs": 170560,
+      "endMs": 175920,
+      "en": "Hasan Hasanović is a survivor of the genocide and now works at the Srebrenica Memorial Centre.",
+      "zh": "哈桑·哈桑诺维奇是这场种族灭绝的幸存者，目前在斯雷布雷尼察纪念中心工作。"
+    },
+    {
+      "id": 33,
+      "startMs": 176400,
+      "endMs": 183280,
+      "en": "I was 19 when I was forced to flee Srebrenica, and I lost my twin brother, my father, and many family members.",
+      "zh": "我19岁时被迫逃离斯雷布雷尼察，失去了双胞胎兄弟、父亲和许多家人。"
+    },
+    {
+      "id": 34,
+      "startMs": 183440,
+      "endMs": 191040,
+      "en": "So when I heard that Ratko Mladić has died, I think about the lives he and his forces destroyed.",
+      "zh": "所以听到拉特科·姆拉迪奇去世时，我想到他和他的部队摧毁的那些生命。"
+    },
+    {
+      "id": 35,
+      "startMs": 191440,
+      "endMs": 199120,
+      "en": "What matters to me is that he died having been convicted of genocide and other crimes,",
+      "zh": "对我而言，重要的是，他是在被判定犯有种族灭绝罪及其他罪行后去世的，"
+    },
+    {
+      "id": 36,
+      "startMs": 199520,
+      "endMs": 204160,
+      "en": "and his death cannot erase that historical and judicial truth.",
+      "zh": "他的死亡无法抹去这一历史和司法事实。"
+    },
+    {
+      "id": 37,
+      "startMs": 205160,
+      "endMs": 208120,
+      "en": "Let's get the perspective of the BBC's Allan Little.",
+      "zh": "下面听听BBC记者艾伦·利特尔的看法。"
+    },
+    {
+      "id": 38,
+      "startMs": 208360,
+      "endMs": 212520,
+      "en": "He reported extensively from Bosnia in the nineties and co-authored a book.",
+      "zh": "他在上世纪90年代广泛报道波斯尼亚，并与人合著了一本书。"
+    },
+    {
+      "id": 39,
+      "startMs": 212840,
+      "endMs": 217400,
+      "en": "The Death of Yugoslavia, which is still regarded as the definitive account of the war.",
+      "zh": "《南斯拉夫之死》至今仍被视为这场战争的权威记述。"
+    },
+    {
+      "id": 40,
+      "startMs": 217880,
+      "endMs": 221080,
+      "en": "He spoke to James Menendez about Ratko Mladić's crimes.",
+      "zh": "他就拉特科·姆拉迪奇的罪行采访了詹姆斯·梅嫩德斯。"
+    },
+    {
+      "id": 41,
+      "startMs": 221080,
+      "endMs": 226840,
+      "en": "He was made the commander of the Bosnian Serb army right at the start of the war by President Milošević of Serbia.",
+      "zh": "战争刚开始时，他被塞尔维亚总统米洛舍维奇任命为波斯尼亚塞族军队指挥官。"
+    },
+    {
+      "id": 42,
+      "startMs": 227320,
+      "endMs": 233320,
+      "en": "And it was his men, acting under his command, who conducted the campaign that came to be known as ethnic cleansing.",
+      "zh": "正是他的部下在其指挥下实施了这场行动，后来被称为种族清洗。"
+    },
+    {
+      "id": 43,
+      "startMs": 233560,
+      "endMs": 236840,
+      "en": "Ethnic cleansing is not a phrase coined by the Western media.",
+      "zh": "“种族清洗”并不是西方媒体创造的说法。"
+    },
+    {
+      "id": 44,
+      "startMs": 236840,
+      "endMs": 241800,
+      "en": "It was the term the Serbs themselves used to describe what they were doing.",
+      "zh": "这是塞族人自己用来描述其所作所为的术语。"
+    },
+    {
+      "id": 45,
+      "startMs": 242120,
+      "endMs": 247960,
+      "en": "They would go from town to town, village to village, municipality to municipality in a very organized way,",
+      "zh": "他们会从一个城镇到另一个城镇、从一个村庄到另一个村庄、从一个市镇到另一个市镇，有组织地行动，"
+    },
+    {
+      "id": 46,
+      "startMs": 248200,
+      "endMs": 253720,
+      "en": "round up all the non-Serb men, put the women and children on buses and ship them off to refugee",
+      "zh": "抓捕所有非塞族男性，把妇女和儿童装上巴士，送往难民营，"
+    },
+    {
+      "id": 47,
+      "startMs": 253720,
+      "endMs": 256920,
+      "en": "camps, and hold the men in concentration camps.",
+      "zh": "难民营，并把这些男性关进集中营。"
+    },
+    {
+      "id": 48,
+      "startMs": 257160,
+      "endMs": 258920,
+      "en": "The men were then divided into categories.",
+      "zh": "随后，这些男性被分成不同类别。"
+    },
+    {
+      "id": 49,
+      "startMs": 259160,
+      "endMs": 265000,
+      "en": "Those regarded as dangerous would be killed right from the beginning of the war, and the rest would be held and later used.",
+      "zh": "被认为危险的人从战争一开始就会被杀害，其余人则被关押，日后用于交换。"
+    },
+    {
+      "id": 50,
+      "startMs": 265020,
+      "endMs": 269820,
+      "en": "In prisoner exchanges, they were held in conditions of starvation, in sanitary conditions.",
+      "zh": "在战俘交换中，他们被关押在挨饿、卫生条件恶劣的环境中。"
+    },
+    {
+      "id": 51,
+      "startMs": 269820,
+      "endMs": 275740,
+      "en": "Many of them died there, and it was all about establishing an ethnically pure Serbian territory",
+      "zh": "许多人死在那里，而这一切都是为了建立一个纯塞族的领土，"
+    },
+    {
+      "id": 52,
+      "startMs": 275740,
+      "endMs": 278140,
+      "en": "in the Republic of Bosnia and Herzegovina.",
+      "zh": "位于波斯尼亚和黑塞哥维那共和国。"
+    },
+    {
+      "id": 53,
+      "startMs": 278620,
+      "endMs": 283740,
+      "en": "These were among the worst war crimes committed in Europe since the Nazis,",
+      "zh": "这些是自纳粹时期以来欧洲最严重的战争罪行之一，"
+    },
+    {
+      "id": 54,
+      "startMs": 284060,
+      "endMs": 291740,
+      "en": "and Srebrenica, which came in 1995, three years after the start of the war in Bosnia, was different only in scale",
+      "zh": "而1995年发生的斯雷布雷尼察大屠杀，在波黑战争开始三年后发生，其不同之处仅在规模，"
+    },
+    {
+      "id": 55,
+      "startMs": 291980,
+      "endMs": 296540,
+      "en": "from what had been happening across the Serb-held territories from the very beginning.",
+      "zh": "至于塞族控制区自战争一开始就持续发生的那些罪行。"
+    },
+    {
+      "id": 56,
+      "startMs": 296780,
+      "endMs": 303340,
+      "en": "There were many Srebrenicas, if you like, right from the start all the way through 1992, 3, 4, and 5.",
+      "zh": "可以说，从一开始直到1992、93、94和95年，类似斯雷布雷尼察的惨案发生过许多次。"
+    },
+    {
+      "id": 57,
+      "startMs": 303660,
+      "endMs": 306300,
+      "en": "Allan, you met him, didn't you? I think in 1992.",
+      "zh": "艾伦，你见过他，对吧？我想是在1992年。"
+    },
+    {
+      "id": 58,
+      "startMs": 306540,
+      "endMs": 308540,
+      "en": "I did meet him by pure chance.",
+      "zh": "我确实偶然见过他。"
+    },
+    {
+      "id": 59,
+      "startMs": 308540,
+      "endMs": 312700,
+      "en": "I was in the Serbian army barracks at Lukavica on the southern edge of Sarajevo,",
+      "zh": "我当时在萨拉热窝南郊卢卡维察的塞尔维亚军队兵营里，"
+    },
+    {
+      "id": 60,
+      "startMs": 312700,
+      "endMs": 316780,
+      "en": "right at the start of the siege of Sarajevo, and he stopped me and said, \"Yes,\"",
+      "zh": "正值萨拉热窝围城开始时。他拦住我说：“是的。”"
+    },
+    {
+      "id": 61,
+      "startMs": 316780,
+      "endMs": 324620,
+      "en": "and I looked incredulous. He said, \"Yes, yes, it's me, it's Mladić,\" then shook my hand, pulled me right into him, and wouldn't let go.",
+      "zh": "我一脸难以置信，他又说：“是的，是的，是我，就是姆拉迪奇。”他握住我的手，把我拉到身边，一直不肯松手。"
+    },
+    {
+      "id": 62,
+      "startMs": 324620,
+      "endMs": 332080,
+      "en": "It was really eerie, and he'd just been down to the city centre front line at a bridge across the river called the Brotherhood and Unity Bridge.",
+      "zh": "那真的很诡异。他刚去过市中心的前线，那里有一座横跨河流的桥，叫兄弟团结桥。"
+    },
+    {
+      "id": 63,
+      "startMs": 332080,
+      "endMs": 337440,
+      "en": "And he was, you could tell that he was very pumped up by having been so close to the military action.",
+      "zh": "很明显，他因如此接近军事行动而异常亢奋。"
+    },
+    {
+      "id": 64,
+      "startMs": 337840,
+      "endMs": 345360,
+      "en": "And he talked about how his ambition was that there should be no guns anywhere in the world except the little toy guns used by little boys.",
+      "zh": "他谈到自己的愿望：世界上不该有任何枪，除了小男孩玩的玩具枪。"
+    },
+    {
+      "id": 65,
+      "startMs": 345520,
+      "endMs": 351200,
+      "en": "I found it very, very disturbing and alarming because he was clearly very, very excited by the violence,",
+      "zh": "我觉得这非常令人不安、令人警觉，因为他显然对暴力极度兴奋，"
+    },
+    {
+      "id": 66,
+      "startMs": 351440,
+      "endMs": 354960,
+      "en": "and he struck me even then as dangerously fanatical.",
+      "zh": "即使在当时，他也让我觉得是个危险的狂热分子。"
+    },
+    {
+      "id": 67,
+      "startMs": 355280,
+      "endMs": 360800,
+      "en": "Justice did catch up with him in the end, but he evaded justice for many, many years.",
+      "zh": "正义最终还是追上了他，但他逃避正义多年。"
+    },
+    {
+      "id": 68,
+      "startMs": 360800,
+      "endMs": 366720,
+      "en": "How? Well, because he was protected by not only Serbian public opinion but by powerful people in Serbia,",
+      "zh": "怎么做到的？因为保护他的不仅有塞尔维亚舆论，还有塞尔维亚的权势人物，"
+    },
+    {
+      "id": 69,
+      "startMs": 367120,
+      "endMs": 375200,
+      "en": "even today, all these years on, and despite his conviction, if his body is returned home to Bosnian Serb territory, he will be given a hero's funeral.",
+      "zh": "即使多年后的今天，尽管他已被定罪，如果遗体被送回波斯尼亚塞族领地，他仍会得到英雄式葬礼。"
+    },
+    {
+      "id": 70,
+      "startMs": 375600,
+      "endMs": 379520,
+      "en": "Yeah, he evaded detection; he lived in hiding, he lived in secret.",
+      "zh": "是的，他躲过了追捕；他藏匿起来，秘密生活。"
+    },
+    {
+      "id": 71,
+      "startMs": 379680,
+      "endMs": 385120,
+      "en": "Public opinion in Serbia and in Serbian parts of Bosnia still regard him as a Serbian national hero.",
+      "zh": "塞尔维亚以及波斯尼亚塞族地区的舆论仍把他视为塞尔维亚民族英雄。"
+    },
+    {
+      "id": 72,
+      "startMs": 385060,
+      "endMs": 386820,
+      "en": "Allan Little there.",
+      "zh": "艾伦·利特尔的报道。"
+    },
+    {
+      "id": 73,
+      "startMs": 387220,
+      "endMs": 390260,
+      "en": "Now we've had a lot of warnings about the dangers of AI,",
+      "zh": "关于人工智能的危险，我们已经听到过许多警告，"
+    },
+    {
+      "id": 74,
+      "startMs": 390580,
+      "endMs": 398980,
+      "en": "but an open letter signed by more than 100 tech companies, including OpenAI, Anthropic, and Google, perhaps stands out from the rest.",
+      "zh": "但一封由100多家科技公司签署的公开信或许格外引人注意，其中包括OpenAI、Anthropic和谷歌。"
+    },
+    {
+      "id": 75,
+      "startMs": 399220,
+      "endMs": 402580,
+      "en": "It's a warning that a wave of AI-enabled cyberattacks are coming,",
+      "zh": "公开信警告，一波由人工智能助力的网络攻击即将到来，"
+    },
+    {
+      "id": 76,
+      "startMs": 402900,
+      "endMs": 406900,
+      "en": "and that organizations and governments have only a short time to defend themselves.",
+      "zh": "各组织和政府只有很短时间来保护自己。"
+    },
+    {
+      "id": 77,
+      "startMs": 407380,
+      "endMs": 411620,
+      "en": "It follows a spate of cyberattacks from AI models, in some cases where they've gone rogue.",
+      "zh": "这发生在一连串由人工智能模型发起的网络攻击之后，其中一些模型已经失控。"
+    },
+    {
+      "id": 78,
+      "startMs": 412180,
+      "endMs": 418420,
+      "en": "In recent interviews, Microsoft founder Bill Gates said even though AI will help fight diseases and improve education,",
+      "zh": "微软创始人比尔·盖茨最近接受采访时说，尽管人工智能有助于对抗疾病、改善教育，"
+    },
+    {
+      "id": 79,
+      "startMs": 418820,
+      "endMs": 421860,
+      "en": "addressing these risks should be the world's top priority.",
+      "zh": "应对这些风险仍应是世界的首要任务。"
+    },
+    {
+      "id": 80,
+      "startMs": 422340,
+      "endMs": 427940,
+      "en": "If we manage the transition well, the good will vastly outweigh the bad.",
+      "zh": "如果我们妥善管理这一转型，利处将远远超过弊端。"
+    },
+    {
+      "id": 81,
+      "startMs": 428340,
+      "endMs": 430420,
+      "en": "But I worry that we aren't preparing.",
+      "zh": "但我担心我们并没有做好准备。"
+    },
+    {
+      "id": 82,
+      "startMs": 430580,
+      "endMs": 434180,
+      "en": "There is no plan to ease the entry into the AI era.",
+      "zh": "没有任何计划来帮助我们平稳进入人工智能时代。"
+    },
+    {
+      "id": 83,
+      "startMs": 434740,
+      "endMs": 437460,
+      "en": "Our technology editor Zoe Kleinman has this assessment.",
+      "zh": "我们的科技编辑佐伊·克莱因曼作出如下分析。"
+    },
+    {
+      "id": 84,
+      "startMs": 438100,
+      "endMs": 444340,
+      "en": "Last month, we had what was described as the world's first-ever AI-enabled cyberattack.",
+      "zh": "上个月，发生了一起被称为世界首例人工智能网络攻击的事件。"
+    },
+    {
+      "id": 85,
+      "startMs": 445080,
+      "endMs": 452200,
+      "en": "OpenAI was testing some of its AI products, and it now says it found out that they were secretly communicating with each other, working together.",
+      "zh": "OpenAI当时正在测试一些人工智能产品，如今该公司称，它发现这些产品在秘密相互通信、协同工作。"
+    },
+    {
+      "id": 86,
+      "startMs": 452200,
+      "endMs": 456600,
+      "en": "They set up a hidden message board, and the result of it was they hacked another company.",
+      "zh": "它们建立了一个隐蔽的留言板，结果入侵了另一家公司。"
+    },
+    {
+      "id": 87,
+      "startMs": 457080,
+      "endMs": 464200,
+      "en": "And we've got other threats as well. We've got cyber tools that have been developed to find weaknesses in security systems that have been hidden away.",
+      "zh": "我们还面临其他威胁。还有一些网络工具被开发出来，用于寻找那些被隐藏起来的安全系统漏洞。"
+    },
+    {
+      "id": 88,
+      "startMs": 464520,
+      "endMs": 468120,
+      "en": "There is one called Mythos that was made by a company called Anthropic,",
+      "zh": "其中有一种名为 Mythos 的工具，由 Anthropic 公司开发，"
+    },
+    {
+      "id": 89,
+      "startMs": 468440,
+      "endMs": 472920,
+      "en": "and it says it found a weakness in one platform that had been hidden for twenty-seven years.",
+      "zh": "该公司称，它在一个平台上发现了一个隐藏了27年的漏洞。"
+    },
+    {
+      "id": 90,
+      "startMs": 472920,
+      "endMs": 475960,
+      "en": "And this is how hackers get into systems and cause havoc, as we see.",
+      "zh": "黑客就是这样进入系统并造成破坏的，正如我们所见。"
+    },
+    {
+      "id": 91,
+      "startMs": 476440,
+      "endMs": 482840,
+      "en": "Plus, you've got AI tools just generating masses of spam emails trying to trick people into opening up their bank accounts.",
+      "zh": "此外，人工智能工具还会生成海量垃圾邮件，诱骗人们打开自己的银行账户。"
+    },
+    {
+      "id": 92,
+      "startMs": 483320,
+      "endMs": 490600,
+      "en": "So, with all of this going on, the letter that's been signed by these 100 companies is calling on the world to make sure it's ready",
+      "zh": "因此，在这一切发生之际，这封由100家公司签署的公开信呼吁全世界确保做好准备，"
+    },
+    {
+      "id": 93,
+      "startMs": 490600,
+      "endMs": 493800,
+      "en": "and says the window to be prepared enough is closing.",
+      "zh": "并称留给我们充分准备的时间窗口正在关闭。"
+    },
+    {
+      "id": 94,
+      "startMs": 494360,
+      "endMs": 499880,
+      "en": "Remember, some companies that signed the letter are also the owners of this technology.",
+      "zh": "不过要记住，签署这封信的部分公司，正是拥有这项技术的那些公司。"
+    },
+    {
+      "id": 95,
+      "startMs": 499960,
+      "endMs": 504680,
+      "en": "It's in their interest, isn't it, to tell us how powerful their own products are.",
+      "zh": "告诉我们自己的产品有多强大，符合它们自身的利益，不是吗？"
+    },
+    {
+      "id": 96,
+      "startMs": 505100,
+      "endMs": 511340,
+      "en": "We do also know there's similar products being developed in China and that they are already freely available.",
+      "zh": "我们也知道，中国正在开发类似产品，而且这些产品已经公开可用。"
+    },
+    {
+      "id": 97,
+      "startMs": 511660,
+      "endMs": 515980,
+      "en": "So what the letter is saying is everyone needs to work together to AI-proof their defenses,",
+      "zh": "所以，这封信的意思是，所有人都需要共同努力，让防御体系能够抵御人工智能攻击，"
+    },
+    {
+      "id": 98,
+      "startMs": 516300,
+      "endMs": 521820,
+      "en": "and it also says vital services like hospitals and water companies need to watch their backs.",
+      "zh": "信中还说，医院和供水公司等重要服务机构需要提高警惕。"
+    },
+    {
+      "id": 99,
+      "startMs": 521820,
+      "endMs": 525900,
+      "en": "But what it doesn't say is how everyone is supposed to find the money to pay for this all.",
+      "zh": "但信中没有说明的是，所有人究竟要如何筹钱来支付这一切。"
+    },
+    {
+      "id": 100,
+      "startMs": 526460,
+      "endMs": 531900,
+      "en": "Zoe Kleinman there. NASA's preparing to launch its next flagship space observatory.",
+      "zh": "佐伊·克莱因曼的报道。NASA正准备发射下一座旗舰级空间天文台。"
+    },
+    {
+      "id": 101,
+      "startMs": 532380,
+      "endMs": 537340,
+      "en": "The Nancy Grace Roman Space Telescope is set to take off over the weekend on a SpaceX",
+      "zh": "南希·格雷斯·罗曼太空望远镜计划于周末搭乘SpaceX"
+    },
+    {
+      "id": 102,
+      "startMs": 537580,
+      "endMs": 539900,
+      "en": "rocket from the Kennedy Space Center in Florida.",
+      "zh": "从佛罗里达州的肯尼迪航天中心发射的火箭。"
+    },
+    {
+      "id": 103,
+      "startMs": 539900,
+      "endMs": 545100,
+      "en": "Scientists are going to use the telescope to investigate some of the universe's biggest mysteries,",
+      "zh": "科学家将利用这台望远镜探索宇宙的一些最大谜团，"
+    },
+    {
+      "id": 104,
+      "startMs": 545100,
+      "endMs": 549340,
+      "en": "including planets beyond our solar system, dark energy, and dark matter.",
+      "zh": "包括太阳系外的行星、暗能量和暗物质。"
+    },
+    {
+      "id": 105,
+      "startMs": 549900,
+      "endMs": 553980,
+      "en": "James Copnall spoke to Morgan Van Arsdall, the project's operations manager.",
+      "zh": "詹姆斯·科普纳尔采访了该项目的运营经理摩根·范·阿斯达尔。"
+    },
+    {
+      "id": 106,
+      "startMs": 554700,
+      "endMs": 556540,
+      "en": "We're aiming to launch on Sunday,",
+      "zh": "我们的目标是在周日发射，"
+    },
+    {
+      "id": 107,
+      "startMs": 557020,
+      "endMs": 563420,
+      "en": "and the telescope's designed to help us answer fundamental questions about the structure and the composition of the universe.",
+      "zh": "这台望远镜旨在帮助我们回答关于宇宙结构和组成的根本问题。"
+    },
+    {
+      "id": 108,
+      "startMs": 563900,
+      "endMs": 568000,
+      "en": "We'll be studying things like dark energy, dark matter, and exoplanets,",
+      "zh": "我们将研究暗能量、暗物质和系外行星等事物，"
+    },
+    {
+      "id": 109,
+      "startMs": 568320,
+      "endMs": 570640,
+      "en": "with the two science instruments on board.",
+      "zh": "使用搭载的两台科学仪器。"
+    },
+    {
+      "id": 110,
+      "startMs": 571120,
+      "endMs": 576880,
+      "en": "And the science instruments together are capable of producing over a terabyte of data every day.",
+      "zh": "两台科学仪器合计每天能够产生超过一太字节的数据。"
+    },
+    {
+      "id": 111,
+      "startMs": 577280,
+      "endMs": 581840,
+      "en": "So we really can't wait to get on orbit and see all the amazing things we discover once we get out there.",
+      "zh": "所以我们迫不及待想进入轨道，看看在那里会发现哪些惊人的事物。"
+    },
+    {
+      "id": 112,
+      "startMs": 582080,
+      "endMs": 587200,
+      "en": "Gosh, yeah, quite a thing. Talk us through what exactly we know about dark energy and dark matter.",
+      "zh": "哇，是啊，真是了不起。请具体说说我们对暗能量和暗物质究竟了解多少。"
+    },
+    {
+      "id": 113,
+      "startMs": 587520,
+      "endMs": 590880,
+      "en": "What are they exactly? Why do they matter to us?",
+      "zh": "它们究竟是什么？为什么与我们有关？"
+    },
+    {
+      "id": 114,
+      "startMs": 591280,
+      "endMs": 596880,
+      "en": "So, for dark energy, we know that the universe is expanding, which doesn't really make any sense.",
+      "zh": "就暗能量而言，我们知道宇宙正在膨胀，但这其实不太说得通。"
+    },
+    {
+      "id": 115,
+      "startMs": 596880,
+      "endMs": 602160,
+      "en": "You would think that it would be either just expanding at the same rate or even starting to contract,",
+      "zh": "你会以为宇宙要么只是以同样速度膨胀，要么甚至开始收缩，"
+    },
+    {
+      "id": 116,
+      "startMs": 602480,
+      "endMs": 604880,
+      "en": "but instead, it's expanding faster and faster.",
+      "zh": "但实际上，它膨胀得越来越快。"
+    },
+    {
+      "id": 117,
+      "startMs": 605200,
+      "endMs": 612800,
+      "en": "And so we know there must be some force that is repelling things, and we call that force dark energy, which we really don't understand yet.",
+      "zh": "因此，我们知道一定存在某种排斥物体的力量，我们称之为暗能量，但我们还不真正理解它。"
+    },
+    {
+      "id": 118,
+      "startMs": 613040,
+      "endMs": 616800,
+      "en": "And that's one thing we're trying to learn more about with the Roman Space Telescope.",
+      "zh": "这正是我们试图借助罗曼太空望远镜进一步了解的事物之一。"
+    },
+    {
+      "id": 119,
+      "startMs": 617200,
+      "endMs": 624800,
+      "en": "Dark matter, on the other hand, we know that only about 5% of the matter that we understand in the universe is visible.",
+      "zh": "另一方面，关于暗物质，我们知道宇宙中我们所了解的物质只有约5%是可见的。"
+    },
+    {
+      "id": 120,
+      "startMs": 625460,
+      "endMs": 630580,
+      "en": "The galaxies, the chair at your house, all fall in that 5% of visible matter.",
+      "zh": "星系以及你家里的椅子，都属于这5%的可见物质。"
+    },
+    {
+      "id": 121,
+      "startMs": 630980,
+      "endMs": 637620,
+      "en": "But based on how gravity works throughout the universe, we know there must be something else, and we call that something else dark matter.",
+      "zh": "但根据引力在宇宙中的作用方式，我们知道还存在其他东西，我们称之为暗物质。"
+    },
+    {
+      "id": 122,
+      "startMs": 637620,
+      "endMs": 644340,
+      "en": "So we're hoping to understand a lot more about what those things are that are really forming how the universe is structured.",
+      "zh": "所以我们希望进一步了解这些事物是什么，以及它们如何塑造宇宙的结构。"
+    },
+    {
+      "id": 123,
+      "startMs": 644900,
+      "endMs": 652180,
+      "en": "And as far as exoplanets are, that's just the fancy word we use for planets that are orbiting suns and stars outside of our solar system.",
+      "zh": "至于系外行星，那只是我们对围绕太阳系外恒星运行的行星所用的一个时髦说法。"
+    },
+    {
+      "id": 124,
+      "startMs": 652500,
+      "endMs": 660180,
+      "en": "And this has to be done from outer space, a long way from our planet, simply to get nearer, to get a better angle on all these things.",
+      "zh": "这必须在远离地球的外太空进行，只是为了更接近、从更好的角度观察这一切吗？"
+    },
+    {
+      "id": 125,
+      "startMs": 660260,
+      "endMs": 662180,
+      "en": "Why can't it be done from down on Earth?",
+      "zh": "为什么不能在地球上完成？"
+    },
+    {
+      "id": 126,
+      "startMs": 662820,
+      "endMs": 667220,
+      "en": "So, it's not really to get closer, but what we want to do is get above the atmosphere.",
+      "zh": "其实不是为了更接近，而是为了到达大气层之上。"
+    },
+    {
+      "id": 127,
+      "startMs": 667540,
+      "endMs": 673380,
+      "en": "As light comes in from all over the universe to Earth, it bounces around once it hits the atmosphere.",
+      "zh": "来自宇宙各处的光抵达地球后，一旦进入大气层就会四处反弹。"
+    },
+    {
+      "id": 128,
+      "startMs": 673460,
+      "endMs": 680580,
+      "en": "So being above the atmosphere, where we can get that vacuum of space, the light is a lot crisper and clearer coming through.",
+      "zh": "因此，在大气层之上、拥有真空环境的太空中，光线穿过时会清晰明亮得多。"
+    },
+    {
+      "id": 129,
+      "startMs": 680900,
+      "endMs": 688760,
+      "en": "And for the Roman Space Telescope, we're going to be at a point called the Lagrange Point, about four times further away than the Moon is,",
+      "zh": "以罗曼太空望远镜为例，我们将位于一个称为拉格朗日点的位置，距离约为月球的四倍，"
+    },
+    {
+      "id": 130,
+      "startMs": 689240,
+      "endMs": 693560,
+      "en": "and that gets us far enough away that we don't need to worry about interference from the Earth",
+      "zh": "这样就能远到无需担心地球的干扰，"
+    },
+    {
+      "id": 131,
+      "startMs": 693640,
+      "endMs": 696360,
+      "en": "or gives us a better view because nothing gets in the way.",
+      "zh": "也能让我们看得更清楚，因为视线不会被物体遮挡。"
+    },
+    {
+      "id": 132,
+      "startMs": 696680,
+      "endMs": 702840,
+      "en": "It all sounds incredibly straightforward, but presumably anything in space is anything but straightforward.",
+      "zh": "听起来一切都非常简单，但想必太空中的事情绝非如此。"
+    },
+    {
+      "id": 133,
+      "startMs": 702840,
+      "endMs": 707400,
+      "en": "This might perhaps even be a slightly nerve-wracking time as you prepare for launch?",
+      "zh": "准备发射的这段时间或许甚至有些令人紧张？"
+    },
+    {
+      "id": 134,
+      "startMs": 707720,
+      "endMs": 710600,
+      "en": "Extremely nerve-wracking. I think we're all really excited,",
+      "zh": "非常紧张。我想我们都很兴奋，"
+    },
+    {
+      "id": 135,
+      "startMs": 710680,
+      "endMs": 716200,
+      "en": "but within the last few days, you can tell that the whole team has sort of started vibrating at a new energy.",
+      "zh": "但过去几天里，你能感觉到整个团队仿佛开始迸发出一股新的能量。"
+    },
+    {
+      "id": 136,
+      "startMs": 716280,
+      "endMs": 721880,
+      "en": "That there's a lot of excitement, but a lot of stress and anxiousness to actually get on orbit and see everything start working.",
+      "zh": "大家既非常兴奋，也承受着巨大压力和焦虑，急切想进入轨道并看到一切开始运转。"
+    },
+    {
+      "id": 137,
+      "startMs": 722200,
+      "endMs": 728120,
+      "en": "So, we've done as many tests as we possibly can. We feel really confident in all of the work we've done to get here,",
+      "zh": "所以我们已经尽可能完成了所有测试，也对为此所做的一切工作充满信心，"
+    },
+    {
+      "id": 138,
+      "startMs": 728440,
+      "endMs": 733240,
+      "en": "but anytime you're doing something new in space, there's always a chance for some type of catastrophe to happen.",
+      "zh": "但每当你在太空中尝试新事物，总有可能发生某种灾难。"
+    },
+    {
+      "id": 139,
+      "startMs": 734040,
+      "endMs": 736600,
+      "en": "Morgan Van Arsdall there, speaking to James Copnall.",
+      "zh": "以上是接受詹姆斯·科普纳尔采访的摩根·范·阿斯达尔。"
+    },
+    {
+      "id": 140,
+      "startMs": 739220,
+      "endMs": 740900,
+      "en": "Still to come in this podcast...",
+      "zh": "本期稍后还有内容……"
+    },
+    {
+      "id": 141,
+      "startMs": 741220,
+      "endMs": 750100,
+      "en": "It has been the great creative joy of my life to work on these books, and I already know what will happen in book four and five.",
+      "zh": "创作这些书是我一生中巨大的创作乐趣，我已经知道第四部和第五部会发生什么。"
+    },
+    {
+      "id": 142,
+      "startMs": 750180,
+      "endMs": 752020,
+      "en": "I have written part of the ending...",
+      "zh": "我已经写出了一部分结局……"
+    },
+    {
+      "id": 143,
+      "startMs": 752420,
+      "endMs": 757860,
+      "en": "Katherine Rundell, author of Impossible Creatures children's fantasy books, speaks to the BBC.",
+      "zh": "《Impossible Creatures》儿童奇幻系列作者凯瑟琳·朗德尔接受了 BBC 采访。"
+    },
+    {
+      "id": 144,
+      "startMs": 757860,
+      "endMs": 759780,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 145,
+      "startMs": 760340,
+      "endMs": 768100,
+      "en": "The escalating tariffs and rhetoric between the United States and Canada since trade talks collapsed last week have been something to behold.",
+      "zh": "自上周贸易谈判破裂以来，美国与加拿大之间不断升级的关税和言辞争端，着实令人瞠目。"
+    },
+    {
+      "id": 146,
+      "startMs": 768500,
+      "endMs": 775060,
+      "en": "Then, on Thursday, perhaps the most unorthodox trade war development yet from Donald Trump in the Oval Office.",
+      "zh": "随后在周四，唐纳德·特朗普在椭圆形办公室宣布了这场贸易战迄今最不寻常的进展。"
+    },
+    {
+      "id": 147,
+      "startMs": 775620,
+      "endMs": 782500,
+      "en": "We're going to be changing the name of Lake Ontario, effective immediately, to Lake America.",
+      "zh": "我们将立即把安大略湖改名为“美国湖”。"
+    },
+    {
+      "id": 148,
+      "startMs": 783420,
+      "endMs": 787100,
+      "en": "That's going to take place right now as I sign the order.",
+      "zh": "就在我签署这项命令时，改名即刻生效。"
+    },
+    {
+      "id": 149,
+      "startMs": 788220,
+      "endMs": 793900,
+      "en": "Well, perhaps unsurprisingly, Canadian officials aren't on board. We'll always call it Lake Ontario.",
+      "zh": "嗯，这或许并不意外，加拿大官员并不认同。我们永远都会称它为安大略湖。"
+    },
+    {
+      "id": 150,
+      "startMs": 793900,
+      "endMs": 796460,
+      "en": "I have to laugh when he comes up with these ideas.",
+      "zh": "他提出这些想法时，我真是忍不住发笑。"
+    },
+    {
+      "id": 151,
+      "startMs": 796460,
+      "endMs": 799020,
+      "en": "It's always going to be Lake Ontario here in Canada,",
+      "zh": "在加拿大，这里永远都是安大略湖，"
+    },
+    {
+      "id": 152,
+      "startMs": 799020,
+      "endMs": 805980,
+      "en": "and that's up to the president if he wants to name it Lake America, Lake Trump, whatever he wants to do.",
+      "zh": "如果总统想把它叫作“美国湖”或“特朗普湖”，随他便。"
+    },
+    {
+      "id": 153,
+      "startMs": 805980,
+      "endMs": 808940,
+      "en": "Our Washington correspondent, Daniel Bush, told me how we got there.",
+      "zh": "我们的华盛顿记者丹尼尔·布什向我讲述了事情的来龙去脉。"
+    },
+    {
+      "id": 154,
+      "startMs": 809420,
+      "endMs": 815500,
+      "en": "This has been an escalating feud between the US and Canada, one of its two biggest trading partners.",
+      "zh": "这是美国与加拿大之间不断升级的争端，加拿大是美国最大的两个贸易伙伴之一。"
+    },
+    {
+      "id": 155,
+      "startMs": 815820,
+      "endMs": 821100,
+      "en": "President Trump and the Prime Minister of Canada, Carney, have now had sort of a feud of words.",
+      "zh": "特朗普总统与加拿大总理卡尼如今展开了某种言辞交锋。"
+    },
+    {
+      "id": 156,
+      "startMs": 821180,
+      "endMs": 828220,
+      "en": "President Trump imposing tariffs on 20 up to 50% on $20 billion worth of goods from Canada.",
+      "zh": "特朗普总统对价值200亿美元的加拿大商品加征20%至50%的关税。"
+    },
+    {
+      "id": 157,
+      "startMs": 828540,
+      "endMs": 837740,
+      "en": "Carney immediately said that he would retaliate and, in fact, now has said that Canada will begin imposing tariffs on a wide range of American goods.",
+      "zh": "卡尼随即表示将予以反制；事实上，他现在已经宣布加拿大将开始对大量美国商品加征关税。"
+    },
+    {
+      "id": 158,
+      "startMs": 837740,
+      "endMs": 839740,
+      "en": "This infuriated the administration.",
+      "zh": "这激怒了美国政府。"
+    },
+    {
+      "id": 159,
+      "startMs": 839740,
+      "endMs": 848480,
+      "en": "Canada, along with China, is the only country that has imposed retaliatory tariffs on the US during President Trump's trade war in his second term.",
+      "zh": "加拿大与中国是特朗普第二任期贸易战期间，确实对美国征收过报复性关税的仅有两个国家。"
+    },
+    {
+      "id": 160,
+      "startMs": 848800,
+      "endMs": 857120,
+      "en": "That led to today where, in the Oval Office, the president signed an executive order which he says will rename Lake Ontario Lake America.",
+      "zh": "这就引出了今天的局面：总统在椭圆形办公室签署行政命令，称将把安大略湖改名为美国湖。"
+    },
+    {
+      "id": 161,
+      "startMs": 857120,
+      "endMs": 864560,
+      "en": "Of course, it's important to note that this will be renamed for the purposes of the American government, on maps and so forth,",
+      "zh": "当然需要注意的是，这一改名只适用于美国政府，在地图等官方用途上使用，"
+    },
+    {
+      "id": 162,
+      "startMs": 864640,
+      "endMs": 870160,
+      "en": "but other countries, private companies, private map makers are not required to use that name.",
+      "zh": "但其他国家、私人公司和私人地图制作者并不必须使用这个名称。"
+    },
+    {
+      "id": 163,
+      "startMs": 870160,
+      "endMs": 877760,
+      "en": "It's reminiscent of Trump's move to do the same with the Gulf of Mexico over a trade dispute there last year,",
+      "zh": "当然，这让人想起特朗普总统去年因那里的贸易争端，对墨西哥湾采取同样做法的举动，"
+    },
+    {
+      "id": 164,
+      "startMs": 877760,
+      "endMs": 883840,
+      "en": "where he renamed it the Gulf of America to try and pressure another ally to come to terms with him on trade issues.",
+      "zh": "当时他将其改名为“美国湾”，试图向另一位盟友施压，促使其在贸易问题上与他达成协议。"
+    },
+    {
+      "id": 165,
+      "startMs": 884160,
+      "endMs": 890080,
+      "en": "Okay, I think some people listening will roll their eyes and go, ‘Changing a name of a lake, what on earth?’",
+      "zh": "好，我想有些听众会翻白眼说：“改一个湖的名字，这到底算什么？”"
+    },
+    {
+      "id": 166,
+      "startMs": 890960,
+      "endMs": 894880,
+      "en": "Give us the serious political argument for why this is a good idea.",
+      "zh": "请告诉我们，为什么这会是个好主意，其严肃的政治理由是什么。"
+    },
+    {
+      "id": 167,
+      "startMs": 895280,
+      "endMs": 903280,
+      "en": "What is at play here is a much broader trade deal between the United States, Canada, and Mexico, the old NAFTA trade deal that was renegotiated",
+      "zh": "这里真正牵涉的是美国、加拿大和墨西哥之间更广泛的贸易协议，也就是曾在特朗普首任期内重新谈判的旧北美自贸协定，"
+    },
+    {
+      "id": 168,
+      "startMs": 903300,
+      "endMs": 911940,
+      "en": "under Trump's first term. And all three countries tried to reach a deal to extend it for 15 years,",
+      "zh": "三国曾试图达成协议，将其延长15年，"
+    },
+    {
+      "id": 169,
+      "startMs": 912180,
+      "endMs": 914980,
+      "en": "were unable to do so in July, so now the USMCA,",
+      "zh": "但在7月未能做到。因此如今，《美墨加协定》"
+    },
+    {
+      "id": 170,
+      "startMs": 915220,
+      "endMs": 922500,
+      "en": "that trade deal between the United States, Canada, Mexico, is sort of in a perpetual annual renewal period,",
+      "zh": "这项美国、加拿大和墨西哥之间的贸易协议，正处于一种持续逐年续期的阶段，"
+    },
+    {
+      "id": 171,
+      "startMs": 922500,
+      "endMs": 928020,
+      "en": "where each year the countries have to come together and re-decide how they want to trade with each other.",
+      "zh": "三国每年都必须坐下来重新决定彼此如何开展贸易。"
+    },
+    {
+      "id": 172,
+      "startMs": 928340,
+      "endMs": 937060,
+      "en": "And this is really at its heart an effort by the administration to put more and more pressure on Canada to try and secure better trade deals.",
+      "zh": "而这从根本上说，是美国政府不断向加拿大施压、试图争取更有利贸易协议的努力。"
+    },
+    {
+      "id": 173,
+      "startMs": 937220,
+      "endMs": 941780,
+      "en": "And you mentioned the Gulf of Mexico, Gulf of America. This has already been tried.",
+      "zh": "你提到了墨西哥湾，也就是“美国湾”。这种做法此前已经试过。"
+    },
+    {
+      "id": 174,
+      "startMs": 941780,
+      "endMs": 944580,
+      "en": "Did that work? In a short answer, no.",
+      "zh": "奏效了吗？简短回答：没有。"
+    },
+    {
+      "id": 175,
+      "startMs": 944580,
+      "endMs": 948420,
+      "en": "Mexico is a different economy with a different set of goals than Canada.",
+      "zh": "墨西哥的经济和目标都与加拿大不同。"
+    },
+    {
+      "id": 176,
+      "startMs": 948660,
+      "endMs": 953300,
+      "en": "Mexico, in fact, has taken a somewhat more conciliatory tack with the United States.",
+      "zh": "事实上，墨西哥对美国采取了相对更为和解的策略。"
+    },
+    {
+      "id": 177,
+      "startMs": 953540,
+      "endMs": 960820,
+      "en": "The president, Sheinbaum of Mexico, has tried not to pick public fights with Trump in the hopes of securing a better trade deal.",
+      "zh": "墨西哥总统辛鲍姆一直努力避免与特朗普公开争执，希望取得更好的贸易协议。"
+    },
+    {
+      "id": 178,
+      "startMs": 960820,
+      "endMs": 968040,
+      "en": "But for the US's perspective, symbolically, renaming the Gulf of Mexico did not actually result in a better trade agreement.",
+      "zh": "但从美国的角度看，象征性地改名墨西哥湾，并没有真正带来更好的贸易协定。"
+    },
+    {
+      "id": 179,
+      "startMs": 968040,
+      "endMs": 971320,
+      "en": "Those two countries are still negotiating new trade deals.",
+      "zh": "这两个国家仍在谈判新的贸易协议。"
+    },
+    {
+      "id": 180,
+      "startMs": 971320,
+      "endMs": 977080,
+      "en": "So whether or not that could somehow pressure Canada, an even bigger, wealthier country, remains to be seen.",
+      "zh": "所以，这是否能以某种方式向加拿大这个更大、更富裕的国家施压，还有待观察。"
+    },
+    {
+      "id": 181,
+      "startMs": 978000,
+      "endMs": 985280,
+      "en": "Daniel Bush there. Next, onto a murder trial that has shocked and divided people in the US.",
+      "zh": "丹尼尔·布什的报道。接下来是一宗震惊并分裂美国民众的谋杀案审判。"
+    },
+    {
+      "id": 182,
+      "startMs": 985280,
+      "endMs": 988640,
+      "en": "In 2023, Lindsay Clancy was charged with strangling her three children.",
+      "zh": "2023年，林赛·克兰西被控勒死自己的三个孩子。"
+    },
+    {
+      "id": 183,
+      "startMs": 989120,
+      "endMs": 992160,
+      "en": "The 36-year-old former nurse doesn't deny killing them,",
+      "zh": "这名36岁的前护士不否认杀害了他们，"
+    },
+    {
+      "id": 184,
+      "startMs": 992320,
+      "endMs": 1000160,
+      "en": "but her defense argues she was suffering from postpartum psychosis, a severe mental health emergency that begins suddenly after childbirth.",
+      "zh": "但她的辩方称，她当时患有产后精神病——一种产后突然发作的严重心理健康急症。"
+    },
+    {
+      "id": 185,
+      "startMs": 1000640,
+      "endMs": 1004720,
+      "en": "Now a jury's got to determine whether she's criminally responsible for the deaths.",
+      "zh": "现在，陪审团必须裁定她是否应对这些死亡承担刑事责任。"
+    },
+    {
+      "id": 186,
+      "startMs": 1005360,
+      "endMs": 1012880,
+      "en": "Shaimaa Khalil is following what's been dubbed America's saddest murder trial, and just a warning, you may find parts of her report distressing.",
+      "zh": "沙伊玛·哈利勒正在跟进这宗被称为“美国最令人悲痛的谋杀案审判”；先提醒一句，她的报道中有些内容可能令人不适。"
+    },
+    {
+      "id": 187,
+      "startMs": 1013680,
+      "endMs": 1014320,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 188,
+      "startMs": 1020300,
+      "endMs": 1023020,
+      "en": "Lindsay Clancy admits to killing her three young children,",
+      "zh": "林赛·克兰西承认杀害了自己的三个年幼孩子，"
+    },
+    {
+      "id": 189,
+      "startMs": 1023420,
+      "endMs": 1027900,
+      "en": "but listening to details of their death in court was at times too much for her to bear.",
+      "zh": "但在法庭上听到孩子们死亡的细节，有时让她难以承受。"
+    },
+    {
+      "id": 190,
+      "startMs": 1028680,
+      "endMs": 1035560,
+      "en": "Cora was five, Dawson three, and Callan was eight months old when they were strangled by their young mother.",
+      "zh": "科拉五岁，道森三岁，卡兰八个月大；他们被年轻的母亲勒死。"
+    },
+    {
+      "id": 191,
+      "startMs": 1036440,
+      "endMs": 1040280,
+      "en": "The question at the heart of this case is whether she was legally responsible.",
+      "zh": "本案的核心问题是，她是否应承担法律责任。"
+    },
+    {
+      "id": 192,
+      "startMs": 1040440,
+      "endMs": 1043000,
+      "en": "She's living in hell. She knows what happened with those kids.",
+      "zh": "她正活在地狱里。她知道那些孩子身上发生了什么。"
+    },
+    {
+      "id": 193,
+      "startMs": 1043400,
+      "endMs": 1049400,
+      "en": "In January 2023, Lindsay killed her children while her then-husband was out picking up dinner for the family.",
+      "zh": "2023年1月，林赛在当时的丈夫外出为家人买晚餐时杀死了孩子。"
+    },
+    {
+      "id": 194,
+      "startMs": 1050040,
+      "endMs": 1051800,
+      "en": "She then tried taking her own life.",
+      "zh": "随后她试图自杀。"
+    },
+    {
+      "id": 195,
+      "startMs": 1052720,
+      "endMs": 1055600,
+      "en": "Patrick Clancy described finding his kids in the basement.",
+      "zh": "帕特里克·克兰西描述了自己在地下室发现孩子们的经过。"
+    },
+    {
+      "id": 196,
+      "startMs": 1056320,
+      "endMs": 1058800,
+      "en": "And then I went to the other side of the basement, which is my office.",
+      "zh": "然后我走到地下室的另一边，那里是我的办公室。"
+    },
+    {
+      "id": 197,
+      "startMs": 1060500,
+      "endMs": 1063060,
+      "en": "And when you saw Dawson,",
+      "zh": "那你看到道森时，"
+    },
+    {
+      "id": 198,
+      "startMs": 1063060,
+      "endMs": 1067480,
+      "en": "Condition was he in? I knew he was gone.",
+      "zh": "他当时是什么情况？我知道他已经不在了。"
+    },
+    {
+      "id": 199,
+      "startMs": 1069000,
+      "endMs": 1073480,
+      "en": "Lindsay's lawyers say she'd suffered postpartum psychosis after the birth of her youngest child,",
+      "zh": "Lindsay 的律师说，她在最小的孩子出生后患上了产后精神病，"
+    },
+    {
+      "id": 200,
+      "startMs": 1073880,
+      "endMs": 1078120,
+      "en": "that she repeatedly sought help and warned she was thinking of harming her children.",
+      "zh": "她曾反复求助，并警告说自己有伤害孩子的想法。"
+    },
+    {
+      "id": 201,
+      "startMs": 1078760,
+      "endMs": 1083000,
+      "en": "When she told you that she was having intrusive thoughts, did you ask her what they were?",
+      "zh": "她告诉你自己有侵入性想法时，你问过她具体是什么想法吗？"
+    },
+    {
+      "id": 202,
+      "startMs": 1083880,
+      "endMs": 1085800,
+      "en": "Yeah. And what was her response?",
+      "zh": "问过。那她是怎么回答的？"
+    },
+    {
+      "id": 203,
+      "startMs": 1086720,
+      "endMs": 1090800,
+      "en": "She described thoughts of hurting the kids.",
+      "zh": "她说自己有伤害孩子的想法。"
+    },
+    {
+      "id": 204,
+      "startMs": 1091120,
+      "endMs": 1096800,
+      "en": "Shortly before the killings, she admitted herself to a psychiatric hospital, but was discharged days after.",
+      "zh": "在杀害孩子前不久，她主动住进了精神科医院，但几天后就出院了。"
+    },
+    {
+      "id": 205,
+      "startMs": 1097780,
+      "endMs": 1102420,
+      "en": "Prosecutor Shannon Buckingham told the jury the mother was fully aware of her actions.",
+      "zh": "检察官香农·白金汉对陪审团说，这位母亲完全清楚自己的行为。"
+    },
+    {
+      "id": 206,
+      "startMs": 1102980,
+      "endMs": 1107380,
+      "en": "This was not a woman in the throes of psychosis on January 24th, 2023.",
+      "zh": "2023年1月24日，她并不是一个正处于精神病发作中的人。"
+    },
+    {
+      "id": 207,
+      "startMs": 1108100,
+      "endMs": 1116820,
+      "en": "This was a woman who acted intentionally, rationally, and swiftly to accomplish a very specific goal: to kill.",
+      "zh": "她是有意、理智而迅速地行动，以实现一个非常明确的目标：杀人。"
+    },
+    {
+      "id": 208,
+      "startMs": 1117540,
+      "endMs": 1122100,
+      "en": "Clancy then attempted suicide, which left her paralyzed after she jumped out of a window.",
+      "zh": "随后，Clancy 试图自杀；她跳窗后导致瘫痪。"
+    },
+    {
+      "id": 209,
+      "startMs": 1123020,
+      "endMs": 1126860,
+      "en": "Her former mother-in-law, Susan Clancy, described her as a loving parent.",
+      "zh": "她的前婆婆苏珊·Clancy 说，她是一个充满爱心的母亲。"
+    },
+    {
+      "id": 210,
+      "startMs": 1126860,
+      "endMs": 1134620,
+      "en": "She had insomnia. She was losing her appetite. She was very anxious and sad.",
+      "zh": "她失眠，食欲下降，非常焦虑和悲伤。"
+    },
+    {
+      "id": 211,
+      "startMs": 1135340,
+      "endMs": 1137020,
+      "en": "She was begging for help.",
+      "zh": "她苦苦请求帮助。"
+    },
+    {
+      "id": 212,
+      "startMs": 1140760,
+      "endMs": 1143240,
+      "en": "Beyond the courtroom, this case has divided America.",
+      "zh": "在法庭之外，这起案件也让美国社会产生分歧。"
+    },
+    {
+      "id": 213,
+      "startMs": 1143640,
+      "endMs": 1149080,
+      "en": "Hundreds of women, many with their own experience of postpartum illness, have rallied in support of Clancy.",
+      "zh": "数百名女性，其中许多人有产后疾病的亲身经历，聚集起来支持 Clancy。"
+    },
+    {
+      "id": 214,
+      "startMs": 1149160,
+      "endMs": 1156440,
+      "en": "We all relate in one way or another, and that is definitely attracting each of us here to support her.",
+      "zh": "我们都多少能够感同身受，这确实吸引我们来到这里支持她。"
+    },
+    {
+      "id": 215,
+      "startMs": 1156760,
+      "endMs": 1165880,
+      "en": "So many women in the world go through this, and we really don't know much about psychosis, particularly with women who have given birth.",
+      "zh": "世界上有很多女性经历这些，而我们对精神病确实知之甚少，尤其是生育过的女性所患的精神病。"
+    },
+    {
+      "id": 216,
+      "startMs": 1166120,
+      "endMs": 1168520,
+      "en": "But not everybody believes she deserves sympathy.",
+      "zh": "但不是所有人都认为她值得同情。"
+    },
+    {
+      "id": 217,
+      "startMs": 1168840,
+      "endMs": 1174840,
+      "en": "As far as I'm concerned, this whole situation is about those babies. Okay, I think what she did was horrible.",
+      "zh": "在我看来，这一切关乎的是那三个孩子。好吧，我认为她所做的一切都令人发指。"
+    },
+    {
+      "id": 218,
+      "startMs": 1174840,
+      "endMs": 1180360,
+      "en": "I support mental health. However, in this case, three children were murdered.",
+      "zh": "我支持心理健康事业。但在这起案件中，三个孩子被杀害了。"
+    },
+    {
+      "id": 219,
+      "startMs": 1180520,
+      "endMs": 1186440,
+      "en": "Millions coast to coast are waiting and watching as this case will soon head to the jury.",
+      "zh": "从美国东海岸到西海岸，数百万人都在等待并关注这起案件即将交由陪审团审理。"
+    },
+    {
+      "id": 220,
+      "startMs": 1186760,
+      "endMs": 1189240,
+      "en": "A conviction would mean life in prison without parole.",
+      "zh": "如果定罪，她将被判终身监禁且不得假释。"
+    },
+    {
+      "id": 221,
+      "startMs": 1189960,
+      "endMs": 1196200,
+      "en": "If she's found not criminally responsible, this could mean indefinite confinement in a secure psychiatric hospital.",
+      "zh": "如果认定她不负刑事责任，她可能被无限期关押在安全的精神科医院。"
+    },
+    {
+      "id": 222,
+      "startMs": 1196680,
+      "endMs": 1203720,
+      "en": "Whatever the verdict, nothing changes the terrible loss: three young children dead, and a family destroyed.",
+      "zh": "无论判决如何，都无法改变这场惨痛的损失：三个年幼的孩子死亡，一个家庭支离破碎。"
+    },
+    {
+      "id": 223,
+      "startMs": 1203720,
+      "endMs": 1210040,
+      "en": "Shaimaa Khalil there. Let's move on to a story that has been dominating football for a while now.",
+      "zh": "以上是沙伊玛·哈利勒的报道。下面来看一则持续占据足球新闻头条的消息。"
+    },
+    {
+      "id": 224,
+      "startMs": 1210040,
+      "endMs": 1217080,
+      "en": "European football's governing body, UEFA, is preparing to bring criminal legal claims against FIFA President Gianni Infantino",
+      "zh": "欧洲足坛管理机构欧足联准备对国际足联主席詹尼·因凡蒂诺提起刑事法律诉讼，"
+    },
+    {
+      "id": 225,
+      "startMs": 1217560,
+      "endMs": 1222840,
+      "en": "in connection with that now-abandoned plan to sell off stakes in the World Cup to private investors.",
+      "zh": "与那项如今已放弃的计划有关：将世界杯的股份出售给私人投资者。"
+    },
+    {
+      "id": 226,
+      "startMs": 1223320,
+      "endMs": 1229100,
+      "en": "UEFA has asked for access to documents to be used in proceedings in Switzerland. Our sports editor is Dan Roan.",
+      "zh": "欧足联已要求获取文件，用于在瑞士进行的诉讼。我们的体育编辑是丹·罗恩。"
+    },
+    {
+      "id": 227,
+      "startMs": 1229260,
+      "endMs": 1231100,
+      "en": "So, how significant is this?",
+      "zh": "那么，这件事有多重要？"
+    },
+    {
+      "id": 228,
+      "startMs": 1231580,
+      "endMs": 1235500,
+      "en": "I think this is another major escalation in world football's civil war.",
+      "zh": "我认为，这是世界足坛内战的又一次重大升级。"
+    },
+    {
+      "id": 229,
+      "startMs": 1235500,
+      "endMs": 1240860,
+      "en": "Despite three confederations wanting him to quit, Gianni Infantino still clings to power.",
+      "zh": "尽管三个联合会都希望他下台，詹尼·因凡蒂诺仍然紧抓权力不放。"
+    },
+    {
+      "id": 230,
+      "startMs": 1240860,
+      "endMs": 1246540,
+      "en": "But now UEFA is considering bringing criminal proceedings against him. The pressure has ramped up again.",
+      "zh": "但现在，欧足联正考虑对他提起刑事诉讼，压力再次升级。"
+    },
+    {
+      "id": 231,
+      "startMs": 1246620,
+      "endMs": 1252060,
+      "en": "An application, as you say, has been made by UEFA in the US requesting access to evidence and documents",
+      "zh": "正如你所说，欧足联已在美国提出申请，要求获取证据和文件，"
+    },
+    {
+      "id": 232,
+      "startMs": 1252060,
+      "endMs": 1257660,
+      "en": "for use in legal proceedings in Switzerland against Infantino, who's accused of criminal mismanagement.",
+      "zh": "用于在瑞士针对因凡蒂诺的法律诉讼，他被指控存在刑事管理不善。"
+    },
+    {
+      "id": 233,
+      "startMs": 1257660,
+      "endMs": 1264780,
+      "en": "Now UEFA claims his plan to sell a 20% stake in the World Cup for £3 billion was an absurdly low figure, as they put it.",
+      "zh": "欧足联称，按他们的说法，他计划以30亿英镑出售世界杯20%的股份，这个数字低得离谱。"
+    },
+    {
+      "id": 234,
+      "startMs": 1264860,
+      "endMs": 1270540,
+      "en": "That was not independently verified or openly auctioned and was promoted for his own benefit, they claim.",
+      "zh": "欧足联称，这一数字未经独立核实，也没有公开拍卖，而且是为了他个人的利益而推动的。"
+    },
+    {
+      "id": 235,
+      "startMs": 1270860,
+      "endMs": 1274380,
+      "en": "UEFA has also warned that if found guilty, he could face a prison sentence.",
+      "zh": "欧足联还警告说，如果罪名成立，他可能面临监禁。"
+    },
+    {
+      "id": 236,
+      "startMs": 1274380,
+      "endMs": 1280540,
+      "en": "UEFA also wants evidence from Thrive Capital, the business involved in the scheme, and its founder Josh Kushner,",
+      "zh": "欧足联还希望从参与该计划的企业 Thrive Capital 及其创始人乔什·库什纳那里获取证据，"
+    },
+    {
+      "id": 237,
+      "startMs": 1280540,
+      "endMs": 1283100,
+      "en": "the brother of US President Donald Trump's son-in-law.",
+      "zh": "库什纳是美国总统唐纳德·特朗普女婿的兄弟。"
+    },
+    {
+      "id": 238,
+      "startMs": 1283580,
+      "endMs": 1291120,
+      "en": "Infantino has not yet responded. He may have felt emboldened today by UEFA dropping their threat of a boycott of FIFA competitions",
+      "zh": "因凡蒂诺尚未回应。今天，欧足联放弃抵制国际足联赛事的威胁，或许让他更加有恃无恐，"
+    },
+    {
+      "id": 239,
+      "startMs": 1291120,
+      "endMs": 1295280,
+      "en": "and indeed the qualified backing of the highly influential Saudi Arabian FA,",
+      "zh": "而且他还得到了颇具影响力的沙特阿拉伯足协有条件的支持，"
+    },
+    {
+      "id": 240,
+      "startMs": 1295280,
+      "endMs": 1300880,
+      "en": "but UEFA's not letting up in its fight and will hope that this legal threat is enough to oust him.",
+      "zh": "但欧足联并未放松斗争，并希望这项法律威胁足以将他赶下台。"
+    },
+    {
+      "id": 241,
+      "startMs": 1301120,
+      "endMs": 1306640,
+      "en": "If not, it's pledged to find a candidate to challenge Infantino in March's presidential election.",
+      "zh": "否则，欧足联承诺寻找候选人，在三月的主席选举中挑战因凡蒂诺。"
+    },
+    {
+      "id": 242,
+      "startMs": 1306880,
+      "endMs": 1311120,
+      "en": "Football perhaps has never felt quite so divided as this. Dan Roan there.",
+      "zh": "足球界或许从未像现在这样分裂。以上是丹·罗恩的报道。"
+    },
+    {
+      "id": 243,
+      "startMs": 1311600,
+      "endMs": 1316000,
+      "en": "Right, let's end on something that'll be exciting for parents of children who are big readers.",
+      "zh": "下面以一则会让爱读书孩子的家长感到兴奋的消息收尾。"
+    },
+    {
+      "id": 244,
+      "startMs": 1316400,
+      "endMs": 1322960,
+      "en": "The Neverfear, the third instalment of Katherine Rundell's bestselling Impossible Creatures series, has been released,",
+      "zh": "凯瑟琳·朗德尔畅销的《Impossible Creatures》系列第三部《The Neverfear》已经出版，"
+    },
+    {
+      "id": 245,
+      "startMs": 1323280,
+      "endMs": 1326320,
+      "en": "and she says she's already begun work on the screenplay for a film.",
+      "zh": "她说自己已经开始为电影创作剧本。"
+    },
+    {
+      "id": 246,
+      "startMs": 1326880,
+      "endMs": 1330560,
+      "en": "Shaun Ley asked Katherine Rundell why fantasy has such an appeal.",
+      "zh": "肖恩·莱问凯瑟琳·朗德尔，奇幻文学为何有如此大的吸引力。"
+    },
+    {
+      "id": 247,
+      "startMs": 1331120,
+      "endMs": 1338640,
+      "en": "I think that we have been turning to fantasy to think about large ideas and to go on large adventures for thousands of years.",
+      "zh": "我认为，数千年来，人们一直借助奇幻文学思考宏大理念、展开宏大冒险。"
+    },
+    {
+      "id": 248,
+      "startMs": 1338720,
+      "endMs": 1346080,
+      "en": "You can trace our desire to think about mythical creatures and impossible happenings all the way back to The Odyssey.",
+      "zh": "我们对神话生物和不可思议事件的想象，可以一直追溯到《奥德赛》。"
+    },
+    {
+      "id": 249,
+      "startMs": 1346500,
+      "endMs": 1351780,
+      "en": "To Beowulf, to The Faerie Queene, to Le Morte d'Arthur, on to Tolkien and C. S. Lewis,",
+      "zh": "再到《贝奥武夫》《仙后》《亚瑟之死》，以及托尔金和 C·S·刘易斯的作品，"
+    },
+    {
+      "id": 250,
+      "startMs": 1352100,
+      "endMs": 1357460,
+      "en": "I think there is something in it that captures our sense of the world as full of impossible things.",
+      "zh": "我认为，奇幻文学捕捉到了我们对这个充满不可思议之物的世界的感受。"
+    },
+    {
+      "id": 251,
+      "startMs": 1357780,
+      "endMs": 1361140,
+      "en": "Your childhood years were spent, I think, in Zimbabwe.",
+      "zh": "我想，你的童年是在津巴布韦度过的。"
+    },
+    {
+      "id": 252,
+      "startMs": 1361140,
+      "endMs": 1367140,
+      "en": "Does that give you a different fantasy, a different magical tradition to draw on in addition to the British one?",
+      "zh": "除了英国的奇幻传统之外，这是否让你有了不同的幻想和魔法传统可以借鉴？"
+    },
+    {
+      "id": 253,
+      "startMs": 1367940,
+      "endMs": 1374740,
+      "en": "So I spent part of my childhood from about eight to 14 in Zimbabwe because my father worked in international development.",
+      "zh": "我八岁到十四岁左右，有一部分童年是在津巴布韦度过的，因为父亲从事国际发展工作。"
+    },
+    {
+      "id": 254,
+      "startMs": 1375300,
+      "endMs": 1381540,
+      "en": "And I think the main thing it gave me was a sense of the natural world as full of creatures",
+      "zh": "我认为，这段经历带给我的最重要一点，是让我感到自然界充满了各种生物，"
+    },
+    {
+      "id": 255,
+      "startMs": 1381540,
+      "endMs": 1388100,
+      "en": "that are so astonishing that if you were told they were mythical, you would find that easy to believe.",
+      "zh": "它们如此惊人，以至于如果有人说它们是神话生物，你也会觉得很容易相信。"
+    },
+    {
+      "id": 256,
+      "startMs": 1388420,
+      "endMs": 1392020,
+      "en": "A giraffe is as extraordinary as a griffin.",
+      "zh": "长颈鹿和狮鹫一样非凡。"
+    },
+    {
+      "id": 257,
+      "startMs": 1392740,
+      "endMs": 1399220,
+      "en": "And for some time, we were absolutely sure that griffins did exist and were a little bit unsure about giraffes.",
+      "zh": "有一段时间，我们确信狮鹫确实存在，却对长颈鹿有些将信将疑。"
+    },
+    {
+      "id": 258,
+      "startMs": 1399620,
+      "endMs": 1406180,
+      "en": "So there is a sense, I think, when you are lucky enough to be in a country where there is still wilderness",
+      "zh": "所以我认为，如果你有幸身处一个仍保有荒野的国家，就会有一种感受："
+    },
+    {
+      "id": 259,
+      "startMs": 1406200,
+      "endMs": 1414040,
+      "en": "and you have access to extraordinary natural beauty that gives you a sense that our beauty is so exquisite as to be almost fantastical.",
+      "zh": "在那里你能接触非凡的自然美景，感受到世间美丽如此精致，几乎如同幻想。"
+    },
+    {
+      "id": 260,
+      "startMs": 1414440,
+      "endMs": 1419480,
+      "en": "The Neverfear is the third of what will be a five-book sequence.",
+      "zh": "《The Neverfear》是这套五部曲中的第三部。"
+    },
+    {
+      "id": 261,
+      "startMs": 1419880,
+      "endMs": 1422280,
+      "en": "Do you worry at all about sustaining the story?",
+      "zh": "你会担心如何把故事延续下去吗？"
+    },
+    {
+      "id": 262,
+      "startMs": 1422520,
+      "endMs": 1432040,
+      "en": "No, it has been the great creative joy of my life to work on these books, and I already know what will happen in book four and five.",
+      "zh": "不会，创作这些书是我一生中巨大的创作乐趣，而且我已经知道第四部和第五部会发生什么。"
+    },
+    {
+      "id": 263,
+      "startMs": 1432040,
+      "endMs": 1434440,
+      "en": "I have written part of the ending,",
+      "zh": "我已经写好了一部分结尾，"
+    },
+    {
+      "id": 264,
+      "startMs": 1434440,
+      "endMs": 1440760,
+      "en": "and I know that there will be, you know, there are berserkers who feel no fear, who have to learn to fear in order to learn to love.",
+      "zh": "我知道故事中会有——你知道——有些狂战士毫无畏惧，却必须学会害怕，才能学会去爱。"
+    },
+    {
+      "id": 265,
+      "startMs": 1441160,
+      "endMs": 1446280,
+      "en": "There is a princess who renounces her throne and discovers that she too has berserker blood.",
+      "zh": "有一位公主放弃王位，并发现自己也流着狂战士的血。"
+    },
+    {
+      "id": 266,
+      "startMs": 1446680,
+      "endMs": 1450520,
+      "en": "So I know where I'm going, and it will be, for me, a great adventure to go there.",
+      "zh": "所以我知道自己要走向何方，而对我来说，走到那里将是一场伟大的冒险。"
+    },
+    {
+      "id": 267,
+      "startMs": 1450920,
+      "endMs": 1453320,
+      "en": "Katherine Rundell, speaking to Shaun Ley.",
+      "zh": "凯瑟琳·朗德尔接受肖恩·莱采访。"
+    },
+    {
+      "id": 268,
+      "startMs": 1456240,
+      "endMs": 1464560,
+      "en": "That's all from us for now. This edition of the Global News Podcast was mixed by Carlotta Hadjitoimskou, and the producer was Emma Joseph.",
+      "zh": "节目到此。本期《全球新闻播客》混音：Carlotta Hadjitoimskou；制片：Emma Joseph。"
+    },
+    {
+      "id": 269,
+      "startMs": 1464720,
+      "endMs": 1468400,
+      "en": "The editor is Karen Martin, and I'm Will Chalk. Until next time, goodbye.",
+      "zh": "编辑是 Karen Martin，我是 Will Chalk。下次再见。"
+    }
+  ]
+}
