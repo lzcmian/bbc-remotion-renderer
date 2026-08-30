@@ -1,0 +1,2132 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "30 August 2026"
+  },
+  "durationMs": 1667520,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4000,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5800,
+      "endMs": 11800,
+      "en": "I'm Charlotte Gallagher and in the early hours of Sunday, the 30th of August, these are our main stories.",
+      "zh": "我是夏洛特·加拉格尔。8月30日星期日凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12120,
+      "endMs": 17400,
+      "en": "A rare criticism of some Jewish settlers in the occupied West Bank from the Israeli government.",
+      "zh": "以色列政府罕见地批评了被占领约旦河西岸的部分犹太定居者。"
+    },
+    {
+      "id": 4,
+      "startMs": 17720,
+      "endMs": 21080,
+      "en": "Their actions violate the law. They endanger both Jews and Arabs.",
+      "zh": "他们的行为违反法律，也危及犹太人和阿拉伯人。"
+    },
+    {
+      "id": 5,
+      "startMs": 21560,
+      "endMs": 26920,
+      "en": "And they interfere with the Israel Defense Forces as they carry out vital security missions.",
+      "zh": "他们还妨碍以色列国防军执行重要的安全任务。"
+    },
+    {
+      "id": 6,
+      "startMs": 27080,
+      "endMs": 30440,
+      "en": "And, of course, they harm Israel's international legitimacy.",
+      "zh": "当然，他们损害以色列的国际合法性。"
+    },
+    {
+      "id": 7,
+      "startMs": 31080,
+      "endMs": 37080,
+      "en": "We're in Ukraine after 37 civilians were killed in a Russian drone strike on an arms depot.",
+      "zh": "乌克兰一处军火库遭俄罗斯无人机袭击，造成37名平民死亡。"
+    },
+    {
+      "id": 8,
+      "startMs": 37320,
+      "endMs": 39080,
+      "en": "Who do you hold responsible for this?",
+      "zh": "你认为谁该为此负责？"
+    },
+    {
+      "id": 9,
+      "startMs": 39400,
+      "endMs": 44360,
+      "en": "Russia. Who? Russia. Their government, the people, Russians themselves.",
+      "zh": "俄罗斯。谁？俄罗斯。他们的政府、人民，也就是俄罗斯人自己。"
+    },
+    {
+      "id": 10,
+      "startMs": 47080,
+      "endMs": 53080,
+      "en": "Also in this podcast, why Japanese paramedics are asking people to be less polite.",
+      "zh": "本期还将讲述日本急救人员为何请求人们不必那么客气。"
+    },
+    {
+      "id": 11,
+      "startMs": 53480,
+      "endMs": 56680,
+      "en": "It took a dip around February.",
+      "zh": "到了2月左右，支持度曾有所下降。"
+    },
+    {
+      "id": 12,
+      "startMs": 56840,
+      "endMs": 63880,
+      "en": "By then, the extent of now Crown Princess Mette-Marit's relationship with Jeffrey Epstein had become quite clear.",
+      "zh": "到那时，现任王储妃梅特-玛丽特与杰弗里·爱泼斯坦关系的程度已变得十分清楚。"
+    },
+    {
+      "id": 13,
+      "startMs": 64120,
+      "endMs": 69960,
+      "en": "As the new king begins his reign, we assess the popularity of Norway's royal family.",
+      "zh": "新国王开始执政之际，我们将评估挪威王室的受欢迎程度。"
+    },
+    {
+      "id": 14,
+      "startMs": 74540,
+      "endMs": 77420,
+      "en": "We begin the podcast in the occupied West Bank.",
+      "zh": "本期节目从被占领的约旦河西岸开始。"
+    },
+    {
+      "id": 15,
+      "startMs": 80400,
+      "endMs": 90320,
+      "en": "That's from a video recorded by a Palestinian man of a crowd throwing stones at them.",
+      "zh": "这段画面来自一名巴勒斯坦男子拍摄的视频，画面中一群人向他们投掷石块。"
+    },
+    {
+      "id": 16,
+      "startMs": 90800,
+      "endMs": 94320,
+      "en": "You can hear him say in Arabic that settlers have surrounded their home.",
+      "zh": "你能听到他用阿拉伯语说，定居者包围了他们的家。"
+    },
+    {
+      "id": 17,
+      "startMs": 94880,
+      "endMs": 103280,
+      "en": "Dozens of settlers attacked two Palestinian villages, including Qusra, and have been stopping supplies from reaching some villages for weeks.",
+      "zh": "数十名定居者袭击了两个巴勒斯坦村庄，包括库斯拉；他们还阻止物资运往一些村庄，持续数周。"
+    },
+    {
+      "id": 18,
+      "startMs": 103680,
+      "endMs": 109200,
+      "en": "Luai Beirutey said his family was under siege by the settlers and the Israeli army.",
+      "zh": "卢艾·贝鲁泰说，他的家人遭到定居者和以色列军队的围困。"
+    },
+    {
+      "id": 19,
+      "startMs": 109440,
+      "endMs": 116480,
+      "en": "The settlers attacked us, and we were trapped inside my house.",
+      "zh": "定居者袭击了我们，我们被困在我的房子里。"
+    },
+    {
+      "id": 20,
+      "startMs": 117040,
+      "endMs": 119680,
+      "en": "There were more than 70 people hurling stones at us.",
+      "zh": "有70多人向我们投掷石块。"
+    },
+    {
+      "id": 21,
+      "startMs": 119680,
+      "endMs": 126800,
+      "en": "The army fired tear gas, so we climbed onto the roof where the group continued throwing stones.",
+      "zh": "军队发射催泪瓦斯，我们于是爬上屋顶，但那群人继续投掷石块。"
+    },
+    {
+      "id": 22,
+      "startMs": 127760,
+      "endMs": 133920,
+      "en": "We called the police, but they never arrived. The army didn't stop the settlers.",
+      "zh": "我们报了警，但他们始终没有来。军队也没有阻止定居者。"
+    },
+    {
+      "id": 23,
+      "startMs": 133960,
+      "endMs": 141060,
+      "en": "They instead detained us with handcuffs and blindfolds, as if we were the terrorists.",
+      "zh": "相反，他们给我们戴上手铐和眼罩，把我们当成恐怖分子拘押。"
+    },
+    {
+      "id": 24,
+      "startMs": 141460,
+      "endMs": 148180,
+      "en": "Then they kept us in a military vehicle for 40 minutes, and beat anyone who spoke out.",
+      "zh": "随后他们把我们关在军车里40分钟，还殴打任何出言抗议的人。"
+    },
+    {
+      "id": 25,
+      "startMs": 148340,
+      "endMs": 154180,
+      "en": "The ferocity of Saturday's attacks prompted rare condemnation from Prime Minister Benjamin Netanyahu.",
+      "zh": "星期六袭击的凶残程度，引发了本雅明·内塔尼亚胡总理罕见的谴责。"
+    },
+    {
+      "id": 26,
+      "startMs": 154580,
+      "endMs": 156420,
+      "en": "Doron Spielman is his spokesman.",
+      "zh": "多伦·斯皮尔曼是他的发言人。"
+    },
+    {
+      "id": 27,
+      "startMs": 156820,
+      "endMs": 163620,
+      "en": "These acts were committed by a small group of rioters. They do not represent the law-abiding Jewish community in Judea and Samaria.",
+      "zh": "这些行为是少数暴徒所为，并不代表犹太和撒马利亚地区守法的犹太社群。"
+    },
+    {
+      "id": 28,
+      "startMs": 164020,
+      "endMs": 167940,
+      "en": "On the contrary, they cause that community a grave injustice.",
+      "zh": "恰恰相反，他们让这个社群遭受严重不公。"
+    },
+    {
+      "id": 29,
+      "startMs": 168180,
+      "endMs": 171780,
+      "en": "Their actions violate the law. They endanger both Jews and Arabs.",
+      "zh": "他们的行为违反法律，也危及犹太人和阿拉伯人。"
+    },
+    {
+      "id": 30,
+      "startMs": 172100,
+      "endMs": 177380,
+      "en": "And they interfere with the Israel Defense Forces as they carry out vital security missions.",
+      "zh": "他们还妨碍以色列国防军执行重要的安全任务。"
+    },
+    {
+      "id": 31,
+      "startMs": 177540,
+      "endMs": 181220,
+      "en": "And, of course, they harm Israel's international legitimacy.",
+      "zh": "当然，他们损害以色列的国际合法性。"
+    },
+    {
+      "id": 32,
+      "startMs": 181460,
+      "endMs": 186260,
+      "en": "Our correspondent in Jerusalem, Katie Watson, told me more about the latest violence.",
+      "zh": "我们在耶路撒冷的记者凯蒂·沃森告诉我更多最新暴力事件的情况。"
+    },
+    {
+      "id": 33,
+      "startMs": 186500,
+      "endMs": 193540,
+      "en": "There were two particular areas that kind of came under scrutiny: the village of Qusra, which has been in the spotlight in the last month.",
+      "zh": "有两个特别受关注的地区：库斯拉村近一个月来一直处于聚光灯下。"
+    },
+    {
+      "id": 34,
+      "startMs": 193940,
+      "endMs": 201880,
+      "en": "But what we saw earlier today were dozens of settlers that were attacking the village of Qusra.",
+      "zh": "但我们今天早些时候看到，数十名定居者正在袭击库斯拉村。"
+    },
+    {
+      "id": 35,
+      "startMs": 201880,
+      "endMs": 209160,
+      "en": "I spoke to a resident there, Luai Beirutey, an American-Palestinian who earlier this month kind of made headlines.",
+      "zh": "我采访了那里一名居民卢艾·贝鲁泰，一名美籍巴勒斯坦人；他本月早些时候引发了关注。"
+    },
+    {
+      "id": 36,
+      "startMs": 209160,
+      "endMs": 215480,
+      "en": "He flew back from the US to protect his house, and he was telling me that this incident happened close to his house.",
+      "zh": "他从美国飞回来保护自己的房子，并告诉我这起事件发生在离他家不远的地方。"
+    },
+    {
+      "id": 37,
+      "startMs": 215480,
+      "endMs": 218520,
+      "en": "He reckoned around 40 settlers had started throwing rocks.",
+      "zh": "他估计约有40名定居者开始投掷石块。"
+    },
+    {
+      "id": 38,
+      "startMs": 219000,
+      "endMs": 224360,
+      "en": "He did alert the Israel Defense Forces, who dispatched vehicles and tear gas.",
+      "zh": "他确实通知了以色列国防军，军方派出了车辆并发射催泪瓦斯。"
+    },
+    {
+      "id": 39,
+      "startMs": 224440,
+      "endMs": 229160,
+      "en": "And the IDF has said that they were dispatched after there were violent clashes that had occurred.",
+      "zh": "以色列国防军称，这些力量是在发生暴力冲突后被派出的。"
+    },
+    {
+      "id": 40,
+      "startMs": 229560,
+      "endMs": 238680,
+      "en": "And security forces also identified rioters, some who'd barricaded themselves inside a Palestinian home while some residents were inside.",
+      "zh": "安全部队还确认了暴徒，其中一些人把自己堵在一所巴勒斯坦人的房子里，当时一些居民也在屋内。"
+    },
+    {
+      "id": 41,
+      "startMs": 238680,
+      "endMs": 243240,
+      "en": "But there was also a separate incident in the town of Jalud.",
+      "zh": "但贾卢德镇还发生了另一起事件。"
+    },
+    {
+      "id": 42,
+      "startMs": 243240,
+      "endMs": 249960,
+      "en": "Some foreign journalists were injured after masked settlers attacked them as well.",
+      "zh": "蒙面定居者也袭击了外国记者，导致其中一些人受伤。"
+    },
+    {
+      "id": 43,
+      "startMs": 250880,
+      "endMs": 257520,
+      "en": "And what's really rare about this is that there has been condemnation of the settlers by the prime minister of Israel.",
+      "zh": "这件事真正罕见之处在于，以色列总理竟然谴责了这些定居者。"
+    },
+    {
+      "id": 44,
+      "startMs": 258780,
+      "endMs": 265420,
+      "en": "Yeah, that's right. So, the prime minister, Benjamin Netanyahu, said that he has strongly condemned these acts.",
+      "zh": "是的，确实如此。以色列总理本雅明·内塔尼亚胡说，他强烈谴责这些行为。"
+    },
+    {
+      "id": 45,
+      "startMs": 265420,
+      "endMs": 273820,
+      "en": "He said it was a handful of rioters violating the law and causing a grave injustice to the law-abiding Jewish community.",
+      "zh": "他说，这是少数暴徒违反法律，给遵纪守法的犹太社群造成严重不公。"
+    },
+    {
+      "id": 46,
+      "startMs": 273900,
+      "endMs": 280860,
+      "en": "That was also followed by President Herzog, who said that he condemned these incidents.",
+      "zh": "随后，赫尔佐格总统也发表声明，称他谴责这些事件。"
+    },
+    {
+      "id": 47,
+      "startMs": 281260,
+      "endMs": 287260,
+      "en": "They were in complete violation of the laws and values of the state of Israel.",
+      "zh": "这些事件完全违背以色列国的法律和价值观。"
+    },
+    {
+      "id": 48,
+      "startMs": 287260,
+      "endMs": 291420,
+      "en": "So, you know, all settlements are illegal under international law.",
+      "zh": "所以，所有定居点都违反国际法。"
+    },
+    {
+      "id": 49,
+      "startMs": 291820,
+      "endMs": 295180,
+      "en": "These outposts, they're also illegal under Israeli law.",
+      "zh": "这些前哨定居点也违反以色列法律。"
+    },
+    {
+      "id": 50,
+      "startMs": 295740,
+      "endMs": 301500,
+      "en": "But quite often they're also supported by state services and funding, and…",
+      "zh": "但它们往往也得到国家服务和资金支持，而且……"
+    },
+    {
+      "id": 51,
+      "startMs": 301580,
+      "endMs": 306380,
+      "en": "Kind of, this condemnation certainly is not something that we see all the time.",
+      "zh": "这种谴责确实不是我们经常看到的。"
+    },
+    {
+      "id": 52,
+      "startMs": 307020,
+      "endMs": 315660,
+      "en": "Do you think it's international pressure too, given US ambassador to Israel Mike Huckabee, a strong supporter, criticised these settlers?",
+      "zh": "鉴于一直非常支持以色列的美国驻以色列大使迈克·赫卡比批评过这些定居者，你认为这也与国际压力有关吗？"
+    },
+    {
+      "id": 53,
+      "startMs": 315740,
+      "endMs": 322160,
+      "en": "Do you think Mr Netanyahu is worried about how the international community is viewing Israel?",
+      "zh": "你认为内塔尼亚胡先生担心国际社会如何看待以色列吗？"
+    },
+    {
+      "id": 54,
+      "startMs": 322160,
+      "endMs": 327680,
+      "en": "Yeah, I mean, given that there's been this sharp rise in the expansion of settlements,",
+      "zh": "是的，我的意思是，鉴于定居点扩张急剧增加，"
+    },
+    {
+      "id": 55,
+      "startMs": 327680,
+      "endMs": 336080,
+      "en": "we've definitely seen a huge rise, especially since the attack from Hamas on Israel in October 2023.",
+      "zh": "我们确实看到数量大幅上升，尤其是自2023年10月哈马斯袭击以色列以来。"
+    },
+    {
+      "id": 56,
+      "startMs": 336080,
+      "endMs": 338960,
+      "en": "You know, the number of settlements has definitely increased.",
+      "zh": "定居点的数量确实增加了。"
+    },
+    {
+      "id": 57,
+      "startMs": 339360,
+      "endMs": 341680,
+      "en": "There has been a condemnation.",
+      "zh": "已经出现了谴责。"
+    },
+    {
+      "id": 58,
+      "startMs": 342080,
+      "endMs": 348880,
+      "en": "Benjamin Netanyahu is facing elections in the next month or so, clearly under pressure.",
+      "zh": "本雅明·内塔尼亚胡将在大约一个月后面临选举，显然承受着压力。"
+    },
+    {
+      "id": 59,
+      "startMs": 349200,
+      "endMs": 357520,
+      "en": "And given that they are illegal under international law, it certainly doesn't make Israel look very good, especially right now.",
+      "zh": "而且鉴于这些定居点在国际法下属非法，这显然让以色列的形象很不好，尤其是在现在这个时候。"
+    },
+    {
+      "id": 60,
+      "startMs": 357520,
+      "endMs": 361280,
+      "en": "So, you know, there has been a condemnation pretty broadly,",
+      "zh": "所以，正如你所知，已经有相当广泛的谴责，"
+    },
+    {
+      "id": 61,
+      "startMs": 361280,
+      "endMs": 365760,
+      "en": "but the fact that it's been seen here in Israel as well, which is not so common, I think says a lot.",
+      "zh": "但这种谴责也在以色列国内出现了，这并不常见，我认为这说明了很多问题。"
+    },
+    {
+      "id": 62,
+      "startMs": 365920,
+      "endMs": 367360,
+      "en": "Katie Watson in Jerusalem.",
+      "zh": "耶路撒冷的凯蒂·沃森报道。"
+    },
+    {
+      "id": 63,
+      "startMs": 368000,
+      "endMs": 373920,
+      "en": "As rescue efforts continue to find survivors of the catastrophic floods in Nepal and Tibet,",
+      "zh": "随着救援行动继续寻找尼泊尔和西藏灾难性洪灾的幸存者，"
+    },
+    {
+      "id": 64,
+      "startMs": 373920,
+      "endMs": 378240,
+      "en": "relatives are struggling to identify the victims of the disaster.",
+      "zh": "亲属们正努力辨认灾难遇难者的身份。"
+    },
+    {
+      "id": 65,
+      "startMs": 378900,
+      "endMs": 385700,
+      "en": "Nearly 700 bodies have been recovered so far, but more than 3,000 people are still missing.",
+      "zh": "目前已经找到近700具遗体，但仍有超过3000人失踪。"
+    },
+    {
+      "id": 66,
+      "startMs": 386180,
+      "endMs": 390020,
+      "en": "Severe weather is making it difficult for helicopters to reach survivors,",
+      "zh": "恶劣天气使直升机难以抵达幸存者身边，"
+    },
+    {
+      "id": 67,
+      "startMs": 390020,
+      "endMs": 394500,
+      "en": "and emergency services are struggling to reach mountain communities by land.",
+      "zh": "紧急服务部门也难以通过陆路抵达山区社区。"
+    },
+    {
+      "id": 68,
+      "startMs": 394980,
+      "endMs": 399060,
+      "en": "Families are gathering at morgues, hospitals, and army bases across the region",
+      "zh": "各地家庭聚集在太平间、医院和军营，"
+    },
+    {
+      "id": 69,
+      "startMs": 399380,
+      "endMs": 401700,
+      "en": "in the hope of hearing news of their loved ones.",
+      "zh": "希望听到亲人的消息。"
+    },
+    {
+      "id": 70,
+      "startMs": 402100,
+      "endMs": 405380,
+      "en": "Our correspondent, Azadeh Moshiri, reports from Kathmandu.",
+      "zh": "本台记者阿扎德·莫希里从加德满都报道。"
+    },
+    {
+      "id": 71,
+      "startMs": 406120,
+      "endMs": 410280,
+      "en": "An agonising search for answers.",
+      "zh": "一场痛苦的寻人。"
+    },
+    {
+      "id": 72,
+      "startMs": 410840,
+      "endMs": 414440,
+      "en": "On a mortuary wall, pictures of the bodies that have been recovered.",
+      "zh": "太平间的墙上贴着已找到的遗体照片。"
+    },
+    {
+      "id": 73,
+      "startMs": 415680,
+      "endMs": 418080,
+      "en": "Men, women, infants.",
+      "zh": "有男人、女人和婴儿。"
+    },
+    {
+      "id": 74,
+      "startMs": 418560,
+      "endMs": 422720,
+      "en": "The injuries so graphic, some of the faces are unrecognisable.",
+      "zh": "伤势如此惨烈，有些面孔已经无法辨认。"
+    },
+    {
+      "id": 75,
+      "startMs": 423520,
+      "endMs": 428800,
+      "en": "Poster to poster, Moti Raj tries to find his uncle.",
+      "zh": "莫蒂·拉杰一张张查看海报，试图找到他的叔叔。"
+    },
+    {
+      "id": 76,
+      "startMs": 429280,
+      "endMs": 431360,
+      "en": "Police believe they've matched him to a photo.",
+      "zh": "警方认为他们已经从照片中认出了他。"
+    },
+    {
+      "id": 77,
+      "startMs": 432000,
+      "endMs": 438000,
+      "en": "“Actually, we don't know,” he says. With little information from the authorities, he took the search into his own hands.",
+      "zh": "“其实我们不知道。”他说，由于当局提供的信息很少，他只好亲自寻找。"
+    },
+    {
+      "id": 78,
+      "startMs": 438240,
+      "endMs": 439920,
+      "en": "I mean, they say it's…",
+      "zh": "我的意思是，他们说是……"
+    },
+    {
+      "id": 79,
+      "startMs": 440400,
+      "endMs": 443840,
+      "en": "66-year-old Ram Bahadur was a British Army officer.",
+      "zh": "66岁的拉姆·巴哈杜尔曾是英国陆军军官。"
+    },
+    {
+      "id": 80,
+      "startMs": 444240,
+      "endMs": 447040,
+      "en": "The bus he was travelling on washed away in the flood.",
+      "zh": "他乘坐的巴士在洪水中被冲走。"
+    },
+    {
+      "id": 81,
+      "startMs": 447040,
+      "endMs": 452240,
+      "en": "Moti Raj gave police the last known location of his mobile phone.",
+      "zh": "莫蒂·拉杰把手机最后已知的位置告诉了警方。"
+    },
+    {
+      "id": 82,
+      "startMs": 452640,
+      "endMs": 455840,
+      "en": "They told him it matches the area where that body was found.",
+      "zh": "警方告诉他，那个位置与发现遗体的区域相符。"
+    },
+    {
+      "id": 83,
+      "startMs": 455840,
+      "endMs": 458640,
+      "en": "So he was working in a hydro tunnel? Yes, he's working in hydro…",
+      "zh": "所以，他当时是在水电隧道里工作吗？是的，他在水电工程里工作……"
+    },
+    {
+      "id": 84,
+      "startMs": 461120,
+      "endMs": 463040,
+      "en": "Others have no word from the authorities.",
+      "zh": "其他人没有得到当局的任何消息。"
+    },
+    {
+      "id": 85,
+      "startMs": 463440,
+      "endMs": 465520,
+      "en": "They've come here desperate for news.",
+      "zh": "他们怀着迫切的心情来到这里等消息。"
+    },
+    {
+      "id": 86,
+      "startMs": 466160,
+      "endMs": 470160,
+      "en": "Ashok's brother, Harish, is one of the hundreds of people trapped in tunnels.",
+      "zh": "阿肖克的弟弟哈里什，是数百名被困在隧道中的人之一。"
+    },
+    {
+      "id": 87,
+      "startMs": 470560,
+      "endMs": 475200,
+      "en": "There's no information on how many people are still alive.",
+      "zh": "没有信息表明还有多少人活着。"
+    },
+    {
+      "id": 88,
+      "startMs": 475380,
+      "endMs": 479780,
+      "en": "Or what state they are in. There is no credible information.",
+      "zh": "也不知道他们处于什么状态。没有可信的信息。"
+    },
+    {
+      "id": 89,
+      "startMs": 480340,
+      "endMs": 483060,
+      "en": "All they tell us is that rescue is continuing.",
+      "zh": "他们只告诉我们救援仍在继续。"
+    },
+    {
+      "id": 90,
+      "startMs": 484800,
+      "endMs": 488960,
+      "en": "Small cries beneath the rubble.",
+      "zh": "瓦砾下传来微弱的哭声。"
+    },
+    {
+      "id": 91,
+      "startMs": 489600,
+      "endMs": 493040,
+      "en": "Amid the devastation, hope still surfaces.",
+      "zh": "在满目疮痍之中，希望仍然浮现。"
+    },
+    {
+      "id": 92,
+      "startMs": 494480,
+      "endMs": 500080,
+      "en": "“Child, don't be scared,” the rescuers say.",
+      "zh": "“孩子，别害怕。”救援人员说道。"
+    },
+    {
+      "id": 93,
+      "startMs": 502100,
+      "endMs": 505940,
+      "en": "For days, Manisha has been lying here.",
+      "zh": "玛尼莎已经躺在这里好几天了。"
+    },
+    {
+      "id": 94,
+      "startMs": 508340,
+      "endMs": 511700,
+      "en": "She is now recovering in hospital, according to the police.",
+      "zh": "警方称，她目前正在医院康复。"
+    },
+    {
+      "id": 95,
+      "startMs": 512340,
+      "endMs": 517540,
+      "en": "Manisha is just one of the thousands who've been saved.",
+      "zh": "玛尼莎只是数千名获救者中的一员。"
+    },
+    {
+      "id": 96,
+      "startMs": 519800,
+      "endMs": 528360,
+      "en": "While emergency operations continue, Nepal is on high alert, wary of more flooding and grappling with the chaos of the aftermath.",
+      "zh": "紧急行动仍在继续，尼泊尔处于高度警戒状态，警惕更多洪水，并努力应对灾后混乱。"
+    },
+    {
+      "id": 97,
+      "startMs": 529080,
+      "endMs": 530760,
+      "en": "Azadeh Moshiri in Nepal.",
+      "zh": "阿扎德·莫希里在尼泊尔报道。"
+    },
+    {
+      "id": 98,
+      "startMs": 531160,
+      "endMs": 535480,
+      "en": "Thirty-seven people have been killed in Ukraine after a Russian drone strike,",
+      "zh": "乌克兰有37人丧生，一架俄罗斯无人机发动袭击，"
+    },
+    {
+      "id": 99,
+      "startMs": 535480,
+      "endMs": 540600,
+      "en": "hitting a warehouse storing ammunition near a residential area on the outskirts of Kyiv.",
+      "zh": "击中了基辅郊外住宅区附近一座存放弹药的仓库。"
+    },
+    {
+      "id": 100,
+      "startMs": 540920,
+      "endMs": 545080,
+      "en": "More than a hundred houses were damaged and 400 families evacuated.",
+      "zh": "一百多所房屋受损，400个家庭撤离。"
+    },
+    {
+      "id": 101,
+      "startMs": 545480,
+      "endMs": 550920,
+      "en": "President Zelenskyy said it was horrific negligence to store deadly explosives near civilians.",
+      "zh": "泽连斯基总统说，在平民附近储存致命炸药是骇人听闻的疏忽。"
+    },
+    {
+      "id": 102,
+      "startMs": 551320,
+      "endMs": 555080,
+      "en": "Our Ukraine correspondent, Dan Johnson, reports from the village of Myla.",
+      "zh": "本台驻乌克兰记者丹·约翰逊从米拉村报道。"
+    },
+    {
+      "id": 103,
+      "startMs": 555400,
+      "endMs": 561960,
+      "en": "Emergency teams spent the day searching for casualties and dealing with unexploded munitions scattered across the neighbourhood.",
+      "zh": "应急队伍花了一整天寻找伤亡者，并处理散落在社区各处的未爆弹药。"
+    },
+    {
+      "id": 104,
+      "startMs": 564300,
+      "endMs": 570060,
+      "en": "The Pavlenko family home is just 200 metres from the ammunition warehouse, but they had no idea.",
+      "zh": "帕夫连科一家的房子距离弹药仓库仅200米，但他们对此毫不知情。"
+    },
+    {
+      "id": 105,
+      "startMs": 572320,
+      "endMs": 576160,
+      "en": "In the pumpkin patch here, there's a magazine of bullet casings.",
+      "zh": "这里的南瓜地里有一堆弹壳。"
+    },
+    {
+      "id": 106,
+      "startMs": 576240,
+      "endMs": 583600,
+      "en": "This looks like a whole stash that's been blown with the force of these explosions from this warehouse into the garden,",
+      "zh": "这看起来是一整批弹药，被仓库爆炸的冲击力炸进了花园，"
+    },
+    {
+      "id": 107,
+      "startMs": 583600,
+      "endMs": 589600,
+      "en": "and that's perhaps what started the fire that has destroyed the outhouse and caused so much damage to this home.",
+      "zh": "这或许就是引发火灾的原因，火灾烧毁了厕所，也给这所房子造成了严重损毁。"
+    },
+    {
+      "id": 108,
+      "startMs": 590320,
+      "endMs": 598160,
+      "en": "Liubov showed me around the ruined remains of their home,",
+      "zh": "柳博芙带我看了看他们房屋的残骸，"
+    },
+    {
+      "id": 109,
+      "startMs": 598400,
+      "endMs": 600480,
+      "en": "Shattered glass and splintered wood.",
+      "zh": "碎玻璃和断裂的木头。"
+    },
+    {
+      "id": 110,
+      "startMs": 600480,
+      "endMs": 605200,
+      "en": "I'm still kind of numb. I don't know.",
+      "zh": "我仍然有些麻木。我不知道。"
+    },
+    {
+      "id": 111,
+      "startMs": 606000,
+      "endMs": 609200,
+      "en": "Once I come around a little tomorrow, I'll probably have an even bigger breakdown.",
+      "zh": "明天稍微缓过来之后，我可能会彻底崩溃。"
+    },
+    {
+      "id": 112,
+      "startMs": 610240,
+      "endMs": 611920,
+      "en": "Who do you hold responsible for this?",
+      "zh": "你认为谁应该为此负责？"
+    },
+    {
+      "id": 113,
+      "startMs": 612400,
+      "endMs": 617520,
+      "en": "Who? Russia, their government, the people, Russians themselves.",
+      "zh": "谁？俄罗斯、俄罗斯政府、俄罗斯人民，就是俄罗斯人自己。"
+    },
+    {
+      "id": 114,
+      "startMs": 621000,
+      "endMs": 627400,
+      "en": "A Russian drone hit the warehouse, detonating stacks of ammunition and damaging 130 nearby homes.",
+      "zh": "一架俄罗斯无人机击中仓库，引爆成堆弹药，并损坏附近130所房屋。"
+    },
+    {
+      "id": 115,
+      "startMs": 627800,
+      "endMs": 631640,
+      "en": "President Zelenskyy said munitions should never be stored in residential areas,",
+      "zh": "泽连斯基总统说，绝不应在住宅区储存弹药，"
+    },
+    {
+      "id": 116,
+      "startMs": 631880,
+      "endMs": 635800,
+      "en": "but he referenced a similar incident last month, which killed seven people.",
+      "zh": "但他提到上个月发生过类似事件，造成7人死亡。"
+    },
+    {
+      "id": 117,
+      "startMs": 636200,
+      "endMs": 638520,
+      "en": "Two defence company bosses are being questioned.",
+      "zh": "两家国防公司的负责人正在接受询问。"
+    },
+    {
+      "id": 118,
+      "startMs": 639000,
+      "endMs": 644920,
+      "en": "The president said another such crime was unacceptable and allegations of criminal negligence are being investigated.",
+      "zh": "总统说，再发生这样的罪行是不可接受的，目前正在调查刑事疏忽的指控。"
+    },
+    {
+      "id": 119,
+      "startMs": 645160,
+      "endMs": 653560,
+      "en": "The first strike hit an ammunition storage facility, one that definitely shouldn't have been there, belonging to the defence forces.",
+      "zh": "第一次袭击击中了一处弹药储存设施，那处设施属于国防军，显然不该设在那里。"
+    },
+    {
+      "id": 120,
+      "startMs": 653720,
+      "endMs": 656920,
+      "en": "It detonated shells, mines, other ammunition and drones.",
+      "zh": "爆炸引爆了炮弹、地雷、其他弹药和无人机。"
+    },
+    {
+      "id": 121,
+      "startMs": 657320,
+      "endMs": 658120,
+      "en": "The scale is significant.",
+      "zh": "爆炸规模十分严重。"
+    },
+    {
+      "id": 122,
+      "startMs": 662180,
+      "endMs": 666100,
+      "en": "And here there is anger. We met Borys Danyliuk, whose home was hit.",
+      "zh": "这里弥漫着愤怒。我们见到了鲍里斯·丹尼柳克，他的房子被击中。"
+    },
+    {
+      "id": 123,
+      "startMs": 666180,
+      "endMs": 669060,
+      "en": "Why weren't precautions taken…",
+      "zh": "为什么没有采取预防措施……"
+    },
+    {
+      "id": 124,
+      "startMs": 669060,
+      "endMs": 676580,
+      "en": "There? Why? What were they thinking? The authorities, the Ministry of Defence—why was this allowed at the warehouse",
+      "zh": "在那里？为什么？他们在想什么？当局、国防部，为什么会允许仓库设在"
+    },
+    {
+      "id": 125,
+      "startMs": 676820,
+      "endMs": 678900,
+      "en": "in a place where they used to store food?",
+      "zh": "一个他们曾用来储存食物的地方？"
+    },
+    {
+      "id": 126,
+      "startMs": 679060,
+      "endMs": 682180,
+      "en": "Did you know you were living so close to an ammunition store?",
+      "zh": "你知道自己住得离弹药库这么近吗？"
+    },
+    {
+      "id": 127,
+      "startMs": 682180,
+      "endMs": 686820,
+      "en": "There was no information at all. None whatsoever.",
+      "zh": "一点信息都没有，完全没有。"
+    },
+    {
+      "id": 128,
+      "startMs": 687540,
+      "endMs": 691620,
+      "en": "Four hundred families have been moved from their homes as the clear-up continues.",
+      "zh": "随着清理工作继续，400个家庭已搬离家园。"
+    },
+    {
+      "id": 129,
+      "startMs": 691620,
+      "endMs": 694980,
+      "en": "Kyiv has come under relentless Russian attack over the past 48 hours,",
+      "zh": "过去48小时，基辅持续遭到俄军猛烈袭击，"
+    },
+    {
+      "id": 130,
+      "startMs": 695620,
+      "endMs": 700660,
+      "en": "but this incident leaves people questioning Ukraine's responsibility for keeping its people safe.",
+      "zh": "但这起事件让人们质疑乌克兰保障民众安全的责任。"
+    },
+    {
+      "id": 131,
+      "startMs": 701060,
+      "endMs": 707620,
+      "en": "Dan Johnson. The new king of Norway, Haakon VIII, has given his first public speech since taking the throne.",
+      "zh": "丹·约翰逊报道。挪威新国王哈康八世发表了登基以来的首次公开演讲。"
+    },
+    {
+      "id": 132,
+      "startMs": 708100,
+      "endMs": 713140,
+      "en": "His father, King Harald, died on Friday after reigning for more than 35 years.",
+      "zh": "他的父亲哈拉尔国王于周五去世，统治挪威超过35年。"
+    },
+    {
+      "id": 133,
+      "startMs": 713700,
+      "endMs": 721140,
+      "en": "The new monarch paid tribute to his father, describing him as generous and kind, and also praised Norway's welfare state.",
+      "zh": "新国王致敬父亲，称他慷慨而善良，并赞扬挪威的福利国家。"
+    },
+    {
+      "id": 134,
+      "startMs": 721380,
+      "endMs": 724600,
+      "en": "But he warned that uncertain times lie ahead.",
+      "zh": "但他警告说，前方是不确定的时代。"
+    },
+    {
+      "id": 135,
+      "startMs": 724920,
+      "endMs": 734520,
+      "en": "The world today has become more unstable and unpredictable than it was during most of King Harald's reign.",
+      "zh": "如今的世界比哈拉尔国王统治的大部分时期更加动荡、难以预测。"
+    },
+    {
+      "id": 136,
+      "startMs": 735080,
+      "endMs": 740760,
+      "en": "This affects us here in Norway as well and has brought a new uncertainty to our lives.",
+      "zh": "这也影响着挪威，给我们的生活带来了新的不确定性。"
+    },
+    {
+      "id": 137,
+      "startMs": 741320,
+      "endMs": 745080,
+      "en": "Now that my father has passed away, a huge task awaits me.",
+      "zh": "如今父亲已经去世，一项艰巨的任务正等待着我。"
+    },
+    {
+      "id": 138,
+      "startMs": 745240,
+      "endMs": 752760,
+      "en": "Norway's royal family doesn't have any political power. However, they're seen as an important symbol of national unity.",
+      "zh": "挪威王室没有政治权力，但被视为国家团结的重要象征。"
+    },
+    {
+      "id": 139,
+      "startMs": 753240,
+      "endMs": 759960,
+      "en": "King Harald's final years, though, were often overshadowed by controversies involving members of the wider royal family",
+      "zh": "不过，哈拉尔国王晚年常因更广泛王室成员的争议而蒙上阴影，"
+    },
+    {
+      "id": 140,
+      "startMs": 760120,
+      "endMs": 765400,
+      "en": "as Norwegian journalist Lars Bevanger explains. The support for the monarchy is pretty solid.",
+      "zh": "挪威记者拉斯·贝文格解释道。民众对君主制的支持相当稳固。"
+    },
+    {
+      "id": 141,
+      "startMs": 765400,
+      "endMs": 767960,
+      "en": "It took a dip around February",
+      "zh": "这种支持在二月左右有所下降，"
+    },
+    {
+      "id": 142,
+      "startMs": 768120,
+      "endMs": 776760,
+      "en": "when it really became quite clear the extent of the now Crown Princess Mette-Marit's relationship with deceased financier Jeffrey Epstein.",
+      "zh": "当时人们终于清楚地了解到，现任王储妃梅特-玛丽特与已故金融家杰弗里·爱泼斯坦关系的程度。"
+    },
+    {
+      "id": 143,
+      "startMs": 776760,
+      "endMs": 783980,
+      "en": "At the same time as the trial against her son from a previous relationship, Marius Borg Høiby, also started.",
+      "zh": "与此同时，她与前任伴侣所生的儿子马吕斯·博格·赫伊比也开始接受审判。"
+    },
+    {
+      "id": 144,
+      "startMs": 784140,
+      "endMs": 790060,
+      "en": "Support for the monarch, the late king, was never in question; that never really dipped,",
+      "zh": "人们对这位君主、已故国王的支持从未受到质疑，也从未真正下降，"
+    },
+    {
+      "id": 145,
+      "startMs": 790300,
+      "endMs": 794300,
+      "en": "and the new king has also enjoyed quite a lot of sympathy.",
+      "zh": "而新国王也获得了相当多的同情与支持。"
+    },
+    {
+      "id": 146,
+      "startMs": 794300,
+      "endMs": 801100,
+      "en": "So, I don't think we're looking at a sort of a push for a constitutional change away from a monarchy in Norway.",
+      "zh": "所以，我不认为挪威正出现要求通过宪法改革、放弃君主制的趋势。"
+    },
+    {
+      "id": 147,
+      "startMs": 801100,
+      "endMs": 805100,
+      "en": "But again, who knows what the future brings? Things change quickly sometimes.",
+      "zh": "但话说回来，谁知道未来会带来什么？世事有时变化很快。"
+    },
+    {
+      "id": 148,
+      "startMs": 805340,
+      "endMs": 810060,
+      "en": "So I think the royals are aware of this, and then they will have to work with the time,",
+      "zh": "所以我认为王室意识到了这一点，他们必须与时俱进，"
+    },
+    {
+      "id": 149,
+      "startMs": 810060,
+      "endMs": 815340,
+      "en": "and of course, they will have to do what the people through parliament decides in the end.",
+      "zh": "当然，他们最终必须按照民众通过议会作出的决定行事。"
+    },
+    {
+      "id": 150,
+      "startMs": 815980,
+      "endMs": 817580,
+      "en": "Lars Bevanger in Oslo.",
+      "zh": "拉斯·贝文格在奥斯陆报道。"
+    },
+    {
+      "id": 151,
+      "startMs": 820300,
+      "endMs": 825420,
+      "en": "Still to come in this podcast, it appears that he's injured a vertebra and a collarbone.",
+      "zh": "本期节目稍后还将报道：他似乎伤到了椎骨和锁骨。"
+    },
+    {
+      "id": 152,
+      "startMs": 825500,
+      "endMs": 830860,
+      "en": "They will derail the rest of his season, but I hope that they won't have much further consequences other than that.",
+      "zh": "这会让他本赛季剩余时间报销，但我希望除此之外不会造成更严重的后果。"
+    },
+    {
+      "id": 153,
+      "startMs": 831340,
+      "endMs": 835020,
+      "en": "How a stone on the road derailed a cycling champion.",
+      "zh": "一块路上的石头如何让自行车冠军的征程脱轨。"
+    },
+    {
+      "id": 154,
+      "startMs": 835020,
+      "endMs": 837260,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 155,
+      "startMs": 837740,
+      "endMs": 840620,
+      "en": "Lake Ontario, Now and Always.",
+      "zh": "安大略湖，今后永远如此。"
+    },
+    {
+      "id": 156,
+      "startMs": 841020,
+      "endMs": 845740,
+      "en": "The words on a huge sign just unveiled on the shores of Lake Ontario",
+      "zh": "这是安大略湖岸边刚刚揭幕的一块巨型标牌上的文字，"
+    },
+    {
+      "id": 157,
+      "startMs": 845820,
+      "endMs": 848300,
+      "en": "on the border between Canada and the US.",
+      "zh": "地点在加拿大与美国交界处。"
+    },
+    {
+      "id": 158,
+      "startMs": 848780,
+      "endMs": 853900,
+      "en": "It's been put there in response to President Trump's executive order on Thursday renaming it",
+      "zh": "这是为回应特朗普总统周四发布的行政命令而设置的；该命令将湖泊改名为"
+    },
+    {
+      "id": 159,
+      "startMs": 854060,
+      "endMs": 860300,
+      "en": "Lake America, apparently in retaliation for Canada's walkout in failed trade negotiations.",
+      "zh": "“美洲湖”，显然是为了报复加拿大退出失败的贸易谈判。"
+    },
+    {
+      "id": 160,
+      "startMs": 860700,
+      "endMs": 865500,
+      "en": "The premier of the Canadian province of Ontario, Doug Ford, had this message.",
+      "zh": "加拿大安大略省省长道格·福特这样表示。"
+    },
+    {
+      "id": 161,
+      "startMs": 865740,
+      "endMs": 870300,
+      "en": "It's always going to be Lake Ontario. Now and forever,",
+      "zh": "它永远都会是安大略湖。现在如此，永远如此，"
+    },
+    {
+      "id": 162,
+      "startMs": 870620,
+      "endMs": 872860,
+      "en": "President Trump can call it whatever he wants, but",
+      "zh": "特朗普总统想怎么称呼都可以，但是"
+    },
+    {
+      "id": 163,
+      "startMs": 873180,
+      "endMs": 879260,
+      "en": "I can tell you the rest of the world will always call it Lake Ontario, and obviously Canada is always going to call it Lake Ontario.",
+      "zh": "我可以告诉你，世界其他地方永远都会称它为安大略湖，显然加拿大也永远会这么称呼。"
+    },
+    {
+      "id": 164,
+      "startMs": 879500,
+      "endMs": 881900,
+      "en": "So that's our message to President Trump:",
+      "zh": "所以，这就是我们对特朗普总统要说的话："
+    },
+    {
+      "id": 165,
+      "startMs": 882140,
+      "endMs": 888540,
+      "en": "we're resilient and we're strong Canadians, and we're always going to protect our sovereignty, always,",
+      "zh": "我们坚韧不屈，是强大的加拿大人，我们永远会捍卫自己的主权，永远如此，"
+    },
+    {
+      "id": 166,
+      "startMs": 889340,
+      "endMs": 891740,
+      "en": "and we'll never ever back down from a bully, ever.",
+      "zh": "我们绝不会向霸凌者低头，永远不会。"
+    },
+    {
+      "id": 167,
+      "startMs": 891980,
+      "endMs": 895260,
+      "en": "I've been hearing more from our North America correspondent, Peter Bowes.",
+      "zh": "下面请北美记者彼得·鲍斯进一步介绍。"
+    },
+    {
+      "id": 168,
+      "startMs": 895500,
+      "endMs": 899020,
+      "en": "It is something of a sideshow; the main issue here is the tariffs",
+      "zh": "这多少有点像插曲，真正的核心问题是关税，"
+    },
+    {
+      "id": 169,
+      "startMs": 899020,
+      "endMs": 908300,
+      "en": "between the two countries and those trade negotiations that have, at least for the time being, completely collapsed. Many people…",
+      "zh": "以及两国之间的贸易谈判；至少目前，谈判已经彻底破裂。许多人……"
+    },
+    {
+      "id": 170,
+      "startMs": 908300,
+      "endMs": 914780,
+      "en": "Around America, especially, I think, people are quite bemused by President Trump's actions, and it is true",
+      "zh": "尤其是在美国各地，我认为人们相当困惑于特朗普总统的做法，而确实如此"
+    },
+    {
+      "id": 171,
+      "startMs": 914780,
+      "endMs": 921580,
+      "en": "that this edict, this order of the president, only applies to America, in much the same way as",
+      "zh": "这项总统的法令、这道命令只适用于美国，就像总统把墨西哥湾"
+    },
+    {
+      "id": 172,
+      "startMs": 921580,
+      "endMs": 925180,
+      "en": "the president renamed the Gulf of Mexico the Gulf of America.",
+      "zh": "改名为美国湾一样。"
+    },
+    {
+      "id": 173,
+      "startMs": 925180,
+      "endMs": 934960,
+      "en": "So it may be referred to as Lake America within these shores, but as we've just heard, it certainly won't be elsewhere.",
+      "zh": "所以在美国境内或许可以称为‘美国湖’，但正如我们刚才听到的，在其他地方肯定不会这样称呼。"
+    },
+    {
+      "id": 174,
+      "startMs": 935200,
+      "endMs": 940240,
+      "en": "Whether it makes any difference to the issue at stake, and that is trying to resolve",
+      "zh": "这是否会影响当前的问题——也就是试图解决"
+    },
+    {
+      "id": 175,
+      "startMs": 940240,
+      "endMs": 946320,
+      "en": "the now wide differences between the two countries, I think it seems extremely unlikely.",
+      "zh": "我认为如今两国之间的巨大分歧？我觉得这似乎极不可能。"
+    },
+    {
+      "id": 176,
+      "startMs": 946480,
+      "endMs": 951120,
+      "en": "And the Canadian Prime Minister, Mark Carney, determined to stand up to Donald Trump?",
+      "zh": "加拿大总理马克·卡尼决心对抗唐纳德·特朗普吗？"
+    },
+    {
+      "id": 177,
+      "startMs": 951200,
+      "endMs": 957920,
+      "en": "It is a high-risk policy because I think if you look at this on paper, the United States has an advantage",
+      "zh": "这是一项高风险政策，因为我认为若从表面看，美国占据优势，"
+    },
+    {
+      "id": 178,
+      "startMs": 957920,
+      "endMs": 963840,
+      "en": "because Canada is profoundly reliant on this country and its marketplace.",
+      "zh": "因为加拿大高度依赖这个国家及其市场。"
+    },
+    {
+      "id": 179,
+      "startMs": 963840,
+      "endMs": 971360,
+      "en": "The US, I think, does have something to lose as well, especially those states that rely heavily on Canada for trade.",
+      "zh": "不过我认为，美国也确实有所损失，尤其是那些高度依赖加拿大进行贸易的州。"
+    },
+    {
+      "id": 180,
+      "startMs": 971520,
+      "endMs": 976400,
+      "en": "So this is to some extent a power struggle. It's a political struggle, a war of words.",
+      "zh": "所以这在某种程度上是一场权力斗争，也是一场政治斗争、一场口水战。"
+    },
+    {
+      "id": 181,
+      "startMs": 976720,
+      "endMs": 982880,
+      "en": "And yes, these political gestures that we've just been seeing unfold over the last few hours are happening.",
+      "zh": "是的，我们刚才看到这些政治姿态在过去几小时里逐步展开。"
+    },
+    {
+      "id": 182,
+      "startMs": 983200,
+      "endMs": 988880,
+      "en": "But I think at the heart of this, the politics are really going to test the nerve of both countries' leaders.",
+      "zh": "但我认为，归根结底，这场政治较量将真正考验两国领导人的定力。"
+    },
+    {
+      "id": 183,
+      "startMs": 988900,
+      "endMs": 994020,
+      "en": "You mentioned there the Gulf of Mexico and Trump calling it the Gulf of America.",
+      "zh": "你提到了墨西哥湾，以及特朗普把它称为美国湾。"
+    },
+    {
+      "id": 184,
+      "startMs": 994420,
+      "endMs": 998740,
+      "en": "Now, do Americans call it the Gulf of America, and will they say Lake America?",
+      "zh": "那么，美国人会称它为美国湾吗？他们会说‘美国湖’吗？"
+    },
+    {
+      "id": 185,
+      "startMs": 998820,
+      "endMs": 1006660,
+      "en": "Well, ordinary Americans and politicians, to a large extent, I think, have views that are largely divided down party lines.",
+      "zh": "普通美国人和政界人士的看法，在很大程度上，我认为，基本上按党派立场分化。"
+    },
+    {
+      "id": 186,
+      "startMs": 1006740,
+      "endMs": 1013620,
+      "en": "Although I think it is also fair to say that many of the president's own party members have criticized him for this.",
+      "zh": "不过我认为，也可以公平地说，总统所在党派的许多成员都因此批评了他。"
+    },
+    {
+      "id": 187,
+      "startMs": 1013700,
+      "endMs": 1017620,
+      "en": "On the Democratic side, there's been some quite intense pushback.",
+      "zh": "民主党一方出现了相当强烈的反弹。"
+    },
+    {
+      "id": 188,
+      "startMs": 1017700,
+      "endMs": 1026740,
+      "en": "For example, New York's governor, whose state alone borders Lake Ontario, firmly says her administration, the New York administration,",
+      "zh": "例如，纽约州州长——美国唯一与安大略湖接壤的州——明确表示，她的政府，也就是纽约州政府，"
+    },
+    {
+      "id": 189,
+      "startMs": 1026900,
+      "endMs": 1032340,
+      "en": "will not recognize the name change and will continue calling it Lake Ontario.",
+      "zh": "不会承认这次改名，并将继续称它为安大略湖。"
+    },
+    {
+      "id": 190,
+      "startMs": 1032740,
+      "endMs": 1035700,
+      "en": "We've had other prominent politicians, like Bernie Sanders,",
+      "zh": "其他知名政界人士，比如伯尼·桑德斯，"
+    },
+    {
+      "id": 191,
+      "startMs": 1035940,
+      "endMs": 1042980,
+      "en": "say Americans focus on affordable housing and healthcare, rather than renaming landmarks.",
+      "zh": "也说美国人真正关心的是可负担住房和医疗保健，而不是给地标改名。"
+    },
+    {
+      "id": 192,
+      "startMs": 1042980,
+      "endMs": 1048740,
+      "en": "And just one other quote from Mark Kelly, another senator, another Democrat from Arizona.",
+      "zh": "再引用一段来自马克·凯利的话，他是另一位参议员，也是来自亚利桑那州的民主党人。"
+    },
+    {
+      "id": 193,
+      "startMs": 1048920,
+      "endMs": 1056620,
+      "en": "He just asked the question: How does changing the name of a lake help the American people if they can't afford their lives right now? he said.",
+      "zh": "他只是提出了这个问题：如果美国人民现在连生活都负担不起，改一座湖的名字能怎样帮助他们？他说。"
+    },
+    {
+      "id": 194,
+      "startMs": 1056860,
+      "endMs": 1061180,
+      "en": "And where are we with any kind of negotiations between the two countries?",
+      "zh": "那么，两国之间的谈判进展如何？"
+    },
+    {
+      "id": 195,
+      "startMs": 1061260,
+      "endMs": 1069020,
+      "en": "The negotiations are completely deadlocked and they are currently suspended, so there are no talks actively taking place.",
+      "zh": "谈判完全陷入僵局，目前处于暂停状态，因此没有任何会谈在积极进行。"
+    },
+    {
+      "id": 196,
+      "startMs": 1069740,
+      "endMs": 1074220,
+      "en": "And effective from a week or so's time, September the 8th,",
+      "zh": "从大约一周后的9月8日起，"
+    },
+    {
+      "id": 197,
+      "startMs": 1074220,
+      "endMs": 1080060,
+      "en": "Canada will be hitting over 700 American products with tariffs ranging from 15 to 50%.",
+      "zh": "加拿大将对700多种美国商品征收15%至50%的关税。"
+    },
+    {
+      "id": 198,
+      "startMs": 1081740,
+      "endMs": 1088380,
+      "en": "Peter Bowes. In Japan, visitors are expected to remove their footwear when entering someone's home,",
+      "zh": "彼得·鲍斯报道。在日本，访客进入他人家中时通常应脱鞋，"
+    },
+    {
+      "id": 199,
+      "startMs": 1088780,
+      "endMs": 1093980,
+      "en": "and hosts will then often turn guests' shoes towards the doorway out of politeness.",
+      "zh": "主人随后常会出于礼貌，把客人的鞋朝向门口。"
+    },
+    {
+      "id": 200,
+      "startMs": 1094460,
+      "endMs": 1101100,
+      "en": "But paramedics in the city of Kanazawa say Japan's etiquette culture has gone a step too far.",
+      "zh": "但金泽市的急救人员说，日本的礼仪文化已经走得太远了。"
+    },
+    {
+      "id": 201,
+      "startMs": 1101580,
+      "endMs": 1110620,
+      "en": "Officials released a video urging residents not to rearrange emergency responders' shoes when they arrive, insisting it isn't helpful.",
+      "zh": "官员发布视频，敦促居民不要在急救人员抵达家中时重新摆放他们的鞋，并强调这样做没有帮助。"
+    },
+    {
+      "id": 202,
+      "startMs": 1110940,
+      "endMs": 1112700,
+      "en": "Helena Burke gave me the background.",
+      "zh": "海伦娜·伯克介绍了相关背景。"
+    },
+    {
+      "id": 203,
+      "startMs": 1112960,
+      "endMs": 1120960,
+      "en": "The video was posted on Instagram by the Kanazawa Fire Department, which is in charge of emergency services in this city in central Japan.",
+      "zh": "这段视频由金泽消防部门发布在 Instagram 上，该部门负责日本中部这座城市的急救服务。"
+    },
+    {
+      "id": 204,
+      "startMs": 1121280,
+      "endMs": 1124160,
+      "en": "And it shows four paramedics entering someone's apartment.",
+      "zh": "视频显示，四名急救人员进入一套公寓。"
+    },
+    {
+      "id": 205,
+      "startMs": 1124400,
+      "endMs": 1129920,
+      "en": "They take off their shoes at the front door, then the homeowner tidies them and puts them in a straight line.",
+      "zh": "他们在前门脱下鞋子，随后屋主把鞋整理好，排成整齐的一条直线。"
+    },
+    {
+      "id": 206,
+      "startMs": 1130640,
+      "endMs": 1135760,
+      "en": "The video explains that although this is the norm in Japan, it's actually unhelpful for the paramedics to do this.",
+      "zh": "视频解释说，尽管这在日本是惯例，但急救人员这样做其实很不方便。"
+    },
+    {
+      "id": 207,
+      "startMs": 1136080,
+      "endMs": 1140400,
+      "en": "When they're trying to carry someone out of the house on a stretcher and get out of the house quickly.",
+      "zh": "当他们试图用担架把人抬出屋子并迅速离开时，"
+    },
+    {
+      "id": 208,
+      "startMs": 1140800,
+      "endMs": 1145600,
+      "en": "Putting their shoes in a certain way can make it harder to get to them and leave quickly.",
+      "zh": "把鞋这样摆放，反而会让他们更难拿到鞋，也更难迅速离开。"
+    },
+    {
+      "id": 209,
+      "startMs": 1146000,
+      "endMs": 1150480,
+      "en": "The video says residents should resist the urge to be polite and leave the shoes alone",
+      "zh": "视频说，居民需要克制住礼貌待人的冲动，不要动这些鞋，"
+    },
+    {
+      "id": 210,
+      "startMs": 1150640,
+      "endMs": 1155840,
+      "en": "because actually paramedics do put them in specific positions that make them easier for them to slip on and get out.",
+      "zh": "因为急救人员确实会把鞋放在特定位置，方便他们穿上后离开。"
+    },
+    {
+      "id": 211,
+      "startMs": 1156920,
+      "endMs": 1162680,
+      "en": "And this has sparked a debate about Japanese culture, particularly how polite people are in Japan.",
+      "zh": "这引发了关于日本文化的讨论，尤其是日本人到底有多么礼貌。"
+    },
+    {
+      "id": 212,
+      "startMs": 1162760,
+      "endMs": 1165880,
+      "en": "And I found it quite strange that paramedics take their shoes off.",
+      "zh": "我觉得急救人员脱鞋相当奇怪。"
+    },
+    {
+      "id": 213,
+      "startMs": 1165880,
+      "endMs": 1168840,
+      "en": "Because in the UK, if you call an ambulance, or the police,",
+      "zh": "因为在英国，如果你呼叫救护车，也就是报警，"
+    },
+    {
+      "id": 214,
+      "startMs": 1169160,
+      "endMs": 1172440,
+      "en": "They hurry in, and I don't think they think to take their shoes off.",
+      "zh": "他们会赶来，十分匆忙，我不认为他们会想到脱鞋。"
+    },
+    {
+      "id": 215,
+      "startMs": 1172920,
+      "endMs": 1176760,
+      "en": "It has, and that specific point has been brought up: how interesting is it that",
+      "zh": "确实如此，而且有人特别提到这一点：有趣的是，"
+    },
+    {
+      "id": 216,
+      "startMs": 1176760,
+      "endMs": 1180680,
+      "en": "even in an emergency situation, they're still so polite and so respectful",
+      "zh": "即使在紧急情况下，他们仍然如此礼貌，如此尊重"
+    },
+    {
+      "id": 217,
+      "startMs": 1180680,
+      "endMs": 1185160,
+      "en": "of the cleanliness and sanctity of someone's house that they're still taking their shoes off.",
+      "zh": "他人住宅的整洁与神圣，以至于仍然会脱下鞋子。"
+    },
+    {
+      "id": 218,
+      "startMs": 1185640,
+      "endMs": 1190040,
+      "en": "The video has now been viewed over half a million times, with many comments debating",
+      "zh": "这段视频目前已获得超过50万次观看，许多评论者也在讨论，"
+    },
+    {
+      "id": 219,
+      "startMs": 1190040,
+      "endMs": 1193640,
+      "en": "the merits and perhaps drawbacks of this politeness.",
+      "zh": "这种礼貌的优点，以及可能存在的一些弊端。"
+    },
+    {
+      "id": 220,
+      "startMs": 1194040,
+      "endMs": 1200760,
+      "en": "For a lot of Japanese people, though, this is just part of the concept of omotenashi, which roughly translates to hospitality.",
+      "zh": "不过，对许多日本人来说，这只是待客之道的一部分，omotenashi大致可译为“待客”。"
+    },
+    {
+      "id": 221,
+      "startMs": 1201080,
+      "endMs": 1209080,
+      "en": "This value says that when someone is a guest in your home, you need to treat them with care and respect, and anticipate their needs.",
+      "zh": "这种价值观认为，当有人来你家做客时，你应当悉心、尊重地招待他们，并预想到他们的需要。"
+    },
+    {
+      "id": 222,
+      "startMs": 1209080,
+      "endMs": 1211880,
+      "en": "And tidying up their shoes is part of that.",
+      "zh": "把客人的鞋整理好也是其中的一部分。"
+    },
+    {
+      "id": 223,
+      "startMs": 1212360,
+      "endMs": 1220060,
+      "en": "Birgit Staemmler, a professor of Japanese studies at Tuebingen University, says that's why this practice has become so common.",
+      "zh": "蒂宾根大学日本研究教授比尔吉特·施泰姆勒说，这就是这一做法变得如此普遍的原因。"
+    },
+    {
+      "id": 224,
+      "startMs": 1220380,
+      "endMs": 1227100,
+      "en": "If there are many people coming to the house, of course, then there are lots of shoes outside and they are quite disorderly.",
+      "zh": "当然，如果有很多人来家里，门外就会有许多鞋子，而且摆得相当杂乱。"
+    },
+    {
+      "id": 225,
+      "startMs": 1227420,
+      "endMs": 1232300,
+      "en": "And that's a newer etiquette, I think, that has to do with hospitality.",
+      "zh": "我认为，这是一种与待客有关的新式礼仪。"
+    },
+    {
+      "id": 226,
+      "startMs": 1232380,
+      "endMs": 1241900,
+      "en": "That people then create an order also of the shoes so that if you go out of the house, then you can slip into the shoes easily and get off.",
+      "zh": "人们也会把鞋子摆放整齐，这样出门时就能轻松穿上鞋离开。"
+    },
+    {
+      "id": 227,
+      "startMs": 1242300,
+      "endMs": 1246060,
+      "en": "Being barefoot inside your house is so common in Japan.",
+      "zh": "在日本，居家赤脚非常普遍。"
+    },
+    {
+      "id": 228,
+      "startMs": 1246060,
+      "endMs": 1254140,
+      "en": "The country's fire and disaster management agency website advises people to have shoes ready when an ambulance is on the way.",
+      "zh": "该国消防与灾害管理机构的网站建议，人们在救护车赶来时准备好鞋子。"
+    },
+    {
+      "id": 229,
+      "startMs": 1254380,
+      "endMs": 1259740,
+      "en": "So really, the message from paramedics is simple: grab your own shoes, but please don't touch ours.",
+      "zh": "所以，急救人员传达的信息很简单：拿好你自己的鞋子，但请不要碰我们的鞋。"
+    },
+    {
+      "id": 230,
+      "startMs": 1259900,
+      "endMs": 1260460,
+      "en": "Helena Burke.",
+      "zh": "海伦娜·伯克报道。"
+    },
+    {
+      "id": 231,
+      "startMs": 1260940,
+      "endMs": 1265180,
+      "en": "To cycling now: one of the most successful cyclists of his generation.",
+      "zh": "下面关注自行车：他是这一代最成功的自行车运动员之一。"
+    },
+    {
+      "id": 232,
+      "startMs": 1265260,
+      "endMs": 1273740,
+      "en": "The Slovenian Tadej Pogačar has been forced to pull out of the Vuelta a España, the three-week Spanish road race.",
+      "zh": "斯洛文尼亚车手塔代伊·波加查被迫退出为期三周的西班牙公路赛——环西班牙自行车赛。"
+    },
+    {
+      "id": 233,
+      "startMs": 1274140,
+      "endMs": 1280880,
+      "en": "The five-time Tour de France champion appeared to have badly hurt his shoulder in a collision involving several other racers.",
+      "zh": "这位五次赢得环法自行车赛冠军的车手似乎在与其他几名车手相撞时严重伤到了肩膀。"
+    },
+    {
+      "id": 234,
+      "startMs": 1281280,
+      "endMs": 1284800,
+      "en": "He'd been favored to win this year's title, which he'd never won before.",
+      "zh": "他原本是今年夺冠的热门，但此前从未赢得过这一赛事。"
+    },
+    {
+      "id": 235,
+      "startMs": 1285200,
+      "endMs": 1289040,
+      "en": "The cycling broadcaster and author, Ned Boulting, told us about his injuries.",
+      "zh": "自行车赛事播报员兼作家内德·鲍尔廷向我们介绍了他的伤势。"
+    },
+    {
+      "id": 236,
+      "startMs": 1289360,
+      "endMs": 1298240,
+      "en": "It appears he's injured a vertebra and collarbone. These are bad injuries, but not unusual in cycling because it's a brutal sport.",
+      "zh": "看来他伤到了脊椎骨和锁骨。这些伤势很严重，但对自行车运动来说并非完全不寻常，因为这是一项残酷的运动。"
+    },
+    {
+      "id": 237,
+      "startMs": 1298800,
+      "endMs": 1305840,
+      "en": "And hopefully they will derail the rest of his season, but I hope that they won't have much further consequences other than that.",
+      "zh": "希望这些伤势会让他赛季剩余时间报销，但我希望除此之外不会造成更严重的后果。"
+    },
+    {
+      "id": 238,
+      "startMs": 1305920,
+      "endMs": 1310560,
+      "en": "But they will certainly derail his hopes of winning this race for the first time.",
+      "zh": "但这些伤势肯定会打乱他首次赢得这项赛事的希望。"
+    },
+    {
+      "id": 239,
+      "startMs": 1310800,
+      "endMs": 1312880,
+      "en": "Yeah, no, absolutely. He's had to abandon this race.",
+      "zh": "是的，完全如此。他不得不退出这项赛事。"
+    },
+    {
+      "id": 240,
+      "startMs": 1313200,
+      "endMs": 1318280,
+      "en": "It's a race that he hasn't won. And there aren't very many races that he hasn't won, you know.",
+      "zh": "这是他尚未赢得的一项赛事。而他没有赢过的赛事其实并不多。"
+    },
+    {
+      "id": 241,
+      "startMs": 1318360,
+      "endMs": 1323400,
+      "en": "You know, this is a guy who's won the Tour de France five times, which is as much as anyone's won the bike race.",
+      "zh": "要知道，他赢得过五次环法自行车赛，这与任何人的夺冠次数都一样多。"
+    },
+    {
+      "id": 242,
+      "startMs": 1323800,
+      "endMs": 1331400,
+      "en": "He's still only 27 years of age, but he's won almost every other single accolade that is possible to achieve in cycling.",
+      "zh": "他现在还只有27岁，却几乎赢得了自行车运动中能够获得的所有其他荣誉。"
+    },
+    {
+      "id": 243,
+      "startMs": 1331400,
+      "endMs": 1337000,
+      "en": "And he's on an absolute kind of career path that is going to obliterate anything that we've known in history.",
+      "zh": "而且他的职业生涯轨迹非同寻常，可能会超越我们历史上所知的一切。"
+    },
+    {
+      "id": 244,
+      "startMs": 1337000,
+      "endMs": 1340200,
+      "en": "This was one big objective that remained unachieved.",
+      "zh": "这是他尚未实现的一项重要目标。"
+    },
+    {
+      "id": 245,
+      "startMs": 1340200,
+      "endMs": 1343560,
+      "en": "So he's going to have to come back and do it again in the future.",
+      "zh": "所以他将来还得回来，再次尝试实现这个目标。"
+    },
+    {
+      "id": 246,
+      "startMs": 1343640,
+      "endMs": 1347160,
+      "en": "Yeah, and this is the first time he's abandoned a Grand Tour, isn't it?",
+      "zh": "是的，这是他第一次退出三大自行车环赛，对吧？"
+    },
+    {
+      "id": 247,
+      "startMs": 1347160,
+      "endMs": 1351560,
+      "en": "I mean, can you just fill us in on what exactly happened, how the crash occurred?",
+      "zh": "我的意思是，你能否告诉我们究竟发生了什么、这次撞车是怎么发生的？"
+    },
+    {
+      "id": 248,
+      "startMs": 1351640,
+      "endMs": 1355320,
+      "en": "It's just a risky business. There was no fault on his part.",
+      "zh": "这项运动本身就有风险。这不是他的过错。"
+    },
+    {
+      "id": 249,
+      "startMs": 1355480,
+      "endMs": 1360840,
+      "en": "It was a very fast and hot part of the race where he was being led into the foot of a climb.",
+      "zh": "当时正处在比赛中速度很快、竞争激烈的一段，他被带到了一个爬坡的坡脚。"
+    },
+    {
+      "id": 250,
+      "startMs": 1360920,
+      "endMs": 1365000,
+      "en": "Near the business end of the race, where it gets much faster.",
+      "zh": "大约是在比赛进入关键阶段时，那里的速度确实会快得多。"
+    },
+    {
+      "id": 251,
+      "startMs": 1365000,
+      "endMs": 1371640,
+      "en": "And he hit a stone that was seemingly on the road, and his front wheel went out from under him. He went down hard.",
+      "zh": "他撞上了一块似乎出现在路上的石头，前轮从他身下滑开，他重重摔倒。"
+    },
+    {
+      "id": 252,
+      "startMs": 1372200,
+      "endMs": 1376540,
+      "en": "So he suffered from a bit of concussion, I understand, as well, but it was just one of those things.",
+      "zh": "据我了解，他还受到了一点脑震荡，但这只是意外之一。"
+    },
+    {
+      "id": 253,
+      "startMs": 1376780,
+      "endMs": 1384620,
+      "en": "But the thing about Pogačar is, I mean, the many things to say about him, but he has been, apart from utterly brilliant and, you know, brilliant",
+      "zh": "但说到波加查，关于他的优点很多；除了极其出色，而且你知道，他的出色"
+    },
+    {
+      "id": 254,
+      "startMs": 1384620,
+      "endMs": 1387180,
+      "en": "in ways that none of us could have anticipated a few years ago.",
+      "zh": "在几年前，这是我们任何人都无法预料的。"
+    },
+    {
+      "id": 255,
+      "startMs": 1387500,
+      "endMs": 1393980,
+      "en": "He's also been incredibly lucky; luck is a big part of sustaining a prolonged and brilliant cycling career.",
+      "zh": "他也一直非常幸运；运气是维持漫长而辉煌自行车生涯的重要因素。"
+    },
+    {
+      "id": 256,
+      "startMs": 1393980,
+      "endMs": 1403100,
+      "en": "Yeah, as you said, I wonder how many stones he must have cycled over, or come close to, in all the thousands of miles he's ridden over the years.",
+      "zh": "是的，我想知道，正如你所说，在这些年骑行数千英里的过程中，他一定骑过或差点骑过多少块石头。"
+    },
+    {
+      "id": 257,
+      "startMs": 1403100,
+      "endMs": 1409260,
+      "en": "Quite. And on those occasions, really, when he has come a cropper, because, you know, every rider will crash repeatedly every year.",
+      "zh": "确实。每当他摔倒时，要知道，每位车手每年都会反复摔车。"
+    },
+    {
+      "id": 258,
+      "startMs": 1409340,
+      "endMs": 1413900,
+      "en": "He's weirdly been able to get up, bounce back, and do amazing things as a result.",
+      "zh": "但他总是不可思议地能站起来、重新振作，并因此做出惊人的成绩。"
+    },
+    {
+      "id": 259,
+      "startMs": 1413980,
+      "endMs": 1420700,
+      "en": "But, you know, ultimately, you run out of luck, you run out of cats' lives, if you like, and cyclists' lives.",
+      "zh": "不过，最终你会用尽运气，也会用尽所谓的猫命，或者说，车手的命。"
+    },
+    {
+      "id": 260,
+      "startMs": 1420700,
+      "endMs": 1425100,
+      "en": "You're saying he'll bounce back, but it may take longer than usual. Is that right?",
+      "zh": "你是说他会重新振作，但这可能会比平时花更长时间，对吗？"
+    },
+    {
+      "id": 261,
+      "startMs": 1425340,
+      "endMs": 1428700,
+      "en": "Yeah, he had some major objectives still to go this year.",
+      "zh": "是的，他今年还有一些重要目标要实现。"
+    },
+    {
+      "id": 262,
+      "startMs": 1428940,
+      "endMs": 1434060,
+      "en": "He was hoping to win, in a few weeks' time, the World Championships for the third successive time.",
+      "zh": "他原本希望几周后连续第三次赢得世锦赛冠军。"
+    },
+    {
+      "id": 263,
+      "startMs": 1434060,
+      "endMs": 1435740,
+      "en": "I think that's very, very doubtful now.",
+      "zh": "我认为现在这非常、非常令人怀疑。"
+    },
+    {
+      "id": 264,
+      "startMs": 1435920,
+      "endMs": 1439200,
+      "en": "Ned Boulting speaking to James Coomarasamy.",
+      "zh": "内德·鲍尔廷接受詹姆斯·库马拉萨米采访。"
+    },
+    {
+      "id": 265,
+      "startMs": 1440000,
+      "endMs": 1444320,
+      "en": "Finally, Croatia has a new heavyweight boxing world champion.",
+      "zh": "最后，克罗地亚诞生了新的重量级拳击世界冠军。"
+    },
+    {
+      "id": 266,
+      "startMs": 1444320,
+      "endMs": 1451200,
+      "en": "Filip Hrgović knocked out his British challenger, Moses Itauma, at London's O2 Arena.",
+      "zh": "菲利普·赫尔戈维奇在伦敦O2体育馆击倒了英国挑战者摩西斯·伊陶马。"
+    },
+    {
+      "id": 267,
+      "startMs": 1451200,
+      "endMs": 1456080,
+      "en": "The 21-year-old Briton had won all 14 of his previous professional fights.",
+      "zh": "这名21岁的英国拳手此前14场职业比赛全部获胜。"
+    },
+    {
+      "id": 268,
+      "startMs": 1456080,
+      "endMs": 1461040,
+      "en": "And victory would have made him the youngest world champion since Mike Tyson 40 years ago.",
+      "zh": "如果获胜，他就会成为40年前迈克·泰森之后最年轻的世界冠军。"
+    },
+    {
+      "id": 269,
+      "startMs": 1461520,
+      "endMs": 1464640,
+      "en": "Boxing expert at Round Table, Youssef Anani, was watching.",
+      "zh": "《Round Table》的拳击专家尤瑟夫·阿纳尼正在观看比赛。"
+    },
+    {
+      "id": 270,
+      "startMs": 1464800,
+      "endMs": 1467680,
+      "en": "Well, the problem, I think, was his stamina.",
+      "zh": "我认为，问题在于他的耐力。"
+    },
+    {
+      "id": 271,
+      "startMs": 1467760,
+      "endMs": 1472480,
+      "en": "So, he was levels above the Croatian, Hrgović, winning every round.",
+      "zh": "他完全高出克罗地亚拳手赫尔戈维奇一筹，赢下了每个回合。"
+    },
+    {
+      "id": 272,
+      "startMs": 1472640,
+      "endMs": 1479040,
+      "en": "He had Hrgović on the canvas, cut him, and was really giving him quite a beating.",
+      "zh": "他把赫尔戈维奇打倒在拳台上，还打伤了他，着实给了他一顿痛击。"
+    },
+    {
+      "id": 273,
+      "startMs": 1479440,
+      "endMs": 1486640,
+      "en": "But people said that before the fight that they wondered how Itauma would fare if it went late, you know,",
+      "zh": "但赛前人们就担心，如果比赛拖到后半段，伊陶马会表现如何。"
+    },
+    {
+      "id": 274,
+      "startMs": 1486640,
+      "endMs": 1495600,
+      "en": "because normally he's so used to blowing out his opponents in the first round or two, and he's never actually been beyond six rounds.",
+      "zh": "因为他通常习惯在第一或第二回合就击倒对手，而且从没打满六个回合。"
+    },
+    {
+      "id": 275,
+      "startMs": 1495780,
+      "endMs": 1503300,
+      "en": "And they were worried that a man who's as durable as Hrgović could extend him into the second half of the fight.",
+      "zh": "他们担心，像赫尔戈维奇这样耐打的拳手会把他拖入比赛的后半段。"
+    },
+    {
+      "id": 276,
+      "startMs": 1503300,
+      "endMs": 1512420,
+      "en": "And they were worried about Moses' stamina because he just doesn't have the experience of long fights, and that was a very legitimate worry.",
+      "zh": "他们担心莫西斯的耐力，因为他没有打长回合比赛的经验，这种担忧完全合理。"
+    },
+    {
+      "id": 277,
+      "startMs": 1512660,
+      "endMs": 1521220,
+      "en": "And I think it was a big step up in quality of opposition for Moses, but he was still—he was absolutely dominating the fight.",
+      "zh": "我认为，对莫西斯来说，对手的质量提升了很多，但他依然完全主宰了比赛。"
+    },
+    {
+      "id": 278,
+      "startMs": 1521220,
+      "endMs": 1528100,
+      "en": "I mean, it's extraordinary to see a fight like that where one boxer is so dominant and then he just falls apart.",
+      "zh": "一名拳手如此占据优势，随后却彻底崩溃，这样的比赛实在罕见。"
+    },
+    {
+      "id": 279,
+      "startMs": 1528260,
+      "endMs": 1533140,
+      "en": "I suppose, on the positives, he's only 21, so he can learn from this.",
+      "zh": "往好处看，他毕竟只有21岁，可以从这次经历中吸取教训。"
+    },
+    {
+      "id": 280,
+      "startMs": 1533300,
+      "endMs": 1535380,
+      "en": "You bet. Yeah, he can.",
+      "zh": "当然，他可以。"
+    },
+    {
+      "id": 281,
+      "startMs": 1535460,
+      "endMs": 1537540,
+      "en": "I mean, he's such an enormous talent.",
+      "zh": "他确实是极具天赋的拳手。"
+    },
+    {
+      "id": 282,
+      "startMs": 1537540,
+      "endMs": 1544020,
+      "en": "I mean, this will be a massive blow to his pride, but he didn't really take a beating in the fight.",
+      "zh": "这对他的自尊会是沉重打击，但他在比赛中其实没有挨太多重拳。"
+    },
+    {
+      "id": 283,
+      "startMs": 1544020,
+      "endMs": 1550660,
+      "en": "He just kind of—I mean, he did take a few shots towards the end, but it looked to me like he simply ran out of gas.",
+      "zh": "他只是——我的意思是，他在最后确实挨了几拳，但在我看来，他只是耗尽了体力。"
+    },
+    {
+      "id": 284,
+      "startMs": 1550660,
+      "endMs": 1559160,
+      "en": "I mean, he was swaying around like a reed at the end, and I'm not even sure it was a punch, particularly, that put him over at the end.",
+      "zh": "他最后摇摇晃晃，像一根芦苇；我甚至不确定，最终让他倒下的是否真是一记拳。"
+    },
+    {
+      "id": 285,
+      "startMs": 1559160,
+      "endMs": 1563640,
+      "en": "I think he just couldn't stand up anymore. He was so exhausted.",
+      "zh": "我觉得他只是再也站不起来了。他实在太累了。"
+    },
+    {
+      "id": 286,
+      "startMs": 1563640,
+      "endMs": 1569880,
+      "en": "But you're absolutely right, Moses Itauma can come back as long as he gets his training right.",
+      "zh": "但你说得完全正确，只要训练得当，莫西斯·伊陶马就能重返赛场。"
+    },
+    {
+      "id": 287,
+      "startMs": 1570440,
+      "endMs": 1573960,
+      "en": "So some big changes need to be made behind the scenes.",
+      "zh": "所以幕后需要做出一些重大调整。"
+    },
+    {
+      "id": 288,
+      "startMs": 1573960,
+      "endMs": 1582380,
+      "en": "But in terms of talent, he's—I think he's one of the most talented heavyweights in the world.",
+      "zh": "不过就天赋而言，我认为他是世界上最有天赋的重量级拳手之一。"
+    },
+    {
+      "id": 289,
+      "startMs": 1582380,
+      "endMs": 1590140,
+      "en": "There's the Ukrainian, Oleksandr Usyk, who, even though he doesn't have any belts, is still regarded as the real champion out there.",
+      "zh": "还有乌克兰拳手奥列克桑德尔·乌西克，尽管没有任何金腰带，仍被视为真正的冠军。"
+    },
+    {
+      "id": 290,
+      "startMs": 1590300,
+      "endMs": 1599100,
+      "en": "For Hrgović, winning in London at the O2 Arena when pretty much everyone in the crowd would have been rooting for his opponent is a big win.",
+      "zh": "赫尔戈维奇在伦敦的O2体育馆获胜，而现场几乎所有人都在支持他的对手，这对他来说是一场重大胜利。"
+    },
+    {
+      "id": 291,
+      "startMs": 1599340,
+      "endMs": 1604060,
+      "en": "It's a fantastic win for him, and he wanted it so badly.",
+      "zh": "这是他一场精彩的胜利，而且他太渴望这场胜利了。"
+    },
+    {
+      "id": 292,
+      "startMs": 1604460,
+      "endMs": 1607740,
+      "en": "I actually spoke to him a couple of days ago.",
+      "zh": "我几天前还和他聊过。"
+    },
+    {
+      "id": 293,
+      "startMs": 1608140,
+      "endMs": 1615260,
+      "en": "And, you know, it's an obsession for him to be the first world champion from Croatia.",
+      "zh": "他一直执着于成为克罗地亚首位世界冠军。"
+    },
+    {
+      "id": 294,
+      "startMs": 1615740,
+      "endMs": 1622060,
+      "en": "And he doesn't really talk about money or fame. For him, it's about pride.",
+      "zh": "他其实不怎么谈钱或名望。对他来说，重要的是荣誉。"
+    },
+    {
+      "id": 295,
+      "startMs": 1622060,
+      "endMs": 1630780,
+      "en": "He wants his little daughter to know that her father's a heavyweight champion, and he also wants to do it for his departed father.",
+      "zh": "他希望小女儿知道，父亲是重量级冠军；他也想为已故的父亲赢得这一切。"
+    },
+    {
+      "id": 296,
+      "startMs": 1631340,
+      "endMs": 1639600,
+      "en": "You know, he's a big, brawny, scary man, but when he talks about his daughter and his father, he becomes very emotional.",
+      "zh": "他身材魁梧、看起来很吓人，但谈到女儿和父亲时，他会变得非常感性。"
+    },
+    {
+      "id": 297,
+      "startMs": 1640000,
+      "endMs": 1645200,
+      "en": "So that's really what makes him tick. It's pride. Youssef Anani.",
+      "zh": "所以真正驱动他的就是荣誉。尤瑟夫·阿纳尼。"
+    },
+    {
+      "id": 298,
+      "startMs": 1647600,
+      "endMs": 1653200,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是我们目前的全部报道。如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 299,
+      "startMs": 1653200,
+      "endMs": 1657360,
+      "en": "You can also find us on X at @bbcworldservice.",
+      "zh": "你也可以在X上关注@bbcworldservice。"
+    },
+    {
+      "id": 300,
+      "startMs": 1657440,
+      "endMs": 1659280,
+      "en": "Use the hashtag #GlobalNewsPod.",
+      "zh": "请使用话题标签#GlobalNewsPod。"
+    },
+    {
+      "id": 301,
+      "startMs": 1659680,
+      "endMs": 1663280,
+      "en": "This edition of the Global News Podcast was mixed by Steven Bailey.",
+      "zh": "本期《Global News Podcast》由史蒂文·贝利混音。"
+    },
+    {
+      "id": 302,
+      "startMs": 1663600,
+      "endMs": 1666160,
+      "en": "The editor is Karen Martin, and I'm Charlotte Gallagher.",
+      "zh": "编辑是凯伦·马丁，我是夏洛特·加拉格尔。"
+    },
+    {
+      "id": 303,
+      "startMs": 1666400,
+      "endMs": 1667520,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
