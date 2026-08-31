@@ -1,0 +1,2034 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "30 August 2026"
+  },
+  "durationMs": 1647760,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4960,
+      "en": "Hey there, it's Asma Khalid, one of the hosts of The Global Story podcast from the BBC.",
+      "zh": "大家好，我是阿斯玛·哈立德，是 BBC《全球故事》播客的主持人之一。"
+    },
+    {
+      "id": 2,
+      "startMs": 5120,
+      "endMs": 10080,
+      "en": "And as a bonus for your feed, we're bringing you one of our favorite episodes of the week.",
+      "zh": "作为你订阅内容的加餐，我们带来本周最喜欢的一期节目。"
+    },
+    {
+      "id": 3,
+      "startMs": 10480,
+      "endMs": 17120,
+      "en": "Now every weekday on The Global Story, we try to tell one big story in depth about where the world and America intersect.",
+      "zh": "《全球故事》每个工作日都会深入讲述一个大故事，探讨世界与美国交汇之处。"
+    },
+    {
+      "id": 4,
+      "startMs": 17440,
+      "endMs": 22800,
+      "en": "In this episode, we look at a scientific breakthrough that comes with a lot of baggage here in the US:",
+      "zh": "本期我们关注一项科学突破，但它在美国背负着沉重的政治包袱："
+    },
+    {
+      "id": 5,
+      "startMs": 22800,
+      "endMs": 28080,
+      "en": "a vaccine for skin cancer that has shown promising results in a recent clinical trial.",
+      "zh": "一种治疗皮肤癌的疫苗，最近的临床试验显示出令人鼓舞的结果。"
+    },
+    {
+      "id": 6,
+      "startMs": 28560,
+      "endMs": 34480,
+      "en": "What's notable is that this is an mRNA vaccine, and you all might recognize that term, mRNA,",
+      "zh": "值得注意的是，这是一种信使 RNA 疫苗；大家可能听过 mRNA 这个词，"
+    },
+    {
+      "id": 7,
+      "startMs": 34720,
+      "endMs": 38480,
+      "en": "because it's the same technology that was used in some COVID vaccines.",
+      "zh": "因为一些新冠疫苗就采用了同样的技术。"
+    },
+    {
+      "id": 8,
+      "startMs": 38880,
+      "endMs": 43520,
+      "en": "And that is what is making this new scientific breakthrough so politically tricky.",
+      "zh": "正因如此，这项新的科学突破在政治上变得棘手。"
+    },
+    {
+      "id": 9,
+      "startMs": 44000,
+      "endMs": 49440,
+      "en": "The COVID vaccines led to the rise of vaccine skepticism within the highest ranks of the US government,",
+      "zh": "新冠疫苗催生了美国政府最高层中的疫苗怀疑论，"
+    },
+    {
+      "id": 10,
+      "startMs": 49680,
+      "endMs": 55440,
+      "en": "complicating the future of this potentially life-saving new research in America and around the world.",
+      "zh": "使这项可能挽救生命的新研究在美国和世界各地的前景更加复杂。"
+    },
+    {
+      "id": 11,
+      "startMs": 55920,
+      "endMs": 64500,
+      "en": "So, I hope you'll take a listen to this episode. And if you enjoy it, you can always find more from us by searching for \"The Global Story\" wherever you get your podcasts.",
+      "zh": "希望大家收听这一期节目。如果你喜欢，随时可以在收听播客的平台搜索《全球故事》，找到我们的更多内容。"
+    },
+    {
+      "id": 12,
+      "startMs": 64740,
+      "endMs": 66260,
+      "en": "Now, on to today's show.",
+      "zh": "现在进入今天的节目。"
+    },
+    {
+      "id": 13,
+      "startMs": 67480,
+      "endMs": 70920,
+      "en": "It was 1997 at the University of Pennsylvania in Philly.",
+      "zh": "那是1997年，在费城的宾夕法尼亚大学。"
+    },
+    {
+      "id": 14,
+      "startMs": 71080,
+      "endMs": 77720,
+      "en": "A Hungarian American scientist by the name of Dr Katalin Karikó was wandering the halls looking for a copy machine.",
+      "zh": "一位名叫卡塔琳·考里科的匈牙利裔美国科学家，在走廊里寻找复印机。"
+    },
+    {
+      "id": 15,
+      "startMs": 78120,
+      "endMs": 82200,
+      "en": "And when she found one, she came across another researcher. They struck up a conversation.",
+      "zh": "找到复印机后，她遇到了另一位研究人员，两人聊了起来。"
+    },
+    {
+      "id": 16,
+      "startMs": 82600,
+      "endMs": 85960,
+      "en": "And so I was bragging that I've worked with RNA.",
+      "zh": "所以我当时夸耀说，我一直在研究 RNA。"
+    },
+    {
+      "id": 17,
+      "startMs": 86040,
+      "endMs": 92360,
+      "en": "And then he was telling me that he want to develop a vaccine. And that's how, you know, we started.",
+      "zh": "然后他告诉我，他想开发一种疫苗。就这样，你知道，我们开始合作了。"
+    },
+    {
+      "id": 18,
+      "startMs": 92360,
+      "endMs": 101640,
+      "en": "Dr Karikó and her research partner would go on to spend years working together on what was sometimes a scientific dead end: an mRNA vaccine.",
+      "zh": "卡塔琳·考里科博士和她的研究伙伴后来花了多年时间，共同研究一种有时近乎科学死胡同的方案：信使 RNA 疫苗。"
+    },
+    {
+      "id": 19,
+      "startMs": 102120,
+      "endMs": 104200,
+      "en": "For years, their efforts amounted to little.",
+      "zh": "多年来，他们的努力收效甚微。"
+    },
+    {
+      "id": 20,
+      "startMs": 104360,
+      "endMs": 113000,
+      "en": "But in 2023, after the development of the COVID vaccines that used mRNA technology, they were awarded the Nobel Prize for Medicine.",
+      "zh": "但在采用信使 RNA 技术的新冠疫苗研发成功后，他们于2023年获得了诺贝尔生理学或医学奖。"
+    },
+    {
+      "id": 21,
+      "startMs": 113240,
+      "endMs": 115480,
+      "en": "Together, they have saved millions of lives.",
+      "zh": "他们共同挽救了数百万人的生命。"
+    },
+    {
+      "id": 22,
+      "startMs": 115560,
+      "endMs": 123560,
+      "en": "They prevented severe COVID-19, reduced the overall disease burden, and enabled societies to open up again.",
+      "zh": "他们预防了重症新冠，减轻了总体疾病负担，也让社会得以重新开放。"
+    },
+    {
+      "id": 23,
+      "startMs": 125100,
+      "endMs": 132060,
+      "en": "Last week, there was another watershed moment from that same mRNA technology: a potential cancer vaccine.",
+      "zh": "上周，同一种信使 RNA 技术又迎来一个里程碑时刻：一种潜在的癌症疫苗。"
+    },
+    {
+      "id": 24,
+      "startMs": 132780,
+      "endMs": 135740,
+      "en": "And yet the news comes in a tough climate for vaccines.",
+      "zh": "然而，这一消息传出之际，正值疫苗面临艰难环境。"
+    },
+    {
+      "id": 25,
+      "startMs": 136900,
+      "endMs": 144340,
+      "en": "Last year, the US Health and Human Services Secretary, RFK Jr., cut half a billion dollars of funding into mRNA research.",
+      "zh": "去年，美国卫生与公众服务部长小罗伯特·F·肯尼迪削减了用于信使 RNA 研究的5亿美元资金。"
+    },
+    {
+      "id": 26,
+      "startMs": 145220,
+      "endMs": 148660,
+      "en": "From the BBC, I'm Asma Khalid in Washington, D.C.",
+      "zh": "这里是 BBC，我是来自华盛顿特区的阿斯玛·哈立德。"
+    },
+    {
+      "id": 27,
+      "startMs": 148820,
+      "endMs": 156260,
+      "en": "And today on The Global Story, the new skin cancer vaccine, and the promise and politics of mRNA technology.",
+      "zh": "今天的《全球故事》将讨论新的皮肤癌疫苗，以及信使 RNA 技术的前景与政治。"
+    },
+    {
+      "id": 28,
+      "startMs": 163820,
+      "endMs": 171660,
+      "en": "I'm Tom Whipple. I'm a science writer, and I present Inside Science on BBC Radio 4 and the World Service.",
+      "zh": "我是汤姆·惠普尔。我是科学作家，主持 BBC Radio 4 和世界服务台的《Inside Science》。"
+    },
+    {
+      "id": 29,
+      "startMs": 172060,
+      "endMs": 177980,
+      "en": "Well, Tom Whipple, welcome to The Global Story. It's a pleasure to have you with us. Thanks for taking the time. It's a pleasure.",
+      "zh": "汤姆·惠普尔，欢迎来到《全球故事》。很高兴你参加我们的节目，感谢你抽出时间。我的荣幸。"
+    },
+    {
+      "id": 30,
+      "startMs": 178380,
+      "endMs": 184460,
+      "en": "Today on the show, we want to dive into the health and policy debates around mRNA technology.",
+      "zh": "今天我们要深入探讨围绕信使 RNA 技术的健康与政策争论。"
+    },
+    {
+      "id": 31,
+      "startMs": 184460,
+      "endMs": 187820,
+      "en": "Particularly here in the United States where I sit in this political moment.",
+      "zh": "尤其是在我所在的美国，以及当前这个政治时刻。"
+    },
+    {
+      "id": 32,
+      "startMs": 188220,
+      "endMs": 195980,
+      "en": "But the reason that we wanted to have this conversation today is because of a major medical breakthrough that made headlines just the other day.",
+      "zh": "但我们今天想展开这场对话，是因为前几天一项重大的医学突破登上了新闻头条。"
+    },
+    {
+      "id": 33,
+      "startMs": 195980,
+      "endMs": 199980,
+      "en": "What is being described is a personalized cancer vaccine.",
+      "zh": "这项突破被描述为一种个性化癌症疫苗。"
+    },
+    {
+      "id": 34,
+      "startMs": 200300,
+      "endMs": 208140,
+      "en": "Now, to be abundantly clear to listeners, it is not like you or I, Tom, could take a jab and have immunity from developing skin cancer.",
+      "zh": "这里要向听众明确说明：它并不是说你、我或汤姆打一针，就能获得免于患皮肤癌的免疫力。"
+    },
+    {
+      "id": 35,
+      "startMs": 208620,
+      "endMs": 210700,
+      "en": "This is a different type of vaccine.",
+      "zh": "这是一种不同类型的疫苗。"
+    },
+    {
+      "id": 36,
+      "startMs": 210700,
+      "endMs": 213580,
+      "en": "Nonetheless, I'm hearing it described as a game-changer.",
+      "zh": "尽管如此，我听到有人把它称为改变游戏规则的突破。"
+    },
+    {
+      "id": 37,
+      "startMs": 213980,
+      "endMs": 219500,
+      "en": "Can you explain what was actually announced and why it is being seen as so significant?",
+      "zh": "你能解释一下究竟公布了什么，以及为什么它被视为如此重要吗？"
+    },
+    {
+      "id": 38,
+      "startMs": 220060,
+      "endMs": 229840,
+      "en": "Yeah, so as you say, this isn't—this isn't you getting a summer booster shot and then being unable to catch skin cancer for that summer. It's absolutely not that.",
+      "zh": "是的，正如你所说，这不是说你打一针夏季加强针，就能在那个夏天免于感染皮肤癌。绝对不是这样。"
+    },
+    {
+      "id": 39,
+      "startMs": 230080,
+      "endMs": 235120,
+      "en": "There is a reason which we'll get into why the word vaccine is still perfectly appropriate.",
+      "zh": "我们稍后会解释，为什么使用“疫苗”这个词仍然完全恰当。"
+    },
+    {
+      "id": 40,
+      "startMs": 235600,
+      "endMs": 243680,
+      "en": "But what this is is that you—if you've got a skin cancer, or, you know, in theory, we'd like this to work for lots of cancers,",
+      "zh": "但它的原理是：如果你患有皮肤癌——理论上，我们希望它能适用于许多癌症——"
+    },
+    {
+      "id": 41,
+      "startMs": 243920,
+      "endMs": 247520,
+      "en": "you remove it, but the real worry is it comes back.",
+      "zh": "你会先切除肿瘤，但真正令人担心的是它复发。"
+    },
+    {
+      "id": 42,
+      "startMs": 247840,
+      "endMs": 253280,
+      "en": "We all know about metastases and the idea that cancer spreads in the body even after you've removed it.",
+      "zh": "我们都知道癌症会转移，也知道即使切除了肿瘤，癌细胞仍可能在体内扩散。"
+    },
+    {
+      "id": 43,
+      "startMs": 253760,
+      "endMs": 258000,
+      "en": "What this is doing is it is training your body to attack it.",
+      "zh": "这种疫苗是在训练你的身体去攻击它。"
+    },
+    {
+      "id": 44,
+      "startMs": 258640,
+      "endMs": 263520,
+      "en": "It's training it to attack the cancer cells that are there in the tumour.",
+      "zh": "它训练身体攻击肿瘤中的癌细胞。"
+    },
+    {
+      "id": 45,
+      "startMs": 263760,
+      "endMs": 267680,
+      "en": "So that your body's own defenses take it out.",
+      "zh": "让你身体自身的防御系统将其消灭。"
+    },
+    {
+      "id": 46,
+      "startMs": 268240,
+      "endMs": 276240,
+      "en": "And so in that sense, it's very much like a vaccine. The idea of a vaccine is: you show your body a little bit of the thing that you want to attack.",
+      "zh": "所以从这个意义上说，它非常像疫苗：疫苗的原理是，让身体接触一点你想要攻击的对象。"
+    },
+    {
+      "id": 47,
+      "startMs": 276560,
+      "endMs": 280320,
+      "en": "And then your immune system's trained and away it goes and attacks it.",
+      "zh": "然后你的免疫系统受到训练，随即发动攻击。"
+    },
+    {
+      "id": 48,
+      "startMs": 280480,
+      "endMs": 286800,
+      "en": "This is a really big deal. So the caveats are we don't yet know how well this worked.",
+      "zh": "这确实意义重大。但需要注意的是，我们还不知道它的效果究竟有多好。"
+    },
+    {
+      "id": 49,
+      "startMs": 287360,
+      "endMs": 292080,
+      "en": "We know this has gone through phase three trials, which is the final stage of trials",
+      "zh": "我们知道它已经完成了三期试验，这是试验的最后阶段，"
+    },
+    {
+      "id": 50,
+      "startMs": 292080,
+      "endMs": 295600,
+      "en": "before you can introduce a drug or a treatment.",
+      "zh": "在你能够推出一种药物或治疗之前。"
+    },
+    {
+      "id": 51,
+      "startMs": 295760,
+      "endMs": 299140,
+      "en": "We know that the companies that made it.",
+      "zh": "我们知道，研发它的公司是……"
+    },
+    {
+      "id": 52,
+      "startMs": 299300,
+      "endMs": 306020,
+      "en": "Merck and Moderna are confident that this is clinically significant and useful.",
+      "zh": "默沙东和莫德纳相信，这一疗法具有重要的临床意义且切实有用。"
+    },
+    {
+      "id": 53,
+      "startMs": 306420,
+      "endMs": 311700,
+      "en": "It prevented cancer from returning in a significant number of patients. It helped them live longer.",
+      "zh": "它阻止相当一部分患者的癌症复发，也帮助他们活得更久。"
+    },
+    {
+      "id": 54,
+      "startMs": 311780,
+      "endMs": 320900,
+      "en": "This isn't a magic bullet, but the reason it's so significant is because doctors have been trying to do this for 30, 40 years.",
+      "zh": "这不是灵丹妙药，但它意义重大，因为医生们已经尝试这样做了三四十年。"
+    },
+    {
+      "id": 55,
+      "startMs": 321220,
+      "endMs": 328260,
+      "en": "They've been trying to make a cancer vaccine because it is such a simple and appealing idea, and it seems like it should work.",
+      "zh": "他们一直想研制癌症疫苗，因为这是个简单而诱人的想法，看起来本该奏效。"
+    },
+    {
+      "id": 56,
+      "startMs": 328420,
+      "endMs": 333220,
+      "en": "And until now, largely, they've failed. So the fact that this has succeeded,",
+      "zh": "而在此之前，他们基本都失败了。所以这次取得成功，"
+    },
+    {
+      "id": 57,
+      "startMs": 333220,
+      "endMs": 338580,
+      "en": "and in particular succeeded using mRNA technology, which is this big coming technology,",
+      "zh": "尤其是借助这种前景巨大的 mRNA 技术取得成功，"
+    },
+    {
+      "id": 58,
+      "startMs": 338820,
+      "endMs": 344340,
+      "en": "suggests that we could be on the cusp of having a new wing to our cancer treatments,",
+      "zh": "这表明，我们或许正处在癌症治疗开创新方向的边缘，"
+    },
+    {
+      "id": 59,
+      "startMs": 344340,
+      "endMs": 349860,
+      "en": "and also a wing that's a lot more gentle than many of the treatments that we're used to.",
+      "zh": "而且这个方向会比我们熟悉的许多疗法温和得多。"
+    },
+    {
+      "id": 60,
+      "startMs": 350340,
+      "endMs": 354660,
+      "en": "So, just to make sure I'm following here, Tom, this has gone through all the necessary trials.",
+      "zh": "汤姆，我确认一下：它已经完成了所有必要的试验。"
+    },
+    {
+      "id": 61,
+      "startMs": 355060,
+      "endMs": 359400,
+      "en": "It has not yet, this vaccine, received the approval here in the United States",
+      "zh": "但这款疫苗还没有在美国获得批准，"
+    },
+    {
+      "id": 62,
+      "startMs": 359720,
+      "endMs": 361800,
+      "en": "from the FDA, the Food and Drug Administration,",
+      "zh": "批准机构是 FDA，即美国食品药品监督管理局；"
+    },
+    {
+      "id": 63,
+      "startMs": 362120,
+      "endMs": 368440,
+      "en": "but it looks like it's on track to be possibly used by the public in the near future.",
+      "zh": "但它似乎有望在不久的将来供公众使用。"
+    },
+    {
+      "id": 64,
+      "startMs": 368920,
+      "endMs": 375080,
+      "en": "Yeah, once you've gone through phase three trials and been successful in your determination,",
+      "zh": "是的，一旦完成三期试验并在评估中取得成功，"
+    },
+    {
+      "id": 65,
+      "startMs": 375080,
+      "endMs": 381080,
+      "en": "that's when you gather together all of the data that you've got and you present it to the regulator and you say,",
+      "zh": "就要把掌握的全部数据汇总起来，提交给监管机构，并告诉他们："
+    },
+    {
+      "id": 66,
+      "startMs": 381080,
+      "endMs": 384360,
+      "en": "Ta-da! We think we've made something that you will want.",
+      "zh": "看，我们认为自己研发出了你们会需要的东西。"
+    },
+    {
+      "id": 67,
+      "startMs": 384760,
+      "endMs": 389960,
+      "en": "And then it is up to the regulator to say, Yes, you have, or Yes, you haven't.",
+      "zh": "然后就由监管机构决定：是的，你们做到了；或者，不，你们没有做到。"
+    },
+    {
+      "id": 68,
+      "startMs": 390280,
+      "endMs": 398840,
+      "en": "But look, if you want a sense of the confidence in this, you just have to look at Moderna's share price.",
+      "zh": "不过，要感受人们对它的信心，只要看看莫德纳的股价就知道了。"
+    },
+    {
+      "id": 69,
+      "startMs": 399240,
+      "endMs": 400440,
+      "en": "Oh yes, you know, this is...",
+      "zh": "哦，是的，你知道，这是一件……"
+    },
+    {
+      "id": 70,
+      "startMs": 402460,
+      "endMs": 407260,
+      "en": "something where people are betting a lot of billions that actually they've got something that works.",
+      "zh": "人们押上数十亿美元，赌的就是他们真的研发出了有效的东西。"
+    },
+    {
+      "id": 71,
+      "startMs": 407500,
+      "endMs": 413740,
+      "en": "So it sounds like we might need to be cautious still, but it sounds like we can be cautiously optimistic at this point.",
+      "zh": "所以我们似乎仍需谨慎，但在这一阶段也可以谨慎乐观。"
+    },
+    {
+      "id": 72,
+      "startMs": 414060,
+      "endMs": 420220,
+      "en": "Can you walk us through exactly how this is different from the way that a traditional vaccine would work?",
+      "zh": "你能具体讲讲，这和传统疫苗的工作方式究竟有何不同吗？"
+    },
+    {
+      "id": 73,
+      "startMs": 420780,
+      "endMs": 427260,
+      "en": "So, all vaccines, the principle is that your immune system learns by seeing things.",
+      "zh": "所有疫苗的原理都是一样的：免疫系统通过观察事物来学习。"
+    },
+    {
+      "id": 74,
+      "startMs": 427740,
+      "endMs": 437500,
+      "en": "Now, if I get infected by measles, my immune system will learn what the outside of a measles virus looks like,",
+      "zh": "如果我感染麻疹，我的免疫系统就会了解麻疹病毒外表是什么样，"
+    },
+    {
+      "id": 75,
+      "startMs": 437900,
+      "endMs": 445740,
+      "en": "and provided that measles hasn't killed me, when I then see measles again, my immune system will know exactly what to do with it.",
+      "zh": "只要麻疹没有杀死我，下次再遇到它时，我的免疫系统就会知道该怎么应对。"
+    },
+    {
+      "id": 76,
+      "startMs": 445980,
+      "endMs": 452780,
+      "en": "It will have the antibodies and T cells ready to chomp it up, get rid of it, and I am completely immune from measles.",
+      "zh": "抗体和 T 细胞会准备好将其吞噬、清除，而我也就对麻疹完全免疫了。"
+    },
+    {
+      "id": 77,
+      "startMs": 452780,
+      "endMs": 460300,
+      "en": "Okay. The principle of a vaccine is to do that without having the 'provided I'm still alive' bit.",
+      "zh": "好。疫苗的原理，就是不用经历“前提是我还活着”这一环节，也能做到这一点。"
+    },
+    {
+      "id": 78,
+      "startMs": 460300,
+      "endMs": 468400,
+      "en": "Excellent, yes. It's to show you what a virus, a pathogen, or some sort of bacteria looks like",
+      "zh": "没错。它向你展示病毒、病原体或某种细菌是什么样，"
+    },
+    {
+      "id": 79,
+      "startMs": 469620,
+      "endMs": 477300,
+      "en": "without actually getting you the infection bit, so there are lots of ways of doing this.",
+      "zh": "却不让你真正感染，因此有很多种实现方式。"
+    },
+    {
+      "id": 80,
+      "startMs": 477380,
+      "endMs": 483220,
+      "en": "Normally, what you do is get an attenuated version of the virus.",
+      "zh": "通常的做法，是使用一种减毒版病毒。"
+    },
+    {
+      "id": 81,
+      "startMs": 483220,
+      "endMs": 487620,
+      "en": "What they've done is they've serially bred the virus to make it weaker and weaker,",
+      "zh": "具体来说，他们连续培育这种病毒，让它变得越来越弱，"
+    },
+    {
+      "id": 82,
+      "startMs": 487940,
+      "endMs": 495060,
+      "en": "and so it doesn't give you measles, but it looks similar enough to the measles virus that does give you measles",
+      "zh": "这样它不会让你患麻疹，但外形又足够像真正会致病的麻疹病毒，"
+    },
+    {
+      "id": 83,
+      "startMs": 495060,
+      "endMs": 501620,
+      "en": "that having had it, your immune system knows exactly what to do with the real thing when it turns up.",
+      "zh": "让你的免疫系统在真正的病毒出现时，知道该如何应对。"
+    },
+    {
+      "id": 84,
+      "startMs": 501940,
+      "endMs": 506980,
+      "en": "You have to develop that specifically for that particular virus.",
+      "zh": "你必须针对那一种特定病毒专门开发它。"
+    },
+    {
+      "id": 85,
+      "startMs": 507300,
+      "endMs": 512580,
+      "en": "But the thing that made mRNA different is that they were programmable vaccines.",
+      "zh": "但 mRNA 的不同之处在于，它能制造可编程的疫苗。"
+    },
+    {
+      "id": 86,
+      "startMs": 512580,
+      "endMs": 512900,
+      "en": "Okay.",
+      "zh": "好。"
+    },
+    {
+      "id": 87,
+      "startMs": 515680,
+      "endMs": 523040,
+      "en": "So there is something that's known as the central dogma of biology, and it is DNA makes RNA makes proteins.",
+      "zh": "生物学中有个概念叫“中心法则”：DNA 产生 RNA，RNA 产生蛋白质。"
+    },
+    {
+      "id": 88,
+      "startMs": 523780,
+      "endMs": 525780,
+      "en": "And what proteins do is make the body work.",
+      "zh": "而蛋白质的作用，就是让身体运转起来。"
+    },
+    {
+      "id": 89,
+      "startMs": 527620,
+      "endMs": 530820,
+      "en": "So I think almost all listeners will be familiar with DNA.",
+      "zh": "我想，几乎所有听众都熟悉 DNA。"
+    },
+    {
+      "id": 90,
+      "startMs": 530820,
+      "endMs": 533780,
+      "en": "It is, very crudely, the blueprint of you.",
+      "zh": "非常粗略地说，它就是你的蓝图。"
+    },
+    {
+      "id": 91,
+      "startMs": 534920,
+      "endMs": 539160,
+      "en": "DNA is like the instruction manual, the thing you get when you get flat-pack furniture.",
+      "zh": "DNA 就像说明书，就像你买平板包装家具时附带的那本说明书。"
+    },
+    {
+      "id": 92,
+      "startMs": 539560,
+      "endMs": 547080,
+      "en": "But the instruction manual isn't enough unless you have the person to read it and then turn the flat-pack furniture into the bookshelf.",
+      "zh": "但光有说明书还不够，还需要有人读懂它，再把平板家具组装成书架。"
+    },
+    {
+      "id": 93,
+      "startMs": 547560,
+      "endMs": 552680,
+      "en": "And that's sort of what RNA, or messenger RNA, that's where it comes in.",
+      "zh": "这就是 RNA，也就是信使 RNA 发挥作用的地方。"
+    },
+    {
+      "id": 94,
+      "startMs": 555260,
+      "endMs": 559100,
+      "en": "So there was this idea: could we hijack this process?",
+      "zh": "于是有人提出了一个想法：我们能不能劫持这个过程？"
+    },
+    {
+      "id": 95,
+      "startMs": 559580,
+      "endMs": 565660,
+      "en": "One of the pioneers of this idea was a Hungarian scientist called Katalin Karikó.",
+      "zh": "这一想法的先驱之一，是一位名叫卡塔琳·考里科的匈牙利科学家。"
+    },
+    {
+      "id": 96,
+      "startMs": 566860,
+      "endMs": 570220,
+      "en": "I grew up in Hungary in a very sleepy small town.",
+      "zh": "我在匈牙利一个非常宁静的小镇长大。"
+    },
+    {
+      "id": 97,
+      "startMs": 570860,
+      "endMs": 575740,
+      "en": "We did not have running water, a television set, a refrigerator, and so on,",
+      "zh": "我们没有自来水、电视、冰箱之类的东西，"
+    },
+    {
+      "id": 98,
+      "startMs": 575740,
+      "endMs": 578060,
+      "en": "but nobody had, so I didn't know we don't have.",
+      "zh": "但大家都没有，所以我不知道我们是没有这些东西。"
+    },
+    {
+      "id": 99,
+      "startMs": 580620,
+      "endMs": 582780,
+      "en": "She'd been plugging away at this from 1985.",
+      "zh": "从 1985 年起，她就一直埋头钻研这个领域。"
+    },
+    {
+      "id": 100,
+      "startMs": 583900,
+      "endMs": 586540,
+      "en": "You know, she studied this at university in Hungary.",
+      "zh": "她曾在匈牙利的大学研究这个领域。"
+    },
+    {
+      "id": 101,
+      "startMs": 586940,
+      "endMs": 590140,
+      "en": "Quite dramatically, she couldn't do the research she wanted in Hungary.",
+      "zh": "很遗憾，她无法在匈牙利开展自己想做的研究。"
+    },
+    {
+      "id": 102,
+      "startMs": 590380,
+      "endMs": 598780,
+      "en": "She left with $1,000 sewn inside a teddy bear, along with her family, to go and do the research she wanted to do.",
+      "zh": "她和家人一起离开匈牙利，把 1000 美元缝在一只泰迪熊里，去做自己想做的研究。"
+    },
+    {
+      "id": 103,
+      "startMs": 599580,
+      "endMs": 602700,
+      "en": "What we had is most important, loving family.",
+      "zh": "我们拥有的最重要的，是一个充满爱的家庭。"
+    },
+    {
+      "id": 104,
+      "startMs": 603180,
+      "endMs": 606700,
+      "en": "And I learned from them that hard work is part of life.",
+      "zh": "我从他们那里学到，努力工作是生活的一部分。"
+    },
+    {
+      "id": 105,
+      "startMs": 607420,
+      "endMs": 611180,
+      "en": "She moved to the States. She developed this really simple idea.",
+      "zh": "她搬到了美国，并提出了一个非常简单的想法。"
+    },
+    {
+      "id": 106,
+      "startMs": 611420,
+      "endMs": 617180,
+      "en": "Rather than having to make a vaccine idiosyncratic to precisely the virus you're talking about,",
+      "zh": "不必为你所说的每一种特定病毒量身定制疫苗，"
+    },
+    {
+      "id": 107,
+      "startMs": 617500,
+      "endMs": 625500,
+      "en": "you effectively have this programmable technique to make the protein you want in the body when you want and how you want it.",
+      "zh": "你实际上拥有一种可编程技术，能在身体里按你的时间和方式制造你想要的蛋白质。"
+    },
+    {
+      "id": 108,
+      "startMs": 629820,
+      "endMs": 637740,
+      "en": "There was loads of work and promise, so you can see why investors wanted to invest in this idea, which is effectively an",
+      "zh": "这个方向有大量研究，也充满希望，所以投资者愿意投入这个想法——它本质上是一个"
+    },
+    {
+      "id": 109,
+      "startMs": 637740,
+      "endMs": 641020,
+      "en": "idea that you can hack the body to do what you want.",
+      "zh": "这种想法是，你可以改造身体，让它按你的意愿行事。"
+    },
+    {
+      "id": 110,
+      "startMs": 641340,
+      "endMs": 643420,
+      "en": "It's been decades and decades of research, right?",
+      "zh": "这项研究已经持续了几十年，对吧？"
+    },
+    {
+      "id": 111,
+      "startMs": 643500,
+      "endMs": 647900,
+      "en": "I mean, essentially, people have been thinking about mRNA ever since sort of when?",
+      "zh": "我的意思是，人们大约从什么时候开始思考信使RNA的？"
+    },
+    {
+      "id": 112,
+      "startMs": 648060,
+      "endMs": 652700,
+      "en": "Well, she's been going at it since the mid-80s.",
+      "zh": "嗯，她从20世纪80年代中期就一直在研究这个。"
+    },
+    {
+      "id": 113,
+      "startMs": 652780,
+      "endMs": 658060,
+      "en": "Yeah, it's an obvious thing to go for, and it is one of these very, very alluring ideas.",
+      "zh": "是的，这是显而易见的研究方向，也是极具吸引力的想法。"
+    },
+    {
+      "id": 114,
+      "startMs": 658060,
+      "endMs": 660540,
+      "en": "But the truth is, it was very hard.",
+      "zh": "但事实是，这非常困难。"
+    },
+    {
+      "id": 115,
+      "startMs": 660860,
+      "endMs": 670620,
+      "en": "Katalin Karikó was at University of Pennsylvania, and she was, well, as she put it, demoted and forced to retire, effectively.",
+      "zh": "卡塔琳·考里科当时在宾夕法尼亚大学；用她自己的话说，她被降职，实际上被迫退休。"
+    },
+    {
+      "id": 116,
+      "startMs": 670620,
+      "endMs": 680380,
+      "en": "Before Christmas in 2012, I was told that because I did not get grants, so that I have to pack, and that's how I was terminated there.",
+      "zh": "2012年圣诞节前，我被告知因为没拿到资助，必须收拾东西；我就这样被终止聘用。"
+    },
+    {
+      "id": 117,
+      "startMs": 680700,
+      "endMs": 689180,
+      "en": "I could also agonize on 24 years hard work, Saturday, Sunday I was there, nobody appreciate, you know, don't do that.",
+      "zh": "我也可以为24年的辛苦工作而痛苦，周六周日都在那里，但没人欣赏；你知道，别这样。"
+    },
+    {
+      "id": 118,
+      "startMs": 689440,
+      "endMs": 691520,
+      "en": "You have to focus on what next.",
+      "zh": "你必须专注于接下来要做什么。"
+    },
+    {
+      "id": 119,
+      "startMs": 691680,
+      "endMs": 698240,
+      "en": "So she left for this company called BioNTech. That, you know, it didn't look like a sensible career move.",
+      "zh": "于是她去了拜恩泰科公司。你知道，那看起来并不是明智的职业选择。"
+    },
+    {
+      "id": 120,
+      "startMs": 698240,
+      "endMs": 702560,
+      "en": "She said, you know, they laughed at me and said BioNTech doesn't even have a website.",
+      "zh": "她说，人们嘲笑她，还说拜恩泰科甚至没有网站。"
+    },
+    {
+      "id": 121,
+      "startMs": 702800,
+      "endMs": 708560,
+      "en": "In a sense, she left to go to a company that was full of true believers like her.",
+      "zh": "从某种意义上说，她去了一个和她一样充满坚定信念者的公司。"
+    },
+    {
+      "id": 122,
+      "startMs": 708880,
+      "endMs": 717840,
+      "en": "And come 2019, there were mRNA companies, and all of them were working pretty much on cancer vaccines.",
+      "zh": "到了2019年，出现了许多信使RNA公司，它们几乎都在研究癌症疫苗。"
+    },
+    {
+      "id": 123,
+      "startMs": 718160,
+      "endMs": 725680,
+      "en": "And there was a lot of money going into this technology, and there were a lot of growing mutterings in the biotech community.",
+      "zh": "大量资金投入这项技术，生物科技界也越来越多地议论起来。"
+    },
+    {
+      "id": 124,
+      "startMs": 725680,
+      "endMs": 734160,
+      "en": "that it was a hype bubble, that actually this technology still hadn't produced anything or done anything good or useful.",
+      "zh": "有人说这是一场炒作泡沫，这项技术至今没有产出任何成果，也没做成任何有益或有用的事。"
+    },
+    {
+      "id": 125,
+      "startMs": 734240,
+      "endMs": 738400,
+      "en": "and they'd put billions into it, and maybe it would never happen.",
+      "zh": "他们已经投入了数十亿美元，而这一切或许永远不会实现。"
+    },
+    {
+      "id": 126,
+      "startMs": 738960,
+      "endMs": 751620,
+      "en": "I think that most people who may have heard this news last week about a possible mRNA cancer vaccine may have recognized this term mRNA and thought, huh?",
+      "zh": "我想，上周听说可能有信使RNA癌症疫苗的大多数人，或许都认出了“信使RNA”这个词，并心想：嗯？"
+    },
+    {
+      "id": 127,
+      "startMs": 751860,
+      "endMs": 758980,
+      "en": "Does that have something to do with the COVID vaccine? Because that is, I think, the context in which so many of us first heard about mRNA technology.",
+      "zh": "这和新冠疫苗有关吗？我想，那正是许多人第一次听说信使RNA技术的背景。"
+    },
+    {
+      "id": 128,
+      "startMs": 759140,
+      "endMs": 763380,
+      "en": "And so, Tom, how much did the pandemic accelerate the use of this?",
+      "zh": "那么，汤姆，疫情在多大程度上加速了这项技术的应用？"
+    },
+    {
+      "id": 129,
+      "startMs": 763380,
+      "endMs": 766740,
+      "en": "We were hugely lucky and didn't realize it.",
+      "zh": "我们非常幸运，却没有意识到这一点。"
+    },
+    {
+      "id": 130,
+      "startMs": 767220,
+      "endMs": 778260,
+      "en": "As it happened, all of that 30 years of development happened to have just about come to fruition in January of 2020.",
+      "zh": "恰恰就在那时，整整30年的研发成果在2020年1月前后终于即将开花结果。"
+    },
+    {
+      "id": 131,
+      "startMs": 781060,
+      "endMs": 788500,
+      "en": "I remember chatting to the CEO of BioNTech midway through 2020, and he described how he'd been reading the paper",
+      "zh": "我记得2020年年中曾和拜恩泰科的首席执行官聊天，他说自己读到那篇论文时，"
+    },
+    {
+      "id": 132,
+      "startMs": 789060,
+      "endMs": 795140,
+      "en": "in early 2020, in January 2020, and decided then, there's something happening.",
+      "zh": "那是2020年初、也就是2020年1月；他当时决定：有事情正在发生。"
+    },
+    {
+      "id": 133,
+      "startMs": 796020,
+      "endMs": 797780,
+      "en": "This is something we can do something about.",
+      "zh": "这是我们能够应对的事情。"
+    },
+    {
+      "id": 134,
+      "startMs": 798260,
+      "endMs": 804740,
+      "en": "And he went and had a staff meeting and said, We are no longer a cancer company. We're a COVID company.",
+      "zh": "他召集员工开会说：“我们不再是一家癌症公司，而是一家新冠公司。”"
+    },
+    {
+      "id": 135,
+      "startMs": 806660,
+      "endMs": 814340,
+      "en": "They switched, you know, a lot of their research to trying to make a rapid COVID vaccine, but that's because they were believers in their technology.",
+      "zh": "他们把大量研究转向研发快速的新冠疫苗，因为他们相信自己的技术。"
+    },
+    {
+      "id": 136,
+      "startMs": 815780,
+      "endMs": 824180,
+      "en": "A lot of people weren't, because it's never done anything. This has never been a useful technology until it was with COVID.",
+      "zh": "很多人并不相信，因为它从未做成过任何事。在新冠疫情之前，这项技术从未真正派上用场。"
+    },
+    {
+      "id": 137,
+      "startMs": 824180,
+      "endMs": 825700,
+      "en": "Until it was.",
+      "zh": "直到新冠出现。"
+    },
+    {
+      "id": 138,
+      "startMs": 825700,
+      "endMs": 835940,
+      "en": "Okay, so you have described a scientific environment in which mRNA seems to be a huge breakthrough success,",
+      "zh": "好，你描述了一个科学环境：信使RNA似乎取得了巨大的突破性成功，"
+    },
+    {
+      "id": 139,
+      "startMs": 836420,
+      "endMs": 839460,
+      "en": "not just, you know, here in the United States, but around the globe.",
+      "zh": "而且不仅是在美国，在全球都是如此。"
+    },
+    {
+      "id": 140,
+      "startMs": 839460,
+      "endMs": 842100,
+      "en": "If we look at what happened with the COVID vaccine,",
+      "zh": "如果看看新冠疫苗发生了什么，"
+    },
+    {
+      "id": 141,
+      "startMs": 842820,
+      "endMs": 850500,
+      "en": "at the same time with COVID, the development of the COVID mRNA vaccines, we also saw the rise of vaccine skepticism.",
+      "zh": "我们也会看到，随着新冠和新冠信使RNA疫苗的开发，疫苗怀疑主义兴起了。"
+    },
+    {
+      "id": 142,
+      "startMs": 850820,
+      "endMs": 857220,
+      "en": "And one man who really developed a big following during this time period and rose to prominence with his views",
+      "zh": "而有一个人在这段时期聚集了大批支持者，也凭借自己的观点声名鹊起，"
+    },
+    {
+      "id": 143,
+      "startMs": 857700,
+      "endMs": 863220,
+      "en": "is RFK Jr., who was appointed by President Trump as the Secretary of Health and Human Services.",
+      "zh": "那就是小罗伯特·F·肯尼迪，他被特朗普总统任命为美国卫生与公众服务部长。"
+    },
+    {
+      "id": 144,
+      "startMs": 863940,
+      "endMs": 873940,
+      "en": "And we have seen him in recent months take direct aim at what he believes is the safety and efficacy of mRNA.",
+      "zh": "近几个月，我们看到他直接质疑自己认为的信使RNA安全性和有效性。"
+    },
+    {
+      "id": 145,
+      "startMs": 874740,
+      "endMs": 883220,
+      "en": "In August of 2025, he announced that the US government would cancel $500 million worth of funding for mRNA vaccines.",
+      "zh": "2025年8月，他宣布美国政府将取消5亿美元的信使RNA疫苗研究经费。"
+    },
+    {
+      "id": 146,
+      "startMs": 883540,
+      "endMs": 887300,
+      "en": "He also posted a video online in which he said:",
+      "zh": "他还在网上发布视频说："
+    },
+    {
+      "id": 147,
+      "startMs": 887380,
+      "endMs": 894980,
+      "en": "As the pandemic showed us, mRNA vaccines don't perform well against viruses that infect the upper respiratory tract.",
+      "zh": "正如疫情所显示的，信使RNA疫苗对感染上呼吸道的病毒效果不佳。"
+    },
+    {
+      "id": 148,
+      "startMs": 895380,
+      "endMs": 902180,
+      "en": "And he went on to say that mRNA technology poses more risks than benefits for these respiratory viruses.",
+      "zh": "他还说，对于这些呼吸道病毒，信使RNA技术带来的风险超过了收益。"
+    },
+    {
+      "id": 149,
+      "startMs": 902500,
+      "endMs": 906340,
+      "en": "Look, I come from a family in which there are many folks who work in science.",
+      "zh": "我来自一个有许多人从事科学工作的家庭。"
+    },
+    {
+      "id": 150,
+      "startMs": 906340,
+      "endMs": 911300,
+      "en": "I've certainly heard this widely disputed, and RFK is known as a vaccine skeptic.",
+      "zh": "我当然听说过，这一说法受到广泛质疑；而且RFK是出了名的疫苗怀疑论者。"
+    },
+    {
+      "id": 151,
+      "startMs": 911700,
+      "endMs": 919780,
+      "en": "But can you explain this all to us and the allegations he is making specifically about the efficacy for upper respiratory viruses?",
+      "zh": "但你能否向我们解释这一切，以及他针对信使RNA对上呼吸道病毒有效性的指控？"
+    },
+    {
+      "id": 152,
+      "startMs": 920260,
+      "endMs": 924360,
+      "en": "Yeah, it's weird, because we're talking about mRNA, which—Which",
+      "zh": "是的，这很奇怪，因为我们谈的是信使RNA，而它——它"
+    },
+    {
+      "id": 153,
+      "startMs": 924360,
+      "endMs": 933560,
+      "en": "has received a huge boost from the pandemic, scientifically, in terms of prominence, in terms of the ability of these companies to make vaccines.",
+      "zh": "在科学上因疫情获得了巨大推动，无论是知名度，还是这些公司制造疫苗的能力。"
+    },
+    {
+      "id": 154,
+      "startMs": 933880,
+      "endMs": 938920,
+      "en": "But it's also the case that the yin and the yang of that has also had a huge boost,",
+      "zh": "但与之相反的一面也同样得到了巨大推动，"
+    },
+    {
+      "id": 155,
+      "startMs": 938920,
+      "endMs": 943240,
+      "en": "and I think probably RFK Jr. wouldn't be here either without the pandemic.",
+      "zh": "我想，如果没有疫情，或许也不会有今天的小罗伯特·F·肯尼迪。"
+    },
+    {
+      "id": 156,
+      "startMs": 943240,
+      "endMs": 952120,
+      "en": "I remember I was working at The Times during the arrival of those vaccines, and we were looking each day.",
+      "zh": "我记得那些疫苗问世时，我正在《泰晤士报》工作，我们每天都在观察。"
+    },
+    {
+      "id": 157,
+      "startMs": 952120,
+      "endMs": 956120,
+      "en": "The UK had some of the best data in the world during the pandemic.",
+      "zh": "疫情期间，英国拥有世界上最好的数据之一。"
+    },
+    {
+      "id": 158,
+      "startMs": 956120,
+      "endMs": 958760,
+      "en": "There's a lot we did wrong, but the data was astonishing.",
+      "zh": "我们有很多地方做错了，但数据令人震惊。"
+    },
+    {
+      "id": 159,
+      "startMs": 959400,
+      "endMs": 964200,
+      "en": "And you could see the death rate by age",
+      "zh": "你可以看到按年龄划分的死亡率"
+    },
+    {
+      "id": 160,
+      "startMs": 964200,
+      "endMs": 966680,
+      "en": "group in each day's death data.",
+      "zh": "各年龄组每天的死亡数据中。"
+    },
+    {
+      "id": 161,
+      "startMs": 967160,
+      "endMs": 970120,
+      "en": "So how many people have been infected and how many people have died?",
+      "zh": "那么，有多少人感染，又有多少人死亡？"
+    },
+    {
+      "id": 162,
+      "startMs": 970600,
+      "endMs": 975720,
+      "en": "We also knew that we were vaccinating people, starting at the oldest and then working down.",
+      "zh": "我们还知道，接种从最年长者开始，再逐步向下推进。"
+    },
+    {
+      "id": 163,
+      "startMs": 976280,
+      "endMs": 978840,
+      "en": "And what you saw was this astonishing thing.",
+      "zh": "而你看到的是一件惊人的事。"
+    },
+    {
+      "id": 164,
+      "startMs": 979240,
+      "endMs": 990540,
+      "en": "In each age group, there would be this sudden dip in the over-85s, this sudden dip in the over-80s, this sudden dip in the over-75s—you could see.",
+      "zh": "在每个年龄组中，85岁以上、80岁以上、75岁以上人群的死亡数据都会突然下降，清晰可见。"
+    },
+    {
+      "id": 165,
+      "startMs": 991600,
+      "endMs": 995520,
+      "en": "In real time, the effect of the vaccines.",
+      "zh": "你能实时看到疫苗的效果。"
+    },
+    {
+      "id": 166,
+      "startMs": 995840,
+      "endMs": 1000480,
+      "en": "And you were saying you would see a drop in the data once the vaccine was given to that age group.",
+      "zh": "你的意思是，一旦给这个年龄组接种疫苗，数据就会下降。"
+    },
+    {
+      "id": 167,
+      "startMs": 1001280,
+      "endMs": 1006000,
+      "en": "Yes, you've got this sort of two-, three-, four-week lag for immunity.",
+      "zh": "是的，免疫力大约会延迟两到四周形成。"
+    },
+    {
+      "id": 168,
+      "startMs": 1006320,
+      "endMs": 1009120,
+      "en": "Fatality rate, they've brought it down an order of magnitude.",
+      "zh": "死亡率降低了一个数量级。"
+    },
+    {
+      "id": 169,
+      "startMs": 1009360,
+      "endMs": 1019520,
+      "en": "The Health and Human Services Secretary saying that mRNA vaccines don't perform well against viruses that infect the upper respiratory tract,",
+      "zh": "卫生与公众服务部长称，mRNA疫苗对感染上呼吸道的病毒效果不佳。"
+    },
+    {
+      "id": 170,
+      "startMs": 1019840,
+      "endMs": 1022080,
+      "en": "and he is saying that the pandemic showed us this.",
+      "zh": "他还说，疫情向我们展示了这一点。"
+    },
+    {
+      "id": 171,
+      "startMs": 1022480,
+      "endMs": 1025760,
+      "en": "It sounds like you are saying that is just not accurate.",
+      "zh": "听起来，你认为这并不准确。"
+    },
+    {
+      "id": 172,
+      "startMs": 1026080,
+      "endMs": 1029600,
+      "en": "The pandemic actually showed us the efficacy of these vaccines.",
+      "zh": "疫情实际上展示了这些疫苗的有效性。"
+    },
+    {
+      "id": 173,
+      "startMs": 1029600,
+      "endMs": 1038400,
+      "en": "I've long since left the situation where I feel like I can change anyone's mind about anything to do with COVID, but it's just not true.",
+      "zh": "我早已不再认为自己能改变任何人对新冠的看法，但那种说法就是不正确。"
+    },
+    {
+      "id": 174,
+      "startMs": 1038400,
+      "endMs": 1048480,
+      "en": "The fact is, before the vaccines, in a Western country with the age stratification that you have in the US and the UK,",
+      "zh": "事实是，在疫苗出现前，像美国和英国这样按年龄分层的西方国家，"
+    },
+    {
+      "id": 175,
+      "startMs": 1048480,
+      "endMs": 1051040,
+      "en": "you're looking at about 1% overall.",
+      "zh": "总体死亡率约为1%。"
+    },
+    {
+      "id": 176,
+      "startMs": 1051220,
+      "endMs": 1055060,
+      "en": "Fatality rate. And afterwards, there wasn't that.",
+      "zh": "这是死亡率；而在那之后，就不是这样了。"
+    },
+    {
+      "id": 177,
+      "startMs": 1055380,
+      "endMs": 1061380,
+      "en": "I mean, look, I do think when you have somebody in a high position of authority.",
+      "zh": "我是说，当一个人身居高位、拥有很大权威时，"
+    },
+    {
+      "id": 178,
+      "startMs": 1062240,
+      "endMs": 1068640,
+      "en": "In the health department in the United States saying one thing, and you have others in the medical community saying,",
+      "zh": "美国卫生部门说一套，而医学界其他人士却说，"
+    },
+    {
+      "id": 179,
+      "startMs": 1068640,
+      "endMs": 1074480,
+      "en": "No, no, this mRNA technology has been effective; it is a scientific breakthrough.",
+      "zh": "不，不，这项mRNA技术一直有效，是一项科学突破。"
+    },
+    {
+      "id": 180,
+      "startMs": 1074880,
+      "endMs": 1075920,
+      "en": "People can get confused.",
+      "zh": "人们可能会感到困惑。"
+    },
+    {
+      "id": 181,
+      "startMs": 1076320,
+      "endMs": 1082400,
+      "en": "I have another question here about an allegation surrounding these mRNA vaccines,",
+      "zh": "我还有一个关于这些mRNA疫苗的指控要问，"
+    },
+    {
+      "id": 182,
+      "startMs": 1082880,
+      "endMs": 1087200,
+      "en": "and that is: are they less safe than other forms of vaccines?",
+      "zh": "那就是：它们是否比其他疫苗更不安全？"
+    },
+    {
+      "id": 183,
+      "startMs": 1087200,
+      "endMs": 1094320,
+      "en": "And, Tom, the reason I am asking this is because when the funding for mRNA vaccine research was pulled,",
+      "zh": "汤姆，我之所以问这个，是因为mRNA疫苗研究资金被撤回时，"
+    },
+    {
+      "id": 184,
+      "startMs": 1094480,
+      "endMs": 1099840,
+      "en": "the Department of Health and Human Services here in the US issued a statement that said in part that",
+      "zh": "美国卫生与公众服务部发表声明，部分内容称，"
+    },
+    {
+      "id": 185,
+      "startMs": 1099840,
+      "endMs": 1109280,
+      "en": "technology that failed to meet current scientific standards would be phased out in favor of evidence-based, ethically grounded solutions",
+      "zh": "未达到现行科学标准的技术将被逐步淘汰，转而采用循证且符合伦理的方案，"
+    },
+    {
+      "id": 186,
+      "startMs": 1109680,
+      "endMs": 1112880,
+      "en": "like whole-virus vaccines and novel platforms.",
+      "zh": "例如全病毒疫苗和新型平台。"
+    },
+    {
+      "id": 187,
+      "startMs": 1113200,
+      "endMs": 1118080,
+      "en": "So are mRNA vaccines less safe than traditional vaccines?",
+      "zh": "那么，mRNA疫苗比传统疫苗更不安全吗？"
+    },
+    {
+      "id": 188,
+      "startMs": 1118800,
+      "endMs": 1121440,
+      "en": "I don't think there is particularly good evidence for that.",
+      "zh": "我认为没有特别有力的证据支持这一点。"
+    },
+    {
+      "id": 189,
+      "startMs": 1121440,
+      "endMs": 1124420,
+      "en": "I mean, every intervention has some side effects.",
+      "zh": "我是说，每种干预都有一些副作用。"
+    },
+    {
+      "id": 190,
+      "startMs": 1124420,
+      "endMs": 1126580,
+      "en": "If it's going to work, it has side effects.",
+      "zh": "如果它能发挥作用，就会有副作用。"
+    },
+    {
+      "id": 191,
+      "startMs": 1127140,
+      "endMs": 1128900,
+      "en": "Every intervention will vary on that.",
+      "zh": "不同干预在这方面会有差异。"
+    },
+    {
+      "id": 192,
+      "startMs": 1128900,
+      "endMs": 1134180,
+      "en": "I mean, there is certainly going to be whole-virus vaccines which are far less safe.",
+      "zh": "当然，有些全病毒疫苗的安全性会低得多。"
+    },
+    {
+      "id": 193,
+      "startMs": 1134260,
+      "endMs": 1140020,
+      "en": "There were side effects to this. There is myocarditis, pericarditis.",
+      "zh": "这类疫苗确实有副作用，包括心肌炎和心包炎。"
+    },
+    {
+      "id": 194,
+      "startMs": 1140280,
+      "endMs": 1143640,
+      "en": "Effects on the heart, they were rare.",
+      "zh": "对心脏的影响很少见。"
+    },
+    {
+      "id": 195,
+      "startMs": 1143720,
+      "endMs": 1150600,
+      "en": "They were normally not that severe, but they were present to an extent that,",
+      "zh": "这些影响通常并不严重，但确实存在，而且在一定程度上，"
+    },
+    {
+      "id": 196,
+      "startMs": 1151240,
+      "endMs": 1159240,
+      "en": "in the fittest, youngest age groups, at times of low prevalence for COVID, you could make the case that the cost-benefit analysis didn't work.",
+      "zh": "在最健康、最年轻的年龄组，且新冠流行率较低时，可以说成本效益分析并不成立。"
+    },
+    {
+      "id": 197,
+      "startMs": 1159240,
+      "endMs": 1163160,
+      "en": "And these were very, very finely balanced arguments.",
+      "zh": "这些论点之间的权衡极其微妙。"
+    },
+    {
+      "id": 198,
+      "startMs": 1163560,
+      "endMs": 1172920,
+      "en": "Now, what I would say is, these were signals that were really hard to pick up until you started doing this at population scale.",
+      "zh": "我要说的是，直到进行大规模人群研究，这些信号才很难被察觉。"
+    },
+    {
+      "id": 199,
+      "startMs": 1173240,
+      "endMs": 1179240,
+      "en": "And that gives you a sense of how low the side effects were.",
+      "zh": "这让你了解副作用有多低。"
+    },
+    {
+      "id": 200,
+      "startMs": 1179240,
+      "endMs": 1182440,
+      "en": "But it would be completely irresponsible to say that they weren't there.",
+      "zh": "但说副作用不存在，将是完全不负责任的。"
+    },
+    {
+      "id": 201,
+      "startMs": 1182680,
+      "endMs": 1184600,
+      "en": "But let's park this.",
+      "zh": "但我们先把这个问题放一放。"
+    },
+    {
+      "id": 202,
+      "startMs": 1184920,
+      "endMs": 1193000,
+      "en": "So you might think, and I disagree with you, but you might think that the side effects of this weren't worth it",
+      "zh": "所以你可能会认为——我不同意——这种副作用不值得，"
+    },
+    {
+      "id": 203,
+      "startMs": 1193000,
+      "endMs": 1194760,
+      "en": "for much of the population for COVID.",
+      "zh": "对大多数新冠人群来说不值得。"
+    },
+    {
+      "id": 204,
+      "startMs": 1195680,
+      "endMs": 1199600,
+      "en": "Fine, but what about cancer?",
+      "zh": "好吧，但癌症呢？"
+    },
+    {
+      "id": 205,
+      "startMs": 1200240,
+      "endMs": 1206520,
+      "en": "Because even if you think COVID isn't that bad—and for a lot of the population, it isn't that bad,",
+      "zh": "因为即使你认为新冠没那么严重——对许多人来说确实如此，"
+    },
+    {
+      "id": 206,
+      "startMs": 1207080,
+      "endMs": 1210760,
+      "en": "it would be my contention that cancer is pretty bad,",
+      "zh": "我的观点是，癌症相当严重，"
+    },
+    {
+      "id": 207,
+      "startMs": 1211160,
+      "endMs": 1215880,
+      "en": "and that actually the side effects have to be pretty stonking",
+      "zh": "因此副作用必须大到相当惊人，"
+    },
+    {
+      "id": 208,
+      "startMs": 1216520,
+      "endMs": 1220040,
+      "en": "in order for you not to take treatment for cancer,",
+      "zh": "你才会不接受癌症治疗，"
+    },
+    {
+      "id": 209,
+      "startMs": 1220200,
+      "endMs": 1225000,
+      "en": "and that is indeed why we do surgery and chemotherapy and radiotherapy and all these things",
+      "zh": "这正是我们采用手术、化疗、放疗等各种手段的原因，"
+    },
+    {
+      "id": 210,
+      "startMs": 1225000,
+      "endMs": 1229560,
+      "en": "that you definitely wouldn't do for COVID, but do do them for cancer.",
+      "zh": "这些手段对新冠肯定不会用，但会用于癌症。"
+    },
+    {
+      "id": 211,
+      "startMs": 1230280,
+      "endMs": 1234600,
+      "en": "Tom, if we can fast-forward, earlier this month, in August.",
+      "zh": "汤姆，我们快进到本月早些时候，也就是八月。"
+    },
+    {
+      "id": 212,
+      "startMs": 1235360,
+      "endMs": 1243680,
+      "en": "The FDA, the Food and Drug Administration, approved the first mRNA flu vaccine made by Moderna,",
+      "zh": "美国食品药品监督管理局FDA批准了莫德纳生产的首款mRNA流感疫苗，"
+    },
+    {
+      "id": 213,
+      "startMs": 1244080,
+      "endMs": 1248000,
+      "en": "the same company that is being heralded for this new skin cancer vaccine.",
+      "zh": "也就是那家因这款新型皮肤癌疫苗而备受推崇的公司。"
+    },
+    {
+      "id": 214,
+      "startMs": 1248560,
+      "endMs": 1255760,
+      "en": "And my understanding is that initially the FDA had declined to even review Moderna's application",
+      "zh": "据我了解，FDA起初甚至拒绝审查莫德纳的申请，"
+    },
+    {
+      "id": 215,
+      "startMs": 1255760,
+      "endMs": 1262240,
+      "en": "for a flu vaccine developed through mRNA technology, but then seemed to reverse course.",
+      "zh": "那是通过mRNA技术研发的流感疫苗，但后来FDA似乎改变了方向。"
+    },
+    {
+      "id": 216,
+      "startMs": 1263080,
+      "endMs": 1264040,
+      "en": "Why is that?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 217,
+      "startMs": 1264520,
+      "endMs": 1269240,
+      "en": "It's slightly different with the flu vaccine in that we do have a flu vaccine that we use every year",
+      "zh": "流感疫苗略有不同，因为我们确实有一种每年使用的流感疫苗，"
+    },
+    {
+      "id": 218,
+      "startMs": 1269400,
+      "endMs": 1276040,
+      "en": "that changes every year with the strain of flu that's circulating.",
+      "zh": "它会随当年流行的流感毒株每年变化。"
+    },
+    {
+      "id": 219,
+      "startMs": 1276040,
+      "endMs": 1283480,
+      "en": "Flu changes a lot, so you have to tweak the vaccine each year, and that's done with a traditional vaccine manufacturing technique.",
+      "zh": "流感变化很大，所以疫苗必须每年调整，这通过传统的疫苗生产技术完成。"
+    },
+    {
+      "id": 220,
+      "startMs": 1283800,
+      "endMs": 1291320,
+      "en": "So there is less of an impetus to use something fancy and expensive like mRNA, or comparatively expensive.",
+      "zh": "因此，使用mRNA这种新颖昂贵、或相对昂贵的技术，动力就没那么大。"
+    },
+    {
+      "id": 221,
+      "startMs": 1293020,
+      "endMs": 1297580,
+      "en": "But the mRNA does offer better strain matching.",
+      "zh": "但mRNA确实能更好地匹配毒株。"
+    },
+    {
+      "id": 222,
+      "startMs": 1297820,
+      "endMs": 1299740,
+      "en": "Sometimes you get the strain wrong.",
+      "zh": "有时你会选错毒株。"
+    },
+    {
+      "id": 223,
+      "startMs": 1299740,
+      "endMs": 1303180,
+      "en": "What you are generally doing is, you have these flu surveillance people who are looking",
+      "zh": "通常的做法是，让流感监测人员观察，"
+    },
+    {
+      "id": 224,
+      "startMs": 1303180,
+      "endMs": 1308060,
+      "en": "at what's happening in Australia during their winter and then trying to fast-forward to what's happening",
+      "zh": "澳大利亚冬季的情况，然后推测接下来会发生什么，"
+    },
+    {
+      "id": 225,
+      "startMs": 1308060,
+      "endMs": 1311820,
+      "en": "in the Northern Hemisphere during its winter, and sometimes they get it wrong.",
+      "zh": "在北半球冬季的情况；而他们有时会判断错误。"
+    },
+    {
+      "id": 226,
+      "startMs": 1312220,
+      "endMs": 1317820,
+      "en": "Whereas with mRNA, you can match better and you can move more nimbly.",
+      "zh": "而使用mRNA，匹配会更准确，调整也更灵活。"
+    },
+    {
+      "id": 227,
+      "startMs": 1318220,
+      "endMs": 1322220,
+      "en": "So I think there was—there was elements of politics.",
+      "zh": "所以我认为，这其中确实有政治因素。"
+    },
+    {
+      "id": 228,
+      "startMs": 1322220,
+      "endMs": 1325100,
+      "en": "The word mRNA has become...",
+      "zh": "“mRNA”这个词已经变得……"
+    },
+    {
+      "id": 229,
+      "startMs": 1325660,
+      "endMs": 1328300,
+      "en": "political in a way that isn't helpful.",
+      "zh": "这种政治化并没有帮助。"
+    },
+    {
+      "id": 230,
+      "startMs": 1328700,
+      "endMs": 1336620,
+      "en": "And I don't want to speak to the FDA's particular decisions on the flu vaccine because I am not across it,",
+      "zh": "我不想评论 FDA 在流感疫苗上的具体决定，因为我并不了解相关情况。"
+    },
+    {
+      "id": 231,
+      "startMs": 1336780,
+      "endMs": 1346860,
+      "en": "but I would say that there are advantages of the mRNA, but there is less of a compelling public health case than there might be in other uses of it.",
+      "zh": "但我想说，信使 RNA 确有优势；只是与它的其他用途相比，用于流感疫苗的公共卫生理由没那么有说服力。"
+    },
+    {
+      "id": 232,
+      "startMs": 1347420,
+      "endMs": 1356620,
+      "en": "From where I sit in the United States, Tom, it seems like there are two conversations happening at one time around mRNA technology.",
+      "zh": "汤姆，以我在美国的观察，围绕信使 RNA 技术似乎同时存在两种讨论。"
+    },
+    {
+      "id": 233,
+      "startMs": 1356940,
+      "endMs": 1363020,
+      "en": "There is the scientific conversation, and in a previous life, in fact, I used to cover some biotech.",
+      "zh": "一种是科学层面的讨论。事实上，我以前曾报道过一些生物科技。"
+    },
+    {
+      "id": 234,
+      "startMs": 1363020,
+      "endMs": 1369820,
+      "en": "I was based in Cambridge, Massachusetts, and, you know, I remember interviewing one of the co-founders of Moderna.",
+      "zh": "当时我常驻马萨诸塞州剑桥，也记得曾采访过莫德纳的一位联合创始人。"
+    },
+    {
+      "id": 235,
+      "startMs": 1369820,
+      "endMs": 1371020,
+      "en": "This was years ago,",
+      "zh": "那已经是多年前的事了。"
+    },
+    {
+      "id": 236,
+      "startMs": 1371500,
+      "endMs": 1380220,
+      "en": "and there were many people in and around that ecosystem really excited about the potential of this type of technology.",
+      "zh": "当时那个生态圈内外有许多人都对这类技术的潜力感到非常兴奋。"
+    },
+    {
+      "id": 237,
+      "startMs": 1380780,
+      "endMs": 1382300,
+      "en": "And that continues to exist, right?",
+      "zh": "这种热情现在依然存在，对吧？"
+    },
+    {
+      "id": 238,
+      "startMs": 1382380,
+      "endMs": 1389580,
+      "en": "And then on the other side, as we've discussed, there's this political conversation we're having with RFK Jr.",
+      "zh": "而另一方面，正如我们所讨论的，我们还在围绕小罗伯特·F·肯尼迪展开政治层面的讨论。"
+    },
+    {
+      "id": 239,
+      "startMs": 1390060,
+      "endMs": 1397580,
+      "en": "And his decision to cancel half a billion dollars' worth of funding for mRNA research.",
+      "zh": "以及他决定取消总额五亿美元的信使 RNA 研究经费。"
+    },
+    {
+      "id": 240,
+      "startMs": 1398140,
+      "endMs": 1403580,
+      "en": "You know, earlier we mentioned Dr Karikó, who helped develop this technology.",
+      "zh": "我们之前提到过帮助开发这项技术的卡塔琳·考里科博士。"
+    },
+    {
+      "id": 241,
+      "startMs": 1403580,
+      "endMs": 1408700,
+      "en": "She went on to later win the Nobel Prize along with her research partner.",
+      "zh": "后来，她与自己的研究伙伴共同获得了诺贝尔奖。"
+    },
+    {
+      "id": 242,
+      "startMs": 1409280,
+      "endMs": 1415920,
+      "en": "And when these funding cuts were announced last year, she spoke with my colleagues here at the BBC, in which she said:",
+      "zh": "去年这些削减经费的措施宣布后，她接受了我在 BBC 同事的采访。她说："
+    },
+    {
+      "id": 243,
+      "startMs": 1416000,
+      "endMs": 1420400,
+      "en": "It's a huge, huge mistake. It was based on misinformation.",
+      "zh": "这是一个巨大的、巨大的错误，依据的是错误信息。"
+    },
+    {
+      "id": 244,
+      "startMs": 1421160,
+      "endMs": 1424600,
+      "en": "And not evidence. He ignored evidence, he ignored facts,",
+      "zh": "而不是证据。他无视证据，也无视事实。"
+    },
+    {
+      "id": 245,
+      "startMs": 1425400,
+      "endMs": 1431800,
+      "en": "and the US ability to develop vaccine during the next pandemic suffers tremendously.",
+      "zh": "这会严重削弱美国在下一次大流行期间研发疫苗的能力。"
+    },
+    {
+      "id": 246,
+      "startMs": 1432120,
+      "endMs": 1433080,
+      "en": "In her view:",
+      "zh": "在她看来："
+    },
+    {
+      "id": 247,
+      "startMs": 1433160,
+      "endMs": 1435640,
+      "en": "I was moving to the United States from Hungary.",
+      "zh": "我当时正从匈牙利搬到美国。"
+    },
+    {
+      "id": 248,
+      "startMs": 1435720,
+      "endMs": 1440280,
+      "en": "When I couldn't do my work here in the US, I moved to another country.",
+      "zh": "当我无法在美国继续工作时，我就搬去了另一个国家。"
+    },
+    {
+      "id": 249,
+      "startMs": 1440280,
+      "endMs": 1446440,
+      "en": "So it seems that scientists need to move to another country",
+      "zh": "所以看来，科学家需要搬到另一个国家，"
+    },
+    {
+      "id": 250,
+      "startMs": 1446440,
+      "endMs": 1451240,
+      "en": "if they want to advance in this messenger RNA vaccine field.",
+      "zh": "如果他们想在信使 RNA 疫苗领域取得进展。"
+    },
+    {
+      "id": 251,
+      "startMs": 1451400,
+      "endMs": 1456280,
+      "en": "So this is a national-security issue; the US will suffer.",
+      "zh": "所以这是一个国家安全问题，美国将因此受损。"
+    },
+    {
+      "id": 252,
+      "startMs": 1456440,
+      "endMs": 1461880,
+      "en": "So what does it mean for Americans if the government chooses not to fund these technologies?",
+      "zh": "那么，如果政府选择不给这些技术提供资金，这对美国人意味着什么？"
+    },
+    {
+      "id": 253,
+      "startMs": 1461960,
+      "endMs": 1467720,
+      "en": "Look, she's devoted her career to this, so perhaps unsurprisingly she was cross and baffled.",
+      "zh": "她毕生致力于这项事业，所以她感到恼火和困惑，也许并不奇怪。"
+    },
+    {
+      "id": 254,
+      "startMs": 1467720,
+      "endMs": 1471160,
+      "en": "And she moved from Hungary in order to do her science.",
+      "zh": "她当初离开匈牙利，就是为了从事自己的科学研究。"
+    },
+    {
+      "id": 255,
+      "startMs": 1471240,
+      "endMs": 1479160,
+      "en": "So there are plenty of other people who are far less constrained who will pick up sticks and move to do the science where it works.",
+      "zh": "所以，还有许多约束少得多的人，他们会收拾行囊，搬到能够开展这项研究的地方。"
+    },
+    {
+      "id": 256,
+      "startMs": 1479400,
+      "endMs": 1483080,
+      "en": "But if there's another pandemic and it's a worse virus,",
+      "zh": "但如果再次发生大流行，而且病毒更加危险，"
+    },
+    {
+      "id": 257,
+      "startMs": 1483400,
+      "endMs": 1487880,
+      "en": "and actually we can make a vaccine quite easily using mRNA,",
+      "zh": "而我们其实可以利用信使 RNA 很容易地制造疫苗，"
+    },
+    {
+      "id": 258,
+      "startMs": 1488200,
+      "endMs": 1492360,
+      "en": "people are going to have to rather rapidly re-evaluate their views.",
+      "zh": "人们将不得不相当迅速地重新评估自己的看法。"
+    },
+    {
+      "id": 259,
+      "startMs": 1492840,
+      "endMs": 1498280,
+      "en": "And I suspect having a US that has pulled out of research,",
+      "zh": "我想，一个退出研究的美国，"
+    },
+    {
+      "id": 260,
+      "startMs": 1498680,
+      "endMs": 1505480,
+      "en": "probably pulled out of the sort of manufacturing that would be required to make those vaccines at scale,",
+      "zh": "很可能也会退出大规模生产这类疫苗所需的制造环节，"
+    },
+    {
+      "id": 261,
+      "startMs": 1505720,
+      "endMs": 1510280,
+      "en": "will be bad for the US and ultimately very bad for the world as well.",
+      "zh": "这对美国不利，最终也会对全世界非常不利。"
+    },
+    {
+      "id": 262,
+      "startMs": 1511120,
+      "endMs": 1514000,
+      "en": "But you've got plenty of private companies,",
+      "zh": "但美国有许多私营企业，"
+    },
+    {
+      "id": 263,
+      "startMs": 1514080,
+      "endMs": 1522480,
+      "en": "and you've got, particularly in Cambridge, the world's leading biotech scene with a bunch of investors.",
+      "zh": "尤其是在剑桥，还有全球领先的生物科技产业，以及一批投资者。"
+    },
+    {
+      "id": 264,
+      "startMs": 1522800,
+      "endMs": 1527600,
+      "en": "So I suspect you will find that there is plenty of money swirling around.",
+      "zh": "所以我想，你会发现市场上有大量资金在流动。"
+    },
+    {
+      "id": 265,
+      "startMs": 1530700,
+      "endMs": 1535180,
+      "en": "I think a very easy argument for someone like RFK Jr.",
+      "zh": "我认为，对小罗伯特·F·肯尼迪这样的人来说，一个很容易提出的说法是："
+    },
+    {
+      "id": 266,
+      "startMs": 1535260,
+      "endMs": 1536460,
+      "en": "to make is actually, look:",
+      "zh": "其实就是：你看，"
+    },
+    {
+      "id": 267,
+      "startMs": 1537400,
+      "endMs": 1540680,
+      "en": "I don't think this works terribly well in viruses.",
+      "zh": "我不认为这项技术用于病毒时效果很好。"
+    },
+    {
+      "id": 268,
+      "startMs": 1540680,
+      "endMs": 1544200,
+      "en": "I don't think it's worth the risk in viruses.",
+      "zh": "我不认为在病毒领域值得冒这个风险。"
+    },
+    {
+      "id": 269,
+      "startMs": 1544200,
+      "endMs": 1550600,
+      "en": "And I will reflect—you know, I'm making this case, I disagree, and I want to say I disagree, but it's an easy argument to make.",
+      "zh": "我也要说明，虽然我是在提出这个说法，但我并不同意，而且我想明确说我不同意；只是这个说法很容易提出。"
+    },
+    {
+      "id": 270,
+      "startMs": 1550600,
+      "endMs": 1557600,
+      "en": "Say, a virus that doesn't kill many people, comparatively, I don't think we should be giving them this new technology.",
+      "zh": "比如说，某种病毒相对而言不会造成很多人死亡，我不认为我们应该把这项新技术用于它们。"
+    },
+    {
+      "id": 271,
+      "startMs": 1558000,
+      "endMs": 1564280,
+      "en": "It is a far easier argument to make, but cancer is a different issue.",
+      "zh": "这种说法容易得多，但癌症是另一回事。"
+    },
+    {
+      "id": 272,
+      "startMs": 1564360,
+      "endMs": 1567400,
+      "en": "Obviously, the risk-benefit changes completely.",
+      "zh": "显然，风险与收益的权衡完全不同。"
+    },
+    {
+      "id": 273,
+      "startMs": 1567400,
+      "endMs": 1570520,
+      "en": "So I suspect you might well see that pivot.",
+      "zh": "所以我想，你很可能会看到这种转向。"
+    },
+    {
+      "id": 274,
+      "startMs": 1572060,
+      "endMs": 1577660,
+      "en": "Because I suspect that the US will want to keep on funding this stuff.",
+      "zh": "因为我想，美国会希望继续为这些研究提供资金。"
+    },
+    {
+      "id": 275,
+      "startMs": 1583300,
+      "endMs": 1588980,
+      "en": "Well, Tom, thank you for taking the time to walk us through this all and help us try to make sense of it.",
+      "zh": "汤姆，谢谢你抽出时间为我们梳理这一切，帮助我们理解这个问题。"
+    },
+    {
+      "id": 276,
+      "startMs": 1589380,
+      "endMs": 1590900,
+      "en": "Appreciate it. Cheers.",
+      "zh": "谢谢你。谢了。"
+    },
+    {
+      "id": 277,
+      "startMs": 1594960,
+      "endMs": 1600560,
+      "en": "That was Tom Whipple, host of the BBC's Inside Science program and a writer for the Times of London.",
+      "zh": "刚才是汤姆·惠普尔，他是 BBC《Inside Science》节目的主持人，也是《泰晤士报》伦敦版的作者。"
+    },
+    {
+      "id": 278,
+      "startMs": 1600800,
+      "endMs": 1603920,
+      "en": "We contacted the Department of Health and Human Services for comment.",
+      "zh": "我们联系了美国卫生与公众服务部，请其置评。"
+    },
+    {
+      "id": 279,
+      "startMs": 1604000,
+      "endMs": 1605680,
+      "en": "They responded in part, quote:",
+      "zh": "对方部分回应如下："
+    },
+    {
+      "id": 280,
+      "startMs": 1606160,
+      "endMs": 1612560,
+      "en": "Secretary Kennedy has been clear that he believes that mRNA products warrant heightened scientific scrutiny.",
+      "zh": "肯尼迪部长明确表示，他认为信使 RNA 产品需要接受更严格的科学审查。"
+    },
+    {
+      "id": 281,
+      "startMs": 1612960,
+      "endMs": 1621200,
+      "en": "HHS continues to support mRNA research where the science shows promise, including for hard-to-treat cancers.",
+      "zh": "美国卫生与公众服务部将继续支持有科学前景的信使 RNA 研究，包括针对难以治疗的癌症的研究。"
+    },
+    {
+      "id": 282,
+      "startMs": 1621920,
+      "endMs": 1627120,
+      "en": "As always, if you have questions, complaints, story ideas, you can reach us here at The Global Story anytime.",
+      "zh": "和往常一样，如果你有问题、投诉或选题建议，随时可以通过《全球故事》联系​​我们。"
+    },
+    {
+      "id": 283,
+      "startMs": 1627280,
+      "endMs": 1629360,
+      "en": "Our email address is theglobalstory@bbc.com.",
+      "zh": "邮箱：theglobalstory@bbc.com。"
+    },
+    {
+      "id": 284,
+      "startMs": 1629360,
+      "endMs": 1634400,
+      "en": "Our episode today was produced by Lucy Paul and Sam Chantara-sack.",
+      "zh": "本期节目由露西·保罗和萨姆·钱塔拉-萨克制作。"
+    },
+    {
+      "id": 285,
+      "startMs": 1634560,
+      "endMs": 1636080,
+      "en": "It was mixed by Travis Evans.",
+      "zh": "混音：特拉维斯·埃文斯。"
+    },
+    {
+      "id": 286,
+      "startMs": 1636320,
+      "endMs": 1638160,
+      "en": "Our digital producer was Sam Gruet.",
+      "zh": "数字制片人是萨姆·格鲁埃。"
+    },
+    {
+      "id": 287,
+      "startMs": 1638480,
+      "endMs": 1643200,
+      "en": "Our executive producer was James Shield, and our senior news editor was China Collins.",
+      "zh": "执行制片人是詹姆斯·希尔德，资深新闻编辑是柴娜·柯林斯。"
+    },
+    {
+      "id": 288,
+      "startMs": 1643360,
+      "endMs": 1644480,
+      "en": "I'm Asma Khalid.",
+      "zh": "我是阿斯玛·哈立德。"
+    },
+    {
+      "id": 289,
+      "startMs": 1644640,
+      "endMs": 1647760,
+      "en": "Thanks as always for spending some time with us, and we'll be back again tomorrow.",
+      "zh": "一如既往，感谢你抽时间陪伴我们。我们明天再见。"
+    }
+  ]
+}

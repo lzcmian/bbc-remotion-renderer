@@ -1,0 +1,1859 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "31 August 2026"
+  },
+  "durationMs": 1350900,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3360,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5600,
+      "endMs": 6800,
+      "en": "Hello, I'm Oliver Conway.",
+      "zh": "大家好，我是奥利弗·康韦。"
+    },
+    {
+      "id": 3,
+      "startMs": 6800,
+      "endMs": 10640,
+      "en": "We're recording this at 14:00 GMT on Monday, the 31st of August.",
+      "zh": "本节目录制于8月31日星期一格林尼治标准时间14点。"
+    },
+    {
+      "id": 4,
+      "startMs": 10960,
+      "endMs": 15360,
+      "en": "US and Iranian forces attack each other for the first time in a month.",
+      "zh": "美国和伊朗军队一个月来首次相互发动攻击。"
+    },
+    {
+      "id": 5,
+      "startMs": 16080,
+      "endMs": 20320,
+      "en": "One man has died and others are missing after a flash flood in the Grand Canyon.",
+      "zh": "大峡谷发生山洪后，一人死亡，另有多人失踪。"
+    },
+    {
+      "id": 6,
+      "startMs": 20880,
+      "endMs": 23680,
+      "en": "And Russia targets Ukraine's education system.",
+      "zh": "俄罗斯还将目标对准乌克兰的教育体系。"
+    },
+    {
+      "id": 7,
+      "startMs": 26400,
+      "endMs": 30800,
+      "en": "Also in this podcast, the puggle's only in the pouch for about 60 days.",
+      "zh": "本期节目还将介绍：针鼹幼崽只在育儿袋里待大约60天。"
+    },
+    {
+      "id": 8,
+      "startMs": 31200,
+      "endMs": 36960,
+      "en": "After 60 days, it becomes too spiky and she needs to leave it in a nest.",
+      "zh": "60天后，它会变得刺太多，雌针鼹就需要把它留在巢里。"
+    },
+    {
+      "id": 9,
+      "startMs": 37280,
+      "endMs": 40880,
+      "en": "The rare egg-laying mammal being reared in a university.",
+      "zh": "这种罕见的产卵哺乳动物正在一所大学里被饲养。"
+    },
+    {
+      "id": 10,
+      "startMs": 45600,
+      "endMs": 55600,
+      "en": "The US-Iran war has been relatively quiet for the past month as the Americans switch from military to economic pressure to try to get the Strait of Hormuz reopened.",
+      "zh": "过去一个月，美伊战争相对平静，因为美国正从军事施压转向经济施压，试图让霍尔木兹海峡重新开放。"
+    },
+    {
+      "id": 11,
+      "startMs": 56080,
+      "endMs": 63840,
+      "en": "But on Sunday, fighting resumed as the US hit what it described as Iranian mine launchers on Larak Island in the strait.",
+      "zh": "但周日，战斗重新开始；美国袭击了它所称的位于海峡拉腊克岛上的伊朗布雷发射装置。"
+    },
+    {
+      "id": 12,
+      "startMs": 64480,
+      "endMs": 67120,
+      "en": "Iranian state media says two people were killed.",
+      "zh": "伊朗国家媒体称有两人死亡。"
+    },
+    {
+      "id": 13,
+      "startMs": 67600,
+      "endMs": 72400,
+      "en": "In response, Iran said it had launched attacks on US bases in Jordan and the UAE.",
+      "zh": "作为回应，伊朗称其袭击了美国在约旦和阿联酋的基地。"
+    },
+    {
+      "id": 14,
+      "startMs": 72800,
+      "endMs": 76080,
+      "en": "We got the details from our global affairs reporter, Sebastian Usher.",
+      "zh": "全球事务记者塞巴斯蒂安·厄舍介绍了详细情况。"
+    },
+    {
+      "id": 15,
+      "startMs": 76240,
+      "endMs": 84320,
+      "en": "Larak Island is one of these small islands in the Strait of Hormuz that Iran uses both to monitor and to threaten ships.",
+      "zh": "拉腊克岛是霍尔木兹海峡中的小岛之一，伊朗利用它监视船只并威胁船只。"
+    },
+    {
+      "id": 16,
+      "startMs": 84560,
+      "endMs": 89360,
+      "en": "Those ships might still be using routes that Iran doesn't allow them to take.",
+      "zh": "这些船只可能仍在使用伊朗不允许它们驶入的航线。"
+    },
+    {
+      "id": 17,
+      "startMs": 89840,
+      "endMs": 98320,
+      "en": "So that's why it's a target for the US, again, specifically because of the military threat it poses.",
+      "zh": "所以，这就是它再次成为美国目标的原因，具体来说，是因为它构成军事威胁。"
+    },
+    {
+      "id": 18,
+      "startMs": 98320,
+      "endMs": 104080,
+      "en": "So rather than going for the economic aspect, as it might have done, it's going for one of these islands.",
+      "zh": "因此，美国没有采取可能采取的经济手段，而是选择了这些岛屿中的一个。"
+    },
+    {
+      "id": 19,
+      "startMs": 104180,
+      "endMs": 106100,
+      "en": "This is what we've seen time and time again.",
+      "zh": "我们一次又一次看到这种情况。"
+    },
+    {
+      "id": 20,
+      "startMs": 106420,
+      "endMs": 107860,
+      "en": "This is a resumption.",
+      "zh": "这是战事的重新开始。"
+    },
+    {
+      "id": 21,
+      "startMs": 107860,
+      "endMs": 113460,
+      "en": "We don't know if this will continue, obviously, but we haven't had tit-for-tat attacks like this for around a month.",
+      "zh": "显然，我们不知道这是否会持续，但这样的针锋相对攻击已经大约一个月没有发生了。"
+    },
+    {
+      "id": 22,
+      "startMs": 113940,
+      "endMs": 116180,
+      "en": "I don't think this raises the temperature hugely.",
+      "zh": "我不认为这会大幅升高紧张程度。"
+    },
+    {
+      "id": 23,
+      "startMs": 116500,
+      "endMs": 124340,
+      "en": "But it shows that the military front is still very much latent, despite the US move towards economic pressure on Iran.",
+      "zh": "但这表明，尽管美国转而对伊朗施加经济压力，军事战线仍然处于潜伏状态。"
+    },
+    {
+      "id": 24,
+      "startMs": 124660,
+      "endMs": 132180,
+      "en": "But at the same time, President Trump has posted an AI video captioned \"Kharg Island being blown to smithereens.\"",
+      "zh": "但与此同时，特朗普总统发布了一段人工智能视频，标题是“把哈尔克岛炸成碎片”。"
+    },
+    {
+      "id": 25,
+      "startMs": 132660,
+      "endMs": 135300,
+      "en": "Now, he has threatened that island before.",
+      "zh": "此前，他曾威胁过这座岛。"
+    },
+    {
+      "id": 26,
+      "startMs": 135300,
+      "endMs": 137700,
+      "en": "I mean, how much of an escalation would a US attack on that be?",
+      "zh": "我的意思是，美国攻击该岛会是多大程度的升级？"
+    },
+    {
+      "id": 27,
+      "startMs": 137940,
+      "endMs": 144820,
+      "en": "Well, first you've got to say it's nonsense to put out AI videos showing explosions that don't exist, so that is hardly helpful.",
+      "zh": "首先必须指出，发布展示并不存在的爆炸场面的人工智能视频很荒谬，这几乎毫无帮助。"
+    },
+    {
+      "id": 28,
+      "startMs": 144820,
+      "endMs": 150260,
+      "en": "And as we've seen, I don't think it helps the US negotiation tactics with Iran.",
+      "zh": "正如我们所见，我不认为这有助于美国对伊朗的谈判策略。"
+    },
+    {
+      "id": 29,
+      "startMs": 150260,
+      "endMs": 159880,
+      "en": "I mean, Iran is very much focused on the way that he moves back and forth between, you know, huge threats and then accommodation very quickly after that.",
+      "zh": "我的意思是，伊朗非常关注他在巨大威胁与随后迅速作出让步之间来回摇摆的方式。"
+    },
+    {
+      "id": 30,
+      "startMs": 159880,
+      "endMs": 163240,
+      "en": "So they've kind of got his measure as far as that's concerned.",
+      "zh": "所以，就这一点而言，伊朗大致摸清了他的底细。"
+    },
+    {
+      "id": 31,
+      "startMs": 163800,
+      "endMs": 171400,
+      "en": "If Kharg Island were attacked, I mean, there have been attacks on it before, but its oil structures haven't been attacked again.",
+      "zh": "如果哈尔克岛遭到攻击——我的意思是，那里以前遭到过攻击，但其石油设施尚未再次遭到攻击。"
+    },
+    {
+      "id": 32,
+      "startMs": 171400,
+      "endMs": 183160,
+      "en": "That would be a major escalation, but Kharg Island, through which 90% of Iran's oil is exported, has to some extent been turned into something that doesn't have that capacity.",
+      "zh": "那将是重大升级；但伊朗90%的石油经哈尔克岛出口，该岛在一定程度上已被变成不再具备这种能力的地方。"
+    },
+    {
+      "id": 33,
+      "startMs": 183160,
+      "endMs": 189320,
+      "en": "Simply because the blockade by the US has been pretty intense and has been re-imposed.",
+      "zh": "这只是因为美国实施的封锁相当严厉，而且已经重新实施。"
+    },
+    {
+      "id": 34,
+      "startMs": 189640,
+      "endMs": 194600,
+      "en": "The Strait of Hormuz wasn't fully reopened as was meant to happen under the memorandum of understanding.",
+      "zh": "按照谅解备忘录的安排，霍尔木兹海峡本应完全重新开放，但并没有。"
+    },
+    {
+      "id": 35,
+      "startMs": 195080,
+      "endMs": 198600,
+      "en": "So it would be a major, major target if it were attacked.",
+      "zh": "所以，如果遭到攻击，它将是一个非常重大的目标。"
+    },
+    {
+      "id": 36,
+      "startMs": 198600,
+      "endMs": 207720,
+      "en": "It would be a major escalation, but at the moment its function as the main export route is pretty much out of the question because of the blockade.",
+      "zh": "这将是重大升级，但目前由于封锁，它作为主要出口路线的功能基本上已经不可能发挥。"
+    },
+    {
+      "id": 37,
+      "startMs": 207960,
+      "endMs": 210520,
+      "en": "Who has the upper hand at the moment?",
+      "zh": "目前谁占据上风？"
+    },
+    {
+      "id": 38,
+      "startMs": 210520,
+      "endMs": 218380,
+      "en": "There was some suggestion that President Trump wanted a deal because he wanted to get this done before the midterms. It doesn't look like that's going to happen.",
+      "zh": "有人认为，特朗普总统想达成协议，因为他希望在中期选举前完成这件事。但看来这不会发生。"
+    },
+    {
+      "id": 39,
+      "startMs": 218380,
+      "endMs": 219900,
+      "en": "Whose side is time on here?",
+      "zh": "时间站在哪一方？"
+    },
+    {
+      "id": 40,
+      "startMs": 220220,
+      "endMs": 222860,
+      "en": "It depends if you're looking short-term or long-term.",
+      "zh": "这取决于你看的是短期还是长期。"
+    },
+    {
+      "id": 41,
+      "startMs": 223180,
+      "endMs": 228380,
+      "en": "Short-term, it's in Iran's interest because of the political and economic pressures on the US.",
+      "zh": "短期来看，政治和经济压力作用于美国，这符合伊朗的利益。"
+    },
+    {
+      "id": 42,
+      "startMs": 228860,
+      "endMs": 234940,
+      "en": "Long-term, Iran is in a desperate economic situation. It was before the war, even more so. The blockade is really telling.",
+      "zh": "长期来看，伊朗处于绝望的经济境地。战争前就是如此，现在更是如此。封锁的影响非常明显。"
+    },
+    {
+      "id": 43,
+      "startMs": 235420,
+      "endMs": 244140,
+      "en": "But what the US would like to achieve, what Mr. Trump would like to achieve, would be to have major importing countries like China very much change their attitude towards Iran.",
+      "zh": "但美国、特朗普先生想实现的目标，是让中国等主要进口国大幅改变对伊朗的态度。"
+    },
+    {
+      "id": 44,
+      "startMs": 244380,
+      "endMs": 245420,
+      "en": "That's unlikely.",
+      "zh": "这不太可能。"
+    },
+    {
+      "id": 45,
+      "startMs": 245740,
+      "endMs": 252140,
+      "en": "And what Iran is bargaining on is that the US doesn't want to open up a major rift with China over this.",
+      "zh": "伊朗所押注的是，美国不想因为这件事与中国产生严重裂痕。"
+    },
+    {
+      "id": 46,
+      "startMs": 252140,
+      "endMs": 261740,
+      "en": "If it decided to act against Chinese banks, for example, even Treasury Secretary Scott Bessent said that that would be essentially almost economic Armageddon.",
+      "zh": "例如，如果美国决定对中国银行采取行动，财政部长斯科特·贝森特也说过，那基本上几乎会是经济末日。"
+    },
+    {
+      "id": 47,
+      "startMs": 262140,
+      "endMs": 264700,
+      "en": "So that's what Iran is factoring in.",
+      "zh": "所以，这就是伊朗正在考虑的因素。"
+    },
+    {
+      "id": 48,
+      "startMs": 264940,
+      "endMs": 275200,
+      "en": "In the long term, if the US were able to get there politically and economically, Iran is being weakened week after week, month after month. Can it withstand?",
+      "zh": "从长期来看，如果美国能在政治和经济上实现这一目标，伊朗正一周又一周、一个月又一个月地被削弱。它能撑住吗？"
+    },
+    {
+      "id": 49,
+      "startMs": 275200,
+      "endMs": 280240,
+      "en": "And there are big elements within Iran, the president, for example, who do want a deal to be done.",
+      "zh": "伊朗内部有重要力量，例如总统，就确实希望达成协议。"
+    },
+    {
+      "id": 50,
+      "startMs": 280560,
+      "endMs": 287040,
+      "en": "Sebastian Usher. The US said it attacked Larak Island to stop Iran laying new mines last week.",
+      "zh": "塞巴斯蒂安·厄舍。美国称其袭击拉腊克岛，是为了阻止伊朗上周铺设新水雷。"
+    },
+    {
+      "id": 51,
+      "startMs": 287120,
+      "endMs": 289840,
+      "en": "President Trump said the Strait had been entirely cleared.",
+      "zh": "特朗普总统称海峡已经完全清除水雷。"
+    },
+    {
+      "id": 52,
+      "startMs": 290400,
+      "endMs": 294960,
+      "en": "Iran says this isn't true, and an oil tanker had caught fire after hitting two mines.",
+      "zh": "伊朗称事实并非如此，一艘油轮撞上两枚水雷后起火。"
+    },
+    {
+      "id": 53,
+      "startMs": 294960,
+      "endMs": 296400,
+      "en": "So, what's the reality?",
+      "zh": "那么，真实情况如何？"
+    },
+    {
+      "id": 54,
+      "startMs": 296800,
+      "endMs": 299040,
+      "en": "Mark Montgomery is a retired US admiral.",
+      "zh": "马克·蒙哥马利是一名退役美国海军上将。"
+    },
+    {
+      "id": 55,
+      "startMs": 299200,
+      "endMs": 304400,
+      "en": "It's hard for me to believe that the complete Strait of Hormuz is sanitized of mines.",
+      "zh": "我很难相信霍尔木兹海峡已经完全清除了水雷。"
+    },
+    {
+      "id": 56,
+      "startMs": 304480,
+      "endMs": 310080,
+      "en": "I participated in convoy operations and mine clearance operations in the late 1980s and early 1990s.",
+      "zh": "20世纪80年代末和90年代初，我参加过护航行动和扫雷行动。"
+    },
+    {
+      "id": 57,
+      "startMs": 310080,
+      "endMs": 316320,
+      "en": "The last time Iran placed mines, and it takes months to even a year, not days or weeks, to",
+      "zh": "那是伊朗上一次布雷。而要完成清除，需要几个月甚至一年的时间，而不是几天或几周，才能"
+    },
+    {
+      "id": 58,
+      "startMs": 316560,
+      "endMs": 319680,
+      "en": "to totally clear a waterway of that size.",
+      "zh": "要彻底清理这么大的一条水道。"
+    },
+    {
+      "id": 59,
+      "startMs": 320000,
+      "endMs": 325280,
+      "en": "So what I believe has happened is that there is a transit lane that's clear through the Strait of Hormuz,",
+      "zh": "所以我认为，实际情况是霍尔木兹海峡中有一条已清理的航道，"
+    },
+    {
+      "id": 60,
+      "startMs": 325840,
+      "endMs": 331680,
+      "en": "and ships are told by American forces, by US Central Command, what that transit lane is.",
+      "zh": "美国军方和美国中央司令部会告知船只这条航道的位置。"
+    },
+    {
+      "id": 61,
+      "startMs": 331700,
+      "endMs": 338500,
+      "en": "And then they choose whether they want to transit through that lane that the United States has said is clear.",
+      "zh": "然后，船只自行决定是否要通过美国宣称已经清理的那条航道。"
+    },
+    {
+      "id": 62,
+      "startMs": 338500,
+      "endMs": 341460,
+      "en": "Retired US Admiral Mark Montgomery.",
+      "zh": "美国海军退役上将马克·蒙哥马利。"
+    },
+    {
+      "id": 63,
+      "startMs": 341460,
+      "endMs": 349220,
+      "en": "After targeting energy sites and hitting residential areas, Russia has now got its sights on Ukraine's education system.",
+      "zh": "在袭击能源设施、打击住宅区之后，俄罗斯现在又把目标对准了乌克兰的教育系统。"
+    },
+    {
+      "id": 64,
+      "startMs": 349700,
+      "endMs": 356340,
+      "en": "It has recently launched a series of attacks on publishing houses and printing presses, destroying around 12 million books",
+      "zh": "俄罗斯最近对出版社和印刷厂发动了一系列袭击，摧毁了约1200万本书，"
+    },
+    {
+      "id": 65,
+      "startMs": 356660,
+      "endMs": 360260,
+      "en": "and leaving some schools short of textbooks for the new academic term.",
+      "zh": "导致一些学校在新学期开始时面临教材短缺。"
+    },
+    {
+      "id": 66,
+      "startMs": 360820,
+      "endMs": 368500,
+      "en": "Russia has long been accused of targeting Ukraine's culture and heritage as part of President Putin's campaign to erase Ukraine's nationhood.",
+      "zh": "长期以来，俄罗斯一直被指控将乌克兰的文化和遗产作为普京总统抹去乌克兰民族国家地位行动的一部分加以打击。"
+    },
+    {
+      "id": 67,
+      "startMs": 369140,
+      "endMs": 370900,
+      "en": "Our Kyiv correspondent, Dan Johnson.",
+      "zh": "本台驻基辅记者丹·约翰逊报道。"
+    },
+    {
+      "id": 68,
+      "startMs": 370900,
+      "endMs": 373540,
+      "en": "has visited some of the sites now being caught up in the war.",
+      "zh": "他走访了一些如今被卷入战争的地点。"
+    },
+    {
+      "id": 69,
+      "startMs": 375960,
+      "endMs": 381560,
+      "en": "On the edge of Ukraine's capital, the Factor-Druk publishing house bears the imprint of Russia's latest attacks.",
+      "zh": "在乌克兰首都郊外，Factor-Druk出版社留下了俄罗斯最近袭击的痕迹。"
+    },
+    {
+      "id": 70,
+      "startMs": 381880,
+      "endMs": 385480,
+      "en": "Its bombed-out remains, testament to a dark new chapter of this war.",
+      "zh": "它被炸毁后的残骸，见证了这场战争黑暗的新篇章。"
+    },
+    {
+      "id": 71,
+      "startMs": 387440,
+      "endMs": 390720,
+      "en": "The printing press has been almost completely destroyed.",
+      "zh": "印刷厂几乎被彻底摧毁。"
+    },
+    {
+      "id": 72,
+      "startMs": 390720,
+      "endMs": 394720,
+      "en": "It's burned, the roof has collapsed here, you can still smell the aftermath.",
+      "zh": "这里被烧毁了，屋顶也塌了；你仍能闻到火灾后的气味。"
+    },
+    {
+      "id": 73,
+      "startMs": 394800,
+      "endMs": 401520,
+      "en": "And there are piles of charred books, and then some others that have sort of survived, but they've suffered water damage.",
+      "zh": "这里还有成堆的焦黑书籍，另一些算是幸存下来，但遭到了水浸损坏。"
+    },
+    {
+      "id": 74,
+      "startMs": 404720,
+      "endMs": 409520,
+      "en": "These are actually English textbooks that should have been destined for schools.",
+      "zh": "这些其实是本应送往学校的英语教材。"
+    },
+    {
+      "id": 75,
+      "startMs": 410320,
+      "endMs": 412800,
+      "en": "Says, \"I'm William and I'm from the UK.\"",
+      "zh": "上面写着：“我叫威廉，来自英国。”"
+    },
+    {
+      "id": 76,
+      "startMs": 412880,
+      "endMs": 415920,
+      "en": "My dad is Ukrainian, but my mum is British.",
+      "zh": "我爸爸是乌克兰人，但我妈妈是英国人。"
+    },
+    {
+      "id": 77,
+      "startMs": 416320,
+      "endMs": 418240,
+      "en": "My grandmother lives in Nottingham.",
+      "zh": "我祖母住在诺丁汉。"
+    },
+    {
+      "id": 78,
+      "startMs": 418240,
+      "endMs": 419520,
+      "en": "It's a beautiful city.",
+      "zh": "那是一座美丽的城市。"
+    },
+    {
+      "id": 79,
+      "startMs": 420000,
+      "endMs": 423920,
+      "en": "This means there's going to be a textbook shortage now for the start of the new term.",
+      "zh": "这意味着新学期开始时将出现教材短缺。"
+    },
+    {
+      "id": 80,
+      "startMs": 424240,
+      "endMs": 431280,
+      "en": "The company's commercial director, Viktoria Haidai, tells me the strike came just as they were ramping up to print 1.3 million textbooks.",
+      "zh": "该公司的商务总监维多利亚·海代告诉我，袭击发生时，他们正要加紧印刷130万本教材。"
+    },
+    {
+      "id": 81,
+      "startMs": 431760,
+      "endMs": 436960,
+      "en": "I believe it is deliberate on the part of the Russian Federation.",
+      "zh": "我认为这是俄罗斯联邦蓄意为之。"
+    },
+    {
+      "id": 82,
+      "startMs": 436960,
+      "endMs": 444560,
+      "en": "Over the past two months, some of the largest publishing houses have lost their warehouses where very large quantities of books were stored.",
+      "zh": "过去两个月里，一些最大的出版社失去了存放大量书籍的仓库。"
+    },
+    {
+      "id": 83,
+      "startMs": 445540,
+      "endMs": 450020,
+      "en": "The Russians are also destroying printing houses in an attempt to erase Ukraine as a nation.",
+      "zh": "俄罗斯人还在摧毁印刷厂，试图抹去乌克兰这个国家。"
+    },
+    {
+      "id": 84,
+      "startMs": 450340,
+      "endMs": 452020,
+      "en": "But frankly, they will not succeed.",
+      "zh": "但坦率地说，他们不会成功。"
+    },
+    {
+      "id": 85,
+      "startMs": 454900,
+      "endMs": 462020,
+      "en": "Kyiv's Pochayna second-hand book market was also hit, burning down hundreds of stalls and destroying countless treasured books.",
+      "zh": "基辅的波恰伊纳旧书市场也遭到袭击，数百个摊位被烧毁，无数珍贵书籍被毁。"
+    },
+    {
+      "id": 86,
+      "startMs": 462500,
+      "endMs": 468660,
+      "en": "In the smoldering ruins, I met Liliia Velychko, a book blogger determined to salvage something from the ashes.",
+      "zh": "在冒着余烟的废墟中，我遇到了书籍博主莉莉娅·韦利奇科，她决心从灰烬中抢救出一些东西。"
+    },
+    {
+      "id": 87,
+      "startMs": 468980,
+      "endMs": 475060,
+      "en": "Books are saving us, and losing this is like losing our hearts.",
+      "zh": "书籍正在拯救我们，失去这些书就像失去我们的心。"
+    },
+    {
+      "id": 88,
+      "startMs": 476960,
+      "endMs": 482240,
+      "en": "It's not only books. Museums, art galleries, opera houses, and a film studio have been damaged.",
+      "zh": "受损的不只是书籍。博物馆、艺术馆、歌剧院和一家电影制片厂也遭到了破坏。"
+    },
+    {
+      "id": 89,
+      "startMs": 482240,
+      "endMs": 488480,
+      "en": "Symbols of collective identity Ukrainians believe are being targeted to undermine their sense of national belonging.",
+      "zh": "乌克兰人认为，这些集体身份的象征正遭到打击，以削弱他们的民族归属感。"
+    },
+    {
+      "id": 90,
+      "startMs": 489040,
+      "endMs": 496560,
+      "en": "And a Russian drone hit the golden domes of Kyiv Pechersk Lavra, a cultural and spiritual icon and a UNESCO World Heritage site.",
+      "zh": "一架俄罗斯无人机还击中了基辅洞窟修道院的金色穹顶；这座修道院是文化和精神地标，也是联合国教科文组织世界遗产。"
+    },
+    {
+      "id": 91,
+      "startMs": 498260,
+      "endMs": 500980,
+      "en": "The decoration in here is incredibly ornate.",
+      "zh": "这里的装饰极其华丽。"
+    },
+    {
+      "id": 92,
+      "startMs": 500980,
+      "endMs": 502500,
+      "en": "There's gold leaf everywhere.",
+      "zh": "到处都是金箔。"
+    },
+    {
+      "id": 93,
+      "startMs": 502500,
+      "endMs": 507620,
+      "en": "It's seriously impressive, with really detailed images and murals.",
+      "zh": "这里确实令人震撼，图像和壁画都极其精细。"
+    },
+    {
+      "id": 94,
+      "startMs": 508100,
+      "endMs": 513300,
+      "en": "There are fans running to try to dry this cathedral out because of the water damage",
+      "zh": "这里开着风扇，试图把这座大教堂因水灾受损的部分吹干，"
+    },
+    {
+      "id": 95,
+      "startMs": 513300,
+      "endMs": 518260,
+      "en": "and I can still smell the impact of the fire that tore through the roof.",
+      "zh": "我仍能闻到那场席卷屋顶的大火留下的气味。"
+    },
+    {
+      "id": 96,
+      "startMs": 518900,
+      "endMs": 521460,
+      "en": "Bratya, u svojistoro.",
+      "zh": "“Bratya，u svojistoro。”（原声为乌克兰语）"
+    },
+    {
+      "id": 97,
+      "startMs": 524820,
+      "endMs": 530900,
+      "en": "UNESCO Director-General Khaled El-Enany visited on the monastery's 975th anniversary.",
+      "zh": "联合国教科文组织总干事哈立德·埃尔-埃南尼在修道院建成975周年之际到访。"
+    },
+    {
+      "id": 98,
+      "startMs": 532020,
+      "endMs": 538880,
+      "en": "I was deeply saddened to see today the significant damage caused by June attacks.",
+      "zh": "今天看到六月袭击造成的严重损坏，我深感悲痛。"
+    },
+    {
+      "id": 99,
+      "startMs": 539840,
+      "endMs": 547600,
+      "en": "UNESCO firmly condemns them and all attacks against cultural property protected under international law.",
+      "zh": "联合国教科文组织强烈谴责这些袭击，以及一切针对受国际法保护文化财产的袭击。"
+    },
+    {
+      "id": 100,
+      "startMs": 548560,
+      "endMs": 553760,
+      "en": "Russia denied targeting the Pechersk Lavra and claimed to only attack sites with military links.",
+      "zh": "俄罗斯否认以洞窟修道院为目标，声称只攻击与军事有关联的地点。"
+    },
+    {
+      "id": 101,
+      "startMs": 554160,
+      "endMs": 556800,
+      "en": "Ukraine's Culture Minister, Tetiana Berezhna,",
+      "zh": "乌克兰文化部长泰蒂安娜·别列日娜，"
+    },
+    {
+      "id": 102,
+      "startMs": 556960,
+      "endMs": 563440,
+      "en": "dismisses that. This is existential war, so Russia wants to destroy us as a nation, to erase us as a nation",
+      "zh": "对此不予认同。这是一场关乎生存的战争，所以俄罗斯想摧毁我们这个国家，把我们从民族意义上抹去，"
+    },
+    {
+      "id": 103,
+      "startMs": 563680,
+      "endMs": 566320,
+      "en": "like Ukrainians do not exist and have never existed.",
+      "zh": "仿佛乌克兰人不存在，也从未存在过。"
+    },
+    {
+      "id": 104,
+      "startMs": 566800,
+      "endMs": 572320,
+      "en": "That's why Russia targets our cultural heritage, the symbols of our presence here for a lot of time.",
+      "zh": "这就是俄罗斯打击我们文化遗产的原因——这些是我们长期存在于此的象征。"
+    },
+    {
+      "id": 105,
+      "startMs": 572320,
+      "endMs": 578160,
+      "en": "They understand that it's very important for us because we protect our identity",
+      "zh": "他们明白这对我们非常重要，因为我们守护着自己的身份，"
+    },
+    {
+      "id": 106,
+      "startMs": 578160,
+      "endMs": 583520,
+      "en": "we protect our culture, and Russia wants to ruin everything that it cannot appropriate.",
+      "zh": "我们守护着自己的文化，而俄罗斯想毁掉一切它无法据为己有的东西。"
+    },
+    {
+      "id": 107,
+      "startMs": 584000,
+      "endMs": 590160,
+      "en": "She says digitisation can protect art and literature, and ensure children can learn even without physical books.",
+      "zh": "她说，数字化可以保护艺术和文学，确保孩子即使没有实体书也能学习。"
+    },
+    {
+      "id": 108,
+      "startMs": 593840,
+      "endMs": 599760,
+      "en": "But back at Factor-Druk Publishing, Viktoria Haidai captures the depth these attacks strike at.",
+      "zh": "但回到Factor-Druk出版社，维多利亚·海代道出了这些袭击造成的深重打击。"
+    },
+    {
+      "id": 109,
+      "startMs": 599760,
+      "endMs": 604880,
+      "en": "In the beginning was the Word. The word is everything.",
+      "zh": "太初有道。文字就是一切。"
+    },
+    {
+      "id": 110,
+      "startMs": 605440,
+      "endMs": 611200,
+      "en": "It is our development, our culture, and our historical heritage that is passed down from generation to generation.",
+      "zh": "它承载着我们的发展、文化和历史遗产，一代代传承下去。"
+    },
+    {
+      "id": 111,
+      "startMs": 611760,
+      "endMs": 615600,
+      "en": "The word is born in a book, and the book is born in a printing house.",
+      "zh": "文字诞生于书中，而书籍诞生于印刷厂。"
+    },
+    {
+      "id": 112,
+      "startMs": 616240,
+      "endMs": 623600,
+      "en": "Vladimir Putin has denied the existence of a distinct Ukrainian culture, but the sight of burning books means this war",
+      "zh": "弗拉基米尔·普京否认独特乌克兰文化的存在，但焚烧书籍的景象意味着这场战争"
+    },
+    {
+      "id": 113,
+      "startMs": 623920,
+      "endMs": 627120,
+      "en": "is only hardening determination here to ensure it survives.",
+      "zh": "只会让这里确保其存续的决心更加坚定。"
+    },
+    {
+      "id": 114,
+      "startMs": 627520,
+      "endMs": 629520,
+      "en": "Our Kyiv correspondent, Dan Johnson.",
+      "zh": "本台驻基辅记者丹·约翰逊报道。"
+    },
+    {
+      "id": 115,
+      "startMs": 632020,
+      "endMs": 633380,
+      "en": "Still to come in this podcast...",
+      "zh": "本期播客稍后还有……"
+    },
+    {
+      "id": 116,
+      "startMs": 633620,
+      "endMs": 637620,
+      "en": "I've got Alzheimer's. I have to accept it, and it explained why I kept losing things.",
+      "zh": "我患有阿尔茨海默病。我必须接受这一点，这也解释了我为什么总是丢东西。"
+    },
+    {
+      "id": 117,
+      "startMs": 637620,
+      "endMs": 642900,
+      "en": "I started to laugh at myself, the silly things that I do.",
+      "zh": "我开始嘲笑自己做的那些傻事。"
+    },
+    {
+      "id": 118,
+      "startMs": 643460,
+      "endMs": 647460,
+      "en": "The eighty-five-year-old actor with dementia now returning to the stage.",
+      "zh": "这位患有痴呆症、现年85岁的演员即将重返舞台。"
+    },
+    {
+      "id": 119,
+      "startMs": 647460,
+      "endMs": 649540,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《Global News Podcast》。"
+    },
+    {
+      "id": 120,
+      "startMs": 650020,
+      "endMs": 655620,
+      "en": "Extreme weather has hit parts of the southwestern United States, specifically the Grand Canyon.",
+      "zh": "极端天气袭击了美国西南部部分地区，尤其是大峡谷。"
+    },
+    {
+      "id": 121,
+      "startMs": 656020,
+      "endMs": 660900,
+      "en": "The US Park Service says one man has died in a flash flood there and 15 are missing.",
+      "zh": "美国国家公园管理局称，一名男子在那里的山洪中死亡，另有15人失踪。"
+    },
+    {
+      "id": 122,
+      "startMs": 661380,
+      "endMs": 662980,
+      "en": "Nick Miles has been following this for us.",
+      "zh": "尼克·迈尔斯一直在跟进此事。"
+    },
+    {
+      "id": 123,
+      "startMs": 663220,
+      "endMs": 667620,
+      "en": "The Grand Canyon is no stranger to really extreme weather conditions.",
+      "zh": "大峡谷并不陌生于真正极端的天气状况。"
+    },
+    {
+      "id": 124,
+      "startMs": 667620,
+      "endMs": 671940,
+      "en": "It's a vast area, 20 kilometres across, four or five...",
+      "zh": "这里面积广阔，横跨20公里，深度达四五……"
+    },
+    {
+      "id": 125,
+      "startMs": 671940,
+      "endMs": 676180,
+      "en": "deep. And on the northern part of the canyon, you have a Kaibab Plateau,",
+      "zh": "深达四到五公里。在峡谷北部是凯巴布高原，"
+    },
+    {
+      "id": 126,
+      "startMs": 676420,
+      "endMs": 684980,
+      "en": "where most of the rain falls. And it's that area that took many, many centimetres of rain over a few hours on Saturday afternoon.",
+      "zh": "大部分降雨都落在那里。周六下午，那里几小时内的降雨量达到许多厘米。"
+    },
+    {
+      "id": 127,
+      "startMs": 685380,
+      "endMs": 692740,
+      "en": "This water came cascading down these side canyons to the bottom of the Grand Canyon where the Colorado River lies.",
+      "zh": "这些雨水沿着支峡谷奔流而下，汇入大峡谷底部的科罗拉多河。"
+    },
+    {
+      "id": 128,
+      "startMs": 693060,
+      "endMs": 701460,
+      "en": "And what happened, there's one particular side canyon, the Bright Angel Canyon, that was hit particularly badly. Water five metres deep.",
+      "zh": "其中一条支峡谷——光明天使峡谷——受灾尤其严重，洪水深达五米。"
+    },
+    {
+      "id": 129,
+      "startMs": 701460,
+      "endMs": 709080,
+      "en": "Normally it's a really small, crystal-clear stream, and that washed away bridges and campgrounds right at the bottom.",
+      "zh": "那里通常只是一条很小、清澈见底的溪流，但洪水冲走了谷底的桥梁和营地。"
+    },
+    {
+      "id": 130,
+      "startMs": 709320,
+      "endMs": 714760,
+      "en": "And one person we've been speaking to was camping at the bottom with a group. His name is David Gregory.",
+      "zh": "我们采访的一名男子当时正和一群人在谷底露营，他叫戴维·格雷戈里。"
+    },
+    {
+      "id": 131,
+      "startMs": 714760,
+      "endMs": 722820,
+      "en": "We turned around behind us, and we saw dark clouds that looked like a storm cell coming from the North Rim.",
+      "zh": "我们回头看去，发现乌云密布，看起来像是从北缘袭来的雷暴云团。"
+    },
+    {
+      "id": 132,
+      "startMs": 722980,
+      "endMs": 731140,
+      "en": "The park ranger came by and said, \"Hey, there's a possibility we may have to evacuate, so just get your stuff ready, just in case.\"",
+      "zh": "公园管理员过来说：“我们可能必须撤离，先把东西准备好，以防万一。”"
+    },
+    {
+      "id": 133,
+      "startMs": 731220,
+      "endMs": 736740,
+      "en": "Not even 10 minutes later, she said, \"All right, it's a mandatory evacuation. Grab your stuff, we've got to go.\"",
+      "zh": "不到十分钟后，她说：“好，必须撤离。拿上东西，我们得走了。”"
+    },
+    {
+      "id": 134,
+      "startMs": 737140,
+      "endMs": 741220,
+      "en": "He was just one of 50 or so people who were evacuated by helicopter.",
+      "zh": "他只是约五十名被直升机疏散者中的一人。"
+    },
+    {
+      "id": 135,
+      "startMs": 741620,
+      "endMs": 745700,
+      "en": "Many others could have been in the campground. It holds about 300 people.",
+      "zh": "当时营地里可能还有很多人，那里可容纳大约三百人。"
+    },
+    {
+      "id": 136,
+      "startMs": 745700,
+      "endMs": 751220,
+      "en": "We just don't know who is still there, because there's no radio communications down there.",
+      "zh": "我们根本不知道还有谁在那里，因为谷底没有无线电通信。"
+    },
+    {
+      "id": 137,
+      "startMs": 751220,
+      "endMs": 755940,
+      "en": "If you've got a satellite phone, you can get through to people, but no cellphone at all.",
+      "zh": "如果有卫星电话，还能联系到人，但那里完全没有手机信号。"
+    },
+    {
+      "id": 138,
+      "startMs": 756420,
+      "endMs": 759220,
+      "en": "There's no reason to think anyone else was swept away.",
+      "zh": "没有理由认为还有其他人被洪水冲走。"
+    },
+    {
+      "id": 139,
+      "startMs": 759220,
+      "endMs": 764980,
+      "en": "One person—the body of a 46-year-old man—was found further down the Colorado River.",
+      "zh": "目前只发现一人——一名46岁男子的遗体——在科罗拉多河下游被找到。"
+    },
+    {
+      "id": 140,
+      "startMs": 765220,
+      "endMs": 772900,
+      "en": "But at the moment, rescue teams are going down from the North Rim, which in itself has had difficulties following a big fire last year.",
+      "zh": "但目前救援队正从北缘下行，而北缘本身在去年一场大火后就面临困难。"
+    },
+    {
+      "id": 141,
+      "startMs": 772900,
+      "endMs": 778260,
+      "en": "So that exacerbated the amount of runoff that was coming down from that northern rim.",
+      "zh": "因此，从北缘流下的地表径流量进一步增加。"
+    },
+    {
+      "id": 142,
+      "startMs": 778840,
+      "endMs": 785880,
+      "en": "Reporting. In Korea, the leader of the controversial Unification Church has been sentenced to two years in prison.",
+      "zh": "报道。在韩国，备受争议的统一教会领袖被判处两年监禁。"
+    },
+    {
+      "id": 143,
+      "startMs": 786360,
+      "endMs": 790440,
+      "en": "Han Hak-ja was found guilty of bribing South Korea's former First Lady,",
+      "zh": "韩鹤子被判向韩国前第一夫人行贿，"
+    },
+    {
+      "id": 144,
+      "startMs": 790760,
+      "endMs": 794120,
+      "en": "the wife of the now-ousted Korean President Yoon Suk Yeol,",
+      "zh": "她是如今被罢免的韩国总统尹锡悦的妻子，"
+    },
+    {
+      "id": 145,
+      "startMs": 794360,
+      "endMs": 798520,
+      "en": "by giving her two Chanel bags and a diamond necklace worth nearly $60,000.",
+      "zh": "所送物品包括两个香奈儿包和一条价值近六万美元的钻石项链。"
+    },
+    {
+      "id": 146,
+      "startMs": 798920,
+      "endMs": 804120,
+      "en": "Critics say the church, sometimes known as the Moonies, is essentially a cult.",
+      "zh": "批评者称，该教会有时被称为“月亮教”，本质上是一个邪教。"
+    },
+    {
+      "id": 147,
+      "startMs": 804520,
+      "endMs": 812120,
+      "en": "It's best known for mass weddings of thousands of followers conducted by Han and her late husband, the church founder, Sun Myung Moon.",
+      "zh": "它最为人知的是由韩鹤子与已故丈夫、教会创始人文鲜明主持的数千人集体婚礼。"
+    },
+    {
+      "id": 148,
+      "startMs": 812520,
+      "endMs": 816360,
+      "en": "I spoke to our correspondent, Jake Kwon, in the South Korean capital, Seoul.",
+      "zh": "我采访了驻韩国首尔的记者杰克·权。"
+    },
+    {
+      "id": 149,
+      "startMs": 816600,
+      "endMs": 820120,
+      "en": "This case began really with the downfall of the last president, Yoon Suk Yeol.",
+      "zh": "这起案件始于前总统尹锡悦的垮台。"
+    },
+    {
+      "id": 150,
+      "startMs": 820200,
+      "endMs": 822840,
+      "en": "His martial law attempt failed, and he was impeached,",
+      "zh": "他实施戒严的企图失败，随后遭到弹劾，"
+    },
+    {
+      "id": 151,
+      "startMs": 822920,
+      "endMs": 825320,
+      "en": "and the full probe into him and his wife began.",
+      "zh": "针对他和妻子的全面调查也随之展开。"
+    },
+    {
+      "id": 152,
+      "startMs": 825880,
+      "endMs": 832520,
+      "en": "In the course of that, investigators found evidence of a senior church official giving stacks of cash",
+      "zh": "调查过程中，调查人员发现一名教会高级官员大笔交付现金的证据，"
+    },
+    {
+      "id": 153,
+      "startMs": 832600,
+      "endMs": 836520,
+      "en": "to a lawmaker, and a diamond necklace and Chanel bags to the former First Lady.",
+      "zh": "现金交给一名议员，而钻石项链和香奈儿包则送给前第一夫人。"
+    },
+    {
+      "id": 154,
+      "startMs": 837000,
+      "endMs": 841580,
+      "en": "So the church tried to defend itself and the leader, saying it was an isolated case",
+      "zh": "于是教会为自身和领袖辩护，称这只是一起孤立事件，"
+    },
+    {
+      "id": 155,
+      "startMs": 841580,
+      "endMs": 843580,
+      "en": "where the official did it all by himself,",
+      "zh": "是那名官员一人所为，"
+    },
+    {
+      "id": 156,
+      "startMs": 843900,
+      "endMs": 851020,
+      "en": "but the judge has found today that it was an organized and coordinated bribery operation directed by the leader herself.",
+      "zh": "但法官今天认定，这是由该领袖亲自指挥、有组织且协调一致的行贿行动。"
+    },
+    {
+      "id": 157,
+      "startMs": 851500,
+      "endMs": 856700,
+      "en": "How deeply is the church—how deep is its involvement in South Korean politics?",
+      "zh": "这个教会参与韩国政治有多深？"
+    },
+    {
+      "id": 158,
+      "startMs": 857740,
+      "endMs": 863740,
+      "en": "Well, the church has a long history of mixing with politics. Its founder, Sun Myung Moon, has built a business empire",
+      "zh": "这个教会长期与政治相互交织。其创始人文鲜明建立了一个商业帝国，"
+    },
+    {
+      "id": 159,
+      "startMs": 863740,
+      "endMs": 867820,
+      "en": "and was long rumored to have given money to politicians.",
+      "zh": "长期以来一直有传闻称他曾向政客提供资金。"
+    },
+    {
+      "id": 160,
+      "startMs": 867820,
+      "endMs": 873100,
+      "en": "Well, investigators have found $19 million worth of cash in the leader's personal safe",
+      "zh": "调查人员在该领袖的个人保险箱中发现了价值1900万美元的现金，"
+    },
+    {
+      "id": 161,
+      "startMs": 873420,
+      "endMs": 877500,
+      "en": "and said this is the first time they have confirmed the church's influence operation.",
+      "zh": "并称这是他们首次确认该教会的影响力运作。"
+    },
+    {
+      "id": 162,
+      "startMs": 877500,
+      "endMs": 880700,
+      "en": "The church's reach doesn't stop in South Korea, however.",
+      "zh": "不过，该教会的影响力并不止于韩国。"
+    },
+    {
+      "id": 163,
+      "startMs": 881260,
+      "endMs": 885420,
+      "en": "They have a long history of tapping into politics in Tokyo and Washington, too.",
+      "zh": "他们长期以来也在东京和华盛顿政界施加影响。"
+    },
+    {
+      "id": 164,
+      "startMs": 885740,
+      "endMs": 887820,
+      "en": "And they have shown it off many, many times.",
+      "zh": "而且已经多次公开展示这种影响力。"
+    },
+    {
+      "id": 165,
+      "startMs": 887820,
+      "endMs": 895180,
+      "en": "For example, in 2021, the church held an event where various leaders sent in video messages.",
+      "zh": "例如，2021年，教会举办了一场活动，多位领导人发来视频致辞。"
+    },
+    {
+      "id": 166,
+      "startMs": 895500,
+      "endMs": 897580,
+      "en": "And on that giant screen in the stadium, we saw",
+      "zh": "在体育场的巨型屏幕上，我们看到"
+    },
+    {
+      "id": 167,
+      "startMs": 897980,
+      "endMs": 901440,
+      "en": "US President Donald Trump congratulating Han Hak-ja,",
+      "zh": "美国总统唐纳德·特朗普向韩鹤子致贺，"
+    },
+    {
+      "id": 168,
+      "startMs": 901440,
+      "endMs": 905120,
+      "en": "as well as the ex-Japanese Prime Minister Shinzo Abe,",
+      "zh": "以及日本前首相安倍晋三，"
+    },
+    {
+      "id": 169,
+      "startMs": 905360,
+      "endMs": 907920,
+      "en": "alongside the mayors of Seoul and Busan as well.",
+      "zh": "还有首尔和釜山市长。"
+    },
+    {
+      "id": 170,
+      "startMs": 908000,
+      "endMs": 911440,
+      "en": "And how is the church seen by people in Korea?",
+      "zh": "韩国民众如何看待这个教会？"
+    },
+    {
+      "id": 171,
+      "startMs": 912500,
+      "endMs": 919700,
+      "en": "Well, the church had great influence and a large membership. It has 1.2 million members in South Korea alone.",
+      "zh": "这个教会曾拥有巨大影响力和众多成员，仅在韩国就有120万成员。"
+    },
+    {
+      "id": 172,
+      "startMs": 920180,
+      "endMs": 925140,
+      "en": "But, you know, in recent years, a lot of their influence has come to light, as in the case we saw today,",
+      "zh": "但近年来，他们的许多影响力逐渐曝光，就像我们今天看到的这起案件，"
+    },
+    {
+      "id": 173,
+      "startMs": 925140,
+      "endMs": 934100,
+      "en": "and a lot of people have really got the full picture of what the church has been doing.",
+      "zh": "许多人也终于全面了解了这个教会一直以来的所作所为。"
+    },
+    {
+      "id": 174,
+      "startMs": 934180,
+      "endMs": 939940,
+      "en": "And in recent years especially, there have been accusations from both sides of the political aisle",
+      "zh": "尤其是近年来，来自政治光谱两端的政党都指责"
+    },
+    {
+      "id": 175,
+      "startMs": 940180,
+      "endMs": 945220,
+      "en": "accusing this church of meddling in politics and giving money to politicians.",
+      "zh": "该教会干涉政治并向政客提供资金。"
+    },
+    {
+      "id": 176,
+      "startMs": 945540,
+      "endMs": 953060,
+      "en": "And, you know, there have been many calls for politicians to stave off this religious influence inside politics.",
+      "zh": "而且，人们一直呼吁政客遏制这种宗教势力对政治的影响。"
+    },
+    {
+      "id": 177,
+      "startMs": 953060,
+      "endMs": 956180,
+      "en": "And what the judge said today, as well as what the investigator said, is that",
+      "zh": "法官和调查人员今天都表示，"
+    },
+    {
+      "id": 178,
+      "startMs": 956580,
+      "endMs": 963300,
+      "en": "this church is guilty of the crime of mixing, you know, the state as well as the church.",
+      "zh": "这个教会犯下了将国家与教会混为一谈的罪行。"
+    },
+    {
+      "id": 179,
+      "startMs": 963620,
+      "endMs": 966980,
+      "en": "And this goes against the ideal of democracy in South Korea.",
+      "zh": "这违背了韩国民主的理想。"
+    },
+    {
+      "id": 180,
+      "startMs": 967220,
+      "endMs": 969300,
+      "en": "Jake Kwon in the South Korean capital, Seoul.",
+      "zh": "杰克·权在韩国首都首尔报道。"
+    },
+    {
+      "id": 181,
+      "startMs": 970280,
+      "endMs": 976840,
+      "en": "An 85-year-old actor diagnosed with Alzheimer's disease two years ago is returning to the stage this week.",
+      "zh": "一名两年前被诊断患有阿尔茨海默病的85岁演员，本周将重返舞台。"
+    },
+    {
+      "id": 182,
+      "startMs": 977400,
+      "endMs": 982680,
+      "en": "Peter Marinker has spent decades working in theatre, radio and films, including Love Actually.",
+      "zh": "彼得·马林克数十年来一直从事戏剧、广播和电影工作，参演过《真爱至上》。"
+    },
+    {
+      "id": 183,
+      "startMs": 982680,
+      "endMs": 986600,
+      "en": "Now he's revisiting a role he first performed 40 years ago",
+      "zh": "如今，他正在重新出演一个40年前首次演出的角色，"
+    },
+    {
+      "id": 184,
+      "startMs": 986600,
+      "endMs": 991080,
+      "en": "and not just any role: it's considered one of British theatre's toughest.",
+      "zh": "而且不是普通角色：这被认为是英国戏剧界最难演的角色之一。"
+    },
+    {
+      "id": 185,
+      "startMs": 991480,
+      "endMs": 995640,
+      "en": "He's the only actor in a one-act Samuel Beckett play being staged in London.",
+      "zh": "他是这部正在伦敦上演的塞缪尔·贝克特独幕剧中唯一的演员。"
+    },
+    {
+      "id": 186,
+      "startMs": 996040,
+      "endMs": 998600,
+      "en": "Our health reporter, Jim Reed, has been to meet him.",
+      "zh": "我们的健康事务记者吉姆·里德前去采访了他。"
+    },
+    {
+      "id": 187,
+      "startMs": 998600,
+      "endMs": 1003880,
+      "en": "Go on with this drivel in the morning, or leave it at that. Leave it at that.",
+      "zh": "早上继续这些胡言乱语，或者就到此为止。到此为止。"
+    },
+    {
+      "id": 188,
+      "startMs": 1006280,
+      "endMs": 1009240,
+      "en": "Peter Marinker at dress rehearsals in London.",
+      "zh": "彼得·马林克在伦敦参加彩排。"
+    },
+    {
+      "id": 189,
+      "startMs": 1009640,
+      "endMs": 1016760,
+      "en": "The 85-year-old actor has spent a lifetime performing on stage. A few years ago, though,",
+      "zh": "这位85岁的演员一生都在舞台上表演。不过，几年前，"
+    },
+    {
+      "id": 190,
+      "startMs": 1016840,
+      "endMs": 1019720,
+      "en": "says he found himself switching off at work.",
+      "zh": "他说自己发现工作时会走神。"
+    },
+    {
+      "id": 191,
+      "startMs": 1020120,
+      "endMs": 1021800,
+      "en": "How did you find out about your diagnosis?",
+      "zh": "你是怎么得知自己被诊断的？"
+    },
+    {
+      "id": 192,
+      "startMs": 1022120,
+      "endMs": 1026280,
+      "en": "Because my GP sent me for an MRI, and they got it, yes.",
+      "zh": "因为我的全科医生让我做了核磁共振检查，他们查出来了，是的。"
+    },
+    {
+      "id": 193,
+      "startMs": 1026600,
+      "endMs": 1029080,
+      "en": "And what was your reaction when they told you?",
+      "zh": "他们告诉你时，你是什么反应？"
+    },
+    {
+      "id": 194,
+      "startMs": 1029560,
+      "endMs": 1032540,
+      "en": "It's, \"I've got Alzheimer's.\" I have to accept it,",
+      "zh": "就是，‘我得了阿尔茨海默病。’我必须接受这一点，"
+    },
+    {
+      "id": 195,
+      "startMs": 1032860,
+      "endMs": 1036540,
+      "en": "and it explained why I kept losing things, that sort of thing.",
+      "zh": "这也解释了我为什么总是丢东西之类的。"
+    },
+    {
+      "id": 196,
+      "startMs": 1036780,
+      "endMs": 1040860,
+      "en": "I started to laugh at myself, the silly things that I do, yes.",
+      "zh": "我开始嘲笑自己做的那些傻事，是的。"
+    },
+    {
+      "id": 197,
+      "startMs": 1040860,
+      "endMs": 1045020,
+      "en": "Then this year, two years after his diagnosis,",
+      "zh": "于是今年，也就是确诊两年后，"
+    },
+    {
+      "id": 198,
+      "startMs": 1045020,
+      "endMs": 1049180,
+      "en": "Peter was called up and offered one of the toughest roles in theatre:",
+      "zh": "彼得接到邀请，获得了戏剧界最艰难的角色之一："
+    },
+    {
+      "id": 199,
+      "startMs": 1049180,
+      "endMs": 1051900,
+      "en": "a single-act Samuel Beckett play.",
+      "zh": "一部塞缪尔·贝克特的独幕剧。"
+    },
+    {
+      "id": 200,
+      "startMs": 1052220,
+      "endMs": 1053260,
+      "en": "It was out of the blue.",
+      "zh": "这完全出乎意料。"
+    },
+    {
+      "id": 201,
+      "startMs": 1053740,
+      "endMs": 1056780,
+      "en": "Dave said, \"Would I like to do, would I like to do it?\"",
+      "zh": "戴夫说：‘你想不想演，你想不想演这个？’"
+    },
+    {
+      "id": 202,
+      "startMs": 1058560,
+      "endMs": 1064080,
+      "en": "Oh yes. What's the firing order? Motor, is it ledger tins tape recorder?",
+      "zh": "哦，是的。启动顺序是什么？电机，是吗？账本、罐子、录音机？"
+    },
+    {
+      "id": 203,
+      "startMs": 1064160,
+      "endMs": 1069040,
+      "en": "Okay, in Krapp's Last Tape, a writer listens back to recordings of his younger self,",
+      "zh": "好。在《克拉普的最后一盘磁带》中，一名作家回听年轻时自己的录音，"
+    },
+    {
+      "id": 204,
+      "startMs": 1069440,
+      "endMs": 1073040,
+      "en": "remembering a lifetime of missed opportunities and regrets.",
+      "zh": "回忆一生错过的机会与遗憾。"
+    },
+    {
+      "id": 205,
+      "startMs": 1073040,
+      "endMs": 1075680,
+      "en": "Hard to believe that I was ever as bad as that.",
+      "zh": "真难以相信我曾经那么糟糕。"
+    },
+    {
+      "id": 206,
+      "startMs": 1076480,
+      "endMs": 1079360,
+      "en": "Thank God that's all done with anyway.",
+      "zh": "谢天谢地，那些都已经过去了。"
+    },
+    {
+      "id": 207,
+      "startMs": 1079360,
+      "endMs": 1084800,
+      "en": "Then the spool will be in one of the boxes to make it work.",
+      "zh": "然后把卷轴放进其中一个盒子里，才能让它运转。"
+    },
+    {
+      "id": 208,
+      "startMs": 1084880,
+      "endMs": 1090400,
+      "en": "Teleprompter screens will be dotted around the theatre, and Peter will be wearing a tiny earpiece",
+      "zh": "剧院各处会摆放提词器屏幕，彼得还会戴上一只微型耳机，"
+    },
+    {
+      "id": 209,
+      "startMs": 1090560,
+      "endMs": 1093920,
+      "en": "so he can be discreetly fed a line if he needs it.",
+      "zh": "如果需要，就能低调地听到提示。"
+    },
+    {
+      "id": 210,
+      "startMs": 1094240,
+      "endMs": 1096960,
+      "en": "It is a play about memory, and it's about imperfect memory.",
+      "zh": "这是一部关于记忆的戏剧，讲的是不完美的记忆。"
+    },
+    {
+      "id": 211,
+      "startMs": 1097360,
+      "endMs": 1102640,
+      "en": "The director of the Cockpit Theatre, Dave Wybrow, came up with the idea for this project.",
+      "zh": "驾驶舱剧院的导演戴夫·怀布罗提出了这个项目的构想。"
+    },
+    {
+      "id": 212,
+      "startMs": 1102960,
+      "endMs": 1103840,
+      "en": "We're not going to hide.",
+      "zh": "我们不会掩饰。"
+    },
+    {
+      "id": 213,
+      "startMs": 1104840,
+      "endMs": 1107800,
+      "en": "The idea that Peter might need a prompt or he might need a screen",
+      "zh": "彼得可能需要提词，或者可能需要屏幕，"
+    },
+    {
+      "id": 214,
+      "startMs": 1107880,
+      "endMs": 1108840,
+      "en": "or he might—this doesn't matter.",
+      "zh": "或者他可能需要别的帮助——这都不重要。"
+    },
+    {
+      "id": 215,
+      "startMs": 1110040,
+      "endMs": 1111080,
+      "en": "That becomes part of it.",
+      "zh": "这些都会成为戏剧的一部分。"
+    },
+    {
+      "id": 216,
+      "startMs": 1111080,
+      "endMs": 1112760,
+      "en": "So it's not a matter of covering up, or—no, no, no, no.",
+      "zh": "所以这不是要掩盖什么，或者——不，不，不，不。"
+    },
+    {
+      "id": 217,
+      "startMs": 1113240,
+      "endMs": 1120280,
+      "en": "Absolutely, quite the reverse. This is about creative work being possible for people that have had an Alzheimer's diagnosis.",
+      "zh": "完全相反。这是要让被诊断患有阿尔茨海默病的人也能从事创作。"
+    },
+    {
+      "id": 218,
+      "startMs": 1120280,
+      "endMs": 1128840,
+      "en": "All the profits from the four-day run will go to the Alzheimer's Society.",
+      "zh": "为期四天的演出所得全部利润将捐给阿尔茨海默病协会。"
+    },
+    {
+      "id": 219,
+      "startMs": 1129080,
+      "endMs": 1133400,
+      "en": "Somebody with a diagnosis is still your colleague, your friend, your partner, loved one.",
+      "zh": "被诊断患病的人依然是你的同事、朋友、伴侣或亲人。"
+    },
+    {
+      "id": 220,
+      "startMs": 1133400,
+      "endMs": 1141720,
+      "en": "Taya Nazeri, a support manager at the charity, says projects like this can help break down stigma and change attitudes towards dementia.",
+      "zh": "该慈善机构的支持经理塔娅·纳泽里说，这样的项目有助于消除污名，改变人们对痴呆症的态度。"
+    },
+    {
+      "id": 221,
+      "startMs": 1141800,
+      "endMs": 1148520,
+      "en": "Having somebody high profile like Peter showcasing, you know, \"I am going to do this performance\"",
+      "zh": "像彼得这样有影响力的人展示‘我要完成这场演出’，"
+    },
+    {
+      "id": 222,
+      "startMs": 1148520,
+      "endMs": 1152520,
+      "en": "sends out a message of hope to people affected by dementia",
+      "zh": "会向受痴呆症影响的人传递希望的信息，"
+    },
+    {
+      "id": 223,
+      "startMs": 1152600,
+      "endMs": 1160760,
+      "en": "that a diagnosis is not the end, and that many people can still continue to do the things that they really love and are passionate about.",
+      "zh": "说明确诊并不是终点，许多人仍然可以继续做自己真正热爱并充满热情的事。"
+    },
+    {
+      "id": 224,
+      "startMs": 1161080,
+      "endMs": 1162440,
+      "en": "Now the day is over.",
+      "zh": "如今一天已经结束。"
+    },
+    {
+      "id": 225,
+      "startMs": 1166080,
+      "endMs": 1167760,
+      "en": "drawing nigh.",
+      "zh": "夜色渐近。"
+    },
+    {
+      "id": 226,
+      "startMs": 1169680,
+      "endMs": 1175680,
+      "en": "Does the play mean something different to you now that you've had the Alzheimer's diagnosis?",
+      "zh": "现在被诊断患有阿尔茨海默病后，这部戏对你来说有不同的意义吗？"
+    },
+    {
+      "id": 227,
+      "startMs": 1176160,
+      "endMs": 1177840,
+      "en": "I'm in the early stage.",
+      "zh": "我处于早期阶段。"
+    },
+    {
+      "id": 228,
+      "startMs": 1178480,
+      "endMs": 1182080,
+      "en": "I think I need to make the best of the early stage",
+      "zh": "我想我需要充分利用早期阶段，"
+    },
+    {
+      "id": 229,
+      "startMs": 1182640,
+      "endMs": 1188240,
+      "en": "and prepare as best I can for the middle stage,",
+      "zh": "尽我所能为中期阶段做好准备，"
+    },
+    {
+      "id": 230,
+      "startMs": 1188240,
+      "endMs": 1190080,
+      "en": "and then it'll be out of control.",
+      "zh": "然后一切就会失去控制。"
+    },
+    {
+      "id": 231,
+      "startMs": 1190880,
+      "endMs": 1195040,
+      "en": "And I might live through it, or I might drop.",
+      "zh": "我可能撑过那段时期，也可能倒下。"
+    },
+    {
+      "id": 232,
+      "startMs": 1197520,
+      "endMs": 1199120,
+      "en": "And it's a swan song.",
+      "zh": "这是一曲天鹅绝唱。"
+    },
+    {
+      "id": 233,
+      "startMs": 1199120,
+      "endMs": 1203680,
+      "en": "This week then, Peter Marinker will step back onto the stage",
+      "zh": "所以本周，彼得·马林克将重新登上舞台，"
+    },
+    {
+      "id": 234,
+      "startMs": 1204000,
+      "endMs": 1206320,
+      "en": "to create a few more memories for his audience",
+      "zh": "为观众再创造一些回忆，"
+    },
+    {
+      "id": 235,
+      "startMs": 1206720,
+      "endMs": 1209840,
+      "en": "and perhaps break down a few barriers at the same time.",
+      "zh": "也许同时打破一些隔阂。"
+    },
+    {
+      "id": 236,
+      "startMs": 1210160,
+      "endMs": 1214880,
+      "en": "Jim Reed. Echidnas are one of the world's very few mammals which lay eggs.",
+      "zh": "吉姆·里德报道。针鼹是世界上极少数会产卵的哺乳动物之一。"
+    },
+    {
+      "id": 237,
+      "startMs": 1215120,
+      "endMs": 1221200,
+      "en": "And now, for the first time, a baby echidna has been born and reared in a university in Australia.",
+      "zh": "如今，澳大利亚一所大学首次成功孵化并养大了一只针鼹幼崽。"
+    },
+    {
+      "id": 238,
+      "startMs": 1221680,
+      "endMs": 1227040,
+      "en": "The scientists hope it will help them answer fundamental questions about the evolution of pregnancy in mammals.",
+      "zh": "科学家希望这能帮助他们回答哺乳动物妊娠演化的基本问题。"
+    },
+    {
+      "id": 239,
+      "startMs": 1227520,
+      "endMs": 1228960,
+      "en": "Richard Hamilton has the story.",
+      "zh": "理查德·汉密尔顿报道。"
+    },
+    {
+      "id": 240,
+      "startMs": 1229200,
+      "endMs": 1236560,
+      "en": "Echidnas, known as spiny anteaters, are one of the few mammals, along with the platypus, that lay eggs.",
+      "zh": "针鼹又称棘食蚁兽，是少数会产卵的哺乳动物之一，鸭嘴兽也是如此。"
+    },
+    {
+      "id": 241,
+      "startMs": 1236960,
+      "endMs": 1240720,
+      "en": "As they evolved between 20 and 50 million years ago,",
+      "zh": "针鼹在两千万至五千万年前演化而来，"
+    },
+    {
+      "id": 242,
+      "startMs": 1241120,
+      "endMs": 1249440,
+      "en": "research into their pregnancy helps scientists understand how reproduction, pregnancy, and live births evolved",
+      "zh": "对其妊娠过程的研究有助于科学家理解繁殖、妊娠和活产是如何演化的，"
+    },
+    {
+      "id": 243,
+      "startMs": 1249520,
+      "endMs": 1255280,
+      "en": "in mammals like us, and it gives us a rare glimpse into our egg-laying ancestors.",
+      "zh": "也让我们得以一窥像我们这样的哺乳动物的产卵祖先。"
+    },
+    {
+      "id": 244,
+      "startMs": 1255920,
+      "endMs": 1259780,
+      "en": "This baby, known as a puggle, was born earlier this month",
+      "zh": "这只被称为针鼹幼崽的宝宝本月早些时候出生，"
+    },
+    {
+      "id": 245,
+      "startMs": 1260260,
+      "endMs": 1264580,
+      "en": "and has now been removed from its mother's pouch for its first weigh-in.",
+      "zh": "如今已从母亲的育儿袋中取出，进行第一次称重。"
+    },
+    {
+      "id": 246,
+      "startMs": 1264980,
+      "endMs": 1270740,
+      "en": "Dr Oliver Griffith is leading the research team at Macquarie University in Sydney.",
+      "zh": "奥利弗·格里菲思博士领导着悉尼麦考瑞大学的研究团队。"
+    },
+    {
+      "id": 247,
+      "startMs": 1271060,
+      "endMs": 1276820,
+      "en": "In the echidna, the embryo and egg stay inside the uterus for another 21 days.",
+      "zh": "在针鼹体内，胚胎和卵还会在子宫里停留21天。"
+    },
+    {
+      "id": 248,
+      "startMs": 1277460,
+      "endMs": 1278980,
+      "en": "And then the egg is laid.",
+      "zh": "然后卵就会被产下。"
+    },
+    {
+      "id": 249,
+      "startMs": 1279300,
+      "endMs": 1283940,
+      "en": "The mum somehow maneuvers that laid egg up into a pouch.",
+      "zh": "母针鼹不知用什么方法，将产下的卵移入育儿袋。"
+    },
+    {
+      "id": 250,
+      "startMs": 1284420,
+      "endMs": 1288020,
+      "en": "The egg, once it's moved into the pouch, will incubate for 10 days.",
+      "zh": "卵一旦被移入育儿袋，就会在那里孵化10天。"
+    },
+    {
+      "id": 251,
+      "startMs": 1288180,
+      "endMs": 1291300,
+      "en": "During that 10 days, the mother won't move at all,",
+      "zh": "在这10天里，母针鼹一动也不会动，"
+    },
+    {
+      "id": 252,
+      "startMs": 1291620,
+      "endMs": 1292660,
+      "en": "so the egg will hatch.",
+      "zh": "这样卵就会孵化。"
+    },
+    {
+      "id": 253,
+      "startMs": 1292980,
+      "endMs": 1296820,
+      "en": "And the mum will spend the next 200 days with that puggle,",
+      "zh": "母针鼹接下来会和幼崽一起度过200天，"
+    },
+    {
+      "id": 254,
+      "startMs": 1297220,
+      "endMs": 1301060,
+      "en": "but only the puggle's only in the pouch for about 60 days.",
+      "zh": "但幼崽在育儿袋里只待大约60天。"
+    },
+    {
+      "id": 255,
+      "startMs": 1301620,
+      "endMs": 1307380,
+      "en": "After 60 days, it becomes too spiky, and she needs to leave it in a nest.",
+      "zh": "60天后，幼崽会变得刺太多，母针鼹必须把它留在巢里。"
+    },
+    {
+      "id": 256,
+      "startMs": 1307620,
+      "endMs": 1312900,
+      "en": "The echidna has proved to be an extremely difficult species to breed in captivity,",
+      "zh": "事实证明，针鼹是极难在圈养环境中繁育的物种，"
+    },
+    {
+      "id": 257,
+      "startMs": 1313300,
+      "endMs": 1319960,
+      "en": "and in spite of numerous attempts, a dedicated research colony has never been successfully established.",
+      "zh": "尽管尝试过许多次，专门的研究种群却从未成功建立。"
+    },
+    {
+      "id": 258,
+      "startMs": 1320600,
+      "endMs": 1323800,
+      "en": "They can live for more than 50 years in captivity,",
+      "zh": "它们在圈养环境中可以活过50年，"
+    },
+    {
+      "id": 259,
+      "startMs": 1324120,
+      "endMs": 1327960,
+      "en": "and this one is unlikely ever to be released into the wild.",
+      "zh": "而这只幼崽恐怕永远不会被放归野外。"
+    },
+    {
+      "id": 260,
+      "startMs": 1328440,
+      "endMs": 1332600,
+      "en": "So, Dr Griffith says the puggle may well outlive him.",
+      "zh": "所以格里菲思博士说，这只幼崽很可能比他活得更久。"
+    },
+    {
+      "id": 261,
+      "startMs": 1333000,
+      "endMs": 1333720,
+      "en": "Richard Hamilton.",
+      "zh": "理查德·汉密尔顿报道。"
+    },
+    {
+      "id": 262,
+      "startMs": 1336180,
+      "endMs": 1337620,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是目前的全部报道。"
+    },
+    {
+      "id": 263,
+      "startMs": 1337620,
+      "endMs": 1343220,
+      "en": "But you can watch our episodes in full by searching for the Global News Podcast on YouTube.",
+      "zh": "你也可以在YouTube上搜索Global News Podcast，观看我们的完整节目。"
+    },
+    {
+      "id": 264,
+      "startMs": 1343700,
+      "endMs": 1350900,
+      "en": "This edition was mixed by Holly Smith and produced by Richard Hamilton. Our editor is Karen Martin. I'm Oliver Conway. Until next time, goodbye.",
+      "zh": "本期由霍莉·史密斯混音，理查德·汉密尔顿制作。编辑是凯伦·马丁。我是奥利弗·康韦。下次再见。"
+    }
+  ]
+}
