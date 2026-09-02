@@ -1,0 +1,1873 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "1 September 2026"
+  },
+  "durationMs": 1456940,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4080,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《Global News Podcast》。"
+    },
+    {
+      "id": 2,
+      "startMs": 7140,
+      "endMs": 12340,
+      "en": "I'm Charlotte Gallagher, and in the early hours of the 1st of September, these are our main stories.",
+      "zh": "我是夏洛特·加拉格尔。这里是9月1日凌晨的节目，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12740,
+      "endMs": 17620,
+      "en": "A former gang leader has been found guilty of killing the rapper Tupac Shakur.",
+      "zh": "一名前帮派头目被判谋杀说唱歌手图派克·沙库尔罪名成立。"
+    },
+    {
+      "id": 4,
+      "startMs": 18180,
+      "endMs": 24340,
+      "en": "Five days after floods in Nepal, rescue teams race to find hundreds trapped underground.",
+      "zh": "尼泊尔发生洪灾五天后，救援队争分夺秒寻找数百名被困地下的人。"
+    },
+    {
+      "id": 5,
+      "startMs": 24820,
+      "endMs": 30500,
+      "en": "And Argentina's Lionel Messi hangs up his boots and retires from international football.",
+      "zh": "阿根廷球星利昂内尔·梅西挂靴，退出国际足坛。"
+    },
+    {
+      "id": 6,
+      "startMs": 33620,
+      "endMs": 38100,
+      "en": "Also in this podcast, a new invention in penguin conservation.",
+      "zh": "本期节目还将介绍企鹅保护领域的一项新发明。"
+    },
+    {
+      "id": 7,
+      "startMs": 38500,
+      "endMs": 47700,
+      "en": "A former gang member has been found guilty of masterminding the murder of the rapper Tupac Shakur in Las Vegas in 1996.",
+      "zh": "一名前帮派成员被判策划谋杀说唱歌手图派克·沙库尔罪名成立；案件发生于1996年拉斯维加斯。"
+    },
+    {
+      "id": 8,
+      "startMs": 48180,
+      "endMs": 56660,
+      "en": "Duane 'Keffe D' Davis wasn't accused of actually pulling the trigger, but the 63-year-old has been convicted of orchestrating the shooting.",
+      "zh": "杜安·“凯菲·D”·戴维斯并未被指控亲自扣动扳机，但这名63岁男子被判策划了这起枪击。"
+    },
+    {
+      "id": 9,
+      "startMs": 57140,
+      "endMs": 61540,
+      "en": "Prosecutors argued it was a revenge attack after Tupac and his entourage",
+      "zh": "检方称，这是一起报复性袭击：图派克及其随行人员"
+    },
+    {
+      "id": 10,
+      "startMs": 61700,
+      "endMs": 70180,
+      "en": "attacked and injured Mr Davis's nephew, Orlando Anderson. Mr Anderson was killed in an unrelated shooting two years later.",
+      "zh": "曾袭击并打伤戴维斯的外甥奥兰多·安德森。两年后，安德森在另一宗无关的枪击案中遇害。"
+    },
+    {
+      "id": 11,
+      "startMs": 70660,
+      "endMs": 74260,
+      "en": "Here's the moment the verdict was read out in the Las Vegas courtroom.",
+      "zh": "以下是拉斯维加斯法庭宣读裁决的现场。"
+    },
+    {
+      "id": 12,
+      "startMs": 74580,
+      "endMs": 76260,
+      "en": "Count one: murder with use of a deadly weapon.",
+      "zh": "第一项罪名：使用致命武器谋杀。"
+    },
+    {
+      "id": 13,
+      "startMs": 76900,
+      "endMs": 82420,
+      "en": "Guilty of first-degree murder with use of a deadly weapon, dated this 31st day of August, 2026.",
+      "zh": "使用致命武器实施一级谋杀罪名成立，日期为2026年8月31日。"
+    },
+    {
+      "id": 14,
+      "startMs": 82660,
+      "endMs": 87220,
+      "en": "Ladies and gentlemen of the jury, is this your verdict as read? So say you one, so say you all? Yes. Yes.",
+      "zh": "陪审团的女士们、先生们，这是你们刚才宣读的裁决吗？请一位回答“是”，请全体回答“是”，可以吗？是的，是的。"
+    },
+    {
+      "id": 15,
+      "startMs": 89240,
+      "endMs": 95240,
+      "en": "This is the first conviction in a case that has gripped the hip-hop world for three decades.",
+      "zh": "这是这宗牵动嘻哈界长达三十年的案件中，首次有人被定罪。"
+    },
+    {
+      "id": 16,
+      "startMs": 95640,
+      "endMs": 101720,
+      "en": "Our correspondent in Las Vegas, Regan Morris, told me that Duane 'Keffe D' Davis was found guilty",
+      "zh": "驻拉斯维加斯记者里根·莫里斯告诉我，杜安·“凯菲·D”·戴维斯被判有罪，"
+    },
+    {
+      "id": 17,
+      "startMs": 101800,
+      "endMs": 105640,
+      "en": "not just of supplying the gun, but also calling the shots.",
+      "zh": "不仅因为提供了枪，还因为他发号施令。"
+    },
+    {
+      "id": 18,
+      "startMs": 106200,
+      "endMs": 109640,
+      "en": "Prosecutors repeatedly called him 'the shot caller'.",
+      "zh": "检方反复称他为“发号施令的人”。"
+    },
+    {
+      "id": 19,
+      "startMs": 110200,
+      "endMs": 116120,
+      "en": "And traditionally, on a cold case after 30 years, you know, and this one especially being so high-profile,",
+      "zh": "通常，一宗三十年后才审理的悬案，尤其是这样备受瞩目的案件，"
+    },
+    {
+      "id": 20,
+      "startMs": 116120,
+      "endMs": 121080,
+      "en": "you would think there would be some DNA or some new evidence, physical evidence.",
+      "zh": "人们会以为应该能找到 DNA 或某些新证据、物证。"
+    },
+    {
+      "id": 21,
+      "startMs": 121080,
+      "endMs": 124840,
+      "en": "And that's what Keffe D's lawyers kept going on about: 'There is no new evidence.'",
+      "zh": "这正是凯菲·D的律师不断强调的：“没有新证据。”"
+    },
+    {
+      "id": 22,
+      "startMs": 124840,
+      "endMs": 131480,
+      "en": "'There is no physical evidence tying him there. There's not even photos and video of him in Las Vegas on that day.'",
+      "zh": "“没有物证能证明他当时在那里，甚至没有照片或视频显示他当天在拉斯维加斯。”"
+    },
+    {
+      "id": 23,
+      "startMs": 132120,
+      "endMs": 135560,
+      "en": "And yet, you know, it was his own words, Keffe D's own words,",
+      "zh": "然而，最终起作用的却是他自己的话，是凯菲·D本人的话，"
+    },
+    {
+      "id": 24,
+      "startMs": 135560,
+      "endMs": 144280,
+      "en": "in his documentary, in a memoir, in an interview he gave with police, where he is essentially bragging about his role in the killing of Tupac Shakur,",
+      "zh": "这些话出现在他的纪录片、自传和接受警方采访时；他基本上是在吹嘘自己在杀害图派克·沙库尔一事中所扮演的角色，"
+    },
+    {
+      "id": 25,
+      "startMs": 144360,
+      "endMs": 148520,
+      "en": "that, you know, was the evidence that worked against him. He was his own worst enemy.",
+      "zh": "这成了对他不利的证据。他是自己最大的敌人。"
+    },
+    {
+      "id": 26,
+      "startMs": 148780,
+      "endMs": 155020,
+      "en": "They played recordings of him talking about the night that Tupac was killed.",
+      "zh": "他们播放了他谈论图派克遇害当晚情况的录音。"
+    },
+    {
+      "id": 27,
+      "startMs": 155580,
+      "endMs": 160220,
+      "en": "And he claims that it was his nephew, Orlando, who did pull the trigger.",
+      "zh": "他声称，真正扣动扳机的是他的外甥奥兰多。"
+    },
+    {
+      "id": 28,
+      "startMs": 160220,
+      "endMs": 165340,
+      "en": "That he passed the gun to the back seat, Orlando was in the right place, and that they really shot Tupac.",
+      "zh": "他还说，自己把枪递到了后座，奥兰多当时就在合适的位置，并且确实开枪射中了图派克。"
+    },
+    {
+      "id": 29,
+      "startMs": 165820,
+      "endMs": 171740,
+      "en": "They said, you know, it wasn't an East Coast-West Coast rap battle, it was a rivalry between Compton gangs.",
+      "zh": "他们说，这并不是东西海岸说唱之争，而是康普顿帮派之间的争斗。"
+    },
+    {
+      "id": 30,
+      "startMs": 172060,
+      "endMs": 176780,
+      "en": "And because Tupac and his entourage had beaten up Orlando earlier in the night,",
+      "zh": "因为图派克及其随行人员当晚早些时候曾殴打奥兰多，"
+    },
+    {
+      "id": 31,
+      "startMs": 176780,
+      "endMs": 183420,
+      "en": "and then Orlando, according to Keffe's interviews, fired that final shot that killed Tupac Shakur.",
+      "zh": "随后，据凯菲的采访所说，奥兰多开出了杀死图派克·沙库尔的最后一枪。"
+    },
+    {
+      "id": 32,
+      "startMs": 184140,
+      "endMs": 191180,
+      "en": "And given, as you said, there's no forensic evidence, this happened 30 years ago, is it surprising that the jury were only deliberating for",
+      "zh": "如你所说，既然没有法医证据，而且事情发生在三十年前，陪审团只审议了"
+    },
+    {
+      "id": 33,
+      "startMs": 191740,
+      "endMs": 196060,
+      "en": "three hours? It was less than three hours. It was a little surprising.",
+      "zh": "三个小时，这是否令人意外？不到三个小时，确实有点令人意外。"
+    },
+    {
+      "id": 34,
+      "startMs": 196060,
+      "endMs": 199180,
+      "en": "I mean, it really could have gone either way.",
+      "zh": "我的意思是，结果本来真的可能走向任何一边。"
+    },
+    {
+      "id": 35,
+      "startMs": 199180,
+      "endMs": 204940,
+      "en": "I mean, you know, his lawyer was quite convincing that there was no new evidence.",
+      "zh": "我的意思是，他的律师有说服力地指出，没有新证据。"
+    },
+    {
+      "id": 36,
+      "startMs": 204940,
+      "endMs": 206540,
+      "en": "'Why are we doing this? Why are we here?'",
+      "zh": "“我们为什么要做这件事？为什么要来到这里？”"
+    },
+    {
+      "id": 37,
+      "startMs": 207100,
+      "endMs": 209920,
+      "en": "But I think they took Keffe D at his word.",
+      "zh": "但我认为，他们相信了凯菲·D自己的话。"
+    },
+    {
+      "id": 38,
+      "startMs": 209920,
+      "endMs": 213360,
+      "en": "Prosecutors said, 'This man says this, he's done this, he's bragged about this, and",
+      "zh": "检方说：“这个人亲口这样说过，他做过这些事，还吹嘘过这些事，而且"
+    },
+    {
+      "id": 39,
+      "startMs": 213840,
+      "endMs": 216640,
+      "en": "it's time, we need some justice for Tupac Shakur.'",
+      "zh": "现在是时候了，我们需要为图派克·沙库尔讨回公道。”"
+    },
+    {
+      "id": 40,
+      "startMs": 216640,
+      "endMs": 221600,
+      "en": "And the jury clearly identified with that and believed that, and it didn't take them long at all.",
+      "zh": "陪审团显然对此产生了认同并相信了这些话，很快就作出了决定。"
+    },
+    {
+      "id": 41,
+      "startMs": 221600,
+      "endMs": 228880,
+      "en": "Are we expecting to hear from Tupac Shakur's family, given they've been waiting for justice in this case for 30 years?",
+      "zh": "考虑到图派克·沙库尔的家人已经为这宗案件等待公道三十年，我们是否会听到他们的回应？"
+    },
+    {
+      "id": 42,
+      "startMs": 229120,
+      "endMs": 231200,
+      "en": "There were a lot of his family members in court today.",
+      "zh": "今天有许多他的家人出席了庭审。"
+    },
+    {
+      "id": 43,
+      "startMs": 231200,
+      "endMs": 238080,
+      "en": "His brother, Mopreme, whom we had spoken to just before the trial started, we met him and his wife in Los Angeles,",
+      "zh": "他的兄弟莫普里姆，我们在审判开始前曾采访过他，也在洛杉矶见过他和妻子，"
+    },
+    {
+      "id": 44,
+      "startMs": 238080,
+      "endMs": 242320,
+      "en": "and they've been there throughout the trial in Las Vegas.",
+      "zh": "他们一直在拉斯维加斯旁听整个审判过程。"
+    },
+    {
+      "id": 45,
+      "startMs": 242880,
+      "endMs": 249280,
+      "en": "And, you know, for him, he said it's important to his family if Keffe D did call the shot, that they did want to see him convicted.",
+      "zh": "他说，如果凯菲·D确实下令开枪，那么看到他被定罪对他的家人很重要，他们确实希望如此。"
+    },
+    {
+      "id": 46,
+      "startMs": 249280,
+      "endMs": 250720,
+      "en": "And if that's, you know...",
+      "zh": "至于这一点，你知道……"
+    },
+    {
+      "id": 47,
+      "startMs": 251120,
+      "endMs": 255120,
+      "en": "But he said there's no such thing as justice for them because Tupac Shakur is gone.",
+      "zh": "但他说，对他们而言不存在所谓的公道，因为图派克·沙库尔已经离世。"
+    },
+    {
+      "id": 48,
+      "startMs": 255120,
+      "endMs": 256320,
+      "en": "And he wants his brother back.",
+      "zh": "他只想让弟弟回到身边。"
+    },
+    {
+      "id": 49,
+      "startMs": 256960,
+      "endMs": 258800,
+      "en": "Regan Morris in Las Vegas.",
+      "zh": "里根·莫里斯，拉斯维加斯报道。"
+    },
+    {
+      "id": 50,
+      "startMs": 259200,
+      "endMs": 260480,
+      "en": "Next to Nepal.",
+      "zh": "接下来关注尼泊尔。"
+    },
+    {
+      "id": 51,
+      "startMs": 266940,
+      "endMs": 275580,
+      "en": "Crouched down low under the torchlight from their helmets,",
+      "zh": "救援人员借着头盔上的灯光俯身蹲下，"
+    },
+    {
+      "id": 52,
+      "startMs": 275980,
+      "endMs": 278860,
+      "en": "rescue workers try to find the hydroelectric power workers",
+      "zh": "搜寻水电站工人，"
+    },
+    {
+      "id": 53,
+      "startMs": 278860,
+      "endMs": 282460,
+      "en": "still missing after devastating floods six days ago.",
+      "zh": "六天前的毁灭性洪灾过后，他们仍下落不明。"
+    },
+    {
+      "id": 54,
+      "startMs": 283260,
+      "endMs": 288460,
+      "en": "More than 600 are believed to be still inside the vast network of mud-filled tunnels.",
+      "zh": "据信仍有600多人困在庞大的泥浆淤塞隧道网络中。"
+    },
+    {
+      "id": 55,
+      "startMs": 288860,
+      "endMs": 290540,
+      "en": "Their families are losing hope.",
+      "zh": "他们的家人正逐渐失去希望。"
+    },
+    {
+      "id": 56,
+      "startMs": 291020,
+      "endMs": 298540,
+      "en": "The authorities say some progress has been made using heavy machinery and controlled explosions to get deeper underground.",
+      "zh": "当局称，救援人员利用重型机械和可控爆破，已取得一些进展并深入地下。"
+    },
+    {
+      "id": 57,
+      "startMs": 299100,
+      "endMs": 304940,
+      "en": "More than 900 people in Nepal are known to have died, and nearly 4,000 are still missing.",
+      "zh": "已知尼泊尔有900多人死亡，近4000人仍失踪。"
+    },
+    {
+      "id": 58,
+      "startMs": 305340,
+      "endMs": 309580,
+      "en": "Our correspondent Azadeh Moshiri reports from one of the worst-affected areas.",
+      "zh": "本台记者阿扎德·莫希里从受灾最严重的地区之一发回报道。"
+    },
+    {
+      "id": 59,
+      "startMs": 310140,
+      "endMs": 315100,
+      "en": "As we look over the Bhote Koshi River flowing from Tibet to Nepal, we see barren land.",
+      "zh": "俯瞰从西藏流向尼泊尔的波特科西河，映入眼帘的是荒芜的土地。"
+    },
+    {
+      "id": 60,
+      "startMs": 315500,
+      "endMs": 320220,
+      "en": "What was once a thriving trading town, Tatopani, has but a few buildings left.",
+      "zh": "曾经繁荣的贸易小镇塔托帕尼，如今只剩下几栋建筑。"
+    },
+    {
+      "id": 61,
+      "startMs": 320620,
+      "endMs": 326620,
+      "en": "Roads turned to mud and debris reveal the scale of last week's flood and the devastation left behind.",
+      "zh": "化为泥浆的道路和遍地残骸，展现了上周洪灾的规模及其留下的毁坏。"
+    },
+    {
+      "id": 62,
+      "startMs": 327120,
+      "endMs": 329360,
+      "en": "Nearby is the Chilime Hydropower Tunnel.",
+      "zh": "附近就是奇利梅水电隧道。"
+    },
+    {
+      "id": 63,
+      "startMs": 329760,
+      "endMs": 334160,
+      "en": "Multiple helicopters arrive with emergency teams attempting yet another rescue.",
+      "zh": "多架直升机载着应急队伍抵达，试图再次展开救援。"
+    },
+    {
+      "id": 64,
+      "startMs": 334720,
+      "endMs": 340160,
+      "en": "For days, they have tried to travel deeper into the mouth of the tunnel to save the six workers trapped inside.",
+      "zh": "几天来，他们一直试图深入隧道入口，营救困在里面的六名工人。"
+    },
+    {
+      "id": 65,
+      "startMs": 340720,
+      "endMs": 346800,
+      "en": "Kancha Babu Tamang has been coming to watch over the rescue every few days, hoping his colleagues are saved.",
+      "zh": "坎查·巴布·塔芒每隔几天就来关注救援，希望同事们获救。"
+    },
+    {
+      "id": 66,
+      "startMs": 350680,
+      "endMs": 353400,
+      "en": "The tunnel was the only safe place to go.",
+      "zh": "隧道是唯一可以前往的安全地点。"
+    },
+    {
+      "id": 67,
+      "startMs": 353640,
+      "endMs": 358680,
+      "en": "When there is a flood or an earthquake, it's usually the only safe place to stay.",
+      "zh": "发生洪水或地震时，那里通常是唯一可以躲避的安全地点。"
+    },
+    {
+      "id": 68,
+      "startMs": 359080,
+      "endMs": 361240,
+      "en": "But this time it wasn't safe.",
+      "zh": "但这一次并不安全。"
+    },
+    {
+      "id": 69,
+      "startMs": 361720,
+      "endMs": 365080,
+      "en": "The rescuers told me it's full of debris inside.",
+      "zh": "救援人员告诉我，里面满是残骸。"
+    },
+    {
+      "id": 70,
+      "startMs": 365720,
+      "endMs": 367720,
+      "en": "They had come two days ago as well.",
+      "zh": "他们两天前也来过。"
+    },
+    {
+      "id": 71,
+      "startMs": 368200,
+      "endMs": 377160,
+      "en": "They were able to get 90 metres inside, but they said there was a lot of mud and it was impossible to go in any further.",
+      "zh": "他们曾进入90米，但说里面泥浆太多，无法再继续深入。"
+    },
+    {
+      "id": 72,
+      "startMs": 377400,
+      "endMs": 381080,
+      "en": "Hundreds of people are trapped in tunnels across the most affected areas.",
+      "zh": "受灾最严重的地区有数百人被困在隧道中。"
+    },
+    {
+      "id": 73,
+      "startMs": 381400,
+      "endMs": 386680,
+      "en": "At the Trishuli 3A site, emergency teams are pumping in air and have carried out a controlled blast",
+      "zh": "在特里舒利3A现场，应急队伍正向内泵入空气，并进行了可控爆破。"
+    },
+    {
+      "id": 74,
+      "startMs": 386920,
+      "endMs": 389400,
+      "en": "and used excavators to clear the mud and debris.",
+      "zh": "并使用挖掘机清理泥浆和残骸。"
+    },
+    {
+      "id": 75,
+      "startMs": 389880,
+      "endMs": 394360,
+      "en": "Here in the district of Rasuwa, everyone we meet tells us they have lost loved ones.",
+      "zh": "在拉苏瓦县，我们遇到的每个人都告诉我们，他们失去了亲人。"
+    },
+    {
+      "id": 76,
+      "startMs": 394680,
+      "endMs": 397560,
+      "en": "Some of them were themselves caught in the floods.",
+      "zh": "其中一些人自己也被洪水困住。"
+    },
+    {
+      "id": 77,
+      "startMs": 397960,
+      "endMs": 401560,
+      "en": "Still, thousands have been rescued, including hundreds of foreign nationals.",
+      "zh": "不过，已有数千人获救，其中包括数百名外国公民。"
+    },
+    {
+      "id": 78,
+      "startMs": 401960,
+      "endMs": 407560,
+      "en": "But for those waiting on news of the missing, every day that passes is more difficult than the last.",
+      "zh": "但对等待失踪者消息的人来说，过去的每一天都比前一天更加难熬。"
+    },
+    {
+      "id": 79,
+      "startMs": 408540,
+      "endMs": 413100,
+      "en": "One of those helping with the rescue efforts is helicopter pilot Anand Thapaliya.",
+      "zh": "参与救援的一人是直升机飞行员阿南德·塔帕利亚。"
+    },
+    {
+      "id": 80,
+      "startMs": 413580,
+      "endMs": 417420,
+      "en": "He happened to be flying over the worst-affected area when the flood hit.",
+      "zh": "洪水袭来时，他碰巧正飞过受灾最严重的地区。"
+    },
+    {
+      "id": 81,
+      "startMs": 417900,
+      "endMs": 420860,
+      "en": "He told my colleague Rebecca Kesby about that moment.",
+      "zh": "他向我的同事丽贝卡·凯斯比讲述了当时的情形。"
+    },
+    {
+      "id": 82,
+      "startMs": 421500,
+      "endMs": 426540,
+      "en": "The scale on which everything was unfolding, like, we never thought it would be this huge.",
+      "zh": "事态发展的规模如此之大，我们从没想过会这么严重。"
+    },
+    {
+      "id": 83,
+      "startMs": 426700,
+      "endMs": 436300,
+      "en": "It looked like a landslide in the beginning, as there was debris all over and a thick cloud of dust all over the surface of the river.",
+      "zh": "一开始看起来像是山体滑坡，河面到处是残骸，尘土厚厚地覆盖着河面。"
+    },
+    {
+      "id": 84,
+      "startMs": 436620,
+      "endMs": 442540,
+      "en": "And then, over the next five to 10 seconds, we started seeing the whole scenario unfold.",
+      "zh": "接着，在之后5到10秒里，我们开始看到整个情景展开。"
+    },
+    {
+      "id": 85,
+      "startMs": 442700,
+      "endMs": 449420,
+      "en": "And how did you feel at that moment to be safely in the air and seeing this unfold on the ground?",
+      "zh": "当时你安全地在空中，看到地面发生这一切，感觉如何？"
+    },
+    {
+      "id": 86,
+      "startMs": 449740,
+      "endMs": 456380,
+      "en": "As soon as we realized what was happening, what was unfolding there, I looked at the other captain and I said, what do we do now?",
+      "zh": "我们一意识到那里发生了什么，我就看着另一名机长问：现在怎么办？"
+    },
+    {
+      "id": 87,
+      "startMs": 456620,
+      "endMs": 458860,
+      "en": "That was our first reaction: what do we do now?",
+      "zh": "那是我们的第一反应：现在怎么办？"
+    },
+    {
+      "id": 88,
+      "startMs": 459260,
+      "endMs": 463900,
+      "en": "We were flying alone in that area; there were no other aircraft inside that valley.",
+      "zh": "我们当时独自在那片区域飞行，山谷里没有其他飞机。"
+    },
+    {
+      "id": 89,
+      "startMs": 464220,
+      "endMs": 467980,
+      "en": "And then we started making circles, orbits around the villages that we knew.",
+      "zh": "然后我们开始盘旋，在熟悉的村庄上空绕圈。"
+    },
+    {
+      "id": 90,
+      "startMs": 468000,
+      "endMs": 474560,
+      "en": "As we were having this conversation, me and the other captain, I asked him",
+      "zh": "我和另一名机长交谈时，我问他："
+    },
+    {
+      "id": 91,
+      "startMs": 474640,
+      "endMs": 478800,
+      "en": "the people down there, they might be hearing the sound of our helicopter",
+      "zh": "下面的人可能听得到我们的直升机声，"
+    },
+    {
+      "id": 92,
+      "startMs": 478800,
+      "endMs": 484480,
+      "en": "and they might have this little hope of us landing right now and then rescuing them.",
+      "zh": "他们或许会抱有一丝希望，以为我们现在就会降落营救他们。"
+    },
+    {
+      "id": 93,
+      "startMs": 484640,
+      "endMs": 491680,
+      "en": "But unfortunately, with that dust cloud, as I said, it was impossible for us to go and land at that exact moment.",
+      "zh": "但遗憾的是，正如我所说，尘雾笼罩下，我们当时不可能前往并降落。"
+    },
+    {
+      "id": 94,
+      "startMs": 491680,
+      "endMs": 500560,
+      "en": "So the only thing we could do was contact Kathmandu and then inform all the security personnel so that rescue can be initiated as soon as possible.",
+      "zh": "所以我们唯一能做的就是联系加德满都，通知所有安保人员，以便尽快启动救援。"
+    },
+    {
+      "id": 95,
+      "startMs": 500640,
+      "endMs": 504400,
+      "en": "It felt like a tsunami was unfolding; it felt like that first-hand.",
+      "zh": "感觉就像海啸正在发生，我亲身感受到了这一点。"
+    },
+    {
+      "id": 96,
+      "startMs": 505300,
+      "endMs": 513060,
+      "en": "Now to the US, known as the land of the free, but where a growing number of people are concerned about the number of cameras watching them.",
+      "zh": "现在转向美国，这个被称为自由之地的国家，但越来越多人担心监视他们的摄像头数量。"
+    },
+    {
+      "id": 97,
+      "startMs": 513540,
+      "endMs": 522100,
+      "en": "Authorities have quietly built high-tech, increasingly interconnected surveillance networks, anything from drones to facial recognition.",
+      "zh": "当局悄然建立起高科技、日益互联的监控网络，从无人机到面部识别无所不包。"
+    },
+    {
+      "id": 98,
+      "startMs": 522500,
+      "endMs": 527620,
+      "en": "License plate readers made by one company, Flock, have spread quickly across the country",
+      "zh": "一家名为Flock的公司制造的车牌识别器，已迅速遍布全国。"
+    },
+    {
+      "id": 99,
+      "startMs": 528020,
+      "endMs": 531060,
+      "en": "and now some critics have taken matters into their own hands.",
+      "zh": "如今，一些批评者已亲自采取行动。"
+    },
+    {
+      "id": 100,
+      "startMs": 531300,
+      "endMs": 534820,
+      "en": "Our reporter Ellie House has been to Houston, Texas, to meet them.",
+      "zh": "本台记者埃莉·豪斯前往得克萨斯州休斯敦会见他们。"
+    },
+    {
+      "id": 101,
+      "startMs": 535900,
+      "endMs": 541580,
+      "en": "Oh, wow, that is completely severed in half. There's a black pole.",
+      "zh": "哦，天哪，它整个被从中间截断了。那里有一根黑色杆子。"
+    },
+    {
+      "id": 102,
+      "startMs": 542260,
+      "endMs": 548820,
+      "en": "And the bottom half is still stuck in the ground, and then about a third of the way up, it's just been sliced in two.",
+      "zh": "下半截仍插在地里，而往上约三分之一处被直接切成了两截。"
+    },
+    {
+      "id": 103,
+      "startMs": 549540,
+      "endMs": 555860,
+      "en": "This is a license plate reader camera made by the company Flock, one of around 100,000 in the United States",
+      "zh": "这是一台Flock公司制造的车牌识别摄像头，美国约有10万台这样的设备。"
+    },
+    {
+      "id": 104,
+      "startMs": 556340,
+      "endMs": 558580,
+      "en": "and people here have been cutting them down.",
+      "zh": "这里的人一直在把它们砍倒。"
+    },
+    {
+      "id": 105,
+      "startMs": 558980,
+      "endMs": 564020,
+      "en": "This is what we're fighting against. This is the automated license plate reader, but this one is powered by AI.",
+      "zh": "这正是我们要对抗的东西。这是自动车牌识别器，但这台由人工智能驱动。"
+    },
+    {
+      "id": 106,
+      "startMs": 564500,
+      "endMs": 567860,
+      "en": "If you have any identifying details like bumper stickers or dents or anything,",
+      "zh": "如果车上有保险杠贴纸、凹痕等任何识别特征，"
+    },
+    {
+      "id": 107,
+      "startMs": 568100,
+      "endMs": 571300,
+      "en": "Police officers can search for that in the Flock database.",
+      "zh": "警员还可以在Flock数据库中搜索这些信息。"
+    },
+    {
+      "id": 108,
+      "startMs": 571860,
+      "endMs": 578020,
+      "en": "Privacy advocates Christopher Rivera and Jasmine Khadem González campaign against surveillance tech.",
+      "zh": "隐私倡导者Christopher Rivera和Jasmine Khadem González发起反监控技术运动。"
+    },
+    {
+      "id": 109,
+      "startMs": 578420,
+      "endMs": 586180,
+      "en": "Not through vandalism, but with actions like this, a 'Flock walk', where we stroll through a neighborhood on the lookout for cameras.",
+      "zh": "他们并不通过破坏设备，而是采取这样的行动：进行“Flock巡查”，在社区里散步寻找摄像头。"
+    },
+    {
+      "id": 110,
+      "startMs": 586580,
+      "endMs": 590580,
+      "en": "It's really building out this mass surveillance network that's from coast to coast.",
+      "zh": "它实际上正在建立一个从美国东海岸到西海岸的大规模监控网络。"
+    },
+    {
+      "id": 111,
+      "startMs": 591060,
+      "endMs": 594900,
+      "en": "The real problem is the massive database that all of these kind of pictures go into.",
+      "zh": "真正的问题在于，所有这类图像都会进入一个庞大的数据库。"
+    },
+    {
+      "id": 112,
+      "startMs": 595140,
+      "endMs": 602340,
+      "en": "So, like, Flock's selling point is its centralized network, where its customers can search for footage not only from the cameras",
+      "zh": "所以，Flock的卖点就是它的集中式网络，客户不仅能搜索自家摄像头拍摄的影像，"
+    },
+    {
+      "id": 113,
+      "startMs": 602280,
+      "endMs": 605800,
+      "en": "they own, but from other Flock cameras that have opted into sharing.",
+      "zh": "还可以搜索其他选择共享数据的Flock摄像头拍摄的影像。"
+    },
+    {
+      "id": 114,
+      "startMs": 606280,
+      "endMs": 611400,
+      "en": "So an officer here in Texas could see cars hundreds of miles away in Illinois.",
+      "zh": "所以，得克萨斯州这里的警员可能看到数百英里外伊利诺伊州的车辆。"
+    },
+    {
+      "id": 115,
+      "startMs": 611880,
+      "endMs": 614360,
+      "en": "There is a growing number of stories of misuse.",
+      "zh": "有关这种系统遭滥用的报道越来越多。"
+    },
+    {
+      "id": 116,
+      "startMs": 614680,
+      "endMs": 620040,
+      "en": "One police chief looked up his ex-girlfriend and her daughter's plates roughly 600 times.",
+      "zh": "一名警察局长大约600次查询前女友及其女儿的车牌。"
+    },
+    {
+      "id": 117,
+      "startMs": 620280,
+      "endMs": 623880,
+      "en": "In every profession, there's bad actors. We have to hold those people accountable,",
+      "zh": "每个行业都有害群之马。我们必须追究这些人的责任，"
+    },
+    {
+      "id": 118,
+      "startMs": 624200,
+      "endMs": 630120,
+      "en": "but don't throw out a tool that is valuable, that can help recover a missing child.",
+      "zh": "但不能因此抛弃这种有价值的工具，它能帮助找回失踪儿童。"
+    },
+    {
+      "id": 119,
+      "startMs": 630440,
+      "endMs": 637000,
+      "en": "Ray Schultz is the chief of Memorial Villages Police Department, a small, affluent jurisdiction within the Houston area.",
+      "zh": "Ray Schultz是Memorial Villages警察局长，辖区位于休斯敦地区，是个富裕的小型辖区。"
+    },
+    {
+      "id": 120,
+      "startMs": 637320,
+      "endMs": 643720,
+      "en": "Prior to us getting our ALPRs, we would recover an average of three stolen cars a year.",
+      "zh": "在安装自动车牌识别器之前，我们每年平均找回三辆被盗汽车。"
+    },
+    {
+      "id": 121,
+      "startMs": 644280,
+      "endMs": 649240,
+      "en": "Since 2019, our average number of stolen cars recovered has been 45 every year.",
+      "zh": "自2019年以来，我们每年平均找回45辆被盗汽车。"
+    },
+    {
+      "id": 122,
+      "startMs": 651400,
+      "endMs": 658360,
+      "en": "One of the biggest concerns of some anti-Flock campaigners is the potential for surveillance tech to be used in deportation operations.",
+      "zh": "一些反Flock活动人士最担心的问题之一，是监控技术可能被用于驱逐行动。"
+    },
+    {
+      "id": 123,
+      "startMs": 658920,
+      "endMs": 664060,
+      "en": "Chief Schultz says he doesn't share his data with federal immigration enforcement agencies like ICE.",
+      "zh": "Schultz局长说，他不会把数据分享给美国移民与海关执法局等联邦移民执法机构。"
+    },
+    {
+      "id": 124,
+      "startMs": 665020,
+      "endMs": 672140,
+      "en": "But there have been instances of other police putting 'immigration' or 'ICE' as a reason when they run a license plate search.",
+      "zh": "但有些警察进行车牌查询时，曾把“移民”或“ICE”列为查询理由。"
+    },
+    {
+      "id": 125,
+      "startMs": 672380,
+      "endMs": 674780,
+      "en": "I would say fear is overwhelming right now.",
+      "zh": "我想说，现在恐惧感压倒一切。"
+    },
+    {
+      "id": 126,
+      "startMs": 675100,
+      "endMs": 681340,
+      "en": "Maria is a US citizen, but her partner is undocumented, which means the government would class him as an illegal immigrant.",
+      "zh": "玛丽亚是美国公民，但她的伴侣没有合法身份，这意味着政府会把他归为非法移民。"
+    },
+    {
+      "id": 127,
+      "startMs": 681740,
+      "endMs": 683740,
+      "en": "She asked us not to use her real name.",
+      "zh": "她要求我们不要使用她的真实姓名。"
+    },
+    {
+      "id": 128,
+      "startMs": 684140,
+      "endMs": 689980,
+      "en": "My main concern is that they're going to start pulling over people or tracking them through Flock",
+      "zh": "我最担心的是，他们会开始拦下人们，或通过Flock追踪他们，"
+    },
+    {
+      "id": 129,
+      "startMs": 690540,
+      "endMs": 695420,
+      "en": "and passing over that information to ICE, detaining them and deporting them.",
+      "zh": "再把信息交给ICE，拘留他们并将他们驱逐出境。"
+    },
+    {
+      "id": 130,
+      "startMs": 696220,
+      "endMs": 700940,
+      "en": "I do limit my outings and outings with my partner.",
+      "zh": "我确实会限制自己外出，也限制和伴侣一起外出。"
+    },
+    {
+      "id": 131,
+      "startMs": 701500,
+      "endMs": 705820,
+      "en": "It's heartbreaking. It's sad because we deserve to leave our homes and feel safe.",
+      "zh": "这令人心碎，也令人难过，因为我们有权离开家门并感到安全。"
+    },
+    {
+      "id": 132,
+      "startMs": 706540,
+      "endMs": 711260,
+      "en": "I spoke to Flock's founder and CEO, Garrett Langley, in his Atlanta office.",
+      "zh": "我在亚特兰大办公室采访了Flock创始人兼首席执行官Garrett Langley。"
+    },
+    {
+      "id": 133,
+      "startMs": 711500,
+      "endMs": 715740,
+      "en": "Last year, we helped solve about a million crimes, over 10,000 missing people.",
+      "zh": "去年，我们帮助侦破了大约100万起案件，找到了1万多名失踪人员。"
+    },
+    {
+      "id": 134,
+      "startMs": 715820,
+      "endMs": 721420,
+      "en": "Can ICE or federal immigration enforcement access Flock cameras? Not through us.",
+      "zh": "ICE或联邦移民执法部门能访问Flock摄像头吗？不能通过我们访问。"
+    },
+    {
+      "id": 135,
+      "startMs": 721820,
+      "endMs": 728800,
+      "en": "So federal immigration enforcement can't access the Flock network through you directly, but it can access the Flock network",
+      "zh": "所以，联邦移民执法部门不能直接通过你们访问Flock网络，但它可以访问Flock网络，"
+    },
+    {
+      "id": 136,
+      "startMs": 729040,
+      "endMs": 733200,
+      "en": "should a local police officer choose to share access?",
+      "zh": "只要当地警员选择共享访问权限？"
+    },
+    {
+      "id": 137,
+      "startMs": 733200,
+      "endMs": 736400,
+      "en": "So that would be near impossible.",
+      "zh": "所以那几乎不可能。"
+    },
+    {
+      "id": 138,
+      "startMs": 736720,
+      "endMs": 739440,
+      "en": "They would be either breaking our contract with them",
+      "zh": "他们要么会违反我们与其签订的合同，"
+    },
+    {
+      "id": 139,
+      "startMs": 739680,
+      "endMs": 742320,
+      "en": "or they would probably be breaking a policy internally.",
+      "zh": "要么很可能会违反内部政策。"
+    },
+    {
+      "id": 140,
+      "startMs": 742480,
+      "endMs": 747280,
+      "en": "But it does happen. We've seen on audit logs ICE being put as the reason for search.",
+      "zh": "但这种事确实发生过。我们在审计日志中看到过，ICE被列为查询理由。"
+    },
+    {
+      "id": 141,
+      "startMs": 747280,
+      "endMs": 753280,
+      "en": "Yeah, and some, some police departments have standing agreements with federal law enforcement,",
+      "zh": "是的，有些警察部门与联邦执法机构有长期协议，"
+    },
+    {
+      "id": 142,
+      "startMs": 753520,
+      "endMs": 756960,
+      "en": "whether it's a task force or another reason to work together.",
+      "zh": "无论是组建联合工作组，还是出于其他共同执法的原因。"
+    },
+    {
+      "id": 143,
+      "startMs": 757280,
+      "endMs": 765280,
+      "en": "And in that case, as long as it's a lawful investigation, we're not going to tell cities what laws they should or should not enforce.",
+      "zh": "在这种情况下，只要是合法调查，我们不会告诉各个城市应该或不应该执行哪些法律。"
+    },
+    {
+      "id": 144,
+      "startMs": 766020,
+      "endMs": 768180,
+      "en": "Ellie House reporting from Texas.",
+      "zh": "埃莉·豪斯从得克萨斯州报道。"
+    },
+    {
+      "id": 145,
+      "startMs": 771020,
+      "endMs": 772780,
+      "en": "Still to come in this podcast.",
+      "zh": "本期播客稍后还有内容。"
+    },
+    {
+      "id": 146,
+      "startMs": 775100,
+      "endMs": 783900,
+      "en": "These patients generally arrive with wounds in very poor condition, and then the challenge is how we treat those wounds in an animal that's wild.",
+      "zh": "这些患者通常到达时伤口状况很差，而难题是如何治疗这种野生动物的伤口。"
+    },
+    {
+      "id": 147,
+      "startMs": 784620,
+      "endMs": 789740,
+      "en": "How a collaboration in Chile led to wound-healing suits for penguins.",
+      "zh": "一项智利合作如何促成了企鹅伤口愈合服。"
+    },
+    {
+      "id": 148,
+      "startMs": 797140,
+      "endMs": 799140,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《Global News Podcast》。"
+    },
+    {
+      "id": 149,
+      "startMs": 799780,
+      "endMs": 806180,
+      "en": "One of the greatest sports stars of all time, Lionel Messi, has announced his retirement from international football.",
+      "zh": "有史以来最伟大的体育明星之一利昂内尔·梅西，宣布退出国际足坛。"
+    },
+    {
+      "id": 150,
+      "startMs": 806580,
+      "endMs": 812340,
+      "en": "The 39-year-old captained Argentina in this summer's World Cup, losing in the final to Spain.",
+      "zh": "这位39岁的球员在今年夏天的世界杯上担任阿根廷队长，最终在决赛中负于西班牙。"
+    },
+    {
+      "id": 151,
+      "startMs": 812500,
+      "endMs": 816420,
+      "en": "He is, though, expected to keep playing club football for Inter Miami.",
+      "zh": "不过，预计他会继续为迈阿密国际踢俱乐部足球。"
+    },
+    {
+      "id": 152,
+      "startMs": 816820,
+      "endMs": 820180,
+      "en": "Guillem Balagué is a sports journalist and Messi's biographer.",
+      "zh": "吉列姆·巴拉格是体育记者，也是梅西的传记作者。"
+    },
+    {
+      "id": 153,
+      "startMs": 820500,
+      "endMs": 823140,
+      "en": "He's glad the journey's not completely over.",
+      "zh": "他很高兴这段旅程还没有完全结束。"
+    },
+    {
+      "id": 154,
+      "startMs": 823780,
+      "endMs": 829060,
+      "en": "What we've seen in Messi, we've never seen before, that consistency right at the top for 16, 17 years,",
+      "zh": "我们在梅西身上看到的，是前所未有的：他连续16、17年都处在顶尖水平，"
+    },
+    {
+      "id": 155,
+      "startMs": 829380,
+      "endMs": 835060,
+      "en": "scoring almost a goal a final, being the best goalscorer or second-best goalscorer in the World Cup,",
+      "zh": "几乎每场决赛都能进球，在世界杯上进球数排名第一或第二，"
+    },
+    {
+      "id": 156,
+      "startMs": 835380,
+      "endMs": 838500,
+      "en": "and still the best goalscorer in the MLS for the last two years.",
+      "zh": "过去两年仍是美国职业足球大联盟的最佳射手。"
+    },
+    {
+      "id": 157,
+      "startMs": 838500,
+      "endMs": 841780,
+      "en": "So you're talking about greatness still playing.",
+      "zh": "所以，你说的是仍在踢球的伟大球员。"
+    },
+    {
+      "id": 158,
+      "startMs": 842660,
+      "endMs": 846580,
+      "en": "Messi captained Argentina to win the 2022 World Cup.",
+      "zh": "梅西带领阿根廷赢得了2022年世界杯。"
+    },
+    {
+      "id": 159,
+      "startMs": 846980,
+      "endMs": 852660,
+      "en": "Across his international career, he's scored 125 goals in 207 appearances.",
+      "zh": "在国际足坛生涯中，他出场207次，打进125球。"
+    },
+    {
+      "id": 160,
+      "startMs": 853140,
+      "endMs": 856020,
+      "en": "Announcing his retirement, Messi said, 'I've given it my all.'",
+      "zh": "在宣布退役时，梅西说：“我已经倾尽全力。”"
+    },
+    {
+      "id": 161,
+      "startMs": 856260,
+      "endMs": 859060,
+      "en": "I have nothing left to give, and besides,",
+      "zh": "我已经没有什么可贡献的了，而且，"
+    },
+    {
+      "id": 162,
+      "startMs": 859060,
+      "endMs": 863540,
+      "en": "there are some really great young players coming through behind me who deserve their chance.'",
+      "zh": "我身后还有一些非常出色的年轻球员，他们值得获得机会。”"
+    },
+    {
+      "id": 163,
+      "startMs": 864180,
+      "endMs": 870260,
+      "en": "Football writer Marcela Mora y Araujo says he's done so much for Argentinian football.",
+      "zh": "足球作家Marcela Mora y Araujo说，梅西为阿根廷足球付出了很多。"
+    },
+    {
+      "id": 164,
+      "startMs": 870820,
+      "endMs": 878580,
+      "en": "Lifting the cup in '22, obviously the pinnacle of his career, the moment of true joy and happiness",
+      "zh": "捧起2022年的世界杯，显然是他职业生涯的巅峰，是数百万人真正欢欣幸福的时刻。"
+    },
+    {
+      "id": 165,
+      "startMs": 878580,
+      "endMs": 886660,
+      "en": "for millions of Argentinians and football fans worldwide who really wanted him to win a World Cup, because it felt like the thing was missing.",
+      "zh": "这让数百万阿根廷人和全世界球迷感到满足，他们一直真心希望他赢得世界杯，因为那仿佛是唯一缺失的荣誉。"
+    },
+    {
+      "id": 166,
+      "startMs": 887060,
+      "endMs": 895300,
+      "en": "But reaching the final again in '26 and having reached the final in 2014 is an incredible accomplishment as well.",
+      "zh": "但在2026年再次闯入决赛，以及2014年也曾闯入决赛，同样是不可思议的成就。"
+    },
+    {
+      "id": 167,
+      "startMs": 895300,
+      "endMs": 901460,
+      "en": "It's not a loser thing to do. You know, you play the entire World Cup this time around with 39 years of age.",
+      "zh": "这并不是失败者才会有的表现。要知道，他这次以39岁高龄踢完整届世界杯。"
+    },
+    {
+      "id": 168,
+      "startMs": 901460,
+      "endMs": 907720,
+      "en": "That's an incredible thing to do. I asked our global affairs reporter Mimi Swaby why he is retiring now.",
+      "zh": "这是了不起的成就。我问全球事务记者米米·斯韦比，他为何现在退役。"
+    },
+    {
+      "id": 169,
+      "startMs": 908440,
+      "endMs": 915960,
+      "en": "He said in his very emotional Instagram post detailing him stepping back from international football, detailing his retirement.",
+      "zh": "他在一篇情绪十分激动的 Instagram 帖子中宣布退出国际足坛，详述了自己的退役决定。"
+    },
+    {
+      "id": 170,
+      "startMs": 916200,
+      "endMs": 921240,
+      "en": "At the end of it, he said he'd written this post two days after the World Cup",
+      "zh": "他说，自己是在世界杯结束两天后写下这篇帖子的，"
+    },
+    {
+      "id": 171,
+      "startMs": 921640,
+      "endMs": 927160,
+      "en": "but after losing his father, Jorge Messi, earlier this month, he said it hasn't felt a better time.",
+      "zh": "但本月早些时候父亲豪尔赫·梅西去世后，他说现在是再合适不过的时机。"
+    },
+    {
+      "id": 172,
+      "startMs": 927160,
+      "endMs": 931080,
+      "en": "This is the right decision for now. I think many people have pointed towards his age.",
+      "zh": "目前这是正确的决定。我认为很多人都把原因指向了他的年龄。"
+    },
+    {
+      "id": 173,
+      "startMs": 931080,
+      "endMs": 934520,
+      "en": "He is 39 in professional football terms, that is pretty old,",
+      "zh": "以职业足球的标准来看，他39岁了，这个年纪相当大，"
+    },
+    {
+      "id": 174,
+      "startMs": 934520,
+      "endMs": 938440,
+      "en": "and he has done less and less running in matches.",
+      "zh": "而且他在比赛中的跑动越来越少。"
+    },
+    {
+      "id": 175,
+      "startMs": 938440,
+      "endMs": 947720,
+      "en": "That was evident in the World Cup. It's funny. Interestingly, he covered one of the shortest distances throughout the World Cup, less than usual.",
+      "zh": "这一点在世界杯上相当明显。这很有意思。有趣的是，他在整届世界杯上的跑动距离之短，甚至低于平时。"
+    },
+    {
+      "id": 176,
+      "startMs": 947960,
+      "endMs": 952680,
+      "en": "Many people say that his understanding of the game, his ability to sit there and read the game",
+      "zh": "很多人说，他对比赛的理解、坐在那里阅读比赛形势的能力，"
+    },
+    {
+      "id": 177,
+      "startMs": 952680,
+      "endMs": 956680,
+      "en": "and only move at key moments is part of why he's such a good player.",
+      "zh": "以及只在关键时刻移动，正是他成为优秀球员的原因之一。"
+    },
+    {
+      "id": 178,
+      "startMs": 956680,
+      "endMs": 964060,
+      "en": "So perhaps he's going to become a manager, a role he'd thrive in because of his understanding of the game. Others have been quick to say.",
+      "zh": "所以有人说，也许他会转任教练；凭借对比赛的理解，他很可能胜任。也有人很快指出，"
+    },
+    {
+      "id": 179,
+      "startMs": 964060,
+      "endMs": 969500,
+      "en": "Actually, communication may not be his strongest skill. He's known for being quiet and reserved.",
+      "zh": "其实，沟通能力可能并不是他的强项之一。众所周知，他相当安静，也相当内敛。"
+    },
+    {
+      "id": 180,
+      "startMs": 969500,
+      "endMs": 980780,
+      "en": "His focus is football, so the managerial role people are toying with—perhaps more lightheartedly than seriously—isn't something he'd go into.",
+      "zh": "他的全部注意力都在足球上，所以人们已经在琢磨的教练职位——或许只是轻松一提，并非认真考虑——他可能不会担任。"
+    },
+    {
+      "id": 181,
+      "startMs": 980780,
+      "endMs": 985420,
+      "en": "But football has been his life for so many years, and he's had such a long career.",
+      "zh": "但多年来足球一直是他的生活，他的职业生涯也如此漫长。"
+    },
+    {
+      "id": 182,
+      "startMs": 985820,
+      "endMs": 993580,
+      "en": "And time is something that an athlete races against, and there is only one winner in the end—a point he made again in his post.",
+      "zh": "而运动员一直在与时间赛跑，最终只有一个赢家；他在帖子中再次提到了这一点。"
+    },
+    {
+      "id": 183,
+      "startMs": 993980,
+      "endMs": 997740,
+      "en": "But for now, he's still playing with Inter Miami. That's right, isn't it?",
+      "zh": "但目前他仍将继续为迈阿密国际效力。没错，对吧？"
+    },
+    {
+      "id": 184,
+      "startMs": 997980,
+      "endMs": 1006680,
+      "en": "He is. So Inter Miami fans will have the privilege of seeing the last few games of this international god-status player.",
+      "zh": "没错。所以迈阿密国际球迷将有幸看到这位国际足坛神级球员最后几场比赛。"
+    },
+    {
+      "id": 185,
+      "startMs": 1006920,
+      "endMs": 1010920,
+      "en": "For how many seasons more? He hasn't touched on that yet; it's still very early days.",
+      "zh": "他还会再踢几个赛季？他还没有谈到这一点，现在还为时尚早。"
+    },
+    {
+      "id": 186,
+      "startMs": 1010920,
+      "endMs": 1015320,
+      "en": "But many people are pointing to the idea that he stepped back from international football now,",
+      "zh": "但很多人认为，他如今退出了国际足坛，"
+    },
+    {
+      "id": 187,
+      "startMs": 1015640,
+      "endMs": 1020840,
+      "en": "and perhaps his step back fully from football will be in the near future.",
+      "zh": "或许不久后，他还会彻底离开足球。"
+    },
+    {
+      "id": 188,
+      "startMs": 1021160,
+      "endMs": 1025320,
+      "en": "He has, though, been such a focal point of the Argentinian team",
+      "zh": "不过，他一直是阿根廷队的核心人物，"
+    },
+    {
+      "id": 189,
+      "startMs": 1025320,
+      "endMs": 1030280,
+      "en": "so all their strategy, so to speak, has been kind of centered around him in many ways.",
+      "zh": "可以说，球队的战略在很多方面都围绕着他。"
+    },
+    {
+      "id": 190,
+      "startMs": 1030600,
+      "endMs": 1034600,
+      "en": "So the Argentinian national team, much like the Inter Miami team,",
+      "zh": "所以，阿根廷国家队和迈阿密国际一样，"
+    },
+    {
+      "id": 191,
+      "startMs": 1034600,
+      "endMs": 1042680,
+      "en": "when, if they do have to find a new player to fill his role, will have to also kind of reinvent their strategy when it comes to football.",
+      "zh": "如果必须找新球员接替他的角色，也将不得不重新思考足球战略。"
+    },
+    {
+      "id": 192,
+      "startMs": 1042680,
+      "endMs": 1050920,
+      "en": "So he's not just an iconic figure and key player, but a key part of Argentina's national team and also plays a key role in Inter Miami.",
+      "zh": "所以，他不仅是偶像式人物和关键球员，还是阿根廷国家队的重要核心，并在迈阿密国际扮演关键角色。"
+    },
+    {
+      "id": 193,
+      "startMs": 1050920,
+      "endMs": 1054840,
+      "en": "But like I said, he's still on the pitch with them for now anyway.",
+      "zh": "但正如我所说，目前他仍会和他们一起出现在球场上。"
+    },
+    {
+      "id": 194,
+      "startMs": 1055560,
+      "endMs": 1062940,
+      "en": "Mimi Swaby. It's been a month since tens of thousands of migrants entered the Spanish territory of Ceuta from Morocco.",
+      "zh": "米米·斯韦比报道：一个月前，数万名移民从摩洛哥进入西班牙的休达。"
+    },
+    {
+      "id": 195,
+      "startMs": 1063420,
+      "endMs": 1068620,
+      "en": "Most swam around a border fence, and at least 100 people died during the mass crossing.",
+      "zh": "大多数人游过边境围栏，至少100人在这次大规模越境中死亡。"
+    },
+    {
+      "id": 196,
+      "startMs": 1069180,
+      "endMs": 1075900,
+      "en": "The majority of migrants returned to Morocco within hours of their arrival, but several thousand still remain in Ceuta.",
+      "zh": "大多数移民抵达数小时内就返回摩洛哥，但仍有数千人留在休达。"
+    },
+    {
+      "id": 197,
+      "startMs": 1076620,
+      "endMs": 1081340,
+      "en": "The influx is thought to have started because of disinformation spread on social media,",
+      "zh": "据认为，这股涌入始于社交媒体传播的虚假信息，"
+    },
+    {
+      "id": 198,
+      "startMs": 1081660,
+      "endMs": 1088620,
+      "en": "falsely claiming that a Spanish Supreme Court had ruled that migrants arriving by sea could not be deported.",
+      "zh": "虚假信息声称，西班牙最高法院裁定从海路抵达的移民不得被驱逐。"
+    },
+    {
+      "id": 199,
+      "startMs": 1089100,
+      "endMs": 1095660,
+      "en": "Instagram posts suggested Spain's border with Morocco was opening up, and TikTok videos showed people where to swim.",
+      "zh": "Instagram 帖子暗示西班牙与摩洛哥的边境正在开放，TikTok 视频则告诉人们从哪里游过去。"
+    },
+    {
+      "id": 200,
+      "startMs": 1095900,
+      "endMs": 1101500,
+      "en": "It's unclear who was behind these accounts, as several of them were deleted soon after the crossings.",
+      "zh": "尚不清楚这些账号背后是谁，因为其中几个在越境后不久就被删除。"
+    },
+    {
+      "id": 201,
+      "startMs": 1101900,
+      "endMs": 1110940,
+      "en": "But the Spanish Prime Minister, Pedro Sánchez, has accused Israel and Russia of spreading disinformation related to the mass influx of migrants.",
+      "zh": "但西班牙首相佩德罗·桑切斯指责以色列和俄罗斯散布与移民大规模涌入有关的虚假信息。"
+    },
+    {
+      "id": 202,
+      "startMs": 1110940,
+      "endMs": 1117420,
+      "en": "What we know is that after the 30th of July and 31st,",
+      "zh": "我们知道，7月30日和31日之后，"
+    },
+    {
+      "id": 203,
+      "startMs": 1117580,
+      "endMs": 1120940,
+      "en": "there was an expansion of rumours and disinformation by",
+      "zh": "谣言和虚假信息通过以下渠道大量扩散："
+    },
+    {
+      "id": 204,
+      "startMs": 1121200,
+      "endMs": 1128240,
+      "en": "social networks associated with Russia and Israel, and a far-right international group that uses migration",
+      "zh": "与俄罗斯和以色列有关的社交网络，以及利用移民问题的国际极右翼团体，"
+    },
+    {
+      "id": 205,
+      "startMs": 1128560,
+      "endMs": 1132560,
+      "en": "not only to attack Spain but also Europe and divide it.",
+      "zh": "不仅攻击西班牙，也攻击欧洲并制造分裂。"
+    },
+    {
+      "id": 206,
+      "startMs": 1133280,
+      "endMs": 1138720,
+      "en": "Israel's foreign minister, Gideon Sa'ar, accused Mr Sánchez of lying shamelessly.",
+      "zh": "以色列外长吉迪恩·萨尔指责桑切斯无耻地撒谎。"
+    },
+    {
+      "id": 207,
+      "startMs": 1139280,
+      "endMs": 1142160,
+      "en": "So why is Pedro Sánchez blaming Israel?",
+      "zh": "那么，佩德罗·桑切斯为何指责以色列？"
+    },
+    {
+      "id": 208,
+      "startMs": 1142400,
+      "endMs": 1146080,
+      "en": "Our global affairs reporter Sebastian Usher has been speaking to Alex Ritson.",
+      "zh": "我们的全球事务记者塞巴斯蒂安·厄舍一直在采访亚历克斯·里特森。"
+    },
+    {
+      "id": 209,
+      "startMs": 1146720,
+      "endMs": 1151520,
+      "en": "As far as Israel is concerned, I think there are a lot of conspiracy theories which immediately emerged.",
+      "zh": "就以色列而言，我认为有大量阴谋论立即冒了出来。"
+    },
+    {
+      "id": 210,
+      "startMs": 1151840,
+      "endMs": 1155200,
+      "en": "One, that Morocco and Israel have got closer and closer",
+      "zh": "一种说法是，摩洛哥和以色列越来越亲近，"
+    },
+    {
+      "id": 211,
+      "startMs": 1155200,
+      "endMs": 1158880,
+      "en": "after Morocco signed up to the Abraham Accords a few years ago,",
+      "zh": "因为几年前摩洛哥签署了《亚伯拉罕协议》，"
+    },
+    {
+      "id": 212,
+      "startMs": 1159120,
+      "endMs": 1163920,
+      "en": "and that therefore Morocco is willing and able to do what Israel says.",
+      "zh": "所以摩洛哥愿意并且能够按以色列的要求行事。"
+    },
+    {
+      "id": 213,
+      "startMs": 1164400,
+      "endMs": 1168720,
+      "en": "That, though, presupposes that Morocco was involved in this,",
+      "zh": "不过，这一说法的前提是摩洛哥参与了此事，"
+    },
+    {
+      "id": 214,
+      "startMs": 1169040,
+      "endMs": 1173680,
+      "en": "and Pedro Sánchez made it clear that he doesn't believe that Morocco was involved in encouraging people to go.",
+      "zh": "而佩德罗·桑切斯明确表示，他不认为摩洛哥参与了鼓动人们前往休达。"
+    },
+    {
+      "id": 215,
+      "startMs": 1173760,
+      "endMs": 1175520,
+      "en": "So, maybe one can push that aside.",
+      "zh": "所以，也许可以把这种说法放到一边。"
+    },
+    {
+      "id": 216,
+      "startMs": 1175520,
+      "endMs": 1178560,
+      "en": "And the second thing is that Pedro Sánchez has been",
+      "zh": "第二点是，佩德罗·桑切斯一直处于"
+    },
+    {
+      "id": 217,
+      "startMs": 1178560,
+      "endMs": 1186480,
+      "en": "very much at the forefront of criticism and condemnation of Israel and its conduct in Gaza and the occupied West Bank.",
+      "zh": "批评和谴责以色列及其在加沙和被占领约旦河西岸行为的最前沿。"
+    },
+    {
+      "id": 218,
+      "startMs": 1186480,
+      "endMs": 1191600,
+      "en": "So therefore the Israeli government would have been motivated to try to make him look bad.",
+      "zh": "因此，以色列政府可能会有动机试图让他显得很糟糕。"
+    },
+    {
+      "id": 219,
+      "startMs": 1191920,
+      "endMs": 1194320,
+      "en": "So those were conspiracy theories that immediately emerged.",
+      "zh": "这些就是立即出现的阴谋论。"
+    },
+    {
+      "id": 220,
+      "startMs": 1194320,
+      "endMs": 1196320,
+      "en": "I don't think there's been much though to back them up.",
+      "zh": "不过，我认为没有多少证据支持它们。"
+    },
+    {
+      "id": 221,
+      "startMs": 1196560,
+      "endMs": 1201040,
+      "en": "This presumably though plays very well with a lot of people on the right.",
+      "zh": "不过，这种说法显然很受许多右翼人士欢迎。"
+    },
+    {
+      "id": 222,
+      "startMs": 1201360,
+      "endMs": 1203920,
+      "en": "Also people who are not friends of Israel?",
+      "zh": "也包括那些不支持以色列的人吗？"
+    },
+    {
+      "id": 223,
+      "startMs": 1204160,
+      "endMs": 1206720,
+      "en": "Well, it does, but it also played very well with the Israeli government.",
+      "zh": "确实如此，但它也很合以色列政府的意。"
+    },
+    {
+      "id": 224,
+      "startMs": 1206900,
+      "endMs": 1210820,
+      "en": "I mean, the thing that Pedro Sánchez is probably particularly picking up on here is",
+      "zh": "我的意思是，佩德罗·桑切斯在这里特别抓住的一点是，"
+    },
+    {
+      "id": 225,
+      "startMs": 1211300,
+      "endMs": 1217620,
+      "en": "that members of the Israeli government really made a point of saying that this showed up the double standards of Spain.",
+      "zh": "以色列政府成员特意强调，这暴露了西班牙的双重标准。"
+    },
+    {
+      "id": 226,
+      "startMs": 1218100,
+      "endMs": 1226260,
+      "en": "When Pedro Sánchez was condemning Israel, essentially, but it's a colonialist look at Ceuta, and there's a colony that still belongs to Spain.",
+      "zh": "佩德罗·桑切斯谴责以色列时，本质上是在说这是殖民主义者的做法；看看休达，它就是一个仍属于西班牙的殖民地。"
+    },
+    {
+      "id": 227,
+      "startMs": 1226580,
+      "endMs": 1233060,
+      "en": "Now, on the far right, of course, you had an awful lot of people online",
+      "zh": "当然，在极右翼阵营，网上有大量人士"
+    },
+    {
+      "id": 228,
+      "startMs": 1233540,
+      "endMs": 1242980,
+      "en": "who were using what happened in Ceuta as a way of reviving the fear of mass migration coming across from Africa.",
+      "zh": "利用休达发生的事情，重新煽起对来自非洲的大规模移民潮的恐惧。"
+    },
+    {
+      "id": 229,
+      "startMs": 1243140,
+      "endMs": 1249220,
+      "en": "What is the status of those people from North Africa who did make it into Ceuta on that day?",
+      "zh": "那些当天成功进入休达的北非人，如今情况如何？"
+    },
+    {
+      "id": 230,
+      "startMs": 1249460,
+      "endMs": 1252980,
+      "en": "Almost all of them have returned, and they did so within a few hours.",
+      "zh": "他们几乎都已经返回，而且是在几小时内返回的。"
+    },
+    {
+      "id": 231,
+      "startMs": 1252980,
+      "endMs": 1255780,
+      "en": "But there's a few thousand, and these are young people,",
+      "zh": "但还有几千人，他们都是年轻人，"
+    },
+    {
+      "id": 232,
+      "startMs": 1256340,
+      "endMs": 1261540,
+      "en": "so they are living in a place that is quite hostile to them.",
+      "zh": "所以他们生活在一个对他们相当不友好的地方。"
+    },
+    {
+      "id": 233,
+      "startMs": 1261700,
+      "endMs": 1263140,
+      "en": "They're living on the streets.",
+      "zh": "他们露宿街头。"
+    },
+    {
+      "id": 234,
+      "startMs": 1263460,
+      "endMs": 1265780,
+      "en": "How long that lasts, whether they'll be returned,",
+      "zh": "这种状况会持续多久，他们是否会被遣返，"
+    },
+    {
+      "id": 235,
+      "startMs": 1266100,
+      "endMs": 1274600,
+      "en": "or whether they'll hold out still believing that Spain will take them, and therefore they'll try and last there as long as they can.",
+      "zh": "或者他们是否会继续抱着西班牙会接纳他们的希望，坚持在那里尽可能久地生活下去，"
+    },
+    {
+      "id": 236,
+      "startMs": 1274920,
+      "endMs": 1280480,
+      "en": "That's a big question, but there certainly is great concern over their condition.",
+      "zh": "这是个大问题，但人们确实非常担心他们的处境。"
+    },
+    {
+      "id": 237,
+      "startMs": 1281360,
+      "endMs": 1287440,
+      "en": "That was Vanessa Friedman. And finally, Humboldt and Magellanic penguins are found on the coast of South America,",
+      "zh": "以上是瓦妮莎·弗里德曼。最后，洪堡企鹅和麦哲伦企鹅分布在南美洲沿岸，"
+    },
+    {
+      "id": 238,
+      "startMs": 1287920,
+      "endMs": 1291600,
+      "en": "and while they face many of the same threats as other penguin species,",
+      "zh": "虽然它们面临着许多其他企鹅物种同样的威胁，"
+    },
+    {
+      "id": 239,
+      "startMs": 1292000,
+      "endMs": 1296080,
+      "en": "they have specific challenges that make it hard for conservationists to help them.",
+      "zh": "但它们还有特殊挑战，令保护人员难以帮助它们。"
+    },
+    {
+      "id": 240,
+      "startMs": 1296560,
+      "endMs": 1304960,
+      "en": "Now, one team in Chile has designed a healing suit to fit them and tested it out on a group that had been injured by fishing nets.",
+      "zh": "如今，智利一个团队设计了适合它们的疗愈服，并在一群被渔网弄伤的企鹅身上进行了测试。"
+    },
+    {
+      "id": 241,
+      "startMs": 1305200,
+      "endMs": 1306720,
+      "en": "Stephanie Prentice reports.",
+      "zh": "斯蒂芬妮·普伦蒂斯报道。"
+    },
+    {
+      "id": 242,
+      "startMs": 1311340,
+      "endMs": 1316380,
+      "en": "Penguins are capable of making a lot of noise when it comes to feeding time in zoos,",
+      "zh": "在动物园里，到了喂食时间，企鹅会发出很大的声响，"
+    },
+    {
+      "id": 243,
+      "startMs": 1316780,
+      "endMs": 1320380,
+      "en": "but when it comes to getting help, they're a lot harder to work out,",
+      "zh": "但要帮助它们，就难以弄清该怎么做，"
+    },
+    {
+      "id": 244,
+      "startMs": 1321100,
+      "endMs": 1324460,
+      "en": "and handling them can cause them a lot of stress.",
+      "zh": "而抓住并处理它们会让它们承受很大压力。"
+    },
+    {
+      "id": 245,
+      "startMs": 1325100,
+      "endMs": 1330460,
+      "en": "Tomás Gino-Dampke is part of a team at Humboldt Conservation Center in Coquimbo.",
+      "zh": "托马斯·吉诺-丹普克是科金博洪堡保护中心团队成员。"
+    },
+    {
+      "id": 246,
+      "startMs": 1330460,
+      "endMs": 1340300,
+      "en": "These patients generally arrive with wounds in very poor condition, where most of the time we have to perform some type of surgical management.",
+      "zh": "这些企鹅通常带着状况很差的伤口到来，我们大多时候必须进行某种外科处理。"
+    },
+    {
+      "id": 247,
+      "startMs": 1340620,
+      "endMs": 1342780,
+      "en": "We have to do cleaning, we have to do sutures,",
+      "zh": "我们要清洁伤口，还要缝合，"
+    },
+    {
+      "id": 248,
+      "startMs": 1342780,
+      "endMs": 1349900,
+      "en": "and then the challenge is how we treat those wounds in an animal that's wild, that has the ability of great range of neck movement.",
+      "zh": "接着的挑战是，如何治疗野生动物身上的伤口；它的颈部活动范围很大。"
+    },
+    {
+      "id": 249,
+      "startMs": 1349900,
+      "endMs": 1354380,
+      "en": "It can remove stitches, it can disturb the wound, so we have that big problem.",
+      "zh": "它可能弄掉缝线、弄伤口，所以这是个大问题。"
+    },
+    {
+      "id": 250,
+      "startMs": 1354540,
+      "endMs": 1362300,
+      "en": "The researchers collaborated with a textile company to take a fabric that has copper and zinc in the core of its thread,",
+      "zh": "研究人员与一家纺织公司合作，采用一种线芯含铜和锌的织物，"
+    },
+    {
+      "id": 251,
+      "startMs": 1362700,
+      "endMs": 1365900,
+      "en": "and to shape it to fit a medium-sized penguin.",
+      "zh": "并将它制成适合中等体型企鹅的形状。"
+    },
+    {
+      "id": 252,
+      "startMs": 1366460,
+      "endMs": 1370860,
+      "en": "Estefania Guidotti helped make the suit. She's head of textile marketing.",
+      "zh": "埃斯特法尼娅·圭多蒂参与制作了这套服装。她负责纺织品市场营销。"
+    },
+    {
+      "id": 253,
+      "startMs": 1370880,
+      "endMs": 1377360,
+      "en": "The copper bodysuit contains CopperTec technology.",
+      "zh": "这套铜制连体服采用 CopperTec 技术。"
+    },
+    {
+      "id": 254,
+      "startMs": 1377360,
+      "endMs": 1386560,
+      "en": "It allows bacteria, fungi, and mites to be eliminated during recovery processes, and also generates an angiogenic action thanks to the action of zinc.",
+      "zh": "它能在恢复过程中清除细菌、真菌和螨虫，还能借助锌的作用促进血管生成。"
+    },
+    {
+      "id": 255,
+      "startMs": 1386960,
+      "endMs": 1390880,
+      "en": "This technology is different to others. It allows tissues to recover faster.",
+      "zh": "这项技术与其他技术不同，能让组织更快恢复。"
+    },
+    {
+      "id": 256,
+      "startMs": 1391440,
+      "endMs": 1396480,
+      "en": "Angiogenic action means the body can create new blood vessels from existing ones.",
+      "zh": "促进血管生成，是指身体能从现有血管生成新的血管。"
+    },
+    {
+      "id": 257,
+      "startMs": 1396800,
+      "endMs": 1404880,
+      "en": "So the suit is doing a few things at once: promoting healing, keeping wounds clean, and speeding up recovery.",
+      "zh": "所以，这套服装同时发挥多种作用：促进愈合、保持伤口清洁并加快恢复。"
+    },
+    {
+      "id": 258,
+      "startMs": 1407640,
+      "endMs": 1414040,
+      "en": "These penguins will now recover and be released back into the wild, and the suits can be used again.",
+      "zh": "这些企鹅将康复后被放归野外，而这些服装还可以再次使用。"
+    },
+    {
+      "id": 259,
+      "startMs": 1415400,
+      "endMs": 1419480,
+      "en": "It's being seen as a leap forward for conservationists in Chile,",
+      "zh": "这被视为智利自然保护工作的一大进步，"
+    },
+    {
+      "id": 260,
+      "startMs": 1419800,
+      "endMs": 1427640,
+      "en": "which is home to more than 80% of the world's remaining Humboldt penguins, a population that's more than halved since the 1990s.",
+      "zh": "智利拥有全球现存洪堡企鹅的80%以上；这一种群自20世纪90年代以来已减少逾半。"
+    },
+    {
+      "id": 261,
+      "startMs": 1428840,
+      "endMs": 1429880,
+      "en": "Stephanie Prentice.",
+      "zh": "斯蒂芬妮·普伦蒂斯。"
+    },
+    {
+      "id": 262,
+      "startMs": 1432700,
+      "endMs": 1438460,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部内容。如需联系我们，可以发送电子邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 263,
+      "startMs": 1438460,
+      "endMs": 1441980,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "也可以在 X 上通过 @BBCWorldService 找到我们。"
+    },
+    {
+      "id": 264,
+      "startMs": 1442380,
+      "endMs": 1447100,
+      "en": "Use the hashtag #GlobalNewsPod, and don't forget our sister podcast, The Global Story.",
+      "zh": "请使用话题标签 #GlobalNewsPod，也别忘了我们的姊妹播客《全球故事》。"
+    },
+    {
+      "id": 265,
+      "startMs": 1447580,
+      "endMs": 1452540,
+      "en": "This edition of the Global News Podcast was mixed by Derek Clark and the producer was Alfie Habershon.",
+      "zh": "本期《全球新闻播客》由德里克·克拉克混音，制片人是阿尔菲·哈伯森。"
+    },
+    {
+      "id": 266,
+      "startMs": 1452940,
+      "endMs": 1456940,
+      "en": "The editor is Karen Martin. I am Charlotte Gallagher. Until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁。我是夏洛特·加拉格尔。下次再会。"
+    }
+  ]
+}
