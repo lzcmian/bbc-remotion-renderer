@@ -1,0 +1,2097 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "2 September 2026"
+  },
+  "durationMs": 1685240,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2560,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4080,
+      "endMs": 9040,
+      "en": "I'm Nick Miles, and in the early hours of Wednesday, the 2nd of September, these are our main stories.",
+      "zh": "我是尼克·迈尔斯。现在是9月2日星期三凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 9520,
+      "endMs": 14400,
+      "en": "Iran says US forces have hit a wedding in the south, killing four people and injuring",
+      "zh": "伊朗称，美军袭击了南部的一场婚礼，造成4人死亡，并使"
+    },
+    {
+      "id": 4,
+      "startMs": 14400,
+      "endMs": 19760,
+      "en": "dozens more, as the aerial campaign ramps up again following a month-long lull.",
+      "zh": "数十人受伤；在持续一个月的平静期后，空袭行动再次升级。"
+    },
+    {
+      "id": 5,
+      "startMs": 20480,
+      "endMs": 29920,
+      "en": "Five thousand US servicemen will shortly step on land for the first time in nine months, as their aircraft carrier, the USS Abraham Lincoln, docks in Thailand.",
+      "zh": "载有5000名美军人员的航空母舰“亚伯拉罕·林肯”号即将停靠泰国；这些人员将首次在9个月后踏上陆地。"
+    },
+    {
+      "id": 6,
+      "startMs": 33540,
+      "endMs": 43540,
+      "en": "Also in this podcast, President Putin accuses Germany of planting evidence to blame Russia for an attempted drone attack last month at Leipzig Airport.",
+      "zh": "本期播客还将报道：普京总统指责德国伪造证据，把上月莱比锡机场未遂无人机袭击归咎于俄罗斯。"
+    },
+    {
+      "id": 7,
+      "startMs": 44840,
+      "endMs": 49100,
+      "en": "Hey guys, we recommend you get out ASAP. There's a big, great white shark out there.",
+      "zh": "各位，我们建议你们尽快离开。有一条巨大的大白鲨在那边。"
+    },
+    {
+      "id": 8,
+      "startMs": 49360,
+      "endMs": 50270,
+      "en": "Don't go out.",
+      "zh": "不要下水。"
+    },
+    {
+      "id": 9,
+      "startMs": 50400,
+      "endMs": 52520,
+      "en": "He's just about to jump out on top of it.",
+      "zh": "他正要跳到那条鲨鱼上面。"
+    },
+    {
+      "id": 10,
+      "startMs": 53080,
+      "endMs": 57080,
+      "en": "The multi-million-dollar scheme trying to keep Australia's swimmers safe.",
+      "zh": "这项耗资数百万美元、旨在保障澳大利亚游泳者安全的计划。"
+    },
+    {
+      "id": 11,
+      "startMs": 62020,
+      "endMs": 68660,
+      "en": "Last week, Washington said it would begin a campaign of sanctions against some of Iran's main trading partners.",
+      "zh": "上周，华盛顿表示将对伊朗的一些主要贸易伙伴发起制裁行动。"
+    },
+    {
+      "id": 12,
+      "startMs": 69140,
+      "endMs": 75780,
+      "en": "It was an attempt to bring Tehran to the negotiating table at a time when there was a lull in the military action between the two sides.",
+      "zh": "这是为了在双方军事行动暂歇之际，促使德黑兰回到谈判桌前。"
+    },
+    {
+      "id": 13,
+      "startMs": 76340,
+      "endMs": 84020,
+      "en": "Now, just a week later, with the new sanctions still largely at the planning stage, military strikes have restarted and are escalating.",
+      "zh": "然而仅仅一周后，新制裁大多仍处于规划阶段，军事打击已经重启并不断升级。"
+    },
+    {
+      "id": 14,
+      "startMs": 84580,
+      "endMs": 89380,
+      "en": "On Sunday, there was a US attack on Iranian rocket launchers in the Strait of Hormuz.",
+      "zh": "星期日，美军袭击了霍尔木兹海峡的伊朗火箭发射装置。"
+    },
+    {
+      "id": 15,
+      "startMs": 89380,
+      "endMs": 94180,
+      "en": "It triggered a round of Iranian retaliations at US air bases in Jordan.",
+      "zh": "这引发了伊朗对约旦美军空军基地的一轮报复行动。"
+    },
+    {
+      "id": 16,
+      "startMs": 94740,
+      "endMs": 100020,
+      "en": "Now the US has carried out a larger wave of strikes at targets along the Gulf coast.",
+      "zh": "如今，美军又对海湾沿岸的目标发动了更大规模的打击。"
+    },
+    {
+      "id": 17,
+      "startMs": 100580,
+      "endMs": 106260,
+      "en": "The Iranian Red Crescent says one hit a house where a wedding was taking place, killing four people.",
+      "zh": "伊朗红新月会称，其中一次袭击击中了一栋正在举行婚礼的房屋，造成4人死亡。"
+    },
+    {
+      "id": 18,
+      "startMs": 106500,
+      "endMs": 111140,
+      "en": "In response to that, the US military said it does not target civilians.",
+      "zh": "对此，美军表示不会以平民为目标。"
+    },
+    {
+      "id": 19,
+      "startMs": 111860,
+      "endMs": 117380,
+      "en": "White House spokesman Kush Desai gave this assessment of the overall military strategy.",
+      "zh": "白宫发言人库什·德赛对整体军事战略作出了如下评估。"
+    },
+    {
+      "id": 20,
+      "startMs": 117940,
+      "endMs": 121380,
+      "en": "President Trump has made it very clear that Iran should stand down and should not",
+      "zh": "特朗普总统已明确表示，伊朗应当停手，不应"
+    },
+    {
+      "id": 21,
+      "startMs": 121560,
+      "endMs": 126840,
+      "en": "provoke the United States or retaliate, because it will be met with retaliation of orders of magnitude stronger.",
+      "zh": "挑衅美国或进行报复，否则将遭到强大数个数量级的报复。"
+    },
+    {
+      "id": 22,
+      "startMs": 126920,
+      "endMs": 133480,
+      "en": "So, when you look at the overall situation here, Iran's navy has been wiped out, its air force has been wiped out, its air defenses have been wiped out.",
+      "zh": "所以，纵观整体局势，伊朗的海军、空军和防空系统都已被摧毁。"
+    },
+    {
+      "id": 23,
+      "startMs": 133880,
+      "endMs": 135960,
+      "en": "The Iranian economy is in disarray.",
+      "zh": "伊朗经济陷入混乱。"
+    },
+    {
+      "id": 24,
+      "startMs": 135960,
+      "endMs": 141000,
+      "en": "You've had Iranian political leaders themselves admit that they're dealing with inflation, with supply shortages,",
+      "zh": "伊朗政治领导人自己也承认，他们正面临通货膨胀和供应短缺，"
+    },
+    {
+      "id": 25,
+      "startMs": 141080,
+      "endMs": 146040,
+      "en": "even with petroleum, which is interesting for a country that has some of the largest oil reserves in the world.",
+      "zh": "甚至连石油供应也有问题；对于一个拥有全球最大石油储量之一的国家来说，这很耐人寻味。"
+    },
+    {
+      "id": 26,
+      "startMs": 146040,
+      "endMs": 150120,
+      "en": "And so, when you just look at the fact that its industrial base has also been wiped out,",
+      "zh": "因此，只要看看伊朗的工业基础也已被摧毁这一事实，"
+    },
+    {
+      "id": 27,
+      "startMs": 150200,
+      "endMs": 155800,
+      "en": "Iran's position is just so much weaker, and the United States maintains the upper hand here as it has from the beginning of this conflict.",
+      "zh": "就会发现伊朗的处境弱得多；美国自这场冲突开始以来一直占据上风。"
+    },
+    {
+      "id": 28,
+      "startMs": 155880,
+      "endMs": 160680,
+      "en": "For more on the latest US attacks, I spoke to our State Department correspondent, Tom Bateman.",
+      "zh": "关于美军最新的袭击，我采访了本台国务院事务记者汤姆·贝特曼。"
+    },
+    {
+      "id": 29,
+      "startMs": 161240,
+      "endMs": 166760,
+      "en": "There's been several different locations targeted along that southern coastline of Iran in the Strait of Hormuz.",
+      "zh": "霍尔木兹海峡沿伊朗南部海岸有多个不同地点遭到袭击。"
+    },
+    {
+      "id": 30,
+      "startMs": 167160,
+      "endMs": 171080,
+      "en": "One of what appears to be the most serious incidents that we've been talking about,",
+      "zh": "我们一直在谈论的事件中，有一起看起来尤其严重，"
+    },
+    {
+      "id": 31,
+      "startMs": 171560,
+      "endMs": 177480,
+      "en": "where you have local officials and the Red Crescent in Sirik saying that a wedding ceremony was struck by shrapnel.",
+      "zh": "当地官员和锡里克的红新月会称，一场婚礼仪式遭到弹片击中。"
+    },
+    {
+      "id": 32,
+      "startMs": 177800,
+      "endMs": 181480,
+      "en": "It appears to be the Americans having targeted a telecoms tower.",
+      "zh": "看起来是美国人把电信塔作为了目标。"
+    },
+    {
+      "id": 33,
+      "startMs": 181980,
+      "endMs": 186460,
+      "en": "Now, what those local officials are saying is that at least four people were killed, including a child,",
+      "zh": "当地官员现在说，至少有4人死亡，其中包括一名儿童，"
+    },
+    {
+      "id": 34,
+      "startMs": 186460,
+      "endMs": 189660,
+      "en": "and up to 50 people wounded from that.",
+      "zh": "另有多达50人因此受伤。"
+    },
+    {
+      "id": 35,
+      "startMs": 189820,
+      "endMs": 192140,
+      "en": "Now, we put those reports to the White House and the Pentagon.",
+      "zh": "我们已就这些报道向白宫和五角大楼求证。"
+    },
+    {
+      "id": 36,
+      "startMs": 192140,
+      "endMs": 201420,
+      "en": "We've had no official word from them, although one military official is saying that they are aware of the reports which originated from Iranian state media",
+      "zh": "他们没有作出官方回应，不过一名军方官员表示，他们知道这些源自伊朗官方媒体的报道，"
+    },
+    {
+      "id": 37,
+      "startMs": 201420,
+      "endMs": 203820,
+      "en": "and says the US military never targets civilians.",
+      "zh": "并称美军从不以平民为目标。"
+    },
+    {
+      "id": 38,
+      "startMs": 204380,
+      "endMs": 212700,
+      "en": "It may be part of the reason why we had very belligerent language from the Iranians, saying that they were going to respond forcefully to these American strikes.",
+      "zh": "这或许是伊朗人措辞非常强硬的部分原因；他们表示将对美国的这些袭击作出强力回应。"
+    },
+    {
+      "id": 39,
+      "startMs": 212940,
+      "endMs": 220780,
+      "en": "And that was then followed by what appears to be missile fire from Iran once again over towards Jordan, where there are US military bases.",
+      "zh": "随后，伊朗似乎再次向约旦方向发射导弹；那里有美军基地。"
+    },
+    {
+      "id": 40,
+      "startMs": 221180,
+      "endMs": 223260,
+      "en": "It seems that a pattern is emerging.",
+      "zh": "看来，一种模式正在形成。"
+    },
+    {
+      "id": 41,
+      "startMs": 223420,
+      "endMs": 225820,
+      "en": "The US strikes; it warns Iran not to.",
+      "zh": "美国发动袭击，并警告伊朗不要这样做。"
+    },
+    {
+      "id": 42,
+      "startMs": 225900,
+      "endMs": 229340,
+      "en": "Tehran ignores that, carries out strikes, et cetera, et cetera.",
+      "zh": "德黑兰对此置之不理，继续发动袭击，如此反复。"
+    },
+    {
+      "id": 43,
+      "startMs": 229900,
+      "endMs": 232700,
+      "en": "This is a strategy that perhaps is not working for Donald Trump.",
+      "zh": "这项战略或许对唐纳德·特朗普不起作用。"
+    },
+    {
+      "id": 44,
+      "startMs": 233020,
+      "endMs": 237820,
+      "en": "It's not working either in a military sense or in a political and strategic sense.",
+      "zh": "无论从军事角度，还是从政治和战略角度看，它都没有奏效。"
+    },
+    {
+      "id": 45,
+      "startMs": 237820,
+      "endMs": 243840,
+      "en": "Because remember, six months ago this all began with the stated intention by Mr",
+      "zh": "因为要记住，六个月前这一切开始时，特朗普先生的既定意图是——"
+    },
+    {
+      "id": 46,
+      "startMs": 243840,
+      "endMs": 249680,
+      "en": "Trump: that he would destroy and prevent Iran ever developing a nuclear program.",
+      "zh": "摧毁并阻止伊朗发展核计划。"
+    },
+    {
+      "id": 47,
+      "startMs": 250080,
+      "endMs": 255920,
+      "en": "But the problem that Mr Trump has is that the Iranians still have enough fighting power to create enough of a problem for—",
+      "zh": "但特朗普面对的问题是，伊朗人仍有足够的战斗力，足以制造足够大的麻烦——"
+    },
+    {
+      "id": 48,
+      "startMs": 255920,
+      "endMs": 261760,
+      "en": "the Americans, that they have not been able either to achieve that wider objective about the nuclear program",
+      "zh": "让美国人无法实现有关核计划的更广泛目标。"
+    },
+    {
+      "id": 49,
+      "startMs": 262240,
+      "endMs": 266800,
+      "en": "nor a problem they didn't have at the start, which is control of the Strait of Hormuz.",
+      "zh": "也未能解决他们一开始并不存在的问题——控制霍尔木兹海峡。"
+    },
+    {
+      "id": 50,
+      "startMs": 267200,
+      "endMs": 270160,
+      "en": "And the calculation on the Iranian side is they clearly believe",
+      "zh": "伊朗方面的判断是，他们显然相信"
+    },
+    {
+      "id": 51,
+      "startMs": 270240,
+      "endMs": 274960,
+      "en": "that the Americans won't have the staying power because of how stretched the American military has become,",
+      "zh": "美国人没有持久作战的能力，因为美军已经捉襟见肘。"
+    },
+    {
+      "id": 52,
+      "startMs": 275120,
+      "endMs": 283680,
+      "en": "and in their view, it is enough to keep, you know, using these insurgency tactics against ships, firing the odd drone or rocket, threatening shipping,",
+      "zh": "在他们看来，只要继续对船只采取这种袭扰战术，偶尔发射无人机或火箭弹、威胁航运，就足够了。"
+    },
+    {
+      "id": 53,
+      "startMs": 284000,
+      "endMs": 288880,
+      "en": "and that then, you know, by trying to prevent that, the Americans are bombing the Iranians,",
+      "zh": "而美国人试图阻止这些行动时，就会轰炸伊朗人；"
+    },
+    {
+      "id": 54,
+      "startMs": 288880,
+      "endMs": 293520,
+      "en": "and that then leads to these cycles of escalation, which are now seeing fatalities.",
+      "zh": "这又导致不断升级的循环，如今已经造成人员死亡。"
+    },
+    {
+      "id": 55,
+      "startMs": 293920,
+      "endMs": 298560,
+      "en": "So, you know, trying to contain this has proved almost impossible for Mr. Trump.",
+      "zh": "所以，特朗普先生几乎不可能遏制住这种局面。"
+    },
+    {
+      "id": 56,
+      "startMs": 298720,
+      "endMs": 304020,
+      "en": "You mentioned there, Tom, how stretched the US military is, particularly the navy. Tell us a little bit more about that.",
+      "zh": "你刚才提到美军，尤其是海军，已经捉襟见肘。汤姆，请再详细说说。"
+    },
+    {
+      "id": 57,
+      "startMs": 304500,
+      "endMs": 308820,
+      "en": "Well, I mean, it's become clear over the course of the last few months",
+      "zh": "嗯，过去几个月里已经很清楚，"
+    },
+    {
+      "id": 58,
+      "startMs": 308820,
+      "endMs": 315060,
+      "en": "that the pressure that the war itself put on American munitions was great",
+      "zh": "战争本身给美国军火储备带来的压力非常大，"
+    },
+    {
+      "id": 59,
+      "startMs": 315060,
+      "endMs": 320580,
+      "en": "and that it has drained a significant number of very valuable munitions,",
+      "zh": "消耗了大量极其宝贵的弹药，"
+    },
+    {
+      "id": 60,
+      "startMs": 321140,
+      "endMs": 325300,
+      "en": "things like Tomahawk missiles, things like Patriot air defense missiles,",
+      "zh": "包括战斧导弹和爱国者防空导弹，"
+    },
+    {
+      "id": 61,
+      "startMs": 325860,
+      "endMs": 330580,
+      "en": "to the extent that America has had to draw on stockpiles elsewhere in the world.",
+      "zh": "以至于美国不得不动用世界其他地区的库存。"
+    },
+    {
+      "id": 62,
+      "startMs": 330580,
+      "endMs": 338820,
+      "en": "Now, the problem with that is that you have other parts of the US military, according to some recent reporting over the weekend,",
+      "zh": "问题在于，据周末的一些最新报道，美军的其他部门"
+    },
+    {
+      "id": 63,
+      "startMs": 339060,
+      "endMs": 346340,
+      "en": "who have become concerned about the vulnerability that it creates in terms of America's ability to project its forces globally.",
+      "zh": "已经开始担心，这会削弱美国向全球投射兵力的能力，使其暴露在风险之中。"
+    },
+    {
+      "id": 64,
+      "startMs": 346980,
+      "endMs": 351700,
+      "en": "And of course, the more the Iranians sense that that is an issue for the US military, the more leverage",
+      "zh": "当然，伊朗人越是察觉这对美军构成问题，他们就越觉得自己拥有筹码，"
+    },
+    {
+      "id": 65,
+      "startMs": 351860,
+      "endMs": 358980,
+      "en": "they feel it gives them to keep this military element of the campaign going, because they also know about America's electoral timetable",
+      "zh": "可以继续推动这场行动的军事层面，因为他们也知道美国的选举日程，"
+    },
+    {
+      "id": 66,
+      "startMs": 358980,
+      "endMs": 364840,
+      "en": "that Mr. Trump and the Republican Party have midterm elections coming up, where, according to some of the polling,",
+      "zh": "特朗普先生和共和党即将迎来中期选举，而一些民调显示，"
+    },
+    {
+      "id": 67,
+      "startMs": 364840,
+      "endMs": 370920,
+      "en": "they could fare very, very badly because of the effect this is having on the price of petrol, the price of gasoline in America.",
+      "zh": "这场战争推高了美国汽油价格，可能让他们的表现非常糟糕。"
+    },
+    {
+      "id": 68,
+      "startMs": 371400,
+      "endMs": 380800,
+      "en": "That was Tom Bateman. Well, after nine months at sea, the aircraft carrier USS Abraham Lincoln has arrived at the port of Pattaya in Thailand.",
+      "zh": "以上是汤姆·贝特曼的报道。海上航行九个月后，‘亚伯拉罕·林肯’号航母抵达了泰国芭提雅港。"
+    },
+    {
+      "id": 69,
+      "startMs": 381360,
+      "endMs": 386320,
+      "en": "The extended time away from land was mostly spent in the Middle East due to the conflict with Iran.",
+      "zh": "由于与伊朗的冲突，他们长期远离陆地，大部分时间都在中东度过。"
+    },
+    {
+      "id": 70,
+      "startMs": 386800,
+      "endMs": 394320,
+      "en": "There have been reports of deteriorating mental health conditions amongst the 5,000 servicemen on board and shortages of supplies.",
+      "zh": "有报道称，船上5000名军人的心理健康状况恶化，物资也出现短缺。"
+    },
+    {
+      "id": 71,
+      "startMs": 394320,
+      "endMs": 397760,
+      "en": "Our Southeast Asia correspondent, Jonathan Head, is in Pattaya.",
+      "zh": "我们的东南亚记者乔纳森·赫德正在芭提雅。"
+    },
+    {
+      "id": 72,
+      "startMs": 398400,
+      "endMs": 402480,
+      "en": "Once they dock, they're laying on special minibuses for these sailors.",
+      "zh": "他们一靠港，就会为这些水兵安排专门的接驳小巴。"
+    },
+    {
+      "id": 73,
+      "startMs": 402640,
+      "endMs": 408080,
+      "en": "I mean, they have had a record-breaking 250 days without any port breaks at all.",
+      "zh": "他们已经创纪录地连续250天没有任何靠港休整。"
+    },
+    {
+      "id": 74,
+      "startMs": 408080,
+      "endMs": 414320,
+      "en": "Everyone knows that conditions on board carriers are stressful, particularly during combat.",
+      "zh": "众所周知，航母上的生活压力很大，尤其是在作战期间。"
+    },
+    {
+      "id": 75,
+      "startMs": 414400,
+      "endMs": 418000,
+      "en": "They've been involved in combat most of the time in the war against Iran.",
+      "zh": "在与伊朗的战争中，他们大部分时间都参与了战斗。"
+    },
+    {
+      "id": 76,
+      "startMs": 418320,
+      "endMs": 426080,
+      "en": "So we have had these reports coming out of significantly deteriorating conditions that include mental stress for the crews on board,",
+      "zh": "因此，有报道称船员的处境明显恶化，包括船上船员承受心理压力，"
+    },
+    {
+      "id": 77,
+      "startMs": 426720,
+      "endMs": 432080,
+      "en": "shortages of supplies, mail not arriving, broken toilets, generally.",
+      "zh": "物资短缺、邮件无法送达、厕所损坏，总体状况堪忧。"
+    },
+    {
+      "id": 78,
+      "startMs": 432980,
+      "endMs": 435940,
+      "en": "Conditions that the sailors have found even worse than normal.",
+      "zh": "水兵们发现，这些状况甚至比平时更糟。"
+    },
+    {
+      "id": 79,
+      "startMs": 436260,
+      "endMs": 439300,
+      "en": "Now that's been reported in U.S. military media and by relatives.",
+      "zh": "这些情况已经由美国军方媒体和军人亲属披露。"
+    },
+    {
+      "id": 80,
+      "startMs": 439300,
+      "endMs": 445700,
+      "en": "The U.S. Navy has insisted that the sailors are adequately supported, but they've acknowledged it's been very, very tough indeed.",
+      "zh": "美国海军坚称水兵得到了充分支持，但也承认这段经历确实非常、非常艰难。"
+    },
+    {
+      "id": 81,
+      "startMs": 446020,
+      "endMs": 450580,
+      "en": "So, once they dock, and I imagine it might take them a little bit longer to actually get into dock.",
+      "zh": "所以，他们靠港后，我想真正驶入港区可能还要花一点时间。"
+    },
+    {
+      "id": 82,
+      "startMs": 451440,
+      "endMs": 457680,
+      "en": "Those crew members are badly in need of a break, and of course they've come to Pattaya, a place that's famous for leisure.",
+      "zh": "这些船员非常需要休息。当然，他们来到的是以休闲娱乐闻名的芭提雅。"
+    },
+    {
+      "id": 83,
+      "startMs": 457760,
+      "endMs": 462080,
+      "en": "I mean, this was pretty much a sleepy fishing village until it was built up",
+      "zh": "这里原本几乎只是一个沉寂的渔村，后来逐渐发展起来，"
+    },
+    {
+      "id": 84,
+      "startMs": 462480,
+      "endMs": 466560,
+      "en": "by US troops coming during the Vietnam War and using it for rest and recreation.",
+      "zh": "越战期间，美军来到这里，把它用作休整和娱乐之地。"
+    },
+    {
+      "id": 85,
+      "startMs": 466720,
+      "endMs": 472800,
+      "en": "It's become this incredibly lively, rowdy, large city offering every imaginable kind of entertainment,",
+      "zh": "如今它已成为一座极其热闹喧嚣的大城市，提供各种想得到的娱乐，"
+    },
+    {
+      "id": 86,
+      "startMs": 472880,
+      "endMs": 474640,
+      "en": "and that's what's in store for these sailors now.",
+      "zh": "这正是这些水兵接下来将享受的生活。"
+    },
+    {
+      "id": 87,
+      "startMs": 474880,
+      "endMs": 483900,
+      "en": "Jonathan Head. After weeks of indecision, Germany has said Russia was responsible for last month's attempted drone attack at Leipzig Airport.",
+      "zh": "乔纳森·赫德报道。经过数周犹豫，德国表示俄罗斯应为上月莱比锡机场未遂无人机袭击负责。"
+    },
+    {
+      "id": 88,
+      "startMs": 484540,
+      "endMs": 491740,
+      "en": "The Russian Embassy in Berlin has said the allegation is absurd, and President Putin has accused Germany of planting evidence to blame Russia.",
+      "zh": "俄罗斯驻柏林大使馆称这一指控荒谬，普京总统则指责德国栽赃俄罗斯。"
+    },
+    {
+      "id": 89,
+      "startMs": 492460,
+      "endMs": 497660,
+      "en": "In the incident, which happened at the beginning of August, a drone carrying an explosive device",
+      "zh": "这起事件发生在8月初，一架携带爆炸装置的无人机"
+    },
+    {
+      "id": 90,
+      "startMs": 497740,
+      "endMs": 502860,
+      "en": "was discovered at the airport in eastern Germany, close to Ukrainian cargo planes.",
+      "zh": "在德国东部的机场被发现，地点靠近乌克兰货运飞机。"
+    },
+    {
+      "id": 91,
+      "startMs": 503180,
+      "endMs": 510060,
+      "en": "The German Foreign Minister, Johann Wadephul, said he would order the closure of the Russian consulate in Bonn.",
+      "zh": "德国外交部长约翰·瓦德富尔表示，他将下令关闭俄罗斯驻波恩领事馆。"
+    },
+    {
+      "id": 92,
+      "startMs": 510060,
+      "endMs": 520220,
+      "en": "The dangerous behaviour of the Russian Federation is part of a long series",
+      "zh": "俄罗斯联邦的危险行为是一长串"
+    },
+    {
+      "id": 93,
+      "startMs": 520220,
+      "endMs": 525340,
+      "en": "of attempts at destabilisation, threats, sabotage and aggression towards Europe.",
+      "zh": "旨在破坏欧洲稳定、进行威胁、破坏和侵略的行为之一。"
+    },
+    {
+      "id": 94,
+      "startMs": 525980,
+      "endMs": 531420,
+      "en": "With the attempted attack on Leipzig, the Russian leadership has in fact made a deliberate decision",
+      "zh": "俄罗斯领导层企图袭击莱比锡，实际上是蓄意作出决定，"
+    },
+    {
+      "id": 95,
+      "startMs": 531500,
+      "endMs": 537020,
+      "en": "to cause further significant damage to our already severely strained bilateral relations.",
+      "zh": "要进一步严重损害我们本已极度紧张的双边关系。"
+    },
+    {
+      "id": 96,
+      "startMs": 537200,
+      "endMs": 544640,
+      "en": "He also announced tighter entry controls for Russian nationals and vowed to increase pressure on Moscow's shadow fleet,",
+      "zh": "他还宣布收紧对俄罗斯公民的入境管控，并承诺加大对莫斯科影子船队的压力，"
+    },
+    {
+      "id": 97,
+      "startMs": 545120,
+      "endMs": 552400,
+      "en": "Those are old tankers used by Russia to circumvent Western sanctions following its full-scale invasion of Ukraine in 2022.",
+      "zh": "影子船队由老旧油轮组成，俄罗斯利用它们规避西方制裁；制裁是在俄于2022年全面入侵乌克兰后实施的。"
+    },
+    {
+      "id": 98,
+      "startMs": 553200,
+      "endMs": 556880,
+      "en": "President Putin has called the German sanctions against Russia a new era.",
+      "zh": "普京总统称德国对俄制裁开启了一个新时代。"
+    },
+    {
+      "id": 99,
+      "startMs": 557440,
+      "endMs": 561200,
+      "en": "Arkady Ostrovsky is the Russia and Eastern Europe editor of The Economist.",
+      "zh": "阿尔卡季·奥斯特洛夫斯基是《经济学人》的俄罗斯及东欧事务编辑。"
+    },
+    {
+      "id": 100,
+      "startMs": 561760,
+      "endMs": 566480,
+      "en": "I think everybody has no illusions about what's going on here, and",
+      "zh": "我认为，所有人都清楚这里发生的一切，而且"
+    },
+    {
+      "id": 101,
+      "startMs": 566800,
+      "endMs": 576640,
+      "en": "Russia is now targeting military factories and will probably also target logistic hubs that supply Ukraine with weapons.",
+      "zh": "俄罗斯现在正把军事工厂作为目标，也很可能打击那些向乌克兰供应武器的后勤枢纽。"
+    },
+    {
+      "id": 102,
+      "startMs": 577040,
+      "endMs": 583600,
+      "en": "It's not a surprise really, because the Russians see that Europe is a side in the conflict.",
+      "zh": "这其实并不令人意外，因为俄罗斯人认为欧洲是冲突中的一方。"
+    },
+    {
+      "id": 103,
+      "startMs": 583600,
+      "endMs": 586560,
+      "en": "It's not an observer. It's not just financing the war.",
+      "zh": "欧洲不是旁观者，也不只是资助这场战争。"
+    },
+    {
+      "id": 104,
+      "startMs": 586560,
+      "endMs": 588480,
+      "en": "It's actually supplying Ukraine with weapons.",
+      "zh": "它实际上是在向乌克兰供应武器。"
+    },
+    {
+      "id": 105,
+      "startMs": 588480,
+      "endMs": 591440,
+      "en": "Some of the drones and missiles are made in Europe,",
+      "zh": "其中一些无人机和导弹是在欧洲制造的，"
+    },
+    {
+      "id": 106,
+      "startMs": 591520,
+      "endMs": 594960,
+      "en": "and if those drones are hitting Russian cities,",
+      "zh": "如果这些无人机正在袭击俄罗斯城市，"
+    },
+    {
+      "id": 107,
+      "startMs": 594960,
+      "endMs": 601220,
+      "en": "and obviously Germany is not at war and Europe is not at war with Russia, it's a legitimate target.",
+      "zh": "而且显然，德国并未与俄罗斯交战，欧洲也没有与俄罗斯交战，所以这就是一个合法目标。"
+    },
+    {
+      "id": 108,
+      "startMs": 601380,
+      "endMs": 609220,
+      "en": "I don't think it's a huge surprise, and it kind of shows how meek the German reaction",
+      "zh": "我不认为这非常令人意外，这多少说明德国的反应会有多么温和，"
+    },
+    {
+      "id": 109,
+      "startMs": 609380,
+      "endMs": 611380,
+      "en": "is going to be, in kind of diplomatic terms.",
+      "zh": "至少在外交层面会是如此。"
+    },
+    {
+      "id": 110,
+      "startMs": 611460,
+      "endMs": 617460,
+      "en": "Nobody wants an open confrontation, but this exchange, this escalation was expected. Putin is doing it.",
+      "zh": "没人想要公开对抗，但这种交锋、这种升级是意料之中的。普京正在推动这一切。"
+    },
+    {
+      "id": 111,
+      "startMs": 617460,
+      "endMs": 623620,
+      "en": "I think what's happening is that Putin has been in this situation of kind of a stalemate for months,",
+      "zh": "我认为，正在发生的情况是，普京已经处于这种近乎僵局的局面数月，"
+    },
+    {
+      "id": 112,
+      "startMs": 623620,
+      "endMs": 630740,
+      "en": "and you could argue for years now on the battlefield, losing tens of thousands of men without actually making much progress.",
+      "zh": "在战场上也可以说是多年如此：损失了数万名士兵，却没有取得多少进展。"
+    },
+    {
+      "id": 113,
+      "startMs": 631300,
+      "endMs": 633300,
+      "en": "Now, that is not cost-free.",
+      "zh": "这当然不是没有代价的。"
+    },
+    {
+      "id": 114,
+      "startMs": 633460,
+      "endMs": 636820,
+      "en": "He feels probably it's draining economic and political resources.",
+      "zh": "他可能觉得，这正在消耗经济和政治资源。"
+    },
+    {
+      "id": 115,
+      "startMs": 636820,
+      "endMs": 642820,
+      "en": "He's losing that kind of silent assent, if you like; the elites are grumbling.",
+      "zh": "如果你愿意这样说，他正在失去那种默许，而精英阶层正在发牢骚。"
+    },
+    {
+      "id": 116,
+      "startMs": 643300,
+      "endMs": 647140,
+      "en": "And I think he feels that he needs to escalate",
+      "zh": "我认为，他觉得自己需要升级行动，"
+    },
+    {
+      "id": 117,
+      "startMs": 647140,
+      "endMs": 655140,
+      "en": "because the settlement, the peace deal, he can't accept because, you know, he thinks that would be weak on this term.",
+      "zh": "因为他无法接受这项解决方案、这份和平协议；你知道，他认为那样在这一点上会显得软弱。"
+    },
+    {
+      "id": 118,
+      "startMs": 655140,
+      "endMs": 660520,
+      "en": "So, I think what we had, the inertia scenario, is just not going to continue.",
+      "zh": "所以我认为，我们此前所处的那种惯性局面不会继续下去。"
+    },
+    {
+      "id": 119,
+      "startMs": 660600,
+      "endMs": 664600,
+      "en": "I think there is going to be a step-up both in attacks on Ukraine and in attacks in Europe.",
+      "zh": "我认为，对乌克兰和欧洲的袭击都会升级。"
+    },
+    {
+      "id": 120,
+      "startMs": 665160,
+      "endMs": 666360,
+      "en": "Arkady Ostrovsky there.",
+      "zh": "以上是阿卡迪·奥斯特洛夫斯基的评论。"
+    },
+    {
+      "id": 121,
+      "startMs": 667540,
+      "endMs": 674580,
+      "en": "In this podcast, we often hear of drones being used in modern warfare for surveillance and, to be frank, killing people.",
+      "zh": "在本播客中，我们经常听到无人机被用于现代战争中的监视，说得直白些，就是杀人。"
+    },
+    {
+      "id": 122,
+      "startMs": 675220,
+      "endMs": 679700,
+      "en": "But now, a new initiative in Australia is using them to try to save people.",
+      "zh": "但现在，澳大利亚的一项新计划正利用无人机努力拯救人们。"
+    },
+    {
+      "id": 123,
+      "startMs": 680100,
+      "endMs": 682340,
+      "en": "Stephanie Prentice is following this, and she told me more.",
+      "zh": "斯蒂芬妮·普伦蒂斯正在跟进此事，并向我介绍了更多情况。"
+    },
+    {
+      "id": 124,
+      "startMs": 683140,
+      "endMs": 691860,
+      "en": "So, Nick, the Australian state of New South Wales, it's been rolling out this $85 million strategy to try and stop shark attacks.",
+      "zh": "尼克，澳大利亚的新南威尔士州一直在推行这项耗资8500万澳元、旨在阻止鲨鱼袭击的战略。"
+    },
+    {
+      "id": 125,
+      "startMs": 692340,
+      "endMs": 697060,
+      "en": "In its latest plans, it's going to massively expand drone surveillance of beaches.",
+      "zh": "按照最新计划，该州将大幅扩大对海滩的无人机监控。"
+    },
+    {
+      "id": 126,
+      "startMs": 697460,
+      "endMs": 699780,
+      "en": "They're calling it a dawn-to-dusk operation.",
+      "zh": "他们称之为从黎明到黄昏的行动。"
+    },
+    {
+      "id": 127,
+      "startMs": 700340,
+      "endMs": 706020,
+      "en": "It's all been triggered by a series of serious shark attacks, including one at Coogee Beach,",
+      "zh": "这一切都是一系列严重鲨鱼袭击引发的，其中一起发生在库吉海滩，"
+    },
+    {
+      "id": 128,
+      "startMs": 706020,
+      "endMs": 715060,
+      "en": "where someone called Leah Stewart was a regular swimmer following safety precautions, and she fought off a four-metre-long great white shark.",
+      "zh": "一位名叫 Leah Stewart 的常规游泳者遵守安全注意事项，并击退了一条四米长的大白鲨。"
+    },
+    {
+      "id": 129,
+      "startMs": 715620,
+      "endMs": 723620,
+      "en": "Eventually, people were able to drag her to shore on a surfboard, and she told local media about how she survived, including Channel Nine.",
+      "zh": "最终，人们用冲浪板把她拖到岸边；她向当地媒体，包括九号频道，讲述了自己的生还经历。"
+    },
+    {
+      "id": 130,
+      "startMs": 724500,
+      "endMs": 728340,
+      "en": "It was huge, and its teeth, its black little beady eyes.",
+      "zh": "它非常巨大，还有它的牙齿、黑色的小眼珠。"
+    },
+    {
+      "id": 131,
+      "startMs": 728340,
+      "endMs": 734420,
+      "en": "We were looking face to face, and it got to the point where it was about 30 centimetres from my face.",
+      "zh": "我们面对面地看着对方，它一度离我的脸只有大约30厘米。"
+    },
+    {
+      "id": 132,
+      "startMs": 734660,
+      "endMs": 735860,
+      "en": "Like, I've got to try and punch it.",
+      "zh": "我当时想，我得试着打它。"
+    },
+    {
+      "id": 133,
+      "startMs": 736340,
+      "endMs": 741780,
+      "en": "And in that moment, I thought, well, which limb am I willing to lose?",
+      "zh": "那一刻我想，我愿意失去哪条胳膊？"
+    },
+    {
+      "id": 134,
+      "startMs": 742340,
+      "endMs": 743220,
+      "en": "I'm right-handed.",
+      "zh": "我是右撇子。"
+    },
+    {
+      "id": 135,
+      "startMs": 744020,
+      "endMs": 747220,
+      "en": "So I decided, let's do a left hook.",
+      "zh": "所以我决定，来一记左勾拳。"
+    },
+    {
+      "id": 136,
+      "startMs": 748100,
+      "endMs": 750500,
+      "en": "So after that left hook, she did lose that arm.",
+      "zh": "所以那记左勾拳之后，她确实失去了那条胳膊。"
+    },
+    {
+      "id": 137,
+      "startMs": 750500,
+      "endMs": 756420,
+      "en": "And those graphic accounts of what happened, they really fueled this sense of public outrage across New South Wales.",
+      "zh": "这些对事发经过的生动描述，确实激起了新南威尔士州各地的公众愤怒。"
+    },
+    {
+      "id": 138,
+      "startMs": 756900,
+      "endMs": 761540,
+      "en": "So, if you remember, there was a series of incidents back in January, and we saw four attacks",
+      "zh": "如果你还记得，一月份曾发生一连串事故，我们目睹了四起袭击，"
+    },
+    {
+      "id": 139,
+      "startMs": 761780,
+      "endMs": 765700,
+      "en": "in 48 hours, including the death of a 12-year-old boy.",
+      "zh": "其中包括一名12岁男孩的死亡。"
+    },
+    {
+      "id": 140,
+      "startMs": 766180,
+      "endMs": 769780,
+      "en": "It's all led to basically a more strategic approach now from authorities.",
+      "zh": "这一切基本上促使当局采取了更具战略性的做法。"
+    },
+    {
+      "id": 141,
+      "startMs": 769780,
+      "endMs": 773060,
+      "en": "So, we've got 97 beaches being tightly monitored.",
+      "zh": "所以，目前有97处海滩受到严密监控。"
+    },
+    {
+      "id": 142,
+      "startMs": 773380,
+      "endMs": 779540,
+      "en": "We've seen drone operators getting to beaches really early as the sun comes up, sweeping the waters before the morning swimmers arrive.",
+      "zh": "我们看到无人机操作员在太阳升起时很早就抵达海滩，在晨泳者到来前搜查水域。"
+    },
+    {
+      "id": 143,
+      "startMs": 780400,
+      "endMs": 784480,
+      "en": "It's kind of a more advanced version of a community system we've seen online.",
+      "zh": "这算是我们在网上看到的社区系统的升级版。"
+    },
+    {
+      "id": 144,
+      "startMs": 784480,
+      "endMs": 786960,
+      "en": "The most famous in Australia is called Drone Shark.",
+      "zh": "澳大利亚最知名的项目叫作 Drone Shark。"
+    },
+    {
+      "id": 145,
+      "startMs": 787280,
+      "endMs": 789360,
+      "en": "In fact, let's quickly listen to that team at work.",
+      "zh": "事实上，我们来快速听听那支团队的工作。"
+    },
+    {
+      "id": 146,
+      "startMs": 789920,
+      "endMs": 793940,
+      "en": "Massive. Whoa, very good.",
+      "zh": "好大。哇，太棒了。"
+    },
+    {
+      "id": 147,
+      "startMs": 793940,
+      "endMs": 797780,
+      "en": "Hey guys, we've got a big great white out there.",
+      "zh": "大家注意，那里有一条很大的大白鲨。"
+    },
+    {
+      "id": 148,
+      "startMs": 798400,
+      "endMs": 800000,
+      "en": "We recommend: get out ASAP.",
+      "zh": "我们建议：马上出来。"
+    },
+    {
+      "id": 149,
+      "startMs": 800320,
+      "endMs": 802640,
+      "en": "There's a big great white shark out there.",
+      "zh": "那里有一条很大的大白鲨。"
+    },
+    {
+      "id": 150,
+      "startMs": 802640,
+      "endMs": 806840,
+      "en": "What? Don't go out! No, don't go out!",
+      "zh": "什么？别下水！不，别下水！"
+    },
+    {
+      "id": 151,
+      "startMs": 807240,
+      "endMs": 809880,
+      "en": "He was just about to jump out on top of it. Oh my goodness!",
+      "zh": "他刚要跳到它身上。我的天哪！"
+    },
+    {
+      "id": 152,
+      "startMs": 809880,
+      "endMs": 816120,
+      "en": "So, yeah, literally, someone was about to jump on this huge great white shark that was passing by.",
+      "zh": "所以，确实，当时有人正要跳到一条路过的巨大大白鲨身上。"
+    },
+    {
+      "id": 153,
+      "startMs": 816520,
+      "endMs": 818440,
+      "en": "And they managed to speak to him using a megaphone?",
+      "zh": "他们设法用扩音器和他喊话吗？"
+    },
+    {
+      "id": 154,
+      "startMs": 819160,
+      "endMs": 821320,
+      "en": "Yes, so they're basically—it's a community service.",
+      "zh": "是的，基本上，这是一项社区服务。"
+    },
+    {
+      "id": 155,
+      "startMs": 821320,
+      "endMs": 824120,
+      "en": "They're just shouting at people to get out of the water, to get away from sharks.",
+      "zh": "他们只是在喊人们离开水里，远离鲨鱼。"
+    },
+    {
+      "id": 156,
+      "startMs": 824600,
+      "endMs": 829160,
+      "en": "The new government system and drones, it's more advanced. So these drones can hover over swimmers.",
+      "zh": "新的政府系统和无人机更加先进，因此无人机可以悬停在游泳者上方。"
+    },
+    {
+      "id": 157,
+      "startMs": 829400,
+      "endMs": 832200,
+      "en": "They can emit alarms, they can give verbal instructions,",
+      "zh": "它们可以发出警报，也可以发出口头指令，"
+    },
+    {
+      "id": 158,
+      "startMs": 832440,
+      "endMs": 835640,
+      "en": "and we'll also see them on beaches where drones weren't allowed before.",
+      "zh": "我们还会在过去不允许无人机的海滩看到它们。"
+    },
+    {
+      "id": 159,
+      "startMs": 836200,
+      "endMs": 839320,
+      "en": "And there's also going to be more listening stations around Sydney Harbour,",
+      "zh": "此外，悉尼港周边还将增设更多监听站，"
+    },
+    {
+      "id": 160,
+      "startMs": 839400,
+      "endMs": 844120,
+      "en": "so they alert people when tagged sharks like great whites, bull sharks, tiger sharks pass by.",
+      "zh": "当装有追踪标签的大白鲨、牛鲨或虎鲨经过时，它们就会提醒人们。"
+    },
+    {
+      "id": 161,
+      "startMs": 844200,
+      "endMs": 848040,
+      "en": "And the government are also trialling more techy schemes.",
+      "zh": "政府还在试验更多高科技方案。"
+    },
+    {
+      "id": 162,
+      "startMs": 848040,
+      "endMs": 851560,
+      "en": "So there's an AI component to identify sharks faster.",
+      "zh": "其中有人工智能组件，可以更快识别鲨鱼。"
+    },
+    {
+      "id": 163,
+      "startMs": 851960,
+      "endMs": 854520,
+      "en": "Eventually, a plan to have autonomous drones.",
+      "zh": "最终还计划使用自主无人机。"
+    },
+    {
+      "id": 164,
+      "startMs": 855000,
+      "endMs": 864600,
+      "en": "So basically, we're seeing a pretty fast implementation of a multi-layered approach to what seems to be a growing problem for Australia's swimmers and surfers.",
+      "zh": "总的来说，我们正在快速实施一种多层面的应对方案，来处理澳大利亚游泳者和冲浪者面临的这一日益严重的问题。"
+    },
+    {
+      "id": 165,
+      "startMs": 867460,
+      "endMs": 874900,
+      "en": "Still to come in this podcast: in Austria, a law banning headscarves in schools for girls under 14 has come into effect.",
+      "zh": "本期节目稍后将介绍：奥地利一项禁止14岁以下女孩在学校佩戴头巾的法律已经生效。"
+    },
+    {
+      "id": 166,
+      "startMs": 875220,
+      "endMs": 878660,
+      "en": "The headscarf is not just a harmless piece of fabric.",
+      "zh": "头巾不只是一块无害的布料。"
+    },
+    {
+      "id": 167,
+      "startMs": 878740,
+      "endMs": 884740,
+      "en": "A headscarf worn by a girl, an eight-year-old girl, for instance, is a symbol of oppression.",
+      "zh": "比如，一个八岁女孩佩戴的头巾，就是压迫的象征。"
+    },
+    {
+      "id": 168,
+      "startMs": 892200,
+      "endMs": 900600,
+      "en": "To Austria now, where a new law that bans girls under the age of 14 from wearing an Islamic headscarf in schools has just come into force.",
+      "zh": "现在转到奥地利：一项禁止14岁以下女孩在学校佩戴伊斯兰头巾的新法律刚刚生效。"
+    },
+    {
+      "id": 169,
+      "startMs": 900760,
+      "endMs": 908840,
+      "en": "In 2020, a similar headscarf ban for girls under 10 was struck down by the Constitutional Court because it specifically targeted Muslims.",
+      "zh": "2020年，一项针对10岁以下女孩的类似头巾禁令被宪法法院推翻，因为它明确针对穆斯林。"
+    },
+    {
+      "id": 170,
+      "startMs": 909480,
+      "endMs": 916520,
+      "en": "If a student violates the ban, they must have a series of discussions with school authorities and their legal guardians.",
+      "zh": "如果学生违反禁令，必须与校方和法定监护人进行一系列讨论。"
+    },
+    {
+      "id": 171,
+      "startMs": 916600,
+      "endMs": 921800,
+      "en": "If there are repeated violations, the child and youth welfare agency must be notified.",
+      "zh": "如果屡次违规，必须通知儿童和青少年福利机构。"
+    },
+    {
+      "id": 172,
+      "startMs": 922600,
+      "endMs": 926840,
+      "en": "And as a last resort, families or guardians could be fined.",
+      "zh": "最后，作为不得已的手段，家庭或监护人可能被罚款。"
+    },
+    {
+      "id": 173,
+      "startMs": 927400,
+      "endMs": 930120,
+      "en": "The Austrian government argues that the ban empowers young girls.",
+      "zh": "奥地利政府认为，这项禁令赋予年轻女孩力量。"
+    },
+    {
+      "id": 174,
+      "startMs": 931080,
+      "endMs": 941080,
+      "en": "Claudia Bauer is Minister for Europe, Integration and Family in the Austrian government. She spoke to Ragini Vaidyanathan about why this ban is being implemented.",
+      "zh": "克劳迪娅·鲍尔是奥地利政府欧洲、融合与家庭事务部长。她向拉吉尼·瓦伊迪亚纳坦解释了实施禁令的原因。"
+    },
+    {
+      "id": 175,
+      "startMs": 941720,
+      "endMs": 951240,
+      "en": "The headscarf is not just a harmless piece of fabric. A headscarf worn by a girl, an eight-year-old girl, for instance, is a symbol of oppression.",
+      "zh": "头巾不只是一块无害的布料。比如，一个八岁女孩佩戴的头巾，就是压迫的象征。"
+    },
+    {
+      "id": 176,
+      "startMs": 951800,
+      "endMs": 958380,
+      "en": "Women are veiled wherever extreme Islam is on the rise, and therefore Austria has passed the ban.",
+      "zh": "凡是极端伊斯兰势力抬头的地方，女性都会戴面纱，因此奥地利通过了这项禁令。"
+    },
+    {
+      "id": 177,
+      "startMs": 958620,
+      "endMs": 960700,
+      "en": "Minister, that is a huge generalisation.",
+      "zh": "部长，这是非常严重的以偏概全。"
+    },
+    {
+      "id": 178,
+      "startMs": 960700,
+      "endMs": 969260,
+      "en": "There are many young Muslim women around the world who choose to wear the headscarf and are not in any way associated with extremism.",
+      "zh": "世界各地有许多选择佩戴头巾的年轻穆斯林女性，她们与极端主义没有任何关系。"
+    },
+    {
+      "id": 179,
+      "startMs": 969420,
+      "endMs": 974060,
+      "en": "For us, it is important to protect children, especially young girls.",
+      "zh": "对我们来说，保护儿童、尤其是年轻女孩很重要。"
+    },
+    {
+      "id": 180,
+      "startMs": 974540,
+      "endMs": 983660,
+      "en": "Schools should be a safe space where values such as equality, individual freedom and also social integration are taught.",
+      "zh": "学校应是安全的空间，教授平等、个人自由和社会融合等价值观。"
+    },
+    {
+      "id": 181,
+      "startMs": 983820,
+      "endMs": 989100,
+      "en": "Where is your evidence that young girls are being made to wear headscarves?",
+      "zh": "有什么证据表明年轻女孩是被迫戴头巾的？"
+    },
+    {
+      "id": 182,
+      "startMs": 989260,
+      "endMs": 992380,
+      "en": "I think it is important that schools stay a safe place.",
+      "zh": "我认为，学校保持安全很重要。"
+    },
+    {
+      "id": 183,
+      "startMs": 992380,
+      "endMs": 998220,
+      "en": "How is wearing a headscarf not safe for a young girl who chooses to wear one?",
+      "zh": "一个选择戴头巾的年轻女孩佩戴头巾，怎么会不安全？"
+    },
+    {
+      "id": 184,
+      "startMs": 998380,
+      "endMs": 1002220,
+      "en": "We talk to a lot of psychologists, for instance, and they see",
+      "zh": "比如，我们和很多心理学家交流，他们看到，"
+    },
+    {
+      "id": 185,
+      "startMs": 1002540,
+      "endMs": 1008460,
+      "en": "that when girls begin wearing headscarves in a phase where the body is developing,",
+      "zh": "女孩开始戴头巾时，正处于身体发育阶段，"
+    },
+    {
+      "id": 186,
+      "startMs": 1008700,
+      "endMs": 1013120,
+      "en": "the personality is developing at the beginning of puberty, for instance,",
+      "zh": "比如正值青春期初期，性格也在发展，"
+    },
+    {
+      "id": 187,
+      "startMs": 1013440,
+      "endMs": 1017760,
+      "en": "then they begin to stand in the second row as well in the classroom.",
+      "zh": "她们就会开始在教室里站到第二排。"
+    },
+    {
+      "id": 188,
+      "startMs": 1018080,
+      "endMs": 1024720,
+      "en": "We want to live in a country where girls and men and boys are able to grow up freely.",
+      "zh": "我们希望生活在一个女孩、男人和男孩都能自由成长的国家。"
+    },
+    {
+      "id": 189,
+      "startMs": 1024960,
+      "endMs": 1030000,
+      "en": "We want to give them time to decide on their own how they handle the headscarf,",
+      "zh": "我们希望给她们时间，让她们自行决定如何处理头巾问题，"
+    },
+    {
+      "id": 190,
+      "startMs": 1030240,
+      "endMs": 1035520,
+      "en": "and they shall decide at the age of religious maturity, which is in Austria at the age of 14.",
+      "zh": "她们应在达到宗教成熟年龄时作出决定；在奥地利，这个年龄是14岁。"
+    },
+    {
+      "id": 191,
+      "startMs": 1035520,
+      "endMs": 1038000,
+      "en": "You talk about empowerment and choice.",
+      "zh": "你谈到了赋权和选择。"
+    },
+    {
+      "id": 192,
+      "startMs": 1038040,
+      "endMs": 1045960,
+      "en": "A survey that I've seen suggests that 93% of Muslim women actually oppose this legislation.",
+      "zh": "我看到的一项调查显示，93%的穆斯林女性实际上反对这项立法。"
+    },
+    {
+      "id": 193,
+      "startMs": 1046200,
+      "endMs": 1054280,
+      "en": "Well, I can understand that, but I think it is important that we stand for European values, for equality. Does",
+      "zh": "我能理解，但我认为，坚持欧洲价值观、坚持平等很重要。这是否——"
+    },
+    {
+      "id": 194,
+      "startMs": 1054440,
+      "endMs": 1058680,
+      "en": "Is that a code word for un-Islamic values, though?",
+      "zh": "这是不是“不符合伊斯兰价值观”的代称？"
+    },
+    {
+      "id": 195,
+      "startMs": 1058680,
+      "endMs": 1062040,
+      "en": "That's what some would argue, because this is targeting Muslims.",
+      "zh": "有人会这样认为，因为这项规定针对的是穆斯林。"
+    },
+    {
+      "id": 196,
+      "startMs": 1062120,
+      "endMs": 1063800,
+      "en": "That's what opponents of this say.",
+      "zh": "这正是反对者所说的。"
+    },
+    {
+      "id": 197,
+      "startMs": 1064040,
+      "endMs": 1065080,
+      "en": "No, definitely not.",
+      "zh": "不，绝对不是。"
+    },
+    {
+      "id": 198,
+      "startMs": 1065080,
+      "endMs": 1068040,
+      "en": "It is important that we stand for European values,",
+      "zh": "重要的是，我们要坚持欧洲价值观，"
+    },
+    {
+      "id": 199,
+      "startMs": 1068200,
+      "endMs": 1073480,
+      "en": "and one of them is the equal treatment of girls and boys, of men and women.",
+      "zh": "其中一项就是平等对待女孩和男孩、男性和女性。"
+    },
+    {
+      "id": 200,
+      "startMs": 1073480,
+      "endMs": 1079160,
+      "en": "And I think that starts at a very early age. And I think no eight-year-old girl belongs under a headscarf.",
+      "zh": "我认为这应当从很小的年纪开始。我认为八岁女孩不该戴头巾。"
+    },
+    {
+      "id": 201,
+      "startMs": 1080220,
+      "endMs": 1086380,
+      "en": "Critics of the ban argue that it fuels anti-Muslim sentiment and marginalises children.",
+      "zh": "禁令的批评者认为，这会助长反穆斯林情绪，使儿童被边缘化。"
+    },
+    {
+      "id": 202,
+      "startMs": 1086780,
+      "endMs": 1096140,
+      "en": "Carla Amina Baghajati supervises and organises Islamic education in public and private schools in Austria. She gave us her reaction to the ban.",
+      "zh": "卡拉·阿米娜·巴加哈蒂负责统筹奥地利公立和私立学校的伊斯兰教育。她谈了对这项禁令的看法。"
+    },
+    {
+      "id": 203,
+      "startMs": 1096860,
+      "endMs": 1106140,
+      "en": "As many Muslims in Austria, I feel very concerned, especially as we have seen so many headscarf debates before,",
+      "zh": "和许多奥地利穆斯林一样，我感到非常担忧，尤其是我们此前已经经历过这么多关于头巾的争论，"
+    },
+    {
+      "id": 204,
+      "startMs": 1106940,
+      "endMs": 1116140,
+      "en": "and try to be very patient and dialogue-oriented, to clear up as many misunderstandings as possible.",
+      "zh": "但我们仍努力保持耐心、以对话为导向，尽可能消除误解。"
+    },
+    {
+      "id": 205,
+      "startMs": 1116860,
+      "endMs": 1127340,
+      "en": "If somebody has a certain view on a religious practice, a negative view, to take this as a kind of explanation and excuse,",
+      "zh": "如果有人对某种宗教习俗持有某种看法，甚至是负面看法，就把这种看法当作解释和借口，"
+    },
+    {
+      "id": 206,
+      "startMs": 1127740,
+      "endMs": 1132300,
+      "en": "to say no to it, to forbid it officially, it's not possible.",
+      "zh": "借此否定并正式禁止它，这是行不通的。"
+    },
+    {
+      "id": 207,
+      "startMs": 1132860,
+      "endMs": 1140880,
+      "en": "Parents are very concerned and disappointed because they feel patronised rather than empowered.",
+      "zh": "家长们非常担忧和失望，因为他们感到自己受到居高临下的对待，而不是得到赋权。"
+    },
+    {
+      "id": 208,
+      "startMs": 1141360,
+      "endMs": 1146480,
+      "en": "If we want empowerment, it can't work by forcing something.",
+      "zh": "如果我们想要赋权，就不能靠强迫来实现。"
+    },
+    {
+      "id": 209,
+      "startMs": 1146560,
+      "endMs": 1156000,
+      "en": "We have reports that the children even show signs of feeling not well, anxieties.",
+      "zh": "据报道，孩子们甚至出现不适和焦虑的迹象。"
+    },
+    {
+      "id": 210,
+      "startMs": 1156160,
+      "endMs": 1166400,
+      "en": "We have reports of parents who say, 'I try to convince my daughter to put off the headscarf and to tell her,",
+      "zh": "据报道，有家长说：“我试着劝女儿摘下头巾，并告诉她："
+    },
+    {
+      "id": 211,
+      "startMs": 1166640,
+      "endMs": 1172880,
+      "en": "'Well, don't feel yourself embarrassed and no need for religious worries.'",
+      "zh": "‘别觉得难为情，也不必为宗教问题担心。’”"
+    },
+    {
+      "id": 212,
+      "startMs": 1172880,
+      "endMs": 1175760,
+      "en": "It's under force and don't worry,",
+      "zh": "这是被迫的，别担心，"
+    },
+    {
+      "id": 213,
+      "startMs": 1176240,
+      "endMs": 1183760,
+      "en": "but nevertheless the children don't want to, and in the end the law punishes the parents.",
+      "zh": "但孩子们还是不愿意，最终法律惩罚的是家长。"
+    },
+    {
+      "id": 214,
+      "startMs": 1184000,
+      "endMs": 1190160,
+      "en": "The children feel that their parents are under this pressure, and we have parents who say,",
+      "zh": "孩子们感受到父母承受着这种压力，有家长说："
+    },
+    {
+      "id": 215,
+      "startMs": 1190400,
+      "endMs": 1199440,
+      "en": "'We want to guarantee a kind of upbringing where there is no pressure and no, I am forced to pressure my child.'",
+      "zh": "“我们希望确保一种没有压力的养育方式，而不是被迫给孩子施加压力。”"
+    },
+    {
+      "id": 216,
+      "startMs": 1200100,
+      "endMs": 1203940,
+      "en": "That was Carla Amina Baghajati. In the United States,",
+      "zh": "以上是卡拉·阿米娜·巴加哈蒂。在美国，"
+    },
+    {
+      "id": 217,
+      "startMs": 1204020,
+      "endMs": 1212100,
+      "en": "jurors in the trial of Lindsay Clancy, the woman accused of murdering her three children in 2023, have been sent back to deliberate.",
+      "zh": "被控于2023年杀害三个孩子的林赛·克兰西一案中，陪审员已被要求返回继续商议。"
+    },
+    {
+      "id": 218,
+      "startMs": 1212420,
+      "endMs": 1218020,
+      "en": "That's after they told the judge they were deadlocked and unable to come up with a unanimous verdict.",
+      "zh": "此前他们告诉法官，陪审团陷入僵局，无法达成一致裁决。"
+    },
+    {
+      "id": 219,
+      "startMs": 1218600,
+      "endMs": 1225400,
+      "en": "Her lawyer argues she was suffering from postpartum psychosis at the time and therefore could not distinguish right from wrong.",
+      "zh": "她的律师称，她当时患有产后精神病，因此无法分辨是非。"
+    },
+    {
+      "id": 220,
+      "startMs": 1225720,
+      "endMs": 1233080,
+      "en": "The prosecution argues she made a calculated, intentional decision to kill them. The judge has ordered the jury to keep trying.",
+      "zh": "检方称她经过计算、有意作出杀害孩子的决定。法官已命令陪审团继续商议。"
+    },
+    {
+      "id": 221,
+      "startMs": 1233720,
+      "endMs": 1238520,
+      "en": "I brought you back out because I know that this was a long trial.",
+      "zh": "我让你们回来，是因为我知道这是一场漫长的审判。"
+    },
+    {
+      "id": 222,
+      "startMs": 1239240,
+      "endMs": 1247320,
+      "en": "All right? I know there were over 80 witnesses, there were over 300 exhibits, but because of that.",
+      "zh": "好了吗？我知道有超过80名证人、300多件证物，但正因如此，"
+    },
+    {
+      "id": 223,
+      "startMs": 1248240,
+      "endMs": 1253760,
+      "en": "I'm going to ask you to go back out, keeping in mind all of the instructions that I gave you,",
+      "zh": "我要请你们回去，记住我给你们的全部指示，"
+    },
+    {
+      "id": 224,
+      "startMs": 1254400,
+      "endMs": 1258640,
+      "en": "to go out and to continue your deliberations at this time.",
+      "zh": "现在继续商议。"
+    },
+    {
+      "id": 225,
+      "startMs": 1259280,
+      "endMs": 1268000,
+      "en": "Jeremy Siegel is a presenter at WGBH News, that's a public broadcaster in Boston. He's been following the case and gave us this update.",
+      "zh": "杰里米·西格尔是波士顿公共广播机构WGBH新闻的主持人。他一直在跟进此案，并向我们介绍了最新情况。"
+    },
+    {
+      "id": 226,
+      "startMs": 1268640,
+      "endMs": 1274240,
+      "en": "I think the fact that they haven't been able to come to a decision and told the judge that they're deadlocked",
+      "zh": "我认为，他们无法作出决定，并告诉法官陪审团陷入僵局这一事实，"
+    },
+    {
+      "id": 227,
+      "startMs": 1274560,
+      "endMs": 1279520,
+      "en": "is indicative of just how difficult this decision will be for jurors.",
+      "zh": "说明陪审员将要作出的决定有多么艰难。"
+    },
+    {
+      "id": 228,
+      "startMs": 1279520,
+      "endMs": 1283200,
+      "en": "They've been hearing testimony for weeks, and as you mentioned,",
+      "zh": "他们已经听取了数周证词，正如你所说，"
+    },
+    {
+      "id": 229,
+      "startMs": 1283280,
+      "endMs": 1292080,
+      "en": "the prosecution says that Lindsay Clancy, the mother who's on trial here, should have criminal responsibility for killing her three children.",
+      "zh": "检方认为，正在接受审判的母亲林赛·克兰西应对杀害三个孩子承担刑事责任。"
+    },
+    {
+      "id": 230,
+      "startMs": 1292080,
+      "endMs": 1302080,
+      "en": "The interesting feature of this trial here is that neither the prosecution nor the defense say that Clancy did not kill her children.",
+      "zh": "这场审判的有趣之处在于，检方和辩方都没有说克兰西没有杀害自己的孩子。"
+    },
+    {
+      "id": 231,
+      "startMs": 1302080,
+      "endMs": 1307600,
+      "en": "They're both in agreement here, but where they differ is on her state of mind at the time of the killing.",
+      "zh": "双方对此意见一致，但分歧在于她杀人时的精神状态。"
+    },
+    {
+      "id": 232,
+      "startMs": 1307840,
+      "endMs": 1312340,
+      "en": "So jurors have heard from prosecutors and their witnesses time and time again",
+      "zh": "因此，陪审员一再听取检方及其证人的说法，"
+    },
+    {
+      "id": 233,
+      "startMs": 1312340,
+      "endMs": 1320260,
+      "en": "that while Clancy may have suffered from mental illness and been severely depressed in the postpartum state after having her child,",
+      "zh": "他们称，克兰西产子后处于产后状态，可能患有精神疾病并严重抑郁，"
+    },
+    {
+      "id": 234,
+      "startMs": 1320740,
+      "endMs": 1326100,
+      "en": "that she was in a clear state of mind where she was able to calculate and commit these murders.",
+      "zh": "但当时头脑清醒，能够盘算并实施这些谋杀。"
+    },
+    {
+      "id": 235,
+      "startMs": 1326420,
+      "endMs": 1330580,
+      "en": "Where the defense differs is that they agree that she did kill the children,",
+      "zh": "辩方的不同之处在于，他们同样承认她杀害了孩子，"
+    },
+    {
+      "id": 236,
+      "startMs": 1330900,
+      "endMs": 1339540,
+      "en": "but that she was in the throes of postpartum psychosis, which is a rare and somewhat unknown in medical fields diagnosis",
+      "zh": "但认为她当时正处于产后精神病发作之中。这是一种罕见、医学界还不太了解的诊断，"
+    },
+    {
+      "id": 237,
+      "startMs": 1339700,
+      "endMs": 1345140,
+      "en": "that is very dangerous and carries a significant risk of both infanticide and suicide.",
+      "zh": "非常危险，并带来杀婴和自杀的重大风险。"
+    },
+    {
+      "id": 238,
+      "startMs": 1345140,
+      "endMs": 1348500,
+      "en": "It involves hallucinations, lots of confusion,",
+      "zh": "它会导致幻觉和严重的困惑，"
+    },
+    {
+      "id": 239,
+      "startMs": 1348500,
+      "endMs": 1356020,
+      "en": "and it's not a technical diagnosis in the medical books that psychiatrists use,",
+      "zh": "而且在精神科医生使用的医学书籍中，它并不是一种技术性诊断，"
+    },
+    {
+      "id": 240,
+      "startMs": 1356020,
+      "endMs": 1362020,
+      "en": "but it's well accepted within the psychiatric community that it is a diagnosis.",
+      "zh": "但精神科界普遍认可它是一种诊断。"
+    },
+    {
+      "id": 241,
+      "startMs": 1362020,
+      "endMs": 1367380,
+      "en": "So the prosecution says that she may have been mentally ill, but she wasn't in the throes of psychosis.",
+      "zh": "因此，检方称她可能患有精神疾病，但并未处于精神病发作状态。"
+    },
+    {
+      "id": 242,
+      "startMs": 1367700,
+      "endMs": 1376920,
+      "en": "The defense says that she should not be considered criminally liable because she was in the throes of psychosis and is using an insanity defense, as it's called here.",
+      "zh": "辩方称，她当时处于精神病发作状态，不应被认定承担刑事责任，并在这里采用所谓的精神失常抗辩。"
+    },
+    {
+      "id": 243,
+      "startMs": 1377320,
+      "endMs": 1383960,
+      "en": "Jeremy Siegel. The American company Tesla was an early world leader in the electric vehicle market,",
+      "zh": "杰里米·西格尔。美国公司特斯拉曾是电动汽车市场的早期全球领军者，"
+    },
+    {
+      "id": 244,
+      "startMs": 1384440,
+      "endMs": 1388120,
+      "en": "but the country that's currently making the running in that sector is China.",
+      "zh": "但目前在这一领域领先的国家是中国。"
+    },
+    {
+      "id": 245,
+      "startMs": 1388680,
+      "endMs": 1398040,
+      "en": "It's become the world's biggest exporter of EVs, despite being largely shut out of the US market. Nearly a fifth of all EVs sold in Britain are Chinese.",
+      "zh": "中国已成为全球最大的电动汽车出口国，尽管基本被排除在美国市场之外。英国售出的电动车中，近五分之一来自中国。"
+    },
+    {
+      "id": 246,
+      "startMs": 1398360,
+      "endMs": 1403480,
+      "en": "So, what's the secret of this success, and why are Chinese electric vehicles so cheap?",
+      "zh": "那么，中国电动车成功的秘诀是什么？为什么这么便宜？"
+    },
+    {
+      "id": 247,
+      "startMs": 1403880,
+      "endMs": 1406680,
+      "en": "The BBC's Felicity Hannah has been investigating.",
+      "zh": "BBC记者费莉西蒂·汉娜对此进行了调查。"
+    },
+    {
+      "id": 248,
+      "startMs": 1409260,
+      "endMs": 1415420,
+      "en": "Here we are. It plays a little tune every time you get in. It's very cheery. Very cheery. It's a little welcome to your car.",
+      "zh": "我们到了。每次上车，它都会播放一小段旋律。很欢快，非常欢快。这是汽车对你的小小欢迎。"
+    },
+    {
+      "id": 249,
+      "startMs": 1416460,
+      "endMs": 1422620,
+      "en": "This is Emma, and she's not the only driver who wanted an electric vehicle and opted for a Chinese model.",
+      "zh": "这位是艾玛，想买电动车并选择中国车型的司机不止她一人。"
+    },
+    {
+      "id": 250,
+      "startMs": 1423020,
+      "endMs": 1430220,
+      "en": "So, I chose an EV primarily for the sustainability, but also to be honest for the fact that they are just so cheap.",
+      "zh": "所以我选择电动车，主要是出于可持续性的考虑，但老实说，也是因为它们实在太便宜了。"
+    },
+    {
+      "id": 251,
+      "startMs": 1430540,
+      "endMs": 1435980,
+      "en": "18% of electric vehicles, or EVs, sold in the UK are manufactured in China.",
+      "zh": "英国售出的电动车中，18%是在中国制造的。"
+    },
+    {
+      "id": 252,
+      "startMs": 1436380,
+      "endMs": 1439180,
+      "en": "In Western Europe, it's also hitting a record high.",
+      "zh": "在西欧，这一比例也创下新高。"
+    },
+    {
+      "id": 253,
+      "startMs": 1439820,
+      "endMs": 1443740,
+      "en": "Chinese vehicles are competing on technology, size and availability.",
+      "zh": "中国汽车在技术、尺寸和供应方面展开竞争。"
+    },
+    {
+      "id": 254,
+      "startMs": 1444380,
+      "endMs": 1447980,
+      "en": "But perhaps more than anything else, they're competing on price.",
+      "zh": "但最重要的竞争因素，或许还是价格。"
+    },
+    {
+      "id": 255,
+      "startMs": 1448220,
+      "endMs": 1456540,
+      "en": "Andy Palmer has been described as the godfather of EVs for his work at Nissan on the Leaf, and he now runs the consultancy Palmer Automotive.",
+      "zh": "Andy Palmer被称作电动车“教父”，在日产参与Leaf，如今经营Palmer Automotive咨询公司。"
+    },
+    {
+      "id": 256,
+      "startMs": 1456940,
+      "endMs": 1462700,
+      "en": "They've got this advantage in battery technology and they've got this advantage in software technology.",
+      "zh": "他们在电池技术上占有优势，在软件技术上也占有优势。"
+    },
+    {
+      "id": 257,
+      "startMs": 1463340,
+      "endMs": 1470560,
+      "en": "The interesting thing is about 91% of the materials that go into batteries are refined in China.",
+      "zh": "有趣的是，用于电池的材料约有91%在中国完成精炼。"
+    },
+    {
+      "id": 258,
+      "startMs": 1471040,
+      "endMs": 1473840,
+      "en": "So they really have the supply chain sewn up.",
+      "zh": "所以，他们实际上已经牢牢掌控了供应链。"
+    },
+    {
+      "id": 259,
+      "startMs": 1474320,
+      "endMs": 1476880,
+      "en": "It means it's relatively easy to manufacture there as well.",
+      "zh": "这也意味着，在那里生产相对容易。"
+    },
+    {
+      "id": 260,
+      "startMs": 1477520,
+      "endMs": 1486080,
+      "en": "If you look at making an EV and you exclude the battery, and let's exclude the fuel tank on an internal combustion engine, just to be fair,",
+      "zh": "如果看电动车的制造成本，先不算电池；为公平起见，也不算内燃机汽车的油箱，"
+    },
+    {
+      "id": 261,
+      "startMs": 1486160,
+      "endMs": 1490560,
+      "en": "The cost of manufacturing an EV is lower, except for the battery.",
+      "zh": "电动车的制造成本更低——电池除外。"
+    },
+    {
+      "id": 262,
+      "startMs": 1490960,
+      "endMs": 1495920,
+      "en": "The battery technology is key. So they're cheap, they're innovative, but are they ethical?",
+      "zh": "电池技术是关键。所以它们便宜、创新，但合乎道德吗？"
+    },
+    {
+      "id": 263,
+      "startMs": 1496240,
+      "endMs": 1505840,
+      "en": "A frequent criticism of Chinese car makers is that quality, innovation and price competitiveness have only been possible because of Beijing's support.",
+      "zh": "对中国汽车制造商的一项常见批评是，其质量、创新和价格竞争力之所以能达到如今水平，全靠北京方面的支持。"
+    },
+    {
+      "id": 264,
+      "startMs": 1506240,
+      "endMs": 1516160,
+      "en": "Some argue that China is effectively dumping state-subsidised vehicles in the EU and UK to gain market share, and that these prices would not be sustainable.",
+      "zh": "有人认为，中国实际上是在欧盟和英国倾销国家补贴的汽车，以获取市场份额，而这样的价格无法持续。"
+    },
+    {
+      "id": 265,
+      "startMs": 1516160,
+      "endMs": 1521440,
+      "en": "While that is an accusation, however, that has been strongly disputed by the car makers themselves.",
+      "zh": "不过，汽车制造商本身强烈反驳了这一指控。"
+    },
+    {
+      "id": 266,
+      "startMs": 1521840,
+      "endMs": 1525680,
+      "en": "Dr Brian Gu is co-president of the Chinese EV maker XPeng.",
+      "zh": "Brian Gu博士是中国电动车制造商小鹏汽车的联席总裁。"
+    },
+    {
+      "id": 267,
+      "startMs": 1526160,
+      "endMs": 1533060,
+      "en": "I don't think the Chinese government is supporting every player. In fact, there are probably more competitors in China than outside of China.",
+      "zh": "我不认为中国政府在支持每一家企业。事实上，中国国内的竞争者可能比中国以外更多。"
+    },
+    {
+      "id": 268,
+      "startMs": 1533380,
+      "endMs": 1538100,
+      "en": "I would say the Chinese company's success is because they came out of the most competitive market.",
+      "zh": "我认为，中国企业的成功源于它们来自竞争最激烈的市场。"
+    },
+    {
+      "id": 269,
+      "startMs": 1538420,
+      "endMs": 1548420,
+      "en": "I would say the fittest win, using that analogy, and bring that technology, the efficiency, and the cost competitiveness to markets outside of China.",
+      "zh": "借用这个比喻，我会说这是适者胜出的市场；他们把技术、效率和成本竞争力带到了中国以外的市场。"
+    },
+    {
+      "id": 270,
+      "startMs": 1548740,
+      "endMs": 1555860,
+      "en": "So do you think that those accusations that Chinese EV makers are dumping vehicles are genuine concerns from those governments?",
+      "zh": "那么，你认为那些政府对中国电动车制造商倾销汽车的指控，确实是它们的担忧吗？"
+    },
+    {
+      "id": 271,
+      "startMs": 1556100,
+      "endMs": 1562100,
+      "en": "We don't agree with the assessment that China is producing excess capacity.",
+      "zh": "我们不同意“中国正在制造过剩产能”这一判断。"
+    },
+    {
+      "id": 272,
+      "startMs": 1562100,
+      "endMs": 1567540,
+      "en": "In fact, we don't have enough capacity in China to produce and satisfy our demands.",
+      "zh": "事实上，我们在中国的产能甚至不足以满足自身需求。"
+    },
+    {
+      "id": 273,
+      "startMs": 1567780,
+      "endMs": 1572340,
+      "en": "Chinese models are not just disrupting markets, they're also creating demand in new markets.",
+      "zh": "中国车型不仅正在冲击现有市场，也在新市场创造需求。"
+    },
+    {
+      "id": 274,
+      "startMs": 1572740,
+      "endMs": 1579460,
+      "en": "Here's Professor Alex Clowes of Euro EV, a European importer and distributor of Chinese electric vehicles.",
+      "zh": "下面请听Euro EV的Alex Clowes教授发言；该公司是中国电动车的欧洲进口商和经销商。"
+    },
+    {
+      "id": 275,
+      "startMs": 1579780,
+      "endMs": 1584980,
+      "en": "They have picked up all the markets that the Americans and the Europeans have left.",
+      "zh": "他们接手了美国人和欧洲人留下的所有市场。"
+    },
+    {
+      "id": 276,
+      "startMs": 1585460,
+      "endMs": 1587060,
+      "en": "I used to work for Ford.",
+      "zh": "我过去曾在福特工作。"
+    },
+    {
+      "id": 277,
+      "startMs": 1587140,
+      "endMs": 1597800,
+      "en": "Ford had a real big plant in Brazil. Now suddenly Ford wasn't that successful, profitability-wise, in Brazil anymore, so they decided to leave.",
+      "zh": "福特在巴西曾有一家很大的工厂。后来突然间，从盈利角度看，福特在巴西已不再那么成功，于是决定离开。"
+    },
+    {
+      "id": 278,
+      "startMs": 1598440,
+      "endMs": 1599160,
+      "en": "And what happened?",
+      "zh": "后来发生了什么？"
+    },
+    {
+      "id": 279,
+      "startMs": 1599560,
+      "endMs": 1605320,
+      "en": "BYD picked it up, and now BYD is the battery electric vehicle of Brazil.",
+      "zh": "比亚迪接手了，如今比亚迪成了巴西的纯电动车代表。"
+    },
+    {
+      "id": 280,
+      "startMs": 1605560,
+      "endMs": 1608760,
+      "en": "We are seeing governments respond to this.",
+      "zh": "我们看到各国政府正在对此作出回应。"
+    },
+    {
+      "id": 281,
+      "startMs": 1608760,
+      "endMs": 1614920,
+      "en": "So, for example, there are tariffs on Chinese EVs coming into Europe, which make them seem more expensive.",
+      "zh": "比如，欧洲对进口中国电动车征收关税，使它们看起来更昂贵。"
+    },
+    {
+      "id": 282,
+      "startMs": 1615080,
+      "endMs": 1616760,
+      "en": "Do you think that's fair to consumers?",
+      "zh": "你认为这对消费者公平吗？"
+    },
+    {
+      "id": 283,
+      "startMs": 1617080,
+      "endMs": 1621800,
+      "en": "The European car industry, I think, shouldn't vanish, but it needs to transform.",
+      "zh": "我认为，欧洲汽车产业不该消失，但必须转型。"
+    },
+    {
+      "id": 284,
+      "startMs": 1622040,
+      "endMs": 1628600,
+      "en": "It is unfair, but at times it might be necessary to help an industry over a time of change.",
+      "zh": "这并不公平，但有时或许有必要帮助一个产业度过转型期。"
+    },
+    {
+      "id": 285,
+      "startMs": 1629000,
+      "endMs": 1631800,
+      "en": "But what's really important is to make the change happen.",
+      "zh": "但真正重要的是推动转型发生。"
+    },
+    {
+      "id": 286,
+      "startMs": 1632200,
+      "endMs": 1637720,
+      "en": "European governments are understandably anxious about their homegrown car makers and their workforces.",
+      "zh": "欧洲政府担心本土汽车制造商及其员工，这种担忧可以理解。"
+    },
+    {
+      "id": 287,
+      "startMs": 1638120,
+      "endMs": 1643800,
+      "en": "It's a concern shared by the US, which has levelled tariffs of 100% on Chinese-made vehicles.",
+      "zh": "美国也有同样担忧，并已对中国制造的汽车征收100%的关税。"
+    },
+    {
+      "id": 288,
+      "startMs": 1644200,
+      "endMs": 1651020,
+      "en": "The question is whether drivers will share those concerns, or if they simply want to get behind the wheel of a much cheaper car.",
+      "zh": "问题在于，司机会不会有同样担忧，还是只想驾驶一辆便宜得多的汽车。"
+    },
+    {
+      "id": 289,
+      "startMs": 1651420,
+      "endMs": 1652220,
+      "en": "Felicity Hannah.",
+      "zh": "费莉西蒂·汉娜报道。"
+    },
+    {
+      "id": 290,
+      "startMs": 1654760,
+      "endMs": 1655960,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是目前的全部内容。"
+    },
+    {
+      "id": 291,
+      "startMs": 1656280,
+      "endMs": 1661400,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 292,
+      "startMs": 1661400,
+      "endMs": 1665640,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "你也可以在X上通过BBC World Service找到我们。"
+    },
+    {
+      "id": 293,
+      "startMs": 1665640,
+      "endMs": 1667960,
+      "en": "Use the hashtag GlobalNewsPod.",
+      "zh": "请使用话题标签GlobalNewsPod。"
+    },
+    {
+      "id": 294,
+      "startMs": 1668520,
+      "endMs": 1675160,
+      "en": "And don't forget our sister podcast, The Global Story, which goes in-depth and beyond the headlines on one big story.",
+      "zh": "别忘了我们的姊妹播客《全球故事》，它会围绕一个重大故事深入报道，带你超越新闻标题。"
+    },
+    {
+      "id": 295,
+      "startMs": 1675640,
+      "endMs": 1679080,
+      "en": "This edition of the Global News Podcast was mixed by Nikki Brough.",
+      "zh": "本期《全球新闻播客》由Nikki Brough负责混音。"
+    },
+    {
+      "id": 296,
+      "startMs": 1679560,
+      "endMs": 1681000,
+      "en": "The producer was Alice Adderley.",
+      "zh": "制片人是Alice Adderley。"
+    },
+    {
+      "id": 297,
+      "startMs": 1681320,
+      "endMs": 1682760,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是Karen Martin。"
+    },
+    {
+      "id": 298,
+      "startMs": 1683000,
+      "endMs": 1685240,
+      "en": "I'm Nick Miles, and until next time, goodbye.",
+      "zh": "我是Nick Miles，我们下次再见。"
+    }
+  ]
+}
