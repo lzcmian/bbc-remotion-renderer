@@ -1,0 +1,2020 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "1 September 2026"
+  },
+  "durationMs": 1573780,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3200,
+      "en": "You're listening to the Global News Podcast from the BBC World Service.",
+      "zh": "你正在收听 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5360,
+      "endMs": 10480,
+      "en": "Hello, I'm Oliver Conway. We're recording this at 1400 GMT on Tuesday, the 1st of September.",
+      "zh": "你好，我是奥利弗·康威。现在是9月1日星期二格林尼治标准时间14点，我们正在录制节目。"
+    },
+    {
+      "id": 3,
+      "startMs": 10960,
+      "endMs": 16240,
+      "en": "We report from the Pakistan-Afghan frontier on the biggest cross-border movement anywhere in the world.",
+      "zh": "我们从巴基斯坦和阿富汗边境报道这场全球规模最大的跨境人口流动。"
+    },
+    {
+      "id": 4,
+      "startMs": 16880,
+      "endMs": 23440,
+      "en": "Israel says it's captured a senior member of Hamas in Gaza, as Palestinian medics say two children and a woman were killed.",
+      "zh": "以色列称在加沙抓获一名哈马斯高级成员；巴勒斯坦医护人员称，两名儿童和一名女子丧生。"
+    },
+    {
+      "id": 5,
+      "startMs": 23920,
+      "endMs": 29360,
+      "en": "And Russia hits Ukraine for a sixth day in a row, killing at least 12 people, including railway workers.",
+      "zh": "俄罗斯连续第六天袭击乌克兰，造成至少12人死亡，其中包括铁路工人。"
+    },
+    {
+      "id": 6,
+      "startMs": 31660,
+      "endMs": 41260,
+      "en": "I promise and swear that I will govern the Kingdom of Norway in accordance with its Constitution and laws.",
+      "zh": "我承诺并宣誓，我将依照挪威宪法和法律治理挪威王国。"
+    },
+    {
+      "id": 7,
+      "startMs": 41580,
+      "endMs": 44460,
+      "en": "Norway's new king is sworn in in Parliament.",
+      "zh": "挪威新国王在议会宣誓就职。"
+    },
+    {
+      "id": 8,
+      "startMs": 49160,
+      "endMs": 55240,
+      "en": "For decades, people fleeing war, poverty, and repression in Afghanistan have crossed into Pakistan and Iran.",
+      "zh": "数十年来，逃离阿富汗战争、贫困和压迫的人们不断越境进入巴基斯坦和伊朗。"
+    },
+    {
+      "id": 9,
+      "startMs": 55800,
+      "endMs": 58920,
+      "en": "Over the past three years, more than six million of them have been sent back.",
+      "zh": "过去三年间，其中超过600万人被遣返回国。"
+    },
+    {
+      "id": 10,
+      "startMs": 59320,
+      "endMs": 65880,
+      "en": "But following appeals from the UN, Pakistan has now temporarily exempted 16,000 Afghans from deportation.",
+      "zh": "但在联合国呼吁下，巴基斯坦目前暂缓遣返1.6万名阿富汗人。"
+    },
+    {
+      "id": 11,
+      "startMs": 66280,
+      "endMs": 70200,
+      "en": "Rights groups say many are at risk if they return to Taliban-ruled Afghanistan.",
+      "zh": "人权组织称，许多人若返回塔利班统治下的阿富汗将面临风险。"
+    },
+    {
+      "id": 12,
+      "startMs": 70520,
+      "endMs": 75160,
+      "en": "Our Chief International Correspondent, Lyse Doucet, has just visited the Torkham border crossing.",
+      "zh": "我们的首席国际记者莱斯·杜塞特刚刚走访了托尔哈姆边境口岸。"
+    },
+    {
+      "id": 13,
+      "startMs": 77180,
+      "endMs": 79500,
+      "en": "They call this Zero Point.",
+      "zh": "这里被称为“零点”。"
+    },
+    {
+      "id": 14,
+      "startMs": 79660,
+      "endMs": 85820,
+      "en": "It's the main crossing between Pakistan, about 50 meters away, and Afghanistan.",
+      "zh": "这里是巴基斯坦与阿富汗之间的主要口岸，距离巴基斯坦约50米。"
+    },
+    {
+      "id": 15,
+      "startMs": 86300,
+      "endMs": 91340,
+      "en": "And there's a tide of Afghan families coming through these metal gates.",
+      "zh": "一批批阿富汗家庭正穿过这些金属大门。"
+    },
+    {
+      "id": 16,
+      "startMs": 91660,
+      "endMs": 100620,
+      "en": "A woman with a goat on a rope, a man with a huge suitcase on his head, and three little girls, each carrying a rooster or a chicken.",
+      "zh": "一名牵着山羊的女子、一名头顶巨大行李箱的男子，还有三个小女孩，每人抱着一只公鸡或母鸡。"
+    },
+    {
+      "id": 17,
+      "startMs": 101100,
+      "endMs": 107900,
+      "en": "Entire families, many generations who've grown up on the other side, spending decades there,",
+      "zh": "整个家庭，数代人都在边境另一侧长大，在那里生活了几十年，"
+    },
+    {
+      "id": 18,
+      "startMs": 108900,
+      "endMs": 114340,
+      "en": "and coming back to a country many have never even been to before.",
+      "zh": "如今却要回到一个许多人此前从未踏足的国家。"
+    },
+    {
+      "id": 19,
+      "startMs": 115360,
+      "endMs": 119600,
+      "en": "The journey was very difficult.",
+      "zh": "这趟旅程非常艰难。"
+    },
+    {
+      "id": 20,
+      "startMs": 119600,
+      "endMs": 126640,
+      "en": "My husband had been deported 20 days earlier, and I had to borrow money from several people to make the journey.",
+      "zh": "我丈夫20天前被遣返，我只好向几个人借钱，才完成了这趟旅程。"
+    },
+    {
+      "id": 21,
+      "startMs": 127400,
+      "endMs": 129000,
+      "en": "What do you say to the Pakistanis?",
+      "zh": "你想对巴基斯坦人说些什么？"
+    },
+    {
+      "id": 22,
+      "startMs": 130040,
+      "endMs": 139240,
+      "en": "We spent many good years there and lived well, but this year the Pakistanis caused us a great deal of hardship.",
+      "zh": "我们在那里度过了许多美好岁月，生活得不错，但今年巴基斯坦人让我们吃尽了苦头。"
+    },
+    {
+      "id": 23,
+      "startMs": 140100,
+      "endMs": 142020,
+      "en": "They would not allow my husband to work.",
+      "zh": "他们不允许我丈夫工作。"
+    },
+    {
+      "id": 24,
+      "startMs": 142820,
+      "endMs": 148420,
+      "en": "There was work available, but he was afraid to go because the police might arrest him.",
+      "zh": "当时有工作机会，但他不敢去，因为警察可能会逮捕他。"
+    },
+    {
+      "id": 25,
+      "startMs": 149100,
+      "endMs": 155500,
+      "en": "Every Afghan family we speak with speaks about being mistreated by the Pakistanis.",
+      "zh": "我们接触的每个阿富汗家庭都说，他们受到了巴基斯坦人的虐待。"
+    },
+    {
+      "id": 26,
+      "startMs": 155660,
+      "endMs": 158140,
+      "en": "We can't confirm that right here,",
+      "zh": "我们无法在这里证实这一点，"
+    },
+    {
+      "id": 27,
+      "startMs": 158140,
+      "endMs": 165100,
+      "en": "but Pakistan has been saying that it's given refuge to millions of Afghans for decades through all of its wars,",
+      "zh": "但巴基斯坦一直表示，数十年来它在历次战争期间收容了数百万阿富汗人，"
+    },
+    {
+      "id": 28,
+      "startMs": 165100,
+      "endMs": 168300,
+      "en": "and it's time for the Afghans to go home.",
+      "zh": "现在是阿富汗人回家的时候了。"
+    },
+    {
+      "id": 29,
+      "startMs": 171560,
+      "endMs": 175640,
+      "en": "We're looking into this makeshift office, Taliban flags everywhere.",
+      "zh": "我们走进这间临时办公室，四周都是塔利班旗帜。"
+    },
+    {
+      "id": 30,
+      "startMs": 175960,
+      "endMs": 181480,
+      "en": "From here, those who have documents can go on to the United Nations, and then they'll be given refuge,",
+      "zh": "有证件的人可以从这里前往联合国，之后他们会获准进入避难处，"
+    },
+    {
+      "id": 31,
+      "startMs": 181800,
+      "endMs": 187000,
+      "en": "the UN hopes, for just a few days in a tented village nearby.",
+      "zh": "联合国希望他们能在附近的帐篷村暂住几天。"
+    },
+    {
+      "id": 32,
+      "startMs": 189920,
+      "endMs": 192480,
+      "en": "As-salamu alaykum. As-salamu alaykum.",
+      "zh": "愿你平安。愿你平安。"
+    },
+    {
+      "id": 33,
+      "startMs": 192880,
+      "endMs": 194480,
+      "en": "What's your name? My name is Sabir.",
+      "zh": "你叫什么名字？我叫萨比尔。"
+    },
+    {
+      "id": 34,
+      "startMs": 194960,
+      "endMs": 198240,
+      "en": "How many in your family have been forced to come back to Afghanistan?",
+      "zh": "你们家有多少人被迫返回阿富汗？"
+    },
+    {
+      "id": 35,
+      "startMs": 198960,
+      "endMs": 199840,
+      "en": "[Speaks local language]",
+      "zh": "[说当地语言]"
+    },
+    {
+      "id": 36,
+      "startMs": 200320,
+      "endMs": 205280,
+      "en": "I have seven brothers, my sister-in-law, their children, my children, all of us.",
+      "zh": "我有七个兄弟、我的嫂子或弟媳、他们的孩子、我的孩子，全都被迫回来。"
+    },
+    {
+      "id": 37,
+      "startMs": 205760,
+      "endMs": 208720,
+      "en": "And what about your future? Can you start over again here?",
+      "zh": "那你的未来呢？你能在这里重新开始吗？"
+    },
+    {
+      "id": 38,
+      "startMs": 209280,
+      "endMs": 215520,
+      "en": "The problem here is that there are no business or job opportunities in Afghanistan these days.",
+      "zh": "这里的问题是，如今阿富汗没有商业或就业机会。"
+    },
+    {
+      "id": 39,
+      "startMs": 215920,
+      "endMs": 218640,
+      "en": "However, I will do whatever work I can find.",
+      "zh": "不过，我会做任何能找到的工作。"
+    },
+    {
+      "id": 40,
+      "startMs": 220060,
+      "endMs": 225420,
+      "en": "Over the past three years, more than six million Afghans have been forced to come home in circumstances like this,",
+      "zh": "过去三年间，超过600万名阿富汗人在类似情况下被迫回国，"
+    },
+    {
+      "id": 41,
+      "startMs": 225420,
+      "endMs": 230940,
+      "en": "either from Pakistan or from Iran on the other border.",
+      "zh": "他们分别来自巴基斯坦，或来自另一侧边境的伊朗。"
+    },
+    {
+      "id": 42,
+      "startMs": 231420,
+      "endMs": 236220,
+      "en": "But forcing people to go home is a violation of international principles.",
+      "zh": "但强迫人们回国违反国际原则。"
+    },
+    {
+      "id": 43,
+      "startMs": 236540,
+      "endMs": 243100,
+      "en": "Charlie Goodlake is the spokesperson in Kabul for the United Nations refugee agency, the UNHCR.",
+      "zh": "查理·古德莱克是联合国难民署驻喀布尔发言人。"
+    },
+    {
+      "id": 44,
+      "startMs": 243500,
+      "endMs": 247020,
+      "en": "We haven't seen returns on this level anywhere in the world in recent history.",
+      "zh": "近代历史上，世界任何地方都未曾出现过如此规模的回返。"
+    },
+    {
+      "id": 45,
+      "startMs": 247660,
+      "endMs": 254060,
+      "en": "This is almost a medium-sized country that is coming back to Afghanistan and having to reintegrate and reabsorb.",
+      "zh": "这几乎相当于一个中等规模国家的人口回到阿富汗，并需要重新融入、重新安置。"
+    },
+    {
+      "id": 46,
+      "startMs": 254460,
+      "endMs": 262300,
+      "en": "The Taliban authorities are facing crises of their own. Could they respond to the needs of these people on their own?",
+      "zh": "塔利班当局自身也面临危机。他们能独自回应这些人的需求吗？"
+    },
+    {
+      "id": 47,
+      "startMs": 262300,
+      "endMs": 266140,
+      "en": "I do not believe that they can do this, and I don't think there's many countries in the world",
+      "zh": "我不认为他们能做到，我也不认为世界上有多少国家"
+    },
+    {
+      "id": 48,
+      "startMs": 266540,
+      "endMs": 268915,
+      "en": "that could receive six million people on their own.",
+      "zh": "能够独自接收600万人。"
+    },
+    {
+      "id": 49,
+      "startMs": 269070,
+      "endMs": 274460,
+      "en": "But let me be also very clear. We're also here to raise challenges with them where we have disagreements,",
+      "zh": "但我也要明确说明：对于我们存在分歧的问题，我们也会向他们提出挑战，"
+    },
+    {
+      "id": 50,
+      "startMs": 274460,
+      "endMs": 279500,
+      "en": "and those are on very clear issues about girls going back to school, about our national staff,",
+      "zh": "这些问题非常明确，包括让女孩重返学校，以及让我们的本国员工"
+    },
+    {
+      "id": 51,
+      "startMs": 279600,
+      "endMs": 281600,
+      "en": "being able to come back to UN offices.",
+      "zh": "能够回到联合国办公室工作。"
+    },
+    {
+      "id": 52,
+      "startMs": 281600,
+      "endMs": 287440,
+      "en": "We're heading now to see someone who was deported twice.",
+      "zh": "我们现在要去见一位曾两次被遣返的人。"
+    },
+    {
+      "id": 53,
+      "startMs": 287760,
+      "endMs": 291120,
+      "en": "He's not just worried about being here; he's terrified.",
+      "zh": "他不仅担心待在这里，更是感到恐惧。"
+    },
+    {
+      "id": 54,
+      "startMs": 291760,
+      "endMs": 296000,
+      "en": "He used to police the streets for the government ousted by the Taliban.",
+      "zh": "他曾为被塔利班赶下台的政府在街头执法。"
+    },
+    {
+      "id": 55,
+      "startMs": 296640,
+      "endMs": 300560,
+      "en": "We can't reveal his location, his identity.",
+      "zh": "我们不能透露他的位置和身份。"
+    },
+    {
+      "id": 56,
+      "startMs": 300880,
+      "endMs": 302320,
+      "en": "Tell me what your life is like now.",
+      "zh": "告诉我，你现在的生活是什么样的。"
+    },
+    {
+      "id": 57,
+      "startMs": 302560,
+      "endMs": 312880,
+      "en": "I feel that my life is under threat, and I can't even go outside. I spend all my day at home.",
+      "zh": "我觉得自己的生命受到威胁，甚至无法出门。我整天都待在家里。"
+    },
+    {
+      "id": 58,
+      "startMs": 313120,
+      "endMs": 316560,
+      "en": "The Taliban authorities have offered an amnesty.",
+      "zh": "塔利班当局提出了赦免。"
+    },
+    {
+      "id": 59,
+      "startMs": 316720,
+      "endMs": 317680,
+      "en": "You don't believe them?",
+      "zh": "你不相信他们吗？"
+    },
+    {
+      "id": 60,
+      "startMs": 318160,
+      "endMs": 321680,
+      "en": "I do not believe in their amnesty at all.",
+      "zh": "我完全不相信他们的赦免。"
+    },
+    {
+      "id": 61,
+      "startMs": 321920,
+      "endMs": 326000,
+      "en": "I have no trust in it because many of my friends were killed.",
+      "zh": "我不信任这项赦免，因为我的许多朋友都被杀害了。"
+    },
+    {
+      "id": 62,
+      "startMs": 326000,
+      "endMs": 329120,
+      "en": "Did you try to find a way out?",
+      "zh": "你试过找出路吗？"
+    },
+    {
+      "id": 63,
+      "startMs": 329200,
+      "endMs": 330640,
+      "en": "I tried, but I do not know where I can go.",
+      "zh": "我试过，但我不知道自己能去哪里。"
+    },
+    {
+      "id": 64,
+      "startMs": 330640,
+      "endMs": 339120,
+      "en": "I am afraid to travel because something might happen to me.",
+      "zh": "我害怕出行，因为可能会发生什么事。"
+    },
+    {
+      "id": 65,
+      "startMs": 339120,
+      "endMs": 341920,
+      "en": "I live with these fears all the time.",
+      "zh": "我一直生活在这些恐惧之中。"
+    },
+    {
+      "id": 66,
+      "startMs": 343640,
+      "endMs": 348040,
+      "en": "The biggest forced return in the world shows no sign of stopping.",
+      "zh": "世界上规模最大的被迫遣返没有停止的迹象。"
+    },
+    {
+      "id": 67,
+      "startMs": 348440,
+      "endMs": 353880,
+      "en": "And a world preoccupied by so many other crises seems to take little notice.",
+      "zh": "而世界正被许多其他危机占据注意力，似乎很少关注此事。"
+    },
+    {
+      "id": 68,
+      "startMs": 354920,
+      "endMs": 361560,
+      "en": "Lyse Doucet. Well, among the many criticisms of the Taliban government are its severe restrictions on the lives of women and girls.",
+      "zh": "莱斯·杜塞特。塔利班政府受到的诸多批评之一，是其对妇女和女孩生活的严厉限制。"
+    },
+    {
+      "id": 69,
+      "startMs": 362120,
+      "endMs": 366840,
+      "en": "Only Russia has formally recognized the Taliban's return to power in Kabul.",
+      "zh": "只有俄罗斯正式承认塔利班在喀布尔重新掌权。"
+    },
+    {
+      "id": 70,
+      "startMs": 367240,
+      "endMs": 375240,
+      "en": "But the group's Foreign Minister, Amir Khan Muttaqi, has called on Western countries to develop closer diplomatic and economic ties with Afghanistan.",
+      "zh": "但该组织的外长阿米尔·汗·穆塔基呼吁西方国家与阿富汗发展更紧密的外交和经济关系。"
+    },
+    {
+      "id": 71,
+      "startMs": 375720,
+      "endMs": 381880,
+      "en": "He spoke to Lyse Doucet. After this, we can divide the world into two parts.",
+      "zh": "他接受了莱斯·杜塞特的采访。这样一来，我们可以把世界分成两部分。"
+    },
+    {
+      "id": 72,
+      "startMs": 382440,
+      "endMs": 388120,
+      "en": "One is Asia, and the other Europe. Or one is East, and the other is West.",
+      "zh": "一边是亚洲，另一边是欧洲；或者一边是东方，另一边是西方。"
+    },
+    {
+      "id": 73,
+      "startMs": 388120,
+      "endMs": 393240,
+      "en": "Our relations have developed a lot with regional and Eastern countries.",
+      "zh": "我们与地区国家和东方国家的关系有了很大发展。"
+    },
+    {
+      "id": 74,
+      "startMs": 393320,
+      "endMs": 399880,
+      "en": "In terms of economy, politics, relations and investment, we have good achievements.",
+      "zh": "在经济、政治、关系和投资方面，我们都取得了良好成果。"
+    },
+    {
+      "id": 75,
+      "startMs": 400120,
+      "endMs": 403480,
+      "en": "And with European countries as well, there are developments.",
+      "zh": "我们与欧洲国家的关系也有所发展。"
+    },
+    {
+      "id": 76,
+      "startMs": 403960,
+      "endMs": 409320,
+      "en": "In some countries, our representative offices have opened, and our diplomats have arrived.",
+      "zh": "在一些国家，我们开设了代表处，派出了外交官。"
+    },
+    {
+      "id": 77,
+      "startMs": 409320,
+      "endMs": 412520,
+      "en": "You're still isolated from the West.",
+      "zh": "你们仍然被西方孤立。"
+    },
+    {
+      "id": 78,
+      "startMs": 413400,
+      "endMs": 415320,
+      "en": "Is it a priority to try to fix that?",
+      "zh": "努力改变这种状况是优先事项吗？"
+    },
+    {
+      "id": 79,
+      "startMs": 416060,
+      "endMs": 420300,
+      "en": "We shouldn't call all Europe the West.",
+      "zh": "我们不应把整个欧洲都称为西方。"
+    },
+    {
+      "id": 80,
+      "startMs": 420300,
+      "endMs": 426940,
+      "en": "We have good relations with countries around the world, and there are developments with European countries.",
+      "zh": "我们与世界各国关系良好，与欧洲国家的关系也在发展。"
+    },
+    {
+      "id": 81,
+      "startMs": 427180,
+      "endMs": 437740,
+      "en": "One of the biggest issues blocking better relations with the West is how the Taliban government treats the rights of women and girls.",
+      "zh": "阻碍与西方改善关系的最大问题之一，是塔利班政府如何对待妇女和女孩的权利。"
+    },
+    {
+      "id": 82,
+      "startMs": 438140,
+      "endMs": 443020,
+      "en": "Doesn't it concentrate your mind on the urgency of improving that?",
+      "zh": "这难道不会让你意识到改善这一状况的紧迫性吗？"
+    },
+    {
+      "id": 83,
+      "startMs": 443420,
+      "endMs": 452300,
+      "en": "Contact with women shouldn't be viewed through the lens of Western culture and traditions. Here, Afghan values should be considered.",
+      "zh": "与女性接触不应透过西方文化和传统的视角来看；这里应当考虑阿富汗的价值观。"
+    },
+    {
+      "id": 84,
+      "startMs": 452620,
+      "endMs": 455500,
+      "en": "But there are other developments in Afghanistan to look at.",
+      "zh": "但阿富汗还有其他发展值得关注。"
+    },
+    {
+      "id": 85,
+      "startMs": 455740,
+      "endMs": 458460,
+      "en": "The cultivation of drugs in Afghanistan is zero.",
+      "zh": "阿富汗的毒品种植为零。"
+    },
+    {
+      "id": 86,
+      "startMs": 458860,
+      "endMs": 465740,
+      "en": "There is security in Afghanistan. Groups that could harm other countries are destroyed.",
+      "zh": "阿富汗有安全保障。可能危害其他国家的组织已被摧毁。"
+    },
+    {
+      "id": 87,
+      "startMs": 466060,
+      "endMs": 469340,
+      "en": "There is a lot we can collaborate on with the world.",
+      "zh": "我们有很多领域可以与世界合作。"
+    },
+    {
+      "id": 88,
+      "startMs": 469580,
+      "endMs": 480940,
+      "en": "You know that even Islamic officials from Saudi Arabia, Qatar, Indonesia and so many Islamic countries around the world gave you the same message.",
+      "zh": "你知道，来自沙特阿拉伯、卡塔尔、印度尼西亚以及世界各地许多伊斯兰国家的官员，都向你们传达了同样的信息。"
+    },
+    {
+      "id": 89,
+      "startMs": 480940,
+      "endMs": 488060,
+      "en": "It's not an issue of a Western idea to educate women and girls and let them work.",
+      "zh": "让妇女和女孩接受教育并参加工作，并不是什么西方观念的问题。"
+    },
+    {
+      "id": 90,
+      "startMs": 489260,
+      "endMs": 494940,
+      "en": "Yes, these issues have been discussed by various countries and international organizations.",
+      "zh": "是的，这些问题已由多个国家和国际组织讨论过。"
+    },
+    {
+      "id": 91,
+      "startMs": 495180,
+      "endMs": 501900,
+      "en": "And I expressed that we have a lot of female students in religious madrasas, and that they study until the end.",
+      "zh": "我还表示，我们的宗教学校里有许多女学生，她们可以一直学习到毕业。"
+    },
+    {
+      "id": 92,
+      "startMs": 502380,
+      "endMs": 510700,
+      "en": "In those madrasas, there are modern subjects too, and there are more than 3 million female students under class six in schools who study.",
+      "zh": "这些宗教学校也教授现代科目；学校里还有超过300万名六年级以下的女学生在学习。"
+    },
+    {
+      "id": 93,
+      "startMs": 511340,
+      "endMs": 517420,
+      "en": "The UN says 2.4 million Afghan girls are now being deprived of a secondary education.",
+      "zh": "联合国说，240万名阿富汗女孩如今无法接受中等教育。"
+    },
+    {
+      "id": 94,
+      "startMs": 518060,
+      "endMs": 523340,
+      "en": "If that continues, there won't be any Afghan women doctors, teachers and many more.",
+      "zh": "如果继续下去，阿富汗将不会有女性医生、教师以及其他许多职业人士。"
+    },
+    {
+      "id": 95,
+      "startMs": 524120,
+      "endMs": 526840,
+      "en": "Is that the kind of country you want to represent?",
+      "zh": "这是你想代表的国家吗？"
+    },
+    {
+      "id": 96,
+      "startMs": 528040,
+      "endMs": 532200,
+      "en": "This really is a problem, and it will be considered.",
+      "zh": "这确实是个问题，我们会予以考虑。"
+    },
+    {
+      "id": 97,
+      "startMs": 532920,
+      "endMs": 536840,
+      "en": "The Taliban Foreign Minister, Amir Khan Muttaqi, talking to Lyse Doucet.",
+      "zh": "塔利班外长阿米尔·汗·穆塔基接受莱斯·杜塞特采访。"
+    },
+    {
+      "id": 98,
+      "startMs": 537820,
+      "endMs": 545660,
+      "en": "Despite a ten-month ceasefire between Israel and Hamas, violence is still the reality in the devastated Palestinian territory of Gaza.",
+      "zh": "尽管以色列和哈马斯已停火十个月，暴力仍是饱受摧残的巴勒斯坦加沙地带的现实。"
+    },
+    {
+      "id": 99,
+      "startMs": 546140,
+      "endMs": 552140,
+      "en": "Today, Palestinian medics said two children and a woman were killed in Israeli airstrikes during a security operation.",
+      "zh": "今天，巴勒斯坦医护人员说，两名儿童和一名妇女在一次安全行动中死于以色列空袭。"
+    },
+    {
+      "id": 100,
+      "startMs": 552140,
+      "endMs": 556620,
+      "en": "While Israel's Defence Minister says a senior member of Hamas has been captured.",
+      "zh": "以色列国防部长则说，一名哈马斯高级成员已被抓获。"
+    },
+    {
+      "id": 101,
+      "startMs": 557180,
+      "endMs": 559340,
+      "en": "We got the latest from Yolande Knell in Jerusalem.",
+      "zh": "我们从耶路撒冷的约兰德·克内尔那里得到了最新消息。"
+    },
+    {
+      "id": 102,
+      "startMs": 559900,
+      "endMs": 570540,
+      "en": "Well, a medical source at Gaza City's Shifa Hospital has identified the woman killed in the last few hours as the wife of the head of Hamas, Colonel Muayin al-Arabeed.",
+      "zh": "加沙城希法医院的一名消息人士确认，过去几小时遇害的女子是哈马斯负责人、上校穆阿因·阿尔-阿拉比德的妻子。"
+    },
+    {
+      "id": 103,
+      "startMs": 570860,
+      "endMs": 584540,
+      "en": "So there is an assumption, although unconfirmed, that he could perhaps be the Hamas commander—the senior security official Israel says it has now arrested.",
+      "zh": "因此有人推测，尽管尚未证实，他或许就是这名哈马斯指挥官——以色列称已抓获的高级安全官员。"
+    },
+    {
+      "id": 104,
+      "startMs": 584860,
+      "endMs": 588140,
+      "en": "We don't really have too many details here. A lot is very murky.",
+      "zh": "我们目前没有太多细节，情况非常模糊。"
+    },
+    {
+      "id": 105,
+      "startMs": 588140,
+      "endMs": 597180,
+      "en": "We don't know if this is a raid involving Israeli special forces on the ground, or just an Israeli-backed militia.",
+      "zh": "我们不知道这是以色列特种部队在地面参与的突袭，还是仅有以色列支持的民兵参与。"
+    },
+    {
+      "id": 106,
+      "startMs": 597520,
+      "endMs": 599920,
+      "en": "Or whether it was both of them acting together.",
+      "zh": "或者两者是共同行动。"
+    },
+    {
+      "id": 107,
+      "startMs": 600080,
+      "endMs": 603440,
+      "en": "There are media reports that say all different versions.",
+      "zh": "媒体报道给出了各种不同说法。"
+    },
+    {
+      "id": 108,
+      "startMs": 603600,
+      "endMs": 612880,
+      "en": "Certainly, Israel Katz, who was visiting a moshav next to the Gaza Strip, had been meeting Israeli citizens and leaders of that community.",
+      "zh": "当时以色列·卡茨正在加沙地带旁的一个莫沙夫访问，会见当地以色列居民和社区领导人。"
+    },
+    {
+      "id": 109,
+      "startMs": 613120,
+      "endMs": 624400,
+      "en": "He said that Israeli forces were continuing to work all the time, at the same time as he was announcing that this arrest had taken place.",
+      "zh": "他说，以色列部队一直在持续行动；与此同时，他宣布逮捕行动已经发生。"
+    },
+    {
+      "id": 110,
+      "startMs": 624400,
+      "endMs": 628400,
+      "en": "But he gave no details of where it had been or who it was.",
+      "zh": "但他没有透露行动地点或被捕者身份。"
+    },
+    {
+      "id": 111,
+      "startMs": 628720,
+      "endMs": 641840,
+      "en": "Now, we've seen plenty of video footage. It hasn't been verified yet, but it shows a white van and cars completely mangled by Israeli airstrikes.",
+      "zh": "我们看到了大量视频画面。画面尚未得到核实，但显示一辆白色面包车和多辆汽车被以色列空袭炸得面目全非。"
+    },
+    {
+      "id": 112,
+      "startMs": 641920,
+      "endMs": 649600,
+      "en": "The motorcycles, which they claim were used in this raid, were close to the American hospital in the west of Gaza City.",
+      "zh": "据称用于这次突袭的摩托车，就在加沙城西部的美国医院附近。"
+    },
+    {
+      "id": 113,
+      "startMs": 649600,
+      "endMs": 653200,
+      "en": "It's a neighbourhood really packed with displaced people.",
+      "zh": "那是一个挤满流离失所者的街区。"
+    },
+    {
+      "id": 114,
+      "startMs": 653520,
+      "endMs": 660740,
+      "en": "And then, in some of the footage, you can see what people say was very unusually heavy bombardment.",
+      "zh": "此外，在部分画面中可以看到人们所说的异常猛烈的轰炸。"
+    },
+    {
+      "id": 115,
+      "startMs": 660820,
+      "endMs": 666180,
+      "en": "They say there were several Israeli warplanes overhead and Israeli drones being used.",
+      "zh": "他们说，头顶有数架以色列战机，还有以色列无人机在使用。"
+    },
+    {
+      "id": 116,
+      "startMs": 666500,
+      "endMs": 672900,
+      "en": "And there have been initial reports suggesting that this was a raid that went wrong.",
+      "zh": "最初的报道显示，这次突袭可能出了差错。"
+    },
+    {
+      "id": 117,
+      "startMs": 672980,
+      "endMs": 680020,
+      "en": "The cover of those special forces on the ground was blown, and then Israel went in there with its air support.",
+      "zh": "地面特种部队的行动暴露后，以色列便出动空中支援介入。"
+    },
+    {
+      "id": 118,
+      "startMs": 680500,
+      "endMs": 686420,
+      "en": "And briefly, how common are Israeli raids in areas where lots of Palestinians are gathered?",
+      "zh": "简单问一下，在聚集着大量巴勒斯坦人的地区，以色列突袭有多常见？"
+    },
+    {
+      "id": 119,
+      "startMs": 687060,
+      "endMs": 691060,
+      "en": "We haven't heard of a raid exactly like this, certainly for some time.",
+      "zh": "我们有一段时间确实没听说过完全类似的突袭。"
+    },
+    {
+      "id": 120,
+      "startMs": 691540,
+      "endMs": 697620,
+      "en": "What is unfortunately common is to have, on a near-daily basis, strikes continuing to take place.",
+      "zh": "不幸的是，常见的是袭击几乎每天持续发生。"
+    },
+    {
+      "id": 121,
+      "startMs": 697940,
+      "endMs": 702740,
+      "en": "There was also another child who was killed by Israeli fire in the centre of the Gaza Strip earlier.",
+      "zh": "据报道，稍早前以军炮火还在加沙地带中部杀死了另一名儿童。"
+    },
+    {
+      "id": 122,
+      "startMs": 702740,
+      "endMs": 705620,
+      "en": "We're told by Palestinian medical sources.",
+      "zh": "据巴勒斯坦医疗部门消息。"
+    },
+    {
+      "id": 123,
+      "startMs": 705940,
+      "endMs": 709300,
+      "en": "At least five people were killed in the past day, on top of all of this.",
+      "zh": "过去一天至少有五人死亡，除此之外还有这些伤亡。"
+    },
+    {
+      "id": 124,
+      "startMs": 709460,
+      "endMs": 713220,
+      "en": "So that is why people in Gaza will say to you,",
+      "zh": "所以，加沙民众会告诉你，"
+    },
+    {
+      "id": 125,
+      "startMs": 713380,
+      "endMs": 716980,
+      "en": "that despite the ceasefire that is supposed to have been in place",
+      "zh": "尽管停火本应已经生效，"
+    },
+    {
+      "id": 126,
+      "startMs": 717220,
+      "endMs": 722120,
+      "en": "since last October, they don't feel that there is a ceasefire on the ground.",
+      "zh": "自去年10月以来，他们并不觉得地面上存在停火。"
+    },
+    {
+      "id": 127,
+      "startMs": 722200,
+      "endMs": 730200,
+      "en": "Our Jerusalem correspondent, Yolande Knell. Now Norway's royal family traces its roots back to King Harald Fairhair more than a thousand years ago.",
+      "zh": "BBC驻耶路撒冷记者约兰德·克内尔。如今，挪威王室的根源可追溯到一千多年前的哈拉尔德·美发王。"
+    },
+    {
+      "id": 128,
+      "startMs": 730840,
+      "endMs": 737560,
+      "en": "The latest in the long line of monarchs, King Haakon VIII, has today pledged an oath of allegiance in Parliament.",
+      "zh": "在这条漫长君主世系中，哈康八世国王今天在议会宣誓效忠。"
+    },
+    {
+      "id": 129,
+      "startMs": 737960,
+      "endMs": 743080,
+      "en": "He inherited the throne when his father, King Harald V, died on Friday at the age of 89.",
+      "zh": "他的父亲哈拉尔五世国王于周五去世，享年89岁；他由此继承王位。"
+    },
+    {
+      "id": 130,
+      "startMs": 743560,
+      "endMs": 746680,
+      "en": "Today, the new king pledged to uphold Norway's Constitution.",
+      "zh": "今天，新国王宣誓维护挪威宪法。"
+    },
+    {
+      "id": 131,
+      "startMs": 746920,
+      "endMs": 756600,
+      "en": "I promise and swear that I will govern the Kingdom of Norway in accordance with its Constitution and laws.",
+      "zh": "我承诺并宣誓，我将依据挪威宪法和法律治理挪威王国。"
+    },
+    {
+      "id": 132,
+      "startMs": 756760,
+      "endMs": 760440,
+      "en": "So help me God, the Almighty and Omniscient.",
+      "zh": "全能且全知的上帝，请帮助我。"
+    },
+    {
+      "id": 133,
+      "startMs": 760440,
+      "endMs": 767480,
+      "en": "King Haakon was driven from the Royal Palace to the Storting, or Parliament, in an open car, as we heard from Mimi Swaby.",
+      "zh": "哈康国王乘敞篷车从王宫前往议会，即挪威议会；这是我们刚才听到的米米·斯韦比报道。"
+    },
+    {
+      "id": 134,
+      "startMs": 767640,
+      "endMs": 776120,
+      "en": "So this is the latest in a series of ceremonies marking the passing of the crown from King Harald V to his son, King Haakon VIII.",
+      "zh": "这是从哈拉尔五世国王到其子哈康八世国王的王冠交接仪式系列中的最新一场。"
+    },
+    {
+      "id": 135,
+      "startMs": 777580,
+      "endMs": 781740,
+      "en": "During this oath, the new king pledged to uphold the Constitution.",
+      "zh": "在这次宣誓中，新国王承诺维护宪法。"
+    },
+    {
+      "id": 136,
+      "startMs": 781740,
+      "endMs": 784860,
+      "en": "But this oath also marks the limits of the king's powers.",
+      "zh": "但这份誓言也标志着国王权力的界限。"
+    },
+    {
+      "id": 137,
+      "startMs": 784940,
+      "endMs": 788860,
+      "en": "It is a constitutional monarchy, so he doesn't have any formal political power.",
+      "zh": "这是君主立宪制国家，因此国王没有正式的政治权力。"
+    },
+    {
+      "id": 138,
+      "startMs": 789260,
+      "endMs": 793260,
+      "en": "After the oath, the president of Parliament, the Storting, took to the floor",
+      "zh": "宣誓后，议会议长、挪威议会的议长走上发言台，"
+    },
+    {
+      "id": 139,
+      "startMs": 793260,
+      "endMs": 796140,
+      "en": "and delivered a memorial speech for his late father.",
+      "zh": "为他已故的父亲发表追悼演说。"
+    },
+    {
+      "id": 140,
+      "startMs": 796300,
+      "endMs": 798060,
+      "en": "That was followed by a minute of silence.",
+      "zh": "随后是默哀一分钟。"
+    },
+    {
+      "id": 141,
+      "startMs": 798380,
+      "endMs": 805420,
+      "en": "And then we've seen lots of people passing through the Palace Chapel, paying their last respects to the late king",
+      "zh": "接着，我们看到许多人经过王宫小教堂，向已故国王告别，"
+    },
+    {
+      "id": 142,
+      "startMs": 805500,
+      "endMs": 808780,
+      "en": "whose body, whose coffin is lying in state there.",
+      "zh": "他的遗体、他的棺椁正停放在那里。"
+    },
+    {
+      "id": 143,
+      "startMs": 809020,
+      "endMs": 812140,
+      "en": "His funeral will be on 9 September, so we've got a few days now",
+      "zh": "他的葬礼将于9月9日举行，因此公众还有几天时间，"
+    },
+    {
+      "id": 144,
+      "startMs": 812140,
+      "endMs": 816940,
+      "en": "for the public, who he's immensely popular with, to pay their last respects.",
+      "zh": "向这位深受爱戴的国王致最后敬意。"
+    },
+    {
+      "id": 145,
+      "startMs": 817180,
+      "endMs": 820540,
+      "en": "But today marked the kind of formal ceremony.",
+      "zh": "但今天举行的是正式仪式。"
+    },
+    {
+      "id": 146,
+      "startMs": 821100,
+      "endMs": 825340,
+      "en": "King Haakon took the crown automatically when his father died on Friday.",
+      "zh": "哈康国王的父亲周五去世后，他自动继承了王位。"
+    },
+    {
+      "id": 147,
+      "startMs": 825820,
+      "endMs": 830300,
+      "en": "This, however, is in place of a coronation. There is no coronation in Norway.",
+      "zh": "不过，这代替了加冕礼。挪威没有加冕礼。"
+    },
+    {
+      "id": 148,
+      "startMs": 830300,
+      "endMs": 833100,
+      "en": "That was abolished in practice in 1908.",
+      "zh": "加冕礼在实践中于1908年被废除。"
+    },
+    {
+      "id": 149,
+      "startMs": 834220,
+      "endMs": 837580,
+      "en": "Usually, Queen Mette-Marit would have accompanied the new king.",
+      "zh": "通常，王后梅特-玛丽特会陪在新国王身边。"
+    },
+    {
+      "id": 150,
+      "startMs": 837600,
+      "endMs": 842080,
+      "en": "However, she had a lung transplant in June",
+      "zh": "但她6月接受了肺移植手术，"
+    },
+    {
+      "id": 151,
+      "startMs": 842160,
+      "endMs": 847360,
+      "en": "and, due to complications of that, she was unable to attend the swearing-in or taking the oath.",
+      "zh": "并因相关并发症无法出席宣誓就职或进行宣誓。"
+    },
+    {
+      "id": 152,
+      "startMs": 847680,
+      "endMs": 856000,
+      "en": "So he was accompanied; by his side was his daughter, Princess Ingrid, who is the first female heir to the throne in Norway.",
+      "zh": "因此陪在他身边的是女儿英格丽德公主，她是挪威王位第一位女性继承人。"
+    },
+    {
+      "id": 153,
+      "startMs": 856080,
+      "endMs": 863120,
+      "en": "She was wearing a mourning veil, standing by her father's side as he took that very formal oath, swearing his allegiance to Norway.",
+      "zh": "她戴着哀悼面纱，站在父亲身旁，看着他以非常正式的仪式宣誓效忠挪威。"
+    },
+    {
+      "id": 154,
+      "startMs": 863440,
+      "endMs": 869200,
+      "en": "As you say, a constitutional monarch, so he doesn't have loads of political power",
+      "zh": "正如你所说，他是君主立宪制国家的君主，没有太多政治权力，"
+    },
+    {
+      "id": 155,
+      "startMs": 869280,
+      "endMs": 873520,
+      "en": "but presumably plays an important role for the people of Norway.",
+      "zh": "但推测会为挪威人民发挥重要作用。"
+    },
+    {
+      "id": 156,
+      "startMs": 873520,
+      "endMs": 875600,
+      "en": "What are the tasks facing him immediately?",
+      "zh": "他眼下面临的任务是什么？"
+    },
+    {
+      "id": 157,
+      "startMs": 876160,
+      "endMs": 880720,
+      "en": "So the first task is essentially getting public trust back.",
+      "zh": "所以，第一项任务本质上是重新赢得公众信任。"
+    },
+    {
+      "id": 158,
+      "startMs": 880800,
+      "endMs": 888160,
+      "en": "The crown has had a tumultuous time, especially due to scandals related to King Haakon's immediate family.",
+      "zh": "王室经历了动荡时期，尤其是与哈康国王直系亲属有关的丑闻。"
+    },
+    {
+      "id": 159,
+      "startMs": 888160,
+      "endMs": 893840,
+      "en": "His wife—it came out earlier this year, in January, that she had links to the late US sex offender Jeffrey Epstein",
+      "zh": "今年早些时候，也就是1月，有消息称他的妻子与已故美国性犯罪者杰弗里·爱泼斯坦有联系，"
+    },
+    {
+      "id": 160,
+      "startMs": 893840,
+      "endMs": 896800,
+      "en": "She says she apologises and wishes she'd never met him.",
+      "zh": "她后来表示对此道歉，并希望自己从未见过他。"
+    },
+    {
+      "id": 161,
+      "startMs": 897120,
+      "endMs": 903140,
+      "en": "His stepson has been convicted of two rape charges and has been sentenced to four years in prison.",
+      "zh": "他的继子被判两项强奸罪名成立，获刑4年。"
+    },
+    {
+      "id": 162,
+      "startMs": 903140,
+      "endMs": 905780,
+      "en": "He's currently on house arrest, but has appealed the sentence.",
+      "zh": "他目前受到居家监禁，但已对判决提出上诉。"
+    },
+    {
+      "id": 163,
+      "startMs": 906100,
+      "endMs": 911300,
+      "en": "So these are things that didn't perhaps tarnish the late king, who was very popular with Norwegians.",
+      "zh": "这些事情或许没有玷污深受挪威人爱戴的已故国王。"
+    },
+    {
+      "id": 164,
+      "startMs": 911300,
+      "endMs": 916660,
+      "en": "The royal family, broadly speaking, still is, but gaining public trust as these scandals got closer to the crown",
+      "zh": "广义而言，王室仍受欢迎，但随着丑闻越来越靠近王室，"
+    },
+    {
+      "id": 165,
+      "startMs": 916660,
+      "endMs": 921060,
+      "en": "is something the new king will have to contend with in the immediate future.",
+      "zh": "重新赢得公众信任将是新国王近期必须面对的事情。"
+    },
+    {
+      "id": 166,
+      "startMs": 921060,
+      "endMs": 924180,
+      "en": "He will be trying to continue the legacy of his father.",
+      "zh": "他近期会努力延续父亲的遗产。"
+    },
+    {
+      "id": 167,
+      "startMs": 924420,
+      "endMs": 928980,
+      "en": "His father was a unifying figure during times of need for the country",
+      "zh": "他的父亲在国家需要时，都是凝聚人心的人物，"
+    },
+    {
+      "id": 168,
+      "startMs": 928980,
+      "endMs": 932260,
+      "en": "during mourning, grief and uncertainty",
+      "zh": "也在哀悼、悲痛和不确定时期发挥凝聚作用，"
+    },
+    {
+      "id": 169,
+      "startMs": 932260,
+      "endMs": 941140,
+      "en": "And many think and hope the new king will embody that, along with the modest lifestyle to which the Norwegian royals have become accustomed.",
+      "zh": "许多人认为并希望新国王也能体现这一点，以及挪威王室已经习惯的朴素生活方式。"
+    },
+    {
+      "id": 170,
+      "startMs": 941300,
+      "endMs": 943380,
+      "en": "Our global affairs reporter, Mimi Swaby.",
+      "zh": "全球事务记者米米·斯韦比。"
+    },
+    {
+      "id": 171,
+      "startMs": 945880,
+      "endMs": 947560,
+      "en": "Still to come on this podcast...",
+      "zh": "本节目稍后还有内容……"
+    },
+    {
+      "id": 172,
+      "startMs": 947880,
+      "endMs": 951240,
+      "en": "We looked at patients receiving predominantly immunotherapy,",
+      "zh": "我们研究了主要接受免疫疗法的患者，"
+    },
+    {
+      "id": 173,
+      "startMs": 951640,
+      "endMs": 957320,
+      "en": "whether the circadian rhythm or the body clock has an impact on the immune system.",
+      "zh": "考察昼夜节律或生物钟是否会影响免疫系统。"
+    },
+    {
+      "id": 174,
+      "startMs": 957800,
+      "endMs": 962920,
+      "en": "Can the time of day of treatment affect survival rates for cancer patients?",
+      "zh": "治疗时间会影响癌症患者的生存率吗？"
+    },
+    {
+      "id": 175,
+      "startMs": 962920,
+      "endMs": 965160,
+      "en": "This is the Global News Podcast.",
+      "zh": "这就是《全球新闻播客》。"
+    },
+    {
+      "id": 176,
+      "startMs": 965720,
+      "endMs": 970920,
+      "en": "Four and a half years into its invasion of Ukraine, Russia is suffering huge losses on the front line",
+      "zh": "在入侵乌克兰四年半后，俄罗斯在前线损失惨重，"
+    },
+    {
+      "id": 177,
+      "startMs": 971320,
+      "endMs": 975880,
+      "en": "while at home its energy sites and online warehouses are in range of Ukrainian drones.",
+      "zh": "而在国内，其能源设施和线上仓库都在乌克兰无人机的攻击范围内。"
+    },
+    {
+      "id": 178,
+      "startMs": 976360,
+      "endMs": 981160,
+      "en": "Russia has responded by redoubling its attacks on Ukraine, killing large numbers of civilians.",
+      "zh": "俄罗斯以更猛烈的攻势回应，袭击乌克兰，造成大量平民死亡。"
+    },
+    {
+      "id": 179,
+      "startMs": 981640,
+      "endMs": 986440,
+      "en": "Today is the sixth day in a row that it's launched attacks, hitting Kyiv and the surrounding area.",
+      "zh": "今天是俄军连续第六天发动袭击，目标包括基辅及周边地区。"
+    },
+    {
+      "id": 180,
+      "startMs": 986920,
+      "endMs": 990040,
+      "en": "At least 12 people died, including seven in a railway depot.",
+      "zh": "至少12人死亡，其中7人死于一座铁路车辆段。"
+    },
+    {
+      "id": 181,
+      "startMs": 990440,
+      "endMs": 993560,
+      "en": "This man is a resident of an apartment block in the capital that was hit.",
+      "zh": "这名男子住在首都一栋遭到袭击的公寓楼里。"
+    },
+    {
+      "id": 182,
+      "startMs": 993800,
+      "endMs": 1000520,
+      "en": "There were a lot of shrapnel injuries. There's a crater about two metres deep.",
+      "zh": "有很多弹片伤。还有一个大约两米深的弹坑。"
+    },
+    {
+      "id": 183,
+      "startMs": 1000920,
+      "endMs": 1005400,
+      "en": "Half the wall has been destroyed. The blast just tore everything apart.",
+      "zh": "半面墙被炸毁，爆炸把一切都撕裂了。"
+    },
+    {
+      "id": 184,
+      "startMs": 1005400,
+      "endMs": 1009800,
+      "en": "The entire entrance collapsed, and the balcony was blown away.",
+      "zh": "整座入口坍塌，阳台也被炸飞了。"
+    },
+    {
+      "id": 185,
+      "startMs": 1010120,
+      "endMs": 1014440,
+      "en": "We got an update from our diplomatic correspondent in Kyiv, James Landale.",
+      "zh": "我们请驻基辅的外交记者詹姆斯·兰代尔作了更新。"
+    },
+    {
+      "id": 186,
+      "startMs": 1014440,
+      "endMs": 1020280,
+      "en": "This is the sixth consecutive day of attacks by Russian forces on the capital, Kyiv.",
+      "zh": "这是俄军连续第六天袭击首都基辅。"
+    },
+    {
+      "id": 187,
+      "startMs": 1020360,
+      "endMs": 1026060,
+      "en": "So, clearly, that is the result of a deliberate strategy by the Russian side.",
+      "zh": "所以，这显然是俄方蓄意采取的战略。"
+    },
+    {
+      "id": 188,
+      "startMs": 1026060,
+      "endMs": 1035740,
+      "en": "And what we've seen in recent days is primarily wave after wave of attacks by drones, especially the new and faster drones.",
+      "zh": "近几天我们看到的主要是无人机一波接一波地袭击，尤其是新型高速无人机。"
+    },
+    {
+      "id": 189,
+      "startMs": 1036220,
+      "endMs": 1043420,
+      "en": "What's been interesting about it is that it hasn't been just overnight; it's been during the day as well, causing substantial death and disruption.",
+      "zh": "有意思的是，袭击并不只发生在夜间，白天也在进行，造成大量人员死亡和破坏。"
+    },
+    {
+      "id": 190,
+      "startMs": 1043900,
+      "endMs": 1052300,
+      "en": "But what we had in the early hours of this morning here in Kyiv was an attack that also included a substantial number of ballistic missiles.",
+      "zh": "今天凌晨，基辅遭到的袭击还包括大量弹道导弹。"
+    },
+    {
+      "id": 191,
+      "startMs": 1052860,
+      "endMs": 1059820,
+      "en": "Most of those seem to have been targeted, as far as we know, against a railway depot, where seven people died.",
+      "zh": "据我们所知，其中大多数导弹似乎瞄准了一座铁路车辆段，那里有7人死亡。"
+    },
+    {
+      "id": 192,
+      "startMs": 1060300,
+      "endMs": 1066940,
+      "en": "But there were also some strikes in the east of the city, in residential areas, and other people died there as well.",
+      "zh": "但城市东部居民区也遭到一些袭击，那里同样有人死亡。"
+    },
+    {
+      "id": 193,
+      "startMs": 1067420,
+      "endMs": 1075260,
+      "en": "But primarily, again, another focus by the Russians on trying to put more pressure on the people and the authorities here in the capital.",
+      "zh": "不过，俄军再次把重点放在向首都民众和当局施加更大压力上。"
+    },
+    {
+      "id": 194,
+      "startMs": 1075500,
+      "endMs": 1080620,
+      "en": "And what do Russia's tactics appear to be in terms of the targeting?",
+      "zh": "俄方在选择目标方面的战术似乎是什么？"
+    },
+    {
+      "id": 195,
+      "startMs": 1080940,
+      "endMs": 1087120,
+      "en": "If you think about it, Russia's tactics change over time. During the winter, they tend to focus more on energy targets.",
+      "zh": "如果仔细看，俄罗斯的战术会随时间变化。冬季，他们往往更集中攻击能源目标。"
+    },
+    {
+      "id": 196,
+      "startMs": 1087680,
+      "endMs": 1095760,
+      "en": "It's been interpreted here as a shift from targeting infrastructure and air defences on the city's perimeter.",
+      "zh": "目前的解读是，俄军不再只是攻击基础设施和城市外围的防空系统。"
+    },
+    {
+      "id": 197,
+      "startMs": 1096400,
+      "endMs": 1105040,
+      "en": "The Russians now have a clear strategic aim: to target distribution centres, warehouses, postal offices and factories.",
+      "zh": "俄方现在有一个明确的战略目标：袭击配送中心、仓库、邮局和工厂。"
+    },
+    {
+      "id": 198,
+      "startMs": 1105040,
+      "endMs": 1112720,
+      "en": "Where toys and chocolates are made, disrupting supermarkets and things like that, as well as daily life.",
+      "zh": "包括生产玩具和巧克力的工厂，扰乱超市等场所，也扰乱日常生活。"
+    },
+    {
+      "id": 199,
+      "startMs": 1113200,
+      "endMs": 1119920,
+      "en": "There has been a huge increase in the number of air-raid alerts in the last week or so.",
+      "zh": "最近一周左右，这里的空袭警报数量大幅增加。"
+    },
+    {
+      "id": 200,
+      "startMs": 1119920,
+      "endMs": 1125280,
+      "en": "When that happens, protocols come into force, meaning some businesses have to close.",
+      "zh": "警报响起时会启动相应措施，一些企业必须关闭。"
+    },
+    {
+      "id": 201,
+      "startMs": 1125360,
+      "endMs": 1127920,
+      "en": "Some schools have to relocate their pupils.",
+      "zh": "一些学校也必须转移学生。"
+    },
+    {
+      "id": 202,
+      "startMs": 1128240,
+      "endMs": 1132080,
+      "en": "This causes a huge amount of disruption to the economy and schooling.",
+      "zh": "这给经济和学校教育造成了巨大干扰。"
+    },
+    {
+      "id": 203,
+      "startMs": 1132080,
+      "endMs": 1136320,
+      "en": "It causes fear and anxiety; it means people are tired.",
+      "zh": "这带来恐惧和焦虑，也意味着人们疲惫不堪。"
+    },
+    {
+      "id": 204,
+      "startMs": 1136640,
+      "endMs": 1142720,
+      "en": "People see it as Russia's attempt to bring this city to its knees.",
+      "zh": "人们把这看作俄罗斯试图让这座城市陷入瘫痪。"
+    },
+    {
+      "id": 205,
+      "startMs": 1143200,
+      "endMs": 1150800,
+      "en": "And briefly, after four and a half years of very intensive war, is Ukraine still able to hit back at Russia?",
+      "zh": "在经历了四年半极其惨烈的战争后，乌克兰还能反击俄罗斯吗？"
+    },
+    {
+      "id": 206,
+      "startMs": 1151440,
+      "endMs": 1154720,
+      "en": "Oh, yeah. Ukraine is still able to hit back at Russia and is doing so.",
+      "zh": "哦，能。乌克兰仍有能力反击俄罗斯，而且正在这样做。"
+    },
+    {
+      "id": 207,
+      "startMs": 1154720,
+      "endMs": 1161760,
+      "en": "It's continuing its deep strikes targeting Russian oil refineries and its own military targets.",
+      "zh": "乌方继续进行纵深打击，目标包括俄罗斯炼油厂和俄军目标。"
+    },
+    {
+      "id": 208,
+      "startMs": 1162080,
+      "endMs": 1172400,
+      "en": "But, as ever, Ukraine's key vulnerability at the moment is interceptor drones able to take out ballistic missiles that fly across these skies.",
+      "zh": "但乌克兰目前的关键弱点，始终是拦截无人机不足，难以击落飞越天空的弹道导弹。"
+    },
+    {
+      "id": 209,
+      "startMs": 1172400,
+      "endMs": 1178080,
+      "en": "The newer and faster attack drones are also becoming much harder to intercept.",
+      "zh": "此外，新型高速攻击无人机也越来越难以拦截。"
+    },
+    {
+      "id": 210,
+      "startMs": 1178160,
+      "endMs": 1180560,
+      "en": "James Landale in the Ukrainian capital.",
+      "zh": "詹姆斯·兰代尔在乌克兰首都的报道。"
+    },
+    {
+      "id": 211,
+      "startMs": 1181520,
+      "endMs": 1187280,
+      "en": "Founded in China in 2008, Shein swiftly became one of the biggest clothes retailers in the world.",
+      "zh": "希音2008年创立于中国，很快成为全球最大的服装零售商之一。"
+    },
+    {
+      "id": 212,
+      "startMs": 1187680,
+      "endMs": 1192720,
+      "en": "It churned out fast fashion at ultra-low prices through a vast network of Chinese factories.",
+      "zh": "它通过庞大的中国工厂网络，以超低价格大量生产快时尚服装。"
+    },
+    {
+      "id": 213,
+      "startMs": 1193280,
+      "endMs": 1197440,
+      "en": "With a near-$100 billion valuation, it had Wall Street in its sights.",
+      "zh": "希音估值接近1000亿美元时，曾把目光投向华尔街。"
+    },
+    {
+      "id": 214,
+      "startMs": 1197760,
+      "endMs": 1203300,
+      "en": "But its long-awaited stock-market debut in Hong Kong turned out to be something of an anti-climax.",
+      "zh": "但它期待已久的香港上市最终却有些虎头蛇尾。"
+    },
+    {
+      "id": 215,
+      "startMs": 1203380,
+      "endMs": 1206660,
+      "en": "As I heard from our Asia business correspondent, Archana Shukla.",
+      "zh": "这是我从亚洲商业记者阿尔查娜·舒克拉那里听到的情况。"
+    },
+    {
+      "id": 216,
+      "startMs": 1206900,
+      "endMs": 1210900,
+      "en": "Well, it wasn't really the debut that Shein would have wanted or expected.",
+      "zh": "希音原本并不希望以这样的方式上市，也没有预料到这样的结果。"
+    },
+    {
+      "id": 217,
+      "startMs": 1211220,
+      "endMs": 1220020,
+      "en": "It was a disappointing start. As they started trading, shares slid nearly 10% and later recovered a bit.",
+      "zh": "这是一个令人失望的开局。股票开始交易后，一度下跌近10%，随后有所回升。"
+    },
+    {
+      "id": 218,
+      "startMs": 1220100,
+      "endMs": 1224580,
+      "en": "They've closed around 4% lower than their initial public offering price.",
+      "zh": "收盘时，股价比首次公开发行价低约4%。"
+    },
+    {
+      "id": 219,
+      "startMs": 1224900,
+      "endMs": 1229620,
+      "en": "But clearly, investor concerns were visible in trading on day one.",
+      "zh": "但很明显，投资者的担忧在首日交易中已经显现。"
+    },
+    {
+      "id": 220,
+      "startMs": 1229620,
+      "endMs": 1234100,
+      "en": "And this came after their multiple attempts to list in different markets.",
+      "zh": "而且，这发生在希音多次尝试在不同市场上市之后。"
+    },
+    {
+      "id": 221,
+      "startMs": 1234100,
+      "endMs": 1238500,
+      "en": "They wanted to list in New York and London, and eventually landed in Hong Kong.",
+      "zh": "他们曾想在纽约和伦敦上市，最终落脚香港。"
+    },
+    {
+      "id": 222,
+      "startMs": 1238740,
+      "endMs": 1246100,
+      "en": "The valuation you mentioned, $100 billion, is now almost just a quarter of that, at about $26 billion.",
+      "zh": "你提到的1000亿美元估值，如今几乎只有四分之一，约为260亿美元。"
+    },
+    {
+      "id": 223,
+      "startMs": 1246500,
+      "endMs": 1250740,
+      "en": "So, certainly, the general public does not seem to be as enthused.",
+      "zh": "所以，普通公众显然没有那么热情。"
+    },
+    {
+      "id": 224,
+      "startMs": 1251140,
+      "endMs": 1256820,
+      "en": "And why has Shein struggled to live up to those earlier expectations?",
+      "zh": "希音为什么难以达到此前的预期？"
+    },
+    {
+      "id": 225,
+      "startMs": 1257140,
+      "endMs": 1263480,
+      "en": "Well, there are multiple reasons, from regulation to business costs: costs have gone up, and competition has become very fierce.",
+      "zh": "原因很多，从监管问题到商业成本；成本已经上涨，竞争也变得非常激烈。"
+    },
+    {
+      "id": 226,
+      "startMs": 1263720,
+      "endMs": 1270760,
+      "en": "What made Shein so popular among young people was its use of AI to predict demand.",
+      "zh": "希音之所以受到年轻人欢迎，是因为它利用人工智能预测需求。"
+    },
+    {
+      "id": 227,
+      "startMs": 1270840,
+      "endMs": 1275720,
+      "en": "It could then quickly turn around fashion for younger people at ultra-low prices.",
+      "zh": "随后，它能迅速为年轻人推出超低价时装。"
+    },
+    {
+      "id": 228,
+      "startMs": 1276120,
+      "endMs": 1278440,
+      "en": "Other brands are also doing that now.",
+      "zh": "其他品牌现在也在这样做。"
+    },
+    {
+      "id": 229,
+      "startMs": 1278760,
+      "endMs": 1284920,
+      "en": "Plus, two of their biggest markets, the US and the EU, have removed the tax breaks they gave for small parcels.",
+      "zh": "此外，美国和欧盟这两个最大市场取消了针对小包裹的税收优惠。"
+    },
+    {
+      "id": 230,
+      "startMs": 1285320,
+      "endMs": 1289880,
+      "en": "That is hitting Shein at its business angle: its ultra-low prices.",
+      "zh": "这直接打击希音的商业卖点，也就是超低价格。"
+    },
+    {
+      "id": 231,
+      "startMs": 1290200,
+      "endMs": 1295880,
+      "en": "Add to that, there are regulatory concerns about labour practices in their Chinese factories, as well as",
+      "zh": "此外，他们在中国工厂的劳工做法也引发监管方面的担忧，还有"
+    },
+    {
+      "id": 232,
+      "startMs": 1295960,
+      "endMs": 1299240,
+      "en": "environmental concerns and sustainability of fast fashion.",
+      "zh": "环境问题以及快时尚的可持续性问题。"
+    },
+    {
+      "id": 233,
+      "startMs": 1299560,
+      "endMs": 1302600,
+      "en": "All of this put together has really put a lot of question marks",
+      "zh": "综合来看，这给这家公司的业务打上了许多问号"
+    },
+    {
+      "id": 234,
+      "startMs": 1302840,
+      "endMs": 1305080,
+      "en": "on the business and the growth prospects for Shein.",
+      "zh": "也给希音的增长前景带来了许多疑问。"
+    },
+    {
+      "id": 235,
+      "startMs": 1305320,
+      "endMs": 1307720,
+      "en": "It's now based in Singapore.",
+      "zh": "希音如今总部设在新加坡。"
+    },
+    {
+      "id": 236,
+      "startMs": 1307800,
+      "endMs": 1310600,
+      "en": "Is Shein still seen as a Chinese success story?",
+      "zh": "希音仍然被视为中国的成功故事吗？"
+    },
+    {
+      "id": 237,
+      "startMs": 1311000,
+      "endMs": 1315640,
+      "en": "It is, right? You know, just moving headquarters won't change the nature of the company.",
+      "zh": "是的，对吧？你看，仅仅搬迁总部并不会改变这家公司的性质。"
+    },
+    {
+      "id": 238,
+      "startMs": 1315960,
+      "endMs": 1320840,
+      "en": "The company sources entirely from the vast network of factories in China.",
+      "zh": "这家公司的货源全部来自中国庞大的工厂网络。"
+    },
+    {
+      "id": 239,
+      "startMs": 1321240,
+      "endMs": 1327180,
+      "en": "That is where their employees are based, and they've just moved their headquarters before the IPO bid.",
+      "zh": "那也是其员工所在的地方，而他们刚刚在首次公开募股前搬迁了总部。"
+    },
+    {
+      "id": 240,
+      "startMs": 1327580,
+      "endMs": 1332140,
+      "en": "They wanted to list in New York and in London, but those attempts did not succeed",
+      "zh": "他们曾想在纽约和伦敦上市，但这些尝试没有成功"
+    },
+    {
+      "id": 241,
+      "startMs": 1332140,
+      "endMs": 1336620,
+      "en": "because most of the Western exchange markets are not seeing Chinese companies",
+      "zh": "因为多数西方交易市场不再像过去那样看待中国企业"
+    },
+    {
+      "id": 242,
+      "startMs": 1336620,
+      "endMs": 1338140,
+      "en": "with the same eyes as they were earlier.",
+      "zh": "对中国企业的看法已经不同于以往。"
+    },
+    {
+      "id": 243,
+      "startMs": 1338460,
+      "endMs": 1341580,
+      "en": "And that is where the trade tensions also come into the picture.",
+      "zh": "这也正是贸易紧张关系发挥作用的地方。"
+    },
+    {
+      "id": 244,
+      "startMs": 1341580,
+      "endMs": 1348140,
+      "en": "The US-China relationship would also kind of affect their business model at this point in time.",
+      "zh": "美中关系也会在现阶段对其商业模式产生一定影响。"
+    },
+    {
+      "id": 245,
+      "startMs": 1348140,
+      "endMs": 1352940,
+      "en": "So certainly, moving headquarters is not taking away the tag of being a Chinese company.",
+      "zh": "所以，搬迁总部当然无法消除其中国企业的标签。"
+    },
+    {
+      "id": 246,
+      "startMs": 1353340,
+      "endMs": 1355340,
+      "en": "Archana Shukla in Mumbai.",
+      "zh": "孟买的阿尔查娜·舒克拉报道。"
+    },
+    {
+      "id": 247,
+      "startMs": 1355700,
+      "endMs": 1362740,
+      "en": "Researchers have found that the time of day at which cancer patients get their treatment can have a significant effect on survival rates.",
+      "zh": "研究人员发现，癌症患者接受治疗的时间可能会对生存率产生显著影响。"
+    },
+    {
+      "id": 248,
+      "startMs": 1363220,
+      "endMs": 1368660,
+      "en": "Those who had morning sessions could survive for nearly twice as long as those treated in the afternoon.",
+      "zh": "上午接受治疗的人，存活时间可能几乎是在下午接受治疗者的两倍。"
+    },
+    {
+      "id": 249,
+      "startMs": 1369140,
+      "endMs": 1374340,
+      "en": "Professor Paul Lorigan from the Christie NHS Foundation Trust in Manchester is a senior author of the study.",
+      "zh": "曼彻斯特克里斯蒂NHS基金会信托的保罗·洛里根教授是该研究的高级作者。"
+    },
+    {
+      "id": 250,
+      "startMs": 1374660,
+      "endMs": 1375780,
+      "en": "He spoke to Anna Foster.",
+      "zh": "他接受了安娜·福斯特的采访。"
+    },
+    {
+      "id": 251,
+      "startMs": 1376100,
+      "endMs": 1379460,
+      "en": "We looked at patients receiving predominantly immunotherapy.",
+      "zh": "我们研究了主要接受免疫疗法的患者。"
+    },
+    {
+      "id": 252,
+      "startMs": 1379460,
+      "endMs": 1385300,
+      "en": "Immunotherapy has revolutionised the treatment of cancer, but not everybody benefits from it equally.",
+      "zh": "免疫疗法彻底改变了癌症治疗，但并非所有人都能从中同等获益。"
+    },
+    {
+      "id": 253,
+      "startMs": 1385700,
+      "endMs": 1390820,
+      "en": "And there are many possible reasons for that: the type of cancer, the type of treatment, their own immune system.",
+      "zh": "这可能有许多原因：癌症类型、治疗类型，以及患者自身的免疫系统。"
+    },
+    {
+      "id": 254,
+      "startMs": 1391140,
+      "endMs": 1399060,
+      "en": "But one of the things we looked at was whether the circadian rhythm, or the body clock, has an impact on the immune system.",
+      "zh": "但我们研究的一点是，昼夜节律，也就是生物钟，是否会影响免疫系统。"
+    },
+    {
+      "id": 255,
+      "startMs": 1399460,
+      "endMs": 1403860,
+      "en": "And so we looked at over 2,500 patients treated in Manchester",
+      "zh": "因此，我们研究了在曼彻斯特接受治疗的2500多名患者"
+    },
+    {
+      "id": 256,
+      "startMs": 1403860,
+      "endMs": 1409220,
+      "en": "with a range of different cancers and a range of different types of immunotherapy.",
+      "zh": "他们患有多种癌症，也接受了多种不同类型的免疫疗法。"
+    },
+    {
+      "id": 257,
+      "startMs": 1409700,
+      "endMs": 1416760,
+      "en": "And what we found was that patients treated earlier in the day had, in general, a better outcome",
+      "zh": "我们发现，总体而言，在一天较早时接受治疗的患者结果更好"
+    },
+    {
+      "id": 258,
+      "startMs": 1417000,
+      "endMs": 1423880,
+      "en": "than patients treated later in the day. Now, it varied from cancer type, and it varied with treatment type as well.",
+      "zh": "比晚些时候接受治疗的患者更好。不过，这会因癌症类型和治疗类型而异。"
+    },
+    {
+      "id": 259,
+      "startMs": 1424680,
+      "endMs": 1431000,
+      "en": "And how confident are you that this is a real theme, if you like?",
+      "zh": "那么，您有多大把握认为这确实是一种规律？"
+    },
+    {
+      "id": 260,
+      "startMs": 1431000,
+      "endMs": 1437400,
+      "en": "Because, as people might remember, there was a similar study earlier this year which was then retracted.",
+      "zh": "因为大家可能记得，今年早些时候有一项类似研究后来被撤回。"
+    },
+    {
+      "id": 261,
+      "startMs": 1437560,
+      "endMs": 1440920,
+      "en": "Is this something that you are confident is happening?",
+      "zh": "您能确定这种现象确实存在吗？"
+    },
+    {
+      "id": 262,
+      "startMs": 1441600,
+      "endMs": 1445760,
+      "en": "No, absolutely. I mean, what I think we're seeing here is a strong signal.",
+      "zh": "是的，当然。我认为我们在这里看到的是一个强烈信号。"
+    },
+    {
+      "id": 263,
+      "startMs": 1445760,
+      "endMs": 1453120,
+      "en": "What you're referring to is a study from China in lung cancer, and that was withdrawn because of problems with the data.",
+      "zh": "您所说的是中国一项关于肺癌的研究，该研究因数据问题被撤回。"
+    },
+    {
+      "id": 264,
+      "startMs": 1453360,
+      "endMs": 1459840,
+      "en": "What we've looked at here is what's called a retrospective study, and there are many possible explanations for why this might be.",
+      "zh": "我们这里开展的是所谓的回顾性研究，这种结果可能有许多解释。"
+    },
+    {
+      "id": 265,
+      "startMs": 1459920,
+      "endMs": 1462400,
+      "en": "And we haven't actually been able to see that in our trial.",
+      "zh": "而我们实际上还无法在试验中观察到这一点。"
+    },
+    {
+      "id": 266,
+      "startMs": 1462880,
+      "endMs": 1471120,
+      "en": "So it might be that people arriving for treatment later are less well, are more frail, are relying on hospital transport, etc.",
+      "zh": "所以，可能是较晚来接受治疗的人身体状况较差、更加虚弱，或者依赖医院交通等。"
+    },
+    {
+      "id": 267,
+      "startMs": 1471440,
+      "endMs": 1474800,
+      "en": "So we really need to look at this more systematically.",
+      "zh": "因此，我们确实需要更系统地研究这一点。"
+    },
+    {
+      "id": 268,
+      "startMs": 1475200,
+      "endMs": 1481120,
+      "en": "And as a result, with colleagues in Southampton and in Cardiff, we've designed a trial",
+      "zh": "因此，我们与南安普敦和加的夫的同事设计了一项试验"
+    },
+    {
+      "id": 269,
+      "startMs": 1481120,
+      "endMs": 1487280,
+      "en": "to test this properly, to see if this is real and, if it is real, why it's real",
+      "zh": "以便对此进行严格检验，看看这是否真实存在；如果存在，原因又是什么"
+    },
+    {
+      "id": 270,
+      "startMs": 1487360,
+      "endMs": 1493360,
+      "en": "to understand why the immune system might be more receptive at specific times of the day.",
+      "zh": "从而了解免疫系统为何可能在一天中的特定时间更易产生反应。"
+    },
+    {
+      "id": 271,
+      "startMs": 1493840,
+      "endMs": 1497360,
+      "en": "Is it the sort of thing, as we're going further down the line now,",
+      "zh": "随着研究进一步推进，这是否意味着，"
+    },
+    {
+      "id": 272,
+      "startMs": 1497360,
+      "endMs": 1504580,
+      "en": "where, if it does turn out that there's something in it, the system could cope with everybody wanting their treatment at the same time of day?",
+      "zh": "如果最终证明其中确有道理，医疗系统是否能够应对所有人都想在同一时间接受治疗的情况？"
+    },
+    {
+      "id": 273,
+      "startMs": 1505300,
+      "endMs": 1507060,
+      "en": "No, that's a very good question.",
+      "zh": "不，这是个非常好的问题。"
+    },
+    {
+      "id": 274,
+      "startMs": 1507060,
+      "endMs": 1513140,
+      "en": "And I mean, what we see is that the people who get the best outcome with immunotherapy get it early on",
+      "zh": "我的意思是，我们看到，免疫疗法效果最好的人是在早期接受治疗的"
+    },
+    {
+      "id": 275,
+      "startMs": 1513460,
+      "endMs": 1518420,
+      "en": "and so it's most likely it's just important for the first two or three or four cycles of treatment.",
+      "zh": "因此，最重要的很可能只是最初两到四个疗程。"
+    },
+    {
+      "id": 276,
+      "startMs": 1519220,
+      "endMs": 1524020,
+      "en": "And for a big centre who's treating, you know, individual patients for up to two years",
+      "zh": "对于治疗单个患者最长可达两年的大型中心来说，"
+    },
+    {
+      "id": 277,
+      "startMs": 1524260,
+      "endMs": 1528980,
+      "en": "it would be quite possible just to give the first three or four cycles of treatment first thing in the morning",
+      "zh": "完全可以只在清晨安排最初三到四个疗程"
+    },
+    {
+      "id": 278,
+      "startMs": 1529140,
+      "endMs": 1532420,
+      "en": "and then all the rest of the treatments would be given at a later time.",
+      "zh": "之后的所有疗程再安排在晚些时候。"
+    },
+    {
+      "id": 279,
+      "startMs": 1533060,
+      "endMs": 1538740,
+      "en": "And the potential benefits here, if it proves to be the sort of difference we've seen,",
+      "zh": "这里潜在的好处是，如果最终证实差异确实如我们所见，"
+    },
+    {
+      "id": 280,
+      "startMs": 1539060,
+      "endMs": 1542340,
+      "en": "we don't see that when we're trying to improve our treatments.",
+      "zh": "我们在改进治疗时，并不会看到这样的情况。"
+    },
+    {
+      "id": 281,
+      "startMs": 1542660,
+      "endMs": 1548900,
+      "en": "We're adding in new, more expensive drugs, causing more side effects, but this would be essentially cost-neutral.",
+      "zh": "我们会加入更昂贵的新药，带来更多副作用；但这种做法基本不会增加成本。"
+    },
+    {
+      "id": 282,
+      "startMs": 1548980,
+      "endMs": 1555860,
+      "en": "It's just quite a—if it works—a significant benefit just based on giving the treatment at a different time of the day.",
+      "zh": "这只是调整治疗时间；如果有效，就能以此获得相当可观的益处。"
+    },
+    {
+      "id": 283,
+      "startMs": 1556260,
+      "endMs": 1560980,
+      "en": "Professor Paul Lorigan. And that is all from us for now.",
+      "zh": "保罗·洛里根教授。今天的节目就到这里。"
+    },
+    {
+      "id": 284,
+      "startMs": 1560980,
+      "endMs": 1565700,
+      "en": "But you can watch our episodes in full by searching for the Global News Podcast on YouTube.",
+      "zh": "不过，你可以在YouTube上搜索Global News Podcast，观看我们的完整节目。"
+    },
+    {
+      "id": 285,
+      "startMs": 1566100,
+      "endMs": 1569220,
+      "en": "This edition was mixed by Lewis Griffin and produced by Vanessa Heaney.",
+      "zh": "本期节目由刘易斯·格里芬混音，凡妮莎·希尼制作。"
+    },
+    {
+      "id": 286,
+      "startMs": 1569460,
+      "endMs": 1570980,
+      "en": "Our editor is Karen Martin.",
+      "zh": "我们的编辑是凯伦·马丁。"
+    },
+    {
+      "id": 287,
+      "startMs": 1571300,
+      "endMs": 1573780,
+      "en": "I'm Oliver Conway. Until next time, goodbye.",
+      "zh": "我是奥利弗·康威。下次再见。"
+    }
+  ]
+}

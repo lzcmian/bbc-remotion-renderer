@@ -1,0 +1,1838 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "2 September 2026"
+  },
+  "durationMs": 1447060,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3360,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4940,
+      "endMs": 11500,
+      "en": "I'm Paul Moss, and at 14:00 GMT on Wednesday, the 2nd of September, these are our main stories.",
+      "zh": "我是保罗·莫斯。现在是格林尼治时间9月2日星期三14点，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11820,
+      "endMs": 17500,
+      "en": "European leaders have condemned Russia as it's held responsible for the attack on a German airport.",
+      "zh": "欧洲领导人谴责俄罗斯，称其应对一座德国机场遭袭负责。"
+    },
+    {
+      "id": 4,
+      "startMs": 17980,
+      "endMs": 23740,
+      "en": "Meanwhile, a Russian strike on the city of Odesa has left more than 300,000 Ukrainians without power.",
+      "zh": "与此同时，俄罗斯对敖德萨市的袭击导致30多万乌克兰人断电。"
+    },
+    {
+      "id": 5,
+      "startMs": 24300,
+      "endMs": 31580,
+      "en": "The man accused of murdering the American conservative activist Charlie Kirk last year has appeared in court and pleaded not guilty.",
+      "zh": "被控去年谋杀美国保守派活动人士查理·柯克的男子已出庭，并表示不认罪。"
+    },
+    {
+      "id": 6,
+      "startMs": 31580,
+      "endMs": 38140,
+      "en": "Patients at higher risk of having bladder cancer can be diagnosed earlier and treated more quickly.",
+      "zh": "膀胱癌风险较高的患者可以更早确诊并更快接受治疗。"
+    },
+    {
+      "id": 7,
+      "startMs": 42780,
+      "endMs": 48060,
+      "en": "Europeans are faced with a hard truth, the head of the EU said: \"This is the new normal.\"",
+      "zh": "欧盟负责人说，欧洲人正面对一个残酷事实：“这就是新常态。”"
+    },
+    {
+      "id": 8,
+      "startMs": 48460,
+      "endMs": 54140,
+      "en": "Ursula von der Leyen was speaking after Russia was blamed for an attempted attack on a German airport last month.",
+      "zh": "乌尔苏拉·冯德莱恩是在俄罗斯被指应对上月一座德国机场遭企图袭击负责后发表讲话的。"
+    },
+    {
+      "id": 9,
+      "startMs": 54620,
+      "endMs": 59260,
+      "en": "When a drone full of explosives was found near a Ukrainian cargo plane in Leipzig.",
+      "zh": "当时，一架装满炸药的无人机在莱比锡一架乌克兰货机附近被发现。"
+    },
+    {
+      "id": 10,
+      "startMs": 59740,
+      "endMs": 67820,
+      "en": "Ms. von der Leyen was joined at a news conference by the NATO Secretary General Mark Rutte, with a similar message and a similarly grim warning.",
+      "zh": "北约秘书长马克·吕特在新闻发布会上与冯德莱恩一同发言，传达了类似信息，也发出了同样严峻的警告。"
+    },
+    {
+      "id": 11,
+      "startMs": 68300,
+      "endMs": 75260,
+      "en": "Russia has grown increasingly reckless as they continue their terrible war against Ukraine.",
+      "zh": "俄罗斯在继续对乌克兰发动残酷战争之际，行事越来越鲁莽。"
+    },
+    {
+      "id": 12,
+      "startMs": 75820,
+      "endMs": 83260,
+      "en": "We have seen more drones and missiles crossing into our airspace along our eastern flank, creating increased risk.",
+      "zh": "我们看到更多无人机和导弹沿东翼进入我们的空域，增加了风险。"
+    },
+    {
+      "id": 13,
+      "startMs": 83980,
+      "endMs": 94380,
+      "en": "And we have also seen an increase in malign activities targeting our territory directly, whether it is fires set in factories producing defence equipment for Ukraine,",
+      "zh": "我们还看到恶意活动增加，直接针对我们的领土，例如在生产援乌防务装备的工厂纵火，"
+    },
+    {
+      "id": 14,
+      "startMs": 94780,
+      "endMs": 98300,
+      "en": "or, indeed, the Russian hybrid attack in Leipzig.",
+      "zh": "以及俄罗斯在莱比锡发动的混合战攻击。"
+    },
+    {
+      "id": 15,
+      "startMs": 98780,
+      "endMs": 104140,
+      "en": "On the ground in Ukraine, Volodymyr Zelenskyy says Russian drones have struck targets across his country.",
+      "zh": "在乌克兰当地，弗拉基米尔·泽连斯基说，俄罗斯无人机袭击了全国各地的目标。"
+    },
+    {
+      "id": 16,
+      "startMs": 104460,
+      "endMs": 109580,
+      "en": "Reports suggest hundreds of thousands have been left without electricity in Odesa on the Black Sea.",
+      "zh": "报道称，黑海沿岸的敖德萨有数十万人断电。"
+    },
+    {
+      "id": 17,
+      "startMs": 109580,
+      "endMs": 114460,
+      "en": "Oleksandr Kolosiyuk from the emergency services there described what happened.",
+      "zh": "当地应急部门的奥列克桑德尔·科洛西尤克描述了事发经过。"
+    },
+    {
+      "id": 18,
+      "startMs": 114460,
+      "endMs": 122300,
+      "en": "Throughout the night, Russia carried out a massive attack on Odesa and the region.",
+      "zh": "整晚，俄罗斯对敖德萨及其所在地区发动了大规模袭击。"
+    },
+    {
+      "id": 19,
+      "startMs": 123020,
+      "endMs": 126620,
+      "en": "Residential buildings and energy infrastructure came under attack.",
+      "zh": "住宅楼和能源基础设施遭到攻击。"
+    },
+    {
+      "id": 20,
+      "startMs": 127500,
+      "endMs": 130060,
+      "en": "A 24-storey residential building was hit.",
+      "zh": "一栋24层住宅楼被击中。"
+    },
+    {
+      "id": 21,
+      "startMs": 130700,
+      "endMs": 132940,
+      "en": "The blasts also damaged nearby parked cars.",
+      "zh": "爆炸还损坏了附近停放的汽车。"
+    },
+    {
+      "id": 22,
+      "startMs": 133340,
+      "endMs": 140540,
+      "en": "So, more attacks both in Ukraine and, it seems, on NATO member states, this time Germany.",
+      "zh": "所以，乌克兰和北约成员国似乎都遭遇了更多袭击，这次是德国。"
+    },
+    {
+      "id": 23,
+      "startMs": 141020,
+      "endMs": 145100,
+      "en": "But amidst all the protesting, what are Western leaders actually going to do?",
+      "zh": "但在一片抗议声中，西方领导人究竟打算怎么做？"
+    },
+    {
+      "id": 24,
+      "startMs": 145580,
+      "endMs": 149900,
+      "en": "A question I put to our diplomatic correspondent James Landale, who's in Kyiv.",
+      "zh": "我把这个问题交给了正在基辅的外交事务记者詹姆斯·兰代尔。"
+    },
+    {
+      "id": 25,
+      "startMs": 150460,
+      "endMs": 157580,
+      "en": "I think initially what they're trying to do is to be more explicit in trying to attribute responsibility to Russia",
+      "zh": "我认为，起初他们试图更明确地把责任归于俄罗斯，"
+    },
+    {
+      "id": 26,
+      "startMs": 157740,
+      "endMs": 161340,
+      "en": "for alleged actions against Western countries.",
+      "zh": "针对西方国家的这些行为目前仍只是指称。"
+    },
+    {
+      "id": 27,
+      "startMs": 161340,
+      "endMs": 168220,
+      "en": "The so-called hybrid war, one of the key defining characteristics is that a lot of the actions are unattributable.",
+      "zh": "所谓的混合战，其关键特征之一是，许多行动无法确定责任方。"
+    },
+    {
+      "id": 28,
+      "startMs": 168300,
+      "endMs": 171500,
+      "en": "It's unclear who was responsible. Was it a Russian proxy?",
+      "zh": "目前不清楚责任在谁。是俄罗斯的代理人吗？"
+    },
+    {
+      "id": 29,
+      "startMs": 172060,
+      "endMs": 176540,
+      "en": "Was it, you know, we got mysterious parcels exploding in warehouses.",
+      "zh": "比如，我们曾遇到神秘包裹在仓库里爆炸。"
+    },
+    {
+      "id": 30,
+      "startMs": 176540,
+      "endMs": 179020,
+      "en": "You've got cyber attacks, information campaigns.",
+      "zh": "还有网络攻击和信息宣传活动。"
+    },
+    {
+      "id": 31,
+      "startMs": 179340,
+      "endMs": 182860,
+      "en": "Where are they coming from? That's the space in which Russia is accused of operating.",
+      "zh": "它们来自哪里？这正是俄罗斯被指控活动的领域。"
+    },
+    {
+      "id": 32,
+      "startMs": 183420,
+      "endMs": 188800,
+      "en": "And I think what we're seeing is a clear attempt with Germany, and now the EU and NATO wading in behind it,",
+      "zh": "我认为，我们看到的是德国，以及如今跟进的欧盟和北约，正明确试图，"
+    },
+    {
+      "id": 33,
+      "startMs": 188800,
+      "endMs": 192640,
+      "en": "is to say, well, on this case, the alleged attack on Leipzig Airport.",
+      "zh": "就莱比锡机场这起所谓袭击表明，"
+    },
+    {
+      "id": 34,
+      "startMs": 193280,
+      "endMs": 197680,
+      "en": "They are trying to attribute responsibility by saying, \"Look, there is clear evidence that Russia was behind this.\"",
+      "zh": "他们正试图通过这句话归责：“看，有明确证据表明俄罗斯是幕后黑手。”"
+    },
+    {
+      "id": 35,
+      "startMs": 198240,
+      "endMs": 203040,
+      "en": "Essentially to try and impose greater cost on Russia, to try and deter future attacks.",
+      "zh": "本质上是为了提高俄罗斯的代价，遏制未来的袭击。"
+    },
+    {
+      "id": 36,
+      "startMs": 203360,
+      "endMs": 209360,
+      "en": "But what are they actually going to do? I mean, yes, attributing it to Russia, not mincing their words or beating around the bush, but",
+      "zh": "但他们究竟要怎么做？我的意思是，把责任归于俄罗斯并不拐弯抹角，但"
+    },
+    {
+      "id": 37,
+      "startMs": 209360,
+      "endMs": 212080,
+      "en": "is there any action that they promise they'll actually take now?",
+      "zh": "他们现在是否承诺会采取实际行动？"
+    },
+    {
+      "id": 38,
+      "startMs": 212720,
+      "endMs": 217760,
+      "en": "In the short term, there will be, you know, diplomatic maneuverings. Various Russian ambassadors will be summoned.",
+      "zh": "短期内会有外交层面的行动。俄罗斯驻各国大使将被传召。"
+    },
+    {
+      "id": 39,
+      "startMs": 217760,
+      "endMs": 222480,
+      "en": "I think relations between Germany and Russia will deteriorate. There'll be a pulling back.",
+      "zh": "我认为德俄关系会恶化，双方会有所退缩。"
+    },
+    {
+      "id": 40,
+      "startMs": 222560,
+      "endMs": 227200,
+      "en": "There'll be, you know, any kind of, you know, cultural connections they might be damaged by it.",
+      "zh": "各种文化联系也可能因此受损。"
+    },
+    {
+      "id": 41,
+      "startMs": 227680,
+      "endMs": 237760,
+      "en": "But in the longer term, I think the interesting question is whether or not any European nations use this to try and galvanize greater support for Ukraine.",
+      "zh": "但从长远看，关键问题是欧洲国家是否会借此争取更多对乌克兰的支持。"
+    },
+    {
+      "id": 42,
+      "startMs": 238160,
+      "endMs": 242160,
+      "en": "Because at the moment, so, for example, there is more talk about having another look at",
+      "zh": "因为目前，例如，越来越多人讨论重新审视，"
+    },
+    {
+      "id": 43,
+      "startMs": 242720,
+      "endMs": 249440,
+      "en": "whether or not European nations can use all those frozen Russian assets that are trapped largely in Belgian financial institutions.",
+      "zh": "欧洲国家是否能利用那些被冻结、主要困在比利时金融机构的俄罗斯资产。"
+    },
+    {
+      "id": 44,
+      "startMs": 250080,
+      "endMs": 256480,
+      "en": "Can they get a greater unity within Europe to use those, to exploit that money to support Ukraine?",
+      "zh": "欧洲内部能否形成更大共识，利用并变现这些资金来支持乌克兰？"
+    },
+    {
+      "id": 45,
+      "startMs": 256880,
+      "endMs": 260960,
+      "en": "Beforehand, Europe's been pretty divided on that. So I think it'll be interesting to see in coming days",
+      "zh": "此前欧洲在这件事上相当分裂。因此，未来几天值得关注，"
+    },
+    {
+      "id": 46,
+      "startMs": 261440,
+      "endMs": 268960,
+      "en": "how various European nations use this greater unity against Russia to actually have policy decisions as a result.",
+      "zh": "欧洲各国将如何利用这种对俄共识，最终作出政策决定。"
+    },
+    {
+      "id": 47,
+      "startMs": 269200,
+      "endMs": 274080,
+      "en": "What's going on in Kyiv where you are? We've heard of sirens, we've heard reports of explosions there.",
+      "zh": "你所在的基辅情况如何？我们听到了警报声，也听到了那里发生爆炸的报道。"
+    },
+    {
+      "id": 48,
+      "startMs": 274960,
+      "endMs": 279280,
+      "en": "Well, there's another alert going on right now at the moment. There've been alerts all morning.",
+      "zh": "现在又响起了警报。整个上午一直都有警报。"
+    },
+    {
+      "id": 49,
+      "startMs": 279680,
+      "endMs": 284480,
+      "en": "We've spent the day so far going around seeing some of the outcome of those strikes.",
+      "zh": "到目前为止，我们一直在四处查看那些袭击造成的后果。"
+    },
+    {
+      "id": 50,
+      "startMs": 284480,
+      "endMs": 287920,
+      "en": "We've seen strikes pretty close down the road from where we are here.",
+      "zh": "我们看到，离我们所在位置不远的路边就遭到了袭击。"
+    },
+    {
+      "id": 51,
+      "startMs": 288320,
+      "endMs": 291200,
+      "en": "A building quite close to the centre was hit.",
+      "zh": "一栋离市中心很近的建筑被击中。"
+    },
+    {
+      "id": 52,
+      "startMs": 291280,
+      "endMs": 294480,
+      "en": "We know that a university has been hit in the city here.",
+      "zh": "我们知道，这座城市里的一所大学也遭到了袭击。"
+    },
+    {
+      "id": 53,
+      "startMs": 294880,
+      "endMs": 300960,
+      "en": "We've also been to see a customs warehouse that was struck, with clouds of smoke pouring out.",
+      "zh": "我们还去看了一座遭到袭击、浓烟滚滚的海关仓库。"
+    },
+    {
+      "id": 54,
+      "startMs": 301360,
+      "endMs": 306320,
+      "en": "In other words, this is day seven of consecutive Russian daytime attacks. It's their new tactic.",
+      "zh": "换句话说，这已经是俄罗斯连续第七天在白天发动袭击。这是他们的新战术。"
+    },
+    {
+      "id": 55,
+      "startMs": 306720,
+      "endMs": 308320,
+      "en": "James Landale in Kyiv.",
+      "zh": "詹姆斯·兰代尔在基辅的报道。"
+    },
+    {
+      "id": 56,
+      "startMs": 308960,
+      "endMs": 317520,
+      "en": "So the ship has arrived in port. Its crew are finally walking on dry land once again, after a record 250 days at sea.",
+      "zh": "这艘船抵达了港口，船员在创纪录地航行250天后终于再次踏上陆地。"
+    },
+    {
+      "id": 57,
+      "startMs": 317600,
+      "endMs": 324560,
+      "en": "The US aircraft carrier, the Abraham Lincoln, is in Thailand. It was serving as part of the US force attacking Iran",
+      "zh": "美国“亚伯拉罕·林肯”号航空母舰目前在泰国。它此前是美国对伊朗作战部队的一部分。"
+    },
+    {
+      "id": 58,
+      "startMs": 325040,
+      "endMs": 329040,
+      "en": "but the carrier's ever-lengthening deployment became a political issue itself",
+      "zh": "但这艘航母不断延长的部署本身成了一个政治问题。"
+    },
+    {
+      "id": 59,
+      "startMs": 329520,
+      "endMs": 334400,
+      "en": "with reports that sailors weren't getting the most basic supplies, like soap and toothpaste.",
+      "zh": "有报道称，水手们连肥皂、牙膏等最基本的物资都拿不到。"
+    },
+    {
+      "id": 60,
+      "startMs": 334980,
+      "endMs": 340020,
+      "en": "There apparently wasn't even enough food on board. For some sailors, it was apparently too much",
+      "zh": "船上似乎甚至没有足够的食物。对一些水手来说，这种情况显然难以承受。"
+    },
+    {
+      "id": 61,
+      "startMs": 340100,
+      "endMs": 344980,
+      "en": "according to Natalie Oliverio, the Pentagon correspondent for the Military Times.",
+      "zh": "《军事时报》五角大楼记者娜塔莉·奥利维里奥这样说。"
+    },
+    {
+      "id": 62,
+      "startMs": 345300,
+      "endMs": 352260,
+      "en": "There have been several reports of sailors attempting to jump overboard, some for alleged suicide attempts",
+      "zh": "有几份报道称，水手曾试图跳船，其中一些据称是企图自杀。"
+    },
+    {
+      "id": 63,
+      "startMs": 352340,
+      "endMs": 355860,
+      "en": "others for alleged cries for help, so to speak.",
+      "zh": "另一些人则据称是在呼救——可以这么说。"
+    },
+    {
+      "id": 64,
+      "startMs": 356180,
+      "endMs": 360980,
+      "en": "So you're looking at people who have been inside the interior parts of the ship",
+      "zh": "也就是说，这些人一直待在船舱内部。"
+    },
+    {
+      "id": 65,
+      "startMs": 361140,
+      "endMs": 365220,
+      "en": "for nearly nine months straight. So without seeing land",
+      "zh": "将近整整九个月。因此，他们看不到陆地，"
+    },
+    {
+      "id": 66,
+      "startMs": 365220,
+      "endMs": 368660,
+      "en": "without stopping, without having any time off at all",
+      "zh": "无法停靠，也完全没有休息时间，"
+    },
+    {
+      "id": 67,
+      "startMs": 368980,
+      "endMs": 371380,
+      "en": "they've really been burning the candle at both ends.",
+      "zh": "他们真的已经被压榨到了极限。"
+    },
+    {
+      "id": 68,
+      "startMs": 371460,
+      "endMs": 376020,
+      "en": "The Navy's own plan says that every 36 months,",
+      "zh": "美国海军自己的计划规定，每36个月，"
+    },
+    {
+      "id": 69,
+      "startMs": 376500,
+      "endMs": 383460,
+      "en": "only eight months be spent deployed out at sea, so that everything can stay on course.",
+      "zh": "在海上的部署时间只能有8个月，以确保一切按计划运行。"
+    },
+    {
+      "id": 70,
+      "startMs": 383540,
+      "endMs": 390820,
+      "en": "But with the USS Gerald R. Ford and now the USS Abraham Lincoln, those deployments are now being stretched,",
+      "zh": "但“杰拉尔德·R·福特”号以及如今的“亚伯拉罕·林肯”号，都在不断延长部署时间，"
+    },
+    {
+      "id": 71,
+      "startMs": 390900,
+      "endMs": 394580,
+      "en": "meaning that maintenance is being stretched, repairs are being pushed back.",
+      "zh": "这意味着维护周期被拉长，维修也被推迟。"
+    },
+    {
+      "id": 72,
+      "startMs": 395000,
+      "endMs": 398200,
+      "en": "And sailors are being overextended past their threshold.",
+      "zh": "水手们也被过度使用，超出了自身承受限度。"
+    },
+    {
+      "id": 73,
+      "startMs": 398600,
+      "endMs": 402200,
+      "en": "The Abraham Lincoln has docked close to the Thai resort of Pattaya,",
+      "zh": "“亚伯拉罕·林肯”号已停靠在泰国度假胜地芭堤雅附近，"
+    },
+    {
+      "id": 74,
+      "startMs": 402680,
+      "endMs": 407000,
+      "en": "which has long been a place where American service members go to drink, to carouse",
+      "zh": "那里长期以来都是美国军人饮酒、寻欢作乐的地方。"
+    },
+    {
+      "id": 75,
+      "startMs": 407000,
+      "endMs": 411400,
+      "en": "and let's be honest, the town has long had a thriving sex industry.",
+      "zh": "说实话，这座城镇长期以来都有兴旺的性产业。"
+    },
+    {
+      "id": 76,
+      "startMs": 411880,
+      "endMs": 418360,
+      "en": "That said, at least one American sailor, when asked by reporters, said that he had different sightseeing priorities.",
+      "zh": "不过，至少有一名美国水手在接受记者询问时表示，自己有不同的观光计划。"
+    },
+    {
+      "id": 77,
+      "startMs": 418840,
+      "endMs": 424760,
+      "en": "First time visiting. I'm excited to see around what the culture's like, go see some temples, go relax.",
+      "zh": "这是我第一次来。我很期待四处了解这里的文化，去看看寺庙，放松一下。"
+    },
+    {
+      "id": 78,
+      "startMs": 425000,
+      "endMs": 429240,
+      "en": "The BBC's Southeast Asia correspondent Jonathan Head is in Pattaya",
+      "zh": "BBC东南亚记者乔纳森·黑德正在芭堤雅，"
+    },
+    {
+      "id": 79,
+      "startMs": 429800,
+      "endMs": 434200,
+      "en": "and told us what the atmosphere was like as this new cohort turned up for shore leave.",
+      "zh": "他告诉我们，这批新船员上岸休假时，当地气氛如何。"
+    },
+    {
+      "id": 80,
+      "startMs": 434760,
+      "endMs": 436920,
+      "en": "It's as chill as it always is in Pattaya.",
+      "zh": "芭堤雅一如既往地轻松。"
+    },
+    {
+      "id": 81,
+      "startMs": 437000,
+      "endMs": 443080,
+      "en": "Look, this city absorbs so many different kinds of people from around the world, from all ends, all kinds of activities.",
+      "zh": "这个城市接纳来自世界各地、形形色色的人，也容纳各种活动。"
+    },
+    {
+      "id": 82,
+      "startMs": 443400,
+      "endMs": 452680,
+      "en": "They're pretty confident that they can accommodate 5,000 US sailors, who are under a certain amount of sort of regulation by their officers.",
+      "zh": "他们相信，自己能够接待5000名美国水手；这些水手受到军官一定程度的管理。"
+    },
+    {
+      "id": 83,
+      "startMs": 452680,
+      "endMs": 454440,
+      "en": "There are places that they're being told not to go.",
+      "zh": "有些地方，他们被告知不得前往。"
+    },
+    {
+      "id": 84,
+      "startMs": 455020,
+      "endMs": 457580,
+      "en": "They've been told to follow, you know, the normal code of conduct.",
+      "zh": "他们也被告知要遵守通常的行为准则。"
+    },
+    {
+      "id": 85,
+      "startMs": 457820,
+      "endMs": 463980,
+      "en": "We've seen quite a lot of them around. They're very conspicuous, walking around, most of them carrying quite big backpacks, looking a bit lost.",
+      "zh": "我们在附近看到不少人。他们走来走去十分显眼，大多背着很大的背包，看起来有点迷茫。"
+    },
+    {
+      "id": 86,
+      "startMs": 464220,
+      "endMs": 469660,
+      "en": "The mayor has told us there are three streets, not very far from here, just a bit further back going off, very famous:",
+      "zh": "市长告诉我们，离这里不远、再往后面一点的地方有三条街，非常有名："
+    },
+    {
+      "id": 87,
+      "startMs": 469980,
+      "endMs": 474540,
+      "en": "Soi 6, Soi 6/1, and Soi 7, which are famous for their go-go bars.",
+      "zh": "6巷、6/1巷和7巷，这些街道以脱衣舞酒吧闻名。"
+    },
+    {
+      "id": 88,
+      "startMs": 474540,
+      "endMs": 477580,
+      "en": "And you know, we've just driven down it a short while ago.",
+      "zh": "就在不久前，我们还开车从那里经过。"
+    },
+    {
+      "id": 89,
+      "startMs": 477820,
+      "endMs": 482460,
+      "en": "It's absolutely packed with rather scantily clad women who are obviously plying their trade.",
+      "zh": "那里挤满了衣着相当暴露、显然正在招揽生意的女性。"
+    },
+    {
+      "id": 90,
+      "startMs": 482460,
+      "endMs": 485580,
+      "en": "I mean, prostitution is notionally illegal in Thailand.",
+      "zh": "我的意思是，卖淫在泰国名义上是非法的。"
+    },
+    {
+      "id": 91,
+      "startMs": 485580,
+      "endMs": 494460,
+      "en": "It's something the police have reminded the US crews, but in practice, we think there are probably 25,000 to 50,000 sex workers in this city.",
+      "zh": "警方提醒过美国船员这一点，但实际上，我们认为这座城市可能有2.5万至5万名性工作者。"
+    },
+    {
+      "id": 92,
+      "startMs": 494460,
+      "endMs": 498300,
+      "en": "They're not allowed to go to that street. Now I don't know how strictly they'll police that.",
+      "zh": "他们不被允许去那条街。我不知道这项规定会被执行得多严格。"
+    },
+    {
+      "id": 93,
+      "startMs": 498620,
+      "endMs": 503020,
+      "en": "They can go to Pattaya's famous Walking Street, which is pretty racy as well.",
+      "zh": "他们可以去芭堤雅著名的步行街，那里同样相当火辣。"
+    },
+    {
+      "id": 94,
+      "startMs": 503020,
+      "endMs": 507900,
+      "en": "Very colourful, lots of neon lights, all kinds of different bars and restaurants there.",
+      "zh": "那里色彩斑斓、霓虹灯遍布，还有各种各样的酒吧和餐馆。"
+    },
+    {
+      "id": 95,
+      "startMs": 508140,
+      "endMs": 512460,
+      "en": "When that starts up just after sundown, it's a very, very vibrant scene.",
+      "zh": "日落后不久，那里就会变得极其热闹。"
+    },
+    {
+      "id": 96,
+      "startMs": 512700,
+      "endMs": 518880,
+      "en": "But in general, I think most of the city is open to them. They're not allowed to use the cannabis shops. There are a lot of those here now.",
+      "zh": "但总的来说，我认为这座城市大部分地方都对他们开放。不过，他们不被允许去大麻商店，如今这里有很多这种商店。"
+    },
+    {
+      "id": 97,
+      "startMs": 519280,
+      "endMs": 525280,
+      "en": "And offshore in the sea here, you can go, there's lots of sea sports like parasailing and jet skiing. They're not supposed to do that either.",
+      "zh": "在近海也可以参加很多水上运动，比如滑翔伞和水上摩托；不过他们也不该参加这些活动。"
+    },
+    {
+      "id": 98,
+      "startMs": 525760,
+      "endMs": 532560,
+      "en": "Jonathan Head. And in our earlier podcast, we inadvertently referred to those on board the Abraham Lincoln as servicemen.",
+      "zh": "乔纳森·黑德。我们早期节目无意中把“亚伯拉罕·林肯”号上的人员称作男性军人。"
+    },
+    {
+      "id": 99,
+      "startMs": 533120,
+      "endMs": 538560,
+      "en": "Our listener Amelia Gough emailed to point out, correctly, that the crew is not just comprised of men.",
+      "zh": "听众阿米莉娅·高夫发邮件正确指出，船员并不只有男性。"
+    },
+    {
+      "id": 100,
+      "startMs": 539040,
+      "endMs": 542240,
+      "en": "She said she was disappointed to hear such exclusive language.",
+      "zh": "她说，听到这种排他的措辞让她很失望。"
+    },
+    {
+      "id": 101,
+      "startMs": 542240,
+      "endMs": 545360,
+      "en": "Amelia, you're right, and we'll pay more attention in the future.",
+      "zh": "阿米莉娅，你说得对。今后我们会更加注意。"
+    },
+    {
+      "id": 102,
+      "startMs": 546080,
+      "endMs": 552880,
+      "en": "Now, as I mentioned earlier, the Abraham Lincoln had been deployed to the Persian Gulf as part of the US forces attacking Iran.",
+      "zh": "正如我之前提到的，“亚伯拉罕·林肯”号已部署到波斯湾，作为攻击伊朗的美军力量之一。"
+    },
+    {
+      "id": 103,
+      "startMs": 552880,
+      "endMs": 557040,
+      "en": "While that ship may have departed, the conflict there has flared up.",
+      "zh": "尽管那艘航母可能已经离开，那里冲突却再度升级。"
+    },
+    {
+      "id": 104,
+      "startMs": 557360,
+      "endMs": 560480,
+      "en": "Once again, the US has struck targets in southern Iran.",
+      "zh": "美国再次打击了伊朗南部的目标。"
+    },
+    {
+      "id": 105,
+      "startMs": 560720,
+      "endMs": 567760,
+      "en": "Iran then retaliated, as it has before, by attacking American bases in the region, this time in Jordan and Iraq.",
+      "zh": "伊朗随后像此前一样发动报复，袭击该地区的美国基地，这次是在约旦和伊拉克。"
+    },
+    {
+      "id": 106,
+      "startMs": 568240,
+      "endMs": 574560,
+      "en": "Kuwait has said residential buildings there had been hit by Iranian drones, though without any injuries resulting.",
+      "zh": "科威特称，当地住宅楼遭伊朗无人机击中，但没有造成人员受伤。"
+    },
+    {
+      "id": 107,
+      "startMs": 574980,
+      "endMs": 581620,
+      "en": "Meanwhile, Iran's foreign ministry has described a US strike on a wedding in the south of the country as a war crime.",
+      "zh": "与此同时，伊朗外交部称，美国对该国南部一场婚礼的袭击是战争罪。"
+    },
+    {
+      "id": 108,
+      "startMs": 582180,
+      "endMs": 588100,
+      "en": "The Iranian Red Crescent says shrapnel from the attack killed five people and injured dozens more.",
+      "zh": "伊朗红新月会称，袭击产生的弹片造成5人死亡、数十人受伤。"
+    },
+    {
+      "id": 109,
+      "startMs": 588340,
+      "endMs": 591460,
+      "en": "The Pentagon has insisted it doesn't target civilians.",
+      "zh": "五角大楼坚称，他们不会把平民作为目标。"
+    },
+    {
+      "id": 110,
+      "startMs": 591860,
+      "endMs": 600740,
+      "en": "I spoke about this to our Middle East correspondent Yolande Knell in Jerusalem. She says this latest round of fighting could mark a return to all-out hostilities.",
+      "zh": "我就此采访了在耶路撒冷的中东记者约兰德·克内尔。她说，最新一轮战斗可能意味着全面敌对状态重现。"
+    },
+    {
+      "id": 111,
+      "startMs": 601220,
+      "endMs": 606180,
+      "en": "It looks like that pause that lasted about a month in open warfare between the US and Iran is over.",
+      "zh": "看来，美国和伊朗公开交战持续约一个月的停歇已经结束。"
+    },
+    {
+      "id": 112,
+      "startMs": 606580,
+      "endMs": 609300,
+      "en": "This looks like a serious military escalation.",
+      "zh": "这看起来是一次严重的军事升级。"
+    },
+    {
+      "id": 113,
+      "startMs": 609540,
+      "endMs": 612740,
+      "en": "The Iranians are saying that they also attacked the United Arab Emirates.",
+      "zh": "伊朗方面称，他们还袭击了阿拉伯联合酋长国。"
+    },
+    {
+      "id": 114,
+      "startMs": 612740,
+      "endMs": 617220,
+      "en": "Already, we'd been hearing that Jordan, Bahrain, northern Iraq and Kuwait had all reported Iranian attacks.",
+      "zh": "此前我们已经听说，约旦、巴林、伊拉克北部和科威特都报告遭到伊朗袭击。"
+    },
+    {
+      "id": 115,
+      "startMs": 617460,
+      "endMs": 624260,
+      "en": "Those attacks were in response to the latest US attacks on Iran.",
+      "zh": "这些袭击是对美国最近攻击伊朗的回应。"
+    },
+    {
+      "id": 116,
+      "startMs": 624500,
+      "endMs": 631220,
+      "en": "Of course, those countries are all US allies in the region, and they have US military bases there.",
+      "zh": "当然，这些国家都是美国在该地区的盟友，并设有美国军事基地。"
+    },
+    {
+      "id": 117,
+      "startMs": 631540,
+      "endMs": 640200,
+      "en": "Now, there are reports coming from the Iranian Revolutionary Guard that four of its personnel were killed in the latest US strikes.",
+      "zh": "现在，伊朗革命卫队方面传出消息称，其4名人员在美国最近的袭击中丧生。"
+    },
+    {
+      "id": 118,
+      "startMs": 640440,
+      "endMs": 647240,
+      "en": "That's after local officials and the Iranian Red Crescent had said there were about a dozen people who were killed.",
+      "zh": "此前，当地官员和伊朗红新月会称，约有12人死亡。"
+    },
+    {
+      "id": 119,
+      "startMs": 647240,
+      "endMs": 651560,
+      "en": "Those people were killed in the south of the country, including those who were at this wedding.",
+      "zh": "死者位于该国南部，其中包括参加这场婚礼的人。"
+    },
+    {
+      "id": 120,
+      "startMs": 651960,
+      "endMs": 662520,
+      "en": "And as the US has been saying, it was targeting military assets, including air defenses and radar capabilities.",
+      "zh": "美国一直称其目标是军事设施，包括防空系统和雷达能力。"
+    },
+    {
+      "id": 121,
+      "startMs": 662840,
+      "endMs": 669480,
+      "en": "The Iranian media reports have really been emphasizing how there were also civilian targets that were hit.",
+      "zh": "伊朗媒体的报道则着重强调，也有民用目标遭到击中。"
+    },
+    {
+      "id": 122,
+      "startMs": 669960,
+      "endMs": 678120,
+      "en": "They include a fishmeal factory, a civilian airport and this house in the south of Iran close to the Strait of Hormuz.",
+      "zh": "这些目标包括一家鱼粉厂、一座民用机场，以及伊朗南部靠近霍尔木兹海峡的这栋房屋。"
+    },
+    {
+      "id": 123,
+      "startMs": 678200,
+      "endMs": 681400,
+      "en": "People were killed there, including this child at the wedding.",
+      "zh": "那里有人死亡，包括婚礼上的这名儿童。"
+    },
+    {
+      "id": 124,
+      "startMs": 681800,
+      "endMs": 687320,
+      "en": "Now, from both sides, what we're seeing are stronger attacks than we've seen even at the weekend.",
+      "zh": "现在，双方的攻击比周末时更猛烈。"
+    },
+    {
+      "id": 125,
+      "startMs": 687480,
+      "endMs": 690360,
+      "en": "At the weekend, we had that first exchange of fire in a month.",
+      "zh": "周末时，双方发生了一个月来的首次交火。"
+    },
+    {
+      "id": 126,
+      "startMs": 690360,
+      "endMs": 696060,
+      "en": "And we're seeing more widespread attacks coming from Iran in retaliation, too, with lots of strong rhetoric.",
+      "zh": "我们也看到伊朗发动更广泛的报复性袭击，同时双方言辞都很强硬。"
+    },
+    {
+      "id": 127,
+      "startMs": 696620,
+      "endMs": 702460,
+      "en": "What is the US saying about the suggestion that its attacks killed five people at a wedding?",
+      "zh": "对于袭击在婚礼上造成5人死亡这一说法，美国怎么说？"
+    },
+    {
+      "id": 128,
+      "startMs": 703340,
+      "endMs": 708620,
+      "en": "The US has acknowledged that there are reports about this, but it says it never targets civilians.",
+      "zh": "美国承认有关于此事的报道，但称自己从不以平民为目标。"
+    },
+    {
+      "id": 129,
+      "startMs": 708940,
+      "endMs": 712380,
+      "en": "It pointedly added: unlike the Revolutionary Guards.",
+      "zh": "美国还特意补充说：不像革命卫队。"
+    },
+    {
+      "id": 130,
+      "startMs": 712540,
+      "endMs": 718860,
+      "en": "So this is a new development, quite a large number of people who have been killed in these latest strikes.",
+      "zh": "所以这是一个新进展：据报道，最近的袭击造成了相当多人员死亡。"
+    },
+    {
+      "id": 131,
+      "startMs": 719180,
+      "endMs": 722060,
+      "en": "That's according to the reports we're getting from the Iranian side.",
+      "zh": "这是根据我们从伊朗方面得到的报道。"
+    },
+    {
+      "id": 132,
+      "startMs": 722300,
+      "endMs": 728460,
+      "en": "Iran is also claiming that it's killed a number of US soldiers. Have the US authorities said anything about that?",
+      "zh": "伊朗还声称杀死了一些美国士兵。美国当局对此有何说法？"
+    },
+    {
+      "id": 133,
+      "startMs": 728780,
+      "endMs": 738060,
+      "en": "So far, the initial reports coming from US officials are that there have not been US service personnel killed in Jordan, as Iran is claiming.",
+      "zh": "目前，美国官员传出的初步消息是，约旦没有美国军方人员死亡，与伊朗的说法不同。"
+    },
+    {
+      "id": 134,
+      "startMs": 738060,
+      "endMs": 741500,
+      "en": "They're saying that their initial reports are that there are no casualties in that case.",
+      "zh": "他们称，初步报告显示那起事件没有人员伤亡。"
+    },
+    {
+      "id": 135,
+      "startMs": 741500,
+      "endMs": 747660,
+      "en": "And we had the Jordanian Armed Forces coming out saying that they had intercepted missiles that were fired at the country.",
+      "zh": "约旦武装部队也表示，他们拦截了射向该国的导弹。"
+    },
+    {
+      "id": 136,
+      "startMs": 747660,
+      "endMs": 754380,
+      "en": "There is video showing, apparently, one of those interceptions over the Jordanian southern port of Aqaba.",
+      "zh": "一段视频显然显示了其中一次拦截，地点在约旦南部港口亚喀巴上空。"
+    },
+    {
+      "id": 137,
+      "startMs": 754880,
+      "endMs": 762720,
+      "en": "We have previously seen the United States and Iran exchanging attacks, and yet negotiations continuing.",
+      "zh": "此前我们也见过美国和伊朗相互攻击，但谈判仍在继续。"
+    },
+    {
+      "id": 138,
+      "startMs": 763360,
+      "endMs": 770400,
+      "en": "Is that happening now, do you think? Or is this a sign that we're back to full-scale conflict with no prospect of any kind of peace agreement?",
+      "zh": "你认为现在仍是这样吗？还是说这表明我们已重回全面冲突，任何和平协议都没有希望？"
+    },
+    {
+      "id": 139,
+      "startMs": 770560,
+      "endMs": 779040,
+      "en": "Well, interestingly, Pakistan, which has been such a key mediator between the US and Iran, has come out saying it remains engaged.",
+      "zh": "有意思的是，巴基斯坦一直是美国和伊朗之间的重要调解方；它表示仍在参与其中。"
+    },
+    {
+      "id": 140,
+      "startMs": 779360,
+      "endMs": 784960,
+      "en": "It remains engaged in talks to end the conflict. It remains positive that the two sides will return to dialogue.",
+      "zh": "巴基斯坦仍在参与结束冲突的谈判，并乐观认为双方会重回对话。"
+    },
+    {
+      "id": 141,
+      "startMs": 784960,
+      "endMs": 794880,
+      "en": "But the message coming from President Trump, when he was talking to Fox News, was really that he was not trying to push Iran to go back to the negotiation table.",
+      "zh": "但特朗普总统接受福克斯新闻采访时传达的信息是，他并不打算推动伊朗重返谈判桌。"
+    },
+    {
+      "id": 142,
+      "startMs": 794880,
+      "endMs": 799280,
+      "en": "He said, 'I think an agreement with them is not worth the paper it's written on.'",
+      "zh": "他说：“我认为，与他们达成的协议连写它的那张纸都不值。”"
+    },
+    {
+      "id": 143,
+      "startMs": 799280,
+      "endMs": 805840,
+      "en": "And writing on Truth Social, his platform on social media, he said, 'When are the Iranian people going to rise up and fight?'",
+      "zh": "他还在自己的社交媒体平台Truth Social上写道：“伊朗人民什么时候才会起来战斗？”"
+    },
+    {
+      "id": 144,
+      "startMs": 805840,
+      "endMs": 811680,
+      "en": "As though he's looking back to an uprising in Iran, the prospects of possible regime change.",
+      "zh": "这仿佛是在回望伊朗的一场起义，以及政权更迭的可能性。"
+    },
+    {
+      "id": 145,
+      "startMs": 812080,
+      "endMs": 817940,
+      "en": "When the Iranian President Masoud Pezeshkian was speaking ahead of the latest US attacks on Iran,",
+      "zh": "伊朗总统马苏德·佩泽希齐扬在美国最近袭击伊朗前发表讲话时，"
+    },
+    {
+      "id": 146,
+      "startMs": 817940,
+      "endMs": 827780,
+      "en": "he did say that Tehran was ready to return to that Memorandum of Understanding that was signed in June between the US and Tehran.",
+      "zh": "确实表示德黑兰准备回到那份6月由美国和德黑兰签署的谅解备忘录。"
+    },
+    {
+      "id": 147,
+      "startMs": 828100,
+      "endMs": 834500,
+      "en": "Of course, that fell apart quite quickly, but he said that Iran was ready to go back to that if Washington would follow suit.",
+      "zh": "当然，那份备忘录很快就破裂了，但他说，如果华盛顿采取同样行动，伊朗准备回到那份协议上。"
+    },
+    {
+      "id": 148,
+      "startMs": 834980,
+      "endMs": 841460,
+      "en": "Yolande Knell. Now, every year, nearly a quarter of a million people worldwide die from cancer of the bladder.",
+      "zh": "约兰德·克内尔。现在，全球每年有近25万人死于膀胱癌。"
+    },
+    {
+      "id": 149,
+      "startMs": 841940,
+      "endMs": 847620,
+      "en": "But this is a disease which can be treated, and indeed sometimes cured, if it's caught in time.",
+      "zh": "但这种疾病如果及时发现可以治疗，有时甚至能够治愈。"
+    },
+    {
+      "id": 150,
+      "startMs": 848180,
+      "endMs": 855380,
+      "en": "Now, an at-home urine test has been developed which, according to a new study, can spot more than nine in ten bladder cancer cases.",
+      "zh": "现在，一项新研究称，一种居家尿液检测已经开发出来，能够发现超过九成的膀胱癌病例。"
+    },
+    {
+      "id": 151,
+      "startMs": 855620,
+      "endMs": 858820,
+      "en": "Our medical editor Fergus Walsh told me how it worked.",
+      "zh": "我们的医学编辑弗格斯·沃尔什向我介绍了它的工作原理。"
+    },
+    {
+      "id": 152,
+      "startMs": 859140,
+      "endMs": 869300,
+      "en": "When you have cancer in the bladder wall, then sometimes cells will break off, fragment off and be shed into the urine.",
+      "zh": "膀胱壁出现癌症时，有时细胞会脱落、碎裂，并随尿液排出。"
+    },
+    {
+      "id": 153,
+      "startMs": 869540,
+      "endMs": 878280,
+      "en": "What this test does is look for something like 450 genetic mutations across 23 genes.",
+      "zh": "这项检测会寻找大约450种分布在23个基因上的基因突变。"
+    },
+    {
+      "id": 154,
+      "startMs": 878520,
+      "endMs": 883320,
+      "en": "These mutations are strongly associated with bladder cancer, and the test looks for them.",
+      "zh": "这些突变与膀胱癌高度相关，检测就是针对它们。"
+    },
+    {
+      "id": 155,
+      "startMs": 883640,
+      "endMs": 893400,
+      "en": "Now, the contrast is that the standard—the gold-standard way of diagnosing bladder cancer—is through what's called a cystoscopy.",
+      "zh": "相比之下，诊断膀胱癌的标准、也是金标准，是所谓的膀胱镜检查。"
+    },
+    {
+      "id": 156,
+      "startMs": 893640,
+      "endMs": 902600,
+      "en": "A camera and instruments go up through the urethra and examine the bladder, and that can be uncomfortable.",
+      "zh": "摄像头和器械经尿道进入，检查膀胱，这可能让人感到不适。"
+    },
+    {
+      "id": 157,
+      "startMs": 903080,
+      "endMs": 910760,
+      "en": "Some people even turn it down, and this would be a noninvasive way of testing for bladder cancer.",
+      "zh": "有些人甚至会拒绝这种检查，而这将是一种无创的膀胱癌检测方式。"
+    },
+    {
+      "id": 158,
+      "startMs": 911160,
+      "endMs": 912600,
+      "en": "So what happens now?",
+      "zh": "那么接下来会怎样？"
+    },
+    {
+      "id": 159,
+      "startMs": 912600,
+      "endMs": 916600,
+      "en": "I think there's going to be a larger survey that's going to be conducted.",
+      "zh": "我想，接下来会开展规模更大的调查。"
+    },
+    {
+      "id": 160,
+      "startMs": 916600,
+      "endMs": 917080,
+      "en": "Is that right?",
+      "zh": "是这样吗？"
+    },
+    {
+      "id": 161,
+      "startMs": 917960,
+      "endMs": 926440,
+      "en": "Yeah, this research has been going on for over a decade at the University of Birmingham, funded by Cancer Research UK.",
+      "zh": "是的，这项研究在伯明翰大学已经进行十多年，由英国癌症研究中心资助。"
+    },
+    {
+      "id": 162,
+      "startMs": 926760,
+      "endMs": 931320,
+      "en": "It was then commercialized through a company called Nonacus in Birmingham.",
+      "zh": "之后通过伯明翰一家名为 Nonacus 的公司实现了商业化。"
+    },
+    {
+      "id": 163,
+      "startMs": 931560,
+      "endMs": 935900,
+      "en": "It's still, in some ways, at the research stage.",
+      "zh": "从某些方面说，它仍处于研究阶段。"
+    },
+    {
+      "id": 164,
+      "startMs": 935980,
+      "endMs": 946380,
+      "en": "Some hospitals in England are already using it, but they're not using it as a replacement for the gold-standard cystoscopy.",
+      "zh": "英格兰一些医院已经在使用它，但目前并没有用它取代金标准的膀胱镜检查。"
+    },
+    {
+      "id": 165,
+      "startMs": 946380,
+      "endMs": 949180,
+      "en": "They're using it alongside it at the moment.",
+      "zh": "目前它只是与膀胱镜检查并行使用。"
+    },
+    {
+      "id": 166,
+      "startMs": 949180,
+      "endMs": 955660,
+      "en": "But if the new trial now under way produces positive results,",
+      "zh": "但如果目前开展的这项新试验结果积极，"
+    },
+    {
+      "id": 167,
+      "startMs": 955660,
+      "endMs": 960700,
+      "en": "then it could spare a lot of people, thousands of people, these invasive tests.",
+      "zh": "那么成千上万的人或许就能免受这些侵入性检查。"
+    },
+    {
+      "id": 168,
+      "startMs": 961020,
+      "endMs": 964220,
+      "en": "Fergus, you've been on this program and others many times, I know,",
+      "zh": "弗格斯，我知道你曾多次参加本节目和其他节目，"
+    },
+    {
+      "id": 169,
+      "startMs": 964380,
+      "endMs": 967820,
+      "en": "talking about developments in the treatment and diagnosis of cancer,",
+      "zh": "谈论癌症治疗和诊断方面的进展，"
+    },
+    {
+      "id": 170,
+      "startMs": 967820,
+      "endMs": 974620,
+      "en": "but it seems like this one really is being cited as a potential game changer, certainly for cancer of the bladder.",
+      "zh": "但这项研究似乎确实被视为可能改变局面的突破，尤其是对膀胱癌而言。"
+    },
+    {
+      "id": 171,
+      "startMs": 974780,
+      "endMs": 983820,
+      "en": "Yes, I think this reflects our direction of travel in genomics. The UK has a very strong record in genetics and genomics.",
+      "zh": "是的，我认为这体现了基因组学的发展方向。英国在遗传学和基因组学方面有着非常出色的成绩。"
+    },
+    {
+      "id": 172,
+      "startMs": 983820,
+      "endMs": 989180,
+      "en": "And, of course, it's already been incorporated in blood tests for some cancers.",
+      "zh": "当然，这已经被应用于一些癌症的血液检测。"
+    },
+    {
+      "id": 173,
+      "startMs": 989420,
+      "endMs": 994940,
+      "en": "Patients with breast cancer, bowel cancer after surgery are often monitored.",
+      "zh": "乳腺癌和肠癌患者在手术后通常会接受监测。"
+    },
+    {
+      "id": 174,
+      "startMs": 994960,
+      "endMs": 1006720,
+      "en": "Now, by looking for what they call circulating tumour DNA in samples of their blood, they can decipher whether or not their cancer has come back.",
+      "zh": "现在，通过在血液样本中寻找所谓的循环肿瘤DNA，就能判断癌症是否复发。"
+    },
+    {
+      "id": 175,
+      "startMs": 1007040,
+      "endMs": 1013040,
+      "en": "So, you know, it makes logical sense to use urine to monitor the bladder.",
+      "zh": "所以，用尿液监测膀胱在逻辑上是合理的。"
+    },
+    {
+      "id": 176,
+      "startMs": 1013040,
+      "endMs": 1019280,
+      "en": "The urine can show whether or not an urgent referral really is urgent because there's cancer there.",
+      "zh": "尿液可以显示紧急转诊是否真的紧急，也就是那里是否存在癌症。"
+    },
+    {
+      "id": 177,
+      "startMs": 1019520,
+      "endMs": 1026640,
+      "en": "Alternatively, it may show that the referral is less urgent, and people may not need to undergo this invasive cystoscopy.",
+      "zh": "或者事实上没那么紧急，人们或许不必接受这种侵入性的膀胱镜检查。"
+    },
+    {
+      "id": 178,
+      "startMs": 1026880,
+      "endMs": 1027920,
+      "en": "Fergus Walsh.",
+      "zh": "弗格斯·沃尔什。"
+    },
+    {
+      "id": 179,
+      "startMs": 1029720,
+      "endMs": 1037880,
+      "en": "Still to come in this podcast: Ariana Grande makes an emotional exit from her tour after announcing she'll step back from public life.",
+      "zh": "本期节目稍后：爱莉安娜·格兰德宣布暂别公众生活后，含泪告别她的巡演。"
+    },
+    {
+      "id": 180,
+      "startMs": 1038200,
+      "endMs": 1044120,
+      "en": "She said that she'll always remember this time with her fans, and that she hopes to see them at some other point.",
+      "zh": "她说，她会永远记得与歌迷共度的这段时光，也希望未来某个时候能再见到他们。"
+    },
+    {
+      "id": 181,
+      "startMs": 1044440,
+      "endMs": 1048600,
+      "en": "She did not mention, though, when she would resume touring.",
+      "zh": "不过，她没有提到何时会恢复巡演。"
+    },
+    {
+      "id": 182,
+      "startMs": 1048600,
+      "endMs": 1050600,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 183,
+      "startMs": 1050600,
+      "endMs": 1059080,
+      "en": "It's been almost a year since the American conservative activist Charlie Kirk was shot and killed at a university event in Utah.",
+      "zh": "美国保守派活动人士查理·柯克在犹他州一场大学活动中遭枪击身亡，至今已近一年。"
+    },
+    {
+      "id": 184,
+      "startMs": 1059080,
+      "endMs": 1062280,
+      "en": "President Trump called the shooting \"a dark moment for America.\"",
+      "zh": "特朗普总统称这起枪击是“美国的黑暗时刻”。"
+    },
+    {
+      "id": 185,
+      "startMs": 1062760,
+      "endMs": 1067560,
+      "en": "On Tuesday, the man accused of this murder, 23-year-old Tyler Robinson, appeared in court",
+      "zh": "星期二，被控谋杀他的23岁男子泰勒·罗宾逊出庭，"
+    },
+    {
+      "id": 186,
+      "startMs": 1067960,
+      "endMs": 1073000,
+      "en": "where he pleaded not guilty to the crime, as well as six other charges in connection with the shooting.",
+      "zh": "他对这项罪名以及与枪击有关的另外六项指控均表示不认罪。"
+    },
+    {
+      "id": 187,
+      "startMs": 1073480,
+      "endMs": 1077080,
+      "en": "A judge has ruled prosecutors can seek the death penalty at trial.",
+      "zh": "法官裁定，检方可以在审判中寻求判处死刑。"
+    },
+    {
+      "id": 188,
+      "startMs": 1077400,
+      "endMs": 1083480,
+      "en": "Ryan McBride from the Utah County Attorney's Office outlined the seriousness of the case as they see it.",
+      "zh": "犹他县检察官办公室的瑞安·麦克布莱德说明了他们眼中这起案件的严重性。"
+    },
+    {
+      "id": 189,
+      "startMs": 1083720,
+      "endMs": 1089400,
+      "en": "Tyler James Robinson shot and killed Charlie Kirk because he disagreed with him.",
+      "zh": "泰勒·詹姆斯·罗宾逊因与查理·柯克意见不合而将其枪杀。"
+    },
+    {
+      "id": 190,
+      "startMs": 1090620,
+      "endMs": 1094700,
+      "en": "And he did it by firing a high-powered rifle into a crowd of over 3,000 people",
+      "zh": "他还用一支大威力步枪向超过3000人的人群开枪，"
+    },
+    {
+      "id": 191,
+      "startMs": 1095900,
+      "endMs": 1099260,
+      "en": "which created a great risk of death that anyone would know about.",
+      "zh": "这显然给人群造成了极大的死亡风险。"
+    },
+    {
+      "id": 192,
+      "startMs": 1099820,
+      "endMs": 1103580,
+      "en": "Tuesday's appearance in court followed nearly a week of legal discussions.",
+      "zh": "星期二的出庭是在近一周法律讨论之后进行的。"
+    },
+    {
+      "id": 193,
+      "startMs": 1103900,
+      "endMs": 1107180,
+      "en": "Following all this was the CBS reporter Jared Hill.",
+      "zh": "CBS记者贾里德·希尔跟进报道了整个过程。"
+    },
+    {
+      "id": 194,
+      "startMs": 1107740,
+      "endMs": 1120460,
+      "en": "Over the past six or so days, there was a pre-trial hearing to decide whether Tyler Robinson could face trial in this shooting and murder case.",
+      "zh": "过去大约六天我们看到的是审前听证，要决定泰勒·罗宾逊能否因这起枪击谋杀案接受审判。"
+    },
+    {
+      "id": 195,
+      "startMs": 1120460,
+      "endMs": 1128620,
+      "en": "and we saw the judge yesterday saying, yes, there was overwhelming evidence that would point to, at least, the allowance of the trial to continue.",
+      "zh": "我们看到法官昨天表示，证据压倒性地支持至少允许审判继续进行。"
+    },
+    {
+      "id": 196,
+      "startMs": 1129020,
+      "endMs": 1134860,
+      "en": "The other question here was whether he would potentially face the death penalty. The judge said yes.",
+      "zh": "这里的另一个问题是，他是否可能面临死刑。法官回答是肯定的。"
+    },
+    {
+      "id": 197,
+      "startMs": 1134860,
+      "endMs": 1146140,
+      "en": "What we saw was the prosecution arguing that Robinson allegedly shot into such a large crowd of people when the shooting happened.",
+      "zh": "我们看到，检方提出论点称，罗宾逊据称在枪击发生时向如此庞大的人群开枪。"
+    },
+    {
+      "id": 198,
+      "startMs": 1146540,
+      "endMs": 1153420,
+      "en": "They said he also endangered so many others, which was why he should be allowed to face the death penalty.",
+      "zh": "检方称，他还危及许多其他人，因此应被允许面对死刑。"
+    },
+    {
+      "id": 199,
+      "startMs": 1153740,
+      "endMs": 1156620,
+      "en": "Death was a potential consequence.",
+      "zh": "死刑是一个潜在后果。"
+    },
+    {
+      "id": 200,
+      "startMs": 1156620,
+      "endMs": 1158380,
+      "en": "In this case, the judge said yes.",
+      "zh": "在这起案件中，法官回答是肯定的。"
+    },
+    {
+      "id": 201,
+      "startMs": 1158780,
+      "endMs": 1162860,
+      "en": "This was just the first step towards seeing if the case could go to trial.",
+      "zh": "所以，这其实只是为案件能否进入审判程序铺路的第一步。"
+    },
+    {
+      "id": 202,
+      "startMs": 1163340,
+      "endMs": 1170060,
+      "en": "Robinson, what we have seen here from his defence are a couple of arguments in this pre-trial hearing.",
+      "zh": "罗宾逊方面在这次审前听证中提出了几个论点。"
+    },
+    {
+      "id": 203,
+      "startMs": 1170220,
+      "endMs": 1174380,
+      "en": "One argument was that he should not be tried for the death penalty",
+      "zh": "其中一个论点是，他不应因死刑而受审，"
+    },
+    {
+      "id": 204,
+      "startMs": 1174380,
+      "endMs": 1180460,
+      "en": "because they believe there was one shot alleged here and no one else was targeted or being pointed at.",
+      "zh": "因为辩方认为，据称这里只开了一枪，没有其他人被瞄准或成为目标。"
+    },
+    {
+      "id": 205,
+      "startMs": 1180460,
+      "endMs": 1185020,
+      "en": "But then they also say there is not enough evidence to convict him.",
+      "zh": "但辩方还称，没有足够证据将他定罪。"
+    },
+    {
+      "id": 206,
+      "startMs": 1185100,
+      "endMs": 1187900,
+      "en": "The trial date is still yet to be seen.",
+      "zh": "审判日期仍未确定。"
+    },
+    {
+      "id": 207,
+      "startMs": 1187900,
+      "endMs": 1194880,
+      "en": "We're expecting another hearing in October, where the judge will presumably set the date for this trial.",
+      "zh": "预计十月还会举行一次听证，届时法官可能会确定审判日期。"
+    },
+    {
+      "id": 208,
+      "startMs": 1194880,
+      "endMs": 1199760,
+      "en": "But this is just the beginning of what could potentially be a pretty long process. Jared Hill.",
+      "zh": "但这只是一个可能相当漫长的程序的开始。贾里德·希尔报道。"
+    },
+    {
+      "id": 209,
+      "startMs": 1199760,
+      "endMs": 1202240,
+      "en": "It was called the Eternal Sunshine Tour.",
+      "zh": "名为 Eternal Sunshine 的巡演。"
+    },
+    {
+      "id": 210,
+      "startMs": 1202240,
+      "endMs": 1206400,
+      "en": "But Ariana Grande's concerts ended Tuesday night, and were anything but eternal.",
+      "zh": "但爱莉安娜·格兰德的这轮演唱会周二晚结束，却远非永恒。"
+    },
+    {
+      "id": 211,
+      "startMs": 1206400,
+      "endMs": 1213600,
+      "en": "On the contrary, the international superstar has said she'll now take a substantial break from performing.",
+      "zh": "恰恰相反，这位国际巨星说，她现在将暂时停止演出一段相当长的时间。"
+    },
+    {
+      "id": 212,
+      "startMs": 1214080,
+      "endMs": 1218480,
+      "en": "With some suggesting it could be years before she takes to the stage again, if ever.",
+      "zh": "有人认为，她可能要数年后才会再次登台，甚至可能永远不会。"
+    },
+    {
+      "id": 213,
+      "startMs": 1219040,
+      "endMs": 1226080,
+      "en": "Grande has recently faced intense media speculation about her health, while some suggest she's lost weight and may be fatigued.",
+      "zh": "最近，格兰德的健康状况受到媒体密切猜测，有人认为她体重下降，可能还很疲惫。"
+    },
+    {
+      "id": 214,
+      "startMs": 1226320,
+      "endMs": 1230000,
+      "en": "In her final concert in London, though, her thoughts were with her fans.",
+      "zh": "不过，在伦敦的最后一场演唱会上，她心里牵挂的是歌迷。"
+    },
+    {
+      "id": 215,
+      "startMs": 1230540,
+      "endMs": 1232380,
+      "en": "I just want to say thank you so much.",
+      "zh": "我只想说，非常感谢你们。"
+    },
+    {
+      "id": 216,
+      "startMs": 1236640,
+      "endMs": 1239200,
+      "en": "Thank you for ten beautiful London shows.",
+      "zh": "感谢你们带来的十场精彩伦敦演出。"
+    },
+    {
+      "id": 217,
+      "startMs": 1239440,
+      "endMs": 1245680,
+      "en": "She may have been grateful to fans, but Ariana Grande hasn't denied that her life in the spotlight is taking its toll.",
+      "zh": "她或许感激歌迷，但爱莉安娜·格兰德并未否认，聚光灯下的生活正让她付出代价。"
+    },
+    {
+      "id": 218,
+      "startMs": 1246080,
+      "endMs": 1249840,
+      "en": "Although she's tended to play down suggestions of any serious health problems,",
+      "zh": "尽管她一向淡化有关严重健康问题的说法，"
+    },
+    {
+      "id": 219,
+      "startMs": 1250160,
+      "endMs": 1253520,
+      "en": "Our music correspondent Mark Savage attended Tuesday's moving concert, he says.",
+      "zh": "我们的音乐记者马克·萨维奇参加了周二晚的演唱会；他说，那一晚令人动容。"
+    },
+    {
+      "id": 220,
+      "startMs": 1253920,
+      "endMs": 1261600,
+      "en": "It was an incredibly emotional night, because fans knew that this was potentially the last time",
+      "zh": "那是极其动人的一晚，因为歌迷知道，这可能会是"
+    },
+    {
+      "id": 221,
+      "startMs": 1261600,
+      "endMs": 1264640,
+      "en": "they were going to see Ariana on stage for years, potentially.",
+      "zh": "他们未来数年内最后一次看到爱莉安娜登台，甚至可能永远不会再看到。"
+    },
+    {
+      "id": 222,
+      "startMs": 1264640,
+      "endMs": 1269680,
+      "en": "You know, she said even before all of the speculation about her health,",
+      "zh": "她说，其实早在所有健康猜测出现之前，"
+    },
+    {
+      "id": 223,
+      "startMs": 1270000,
+      "endMs": 1276480,
+      "en": "she'd called this tour one last hurrah and suggested she wanted to spend more time concentrating on film roles",
+      "zh": "她就称这轮巡演是最后一次欢庆，并表示想把更多时间用于电影角色。"
+    },
+    {
+      "id": 224,
+      "startMs": 1276480,
+      "endMs": 1279680,
+      "en": "after her Oscar-nominated turn in Wicked.",
+      "zh": "此前她凭《魔法坏女巫》一角获得奥斯卡提名。"
+    },
+    {
+      "id": 225,
+      "startMs": 1280080,
+      "endMs": 1283360,
+      "en": "And so this was always going to be a bittersweet night.",
+      "zh": "所以，这注定会是一个苦乐参半的夜晚。"
+    },
+    {
+      "id": 226,
+      "startMs": 1283600,
+      "endMs": 1289200,
+      "en": "And the fact that she's subsequently had to make this statement that she's withdrawing from public appearances,",
+      "zh": "而她后来不得不发表声明，宣布退出公开活动，"
+    },
+    {
+      "id": 227,
+      "startMs": 1289440,
+      "endMs": 1292560,
+      "en": "she's cancelled a planned theatre run in London next year,",
+      "zh": "她还取消了原定明年在伦敦的戏剧演出，"
+    },
+    {
+      "id": 228,
+      "startMs": 1293280,
+      "endMs": 1296640,
+      "en": "People were concerned, but also there to express their support,",
+      "zh": "人们感到担忧，但也到场表达支持，"
+    },
+    {
+      "id": 229,
+      "startMs": 1296660,
+      "endMs": 1302260,
+      "en": "and you could feel that energy travelling between the stage and the audience,",
+      "zh": "你能感到那股能量在舞台与观众之间流动，"
+    },
+    {
+      "id": 230,
+      "startMs": 1302340,
+      "endMs": 1305060,
+      "en": "and then right back towards Ariana.",
+      "zh": "然后又回到爱莉安娜身上。"
+    },
+    {
+      "id": 231,
+      "startMs": 1305460,
+      "endMs": 1307860,
+      "en": "So, she began to tear up in her final speech.",
+      "zh": "所以，她在最后致辞时开始落泪。"
+    },
+    {
+      "id": 232,
+      "startMs": 1307860,
+      "endMs": 1312260,
+      "en": "She said she wanted to express her gratitude without sobbing completely.",
+      "zh": "她说，她想表达感激，不想哭得泣不成声。"
+    },
+    {
+      "id": 233,
+      "startMs": 1312900,
+      "endMs": 1317460,
+      "en": "The O2, I mean, it's a huge venue, vast crowds for any performer to keep happy.",
+      "zh": "O2场馆非常大，任何表演者都得让数量庞大的观众满意。"
+    },
+    {
+      "id": 234,
+      "startMs": 1317780,
+      "endMs": 1321460,
+      "en": "Were there signs of the reported ill health issues on stage?",
+      "zh": "她登台时，有没有迹象显示她存在此前报道的健康问题？"
+    },
+    {
+      "id": 235,
+      "startMs": 1321540,
+      "endMs": 1330420,
+      "en": "Well, I mean, the only real sign that she was suffering at all was that she was not performing in stilettos",
+      "zh": "我认为，她确实不适的唯一迹象，是她没有穿细高跟鞋演出"
+    },
+    {
+      "id": 236,
+      "startMs": 1330420,
+      "endMs": 1331780,
+      "en": "because she had cut her foot.",
+      "zh": "因为她的脚受了伤。"
+    },
+    {
+      "id": 237,
+      "startMs": 1333020,
+      "endMs": 1338300,
+      "en": "Normally, she's teetering around on these six-inch heels, sprinting up and down the stage.",
+      "zh": "通常她会穿着六英寸高跟鞋，在舞台上飞奔。"
+    },
+    {
+      "id": 238,
+      "startMs": 1338700,
+      "endMs": 1341660,
+      "en": "And last night, she was wearing very flat boots,",
+      "zh": "但昨晚，她穿的是非常平的靴子，"
+    },
+    {
+      "id": 239,
+      "startMs": 1341820,
+      "endMs": 1345660,
+      "en": "Although standing on tiptoe, almost like that famous scene from Barbie",
+      "zh": "不过她经常踮着脚，几乎就像《芭比》的那场戏，"
+    },
+    {
+      "id": 240,
+      "startMs": 1345660,
+      "endMs": 1349020,
+      "en": "where the foot comes out of the stiletto but stays in the same shape.",
+      "zh": "脚从细高跟鞋里脱出，却保持原来的形状。"
+    },
+    {
+      "id": 241,
+      "startMs": 1349420,
+      "endMs": 1353340,
+      "en": "And I have to say, you know, I've seen the show a couple of times during this tour,",
+      "zh": "我得说，我在这轮巡演期间看过几次演出，"
+    },
+    {
+      "id": 242,
+      "startMs": 1353660,
+      "endMs": 1359580,
+      "en": "she is full of energy, she bounds around the stage with so much spirit and verve.",
+      "zh": "她充满活力，精神饱满、朝气十足地在舞台上奔走。"
+    },
+    {
+      "id": 243,
+      "startMs": 1359900,
+      "endMs": 1366140,
+      "en": "Her voice and her vocals are just impeccable. She's possibly the greatest singer of her generation.",
+      "zh": "她的嗓音和演唱无可挑剔，可能是这一代最伟大的歌手。"
+    },
+    {
+      "id": 244,
+      "startMs": 1366540,
+      "endMs": 1371260,
+      "en": "And so, you know, while there is concern about her health and people have commented on her appearance,",
+      "zh": "所以，虽然人们担忧她的健康，也评论她的外表，"
+    },
+    {
+      "id": 245,
+      "startMs": 1371500,
+      "endMs": 1376300,
+      "en": "she's never said that she's suffering from any specific condition,",
+      "zh": "但她从未说过自己患有任何特定疾病，"
+    },
+    {
+      "id": 246,
+      "startMs": 1376620,
+      "endMs": 1383260,
+      "en": "And really, the reason she's decided to step back is because of what her publicist called 'the endless ongoing scrutiny'.",
+      "zh": "实际上，她决定退一步，是因为她的公关称之为‘无休无止的持续审视’。"
+    },
+    {
+      "id": 247,
+      "startMs": 1383260,
+      "endMs": 1386700,
+      "en": "Given that, Mark, what about this break? Is it going to be a brief hiatus",
+      "zh": "既然如此，马克，这次休息会怎样？会是短暂的停歇"
+    },
+    {
+      "id": 248,
+      "startMs": 1386700,
+      "endMs": 1387900,
+      "en": "and then normal service,",
+      "zh": "然后恢复正常活动，"
+    },
+    {
+      "id": 249,
+      "startMs": 1387900,
+      "endMs": 1392140,
+      "en": "or do you think we are looking at much longer, maybe years, till she's seen on stage again?",
+      "zh": "还是会更久，或许数年后才会再看到她登台？"
+    },
+    {
+      "id": 250,
+      "startMs": 1393040,
+      "endMs": 1395600,
+      "en": "She wants to focus on her film career, I think.",
+      "zh": "我认为，她想专注于电影事业。"
+    },
+    {
+      "id": 251,
+      "startMs": 1395600,
+      "endMs": 1401520,
+      "en": "She's got a film coming out in November with Ben Stiller and Robert De Niro, a sequel to the Meet the Fockers franchise,",
+      "zh": "她与本·斯蒂勒和罗伯特·德尼罗合作的电影将于11月上映，是《拜见岳父大人》系列的续集，"
+    },
+    {
+      "id": 252,
+      "startMs": 1401840,
+      "endMs": 1406000,
+      "en": "And the suggestion from her prior to the speculation about her health",
+      "zh": "而在有关健康的猜测出现之前，她的说法是，"
+    },
+    {
+      "id": 253,
+      "startMs": 1406000,
+      "endMs": 1410160,
+      "en": "was that she really wanted to concentrate on the acting side of her career.",
+      "zh": "她确实想把重心放在事业中的表演方面。"
+    },
+    {
+      "id": 254,
+      "startMs": 1410160,
+      "endMs": 1413760,
+      "en": "She grew up as a theatre kid, so it's hard to say.",
+      "zh": "她从小就是戏剧迷，所以很难说。"
+    },
+    {
+      "id": 255,
+      "startMs": 1413920,
+      "endMs": 1419440,
+      "en": "She seemed like she was having so much fun last night that it would be interesting to see whether she can resist",
+      "zh": "她昨晚似乎玩得非常开心，看看她能否忍住不重返舞台，会很有意思。"
+    },
+    {
+      "id": 256,
+      "startMs": 1419600,
+      "endMs": 1421280,
+      "en": "going back onto the stage in the future.",
+      "zh": "未来再次登上舞台。"
+    },
+    {
+      "id": 257,
+      "startMs": 1421680,
+      "endMs": 1425700,
+      "en": "Mark Savage. And that's all from us for now.",
+      "zh": "马克·萨维奇。以上就是目前的全部内容。"
+    },
+    {
+      "id": 258,
+      "startMs": 1425780,
+      "endMs": 1430420,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 259,
+      "startMs": 1430420,
+      "endMs": 1436980,
+      "en": "You can now watch all our episodes in full, just search for the Global News Podcast on YouTube.",
+      "zh": "现在可以观看我们的完整节目，只需在 YouTube 搜索 Global News Podcast。"
+    },
+    {
+      "id": 260,
+      "startMs": 1437460,
+      "endMs": 1443060,
+      "en": "This edition was mixed by Robin Schroeder, and the producers were Siobhan Leahy and Chantal Hartl.",
+      "zh": "本期由罗宾·施罗德混音，制作人是希沃恩·利希和尚塔尔·哈特尔。"
+    },
+    {
+      "id": 261,
+      "startMs": 1443300,
+      "endMs": 1447060,
+      "en": "The editor is Karen Martin. I'm Paul Moss. Until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁。我是保罗·莫斯。下次再见。"
+    }
+  ]
+}
