@@ -1,0 +1,2069 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "3 September 2026"
+  },
+  "durationMs": 1601160,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3680,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5900,
+      "endMs": 11500,
+      "en": "I'm Janet Jalil, and at 14:00 GMT on Thursday, the 3rd of September, these are our main stories.",
+      "zh": "我是珍妮特·贾利勒。现在是9月3日星期四14:00 GMT，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12140,
+      "endMs": 18380,
+      "en": "Gloria Steinem, a pioneer of the women's liberation movement in the US, has died at the age of 92.",
+      "zh": "美国妇女解放运动先驱格洛丽亚·斯泰纳姆去世，享年92岁。"
+    },
+    {
+      "id": 4,
+      "startMs": 18780,
+      "endMs": 22620,
+      "en": "We look back at her life and her influence on generations of women.",
+      "zh": "我们回顾她的一生，以及她对几代女性的影响。"
+    },
+    {
+      "id": 5,
+      "startMs": 23500,
+      "endMs": 33100,
+      "en": "The UN warns of a super-sized El Niño, potentially the strongest for more than 70 years, which is expected to continue until at least next February.",
+      "zh": "联合国警告，超强厄尔尼诺可能是70多年来最强的一次，预计至少持续到明年2月。"
+    },
+    {
+      "id": 6,
+      "startMs": 33860,
+      "endMs": 40580,
+      "en": "The BBC investigates how people smugglers are using mega dinghies to bring migrants to the UK from France.",
+      "zh": "BBC调查人口走私者如何利用超大型橡皮艇，把移民从法国运往英国。"
+    },
+    {
+      "id": 7,
+      "startMs": 43280,
+      "endMs": 52400,
+      "en": "Also in this podcast... You guys are like a joke! Parties, fun—why would you even say that? Why would you even think about that? Like",
+      "zh": "本期节目还将关注……你们像是在开玩笑！派对、娱乐——你们为什么要这样说？为什么会这样想？真是……"
+    },
+    {
+      "id": 8,
+      "startMs": 53240,
+      "endMs": 61080,
+      "en": "What kind of question is that? Why tennis number one, Aryna Sabalenka, pushed back at reporters at the US Open.",
+      "zh": "这是什么问题？网球世界第一阿丽娜·萨巴伦卡为何在美网对记者进行了反击。"
+    },
+    {
+      "id": 9,
+      "startMs": 64460,
+      "endMs": 69420,
+      "en": "The US feminist writer and activist, Gloria Steinem, has died at the age of 92.",
+      "zh": "美国女权作家、活动家格洛丽亚·斯泰纳姆去世，享年92岁。"
+    },
+    {
+      "id": 10,
+      "startMs": 69980,
+      "endMs": 75900,
+      "en": "In the late 1960s and early '70s, she was one of the most prominent leaders of the American women's movement,",
+      "zh": "在20世纪60年代末和70年代初，她是美国妇女运动最具影响力的领导者之一，"
+    },
+    {
+      "id": 11,
+      "startMs": 76300,
+      "endMs": 79580,
+      "en": "campaigning for gender equality and reproductive rights.",
+      "zh": "她为性别平等和生育权利奔走。"
+    },
+    {
+      "id": 12,
+      "startMs": 80060,
+      "endMs": 86620,
+      "en": "She was also a trailblazing journalist who gained recognition after going undercover as a Playboy Bunny.",
+      "zh": "她还是一位开创先河的记者，曾卧底扮演《花花公子》兔女郎，因而获得声誉。"
+    },
+    {
+      "id": 13,
+      "startMs": 87260,
+      "endMs": 93020,
+      "en": "In a statement on social media, her team announced that Steinem had passed away peacefully at her home in New York,",
+      "zh": "她的团队在社交媒体声明中说，斯泰纳姆在纽约家中安详离世，"
+    },
+    {
+      "id": 14,
+      "startMs": 93420,
+      "endMs": 101660,
+      "en": "saying her near-century on Earth was well-lived, and she continued working for equality until the very end.",
+      "zh": "称她在世近一个世纪，人生充实而有意义，并一直为平等事业工作到最后。"
+    },
+    {
+      "id": 15,
+      "startMs": 102220,
+      "endMs": 104380,
+      "en": "Judy Frankel looks back at her life.",
+      "zh": "朱迪·弗兰克尔回顾她的一生。"
+    },
+    {
+      "id": 16,
+      "startMs": 105420,
+      "endMs": 107740,
+      "en": "Gloria Steinem never craved the limelight.",
+      "zh": "格洛丽亚·斯泰纳姆从不追逐聚光灯。"
+    },
+    {
+      "id": 17,
+      "startMs": 108060,
+      "endMs": 115740,
+      "en": "She said she hated public speaking and was afraid of conflict, and yet she became one of the most visible figures in the women's movement,",
+      "zh": "她说自己厌恶公开演讲、害怕冲突，但仍成为妇女运动中最受瞩目的人物之一，"
+    },
+    {
+      "id": 18,
+      "startMs": 116140,
+      "endMs": 123260,
+      "en": "leading marches and arguing passionately to give women equal rights in law, politics, education and the home.",
+      "zh": "她带领游行，并热烈主张让女性在法律、政治、教育和家庭中享有平等权利。"
+    },
+    {
+      "id": 19,
+      "startMs": 124160,
+      "endMs": 126880,
+      "en": "Her feminist awakening came in 1969",
+      "zh": "她在1969年迎来了女性主义觉醒，"
+    },
+    {
+      "id": 20,
+      "startMs": 127520,
+      "endMs": 130080,
+      "en": "when, as co-founder of the New York magazine,",
+      "zh": "当时，她是《纽约》杂志的联合创办人，"
+    },
+    {
+      "id": 21,
+      "startMs": 130560,
+      "endMs": 135920,
+      "en": "she went to cover a hearing of young women talking about their own experiences of having an abortion.",
+      "zh": "她前去报道一场听证会，年轻女性在会上讲述自己堕胎的经历。"
+    },
+    {
+      "id": 22,
+      "startMs": 136320,
+      "endMs": 141680,
+      "en": "For the first time in my life ever, I heard women stand up and tell the truth,",
+      "zh": "那是我一生中第一次听到女性站起来讲真话，"
+    },
+    {
+      "id": 23,
+      "startMs": 142000,
+      "endMs": 151680,
+      "en": "tragic, funny, personal, about being one of every three American women who has needed an abortion at some time in her lifetime,",
+      "zh": "讲述堕胎经历的美国女性中，每三人就有一人曾在一生中的某个时刻需要堕胎——这既悲惨、又可笑，也很私人，"
+    },
+    {
+      "id": 24,
+      "startMs": 152160,
+      "endMs": 158320,
+      "en": "and it revolutionized me, sitting there listening. And that's what made me start to ask questions.",
+      "zh": "坐在那里聆听的我被彻底改变了。这让我开始提出问题。"
+    },
+    {
+      "id": 25,
+      "startMs": 158320,
+      "endMs": 162720,
+      "en": "If this is necessary for so many of us, why is it illegal? Why is it criminal?",
+      "zh": "如果这么多人有此需要，为什么这不合法？为什么还要将其定为犯罪？"
+    },
+    {
+      "id": 26,
+      "startMs": 163120,
+      "endMs": 167680,
+      "en": "Gloria herself had had an abortion 13 years earlier, at the age of 22,",
+      "zh": "格洛丽亚本人22岁时曾堕胎，距那时已有13年，"
+    },
+    {
+      "id": 27,
+      "startMs": 168160,
+      "endMs": 170800,
+      "en": "but had never told anyone about it until then.",
+      "zh": "但在那之前，她从未告诉任何人。"
+    },
+    {
+      "id": 28,
+      "startMs": 171520,
+      "endMs": 173280,
+      "en": "That meeting changed her life.",
+      "zh": "那次会议改变了她的人生。"
+    },
+    {
+      "id": 29,
+      "startMs": 173760,
+      "endMs": 177680,
+      "en": "She got involved in grassroots organizing, and in the years that followed,",
+      "zh": "她开始参与基层组织工作，在此后的几年里，"
+    },
+    {
+      "id": 30,
+      "startMs": 177680,
+      "endMs": 181600,
+      "en": "she testified in the Senate on behalf of the Equal Rights Amendment",
+      "zh": "她在参议院作证，支持《平等权利修正案》，"
+    },
+    {
+      "id": 31,
+      "startMs": 181920,
+      "endMs": 186800,
+      "en": "and co-founded the National Women's Political Caucus, the Women's Action Alliance,",
+      "zh": "并共同创办了全国妇女政治党团、妇女行动联盟，"
+    },
+    {
+      "id": 32,
+      "startMs": 187120,
+      "endMs": 194160,
+      "en": "and Ms. Magazine, the first periodical ever to be created, owned and operated entirely by women.",
+      "zh": "以及《Ms.》杂志——这是第一份完全由女性创办、拥有并运营的期刊。"
+    },
+    {
+      "id": 33,
+      "startMs": 195100,
+      "endMs": 202700,
+      "en": "With her long, streaked blonde hair, middle-parting and trademark aviator glasses, she soon became the face of feminism.",
+      "zh": "她留着长长的挑染金发、中分发型，戴着标志性的飞行员眼镜，很快成为女权主义的代表人物。"
+    },
+    {
+      "id": 34,
+      "startMs": 203660,
+      "endMs": 205420,
+      "en": "She'd come a long way from her roots.",
+      "zh": "她已经走过了漫长的道路。"
+    },
+    {
+      "id": 35,
+      "startMs": 205900,
+      "endMs": 210780,
+      "en": "Born in Ohio in 1934, she had a poor and itinerant childhood.",
+      "zh": "她1934年出生于俄亥俄州，童年贫困且居无定所。"
+    },
+    {
+      "id": 36,
+      "startMs": 211260,
+      "endMs": 216300,
+      "en": "Her father took his family on the road for months at a time, selling antiques from their trailer.",
+      "zh": "她的父亲带着全家常年漂泊，每次数月，住在拖车里售卖古董。"
+    },
+    {
+      "id": 37,
+      "startMs": 216940,
+      "endMs": 219580,
+      "en": "Her mother suffered from mental illness and addiction.",
+      "zh": "她的母亲患有精神疾病并有成瘾问题。"
+    },
+    {
+      "id": 38,
+      "startMs": 220380,
+      "endMs": 224220,
+      "en": "When her parents separated, Gloria became her mother's sole carer,",
+      "zh": "父母分居后，年仅10岁的格洛丽亚成了母亲唯一的照护者，"
+    },
+    {
+      "id": 39,
+      "startMs": 224380,
+      "endMs": 229100,
+      "en": "aged just 10, and only then did she spend her first full year at school.",
+      "zh": "直到那时，她才第一次完整地上完一整年的学校。"
+    },
+    {
+      "id": 40,
+      "startMs": 229820,
+      "endMs": 237340,
+      "en": "For Steinem, finding feminism was like finding a family, and she continued to champion women's rights for the rest of her life.",
+      "zh": "对斯泰纳姆来说，找到女性主义就像找到了一个家庭；此后她终生捍卫女性权利。"
+    },
+    {
+      "id": 41,
+      "startMs": 237820,
+      "endMs": 240380,
+      "en": "I think my dreams at that point were not big enough.",
+      "zh": "我当时的梦想不够宏大。"
+    },
+    {
+      "id": 42,
+      "startMs": 240940,
+      "endMs": 242700,
+      "en": "You know, I think I was looking at.",
+      "zh": "你知道，我想我当时追求的是……"
+    },
+    {
+      "id": 43,
+      "startMs": 243600,
+      "endMs": 245520,
+      "en": "Equality, not transformation,",
+      "zh": "平等，而不是彻底改变，"
+    },
+    {
+      "id": 44,
+      "startMs": 246320,
+      "endMs": 254240,
+      "en": "and I think it's even more important to make a society in which the paradigm is the circle, not a pyramid,",
+      "zh": "我认为，更重要的是建立一种以圆形而非金字塔为范式的社会，"
+    },
+    {
+      "id": 45,
+      "startMs": 254400,
+      "endMs": 256960,
+      "en": "and we understand we are linked; we are not ranked.",
+      "zh": "我们彼此相连，而不是分出等级。"
+    },
+    {
+      "id": 46,
+      "startMs": 258080,
+      "endMs": 262960,
+      "en": "On the other hand, I've realized what a huge victory it is just to know we're not crazy.",
+      "zh": "另一方面，我意识到，仅仅知道我们没有疯掉，就是一场巨大的胜利。"
+    },
+    {
+      "id": 47,
+      "startMs": 263760,
+      "endMs": 266640,
+      "en": "Gloria Steinem never had children of her own,",
+      "zh": "格洛丽亚·斯泰纳姆没有自己的孩子，"
+    },
+    {
+      "id": 48,
+      "startMs": 266960,
+      "endMs": 273120,
+      "en": "saying feminism had taught her it was possible for women not to conform to gender stereotypes and still be happy.",
+      "zh": "她说，女性主义让她明白：女性不必遵循性别刻板印象，也依然可以幸福。"
+    },
+    {
+      "id": 49,
+      "startMs": 273760,
+      "endMs": 280080,
+      "en": "But in the year 2000, she surprised everyone, including herself, when she decided to marry David Bale,",
+      "zh": "但在2000年，她让所有人（包括自己）都感到意外，决定与戴维·贝尔结婚，"
+    },
+    {
+      "id": 50,
+      "startMs": 280400,
+      "endMs": 284400,
+      "en": "the father of the actor Christian Bale, in a Cherokee wedding ceremony.",
+      "zh": "他是演员克里斯蒂安·贝尔的父亲；两人在一场切罗基族婚礼仪式上完婚。"
+    },
+    {
+      "id": 51,
+      "startMs": 285620,
+      "endMs": 290820,
+      "en": "Judy Frankel, looking back on the life of Gloria Steinem, who has died at the age of 92.",
+      "zh": "朱迪·弗兰克尔回顾了格洛丽亚·斯泰纳姆的一生；她去世时享年92岁。"
+    },
+    {
+      "id": 52,
+      "startMs": 292180,
+      "endMs": 298740,
+      "en": "Our planet is already experiencing frequent, record heatwaves, droughts and floods because of man-made climate change.",
+      "zh": "我们的星球已经因人为气候变化而频繁遭遇创纪录的热浪、干旱和洪水。"
+    },
+    {
+      "id": 53,
+      "startMs": 299380,
+      "endMs": 305540,
+      "en": "Now, scientists say they think that will be exacerbated even further by a naturally recurring weather pattern,",
+      "zh": "科学家现在表示，他们认为一种自然反复出现的天气模式还会进一步加剧这一情况——"
+    },
+    {
+      "id": 54,
+      "startMs": 305620,
+      "endMs": 310100,
+      "en": "El Niño, which causes surface temperatures to rise in the Pacific Ocean.",
+      "zh": "这种天气模式就是厄尔尼诺，它会导致太平洋海表温度升高。"
+    },
+    {
+      "id": 55,
+      "startMs": 310740,
+      "endMs": 316980,
+      "en": "The latest data shows it could be the strongest for more than 70 years, and last until at least February next year.",
+      "zh": "最新数据显示，这可能是70多年来最强的一次，并至少持续到明年2月。"
+    },
+    {
+      "id": 56,
+      "startMs": 317540,
+      "endMs": 326980,
+      "en": "The head of the UN, António Guterres, said that El Niño was being super-sized before our eyes, with the world in the danger zone of even more extreme weather.",
+      "zh": "联合国秘书长安东尼奥·古特雷斯说，厄尔尼诺正在我们眼前被放大，世界正处于遭遇更极端天气的危险区域。"
+    },
+    {
+      "id": 57,
+      "startMs": 327620,
+      "endMs": 333140,
+      "en": "The data was released by the World Meteorological Organization. Its Secretary-General is Professor Celeste Saulo.",
+      "zh": "这项数据由世界气象组织发布。该组织秘书长是塞莱斯特·绍洛教授。"
+    },
+    {
+      "id": 58,
+      "startMs": 334420,
+      "endMs": 343380,
+      "en": "Because we live in a globalized world, with a globalized economy, this El Niño will affect the food that you take every day,",
+      "zh": "因为我们生活在全球化的世界和经济中，厄尔尼诺会影响你每天吃的食物，"
+    },
+    {
+      "id": 59,
+      "startMs": 343780,
+      "endMs": 347940,
+      "en": "the water you have access to, and the prices you pay for everything.",
+      "zh": "影响你能获得的水，以及你为一切商品支付的价格。"
+    },
+    {
+      "id": 60,
+      "startMs": 348340,
+      "endMs": 353720,
+      "en": "And that is why we are not only warning, but calling for action in advance.",
+      "zh": "因此，我们不仅是在发出警告，也是在提前呼吁采取行动。"
+    },
+    {
+      "id": 61,
+      "startMs": 354360,
+      "endMs": 359400,
+      "en": "Our climate and science reporter Esme Stallard told me more about this stark warning.",
+      "zh": "我们的气候与科学记者埃斯梅·斯托拉德向我进一步介绍了这一严峻警告。"
+    },
+    {
+      "id": 62,
+      "startMs": 359880,
+      "endMs": 364520,
+      "en": "This was a very clear direction from the WMO, a group of scientists from around the world,",
+      "zh": "世界气象组织发出了非常明确的指示；该组织由来自世界各地的科学家组成，"
+    },
+    {
+      "id": 63,
+      "startMs": 364600,
+      "endMs": 369640,
+      "en": "that study our weather patterns, saying that governments need to prepare for these extreme weather events.",
+      "zh": "他们研究天气模式，并表示各国政府需要为这些极端天气事件做好准备。"
+    },
+    {
+      "id": 64,
+      "startMs": 369960,
+      "endMs": 372920,
+      "en": "There are some countries that are already starting to feel the effects.",
+      "zh": "一些国家已经开始感受到影响。"
+    },
+    {
+      "id": 65,
+      "startMs": 372920,
+      "endMs": 379400,
+      "en": "So, wetter seasons within China, more typhoons. They've already had four this year, which have left nearly 200 dead.",
+      "zh": "比如中国的季节更加湿润，台风增多；今年那里已经有4次台风，造成近200人死亡。"
+    },
+    {
+      "id": 66,
+      "startMs": 379880,
+      "endMs": 383720,
+      "en": "Peru has already declared an emergency across 40% of its area,",
+      "zh": "秘鲁已经在全国40%的地区宣布进入紧急状态，"
+    },
+    {
+      "id": 67,
+      "startMs": 383960,
+      "endMs": 390920,
+      "en": "and we know the US has sent down a military aid vessel to Peru to provide additional technical equipment and medical assistance.",
+      "zh": "我们还知道，美国已向秘鲁派出一艘军事援助船，提供额外的技术设备和医疗援助。"
+    },
+    {
+      "id": 68,
+      "startMs": 391320,
+      "endMs": 396680,
+      "en": "And as of today, the Panama Canal Authority has reduced the number of ships passing through that area,",
+      "zh": "截至今天，巴拿马运河管理局已经减少通过该区域的船只数量，"
+    },
+    {
+      "id": 69,
+      "startMs": 396920,
+      "endMs": 400280,
+      "en": "over concerns about lower rainfall, which could drop water levels.",
+      "zh": "原因是担心降雨减少可能导致水位下降。"
+    },
+    {
+      "id": 70,
+      "startMs": 400600,
+      "endMs": 405800,
+      "en": "And, of course, as we heard there from Professor Saulo, the impact of that, even if you're not within that region,",
+      "zh": "当然，正如我们刚才从绍洛教授那里听到的，即使你不在该地区，"
+    },
+    {
+      "id": 71,
+      "startMs": 406040,
+      "endMs": 408280,
+      "en": "is that it can disrupt global trade.",
+      "zh": "影响也可能波及全球贸易。"
+    },
+    {
+      "id": 72,
+      "startMs": 408840,
+      "endMs": 417100,
+      "en": "She's talking about El Niño being the strongest in 70 years. Is that partly because of man-made climate change? Are the two fueling each other?",
+      "zh": "她说厄尔尼诺是70年来最强的一次。这部分是人为气候变化造成的吗？两者是否相互助长？"
+    },
+    {
+      "id": 73,
+      "startMs": 417100,
+      "endMs": 423180,
+      "en": "Because El Niño is a natural weather pattern, but is climate change also causing El Niño to get stronger?",
+      "zh": "因为厄尔尼诺是自然天气模式，但气候变化是否也在让厄尔尼诺变得更强？"
+    },
+    {
+      "id": 74,
+      "startMs": 423820,
+      "endMs": 427580,
+      "en": "This is a really good question. At the moment, the science is very uncertain on this.",
+      "zh": "这是个非常好的问题。目前，科学界对此还很不确定。"
+    },
+    {
+      "id": 75,
+      "startMs": 427900,
+      "endMs": 431740,
+      "en": "There is not clear evidence that climate change is driving El Niños,",
+      "zh": "没有明确证据表明气候变化正在推动厄尔尼诺现象，"
+    },
+    {
+      "id": 76,
+      "startMs": 431740,
+      "endMs": 437500,
+      "en": "but that is something that is being looked at because, as you say, this is one of the strongest that we've seen since records began.",
+      "zh": "但正如你所说，这次是有记录以来最强的厄尔尼诺之一，所以相关影响正在受到研究。"
+    },
+    {
+      "id": 77,
+      "startMs": 437500,
+      "endMs": 438940,
+      "en": "Just to put that into context,",
+      "zh": "为了说明这一点，"
+    },
+    {
+      "id": 78,
+      "startMs": 439340,
+      "endMs": 447100,
+      "en": "an El Niño will be declared when the average temperatures in a specific part of the Pacific are half a degree higher than normal over an extended period.",
+      "zh": "当太平洋特定区域的平均温度在较长时期内比正常值高出半摄氏度时，才会宣布出现厄尔尼诺。"
+    },
+    {
+      "id": 79,
+      "startMs": 447420,
+      "endMs": 451500,
+      "en": "We're already at more than two degrees, and the models are off the charts.",
+      "zh": "目前温度已经高出两摄氏度以上，模型预测值更是超出图表范围。"
+    },
+    {
+      "id": 80,
+      "startMs": 451500,
+      "endMs": 456540,
+      "en": "They're predicting potentially four degrees out to February next year,",
+      "zh": "模型预测到明年2月可能达到4摄氏度，"
+    },
+    {
+      "id": 81,
+      "startMs": 456540,
+      "endMs": 458860,
+      "en": "and so that is why there is such intense concern.",
+      "zh": "所以这才引发了如此强烈的担忧。"
+    },
+    {
+      "id": 82,
+      "startMs": 458860,
+      "endMs": 462140,
+      "en": "And obviously, that is on top of the background heating that we're getting.",
+      "zh": "显然，这还叠加在我们正在经历的长期升温之上。"
+    },
+    {
+      "id": 83,
+      "startMs": 462140,
+      "endMs": 466060,
+      "en": "So if you are in a part of the world where El Niño will drive up temperatures,",
+      "zh": "因此，如果你身处厄尔尼诺会推高气温的地区，"
+    },
+    {
+      "id": 84,
+      "startMs": 466060,
+      "endMs": 471100,
+      "en": "I'm thinking India, for example, this is just another battle to be facing on top of climate change.",
+      "zh": "比如印度，这只是气候变化之上又一场需要面对的战斗。"
+    },
+    {
+      "id": 85,
+      "startMs": 471100,
+      "endMs": 473360,
+      "en": "But that link between them isn't quite clear yet,",
+      "zh": "但两者之间的联系目前还不十分明确，"
+    },
+    {
+      "id": 86,
+      "startMs": 473920,
+      "endMs": 477440,
+      "en": "and scientists are asking governments to prepare. How?",
+      "zh": "而科学家正在要求各国政府做好准备。怎么准备？"
+    },
+    {
+      "id": 87,
+      "startMs": 478480,
+      "endMs": 479760,
+      "en": "So, a number of different methods.",
+      "zh": "方法有很多种。"
+    },
+    {
+      "id": 88,
+      "startMs": 479920,
+      "endMs": 484800,
+      "en": "WMO have said this is their biggest, or one of their biggest mobilizations of their members.",
+      "zh": "世界气象组织表示，这是其成员最大或规模最大的动员行动之一。"
+    },
+    {
+      "id": 89,
+      "startMs": 484800,
+      "endMs": 488160,
+      "en": "So WMO is made up of lots of different meteorological organizations.",
+      "zh": "世界气象组织由许多不同的气象机构组成。"
+    },
+    {
+      "id": 90,
+      "startMs": 488160,
+      "endMs": 492720,
+      "en": "So they're ramping up the amount of funding and also the amount of output they're doing.",
+      "zh": "因此，他们正在增加资金投入，也增加产出。"
+    },
+    {
+      "id": 91,
+      "startMs": 492720,
+      "endMs": 496240,
+      "en": "So they're giving clearer forecasts about potentially extreme weather events,",
+      "zh": "他们正在提供更清晰的潜在极端天气事件预报，"
+    },
+    {
+      "id": 92,
+      "startMs": 496560,
+      "endMs": 501600,
+      "en": "and also encouraging governments to put aside funding and technical assistance to help those communities",
+      "zh": "也鼓励各国政府预留资金和技术援助，帮助那些社区，"
+    },
+    {
+      "id": 93,
+      "startMs": 501600,
+      "endMs": 504080,
+      "en": "that will be most affected by these extreme weather events.",
+      "zh": "因为这些极端天气事件将对它们造成最严重的影响。"
+    },
+    {
+      "id": 94,
+      "startMs": 504720,
+      "endMs": 510960,
+      "en": "Esme Stallard. Well, the consequences of the El Niño phenomenon are being felt in many parts of the world.",
+      "zh": "埃斯梅·斯托拉德。厄尔尼诺现象的后果正在世界许多地方显现。"
+    },
+    {
+      "id": 95,
+      "startMs": 511640,
+      "endMs": 517640,
+      "en": "The authorities at the Panama Canal, the crucial man-made waterway connecting the Atlantic and Pacific Oceans,",
+      "zh": "巴拿马运河是连接大西洋和太平洋的重要人工水道，当局"
+    },
+    {
+      "id": 96,
+      "startMs": 517960,
+      "endMs": 522600,
+      "en": "are reducing the number of ships allowed to pass through from today because of severe droughts,",
+      "zh": "因严重干旱，从今天起减少获准通过的船只数量，"
+    },
+    {
+      "id": 97,
+      "startMs": 523080,
+      "endMs": 528840,
+      "en": "with officials having to safeguard water resources after low rainfall caused by the weather pattern.",
+      "zh": "因为天气模式导致降雨减少，官员们不得不保护水资源。"
+    },
+    {
+      "id": 98,
+      "startMs": 529480,
+      "endMs": 533640,
+      "en": "Around 5% of global trade normally passes through the canal,",
+      "zh": "全球贸易通常约有5%经过这条运河，"
+    },
+    {
+      "id": 99,
+      "startMs": 533960,
+      "endMs": 537240,
+      "en": "so how much of an impact will this have on global shipping?",
+      "zh": "那么，这会对全球航运造成多大影响？"
+    },
+    {
+      "id": 100,
+      "startMs": 537800,
+      "endMs": 542200,
+      "en": "Richard Meade is editor-in-chief at maritime journal Lloyd's List.",
+      "zh": "理查德·米德是海事期刊《劳氏日报》的主编。"
+    },
+    {
+      "id": 101,
+      "startMs": 542680,
+      "endMs": 548440,
+      "en": "It's already having an impact. We've got ships waiting for around a week as ships queue to get through.",
+      "zh": "这已经产生影响。船只排队通过，等候时间约为一周。"
+    },
+    {
+      "id": 102,
+      "startMs": 548440,
+      "endMs": 554520,
+      "en": "We've got some ships paying up to around four and a half million dollars in order to jump that queue for high-value cargoes.",
+      "zh": "有些船只支付高达约450万美元，只为插队运送高价值货物。"
+    },
+    {
+      "id": 103,
+      "startMs": 555000,
+      "endMs": 559560,
+      "en": "So, there is disruption, but this disruption is coming on disruption on disruption.",
+      "zh": "所以确实存在干扰，而且这种干扰是在一重又一重的干扰之上叠加而来。"
+    },
+    {
+      "id": 104,
+      "startMs": 560040,
+      "endMs": 564360,
+      "en": "In the Strait of Hormuz, we're already dealing with the energy impact of that.",
+      "zh": "在霍尔木兹海峡，我们已经在应对由此造成的能源影响。"
+    },
+    {
+      "id": 105,
+      "startMs": 564920,
+      "endMs": 569560,
+      "en": "The Black Sea is currently the most dangerous trading environment for ships since World War II.",
+      "zh": "黑海目前是自第二次世界大战以来对船只而言最危险的贸易环境。"
+    },
+    {
+      "id": 106,
+      "startMs": 569800,
+      "endMs": 575020,
+      "en": "The Red Sea is still largely rerouting due to Houthi threats, and the Bab-el-Mandeb is very dangerous.",
+      "zh": "红海航运仍因胡塞武装的威胁而大多改道，曼德海峡也非常危险。"
+    },
+    {
+      "id": 107,
+      "startMs": 575100,
+      "endMs": 580460,
+      "en": "There are a lot of choke point problems, so this is a sort of compound interest of disruption on maritime trade",
+      "zh": "航运瓶颈问题很多，因此海上贸易正遭受一种干扰的复利效应，"
+    },
+    {
+      "id": 108,
+      "startMs": 580460,
+      "endMs": 583420,
+      "en": "that's already disrupted and has been since COVID, effectively.",
+      "zh": "这种贸易实际上已经自新冠疫情以来持续受到干扰。"
+    },
+    {
+      "id": 109,
+      "startMs": 583420,
+      "endMs": 590380,
+      "en": "Effectively, this is the worst, most disrupted trading environment in living memory for the shipping industry.",
+      "zh": "总的来说，这是航运业有生之年最糟糕、受干扰最严重的贸易环境。"
+    },
+    {
+      "id": 110,
+      "startMs": 590780,
+      "endMs": 595820,
+      "en": "Freight rates are at an all-time high. Disruption and inefficiency are at an all-time high,",
+      "zh": "运费处于历史最高位，干扰和低效也达到历史最高水平，"
+    },
+    {
+      "id": 111,
+      "startMs": 595820,
+      "endMs": 600540,
+      "en": "and there are very few signs that there is much relief around the corner. Richard Meade.",
+      "zh": "而且几乎没有迹象表明缓解即将到来。理查德·米德。"
+    },
+    {
+      "id": 112,
+      "startMs": 603120,
+      "endMs": 605360,
+      "en": "Still to come in this podcast: a flash of light.",
+      "zh": "本播客稍后将介绍：一道闪光。"
+    },
+    {
+      "id": 113,
+      "startMs": 605520,
+      "endMs": 613520,
+      "en": "Or a collection of flashes of light which are consistent with what we'd expect dark matter to look like and doesn't look like anything else.",
+      "zh": "或者是一组符合我们对暗物质预期、且不像其他任何东西的闪光。"
+    },
+    {
+      "id": 114,
+      "startMs": 614160,
+      "endMs": 618880,
+      "en": "A new scientific study appears to shine a light on the mystery of dark matter.",
+      "zh": "一项新的科学研究似乎为暗物质之谜带来了一线曙光。"
+    },
+    {
+      "id": 115,
+      "startMs": 618880,
+      "endMs": 628160,
+      "en": "In an earlier edition of this podcast, we told you France loaned Britain a nearly 1,000-year-old tapestry as a gesture of post-Brexit reconciliation.",
+      "zh": "在本播客早期的一期节目中，我们介绍过法国如何将一幅近千年的挂毯借给英国，以示脱欧后的和解。"
+    },
+    {
+      "id": 116,
+      "startMs": 628720,
+      "endMs": 632720,
+      "en": "The new UK Prime Minister, Andy Burnham, thanked France for the loan of the Bayeux Tapestry,",
+      "zh": "英国新任首相安迪·伯纳姆感谢法国借出巴约挂毯，"
+    },
+    {
+      "id": 117,
+      "startMs": 633040,
+      "endMs": 640720,
+      "en": "which depicts a French leader, William, who was of Nordic descent, seizing the English crown in a historic battle in 1066.",
+      "zh": "这幅挂毯描绘了具有北欧血统的法国领袖威廉，在1066年的一场历史性战役中夺取英格兰王冠。"
+    },
+    {
+      "id": 118,
+      "startMs": 641120,
+      "endMs": 646320,
+      "en": "And he jokingly compared it to his own ascent to power as a former mayor in northern England.",
+      "zh": "他还开玩笑地将其与自己作为英格兰北部前市长的掌权之路相提并论。"
+    },
+    {
+      "id": 119,
+      "startMs": 646720,
+      "endMs": 654400,
+      "en": "A tapestry that shows a new leader emerging from a northern territory,",
+      "zh": "一幅挂毯展现了新领袖从北方领地出现，"
+    },
+    {
+      "id": 120,
+      "startMs": 655980,
+      "endMs": 660460,
+      "en": "travelling to the south of England in search of the crown.",
+      "zh": "前往英格兰南部寻找王冠。"
+    },
+    {
+      "id": 121,
+      "startMs": 661620,
+      "endMs": 664180,
+      "en": "Something clearly that couldn't happen today.",
+      "zh": "显然，这种事今天不可能发生。"
+    },
+    {
+      "id": 122,
+      "startMs": 665140,
+      "endMs": 669860,
+      "en": "France's President Macron is the first foreign leader to be welcomed to Britain by Mr Burnham.",
+      "zh": "法国总统马克龙是首位受到伯纳姆欢迎的外国领导人。"
+    },
+    {
+      "id": 123,
+      "startMs": 670340,
+      "endMs": 677620,
+      "en": "The two men discussed a range of issues, including Ukraine, the Middle East, and, as our UK political correspondent Rob Watson explains...",
+      "zh": "两人讨论了乌克兰、中东等一系列议题，英国政治记者罗布·沃森将解释……"
+    },
+    {
+      "id": 124,
+      "startMs": 677860,
+      "endMs": 685860,
+      "en": "the small boats carrying migrants that continually arrive in Britain from France, despite the authorities' efforts to stop them.",
+      "zh": "尽管当局努力阻止，载有移民的小船仍不断从法国抵达英国。"
+    },
+    {
+      "id": 125,
+      "startMs": 686340,
+      "endMs": 690500,
+      "en": "The main issue on the agenda, certainly for Britain, is this issue of boat crossings.",
+      "zh": "议程上的主要议题，尤其对英国而言，是乘船越境问题。"
+    },
+    {
+      "id": 126,
+      "startMs": 690500,
+      "endMs": 695380,
+      "en": "Because opinion polling here suggests it is a massive issue for British people.",
+      "zh": "因为这里的民调显示，这对英国民众来说是一个重大问题。"
+    },
+    {
+      "id": 127,
+      "startMs": 695460,
+      "endMs": 699060,
+      "en": "They just don't like the idea that people could come over in boats.",
+      "zh": "他们就是不喜欢有人可能乘船来到英国。"
+    },
+    {
+      "id": 128,
+      "startMs": 699060,
+      "endMs": 701780,
+      "en": "You don't know who they are, how many they are.",
+      "zh": "你不知道他们是谁，也不知道有多少人。"
+    },
+    {
+      "id": 129,
+      "startMs": 701780,
+      "endMs": 706340,
+      "en": "And so this is something that Britain has long wanted France to take action over.",
+      "zh": "因此，英国长期以来一直希望法国对此采取行动。"
+    },
+    {
+      "id": 130,
+      "startMs": 706340,
+      "endMs": 710580,
+      "en": "Now, the current government says it's getting excellent cooperation from France",
+      "zh": "现在，英国政府表示正得到法国的积极合作，"
+    },
+    {
+      "id": 131,
+      "startMs": 710660,
+      "endMs": 717780,
+      "en": "and that boat crossings are down from nearly 50,000 to below 20,000 so far this year,",
+      "zh": "并称今年迄今乘船越境人数已从近5万人降至不足2万人，"
+    },
+    {
+      "id": 132,
+      "startMs": 717780,
+      "endMs": 719860,
+      "en": "but it is a very important issue for Britain.",
+      "zh": "但这对英国来说仍是一个非常重要的问题。"
+    },
+    {
+      "id": 133,
+      "startMs": 720660,
+      "endMs": 728260,
+      "en": "But this is also a big diplomatic test for Mr Burnham, because he's been rather focused on domestic affairs rather than international ones.",
+      "zh": "但这对伯纳姆也是一次重大的外交考验，因为他一直更专注于国内事务，而非国际事务。"
+    },
+    {
+      "id": 134,
+      "startMs": 728580,
+      "endMs": 736020,
+      "en": "He did visit Ukraine in his first visit abroad as Prime Minister, so that is another big issue.",
+      "zh": "他确实在担任首相后首次出访时访问了乌克兰，所以这也是另一个重大议题。"
+    },
+    {
+      "id": 135,
+      "startMs": 736260,
+      "endMs": 741380,
+      "en": "But it will also be a test for him to see how he gets on with President Macron, given all those tensions post-Brexit.",
+      "zh": "但鉴于脱欧后的种种紧张关系，这也将检验他与马克龙总统相处得如何。"
+    },
+    {
+      "id": 136,
+      "startMs": 742640,
+      "endMs": 748640,
+      "en": "Yes. I mean, one of the doubts that had been raised about Andy Burnham is that he was very much a domestic politician.",
+      "zh": "是的。我的意思是，人们对安迪·伯纳姆的一个疑虑是，他完全是一个国内事务型政治家。"
+    },
+    {
+      "id": 137,
+      "startMs": 748640,
+      "endMs": 753280,
+      "en": "That he'd never shown much interest in diplomacy and international affairs,",
+      "zh": "人们认为他从未对外交和国际事务表现出太大兴趣，"
+    },
+    {
+      "id": 138,
+      "startMs": 753280,
+      "endMs": 758880,
+      "en": "and that most recently, he's been the champion of Manchester for ten years as the mayor of Greater Manchester.",
+      "zh": "而且最近十年来，他一直作为大曼彻斯特市长代表曼彻斯特。"
+    },
+    {
+      "id": 139,
+      "startMs": 758880,
+      "endMs": 766000,
+      "en": "So, making that step up to looking at statecraft, looking at international relations, was seen very much as a challenge.",
+      "zh": "因此，从地方治理迈向国家治理、处理国际关系，被认为是一个很大的挑战。"
+    },
+    {
+      "id": 140,
+      "startMs": 766080,
+      "endMs": 771520,
+      "en": "And look, it's worth pointing out, of course: this will be the sixth—I mean, can you believe it?—the sixth...",
+      "zh": "当然，值得指出的是：这将是第六位——真不敢相信——第六位……"
+    },
+    {
+      "id": 141,
+      "startMs": 771840,
+      "endMs": 778640,
+      "en": "British Prime Minister that President Macron will have met, saying something about the political turbulence this side of the Channel.",
+      "zh": "这将是马克龙总统见到的第六位英国首相，也说明英吉利海峡这一侧的政局多么动荡。"
+    },
+    {
+      "id": 142,
+      "startMs": 778800,
+      "endMs": 783360,
+      "en": "But I guess the good news for Mr Burnham is that on issues like the Middle East,",
+      "zh": "不过，我想对伯纳姆来说，好消息是，在中东问题上，"
+    },
+    {
+      "id": 143,
+      "startMs": 783680,
+      "endMs": 789040,
+      "en": "on issues like Ukraine, which are massively important to both France and Britain, there'll be considerable agreement.",
+      "zh": "以及对法国和英国都极其重要的乌克兰问题上，双方将有相当多共识。"
+    },
+    {
+      "id": 144,
+      "startMs": 789040,
+      "endMs": 797040,
+      "en": "Some tension, perhaps, on Britain's desire to get closer to the European Union without actually rejoining it,",
+      "zh": "英国希望在不真正重新加入欧盟的情况下与其靠近，这或许会带来一些紧张，"
+    },
+    {
+      "id": 145,
+      "startMs": 797360,
+      "endMs": 801360,
+      "en": "That will, of course, continue to be a source of friction between the two countries.",
+      "zh": "当然，这将继续成为两国之间摩擦的来源。"
+    },
+    {
+      "id": 146,
+      "startMs": 802100,
+      "endMs": 809140,
+      "en": "Rob Watson. Well, as Rob was saying, one of the issues being discussed by the two leaders is the daily crossing by small boats across the Channel.",
+      "zh": "罗布·沃森。正如罗布所说，两位领导讨论的议题之一，是每天都有小船横渡英吉利海峡。"
+    },
+    {
+      "id": 147,
+      "startMs": 809780,
+      "endMs": 818100,
+      "en": "A BBC investigation has found criminal groups who illegally smuggle people to the UK from France are running low on small boats.",
+      "zh": "BBC调查发现，非法从法国向英国走私人员的犯罪团伙，小船快要用完了。"
+    },
+    {
+      "id": 148,
+      "startMs": 818660,
+      "endMs": 826580,
+      "en": "Gang members have told BBC sources that rival factions are now having to work together to load migrants onto fewer, larger vessels.",
+      "zh": "团伙成员告诉BBC消息人士，互相竞争的派系如今不得不合作，把移民装上数量更少、体型更大的船。"
+    },
+    {
+      "id": 149,
+      "startMs": 826900,
+      "endMs": 828260,
+      "en": "They're also charging them more.",
+      "zh": "他们收取的费用也更高了。"
+    },
+    {
+      "id": 150,
+      "startMs": 828900,
+      "endMs": 836580,
+      "en": "With the number of crossings currently at a six-year low, British ministers have credited the French police for intercepting more attempts.",
+      "zh": "目前偷渡次数处于六年来的低点，英国大臣将更多偷渡企图被拦截归功于法国警方。"
+    },
+    {
+      "id": 151,
+      "startMs": 837060,
+      "endMs": 843380,
+      "en": "Our correspondent in France, James Waterhouse, looks at how the people smugglers are being forced to adapt.",
+      "zh": "本台驻法国记者詹姆斯·沃特豪斯，报道人口走私者被迫如何调整策略。"
+    },
+    {
+      "id": 152,
+      "startMs": 844260,
+      "endMs": 853460,
+      "en": "The sense we're getting is that officers have become more efficient in preventing launches, but the desire remains.",
+      "zh": "我们得到的感觉是，警员阻止下水的效率提高了，但这种愿望依然存在。"
+    },
+    {
+      "id": 153,
+      "startMs": 854160,
+      "endMs": 863460,
+      "en": "Migrants still want to make this journey, and gangs remain motivated to help them across this dangerous waterway.",
+      "zh": "移民仍想踏上这段旅程，而帮他们渡过这条危险水道的团伙，动力依然强烈。"
+    },
+    {
+      "id": 154,
+      "startMs": 863620,
+      "endMs": 871220,
+      "en": "During a low morning tide on the deep beach at Gravelines near Dunkirk, a group of a dozen or so migrants emerge from the dunes",
+      "zh": "清晨低潮时，在敦刻尔克附近格拉沃利讷的深滩上，十几名移民从沙丘中走出，"
+    },
+    {
+      "id": 155,
+      "startMs": 871620,
+      "endMs": 875140,
+      "en": "and walk, not run, towards the warm shallows of the English Channel.",
+      "zh": "他们不跑，只是走向温暖的英吉利海峡浅水处。"
+    },
+    {
+      "id": 156,
+      "startMs": 875780,
+      "endMs": 881380,
+      "en": "A taxi boat, a small boat that's departed from Belgium, then approaches them, as do we.",
+      "zh": "一艘从比利时出发的小型出租船随后向他们靠近，我们也跟了过去。"
+    },
+    {
+      "id": 157,
+      "startMs": 881960,
+      "endMs": 884840,
+      "en": "Where are you from? Afghanistan. Afghanistan.",
+      "zh": "你们来自哪里？阿富汗。阿富汗。"
+    },
+    {
+      "id": 158,
+      "startMs": 885000,
+      "endMs": 888840,
+      "en": "Why are you going to the UK? Why UK? Why not go legally?",
+      "zh": "你们为什么去英国？为什么是英国？为什么不合法前往？"
+    },
+    {
+      "id": 159,
+      "startMs": 889320,
+      "endMs": 891400,
+      "en": "Why do it like this? It's very dangerous.",
+      "zh": "为什么要这样做？这非常危险。"
+    },
+    {
+      "id": 160,
+      "startMs": 895400,
+      "endMs": 902280,
+      "en": "The boat is looking quite overloaded now. Its black sides are becoming increasingly submerged in the water.",
+      "zh": "这艘船现在看起来严重超载。黑色船身越来越沉入水中。"
+    },
+    {
+      "id": 161,
+      "startMs": 903660,
+      "endMs": 909020,
+      "en": "They're now trying to inch back to my right to pick up another group of people.",
+      "zh": "他们现在试图一点点退回我的右侧，再接上另一群人。"
+    },
+    {
+      "id": 162,
+      "startMs": 909420,
+      "endMs": 911300,
+      "en": "Good morning. Where are you from?",
+      "zh": "早上好。你们来自哪里？"
+    },
+    {
+      "id": 163,
+      "startMs": 912420,
+      "endMs": 914420,
+      "en": "Afghanistan. Afghanistan. Are you waiting for another boat? No.",
+      "zh": "阿富汗。阿富汗。你们在等另一艘船吗？不。"
+    },
+    {
+      "id": 164,
+      "startMs": 915940,
+      "endMs": 918660,
+      "en": "Was that the boat you were hoping for?",
+      "zh": "那是你们期待的那艘船吗？"
+    },
+    {
+      "id": 165,
+      "startMs": 918660,
+      "endMs": 921220,
+      "en": "Yeah. Is it going to come back for you?",
+      "zh": "是的。它会回来接你们吗？"
+    },
+    {
+      "id": 166,
+      "startMs": 923100,
+      "endMs": 923900,
+      "en": "You don't know?",
+      "zh": "你们不知道？"
+    },
+    {
+      "id": 167,
+      "startMs": 926620,
+      "endMs": 928380,
+      "en": "Why are you making such a dangerous journey?",
+      "zh": "你们为什么要踏上如此危险的旅程？"
+    },
+    {
+      "id": 168,
+      "startMs": 929020,
+      "endMs": 932940,
+      "en": "Punjabi. Punjabi, okay. What do you want to do in the UK? Work?",
+      "zh": "旁遮普语。旁遮普语，好。你们想在英国做什么？工作？"
+    },
+    {
+      "id": 169,
+      "startMs": 934600,
+      "endMs": 939080,
+      "en": "Only a few of the guys speak English. I think they're choosing not to engage.",
+      "zh": "这些人中只有少数会说英语。我觉得他们选择不与我们交流。"
+    },
+    {
+      "id": 170,
+      "startMs": 939740,
+      "endMs": 946160,
+      "en": "And if you pan along the beach, you can see the shoreline scramble.",
+      "zh": "如果沿着海滩横向拍摄，就能看到岸边的人群奔忙。"
+    },
+    {
+      "id": 171,
+      "startMs": 946320,
+      "endMs": 952400,
+      "en": "There are NGOs, humanitarian groups who have rushed here, where there are police looking on.",
+      "zh": "这里有赶来的非政府组织和人道主义团体，警察也在一旁观察。"
+    },
+    {
+      "id": 172,
+      "startMs": 952400,
+      "endMs": 958960,
+      "en": "Officers here say they cannot intervene once boats are in the water, fearing people could drown,",
+      "zh": "这里的警员称，船只下水后，他们因担心有人溺水而不能干预，"
+    },
+    {
+      "id": 173,
+      "startMs": 959520,
+      "endMs": 963360,
+      "en": "but claim they now intercept two-thirds of them before that point.",
+      "zh": "但他们声称，如今有三分之二的船只会在下水前被拦截。"
+    },
+    {
+      "id": 174,
+      "startMs": 964160,
+      "endMs": 972240,
+      "en": "British officials have long been frustrated by French reluctance and want their neighbours to adopt a more case-by-case approach.",
+      "zh": "英国官员长期对法国的不情愿感到沮丧，并希望邻国采取更逐案处理的方式。"
+    },
+    {
+      "id": 175,
+      "startMs": 972240,
+      "endMs": 977360,
+      "en": "The belief from people you speak to in the camps is that they want to get a job, they want to get employment.",
+      "zh": "从营地接触到的人那里得到的看法是，他们想找工作，想获得就业机会。"
+    },
+    {
+      "id": 176,
+      "startMs": 978560,
+      "endMs": 981120,
+      "en": "And they want to apply for asylum and get it.",
+      "zh": "他们还想申请庇护并获批。"
+    },
+    {
+      "id": 177,
+      "startMs": 981120,
+      "endMs": 983360,
+      "en": "They want the means to work and live.",
+      "zh": "他们想获得工作和生活的条件。"
+    },
+    {
+      "id": 178,
+      "startMs": 983680,
+      "endMs": 993680,
+      "en": "And I think that is one of the big pulls for the UK, but also a shared language and also people already having friends and family in the UK.",
+      "zh": "我认为这是英国吸引力很大的原因之一；共同语言，以及已经在英国有朋友和家人，也是原因。"
+    },
+    {
+      "id": 179,
+      "startMs": 993680,
+      "endMs": 1000880,
+      "en": "After three hours, five collections and zero police interventions, the small boat ventures out into the world's busiest shipping lane.",
+      "zh": "三小时后，接载五次且警方零次干预，这艘小船驶入世界最繁忙的航道。"
+    },
+    {
+      "id": 180,
+      "startMs": 1001600,
+      "endMs": 1007840,
+      "en": "All 82 people on board make it to the UK, but the people smugglers are frustrated.",
+      "zh": "船上82人全部抵达英国，但人口走私者对此很沮丧。"
+    },
+    {
+      "id": 181,
+      "startMs": 1008320,
+      "endMs": 1011520,
+      "en": "Some have told our sources that they're running low on boats.",
+      "zh": "一些人告诉本台消息人士，他们的船快用完了。"
+    },
+    {
+      "id": 182,
+      "startMs": 1012500,
+      "endMs": 1016020,
+      "en": "At the largest migrant camp further up coast, it's emptier.",
+      "zh": "在海岸更北边的最大移民营地，那里变得更空了。"
+    },
+    {
+      "id": 183,
+      "startMs": 1016820,
+      "endMs": 1026500,
+      "en": "More people stay closer to the beach to boost crossing chances. According to charity worker Angèle Vettorello, they can't access humanitarian aid.",
+      "zh": "更多人留在海滩附近以增加偷渡机会；慈善工作者安热勒·韦托雷洛说，这意味着他们无法获得人道援助。"
+    },
+    {
+      "id": 184,
+      "startMs": 1027060,
+      "endMs": 1032180,
+      "en": "I don't think people understand what is really happening here, which means",
+      "zh": "我认为人们并不了解这里真正发生了什么，这意味着"
+    },
+    {
+      "id": 185,
+      "startMs": 1032260,
+      "endMs": 1038580,
+      "en": "hundreds of families and children are living outside, far away from help from the state,",
+      "zh": "数百个家庭和孩子露宿户外，远离国家提供的援助，"
+    },
+    {
+      "id": 186,
+      "startMs": 1038900,
+      "endMs": 1042740,
+      "en": "facing dangers, obviously from the gangs, but also from the police,",
+      "zh": "他们显然面临团伙带来的危险，也面临警方带来的危险，"
+    },
+    {
+      "id": 187,
+      "startMs": 1043220,
+      "endMs": 1044980,
+      "en": "They want to cross and find a new life.",
+      "zh": "他们想渡海，寻找新的生活。"
+    },
+    {
+      "id": 188,
+      "startMs": 1045220,
+      "endMs": 1053060,
+      "en": "We've been to the camp on several occasions, but this time there was a perceptible unease. That discomfort would turn into confrontation",
+      "zh": "我们去过这个营地几次，但这次能明显感到不安。这种不适最终演变成冲突，"
+    },
+    {
+      "id": 189,
+      "startMs": 1053620,
+      "endMs": 1057300,
+      "en": "when one gang member started repeatedly throwing rocks at us from close range.",
+      "zh": "一名团伙成员开始在近距离反复向我们投掷石块。"
+    },
+    {
+      "id": 190,
+      "startMs": 1058100,
+      "endMs": 1059460,
+      "en": "We got away sharpish in the car.",
+      "zh": "我们赶紧开车离开了。"
+    },
+    {
+      "id": 191,
+      "startMs": 1061660,
+      "endMs": 1068460,
+      "en": "We've just had to drive to the hospital because Paul, our cameraman, got hit by a rock.",
+      "zh": "我们刚刚不得不开车去医院，因为摄影师保罗被石头击中了。"
+    },
+    {
+      "id": 192,
+      "startMs": 1069260,
+      "endMs": 1073840,
+      "en": "There was a man who was in what looked like a new tracksuit.",
+      "zh": "有一个男人，穿着看起来像新买的运动服。"
+    },
+    {
+      "id": 193,
+      "startMs": 1073920,
+      "endMs": 1077680,
+      "en": "We think he was one of the smugglers who didn't like us having a camera.",
+      "zh": "我们认为他是走私者之一，他不喜欢我们带着摄像机。"
+    },
+    {
+      "id": 194,
+      "startMs": 1078240,
+      "endMs": 1082160,
+      "en": "Paul got hit just above his eyebrow. It's left quite a nasty dent.",
+      "zh": "保罗被击中了眉毛上方，留下了一个很难看的凹痕。"
+    },
+    {
+      "id": 195,
+      "startMs": 1083100,
+      "endMs": 1090380,
+      "en": "Paul would end up having stitches, but we left northern France in no doubt of the still strong motivations to reach the UK illegally,",
+      "zh": "保罗最终需要缝针，但我们离开法国北部时毫不怀疑，人们仍有强烈动机要非法前往英国，"
+    },
+    {
+      "id": 196,
+      "startMs": 1090860,
+      "endMs": 1095020,
+      "en": "and for the people-smuggling gangs, that still means money and a need to evolve.",
+      "zh": "而对人口走私团伙来说，这仍意味着金钱，以及不断改变的需要。"
+    },
+    {
+      "id": 197,
+      "startMs": 1100640,
+      "endMs": 1102400,
+      "en": "James Waterhouse reporting.",
+      "zh": "詹姆斯·沃特豪斯报道。"
+    },
+    {
+      "id": 198,
+      "startMs": 1102880,
+      "endMs": 1108160,
+      "en": "Let's turn now to the issue of migrant crossings further south in the Atlantic Ocean.",
+      "zh": "现在谈谈大西洋更南部的移民偷渡问题。"
+    },
+    {
+      "id": 199,
+      "startMs": 1108880,
+      "endMs": 1112800,
+      "en": "Many people board boats from Africa's northern or western coasts",
+      "zh": "许多人从非洲北部或西部海岸登船"
+    },
+    {
+      "id": 200,
+      "startMs": 1112880,
+      "endMs": 1115520,
+      "en": "to try to reach the Canary Islands, which are Spanish.",
+      "zh": "试图抵达属于西班牙的加那利群岛。"
+    },
+    {
+      "id": 201,
+      "startMs": 1116080,
+      "endMs": 1124000,
+      "en": "Now Spanish maritime rescue teams say they've located a vessel south of the island of Gran Canaria which has been adrift for four weeks.",
+      "zh": "西班牙海上救援队称，他们在大加那利岛以南发现一艘船，该船已经漂流了四周。"
+    },
+    {
+      "id": 202,
+      "startMs": 1124320,
+      "endMs": 1128160,
+      "en": "They found five dead bodies and 44 survivors.",
+      "zh": "他们发现了5具尸体和44名幸存者。"
+    },
+    {
+      "id": 203,
+      "startMs": 1128720,
+      "endMs": 1132400,
+      "en": "It's feared that dozens of people, including a baby, died.",
+      "zh": "据担心，包括一名婴儿在内的数十人已经死亡。"
+    },
+    {
+      "id": 204,
+      "startMs": 1132800,
+      "endMs": 1135840,
+      "en": "I got more details from our Madrid correspondent, Guy Hedgecoe.",
+      "zh": "马德里记者盖伊·赫奇科告诉了我更多详情。"
+    },
+    {
+      "id": 205,
+      "startMs": 1136640,
+      "endMs": 1140720,
+      "en": "The people who were found alive, the 44 survivors, we're told",
+      "zh": "据我们所知，被发现还活着的人，也就是44名幸存者，"
+    },
+    {
+      "id": 206,
+      "startMs": 1140720,
+      "endMs": 1144900,
+      "en": "were all sub-Saharan African men,",
+      "zh": "全都是撒哈拉以南非洲男性，"
+    },
+    {
+      "id": 207,
+      "startMs": 1145220,
+      "endMs": 1151700,
+      "en": "but in total, we're told that 128 people did leave Gambia in West Africa",
+      "zh": "但据我们所知，共有128人从西非的冈比亚出发"
+    },
+    {
+      "id": 208,
+      "startMs": 1151780,
+      "endMs": 1155940,
+      "en": "in this boat in early, or the first week of August.",
+      "zh": "乘坐这艘船，于8月初、也就是第一周出发。"
+    },
+    {
+      "id": 209,
+      "startMs": 1156420,
+      "endMs": 1162980,
+      "en": "Now we know that there were some women on board who clearly perished during the journey,",
+      "zh": "现在我们知道，船上有一些女性，她们显然在旅途中遇难，"
+    },
+    {
+      "id": 210,
+      "startMs": 1162980,
+      "endMs": 1169540,
+      "en": "and we know that there was—you mentioned a baby there—at least one baby on board as well who also perished.",
+      "zh": "我们也知道，正如你提到的，船上至少有一名婴儿，也在途中遇难。"
+    },
+    {
+      "id": 211,
+      "startMs": 1169940,
+      "endMs": 1176020,
+      "en": "The survivors have been taken in in the Canary Islands and are undergoing medical treatment",
+      "zh": "幸存者已被安置在加那利群岛，正在接受治疗"
+    },
+    {
+      "id": 212,
+      "startMs": 1176340,
+      "endMs": 1179540,
+      "en": "and that's prior to undergoing some legal procedures",
+      "zh": "之后才会接受一些法律程序，"
+    },
+    {
+      "id": 213,
+      "startMs": 1180420,
+      "endMs": 1184340,
+      "en": "that they would normally undergo on arrival in a European port.",
+      "zh": "这些程序通常是在抵达欧洲港口时进行的。"
+    },
+    {
+      "id": 214,
+      "startMs": 1185620,
+      "endMs": 1190180,
+      "en": "And how will they be processed? Will they be processed at the Canaries or will they be taken to mainland Spain?",
+      "zh": "那么他们将如何接受处理？他们会在加那利群岛接受处理，还是会被带到西班牙本土？"
+    },
+    {
+      "id": 215,
+      "startMs": 1190820,
+      "endMs": 1196420,
+      "en": "Well, there are temporary migrant stay centres, as they're known, on the Canary Islands",
+      "zh": "加那利群岛上有临时移民安置中心，"
+    },
+    {
+      "id": 216,
+      "startMs": 1196420,
+      "endMs": 1202020,
+      "en": "because so many migrants try and reach the Canary Islands from North and West Africa,",
+      "zh": "这些中心之所以存在，是因为许多移民试图从北非和西非抵达加那利群岛，"
+    },
+    {
+      "id": 217,
+      "startMs": 1202020,
+      "endMs": 1205000,
+      "en": "that we have these migrant centres on the islands.",
+      "zh": "所以岛上设有这些移民中心。"
+    },
+    {
+      "id": 218,
+      "startMs": 1205320,
+      "endMs": 1213080,
+      "en": "And so they would stay in those stay centres, in theory, as long as it takes to get them processed legally.",
+      "zh": "因此，理论上，他们会留在这些安置中心，直到完成合法程序。"
+    },
+    {
+      "id": 219,
+      "startMs": 1213080,
+      "endMs": 1216600,
+      "en": "Now, that can be quite a long procedure. It can take several months.",
+      "zh": "这个过程可能相当漫长，可能需要几个月。"
+    },
+    {
+      "id": 220,
+      "startMs": 1217000,
+      "endMs": 1221400,
+      "en": "Obviously, to the frustration of the migrants themselves, who—they arrive on the islands",
+      "zh": "这显然令移民自己感到沮丧；他们抵达岛上后"
+    },
+    {
+      "id": 221,
+      "startMs": 1221720,
+      "endMs": 1224040,
+      "en": "and they think they're in Europe and that's that.",
+      "zh": "以为自己已经到了欧洲，一切就这样结束了。"
+    },
+    {
+      "id": 222,
+      "startMs": 1224120,
+      "endMs": 1229560,
+      "en": "But if they want to go to mainland Spain, it can take quite a long time,",
+      "zh": "但如果他们想去西班牙本土，可能要花很长时间，"
+    },
+    {
+      "id": 223,
+      "startMs": 1229880,
+      "endMs": 1236360,
+      "en": "and in many cases, they do actually get repatriated to their own countries if there are agreements with their countries of origin.",
+      "zh": "而且在许多情况下，如果与原籍国有协议，他们确实会被遣返回自己的国家。"
+    },
+    {
+      "id": 224,
+      "startMs": 1237000,
+      "endMs": 1243960,
+      "en": "And this is quite an ordeal for them, because this route from West Africa to the Canary Islands is one of the deadliest crossings in the world.",
+      "zh": "这对他们来说是一场苦难，因为从西非前往加那利群岛的路线，是世界上死亡率最高的偷渡路线之一。"
+    },
+    {
+      "id": 225,
+      "startMs": 1243960,
+      "endMs": 1250360,
+      "en": "It really is. I mean, if you look at the map, travelling from Gambia in West Africa all the way to the Canary Islands",
+      "zh": "确实如此。看地图就知道，从西非的冈比亚一路前往加那利群岛"
+    },
+    {
+      "id": 226,
+      "startMs": 1250360,
+      "endMs": 1253720,
+      "en": "is an enormous trip. I mean, in a way, it's a miracle they reached the",
+      "zh": "是一段极其漫长的旅程。某种程度上，他们能抵达"
+    },
+    {
+      "id": 227,
+      "startMs": 1253720,
+      "endMs": 1256200,
+      "en": "Canary Islands.",
+      "zh": "加那利群岛，简直是个奇迹。"
+    },
+    {
+      "id": 228,
+      "startMs": 1256200,
+      "endMs": 1261880,
+      "en": "Of course, there was a massive loss of life; more than 80 people appear to have died on the way,",
+      "zh": "当然，途中有大量人员死亡；似乎有80多人死在路上，"
+    },
+    {
+      "id": 229,
+      "startMs": 1262280,
+      "endMs": 1266300,
+      "en": "but it's a huge journey, but many people try and make it now.",
+      "zh": "但这是一段漫长的旅程，许多人现在仍试图走完这条路。"
+    },
+    {
+      "id": 230,
+      "startMs": 1266300,
+      "endMs": 1273900,
+      "en": "So far this year, we've had more than 5,000 migrants make the journey from Africa to the Canary Islands successfully.",
+      "zh": "今年到目前为止，已有超过5,000名移民成功从非洲抵达加那利群岛。"
+    },
+    {
+      "id": 231,
+      "startMs": 1274380,
+      "endMs": 1282380,
+      "en": "That sounds like a lot, but actually it's about, or less than half the number that made the journey over the same period last year.",
+      "zh": "听起来人数很多，但实际上大约只有、或者说不到去年同期人数的一半。"
+    },
+    {
+      "id": 232,
+      "startMs": 1282380,
+      "endMs": 1288460,
+      "en": "And there are many migrants who are seeking alternative routes, for example, to the Balearic Islands in the Mediterranean.",
+      "zh": "许多移民也在寻找其他路线，例如前往地中海的巴利阿里群岛。"
+    },
+    {
+      "id": 233,
+      "startMs": 1288700,
+      "endMs": 1295820,
+      "en": "But nonetheless, this very perilous, very dangerous route to the Canary Islands does remain quite popular with many migrants.",
+      "zh": "不过，这条极其危险、风险很高的加那利群岛路线，仍受到许多移民青睐。"
+    },
+    {
+      "id": 234,
+      "startMs": 1296380,
+      "endMs": 1306380,
+      "en": "Guy Hedgecoe. International scientists say they may be one step closer to detecting dark matter, the elusive substance binding galaxies together.",
+      "zh": "盖伊·赫奇科。一组国际科学家称，他们可能距离探测到暗物质更近了一步；暗物质是连接各个星系的神秘物质。"
+    },
+    {
+      "id": 235,
+      "startMs": 1307100,
+      "endMs": 1313180,
+      "en": "Using an ultra-sensitive detector below ground in an abandoned gold mine in the US state of South Dakota,",
+      "zh": "研究人员在美国南达科他州一座废弃金矿的地下，使用超灵敏探测器，"
+    },
+    {
+      "id": 236,
+      "startMs": 1313180,
+      "endMs": 1318860,
+      "en": "the researchers recorded a collision between an atom and a mystery particle.",
+      "zh": "记录到一个原子与神秘粒子之间的碰撞。"
+    },
+    {
+      "id": 237,
+      "startMs": 1319340,
+      "endMs": 1321100,
+      "en": "Georgina Rannard reports.",
+      "zh": "乔治娜·兰纳德报道。"
+    },
+    {
+      "id": 238,
+      "startMs": 1321660,
+      "endMs": 1326480,
+      "en": "A particle unknown to science, an intriguing particle interaction.",
+      "zh": "科学界未知的粒子，一次耐人寻味的粒子相互作用。"
+    },
+    {
+      "id": 239,
+      "startMs": 1327040,
+      "endMs": 1330640,
+      "en": "When phrases like these are used, it's hard not to feel excited.",
+      "zh": "听到这样的说法，很难不感到兴奋。"
+    },
+    {
+      "id": 240,
+      "startMs": 1331200,
+      "endMs": 1334720,
+      "en": "Dark matter is one of the biggest remaining unsolved puzzles.",
+      "zh": "暗物质是至今最大的未解谜题之一。"
+    },
+    {
+      "id": 241,
+      "startMs": 1335280,
+      "endMs": 1337440,
+      "en": "Scientists do know it is invisible,",
+      "zh": "科学家确实知道它是不可见的，"
+    },
+    {
+      "id": 242,
+      "startMs": 1337920,
+      "endMs": 1344720,
+      "en": "that it is the fabric holding our universe together, and that it forms about 85% of total matter.",
+      "zh": "它是维系宇宙的结构，占全部物质的约85%。"
+    },
+    {
+      "id": 243,
+      "startMs": 1345360,
+      "endMs": 1349280,
+      "en": "But in a century of searching, no one has ever actually seen it.",
+      "zh": "但经过一个世纪的寻找，从来没有人真正看见过它。"
+    },
+    {
+      "id": 244,
+      "startMs": 1349840,
+      "endMs": 1358800,
+      "en": "Like an animal leaving footprints in the snow, dark matter is detected only by its gravitational pull on visible objects like stars.",
+      "zh": "暗物质就像在雪地留下脚印的动物，人们只能通过它对恒星等可见物体的引力来探测它。"
+    },
+    {
+      "id": 245,
+      "startMs": 1359440,
+      "endMs": 1366160,
+      "en": "So when scientists announced that they may have finally detected dark matter, it generated huge excitement.",
+      "zh": "因此，当科学家宣布可能终于探测到暗物质时，引发了巨大轰动。"
+    },
+    {
+      "id": 246,
+      "startMs": 1366640,
+      "endMs": 1369760,
+      "en": "Dr Sam Erikson of Bristol University led the research.",
+      "zh": "布里斯托尔大学的萨姆·埃里克森博士领导了这项研究。"
+    },
+    {
+      "id": 247,
+      "startMs": 1370240,
+      "endMs": 1375040,
+      "en": "What we've actually observed is a flash of light or collection of flashes of light",
+      "zh": "我们实际观察到的是一道闪光，或一组闪光，"
+    },
+    {
+      "id": 248,
+      "startMs": 1375040,
+      "endMs": 1379200,
+      "en": "which are consistent with what we'd expect dark matter to look like,",
+      "zh": "这与我们预期暗物质应有的表现一致，"
+    },
+    {
+      "id": 249,
+      "startMs": 1379440,
+      "endMs": 1382880,
+      "en": "and doesn't look like anything else that interacts.",
+      "zh": "而且看起来不像其他任何会发生相互作用的东西。"
+    },
+    {
+      "id": 250,
+      "startMs": 1383380,
+      "endMs": 1390580,
+      "en": "All of the properties of this particular interaction are so different compared to all of the backgrounds that we know,",
+      "zh": "这种特定相互作用的所有性质，与我们已知的各种背景信号相比都截然不同，"
+    },
+    {
+      "id": 251,
+      "startMs": 1390580,
+      "endMs": 1393140,
+      "en": "and this event remains an outlier.",
+      "zh": "这一事件仍是一个异常值。"
+    },
+    {
+      "id": 252,
+      "startMs": 1393300,
+      "endMs": 1395780,
+      "en": "And that's really why we're excited about it.",
+      "zh": "这正是我们对此感到兴奋的原因。"
+    },
+    {
+      "id": 253,
+      "startMs": 1396180,
+      "endMs": 1401700,
+      "en": "But be wary. A tantalizing promise does not always deliver good science.",
+      "zh": "但要保持警惕。诱人的承诺并不总能带来严谨的科学。"
+    },
+    {
+      "id": 254,
+      "startMs": 1402020,
+      "endMs": 1404980,
+      "en": "True breakthroughs are made of more than good vibes.",
+      "zh": "真正的突破不只是美好感觉。"
+    },
+    {
+      "id": 255,
+      "startMs": 1405540,
+      "endMs": 1408900,
+      "en": "The research has yet to be reviewed by independent scientists,",
+      "zh": "这项研究尚未经过独立科学家的评审，"
+    },
+    {
+      "id": 256,
+      "startMs": 1409300,
+      "endMs": 1412100,
+      "en": "and the findings have been rated 2.6 sigma,",
+      "zh": "研究结果的统计显著性为2.6西格玛，"
+    },
+    {
+      "id": 257,
+      "startMs": 1412500,
+      "endMs": 1416020,
+      "en": "the system that marks the statistical significance of discoveries.",
+      "zh": "西格玛是衡量科学发现统计显著性的系统。"
+    },
+    {
+      "id": 258,
+      "startMs": 1416500,
+      "endMs": 1418180,
+      "en": "The normal threshold is five.",
+      "zh": "通常的门槛是5。"
+    },
+    {
+      "id": 259,
+      "startMs": 1418820,
+      "endMs": 1419780,
+      "en": "Georgina Rannard.",
+      "zh": "乔治娜·兰纳德。"
+    },
+    {
+      "id": 260,
+      "startMs": 1420940,
+      "endMs": 1427820,
+      "en": "Two-time defending champion, Aryna Sabalenka, is on a winning streak at the US Open and has booked her place in the third round.",
+      "zh": "两届卫冕冠军阿丽娜·萨巴伦卡在美网保持连胜，已晋级第三轮。"
+    },
+    {
+      "id": 261,
+      "startMs": 1428220,
+      "endMs": 1433980,
+      "en": "The world number one only needed 53 minutes to beat debutante Polina Kudermetova.",
+      "zh": "这位世界第一只用53分钟就击败了大满贯首秀选手波琳娜·库德梅托娃。"
+    },
+    {
+      "id": 262,
+      "startMs": 1434380,
+      "endMs": 1440460,
+      "en": "But in her post-match news conference, Sabalenka hit back at what she perceived to be a suggestion from a reporter",
+      "zh": "但在赛后新闻发布会上，萨巴伦卡反驳了一名记者提出的、在她看来是这样的暗示："
+    },
+    {
+      "id": 263,
+      "startMs": 1440860,
+      "endMs": 1445420,
+      "en": "that she had been attending, quote, \"lots of parties\" in the build-up to the tournament.",
+      "zh": "她在赛事前夕参加了“很多派对”。"
+    },
+    {
+      "id": 264,
+      "startMs": 1445420,
+      "endMs": 1450620,
+      "en": "I'm sort of curious—how are you finding your mood now that the tournament has started?",
+      "zh": "我有点好奇，赛事开始后，你现在的心情怎么样？"
+    },
+    {
+      "id": 265,
+      "startMs": 1450620,
+      "endMs": 1456140,
+      "en": "Obviously, last week, it was lots of parties and fun and stuff like that. Are you?",
+      "zh": "显然，上周有很多派对、玩乐之类的。你是这样吗？"
+    },
+    {
+      "id": 266,
+      "startMs": 1456860,
+      "endMs": 1462700,
+      "en": "You guys are like a joke! Parties, fun—why would you even say that?",
+      "zh": "你们这些人简直像在开玩笑！派对、玩乐——你为什么要这么说？"
+    },
+    {
+      "id": 267,
+      "startMs": 1462700,
+      "endMs": 1467020,
+      "en": "Why would you even think about that? Like, what kind of question is that?",
+      "zh": "你为什么会想到这一点？这算是什么问题？"
+    },
+    {
+      "id": 268,
+      "startMs": 1467100,
+      "endMs": 1473580,
+      "en": "Like, just because I posted, like, some activities with brands, you think that I've been partying,",
+      "zh": "就因为我发布了一些和品牌合作活动的内容，你就觉得我一直在参加派对，"
+    },
+    {
+      "id": 269,
+      "startMs": 1473580,
+      "endMs": 1476060,
+      "en": "not training? I'm not suggesting that you're partying.",
+      "zh": "而不是训练？我并不是说你在参加派对。"
+    },
+    {
+      "id": 270,
+      "startMs": 1476220,
+      "endMs": 1479500,
+      "en": "No, like, the bloody question. Like, what is that?",
+      "zh": "不，我是说，这个糟糕的问题——这算什么？"
+    },
+    {
+      "id": 271,
+      "startMs": 1480720,
+      "endMs": 1486800,
+      "en": "I'm saying that there are a lot of events and things like that. I'm not saying you go to the parties and that you're...",
+      "zh": "我是说，有很多活动之类的事情。我不是说你去参加派对，也不是说你……"
+    },
+    {
+      "id": 272,
+      "startMs": 1486800,
+      "endMs": 1488880,
+      "en": "You literally said that. You're... Excuse me?",
+      "zh": "你明明就是这么说的。你……什么？"
+    },
+    {
+      "id": 273,
+      "startMs": 1489520,
+      "endMs": 1496900,
+      "en": "Ah. Well, whatever she's been doing, it's clearly working. She's one of the favourites to take the title this year.",
+      "zh": "啊。不管她做了什么，显然都奏效了。她是今年夺冠的热门人选之一。"
+    },
+    {
+      "id": 274,
+      "startMs": 1497140,
+      "endMs": 1499140,
+      "en": "Here's our reporter, Abigail Johnson.",
+      "zh": "下面请听我们的记者阿比盖尔·约翰逊报道。"
+    },
+    {
+      "id": 275,
+      "startMs": 1499540,
+      "endMs": 1506820,
+      "en": "She's the two-time defending champion and she's targeting a fourth consecutive final at this tournament.",
+      "zh": "她是两届卫冕冠军，目标是在这项赛事中连续第四次打进决赛。"
+    },
+    {
+      "id": 276,
+      "startMs": 1506820,
+      "endMs": 1512900,
+      "en": "So I think history does come into the equation with some weight when you've had that level of dominance,",
+      "zh": "所以我认为，当你曾拥有那样的统治力时，历史战绩确实会产生相当大的影响，"
+    },
+    {
+      "id": 277,
+      "startMs": 1513300,
+      "endMs": 1519060,
+      "en": "but it's hard to ignore that she has dropped off in form compared to her usual high standards of late.",
+      "zh": "但很难忽视的是，和她一贯的高水平相比，她近期的状态有所下滑。"
+    },
+    {
+      "id": 278,
+      "startMs": 1519140,
+      "endMs": 1525940,
+      "en": "For the second straight year, she's coming into the final major of the season without a Grand Slam title this year.",
+      "zh": "连续第二年，她在没有赢得大满贯冠军的情况下迎来本赛季最后一项大满贯赛事。"
+    },
+    {
+      "id": 279,
+      "startMs": 1525940,
+      "endMs": 1528900,
+      "en": "But more than that, she lost in the fourth round at Wimbledon,",
+      "zh": "更重要的是，她在温网第四轮输掉了比赛，"
+    },
+    {
+      "id": 280,
+      "startMs": 1528900,
+      "endMs": 1535780,
+      "en": "and that ended a streak of 15 consecutive quarter-finals reached at Grand Slam tournaments.",
+      "zh": "这也终结了她在大满贯赛事中连续15次打进四分之一决赛的纪录。"
+    },
+    {
+      "id": 281,
+      "startMs": 1536020,
+      "endMs": 1538820,
+      "en": "She's lost in the fourth round at her last three tournaments.",
+      "zh": "她最近三项赛事都止步第四轮。"
+    },
+    {
+      "id": 282,
+      "startMs": 1539140,
+      "endMs": 1542580,
+      "en": "So I think you'd edge it in her direction because of the history,",
+      "zh": "所以我认为，考虑到历史战绩，我会稍微倾向于她，"
+    },
+    {
+      "id": 283,
+      "startMs": 1542820,
+      "endMs": 1549300,
+      "en": "but really it is very hard to say that she's head and shoulders above the field the way that she has been in the past.",
+      "zh": "但说她像过去那样明显领先于其他选手，确实非常困难。"
+    },
+    {
+      "id": 284,
+      "startMs": 1549300,
+      "endMs": 1554760,
+      "en": "It's actually Elena Rybakina who has the best chance of finishing the tournament as world number one.",
+      "zh": "实际上，叶莲娜·莱巴金娜最有可能以世界第一的身份结束这项赛事。"
+    },
+    {
+      "id": 285,
+      "startMs": 1554760,
+      "endMs": 1562840,
+      "en": "Sabalenka would need to win the title and would require the number two seed to lose before the semi-finals in order to maintain that top ranking.",
+      "zh": "萨巴伦卡需要夺冠，而且还要二号种子在半决赛前输球，才能保持世界第一的排名。"
+    },
+    {
+      "id": 286,
+      "startMs": 1563160,
+      "endMs": 1567000,
+      "en": "Coco Gauff also gets an extra boost from the electric New York crowd,",
+      "zh": "科科·高芙也能得到热情的纽约观众带来的额外助力，"
+    },
+    {
+      "id": 287,
+      "startMs": 1567000,
+      "endMs": 1572440,
+      "en": "and Jessica Pegula, who made the final in 2024, she's always been a strong contender as well.",
+      "zh": "而曾在2024年打进决赛的杰茜卡·佩古拉，也一直是强有力的竞争者。"
+    },
+    {
+      "id": 288,
+      "startMs": 1572440,
+      "endMs": 1574520,
+      "en": "So it's really very fascinating on the women's side.",
+      "zh": "所以女子单打这边确实非常精彩。"
+    },
+    {
+      "id": 289,
+      "startMs": 1575080,
+      "endMs": 1576200,
+      "en": "Abigail Johnson.",
+      "zh": "阿比盖尔·约翰逊。"
+    },
+    {
+      "id": 290,
+      "startMs": 1577800,
+      "endMs": 1584520,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部内容。如需联系我们，可发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 291,
+      "startMs": 1584520,
+      "endMs": 1590920,
+      "en": "You can also now watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "现在还可以在YouTube上观看我们的完整节目，只需搜索 Global News Podcast。"
+    },
+    {
+      "id": 292,
+      "startMs": 1591640,
+      "endMs": 1596520,
+      "en": "This edition was mixed by Mark Pickett, and the producers were Arlene Cochi and Stefanie Zacharison.",
+      "zh": "本期由马克·皮克茨混音，制作人是阿琳·科奇和斯蒂芬妮·扎卡里森。"
+    },
+    {
+      "id": 293,
+      "startMs": 1596760,
+      "endMs": 1598040,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 294,
+      "startMs": 1598760,
+      "endMs": 1601160,
+      "en": "I'm Janet Jalil. Until next time, goodbye.",
+      "zh": "我是珍妮特·贾利勒。下次再见。"
+    }
+  ]
+}
