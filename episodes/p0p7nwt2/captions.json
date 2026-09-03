@@ -1,0 +1,1999 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "3 September 2026"
+  },
+  "durationMs": 1662760,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3040,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5920,
+      "endMs": 11200,
+      "en": "Hello, I'm Ankur Desai, and in the early hours of Thursday, the 3rd of September, these are our main stories.",
+      "zh": "你好，我是安库尔·德赛。9月3日星期四凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11840,
+      "endMs": 20000,
+      "en": "Venezuela and the US hailed a new oil deal, which hands over a fifth of Venezuela's crude,",
+      "zh": "委内瑞拉和美国称赞一项新的石油协议；协议将委内瑞拉五分之一的原油交由对方掌控，"
+    },
+    {
+      "id": 4,
+      "startMs": 20000,
+      "endMs": 23440,
+      "en": "but critics say it's neocolonialism and likely to entrench the current authoritarian leadership.",
+      "zh": "但批评者称这是新殖民主义，可能巩固现有的威权领导层。"
+    },
+    {
+      "id": 5,
+      "startMs": 24400,
+      "endMs": 30400,
+      "en": "Protests across Spain in support of Ceuta, the Spanish territory that's seen a steep rise in migrants,",
+      "zh": "西班牙各地举行示威，声援休达这个西班牙领土；那里接收的移民人数大幅上升，"
+    },
+    {
+      "id": 6,
+      "startMs": 30880,
+      "endMs": 37680,
+      "en": "and New York's mayor, Zohran Mamdani, announces a one-year ban on AI in schools for children up to the age of 14.",
+      "zh": "纽约市长佐赫兰·马姆达尼宣布，学校一年内不得让14岁及以下儿童使用人工智能。"
+    },
+    {
+      "id": 7,
+      "startMs": 40920,
+      "endMs": 47400,
+      "en": "Also in this podcast, we hear from southern Lebanon, where Israel's occupation shows no sign of easing.",
+      "zh": "本期还将听取来自黎巴嫩南部的报道，那里以色列的占领没有任何缓和迹象。"
+    },
+    {
+      "id": 8,
+      "startMs": 47960,
+      "endMs": 57400,
+      "en": "And the lighting is incredibly low, that's to protect this fragile artwork, but there is enough light to see the drama of it.",
+      "zh": "现场灯光非常昏暗，这是为了保护这件脆弱的艺术品；但光线仍足以看清它所展现的戏剧性。"
+    },
+    {
+      "id": 9,
+      "startMs": 57720,
+      "endMs": 61000,
+      "en": "This epic story of Anglo-French relations.",
+      "zh": "这是英法关系的史诗故事。"
+    },
+    {
+      "id": 10,
+      "startMs": 61560,
+      "endMs": 68760,
+      "en": "For the first time in almost a thousand years, the historic Bayeux Tapestry is set to go on display to the public here in the UK.",
+      "zh": "近千年来首次，这幅历史悠久的巴约挂毯将在英国向公众展出。"
+    },
+    {
+      "id": 11,
+      "startMs": 73920,
+      "endMs": 82080,
+      "en": "Venezuela has the world's largest proven oil reserves, but since the late 1990s, its oil production has declined by around 70%.",
+      "zh": "委内瑞拉拥有世界上最大的已探明石油储量，但自20世纪90年代末以来，其石油产量下降了约70%。"
+    },
+    {
+      "id": 12,
+      "startMs": 82080,
+      "endMs": 88480,
+      "en": "The gap between rich and poor has widened, and ordinary people have failed to benefit from the country's oil wealth.",
+      "zh": "贫富差距扩大，普通民众也未能从该国的石油财富中受益。"
+    },
+    {
+      "id": 13,
+      "startMs": 89120,
+      "endMs": 93760,
+      "en": "In January, President Trump forcibly removed President Nicolas Maduro from power,",
+      "zh": "今年1月，特朗普总统强行将尼古拉斯·马杜罗总统赶下台，"
+    },
+    {
+      "id": 14,
+      "startMs": 94160,
+      "endMs": 97920,
+      "en": "but backed his deputy Delcy Rodriguez as Venezuela's leader.",
+      "zh": "但支持他的副手德尔西·罗德里格斯担任委内瑞拉领导人。"
+    },
+    {
+      "id": 15,
+      "startMs": 98560,
+      "endMs": 103520,
+      "en": "On Wednesday, a massive oil deal was signed in the capital Caracas between the US and Venezuela.",
+      "zh": "星期三，美国和委内瑞拉在首都加拉加斯签署了一项大规模石油协议。"
+    },
+    {
+      "id": 16,
+      "startMs": 103920,
+      "endMs": 111280,
+      "en": "It grants a US-led company licenses to exploit 17 oil fields, amounting to 65 billion barrels of oil.",
+      "zh": "协议授予一家由美国主导的公司开采17个油田的许可，涉及650亿桶石油。"
+    },
+    {
+      "id": 17,
+      "startMs": 111840,
+      "endMs": 116880,
+      "en": "After the signing ceremony in Caracas, the US Energy Secretary, Chris Wright, had this to say.",
+      "zh": "在加拉加斯的签署仪式后，美国能源部长克里斯·赖特发表了如下讲话。"
+    },
+    {
+      "id": 18,
+      "startMs": 117200,
+      "endMs": 119840,
+      "en": "Today is a historic day in the transformation of Venezuela,",
+      "zh": "今天是委内瑞拉转型的历史性一天，"
+    },
+    {
+      "id": 19,
+      "startMs": 120080,
+      "endMs": 127280,
+      "en": "and the expansion of the possibilities for the Venezuelan people.",
+      "zh": "也是扩大委内瑞拉人民可能性的一天。"
+    },
+    {
+      "id": 20,
+      "startMs": 127520,
+      "endMs": 133280,
+      "en": "President Trump's mission in Venezuela is to bring peace, freedom.",
+      "zh": "特朗普总统在委内瑞拉的使命，是为委内瑞拉人民带来和平与自由，"
+    },
+    {
+      "id": 21,
+      "startMs": 134180,
+      "endMs": 139140,
+      "en": "Opportunity and prosperity to the people of Venezuela.",
+      "zh": "机会与繁荣。"
+    },
+    {
+      "id": 22,
+      "startMs": 139700,
+      "endMs": 144340,
+      "en": "Seated to his left was the interim president of Venezuela, Delcy Rodriguez.",
+      "zh": "坐在他左侧的是委内瑞拉临时总统德尔西·罗德里格斯。"
+    },
+    {
+      "id": 23,
+      "startMs": 144660,
+      "endMs": 148980,
+      "en": "She said the deal would generate $200 billion in tax revenue.",
+      "zh": "她说，这项协议将产生2000亿美元的税收。"
+    },
+    {
+      "id": 24,
+      "startMs": 152300,
+      "endMs": 157420,
+      "en": "When I talk about increasing production, I am talking about the well-being of the Venezuelan people.",
+      "zh": "我谈到提高产量时，指的是委内瑞拉人民的福祉。"
+    },
+    {
+      "id": 25,
+      "startMs": 157420,
+      "endMs": 164140,
+      "en": "I mean making sure that increased production in our oil, gas, and petrochemical industries",
+      "zh": "我的意思是确保石油、天然气和石化行业增产"
+    },
+    {
+      "id": 26,
+      "startMs": 164700,
+      "endMs": 171900,
+      "en": "translates into more jobs, higher wages, better public services, hospitals, schools, and food.",
+      "zh": "转化为更多就业、更高工资、更好的公共服务、医院、学校和食品供应。"
+    },
+    {
+      "id": 27,
+      "startMs": 171900,
+      "endMs": 179020,
+      "en": "It means improving the well-being of a country that, as a whole, is seeking prosperity and a better future.",
+      "zh": "这意味着改善一个整体上正在寻求繁荣和美好未来的国家的福祉。"
+    },
+    {
+      "id": 28,
+      "startMs": 179900,
+      "endMs": 182620,
+      "en": "That is the transformation Venezuela needs.",
+      "zh": "这正是委内瑞拉所需要的转型。"
+    },
+    {
+      "id": 29,
+      "startMs": 183420,
+      "endMs": 189100,
+      "en": "But others are more sceptical and have criticised the deal for giving away too much to the Americans.",
+      "zh": "但其他人更加怀疑，批评这项协议向美国人让渡了太多利益。"
+    },
+    {
+      "id": 30,
+      "startMs": 189500,
+      "endMs": 197660,
+      "en": "I spoke to our Latin America correspondent, Will Grant, who has previously lived in Venezuela, and asked just how this huge deal is going to work.",
+      "zh": "我采访了曾在委内瑞拉生活过的拉丁美洲事务记者威尔·格兰特，问他这项巨大协议究竟将如何运作。"
+    },
+    {
+      "id": 31,
+      "startMs": 198220,
+      "endMs": 203500,
+      "en": "It will be run through a company called North American Blue Energy Partners,",
+      "zh": "协议由 North American Blue Energy Partners 运营，"
+    },
+    {
+      "id": 32,
+      "startMs": 203740,
+      "endMs": 205980,
+      "en": "run by a man called Alejandro Betancourt.",
+      "zh": "由亚历杭德罗·贝坦库尔负责。"
+    },
+    {
+      "id": 33,
+      "startMs": 206300,
+      "endMs": 214080,
+      "en": "What I've been hearing from Venezuelans on the street, through colleagues there, through journalists reporting in Caracas,",
+      "zh": "我从街头的委内瑞拉人、当地同事以及在加拉加斯报道的记者那里听到的是，"
+    },
+    {
+      "id": 34,
+      "startMs": 214400,
+      "endMs": 221280,
+      "en": "is that there's a sense, particularly among ordinary people, that they simply don't know the details of what's being agreed.",
+      "zh": "尤其是普通民众普遍感觉，他们根本不知道协议具体达成了什么。"
+    },
+    {
+      "id": 35,
+      "startMs": 221440,
+      "endMs": 228640,
+      "en": "A sense, as you can imagine, for many, that the country's resources are being, as it were, gifted to Washington,",
+      "zh": "正如你可以想象的，许多人感觉这个国家的资源就这样被“送给”了华盛顿，"
+    },
+    {
+      "id": 36,
+      "startMs": 228960,
+      "endMs": 235680,
+      "en": "which on the left runs so against the tenets of Hugo Chavez, his anti-Americanism,",
+      "zh": "这在左翼看来，与乌戈·查韦斯的原则及其反美立场大相径庭，"
+    },
+    {
+      "id": 37,
+      "startMs": 235680,
+      "endMs": 241600,
+      "en": "his antipathy to Washington during George Bush Junior's time in office.",
+      "zh": "也违背查韦斯在小布什执政时期对华盛顿的敌意。"
+    },
+    {
+      "id": 38,
+      "startMs": 241840,
+      "endMs": 246880,
+      "en": "So, yeah, it is a very, very difficult one to square with many ordinary people,",
+      "zh": "所以，这确实很难让许多普通民众接受，"
+    },
+    {
+      "id": 39,
+      "startMs": 247120,
+      "endMs": 254800,
+      "en": "although the United Socialist Party, the governing party in Venezuela, has backed Delcy Rodriguez, the interim president.",
+      "zh": "不过，委内瑞拉执政党统一社会主义党支持临时总统德尔西·罗德里格斯。"
+    },
+    {
+      "id": 40,
+      "startMs": 254960,
+      "endMs": 263120,
+      "en": "Many will wonder—and worry—about the benefit to ordinary Venezuelans, and how long it will take.",
+      "zh": "很多人会想知道，这对普通委内瑞拉人有什么好处，也会担心这需要多长时间才能见效。"
+    },
+    {
+      "id": 41,
+      "startMs": 263280,
+      "endMs": 265600,
+      "en": "It's a huge deal in and of itself,",
+      "zh": "这项协议本身规模巨大，"
+    },
+    {
+      "id": 42,
+      "startMs": 265600,
+      "endMs": 271380,
+      "en": "and alongside it, new deals have been signed between a number of international energy firms,",
+      "zh": "与此同时，多家国际能源企业之间也签署了新协议，"
+    },
+    {
+      "id": 43,
+      "startMs": 271380,
+      "endMs": 281220,
+      "en": "including Chevron and the Venezuelan government, that are supposedly directed towards things like reconstructing and rebuilding the electrical grid,",
+      "zh": "其中包括雪佛龙与委内瑞拉政府签署的协议，据称旨在重建和修复电网，"
+    },
+    {
+      "id": 44,
+      "startMs": 281220,
+      "endMs": 287300,
+      "en": "things like this that make it vital for Venezuela to get back to some kind of a normal footing,",
+      "zh": "这些举措对于委内瑞拉恢复某种正常状态至关重要，"
+    },
+    {
+      "id": 45,
+      "startMs": 287460,
+      "endMs": 296740,
+      "en": "so that production can get back to the levels, not that it was sort of 15, 20 years ago, but simply what it was producing 40 years ago, 30 years ago.",
+      "zh": "从而让产量恢复到过去的水平——不是恢复到大约15到20年前的水平，而是恢复到40年前、30年前的产量。"
+    },
+    {
+      "id": 46,
+      "startMs": 297300,
+      "endMs": 304740,
+      "en": "So there is a lot of work that needs doing before this giant accord between Washington and Caracas can actually start to bear fruit.",
+      "zh": "所以，在华盛顿与加拉加斯的这项巨大协议真正开始结出成果之前，还有大量工作要做。"
+    },
+    {
+      "id": 47,
+      "startMs": 305060,
+      "endMs": 310100,
+      "en": "Of course, President Trump says that he believes it will start working within two to three years.",
+      "zh": "当然，特朗普总统表示，他认为这项协议将在两到三年内开始运作。"
+    },
+    {
+      "id": 48,
+      "startMs": 310100,
+      "endMs": 319700,
+      "en": "Energy experts that we've heard from have said that it's more like a decade before there'll be any real fruit felt from these accords.",
+      "zh": "我们采访的能源专家说，要真正感受到这些协议的成果，更可能需要十年左右。"
+    },
+    {
+      "id": 49,
+      "startMs": 320100,
+      "endMs": 323140,
+      "en": "Donald Trump says it's too early for elections in Venezuela.",
+      "zh": "唐纳德·特朗普表示，现在在委内瑞拉举行选举还为时过早。"
+    },
+    {
+      "id": 50,
+      "startMs": 323140,
+      "endMs": 329780,
+      "en": "How likely is this news to go down with people there? And also bearing in mind Delcy Rodriguez and her approval ratings as well?",
+      "zh": "当地民众会如何看待这一消息？另外，也要考虑德尔西·罗德里格斯及其支持率的情况。"
+    },
+    {
+      "id": 51,
+      "startMs": 330360,
+      "endMs": 335400,
+      "en": "Yeah, I think the fact that Donald Trump says the country simply isn't, as he put it, ready for elections",
+      "zh": "是的，我认为，特朗普说这个国家正如他所说的那样还没准备好举行选举，"
+    },
+    {
+      "id": 52,
+      "startMs": 335400,
+      "endMs": 343080,
+      "en": "is going to be deeply concerning to those in opposition who really are pressuring not just Mr Trump but also Marco Rubio",
+      "zh": "会让反对派深感忧虑。他们正向特朗普和马可·卢比奥施压，"
+    },
+    {
+      "id": 53,
+      "startMs": 343480,
+      "endMs": 346920,
+      "en": "to start moving towards elections as soon as possible.",
+      "zh": "要求尽快推动举行选举。"
+    },
+    {
+      "id": 54,
+      "startMs": 346920,
+      "endMs": 354760,
+      "en": "Now, Marco Rubio has spoken to a Spanish-language outlet. He's spoken to Fox News where he says, \"Look, if it was possible, we'd have them as soon as possible,\"",
+      "zh": "马可·卢比奥接受一家西语媒体和福克斯新闻采访时说：“如果可能，我们会尽快举行选举。”"
+    },
+    {
+      "id": 55,
+      "startMs": 355160,
+      "endMs": 364520,
+      "en": "but if it were to happen now, the regime would use the same broken infrastructure of elections that it has used to maintain its grip on power.",
+      "zh": "但如果现在举行，政权会利用同样破败的选举基础设施，维持对权力的控制。"
+    },
+    {
+      "id": 56,
+      "startMs": 364840,
+      "endMs": 374920,
+      "en": "I think the opposition is saying they are very uncomfortable with seeing such a close relationship between Delcy Rodriguez and the Trump administration,",
+      "zh": "我认为，反对派表示，他们对德尔西·罗德里格斯与特朗普政府关系如此密切感到非常不安，"
+    },
+    {
+      "id": 57,
+      "startMs": 375000,
+      "endMs": 381160,
+      "en": "even raising the suggestion that such a major energy deal can't legally be reached by a transitional government.",
+      "zh": "甚至提出质疑：过渡政府在法律上不能达成如此重大的能源协议。"
+    },
+    {
+      "id": 58,
+      "startMs": 381240,
+      "endMs": 389800,
+      "en": "Now, that has been pushed back by the National Assembly, made up, of course, of loyalists to Delcy Rodriguez, but this is becoming really sticky politically.",
+      "zh": "当然，由德尔西·罗德里格斯的支持者组成的国民议会已对此予以反驳，但这在政治上正变得非常棘手。"
+    },
+    {
+      "id": 59,
+      "startMs": 389820,
+      "endMs": 394540,
+      "en": "I think not just in Venezuela, but for the Trump administration more broadly.",
+      "zh": "我认为，不仅对委内瑞拉，对特朗普政府整体而言也是如此。"
+    },
+    {
+      "id": 60,
+      "startMs": 394940,
+      "endMs": 395660,
+      "en": "Will Grant.",
+      "zh": "威尔·格兰特报道。"
+    },
+    {
+      "id": 61,
+      "startMs": 396380,
+      "endMs": 405260,
+      "en": "Tens of thousands of people have been demonstrating against the Spanish government's handling of the migrant crisis in the territory of Ceuta on the tip of North Africa.",
+      "zh": "数万人抗议西班牙政府处理移民危机的方式。事发地休达位于北非最北端。"
+    },
+    {
+      "id": 62,
+      "startMs": 405260,
+      "endMs": 411260,
+      "en": "Five weeks ago, more than 70,000 people forced their way from Morocco into the Spanish territory.",
+      "zh": "五周前，7万多人从摩洛哥强行进入西班牙领土。"
+    },
+    {
+      "id": 63,
+      "startMs": 411740,
+      "endMs": 416460,
+      "en": "Large numbers have since left, but several thousand migrants remain in makeshift camps.",
+      "zh": "此后大批人离开，但仍有数千名移民留在临时营地。"
+    },
+    {
+      "id": 64,
+      "startMs": 416940,
+      "endMs": 419580,
+      "en": "Guy Hedgecoe was at one of the protests in Madrid.",
+      "zh": "盖伊·赫奇科在马德里的一场抗议活动现场。"
+    },
+    {
+      "id": 65,
+      "startMs": 419660,
+      "endMs": 426460,
+      "en": "I'm in central Madrid, where probably the biggest protest is just getting underway, and there are certainly thousands of people here.",
+      "zh": "我在马德里市中心，规模可能最大的抗议活动刚刚开始，现场肯定有数千人。"
+    },
+    {
+      "id": 66,
+      "startMs": 426780,
+      "endMs": 434380,
+      "en": "There are also protests in the other big cities across the country, Barcelona, Valencia, Seville, obviously also in Ceuta itself.",
+      "zh": "全国其他大城市也有抗议活动，包括巴塞罗那、瓦伦西亚、塞维利亚，当然还有休达。"
+    },
+    {
+      "id": 67,
+      "startMs": 434860,
+      "endMs": 439660,
+      "en": "So, it does seem that people are turning out. It started out as a humanitarian crisis.",
+      "zh": "看来人们确实走上街头了。这场事件最初是一场人道主义危机。"
+    },
+    {
+      "id": 68,
+      "startMs": 439660,
+      "endMs": 444700,
+      "en": "Remember that more than 100 migrants died when they made that crossing, many of them drowned.",
+      "zh": "别忘了，超过100名移民在越境时死亡，其中许多人溺水身亡。"
+    },
+    {
+      "id": 69,
+      "startMs": 445260,
+      "endMs": 448300,
+      "en": "But it's become more of a social and political crisis now.",
+      "zh": "但现在它更多地演变成了社会和政治危机。"
+    },
+    {
+      "id": 70,
+      "startMs": 448780,
+      "endMs": 453680,
+      "en": "There are still several thousand migrants on the streets or on the beaches of Ceuta.",
+      "zh": "休达街头或海滩上仍有数千名移民。"
+    },
+    {
+      "id": 71,
+      "startMs": 454000,
+      "endMs": 460560,
+      "en": "They don't have proper homes, most of them, or shelter, even though the government is building those temporary shelters.",
+      "zh": "他们大多没有像样的住所或庇护所，尽管政府正在建设临时收容所。"
+    },
+    {
+      "id": 72,
+      "startMs": 461280,
+      "endMs": 463600,
+      "en": "And so, it is a huge challenge logistically.",
+      "zh": "因此，这在后勤上是一个巨大挑战。"
+    },
+    {
+      "id": 73,
+      "startMs": 464560,
+      "endMs": 472240,
+      "en": "It's also a political problem for the government because the opposition is saying that the government simply hasn't acted swiftly enough on this,",
+      "zh": "这对政府也是一个政治难题，因为反对派称政府在此事上的行动根本不够迅速，"
+    },
+    {
+      "id": 74,
+      "startMs": 472560,
+      "endMs": 479760,
+      "en": "and it's almost encouraging Morocco, for example, to make its own sovereignty claims on Ceuta.",
+      "zh": "甚至几乎是在鼓励摩洛哥提出对休达的主权要求。"
+    },
+    {
+      "id": 75,
+      "startMs": 479760,
+      "endMs": 484720,
+      "en": "Morocco has long claimed Ceuta for itself, saying that it should belong to Morocco.",
+      "zh": "摩洛哥长期以来都声称休达属于自己，称它应该归摩洛哥所有。"
+    },
+    {
+      "id": 76,
+      "startMs": 485120,
+      "endMs": 489520,
+      "en": "So that's another front which has opened up for the government as well.",
+      "zh": "所以，这也成了政府面临的另一条战线。"
+    },
+    {
+      "id": 77,
+      "startMs": 489520,
+      "endMs": 492960,
+      "en": "And the issues causing headaches for the Spanish government don't end there.",
+      "zh": "让西班牙政府头疼的问题还不止于此。"
+    },
+    {
+      "id": 78,
+      "startMs": 493520,
+      "endMs": 498800,
+      "en": "A leaked police report appears to contradict the government's own account of what happened in Ceuta.",
+      "zh": "一份泄露的警方报告似乎与政府对休达事件的说法相矛盾。"
+    },
+    {
+      "id": 79,
+      "startMs": 499840,
+      "endMs": 504560,
+      "en": "Aitor Hernandez Morales, a Spain reporter for Politico, has been following the story.",
+      "zh": "《政客》杂志驻西班牙记者艾托尔·埃尔南德斯-莫拉莱斯一直在跟进此事。"
+    },
+    {
+      "id": 80,
+      "startMs": 505040,
+      "endMs": 514980,
+      "en": "Immediately after the migrant surge happened back in August, a local judge opened an investigation into the causes of that surge and who might have been behind that.",
+      "zh": "8月移民激增后，当地一名法官立即展开调查，查明激增的原因以及背后可能的主使。"
+    },
+    {
+      "id": 81,
+      "startMs": 515300,
+      "endMs": 519780,
+      "en": "And as part of that investigation, she asked the national police to conduct its own investigation.",
+      "zh": "作为调查的一部分，她要求国家警察部门展开自己的调查。"
+    },
+    {
+      "id": 82,
+      "startMs": 520180,
+      "endMs": 526180,
+      "en": "Well, that report landed this week, and even though we haven't seen it, it has been leaked to the Spanish press,",
+      "zh": "这份报告本周出炉。虽然我们没有看到原文，但它已被泄露给西班牙媒体，"
+    },
+    {
+      "id": 83,
+      "startMs": 526500,
+      "endMs": 533060,
+      "en": "and it indicates that security forces have determined that Morocco was very much behind this surge,",
+      "zh": "报告显示，安全部队认定这次激增很大程度上是摩洛哥在背后推动，"
+    },
+    {
+      "id": 84,
+      "startMs": 533300,
+      "endMs": 538660,
+      "en": "that Moroccan agents were behind the social media accounts urging migrants to go to the border,",
+      "zh": "摩洛哥人员操控社交媒体账号，敦促移民前往边境，"
+    },
+    {
+      "id": 85,
+      "startMs": 539140,
+      "endMs": 546500,
+      "en": "and that, in fact, Moroccan security forces helped migrants cross over and indicated the path that they should follow to enter Spanish territory.",
+      "zh": "事实上，摩洛哥安全部队还帮助移民越境，并指示他们进入西班牙领土的路线。"
+    },
+    {
+      "id": 86,
+      "startMs": 546820,
+      "endMs": 555140,
+      "en": "Now, we have to keep in mind that from the very beginning, Sanchez called this an attack, but then he declined to say who was behind the attack,",
+      "zh": "要注意，从一开始，桑切斯就称这是一次攻击，但随后拒绝说明攻击的幕后主使，"
+    },
+    {
+      "id": 87,
+      "startMs": 555220,
+      "endMs": 560820,
+      "en": "and members of his government took pains to ensure that Morocco was not directly accused.",
+      "zh": "他的政府成员还竭力确保不直接指控摩洛哥。"
+    },
+    {
+      "id": 88,
+      "startMs": 560980,
+      "endMs": 566740,
+      "en": "At the beginning of this week, when Sanchez gave his first interview since this crisis began, he said categorically",
+      "zh": "本周初，桑切斯在危机开始后首次接受采访时断然表示，"
+    },
+    {
+      "id": 89,
+      "startMs": 566820,
+      "endMs": 575640,
+      "en": "that there was no evidence that this had been coordinated or spearheaded by Morocco,",
+      "zh": "没有证据表明这次事件由摩洛哥协调或主导。"
+    },
+    {
+      "id": 90,
+      "startMs": 576040,
+      "endMs": 579800,
+      "en": "This report directly contradicts his version of events, and it really does set up a very uncomfortable situation",
+      "zh": "这份报告直接与他的事件版本相矛盾，造成了非常尴尬的局面，"
+    },
+    {
+      "id": 91,
+      "startMs": 579800,
+      "endMs": 584520,
+      "en": "where either the prime minister will be obliged to admit that he misled the public",
+      "zh": "首相要么得承认自己误导了公众，"
+    },
+    {
+      "id": 92,
+      "startMs": 584680,
+      "endMs": 590280,
+      "en": "or that he had no idea what kind of information his own security forces were handling.",
+      "zh": "要么承认自己根本不知道本国安全部队掌握着什么信息。"
+    },
+    {
+      "id": 93,
+      "startMs": 590520,
+      "endMs": 592280,
+      "en": "Aitor Hernández-Morales.",
+      "zh": "艾托尔·埃尔南德斯-莫拉莱斯。"
+    },
+    {
+      "id": 94,
+      "startMs": 592280,
+      "endMs": 596760,
+      "en": "Now to concerns about the use of artificial intelligence in school classrooms.",
+      "zh": "下面关注人工智能在学校课堂中的使用问题。"
+    },
+    {
+      "id": 95,
+      "startMs": 597240,
+      "endMs": 606040,
+      "en": "New York's mayor, Zohran Mamdani, has announced a one-year ban on AI in public elementary and middle schools—that's children up to the age of 14.",
+      "zh": "纽约市长佐赫兰·马姆达尼宣布，公立小学和初中将禁用人工智能一年，适用对象是14岁以下儿童。"
+    },
+    {
+      "id": 96,
+      "startMs": 606120,
+      "endMs": 609800,
+      "en": "He said that while the school system will embrace new technology,",
+      "zh": "他表示，尽管学校系统会拥抱新技术，"
+    },
+    {
+      "id": 97,
+      "startMs": 609960,
+      "endMs": 613880,
+      "en": "the aim is for AI not to replace student-teacher interaction.",
+      "zh": "但目的在于不让人工智能取代师生互动。"
+    },
+    {
+      "id": 98,
+      "startMs": 614280,
+      "endMs": 619480,
+      "en": "Children need their teachers and human connection in order to learn and in order to grow,",
+      "zh": "孩子需要老师和人与人之间的联结，才能学习和成长，"
+    },
+    {
+      "id": 99,
+      "startMs": 620120,
+      "endMs": 627800,
+      "en": "and they need to develop skills alongside their peers, build relationships with their teachers, and wrestle with tough problems on their own.",
+      "zh": "也需要与同龄人一起培养技能、与老师建立关系，并独自面对棘手问题。"
+    },
+    {
+      "id": 100,
+      "startMs": 628600,
+      "endMs": 634840,
+      "en": "The tech industry wants us to believe that AI in early education is not only inevitable, but that it is necessary.",
+      "zh": "科技行业想让我们相信，人工智能进入早期教育不仅不可避免，而且是必要的。"
+    },
+    {
+      "id": 101,
+      "startMs": 635400,
+      "endMs": 641720,
+      "en": "We do not see it that way. I have yet to see a study showing that AI is beneficial for students in elementary and middle school,",
+      "zh": "我们不这样看。我还没看到任何研究表明，人工智能对小学和初中生有益，"
+    },
+    {
+      "id": 102,
+      "startMs": 642200,
+      "endMs": 646920,
+      "en": "with the exception, of course, of research sponsored by the very corporations that stand to profit.",
+      "zh": "当然，那些研究若是由将从中获利的企业资助，则不在此列。"
+    },
+    {
+      "id": 103,
+      "startMs": 647160,
+      "endMs": 650040,
+      "en": "Cheyenne Haslett, White House reporter at Politico, told us more.",
+      "zh": "《政客》杂志白宫记者夏延·哈斯莱特告诉我们更多。"
+    },
+    {
+      "id": 104,
+      "startMs": 650040,
+      "endMs": 654220,
+      "en": "I mean, I think with Mamdani and Governor Kathy Hochul of New York, there too.",
+      "zh": "我的意思是，我认为纽约市长马姆达尼和州长凯茜·霍楚尔也是如此。"
+    },
+    {
+      "id": 105,
+      "startMs": 654540,
+      "endMs": 662540,
+      "en": "You're seeing essentially the forefront of our politicians who want to endorse some of the most stringent AI policy in the country,",
+      "zh": "你看到的基本上是国内最前沿的一批政客，他们希望支持全国最严格的一些人工智能政策，"
+    },
+    {
+      "id": 106,
+      "startMs": 662540,
+      "endMs": 664460,
+      "en": "both on safety and on data centers.",
+      "zh": "涵盖安全和数据中心。"
+    },
+    {
+      "id": 107,
+      "startMs": 664780,
+      "endMs": 671340,
+      "en": "And you're only seeing that really spread among other Democrats, but also Republicans across the country.",
+      "zh": "这种立场目前只是在其他民主党人中扩散，但全国各地的共和党人也有类似看法。"
+    },
+    {
+      "id": 108,
+      "startMs": 671580,
+      "endMs": 679580,
+      "en": "Now that's different from what we're seeing in Washington, where we have a much more pro-AI and pro-innovation stance from the White House.",
+      "zh": "这与我们在华盛顿看到的不同：白宫的立场更加支持人工智能和创新。"
+    },
+    {
+      "id": 109,
+      "startMs": 679580,
+      "endMs": 684780,
+      "en": "But that is, of course, running up against some of these pretty concerning recent revelations",
+      "zh": "但这当然与近期一些令人担忧的披露相冲突，"
+    },
+    {
+      "id": 110,
+      "startMs": 684780,
+      "endMs": 691020,
+      "en": "of what these AI agents are capable of doing independently when they're asked to complete tests",
+      "zh": "这些人工智能代理受命完成测试时，能够独立做些什么，"
+    },
+    {
+      "id": 111,
+      "startMs": 691020,
+      "endMs": 693740,
+      "en": "and to show what they're capable of",
+      "zh": "并展示它们的能力，"
+    },
+    {
+      "id": 112,
+      "startMs": 693740,
+      "endMs": 697100,
+      "en": "so that these companies can, you know, run them up against their competitors",
+      "zh": "这样这些公司就能让它们与竞争对手较量，"
+    },
+    {
+      "id": 113,
+      "startMs": 697100,
+      "endMs": 700380,
+      "en": "and say what types of new models they're rolling out.",
+      "zh": "并宣称自己推出了什么类型的新模型。"
+    },
+    {
+      "id": 114,
+      "startMs": 700700,
+      "endMs": 706540,
+      "en": "And these models have been able to essentially get around some of these tests, use each other to cheat on these tests.",
+      "zh": "而这些模型基本能够绕过部分测试，利用彼此在测试中作弊。"
+    },
+    {
+      "id": 115,
+      "startMs": 706540,
+      "endMs": 711980,
+      "en": "That's called reward hacking, when they're working to please their bosses or the people who are testing them.",
+      "zh": "这被称为“奖励劫持”：它们为了取悦老板或测试人员而这样做。"
+    },
+    {
+      "id": 116,
+      "startMs": 712160,
+      "endMs": 718720,
+      "en": "They're, of course, not trained to consider, you know, the morality of some of these evaluations,",
+      "zh": "因为它们当然没有受过训练，不会考虑这些评估中的道德问题，"
+    },
+    {
+      "id": 117,
+      "startMs": 718720,
+      "endMs": 724080,
+      "en": "so it's running up against a very new and very unprecedented territory.",
+      "zh": "所以这触及了一个非常新、前所未有的领域。"
+    },
+    {
+      "id": 118,
+      "startMs": 724320,
+      "endMs": 725280,
+      "en": "Cheyenne Haslett.",
+      "zh": "夏延·哈斯莱特。"
+    },
+    {
+      "id": 119,
+      "startMs": 728160,
+      "endMs": 729600,
+      "en": "Still to come in this podcast,",
+      "zh": "本期节目稍后将播出："
+    },
+    {
+      "id": 120,
+      "startMs": 730160,
+      "endMs": 732720,
+      "en": "there's a great word: kakistocracy.",
+      "zh": "一个很有意思的词：kakistocracy（庸人统治）。"
+    },
+    {
+      "id": 121,
+      "startMs": 732720,
+      "endMs": 736640,
+      "en": "I think maybe we have a kakistocracy right now, but we'll get through it.",
+      "zh": "我觉得我们现在或许正处于庸人统治之下，但我们会熬过去的。"
+    },
+    {
+      "id": 122,
+      "startMs": 737380,
+      "endMs": 743700,
+      "en": "Just what did the Hollywood actor George Clooney mean when he said the US was being run by a kakistocracy?",
+      "zh": "好莱坞演员乔治·克鲁尼说美国由庸人统治时，究竟是什么意思？"
+    },
+    {
+      "id": 123,
+      "startMs": 743700,
+      "endMs": 745540,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 124,
+      "startMs": 746580,
+      "endMs": 754020,
+      "en": "The Indonesian government is warning that the country's air quality crisis could worsen as El Niño fuels even drier conditions.",
+      "zh": "印度尼西亚政府警告，随着厄尔尼诺带来更加干燥的天气，该国的空气质量危机可能恶化。"
+    },
+    {
+      "id": 125,
+      "startMs": 754580,
+      "endMs": 758740,
+      "en": "Hundreds of wildfires continue to burn in six provinces across the country.",
+      "zh": "全国六个省份仍有数百场山火在燃烧。"
+    },
+    {
+      "id": 126,
+      "startMs": 759220,
+      "endMs": 768020,
+      "en": "Efforts are intensifying to contain the toxic haze, which has pushed air pollution to hazardous levels and forced thousands of schools to close.",
+      "zh": "控制有毒烟霾的行动正在加强；烟霾已使空气污染达到危险程度，迫使数千所学校停课。"
+    },
+    {
+      "id": 127,
+      "startMs": 768580,
+      "endMs": 772020,
+      "en": "This woman lives in the Kalimantan region of the island of Borneo.",
+      "zh": "这名女子住在婆罗洲的加里曼丹地区。"
+    },
+    {
+      "id": 128,
+      "startMs": 772180,
+      "endMs": 773220,
+      "en": "We hope that it rains soon.",
+      "zh": "我们希望很快就能下雨。"
+    },
+    {
+      "id": 129,
+      "startMs": 773220,
+      "endMs": 781140,
+      "en": "The students in various parts of East Kalimantan are being made to study at home.",
+      "zh": "东加里曼丹各地的学生被要求在家学习。"
+    },
+    {
+      "id": 130,
+      "startMs": 781540,
+      "endMs": 783780,
+      "en": "So we hope the weather recovers and the fires stop.",
+      "zh": "所以我们希望天气好转，火灾停止。"
+    },
+    {
+      "id": 131,
+      "startMs": 784180,
+      "endMs": 788580,
+      "en": "The government has done all it can, but we still have fires deeper in the forest.",
+      "zh": "政府已经尽其所能，但森林深处仍有火灾。"
+    },
+    {
+      "id": 132,
+      "startMs": 788980,
+      "endMs": 790100,
+      "en": "So now we just pray.",
+      "zh": "所以现在我们只能祈祷。"
+    },
+    {
+      "id": 133,
+      "startMs": 790100,
+      "endMs": 796980,
+      "en": "Our Indonesia correspondent, Lisa Tambunan, has been following developments from Jakarta.",
+      "zh": "我们的印度尼西亚记者丽莎·坦布南一直在雅加达跟进事态发展。"
+    },
+    {
+      "id": 134,
+      "startMs": 797380,
+      "endMs": 803300,
+      "en": "Fires are occurring on the islands of Sumatra and Kalimantan, and most of the hotspots are in Kalimantan.",
+      "zh": "苏门答腊岛和加里曼丹岛正在发生火灾，而大多数热点位于加里曼丹。"
+    },
+    {
+      "id": 135,
+      "startMs": 803960,
+      "endMs": 808520,
+      "en": "There are thousands of hotspots emitting a lot of fire and haze.",
+      "zh": "有数千个热点，释放出大量火焰和烟霾。"
+    },
+    {
+      "id": 136,
+      "startMs": 808920,
+      "endMs": 816920,
+      "en": "With the majority in West Kalimantan and Central Kalimantan, the air quality has become extremely hazardous to human health.",
+      "zh": "其中大多数位于西加里曼丹和中加里曼丹，空气质量已对人体健康构成极大危害。"
+    },
+    {
+      "id": 137,
+      "startMs": 817320,
+      "endMs": 822920,
+      "en": "Over there, readings can reach up to 600, and sometimes at several points during the day,",
+      "zh": "当地读数可达到600，有时一天中会多次达到这一水平，"
+    },
+    {
+      "id": 138,
+      "startMs": 823000,
+      "endMs": 829240,
+      "en": "even over 800. And air quality above 100 is already unhealthy.",
+      "zh": "甚至超过800，而空气质量读数超过100就已经不健康。"
+    },
+    {
+      "id": 139,
+      "startMs": 829480,
+      "endMs": 839800,
+      "en": "So we can see the staggering numbers, and on social media, lots of people are posting about the limited visibility that they're experiencing in their neighbourhoods.",
+      "zh": "由此可见这些数字有多惊人。社交媒体上，许多人发帖说他们所在社区的能见度很低。"
+    },
+    {
+      "id": 140,
+      "startMs": 840120,
+      "endMs": 849160,
+      "en": "And this is also affecting flights due to very low visibility, where flights are either delayed or redirected.",
+      "zh": "这也影响了航班，因为能见度极低，航班不是延误就是改道。"
+    },
+    {
+      "id": 141,
+      "startMs": 849480,
+      "endMs": 856280,
+      "en": "It's also affecting daily activities for schools, where students are now resorting to online classes.",
+      "zh": "这也影响了学校的日常活动，学生现在不得不改上网课。"
+    },
+    {
+      "id": 142,
+      "startMs": 856680,
+      "endMs": 863560,
+      "en": "And because of this toxic haze, there have been a rising number of respiratory infections.",
+      "zh": "而由于这种有毒烟霾，呼吸道感染病例不断增加。"
+    },
+    {
+      "id": 143,
+      "startMs": 863820,
+      "endMs": 869500,
+      "en": "With the Health Ministry reporting over 50,000 cases between July and August,",
+      "zh": "卫生部报告称，7月至8月间有超过5万例病例，"
+    },
+    {
+      "id": 144,
+      "startMs": 869740,
+      "endMs": 875100,
+      "en": "and over 12,000 of these cases are of children under the age of five.",
+      "zh": "其中超过1.2万例涉及五岁以下儿童。"
+    },
+    {
+      "id": 145,
+      "startMs": 875500,
+      "endMs": 877020,
+      "en": "And this has been going on for weeks.",
+      "zh": "这种情况已经持续数周。"
+    },
+    {
+      "id": 146,
+      "startMs": 877500,
+      "endMs": 884220,
+      "en": "The health ministry and the government are noting that September might be an even more challenging time.",
+      "zh": "卫生部和政府指出，9月可能会更加艰难。"
+    },
+    {
+      "id": 147,
+      "startMs": 884540,
+      "endMs": 885980,
+      "en": "as El Niño is peaking.",
+      "zh": "因为厄尔尼诺正值高峰。"
+    },
+    {
+      "id": 148,
+      "startMs": 886220,
+      "endMs": 893260,
+      "en": "El Niño is not the main cause of this, but it is exacerbating fires and the haze due to the dry conditions.",
+      "zh": "厄尔尼诺并非造成这一局面的主要原因，但干燥天气使火灾和烟霾加剧。"
+    },
+    {
+      "id": 149,
+      "startMs": 893980,
+      "endMs": 895900,
+      "en": "Lisa Tambunan in Jakarta.",
+      "zh": "丽莎·坦布南在雅加达报道。"
+    },
+    {
+      "id": 150,
+      "startMs": 896940,
+      "endMs": 900540,
+      "en": "Now to southern Lebanon. Officially, a ceasefire is in place there",
+      "zh": "下面来看黎巴嫩南部的情况。那里名义上已停火，"
+    },
+    {
+      "id": 151,
+      "startMs": 900540,
+      "endMs": 903180,
+      "en": "between Israel and the Lebanese government.",
+      "zh": "停火双方是以色列和黎巴嫩政府。"
+    },
+    {
+      "id": 152,
+      "startMs": 903660,
+      "endMs": 907820,
+      "en": "That agreement promised a gradual withdrawal of Israeli troops from the area,",
+      "zh": "协议承诺以色列军队逐步撤出该地区，"
+    },
+    {
+      "id": 153,
+      "startMs": 908460,
+      "endMs": 911340,
+      "en": "but on the ground conditions have only become worse.",
+      "zh": "但当地情况却变得更糟。"
+    },
+    {
+      "id": 154,
+      "startMs": 911980,
+      "endMs": 917180,
+      "en": "The UN's peacekeeping force in Lebanon says Israel has expanded its presence in the region,",
+      "zh": "联合国驻黎巴嫩维和部队称，以色列扩大了在该地区的存在，"
+    },
+    {
+      "id": 155,
+      "startMs": 917500,
+      "endMs": 919900,
+      "en": "establishing four new military bases.",
+      "zh": "并建立了四个新的军事基地。"
+    },
+    {
+      "id": 156,
+      "startMs": 920460,
+      "endMs": 924540,
+      "en": "It's also said to be demolishing buildings and carrying out airstrikes.",
+      "zh": "据称以色列还在拆除建筑物并发动空袭。"
+    },
+    {
+      "id": 157,
+      "startMs": 925100,
+      "endMs": 931420,
+      "en": "Our Middle East correspondent, Hugo Bachega, visited villages near the Lebanese border with Israel and sent this report.",
+      "zh": "我们的中东记者雨果·巴切加走访了以色列与黎巴嫩边境附近的村庄，并发回这篇报道。"
+    },
+    {
+      "id": 158,
+      "startMs": 933140,
+      "endMs": 937380,
+      "en": "We had a rare chance to see the Israeli military presence in occupied southern Lebanon.",
+      "zh": "我们难得有机会看到以色列军队在被占领的黎巴嫩南部的存在。"
+    },
+    {
+      "id": 159,
+      "startMs": 938940,
+      "endMs": 943420,
+      "en": "As we joined a humanitarian convoy of the UN peacekeeping mission in Lebanon.",
+      "zh": "我们加入了联合国驻黎巴嫩维和任务的一支人道主义车队。"
+    },
+    {
+      "id": 160,
+      "startMs": 944520,
+      "endMs": 953720,
+      "en": "That's an Israeli military checkpoint. Yes. So they have full control of who is going in and who is coming out of this area.",
+      "zh": "那是以色列的军事检查站。是的，所以谁能进入或离开这个地区，完全由他们控制。"
+    },
+    {
+      "id": 161,
+      "startMs": 955180,
+      "endMs": 961180,
+      "en": "We saw residential buildings that are being used by Israeli soldiers, and intense movement of Israeli troops.",
+      "zh": "我们看到以色列士兵正在使用住宅楼，以色列军队也在频繁调动。"
+    },
+    {
+      "id": 162,
+      "startMs": 962940,
+      "endMs": 971000,
+      "en": "You can see lots of Israeli flags in what is occupied Lebanese territory.",
+      "zh": "在这片被占领的黎巴嫩领土上，可以看到许多以色列国旗。"
+    },
+    {
+      "id": 163,
+      "startMs": 972040,
+      "endMs": 978520,
+      "en": "Western and Lebanese officials have told me the Israeli military is entrenching itself in the occupied territories.",
+      "zh": "西方和黎巴嫩官员告诉我，以色列军队正在被占领土上巩固自身存在。"
+    },
+    {
+      "id": 164,
+      "startMs": 978840,
+      "endMs": 985880,
+      "en": "They say Israel has expanded and fortified its bases inside Lebanon, places we can't visit.",
+      "zh": "他们说，以色列扩大并加固了在黎巴嫩境内的基地，而那些地方我们无法进入。"
+    },
+    {
+      "id": 165,
+      "startMs": 987560,
+      "endMs": 990520,
+      "en": "Along the border, entire villages have been destroyed.",
+      "zh": "沿边境的整座村庄都被摧毁。"
+    },
+    {
+      "id": 166,
+      "startMs": 991240,
+      "endMs": 995560,
+      "en": "Israel says it wants to create what it describes as a security zone",
+      "zh": "以色列称，希望建立一个它所说的安全区，"
+    },
+    {
+      "id": 167,
+      "startMs": 995960,
+      "endMs": 1000920,
+      "en": "free of Hezbollah, to protect its communities from the group's rockets and drones.",
+      "zh": "让该地区没有真主党，以保护以色列社区免受该组织火箭弹和无人机的攻击。"
+    },
+    {
+      "id": 168,
+      "startMs": 1001500,
+      "endMs": 1011100,
+      "en": "As we traveled, we could hear explosions in the distance, an indication that Israel continues to destroy buildings and infrastructure even during the ceasefire.",
+      "zh": "我们行进时能听到远处的爆炸声，这表明即使在停火期间，以色列仍在摧毁建筑物和基础设施。"
+    },
+    {
+      "id": 169,
+      "startMs": 1012600,
+      "endMs": 1017400,
+      "en": "Later on, when he returned from his trip, Hugo shared more details about what he'd seen.",
+      "zh": "后来，雨果结束行程返回后，分享了更多所见所闻。"
+    },
+    {
+      "id": 170,
+      "startMs": 1018040,
+      "endMs": 1021240,
+      "en": "What is really shocking is the level of destruction.",
+      "zh": "真正令人震惊的是破坏程度。"
+    },
+    {
+      "id": 171,
+      "startMs": 1021320,
+      "endMs": 1025720,
+      "en": "Almost all villages along the border have been completely flattened.",
+      "zh": "边境沿线几乎所有村庄都被夷为平地。"
+    },
+    {
+      "id": 172,
+      "startMs": 1026200,
+      "endMs": 1033400,
+      "en": "We also saw a lot of the Israeli presence in those villages, and we could also hear explosions in the distance,",
+      "zh": "我们还看到以色列军队在这些村庄中的大量存在，也听到远处传来的爆炸声，"
+    },
+    {
+      "id": 173,
+      "startMs": 1033560,
+      "endMs": 1038440,
+      "en": "possibly from demolitions being carried out by Israel in villages under occupation.",
+      "zh": "可能是以色列在被占领村庄实施拆除行动的声音。"
+    },
+    {
+      "id": 174,
+      "startMs": 1038680,
+      "endMs": 1051880,
+      "en": "Israel reinvaded Lebanon in March after Hezbollah—the Iranian-backed militia political party here—with a significant presence, particularly in the south of the country.",
+      "zh": "以色列于3月再次入侵黎巴嫩；真主党是这个国家得到伊朗支持的民兵政治党派，在黎巴嫩南部尤其势力强大。"
+    },
+    {
+      "id": 175,
+      "startMs": 1052280,
+      "endMs": 1057240,
+      "en": "So Israel reinvaded after Hezbollah launched rockets into Israel.",
+      "zh": "所以，在真主党向以色列发射火箭弹后，以色列再次入侵。"
+    },
+    {
+      "id": 176,
+      "startMs": 1057240,
+      "endMs": 1062360,
+      "en": "What Israeli officials say is that they want to create the security zone along the border",
+      "zh": "以色列官员称，他们希望沿边境建立安全区，"
+    },
+    {
+      "id": 177,
+      "startMs": 1062760,
+      "endMs": 1065720,
+      "en": "free of Hezbollah to protect Israeli communities.",
+      "zh": "让那里没有真主党，以保护以色列社区。"
+    },
+    {
+      "id": 178,
+      "startMs": 1066120,
+      "endMs": 1070760,
+      "en": "So you have around 5% of Lebanese territory under Israeli occupation.",
+      "zh": "因此，约有5%的黎巴嫩领土处于以色列占领之下。"
+    },
+    {
+      "id": 179,
+      "startMs": 1071320,
+      "endMs": 1077900,
+      "en": "And Israeli officials have conditioned any withdrawal on Hezbollah's disarmament.",
+      "zh": "以色列官员把任何撤军都以真主党解除武装为条件。"
+    },
+    {
+      "id": 180,
+      "startMs": 1078540,
+      "endMs": 1081580,
+      "en": "And Hezbollah has opposed these efforts.",
+      "zh": "真主党反对这些努力。"
+    },
+    {
+      "id": 181,
+      "startMs": 1081660,
+      "endMs": 1087340,
+      "en": "It says that any discussions about its weapons can only happen after a withdrawal of Israeli troops.",
+      "zh": "真主党表示，只有在以色列军队撤出后，才能讨论其武器问题。"
+    },
+    {
+      "id": 182,
+      "startMs": 1087740,
+      "endMs": 1091500,
+      "en": "So I think for now, these Israeli troops are going to stay,",
+      "zh": "所以我认为，目前这些以色列军队会继续留在那里，"
+    },
+    {
+      "id": 183,
+      "startMs": 1091580,
+      "endMs": 1096700,
+      "en": "which means that hundreds of thousands of people won't be able to go back to their homes anytime soon.",
+      "zh": "这意味着数十万人近期无法回到家园。"
+    },
+    {
+      "id": 184,
+      "startMs": 1097020,
+      "endMs": 1098700,
+      "en": "Hugo Bachega reporting.",
+      "zh": "雨果·巴切加报道。"
+    },
+    {
+      "id": 185,
+      "startMs": 1099720,
+      "endMs": 1105800,
+      "en": "The Sharpeville massacre in South Africa was one of the darkest moments in the fight against the apartheid government.",
+      "zh": "沙佩维尔大屠杀是南非反种族隔离政府斗争中最黑暗的时刻之一。"
+    },
+    {
+      "id": 186,
+      "startMs": 1106360,
+      "endMs": 1113240,
+      "en": "When police opened fire on black people protesting against racist pass laws in 1960, killing dozens.",
+      "zh": "1960年，警方对抗议种族主义通行证法的黑人开火，造成数十人死亡。"
+    },
+    {
+      "id": 187,
+      "startMs": 1113880,
+      "endMs": 1122840,
+      "en": "More than six decades later, survivors and relatives of those killed are challenging an apartheid-era law they say has prevented them from seeking justice.",
+      "zh": "六十多年后，幸存者和死者亲属正在挑战一项种族隔离时代的法律；他们说，这项法律阻止他们寻求正义。"
+    },
+    {
+      "id": 188,
+      "startMs": 1123400,
+      "endMs": 1128360,
+      "en": "Overturning it could pave the way for victims to seek compensation and restitution.",
+      "zh": "推翻该法，可能为受害者寻求赔偿和补偿铺平道路。"
+    },
+    {
+      "id": 189,
+      "startMs": 1128840,
+      "endMs": 1130360,
+      "en": "Pumza Fihlani reports.",
+      "zh": "普姆扎·菲拉尼报道。"
+    },
+    {
+      "id": 190,
+      "startMs": 1133680,
+      "endMs": 1136720,
+      "en": "Heaps of rubbish are piling up around the township.",
+      "zh": "镇区周围堆满了成堆的垃圾。"
+    },
+    {
+      "id": 191,
+      "startMs": 1137120,
+      "endMs": 1141600,
+      "en": "It scarcely looks like the home of a historic fight against apartheid laws.",
+      "zh": "这里几乎看不出是那场反对种族隔离法、具有历史意义的斗争发源地。"
+    },
+    {
+      "id": 192,
+      "startMs": 1142160,
+      "endMs": 1144320,
+      "en": "We're in Sharpeville, south of Johannesburg.",
+      "zh": "我们在约翰内斯堡以南的沙佩维尔。"
+    },
+    {
+      "id": 193,
+      "startMs": 1144800,
+      "endMs": 1146480,
+      "en": "It's a township slowly crumbling.",
+      "zh": "这是一个正在缓慢破败的镇区。"
+    },
+    {
+      "id": 194,
+      "startMs": 1148520,
+      "endMs": 1158680,
+      "en": "Here on the 21st of March in 1960, at least 69 people were killed by state police while demonstrating against the racist apartheid regime.",
+      "zh": "1960年3月21日这天，至少69人示威反对种族隔离政权时，被国家警察杀害。"
+    },
+    {
+      "id": 195,
+      "startMs": 1159440,
+      "endMs": 1165040,
+      "en": "Abraham Mofokeng was only 20 years old at the time and still bears the scars of that day.",
+      "zh": "当时，亚伯拉罕·莫福肯年仅20岁，至今仍留有那天的伤痕。"
+    },
+    {
+      "id": 196,
+      "startMs": 1165520,
+      "endMs": 1171520,
+      "en": "A bullet is still lodged in his spine, and he has a gentle limp from a gunshot to the leg.",
+      "zh": "他的脊椎里仍嵌着一颗子弹，腿部中弹还让他走路轻微跛行。"
+    },
+    {
+      "id": 197,
+      "startMs": 1171600,
+      "endMs": 1176000,
+      "en": "The life we were living under apartheid was a life of oppression.",
+      "zh": "我们在种族隔离制度下过着受压迫的生活。"
+    },
+    {
+      "id": 198,
+      "startMs": 1176160,
+      "endMs": 1180400,
+      "en": "If you were from Sharpeville, you could not go outside its vicinity without a pass.",
+      "zh": "如果你来自沙佩维尔，不持通行证就不能离开附近地区。"
+    },
+    {
+      "id": 199,
+      "startMs": 1180640,
+      "endMs": 1183600,
+      "en": "We ended up planning to march to the police station in the morning.",
+      "zh": "我们最后决定早上向警察局进发。"
+    },
+    {
+      "id": 200,
+      "startMs": 1183600,
+      "endMs": 1189040,
+      "en": "Then there was some friction between us and the police, and we saw a stone being thrown into the police station.",
+      "zh": "然后我们和警方发生了一些摩擦，还看到有人向警察局扔石头。"
+    },
+    {
+      "id": 201,
+      "startMs": 1189120,
+      "endMs": 1191920,
+      "en": "All hell broke loose. That is when they started shooting.",
+      "zh": "一切都失控了。那时他们开始射击。"
+    },
+    {
+      "id": 202,
+      "startMs": 1192480,
+      "endMs": 1195360,
+      "en": "He and more than 200 people were injured.",
+      "zh": "他和另外200多人受了伤。"
+    },
+    {
+      "id": 203,
+      "startMs": 1195600,
+      "endMs": 1202720,
+      "en": "Recent estimates by South African researchers say the number of those who died from that incident could be as much as 91.",
+      "zh": "南非研究人员最近估计，那起事件的死亡人数可能高达91人。"
+    },
+    {
+      "id": 204,
+      "startMs": 1206280,
+      "endMs": 1214760,
+      "en": "Another survivor, Lazarus Magotsi, now 90 years old, takes me to the cemetery where most of those who died are buried.",
+      "zh": "另一位幸存者拉扎勒斯·马戈齐现年90岁，他带我去埋葬大多数死者的墓地。"
+    },
+    {
+      "id": 205,
+      "startMs": 1215160,
+      "endMs": 1217720,
+      "en": "Their graves form one long row.",
+      "zh": "他们的坟墓排成一长列。"
+    },
+    {
+      "id": 206,
+      "startMs": 1217960,
+      "endMs": 1222520,
+      "en": "He tells me he needs time to compose himself, his eyes filling with tears.",
+      "zh": "他告诉我需要时间平复自己，眼里噙满泪水。"
+    },
+    {
+      "id": 207,
+      "startMs": 1223000,
+      "endMs": 1225960,
+      "en": "We heard gunshots coming from behind us.",
+      "zh": "我们听到身后传来枪声。"
+    },
+    {
+      "id": 208,
+      "startMs": 1226680,
+      "endMs": 1231160,
+      "en": "We hid inside the store, peeping to see what was happening outside.",
+      "zh": "我们躲进商店里，探头查看外面发生了什么。"
+    },
+    {
+      "id": 209,
+      "startMs": 1231720,
+      "endMs": 1239240,
+      "en": "People were lying on the ground. When we looked out again, we saw that some were trying to get up, but the police were just shooting at them.",
+      "zh": "人们躺在地上。我们再次向外看时，看到有些人试图站起来，但警察仍在向他们射击。"
+    },
+    {
+      "id": 210,
+      "startMs": 1239560,
+      "endMs": 1243240,
+      "en": "Others were using machetes to strike the heads of people who were still moving.",
+      "zh": "还有人用砍刀砍击仍在动弹者的头部。"
+    },
+    {
+      "id": 211,
+      "startMs": 1243240,
+      "endMs": 1249240,
+      "en": "The Indemnity Act 61, passed by the apartheid government in the aftermath of the shooting,",
+      "zh": "种族隔离政府在枪击事件后通过的《第61号豁免法》，"
+    },
+    {
+      "id": 212,
+      "startMs": 1249560,
+      "endMs": 1256360,
+      "en": "protected the police from having any criminal charges or civil claims made against them by victims or their relatives.",
+      "zh": "保护警方免受受害者或其亲属提出的刑事指控或民事索赔。"
+    },
+    {
+      "id": 213,
+      "startMs": 1256840,
+      "endMs": 1259720,
+      "en": "That law remains in the country's statute books.",
+      "zh": "该法律仍写在这个国家的成文法中。"
+    },
+    {
+      "id": 214,
+      "startMs": 1260580,
+      "endMs": 1270180,
+      "en": "Now South Africa's Lawyers for Human Rights, a local NGO, alongside UK-based firm Leigh Day, are bringing a court action to have that law repealed.",
+      "zh": "南非人权律师组织这一当地非政府组织，正与英国律所 Leigh Day 联手提起诉讼，要求废除该法。"
+    },
+    {
+      "id": 215,
+      "startMs": 1270580,
+      "endMs": 1275860,
+      "en": "What the community is looking for is basically reparations that could enable their healing.",
+      "zh": "社区所寻求的基本上是能够帮助他们疗愈的赔偿。"
+    },
+    {
+      "id": 216,
+      "startMs": 1276180,
+      "endMs": 1279780,
+      "en": "One of the lawyers on the case, Sharnay Tracy, explains.",
+      "zh": "该案的一名律师莎奈·特雷西解释说。"
+    },
+    {
+      "id": 217,
+      "startMs": 1279940,
+      "endMs": 1290660,
+      "en": "They feel that South Africa and the government are quick to commemorate what happened that day and its aftermath, but nothing real has been done to assist their healing.",
+      "zh": "他们认为，南非及其政府很快就会纪念当天发生的事件及其后果，但在帮助他们疗愈方面却没有采取任何实际行动。"
+    },
+    {
+      "id": 218,
+      "startMs": 1291220,
+      "endMs": 1294980,
+      "en": "Part of their court application includes getting a class action certified.",
+      "zh": "他们的诉讼申请的一部分，是申请认证为集体诉讼。"
+    },
+    {
+      "id": 219,
+      "startMs": 1295300,
+      "endMs": 1306420,
+      "en": "If approved, this means that for the first time, dozens of victims could collectively sue the state and possibly even have criminal charges brought against the perpetrators.",
+      "zh": "如果获批，这意味着数十名受害者首次可以集体起诉国家，甚至可能让肇事者面临刑事指控。"
+    },
+    {
+      "id": 220,
+      "startMs": 1307320,
+      "endMs": 1318440,
+      "en": "The government told the BBC it has supported apartheid victims over the years and will continue to do so, but does not oppose survivors and families pursuing legal remedies.",
+      "zh": "政府告诉BBC，多年来一直支持种族隔离受害者，并将继续这样做，但不反对幸存者和家属寻求法律救济。"
+    },
+    {
+      "id": 221,
+      "startMs": 1319480,
+      "endMs": 1329320,
+      "en": "For many in the community of Sharpeville, the scars of the past remain, and so people here hope that restitution will help heal decades of lingering trauma.",
+      "zh": "对沙佩维尔社区的许多人来说，过去的伤痕依然存在，因此这里的人们希望赔偿能帮助治愈数十年挥之不去的创伤。"
+    },
+    {
+      "id": 222,
+      "startMs": 1330120,
+      "endMs": 1332200,
+      "en": "That report was by Pumza Fihlani.",
+      "zh": "这篇报道由普姆扎·菲拉尼采写。"
+    },
+    {
+      "id": 223,
+      "startMs": 1333180,
+      "endMs": 1342300,
+      "en": "Now to a word that does not feature much in everyday conversation, but kakistocracy has just been used by the US actor George Clooney.",
+      "zh": "现在说一个日常对话中并不常见的词，但美国演员乔治·克鲁尼刚刚用到了 kakistocracy。"
+    },
+    {
+      "id": 224,
+      "startMs": 1342860,
+      "endMs": 1347580,
+      "en": "At the opening of the Venice Film Festival, he was asked how he viewed the United States at the moment.",
+      "zh": "在威尼斯电影节开幕式上，有人问他如何看待当下的美国。"
+    },
+    {
+      "id": 225,
+      "startMs": 1347980,
+      "endMs": 1349340,
+      "en": "Here's what he had to say.",
+      "zh": "以下是他的回答。"
+    },
+    {
+      "id": 226,
+      "startMs": 1349820,
+      "endMs": 1355660,
+      "en": "I'm old enough to have been through 1968 in the States, when every city in the United States was set on fire.",
+      "zh": "我已经足够年长，经历过1968年的美国，当时美国每座城市都被大火吞噬。"
+    },
+    {
+      "id": 227,
+      "startMs": 1355660,
+      "endMs": 1358940,
+      "en": "And we lost Martin Luther King and Bobby Kennedy in the same year.",
+      "zh": "同一年，我们失去了马丁·路德·金和鲍比·肯尼迪。"
+    },
+    {
+      "id": 228,
+      "startMs": 1358940,
+      "endMs": 1359900,
+      "en": "There was tons of violence.",
+      "zh": "当时暴力事件非常多。"
+    },
+    {
+      "id": 229,
+      "startMs": 1360380,
+      "endMs": 1363020,
+      "en": "We've had some other difficult times, but this is one of them.",
+      "zh": "我们还经历过其他困难时期，但现在就是其中之一。"
+    },
+    {
+      "id": 230,
+      "startMs": 1363660,
+      "endMs": 1370140,
+      "en": "There's a great word, kakistocracy, which is a country run by the least qualified people.",
+      "zh": "有一个很好的词叫 kakistocracy，意为由最不合格的人统治的国家。"
+    },
+    {
+      "id": 231,
+      "startMs": 1370300,
+      "endMs": 1373980,
+      "en": "I think maybe we have a kakistocracy right now, but we'll get through it.",
+      "zh": "我觉得我们现在也许正处于庸人统治之下，但我们会熬过去。"
+    },
+    {
+      "id": 232,
+      "startMs": 1374380,
+      "endMs": 1376300,
+      "en": "So what is kakistocracy?",
+      "zh": "那么，什么是 kakistocracy？"
+    },
+    {
+      "id": 233,
+      "startMs": 1376300,
+      "endMs": 1378700,
+      "en": "Here's our global affairs reporter, Paul Moss.",
+      "zh": "下面请听我们的全球事务记者保罗·莫斯。"
+    },
+    {
+      "id": 234,
+      "startMs": 1379100,
+      "endMs": 1385820,
+      "en": "As derogatory terms go, kakistocracy certainly has an elevated pedigree, indeed a classical one.",
+      "zh": "作为贬义词，kakistocracy 的出身非常显赫，确实可以说是古典出身。"
+    },
+    {
+      "id": 235,
+      "startMs": 1386060,
+      "endMs": 1391100,
+      "en": "Because it's in ancient Greek that we find the word kakistos, meaning the worst.",
+      "zh": "因为这个词源自古希腊语中的 kakistos，意思是“最糟糕”。"
+    },
+    {
+      "id": 236,
+      "startMs": 1391580,
+      "endMs": 1400960,
+      "en": "That said, there's no record of kakistocracy being used by Plato, Aristotle, or any of their chums; for that, we have to wait until the 17th century.",
+      "zh": "不过，没有记录表明柏拉图、亚里士多德或他们的任何伙伴使用过 kakistocracy；为此，我们要等到17世纪。"
+    },
+    {
+      "id": 237,
+      "startMs": 1401360,
+      "endMs": 1409520,
+      "en": "And a politically minded preacher named Paul Gosnold accused his enemies of wanting to turn Parliament into a kakistocracy.",
+      "zh": "一位有政治头脑、名叫保罗·戈斯诺德的牧师，指责敌人想把议会变成 kakistocracy。"
+    },
+    {
+      "id": 238,
+      "startMs": 1409680,
+      "endMs": 1411440,
+      "en": "I.e., ruled by the worst.",
+      "zh": "也就是由最糟糕的人统治。"
+    },
+    {
+      "id": 239,
+      "startMs": 1411920,
+      "endMs": 1418960,
+      "en": "The word was used in the 19th century by a critic of Germany who described the whole country as a kakistocracy.",
+      "zh": "19世纪，一名批评德国的评论家使用了这个词，形容整个国家是 kakistocracy。"
+    },
+    {
+      "id": 240,
+      "startMs": 1419440,
+      "endMs": 1429440,
+      "en": "In more recent times, the former CIA director John O. Brennan in 2018 tweeted that Donald Trump's first administration was a kakistocracy.",
+      "zh": "近代，前CIA局长约翰·奥·布伦南在2018年发推文称，唐纳德·特朗普的第一届政府是 kakistocracy。"
+    },
+    {
+      "id": 241,
+      "startMs": 1430080,
+      "endMs": 1433680,
+      "en": "But this most choice of insults really had its day in the sun in 2024,",
+      "zh": "不过，这个最尖刻的侮辱性词语在2024年真正迎来了高光时刻，"
+    },
+    {
+      "id": 242,
+      "startMs": 1434160,
+      "endMs": 1440160,
+      "en": "when The Economist magazine gave it the honour of being chosen as word of the year.",
+      "zh": "当时《经济学人》杂志授予它“年度词语”的称号。"
+    },
+    {
+      "id": 243,
+      "startMs": 1440640,
+      "endMs": 1446480,
+      "en": "Kakistocracy, the citation went, has the crisp, hard sound of glass breaking.",
+      "zh": "评语称，kakistocracy 有着玻璃破碎般清脆、刺耳的声音。"
+    },
+    {
+      "id": 244,
+      "startMs": 1447120,
+      "endMs": 1447680,
+      "en": "Paul Moss.",
+      "zh": "保罗·莫斯。"
+    },
+    {
+      "id": 245,
+      "startMs": 1448960,
+      "endMs": 1453760,
+      "en": "The Bayeux Tapestry is considered to be one of the most significant artefacts of medieval history.",
+      "zh": "巴约挂毯被认为是中世纪历史上最重要的文物之一。"
+    },
+    {
+      "id": 246,
+      "startMs": 1454240,
+      "endMs": 1461280,
+      "en": "The 70-metre-long historic embroidery depicts the events leading up to the Norman Conquest of England in 1066.",
+      "zh": "这幅长70米的历史刺绣描绘了1066年诺曼征服英格兰前的事件。"
+    },
+    {
+      "id": 247,
+      "startMs": 1461920,
+      "endMs": 1469600,
+      "en": "After spending hundreds of years in France, the tapestry has returned to the UK for the first time, and will go on display at the British Museum.",
+      "zh": "这幅挂毯在法国度过数百年后，首次回到英国，并将在大英博物馆展出。"
+    },
+    {
+      "id": 248,
+      "startMs": 1470080,
+      "endMs": 1472960,
+      "en": "On Wednesday, the King and Queen were among the first to see it.",
+      "zh": "周三，国王和王后率先观看了挂毯。"
+    },
+    {
+      "id": 249,
+      "startMs": 1473440,
+      "endMs": 1475760,
+      "en": "Our culture editor, Katie Razzall, was also there.",
+      "zh": "我们的文化编辑凯蒂·拉扎尔也在现场。"
+    },
+    {
+      "id": 250,
+      "startMs": 1476400,
+      "endMs": 1481840,
+      "en": "And here is the absolute iconic moment of the tapestry, where we see Harold standing.",
+      "zh": "这里展现的是挂毯中最具标志性的时刻：哈罗德站在那里。"
+    },
+    {
+      "id": 251,
+      "startMs": 1482780,
+      "endMs": 1487180,
+      "en": "Holding the shaft of an arrow. It is an astonishing sight.",
+      "zh": "他手握箭杆，景象令人惊叹。"
+    },
+    {
+      "id": 252,
+      "startMs": 1487420,
+      "endMs": 1493180,
+      "en": "Nearly 70 metres long, and I'm standing looking down over the tapestry",
+      "zh": "挂毯将近70米长，我正站在这里俯视着它，"
+    },
+    {
+      "id": 253,
+      "startMs": 1493180,
+      "endMs": 1499980,
+      "en": "with the King and Queen, the President, the Prime Minister, and all sorts of other dignitaries standing and being led along it.",
+      "zh": "国王和王后、总统、首相以及其他各界贵宾都站在那里，沿着挂毯向前走。"
+    },
+    {
+      "id": 254,
+      "startMs": 1500300,
+      "endMs": 1504860,
+      "en": "The lighting is incredibly low, that's to protect this fragile artwork.",
+      "zh": "现场灯光非常昏暗，这是为了保护这件脆弱的艺术品。"
+    },
+    {
+      "id": 255,
+      "startMs": 1505500,
+      "endMs": 1509260,
+      "en": "But there is enough light to see the drama of it.",
+      "zh": "但光线足以让人看清其中的戏剧性。"
+    },
+    {
+      "id": 256,
+      "startMs": 1509580,
+      "endMs": 1514380,
+      "en": "This epic story of Anglo-French relations back in 1066.",
+      "zh": "这是关于1066年英法关系的史诗般故事。"
+    },
+    {
+      "id": 257,
+      "startMs": 1514380,
+      "endMs": 1518620,
+      "en": "The arrow is quite faint. The arrow is sort of a very pale yellow.",
+      "zh": "箭的颜色很淡，呈一种非常浅的黄色。"
+    },
+    {
+      "id": 258,
+      "startMs": 1518940,
+      "endMs": 1525100,
+      "en": "Experts debate whether the arrow was actually added much later by nineteenth-century restorers.",
+      "zh": "专家们争论这支箭是否确实是19世纪修复者在很久以后加上的。"
+    },
+    {
+      "id": 259,
+      "startMs": 1525740,
+      "endMs": 1532220,
+      "en": "But as they toured the Bayeux Tapestry nearly a thousand years after the death of the English king and the Norman Conquest,",
+      "zh": "但当他们在英格兰国王去世、诺曼征服近千年后参观巴约挂毯时，"
+    },
+    {
+      "id": 260,
+      "startMs": 1532620,
+      "endMs": 1539180,
+      "en": "the message was that the loan of the work to the UK is a sign of Anglo-French reconciliation, not enmity.",
+      "zh": "传达的信息是，将这件作品借给英国代表英法和解，而非敌对。"
+    },
+    {
+      "id": 261,
+      "startMs": 1541080,
+      "endMs": 1543320,
+      "en": "This is the French president, Emmanuel Macron.",
+      "zh": "法国总统埃马纽埃尔·马克龙这样说。"
+    },
+    {
+      "id": 262,
+      "startMs": 1543640,
+      "endMs": 1548120,
+      "en": "A thousand years ago, this work depicted a crossing that changed history.",
+      "zh": "一千年前，这件作品描绘了一次改变历史的渡海。"
+    },
+    {
+      "id": 263,
+      "startMs": 1549000,
+      "endMs": 1556680,
+      "en": "And today, it crosses the Channel through a tunnel that we built together, a reminder of what our two countries can achieve when they join forces.",
+      "zh": "如今，它通过我们共同建造的隧道穿越海峡，提醒着两国携手合作能够取得什么成就。"
+    },
+    {
+      "id": 264,
+      "startMs": 1558080,
+      "endMs": 1562400,
+      "en": "If anyone remembers what we did here today, decades or even centuries from now,",
+      "zh": "如果几十年甚至几百年后还有人记得我们今天在这里所做的一切，"
+    },
+    {
+      "id": 265,
+      "startMs": 1563280,
+      "endMs": 1568240,
+      "en": "I would like to believe that they will remember not only the story told by the Bayeux Tapestry",
+      "zh": "我希望他们记住的不只是巴约挂毯讲述的故事，"
+    },
+    {
+      "id": 266,
+      "startMs": 1569140,
+      "endMs": 1574820,
+      "en": "but also the tale of two countries which, after centuries of shared history,",
+      "zh": "还记住两个国家的故事：它们共享了数百年历史，"
+    },
+    {
+      "id": 267,
+      "startMs": 1575380,
+      "endMs": 1580420,
+      "en": "choose to forge a bond as close as the threads of this thousand-year-old embroidery.",
+      "zh": "如今选择建立如这幅千年刺绣的丝线般紧密的纽带。"
+    },
+    {
+      "id": 268,
+      "startMs": 1581980,
+      "endMs": 1585820,
+      "en": "A loan to Britain was first requested back in 1931.",
+      "zh": "英国早在1931年就首次提出借展请求。"
+    },
+    {
+      "id": 269,
+      "startMs": 1586460,
+      "endMs": 1591820,
+      "en": "Nearly a hundred years on, it was pushed through over the opposition of some by the French president,",
+      "zh": "近百年后，法国总统推动这项借展计划通过，尽管有人反对，"
+    },
+    {
+      "id": 270,
+      "startMs": 1591900,
+      "endMs": 1596140,
+      "en": "who is believed to have wanted a reset in Anglo-French relations after Brexit.",
+      "zh": "据信，他希望在英国脱欧后重启英法关系。"
+    },
+    {
+      "id": 271,
+      "startMs": 1596780,
+      "endMs": 1605180,
+      "en": "The 58 scenes embroidered on linen are a medieval blockbuster about the build-up to 1066, a defining moment in English history.",
+      "zh": "绣在亚麻布上的58个场景，是一部讲述1066年前后历史的中世纪大片，那是英格兰历史上的决定性时刻。"
+    },
+    {
+      "id": 272,
+      "startMs": 1605660,
+      "endMs": 1611260,
+      "en": "The King last viewed the tapestry in Bayeux in the 1980s, but tonight he saw it laid flat.",
+      "zh": "国王上次在20世纪80年代于巴约观看挂毯，但今晚他看到的是平铺的挂毯。"
+    },
+    {
+      "id": 273,
+      "startMs": 1611500,
+      "endMs": 1613980,
+      "en": "It's a stipulation from the French to protect it.",
+      "zh": "这是法方为保护挂毯提出的要求。"
+    },
+    {
+      "id": 274,
+      "startMs": 1614540,
+      "endMs": 1618780,
+      "en": "Curator of the tapestry at the museum, Michael Lewis, showed the King and Queen around.",
+      "zh": "博物馆挂毯馆长迈克尔·刘易斯带国王和王后参观。"
+    },
+    {
+      "id": 275,
+      "startMs": 1618860,
+      "endMs": 1624380,
+      "en": "It was great fun, actually, looking at different scenes, obviously thinking a little bit about how they're relevant to the King.",
+      "zh": "其实，观看不同场景很有趣，也会想想它们与国王有怎样的关联。"
+    },
+    {
+      "id": 276,
+      "startMs": 1624380,
+      "endMs": 1629180,
+      "en": "So, for example, we saw the coronation quite recently, in a way, the King was crowned.",
+      "zh": "比如，我们最近也见证了加冕礼，从某种意义上说，国王完成了加冕。"
+    },
+    {
+      "id": 277,
+      "startMs": 1629260,
+      "endMs": 1631820,
+      "en": "So, yeah, he could obviously reflect on that.",
+      "zh": "所以，他当然可以对此有所感悟。"
+    },
+    {
+      "id": 278,
+      "startMs": 1632140,
+      "endMs": 1637660,
+      "en": "Members of the public, lucky enough to have snapped up tickets, will be able to view the exhibition from next week,",
+      "zh": "幸运抢到票的公众下周起就可以参观展览，"
+    },
+    {
+      "id": 279,
+      "startMs": 1637900,
+      "endMs": 1639900,
+      "en": "with more tickets to be released next month.",
+      "zh": "下个月还将发售更多门票。"
+    },
+    {
+      "id": 280,
+      "startMs": 1640540,
+      "endMs": 1642880,
+      "en": "Katie Razzall reporting from the British Museum.",
+      "zh": "凯蒂·拉扎尔在大英博物馆报道。"
+    },
+    {
+      "id": 281,
+      "startMs": 1645960,
+      "endMs": 1652520,
+      "en": "And that's all for us for now, but if you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部内容。如想联系我们，可发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 282,
+      "startMs": 1652920,
+      "endMs": 1657480,
+      "en": "This edition of the Global News Podcast was mixed by Derek Clark and the producer was Emma Joseph.",
+      "zh": "本期《全球新闻播客》由德里克·克拉克混音，制片人是艾玛·约瑟夫。"
+    },
+    {
+      "id": 283,
+      "startMs": 1658120,
+      "endMs": 1660920,
+      "en": "The editor is Karen Martin and I'm Ankur Desai.",
+      "zh": "编辑是凯伦·马丁，我是安库尔·德赛。"
+    },
+    {
+      "id": 284,
+      "startMs": 1661240,
+      "endMs": 1662760,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再会。"
+    }
+  ]
+}
