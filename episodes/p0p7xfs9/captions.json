@@ -1,0 +1,1887 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "4 September 2026"
+  },
+  "durationMs": 1552340,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3040,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《Global News Podcast》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6040,
+      "endMs": 11240,
+      "en": "Hello, I'm Ankur Desai, and in the early hours of Friday, the 4th of September, these are our main stories.",
+      "zh": "你好，我是安库尔·德赛。9月4日星期五凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11960,
+      "endMs": 19240,
+      "en": "Funerals are held for two Palestinian teenagers killed by Israeli settlers and soldiers in the occupied West Bank on Wednesday.",
+      "zh": "两名巴勒斯坦少年周三在被占领的约旦河西岸遭以色列定居者和士兵杀害，葬礼已经举行。"
+    },
+    {
+      "id": 4,
+      "startMs": 20040,
+      "endMs": 23640,
+      "en": "Argentina's president ups the ante in a dispute with the UK,",
+      "zh": "阿根廷总统在与英国的争端中升级对抗，"
+    },
+    {
+      "id": 5,
+      "startMs": 23640,
+      "endMs": 29880,
+      "en": "by threatening to impose tough sanctions on companies that exploit the Falkland Islands' oil reserves.",
+      "zh": "威胁要对开采福克兰群岛石油储备的公司实施严厉制裁。"
+    },
+    {
+      "id": 6,
+      "startMs": 29880,
+      "endMs": 34840,
+      "en": "Also in this podcast: I'm really going to appreciate what I've been given.",
+      "zh": "本期节目还将播出：我真的会珍惜自己得到的一切。"
+    },
+    {
+      "id": 7,
+      "startMs": 34840,
+      "endMs": 38600,
+      "en": "I'm not super religious, but I have been praying day and night",
+      "zh": "我并不是特别虔诚，但我日夜祈祷，"
+    },
+    {
+      "id": 8,
+      "startMs": 38680,
+      "endMs": 41560,
+      "en": "to get this, and here I am. It's unbelievable.",
+      "zh": "希望得到这个机会，而我现在真的得到了。难以置信。"
+    },
+    {
+      "id": 9,
+      "startMs": 42040,
+      "endMs": 48040,
+      "en": "A genetically modified pig kidney kept a man free of dialysis for nearly nine months, a record.",
+      "zh": "一枚基因改造猪肾让一名男子近九个月无需透析，创下纪录。"
+    },
+    {
+      "id": 10,
+      "startMs": 53200,
+      "endMs": 57520,
+      "en": "We begin in the Middle East, where funerals have taken place for two Palestinian teenagers",
+      "zh": "我们从中东开始，那里已为两名巴勒斯坦少年举行葬礼，"
+    },
+    {
+      "id": 11,
+      "startMs": 57840,
+      "endMs": 64320,
+      "en": "who were killed during an incursion into their village in the occupied West Bank by Israeli settlers and soldiers.",
+      "zh": "他们是在以色列定居者和士兵侵入其位于被占领约旦河西岸的村庄时遇害的。"
+    },
+    {
+      "id": 12,
+      "startMs": 64960,
+      "endMs": 72000,
+      "en": "The deaths come amid a recent surge in settler violence and mounting criticism of the Israeli military's role in the attacks.",
+      "zh": "这两起死亡事件发生之际，定居者暴力近期激增，以色列军队在袭击中的作用也受到越来越多的批评。"
+    },
+    {
+      "id": 13,
+      "startMs": 72480,
+      "endMs": 75360,
+      "en": "The IDF said it's investigating Wednesday's incident.",
+      "zh": "以色列国防军表示，正在调查周三的事件。"
+    },
+    {
+      "id": 14,
+      "startMs": 75920,
+      "endMs": 80320,
+      "en": "Our Middle East correspondent Lucy Williamson sent this report from the village of Al-Mughayyir.",
+      "zh": "我们的中东记者露西·威廉姆森从 Al-Mughayyir 村发来报道。"
+    },
+    {
+      "id": 15,
+      "startMs": 84000,
+      "endMs": 86880,
+      "en": "One by one, Al-Mughayyir is losing its sons.",
+      "zh": "Al-Mughayyir 正在一个接一个地失去自己的儿子。"
+    },
+    {
+      "id": 16,
+      "startMs": 88280,
+      "endMs": 92680,
+      "en": "Khalil Abu Aliya was 16, shot dead in the middle of the village",
+      "zh": "哈利勒·阿布·阿利亚年仅16岁，在村子中央遭枪杀，"
+    },
+    {
+      "id": 17,
+      "startMs": 93080,
+      "endMs": 99080,
+      "en": "as settlers, backed by Israeli soldiers, seized dozens of sheep in a disputed claim of ownership.",
+      "zh": "当时定居者在以色列士兵的支持下，以存在争议的所有权主张为由夺走了数十只羊。"
+    },
+    {
+      "id": 18,
+      "startMs": 102460,
+      "endMs": 109900,
+      "en": "His body was carried for burial alongside that of 19-year-old Omar Al-Naasan, also shot dead yesterday.",
+      "zh": "他的遗体被抬去安葬，旁边是19岁的奥马尔·Al-Naasan；奥马尔也于昨天遭枪杀。"
+    },
+    {
+      "id": 19,
+      "startMs": 111700,
+      "endMs": 118820,
+      "en": "This village has held six funerals this year for men and boys killed by Israeli soldiers or settlers here.",
+      "zh": "今年，这个村庄已经为在此被以色列士兵或定居者杀害的男子和男孩举行了六场葬礼。"
+    },
+    {
+      "id": 20,
+      "startMs": 122440,
+      "endMs": 127720,
+      "en": "The killing of our young men has become a regular ritual, just part of our life.",
+      "zh": "杀害我们的年轻人已经成为一种例行仪式，只是我们生活的一部分。"
+    },
+    {
+      "id": 21,
+      "startMs": 128200,
+      "endMs": 134600,
+      "en": "When your son walks in the street, you expect that he could be injured or killed, arrested by the army",
+      "zh": "当你的儿子走在街上，你会预料他可能受伤或被杀，被军队逮捕，"
+    },
+    {
+      "id": 22,
+      "startMs": 134920,
+      "endMs": 136680,
+      "en": "or beaten and dragged in the streets.",
+      "zh": "或者遭到殴打，被拖行在街道上。"
+    },
+    {
+      "id": 23,
+      "startMs": 137220,
+      "endMs": 142100,
+      "en": "It was here, right in the middle of the village, that both teenagers were shot dead.",
+      "zh": "就在这里，在村子正中央，两名少年都遭枪杀。"
+    },
+    {
+      "id": 24,
+      "startMs": 142660,
+      "endMs": 146340,
+      "en": "Khalil down this street, and Omar just over here.",
+      "zh": "哈利勒在这条街上，奥马尔就在这边。"
+    },
+    {
+      "id": 25,
+      "startMs": 147060,
+      "endMs": 151380,
+      "en": "Local residents say there were Israeli snipers on many of the rooftops here,",
+      "zh": "当地居民说，这里的许多屋顶上都有以色列狙击手，"
+    },
+    {
+      "id": 26,
+      "startMs": 151380,
+      "endMs": 156580,
+      "en": "and Israel's army says its forces fired in response to a violent riot.",
+      "zh": "而以色列军方称，其部队是为了回应暴力骚乱才开火。"
+    },
+    {
+      "id": 27,
+      "startMs": 157300,
+      "endMs": 162660,
+      "en": "But that doesn't address the wider situation that's unfolding across the occupied West Bank,",
+      "zh": "但这并没有触及被占领约旦河西岸正在发生的更广泛局势，"
+    },
+    {
+      "id": 28,
+      "startMs": 163220,
+      "endMs": 172900,
+      "en": "where Jewish settlers, backed by Israeli soldiers, are expanding their attacks and incursions further inside Palestinian villages,",
+      "zh": "在那里，得到以色列士兵支持的犹太定居者正把袭击和侵入进一步扩展到巴勒斯坦村庄内部，"
+    },
+    {
+      "id": 29,
+      "startMs": 173460,
+      "endMs": 176020,
+      "en": "and Palestinians are being forced off their land.",
+      "zh": "巴勒斯坦人则被迫离开自己的土地。"
+    },
+    {
+      "id": 30,
+      "startMs": 177360,
+      "endMs": 182880,
+      "en": "Sheep farming has become a routine tool for extending settler control over the occupied West Bank.",
+      "zh": "养羊已经成为定居者扩大对被占领约旦河西岸控制的一种常用手段。"
+    },
+    {
+      "id": 31,
+      "startMs": 183440,
+      "endMs": 186160,
+      "en": "In my village, I don't have any protection.",
+      "zh": "在我的村子里，我得不到任何保护。"
+    },
+    {
+      "id": 32,
+      "startMs": 186640,
+      "endMs": 194480,
+      "en": "My country don't have anything to do for me because it's not have an army or anything.",
+      "zh": "我的国家什么也不能为我做，因为它没有军队之类的力量。"
+    },
+    {
+      "id": 33,
+      "startMs": 195540,
+      "endMs": 198340,
+      "en": "This is life, you know. This is my life.",
+      "zh": "这就是生活，你知道的。这就是我的生活。"
+    },
+    {
+      "id": 34,
+      "startMs": 198900,
+      "endMs": 202580,
+      "en": "I can't change it. If you want to change it, you will be killed.",
+      "zh": "我无法改变它。如果你想改变它，你会被杀害。"
+    },
+    {
+      "id": 35,
+      "startMs": 203300,
+      "endMs": 210660,
+      "en": "Settler outposts, illegal under both international and Israeli law, have encircled Al-Mughayyir over the past few years,",
+      "zh": "定居者前哨依据国际法和以色列法律均属非法，过去几年已包围 Al-Mughayyir，"
+    },
+    {
+      "id": 36,
+      "startMs": 211060,
+      "endMs": 216580,
+      "en": "backed by Israel's fiercely pro-settlement government and protected by Israeli forces.",
+      "zh": "这些前哨得到以色列强烈支持定居点的政府支持，并受到以色列军队保护。"
+    },
+    {
+      "id": 37,
+      "startMs": 217420,
+      "endMs": 223500,
+      "en": "This village now facing a daily choice: losing its land or losing its people.",
+      "zh": "这个村庄如今每天都面临一个选择：失去土地，或失去人民。"
+    },
+    {
+      "id": 38,
+      "startMs": 224540,
+      "endMs": 226300,
+      "en": "Lucy Williamson with that report.",
+      "zh": "露西·威廉姆森的报道。"
+    },
+    {
+      "id": 39,
+      "startMs": 227460,
+      "endMs": 234580,
+      "en": "The Falkland Islands in the Atlantic Ocean have been at the centre of a long-running sovereignty dispute between the UK and Argentina.",
+      "zh": "大西洋上的福克兰群岛一直是英国与阿根廷长期主权争端的中心。"
+    },
+    {
+      "id": 40,
+      "startMs": 235220,
+      "endMs": 243220,
+      "en": "It's recognised as a British Overseas Territory, but Argentina is adamant that what it calls Las Malvinas belongs to them.",
+      "zh": "该群岛被承认为英国海外领土，但阿根廷坚持认为它所称的马尔维纳斯群岛属于阿根廷。"
+    },
+    {
+      "id": 41,
+      "startMs": 243780,
+      "endMs": 249700,
+      "en": "And now President Javier Milei has dialled up tensions by announcing sanctions on oil drilling in the area.",
+      "zh": "如今，哈维尔·米莱总统宣布制裁该地区的石油钻探活动，使紧张局势升级。"
+    },
+    {
+      "id": 42,
+      "startMs": 250180,
+      "endMs": 253860,
+      "en": "His national address was translated live by a BBC producer.",
+      "zh": "他的全国讲话由一名BBC制片人现场翻译。"
+    },
+    {
+      "id": 43,
+      "startMs": 254500,
+      "endMs": 261860,
+      "en": "The Falkland Islands are Argentinean because of history and because of law. There's no disagreement over it.",
+      "zh": "福克兰群岛根据历史和法律都属于阿根廷。这一点不存在争议。"
+    },
+    {
+      "id": 44,
+      "startMs": 261860,
+      "endMs": 266500,
+      "en": "The islands have always been part of Argentina since our origins.",
+      "zh": "这些群岛自阿根廷建国以来一直是其一部分。"
+    },
+    {
+      "id": 45,
+      "startMs": 266500,
+      "endMs": 272180,
+      "en": "If Argentina doesn't implement international law now, in a few months...",
+      "zh": "如果阿根廷现在不执行国际法，几个月后……"
+    },
+    {
+      "id": 46,
+      "startMs": 272180,
+      "endMs": 277540,
+      "en": "the UK could just take control of the oil reserves under our sea.",
+      "zh": "英国就可能直接控制我们海域下的石油储量。"
+    },
+    {
+      "id": 47,
+      "startMs": 277700,
+      "endMs": 282180,
+      "en": "Our Latin America correspondent, Will Grant.",
+      "zh": "我们的拉美记者威尔·格兰特。"
+    },
+    {
+      "id": 48,
+      "startMs": 282500,
+      "endMs": 285220,
+      "en": "Tell me more about what President Milei had to say.",
+      "zh": "请详细介绍一下米莱总统的说法。"
+    },
+    {
+      "id": 49,
+      "startMs": 285700,
+      "endMs": 293480,
+      "en": "Well, he began, obviously, surrounded by his cabinet in the presidential palace: a televised address to the nation, a prepared statement.",
+      "zh": "他说，显然，他是在总统府被内阁成员簇拥着开始讲话的：这是一次面向全国的电视讲话，是一份准备好的声明。"
+    },
+    {
+      "id": 50,
+      "startMs": 293480,
+      "endMs": 300440,
+      "en": "He then said he was setting out to the world, as he put it, Argentina's position on the Falklands.",
+      "zh": "随后，他说，正如他所说，他要向全世界阐明阿根廷对福克兰群岛的立场。"
+    },
+    {
+      "id": 51,
+      "startMs": 300680,
+      "endMs": 304840,
+      "en": "“Las Malvinas son Argentinas,” he said — the Falklands are Argentine.",
+      "zh": "他称“马尔维纳斯群岛属于阿根廷”——福克兰群岛属于阿根廷。"
+    },
+    {
+      "id": 52,
+      "startMs": 305000,
+      "endMs": 311160,
+      "en": "That has been at the heart of their claim, as we heard in that clip, and that has never changed.",
+      "zh": "正如我们在刚才的片段中听到的，这一直是他们主张的核心，而且从未改变。"
+    },
+    {
+      "id": 53,
+      "startMs": 311320,
+      "endMs": 315800,
+      "en": "He basically argued that there could be no legitimate claim to self-defence by the islanders,",
+      "zh": "他基本上认为，岛民不可能拥有合法的自卫主张，"
+    },
+    {
+      "id": 54,
+      "startMs": 316120,
+      "endMs": 320360,
+      "en": "given that the land itself, as he put it, had been taken illegally.",
+      "zh": "因为正如他所说，这片土地本身就是被非法夺取的。"
+    },
+    {
+      "id": 55,
+      "startMs": 320680,
+      "endMs": 325880,
+      "en": "So then we got to the crux, and the crux was this: the introduction of a bill to Parliament.",
+      "zh": "接下来我们谈到关键：向议会提交一项法案。"
+    },
+    {
+      "id": 56,
+      "startMs": 325880,
+      "endMs": 333720,
+      "en": "A decree under which sanctions would be imposed on energy firms intending to begin oil exploration",
+      "zh": "根据这项法令，计划开始石油勘探的能源企业将受到制裁，"
+    },
+    {
+      "id": 57,
+      "startMs": 333720,
+      "endMs": 336520,
+      "en": "off the coast of the Falklands in the coming years.",
+      "zh": "勘探地点就在福克兰群岛近海，时间是未来几年。"
+    },
+    {
+      "id": 58,
+      "startMs": 336520,
+      "endMs": 339720,
+      "en": "He said Argentina would not stand for that, could not stand for that,",
+      "zh": "他说，阿根廷不会、也不能容忍这种情况，"
+    },
+    {
+      "id": 59,
+      "startMs": 340680,
+      "endMs": 346600,
+      "en": "and the idea that Britain would be, as we heard again in that clip, taking the resources from under the sea.",
+      "zh": "也不能接受英国如我们在片段中再次听到的那样，夺走海底资源。"
+    },
+    {
+      "id": 60,
+      "startMs": 347180,
+      "endMs": 351500,
+      "en": "He's also talked about the fact that the US is rethinking its support for Britain's sovereignty.",
+      "zh": "他还谈到，美国正在重新考虑对英国主权的支持。"
+    },
+    {
+      "id": 61,
+      "startMs": 351980,
+      "endMs": 355980,
+      "en": "Is this a case of Donald Trump wanting more oil, wanting more of that territory?",
+      "zh": "这是不是因为唐纳德·特朗普想要更多石油、想要那片领土？"
+    },
+    {
+      "id": 62,
+      "startMs": 356540,
+      "endMs": 359020,
+      "en": "Yeah, I think that was absolutely critical.",
+      "zh": "是的，我认为这一点至关重要。"
+    },
+    {
+      "id": 63,
+      "startMs": 359340,
+      "endMs": 365100,
+      "en": "He was very quick to identify that Donald Trump was re-evaluating the US position on the Falklands,",
+      "zh": "他很快就指出，唐纳德·特朗普正在重新评估美国对福克兰群岛的立场，"
+    },
+    {
+      "id": 64,
+      "startMs": 365100,
+      "endMs": 371180,
+      "en": "which to this time has been a sort of neutral position with support for the British claim.",
+      "zh": "迄今为止，这一立场大致保持中立，但支持英国的主张。"
+    },
+    {
+      "id": 65,
+      "startMs": 371740,
+      "endMs": 378540,
+      "en": "It is a situation in which Donald Trump has Javier Milei as a close regional ally.",
+      "zh": "在这种情况下，唐纳德·特朗普把哈维尔·米莱视为亲密的地区盟友。"
+    },
+    {
+      "id": 66,
+      "startMs": 378540,
+      "endMs": 386380,
+      "en": "They get on very well ideologically, and Mr Milei said there are winds of change in the world that are favourable to our claim.",
+      "zh": "他们在意识形态上非常合拍，米莱先生说，世界上正出现有利于阿根廷主张的变化之风。"
+    },
+    {
+      "id": 67,
+      "startMs": 386620,
+      "endMs": 394700,
+      "en": "We know, of course, that President Trump remains frustrated at London for not having supported his war in Iran,",
+      "zh": "当然，我们知道，特朗普总统仍因伦敦没有支持他对伊朗的战争而感到不满，"
+    },
+    {
+      "id": 68,
+      "startMs": 394860,
+      "endMs": 401980,
+      "en": "with material support, with troops, with military hardware and so on — that basically they didn't come in with him when he asked them to.",
+      "zh": "既没有提供物资支持，也没有派出军队和军事装备等；也就是说，他要求英国参与时，英国基本没有和他站在一起。"
+    },
+    {
+      "id": 69,
+      "startMs": 402380,
+      "endMs": 407100,
+      "en": "So he may be sort of rattling the cage a little, or he may be serious that...",
+      "zh": "所以，他可能只是在稍微敲打对方，也可能是认真认为……"
+    },
+    {
+      "id": 70,
+      "startMs": 407200,
+      "endMs": 413520,
+      "en": "That he simply is prepared to completely re-evaluate the US position on the Falkland Islands,",
+      "zh": "也就是说，他已准备彻底重新评估美国对福克兰群岛的立场，"
+    },
+    {
+      "id": 71,
+      "startMs": 413520,
+      "endMs": 419520,
+      "en": "And of course, Javier Milei said that in Argentina, Washington had, as he put it, a trustworthy partner",
+      "zh": "当然，哈维尔·米莱说，就阿根廷而言，正如他所说，华盛顿拥有一个值得信赖的伙伴，"
+    },
+    {
+      "id": 72,
+      "startMs": 419760,
+      "endMs": 423680,
+      "en": "while sort of depicting the United Kingdom as a nation in decline.",
+      "zh": "同时却把英国描述成一个衰落中的国家。"
+    },
+    {
+      "id": 73,
+      "startMs": 424240,
+      "endMs": 429680,
+      "en": "And just briefly, does Mr Milei want to distract from some domestic issues? What are his approval ratings like?",
+      "zh": "简单问一下，米莱先生是否想转移人们对国内问题的注意力？他的支持率如何？"
+    },
+    {
+      "id": 74,
+      "startMs": 430080,
+      "endMs": 439440,
+      "en": "It is a classic tactic by Argentinian leaders to use the Falklands claim when times are tough domestically, politically.",
+      "zh": "阿根廷领导人惯常会在国内政治形势艰难时利用福克兰群岛主张。"
+    },
+    {
+      "id": 75,
+      "startMs": 439440,
+      "endMs": 442320,
+      "en": "His popularity ratings are sliding.",
+      "zh": "他的支持率正在下滑。"
+    },
+    {
+      "id": 76,
+      "startMs": 442320,
+      "endMs": 449440,
+      "en": "He has an election next year, and I think it's very important to include that in our analysis of why it's happening now.",
+      "zh": "他明年要举行选举，我认为这对分析事情为何现在升级非常重要。"
+    },
+    {
+      "id": 77,
+      "startMs": 449760,
+      "endMs": 455680,
+      "en": "Things are being ramped up, though, because I think this is about a specific thing to do with oil exploration",
+      "zh": "不过，局势正在升级，我认为这是因为石油勘探这一具体问题，"
+    },
+    {
+      "id": 78,
+      "startMs": 455840,
+      "endMs": 461760,
+      "en": "rather than more nebulous claims of sovereignty and self-determination. Will Grant.",
+      "zh": "而不是那些更模糊的主权和自决主张。威尔·格兰特报道。"
+    },
+    {
+      "id": 79,
+      "startMs": 461760,
+      "endMs": 468720,
+      "en": "This year's El Niño weather system hasn't even arrived yet, but it's already having a severe impact on Indonesia,",
+      "zh": "今年的厄尔尼诺天气系统甚至还未到来，却已经对印度尼西亚造成严重影响，"
+    },
+    {
+      "id": 80,
+      "startMs": 469200,
+      "endMs": 475120,
+      "en": "which is suffering from sweltering high temperatures, and some regions have had no rain for months.",
+      "zh": "当地正遭受酷热高温，一些地区已有数月未曾降雨。"
+    },
+    {
+      "id": 81,
+      "startMs": 475680,
+      "endMs": 482320,
+      "en": "That's exacerbating wildfires, which are now spreading a toxic haze across a large swathe of Southeast Asia.",
+      "zh": "这加剧了山火，山火正将有毒烟霾扩散到东南亚大片地区。"
+    },
+    {
+      "id": 82,
+      "startMs": 482960,
+      "endMs": 488240,
+      "en": "The BBC's Lesthia Kertopati is in the capital of Jakarta and spoke to James Menendez.",
+      "zh": "BBC记者莱斯蒂娅·克尔托帕蒂在首都雅加达，她接受了詹姆斯·梅嫩德斯的采访。"
+    },
+    {
+      "id": 83,
+      "startMs": 488560,
+      "endMs": 491600,
+      "en": "The wildfires in Indonesia have burned for weeks now.",
+      "zh": "印度尼西亚的山火已经持续燃烧数周。"
+    },
+    {
+      "id": 84,
+      "startMs": 491920,
+      "endMs": 500080,
+      "en": "The epicenter of the fire is on the island of Sumatra and also in Borneo, which in Indonesia we call Kalimantan.",
+      "zh": "火灾中心位于苏门答腊岛，也位于婆罗洲；在印度尼西亚，这里称为加里曼丹。"
+    },
+    {
+      "id": 85,
+      "startMs": 500640,
+      "endMs": 511280,
+      "en": "Because of the huge amount of wildfires, the haze has crossed the border to Malaysia, Brunei and even the Philippines.",
+      "zh": "由于山火数量巨大，烟霾已经越过边境，飘到马来西亚、文莱，甚至菲律宾。"
+    },
+    {
+      "id": 86,
+      "startMs": 511440,
+      "endMs": 513680,
+      "en": "Right, so it's been spreading all over the region.",
+      "zh": "也就是说，烟霾已经扩散到整个地区。"
+    },
+    {
+      "id": 87,
+      "startMs": 513840,
+      "endMs": 520880,
+      "en": "I mean, is it right to say there are fires every year, in which case are these much worse, and how much worse are they?",
+      "zh": "我的意思是，可以说这里每年都会起火吗？如果是，这次是否严重得多，究竟严重多少？"
+    },
+    {
+      "id": 88,
+      "startMs": 521200,
+      "endMs": 527700,
+      "en": "The worst wildfires that Indonesia had were in 1997 and 1998.",
+      "zh": "印度尼西亚最严重的山火发生在1997年和1998年。"
+    },
+    {
+      "id": 89,
+      "startMs": 527700,
+      "endMs": 539780,
+      "en": "It got a little bit worse in 2015. This year, the land fires happened really, really rapidly, triggered by El Niño, which makes everything really dry.",
+      "zh": "2015年情况更糟一些。今年，土地火灾在厄尔尼诺影响下迅速蔓延，让一切变得极其干燥。"
+    },
+    {
+      "id": 90,
+      "startMs": 540100,
+      "endMs": 543060,
+      "en": "There has been no rain in the last few months.",
+      "zh": "过去几个月一直没有降雨。"
+    },
+    {
+      "id": 91,
+      "startMs": 543140,
+      "endMs": 549060,
+      "en": "Even, you know, the biggest river on the island has dried up in some parts.",
+      "zh": "你知道，就连岛上最大的河流，部分河段也已经干涸。"
+    },
+    {
+      "id": 92,
+      "startMs": 549300,
+      "endMs": 556900,
+      "en": "Are these all wildfires, or are some of them fires that have been started by people burning agricultural land?",
+      "zh": "这些全都是山火吗？还是有些是人们焚烧农地引发的火灾？"
+    },
+    {
+      "id": 93,
+      "startMs": 557140,
+      "endMs": 561220,
+      "en": "The Indonesian government has been calling 20 companies.",
+      "zh": "印度尼西亚政府一直在传唤20家公司。"
+    },
+    {
+      "id": 94,
+      "startMs": 561620,
+      "endMs": 569300,
+      "en": "They found out that these corporations conduct land clearing by slash and burn, which is illegal in Indonesia.",
+      "zh": "他们发现这些企业通过刀耕火种清理土地，这在印度尼西亚是违法的。"
+    },
+    {
+      "id": 95,
+      "startMs": 569380,
+      "endMs": 576340,
+      "en": "So you can say these are deliberate fires that spread really quickly and are also being triggered by El Niño.",
+      "zh": "所以可以说，这些是人为纵火，火势蔓延极快，同时也受到厄尔尼诺触发。"
+    },
+    {
+      "id": 96,
+      "startMs": 577060,
+      "endMs": 581460,
+      "en": "Let's talk about the impact it's having on people, because it is having some severe effects.",
+      "zh": "我们谈谈它对人们的影响吧，因为它确实造成了严重后果。"
+    },
+    {
+      "id": 97,
+      "startMs": 581480,
+      "endMs": 582760,
+      "en": "On people's health, isn't it?",
+      "zh": "尤其是对人们的健康，对吧？"
+    },
+    {
+      "id": 98,
+      "startMs": 583240,
+      "endMs": 585640,
+      "en": "It affected more than 5 million people.",
+      "zh": "它影响了超过500万人。"
+    },
+    {
+      "id": 99,
+      "startMs": 586120,
+      "endMs": 593080,
+      "en": "Also, more than 50,000 people are now in treatment because of difficulty breathing and respiratory illness,",
+      "zh": "此外，超过5万人正在接受治疗，因为他们呼吸困难并患有呼吸系统疾病，"
+    },
+    {
+      "id": 100,
+      "startMs": 593240,
+      "endMs": 597320,
+      "en": "especially for sensitive groups like the elderly and also children.",
+      "zh": "其中老人和儿童等易感人群尤其如此。"
+    },
+    {
+      "id": 101,
+      "startMs": 597560,
+      "endMs": 601160,
+      "en": "Schools have been closed for ten to twelve days now.",
+      "zh": "学校已经停课十到十二天了。"
+    },
+    {
+      "id": 102,
+      "startMs": 601720,
+      "endMs": 604200,
+      "en": "In the morning, the haze is really, really thick.",
+      "zh": "早晨的烟霾非常、非常浓。"
+    },
+    {
+      "id": 103,
+      "startMs": 604760,
+      "endMs": 607080,
+      "en": "You can only see like one or two metres ahead.",
+      "zh": "你只能看清前方一两米。"
+    },
+    {
+      "id": 104,
+      "startMs": 607720,
+      "endMs": 614040,
+      "en": "Even though you put on an N95 mask, you can still feel the smoke inside your throat.",
+      "zh": "即使戴上N95口罩，你仍能感觉到烟雾进入喉咙。"
+    },
+    {
+      "id": 105,
+      "startMs": 614200,
+      "endMs": 623720,
+      "en": "My understanding is that, well, for Indonesia anyway, September is the peak month for El Niño, so I guess this is the height of the crisis, isn't it?",
+      "zh": "我的理解是，无论如何，对印度尼西亚来说，9月是厄尔尼诺的高峰月份，所以我猜这正是危机最严重的时候，对吗？"
+    },
+    {
+      "id": 106,
+      "startMs": 624120,
+      "endMs": 630040,
+      "en": "Yeah, even our forest ministry said that this month will be the peak of the dry season,",
+      "zh": "是的，就连我们的林业部也说，本月将是旱季的高峰期，"
+    },
+    {
+      "id": 107,
+      "startMs": 630520,
+      "endMs": 635240,
+      "en": "so they really try to put out the fire with everything they got.",
+      "zh": "所以他们竭尽全力灭火。"
+    },
+    {
+      "id": 108,
+      "startMs": 635320,
+      "endMs": 646700,
+      "en": "And even some people, you know, in areas affected by land fires have this prayer; in Indonesia, we call it Shalat Istisqa, or the prayer of calling for the rain.",
+      "zh": "此外，受土地火灾影响地区的一些人会举行这种祈祷；在印度尼西亚，这称为“求雨祈祷”Shalat Istisqa。"
+    },
+    {
+      "id": 109,
+      "startMs": 646940,
+      "endMs": 651980,
+      "en": "As another measure, you know, to help relieve this dry season.",
+      "zh": "作为帮助缓解旱季的另一种办法。"
+    },
+    {
+      "id": 110,
+      "startMs": 652460,
+      "endMs": 656540,
+      "en": "The BBC's Lesthia Kertopati speaking to James Menendez.",
+      "zh": "BBC记者莱斯蒂娅·克尔托帕蒂接受詹姆斯·梅嫩德斯采访。"
+    },
+    {
+      "id": 111,
+      "startMs": 659540,
+      "endMs": 666100,
+      "en": "Still to come in this podcast, after millions of views, the YouTube channel Chicken Shop Date is coming to an end.",
+      "zh": "本期节目稍后，在获得数百万次观看后，YouTube频道 Chicken Shop Date 即将结束。"
+    },
+    {
+      "id": 112,
+      "startMs": 666500,
+      "endMs": 670340,
+      "en": "Hello. Hi, how are you doing? I'm good, how are you? Good, good.",
+      "zh": "你好。嗨，你好吗？我很好，你好吗？很好，很好。"
+    },
+    {
+      "id": 113,
+      "startMs": 670900,
+      "endMs": 677240,
+      "en": "Amelia. Amelia, hi. But what can its rise teach us about the changing media landscape?",
+      "zh": "阿梅莉娅。阿梅莉娅，你好。但它的崛起能让我们了解媒体格局如何变化？"
+    },
+    {
+      "id": 114,
+      "startMs": 677240,
+      "endMs": 679240,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《Global News Podcast》。"
+    },
+    {
+      "id": 115,
+      "startMs": 680120,
+      "endMs": 684680,
+      "en": "Now to the latest developments in a trial that's captured people's attention across the world.",
+      "zh": "现在来看一宗受到全球关注的审判的最新进展。"
+    },
+    {
+      "id": 116,
+      "startMs": 685320,
+      "endMs": 691480,
+      "en": "Lindsay Clancy is accused of murdering her three young children in the US state of Massachusetts in 2023.",
+      "zh": "林赛·克兰西被控于2023年在美国马萨诸塞州杀害她的三个年幼孩子。"
+    },
+    {
+      "id": 117,
+      "startMs": 692360,
+      "endMs": 697480,
+      "en": "She has admitted to killing them, but her lawyer is seeking what's known as an insanity defence.",
+      "zh": "她承认杀害了孩子，但她的律师正寻求采用所谓的精神错乱抗辩。"
+    },
+    {
+      "id": 118,
+      "startMs": 697960,
+      "endMs": 702040,
+      "en": "He argues that she was suffering from postpartum psychosis at the time.",
+      "zh": "律师称，她当时患有产后精神病。"
+    },
+    {
+      "id": 119,
+      "startMs": 702760,
+      "endMs": 706520,
+      "en": "Jurors have been deliberating for five days, trying to reach a verdict.",
+      "zh": "陪审员已经审议了五天，试图作出裁决。"
+    },
+    {
+      "id": 120,
+      "startMs": 707000,
+      "endMs": 714520,
+      "en": "In court on Thursday, Lindsay Clancy's lawyer asked the judge to remove one juror, who he said wasn't following legal instructions.",
+      "zh": "周四在法庭上，林赛·克兰西的律师要求法官撤换一名陪审员，称此人没有遵守法律指示。"
+    },
+    {
+      "id": 121,
+      "startMs": 714840,
+      "endMs": 723320,
+      "en": "If we come back here in a half an hour with a mistrial because of a juror that has just spurned the instructions of this court, it's a shame.",
+      "zh": "如果半小时后我们因为一名刚刚拒绝遵守本庭指示的陪审员而回到这里宣布审判无效，那真是遗憾。"
+    },
+    {
+      "id": 122,
+      "startMs": 723960,
+      "endMs": 729000,
+      "en": "My motion is to remove this juror that refuses to listen to your instruction on reasonable doubt.",
+      "zh": "我的动议是撤换这名拒绝听从您关于合理怀疑原则指示的陪审员。"
+    },
+    {
+      "id": 123,
+      "startMs": 729880,
+      "endMs": 733800,
+      "en": "The judge did not agree and ordered the jurors to continue deliberating.",
+      "zh": "法官没有同意，并命令陪审员继续审议。"
+    },
+    {
+      "id": 124,
+      "startMs": 734280,
+      "endMs": 737660,
+      "en": "Our North America correspondent Ione Wells has been following the trial.",
+      "zh": "我们的北美记者 Ione Wells 一直在跟进这宗审判。"
+    },
+    {
+      "id": 125,
+      "startMs": 738060,
+      "endMs": 741500,
+      "en": "I asked her what we know about this deadlock among the twelve jurors.",
+      "zh": "我问她，我们对这12名陪审员陷入僵局一事了解多少。"
+    },
+    {
+      "id": 126,
+      "startMs": 741900,
+      "endMs": 747900,
+      "en": "We can't say with any certainty what exactly they are disagreeing about, because the jury are not identified in this case.",
+      "zh": "我们无法确定他们究竟在哪些问题上存在分歧，因为本案没有公开陪审员身份。"
+    },
+    {
+      "id": 127,
+      "startMs": 748300,
+      "endMs": 753660,
+      "en": "We don't know the makeup of their current positions, or what they're currently thinking about a verdict.",
+      "zh": "我们不知道他们目前各自的立场，也不知道他们现在对裁决有何想法。"
+    },
+    {
+      "id": 128,
+      "startMs": 753740,
+      "endMs": 758860,
+      "en": "Although we have heard a little more today than perhaps previously about this deadlock, in the sense that",
+      "zh": "不过，关于这场僵局，今天我们听到的情况比之前或许多了一些，也就是说，"
+    },
+    {
+      "id": 129,
+      "startMs": 758860,
+      "endMs": 762860,
+      "en": "before the jurors were sent back for their final deliberations of the day, the judge",
+      "zh": "在陪审员回去进行当天最后一轮审议之前，法官"
+    },
+    {
+      "id": 130,
+      "startMs": 763180,
+      "endMs": 770700,
+      "en": "did remind the jury to abide by the law regarding the principle that somebody must be proved guilty beyond reasonable doubt.",
+      "zh": "确实提醒陪审团要遵守法律，即必须排除合理怀疑，证明某人有罪。"
+    },
+    {
+      "id": 131,
+      "startMs": 771260,
+      "endMs": 778940,
+      "en": "Lindsay Clancy's lawyer, after that reminder by the judge, expressed frustration. He had been seemingly quite irritated in the courtroom earlier.",
+      "zh": "法官作出提醒后，林赛·克兰西的律师表达了不满。他此前在法庭上似乎相当恼火。"
+    },
+    {
+      "id": 132,
+      "startMs": 779180,
+      "endMs": 784940,
+      "en": "He alleged that one juror was refusing to listen to the law when it came to this principle of reasonable doubt.",
+      "zh": "他指称，一名陪审员在涉及合理怀疑原则时拒绝听从法律规定。"
+    },
+    {
+      "id": 133,
+      "startMs": 785500,
+      "endMs": 790620,
+      "en": "Now, we don't know whether that is definitely the case. As I say, we can't say that with any certainty,",
+      "zh": "现在，我们不知道情况是否确实如此。正如我所说，我们无法确定这一点，"
+    },
+    {
+      "id": 134,
+      "startMs": 790700,
+      "endMs": 793340,
+      "en": "but that is what her lawyer has alleged.",
+      "zh": "但这就是她的律师所作的指称。"
+    },
+    {
+      "id": 135,
+      "startMs": 793660,
+      "endMs": 803600,
+      "en": "What we do know is that this has now been more than 36 hours of the jury deliberating and deliberating, and still not reaching a verdict.",
+      "zh": "我们确实知道，陪审团审议已经超过36小时，一直反复审议，却仍未作出裁决。"
+    },
+    {
+      "id": 136,
+      "startMs": 803600,
+      "endMs": 804720,
+      "en": "After two attempts.",
+      "zh": "此前已经尝试过两次。"
+    },
+    {
+      "id": 137,
+      "startMs": 804720,
+      "endMs": 807440,
+      "en": "They have a third attempt to try and come to some kind of consensus.",
+      "zh": "他们将进行第三次尝试，争取达成某种共识。"
+    },
+    {
+      "id": 138,
+      "startMs": 807920,
+      "endMs": 811760,
+      "en": "If they don't, there is a chance that this could be declared a mistrial.",
+      "zh": "如果做不到，审判就有可能被宣布无效。"
+    },
+    {
+      "id": 139,
+      "startMs": 812080,
+      "endMs": 815840,
+      "en": "And there are many possible verdicts, aren't there, Ione, in this particular trial?",
+      "zh": "Ione，这宗审判可能出现的裁决有很多，对吧？"
+    },
+    {
+      "id": 140,
+      "startMs": 815840,
+      "endMs": 821280,
+      "en": "What are the chances of this maybe even eventually going Lindsay Clancy's way? There's quite a lot on the table.",
+      "zh": "这件事最终对林赛·克兰西有利的可能性有多大？目前有很多结果都可能出现。"
+    },
+    {
+      "id": 141,
+      "startMs": 822000,
+      "endMs": 825360,
+      "en": "There are lots of different options that could be the outcome of this trial.",
+      "zh": "这宗审判可能有许多不同的结果。"
+    },
+    {
+      "id": 142,
+      "startMs": 825760,
+      "endMs": 829200,
+      "en": "The first is that she could be found guilty of first-degree murder.",
+      "zh": "第一种是判定她犯有一级谋杀罪。"
+    },
+    {
+      "id": 143,
+      "startMs": 829200,
+      "endMs": 834800,
+      "en": "That would carry a sentence of life in prison without parole, the most serious verdict she could receive.",
+      "zh": "这将意味着终身监禁且不得假释，是她可能面临的最严重裁决。"
+    },
+    {
+      "id": 144,
+      "startMs": 835280,
+      "endMs": 841200,
+      "en": "There is a chance that she could be found guilty, but of a less severe crime, second-degree murder, for example.",
+      "zh": "她也可能被判有罪，但罪名较轻，例如二级谋杀。"
+    },
+    {
+      "id": 145,
+      "startMs": 841200,
+      "endMs": 847200,
+      "en": "That does have the chance of parole, or manslaughter, which could carry a lesser sentence as well.",
+      "zh": "二级谋杀有机会获得假释；过失杀人罪也可能带来较轻的刑罚。"
+    },
+    {
+      "id": 146,
+      "startMs": 847680,
+      "endMs": 855280,
+      "en": "She could, though, also be found not guilty by reason of insanity, which is what her defence has been centering around.",
+      "zh": "不过，她也可能因精神错乱而被判无罪，这正是其辩护一直围绕的理由。"
+    },
+    {
+      "id": 147,
+      "startMs": 855280,
+      "endMs": 861940,
+      "en": "Essentially, her defence argues that she was suffering from severe postpartum psychosis at the time.",
+      "zh": "基本上，她的辩护方主张，她当时患有严重的产后精神病。"
+    },
+    {
+      "id": 148,
+      "startMs": 861940,
+      "endMs": 865460,
+      "en": "This is a mental health condition that can affect some mothers after giving birth.",
+      "zh": "这是一种可能影响一些产后母亲的心理健康状况。"
+    },
+    {
+      "id": 149,
+      "startMs": 865540,
+      "endMs": 869940,
+      "en": "she wasn't in a fit state of mind when she killed her three children.",
+      "zh": "她杀死三个孩子时精神状态并不健全。"
+    },
+    {
+      "id": 150,
+      "startMs": 870420,
+      "endMs": 877380,
+      "en": "Her defence argues that she wasn't able to distinguish right from wrong, that she can't be held criminally responsible for what she did.",
+      "zh": "辩护方称，她无法分辨是非，因此不能为自己的行为承担刑事责任。"
+    },
+    {
+      "id": 151,
+      "startMs": 877700,
+      "endMs": 883140,
+      "en": "The prosecution, on the other hand, say that she did act intentionally, deliberately, in a planned manner.",
+      "zh": "另一方面，检方称她的行为是有意、蓄意且经过策划的。"
+    },
+    {
+      "id": 152,
+      "startMs": 883540,
+      "endMs": 890340,
+      "en": "So we've heard these two very, very different presentations of why and how Lindsay Clancy acted in that moment.",
+      "zh": "所以，我们听到了两种截然不同的说法，解释林赛·克兰西当时为何以及如何采取行动。"
+    },
+    {
+      "id": 153,
+      "startMs": 890420,
+      "endMs": 898580,
+      "en": "Even though nobody has denied that she killed her three children, this case is centering around whether or not she can be held responsible for that.",
+      "zh": "虽然没人否认她杀死了三个孩子，但本案的核心在于她是否应为此承担责任。"
+    },
+    {
+      "id": 154,
+      "startMs": 898900,
+      "endMs": 904900,
+      "en": "And how unprecedented would it be for someone with postpartum psychosis to be found not guilty by reason of insanity?",
+      "zh": "那么，患有产后精神病的人若因精神错乱被判无罪，这将多么史无前例？"
+    },
+    {
+      "id": 155,
+      "startMs": 905380,
+      "endMs": 910260,
+      "en": "Many people are seeing this as a trial that has the potential to set precedents for future cases.",
+      "zh": "许多人认为，这宗审判可能为未来案件树立先例。"
+    },
+    {
+      "id": 156,
+      "startMs": 910580,
+      "endMs": 919560,
+      "en": "This is a very little-known, little-researched condition, and it has led to this swell of campaigning around the case,",
+      "zh": "这是一种鲜为人知、研究很少的病症，并由此引发了围绕本案的声援浪潮，"
+    },
+    {
+      "id": 157,
+      "startMs": 919560,
+      "endMs": 923640,
+      "en": "with many women in particular, including some who have gathered outside the courthouse,",
+      "zh": "尤其是许多女性，其中包括一些聚集在法院外的人，"
+    },
+    {
+      "id": 158,
+      "startMs": 923640,
+      "endMs": 929560,
+      "en": "calling for more support for mothers suffering with this condition and more research into it.",
+      "zh": "她们呼吁为患有这种病症的母亲提供更多支持，并加强相关研究。"
+    },
+    {
+      "id": 159,
+      "startMs": 929880,
+      "endMs": 935080,
+      "en": "I think it is certainly a very unusual case, and that is why it has gripped the nation so strongly.",
+      "zh": "我认为这确实是一起非常不寻常的案件，这就是它为何如此强烈地吸引全国关注。"
+    },
+    {
+      "id": 160,
+      "startMs": 935080,
+      "endMs": 942120,
+      "en": "I think what is also so complex about it is that it essentially asks jurors to decide.",
+      "zh": "我认为，此案的另一复杂之处在于，它实际上要求陪审员作出判断。"
+    },
+    {
+      "id": 161,
+      "startMs": 942120,
+      "endMs": 950440,
+      "en": "They must distinguish where the line is between somebody being mentally ill and being so mentally ill that they cannot become criminally responsible for something.",
+      "zh": "他们必须区分普通精神疾病与严重到使人无法为某事承担刑事责任之间的界线。"
+    },
+    {
+      "id": 162,
+      "startMs": 950440,
+      "endMs": 954780,
+      "en": "And I think that is why, morally and medically, this has been such a hard case for them to assess.",
+      "zh": "我认为，这就是为什么从道德和医学角度看，这对他们而言都是一起如此难以评估的案件。"
+    },
+    {
+      "id": 163,
+      "startMs": 955260,
+      "endMs": 956140,
+      "en": "Ione Wells.",
+      "zh": "Ione Wells。"
+    },
+    {
+      "id": 164,
+      "startMs": 957100,
+      "endMs": 964460,
+      "en": "The US Vice President JD Vance has said that oil flows through the Strait of Hormuz are almost back up to pre-war levels.",
+      "zh": "美国副总统JD·万斯表示，经霍尔木兹海峡运输的石油量几乎已恢复到战前水平。"
+    },
+    {
+      "id": 165,
+      "startMs": 965020,
+      "endMs": 971020,
+      "en": "The US and Israel's six-month conflict with Iran has driven up global energy prices and fuel costs.",
+      "zh": "美国和以色列与伊朗持续六个月的冲突推高了全球能源价格和燃料成本。"
+    },
+    {
+      "id": 166,
+      "startMs": 971500,
+      "endMs": 976140,
+      "en": "But Mr. Vance said Tehran's control of the vital waterway is effectively gone.",
+      "zh": "但万斯称，德黑兰对这条重要水道的控制实际上已经消失。"
+    },
+    {
+      "id": 167,
+      "startMs": 976540,
+      "endMs": 983180,
+      "en": "When the Iranians shoot at commercial shipping, obviously that means some ships don't want to go through. A lot of ships have gone through.",
+      "zh": "伊朗人向商船开火，显然意味着一些船只不愿通过那里。但已经有很多船只通过了。"
+    },
+    {
+      "id": 168,
+      "startMs": 983180,
+      "endMs": 986460,
+      "en": "We got about 15 million barrels out of the Strait of Hormuz just yesterday,",
+      "zh": "仅昨天一天，就有大约1500万桶石油运出霍尔木兹海峡，"
+    },
+    {
+      "id": 169,
+      "startMs": 986700,
+      "endMs": 990620,
+      "en": "despite the fact that the Iranians continue to ship—or continue to shoot, I should say.",
+      "zh": "尽管伊朗人仍在运输——应该说，仍在开火。"
+    },
+    {
+      "id": 170,
+      "startMs": 991100,
+      "endMs": 996940,
+      "en": "And we're going to do what we have to do in order to ensure that their efforts don't lead to a worldwide energy crisis.",
+      "zh": "我们会采取一切必要措施，确保他们的行动不会导致全球能源危机。"
+    },
+    {
+      "id": 171,
+      "startMs": 997660,
+      "endMs": 1002060,
+      "en": "JD Vance was speaking at his first White House press briefing in weeks,",
+      "zh": "JD·万斯在数周以来首次白宫新闻发布会上发言，"
+    },
+    {
+      "id": 172,
+      "startMs": 1002380,
+      "endMs": 1008700,
+      "en": "and dodged many other questions, including some about reports that a US strike killed four people at a wedding,",
+      "zh": "并回避了许多其他问题，包括有关美国一次袭击在一场婚礼上造成四人死亡的报道，"
+    },
+    {
+      "id": 173,
+      "startMs": 1009020,
+      "endMs": 1015120,
+      "en": "in southern Iran, and about his own political future once Donald Trump leaves office.",
+      "zh": "以及这场袭击发生在伊朗南部，还有他在唐纳德·特朗普离任后的个人政治前途。"
+    },
+    {
+      "id": 174,
+      "startMs": 1015600,
+      "endMs": 1017760,
+      "en": "Our White House correspondent, Bernd Debusmann, said",
+      "zh": "我们的白宫记者贝恩德·德布斯曼说，"
+    },
+    {
+      "id": 175,
+      "startMs": 1017760,
+      "endMs": 1024640,
+      "en": "the vice president sounded optimistic about the Iran war but will continue to face scrutiny from American voters.",
+      "zh": "副总统对伊朗战争态度乐观，但仍将继续受到美国选民的审视。"
+    },
+    {
+      "id": 176,
+      "startMs": 1025120,
+      "endMs": 1030240,
+      "en": "He was more upbeat, and I think he spent much of what was a relatively short press briefing at the White House",
+      "zh": "他说话更加乐观；我认为，他在白宫这场相对简短的新闻发布会上，大部分时间都在"
+    },
+    {
+      "id": 177,
+      "startMs": 1030240,
+      "endMs": 1036560,
+      "en": "addressing some of those concerns that Americans have about the lingering impact of the war on their own pocketbooks.",
+      "zh": "回应美国人对战争持续影响自身经济状况的担忧。"
+    },
+    {
+      "id": 178,
+      "startMs": 1036560,
+      "endMs": 1043360,
+      "en": "Of course, polls have shown that this is something that many Americans are deeply concerned about as we head to midterms just two months away.",
+      "zh": "当然，民调显示，随着中期选举只剩两个月，许多美国人对此深感担忧。"
+    },
+    {
+      "id": 179,
+      "startMs": 1043360,
+      "endMs": 1052000,
+      "en": "And Vice President Vance addressed many of those questions and blamed really any lingering problems on the Iranians shooting at ships in the Gulf.",
+      "zh": "万斯副总统回答了许多相关问题，并把任何持续存在的问题都归咎于伊朗人在海湾向船只开火。"
+    },
+    {
+      "id": 180,
+      "startMs": 1052080,
+      "endMs": 1058560,
+      "en": "So he certainly sounded much more upbeat, and he sounded very much more confident than we've heard from officials in recent months and weeks",
+      "zh": "所以，他的语气显然更加乐观，也比我们近几个月、几周从官员那里听到的更加自信，"
+    },
+    {
+      "id": 181,
+      "startMs": 1058960,
+      "endMs": 1064640,
+      "en": "that the United States can get those ships through the Strait of Hormuz and that ultimately we'll see gas prices going down.",
+      "zh": "认为美国能够让那些船只通过霍尔木兹海峡，最终汽油价格会下降。"
+    },
+    {
+      "id": 182,
+      "startMs": 1064640,
+      "endMs": 1072400,
+      "en": "But the administration has repeatedly said lower gas prices are right around the corner, and that still hasn't materialized for many Americans.",
+      "zh": "但政府一再表示汽油价格很快就会下降，可对许多美国人来说，这仍未实现。"
+    },
+    {
+      "id": 183,
+      "startMs": 1072400,
+      "endMs": 1075700,
+      "en": "So I think they'll be waiting to see just when that might happen.",
+      "zh": "所以我想，他们会等着看这究竟什么时候才会发生。"
+    },
+    {
+      "id": 184,
+      "startMs": 1076260,
+      "endMs": 1077060,
+      "en": "Bernd Debusmann.",
+      "zh": "贝恩德·德布斯曼。"
+    },
+    {
+      "id": 185,
+      "startMs": 1078400,
+      "endMs": 1086080,
+      "en": "A few years ago, if you were an A-list celebrity with something to promote, primetime TV would probably have been top of your list.",
+      "zh": "几年前，如果你是有作品要宣传的一线名人，黄金时段电视节目可能会是你的首选。"
+    },
+    {
+      "id": 186,
+      "startMs": 1086560,
+      "endMs": 1092400,
+      "en": "But now you're just as likely to see famous faces being interviewed by independent creators on YouTube.",
+      "zh": "但如今，你同样可能看到名人接受YouTube独立创作者的采访。"
+    },
+    {
+      "id": 187,
+      "startMs": 1092960,
+      "endMs": 1101120,
+      "en": "One of them is called Chicken Shop Date, but after 34 million views, its creator and host has announced that it's coming to an end.",
+      "zh": "其中一个节目叫《Chicken Shop Date》，但在获得3400万次观看后，其创作者兼主持人宣布节目即将结束。"
+    },
+    {
+      "id": 188,
+      "startMs": 1101600,
+      "endMs": 1110160,
+      "en": "Amelia Dimoldenberg is known for asking celebs awkward and cringeworthy questions over a portion of chicken and chips here in the UK.",
+      "zh": "阿米莉娅·迪莫尔登伯格因在英国一份炸鸡薯条前向名人提出尴尬又令人难堪的问题而闻名。"
+    },
+    {
+      "id": 189,
+      "startMs": 1110640,
+      "endMs": 1115840,
+      "en": "Here she is trying to use those skills on singers Billie Eilish, Paul McCartney and Sabrina Carpenter.",
+      "zh": "下面是她将这些技巧用在歌手比莉·艾利什、保罗·麦卡特尼和萨布丽娜·卡彭特身上的片段。"
+    },
+    {
+      "id": 190,
+      "startMs": 1115840,
+      "endMs": 1117680,
+      "en": "Is smell a big thing for you?",
+      "zh": "气味对你来说很重要吗？"
+    },
+    {
+      "id": 191,
+      "startMs": 1118080,
+      "endMs": 1119040,
+      "en": "Kind of number one. Really?",
+      "zh": "算是第一重要的吧。真的吗？"
+    },
+    {
+      "id": 192,
+      "startMs": 1120080,
+      "endMs": 1124320,
+      "en": "“Obviously, personality, right? And…” “Oh God, overrated.” “What about smell?”",
+      "zh": "“显然是性格，对吧？还有……”“天啊，那被高估了。”“那气味呢？”"
+    },
+    {
+      "id": 193,
+      "startMs": 1124560,
+      "endMs": 1127440,
+      "en": "That's the first thing that I notice, and I have a very, like, strong nose.",
+      "zh": "那是我首先注意到的事情，而且我的鼻子非常敏感。"
+    },
+    {
+      "id": 194,
+      "startMs": 1128000,
+      "endMs": 1130880,
+      "en": "So if somebody smells good, I like them more.",
+      "zh": "所以如果一个人闻起来很好闻，我就会更喜欢他们。"
+    },
+    {
+      "id": 195,
+      "startMs": 1131200,
+      "endMs": 1133760,
+      "en": "Who's your favourite Beatle? Well, there's only one left.",
+      "zh": "你最喜欢哪位披头士成员？嗯，只剩一位了。"
+    },
+    {
+      "id": 196,
+      "startMs": 1134000,
+      "endMs": 1139220,
+      "en": "Currently it's Ringo. During the Beatles, I think we all used to look up to John.",
+      "zh": "目前是林戈。披头士乐队时期，我想我们都曾仰慕约翰。"
+    },
+    {
+      "id": 197,
+      "startMs": 1139380,
+      "endMs": 1141860,
+      "en": "You come from a family of carpenters, sort of.",
+      "zh": "你算是出身于木匠家庭。"
+    },
+    {
+      "id": 198,
+      "startMs": 1142340,
+      "endMs": 1146020,
+      "en": "Have you ever built anything with your bare hands? Does it need to be furniture?",
+      "zh": "你有没有亲手做过什么东西？一定得是家具之类的东西吗？"
+    },
+    {
+      "id": 199,
+      "startMs": 1146100,
+      "endMs": 1155380,
+      "en": "No, I build people up, as opposed to, like, building objects, because, like, hammers, heavy nails—scary.",
+      "zh": "不，我是鼓舞人，而不是制作物品，因为锤子、沉重的钉子——太吓人了。"
+    },
+    {
+      "id": 200,
+      "startMs": 1156020,
+      "endMs": 1159860,
+      "en": "Amelia Dimoldenberg says it's time to move on to a new adventure.",
+      "zh": "阿米莉娅·迪莫尔登伯格说，是时候开启新的冒险了。"
+    },
+    {
+      "id": 201,
+      "startMs": 1160420,
+      "endMs": 1165860,
+      "en": "But what exactly is it about channels like this that are described as changing the media landscape?",
+      "zh": "但究竟是什么让这类频道被称为正在改变媒体格局？"
+    },
+    {
+      "id": 202,
+      "startMs": 1166340,
+      "endMs": 1169620,
+      "en": "That's a question Will Chalk put to our culture correspondent Noor Nanji.",
+      "zh": "威尔·乔克把这个问题交给了我们的文化记者诺尔·南吉。"
+    },
+    {
+      "id": 203,
+      "startMs": 1169860,
+      "endMs": 1175220,
+      "en": "She's obviously one of the UK's best-known, biggest content creators, with millions of followers.",
+      "zh": "她显然是英国最知名、规模最大的内容创作者之一，拥有数百万粉丝。"
+    },
+    {
+      "id": 204,
+      "startMs": 1175300,
+      "endMs": 1181380,
+      "en": "She's got a very popular interview style, all done over a plate of nuggets and chips,",
+      "zh": "她有一种非常受欢迎的采访风格，采访都在一盘鸡块和薯条前进行，"
+    },
+    {
+      "id": 205,
+      "startMs": 1181380,
+      "endMs": 1183860,
+      "en": "and so it's her way of sort of disarming celebrities,",
+      "zh": "这也算是她让名人放松戒备的方式，"
+    },
+    {
+      "id": 206,
+      "startMs": 1184020,
+      "endMs": 1189540,
+      "en": "everyone from Sir Paul McCartney to Billie Eilish, and yeah, of course, now she's closing up shop.",
+      "zh": "从保罗·麦卡特尼爵士到比莉·艾利什；当然，如今她要关门收摊了。"
+    },
+    {
+      "id": 207,
+      "startMs": 1190340,
+      "endMs": 1197380,
+      "en": "Now, there will be people listening who haven't heard of Chicken Shop Date, but this matters, doesn't it, because of what it represents,",
+      "zh": "现在，可能有听众没听说过《Chicken Shop Date》，但这很重要，不是吗？因为它所代表的意义，"
+    },
+    {
+      "id": 208,
+      "startMs": 1197380,
+      "endMs": 1206040,
+      "en": "because she now gets guests traditional broadcasters would love, and they don't want traditional TV; they want her show, all on YouTube.",
+      "zh": "因为她如今请到传统电视机构梦寐以求的嘉宾，而嘉宾不想上传统电视；他们想去她的节目，在YouTube上完成一切。"
+    },
+    {
+      "id": 209,
+      "startMs": 1206600,
+      "endMs": 1211720,
+      "en": "I think people can see her style of engaging with people, the way she gets, you know, these celebrities",
+      "zh": "我认为，人们能看出她与人交流的风格，以及她如何接触这些名人——"
+    },
+    {
+      "id": 210,
+      "startMs": 1211720,
+      "endMs": 1217480,
+      "en": "who you used to see perhaps in sort of press junkets, being slightly more formal or a lot more formal,",
+      "zh": "你过去或许只会在媒体宣传活动中看到他们，那时交流会稍微正式一些，或正式得多，"
+    },
+    {
+      "id": 211,
+      "startMs": 1217640,
+      "endMs": 1221800,
+      "en": "and the interview, the questions being very similar, and the answers being very similar.",
+      "zh": "采访、问题和答案也都非常相似。"
+    },
+    {
+      "id": 212,
+      "startMs": 1221800,
+      "endMs": 1226600,
+      "en": "Here you're getting something totally different to what you're used to, and it presents celebrities in a certain way",
+      "zh": "这里呈现的是与以往完全不同的内容，而且它以某种方式展现这些名人，"
+    },
+    {
+      "id": 213,
+      "startMs": 1226600,
+      "endMs": 1229400,
+      "en": "that, you know, lets you connect with them a bit more or a lot more.",
+      "zh": "让你可以和他们多一些、甚至多得多的共鸣。"
+    },
+    {
+      "id": 214,
+      "startMs": 1229400,
+      "endMs": 1234120,
+      "en": "I think that's increasingly popular, and she's managed to do it through this series.",
+      "zh": "我认为，这种形式正越来越受欢迎，而她通过这个系列成功做到了这一点。"
+    },
+    {
+      "id": 215,
+      "startMs": 1234120,
+      "endMs": 1237320,
+      "en": "And, as you say, the celebrities can see its value.",
+      "zh": "而且，正如你所说，名人能够看到它的价值。"
+    },
+    {
+      "id": 216,
+      "startMs": 1237560,
+      "endMs": 1246280,
+      "en": "Does it show that maybe people are craving more and more something that traditional TV can't provide, because traditional TV can sometimes feel quite formal and stilted?",
+      "zh": "这是否表明，人们越来越渴望传统电视无法提供的内容，因为传统电视有时会显得相当正式而僵硬？"
+    },
+    {
+      "id": 217,
+      "startMs": 1246760,
+      "endMs": 1253480,
+      "en": "Amelia Dimoldenberg's style is this sort of trademark dry, awkward flirting and banter with the celebrities.",
+      "zh": "阿米莉娅·迪莫尔登伯格的风格，是与名人进行标志性的冷淡、尴尬调情和玩笑式互动。"
+    },
+    {
+      "id": 218,
+      "startMs": 1253880,
+      "endMs": 1259660,
+      "en": "And she asks these sort of off-the-wall questions. She has these deadpan silences and puts people on the spot.",
+      "zh": "她会提出各种出人意料的问题，面无表情地沉默，让嘉宾当场陷入窘境。"
+    },
+    {
+      "id": 219,
+      "startMs": 1260060,
+      "endMs": 1263580,
+      "en": "It's funny, it's entertaining, and that's what people crave these days.",
+      "zh": "这很有趣，也很有娱乐性，正是如今人们渴望的内容。"
+    },
+    {
+      "id": 220,
+      "startMs": 1263580,
+      "endMs": 1268140,
+      "en": "And it's funny, when I interviewed her, I did ask her, “Look, you've been doing Chicken Shop Date for so long.",
+      "zh": "有意思的是，我采访她时确实问道：“你做《Chicken Shop Date》已经这么久了。"
+    },
+    {
+      "id": 221,
+      "startMs": 1268540,
+      "endMs": 1275260,
+      "en": "Would you want to take this to potentially a sort of traditional TV couch format, where you can ask these questions in a more, you know, linear way?”",
+      "zh": "你会不会想把它带到某种传统电视沙发访谈形式中，以一种更为线性的方式来提问？”"
+    },
+    {
+      "id": 222,
+      "startMs": 1275260,
+      "endMs": 1280860,
+      "en": "And she wasn't very keen on it, to be honest. She sort of said, “I think what I've got going here is essentially a sort of late-night chat show,”",
+      "zh": "不过老实说，她对此并不太感兴趣。她大意是说：“我现在做的基本上算是一种深夜聊天节目。”"
+    },
+    {
+      "id": 223,
+      "startMs": 1280860,
+      "endMs": 1283900,
+      "en": "and she could obviously see that that seems to work for her.",
+      "zh": "她显然看得出，这种形式似乎很适合她。"
+    },
+    {
+      "id": 224,
+      "startMs": 1283900,
+      "endMs": 1288140,
+      "en": "And the power in a way rests with social media and these platforms like YouTube.",
+      "zh": "某种意义上，影响力掌握在社交媒体和 YouTube 这样的平台手中。"
+    },
+    {
+      "id": 225,
+      "startMs": 1288140,
+      "endMs": 1293980,
+      "en": "I think what it says about YouTube and the growth of YouTube—we say it again and again, we talk about it.",
+      "zh": "我认为，这说明了 YouTube 及其发展；我们一次又一次地谈论这一点。"
+    },
+    {
+      "id": 226,
+      "startMs": 1293980,
+      "endMs": 1298860,
+      "en": "but especially for younger generations, this is what they're watching rather than traditional media.",
+      "zh": "但尤其对年轻一代来说，他们看的正是这些，而不是传统媒体。"
+    },
+    {
+      "id": 227,
+      "startMs": 1299100,
+      "endMs": 1306060,
+      "en": "I think it also shows that independent digital creators can give traditional broadcasters a run for their money and more.",
+      "zh": "我认为，这也表明独立数字创作者可以与传统广播机构竞争，甚至做得更好。"
+    },
+    {
+      "id": 228,
+      "startMs": 1306060,
+      "endMs": 1310060,
+      "en": "You know, they can become where the power is. She was very much a pioneer in that.",
+      "zh": "他们可以成为影响力所在之处。她无疑是这方面的先驱。"
+    },
+    {
+      "id": 229,
+      "startMs": 1310620,
+      "endMs": 1311340,
+      "en": "Noor Nanji.",
+      "zh": "诺尔·南吉。"
+    },
+    {
+      "id": 230,
+      "startMs": 1312660,
+      "endMs": 1321620,
+      "en": "Every year, tens of thousands worldwide die waiting for organ transplants, and kidneys are by far in greatest demand.",
+      "zh": "全球每年有数万人在等待器官移植时死亡，而肾脏是需求量最高的器官。"
+    },
+    {
+      "id": 231,
+      "startMs": 1322180,
+      "endMs": 1326580,
+      "en": "Now doctors say they've made a breakthrough that could help address the donor shortage.",
+      "zh": "如今医生表示，他们取得的突破或许有助于缓解供体短缺。"
+    },
+    {
+      "id": 232,
+      "startMs": 1327060,
+      "endMs": 1334420,
+      "en": "A man in the United States has received a genetically modified pig kidney, which enabled him to stay off dialysis for nine months.",
+      "zh": "美国一名男子接受了转基因猪肾移植，九个月无需透析。"
+    },
+    {
+      "id": 233,
+      "startMs": 1334740,
+      "endMs": 1336340,
+      "en": "Helena Begg has the details.",
+      "zh": "海伦娜·贝格报道。"
+    },
+    {
+      "id": 234,
+      "startMs": 1336900,
+      "endMs": 1344020,
+      "en": "When 66-year-old Tim Andrews was diagnosed with end-stage kidney disease, his prognosis looked grim.",
+      "zh": "66岁的蒂姆·安德鲁斯被诊断出终末期肾病时，预后看起来十分不妙。"
+    },
+    {
+      "id": 235,
+      "startMs": 1344500,
+      "endMs": 1349060,
+      "en": "So it's very hard for me to get a kidney transplant from a human.",
+      "zh": "所以，我很难接受人类供体的肾脏移植。"
+    },
+    {
+      "id": 236,
+      "startMs": 1349620,
+      "endMs": 1355460,
+      "en": "It'll be seven years or so before I would come up on the list to be able to get one.",
+      "zh": "我大概要等七年才能排到名单上，有机会获得一枚肾脏。"
+    },
+    {
+      "id": 237,
+      "startMs": 1355780,
+      "endMs": 1360020,
+      "en": "And on average, the person lives five years on dialysis.",
+      "zh": "而接受透析的人平均只能活五年。"
+    },
+    {
+      "id": 238,
+      "startMs": 1360020,
+      "endMs": 1363940,
+      "en": "So I had a little bit of a shortage of time, you know.",
+      "zh": "所以，我的时间确实有些紧迫。"
+    },
+    {
+      "id": 239,
+      "startMs": 1364020,
+      "endMs": 1370980,
+      "en": "It really becomes very, very depressing that this is it. This is how I'm going to end my life.",
+      "zh": "想到这就是结局，真的让人非常非常沮丧。我就要这样结束一生。"
+    },
+    {
+      "id": 240,
+      "startMs": 1371060,
+      "endMs": 1374680,
+      "en": "I'm going to be going to dialysis and being tired.",
+      "zh": "往后只能做透析，疲惫不堪。"
+    },
+    {
+      "id": 241,
+      "startMs": 1375160,
+      "endMs": 1382600,
+      "en": "In the US, around 100,000 people are currently waiting for a kidney, while only 25,000 transplants occur each year.",
+      "zh": "在美国，目前约有10万人等待肾脏移植，而每年只有2.5万例移植，"
+    },
+    {
+      "id": 242,
+      "startMs": 1383080,
+      "endMs": 1385960,
+      "en": "And it's a similar story in many other countries.",
+      "zh": "许多其他国家也面临类似情况。"
+    },
+    {
+      "id": 243,
+      "startMs": 1386520,
+      "endMs": 1393960,
+      "en": "To combat the problem, Dr. Leonardo Riella from Mass General Brigham Hospital in Boston has been researching xenotransplantation.",
+      "zh": "为解决这个问题，波士顿麻省总医院布莱根分院的莱昂纳多·里埃拉博士一直在研究异种移植，"
+    },
+    {
+      "id": 244,
+      "startMs": 1394280,
+      "endMs": 1397400,
+      "en": "It's the process of using animal organs in humans.",
+      "zh": "异种移植就是将动物器官用于人体的过程。"
+    },
+    {
+      "id": 245,
+      "startMs": 1397960,
+      "endMs": 1403480,
+      "en": "Pigs are seen as the ideal donor, as their organs are roughly the same size as humans.",
+      "zh": "猪被视为理想供体，因为猪的器官大小与人类大致相同。"
+    },
+    {
+      "id": 246,
+      "startMs": 1403880,
+      "endMs": 1408280,
+      "en": "In an attempt to save his life, Dr. Riella offered Tim the pioneering procedure.",
+      "zh": "为挽救他的生命，里埃拉博士向蒂姆提出了这项开创性手术。"
+    },
+    {
+      "id": 247,
+      "startMs": 1408840,
+      "endMs": 1415080,
+      "en": "His health condition started to deteriorate. His window for getting a kidney transplant, unfortunately, was closing.",
+      "zh": "他的健康状况开始恶化。遗憾的是，他接受肾脏移植的机会窗口正在关闭。"
+    },
+    {
+      "id": 248,
+      "startMs": 1415320,
+      "endMs": 1422680,
+      "en": "And this is when we approached him with the potential of thinking about xenotransplantation as an option to perform this transplant earlier.",
+      "zh": "就在这时，我们向他提出了异种移植的可能性，作为提前进行移植的一种选择。"
+    },
+    {
+      "id": 249,
+      "startMs": 1423080,
+      "endMs": 1431640,
+      "en": "It can serve as a bridge until Tim accumulates more time and gets to the top of the list and stays healthy enough then to get a human transplant.",
+      "zh": "这可以作为过渡，让蒂姆争取时间排到名单前列，并保持足够健康，最终接受人类供体移植。"
+    },
+    {
+      "id": 250,
+      "startMs": 1431880,
+      "endMs": 1437180,
+      "en": "Tim received a kidney from a genetically modified Yucatan miniature pig in January 2025.",
+      "zh": "蒂姆于2025年1月接受了一枚来自转基因尤卡坦迷你猪的肾脏。"
+    },
+    {
+      "id": 251,
+      "startMs": 1438300,
+      "endMs": 1441820,
+      "en": "This is not the first time a pig kidney transplant has occurred,",
+      "zh": "这并不是首次进行猪肾移植，"
+    },
+    {
+      "id": 252,
+      "startMs": 1442300,
+      "endMs": 1450460,
+      "en": "but the procedure marks the longest dialysis-free survival following a pig kidney transplant, with Tim living with the organ for nine months.",
+      "zh": "但这次手术创下了猪肾移植后无透析存活时间最长的纪录，蒂姆带着这枚肾脏生活了九个月。"
+    },
+    {
+      "id": 253,
+      "startMs": 1450860,
+      "endMs": 1459980,
+      "en": "It wasn't a simple process, though. Dr. Riella says it took years to develop genetically modified Yucatan miniature pigs with humanised organs.",
+      "zh": "不过，这并不是一个简单的过程。里埃拉博士说，培育出器官人源化的转基因尤卡坦迷你猪花了数年时间。"
+    },
+    {
+      "id": 254,
+      "startMs": 1460220,
+      "endMs": 1469180,
+      "en": "Performing xenotransplantation has been a huge challenge, in part due to the incompatibilities between the pig kidney and the human body.",
+      "zh": "进行异种移植一直是巨大挑战，部分原因在于猪肾与人体之间存在不相容性。"
+    },
+    {
+      "id": 255,
+      "startMs": 1469820,
+      "endMs": 1475500,
+      "en": "So the genetic edits were one of the main advancements that allow us to improve that compatibility.",
+      "zh": "因此，基因编辑是改善这种相容性的主要进展之一。"
+    },
+    {
+      "id": 256,
+      "startMs": 1475900,
+      "endMs": 1481100,
+      "en": "They therefore improve survival and the chances of xenotransplantation being successful.",
+      "zh": "这些编辑因此提高了存活率，也提高了异种移植成功的可能性。"
+    },
+    {
+      "id": 257,
+      "startMs": 1481580,
+      "endMs": 1485820,
+      "en": "After nine months, the pig kidney eventually failed and had to be removed.",
+      "zh": "九个月后，这枚猪肾最终衰竭，不得不被摘除。"
+    },
+    {
+      "id": 258,
+      "startMs": 1486220,
+      "endMs": 1489820,
+      "en": "Tim then received a human kidney and is now doing well.",
+      "zh": "蒂姆随后接受了人类供体的肾脏，目前恢复良好。"
+    },
+    {
+      "id": 259,
+      "startMs": 1490380,
+      "endMs": 1498720,
+      "en": "I'm not super religious, but I have been praying day and night to get this, and here I am. It's unbelievable.",
+      "zh": "我不是特别虔诚，但为了得到这枚肾脏，我日夜祈祷。如今我站在这里，简直难以置信。"
+    },
+    {
+      "id": 260,
+      "startMs": 1499040,
+      "endMs": 1505920,
+      "en": "This is also the first time someone has successfully moved from a pig kidney transplant to a human kidney transplant.",
+      "zh": "这也是首次有人成功从猪肾移植过渡到人类肾脏移植。"
+    },
+    {
+      "id": 261,
+      "startMs": 1506480,
+      "endMs": 1513040,
+      "en": "Dr. Riella hopes this breakthrough will pave the way for mainstream use of xenotransplantation in the next few years.",
+      "zh": "里埃拉博士希望，这一突破能为异种移植在未来几年进入主流应用铺平道路。"
+    },
+    {
+      "id": 262,
+      "startMs": 1513280,
+      "endMs": 1523280,
+      "en": "We're working really hard to bring hope, and we truly feel that xenotransplantation can be an alternative for patients who don't have a living donor.",
+      "zh": "我们正非常努力地带来希望，并真心认为，异种移植可以成为没有活体供体患者的替代方案。"
+    },
+    {
+      "id": 263,
+      "startMs": 1523680,
+      "endMs": 1529280,
+      "en": "Then we could potentially bypass dialysis and get them to a transplant in a timely manner.",
+      "zh": "这样或许可以绕过透析，让他们及时接受移植。"
+    },
+    {
+      "id": 264,
+      "startMs": 1529920,
+      "endMs": 1533360,
+      "en": "Dr. Leonardo Riella ending that report by Helena Begg.",
+      "zh": "海伦娜·贝格对莱昂纳多·里埃拉博士的报道到此结束。"
+    },
+    {
+      "id": 265,
+      "startMs": 1535940,
+      "endMs": 1542660,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是本期全部内容。如需联系我们，可发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 266,
+      "startMs": 1543220,
+      "endMs": 1547860,
+      "en": "This edition of the Global News Podcast was mixed by Derek Clark and produced by Emma Joseph.",
+      "zh": "本期《Global News Podcast》由德里克·克拉克混音，艾玛·约瑟夫制作。"
+    },
+    {
+      "id": 267,
+      "startMs": 1548180,
+      "endMs": 1550740,
+      "en": "The editor is Karen Martin, and I am Ankur Desai.",
+      "zh": "编辑是凯伦·马丁，我是安库尔·德赛。"
+    },
+    {
+      "id": 268,
+      "startMs": 1550900,
+      "endMs": 1552340,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}

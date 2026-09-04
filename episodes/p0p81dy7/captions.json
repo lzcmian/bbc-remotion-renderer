@@ -1,0 +1,1656 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "4 September 2026"
+  },
+  "durationMs": 1336440,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3360,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5020,
+      "endMs": 10540,
+      "en": "I'm Janat Jalil, and at 15:00 GMT on Friday, the 4th of September, these are our main stories.",
+      "zh": "我是 Janat Jalil。现在是9月4日星期五格林尼治标准时间15点，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 10540,
+      "endMs": 18860,
+      "en": "Two officials from the British anti-immigration party Reform stand down after undercover journalists filmed them talking about foreign donations.",
+      "zh": "英国反移民政党 Reform 的两名官员辞职，此前卧底记者拍到他们谈论外国捐款。"
+    },
+    {
+      "id": 4,
+      "startMs": 19540,
+      "endMs": 24420,
+      "en": "The German carmaker Volkswagen is cutting tens of thousands of jobs.",
+      "zh": "德国汽车制造商大众汽车将裁减数万个岗位。"
+    },
+    {
+      "id": 5,
+      "startMs": 26000,
+      "endMs": 34400,
+      "en": "Also in this podcast, the story of the badly injured sea eagle chick nursed back to health by his devoted parents.",
+      "zh": "本期还将讲述一只严重受伤的海雕幼鸟，在父母悉心照料下恢复健康的故事。"
+    },
+    {
+      "id": 6,
+      "startMs": 34640,
+      "endMs": 43840,
+      "en": "For an eagle to get an injury and a broken wing, that's it, normally. But he is a true survivor, and here he is, three years on, still with us.",
+      "zh": "通常来说，海雕受伤并折断翅膀就很难活下来。但他是真正的幸存者，三年过去了，他依然和我们在一起。"
+    },
+    {
+      "id": 7,
+      "startMs": 43840,
+      "endMs": 50720,
+      "en": "The past couple of years here in Britain have seen the populist anti-immigration Reform Party become a major political force.",
+      "zh": "过去几年，英国民粹主义反移民政党改革党已成为一股重要政治力量。"
+    },
+    {
+      "id": 8,
+      "startMs": 51120,
+      "endMs": 57360,
+      "en": "Its leader, Nigel Farage, is often compared to Donald Trump, and he's been talked about as a future British prime minister.",
+      "zh": "该党领袖奈杰尔·法拉奇常被拿来与唐纳德·特朗普比较，也有人把他视为未来的英国首相人选。"
+    },
+    {
+      "id": 9,
+      "startMs": 58040,
+      "endMs": 61960,
+      "en": "But this year has seen Reform embroiled in financial scandals.",
+      "zh": "但今年改革党卷入了一系列财务丑闻。"
+    },
+    {
+      "id": 10,
+      "startMs": 62280,
+      "endMs": 68440,
+      "en": "The party has repeatedly denied any wrongdoing, but now two senior officials have stepped down.",
+      "zh": "该党一再否认有任何不当行为，但如今已有两名高级官员辞职。"
+    },
+    {
+      "id": 11,
+      "startMs": 68760,
+      "endMs": 78040,
+      "en": "Undercover journalists secretly filmed party members apparently suggesting how to get around the law to secure a large foreign donation.",
+      "zh": "卧底记者秘密拍下该党成员似乎在建议如何绕过法律，以获得一笔巨额外国捐款。"
+    },
+    {
+      "id": 12,
+      "startMs": 78520,
+      "endMs": 83800,
+      "en": "Here's a clip from the video made by Verbatim Investigations and broadcast by Channel 4 News.",
+      "zh": "下面是 Verbatim Investigations 制作、由第四频道新闻播出的这段视频。"
+    },
+    {
+      "id": 13,
+      "startMs": 84200,
+      "endMs": 86680,
+      "en": "In it, you hear Mr. Farage thanking two men.",
+      "zh": "视频中可以听到法拉奇先生向两名男子致谢。"
+    },
+    {
+      "id": 14,
+      "startMs": 87080,
+      "endMs": 91240,
+      "en": "One of them is posing as an American, and the other as his British-based son.",
+      "zh": "其中一人假扮美国人，另一人则假扮他在英国的儿子。"
+    },
+    {
+      "id": 15,
+      "startMs": 91400,
+      "endMs": 98760,
+      "en": "The mechanism now for this next phase is, we've had some discussion with Dan, with James. It's all above board.",
+      "zh": "下一阶段的安排是：我们已经和丹、詹姆斯进行了一些讨论，一切都合法合规。"
+    },
+    {
+      "id": 16,
+      "startMs": 98920,
+      "endMs": 101880,
+      "en": "I'm going to be the registered donor. It'll be me.",
+      "zh": "我会成为登记在册的捐款人，就是我。"
+    },
+    {
+      "id": 17,
+      "startMs": 102280,
+      "endMs": 110440,
+      "en": "I think there'll be some conversations, necessarily with lawyers, back office and so on.",
+      "zh": "我想，之后必然还要和律师、后台人员等进行一些沟通。"
+    },
+    {
+      "id": 18,
+      "startMs": 110760,
+      "endMs": 116840,
+      "en": "But then Dad will send the money to me, and as soon as that's done and all those conversations are had, the money's available.",
+      "zh": "但之后爸爸会把钱汇给我；等这一切完成、所有沟通结束后，钱就可以动用了。"
+    },
+    {
+      "id": 19,
+      "startMs": 118500,
+      "endMs": 122980,
+      "en": "Our political correspondent, Rob Watson, told me more about the undercover investigation.",
+      "zh": "我们的政治记者罗布·沃森向我进一步介绍了这次卧底调查。"
+    },
+    {
+      "id": 20,
+      "startMs": 123140,
+      "endMs": 132340,
+      "en": "It's about 30 minutes long of television, which is utterly excruciating if you're Nigel Farage or a senior member of the Reform Party.",
+      "zh": "这段电视报道长约30分钟；如果你是奈杰尔·法拉奇或改革党的高级成员，看了会极其难受。"
+    },
+    {
+      "id": 21,
+      "startMs": 132340,
+      "endMs": 137140,
+      "en": "because what it shows in pretty graphic detail is what looks like an attempt",
+      "zh": "因为它以相当直观的细节展现了一个看似这样的企图："
+    },
+    {
+      "id": 22,
+      "startMs": 137300,
+      "endMs": 144900,
+      "en": "by two senior Reform officials, one of them very close to Nigel Farage, essentially to get round",
+      "zh": "两名改革党高级官员——其中一人与奈杰尔·法拉奇关系密切——基本上试图绕过"
+    },
+    {
+      "id": 23,
+      "startMs": 145300,
+      "endMs": 152820,
+      "en": "Britain's election laws, which prevent political parties from getting money from abroad. I mean, it's as simple as that.",
+      "zh": "英国禁止政党从海外获得资金的选举法。事情就是这么简单。"
+    },
+    {
+      "id": 24,
+      "startMs": 153700,
+      "endMs": 162500,
+      "en": "Added to that is the sense of there being lots of meetings in places which are very expensive, very posh, in London and beyond.",
+      "zh": "此外，人们还感觉他们在伦敦及其他地方一些非常昂贵、非常豪华的场所举行了许多会面。"
+    },
+    {
+      "id": 25,
+      "startMs": 162580,
+      "endMs": 172260,
+      "en": "In other words, somewhat undermining the idea of Reform as this sort of party of the people and a party that's different to the others.",
+      "zh": "换句话说，这多少削弱了改革党作为所谓人民政党、作为与其他政党不同的政党的形象。"
+    },
+    {
+      "id": 26,
+      "startMs": 172900,
+      "endMs": 177700,
+      "en": "And Rob, the timing of this couldn't be worse for Reform, because they're holding an annual conference.",
+      "zh": "罗布，这件事发生的时机对改革党来说糟糕透顶，因为他们正在举行年度大会。"
+    },
+    {
+      "id": 27,
+      "startMs": 177700,
+      "endMs": 183560,
+      "en": "And you're there right now trying to relaunch the party after a series of recent scandals.",
+      "zh": "而你此刻就在现场，试图让这个经历一连串丑闻的政党重新出发。"
+    },
+    {
+      "id": 28,
+      "startMs": 184360,
+      "endMs": 189480,
+      "en": "That's absolutely spot on. Until fairly recently, they were leading in the opinion polls.",
+      "zh": "完全正确。直到不久前，他们还在民调中领先。"
+    },
+    {
+      "id": 29,
+      "startMs": 189480,
+      "endMs": 192680,
+      "en": "That is no longer the case. They've lost their momentum.",
+      "zh": "但现在已不是这样了。他们已经失去势头。"
+    },
+    {
+      "id": 30,
+      "startMs": 192840,
+      "endMs": 196680,
+      "en": "This conference was meant to restore momentum and present Reform as a populist right-wing party.",
+      "zh": "这次大会本应恢复势头，并把改革党塑造成民粹主义右翼政党。"
+    },
+    {
+      "id": 31,
+      "startMs": 197400,
+      "endMs": 203800,
+      "en": "It would deal with the issues that people in Britain care about, such as immigration and the cost of living.",
+      "zh": "它会处理英国民众关心的问题，例如移民和生活成本。"
+    },
+    {
+      "id": 32,
+      "startMs": 203800,
+      "endMs": 209400,
+      "en": "But this scandal goes back to what really seems to have been hitting Reform in the polling.",
+      "zh": "但这起丑闻又触及了真正打击改革党民调表现的问题。"
+    },
+    {
+      "id": 33,
+      "startMs": 209400,
+      "endMs": 217080,
+      "en": "These include concerns over its finances, the finances of its leader, Nigel Farage, and the party's finances more generally.",
+      "zh": "这些担忧包括该党财务、其领袖奈杰尔·法拉奇财务，以及该党整体财务状况。"
+    },
+    {
+      "id": 34,
+      "startMs": 217160,
+      "endMs": 222760,
+      "en": "There are also concerns about whether it wouldn't be a rather divisive force in British politics.",
+      "zh": "人们还担心它会不会成为英国政治中相当具有分裂性的力量。"
+    },
+    {
+      "id": 35,
+      "startMs": 222760,
+      "endMs": 231320,
+      "en": "There's also the bigger philosophical question of whether an insurgent populist-style party could actually govern the country.",
+      "zh": "还有一个更宏观的哲学问题：一个挑战现状的民粹主义政党究竟能否治理国家。"
+    },
+    {
+      "id": 36,
+      "startMs": 231400,
+      "endMs": 237000,
+      "en": "So this was the absolute last thing they needed as their conference kicks off. Rob Watson.",
+      "zh": "所以，大会开幕之际，这正是他们最不需要发生的事。罗布·沃森报道。"
+    },
+    {
+      "id": 37,
+      "startMs": 237960,
+      "endMs": 245000,
+      "en": "New Zealand has become only the second country after Australia to authorise psychiatrists to prescribe MDMA.",
+      "zh": "新西兰成为继澳大利亚之后，全球第二个允许精神科医生开具 MDMA 的国家。"
+    },
+    {
+      "id": 38,
+      "startMs": 245320,
+      "endMs": 248600,
+      "en": "MDMA is the active ingredient found in the party drug ecstasy.",
+      "zh": "MDMA 是派对毒品摇头丸中的活性成分。"
+    },
+    {
+      "id": 39,
+      "startMs": 249080,
+      "endMs": 254680,
+      "en": "It will only be administered in a controlled clinical setting to patients with post-traumatic stress disorder.",
+      "zh": "这种药物只会在受控的临床环境中，给创伤后应激障碍患者使用。"
+    },
+    {
+      "id": 40,
+      "startMs": 255240,
+      "endMs": 258200,
+      "en": "Our global affairs reporter, Paul Moss, told me more.",
+      "zh": "我们的全球事务记者保罗·莫斯向我作了进一步介绍。"
+    },
+    {
+      "id": 41,
+      "startMs": 258440,
+      "endMs": 267000,
+      "en": "Well, this is the drug known as part of ecstasy, which makes people dance all night at rave parties. But it does seem to have clinical uses.",
+      "zh": "这种药物是摇头丸的组成部分，会让人在狂欢派对上整夜跳舞。但它似乎确有临床用途。"
+    },
+    {
+      "id": 42,
+      "startMs": 267000,
+      "endMs": 275320,
+      "en": "People don't realise that, long before it was used at parties, back in 1911 it was developed and used in psychotherapy.",
+      "zh": "人们没有意识到，早在它被用于派对之前，它就于1911年被开发出来并用于心理治疗。"
+    },
+    {
+      "id": 43,
+      "startMs": 275320,
+      "endMs": 283160,
+      "en": "The idea is that the feeling of wellbeing it induces allows people to think about traumatic events that have happened.",
+      "zh": "这种观点认为，它诱发的幸福感能让人思考曾经发生的创伤。"
+    },
+    {
+      "id": 44,
+      "startMs": 283160,
+      "endMs": 285640,
+      "en": "They might otherwise be blocking them out.",
+      "zh": "否则，他们可能会把这些创伤压抑下去。"
+    },
+    {
+      "id": 45,
+      "startMs": 285640,
+      "endMs": 291720,
+      "en": "So, in a sense, while New Zealand might think it's ahead of the curve, they're going back to the original purpose of MDMA.",
+      "zh": "所以从某种意义上说，新西兰或许以为自己走在前沿，但其实是在回到 MDMA 最初的用途。"
+    },
+    {
+      "id": 46,
+      "startMs": 292120,
+      "endMs": 298220,
+      "en": "As you suggested, it will particularly be used on people with post-traumatic stress disorder in a clinical setting.",
+      "zh": "正如你所说，他们尤其会在临床环境中把它用于创伤后应激障碍患者。"
+    },
+    {
+      "id": 47,
+      "startMs": 298540,
+      "endMs": 305180,
+      "en": "Whilst they're under the influence of MDMA, they'll be given psychotherapy, with the idea it might be more effective than otherwise.",
+      "zh": "患者受 MDMA 影响期间会接受心理治疗，希望效果能比通常更好。"
+    },
+    {
+      "id": 48,
+      "startMs": 305500,
+      "endMs": 311020,
+      "en": "Now, to some people, this might sound like quite a radical approach compared to traditional methods. Is it?",
+      "zh": "对一些人来说，这与传统方法相比可能相当激进。事实是这样吗？"
+    },
+    {
+      "id": 49,
+      "startMs": 311580,
+      "endMs": 315260,
+      "en": "Australia, New Zealand's neighbour, has done this for three years.",
+      "zh": "新西兰的邻国澳大利亚已经这样做了三年。"
+    },
+    {
+      "id": 50,
+      "startMs": 315260,
+      "endMs": 321260,
+      "en": "But using MDMA in a clinical setting is part of a growing belief among psychiatrists.",
+      "zh": "但在临床环境中使用 MDMA，已成为越来越多精神科医生逐渐形成的共识之一。"
+    },
+    {
+      "id": 51,
+      "startMs": 321340,
+      "endMs": 327180,
+      "en": "These drugs are considered mainly recreational and often illegal, but do have a clinical use.",
+      "zh": "这些药物通常被视为主要用于娱乐、而且往往违法，但确实有临床用途。"
+    },
+    {
+      "id": 52,
+      "startMs": 327500,
+      "endMs": 331020,
+      "en": "And again, there is history here.",
+      "zh": "而且，这方面也有历史先例。"
+    },
+    {
+      "id": 53,
+      "startMs": 331580,
+      "endMs": 337660,
+      "en": "Back in the 1950s, LSD was given in very small doses to people suffering from alcoholism and depression, and had some effects.",
+      "zh": "早在20世纪50年代，人们就给酗酒和抑郁症患者服用极小剂量的 LSD，并取得了一些效果。"
+    },
+    {
+      "id": 54,
+      "startMs": 337660,
+      "endMs": 341020,
+      "en": "And I should emphasise, this is always done in a clinical setting.",
+      "zh": "我要强调的是，这始终是在临床环境中进行的。"
+    },
+    {
+      "id": 55,
+      "startMs": 341020,
+      "endMs": 346860,
+      "en": "No one is suggesting that if you're feeling a bit depressed, just take an ecstasy tablet and you'll be fine.",
+      "zh": "没有人建议你如果有点抑郁，就吃一片摇头丸，这样就会没事。"
+    },
+    {
+      "id": 56,
+      "startMs": 347260,
+      "endMs": 354860,
+      "en": "But there is a growing belief that MDMA and ketamine can help people when psychotherapy alone doesn't work.",
+      "zh": "但越来越多人相信，MDMA 和氯胺酮能在心理治疗单独不起作用时帮助患者。"
+    },
+    {
+      "id": 57,
+      "startMs": 355100,
+      "endMs": 361920,
+      "en": "Yes, I think the actor Cary Grant took LSD in that setting. And magic mushrooms have also been used in those settings.",
+      "zh": "是的，我记得演员加里·格兰特曾在那种环境中服用 LSD，迷幻蘑菇也曾用于这类治疗。"
+    },
+    {
+      "id": 58,
+      "startMs": 361920,
+      "endMs": 364320,
+      "en": "But is there opposition to any of this?",
+      "zh": "但有人反对这一切吗？"
+    },
+    {
+      "id": 59,
+      "startMs": 364320,
+      "endMs": 369120,
+      "en": "There is, yes. First of all, there is a big debate about whether these drugs really are efficacious.",
+      "zh": "有。首先，人们就这些药物是否真的有效展开了激烈争论。"
+    },
+    {
+      "id": 60,
+      "startMs": 369120,
+      "endMs": 375520,
+      "en": "But you tend to get debates about any medicine used in a psychiatric circumstance.",
+      "zh": "但任何用于精神科治疗的药物，往往都会引发争论。"
+    },
+    {
+      "id": 61,
+      "startMs": 375520,
+      "endMs": 380400,
+      "en": "Think about the rows over Prozac and related antidepressants, still going on.",
+      "zh": "想想围绕百忧解及相关抗抑郁药的争论，至今仍未停止。"
+    },
+    {
+      "id": 62,
+      "startMs": 380640,
+      "endMs": 383360,
+      "en": "Is it effective? Does it have bad side effects?",
+      "zh": "它有效吗？会有严重副作用吗？"
+    },
+    {
+      "id": 63,
+      "startMs": 383520,
+      "endMs": 386880,
+      "en": "Similar debates are going on about these other psychedelic drugs.",
+      "zh": "围绕其他致幻药物，也有类似争论。"
+    },
+    {
+      "id": 64,
+      "startMs": 387280,
+      "endMs": 394000,
+      "en": "There is also political opposition. Most countries have strict laws against possession of things like LSD and ecstasy.",
+      "zh": "此外还有政治上的反对。大多数国家都有严格法律，禁止持有 LSD 和摇头丸等物质。"
+    },
+    {
+      "id": 65,
+      "startMs": 394560,
+      "endMs": 401360,
+      "en": "There are a lot of politicians very opposed to anything which might seem to be indulging or favouring these drugs.",
+      "zh": "许多政治人物强烈反对任何看似纵容或偏袒这些药物的做法。"
+    },
+    {
+      "id": 66,
+      "startMs": 401440,
+      "endMs": 406880,
+      "en": "So I think it's safe to say that, like all debates in psychiatry, this one is set to run. Paul Moss.",
+      "zh": "所以可以肯定地说，和精神科领域的所有争论一样，这场争论还会持续下去。保罗·莫斯报道。"
+    },
+    {
+      "id": 67,
+      "startMs": 407360,
+      "endMs": 413440,
+      "en": "It's not an outcome that many would have predicted, especially for an Italian leader whose party has neo-fascist roots.",
+      "zh": "这对一个政党有新法西斯主义根源的意大利领导人来说，是许多人未曾预料的结果。"
+    },
+    {
+      "id": 68,
+      "startMs": 413840,
+      "endMs": 420660,
+      "en": "But Giorgia Meloni's government has become the longest-serving in Italy since it became a republic after the Second World War.",
+      "zh": "但乔治娅·梅洛尼的政府，已成为意大利自二战后成为共和国以来执政时间最长的政府。"
+    },
+    {
+      "id": 69,
+      "startMs": 421060,
+      "endMs": 425620,
+      "en": "She is the country's first female prime minister. Clizia Sala reports.",
+      "zh": "她是意大利首位女总理。克莉齐娅·萨拉报道。"
+    },
+    {
+      "id": 70,
+      "startMs": 425860,
+      "endMs": 430340,
+      "en": "Giorgia Meloni has been in office for nearly four years, at the head of a coalition",
+      "zh": "乔治娅·梅洛尼已执政近四年，领导着一个"
+    },
+    {
+      "id": 71,
+      "startMs": 430340,
+      "endMs": 435860,
+      "en": "led by her hard-right Brothers of Italy party. She's led a period of unprecedented political stability",
+      "zh": "以她所属的强硬右翼意大利兄弟党为首的执政联盟。她带来了前所未有的政治稳定时期，"
+    },
+    {
+      "id": 72,
+      "startMs": 435860,
+      "endMs": 439860,
+      "en": "for Italy, a country that has seen 68 governments in 80 years.",
+      "zh": "对意大利来说，这个国家80年间更换过68届政府。"
+    },
+    {
+      "id": 73,
+      "startMs": 440260,
+      "endMs": 444260,
+      "en": "Her strong opinions were initially met with unease in some quarters internationally.",
+      "zh": "她鲜明的观点起初在国际上引发一些方面的不安。"
+    },
+    {
+      "id": 74,
+      "startMs": 444420,
+      "endMs": 448980,
+      "en": "But she soon built strong relations with the European Commission chief, Ursula von der Leyen.",
+      "zh": "但她很快与欧盟委员会主席乌尔苏拉·冯德莱恩建立了良好关系。"
+    },
+    {
+      "id": 75,
+      "startMs": 449300,
+      "endMs": 454900,
+      "en": "Within Italy, her supporters say she's boosted employment and implemented stricter fiscal discipline.",
+      "zh": "在意大利国内，她的支持者说她促进了就业，并实施了更严格的财政纪律。"
+    },
+    {
+      "id": 76,
+      "startMs": 455060,
+      "endMs": 460740,
+      "en": "But critics claim that her government has survived by neglecting vital structural reforms. Clizia Sala.",
+      "zh": "但批评者称，她的政府是靠忽视关键结构性改革才得以维持。克莉齐娅·萨拉。"
+    },
+    {
+      "id": 77,
+      "startMs": 462700,
+      "endMs": 470700,
+      "en": "Still to come, with thousands of migrants still in the Spanish territory of Ceuta, we hear why reports of sexual assault are rising there.",
+      "zh": "本期节目稍后，我们将关注仍有数千名移民滞留西班牙属地休达，以及当地性侵报告为何增加。"
+    },
+    {
+      "id": 78,
+      "startMs": 470700,
+      "endMs": 475740,
+      "en": "They are sleeping in the mountains and on the beach and doing everything they want",
+      "zh": "他们睡在山上和海滩上，想做什么就做什么，"
+    },
+    {
+      "id": 79,
+      "startMs": 476060,
+      "endMs": 481020,
+      "en": "without any law. They have to take them to the border again, to Morocco.",
+      "zh": "完全不受法律约束。必须再次把他们带回摩洛哥边境。"
+    },
+    {
+      "id": 80,
+      "startMs": 481020,
+      "endMs": 483100,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 81,
+      "startMs": 483820,
+      "endMs": 491420,
+      "en": "Germany's once-mighty car industry is in crisis, in part because of growing competition from China and its cheap electric vehicles.",
+      "zh": "德国曾经强大的汽车工业正陷入危机，部分原因是来自中国及其廉价电动汽车的竞争日益加剧。"
+    },
+    {
+      "id": 82,
+      "startMs": 492120,
+      "endMs": 500040,
+      "en": "Volkswagen is still the biggest carmaker in Europe, but the company is to cut a further 50,000 jobs by the end of this decade.",
+      "zh": "大众仍是欧洲最大的汽车制造商，但公司将在本世纪20年代末前进一步裁减5万个岗位。"
+    },
+    {
+      "id": 83,
+      "startMs": 500520,
+      "endMs": 506680,
+      "en": "That would bring the total number of planned layoffs to 100,000 and could see the closure of plants in Germany.",
+      "zh": "这将使计划裁员总数达到10万人，并可能导致德国工厂关闭。"
+    },
+    {
+      "id": 84,
+      "startMs": 507320,
+      "endMs": 511560,
+      "en": "Alexander Demling is the auto correspondent for the German magazine Der Spiegel.",
+      "zh": "亚历山大·德姆林是德国《明镜》杂志的汽车业记者。"
+    },
+    {
+      "id": 85,
+      "startMs": 511560,
+      "endMs": 518440,
+      "en": "Rob Young asked him how big a crisis this is for Volkswagen and the German car industry as a whole.",
+      "zh": "罗布·扬问他，这对大众汽车乃至整个德国汽车业来说，是一场多大的危机。"
+    },
+    {
+      "id": 86,
+      "startMs": 518840,
+      "endMs": 520840,
+      "en": "So the crisis is pretty big.",
+      "zh": "这场危机相当严重。"
+    },
+    {
+      "id": 87,
+      "startMs": 520840,
+      "endMs": 525800,
+      "en": "The German carmakers, basically, were the most globalised companies.",
+      "zh": "基本上，德国汽车制造商曾是全球化程度最高的企业。"
+    },
+    {
+      "id": 88,
+      "startMs": 525960,
+      "endMs": 533320,
+      "en": "And now, with China competing with them, they have a very big China business that's shrinking now.",
+      "zh": "但如今中国正与它们竞争，它们在中国的庞大业务正在萎缩。"
+    },
+    {
+      "id": 89,
+      "startMs": 533320,
+      "endMs": 536520,
+      "en": "That's because of the competition and because of the tariffs from Donald Trump.",
+      "zh": "这是因为竞争，以及唐纳德·特朗普加征的关税。"
+    },
+    {
+      "id": 90,
+      "startMs": 537080,
+      "endMs": 542920,
+      "en": "They are in trouble. They are still profitable, but profits are decreasing,",
+      "zh": "它们陷入了困境。它们仍然盈利，但利润正在下降，"
+    },
+    {
+      "id": 91,
+      "startMs": 543000,
+      "endMs": 547000,
+      "en": "and so they need to cut workers just to bring down costs.",
+      "zh": "所以需要裁员，以降低成本。"
+    },
+    {
+      "id": 92,
+      "startMs": 547480,
+      "endMs": 552620,
+      "en": "And how will they cut these workers? Will people be allowed to retire, maybe retire early?",
+      "zh": "他们将如何裁掉这些员工？人们能否退休，或提前退休？"
+    },
+    {
+      "id": 93,
+      "startMs": 553020,
+      "endMs": 561020,
+      "en": "Or are huge numbers of people in towns where the biggest employer is likely to be carmaking just going to be thrown out of the labour force?",
+      "zh": "还是说，在最大雇主很可能是汽车制造商的城镇，大量居民将被抛出劳动力市场？"
+    },
+    {
+      "id": 94,
+      "startMs": 561660,
+      "endMs": 567420,
+      "en": "No, it will be voluntary. So they have a job guarantee until 2030,",
+      "zh": "不会，这是自愿的。他们的工作保障会持续到2030年，"
+    },
+    {
+      "id": 95,
+      "startMs": 567420,
+      "endMs": 571820,
+      "en": "and they just need to find workers that are willing to go.",
+      "zh": "他们只需找到愿意离职的员工。"
+    },
+    {
+      "id": 96,
+      "startMs": 572140,
+      "endMs": 580060,
+      "en": "But still, 50,000 is a pretty big number, and they will look for retirees and people who are willing to look for another job.",
+      "zh": "但5万人仍是一个很大的数字，他们会寻找退休人员，以及愿意另找工作的员工。"
+    },
+    {
+      "id": 97,
+      "startMs": 580780,
+      "endMs": 589020,
+      "en": "And this will still be a big strain on these cities because you don't have productive employment anymore. You have a lot of retirees.",
+      "zh": "这仍会给这些城市带来巨大压力，因为当地不再有那么多生产性就业，只有许多退休人员。"
+    },
+    {
+      "id": 98,
+      "startMs": 589580,
+      "endMs": 597820,
+      "en": "And there are the companies that supply components and services to the likes of Volkswagen, which will also be hit,",
+      "zh": "为大众等企业供应零部件和服务的公司也会受到冲击，"
+    },
+    {
+      "id": 99,
+      "startMs": 597820,
+      "endMs": 601500,
+      "en": "if Volkswagen's planning to make a million fewer cars a year.",
+      "zh": "如果大众计划每年少生产100万辆汽车。"
+    },
+    {
+      "id": 100,
+      "startMs": 602620,
+      "endMs": 611180,
+      "en": "What is the plan for Germany's industrial base? Germany has been the economic engine of Europe for decades. Car-making lay at the heart of that,",
+      "zh": "德国工业基础的计划是什么？几十年来，德国一直是欧洲的经济引擎，汽车制造业正是其核心，"
+    },
+    {
+      "id": 101,
+      "startMs": 611180,
+      "endMs": 614240,
+      "en": "but China now poses a really big challenge to it.",
+      "zh": "但如今中国对它构成了巨大挑战。"
+    },
+    {
+      "id": 102,
+      "startMs": 614880,
+      "endMs": 621360,
+      "en": "Yeah, so I mean the plan for Volkswagen short term is moving production to Eastern and Southern Europe,",
+      "zh": "是的，大众的短期计划是把生产转移到东欧和南欧，"
+    },
+    {
+      "id": 103,
+      "startMs": 621440,
+      "endMs": 625360,
+      "en": "where they have plants that are just producing more cheaply than in Germany.",
+      "zh": "那里的工厂生产成本低于德国。"
+    },
+    {
+      "id": 104,
+      "startMs": 625840,
+      "endMs": 633920,
+      "en": "And I think the EU's plan is to force Chinese carmakers to come to Europe to produce here,",
+      "zh": "我认为欧盟的计划是迫使中国汽车制造商来到欧洲，在这里生产，"
+    },
+    {
+      "id": 105,
+      "startMs": 634240,
+      "endMs": 636400,
+      "en": "but for Germany, that's pretty dire,",
+      "zh": "但对德国来说，形势相当严峻，"
+    },
+    {
+      "id": 106,
+      "startMs": 636400,
+      "endMs": 641600,
+      "en": "because the Chinese don't want to pay German wages and deal with German unions as well.",
+      "zh": "因为中国企业不想支付德国工资，也不想与德国工会打交道。"
+    },
+    {
+      "id": 107,
+      "startMs": 641600,
+      "endMs": 648160,
+      "en": "So we're looking at a shrinking German industry for years if nothing else happens.",
+      "zh": "所以，如果没有其他变化，德国工业可能会多年持续萎缩。"
+    },
+    {
+      "id": 108,
+      "startMs": 648240,
+      "endMs": 651760,
+      "en": "And do political parties have a plan then to retrain",
+      "zh": "那么，各政党是否有计划培训"
+    },
+    {
+      "id": 109,
+      "startMs": 652240,
+      "endMs": 655360,
+      "en": "Germans to be able to get work, to set up companies,",
+      "zh": "德国人，让他们能够就业、创办公司，"
+    },
+    {
+      "id": 110,
+      "startMs": 655360,
+      "endMs": 662000,
+      "en": "for example, in a world where China dominates global carmaking in the way that Germany did in the previous century?",
+      "zh": "例如，在中国像德国上世纪那样主导全球汽车制造的世界里？"
+    },
+    {
+      "id": 111,
+      "startMs": 662800,
+      "endMs": 669600,
+      "en": "Yeah, so I mean politicians are working on, for example, transforming some of these factories to defence factories.",
+      "zh": "是的，政客们正在努力，例如把其中一些工厂改造成国防工厂。"
+    },
+    {
+      "id": 112,
+      "startMs": 669920,
+      "endMs": 675760,
+      "en": "Germany's investing a lot of money into its army because of the Russian threat,",
+      "zh": "由于俄罗斯带来的威胁，德国正向军队投入大量资金，"
+    },
+    {
+      "id": 113,
+      "startMs": 676160,
+      "endMs": 683200,
+      "en": "and so some old car factories could become defence factories.",
+      "zh": "因此，一些老汽车工厂可能转为国防工厂。"
+    },
+    {
+      "id": 114,
+      "startMs": 683200,
+      "endMs": 688480,
+      "en": "It's just the question if all of that works. I mean, the car plants are pretty big, and for a tank",
+      "zh": "问题在于这些能否奏效。汽车工厂规模很大，而坦克"
+    },
+    {
+      "id": 115,
+      "startMs": 689440,
+      "endMs": 691920,
+      "en": "plant, for example, you don't need that many workers.",
+      "zh": "工厂并不需要那么多工人。"
+    },
+    {
+      "id": 116,
+      "startMs": 692320,
+      "endMs": 698320,
+      "en": "So either we have to do it through the invisible hand of the market and just people looking for other employment,",
+      "zh": "所以，要么依靠市场这只看不见的手，让人们自行寻找其他工作，"
+    },
+    {
+      "id": 117,
+      "startMs": 699040,
+      "endMs": 702080,
+      "en": "or you have to invest much more into defence.",
+      "zh": "要么就必须加大国防投入。"
+    },
+    {
+      "id": 118,
+      "startMs": 703120,
+      "endMs": 708640,
+      "en": "And is this something that Germans are talking about, about the need to change the very nature of the country's economy,",
+      "zh": "德国人是否正在讨论，是否有必要改变这个国家经济的本质，"
+    },
+    {
+      "id": 119,
+      "startMs": 708640,
+      "endMs": 710640,
+      "en": "the way that people earn a living?",
+      "zh": "改变人们谋生的方式？"
+    },
+    {
+      "id": 120,
+      "startMs": 711480,
+      "endMs": 717720,
+      "en": "I think we're not there yet, because Germany is coming from a long stretch of prosperity,",
+      "zh": "我认为我们还没走到那一步，因为德国经历了长期繁荣，"
+    },
+    {
+      "id": 121,
+      "startMs": 718120,
+      "endMs": 725080,
+      "en": "where globalisation and the success of car industry and other industries just lifted all boats,",
+      "zh": "全球化以及汽车业和其他行业的成功让所有人都受益，"
+    },
+    {
+      "id": 122,
+      "startMs": 725160,
+      "endMs": 728440,
+      "en": "and Germans are struggling now with this moment.",
+      "zh": "而德国人如今正艰难应对这一时刻。"
+    },
+    {
+      "id": 123,
+      "startMs": 728600,
+      "endMs": 737160,
+      "en": "But I think that the change is inevitable, and the sooner people accept that other industries need to step up, the better.",
+      "zh": "但我认为变化不可避免；人们越早接受其他行业需要挺身而出，情况就会越好。"
+    },
+    {
+      "id": 124,
+      "startMs": 737560,
+      "endMs": 739800,
+      "en": "Alexander Demling of Der Spiegel.",
+      "zh": "《明镜》的亚历山大·德姆林。"
+    },
+    {
+      "id": 125,
+      "startMs": 740900,
+      "endMs": 746900,
+      "en": "The Spanish territory of Ceuta in North Africa saw a massive influx of migrants in July.",
+      "zh": "北非的西班牙领土休达在7月迎来大批移民。"
+    },
+    {
+      "id": 126,
+      "startMs": 747220,
+      "endMs": 755940,
+      "en": "In just a couple of days, around 1,700 people, most of them young men, breached the security fence separating it from Morocco.",
+      "zh": "短短几天内，大约1700人（其中大多是年轻男子）越过了与摩洛哥分隔的安全围栏。"
+    },
+    {
+      "id": 127,
+      "startMs": 756020,
+      "endMs": 757380,
+      "en": "Or simply swam across.",
+      "zh": "或者干脆游了过来。"
+    },
+    {
+      "id": 128,
+      "startMs": 758100,
+      "endMs": 761860,
+      "en": "Although most have since returned, several thousand still remain.",
+      "zh": "虽然大多数人后来已经返回，但仍有几千人留在那里。"
+    },
+    {
+      "id": 129,
+      "startMs": 762420,
+      "endMs": 769220,
+      "en": "There have been large protests across Spain over the government's handling of the crisis, with some accusing it of abandoning Ceuta.",
+      "zh": "西班牙各地爆发了大规模抗议，抗议政府处理这场危机的方式，有人指责政府抛弃了休达。"
+    },
+    {
+      "id": 130,
+      "startMs": 769780,
+      "endMs": 778660,
+      "en": "Now the authorities in the Spanish territory say 23 cases of sexual assault have been recorded there since the mass influx of migrants.",
+      "zh": "如今，当地当局说，自移民大批涌入以来，已有23起性侵案件在那里被记录。"
+    },
+    {
+      "id": 131,
+      "startMs": 779060,
+      "endMs": 785620,
+      "en": "But Ceuta's chief prosecutor says the real figure could be much higher. Sherryhan Al-Aqrah reports.",
+      "zh": "但休达首席检察官说，实际数字可能高得多。谢里汉·阿克拉报道。"
+    },
+    {
+      "id": 132,
+      "startMs": 786980,
+      "endMs": 792180,
+      "en": "In a shelter in Ceuta, women and children sit under covers trying to shield themselves from the hot sun.",
+      "zh": "在休达的一处收容所，妇女和儿童坐在遮盖物下，试图躲避炎热的阳光。"
+    },
+    {
+      "id": 133,
+      "startMs": 793180,
+      "endMs": 795980,
+      "en": "They're some of the thousands who crossed into Ceuta at the end of July.",
+      "zh": "他们是7月底越境进入休达的数千人中的一部分。"
+    },
+    {
+      "id": 134,
+      "startMs": 796540,
+      "endMs": 800460,
+      "en": "Most of them told the BBC that they left their homes in search of work in Europe.",
+      "zh": "他们中的大多数人告诉BBC，自己离开家乡是为了到欧洲找工作。"
+    },
+    {
+      "id": 135,
+      "startMs": 801320,
+      "endMs": 804360,
+      "en": "But for some, reaching Ceuta took a darker turn.",
+      "zh": "但对有些人来说，到达休达却变成了一段更黑暗的经历。"
+    },
+    {
+      "id": 136,
+      "startMs": 805400,
+      "endMs": 809400,
+      "en": "Sarah, not her real name, was sexually assaulted while sleeping in the forest.",
+      "zh": "莎拉并非她的真名；她在森林里睡觉时遭到性侵。"
+    },
+    {
+      "id": 137,
+      "startMs": 810120,
+      "endMs": 812200,
+      "en": "We've changed her name to protect her identity.",
+      "zh": "我们更改了她的名字，以保护她的身份。"
+    },
+    {
+      "id": 138,
+      "startMs": 812520,
+      "endMs": 816520,
+      "en": "A married man was next to me and touched me in inappropriate places.",
+      "zh": "一个已婚男子就在我旁边，并触摸了我不该被触摸的部位。"
+    },
+    {
+      "id": 139,
+      "startMs": 816680,
+      "endMs": 821640,
+      "en": "I tried to defend myself in that situation, moved away and made sure not to go near him again.",
+      "zh": "当时我试图保护自己，离开他，并确保不再靠近他。"
+    },
+    {
+      "id": 140,
+      "startMs": 821880,
+      "endMs": 825880,
+      "en": "I didn't want any trouble, as there were drones overhead and soldiers nearby.",
+      "zh": "我不想惹麻烦，因为头顶有无人机，附近还有士兵。"
+    },
+    {
+      "id": 141,
+      "startMs": 826200,
+      "endMs": 830440,
+      "en": "I was afraid that if I tried to flee the area, the soldiers would arrest me.",
+      "zh": "我害怕如果试图逃离那里，士兵会逮捕我。"
+    },
+    {
+      "id": 142,
+      "startMs": 830680,
+      "endMs": 836280,
+      "en": "I was caught in a difficult dilemma. I was forced to stay there until morning, and I managed to escape.",
+      "zh": "我陷入了两难境地，被迫在那里待到早上，最终设法逃了出去。"
+    },
+    {
+      "id": 143,
+      "startMs": 836840,
+      "endMs": 840200,
+      "en": "There are concerns that the number of sexual assaults in the city could be higher.",
+      "zh": "有人担心，这座城市的性侵案件数量可能更高。"
+    },
+    {
+      "id": 144,
+      "startMs": 840980,
+      "endMs": 847740,
+      "en": "Ceuta's chief prosecutor says many victims have not filed a report, out of fear or because of their current status in Ceuta.",
+      "zh": "休达首席检察官说，许多受害者因为恐惧或目前在休达的身份状况而没有报案。"
+    },
+    {
+      "id": 145,
+      "startMs": 848700,
+      "endMs": 851740,
+      "en": "Hello. Hello. Thank you for your time. Thank you for talking.",
+      "zh": "你好。你好。谢谢你抽出时间。谢谢你接受采访。"
+    },
+    {
+      "id": 146,
+      "startMs": 852540,
+      "endMs": 855340,
+      "en": "Dr. Susana Ascaso has treated several victims.",
+      "zh": "苏珊娜·阿斯卡索医生治疗过几名受害者。"
+    },
+    {
+      "id": 147,
+      "startMs": 855580,
+      "endMs": 857900,
+      "en": "The youngest, she says, was just ten years old.",
+      "zh": "她说，年纪最小的受害者只有10岁。"
+    },
+    {
+      "id": 148,
+      "startMs": 858140,
+      "endMs": 860620,
+      "en": "It's surprising for us. We are not used to that.",
+      "zh": "这让我们很惊讶。我们不习惯这种情况。"
+    },
+    {
+      "id": 149,
+      "startMs": 860860,
+      "endMs": 862940,
+      "en": "But it's horrible.",
+      "zh": "但这太可怕了。"
+    },
+    {
+      "id": 150,
+      "startMs": 863340,
+      "endMs": 867500,
+      "en": "Beyond the emergency room, Dr. Ascaso is concerned, like many others in Ceuta.",
+      "zh": "除了急诊室的工作，阿斯卡索医生和休达的许多人一样，也感到担忧。"
+    },
+    {
+      "id": 151,
+      "startMs": 867820,
+      "endMs": 871100,
+      "en": "She worries how the Spanish enclave will cope with those who remain.",
+      "zh": "她担心这个西班牙飞地将如何安置留下的人。"
+    },
+    {
+      "id": 152,
+      "startMs": 871340,
+      "endMs": 878140,
+      "en": "They are sleeping in the mountains and on the beach, and doing whatever they want without any law.",
+      "zh": "他们睡在山里和海滩上，想做什么就做什么，完全没有法律约束。"
+    },
+    {
+      "id": 153,
+      "startMs": 878460,
+      "endMs": 884620,
+      "en": "So I think they have to take care of them and get them to the border again, to Morocco.",
+      "zh": "所以我认为，当局必须照顾他们，并把他们送回摩洛哥边境。"
+    },
+    {
+      "id": 154,
+      "startMs": 886240,
+      "endMs": 888480,
+      "en": "Others like Sabah have stepped in to help.",
+      "zh": "像萨巴这样的人也主动提供帮助。"
+    },
+    {
+      "id": 155,
+      "startMs": 889280,
+      "endMs": 891040,
+      "en": "She's opened her home to feed migrants.",
+      "zh": "她敞开家门，为移民提供食物。"
+    },
+    {
+      "id": 156,
+      "startMs": 891600,
+      "endMs": 899440,
+      "en": "We met her as she prepared food. “We want to help, but the conditions are dire.”",
+      "zh": "我们见到她时，她正在准备食物。“我们想提供帮助，但情况非常糟糕。”"
+    },
+    {
+      "id": 157,
+      "startMs": 899840,
+      "endMs": 902720,
+      "en": "You see girls going through rape, sleeping in the forest.",
+      "zh": "你会看到女孩遭受强奸，睡在森林里。"
+    },
+    {
+      "id": 158,
+      "startMs": 902720,
+      "endMs": 908000,
+      "en": "Any one of them could be my daughter, my granddaughter, or a member of my own family.",
+      "zh": "她们中的任何一个都可能是我的女儿、孙女，或我自己的家人。"
+    },
+    {
+      "id": 159,
+      "startMs": 908000,
+      "endMs": 913920,
+      "en": "It's thought that there could be more than 5,000 migrants still in Ceuta.",
+      "zh": "据认为，休达仍有超过5000名移民。"
+    },
+    {
+      "id": 160,
+      "startMs": 913920,
+      "endMs": 917200,
+      "en": "Around 1,500 of them are unaccompanied minors.",
+      "zh": "其中约有1500人是无人陪伴的未成年人。"
+    },
+    {
+      "id": 161,
+      "startMs": 918120,
+      "endMs": 921960,
+      "en": "Many are being housed in shelters, but some are still sleeping outside.",
+      "zh": "许多人被安置在收容所，但有些人仍睡在户外。"
+    },
+    {
+      "id": 162,
+      "startMs": 924360,
+      "endMs": 928200,
+      "en": "In recent days, there have been growing tensions between migrants and locals.",
+      "zh": "最近几天，移民与当地居民之间的紧张关系不断加剧。"
+    },
+    {
+      "id": 163,
+      "startMs": 928840,
+      "endMs": 932040,
+      "en": "The government is under growing pressure to resolve the crisis.",
+      "zh": "政府正面临越来越大的压力，必须解决这场危机。"
+    },
+    {
+      "id": 164,
+      "startMs": 932900,
+      "endMs": 937540,
+      "en": "But for now, the migrants left in the city are waiting to find out what happens next.",
+      "zh": "但目前，留在这座城市的移民正在等待，看看接下来会发生什么。"
+    },
+    {
+      "id": 165,
+      "startMs": 938180,
+      "endMs": 940260,
+      "en": "Sherryhan Al-Aqrah reporting.",
+      "zh": "谢里汉·阿克拉报道。"
+    },
+    {
+      "id": 166,
+      "startMs": 941060,
+      "endMs": 944820,
+      "en": "A BBC investigation has found that more than 80 people have been killed",
+      "zh": "BBC调查发现，已有80多人在"
+    },
+    {
+      "id": 167,
+      "startMs": 944820,
+      "endMs": 950340,
+      "en": "in a number of African countries following false claims of what's been termed genital theft.",
+      "zh": "他们分布在多个非洲国家，死因与所谓的“生殖器盗窃”虚假指控有关。"
+    },
+    {
+      "id": 168,
+      "startMs": 950820,
+      "endMs": 959300,
+      "en": "These false rumours, which are being spread on social media, allege that a simple tap on the shoulder by a stranger can cause a man's genitals to shrink or disappear.",
+      "zh": "这些在社交媒体上传播的虚假谣言声称，陌生人轻拍肩膀就可能导致男性生殖器缩小或消失。"
+    },
+    {
+      "id": 169,
+      "startMs": 960100,
+      "endMs": 964420,
+      "en": "Despite repeated assurances from doctors that there is no medical basis for these claims,",
+      "zh": "尽管医生反复保证这些说法没有医学依据，"
+    },
+    {
+      "id": 170,
+      "startMs": 964820,
+      "endMs": 970020,
+      "en": "there have been repeated mob attacks which have left entire communities gripped by fear.",
+      "zh": "仍有多起私刑袭击，让整个社区陷入恐惧。"
+    },
+    {
+      "id": 171,
+      "startMs": 970580,
+      "endMs": 974980,
+      "en": "One survivor is Boniface Amgala, a mechanic from southern Tanzania.",
+      "zh": "幸存者之一是来自坦桑尼亚南部的修理工博尼法斯·阿姆加拉。"
+    },
+    {
+      "id": 172,
+      "startMs": 975380,
+      "endMs": 977140,
+      "en": "Alfred Lasteck went to meet him.",
+      "zh": "阿尔弗雷德·拉斯泰克前去采访他。"
+    },
+    {
+      "id": 173,
+      "startMs": 977780,
+      "endMs": 983700,
+      "en": "Boniface still bears the scars of the day he nearly died in April this year.",
+      "zh": "博尼法斯至今仍带着今年4月那场濒死经历留下的伤疤。"
+    },
+    {
+      "id": 174,
+      "startMs": 984260,
+      "endMs": 989780,
+      "en": "The father of four says he had gone to a restaurant for lunch with a friend",
+      "zh": "这位四个孩子的父亲说，他当时和一位朋友去餐馆吃午饭，"
+    },
+    {
+      "id": 175,
+      "startMs": 990020,
+      "endMs": 996120,
+      "en": "when a crowd suddenly surrounded them. The crowd dragged him outside and began beating him.",
+      "zh": "一群人突然包围了他们，把他拖到外面开始殴打。"
+    },
+    {
+      "id": 176,
+      "startMs": 998540,
+      "endMs": 1007180,
+      "en": "After someone accused him of stealing another man's genitals, within minutes the accusation had turned into a brutal mob attack.",
+      "zh": "有人指控他偷走另一个男人的生殖器后，几分钟内这项指控就演变成残酷的私刑袭击。"
+    },
+    {
+      "id": 177,
+      "startMs": 1007580,
+      "endMs": 1012620,
+      "en": "They were beating my friend over there, and I was being beaten here.",
+      "zh": "他们在那边殴打我的朋友，我在这边挨打。"
+    },
+    {
+      "id": 178,
+      "startMs": 1013020,
+      "endMs": 1016700,
+      "en": "We were in the ditches, and they were also throwing stones.",
+      "zh": "我们当时在沟里，他们还向我们扔石头。"
+    },
+    {
+      "id": 179,
+      "startMs": 1017020,
+      "endMs": 1019180,
+      "en": "It went on until I lost consciousness.",
+      "zh": "他们一直打到我失去意识。"
+    },
+    {
+      "id": 180,
+      "startMs": 1019420,
+      "endMs": 1023900,
+      "en": "As for my friend, they took him away to a different location and killed him there.",
+      "zh": "至于我的朋友，他们把他带到另一个地方，在那里杀害了他。"
+    },
+    {
+      "id": 181,
+      "startMs": 1024300,
+      "endMs": 1029900,
+      "en": "Boniface regained consciousness in hospital two days later.",
+      "zh": "两天后，博尼法斯在医院恢复了意识。"
+    },
+    {
+      "id": 182,
+      "startMs": 1029900,
+      "endMs": 1035980,
+      "en": "Months on, he still suffers constant headaches and sometimes walks with a limp.",
+      "zh": "几个月过去，他仍饱受持续头痛之苦，有时走路一瘸一拐。"
+    },
+    {
+      "id": 183,
+      "startMs": 1036140,
+      "endMs": 1042300,
+      "en": "If I walk for even an hour, I struggle and I still have to be on medication.",
+      "zh": "即使只走一个小时，我也很吃力，还必须继续服药。"
+    },
+    {
+      "id": 184,
+      "startMs": 1042620,
+      "endMs": 1045340,
+      "en": "And now my life has come to a standstill.",
+      "zh": "现在我的生活陷入了停滞。"
+    },
+    {
+      "id": 185,
+      "startMs": 1045340,
+      "endMs": 1050380,
+      "en": "I have closed my business, I am not working, and I have no support.",
+      "zh": "我关闭了自己的生意，没有工作，也没有任何支持。"
+    },
+    {
+      "id": 186,
+      "startMs": 1050780,
+      "endMs": 1055020,
+      "en": "My children offer their sympathies, and the two have always been crying.",
+      "zh": "我的孩子们向我表示同情，他们两个一直在哭。"
+    },
+    {
+      "id": 187,
+      "startMs": 1056700,
+      "endMs": 1065360,
+      "en": "Boniface says he has no idea who made the original accusations, but by then fear had already taken hold.",
+      "zh": "博尼法斯说，他不知道最初是谁提出指控，但那时恐惧已经蔓延开来。"
+    },
+    {
+      "id": 188,
+      "startMs": 1065760,
+      "endMs": 1071680,
+      "en": "Behind me is the Tanzania-Zambia border, one of the region's busiest trade crossings.",
+      "zh": "我身后是坦桑尼亚和赞比亚边境，这是该地区最繁忙的贸易口岸之一。"
+    },
+    {
+      "id": 189,
+      "startMs": 1072080,
+      "endMs": 1079200,
+      "en": "So earlier this year, the area became the centre of widespread panic after rumours of so-called genital theft,",
+      "zh": "因此，今年早些时候，在所谓“生殖器盗窃”的谣言之后，这一地区陷入了广泛恐慌，"
+    },
+    {
+      "id": 190,
+      "startMs": 1079440,
+      "endMs": 1084400,
+      "en": "which spread through communities on both sides of the border and on social media.",
+      "zh": "谣言传遍了边境两侧的社区和社交媒体。"
+    },
+    {
+      "id": 191,
+      "startMs": 1085780,
+      "endMs": 1092660,
+      "en": "Michael Silavwe, a businessman at the border of Tanzania and Zambia, witnessed one of the incidents.",
+      "zh": "在坦桑尼亚与赞比亚边境经商的迈克尔·西拉维目睹了其中一起事件。"
+    },
+    {
+      "id": 192,
+      "startMs": 1092660,
+      "endMs": 1100260,
+      "en": "I started hearing about genital theft through TikTok, and I took it easy.",
+      "zh": "我开始通过TikTok听说“生殖器盗窃”，当时并没有太在意。"
+    },
+    {
+      "id": 193,
+      "startMs": 1100900,
+      "endMs": 1105540,
+      "en": "In the evening, I saw people running. I then had to look what was going on outside my shop.",
+      "zh": "傍晚时，我看到人们在奔跑，于是不得不去店外看看发生了什么。"
+    },
+    {
+      "id": 194,
+      "startMs": 1105940,
+      "endMs": 1110100,
+      "en": "Upon following, I learned that a man had been caught and accused of stealing male genitals,",
+      "zh": "跟过去后，我得知一名男子被抓住，并被指控偷窃男性生殖器，"
+    },
+    {
+      "id": 195,
+      "startMs": 1110340,
+      "endMs": 1112260,
+      "en": "then I found some people beating the man.",
+      "zh": "随后我发现有人正在殴打他。"
+    },
+    {
+      "id": 196,
+      "startMs": 1112340,
+      "endMs": 1121300,
+      "en": "Several people were arrested and some were sentenced to prison in connection with other mob attacks",
+      "zh": "一些人被逮捕，另一些人因参与其他私刑袭击而被判入狱，"
+    },
+    {
+      "id": 197,
+      "startMs": 1121460,
+      "endMs": 1123764,
+      "en": "linked to the genital theft rumours.",
+      "zh": "这些袭击都与“生殖器盗窃”谣言有关。"
+    },
+    {
+      "id": 198,
+      "startMs": 1124196,
+      "endMs": 1129700,
+      "en": "Boniface says he has not pursued his own case as his priority for now",
+      "zh": "博尼法斯说，他没有继续追究自己的案件，因为目前他的首要任务是"
+    },
+    {
+      "id": 199,
+      "startMs": 1129940,
+      "endMs": 1132660,
+      "en": "is to recover fully from the injuries he suffered.",
+      "zh": "从所受伤势中完全康复。"
+    },
+    {
+      "id": 200,
+      "startMs": 1133140,
+      "endMs": 1139700,
+      "en": "Medical examinations found no evidence that anyone's genitals had disappeared.",
+      "zh": "医学检查没有发现任何人的生殖器消失的证据。"
+    },
+    {
+      "id": 201,
+      "startMs": 1139860,
+      "endMs": 1145780,
+      "en": "The BBC verified videos from several countries showing people being attacked.",
+      "zh": "BBC核实了来自多个国家的视频，显示有人遭到袭击。"
+    },
+    {
+      "id": 202,
+      "startMs": 1146200,
+      "endMs": 1155880,
+      "en": "After similar accusations, the rumours had spread from the Democratic Republic of Congo to Zambia, Tanzania, Mozambique, Malawi and Kenya.",
+      "zh": "在类似指控出现后，谣言从刚果民主共和国传播到赞比亚、坦桑尼亚、莫桑比克、马拉维和肯尼亚。"
+    },
+    {
+      "id": 203,
+      "startMs": 1157440,
+      "endMs": 1163840,
+      "en": "As police tried to restore order, those claiming their genitals had disappeared were taken to hospital,",
+      "zh": "警方试图恢复秩序时，那些声称自己生殖器消失的人被送往医院，"
+    },
+    {
+      "id": 204,
+      "startMs": 1164160,
+      "endMs": 1165840,
+      "en": "but the violence continued.",
+      "zh": "但暴力仍在继续。"
+    },
+    {
+      "id": 205,
+      "startMs": 1166160,
+      "endMs": 1171200,
+      "en": "Elias Mwandobo is Tanzania's Mbozi District Commissioner.",
+      "zh": "埃利亚斯·姆万多博是坦桑尼亚姆博齐区区长。"
+    },
+    {
+      "id": 206,
+      "startMs": 1171520,
+      "endMs": 1177520,
+      "en": "An analysis and investigations suggested that the incident was rooted in superstitious beliefs,",
+      "zh": "分析和调查表明，这起事件源于迷信观念，"
+    },
+    {
+      "id": 207,
+      "startMs": 1177840,
+      "endMs": 1179680,
+      "en": "which is linked to criminal acts.",
+      "zh": "而这种观念与犯罪行为有关。"
+    },
+    {
+      "id": 208,
+      "startMs": 1180000,
+      "endMs": 1186000,
+      "en": "Essentially, individuals conspired to commit a crime and incite public panic for their own benefits.",
+      "zh": "本质上，有人合谋实施犯罪，为自身利益煽动公众恐慌。"
+    },
+    {
+      "id": 209,
+      "startMs": 1186160,
+      "endMs": 1191440,
+      "en": "For Boniface, the impact of that day stays with him.",
+      "zh": "对博尼法斯而言，那一天的影响至今仍伴随着他。"
+    },
+    {
+      "id": 210,
+      "startMs": 1191680,
+      "endMs": 1200560,
+      "en": "His injuries may heal, but the scars left by misinformation could remain for the rest of his life. That report was by Alfred Lasteck.",
+      "zh": "他的伤势或许会痊愈，但虚假信息留下的伤疤可能伴随他一生。这篇报道由阿尔弗雷德·拉斯泰克完成。"
+    },
+    {
+      "id": 211,
+      "startMs": 1201960,
+      "endMs": 1207800,
+      "en": "A sea eagle was badly injured as a chick when a severe storm blew his nest out of a tree.",
+      "zh": "一只海雕幼鸟时期严重受伤，猛烈风暴将它的巢从树上刮落。"
+    },
+    {
+      "id": 212,
+      "startMs": 1208040,
+      "endMs": 1211720,
+      "en": "It has been spotted flying in the skies off the west coast of Scotland.",
+      "zh": "如今有人在苏格兰西海岸外的天空中发现了它飞行的身影。"
+    },
+    {
+      "id": 213,
+      "startMs": 1212200,
+      "endMs": 1217160,
+      "en": "The eagle, known as Kinky because of his crooked wing, was not expected to survive.",
+      "zh": "这只海雕因翅膀弯曲而被称为“Kinky”，原本被认为活不下来。"
+    },
+    {
+      "id": 214,
+      "startMs": 1217880,
+      "endMs": 1228680,
+      "en": "But in a display of extended parental care never seen before in sea eagles, his parents sacrificed their entire next breeding season to nurse him back to health.",
+      "zh": "但海雕父母展现了前所未见的长期照料：它们牺牲了整个下一繁殖季，将他养护至康复。"
+    },
+    {
+      "id": 215,
+      "startMs": 1229400,
+      "endMs": 1236440,
+      "en": "Dave Sexton from the bird charity, the RSPB, says Kinky's survival is simply miraculous.",
+      "zh": "鸟类保护机构皇家鸟类保护协会的戴夫·塞克斯顿说，Kinky 能活下来简直是奇迹。"
+    },
+    {
+      "id": 216,
+      "startMs": 1236680,
+      "endMs": 1243480,
+      "en": "When we first saw Kinky, you know, now three years ago, he was dragging his wing along the shoreline and we thought that's it.",
+      "zh": "三年前我们第一次看到 Kinky 时，他拖着翅膀沿海岸走，我们以为他就这样了。"
+    },
+    {
+      "id": 217,
+      "startMs": 1243880,
+      "endMs": 1247960,
+      "en": "For an eagle to get an injury and a broken wing, that's it normally.",
+      "zh": "一只海雕受了伤、折断了翅膀，通常就没救了。"
+    },
+    {
+      "id": 218,
+      "startMs": 1247960,
+      "endMs": 1250120,
+      "en": "But he is a true survivor.",
+      "zh": "但他是真正的幸存者。"
+    },
+    {
+      "id": 219,
+      "startMs": 1250600,
+      "endMs": 1256360,
+      "en": "Seeing him again now on Mull has just upturned everything I ever thought about white-tailed eagles,",
+      "zh": "如今在马尔岛再次看到他，彻底颠覆了我对白尾海雕的一切认知，"
+    },
+    {
+      "id": 220,
+      "startMs": 1256360,
+      "endMs": 1261400,
+      "en": "that they have been able to look after this chick long after it should have fledged and long gone.",
+      "zh": "它们竟能照料这只幼鸟，远远超过它本应长成离巢的时间。"
+    },
+    {
+      "id": 221,
+      "startMs": 1262140,
+      "endMs": 1267180,
+      "en": "But they kept going. They looked after him, and now here he is, three years on, and he's still with us.",
+      "zh": "但它们坚持了下来，继续照料他。三年过去，他如今还和我们在一起。"
+    },
+    {
+      "id": 222,
+      "startMs": 1267420,
+      "endMs": 1269980,
+      "en": "Our science correspondent, Victoria Gill, has more.",
+      "zh": "我们的科学事务记者维多利亚·吉尔将带来更多报道。"
+    },
+    {
+      "id": 223,
+      "startMs": 1270460,
+      "endMs": 1275740,
+      "en": "Kinky, the sea eagle, as he's affectionately known, has become something of a local celebrity on the Isle of Mull.",
+      "zh": "这只海雕名叫 Kinky，大家亲切地这样称呼他，已成为马尔岛的本地名人。"
+    },
+    {
+      "id": 224,
+      "startMs": 1276220,
+      "endMs": 1281180,
+      "en": "His wing was broken when he and his nest fell from a tree during a storm back in 2023.",
+      "zh": "2023 年的一场风暴中，他和巢从树上坠落，翅膀因此折断。"
+    },
+    {
+      "id": 225,
+      "startMs": 1281660,
+      "endMs": 1291900,
+      "en": "In an unprecedented display of extended sea eagle parenting, his parents skipped a year's breeding season to tend to their year-old injured offspring while his wing healed.",
+      "zh": "随后，海雕父母展现前所未有的长期育雏行为，跳过一年的繁殖季，照料翅膀康复中的一岁伤残幼鸟。"
+    },
+    {
+      "id": 226,
+      "startMs": 1292380,
+      "endMs": 1298460,
+      "en": "Now, with a marked bump in the limb that gives Kinky his distinctive crooked silhouette, he appears to be thriving.",
+      "zh": "如今，他的翅膀上有明显的隆起，形成 Kinky 独特的弯曲轮廓；他看起来茁壮成长。"
+    },
+    {
+      "id": 227,
+      "startMs": 1298940,
+      "endMs": 1302140,
+      "en": "This latest sighting reveals Kinky survived the winter alone,",
+      "zh": "这次最新目击显示，Kinky 独自熬过了冬天，"
+    },
+    {
+      "id": 228,
+      "startMs": 1302380,
+      "endMs": 1305500,
+      "en": "but the next phase of his life, experts say, could be dangerous",
+      "zh": "但专家说，他人生的下一个阶段可能会很危险，"
+    },
+    {
+      "id": 229,
+      "startMs": 1305740,
+      "endMs": 1308300,
+      "en": "as he attempts to establish his own territory as an adult.",
+      "zh": "因为他要尝试以成年海雕的身份建立自己的领地。"
+    },
+    {
+      "id": 230,
+      "startMs": 1308700,
+      "endMs": 1312440,
+      "en": "Victoria Gill. And that's all from us for now.",
+      "zh": "维多利亚·吉尔报道。以上就是目前的全部内容。"
+    },
+    {
+      "id": 231,
+      "startMs": 1312600,
+      "endMs": 1318440,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如需联系我们，请发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 232,
+      "startMs": 1318520,
+      "endMs": 1325480,
+      "en": "You can also now watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "现在也可以在 YouTube 上观看我们的完整节目，只需搜索 Global News Podcast。"
+    },
+    {
+      "id": 233,
+      "startMs": 1326360,
+      "endMs": 1331480,
+      "en": "This edition was mixed by Ricardo McCarthy and the producers were Arlene Kuchay and Oliver Burrows.",
+      "zh": "本期由里卡多·麦卡锡混音，制作人是阿琳·库柴和奥利弗·伯罗斯。"
+    },
+    {
+      "id": 234,
+      "startMs": 1331960,
+      "endMs": 1334840,
+      "en": "The editor is Karen Martin. I am Janat Jalil.",
+      "zh": "编辑是凯伦·马丁。我是贾纳特·贾利勒。"
+    },
+    {
+      "id": 235,
+      "startMs": 1335080,
+      "endMs": 1336440,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再会。"
+    }
+  ]
+}
