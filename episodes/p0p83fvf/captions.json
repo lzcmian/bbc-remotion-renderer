@@ -1,0 +1,2132 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "5 September 2026"
+  },
+  "durationMs": 1782100,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2720,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5040,
+      "endMs": 9920,
+      "en": "Hello, I'm Ankur Desai and in the early hours of Saturday, the 5th of September, these are our main stories.",
+      "zh": "你好，我是安库尔·德赛。9月5日星期六凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 10480,
+      "endMs": 17360,
+      "en": "A mistrial has been declared in the high-profile murder trial of Lindsay Clancy, the mother charged with murdering her three small children.",
+      "zh": "被控杀害三个年幼孩子的母亲 Lindsay Clancy，其备受关注的谋杀案审判被宣布无效审判。"
+    },
+    {
+      "id": 4,
+      "startMs": 18080,
+      "endMs": 25680,
+      "en": "A Russian drone has struck the headquarters of Ukraine's security service in Kyiv, ahead of the expected arrival of US mediators in the city.",
+      "zh": "一架俄罗斯无人机袭击了乌克兰安全部门位于基辅的总部，此前美国调解人员预计将抵达该市。"
+    },
+    {
+      "id": 5,
+      "startMs": 26400,
+      "endMs": 35840,
+      "en": "And the UN General Assembly has overwhelmingly backed a resolution calling for a new world map that more accurately reflects Africa's size.",
+      "zh": "联合国大会以压倒性票数通过决议，呼吁绘制更准确反映非洲面积的新世界地图。"
+    },
+    {
+      "id": 6,
+      "startMs": 38800,
+      "endMs": 44720,
+      "en": "Also in this podcast, the latest rogue AI attack that even went as far as transforming the targeted website.",
+      "zh": "本期还将关注最新的失控人工智能攻击，甚至改造了被攻击的网站。"
+    },
+    {
+      "id": 7,
+      "startMs": 45520,
+      "endMs": 51440,
+      "en": "And we find out how Giorgia Meloni...",
+      "zh": "我们还将了解 Giorgia Meloni 如何……"
+    },
+    {
+      "id": 8,
+      "startMs": 51680,
+      "endMs": 55840,
+      "en": "has managed to lead the longest-serving administration in post-war Italy.",
+      "zh": "成功领导意大利战后任期最长的政府。"
+    },
+    {
+      "id": 9,
+      "startMs": 61020,
+      "endMs": 66220,
+      "en": "It's a case that's gripped not only the United States but also, because of social media, the world.",
+      "zh": "这起案件不仅牵动美国，也因社交媒体而牵动全世界。"
+    },
+    {
+      "id": 10,
+      "startMs": 66380,
+      "endMs": 76140,
+      "en": "After a week, jurors failed to reach a unanimous verdict in Lindsay Clancy's trial, the mother accused of murdering her three children.",
+      "zh": "经过一周审议，陪审员未能就被控杀害三个孩子的母亲 Lindsay Clancy 案达成一致裁决。"
+    },
+    {
+      "id": 11,
+      "startMs": 76780,
+      "endMs": 83260,
+      "en": "The judge in Massachusetts, William Sullivan, declared a mistrial and thanked the jury for their hard work and effort.",
+      "zh": "马萨诸塞州法官 William Sullivan 宣布审判无效，并感谢陪审团的辛勤工作和努力。"
+    },
+    {
+      "id": 12,
+      "startMs": 83660,
+      "endMs": 91980,
+      "en": "I watched every day, day after day, week after week, all of you performing that duty that you braced for.",
+      "zh": "我日复一日、周复一周地看着你们履行早已做好准备承担的职责。"
+    },
+    {
+      "id": 13,
+      "startMs": 92300,
+      "endMs": 97340,
+      "en": "And I just kind of wanted to let you know I understood how hard everybody worked in this case.",
+      "zh": "我只是想让你们知道，我明白大家为这起案件付出了多么艰苦的努力。"
+    },
+    {
+      "id": 14,
+      "startMs": 97740,
+      "endMs": 102940,
+      "en": "I understood that you all gave everything you could, and probably more than you thought you could.",
+      "zh": "我明白你们都竭尽所能，可能还付出了超出自己想象的努力。"
+    },
+    {
+      "id": 15,
+      "startMs": 103260,
+      "endMs": 111100,
+      "en": "Lindsay Clancy pleaded not guilty to murder, but has never denied killing her children, aged between eight months and five years.",
+      "zh": "Lindsay Clancy 对谋杀罪表示不认罪，但从未否认杀害了自己的孩子；孩子年龄在8个月至5岁之间。"
+    },
+    {
+      "id": 16,
+      "startMs": 111580,
+      "endMs": 118860,
+      "en": "Her lawyer Kevin Reddington entered a defence of insanity, saying she was suffering from postpartum or postnatal psychosis.",
+      "zh": "她的律师 Kevin Reddington 提出精神失常抗辩，称她患有产后精神病。"
+    },
+    {
+      "id": 17,
+      "startMs": 119260,
+      "endMs": 122800,
+      "en": "At the time, she could not distinguish right from wrong.",
+      "zh": "她当时无法分辨是非。"
+    },
+    {
+      "id": 18,
+      "startMs": 123440,
+      "endMs": 129920,
+      "en": "If anything, this case clearly and unequivocally showed the woeful deficiency women face.",
+      "zh": "这起案件清楚而无可置疑地显示了女性面临的严重缺失。"
+    },
+    {
+      "id": 19,
+      "startMs": 130680,
+      "endMs": 140280,
+      "en": "This affects women when they're pregnant, have babies or, God forbid, take medication for postpartum depression or psychosis.",
+      "zh": "女性在怀孕、生育，以及上天保佑不要发生的、因产后抑郁或产后精神病而接受药物治疗时，都会受到影响。"
+    },
+    {
+      "id": 20,
+      "startMs": 141160,
+      "endMs": 146920,
+      "en": "It is just horrible what we saw in this trial, and maybe things have to change.",
+      "zh": "我们在这场审判中看到的情况实在糟糕，也许一切必须改变。"
+    },
+    {
+      "id": 21,
+      "startMs": 147480,
+      "endMs": 153960,
+      "en": "Patrick Clancy told the court that Lindsay, his ex-wife, was a very dedicated mother who struggled with her mental health.",
+      "zh": "Patrick Clancy 告诉法庭，自己的前妻 Lindsay 是一位非常尽责、但饱受心理健康问题困扰的母亲。"
+    },
+    {
+      "id": 22,
+      "startMs": 154520,
+      "endMs": 162360,
+      "en": "After the verdict, he thanked the court and jurors, saying a retrial would be extremely painful for his family.",
+      "zh": "裁决后，他感谢法庭和陪审员，并说重审会给家人带来极大痛苦。"
+    },
+    {
+      "id": 23,
+      "startMs": 163000,
+      "endMs": 168360,
+      "en": "Our correspondent, Ana Faguy, who's been covering the story from the start, told me about the reaction to the verdict.",
+      "zh": "从一开始就报道此事的记者安娜·法吉向我介绍了人们对裁决的反应。"
+    },
+    {
+      "id": 24,
+      "startMs": 168680,
+      "endMs": 173000,
+      "en": "There was a lot of shock that this was finally over, because we'd been waiting for a while.",
+      "zh": "案件终于结束让很多人感到震惊，因为我们已经等待了一段时间。"
+    },
+    {
+      "id": 25,
+      "startMs": 173000,
+      "endMs": 178520,
+      "en": "And each day this week, while I was in court, we thought today was the day. And then we came back the next day, right?",
+      "zh": "这周我每天在法庭时都以为当天会有结果，然后第二天我们又回来了，对吧？"
+    },
+    {
+      "id": 26,
+      "startMs": 178840,
+      "endMs": 187880,
+      "en": "Yesterday, we learned there was one holdout juror, giving us some idea which way they were headed.",
+      "zh": "昨天，我们得知有一名陪审员拒绝妥协，大致知道了他们倾向哪一方。"
+    },
+    {
+      "id": 27,
+      "startMs": 188040,
+      "endMs": 195080,
+      "en": "Coming back today to learn the final answer was a mistrial, people were shocked at where we ended up after seven days.",
+      "zh": "今天回来得知最终结果是审判无效，大家对经过七天后走到这一步感到震惊。"
+    },
+    {
+      "id": 28,
+      "startMs": 195720,
+      "endMs": 206140,
+      "en": "Lindsay Clancy's husband says a retrial would be extraordinarily painful for his family. Has the prosecution indicated its intentions and next steps?",
+      "zh": "Lindsay Clancy 的丈夫说重审会给家人带来极大痛苦。那么，检方是否透露了打算和下一步行动？"
+    },
+    {
+      "id": 29,
+      "startMs": 206700,
+      "endMs": 215340,
+      "en": "Earlier this week, reporters asked the DA about the case. He said, 'Should that be the outcome, we're going to retry this.'",
+      "zh": "本周早些时候，记者向地方检察官询问此案。他说：‘如果结果如此，我们会重审。’"
+    },
+    {
+      "id": 30,
+      "startMs": 215340,
+      "endMs": 221820,
+      "en": "Now, he said that to us before the Thursday note from the jury that indicated there was a deadlock happening.",
+      "zh": "不过，他是在陪审团周四发出陷入僵局的通知之前对我们这样说的。"
+    },
+    {
+      "id": 31,
+      "startMs": 222220,
+      "endMs": 225740,
+      "en": "So whether or not that's still his stance remains to be seen.",
+      "zh": "所以这是否仍是他的立场，还有待观察。"
+    },
+    {
+      "id": 32,
+      "startMs": 226140,
+      "endMs": 232700,
+      "en": "But he did come out to the microphones on Friday after all of this happened and said to reporters, 'We're still mulling over what to do.'",
+      "zh": "但这一切发生后，他确实在周五来到麦克风前对记者说：‘我们仍在权衡该怎么办。’"
+    },
+    {
+      "id": 33,
+      "startMs": 233260,
+      "endMs": 238940,
+      "en": "They could bring the case again as first-degree murder charges, which is a premeditated, intentional killing of someone.",
+      "zh": "他们可以再次以一级谋杀罪起诉；这指的是有预谋、故意杀人。"
+    },
+    {
+      "id": 34,
+      "startMs": 238940,
+      "endMs": 243500,
+      "en": "And of course she was charged with three counts for all three children, or they could bring a lesser charge.",
+      "zh": "当然，她因三个孩子被控三项罪名；检方也可以提出较轻的指控。"
+    },
+    {
+      "id": 35,
+      "startMs": 243900,
+      "endMs": 252540,
+      "en": "With a lesser charge, they might have better success and wouldn't necessarily need a jury-led trial.",
+      "zh": "提出较轻指控或许更容易成功，也不一定需要陪审团审判。"
+    },
+    {
+      "id": 36,
+      "startMs": 252540,
+      "endMs": 258380,
+      "en": "It could be a judge-led trial, which may lead to a quicker or more resolute resolution here.",
+      "zh": "也可以由法官审判，或许能更快、更明确地解决问题。"
+    },
+    {
+      "id": 37,
+      "startMs": 259020,
+      "endMs": 260780,
+      "en": "And what happens to Lindsay Clancy now?",
+      "zh": "Lindsay Clancy 现在怎样？"
+    },
+    {
+      "id": 38,
+      "startMs": 261280,
+      "endMs": 262960,
+      "en": "She's in a psychiatric facility.",
+      "zh": "她在一家精神科医疗机构里。"
+    },
+    {
+      "id": 39,
+      "startMs": 263280,
+      "endMs": 268880,
+      "en": "She's been held there since all of this happened, and she'll remain there until we figure out what's going to happen next.",
+      "zh": "自事件发生以来她一直被安置在那里，并会留在那里，直到我们弄清下一步会发生什么。"
+    },
+    {
+      "id": 40,
+      "startMs": 269200,
+      "endMs": 272080,
+      "en": "If she's tried and found guilty, she could go to prison.",
+      "zh": "如果她受审并被判有罪，可能会入狱。"
+    },
+    {
+      "id": 41,
+      "startMs": 272080,
+      "endMs": 277120,
+      "en": "If she's found not guilty, she could stay in that same mental institution that she's in now.",
+      "zh": "如果她被判无罪，可能会继续留在现在所在的同一家精神医疗机构。"
+    },
+    {
+      "id": 42,
+      "startMs": 277520,
+      "endMs": 281440,
+      "en": "And just finally, is this being seen as a turning point in postpartum cases now?",
+      "zh": "最后，这是否被视为产后精神疾病案件的转折点？"
+    },
+    {
+      "id": 43,
+      "startMs": 282160,
+      "endMs": 288320,
+      "en": "I think so, for sure. I spoke to experts who study postpartum psychosis and postpartum depression,",
+      "zh": "我肯定认为是。我采访了研究产后精神病和产后抑郁的专家，"
+    },
+    {
+      "id": 44,
+      "startMs": 288640,
+      "endMs": 295280,
+      "en": "They explained extensively that this is an under-researched, under-understood part of the postpartum experience.",
+      "zh": "他们详细解释说，这是产后经历中研究不足、理解也不足的一部分。"
+    },
+    {
+      "id": 45,
+      "startMs": 295280,
+      "endMs": 305840,
+      "en": "And one reason in the US is that postpartum psychosis has no separate classification in what's called the DSM-5, or the Encyclopedia of Psychiatry.",
+      "zh": "其中一个原因是，在美国，产后精神病没有自己的分类，无法归入所谓的 DSM-5，即《精神病学百科全书》。"
+    },
+    {
+      "id": 46,
+      "startMs": 305840,
+      "endMs": 309600,
+      "en": "And without that classification, you can't get as much research funding.",
+      "zh": "没有这一分类，就无法获得那么多研究经费。"
+    },
+    {
+      "id": 47,
+      "startMs": 309600,
+      "endMs": 311920,
+      "en": "It doesn't show up in textbooks in the same way.",
+      "zh": "它在教材中也不会以同样的方式出现。"
+    },
+    {
+      "id": 48,
+      "startMs": 312000,
+      "endMs": 321200,
+      "en": "And you don't have gynaecologists and obstetricians learning this, or always knowing how to identify it in patients. So we have a cyclical problem.",
+      "zh": "妇科和产科医生也就不会学习这是什么，或总能在患者身上识别它。所以我们陷入了循环。"
+    },
+    {
+      "id": 49,
+      "startMs": 321220,
+      "endMs": 329140,
+      "en": "Cases like this one, especially in the US, have drawn enormous attention.",
+      "zh": "这样的案件，尤其在美国，受到了极大关注。"
+    },
+    {
+      "id": 50,
+      "startMs": 329140,
+      "endMs": 333300,
+      "en": "It's all over social media, it's all over the internet, everybody's talking about it.",
+      "zh": "社交媒体和互联网到处都是相关内容，人人都在谈论。"
+    },
+    {
+      "id": 51,
+      "startMs": 333700,
+      "endMs": 341060,
+      "en": "Experts told me this will be a turning point. People will understand the difference between postpartum psychosis and postpartum depression.",
+      "zh": "专家告诉我，这将成为转折点。人们会理解产后精神病与产后抑郁之间的区别。"
+    },
+    {
+      "id": 52,
+      "startMs": 341140,
+      "endMs": 347300,
+      "en": "They're going to understand better now that this is a severe psychiatric emergency that needs to be taken seriously.",
+      "zh": "人们也会更清楚地认识到，这是一种必须认真对待的严重精神科急症。"
+    },
+    {
+      "id": 53,
+      "startMs": 347300,
+      "endMs": 356740,
+      "en": "Hopefully, it'll be classified in the DSM-5, as this medical expert said, for wider understanding and better treatment of affected women.",
+      "zh": "正如这位医学专家所说，希望它最终能被纳入 DSM-5，以便更广泛地理解这种疾病，改善受影响女性的治疗。"
+    },
+    {
+      "id": 54,
+      "startMs": 357220,
+      "endMs": 357940,
+      "en": "Ana Faguy.",
+      "zh": "安娜·法吉。"
+    },
+    {
+      "id": 55,
+      "startMs": 359060,
+      "endMs": 368900,
+      "en": "A Russian drone has struck Ukraine's security service headquarters, the SBU, in central Kyiv, before US mediators are expected to arrive.",
+      "zh": "一架俄罗斯无人机袭击了乌克兰安全局（SBU）位于基辅市中心的总部，袭击发生在美国调停人员预计抵达这座城市之前。"
+    },
+    {
+      "id": 56,
+      "startMs": 369540,
+      "endMs": 377300,
+      "en": "President Volodymyr Zelensky said the drone was aimed at the head of the service, but he wasn't among at least 12 people injured in the attack.",
+      "zh": "总统弗拉基米尔·泽连斯基说，无人机瞄准的是该机构负责人，但他不在袭击中至少12名伤者之列。"
+    },
+    {
+      "id": 57,
+      "startMs": 377780,
+      "endMs": 380980,
+      "en": "Mr Zelensky has promised a temporary ceasefire with Russia.",
+      "zh": "泽连斯基先生承诺与俄罗斯暂时停火。"
+    },
+    {
+      "id": 58,
+      "startMs": 381380,
+      "endMs": 388180,
+      "en": "The US envoys, Steve Witkoff and Jared Kushner, have talks in Moscow on Saturday and Kyiv on Sunday.",
+      "zh": "美国特使史蒂夫·威特科夫和贾里德·库什纳周六在莫斯科、周日在基辅举行会谈。"
+    },
+    {
+      "id": 59,
+      "startMs": 388660,
+      "endMs": 394260,
+      "en": "My colleague Valerie Sanderson spoke to our diplomatic correspondent, James Landale, who is in the Ukrainian capital.",
+      "zh": "我的同事瓦莱丽·桑德森采访了正在乌克兰首都的外交事务记者詹姆斯·兰代尔。"
+    },
+    {
+      "id": 60,
+      "startMs": 394740,
+      "endMs": 399940,
+      "en": "Kyiv has been under attack day and night by Russia for the last two weeks or so.",
+      "zh": "过去两周左右，基辅一直昼夜遭到俄罗斯袭击。"
+    },
+    {
+      "id": 61,
+      "startMs": 400180,
+      "endMs": 406820,
+      "en": "This is part of a new tactic where Russia has attempted to, instead of just attacking Kyiv during the night,",
+      "zh": "这是俄罗斯采取的一种新策略：与只在夜间袭击基辅不同，俄罗斯试图"
+    },
+    {
+      "id": 62,
+      "startMs": 407460,
+      "endMs": 410660,
+      "en": "it's tried to step up its attacks throughout the day, round the clock.",
+      "zh": "全天候加强袭击。"
+    },
+    {
+      "id": 63,
+      "startMs": 410820,
+      "endMs": 414420,
+      "en": "On average, there have been about ten air raid alerts a day.",
+      "zh": "平均每天约有10次空袭警报。"
+    },
+    {
+      "id": 64,
+      "startMs": 414420,
+      "endMs": 423000,
+      "en": "But during that period, most strikes targeted infrastructure, businesses and warehouses, sometimes in residential areas.",
+      "zh": "但在这段时间里，大多数袭击针对的是基础设施、企业和仓库，有时也发生在居民区。"
+    },
+    {
+      "id": 65,
+      "startMs": 423160,
+      "endMs": 432200,
+      "en": "This is the first time, as far as we know, they've directly targeted the heart of the Ukrainian state and government: its security services chief.",
+      "zh": "据我们所知，这是他们首次直接攻击乌克兰国家和政府的核心，也就是安全机构的负责人。"
+    },
+    {
+      "id": 66,
+      "startMs": 432680,
+      "endMs": 434520,
+      "en": "It happened in the middle of the afternoon.",
+      "zh": "袭击发生在下午时分。"
+    },
+    {
+      "id": 67,
+      "startMs": 434520,
+      "endMs": 439800,
+      "en": "It was during one of the alerts that was taking place, and took place not far from where we are.",
+      "zh": "当时正值一次警报期间，袭击地点离我们所在的位置不远。"
+    },
+    {
+      "id": 68,
+      "startMs": 439800,
+      "endMs": 446200,
+      "en": "And we had a very quick whoosh and then an explosion across the rooftops, and smoke rising above the building.",
+      "zh": "我们听到一声非常短促的呼啸，随后屋顶那边传来爆炸声，烟雾升上了建筑物上空。"
+    },
+    {
+      "id": 69,
+      "startMs": 446200,
+      "endMs": 452680,
+      "en": "And it turned out that it had been, according to President Zelensky, not just a direct targeted attack on the security services,",
+      "zh": "后来证实，据泽连斯基总统说，这不仅是一次针对安全机构的直接袭击，"
+    },
+    {
+      "id": 70,
+      "startMs": 452680,
+      "endMs": 456840,
+      "en": "but specifically against the office of the man who heads that agency.",
+      "zh": "更具体地说，是针对领导该机构之人的办公室。"
+    },
+    {
+      "id": 71,
+      "startMs": 457240,
+      "endMs": 461960,
+      "en": "So, you mentioned President Zelensky. What has been his reaction, and that of Ukraine?",
+      "zh": "你提到了泽连斯基总统。他本人以及乌克兰对此作何反应？"
+    },
+    {
+      "id": 72,
+      "startMs": 462120,
+      "endMs": 465880,
+      "en": "Well, President Zelensky has obviously decried the attack.",
+      "zh": "泽连斯基总统显然谴责了这次袭击。"
+    },
+    {
+      "id": 73,
+      "startMs": 466200,
+      "endMs": 470760,
+      "en": "He has promised to make what he called an appropriate, tangible response.",
+      "zh": "他承诺采取他所称的适当而切实的回应。"
+    },
+    {
+      "id": 74,
+      "startMs": 470840,
+      "endMs": 473800,
+      "en": "Ukrainian officials are describing it as a clear escalation.",
+      "zh": "乌克兰官员称这是一次明显的升级。"
+    },
+    {
+      "id": 75,
+      "startMs": 473960,
+      "endMs": 478200,
+      "en": "We haven't got, you know, we don't know when or how Ukraine will respond to that.",
+      "zh": "我们还没有答案；你知道，我们不知道乌克兰何时或将如何回应。"
+    },
+    {
+      "id": 76,
+      "startMs": 478700,
+      "endMs": 483500,
+      "en": "They're making it very clear that this is something that will require some kind of response.",
+      "zh": "他们明确表示，这件事需要某种回应。"
+    },
+    {
+      "id": 77,
+      "startMs": 483820,
+      "endMs": 493020,
+      "en": "Mr Zelensky has also, very pointedly, published a picture of him sitting down with the head of the security services,",
+      "zh": "泽连斯基先生还特意发布了一张照片，显示他与安全机构负责人坐在一起，"
+    },
+    {
+      "id": 78,
+      "startMs": 493260,
+      "endMs": 498060,
+      "en": "discussing what that response may be. In other words, making it very clear to the Russians",
+      "zh": "讨论可能采取何种回应。换句话说，这是在向俄罗斯人明确表示，"
+    },
+    {
+      "id": 79,
+      "startMs": 498300,
+      "endMs": 502220,
+      "en": "that Mr Poklad, who is the head of the agency, is alive and well.",
+      "zh": "该机构负责人波克拉德先生安然无恙。"
+    },
+    {
+      "id": 80,
+      "startMs": 502380,
+      "endMs": 506860,
+      "en": "And James, the timing of this is crucial, isn't it, with talks coming up in Ukraine?",
+      "zh": "詹姆斯，随着乌克兰即将举行会谈，这次袭击的时机很关键，对吗？"
+    },
+    {
+      "id": 81,
+      "startMs": 506860,
+      "endMs": 514220,
+      "en": "That's the really interesting question: why are the Russians doing this? Why are they carrying out this particular attack?",
+      "zh": "这正是很有意思的问题：俄罗斯人为什么要这样做？为什么发动这次特别的袭击？"
+    },
+    {
+      "id": 82,
+      "startMs": 514700,
+      "endMs": 524380,
+      "en": "Because if there are, as we expect, talks with US mediators, Mr Kushner and Mr Witkoff, both in Moscow and in Kyiv over the weekend,",
+      "zh": "因为如果如我们所料，周末美国调停人员库什纳先生和威特科夫先生将在莫斯科和基辅举行会谈，"
+    },
+    {
+      "id": 83,
+      "startMs": 524460,
+      "endMs": 529420,
+      "en": "why are the Russians choosing this moment to step up their attack and escalate the tensions?",
+      "zh": "俄罗斯人为什么选择此刻加强袭击、升级紧张局势？"
+    },
+    {
+      "id": 84,
+      "startMs": 529820,
+      "endMs": 538620,
+      "en": "We don't know the answer, but some speculation among analysts here in Kyiv is that the Russians may be trying to work on",
+      "zh": "我们不知道答案，但基辅分析人士猜测，俄罗斯人可能试图利用"
+    },
+    {
+      "id": 85,
+      "startMs": 538620,
+      "endMs": 543600,
+      "en": "what are believed to be concerns on the American side about the safety",
+      "zh": "美方对其安全的担忧，"
+    },
+    {
+      "id": 86,
+      "startMs": 544080,
+      "endMs": 547120,
+      "en": "of Mr Kushner and Mr Witkoff, were they to come to Kyiv,",
+      "zh": "如果库什纳和威特科夫前往基辅，他们的安全令人担忧，"
+    },
+    {
+      "id": 87,
+      "startMs": 547120,
+      "endMs": 554080,
+      "en": "because they would be coming to a city that has been under round-the-clock attack from Russia for the last two weeks or so.",
+      "zh": "因为他们将前往一座过去两周左右一直遭俄罗斯全天候袭击的城市。"
+    },
+    {
+      "id": 88,
+      "startMs": 555040,
+      "endMs": 557120,
+      "en": "James Landale reporting from Kyiv.",
+      "zh": "詹姆斯·兰代尔从基辅报道。"
+    },
+    {
+      "id": 89,
+      "startMs": 558740,
+      "endMs": 562660,
+      "en": "Now to the latest case of artificial intelligence apparently going rogue.",
+      "zh": "现在来看人工智能疑似失控的最新案例。"
+    },
+    {
+      "id": 90,
+      "startMs": 563140,
+      "endMs": 570900,
+      "en": "It's been revealed that OpenAI hijacked a German website earlier this year, even going so far as to repurpose the platform.",
+      "zh": "有消息披露，OpenAI今年早些时候劫持了一个德国网站，甚至重新挪用了该平台。"
+    },
+    {
+      "id": 91,
+      "startMs": 571460,
+      "endMs": 577780,
+      "en": "The incident was uncovered by researchers who monitor the internet for signs of unauthorised activity by AI agents.",
+      "zh": "监测互联网、寻找人工智能代理未经授权活动迹象的研究人员揭露了这一事件。"
+    },
+    {
+      "id": 92,
+      "startMs": 578260,
+      "endMs": 586660,
+      "en": "It's not the first time this has happened, raising more questions about AI safety and its ability to operate outside human control.",
+      "zh": "这并非此类事件首次发生，也进一步引发了人们对人工智能安全以及其如何脱离人类控制运行的疑问。"
+    },
+    {
+      "id": 93,
+      "startMs": 587060,
+      "endMs": 589140,
+      "en": "Zoe Kleinman is our Technology Editor.",
+      "zh": "佐伊·克莱因曼是我们的科技编辑。"
+    },
+    {
+      "id": 94,
+      "startMs": 589620,
+      "endMs": 593380,
+      "en": "You may already be familiar with an event that happened in July,",
+      "zh": "你可能已经听说过7月发生的一起事件，"
+    },
+    {
+      "id": 95,
+      "startMs": 593700,
+      "endMs": 599860,
+      "en": "when some AI products called agents developed by OpenAI, the maker of ChatGPT,",
+      "zh": "当时，ChatGPT开发商OpenAI开发的一些名为代理的人工智能产品，"
+    },
+    {
+      "id": 96,
+      "startMs": 600260,
+      "endMs": 603140,
+      "en": "hacked into another tech company called Hugging Face.",
+      "zh": "入侵了另一家名为Hugging Face的科技公司。"
+    },
+    {
+      "id": 97,
+      "startMs": 603540,
+      "endMs": 609860,
+      "en": "And at the time it was described as the first ever cyber attack that was AI-enabled,",
+      "zh": "当时这被称为首起由人工智能实施的网络攻击，"
+    },
+    {
+      "id": 98,
+      "startMs": 609860,
+      "endMs": 611780,
+      "en": "because it was done by these agents.",
+      "zh": "因为攻击是这些代理发动的。"
+    },
+    {
+      "id": 99,
+      "startMs": 612020,
+      "endMs": 618260,
+      "en": "And it turned out that they'd managed to make a secret message board and communicate with each other in secret to figure out",
+      "zh": "结果发现，它们设法建立了一个秘密留言板，彼此秘密沟通，以弄清"
+    },
+    {
+      "id": 100,
+      "startMs": 618200,
+      "endMs": 621320,
+      "en": "how to access the internet and how to get to this company.",
+      "zh": "如何访问互联网，以及如何进入这家公司。"
+    },
+    {
+      "id": 101,
+      "startMs": 621880,
+      "endMs": 630200,
+      "en": "The new report that's just come out suggests that actually OpenAI's agents have a bit of a track record of having done this before.",
+      "zh": "刚发布的新报告显示，实际上OpenAI的代理以前似乎也做过类似的事。"
+    },
+    {
+      "id": 102,
+      "startMs": 630520,
+      "endMs": 636680,
+      "en": "They had taken over a website, a German website—it's like a Wikipedia-style website,",
+      "zh": "它们接管了一个德国网站——这是一个类似维基百科的网站，"
+    },
+    {
+      "id": 103,
+      "startMs": 636680,
+      "endMs": 639400,
+      "en": "so it's one that anyone can contribute to.",
+      "zh": "任何人都可以向其投稿。"
+    },
+    {
+      "id": 104,
+      "startMs": 639880,
+      "endMs": 645880,
+      "en": "But they'd got into it and they'd made 15,000 edits to it over a three-month period.",
+      "zh": "但它们进入网站后，在三个月内对其进行了15,000次编辑。"
+    },
+    {
+      "id": 105,
+      "startMs": 646360,
+      "endMs": 652280,
+      "en": "And they were communicating with each other and sharing tips about how to avoid detection and remain hidden.",
+      "zh": "它们彼此沟通，分享如何避免被发现并保持隐藏的诀窍。"
+    },
+    {
+      "id": 106,
+      "startMs": 652680,
+      "endMs": 657320,
+      "en": "And when the other editors of the website started noticing and taking pages down,",
+      "zh": "当网站的其他编辑开始注意到这一点并删除页面时，"
+    },
+    {
+      "id": 107,
+      "startMs": 657640,
+      "endMs": 664520,
+      "en": "the agents started sharing computer code about how to retrieve the deleted pages so they could get their communications back.",
+      "zh": "这些代理开始分享如何找回被删除页面的计算机代码，以恢复它们的通信。"
+    },
+    {
+      "id": 108,
+      "startMs": 664920,
+      "endMs": 672280,
+      "en": "So what we are starting to see is AI tools that are acting independently of humans, if you like,",
+      "zh": "所以，我们开始看到一些脱离人类、可以独立行动的人工智能工具，"
+    },
+    {
+      "id": 109,
+      "startMs": 672280,
+      "endMs": 680780,
+      "en": "and also covering their tracks and trying to not be as visible as we would like in terms of being able to see what they're doing.",
+      "zh": "它们还会掩盖踪迹，试图不那么显眼，让我们难以看清它们在做什么。"
+    },
+    {
+      "id": 110,
+      "startMs": 681180,
+      "endMs": 686860,
+      "en": "OpenAI says it can't respond meaningfully because it wasn't given the report before publication.",
+      "zh": "OpenAI称，由于报告发布前没有提供给它，因此无法作出有意义的回应。"
+    },
+    {
+      "id": 111,
+      "startMs": 686860,
+      "endMs": 689020,
+      "en": "The report was given to the news agency Reuters.",
+      "zh": "这份报告交给了路透社。"
+    },
+    {
+      "id": 112,
+      "startMs": 689500,
+      "endMs": 692780,
+      "en": "It has now got the report and says it will take the necessary steps.",
+      "zh": "如今它已拿到报告，并称将采取必要措施。"
+    },
+    {
+      "id": 113,
+      "startMs": 692780,
+      "endMs": 700460,
+      "en": "It says it has already said it was aware that some of its agents had figured out how to use message boards and how to communicate,",
+      "zh": "它称，自己此前已经表示，知道部分代理已摸索出如何使用留言板并进行沟通，"
+    },
+    {
+      "id": 114,
+      "startMs": 700460,
+      "endMs": 705020,
+      "en": "and it says that it has already been public about that. It's been open about that.",
+      "zh": "并称此前已经公开说明过这一点，对此一直保持公开透明。"
+    },
+    {
+      "id": 115,
+      "startMs": 705420,
+      "endMs": 711820,
+      "en": "But, you know, we've just seen just last night OpenAI unveiled its latest AI model called Astra,",
+      "zh": "但是，正如你所知，就在昨晚我们看到OpenAI发布了最新的人工智能模型Astra，"
+    },
+    {
+      "id": 116,
+      "startMs": 711820,
+      "endMs": 717420,
+      "en": "and it says it's its most powerful yet, and that it can do a task that would take a human being five hours",
+      "zh": "它称这是迄今最强大的模型，还能完成一项人类需要五小时的任务，"
+    },
+    {
+      "id": 117,
+      "startMs": 717580,
+      "endMs": 719020,
+      "en": "It can do it in under three minutes.",
+      "zh": "但它不到三分钟就能完成。"
+    },
+    {
+      "id": 118,
+      "startMs": 719100,
+      "endMs": 726060,
+      "en": "So on the one hand, you know, we've got this incredibly rapidly advancing, highly evolved technology,",
+      "zh": "所以，一方面，我们拥有这种发展极其迅速、非常先进的技术，"
+    },
+    {
+      "id": 119,
+      "startMs": 726060,
+      "endMs": 735740,
+      "en": "and on the other hand, it seems that there's increasing concern that it's starting to be able to operate outside of human control.",
+      "zh": "另一方面，人们似乎越来越担心，它开始能够脱离人类控制运行。"
+    },
+    {
+      "id": 120,
+      "startMs": 735740,
+      "endMs": 740000,
+      "en": "and a lot of people are very, very worried about that from a cybersecurity point of view,",
+      "zh": "从网络安全角度看，很多人对此非常担忧，"
+    },
+    {
+      "id": 121,
+      "startMs": 740000,
+      "endMs": 742480,
+      "en": "but also, I suppose, from a rather dystopian point of view.",
+      "zh": "我想，从相当反乌托邦的角度看也是如此。"
+    },
+    {
+      "id": 122,
+      "startMs": 742800,
+      "endMs": 744800,
+      "en": "Our Technology Editor, Zoe Kleinman.",
+      "zh": "我们的科技编辑佐伊·克莱因曼。"
+    },
+    {
+      "id": 123,
+      "startMs": 744800,
+      "endMs": 751680,
+      "en": "Here's a question for you. Which do you think is bigger, Greenland or the Democratic Republic of the Congo?",
+      "zh": "问大家一个问题：你觉得格陵兰岛和刚果民主共和国，哪个更大？"
+    },
+    {
+      "id": 124,
+      "startMs": 752320,
+      "endMs": 759680,
+      "en": "Well, if you look at most maps, Greenland would appear to have a much larger landmass, but in fact it's a good deal smaller.",
+      "zh": "如果看大多数地图，格陵兰岛看起来会大得多，但实际上它小得多。"
+    },
+    {
+      "id": 125,
+      "startMs": 760160,
+      "endMs": 764960,
+      "en": "The UN General Assembly has just passed a resolution aimed at fixing that discrepancy.",
+      "zh": "联合国大会刚刚通过一项旨在纠正这一差异的决议。"
+    },
+    {
+      "id": 126,
+      "startMs": 765440,
+      "endMs": 772880,
+      "en": "It's calling for the traditional world map to be replaced by one that more accurately reflects the size of Africa and other parts of the world.",
+      "zh": "决议呼吁用一幅更准确反映非洲及世界其他地区面积的地图，取代传统世界地图。"
+    },
+    {
+      "id": 127,
+      "startMs": 773280,
+      "endMs": 774720,
+      "en": "Helena Burke has the details.",
+      "zh": "海伦娜·伯克报道详情。"
+    },
+    {
+      "id": 128,
+      "startMs": 775280,
+      "endMs": 781520,
+      "en": "Back in 1569, the Flemish cartographer Gerardus Mercator created a world map.",
+      "zh": "早在1569年，佛兰德制图师 Gerardus Mercator 绘制了一幅世界地图。"
+    },
+    {
+      "id": 129,
+      "startMs": 782160,
+      "endMs": 788320,
+      "en": "Its main purpose was to help sailors navigate the globe, as the cartography professor James Cheshire explains.",
+      "zh": "制图学教授 James Cheshire 解释说，它的主要用途是帮助水手在全球航行。"
+    },
+    {
+      "id": 130,
+      "startMs": 788560,
+      "endMs": 798080,
+      "en": "In Mercator's case, what he was doing was creating a projection that would work really well for navigating across oceans.",
+      "zh": "就墨卡托而言，他是在制作一种非常适合跨洋航行的投影。"
+    },
+    {
+      "id": 131,
+      "startMs": 798260,
+      "endMs": 800820,
+      "en": "Principally, what people were interested in using maps for.",
+      "zh": "当时人们主要关注的是用地图来做这件事。"
+    },
+    {
+      "id": 132,
+      "startMs": 801220,
+      "endMs": 810900,
+      "en": "And so, in his view, he wanted a straight line drawn on a map to look like a straight line in reality if you followed a compass bearing.",
+      "zh": "因此在他看来，如果沿着罗盘方位前进，地图上的直线就应该看起来像现实中的直线。"
+    },
+    {
+      "id": 133,
+      "startMs": 811460,
+      "endMs": 816340,
+      "en": "So that was what it was intended to do, and that's what it does brilliantly well.",
+      "zh": "这就是它原本要实现的目标，而且它出色地做到了。"
+    },
+    {
+      "id": 134,
+      "startMs": 816740,
+      "endMs": 824340,
+      "en": "To keep those angles correct on a flat map, Mercator had to stretch the grid lines wider as they moved away from the equator towards the poles.",
+      "zh": "为了在平面地图上保持角度准确，墨卡托必须让网格线从赤道向两极延伸时逐渐拉宽。"
+    },
+    {
+      "id": 135,
+      "startMs": 824820,
+      "endMs": 831300,
+      "en": "The result was that countries further away from the equator, particularly those in Europe, appeared much larger than they really were.",
+      "zh": "结果是，远离赤道的国家，尤其是欧洲国家，看起来比实际大得多。"
+    },
+    {
+      "id": 136,
+      "startMs": 831860,
+      "endMs": 834740,
+      "en": "While those closer to the equator appeared much smaller.",
+      "zh": "而靠近赤道的国家则显得小得多。"
+    },
+    {
+      "id": 137,
+      "startMs": 835300,
+      "endMs": 843140,
+      "en": "In fact, the Mercator map makes Greenland look roughly the same size as Africa, even though the continent is actually 14 times bigger.",
+      "zh": "实际上，墨卡托地图让格陵兰岛看起来与非洲大致一样大，尽管非洲实际上大14倍。"
+    },
+    {
+      "id": 138,
+      "startMs": 843860,
+      "endMs": 852900,
+      "en": "More than 450 years on, Mercator's map is still the basis for many of the maps we see in classrooms, documentaries and online, including Google Maps.",
+      "zh": "450多年过去，墨卡托地图仍是课堂、纪录片和网络上许多地图的基础，包括谷歌地图。"
+    },
+    {
+      "id": 139,
+      "startMs": 853520,
+      "endMs": 859920,
+      "en": "For years, African campaigners have been pushing for the Mercator map to be replaced with the more accurate Equal Earth projection.",
+      "zh": "多年来，非洲倡议者一直推动用更准确的等积地球投影取代墨卡托地图。"
+    },
+    {
+      "id": 140,
+      "startMs": 860400,
+      "endMs": 862880,
+      "en": "Moky Makura has been leading the charge.",
+      "zh": "Moky Makura 一直在带头推动这项倡议。"
+    },
+    {
+      "id": 141,
+      "startMs": 863280,
+      "endMs": 869360,
+      "en": "I've referred to this as the world's longest misinformation campaign, because it's just wrong.",
+      "zh": "我把这称为世界上持续时间最长的错误信息传播，因为它就是错的。"
+    },
+    {
+      "id": 142,
+      "startMs": 870200,
+      "endMs": 872680,
+      "en": "Africa is made to look smaller than it really is.",
+      "zh": "非洲被描绘得比实际小。"
+    },
+    {
+      "id": 143,
+      "startMs": 873160,
+      "endMs": 879000,
+      "en": "The distortion matters, because it literally shrinks Africa's power and our place in the world.",
+      "zh": "这种扭曲很重要，因为它实际上缩小了非洲的力量和我们在世界中的地位。"
+    },
+    {
+      "id": 144,
+      "startMs": 879820,
+      "endMs": 889820,
+      "en": "You know, the size being smaller than European countries, when in reality you can fit all of Europe, China, India, America and other countries into the continent.",
+      "zh": "你看，非洲看起来比欧洲国家小，但实际上，整个欧洲、中国、印度、美国和其他国家都能放进这片大陆。"
+    },
+    {
+      "id": 145,
+      "startMs": 890140,
+      "endMs": 896300,
+      "en": "It makes the continent look less important, less powerful and less full of potential.",
+      "zh": "这让非洲大陆看起来没那么重要、没那么有力量，也没那么充满潜力。"
+    },
+    {
+      "id": 146,
+      "startMs": 896620,
+      "endMs": 903180,
+      "en": "And for me, this is really about truth and accuracy, but it's also about dignity and symbolism.",
+      "zh": "对我来说，这关乎真相和准确性，也关乎尊严与象征意义。"
+    },
+    {
+      "id": 147,
+      "startMs": 903820,
+      "endMs": 913180,
+      "en": "I'd like to see the Equal Earth projection used everywhere: in school textbooks, online, on Google Maps, in PowerPoint templates and Canva templates.",
+      "zh": "我希望等积地球投影能被广泛使用：学校教材、网络、谷歌地图、PowerPoint 模板和 Canva 模板都采用它。"
+    },
+    {
+      "id": 148,
+      "startMs": 913500,
+      "endMs": 915180,
+      "en": "But does size really matter?",
+      "zh": "但面积真的重要吗？"
+    },
+    {
+      "id": 149,
+      "startMs": 915740,
+      "endMs": 917740,
+      "en": "Donald Trump certainly seems to think so.",
+      "zh": "唐纳德·特朗普显然认为确实重要。"
+    },
+    {
+      "id": 150,
+      "startMs": 918060,
+      "endMs": 926620,
+      "en": "There's been some speculation that Greenland's gargantuan appearance on traditional maps may have partly informed the US president's desire to take over the territory.",
+      "zh": "有人推测，格陵兰岛在传统地图上巨大无比的外观，或许部分影响了美国总统接管这片领土的愿望。"
+    },
+    {
+      "id": 151,
+      "startMs": 926860,
+      "endMs": 931420,
+      "en": "This enormous, unsecured island is actually part of North America.",
+      "zh": "这座巨大且没有设防的岛屿实际上属于北美。"
+    },
+    {
+      "id": 152,
+      "startMs": 932220,
+      "endMs": 938140,
+      "en": "It's the United States alone that can protect this giant mass of land, this giant piece of ice.",
+      "zh": "只有美国能够保护这片巨大的陆地、这块巨大的冰原。"
+    },
+    {
+      "id": 153,
+      "startMs": 938700,
+      "endMs": 944000,
+      "en": "Now, years of campaigning for a more accurate representation of the world's countries has paid off.",
+      "zh": "如今，多年来推动更准确呈现世界各国的努力取得了成果。"
+    },
+    {
+      "id": 154,
+      "startMs": 944480,
+      "endMs": 951280,
+      "en": "The UN General Assembly has passed the Correct the Map resolution with the support of 164 nations.",
+      "zh": "联合国大会通过了“纠正地图”决议，得到164个国家支持。"
+    },
+    {
+      "id": 155,
+      "startMs": 951680,
+      "endMs": 956320,
+      "en": "The United States was the only country to vote against it, and there were six abstentions.",
+      "zh": "美国是唯一投反对票的国家，另有6国弃权。"
+    },
+    {
+      "id": 156,
+      "startMs": 956800,
+      "endMs": 961120,
+      "en": "The resolution calls for the gradual phasing out of the use of the traditional Mercator map.",
+      "zh": "决议呼吁逐步停止使用传统的墨卡托地图。"
+    },
+    {
+      "id": 157,
+      "startMs": 961760,
+      "endMs": 965920,
+      "en": "The change at the UN was spearheaded by Togo's Foreign Minister Robert Dussey.",
+      "zh": "联合国的这项改变由多哥外交部长 Robert Dussey 主导。"
+    },
+    {
+      "id": 158,
+      "startMs": 966240,
+      "endMs": 970800,
+      "en": "A fair map does not change the geography of the world.",
+      "zh": "一幅公平的地图不会改变世界的地理。"
+    },
+    {
+      "id": 159,
+      "startMs": 971360,
+      "endMs": 974160,
+      "en": "It changes how we see the world.",
+      "zh": "它改变的是我们看待世界的方式。"
+    },
+    {
+      "id": 160,
+      "startMs": 974560,
+      "endMs": 986800,
+      "en": "And when our perspective becomes more just, it paves the way for greater understanding, respect and peace among nations.",
+      "zh": "当我们的视角变得更加公正，就会为各国之间更多的理解、尊重与和平铺路。"
+    },
+    {
+      "id": 161,
+      "startMs": 987360,
+      "endMs": 995760,
+      "en": "The Equal Earth projection is widely regarded as the most accurate display of the relative sizes of the world's landmasses, but it's not perfect.",
+      "zh": "等积地球投影被广泛认为最准确地呈现了世界陆地的相对面积，但它并不完美。"
+    },
+    {
+      "id": 162,
+      "startMs": 996080,
+      "endMs": 999440,
+      "en": "The map still distorts some shapes, angles and distances.",
+      "zh": "这幅地图仍会扭曲一些形状、角度和距离。"
+    },
+    {
+      "id": 163,
+      "startMs": 999700,
+      "endMs": 1010260,
+      "en": "As Professor Cheshire explains, it's really hard to take a sphere—or technically, an oblate spheroid, which is the shape of our Earth—and put it on a flat sheet of paper.",
+      "zh": "正如 Cheshire 教授所解释的，要把球体——严格说是地球形状的扁球体——放到平面纸张上，确实非常困难。"
+    },
+    {
+      "id": 164,
+      "startMs": 1010340,
+      "endMs": 1014340,
+      "en": "So there is no perfect way of doing it, and there are lots of different approaches you can take.",
+      "zh": "所以没有完美的做法，你可以采取许多不同的方法。"
+    },
+    {
+      "id": 165,
+      "startMs": 1014500,
+      "endMs": 1024260,
+      "en": "You can preserve area, or you can preserve shape, or you can preserve distance and direction, but not everything at once perfectly, because otherwise you'd be back to a sphere.",
+      "zh": "你可以保留面积、形状，或距离和方向，但不可能同时完美保留所有这些要素，否则就会回到球体。"
+    },
+    {
+      "id": 166,
+      "startMs": 1024580,
+      "endMs": 1033700,
+      "en": "I think, really, what needs to happen is that we start to move to a situation where people start to think more deeply about the maps they're looking at.",
+      "zh": "我认为，真正需要的是让人们开始更深入地思考自己看到的地图。"
+    },
+    {
+      "id": 167,
+      "startMs": 1033700,
+      "endMs": 1037460,
+      "en": "Looking at them and asking, why is this area bigger than that area?",
+      "zh": "看着地图问一问：为什么这片区域比那片区域大？"
+    },
+    {
+      "id": 168,
+      "startMs": 1037460,
+      "endMs": 1043060,
+      "en": "And what impact is it having on me? And I think that's, you know, that's the real positive that comes out of this, I think.",
+      "zh": "它对我有什么影响？我想，这就是这件事带来的真正积极意义。"
+    },
+    {
+      "id": 169,
+      "startMs": 1043460,
+      "endMs": 1048900,
+      "en": "The Correct the Map resolution is non-binding, which means countries aren't required to implement it.",
+      "zh": "“纠正地图”决议不具约束力，也就是说各国没有义务执行。"
+    },
+    {
+      "id": 170,
+      "startMs": 1049460,
+      "endMs": 1055140,
+      "en": "However, the UN's decision will still spur changes to the maps used by institutions around the world.",
+      "zh": "不过，联合国的决定仍会推动世界各地机构所用地图发生变化。"
+    },
+    {
+      "id": 171,
+      "startMs": 1055620,
+      "endMs": 1057140,
+      "en": "That report from Helena Burke.",
+      "zh": "以上是海伦娜·伯克的报道。"
+    },
+    {
+      "id": 172,
+      "startMs": 1059840,
+      "endMs": 1061280,
+      "en": "Still to come in this podcast.",
+      "zh": "本期节目稍后还有内容。"
+    },
+    {
+      "id": 173,
+      "startMs": 1061440,
+      "endMs": 1064400,
+      "en": "If you come to a sporting event, you have to respect the sport.",
+      "zh": "如果你去观看体育赛事，就必须尊重这项运动。"
+    },
+    {
+      "id": 174,
+      "startMs": 1064560,
+      "endMs": 1070400,
+      "en": "And I feel like it's common courtesy to read up on the sport, especially the etiquette.",
+      "zh": "我觉得，提前了解这项运动，尤其是观赛礼仪，是基本的礼貌。"
+    },
+    {
+      "id": 175,
+      "startMs": 1070880,
+      "endMs": 1076560,
+      "en": "Frustration over the behavior of social media influencers at the US Open tennis Grand Slam.",
+      "zh": "社交媒体网红在美国网球公开赛上的行为引发不满。"
+    },
+    {
+      "id": 176,
+      "startMs": 1076560,
+      "endMs": 1078400,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 177,
+      "startMs": 1079440,
+      "endMs": 1085920,
+      "en": "There's been an upsurge in fighting in Yemen between Iranian-backed Houthi forces and Saudi-backed government troops.",
+      "zh": "也门伊朗支持的胡塞武装与沙特支持的政府军之间的战斗激增。"
+    },
+    {
+      "id": 178,
+      "startMs": 1086400,
+      "endMs": 1093200,
+      "en": "More than 120 people have died in what would have been described as the deadliest clashes between the two sides in years.",
+      "zh": "超过120人死亡，这场冲突可谓双方多年来最致命的一次。"
+    },
+    {
+      "id": 179,
+      "startMs": 1093760,
+      "endMs": 1101680,
+      "en": "The latest fighting in a civil war which began in 2014 started when the Houthis tried to take control of coastal territory on the Red Sea.",
+      "zh": "这场始于2014年的内战，最新一轮战斗始于胡塞武装试图控制红海沿岸地区。"
+    },
+    {
+      "id": 180,
+      "startMs": 1102320,
+      "endMs": 1108320,
+      "en": "That sea route has become increasingly important since the US-Iran war closed the Strait of Hormuz in the Gulf.",
+      "zh": "自美伊战争关闭海湾的霍尔木兹海峡以来，这条海上航线日益重要。"
+    },
+    {
+      "id": 181,
+      "startMs": 1108720,
+      "endMs": 1113280,
+      "en": "Saudi Arabia, in particular, is now reliant on the Red Sea to export its oil.",
+      "zh": "沙特阿拉伯尤其依赖红海出口石油。"
+    },
+    {
+      "id": 182,
+      "startMs": 1114080,
+      "endMs": 1117600,
+      "en": "Valerie Sanderson found out more from our Middle East analyst, Sebastian Usher.",
+      "zh": "瓦莱丽·桑德森向中东分析师塞巴斯蒂安·厄舍了解了更多情况。"
+    },
+    {
+      "id": 183,
+      "startMs": 1118000,
+      "endMs": 1120560,
+      "en": "As with everything in Yemen, nothing is that clear.",
+      "zh": "就也门的一切而言，情况都不明朗。"
+    },
+    {
+      "id": 184,
+      "startMs": 1120640,
+      "endMs": 1126800,
+      "en": "We don't really have independent reporting from there, so we hear different accounts from the two sides.",
+      "zh": "我们没有来自当地的独立报道，所以只能听取双方的不同说法。"
+    },
+    {
+      "id": 185,
+      "startMs": 1126800,
+      "endMs": 1129920,
+      "en": "The government, the pro-government side, is really playing this up.",
+      "zh": "政府，也就是亲政府一方，确实在大肆渲染这件事。"
+    },
+    {
+      "id": 186,
+      "startMs": 1130240,
+      "endMs": 1133760,
+      "en": "They're the ones telling me how many people they say have been killed.",
+      "zh": "他们一直告诉我，他们声称有多少人被杀。"
+    },
+    {
+      "id": 187,
+      "startMs": 1134080,
+      "endMs": 1137700,
+      "en": "This was essentially an assault that was launched by the Houthis on Thursday.",
+      "zh": "这基本上是胡塞武装周四发动的一次攻击。"
+    },
+    {
+      "id": 188,
+      "startMs": 1138180,
+      "endMs": 1143620,
+      "en": "The Houthis downplay it, saying it's just more clashes. It's kind of what goes on. But I think there's more to it.",
+      "zh": "胡塞武装则淡化此事，说只是更多冲突。这有点像平时的情况。但我认为事情不止如此。"
+    },
+    {
+      "id": 189,
+      "startMs": 1143620,
+      "endMs": 1149940,
+      "en": "I mean, this is in and around the key city of Taiz in a province which has been divided for a long time.",
+      "zh": "我的意思是，冲突发生在长期分裂的省份、关键城市塔伊兹及其周边。"
+    },
+    {
+      "id": 190,
+      "startMs": 1149940,
+      "endMs": 1158100,
+      "en": "Now there was a lull in fighting for the past four years or so, but it's begun to reignite over the past few weeks.",
+      "zh": "此前约四年来战事一直平静，但过去几周又开始重新燃起。"
+    },
+    {
+      "id": 191,
+      "startMs": 1158100,
+      "endMs": 1160980,
+      "en": "Very much to do with the Iran war and the contagion of that.",
+      "zh": "这很大程度上与伊朗战争及其外溢影响有关。"
+    },
+    {
+      "id": 192,
+      "startMs": 1161540,
+      "endMs": 1165300,
+      "en": "But more specifically recently with the Bab-al-Mandeb Strait.",
+      "zh": "但更具体地说，最近与曼德布海峡有关。"
+    },
+    {
+      "id": 193,
+      "startMs": 1165380,
+      "endMs": 1169780,
+      "en": "That is, like the Strait of Hormuz, it's another key waterway for energy supplies to go through.",
+      "zh": "它和霍尔木兹海峡一样，是能源运输的另一条重要水道。"
+    },
+    {
+      "id": 194,
+      "startMs": 1170100,
+      "endMs": 1177940,
+      "en": "Saudi ships have been using that instead of the Strait of Hormuz, and the Houthis have been firing at them to try and close it down.",
+      "zh": "沙特船只一直改走这里，而不是霍尔木兹海峡；胡塞武装不断向它们开火，试图封锁航道。"
+    },
+    {
+      "id": 195,
+      "startMs": 1177940,
+      "endMs": 1181220,
+      "en": "Now there's a port and Taiz is the way to it, called Mocha.",
+      "zh": "那里有个港口，塔伊兹是通往它的通道，港口名叫摩卡。"
+    },
+    {
+      "id": 196,
+      "startMs": 1181620,
+      "endMs": 1186900,
+      "en": "Mocha is where the coffee comes from, the name, but it's also an absolute key port.",
+      "zh": "摩卡这个名字源自咖啡产地，但它也是一个绝对重要的港口。"
+    },
+    {
+      "id": 197,
+      "startMs": 1187300,
+      "endMs": 1191860,
+      "en": "If you want to control the Bab-al-Mandeb Strait, that's where you want to be.",
+      "zh": "如果你想控制曼德布海峡，就必须控制那里。"
+    },
+    {
+      "id": 198,
+      "startMs": 1191860,
+      "endMs": 1196580,
+      "en": "So it would give the Houthis a much better chance of shutting it down, if they wanted to.",
+      "zh": "这样一来，如果胡塞武装愿意，就更有可能基本封锁这条海峡。"
+    },
+    {
+      "id": 199,
+      "startMs": 1196740,
+      "endMs": 1198980,
+      "en": "So, do you think a ceasefire is likely?",
+      "zh": "那么，你认为停火的可能性有多大？"
+    },
+    {
+      "id": 200,
+      "startMs": 1198980,
+      "endMs": 1201300,
+      "en": "You said there was a lull in fighting.",
+      "zh": "你刚才说战事曾一度平静。"
+    },
+    {
+      "id": 201,
+      "startMs": 1201480,
+      "endMs": 1206040,
+      "en": "Yes, I mean, there basically hadn't really been any movement or any real fighting for a long time.",
+      "zh": "是的，我是说，很长一段时间基本没有任何进展或真正的战斗。"
+    },
+    {
+      "id": 202,
+      "startMs": 1206040,
+      "endMs": 1209400,
+      "en": "I mean, there was a UN-led ceasefire that came in 2022.",
+      "zh": "我的意思是，联合国主导的停火于2022年生效。"
+    },
+    {
+      "id": 203,
+      "startMs": 1209400,
+      "endMs": 1216680,
+      "en": "And the Houthis essentially were increasing their control of the areas they control in the north and in Sanaa.",
+      "zh": "胡塞武装基本扩大了对北部及萨那控制区的掌控。"
+    },
+    {
+      "id": 204,
+      "startMs": 1217000,
+      "endMs": 1218600,
+      "en": "And the government down in the south.",
+      "zh": "政府军则控制南部。"
+    },
+    {
+      "id": 205,
+      "startMs": 1219160,
+      "endMs": 1222520,
+      "en": "As I say, what's happening with Iran has thrown all this up in the air.",
+      "zh": "正如我所说，伊朗发生的一切把这种局面彻底打乱了。"
+    },
+    {
+      "id": 206,
+      "startMs": 1222920,
+      "endMs": 1229240,
+      "en": "Saudi Arabia, which backs the pro-government forces, has come much more to the forefront again in Yemen.",
+      "zh": "支持亲政府力量的沙特阿拉伯，再次在也门事务中走到前台。"
+    },
+    {
+      "id": 207,
+      "startMs": 1229640,
+      "endMs": 1233240,
+      "en": "And in terms of the conflict with the Houthis, the Saudis, and also the UAE—",
+      "zh": "而且在与胡塞武装的冲突中，沙特以及阿联酋——"
+    },
+    {
+      "id": 208,
+      "startMs": 1233240,
+      "endMs": 1238280,
+      "en": "which was one of the big outside forces—had really wanted to get themselves out of this war.",
+      "zh": "这个曾经主要的外部力量——其实一直很想退出这场战争。"
+    },
+    {
+      "id": 209,
+      "startMs": 1238280,
+      "endMs": 1240440,
+      "en": "In their view, the war was achieving nothing.",
+      "zh": "在他们看来，这场战争没有取得任何成果。"
+    },
+    {
+      "id": 210,
+      "startMs": 1240680,
+      "endMs": 1248360,
+      "en": "But they've come back in now, and the Houthis—the Houthis, yes, they're Iranian-backed, yes, they are doing this to some extent to help Iran.",
+      "zh": "但他们现在又回来了。至于胡塞武装——简而言之——他们确实得到伊朗支持，也确实在一定程度上这样做是为了帮助伊朗。"
+    },
+    {
+      "id": 211,
+      "startMs": 1248600,
+      "endMs": 1251320,
+      "en": "They also have their own agenda; they're not just a proxy.",
+      "zh": "但他们也有自己的议程，并不只是代理人。"
+    },
+    {
+      "id": 212,
+      "startMs": 1251320,
+      "endMs": 1255080,
+      "en": "They want to increase their power, their control within Yemen as well.",
+      "zh": "他们也想增强自己在也门境内的势力和控制力。"
+    },
+    {
+      "id": 213,
+      "startMs": 1255560,
+      "endMs": 1256520,
+      "en": "Sebastian Usher.",
+      "zh": "塞巴斯蒂安·厄舍。"
+    },
+    {
+      "id": 214,
+      "startMs": 1257000,
+      "endMs": 1261160,
+      "en": "Final rallies have been held in the eastern German state of Saxony-Anhalt.",
+      "zh": "德国东部的萨克森-安哈尔特州举行了最后的竞选集会。"
+    },
+    {
+      "id": 215,
+      "startMs": 1261340,
+      "endMs": 1269180,
+      "en": "Ahead of Sunday's state election, polls suggest the far-right Alternative for Germany will win more than 40% of the vote there.",
+      "zh": "民调显示，在周日的州选举前，德国选择党将在那里赢得超过40%的选票。"
+    },
+    {
+      "id": 216,
+      "startMs": 1269340,
+      "endMs": 1273820,
+      "en": "And it could even, for the first time, be in a position to form a state government.",
+      "zh": "该党甚至可能首次有望组建州政府。"
+    },
+    {
+      "id": 217,
+      "startMs": 1274300,
+      "endMs": 1275660,
+      "en": "Campaigning has now ended.",
+      "zh": "竞选活动现已结束。"
+    },
+    {
+      "id": 218,
+      "startMs": 1276140,
+      "endMs": 1281420,
+      "en": "Our Europe correspondent, Jessica Parker, spoke to us from an AfD rally in the city of Magdeburg.",
+      "zh": "我们的欧洲记者杰西卡·帕克在马格德堡市的一场德国选择党集会上向我们报道。"
+    },
+    {
+      "id": 219,
+      "startMs": 1281900,
+      "endMs": 1287980,
+      "en": "If the AfD manages to secure power following Sunday's election in the state of Saxony-Anhalt,",
+      "zh": "如果德国选择党在周日的萨克森-安哈尔特州选举后成功掌权，"
+    },
+    {
+      "id": 220,
+      "startMs": 1287980,
+      "endMs": 1292700,
+      "en": "it would be the first time since the party was founded that it will have power at a state level.",
+      "zh": "这将是该党成立以来首次在州一级执政。"
+    },
+    {
+      "id": 221,
+      "startMs": 1293100,
+      "endMs": 1300540,
+      "en": "The states in Germany hold significant powers through their state parliaments: schools, policing and culture.",
+      "zh": "德国各州通过州议会掌握着重要权力，包括学校、警务和文化事务。"
+    },
+    {
+      "id": 222,
+      "startMs": 1301020,
+      "endMs": 1309660,
+      "en": "So the AfD would have real power here locally, and the party sees it as a potential stepping stone for its ambitions to take power at a federal level.",
+      "zh": "因此，德国选择党将在当地拥有真正的权力，并把这视为实现其联邦层面执政野心的潜在跳板。"
+    },
+    {
+      "id": 223,
+      "startMs": 1309980,
+      "endMs": 1316220,
+      "en": "Even though they are way ahead in the polls, there is no guarantee that they are going to get into power, because other parties will not work with them.",
+      "zh": "尽管他们在民调中遥遥领先，但并不能保证他们能够执政，因为其他政党不会与他们合作。"
+    },
+    {
+      "id": 224,
+      "startMs": 1316460,
+      "endMs": 1321340,
+      "en": "So they are looking to try and secure a parliamentary majority, which would be quite a feat.",
+      "zh": "因此，他们正努力争取议会多数席位，这将是一个不小的成就。"
+    },
+    {
+      "id": 225,
+      "startMs": 1321520,
+      "endMs": 1328800,
+      "en": "The party's critics, of which there are many—we are expecting demonstrations over the weekend—",
+      "zh": "该党的批评者很多；我们预计周末将举行示威；"
+    },
+    {
+      "id": 226,
+      "startMs": 1329120,
+      "endMs": 1333680,
+      "en": "they are deeply concerned about some of the things that the AfD outlines in its manifesto.",
+      "zh": "他们对德国选择党宣言中的一些内容深感担忧。"
+    },
+    {
+      "id": 227,
+      "startMs": 1334000,
+      "endMs": 1338080,
+      "en": "The manifesto talks about defunding anti-German art.",
+      "zh": "宣言提出要停止资助反德国艺术。"
+    },
+    {
+      "id": 228,
+      "startMs": 1338400,
+      "endMs": 1343200,
+      "en": "It uses the term ‘remigration’ in its manifesto, which is a bit of a slippery term,",
+      "zh": "宣言使用了“再移民”一词，这是一个含义有些模糊的术语，"
+    },
+    {
+      "id": 229,
+      "startMs": 1343280,
+      "endMs": 1348560,
+      "en": "but is understood by some people to mean the mass deportation of people from a migrant background.",
+      "zh": "但有人认为它指的是大规模驱逐移民背景人士。"
+    },
+    {
+      "id": 230,
+      "startMs": 1348640,
+      "endMs": 1354400,
+      "en": "The AfD insists its plans are focusing on people who are here illegally, but this is a controversial party.",
+      "zh": "德国选择党坚称其计划针对的是非法居留者，但这是一个颇具争议的政党。"
+    },
+    {
+      "id": 231,
+      "startMs": 1354400,
+      "endMs": 1362640,
+      "en": "It is designated by domestic intelligence here in the state as right-wing extremist, a designation the party rejects.",
+      "zh": "该州国内情报机构将其认定为极右翼组织，但该党否认这一认定。"
+    },
+    {
+      "id": 232,
+      "startMs": 1363500,
+      "endMs": 1372620,
+      "en": "The AfD is particularly strong in the former communist states of eastern Germany, such as Saxony-Anhalt, Thuringia and Saxony.",
+      "zh": "德国东部的前共产主义州德国选择党势力尤其强大，例如萨克森-安哈尔特、图林根和萨克森。"
+    },
+    {
+      "id": 233,
+      "startMs": 1372780,
+      "endMs": 1376060,
+      "en": "They have really managed to establish their strongholds.",
+      "zh": "他们确实已经建立起自己的势力据点。"
+    },
+    {
+      "id": 234,
+      "startMs": 1376140,
+      "endMs": 1379340,
+      "en": "Although they are popular in other parts of the country, they also lead national polls.",
+      "zh": "尽管他们在该国其他地区也很受欢迎，但在全国民调中同样领先。"
+    },
+    {
+      "id": 235,
+      "startMs": 1379500,
+      "endMs": 1385340,
+      "en": "I think there are a bunch of different things going on in terms of why they are popular here.",
+      "zh": "我认为，他们在这里受欢迎有很多不同的原因。"
+    },
+    {
+      "id": 236,
+      "startMs": 1385980,
+      "endMs": 1390540,
+      "en": "People talk about having a real anxiety for their future.",
+      "zh": "人们谈到对未来确实感到焦虑。"
+    },
+    {
+      "id": 237,
+      "startMs": 1390540,
+      "endMs": 1396060,
+      "en": "I think there has been a sense of nostalgia sometimes that the AfD manages to use,",
+      "zh": "我认为，德国选择党有时会利用人们的一种怀旧情绪，"
+    },
+    {
+      "id": 238,
+      "startMs": 1396380,
+      "endMs": 1401580,
+      "en": "but also I think they have managed to tap into people's concerns around immigration.",
+      "zh": "但我也认为，他们还成功触及了人们对移民问题的担忧。"
+    },
+    {
+      "id": 239,
+      "startMs": 1401740,
+      "endMs": 1406540,
+      "en": "A lot of people talk about not wanting to send support anymore to Ukraine.",
+      "zh": "很多人谈到不想再向乌克兰提供支持。"
+    },
+    {
+      "id": 240,
+      "startMs": 1406620,
+      "endMs": 1408700,
+      "en": "That comes up frequently.",
+      "zh": "这种说法频繁出现。"
+    },
+    {
+      "id": 241,
+      "startMs": 1409100,
+      "endMs": 1411180,
+      "en": "Jessica Parker in central Germany.",
+      "zh": "来自德国中部的杰西卡·帕克报道。"
+    },
+    {
+      "id": 242,
+      "startMs": 1412240,
+      "endMs": 1418400,
+      "en": "In our previous podcast, we mentioned briefly that the Italian prime minister had reached an important political milestone.",
+      "zh": "在上一期播客中，我们曾简要提到意大利总理达到了一个重要的政治里程碑。"
+    },
+    {
+      "id": 243,
+      "startMs": 1418720,
+      "endMs": 1429360,
+      "en": "On Friday, Ms. Meloni's government had been in office for 1,413 days,",
+      "zh": "周五，梅洛尼女士的政府已执政1,413天，"
+    },
+    {
+      "id": 244,
+      "startMs": 1429840,
+      "endMs": 1437760,
+      "en": "making it the longest-serving administration in the history of the Italian Republic, surpassing the previous record set by Silvio Berlusconi.",
+      "zh": "成为意大利共和国历史上执政时间最长的政府，超过了西尔维奥·贝卢斯科尼创下的纪录。"
+    },
+    {
+      "id": 245,
+      "startMs": 1438320,
+      "endMs": 1443680,
+      "en": "It's a remarkable achievement in a country famous for governments that do not tend to last very long.",
+      "zh": "在一个政府往往难以长期执政的国家，这是一项非凡成就。"
+    },
+    {
+      "id": 246,
+      "startMs": 1444240,
+      "endMs": 1449520,
+      "en": "Our reporter, Carla Conti, told us more about why Ms. Meloni has outlasted her predecessors.",
+      "zh": "我们的记者卡拉·孔蒂进一步介绍了梅洛尼女士为何比前任执政更久。"
+    },
+    {
+      "id": 247,
+      "startMs": 1449840,
+      "endMs": 1456480,
+      "en": "Well, partly because Giorgia Meloni has proved to be a much more pragmatic politician in government than many expected.",
+      "zh": "部分原因在于，乔治娅·梅洛尼证明自己在政府中的行事比许多人预期的更加务实。"
+    },
+    {
+      "id": 248,
+      "startMs": 1456800,
+      "endMs": 1464240,
+      "en": "She first came to power in 2022 as a hardline nationalist, but once in office she actually became more moderate,",
+      "zh": "她在2022年以强硬民族主义者的形象上台，但执政后实际上变得更加温和，"
+    },
+    {
+      "id": 249,
+      "startMs": 1464240,
+      "endMs": 1466880,
+      "en": "on some of the issues that could have caused real trouble.",
+      "zh": "在一些本可能引发严重麻烦的问题上尤其如此。"
+    },
+    {
+      "id": 250,
+      "startMs": 1466880,
+      "endMs": 1471040,
+      "en": "So, for example, she has kept Italy firmly behind Ukraine.",
+      "zh": "例如，她一直坚定支持乌克兰。"
+    },
+    {
+      "id": 251,
+      "startMs": 1471360,
+      "endMs": 1481940,
+      "en": "She has worked constructively with Brussels and maintained fairly tight control of the public finances, and at home she has also been very good at managing her coalition.",
+      "zh": "她与布鲁塞尔方面进行了建设性合作，并相当严格地控制公共财政；在国内，她也很善于管理执政联盟。"
+    },
+    {
+      "id": 252,
+      "startMs": 1482260,
+      "endMs": 1486500,
+      "en": "There have been tensions with Matteo Salvini's League party as well as Forza Italia,",
+      "zh": "她与马泰奥·萨尔维尼领导的联盟党以及意大利力量党都曾发生紧张关系，"
+    },
+    {
+      "id": 253,
+      "startMs": 1486500,
+      "endMs": 1495540,
+      "en": "but she has largely avoided the sort of major political fights or divisive reforms that have brought down Italian governments in the past.",
+      "zh": "但她基本避免了过去曾导致意大利政府垮台的重大政治斗争或分裂性改革。"
+    },
+    {
+      "id": 254,
+      "startMs": 1495860,
+      "endMs": 1499940,
+      "en": "And it helps that the opposition is largely fragmented as well.",
+      "zh": "此外，反对派总体上四分五裂，这也对她有利。"
+    },
+    {
+      "id": 255,
+      "startMs": 1500420,
+      "endMs": 1507300,
+      "en": "So really, a lot of it comes down to the fact that her coalition partners have had more to gain by staying than walking away.",
+      "zh": "归根结底，很大程度上是因为她的联盟伙伴留下来比退出能获得更多。"
+    },
+    {
+      "id": 256,
+      "startMs": 1507540,
+      "endMs": 1509540,
+      "en": "And they may not always agree with her,",
+      "zh": "他们可能并不总是同意她的观点，"
+    },
+    {
+      "id": 257,
+      "startMs": 1509540,
+      "endMs": 1517780,
+      "en": "but Ms. Meloni has been quite effective at making sure that those disagreements do not ever become full-blown political crises.",
+      "zh": "但梅洛尼女士很有效地确保这些分歧不会演变成全面的政治危机。"
+    },
+    {
+      "id": 258,
+      "startMs": 1518020,
+      "endMs": 1523140,
+      "en": "Okay, so she has had some time in the job. We are in 2026 now. How are Italians viewing her?",
+      "zh": "好，她已经执政一段时间了。现在是2026年，意大利人如何看待她？"
+    },
+    {
+      "id": 259,
+      "startMs": 1524260,
+      "endMs": 1525940,
+      "en": "Opinion is certainly divided.",
+      "zh": "意见当然存在分歧。"
+    },
+    {
+      "id": 260,
+      "startMs": 1526020,
+      "endMs": 1533460,
+      "en": "Her supporters would point to some generally positive figures, things like unemployment being at a record low at the moment,",
+      "zh": "她的支持者会指出一些总体积极的数字，例如目前失业率处于历史低位，"
+    },
+    {
+      "id": 261,
+      "startMs": 1533540,
+      "endMs": 1542180,
+      "en": "Italy's borrowing cost falling sharply, and irregular migrant arrivals dropping sharply since their peak in 2023.",
+      "zh": "意大利借贷成本大幅下降，非正规移民抵达人数也从2023年的峰值起大幅减少。"
+    },
+    {
+      "id": 262,
+      "startMs": 1542580,
+      "endMs": 1545460,
+      "en": "And Ms. Meloni herself has remained quite popular.",
+      "zh": "梅洛尼女士本人也一直颇受欢迎。"
+    },
+    {
+      "id": 263,
+      "startMs": 1545460,
+      "endMs": 1552180,
+      "en": "She has cultivated this image as a down-to-earth, direct and self-assured politician,",
+      "zh": "她塑造了一个脚踏实地、直率而自信的政治家形象，"
+    },
+    {
+      "id": 264,
+      "startMs": 1552420,
+      "endMs": 1555620,
+      "en": "someone that can connect with ordinary Italians.",
+      "zh": "能够与普通意大利人建立联系。"
+    },
+    {
+      "id": 265,
+      "startMs": 1556180,
+      "endMs": 1560900,
+      "en": "But longevity does not necessarily mean that Italians think that the government has delivered.",
+      "zh": "但执政时间长并不一定意味着意大利人认为政府交出了成果。"
+    },
+    {
+      "id": 266,
+      "startMs": 1561300,
+      "endMs": 1565220,
+      "en": "Wages have stagnated, economic growth remains sluggish,",
+      "zh": "工资停滞不前，经济增长依然乏力，"
+    },
+    {
+      "id": 267,
+      "startMs": 1565220,
+      "endMs": 1573060,
+      "en": "and things like the cost of living, immigration, healthcare and security are still major concerns for voters.",
+      "zh": "而生活成本、移民、医疗和安全等问题仍是选民最关心的事项。"
+    },
+    {
+      "id": 268,
+      "startMs": 1573300,
+      "endMs": 1578820,
+      "en": "Okay, so the challenges ahead for Giorgia Meloni—and next year's elections are expected.",
+      "zh": "好，那么乔治娅·梅洛尼面临哪些挑战？明年预计将举行选举。"
+    },
+    {
+      "id": 269,
+      "startMs": 1579220,
+      "endMs": 1584840,
+      "en": "Like you said, with the government and her position there, what are the polls saying about her hopes for next year?",
+      "zh": "正如你所说，鉴于政府和她目前的地位，民调对她明年的希望有何显示？"
+    },
+    {
+      "id": 270,
+      "startMs": 1585160,
+      "endMs": 1590440,
+      "en": "Well, there are certainly signs that her position is not quite as dominant as it used to be.",
+      "zh": "确实有迹象表明，她的地位已不像过去那样占据主导。"
+    },
+    {
+      "id": 271,
+      "startMs": 1590760,
+      "endMs": 1598600,
+      "en": "Her Brothers of Italy party is still comfortably the biggest single party, polling at around 26%,",
+      "zh": "她领导的意大利兄弟党仍稳居最大单一政党，支持率约为26%，"
+    },
+    {
+      "id": 272,
+      "startMs": 1599000,
+      "endMs": 1604360,
+      "en": "but the gap between her centre-right coalition and the opposition has narrowed significantly.",
+      "zh": "但她的中右翼联盟与反对派之间的差距已明显缩小。"
+    },
+    {
+      "id": 273,
+      "startMs": 1604840,
+      "endMs": 1612120,
+      "en": "And interestingly enough, one of the biggest threats this time is not coming from the left or the centre, but from within the right.",
+      "zh": "有趣的是，这次最大的威胁之一并非来自左翼或中间派，而是来自右翼内部。"
+    },
+    {
+      "id": 274,
+      "startMs": 1612600,
+      "endMs": 1621480,
+      "en": "The former army general Roberto Vannacci has launched his own nationalist political party and is polling at around 7%.",
+      "zh": "前陆军将军罗伯托·万纳奇成立了自己的民族主义政党，支持率约为7%。"
+    },
+    {
+      "id": 275,
+      "startMs": 1621880,
+      "endMs": 1630040,
+      "en": "And he has been attracting voters who think that Ms. Meloni has become too moderate, too pro-European and too supportive of Ukraine.",
+      "zh": "他吸引了一些选民，他们认为梅洛尼女士变得过于温和、过于亲欧，也过于支持乌克兰。"
+    },
+    {
+      "id": 276,
+      "startMs": 1630360,
+      "endMs": 1637560,
+      "en": "So the question now is whether she can convince Italians that this stability has actually improved their lives,",
+      "zh": "所以现在的问题是，她能否说服意大利人，这种稳定确实改善了他们的生活，"
+    },
+    {
+      "id": 277,
+      "startMs": 1637720,
+      "endMs": 1640440,
+      "en": "and persuade them to give her another term next year.",
+      "zh": "并劝服他们明年再给她一个任期。"
+    },
+    {
+      "id": 278,
+      "startMs": 1641000,
+      "endMs": 1642440,
+      "en": "Carla Conti.",
+      "zh": "卡拉·孔蒂报道。"
+    },
+    {
+      "id": 279,
+      "startMs": 1643020,
+      "endMs": 1652300,
+      "en": "We end at the US Open tennis, where two-time champion Naomi Osaka has called for fans at the Grand Slam event to respect the sport's etiquette.",
+      "zh": "最后来到美国网球公开赛：两届冠军大坂直美呼吁大满贯赛事的观众尊重这项运动的礼仪。"
+    },
+    {
+      "id": 280,
+      "startMs": 1652780,
+      "endMs": 1657100,
+      "en": "After her first-round match was disrupted by spectators filming themselves.",
+      "zh": "她的首轮比赛受到观众自拍的干扰。"
+    },
+    {
+      "id": 281,
+      "startMs": 1657660,
+      "endMs": 1662140,
+      "en": "One group held a photo shoot in the hospitality suite while play was going on.",
+      "zh": "比赛进行期间，有一群人在贵宾接待套房内拍摄照片。"
+    },
+    {
+      "id": 282,
+      "startMs": 1662620,
+      "endMs": 1670060,
+      "en": "Organisers have invited a record number of social media influencers to the event, around a hundred, which is double last year's figure.",
+      "zh": "组织方邀请了创纪录数量的社交媒体网红参加赛事，约有100人，是去年的两倍。"
+    },
+    {
+      "id": 283,
+      "startMs": 1670700,
+      "endMs": 1673100,
+      "en": "But some of their conduct has drawn criticism.",
+      "zh": "但他们的一些行为受到了批评。"
+    },
+    {
+      "id": 284,
+      "startMs": 1673580,
+      "endMs": 1676380,
+      "en": "This report from our sports news correspondent, Andy Swiss.",
+      "zh": "以下是体育新闻记者安迪·斯威斯的报道。"
+    },
+    {
+      "id": 285,
+      "startMs": 1679920,
+      "endMs": 1681840,
+      "en": "Oh hey, guys! We're back! Did you miss us? 'Cause we missed you! Woo!",
+      "zh": "嗨，大家好！我们回来了！你们想我们吗？因为我们想你们了！呜呼！"
+    },
+    {
+      "id": 286,
+      "startMs": 1683440,
+      "endMs": 1686880,
+      "en": "Forget playing, for some, it's all about the posing.",
+      "zh": "对一些人来说，别管比赛了，重要的是摆拍。"
+    },
+    {
+      "id": 287,
+      "startMs": 1687200,
+      "endMs": 1694960,
+      "en": "The sight and sound of influencers filming themselves during US Open matches has become familiar, if not always popular.",
+      "zh": "在美国网球公开赛比赛期间，网红自拍的身影和声音已司空见惯，尽管并不总受欢迎。"
+    },
+    {
+      "id": 288,
+      "startMs": 1695200,
+      "endMs": 1704160,
+      "en": "During Naomi Osaka's opening match, the umpire reprimanded some fans for holding a photo shoot in their hospitality suite while play was going on.",
+      "zh": "在大坂直美的首场比赛中，裁判斥责了一些观众：比赛进行时，他们却在贵宾接待套房内拍摄照片。"
+    },
+    {
+      "id": 289,
+      "startMs": 1704560,
+      "endMs": 1709280,
+      "en": "And Osaka herself says the influencers at Flushing Meadows need to be more thoughtful.",
+      "zh": "大坂直美本人表示，来到法拉盛草原的网红需要多为比赛着想。"
+    },
+    {
+      "id": 290,
+      "startMs": 1709440,
+      "endMs": 1713920,
+      "en": "I think obviously if you come to a sporting event, you have to respect the sport.",
+      "zh": "我觉得，显然，如果你来到体育赛事现场，就必须尊重这项运动。"
+    },
+    {
+      "id": 291,
+      "startMs": 1714160,
+      "endMs": 1721040,
+      "en": "And I feel like it's common courtesy to like read up on the sport, especially like the etiquette.",
+      "zh": "我觉得，提前了解这项运动，尤其是观赛礼仪，是基本的礼貌。"
+    },
+    {
+      "id": 292,
+      "startMs": 1721440,
+      "endMs": 1727440,
+      "en": "Around a hundred influencers and content creators have been accredited for the tournament, twice as many as last year.",
+      "zh": "约有100名网红和内容创作者获得了本届赛事的认证，是去年的两倍。"
+    },
+    {
+      "id": 293,
+      "startMs": 1727920,
+      "endMs": 1734800,
+      "en": "In a statement, organisers said they wanted to attract new audiences, but also needed to ensure spectators didn't interfere with the action.",
+      "zh": "组织方在声明中说，他们希望吸引新的观众，同时也需要确保观众不干扰比赛。"
+    },
+    {
+      "id": 294,
+      "startMs": 1735200,
+      "endMs": 1737760,
+      "en": "More screen messages now appear around the ground.",
+      "zh": "他们现在在场地各处增设更多屏幕提示。"
+    },
+    {
+      "id": 295,
+      "startMs": 1737760,
+      "endMs": 1745060,
+      "en": "They're asking fans to refrain from disruptive activities, including noise levels, flash photography and ring lights.",
+      "zh": "他们要求观众避免扰乱活动，包括制造噪音、使用闪光灯拍照和环形灯。"
+    },
+    {
+      "id": 296,
+      "startMs": 1745540,
+      "endMs": 1750340,
+      "en": "Tennis traditionalists will hope the sport's new audience doesn't come at the cost of its old values.",
+      "zh": "网球传统主义者希望，这项运动吸引新观众不会以牺牲旧有价值为代价。"
+    },
+    {
+      "id": 297,
+      "startMs": 1750500,
+      "endMs": 1755860,
+      "en": "Andy Swiss. And that's all from us for now.",
+      "zh": "安迪·斯威斯。以上就是目前的全部报道。"
+    },
+    {
+      "id": 298,
+      "startMs": 1755940,
+      "endMs": 1760020,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 299,
+      "startMs": 1760180,
+      "endMs": 1765860,
+      "en": "You can also find us on X at @BBCWorldService. Use the hashtag #GlobalNewsPod.",
+      "zh": "你也可以在X平台通过 @BBCWorldService 找到我们，使用话题标签 #GlobalNewsPod。"
+    },
+    {
+      "id": 300,
+      "startMs": 1766420,
+      "endMs": 1771700,
+      "en": "And don't forget our sister podcast, The Global Story, which goes in depth and beyond the headlines on one big story.",
+      "zh": "别忘了我们的姊妹播客《全球故事》，它将围绕一个重大故事深入报道，带你超越新闻标题。"
+    },
+    {
+      "id": 301,
+      "startMs": 1772340,
+      "endMs": 1778020,
+      "en": "This edition of the Global News Podcast was mixed by Mark Picketts, and the producers were Paul Day and Helena Burke.",
+      "zh": "本期《全球新闻播客》由马克·皮克茨负责混音，制片人是保罗·戴和海伦娜·伯克。"
+    },
+    {
+      "id": 302,
+      "startMs": 1778180,
+      "endMs": 1780500,
+      "en": "The editor is Karen Martin, and I'm Ankur Desai.",
+      "zh": "编辑是凯伦·马丁，我是安库尔·德赛。"
+    },
+    {
+      "id": 303,
+      "startMs": 1780740,
+      "endMs": 1782100,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}

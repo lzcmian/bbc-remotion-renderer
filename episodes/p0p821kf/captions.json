@@ -1,0 +1,1915 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "4 September 2026"
+  },
+  "durationMs": 1577480,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3840,
+      "en": "This is The Happy Pod from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《The Happy Pod》。"
+    },
+    {
+      "id": 2,
+      "startMs": 9760,
+      "endMs": 16000,
+      "en": "I'm Holly Gibbs, and in this edition: new hope for people waiting for organ transplants.",
+      "zh": "我是 Holly Gibbs。本期节目：等待器官移植的人迎来新的希望。"
+    },
+    {
+      "id": 3,
+      "startMs": 16320,
+      "endMs": 21920,
+      "en": "The biggest issue that we have currently in transplantation is the organ shortage; it's a crisis.",
+      "zh": "目前移植领域最大的问题是器官短缺，这是一场危机。"
+    },
+    {
+      "id": 4,
+      "startMs": 22240,
+      "endMs": 27040,
+      "en": "The majority of our patients do not have access to organs in a timely manner.",
+      "zh": "我们的大多数患者无法及时获得器官。"
+    },
+    {
+      "id": 5,
+      "startMs": 27200,
+      "endMs": 32320,
+      "en": "We hear about the man who lived with a pig's kidney for a record nine months.",
+      "zh": "我们将了解一名靠猪肾生活了创纪录九个月的男子。"
+    },
+    {
+      "id": 6,
+      "startMs": 32820,
+      "endMs": 39540,
+      "en": "Also on this podcast: it's so unusual, a giant flightless night parrot found only in New Zealand.",
+      "zh": "本期还将介绍一种非常特别的鸟：只在新西兰发现的巨大夜行不会飞鹦鹉。"
+    },
+    {
+      "id": 7,
+      "startMs": 40100,
+      "endMs": 44340,
+      "en": "It looks endearing, of course. It's got such unusual biology.",
+      "zh": "它当然很惹人喜爱，而且拥有非常独特的生理特征。"
+    },
+    {
+      "id": 8,
+      "startMs": 44500,
+      "endMs": 47780,
+      "en": "The rare bird brought back from the brink of extinction.",
+      "zh": "这种珍稀鸟类从灭绝边缘被挽救回来。"
+    },
+    {
+      "id": 9,
+      "startMs": 47860,
+      "endMs": 52420,
+      "en": "You can get really, really close to the tapestry, quite unlike you could in Bayeux in a way.",
+      "zh": "你可以非常近距离地观看这幅挂毯，这在某种程度上完全不同于在巴约的观赏体验。"
+    },
+    {
+      "id": 10,
+      "startMs": 52580,
+      "endMs": 60020,
+      "en": "So I think people are just going to be overwhelmed by the detail and the fact that it brings that period of the 11th century to life.",
+      "zh": "所以我想，人们会被它的细节，以及它让11世纪那个时代栩栩如生的效果深深震撼。"
+    },
+    {
+      "id": 11,
+      "startMs": 60180,
+      "endMs": 71300,
+      "en": "The new display showing the world-famous Bayeux Tapestry as it has never been seen before, plus the DJ making music with strangers on the streets of New York.",
+      "zh": "全新展陈让这幅世界闻名的巴约挂毯以前所未有的方式呈现在观众面前；还有在纽约街头与陌生人一起创作音乐的 DJ。"
+    },
+    {
+      "id": 12,
+      "startMs": 73600,
+      "endMs": 74880,
+      "en": "I've done London.",
+      "zh": "我已经完成了伦敦。"
+    },
+    {
+      "id": 13,
+      "startMs": 75360,
+      "endMs": 79040,
+      "en": "I've almost got Tokyo done, and I've got Paris almost done.",
+      "zh": "东京我也快完成了，巴黎也差不多了。"
+    },
+    {
+      "id": 14,
+      "startMs": 79200,
+      "endMs": 80160,
+      "en": "I've already done New York.",
+      "zh": "纽约我已经完成了。"
+    },
+    {
+      "id": 15,
+      "startMs": 82040,
+      "endMs": 86040,
+      "en": "The composer turning the world's underground trains into melodies.",
+      "zh": "这位作曲家把世界各地的地铁列车变成了旋律。"
+    },
+    {
+      "id": 16,
+      "startMs": 91780,
+      "endMs": 98740,
+      "en": "We start with a medical breakthrough that could offer new hope to people around the world waiting for organ transplants.",
+      "zh": "我们先来关注一项医疗突破，它可能为世界各地等待器官移植的人带来新的希望。"
+    },
+    {
+      "id": 17,
+      "startMs": 99060,
+      "endMs": 104260,
+      "en": "Every year, tens of thousands die because there simply aren't enough human donor organs available.",
+      "zh": "每年都有数万人因为没有足够的人体捐赠器官而死亡。"
+    },
+    {
+      "id": 18,
+      "startMs": 104740,
+      "endMs": 111300,
+      "en": "But now, a man in the US has survived for a record nine months with a kidney from a genetically modified pig.",
+      "zh": "但现在，美国一名男子依靠一只基因改造猪的肾脏存活了创纪录的九个月。"
+    },
+    {
+      "id": 19,
+      "startMs": 111780,
+      "endMs": 117460,
+      "en": "Speaking before the transplant, 66-year-old Tim Andrews explained how much it meant to him.",
+      "zh": "移植手术前，66岁的 Tim Andrews 讲述了这对他有多么重要。"
+    },
+    {
+      "id": 20,
+      "startMs": 117940,
+      "endMs": 124020,
+      "en": "Hope, 'cause I'm in a room with a bunch of people that are having the same problem—depressed, tired.",
+      "zh": "希望。因为我和一群有着同样问题的人待在一个房间里——他们沮丧、疲惫。"
+    },
+    {
+      "id": 21,
+      "startMs": 124340,
+      "endMs": 128260,
+      "en": "Three quarters of them are in wheelchairs because they've been so exhausted.",
+      "zh": "其中四分之三的人因为过度疲惫而坐在轮椅上。"
+    },
+    {
+      "id": 22,
+      "startMs": 129300,
+      "endMs": 133540,
+      "en": "I'm like, this is hope. Hope is the biggest thing.",
+      "zh": "我当时就想，这就是希望。希望是最重要的。"
+    },
+    {
+      "id": 23,
+      "startMs": 134720,
+      "endMs": 140420,
+      "en": "You know, the chance to be free from the machine and live your life.",
+      "zh": "你知道，那意味着有机会摆脱机器，过自己的生活。"
+    },
+    {
+      "id": 24,
+      "startMs": 141060,
+      "endMs": 146100,
+      "en": "Mr Andrews went on to receive a human donor kidney and is doing well.",
+      "zh": "安德鲁斯先生后来接受了人类捐赠的肾脏，目前情况良好。"
+    },
+    {
+      "id": 25,
+      "startMs": 146500,
+      "endMs": 150580,
+      "en": "Dr Leonardo Riella from Harvard Medical School led the team.",
+      "zh": "哈佛医学院的 Leonardo Riella 医生带领了这支团队。"
+    },
+    {
+      "id": 26,
+      "startMs": 150900,
+      "endMs": 155540,
+      "en": "He told my colleague Gary O'Donoghue why this breakthrough was so significant.",
+      "zh": "他向我的同事 Gary O'Donoghue 解释了这项突破为何意义重大。"
+    },
+    {
+      "id": 27,
+      "startMs": 155940,
+      "endMs": 159780,
+      "en": "We passed through a major milestone for two reasons, I think.",
+      "zh": "我认为，我们因两个原因跨过了一个重要里程碑。"
+    },
+    {
+      "id": 28,
+      "startMs": 159780,
+      "endMs": 170020,
+      "en": "Number one, we had a pig kidney working and performing all the expected kidney functions for more than nine months, allowing our patient to be off dialysis.",
+      "zh": "第一，猪肾工作了九个多月，执行了肾脏应有的全部功能，让患者得以停止透析。"
+    },
+    {
+      "id": 29,
+      "startMs": 170580,
+      "endMs": 177780,
+      "en": "And second, we were able to transition this patient from a pig kidney to a human kidney.",
+      "zh": "第二，我们成功让这名患者从猪肾过渡到了人类肾脏。"
+    },
+    {
+      "id": 30,
+      "startMs": 178020,
+      "endMs": 182180,
+      "en": "This was something that scientists and physicians had concerns about.",
+      "zh": "科学家和医生此前对此一直有所担忧。"
+    },
+    {
+      "id": 31,
+      "startMs": 182660,
+      "endMs": 189780,
+      "en": "They had concerns that doing a pig kidney first might prevent patients from having the option of human transplantation in the future.",
+      "zh": "他们担心先接受猪肾移植，可能会让患者未来无法选择人类器官移植。"
+    },
+    {
+      "id": 32,
+      "startMs": 189780,
+      "endMs": 196180,
+      "en": "So those are two very important milestones that we were able to pass. And this is no ordinary pig kidney.",
+      "zh": "所以，这是我们成功跨过的两个重要里程碑。而且，这可不是普通的猪肾。"
+    },
+    {
+      "id": 33,
+      "startMs": 196180,
+      "endMs": 200920,
+      "en": "You had to sort of do some genetic modifications to the pigs themselves to begin with, correct?",
+      "zh": "首先，你们必须对猪本身进行一些基因改造，对吗？"
+    },
+    {
+      "id": 34,
+      "startMs": 201560,
+      "endMs": 214200,
+      "en": "Correct, these are very unique pigs. They are cloned and they have genetic edits to improve the compatibility between the pig kidney and humans.",
+      "zh": "没错，这些猪非常特殊。它们是克隆的，并经过基因编辑，以提高猪肾与人体的相容性。"
+    },
+    {
+      "id": 35,
+      "startMs": 214760,
+      "endMs": 217640,
+      "en": "Now, this is a kind of bridge technique, as I understand it.",
+      "zh": "据我理解，这是一种桥接技术。"
+    },
+    {
+      "id": 36,
+      "startMs": 217640,
+      "endMs": 228760,
+      "en": "While you wait for a human kidney to be available—a donor kidney—what problems did you encounter after you'd implanted this kidney? Because it did eventually fail, didn't it?",
+      "zh": "在等待可用的人类捐赠肾脏期间，植入这只肾脏后你们遇到了什么问题？因为它最终确实失效了，对吗？"
+    },
+    {
+      "id": 37,
+      "startMs": 229000,
+      "endMs": 237160,
+      "en": "Yes, the immune system of humans does recognize certain things in the pig that are slightly different from a traditional human transplant.",
+      "zh": "是的，人体免疫系统确实能识别出猪身上某些与传统人体移植略有不同的特征。"
+    },
+    {
+      "id": 38,
+      "startMs": 237160,
+      "endMs": 246680,
+      "en": "So I think they're learning, in terms of trying to understand the differences between a human and a pig kidney and how the immune system recognizes that.",
+      "zh": "所以，我认为他们正在学习，努力理解人类肾脏和猪肾之间的差异，以及免疫系统如何识别这些差异。"
+    },
+    {
+      "id": 39,
+      "startMs": 246920,
+      "endMs": 256200,
+      "en": "And second, how can we tweak, how can we change slightly our anti-rejection meds in order to control that in the long term?",
+      "zh": "第二，我们怎样微调、稍微改变抗排斥药物，才能长期控制这种情况？"
+    },
+    {
+      "id": 40,
+      "startMs": 256200,
+      "endMs": 259240,
+      "en": "So I think we're sort of getting in the right direction.",
+      "zh": "所以我认为，我们大致找对了方向。"
+    },
+    {
+      "id": 41,
+      "startMs": 259340,
+      "endMs": 266220,
+      "en": "And we have another patient who just passed the nine-month mark with the pig kidney, so these are very exciting findings so far.",
+      "zh": "我们还有另一名患者刚刚让猪肾工作超过九个月，所以目前这些发现非常令人振奋。"
+    },
+    {
+      "id": 42,
+      "startMs": 266380,
+      "endMs": 276140,
+      "en": "And for those who don't know, give us an idea of what this means in terms of the patient's quality of life while they're waiting for a donor kidney.",
+      "zh": "对于不了解情况的人，请说明一下：患者等待捐赠肾脏期间，这对他们的生活质量意味着什么？"
+    },
+    {
+      "id": 43,
+      "startMs": 276460,
+      "endMs": 287340,
+      "en": "So the biggest issue that we have currently in transplantation is the organ shortage; it's a crisis because we know that for patients with kidney failure,",
+      "zh": "目前移植领域最大的问题是器官短缺，这是一场危机，因为我们知道，对肾衰竭患者来说，"
+    },
+    {
+      "id": 44,
+      "startMs": 288140,
+      "endMs": 292540,
+      "en": "the best treatment option for the majority is to get a transplant. And unfortunately,",
+      "zh": "对大多数人来说，最好的治疗选择是接受移植。但遗憾的是，"
+    },
+    {
+      "id": 45,
+      "startMs": 293020,
+      "endMs": 301420,
+      "en": "the majority of our patients do not have access to organs in a timely manner, so they have to remain on dialysis.",
+      "zh": "我们的大多数患者无法及时获得器官，因此只能继续透析。"
+    },
+    {
+      "id": 46,
+      "startMs": 301500,
+      "endMs": 313580,
+      "en": "And dialysis is an incredible technology and innovation that keeps patients alive, but unfortunately, it is a treatment that cannot reproduce the function of a true kidney.",
+      "zh": "透析是让患者存活的非凡技术和创新，但遗憾的是，它无法重现真正肾脏的功能。"
+    },
+    {
+      "id": 47,
+      "startMs": 313820,
+      "endMs": 318700,
+      "en": "So you go to a dialysis centre, you filter your blood three times a week for three or four hours,",
+      "zh": "你要去透析中心，每周过滤血液三次，每次三到四小时，"
+    },
+    {
+      "id": 48,
+      "startMs": 319020,
+      "endMs": 324460,
+      "en": "and the consequence is that many patients who stay on dialysis",
+      "zh": "结果是，许多持续透析的患者"
+    },
+    {
+      "id": 49,
+      "startMs": 324700,
+      "endMs": 328700,
+      "en": "start developing cardiovascular disease and worse outcomes,",
+      "zh": "开始患上心血管疾病，病情结局也更差，"
+    },
+    {
+      "id": 50,
+      "startMs": 329100,
+      "endMs": 335820,
+      "en": "and unfortunately many die or even become too sick to receive a kidney transplant while waiting for their promised kidney.",
+      "zh": "而且遗憾的是，许多人会死亡，甚至在等待承诺中的肾脏时病重到无法接受肾移植。"
+    },
+    {
+      "id": 51,
+      "startMs": 336140,
+      "endMs": 344140,
+      "en": "Do you now feel that this is something that can be scaled, that this is something that will be suitable for a lot of patients in this position?",
+      "zh": "你现在是否认为，这项技术可以扩大应用，适合许多处于这种状况的患者？"
+    },
+    {
+      "id": 52,
+      "startMs": 344380,
+      "endMs": 353600,
+      "en": "This is what we hope in the long term: that we are able to provide xenotransplantation as an alternative treatment for these patients with kidney failure.",
+      "zh": "这是我们长期的希望：能够为这些肾衰竭患者提供异种移植这一替代治疗。"
+    },
+    {
+      "id": 53,
+      "startMs": 354000,
+      "endMs": 365360,
+      "en": "Our ambition is that with a pig kidney, we may be able to do additional genetic edits to potentially create an invisible organ once transplanted,",
+      "zh": "我们的目标是，利用猪肾进行更多基因编辑，或许能制造出移植后隐形的器官，"
+    },
+    {
+      "id": 54,
+      "startMs": 365440,
+      "endMs": 368720,
+      "en": "and this would overcome the second biggest challenge in transplantation.",
+      "zh": "这将克服移植领域的第二大挑战。"
+    },
+    {
+      "id": 55,
+      "startMs": 368720,
+      "endMs": 374640,
+      "en": "That is that patients require to take anti-rejection meds for the rest of their lives in order to prevent rejection.",
+      "zh": "也就是患者必须终生服用抗排斥药物，以防止排斥反应。"
+    },
+    {
+      "id": 56,
+      "startMs": 375040,
+      "endMs": 380880,
+      "en": "But now imagine that by doing these edits and creating these organs that could be invisible to the immune system,",
+      "zh": "但请想象一下，如果通过这些编辑制造出能对免疫系统隐形的器官，"
+    },
+    {
+      "id": 57,
+      "startMs": 380880,
+      "endMs": 385760,
+      "en": "these patients will not require to take anti-rejection meds in the long term.",
+      "zh": "这些患者长期就不再需要服用抗排斥药物。"
+    },
+    {
+      "id": 58,
+      "startMs": 385760,
+      "endMs": 387840,
+      "en": "So this would be a real game-changer.",
+      "zh": "所以，这将真正改变整个局面。"
+    },
+    {
+      "id": 59,
+      "startMs": 388240,
+      "endMs": 390240,
+      "en": "That was Dr Leonardo Riella.",
+      "zh": "刚才是 Leonardo Riella 医生。"
+    },
+    {
+      "id": 60,
+      "startMs": 390960,
+      "endMs": 396800,
+      "en": "To New Zealand next, and a rare flightless parrot that's been brought back from the brink of extinction.",
+      "zh": "接下来去新西兰，了解一种从灭绝边缘被救回来的珍稀不会飞的鹦鹉。"
+    },
+    {
+      "id": 61,
+      "startMs": 398400,
+      "endMs": 401920,
+      "en": "The male intersperses the booming with chinging.",
+      "zh": "雄鸟在 booming 叫声中穿插 chinging 叫声。"
+    },
+    {
+      "id": 62,
+      "startMs": 402980,
+      "endMs": 410180,
+      "en": "The chinging call is thought to help females attracted by the booming pinpoint the male's location.",
+      "zh": "人们认为，chinging 叫声能帮助被 booming 吸引的雌鸟确定雄鸟的位置。"
+    },
+    {
+      "id": 63,
+      "startMs": 412000,
+      "endMs": 418080,
+      "en": "The male alternates between booming and chinging all night, every night for three months.",
+      "zh": "雄鸟连续三个月每晚整夜交替发出 booming 和 chinging 叫声。"
+    },
+    {
+      "id": 64,
+      "startMs": 418720,
+      "endMs": 423040,
+      "en": "That's David Attenborough describing the mating call of the kākāpō.",
+      "zh": "以上是大卫·爱登堡对 kākāpō 求偶叫声的描述。"
+    },
+    {
+      "id": 65,
+      "startMs": 423520,
+      "endMs": 432640,
+      "en": "They are the world's heaviest parrot, weighing up to 4 kg, and they have green feathers, fluffy faces, large beaks and owl-like eyes.",
+      "zh": "它们是世界上最重的鹦鹉，体重可达4公斤，长着绿色羽毛、毛茸茸的脸、大喙和猫头鹰般的眼睛。"
+    },
+    {
+      "id": 66,
+      "startMs": 432960,
+      "endMs": 436400,
+      "en": "By the early 1970s, there were fears they'd been wiped out.",
+      "zh": "到20世纪70年代初，人们担心它们已经灭绝。"
+    },
+    {
+      "id": 67,
+      "startMs": 436800,
+      "endMs": 443280,
+      "en": "But now, hopes are rising after a successful breeding season increased the population by 90 birds.",
+      "zh": "但如今，成功的繁殖季让种群增加了90只，复苏希望正在上升。"
+    },
+    {
+      "id": 68,
+      "startMs": 443760,
+      "endMs": 450640,
+      "en": "Alison Ballance is the host of a podcast called The Kākāpō Files. She spoke to my colleague Rajini Vaidyanathan.",
+      "zh": "Alison Ballance 主持《Kākāpō Files》，受 Rajini Vaidyanathan 采访。"
+    },
+    {
+      "id": 69,
+      "startMs": 450960,
+      "endMs": 454160,
+      "en": "This is really exciting and really significant news.",
+      "zh": "这确实是令人兴奋且意义重大的消息。"
+    },
+    {
+      "id": 70,
+      "startMs": 454560,
+      "endMs": 456800,
+      "en": "We were down to 51 kākāpō in 1995.",
+      "zh": "1995年，我们只剩下51只 kākāpō。"
+    },
+    {
+      "id": 71,
+      "startMs": 457280,
+      "endMs": 463920,
+      "en": "And here we are 30 years later, and we've just had a breeding season where nearly twice that many chicks were hatched",
+      "zh": "30年后的今天，我们刚刚经历了一个繁殖季，孵化出的幼鸟数量几乎是这个数字的两倍，"
+    },
+    {
+      "id": 72,
+      "startMs": 464640,
+      "endMs": 470080,
+      "en": "and made it right through to the magic 150 days when they're independent and can be added to the population.",
+      "zh": "并且顺利活到神奇的150天——那时它们已能独立生活，可以计入种群数量。"
+    },
+    {
+      "id": 73,
+      "startMs": 470640,
+      "endMs": 476900,
+      "en": "And we're just at a point where the kākāpō population has the capacity to start increasing significantly.",
+      "zh": "现在，kākāpō 种群正处于能够开始显著增长的阶段。"
+    },
+    {
+      "id": 74,
+      "startMs": 477140,
+      "endMs": 479620,
+      "en": "What's changed to lead to this good news?",
+      "zh": "是什么变化带来了这个好消息？"
+    },
+    {
+      "id": 75,
+      "startMs": 480180,
+      "endMs": 486020,
+      "en": "Well, 1995 marked the beginning of the Kākāpō Recovery Programme that's run by the New Zealand Department of Conservation.",
+      "zh": "1995年标志着新西兰自然资源保护部运营的 Kākāpō Recovery Programme 启动。"
+    },
+    {
+      "id": 76,
+      "startMs": 486500,
+      "endMs": 491060,
+      "en": "One of the things you need to understand about kākāpō is they do things very slowly,",
+      "zh": "关于 kākāpō，你需要了解的一点是，它们做什么都非常缓慢，"
+    },
+    {
+      "id": 77,
+      "startMs": 491460,
+      "endMs": 495700,
+      "en": "so they don't breed every year. They only breed every two to four years.",
+      "zh": "所以它们不是每年繁殖，而是每两到四年才繁殖一次。"
+    },
+    {
+      "id": 78,
+      "startMs": 495940,
+      "endMs": 503220,
+      "en": "Their breeding is triggered by the mast fruiting of some of our native trees here, particularly podocarps called rimu.",
+      "zh": "它们的繁殖由这里一些本土树木的大量结实触发，尤其是被称为 rimu 的罗汉松科植物。"
+    },
+    {
+      "id": 79,
+      "startMs": 503700,
+      "endMs": 509700,
+      "en": "The fruit ripens in late summer, just in time for these kākāpō mums, who are solo mums, to raise their chicks.",
+      "zh": "果实在夏末成熟，正好让这些独自抚养幼鸟的 kākāpō 雌鸟养育后代。"
+    },
+    {
+      "id": 80,
+      "startMs": 510100,
+      "endMs": 515060,
+      "en": "And that took 16 years from 1995 to make 90 kākāpō chicks.",
+      "zh": "从1995年起，我们花了16年才培育出90只 kākāpō 幼鸟。"
+    },
+    {
+      "id": 81,
+      "startMs": 515620,
+      "endMs": 520980,
+      "en": "And now we're at a point we've got lots of young birds, particularly young female birds in the population,",
+      "zh": "如今，我们正处于一个拥有大量幼鸟的阶段，种群中尤其有许多年轻雌鸟，"
+    },
+    {
+      "id": 82,
+      "startMs": 521380,
+      "endMs": 526740,
+      "en": "and we can make 90 kākāpō chicks in a single breeding season, which is just incredible.",
+      "zh": "一个繁殖季就能增加90只 kākāpō 幼鸟，这简直不可思议。"
+    },
+    {
+      "id": 83,
+      "startMs": 526980,
+      "endMs": 533160,
+      "en": "In years past, these very cute birds were hunted for their meat and their beautiful feathers as well, weren't they?",
+      "zh": "过去，这些可爱的鸟也因为肉和美丽的羽毛而遭到捕猎，对吧？"
+    },
+    {
+      "id": 84,
+      "startMs": 533160,
+      "endMs": 540760,
+      "en": "They were. So you have to remember that humans only arrived in New Zealand about 750 years ago. Polynesians first and later Europeans.",
+      "zh": "是的。所以要记住，人类大约750年前才抵达新西兰，先是波利尼西亚人，后来是欧洲人。"
+    },
+    {
+      "id": 85,
+      "startMs": 541160,
+      "endMs": 545880,
+      "en": "Early Māori ate kākāpō; they used the feathers to make beautiful feather cloaks.",
+      "zh": "早期毛利人食用 kākāpō，还用它们的羽毛制作漂亮的羽毛斗篷。"
+    },
+    {
+      "id": 86,
+      "startMs": 546360,
+      "endMs": 550760,
+      "en": "Then there was a lot of forest clearance, so kākāpō need native forest to live in.",
+      "zh": "后来发生了大规模森林砍伐，因此 kākāpō 需要本土森林栖息。"
+    },
+    {
+      "id": 87,
+      "startMs": 551160,
+      "endMs": 554680,
+      "en": "And the worst thing that happened was we introduced a lot of mammals to New Zealand.",
+      "zh": "最糟糕的是，我们把大量哺乳动物引入了新西兰。"
+    },
+    {
+      "id": 88,
+      "startMs": 554680,
+      "endMs": 561720,
+      "en": "So New Zealand had no native mammals, and for kākāpō in particular, stoats and rats have been a real problem.",
+      "zh": "新西兰原本没有本土哺乳动物，而对 kākāpō 来说，白鼬和老鼠一直是个大问题。"
+    },
+    {
+      "id": 89,
+      "startMs": 562120,
+      "endMs": 566600,
+      "en": "And so, hand in hand with trying to rescue the birds, there's been a move in New Zealand",
+      "zh": "因此，在努力拯救这些鸟类的同时，新西兰一直在推动这项行动，"
+    },
+    {
+      "id": 90,
+      "startMs": 566600,
+      "endMs": 572600,
+      "en": "to make offshore islands in particular predator-free to create some safe houses for this amazing species.",
+      "zh": "尤其是将近海岛屿打造为无捕食者区域，为这个神奇物种创造安全家园。"
+    },
+    {
+      "id": 91,
+      "startMs": 573080,
+      "endMs": 575560,
+      "en": "Why do you love this bird so much?",
+      "zh": "你为什么如此喜爱这种鸟？"
+    },
+    {
+      "id": 92,
+      "startMs": 575800,
+      "endMs": 580920,
+      "en": "It's so unusual, a giant flightless night parrot found only in New Zealand.",
+      "zh": "它非常特别，是一种仅在新西兰发现的巨型不会飞的夜行鹦鹉。"
+    },
+    {
+      "id": 93,
+      "startMs": 581480,
+      "endMs": 583560,
+      "en": "It looks endearing, of course.",
+      "zh": "当然，它看起来很讨人喜欢。"
+    },
+    {
+      "id": 94,
+      "startMs": 583880,
+      "endMs": 585800,
+      "en": "It's got such unusual biology.",
+      "zh": "它的生物学特征也非常独特。"
+    },
+    {
+      "id": 95,
+      "startMs": 586200,
+      "endMs": 591560,
+      "en": "But I'm also really impressed by the team of very committed people who have turned the species around.",
+      "zh": "但我也非常佩服那支极其投入的团队，是他们扭转了这个物种的命运。"
+    },
+    {
+      "id": 96,
+      "startMs": 591580,
+      "endMs": 595180,
+      "en": "Using all sorts of very innovative methods.",
+      "zh": "他们采用了各种非常创新的方法。"
+    },
+    {
+      "id": 97,
+      "startMs": 595580,
+      "endMs": 602060,
+      "en": "And it's a conservation programme that was very intensive to start with, so hand-rearing became very important.",
+      "zh": "这项保护计划起初非常密集，因此人工抚育变得十分重要。"
+    },
+    {
+      "id": 98,
+      "startMs": 602540,
+      "endMs": 607980,
+      "en": "There's been a lot of effort to try and increase fertility through techniques such as artificial insemination.",
+      "zh": "人们投入了大量努力，尝试通过人工授精等技术提高繁殖率。"
+    },
+    {
+      "id": 99,
+      "startMs": 608700,
+      "endMs": 616700,
+      "en": "And more recently, they've been using very smart, innovative technology which allows them these days to monitor kākāpō remotely from a distance.",
+      "zh": "近来，他们还使用非常聪明、创新的技术，如今可以远程监测 kākāpō。"
+    },
+    {
+      "id": 100,
+      "startMs": 617020,
+      "endMs": 621580,
+      "en": "And so what's happened as numbers have slowly increased over the last 30 years",
+      "zh": "随着数量在过去30年中逐渐增加，情况发生了变化，"
+    },
+    {
+      "id": 101,
+      "startMs": 621580,
+      "endMs": 627100,
+      "en": "to the point where some of these more intensive management techniques, they can step back from that.",
+      "zh": "如今，部分更密集的管理技术已经可以逐步退居其次。"
+    },
+    {
+      "id": 102,
+      "startMs": 627420,
+      "endMs": 628940,
+      "en": "That was Alison Ballance.",
+      "zh": "以上是 Alison Ballance。"
+    },
+    {
+      "id": 103,
+      "startMs": 630020,
+      "endMs": 634900,
+      "en": "A man in New York is making music with strangers he meets on the streets.",
+      "zh": "纽约有一名男子在街头与陌生人一起创作音乐。"
+    },
+    {
+      "id": 104,
+      "startMs": 635300,
+      "endMs": 638660,
+      "en": "Ari Miller walks around with a recording studio strapped to his back.",
+      "zh": "Ari Miller 背着一间移动录音室四处走动。"
+    },
+    {
+      "id": 105,
+      "startMs": 638980,
+      "endMs": 645780,
+      "en": "He broadcasts his street-side shows live on social media, where he's become quite the sensation.",
+      "zh": "他在社交媒体上直播街头表演，如今已经颇受欢迎。"
+    },
+    {
+      "id": 106,
+      "startMs": 646340,
+      "endMs": 649140,
+      "en": "Ari has been speaking to the BBC's Osman Asad.",
+      "zh": "Ari 接受了 BBC 的 Osman Asad 采访。"
+    },
+    {
+      "id": 107,
+      "startMs": 649380,
+      "endMs": 652420,
+      "en": "I had been just producing, just making beats for fun in my room.",
+      "zh": "我原本只是在房间里做音乐、随意制作节拍，自娱自乐。"
+    },
+    {
+      "id": 108,
+      "startMs": 652420,
+      "endMs": 657540,
+      "en": "And when COVID started, I had amassed a bit of gear in the hopes of doing live shows.",
+      "zh": "新冠疫情开始时，我已经攒了一些设备，希望能举办现场演出。"
+    },
+    {
+      "id": 109,
+      "startMs": 657540,
+      "endMs": 660340,
+      "en": "So instead of doing that, I started doing live streams.",
+      "zh": "所以我没有举办现场演出，而是开始直播。"
+    },
+    {
+      "id": 110,
+      "startMs": 660420,
+      "endMs": 664020,
+      "en": "And at a certain point, I was sort of like, this is getting a little bit boring for me.",
+      "zh": "但后来有一阵子，我觉得这对我来说有点无聊了。"
+    },
+    {
+      "id": 111,
+      "startMs": 664020,
+      "endMs": 668100,
+      "en": "And I'm also not getting to enjoy the city that I'm paying rent to.",
+      "zh": "而且我也没能享受这座我花钱租住的城市。"
+    },
+    {
+      "id": 112,
+      "startMs": 668340,
+      "endMs": 675140,
+      "en": "So I sort of concocted this mobile rig to essentially take the studio setup I had in my bedroom outside.",
+      "zh": "所以我构想了这套移动设备，把卧室里的录音室设备带到户外。"
+    },
+    {
+      "id": 113,
+      "startMs": 675140,
+      "endMs": 677300,
+      "en": "And be able to navigate the city.",
+      "zh": "这样就能带着它在城市里四处走。"
+    },
+    {
+      "id": 114,
+      "startMs": 677540,
+      "endMs": 680900,
+      "en": "You guys getting on? Oh yeah, yeah, we were just at a session.",
+      "zh": "你们要上车吗？哦，对，对，我们刚参加完一次演奏。"
+    },
+    {
+      "id": 115,
+      "startMs": 680980,
+      "endMs": 682740,
+      "en": "So I was like, he's here, we've got to go.",
+      "zh": "所以我就想，他在这儿，我们得走了。"
+    },
+    {
+      "id": 116,
+      "startMs": 682820,
+      "endMs": 685860,
+      "en": "You play the sax, and then you sing? What do you think the best vibe would be?",
+      "zh": "你吹萨克斯，然后唱歌？你觉得什么样的氛围最合适？"
+    },
+    {
+      "id": 117,
+      "startMs": 685860,
+      "endMs": 688180,
+      "en": "Just rock music, whatever. Exactly, exactly. Whatever?",
+      "zh": "就摇滚吧，随便。没错，没错。随便？"
+    },
+    {
+      "id": 118,
+      "startMs": 692360,
+      "endMs": 695320,
+      "en": "Every night I tuck my fury into bed.",
+      "zh": "每晚我都把怒火塞进被窝。"
+    },
+    {
+      "id": 119,
+      "startMs": 697080,
+      "endMs": 698600,
+      "en": "All my emo.",
+      "zh": "我所有的 emo。"
+    },
+    {
+      "id": 120,
+      "startMs": 698760,
+      "endMs": 703960,
+      "en": "I don't think initially the whole idea was to just have them be the performers.",
+      "zh": "我觉得一开始，整个想法并不是只让他们来表演。"
+    },
+    {
+      "id": 121,
+      "startMs": 703960,
+      "endMs": 708680,
+      "en": "Initially I was trying to just have them participate in any way, like just make a sound.",
+      "zh": "最初我只是想让他们以任何方式参与，比如发出一个声音。"
+    },
+    {
+      "id": 122,
+      "startMs": 708680,
+      "endMs": 711480,
+      "en": "And I would incorporate it into the beat, or they could give me a suggestion.",
+      "zh": "我会把这个声音融入节拍，或者让参与者给我一个创作建议。"
+    },
+    {
+      "id": 123,
+      "startMs": 711480,
+      "endMs": 713480,
+      "en": "For what I would make, and then I would keep walking.",
+      "zh": "提示我该做什么，然后我会继续往前走。"
+    },
+    {
+      "id": 124,
+      "startMs": 713800,
+      "endMs": 718920,
+      "en": "Because when I first went outside, a lot of people would look at me confused and not really understand what was happening.",
+      "zh": "因为我刚开始走到户外时，很多人会困惑地看着我，不太明白发生了什么。"
+    },
+    {
+      "id": 125,
+      "startMs": 719000,
+      "endMs": 723720,
+      "en": "I sort of had to do like two years of this before it really got going.",
+      "zh": "我大概要这样做两年，事情才真正开始有起色。"
+    },
+    {
+      "id": 126,
+      "startMs": 723720,
+      "endMs": 725880,
+      "en": "What are you feeling, bro? What's the vibe today?",
+      "zh": "你现在是什么感觉，兄弟？今天是什么氛围？"
+    },
+    {
+      "id": 127,
+      "startMs": 726200,
+      "endMs": 730440,
+      "en": "What if it was like, like a rock groove, but like, a hip-hop drum beat?",
+      "zh": "如果做成摇滚律动，但配上嘻哈鼓点，会怎样？"
+    },
+    {
+      "id": 128,
+      "startMs": 741200,
+      "endMs": 748160,
+      "en": "Do you ever get surprised by the talent you meet in people who, at first glance, if you walk past them on the streets of New York,",
+      "zh": "你是否会对遇到的才华感到惊讶？有些人在纽约街头与你擦肩而过时，乍看之下，"
+    },
+    {
+      "id": 129,
+      "startMs": 748240,
+      "endMs": 751920,
+      "en": "you may not think they actually have any musical talent whatsoever?",
+      "zh": "你可能完全想不到他们其实有任何音乐才华？"
+    },
+    {
+      "id": 130,
+      "startMs": 752240,
+      "endMs": 755680,
+      "en": "I almost expect everybody to have musical talent in New York City.",
+      "zh": "我几乎认为纽约每个人都有音乐才华。"
+    },
+    {
+      "id": 131,
+      "startMs": 755680,
+      "endMs": 758000,
+      "en": "When I walk around, it's just, it's limitless.",
+      "zh": "我走在街上时，才华简直无穷无尽。"
+    },
+    {
+      "id": 132,
+      "startMs": 758480,
+      "endMs": 762560,
+      "en": "The most exciting part of what I do is when it's not just me having a moment with a stranger,",
+      "zh": "我做这件事最令人兴奋的部分，是不只和一个陌生人共享片刻，"
+    },
+    {
+      "id": 133,
+      "startMs": 762560,
+      "endMs": 766880,
+      "en": "but it's multiple strangers coming together through the music and connecting.",
+      "zh": "而是多个陌生人通过音乐走到一起、彼此连结。"
+    },
+    {
+      "id": 134,
+      "startMs": 772580,
+      "endMs": 774660,
+      "en": "I'ma give you all my love.",
+      "zh": "我会把我的爱全都给你。"
+    },
+    {
+      "id": 135,
+      "startMs": 776420,
+      "endMs": 778660,
+      "en": "I need other words. Anyone got words?",
+      "zh": "我需要别的词。有人能给我词吗？"
+    },
+    {
+      "id": 136,
+      "startMs": 778980,
+      "endMs": 780980,
+      "en": "If I give you all my love, baby girl, I want...",
+      "zh": "如果我把我的爱全都给你，宝贝女孩，我想……"
+    },
+    {
+      "id": 137,
+      "startMs": 781180,
+      "endMs": 786220,
+      "en": "Only if you're the one I'm choosing, I'm doing this for you.",
+      "zh": "只有当我选择的是你，我才会为你这样做。"
+    },
+    {
+      "id": 138,
+      "startMs": 786820,
+      "endMs": 788740,
+      "en": "I said I'm losing it.",
+      "zh": "我说我快失控了。"
+    },
+    {
+      "id": 139,
+      "startMs": 788820,
+      "endMs": 794500,
+      "en": "What you do on the streets of New York shows that there is an abundance of talent.",
+      "zh": "你在纽约街头所做的事表明，那里有大量人才。"
+    },
+    {
+      "id": 140,
+      "startMs": 794580,
+      "endMs": 800980,
+      "en": "There's an abundance of skill out there for someone to, you know, for a record label, anyone to pluck people off the streets.",
+      "zh": "那里也有大量技能，只要唱片公司或其他人愿意，就能把人才从街头发掘出来。"
+    },
+    {
+      "id": 141,
+      "startMs": 800980,
+      "endMs": 803860,
+      "en": "They just have to look for it. Would you agree with that? Yeah, I would say so.",
+      "zh": "他们只需要去寻找。你同意吗？是的，我同意。"
+    },
+    {
+      "id": 142,
+      "startMs": 803860,
+      "endMs": 810420,
+      "en": "I see a lot of comments on my videos about, you know, why don't record labels let us hear this type of music?",
+      "zh": "我在视频下看到很多评论，比如：唱片公司为什么不让我们听到这种音乐？"
+    },
+    {
+      "id": 143,
+      "startMs": 810420,
+      "endMs": 815460,
+      "en": "And there are certainly gatekeepers in the music industry and beyond.",
+      "zh": "音乐行业内外确实都有把关人。"
+    },
+    {
+      "id": 144,
+      "startMs": 815460,
+      "endMs": 821380,
+      "en": "And honestly, my main takeaway is—this is my personal takeaway—is like, I think to myself, wow,",
+      "zh": "老实说，我最大的感受——这是我个人的感受——是我会想，哇，"
+    },
+    {
+      "id": 145,
+      "startMs": 821380,
+      "endMs": 824900,
+      "en": "I really need to put in a little more effort to seek out music,",
+      "zh": "我真的需要多花一点力气，主动去寻找音乐，"
+    },
+    {
+      "id": 146,
+      "startMs": 824900,
+      "endMs": 829860,
+      "en": "on my own instead of going to pre-decided playlists to decide what I'm gonna listen to.",
+      "zh": "而不是依靠预先定好的歌单来决定听什么。"
+    },
+    {
+      "id": 147,
+      "startMs": 829860,
+      "endMs": 830980,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 148,
+      "startMs": 831060,
+      "endMs": 835700,
+      "en": "There's never been more music in the world than there is now, but it's certainly hard to find it.",
+      "zh": "世界上从来没有像现在这样多的音乐，但找到它确实很难。"
+    },
+    {
+      "id": 149,
+      "startMs": 836180,
+      "endMs": 840100,
+      "en": "And I guess sometimes, you know, even just walking around outside, you come across it.",
+      "zh": "我想有时候，你甚至只是在外面走走，也会偶然遇到它。"
+    },
+    {
+      "id": 150,
+      "startMs": 841660,
+      "endMs": 844460,
+      "en": "Coming through the trees.",
+      "zh": "穿过树丛而来。"
+    },
+    {
+      "id": 151,
+      "startMs": 850720,
+      "endMs": 852800,
+      "en": "That was mobile DJ Ari Miller.",
+      "zh": "刚才是移动 DJ Ari Miller。"
+    },
+    {
+      "id": 152,
+      "startMs": 859080,
+      "endMs": 864760,
+      "en": "Coming up on The Happy Pod: how flies can help us understand human behavior.",
+      "zh": "《The Happy Pod》接下来：果蝇如何帮助我们理解人类行为。"
+    },
+    {
+      "id": 153,
+      "startMs": 865080,
+      "endMs": 868760,
+      "en": "We're sort of trying to understand, you know, the anatomy of thought in some sense.",
+      "zh": "我们试图从某种意义上理解思想的构造。"
+    },
+    {
+      "id": 154,
+      "startMs": 868840,
+      "endMs": 873480,
+      "en": "How is it that, you know, the amazing stuff between our ears lets us do",
+      "zh": "我们两耳之间这神奇的东西，究竟如何让我们做到"
+    },
+    {
+      "id": 155,
+      "startMs": 873960,
+      "endMs": 875880,
+      "en": "all the remarkable behaviors that we can do?",
+      "zh": "种种非凡的行为？"
+    },
+    {
+      "id": 156,
+      "startMs": 875880,
+      "endMs": 877800,
+      "en": "You're listening to The Happy Pod.",
+      "zh": "你正在收听《The Happy Pod》。"
+    },
+    {
+      "id": 157,
+      "startMs": 878440,
+      "endMs": 887080,
+      "en": "A medieval tapestry that tells the story of one of the most important battles in European history is going on display to the public in a new way.",
+      "zh": "一幅讲述欧洲历史上最重要战役之一的中世纪挂毯，将以全新方式向公众展出。"
+    },
+    {
+      "id": 158,
+      "startMs": 887560,
+      "endMs": 893240,
+      "en": "The 70-metre-long Bayeux Tapestry illustrates the events leading to the Norman Conquest of England.",
+      "zh": "这幅长70米的巴约挂毯描绘了诺曼征服英格兰的前史。"
+    },
+    {
+      "id": 159,
+      "startMs": 893480,
+      "endMs": 896520,
+      "en": "Including the Battle of Hastings in 1066.",
+      "zh": "其中包括1066年的黑斯廷斯战役。"
+    },
+    {
+      "id": 160,
+      "startMs": 896960,
+      "endMs": 904640,
+      "en": "Originally embroidered in England, it was kept for centuries in France, but has now been loaned to the British Museum here in London.",
+      "zh": "它最初在英格兰绣制，后来在法国保存了数百年，如今已借展给伦敦的英国博物馆。"
+    },
+    {
+      "id": 161,
+      "startMs": 905040,
+      "endMs": 908000,
+      "en": "These schoolchildren were among the first to see it.",
+      "zh": "这些学生是最早看到它的人之一。"
+    },
+    {
+      "id": 162,
+      "startMs": 908240,
+      "endMs": 915760,
+      "en": "I thought that it was really impressive because one scene can take so long to sew.",
+      "zh": "我觉得这真的令人印象深刻，因为缝制一个场景可能要花很长时间。"
+    },
+    {
+      "id": 163,
+      "startMs": 915760,
+      "endMs": 920400,
+      "en": "And they've done this by hand, not by sewing machines.",
+      "zh": "而且他们是手工完成的，不是用缝纫机。"
+    },
+    {
+      "id": 164,
+      "startMs": 920880,
+      "endMs": 924320,
+      "en": "And it's so cool, all the effort and patience they put into this.",
+      "zh": "他们为此付出的努力和耐心，真的太酷了。"
+    },
+    {
+      "id": 165,
+      "startMs": 924720,
+      "endMs": 928800,
+      "en": "I thought that it was really cool and shocking.",
+      "zh": "我觉得这既酷又令人震撼。"
+    },
+    {
+      "id": 166,
+      "startMs": 929200,
+      "endMs": 935120,
+      "en": "How the people have managed to show all the armour in such detail.",
+      "zh": "他们竟能如此细致地展示所有铠甲。"
+    },
+    {
+      "id": 167,
+      "startMs": 935440,
+      "endMs": 939440,
+      "en": "And how the shields are all perfectly shaped, and the arrows.",
+      "zh": "盾牌的形状都那么完美，还有那些箭。"
+    },
+    {
+      "id": 168,
+      "startMs": 939680,
+      "endMs": 945520,
+      "en": "I actually thought it would have bits missing, burnt or bloody, but it doesn't.",
+      "zh": "我原以为会有缺失、烧焦或血迹斑斑的部分，但并没有。"
+    },
+    {
+      "id": 169,
+      "startMs": 945760,
+      "endMs": 954640,
+      "en": "I really like how the whole tapestry shows the beginning of the Battle of Hastings and what led up to it.",
+      "zh": "我很喜欢整幅挂毯展现了黑斯廷斯战役的开端及其前因。"
+    },
+    {
+      "id": 170,
+      "startMs": 955200,
+      "endMs": 960100,
+      "en": "And I really like how detailed it is; it just shows more of it.",
+      "zh": "我也很喜欢它的细节——它呈现出了更多内容。"
+    },
+    {
+      "id": 171,
+      "startMs": 960340,
+      "endMs": 965300,
+      "en": "My colleague Nick Robinson spoke to Michael Lewis, the curator of the new exhibition.",
+      "zh": "我的同事尼克·罗宾逊采访了新展览的策展人迈克尔·刘易斯。"
+    },
+    {
+      "id": 172,
+      "startMs": 965700,
+      "endMs": 970260,
+      "en": "Fantastic moment that the tapestry is finally now in the UK. In 2013, I...",
+      "zh": "挂毯终于来到英国，真是一个精彩时刻。2013年，我……"
+    },
+    {
+      "id": 173,
+      "startMs": 970900,
+      "endMs": 977460,
+      "en": "joined the Bayeux Tapestry Scientific Committee, where we were looking at advising Bayeux Museum on how to re-display the tapestry there.",
+      "zh": "加入了巴约挂毯科学委员会，当时我们正向巴约博物馆提供建议，研究如何在那里重新陈列挂毯。"
+    },
+    {
+      "id": 174,
+      "startMs": 977540,
+      "endMs": 984820,
+      "en": "And it's very clear that actually they needed a new museum to do this effectively, and therefore the tapestry was going to have to be moved.",
+      "zh": "很明显，他们需要一座新博物馆才能有效做到这一点，因此挂毯不得不搬迁。"
+    },
+    {
+      "id": 175,
+      "startMs": 985060,
+      "endMs": 990500,
+      "en": "Re-display, crucial word, because it was on the wall and it was in a kind of U-shape, wasn't it?",
+      "zh": "“重新陈列”是个关键说法，因为它原来挂在墙上，呈某种U形，对吧？"
+    },
+    {
+      "id": 176,
+      "startMs": 990500,
+      "endMs": 995220,
+      "en": "And here it is, flat, 70 metres long in this enormous gallery.",
+      "zh": "现在它平铺在这座巨大的展厅里，长达70米。"
+    },
+    {
+      "id": 177,
+      "startMs": 995220,
+      "endMs": 998180,
+      "en": "Yeah, that's right. So, U-shape in Bayeux, and now it's flat.",
+      "zh": "对，没错。在巴约是U形的，现在则平铺开来。"
+    },
+    {
+      "id": 178,
+      "startMs": 998180,
+      "endMs": 1003700,
+      "en": "That's a requirement of the French state. A requirement, forgive me, because it might be damaged if it's...",
+      "zh": "这是法国政府的要求。抱歉，你说是因为如果它……可能会受损？"
+    },
+    {
+      "id": 179,
+      "startMs": 1003700,
+      "endMs": 1009300,
+      "en": "In Bayeux, the tapestry was potentially being damaged because of the curve at the end.",
+      "zh": "在巴约，挂毯可能正因为末端的弯曲而受损。"
+    },
+    {
+      "id": 180,
+      "startMs": 1009300,
+      "endMs": 1012420,
+      "en": "And because it was hanging directly, a bit like a curtain, really.",
+      "zh": "而且它是直接悬挂的，确实有点像一幅窗帘。"
+    },
+    {
+      "id": 181,
+      "startMs": 1012900,
+      "endMs": 1017480,
+      "en": "So it was a directive from the French state that, for this exhibition, it's going to be flat.",
+      "zh": "所以法国政府指示这次展览要将它平铺。"
+    },
+    {
+      "id": 182,
+      "startMs": 1018040,
+      "endMs": 1025320,
+      "en": "But that allows us, for the first time, to show the tapestry in a continuous length, which hasn't been the case for many years.",
+      "zh": "但这让我们首次能够连续展示整幅挂毯，而这在许多年里都没有做到。"
+    },
+    {
+      "id": 183,
+      "startMs": 1025320,
+      "endMs": 1030760,
+      "en": "In fact, probably not since the 1700s, when it was rolled out for people to see.",
+      "zh": "事实上，上一次这样把它完整展开供人观赏，可能还是在18世纪。"
+    },
+    {
+      "id": 184,
+      "startMs": 1031240,
+      "endMs": 1035080,
+      "en": "It's a significant thing that we can do.",
+      "zh": "我们能这样做意义重大。"
+    },
+    {
+      "id": 185,
+      "startMs": 1035080,
+      "endMs": 1042600,
+      "en": "And because of the display case we've got, you can get really, really close to the tapestry, quite unlike you could in Bayeux.",
+      "zh": "而且由于展柜的设计，你可以非常近距离地观看挂毯，这和在巴约时完全不同。"
+    },
+    {
+      "id": 186,
+      "startMs": 1042680,
+      "endMs": 1045960,
+      "en": "In a way, have you got a favourite moment or place on the tapestry?",
+      "zh": "这么说来，你在挂毯上最喜欢哪个时刻或哪个地方？"
+    },
+    {
+      "id": 187,
+      "startMs": 1046280,
+      "endMs": 1052680,
+      "en": "Yeah, my favourite scene is the moment where Edward the Confessor dies, because he's shown touching hands with Harold.",
+      "zh": "我最喜欢的场景是忏悔者爱德华去世的时刻，因为画面中他正与哈罗德手牵手。"
+    },
+    {
+      "id": 188,
+      "startMs": 1053000,
+      "endMs": 1062120,
+      "en": "And we know from a record of the time that it might have been when Edward essentially promised him that he could look after the kingdom.",
+      "zh": "根据当时的记录，我们知道那可能是爱德华向他许诺、让他治理王国的时刻。"
+    },
+    {
+      "id": 189,
+      "startMs": 1062120,
+      "endMs": 1066280,
+      "en": "And he obviously over-interpreted that and said, 'Yeah, I'm going to be king next.'",
+      "zh": "而他显然过度解读了这句话，说：“好，我接下来要当国王了。”"
+    },
+    {
+      "id": 190,
+      "startMs": 1066440,
+      "endMs": 1075000,
+      "en": "Some people must meet you for coffee or a pint and say, '30 years studying the Bayeux Tapestry? Get a life, Michael!'",
+      "zh": "肯定有人会在喝咖啡或酒时遇到你，然后说：“研究巴约挂毯30年？迈克尔，找点正事吧！”"
+    },
+    {
+      "id": 191,
+      "startMs": 1075000,
+      "endMs": 1076840,
+      "en": "Why is it worth our study?",
+      "zh": "它为什么值得我们研究？"
+    },
+    {
+      "id": 192,
+      "startMs": 1077260,
+      "endMs": 1084860,
+      "en": "What do you hope the country—and so many of us who get to see it—will gain from what you've relished and loved over these decades?",
+      "zh": "你数十年来显然一直享受并热爱研究它，希望国家和有机会看到它的我们能收获什么？"
+    },
+    {
+      "id": 193,
+      "startMs": 1084940,
+      "endMs": 1094220,
+      "en": "Yeah, I mean, obviously 1066 is a pivotal moment in our history, and the Bayeux Tapestry is the first narrative of that event.",
+      "zh": "显然，1066年是我们历史上的关键时刻，而巴约挂毯是对那一事件的首个叙事记录。"
+    },
+    {
+      "id": 194,
+      "startMs": 1094700,
+      "endMs": 1101500,
+      "en": "And so I think most people, when they see the tapestry, are going to be amazed by both its length and the preservation of that object.",
+      "zh": "所以我想，大多数人看到挂毯时，都会惊叹于它的长度以及这件文物的保存状况。"
+    },
+    {
+      "id": 195,
+      "startMs": 1101660,
+      "endMs": 1109740,
+      "en": "When you look at things from the 11th century, particularly textiles, they're very, very fragmentary, and the tapestry is not that.",
+      "zh": "当你看到11世纪的物品，尤其是纺织品时，它们通常都非常残缺，而这幅挂毯并非如此。"
+    },
+    {
+      "id": 196,
+      "startMs": 1110220,
+      "endMs": 1119820,
+      "en": "So I think people are just going to be overwhelmed by the detail and the fact that it brings that period of the 11th century to life.",
+      "zh": "所以我想，人们会被它的细节以及它让11世纪那段历史重现眼前的事实深深震撼。"
+    },
+    {
+      "id": 197,
+      "startMs": 1120380,
+      "endMs": 1121340,
+      "en": "Michael Lewis.",
+      "zh": "迈克尔·刘易斯。"
+    },
+    {
+      "id": 198,
+      "startMs": 1122440,
+      "endMs": 1131400,
+      "en": "Flies are usually seen as an annoying pest, but it seems they could help us better understand how the human mind works.",
+      "zh": "苍蝇通常被视为讨厌的害虫，但它们似乎能帮助我们更好地理解人类心智如何运作。"
+    },
+    {
+      "id": 199,
+      "startMs": 1131920,
+      "endMs": 1138960,
+      "en": "Scientists from the US and the UK have, for the first time, mapped the entire brain of both male and female flies.",
+      "zh": "美国和英国的科学家首次绘制出了雄性和雌性果蝇的完整脑图谱。"
+    },
+    {
+      "id": 200,
+      "startMs": 1139360,
+      "endMs": 1145060,
+      "en": "They say their findings could lead to a better understanding of how our genes influence our behaviour.",
+      "zh": "他们说，这些发现或许能帮助我们更好地理解基因如何影响我们的行为。"
+    },
+    {
+      "id": 201,
+      "startMs": 1146020,
+      "endMs": 1149540,
+      "en": "Dr Gregory Jefferis is one of the lead authors of the study.",
+      "zh": "格雷戈里·杰弗里斯博士是这项研究的主要作者之一。"
+    },
+    {
+      "id": 202,
+      "startMs": 1149700,
+      "endMs": 1153380,
+      "en": "We're trying to understand, in some sense, the anatomy of thought.",
+      "zh": "某种意义上，我们是在尝试理解思想的结构。"
+    },
+    {
+      "id": 203,
+      "startMs": 1153460,
+      "endMs": 1160660,
+      "en": "How is it that the amazing stuff between our ears lets us do all the remarkable behaviours that we can do?",
+      "zh": "我们两耳之间那神奇的东西，究竟如何让我们做出各种非凡的行为？"
+    },
+    {
+      "id": 204,
+      "startMs": 1160980,
+      "endMs": 1164740,
+      "en": "You know, play a sonata, have this social exchange.",
+      "zh": "比如演奏奏鸣曲，进行这样的社会交流。"
+    },
+    {
+      "id": 205,
+      "startMs": 1164980,
+      "endMs": 1171060,
+      "en": "And it turns out that, in microcosm, the humble fruit fly can actually do a lot of really quite complex behaviours.",
+      "zh": "事实证明，作为微观缩影，普通果蝇其实能做出许多相当复杂的行为。"
+    },
+    {
+      "id": 206,
+      "startMs": 1171380,
+      "endMs": 1178980,
+      "en": "And there we can actually start to reconstruct the entire brain wiring that lets that animal do those behaviours.",
+      "zh": "借此，我们可以开始重建让这种动物做出这些行为的完整脑内连接。"
+    },
+    {
+      "id": 207,
+      "startMs": 1179300,
+      "endMs": 1187140,
+      "en": "And then we're linking that to genes that control differences in behaviour, something we've known about for many years.",
+      "zh": "然后，我们把它与控制行为差异的基因联系起来；这一点我们已经知道很多年了。"
+    },
+    {
+      "id": 208,
+      "startMs": 1187620,
+      "endMs": 1194020,
+      "en": "And those behaviours include a range of behaviours in this case that are shown by one sex rather than the other.",
+      "zh": "这些行为包括本研究中由一种性别而非另一种性别表现出来的各种行为。"
+    },
+    {
+      "id": 209,
+      "startMs": 1194020,
+      "endMs": 1200980,
+      "en": "So, for example, male flies are much more aggressive towards other male flies when there are females around.",
+      "zh": "例如，周围有雌性果蝇时，雄性果蝇对其他雄性果蝇的攻击性会强得多。"
+    },
+    {
+      "id": 210,
+      "startMs": 1201300,
+      "endMs": 1207240,
+      "en": "The motivation for our work is trying to understand how brains process information.",
+      "zh": "我们开展这项工作的动力，是理解大脑如何处理信息。"
+    },
+    {
+      "id": 211,
+      "startMs": 1207480,
+      "endMs": 1213080,
+      "en": "How they take all our sensory information and turn it into decisions, memories and behaviour.",
+      "zh": "也就是理解它们如何将全部感官信息转化为决定、记忆和行为。"
+    },
+    {
+      "id": 212,
+      "startMs": 1213640,
+      "endMs": 1218600,
+      "en": "It's fun to think about sex differences in behaviour.",
+      "zh": "思考行为中的性别差异很有趣。"
+    },
+    {
+      "id": 213,
+      "startMs": 1218840,
+      "endMs": 1224600,
+      "en": "But the real motivation is to understand how behaviours are actually encoded in our genes.",
+      "zh": "但真正的动力是理解行为究竟如何编码在我们的基因中。"
+    },
+    {
+      "id": 214,
+      "startMs": 1224840,
+      "endMs": 1232120,
+      "en": "Like a chip with a wiring diagram, we now know that brains—certainly these fly brains—have particular wiring diagrams.",
+      "zh": "就像芯片有特定的布线图一样，我们现在知道，大脑——至少这些果蝇的大脑——也有特定的连接图谱。"
+    },
+    {
+      "id": 215,
+      "startMs": 1232920,
+      "endMs": 1240040,
+      "en": "In terms of human behaviour, what we're thinking about is whether we can find something about the logic of how genes specify different behaviours.",
+      "zh": "就人类行为而言，我们思考的是，能否发现基因如何决定不同行为背后的逻辑。"
+    },
+    {
+      "id": 216,
+      "startMs": 1240360,
+      "endMs": 1242520,
+      "en": "That was Dr Gregory Jefferis.",
+      "zh": "格雷戈里·杰弗里斯博士。"
+    },
+    {
+      "id": 217,
+      "startMs": 1243560,
+      "endMs": 1249480,
+      "en": "We end here in the UK, where a composer has looked to London's underground transport for inspiration.",
+      "zh": "最后来到英国，一位作曲家从伦敦的地下交通系统中寻找灵感。"
+    },
+    {
+      "id": 218,
+      "startMs": 1249960,
+      "endMs": 1251480,
+      "en": "Take a listen to this.",
+      "zh": "请听听这段音乐。"
+    },
+    {
+      "id": 219,
+      "startMs": 1262640,
+      "endMs": 1266160,
+      "en": "That is the sound of the comings and goings of the Tube network.",
+      "zh": "这就是伦敦地铁网络来往运行的声音。"
+    },
+    {
+      "id": 220,
+      "startMs": 1266560,
+      "endMs": 1270480,
+      "en": "Matthew Wilcock created the music using real-time train data.",
+      "zh": "Matthew Wilcock 用实时列车数据创作了这段音乐。"
+    },
+    {
+      "id": 221,
+      "startMs": 1270800,
+      "endMs": 1277760,
+      "en": "Every time a train pulls into a station, it generates a note, meaning the music's rhythm is the rhythm of the Tube.",
+      "zh": "每当一列火车驶入车站，就会产生一个音符，也就是说，音乐的节奏就是地铁的节奏。"
+    },
+    {
+      "id": 222,
+      "startMs": 1278320,
+      "endMs": 1282960,
+      "en": "He's been speaking to my colleague James Coomarasamy about how he got the idea.",
+      "zh": "他向我的同事 James Coomarasamy 讲述了自己如何萌生这个想法。"
+    },
+    {
+      "id": 223,
+      "startMs": 1292480,
+      "endMs": 1297040,
+      "en": "I hate the sound of the motorway, and I hate the sound of the ring road. That has depressing connotations, I guess.",
+      "zh": "我讨厌高速公路的声音，也讨厌环路的声音；我想，那会让人联想到令人沮丧的事。"
+    },
+    {
+      "id": 224,
+      "startMs": 1297520,
+      "endMs": 1303840,
+      "en": "But I was walking, with my noise-cancelling headphones on, and I wasn't listening to anything. I don't know why; I was in a weird space.",
+      "zh": "但当时我走着，戴着降噪耳机，却什么也没听。我也不知道为什么，当时我处在一种奇怪的状态。"
+    },
+    {
+      "id": 225,
+      "startMs": 1303920,
+      "endMs": 1308640,
+      "en": "I got to the road, and I could feel the cars coming underneath me. I stopped for a bit and watched.",
+      "zh": "我走到那条路边，能感到汽车从我脚下驶过。我停了一会儿，看着这一切。"
+    },
+    {
+      "id": 226,
+      "startMs": 1309040,
+      "endMs": 1315280,
+      "en": "Then someone started laying cones out in one lane. The pattern and rhythm of the cars changed, almost like a polyrhythm.",
+      "zh": "接着有人开始在一条车道上摆放路锥。汽车的模式和节奏随之改变，几乎形成了复节奏。"
+    },
+    {
+      "id": 227,
+      "startMs": 1315280,
+      "endMs": 1318400,
+      "en": "Something strange happened. I thought, that's kind of interesting.",
+      "zh": "奇怪的事情发生了。我心想：这还挺有意思。"
+    },
+    {
+      "id": 228,
+      "startMs": 1318560,
+      "endMs": 1324880,
+      "en": "What will that feel like musically? So I took some test footage, went home and made the first, what I call, a motorway cycle.",
+      "zh": "从音乐角度看，那会是什么感觉？于是我拍了一些测试画面，回家后制作了第一个我称为“高速公路循环”的作品。"
+    },
+    {
+      "id": 229,
+      "startMs": 1324960,
+      "endMs": 1330720,
+      "en": "I put this pink line over the footage, and as soon as a car passes the line, it creates a note.",
+      "zh": "我在画面上加了一条粉色的线，汽车一越过这条线，就会产生一个音符。"
+    },
+    {
+      "id": 230,
+      "startMs": 1331120,
+      "endMs": 1332960,
+      "en": "Within that system, I create rules.",
+      "zh": "我在这个系统里设定规则。"
+    },
+    {
+      "id": 231,
+      "startMs": 1332960,
+      "endMs": 1336640,
+      "en": "So one of the most popular ones is this one.",
+      "zh": "其中最受欢迎的作品之一就是这一首。"
+    },
+    {
+      "id": 232,
+      "startMs": 1346940,
+      "endMs": 1350060,
+      "en": "We're looking at drone footage that I shot around a year ago.",
+      "zh": "我们看到的是我大约一年前拍摄的无人机画面。"
+    },
+    {
+      "id": 233,
+      "startMs": 1351100,
+      "endMs": 1355420,
+      "en": "And, yeah, so you can see there's, what, two, four, six, eight lanes.",
+      "zh": "你可以看到，这里有两条、四条、六条，还是八条车道。"
+    },
+    {
+      "id": 234,
+      "startMs": 1355820,
+      "endMs": 1361820,
+      "en": "And I assign a note, basically, or a rule of notes, to each lane, and then I let the composition kind of write itself.",
+      "zh": "我给每条车道分配一个音符，或者说一套音符规则，然后让乐曲自行创作。"
+    },
+    {
+      "id": 235,
+      "startMs": 1370580,
+      "endMs": 1373620,
+      "en": "What's interesting is I didn't expect it to happen.",
+      "zh": "有意思的是，我没料到它会发生。"
+    },
+    {
+      "id": 236,
+      "startMs": 1373620,
+      "endMs": 1377380,
+      "en": "I originally made these to go in a gallery and to be music.",
+      "zh": "我最初制作这些作品，是想把它们放进画廊，也作为音乐播放。"
+    },
+    {
+      "id": 237,
+      "startMs": 1377780,
+      "endMs": 1379940,
+      "en": "Then I posted them online, and they kind of took off.",
+      "zh": "后来我把它们发布到网上，它们就开始走红。"
+    },
+    {
+      "id": 238,
+      "startMs": 1380500,
+      "endMs": 1388420,
+      "en": "But fascinating was what people took from it. They started to think about who is creating these serendipitous chords with other people.",
+      "zh": "但真正令我着迷的是人们从中得到的感受。他们开始思考：是谁与其他人共同创造出这些偶然和弦？"
+    },
+    {
+      "id": 239,
+      "startMs": 1388420,
+      "endMs": 1394180,
+      "en": "Like, where are they all going? Like, these notes represent this person's whole life, which is kind of interesting.",
+      "zh": "它们都将流向哪里？这些音符仿佛代表着这个人的一生，这很有意思。"
+    },
+    {
+      "id": 240,
+      "startMs": 1397120,
+      "endMs": 1402080,
+      "en": "Okay, so plenty of cars, lots of footage, but then you move on to the Tube.",
+      "zh": "好，有了很多汽车和大量画面，接下来你转向了地铁。"
+    },
+    {
+      "id": 241,
+      "startMs": 1402400,
+      "endMs": 1404320,
+      "en": "Yeah, so this is where this piece came from.",
+      "zh": "对，这就是这首作品的由来。"
+    },
+    {
+      "id": 242,
+      "startMs": 1417360,
+      "endMs": 1423600,
+      "en": "I'm looking at a screen, and I'm seeing in real time the movement of trains across the network.",
+      "zh": "我看着屏幕，实时观察列车在整个网络中的运行。"
+    },
+    {
+      "id": 243,
+      "startMs": 1423920,
+      "endMs": 1428000,
+      "en": "Just explain how you have taken that and made it into music.",
+      "zh": "请解释一下，你是如何把这些数据变成音乐的。"
+    },
+    {
+      "id": 244,
+      "startMs": 1428240,
+      "endMs": 1431920,
+      "en": "So every time a train arrives at a station, right, it gives me a timestamp.",
+      "zh": "每当一列火车抵达车站，它就会给我一个时间戳。"
+    },
+    {
+      "id": 245,
+      "startMs": 1432480,
+      "endMs": 1438960,
+      "en": "And if you capture that time, all the timestamps of all the trains over, say, five minutes, you have a lot of rhythmic data points.",
+      "zh": "如果记录下这个时间，比如五分钟内所有列车的全部时间戳，就会得到许多节奏数据点。"
+    },
+    {
+      "id": 246,
+      "startMs": 1439120,
+      "endMs": 1442720,
+      "en": "Once I've got that data, then I assign a note to each line.",
+      "zh": "有了这些数据后，我就给每条线路分配一个音符。"
+    },
+    {
+      "id": 247,
+      "startMs": 1442720,
+      "endMs": 1451080,
+      "en": "The whole system is kind of built around E-flat major pentatonic, with a D-flat and an E in there, just to give it a little bit of flavor, basically.",
+      "zh": "整个系统基本建立在降E大调五声音阶上，其中加入降D和E，让音乐更有一点风味。"
+    },
+    {
+      "id": 248,
+      "startMs": 1456600,
+      "endMs": 1459240,
+      "en": "You started off with motorways, yes.",
+      "zh": "你最初从高速公路开始，对吧。"
+    },
+    {
+      "id": 249,
+      "startMs": 1459640,
+      "endMs": 1463960,
+      "en": "You've gone on to the underground, trains, planes.",
+      "zh": "后来你转向了地铁、火车和飞机。"
+    },
+    {
+      "id": 250,
+      "startMs": 1464040,
+      "endMs": 1465720,
+      "en": "Where do you go next?",
+      "zh": "接下来你要去哪里？"
+    },
+    {
+      "id": 251,
+      "startMs": 1465880,
+      "endMs": 1471160,
+      "en": "So I've done London, I've almost got Tokyo done, and I've got Paris almost done.",
+      "zh": "我已经完成了伦敦，东京也快完成了，巴黎同样接近完成。"
+    },
+    {
+      "id": 252,
+      "startMs": 1471160,
+      "endMs": 1472360,
+      "en": "I've already done New York.",
+      "zh": "我已经完成了纽约。"
+    },
+    {
+      "id": 253,
+      "startMs": 1481580,
+      "endMs": 1482940,
+      "en": "How do you describe this music?",
+      "zh": "你如何描述这种音乐？"
+    },
+    {
+      "id": 254,
+      "startMs": 1483820,
+      "endMs": 1487100,
+      "en": "I'm not very good with genres, but it's in the ambient genre.",
+      "zh": "我不太擅长给音乐分类，但它属于氛围音乐。"
+    },
+    {
+      "id": 255,
+      "startMs": 1487580,
+      "endMs": 1490060,
+      "en": "And I guess it'd be minimal classical.",
+      "zh": "我想它也可以算极简古典音乐。"
+    },
+    {
+      "id": 256,
+      "startMs": 1491740,
+      "endMs": 1497740,
+      "en": "Or I guess you could prepend it with 'generative', but it's some kind of ambient classical-related.",
+      "zh": "或者也可以在前面加上“生成式”这个标签，但它算是某种氛围古典音乐。"
+    },
+    {
+      "id": 257,
+      "startMs": 1499020,
+      "endMs": 1508460,
+      "en": "But 'generative' is an interesting term because people associate it with generative AI. This is all real, and you are controlling it.",
+      "zh": "但“生成式”是个有意思的词，因为人们会把它和生成式人工智能联系起来；这一切都是真实的，由你亲自控制。"
+    },
+    {
+      "id": 258,
+      "startMs": 1508860,
+      "endMs": 1511980,
+      "en": "I guess there's a difference between generative and generated.",
+      "zh": "我想，generative 与 generated 有区别。"
+    },
+    {
+      "id": 259,
+      "startMs": 1511980,
+      "endMs": 1516300,
+      "en": "I guess that's the difference: people have been doing generative music almost forever.",
+      "zh": "我想区别就在这里：生成式音乐几乎自古以来就有人在做。"
+    },
+    {
+      "id": 260,
+      "startMs": 1516940,
+      "endMs": 1522220,
+      "en": "In one way, just randomly pressing notes on the piano is generative, but rolling a dice as well.",
+      "zh": "从某种意义上说，随意按下钢琴琴键是生成式的，掷骰子也是。"
+    },
+    {
+      "id": 261,
+      "startMs": 1522780,
+      "endMs": 1529420,
+      "en": "But there's a long history of all those mid- to early-20th-century guys doing this, in a sense, with different forms of technology.",
+      "zh": "但早在20世纪早期到中期，就有很长的历史：一些人以某种方式借助不同技术做着类似的事。"
+    },
+    {
+      "id": 262,
+      "startMs": 1529740,
+      "endMs": 1530700,
+      "en": "What genre do you think it is?",
+      "zh": "你觉得它属于什么流派？"
+    },
+    {
+      "id": 263,
+      "startMs": 1532900,
+      "endMs": 1534580,
+      "en": "Its own genre. I know, I know.",
+      "zh": "它自成一派。我知道，我知道。"
+    },
+    {
+      "id": 264,
+      "startMs": 1535220,
+      "endMs": 1540420,
+      "en": "If you just heard the music on Spotify or wherever else, yeah, let's call it underground music.",
+      "zh": "如果你只是在 Spotify 或其他地方听到这段音乐，那就叫它地下音乐吧。"
+    },
+    {
+      "id": 265,
+      "startMs": 1542600,
+      "endMs": 1543080,
+      "en": "No comment.",
+      "zh": "无可奉告。"
+    },
+    {
+      "id": 266,
+      "startMs": 1550660,
+      "endMs": 1551620,
+      "en": "Matthew Wilcock.",
+      "zh": "Matthew Wilcock。"
+    },
+    {
+      "id": 267,
+      "startMs": 1557800,
+      "endMs": 1560440,
+      "en": "And that's all from The Happy Pod for now.",
+      "zh": "以上就是本期《The Happy Pod》的全部内容。"
+    },
+    {
+      "id": 268,
+      "startMs": 1560680,
+      "endMs": 1564520,
+      "en": "If you have a story you think we should cover, we'd love to hear from you.",
+      "zh": "如果你有认为我们应该报道的故事，欢迎告诉我们。"
+    },
+    {
+      "id": 269,
+      "startMs": 1564840,
+      "endMs": 1568600,
+      "en": "As ever, the address is globalpodcast@bbc.co.uk.",
+      "zh": "邮箱地址一如既往是 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 270,
+      "startMs": 1569480,
+      "endMs": 1572360,
+      "en": "This edition was mixed and produced by Rachel Bulkley.",
+      "zh": "本期由 Rachel Bulkley 混音并制作。"
+    },
+    {
+      "id": 271,
+      "startMs": 1572680,
+      "endMs": 1574520,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是 Karen Martin。"
+    },
+    {
+      "id": 272,
+      "startMs": 1574920,
+      "endMs": 1577480,
+      "en": "I am Holly Gibbs. Until next time, goodbye.",
+      "zh": "我是 Holly Gibbs。下期再见。"
+    }
+  ]
+}
