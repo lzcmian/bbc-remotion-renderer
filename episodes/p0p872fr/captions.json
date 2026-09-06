@@ -1,0 +1,1950 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "6 September 2026"
+  },
+  "durationMs": 1638900,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3280,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5440,
+      "endMs": 10640,
+      "en": "I'm Keith Adams, and in the early hours of Sunday, the 6th of September, these are our main stories.",
+      "zh": "我是基思·亚当斯。9月6日星期日凌晨，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 10880,
+      "endMs": 17280,
+      "en": "President Trump's envoys have held what were called substantive talks with Vladimir Putin about ending the war in Ukraine.",
+      "zh": "特朗普总统的特使与弗拉基米尔·普京举行了所谓的实质性会谈，讨论结束乌克兰战争。"
+    },
+    {
+      "id": 4,
+      "startMs": 17840,
+      "endMs": 25360,
+      "en": "A new dossier claims the Sudanese military used chemical weapons in the war against the paramilitary Rapid Support Forces.",
+      "zh": "一份新的档案称，苏丹军方在与准军事组织快速支援部队的战争中使用了化学武器。"
+    },
+    {
+      "id": 5,
+      "startMs": 28060,
+      "endMs": 37880,
+      "en": "Also in this podcast: bagpipes with African drums.",
+      "zh": "本期播客还将介绍：风笛与非洲鼓的融合。"
+    },
+    {
+      "id": 6,
+      "startMs": 38280,
+      "endMs": 41160,
+      "en": "We'll tell you where you can hear this fusion of sound.",
+      "zh": "我们会告诉你在哪里能听到这种声音融合。"
+    },
+    {
+      "id": 7,
+      "startMs": 45360,
+      "endMs": 50800,
+      "en": "Another attempt is underway by President Trump to end the Ukraine war. It's a weekend of diplomacy.",
+      "zh": "特朗普总统又一次尝试结束乌克兰战争。这是一个外交周末。"
+    },
+    {
+      "id": 8,
+      "startMs": 50800,
+      "endMs": 56480,
+      "en": "US envoys met President Putin in Moscow on Saturday before travelling on to Kyiv.",
+      "zh": "美国特使星期六在莫斯科会见了普京总统，随后前往基辅。"
+    },
+    {
+      "id": 9,
+      "startMs": 56960,
+      "endMs": 63920,
+      "en": "A White House spokesperson said Steve Witkoff and Jared Kushner discussed what they called substantive plans for ending the conflict.",
+      "zh": "白宫发言人说，史蒂夫·威特科夫和贾里德·库什纳讨论了他们所谓的结束冲突的实质性计划。"
+    },
+    {
+      "id": 10,
+      "startMs": 64320,
+      "endMs": 72080,
+      "en": "Both sides have agreed not to attack each other's capitals while the talks are taking place, but hopes for progress towards peace are not high.",
+      "zh": "双方同意在会谈期间不攻击对方首都，但人们对和平进展的希望并不高。"
+    },
+    {
+      "id": 11,
+      "startMs": 72240,
+      "endMs": 74400,
+      "en": "Here's our Russia editor, Steve Rosenberg.",
+      "zh": "下面请听我们的俄罗斯事务编辑史蒂夫·罗森伯格报道。"
+    },
+    {
+      "id": 12,
+      "startMs": 78080,
+      "endMs": 83040,
+      "en": "If you're Donald Trump's peace envoy, there's no slipping quietly into the Kremlin.",
+      "zh": "如果你是唐纳德·特朗普的和平特使，就不可能悄无声息地进入克里姆林宫。"
+    },
+    {
+      "id": 13,
+      "startMs": 85960,
+      "endMs": 92840,
+      "en": "Vladimir Putin greeted the visitors, Steve Witkoff and President Trump's son-in-law, Jared Kushner.",
+      "zh": "弗拉基米尔·普京迎接了来访者史蒂夫·威特科夫和特朗普总统的女婿贾里德·库什纳。"
+    },
+    {
+      "id": 14,
+      "startMs": 93660,
+      "endMs": 100860,
+      "en": "\"The situation is difficult,\" he conceded. But there was gushing praise for his guests.",
+      "zh": "他承认：“情况很困难。”但他对客人却大加赞赏。"
+    },
+    {
+      "id": 15,
+      "startMs": 101180,
+      "endMs": 109020,
+      "en": "\"You have been enjoying our full trust, and it's been quite convenient for us to work with you.\"",
+      "zh": "“我们一直充分信任你们，和你们合作对我们来说相当方便。”"
+    },
+    {
+      "id": 16,
+      "startMs": 109420,
+      "endMs": 117180,
+      "en": "\"When we retire, we'll have all these incredible stories and incredible memories, and yours will be right at the top of it all.\"",
+      "zh": "“等我们退休时，会有这些不可思议的故事和回忆，而你们的故事会排在最前面。”"
+    },
+    {
+      "id": 17,
+      "startMs": 117980,
+      "endMs": 124060,
+      "en": "But up to this point, the Kremlin has shown little sign of wanting to end its war on Ukraine.",
+      "zh": "但到目前为止，克里姆林宫几乎没有表现出想结束对乌克兰战争的迹象。"
+    },
+    {
+      "id": 18,
+      "startMs": 124820,
+      "endMs": 127700,
+      "en": "A peace deal, so far, has proved elusive.",
+      "zh": "到目前为止，和平协议仍遥不可及。"
+    },
+    {
+      "id": 19,
+      "startMs": 130160,
+      "endMs": 133200,
+      "en": "Many Russians are hoping for a diplomatic breakthrough.",
+      "zh": "许多俄罗斯人希望外交取得突破。"
+    },
+    {
+      "id": 20,
+      "startMs": 133200,
+      "endMs": 142320,
+      "en": "Grigory Yavlinsky is the founder of a party that is publicly calling for peace, for an immediate ceasefire in Ukraine.",
+      "zh": "格里戈里·亚夫林斯基是一个政党的创始人，该党公开呼吁和平，呼吁乌克兰立即停火。"
+    },
+    {
+      "id": 21,
+      "startMs": 143120,
+      "endMs": 147760,
+      "en": "The party has been barred from running in Russia's upcoming parliamentary election.",
+      "zh": "该党被禁止参加俄罗斯即将举行的议会选举。"
+    },
+    {
+      "id": 22,
+      "startMs": 148640,
+      "endMs": 151360,
+      "en": "\"It's necessary to find the common language.\"",
+      "zh": "“有必要找到共同语言。”"
+    },
+    {
+      "id": 23,
+      "startMs": 151520,
+      "endMs": 158160,
+      "en": "\"If we continue in the same way, we would come to something like nuclear war, and that will be the end of the story.\"",
+      "zh": "“如果继续这样下去，我们会走向类似核战争的局面，那将是故事的终结。”"
+    },
+    {
+      "id": 24,
+      "startMs": 160540,
+      "endMs": 166620,
+      "en": "But finding a common language with a Kremlin that is still pushing for victory, that's a challenge.",
+      "zh": "但要与仍在推动胜利的克里姆林宫找到共同语言，是个挑战。"
+    },
+    {
+      "id": 25,
+      "startMs": 167420,
+      "endMs": 169020,
+      "en": "Steve Rosenberg in Moscow.",
+      "zh": "史蒂夫·罗森伯格在莫斯科报道。"
+    },
+    {
+      "id": 26,
+      "startMs": 169660,
+      "endMs": 176300,
+      "en": "But what message are the two envoys taking from Russia to Ukraine, and could a compromise really be on the cards?",
+      "zh": "但两位特使要把什么信息从俄罗斯带到乌克兰？妥协真的可能出现吗？"
+    },
+    {
+      "id": 27,
+      "startMs": 176460,
+      "endMs": 181020,
+      "en": "My colleague Paul Henley spoke to Oleksandr Merezhko, a Ukrainian MP",
+      "zh": "我的同事保罗·亨利采访了乌克兰议员亚历山大·梅列日科。"
+    },
+    {
+      "id": 28,
+      "startMs": 181020,
+      "endMs": 185820,
+      "en": "from President Zelenskyy's party and chair of the parliament's Foreign Policy Committee.",
+      "zh": "他来自泽连斯基总统的政党，并担任议会外交政策委员会主席。"
+    },
+    {
+      "id": 29,
+      "startMs": 186140,
+      "endMs": 194300,
+      "en": "The previous experience with the Russian so-called 28-point plans, it was basically a Russian plan.",
+      "zh": "此前所谓的俄罗斯“28点计划”，基本上就是一份俄罗斯计划。"
+    },
+    {
+      "id": 30,
+      "startMs": 194300,
+      "endMs": 201580,
+      "en": "It was a plan of surrender for Ukraine, and I hope that Mr Trump will not repeat the same mistake again.",
+      "zh": "那是一份要求乌克兰投降的计划，我希望特朗普先生不会再犯同样的错误。"
+    },
+    {
+      "id": 31,
+      "startMs": 201580,
+      "endMs": 206940,
+      "en": "But Putin has not renounced his previous absurd demands with regard to Ukraine,",
+      "zh": "但普京并未放弃此前针对乌克兰的荒谬要求，"
+    },
+    {
+      "id": 32,
+      "startMs": 207340,
+      "endMs": 212780,
+      "en": "so I don't think it will be a serious plan which will be acceptable for Ukraine.",
+      "zh": "所以我不认为这会是一份乌克兰能够接受的严肃计划。"
+    },
+    {
+      "id": 33,
+      "startMs": 213180,
+      "endMs": 219340,
+      "en": "So, what are you hoping for from this US visit to Kyiv tomorrow, and what are you expecting, maybe?",
+      "zh": "那么，你对美国特使明天访问基辅有什么希望？又有什么期待？"
+    },
+    {
+      "id": 34,
+      "startMs": 220320,
+      "endMs": 225040,
+      "en": "The envoys of President Trump will talk to people, will talk to President Zelensky.",
+      "zh": "特朗普总统的特使将与民众交谈，也将与泽连斯基总统交谈。"
+    },
+    {
+      "id": 35,
+      "startMs": 225040,
+      "endMs": 232400,
+      "en": "They will see the results of Russian attacks against Kyiv, because every third building in Kyiv was damaged one way or another.",
+      "zh": "他们将看到俄罗斯袭击基辅造成的后果，因为基辅每三栋建筑中就有一栋受到不同程度的损坏。"
+    },
+    {
+      "id": 36,
+      "startMs": 232880,
+      "endMs": 240240,
+      "en": "And maybe they will start to understand better what's going on, and they will come from the spell of Russian propaganda.",
+      "zh": "也许他们会开始更好地了解正在发生的事情，不再受俄罗斯宣传的迷惑。"
+    },
+    {
+      "id": 37,
+      "startMs": 241380,
+      "endMs": 244820,
+      "en": "Well, do you think they're already biased against Ukraine, then? It sounds like it.",
+      "zh": "那么，你认为他们已经对乌克兰抱有偏见了吗？听起来确实如此。"
+    },
+    {
+      "id": 38,
+      "startMs": 245700,
+      "endMs": 249140,
+      "en": "Judging by their statements, yes, they continue to be biased.",
+      "zh": "从他们的言论来看，是的，他们仍然带有偏见。"
+    },
+    {
+      "id": 39,
+      "startMs": 249140,
+      "endMs": 253780,
+      "en": "And today's compliments addressed to Putin by Mr Witkoff",
+      "zh": "而威特科夫先生今天对普京的恭维，"
+    },
+    {
+      "id": 40,
+      "startMs": 253780,
+      "endMs": 263380,
+      "en": "have already caused uproar in Ukraine, because today Russians have killed a family, including one child.",
+      "zh": "已经在乌克兰引发了轩然大波，因为今天俄罗斯人杀害了一个家庭，其中包括一名儿童。"
+    },
+    {
+      "id": 41,
+      "startMs": 263380,
+      "endMs": 271220,
+      "en": "So Russia continues to kill us, and Mr Witkoff is full of these compliments to a Russian war criminal. For us, it's incomprehensible.",
+      "zh": "所以俄罗斯仍在杀害我们，而威特科夫先生却对一名俄罗斯战争罪犯大加恭维。我们无法理解。"
+    },
+    {
+      "id": 42,
+      "startMs": 271620,
+      "endMs": 276820,
+      "en": "Is Ukraine in any mood to make any compromise in the name of peace right now?",
+      "zh": "现在乌克兰有意为了和平作出任何妥协吗？"
+    },
+    {
+      "id": 43,
+      "startMs": 277940,
+      "endMs": 284260,
+      "en": "Yes, we have already agreed to such a compromise, which is not in our interests, not in our best interests.",
+      "zh": "是的，我们已经同意了这样的妥协，这不符合我们的利益，更不符合我们的最佳利益。"
+    },
+    {
+      "id": 44,
+      "startMs": 284260,
+      "endMs": 285220,
+      "en": "What have you agreed to?",
+      "zh": "你们同意了什么？"
+    },
+    {
+      "id": 45,
+      "startMs": 285940,
+      "endMs": 291300,
+      "en": "A non-conditional ceasefire along the current front line, but no giving up of territory.",
+      "zh": "沿当前前线无条件停火，但不放弃领土。"
+    },
+    {
+      "id": 46,
+      "startMs": 291940,
+      "endMs": 295860,
+      "en": "Absolutely, it's impossible. It's impossible from an international legal perspective.",
+      "zh": "当然不可能。从国际法角度看，这是不可能的。"
+    },
+    {
+      "id": 47,
+      "startMs": 296340,
+      "endMs": 303960,
+      "en": "It's not in the interests of global security, but we also need guarantees that Putin will not attack us again.",
+      "zh": "这不符合全球安全利益，但我们还需要保证，普京不会再次攻击我们。"
+    },
+    {
+      "id": 48,
+      "startMs": 304040,
+      "endMs": 313400,
+      "en": "Can you imagine any peace agreement signed by all sides that would not involve some handing over of territory to Russia?",
+      "zh": "你能想象一份由各方签署、却不涉及向俄罗斯交出部分领土的和平协议吗？"
+    },
+    {
+      "id": 49,
+      "startMs": 314520,
+      "endMs": 318680,
+      "en": "Well, it's impossible. It's impossible from the point of view of our constitution.",
+      "zh": "这不可能。从我们的宪法角度看，这是不可能的。"
+    },
+    {
+      "id": 50,
+      "startMs": 318680,
+      "endMs": 324040,
+      "en": "Our people would never agree to cede an inch of our territory to Russia.",
+      "zh": "我们的人民绝不会同意把一寸领土割让给俄罗斯。"
+    },
+    {
+      "id": 51,
+      "startMs": 324120,
+      "endMs": 332680,
+      "en": "And, you know, to reward the perpetrator, the aggressor, I think it's not good for any country, including the United States.",
+      "zh": "而且，奖励肇事者、侵略者，我认为对任何国家都没有好处，包括美国。"
+    },
+    {
+      "id": 52,
+      "startMs": 332840,
+      "endMs": 337480,
+      "en": "It's exactly the same stand that you've always taken. In other words, yes, absolutely.",
+      "zh": "这正是你一贯的立场。换句话说，是的，完全正确。"
+    },
+    {
+      "id": 53,
+      "startMs": 337720,
+      "endMs": 344120,
+      "en": "Yeah, but it's fair. It's fair. It's based on international law. It's based on political realities.",
+      "zh": "是的，但这是公平的。这是公平的，基于国际法，也基于政治现实。"
+    },
+    {
+      "id": 54,
+      "startMs": 344840,
+      "endMs": 347880,
+      "en": "That was the Ukrainian MP, Oleksandr Merezhko.",
+      "zh": "刚才是乌克兰议员亚历山大·梅列日科。"
+    },
+    {
+      "id": 55,
+      "startMs": 348980,
+      "endMs": 355060,
+      "en": "The civil war in Sudan between the army and the paramilitary Rapid Support Forces has been devastating,",
+      "zh": "苏丹军方与准军事组织快速支援部队之间的内战造成了灾难性后果，"
+    },
+    {
+      "id": 56,
+      "startMs": 355140,
+      "endMs": 359940,
+      "en": "with both sides accused of war crimes, and civilians bearing the brunt of the brutality.",
+      "zh": "双方都被指控犯有战争罪，而平民承受了暴行的最大冲击。"
+    },
+    {
+      "id": 57,
+      "startMs": 360340,
+      "endMs": 367940,
+      "en": "Now, a dossier reported by the New York Times newspaper adds to evidence that the military developed and used chemical weapons.",
+      "zh": "《纽约时报》报道的一份档案，为苏丹军方研制并使用化学武器的说法增添了证据。"
+    },
+    {
+      "id": 58,
+      "startMs": 368260,
+      "endMs": 370740,
+      "en": "Our reporter, Anna Aslam, has the details.",
+      "zh": "我们的记者安娜·阿斯拉姆将介绍详情。"
+    },
+    {
+      "id": 59,
+      "startMs": 371140,
+      "endMs": 378420,
+      "en": "There have been persistent accusations of Sudan's army using chemical weapons to gain an edge in the civil war, which is now in its fourth year.",
+      "zh": "长期以来一直有人指控苏丹军队在内战中使用化学武器以取得优势，而这场内战如今已进入第四年。"
+    },
+    {
+      "id": 60,
+      "startMs": 378980,
+      "endMs": 383700,
+      "en": "But with impartial investigators unable to gain access, there's been no definitive proof.",
+      "zh": "但由于独立调查人员无法进入调查地点，一直没有确凿证据。"
+    },
+    {
+      "id": 61,
+      "startMs": 384340,
+      "endMs": 390980,
+      "en": "Now though, a dossier containing documents, voice notes and texts has been shared with the New York Times by a Middle Eastern intelligence agency.",
+      "zh": "不过，一家中东情报机构已将一份包含文件、语音留言和短信的档案交给《纽约时报》。"
+    },
+    {
+      "id": 62,
+      "startMs": 391540,
+      "endMs": 396900,
+      "en": "It bolsters allegations that the Sudanese army developed toxic bombs in the second half of 2024.",
+      "zh": "这进一步支持了有关苏丹军队在2024年下半年研制有毒炸弹的指控。"
+    },
+    {
+      "id": 63,
+      "startMs": 396900,
+      "endMs": 405860,
+      "en": "Images and videos show gas cylinders inside what appear to be partly constructed bombs, workers wearing gas masks, and a test strike in the desert.",
+      "zh": "图像和视频显示，疑似尚未完工的炸弹内有气瓶，工人戴着防毒面具，沙漠中还进行了一次试验性袭击。"
+    },
+    {
+      "id": 64,
+      "startMs": 406340,
+      "endMs": 408660,
+      "en": "Ronen Bergman from the Times looked through the material.",
+      "zh": "《纽约时报》的罗嫩·伯格曼查看了这些材料。"
+    },
+    {
+      "id": 65,
+      "startMs": 408760,
+      "endMs": 417240,
+      "en": "The general who was appointed, according to this intelligence dossier, to head the chemical warfare project in the Sudanese army,",
+      "zh": "根据这份情报档案，被任命领导苏丹军队化学战项目的那名将军，"
+    },
+    {
+      "id": 66,
+      "startMs": 417640,
+      "endMs": 427560,
+      "en": "he's suggesting a dual-head bomb that will contain explosive, RDX, TNT and chlorine, and some ball bearings.",
+      "zh": "提议制造一种双弹头炸弹，内含炸药、黑索金、TNT、氯气和一些滚珠。"
+    },
+    {
+      "id": 67,
+      "startMs": 428120,
+      "endMs": 435400,
+      "en": "And he says in his messages to high-ranking Sudanese officials that this will have the impact",
+      "zh": "他在给苏丹高级官员的信息中说，这将产生这样的效果，"
+    },
+    {
+      "id": 68,
+      "startMs": 436120,
+      "endMs": 441800,
+      "en": "of terrorizing, of creating the intimidation embedded in the use of a chemical agent,",
+      "zh": "制造恐慌，造成使用化学制剂所带来的威慑，"
+    },
+    {
+      "id": 69,
+      "startMs": 442120,
+      "endMs": 446120,
+      "en": "but at the same time will not leave the same kind of traces like the big cylinders.",
+      "zh": "但同时不会留下像大型气瓶那样的痕迹。"
+    },
+    {
+      "id": 70,
+      "startMs": 446760,
+      "endMs": 451640,
+      "en": "French journalists had earlier found evidence of the Sudanese army using chlorine in a strike",
+      "zh": "法国记者此前发现证据，显示苏丹军队在一次袭击中使用了氯气，"
+    },
+    {
+      "id": 71,
+      "startMs": 451720,
+      "endMs": 456600,
+      "en": "on a key oil refinery north of the capital Khartoum in September 2024.",
+      "zh": "袭击目标是首都喀土穆以北的一座重要炼油厂，时间为2024年9月。"
+    },
+    {
+      "id": 72,
+      "startMs": 456680,
+      "endMs": 463640,
+      "en": "This dossier suggests the bombs used were not gas cylinders as initially reported, but the smaller, purpose-built munitions.",
+      "zh": "这份档案显示，所使用的炸弹并非最初报道的气瓶，而是更小的专门制造的弹药。"
+    },
+    {
+      "id": 73,
+      "startMs": 464200,
+      "endMs": 468760,
+      "en": "It's understood a Sudanese general texted, ‘They drank the gas,’ after the attack,",
+      "zh": "据悉，一名苏丹将军在袭击后发短信说：“他们喝下了毒气”，"
+    },
+    {
+      "id": 74,
+      "startMs": 469320,
+      "endMs": 473800,
+      "en": "and the chemical weapon claim was corroborated by the RSF and news coverage at the time.",
+      "zh": "这一化学武器说法得到了快速支援部队和当时新闻报道的佐证。"
+    },
+    {
+      "id": 75,
+      "startMs": 474520,
+      "endMs": 476840,
+      "en": "Other reported strikes are harder to confirm.",
+      "zh": "其他据报的袭击更难以确认。"
+    },
+    {
+      "id": 76,
+      "startMs": 477320,
+      "endMs": 484520,
+      "en": "Ronen Bergman explains how the army gathered enough chlorine to make hundreds of bombs while the country struggled with cholera outbreaks.",
+      "zh": "罗嫩·伯格曼解释了苏丹军队如何收集足够的氯气制造数百枚炸弹，而这个国家当时正苦于应对霍乱暴发。"
+    },
+    {
+      "id": 77,
+      "startMs": 484840,
+      "endMs": 490200,
+      "en": "The massive cylinders of chlorine, at least some of which were taken from water stations,",
+      "zh": "那些装有大量氯气的气瓶，至少有一些取自供水站，"
+    },
+    {
+      "id": 78,
+      "startMs": 490520,
+      "endMs": 495240,
+      "en": "some of them were supplied by an international humanitarian organisation.",
+      "zh": "其中一些由国际人道组织提供。"
+    },
+    {
+      "id": 79,
+      "startMs": 495560,
+      "endMs": 505080,
+      "en": "So it's not just that they produced weapons based on chlorine, but the chlorine was supposed to be used for the purification of water for civilians.",
+      "zh": "所以，他们不只是制造了以氯气为基础的武器；这些氯气原本应该用于净化平民饮用水。"
+    },
+    {
+      "id": 80,
+      "startMs": 505080,
+      "endMs": 510680,
+      "en": "Sources say the United States was shown the dossier before it imposed multiple rounds of sanctions.",
+      "zh": "消息人士称，美国在实施多轮制裁前看过这份档案。"
+    },
+    {
+      "id": 81,
+      "startMs": 511160,
+      "endMs": 515880,
+      "en": "The alleged chemical program appears to have closed after Washington's sanctions in May 2025.",
+      "zh": "据称的化学武器项目似乎在华盛顿于2025年5月实施制裁后关闭。"
+    },
+    {
+      "id": 82,
+      "startMs": 515880,
+      "endMs": 523320,
+      "en": "Days later, there was an apparent effort to cover up the project, with the army chief instructing to ‘remove all traces.’",
+      "zh": "几天后，似乎有人试图掩盖这一项目，军方负责人下令“清除所有痕迹”。"
+    },
+    {
+      "id": 83,
+      "startMs": 523880,
+      "endMs": 528760,
+      "en": "A Sudanese military spokesman has rejected the dossier's findings as baseless and threatened",
+      "zh": "一名苏丹军方发言人驳斥档案中的调查结果毫无根据，并威胁说，"
+    },
+    {
+      "id": 84,
+      "startMs": 528760,
+      "endMs": 533340,
+      "en": "to sue the New York Times, noting that Sudan has signed up to the Chemical Weapons Convention.",
+      "zh": "要起诉《纽约时报》，并指出苏丹已签署《化学武器公约》。"
+    },
+    {
+      "id": 85,
+      "startMs": 533820,
+      "endMs": 534460,
+      "en": "Anna Aslam.",
+      "zh": "安娜·阿斯拉姆报道。"
+    },
+    {
+      "id": 86,
+      "startMs": 535100,
+      "endMs": 539340,
+      "en": "Now, have you ever had an unwelcome creature enter your house?",
+      "zh": "你有没有遇到过不受欢迎的动物闯进家里？"
+    },
+    {
+      "id": 87,
+      "startMs": 539820,
+      "endMs": 544060,
+      "en": "For most people, rats, mice, bed bugs—that's about as bad as it gets.",
+      "zh": "对大多数人来说，老鼠、家鼠、臭虫大概就是最糟糕的情况了。"
+    },
+    {
+      "id": 88,
+      "startMs": 544380,
+      "endMs": 548940,
+      "en": "But in Australia, some residents are dealing with far more exotic intruders.",
+      "zh": "但在澳大利亚，一些居民要应对的入侵者要奇特得多。"
+    },
+    {
+      "id": 89,
+      "startMs": 548940,
+      "endMs": 555580,
+      "en": "Researchers at the University of Melbourne have analysed thousands of wildlife break-ins at homes and other buildings.",
+      "zh": "墨尔本大学的研究人员分析了数千起野生动物闯入住宅和其他建筑物的事件。"
+    },
+    {
+      "id": 90,
+      "startMs": 555900,
+      "endMs": 562780,
+      "en": "They say habitat destruction is making these encounters increasingly common, and not just in Australia, but around the world.",
+      "zh": "他们说，栖息地遭到破坏使这类相遇越来越常见，而且不只是在澳大利亚，而是遍及世界各地。"
+    },
+    {
+      "id": 91,
+      "startMs": 563340,
+      "endMs": 568940,
+      "en": "I spoke to Helena Burke about some of the animal squatters recorded in the study.",
+      "zh": "我就研究中记录的一些动物“住客”采访了海伦娜·伯克。"
+    },
+    {
+      "id": 92,
+      "startMs": 569020,
+      "endMs": 574940,
+      "en": "There's a big variety. It ranges from things as cute as little sugar gliders, which kind of look a bit like a squirrel,",
+      "zh": "动物种类非常丰富，从可爱的蜜袋鼯——有点像松鼠——"
+    },
+    {
+      "id": 93,
+      "startMs": 575180,
+      "endMs": 578220,
+      "en": "to tiger snakes, which are one of the most venomous snakes in the world.",
+      "zh": "到世界上毒性最强的蛇之一虎蛇，应有尽有。"
+    },
+    {
+      "id": 94,
+      "startMs": 578700,
+      "endMs": 583020,
+      "en": "By far the most common home invader though, is possums, according to the study.",
+      "zh": "不过，研究显示，最常闯入住宅的动物无疑是负鼠。"
+    },
+    {
+      "id": 95,
+      "startMs": 583340,
+      "endMs": 587180,
+      "en": "They're cat-sized marsupials that kind of look like a cuter version of a rat.",
+      "zh": "它们是猫那么大的有袋动物，有点像更可爱的老鼠。"
+    },
+    {
+      "id": 96,
+      "startMs": 587740,
+      "endMs": 594560,
+      "en": "I spoke to one of the researchers involved in the study, and she told me there's some pretty funny stories of people finding these animals in their homes.",
+      "zh": "我采访了一位参与这项研究的人员，她告诉我，人们在家中发现这些动物的故事相当有趣。"
+    },
+    {
+      "id": 97,
+      "startMs": 594960,
+      "endMs": 599760,
+      "en": "One woman had an echidna get inside her pantry and start pulling things off the shelves.",
+      "zh": "一名女子发现一只针鼹进入了她的食品储藏室，开始把架子上的东西往下拉。"
+    },
+    {
+      "id": 98,
+      "startMs": 600000,
+      "endMs": 602720,
+      "en": "Another person came home to a koala sitting on her bed,",
+      "zh": "另一个人回家时发现一只考拉坐在床上，"
+    },
+    {
+      "id": 99,
+      "startMs": 603200,
+      "endMs": 608560,
+      "en": "and another person heard strange chirping sounds coming from the extractor fan in their shower,",
+      "zh": "还有人听到淋浴间排风扇里传出奇怪的啾啾声，"
+    },
+    {
+      "id": 100,
+      "startMs": 608880,
+      "endMs": 613040,
+      "en": "only to discover that a family of kookaburras had taken up residence inside the fan.",
+      "zh": "结果发现是一家笑翠鸟在风扇里安了家。"
+    },
+    {
+      "id": 101,
+      "startMs": 613360,
+      "endMs": 619120,
+      "en": "Wow, I mean, personally, I can't think of anything cuter than coming home and finding a koala in my bed.",
+      "zh": "哇，我是说，就我个人而言，我想不出还有什么比回家发现床上有一只考拉更可爱的事了。"
+    },
+    {
+      "id": 102,
+      "startMs": 619600,
+      "endMs": 623520,
+      "en": "I mean, my wife might have something to say about it, but I think it sounds great. But this is serious, isn't it?",
+      "zh": "我是说，我妻子对此可能有话要说，但我觉得这听起来很棒。不过，这很严重，对吧？"
+    },
+    {
+      "id": 103,
+      "startMs": 623520,
+      "endMs": 627520,
+      "en": "Because it's actually driven by habitat destruction for these poor animals.",
+      "zh": "因为对这些可怜的动物来说，这其实是栖息地破坏造成的。"
+    },
+    {
+      "id": 104,
+      "startMs": 627760,
+      "endMs": 635280,
+      "en": "Yeah, so this research focuses on 2,400 instances of wildlife entering buildings in the Australian state of Victoria,",
+      "zh": "是的，这项研究关注的是澳大利亚维多利亚州的2,400起野生动物进入建筑物的事件，"
+    },
+    {
+      "id": 105,
+      "startMs": 635760,
+      "endMs": 641760,
+      "en": "and a lot of these are occurring in cities, particularly the capital of Victoria, Melbourne, and that's because of urban sprawl.",
+      "zh": "其中许多发生在城市，尤其是维多利亚州首府墨尔本，这是因为城市无序扩张。"
+    },
+    {
+      "id": 106,
+      "startMs": 641920,
+      "endMs": 647680,
+      "en": "More and more trees are being cut down, and these animals are having to find new places to nest and shelter because of it.",
+      "zh": "越来越多的树木被砍伐，这些动物不得不因此寻找新的筑巢和栖身之处。"
+    },
+    {
+      "id": 107,
+      "startMs": 648160,
+      "endMs": 650660,
+      "en": "And sometimes, that's inside people's homes.",
+      "zh": "而有时，那些地方就在人的家中。"
+    },
+    {
+      "id": 108,
+      "startMs": 650660,
+      "endMs": 654580,
+      "en": "While habitat destruction is a big problem, one of the co-authors of the study,",
+      "zh": "虽然栖息地破坏是个大问题，但这项研究的一位共同作者，"
+    },
+    {
+      "id": 109,
+      "startMs": 654660,
+      "endMs": 660980,
+      "en": "Sarah Bekessy, actually told me that wildlife being around people's houses isn't necessarily a bad thing.",
+      "zh": "萨拉·贝克西告诉我，野生动物出现在人们房屋周围未必是坏事。"
+    },
+    {
+      "id": 110,
+      "startMs": 661380,
+      "endMs": 668660,
+      "en": "There's been some really interesting recent research that shows if you can hear and see birds from your house,",
+      "zh": "近期有一项很有趣的研究显示，如果你在家中能听见、看见鸟儿，"
+    },
+    {
+      "id": 111,
+      "startMs": 669140,
+      "endMs": 673380,
+      "en": "even if you have possums nesting in your roof, which probably irritates some Australians,",
+      "zh": "即使屋顶有负鼠筑巢，这可能会让一些澳大利亚人感到烦恼，"
+    },
+    {
+      "id": 112,
+      "startMs": 673460,
+      "endMs": 676340,
+      "en": "but actually the evidence is, it's good for your health.",
+      "zh": "但证据其实表明，这有益于你的健康。"
+    },
+    {
+      "id": 113,
+      "startMs": 676420,
+      "endMs": 678740,
+      "en": "It's really good for your mental wellbeing in particular.",
+      "zh": "尤其对心理健康非常有益。"
+    },
+    {
+      "id": 114,
+      "startMs": 679300,
+      "endMs": 685540,
+      "en": "The health and wellbeing benefits of connecting with and having nature close to us are really quite extraordinary.",
+      "zh": "与大自然建立联系、让自然贴近身边，对健康和福祉的益处确实非同寻常。"
+    },
+    {
+      "id": 115,
+      "startMs": 686020,
+      "endMs": 688100,
+      "en": "But maybe not so close they're in your bed.",
+      "zh": "但也许不必近到爬上你的床。"
+    },
+    {
+      "id": 116,
+      "startMs": 688420,
+      "endMs": 694260,
+      "en": "I mean, is there anything the researchers are telling us, Helena, that we can do to keep the wildlife in the wild?",
+      "zh": "我的意思是，海伦娜，研究人员有没有告诉我们可以做些什么，让野生动物留在野外？"
+    },
+    {
+      "id": 117,
+      "startMs": 694580,
+      "endMs": 701940,
+      "en": "So, aside from preventing further habitat destruction, we can also help animals by creating spaces around our homes that accommodate them.",
+      "zh": "所以，除了防止栖息地进一步遭到破坏，我们还可以在住宅周围打造容纳动物的空间来帮助它们。"
+    },
+    {
+      "id": 118,
+      "startMs": 702340,
+      "endMs": 706260,
+      "en": "And that's something that Professor Bekessy is really encouraging in future architecture.",
+      "zh": "这正是贝克西教授非常鼓励未来建筑去实践的做法。"
+    },
+    {
+      "id": 119,
+      "startMs": 706660,
+      "endMs": 713400,
+      "en": "Imagine a moment where we could actually start really intentionally designing for cohabitation in our homes,",
+      "zh": "设想一下，有一天我们可以真正有意识地为人与动物在住宅中共居而设计，"
+    },
+    {
+      "id": 120,
+      "startMs": 713800,
+      "endMs": 721960,
+      "en": "so that might mean having a sleeping habitat for possums, or accessible places for wombats to burrow under houses,",
+      "zh": "比如为负鼠设置睡眠栖息处，或为袋熊提供能钻到房屋下方的通道，"
+    },
+    {
+      "id": 121,
+      "startMs": 722040,
+      "endMs": 727320,
+      "en": "intentional spaces for bats to nest within our wall cavities.",
+      "zh": "在墙体空腔中为蝙蝠设置专门的筑巢空间。"
+    },
+    {
+      "id": 122,
+      "startMs": 727640,
+      "endMs": 729960,
+      "en": "This kind of stuff may seem trivial, but, you know,",
+      "zh": "这类做法看似微不足道，但你知道，"
+    },
+    {
+      "id": 123,
+      "startMs": 730200,
+      "endMs": 736760,
+      "en": "cities are increasingly having a role to play in helping to tackle the biodiversity extinction crisis.",
+      "zh": "城市正日益发挥作用，帮助应对生物多样性灭绝危机。"
+    },
+    {
+      "id": 124,
+      "startMs": 737160,
+      "endMs": 741960,
+      "en": "So, all of these things can add up to really benefit biodiversity over the long term.",
+      "zh": "因此，所有这些举措长期累积起来，都能真正造福生物多样性。"
+    },
+    {
+      "id": 125,
+      "startMs": 742520,
+      "endMs": 745800,
+      "en": "Here in the UK, swift bricks are already very common,",
+      "zh": "在英国，雨燕砖已经非常普遍，"
+    },
+    {
+      "id": 126,
+      "startMs": 745800,
+      "endMs": 751240,
+      "en": "which are these hollow bricks in a wall that contain a hole that allows birds to nest inside them.",
+      "zh": "这种墙体空心砖上有孔洞，鸟儿可以在里面筑巢。"
+    },
+    {
+      "id": 127,
+      "startMs": 751560,
+      "endMs": 755720,
+      "en": "So, it's really stuff like that that conservationists are wanting to see more of.",
+      "zh": "所以，保护人士希望看到更多这样的做法。"
+    },
+    {
+      "id": 128,
+      "startMs": 756120,
+      "endMs": 759000,
+      "en": "Helena Burke on those intrusive critters,",
+      "zh": "海伦娜·伯克谈到了那些闯入住宅的动物，"
+    },
+    {
+      "id": 129,
+      "startMs": 759560,
+      "endMs": 763960,
+      "en": "and from animals in people's houses to animals on the stage,",
+      "zh": "从人们家中的动物，转到舞台上的动物，"
+    },
+    {
+      "id": 130,
+      "startMs": 764200,
+      "endMs": 768920,
+      "en": "the Metropolitan Opera in New York has held an audition for a snake to take part.",
+      "zh": "纽约大都会歌剧院为一条将登台演出的蛇举行了试镜。"
+    },
+    {
+      "id": 131,
+      "startMs": 769260,
+      "endMs": 773260,
+      "en": "In a forthcoming adaptation of the classic Mozart opera Così fan tutte,",
+      "zh": "在莫扎特经典歌剧《女人皆如此》的即将推出的改编版中，"
+    },
+    {
+      "id": 132,
+      "startMs": 773980,
+      "endMs": 778940,
+      "en": "the performer who gets to work with the creature examined each candidate to check its temperament",
+      "zh": "负责与这条动物合作的表演者逐一检查候选蛇的脾性，"
+    },
+    {
+      "id": 133,
+      "startMs": 779340,
+      "endMs": 782140,
+      "en": "and whether it could handle the bright lights of the theatre.",
+      "zh": "以及它能否适应剧院明亮的灯光。"
+    },
+    {
+      "id": 134,
+      "startMs": 782380,
+      "endMs": 783660,
+      "en": "Steve Jackson has more.",
+      "zh": "史蒂夫·杰克逊带来更多报道。"
+    },
+    {
+      "id": 135,
+      "startMs": 787820,
+      "endMs": 793500,
+      "en": "When Mozart's Così fan tutte was first performed in 1790, there was no role in it for a snake.",
+      "zh": "莫扎特的《女人皆如此》1790年首演时，剧中并没有蛇的角色。"
+    },
+    {
+      "id": 136,
+      "startMs": 793820,
+      "endMs": 801500,
+      "en": "But the Metropolitan Opera's adaptation is set at a 1950s Coney Island carnival, and a serpent is very much part of the act.",
+      "zh": "但大都会歌剧院的改编版以20世纪50年代的康尼岛嘉年华为背景，蛇是演出不可或缺的一部分。"
+    },
+    {
+      "id": 137,
+      "startMs": 801900,
+      "endMs": 806380,
+      "en": "This is thought to be the first time the Met has held live auditions on site for a snake.",
+      "zh": "据认为，这是大都会歌剧院首次在现场为蛇举行实景试镜。"
+    },
+    {
+      "id": 138,
+      "startMs": 806860,
+      "endMs": 813260,
+      "en": "The winner was a peach-coloured boa constrictor named Princess, a larger snake who was a more charismatic performer.",
+      "zh": "获胜者是一条名叫“公主”的桃色蟒蛇；这条较大的蛇更具表演魅力。"
+    },
+    {
+      "id": 139,
+      "startMs": 813820,
+      "endMs": 820620,
+      "en": "But a second smaller snake is being taken on as an understudy, in case the star of the show gets rattled before a performance.",
+      "zh": "但剧组还将启用第二条较小的蛇担任替补，以防明星蛇在演出前受到惊吓。"
+    },
+    {
+      "id": 140,
+      "startMs": 824700,
+      "endMs": 827820,
+      "en": "Steve Jackson, a master of puns, reporting.",
+      "zh": "史蒂夫·杰克逊报道——他真是个双关语大师。"
+    },
+    {
+      "id": 141,
+      "startMs": 830020,
+      "endMs": 836900,
+      "en": "Still to come: It's tough. The ground is very hard, and it's tiring.",
+      "zh": "稍后还有：这很艰难。地面非常坚硬，挖起来很累。"
+    },
+    {
+      "id": 142,
+      "startMs": 837108,
+      "endMs": 841620,
+      "en": "It's very different here at the race, because here speed is the main thing.",
+      "zh": "这里的比赛完全不同，因为速度是最重要的。"
+    },
+    {
+      "id": 143,
+      "startMs": 841940,
+      "endMs": 843620,
+      "en": "But what are they racing to achieve?",
+      "zh": "但他们比赛究竟是为了什么？"
+    },
+    {
+      "id": 144,
+      "startMs": 844180,
+      "endMs": 846740,
+      "en": "We'll fill you in before the end of the podcast.",
+      "zh": "播客结束前我们会为你揭晓。"
+    },
+    {
+      "id": 145,
+      "startMs": 846740,
+      "endMs": 848500,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 146,
+      "startMs": 849220,
+      "endMs": 857780,
+      "en": "The US ambassador to Israel has visited Palestinian Americans in the occupied West Bank after a rise in attacks by Israeli settlers.",
+      "zh": "在以色列定居者袭击增加后，美国驻以色列大使访问了被占领约旦河西岸的巴勒斯坦裔美国人。"
+    },
+    {
+      "id": 147,
+      "startMs": 858340,
+      "endMs": 862180,
+      "en": "Mike Huckabee again described settler attacks as acts of terror,",
+      "zh": "迈克·赫卡比再次称定居者袭击是恐怖行为，"
+    },
+    {
+      "id": 148,
+      "startMs": 862420,
+      "endMs": 867700,
+      "en": "but he has repeatedly defended Israeli settlements, which are illegal under international law.",
+      "zh": "但他一再为以色列定居点辩护，而这些定居点违反国际法。"
+    },
+    {
+      "id": 149,
+      "startMs": 868020,
+      "endMs": 872020,
+      "en": "Our Middle East correspondent Lucy Williamson filed this report from the West Bank.",
+      "zh": "我们的中东记者露西·威廉姆森从约旦河西岸发来报道。"
+    },
+    {
+      "id": 150,
+      "startMs": 873540,
+      "endMs": 878740,
+      "en": "How are you doing? Got enough cameras over there?",
+      "zh": "你好吗？那边的摄像机够用吗？"
+    },
+    {
+      "id": 151,
+      "startMs": 878740,
+      "endMs": 881620,
+      "en": "America's ambassador said he came to Turmus Ayya to listen.",
+      "zh": "美国大使说，他来到图尔穆斯艾亚是为了倾听。"
+    },
+    {
+      "id": 152,
+      "startMs": 882260,
+      "endMs": 887220,
+      "en": "The residents lined up to greet him at a house here today, awaiting America to act.",
+      "zh": "今天，居民们在这里一所房屋前排队迎接他，等待美国采取行动。"
+    },
+    {
+      "id": 153,
+      "startMs": 887300,
+      "endMs": 890580,
+      "en": "And in representing American people, if they have grievances, we want to hear them.",
+      "zh": "作为美国人民的代表，如果他们有任何不满，我们希望听到。"
+    },
+    {
+      "id": 154,
+      "startMs": 890580,
+      "endMs": 897300,
+      "en": "Palestinian Americans in the occupied West Bank have lost land, homes, and family members in settler attacks.",
+      "zh": "被占领约旦河西岸的巴勒斯坦裔美国人在定居者袭击中失去了土地、家园和亲人。"
+    },
+    {
+      "id": 155,
+      "startMs": 898180,
+      "endMs": 905860,
+      "en": "More than 80 Palestinians have been killed in the occupied West Bank this year by Israeli soldiers or settlers, according to the UN.",
+      "zh": "据联合国消息，今年已有80多名巴勒斯坦人在被占领约旦河西岸遭以色列士兵或定居者杀害。"
+    },
+    {
+      "id": 156,
+      "startMs": 906580,
+      "endMs": 916020,
+      "en": "Mike Huckabee says the problem isn't Israel's fiercely pro-settlement policies, but a tiny minority of settlers, who he's labelled terrorists.",
+      "zh": "迈克·赫卡比说，问题不在于以色列强力支持定居点的政策，而在于一小撮被他称为恐怖分子的定居者。"
+    },
+    {
+      "id": 157,
+      "startMs": 916340,
+      "endMs": 919460,
+      "en": "\"Hi, everyone.\" Speaking to journalists after his meetings today,",
+      "zh": "“大家好。”今天会面后，他对记者说，"
+    },
+    {
+      "id": 158,
+      "startMs": 919700,
+      "endMs": 926420,
+      "en": "\"Everybody set?\" He said there should be equal justice for violence, whether the perpetrator was Israeli or Palestinian.",
+      "zh": "“大家准备好了吗？”他说，无论施暴者是以色列人还是巴勒斯坦人，暴力都应受到同等的司法对待。"
+    },
+    {
+      "id": 159,
+      "startMs": 926980,
+      "endMs": 935560,
+      "en": "Crime is crime, terror is terror. When people do it, they should have an expectation that they will have severe consequences for doing it.",
+      "zh": "犯罪就是犯罪，恐怖就是恐怖。人们实施这些行为，就应预料到会因此承担严重后果。"
+    },
+    {
+      "id": 160,
+      "startMs": 935800,
+      "endMs": 938040,
+      "en": "But what's America actually prepared to do?",
+      "zh": "但美国究竟准备采取什么行动？"
+    },
+    {
+      "id": 161,
+      "startMs": 938280,
+      "endMs": 947720,
+      "en": "Your government lifted sanctions on violent settlers here. Why did your government do that, and will you reimpose them, given what's happening?",
+      "zh": "你们的政府取消了对这里暴力定居者的制裁。鉴于当前发生的一切，你们政府为何这么做？会重新实施制裁吗？"
+    },
+    {
+      "id": 162,
+      "startMs": 947720,
+      "endMs": 950680,
+      "en": "Let me tell you what an ambassador does and doesn't do.",
+      "zh": "我来告诉你，大使该做什么、不该做什么。"
+    },
+    {
+      "id": 163,
+      "startMs": 951240,
+      "endMs": 953320,
+      "en": "We carry out policy, but we don't make it.",
+      "zh": "我们执行政策，但不是制定政策。"
+    },
+    {
+      "id": 164,
+      "startMs": 954120,
+      "endMs": 958920,
+      "en": "So I'm the pharmacist, not the chemist. I don't make the medicine, I dispense it.",
+      "zh": "所以我是药剂师，不是化学家。我不制造药物，只负责分发。"
+    },
+    {
+      "id": 165,
+      "startMs": 959640,
+      "endMs": 964280,
+      "en": "That's a question you need to raise to Washington. It's conversations we certainly have.",
+      "zh": "这个问题你应该向华盛顿提出。我们当然会进行相关沟通。"
+    },
+    {
+      "id": 166,
+      "startMs": 965080,
+      "endMs": 970280,
+      "en": "Even with the US ambassador in Turmus Ayya, the daily incursions by settlers continued. \"He doesn't, he doesn't care. Look, look at...\"",
+      "zh": "即使美国大使在图尔穆斯艾亚，定居者每天仍在闯入。“他不在乎，他根本不在乎。看，你看……”"
+    },
+    {
+      "id": 167,
+      "startMs": 973540,
+      "endMs": 979300,
+      "en": "As residents stood with Huckabee on the roof of the house, pointing out illegal settler outposts,",
+      "zh": "居民和赫卡比站在屋顶，指着非法的定居者前哨，"
+    },
+    {
+      "id": 168,
+      "startMs": 979700,
+      "endMs": 988660,
+      "en": "Jewish settlers in an ATV briefly entered Turmus Ayya, driving down a road meters from the ambassador, who began filming on his phone.",
+      "zh": "犹太定居者乘一辆全地形车短暂进入图尔穆斯艾亚，沿着距大使仅几米的道路驶过；大使开始用手机拍摄。"
+    },
+    {
+      "id": 169,
+      "startMs": 989220,
+      "endMs": 994660,
+      "en": "There is no respect for nobody. They have no respect, one of his Palestinian hosts says.",
+      "zh": "他们谁都不尊重。一名巴勒斯坦东道主说：他们毫无敬意。"
+    },
+    {
+      "id": 170,
+      "startMs": 995380,
+      "endMs": 998980,
+      "en": "Yes, the ambassador replies. To our land, to our houses.",
+      "zh": "大使回答：“是的。”——他们不尊重我们的土地、我们的房屋。"
+    },
+    {
+      "id": 171,
+      "startMs": 999620,
+      "endMs": 1008340,
+      "en": "One of the residents in the house with Huckabee was Abu Awad, an American citizen whose nearby farmhouse has been blocked by settlers for months.",
+      "zh": "和赫卡比在屋里的居民之一是阿布·阿瓦德。这名美国公民附近的农舍已被定居者封堵数月。"
+    },
+    {
+      "id": 172,
+      "startMs": 1008420,
+      "endMs": 1013220,
+      "en": "But America's the only country that could really pressure Israel to do something.",
+      "zh": "但美国是唯一真正能够施压、促使以色列采取行动的国家。"
+    },
+    {
+      "id": 173,
+      "startMs": 1013220,
+      "endMs": 1019780,
+      "en": "Yeah, but, you know, America, as I told you, you don't put pressure on your small child. So...",
+      "zh": "是，但你知道，我告诉过你，你不会向自己的小孩子施压。所以……"
+    },
+    {
+      "id": 174,
+      "startMs": 1020020,
+      "endMs": 1022740,
+      "en": "You're saying Israel is the small child of America? Exactly.",
+      "zh": "你的意思是，以色列是美国的小孩子？——正是。"
+    },
+    {
+      "id": 175,
+      "startMs": 1022740,
+      "endMs": 1028500,
+      "en": "Even who supported Israel, who supplied Israel with the weapons, who destroyed the whole region.",
+      "zh": "看看是谁支持以色列、向以色列提供武器、摧毁了整个地区。"
+    },
+    {
+      "id": 176,
+      "startMs": 1028540,
+      "endMs": 1033140,
+      "en": "But how does that feel for you as an American? I feel bad.",
+      "zh": "但作为美国人，这让你感觉如何？我感觉很糟。"
+    },
+    {
+      "id": 177,
+      "startMs": 1033560,
+      "endMs": 1042440,
+      "en": "I would like America to be, you know, justice and freedom and equality. That's their message for the whole world.",
+      "zh": "我希望美国能实现正义、自由与平等。那是他们向全世界传递的信息。"
+    },
+    {
+      "id": 178,
+      "startMs": 1043320,
+      "endMs": 1049120,
+      "en": "Do you think Huckabee will help you get your house back? I don't think so.",
+      "zh": "你认为赫卡比会帮你拿回房子吗？我不这么认为。"
+    },
+    {
+      "id": 179,
+      "startMs": 1050480,
+      "endMs": 1052480,
+      "en": "This my land, this my country.",
+      "zh": "这是我的土地，这是我的国家。"
+    },
+    {
+      "id": 180,
+      "startMs": 1052480,
+      "endMs": 1058880,
+      "en": "Because earlier this week, a Jewish settler was filmed on the roof of a house in Turmus Ayya, laying claim to it.",
+      "zh": "因为本周早些时候，有人拍到一名犹太定居者站在图尔穆斯艾亚一所房屋的屋顶，声称那是他的房子。"
+    },
+    {
+      "id": 181,
+      "startMs": 1058880,
+      "endMs": 1065120,
+      "en": "All Israeli settlements in the West Bank are illegal under international law.",
+      "zh": "根据国际法，以色列在约旦河西岸的所有定居点都是非法的。"
+    },
+    {
+      "id": 182,
+      "startMs": 1066140,
+      "endMs": 1072380,
+      "en": "Israel said this week it had arrested five people for violence in the West Bank, including for settler attacks.",
+      "zh": "以色列本周称，已逮捕五名在约旦河西岸实施暴力的人，其中包括发动定居者袭击者。"
+    },
+    {
+      "id": 183,
+      "startMs": 1072940,
+      "endMs": 1080940,
+      "en": "But despite Israel's powerful security services and the words of its superpower ally, Israelis are still carrying out attacks.",
+      "zh": "但尽管以色列拥有强大的安全部门，其超级大国盟友也发出表态，以色列人仍在发动袭击。"
+    },
+    {
+      "id": 184,
+      "startMs": 1081960,
+      "endMs": 1085720,
+      "en": "The BBC's Middle East correspondent Lucy Williamson with that report.",
+      "zh": "以上是BBC中东记者露西·威廉姆森的报道。"
+    },
+    {
+      "id": 185,
+      "startMs": 1086800,
+      "endMs": 1090560,
+      "en": "Now, it's an arcade promoting the MAGA agenda.",
+      "zh": "接下来是一家宣传“MAGA”议程的街机厅。"
+    },
+    {
+      "id": 186,
+      "startMs": 1095220,
+      "endMs": 1103220,
+      "en": "With early 1990s-style pixel art, the White House has released a series of games inspired by nostalgic classics.",
+      "zh": "白宫以20世纪90年代初的像素画风，推出了一系列怀旧经典风格的游戏。"
+    },
+    {
+      "id": 187,
+      "startMs": 1103460,
+      "endMs": 1106340,
+      "en": "One is a Tetris-style game called Build the Wall.",
+      "zh": "其中一款是类似《俄罗斯方块》的游戏，名为《筑墙》。"
+    },
+    {
+      "id": 188,
+      "startMs": 1106820,
+      "endMs": 1112180,
+      "en": "Rio Run, inspired by Snake, sees players collecting immigrants as border patrol.",
+      "zh": "《里约奔跑》受《贪吃蛇》启发，让玩家扮演边境巡逻人员收集移民。"
+    },
+    {
+      "id": 189,
+      "startMs": 1112740,
+      "endMs": 1117220,
+      "en": "Others are Trump Savings Tycoon, Flappy Bill, and Supply Line.",
+      "zh": "其他游戏还有《特朗普储蓄大亨》《比尔飞翔》和《补给线》。"
+    },
+    {
+      "id": 190,
+      "startMs": 1117540,
+      "endMs": 1120420,
+      "en": "It's all drawn sharp criticism from human rights groups.",
+      "zh": "这些游戏都招致人权组织的强烈批评。"
+    },
+    {
+      "id": 191,
+      "startMs": 1120820,
+      "endMs": 1124580,
+      "en": "Keza MacDonald is the games editor for the British Guardian newspaper.",
+      "zh": "凯扎·麦克唐纳是英国《卫报》的游戏编辑。"
+    },
+    {
+      "id": 192,
+      "startMs": 1124980,
+      "endMs": 1129620,
+      "en": "This is far from the first time that the Trump White House has used video game imagery in its messaging.",
+      "zh": "这绝不是特朗普政府第一次在宣传中使用电子游戏元素。"
+    },
+    {
+      "id": 193,
+      "startMs": 1130020,
+      "endMs": 1134660,
+      "en": "Last year, the White House tweeted a picture of President Trump as Master Chief from the Halo games.",
+      "zh": "去年，白宫在推特上发布了一张特朗普总统化身《光环》系列士官长的图片。"
+    },
+    {
+      "id": 194,
+      "startMs": 1134740,
+      "endMs": 1138500,
+      "en": "They've also used Call of Duty footage in posting about the war on Iran.",
+      "zh": "白宫还曾在发布伊朗战争相关内容时使用《使命召唤》的画面。"
+    },
+    {
+      "id": 195,
+      "startMs": 1138900,
+      "endMs": 1142100,
+      "en": "Today, the Tetris Company posted a message saying.",
+      "zh": "今天，《俄罗斯方块》公司发布声明说："
+    },
+    {
+      "id": 196,
+      "startMs": 1142120,
+      "endMs": 1150120,
+      "en": "The Tetris Company believes in acceptance and togetherness, which is obviously a reaction to one of these games, Build the Wall, being a riff on Tetris.",
+      "zh": "《俄罗斯方块》公司表示相信包容与团结，这显然是在回应其中一款游戏《筑墙》对《俄罗斯方块》的戏仿。"
+    },
+    {
+      "id": 197,
+      "startMs": 1150280,
+      "endMs": 1156520,
+      "en": "But then also, if you look at the trailer for this little collection of White House arcade games, it riffs on the Sega branding.",
+      "zh": "不过，如果你看看这组白宫街机游戏的预告片，它还戏仿了世嘉的品牌形象。"
+    },
+    {
+      "id": 198,
+      "startMs": 1156600,
+      "endMs": 1160680,
+      "en": "Sega, it goes MAGA in the same way that the Sega consoles used to.",
+      "zh": "它把世嘉改成了“MAGA”，就像过去世嘉游戏机品牌的说法一样。"
+    },
+    {
+      "id": 199,
+      "startMs": 1161080,
+      "endMs": 1164360,
+      "en": "So I do think someone somewhere at some point is surely going to have an issue.",
+      "zh": "所以我确实认为，迟早会有人对此提出异议。"
+    },
+    {
+      "id": 200,
+      "startMs": 1164360,
+      "endMs": 1169640,
+      "en": "And the alt-right, as it used to be known, and video game culture have always actually been intertwined.",
+      "zh": "而曾被称为“另类右翼”的群体，实际上一直与电子游戏文化交织在一起。"
+    },
+    {
+      "id": 201,
+      "startMs": 1169640,
+      "endMs": 1173800,
+      "en": "A lot of the modern kind of far-right figures have arisen from toxic gamer culture.",
+      "zh": "许多现代极右翼人物都出自有毒的玩家文化。"
+    },
+    {
+      "id": 202,
+      "startMs": 1173800,
+      "endMs": 1175480,
+      "en": "These are younger men, mostly.",
+      "zh": "这些人主要是年轻男性。"
+    },
+    {
+      "id": 203,
+      "startMs": 1175480,
+      "endMs": 1181000,
+      "en": "And the people who are doing Trump's messaging, the people who are working in Trump's comms, video game imagery isn't foreign.",
+      "zh": "为特朗普做宣传、在特朗普传播团队工作的人，对电子游戏元素并不陌生。"
+    },
+    {
+      "id": 204,
+      "startMs": 1181000,
+      "endMs": 1183400,
+      "en": "Video game memes are kind of home-grown.",
+      "zh": "电子游戏梗对他们来说算是土生土长的表达。"
+    },
+    {
+      "id": 205,
+      "startMs": 1183480,
+      "endMs": 1188200,
+      "en": "And also obviously it speaks to people who grew up with video games, which at this point is everyone under about 40.",
+      "zh": "这显然也能引起伴随电子游戏长大的人共鸣，如今这几乎涵盖40岁以下的所有人。"
+    },
+    {
+      "id": 206,
+      "startMs": 1188680,
+      "endMs": 1191800,
+      "en": "So it's a large group of people who will find this stuff instantly recognizable.",
+      "zh": "所以会有一大群人立刻认出这些东西。"
+    },
+    {
+      "id": 207,
+      "startMs": 1191880,
+      "endMs": 1195800,
+      "en": "And I think with these games, they're not intended to be great video games that are entertaining to play.",
+      "zh": "而且我认为，这些游戏本就不是为了成为玩起来很有趣的优秀电子游戏。"
+    },
+    {
+      "id": 208,
+      "startMs": 1195800,
+      "endMs": 1197560,
+      "en": "What they're intended to do is annoy people.",
+      "zh": "它们的目的就是惹恼人们。"
+    },
+    {
+      "id": 209,
+      "startMs": 1197960,
+      "endMs": 1202120,
+      "en": "I truly believe they're out there to spark outrage and to poke the bear, as it were.",
+      "zh": "我真的认为，它们就是为了激起愤怒，或者说故意招惹别人。"
+    },
+    {
+      "id": 210,
+      "startMs": 1202620,
+      "endMs": 1209180,
+      "en": "And of course, if anyone, you know, die-hard Trumpian video gamers are going to spend 5 minutes with them, laugh, maybe take a screenshot and move on,",
+      "zh": "当然，如果那些死忠特朗普派的电子游戏玩家花5分钟玩玩，笑一笑，也许截张图，然后继续前进，"
+    },
+    {
+      "id": 211,
+      "startMs": 1209580,
+      "endMs": 1212300,
+      "en": "they're not, you know, serious pieces of work in any way.",
+      "zh": "它们无论如何都算不上什么严肃的作品。"
+    },
+    {
+      "id": 212,
+      "startMs": 1212780,
+      "endMs": 1213580,
+      "en": "Keza MacDonald.",
+      "zh": "凯扎·麦克唐纳的报道。"
+    },
+    {
+      "id": 213,
+      "startMs": 1214780,
+      "endMs": 1218060,
+      "en": "Which country do you think of when you hear the bagpipes?",
+      "zh": "听到风笛时，你会想到哪个国家？"
+    },
+    {
+      "id": 214,
+      "startMs": 1218220,
+      "endMs": 1221580,
+      "en": "Probably not Oman, on the southern flank of the Strait of Hormuz,",
+      "zh": "可能不是位于霍尔木兹海峡南侧的阿曼，"
+    },
+    {
+      "id": 215,
+      "startMs": 1221740,
+      "endMs": 1229580,
+      "en": "but the Middle Eastern country has a rich tradition of bagpipe music, which it says predates any contact with Scottish pipers.",
+      "zh": "但这个中东国家拥有深厚的风笛音乐传统，据称早于与苏格兰风笛手的任何接触。"
+    },
+    {
+      "id": 216,
+      "startMs": 1230140,
+      "endMs": 1236060,
+      "en": "Among the players in Oman are a group of people who can trace their origins to Zanzibar, off the coast of East Africa.",
+      "zh": "阿曼的演奏者中，有一群人的祖先可以追溯到东非海岸外的桑给巴尔。"
+    },
+    {
+      "id": 217,
+      "startMs": 1236620,
+      "endMs": 1243340,
+      "en": "Now the American producer Ian Brennan has recorded an album of their music called Songs of Returning and Leaving,",
+      "zh": "美国制作人伊恩·布伦南录制了他们的音乐专辑《归来与离去之歌》，"
+    },
+    {
+      "id": 218,
+      "startMs": 1243740,
+      "endMs": 1246620,
+      "en": "and has been telling the BBC's Martin Vennard all about it.",
+      "zh": "并向BBC的马丁·文纳德详细介绍了这张专辑。"
+    },
+    {
+      "id": 219,
+      "startMs": 1255540,
+      "endMs": 1261060,
+      "en": "Zanzibar was united with Oman in the Omani Empire from 1696 to 1856,",
+      "zh": "1696年至1856年间，桑给巴尔与阿曼同属阿曼帝国，"
+    },
+    {
+      "id": 220,
+      "startMs": 1261060,
+      "endMs": 1266900,
+      "en": "and there was an active slave trade, oceanic slave trade, and the main port was in Oman.",
+      "zh": "当时存在活跃的海上奴隶贸易，而主要港口就在阿曼。"
+    },
+    {
+      "id": 221,
+      "startMs": 1267460,
+      "endMs": 1276580,
+      "en": "And the musicians continue to sing to this day in a Swahili dialect, featuring music with African rhythms and bagpipes.",
+      "zh": "这些音乐家至今仍用斯瓦希里语方言歌唱，音乐融合了非洲节奏和风笛。"
+    },
+    {
+      "id": 222,
+      "startMs": 1276820,
+      "endMs": 1283460,
+      "en": "And they are the descendants, most of them, of the people that worked the trade or people that were brought over in the trade.",
+      "zh": "他们大多是参与这项贸易之人的后代，或是当年被贩运过来的人们的后代。"
+    },
+    {
+      "id": 223,
+      "startMs": 1284100,
+      "endMs": 1292020,
+      "en": "And they sing the songs of those who were brought forcibly by ship to Oman, many songs about longing for home, longing for East Africa.",
+      "zh": "他们歌唱那些被强行用船运往阿曼之人的歌曲，其中许多表达了对故乡、对东非的思念。"
+    },
+    {
+      "id": 224,
+      "startMs": 1297880,
+      "endMs": 1300680,
+      "en": "And where did you go to record these songs?",
+      "zh": "那你去了哪里录制这些歌曲？"
+    },
+    {
+      "id": 225,
+      "startMs": 1301240,
+      "endMs": 1304760,
+      "en": "We went to Oman last summer, meaning 2025.",
+      "zh": "我们去年夏天去了阿曼，也就是2025年。"
+    },
+    {
+      "id": 226,
+      "startMs": 1305080,
+      "endMs": 1311000,
+      "en": "Most of these singers continue to work as fishermen, so we recorded on the beach.",
+      "zh": "这些歌手大多仍以捕鱼为业，所以我们在海滩录音。"
+    },
+    {
+      "id": 227,
+      "startMs": 1311000,
+      "endMs": 1314520,
+      "en": "It couldn't have been a more peaceful and idyllic environment.",
+      "zh": "那里的环境宁静而美好，实在无可比拟。"
+    },
+    {
+      "id": 228,
+      "startMs": 1315080,
+      "endMs": 1321880,
+      "en": "Oman had invested heavily in tourism, and it makes it all the more tragic to see what's happened since.",
+      "zh": "阿曼曾大力投资旅游业，因此看到后来发生的事情，更令人感到悲哀。"
+    },
+    {
+      "id": 229,
+      "startMs": 1322040,
+      "endMs": 1326840,
+      "en": "The war in the region completely shut that down and transformed the area.",
+      "zh": "该地区的战争彻底终结了这一切，也改变了当地。"
+    },
+    {
+      "id": 230,
+      "startMs": 1330920,
+      "endMs": 1337160,
+      "en": "Lots of people will be fascinated to hear the bagpipes. Where do the bagpipes come from in this part of the world?",
+      "zh": "许多人听到风笛会很感兴趣。这一地区的风笛源自何处？"
+    },
+    {
+      "id": 231,
+      "startMs": 1337480,
+      "endMs": 1343240,
+      "en": "Well, the assumption is that the bagpipes were spread globally by the British military.",
+      "zh": "人们通常认为，风笛是由英国军队传播到世界各地的。"
+    },
+    {
+      "id": 232,
+      "startMs": 1343320,
+      "endMs": 1351080,
+      "en": "What's interesting about the region is that archaeological records show that arguably the bagpipe originated in the Arabian Peninsula.",
+      "zh": "有趣的是，考古记录显示，风笛很可能起源于阿拉伯半岛。"
+    },
+    {
+      "id": 233,
+      "startMs": 1351240,
+      "endMs": 1353960,
+      "en": "And this is a very defining instrument there.",
+      "zh": "风笛在那里是一种极具代表性的乐器。"
+    },
+    {
+      "id": 234,
+      "startMs": 1354600,
+      "endMs": 1359320,
+      "en": "So they would have learnt the bagpipes when their ancestors arrived in Oman.",
+      "zh": "所以，他们的祖先抵达阿曼时，便学会了风笛。"
+    },
+    {
+      "id": 235,
+      "startMs": 1359480,
+      "endMs": 1365480,
+      "en": "Right, it's an incorporation of the two cultures that were in constant communication with each other through these voyages.",
+      "zh": "没错，这是两种文化的融合；双方通过这些航行一直保持着交流。"
+    },
+    {
+      "id": 236,
+      "startMs": 1365480,
+      "endMs": 1374360,
+      "en": "The songs themselves repeatedly reference East Africa with titles like, 'You shouldn't treat the man from Zanzibar that way, he is suffering,'",
+      "zh": "这些歌曲反复提到东非，例如《你不该那样对待桑给巴尔人，他正在受苦》。"
+    },
+    {
+      "id": 237,
+      "startMs": 1374760,
+      "endMs": 1379000,
+      "en": "or, 'The boy has just arrived from East Africa and doesn't know how to speak Arabic.'",
+      "zh": "或者《那个男孩刚从东非来到这里，还不会说阿拉伯语》。"
+    },
+    {
+      "id": 238,
+      "startMs": 1379560,
+      "endMs": 1386840,
+      "en": "Almost all of them talk about the journeys, the welcomes that they've received, but also the experience of the people once they've arrived in Oman.",
+      "zh": "几乎所有歌曲都讲述旅途和他们受到的欢迎，也讲述人们抵达阿曼后的经历。"
+    },
+    {
+      "id": 239,
+      "startMs": 1387900,
+      "endMs": 1389340,
+      "en": "[Singing]",
+      "zh": "[歌声]"
+    },
+    {
+      "id": 240,
+      "startMs": 1395940,
+      "endMs": 1399620,
+      "en": "Can this music and this culture survive into the future?",
+      "zh": "这种音乐和文化能延续到未来吗？"
+    },
+    {
+      "id": 241,
+      "startMs": 1400180,
+      "endMs": 1406740,
+      "en": "I believe that it will survive. It's something that people take pride in because it's seen as something very special.",
+      "zh": "我相信它会延续下去。这是人们引以为傲的事物，因为它被视为非常特别。"
+    },
+    {
+      "id": 242,
+      "startMs": 1406740,
+      "endMs": 1412260,
+      "en": "You know, in the same way bagpipes are to Scotland, they are very valued in Oman.",
+      "zh": "你看，风笛之于苏格兰，就如同它在阿曼一样备受珍视。"
+    },
+    {
+      "id": 243,
+      "startMs": 1418240,
+      "endMs": 1421760,
+      "en": "What a great sound. That report by Martin Vennard.",
+      "zh": "声音真美。感谢马丁·文纳德的报道。"
+    },
+    {
+      "id": 244,
+      "startMs": 1422480,
+      "endMs": 1424560,
+      "en": "Now, what's your dream job?",
+      "zh": "那么，你的理想职业是什么？"
+    },
+    {
+      "id": 245,
+      "startMs": 1425120,
+      "endMs": 1433360,
+      "en": "Being a gravedigger might not be at the top of everyone's list, and it's not easy to find people to do what some would consider a bit of a grisly job.",
+      "zh": "掘墓人可能不是每个人理想职业的首选，而且要找到愿意做这份有些阴森的工作的人也并不容易。"
+    },
+    {
+      "id": 246,
+      "startMs": 1433680,
+      "endMs": 1439680,
+      "en": "That's exactly why the authorities in Hungary launched the World Gravedigger Competition in 2016.",
+      "zh": "这正是匈牙利当局于2016年创办世界掘墓人比赛的原因。"
+    },
+    {
+      "id": 247,
+      "startMs": 1439760,
+      "endMs": 1443520,
+      "en": "The event was so popular that it now takes place every year.",
+      "zh": "这项活动非常受欢迎，如今每年都会举行。"
+    },
+    {
+      "id": 248,
+      "startMs": 1443520,
+      "endMs": 1450240,
+      "en": "And this weekend, gravediggers from all over the globe descended on a town in northern Hungary for the big dig.",
+      "zh": "本周末，来自世界各地的掘墓人齐聚匈牙利北部一座小镇，参加这场大型挖掘比赛。"
+    },
+    {
+      "id": 249,
+      "startMs": 1450480,
+      "endMs": 1451760,
+      "en": "Wendy Urquhart reports.",
+      "zh": "温迪·厄克特报道。"
+    },
+    {
+      "id": 250,
+      "startMs": 1457900,
+      "endMs": 1466940,
+      "en": "With shovels in hand, the 19 teams of two got down to business in the hope of winning the 2026 World Grave Digging Competition.",
+      "zh": "19支两人队伍手持铁锹开始比赛，希望赢得2026年世界掘墓比赛冠军。"
+    },
+    {
+      "id": 251,
+      "startMs": 1467020,
+      "endMs": 1473420,
+      "en": "And it's no mean feat. The earth is so hard in some places that they have to use pickaxes.",
+      "zh": "这绝非易事。有些地方的土质非常坚硬，他们不得不使用镐。"
+    },
+    {
+      "id": 252,
+      "startMs": 1473900,
+      "endMs": 1479180,
+      "en": "József Varga from the Hungarian Cemeteries Association says it's fun for the competitors",
+      "zh": "匈牙利公墓协会的约瑟夫·沃尔高说，这对参赛者来说很有趣，"
+    },
+    {
+      "id": 253,
+      "startMs": 1479260,
+      "endMs": 1485740,
+      "en": "and the crowds that come to watch, and it also shows the public just how demanding the job actually is.",
+      "zh": "对前来观看的人群也是如此；比赛还让公众看到了这份工作的实际艰辛。"
+    },
+    {
+      "id": 254,
+      "startMs": 1485900,
+      "endMs": 1493260,
+      "en": "When relatives arrive at a funeral, the grave is already dug; they don't see what actually precedes it.",
+      "zh": "亲属参加葬礼时，墓穴已经挖好；他们看不到此前实际经历的过程。"
+    },
+    {
+      "id": 255,
+      "startMs": 1494140,
+      "endMs": 1504620,
+      "en": "When videos of the competition spread year by year, they saw how hard and stressful it was physically and psychologically, and now they have more respect for the gravediggers.",
+      "zh": "随着比赛视频逐年广泛传播，人们看到掘墓人在身体和心理上承受的艰辛与压力，如今也更加尊重掘墓人。"
+    },
+    {
+      "id": 256,
+      "startMs": 1505100,
+      "endMs": 1509100,
+      "en": "This contest is also a PR exercise for the trade.",
+      "zh": "这项比赛也是为这个行业进行宣传。"
+    },
+    {
+      "id": 257,
+      "startMs": 1509420,
+      "endMs": 1516880,
+      "en": "There is not enough room for mechanical diggers in some graveyards, so digging by hand is the only other option.",
+      "zh": "有些墓地没有足够空间容纳机械挖掘机，因此只能选择人工挖掘。"
+    },
+    {
+      "id": 258,
+      "startMs": 1517040,
+      "endMs": 1525120,
+      "en": "And the hope is that this event will shake off some of the taboos surrounding death and persuade young people to join the industry.",
+      "zh": "人们还希望这项活动能消除围绕死亡的一些禁忌，吸引年轻人加入这个行业。"
+    },
+    {
+      "id": 259,
+      "startMs": 1525760,
+      "endMs": 1531680,
+      "en": "To make the competition fair, each team pulls a plot number from a pot before the event begins.",
+      "zh": "为保证比赛公平，每队在活动开始前从罐子里抽取墓穴编号。"
+    },
+    {
+      "id": 260,
+      "startMs": 1531920,
+      "endMs": 1539680,
+      "en": "And just in case you're wondering, winning is not just about digging a hole in record time. There are rules involved.",
+      "zh": "如果你想知道，获胜不只是要在创纪录的时间内挖出墓穴，比赛还有相关规则。"
+    },
+    {
+      "id": 261,
+      "startMs": 1540240,
+      "endMs": 1547440,
+      "en": "Each grave has to be exactly 2 metres long, 80 centimetres wide, and 1.6 metres deep,",
+      "zh": "每个墓穴必须正好长2米、宽80厘米、深1.6米，"
+    },
+    {
+      "id": 262,
+      "startMs": 1547600,
+      "endMs": 1551440,
+      "en": "and the earth has to be neatly piled at the side, too.",
+      "zh": "挖出的土也必须整齐堆放在一旁。"
+    },
+    {
+      "id": 263,
+      "startMs": 1551840,
+      "endMs": 1559200,
+      "en": "László Kiss and Róbert Nagy dug their grave in 1 hour and 21 minutes to win the competition this year.",
+      "zh": "拉斯洛·基什和罗伯特·瑙吉用1小时21分钟挖好墓穴，赢得了今年的比赛。"
+    },
+    {
+      "id": 264,
+      "startMs": 1559520,
+      "endMs": 1562160,
+      "en": "And both said it was really hard work.",
+      "zh": "两人都说这确实是辛苦活。"
+    },
+    {
+      "id": 265,
+      "startMs": 1562800,
+      "endMs": 1568320,
+      "en": "You can't prepare for this separately, because we work every day.",
+      "zh": "你无法专门为此准备，因为我们每天都在工作。"
+    },
+    {
+      "id": 266,
+      "startMs": 1568800,
+      "endMs": 1575760,
+      "en": "There are weeks when there is more digging or less digging, but we have been doing this for years. It's in our makeup.",
+      "zh": "有时几周挖得多一些，有时少一些，但我们做这件事已经很多年了；这已经融入我们的本性。"
+    },
+    {
+      "id": 267,
+      "startMs": 1576000,
+      "endMs": 1582720,
+      "en": "It's tough, the ground is very hard and it's tiring.",
+      "zh": "这很艰难，地面非常坚硬，也让人疲惫。"
+    },
+    {
+      "id": 268,
+      "startMs": 1582720,
+      "endMs": 1587280,
+      "en": "It's very different here at the race, because here speed is the main thing,",
+      "zh": "这里的比赛很不一样，因为速度是最重要的，"
+    },
+    {
+      "id": 269,
+      "startMs": 1587840,
+      "endMs": 1594240,
+      "en": "whereas when you dig a grave for a funeral, you have to keep the exact dimensions and make sure the grave is beautifully carved.",
+      "zh": "而为葬礼挖墓穴时，必须保持精确尺寸，并确保墓穴修整得很漂亮。"
+    },
+    {
+      "id": 270,
+      "startMs": 1594980,
+      "endMs": 1598900,
+      "en": "The authorities don't exactly dig deep when it comes to winnings.",
+      "zh": "但说到奖金，当局可谓并不慷慨。"
+    },
+    {
+      "id": 271,
+      "startMs": 1599220,
+      "endMs": 1606260,
+      "en": "After all their hard work, the two men who came out on top have to share prize money of just $640.",
+      "zh": "辛苦工作之后，最终胜出的两人只能平分区区640美元奖金。"
+    },
+    {
+      "id": 272,
+      "startMs": 1606260,
+      "endMs": 1609620,
+      "en": "But then, they do have bragging rights.",
+      "zh": "不过，他们确实有了炫耀的资本。"
+    },
+    {
+      "id": 273,
+      "startMs": 1610180,
+      "endMs": 1613140,
+      "en": "You know, I really dug that report by Wendy Urquhart.",
+      "zh": "你知道，我真的很喜欢温迪·厄克特的这篇报道。"
+    },
+    {
+      "id": 274,
+      "startMs": 1616340,
+      "endMs": 1622740,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部内容。如需联系我们，可发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 275,
+      "startMs": 1622740,
+      "endMs": 1628740,
+      "en": "You can also find us on X at @BBCWorldService using the hashtag #GlobalNewsPod.",
+      "zh": "你也可以在X上通过@BBCWorldService找到我们，并使用话题标签#GlobalNewsPod。"
+    },
+    {
+      "id": 276,
+      "startMs": 1628740,
+      "endMs": 1634580,
+      "en": "This edition of the Global News Podcast was mixed by Mark Pickett and produced by Paul Day and Wendy Urquhart.",
+      "zh": "本期《全球新闻播客》由马克·皮克特混音，保罗·戴和温迪·厄克特制作。"
+    },
+    {
+      "id": 277,
+      "startMs": 1634660,
+      "endMs": 1638900,
+      "en": "The editor is Karen Martin. I'm Keith Adams. Until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁。我是基思·亚当斯。下次再见。"
+    }
+  ]
+}
