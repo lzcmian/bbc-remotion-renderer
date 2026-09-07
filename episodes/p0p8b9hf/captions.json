@@ -1,0 +1,2426 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "7 September 2026"
+  },
+  "durationMs": 1748060,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3360,
+      "en": "You're listening to the Global News Podcast from the BBC World Service.",
+      "zh": "你正在收听 BBC World Service 的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5260,
+      "endMs": 10700,
+      "en": "Hello, I'm Oliver Conway. We're recording this at 04:00 GMT on Monday, the 7th of September.",
+      "zh": "你好，我是奥利弗·康威。节目录制于9月7日星期一格林尼治标准时间04:00。"
+    },
+    {
+      "id": 3,
+      "startMs": 11260,
+      "endMs": 16540,
+      "en": "The AfD secures the biggest election win for the German far right since the Nazi era.",
+      "zh": "德国选择党赢得了纳粹时代以来德国极右翼最大的一场选举胜利。"
+    },
+    {
+      "id": 4,
+      "startMs": 16540,
+      "endMs": 21660,
+      "en": "US envoys leave Ukraine with no breakthrough on ending Russia's war.",
+      "zh": "美国特使离开乌克兰，结束俄罗斯战争的谈判没有取得突破。"
+    },
+    {
+      "id": 5,
+      "startMs": 22140,
+      "endMs": 29420,
+      "en": "And the BBC investigates a claim that individuals working for the Saudi government might have been involved in the 9/11 attacks.",
+      "zh": "BBC 还调查了一项指控：为沙特政府工作的人员可能参与了9·11袭击。"
+    },
+    {
+      "id": 6,
+      "startMs": 32040,
+      "endMs": 32520,
+      "en": "Also in this podcast...",
+      "zh": "本期播客还将谈到……"
+    },
+    {
+      "id": 7,
+      "startMs": 33080,
+      "endMs": 39240,
+      "en": "I remember it often. It makes me feel sad, and I cry.",
+      "zh": "我常常想起那件事。这让我感到悲伤，我会哭。"
+    },
+    {
+      "id": 8,
+      "startMs": 39880,
+      "endMs": 45960,
+      "en": "We hear from Nigerians who survived a school abduction, and we take a look at sleepmaxing.",
+      "zh": "我们将听取从学校绑架中幸存的尼日利亚人讲述，并了解“睡眠优化”。"
+    },
+    {
+      "id": 9,
+      "startMs": 51200,
+      "endMs": 55600,
+      "en": "We begin with what could be a significant moment for post-war Germany.",
+      "zh": "我们先关注这可能是战后德国一个重要时刻的事件。"
+    },
+    {
+      "id": 10,
+      "startMs": 61600,
+      "endMs": 68640,
+      "en": "Supporters of the AfD celebrating a landslide election victory in the former East German state of Saxony-Anhalt.",
+      "zh": "在前东德的萨克森-安哈尔特州，德国选择党的支持者庆祝压倒性的选举胜利。"
+    },
+    {
+      "id": 11,
+      "startMs": 69040,
+      "endMs": 73600,
+      "en": "It was the biggest win for the far right in Germany since the Nazi era.",
+      "zh": "这是纳粹时代以来德国极右翼赢得的最大胜利。"
+    },
+    {
+      "id": 12,
+      "startMs": 74080,
+      "endMs": 77760,
+      "en": "The party more than doubled its support, taking 44% of the vote.",
+      "zh": "该党的支持率翻了一倍多，获得44%的选票。"
+    },
+    {
+      "id": 13,
+      "startMs": 78160,
+      "endMs": 81280,
+      "en": "Though it fell just short of a majority of seats in the state parliament.",
+      "zh": "但距离在州议会取得过半席位仍差一点。"
+    },
+    {
+      "id": 14,
+      "startMs": 81680,
+      "endMs": 87520,
+      "en": "It was a very bad result for the German Chancellor Friedrich Merz. His party's vote was halved.",
+      "zh": "这对德国总理弗里德里希·默茨而言是非常糟糕的结果。他所在政党的得票率减半。"
+    },
+    {
+      "id": 15,
+      "startMs": 88000,
+      "endMs": 96400,
+      "en": "The man who now hopes to become the first AfD Chief Minister of any German state, 35-year-old Ulrich Siegmund, said they'd made history.",
+      "zh": "35岁的乌尔里希·西格蒙德希望成为德国首位选择党籍州长；他说，他们创造了历史。"
+    },
+    {
+      "id": 16,
+      "startMs": 96880,
+      "endMs": 106080,
+      "en": "This election victory is a vote of confidence from the people of this country, and we will live up to that trust.",
+      "zh": "这场选举胜利是这个国家人民投下的信任票，我们将不辜负这份信任。"
+    },
+    {
+      "id": 17,
+      "startMs": 106480,
+      "endMs": 110560,
+      "en": "We will not compromise our principles. We will not give up on ourselves.",
+      "zh": "我们不会牺牲自己的原则，也不会放弃自我。"
+    },
+    {
+      "id": 18,
+      "startMs": 110640,
+      "endMs": 116960,
+      "en": "We will never become like those who've rightly been punished this evening. We are Alternative for Germany.",
+      "zh": "我们绝不会变成那些理应在今晚受到惩罚的人。我们是德国选择党。"
+    },
+    {
+      "id": 19,
+      "startMs": 117520,
+      "endMs": 124820,
+      "en": "The AfD tapped into a wave of nostalgia for communist East Germany.",
+      "zh": "德国选择党借助了对东德共产主义时期的怀旧情绪。"
+    },
+    {
+      "id": 20,
+      "startMs": 124820,
+      "endMs": 129620,
+      "en": "And managed to secure support from at least 150,000 previous non-voters.",
+      "zh": "并至少争取到15万名此前不投票者的支持。"
+    },
+    {
+      "id": 21,
+      "startMs": 129620,
+      "endMs": 139220,
+      "en": "The party wants to heavily restrict immigration, restore ties with Russia, quit the euro, and promote unashamed German patriotism.",
+      "zh": "该党希望严格限制移民、恢复与俄罗斯的关系、退出欧元区，并公开推动德国爱国主义。"
+    },
+    {
+      "id": 22,
+      "startMs": 139700,
+      "endMs": 145140,
+      "en": "Defunding so-called ‘anti-German art’, and teaching children less about Hitler.",
+      "zh": "他们还要停止资助所谓的“反德艺术”，少教孩子一些关于希特勒的内容。"
+    },
+    {
+      "id": 23,
+      "startMs": 145700,
+      "endMs": 151620,
+      "en": "Mainstream politicians have refused to work with the AfD, but a small left-wing pro-Russia party",
+      "zh": "主流政客拒绝与德国选择党合作，但一个亲俄的小型左翼政党，"
+    },
+    {
+      "id": 24,
+      "startMs": 151620,
+      "endMs": 155220,
+      "en": "might provide support if it can get into the state parliament.",
+      "zh": "如果能进入州议会，可能会提供支持。"
+    },
+    {
+      "id": 25,
+      "startMs": 155620,
+      "endMs": 158580,
+      "en": "As our correspondent there Jessica Parker told Tim Franks:",
+      "zh": "驻当地记者杰西卡·帕克向蒂姆·弗兰克斯介绍了情况："
+    },
+    {
+      "id": 26,
+      "startMs": 159140,
+      "endMs": 164340,
+      "en": "All eyes are on whether the smaller party BSW, or BSW as it's known here,",
+      "zh": "所有人都在关注小党 BSW，也就是这里所称的 BSW，"
+    },
+    {
+      "id": 27,
+      "startMs": 165300,
+      "endMs": 172020,
+      "en": "whether it's going to reach the 5% threshold that could allow it to get into parliament.",
+      "zh": "能否达到5%的门槛，从而进入议会。"
+    },
+    {
+      "id": 28,
+      "startMs": 172020,
+      "endMs": 181140,
+      "en": "The reason that's important is BSW have signalled that they would maybe be open to helping the AfD actually take power.",
+      "zh": "之所以重要，是因为 BSW 已表示，他们或许愿意帮助德国选择党在这个州真正掌权。"
+    },
+    {
+      "id": 29,
+      "startMs": 181160,
+      "endMs": 185000,
+      "en": "in this state, even if it wouldn't be any kind of formal coalition.",
+      "zh": "在这个州掌权，即便并不组成任何正式联盟。"
+    },
+    {
+      "id": 30,
+      "startMs": 185320,
+      "endMs": 191160,
+      "en": "If the BSW didn't make it into parliament, the AfD would potentially get more seats, more likely to get state-level power.",
+      "zh": "如果 BSW 未能进入议会，德国选择党可能获得更多席位，也更有可能在州一级掌权。"
+    },
+    {
+      "id": 31,
+      "startMs": 191160,
+      "endMs": 198760,
+      "en": "So, still some convoluted German political maths going on here. But the big picture is they've won in terms of voter share.",
+      "zh": "所以，德国政治的复杂算术仍在进行。但大局是，他们在得票率方面赢了。"
+    },
+    {
+      "id": 32,
+      "startMs": 198760,
+      "endMs": 202680,
+      "en": "The AfD, big. They've won, and they've won big here in Saxony-Anhalt.",
+      "zh": "德国选择党赢得很大；他们赢了，而且在萨克森-安哈尔特州大胜。"
+    },
+    {
+      "id": 33,
+      "startMs": 203160,
+      "endMs": 209800,
+      "en": "And in terms of both the state, I mean, obviously, states in Germany have a considerable amount of power,",
+      "zh": "就这个州而言——我的意思是，德国各州显然拥有相当大的权力，"
+    },
+    {
+      "id": 34,
+      "startMs": 209800,
+      "endMs": 213320,
+      "en": "not unfettered power, so that could be important.",
+      "zh": "但权力并非不受限制，因此这可能很重要。"
+    },
+    {
+      "id": 35,
+      "startMs": 213320,
+      "endMs": 218440,
+      "en": "But nationally, what does this huge victory for the AfD mean, do you think?",
+      "zh": "但在全国层面，你认为德国选择党的这场巨大胜利意味着什么？"
+    },
+    {
+      "id": 36,
+      "startMs": 219160,
+      "endMs": 224360,
+      "en": "Nationally, I think it means the AfD feels that they're on the march and they have been growing in popularity.",
+      "zh": "在全国层面，我认为这意味着德国选择党觉得自己正在壮大，受欢迎程度也一直上升。"
+    },
+    {
+      "id": 37,
+      "startMs": 224440,
+      "endMs": 228280,
+      "en": "They're leading the polls nationally, even though their support is heavily skewed to eastern Germany.",
+      "zh": "他们在全国民调中领先，尽管支持者主要集中在德国东部。"
+    },
+    {
+      "id": 38,
+      "startMs": 228760,
+      "endMs": 235240,
+      "en": "I think as well, it's a bad night for Friedrich Merz, the Chancellor, CDU, who was already very embattled.",
+      "zh": "我还认为，这对总理、基民盟的弗里德里希·默茨来说是糟糕的一晚；他本已深陷困境。"
+    },
+    {
+      "id": 39,
+      "startMs": 235320,
+      "endMs": 243660,
+      "en": "But this could potentially further destabilize him and his government. Now remember, his government is, for example, a key supporter of Ukraine.",
+      "zh": "但这可能进一步动摇他和他的政府。请记住，例如，他的政府是乌克兰的重要支持者。"
+    },
+    {
+      "id": 40,
+      "startMs": 243900,
+      "endMs": 250300,
+      "en": "Whereas the Alternative for Deutschland want to end support to Ukraine and have pro-Russia policies.",
+      "zh": "而德国选择党希望停止对乌克兰的支持，并奉行亲俄政策。"
+    },
+    {
+      "id": 41,
+      "startMs": 250540,
+      "endMs": 252140,
+      "en": "Now, as you say, important to understand.",
+      "zh": "正如你所说，理解这一点很重要。"
+    },
+    {
+      "id": 42,
+      "startMs": 252780,
+      "endMs": 260380,
+      "en": "States, they don't set foreign policy. State governments, but they do run things like education, policing, culture.",
+      "zh": "各州——州政府并不制定外交政策，但确实负责教育、警务和文化等事务。"
+    },
+    {
+      "id": 43,
+      "startMs": 260780,
+      "endMs": 265100,
+      "en": "So, as well, I think for the AfD, they see this as a potential blueprint",
+      "zh": "所以，我也认为，对德国选择党来说，他们把这看作一个潜在样板，"
+    },
+    {
+      "id": 44,
+      "startMs": 265100,
+      "endMs": 268060,
+      "en": "for how they would look in power in other states or indeed nationally,",
+      "zh": "展示他们在其他州乃至全国掌权时可能的样子，"
+    },
+    {
+      "id": 45,
+      "startMs": 268220,
+      "endMs": 273740,
+      "en": "something that they aspire to. So they're seeing it as a stepping stone for their aspirations.",
+      "zh": "那是他们的目标，所以他们把这看作实现抱负的垫脚石。"
+    },
+    {
+      "id": 46,
+      "startMs": 274140,
+      "endMs": 280300,
+      "en": "Whereas other people, I think critics of the AfD, of which there are many in Germany—this is a party classed as right-wing extremist in this state",
+      "zh": "而其他人，我想是德国众多的选择党批评者——该党在这个州被认定为右翼极端主义政党，"
+    },
+    {
+      "id": 47,
+      "startMs": 280380,
+      "endMs": 283900,
+      "en": "by domestic intelligence—critics of the party fear this is a moment",
+      "zh": "这是国内情报部门的认定；批评者担心，现在是一个"
+    },
+    {
+      "id": 48,
+      "startMs": 283900,
+      "endMs": 287900,
+      "en": "of peril for the country if indeed there is some kind of domino effect.",
+      "zh": "国家面临危险的时刻，如果确实出现某种多米诺骨牌效应。"
+    },
+    {
+      "id": 49,
+      "startMs": 288300,
+      "endMs": 290140,
+      "en": "Jessica Parker in Saxony-Anhalt.",
+      "zh": "杰西卡·帕克在萨克森-安哈尔特州报道。"
+    },
+    {
+      "id": 50,
+      "startMs": 291080,
+      "endMs": 295720,
+      "en": "President Trump's envoys have left Ukraine after talks with President Volodymyr Zelenskyy.",
+      "zh": "特朗普总统的特使在与总统泽连斯基会谈后离开了乌克兰。"
+    },
+    {
+      "id": 51,
+      "startMs": 296040,
+      "endMs": 300920,
+      "en": "Steve Witkoff and Jared Kushner visited Kyiv after talks in Moscow with Vladimir Putin.",
+      "zh": "史蒂夫·威特科夫和贾里德·库什纳在莫斯科与弗拉基米尔·普京会谈后访问了基辅。"
+    },
+    {
+      "id": 52,
+      "startMs": 301320,
+      "endMs": 305320,
+      "en": "As expected, there was no breakthrough on ending Russia's invasion of Ukraine.",
+      "zh": "正如预期，在结束俄罗斯对乌克兰的入侵问题上没有取得突破。"
+    },
+    {
+      "id": 53,
+      "startMs": 305720,
+      "endMs": 309160,
+      "en": "Our diplomatic correspondent James Landale is in Kyiv.",
+      "zh": "我们的外交事务记者詹姆斯·兰代尔在基辅。"
+    },
+    {
+      "id": 54,
+      "startMs": 310520,
+      "endMs": 315320,
+      "en": "This is the first time Steve Witkoff and Jared Kushner have set foot on Ukrainian soil",
+      "zh": "这是史蒂夫·威特科夫和贾里德·库什纳首次踏上乌克兰土地，"
+    },
+    {
+      "id": 55,
+      "startMs": 315480,
+      "endMs": 323880,
+      "en": "since Russia's full-scale invasion, and they arrived by train because they couldn't risk flying and running the gauntlet of Russian drones.",
+      "zh": "自俄罗斯全面入侵以来，他们乘火车抵达，因为不敢冒险乘飞机、穿越俄罗斯无人机的火力网。"
+    },
+    {
+      "id": 56,
+      "startMs": 325680,
+      "endMs": 331760,
+      "en": "But the welcome they got was warm, a chance for President Zelenskyy finally to give them his assessment",
+      "zh": "但他们受到了热烈欢迎，这也让泽连斯基总统终于有机会向他们当面介绍自己的战况判断，"
+    },
+    {
+      "id": 57,
+      "startMs": 331760,
+      "endMs": 335600,
+      "en": "of the war first-hand here on the ground in Kyiv.",
+      "zh": "在基辅这里的战地，第一手地介绍这场战争。"
+    },
+    {
+      "id": 58,
+      "startMs": 335920,
+      "endMs": 340320,
+      "en": "He chose to greet the US envoys in the city's famous Saint Sophia Cathedral,",
+      "zh": "他选择在这座城市著名的圣索菲亚大教堂迎接美国特使，"
+    },
+    {
+      "id": 59,
+      "startMs": 340880,
+      "endMs": 346640,
+      "en": "not only a symbol of Ukraine's ancient past, but also only yards from where",
+      "zh": "那里不仅是乌克兰古老历史的象征，距离俄罗斯袭击过的地方也只有几码，"
+    },
+    {
+      "id": 60,
+      "startMs": 346640,
+      "endMs": 351360,
+      "en": "Russia attacked the headquarters of the country's security services on Friday.",
+      "zh": "俄罗斯周五袭击了乌克兰国家安全部门的总部。"
+    },
+    {
+      "id": 61,
+      "startMs": 353320,
+      "endMs": 357160,
+      "en": "Both sides said the talks were substantive and they appeared good-humored,",
+      "zh": "双方都表示会谈内容充实，而且气氛似乎很友好，"
+    },
+    {
+      "id": 62,
+      "startMs": 357480,
+      "endMs": 359800,
+      "en": "including jokes at Russia's expense.",
+      "zh": "其中还拿俄罗斯开了些玩笑。"
+    },
+    {
+      "id": 63,
+      "startMs": 361040,
+      "endMs": 364160,
+      "en": "They were joined later by European national security advisers,",
+      "zh": "后来，欧洲各国的国家安全顾问也加入了他们，"
+    },
+    {
+      "id": 64,
+      "startMs": 364400,
+      "endMs": 365920,
+      "en": "but was anything actually agreed?",
+      "zh": "但双方究竟达成了什么协议吗？"
+    },
+    {
+      "id": 65,
+      "startMs": 365920,
+      "endMs": 370640,
+      "en": "Well, they discussed new ideas to end the war in a fresh round of US-brokered talks,",
+      "zh": "他们在新一轮由美国斡旋的会谈中，讨论了结束战争的新想法，"
+    },
+    {
+      "id": 66,
+      "startMs": 371120,
+      "endMs": 376160,
+      "en": "but President Zelenskyy's focus was on his need for more energy and air defences now.",
+      "zh": "但泽连斯基总统关注的是目前对更多能源和防空力量的需求。"
+    },
+    {
+      "id": 67,
+      "startMs": 376640,
+      "endMs": 383520,
+      "en": "We very much hope that we will be able to reach agreements with our American partners,",
+      "zh": "我们非常希望能够与美国伙伴达成协议，"
+    },
+    {
+      "id": 68,
+      "startMs": 384000,
+      "endMs": 388640,
+      "en": "and we are counting on the support of our European partners if the war continues in winter,",
+      "zh": "如果战争延续到冬季，我们指望欧洲伙伴的支持，"
+    },
+    {
+      "id": 69,
+      "startMs": 389280,
+      "endMs": 391200,
+      "en": "and this is how it appears at the moment.",
+      "zh": "目前看来，情况就是这样。"
+    },
+    {
+      "id": 70,
+      "startMs": 392780,
+      "endMs": 398540,
+      "en": "President Zelenskyy reiterated Ukraine's red lines for peace: security guarantees and a strong army,",
+      "zh": "泽连斯基总统重申了乌克兰的和平红线：安全保障和一支强大的军队，"
+    },
+    {
+      "id": 71,
+      "startMs": 398540,
+      "endMs": 399900,
+      "en": "something Russia opposes.",
+      "zh": "而俄罗斯反对这些要求。"
+    },
+    {
+      "id": 72,
+      "startMs": 400380,
+      "endMs": 402940,
+      "en": "Mr. Witkoff hoped a deal could be done.",
+      "zh": "威特科夫先生希望能够达成协议。"
+    },
+    {
+      "id": 73,
+      "startMs": 402940,
+      "endMs": 408620,
+      "en": "It's going to take both sides to make some compromises and narrow the issues between them,",
+      "zh": "双方都需要作出一些妥协，缩小彼此之间的分歧，"
+    },
+    {
+      "id": 74,
+      "startMs": 409260,
+      "endMs": 412940,
+      "en": "and we think we have the ingredients to get to that place.",
+      "zh": "我们认为已经具备了实现这一目标的条件。"
+    },
+    {
+      "id": 75,
+      "startMs": 414020,
+      "endMs": 417540,
+      "en": "But in the Kremlin yesterday, there was little sign of compromise.",
+      "zh": "但昨天在克里姆林宫，几乎没有妥协的迹象。"
+    },
+    {
+      "id": 76,
+      "startMs": 417780,
+      "endMs": 422420,
+      "en": "President Putin insisting the root causes of the war must be addressed,",
+      "zh": "普京总统坚持认为，必须处理这场战争的根本原因，"
+    },
+    {
+      "id": 77,
+      "startMs": 422580,
+      "endMs": 426820,
+      "en": "shorthand for Ukraine giving up territory and self-determination.",
+      "zh": "这实际上是在说，乌克兰要放弃领土和自决权。"
+    },
+    {
+      "id": 78,
+      "startMs": 427720,
+      "endMs": 435640,
+      "en": "Today, his forces launched yet another attack on a town in western Ukraine, hitting an apartment block, injuring seven.",
+      "zh": "今天，他的部队再次袭击乌克兰西部一座城镇，击中一栋公寓楼，造成7人受伤。"
+    },
+    {
+      "id": 79,
+      "startMs": 436120,
+      "endMs": 440840,
+      "en": "Talk of ceasefires and diplomacy not saving them from Russian drones.",
+      "zh": "停火与外交的讨论并没有让他们免遭俄罗斯无人机袭击。"
+    },
+    {
+      "id": 80,
+      "startMs": 441400,
+      "endMs": 442840,
+      "en": "James Landale in Kyiv.",
+      "zh": "詹姆斯·兰代尔在基辅报道。"
+    },
+    {
+      "id": 81,
+      "startMs": 443720,
+      "endMs": 446760,
+      "en": "Twenty-five years after the September 11th attacks,",
+      "zh": "在9·11袭击25年后，"
+    },
+    {
+      "id": 82,
+      "startMs": 447080,
+      "endMs": 453000,
+      "en": "new evidence is raising questions about a man who helped two of the hijackers after they arrived in America.",
+      "zh": "新的证据让人们开始质疑一名男子，他曾在两名劫机者抵达美国后帮助过他们。"
+    },
+    {
+      "id": 83,
+      "startMs": 453400,
+      "endMs": 457720,
+      "en": "Saudi national Omar al-Bayoumi was arrested in Britain just days after 9/11.",
+      "zh": "沙特人奥马尔·巴尤米在9·11事件几天后于英国被捕。"
+    },
+    {
+      "id": 84,
+      "startMs": 457960,
+      "endMs": 466520,
+      "en": "He was never extradited back to the US, although compelling evidence against him was uncovered by British police and shared with the FBI.",
+      "zh": "他从未被引渡回美国，尽管英国警方发现了对他不利的有力证据，并将其提供给了联邦调查局。"
+    },
+    {
+      "id": 85,
+      "startMs": 467000,
+      "endMs": 468440,
+      "en": "This report from Jane McMullen.",
+      "zh": "以下是简·麦克马伦的报道。"
+    },
+    {
+      "id": 86,
+      "startMs": 469820,
+      "endMs": 479180,
+      "en": "It's a day that I would like to only think of my husband, and we can't do that if the truth remains buried.",
+      "zh": "这一天我只想缅怀我的丈夫，但如果真相继续被掩埋，我们就做不到这一点。"
+    },
+    {
+      "id": 87,
+      "startMs": 479180,
+      "endMs": 487100,
+      "en": "Terry Strada's husband Tom, with whom she had three children, was working in New York's World Trade Center when the attacks happened.",
+      "zh": "特里·斯特拉达的丈夫汤姆与她育有3个孩子，袭击发生时正在纽约世贸中心工作。"
+    },
+    {
+      "id": 88,
+      "startMs": 487420,
+      "endMs": 490060,
+      "en": "I had a newborn in my arms; he was four days old.",
+      "zh": "我怀里抱着一个新生儿，他才4天大。"
+    },
+    {
+      "id": 89,
+      "startMs": 490700,
+      "endMs": 494140,
+      "en": "Tom went down the stairs, turned around, said, 'I'll be home by two. I love you.'",
+      "zh": "汤姆下了楼梯，又转过身来说：‘我两点前回家。我爱你。’"
+    },
+    {
+      "id": 90,
+      "startMs": 497060,
+      "endMs": 500820,
+      "en": "Tom was one of nearly 3,000 people who were killed that day.",
+      "zh": "汤姆是当天遇难的近3000人之一。"
+    },
+    {
+      "id": 91,
+      "startMs": 500820,
+      "endMs": 503700,
+      "en": "The plane has crashed into the World Trade Center.",
+      "zh": "飞机撞进了世贸中心。"
+    },
+    {
+      "id": 92,
+      "startMs": 503700,
+      "endMs": 506500,
+      "en": "The passenger plane crashing into the South Tower.",
+      "zh": "客机撞向南塔。"
+    },
+    {
+      "id": 93,
+      "startMs": 508080,
+      "endMs": 515280,
+      "en": "Within days of the attacks, in which four planes were crashed, investigators had identified the 19 al-Qaeda hijackers.",
+      "zh": "袭击发生后的几天内，调查人员确认了19名基地组织劫机者；当时共有4架飞机坠毁。"
+    },
+    {
+      "id": 94,
+      "startMs": 516140,
+      "endMs": 521340,
+      "en": "Two of them, Nawaf al-Hazmi and Khalid al-Mihdhar, had lived for months in San Diego.",
+      "zh": "其中两人纳瓦夫·哈兹米和哈立德·米德哈尔曾在圣迭戈生活数月。"
+    },
+    {
+      "id": 95,
+      "startMs": 522060,
+      "endMs": 527260,
+      "en": "The FBI quickly discovered that they had received help from a Saudi man called Omar al-Bayoumi.",
+      "zh": "联邦调查局很快发现，他们得到了一名叫奥马尔·巴尤米的沙特男子帮助。"
+    },
+    {
+      "id": 96,
+      "startMs": 527260,
+      "endMs": 529740,
+      "en": "We needed to know everything about them.",
+      "zh": "我们需要了解他们的一切。"
+    },
+    {
+      "id": 97,
+      "startMs": 529900,
+      "endMs": 532620,
+      "en": "Danny Gonzalez was an FBI special agent.",
+      "zh": "丹尼·冈萨雷斯曾是联邦调查局特工。"
+    },
+    {
+      "id": 98,
+      "startMs": 533020,
+      "endMs": 535820,
+      "en": "You focus on who helped them, who assisted them.",
+      "zh": "你要关注的是谁帮助了他们、协助了他们。"
+    },
+    {
+      "id": 99,
+      "startMs": 535820,
+      "endMs": 543980,
+      "en": "It was a network. But when you see who's the principal of this network, it's Omar al-Bayoumi.",
+      "zh": "这是一个网络。但当你看到这个网络的核心人物是谁时，就会发现是奥马尔·巴尤米。"
+    },
+    {
+      "id": 100,
+      "startMs": 545400,
+      "endMs": 550040,
+      "en": "Bayoumi helped the two men secure an apartment, co-signing their lease.",
+      "zh": "巴尤米帮助这两人租到了一套公寓，并共同签署了租约。"
+    },
+    {
+      "id": 101,
+      "startMs": 550440,
+      "endMs": 557480,
+      "en": "But before 9/11, he moved to the UK, and 11 days after the attacks, British police arrested him in Birmingham.",
+      "zh": "但在9·11之前，他搬到了英国；袭击11天后，英国警方在伯明翰将他逮捕。"
+    },
+    {
+      "id": 102,
+      "startMs": 558460,
+      "endMs": 561500,
+      "en": "They took him to London, where he was questioned for seven days.",
+      "zh": "他们把他带到伦敦，在那里对他审问了7天。"
+    },
+    {
+      "id": 103,
+      "startMs": 561900,
+      "endMs": 566220,
+      "en": "This interview is being audio and video recorded.",
+      "zh": "这次访谈正在进行音频和视频录制。"
+    },
+    {
+      "id": 104,
+      "startMs": 566460,
+      "endMs": 569180,
+      "en": "At first, Bayoumi denied knowing the hijackers.",
+      "zh": "起初，巴尤米否认认识这些劫机者。"
+    },
+    {
+      "id": 105,
+      "startMs": 569500,
+      "endMs": 572060,
+      "en": "I don't have any link with any hijacker.",
+      "zh": "我和任何劫机者都没有关系。"
+    },
+    {
+      "id": 106,
+      "startMs": 572380,
+      "endMs": 576380,
+      "en": "But investigators already knew he had guaranteed two of the hijackers' rent.",
+      "zh": "但调查人员早已知道，他曾为两名劫机者的房租作担保。"
+    },
+    {
+      "id": 107,
+      "startMs": 576460,
+      "endMs": 582940,
+      "en": "Eventually, he admitted to helping them after what he said was a chance meeting in Los Angeles.",
+      "zh": "最终，他承认在洛杉矶帮助过他们，但称那次相遇只是巧合。"
+    },
+    {
+      "id": 108,
+      "startMs": 584420,
+      "endMs": 587780,
+      "en": "Bayoumi claimed to be a student who had no links to extremists.",
+      "zh": "巴尤米声称自己是一名学生，与极端分子没有联系。"
+    },
+    {
+      "id": 109,
+      "startMs": 588180,
+      "endMs": 592740,
+      "en": "But Panorama has obtained Bayoumi's personal videos, never broadcast before,",
+      "zh": "但《全景》节目获得了巴尤米从未公开播出的私人视频，"
+    },
+    {
+      "id": 110,
+      "startMs": 593060,
+      "endMs": 597700,
+      "en": "of Anwar al-Awlaki, who would go on to lead al-Qaeda in the Arabian Peninsula.",
+      "zh": "内容是安瓦尔·奥拉基的；他后来领导了阿拉伯半岛基地组织。"
+    },
+    {
+      "id": 111,
+      "startMs": 598580,
+      "endMs": 602260,
+      "en": "When questioned in 2021, Bayoumi denied knowing Awlaki.",
+      "zh": "2021年接受询问时，巴尤米否认认识奥拉基。"
+    },
+    {
+      "id": 112,
+      "startMs": 602740,
+      "endMs": 606580,
+      "en": "But the videos show them paintballing and also embracing at a meeting.",
+      "zh": "但视频显示，他们一起玩彩弹射击，还在一次会议上相拥。"
+    },
+    {
+      "id": 113,
+      "startMs": 607200,
+      "endMs": 608720,
+      "en": "Awlaki, get ready to shoot!",
+      "zh": "奥拉基，准备射击！"
+    },
+    {
+      "id": 114,
+      "startMs": 609840,
+      "endMs": 617120,
+      "en": "After 9/11, the FBI uncovered evidence and information suggesting Bayoumi might have been working on behalf of Saudi interests.",
+      "zh": "9·11事件后，联邦调查局发现证据和信息，显示巴尤米可能在为沙特利益工作。"
+    },
+    {
+      "id": 115,
+      "startMs": 617360,
+      "endMs": 621440,
+      "en": "Rick Lambert oversaw the FBI investigation in San Diego.",
+      "zh": "里克·兰伯特负责监督联邦调查局在圣迭戈的调查。"
+    },
+    {
+      "id": 116,
+      "startMs": 622080,
+      "endMs": 631120,
+      "en": "There was a general consensus of people in the San Diego Muslim community that Bayoumi was an operative of the Saudi intelligence service.",
+      "zh": "圣迭戈穆斯林社群普遍认为，巴尤米是沙特情报机构的特工。"
+    },
+    {
+      "id": 117,
+      "startMs": 632120,
+      "endMs": 633800,
+      "en": "He was a spy? He was a spy.",
+      "zh": "他是间谍？他是间谍。"
+    },
+    {
+      "id": 118,
+      "startMs": 635000,
+      "endMs": 637240,
+      "en": "Bayoumi has always denied being a spy.",
+      "zh": "巴尤米一直否认自己是间谍。"
+    },
+    {
+      "id": 119,
+      "startMs": 638620,
+      "endMs": 641580,
+      "en": "British police also seized evidence from his Birmingham home,",
+      "zh": "英国警方还从他位于伯明翰的住所查获了证据，"
+    },
+    {
+      "id": 120,
+      "startMs": 642060,
+      "endMs": 646220,
+      "en": "including a video he filmed around the Capitol building two years before the attacks.",
+      "zh": "其中包括一段他在袭击发生前两年于国会大厦周边拍摄的视频。"
+    },
+    {
+      "id": 121,
+      "startMs": 646700,
+      "endMs": 650060,
+      "en": "At the time, al-Qaeda was deciding which targets to hit.",
+      "zh": "当时，基地组织正在决定袭击哪些目标。"
+    },
+    {
+      "id": 122,
+      "startMs": 650600,
+      "endMs": 653800,
+      "en": "Capitol Hill. Time is six p.m.",
+      "zh": "国会山。现在是下午6点。"
+    },
+    {
+      "id": 123,
+      "startMs": 654120,
+      "endMs": 656200,
+      "en": "Bayoumi later claimed it was tourism.",
+      "zh": "巴尤米后来声称那只是旅游。"
+    },
+    {
+      "id": 124,
+      "startMs": 656680,
+      "endMs": 658600,
+      "en": "But in it, he talked about a plan.",
+      "zh": "但在视频中，他谈到了一个计划。"
+    },
+    {
+      "id": 125,
+      "startMs": 659240,
+      "endMs": 665800,
+      "en": "The police also seized a handwritten diagram of a plane with descent calculations.",
+      "zh": "警方还查获了一张手写的飞机图，上面有下降计算。"
+    },
+    {
+      "id": 126,
+      "startMs": 666120,
+      "endMs": 673000,
+      "en": "Here's Jodi Westbrook Flowers, a lawyer representing the families of 9/11 victims",
+      "zh": "这位是朱迪·韦斯特布鲁克·弗劳尔斯律师，她代表9·11遇难者家属，"
+    },
+    {
+      "id": 127,
+      "startMs": 673000,
+      "endMs": 676040,
+      "en": "in a lawsuit against the Kingdom of Saudi Arabia.",
+      "zh": "参与针对沙特阿拉伯王国的诉讼。"
+    },
+    {
+      "id": 128,
+      "startMs": 676680,
+      "endMs": 679720,
+      "en": "It's the mathematical calculation of the crash.",
+      "zh": "这是飞机坠毁的数学计算。"
+    },
+    {
+      "id": 129,
+      "startMs": 680520,
+      "endMs": 685400,
+      "en": "When we figured out what it was, we knew that it was the smoking gun that we'd been looking for.",
+      "zh": "当我们弄清它是什么时，就知道这正是一直在寻找的确凿证据。"
+    },
+    {
+      "id": 130,
+      "startMs": 686040,
+      "endMs": 690520,
+      "en": "Jeff Breinholt was an official at the Department of Justice.",
+      "zh": "杰夫·布雷因霍尔特曾任司法部官员。"
+    },
+    {
+      "id": 131,
+      "startMs": 691080,
+      "endMs": 699560,
+      "en": "The flight designs and calculations is the worst—that's the most inconvenient evidence for him, in my opinion.",
+      "zh": "这些飞行设计和计算是最糟糕的——在我看来，这是对他最不利的证据。"
+    },
+    {
+      "id": 132,
+      "startMs": 700040,
+      "endMs": 702040,
+      "en": "We've convicted people for less.",
+      "zh": "我们曾因更少的证据判人有罪。"
+    },
+    {
+      "id": 133,
+      "startMs": 703000,
+      "endMs": 708200,
+      "en": "When they found the diagram, the Met marked it up as top priority and handed it to the FBI.",
+      "zh": "他们发现这张图后，伦敦警察厅将其列为最高优先级，并交给了联邦调查局。"
+    },
+    {
+      "id": 134,
+      "startMs": 708680,
+      "endMs": 713580,
+      "en": "But neither the FBI nor the Met told the detectives interviewing Bayoumi about it.",
+      "zh": "但联邦调查局和伦敦警察厅都没有告诉审问巴尤米的侦探。"
+    },
+    {
+      "id": 135,
+      "startMs": 714140,
+      "endMs": 716700,
+      "en": "He wasn't asked about the diagram while he was in custody.",
+      "zh": "他被拘押期间，没有人问及这张图。"
+    },
+    {
+      "id": 136,
+      "startMs": 717100,
+      "endMs": 718220,
+      "en": "It's not clear why.",
+      "zh": "原因并不清楚。"
+    },
+    {
+      "id": 137,
+      "startMs": 719200,
+      "endMs": 725920,
+      "en": "FBI documents show it was decided there was insufficient evidence to extradite Bayoumi to the United States.",
+      "zh": "联邦调查局文件显示，当时认定没有足够证据将巴尤米引渡到美国。"
+    },
+    {
+      "id": 138,
+      "startMs": 726640,
+      "endMs": 729920,
+      "en": "He was released and returned to Saudi Arabia, where he remains.",
+      "zh": "他获释后回到沙特阿拉伯，并一直留在那里。"
+    },
+    {
+      "id": 139,
+      "startMs": 730740,
+      "endMs": 733620,
+      "en": "September 11th, when it comes around every year...",
+      "zh": "每年到了9月11日这一天……"
+    },
+    {
+      "id": 140,
+      "startMs": 734020,
+      "endMs": 736900,
+      "en": "As they mark the 25th anniversary of the attacks,",
+      "zh": "在纪念袭击25周年之际，"
+    },
+    {
+      "id": 141,
+      "startMs": 737140,
+      "endMs": 743140,
+      "en": "the families hope they can take their case against Saudi Arabia to a trial and get all the answers to what happened.",
+      "zh": "家属希望能将针对沙特阿拉伯的案件提交审判，彻底弄清事情的真相。"
+    },
+    {
+      "id": 142,
+      "startMs": 744360,
+      "endMs": 746040,
+      "en": "The FBI declined to comment.",
+      "zh": "联邦调查局拒绝置评。"
+    },
+    {
+      "id": 143,
+      "startMs": 746680,
+      "endMs": 751400,
+      "en": "While the US Department of Justice says it's unable to comment on matters and decisions,",
+      "zh": "美国司法部则表示，无法就相关事务和决定置评，"
+    },
+    {
+      "id": 144,
+      "startMs": 751400,
+      "endMs": 755000,
+      "en": "from 25 years ago involving staff who no longer work there.",
+      "zh": "这些是25年前的事务，涉及如今已离职的员工。"
+    },
+    {
+      "id": 145,
+      "startMs": 755700,
+      "endMs": 759860,
+      "en": "The Metropolitan Police says it can't comment because of the ongoing legal case.",
+      "zh": "伦敦警察厅称，由于案件仍在审理，无法置评。"
+    },
+    {
+      "id": 146,
+      "startMs": 760740,
+      "endMs": 766500,
+      "en": "Panorama attempted to reach Omar al-Bayoumi through the Ministry of Foreign Affairs and Ministry of Islamic Affairs.",
+      "zh": "《全景》节目试图通过外交部和伊斯兰事务部联络奥马尔·巴尤米。"
+    },
+    {
+      "id": 147,
+      "startMs": 767280,
+      "endMs": 771600,
+      "en": "Neither he nor the Saudi government responded to our request for comment.",
+      "zh": "他本人和沙特政府都没有回应我们的置评请求。"
+    },
+    {
+      "id": 148,
+      "startMs": 772240,
+      "endMs": 782800,
+      "en": "He has previously denied knowing that Hazmi and Mihdhar would go on to be hijackers, said the plane diagram was just an equation, and denied any involvement in the 9/11 attacks.",
+      "zh": "他此前否认知道哈兹米和米德哈尔后来会成为劫机者，称飞机图只是一个方程式，并否认参与9·11袭击。"
+    },
+    {
+      "id": 149,
+      "startMs": 783520,
+      "endMs": 785040,
+      "en": "Jane McMullen reporting.",
+      "zh": "简·麦克马伦报道。"
+    },
+    {
+      "id": 150,
+      "startMs": 785980,
+      "endMs": 788220,
+      "en": "How well did you sleep last night?",
+      "zh": "你昨晚睡得好吗？"
+    },
+    {
+      "id": 151,
+      "startMs": 788300,
+      "endMs": 793820,
+      "en": "Well, these days many of us use smartwatches, rings, and apps to get a precise answer to that question.",
+      "zh": "如今，我们许多人使用智能手表、戒指和应用，精准回答这个问题。"
+    },
+    {
+      "id": 152,
+      "startMs": 794140,
+      "endMs": 802060,
+      "en": "But experts are warning that the pursuit of the perfect sleep, a trend known as sleepmaxing, could actually end up keeping people awake.",
+      "zh": "但专家警告说，对完美睡眠的追求，这种被称为“睡眠优化”的趋势，实际上可能让人彻夜难眠。"
+    },
+    {
+      "id": 153,
+      "startMs": 802620,
+      "endMs": 807580,
+      "en": "Doctors call it orthosomnia, an unhealthy obsession with getting the perfect night's rest.",
+      "zh": "医生称之为“完美睡眠焦虑”，即对获得完美夜间休息的不健康痴迷。"
+    },
+    {
+      "id": 154,
+      "startMs": 807980,
+      "endMs": 810540,
+      "en": "Dr. Alanna Hare is a sleep medicine consultant.",
+      "zh": "阿兰娜·黑尔医生是睡眠医学顾问。"
+    },
+    {
+      "id": 155,
+      "startMs": 811100,
+      "endMs": 818380,
+      "en": "What I often see is individuals who are very focused on high performance, well-being, maybe they're going to the gym,",
+      "zh": "我经常看到一些人非常关注高水平表现和身心健康，也许他们还会去健身，"
+    },
+    {
+      "id": 156,
+      "startMs": 818540,
+      "endMs": 823100,
+      "en": "and quite understandably, they also want to address their sleep and improve that.",
+      "zh": "而且可以理解，他们也想改善睡眠。"
+    },
+    {
+      "id": 157,
+      "startMs": 823260,
+      "endMs": 827180,
+      "en": "But unfortunately, sleep doesn't respond in the same way as diet and exercise do.",
+      "zh": "但遗憾的是，睡眠并不会像饮食和锻炼那样回应努力。"
+    },
+    {
+      "id": 158,
+      "startMs": 827420,
+      "endMs": 831740,
+      "en": "When we really focus on our sleep and we try and optimize or max our sleep,",
+      "zh": "当我们过度关注睡眠，努力优化或最大化睡眠时，"
+    },
+    {
+      "id": 159,
+      "startMs": 832140,
+      "endMs": 835820,
+      "en": "actually, often that can create the opposite issue where our sleep becomes worse.",
+      "zh": "实际上，这往往会造成相反的结果，让睡眠变得更糟。"
+    },
+    {
+      "id": 160,
+      "startMs": 836380,
+      "endMs": 842940,
+      "en": "Well, in a study at the University of Oxford, scientists gave participants trackers which displayed a score each time they woke up.",
+      "zh": "牛津大学的一项研究中，科学家给参与者佩戴追踪器，每次醒来都会显示一个分数。"
+    },
+    {
+      "id": 161,
+      "startMs": 843500,
+      "endMs": 850960,
+      "en": "These were actually just random numbers, but participants with low scores said they genuinely felt more tired and less mentally alert.",
+      "zh": "这些其实只是随机数字，不过分数较低的参与者却说，他们确实感觉更疲惫、精神也更不清醒。"
+    },
+    {
+      "id": 162,
+      "startMs": 851520,
+      "endMs": 858000,
+      "en": "James Wilson, or \"The Sleep Geek\", works with professional sports teams to improve athletes' rest.",
+      "zh": "詹姆斯·威尔逊（“睡眠极客”）与职业运动队合作，帮助运动员改善休息。"
+    },
+    {
+      "id": 163,
+      "startMs": 858400,
+      "endMs": 861200,
+      "en": "What we believe about our sleep is often the thing that comes true.",
+      "zh": "我们对睡眠的看法，往往会变成现实。"
+    },
+    {
+      "id": 164,
+      "startMs": 861440,
+      "endMs": 863520,
+      "en": "So there's lots of things that feed into how we sleep.",
+      "zh": "影响我们睡眠的因素有很多。"
+    },
+    {
+      "id": 165,
+      "startMs": 863520,
+      "endMs": 868320,
+      "en": "We have an underlying sort of genetic makeup when it comes to sleep, in terms of how much sleep we need,",
+      "zh": "说到睡眠，我们有某种潜在的遗传构成，决定我们需要多少睡眠，"
+    },
+    {
+      "id": 166,
+      "startMs": 868320,
+      "endMs": 871040,
+      "en": "in terms of how good and how much, your sleep type,",
+      "zh": "也决定睡眠的质量、时长和睡眠类型，"
+    },
+    {
+      "id": 167,
+      "startMs": 871040,
+      "endMs": 872880,
+      "en": "when you are more suited to going to bed and waking up.",
+      "zh": "以及你更适合何时入睡和醒来。"
+    },
+    {
+      "id": 168,
+      "startMs": 873280,
+      "endMs": 876880,
+      "en": "But then, then we also have the world around us, our lives around us,",
+      "zh": "不过，我们也有身边的世界，有我们周围的生活，"
+    },
+    {
+      "id": 169,
+      "startMs": 876880,
+      "endMs": 878720,
+      "en": "and if you've been a poor sleeper for your whole life,",
+      "zh": "如果你一生都睡不好，"
+    },
+    {
+      "id": 170,
+      "startMs": 879280,
+      "endMs": 884000,
+      "en": "often it's that story of, \"you know, I'm not going to sleep tonight because of X, Y, and Z,\"",
+      "zh": "常常会有这样的想法：“你知道，因为这个、那个，我今晚睡不着。”"
+    },
+    {
+      "id": 171,
+      "startMs": 884480,
+      "endMs": 887360,
+      "en": "that then causes you not to sleep that night.",
+      "zh": "而这种想法反过来让你当晚无法入睡。"
+    },
+    {
+      "id": 172,
+      "startMs": 887360,
+      "endMs": 891200,
+      "en": "And a big cause of that, and a big cause of something that's become known as orthosomnia,",
+      "zh": "造成这种情况的一个重要原因，也是所谓“完美睡眠焦虑”的重要成因，"
+    },
+    {
+      "id": 173,
+      "startMs": 891440,
+      "endMs": 892640,
+      "en": "is tracking your sleep.",
+      "zh": "就是追踪你的睡眠。"
+    },
+    {
+      "id": 174,
+      "startMs": 892720,
+      "endMs": 895440,
+      "en": "You know, if you are a poor sleeper, you know, you are a poor sleeper.",
+      "zh": "你知道，如果你睡眠质量差，你知道，你就是睡眠质量差。"
+    },
+    {
+      "id": 175,
+      "startMs": 895840,
+      "endMs": 900480,
+      "en": "You don't need a device to give you a score that might actually not be quite true.",
+      "zh": "你不需要一个设备给你打分，而那个分数实际上可能并不准确。"
+    },
+    {
+      "id": 176,
+      "startMs": 900480,
+      "endMs": 906180,
+      "en": "You know, you can wake up feeling okay, but if the score says you've slept poorly, that can really change how you view your sleep.",
+      "zh": "你可能醒来时感觉还不错，但如果分数说你睡得不好，这真的会改变你看待睡眠的方式。"
+    },
+    {
+      "id": 177,
+      "startMs": 906740,
+      "endMs": 912660,
+      "en": "If we actually acknowledge that sometimes sleep is a little bit difficult and our jobs can affect how we sleep",
+      "zh": "如果我们承认，有时睡眠确实有点困难，而且工作会影响我们的睡眠，"
+    },
+    {
+      "id": 178,
+      "startMs": 913060,
+      "endMs": 916740,
+      "en": "but know that our bodies can get us through it, then it doesn't have the same impact.",
+      "zh": "但知道身体能帮助我们熬过去，它就不会造成同样的影响。"
+    },
+    {
+      "id": 179,
+      "startMs": 916740,
+      "endMs": 921460,
+      "en": "So a lot of my work with the people I work with is actually getting them to reconfigure how they see their sleep",
+      "zh": "所以，我与共事者的大部分工作，其实是帮助他们重新看待自己的睡眠，"
+    },
+    {
+      "id": 180,
+      "startMs": 921620,
+      "endMs": 927060,
+      "en": "and accept that sometimes we will sleep poorly because we've got kids, we've got pets, we live in a noisy neighborhood",
+      "zh": "并接受我们有时会睡不好，因为我们有孩子、有宠物，住在嘈杂的社区，"
+    },
+    {
+      "id": 181,
+      "startMs": 927460,
+      "endMs": 933140,
+      "en": "we're shift workers, we've got a disability or neurodivergence, or we're living with a menstrual cycle or the menopause.",
+      "zh": "我们是轮班工人，有残障或神经多样性，或者正经历月经周期或更年期。"
+    },
+    {
+      "id": 182,
+      "startMs": 933300,
+      "endMs": 939860,
+      "en": "All these things can impact our sleep, and if we start to sort of obsess over it and think that sleep's got to be perfect, then you won't perform well.",
+      "zh": "所有这些都会影响睡眠；如果我们开始过度纠结，认为睡眠必须完美，就无法发挥好。"
+    },
+    {
+      "id": 183,
+      "startMs": 939860,
+      "endMs": 943940,
+      "en": "So the athletes I work with, a lot of the work is actually giving a bit of context",
+      "zh": "所以，对我合作的运动员，许多工作其实是提供一些背景，"
+    },
+    {
+      "id": 184,
+      "startMs": 943940,
+      "endMs": 948180,
+      "en": "around their sleep and trying to get them to see, you know, you're an elite athlete, sleep will not always be perfect.",
+      "zh": "帮助他们理解睡眠，让他们明白，你知道，即便是精英运动员，睡眠也不会总是完美。"
+    },
+    {
+      "id": 185,
+      "startMs": 948820,
+      "endMs": 950420,
+      "en": "Sleep expert James Wilson.",
+      "zh": "睡眠专家詹姆斯·威尔逊。"
+    },
+    {
+      "id": 186,
+      "startMs": 953260,
+      "endMs": 954860,
+      "en": "And still to come in this podcast",
+      "zh": "本期播客接下来还将谈到，"
+    },
+    {
+      "id": 187,
+      "startMs": 954860,
+      "endMs": 960220,
+      "en": "as a woman, I thought it was wonderful because I feel safer.",
+      "zh": "“作为一名女性，我觉得这太棒了，因为我感到更安全。”"
+    },
+    {
+      "id": 188,
+      "startMs": 960620,
+      "endMs": 963660,
+      "en": "I just put some of my drink on it to test it.",
+      "zh": "我只要把一点饮料滴在上面测试即可。"
+    },
+    {
+      "id": 189,
+      "startMs": 963660,
+      "endMs": 967740,
+      "en": "A wristband that can detect whether your drink has been spiked.",
+      "zh": "一种能检测饮料是否被下药的腕带。"
+    },
+    {
+      "id": 190,
+      "startMs": 967740,
+      "endMs": 970220,
+      "en": "You're listening to the Global News Podcast.",
+      "zh": "你正在收听《Global News Podcast》。"
+    },
+    {
+      "id": 191,
+      "startMs": 970700,
+      "endMs": 979020,
+      "en": "Iran's top negotiator has warned of a faster, heavier and more painful response to US attacks as hostilities escalate.",
+      "zh": "随着敌对行动升级，伊朗首席谈判代表警告称，将对美国的攻击作出更快、更猛烈、更痛苦的回应。"
+    },
+    {
+      "id": 192,
+      "startMs": 979580,
+      "endMs": 983100,
+      "en": "Mohammad Bagher Ghalibaf said the Americans must understand, quote,",
+      "zh": "穆罕默德·巴盖尔·加利巴夫说，美国人必须明白，引述原话："
+    },
+    {
+      "id": 193,
+      "startMs": 983420,
+      "endMs": 986620,
+      "en": "before it's too late that the rules of the game have changed.",
+      "zh": "“趁还不算太晚，明白游戏规则已经改变。”"
+    },
+    {
+      "id": 194,
+      "startMs": 987100,
+      "endMs": 990620,
+      "en": "Charlotte Gallagher spoke to the BBC Persian Service's Parham Ghobadi.",
+      "zh": "夏洛特·加拉格尔采访了 BBC 波斯语部的帕尔哈姆·戈巴迪。"
+    },
+    {
+      "id": 195,
+      "startMs": 991020,
+      "endMs": 998540,
+      "en": "In the past few days, Iranian commanders have been saying that Iran has shifted its military doctrine from defensive to offensive.",
+      "zh": "过去几天，伊朗指挥官一直表示，伊朗已将军事学说从防御转为进攻。"
+    },
+    {
+      "id": 196,
+      "startMs": 998620,
+      "endMs": 1003180,
+      "en": "They laid out some of the features of it, saying that responses are going to be fast, are going to be broad",
+      "zh": "他们列出了一些特点，称回应将会迅速且广泛，"
+    },
+    {
+      "id": 197,
+      "startMs": 1003420,
+      "endMs": 1012780,
+      "en": "Iran may resort to preemptive strike, and this disproportionate response, it appears, is the fourth feature of Iran's new military doctrine.",
+      "zh": "伊朗可能采取先发制人的打击；看来，这种不对称回应是伊朗新军事学说的第四个特点。"
+    },
+    {
+      "id": 198,
+      "startMs": 1013920,
+      "endMs": 1016080,
+      "en": "Why do you think they are doing this?",
+      "zh": "你认为他们为什么要这样做？"
+    },
+    {
+      "id": 199,
+      "startMs": 1016640,
+      "endMs": 1021360,
+      "en": "Because Iran feels that it is losing its leverage over the Strait of Hormuz.",
+      "zh": "因为伊朗觉得自己正在失去对霍尔木兹海峡的影响力。"
+    },
+    {
+      "id": 200,
+      "startMs": 1021440,
+      "endMs": 1029040,
+      "en": "This is really important. The other thing, because the naval blockade, US naval blockade, is hurting Iran's weak economy.",
+      "zh": "这非常重要。另一点是，美国的海上封锁正严重打击伊朗疲弱的经济。"
+    },
+    {
+      "id": 201,
+      "startMs": 1029280,
+      "endMs": 1033040,
+      "en": "Really badly, and, you know, people are bearing the brunt of it.",
+      "zh": "打击非常严重，而且你知道，民众正承受其最沉重的影响。"
+    },
+    {
+      "id": 202,
+      "startMs": 1033440,
+      "endMs": 1039440,
+      "en": "Iran has two options, technically. One is going back to the negotiating tables from a weaker position.",
+      "zh": "严格来说，伊朗有两个选择。一是从更弱的立场回到谈判桌。"
+    },
+    {
+      "id": 203,
+      "startMs": 1039680,
+      "endMs": 1042400,
+      "en": "The second one is to escalate further.",
+      "zh": "二是进一步升级局势。"
+    },
+    {
+      "id": 204,
+      "startMs": 1042480,
+      "endMs": 1046160,
+      "en": "So it appears that Iranian authorities have chosen the latter",
+      "zh": "所以看来，伊朗当局选择了后者，"
+    },
+    {
+      "id": 205,
+      "startMs": 1046480,
+      "endMs": 1054240,
+      "en": "and they've decided to go up the escalation ladder, which has a risk of unintended consequences",
+      "zh": "他们决定沿升级阶梯继续上行，这可能带来意外后果，"
+    },
+    {
+      "id": 206,
+      "startMs": 1054560,
+      "endMs": 1056560,
+      "en": "and things spiral out of control.",
+      "zh": "让事态失去控制。"
+    },
+    {
+      "id": 207,
+      "startMs": 1056880,
+      "endMs": 1060160,
+      "en": "And is that their leverage, ramping up the escalation?",
+      "zh": "那么，提升事态等级就是他们的筹码吗？"
+    },
+    {
+      "id": 208,
+      "startMs": 1060320,
+      "endMs": 1062960,
+      "en": "Yep. So from the data that we have",
+      "zh": "是的。所以根据我们掌握的数据，"
+    },
+    {
+      "id": 209,
+      "startMs": 1063120,
+      "endMs": 1068000,
+      "en": "like US authorities have for the first time put out a figure saying that they are transferring",
+      "zh": "比如，美国当局首次公布数据，称他们正在运输，"
+    },
+    {
+      "id": 210,
+      "startMs": 1068240,
+      "endMs": 1072400,
+      "en": "almost 9 million barrels of oil through the Strait of Hormuz.",
+      "zh": "约有900万桶石油通过霍尔木兹海峡。"
+    },
+    {
+      "id": 211,
+      "startMs": 1072400,
+      "endMs": 1079780,
+      "en": "Before the war, it was somewhere around 20 million barrels, so that's something around 45 percent of oil transfer has been restored",
+      "zh": "战前约为2000万桶，因此石油运输已恢复到约45%，"
+    },
+    {
+      "id": 212,
+      "startMs": 1080100,
+      "endMs": 1085780,
+      "en": "by the Americans. So Iran feels that, yeah, obviously, it's not like the pre-war",
+      "zh": "这是美国人恢复的。所以伊朗认为，显然，情况已不像战前，"
+    },
+    {
+      "id": 213,
+      "startMs": 1086020,
+      "endMs": 1089460,
+      "en": "it is, you know, it's really costly for the Americans.",
+      "zh": "你知道，这对美国人来说代价确实很高。"
+    },
+    {
+      "id": 214,
+      "startMs": 1089460,
+      "endMs": 1092260,
+      "en": "They have to deploy troops, warships, etc., etc.",
+      "zh": "他们必须部署军队、军舰等等。"
+    },
+    {
+      "id": 215,
+      "startMs": 1092580,
+      "endMs": 1096420,
+      "en": "But they've managed to transfer some oil through the Strait of Hormuz.",
+      "zh": "但他们已经设法让部分石油通过霍尔木兹海峡。"
+    },
+    {
+      "id": 216,
+      "startMs": 1096740,
+      "endMs": 1098980,
+      "en": "Forty-five percent of that is already restored.",
+      "zh": "其中45%已经恢复。"
+    },
+    {
+      "id": 217,
+      "startMs": 1099220,
+      "endMs": 1107460,
+      "en": "So Iranians feel that they're being targeted, they're losing their most important leverage and, at the same time, the naval blockade is continuing.",
+      "zh": "所以伊朗人觉得自己正受到针对，正在失去最重要的筹码，同时海上封锁仍在继续。"
+    },
+    {
+      "id": 218,
+      "startMs": 1107460,
+      "endMs": 1116420,
+      "en": "So Iran cannot. According to reports, Iran's oil sales have dropped to zero, and that is Iran's main income and main revenue.",
+      "zh": "所以伊朗做不到。据报道，伊朗的石油销售已降至零，而这是伊朗的主要收入来源。"
+    },
+    {
+      "id": 219,
+      "startMs": 1116580,
+      "endMs": 1121460,
+      "en": "And this is what some Iranian authorities had warned already: that we should not overplay our hands",
+      "zh": "这正是一些伊朗官员此前已经警告过的：我们不应把手牌打得太过，"
+    },
+    {
+      "id": 220,
+      "startMs": 1121700,
+      "endMs": 1124260,
+      "en": "including Mohammad Bagher Ghalibaf, who mentioned this today.",
+      "zh": "包括今天提到这一点的穆罕默德·巴盖尔·加利巴夫。"
+    },
+    {
+      "id": 221,
+      "startMs": 1124580,
+      "endMs": 1132020,
+      "en": "He was one of those people who was saying that our benefit is in the Strait of Hormuz functioning and ships going through it.",
+      "zh": "他就是认为，让霍尔木兹海峡保持运行、让船只通过，才符合我们利益的人之一。"
+    },
+    {
+      "id": 222,
+      "startMs": 1133560,
+      "endMs": 1134680,
+      "en": "Persian service.",
+      "zh": "波斯语部报道。"
+    },
+    {
+      "id": 223,
+      "startMs": 1135400,
+      "endMs": 1142440,
+      "en": "At least five people have been killed after an Amazon cargo plane overshot the runway as it tried to land at Miami International Airport.",
+      "zh": "一架亚马逊货运飞机试图降落迈阿密国际机场时冲出跑道，至少五人死亡。"
+    },
+    {
+      "id": 224,
+      "startMs": 1142880,
+      "endMs": 1144800,
+      "en": "I got the details from the BBC's Anna Aslam.",
+      "zh": "我从 BBC 记者安娜·阿斯拉姆那里获得了详情。"
+    },
+    {
+      "id": 225,
+      "startMs": 1145360,
+      "endMs": 1148400,
+      "en": "This cargo plane took off from San Juan in Puerto Rico.",
+      "zh": "这架货机从波多黎各的圣胡安起飞。"
+    },
+    {
+      "id": 226,
+      "startMs": 1148400,
+      "endMs": 1155280,
+      "en": "It was coming in to land at Miami International shortly before 2:00 p.m. local time when it overran the runway.",
+      "zh": "当地时间下午2点前不久，飞机准备降落迈阿密国际机场时冲出了跑道。"
+    },
+    {
+      "id": 227,
+      "startMs": 1155680,
+      "endMs": 1160720,
+      "en": "Flight data shows it was going about 200 kilometres per hour when it, you know, hit the runway,",
+      "zh": "飞行数据表明，飞机当时以每小时约200公里的速度飞行，然后，你知道，撞上了跑道，"
+    },
+    {
+      "id": 228,
+      "startMs": 1160720,
+      "endMs": 1163440,
+      "en": "kept going, then just went off the runway completely.",
+      "zh": "继续向前，随后完全冲出了跑道。"
+    },
+    {
+      "id": 229,
+      "startMs": 1163760,
+      "endMs": 1168800,
+      "en": "It crossed a large road, hitting several vehicles there, and then burst into flames",
+      "zh": "飞机穿过一条大路，撞上了那里的几辆车，随后起火，"
+    },
+    {
+      "id": 230,
+      "startMs": 1169200,
+      "endMs": 1172080,
+      "en": "before grinding to a halt in what's called the field,",
+      "zh": "最后在所谓的场地停了下来，"
+    },
+    {
+      "id": 231,
+      "startMs": 1172080,
+      "endMs": 1175920,
+      "en": "but really just a grassy area sort of in between that road and a parking lot.",
+      "zh": "但那其实只是一片位于那条路和停车场之间的草地。"
+    },
+    {
+      "id": 232,
+      "startMs": 1176800,
+      "endMs": 1182000,
+      "en": "Videos and pictures online show the tilted plane, so you've got the damaged nose on the ground,",
+      "zh": "网上的视频和图片显示，飞机倾斜着，受损的机头落在地面上，"
+    },
+    {
+      "id": 233,
+      "startMs": 1182400,
+      "endMs": 1188240,
+      "en": "tail high up in the air with the Amazon logo visible, and then large plumes of smoke just coming off of it.",
+      "zh": "机尾高高翘在空中，可以看到亚马逊标志，机身还不断冒出大片烟雾。"
+    },
+    {
+      "id": 234,
+      "startMs": 1188640,
+      "endMs": 1193120,
+      "en": "Firefighters arrived pretty quickly, extinguished the flames, leaving soot on the wreckage.",
+      "zh": "消防员很快赶到，扑灭了火焰，残骸上留下了煤烟。"
+    },
+    {
+      "id": 235,
+      "startMs": 1193520,
+      "endMs": 1197360,
+      "en": "The fire chief Ray Jadallah said it was a complex situation.",
+      "zh": "消防局长雷·贾达拉说，情况很复杂。"
+    },
+    {
+      "id": 236,
+      "startMs": 1197840,
+      "endMs": 1203780,
+      "en": "The airplane did strike a couple of vehicles, and a couple of victims were actually trapped in the vehicles.",
+      "zh": "飞机确实撞上了几辆车，有几名受害者被困在车内。"
+    },
+    {
+      "id": 237,
+      "startMs": 1204100,
+      "endMs": 1207620,
+      "en": "So a complex extrication with our technical rescue team started to occur.",
+      "zh": "因此，我们的技术救援队开始进行复杂的救援脱困工作。"
+    },
+    {
+      "id": 238,
+      "startMs": 1208100,
+      "endMs": 1213060,
+      "en": "In addition to that, we had a very complex fire: engine compartments that were on fire,",
+      "zh": "除此之外，我们还要处理非常复杂的火情：发动机舱起火，"
+    },
+    {
+      "id": 239,
+      "startMs": 1213860,
+      "endMs": 1218580,
+      "en": "including a search and rescue of the pilot and co-pilot that were trapped in this aircraft.",
+      "zh": "还要搜救被困在机内的飞行员和副驾驶。"
+    },
+    {
+      "id": 240,
+      "startMs": 1219220,
+      "endMs": 1221940,
+      "en": "So as you said, we know five people have been killed.",
+      "zh": "所以，正如你所说，我们知道已有5人死亡。"
+    },
+    {
+      "id": 241,
+      "startMs": 1222340,
+      "endMs": 1225380,
+      "en": "Another five are injured, three in critical condition.",
+      "zh": "另有5人受伤，其中3人伤势危重。"
+    },
+    {
+      "id": 242,
+      "startMs": 1225700,
+      "endMs": 1229220,
+      "en": "Do we know what caused the plane to run off the end of the runway?",
+      "zh": "我们知道飞机冲出跑道尽头的原因吗？"
+    },
+    {
+      "id": 243,
+      "startMs": 1229540,
+      "endMs": 1234980,
+      "en": "Not yet. It's still an active scene, and federal investigators have said they've sent a team to go out there.",
+      "zh": "还不知道。现场仍在处置中，联邦调查人员说他们已经派出一支小组前往现场。"
+    },
+    {
+      "id": 244,
+      "startMs": 1235540,
+      "endMs": 1240980,
+      "en": "Amazon released a statement. It said it's working with local authorities to gather details about exactly what happened.",
+      "zh": "亚马逊发表声明说，正在与地方当局合作，了解事件的确切经过。"
+    },
+    {
+      "id": 245,
+      "startMs": 1241380,
+      "endMs": 1245060,
+      "en": "And a spokesperson said the loss of life was heartbreaking.",
+      "zh": "一名发言人说，人员伤亡令人心碎。"
+    },
+    {
+      "id": 246,
+      "startMs": 1245460,
+      "endMs": 1249460,
+      "en": "A dedicated hotline has been set up for the relatives of those affected.",
+      "zh": "有关方面已为受影响者的亲属设立专线。"
+    },
+    {
+      "id": 247,
+      "startMs": 1249860,
+      "endMs": 1253780,
+      "en": "County Mayor Daniela Levine Cava said the community is grieving.",
+      "zh": "县长丹妮拉·莱文·卡瓦说，社区正处于悲痛之中。"
+    },
+    {
+      "id": 248,
+      "startMs": 1254340,
+      "endMs": 1259220,
+      "en": "Today is an incredibly difficult day for all of us here in Miami-Dade County.",
+      "zh": "今天对我们迈阿密-戴德县的所有人来说，都是极其艰难的一天。"
+    },
+    {
+      "id": 249,
+      "startMs": 1259940,
+      "endMs": 1265880,
+      "en": "My heart is with all of the families who were affected and to everyone who is grieving tonight.",
+      "zh": "我牵挂着所有受影响的家庭，也牵挂着今晚正在悲痛中的每一个人。"
+    },
+    {
+      "id": 250,
+      "startMs": 1266360,
+      "endMs": 1269640,
+      "en": "And we're also praying for the injured and for their families.",
+      "zh": "我们也为伤者及其家人祈祷。"
+    },
+    {
+      "id": 251,
+      "startMs": 1270360,
+      "endMs": 1273800,
+      "en": "The airport was obviously completely shut down after that incident.",
+      "zh": "事发后，机场显然完全关闭。"
+    },
+    {
+      "id": 252,
+      "startMs": 1274040,
+      "endMs": 1279000,
+      "en": "Now, as it reopens, travelers have been told to expect delays and possibly cancellations.",
+      "zh": "如今机场重新开放，旅客被告知可能会延误，甚至取消航班。"
+    },
+    {
+      "id": 253,
+      "startMs": 1279480,
+      "endMs": 1285320,
+      "en": "Miami International is one of the busiest airports in the US, especially this weekend because of Labor Day bank holiday,",
+      "zh": "迈阿密国际机场是美国最繁忙的机场之一，尤其本周末正值劳动节银行假日，"
+    },
+    {
+      "id": 254,
+      "startMs": 1285800,
+      "endMs": 1288440,
+      "en": "so there will be a lot of disruption in the coming hours.",
+      "zh": "因此，未来几小时将出现大量交通混乱。"
+    },
+    {
+      "id": 255,
+      "startMs": 1288760,
+      "endMs": 1289720,
+      "en": "Anna Aslam.",
+      "zh": "安娜·阿斯拉姆。"
+    },
+    {
+      "id": 256,
+      "startMs": 1289800,
+      "endMs": 1295960,
+      "en": "Meanwhile, ash sent into the sky from an erupting volcano has closed eight airports in Indonesia,",
+      "zh": "与此同时，一座正在喷发的火山将火山灰送入空中，导致印度尼西亚8座机场关闭，"
+    },
+    {
+      "id": 257,
+      "startMs": 1296520,
+      "endMs": 1299320,
+      "en": "leading to the cancellation of more than a thousand flights.",
+      "zh": "超过1000个航班因此被取消。"
+    },
+    {
+      "id": 258,
+      "startMs": 1299960,
+      "endMs": 1302360,
+      "en": "Lisa Tambunan reports from Jakarta.",
+      "zh": "丽莎·坦布南从雅加达报道。"
+    },
+    {
+      "id": 259,
+      "startMs": 1302680,
+      "endMs": 1307400,
+      "en": "The eruption began late on Friday and sent ash nearly 10 miles into the sky.",
+      "zh": "火山喷发始于周五深夜，将火山灰喷到近10英里高的空中。"
+    },
+    {
+      "id": 260,
+      "startMs": 1307880,
+      "endMs": 1313800,
+      "en": "Mount Anak Krakatau, which sits in the Sunda Strait between Java and Sumatra, was active once again.",
+      "zh": "位于爪哇岛和苏门答腊岛之间巽他海峡的阿纳克·喀拉喀托火山再次活动。"
+    },
+    {
+      "id": 261,
+      "startMs": 1314520,
+      "endMs": 1321240,
+      "en": "The seismic activity has continued through the weekend, with two more eruptions triggering widespread flight disruption.",
+      "zh": "地震活动持续到周末，另外两次喷发引发了大范围航班中断。"
+    },
+    {
+      "id": 262,
+      "startMs": 1321800,
+      "endMs": 1325740,
+      "en": "These passengers at Indonesia's main international airport near Jakarta...",
+      "zh": "这些在雅加达附近、印度尼西亚主要国际机场的乘客……"
+    },
+    {
+      "id": 263,
+      "startMs": 1326140,
+      "endMs": 1328460,
+      "en": "didn't know how long they would have to wait for a flight.",
+      "zh": "不知道还要等多久才能乘上航班。"
+    },
+    {
+      "id": 264,
+      "startMs": 1332580,
+      "endMs": 1334980,
+      "en": "If a volcano erupts, I understand that.",
+      "zh": "如果火山喷发，我能理解。"
+    },
+    {
+      "id": 265,
+      "startMs": 1335300,
+      "endMs": 1337380,
+      "en": "The problem is, why weren't we informed?",
+      "zh": "问题是，为什么没人通知我们？"
+    },
+    {
+      "id": 266,
+      "startMs": 1337700,
+      "endMs": 1340100,
+      "en": "That way, passengers wouldn't have needed to come here.",
+      "zh": "那样，乘客就不必来这里了。"
+    },
+    {
+      "id": 267,
+      "startMs": 1340100,
+      "endMs": 1345140,
+      "en": "It has caused problems for me.",
+      "zh": "这给我带来了麻烦。"
+    },
+    {
+      "id": 268,
+      "startMs": 1345380,
+      "endMs": 1349540,
+      "en": "People are waiting for me, but this is nature. I have to accept it.",
+      "zh": "有人在等我，但这就是自然。我必须接受。"
+    },
+    {
+      "id": 269,
+      "startMs": 1351120,
+      "endMs": 1359120,
+      "en": "Routes to and from Singapore, along with major international flights to Doha, Sydney and Kuala Lumpur, have all been affected.",
+      "zh": "往返新加坡的航线，以及飞往多哈、悉尼和吉隆坡的主要国际航班，都受到了影响。"
+    },
+    {
+      "id": 270,
+      "startMs": 1359520,
+      "endMs": 1365120,
+      "en": "On the ground, residents of Jakarta and other cities have been sweeping up the ash outside their homes.",
+      "zh": "在地面上，雅加达和其他城市的居民一直在清扫家门外的火山灰。"
+    },
+    {
+      "id": 271,
+      "startMs": 1365600,
+      "endMs": 1369680,
+      "en": "They've been advised to wear masks and eye protection and to remain indoors.",
+      "zh": "他们被建议戴口罩和护目装备，并留在室内。"
+    },
+    {
+      "id": 272,
+      "startMs": 1370320,
+      "endMs": 1375200,
+      "en": "Fishing boats and other vessels have been banned from within three kilometres of the active crater.",
+      "zh": "渔船和其他船只被禁止进入活跃火山口周围3公里以内。"
+    },
+    {
+      "id": 273,
+      "startMs": 1375760,
+      "endMs": 1381040,
+      "en": "The sea level is being monitored, but the authorities say the likelihood of a tsunami is low.",
+      "zh": "有关方面正在监测海平面，但表示发生海啸的可能性很低。"
+    },
+    {
+      "id": 274,
+      "startMs": 1381520,
+      "endMs": 1383520,
+      "en": "Lisa Tambunan in Jakarta.",
+      "zh": "丽莎·坦布南在雅加达报道。"
+    },
+    {
+      "id": 275,
+      "startMs": 1384360,
+      "endMs": 1390840,
+      "en": "Reports of people being sexually assaulted after having their drinks spiked have risen substantially in recent years,",
+      "zh": "近年来，关于人们饮料被下药后遭受性侵的报告大幅增加，"
+    },
+    {
+      "id": 276,
+      "startMs": 1391240,
+      "endMs": 1395400,
+      "en": "prompting a search for a simple way of testing whether drugs have been added to a drink.",
+      "zh": "促使人们寻找一种简单的方法，检测饮料中是否被加入了药物。"
+    },
+    {
+      "id": 277,
+      "startMs": 1396040,
+      "endMs": 1401880,
+      "en": "Well, over the weekend, thousands of date rape drug-detecting wristbands were handed out at a concert in Portugal.",
+      "zh": "本周末，在葡萄牙一场音乐会上发放了数千条检测约会强奸药物的手环。"
+    },
+    {
+      "id": 278,
+      "startMs": 1402360,
+      "endMs": 1403560,
+      "en": "More details from Wendy Urquhart.",
+      "zh": "更多详情请听温迪·厄克特的报道。"
+    },
+    {
+      "id": 279,
+      "startMs": 1404040,
+      "endMs": 1413720,
+      "en": "Imagine the horror of waking up in a strange place with people you've never met and realizing you've been sexually assaulted or raped.",
+      "zh": "想象一下，在陌生的地方醒来，身边是从未见过的人，才意识到自己遭到了性侵或强奸，这是多么可怕。"
+    },
+    {
+      "id": 280,
+      "startMs": 1414360,
+      "endMs": 1418760,
+      "en": "That happens to many people, especially women, whose drinks have been spiked",
+      "zh": "许多人，尤其是女性，都经历过这种事；她们的饮料被下了药，"
+    },
+    {
+      "id": 281,
+      "startMs": 1418840,
+      "endMs": 1424840,
+      "en": "with drugs that cause dizziness or make them pass out and remember nothing about what's happened.",
+      "zh": "药物会导致头晕、昏厥，让她们完全记不起发生了什么。"
+    },
+    {
+      "id": 282,
+      "startMs": 1425160,
+      "endMs": 1428360,
+      "en": "And the majority of these attacks are never reported.",
+      "zh": "而且，这些袭击大多从未被报告。"
+    },
+    {
+      "id": 283,
+      "startMs": 1428920,
+      "endMs": 1433000,
+      "en": "It's become such a major problem that countries all over the world",
+      "zh": "这已经成为一个严重问题，世界各国"
+    },
+    {
+      "id": 284,
+      "startMs": 1433000,
+      "endMs": 1434760,
+      "en": "are trying to come up with a solution",
+      "zh": "都在努力寻找解决办法，"
+    },
+    {
+      "id": 285,
+      "startMs": 1435080,
+      "endMs": 1441160,
+      "en": "that not only protects people, but is also fashion-friendly and easy to wear.",
+      "zh": "这种办法不仅能保护人们，还要兼具时尚感、便于佩戴。"
+    },
+    {
+      "id": 286,
+      "startMs": 1441800,
+      "endMs": 1444040,
+      "en": "At the weekend, 5,000 wristbands.",
+      "zh": "周末，5000只手环。"
+    },
+    {
+      "id": 287,
+      "startMs": 1444220,
+      "endMs": 1452620,
+      "en": "that were developed by researchers at Lisbon University in collaboration with the University of Valencia and the Spanish company Celentis",
+      "zh": "这些手环由里斯本大学研究人员与瓦伦西亚大学及西班牙公司 Celentis 合作研发，"
+    },
+    {
+      "id": 288,
+      "startMs": 1452700,
+      "endMs": 1456700,
+      "en": "were handed out at a DJ Carl Cox concert in Lisbon,",
+      "zh": "在里斯本 DJ 卡尔·考克斯的一场音乐会上发放，"
+    },
+    {
+      "id": 289,
+      "startMs": 1456940,
+      "endMs": 1461980,
+      "en": "And there are plans to distribute thousands more at other events in Portugal.",
+      "zh": "葡萄牙还计划在其他活动上发放数千只。"
+    },
+    {
+      "id": 290,
+      "startMs": 1462620,
+      "endMs": 1463740,
+      "en": "So how does it work?",
+      "zh": "那么，它是如何运作的？"
+    },
+    {
+      "id": 291,
+      "startMs": 1464220,
+      "endMs": 1470780,
+      "en": "Well, all you have to do is put a tiny amount of liquid from your glass onto a spot on the wristband.",
+      "zh": "你只需把杯中少量液体滴到手环上的一个检测点。"
+    },
+    {
+      "id": 292,
+      "startMs": 1471100,
+      "endMs": 1473500,
+      "en": "If it turns orange, everything's fine.",
+      "zh": "如果变成橙色，就说明一切正常。"
+    },
+    {
+      "id": 293,
+      "startMs": 1473820,
+      "endMs": 1478940,
+      "en": "But if it turns a greenish colour, it means your drink has been tampered with.",
+      "zh": "但如果变成绿色，就说明你的饮料被动过手脚。"
+    },
+    {
+      "id": 294,
+      "startMs": 1479660,
+      "endMs": 1483180,
+      "en": "It's an idea that's gone down very well with these users.",
+      "zh": "这个想法很受这些使用者欢迎。"
+    },
+    {
+      "id": 295,
+      "startMs": 1483340,
+      "endMs": 1488300,
+      "en": "I think it's a good thing, because it ends up giving us some peace of mind.",
+      "zh": "我觉得这很好，最终能让我们安心一些。"
+    },
+    {
+      "id": 296,
+      "startMs": 1488380,
+      "endMs": 1493820,
+      "en": "The pressure is on women because they end up being the victims of more situations where their drinks might be spiked.",
+      "zh": "女性承受的压力更大，因为她们更常成为饮料可能被下药情形的受害者。"
+    },
+    {
+      "id": 297,
+      "startMs": 1493820,
+      "endMs": 1498860,
+      "en": "As a woman, I thought it was wonderful, because I feel safer.",
+      "zh": "作为女性，我觉得这太棒了，因为我感到更安全。"
+    },
+    {
+      "id": 298,
+      "startMs": 1499820,
+      "endMs": 1502860,
+      "en": "I just put some of my drink on it to test it.",
+      "zh": "我只要滴一点饮料上去就能检测。"
+    },
+    {
+      "id": 299,
+      "startMs": 1502860,
+      "endMs": 1505680,
+      "en": "I think the city council initiative is great.",
+      "zh": "我觉得市议会的倡议很棒。"
+    },
+    {
+      "id": 300,
+      "startMs": 1506080,
+      "endMs": 1514960,
+      "en": "Several other countries have used jewellery, straws, and even magnets to detect drugs such as GHB, ketamine, and MDMA.",
+      "zh": "其他一些国家也用首饰、吸管甚至磁铁检测 GHB、氯胺酮和 MDMA 等毒品。"
+    },
+    {
+      "id": 301,
+      "startMs": 1515200,
+      "endMs": 1522000,
+      "en": "And Portugal is hoping this wristband will also help protect people from dangerous predators.",
+      "zh": "葡萄牙希望这种手环也能帮助人们防范危险的加害者。"
+    },
+    {
+      "id": 302,
+      "startMs": 1522320,
+      "endMs": 1523040,
+      "en": "Wendy Urquhart.",
+      "zh": "温迪·厄克特报道。"
+    },
+    {
+      "id": 303,
+      "startMs": 1524100,
+      "endMs": 1529620,
+      "en": "In recent years, Nigeria has been scarred by a series of mass school abductions.",
+      "zh": "近年来，尼日利亚屡遭大规模校园绑架事件的创伤。"
+    },
+    {
+      "id": 304,
+      "startMs": 1530260,
+      "endMs": 1535140,
+      "en": "Gunmen launch lightning raids and take dozens, even hundreds, of children away to captivity.",
+      "zh": "枪手发动突袭，把几十名、甚至数百名儿童掳走囚禁。"
+    },
+    {
+      "id": 305,
+      "startMs": 1535620,
+      "endMs": 1538980,
+      "en": "The country is already struggling with poor access to education.",
+      "zh": "这个国家本已在艰难应对教育资源匮乏。"
+    },
+    {
+      "id": 306,
+      "startMs": 1539300,
+      "endMs": 1543060,
+      "en": "The UN says about 19 million kids are missing out on school.",
+      "zh": "联合国称，约1900万儿童无法上学。"
+    },
+    {
+      "id": 307,
+      "startMs": 1543380,
+      "endMs": 1547780,
+      "en": "Many parents are simply too scared to send their sons and daughters to class.",
+      "zh": "许多父母只是因为害怕，不敢送子女去上课。"
+    },
+    {
+      "id": 308,
+      "startMs": 1548420,
+      "endMs": 1555060,
+      "en": "Yemisi Adegoke has been to northwest Nigeria to meet two young people caught up in an attack on their school.",
+      "zh": "耶米西·阿德戈克前往尼日利亚西北部，见到了两名卷入校园袭击的年轻人。"
+    },
+    {
+      "id": 309,
+      "startMs": 1561480,
+      "endMs": 1566440,
+      "en": "I've just arrived at the school, and the senior girls are out in the courtyard.",
+      "zh": "我刚到学校，高年级女生们正在庭院里。"
+    },
+    {
+      "id": 310,
+      "startMs": 1569620,
+      "endMs": 1575220,
+      "en": "They're wearing bright green uniforms, and it's raining a little bit, but they're just carrying on regardless.",
+      "zh": "她们穿着鲜绿色校服，天在下小雨，但她们仍继续活动。"
+    },
+    {
+      "id": 311,
+      "startMs": 1579180,
+      "endMs": 1583260,
+      "en": "One of the pupils singing and dancing here ahead of the end of school is Hannatu.",
+      "zh": "临近放学时，在这里唱歌跳舞的学生之一是哈娜图。"
+    },
+    {
+      "id": 312,
+      "startMs": 1584220,
+      "endMs": 1589580,
+      "en": "Like many teenage girls here in Gusau in northwest Nigeria, she's nervous about her exam results.",
+      "zh": "和尼日利亚西北部古绍的许多少女一样，她对考试成绩感到紧张。"
+    },
+    {
+      "id": 313,
+      "startMs": 1590760,
+      "endMs": 1595480,
+      "en": "The BBC has followed Hannatu's story closely ever since a shocking, life-changing incident.",
+      "zh": "自那场令人震惊、改变人生的事件以来，BBC 一直密切跟进哈娜图的故事。"
+    },
+    {
+      "id": 314,
+      "startMs": 1595880,
+      "endMs": 1599800,
+      "en": "I remember it often.",
+      "zh": "我经常想起那件事。"
+    },
+    {
+      "id": 315,
+      "startMs": 1600200,
+      "endMs": 1602280,
+      "en": "It makes me feel sad, and I cry.",
+      "zh": "那让我感到悲伤，我会哭。"
+    },
+    {
+      "id": 316,
+      "startMs": 1603500,
+      "endMs": 1611020,
+      "en": "Reports say a large number of schoolgirls have been abducted after gunmen stormed a government school and kidnapped them from their dormitories.",
+      "zh": "报道称，大批女学生在枪手闯入一所公立学校后被从宿舍绑走。"
+    },
+    {
+      "id": 317,
+      "startMs": 1613400,
+      "endMs": 1619560,
+      "en": "This part of Nigeria has been plagued by motorbike-riding gangs of bandits who abduct people for ransom.",
+      "zh": "尼日利亚这一地区饱受骑摩托车的匪帮困扰，他们绑架人质索要赎金。"
+    },
+    {
+      "id": 318,
+      "startMs": 1620040,
+      "endMs": 1626600,
+      "en": "In Zamfara State, almost half a million children are out of school, partly driven by fears over abductions.",
+      "zh": "在扎姆法拉州，近50万儿童失学，部分原因是人们担心遭到绑架。"
+    },
+    {
+      "id": 319,
+      "startMs": 1628040,
+      "endMs": 1631080,
+      "en": "After the attack, Hannatu spoke to BBC Africa Eye.",
+      "zh": "袭击发生后，哈娜图接受了 BBC《非洲之眼》采访。"
+    },
+    {
+      "id": 320,
+      "startMs": 1631080,
+      "endMs": 1638360,
+      "en": "We heard gunshots, people crying for help and shouting.",
+      "zh": "我们听到枪声，人们哭喊求救。"
+    },
+    {
+      "id": 321,
+      "startMs": 1639080,
+      "endMs": 1640440,
+      "en": "Here come the bandits!",
+      "zh": "匪徒来了！"
+    },
+    {
+      "id": 322,
+      "startMs": 1641000,
+      "endMs": 1644280,
+      "en": "About five of us ran and locked ourselves in the toilets.",
+      "zh": "我们大约五个人跑进厕所，把自己锁在里面。"
+    },
+    {
+      "id": 323,
+      "startMs": 1645000,
+      "endMs": 1648040,
+      "en": "There were about 350 students in the school.",
+      "zh": "学校里大约有350名学生。"
+    },
+    {
+      "id": 324,
+      "startMs": 1648860,
+      "endMs": 1650780,
+      "en": "But only 32 of us escaped.",
+      "zh": "但只有32人逃了出来。"
+    },
+    {
+      "id": 325,
+      "startMs": 1650780,
+      "endMs": 1656940,
+      "en": "Umu was another pupil at the school and was one of those abducted.",
+      "zh": "乌穆是这所学校的另一名学生，也是被绑架者之一。"
+    },
+    {
+      "id": 326,
+      "startMs": 1657500,
+      "endMs": 1663980,
+      "en": "She now studies early childhood education at a nearby university, but she was deeply affected by the incident.",
+      "zh": "她如今在附近大学学习幼儿教育，但那次事件给她留下了深刻影响。"
+    },
+    {
+      "id": 327,
+      "startMs": 1664620,
+      "endMs": 1670060,
+      "en": "I heard a man's voice shouting, 'Come out or I'll kill you!'",
+      "zh": "我听到一个男人喊：‘出来，否则我就杀了你！’"
+    },
+    {
+      "id": 328,
+      "startMs": 1670380,
+      "endMs": 1672140,
+      "en": "I was thinking that they would kill us.",
+      "zh": "我当时想，他们会杀了我们。"
+    },
+    {
+      "id": 329,
+      "startMs": 1673960,
+      "endMs": 1676520,
+      "en": "Nearly 300 girls were taken.",
+      "zh": "将近300名女孩被带走。"
+    },
+    {
+      "id": 330,
+      "startMs": 1677000,
+      "endMs": 1682120,
+      "en": "They were eventually freed, but it's disputed as to whether a ransom was paid for their release.",
+      "zh": "她们最终获释，但是否支付赎金换取释放仍有争议。"
+    },
+    {
+      "id": 331,
+      "startMs": 1682920,
+      "endMs": 1686840,
+      "en": "But the girls' school remained closed, threatening their futures.",
+      "zh": "但女孩们的学校仍然关闭，威胁着她们的未来。"
+    },
+    {
+      "id": 332,
+      "startMs": 1687400,
+      "endMs": 1691560,
+      "en": "Nigeria already has one of the highest rates of out-of-school children in the world.",
+      "zh": "尼日利亚的失学儿童比例已经位居世界最高之列。"
+    },
+    {
+      "id": 333,
+      "startMs": 1692280,
+      "endMs": 1697560,
+      "en": "Missing out on education can have devastating consequences, especially for girls.",
+      "zh": "失去受教育机会可能造成毁灭性后果，女孩尤其如此。"
+    },
+    {
+      "id": 334,
+      "startMs": 1698120,
+      "endMs": 1703640,
+      "en": "After the BBC filmed with Hannatu and Umu, donors reached out via the Ilimi Children's Fund.",
+      "zh": "BBC 拍摄哈娜图和乌穆的故事后，捐助者通过伊利米儿童基金会联系了她们。"
+    },
+    {
+      "id": 335,
+      "startMs": 1704440,
+      "endMs": 1706520,
+      "en": "They offered to help some of the girls affected.",
+      "zh": "他们提出帮助部分受影响的女孩。"
+    },
+    {
+      "id": 336,
+      "startMs": 1707240,
+      "endMs": 1710520,
+      "en": "This allowed them to attend a secure school in the state capital.",
+      "zh": "这让她们得以在州首府一所安全的学校就读。"
+    },
+    {
+      "id": 337,
+      "startMs": 1711480,
+      "endMs": 1715720,
+      "en": "Both Hannatu and Umu now dream of careers where they can help others.",
+      "zh": "哈娜图和乌穆如今都梦想从事帮助他人的职业。"
+    },
+    {
+      "id": 338,
+      "startMs": 1716440,
+      "endMs": 1718760,
+      "en": "I want to be a doctor,",
+      "zh": "我想成为一名医生，"
+    },
+    {
+      "id": 339,
+      "startMs": 1718760,
+      "endMs": 1724120,
+      "en": "so I can help the community and my relatives and the people that have supported me.",
+      "zh": "这样我就能帮助社区、亲人以及支持过我的人。"
+    },
+    {
+      "id": 340,
+      "startMs": 1724760,
+      "endMs": 1731560,
+      "en": "The attack on their old school changed their lives, but Hannatu and Umu are determined that it will not define them.",
+      "zh": "袭击改变了她们的人生，但哈娜图和乌穆决心不让这件事定义自己。"
+    },
+    {
+      "id": 341,
+      "startMs": 1732800,
+      "endMs": 1734720,
+      "en": "Yemisi Adegoke.",
+      "zh": "耶米西·阿德戈克报道。"
+    },
+    {
+      "id": 342,
+      "startMs": 1737340,
+      "endMs": 1741420,
+      "en": "That is all from us for now, but the Global News Podcast will be back very soon.",
+      "zh": "目前就到这里，全球新闻播客很快会再次与大家见面。"
+    },
+    {
+      "id": 343,
+      "startMs": 1741420,
+      "endMs": 1745580,
+      "en": "This edition was mixed by Sydney Dundon. Our editor is Karen Martin.",
+      "zh": "本期由悉尼·邓登混音，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 344,
+      "startMs": 1745740,
+      "endMs": 1746700,
+      "en": "I'm Oliver Conway.",
+      "zh": "我是奥利弗·康韦。"
+    },
+    {
+      "id": 345,
+      "startMs": 1746780,
+      "endMs": 1748060,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见，拜拜。"
+    }
+  ]
+}

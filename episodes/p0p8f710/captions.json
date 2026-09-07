@@ -1,0 +1,2342 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "7 September 2026"
+  },
+  "durationMs": 1749800,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3680,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是英国广播公司世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5440,
+      "endMs": 10400,
+      "en": "I'm Alex Ritson, and at 15:00 GMT on Monday the 7th of September,",
+      "zh": "我是亚历克斯·里特森。现在是9月7日星期一格林尼治时间15点。"
+    },
+    {
+      "id": 3,
+      "startMs": 10720,
+      "endMs": 12000,
+      "en": "These are our main stories.",
+      "zh": "以下是我们的主要新闻。"
+    },
+    {
+      "id": 4,
+      "startMs": 12480,
+      "endMs": 20400,
+      "en": "The German Chancellor Friedrich Merz expressed his shock after the far-right AfD's decisive victory in state elections in the east of the country.",
+      "zh": "德国总理弗里德里希·默茨表示，极右翼德国选择党在该国东部州选举中取得决定性胜利，令他感到震惊。"
+    },
+    {
+      "id": 5,
+      "startMs": 21040,
+      "endMs": 26480,
+      "en": "Thousands attend the funeral of the convicted Serbian war criminal General Ratko Mladić in Belgrade.",
+      "zh": "数千人参加了被定罪的塞尔维亚战争罪犯拉特科·姆拉迪奇将军在贝尔格莱德举行的葬礼。"
+    },
+    {
+      "id": 6,
+      "startMs": 27120,
+      "endMs": 32960,
+      "en": "After talks with President Trump's envoy, President Zelensky says it's important to keep diplomacy going.",
+      "zh": "与特朗普总统的特使会谈后，泽连斯基总统说，继续外交努力很重要。"
+    },
+    {
+      "id": 7,
+      "startMs": 34980,
+      "endMs": 38820,
+      "en": "Also in this podcast, thousands of lives hinged on this.",
+      "zh": "本期播客还将谈到：成千上万人的生命系于此事。"
+    },
+    {
+      "id": 8,
+      "startMs": 39520,
+      "endMs": 43680,
+      "en": "A film about the weather on D-Day in the Second World War.",
+      "zh": "一部讲述第二次世界大战诺曼底登陆日天气的电影。"
+    },
+    {
+      "id": 9,
+      "startMs": 47260,
+      "endMs": 52380,
+      "en": "The German Chancellor Friedrich Merz has said he is shocked by the victory of the far-right party.",
+      "zh": "德国总理弗里德里希·默茨说，极右翼政党的胜利令他震惊。"
+    },
+    {
+      "id": 10,
+      "startMs": 52380,
+      "endMs": 54540,
+      "en": "Alternative for Germany, the AfD.",
+      "zh": "这个政党名为德国选择党，简称AfD。"
+    },
+    {
+      "id": 11,
+      "startMs": 54860,
+      "endMs": 60060,
+      "en": "It won its biggest victory yet in elections in the eastern state of Saxony-Anhalt,",
+      "zh": "该党在东部萨克森-安哈尔特州的选举中取得迄今最大胜利，"
+    },
+    {
+      "id": 12,
+      "startMs": 60380,
+      "endMs": 67740,
+      "en": "taking 44% of the vote, while Mr Merz's conservative CDU party came way behind with around 18%.",
+      "zh": "获得44%的选票，而默茨所在的保守派基民盟仅约18%，远远落后。"
+    },
+    {
+      "id": 13,
+      "startMs": 67900,
+      "endMs": 74060,
+      "en": "The AfD, which has tapped into growing disillusionment with centrist parties, wants to, among other policies,",
+      "zh": "德国选择党利用了民众对中间派政党日益增长的失望情绪；除了其他政策，该党希望"
+    },
+    {
+      "id": 14,
+      "startMs": 74380,
+      "endMs": 81580,
+      "en": "ban LGBTQ rainbow flags in schools and have the children of refugees taught in segregated classes.",
+      "zh": "禁止学校悬挂LGBTQ彩虹旗，并让难民子女在隔离班级中接受教育。"
+    },
+    {
+      "id": 15,
+      "startMs": 81980,
+      "endMs": 85740,
+      "en": "Mr Merz said the country is facing a huge political shift.",
+      "zh": "默茨说，德国正面临巨大的政治转变。"
+    },
+    {
+      "id": 16,
+      "startMs": 85740,
+      "endMs": 87900,
+      "en": "His words were spoken by a translator.",
+      "zh": "他的话由一名翻译代为转述。"
+    },
+    {
+      "id": 17,
+      "startMs": 88060,
+      "endMs": 95260,
+      "en": "That's an election result which doesn't make it possible to continue with business as usual, and we don't.",
+      "zh": "这样的选举结果意味着不可能再照常办事，而我们也不会这样做。"
+    },
+    {
+      "id": 18,
+      "startMs": 96720,
+      "endMs": 100080,
+      "en": "It has an impact on us, even on myself personally,",
+      "zh": "这对我们有影响，甚至对我个人也有影响，"
+    },
+    {
+      "id": 19,
+      "startMs": 100160,
+      "endMs": 102240,
+      "en": "and I also have to accept that",
+      "zh": "我也必须接受这一点："
+    },
+    {
+      "id": 20,
+      "startMs": 102560,
+      "endMs": 105360,
+      "en": "this is the worst electoral defeat",
+      "zh": "这是最惨重的一次选举失败，"
+    },
+    {
+      "id": 21,
+      "startMs": 105360,
+      "endMs": 110300,
+      "en": "that the CDU has suffered in years, if not decades.",
+      "zh": "是基民盟多年来、甚至数十年来遭遇的最惨重失败。"
+    },
+    {
+      "id": 22,
+      "startMs": 110620,
+      "endMs": 114140,
+      "en": "Obviously, there will have to be consequences.",
+      "zh": "显然，这必然会带来后果。"
+    },
+    {
+      "id": 23,
+      "startMs": 114860,
+      "endMs": 120940,
+      "en": "The AfD's candidate in Saxony-Anhalt, Ulrich Siegmund, said that his party's victory",
+      "zh": "德国选择党在萨克森-安哈尔特州的候选人乌尔里希·西格蒙德说，该党的胜利"
+    },
+    {
+      "id": 24,
+      "startMs": 120940,
+      "endMs": 122860,
+      "en": "was a wake-up call for Germany.",
+      "zh": "是给德国敲响的警钟。"
+    },
+    {
+      "id": 25,
+      "startMs": 123020,
+      "endMs": 126700,
+      "en": "We have achieved exactly what we wanted.",
+      "zh": "我们已经实现了想要的一切。"
+    },
+    {
+      "id": 26,
+      "startMs": 127180,
+      "endMs": 128220,
+      "en": "We have written history.",
+      "zh": "我们创造了历史。"
+    },
+    {
+      "id": 27,
+      "startMs": 128780,
+      "endMs": 131340,
+      "en": "People gave a clear political signal in this state.",
+      "zh": "民众在这个州发出了明确的政治信号。"
+    },
+    {
+      "id": 28,
+      "startMs": 131820,
+      "endMs": 134380,
+      "en": "We need a fundamentally different political approach,",
+      "zh": "我们需要一种根本不同的政治方式，"
+    },
+    {
+      "id": 29,
+      "startMs": 134700,
+      "endMs": 137020,
+      "en": "putting our own interests, our own country first.",
+      "zh": "把自身利益、把我们自己的国家放在首位。"
+    },
+    {
+      "id": 30,
+      "startMs": 137020,
+      "endMs": 141260,
+      "en": "But the AfD is short of an absolute majority,",
+      "zh": "但德国选择党没有获得绝对多数，"
+    },
+    {
+      "id": 31,
+      "startMs": 141340,
+      "endMs": 143100,
+      "en": "and other parties have ruled out",
+      "zh": "其他政党也排除了"
+    },
+    {
+      "id": 32,
+      "startMs": 143180,
+      "endMs": 144140,
+      "en": "governing with it.",
+      "zh": "与其共同执政的可能。"
+    },
+    {
+      "id": 33,
+      "startMs": 144540,
+      "endMs": 150220,
+      "en": "I asked our Berlin correspondent Jessica Parker, who's in Saxony-Anhalt's capital Magdeburg,",
+      "zh": "我询问了身在萨克森-安哈尔特州首府马格德堡的柏林记者杰西卡·帕克，"
+    },
+    {
+      "id": 34,
+      "startMs": 150540,
+      "endMs": 151660,
+      "en": "what happens next?",
+      "zh": "接下来会发生什么？"
+    },
+    {
+      "id": 35,
+      "startMs": 151900,
+      "endMs": 155900,
+      "en": "So, Alternative for Deutschland is claiming it's in talks",
+      "zh": "所以，德国选择党声称正在进行磋商，"
+    },
+    {
+      "id": 36,
+      "startMs": 156300,
+      "endMs": 162300,
+      "en": "with some CDU members in terms of whether it can go on to form a state government.",
+      "zh": "与一些基民盟成员讨论能否组建州政府。"
+    },
+    {
+      "id": 37,
+      "startMs": 162300,
+      "endMs": 167100,
+      "en": "CDU as a party, Chancellor Friedrich Merz's party, has categorically denied",
+      "zh": "基民盟作为一个政党、也就是总理弗里德里希·默茨所在的政党，断然否认"
+    },
+    {
+      "id": 38,
+      "startMs": 167100,
+      "endMs": 169280,
+      "en": "that they will work with the AfD,",
+      "zh": "会与德国选择党合作，"
+    },
+    {
+      "id": 39,
+      "startMs": 169280,
+      "endMs": 171120,
+      "en": "but I think it's fair to say that some in the party",
+      "zh": "但可以合理地说，党内有些人"
+    },
+    {
+      "id": 40,
+      "startMs": 171520,
+      "endMs": 174400,
+      "en": "are very unhappy at the idea of an alternative option,",
+      "zh": "对另一种选择感到非常不满，"
+    },
+    {
+      "id": 41,
+      "startMs": 174480,
+      "endMs": 177920,
+      "en": "which is maybe trying to pile in with the far-left Die Linke Party,",
+      "zh": "那就是可能与极左翼的左翼党联合，"
+    },
+    {
+      "id": 42,
+      "startMs": 177920,
+      "endMs": 179760,
+      "en": "which they also say they wouldn't work with.",
+      "zh": "而他们也说不会与左翼党合作。"
+    },
+    {
+      "id": 43,
+      "startMs": 179760,
+      "endMs": 182400,
+      "en": "So, I think a lot is up in the air at the moment.",
+      "zh": "所以，我认为目前很多事情都悬而未决。"
+    },
+    {
+      "id": 44,
+      "startMs": 182400,
+      "endMs": 185920,
+      "en": "Another possibility that's been mooted is the idea",
+      "zh": "提出的另一种可能是，"
+    },
+    {
+      "id": 45,
+      "startMs": 186320,
+      "endMs": 190400,
+      "en": "that another small party, the BSW or BSW,",
+      "zh": "另一个小党BSW，也就是BSW，"
+    },
+    {
+      "id": 46,
+      "startMs": 191040,
+      "endMs": 197520,
+      "en": "could they give tacit support to Alternative for Deutschland to allow them to form a minority government?",
+      "zh": "他们能否暗中支持德国选择党，让其组建少数派政府？"
+    },
+    {
+      "id": 47,
+      "startMs": 197520,
+      "endMs": 201840,
+      "en": "Ulrich Siegmund, the lead candidate, has always spoken about wanting to govern with a stable majority.",
+      "zh": "首席候选人乌尔里希·西格蒙德一直表示，希望以稳定多数执政。"
+    },
+    {
+      "id": 48,
+      "startMs": 202000,
+      "endMs": 204160,
+      "en": "He doesn't have that at the moment.",
+      "zh": "但他目前并不具备这样的多数。"
+    },
+    {
+      "id": 49,
+      "startMs": 204160,
+      "endMs": 209440,
+      "en": "So it looks like we are in the world of maybe deal-making, but options are rather limited",
+      "zh": "所以看来，我们正处在一个可能需要讨价还价的阶段，但选择相当有限，"
+    },
+    {
+      "id": 50,
+      "startMs": 209440,
+      "endMs": 217040,
+      "en": "because most parties will not work with Alternative for Deutschland as part of what is known as the firewall, the Brandmauer,",
+      "zh": "因为大多数政党不会与德国选择党合作，这属于所谓的“防火墙”——Brandmauer，"
+    },
+    {
+      "id": 51,
+      "startMs": 217840,
+      "endMs": 220240,
+      "en": "even though that Brandmauer is coming under ever-growing pressure.",
+      "zh": "尽管这道“防火墙”正承受越来越大的压力。"
+    },
+    {
+      "id": 52,
+      "startMs": 220480,
+      "endMs": 225760,
+      "en": "Chancellor Merz is expected to hold talks with the top ranks of the CDU.",
+      "zh": "预计默茨总理将与基民盟高层举行会谈。"
+    },
+    {
+      "id": 53,
+      "startMs": 226880,
+      "endMs": 232420,
+      "en": "How worried do you think he now is about the AfD in the run-up to national elections?",
+      "zh": "你认为在全国大选临近之际，他现在有多担心德国选择党？"
+    },
+    {
+      "id": 54,
+      "startMs": 232420,
+      "endMs": 236420,
+      "en": "Well, national elections are, as things stand, some years away,",
+      "zh": "嗯，按目前情况看，全国大选还要过几年才会举行，"
+    },
+    {
+      "id": 55,
+      "startMs": 236740,
+      "endMs": 239860,
+      "en": "but I'd flip that a little bit around. I'd say how worried",
+      "zh": "但我想稍微换个角度。我想问的是，有多担心"
+    },
+    {
+      "id": 56,
+      "startMs": 240340,
+      "endMs": 245140,
+      "en": "are people in the CDU about Friedrich Merz and his leadership?",
+      "zh": "基民盟内部的人对弗里德里希·默茨及其领导有多担心？"
+    },
+    {
+      "id": 57,
+      "startMs": 245220,
+      "endMs": 249620,
+      "en": "He is suffering from very poor poll ratings. He's not popular",
+      "zh": "他的民调支持率非常低，在德国并不受欢迎，"
+    },
+    {
+      "id": 58,
+      "startMs": 249780,
+      "endMs": 253460,
+      "en": "in Germany, and one of his stated missions",
+      "zh": "在德国，而他所宣称的目标之一"
+    },
+    {
+      "id": 59,
+      "startMs": 253460,
+      "endMs": 258660,
+      "en": "was to try and bring the political centre together in this coalition",
+      "zh": "是努力团结政治中间派，在这个执政联盟中，"
+    },
+    {
+      "id": 60,
+      "startMs": 258660,
+      "endMs": 267540,
+      "en": "he has in Berlin with the SPD and deliver, you know, the reforms Germany needs to kick-start its economy.",
+      "zh": "他在柏林与社民党组成联盟，并推动德国经济重新启动所需的改革。"
+    },
+    {
+      "id": 61,
+      "startMs": 267540,
+      "endMs": 270420,
+      "en": "He's tried to take a harder line on immigration,",
+      "zh": "他试图在移民问题上采取更强硬的立场，"
+    },
+    {
+      "id": 62,
+      "startMs": 270660,
+      "endMs": 274580,
+      "en": "and the idea was that that would see off Alternative for Deutschland",
+      "zh": "原本的设想是这样可以遏制德国选择党，"
+    },
+    {
+      "id": 63,
+      "startMs": 274580,
+      "endMs": 277460,
+      "en": "and cut into their support. But those reforms have dragged out.",
+      "zh": "削弱其支持率。但这些改革拖延了很久。"
+    },
+    {
+      "id": 64,
+      "startMs": 277860,
+      "endMs": 280820,
+      "en": "There are worries that they aren't very popular with people.",
+      "zh": "人们担心这些改革并不受欢迎。"
+    },
+    {
+      "id": 65,
+      "startMs": 280820,
+      "endMs": 284340,
+      "en": "So, I think, yes, he is going to be worried.",
+      "zh": "所以，我认为，他确实会感到担忧。"
+    },
+    {
+      "id": 66,
+      "startMs": 284420,
+      "endMs": 288660,
+      "en": "This is a destabilising moment for his already embattled government.",
+      "zh": "这对他本已陷入困境的政府来说，是一个造成不稳定的时刻。"
+    },
+    {
+      "id": 67,
+      "startMs": 288820,
+      "endMs": 291220,
+      "en": "And there are, over the course of this year,",
+      "zh": "而在今年接下来的时间里，"
+    },
+    {
+      "id": 68,
+      "startMs": 291220,
+      "endMs": 293540,
+      "en": "and it's always a little bit difficult to judge how seriously",
+      "zh": "虽然总有些难以判断应该多认真看待"
+    },
+    {
+      "id": 69,
+      "startMs": 293540,
+      "endMs": 297220,
+      "en": "to take them, but whispers over whether he can really see out his term in office.",
+      "zh": "这些传闻，但有人私下议论他是否真能做完自己的任期。"
+    },
+    {
+      "id": 70,
+      "startMs": 297220,
+      "endMs": 302820,
+      "en": "And the rest of Europe and the EU in particular watching this very closely. Yeah, for sure.",
+      "zh": "欧洲其他国家，尤其是欧盟，正在密切关注此事。是的，确实如此。"
+    },
+    {
+      "id": 71,
+      "startMs": 302820,
+      "endMs": 311140,
+      "en": "I mean, look, people might wonder, okay, how on earth can one state-level election in a region with around 2 million people",
+      "zh": "我的意思是，人们可能会想：一个只有约200万人地区的州级选举，怎么会"
+    },
+    {
+      "id": 72,
+      "startMs": 311460,
+      "endMs": 314180,
+      "en": "kind of send repercussions across Europe?",
+      "zh": "在整个欧洲引发连锁反应？"
+    },
+    {
+      "id": 73,
+      "startMs": 314680,
+      "endMs": 320440,
+      "en": "You've been pointing out, I think it's a marker that Alternative for Deutschland, which of course was founded back in the day",
+      "zh": "正如你所指出的，这表明德国选择党当年成立时，"
+    },
+    {
+      "id": 74,
+      "startMs": 320440,
+      "endMs": 323560,
+      "en": "as an anti-Euro, Eurosceptic party,",
+      "zh": "是一个反欧元、持欧洲怀疑主义立场的政党，"
+    },
+    {
+      "id": 75,
+      "startMs": 323960,
+      "endMs": 327400,
+      "en": "that is growing in popularity not just in Eastern Germany,",
+      "zh": "如今它不仅在德国东部越来越受欢迎，"
+    },
+    {
+      "id": 76,
+      "startMs": 327400,
+      "endMs": 329960,
+      "en": "but it's also leading the polls nationwide.",
+      "zh": "还在全国民调中领先。"
+    },
+    {
+      "id": 77,
+      "startMs": 330040,
+      "endMs": 332520,
+      "en": "So I think the EU will be watching this very carefully.",
+      "zh": "所以我认为，欧盟会密切关注事态发展。"
+    },
+    {
+      "id": 78,
+      "startMs": 332760,
+      "endMs": 339160,
+      "en": "There are some, of course, who are more aligned to the AfD's politics who are seeing this as a great moment for Germany and for Europe.",
+      "zh": "当然，有些更认同德国选择党政治立场的人，把这看作德国和欧洲的一个大好时刻。"
+    },
+    {
+      "id": 79,
+      "startMs": 339240,
+      "endMs": 346360,
+      "en": "But of course, we've got to make the point: what happens in Germany really matters because it is the EU's largest economy, the powerhouse of the European Union,",
+      "zh": "但必须指出，德国发生的事情确实十分重要，因为德国是欧盟最大的经济体，是欧洲联盟的经济引擎，"
+    },
+    {
+      "id": 80,
+      "startMs": 346840,
+      "endMs": 351080,
+      "en": "And so that, of course, means that people are always watching the politics of what happens here.",
+      "zh": "所以人们当然一直在关注这里的政治动向。"
+    },
+    {
+      "id": 81,
+      "startMs": 351480,
+      "endMs": 356400,
+      "en": "Jessica Parker. The funeral of the former Bosnian Serb commander",
+      "zh": "杰西卡·帕克报道。前波斯尼亚塞族指挥官"
+    },
+    {
+      "id": 82,
+      "startMs": 356400,
+      "endMs": 358560,
+      "en": "Ratko Mladić has been taking place",
+      "zh": "拉特科·姆拉迪奇的葬礼正在举行，"
+    },
+    {
+      "id": 83,
+      "startMs": 358560,
+      "endMs": 360720,
+      "en": "in the Serbian capital, Belgrade.",
+      "zh": "地点在塞尔维亚首都贝尔格莱德。"
+    },
+    {
+      "id": 84,
+      "startMs": 369480,
+      "endMs": 374120,
+      "en": "Following his death at the end of last month, his body has been transported from The Hague,",
+      "zh": "他于上月底去世后，遗体从海牙运来，"
+    },
+    {
+      "id": 85,
+      "startMs": 374120,
+      "endMs": 376600,
+      "en": "where he'd been serving a life sentence for genocide,",
+      "zh": "此前他因种族灭绝罪被判处无期徒刑，"
+    },
+    {
+      "id": 86,
+      "startMs": 376920,
+      "endMs": 381560,
+      "en": "war crimes and crimes against humanity during the breakup of the former Yugoslavia.",
+      "zh": "罪名还包括战争罪和反人类罪，罪行发生在前南斯拉夫解体期间。"
+    },
+    {
+      "id": 87,
+      "startMs": 382120,
+      "endMs": 386040,
+      "en": "To most of the world, General Mladić was known as the Butcher of Bosnia.",
+      "zh": "对世界大多数人来说，姆拉迪奇将军被称为“波斯尼亚屠夫”。"
+    },
+    {
+      "id": 88,
+      "startMs": 386280,
+      "endMs": 395640,
+      "en": "He was convicted for the Srebrenica massacre in 1995, when Bosnian Serb forces killed around 8,000 Bosnian Muslim men and boys.",
+      "zh": "他因1995年的斯雷布雷尼察大屠杀被定罪；当时波斯尼亚塞族部队杀害了约8000名波斯尼亚穆斯林男子和男孩。"
+    },
+    {
+      "id": 89,
+      "startMs": 396200,
+      "endMs": 398600,
+      "en": "But in his home country, he remained a national hero.",
+      "zh": "但在他的祖国，他仍是民族英雄。"
+    },
+    {
+      "id": 90,
+      "startMs": 398920,
+      "endMs": 405400,
+      "en": "The BBC's special correspondent Allan Little covered the conflict in the Balkans extensively in the 1990s.",
+      "zh": "BBC特别记者艾伦·利特尔曾在20世纪90年代广泛报道巴尔干冲突。"
+    },
+    {
+      "id": 91,
+      "startMs": 405800,
+      "endMs": 412680,
+      "en": "Well, Serb popular opinion walked hand-in-hand with Ratko Mladić when he was committing the crimes for which he was later indicted.",
+      "zh": "塞族民众的舆论与拉特科·姆拉迪奇步调一致，而他当时正在犯下后来被起诉的罪行。"
+    },
+    {
+      "id": 92,
+      "startMs": 412840,
+      "endMs": 419480,
+      "en": "Remember, at the heart of the Bosnian war was a huge criminal enterprise to dispossess by force of military arms",
+      "zh": "请记住，波斯尼亚战争的核心是一场巨大的犯罪行动：动用武力和军火剥夺人们的财产，"
+    },
+    {
+      "id": 93,
+      "startMs": 419880,
+      "endMs": 423400,
+      "en": "hundreds of thousands of people, burn their towns down so they wouldn't come back.",
+      "zh": "让数十万人流离失所，烧毁他们的城镇，使他们无法返回。"
+    },
+    {
+      "id": 94,
+      "startMs": 423800,
+      "endMs": 432220,
+      "en": "And this was the campaign that came to be known as ethnic cleansing, that sort of grim euphemism that the Bosnian War bequeathed to the lexicon of warfare.",
+      "zh": "这场行动后来被称为“种族清洗”，那是一种阴森的委婉说法，由波斯尼亚战争留在战争词汇中。"
+    },
+    {
+      "id": 95,
+      "startMs": 432380,
+      "endMs": 436140,
+      "en": "But public opinion continued to revere Mladić at the height of this.",
+      "zh": "但在这些暴行最猖獗的时候，民众仍然崇敬姆拉迪奇。"
+    },
+    {
+      "id": 96,
+      "startMs": 436140,
+      "endMs": 439820,
+      "en": "And at the heart of that was a sort of crisis of disbelief, if you like.",
+      "zh": "这背后是一种难以置信的危机，如果你愿意这样说。"
+    },
+    {
+      "id": 97,
+      "startMs": 439900,
+      "endMs": 444060,
+      "en": "They simply didn't believe the stories that were told about Mladić and the war effort",
+      "zh": "他们根本不相信国际社会讲述的有关姆拉迪奇和战争行动的故事，"
+    },
+    {
+      "id": 98,
+      "startMs": 444540,
+      "endMs": 448700,
+      "en": "by the international community and by UN peacekeepers and so on.",
+      "zh": "这些故事来自国际社会、联合国维和人员等方面。"
+    },
+    {
+      "id": 99,
+      "startMs": 448700,
+      "endMs": 455820,
+      "en": "And they still deny it. And my experience is you go into parts of Serbian-occupied Bosnia, or Serbian-inhabited Bosnia,",
+      "zh": "他们至今仍否认这些事实。我的经验是，当你进入塞族占领或塞族居民聚居的波斯尼亚地区时，"
+    },
+    {
+      "id": 100,
+      "startMs": 456220,
+      "endMs": 461100,
+      "en": "and people will deny the Srebrenica massacre, people will deny the ethnic cleansing,",
+      "zh": "人们会否认斯雷布雷尼察大屠杀，也会否认种族清洗，"
+    },
+    {
+      "id": 101,
+      "startMs": 461100,
+      "endMs": 465740,
+      "en": "and say that Ratko Mladić was simply defending the very doorstep of the Serbian homeland.",
+      "zh": "并说拉特科·姆拉迪奇只是在保卫塞尔维亚祖国的门口。"
+    },
+    {
+      "id": 102,
+      "startMs": 465740,
+      "endMs": 470540,
+      "en": "I mean, one former interior minister of Serbia compared Ratko Mladić",
+      "zh": "我的意思是，塞尔维亚一名前内政部长把拉特科·姆拉迪奇比作"
+    },
+    {
+      "id": 103,
+      "startMs": 470620,
+      "endMs": 475180,
+      "en": "to Gavrilo Princip, the man who assassinated the Archduke Franz Ferdinand in Sarajevo in 1914,",
+      "zh": "加夫里洛·普林西普；他于1914年在萨拉热窝刺杀了弗朗茨·斐迪南大公。"
+    },
+    {
+      "id": 104,
+      "startMs": 475980,
+      "endMs": 479980,
+      "en": "and his body was later brought back from its prison in Vienna",
+      "zh": "普林西普的遗体后来从维也纳的监狱运回，"
+    },
+    {
+      "id": 105,
+      "startMs": 480220,
+      "endMs": 483980,
+      "en": "and buried in a Serbian Orthodox shrine in a hill overlooking Sarajevo.",
+      "zh": "葬在俯瞰萨拉热窝的一座山上的塞尔维亚东正教圣地。"
+    },
+    {
+      "id": 106,
+      "startMs": 484220,
+      "endMs": 489020,
+      "en": "So Ratko Mladić now takes his place, if you like, in a very strongly entrenched tradition of turning.",
+      "zh": "所以，如果你愿意这样说，拉特科·姆拉迪奇如今也融入了一种根深蒂固的传统：把"
+    },
+    {
+      "id": 107,
+      "startMs": 489040,
+      "endMs": 494960,
+      "en": "Men of violence into cherished and revered martyrs in the cause of the Serbian nation,",
+      "zh": "暴力之徒变成塞尔维亚民族事业中受珍爱、受崇敬的烈士，"
+    },
+    {
+      "id": 108,
+      "startMs": 494960,
+      "endMs": 499680,
+      "en": "and I think that's something that's very strongly fixed in the Serbian shared imagination.",
+      "zh": "我认为，这深深植根于塞尔维亚人的共同想象之中。"
+    },
+    {
+      "id": 109,
+      "startMs": 499680,
+      "endMs": 503200,
+      "en": "Now Serbia has applied to become a member of the EU.",
+      "zh": "如今，塞尔维亚已申请加入欧盟。"
+    },
+    {
+      "id": 110,
+      "startMs": 503200,
+      "endMs": 508400,
+      "en": "It handed Ratko Mladić over under pressure from the EU, and the EU is now very worried",
+      "zh": "塞尔维亚是在欧盟压力下交出拉特科·姆拉迪奇的，而欧盟如今非常担忧"
+    },
+    {
+      "id": 111,
+      "startMs": 508880,
+      "endMs": 513360,
+      "en": "about Serbia's commitment to a transition to the rule of law, its commitment to the independence of the judiciary,",
+      "zh": "塞尔维亚是否致力于向法治过渡、是否致力于维护司法独立，"
+    },
+    {
+      "id": 112,
+      "startMs": 513360,
+      "endMs": 516320,
+      "en": "its commitment to many of the other core values of the EU.",
+      "zh": "以及是否致力于欧盟的许多其他核心价值。"
+    },
+    {
+      "id": 113,
+      "startMs": 516640,
+      "endMs": 521360,
+      "en": "One delegation to Brussels has been cancelled already, and now there is a big doubt about whether",
+      "zh": "一个前往布鲁塞尔的代表团已经被取消，现在人们非常怀疑"
+    },
+    {
+      "id": 114,
+      "startMs": 521760,
+      "endMs": 528720,
+      "en": "the next tranche of funding for the transition to democracy and the independence of the judiciary and so on, 1.5 billion euros.",
+      "zh": "下一笔用于民主转型、司法独立等工作的资金——15亿欧元——是否会拨付。"
+    },
+    {
+      "id": 115,
+      "startMs": 529040,
+      "endMs": 532080,
+      "en": "There is now doubt about whether that will now be delivered to Serbia.",
+      "zh": "现在人们怀疑这笔钱是否还会拨给塞尔维亚。"
+    },
+    {
+      "id": 116,
+      "startMs": 532080,
+      "endMs": 533840,
+      "en": "So this is not a good look.",
+      "zh": "所以，这可不是什么好现象。"
+    },
+    {
+      "id": 117,
+      "startMs": 534080,
+      "endMs": 542320,
+      "en": "Giving full state and military honours to a man convicted of genocide is very, very problematic for Serbia's accession process.",
+      "zh": "向一名被判种族灭绝罪的人授予完整的国家和军事荣誉，对塞尔维亚加入欧盟的进程非常、非常不利。"
+    },
+    {
+      "id": 118,
+      "startMs": 542640,
+      "endMs": 544240,
+      "en": "The BBC's Allan Little.",
+      "zh": "BBC的艾伦·利特尔报道。"
+    },
+    {
+      "id": 119,
+      "startMs": 545280,
+      "endMs": 550960,
+      "en": "With no sign of an end to the war with Russia, and after three rounds of talks with White House envoys,",
+      "zh": "与俄罗斯的战争仍没有结束的迹象，在与白宫特使进行了三轮会谈后，"
+    },
+    {
+      "id": 120,
+      "startMs": 550960,
+      "endMs": 557440,
+      "en": "President Zelensky has said the most important thing is to continue working together to keep diplomacy going.",
+      "zh": "泽连斯基总统表示，最重要的是继续合作，让外交努力持续下去。"
+    },
+    {
+      "id": 121,
+      "startMs": 557840,
+      "endMs": 562240,
+      "en": "At the same time, Kyiv is suffering more daily air raid alerts than at any time",
+      "zh": "与此同时，基辅每天遭遇的空袭警报，比以往任何时候都多"
+    },
+    {
+      "id": 122,
+      "startMs": 562240,
+      "endMs": 569600,
+      "en": "since Russia's full-scale invasion in 2022. That's according to BBC Verify analysis of government figures.",
+      "zh": "自俄罗斯2022年全面入侵以来。这是BBC核查对政府数据分析得出的结论。"
+    },
+    {
+      "id": 123,
+      "startMs": 570000,
+      "endMs": 575840,
+      "en": "There was a brief pause in attacks over the weekend while the US envoys were in the Ukrainian capital.",
+      "zh": "美国特使在乌克兰首都期间，周末袭击曾短暂停止。"
+    },
+    {
+      "id": 124,
+      "startMs": 576240,
+      "endMs": 584720,
+      "en": "But in recent weeks, Moscow's round-the-clock attacks with new, faster drones have forced people to head for shelter up to 13 times a day.",
+      "zh": "但最近几周，莫斯科使用更快的新型无人机发动昼夜不停的袭击，迫使人们每天最多13次前往避难所。"
+    },
+    {
+      "id": 125,
+      "startMs": 585120,
+      "endMs": 588880,
+      "en": "Our diplomatic correspondent James Landale reports from Kyiv.",
+      "zh": "本台外交事务记者詹姆斯·兰代尔从基辅报道。"
+    },
+    {
+      "id": 126,
+      "startMs": 590220,
+      "endMs": 596220,
+      "en": "We've come to the scene of another strike right in the heart of Kyiv, and it's a familiar scene:",
+      "zh": "我们来到基辅市中心又一处遭袭现场，眼前是熟悉的一幕："
+    },
+    {
+      "id": 127,
+      "startMs": 596220,
+      "endMs": 601100,
+      "en": "A building is smoking, as the fire was caused by what we think was a drone.",
+      "zh": "一栋建筑冒着烟，火灾据信是由无人机引起的。"
+    },
+    {
+      "id": 128,
+      "startMs": 602480,
+      "endMs": 603920,
+      "en": "Lots of security nearby.",
+      "zh": "附近有大量安保人员。"
+    },
+    {
+      "id": 129,
+      "startMs": 604640,
+      "endMs": 612660,
+      "en": "Fire engines are trying to put the fire out. Crowds are forming, but here's the difference: it's broad daylight. This strike wasn't at night.",
+      "zh": "消防车正设法扑灭大火。人群聚集起来，但不同之处在于：现在是光天化日之下。这次袭击并非发生在深夜。"
+    },
+    {
+      "id": 130,
+      "startMs": 612660,
+      "endMs": 614820,
+      "en": "It happened shortly before 11 in the morning.",
+      "zh": "它发生在上午11点前不久。"
+    },
+    {
+      "id": 131,
+      "startMs": 615300,
+      "endMs": 620500,
+      "en": "This is now part of a pattern that's forming of more and more attacks during the day.",
+      "zh": "如今，白天发生的袭击越来越多，已形成一种趋势。"
+    },
+    {
+      "id": 132,
+      "startMs": 620580,
+      "endMs": 624820,
+      "en": "We can't stay more than three hours without air alerts.",
+      "zh": "我们无法连续超过三小时不遇到空袭警报。"
+    },
+    {
+      "id": 133,
+      "startMs": 624820,
+      "endMs": 629540,
+      "en": "Yohan, a humanitarian volunteer, was metres away when the drone struck.",
+      "zh": "人道主义志愿者尤汉在无人机袭来时，距离现场仅几米。"
+    },
+    {
+      "id": 134,
+      "startMs": 630020,
+      "endMs": 632340,
+      "en": "It's not just about night, it's about day now.",
+      "zh": "这不只是夜间的问题，现在白天也一样。"
+    },
+    {
+      "id": 135,
+      "startMs": 632660,
+      "endMs": 641780,
+      "en": "Analysis of official figures by the BBC shows Kyiv has suffered more daily air raid alerts than at any time since the full-scale invasion in 2022,",
+      "zh": "BBC对官方数据的分析显示，自2022年全面入侵以来，基辅每天遭遇的空袭警报比任何时候都多，"
+    },
+    {
+      "id": 136,
+      "startMs": 641780,
+      "endMs": 645300,
+      "en": "as many as 13 on a single day.",
+      "zh": "单日最多达13次。"
+    },
+    {
+      "id": 137,
+      "startMs": 645780,
+      "endMs": 652340,
+      "en": "And those attacks often now involve new jet-powered drones that are faster and harder to intercept.",
+      "zh": "而如今这些袭击往往使用新型喷气动力无人机，速度更快，也更难拦截。"
+    },
+    {
+      "id": 138,
+      "startMs": 652420,
+      "endMs": 658180,
+      "en": "Yuriy Ihnat is a spokesman for Ukraine's Air Force.",
+      "zh": "尤里·伊格纳特是乌克兰空军发言人。"
+    },
+    {
+      "id": 139,
+      "startMs": 658500,
+      "endMs": 663540,
+      "en": "He told me they're shooting down only 60% of the new drones, and they know that's not enough.",
+      "zh": "他告诉我，他们只能击落60%的新型无人机，也知道这还不够。"
+    },
+    {
+      "id": 140,
+      "startMs": 666920,
+      "endMs": 673960,
+      "en": "Key task now is to create an alternative interceptor, cheap weapons that can provide us with protection.",
+      "zh": "当前的关键任务是研发替代性的拦截器，即能为我们提供保护的廉价武器。"
+    },
+    {
+      "id": 141,
+      "startMs": 674280,
+      "endMs": 679880,
+      "en": "We're outside a well-known fast food establishment on Ukraine's Maidan Square.",
+      "zh": "我们在乌克兰独立广场一家知名快餐店外。"
+    },
+    {
+      "id": 142,
+      "startMs": 679880,
+      "endMs": 683320,
+      "en": "The siren's gone again. People are coming out.",
+      "zh": "警报声又响了。人们正走出来。"
+    },
+    {
+      "id": 143,
+      "startMs": 683800,
+      "endMs": 687000,
+      "en": "Some are heading underground for safety and shelter.",
+      "zh": "一些人正前往地下空间寻求安全和庇护。"
+    },
+    {
+      "id": 144,
+      "startMs": 687480,
+      "endMs": 689160,
+      "en": "The staff are locking the door.",
+      "zh": "店员正在锁门。"
+    },
+    {
+      "id": 145,
+      "startMs": 689880,
+      "endMs": 694520,
+      "en": "They have to close up every time there's an alert, a siren.",
+      "zh": "每次警报声响起，他们都不得不关门。"
+    },
+    {
+      "id": 146,
+      "startMs": 694920,
+      "endMs": 700040,
+      "en": "Some are clutching sleeping bags, some are clutching mats, their own drinks.",
+      "zh": "有人抱着睡袋，有人抱着垫子和自己的饮料。"
+    },
+    {
+      "id": 147,
+      "startMs": 700520,
+      "endMs": 703160,
+      "en": "Just in case the raid goes on for a long time,",
+      "zh": "以防袭击持续很长时间，"
+    },
+    {
+      "id": 148,
+      "startMs": 703400,
+      "endMs": 707080,
+      "en": "a small snapshot showing just how disruptive these raids are,",
+      "zh": "这小小一幕展现了这些袭击造成的巨大干扰，"
+    },
+    {
+      "id": 149,
+      "startMs": 707640,
+      "endMs": 711240,
+      "en": "and it's happening, again, and again, and again.",
+      "zh": "而且这种情况一次又一次地发生。"
+    },
+    {
+      "id": 150,
+      "startMs": 711240,
+      "endMs": 715960,
+      "en": "Many find shelter down in the metro, but there are problems there, too.",
+      "zh": "许多人在地铁里寻找避难处，但那里也有问题。"
+    },
+    {
+      "id": 151,
+      "startMs": 716120,
+      "endMs": 719080,
+      "en": "The alerts cause travel chaos across the city.",
+      "zh": "警报让全城交通陷入混乱。"
+    },
+    {
+      "id": 152,
+      "startMs": 722120,
+      "endMs": 724040,
+      "en": "Kyiv is a city divided by a river.",
+      "zh": "基辅是一座被河流分隔的城市。"
+    },
+    {
+      "id": 153,
+      "startMs": 725000,
+      "endMs": 731240,
+      "en": "We've come to the eastern side of the suburbs to see just the scale of the chaos that's caused.",
+      "zh": "我们来到郊区东侧，看看空袭造成的混乱有多严重。"
+    },
+    {
+      "id": 154,
+      "startMs": 732260,
+      "endMs": 738340,
+      "en": "by the air raids. We're surrounded by crowds of people desperately trying to get onto buses,",
+      "zh": "这是空袭造成的。我们被拼命想挤上公交车的人群包围，"
+    },
+    {
+      "id": 155,
+      "startMs": 738340,
+      "endMs": 745380,
+      "en": "and that's because every time there's an air raid, the metro trains that take all the commuters into the centre of the city",
+      "zh": "这是因为每次空袭时，把通勤者带入市中心的地铁列车"
+    },
+    {
+      "id": 156,
+      "startMs": 746020,
+      "endMs": 752160,
+      "en": "have to stop because they cross overland on the bridges. They present very, very obvious targets.",
+      "zh": "都必须停下，因为列车要在桥上地面行驶，显然会成为非常明显的目标。"
+    },
+    {
+      "id": 157,
+      "startMs": 753600,
+      "endMs": 759680,
+      "en": "And that means every time there's a raid, trains stop and the buses get absolutely packed.",
+      "zh": "这意味着每次遭遇袭击，列车都会停驶，公交车则挤得水泄不通。"
+    },
+    {
+      "id": 158,
+      "startMs": 764620,
+      "endMs": 767820,
+      "en": "For schools and universities, the constant alerts are a nightmare.",
+      "zh": "对学校和大学来说，不断响起的警报是一场噩梦。"
+    },
+    {
+      "id": 159,
+      "startMs": 768780,
+      "endMs": 773500,
+      "en": "Most of the day I need to go to safety places.",
+      "zh": "一天的大部分时间，我都需要去安全场所。"
+    },
+    {
+      "id": 160,
+      "startMs": 773980,
+      "endMs": 781180,
+      "en": "Diana is studying to be a teacher. \"Because Russian attacks every day and sometimes all day.\"",
+      "zh": "戴安娜正在学习成为教师。她说：“因为俄罗斯每天都袭击，有时持续一整天。”"
+    },
+    {
+      "id": 161,
+      "startMs": 781580,
+      "endMs": 786460,
+      "en": "Just as we were talking to people, yet another siren rang out across the sky,",
+      "zh": "就在我们采访人们时，又一阵警报声划过天空，"
+    },
+    {
+      "id": 162,
+      "startMs": 786860,
+      "endMs": 792300,
+      "en": "and all the students now piling out because this is what they have to do every time there's an alert; they stop their studying.",
+      "zh": "所有学生都涌了出来，因为每次警报响起，他们都必须停止学习。"
+    },
+    {
+      "id": 163,
+      "startMs": 793320,
+      "endMs": 794760,
+      "en": "Ihor is a chemistry student.",
+      "zh": "伊戈尔是一名化学专业学生。"
+    },
+    {
+      "id": 164,
+      "startMs": 795320,
+      "endMs": 799400,
+      "en": "I am not scared after four years of invasion.",
+      "zh": "经历四年的入侵，我已经不害怕了。"
+    },
+    {
+      "id": 165,
+      "startMs": 799480,
+      "endMs": 802600,
+      "en": "I'm used to the alarms, but it destroys the quality of our education.",
+      "zh": "我已经习惯了警报，但这破坏了我们的教育质量。"
+    },
+    {
+      "id": 166,
+      "startMs": 802920,
+      "endMs": 804200,
+      "en": "We cannot study normally.",
+      "zh": "我们无法正常学习。"
+    },
+    {
+      "id": 167,
+      "startMs": 805600,
+      "endMs": 809840,
+      "en": "The government is planning a new two-tier alert system to try to limit disruption.",
+      "zh": "政府正计划建立新的两级警报系统，尽量减少干扰。"
+    },
+    {
+      "id": 168,
+      "startMs": 810560,
+      "endMs": 815040,
+      "en": "What it really needs is a better way of defending the capital, and it hasn't found it yet.",
+      "zh": "真正需要的是更好的首都防御方式，但政府尚未找到。"
+    },
+    {
+      "id": 169,
+      "startMs": 816900,
+      "endMs": 819540,
+      "en": "James Landale in the Ukrainian capital.",
+      "zh": "詹姆斯·兰代尔在乌克兰首都报道。"
+    },
+    {
+      "id": 170,
+      "startMs": 820740,
+      "endMs": 830500,
+      "en": "A young British composer, just 13 years old, is using music, one of our oldest art forms, to grapple with the implications of one of our newest challenges.",
+      "zh": "一名年仅13岁的英国作曲家，正借助音乐这种最古老的艺术形式之一，思考我们最新挑战的影响。"
+    },
+    {
+      "id": 171,
+      "startMs": 830820,
+      "endMs": 840740,
+      "en": "Carey Tan has written a symphony on AI, Symphony Number Three, The Rise and Fall of AI Humanity, entirely without the use of AI.",
+      "zh": "凯瑞·谭创作了一部关于人工智能的交响曲《第三交响曲：人工智能人类的兴衰》，完全没有使用人工智能。"
+    },
+    {
+      "id": 172,
+      "startMs": 840740,
+      "endMs": 845780,
+      "en": "by the way, which will be performed on Monday night in London by the Philharmonia Orchestra.",
+      "zh": "顺便说一句，这部交响曲将于周一晚在伦敦由爱乐乐团演出。"
+    },
+    {
+      "id": 173,
+      "startMs": 846340,
+      "endMs": 853940,
+      "en": "Unfortunately, music industry rules allow us to use the music on the radio, but don't allow us to use the music in this podcast.",
+      "zh": "遗憾的是，音乐行业规定允许我们在广播中使用这段音乐，却不允许在本播客中使用。"
+    },
+    {
+      "id": 174,
+      "startMs": 853940,
+      "endMs": 857940,
+      "en": "But we did speak to Carey, who told us about the meaning of his symphony.",
+      "zh": "但我们采访了凯瑞，他向我们讲述了这部交响曲的含义。"
+    },
+    {
+      "id": 175,
+      "startMs": 858340,
+      "endMs": 863940,
+      "en": "That particular bit of music, after the AI society is built, humanity",
+      "zh": "这段音乐描绘的是：人工智能社会建立后，人类"
+    },
+    {
+      "id": 176,
+      "startMs": 863940,
+      "endMs": 867860,
+      "en": "starts to reflect on the past, the true beauty of nature",
+      "zh": "开始回望过去，思考大自然真正的美"
+    },
+    {
+      "id": 177,
+      "startMs": 867860,
+      "endMs": 871300,
+      "en": "and the universe. And that section is kind of a conclusion",
+      "zh": "以及宇宙。而这一段算是整部作品的结尾"
+    },
+    {
+      "id": 178,
+      "startMs": 871300,
+      "endMs": 875460,
+      "en": "of the whole movement. It's the grand climax, just the final",
+      "zh": "它是整个乐章的高潮，也就是最后的"
+    },
+    {
+      "id": 179,
+      "startMs": 876440,
+      "endMs": 883160,
+      "en": "The final expression that everybody makes. AI can never replace true beauty",
+      "zh": "最终表达。人工智能永远无法取代真正的美"
+    },
+    {
+      "id": 180,
+      "startMs": 883480,
+      "endMs": 888600,
+      "en": "the beauty that God gave us, the beauty within our Earth and within our souls.",
+      "zh": "上帝赐予我们的美，大地与灵魂之中的美。"
+    },
+    {
+      "id": 181,
+      "startMs": 888760,
+      "endMs": 891400,
+      "en": "After this section, it's kind of the turning point.",
+      "zh": "这一段之后，故事迎来了转折点。"
+    },
+    {
+      "id": 182,
+      "startMs": 891720,
+      "endMs": 899800,
+      "en": "People start to realise the destruction that AI has caused and tries to revert us back to like a more real society.",
+      "zh": "人们开始意识到人工智能造成的破坏，并试图回到更真实的社会。"
+    },
+    {
+      "id": 183,
+      "startMs": 900360,
+      "endMs": 903560,
+      "en": "I don't think of AI as something bad. It's just that",
+      "zh": "我不认为人工智能是坏事。只是说，"
+    },
+    {
+      "id": 184,
+      "startMs": 903560,
+      "endMs": 911960,
+      "en": "if we just become too reliant on it, like if we prefer convenience, speed and technology too much,",
+      "zh": "如果我们过度依赖它，比如过于偏爱便利、速度和技术，"
+    },
+    {
+      "id": 185,
+      "startMs": 911960,
+      "endMs": 916920,
+      "en": "like, for example, we might have less creation, we might have less individuality,",
+      "zh": "比如，我们可能会减少创造，也可能失去个性，"
+    },
+    {
+      "id": 186,
+      "startMs": 916920,
+      "endMs": 920600,
+      "en": "and eventually we would forget the beauty of nature.",
+      "zh": "最终还会忘记大自然的美。"
+    },
+    {
+      "id": 187,
+      "startMs": 921000,
+      "endMs": 925880,
+      "en": "So, AI's not a bad thing. It's, it's, it's more how we manage it.",
+      "zh": "所以，人工智能并不是坏事。关键在于我们如何管理它。"
+    },
+    {
+      "id": 188,
+      "startMs": 926440,
+      "endMs": 934040,
+      "en": "That was Carey Tan, whose work is being performed by the Philharmonia Orchestra at the Cadogan Hall in London.",
+      "zh": "以上是凯瑞·谭。他的作品将在伦敦卡多根音乐厅由爱乐乐团演出。"
+    },
+    {
+      "id": 189,
+      "startMs": 935260,
+      "endMs": 941660,
+      "en": "Still to come in this podcast: Despite calls for him to resign as FIFA boss, Gianni Infantino",
+      "zh": "本期节目稍后：尽管有人要求国际足联主席詹尼·因凡蒂诺辞职，"
+    },
+    {
+      "id": 190,
+      "startMs": 941660,
+      "endMs": 946940,
+      "en": "confirms he will stand for re-election to run football's world governing body.",
+      "zh": "因凡蒂诺确认将参加连任竞选，继续领导世界足球管理机构。"
+    },
+    {
+      "id": 191,
+      "startMs": 947020,
+      "endMs": 953100,
+      "en": "He's an astute politician and he has been travelling around trying to shore up his power base.",
+      "zh": "他是一位精明的政治家，一直四处奔走，试图巩固自己的权力基础。"
+    },
+    {
+      "id": 192,
+      "startMs": 959660,
+      "endMs": 961580,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 193,
+      "startMs": 962380,
+      "endMs": 970460,
+      "en": "Despite a ceasefire that came into force in June, the Lebanese President Joseph Aoun has warned of a dangerous escalation by Israel.",
+      "zh": "尽管停火协议于6月生效，黎巴嫩总统约瑟夫·奥恩警告称，以色列正在危险地升级事态。"
+    },
+    {
+      "id": 194,
+      "startMs": 970620,
+      "endMs": 978060,
+      "en": "Now, state media in Lebanon says at least nine people have been killed in Israeli air strikes in the south of the country.",
+      "zh": "黎巴嫩国家媒体称，以色列在该国南部发动空袭，至少9人死亡。"
+    },
+    {
+      "id": 195,
+      "startMs": 978540,
+      "endMs": 981420,
+      "en": "Our correspondent in Beirut is Hugo Bachega.",
+      "zh": "本台驻贝鲁特记者是雨果·巴切加。"
+    },
+    {
+      "id": 196,
+      "startMs": 981660,
+      "endMs": 986220,
+      "en": "So, we've had an update from Lebanon's Health Ministry saying that in one of the attacks",
+      "zh": "黎巴嫩卫生部最新通报称，在其中一次袭击中，"
+    },
+    {
+      "id": 197,
+      "startMs": 986300,
+      "endMs": 989660,
+      "en": "eight people were killed, including a child and two women",
+      "zh": "8人死亡，其中包括一名儿童和两名女性，"
+    },
+    {
+      "id": 198,
+      "startMs": 989900,
+      "endMs": 994860,
+      "en": "when a residential building was hit by an Israeli airstrike in the village of Kfar Reman.",
+      "zh": "当时，一栋住宅楼在卡法尔雷曼村遭以色列空袭。"
+    },
+    {
+      "id": 199,
+      "startMs": 995260,
+      "endMs": 1001260,
+      "en": "Then, a second strike killed a paramedic, also in that part of the country.",
+      "zh": "随后，第二次袭击又造成一名医护人员死亡，也发生在该国南部。"
+    },
+    {
+      "id": 200,
+      "startMs": 1001260,
+      "endMs": 1007500,
+      "en": "So, according to the country's health authorities, at least nine people killed in those Israeli airstrikes",
+      "zh": "因此，据该国卫生部门称，以色列的这些空袭至少造成9人死亡，"
+    },
+    {
+      "id": 201,
+      "startMs": 1007580,
+      "endMs": 1015500,
+      "en": "and we've seen an intensification of these Israeli airstrikes in the south of the country, with at least 15 people killed",
+      "zh": "我们看到该国南部以色列空袭加剧，至少15人在其中丧生，"
+    },
+    {
+      "id": 202,
+      "startMs": 1015900,
+      "endMs": 1017980,
+      "en": "in the last three days,",
+      "zh": "过去三天内，"
+    },
+    {
+      "id": 203,
+      "startMs": 1017980,
+      "endMs": 1022880,
+      "en": "and towns and villages near the so-called Yellow Line have been targeted.",
+      "zh": "所谓“黄线”附近的城镇和村庄遭到袭击。"
+    },
+    {
+      "id": 204,
+      "startMs": 1022880,
+      "endMs": 1026240,
+      "en": "This is the part of the country that is under Israeli occupation.",
+      "zh": "这片地区处于以色列占领之下。"
+    },
+    {
+      "id": 205,
+      "startMs": 1026240,
+      "endMs": 1030480,
+      "en": "We've seen large numbers of residents fleeing those areas because of those attacks,",
+      "zh": "我们看到大量居民因这些袭击逃离当地，"
+    },
+    {
+      "id": 206,
+      "startMs": 1030960,
+      "endMs": 1037040,
+      "en": "And this happens as you say despite the ceasefire that was announced here in June.",
+      "zh": "正如你所说，这发生在6月宣布停火之后。"
+    },
+    {
+      "id": 207,
+      "startMs": 1037040,
+      "endMs": 1044000,
+      "en": "And the Israeli military says it is targeting the Lebanese militia and political party Hezbollah.",
+      "zh": "以色列军方称，其目标是黎巴嫩民兵组织和政党真主党。"
+    },
+    {
+      "id": 208,
+      "startMs": 1044000,
+      "endMs": 1050560,
+      "en": "But what we've seen repeatedly here in Lebanon, as in Gaza, is that a significant number of people",
+      "zh": "但我们在黎巴嫩反复看到，正如加沙一样，大量遇难者"
+    },
+    {
+      "id": 209,
+      "startMs": 1050560,
+      "endMs": 1054400,
+      "en": "who are killed in those attacks are civilians, including children and women.",
+      "zh": "是平民，包括儿童和女性。"
+    },
+    {
+      "id": 210,
+      "startMs": 1054800,
+      "endMs": 1058880,
+      "en": "Why is Israel carrying out these attacks?",
+      "zh": "以色列为什么发动这些袭击？"
+    },
+    {
+      "id": 211,
+      "startMs": 1058960,
+      "endMs": 1067760,
+      "en": "So this is very interesting because this again escalation happens just days after the Israeli military said it had achieved operational control",
+      "zh": "这很值得注意，因为这次升级发生在以色列军方宣布取得行动控制权仅几天后，"
+    },
+    {
+      "id": 212,
+      "startMs": 1068160,
+      "endMs": 1073360,
+      "en": "of the Ali Taher Ridge, which is in that part of the country where these attacks have been happening.",
+      "zh": "控制的是阿里·塔赫尔山脊，就在这些袭击发生的地区。"
+    },
+    {
+      "id": 213,
+      "startMs": 1073360,
+      "endMs": 1081940,
+      "en": "And this is a strategic location because this is where Hezbollah had built that heavily fortified underground infrastructure.",
+      "zh": "这里是战略要地，因为真主党在此修建了坚固的地下设施。"
+    },
+    {
+      "id": 214,
+      "startMs": 1081940,
+      "endMs": 1086180,
+      "en": "So, still, there's still questions about the objectives of the Israeli military",
+      "zh": "所以，以色列军方的目标仍然存在疑问，"
+    },
+    {
+      "id": 215,
+      "startMs": 1086180,
+      "endMs": 1090980,
+      "en": "what the Israeli authorities are trying to achieve with this wave of attacks.",
+      "zh": "以色列当局究竟想通过这一轮袭击实现什么。"
+    },
+    {
+      "id": 216,
+      "startMs": 1090980,
+      "endMs": 1098260,
+      "en": "But this morning, the Israeli foreign ministry said that Hezbollah had repeatedly violated the ceasefire deal",
+      "zh": "但今天早上，以色列外交部称真主党多次违反停火协议，"
+    },
+    {
+      "id": 217,
+      "startMs": 1098260,
+      "endMs": 1104340,
+      "en": "and the Israeli authorities have frequently accused Hezbollah of embedding its military infrastructure",
+      "zh": "以色列当局还经常指责真主党把军事设施部署在"
+    },
+    {
+      "id": 218,
+      "startMs": 1104420,
+      "endMs": 1109460,
+      "en": "in civilian neighbourhoods, of using the civilian population as human shields.",
+      "zh": "平民社区，并利用平民作为人盾。"
+    },
+    {
+      "id": 219,
+      "startMs": 1109700,
+      "endMs": 1116820,
+      "en": "But interestingly, a Lebanese intelligence official told me recently that the Lebanese army had recorded more than 5,000",
+      "zh": "但有意思的是，一名黎巴嫩情报官员最近告诉我，黎巴嫩军方记录了超过5000起"
+    },
+    {
+      "id": 220,
+      "startMs": 1118020,
+      "endMs": 1126020,
+      "en": "Israeli violations of the ceasefire, including airstrikes, drone attacks and also incursions into Lebanese territory.",
+      "zh": "以色列违反停火的行为，包括空袭、无人机袭击以及侵入黎巴嫩领土。"
+    },
+    {
+      "id": 221,
+      "startMs": 1126100,
+      "endMs": 1133300,
+      "en": "And again, you mentioned the reaction there from the Lebanese president, who said this escalation went beyond alleged military targets",
+      "zh": "再说回你提到的黎巴嫩总统的回应，他说这次升级超出了所谓军事目标的范围，"
+    },
+    {
+      "id": 222,
+      "startMs": 1133300,
+      "endMs": 1136660,
+      "en": "and that it was intended to disrupt people's lives.",
+      "zh": "意在扰乱民众的生活。"
+    },
+    {
+      "id": 223,
+      "startMs": 1137060,
+      "endMs": 1138100,
+      "en": "Hugo Bachega in the Lebanese capital.",
+      "zh": "以上是驻黎巴嫩首都的雨果·巴切加。"
+    },
+    {
+      "id": 224,
+      "startMs": 1140680,
+      "endMs": 1147960,
+      "en": "World football's governing body has confirmed that its president, Gianni Infantino, will stand for re-election in March.",
+      "zh": "世界足球管理机构确认，其主席詹尼·因凡蒂诺将参加3月的连任竞选。"
+    },
+    {
+      "id": 225,
+      "startMs": 1148360,
+      "endMs": 1155320,
+      "en": "He's been under pressure following his scrapped plan to sell stakes in FIFA competitions to private investment firms.",
+      "zh": "此前他计划将国际足联赛事的股份出售给私人投资公司，但计划被取消，此后一直承受压力。"
+    },
+    {
+      "id": 226,
+      "startMs": 1155640,
+      "endMs": 1160200,
+      "en": "Europe's governing body, UEFA, has led calls for Mister Infantino to resign",
+      "zh": "欧洲足坛管理机构欧足联带头要求因凡蒂诺辞职，"
+    },
+    {
+      "id": 227,
+      "startMs": 1160440,
+      "endMs": 1168600,
+      "en": "And has been lobbying for someone to stand against him. CONCACAF president Victor Montagliani is considered a serious option.",
+      "zh": "并游说人选与他竞争。中北美及加勒比足联主席维克托·蒙塔利亚尼被认为是有力人选。"
+    },
+    {
+      "id": 228,
+      "startMs": 1168920,
+      "endMs": 1174840,
+      "en": "Here are the thoughts of football journalist Henry Winter about Mister Infantino's decision to run for re-election.",
+      "zh": "以下是足球记者亨利·温特对因凡蒂诺决定竞选连任的看法。"
+    },
+    {
+      "id": 229,
+      "startMs": 1174920,
+      "endMs": 1178680,
+      "en": "Not in the least bit surprised, because of his lack of self-awareness,",
+      "zh": "我一点也不惊讶，因为他缺乏自知之明，"
+    },
+    {
+      "id": 230,
+      "startMs": 1179080,
+      "endMs": 1185000,
+      "en": "And I also thought the moment that UEFA, the governing body of European football, effectively withdrew their boycott",
+      "zh": "我还想到，欧洲足球管理机构欧足联实际上撤回了抵制威胁"
+    },
+    {
+      "id": 231,
+      "startMs": 1185080,
+      "endMs": 1191640,
+      "en": "threat to not send European teams to FIFA events would embolden Infantino.",
+      "zh": "即不派欧洲球队参加国际足联赛事的威胁，这会让因凡蒂诺更加有恃无恐。"
+    },
+    {
+      "id": 232,
+      "startMs": 1191720,
+      "endMs": 1199900,
+      "en": "And also the legal action threatening criminal action against him by UEFA and FIFA's quick response to that.",
+      "zh": "还有欧足联威胁对他采取刑事行动的法律诉讼，以及国际足联对此迅速作出的回应。"
+    },
+    {
+      "id": 233,
+      "startMs": 1200380,
+      "endMs": 1205180,
+      "en": "And as we all know, legal work, particularly in football, can take a long time.",
+      "zh": "我们都知道，尤其在足球界，法律事务可能需要很长时间。"
+    },
+    {
+      "id": 234,
+      "startMs": 1205500,
+      "endMs": 1209980,
+      "en": "I always thought that he would fancy himself to have another run at the office.",
+      "zh": "我一直认为，他会觉得自己还能再争取一次这个职位。"
+    },
+    {
+      "id": 235,
+      "startMs": 1210380,
+      "endMs": 1216540,
+      "en": "He's an astute politician and he has been travelling around trying to shore up his power base.",
+      "zh": "他是个精明的政治家，一直四处奔走，试图巩固自己的权力基础。"
+    },
+    {
+      "id": 236,
+      "startMs": 1216540,
+      "endMs": 1221740,
+      "en": "Obviously, he's got Africa, elements of CONMEBOL, which is Latin and South America,",
+      "zh": "显然，他得到非洲和南美足联部分成员的支持，也就是拉丁美洲和南美洲，"
+    },
+    {
+      "id": 237,
+      "startMs": 1221820,
+      "endMs": 1228780,
+      "en": "and I am sure we'll see in the next few weeks confirmation that the 2030 World Cup, the next men's World Cup,",
+      "zh": "而且我确信，未来几周将确认2030年世界杯，也就是下一届男足世界杯，"
+    },
+    {
+      "id": 238,
+      "startMs": 1229180,
+      "endMs": 1236220,
+      "en": "will have 64 teams, which of course will win him even more support from countries around the world",
+      "zh": "将有64支球队参赛，这当然会为他赢得世界各国更多支持，"
+    },
+    {
+      "id": 239,
+      "startMs": 1236220,
+      "endMs": 1239580,
+      "en": "Because everyone wants to get on board the World Cup gravy train.",
+      "zh": "因为所有人都想搭上世界杯这趟顺风车。"
+    },
+    {
+      "id": 240,
+      "startMs": 1239740,
+      "endMs": 1244140,
+      "en": "You've got a lot of countries in Africa and parts of Asia who are saying, actually...",
+      "zh": "非洲和亚洲部分国家的想法其实是……"
+    },
+    {
+      "id": 241,
+      "startMs": 1244220,
+      "endMs": 1253340,
+      "en": "what Infantino was proposing in terms of opening up the sell-off of parts of the World Cup to investors, actually they would benefit from.",
+      "zh": "他们实际上会从因凡蒂诺提出的、向投资者开放出售部分世界杯权益的方案中受益。"
+    },
+    {
+      "id": 242,
+      "startMs": 1253660,
+      "endMs": 1262080,
+      "en": "Montagliani, who is head of CONCACAF, the North America, Caribbean and Central American Federation, he is the obvious candidate",
+      "zh": "蒙塔利亚尼领导着北美、加勒比及中美洲足联，他是显而易见的人选，"
+    },
+    {
+      "id": 243,
+      "startMs": 1262400,
+      "endMs": 1267760,
+      "en": "Because you can't put up a European candidate, because the rest of the world wouldn't take kindly to that.",
+      "zh": "因为不能推举欧洲候选人，世界其他地区不会对此欣然接受。"
+    },
+    {
+      "id": 244,
+      "startMs": 1268080,
+      "endMs": 1275120,
+      "en": "So the clock is running. So nominations by the 18th of November, and then the vote is in Rabat on the 18th of March.",
+      "zh": "所以时间紧迫。提名须在11月18日前完成，随后于3月18日在拉巴特投票。"
+    },
+    {
+      "id": 245,
+      "startMs": 1275120,
+      "endMs": 1276960,
+      "en": "Henry Winter.",
+      "zh": "亨利·温特。"
+    },
+    {
+      "id": 246,
+      "startMs": 1278200,
+      "endMs": 1284040,
+      "en": "Australia was the first country to introduce a ban on social media for under-16s.",
+      "zh": "澳大利亚是第一个禁止16岁以下未成年人使用社交媒体的国家。"
+    },
+    {
+      "id": 247,
+      "startMs": 1284120,
+      "endMs": 1286360,
+      "en": "Now the government is planning to go further.",
+      "zh": "现在，政府计划采取更进一步的措施。"
+    },
+    {
+      "id": 248,
+      "startMs": 1286760,
+      "endMs": 1295800,
+      "en": "Draft legislation expected this week would give Australians the option of switching off the algorithms that decide what appears in their social media feeds,",
+      "zh": "预计本周公布的法律草案将让澳大利亚人可以关闭决定社交媒体信息流内容的算法，"
+    },
+    {
+      "id": 249,
+      "startMs": 1296040,
+      "endMs": 1300840,
+      "en": "while also placing new responsibilities on tech companies to tackle harmful content.",
+      "zh": "同时赋予科技公司应对有害内容的新责任。"
+    },
+    {
+      "id": 250,
+      "startMs": 1301400,
+      "endMs": 1306600,
+      "en": "Ministers say it's about giving users more control and creating a digital duty of care.",
+      "zh": "部长们说，这旨在让用户拥有更多控制权，并建立数字照护义务。"
+    },
+    {
+      "id": 251,
+      "startMs": 1306920,
+      "endMs": 1311880,
+      "en": "So how would it work in practice, and would it make social media any safer?",
+      "zh": "那么，实际操作会如何进行？这会让社交媒体更安全吗？"
+    },
+    {
+      "id": 252,
+      "startMs": 1312120,
+      "endMs": 1319800,
+      "en": "Gary O'Donoghue has been speaking to Kate Mannell, research fellow in digital childhoods at Deakin University in Melbourne.",
+      "zh": "加里·奥多诺霍采访了凯特·曼内尔，她是墨尔本迪肯大学数字童年研究员。"
+    },
+    {
+      "id": 253,
+      "startMs": 1320200,
+      "endMs": 1323240,
+      "en": "He asked her how the new rules were expected to work.",
+      "zh": "他询问她新规预计将如何运作。"
+    },
+    {
+      "id": 254,
+      "startMs": 1323400,
+      "endMs": 1325880,
+      "en": "We don't have a huge amount of detail yet.",
+      "zh": "我们目前还没有太多细节。"
+    },
+    {
+      "id": 255,
+      "startMs": 1326520,
+      "endMs": 1333560,
+      "en": "Within this digital duty of care, one of the specific mechanisms that the government is saying will be included",
+      "zh": "在这项数字照护义务中，政府说将纳入的一项具体机制，"
+    },
+    {
+      "id": 256,
+      "startMs": 1333640,
+      "endMs": 1337880,
+      "en": "is this ability to opt out of recommendation algorithms.",
+      "zh": "就是让用户可以选择退出推荐算法。"
+    },
+    {
+      "id": 257,
+      "startMs": 1338620,
+      "endMs": 1344380,
+      "en": "They haven't said exactly, specifically what harms they're trying to target by introducing this,",
+      "zh": "他们还没有明确说明，引入这项措施具体要针对哪些危害，"
+    },
+    {
+      "id": 258,
+      "startMs": 1344460,
+      "endMs": 1349260,
+      "en": "but reading between the lines of their comments and the motivations behind it,",
+      "zh": "但从他们的评论及背后动机中可以看出，"
+    },
+    {
+      "id": 259,
+      "startMs": 1349260,
+      "endMs": 1354380,
+      "en": "it appears that the idea is that you would—because you are not being recommended content,",
+      "zh": "其想法似乎是，你会——由于不会再向你推荐内容，"
+    },
+    {
+      "id": 260,
+      "startMs": 1354380,
+      "endMs": 1358220,
+      "en": "you might be less likely to be recommended harmful content.",
+      "zh": "你可能就不那么容易被推荐有害内容。"
+    },
+    {
+      "id": 261,
+      "startMs": 1358300,
+      "endMs": 1366140,
+      "en": "So it appears to be part of this ambition to make platforms more responsible for harmful content,",
+      "zh": "所以，这似乎是让平台对有害内容承担更多责任这一目标的一部分，"
+    },
+    {
+      "id": 262,
+      "startMs": 1366220,
+      "endMs": 1373820,
+      "en": "and by turning off recommendation algorithms, the idea seems to be that you might be less likely to be recommended harmful content.",
+      "zh": "通过关闭推荐算法，设想似乎是让你不那么容易被推荐有害内容。"
+    },
+    {
+      "id": 263,
+      "startMs": 1374220,
+      "endMs": 1379580,
+      "en": "What if there is a logical problem there, because even if it's random, it could still be harmful? I guess.",
+      "zh": "但这是否存在逻辑问题？因为即使是随机内容，也可能有害，对吧？"
+    },
+    {
+      "id": 264,
+      "startMs": 1380560,
+      "endMs": 1388160,
+      "en": "Yeah, well, so what they're proposing that you would get if you opted out of the recommended content algorithm is that you would essentially",
+      "zh": "是的，他们提议的是，退出推荐内容算法后，你基本上会得到"
+    },
+    {
+      "id": 265,
+      "startMs": 1388160,
+      "endMs": 1398080,
+      "en": "get a feed of content that is chronological and is just content from people who you have chosen to follow.",
+      "zh": "按时间顺序排列的信息流，其中只有你选择关注的人发布的内容。"
+    },
+    {
+      "id": 266,
+      "startMs": 1398560,
+      "endMs": 1403040,
+      "en": "So it wouldn't be promoting content from accounts that you don't follow,",
+      "zh": "这样一来，它就不会推广你未关注账号的内容，"
+    },
+    {
+      "id": 267,
+      "startMs": 1403040,
+      "endMs": 1408000,
+      "en": "which at the moment we get a lot of, and it wouldn't be optimised for engagement.",
+      "zh": "目前我们会看到很多这类内容，而且它也不会针对互动率进行优化。"
+    },
+    {
+      "id": 268,
+      "startMs": 1408160,
+      "endMs": 1414240,
+      "en": "Having said that, yes, your point still stands because, of course, the people you follow might post harmful content,",
+      "zh": "话虽如此，你的观点仍然成立，因为你关注的人当然也可能发布有害内容，"
+    },
+    {
+      "id": 269,
+      "startMs": 1414240,
+      "endMs": 1419520,
+      "en": "so it's certainly not as simple as perhaps the government is currently making it out to be.",
+      "zh": "所以事情当然不像政府目前所说的那么简单。"
+    },
+    {
+      "id": 270,
+      "startMs": 1420080,
+      "endMs": 1425760,
+      "en": "This would undermine the company's sort of raison d'être, wouldn't it?",
+      "zh": "这会损害公司的生存宗旨，不是吗？"
+    },
+    {
+      "id": 271,
+      "startMs": 1425760,
+      "endMs": 1433840,
+      "en": "I mean, part of their—the way they make their money is using these algorithms to recommend other stuff to you and advertising and things like that.",
+      "zh": "我的意思是，他们赚钱的一部分方式，就是用这些算法向你推荐其他内容、广告之类的东西。"
+    },
+    {
+      "id": 272,
+      "startMs": 1434320,
+      "endMs": 1440160,
+      "en": "Yeah, absolutely, and particularly the way that they have been optimised for engagement.",
+      "zh": "是的，尤其是它们一直针对互动率进行优化的方式。"
+    },
+    {
+      "id": 273,
+      "startMs": 1440340,
+      "endMs": 1445620,
+      "en": "You know, to try to show you content that is most likely to keep you on the platforms,",
+      "zh": "也就是试图向你展示最可能让你留在平台上的内容，"
+    },
+    {
+      "id": 274,
+      "startMs": 1445780,
+      "endMs": 1451220,
+      "en": "so in moving away from, or giving people an option to opt out of, that algorithm,",
+      "zh": "所以，放弃这种算法，或让人们可以选择退出，"
+    },
+    {
+      "id": 275,
+      "startMs": 1451220,
+      "endMs": 1455460,
+      "en": "it would really be kind of going to the heart of their current business models.",
+      "zh": "实际上会触及其当前商业模式的核心。"
+    },
+    {
+      "id": 276,
+      "startMs": 1455460,
+      "endMs": 1457620,
+      "en": "Yes, absolutely, which means they're going to resist it, right?",
+      "zh": "是的，完全如此。这意味着他们会抵制，对吧？"
+    },
+    {
+      "id": 277,
+      "startMs": 1458020,
+      "endMs": 1465780,
+      "en": "Presumably, yes, I would say so. I mean, having said that, the settlement that they've just agreed to with the lawsuit in the US,",
+      "zh": "大概是，我会这么说。不过话说回来，他们刚刚就美国那起诉讼达成了和解，"
+    },
+    {
+      "id": 278,
+      "startMs": 1466420,
+      "endMs": 1470900,
+      "en": "apparently as part of the conditions of that settlement,",
+      "zh": "据说作为和解条件的一部分，"
+    },
+    {
+      "id": 279,
+      "startMs": 1470900,
+      "endMs": 1479220,
+      "en": "they have agreed to give young users the ability to opt out of recommendation, personalized feeds.",
+      "zh": "他们已同意让年轻用户可以选择退出推荐的个性化信息流。"
+    },
+    {
+      "id": 280,
+      "startMs": 1479220,
+      "endMs": 1485620,
+      "en": "So, so perhaps there is a kind of writing on the wall around this anyway, and maybe there's a cumulative pressure.",
+      "zh": "所以，也许这件事的趋势已经很明显，或许还存在累积的压力。"
+    },
+    {
+      "id": 281,
+      "startMs": 1485620,
+      "endMs": 1490100,
+      "en": "there. I'm not sure; it's hard to say exactly how they'll respond,",
+      "zh": "在那里。我不确定，很难准确说他们会如何回应，"
+    },
+    {
+      "id": 282,
+      "startMs": 1490180,
+      "endMs": 1494340,
+      "en": "But there's growing pressure, I guess, around their business models anyway.",
+      "zh": "但我想，围绕它们商业模式的压力正在增大。"
+    },
+    {
+      "id": 283,
+      "startMs": 1494740,
+      "endMs": 1500100,
+      "en": "I guess some people might say, look, you know, algorithms aren't always bad.",
+      "zh": "我想，有些人可能会说，算法并不总是坏事。"
+    },
+    {
+      "id": 284,
+      "startMs": 1500440,
+      "endMs": 1505640,
+      "en": "Sometimes they bring you stuff you want, and it doesn't necessarily mean it's going to be harmful.",
+      "zh": "有时算法会带来你想看的内容，这不一定意味着它会造成伤害。"
+    },
+    {
+      "id": 285,
+      "startMs": 1505640,
+      "endMs": 1511320,
+      "en": "But it does target you, and you don't have to waste your time scrolling through stacks of stuff that you're not interested in.",
+      "zh": "但它确实会针对你，而且你不必浪费时间刷过一堆自己不感兴趣的内容。"
+    },
+    {
+      "id": 286,
+      "startMs": 1511720,
+      "endMs": 1517000,
+      "en": "Yeah, absolutely. I mean, algorithms help us to find content that we're interested in.",
+      "zh": "是的，当然。我的意思是，算法帮助我们找到感兴趣的内容。"
+    },
+    {
+      "id": 287,
+      "startMs": 1517000,
+      "endMs": 1520200,
+      "en": "People find them really useful a lot of the time.",
+      "zh": "很多时候，人们觉得它们非常有用。"
+    },
+    {
+      "id": 288,
+      "startMs": 1520200,
+      "endMs": 1527000,
+      "en": "Also, a lot of businesses rely on the visibility that they get through these kinds of recommendation algorithms.",
+      "zh": "此外，许多企业依靠推荐算法带来的曝光度。"
+    },
+    {
+      "id": 289,
+      "startMs": 1527000,
+      "endMs": 1533320,
+      "en": "So one possibility is that people won't choose to opt out of them, because actually they find them really useful.",
+      "zh": "所以一种可能是，人们不会选择退出，因为他们确实觉得这些算法很有用。"
+    },
+    {
+      "id": 290,
+      "startMs": 1533320,
+      "endMs": 1539640,
+      "en": "So perhaps it might be more helpful to not just think about a kind of on or off system,",
+      "zh": "所以，也许不要只把它看成一个简单的开关系统会更有帮助，"
+    },
+    {
+      "id": 291,
+      "startMs": 1539640,
+      "endMs": 1544520,
+      "en": "but actually asking more questions around, you know, what kinds of algorithms and can people",
+      "zh": "而是进一步追问：你知道，究竟是哪类算法，人们能否"
+    },
+    {
+      "id": 292,
+      "startMs": 1544520,
+      "endMs": 1549240,
+      "en": "perhaps have more choice around the types of recommendation algorithms on their platforms.",
+      "zh": "也许在平台上的推荐算法类型方面拥有更多选择。"
+    },
+    {
+      "id": 293,
+      "startMs": 1549480,
+      "endMs": 1552920,
+      "en": "Kate Mannell from Deakin University in Melbourne.",
+      "zh": "来自墨尔本迪肯大学的凯特·曼内尔。"
+    },
+    {
+      "id": 294,
+      "startMs": 1553920,
+      "endMs": 1558800,
+      "en": "If there's one thing that unites people all over the world, it's talking about the weather.",
+      "zh": "如果有一件事能让全世界的人产生共鸣，那就是谈论天气。"
+    },
+    {
+      "id": 295,
+      "startMs": 1559040,
+      "endMs": 1565040,
+      "en": "This week sees a new film about what was the most important weather forecast in British history,",
+      "zh": "本周上映一部新电影，讲述英国历史上最重要的一次天气预报，"
+    },
+    {
+      "id": 296,
+      "startMs": 1565040,
+      "endMs": 1574400,
+      "en": "the one that gave the go-ahead for D-Day on the 6th of June 1944, when the Allies in the Second World War invaded Nazi-occupied France.",
+      "zh": "正是这次预报让1944年6月6日的诺曼底登陆获得批准，二战盟军由此攻入纳粹占领的法国。"
+    },
+    {
+      "id": 297,
+      "startMs": 1574640,
+      "endMs": 1580080,
+      "en": "The extraordinary story behind that event and the man on whose shoulders it fell, James Stagg,",
+      "zh": "那一事件背后的非凡故事，以及肩负这一重任的詹姆斯·斯塔格，"
+    },
+    {
+      "id": 298,
+      "startMs": 1580560,
+      "endMs": 1584640,
+      "en": "has been turned into a film starring Andrew Scott. David Sillito",
+      "zh": "如今被拍成一部由安德鲁·斯科特主演的电影。大卫·西利托"
+    },
+    {
+      "id": 299,
+      "startMs": 1584800,
+      "endMs": 1592640,
+      "en": "went to meet him. \"Fate of the war, thousands of lives hinge on this.\" It's a film about D-Day,",
+      "zh": "前去采访他。“战争的命运、数千人的生命，都系于此。”这是一部关于诺曼底登陆的电影，"
+    },
+    {
+      "id": 300,
+      "startMs": 1592960,
+      "endMs": 1601360,
+      "en": "but more specifically, one man's contribution. \"The atmosphere was almost unbearably tense. An irrevocable decision had to be made.\"",
+      "zh": "更具体地说，讲的是一个人的贡献。“气氛紧张得几乎令人难以承受。必须作出一个不可撤销的决定。”"
+    },
+    {
+      "id": 301,
+      "startMs": 1601600,
+      "endMs": 1607920,
+      "en": "This is the voice of James Stagg. I had long had at the back of my mind the tactical use of weather.",
+      "zh": "这是詹姆斯·斯塔格的声音。我一直把天气的战术用途记在心里。"
+    },
+    {
+      "id": 302,
+      "startMs": 1608240,
+      "endMs": 1615040,
+      "en": "I had hoped that just such a set of circumstances would come about — that we... D-Day should have been on the 5th of June.",
+      "zh": "我曾希望这样的情况能够出现——我们……诺曼底登陆本应在6月5日进行。"
+    },
+    {
+      "id": 303,
+      "startMs": 1615040,
+      "endMs": 1620880,
+      "en": "James Stagg, an RAF meteorologist, told General Eisenhower to postpone the invasion.",
+      "zh": "英国皇家空军气象学家詹姆斯·斯塔格告诉艾森豪威尔将军推迟登陆。"
+    },
+    {
+      "id": 304,
+      "startMs": 1621040,
+      "endMs": 1621920,
+      "en": "I need a forecast.",
+      "zh": "我需要一份预报。"
+    },
+    {
+      "id": 305,
+      "startMs": 1623440,
+      "endMs": 1626800,
+      "en": "If you invade tomorrow, they're going to be washed away.",
+      "zh": "如果你们明天登陆，他们会被冲走。"
+    },
+    {
+      "id": 306,
+      "startMs": 1627040,
+      "endMs": 1629440,
+      "en": "There's a reason this film is called Pressure.",
+      "zh": "这部电影叫《压力》是有原因的。"
+    },
+    {
+      "id": 307,
+      "startMs": 1629600,
+      "endMs": 1632840,
+      "en": "Why should I trust you? We must face the facts!",
+      "zh": "我为什么要相信你？我们必须面对事实！"
+    },
+    {
+      "id": 308,
+      "startMs": 1633640,
+      "endMs": 1635560,
+      "en": "The facts, however frightening they may be!",
+      "zh": "无论事实多么令人恐惧！"
+    },
+    {
+      "id": 309,
+      "startMs": 1636720,
+      "endMs": 1641120,
+      "en": "Eighty-two years on, I met Andrew Scott, the man now playing James Stagg.",
+      "zh": "82年后，我见到了如今饰演詹姆斯·斯塔格的安德鲁·斯科特。"
+    },
+    {
+      "id": 310,
+      "startMs": 1641440,
+      "endMs": 1649360,
+      "en": "He appeared to me to be an extraordinarily interesting cinematic character, as well as an unsung hero from history.",
+      "zh": "在我看来，他是一个极其有趣的电影人物，也是历史上一位默默无闻的英雄。"
+    },
+    {
+      "id": 311,
+      "startMs": 1649840,
+      "endMs": 1655360,
+      "en": "I really enjoyed the way that he was not interested in ingratiating himself with anybody.",
+      "zh": "我很喜欢他不屑于向任何人献媚的样子。"
+    },
+    {
+      "id": 312,
+      "startMs": 1655360,
+      "endMs": 1662140,
+      "en": "He's a bit chilly. He's chilly. He's definitely very chilly, and very forthright, and very direct, and completely obsessed with the weather.",
+      "zh": "他有点冷淡。他很冷淡。他确实非常冷淡、坦率直接，完全着迷于天气。"
+    },
+    {
+      "id": 313,
+      "startMs": 1662700,
+      "endMs": 1665500,
+      "en": "And not afraid to speak truth to power.",
+      "zh": "而且不怕对权力讲真话。"
+    },
+    {
+      "id": 314,
+      "startMs": 1665820,
+      "endMs": 1671500,
+      "en": "It's almost impossible to understand the level of jeopardy one man is under.",
+      "zh": "几乎无法想象一个人所承受的危险程度。"
+    },
+    {
+      "id": 315,
+      "startMs": 1671900,
+      "endMs": 1675740,
+      "en": "Oh, so absolutely, the stakes were so enormously high.",
+      "zh": "哦，当然，风险实在太高了。"
+    },
+    {
+      "id": 316,
+      "startMs": 1676140,
+      "endMs": 1682300,
+      "en": "It's wonderful that we can pay tribute to him in this way all these years later. Eighty years later, suddenly...",
+      "zh": "多年后我们还能以这种方式向他致敬，真是太好了。80年后，突然……"
+    },
+    {
+      "id": 317,
+      "startMs": 1683080,
+      "endMs": 1684520,
+      "en": "Yeah, there he is. He's a movie hero.",
+      "zh": "是的，他就在这里。他成了电影英雄。"
+    },
+    {
+      "id": 318,
+      "startMs": 1686040,
+      "endMs": 1692440,
+      "en": "Exactly, exactly. I don't think he'd enjoy that very much. I tried not to be afraid of the fact that perhaps at the beginning",
+      "zh": "没错，没错。我不认为他会很享受这一点。我尽量不去担心，也许一开始，"
+    },
+    {
+      "id": 319,
+      "startMs": 1692520,
+      "endMs": 1700520,
+      "en": "the audience might be like, \"Who is this guy?\" And hopefully by the end, we understand his motivations and his inner workings.",
+      "zh": "观众可能会想：“这家伙是谁？”但希望到最后，我们能理解他的动机和内心运作。"
+    },
+    {
+      "id": 320,
+      "startMs": 1701400,
+      "endMs": 1704800,
+      "en": "What do you make of Stagg? Churchill says he's a genius.",
+      "zh": "你怎么看斯塔格？丘吉尔说他是天才。"
+    },
+    {
+      "id": 321,
+      "startMs": 1705760,
+      "endMs": 1712120,
+      "en": "Men are too fond of that word. James Stagg's warning to the man in charge, General Eisenhower, saved the day.",
+      "zh": "人们太喜欢使用这个词了。詹姆斯·斯塔格向负责人艾森豪威尔将军发出的警告扭转了局面。"
+    },
+    {
+      "id": 322,
+      "startMs": 1712920,
+      "endMs": 1715000,
+      "en": "But it wasn't what Eisenhower wanted to hear.",
+      "zh": "但那不是艾森豪威尔想听到的。"
+    },
+    {
+      "id": 323,
+      "startMs": 1715480,
+      "endMs": 1718040,
+      "en": "Speaking truth to power is a big thing here, isn't it?",
+      "zh": "在这部电影中，对权力讲真话很重要，对吧？"
+    },
+    {
+      "id": 324,
+      "startMs": 1718040,
+      "endMs": 1719880,
+      "en": "Yeah, huge, huge, huge thing.",
+      "zh": "是的，非常、非常、非常重要。"
+    },
+    {
+      "id": 325,
+      "startMs": 1720280,
+      "endMs": 1723400,
+      "en": "Might be a thing to take on board today.",
+      "zh": "这或许是今天值得借鉴的一点。"
+    },
+    {
+      "id": 326,
+      "startMs": 1723800,
+      "endMs": 1725800,
+      "en": "Well, that's exactly right. That's exactly right.",
+      "zh": "嗯，完全正确。完全正确。"
+    },
+    {
+      "id": 327,
+      "startMs": 1726040,
+      "endMs": 1728920,
+      "en": "And a celebration of experts, yeah.",
+      "zh": "也是对专家的赞颂，是的。"
+    },
+    {
+      "id": 328,
+      "startMs": 1728920,
+      "endMs": 1730440,
+      "en": "That report by David Sillito.",
+      "zh": "报道来自大卫·西利托。"
+    },
+    {
+      "id": 329,
+      "startMs": 1732440,
+      "endMs": 1734200,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是我们目前的全部内容。"
+    },
+    {
+      "id": 330,
+      "startMs": 1734440,
+      "endMs": 1739960,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 331,
+      "startMs": 1739960,
+      "endMs": 1744760,
+      "en": "This edition was mixed by Chris Kouzaris, and the producer was Muzaffar Shakir.",
+      "zh": "本期由克里斯·库扎里斯混音，制片人是穆扎法尔·沙基尔。"
+    },
+    {
+      "id": 332,
+      "startMs": 1745000,
+      "endMs": 1746680,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 333,
+      "startMs": 1747000,
+      "endMs": 1749800,
+      "en": "I'm Alex Ritson. Until next time, goodbye.",
+      "zh": "我是亚历克斯·里特森。下次再见。"
+    }
+  ]
+}
