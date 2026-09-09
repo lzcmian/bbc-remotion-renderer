@@ -1,0 +1,1936 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "8 September 2026"
+  },
+  "durationMs": 1523120,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3120,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5200,
+      "endMs": 10400,
+      "en": "Hello, I'm Oliver Conway. We're recording this at 4:00 GMT on Tuesday, the 8th of September.",
+      "zh": "你好，我是奥利弗·康韦。我们在格林尼治时间9月8日星期二凌晨4点录制本节目。"
+    },
+    {
+      "id": 3,
+      "startMs": 10880,
+      "endMs": 16880,
+      "en": "Palestinians in the occupied West Bank fear for their children's lives at school after an increase in settler attacks.",
+      "zh": "在被占领的约旦河西岸，定居者袭击事件增加，巴勒斯坦人担心孩子在学校的安全。"
+    },
+    {
+      "id": 4,
+      "startMs": 17600,
+      "endMs": 24560,
+      "en": "Will Ukraine's third largest city, Odesa, crack down on the Russian language, even though it's spoken by most residents there?",
+      "zh": "乌克兰第三大城市敖德萨的多数居民都说俄语，当地会打压俄语吗？"
+    },
+    {
+      "id": 5,
+      "startMs": 25200,
+      "endMs": 33120,
+      "en": "And staff at the Eiffel Tower go on strike after bosses agree to make the site a women-free zone for a visit by a conservative Hindu group.",
+      "zh": "埃菲尔铁塔管理方同意为一个保守派印度教团体的参观把景点变成女性禁入区后，员工举行罢工。"
+    },
+    {
+      "id": 6,
+      "startMs": 35900,
+      "endMs": 42860,
+      "en": "Also in this podcast, King Charles makes it clear that Harry and Meghan's return to Britain doesn't make them working royals again.",
+      "zh": "本期还将报道：查尔斯国王明确表示，哈里和梅根回到英国，并不意味着他们重新成为履职王室成员。"
+    },
+    {
+      "id": 7,
+      "startMs": 43180,
+      "endMs": 48620,
+      "en": "And when I saw it and Reece felt it, it felt like this was the first time we're actually doing it together, which was amazing.",
+      "zh": "当我看到它、里斯摸到它时，感觉这是我们第一次真正一起体验这一切，太奇妙了。"
+    },
+    {
+      "id": 8,
+      "startMs": 48860,
+      "endMs": 51900,
+      "en": "It's so nice to have that before our baby's actually with us as well. Yeah, exactly.",
+      "zh": "在宝宝真正来到我们身边前就能拥有这一体验，真好。对，正是这样。"
+    },
+    {
+      "id": 9,
+      "startMs": 52760,
+      "endMs": 57240,
+      "en": "3D prints of ultrasound scans for parents who can't see.",
+      "zh": "为视障家长制作的超声波扫描三维模型。"
+    },
+    {
+      "id": 10,
+      "startMs": 62160,
+      "endMs": 70480,
+      "en": "Israeli settlements on occupied Palestinian land are considered illegal under international law, and a huge barrier to any future peace deal.",
+      "zh": "根据国际法，建在被占领巴勒斯坦土地上的以色列定居点被视为非法，也是未来达成和平协议的巨大障碍。"
+    },
+    {
+      "id": 11,
+      "startMs": 70960,
+      "endMs": 79120,
+      "en": "Criticism over expansion plans has grown amid a rise in attacks by Jewish extremist settlers on Palestinians in the occupied West Bank.",
+      "zh": "随着犹太极端定居者对被占领约旦河西岸巴勒斯坦人的袭击增加，对扩建计划的批评也越来越多。"
+    },
+    {
+      "id": 12,
+      "startMs": 79520,
+      "endMs": 83360,
+      "en": "Now, the British government is preparing to announce sanctions on Israeli settlements.",
+      "zh": "英国政府现在正准备宣布对以色列定居点实施制裁。"
+    },
+    {
+      "id": 13,
+      "startMs": 83360,
+      "endMs": 87680,
+      "en": "There. We'll hear the details in a moment, but first to the West Bank itself.",
+      "zh": "在那里。稍后我们会听到详情，但先关注约旦河西岸本身。"
+    },
+    {
+      "id": 14,
+      "startMs": 88080,
+      "endMs": 95280,
+      "en": "And a village south of Nablus where our correspondent, Lucy Williamson, has been speaking to Palestinians worried about their children's safety.",
+      "zh": "还有纳布卢斯以南的一个村庄，我们的记者露西·威廉姆森在那里采访了担心孩子安全的巴勒斯坦人。"
+    },
+    {
+      "id": 15,
+      "startMs": 96360,
+      "endMs": 105640,
+      "en": "Not everyone came back to school in Al-Mughayyir this year. Three pupils here killed in the past few months, and those who did return found changes.",
+      "zh": "今年并非所有人都回到穆盖伊尔村的学校。过去几个月里，这里有三名学生遇害；回来的学生发现学校已经变了。"
+    },
+    {
+      "id": 16,
+      "startMs": 106640,
+      "endMs": 109760,
+      "en": "The school itself was freshly ringed with barbed wire.",
+      "zh": "学校刚刚用铁丝网围了起来。"
+    },
+    {
+      "id": 17,
+      "startMs": 111620,
+      "endMs": 118420,
+      "en": "In April, a 14-year-old pupil was shot dead by a settler outside the school gates, along with the brother of a teacher.",
+      "zh": "4月，一名14岁学生和一名教师的兄弟在校门外被一名定居者枪杀。"
+    },
+    {
+      "id": 18,
+      "startMs": 119540,
+      "endMs": 125060,
+      "en": "Israel's army said an off-duty reservist had fired at suspects after stones were thrown.",
+      "zh": "以色列军方称，一名休班预备役军人在遭到投石后向嫌疑人开枪。"
+    },
+    {
+      "id": 19,
+      "startMs": 127380,
+      "endMs": 132980,
+      "en": "Over the summer, two more pupils were killed by Israeli forces after settlers entered the village.",
+      "zh": "整个夏天，定居者进入村庄后，又有两名学生被以色列军队杀害。"
+    },
+    {
+      "id": 20,
+      "startMs": 134660,
+      "endMs": 143300,
+      "en": "The first lecture of the day: if you see settlers or soldiers, don't shout, don't approach, don't react.",
+      "zh": "当天的第一课是：如果看到定居者或士兵，不要喊叫，不要靠近，不要做出反应。"
+    },
+    {
+      "id": 21,
+      "startMs": 144820,
+      "endMs": 147780,
+      "en": "We're just a couple of hours into the school year here.",
+      "zh": "新学年开始才几个小时。"
+    },
+    {
+      "id": 22,
+      "startMs": 147860,
+      "endMs": 154500,
+      "en": "And already I'm watching settlers take their sheep through the fields just on the other side of the road.",
+      "zh": "而且我已经看到定居者把羊赶过田地，就在马路的另一边。"
+    },
+    {
+      "id": 23,
+      "startMs": 155060,
+      "endMs": 160180,
+      "en": "Residents say settlers have been coming further and further into the village every day.",
+      "zh": "居民说，定居者每天都越来越深入村庄。"
+    },
+    {
+      "id": 24,
+      "startMs": 161280,
+      "endMs": 168160,
+      "en": "As they have done in all the West Bank, they want us to leave the school and go inside the village.",
+      "zh": "他们在整个约旦河西岸都这样做；他们想让我们离开学校，搬进村子里。"
+    },
+    {
+      "id": 25,
+      "startMs": 168640,
+      "endMs": 174720,
+      "en": "We are not going to leave our school. We are going to study inside our school.",
+      "zh": "我们不会离开自己的学校。我们要在自己的学校里学习。"
+    },
+    {
+      "id": 26,
+      "startMs": 174720,
+      "endMs": 176000,
+      "en": "We are not going to leave this place.",
+      "zh": "我们不会离开这里。"
+    },
+    {
+      "id": 27,
+      "startMs": 177680,
+      "endMs": 181360,
+      "en": "Outside, a few parents stand guard during classes.",
+      "zh": "上课期间，几位家长在外面站岗。"
+    },
+    {
+      "id": 28,
+      "startMs": 182160,
+      "endMs": 188720,
+      "en": "On the road, ambulance crews. One said injuries from settler attacks here.",
+      "zh": "道路上有救护车人员。一名人员说，这里的定居者袭击造成的伤情，"
+    },
+    {
+      "id": 29,
+      "startMs": 188960,
+      "endMs": 196160,
+      "en": "Including injured children, had risen this year, after Israeli soldiers had begun protecting settlers during assaults.",
+      "zh": "包括儿童受伤在内，今年的伤情增加了，因为以色列士兵开始在袭击期间保护定居者。"
+    },
+    {
+      "id": 30,
+      "startMs": 196160,
+      "endMs": 207280,
+      "en": "A UN commission has described a pattern of settlers intentionally targeting Palestinian children as part of a strategy to drive Palestinians off their land.",
+      "zh": "联合国委员会称，定居者蓄意针对巴勒斯坦儿童，这是一项把巴勒斯坦人赶出土地的策略。"
+    },
+    {
+      "id": 31,
+      "startMs": 207280,
+      "endMs": 215440,
+      "en": "In July, nine-year-old Salim was shot in the arm while playing on his family farm outside Al-Mughayyir.",
+      "zh": "7月，9岁的萨利姆在穆盖伊尔村外的家族农场玩耍时，手臂中弹。"
+    },
+    {
+      "id": 32,
+      "startMs": 217160,
+      "endMs": 224280,
+      "en": "A security camera shows him spotting Israeli settlers nearby, the family running for shelter as gunshots are heard.",
+      "zh": "一段监控录像显示，他发现附近有以色列定居者；枪声响起时，全家跑去躲避。"
+    },
+    {
+      "id": 33,
+      "startMs": 228600,
+      "endMs": 230760,
+      "en": "The bullet is still lodged in his arm.",
+      "zh": "子弹仍嵌在他的手臂里。"
+    },
+    {
+      "id": 34,
+      "startMs": 232980,
+      "endMs": 241460,
+      "en": "All Israeli settlements are illegal under international law, but growing violence by some settlers has increased pressure on Israel, including from the UK.",
+      "zh": "所有以色列定居点都违反国际法，但部分定居者不断升级的暴力行为增加了对以色列的压力，英国也在施压。"
+    },
+    {
+      "id": 35,
+      "startMs": 242180,
+      "endMs": 248660,
+      "en": "And Palestinian families, who have watched the outposts here expand, are now watching their kids.",
+      "zh": "巴勒斯坦家庭眼看着这里的前哨扩张，如今只能守望自己的孩子。"
+    },
+    {
+      "id": 36,
+      "startMs": 249460,
+      "endMs": 251860,
+      "en": "Our Middle East correspondent, Lucy Williamson.",
+      "zh": "本台中东记者露西·威廉姆森报道。"
+    },
+    {
+      "id": 37,
+      "startMs": 252420,
+      "endMs": 259460,
+      "en": "The measures expected to be announced by the British government on Tuesday include a reported ban on all products made in the Jewish settlements.",
+      "zh": "据报道，英国政府周二预计宣布的措施包括禁止所有产自犹太人定居点的产品。"
+    },
+    {
+      "id": 38,
+      "startMs": 259940,
+      "endMs": 262580,
+      "en": "The Israeli government has warned that it will retaliate.",
+      "zh": "以色列政府警告称将进行报复。"
+    },
+    {
+      "id": 39,
+      "startMs": 262660,
+      "endMs": 265700,
+      "en": "I heard more from our diplomatic correspondent, Paul Adams.",
+      "zh": "外交记者保罗·亚当斯将带来更多报道。"
+    },
+    {
+      "id": 40,
+      "startMs": 266180,
+      "endMs": 270100,
+      "en": "For the first time, the British government is going to move beyond a position which it's had for decades,",
+      "zh": "英国政府将首次超越其数十年来一直坚持的立场，"
+    },
+    {
+      "id": 41,
+      "startMs": 270100,
+      "endMs": 275140,
+      "en": "which is that Jewish settlements in the occupied West Bank are illegal, contrary to international law.",
+      "zh": "即被占领的约旦河西岸的犹太人定居点违法，违反国际法。"
+    },
+    {
+      "id": 42,
+      "startMs": 275220,
+      "endMs": 283940,
+      "en": "Moving beyond that to a position now where the British government will say that any products grown or manufactured in those settlements will be banned.",
+      "zh": "如今英国政府将更进一步，宣布在这些定居点种植或制造的任何产品都将被禁售。"
+    },
+    {
+      "id": 43,
+      "startMs": 284420,
+      "endMs": 288180,
+      "en": "It's something that campaigners have been pushing for for a long time.",
+      "zh": "这是活动人士长期以来一直推动的措施。"
+    },
+    {
+      "id": 44,
+      "startMs": 288660,
+      "endMs": 291460,
+      "en": "The government in the past has been reluctant to go down that route.",
+      "zh": "英国政府过去一直不愿走这条路。"
+    },
+    {
+      "id": 45,
+      "startMs": 291860,
+      "endMs": 296360,
+      "en": "Sometimes arguing that it would be difficult to enforce, it would be difficult to establish",
+      "zh": "他们有时辩称，这很难执行，也很难确定"
+    },
+    {
+      "id": 46,
+      "startMs": 296360,
+      "endMs": 301880,
+      "en": "what is and is not the product of a Jewish settlement as opposed to coming from Israel proper.",
+      "zh": "哪些产品来自犹太人定居点，而不是来自以色列本土。"
+    },
+    {
+      "id": 47,
+      "startMs": 302520,
+      "endMs": 311480,
+      "en": "But I think that the government, having last year recognized the state of Palestine, feels that it is now necessary to start taking action,",
+      "zh": "但我认为，英国政府去年承认巴勒斯坦国后，觉得现在有必要开始采取行动，"
+    },
+    {
+      "id": 48,
+      "startMs": 311720,
+      "endMs": 322440,
+      "en": "which shows not just a rhetorical support for Palestinian aspirations, but also that the British government should be seen to be punishing",
+      "zh": "这不仅表明其在口头上支持巴勒斯坦人的愿望，也表明英国政府应被视为在惩罚"
+    },
+    {
+      "id": 49,
+      "startMs": 322440,
+      "endMs": 329560,
+      "en": "what it sees as an increasingly untenable situation in the West Bank, with the expansion of Jewish settlements,",
+      "zh": "它认为约旦河西岸的局势正变得越来越难以维持，犹太人定居点也在扩张，"
+    },
+    {
+      "id": 50,
+      "startMs": 329880,
+      "endMs": 334680,
+      "en": "and of course, what we've seen in recent weeks, a real outbreak of settler violence.",
+      "zh": "当然，还有我们近几周看到的定居者暴力大规模爆发。"
+    },
+    {
+      "id": 51,
+      "startMs": 334840,
+      "endMs": 338920,
+      "en": "And how is this likely to go down with the Israeli government?",
+      "zh": "以色列政府可能会如何看待这件事？"
+    },
+    {
+      "id": 52,
+      "startMs": 339080,
+      "endMs": 343800,
+      "en": "The Israelis have been furious about this ever since the rumors started flying,",
+      "zh": "自相关传闻开始流传以来，以色列方面一直对此非常愤怒，"
+    },
+    {
+      "id": 53,
+      "startMs": 343800,
+      "endMs": 347800,
+      "en": "which was actually several weeks ago, that the government was moving in this direction.",
+      "zh": "而那其实是几周前的事，当时就有传闻称英国政府正朝这个方向行动。"
+    },
+    {
+      "id": 54,
+      "startMs": 348200,
+      "endMs": 351400,
+      "en": "They believe that this is pandering to Palestinian terrorism.",
+      "zh": "他们认为这是在迎合巴勒斯坦恐怖主义。"
+    },
+    {
+      "id": 55,
+      "startMs": 351720,
+      "endMs": 357980,
+      "en": "You heard the U.S. Ambassador to Israel, Mike Huckabee, talking about this government being infected with Jew hatred.",
+      "zh": "你听到美国驻以色列大使迈克·赫卡比谈到这个政府已被反犹仇恨所感染。"
+    },
+    {
+      "id": 56,
+      "startMs": 358380,
+      "endMs": 364620,
+      "en": "This is something that both in Washington and in Israel will be seen as a hostile move.",
+      "zh": "华盛顿和以色列方面都会把这视为敌对举动。"
+    },
+    {
+      "id": 57,
+      "startMs": 364860,
+      "endMs": 369740,
+      "en": "So far, the White House hasn't actually said anything, even though this is now starting to leak out.",
+      "zh": "到目前为止，白宫其实什么都没说，尽管这件事现在开始被泄露出来。"
+    },
+    {
+      "id": 58,
+      "startMs": 369900,
+      "endMs": 377180,
+      "en": "Certainly, Israel is not going to be happy about this because it is part of a growing international move of sanctions and isolation",
+      "zh": "以色列当然不会对此感到高兴，因为这是国际制裁和孤立行动不断扩大的组成部分，"
+    },
+    {
+      "id": 59,
+      "startMs": 377180,
+      "endMs": 382700,
+      "en": "with other countries—Spain, Ireland, Norway, the Netherlands—all going down a similar route.",
+      "zh": "西班牙、爱尔兰、挪威和荷兰等国都在走类似的路。"
+    },
+    {
+      "id": 60,
+      "startMs": 383020,
+      "endMs": 386780,
+      "en": "Is it likely to make the Israeli government change course at all?",
+      "zh": "这会让以色列政府改变路线吗？"
+    },
+    {
+      "id": 61,
+      "startMs": 387260,
+      "endMs": 389260,
+      "en": "I don't think anyone thinks that that is likely.",
+      "zh": "我认为没人觉得这有可能。"
+    },
+    {
+      "id": 62,
+      "startMs": 389580,
+      "endMs": 395660,
+      "en": "This government, under Prime Minister Benjamin Netanyahu, has been expanding settlements at a pretty furious pace.",
+      "zh": "本雅明·内塔尼亚胡总理领导的政府，一直在以相当惊人的速度扩建定居点。"
+    },
+    {
+      "id": 63,
+      "startMs": 395980,
+      "endMs": 402140,
+      "en": "Let's not forget that there's an Israeli election coming up in which standing up for Israel's biblical rights,",
+      "zh": "别忘了，以色列即将举行选举；在这场选举中，坚持以色列的圣经权利，"
+    },
+    {
+      "id": 64,
+      "startMs": 402140,
+      "endMs": 408540,
+      "en": "as the government would argue, is a matter of faith and also of political necessity.",
+      "zh": "正如政府所说，既是信仰问题，也是政治需要。"
+    },
+    {
+      "id": 65,
+      "startMs": 408540,
+      "endMs": 418640,
+      "en": "Perhaps, for Benjamin Netanyahu, he can't be seen by his political opponents and those on the right in general to be weak on a subject as central as this.",
+      "zh": "也许对本雅明·内塔尼亚胡来说，他不能被政治对手和右翼人士普遍看作在如此核心的问题上软弱。"
+    },
+    {
+      "id": 66,
+      "startMs": 418880,
+      "endMs": 423120,
+      "en": "So, if anything, it's probably going to put Israeli backs up and stiffen Israeli resolve.",
+      "zh": "所以，如果说有什么影响，它可能只会让以色列方面更为强硬，坚定其决心。"
+    },
+    {
+      "id": 67,
+      "startMs": 423440,
+      "endMs": 430960,
+      "en": "I think the government there knows that that is likely to be the Israeli reaction, but feels this is action that it has to take nonetheless.",
+      "zh": "我认为，英国政府知道以色列很可能会这样反应，但仍觉得这是它必须采取的行动。"
+    },
+    {
+      "id": 68,
+      "startMs": 431280,
+      "endMs": 433440,
+      "en": "Our diplomatic correspondent, Paul Adams.",
+      "zh": "本台外交事务记者保罗·亚当斯。"
+    },
+    {
+      "id": 69,
+      "startMs": 434080,
+      "endMs": 440480,
+      "en": "Russian is the first language of the overwhelming majority of people in Ukraine's third-largest city, Odesa.",
+      "zh": "俄语是乌克兰第三大城市敖德萨绝大多数居民的第一语言。"
+    },
+    {
+      "id": 70,
+      "startMs": 441040,
+      "endMs": 449120,
+      "en": "But on Wednesday, councillors there are due to vote on a proposal to ban Russian from the arts, public institutions and entertainment venues.",
+      "zh": "但周三，当地议员将就一项提案进行表决，拟禁止在艺术、公共机构和娱乐场所使用俄语。"
+    },
+    {
+      "id": 71,
+      "startMs": 449680,
+      "endMs": 458000,
+      "en": "Millions of people across Ukraine, including many fighting the invaders, speak Russian, but it's seen by some as the language of the enemy.",
+      "zh": "乌克兰各地有数百万人说俄语，其中包括许多正在抗击入侵者的人；但有些人把俄语视为敌人的语言。"
+    },
+    {
+      "id": 72,
+      "startMs": 458160,
+      "endMs": 461600,
+      "en": "So what's the view in Odesa? Tim Whewell has been to find out.",
+      "zh": "那么，敖德萨当地怎么看？蒂姆·惠韦尔前去了解情况。"
+    },
+    {
+      "id": 73,
+      "startMs": 462360,
+      "endMs": 466680,
+      "en": "It's a muggy summer night in Odesa.",
+      "zh": "这是敖德萨一个闷热的夏夜。"
+    },
+    {
+      "id": 74,
+      "startMs": 467080,
+      "endMs": 472280,
+      "en": "Russia is launching missiles at the city every few hours, but the Mask Theatre is packed.",
+      "zh": "俄罗斯每隔几小时就向这座城市发射导弹，但面具剧院座无虚席。"
+    },
+    {
+      "id": 75,
+      "startMs": 475600,
+      "endMs": 481520,
+      "en": "Veteran comic actor Boris Barsky, with his trademark waxed moustache, keeps the audience rolling in the aisles",
+      "zh": "资深喜剧演员鲍里斯·巴尔斯基留着标志性的打蜡胡子，让观众笑得前仰后合，"
+    },
+    {
+      "id": 76,
+      "startMs": 481520,
+      "endMs": 485600,
+      "en": "with classic Odesa humour in the main language of its streets, Russian.",
+      "zh": "用这座城市街头的主要语言——俄语——演绎经典的敖德萨式幽默。"
+    },
+    {
+      "id": 77,
+      "startMs": 486380,
+      "endMs": 493820,
+      "en": "He's allowed to use it on stage because this is a private theatre, but he's been fined for writing 'coffee' in Russian on the cafe menu.",
+      "zh": "因为这里是私人剧院，他获准在台上使用俄语；但他因在咖啡馆菜单上用俄语写“咖啡”而被罚款。"
+    },
+    {
+      "id": 78,
+      "startMs": 494380,
+      "endMs": 499900,
+      "en": "Signs in the language are banned, part of a complex web of restrictions he thinks are absurd.",
+      "zh": "使用这种语言的标牌被禁止；他认为这是复杂而荒谬的限制网络的一部分。"
+    },
+    {
+      "id": 79,
+      "startMs": 500220,
+      "endMs": 506140,
+      "en": "This isn't even like Orwell or Kafka.",
+      "zh": "这甚至不像奥威尔或卡夫卡笔下的情形。"
+    },
+    {
+      "id": 80,
+      "startMs": 506620,
+      "endMs": 508380,
+      "en": "It's just total madness.",
+      "zh": "这简直是彻底的疯狂。"
+    },
+    {
+      "id": 81,
+      "startMs": 508940,
+      "endMs": 515820,
+      "en": "Now, he's worried that a proposed moratorium on Russian-language content in the public sphere may even extend to songs.",
+      "zh": "现在，他担心拟议中的公共领域俄语内容暂停令甚至可能扩大到歌曲。"
+    },
+    {
+      "id": 82,
+      "startMs": 521760,
+      "endMs": 528080,
+      "en": "More songs have been written about Odesa than any other city.",
+      "zh": "关于敖德萨创作的歌曲比关于其他任何城市的都多。"
+    },
+    {
+      "id": 83,
+      "startMs": 528480,
+      "endMs": 530480,
+      "en": "How can you cut them out of our lives?",
+      "zh": "怎么能把它们从我们的生活中剔除？"
+    },
+    {
+      "id": 84,
+      "startMs": 530800,
+      "endMs": 535840,
+      "en": "But lawyer Artem Kartashov, who's helped the council to decolonise Odesa,",
+      "zh": "但律师阿尔乔姆·卡尔塔绍夫曾帮助市议会推动敖德萨去殖民化，"
+    },
+    {
+      "id": 85,
+      "startMs": 536080,
+      "endMs": 542400,
+      "en": "changing Soviet and Tsarist-era memorials and street names, says there's a problem with Russian songs in wartime.",
+      "zh": "通过更改苏联和沙皇时代的纪念物与街道名称；他说，战时的俄语歌曲存在问题。"
+    },
+    {
+      "id": 86,
+      "startMs": 542800,
+      "endMs": 550400,
+      "en": "Through Russian-speaking music or something else, Russians try to deconstruct Ukrainian identity",
+      "zh": "通过俄语音乐或其他方式，俄罗斯人试图解构乌克兰身份，"
+    },
+    {
+      "id": 87,
+      "startMs": 550800,
+      "endMs": 555040,
+      "en": "or try to influence, especially, young people.",
+      "zh": "或者尤其试图影响年轻人。"
+    },
+    {
+      "id": 88,
+      "startMs": 556040,
+      "endMs": 559160,
+      "en": "Language was instrumentalized by the Russian Federation as a weapon.",
+      "zh": "俄罗斯联邦将语言工具化，使其成为一种武器。"
+    },
+    {
+      "id": 89,
+      "startMs": 559880,
+      "endMs": 562200,
+      "en": "Photographer Natalia Mykhaylenko agrees.",
+      "zh": "摄影师娜塔莉娅·米哈伊连科对此表示认同。"
+    },
+    {
+      "id": 90,
+      "startMs": 562680,
+      "endMs": 565880,
+      "en": "She grew up speaking Russian, but switched to Ukrainian",
+      "zh": "她从小讲俄语，但后来改讲乌克兰语。"
+    },
+    {
+      "id": 91,
+      "startMs": 566120,
+      "endMs": 570200,
+      "en": "when she learned about Russia's centuries-long repression of Ukrainian culture.",
+      "zh": "因为她了解到俄罗斯对乌克兰文化长达数世纪的压制。"
+    },
+    {
+      "id": 92,
+      "startMs": 570600,
+      "endMs": 577400,
+      "en": "Now, when every day people are killed, it's very hard to hear Russian language.",
+      "zh": "如今，每天都有人被杀，听到俄语让人非常难受。"
+    },
+    {
+      "id": 93,
+      "startMs": 578300,
+      "endMs": 579980,
+      "en": "I think it's because of trauma.",
+      "zh": "我想这是因为创伤。"
+    },
+    {
+      "id": 94,
+      "startMs": 580140,
+      "endMs": 586560,
+      "en": "The most radical people is that people who are lost relatives.",
+      "zh": "最为激进的人，是那些失去亲属的人。"
+    },
+    {
+      "id": 95,
+      "startMs": 592340,
+      "endMs": 596820,
+      "en": "Ukrainian is already used for most purposes, except private conversation in Odesa.",
+      "zh": "在敖德萨，除了私人交谈，乌克兰语已经用于大多数场合。"
+    },
+    {
+      "id": 96,
+      "startMs": 596820,
+      "endMs": 603380,
+      "en": "Guides advertising excursions have switched to it; for example, as the law says, everyone must use it at work.",
+      "zh": "招揽游览生意的导游也改用乌克兰语；例如，法律规定每个人工作时都必须使用它。"
+    },
+    {
+      "id": 97,
+      "startMs": 604260,
+      "endMs": 608420,
+      "en": "Ukrainian and Russian are closely related, and most Odesans understand both.",
+      "zh": "乌克兰语和俄语关系密切，大多数敖德萨人两种语言都懂。"
+    },
+    {
+      "id": 98,
+      "startMs": 609140,
+      "endMs": 617220,
+      "en": "But Anastasia Piliavsky, an anthropologist who's founded a group campaigning for more open discussion of language issues, says that's not the point.",
+      "zh": "但人类学家阿纳斯塔西娅·皮利亚夫斯基创立了一个团体，倡导更开放地讨论语言问题；她说，问题并不在这里。"
+    },
+    {
+      "id": 99,
+      "startMs": 617540,
+      "endMs": 621780,
+      "en": "The question is not really one of language, but it's one of liberty, right?",
+      "zh": "问题其实不在于语言，而在于自由，对吧？"
+    },
+    {
+      "id": 100,
+      "startMs": 621780,
+      "endMs": 628820,
+      "en": "Because Ukraine has been fighting for freedom. For most Ukrainians, diversity is not a frill.",
+      "zh": "因为乌克兰一直在为自由而战。对大多数乌克兰人来说，多样性不是可有可无的装饰。"
+    },
+    {
+      "id": 101,
+      "startMs": 628980,
+      "endMs": 632660,
+      "en": "This is what they're fighting for. This is the reason for this war, right?",
+      "zh": "这就是他们战斗的目标。这就是这场战争的原因，对吧？"
+    },
+    {
+      "id": 102,
+      "startMs": 632980,
+      "endMs": 635700,
+      "en": "If you put it on hold, there's nothing to fight for.",
+      "zh": "如果把多样性搁置，就没有什么值得为之而战了。"
+    },
+    {
+      "id": 103,
+      "startMs": 636260,
+      "endMs": 640580,
+      "en": "It's not clear yet whether the council will approve a moratorium on Russian in the public sphere",
+      "zh": "目前还不清楚市议会是否会批准在公共领域暂停使用俄语，"
+    },
+    {
+      "id": 104,
+      "startMs": 641140,
+      "endMs": 644420,
+      "en": "or what exactly that would mean in practice for Boris Barsky's theatre.",
+      "zh": "或者这对鲍里斯·巴尔斯基的剧院在实际中究竟意味着什么。"
+    },
+    {
+      "id": 105,
+      "startMs": 644420,
+      "endMs": 651780,
+      "en": "At the end of his performances, he salutes jesters, his fellow actors, who defend the country by keeping it laughing.",
+      "zh": "演出结束时，他向小丑们——那些让国家保持笑声、守护国家的演员同行——致意。"
+    },
+    {
+      "id": 106,
+      "startMs": 652120,
+      "endMs": 655240,
+      "en": "And then its ultimate defenders, its armed forces.",
+      "zh": "然后向最终的守护者——武装部队——致意。"
+    },
+    {
+      "id": 107,
+      "startMs": 659720,
+      "endMs": 666520,
+      "en": "He wants Ukraine to win, but he thinks his country can fight Russia without needing to fight Russian, too.",
+      "zh": "他希望乌克兰获胜，但他认为自己的国家可以对抗俄罗斯，而不必也与俄语为敌。"
+    },
+    {
+      "id": 108,
+      "startMs": 667240,
+      "endMs": 669320,
+      "en": "That report from Odesa by Tim Whewell.",
+      "zh": "以上是蒂姆·惠韦尔从敖德萨发来的报道。"
+    },
+    {
+      "id": 109,
+      "startMs": 670500,
+      "endMs": 674660,
+      "en": "If the Duke and Duchess of Sussex hoped to be welcomed back into the royal fold",
+      "zh": "如果苏塞克斯公爵夫妇希望重返王室行列，"
+    },
+    {
+      "id": 110,
+      "startMs": 674660,
+      "endMs": 679620,
+      "en": "on their return to the UK, they'll have been disappointed by the clarification from King Charles.",
+      "zh": "那么他们回到英国后，查尔斯国王的澄清恐怕会令他们失望。"
+    },
+    {
+      "id": 111,
+      "startMs": 680100,
+      "endMs": 683940,
+      "en": "A letter sent on his behalf to a number of institutions in Britain states that",
+      "zh": "一封代表国王发给英国多家机构的信件声明，"
+    },
+    {
+      "id": 112,
+      "startMs": 684100,
+      "endMs": 688500,
+      "en": "Harry and Meghan will not be undertaking any activities as working royals",
+      "zh": "哈里和梅根不会以在职王室成员的身份开展任何活动，"
+    },
+    {
+      "id": 113,
+      "startMs": 688820,
+      "endMs": 690340,
+      "en": "only as private citizens.",
+      "zh": "只能以普通公民身份活动。"
+    },
+    {
+      "id": 114,
+      "startMs": 690660,
+      "endMs": 695380,
+      "en": "The couple, who spent the past six years living in California, moved back here last month.",
+      "zh": "这对夫妇过去六年居住在加州，上个月搬回了英国。"
+    },
+    {
+      "id": 115,
+      "startMs": 695700,
+      "endMs": 698420,
+      "en": "Our royal correspondent, Daniela Relph, told us more.",
+      "zh": "我们的王室事务记者丹妮拉·雷尔夫为我们作进一步介绍。"
+    },
+    {
+      "id": 116,
+      "startMs": 699220,
+      "endMs": 702980,
+      "en": "The return of the Duke and Duchess of Sussex has thrown up some unexpected moments",
+      "zh": "苏塞克斯公爵夫妇的回归在过去几周引发了一些意外时刻，"
+    },
+    {
+      "id": 117,
+      "startMs": 703300,
+      "endMs": 706660,
+      "en": "over the past couple of weeks, and this letter is another one of those.",
+      "zh": "而这封信就是其中之一。"
+    },
+    {
+      "id": 118,
+      "startMs": 706660,
+      "endMs": 712740,
+      "en": "It also comes at the same time as we have seen some new images of Prince Harry on social media",
+      "zh": "与此同时，我们还在社交媒体上看到了哈里王子的一些新照片，"
+    },
+    {
+      "id": 119,
+      "startMs": 713060,
+      "endMs": 716660,
+      "en": "of him visiting a TV and podcast studio in London.",
+      "zh": "照片显示他造访了伦敦的一家电视和播客工作室。"
+    },
+    {
+      "id": 120,
+      "startMs": 716980,
+      "endMs": 722100,
+      "en": "It is the first sighting we have had of him since returning to the UK with his family.",
+      "zh": "这是他与家人返回英国后，我们首次看到他的行踪。"
+    },
+    {
+      "id": 121,
+      "startMs": 722580,
+      "endMs": 729140,
+      "en": "But that letter, which has been written by one of the most senior royal officials on behalf of the King, makes it clear",
+      "zh": "但这封由一位最高级别王室官员代表国王撰写的信明确表示，"
+    },
+    {
+      "id": 122,
+      "startMs": 729460,
+      "endMs": 731960,
+      "en": "that Harry and Meghan's status is unchanged.",
+      "zh": "哈里和梅根的身份没有改变。"
+    },
+    {
+      "id": 123,
+      "startMs": 732280,
+      "endMs": 736440,
+      "en": "It stresses that their titles of His and Her Royal Highness will still not be used",
+      "zh": "信中强调，他们的殿下头衔仍不会被使用，"
+    },
+    {
+      "id": 124,
+      "startMs": 736440,
+      "endMs": 738520,
+      "en": "because they are non-working royals.",
+      "zh": "因为他们是不履行公务的王室成员。"
+    },
+    {
+      "id": 125,
+      "startMs": 738840,
+      "endMs": 743800,
+      "en": "It describes their charity work as being undertaken only in a private capacity.",
+      "zh": "信中称，他们的慈善工作只能以私人身份开展。"
+    },
+    {
+      "id": 126,
+      "startMs": 744120,
+      "endMs": 749240,
+      "en": "On Harry and Meghan's security provision, it says that is a matter for the relevant police authority.",
+      "zh": "关于哈里和梅根的安保，信中说那属于相关警方的职责。"
+    },
+    {
+      "id": 127,
+      "startMs": 749640,
+      "endMs": 754600,
+      "en": "The letter has been sent to a number of public bodies and organisations, including government departments and the military.",
+      "zh": "这封信已发给多个公共机构和组织，包括政府部门及军方。"
+    },
+    {
+      "id": 128,
+      "startMs": 754840,
+      "endMs": 763240,
+      "en": "And it is the royal household asserting its position on Harry and Meghan, which is that they will not be doing any kind of official royal duties.",
+      "zh": "这是王室在重申其对哈里和梅根的立场：他们不会履行任何官方王室职责。"
+    },
+    {
+      "id": 129,
+      "startMs": 763240,
+      "endMs": 767080,
+      "en": "And why now? Well, because over the next few weeks, we are likely to see",
+      "zh": "那为什么是现在？因为未来几周，我们可能会看到"
+    },
+    {
+      "id": 130,
+      "startMs": 767400,
+      "endMs": 771640,
+      "en": "senior members of the Royal Family out on royal duty at the same time as the Sussexes",
+      "zh": "王室高级成员履行公务，而苏塞克斯夫妇同时"
+    },
+    {
+      "id": 131,
+      "startMs": 771640,
+      "endMs": 773400,
+      "en": "are doing their own charity engagements.",
+      "zh": "开展他们自己的慈善活动。"
+    },
+    {
+      "id": 132,
+      "startMs": 773400,
+      "endMs": 776520,
+      "en": "So, this letter was about offering clarity on their status.",
+      "zh": "所以，这封信是为了明确他们的身份。"
+    },
+    {
+      "id": 133,
+      "startMs": 776920,
+      "endMs": 781720,
+      "en": "Daniela Relph. So, where does this leave the Royal Family's relationship with the Sussexes?",
+      "zh": "丹妮拉·雷尔夫。那么，这让王室与苏塞克斯夫妇的关系处于什么状态？"
+    },
+    {
+      "id": 134,
+      "startMs": 782040,
+      "endMs": 783800,
+      "en": "Here's royal commentator Jennie Bond.",
+      "zh": "王室评论员珍妮·邦德对此作出解释。"
+    },
+    {
+      "id": 135,
+      "startMs": 784640,
+      "endMs": 791600,
+      "en": "I think the Royal Family now feel, and I think William has a say in this, you know, that they are now drawing a line under Harry and Meghan's status",
+      "zh": "我认为王室现在有这种感觉，而且我想威廉也参与了决定：他们现在要为哈里和梅根的身份划下句号"
+    },
+    {
+      "id": 136,
+      "startMs": 791600,
+      "endMs": 798640,
+      "en": "and they will be out and about doing their best to get us and the public to focus on what they are up to.",
+      "zh": "他们会四处活动，尽力让我们和公众把注意力放在他们正在做的事情上。"
+    },
+    {
+      "id": 137,
+      "startMs": 798720,
+      "endMs": 804400,
+      "en": "Whether they will succeed is quite another question, because they can say it as much as they want",
+      "zh": "他们能否成功是另一回事，因为他们可以一再声称，"
+    },
+    {
+      "id": 138,
+      "startMs": 804560,
+      "endMs": 809520,
+      "en": "that Harry and Meghan are not working royals, and they can say it as much as they want",
+      "zh": "哈里和梅根不是在职王室成员，而且他们可以想说多少遍就说多少遍，"
+    },
+    {
+      "id": 139,
+      "startMs": 809520,
+      "endMs": 812240,
+      "en": "that they cannot be half in and half out,",
+      "zh": "他们不可能半在其中、半在其外，"
+    },
+    {
+      "id": 140,
+      "startMs": 812880,
+      "endMs": 817840,
+      "en": "but I think they are. I think this is really what Harry and Meghan have achieved.",
+      "zh": "但我认为他们就是这样。我认为这正是哈里和梅根实现的状态。"
+    },
+    {
+      "id": 141,
+      "startMs": 817840,
+      "endMs": 823120,
+      "en": "As the statement makes clear, they can undertake their charitable work in a private capacity",
+      "zh": "正如声明所明确的，他们可以以私人身份开展慈善工作，"
+    },
+    {
+      "id": 142,
+      "startMs": 823520,
+      "endMs": 827840,
+      "en": "and they can also pursue their commercial interests as they wish.",
+      "zh": "也可以自行追求商业利益。"
+    },
+    {
+      "id": 143,
+      "startMs": 828480,
+      "endMs": 830800,
+      "en": "To me, it seems all in name: half in and half out.",
+      "zh": "在我看来，这只是名义上的区别：半在其中、半在其外。"
+    },
+    {
+      "id": 144,
+      "startMs": 831280,
+      "endMs": 832880,
+      "en": "Royal commentator Jennie Bond.",
+      "zh": "王室评论员珍妮·邦德。"
+    },
+    {
+      "id": 145,
+      "startMs": 835440,
+      "endMs": 842960,
+      "en": "And still to come on this podcast: obviously, if you come to a sporting event, you have to respect the sport, especially like the etiquette.",
+      "zh": "本期节目稍后还将谈到：显然，参加体育赛事就必须尊重这项运动，尤其要遵守礼仪。"
+    },
+    {
+      "id": 146,
+      "startMs": 843040,
+      "endMs": 845360,
+      "en": "I think it has to be managed a lot better.",
+      "zh": "我认为这必须得到更好的管理。"
+    },
+    {
+      "id": 147,
+      "startMs": 845760,
+      "endMs": 849280,
+      "en": "Are loud influencers ruining tennis tournaments?",
+      "zh": "喧闹的网红正在毁掉网球赛事吗？"
+    },
+    {
+      "id": 148,
+      "startMs": 849280,
+      "endMs": 851680,
+      "en": "You're listening to the Global News Podcast.",
+      "zh": "你正在收听《全球新闻播客》。"
+    },
+    {
+      "id": 149,
+      "startMs": 852160,
+      "endMs": 860160,
+      "en": "The Eiffel Tower was closed on Monday as a result of a row over a visit by a conservative Hindu group with links to the Indian Prime Minister.",
+      "zh": "周一，埃菲尔铁塔因一个与印度总理有关联的保守派印度教团体到访引发争议而关闭。"
+    },
+    {
+      "id": 150,
+      "startMs": 860560,
+      "endMs": 865600,
+      "en": "About 100 members from the BAPS organisation toured the attraction on Saturday,",
+      "zh": "周六，约100名来自BAPS组织的成员参观了这处景点，"
+    },
+    {
+      "id": 151,
+      "startMs": 866000,
+      "endMs": 871200,
+      "en": "but women working there were apparently told to make themselves scarce to avoid interacting with the group.",
+      "zh": "但据称，那里工作的女性被要求避开，以免与该团体接触。"
+    },
+    {
+      "id": 152,
+      "startMs": 871520,
+      "endMs": 873520,
+      "en": "Staff later went on strike in protest.",
+      "zh": "员工随后举行罢工以示抗议。"
+    },
+    {
+      "id": 153,
+      "startMs": 873840,
+      "endMs": 876720,
+      "en": "Our global affairs reporter Mimi Swaby told me what happened.",
+      "zh": "我们的全球事务记者米米·斯瓦比告诉了我事情经过。"
+    },
+    {
+      "id": 154,
+      "startMs": 877280,
+      "endMs": 882160,
+      "en": "So the operator of the Eiffel Tower said a group had requested a private viewing on Saturday,",
+      "zh": "埃菲尔铁塔运营方说，一个团体要求在周六进行私人参观，"
+    },
+    {
+      "id": 155,
+      "startMs": 882160,
+      "endMs": 888000,
+      "en": "and this group was made up of about 100 members or people linked to the BAPS group,",
+      "zh": "这个团体由约100名成员或与BAPS组织有关的人组成，"
+    },
+    {
+      "id": 156,
+      "startMs": 888000,
+      "endMs": 891760,
+      "en": "and they were part of a delegation, which was a wider group",
+      "zh": "他们是一个代表团的成员，而代表团属于更大的团体，"
+    },
+    {
+      "id": 157,
+      "startMs": 891840,
+      "endMs": 896880,
+      "en": "where representatives were in Paris for events linked to the inauguration of a Hindu temple.",
+      "zh": "该团体的代表来到巴黎，参加与一座印度教寺庙落成有关的活动。"
+    },
+    {
+      "id": 158,
+      "startMs": 897280,
+      "endMs": 906720,
+      "en": "Now, the group went into the tourist hotspot, and they had their visit organised with the request to limit interaction with women.",
+      "zh": "这个团体随后进入这处旅游热点，并要求安排参观时限制与女性接触。"
+    },
+    {
+      "id": 159,
+      "startMs": 907200,
+      "endMs": 912420,
+      "en": "Now, the operator of the Eiffel Tower acknowledged these conditions should not have been accepted;",
+      "zh": "埃菲尔铁塔运营方承认，这些条件本不应被接受；"
+    },
+    {
+      "id": 160,
+      "startMs": 912500,
+      "endMs": 919140,
+      "en": "however, they were, and female employees were asked to leave their position, step out of sight, and then were replaced by their male counterparts.",
+      "zh": "然而它们还是被接受了，女性员工被要求离开岗位，走到视线之外，随后由男性同事替代。"
+    },
+    {
+      "id": 161,
+      "startMs": 919460,
+      "endMs": 922260,
+      "en": "And this, unsurprisingly, left them incredibly shocked.",
+      "zh": "这自然让她们极为震惊。"
+    },
+    {
+      "id": 162,
+      "startMs": 922260,
+      "endMs": 925780,
+      "en": "And we heard from a workers' union that during the course of the weekend,",
+      "zh": "我们从一个工会那里了解到，周末期间，"
+    },
+    {
+      "id": 163,
+      "startMs": 925860,
+      "endMs": 934180,
+      "en": "this shock turned to anger, really sparking outrage amongst staff, and then drawing criticism from the wider public and French politicians.",
+      "zh": "这种震惊转为愤怒，在员工中引发强烈不满，也招致公众和法国政界人士的批评。"
+    },
+    {
+      "id": 164,
+      "startMs": 934340,
+      "endMs": 936500,
+      "en": "Yeah, tell us more about the reaction.",
+      "zh": "好的，请进一步谈谈各方反应。"
+    },
+    {
+      "id": 165,
+      "startMs": 936820,
+      "endMs": 942020,
+      "en": "So the president of the National Assembly has said that welcoming others never means giving up French values,",
+      "zh": "法国国民议会议长说，欢迎他人绝不意味着放弃法国价值观，"
+    },
+    {
+      "id": 166,
+      "startMs": 942020,
+      "endMs": 947860,
+      "en": "and that in France, women are fully present in public life and no one tells them to become invisible.",
+      "zh": "在法国，女性充分参与公共生活，没有人会要求她们隐身。"
+    },
+    {
+      "id": 167,
+      "startMs": 948100,
+      "endMs": 952340,
+      "en": "And it's really the sidelining and the replacement of female staff during this visit",
+      "zh": "正是此次访问期间让女性员工靠边站并由他人替代，"
+    },
+    {
+      "id": 168,
+      "startMs": 952340,
+      "endMs": 956340,
+      "en": "which has caused a lot of anger and debate, especially online as well.",
+      "zh": "引发了大量愤怒和争论，尤其是在网上。"
+    },
+    {
+      "id": 169,
+      "startMs": 956340,
+      "endMs": 959460,
+      "en": "We've heard from the mayor of Paris, Emmanuel Grégoire.",
+      "zh": "我们听到了巴黎市长埃马纽埃尔·格雷瓜尔的说法。"
+    },
+    {
+      "id": 170,
+      "startMs": 959860,
+      "endMs": 966820,
+      "en": "He expressed support for the strike in a post on social media on X, and described the exclusion of the female workers as unacceptable.",
+      "zh": "他在社交媒体X上发文支持罢工，并称排斥女性员工的做法不可接受。"
+    },
+    {
+      "id": 171,
+      "startMs": 966820,
+      "endMs": 970360,
+      "en": "He said the discontent they had was legitimate. He stood with them.",
+      "zh": "他说她们的不满是合理的，并表示支持她们。"
+    },
+    {
+      "id": 172,
+      "startMs": 970680,
+      "endMs": 976120,
+      "en": "He also said that this incident was contrary to the values that the Eiffel Tower stands for,",
+      "zh": "他还说，这起事件违背了埃菲尔铁塔所代表的价值观，"
+    },
+    {
+      "id": 173,
+      "startMs": 976520,
+      "endMs": 982520,
+      "en": "and also said that he personally will make sure that it is amended and an investigation is launched as soon as possible.",
+      "zh": "并表示他本人会确保尽快修正这一情况并启动调查。"
+    },
+    {
+      "id": 174,
+      "startMs": 983080,
+      "endMs": 989160,
+      "en": "In a statement as well from the trade union, a similar sentiment: they condemned the workplace instructions",
+      "zh": "工会的声明也表达了类似观点：他们谴责相关工作指令，"
+    },
+    {
+      "id": 175,
+      "startMs": 989240,
+      "endMs": 994760,
+      "en": "that led to female employees being sidelined — again, that word, being sidelined — and then replaced by male colleagues.",
+      "zh": "这些指令导致女性员工被边缘化——再说一遍，是被边缘化——随后由男性同事替代。"
+    },
+    {
+      "id": 176,
+      "startMs": 994920,
+      "endMs": 998040,
+      "en": "So, all in a similar vein, but a lot of anger across the board",
+      "zh": "总的来说，情况相似，但各方都非常愤怒，"
+    },
+    {
+      "id": 177,
+      "startMs": 998040,
+      "endMs": 1003160,
+      "en": "from trade unions to the mayor of Paris and the president of the National Assembly being a few examples.",
+      "zh": "从工会到巴黎市长和国民议会议长，都是其中几个例子。"
+    },
+    {
+      "id": 178,
+      "startMs": 1003480,
+      "endMs": 1007940,
+      "en": "Mimi Swaby. It's been a terrible year for the French wine industry.",
+      "zh": "米米·斯瓦比报道。法国葡萄酒业经历了糟糕的一年。"
+    },
+    {
+      "id": 179,
+      "startMs": 1007940,
+      "endMs": 1011300,
+      "en": "Champagne production is half what it was last year.",
+      "zh": "香槟产量只有去年的一半。"
+    },
+    {
+      "id": 180,
+      "startMs": 1011780,
+      "endMs": 1017060,
+      "en": "The cause is a by now familiar one: severe heat and drought, which has damaged vines and grapes.",
+      "zh": "原因如今已很熟悉：酷热和干旱损害了葡萄藤和葡萄。"
+    },
+    {
+      "id": 181,
+      "startMs": 1017300,
+      "endMs": 1020980,
+      "en": "Evan Davis heard more from wine expert Gabrielle Vizzavona.",
+      "zh": "埃文·戴维斯听取了葡萄酒专家加布里埃尔·维扎沃纳的更多介绍。"
+    },
+    {
+      "id": 182,
+      "startMs": 1021620,
+      "endMs": 1029620,
+      "en": "The French Ministry of Agriculture published its harvest estimate at 33.9 million hectolitres, which is the lowest",
+      "zh": "法国农业部公布的葡萄酒产量预估为3390万百升，这是最低水平，"
+    },
+    {
+      "id": 183,
+      "startMs": 1029620,
+      "endMs": 1032260,
+      "en": "not in 30 years, but in 70 years.",
+      "zh": "不是30年来最低，而是70年来最低。"
+    },
+    {
+      "id": 184,
+      "startMs": 1032580,
+      "endMs": 1035940,
+      "en": "And these estimates generally are pretty optimistic.",
+      "zh": "而且这些预估通常相当乐观。"
+    },
+    {
+      "id": 185,
+      "startMs": 1036340,
+      "endMs": 1040180,
+      "en": "So the situation is bad and obviously linked to the climate.",
+      "zh": "所以情况很糟，显然与气候有关。"
+    },
+    {
+      "id": 186,
+      "startMs": 1040580,
+      "endMs": 1044500,
+      "en": "Yeah, now, two questions. One is about the taste of the wine. Is it a good vintage?",
+      "zh": "好的，现在有两个问题。一个是关于葡萄酒的口感。这是一个好的年份酒吗？"
+    },
+    {
+      "id": 187,
+      "startMs": 1045020,
+      "endMs": 1049020,
+      "en": "This we will know only afterwards, but generally vintages that are dry",
+      "zh": "这要到后来才能知道，但通常来说，干燥年份的葡萄酒，"
+    },
+    {
+      "id": 188,
+      "startMs": 1049260,
+      "endMs": 1055180,
+      "en": "Vintages in which the vines are challenged make pretty good vintages, but the quantities are going to be very poor.",
+      "zh": "也就是葡萄藤受到挑战的年份，往往能酿出相当好的酒，但产量会非常低。"
+    },
+    {
+      "id": 189,
+      "startMs": 1055420,
+      "endMs": 1060140,
+      "en": "Do you expect higher prices, maybe even a slightly better wine, but just much less of it?",
+      "zh": "你预计价格会上涨，酒的品质或许会稍好一些，但产量会少得多吗？"
+    },
+    {
+      "id": 190,
+      "startMs": 1060380,
+      "endMs": 1070300,
+      "en": "In the last two years, 2025 and 2026, the climate economically speaking is very different because there's a huge decrease in consumption",
+      "zh": "过去两年，也就是2025年和2026年，从经济角度看，形势大不相同，因为消费量大幅下降，"
+    },
+    {
+      "id": 191,
+      "startMs": 1070700,
+      "endMs": 1076380,
+      "en": "and because the consumers as well are a little bit tired to have these corrections in prices that never go down afterwards.",
+      "zh": "而且消费者也有些厌倦价格被这样调整，因为价格之后从来不会下降。"
+    },
+    {
+      "id": 192,
+      "startMs": 1076780,
+      "endMs": 1081820,
+      "en": "So I think it might not be the case because the market would backfire.",
+      "zh": "所以我认为可能不会这样，因为市场会产生反作用。"
+    },
+    {
+      "id": 193,
+      "startMs": 1081900,
+      "endMs": 1088300,
+      "en": "So they don't have the pricing power to say, oh well, we're selling less but it's a more scarce resource. You pay a little bit more for it this year.",
+      "zh": "所以他们没有定价权，不能说，哦，我们卖得少了，但这是一种更稀缺的资源。今年你就要为它多付一点钱。"
+    },
+    {
+      "id": 194,
+      "startMs": 1088380,
+      "endMs": 1096620,
+      "en": "I doubt it, because if we take the two very last bad vintages, 2017, 2021, the climate was pretty different",
+      "zh": "我对此表示怀疑，因为看看最近两个糟糕的年份，2017年和2021年，当时的气候很不一样，"
+    },
+    {
+      "id": 195,
+      "startMs": 1096700,
+      "endMs": 1101900,
+      "en": "and the bulk price and the fine wine prices climbed, and the exports hit a record in 2022.",
+      "zh": "散装酒和优质葡萄酒的价格都上涨了，出口量还在2022年创下纪录。"
+    },
+    {
+      "id": 196,
+      "startMs": 1101900,
+      "endMs": 1106720,
+      "en": "Today, we have a lot of problems that have been settling down.",
+      "zh": "如今，我们有许多问题正在逐渐平息。"
+    },
+    {
+      "id": 197,
+      "startMs": 1106960,
+      "endMs": 1111360,
+      "en": "World consumption since 2018 has decreased 14%.",
+      "zh": "自2018年以来，全球消费量下降了14%。"
+    },
+    {
+      "id": 198,
+      "startMs": 1111440,
+      "endMs": 1118720,
+      "en": "China, it was a market we were betting on big time, and it decreased 73% since 2018.",
+      "zh": "中国曾是我们寄予厚望的市场，但自2018年以来消费量下降了73%。"
+    },
+    {
+      "id": 199,
+      "startMs": 1119120,
+      "endMs": 1125440,
+      "en": "The US, first market since 2013, is super unstable.",
+      "zh": "美国自2013年以来一直是第一大市场，但极不稳定。"
+    },
+    {
+      "id": 200,
+      "startMs": 1125760,
+      "endMs": 1131280,
+      "en": "In the last 18 months, there were five different tariff regimes that were adopted by the Trump administration.",
+      "zh": "过去18个月里，特朗普政府采取了五套不同的关税制度。"
+    },
+    {
+      "id": 201,
+      "startMs": 1131360,
+      "endMs": 1139280,
+      "en": "The young generation, they think it's cool to be sober, and there is this health movement that has been harming wine consumption a lot.",
+      "zh": "年轻一代认为保持清醒很酷，而这股健康风潮一直在严重影响葡萄酒消费。"
+    },
+    {
+      "id": 202,
+      "startMs": 1139280,
+      "endMs": 1145200,
+      "en": "So I don't think a price correction would be a good idea, at least for people who bet on volumes.",
+      "zh": "所以我认为价格调整不是好主意，至少对那些押注销量的人来说不是。"
+    },
+    {
+      "id": 203,
+      "startMs": 1145200,
+      "endMs": 1148640,
+      "en": "I think they will be very, very annoyed by the situation.",
+      "zh": "我想他们会对这种情况非常、非常恼火。"
+    },
+    {
+      "id": 204,
+      "startMs": 1148880,
+      "endMs": 1153760,
+      "en": "Yeah, Champagne probably down 48%, Burgundy 33%.",
+      "zh": "是的，香槟酒产量可能下降48%，勃艮第下降33%。"
+    },
+    {
+      "id": 205,
+      "startMs": 1154240,
+      "endMs": 1156560,
+      "en": "So, yeah, it's a big decrease.",
+      "zh": "所以，没错，降幅很大。"
+    },
+    {
+      "id": 206,
+      "startMs": 1156960,
+      "endMs": 1159920,
+      "en": "Gabrielle Vizzavona, talking to Evan Davis.",
+      "zh": "加布里埃尔·维扎沃纳接受埃文·戴维斯采访。"
+    },
+    {
+      "id": 207,
+      "startMs": 1160320,
+      "endMs": 1164480,
+      "en": "Noisy influencers at this year's US Open tennis have been accused of disrupting",
+      "zh": "今年美国网球公开赛上喧闹的网红被指扰乱了比赛，"
+    },
+    {
+      "id": 208,
+      "startMs": 1164500,
+      "endMs": 1168340,
+      "en": "play, drawing the anger of players and spectators alike.",
+      "zh": "引发了球员和观众的共同愤怒。"
+    },
+    {
+      "id": 209,
+      "startMs": 1168980,
+      "endMs": 1175140,
+      "en": "Now the All England Lawn Tennis Club has announced curbs on content creators at its tournament at Wimbledon next year.",
+      "zh": "如今，英国全英草地网球俱乐部宣布，明年在温布尔登举办的赛事将限制内容创作者。"
+    },
+    {
+      "id": 210,
+      "startMs": 1175540,
+      "endMs": 1178500,
+      "en": "It's an apparent U-turn on its policy of inviting them along",
+      "zh": "这显然是对邀请他们参加赛事政策的一次急转弯，"
+    },
+    {
+      "id": 211,
+      "startMs": 1178500,
+      "endMs": 1180820,
+      "en": "to try to bring younger people to the sport.",
+      "zh": "此前邀请他们是为了吸引年轻人参与这项运动。"
+    },
+    {
+      "id": 212,
+      "startMs": 1181380,
+      "endMs": 1182820,
+      "en": "Stephanie Prentice reports.",
+      "zh": "斯蒂芬妮·普伦蒂斯报道。"
+    },
+    {
+      "id": 213,
+      "startMs": 1185500,
+      "endMs": 1189980,
+      "en": "Did you miss us? Because we missed you.",
+      "zh": "想我们了吗？因为我们想你们了。"
+    },
+    {
+      "id": 214,
+      "startMs": 1190140,
+      "endMs": 1193820,
+      "en": "From spectators live-streaming to filming dance routines during points,",
+      "zh": "从观众直播，到在每分比赛期间拍摄舞蹈动作，"
+    },
+    {
+      "id": 215,
+      "startMs": 1194220,
+      "endMs": 1199500,
+      "en": "the US Open tennis tournament was undeniably rowdier than usual over the weekend.",
+      "zh": "美国网球公开赛上周末无疑比平时更加喧闹。"
+    },
+    {
+      "id": 216,
+      "startMs": 1200300,
+      "endMs": 1206060,
+      "en": "It came to a head when a group doing a photo shoot in a hospitality suite turned on a ring light",
+      "zh": "事态在一件事上达到高潮：一群人在贵宾接待套房拍照时打开了环形灯，"
+    },
+    {
+      "id": 217,
+      "startMs": 1206300,
+      "endMs": 1215100,
+      "en": "as two-time champion Naomi Osaka was serving, prompting a rare reprimand from the umpire and later from Osaka herself.",
+      "zh": "当时两届冠军大坂直美正在发球，引来裁判罕见的斥责，后来大坂直美本人也进行了斥责。"
+    },
+    {
+      "id": 218,
+      "startMs": 1215580,
+      "endMs": 1221980,
+      "en": "I think, obviously, if you come to a sporting event, you have to respect the sport, especially, like, the etiquette.",
+      "zh": "我认为，显然，如果你来到体育赛事，就必须尊重这项运动，尤其要遵守礼仪。"
+    },
+    {
+      "id": 219,
+      "startMs": 1222380,
+      "endMs": 1231180,
+      "en": "I mean, I feel like it could be a good thing for people to make the sport of tennis popular to their specific audience",
+      "zh": "我的意思是，我觉得让网球运动在特定受众中流行起来，对大家来说可能是件好事，"
+    },
+    {
+      "id": 220,
+      "startMs": 1231180,
+      "endMs": 1237740,
+      "en": "but I think it has to be managed a lot better, especially in the situation like my first-round match.",
+      "zh": "但我认为这需要更好的管理，尤其是在我这样的首轮比赛中。"
+    },
+    {
+      "id": 221,
+      "startMs": 1238460,
+      "endMs": 1244140,
+      "en": "Fellow player Coco Gauff said brands inviting influencers have to be responsible for them.",
+      "zh": "另一位球员可可·高芙说，邀请网红的品牌必须对他们负责。"
+    },
+    {
+      "id": 222,
+      "startMs": 1244860,
+      "endMs": 1248400,
+      "en": "Any venue you come to, you have to follow the etiquette towards it.",
+      "zh": "无论你来到哪个场馆，都必须遵守那里的礼仪。"
+    },
+    {
+      "id": 223,
+      "startMs": 1248400,
+      "endMs": 1251360,
+      "en": "I think it may be on some of the brands too, maybe to have",
+      "zh": "我认为一些品牌也许应该，或许可以，"
+    },
+    {
+      "id": 224,
+      "startMs": 1251440,
+      "endMs": 1254480,
+      "en": "like a sign plastered or something in the suite so that they know",
+      "zh": "在套房里贴一块标牌之类的东西，让他们知道，"
+    },
+    {
+      "id": 225,
+      "startMs": 1254800,
+      "endMs": 1264160,
+      "en": "This was all being watched by another famous tournament, Wimbledon in the UK, who've decided it's game, set, and match for content creators.",
+      "zh": "这一切都被英国另一项著名赛事温布尔登看在眼里，温布尔登已经决定，内容创作者的机会就此结束。"
+    },
+    {
+      "id": 226,
+      "startMs": 1267760,
+      "endMs": 1277680,
+      "en": "Wimbledon is famous for promoting a quiet atmosphere with spectators unable to leave their seat during play, let alone shoot a lip-syncing video.",
+      "zh": "温布尔登以营造安静氛围闻名，比赛期间观众不能离开座位，更不用说拍摄对口型视频了。"
+    },
+    {
+      "id": 227,
+      "startMs": 1278080,
+      "endMs": 1282000,
+      "en": "And it has previously accommodated brands bringing creators in.",
+      "zh": "此前它也曾允许品牌带内容创作者入场。"
+    },
+    {
+      "id": 228,
+      "startMs": 1282480,
+      "endMs": 1286480,
+      "en": "Does the viral strawberries and cream at Wimbledon actually have 10 strawberries in them?",
+      "zh": "温布尔登走红的草莓奶油甜点里，真的有10颗草莓吗？"
+    },
+    {
+      "id": 229,
+      "startMs": 1286480,
+      "endMs": 1294240,
+      "en": "Well, guys. Now it says it will not accredit influencers alongside traditional media at next summer's tournament",
+      "zh": "好了，各位。现在公告说，明年夏季的赛事不会给网红和传统媒体同等的采访证，"
+    },
+    {
+      "id": 230,
+      "startMs": 1294560,
+      "endMs": 1298640,
+      "en": "and it's also banning key pieces of their kit like lighting rigs.",
+      "zh": "还会禁止他们使用照明设备等关键装备。"
+    },
+    {
+      "id": 231,
+      "startMs": 1298960,
+      "endMs": 1304080,
+      "en": "Some influencers have responded, saying tennis needs to adapt to modern times.",
+      "zh": "一些网红回应说，网球需要适应现代时代。"
+    },
+    {
+      "id": 232,
+      "startMs": 1304640,
+      "endMs": 1310880,
+      "en": "Others say anyone attending has to educate themselves and play by the rules. Stephanie Prentice.",
+      "zh": "另一些人说，所有观众都必须自我约束并遵守规则。斯蒂芬妮·普伦蒂斯报道。"
+    },
+    {
+      "id": 233,
+      "startMs": 1311860,
+      "endMs": 1316900,
+      "en": "Seeing your baby for the first time on an ultrasound screen is a moment many parents treasure.",
+      "zh": "第一次在超声波屏幕上看到宝宝，是许多家长珍视的时刻。"
+    },
+    {
+      "id": 234,
+      "startMs": 1317460,
+      "endMs": 1322900,
+      "en": "A new pilot scheme here in the UK will allow people living with sight loss to experience it too.",
+      "zh": "英国的一项新试点计划也将让视力受损者体验这一时刻。"
+    },
+    {
+      "id": 235,
+      "startMs": 1323540,
+      "endMs": 1331220,
+      "en": "It turns the scans into 3D printed models, allowing expectant parents to feel the shape and features of their unborn child.",
+      "zh": "它把扫描图变成3D打印模型，让准父母触摸未出生孩子的形状和特征。"
+    },
+    {
+      "id": 236,
+      "startMs": 1331860,
+      "endMs": 1336100,
+      "en": "Rachel Lloyd is from the organization Guide Dogs, which is running the initiative.",
+      "zh": "蕾切尔·劳埃德来自发起这项计划的导盲犬慈善组织。"
+    },
+    {
+      "id": 237,
+      "startMs": 1336820,
+      "endMs": 1342340,
+      "en": "The scans are so visual. It's a photograph, it's a screen. It's very, very tricky to describe,",
+      "zh": "扫描图像完全是视觉化的，是照片，是屏幕，非常非常难以描述。"
+    },
+    {
+      "id": 238,
+      "startMs": 1342420,
+      "endMs": 1350180,
+      "en": "so having something tactile is so meaningful, and it means that actually people are part of that experience and everybody's included.",
+      "zh": "所以有可触摸的东西意义重大，这让人们真正参与其中，也让每个人都能被纳入。"
+    },
+    {
+      "id": 239,
+      "startMs": 1350740,
+      "endMs": 1356900,
+      "en": "Soon-to-be parents Reece and Sophie Finnegan-Knight say the technology has transformed their pregnancy experience.",
+      "zh": "准父母里斯和索菲·芬尼根-奈特说，这项技术改变了他们的孕期体验。"
+    },
+    {
+      "id": 240,
+      "startMs": 1357460,
+      "endMs": 1362020,
+      "en": "It was absolutely unreal. We didn't really know what to expect. It's hard to imagine",
+      "zh": "这完全超乎现实。我们确实不知道该期待什么。很难想象"
+    },
+    {
+      "id": 241,
+      "startMs": 1362420,
+      "endMs": 1365300,
+      "en": "what, you know, an embryo really looks like. For me,",
+      "zh": "对我来说，胚胎究竟是什么样子。"
+    },
+    {
+      "id": 242,
+      "startMs": 1365300,
+      "endMs": 1367780,
+      "en": "I've been blind since I was a teenager, really.",
+      "zh": "我从十几岁起就一直失明。"
+    },
+    {
+      "id": 243,
+      "startMs": 1368100,
+      "endMs": 1373640,
+      "en": "As far as I've been told, it just looks like a carrot or a potato or whatever vegetable of the week you're on.",
+      "zh": "据我所知，它看起来就像胡萝卜、土豆，或者按你当时孕周对应的某种蔬菜。"
+    },
+    {
+      "id": 244,
+      "startMs": 1374200,
+      "endMs": 1378360,
+      "en": "So it was just, it was amazing.",
+      "zh": "所以，那真是太神奇了。"
+    },
+    {
+      "id": 245,
+      "startMs": 1378360,
+      "endMs": 1382360,
+      "en": "It was, you know, the amount of detail that they've managed to get in the scan.",
+      "zh": "扫描图中的细节之多，真的令人惊叹。"
+    },
+    {
+      "id": 246,
+      "startMs": 1382440,
+      "endMs": 1386040,
+      "en": "You know, being able to really feel the little, you know, facets of the face",
+      "zh": "能够真正触摸到脸部细小的轮廓，"
+    },
+    {
+      "id": 247,
+      "startMs": 1386040,
+      "endMs": 1389400,
+      "en": "and then, you know, the little, like, bum sticking out, and the legs kind of curling around,",
+      "zh": "还有微微突出的臀部，以及蜷曲的双腿，"
+    },
+    {
+      "id": 248,
+      "startMs": 1389400,
+      "endMs": 1392920,
+      "en": "It's just amazing. I couldn't really believe the amount of detail that they've managed to get on there.",
+      "zh": "真的太神奇了。我简直不敢相信那里竟然有这么多细节。"
+    },
+    {
+      "id": 249,
+      "startMs": 1393240,
+      "endMs": 1397880,
+      "en": "I think becoming a parent is scary, you know, whether you're sighted or blind,",
+      "zh": "我觉得成为父母很可怕，不管你看得见还是失明，"
+    },
+    {
+      "id": 250,
+      "startMs": 1397880,
+      "endMs": 1402120,
+      "en": "and you just want to hoover up as much information as possible about your baby.",
+      "zh": "你都只想尽可能多地了解宝宝的信息。"
+    },
+    {
+      "id": 251,
+      "startMs": 1402120,
+      "endMs": 1408520,
+      "en": "And I think that's what those early scans... I was quite surprised at how hard I found those, because, you know, I'm very...",
+      "zh": "我想，这就是早期扫描图的意义……我很惊讶自己觉得它们如此困难，因为，我其实很……"
+    },
+    {
+      "id": 252,
+      "startMs": 1409080,
+      "endMs": 1414360,
+      "en": "I love being blind, you know, I'm really proud of being blind, and I'm very used to living my life in a different way.",
+      "zh": "我喜欢失明的自己，也为此感到自豪，而且我已经非常习惯以不同方式生活。"
+    },
+    {
+      "id": 253,
+      "startMs": 1414680,
+      "endMs": 1421000,
+      "en": "I was very surprised when we went to that scan, and I found it really difficult because it's just such a visual experience.",
+      "zh": "去做那次扫描时我非常惊讶，发现它真的很难，因为这完全是一种视觉体验。"
+    },
+    {
+      "id": 254,
+      "startMs": 1421560,
+      "endMs": 1425320,
+      "en": "And then you show the scans to your family and friends, and everyone comments on what they can see,",
+      "zh": "你把扫描图给家人和朋友看，大家都会评论他们看到了什么，"
+    },
+    {
+      "id": 255,
+      "startMs": 1425320,
+      "endMs": 1427960,
+      "en": "and, you know, \"Oh, that looks like you, or it's got a big head like you.\"",
+      "zh": "比如“哦，它看起来像你，头也像你一样大。”"
+    },
+    {
+      "id": 256,
+      "startMs": 1428800,
+      "endMs": 1431920,
+      "en": "And I couldn't really join in with that, and that was kind of harder than I thought.",
+      "zh": "而我无法真正参与其中，这比我想象的更难受。"
+    },
+    {
+      "id": 257,
+      "startMs": 1431920,
+      "endMs": 1437600,
+      "en": "So, yeah, getting this and having that little adaptation has just been really special, hasn't it?",
+      "zh": "所以，得到这个模型、进行这点调整，真的特别有意义，对吧？"
+    },
+    {
+      "id": 258,
+      "startMs": 1437600,
+      "endMs": 1441440,
+      "en": "Yeah, so I'm very used to describing things to Reece on a daily basis.",
+      "zh": "是的，我已经很习惯每天向里斯描述各种事情。"
+    },
+    {
+      "id": 259,
+      "startMs": 1441760,
+      "endMs": 1446400,
+      "en": "So we went to the scan, and I'm not medically trained. I don't know what I'm looking at.",
+      "zh": "我们去了扫描现场，但我没有受过医学训练，不知道自己在看什么。"
+    },
+    {
+      "id": 260,
+      "startMs": 1446880,
+      "endMs": 1452160,
+      "en": "If anyone's seen a baby scan before, they'll appreciate that it's basically just blobs on a screen.",
+      "zh": "如果你以前看过婴儿扫描图，就会明白屏幕上基本只是一团团的影像。"
+    },
+    {
+      "id": 261,
+      "startMs": 1452160,
+      "endMs": 1455920,
+      "en": "And yeah, Reece was saying, \"What can you see?\" I was trying to talk through it.",
+      "zh": "是的，里斯问我：“你能看到什么？”我试着向他描述。"
+    },
+    {
+      "id": 262,
+      "startMs": 1455920,
+      "endMs": 1460860,
+      "en": "I just... It didn't feel like we were experiencing it together fully.",
+      "zh": "我只是……那感觉不像是我们在完整地共同体验。"
+    },
+    {
+      "id": 263,
+      "startMs": 1461340,
+      "endMs": 1465660,
+      "en": "So we were more focused on hearing that heartbeat, which we had to wait a little bit longer for.",
+      "zh": "所以我们更多是在等待听到胎心，那需要再等一会儿。"
+    },
+    {
+      "id": 264,
+      "startMs": 1465980,
+      "endMs": 1471180,
+      "en": "But with this, it felt like we were experiencing it when we opened the box and felt...",
+      "zh": "但有了这个模型，我们打开盒子、触摸它时，感觉像是在共同体验……"
+    },
+    {
+      "id": 265,
+      "startMs": 1471500,
+      "endMs": 1476620,
+      "en": "when I saw it and Reece felt it, it felt like this was the first time we were actually doing it together, which was amazing.",
+      "zh": "当我看到它、里斯触摸到它时，感觉这是我们第一次真正共同完成这件事，太神奇了。"
+    },
+    {
+      "id": 266,
+      "startMs": 1476620,
+      "endMs": 1480540,
+      "en": "It's so nice to have that before, you know, our baby's actually with us as well. Yeah, exactly.",
+      "zh": "在宝宝真正来到我们身边前拥有这个，真好。对，确实如此。"
+    },
+    {
+      "id": 267,
+      "startMs": 1481260,
+      "endMs": 1487980,
+      "en": "Stuff like this is so important because it's just, it feels like such a small thing, but it just means so much.",
+      "zh": "这样的东西非常重要，看似很小，却意义非凡。"
+    },
+    {
+      "id": 268,
+      "startMs": 1488060,
+      "endMs": 1495020,
+      "en": "And I think also just having these kind of conversations, you know, people with sight loss are having babies every day,",
+      "zh": "我还觉得，进行这样的对话也很重要；视力受损者每天都在生育，"
+    },
+    {
+      "id": 269,
+      "startMs": 1495020,
+      "endMs": 1500940,
+      "en": "and, you know, just having little bits like this that make that process a bit more inclusive and a bit more accessible",
+      "zh": "像这样做一些小小的改变，就能让这一过程更具包容性、更易参与，"
+    },
+    {
+      "id": 270,
+      "startMs": 1500940,
+      "endMs": 1505260,
+      "en": "for blind parents, or grandparents, or relatives, or whatever, is just, is a massive bonus, I think.",
+      "zh": "对失明的父母、祖父母、亲属等人来说，我觉得这是一大助益。"
+    },
+    {
+      "id": 271,
+      "startMs": 1505820,
+      "endMs": 1507820,
+      "en": "Reece and Sophie Finnegan-Knight.",
+      "zh": "里斯和索菲·芬尼根-奈特。"
+    },
+    {
+      "id": 272,
+      "startMs": 1510800,
+      "endMs": 1514800,
+      "en": "And that is all from us for now, but the Global News Podcast will be back very soon.",
+      "zh": "以上就是本期全部内容，全球新闻播客很快会再与大家见面。"
+    },
+    {
+      "id": 273,
+      "startMs": 1514800,
+      "endMs": 1519280,
+      "en": "This edition was mixed by Louis Griffin and produced by Stephanie Zachrisson and Siobhan Leahy.",
+      "zh": "本期由路易斯·格里芬混音，斯蒂芬妮·扎克里森和希沃恩·利希制作。"
+    },
+    {
+      "id": 274,
+      "startMs": 1519360,
+      "endMs": 1521760,
+      "en": "Our editor is Karen Martin. I'm Oliver Conway.",
+      "zh": "我们的编辑是凯伦·马丁。我是奥利弗·康韦。"
+    },
+    {
+      "id": 275,
+      "startMs": 1521760,
+      "endMs": 1523120,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
