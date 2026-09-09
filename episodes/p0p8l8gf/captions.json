@@ -1,0 +1,2097 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "8 September 2026"
+  },
+  "durationMs": 1620620,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 5200,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 7740,
+      "endMs": 14300,
+      "en": "I'm Alex Ritson and at 14:00 GMT on Tuesday the 8th of September, these are our main stories.",
+      "zh": "我是亚历克斯·里特森。现在是9月8日星期二格林尼治时间14点，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 14780,
+      "endMs": 19580,
+      "en": "The UK government announces sanctions over Israeli settlements in the occupied West Bank.",
+      "zh": "英国政府宣布就被占领的约旦河西岸以色列定居点实施制裁。"
+    },
+    {
+      "id": 4,
+      "startMs": 19980,
+      "endMs": 23260,
+      "en": "Canadian tariffs on a range of US goods come into effect.",
+      "zh": "加拿大对一系列美国商品征收的关税生效。"
+    },
+    {
+      "id": 5,
+      "startMs": 23580,
+      "endMs": 28380,
+      "en": "And thieves steal Renoir paintings worth millions of dollars from a French museum.",
+      "zh": "窃贼从一家法国博物馆盗走价值数百万美元的雷诺阿画作。"
+    },
+    {
+      "id": 6,
+      "startMs": 30840,
+      "endMs": 35000,
+      "en": "Also in this podcast: more importantly, you'll find a cure for cancer...",
+      "zh": "本期播客还将讨论：更重要的是，你将找到治愈癌症的方法……"
+    },
+    {
+      "id": 7,
+      "startMs": 35480,
+      "endMs": 42440,
+      "en": "That today you and I, other humans, not in our lifetimes. I believe in our lifetime AI will help cure cancer.",
+      "zh": "凭今天你我和其他人类的能力，有生之年恐怕做不到。我相信，人工智能能在我们有生之年帮助治愈癌症。"
+    },
+    {
+      "id": 8,
+      "startMs": 42840,
+      "endMs": 48760,
+      "en": "The boss of a leading computer chip maker predicts AI will create a revolution in healthcare.",
+      "zh": "一家领先计算机芯片制造商的负责人预测，人工智能将掀起医疗革命。"
+    },
+    {
+      "id": 9,
+      "startMs": 53740,
+      "endMs": 62620,
+      "en": "The British government has announced a ban on goods from Israeli settlements in the occupied West Bank as part of what it calls a comprehensive reset of policy.",
+      "zh": "英国政府宣布禁止进口来自被占领的约旦河西岸以色列定居点的商品，这是其所谓全面重置政策的一部分。"
+    },
+    {
+      "id": 10,
+      "startMs": 63020,
+      "endMs": 65500,
+      "en": "Settlements are illegal under international law.",
+      "zh": "定居点根据国际法属于非法。"
+    },
+    {
+      "id": 11,
+      "startMs": 65740,
+      "endMs": 76380,
+      "en": "Speaking in Parliament, Foreign Secretary Ed Miliband said his commitment to the two-state solution had led him to a deep sense of shame about what has been happening in Palestine.",
+      "zh": "外交大臣埃德·米利班德在议会发言时说，他对两国方案的坚持让他对巴勒斯坦发生的一切深感羞愧。"
+    },
+    {
+      "id": 12,
+      "startMs": 76700,
+      "endMs": 82780,
+      "en": "He also said plans to build thousands of new homes in Jewish settlements in the West Bank were unacceptable.",
+      "zh": "他还说，在约旦河西岸的犹太人定居点建造数千套新住宅的计划不可接受。"
+    },
+    {
+      "id": 13,
+      "startMs": 83660,
+      "endMs": 89180,
+      "en": "Today I announce that the official view of the British government is that the occupation is unlawful...",
+      "zh": "今天我宣布，英国政府的正式立场是，占领行为不合法……"
+    },
+    {
+      "id": 14,
+      "startMs": 90480,
+      "endMs": 99120,
+      "en": "Because of Israel's entrenchment of its control, its intention to extend permanent sovereignty, and its expansionist agenda via illegal settlements.",
+      "zh": "因为以色列巩固其控制、意图延伸永久主权，并通过非法定居点推行扩张主义议程。"
+    },
+    {
+      "id": 15,
+      "startMs": 99760,
+      "endMs": 103920,
+      "en": "Madam Deputy Speaker, our position is not just an overdue statement of reality.",
+      "zh": "副议长女士，我们的立场不只是迟来的现实陈述。"
+    },
+    {
+      "id": 16,
+      "startMs": 104560,
+      "endMs": 112880,
+      "en": "The government believes the unlawfulness of the occupation should be reflected in the economic relationships we choose to have with the occupied territories.",
+      "zh": "政府认为，占领行为的不合法性应当体现在我们选择与被占领土建立的经济关系中。"
+    },
+    {
+      "id": 17,
+      "startMs": 113760,
+      "endMs": 121600,
+      "en": "I do not believe the British people want us supporting the occupation by accepting products from settlements in our shops and supermarkets.",
+      "zh": "我不认为英国民众希望我们通过在商店和超市接受定居点商品来支持占领。"
+    },
+    {
+      "id": 18,
+      "startMs": 122000,
+      "endMs": 127840,
+      "en": "So I can announce today that we will introduce an import ban on goods from illegal settlements in the occupied territories.",
+      "zh": "因此我今天可以宣布，我们将禁止进口来自被占领土非法定居点的商品。"
+    },
+    {
+      "id": 19,
+      "startMs": 128000,
+      "endMs": 131760,
+      "en": "The British Foreign Secretary Ed Miliband.",
+      "zh": "英国外交大臣埃德·米利班德。"
+    },
+    {
+      "id": 20,
+      "startMs": 132160,
+      "endMs": 140720,
+      "en": "Mr Miliband also said Canada and France are joining the UK in banning these goods and services from Israeli settlements in the occupied West Bank.",
+      "zh": "米利班德先生还说，加拿大和法国将加入英国，共同禁止来自被占领的约旦河西岸以色列定居点的商品和服务。"
+    },
+    {
+      "id": 21,
+      "startMs": 141120,
+      "endMs": 150640,
+      "en": "A number of other European countries, including Poland, Portugal and Sweden, are planning to limit trade with the settlements according to a statement from their foreign ministries",
+      "zh": "据这些国家外交部的声明，包括波兰、葡萄牙和瑞典在内的其他一些欧洲国家正计划限制与定居点的贸易。"
+    },
+    {
+      "id": 22,
+      "startMs": 151300,
+      "endMs": 156180,
+      "en": "Our diplomatic correspondent Paul Adams was listening to the UK foreign secretary's speech.",
+      "zh": "我们的外交事务记者保罗·亚当斯听取了英国外交大臣的演讲。"
+    },
+    {
+      "id": 23,
+      "startMs": 156580,
+      "endMs": 160180,
+      "en": "He gave us his assessment of what Mr Miliband had to say.",
+      "zh": "他向我们分析了米利班德先生的讲话。"
+    },
+    {
+      "id": 24,
+      "startMs": 160900,
+      "endMs": 170500,
+      "en": "I think this is very significant, and clearly the tone and content of Ed Miliband's speech made it clear that he feels that too.",
+      "zh": "我认为这非常重要，而且埃德·米利班德演讲的语气和内容显然表明，他也这么认为。"
+    },
+    {
+      "id": 25,
+      "startMs": 170900,
+      "endMs": 178260,
+      "en": "This was a speech, clearly highly personal, perhaps a speech that only a Jewish foreign secretary could make.",
+      "zh": "这是一篇非常个人化的演讲，也许只有一位犹太裔外交大臣才能发表。"
+    },
+    {
+      "id": 26,
+      "startMs": 178740,
+      "endMs": 185140,
+      "en": "And he spoke of his commitment to Israel, of his fond memories of visiting Israel,",
+      "zh": "他谈到自己对以色列的承诺，以及访问以色列时的美好回忆。"
+    },
+    {
+      "id": 27,
+      "startMs": 185700,
+      "endMs": 194660,
+      "en": "He was keen to draw a distinction between criticism of Israel and the relationship of this government and the Jewish population of the UK.",
+      "zh": "他很想区分对以色列的批评与本届政府同英国犹太人之间的关系。"
+    },
+    {
+      "id": 28,
+      "startMs": 195140,
+      "endMs": 197620,
+      "en": "But at the same time, he made it clear",
+      "zh": "但与此同时，他明确表示，"
+    },
+    {
+      "id": 29,
+      "startMs": 197940,
+      "endMs": 206980,
+      "en": "that the government is going to depart very significantly from the policies of previous governments when it comes to the measures that you just mentioned,",
+      "zh": "在你刚才提到的这些措施上，政府将大幅偏离前几届政府的政策，"
+    },
+    {
+      "id": 30,
+      "startMs": 206980,
+      "endMs": 212680,
+      "en": "Not just a ban on the products from settlements, something that many MPs have called for for a long time,",
+      "zh": "这不只是定居点产品禁令——这是许多议员长期呼吁的措施。"
+    },
+    {
+      "id": 31,
+      "startMs": 212680,
+      "endMs": 218520,
+      "en": "but also on services to settlements, on the advertising of settlements in the UK.",
+      "zh": "但还包括向定居点提供服务，以及在英国为定居点做广告。"
+    },
+    {
+      "id": 32,
+      "startMs": 219160,
+      "endMs": 225400,
+      "en": "And he used language that, frankly, would have been unthinkable only perhaps a couple of years ago.",
+      "zh": "坦率说，他使用的措辞也许在仅仅几年前还不可想象。"
+    },
+    {
+      "id": 33,
+      "startMs": 225400,
+      "endMs": 235160,
+      "en": "He talked about his agreement with an Israeli former Brigadier General who said that ethnic cleansing was going on in the West Bank.",
+      "zh": "他谈到自己赞同一位以色列前准将的看法；这位准将说，约旦河西岸正在发生种族清洗。"
+    },
+    {
+      "id": 34,
+      "startMs": 235560,
+      "endMs": 245480,
+      "en": "So this was, I think, both in tone and content an absolutely fundamental departure from the policies of previous governments.",
+      "zh": "所以我认为，无论在语气还是内容上，这都与前几届政府的政策有根本区别。"
+    },
+    {
+      "id": 35,
+      "startMs": 245560,
+      "endMs": 252280,
+      "en": "Paul, what did he say about some of the criticisms that he heard from the shadow foreign secretary Tom Tugendhat,",
+      "zh": "保罗，他如何回应影子外交大臣汤姆·图根达特提出的批评？"
+    },
+    {
+      "id": 36,
+      "startMs": 252360,
+      "endMs": 259960,
+      "en": "which had been raised by others, including the Board of Deputies here in the UK, that this action will fuel antisemitism in the UK?",
+      "zh": "其他人也提出了这些批评，包括英国的犹太人代表委员会；他们认为这项行动会助长英国的反犹主义。"
+    },
+    {
+      "id": 37,
+      "startMs": 260360,
+      "endMs": 267240,
+      "en": "He anticipated much of that at the beginning of his address in talking about antisemitism in the United Kingdom",
+      "zh": "他在讲话开头谈到英国的反犹主义时，已经预料到其中许多批评。"
+    },
+    {
+      "id": 38,
+      "startMs": 267480,
+      "endMs": 274060,
+      "en": "and about his own relationship with the Jewish people—he is Jewish—and with the state of Israel,",
+      "zh": "他还谈到自己与犹太人的关系——他本人是犹太人——以及与以色列国的关系。"
+    },
+    {
+      "id": 39,
+      "startMs": 274460,
+      "endMs": 277580,
+      "en": "he said he described himself as a proud British Jew.",
+      "zh": "他说，他自称是一名自豪的英国犹太人。"
+    },
+    {
+      "id": 40,
+      "startMs": 277580,
+      "endMs": 286140,
+      "en": "And he said that there was absolutely, in his words, no contradiction between the support for Israel and the support for a state of Palestine.",
+      "zh": "他还说，用他的话说，支持以色列与支持建立巴勒斯坦国之间绝不存在矛盾。"
+    },
+    {
+      "id": 41,
+      "startMs": 286540,
+      "endMs": 289500,
+      "en": "When it comes to some of the other things that Tom Tugendhat was highlighting,",
+      "zh": "至于汤姆·图根达特强调的其他问题，"
+    },
+    {
+      "id": 42,
+      "startMs": 289820,
+      "endMs": 298540,
+      "en": "the threats to important exports of medical supplies to the United Kingdom from Israel, and the issue of security cooperation,",
+      "zh": "包括以色列向英国出口重要医疗用品受到威胁，以及安全合作问题；"
+    },
+    {
+      "id": 43,
+      "startMs": 298940,
+      "endMs": 302460,
+      "en": "and of course also the fact that Israel is about to go into elections",
+      "zh": "当然，还有以色列即将举行选举这一事实；"
+    },
+    {
+      "id": 44,
+      "startMs": 302780,
+      "endMs": 309260,
+      "en": "and these measures announced by Britain and other governments could bolster the hard right in Israel,",
+      "zh": "英国及其他政府宣布的这些措施可能会壮大以色列的强硬右翼；"
+    },
+    {
+      "id": 45,
+      "startMs": 309340,
+      "endMs": 315980,
+      "en": "I think clearly Mr Miliband responded in a way that suggested he had thought through these issues",
+      "zh": "我认为，米利班德先生的回应显然表明，他已认真考虑过这些问题，"
+    },
+    {
+      "id": 46,
+      "startMs": 316220,
+      "endMs": 321660,
+      "en": "very carefully and had decided that, notwithstanding these dangers, some of which he dismissed,",
+      "zh": "并作出决定：尽管存在这些危险，其中一些他并不认同，"
+    },
+    {
+      "id": 47,
+      "startMs": 321660,
+      "endMs": 324860,
+      "en": "the important and the right moral thing to do.",
+      "zh": "但这样做是重要且合乎道德的正确选择。"
+    },
+    {
+      "id": 48,
+      "startMs": 325180,
+      "endMs": 326300,
+      "en": "Paul Adams.",
+      "zh": "保罗·亚当斯。"
+    },
+    {
+      "id": 49,
+      "startMs": 327020,
+      "endMs": 330540,
+      "en": "Settlements in the occupied West Bank have expanded rapidly.",
+      "zh": "被占领的约旦河西岸定居点迅速扩张。"
+    },
+    {
+      "id": 50,
+      "startMs": 330560,
+      "endMs": 335840,
+      "en": "Under the current Israeli government, its far-right finance minister, Bezalel Smotrich,",
+      "zh": "在现任以色列政府中，极右翼财政部长贝扎莱尔·斯莫特里赫"
+    },
+    {
+      "id": 51,
+      "startMs": 336000,
+      "endMs": 340480,
+      "en": "has said it will bury the idea of a Palestinian state. At the same time,",
+      "zh": "曾表示将埋葬建立巴勒斯坦国的想法。与此同时，"
+    },
+    {
+      "id": 52,
+      "startMs": 340480,
+      "endMs": 346080,
+      "en": "settler violence against Palestinians has surged to what the UN says is an all-time high.",
+      "zh": "定居者对巴勒斯坦人的暴力激增，达到联合国所说的历史最高水平。"
+    },
+    {
+      "id": 53,
+      "startMs": 346560,
+      "endMs": 353200,
+      "en": "Our Middle East correspondent Yolande Knell reports from the Jordan Valley on what a settlement goods ban could mean.",
+      "zh": "我们的中东记者约兰德·内尔从约旦河谷报道，禁售定居点商品可能意味着什么。"
+    },
+    {
+      "id": 54,
+      "startMs": 355960,
+      "endMs": 361880,
+      "en": "On a sweltering day, Israeli settlers splash in a pool at a Jordan Valley archaeological site.",
+      "zh": "在一个酷热的日子里，以色列定居者在约旦河谷一处考古遗址的水池里嬉水。"
+    },
+    {
+      "id": 55,
+      "startMs": 362200,
+      "endMs": 369000,
+      "en": "It was filled this summer by diverting the water supply from a nearby Palestinian village in the occupied West Bank.",
+      "zh": "今年夏天，这座水池通过引走被占领约旦河西岸附近一个巴勒斯坦村庄的供水而注满。"
+    },
+    {
+      "id": 56,
+      "startMs": 373960,
+      "endMs": 380600,
+      "en": "At the start of the year, the last of some 600 Palestinian Bedouins packed up their belongings and fled",
+      "zh": "今年年初，约600名巴勒斯坦贝都因人中最后一批人收拾行李逃离了"
+    },
+    {
+      "id": 57,
+      "startMs": 380840,
+      "endMs": 382520,
+      "en": "from nearby Ras Ein al-Auja.",
+      "zh": "附近的拉斯·艾因·阿乌贾。"
+    },
+    {
+      "id": 58,
+      "startMs": 382920,
+      "endMs": 385960,
+      "en": "They'd endured years of attacks by violent settlers.",
+      "zh": "他们多年来一直遭受暴力定居者的袭击。"
+    },
+    {
+      "id": 59,
+      "startMs": 386600,
+      "endMs": 391800,
+      "en": "The UK calls what's happening across the West Bank appalling settler terrorism.",
+      "zh": "英国称约旦河西岸发生的一切是骇人听闻的定居者恐怖主义。"
+    },
+    {
+      "id": 60,
+      "startMs": 392280,
+      "endMs": 398760,
+      "en": "The Foreign Secretary Ed Miliband says new Israeli plans to expand settlements, illegal under international law,",
+      "zh": "外交大臣埃德·米利班德说，以色列扩大定居点的新计划违反国际法，"
+    },
+    {
+      "id": 61,
+      "startMs": 399000,
+      "endMs": 400840,
+      "en": "mark the crossing of a red line.",
+      "zh": "意味着越过红线。"
+    },
+    {
+      "id": 62,
+      "startMs": 401160,
+      "endMs": 403320,
+      "en": "He plans to reset policy.",
+      "zh": "他计划重置政策。"
+    },
+    {
+      "id": 63,
+      "startMs": 403480,
+      "endMs": 407880,
+      "en": "This government will not acquiesce in the destruction of the two-state solution.",
+      "zh": "本届政府不会默许两国方案遭到破坏。"
+    },
+    {
+      "id": 64,
+      "startMs": 408120,
+      "endMs": 411720,
+      "en": "We will act and I will set out a comprehensive set of measures in the coming weeks.",
+      "zh": "我们将采取行动，我将在未来几周提出一套全面措施。"
+    },
+    {
+      "id": 65,
+      "startMs": 413420,
+      "endMs": 420220,
+      "en": "I'm in the Jordan Valley to find out if one expected measure, a British ban on settlement produce, could make a difference.",
+      "zh": "我在约旦河谷，想了解一项预期措施——英国禁售定居点农产品——能否带来改变。"
+    },
+    {
+      "id": 66,
+      "startMs": 420540,
+      "endMs": 423420,
+      "en": "The main road here is dotted with date palms.",
+      "zh": "这里的主干道两旁点缀着椰枣树。"
+    },
+    {
+      "id": 67,
+      "startMs": 423660,
+      "endMs": 430060,
+      "en": "Their juicy fruits are the main export crop from this region for Israeli settlers and Palestinians.",
+      "zh": "它们多汁的果实是该地区以色列定居者和巴勒斯坦人的主要出口作物。"
+    },
+    {
+      "id": 68,
+      "startMs": 430060,
+      "endMs": 433420,
+      "en": "About half the palms have no fruits,",
+      "zh": "大约一半的椰枣树没有结果，"
+    },
+    {
+      "id": 69,
+      "startMs": 433420,
+      "endMs": 440620,
+      "en": "complains Abdul Halim Abu Omar in Al-Auja village.",
+      "zh": "阿乌贾村的阿卜杜勒·哈利姆·阿布·奥马尔抱怨说。"
+    },
+    {
+      "id": 70,
+      "startMs": 441100,
+      "endMs": 442380,
+      "en": "It's because we lack water.",
+      "zh": "这是因为我们缺水。"
+    },
+    {
+      "id": 71,
+      "startMs": 443360,
+      "endMs": 447120,
+      "en": "Palestinians say Israel denies them a fair share of resources.",
+      "zh": "巴勒斯坦人说，以色列拒绝给予他们公平份额的资源。"
+    },
+    {
+      "id": 72,
+      "startMs": 447440,
+      "endMs": 453840,
+      "en": "This year the farmer has few dates that are fit to show local exporter Momen Sinokrot, who sells to the UK.",
+      "zh": "今年，这名农民只有很少适合展示给当地出口商莫门·西诺克罗特的椰枣；他向英国销售。"
+    },
+    {
+      "id": 73,
+      "startMs": 454160,
+      "endMs": 458480,
+      "en": "Momen believes ending trade with settlements could curb settlement growth.",
+      "zh": "莫门认为，终止与定居点的贸易可能遏制定居点扩张。"
+    },
+    {
+      "id": 74,
+      "startMs": 459120,
+      "endMs": 462320,
+      "en": "Settlers are very active in the Jordan Valley and increasingly active,",
+      "zh": "定居者在约旦河谷十分活跃，而且越来越活跃，"
+    },
+    {
+      "id": 75,
+      "startMs": 462720,
+      "endMs": 467920,
+      "en": "and they're not obeying any laws or rules or anything, even from the Israeli army itself.",
+      "zh": "他们不遵守任何法律、规则或任何规定，甚至不听以色列军队自身的要求。"
+    },
+    {
+      "id": 76,
+      "startMs": 468400,
+      "endMs": 474480,
+      "en": "They are going to the fields of the growers, they are stealing from them, and they are controlling more and more land.",
+      "zh": "他们进入种植者的田地，他们从中偷窃，并且控制越来越多的土地。"
+    },
+    {
+      "id": 77,
+      "startMs": 476960,
+      "endMs": 484720,
+      "en": "Palestinians want this wide swathe of fertile land along the West Bank's border with Jordan as part of their own hoped-for state.",
+      "zh": "巴勒斯坦人希望把约旦河西岸与约旦接壤的这片广阔肥沃土地纳入他们期望建立的国家。"
+    },
+    {
+      "id": 78,
+      "startMs": 488460,
+      "endMs": 493420,
+      "en": "But Israeli date farmer Avigdor Arbel is confident that Israel will never give it up.",
+      "zh": "但以色列椰枣农场主阿维格多·阿贝尔确信，以色列永远不会放弃这片土地。"
+    },
+    {
+      "id": 79,
+      "startMs": 493900,
+      "endMs": 500220,
+      "en": "He's lived in a settlement here for more than 50 years and dismisses the impact of any UK ban on his goods.",
+      "zh": "他在这里的定居点生活了50多年，并不认为英国禁售他的商品会有影响。"
+    },
+    {
+      "id": 80,
+      "startMs": 500300,
+      "endMs": 509020,
+      "en": "As soon as we have a situation of pressure and boycotts, we always break out and look for other markets.",
+      "zh": "一旦面临压力和抵制，我们总会突围，寻找其他市场。"
+    },
+    {
+      "id": 81,
+      "startMs": 509500,
+      "endMs": 515900,
+      "en": "So I believe that if we get to a situation when there's no place to sell my fruits in Europe, we'll find other markets.",
+      "zh": "所以我相信，如果我们到了在欧洲无处销售我的水果的地步，我们会找到其他市场。"
+    },
+    {
+      "id": 82,
+      "startMs": 516540,
+      "endMs": 522780,
+      "en": "Already, Israel's Foreign Secretary Gideon Sa'ar is threatening retaliation for any UK ban.",
+      "zh": "以色列外交部长吉迪恩·萨尔已经威胁要对英国的任何禁令进行报复。"
+    },
+    {
+      "id": 83,
+      "startMs": 522780,
+      "endMs": 524860,
+      "en": "I want to say just one thing.",
+      "zh": "我只想说一件事。"
+    },
+    {
+      "id": 84,
+      "startMs": 524860,
+      "endMs": 529340,
+      "en": "If Britain acts against the state of Israel, the state of Israel will act against Britain.",
+      "zh": "如果英国针对以色列国采取行动，以色列国也将针对英国采取行动。"
+    },
+    {
+      "id": 85,
+      "startMs": 531240,
+      "endMs": 536600,
+      "en": "Several other European countries have already banned trade with settlements, saying it's a legal obligation,",
+      "zh": "其他几个欧洲国家已经禁止与定居点贸易，称这是法律义务，"
+    },
+    {
+      "id": 86,
+      "startMs": 537080,
+      "endMs": 542120,
+      "en": "but Britain's expected action is now putting a heavy strain on relations with Israel.",
+      "zh": "但英国预期采取的行动正给英以关系带来巨大压力。"
+    },
+    {
+      "id": 87,
+      "startMs": 542600,
+      "endMs": 543640,
+      "en": "Yolande Knell.",
+      "zh": "约兰德·内尔。"
+    },
+    {
+      "id": 88,
+      "startMs": 544680,
+      "endMs": 549720,
+      "en": "Fighting has escalated between Saudi Arabia and the Iran-backed Houthi group.",
+      "zh": "沙特阿拉伯与伊朗支持的胡塞武装之间的战斗升级。"
+    },
+    {
+      "id": 89,
+      "startMs": 549960,
+      "endMs": 555560,
+      "en": "Attacks on Saudi energy facilities and infrastructure have left more than 70 people wounded.",
+      "zh": "对沙特能源设施和基础设施的袭击已造成70多人受伤。"
+    },
+    {
+      "id": 90,
+      "startMs": 555960,
+      "endMs": 561160,
+      "en": "The Houthi military spokesperson Yahya Saree gave this statement after the attack.",
+      "zh": "胡塞武装发言人叶海亚·萨雷亚在袭击后发表了这份声明。"
+    },
+    {
+      "id": 91,
+      "startMs": 561640,
+      "endMs": 570120,
+      "en": "The Yemeni armed forces carried out a broad and extensive military operation",
+      "zh": "也门武装部队开展了一次广泛、大规模的军事行动，"
+    },
+    {
+      "id": 92,
+      "startMs": 570360,
+      "endMs": 577160,
+      "en": "targeting the Aramco company and the King Khalid Air Base with tens of ballistic missiles and drones.",
+      "zh": "以阿美公司和哈立德国王空军基地为目标，发射了数十枚弹道导弹和无人机。"
+    },
+    {
+      "id": 93,
+      "startMs": 577560,
+      "endMs": 583720,
+      "en": "Thanks to God, the strikes were accurate and direct, causing significant damage to those facilities.",
+      "zh": "感谢上帝，袭击精准且直接，对这些设施造成了重大损毁。"
+    },
+    {
+      "id": 94,
+      "startMs": 584200,
+      "endMs": 590200,
+      "en": "The Yemeni armed forces hold the criminal Saudi enemy responsible for the escalation.",
+      "zh": "也门武装部队认为，犯罪的沙特敌人应对局势升级负责。"
+    },
+    {
+      "id": 95,
+      "startMs": 590680,
+      "endMs": 595960,
+      "en": "Saudi Arabia has been supporting Yemen's internationally recognised government against the Houthis.",
+      "zh": "沙特阿拉伯一直支持也门的国际承认政府对抗胡塞武装。"
+    },
+    {
+      "id": 96,
+      "startMs": 596280,
+      "endMs": 601720,
+      "en": "Saudi authorities and official media said the strikes caused fires and temporary shutdowns.",
+      "zh": "沙特当局和官方媒体称，袭击引发火灾并导致暂时停运。"
+    },
+    {
+      "id": 97,
+      "startMs": 601880,
+      "endMs": 604280,
+      "en": "So, how significant is this attack?",
+      "zh": "那么，这次袭击有多严重？"
+    },
+    {
+      "id": 98,
+      "startMs": 604700,
+      "endMs": 607260,
+      "en": "I asked our global affairs reporter Sebastian Usher.",
+      "zh": "我询问了我们的全球事务记者塞巴斯蒂安·厄舍。"
+    },
+    {
+      "id": 99,
+      "startMs": 607660,
+      "endMs": 614220,
+      "en": "It's significant within the terms of what goes on between the Saudis and the Houthis and the whole Yemen conflict.",
+      "zh": "这对沙特与胡塞武装之间的关系以及整个也门冲突而言很重要。"
+    },
+    {
+      "id": 100,
+      "startMs": 614220,
+      "endMs": 617580,
+      "en": "I mean, it's very difficult to gauge quite where that's going.",
+      "zh": "我的意思是，很难判断事态究竟会如何发展。"
+    },
+    {
+      "id": 101,
+      "startMs": 617580,
+      "endMs": 619660,
+      "en": "I'll have to see how the Saudis respond to this.",
+      "zh": "我得看看沙特会如何回应。"
+    },
+    {
+      "id": 102,
+      "startMs": 619660,
+      "endMs": 622620,
+      "en": "They've said that they will respond firmly; one assumes that'll be the case.",
+      "zh": "他们说会坚决回应；想来应该确实如此。"
+    },
+    {
+      "id": 103,
+      "startMs": 623260,
+      "endMs": 629020,
+      "en": "But this has happened just as there's been very heavy fighting in Yemen over the past few days.",
+      "zh": "但这恰逢过去几天也门发生了非常激烈的战斗。"
+    },
+    {
+      "id": 104,
+      "startMs": 629340,
+      "endMs": 635340,
+      "en": "Now it's all really the contagion, essentially, from the Iran war. I mean, the Houthis are semi-independent.",
+      "zh": "现在这一切基本上都是伊朗战争蔓延的结果。我的意思是，胡塞武装具有一定独立性。"
+    },
+    {
+      "id": 105,
+      "startMs": 635340,
+      "endMs": 637820,
+      "en": "They're not just the pawns of the Iranians.",
+      "zh": "他们不只是伊朗人的棋子。"
+    },
+    {
+      "id": 106,
+      "startMs": 638300,
+      "endMs": 644220,
+      "en": "But the way they have tried to close off this second major waterway,",
+      "zh": "但他们试图封锁第二条主要水道的做法，"
+    },
+    {
+      "id": 107,
+      "startMs": 644700,
+      "endMs": 647020,
+      "en": "the Bab-el-Mandeb Strait, which is off the coast of Yemen,",
+      "zh": "也就是位于也门海岸外的曼德海峡，"
+    },
+    {
+      "id": 108,
+      "startMs": 647260,
+      "endMs": 652940,
+      "en": "to Saudi vessels, which are using it as an alternative to the Strait of Hormuz, has been significant.",
+      "zh": "不让以此替代霍尔木兹海峡的沙特船只通行，这产生了重大影响。"
+    },
+    {
+      "id": 109,
+      "startMs": 652940,
+      "endMs": 656940,
+      "en": "It has led to both the showdown with the Saudis again,",
+      "zh": "这既导致与沙特再次对峙，"
+    },
+    {
+      "id": 110,
+      "startMs": 657020,
+      "endMs": 658860,
+      "en": "Which I think we will see obviously that develop.",
+      "zh": "我想我们显然会看到事态发展。"
+    },
+    {
+      "id": 111,
+      "startMs": 659340,
+      "endMs": 662540,
+      "en": "But also it's destabilized the situation in Yemen.",
+      "zh": "但这也破坏了也门局势的稳定。"
+    },
+    {
+      "id": 112,
+      "startMs": 662700,
+      "endMs": 665440,
+      "en": "And oil prices are already on the up as a result?",
+      "zh": "油价也已经因此上涨了吗？"
+    },
+    {
+      "id": 113,
+      "startMs": 665680,
+      "endMs": 674800,
+      "en": "Absolutely, because, I mean, this is very much as far as the Houthis are concerned, the key element of it with the Saudis is to close down that oil export route.",
+      "zh": "当然，因为对胡塞武装来说，这在很大程度上就是他们与沙特关系中的关键：关闭那条石油出口通道。"
+    },
+    {
+      "id": 114,
+      "startMs": 674800,
+      "endMs": 679040,
+      "en": "Now the Saudis do have other ways of getting oil out if that were to be the case.",
+      "zh": "如果真出现这种情况，沙特确实还有其他方式把石油运出去。"
+    },
+    {
+      "id": 115,
+      "startMs": 679600,
+      "endMs": 684240,
+      "en": "But nervousness, of course, in the oil markets will increase every time you see something like this.",
+      "zh": "但当然，每当发生这种事，石油市场的不安情绪都会加剧。"
+    },
+    {
+      "id": 116,
+      "startMs": 684720,
+      "endMs": 694640,
+      "en": "And part of the thing that has led to this latest escalation inside Yemen was an assault that the Houthis launched last Thursday towards coastal areas.",
+      "zh": "导致也门境内这次最新升级的部分原因，是胡塞武装上周四向沿海地区发动的一次袭击。"
+    },
+    {
+      "id": 117,
+      "startMs": 695040,
+      "endMs": 698480,
+      "en": "Which, if they took control of that, of course, it would give them greater control.",
+      "zh": "如果他们控制那里，当然就会获得更大的控制权。"
+    },
+    {
+      "id": 118,
+      "startMs": 698480,
+      "endMs": 702080,
+      "en": "Of the Bab-el-Mandeb Strait, and essentially they could possibly close the whole thing down.",
+      "zh": "控制曼德海峡，基本上他们可能会把整条通道彻底关闭。"
+    },
+    {
+      "id": 119,
+      "startMs": 702400,
+      "endMs": 710000,
+      "en": "So there is that element. But within the fighting in Yemen, what we're hearing at the moment, of course, there isn't that much independent reporting.",
+      "zh": "所以这是其中一个因素。但就也门的战事而言，我们目前听到的情况是，当然，独立报道并不多。"
+    },
+    {
+      "id": 120,
+      "startMs": 710400,
+      "endMs": 717520,
+      "en": "But the pro-government forces, backed by Saudi Arabia, are staging quite a strong response to the Houthis.",
+      "zh": "但由沙特支持的亲政府武装正在对胡塞武装发起强劲反击。"
+    },
+    {
+      "id": 121,
+      "startMs": 717520,
+      "endMs": 721360,
+      "en": "That they have taken towns, that there is momentum behind them at the moment.",
+      "zh": "他们已经夺取了一些城镇，目前势头在他们一边。"
+    },
+    {
+      "id": 122,
+      "startMs": 721360,
+      "endMs": 725620,
+      "en": "The big question is whether that will continue, whether that will change the equation in Yemen.",
+      "zh": "最大的问题是这种势头能否延续，是否会改变也门的局面。"
+    },
+    {
+      "id": 123,
+      "startMs": 725860,
+      "endMs": 732420,
+      "en": "And one other thing, there was a defense pact that the Saudis had signed, called the Mecca Alliance, with Turkey and Pakistan.",
+      "zh": "还有一点，沙特与土耳其和巴基斯坦签署了一项防务协定，名为麦加联盟。"
+    },
+    {
+      "id": 124,
+      "startMs": 732420,
+      "endMs": 737060,
+      "en": "Now essentially Turkey and Pakistan should be coming to the Saudis' aid if they're in this kind of situation.",
+      "zh": "基本上，如果沙特处于这种局面，土耳其和巴基斯坦应该会前来援助。"
+    },
+    {
+      "id": 125,
+      "startMs": 737620,
+      "endMs": 739620,
+      "en": "That would change things of course enormously.",
+      "zh": "这当然会大大改变局势。"
+    },
+    {
+      "id": 126,
+      "startMs": 739700,
+      "endMs": 741300,
+      "en": "At the moment that does seem unlikely.",
+      "zh": "不过目前看来，这似乎不太可能。"
+    },
+    {
+      "id": 127,
+      "startMs": 741540,
+      "endMs": 742660,
+      "en": "Sebastian Usher.",
+      "zh": "塞巴斯蒂安·厄舍。"
+    },
+    {
+      "id": 128,
+      "startMs": 745300,
+      "endMs": 747220,
+      "en": "Still to come in this podcast.",
+      "zh": "本期播客稍后还有以下内容。"
+    },
+    {
+      "id": 129,
+      "startMs": 747940,
+      "endMs": 751060,
+      "en": "I just don't see myself on stage with Liam.",
+      "zh": "我就是无法想象自己和利亚姆同台。"
+    },
+    {
+      "id": 130,
+      "startMs": 751060,
+      "endMs": 754020,
+      "en": "I don't really want to be going back with the tension.",
+      "zh": "我其实不太想在这种紧张气氛中回去。"
+    },
+    {
+      "id": 131,
+      "startMs": 755300,
+      "endMs": 756980,
+      "en": "Will it fall apart again?",
+      "zh": "这会不会再次分崩离析？"
+    },
+    {
+      "id": 132,
+      "startMs": 758660,
+      "endMs": 765300,
+      "en": "Looking back in anger: unseen footage about what life was really like during the Oasis reunion.",
+      "zh": "《怒而回首》：关于绿洲乐队重聚期间真实生活的未公开影像。"
+    },
+    {
+      "id": 133,
+      "startMs": 765300,
+      "endMs": 767460,
+      "en": "You're listening to the Global News Podcast.",
+      "zh": "你正在收听《全球新闻播客》。"
+    },
+    {
+      "id": 134,
+      "startMs": 768180,
+      "endMs": 776180,
+      "en": "The boss of one of the world's leading computer chip makers is predicting artificial intelligence is poised to cause a revolution in healthcare.",
+      "zh": "全球领先的计算机芯片制造商之一的负责人预测，人工智能即将引发医疗领域的革命。"
+    },
+    {
+      "id": 135,
+      "startMs": 776660,
+      "endMs": 781780,
+      "en": "Rene Haas of Arm Holdings has been speaking to our economics editor, Faisal Islam.",
+      "zh": "Arm 的雷内·哈斯接受了我们的经济编辑费萨尔·伊斯拉姆的采访。"
+    },
+    {
+      "id": 136,
+      "startMs": 782180,
+      "endMs": 784580,
+      "en": "Drugs can take 20 years to be developed.",
+      "zh": "药物研发可能需要20年。"
+    },
+    {
+      "id": 137,
+      "startMs": 785060,
+      "endMs": 787780,
+      "en": "Ninety-five percent of those R&D efforts fail.",
+      "zh": "其中95%的研发工作会失败。"
+    },
+    {
+      "id": 138,
+      "startMs": 788880,
+      "endMs": 792720,
+      "en": "AI is going to not only shorten the amount of time that those drugs can be invented.",
+      "zh": "人工智能不仅会缩短这些药物被研发出来所需的时间。"
+    },
+    {
+      "id": 139,
+      "startMs": 793200,
+      "endMs": 795280,
+      "en": "It's going to shorten the amount of time that you test them.",
+      "zh": "它会缩短你测试这些药物所需的时间。"
+    },
+    {
+      "id": 140,
+      "startMs": 795760,
+      "endMs": 800960,
+      "en": "You'll start to replace some human trials with AI, but more importantly, you'll find a cure for cancer.",
+      "zh": "你会开始用人工智能取代部分人体试验；更重要的是，你会找到治愈癌症的方法。"
+    },
+    {
+      "id": 141,
+      "startMs": 801360,
+      "endMs": 805360,
+      "en": "That today you and I, other humans, not in our lifetimes.",
+      "zh": "凭今天你我和其他人类的能力，有生之年恐怕做不到。"
+    },
+    {
+      "id": 142,
+      "startMs": 805840,
+      "endMs": 808400,
+      "en": "I believe in our lifetime AI will help cure cancer.",
+      "zh": "我相信在我们有生之年，人工智能将帮助治愈癌症。"
+    },
+    {
+      "id": 143,
+      "startMs": 808400,
+      "endMs": 814080,
+      "en": "So this is your company that built on science, but it will transform science as well. Absolutely.",
+      "zh": "所以，你们公司建立在科学之上，也将推动科学变革。完全正确。"
+    },
+    {
+      "id": 144,
+      "startMs": 814080,
+      "endMs": 819440,
+      "en": "I want to start pretty big, right? What does the world look like in 10 years' time because of AI?",
+      "zh": "我想从一个宏大的问题开始：人工智能会让世界在十年后变成什么样？"
+    },
+    {
+      "id": 145,
+      "startMs": 819440,
+      "endMs": 825760,
+      "en": "I do think in 10 years, we will see physical AI robotics in a very large way,",
+      "zh": "我确实认为，十年后我们会大规模看到实体人工智能机器人，"
+    },
+    {
+      "id": 146,
+      "startMs": 825760,
+      "endMs": 835680,
+      "en": "whether it's around manufacturing, cleaning services, security, infrastructure, managing buildings and bridges, doing repairs. We will see.",
+      "zh": "它们会用于制造、清洁服务、安保、基础设施、管理建筑和桥梁以及维修工作。我们会看到这一切。"
+    },
+    {
+      "id": 147,
+      "startMs": 835840,
+      "endMs": 841360,
+      "en": "So people talk about robots and they're not... You're seeing the sci-fi future of actual robots?",
+      "zh": "所以，人们谈到机器人时，他们不是……你说的是科幻电影里真正机器人的未来吗？"
+    },
+    {
+      "id": 148,
+      "startMs": 841360,
+      "endMs": 846720,
+      "en": "Absolutely, 100%. Robots prior to AI were built for a certain purpose.",
+      "zh": "当然，百分之百是这样。人工智能出现以前，机器人都是为特定用途制造的。"
+    },
+    {
+      "id": 149,
+      "startMs": 846800,
+      "endMs": 853220,
+      "en": "You see them in factories today; they install a tire in a factory or inside a distribution area,",
+      "zh": "如今在工厂里就能看到它们：它们在工厂里安装轮胎，或在配送区域内工作，"
+    },
+    {
+      "id": 150,
+      "startMs": 853220,
+      "endMs": 854980,
+      "en": "they're the forklifts that move up and down.",
+      "zh": "也有上下移动的叉车。"
+    },
+    {
+      "id": 151,
+      "startMs": 855540,
+      "endMs": 862420,
+      "en": "With artificial intelligence, these robots can see, learn and essentially be reprogrammed for new tasks.",
+      "zh": "有了人工智能，这些机器人就能看、能学习，而且基本上可以重新编程来执行新任务。"
+    },
+    {
+      "id": 152,
+      "startMs": 862820,
+      "endMs": 869700,
+      "en": "So in the service industry, the robot that was programmed to make a bed can now make a bed,",
+      "zh": "所以在服务业，原本被编程用来铺床的机器人现在仍能铺床，"
+    },
+    {
+      "id": 153,
+      "startMs": 870020,
+      "endMs": 877220,
+      "en": "but can also learn how to arrange the towels in a room, clean the dustbins or whatever you want it to go off and do.",
+      "zh": "但它还可以学会整理房间里的毛巾、清理垃圾桶，或者完成你想让它做的其他事情。"
+    },
+    {
+      "id": 154,
+      "startMs": 877860,
+      "endMs": 879060,
+      "en": "We need to get the costs down.",
+      "zh": "我们需要降低成本。"
+    },
+    {
+      "id": 155,
+      "startMs": 879460,
+      "endMs": 885860,
+      "en": "We need to be able to get them to be lighter, faster, but that's just an engineering cost issue that we're going to get our hands around.",
+      "zh": "我们需要让它们变得更轻、更快，但这只是工程成本问题，我们会设法解决。"
+    },
+    {
+      "id": 156,
+      "startMs": 886260,
+      "endMs": 888660,
+      "en": "And what about in your home life?",
+      "zh": "那在家庭生活中呢？"
+    },
+    {
+      "id": 157,
+      "startMs": 888660,
+      "endMs": 894020,
+      "en": "How would you advise people to use it with their children? There's some concerns as well as some opportunities there.",
+      "zh": "你会建议人们如何让孩子使用人工智能？这其中既有一些担忧，也有一些机会。"
+    },
+    {
+      "id": 158,
+      "startMs": 894420,
+      "endMs": 899540,
+      "en": "Yeah, you know, for people who say, 'Gosh, you know, AI is going to replace humans',",
+      "zh": "是的，对于那些说“天哪，人工智能会取代人类”的人，"
+    },
+    {
+      "id": 159,
+      "startMs": 899540,
+      "endMs": 903860,
+      "en": "and it's going to replace jobs and knowledge work, AI is going to be there, period.",
+      "zh": "以及会取代工作和知识型劳动的人，我要说，人工智能无论如何都会存在。"
+    },
+    {
+      "id": 160,
+      "startMs": 903860,
+      "endMs": 907940,
+      "en": "We know that, and for all the things we have talked about. So I would tell anyone who's",
+      "zh": "我们知道这一点，正如我们谈到的所有事情一样。所以我会告诉任何人，"
+    },
+    {
+      "id": 161,
+      "startMs": 908600,
+      "endMs": 912760,
+      "en": "Talking to their kids, or in my case, grandkids, learn it, embrace it and become comfortable with it,",
+      "zh": "和孩子交谈的人，或者就我而言和孙辈交谈的人：去学习它、接受它，并适应它，"
+    },
+    {
+      "id": 162,
+      "startMs": 912840,
+      "endMs": 917720,
+      "en": "because ultimately AI is a utility that's going to allow us to be more productive and effective.",
+      "zh": "因为归根结底，人工智能是一种工具，能让我们更高效、更有成果。"
+    },
+    {
+      "id": 163,
+      "startMs": 918120,
+      "endMs": 922040,
+      "en": "So don't be afraid of it. Rene Haas of tech giant Arm Holdings.",
+      "zh": "所以不要害怕它。科技巨头 Arm Holdings 的雷内·哈斯。"
+    },
+    {
+      "id": 164,
+      "startMs": 923360,
+      "endMs": 929040,
+      "en": "The United Nations has called the war in Sudan the world's largest humanitarian crisis.",
+      "zh": "联合国称，苏丹战争是世界上最大的人道主义危机。"
+    },
+    {
+      "id": 165,
+      "startMs": 929200,
+      "endMs": 932960,
+      "en": "Tens of thousands of people have died and millions have fled their homes.",
+      "zh": "数万人死亡，数百万人逃离家园。"
+    },
+    {
+      "id": 166,
+      "startMs": 933200,
+      "endMs": 935760,
+      "en": "The civil war has been ongoing for more than three years,",
+      "zh": "这场内战已持续三年多，"
+    },
+    {
+      "id": 167,
+      "startMs": 936080,
+      "endMs": 941520,
+      "en": "as the Sudanese Armed Forces and the paramilitary Rapid Support Forces fight for control,",
+      "zh": "苏丹武装部队与准军事组织快速支援部队争夺控制权，"
+    },
+    {
+      "id": 168,
+      "startMs": 942000,
+      "endMs": 945200,
+      "en": "And now people are facing a severe healthcare crisis.",
+      "zh": "如今民众正面临严重的医疗危机。"
+    },
+    {
+      "id": 169,
+      "startMs": 945600,
+      "endMs": 954160,
+      "en": "The medical charity Medecins Sans Frontieres warns that international funding cuts are contributing to the collapse of the fragile health system.",
+      "zh": "医疗慈善机构无国界医生警告，国际资金削减正导致脆弱的医疗系统崩溃。"
+    },
+    {
+      "id": 170,
+      "startMs": 954560,
+      "endMs": 961040,
+      "en": "Cuts have closed medical clinics. Hospitals are losing their capacity to function, and medicine supplies are running low.",
+      "zh": "资金削减导致医疗诊所关闭，医院的运转能力正在下降，药品供应也日益短缺。"
+    },
+    {
+      "id": 171,
+      "startMs": 961440,
+      "endMs": 964960,
+      "en": "Our Africa correspondent Barbara Plett Usher told me more.",
+      "zh": "我们的非洲记者芭芭拉·普莱特·厄舍告诉我更多情况。"
+    },
+    {
+      "id": 172,
+      "startMs": 965600,
+      "endMs": 968480,
+      "en": "Last year, the US shut down its main aid agency.",
+      "zh": "去年，美国关闭了其主要援助机构。"
+    },
+    {
+      "id": 173,
+      "startMs": 968480,
+      "endMs": 974560,
+      "en": "So what we're seeing right now is the continuing impact of that, because the existing grants that USAID had given",
+      "zh": "所以我们现在看到的是其持续影响，因为美国国际开发署此前给相关组织的现有拨款"
+    },
+    {
+      "id": 174,
+      "startMs": 974960,
+      "endMs": 978800,
+      "en": "to organizations operating in Sudan ran out in June.",
+      "zh": "已于六月耗尽，这些组织在苏丹开展工作。"
+    },
+    {
+      "id": 175,
+      "startMs": 979200,
+      "endMs": 982960,
+      "en": "Those organizations have not been able to find alternative funding, so they've had to pull out.",
+      "zh": "这些组织找不到替代资金，因此不得不撤出。"
+    },
+    {
+      "id": 176,
+      "startMs": 983460,
+      "endMs": 988740,
+      "en": "And when it comes to health, that means local clinics have either shut down or severely downsized,",
+      "zh": "就医疗而言，这意味着当地诊所要么关闭，要么大幅缩减规模，"
+    },
+    {
+      "id": 177,
+      "startMs": 988740,
+      "endMs": 991540,
+      "en": "and that has put more pressure on hospitals.",
+      "zh": "这给医院带来了更大压力。"
+    },
+    {
+      "id": 178,
+      "startMs": 991540,
+      "endMs": 995620,
+      "en": "MSF, the medical charity, gave specific examples. For example, they said",
+      "zh": "医疗慈善机构无国界医生给出了具体例子。例如，他们说，"
+    },
+    {
+      "id": 179,
+      "startMs": 996020,
+      "endMs": 1001700,
+      "en": "in a refugee camp in the eastern state of Gedaref, the maternity and surgical wards have been closed.",
+      "zh": "在东部加达里夫州的一个难民营，产科和外科病房已经关闭。"
+    },
+    {
+      "id": 180,
+      "startMs": 1001700,
+      "endMs": 1009540,
+      "en": "In another refugee camp in the same state, they said that the aid organizations are down to 10 from a high of 35 five years ago.",
+      "zh": "在同一州的另一个难民营，援助组织数量已从五年前的35个高点降至10个。"
+    },
+    {
+      "id": 181,
+      "startMs": 1009780,
+      "endMs": 1014180,
+      "en": "In central Darfur, 45 health centers have lost support; many of them have closed.",
+      "zh": "在达尔富尔中部，45家医疗中心失去支持，其中许多已经关闭。"
+    },
+    {
+      "id": 182,
+      "startMs": 1014180,
+      "endMs": 1018900,
+      "en": "One of them in particular, a large one, has stayed open but with vastly reduced services,",
+      "zh": "其中有一家较大的中心仍在运转，但服务大幅减少，"
+    },
+    {
+      "id": 183,
+      "startMs": 1018900,
+      "endMs": 1022580,
+      "en": "no vaccinations, only able to see 40 patients a day, down from 200.",
+      "zh": "不再接种疫苗，每天只能接诊40名患者，而过去是200名。"
+    },
+    {
+      "id": 184,
+      "startMs": 1022580,
+      "endMs": 1027940,
+      "en": "And so this is compounding an already quite severe health crisis in Sudan.",
+      "zh": "因此，这让苏丹原本已经相当严重的医疗危机雪上加霜。"
+    },
+    {
+      "id": 185,
+      "startMs": 1028020,
+      "endMs": 1033620,
+      "en": "This presumably, in humanitarian terms, means it could yet get a lot worse?",
+      "zh": "这是否意味着，从人道主义角度看，情况还可能恶化很多？"
+    },
+    {
+      "id": 186,
+      "startMs": 1033860,
+      "endMs": 1036020,
+      "en": "Yes, definitely, and that is the warning.",
+      "zh": "是的，当然，这正是警告。"
+    },
+    {
+      "id": 187,
+      "startMs": 1036260,
+      "endMs": 1041780,
+      "en": "Now, I mean, we are talking about specific funding withdrawals and program closures at a local level.",
+      "zh": "我们说的是地方层面的具体资金撤回和项目关闭。"
+    },
+    {
+      "id": 188,
+      "startMs": 1042260,
+      "endMs": 1045760,
+      "en": "There is still money coming in. The Americans are still the largest donor to Sudan.",
+      "zh": "资金仍在流入，美国仍是苏丹最大的捐助方。"
+    },
+    {
+      "id": 189,
+      "startMs": 1046160,
+      "endMs": 1052160,
+      "en": "Some European governments are prioritizing their Sudan funding, even though they are cutting their international assistance overall.",
+      "zh": "一些欧洲政府正在优先保障对苏丹的资助，尽管它们总体上正在削减国际援助。"
+    },
+    {
+      "id": 190,
+      "startMs": 1052160,
+      "endMs": 1058480,
+      "en": "But already 37% of Sudan's healthcare facilities are estimated to be out of service,",
+      "zh": "但据估计，苏丹已有37%的医疗设施停止运转，"
+    },
+    {
+      "id": 191,
+      "startMs": 1058880,
+      "endMs": 1064240,
+      "en": "and now with these local clinics being shut, that's putting extra pressure on hospitals that are still open.",
+      "zh": "如今这些当地诊所关闭，又给仍在运转的医院增添了压力。"
+    },
+    {
+      "id": 192,
+      "startMs": 1064240,
+      "endMs": 1066720,
+      "en": "MSF is calling them 'at the breaking point'.",
+      "zh": "无国界医生称这些医院“已到了崩溃边缘”。"
+    },
+    {
+      "id": 193,
+      "startMs": 1066800,
+      "endMs": 1074080,
+      "en": "The truth is that this conflict is not a priority for the international community.",
+      "zh": "事实是，这场冲突并不是国际社会的优先事项。"
+    },
+    {
+      "id": 194,
+      "startMs": 1074160,
+      "endMs": 1077920,
+      "en": "You are right. I mean, there is some attention on the conflict.",
+      "zh": "你说得对。我的意思是，国际社会确实关注这场冲突。"
+    },
+    {
+      "id": 195,
+      "startMs": 1077920,
+      "endMs": 1084960,
+      "en": "You've had more UN reports lately talking about the war, highlighting the international and especially transnational networks",
+      "zh": "最近联合国发布了更多关于这场战争的报告，强调国际性、尤其是跨国网络"
+    },
+    {
+      "id": 196,
+      "startMs": 1084960,
+      "endMs": 1089440,
+      "en": "that are supplying weapons to the warring parties, especially the paramilitary Rapid Support Forces.",
+      "zh": "正在向交战双方、尤其是准军事组织快速支援部队提供武器。"
+    },
+    {
+      "id": 197,
+      "startMs": 1089760,
+      "endMs": 1092640,
+      "en": "The US is joining calls to extend the arms embargo.",
+      "zh": "美国正加入扩大武器禁运的呼吁。"
+    },
+    {
+      "id": 198,
+      "startMs": 1093120,
+      "endMs": 1097600,
+      "en": "There is one already on Darfur, has been for many years, but there are calls to extend it to the rest of the country.",
+      "zh": "达尔富尔已经实施武器禁运多年，但现在有人呼吁将禁运扩大到苏丹其他地区。"
+    },
+    {
+      "id": 199,
+      "startMs": 1097600,
+      "endMs": 1101760,
+      "en": "There is going to be a vote on that in the Security Council on Thursday.",
+      "zh": "安理会将于周四就此进行投票。"
+    },
+    {
+      "id": 200,
+      "startMs": 1101920,
+      "endMs": 1104080,
+      "en": "There have been sanctions put on both warring parties.",
+      "zh": "交战双方都受到制裁。"
+    },
+    {
+      "id": 201,
+      "startMs": 1104400,
+      "endMs": 1109700,
+      "en": "But the bottom line is there just hasn't been the political will to really put pressure on the main players, the national ones",
+      "zh": "但关键在于，没有真正向主要参与者施压的政治意愿，包括国内参与者，"
+    },
+    {
+      "id": 202,
+      "startMs": 1109700,
+      "endMs": 1112740,
+      "en": "and especially the international ones, or to hold them to account?",
+      "zh": "尤其是国际参与者，或追究他们的责任。"
+    },
+    {
+      "id": 203,
+      "startMs": 1112980,
+      "endMs": 1121140,
+      "en": "And in the meantime, we are in an environment of international aid decreasing, so I don't really expect that we'll see a reversal in that.",
+      "zh": "与此同时，国际援助正在减少，所以我不太认为这种情况会逆转。"
+    },
+    {
+      "id": 204,
+      "startMs": 1121860,
+      "endMs": 1128520,
+      "en": "Barbara Plett Usher. Following the collapse of trade negotiations between the US and Canada",
+      "zh": "芭芭拉·普莱特·厄舍。美国和加拿大之间的贸易谈判"
+    },
+    {
+      "id": 205,
+      "startMs": 1128600,
+      "endMs": 1134040,
+      "en": "last month, Canadian retaliatory tariffs on various American goods have come into effect.",
+      "zh": "上个月破裂后，加拿大针对多种美国商品的报复性关税已生效。"
+    },
+    {
+      "id": 206,
+      "startMs": 1134440,
+      "endMs": 1140600,
+      "en": "Ottawa says it's matching Washington's latest tariffs dollar for dollar, and the dispute may be widening.",
+      "zh": "渥太华称将与华盛顿最新关税逐美元匹配，这场争端可能正在扩大。"
+    },
+    {
+      "id": 207,
+      "startMs": 1140840,
+      "endMs": 1148680,
+      "en": "President Trump has now threatened to stop Canadian aircraft maker Bombardier selling planes in the US unless it manufactures them there.",
+      "zh": "特朗普总统威胁称，除非加拿大飞机制造商庞巴迪在美国生产，否则不准其在美国销售飞机。"
+    },
+    {
+      "id": 208,
+      "startMs": 1148920,
+      "endMs": 1155800,
+      "en": "I asked our international business correspondent Theo Leggett what products could be affected by the new Canadian tariffs.",
+      "zh": "我询问了本台国际商业记者西奥·莱格特：哪些商品可能受到加拿大新关税的影响。"
+    },
+    {
+      "id": 209,
+      "startMs": 1156520,
+      "endMs": 1159560,
+      "en": "A whole gamut of products, really. I mean, we're looking at",
+      "zh": "商品种类非常广泛。比如，"
+    },
+    {
+      "id": 210,
+      "startMs": 1159640,
+      "endMs": 1165800,
+      "en": "American milk, perfume, video games, machine goods, washing machines, fridges,",
+      "zh": "美国牛奶、香水、电子游戏、机械产品、洗衣机和冰箱，"
+    },
+    {
+      "id": 211,
+      "startMs": 1166120,
+      "endMs": 1169080,
+      "en": "jackets, T-shirts, all sorts of things.",
+      "zh": "还有夹克、T恤等各种商品。"
+    },
+    {
+      "id": 212,
+      "startMs": 1169400,
+      "endMs": 1175320,
+      "en": "But the way that the Canadians have done their retaliation is, in a sense, deliberately unprovocative.",
+      "zh": "但加拿大采取报复措施的方式，可以说是刻意避免挑衅。"
+    },
+    {
+      "id": 213,
+      "startMs": 1175320,
+      "endMs": 1178440,
+      "en": "It's retaliation, but it's proportional retaliation.",
+      "zh": "这是报复，但属于对等报复。"
+    },
+    {
+      "id": 214,
+      "startMs": 1178440,
+      "endMs": 1185900,
+      "en": "So as they say, they're going dollar for dollar, rate for rate with the tariffs on 20 billion dollars worth of Canadian exports",
+      "zh": "正如他们所说，关税将逐美元、逐税率对等，涉及价值200亿美元的加拿大出口商品，"
+    },
+    {
+      "id": 215,
+      "startMs": 1186300,
+      "endMs": 1189980,
+      "en": "that the White House imposed tariffs on a couple of weeks ago.",
+      "zh": "这些商品是白宫几周前加征关税的对象。"
+    },
+    {
+      "id": 216,
+      "startMs": 1190380,
+      "endMs": 1197500,
+      "en": "So at the moment, you have this standoff, which is the latest salvo in an ongoing trade war that's been going on for about 18 months.",
+      "zh": "目前双方陷入僵局，这是持续约18个月的贸易战中最新的一轮交锋。"
+    },
+    {
+      "id": 217,
+      "startMs": 1197900,
+      "endMs": 1202220,
+      "en": "There were negotiations, as you say, through the summer, which were designed to put an end to all of that.",
+      "zh": "正如你所说，双方整个夏天都在谈判，原本是要结束这一切。"
+    },
+    {
+      "id": 218,
+      "startMs": 1203100,
+      "endMs": 1209420,
+      "en": "Those negotiations were coming close to an end. It was thought that a deal would be reached, and at the last moment they broke down.",
+      "zh": "谈判已接近尾声，外界原以为会达成协议，但最后一刻谈判破裂。"
+    },
+    {
+      "id": 219,
+      "startMs": 1209740,
+      "endMs": 1215660,
+      "en": "And what we have now is retaliation and an escalation of rhetoric that seems to show no sign of ending.",
+      "zh": "现在出现的是报复，以及不断升级的言辞，似乎没有结束的迹象。"
+    },
+    {
+      "id": 220,
+      "startMs": 1215740,
+      "endMs": 1224220,
+      "en": "Yeah, Donald Trump making these threats against the Canadian aircraft maker Bombardier, will Canada be matching those dollar for dollar?",
+      "zh": "唐纳德·特朗普威胁加拿大飞机制造商庞巴迪；加拿大会逐美元采取对等措施吗？"
+    },
+    {
+      "id": 221,
+      "startMs": 1224460,
+      "endMs": 1230700,
+      "en": "Well, you have to ask whether the Americans will actually impose tariffs or any other sort of sanctions on Bombardier.",
+      "zh": "首先要问的是，美国人是否真的会对庞巴迪征收关税或实施其他制裁。"
+    },
+    {
+      "id": 222,
+      "startMs": 1230700,
+      "endMs": 1235580,
+      "en": "I mean, Bombardier is not the company it once was that used to build regional jets",
+      "zh": "庞巴迪已经不再是过去那家制造支线飞机的公司，"
+    },
+    {
+      "id": 223,
+      "startMs": 1235580,
+      "endMs": 1240300,
+      "en": "and even at one point was trying to take on the likes of Boeing and Airbus with its CSeries aircraft.",
+      "zh": "它曾一度凭借C系列飞机试图与波音和空客竞争。"
+    },
+    {
+      "id": 224,
+      "startMs": 1240380,
+      "endMs": 1247520,
+      "en": "It's smaller than that now. It predominantly makes regional and business jets and also some military hardware.",
+      "zh": "如今它的规模已小得多，主要生产支线飞机和商务飞机，也生产一些军用设备。"
+    },
+    {
+      "id": 225,
+      "startMs": 1247920,
+      "endMs": 1255200,
+      "en": "Now, it doesn't make the planes in America, but it does make a lot of components there, and a lot of U.S. jobs do actually rely on Bombardier.",
+      "zh": "它不在美国制造飞机，但在那里生产许多零部件，实际上很多美国人的工作都依赖庞巴迪。"
+    },
+    {
+      "id": 226,
+      "startMs": 1255520,
+      "endMs": 1260160,
+      "en": "So, whether it would be in the U.S. interest to sanction Bombardier is very much open to question.",
+      "zh": "因此，制裁庞巴迪是否符合美国利益，确实很值得怀疑。"
+    },
+    {
+      "id": 227,
+      "startMs": 1260720,
+      "endMs": 1267520,
+      "en": "Despite the rhetoric, though, most trade between the two countries, which are enormous trading partners, is still tariff-free.",
+      "zh": "不过，尽管言辞激烈，这两个贸易大国之间的大部分贸易仍然免征关税。"
+    },
+    {
+      "id": 228,
+      "startMs": 1267680,
+      "endMs": 1276000,
+      "en": "Yeah, I mean, Canada does 70% of its trade with the United States. That trade is worth about 411 billion US dollars.",
+      "zh": "加拿大70%的贸易都与美国进行，这些贸易价值约4110亿美元。"
+    },
+    {
+      "id": 229,
+      "startMs": 1276320,
+      "endMs": 1278880,
+      "en": "The tariffs are on less than 5% of that.",
+      "zh": "征收关税的部分不到其中的5%。"
+    },
+    {
+      "id": 230,
+      "startMs": 1279280,
+      "endMs": 1283680,
+      "en": "Likewise, going the other way, U.S. exports to Canada, the tariffs will affect about 6%.",
+      "zh": "反过来，美国对加拿大的出口中，约有6%会受到关税影响。"
+    },
+    {
+      "id": 231,
+      "startMs": 1284400,
+      "endMs": 1288160,
+      "en": "So, yes, in overall terms, it's pretty small beer.",
+      "zh": "所以总体来看，影响其实很小。"
+    },
+    {
+      "id": 232,
+      "startMs": 1288160,
+      "endMs": 1295280,
+      "en": "And if you look at the average tariff rates that Canada pays, they're about level with what the UK is being charged by the US, that kind of level.",
+      "zh": "加拿大承担的平均关税税率，与英国被美国征收的税率大致相当。"
+    },
+    {
+      "id": 233,
+      "startMs": 1295920,
+      "endMs": 1300480,
+      "en": "But it's where the effect of these tariffs will fall, who's likely to be affected.",
+      "zh": "但关键在于关税影响会落在哪里，谁可能受到影响。"
+    },
+    {
+      "id": 234,
+      "startMs": 1300720,
+      "endMs": 1306020,
+      "en": "And it is, you know, in the case of U.S. tariffs on Canada, it's Canadian manufacturers,",
+      "zh": "就美国对加拿大的关税而言，受影响的是加拿大制造商；"
+    },
+    {
+      "id": 235,
+      "startMs": 1306180,
+      "endMs": 1314100,
+      "en": "and in the case of Canadian tariffs on the U.S., it targets people in Midwestern states that may turn out to be crucial in November's midterm elections.",
+      "zh": "而加拿大对美国的关税，针对的是中西部各州居民，他们可能成为11月中期选举的关键。"
+    },
+    {
+      "id": 236,
+      "startMs": 1314660,
+      "endMs": 1315620,
+      "en": "Theo Leggett.",
+      "zh": "西奥·莱格特。"
+    },
+    {
+      "id": 237,
+      "startMs": 1316980,
+      "endMs": 1323300,
+      "en": "In the latest high-profile art theft to hit French museums, a number of paintings worth millions of dollars",
+      "zh": "在最近一起震动法国博物馆的高调艺术品盗窃案中，多幅价值数百万美元的画作"
+    },
+    {
+      "id": 238,
+      "startMs": 1323620,
+      "endMs": 1328340,
+      "en": "have been stolen from the former home of the Impressionist painter Pierre-Auguste Renoir.",
+      "zh": "从印象派画家皮埃尔·奥古斯特·雷诺阿的故居被盗。"
+    },
+    {
+      "id": 239,
+      "startMs": 1328740,
+      "endMs": 1335940,
+      "en": "It follows a heist at the Louvre Museum last year when historic jewellery dubbed as the French crown jewels was stolen,",
+      "zh": "这起案件发生在去年卢浮宫失窃案之后，当时被称为法国王冠珠宝的历史珠宝遭到盗窃，"
+    },
+    {
+      "id": 240,
+      "startMs": 1336420,
+      "endMs": 1338180,
+      "en": "and most of the items remain missing.",
+      "zh": "其中大多数物品至今仍下落不明。"
+    },
+    {
+      "id": 241,
+      "startMs": 1338420,
+      "endMs": 1343380,
+      "en": "Our Paris correspondent Hugh Schofield is on the case of this latest theft.",
+      "zh": "本台驻巴黎记者休·斯科菲尔德将报道这起最新盗窃案。"
+    },
+    {
+      "id": 242,
+      "startMs": 1343780,
+      "endMs": 1348340,
+      "en": "This is a museum near Nice, Cagnes-sur-Mer, the last home of Renoir.",
+      "zh": "这是一座位于尼斯附近滨海卡涅的博物馆，是雷诺阿最后的故居。"
+    },
+    {
+      "id": 243,
+      "startMs": 1348340,
+      "endMs": 1353860,
+      "en": "He died in 1919. It's been a museum since the sixties, contains a number of his paintings.",
+      "zh": "他于1919年去世。这座故居自20世纪60年代起成为博物馆，收藏了不少他的画作。"
+    },
+    {
+      "id": 244,
+      "startMs": 1354180,
+      "endMs": 1359380,
+      "en": "And very early in the morning, between five and 06:00 in the morning, two men broke in.",
+      "zh": "清晨很早的时候，大约五点到六点之间，两名男子闯入馆内。"
+    },
+    {
+      "id": 245,
+      "startMs": 1359780,
+      "endMs": 1364420,
+      "en": "They apparently were well-equipped, in gloves and in fatigue combat fatigues.",
+      "zh": "据说他们装备齐全，戴着手套，穿着作战服。"
+    },
+    {
+      "id": 246,
+      "startMs": 1364420,
+      "endMs": 1369940,
+      "en": "They knew what they were doing, says the mayor. They broke into the museum. Immediately, the alarm went off.",
+      "zh": "市长说，他们知道自己在做什么。他们闯入博物馆，警报立即响了。"
+    },
+    {
+      "id": 247,
+      "startMs": 1370340,
+      "endMs": 1372020,
+      "en": "They had to make a very quick getaway.",
+      "zh": "他们不得不迅速逃离。"
+    },
+    {
+      "id": 248,
+      "startMs": 1372420,
+      "endMs": 1379800,
+      "en": "They took four paintings, but abandoned in their haste two of them in the grounds of the museum, and two are still missing.",
+      "zh": "他们带走了四幅画，但仓促间将其中两幅丢在博物馆院内，另有两幅仍然失踪。"
+    },
+    {
+      "id": 249,
+      "startMs": 1379800,
+      "endMs": 1384840,
+      "en": "And they are Renoir, original Renoir paintings, so they're worth an awful lot of money,",
+      "zh": "而且它们是雷诺阿、雷诺阿的真迹，价值非常高，"
+    },
+    {
+      "id": 250,
+      "startMs": 1385160,
+      "endMs": 1389000,
+      "en": "but will not be sellable on the open market because they're very famous pictures.",
+      "zh": "但因为是非常著名的画作，不可能在公开市场上出售。"
+    },
+    {
+      "id": 251,
+      "startMs": 1389160,
+      "endMs": 1392760,
+      "en": "Yeah, what is it about museum security in France?",
+      "zh": "是法国博物馆的安保到底出了什么问题？"
+    },
+    {
+      "id": 252,
+      "startMs": 1393080,
+      "endMs": 1396680,
+      "en": "Well, I think you've got to distinguish perhaps between the Louvre—where, you know...",
+      "zh": "我认为，或许得把卢浮宫单独区分开来——你知道……"
+    },
+    {
+      "id": 253,
+      "startMs": 1397160,
+      "endMs": 1402840,
+      "en": "It's possibly the most famous museum in the world, where everyone expects there to be an extremely high standard of security.",
+      "zh": "它可能是世界上最著名的博物馆，所有人都期待那里有极高标准的安保。"
+    },
+    {
+      "id": 254,
+      "startMs": 1402840,
+      "endMs": 1410920,
+      "en": "Which was clearly lacking for the heist a year ago—and, you know, this very, very rich and extensive network",
+      "zh": "一年前的那起劫案显然暴露了安保不足；而法国还有非常丰富、广泛的博物馆网络，"
+    },
+    {
+      "id": 255,
+      "startMs": 1411000,
+      "endMs": 1416520,
+      "en": "of smaller museums around the country. I'd class the Renoir Museum as a kind of middle-ranking museum.",
+      "zh": "遍布全国的小型博物馆。我会把雷诺阿博物馆归为中等规模的博物馆。"
+    },
+    {
+      "id": 256,
+      "startMs": 1416600,
+      "endMs": 1421240,
+      "en": "But I mean, below that, there are hundreds, thousands of small museums in France,",
+      "zh": "但比这更小的，还有数百、数千家法国小型博物馆，"
+    },
+    {
+      "id": 257,
+      "startMs": 1421400,
+      "endMs": 1427640,
+      "en": "which are very, very exposed and are now being targeted more and more by unscrupulous thieves.",
+      "zh": "它们的防护非常薄弱，如今越来越成为无良窃贼的目标。"
+    },
+    {
+      "id": 258,
+      "startMs": 1428200,
+      "endMs": 1435960,
+      "en": "Here, quite clearly, the place was targeted, but they will argue that their system of security actually functioned,",
+      "zh": "显然，这家博物馆是被有针对性地盯上的；但他们会说，安保系统其实发挥了作用，"
+    },
+    {
+      "id": 259,
+      "startMs": 1435960,
+      "endMs": 1441900,
+      "en": "and I think they're fairly confident that they will catch these people because they really only had five minutes in there",
+      "zh": "而且我认为他们相当有信心能抓到这些人，因为窃贼在里面实际上只待了五分钟，"
+    },
+    {
+      "id": 260,
+      "startMs": 1441900,
+      "endMs": 1443340,
+      "en": "before the police were on their tail.",
+      "zh": "警察就已经追上来了。"
+    },
+    {
+      "id": 261,
+      "startMs": 1443580,
+      "endMs": 1447260,
+      "en": "As you say, hard to sell—but perhaps they were stolen to order?",
+      "zh": "正如你所说，这些画很难销赃——但也许是受人指使盗取的？"
+    },
+    {
+      "id": 262,
+      "startMs": 1447500,
+      "endMs": 1451100,
+      "en": "Well, I think that must be the case. I mean, you can't sell these things; they're famous pictures,",
+      "zh": "我想一定是这样。我的意思是，这些东西卖不出去；它们都是著名画作，"
+    },
+    {
+      "id": 263,
+      "startMs": 1451180,
+      "endMs": 1453020,
+      "en": "so it must be a kind of prestigious thing",
+      "zh": "所以这一定是某种彰显身份的东西，"
+    },
+    {
+      "id": 264,
+      "startMs": 1453260,
+      "endMs": 1457500,
+      "en": "ordered by some high-up gangster who wants to be able to boast to his cronies",
+      "zh": "是某个地位很高的黑帮分子订购的，好在同伙面前炫耀，"
+    },
+    {
+      "id": 265,
+      "startMs": 1457500,
+      "endMs": 1459660,
+      "en": "because there's not much else he's going to be able to do with them.",
+      "zh": "因为他拿这些画也做不了别的什么。"
+    },
+    {
+      "id": 266,
+      "startMs": 1460220,
+      "endMs": 1461580,
+      "en": "Hugh Schofield.",
+      "zh": "休·斯科菲尔德报道。"
+    },
+    {
+      "id": 267,
+      "startMs": 1462520,
+      "endMs": 1468920,
+      "en": "To the English rock band Oasis now, who after 16 years of not performing took to the stage again last year",
+      "zh": "下面关注英国摇滚乐队绿洲。时隔16年未登台后，他们去年再次登上舞台，"
+    },
+    {
+      "id": 268,
+      "startMs": 1469320,
+      "endMs": 1474680,
+      "en": "and we're about to see how it all unfolded behind the scenes in a new documentary.",
+      "zh": "接下来我们将通过一部新纪录片，了解这一切在幕后是如何展开的。"
+    },
+    {
+      "id": 269,
+      "startMs": 1475080,
+      "endMs": 1479160,
+      "en": "The way it finished was unacceptable. It didn't sit right with me, man.",
+      "zh": "事情结束的方式令人无法接受。兄弟，那让我感觉很不对劲。"
+    },
+    {
+      "id": 270,
+      "startMs": 1479160,
+      "endMs": 1484600,
+      "en": "I just don't see myself on stage with Liam.",
+      "zh": "我就是无法想象自己和利亚姆同台。"
+    },
+    {
+      "id": 271,
+      "startMs": 1485560,
+      "endMs": 1487560,
+      "en": "I don't really want to be going back with the tension.",
+      "zh": "我真的不想带着这种紧张感回到台上。"
+    },
+    {
+      "id": 272,
+      "startMs": 1488800,
+      "endMs": 1490480,
+      "en": "Will it fall apart again?",
+      "zh": "他们会再次闹翻吗？"
+    },
+    {
+      "id": 273,
+      "startMs": 1492160,
+      "endMs": 1499120,
+      "en": "Steven Knight is the writer and producer of the film Oasis: Don't Look Back in Anger, and Anna Foster asked him",
+      "zh": "斯蒂文·奈特是电影《绿洲：别回首往事》的编剧和制片人，安娜·福斯特请他谈谈"
+    },
+    {
+      "id": 274,
+      "startMs": 1499120,
+      "endMs": 1502480,
+      "en": "how it all worked out. It's the first documentary I've ever made.",
+      "zh": "这一切最终如何实现。这是我拍的第一部纪录片。"
+    },
+    {
+      "id": 275,
+      "startMs": 1502480,
+      "endMs": 1506000,
+      "en": "So I'm not in charge of it, I'm not in control—I don't know where it's heading.",
+      "zh": "所以我并不负责这部片子，也无法控制它——我不知道它会走向何方。"
+    },
+    {
+      "id": 276,
+      "startMs": 1506560,
+      "endMs": 1510560,
+      "en": "But as an act of faith, I sort of said to everybody involved,",
+      "zh": "但出于一种信念，我对所有参与其中的人说，"
+    },
+    {
+      "id": 277,
+      "startMs": 1511120,
+      "endMs": 1515040,
+      "en": "We have to assume this is going to work. We have to assume they're going to come together,",
+      "zh": "我们得相信这会成功，也得相信他们会走到一起，"
+    },
+    {
+      "id": 278,
+      "startMs": 1515040,
+      "endMs": 1517120,
+      "en": "that this is going to be about reconciliation.",
+      "zh": "相信这会是一次和解。"
+    },
+    {
+      "id": 279,
+      "startMs": 1517120,
+      "endMs": 1519120,
+      "en": "Because that was never a guarantee—never a guarantee—",
+      "zh": "因为那从来没有保证——从来没有保证——"
+    },
+    {
+      "id": 280,
+      "startMs": 1519120,
+      "endMs": 1521760,
+      "en": "but that's what we set out to tell, that story.",
+      "zh": "但那正是我们要讲述的故事。"
+    },
+    {
+      "id": 281,
+      "startMs": 1522560,
+      "endMs": 1527760,
+      "en": "Fortunately, that's what happened. But when I met Noel and Liam at the very beginning of this,",
+      "zh": "幸运的是，事情确实如此。但在最初见到诺埃尔和利亚姆时，"
+    },
+    {
+      "id": 282,
+      "startMs": 1528540,
+      "endMs": 1535340,
+      "en": "They had such a burning desire for this to work that I sort of had no doubt that they were going to see it through.",
+      "zh": "他们强烈希望这件事成功，所以我几乎确信他们会坚持到底。"
+    },
+    {
+      "id": 283,
+      "startMs": 1535820,
+      "endMs": 1542860,
+      "en": "But I had no idea how emotional and profound this journey was going to be, because it's not just about these two brothers.",
+      "zh": "但我没想到这段历程会如此动人而深刻，因为这不只是关于这两兄弟。"
+    },
+    {
+      "id": 284,
+      "startMs": 1543180,
+      "endMs": 1544700,
+      "en": "It's about a lot more than that. Yeah.",
+      "zh": "它涉及的远不止这些。是的。"
+    },
+    {
+      "id": 285,
+      "startMs": 1545100,
+      "endMs": 1550060,
+      "en": "One of the reasons I'm really excited to see it is because when they first announced the tour, I thought,",
+      "zh": "我非常期待看到它，原因之一是他们刚宣布巡演时，我想，"
+    },
+    {
+      "id": 286,
+      "startMs": 1550060,
+      "endMs": 1552220,
+      "en": "Oh, I'm not sure—do I want to go back to my teenage years?",
+      "zh": "哦，我不确定——我想回到自己的青少年时代吗？"
+    },
+    {
+      "id": 287,
+      "startMs": 1552460,
+      "endMs": 1558300,
+      "en": "And I think, I think they almost in the same way, they didn't realize what it would become in the end.",
+      "zh": "而且我想，我想他们几乎也一样，没有意识到这段旅程最终会变成什么样。"
+    },
+    {
+      "id": 288,
+      "startMs": 1558300,
+      "endMs": 1561900,
+      "en": "That journey. —That is absolutely true. When I first met Noel,",
+      "zh": "那段旅程。——确实如此。我第一次见到诺埃尔时，"
+    },
+    {
+      "id": 289,
+      "startMs": 1562620,
+      "endMs": 1571740,
+      "en": "and I'm sort of looking for, because I've been invited to do this, and I was sort of quite shocked to be asked to do it, but Liam and Noel wanted me to do it, so I said yes.",
+      "zh": "我有点不知该怎么想，因为有人邀请我做这件事，我其实相当震惊，竟然被请来做；但利亚姆和诺埃尔希望我来做，所以我答应了。"
+    },
+    {
+      "id": 290,
+      "startMs": 1571740,
+      "endMs": 1578860,
+      "en": "And then when I met Noel, he said that they were not expecting the tidal wave of interest in buying tickets,",
+      "zh": "后来我见到诺埃尔，他说他们没料到购票会引发巨大的兴趣，"
+    },
+    {
+      "id": 291,
+      "startMs": 1578940,
+      "endMs": 1585700,
+      "en": "and so what they realized was, this isn't just the people who loved it originally—there's a whole new generation",
+      "zh": "所以他们意识到，喜欢这支乐队的不只是当年的那批人——还有整整新一代人，"
+    },
+    {
+      "id": 292,
+      "startMs": 1585700,
+      "endMs": 1591380,
+      "en": "that, for whatever reason, have found this music and found the words and found the feeling that Oasis give.",
+      "zh": "不知出于什么原因，他们发现了绿洲的音乐、歌词和带来的情感。"
+    },
+    {
+      "id": 293,
+      "startMs": 1592440,
+      "endMs": 1598040,
+      "en": "And so my question then for the documentary was: let's find out why that has happened, and that's what this film is about.",
+      "zh": "所以我为这部纪录片提出的问题是：让我们找出这一切为何发生，这就是本片要讲的内容。"
+    },
+    {
+      "id": 294,
+      "startMs": 1598840,
+      "endMs": 1600840,
+      "en": "Documentary maker Steven Knight.",
+      "zh": "纪录片制作人斯蒂文·奈特。"
+    },
+    {
+      "id": 295,
+      "startMs": 1603660,
+      "endMs": 1611020,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是本期全部内容。如需联系我们，可发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 296,
+      "startMs": 1611020,
+      "endMs": 1615500,
+      "en": "This edition was mixed by Chris Lovelock, and the producer was Richard Hamilton.",
+      "zh": "本期由克里斯·洛夫洛克混音，制片人为理查德·汉密尔顿。"
+    },
+    {
+      "id": 297,
+      "startMs": 1615820,
+      "endMs": 1617660,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 298,
+      "startMs": 1618140,
+      "endMs": 1620620,
+      "en": "I'm Alex Ritson. Until next time, goodbye.",
+      "zh": "我是亚历克斯·里特森。下期再见。"
+    }
+  ]
+}
