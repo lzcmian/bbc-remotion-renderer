@@ -1,0 +1,2013 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "9 September 2026"
+  },
+  "durationMs": 1569240,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3120,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5200,
+      "endMs": 10320,
+      "en": "Hello, I'm Oliver Conway. We're recording this at 04:00 GMT on Wednesday, the 9th of September.",
+      "zh": "你好，我是奥利弗·康韦。节目录制于9月9日星期三格林尼治时间04:00。"
+    },
+    {
+      "id": 3,
+      "startMs": 10720,
+      "endMs": 16880,
+      "en": "Israel hits back after the UK, France, and Canada impose sanctions on settlements in the occupied West Bank.",
+      "zh": "英国、法国和加拿大制裁被占领的约旦河西岸定居点后，以色列予以反击。"
+    },
+    {
+      "id": 4,
+      "startMs": 17600,
+      "endMs": 22400,
+      "en": "Fighting flares up again between the US and Iran, with numerous ships targeted.",
+      "zh": "美国与伊朗之间的战斗再次升级，多艘船只成为目标。"
+    },
+    {
+      "id": 5,
+      "startMs": 23040,
+      "endMs": 27520,
+      "en": "And there's a warning about teenagers' declining performance at school in the digital era.",
+      "zh": "此外，有警告称，数字时代青少年在学校的表现正在下降。"
+    },
+    {
+      "id": 6,
+      "startMs": 30320,
+      "endMs": 34000,
+      "en": "Also in this podcast, as Star Trek continues to boldly go...",
+      "zh": "本期播客还将关注《星际迷航》继续大胆前行……"
+    },
+    {
+      "id": 7,
+      "startMs": 34560,
+      "endMs": 38320,
+      "en": "We have flip phone communicators and video calls and things like that,",
+      "zh": "我们已经有翻盖手机式通讯器、视频通话之类的技术，"
+    },
+    {
+      "id": 8,
+      "startMs": 38320,
+      "endMs": 41440,
+      "en": "but we don't have teleportation and we don't have faster-than-light travel.",
+      "zh": "但我们还没有瞬间传送，也没有超光速旅行。"
+    },
+    {
+      "id": 9,
+      "startMs": 41760,
+      "endMs": 44880,
+      "en": "We look at the technology the show predicted 60 years ago.",
+      "zh": "我们将看看这部剧60年前预测的技术。"
+    },
+    {
+      "id": 10,
+      "startMs": 44880,
+      "endMs": 50800,
+      "en": "Israel has responded angrily to the announcement of new sanctions against Jewish settlements in the occupied West Bank.",
+      "zh": "以色列愤怒回应针对被占领约旦河西岸犹太人定居点的新制裁。"
+    },
+    {
+      "id": 11,
+      "startMs": 51200,
+      "endMs": 54880,
+      "en": "A statement from Britain, France, Canada and nine other nations said",
+      "zh": "英国、法国、加拿大和另外九国发表声明称，"
+    },
+    {
+      "id": 12,
+      "startMs": 54880,
+      "endMs": 60320,
+      "en": "the Israeli government's actions in the territory were undermining the possibility of a two-state solution,",
+      "zh": "以色列政府在当地的行动正在破坏两国方案的可能性，"
+    },
+    {
+      "id": 13,
+      "startMs": 60720,
+      "endMs": 64800,
+      "en": "which would see a Palestinian nation existing peacefully alongside Israel.",
+      "zh": "该方案将让巴勒斯坦国与以色列和平共存。"
+    },
+    {
+      "id": 14,
+      "startMs": 65360,
+      "endMs": 69920,
+      "en": "Such a deal has long seemed unlikely, but it would be virtually impossible",
+      "zh": "这种协议早已希望渺茫，但会变得几乎不可能，"
+    },
+    {
+      "id": 15,
+      "startMs": 69920,
+      "endMs": 76320,
+      "en": "if Israel goes ahead with its plan to build more than a thousand homes on a key piece of occupied land known as E1.",
+      "zh": "如果以色列继续在一片名为 E1 的关键被占土地上建造一千多所住宅。"
+    },
+    {
+      "id": 16,
+      "startMs": 76320,
+      "endMs": 82320,
+      "en": "Violent attacks by settlers against Palestinians in the West Bank have also increased in recent months.",
+      "zh": "近几个月，定居者在约旦河西岸针对巴勒斯坦人的暴力袭击也有所增加。"
+    },
+    {
+      "id": 17,
+      "startMs": 82960,
+      "endMs": 90080,
+      "en": "Setting out the new policy, the British Foreign Secretary, Ed Miliband, accused what he called settler terrorists of ethnic cleansing,",
+      "zh": "英国外交大臣埃德·米利班德阐述新政策时，指责他所谓的定居者恐怖分子实施种族清洗，"
+    },
+    {
+      "id": 18,
+      "startMs": 90400,
+      "endMs": 94560,
+      "en": "a claim that was fiercely rejected by his Israeli counterpart, Gideon Sa'ar.",
+      "zh": "该说法遭其以色列对口官员吉迪恩·萨尔强烈否认。"
+    },
+    {
+      "id": 19,
+      "startMs": 95200,
+      "endMs": 103280,
+      "en": "The accusations made today by the Foreign Secretary in the British Parliament were outrageous lies.",
+      "zh": "外交大臣今天在英国议会提出的指控是令人震惊的谎言。"
+    },
+    {
+      "id": 20,
+      "startMs": 104000,
+      "endMs": 107200,
+      "en": "We know that we have many friends in Britain.",
+      "zh": "我们知道，我们在英国有很多朋友。"
+    },
+    {
+      "id": 21,
+      "startMs": 108460,
+      "endMs": 116140,
+      "en": "Unfortunately, a hostile Labour government is in office, systematically acting against the State of Israel.",
+      "zh": "遗憾的是，敌对的工党政府正在执政，系统性地采取反以色列行动。"
+    },
+    {
+      "id": 22,
+      "startMs": 116620,
+      "endMs": 121420,
+      "en": "But Husam Zomlot, the current Palestinian UK ambassador, praised the new approach.",
+      "zh": "但现任巴勒斯坦驻英国大使胡萨姆·佐姆洛特赞扬了这一新做法。"
+    },
+    {
+      "id": 23,
+      "startMs": 121900,
+      "endMs": 129100,
+      "en": "We welcome this decision and commend Prime Minister Andy Burnham and Foreign Secretary Ed Miliband",
+      "zh": "我们欢迎这一决定，并赞扬首相安迪·伯纳姆和外交大臣埃德·米利班德，"
+    },
+    {
+      "id": 24,
+      "startMs": 129260,
+      "endMs": 137820,
+      "en": "for translating Britain's recognition of the State of Palestine and its obligation under international law into concrete action.",
+      "zh": "他们将英国承认巴勒斯坦国及其国际法义务转化为了具体行动。"
+    },
+    {
+      "id": 25,
+      "startMs": 138380,
+      "endMs": 141740,
+      "en": "Several other nations have already taken action over the settlements,",
+      "zh": "其他几个国家已经针对这些定居点采取行动，"
+    },
+    {
+      "id": 26,
+      "startMs": 141820,
+      "endMs": 150460,
+      "en": "and the latest development leaves Israel looking increasingly isolated at a time when support for it is waning in its traditional ally, the US.",
+      "zh": "而在其传统盟友美国对它的支持逐渐减弱之际，最新进展让以色列显得越发孤立。"
+    },
+    {
+      "id": 27,
+      "startMs": 150940,
+      "endMs": 156300,
+      "en": "So, how serious a moment is this for the Israeli government? I asked our international editor, Jeremy Bowen.",
+      "zh": "那么，这对以色列政府来说是多么严峻的时刻？我询问了我们的国际事务编辑杰里米·鲍恩。"
+    },
+    {
+      "id": 28,
+      "startMs": 156940,
+      "endMs": 161820,
+      "en": "I think they have to take it seriously. I think their tone is already defiant, and that's going to deepen.",
+      "zh": "我认为他们必须认真对待。我觉得他们的语气已经很强硬，而且还会进一步加剧。"
+    },
+    {
+      "id": 29,
+      "startMs": 161820,
+      "endMs": 166540,
+      "en": "There's no doubt about it. Not just because there is an election at the end of October.",
+      "zh": "毫无疑问。不仅因为10月底将举行选举。"
+    },
+    {
+      "id": 30,
+      "startMs": 167540,
+      "endMs": 174180,
+      "en": "And actually, in terms of opinion inside Israel, there is an overwhelming majority against the idea of a Palestinian state.",
+      "zh": "实际上，就以色列国内的民意而言，绝大多数人反对建立巴勒斯坦国。"
+    },
+    {
+      "id": 31,
+      "startMs": 175080,
+      "endMs": 180200,
+      "en": "A majority which has sort of strengthened and deepened since the 7th of October attacks.",
+      "zh": "自10月7日袭击以来，这一多数似乎有所扩大、加深。"
+    },
+    {
+      "id": 32,
+      "startMs": 181000,
+      "endMs": 188920,
+      "en": "And Mr. Miliband, Britain's Foreign Secretary's attempt to, if you like, square the circle by saying,",
+      "zh": "米利班德先生、英国外交大臣试图通过以下说法化解矛盾："
+    },
+    {
+      "id": 33,
+      "startMs": 189400,
+      "endMs": 195000,
+      "en": "Look, this is not about the people of Israel. It's not about the state of Israel. It's about the actions of the government of Israel.",
+      "zh": "看，这针对的不是以色列人民，也不是以色列这个国家，针对的是以色列政府的行为。"
+    },
+    {
+      "id": 34,
+      "startMs": 195560,
+      "endMs": 202680,
+      "en": "I don't think that is a distinction that the Israelis particularly are going to accept.",
+      "zh": "我不认为以色列人会特别接受这种区分。"
+    },
+    {
+      "id": 35,
+      "startMs": 203080,
+      "endMs": 212360,
+      "en": "However, I think the fact that there now is a long list of countries who are backing up Britain on this, and the Americans so far—may change—",
+      "zh": "不过，我认为，现在有一长串国家支持英国，而美国目前的立场——也许会改变——"
+    },
+    {
+      "id": 36,
+      "startMs": 212520,
+      "endMs": 217000,
+      "en": "The Americans so far have not said anything strong against it.",
+      "zh": "美国目前还没有对此发表强烈反对意见。"
+    },
+    {
+      "id": 37,
+      "startMs": 217820,
+      "endMs": 224460,
+      "en": "Well, that suggests that the Israelis are under even more pressure and are more isolated than they were before.",
+      "zh": "这表明，以色列承受的压力更大，也比以前更加孤立。"
+    },
+    {
+      "id": 38,
+      "startMs": 225020,
+      "endMs": 229900,
+      "en": "The British government has said this is about protecting the two-state solution",
+      "zh": "英国政府表示，这是为了保护两国方案，"
+    },
+    {
+      "id": 39,
+      "startMs": 229980,
+      "endMs": 234300,
+      "en": "and yet it affects trade of only about $50 million or so.",
+      "zh": "但它影响的贸易额只有大约5000万美元。"
+    },
+    {
+      "id": 40,
+      "startMs": 234380,
+      "endMs": 238460,
+      "en": "Will it make any difference? Well, it's not really about the money. I think it's about the politics",
+      "zh": "这会有任何作用吗？这其实不是钱的问题。我认为，关键在于政治，"
+    },
+    {
+      "id": 41,
+      "startMs": 238940,
+      "endMs": 241420,
+      "en": "and the geopolitics as well.",
+      "zh": "以及地缘政治。"
+    },
+    {
+      "id": 42,
+      "startMs": 241420,
+      "endMs": 250060,
+      "en": "I mean, Miliband, the Foreign Secretary, said that that Britain had a moral, historical and geopolitical responsibility.",
+      "zh": "我的意思是，外交大臣米利班德说，英国负有道德、历史和地缘政治责任。"
+    },
+    {
+      "id": 43,
+      "startMs": 250060,
+      "endMs": 261340,
+      "en": "Because the point he makes is that the turmoil that is and the growing violence in the West Bank is bad for Israel's security as well as being bad for the region.",
+      "zh": "因为他指出，约旦河西岸的动荡和日益加剧的暴力，既不利于以色列安全，也不利于该地区。"
+    },
+    {
+      "id": 44,
+      "startMs": 261340,
+      "endMs": 268300,
+      "en": "Because, of course, as we well know, this conflict has a great capacity for exporting trouble elsewhere.",
+      "zh": "因为，当然，正如我们都知道，这场冲突很容易把麻烦扩散到其他地方。"
+    },
+    {
+      "id": 45,
+      "startMs": 269020,
+      "endMs": 279040,
+      "en": "But yeah, I think, you know, one thing that has changed since the 7th of October attacks is that any artifice on the Israeli side about, well, under certain circumstances",
+      "zh": "但我觉得，自10月7日袭击以来，一个变化是，以色列方面所谓在某些情况下可以怎样的那种托辞，"
+    },
+    {
+      "id": 46,
+      "startMs": 279040,
+      "endMs": 282240,
+      "en": "we might have a Palestinian state or something like that, that's gone.",
+      "zh": "我们可能建立巴勒斯坦国之类的想法，已经消失了。"
+    },
+    {
+      "id": 47,
+      "startMs": 282960,
+      "endMs": 289920,
+      "en": "And now that any artifice on the side which is opposing what Israel has been doing is also going as well.",
+      "zh": "现在，反对以色列所作所为的一方也不再有这种假象了。"
+    },
+    {
+      "id": 48,
+      "startMs": 290480,
+      "endMs": 296080,
+      "en": "Miliband's language in the Commons was stripped bare of diplomatic fudge. It was very direct.",
+      "zh": "米利班德在下议院的措辞剥去了外交上的含糊其辞，非常直接。"
+    },
+    {
+      "id": 49,
+      "startMs": 296320,
+      "endMs": 304080,
+      "en": "Moral emergency, a stain on the conscience of the world in Gaza, evidence of war crimes, settler terrorism, ethnic cleansing.",
+      "zh": "道德紧急状态、加沙给世界良知留下的污点、战争罪证、定居者恐怖主义、种族清洗。"
+    },
+    {
+      "id": 50,
+      "startMs": 304240,
+      "endMs": 309600,
+      "en": "Think back to the days after the 7th of October attacks, when Keir Starmer—",
+      "zh": "回想10月7日袭击发生后的那些日子，当时基尔·斯塔默——"
+    },
+    {
+      "id": 51,
+      "startMs": 309600,
+      "endMs": 315760,
+      "en": "though he did walk back the remarks afterwards—when he was British Prime Minister, and he did an interview.",
+      "zh": "虽然后来确实收回了那些话——当他还是英国首相时，他接受了一次采访。"
+    },
+    {
+      "id": 52,
+      "startMs": 315760,
+      "endMs": 318880,
+      "en": "where he basically agreed with what the Israelis were saying at the time",
+      "zh": "在采访中，他基本同意当时以色列方面的说法。"
+    },
+    {
+      "id": 53,
+      "startMs": 318880,
+      "endMs": 323120,
+      "en": "That they could cut off food and water to Gaza. I mean, that is a massive change.",
+      "zh": "也就是以色列可以切断加沙的食物和水供应。我的意思是，这变化非常巨大。"
+    },
+    {
+      "id": 54,
+      "startMs": 323760,
+      "endMs": 331360,
+      "en": "Might the Israelis now, looking out at all these other countries opposing them, might they just push on with this E1 settlement, for example?",
+      "zh": "如今面对这些反对他们的国家，以色列人会不会仍然推进E1定居点建设，例如？"
+    },
+    {
+      "id": 55,
+      "startMs": 331360,
+      "endMs": 337680,
+      "en": "I think undoubtedly this government will. Undoubtedly, they've already got tenders out for construction.",
+      "zh": "我认为，这届政府肯定会。毫无疑问，他们已经发出了建设招标。"
+    },
+    {
+      "id": 56,
+      "startMs": 338440,
+      "endMs": 342760,
+      "en": "The Israelis have wanted to develop that sector since the nineties.",
+      "zh": "以色列人从20世纪90年代起就想开发那个区域。"
+    },
+    {
+      "id": 57,
+      "startMs": 342920,
+      "endMs": 347720,
+      "en": "What stopped them up to now has been the US government.",
+      "zh": "一直阻止他们这样做的是美国政府。"
+    },
+    {
+      "id": 58,
+      "startMs": 347720,
+      "endMs": 356200,
+      "en": "Successive American presidents saying that that is too far, that that really will torpedo the prospects of the two-state solution",
+      "zh": "历任美国总统都说，这样做太过分，确实会葬送两国方案的前景。"
+    },
+    {
+      "id": 59,
+      "startMs": 356200,
+      "endMs": 361720,
+      "en": "which is still official American policy, even though they're doing zero to try to make it happen.",
+      "zh": "两国方案仍是美国的官方政策，尽管美国几乎没有采取任何行动促成它。"
+    },
+    {
+      "id": 60,
+      "startMs": 362440,
+      "endMs": 371800,
+      "en": "You know, the thing, too, about this idea of a two-state solution, in other words, peace for independent Palestine alongside independent Israel",
+      "zh": "你知道，两国方案的意思是，让独立的巴勒斯坦与独立的以色列和平共处。"
+    },
+    {
+      "id": 61,
+      "startMs": 371960,
+      "endMs": 376440,
+      "en": "It's quoted so often by Western governments, not least the British, over many years now",
+      "zh": "多年来，西方各国政府，尤其是英国政府，经常引用这一说法。"
+    },
+    {
+      "id": 62,
+      "startMs": 376520,
+      "endMs": 382440,
+      "en": "And it has become an empty slogan. You know, you can make an argument which is a pretty strong argument",
+      "zh": "但它已经成了一句空洞的口号。你可以提出一个相当有力的论点。"
+    },
+    {
+      "id": 63,
+      "startMs": 383380,
+      "endMs": 390580,
+      "en": "That the silence over many years of Israel's allies about what was going on, while at the same time they were saying there should be a two-state solution,",
+      "zh": "多年来，以色列的盟友对正在发生的事情保持沉默，同时又声称应有两国方案，"
+    },
+    {
+      "id": 64,
+      "startMs": 391820,
+      "endMs": 395900,
+      "en": "actually made them complicit in what was happening, enabled what was happening.",
+      "zh": "实际上使他们成为这一切的共谋者，并助长了事态发展。"
+    },
+    {
+      "id": 65,
+      "startMs": 396460,
+      "endMs": 401020,
+      "en": "And they are trying, and, you know, many Palestinians would say it's a bit late, guys, isn't it?",
+      "zh": "他们现在正在努力，而许多巴勒斯坦人可能会说：各位，这是不是有点晚了？"
+    },
+    {
+      "id": 66,
+      "startMs": 401500,
+      "endMs": 411500,
+      "en": "You know, there are 700,000-plus Israelis in the West Bank, including East Jerusalem, a territory occupied since 1967.",
+      "zh": "你知道，约旦河西岸有70多万以色列人，包括东耶路撒冷；这些地区自1967年起被占领。"
+    },
+    {
+      "id": 67,
+      "startMs": 412460,
+      "endMs": 415980,
+      "en": "And that is something—how do you turn that clock back?",
+      "zh": "这是个问题——你要怎样让时钟倒转？"
+    },
+    {
+      "id": 68,
+      "startMs": 415980,
+      "endMs": 419420,
+      "en": "Very, very difficult, not to say impossible.",
+      "zh": "非常、非常困难，甚至可以说不可能。"
+    },
+    {
+      "id": 69,
+      "startMs": 419420,
+      "endMs": 422300,
+      "en": "But no one has actually ever come up with a solution that is better.",
+      "zh": "但实际上，从来没有人提出过更好的解决方案。"
+    },
+    {
+      "id": 70,
+      "startMs": 422860,
+      "endMs": 424700,
+      "en": "Our international editor, Jeremy Bowen.",
+      "zh": "我们的国际新闻编辑杰里米·鲍恩。"
+    },
+    {
+      "id": 71,
+      "startMs": 425420,
+      "endMs": 430860,
+      "en": "Meanwhile, there's been another flare-up in fighting between the US and Iran, with US Central Command",
+      "zh": "与此同时，美国和伊朗之间的战斗再次升级，美国中央司令部称，"
+    },
+    {
+      "id": 72,
+      "startMs": 430860,
+      "endMs": 435820,
+      "en": "saying it's destroyed five Iranian oil tankers after an American warship was targeted.",
+      "zh": "一艘美国军舰遭到袭击后，美军摧毁了5艘伊朗油轮。"
+    },
+    {
+      "id": 73,
+      "startMs": 436300,
+      "endMs": 443260,
+      "en": "Iran retaliated by attacking Jordan, while earlier saying it had captured an underwater US drone in the Strait of Hormuz.",
+      "zh": "伊朗发动袭击攻击约旦进行报复；此前伊朗还称在霍尔木兹海峡俘获了一架美国水下无人机。"
+    },
+    {
+      "id": 74,
+      "startMs": 443340,
+      "endMs": 445180,
+      "en": "I got the details from our reporter, Jiji Ahn.",
+      "zh": "记者吉吉·安介绍了详情。"
+    },
+    {
+      "id": 75,
+      "startMs": 446060,
+      "endMs": 450860,
+      "en": "This is, in a sense, a significant step in their current tit-for-tat escalation.",
+      "zh": "从某种意义上说，这是当前双方针锋相对升级的重要一步。"
+    },
+    {
+      "id": 76,
+      "startMs": 451180,
+      "endMs": 456540,
+      "en": "Iran saying that it's now carried out retaliatory military strikes on US military positions in Jordan,",
+      "zh": "伊朗称已对约旦境内的美国军事阵地发动报复性军事打击，"
+    },
+    {
+      "id": 77,
+      "startMs": 456700,
+      "endMs": 459900,
+      "en": "after the US destroyed, as you mentioned, five Iranian oil tankers.",
+      "zh": "此前美国摧毁了你提到的5艘伊朗油轮。"
+    },
+    {
+      "id": 78,
+      "startMs": 460300,
+      "endMs": 465420,
+      "en": "Now, Jordan has come out and said that it intercepted and destroyed 18 out of 20 missiles from Iran",
+      "zh": "约旦随后表示，它拦截并摧毁了伊朗发射的20枚导弹中的18枚，"
+    },
+    {
+      "id": 79,
+      "startMs": 465500,
+      "endMs": 469660,
+      "en": "and that there wasn't any damage. But we are going to have to wait to see what Washington has to say.",
+      "zh": "并称没有造成任何损害。但我们还要等待华盛顿方面的说法。"
+    },
+    {
+      "id": 80,
+      "startMs": 470060,
+      "endMs": 477600,
+      "en": "Now, the destruction of these five Iranian oil tankers, which Washington says again came in response to two attempted ballistic missile attacks",
+      "zh": "此次5艘伊朗油轮被摧毁，华盛顿再次称这是对两次弹道导弹袭击未遂的回应，"
+    },
+    {
+      "id": 81,
+      "startMs": 477600,
+      "endMs": 480640,
+      "en": "by the Islamic Republic Guard Corps against a US Navy ship.",
+      "zh": "袭击者是伊斯兰共和国卫队，目标为一艘美国海军舰艇。"
+    },
+    {
+      "id": 82,
+      "startMs": 481040,
+      "endMs": 486320,
+      "en": "There weren't any American casualties. But again, this is another play on Washington and Tehran",
+      "zh": "没有美国人员伤亡。但这再次显示华盛顿和德黑兰，"
+    },
+    {
+      "id": 83,
+      "startMs": 486480,
+      "endMs": 490080,
+      "en": "kind of going at each other, battling each other and doing sort of retaliatory strikes.",
+      "zh": "双方互相攻击、交战，并进行报复性打击。"
+    },
+    {
+      "id": 84,
+      "startMs": 490400,
+      "endMs": 494480,
+      "en": "The important thing to note is that one of the Iranian tankers that was targeted by the US was",
+      "zh": "需要注意的是，一艘遭美国袭击的伊朗油轮，"
+    },
+    {
+      "id": 85,
+      "startMs": 494480,
+      "endMs": 501360,
+      "en": "hit close to Kharg Island, which is Iran's main oil export, and it's a crucial point for getting Iranian crude into the international market.",
+      "zh": "在靠近哈尔克岛的地方被击中；那里是伊朗主要的石油出口地，也是伊朗原油进入国际市场的关键节点。"
+    },
+    {
+      "id": 86,
+      "startMs": 501520,
+      "endMs": 506400,
+      "en": "And it also comes at a time when, although it's not the first time that attacks have taken place here,",
+      "zh": "而且这发生在这样一个时刻：尽管这里并非第一次遭到袭击，"
+    },
+    {
+      "id": 87,
+      "startMs": 506560,
+      "endMs": 511200,
+      "en": "it does come after the US said it would avoid oil and gas infrastructure attacks in Iran.",
+      "zh": "但这次袭击发生在美国表示将避免攻击伊朗油气基础设施之后。"
+    },
+    {
+      "id": 88,
+      "startMs": 511520,
+      "endMs": 519600,
+      "en": "So essentially, the US is putting pressure on one of Iran's most important sources of revenue by targeting oil tankers that are linked to the Revolutionary Guard Corps.",
+      "zh": "所以本质上，美国通过攻击与革命卫队有关联的油轮，正在向伊朗最重要的收入来源之一施压。"
+    },
+    {
+      "id": 89,
+      "startMs": 520000,
+      "endMs": 524000,
+      "en": "And in the past couple of hours, Iran has threatened to widen the response further.",
+      "zh": "过去几小时，伊朗威胁要进一步扩大回应范围。"
+    },
+    {
+      "id": 90,
+      "startMs": 524000,
+      "endMs": 533460,
+      "en": "The IRGC has warned tanker crews around Kuwait and Bahrain to evacuate, which potentially raises concerns that attacks and strikes are going to happen in the wider region.",
+      "zh": "伊斯兰革命卫队警告科威特和巴林附近的油轮船员撤离，这可能引发对更广泛地区将发生袭击和打击的担忧。"
+    },
+    {
+      "id": 91,
+      "startMs": 533620,
+      "endMs": 538420,
+      "en": "It also comes at a time when Marco Rubio, who's visiting Colombia, mentioned",
+      "zh": "与此同时，正在访问哥伦比亚的马可·鲁比奥提到，"
+    },
+    {
+      "id": 92,
+      "startMs": 538420,
+      "endMs": 542580,
+      "en": "that every time Iran tries to hit Washington, Washington is going to retaliate back again.",
+      "zh": "伊朗每次试图打击华盛顿，华盛顿都会再次进行报复。"
+    },
+    {
+      "id": 93,
+      "startMs": 542580,
+      "endMs": 546500,
+      "en": "So this confrontation is just going to continue and escalate further moving forwards.",
+      "zh": "因此，这场对抗将继续，并在未来进一步升级。"
+    },
+    {
+      "id": 94,
+      "startMs": 546740,
+      "endMs": 555380,
+      "en": "Jiji Ahn. A global survey has found a dramatic decline in teenagers' abilities in maths, science and reading over the past three years.",
+      "zh": "吉吉·安。一项全球调查发现，过去三年来，青少年的数学、科学和阅读能力大幅下降。"
+    },
+    {
+      "id": 95,
+      "startMs": 555780,
+      "endMs": 562260,
+      "en": "The OECD looked at more than 700,000 schools in 91 countries as part of its regular study.",
+      "zh": "经合组织在常规研究中调查了91个国家的70多万所学校。"
+    },
+    {
+      "id": 96,
+      "startMs": 562500,
+      "endMs": 564580,
+      "en": "Joanna Keen has been looking at the latest figures.",
+      "zh": "乔安娜·基恩分析了最新数据。"
+    },
+    {
+      "id": 97,
+      "startMs": 565060,
+      "endMs": 571140,
+      "en": "Now, in science, there was a fall. Maths scores fell sharply again to their lowest ever levels.",
+      "zh": "首先，科学成绩下降；数学成绩再次大幅下滑，降至历史最低水平。"
+    },
+    {
+      "id": 98,
+      "startMs": 571540,
+      "endMs": 576260,
+      "en": "Reading fell even further, the biggest drop between tests ever seen.",
+      "zh": "阅读成绩跌得更厉害，是测试之间有记录以来最大的降幅。"
+    },
+    {
+      "id": 99,
+      "startMs": 576660,
+      "endMs": 584580,
+      "en": "And overall, we're now seeing that one in five 15-year-old students across the OECD is now classed as a low performer,",
+      "zh": "总体而言，经合组织范围内每五名15岁学生中就有一名被列为低表现者，"
+    },
+    {
+      "id": 100,
+      "startMs": 584580,
+      "endMs": 588820,
+      "en": "20%, that is, compared to 16% in 2022.",
+      "zh": "也就是20%，而2022年这一比例为16%。"
+    },
+    {
+      "id": 101,
+      "startMs": 589300,
+      "endMs": 592340,
+      "en": "But the researchers are also saying, look, it's not just about maths and reading.",
+      "zh": "但研究人员还指出，问题不只是数学和阅读。"
+    },
+    {
+      "id": 102,
+      "startMs": 592920,
+      "endMs": 596200,
+      "en": "These students are lacking basic skills for everyday life,",
+      "zh": "这些学生缺乏日常生活所需的基本技能，"
+    },
+    {
+      "id": 103,
+      "startMs": 596600,
+      "endMs": 600760,
+      "en": "like, you know, going to a supermarket and finding out which product is the best value.",
+      "zh": "比如去超市判断哪种商品最划算。"
+    },
+    {
+      "id": 104,
+      "startMs": 601320,
+      "endMs": 609400,
+      "en": "And worth also mentioning, China, Japan, Singapore, Estonia and the United Kingdom were among the top ten performing education systems.",
+      "zh": "还值得一提的是，中国、日本、新加坡、爱沙尼亚和英国位列表现最好的十大教育体系。"
+    },
+    {
+      "id": 105,
+      "startMs": 609640,
+      "endMs": 612600,
+      "en": "Why are they now so bad at reading?",
+      "zh": "他们现在为什么阅读能力这么差？"
+    },
+    {
+      "id": 106,
+      "startMs": 612600,
+      "endMs": 614280,
+      "en": "Is it all to do with their phones?",
+      "zh": "这一切都和他们使用手机有关吗？"
+    },
+    {
+      "id": 107,
+      "startMs": 614840,
+      "endMs": 615960,
+      "en": "Sort of, yes.",
+      "zh": "可以说，是的。"
+    },
+    {
+      "id": 108,
+      "startMs": 615960,
+      "endMs": 618440,
+      "en": "It goes beyond literacy, shall we say.",
+      "zh": "不过，可以说问题超越了读写能力。"
+    },
+    {
+      "id": 109,
+      "startMs": 618760,
+      "endMs": 623960,
+      "en": "They talk about instances of hasty reading, so students are reading quickly but inaccurately.",
+      "zh": "他们谈到仓促阅读的情况：学生读得很快，却不够准确。"
+    },
+    {
+      "id": 110,
+      "startMs": 624280,
+      "endMs": 629960,
+      "en": "And the amount of students doing that nearly doubled to 9% between 2018 and 2025.",
+      "zh": "2018年至2025年间，这样做的学生比例几乎翻倍，达到9%。"
+    },
+    {
+      "id": 111,
+      "startMs": 630120,
+      "endMs": 635240,
+      "en": "We're living in an increasingly digital world—more screen time, more social media.",
+      "zh": "我们生活在日益数字化的世界：屏幕时间更多，社交媒体也更多。"
+    },
+    {
+      "id": 112,
+      "startMs": 635800,
+      "endMs": 640840,
+      "en": "AI chatbots are being used by 46% of students at least once a week.",
+      "zh": "46%的学生每周至少使用一次人工智能聊天机器人。"
+    },
+    {
+      "id": 113,
+      "startMs": 641240,
+      "endMs": 644600,
+      "en": "So researchers are saying, look, when it comes to AI, it's a complex picture.",
+      "zh": "因此研究人员指出，就人工智能而言，情况很复杂。"
+    },
+    {
+      "id": 114,
+      "startMs": 645000,
+      "endMs": 651960,
+      "en": "It can strengthen learning and help prepare people for the future, but only when it's used purposefully, they say.",
+      "zh": "他们说，人工智能可以加强学习、帮助人们为未来做准备，但前提是有目的地使用。"
+    },
+    {
+      "id": 115,
+      "startMs": 652460,
+      "endMs": 654620,
+      "en": "So use it with care and in moderation.",
+      "zh": "所以要谨慎、适度地使用它。"
+    },
+    {
+      "id": 116,
+      "startMs": 655180,
+      "endMs": 660940,
+      "en": "Students are also being distracted by digital devices during lessons, which probably doesn't come as a surprise to many people.",
+      "zh": "学生在课堂上也会被电子设备分散注意力，这对很多人来说可能并不意外。"
+    },
+    {
+      "id": 117,
+      "startMs": 661580,
+      "endMs": 667820,
+      "en": "Researchers also say that we're really troubled by a decline in the very skills that matter most in the AI age,",
+      "zh": "研究人员还说，他们尤其担忧人工智能时代最重要的技能正在下降，"
+    },
+    {
+      "id": 118,
+      "startMs": 668220,
+      "endMs": 676700,
+      "en": "which they say are evaluating information, making connections across all these multiple sources coming at them, and then thinking critically about what they're reading.",
+      "zh": "这些技能包括评估信息、联系纷至沓来的多种来源，以及批判性地思考所读内容。"
+    },
+    {
+      "id": 119,
+      "startMs": 677020,
+      "endMs": 678700,
+      "en": "And what can be done about it?",
+      "zh": "那么，可以采取什么措施？"
+    },
+    {
+      "id": 120,
+      "startMs": 679700,
+      "endMs": 683940,
+      "en": "They're calling for investment in teachers, give them what they need to succeed,",
+      "zh": "他们呼吁投资于教师，给教师提供成功所需的条件，"
+    },
+    {
+      "id": 121,
+      "startMs": 683940,
+      "endMs": 689780,
+      "en": "whether that be training, resources, mentors, but also greater involvement from parents.",
+      "zh": "包括培训、资源和导师，也要让家长更多参与。"
+    },
+    {
+      "id": 122,
+      "startMs": 689780,
+      "endMs": 693300,
+      "en": "They're saying actually a holistic approach works, even if it's something simple,",
+      "zh": "他们说，整体性的方法确实有效，即使做的是简单的事情，"
+    },
+    {
+      "id": 123,
+      "startMs": 693300,
+      "endMs": 696340,
+      "en": "like, \"How was your day at school? What did you do today?\" Get everyone involved.",
+      "zh": "比如问“你今天在学校过得怎么样？今天做了什么？”让每个人都参与进来。"
+    },
+    {
+      "id": 124,
+      "startMs": 696740,
+      "endMs": 699540,
+      "en": "And they're also saying, look, set high expectations.",
+      "zh": "他们还说，要设定高标准。"
+    },
+    {
+      "id": 125,
+      "startMs": 699540,
+      "endMs": 702580,
+      "en": "And then teach fewer things in greater depth,",
+      "zh": "然后少教一些内容，但讲得更深入，"
+    },
+    {
+      "id": 126,
+      "startMs": 702900,
+      "endMs": 706820,
+      "en": "and they also point out, look, students need a sense of belonging to perform well.",
+      "zh": "他们还指出，学生需要归属感，才能有良好表现。"
+    },
+    {
+      "id": 127,
+      "startMs": 707060,
+      "endMs": 711220,
+      "en": "Ninety percent of students in Spain, for example, felt that they belonged.",
+      "zh": "例如，西班牙有90%的学生觉得自己属于所在群体。"
+    },
+    {
+      "id": 128,
+      "startMs": 711700,
+      "endMs": 715940,
+      "en": "That falls to 64% in countries like Denmark and Poland.",
+      "zh": "在丹麦和波兰等国家，这一比例降至64%。"
+    },
+    {
+      "id": 129,
+      "startMs": 716500,
+      "endMs": 723780,
+      "en": "Girls often feel that they don't belong as much as boys, and also disadvantaged students as well don't feel that sense of belonging.",
+      "zh": "女孩常常觉得自己不如男孩有归属感，而且处境不利的学生也没有这种归属感。"
+    },
+    {
+      "id": 130,
+      "startMs": 724180,
+      "endMs": 724900,
+      "en": "Joanna Keen.",
+      "zh": "乔安娜·基恩。"
+    },
+    {
+      "id": 131,
+      "startMs": 727240,
+      "endMs": 731720,
+      "en": "Still to come on this podcast... a small little, I think it's like thick paper,",
+      "zh": "本节目稍后将播出……一种小小的、我想是厚纸片一样的东西，"
+    },
+    {
+      "id": 132,
+      "startMs": 731720,
+      "endMs": 734760,
+      "en": "that they put underneath your lower eyelid for about 10 minutes.",
+      "zh": "放在你的下眼睑下方，大约十分钟。"
+    },
+    {
+      "id": 133,
+      "startMs": 735480,
+      "endMs": 739080,
+      "en": "How testing a person's tears can help detect brain cancer.",
+      "zh": "检测一个人的泪液如何帮助发现脑癌。"
+    },
+    {
+      "id": 134,
+      "startMs": 739080,
+      "endMs": 741240,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 135,
+      "startMs": 741800,
+      "endMs": 748120,
+      "en": "A blanket of toxic haze is enveloping parts of Indonesia and spreading into Malaysia, Singapore, and the Philippines",
+      "zh": "一片有毒的烟霾笼罩着印度尼西亚部分地区，并蔓延至马来西亚、新加坡和菲律宾，"
+    },
+    {
+      "id": 136,
+      "startMs": 748520,
+      "endMs": 750440,
+      "en": "as wildfires continue to burn.",
+      "zh": "野火仍在持续燃烧。"
+    },
+    {
+      "id": 137,
+      "startMs": 750760,
+      "endMs": 755320,
+      "en": "More than 2,000 square kilometres of land has been scorched in Sumatra and Kalimantan",
+      "zh": "苏门答腊和加里曼丹已有超过2,000平方公里的土地被烧焦，"
+    },
+    {
+      "id": 138,
+      "startMs": 755720,
+      "endMs": 759960,
+      "en": "with residents describing the smog as so thick they can't even see their own feet.",
+      "zh": "居民形容烟雾浓重到甚至看不见自己的脚。"
+    },
+    {
+      "id": 139,
+      "startMs": 760440,
+      "endMs": 764680,
+      "en": "Our Indonesia correspondent, Liza Tambunan, sent this report.",
+      "zh": "我们的印度尼西亚记者丽莎·坦布南发来了这篇报道。"
+    },
+    {
+      "id": 140,
+      "startMs": 764680,
+      "endMs": 768200,
+      "en": "Twenty-year-old Endang Susilawati has just lost her home.",
+      "zh": "20岁的恩当·苏西拉瓦蒂刚刚失去了家。"
+    },
+    {
+      "id": 141,
+      "startMs": 768760,
+      "endMs": 771880,
+      "en": "She's crying for help. Her family are still inside.",
+      "zh": "她哭喊着求救。她的家人还在里面。"
+    },
+    {
+      "id": 142,
+      "startMs": 775060,
+      "endMs": 778420,
+      "en": "Forest fires have been burning for weeks across Indonesia.",
+      "zh": "森林大火已在印度尼西亚各地燃烧数周。"
+    },
+    {
+      "id": 143,
+      "startMs": 778820,
+      "endMs": 782980,
+      "en": "Firefighters and water-bombing helicopters have been unable to control them.",
+      "zh": "消防员和投水灭火直升机一直无法控制火势。"
+    },
+    {
+      "id": 144,
+      "startMs": 784580,
+      "endMs": 791620,
+      "en": "The skies above parts of Kalimantan, Indonesia's side of Borneo Island, have turned an ominous glowing orange.",
+      "zh": "印度尼西亚婆罗洲岛一侧的加里曼丹部分地区上空，变成了不祥的橙色。"
+    },
+    {
+      "id": 145,
+      "startMs": 792020,
+      "endMs": 796820,
+      "en": "For millions living downwind, every breath carries the acrid taste of burnt earth.",
+      "zh": "对数百万生活在下风向的人来说，每次呼吸都带着焦土的刺鼻味道。"
+    },
+    {
+      "id": 146,
+      "startMs": 797860,
+      "endMs": 804420,
+      "en": "Residents are increasingly concerned over the toll the haze is taking on their health, particularly for young children.",
+      "zh": "居民越来越担心烟霾对健康造成的影响，尤其是对幼儿的影响。"
+    },
+    {
+      "id": 147,
+      "startMs": 804980,
+      "endMs": 808580,
+      "en": "This woman lives in Pontianak, one of the worst affected cities.",
+      "zh": "这名女子住在坤甸，这是受影响最严重的城市之一。"
+    },
+    {
+      "id": 148,
+      "startMs": 810960,
+      "endMs": 816000,
+      "en": "I'm worried that we might all get sick, one after another, because of this haze.",
+      "zh": "我担心我们可能会因为烟霾一个接一个地生病。"
+    },
+    {
+      "id": 149,
+      "startMs": 816720,
+      "endMs": 821760,
+      "en": "My niece is still young, and her cough hasn't gone away for two weeks now.",
+      "zh": "我的侄女还很小，她的咳嗽到现在已经两周没有消退了。"
+    },
+    {
+      "id": 150,
+      "startMs": 822240,
+      "endMs": 828320,
+      "en": "Between July and August, Indonesia's Health Ministry recorded 50,000 cases of respiratory infections.",
+      "zh": "7月至8月期间，印度尼西亚卫生部记录了50,000起呼吸道感染病例。"
+    },
+    {
+      "id": 151,
+      "startMs": 828640,
+      "endMs": 830880,
+      "en": "Attributed to land and forest fires.",
+      "zh": "这些病例归因于土地和森林火灾。"
+    },
+    {
+      "id": 152,
+      "startMs": 831360,
+      "endMs": 835120,
+      "en": "More than 12,000 of those cases are children under the age of five.",
+      "zh": "其中超过12,000例患者是五岁以下儿童。"
+    },
+    {
+      "id": 153,
+      "startMs": 835680,
+      "endMs": 840480,
+      "en": "So the authorities are ramping up fire suppression efforts on the ground and in the air.",
+      "zh": "因此，当局正在加强地面和空中的灭火工作。"
+    },
+    {
+      "id": 154,
+      "startMs": 840480,
+      "endMs": 846880,
+      "en": "An integrated response is underway through land and air operations.",
+      "zh": "一项结合陆地和空中行动的综合应对正在展开。"
+    },
+    {
+      "id": 155,
+      "startMs": 847680,
+      "endMs": 854720,
+      "en": "Including hotspot monitoring and extinguishing, aerial water bombing, and weather modification.",
+      "zh": "包括监测并扑灭热点、空中投水灭火以及人工影响天气。"
+    },
+    {
+      "id": 156,
+      "startMs": 855440,
+      "endMs": 861920,
+      "en": "But the fires continue to burn, lit both by big companies and individual farmers to clear land for agriculture.",
+      "zh": "但大火仍在燃烧，既有大公司也有个体农民为开垦农业用地而点火。"
+    },
+    {
+      "id": 157,
+      "startMs": 862400,
+      "endMs": 870720,
+      "en": "And this year's super El Niño weather pattern, bringing drought conditions, has made this Indonesia's worst fire season since 2015.",
+      "zh": "今年带来干旱条件的超级厄尔尼诺天气模式，使印度尼西亚经历了2015年以来最严重的火灾季。"
+    },
+    {
+      "id": 158,
+      "startMs": 871840,
+      "endMs": 873680,
+      "en": "The climate impact is staggering.",
+      "zh": "气候影响令人震惊。"
+    },
+    {
+      "id": 159,
+      "startMs": 874080,
+      "endMs": 879920,
+      "en": "Data from the European Union's Copernicus Climate Monitoring Service shows that Indonesian fires",
+      "zh": "欧盟哥白尼气候监测服务的数据表明，印度尼西亚的火灾"
+    },
+    {
+      "id": 160,
+      "startMs": 879920,
+      "endMs": 885440,
+      "en": "put out more than 20 million tonnes of carbon dioxide in just seven days earlier this month.",
+      "zh": "在本月早些时候仅七天内排放了超过2,000万吨二氧化碳。"
+    },
+    {
+      "id": 161,
+      "startMs": 885840,
+      "endMs": 888720,
+      "en": "accounting for more than one-third of the global total.",
+      "zh": "占全球总量的三分之一以上。"
+    },
+    {
+      "id": 162,
+      "startMs": 889440,
+      "endMs": 896560,
+      "en": "And senior scientist Mark Parrington says satellite sensors may not pick up many of the peat fires burning in Indonesia.",
+      "zh": "高级科学家马克·帕林顿说，卫星传感器可能探测不到许多泥炭火灾。"
+    },
+    {
+      "id": 163,
+      "startMs": 896880,
+      "endMs": 901760,
+      "en": "One of the aspects with peat fires is if they're burning at low temperatures or underground,",
+      "zh": "泥炭火灾的一个特点是，如果它们在低温下或地下燃烧，"
+    },
+    {
+      "id": 164,
+      "startMs": 902240,
+      "endMs": 904720,
+      "en": "they'd be below the detection limit of the sensors,",
+      "zh": "就会低于传感器的探测极限，"
+    },
+    {
+      "id": 165,
+      "startMs": 904720,
+      "endMs": 906880,
+      "en": "which means we're not actually seeing them.",
+      "zh": "这意味着我们实际上看不到它们。"
+    },
+    {
+      "id": 166,
+      "startMs": 907360,
+      "endMs": 914000,
+      "en": "And so we're probably underestimating, possibly to quite some degree, the actual emissions in the end.",
+      "zh": "所以，我们最终可能低估了实际排放量，而且低估的程度可能相当大。"
+    },
+    {
+      "id": 167,
+      "startMs": 914640,
+      "endMs": 919120,
+      "en": "The number of hotspots detected in August and early September surpassed 13,000.",
+      "zh": "8月和9月初探测到的热点数量超过了13,000个。"
+    },
+    {
+      "id": 168,
+      "startMs": 920160,
+      "endMs": 925200,
+      "en": "Much higher than the 9,400 recorded over the same period in 2015,",
+      "zh": "这远高于2015年同期记录的9,400个，"
+    },
+    {
+      "id": 169,
+      "startMs": 925840,
+      "endMs": 928480,
+      "en": "according to the Indonesian Ministry of Forestry.",
+      "zh": "印度尼西亚林业部如此表示。"
+    },
+    {
+      "id": 170,
+      "startMs": 928880,
+      "endMs": 934900,
+      "en": "Once again, Indonesia finds itself unable to do much else apart from waiting for the monsoon rains,",
+      "zh": "印度尼西亚再次发现，除了等待季风雨之外，几乎无计可施，"
+    },
+    {
+      "id": 171,
+      "startMs": 935300,
+      "endMs": 937460,
+      "en": "which may not come for another two months.",
+      "zh": "而季风雨可能还要两个月才会到来。"
+    },
+    {
+      "id": 172,
+      "startMs": 937860,
+      "endMs": 939860,
+      "en": "Liza Tambunan in Indonesia.",
+      "zh": "印度尼西亚的丽莎·坦布南报道。"
+    },
+    {
+      "id": 173,
+      "startMs": 940780,
+      "endMs": 947500,
+      "en": "The 9/11 attacks on the US killed about 3,000 people, most of them in the World Trade Center in New York.",
+      "zh": "九一一袭击造成约3,000人死亡，其中大多数死于纽约世贸中心。"
+    },
+    {
+      "id": 174,
+      "startMs": 947980,
+      "endMs": 953420,
+      "en": "As each of the Twin Towers fell, the streets of Lower Manhattan were engulfed in a dense cloud of dust.",
+      "zh": "双子塔相继倒塌时，曼哈顿下城的街道被浓密的尘云吞没。"
+    },
+    {
+      "id": 175,
+      "startMs": 954060,
+      "endMs": 960060,
+      "en": "Now, 25 years on, New York officials have released tens of thousands of previously undisclosed documents.",
+      "zh": "如今，25年过去，纽约官员公布了数万份此前未公开的文件。"
+    },
+    {
+      "id": 176,
+      "startMs": 960380,
+      "endMs": 963820,
+      "en": "showing the city knew about the toxic air around Ground Zero,",
+      "zh": "文件显示，纽约市知道世贸中心遗址周围存在有毒空气，"
+    },
+    {
+      "id": 177,
+      "startMs": 964140,
+      "endMs": 965980,
+      "en": "but kept the details from the public.",
+      "zh": "但对公众隐瞒了详情。"
+    },
+    {
+      "id": 178,
+      "startMs": 966540,
+      "endMs": 971420,
+      "en": "The current New York mayor, Zohran Mamdani, and comedian Jon Stewart have been campaigning on the issue.",
+      "zh": "纽约现任市长佐赫兰·曼达尼和喜剧演员乔恩·斯图尔特一直在为此事奔走。"
+    },
+    {
+      "id": 179,
+      "startMs": 971660,
+      "endMs": 974300,
+      "en": "This report from our New York correspondent, Nada Tawfik.",
+      "zh": "这是我们的纽约记者娜达·陶菲克发来的报道。"
+    },
+    {
+      "id": 180,
+      "startMs": 974940,
+      "endMs": 980540,
+      "en": "More people have died from 9/11-related illnesses than were killed on the day of the attacks.",
+      "zh": "死于九一一相关疾病的人数，已经超过袭击当天遇难的人数。"
+    },
+    {
+      "id": 181,
+      "startMs": 980540,
+      "endMs": 984620,
+      "en": "With thousands developing serious illnesses, including cancer,",
+      "zh": "数千人患上包括癌症在内的重病，"
+    },
+    {
+      "id": 182,
+      "startMs": 985020,
+      "endMs": 994380,
+      "en": "And 25 years on, survivors, first responders, and advocates especially have been battling for transparency around what city officials knew",
+      "zh": "25年过去，幸存者、急救人员和倡导者尤其一直在争取公开市政府官员当时知晓的情况，"
+    },
+    {
+      "id": 183,
+      "startMs": 994380,
+      "endMs": 1000380,
+      "en": "about the toxic air around Ground Zero and whether they were honest in their assurances",
+      "zh": "其中包括世贸中心遗址周围的有毒空气，以及他们向公众保证时是否诚实，"
+    },
+    {
+      "id": 184,
+      "startMs": 1000620,
+      "endMs": 1003260,
+      "en": "to the public that it was safe to return.",
+      "zh": "他们曾向公众保证那里可以安全返回。"
+    },
+    {
+      "id": 185,
+      "startMs": 1003740,
+      "endMs": 1009260,
+      "en": "Now, one of the documents included in this release is an October 2001 memo",
+      "zh": "此次公布的文件中有一份2001年10月的备忘录，"
+    },
+    {
+      "id": 186,
+      "startMs": 1009500,
+      "endMs": 1014780,
+      "en": "written to the deputy of then-Mayor Rudy Giuliani, in which city lawyers warn",
+      "zh": "写给时任市长鲁迪·朱利安尼的副手，市政府律师在其中警告，"
+    },
+    {
+      "id": 187,
+      "startMs": 1015100,
+      "endMs": 1018140,
+      "en": "that the city could be sued over health advisories",
+      "zh": "纽约市可能因健康建议而被起诉，"
+    },
+    {
+      "id": 188,
+      "startMs": 1018460,
+      "endMs": 1022700,
+      "en": "that led individuals to return to the area too soon.",
+      "zh": "这些建议导致人们过早返回该地区。"
+    },
+    {
+      "id": 189,
+      "startMs": 1023020,
+      "endMs": 1031020,
+      "en": "Revealing that the city was well aware then of serious health risks from toxic dust and airborne contaminants",
+      "zh": "这揭示出，当时纽约市清楚地知道有毒尘埃和空气传播污染物带来的严重健康风险，"
+    },
+    {
+      "id": 190,
+      "startMs": 1031100,
+      "endMs": 1034600,
+      "en": "at the site and were concerned about potential lawsuits.",
+      "zh": "这些污染物存在于现场，他们还担心可能面临诉讼。"
+    },
+    {
+      "id": 191,
+      "startMs": 1035000,
+      "endMs": 1044360,
+      "en": "Now the records, according to New York officials, were stored in 68 boxes in a city office, and many were only discovered last year.",
+      "zh": "纽约官员说，这些记录曾存放在市政府一间办公室的68个箱子里，其中许多直到去年才被发现。"
+    },
+    {
+      "id": 192,
+      "startMs": 1044840,
+      "endMs": 1052120,
+      "en": "And Mayor Mamdani announced the release of the documents at a press conference surrounded by survivors and advocates,",
+      "zh": "曼达尼市长在一场记者会上宣布公开这些文件，身边是幸存者和倡议者，"
+    },
+    {
+      "id": 193,
+      "startMs": 1052440,
+      "endMs": 1057560,
+      "en": "including Jon Stewart, who long campaigned for continued funding for victims.",
+      "zh": "其中包括乔恩·斯图尔特，他长期呼吁继续为受害者提供资金。"
+    },
+    {
+      "id": 194,
+      "startMs": 1058040,
+      "endMs": 1065640,
+      "en": "And Mayor Mamdani, promising transparency, said that people got sick because the leaders they trusted lied.",
+      "zh": "曼达尼市长承诺保持透明，并说人们生病是因为他们信任的领导人撒了谎。"
+    },
+    {
+      "id": 195,
+      "startMs": 1065800,
+      "endMs": 1067880,
+      "en": "The darkest day New York City has ever known.",
+      "zh": "这是纽约市有史以来最黑暗的一天。"
+    },
+    {
+      "id": 196,
+      "startMs": 1068440,
+      "endMs": 1074920,
+      "en": "And yet the devastating truth is that the suffering did not end once the smoke cleared and the dust settled.",
+      "zh": "然而，残酷的事实是，烟雾散去、尘埃落定后，苦难并没有结束。"
+    },
+    {
+      "id": 197,
+      "startMs": 1074920,
+      "endMs": 1081400,
+      "en": "For so many New Yorkers who lived or worked or studied near Ground Zero, and for the thousands of others",
+      "zh": "对许多在世贸中心遗址附近生活、工作或学习的纽约人，以及数千名其他人来说，"
+    },
+    {
+      "id": 198,
+      "startMs": 1081480,
+      "endMs": 1085240,
+      "en": "who worked on the pile, recovering those we lost and clearing the rubble,",
+      "zh": "他们曾在废墟上工作，寻找遇难者、清理瓦砾，"
+    },
+    {
+      "id": 199,
+      "startMs": 1085720,
+      "endMs": 1090280,
+      "en": "that was only the beginning of years of hardship and illness that would follow.",
+      "zh": "那只是随后多年艰辛与疾病的开始。"
+    },
+    {
+      "id": 200,
+      "startMs": 1090520,
+      "endMs": 1098620,
+      "en": "Jon Stewart also spoke, and he said that the records confirmed what many New Yorkers suspected for years.",
+      "zh": "乔恩·斯图尔特也发表了讲话。他说，这些记录证实了许多纽约人多年来的怀疑。"
+    },
+    {
+      "id": 201,
+      "startMs": 1098780,
+      "endMs": 1106860,
+      "en": "There was poison in the air and on the ground and in the window sills and in your air conditioners,",
+      "zh": "空气中、地面上、窗台上，以及空调里都有毒物，"
+    },
+    {
+      "id": 202,
+      "startMs": 1107100,
+      "endMs": 1113580,
+      "en": "and covering your pets and your clothes, and it stayed there for months.",
+      "zh": "还覆盖在宠物和衣服上，并在那里残留了数月。"
+    },
+    {
+      "id": 203,
+      "startMs": 1114140,
+      "endMs": 1119100,
+      "en": "Everyone knew. And now it's very clear that the city knew as well.",
+      "zh": "所有人都知道。现在很明显，市政府也知道。"
+    },
+    {
+      "id": 204,
+      "startMs": 1119580,
+      "endMs": 1126540,
+      "en": "He accused city officials of prioritizing getting New York back up and running over public health concerns",
+      "zh": "他指责市政府官员把让纽约恢复运转置于公共卫生问题之上，"
+    },
+    {
+      "id": 205,
+      "startMs": 1126860,
+      "endMs": 1129180,
+      "en": "and with hiding the truth for 25 years.",
+      "zh": "并且隐瞒了25年的真相。"
+    },
+    {
+      "id": 206,
+      "startMs": 1130140,
+      "endMs": 1132140,
+      "en": "Nada Tawfik in New York.",
+      "zh": "娜达·陶菲克在纽约报道。"
+    },
+    {
+      "id": 207,
+      "startMs": 1132940,
+      "endMs": 1135260,
+      "en": "Could crying help save lives?",
+      "zh": "哭泣能帮助拯救生命吗？"
+    },
+    {
+      "id": 208,
+      "startMs": 1135660,
+      "endMs": 1141020,
+      "en": "Well, British scientists are developing a screening test that can quickly show if a patient has a brain tumour",
+      "zh": "英国科学家正在开发一种筛查测试，能迅速显示患者是否患有脑瘤，"
+    },
+    {
+      "id": 209,
+      "startMs": 1141180,
+      "endMs": 1149080,
+      "en": "simply by analysing their tears. It's proved successful in initial trials and could help doctors diagnose brain cancer earlier.",
+      "zh": "只需分析患者的泪液即可。初步试验已证明成功，并可能帮助医生更早诊断脑癌。"
+    },
+    {
+      "id": 210,
+      "startMs": 1149320,
+      "endMs": 1152200,
+      "en": "Our reporter, Roger Johnson, visited the University of Manchester.",
+      "zh": "我们的记者罗杰·约翰逊走访了曼彻斯特大学。"
+    },
+    {
+      "id": 211,
+      "startMs": 1153320,
+      "endMs": 1161080,
+      "en": "This looks like any other laboratory in any other hospital or university, but the work being done here is unique.",
+      "zh": "这里看起来和其他医院或大学里的实验室没有区别，但这里开展的工作独一无二。"
+    },
+    {
+      "id": 212,
+      "startMs": 1161800,
+      "endMs": 1168600,
+      "en": "The groundbreaking test, which has been developed in Manchester, started with a casual chat between two scientists in a bar in Denmark.",
+      "zh": "这项在曼彻斯特开发的突破性测试，始于两位科学家在丹麦一家酒吧的闲聊。"
+    },
+    {
+      "id": 213,
+      "startMs": 1169320,
+      "endMs": 1172600,
+      "en": "One of them was Slovakian-born Professor Petra Hamerlik.",
+      "zh": "其中一位是出生于斯洛伐克的佩特拉·哈默利克教授。"
+    },
+    {
+      "id": 214,
+      "startMs": 1172920,
+      "endMs": 1178920,
+      "en": "In that conversation, it somehow came up that he was analysing tears for some ocular diseases.",
+      "zh": "在那次谈话中，他们不知怎么聊到，他正在分析泪液以研究某些眼科疾病。"
+    },
+    {
+      "id": 215,
+      "startMs": 1179240,
+      "endMs": 1185400,
+      "en": "And I was like, what if, you know, there is a connection? Because we know that the eye is the extension of the central nervous system.",
+      "zh": "我当时想，你知道，会不会存在某种联系？因为我们知道，眼睛是中枢神经系统的延伸。"
+    },
+    {
+      "id": 216,
+      "startMs": 1185880,
+      "endMs": 1192760,
+      "en": "So we speculated that maybe whatever is happening in the brain when the tumour starts growing, it's mirrored and reflected in the tear fluid.",
+      "zh": "所以我们推测，肿瘤开始生长时大脑里发生的一切，或许会在泪液中映射和反映出来。"
+    },
+    {
+      "id": 217,
+      "startMs": 1192760,
+      "endMs": 1196920,
+      "en": "So that was like kind of the first thought. And it proved to be right. That was back in 2012.",
+      "zh": "所以那算是最初的想法。它被证明是正确的。那是在2012年。"
+    },
+    {
+      "id": 218,
+      "startMs": 1196920,
+      "endMs": 1201000,
+      "en": "Professor Hamerlik had tried blood tests, but they didn't work.",
+      "zh": "哈默利克教授曾尝试过血液检测，但没有奏效。"
+    },
+    {
+      "id": 219,
+      "startMs": 1201480,
+      "endMs": 1205720,
+      "en": "This test is simple. Huw McCandless, a brain tumour patient, took part.",
+      "zh": "这项测试很简单。脑瘤患者休·麦坎德利斯参与了测试。"
+    },
+    {
+      "id": 220,
+      "startMs": 1206360,
+      "endMs": 1212360,
+      "en": "Because he's had surgery, they know exactly what tumour he has, and so could see if the test identified it.",
+      "zh": "由于他做过手术，医生确切知道他的肿瘤类型，因此可以看测试是否识别出了它。"
+    },
+    {
+      "id": 221,
+      "startMs": 1212680,
+      "endMs": 1218300,
+      "en": "It was on both eyes, so they just—a small little—I think it's like thick paper.",
+      "zh": "两只眼睛都要做；他们只用了一个小小的东西——我想，像是厚纸片。"
+    },
+    {
+      "id": 222,
+      "startMs": 1218300,
+      "endMs": 1221340,
+      "en": "That they put underneath your lower eyelid for about 10 minutes,",
+      "zh": "他们把它放在下眼睑下面，大约10分钟，"
+    },
+    {
+      "id": 223,
+      "startMs": 1221340,
+      "endMs": 1226060,
+      "en": "and then it had to get all the way to the bottom so they could see the colour change,",
+      "zh": "然后它必须一直到达底部，这样他们才能看到颜色变化，"
+    },
+    {
+      "id": 224,
+      "startMs": 1226460,
+      "endMs": 1230860,
+      "en": "and then they took it away. Made your eyes feel a bit dry, but that was it.",
+      "zh": "之后他们把它取走。你的眼睛会有一点干，但就这样。"
+    },
+    {
+      "id": 225,
+      "startMs": 1231340,
+      "endMs": 1236860,
+      "en": "So far, around 500 people have taken part in the NHS-approved study across eight different sites.",
+      "zh": "到目前为止，约有500人参加了这项获英国国民医疗服务体系批准的研究，地点遍布8个不同站点。"
+    },
+    {
+      "id": 226,
+      "startMs": 1236860,
+      "endMs": 1241580,
+      "en": "Researchers in other countries, aware of the exciting possibilities, are helping for free.",
+      "zh": "其他国家的研究人员意识到这一令人振奋的可能性，也在免费提供帮助。"
+    },
+    {
+      "id": 227,
+      "startMs": 1242380,
+      "endMs": 1251260,
+      "en": "Medics say developing successful brain cancer screening will improve outcomes and spur investments in new treatments, which have changed little for decades.",
+      "zh": "医生说，成功开发脑癌筛查将改善治疗结果，并推动对新疗法的投资；几十年来，这些疗法几乎没有变化。"
+    },
+    {
+      "id": 228,
+      "startMs": 1251660,
+      "endMs": 1254540,
+      "en": "Dr Mohammed Harris is a neuro-oncologist.",
+      "zh": "穆罕默德·哈里斯医生是一名神经肿瘤学家。"
+    },
+    {
+      "id": 229,
+      "startMs": 1254700,
+      "endMs": 1260460,
+      "en": "What I can see is that if we have tests, or if we have options where we can kind of like figure",
+      "zh": "我看到的是，如果我们有测试，或者有办法弄清楚，"
+    },
+    {
+      "id": 230,
+      "startMs": 1260700,
+      "endMs": 1262940,
+      "en": "cancers, especially brain tumours, earlier,",
+      "zh": "尤其是更早发现癌症，特别是脑瘤，"
+    },
+    {
+      "id": 231,
+      "startMs": 1262940,
+      "endMs": 1268700,
+      "en": "they are able to get recruited into more interventional trials where they'll be more fitter for those treatments,",
+      "zh": "患者就能参加更多干预性试验，也会更适合接受那些治疗，"
+    },
+    {
+      "id": 232,
+      "startMs": 1269180,
+      "endMs": 1271900,
+      "en": "and that way we can overall improve treatment options.",
+      "zh": "这样一来，我们总体上就能改善治疗选择。"
+    },
+    {
+      "id": 233,
+      "startMs": 1272540,
+      "endMs": 1277760,
+      "en": "Professor Hamerlik remains cautious, and it's likely to be another decade before her test is rolled out.",
+      "zh": "哈默利克教授仍持谨慎态度，她的测试很可能还要十年才能推广。"
+    },
+    {
+      "id": 234,
+      "startMs": 1278080,
+      "endMs": 1280160,
+      "en": "The field is moving cosmic speed.",
+      "zh": "这个领域正以宇宙般的速度发展。"
+    },
+    {
+      "id": 235,
+      "startMs": 1280400,
+      "endMs": 1284320,
+      "en": "So my thinking is, by the time we get the test approved,",
+      "zh": "所以我的想法是，等我们拿到测试批准时，"
+    },
+    {
+      "id": 236,
+      "startMs": 1284800,
+      "endMs": 1288640,
+      "en": "there might be treatment, and I believe there will be treatment that we can offer the patients.",
+      "zh": "可能已经有了治疗方法，我相信到那时会有我们能提供给患者的治疗。"
+    },
+    {
+      "id": 237,
+      "startMs": 1289040,
+      "endMs": 1291200,
+      "en": "And she is driven by personal experience.",
+      "zh": "而她的动力来自个人经历。"
+    },
+    {
+      "id": 238,
+      "startMs": 1291360,
+      "endMs": 1296480,
+      "en": "Growing up in rural Slovakia, Professor Hamerlik's dad died with a brain tumour when she was 15.",
+      "zh": "哈默利克教授在斯洛伐克乡村长大，她15岁时父亲死于脑瘤。"
+    },
+    {
+      "id": 239,
+      "startMs": 1296480,
+      "endMs": 1302480,
+      "en": "I have always been curious about whether we can detect brain tumours before they become symptomatic.",
+      "zh": "我一直想知道，我们能否在脑瘤出现症状之前发现它。"
+    },
+    {
+      "id": 240,
+      "startMs": 1302480,
+      "endMs": 1308000,
+      "en": "Because, especially in the case of my father, it took eight months for the clinicians to figure out he has a brain tumour.",
+      "zh": "因为以我父亲的情况为例，临床医生花了8个月才确定他患有脑瘤。"
+    },
+    {
+      "id": 241,
+      "startMs": 1308000,
+      "endMs": 1313160,
+      "en": "Because for many doctors, they would see in the GP, in the point of care,",
+      "zh": "因为对许多医生来说，他们在全科医疗、基层诊疗点会见到，"
+    },
+    {
+      "id": 242,
+      "startMs": 1313160,
+      "endMs": 1317240,
+      "en": "they would see maybe one patient, two patients in their whole career, so it's very rare.",
+      "zh": "他们整个职业生涯可能只见过一两名这样的患者，所以这种情况非常罕见。"
+    },
+    {
+      "id": 243,
+      "startMs": 1317720,
+      "endMs": 1324280,
+      "en": "So, although there is much more to be done, it's easy to see why this simple screening test could be a massive breakthrough.",
+      "zh": "因此，尽管还有大量工作要做，但不难理解为什么这种简单的筛查测试可能成为重大突破。"
+    },
+    {
+      "id": 244,
+      "startMs": 1324600,
+      "endMs": 1326760,
+      "en": "Roger Johnson reporting from Manchester.",
+      "zh": "罗杰·约翰逊从曼彻斯特报道。"
+    },
+    {
+      "id": 245,
+      "startMs": 1327880,
+      "endMs": 1332520,
+      "en": "From science to science fiction now, and Star Trek has turned 60.",
+      "zh": "接下来从科学讲到科幻：《星际迷航》已经60岁了。"
+    },
+    {
+      "id": 246,
+      "startMs": 1332520,
+      "endMs": 1339560,
+      "en": "The TV show in which Captain Kirk and others explore space, the final frontier, is a cultural phenomenon.",
+      "zh": "这部讲述柯克船长等人探索太空这一最后边疆的电视剧，已经成为一种文化现象。"
+    },
+    {
+      "id": 247,
+      "startMs": 1339720,
+      "endMs": 1343880,
+      "en": "It was first broadcast in a world where computers were the size of an office desk,",
+      "zh": "它首次播出时，电脑还大到占据一整张办公桌，"
+    },
+    {
+      "id": 248,
+      "startMs": 1344360,
+      "endMs": 1349720,
+      "en": "but foreshadowed technological breakthroughs like mobile phones, video calls, and voice assistants.",
+      "zh": "但它预示了手机、视频通话和语音助手等技术突破。"
+    },
+    {
+      "id": 249,
+      "startMs": 1350200,
+      "endMs": 1355880,
+      "en": "Dr Glyn Morgan works at the Science Museum in London, which is hosting an exhibition of props from the series.",
+      "zh": "格林·摩根博士在伦敦科学博物馆工作，该馆正在展出剧中的道具。"
+    },
+    {
+      "id": 250,
+      "startMs": 1356440,
+      "endMs": 1360520,
+      "en": "He told Valerie Sanderson how Star Trek's visions of the future had played out.",
+      "zh": "他向瓦莱丽·桑德森讲述了《星际迷航》对未来的想象如何成为现实。"
+    },
+    {
+      "id": 251,
+      "startMs": 1361320,
+      "endMs": 1368280,
+      "en": "I think massively. So, where people sometimes fall down when talking about the predictive power of science fiction",
+      "zh": "我认为影响非常大。人们谈论科幻作品的预测能力时，有时会误入一个误区："
+    },
+    {
+      "id": 252,
+      "startMs": 1368680,
+      "endMs": 1378440,
+      "en": "is when you're talking about specific devices or events. So, yes, we have flip phone communicators and video calls and things like that,",
+      "zh": "他们会具体谈论某些设备或事件。没错，我们有翻盖手机式的通讯器、视频通话之类的东西，"
+    },
+    {
+      "id": 253,
+      "startMs": 1378440,
+      "endMs": 1383080,
+      "en": "but we don't have teleportation and we don't have faster-than-light travel and all of that kind of thing.",
+      "zh": "但我们还没有瞬间传送，也没有超光速旅行之类的技术。"
+    },
+    {
+      "id": 254,
+      "startMs": 1383160,
+      "endMs": 1387480,
+      "en": "Well, not yet. Not yet. Yes, it's late. It's off schedule.",
+      "zh": "嗯，还没有。还没有。是的，只是晚了一点，进度落后了。"
+    },
+    {
+      "id": 255,
+      "startMs": 1387740,
+      "endMs": 1394300,
+      "en": "And but what science fiction, and what specifically Star Trek does do, is inspire individuals.",
+      "zh": "但科幻作品，尤其是《星际迷航》，确实能激励个人。"
+    },
+    {
+      "id": 256,
+      "startMs": 1394380,
+      "endMs": 1399420,
+      "en": "So we have a fantastic space collection in the Science Museum.",
+      "zh": "所以，科学博物馆有一套非常棒的太空藏品。"
+    },
+    {
+      "id": 257,
+      "startMs": 1399420,
+      "endMs": 1405260,
+      "en": "We're the only museum in the world where you can see a flown Apollo capsule from the NASA space program",
+      "zh": "我们是世界上唯一一座能让你同时看到美国国家航空航天局太空计划飞行过的阿波罗舱"
+    },
+    {
+      "id": 258,
+      "startMs": 1405500,
+      "endMs": 1411420,
+      "en": "and a flown Soyuz capsule, as flown by, um, the Russian space program, and side by side.",
+      "zh": "以及执行过俄罗斯太空任务的联盟号飞船舱，并排陈列的博物馆。"
+    },
+    {
+      "id": 259,
+      "startMs": 1411740,
+      "endMs": 1414460,
+      "en": "So we're really trying to tell that, like, world history of space.",
+      "zh": "我们确实想这样讲述太空的世界史。"
+    },
+    {
+      "id": 260,
+      "startMs": 1414860,
+      "endMs": 1418860,
+      "en": "And so we talk to a lot of people in different space agencies all over the world,",
+      "zh": "我们会与世界各地不同航天机构的许多人交谈，"
+    },
+    {
+      "id": 261,
+      "startMs": 1419260,
+      "endMs": 1425500,
+      "en": "and inevitably, you find a large swathe of them who were inspired to get into space technology",
+      "zh": "结果必然会发现，其中很大一部分人受到启发，才投身太空技术，"
+    },
+    {
+      "id": 262,
+      "startMs": 1425500,
+      "endMs": 1429420,
+      "en": "and space science because of a love of Star Trek, particularly when they were younger.",
+      "zh": "他们尤其是在年轻时因为喜爱《星际迷航》，才进入太空科学领域。"
+    },
+    {
+      "id": 263,
+      "startMs": 1429660,
+      "endMs": 1438540,
+      "en": "And why do you think it was such a global hit? I think because the vision of the future that Gene Roddenberry proposes in the original Star Trek",
+      "zh": "你认为它为何能风靡全球？我认为是因为吉恩·罗登贝里在最初的《星际迷航》中提出的未来愿景，"
+    },
+    {
+      "id": 264,
+      "startMs": 1438540,
+      "endMs": 1443740,
+      "en": "and then which is obviously carried through, is a really optimistic and positive vision,",
+      "zh": "以及后来延续下来的这一愿景，确实非常乐观、积极，"
+    },
+    {
+      "id": 265,
+      "startMs": 1444220,
+      "endMs": 1448400,
+      "en": "which is quite different from a lot of what we see in science fiction TV and film.",
+      "zh": "这和我们在许多科幻电视剧及电影中看到的内容很不一样。"
+    },
+    {
+      "id": 266,
+      "startMs": 1448880,
+      "endMs": 1457680,
+      "en": "And the power of it is that, you know, the bridge of this starship has an African American woman being treated as an equal.",
+      "zh": "它的力量在于，你知道，这艘星舰的舰桥上有一位被平等对待的非裔美国女性。"
+    },
+    {
+      "id": 267,
+      "startMs": 1458000,
+      "endMs": 1465200,
+      "en": "It has a Japanese pilot—and bearing in mind this is, you know, broadcasting in living memory of the Second World War",
+      "zh": "还有一名日本飞行员——要知道，这部剧播出时，第二次世界大战仍是人们记忆中的近代历史，"
+    },
+    {
+      "id": 268,
+      "startMs": 1465200,
+      "endMs": 1470400,
+      "en": "when the Japanese were obviously the enemies of the Americans—and from season two onwards,",
+      "zh": "当时日本人显然还是美国人的敌人；从第二季起，"
+    },
+    {
+      "id": 269,
+      "startMs": 1470400,
+      "endMs": 1473040,
+      "en": "it has a Russian in the navigation console.",
+      "zh": "导航台上又有了一名俄罗斯人。"
+    },
+    {
+      "id": 270,
+      "startMs": 1473360,
+      "endMs": 1479680,
+      "en": "So it really is about putting aside the things that make us different and celebrating the things that bring us together",
+      "zh": "所以，这确实是在放下造成差异的事物，庆祝把我们团结在一起的事物，"
+    },
+    {
+      "id": 271,
+      "startMs": 1479680,
+      "endMs": 1481680,
+      "en": "and taking that next step to the stars",
+      "zh": "并迈出通往群星的下一步，"
+    },
+    {
+      "id": 272,
+      "startMs": 1481680,
+      "endMs": 1486560,
+      "en": "as a species rather than as one nation or one colour or creed.",
+      "zh": "作为人类整体，而不是以某个国家、肤色或信仰的身份。"
+    },
+    {
+      "id": 273,
+      "startMs": 1486560,
+      "endMs": 1491920,
+      "en": "And I think that speaks to everybody universally as an optimistic vision.",
+      "zh": "我认为，作为一种乐观的愿景，这能引起所有人的共鸣。"
+    },
+    {
+      "id": 274,
+      "startMs": 1492320,
+      "endMs": 1498960,
+      "en": "You say it inspired future generations of scientists. It also inspired a lot of political leaders, didn't it?",
+      "zh": "你说它启发了未来几代科学家。它也启发了许多政治领袖，对吧？"
+    },
+    {
+      "id": 275,
+      "startMs": 1498960,
+      "endMs": 1502800,
+      "en": "I'm thinking of Martin Luther King Jr., who apparently said it was",
+      "zh": "我想到小马丁·路德·金，据说他曾说，这是"
+    },
+    {
+      "id": 276,
+      "startMs": 1502800,
+      "endMs": 1506080,
+      "en": "the only program he would allow his small children to watch.",
+      "zh": "他唯一允许年幼子女观看的节目。"
+    },
+    {
+      "id": 277,
+      "startMs": 1506400,
+      "endMs": 1511620,
+      "en": "Yes. And in fact, I referenced, without naming her, Lieutenant Uhura played by Nichelle Nichols.",
+      "zh": "是的。事实上，我提到过一位没有点名的人物：尼切尔·尼科尔斯饰演的乌胡拉中尉。"
+    },
+    {
+      "id": 278,
+      "startMs": 1512100,
+      "endMs": 1519380,
+      "en": "So she was the woman of colour on the bridge of the Enterprise and actually she was considering leaving the show after one season,",
+      "zh": "她是企业号舰桥上的有色人种女性。实际上，第一季结束后她曾考虑离开这部剧，"
+    },
+    {
+      "id": 279,
+      "startMs": 1519940,
+      "endMs": 1527300,
+      "en": "but she was at a convention, an African American cultural convention, and was told there was a super fan outside.",
+      "zh": "但她当时参加一个非裔美国人文化大会，有人告诉她外面有一位超级粉丝。"
+    },
+    {
+      "id": 280,
+      "startMs": 1527700,
+      "endMs": 1534980,
+      "en": "And he was allowed in, and it was Martin Luther King. And he told her that what she was doing and the role she was playing",
+      "zh": "那个人获准进入后，她发现原来是马丁·路德·金。他告诉她，她所做的事以及所扮演的角色，"
+    },
+    {
+      "id": 281,
+      "startMs": 1535380,
+      "endMs": 1541220,
+      "en": "was one of the most important things happening in the movement, the civil rights movement at that time,",
+      "zh": "是当时民权运动中最重要的事情之一，"
+    },
+    {
+      "id": 282,
+      "startMs": 1541220,
+      "endMs": 1543860,
+      "en": "and that's what encouraged her to stick with the role.",
+      "zh": "这也鼓励她继续出演这个角色。"
+    },
+    {
+      "id": 283,
+      "startMs": 1544340,
+      "endMs": 1552660,
+      "en": "Which I think is an incredible story and really shows the social impact that science fiction and Star Trek can have.",
+      "zh": "我认为这是一个不可思议的故事，也真正展现了科幻作品和《星际迷航》能够产生的社会影响。"
+    },
+    {
+      "id": 284,
+      "startMs": 1553140,
+      "endMs": 1560280,
+      "en": "And that was Glyn Morgan. And that is all from us for now, but the Global News Podcast will",
+      "zh": "以上是格林·摩根的讲述。今天的全球新闻播客就到这里，但节目很快就会"
+    },
+    {
+      "id": 285,
+      "startMs": 1560280,
+      "endMs": 1565160,
+      "en": "be back very soon. This edition was mixed by Dafydd Evans and produced by Stephanie Zachrisson.",
+      "zh": "再次与大家见面。本期混音：达维德·埃文斯；制作：斯蒂芬妮·扎克里松。"
+    },
+    {
+      "id": 286,
+      "startMs": 1565240,
+      "endMs": 1569240,
+      "en": "Our editor is Karen Martin. I'm Oliver Conway. Until next time, goodbye.",
+      "zh": "我们的编辑是凯伦·马丁。我是奥利弗·康韦。下次再见，拜拜。"
+    }
+  ]
+}
