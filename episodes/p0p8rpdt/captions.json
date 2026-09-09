@@ -1,0 +1,2090 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "9 September 2026"
+  },
+  "durationMs": 1640780,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 5120,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是BBC世界服务台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6440,
+      "endMs": 13640,
+      "en": "I'm Alex Ritson, and at 14:00 GMT on Wednesday, the 9th of September, these are our main stories.",
+      "zh": "我是亚历克斯·里特森。现在是格林尼治时间9月9日星期三14点，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 14040,
+      "endMs": 19080,
+      "en": "In one of the starkest warnings yet about AI, a leading researcher at Anthropic says",
+      "zh": "在迄今最严厉的人工智能警告之一中，Anthropic的一名资深研究员表示，"
+    },
+    {
+      "id": 4,
+      "startMs": 19080,
+      "endMs": 23880,
+      "en": "there is a greater than 10% chance the technology could wipe out humanity.",
+      "zh": "这项技术彻底毁灭人类的概率超过10%。"
+    },
+    {
+      "id": 5,
+      "startMs": 24520,
+      "endMs": 33480,
+      "en": "UK Prime Minister Andy Burnham says Britain must stand against injustice after imposing sanctions over Israeli settlements in the occupied West Bank.",
+      "zh": "英国首相安迪·伯纳姆表示，英国在因被占领的约旦河西岸以色列定居点实施制裁后，必须反对不公。"
+    },
+    {
+      "id": 6,
+      "startMs": 34120,
+      "endMs": 42120,
+      "en": "Our reporter investigates a spike in murders of women that's being called a femicide crisis in the Central African state of Cameroon.",
+      "zh": "本台记者调查中非国家喀麦隆女性谋杀案激增的情况，这被称为女性杀戮危机。"
+    },
+    {
+      "id": 7,
+      "startMs": 44020,
+      "endMs": 49940,
+      "en": "Also in this podcast... I just wanted to prove that Afghan women can do different things.",
+      "zh": "本期节目还将播出……我只是想证明，阿富汗女性也能做不同的事情。"
+    },
+    {
+      "id": 8,
+      "startMs": 50260,
+      "endMs": 55700,
+      "en": "Afghan women are not powerless, as we live in the darkest part of the history.",
+      "zh": "阿富汗女性并非无能为力，尽管我们生活在历史上最黑暗的时期。"
+    },
+    {
+      "id": 9,
+      "startMs": 56180,
+      "endMs": 61940,
+      "en": "An Afghan woman climbs Everest in a world first to inspire women and girls.",
+      "zh": "一名阿富汗女性首次登上珠穆朗玛峰，以激励女性和女孩。"
+    },
+    {
+      "id": 10,
+      "startMs": 61940,
+      "endMs": 67460,
+      "en": "There's a greater than 10% chance AI could kill us all by the end of the decade.",
+      "zh": "在本十年结束前，人工智能杀死我们所有人的概率超过10%。"
+    },
+    {
+      "id": 11,
+      "startMs": 67940,
+      "endMs": 72900,
+      "en": "That's the stark warning from a manager at the artificial intelligence company Anthropic.",
+      "zh": "这是人工智能公司Anthropic一名经理发出的严厉警告。"
+    },
+    {
+      "id": 12,
+      "startMs": 73220,
+      "endMs": 79940,
+      "en": "Along with a colleague who has now resigned, they've said on social media they're worried that the technology could threaten humanity.",
+      "zh": "他和一名如今已经辞职的同事在社交媒体上表示，他们担心这项技术可能威胁人类。"
+    },
+    {
+      "id": 13,
+      "startMs": 80340,
+      "endMs": 84660,
+      "en": "Our technology reporter Chris Vallance told me more about this development.",
+      "zh": "本台科技记者克里斯·瓦兰斯向我进一步介绍了这一进展。"
+    },
+    {
+      "id": 14,
+      "startMs": 85140,
+      "endMs": 91140,
+      "en": "This is a pretty extraordinary exchange that took place on a social media platform, X.",
+      "zh": "这是一次相当不同寻常的交流，发生在社交媒体平台X上。"
+    },
+    {
+      "id": 15,
+      "startMs": 91700,
+      "endMs": 100660,
+      "en": "I should preface this by saying that we need to remember that human beings have been pretty good at bringing themselves to threats, to drive themselves out of existence",
+      "zh": "我先说明一点：我们必须记住，人类一直很擅长把自身置于威胁之中，把自己推向灭绝，"
+    },
+    {
+      "id": 16,
+      "startMs": 100660,
+      "endMs": 102580,
+      "en": "without the help of artificial intelligence.",
+      "zh": "即使没有人工智能的帮助。"
+    },
+    {
+      "id": 17,
+      "startMs": 102580,
+      "endMs": 107220,
+      "en": "But this was Evan Hubinger, the alignment science lead at Anthropic.",
+      "zh": "但这番话来自Anthropic的对齐科学负责人埃文·胡宾格。"
+    },
+    {
+      "id": 18,
+      "startMs": 107380,
+      "endMs": 115380,
+      "en": "Now, alignment science is essentially making sure that these AI models do what you expect them to do.",
+      "zh": "所谓对齐科学，本质上就是确保这些人工智能模型按你的预期运行。"
+    },
+    {
+      "id": 19,
+      "startMs": 115620,
+      "endMs": 118740,
+      "en": "And he was responding on X to a post by another researcher",
+      "zh": "他当时是在X上回应另一名研究员的一则帖子，"
+    },
+    {
+      "id": 20,
+      "startMs": 118740,
+      "endMs": 124600,
+      "en": "who US reports say had worked at OpenAI and Anthropic for a couple of years.",
+      "zh": "美国媒体报道称，这名研究员曾在OpenAI和Anthropic工作过几年。"
+    },
+    {
+      "id": 21,
+      "startMs": 125080,
+      "endMs": 134280,
+      "en": "And that researcher had posted, \"The people building AI earnestly believe that it could kill us all by the end of the decade.\"",
+      "zh": "这名研究员发帖说：“开发人工智能的人真心相信，在本十年结束前，它可能杀死我们所有人。”"
+    },
+    {
+      "id": 22,
+      "startMs": 134760,
+      "endMs": 140280,
+      "en": "And Evan, the Anthropic alignment science lead, says he agrees that that was right.",
+      "zh": "Anthropic对齐科学负责人埃文表示，他同意这种说法是对的。"
+    },
+    {
+      "id": 23,
+      "startMs": 140360,
+      "endMs": 146280,
+      "en": "And he said, \"We really do earnestly believe AI could kill all humans,\" exclamation point.",
+      "zh": "他还说：“我们确实真心相信人工智能可能杀死所有人。”感叹号。"
+    },
+    {
+      "id": 24,
+      "startMs": 146680,
+      "endMs": 152280,
+      "en": "I personally think it's a greater than 10% chance within the next decade.",
+      "zh": "我个人认为，未来十年内这种可能性超过10%。"
+    },
+    {
+      "id": 25,
+      "startMs": 153000,
+      "endMs": 158360,
+      "en": "Now, we've had warnings before, but this is expressed in very blunt language.",
+      "zh": "我们以前也听到过警告，但这次的说法非常直白。"
+    },
+    {
+      "id": 26,
+      "startMs": 158520,
+      "endMs": 164520,
+      "en": "As you say, we've had warnings before, a lot of warnings actually, from within the AI community.",
+      "zh": "正如你所说，我们以前听到过警告，实际上是来自人工智能界的大量警告。"
+    },
+    {
+      "id": 27,
+      "startMs": 165000,
+      "endMs": 171080,
+      "en": "Are the rest of us maybe a bit naive about the dangers this technology poses?",
+      "zh": "我们其他人是否可能对这项技术带来的危险有些天真？"
+    },
+    {
+      "id": 28,
+      "startMs": 171800,
+      "endMs": 174440,
+      "en": "Well, I kind of think there are two things here we can say.",
+      "zh": "我觉得这里有两点可以说。"
+    },
+    {
+      "id": 29,
+      "startMs": 174440,
+      "endMs": 184460,
+      "en": "Certainly, when we look at the recent incidents where autonomous agents from these companies have gone on unasked-for hacking sprees,",
+      "zh": "当然，看看最近发生的事件：这些公司的自主代理进行未经请求的黑客攻击，"
+    },
+    {
+      "id": 30,
+      "startMs": 185180,
+      "endMs": 187100,
+      "en": "that's generated a huge amount of alarm.",
+      "zh": "已经引发了极大的警觉。"
+    },
+    {
+      "id": 31,
+      "startMs": 187420,
+      "endMs": 194780,
+      "en": "Those were, in many cases, models that weren't widely available, that were, if you like, research models.",
+      "zh": "在很多情况下，那些并非广泛提供的模型，或者说，是研究模型。"
+    },
+    {
+      "id": 32,
+      "startMs": 194860,
+      "endMs": 201180,
+      "en": "So, in a sense, people in these companies do have insight into the latest that the tech can do.",
+      "zh": "所以从某种意义上说，这些公司的人确实了解这项技术目前能做到什么。"
+    },
+    {
+      "id": 33,
+      "startMs": 201180,
+      "endMs": 205500,
+      "en": "And certainly, some of the companies, particularly Anthropic, have withheld models because they're concerned about",
+      "zh": "当然，其中一些公司，尤其是Anthropic，暂缓发布模型，因为他们在担心："
+    },
+    {
+      "id": 34,
+      "startMs": 205820,
+      "endMs": 209260,
+      "en": "You know, are we ready to deal with the risk that they might pose?",
+      "zh": "也就是，我们是否准备好应对模型可能带来的风险？"
+    },
+    {
+      "id": 35,
+      "startMs": 209340,
+      "endMs": 216460,
+      "en": "But there's also, I think, you can say that if you are in AI and you are really good at it, you are also",
+      "zh": "但也可以说，如果你从事人工智能而且非常擅长，你也会是"
+    },
+    {
+      "id": 36,
+      "startMs": 218380,
+      "endMs": 221260,
+      "en": "perhaps a true believer in its capabilities,",
+      "zh": "或许是它能力的真正信仰者，"
+    },
+    {
+      "id": 37,
+      "startMs": 221740,
+      "endMs": 229260,
+      "en": "and therefore, it's easier for you to see the potential threats, perhaps, than somebody who might be a bit more skeptical about it.",
+      "zh": "因此，相比对它更怀疑的人，你可能更容易看到它潜在的威胁。"
+    },
+    {
+      "id": 38,
+      "startMs": 229420,
+      "endMs": 236940,
+      "en": "So, I think there are two things there. Is anyone listening here, and even if they are listening, maybe in authority,",
+      "zh": "所以我认为这里有两点。有人在听吗？即使有人在听，可能还是有权力的人，"
+    },
+    {
+      "id": 39,
+      "startMs": 236940,
+      "endMs": 240540,
+      "en": "is there anything they can do about it? Because this is a global technology.",
+      "zh": "他们能对此做些什么吗？因为这是一项全球性的技术。"
+    },
+    {
+      "id": 40,
+      "startMs": 240540,
+      "endMs": 247360,
+      "en": "You can't shut down one company because the clever people that are making this technology will simply go elsewhere where it is allowed.",
+      "zh": "你无法关闭一家公司，因为制造这项技术的聪明人只会转去允许这样做的其他地方。"
+    },
+    {
+      "id": 41,
+      "startMs": 247680,
+      "endMs": 251920,
+      "en": "Well, I think the last point is absolutely critical. I mean, there is a geopolitical dimension to this, isn't there?",
+      "zh": "我认为最后一点绝对关键。这其中存在地缘政治层面，对吧？"
+    },
+    {
+      "id": 42,
+      "startMs": 251920,
+      "endMs": 257520,
+      "en": "I mean, you know, weapons are terrible things, but if the other guy's got them, we want them too.",
+      "zh": "我的意思是，你知道，武器是可怕的东西，但如果对方拥有武器，我们也想要。"
+    },
+    {
+      "id": 43,
+      "startMs": 257520,
+      "endMs": 264480,
+      "en": "And I think, you know, that was the logic of nuclear armament, and there is a sort of certain amount of that similar sort of geopolitics here.",
+      "zh": "我认为，你知道，这就是核军备的逻辑，而这里也存在某种类似的地缘政治。"
+    },
+    {
+      "id": 44,
+      "startMs": 265040,
+      "endMs": 268240,
+      "en": "You know, AI brings lots of useful things.",
+      "zh": "你知道，人工智能带来了许多有用的东西。"
+    },
+    {
+      "id": 45,
+      "startMs": 268240,
+      "endMs": 271600,
+      "en": "And reining it in, if the other side isn't going to do it,",
+      "zh": "但如果另一方不这样做，要限制它，"
+    },
+    {
+      "id": 46,
+      "startMs": 272080,
+      "endMs": 276400,
+      "en": "it's difficult for individual nations to do that without feeling they're putting themselves at risk.",
+      "zh": "各国很难在不觉得自己将自身置于风险之中的情况下做到这一点。"
+    },
+    {
+      "id": 47,
+      "startMs": 276800,
+      "endMs": 280400,
+      "en": "On the face of it, a multilateral agreement is what's required,",
+      "zh": "表面看来，需要的是一项多边协议，"
+    },
+    {
+      "id": 48,
+      "startMs": 280400,
+      "endMs": 283200,
+      "en": "but, you know, there's a difficult logic to that.",
+      "zh": "但你知道，这其中存在着难以处理的逻辑。"
+    },
+    {
+      "id": 49,
+      "startMs": 283760,
+      "endMs": 284800,
+      "en": "Chris Vallance.",
+      "zh": "克里斯·瓦兰斯。"
+    },
+    {
+      "id": 50,
+      "startMs": 285680,
+      "endMs": 291120,
+      "en": "The British Prime Minister Andy Burnham has defended his government's decision to impose sanctions on goods",
+      "zh": "英国首相安迪·伯纳姆为其政府决定制裁相关商品进行辩护，"
+    },
+    {
+      "id": 51,
+      "startMs": 291120,
+      "endMs": 293840,
+      "en": "from Israeli settlements in the occupied West Bank.",
+      "zh": "这些商品来自被占领的约旦河西岸以色列定居点。"
+    },
+    {
+      "id": 52,
+      "startMs": 294320,
+      "endMs": 301200,
+      "en": "The UK's announcement came after Israel opened up tenders for the construction of some 1,200 Jewish settlement homes.",
+      "zh": "英国的公告是在以色列为建造约1200套犹太人定居点住房招标后发布的。"
+    },
+    {
+      "id": 53,
+      "startMs": 301520,
+      "endMs": 306240,
+      "en": "continuing its expansion into a strategically important area east of Jerusalem.",
+      "zh": "这意味着其继续向耶路撒冷以东的战略要地扩张。"
+    },
+    {
+      "id": 54,
+      "startMs": 306800,
+      "endMs": 313760,
+      "en": "It's been clear for some time that the possibility of a two-state solution for Palestinians and Israelis is receding rapidly.",
+      "zh": "一段时间以来很明显，巴勒斯坦人与以色列人的两国方案正迅速变得遥不可及。"
+    },
+    {
+      "id": 55,
+      "startMs": 314000,
+      "endMs": 317040,
+      "en": "The plans have drawn widespread international condemnation.",
+      "zh": "这些计划遭到国际社会的广泛谴责。"
+    },
+    {
+      "id": 56,
+      "startMs": 317440,
+      "endMs": 324240,
+      "en": "Eleven other countries echoed London's announcement that they will, or already have, imposed their own restrictions.",
+      "zh": "另有11个国家响应伦敦的公告，表示将或已经实施各自的限制措施。"
+    },
+    {
+      "id": 57,
+      "startMs": 324560,
+      "endMs": 331760,
+      "en": "Speaking at Prime Minister's Question Time in the British Parliament, Mr Burnham said the UK was providing leadership on a world stage",
+      "zh": "伯纳姆在英国议会的首相质询时间说，英国正在世界舞台上发挥领导作用，"
+    },
+    {
+      "id": 58,
+      "startMs": 332000,
+      "endMs": 334640,
+      "en": "by taking action in the face of injustice.",
+      "zh": "通过在面对不公时采取行动。"
+    },
+    {
+      "id": 59,
+      "startMs": 335040,
+      "endMs": 340480,
+      "en": "In this difficult and dangerous world, Britain has to stand for something.",
+      "zh": "在这个艰难而危险的世界，英国必须代表一些价值。"
+    },
+    {
+      "id": 60,
+      "startMs": 340720,
+      "endMs": 346900,
+      "en": "Britain has to show leadership. Britain has to stand for fairness against injustice.",
+      "zh": "英国必须展现领导力，必须代表公平、反对不公。"
+    },
+    {
+      "id": 61,
+      "startMs": 347380,
+      "endMs": 355140,
+      "en": "Where people are being bullied out of their homes, intimidated, we will always stand with the underdog and take what action we can to support them.",
+      "zh": "人们被赶出家园、受到恐吓时，我们总会支持弱者，并采取力所能及的行动帮助他们。"
+    },
+    {
+      "id": 62,
+      "startMs": 355460,
+      "endMs": 362180,
+      "en": "That, Mr Speaker, is leadership on the world stage, Britain being true to what it's always been about.",
+      "zh": "议长先生，这就是在世界舞台上的领导力，英国忠于一贯的立场。"
+    },
+    {
+      "id": 63,
+      "startMs": 362340,
+      "endMs": 367060,
+      "en": "That is what the British people expect of us, and that is what this government will do.",
+      "zh": "这正是英国人民对我们的期望，也是本届政府将要做的事。"
+    },
+    {
+      "id": 64,
+      "startMs": 368980,
+      "endMs": 374740,
+      "en": "Meanwhile, the Israeli authorities are taking further action against countries which have imposed sanctions.",
+      "zh": "与此同时，以色列当局正对实施制裁的国家采取进一步行动。"
+    },
+    {
+      "id": 65,
+      "startMs": 375060,
+      "endMs": 383060,
+      "en": "They're recommending that representatives from a number of charities, including Oxfam and Save the Children, are denied entry to Israel.",
+      "zh": "他们建议拒绝一些慈善机构的代表入境以色列，其中包括乐施会和救助儿童会。"
+    },
+    {
+      "id": 66,
+      "startMs": 383540,
+      "endMs": 388100,
+      "en": "Israel hasn't yet announced what steps it's taking against Canada and France",
+      "zh": "以色列尚未宣布将对加拿大和法国采取什么措施，"
+    },
+    {
+      "id": 67,
+      "startMs": 388100,
+      "endMs": 392660,
+      "en": "which joined Britain in declaring a ban on trade with Jewish West Bank settlements.",
+      "zh": "这两国加入英国，宣布禁止与约旦河西岸犹太人定居点进行贸易。"
+    },
+    {
+      "id": 68,
+      "startMs": 392820,
+      "endMs": 395700,
+      "en": "So what response has there been within Israel?",
+      "zh": "那么，以色列国内对此有何反应？"
+    },
+    {
+      "id": 69,
+      "startMs": 396100,
+      "endMs": 399860,
+      "en": "I heard more from our correspondent in Jerusalem, Yolande Knell.",
+      "zh": "我听取了驻耶路撒冷记者约兰德·内尔的更多报道。"
+    },
+    {
+      "id": 70,
+      "startMs": 400660,
+      "endMs": 405940,
+      "en": "Certainly, the comments that I've seen coming out of the Israeli settlements themselves have been defiant",
+      "zh": "当然，我看到以色列定居点传出的评论非常强硬，"
+    },
+    {
+      "id": 71,
+      "startMs": 405940,
+      "endMs": 409380,
+      "en": "saying they don't care about this action",
+      "zh": "称他们不在乎这项行动，"
+    },
+    {
+      "id": 72,
+      "startMs": 409380,
+      "endMs": 417620,
+      "en": "that Israel has given the authorization for these settlements to be there and that is what the Israeli residents care about.",
+      "zh": "并称以色列已批准这些定居点存在，而以色列居民关心的正是这一点。"
+    },
+    {
+      "id": 73,
+      "startMs": 417860,
+      "endMs": 421140,
+      "en": "But there is a segment of Israeli society that does acknowledge",
+      "zh": "但以色列社会中也有一部分人承认，"
+    },
+    {
+      "id": 74,
+      "startMs": 421140,
+      "endMs": 426340,
+      "en": "that what has happened under this Israeli government is really something quite unprecedented.",
+      "zh": "以色列现政府治下发生的事情确实非常前所未有。"
+    },
+    {
+      "id": 75,
+      "startMs": 426580,
+      "endMs": 435720,
+      "en": "One hundred and four new settlements authorized in the West Bank and settler violence now at an all-time high, according to the UN.",
+      "zh": "据联合国称，约旦河西岸批准了104个新定居点，定居者暴力如今达到历史最高水平。"
+    },
+    {
+      "id": 76,
+      "startMs": 436200,
+      "endMs": 439160,
+      "en": "and that has led to this response.",
+      "zh": "这促成了此次回应。"
+    },
+    {
+      "id": 77,
+      "startMs": 439480,
+      "endMs": 444440,
+      "en": "There is one Israeli commentator writing in the newspaper Yedioth Ahronoth this morning",
+      "zh": "今天早上，一位以色列评论员在《新消息报》撰文，"
+    },
+    {
+      "id": 78,
+      "startMs": 444600,
+      "endMs": 449720,
+      "en": "saying that Jerusalem had prepared for rain, but what arrived yesterday was a full-blown storm.",
+      "zh": "说耶路撒冷已经为下雨做好准备，但昨天到来的却是一场暴风雨。"
+    },
+    {
+      "id": 79,
+      "startMs": 450040,
+      "endMs": 456680,
+      "en": "That's really referring to the fact that while Israel had prepared countermeasures to deal with what was expected",
+      "zh": "这实际上是在说，以色列虽已准备好应对预期情况的反制措施，"
+    },
+    {
+      "id": 80,
+      "startMs": 456680,
+      "endMs": 460520,
+      "en": "this announcement from the UK, it was actually a list of a dozen countries",
+      "zh": "原本预期只有英国的这份公告，实际却有约12个国家，"
+    },
+    {
+      "id": 81,
+      "startMs": 460520,
+      "endMs": 466520,
+      "en": "putting out a joint statement against settlements and trade with settlements",
+      "zh": "这些国家发布联合声明，反对定居点及与定居点进行贸易，"
+    },
+    {
+      "id": 82,
+      "startMs": 466520,
+      "endMs": 470760,
+      "en": "and Canada and France are expected to take a similar action to the UK very soon.",
+      "zh": "加拿大和法国也预计很快会采取类似英国的行动。"
+    },
+    {
+      "id": 83,
+      "startMs": 471000,
+      "endMs": 478280,
+      "en": "A spokesman for the Israeli Embassy in London blamed the announcement on UK internal politics.",
+      "zh": "以色列驻伦敦大使馆发言人将公告归咎于英国国内政治。"
+    },
+    {
+      "id": 84,
+      "startMs": 478840,
+      "endMs": 481320,
+      "en": "Has there been a reaction from the Israeli government?",
+      "zh": "以色列政府有何反应？"
+    },
+    {
+      "id": 85,
+      "startMs": 482040,
+      "endMs": 485400,
+      "en": "That is certainly something that you hear commonly from Israeli officials",
+      "zh": "这确实是人们经常从以色列官员那里听到的说法，"
+    },
+    {
+      "id": 86,
+      "startMs": 485480,
+      "endMs": 493740,
+      "en": "that they know it's going into the political party conference season in the UK, and they attribute the timing somewhat to that",
+      "zh": "他们知道英国正进入政党大会季，并认为时机在一定程度上与此有关，"
+    },
+    {
+      "id": 87,
+      "startMs": 493820,
+      "endMs": 496860,
+      "en": "and this new Labour government wanting to make its mark.",
+      "zh": "也与这个新工党政府想要留下自己的印记有关。"
+    },
+    {
+      "id": 88,
+      "startMs": 496940,
+      "endMs": 501100,
+      "en": "You also hear very commonly from Israeli officials and members of the public",
+      "zh": "你也经常听到以色列官员和公众的这种看法，"
+    },
+    {
+      "id": 89,
+      "startMs": 501340,
+      "endMs": 508380,
+      "en": "their belief that the UK is being taken over by Muslims who they say are influencing policy.",
+      "zh": "他们认为英国正被穆斯林接管，并称穆斯林正在影响政策。"
+    },
+    {
+      "id": 90,
+      "startMs": 508380,
+      "endMs": 513100,
+      "en": "That the number of immigrants who've moved to the UK is really causing these policy changes.",
+      "zh": "他们认为迁往英国的移民人数确实造成了这些政策变化。"
+    },
+    {
+      "id": 91,
+      "startMs": 513100,
+      "endMs": 515740,
+      "en": "Something that the Labour government would firmly deny.",
+      "zh": "工党政府会坚决否认这一点。"
+    },
+    {
+      "id": 92,
+      "startMs": 515980,
+      "endMs": 520780,
+      "en": "Ed Miliband, who has been speaking and making these announcements as the Foreign Secretary",
+      "zh": "外交大臣埃德·米利班德一直在发表讲话并作出这些公告，"
+    },
+    {
+      "id": 93,
+      "startMs": 520780,
+      "endMs": 525500,
+      "en": "of course, in the UK, is proudly labelling himself as a British Jew.",
+      "zh": "当然，在英国，他自豪地称自己为英国犹太人。"
+    },
+    {
+      "id": 94,
+      "startMs": 525900,
+      "endMs": 528460,
+      "en": "But at the same time as all of that, you know,",
+      "zh": "但与此同时，你知道，"
+    },
+    {
+      "id": 95,
+      "startMs": 528860,
+      "endMs": 534700,
+      "en": "Gideon Sa'ar, the Foreign Minister, has been calling this blatant interference in Israel's own election",
+      "zh": "外交部长吉迪恩·萨尔一直称这是对以色列自身选举的公然干涉，"
+    },
+    {
+      "id": 96,
+      "startMs": 534700,
+      "endMs": 539180,
+      "en": "which is due to happen in just over a month's time, six weeks' time.",
+      "zh": "以色列选举将在一个多月后、约六周后举行。"
+    },
+    {
+      "id": 97,
+      "startMs": 539420,
+      "endMs": 541740,
+      "en": "He's called this also a moral distortion.",
+      "zh": "他还称这是道德扭曲。"
+    },
+    {
+      "id": 98,
+      "startMs": 542060,
+      "endMs": 548060,
+      "en": "The Israeli media pointing out that it is unprecedented to have this closure of a consulate in Jerusalem",
+      "zh": "以色列媒体指出，关闭耶路撒冷的一家领事馆是前所未有的，"
+    },
+    {
+      "id": 99,
+      "startMs": 548060,
+      "endMs": 553840,
+      "en": "and the British one has been there since the 1830s, and it's been told now by Israeli officials",
+      "zh": "英国领事馆自19世纪30年代起就在那里，而以色列官员现在已告知，"
+    },
+    {
+      "id": 100,
+      "startMs": 553840,
+      "endMs": 562000,
+      "en": "that within 30 days it must cease its operations and that the diplomats who are working there will have their accreditation rescinded.",
+      "zh": "该馆必须在30天内停止运作，在那里工作的外交官将被撤销认证。"
+    },
+    {
+      "id": 101,
+      "startMs": 562240,
+      "endMs": 570640,
+      "en": "As you say, a harsh response. But no harsh response so far, anyway, from Israel's greatest ally, the United States.",
+      "zh": "正如你所说，这是严厉的回应。但到目前为止，美国这个以色列最重要的盟友还没有严厉回应。"
+    },
+    {
+      "id": 102,
+      "startMs": 570960,
+      "endMs": 578160,
+      "en": "How surprising is that? I think it is surprising, and it will cause real discomfort for many Israeli officials.",
+      "zh": "这有多令人意外？我认为确实意外，也会让许多以色列官员真正感到不安。"
+    },
+    {
+      "id": 103,
+      "startMs": 578160,
+      "endMs": 584400,
+      "en": "There is a report by the Israeli journalist Barak Ravid in Axios and on Israel's Channel 12",
+      "zh": "以色列记者巴拉克·拉维德在Axios和以色列第12频道有一篇报道，"
+    },
+    {
+      "id": 104,
+      "startMs": 584720,
+      "endMs": 592960,
+      "en": "saying that in that call between the British Prime Minister Andy Burnham and President Trump, where he spoke to him",
+      "zh": "称英国首相安迪·伯纳姆与特朗普总统通话时，伯纳姆曾与他交谈，"
+    },
+    {
+      "id": 105,
+      "startMs": 592960,
+      "endMs": 600400,
+      "en": "ahead of the British announcement, that it was made clear that there would be a British move to ban settlement goods",
+      "zh": "在英国公告发布前，英方已明确将采取行动禁止定居点商品，"
+    },
+    {
+      "id": 106,
+      "startMs": 600400,
+      "endMs": 605040,
+      "en": "and that President Trump did not oppose that. Yolande Knell.",
+      "zh": "而特朗普总统并不反对这一行动。约兰德·内尔。"
+    },
+    {
+      "id": 107,
+      "startMs": 605040,
+      "endMs": 608560,
+      "en": "The recent killing of eight women in Cameroon over the course of a week",
+      "zh": "过去一周，喀麦隆有八名女性遇害，"
+    },
+    {
+      "id": 108,
+      "startMs": 608640,
+      "endMs": 615040,
+      "en": "has sparked outrage and renewed calls for specific legislation against gender-based violence.",
+      "zh": "这引发了愤怒，也再次促使人们呼吁制定专门法律，打击性别暴力。"
+    },
+    {
+      "id": 109,
+      "startMs": 615360,
+      "endMs": 622480,
+      "en": "Official figures show that at least 250 women were killed between 2023 and the first four months of this year.",
+      "zh": "官方数据显示，2023年至今年前四个月，至少有250名女性遇害。"
+    },
+    {
+      "id": 110,
+      "startMs": 622960,
+      "endMs": 628000,
+      "en": "Civil society organisations say the country is facing a crisis of femicide",
+      "zh": "民间社会组织称，该国正面临杀害女性的危机，"
+    },
+    {
+      "id": 111,
+      "startMs": 628400,
+      "endMs": 632560,
+      "en": "and that these figures may be even higher as some cases go unreported.",
+      "zh": "而且由于一些案件未被报告，实际数字可能更高。"
+    },
+    {
+      "id": 112,
+      "startMs": 633040,
+      "endMs": 637440,
+      "en": "Our reporter Paul Njie has been speaking with families of femicide victims",
+      "zh": "我们的记者保罗·恩杰一直在采访杀害女性受害者的家属，"
+    },
+    {
+      "id": 113,
+      "startMs": 637440,
+      "endMs": 641280,
+      "en": "as well as survivors of gender-based violence in the capital, Yaoundé.",
+      "zh": "以及首都雅温得的性别暴力幸存者。"
+    },
+    {
+      "id": 114,
+      "startMs": 641760,
+      "endMs": 645040,
+      "en": "And a warning: some details in this report are distressing.",
+      "zh": "提醒一下：本报道中的一些细节令人痛苦。"
+    },
+    {
+      "id": 115,
+      "startMs": 645760,
+      "endMs": 654720,
+      "en": "Panic and dismay following the discovery of a lifeless woman at a hotel in Yaoundé.",
+      "zh": "在雅温得一家酒店发现一名女子死亡后，人们陷入恐慌和悲痛。"
+    },
+    {
+      "id": 116,
+      "startMs": 656780,
+      "endMs": 664460,
+      "en": "Forty-four-year-old Crescence was stabbed to death by a man, prompting widespread outcry against the wanton killing of women across the country.",
+      "zh": "44岁的克雷桑丝被一名男子刺死，引发全国对肆意杀害女性的广泛抗议。"
+    },
+    {
+      "id": 117,
+      "startMs": 666400,
+      "endMs": 670800,
+      "en": "At her family residence, her father still grapples with the shock of her loss.",
+      "zh": "在她的家中，她的父亲仍在努力面对失去女儿的震惊。"
+    },
+    {
+      "id": 118,
+      "startMs": 670800,
+      "endMs": 680320,
+      "en": "I wanted Crescence to be here because, as she was the eldest in a family of nine children.",
+      "zh": "我希望克雷桑丝能在这里，因为她是九个孩子中最大的。"
+    },
+    {
+      "id": 119,
+      "startMs": 680720,
+      "endMs": 683120,
+      "en": "I wanted her to be the guide of the family after me.",
+      "zh": "我希望在我之后由她来引领这个家庭。"
+    },
+    {
+      "id": 120,
+      "startMs": 683840,
+      "endMs": 689360,
+      "en": "More than four and a half years ago, they lost their mother, and Crescence was the one who had to replace her.",
+      "zh": "四年半多以前，他们失去了母亲，而克雷桑丝不得不接替母亲的位置。"
+    },
+    {
+      "id": 121,
+      "startMs": 694180,
+      "endMs": 698580,
+      "en": "Officials say at least 50 women were killed in the first four months of this year alone.",
+      "zh": "官员称，仅今年前四个月就有至少50名女性遇害。"
+    },
+    {
+      "id": 122,
+      "startMs": 699380,
+      "endMs": 704100,
+      "en": "Crescence was just one of at least eight others to be killed in a week in August.",
+      "zh": "克雷桑丝只是8月一周内至少8名遇害女性中的一人。"
+    },
+    {
+      "id": 123,
+      "startMs": 705440,
+      "endMs": 715200,
+      "en": "Some women are lucky to survive gender-based violence, but the trauma, stigma, and pain are indelible, especially for those in abusive marriages.",
+      "zh": "一些女性幸运地挺过了性别暴力，但创伤、污名和痛苦无法磨灭，尤其是身处虐待婚姻的人。"
+    },
+    {
+      "id": 124,
+      "startMs": 716360,
+      "endMs": 721960,
+      "en": "That's the case of Grace, who left her marriage of two decades after being physically abused by her husband.",
+      "zh": "格蕾丝就是这样的人；她在遭受丈夫身体虐待后，离开了长达20年的婚姻。"
+    },
+    {
+      "id": 125,
+      "startMs": 722840,
+      "endMs": 725480,
+      "en": "We've changed her name to protect her identity.",
+      "zh": "我们更改了她的名字，以保护她的身份。"
+    },
+    {
+      "id": 126,
+      "startMs": 725880,
+      "endMs": 730520,
+      "en": "Women who are victims of domestic violence in Cameroon are not protected.",
+      "zh": "在喀麦隆，家庭暴力受害女性得不到保护。"
+    },
+    {
+      "id": 127,
+      "startMs": 731080,
+      "endMs": 733880,
+      "en": "There's no real structure in place because when you complain",
+      "zh": "因为当你投诉时，这里没有真正的救助机制，"
+    },
+    {
+      "id": 128,
+      "startMs": 733880,
+      "endMs": 736600,
+      "en": "people ask you, \"Why did he beat you?\"",
+      "zh": "人们会问你：“他为什么打你？”"
+    },
+    {
+      "id": 129,
+      "startMs": 736600,
+      "endMs": 740200,
+      "en": "When you say he beat you while you were asleep, nobody believes you.",
+      "zh": "当你说他在你睡着时打你，却没人相信你。"
+    },
+    {
+      "id": 130,
+      "startMs": 740520,
+      "endMs": 745880,
+      "en": "You arrive and find women like yourself who are supposed to welcome you, but they are the very women who tell you",
+      "zh": "你来到这里，发现一些和你一样的女性本应欢迎你，但她们却告诉你，"
+    },
+    {
+      "id": 131,
+      "startMs": 745880,
+      "endMs": 749560,
+      "en": "I'm sure it was your neighbour who advised you to file a complaint against your husband.",
+      "zh": "“我敢肯定，是你的邻居劝你投诉丈夫的。”"
+    },
+    {
+      "id": 132,
+      "startMs": 749880,
+      "endMs": 751480,
+      "en": "Is she divorced?",
+      "zh": "她离婚了吗？"
+    },
+    {
+      "id": 133,
+      "startMs": 752500,
+      "endMs": 758340,
+      "en": "I put these concerns to the Minister of Women's Empowerment and the Family, Professor Marie-Thérèse Abena Ondoa,",
+      "zh": "我向妇女赋权与家庭事务部长玛丽-泰蕾丝·阿贝娜·翁多阿教授提出了这些问题，"
+    },
+    {
+      "id": 134,
+      "startMs": 758980,
+      "endMs": 764660,
+      "en": "but she denied claims that the government was not doing enough to protect women and prevent gender-based violence.",
+      "zh": "但她否认政府在保护女性、预防性别暴力方面做得不够。"
+    },
+    {
+      "id": 135,
+      "startMs": 765280,
+      "endMs": 769840,
+      "en": "She said a bill to that effect is currently being reviewed at the Prime Minister's office.",
+      "zh": "她说，相关法案目前正在总理办公室审议。"
+    },
+    {
+      "id": 136,
+      "startMs": 769920,
+      "endMs": 775920,
+      "en": "We have reached a consensus on the formulation of the different articles and what have you.",
+      "zh": "我们已就各项条文的制定等内容达成共识。"
+    },
+    {
+      "id": 137,
+      "startMs": 776480,
+      "endMs": 780160,
+      "en": "And I don't think the Prime Minister's services have been sleeping on it, no.",
+      "zh": "我不认为总理办公室对此一直无所作为，不是的。"
+    },
+    {
+      "id": 138,
+      "startMs": 780720,
+      "endMs": 783680,
+      "en": "And my hope, and I don't think I'm wrong,",
+      "zh": "我的希望是，而且我认为我没有说错，"
+    },
+    {
+      "id": 139,
+      "startMs": 784400,
+      "endMs": 788720,
+      "en": "is that that bill will probably reach Parliament in the November session.",
+      "zh": "那项法案很可能会在11月会期提交议会。"
+    },
+    {
+      "id": 140,
+      "startMs": 789440,
+      "endMs": 792640,
+      "en": "But the said bill has already been in the works for several years now",
+      "zh": "但这项法案其实已经酝酿了好几年，"
+    },
+    {
+      "id": 141,
+      "startMs": 793360,
+      "endMs": 797600,
+      "en": "and because the November session of Parliament is mostly dominated by debates on the budget",
+      "zh": "而且由于议会11月会期主要被预算辩论占据，"
+    },
+    {
+      "id": 142,
+      "startMs": 798240,
+      "endMs": 802720,
+      "en": "civil society activists are skeptical that anything concrete will emerge from there.",
+      "zh": "民间社会活动人士怀疑那里能否取得任何实质成果。"
+    },
+    {
+      "id": 143,
+      "startMs": 803820,
+      "endMs": 812140,
+      "en": "In the meantime, families who've lost loved ones to the brutality of femicide will keep hoping for justice to take its course.",
+      "zh": "与此同时，那些因杀害女性的暴行而失去亲人的家庭，将继续等待正义得到伸张。"
+    },
+    {
+      "id": 144,
+      "startMs": 812620,
+      "endMs": 813820,
+      "en": "Paul Njie.",
+      "zh": "保罗·恩杰。"
+    },
+    {
+      "id": 145,
+      "startMs": 814640,
+      "endMs": 819440,
+      "en": "To Norway now, where funeral ceremonies for King Harald V have taken place.",
+      "zh": "现在转到挪威，哈拉尔五世国王的葬礼已经举行。"
+    },
+    {
+      "id": 146,
+      "startMs": 819440,
+      "endMs": 827360,
+      "en": "As thousands of people crowded the streets, the Norwegian Royal Family led the funeral procession, with members of the military joining in the march.",
+      "zh": "成千上万的人挤满街道，挪威王室带领送葬队伍，军方成员也加入行列。"
+    },
+    {
+      "id": 147,
+      "startMs": 827680,
+      "endMs": 832240,
+      "en": "King Harald died at the age of 89 after 35 years on the throne.",
+      "zh": "哈拉尔国王在位35年后，于89岁时去世。"
+    },
+    {
+      "id": 148,
+      "startMs": 832640,
+      "endMs": 835280,
+      "en": "His son, Haakon VIII, has succeeded him.",
+      "zh": "他的儿子哈康八世继承了王位。"
+    },
+    {
+      "id": 149,
+      "startMs": 835680,
+      "endMs": 841520,
+      "en": "Members of the British Royal Family, including the Prince of Wales and Princess Anne, attended the service",
+      "zh": "英国王室成员，包括威尔士亲王和安妮公主，出席了仪式，"
+    },
+    {
+      "id": 150,
+      "startMs": 841840,
+      "endMs": 845680,
+      "en": "alongside members of the Danish, Swedish, and Dutch royal families.",
+      "zh": "丹麦、瑞典和荷兰王室成员也参加了仪式。"
+    },
+    {
+      "id": 151,
+      "startMs": 846160,
+      "endMs": 852160,
+      "en": "Our Global Affairs Reporter Mimi Swaby has been following the ceremony. She told me more about the day's events.",
+      "zh": "我们的全球事务记者米米·斯瓦比一直在跟进仪式。她向我介绍了当天的更多情况。"
+    },
+    {
+      "id": 152,
+      "startMs": 852160,
+      "endMs": 858480,
+      "en": "So after a procession carrying King Harald's coffin from the Royal Palace to Oslo Cathedral,",
+      "zh": "运载哈拉尔国王棺柩的队伍从王宫前往奥斯陆大教堂后，"
+    },
+    {
+      "id": 153,
+      "startMs": 858480,
+      "endMs": 862320,
+      "en": "there was a ceremony, a very moving ceremony, for an hour it lasted.",
+      "zh": "举行了一场持续一小时、感人至深的仪式。"
+    },
+    {
+      "id": 154,
+      "startMs": 862640,
+      "endMs": 868480,
+      "en": "That started with a minute of silence, which was held nationwide, and then memorial speeches took place.",
+      "zh": "仪式以全国范围的一分钟默哀开始，随后举行了追悼演讲。"
+    },
+    {
+      "id": 155,
+      "startMs": 868480,
+      "endMs": 875360,
+      "en": "Now, some speeches were from the President of Parliament, who said that King Harald wasn't afraid to meet people with his wellies on",
+      "zh": "一些演讲由议会议长发表。他说，哈拉尔国王不怕穿着雨靴与民众见面，"
+    },
+    {
+      "id": 156,
+      "startMs": 875360,
+      "endMs": 883380,
+      "en": "referring to times where this symbol of unity went to victims of attacks or went to times or places where people needed him most.",
+      "zh": "指的是这位团结的象征曾去看望袭击受害者，或前往人们最需要他的时刻和地方。"
+    },
+    {
+      "id": 157,
+      "startMs": 883380,
+      "endMs": 888980,
+      "en": "He was seen as a symbol of unity and stability during times of upheaval.",
+      "zh": "在动荡时期，他被视为团结与稳定的象征。"
+    },
+    {
+      "id": 158,
+      "startMs": 889220,
+      "endMs": 891780,
+      "en": "He then went on to say that the king lived up to his slogan.",
+      "zh": "他接着说，国王践行了自己的座右铭。"
+    },
+    {
+      "id": 159,
+      "startMs": 892100,
+      "endMs": 894500,
+      "en": "That slogan is \"Everything for Norway.\"",
+      "zh": "那句座右铭是：“一切为了挪威。”"
+    },
+    {
+      "id": 160,
+      "startMs": 894500,
+      "endMs": 898660,
+      "en": "And that is something that has been repeated throughout the 13 days of mourning now",
+      "zh": "这句话在如今持续13天的哀悼期间不断被人重复，"
+    },
+    {
+      "id": 161,
+      "startMs": 898660,
+      "endMs": 903700,
+      "en": "since the late king passed away, that he gave everything for this country, even during times of ill health.",
+      "zh": "自已故国王去世以来，人们说他为这个国家奉献了一切，即使在健康不佳时也是如此。"
+    },
+    {
+      "id": 162,
+      "startMs": 903700,
+      "endMs": 907780,
+      "en": "He refused to abdicate because he said he took the oath to be king for life.",
+      "zh": "他拒绝退位，因为他说自己宣誓要终身为王。"
+    },
+    {
+      "id": 163,
+      "startMs": 908260,
+      "endMs": 916580,
+      "en": "The ceremony concluded. It was a very touching moment when the now-widowed Queen Sonja laid a rose down on his coffin, wiping away tears.",
+      "zh": "葬礼结束时，有一个十分感人的时刻：如今成为寡妇的宋雅王后把一朵玫瑰放在他的棺木上，拭去眼泪。"
+    },
+    {
+      "id": 164,
+      "startMs": 916980,
+      "endMs": 921140,
+      "en": "Immediate family members were very close to the coffin, but the cathedral was full.",
+      "zh": "直系家人都站在棺木旁，但大教堂里座无虚席。"
+    },
+    {
+      "id": 165,
+      "startMs": 921220,
+      "endMs": 927700,
+      "en": "It normally has a capacity of about 800, but it was extended to more than a thousand to mark this very special occasion.",
+      "zh": "大教堂通常可容纳约800人，但为纪念这一特殊时刻，容量扩大到一千多人。"
+    },
+    {
+      "id": 166,
+      "startMs": 927700,
+      "endMs": 930740,
+      "en": "The first state funeral since 1991.",
+      "zh": "这是自1991年以来的首次国葬。"
+    },
+    {
+      "id": 167,
+      "startMs": 930740,
+      "endMs": 940600,
+      "en": "So, a very grand occasion, filled with mourning and a lot of sorrow, but also a celebration of a king who was incredibly popular among Norwegians.",
+      "zh": "这是一场盛大的仪式，充满哀悼和悲伤，也是对一位深受挪威人欢迎的国王的庆祝。"
+    },
+    {
+      "id": 168,
+      "startMs": 941000,
+      "endMs": 946040,
+      "en": "His coffin is now going to go to the Akershus Fortress, where he will finally be laid to rest.",
+      "zh": "他的棺木现在将被送往阿克什胡斯要塞，他最终将在那里安葬。"
+    },
+    {
+      "id": 169,
+      "startMs": 946040,
+      "endMs": 950520,
+      "en": "A private ceremony will be held for close family members and other close guests.",
+      "zh": "随后将为近亲和其他亲近的宾客举行私人仪式。"
+    },
+    {
+      "id": 170,
+      "startMs": 950600,
+      "endMs": 957000,
+      "en": "Before later this afternoon, we can expect the new king, his son, King Haakon VIII, to address the public from the palace balcony.",
+      "zh": "今天下午晚些时候，新国王、他的儿子哈康八世预计将在王宫阳台向公众讲话。"
+    },
+    {
+      "id": 171,
+      "startMs": 957000,
+      "endMs": 963320,
+      "en": "So, a long day filled with ceremony and tradition and a lot of security as well, as this is a massive event in Oslo.",
+      "zh": "这是漫长的一天，充满仪式、传统和大量安保，因为这是奥斯陆的一场大型活动。"
+    },
+    {
+      "id": 172,
+      "startMs": 963480,
+      "endMs": 970840,
+      "en": "There has been some controversy around Norway's royal family in recent years. Will it be as popular without him?",
+      "zh": "近年来，挪威王室一直存在一些争议。没有他之后，王室还会同样受欢迎吗？"
+    },
+    {
+      "id": 173,
+      "startMs": 971080,
+      "endMs": 977640,
+      "en": "The late King, King Harald, was incredibly popular, so the new King, King Haakon, has big shoes to fill, essentially.",
+      "zh": "已故的哈拉尔国王极受欢迎，所以新国王哈康要接替他，确实任重道远。"
+    },
+    {
+      "id": 174,
+      "startMs": 977800,
+      "endMs": 984280,
+      "en": "The new king has some scandals among his intimate family. His wife—it was revealed earlier this year—had ties",
+      "zh": "新国王的亲近家人中有一些丑闻。他的妻子——今年早些时候被披露——与"
+    },
+    {
+      "id": 175,
+      "startMs": 984280,
+      "endMs": 986040,
+      "en": "to the late sex offender Jeffrey Epstein.",
+      "zh": "已故性犯罪者杰弗里·爱泼斯坦有关系。"
+    },
+    {
+      "id": 176,
+      "startMs": 986360,
+      "endMs": 989000,
+      "en": "Something she came out to apologize for, saying she wished she never met him.",
+      "zh": "她为此出面道歉，称自己希望从未见过他。"
+    },
+    {
+      "id": 177,
+      "startMs": 989480,
+      "endMs": 996440,
+      "en": "And his stepson, Marius Borg Høiby, he's been convicted of two counts of rape, alongside other sexual-offence charges.",
+      "zh": "而他的继子马里乌斯·博格·霍伊比，他已被判两项强奸罪，另有其他性犯罪指控。"
+    },
+    {
+      "id": 178,
+      "startMs": 996760,
+      "endMs": 1003260,
+      "en": "He has been given temporary leave today to come to the funeral, but these are scandals which will be plaguing the royal family and something",
+      "zh": "他今天获准暂时离开拘押地参加葬礼，但这些丑闻会困扰王室，并且是"
+    },
+    {
+      "id": 179,
+      "startMs": 1003260,
+      "endMs": 1004700,
+      "en": "he'll have to win public trust back with.",
+      "zh": "他必须就这些事情重新赢回公众信任。"
+    },
+    {
+      "id": 180,
+      "startMs": 1005020,
+      "endMs": 1005900,
+      "en": "Mimi Swaby.",
+      "zh": "米米·斯瓦比报道。"
+    },
+    {
+      "id": 181,
+      "startMs": 1008300,
+      "endMs": 1013180,
+      "en": "Still to come: repeated heat damage to the lining of the oesophagus.",
+      "zh": "本期播客稍后还将讨论：反复的高温会损伤食管内壁。"
+    },
+    {
+      "id": 182,
+      "startMs": 1013340,
+      "endMs": 1021500,
+      "en": "Really hot liquids could possibly injure the cells of the lining, which might make the tissue more vulnerable, and these processes could eventually lead to cancer.",
+      "zh": "非常热的液体可能损伤内壁细胞，使组织更脆弱，而这些过程最终可能导致癌症。"
+    },
+    {
+      "id": 183,
+      "startMs": 1022060,
+      "endMs": 1028540,
+      "en": "Scientists say drinking very hot tea or coffee could significantly increase the risk of oesophageal cancer.",
+      "zh": "科学家说，喝很烫的茶或咖啡可能显著增加患食管癌的风险。"
+    },
+    {
+      "id": 184,
+      "startMs": 1028540,
+      "endMs": 1030700,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《Global News Podcast》。"
+    },
+    {
+      "id": 185,
+      "startMs": 1031580,
+      "endMs": 1036380,
+      "en": "Next to the story of the first Afghan woman to climb Mount Everest.",
+      "zh": "接下来是首位攀登珠穆朗玛峰的阿富汗女性的故事。"
+    },
+    {
+      "id": 186,
+      "startMs": 1036540,
+      "endMs": 1043020,
+      "en": "As a teenager in Afghanistan, River Ahmad survived a Taliban attack on her bus by pretending to be dead.",
+      "zh": "十几岁时，里弗·艾哈迈德在阿富汗遭遇塔利班袭击，她装死而躲过了对巴士的攻击。"
+    },
+    {
+      "id": 187,
+      "startMs": 1043420,
+      "endMs": 1048300,
+      "en": "She dreamed of climbing Everest with her 20-year-old brother, who later killed himself.",
+      "zh": "她梦想和20岁的弟弟一起攀登珠峰，而弟弟后来自杀身亡。"
+    },
+    {
+      "id": 188,
+      "startMs": 1048540,
+      "endMs": 1054940,
+      "en": "River now lives in Australia, from where she spoke to the BBC's Sodaba Haidare about her inspiration",
+      "zh": "里弗如今住在澳大利亚，她在那里接受BBC的索达巴·海达里采访，谈到自己受到的启发，"
+    },
+    {
+      "id": 189,
+      "startMs": 1054940,
+      "endMs": 1058540,
+      "en": "behind reaching the top of the world's tallest mountain above sea level.",
+      "zh": "以及登上这座世界上海拔最高山峰的动力。"
+    },
+    {
+      "id": 190,
+      "startMs": 1059100,
+      "endMs": 1066220,
+      "en": "I just wanted to prove that Afghan women can do different things. Afghan women are not powerless,",
+      "zh": "我只是想证明，阿富汗女性可以做不同的事情。阿富汗女性并非无能为力，"
+    },
+    {
+      "id": 191,
+      "startMs": 1066380,
+      "endMs": 1069340,
+      "en": "as we live in the darkest part of the history.",
+      "zh": "尽管我们生活在历史最黑暗的时期。"
+    },
+    {
+      "id": 192,
+      "startMs": 1069980,
+      "endMs": 1073100,
+      "en": "You come from Ghazni Province. It's very mountainous.",
+      "zh": "你来自加兹尼省。那里是多山地区。"
+    },
+    {
+      "id": 193,
+      "startMs": 1073260,
+      "endMs": 1077660,
+      "en": "And I've read in interviews that you used to go up there with your brother.",
+      "zh": "我在采访中读到过，你过去常和弟弟一起上山。"
+    },
+    {
+      "id": 194,
+      "startMs": 1078060,
+      "endMs": 1081340,
+      "en": "You had a mutual dream to climb Everest together?",
+      "zh": "你们曾有一起攀登珠峰的共同梦想？"
+    },
+    {
+      "id": 195,
+      "startMs": 1081580,
+      "endMs": 1087740,
+      "en": "Obviously, it was very tough to go climb in Afghanistan, or specifically in a village.",
+      "zh": "显然，在阿富汗，尤其是在村庄里攀登，非常困难。"
+    },
+    {
+      "id": 196,
+      "startMs": 1088160,
+      "endMs": 1095760,
+      "en": "No one wanted me to climb, and the mountain was just for men and boys to go to do those kinds of things.",
+      "zh": "没人希望我攀登，大家认为山是男人和男孩去做这类事情的地方。"
+    },
+    {
+      "id": 197,
+      "startMs": 1096320,
+      "endMs": 1103520,
+      "en": "But I just had a very good relationship with my dad when I was very young, and I said, 'Dad, just let me climb these rocks.'",
+      "zh": "但我小时候和父亲关系很好，我对他说：“爸爸，就让我爬爬这些岩石吧。”"
+    },
+    {
+      "id": 198,
+      "startMs": 1105340,
+      "endMs": 1112620,
+      "en": "And when my brother grew up, we both used to go to the mountain, and we used to climb, and we used to just laugh.",
+      "zh": "弟弟长大后，我们常常一起上山、攀爬，也只是一起欢笑。"
+    },
+    {
+      "id": 199,
+      "startMs": 1113020,
+      "endMs": 1115820,
+      "en": "And we used to just shout on the mountain.",
+      "zh": "我们还常常在山上大喊。"
+    },
+    {
+      "id": 200,
+      "startMs": 1115820,
+      "endMs": 1118860,
+      "en": "You know, you can hear your reflection of your voice.",
+      "zh": "你知道，你能听到自己声音的回声。"
+    },
+    {
+      "id": 201,
+      "startMs": 1118860,
+      "endMs": 1123660,
+      "en": "And I was like, 'I want to climb Mount Everest!' And I was like, 'Okay, we will do that.'",
+      "zh": "我当时想：“我想登上珠穆朗玛峰！”然后我又想：“好，我们会做到的。”"
+    },
+    {
+      "id": 202,
+      "startMs": 1124300,
+      "endMs": 1129260,
+      "en": "I don't have my brother with me right now, and obviously I miss him all the time.",
+      "zh": "现在弟弟不在我身边，显然我一直都很想念他。"
+    },
+    {
+      "id": 203,
+      "startMs": 1129500,
+      "endMs": 1135020,
+      "en": "And what has been the reaction from your family, or have you had any messages from Afghan women?",
+      "zh": "你的家人有什么反应？你收到过阿富汗女性的留言吗？"
+    },
+    {
+      "id": 204,
+      "startMs": 1135340,
+      "endMs": 1139820,
+      "en": "Dad was not happy at all, and he sent a message to me.",
+      "zh": "爸爸一点也不高兴，还给我发了消息。"
+    },
+    {
+      "id": 205,
+      "startMs": 1139820,
+      "endMs": 1142540,
+      "en": "He said, \"Oh, people are going to the moon.\"",
+      "zh": "他说：“人们都要登上月球了。”"
+    },
+    {
+      "id": 206,
+      "startMs": 1143100,
+      "endMs": 1150180,
+      "en": "And they are being a doctor or engineer. I don't know why you are going to Mount Everest. You're crazy.",
+      "zh": "他们都要当医生或工程师。我不明白你为什么要去珠穆朗玛峰。你疯了。"
+    },
+    {
+      "id": 207,
+      "startMs": 1151380,
+      "endMs": 1154980,
+      "en": "So when I climbed, the story got changed.",
+      "zh": "所以，当我登上去之后，情况改变了。"
+    },
+    {
+      "id": 208,
+      "startMs": 1154980,
+      "endMs": 1163460,
+      "en": "My dad immediately sent messages to me, my mom, my family, and I also got so many messages from Afghan women.",
+      "zh": "爸爸马上给我、妈妈和家人发了消息，我也收到了许多阿富汗女性的留言。"
+    },
+    {
+      "id": 209,
+      "startMs": 1163460,
+      "endMs": 1166180,
+      "en": "They were inspired by my climbing.",
+      "zh": "她们受到了我登山经历的鼓舞。"
+    },
+    {
+      "id": 210,
+      "startMs": 1166420,
+      "endMs": 1172500,
+      "en": "In 2014, you had your own experience with the Taliban, when the bus you were travelling on was attacked.",
+      "zh": "2014年，你也亲身经历过塔利班袭击，当时你乘坐的巴士遭到了攻击。"
+    },
+    {
+      "id": 211,
+      "startMs": 1172580,
+      "endMs": 1179860,
+      "en": "Many were killed, but you survived because you smeared period blood on your face and pretended to be dead.",
+      "zh": "许多人遇害，但你在脸上抹了经血，假装自己已经死了，因此幸存下来。"
+    },
+    {
+      "id": 212,
+      "startMs": 1180260,
+      "endMs": 1185620,
+      "en": "When I finished my year 12, I just wanted to go to study in Kabul.",
+      "zh": "我读完12年级后，只想去喀布尔学习。"
+    },
+    {
+      "id": 213,
+      "startMs": 1185860,
+      "endMs": 1191140,
+      "en": "They stopped buses along the way and just started firing guns.",
+      "zh": "他们在路上拦停巴士，然后开始开枪。"
+    },
+    {
+      "id": 214,
+      "startMs": 1191540,
+      "endMs": 1196340,
+      "en": "I had my period and I was like, \"Oh, I'm not going to die. I love life.\"",
+      "zh": "我当时来了月经，我就想：“哦，我不会死，我热爱生命。”"
+    },
+    {
+      "id": 215,
+      "startMs": 1196580,
+      "endMs": 1201380,
+      "en": "What should I do? What should I do? And I took the blood and I put it on my face.",
+      "zh": "我该怎么办？我该怎么办？于是我拿起经血，抹在脸上。"
+    },
+    {
+      "id": 216,
+      "startMs": 1201860,
+      "endMs": 1204580,
+      "en": "And I just lay, pretend that I'm dead.",
+      "zh": "我就躺下，假装自己死了。"
+    },
+    {
+      "id": 217,
+      "startMs": 1204980,
+      "endMs": 1210920,
+      "en": "But they came to me and they just looked and said, \"Oh, this prostitute lady is dead,\" and then left the bus.",
+      "zh": "但他们走到我身边，看了看说：“这个妓女死了。”然后离开了巴士。"
+    },
+    {
+      "id": 218,
+      "startMs": 1211000,
+      "endMs": 1218920,
+      "en": "What is your message to Afghan women? I want them to dream big. I want them to believe in themselves.",
+      "zh": "你想对阿富汗女性说什么？我希望她们胸怀大志，相信自己。"
+    },
+    {
+      "id": 219,
+      "startMs": 1218920,
+      "endMs": 1224280,
+      "en": "I know it's a very tough time, but they are stronger, stronger than they think.",
+      "zh": "我知道现在非常艰难，但她们比自己想象的更坚强、更坚强。"
+    },
+    {
+      "id": 220,
+      "startMs": 1224840,
+      "endMs": 1226840,
+      "en": "Everest climber, River Ahmad.",
+      "zh": "珠穆朗玛峰登山者里弗·艾哈迈德。"
+    },
+    {
+      "id": 221,
+      "startMs": 1228040,
+      "endMs": 1235880,
+      "en": "The US Secretary of State, Marco Rubio, has hailed Washington entering what he calls a new phase of cooperation with Colombia.",
+      "zh": "美国国务卿马尔科·鲁比奥称，华盛顿正与哥伦比亚进入他所谓的合作新阶段。"
+    },
+    {
+      "id": 222,
+      "startMs": 1236280,
+      "endMs": 1239320,
+      "en": "After meeting the country's new president in Bogotá.",
+      "zh": "在波哥大与该国新总统会面后。"
+    },
+    {
+      "id": 223,
+      "startMs": 1239720,
+      "endMs": 1245720,
+      "en": "President Abelardo de la Espriella, Colombia's new right-wing leader, said that his government wanted to be",
+      "zh": "哥伦比亚新任右翼领导人、总统阿韦拉尔多·德拉埃斯普里埃利亚说，他的政府希望成为"
+    },
+    {
+      "id": 224,
+      "startMs": 1245720,
+      "endMs": 1248920,
+      "en": "an ally of the US in the fight against drug trafficking.",
+      "zh": "美国打击毒品走私的盟友。"
+    },
+    {
+      "id": 225,
+      "startMs": 1249320,
+      "endMs": 1257080,
+      "en": "Marco Rubio will also travel to Ecuador and Peru, countries which have also seen rightward political shifts in the past few years.",
+      "zh": "马尔科·鲁比奥还将前往厄瓜多尔和秘鲁，这两国近几年也出现了政治右转。"
+    },
+    {
+      "id": 226,
+      "startMs": 1257480,
+      "endMs": 1261720,
+      "en": "As part of his tour of the region to countries friendly with the Trump administration.",
+      "zh": "作为他访问该地区、前往亲特朗普政府国家之行的一部分。"
+    },
+    {
+      "id": 227,
+      "startMs": 1262440,
+      "endMs": 1272120,
+      "en": "Anne Soy discussed his visit with Bogotá-based journalist Laura Lizarazo, the associate director at Control Risks' Global Risk Analysis Practice.",
+      "zh": "安妮·索伊与驻波哥大的记者劳拉·利萨拉索讨论了此次访问。她是化险咨询全球风险分析业务的副主管。"
+    },
+    {
+      "id": 228,
+      "startMs": 1272120,
+      "endMs": 1275080,
+      "en": "A global strategic intelligence and security firm.",
+      "zh": "这是一家全球战略情报与安全公司。"
+    },
+    {
+      "id": 229,
+      "startMs": 1275400,
+      "endMs": 1278280,
+      "en": "She began by explaining the significance of the trip.",
+      "zh": "她先解释了此行的重要意义。"
+    },
+    {
+      "id": 230,
+      "startMs": 1278600,
+      "endMs": 1287560,
+      "en": "Secretary Rubio's visit to Colombia is part of a broader regional visit to other countries in the Andean region.",
+      "zh": "鲁比奥国务卿访问哥伦比亚，是其访问安第斯地区其他国家的更大区域之行的一部分。"
+    },
+    {
+      "id": 231,
+      "startMs": 1288220,
+      "endMs": 1295180,
+      "en": "Which basically aims to advance three mutually reinforcing US objectives:",
+      "zh": "这基本上旨在推进三个相互强化的美国目标："
+    },
+    {
+      "id": 232,
+      "startMs": 1295740,
+      "endMs": 1300140,
+      "en": "One, strengthening the fight against drug cartels.",
+      "zh": "第一，加强打击贩毒集团。"
+    },
+    {
+      "id": 233,
+      "startMs": 1300700,
+      "endMs": 1306060,
+      "en": "Two, consolidating and solidifying the US influence in the hemisphere;",
+      "zh": "第二，巩固并强化美国在西半球的影响力；"
+    },
+    {
+      "id": 234,
+      "startMs": 1306620,
+      "endMs": 1314300,
+      "en": "and three, building a coalition of politically aligned governments in Latin America.",
+      "zh": "第三，在拉丁美洲建立政治立场一致的政府联盟。"
+    },
+    {
+      "id": 235,
+      "startMs": 1314620,
+      "endMs": 1319340,
+      "en": "This visit advances those three objectives simultaneously.",
+      "zh": "此次访问同时推进那三个目标。"
+    },
+    {
+      "id": 236,
+      "startMs": 1320140,
+      "endMs": 1326140,
+      "en": "Why is that important for the Trump administration? You know, these renewed alignments",
+      "zh": "这些重新形成的结盟，为何对特朗普政府很重要？你知道，"
+    },
+    {
+      "id": 237,
+      "startMs": 1326220,
+      "endMs": 1332060,
+      "en": "within the Western Hemisphere, within the Americas, especially improving those ties?",
+      "zh": "在西半球、尤其是美洲内部，改善这些关系？"
+    },
+    {
+      "id": 238,
+      "startMs": 1333040,
+      "endMs": 1337440,
+      "en": "Well, that makes part of a broader goal",
+      "zh": "嗯，这构成更大目标的一部分"
+    },
+    {
+      "id": 239,
+      "startMs": 1337600,
+      "endMs": 1341360,
+      "en": "in US foreign policy under Trump's administration.",
+      "zh": "即特朗普政府领导下的美国外交政策目标。"
+    },
+    {
+      "id": 240,
+      "startMs": 1341440,
+      "endMs": 1346080,
+      "en": "Which has been labelled as the Donroe Doctrine,",
+      "zh": "这被称为“唐罗主义”，"
+    },
+    {
+      "id": 241,
+      "startMs": 1346400,
+      "endMs": 1355920,
+      "en": "meaning reasserting US dominance over the hemisphere as its natural region for exercising influence.",
+      "zh": "意味着重新主张美国对西半球的主导权，把它视为美国施加影响的天然区域。"
+    },
+    {
+      "id": 242,
+      "startMs": 1356240,
+      "endMs": 1362960,
+      "en": "And this is important for Trump, as Colombia is a longstanding partner of the US,",
+      "zh": "这对特朗普很重要，因为哥伦比亚是美国的长期伙伴，"
+    },
+    {
+      "id": 243,
+      "startMs": 1363600,
+      "endMs": 1370560,
+      "en": "but the relationship was strained under Gustavo Petro's government over the past four years.",
+      "zh": "但过去四年两国关系在古斯塔沃·佩特罗政府时期变得紧张。"
+    },
+    {
+      "id": 244,
+      "startMs": 1370720,
+      "endMs": 1377600,
+      "en": "And the visit of Secretary Rubio also aims to restore those ties",
+      "zh": "此外，鲁比奥国务卿此访也旨在恢复这些关系，"
+    },
+    {
+      "id": 245,
+      "startMs": 1377600,
+      "endMs": 1381520,
+      "en": "that were under tension during the past administration.",
+      "zh": "它们在上一届政府时期处于紧张状态。"
+    },
+    {
+      "id": 246,
+      "startMs": 1382320,
+      "endMs": 1386720,
+      "en": "How are these developments in the relationship between Washington and Bogotá",
+      "zh": "华盛顿与波哥大关系的这些发展"
+    },
+    {
+      "id": 247,
+      "startMs": 1386880,
+      "endMs": 1392800,
+      "en": "being received in Colombia? The country is deeply divided around that.",
+      "zh": "在哥伦比亚受到怎样的反响？哥伦比亚在这个问题上严重分裂。"
+    },
+    {
+      "id": 248,
+      "startMs": 1392900,
+      "endMs": 1397220,
+      "en": "And other issues, as President Abelardo de la Espriella",
+      "zh": "以及其他问题；总统阿韦拉尔多·德拉埃斯普里埃利亚"
+    },
+    {
+      "id": 249,
+      "startMs": 1397620,
+      "endMs": 1402660,
+      "en": "was elected by a very tight, very slim margin.",
+      "zh": "以极其微弱的优势当选。"
+    },
+    {
+      "id": 250,
+      "startMs": 1402660,
+      "endMs": 1409540,
+      "en": "So his mandate is relatively weak: he won by roughly 2,050 votes.",
+      "zh": "因此他的授权相对薄弱：他大约只赢了2050票。"
+    },
+    {
+      "id": 251,
+      "startMs": 1410660,
+      "endMs": 1416260,
+      "en": "So half the country, around half the country, the public supports and welcomes",
+      "zh": "因此，全国约一半、约一半民众支持并欢迎"
+    },
+    {
+      "id": 252,
+      "startMs": 1416260,
+      "endMs": 1421460,
+      "en": "a more assertive role for the US regarding security operations.",
+      "zh": "美国在安全行动中发挥更积极的作用。"
+    },
+    {
+      "id": 253,
+      "startMs": 1421780,
+      "endMs": 1429300,
+      "en": "As Colombian military have lost significant capabilities in terms of communications,",
+      "zh": "由于哥伦比亚军队在通信方面的能力显著下降，"
+    },
+    {
+      "id": 254,
+      "startMs": 1429300,
+      "endMs": 1431940,
+      "en": "logistics and mobility over the past decade.",
+      "zh": "过去十年，后勤和机动能力也有所下降。"
+    },
+    {
+      "id": 255,
+      "startMs": 1432420,
+      "endMs": 1436100,
+      "en": "Some people view US support, a more assertive",
+      "zh": "有些人将美国的支持、更积极的"
+    },
+    {
+      "id": 256,
+      "startMs": 1436100,
+      "endMs": 1439380,
+      "en": "support, as a means to bridge that gap.",
+      "zh": "支持，视为弥补这一差距的办法。"
+    },
+    {
+      "id": 257,
+      "startMs": 1439860,
+      "endMs": 1444900,
+      "en": "But a significant part of the population strongly opposes",
+      "zh": "但相当一部分民众强烈反对"
+    },
+    {
+      "id": 258,
+      "startMs": 1445220,
+      "endMs": 1450020,
+      "en": "more active participation by the US in security issues.",
+      "zh": "美国更积极地参与安全事务。"
+    },
+    {
+      "id": 259,
+      "startMs": 1450340,
+      "endMs": 1456840,
+      "en": "Given that that is viewed or framed as a violation of sovereignty,",
+      "zh": "因为这被视为或被描述为侵犯主权，"
+    },
+    {
+      "id": 260,
+      "startMs": 1457160,
+      "endMs": 1463560,
+      "en": "and that caused a strong opposition among the left and some social movements,",
+      "zh": "这在左翼和一些社会运动中引发了强烈反对，"
+    },
+    {
+      "id": 261,
+      "startMs": 1463880,
+      "endMs": 1468920,
+      "en": "particularly farmer and coca-crop growers who are likely to",
+      "zh": "尤其是农民和古柯种植者，他们可能"
+    },
+    {
+      "id": 262,
+      "startMs": 1468920,
+      "endMs": 1474200,
+      "en": "be targeted by this more heavy-handed, militaristic approach.",
+      "zh": "成为这种更强硬、更军事化做法的目标。"
+    },
+    {
+      "id": 263,
+      "startMs": 1474280,
+      "endMs": 1477000,
+      "en": "Laura Lizarazo from Control Risks.",
+      "zh": "化险咨询的劳拉·利萨拉索。"
+    },
+    {
+      "id": 264,
+      "startMs": 1478020,
+      "endMs": 1482020,
+      "en": "Now to a new study by Oxford University that says people",
+      "zh": "下面来看牛津大学的一项新研究：研究称，人们"
+    },
+    {
+      "id": 265,
+      "startMs": 1482020,
+      "endMs": 1485460,
+      "en": "who regularly have an extra-hot cup of tea or coffee",
+      "zh": "经常喝特热茶或咖啡"
+    },
+    {
+      "id": 266,
+      "startMs": 1485780,
+      "endMs": 1489220,
+      "en": "are at greater risk of developing cancer in their oesophagus.",
+      "zh": "患食管癌的风险更高。"
+    },
+    {
+      "id": 267,
+      "startMs": 1489700,
+      "endMs": 1496740,
+      "en": "Keren Papier is the lead researcher and nutritional epidemiologist at Oxford Population Health.",
+      "zh": "凯伦·帕皮尔是牛津人口健康部门的首席研究员和营养流行病学家。"
+    },
+    {
+      "id": 268,
+      "startMs": 1497380,
+      "endMs": 1502260,
+      "en": "This is a study of nearly one million UK adults, and these are free-living adults.",
+      "zh": "这项研究涉及近100万名英国成年人，他们都是生活在现实环境中的成年人。"
+    },
+    {
+      "id": 269,
+      "startMs": 1502580,
+      "endMs": 1506100,
+      "en": "who take part in the Million Women Study and in the UK Biobank study.",
+      "zh": "他们参加了“百万女性研究”和英国生物样本库研究。"
+    },
+    {
+      "id": 270,
+      "startMs": 1506500,
+      "endMs": 1513060,
+      "en": "These are people who reported how they consume their beverages and were followed up over time to see what happens for their health risk.",
+      "zh": "这些人报告了自己的饮料饮用方式，研究人员随后长期跟踪，观察其健康风险变化。"
+    },
+    {
+      "id": 271,
+      "startMs": 1513060,
+      "endMs": 1517460,
+      "en": "And really, what's exciting about this study is that it adds to the evidence.",
+      "zh": "这项研究真正令人兴奋之处在于，它增加了相关证据。"
+    },
+    {
+      "id": 272,
+      "startMs": 1517540,
+      "endMs": 1522740,
+      "en": "that drinking very hot and hot beverages could increase the risk of oesophageal squamous cell carcinoma.",
+      "zh": "也就是说，饮用非常热和热的饮料可能增加患食管鳞状细胞癌的风险。"
+    },
+    {
+      "id": 273,
+      "startMs": 1523300,
+      "endMs": 1527940,
+      "en": "We think one possible explanation could be the repeated heat damage to the lining of the oesophagus.",
+      "zh": "我们认为，一种可能的解释是，食管内壁反复受到热损伤。"
+    },
+    {
+      "id": 274,
+      "startMs": 1528100,
+      "endMs": 1534660,
+      "en": "So really hot liquids could possibly injure the cells of the lining, which might make the tissue more vulnerable and",
+      "zh": "因此，过热的液体可能损伤内壁细胞，使组织更容易受到伤害，而"
+    },
+    {
+      "id": 275,
+      "startMs": 1534740,
+      "endMs": 1536980,
+      "en": "these processes could eventually lead to cancer.",
+      "zh": "这些过程最终可能导致癌症。"
+    },
+    {
+      "id": 276,
+      "startMs": 1537220,
+      "endMs": 1540040,
+      "en": "And there's also a risk factor of drinking more than six drinks a day.",
+      "zh": "每天饮用六杯以上也是一个风险因素。"
+    },
+    {
+      "id": 277,
+      "startMs": 1540040,
+      "endMs": 1545720,
+      "en": "And I can't see from the... is that more than six hot drinks, or is it just more than six warm drinks at all?",
+      "zh": "我看不出来……是六杯以上的热饮，还是总共六杯以上的温饮呢？"
+    },
+    {
+      "id": 278,
+      "startMs": 1546120,
+      "endMs": 1551000,
+      "en": "That's right, we did see that even after we control for the drink temperature.",
+      "zh": "没错，即使控制了饮品温度，我们仍然观察到了这一点。"
+    },
+    {
+      "id": 279,
+      "startMs": 1551320,
+      "endMs": 1553640,
+      "en": "The actual frequency, the number of beverages.",
+      "zh": "也就是实际饮用的频率和饮品数量。"
+    },
+    {
+      "id": 280,
+      "startMs": 1553640,
+      "endMs": 1561400,
+      "en": "So we saw that drinking six or more hot drinks a day, compared to drinking less than six, was associated with a 70% higher risk.",
+      "zh": "我们发现，每天饮用六杯或更多热饮，相比少于六杯，患病风险高出70%。"
+    },
+    {
+      "id": 281,
+      "startMs": 1561560,
+      "endMs": 1567400,
+      "en": "Right, which sounds scary, that 70%, but actually you also make the point, because you are proper scientists.",
+      "zh": "这个70%的数字听起来很吓人，但你也指出了这一点，因为你们毕竟是严谨的科学家。"
+    },
+    {
+      "id": 282,
+      "startMs": 1567400,
+      "endMs": 1570920,
+      "en": "And you are looking at this, not to scare people, but to try to find out what's going on.",
+      "zh": "你们研究这些不是为了吓唬人，而是为了弄清楚到底发生了什么。"
+    },
+    {
+      "id": 283,
+      "startMs": 1570920,
+      "endMs": 1573960,
+      "en": "You also make the point that actually these cancers are pretty rare.",
+      "zh": "你也指出，这类癌症其实相当罕见。"
+    },
+    {
+      "id": 284,
+      "startMs": 1573960,
+      "endMs": 1578200,
+      "en": "And the actual risk that anyone has that is being added to is small.",
+      "zh": "而且对任何人原有风险增加的实际幅度很小。"
+    },
+    {
+      "id": 285,
+      "startMs": 1578680,
+      "endMs": 1584280,
+      "en": "That's right, so people in the UK have about a 1% lifetime risk of being diagnosed with this type of cancer.",
+      "zh": "没错，英国人一生中被诊断出这类癌症的风险约为1%。"
+    },
+    {
+      "id": 286,
+      "startMs": 1584280,
+      "endMs": 1590520,
+      "en": "And really taking things into perspective, the most important thing you can do to try to prevent cancer at all.",
+      "zh": "从整体情况看，若想预防所有癌症，最重要的做法，"
+    },
+    {
+      "id": 287,
+      "startMs": 1590520,
+      "endMs": 1595240,
+      "en": "And this cancer is really to stop smoking and, if possible, also to cut down on alcohol.",
+      "zh": "包括预防这种癌症，确实是戒烟；如果可能，也要减少饮酒。"
+    },
+    {
+      "id": 288,
+      "startMs": 1595480,
+      "endMs": 1601580,
+      "en": "But that 1% risk then increases to one point something. In other words, that 70% figure.",
+      "zh": "但那1%的风险会增加到百分之一点几。换句话说，那个70%的数字——"
+    },
+    {
+      "id": 289,
+      "startMs": 1601580,
+      "endMs": 1608140,
+      "en": "That sometimes is seized upon in headlines, etc. It doesn't really mean that the risk itself has increased very much.",
+      "zh": "这个数字有时会被新闻标题抓住大肆渲染，但并不意味着实际风险增加了很多。"
+    },
+    {
+      "id": 290,
+      "startMs": 1608940,
+      "endMs": 1614060,
+      "en": "Yes, and I suppose if people are really quite worried, because we do drink tea and coffee throughout the day.",
+      "zh": "是的，如果人们真的很担心，毕竟我们一整天都会喝茶和咖啡。"
+    },
+    {
+      "id": 291,
+      "startMs": 1614220,
+      "endMs": 1620140,
+      "en": "It's very popular in the UK. Just letting your cuppa cool down for a little bit would really be beneficial.",
+      "zh": "这在英国很普遍。只要让你的茶水稍微凉一会儿，就会很有益。"
+    },
+    {
+      "id": 292,
+      "startMs": 1620380,
+      "endMs": 1624380,
+      "en": "Keren Papier from Oxford University, talking to Justin Webb.",
+      "zh": "牛津大学的凯伦·帕皮尔接受贾斯廷·韦布采访。"
+    },
+    {
+      "id": 293,
+      "startMs": 1624380,
+      "endMs": 1625980,
+      "en": "And that's all from us for now.",
+      "zh": "我们这一期的内容就到这里。"
+    },
+    {
+      "id": 294,
+      "startMs": 1626300,
+      "endMs": 1632060,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 295,
+      "startMs": 1632060,
+      "endMs": 1635260,
+      "en": "This edition was mixed by Daniela Varela Hernandez.",
+      "zh": "本期由丹妮拉·巴雷拉·埃尔南德斯混音。"
+    },
+    {
+      "id": 296,
+      "startMs": 1635740,
+      "endMs": 1637500,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 297,
+      "startMs": 1637500,
+      "endMs": 1640780,
+      "en": "I am Alex Ritson. Until next time, goodbye.",
+      "zh": "我是亚历克斯·里特森。下次再见。"
+    }
+  ]
+}
