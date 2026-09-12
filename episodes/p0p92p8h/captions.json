@@ -1,0 +1,1852 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "11 September 2026"
+  },
+  "durationMs": 1467240,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3920,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6540,
+      "endMs": 12140,
+      "en": "I'm Janet Jalil, and at 5 GMT on Friday, the 11th of September, these are our main stories.",
+      "zh": "我是珍妮特·贾利勒。9月11日星期五格林尼治时间5点，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12940,
+      "endMs": 18860,
+      "en": "Israel blows up what it says was a Hezbollah underground tunnel system in the south of Lebanon.",
+      "zh": "以色列炸毁了其所称位于黎巴嫩南部的一处真主党地下隧道系统。"
+    },
+    {
+      "id": 4,
+      "startMs": 19780,
+      "endMs": 25300,
+      "en": "Israel's Prime Minister, Benjamin Netanyahu, says he'll launch defamation proceedings after a newspaper",
+      "zh": "以色列总理本雅明·内塔尼亚胡表示，在一家报纸"
+    },
+    {
+      "id": 5,
+      "startMs": 25540,
+      "endMs": 32980,
+      "en": "alleged he had prior warning of the deadly October 7th attacks carried out by Hamas, but did nothing.",
+      "zh": "指称他事先得知哈马斯策划致命的10月7日袭击，却什么也没做后，他将提起诽谤诉讼。"
+    },
+    {
+      "id": 6,
+      "startMs": 35680,
+      "endMs": 43120,
+      "en": "Also in this podcast: love, deuce, best of five. Is it time tennis got a reboot to widen its appeal?",
+      "zh": "本期播客还将讨论：平分、占先、五盘制。网球是否到了重新设计、扩大吸引力的时候？"
+    },
+    {
+      "id": 7,
+      "startMs": 43520,
+      "endMs": 49840,
+      "en": "It's not necessarily difficult to understand, and I think if you did change it, you would miss the drama",
+      "zh": "这未必难以理解；我认为如果改变计分方式，就会失去其中的戏剧性，"
+    },
+    {
+      "id": 8,
+      "startMs": 49920,
+      "endMs": 54000,
+      "en": "that comes with those particularly big points. I mean, you get so much more invested in it.",
+      "zh": "尤其是关键分带来的戏剧性。我的意思是，那会让人更加投入。"
+    },
+    {
+      "id": 9,
+      "startMs": 59600,
+      "endMs": 60960,
+      "en": "We begin in Lebanon.",
+      "zh": "我们先从黎巴嫩说起。"
+    },
+    {
+      "id": 10,
+      "startMs": 66560,
+      "endMs": 74000,
+      "en": "That's the sound of a massive blast carried out by the Israeli army, using more than 1,000 tons of explosives.",
+      "zh": "这是以色列军队实施大规模爆炸的声音，使用的炸药超过1000吨。"
+    },
+    {
+      "id": 11,
+      "startMs": 74320,
+      "endMs": 80000,
+      "en": "It was used to demolish what Israel says was an extensive Hezbollah underground tunnel system in the south of the country.",
+      "zh": "爆炸用于摧毁以色列所称位于该国南部的一处大型真主党地下隧道系统。"
+    },
+    {
+      "id": 12,
+      "startMs": 80480,
+      "endMs": 86240,
+      "en": "The blast at the Ali Taher Ridge, located within Israel's self-declared buffer zone in Lebanon,",
+      "zh": "爆炸发生在阿里·塔希尔山脊，那里位于以色列自称的黎巴嫩缓冲区内，"
+    },
+    {
+      "id": 13,
+      "startMs": 86640,
+      "endMs": 92960,
+      "en": "was so big that the US Geological Survey says it caused a 4.1-magnitude earthquake.",
+      "zh": "爆炸规模之大，据美国地质调查局称，引发了4.1级地震。"
+    },
+    {
+      "id": 14,
+      "startMs": 94080,
+      "endMs": 97600,
+      "en": "I got more details from our Global Affairs Correspondent, Ambarasan Ethirajan.",
+      "zh": "全球事务记者 Ambarasan Ethirajan 将介绍更多详情。"
+    },
+    {
+      "id": 15,
+      "startMs": 97600,
+      "endMs": 104960,
+      "en": "The Israeli military says that it has destroyed a nearly 2 km long tunnel under this Ali Taher Ridge.",
+      "zh": "以色列军方称，他们摧毁了阿里·塔希尔山脊下近2公里长的隧道。"
+    },
+    {
+      "id": 16,
+      "startMs": 105680,
+      "endMs": 109520,
+      "en": "It is about 15 km from the Israel-Lebanon border.",
+      "zh": "这里距离以色列与黎巴嫩边境约15公里。"
+    },
+    {
+      "id": 17,
+      "startMs": 110320,
+      "endMs": 114160,
+      "en": "Now, this ridge itself is considered strategically important.",
+      "zh": "这条山脊本身被认为具有重要战略意义。"
+    },
+    {
+      "id": 18,
+      "startMs": 114160,
+      "endMs": 122800,
+      "en": "The Israeli military was saying that it was used by Hezbollah to fire missiles and drones from there into Israeli territory.",
+      "zh": "以色列军方称，真主党曾利用这里向以色列境内发射导弹和无人机。"
+    },
+    {
+      "id": 19,
+      "startMs": 123360,
+      "endMs": 132020,
+      "en": "This ridge is about 600 m tall and three kilometres long, giving Hezbollah enough space to operate, according to the Israeli military.",
+      "zh": "以色列军方称，这条山脊高约600米、长3公里，为真主党提供了足够的活动空间。"
+    },
+    {
+      "id": 20,
+      "startMs": 132020,
+      "endMs": 137760,
+      "en": "Since the war began in March, both sides have been fighting heavily.",
+      "zh": "自3月战争开始以来，双方一直激烈交战。"
+    },
+    {
+      "id": 21,
+      "startMs": 138000,
+      "endMs": 142880,
+      "en": "Israel has moved into Lebanon, establishing what it calls a security zone.",
+      "zh": "以色列进入黎巴嫩，建立了其所称的安全区。"
+    },
+    {
+      "id": 22,
+      "startMs": 144080,
+      "endMs": 151680,
+      "en": "Despite a US-brokered ceasefire in June between Lebanon and Israel, fighting continued around this area.",
+      "zh": "尽管黎巴嫩与以色列在美国斡旋下于6月停火，这一地区的战斗仍在继续。"
+    },
+    {
+      "id": 23,
+      "startMs": 151680,
+      "endMs": 159280,
+      "en": "According to media reports, Hezbollah refused to withdraw from this area and hand over control to the Lebanese army,",
+      "zh": "据媒体报道，真主党拒绝撤出该地区并将控制权移交给黎巴嫩军队，"
+    },
+    {
+      "id": 24,
+      "startMs": 159280,
+      "endMs": 162240,
+      "en": "and that led to renewed clashes, which went on for weeks.",
+      "zh": "这导致冲突再次发生，并持续了数周。"
+    },
+    {
+      "id": 25,
+      "startMs": 162720,
+      "endMs": 167760,
+      "en": "A few days ago, the Israeli army said it had retained control of this ridge.",
+      "zh": "几天前，以色列军队称仍控制着这条山脊。"
+    },
+    {
+      "id": 26,
+      "startMs": 168240,
+      "endMs": 177200,
+      "en": "They found these tunnels with weapons, shelters and a command centre, and all of them have now been destroyed in the tunnel explosion.",
+      "zh": "他们在隧道中发现了武器、避难所和指挥中心；这些设施如今都已在隧道爆炸中被摧毁。"
+    },
+    {
+      "id": 27,
+      "startMs": 177680,
+      "endMs": 183280,
+      "en": "This was a really massive explosion, so powerful that there was an earthquake afterwards.",
+      "zh": "这次爆炸规模极大，威力强到随后引发了地震。"
+    },
+    {
+      "id": 28,
+      "startMs": 184000,
+      "endMs": 192960,
+      "en": "The Israeli military says it used more than 1,000 tons of explosives to destroy these tunnels.",
+      "zh": "以色列军方称，他们使用了超过1000吨炸药摧毁这些隧道。"
+    },
+    {
+      "id": 29,
+      "startMs": 193600,
+      "endMs": 205140,
+      "en": "Locals talked about a huge explosion, its sound and tremors, and the US Geological Survey reported a magnitude above 4.1 for the tremor.",
+      "zh": "当地人谈到爆炸的巨大声响和震动；美国地质调查局称，这次震动的震级超过4.1级。"
+    },
+    {
+      "id": 30,
+      "startMs": 205780,
+      "endMs": 214180,
+      "en": "The Israeli media also published pictures and videos of several explosions, with fireballs lighting the sky.",
+      "zh": "以色列媒体还发布了数次爆炸的图片和视频，火球照亮了天空。"
+    },
+    {
+      "id": 31,
+      "startMs": 214180,
+      "endMs": 217060,
+      "en": "Some of them were massive, continuous explosions.",
+      "zh": "其中一些是巨大而连续的爆炸。"
+    },
+    {
+      "id": 32,
+      "startMs": 217620,
+      "endMs": 221940,
+      "en": "It must have taken a while to plant these explosives inside the tunnels.",
+      "zh": "把这些炸药安放到隧道内部一定花了不少时间。"
+    },
+    {
+      "id": 33,
+      "startMs": 221940,
+      "endMs": 228100,
+      "en": "The whole idea was to deny Hezbollah the opportunity to use this area in future.",
+      "zh": "这样做的目的就是让真主党今后无法再利用这一地区。"
+    },
+    {
+      "id": 34,
+      "startMs": 228580,
+      "endMs": 232020,
+      "en": "Do we have any information about casualties, given the size of this explosion?",
+      "zh": "考虑到爆炸规模，我们是否知道人员伤亡情况？"
+    },
+    {
+      "id": 35,
+      "startMs": 232880,
+      "endMs": 234000,
+      "en": "Weeks-long fighting…",
+      "zh": "持续数周的战斗……"
+    },
+    {
+      "id": 36,
+      "startMs": 234000,
+      "endMs": 240080,
+      "en": "Between the two sides, there were reports of several casualties, especially among Hezbollah fighters.",
+      "zh": "双方交战数周后，有报道称出现了数名伤亡者，尤其是真主党武装人员。"
+    },
+    {
+      "id": 37,
+      "startMs": 240560,
+      "endMs": 244320,
+      "en": "But they have not commented fully on the explosion so far.",
+      "zh": "但到目前为止，他们还没有就爆炸作出完整回应。"
+    },
+    {
+      "id": 38,
+      "startMs": 244960,
+      "endMs": 253360,
+      "en": "There were continuous attacks by Israeli forces, including aircraft, artillery and drones, targeting this particular area.",
+      "zh": "以军持续发动空袭、炮击并使用无人机，攻击这一地区。"
+    },
+    {
+      "id": 39,
+      "startMs": 253600,
+      "endMs": 259120,
+      "en": "This has been a hotly contested area, so there may have been several casualties.",
+      "zh": "这里一直是激烈争夺的地区，因此可能有数人伤亡。"
+    },
+    {
+      "id": 40,
+      "startMs": 259120,
+      "endMs": 265440,
+      "en": "But we don't know exactly how many were killed, or whether there were any casualties on the Israeli side.",
+      "zh": "但我们不知道确切有多少人死亡，也不知道以方是否有人员伤亡。"
+    },
+    {
+      "id": 41,
+      "startMs": 266080,
+      "endMs": 274320,
+      "en": "It gives Benjamin Netanyahu, the prime minister, a political advantage before the October elections.",
+      "zh": "这让总理本雅明·内塔尼亚胡在十月选举前获得了政治优势。"
+    },
+    {
+      "id": 42,
+      "startMs": 274400,
+      "endMs": 286000,
+      "en": "He can tell his supporters: we have destroyed, taken back and taken control of this ridge, and destroyed the tunnel—a huge strategic victory.",
+      "zh": "他可以告诉支持者：我们摧毁并夺回了这座山脊，重新取得控制，还摧毁了地道，这是巨大的战略胜利。"
+    },
+    {
+      "id": 43,
+      "startMs": 286640,
+      "endMs": 288000,
+      "en": "Umbarasan Ethirajan.",
+      "zh": "乌姆巴拉桑·埃蒂拉詹。"
+    },
+    {
+      "id": 44,
+      "startMs": 288480,
+      "endMs": 297300,
+      "en": "With elections in Israel just weeks away, the prime minister has told his lawyers to begin defamation proceedings against an Israeli newspaper.",
+      "zh": "以色列选举只剩几周之际，总理已要求律师对一家以色列报纸启动诽谤诉讼。"
+    },
+    {
+      "id": 45,
+      "startMs": 297300,
+      "endMs": 303300,
+      "en": "It alleges that Mr Netanyahu was told in advance that Hamas was planning the October 7 attacks.",
+      "zh": "该报称，内塔尼亚胡事先就被告知哈马斯正计划发动10月7日袭击。"
+    },
+    {
+      "id": 46,
+      "startMs": 303860,
+      "endMs": 309780,
+      "en": "The Haaretz newspaper reported that the president of the United Arab Emirates warned Mr Netanyahu.",
+      "zh": "《国土报》报道称，阿拉伯联合酋长国总统曾警告内塔尼亚胡。"
+    },
+    {
+      "id": 47,
+      "startMs": 309860,
+      "endMs": 316740,
+      "en": "This was just days before the Hamas attack three years ago, but the Israeli prime minister did nothing with the information.",
+      "zh": "那是在三年前哈马斯发动袭击前几天，但这位以色列总理没有采取任何行动。"
+    },
+    {
+      "id": 48,
+      "startMs": 317220,
+      "endMs": 324260,
+      "en": "Mr Netanyahu's office has denied there was any warning, calling the report part of a, quote, ‘sinister plot’.",
+      "zh": "内塔尼亚胡办公室否认收到过任何警告，并称这篇报道是所谓的“阴险阴谋”的一部分。"
+    },
+    {
+      "id": 49,
+      "startMs": 324980,
+      "endMs": 329780,
+      "en": "Haaretz, which has long been a vocal critic of the prime minister, says it stands by its reporting.",
+      "zh": "长期直言批评总理的《国土报》表示，坚持其报道。"
+    },
+    {
+      "id": 50,
+      "startMs": 330260,
+      "endMs": 335860,
+      "en": "The Times of Israel's diplomatic correspondent, Lazar Berman, spoke to Jane Hill about the allegations.",
+      "zh": "《以色列时报》外交事务记者拉扎尔·伯曼就这些指控接受了简·希尔采访。"
+    },
+    {
+      "id": 51,
+      "startMs": 336500,
+      "endMs": 347300,
+      "en": "There have been questions about what Prime Minister Benjamin Netanyahu knew, what he did not know, and his responsibility for the October 7 attacks.",
+      "zh": "一直有人追问总理本雅明·内塔尼亚胡知道什么、不知道什么，以及他对10月7日袭击负有什么责任。"
+    },
+    {
+      "id": 52,
+      "startMs": 347620,
+      "endMs": 352580,
+      "en": "Netanyahu has argued that his security services failed him, and that he ultimately was not responsible.",
+      "zh": "内塔尼亚胡辩称，他的安全部门辜负了他，而他最终并不负有责任。"
+    },
+    {
+      "id": 53,
+      "startMs": 352760,
+      "endMs": 359980,
+      "en": "The Shin Bet intelligence service and the army did not alert him in time about warning signals on the morning of October 7.",
+      "zh": "辛贝特情报部门和军方没有及时向他通报10月7日上午的预警信号。"
+    },
+    {
+      "id": 54,
+      "startMs": 360000,
+      "endMs": 363000,
+      "en": "Had they woken him, he could have taken action to stop it.",
+      "zh": "如果他们当时叫醒他，他本可以采取行动阻止袭击。"
+    },
+    {
+      "id": 55,
+      "startMs": 363000,
+      "endMs": 367480,
+      "en": "That has been his message throughout the war since October 7, 2023.",
+      "zh": "自2023年10月7日以来，这一直是他在战争期间传达的信息。"
+    },
+    {
+      "id": 56,
+      "startMs": 367960,
+      "endMs": 372680,
+      "en": "This new article from the Haaretz daily really flips this around.",
+      "zh": "《国土报》的这篇新报道彻底颠倒了这一说法。"
+    },
+    {
+      "id": 57,
+      "startMs": 372680,
+      "endMs": 379640,
+      "en": "It alleges that the UAE's president, Mohammed bin Zayed, warned Prime Minister Netanyahu in a 45-minute phone call.",
+      "zh": "报道称，阿联酋总统穆罕默德·本·扎耶德曾在一通45分钟的电话中警告内塔尼亚胡总理。"
+    },
+    {
+      "id": 58,
+      "startMs": 379640,
+      "endMs": 385960,
+      "en": "He warned him that Hamas leader Yahya Sinwar was planning a major attack.",
+      "zh": "他警告说，哈马斯领导人叶海亚·辛瓦尔正策划一次重大袭击。"
+    },
+    {
+      "id": 59,
+      "startMs": 386040,
+      "endMs": 389320,
+      "en": "He allegedly told him this at the end of September 2023.",
+      "zh": "据称，他在2023年9月底把这一消息告诉了内塔尼亚胡。"
+    },
+    {
+      "id": 60,
+      "startMs": 389320,
+      "endMs": 396440,
+      "en": "According to the article, Netanyahu failed to give that warning to Shin Bet, the IDF and the security services.",
+      "zh": "根据报道，内塔尼亚胡没有把这一警告告知辛贝特、以色列国防军和安全部门。"
+    },
+    {
+      "id": 61,
+      "startMs": 396520,
+      "endMs": 406040,
+      "en": "Had they known about that very specific warning, they could have taken different action ahead of the attack and perhaps even prevented it.",
+      "zh": "如果他们知道这一非常具体的警告，或许就能在袭击前采取不同措施，甚至阻止袭击。"
+    },
+    {
+      "id": 62,
+      "startMs": 406040,
+      "endMs": 411160,
+      "en": "Again, this is all alleged, and Netanyahu very firmly denies the article.",
+      "zh": "但再次强调，这些都只是指称，内塔尼亚胡坚决否认这篇报道。"
+    },
+    {
+      "id": 63,
+      "startMs": 411400,
+      "endMs": 417420,
+      "en": "Is it right to say that the Emiratis haven't denied what's in the Haaretz article?",
+      "zh": "可以说，阿联酋方面并没有否认《国土报》报道的内容吗？"
+    },
+    {
+      "id": 64,
+      "startMs": 417580,
+      "endMs": 419020,
+      "en": "That is exactly true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 65,
+      "startMs": 419020,
+      "endMs": 424700,
+      "en": "They put out a statement which sounded basically like a confirmation in their non-denial.",
+      "zh": "他们发表了一份声明，听起来基本像是以不否认的方式作了确认。"
+    },
+    {
+      "id": 66,
+      "startMs": 424700,
+      "endMs": 432540,
+      "en": "They said they don't comment on specific conversations, but throughout the war, needed intelligence was given to the Israelis.",
+      "zh": "他们说，不评论具体谈话；但整个战争期间，凡是需要提供给以方的情报，都已经提供给了以方。"
+    },
+    {
+      "id": 67,
+      "startMs": 432540,
+      "endMs": 435180,
+      "en": "They said conversations were open.",
+      "zh": "他们还说，沟通渠道一直是开放的。"
+    },
+    {
+      "id": 68,
+      "startMs": 435180,
+      "endMs": 440620,
+      "en": "It sounded as if they didn't want to confirm this conversation, but they weren't denying it either.",
+      "zh": "这听起来像是他们不想确认这次谈话，但也没有否认。"
+    },
+    {
+      "id": 69,
+      "startMs": 440860,
+      "endMs": 449260,
+      "en": "As you suggest, this is the latest in allegations around what was or wasn't done in the run-up to the October 7 attacks.",
+      "zh": "正如你所说，这是围绕10月7日袭击前做了什么或没做什么的最新指控。"
+    },
+    {
+      "id": 70,
+      "startMs": 449340,
+      "endMs": 457180,
+      "en": "This is obviously going to be a major question in the upcoming October elections; it's been a question throughout since October 7.",
+      "zh": "这显然会成为即将到来的十月选举中的重大问题；自10月7日以来，它一直受到追问。"
+    },
+    {
+      "id": 71,
+      "startMs": 458220,
+      "endMs": 464220,
+      "en": "It was a terrible day for Israel and the Jewish people, perhaps the worst day Israel ever suffered.",
+      "zh": "那对以色列和犹太民族来说都是悲惨的一天，或许是以色列遭受过的最惨重的一天。"
+    },
+    {
+      "id": 72,
+      "startMs": 464220,
+      "endMs": 470460,
+      "en": "Netanyahu is the only member of Israel's senior leadership who hasn't stepped down or been forced out.",
+      "zh": "内塔尼亚胡是以色列高层领导人中唯一没有辞职或被迫下台的人。"
+    },
+    {
+      "id": 73,
+      "startMs": 470460,
+      "endMs": 477440,
+      "en": "He is still in office, so he recognizes that this is exactly what he doesn't need ahead of a very difficult election.",
+      "zh": "他仍在任，因此他明白，在一场非常艰难的选举前，这正是他最不需要面对的事。"
+    },
+    {
+      "id": 74,
+      "startMs": 478240,
+      "endMs": 480160,
+      "en": "Lazar Berman of The Times of Israel.",
+      "zh": "《以色列时报》的拉扎尔·伯曼。"
+    },
+    {
+      "id": 75,
+      "startMs": 480160,
+      "endMs": 484400,
+      "en": "It's a date that will stick in many people's minds for the rest of their lives.",
+      "zh": "这是一个会让许多人终生难忘的日子。"
+    },
+    {
+      "id": 76,
+      "startMs": 484720,
+      "endMs": 492800,
+      "en": "9/11. Twenty-five years ago, almost 3,000 people died, and tens of thousands more were injured.",
+      "zh": "9·11。25年前，近3000人死亡，数万人受伤。"
+    },
+    {
+      "id": 77,
+      "startMs": 493040,
+      "endMs": 497920,
+      "en": "Two hijacked planes crashed into the Twin Towers in New York.",
+      "zh": "两架被劫持的飞机撞上了纽约世贸中心双子塔。"
+    },
+    {
+      "id": 78,
+      "startMs": 498720,
+      "endMs": 505760,
+      "en": "As others fled the scene, firefighter Jay Jonas and his crew were inside the North Tower on a search and rescue mission.",
+      "zh": "其他人逃离现场时，消防员杰伊·乔纳斯和队员正在北塔内执行搜救任务。"
+    },
+    {
+      "id": 79,
+      "startMs": 506400,
+      "endMs": 513360,
+      "en": "He told Rowan Bridge about being trapped inside and how they survived when the tower collapsed around them.",
+      "zh": "他向罗温·布里奇讲述了被困其中，以及大楼在他们周围倒塌时他们如何幸存。"
+    },
+    {
+      "id": 80,
+      "startMs": 514080,
+      "endMs": 517600,
+      "en": "We felt and experienced something nobody ever felt or experienced before.",
+      "zh": "我们感受并经历了前所未有的事情。"
+    },
+    {
+      "id": 81,
+      "startMs": 517840,
+      "endMs": 519520,
+      "en": "We heard a loud noise outside.",
+      "zh": "我们听到外面传来巨响。"
+    },
+    {
+      "id": 82,
+      "startMs": 521060,
+      "endMs": 524900,
+      "en": "And our building started to sway back and forth violently.",
+      "zh": "我们的楼开始剧烈地前后摇晃。"
+    },
+    {
+      "id": 83,
+      "startMs": 524980,
+      "endMs": 529460,
+      "en": "I went to the north windows; I couldn't see anything. I just saw the white dust pressed against the glass.",
+      "zh": "我走到朝北的窗边，却什么也看不见。只看到白色尘土压在玻璃上。"
+    },
+    {
+      "id": 84,
+      "startMs": 529860,
+      "endMs": 534180,
+      "en": "The dust was from the plume that engulfed the area as the South Tower collapsed.",
+      "zh": "那是南塔倒塌时席卷这一带的烟尘。"
+    },
+    {
+      "id": 85,
+      "startMs": 534500,
+      "endMs": 536740,
+      "en": "I just looked at my guys. I said, \"Okay.\"",
+      "zh": "我看了看我的队员，说：“好。”"
+    },
+    {
+      "id": 86,
+      "startMs": 536980,
+      "endMs": 540340,
+      "en": "Our mission is no longer doable. It's time for us to get out of here.",
+      "zh": "我们的任务已经无法完成。我们该离开这里了。"
+    },
+    {
+      "id": 87,
+      "startMs": 540580,
+      "endMs": 545620,
+      "en": "We got to about the 20th floor and saw a woman standing in the doorway. She was crying.",
+      "zh": "我们到了大约20层，看见一个女人站在门口。她正在哭。"
+    },
+    {
+      "id": 88,
+      "startMs": 545780,
+      "endMs": 549060,
+      "en": "I looked at her. I said, \"All right, bring her with us.\"",
+      "zh": "我看着她说：“好，把她带上。”"
+    },
+    {
+      "id": 89,
+      "startMs": 549060,
+      "endMs": 554900,
+      "en": "People have questioned me about that. I said, \"What a monumental decision.\" Well, that's why we went there.",
+      "zh": "人们曾因此质问过我。我说：“多么重大的决定啊。”这就是我们去那里的原因。"
+    },
+    {
+      "id": 90,
+      "startMs": 555460,
+      "endMs": 563620,
+      "en": "We went there to save a life, not for the World Trade Center experience. We started down the stairs with her in tow, but she greatly slowed us down.",
+      "zh": "我们不是去那里体验世贸中心，而是去救人。我们带着她下楼，但她大大拖慢了我们的速度。"
+    },
+    {
+      "id": 91,
+      "startMs": 563780,
+      "endMs": 569380,
+      "en": "The woman's name was Josephine Harris, but she can't move at anything like the speed of the firefighters.",
+      "zh": "这名女子名叫约瑟芬·哈里斯，但她的行动速度远比不上消防员。"
+    },
+    {
+      "id": 92,
+      "startMs": 569860,
+      "endMs": 577380,
+      "en": "We made it to the 4th floor, and Josephine Harris fell to the floor and started yelling at us, \"Leave me, get away from me, don't touch me.\"",
+      "zh": "我们到了4层，约瑟芬·哈里斯倒在地上，开始对我们喊：“别管我，离我远点，别碰我。”"
+    },
+    {
+      "id": 93,
+      "startMs": 577620,
+      "endMs": 583320,
+      "en": "This is after we slowed ourselves down to rescue her. I wasn't very happy with Josephine Harris at this point.",
+      "zh": "我们为了救她而放慢了速度。那时我对约瑟芬·哈里斯很不高兴。"
+    },
+    {
+      "id": 94,
+      "startMs": 583640,
+      "endMs": 586760,
+      "en": "As unhappy as they were, Jay and his team weren't going to leave her.",
+      "zh": "尽管他们很不高兴，杰伊和队员也不打算丢下她。"
+    },
+    {
+      "id": 95,
+      "startMs": 587240,
+      "endMs": 591160,
+      "en": "As they were working out how to carry her out of the building, events overtook them.",
+      "zh": "他们正想办法把她抬出大楼时，意外发生了。"
+    },
+    {
+      "id": 96,
+      "startMs": 591640,
+      "endMs": 601540,
+      "en": "The tower came down on top of them. Deafening noise, tremendous vibration.",
+      "zh": "大楼倒塌在他们头顶。震耳欲聋的声响，巨大的震动。"
+    },
+    {
+      "id": 97,
+      "startMs": 602020,
+      "endMs": 605140,
+      "en": "We were bouncing up and down off the floor like rag dolls.",
+      "zh": "我们像布娃娃一样在地板上上下弹跳。"
+    },
+    {
+      "id": 98,
+      "startMs": 605380,
+      "endMs": 612500,
+      "en": "Every time one floor hit another, you'd hear a loud boom. They came in quick succession: boom, boom, boom, boom, boom, boom, boom.",
+      "zh": "每层楼撞上另一层时，都会传来巨响。撞击接连不断，就像砰、砰、砰、砰、砰、砰、砰。"
+    },
+    {
+      "id": 99,
+      "startMs": 613060,
+      "endMs": 618420,
+      "en": "So I just covered up, anticipating that this was going to be it, and then the collapse stopped.",
+      "zh": "我蜷缩起来，以为一切就要结束了，然后倒塌停止了。"
+    },
+    {
+      "id": 100,
+      "startMs": 619300,
+      "endMs": 623700,
+      "en": "Miraculously, they'd survived the most catastrophic building collapse in history.",
+      "zh": "奇迹般地，他们在史上最严重的建筑坍塌中幸存下来。"
+    },
+    {
+      "id": 101,
+      "startMs": 624020,
+      "endMs": 631940,
+      "en": "More than 1,400 people had been killed in a matter of seconds, but the stairway had shielded Josephine, Jay and his colleagues.",
+      "zh": "短短几秒内，1400多人丧生，但楼梯间保护了约瑟芬、杰伊和他的同事。"
+    },
+    {
+      "id": 102,
+      "startMs": 632100,
+      "endMs": 637620,
+      "en": "The B stairway was in the center of the building, so you would think that would be the worst place to be.",
+      "zh": "B楼梯位于大楼中央，你可能会以为那里最危险。"
+    },
+    {
+      "id": 103,
+      "startMs": 637780,
+      "endMs": 644180,
+      "en": "But actually, it was the best place, because if you watch the way the building collapsed, the building peeled away like a banana.",
+      "zh": "但实际上那里最好，因为从大楼倒塌的方式看，大楼像香蕉一样剥落。"
+    },
+    {
+      "id": 104,
+      "startMs": 644180,
+      "endMs": 646820,
+      "en": "We were the banana in the center of the building.",
+      "zh": "我们就是大楼中央的那根香蕉。"
+    },
+    {
+      "id": 105,
+      "startMs": 647060,
+      "endMs": 653060,
+      "en": "Remarkably, everyone, including Josephine Harris, made it out without serious physical injury from the collapse.",
+      "zh": "令人惊讶的是，包括约瑟芬·哈里斯在内，所有人都毫发无伤地逃了出来。"
+    },
+    {
+      "id": 106,
+      "startMs": 653220,
+      "endMs": 656580,
+      "en": "If we hadn't picked up Josephine Harris, it would have bothered me.",
+      "zh": "如果我们没有扶起约瑟芬·哈里斯，我会一直介意。"
+    },
+    {
+      "id": 107,
+      "startMs": 656660,
+      "endMs": 661780,
+      "en": "We were doing everything everybody else was doing, and we just happened to be in the right spot at the right time.",
+      "zh": "我们和其他人一样在做该做的事，只是碰巧在正确的时间处于正确的位置。"
+    },
+    {
+      "id": 108,
+      "startMs": 662020,
+      "endMs": 666420,
+      "en": "By her making a stand on the 4th floor, that put us in the exact right spot.",
+      "zh": "她在4层停下来，让我们恰好处在那个正确的位置。"
+    },
+    {
+      "id": 109,
+      "startMs": 666580,
+      "endMs": 668420,
+      "en": "How do you reflect on all of that now?",
+      "zh": "现在回想这一切，你有何感受？"
+    },
+    {
+      "id": 110,
+      "startMs": 668740,
+      "endMs": 674740,
+      "en": "I'm blessed that I was part of the biggest rescue effort in the history of the United States.",
+      "zh": "我很幸运，参与了美国历史上规模最大的救援行动。"
+    },
+    {
+      "id": 111,
+      "startMs": 675060,
+      "endMs": 682760,
+      "en": "The only thing is that almost all the guys who participated in this rescue were killed, you know, so their heroism was mostly left on the battlefield.",
+      "zh": "唯一遗憾的是，参与这次救援的兄弟几乎都牺牲了，他们的英勇大多留在了战场上。"
+    },
+    {
+      "id": 112,
+      "startMs": 689040,
+      "endMs": 691520,
+      "en": "That report was by Rowan Bridge.",
+      "zh": "报道来自罗温·布里奇。"
+    },
+    {
+      "id": 113,
+      "startMs": 695320,
+      "endMs": 701400,
+      "en": "Still to come in this podcast: a record 25-minute standing ovation at the Venice Film Festival",
+      "zh": "本节目稍后将播出：威尼斯电影节上创纪录的25分钟起立鼓掌，"
+    },
+    {
+      "id": 114,
+      "startMs": 701720,
+      "endMs": 705640,
+      "en": "for a film about Israel's mass killing of civilians in Gaza.",
+      "zh": "献给一部讲述以色列在加沙大规模杀害平民的电影。"
+    },
+    {
+      "id": 115,
+      "startMs": 705960,
+      "endMs": 711240,
+      "en": "You know, we speak to people. Our film shows that, yes, we listen house after house and hear a baby crying,",
+      "zh": "你知道，你和人们交谈；我们的电影里有人告诉你，是的，我们逐户监听，听到婴儿在哭，"
+    },
+    {
+      "id": 116,
+      "startMs": 711240,
+      "endMs": 716120,
+      "en": "we hear a family is there, we hear the television playing, we hear a man talking to his wife, and we bomb them.",
+      "zh": "听到那里有一家人，听到电视在播放，听到一个男人在和妻子说话，然后我们就轰炸他们。"
+    },
+    {
+      "id": 117,
+      "startMs": 716120,
+      "endMs": 718200,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 118,
+      "startMs": 719000,
+      "endMs": 727080,
+      "en": "India's Cockroach Janta Party started as an online satirical movement after an official described unemployed young people as cockroaches.",
+      "zh": "印度的蟑螂人民党起初是一个网络讽刺运动，起因是一名官员把失业的年轻人形容为蟑螂。"
+    },
+    {
+      "id": 119,
+      "startMs": 727640,
+      "endMs": 732440,
+      "en": "But millions gave it their support as it tapped into the anger of Gen Z protesters",
+      "zh": "但数百万人支持了它，因为它触及了Z世代抗议者的愤怒。"
+    },
+    {
+      "id": 120,
+      "startMs": 732440,
+      "endMs": 737320,
+      "en": "who eventually forced the resignation of the Education Minister in July.",
+      "zh": "这些抗议者最终迫使教育部长在七月辞职。"
+    },
+    {
+      "id": 121,
+      "startMs": 737880,
+      "endMs": 745160,
+      "en": "Now, the Cockroach Janta Party is on the march again, demanding more be done to improve the poor state of government schools.",
+      "zh": "如今，蟑螂人民党再次走上街头，要求采取更多措施改善政府学校的糟糕状况。"
+    },
+    {
+      "id": 122,
+      "startMs": 745640,
+      "endMs": 752840,
+      "en": "But in a country facing a crisis of youth unemployment, despite its impressive growth, what difference can this campaign make?",
+      "zh": "但这个国家虽然经济增长亮眼，却正面临青年失业危机；这场运动能带来多大改变？"
+    },
+    {
+      "id": 123,
+      "startMs": 753400,
+      "endMs": 760760,
+      "en": "Yogita Limaye begins her report from Hingoli in the western state of Maharashtra, where she met the founder of the Cockroach Party.",
+      "zh": "Yogita Limaye从西部马哈拉施特拉邦的欣戈利开始报道，她在那里见到了蟑螂党的创始人。"
+    },
+    {
+      "id": 124,
+      "startMs": 760760,
+      "endMs": 763560,
+      "en": "The main face and founder of this movement is Abhijit Dipke.",
+      "zh": "这场运动的代表和创始人是 Abhijit Dipke。"
+    },
+    {
+      "id": 125,
+      "startMs": 763560,
+      "endMs": 771160,
+      "en": "He was a student himself, studying overseas in the US.",
+      "zh": "他本人曾是学生，后来赴美国留学。"
+    },
+    {
+      "id": 126,
+      "startMs": 771480,
+      "endMs": 775080,
+      "en": "I can see him; he's going from one classroom to another.",
+      "zh": "我看到他正在从一间教室走到另一间。"
+    },
+    {
+      "id": 127,
+      "startMs": 775660,
+      "endMs": 784120,
+      "en": "Checking the condition, and I'm now going to speak to Abhijit to ask him what they are hoping to accomplish through this new campaign.",
+      "zh": "他在查看学校状况，我现在要和 Abhijit 谈谈，问问他们希望通过这场新运动实现什么。"
+    },
+    {
+      "id": 128,
+      "startMs": 784840,
+      "endMs": 790120,
+      "en": "What I am hoping to accomplish is that the students or the kids who are living in rural India",
+      "zh": "我希望实现的是，让生活在印度农村的学生或孩子"
+    },
+    {
+      "id": 129,
+      "startMs": 790200,
+      "endMs": 795080,
+      "en": "they should at least get a dignified life, because they have been neglected for the last seven or eight decades",
+      "zh": "至少能够过上有尊严的生活，因为他们已经被忽视了七八十年。"
+    },
+    {
+      "id": 130,
+      "startMs": 795080,
+      "endMs": 799400,
+      "en": "and they too deserve an equal shot at life and equal shot at opportunities.",
+      "zh": "他们同样应当获得平等生活、平等机会的起点。"
+    },
+    {
+      "id": 131,
+      "startMs": 799400,
+      "endMs": 805720,
+      "en": "So, what they've discovered at the school is that there is no toilet for female students,",
+      "zh": "他们在这所学校发现，女学生没有厕所；"
+    },
+    {
+      "id": 132,
+      "startMs": 805720,
+      "endMs": 812280,
+      "en": "the food they are giving in school lunches, some of that is being made from expired products,",
+      "zh": "而学校午餐提供的食物，有些是用过期产品制作的；"
+    },
+    {
+      "id": 133,
+      "startMs": 812760,
+      "endMs": 817320,
+      "en": "and I can see now that Abhijit is sitting surrounded by villagers from the area.",
+      "zh": "我现在看到 Abhijit 正坐在当地村民中间。"
+    },
+    {
+      "id": 134,
+      "startMs": 818260,
+      "endMs": 820900,
+      "en": "He's asked for the school official's number.",
+      "zh": "他要来了负责这所学校的官员的电话号码。"
+    },
+    {
+      "id": 135,
+      "startMs": 820980,
+      "endMs": 826020,
+      "en": "He's called them, and he's asking them questions about why these basic facilities are not available here.",
+      "zh": "他打电话过去，质问对方为什么这里没有这些基本设施。"
+    },
+    {
+      "id": 136,
+      "startMs": 828460,
+      "endMs": 833260,
+      "en": "So the scene is almost like this is a public court demanding accountability from the government.",
+      "zh": "所以现场几乎像是一场公开审判，要求政府承担责任。"
+    },
+    {
+      "id": 137,
+      "startMs": 833420,
+      "endMs": 835580,
+      "en": "So the government is on trial here.",
+      "zh": "政府在这里接受审判。"
+    },
+    {
+      "id": 138,
+      "startMs": 836300,
+      "endMs": 839340,
+      "en": "The Cockroach Janta Party seeks to change political discourse.",
+      "zh": "蟑螂人民党的目标是改变政治话语。"
+    },
+    {
+      "id": 139,
+      "startMs": 839340,
+      "endMs": 844860,
+      "en": "For the last 10–12 years, political discourse has centred on communal, Hindu-Muslim politics,",
+      "zh": "过去十到十二年里，我们看到政治话语一直围绕着社群政治、印度教徒与穆斯林政治；"
+    },
+    {
+      "id": 140,
+      "startMs": 845420,
+      "endMs": 848140,
+      "en": "and we want to bring it to education and employment.",
+      "zh": "我们希望把话题带回教育和就业。"
+    },
+    {
+      "id": 141,
+      "startMs": 849120,
+      "endMs": 853760,
+      "en": "Discontentment and anger has been simmering for a very long time in India about these issues,",
+      "zh": "长期以来，印度民众对这些问题积累着不满和愤怒；"
+    },
+    {
+      "id": 142,
+      "startMs": 854480,
+      "endMs": 857520,
+      "en": "but the Cockroach Janta Party has given that anger a vent.",
+      "zh": "但蟑螂人民党为这种愤怒提供了宣泄出口。"
+    },
+    {
+      "id": 143,
+      "startMs": 857520,
+      "endMs": 862960,
+      "en": "It's brought them to the forefront in a way that we haven't seen in India in a very long time.",
+      "zh": "它以一种我们在印度很久未曾见过的方式，把这些问题带到了前台。"
+    },
+    {
+      "id": 144,
+      "startMs": 863820,
+      "endMs": 871020,
+      "en": "So, to get a sense of how acute this crisis of unemployment is, we've come away from Aurangabad to the national capital,",
+      "zh": "为了了解失业危机有多严重，我们离开奥兰加巴德，来到首都；"
+    },
+    {
+      "id": 145,
+      "startMs": 871340,
+      "endMs": 878700,
+      "en": "Delhi. We've come specifically to an area where there are numerous coaching institutes for students who want to join government services.",
+      "zh": "这里是德里。我们特意来到一个地区，这里有许多辅导机构，帮助学生加入政府部门。"
+    },
+    {
+      "id": 146,
+      "startMs": 879180,
+      "endMs": 883500,
+      "en": "In the last exam that happened, a million students applied.",
+      "zh": "在最近一次考试中，有一百万名学生报名。"
+    },
+    {
+      "id": 147,
+      "startMs": 884220,
+      "endMs": 886620,
+      "en": "Just around a thousand of them actually got through.",
+      "zh": "最终真正通过的只有大约一千人。"
+    },
+    {
+      "id": 148,
+      "startMs": 887180,
+      "endMs": 888940,
+      "en": "Hi, my name is Yogita. What's your name?",
+      "zh": "你好，我是 Yogita。你呢？"
+    },
+    {
+      "id": 149,
+      "startMs": 889020,
+      "endMs": 892620,
+      "en": "Devesh Shukla. I would say there are two core problems.",
+      "zh": "Devesh Shukla。我认为有两个核心问题。"
+    },
+    {
+      "id": 150,
+      "startMs": 892620,
+      "endMs": 897180,
+      "en": "One is income levels not rising in India. So there is stagnation of income,",
+      "zh": "一是印度的收入水平没有提高，收入陷入停滞；"
+    },
+    {
+      "id": 151,
+      "startMs": 897340,
+      "endMs": 900300,
+      "en": "and the second is unavailability of jobs for the Gen Z.",
+      "zh": "二是没有足够的工作岗位给Z世代。"
+    },
+    {
+      "id": 152,
+      "startMs": 900300,
+      "endMs": 904060,
+      "en": "My name is Ahana Singh. It's very depressing, honestly.",
+      "zh": "我叫 Ahana Singh。说实话，这非常令人沮丧。"
+    },
+    {
+      "id": 153,
+      "startMs": 904060,
+      "endMs": 909580,
+      "en": "I always tell this to people, that the only people who are staying in India are not out of choice.",
+      "zh": "我总是告诉人们，留在印度的人并不是出于选择。"
+    },
+    {
+      "id": 154,
+      "startMs": 909820,
+      "endMs": 912060,
+      "en": "They have to stay in India because they have no choice to leave.",
+      "zh": "他们不得不留在印度，因为他们没有选择离开的余地。"
+    },
+    {
+      "id": 155,
+      "startMs": 912760,
+      "endMs": 915960,
+      "en": "So it's evident that it's a really complicated picture here in India",
+      "zh": "所以很明显，印度的情况非常复杂，"
+    },
+    {
+      "id": 156,
+      "startMs": 915960,
+      "endMs": 922440,
+      "en": "because those voices don't tally with India's recent growth rate of more than 7%,",
+      "zh": "因为这些人的说法，和印度近期超过7%的增长率并不相符；"
+    },
+    {
+      "id": 157,
+      "startMs": 922440,
+      "endMs": 925640,
+      "en": "making it one of the fastest-growing major economies in the world.",
+      "zh": "后者让印度成为世界上增长最快的主要经济体之一。"
+    },
+    {
+      "id": 158,
+      "startMs": 926120,
+      "endMs": 933080,
+      "en": "And I think the question a lot of people are asking is, will the protests have an electoral impact in this country?",
+      "zh": "我认为许多人都在问：这些抗议会对这个国家的选举产生影响吗？"
+    },
+    {
+      "id": 159,
+      "startMs": 933400,
+      "endMs": 937560,
+      "en": "It's a question I put to the founder of the Cockroach Janta Party, Abhijit Dipke.",
+      "zh": "我把这个问题问给了蟑螂人民党的创始人 Abhijit Dipke。"
+    },
+    {
+      "id": 160,
+      "startMs": 937880,
+      "endMs": 941160,
+      "en": "I do believe that. Seeing, we have been seeing across India,",
+      "zh": "我确实这样认为。可以看到，我们在印度各地看到，"
+    },
+    {
+      "id": 161,
+      "startMs": 941800,
+      "endMs": 944120,
+      "en": "all political parties have started to cater to the youth.",
+      "zh": "所有政党都开始迎合年轻人的需求。"
+    },
+    {
+      "id": 162,
+      "startMs": 944440,
+      "endMs": 946200,
+      "en": "They're trying to have a dialogue with them.",
+      "zh": "他们正努力与年轻人对话。"
+    },
+    {
+      "id": 163,
+      "startMs": 946440,
+      "endMs": 949560,
+      "en": "Weeks on from the euphoria of their win, the Cockroach Janta Party",
+      "zh": "胜利的兴奋过去几周后，蟑螂人民党"
+    },
+    {
+      "id": 164,
+      "startMs": 949560,
+      "endMs": 955320,
+      "en": "is now confronted with the difficult mandate of proving it wasn't just a flash in the pan",
+      "zh": "如今面临着艰巨任务：证明这不是昙花一现，"
+    },
+    {
+      "id": 165,
+      "startMs": 955640,
+      "endMs": 960460,
+      "en": "and that it is here to stay. That report by Yogita Limaye.",
+      "zh": "而是会长久存在。以上是 Yogita Limaye 的报道。"
+    },
+    {
+      "id": 166,
+      "startMs": 960460,
+      "endMs": 968460,
+      "en": "A new documentary detailing Israel's mass killing of Palestinian civilians in Gaza has received a record-breaking",
+      "zh": "一部讲述以色列在加沙大规模杀害巴勒斯坦平民的新纪录片，获得了破纪录的"
+    },
+    {
+      "id": 167,
+      "startMs": 968540,
+      "endMs": 974220,
+      "en": "25-minute standing ovation at its premiere at the Venice Film Festival.",
+      "zh": "25分钟起立鼓掌，地点是威尼斯电影节首映礼。"
+    },
+    {
+      "id": 168,
+      "startMs": 974860,
+      "endMs": 981580,
+      "en": "'Naza' is made by two Oscar-winning Israeli filmmakers and features testimonies from anonymous whistleblowers.",
+      "zh": "《Naza》由两名奥斯卡获奖的以色列电影人制作，收录了匿名举报人的证词。"
+    },
+    {
+      "id": 169,
+      "startMs": 982060,
+      "endMs": 983500,
+      "en": "Jacob Evans reports.",
+      "zh": "Jacob Evans报道。"
+    },
+    {
+      "id": 170,
+      "startMs": 988900,
+      "endMs": 992820,
+      "en": "This was the scene in Venice after the airing of 'Naza' for the very first time.",
+      "zh": "这是《Naza》首次放映后威尼斯现场的情景。"
+    },
+    {
+      "id": 171,
+      "startMs": 993220,
+      "endMs": 998100,
+      "en": "The film features anonymous interviews with 24 Israeli military and intelligence whistleblowers.",
+      "zh": "影片采访了24名匿名的以色列军方和情报部门举报人。"
+    },
+    {
+      "id": 172,
+      "startMs": 998420,
+      "endMs": 1003380,
+      "en": "It's called 'Naza' after a euphemism for the number of civilian deaths expected in an airstrike.",
+      "zh": "影片名为《Naza》，取自一个委婉说法，指空袭预计造成的平民死亡人数。"
+    },
+    {
+      "id": 173,
+      "startMs": 1003940,
+      "endMs": 1008340,
+      "en": "The interviewees in the film describe using AI to process mass surveillance data",
+      "zh": "影片受访者描述了如何使用人工智能处理大规模监控数据，"
+    },
+    {
+      "id": 174,
+      "startMs": 1008340,
+      "endMs": 1011300,
+      "en": "and identify suspected low-ranking Hamas targets",
+      "zh": "并识别出疑似哈马斯低级别目标，"
+    },
+    {
+      "id": 175,
+      "startMs": 1011700,
+      "endMs": 1013940,
+      "en": "who were then bombed in their homes with their families.",
+      "zh": "随后这些目标连同家人一起在家中遭到轰炸。"
+    },
+    {
+      "id": 176,
+      "startMs": 1014500,
+      "endMs": 1019700,
+      "en": "The movie was written and directed by two Israeli filmmakers, Yuval Abraham and Rachel Szor.",
+      "zh": "影片由两名以色列电影人Yuval Abraham和Rachel Szor编剧并执导。"
+    },
+    {
+      "id": 177,
+      "startMs": 1020100,
+      "endMs": 1025060,
+      "en": "Speaking in Venice, Abraham says the Israeli military was well aware of the civilian casualties.",
+      "zh": "Abraham在威尼斯说，以色列军方非常清楚平民伤亡情况。"
+    },
+    {
+      "id": 178,
+      "startMs": 1025300,
+      "endMs": 1031700,
+      "en": "Intelligence officers knew perhaps the most, because they are the ones listening, and there was a policy, for example, to listen",
+      "zh": "情报官员或许最清楚，因为他们负责监听；例如，有一项政策是监听"
+    },
+    {
+      "id": 179,
+      "startMs": 1031700,
+      "endMs": 1036580,
+      "en": "inside houses before they are bombed using spyware.",
+      "zh": "房屋内部，然后再用间谍软件对其进行轰炸。"
+    },
+    {
+      "id": 180,
+      "startMs": 1037060,
+      "endMs": 1041380,
+      "en": "And you know, you speak to people, and this is in our film, telling you that, yes, we listen house after house",
+      "zh": "你知道，你和人们交谈；影片中他们告诉你，是的，我们逐户监听，"
+    },
+    {
+      "id": 181,
+      "startMs": 1041380,
+      "endMs": 1043940,
+      "en": "and we hear a baby crying,",
+      "zh": "听见婴儿在哭，"
+    },
+    {
+      "id": 182,
+      "startMs": 1043940,
+      "endMs": 1047780,
+      "en": "we hear a family is there, we hear the TV playing, we hear a man talking to his wife,",
+      "zh": "听见那里有一家人，听见电视在播放，听见一个男人和妻子说话，"
+    },
+    {
+      "id": 183,
+      "startMs": 1048440,
+      "endMs": 1052920,
+      "en": "and we bomb them. We consider everyone there Naza, and we do it again and again and again",
+      "zh": "然后我们轰炸他们。我们把那里每个人都视为“Naza”，一次又一次地这样做，"
+    },
+    {
+      "id": 184,
+      "startMs": 1053000,
+      "endMs": 1054680,
+      "en": "as part of a system of targeting.",
+      "zh": "作为一套目标锁定系统的一部分。"
+    },
+    {
+      "id": 185,
+      "startMs": 1054840,
+      "endMs": 1061320,
+      "en": "The two directors also worked on the Oscar-winning documentary 'No Other Land' about Israel's occupation in the West Bank.",
+      "zh": "两位导演还参与制作了奥斯卡获奖纪录片《No Other Land》，讲述以色列对约旦河西岸的占领。"
+    },
+    {
+      "id": 186,
+      "startMs": 1061880,
+      "endMs": 1066280,
+      "en": "Despite the positive reception, Szor says she felt compelled to work on another project.",
+      "zh": "尽管反响积极，Szor说她感到必须投入另一个项目。"
+    },
+    {
+      "id": 187,
+      "startMs": 1066760,
+      "endMs": 1072440,
+      "en": "'No Other Land' was at the Oscars, and it was a very important moment for us,",
+      "zh": "《No Other Land》参加了奥斯卡颁奖礼，那对我们来说是非常重要的时刻，"
+    },
+    {
+      "id": 188,
+      "startMs": 1072840,
+      "endMs": 1079000,
+      "en": "but in a way, I think in the following months afterwards, first of all, the situation just got worse and worse.",
+      "zh": "但某种程度上，我认为在那之后的几个月里，首先，局势变得越来越糟。"
+    },
+    {
+      "id": 189,
+      "startMs": 1079240,
+      "endMs": 1086280,
+      "en": "The 25-minute applause 'Naza' received beat the previous record set last year for another documentary called 'The Voice of Hind Rajab'",
+      "zh": "《Naza》获得的25分钟掌声，超过了去年另一部纪录片《The Voice of Hind Rajab》创下的纪录，"
+    },
+    {
+      "id": 190,
+      "startMs": 1086600,
+      "endMs": 1092200,
+      "en": "about Israel's killing of a young girl in Gaza as she pleaded for rescue after her family car came under fire.",
+      "zh": "那部影片讲述一名加沙女孩在家人的汽车遭到炮火袭击后恳求救援，最终被以色列杀害。"
+    },
+    {
+      "id": 191,
+      "startMs": 1092520,
+      "endMs": 1098040,
+      "en": "Israeli attacks in Gaza have killed more than 73,000 people, according to the Hamas-run Health Ministry",
+      "zh": "据哈马斯控制的卫生部，以色列在加沙的袭击已造成超过7.3万人死亡，"
+    },
+    {
+      "id": 192,
+      "startMs": 1098200,
+      "endMs": 1103020,
+      "en": "which the UN considers reliable. Israel insists it does not target civilians.",
+      "zh": "联合国认为该部门的数据可靠。以色列坚称不会以平民为目标。"
+    },
+    {
+      "id": 193,
+      "startMs": 1104220,
+      "endMs": 1105660,
+      "en": "Jacob Evans reporting there.",
+      "zh": "Jacob Evans报道。"
+    },
+    {
+      "id": 194,
+      "startMs": 1106940,
+      "endMs": 1110060,
+      "en": "Now, to a London landmark locked in a legal battle.",
+      "zh": "现在来看伦敦一处陷入法律纠纷的地标。"
+    },
+    {
+      "id": 195,
+      "startMs": 1110620,
+      "endMs": 1114940,
+      "en": "At this Mayfair address resides the spirit of the city.",
+      "zh": "这座城市的精神，就在梅费尔的这个地址。"
+    },
+    {
+      "id": 196,
+      "startMs": 1116940,
+      "endMs": 1123580,
+      "en": "With a character as big as its legend, the magnificent Dorchester is one of the city's grandest hotels.",
+      "zh": "传奇般气派的多切斯特酒店，是这座城市最宏伟的酒店之一。"
+    },
+    {
+      "id": 197,
+      "startMs": 1123580,
+      "endMs": 1132460,
+      "en": "The Dorchester has been given permission to sell a car belonging to a member of Qatar's ruling family after he ran up a bill of more than $600,000",
+      "zh": "多切斯特酒店获准出售一辆属于卡塔尔王室成员的汽车；此人欠下超过60万美元的账单，"
+    },
+    {
+      "id": 198,
+      "startMs": 1132460,
+      "endMs": 1136300,
+      "en": "and left without paying.",
+      "zh": "随后未付款便离开。"
+    },
+    {
+      "id": 199,
+      "startMs": 1136700,
+      "endMs": 1138620,
+      "en": "Stephanie Prentice tells us more.",
+      "zh": "Stephanie Prentice为我们详细介绍。"
+    },
+    {
+      "id": 200,
+      "startMs": 1139260,
+      "endMs": 1144380,
+      "en": "So, this case involves a Qatari sheikh. He's called Nasser bin Abdullah Al Thani.",
+      "zh": "这起案件涉及一名卡塔尔酋长，他名叫Nasser bin Abdullah Al Thani。"
+    },
+    {
+      "id": 201,
+      "startMs": 1144780,
+      "endMs": 1146140,
+      "en": "He was staying at the hotel.",
+      "zh": "他当时住在这家酒店。"
+    },
+    {
+      "id": 202,
+      "startMs": 1146220,
+      "endMs": 1152620,
+      "en": "Now we don't know for how long. The outstanding bill for the room by itself was about $270,000.",
+      "zh": "我们不知道他住了多久。仅房费欠款就约27万美元。"
+    },
+    {
+      "id": 203,
+      "startMs": 1152620,
+      "endMs": 1160860,
+      "en": "Rooms at the Dorchester range from about $1,500 to $11,000.",
+      "zh": "多切斯特酒店的客房价格约为1500至1.1万美元。"
+    },
+    {
+      "id": 204,
+      "startMs": 1160860,
+      "endMs": 1162780,
+      "en": "So, at least a month we can say he was there,",
+      "zh": "所以可以说，他至少住了一个月，"
+    },
+    {
+      "id": 205,
+      "startMs": 1163020,
+      "endMs": 1170940,
+      "en": "but the rest of the bill suggests he was not, as his miscellaneous costs incurred while he was there were even higher.",
+      "zh": "但账单其余部分显示并非如此，因为他在此期间产生的杂费甚至更高。"
+    },
+    {
+      "id": 206,
+      "startMs": 1171340,
+      "endMs": 1177920,
+      "en": "So, the London court that was dealing with this case put forward a lump sum of almost $350,000. That's on top of those room charges.",
+      "zh": "因此，审理此案的伦敦法院提出近35万美元的总额，另加上述房费。"
+    },
+    {
+      "id": 207,
+      "startMs": 1178000,
+      "endMs": 1184000,
+      "en": "Now, that did include legal fees, but also things like dining,",
+      "zh": "这其中包括律师费，也包括餐饮等费用，"
+    },
+    {
+      "id": 208,
+      "startMs": 1184000,
+      "endMs": 1189440,
+      "en": "you know, the Dorchester has a three-Michelin-star restaurant inside. It includes spa treatments.",
+      "zh": "你知道，多切斯特酒店内有一家米其林三星餐厅，还包括水疗服务。"
+    },
+    {
+      "id": 209,
+      "startMs": 1189680,
+      "endMs": 1196720,
+      "en": "Now, it's not clear when this lavish stay did take place, but in March, the Dorchester gave up trying to get the bill paid",
+      "zh": "目前不清楚这次奢华住宿发生在何时，但三月，多切斯特酒店放弃追讨账单，"
+    },
+    {
+      "id": 210,
+      "startMs": 1196800,
+      "endMs": 1199840,
+      "en": "and filed a lawsuit. And now we do know it won.",
+      "zh": "提起诉讼。现在我们知道酒店胜诉了。"
+    },
+    {
+      "id": 211,
+      "startMs": 1200320,
+      "endMs": 1205120,
+      "en": "So what they're now allowed to do is sell one of the Sheikh's cars that he must have left",
+      "zh": "因此，酒店获准出售这位酋长留在英国的一辆汽车，"
+    },
+    {
+      "id": 212,
+      "startMs": 1205120,
+      "endMs": 1206000,
+      "en": "in the UK.",
+      "zh": "想必他把车留在了英国。"
+    },
+    {
+      "id": 213,
+      "startMs": 1206640,
+      "endMs": 1210400,
+      "en": "Sadly for them, it isn't one of the many supercars.",
+      "zh": "遗憾的是，那不是众多超级跑车中的一辆。"
+    },
+    {
+      "id": 214,
+      "startMs": 1210400,
+      "endMs": 1214160,
+      "en": "It is a Fiat 500, so that's a small three-door hatchback.",
+      "zh": "而是一辆菲亚特500，是一款小型三门掀背车。"
+    },
+    {
+      "id": 215,
+      "startMs": 1214560,
+      "endMs": 1216720,
+      "en": "The Sheikh wasn't in court.",
+      "zh": "这位酋长没有出庭。"
+    },
+    {
+      "id": 216,
+      "startMs": 1216960,
+      "endMs": 1221520,
+      "en": "He lives in Doha, and his lawyers have given out a statement saying he wasn't aware of any of this.",
+      "zh": "他住在多哈；他的律师发表声明说，他并不知道这些事情。"
+    },
+    {
+      "id": 217,
+      "startMs": 1221520,
+      "endMs": 1227280,
+      "en": "He wasn't formally served, in their words, and said they'll be disputing the amount. Stephanie Prentice.",
+      "zh": "律师称，他没有被正式送达法律文书，并表示将对金额提出异议。Stephanie Prentice报道。"
+    },
+    {
+      "id": 218,
+      "startMs": 1227280,
+      "endMs": 1231360,
+      "en": "Prentice. Love, deuce, best of five.",
+      "zh": "普伦蒂斯。零分、平分，五盘三胜。"
+    },
+    {
+      "id": 219,
+      "startMs": 1231760,
+      "endMs": 1236480,
+      "en": "Tennis as we know it may change if the new head of the Australian Open gets his way.",
+      "zh": "如果澳网新负责人如愿以偿，我们熟悉的网球可能会改变。"
+    },
+    {
+      "id": 220,
+      "startMs": 1236500,
+      "endMs": 1245620,
+      "en": "Andrew Abdo has suggested altering the scoring system and shortening Grand Slam matches for men from the current five sets.",
+      "zh": "安德鲁·阿布多建议改变计分系统，将男子大满贯比赛由目前的五盘制缩短。"
+    },
+    {
+      "id": 221,
+      "startMs": 1246260,
+      "endMs": 1254420,
+      "en": "He recognises some \"purist\" fans won't be happy, but says it's important to strike a balance between tradition and entertainment.",
+      "zh": "他承认，一些“传统派”球迷不会高兴，但说重要的是在传统与娱乐性之间取得平衡。"
+    },
+    {
+      "id": 222,
+      "startMs": 1255240,
+      "endMs": 1259720,
+      "en": "Well, the comments haven't gone down well with some, but is there an argument for changing the sport?",
+      "zh": "这些评论并未得到一些人的好评，但改变这项运动是否有道理？"
+    },
+    {
+      "id": 223,
+      "startMs": 1260040,
+      "endMs": 1264520,
+      "en": "A question Jane Hill put to The Guardian newspaper's sports reporter, Sonia Twigg.",
+      "zh": "简·希尔向《卫报》体育记者索尼娅·特威格提出了这个问题。"
+    },
+    {
+      "id": 224,
+      "startMs": 1265240,
+      "endMs": 1270120,
+      "en": "It's one of these debates that sort of re-emerges every few years.",
+      "zh": "这是每隔几年就会重新出现的一类争论。"
+    },
+    {
+      "id": 225,
+      "startMs": 1270200,
+      "endMs": 1277720,
+      "en": "I think Abdo was talking about, you know, not connecting with young people and that tennis might get left behind if it doesn't.",
+      "zh": "我认为，阿布多谈的是如何吸引年轻人；如果网球做不到，可能会被时代甩在后面。"
+    },
+    {
+      "id": 226,
+      "startMs": 1277880,
+      "endMs": 1286040,
+      "en": "You know, Billie Jean King was arguing for a simple one, two, three, four scoring system at a tournament named after her in 2024,",
+      "zh": "比莉·简·金曾主张在一项以她命名、于2024年举行的赛事中采用简单的1、2、3、4计分制，"
+    },
+    {
+      "id": 227,
+      "startMs": 1286600,
+      "endMs": 1289720,
+      "en": "and Novak Djokovic said that a set should be up to four games.",
+      "zh": "诺瓦克·德约科维奇则说，一盘比赛应打到四局。"
+    },
+    {
+      "id": 228,
+      "startMs": 1289720,
+      "endMs": 1297640,
+      "en": "So even if tennis does decide that a change is needed, it doesn't seem like there's a whole lot of consensus about what that change should be.",
+      "zh": "所以，即使网球决定需要改革，大家似乎也没有就改革应采取的方式达成多少共识。"
+    },
+    {
+      "id": 229,
+      "startMs": 1298040,
+      "endMs": 1305960,
+      "en": "But I do think it all stems from this fear of getting left behind, which is odd at a point when tennis seems to be connecting with an audience",
+      "zh": "但我认为，这一切都源于害怕被甩在后面；这很奇怪，因为网球似乎正以前所未有的方式连接观众，"
+    },
+    {
+      "id": 230,
+      "startMs": 1306280,
+      "endMs": 1309960,
+      "en": "through social media and various other things in a way that it hasn't before.",
+      "zh": "通过社交媒体等渠道，形成了过去不曾有过的联系。"
+    },
+    {
+      "id": 231,
+      "startMs": 1310200,
+      "endMs": 1317260,
+      "en": "I think you only need to look at how Alex Eala's success on the court has brought a whole new audience from the Philippines",
+      "zh": "你只需看看亚历克斯·伊拉在球场上的成功，就会发现她吸引了来自菲律宾的全新观众。"
+    },
+    {
+      "id": 232,
+      "startMs": 1317340,
+      "endMs": 1319100,
+      "en": "to a sport they might not have considered before.",
+      "zh": "来到一项他们以前可能从未考虑过的运动。"
+    },
+    {
+      "id": 233,
+      "startMs": 1319740,
+      "endMs": 1324380,
+      "en": "So, I wouldn't say tennis is necessarily struggling and in need of change.",
+      "zh": "所以，我不会说网球一定陷入困境、需要改变。"
+    },
+    {
+      "id": 234,
+      "startMs": 1324380,
+      "endMs": 1329340,
+      "en": "It just seems to be something that people like to sort of bring up every couple of years",
+      "zh": "它只是似乎成了人们每隔几年就喜欢拿出来讨论的话题，"
+    },
+    {
+      "id": 235,
+      "startMs": 1329340,
+      "endMs": 1333100,
+      "en": "and then there are a few debates, and then tennis ends up not really changing anything.",
+      "zh": "然后展开几轮辩论，最终网球却并没有真正改变任何东西。"
+    },
+    {
+      "id": 236,
+      "startMs": 1333960,
+      "endMs": 1341800,
+      "en": "And certainly, the Australian Open, it seems, came out pretty quickly saying, \"We're not getting rid of five sets. Don't panic. Nothing is changing.\"",
+      "zh": "当然，澳网似乎很快就表示：“我们不会取消五盘制。别担心，什么都不会改变。”"
+    },
+    {
+      "id": 237,
+      "startMs": 1342040,
+      "endMs": 1350200,
+      "en": "I suppose that's one of the things that people do think about because, goodness, particularly in Australia and in America,",
+      "zh": "我想，这正是人们会考虑的事情之一；天哪，尤其在澳大利亚和美国，"
+    },
+    {
+      "id": 238,
+      "startMs": 1350200,
+      "endMs": 1354040,
+      "en": "we've seen matches end at one, two, three in the morning.",
+      "zh": "我们见过比赛在凌晨一点、两点、三点才结束。"
+    },
+    {
+      "id": 239,
+      "startMs": 1354280,
+      "endMs": 1359080,
+      "en": "Yes, I do think that's a different point: how late finishes there are.",
+      "zh": "是的，我确实认为，那是另一个问题：比赛结束得太晚。"
+    },
+    {
+      "id": 240,
+      "startMs": 1359080,
+      "endMs": 1363960,
+      "en": "I mean, Carlos Alcaraz and Ben Shelton finishing their quarter-final at three thirty-three in the morning,",
+      "zh": "我的意思是，卡洛斯·阿尔卡拉斯和本·谢尔顿凌晨3点33分才结束四分之一决赛，"
+    },
+    {
+      "id": 241,
+      "startMs": 1364200,
+      "endMs": 1367960,
+      "en": "breaking the previous record by more than 40 minutes.",
+      "zh": "他们打破此前纪录超过40分钟。"
+    },
+    {
+      "id": 242,
+      "startMs": 1367960,
+      "endMs": 1373560,
+      "en": "You sort of do ask yourself, \"Who is watching this on television?\"",
+      "zh": "你会不禁问自己：“电视机前有谁在看这场比赛？”"
+    },
+    {
+      "id": 243,
+      "startMs": 1373560,
+      "endMs": 1376680,
+      "en": "And who is still there in the stadium? Obviously, you want it packed.",
+      "zh": "还有谁仍在现场？毕竟，大家显然都希望球场座无虚席。"
+    },
+    {
+      "id": 244,
+      "startMs": 1377160,
+      "endMs": 1384520,
+      "en": "And just to turn to some of the other comments that Andrew Abdo made, I mean, he was talking generally about the scoring system, wasn't he?",
+      "zh": "再谈谈安德鲁·阿布多的其他评论：他泛泛谈到了计分系统，对吧？"
+    },
+    {
+      "id": 245,
+      "startMs": 1384520,
+      "endMs": 1390360,
+      "en": "I mean, is it a bit unfair to suggest that the scoring system is antiquated?",
+      "zh": "我的意思是，说计分系统已经过时，是不是有点不公平？"
+    },
+    {
+      "id": 246,
+      "startMs": 1390360,
+      "endMs": 1395980,
+      "en": "I'm not sure that was his exact word, but that's sort of what he was driving at. It seems to work okay, doesn't it?",
+      "zh": "我不确定那是不是他的原话，但这大致就是他想表达的。它运行得挺好，不是吗？"
+    },
+    {
+      "id": 247,
+      "startMs": 1395980,
+      "endMs": 1400540,
+      "en": "Well, I think if you ask anyone who plays or watches tennis, they don't have an issue.",
+      "zh": "嗯，如果你问任何一个打网球或看网球的人，他们都不会觉得这是问题。"
+    },
+    {
+      "id": 248,
+      "startMs": 1400620,
+      "endMs": 1405820,
+      "en": "But for someone who's new to it, they might find it a little difficult to get to grips with.",
+      "zh": "但对刚接触网球的人来说，可能会觉得有点难以掌握。"
+    },
+    {
+      "id": 249,
+      "startMs": 1405820,
+      "endMs": 1411260,
+      "en": "But I think what's really interesting is, especially for young people, we've seen a huge explosion in padel,",
+      "zh": "但我认为真正有意思的是，尤其对年轻人来说，板式网球正在迅速兴起，大家似乎都在参与，"
+    },
+    {
+      "id": 250,
+      "startMs": 1411580,
+      "endMs": 1417180,
+      "en": "which everyone seems to be taking up, and it's sort of booming, particularly in this country.",
+      "zh": "它在这个国家尤其火爆。"
+    },
+    {
+      "id": 251,
+      "startMs": 1417500,
+      "endMs": 1423420,
+      "en": "But they also use a tennis system, and people don't seem to have difficulty getting to grips with that,",
+      "zh": "但他们也使用网球的计分方式，人们似乎并不难掌握，"
+    },
+    {
+      "id": 252,
+      "startMs": 1423820,
+      "endMs": 1427020,
+      "en": "even a lot of them not coming from a tennis background.",
+      "zh": "包括许多并非来自网球背景的人。"
+    },
+    {
+      "id": 253,
+      "startMs": 1427020,
+      "endMs": 1430860,
+      "en": "So I think it's not necessarily difficult to understand.",
+      "zh": "所以，我认为它并不难理解。"
+    },
+    {
+      "id": 254,
+      "startMs": 1430860,
+      "endMs": 1437020,
+      "en": "And I think if you did change it, you would miss the drama that comes with those particularly big points.",
+      "zh": "而且如果真的改了计分方式，就会错过那些关键分带来的戏剧性。"
+    },
+    {
+      "id": 255,
+      "startMs": 1437020,
+      "endMs": 1442220,
+      "en": "I mean, who doesn't want to watch an eight-minute game that goes to deuce three or four times?",
+      "zh": "我的意思是，谁不想看一场持续8分钟、经历三四次平分的比赛呢？"
+    },
+    {
+      "id": 256,
+      "startMs": 1442220,
+      "endMs": 1443740,
+      "en": "You get so much more invested in it.",
+      "zh": "你会更加投入其中。"
+    },
+    {
+      "id": 257,
+      "startMs": 1444700,
+      "endMs": 1445500,
+      "en": "Sonia Twigg.",
+      "zh": "索尼娅·特威格。"
+    },
+    {
+      "id": 258,
+      "startMs": 1447880,
+      "endMs": 1450280,
+      "en": "That's all for now. To get in touch,",
+      "zh": "我们暂时就说到这里。如果想联系我们，"
+    },
+    {
+      "id": 259,
+      "startMs": 1450280,
+      "endMs": 1455400,
+      "en": "you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 260,
+      "startMs": 1456360,
+      "endMs": 1460040,
+      "en": "This edition of the Global News Podcast was mixed by Nick Randall.",
+      "zh": "本期《全球新闻播客》由尼克·兰德尔负责混音。"
+    },
+    {
+      "id": 261,
+      "startMs": 1460360,
+      "endMs": 1462120,
+      "en": "The producer was Adrian White.",
+      "zh": "制片人是阿德里安·怀特。"
+    },
+    {
+      "id": 262,
+      "startMs": 1462440,
+      "endMs": 1464200,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 263,
+      "startMs": 1464600,
+      "endMs": 1467240,
+      "en": "I'm Janet Jaleel. Until next time, goodbye.",
+      "zh": "我是珍妮特·贾利尔。下期再见。"
+    }
+  ]
+}

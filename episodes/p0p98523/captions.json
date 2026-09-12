@@ -1,0 +1,1558 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "12 September 2026"
+  },
+  "durationMs": 1286420,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4320,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《Global News Podcast》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5040,
+      "endMs": 11200,
+      "en": "I'm Janet Jalil, and in the early hours of Saturday, the 12th of September, these are our main stories.",
+      "zh": "我是珍妮特·贾利勒。9月12日星期六凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11760,
+      "endMs": 17280,
+      "en": "Iranian-backed Houthi fighters in Yemen cement their control of a key waterway,",
+      "zh": "伊朗支持的也门胡塞武装巩固了对一条重要水道的控制，"
+    },
+    {
+      "id": 4,
+      "startMs": 17600,
+      "endMs": 21280,
+      "en": "seizing control of the country's entire Red Sea coast.",
+      "zh": "夺取了该国整个红海沿岸的控制权。"
+    },
+    {
+      "id": 5,
+      "startMs": 22300,
+      "endMs": 28540,
+      "en": "The Democratic Republic of Congo says the Ebola outbreak it's battling has spread to the country's northwest.",
+      "zh": "刚果民主共和国表示，正在应对的埃博拉疫情已扩散至该国西北部。"
+    },
+    {
+      "id": 6,
+      "startMs": 29440,
+      "endMs": 35680,
+      "en": "A bill to legalize assisted dying in England and Wales is rejected by MPs.",
+      "zh": "一项拟将英格兰和威尔士协助死亡合法化的法案遭议员否决。"
+    },
+    {
+      "id": 7,
+      "startMs": 35680,
+      "endMs": 43680,
+      "en": "And a museum in England removes an ancient Egyptian mummy from public display because they think that's what she would have wanted.",
+      "zh": "英国一家博物馆将一具古埃及木乃伊撤下公开展览，因为他们认为这符合她本人的意愿。"
+    },
+    {
+      "id": 8,
+      "startMs": 44080,
+      "endMs": 46160,
+      "en": "Some visitors, though, aren't happy.",
+      "zh": "不过，一些参观者并不满意。"
+    },
+    {
+      "id": 9,
+      "startMs": 46560,
+      "endMs": 50720,
+      "en": "It's half of an exhibit if you just have the exterior without the interior of it.",
+      "zh": "如果只有外部而没有内部，那就只剩展品的一半。"
+    },
+    {
+      "id": 10,
+      "startMs": 51040,
+      "endMs": 54000,
+      "en": "You're missing out on kids coming in and learning what mummies look like.",
+      "zh": "孩子们进来学习木乃伊是什么样子时，也会因此失去机会。"
+    },
+    {
+      "id": 11,
+      "startMs": 54160,
+      "endMs": 58320,
+      "en": "I do understand the point of view of the people who it's been taken from.",
+      "zh": "我确实理解那些失去这具木乃伊的人们的立场。"
+    },
+    {
+      "id": 12,
+      "startMs": 58960,
+      "endMs": 61440,
+      "en": "Yeah, it definitely was the right decision to take it off.",
+      "zh": "是的，把它撤下绝对是正确的决定。"
+    },
+    {
+      "id": 13,
+      "startMs": 65340,
+      "endMs": 70780,
+      "en": "Iranian-backed Houthi fighters have now seized control of Yemen's entire Red Sea coast",
+      "zh": "伊朗支持的胡塞武装现已夺取也门整个红海沿岸的控制权，"
+    },
+    {
+      "id": 14,
+      "startMs": 71100,
+      "endMs": 76060,
+      "en": "in a lightning offensive that cemented their grip on a vital maritime corridor.",
+      "zh": "这场闪电攻势巩固了他们对一条重要海上通道的控制。"
+    },
+    {
+      "id": 15,
+      "startMs": 76700,
+      "endMs": 81420,
+      "en": "An eyewitness said gunmen were deploying along a key international shipping route,",
+      "zh": "一名目击者说，武装人员正沿着一条重要国际航运路线部署，"
+    },
+    {
+      "id": 16,
+      "startMs": 81820,
+      "endMs": 85660,
+      "en": "the Bab al-Mandab Strait, and driving around in military vehicles.",
+      "zh": "也就是曼德海峡，并驾驶军车四处行动。"
+    },
+    {
+      "id": 17,
+      "startMs": 86220,
+      "endMs": 94620,
+      "en": "Officials in the Saudi-backed Yemeni government say the Houthis have also seized several islands in and near the Bab al-Mandab.",
+      "zh": "沙特支持的也门政府官员说，胡塞武装还夺取了曼德海峡内及附近的数座岛屿。"
+    },
+    {
+      "id": 18,
+      "startMs": 95100,
+      "endMs": 99740,
+      "en": "This has become an increasingly important route for Saudi Arabia's oil exports",
+      "zh": "这已成为沙特阿拉伯石油出口日益重要的路线，"
+    },
+    {
+      "id": 19,
+      "startMs": 100060,
+      "endMs": 105820,
+      "en": "since Iran blocked shipping through the Strait of Hormuz after the US and Israel launched their war on it.",
+      "zh": "因为美以对其发动战争后，伊朗封锁了经由霍尔木兹海峡的航运。"
+    },
+    {
+      "id": 20,
+      "startMs": 106460,
+      "endMs": 109900,
+      "en": "The Houthi military spokesman, Yahya Sarea, had this to say.",
+      "zh": "胡塞武装发言人 Yahya Sarea 这样说道。"
+    },
+    {
+      "id": 21,
+      "startMs": 110540,
+      "endMs": 120860,
+      "en": "Navigation remains safe for all shipping companies except Saudi vessels in the Strait of Bab al-Mandab,",
+      "zh": "除沙特船只外，所有航运公司的船只在曼德海峡航行仍然安全，"
+    },
+    {
+      "id": 22,
+      "startMs": 121420,
+      "endMs": 128480,
+      "en": "a strategic link between the Indian Ocean and the Mediterranean Sea via the Red Sea and the Suez Canal.",
+      "zh": "这里是连接印度洋与地中海的战略通道，经由红海和苏伊士运河。"
+    },
+    {
+      "id": 23,
+      "startMs": 129760,
+      "endMs": 136720,
+      "en": "Meanwhile, Saudi Arabia says it's shut down a major oil pipeline after it was attacked by drones launched from inside Iraq.",
+      "zh": "与此同时，沙特阿拉伯说，一条主要输油管道遭到从伊拉克境内发射的无人机袭击后，已被关闭。"
+    },
+    {
+      "id": 24,
+      "startMs": 137600,
+      "endMs": 144240,
+      "en": "The UN says the latest fighting in Yemen has killed hundreds of people and displaced tens of thousands more.",
+      "zh": "联合国说，也门最近的战斗已造成数百人死亡，另有数万人流离失所。"
+    },
+    {
+      "id": 25,
+      "startMs": 144800,
+      "endMs": 149520,
+      "en": "Our correspondent, Lyse Doucet, explained how significant the Houthi advance was.",
+      "zh": "本台记者莉斯·杜塞特解释了胡塞武装推进的重要性。"
+    },
+    {
+      "id": 26,
+      "startMs": 150000,
+      "endMs": 155440,
+      "en": "This is hugely significant. It essentially opens up a second front in this crucial area.",
+      "zh": "这极其重要。它实际上在这个关键地区开辟了第二条战线。"
+    },
+    {
+      "id": 27,
+      "startMs": 155840,
+      "endMs": 161520,
+      "en": "We have, of course, been focusing for many months. The main theatre of war is in the Strait of Hormuz.",
+      "zh": "当然，几个月来我们一直关注着主要战场，也就是霍尔木兹海峡。"
+    },
+    {
+      "id": 28,
+      "startMs": 161840,
+      "endMs": 167520,
+      "en": "And there's been observations, including from US officials in recent days, about how they've been able to loosen Iran's grip",
+      "zh": "近几天也有包括美国官员在内的观察人士指出，他们已经能够削弱伊朗对该海峡的控制，"
+    },
+    {
+      "id": 29,
+      "startMs": 167760,
+      "endMs": 176720,
+      "en": "on that strategic choke point, that they're now managing to get many, many more tankers through, exporting many, many more millions of barrels of oil,",
+      "zh": "这个战略咽喉要道如今能让更多油轮通过，出口更多数百万桶石油，"
+    },
+    {
+      "id": 30,
+      "startMs": 177120,
+      "endMs": 180720,
+      "en": "whereas the Iranians are being prevented from exporting their oil.",
+      "zh": "而伊朗人则被阻止出口石油。"
+    },
+    {
+      "id": 31,
+      "startMs": 181120,
+      "endMs": 188000,
+      "en": "So we see in this move by the Houthis, who are not completely tied to Iran, they have their own interests in the region,",
+      "zh": "所以，从胡塞武装的这一行动可以看出，他们并非完全受伊朗控制，在该地区也有自己的利益，"
+    },
+    {
+      "id": 32,
+      "startMs": 188240,
+      "endMs": 197440,
+      "en": "but on this they seem aligned, that Iran now wants to exercise even greater leverage geographically and politically by maintaining a hold over the second choke point.",
+      "zh": "但在这件事上双方似乎一致：伊朗希望通过控制第二个咽喉要道，在地缘和政治上施加更大影响。"
+    },
+    {
+      "id": 33,
+      "startMs": 198180,
+      "endMs": 203140,
+      "en": "Just south of the Persian Gulf, now you have the Bab al-Mandab Strait on the Red Sea.",
+      "zh": "就在波斯湾以南，红海上的曼德海峡如今也处于这一格局中。"
+    },
+    {
+      "id": 34,
+      "startMs": 203620,
+      "endMs": 211780,
+      "en": "But you heard from the spokesman making it very clear they don't want the Americans to be drawn in. They promise not to disrupt maritime trade,",
+      "zh": "但你从发言人的话中听得很清楚，他们不希望美国介入。他们承诺不会扰乱海上贸易，"
+    },
+    {
+      "id": 35,
+      "startMs": 211780,
+      "endMs": 215780,
+      "en": "except for the Saudis.",
+      "zh": "但沙特除外。"
+    },
+    {
+      "id": 36,
+      "startMs": 215780,
+      "endMs": 219620,
+      "en": "And just how crucial is that Bab al-Mandab Strait? We've heard so much about the Strait of Hormuz.",
+      "zh": "那么，曼德海峡究竟有多关键？我们已经听到很多关于霍尔木兹海峡的报道。"
+    },
+    {
+      "id": 37,
+      "startMs": 219860,
+      "endMs": 229140,
+      "en": "How about this particular choke point? It's particularly important for Saudi Arabia, because Saudi Arabia being prevented from exporting through the Strait of Hormuz",
+      "zh": "这个特殊的咽喉要道又如何？它对沙特阿拉伯尤其重要，因为沙特无法经由霍尔木兹海峡出口，"
+    },
+    {
+      "id": 38,
+      "startMs": 229140,
+      "endMs": 233300,
+      "en": "has been turning to the Red Sea, which is the link between the Suez Canal in the north and the Gulf of Aden.",
+      "zh": "所以一直转向红海；红海连接北部的苏伊士运河和亚丁湾。"
+    },
+    {
+      "id": 39,
+      "startMs": 233780,
+      "endMs": 240900,
+      "en": "And I know from recently speaking to Saudi officials they were putting all their efforts into developing these alternative routes.",
+      "zh": "我最近与沙特官员交谈时了解到，他们正竭尽全力开发这些替代路线。"
+    },
+    {
+      "id": 40,
+      "startMs": 240900,
+      "endMs": 246660,
+      "en": "And it's been the same with other partners in the Gulf, saying, OK, right, Iran's going to continue to exercise control there.",
+      "zh": "海湾的其他伙伴也是如此，他们说：好吧，伊朗将继续在那里行使控制权。"
+    },
+    {
+      "id": 41,
+      "startMs": 246980,
+      "endMs": 250900,
+      "en": "We're going to outsmart them by making the Strait of Hormuz less important.",
+      "zh": "我们要让霍尔木兹海峡变得不那么重要，从而胜过他们。"
+    },
+    {
+      "id": 42,
+      "startMs": 250980,
+      "endMs": 255300,
+      "en": "It's very difficult to say just how much of the traffic goes through there, and it's not just oil and gas.",
+      "zh": "很难说有多少交通运输经过那里，而且经过的并不只有石油和天然气。"
+    },
+    {
+      "id": 43,
+      "startMs": 255620,
+      "endMs": 257540,
+      "en": "There are other really important commodities as well.",
+      "zh": "还有其他非常重要的商品。"
+    },
+    {
+      "id": 44,
+      "startMs": 257560,
+      "endMs": 262040,
+      "en": "Well, so this is why you've seen today another spike in oil prices.",
+      "zh": "所以，这就是为什么今天油价再次大幅上涨。"
+    },
+    {
+      "id": 45,
+      "startMs": 262280,
+      "endMs": 268200,
+      "en": "The markets are nervous, and I think it's a very unpredictable and a very volatile situation.",
+      "zh": "市场感到紧张，我认为局势非常不可预测，也非常动荡。"
+    },
+    {
+      "id": 46,
+      "startMs": 268360,
+      "endMs": 271320,
+      "en": "What will the Saudis do? They're already bombing today.",
+      "zh": "沙特会怎么做？他们今天已经在进行轰炸。"
+    },
+    {
+      "id": 47,
+      "startMs": 271800,
+      "endMs": 277480,
+      "en": "There are reports that they've asked the Americans to help. So far they're not, but the discussions are continuing.",
+      "zh": "有报道称，他们已请求美国提供帮助。目前美国还没有答应，但讨论仍在继续。"
+    },
+    {
+      "id": 48,
+      "startMs": 278420,
+      "endMs": 291620,
+      "en": "Despite efforts to control the Ebola outbreak, officials confirm the virus has spread to a new part of the Democratic Republic of Congo.",
+      "zh": "尽管采取了控制措施，官员仍证实埃博拉病毒已扩散到刚果民主共和国一个新的地区。"
+    },
+    {
+      "id": 49,
+      "startMs": 292100,
+      "endMs": 297940,
+      "en": "So far, more than 3,000 people are known to have died, with thousands more infected.",
+      "zh": "目前已知有超过3000人死亡，另有数千人感染。"
+    },
+    {
+      "id": 50,
+      "startMs": 298260,
+      "endMs": 300900,
+      "en": "I got more details from our reporter, David Bamford.",
+      "zh": "我们的记者戴维·班福德带来了更多详情。"
+    },
+    {
+      "id": 51,
+      "startMs": 301300,
+      "endMs": 308420,
+      "en": "Up until now, the virus has been mainly in the northeast of Congo in about six different provinces.",
+      "zh": "到目前为止，病毒主要出现在刚果东北部大约六个省。"
+    },
+    {
+      "id": 52,
+      "startMs": 308660,
+      "endMs": 317620,
+      "en": "It's now slightly further to the west on the borders of the Central African Republic and Congo, in what's called the South Ubangi region.",
+      "zh": "如今疫情略微向西扩散，出现在中非共和国和刚果交界处的南乌班吉地区。"
+    },
+    {
+      "id": 53,
+      "startMs": 317940,
+      "endMs": 323780,
+      "en": "So it is still spreading, and up until now, we've had 7,000 cases nationwide.",
+      "zh": "所以疫情仍在扩散；截至目前，全国已有7000例病例。"
+    },
+    {
+      "id": 54,
+      "startMs": 324100,
+      "endMs": 328980,
+      "en": "About nearly half of those died, so 3,300 dead.",
+      "zh": "其中大约近一半人死亡，也就是3300人。"
+    },
+    {
+      "id": 55,
+      "startMs": 329380,
+      "endMs": 334980,
+      "en": "And the fear is, of course, that it could spread across the borders into the other countries.",
+      "zh": "当然，人们担心疫情可能越过边境，传入其他国家。"
+    },
+    {
+      "id": 56,
+      "startMs": 335060,
+      "endMs": 340040,
+      "en": "Although that said, when it did spread into Uganda, for instance, they dealt with it very efficiently.",
+      "zh": "不过，疫情例如扩散到乌干达时，当地应对得非常高效。"
+    },
+    {
+      "id": 57,
+      "startMs": 340120,
+      "endMs": 346440,
+      "en": "That's because they have quick contact tracing systems and so on, very modern in a way that Congo just doesn't.",
+      "zh": "这是因为乌干达有快速的接触者追踪系统等设施，在这方面非常现代化，而刚果完全没有。"
+    },
+    {
+      "id": 58,
+      "startMs": 347000,
+      "endMs": 351720,
+      "en": "And what role have the major cuts in US aid played in all this?",
+      "zh": "美国大幅削减援助在这一切中起了什么作用？"
+    },
+    {
+      "id": 59,
+      "startMs": 351720,
+      "endMs": 356360,
+      "en": "Because the virus did spread undetected for some weeks.",
+      "zh": "因为病毒确实有几周在未被发现的情况下传播。"
+    },
+    {
+      "id": 60,
+      "startMs": 356760,
+      "endMs": 358840,
+      "en": "That's right, it did.",
+      "zh": "没错，确实如此。"
+    },
+    {
+      "id": 61,
+      "startMs": 358920,
+      "endMs": 365720,
+      "en": "It is true that the Americans under the Trump administration have withdrawn funding for the little clinics that were spread right across the Congo.",
+      "zh": "的确，特朗普政府时期的美国撤回了对遍布刚果各地的小型诊所的资金支持。"
+    },
+    {
+      "id": 62,
+      "startMs": 365960,
+      "endMs": 371400,
+      "en": "But it's not just the Americans, of course. The Europeans have also withdrawn a lot of aid as well.",
+      "zh": "当然，不只是美国人；欧洲人也撤回了大量援助。"
+    },
+    {
+      "id": 63,
+      "startMs": 371720,
+      "endMs": 378840,
+      "en": "And dealing with a country like Congo is difficult at the best of times, but with money disappearing the way it has, it's almost impossible.",
+      "zh": "即使在最好的时候，应对刚果这样的国家也很困难；如今资金如此消失不见，几乎是不可能的。"
+    },
+    {
+      "id": 64,
+      "startMs": 379640,
+      "endMs": 383240,
+      "en": "And what progress has there been towards developing your vaccine?",
+      "zh": "疫苗研发取得了哪些进展？"
+    },
+    {
+      "id": 65,
+      "startMs": 383640,
+      "endMs": 389320,
+      "en": "Well, remarkably, there has been a lot of work on the vaccines, and human treatment has begun already.",
+      "zh": "值得注意的是，疫苗研发已经开展了大量工作，人体治疗也已开始。"
+    },
+    {
+      "id": 66,
+      "startMs": 389320,
+      "endMs": 398360,
+      "en": "But it's still in the early stages, and it's going to be months before they can actually put together significant quantities of the vaccine.",
+      "zh": "但目前仍处于早期阶段，还要数月才能真正制备出足量疫苗。"
+    },
+    {
+      "id": 67,
+      "startMs": 398300,
+      "endMs": 401180,
+      "en": "To make any difference. David Bamford.",
+      "zh": "要产生任何效果。戴维·班福德。"
+    },
+    {
+      "id": 68,
+      "startMs": 401180,
+      "endMs": 406140,
+      "en": "A number of countries have legalised assisted dying in recent years.",
+      "zh": "近年来，一些国家已将协助死亡合法化。"
+    },
+    {
+      "id": 69,
+      "startMs": 406540,
+      "endMs": 410540,
+      "en": "But it seems England and Wales won't be joining their ranks anytime soon.",
+      "zh": "但英格兰和威尔士似乎短期内不会加入这些国家的行列。"
+    },
+    {
+      "id": 70,
+      "startMs": 410700,
+      "endMs": 416220,
+      "en": "After the British Parliament voted against changing the law on this emotionally charged issue,",
+      "zh": "英国议会投票反对修改这项情绪高度激烈议题的法律后，"
+    },
+    {
+      "id": 71,
+      "startMs": 416860,
+      "endMs": 422300,
+      "en": "the Terminally Ill Adults (End of Life) Bill would have allowed adults with less than six months to live",
+      "zh": "《身患绝症成年人生命终结法案》原本将允许预计寿命不足六个月的成年人"
+    },
+    {
+      "id": 72,
+      "startMs": 422460,
+      "endMs": 426380,
+      "en": "to apply to end their own life, subject to certain safeguards.",
+      "zh": "在若干保障措施约束下申请结束自己的生命。"
+    },
+    {
+      "id": 73,
+      "startMs": 427100,
+      "endMs": 436620,
+      "en": "One long-time campaigner for assisted dying in the UK is 86-year-old broadcaster Esther Rantzen, who has terminal cancer.",
+      "zh": "长期推动英国允许协助死亡的人之一，是86岁的广播员埃丝特·兰岑；她身患晚期癌症。"
+    },
+    {
+      "id": 74,
+      "startMs": 437260,
+      "endMs": 444220,
+      "en": "She has said she is now too physically fragile to travel to another country, like Switzerland, where she could legally end her life.",
+      "zh": "她说自己如今身体过于虚弱，无法前往瑞士等允许她合法结束生命的其他国家。"
+    },
+    {
+      "id": 75,
+      "startMs": 444860,
+      "endMs": 447900,
+      "en": "She gave her reaction to the no vote on a mobile phone.",
+      "zh": "她通过手机回应了这次否决投票。"
+    },
+    {
+      "id": 76,
+      "startMs": 447900,
+      "endMs": 449900,
+      "en": "I'm so sad.",
+      "zh": "我非常难过。"
+    },
+    {
+      "id": 77,
+      "startMs": 451440,
+      "endMs": 459920,
+      "en": "People in this country won't have the choice of shortening their own deaths by asking for help.",
+      "zh": "这个国家的人将无法选择通过求助来缩短自己的死亡过程。"
+    },
+    {
+      "id": 78,
+      "startMs": 460680,
+      "endMs": 464040,
+      "en": "I am sure a change in the law will come.",
+      "zh": "我相信法律一定会改变。"
+    },
+    {
+      "id": 79,
+      "startMs": 465080,
+      "endMs": 473380,
+      "en": "I am deeply sad that it won't come soon enough for many of the people who need it.",
+      "zh": "我深感悲伤，因为对许多需要它的人来说，改变来得还不够快。"
+    },
+    {
+      "id": 80,
+      "startMs": 474260,
+      "endMs": 480260,
+      "en": "But one of the MPs who voted against was Ashley Dalton, who is living with stage four cancer.",
+      "zh": "但投反对票的议员中有阿什莉·道尔顿，她患有第四期癌症。"
+    },
+    {
+      "id": 81,
+      "startMs": 480740,
+      "endMs": 486020,
+      "en": "She said she was worried people like her could be pressured or coerced into ending their lives.",
+      "zh": "她说自己担心像她这样的人可能被施压或胁迫结束生命。"
+    },
+    {
+      "id": 82,
+      "startMs": 486420,
+      "endMs": 493140,
+      "en": "It's nothing short of irresponsible to scaremonger people like me into believing our deaths will be horrific.",
+      "zh": "恐吓像我这样的人，让我们相信自己的死亡会很可怕，这完全是不负责任的。"
+    },
+    {
+      "id": 83,
+      "startMs": 493540,
+      "endMs": 498820,
+      "en": "When all the evidence suggests that with access to good palliative care, deaths are on the whole gentle.",
+      "zh": "而所有证据都表明，只要获得良好的安宁疗护，死亡总体上是平和的。"
+    },
+    {
+      "id": 84,
+      "startMs": 499140,
+      "endMs": 506500,
+      "en": "The answer is not to terrify people and their families. It's to sort out palliative care and social care first.",
+      "zh": "答案不是恐吓人们及其家人，而是先解决安宁疗护和社会照护问题。"
+    },
+    {
+      "id": 85,
+      "startMs": 507200,
+      "endMs": 510720,
+      "en": "It's the second time in two years that MPs have voted on the issue.",
+      "zh": "这是议员两年来第二次就这一问题投票。"
+    },
+    {
+      "id": 86,
+      "startMs": 511200,
+      "endMs": 515600,
+      "en": "The lower house of parliament, the Commons, voted in favour of assisted dying last year,",
+      "zh": "议会下院——下议院——去年投票支持协助死亡，"
+    },
+    {
+      "id": 87,
+      "startMs": 516000,
+      "endMs": 521920,
+      "en": "but after the upper house blocked it, concerns have grown that safeguards may not be robust enough.",
+      "zh": "但上议院阻止了该法案后，人们越来越担心保障措施可能不够完善。"
+    },
+    {
+      "id": 88,
+      "startMs": 522480,
+      "endMs": 531840,
+      "en": "After the latest vote was announced, our medical editor Fergus Walsh was outside Parliament, where supporters and opponents of the bill had gathered.",
+      "zh": "最新投票结果公布时，我们的医学编辑弗格斯·沃尔什正在议会大楼外，法案支持者和反对者聚集在那里。"
+    },
+    {
+      "id": 89,
+      "startMs": 536820,
+      "endMs": 545620,
+      "en": "Joy and relief from no-campaigners who'd argued that the bill would lead to the coercion of the vulnerable and undermine support for the disabled.",
+      "zh": "反对阵营的活动人士感到喜悦和宽慰；他们认为法案会导致弱势群体受到胁迫，并削弱对残障人士的支持。"
+    },
+    {
+      "id": 90,
+      "startMs": 546180,
+      "endMs": 549620,
+      "en": "Sophie Cleanthous is a disability rights campaigner.",
+      "zh": "索菲·克林索斯是一名残障人士权益活动人士。"
+    },
+    {
+      "id": 91,
+      "startMs": 549860,
+      "endMs": 553620,
+      "en": "The fact that MPs listened, they spoke to us, they heard us.",
+      "zh": "议员们倾听了，他们和我们交谈，也听到了我们的声音。"
+    },
+    {
+      "id": 92,
+      "startMs": 553860,
+      "endMs": 556740,
+      "en": "They know that disabled people were terrified of this bill.",
+      "zh": "他们知道残障人士对这项法案感到恐惧。"
+    },
+    {
+      "id": 93,
+      "startMs": 556820,
+      "endMs": 559700,
+      "en": "Thank you to every MP that voted against.",
+      "zh": "感谢每一位投反对票的议员。"
+    },
+    {
+      "id": 94,
+      "startMs": 559700,
+      "endMs": 567460,
+      "en": "But there was dismay among pro-campaigners who only last year were celebrating when MPs backed the same legislation.",
+      "zh": "但支持阵营也感到失望；就在去年，议员支持同一项立法时，他们还在庆祝。"
+    },
+    {
+      "id": 95,
+      "startMs": 567940,
+      "endMs": 572580,
+      "en": "They argue terminally ill people deserve choice and a pain-free death.",
+      "zh": "他们认为，身患绝症的人应当拥有选择和无痛死亡的权利。"
+    },
+    {
+      "id": 96,
+      "startMs": 573220,
+      "endMs": 577940,
+      "en": "Sarah Burns's sister, Elise, died of breast cancer in July.",
+      "zh": "莎拉·伯恩斯的妹妹伊莉斯于七月因乳腺癌去世。"
+    },
+    {
+      "id": 97,
+      "startMs": 577940,
+      "endMs": 580580,
+      "en": "It just feels like a massive slap in the face.",
+      "zh": "这感觉就像狠狠挨了一记耳光。"
+    },
+    {
+      "id": 98,
+      "startMs": 581620,
+      "endMs": 585220,
+      "en": "We had to watch her go through hell, essentially.",
+      "zh": "我们只能眼看着她受尽折磨。"
+    },
+    {
+      "id": 99,
+      "startMs": 585380,
+      "endMs": 594940,
+      "en": "She'd be devastated that after it passed once and then it ran out of time, it's come back and now it's a no vote.",
+      "zh": "法案曾经通过、后来因时间耗尽，如今又被否决；她一定会感到极度痛苦。"
+    },
+    {
+      "id": 100,
+      "startMs": 595100,
+      "endMs": 599500,
+      "en": "A growing number of countries have legalised assisted dying in recent years,",
+      "zh": "近年来，越来越多国家将协助死亡合法化，"
+    },
+    {
+      "id": 101,
+      "startMs": 599740,
+      "endMs": 605260,
+      "en": "including Canada, Australia, New Zealand, Spain, and just last month, France.",
+      "zh": "包括加拿大、澳大利亚、新西兰、西班牙，以及就在上个月加入的法国。"
+    },
+    {
+      "id": 102,
+      "startMs": 605940,
+      "endMs": 609460,
+      "en": "This is not the end of the assisted dying campaign in Britain.",
+      "zh": "这并不是英国协助死亡运动的终点。"
+    },
+    {
+      "id": 103,
+      "startMs": 609700,
+      "endMs": 618500,
+      "en": "Supporters say they'll be back, but it looks like they'll have to wait until after the next general election to have any hope of changing the law.",
+      "zh": "支持者表示他们会再回来，但看来要想改变法律，他们必须等到下一次大选之后。"
+    },
+    {
+      "id": 104,
+      "startMs": 619760,
+      "endMs": 620640,
+      "en": "Fergus Walsh.",
+      "zh": "弗格斯·沃尔什。"
+    },
+    {
+      "id": 105,
+      "startMs": 621360,
+      "endMs": 627440,
+      "en": "A new weather record was set on Friday, and it's good news, because September 11th, 2026,",
+      "zh": "周五创下了一项新的天气纪录，这是个好消息，因为2026年9月11日"
+    },
+    {
+      "id": 106,
+      "startMs": 627760,
+      "endMs": 634880,
+      "en": "marked the furthest point into an Atlantic hurricane season without a single hurricane being formed.",
+      "zh": "标志着大西洋飓风季推进到此时，仍未形成一场飓风。"
+    },
+    {
+      "id": 107,
+      "startMs": 635520,
+      "endMs": 642800,
+      "en": "James Coomarasamy asked Dr. Ryan Truchelut, a meteorologist and president of the consulting firm WeatherTiger,",
+      "zh": "詹姆斯·库马拉萨米采访了气象学家、WeatherTiger咨询公司总裁瑞安·特鲁舍卢特博士，"
+    },
+    {
+      "id": 108,
+      "startMs": 642960,
+      "endMs": 645920,
+      "en": "if this was down to the El Niño weather phenomenon.",
+      "zh": "这是否是厄尔尼诺天气现象造成的。"
+    },
+    {
+      "id": 109,
+      "startMs": 646480,
+      "endMs": 651680,
+      "en": "It absolutely is. And, you know, El Niño is a kind of global climate pacemaker.",
+      "zh": "确实如此。你知道，厄尔尼诺有点像全球气候的节拍器。"
+    },
+    {
+      "id": 110,
+      "startMs": 651840,
+      "endMs": 658080,
+      "en": "It's defined by warmth of tropical ocean waters in the Pacific Ocean, but it certainly has weather impacts worldwide.",
+      "zh": "它的定义是太平洋热带海水变暖，但无疑会对全球天气产生影响。"
+    },
+    {
+      "id": 111,
+      "startMs": 658400,
+      "endMs": 663920,
+      "en": "And in terms of tropical cyclones, when there is an El Niño in effect, you tend to see more tropical cyclones",
+      "zh": "就热带气旋而言，厄尔尼诺生效时，通常会看到更多热带气旋"
+    },
+    {
+      "id": 112,
+      "startMs": 664160,
+      "endMs": 666000,
+      "en": "in the western and eastern Pacific Ocean,",
+      "zh": "出现在西太平洋和东太平洋，"
+    },
+    {
+      "id": 113,
+      "startMs": 666320,
+      "endMs": 669280,
+      "en": "and many fewer than average tropical cyclones in the Atlantic Ocean.",
+      "zh": "而大西洋的热带气旋则远少于平均水平。"
+    },
+    {
+      "id": 114,
+      "startMs": 669600,
+      "endMs": 678640,
+      "en": "Now, it's not unusual to see zero hurricanes forming at what's generally regarded as about halfway through the North Atlantic hurricane season,",
+      "zh": "通常认为飓风季过半时北大西洋尚未形成飓风，这并不罕见，"
+    },
+    {
+      "id": 115,
+      "startMs": 678960,
+      "endMs": 682180,
+      "en": "but this is no typical El Niño; it's one of the strongest of all time.",
+      "zh": "但这不是普通的厄尔尼诺，而是有史以来最强的一次。"
+    },
+    {
+      "id": 116,
+      "startMs": 682820,
+      "endMs": 690100,
+      "en": "Does it mean that there is just a delay? I mean, could things come back with a vengeance in the second half of the season?",
+      "zh": "这是否意味着只是延迟？我是说，下半季情况会不会猛烈反弹？"
+    },
+    {
+      "id": 117,
+      "startMs": 690180,
+      "endMs": 694900,
+      "en": "Never say never in this business. I've been forecasting hurricanes for the last 20 years,",
+      "zh": "在这个行业里永远不要说永远。我预测飓风已经20年了，"
+    },
+    {
+      "id": 118,
+      "startMs": 695140,
+      "endMs": 700020,
+      "en": "and it really and truly does only take one hurricane to make it a bad hurricane season.",
+      "zh": "而事实确实是，只要一场飓风，就足以让飓风季变得糟糕。"
+    },
+    {
+      "id": 119,
+      "startMs": 700020,
+      "endMs": 706260,
+      "en": "Nineteen ninety-two was a very quiet hurricane season, other than Hurricane Andrew, which was a Category Five that hit South Florida.",
+      "zh": "1992年的飓风季非常平静，除了飓风安德鲁；它是袭击佛罗里达州南部的五级飓风。"
+    },
+    {
+      "id": 120,
+      "startMs": 706660,
+      "endMs": 716260,
+      "en": "That being said, the highly unfavorable upper-level winds over the Caribbean Sea are causing the Atlantic hurricane season to be so quiet.",
+      "zh": "话虽如此，导致大西洋飓风季如此平静的条件，是加勒比海上空极不利的高空风。"
+    },
+    {
+      "id": 121,
+      "startMs": 716420,
+      "endMs": 725860,
+      "en": "I don't think those will go anywhere over the next couple months. El Niño is intensifying, and those unfavorable upper-level winds will likely remain.",
+      "zh": "我认为未来几个月这些风不会消失。厄尔尼诺还在增强，我认为这些不利的高空风会继续存在。"
+    },
+    {
+      "id": 122,
+      "startMs": 726180,
+      "endMs": 732740,
+      "en": "Now, of course, that doesn't rule out that a storm could form closer to the continental United States and cause problems.",
+      "zh": "当然，这并不排除风暴可能在靠近美国本土的地方形成并造成问题。"
+    },
+    {
+      "id": 123,
+      "startMs": 733220,
+      "endMs": 738740,
+      "en": "So we may see some mean reversion, but I think this hurricane season is going to end well below normal.",
+      "zh": "所以情况可能会回归均值，但我认为这个飓风季结束时将远低于正常水平。"
+    },
+    {
+      "id": 124,
+      "startMs": 738820,
+      "endMs": 743160,
+      "en": "And has a shot of being the quietest hurricane season of all time in the North Atlantic.",
+      "zh": "并有可能成为北大西洋有史以来最平静的飓风季。"
+    },
+    {
+      "id": 125,
+      "startMs": 743560,
+      "endMs": 746840,
+      "en": "Well, as you say, it's a different story in the Eastern Pacific.",
+      "zh": "正如你所说，东太平洋的情况则不同。"
+    },
+    {
+      "id": 126,
+      "startMs": 747000,
+      "endMs": 751720,
+      "en": "Well, it absolutely is, and in fact, if you integrate all the tropical cyclone activity",
+      "zh": "确实如此。事实上，如果把所有热带气旋活动合在一起，"
+    },
+    {
+      "id": 127,
+      "startMs": 751720,
+      "endMs": 756600,
+      "en": "in the Northern Hemisphere, we're actually running about 25% above normal for 2026.",
+      "zh": "2026年北半球的活动实际上比正常水平高出约25%。"
+    },
+    {
+      "id": 128,
+      "startMs": 757400,
+      "endMs": 760040,
+      "en": "So it's kind of a seesaw. You'll see this when there's a La Niña.",
+      "zh": "所以这有点像跷跷板。出现拉尼娜时就会看到这种情况。"
+    },
+    {
+      "id": 129,
+      "startMs": 760360,
+      "endMs": 765400,
+      "en": "Typically, there's more tropical cyclone activity in the Atlantic and less in the central and eastern Pacific.",
+      "zh": "通常，大西洋的热带气旋活动会更多，而中太平洋和东太平洋会更少。"
+    },
+    {
+      "id": 130,
+      "startMs": 765400,
+      "endMs": 773640,
+      "en": "So, in worldwide terms, 2026 tropical cyclone season is quite busy, but it's very, very historically quiet here in the Atlantic.",
+      "zh": "所以从全球来看，2026年的热带气旋季相当活跃，但大西洋这边却是历史上极其平静。"
+    },
+    {
+      "id": 131,
+      "startMs": 774280,
+      "endMs": 781080,
+      "en": "Since 1950, there have been at least two hurricanes in the North Atlantic Ocean every hurricane season. Dr. Ryan Truchelut.",
+      "zh": "自1950年以来，北大西洋每个飓风季至少有两场飓风。瑞安·特鲁舍卢特博士。"
+    },
+    {
+      "id": 132,
+      "startMs": 784580,
+      "endMs": 793300,
+      "en": "Still to come in this podcast: One year after the assassination of the prominent right-wing U.S. activist Charlie Kirk, we assess his legacy.",
+      "zh": "本播客稍后内容：著名美国右翼活动人士查理·柯克遇刺一年后，我们评估他的政治遗产。"
+    },
+    {
+      "id": 133,
+      "startMs": 793540,
+      "endMs": 798580,
+      "en": "He changed the way U.S. conservatives talk to Gen Z and future generations,",
+      "zh": "他改变了美国保守派与Z世代及未来几代人的沟通方式，"
+    },
+    {
+      "id": 134,
+      "startMs": 798580,
+      "endMs": 805620,
+      "en": "and I think his legacy will be this concept of having an open dialogue is a good thing.",
+      "zh": "我认为他的遗产将是这样一个理念：开展开放对话是一件好事。"
+    },
+    {
+      "id": 135,
+      "startMs": 805620,
+      "endMs": 810180,
+      "en": "President Trump is visiting Ireland this weekend to meet the country's leaders in Dublin,",
+      "zh": "特朗普总统本周末访问爱尔兰，将在都柏林会见该国领导人，"
+    },
+    {
+      "id": 136,
+      "startMs": 810260,
+      "endMs": 814180,
+      "en": "and then to watch the Irish Open golf tournament at his resort in County Clare.",
+      "zh": "随后前往他在克莱尔郡的度假村观看爱尔兰公开赛高尔夫球赛。"
+    },
+    {
+      "id": 137,
+      "startMs": 814740,
+      "endMs": 820980,
+      "en": "Ireland has been a frequent destination for travelling US presidents, as Chris Page reports.",
+      "zh": "正如克里斯·佩奇报道，爱尔兰一直是美国总统经常访问的目的地。"
+    },
+    {
+      "id": 138,
+      "startMs": 825220,
+      "endMs": 829300,
+      "en": "Since the 1990s, Ireland has stood out among small countries.",
+      "zh": "自20世纪90年代以来，在小国中，爱尔兰格外引人注目。"
+    },
+    {
+      "id": 139,
+      "startMs": 829300,
+      "endMs": 835860,
+      "en": "It has hosted a big number of US presidential visits, often with huge public welcomes for the visitors.",
+      "zh": "它接待美国总统访问的次数很多，常有大规模公众欢迎。"
+    },
+    {
+      "id": 140,
+      "startMs": 835860,
+      "endMs": 839780,
+      "en": "Over the years, stories of this place have become part of my soul.",
+      "zh": "多年来，这片土地的故事已成为我灵魂的一部分。"
+    },
+    {
+      "id": 141,
+      "startMs": 840720,
+      "endMs": 843680,
+      "en": "I am happy to be in Ireland.",
+      "zh": "我很高兴来到爱尔兰。"
+    },
+    {
+      "id": 142,
+      "startMs": 843680,
+      "endMs": 845760,
+      "en": "I am now a free man of Dublin.",
+      "zh": "我现在是都柏林的自由人。"
+    },
+    {
+      "id": 143,
+      "startMs": 847080,
+      "endMs": 851800,
+      "en": "The roots of the relationship lie in emigration during America's formative years.",
+      "zh": "这种关系的根源，在于美国建国初期的移民潮。"
+    },
+    {
+      "id": 144,
+      "startMs": 852200,
+      "endMs": 855640,
+      "en": "Almost one in ten Americans now claim Irish ancestry.",
+      "zh": "如今，近十分之一的美国人称自己有爱尔兰血统。"
+    },
+    {
+      "id": 145,
+      "startMs": 856200,
+      "endMs": 861800,
+      "en": "The wheels of the presidential airliner were running on Irish soil. John F. Kennedy was in the land of his forebears.",
+      "zh": "总统专机的机轮驶上爱尔兰土地。约翰·F·肯尼迪回到了祖先的故土。"
+    },
+    {
+      "id": 146,
+      "startMs": 862280,
+      "endMs": 866760,
+      "en": "JFK was the first president to visit Ireland in 1963.",
+      "zh": "肯尼迪是1963年首位访问爱尔兰的美国总统。"
+    },
+    {
+      "id": 147,
+      "startMs": 866760,
+      "endMs": 873560,
+      "en": "This is the man whose great-grandfather somehow scraped together the four pounds for a sailing ship passage and emigrated to the United States.",
+      "zh": "这位总统的曾祖父想方设法凑足4英镑船费，移民到了美国。"
+    },
+    {
+      "id": 148,
+      "startMs": 874300,
+      "endMs": 879260,
+      "en": "Barack Obama was another president with Irish heritage, and he paid homage with humour.",
+      "zh": "巴拉克·奥巴马也是拥有爱尔兰血统的总统，他用幽默表达了敬意。"
+    },
+    {
+      "id": 149,
+      "startMs": 879820,
+      "endMs": 883980,
+      "en": "My name is Barack Obama of the Moneygall Obamas.",
+      "zh": "我叫巴拉克·奥巴马，来自Moneygall的奥巴马家族。"
+    },
+    {
+      "id": 150,
+      "startMs": 885520,
+      "endMs": 892000,
+      "en": "And I've come home to find the apostrophe that we lost somewhere along the way.",
+      "zh": "我回到故乡，是为了找回我们不知何时遗失的撇号。"
+    },
+    {
+      "id": 151,
+      "startMs": 893320,
+      "endMs": 900600,
+      "en": "One of the most visible and diplomatically valuable outward workings of the country's links happens every year on the 17th of March in Washington.",
+      "zh": "两国关系最显著、最具外交价值的体现之一，是每年3月17日在华盛顿举行的活动。"
+    },
+    {
+      "id": 152,
+      "startMs": 900760,
+      "endMs": 903640,
+      "en": "Let me wish everyone a very happy St Patrick's Day.",
+      "zh": "祝大家圣帕特里克节快乐。"
+    },
+    {
+      "id": 153,
+      "startMs": 903640,
+      "endMs": 909720,
+      "en": "On Ireland's national holiday, the Irish Prime Minister, the Taoiseach, has a meeting and a ceremony with the president.",
+      "zh": "在爱尔兰国庆日，爱尔兰总理会与美国总统会面并举行仪式。"
+    },
+    {
+      "id": 154,
+      "startMs": 909720,
+      "endMs": 913240,
+      "en": "Time-honored tradition, I'm going to present the bowl of shamrock to the president.",
+      "zh": "这是历史悠久的传统，我要把一碗三叶草献给总统。"
+    },
+    {
+      "id": 155,
+      "startMs": 914520,
+      "endMs": 917800,
+      "en": "Dan Mulhall is a former Irish ambassador to the US.",
+      "zh": "丹·穆赫尔曾任爱尔兰驻美国大使。"
+    },
+    {
+      "id": 156,
+      "startMs": 918200,
+      "endMs": 925160,
+      "en": "I don't know of any other country that has a guaranteed annual outing in Washington.",
+      "zh": "我不知道还有哪个国家能保证每年在华盛顿有这样的活动。"
+    },
+    {
+      "id": 157,
+      "startMs": 925240,
+      "endMs": 929240,
+      "en": "Some European colleagues are puzzled about how Ireland managed to pull this off.",
+      "zh": "我的一些欧洲同事有点困惑，不明白爱尔兰是如何做到的。"
+    },
+    {
+      "id": 158,
+      "startMs": 929240,
+      "endMs": 935160,
+      "en": "Donald Trump's visit here to Dublin and to the west of Ireland will be different from most of his predecessors.",
+      "zh": "特朗普此次访问都柏林和爱尔兰西部，将不同于他的大多数前任。"
+    },
+    {
+      "id": 159,
+      "startMs": 935560,
+      "endMs": 937480,
+      "en": "He has no known Irish ancestry.",
+      "zh": "已知他没有爱尔兰血统。"
+    },
+    {
+      "id": 160,
+      "startMs": 937880,
+      "endMs": 940440,
+      "en": "There won't be a large public rally involving him.",
+      "zh": "不会有他参加的大型公众集会。"
+    },
+    {
+      "id": 161,
+      "startMs": 941000,
+      "endMs": 945160,
+      "en": "Protests are being planned, focused on US actions in the Middle East.",
+      "zh": "人们正计划举行抗议，焦点是美国在中东的行动。"
+    },
+    {
+      "id": 162,
+      "startMs": 945800,
+      "endMs": 952360,
+      "en": "Dr Peter McLaughlin believes there are parallels with another visit, that of Ronald Reagan in 1984.",
+      "zh": "彼得·麦克劳林博士认为，这与1984年罗纳德·里根的访问有相似之处。"
+    },
+    {
+      "id": 163,
+      "startMs": 952360,
+      "endMs": 960440,
+      "en": "The US was severely criticised in Ireland over what was happening in the Cold War broadly, but especially in Central America.",
+      "zh": "当时，美国因冷战期间的整体局势，尤其是中美洲的局势，受到爱尔兰人的严厉批评。"
+    },
+    {
+      "id": 164,
+      "startMs": 960520,
+      "endMs": 966760,
+      "en": "Many people in Ireland would have a cousin or someone serving abroad as a nun or a priest in Latin America.",
+      "zh": "许多爱尔兰人都有表亲或熟人在拉丁美洲，以修女或神父身份在那里工作。"
+    },
+    {
+      "id": 165,
+      "startMs": 966760,
+      "endMs": 972920,
+      "en": "They were able to bring back these first-hand reports of very controversial associations there with US policy.",
+      "zh": "他们能带回第一手见闻，讲述当地与美国政策之间极具争议的联系。"
+    },
+    {
+      "id": 166,
+      "startMs": 972920,
+      "endMs": 976760,
+      "en": "And yet at the same time, this was the US president who needed to be courted.",
+      "zh": "然而与此同时，这毕竟是需要被礼遇的美国总统。"
+    },
+    {
+      "id": 167,
+      "startMs": 976760,
+      "endMs": 981400,
+      "en": "That was the start of the real investment of the US in the Republic of Ireland and indeed Northern Ireland.",
+      "zh": "这开启了美国对爱尔兰共和国、以及北爱尔兰真正的投入。"
+    },
+    {
+      "id": 168,
+      "startMs": 981880,
+      "endMs": 984840,
+      "en": "I want you to know that, for this great-grandson of Ireland...",
+      "zh": "我想让你知道，对这位爱尔兰的曾孙来说……"
+    },
+    {
+      "id": 169,
+      "startMs": 989080,
+      "endMs": 994280,
+      "en": "Ireland is more used than most nations to hosting the holder of the most powerful office in the world.",
+      "zh": "与大多数国家相比，爱尔兰更习惯接待世界上最有权力的职位持有者。"
+    },
+    {
+      "id": 170,
+      "startMs": 994840,
+      "endMs": 1001000,
+      "en": "This weekend of diplomacy and demonstrations will be another episode in a story dating back decades.",
+      "zh": "这个外交与示威并存的周末，将成为延续数十年的故事中的又一章。"
+    },
+    {
+      "id": 171,
+      "startMs": 1001980,
+      "endMs": 1003660,
+      "en": "That report by Chris Page.",
+      "zh": "以上是克里斯·佩奇的报道。"
+    },
+    {
+      "id": 172,
+      "startMs": 1004540,
+      "endMs": 1013660,
+      "en": "It's one year since the assassination of Charlie Kirk, a right-wing American activist credited with helping young men vote for President Trump.",
+      "zh": "查理·柯克遇刺已一年。这位美国右翼活动人士被认为帮助年轻男性投票支持特朗普总统。"
+    },
+    {
+      "id": 173,
+      "startMs": 1014140,
+      "endMs": 1016860,
+      "en": "And he was talked about as a future president himself.",
+      "zh": "人们还认为他本人可能成为未来的总统。"
+    },
+    {
+      "id": 174,
+      "startMs": 1017580,
+      "endMs": 1024940,
+      "en": "In the wake of his shooting on a college campus, his supporters thought his conservative movement, Turning Point, could only grow,",
+      "zh": "他在一所大学校园遭枪击后，支持者认为他的保守派组织“转折点”只会壮大。"
+    },
+    {
+      "id": 175,
+      "startMs": 1025500,
+      "endMs": 1029100,
+      "en": "but many now fear that no one will be able to fill the void.",
+      "zh": "但如今许多人担心，没有人能够填补这一空缺。"
+    },
+    {
+      "id": 176,
+      "startMs": 1029820,
+      "endMs": 1037340,
+      "en": "Kyle Bass is an American investor and founder of a private equity fund who knew Charlie Kirk. He spoke to Paul Henley.",
+      "zh": "凯尔·巴斯是一名美国投资者，也是一家私募股权基金的创始人，他认识查理·柯克。他接受了保罗·亨利的采访。"
+    },
+    {
+      "id": 177,
+      "startMs": 1037980,
+      "endMs": 1040620,
+      "en": "I met Charlie when he was twenty-one years old.",
+      "zh": "查理21岁时，我认识了他。"
+    },
+    {
+      "id": 178,
+      "startMs": 1040860,
+      "endMs": 1043020,
+      "en": "He came into my office in Dallas.",
+      "zh": "他来到我在达拉斯的办公室。"
+    },
+    {
+      "id": 179,
+      "startMs": 1043020,
+      "endMs": 1049260,
+      "en": "A couple of friends suggested that I meet him, and I was just taken by his constancy of purpose,",
+      "zh": "几位朋友建议我见见他，我很快就被他坚定不移的目标打动了。"
+    },
+    {
+      "id": 180,
+      "startMs": 1049580,
+      "endMs": 1055900,
+      "en": "the fire that he had lit in him to change the way that youth politics is formed,",
+      "zh": "他心中燃烧着改变青年政治面貌的热情，"
+    },
+    {
+      "id": 181,
+      "startMs": 1055900,
+      "endMs": 1061900,
+      "en": "and going to these college campuses around the US was his mission to go talk.",
+      "zh": "走遍美国各地大学校园、去谈论这些问题，就是他的使命。"
+    },
+    {
+      "id": 182,
+      "startMs": 1061760,
+      "endMs": 1066640,
+      "en": "Talk about the things that he cared most about, which was, you know, faith, family, and country.",
+      "zh": "他最在意的是信仰、家庭和国家，他到处谈论这些。"
+    },
+    {
+      "id": 183,
+      "startMs": 1066640,
+      "endMs": 1069440,
+      "en": "So we were in frequent contact.",
+      "zh": "所以我们经常联系。"
+    },
+    {
+      "id": 184,
+      "startMs": 1069680,
+      "endMs": 1076080,
+      "en": "Charlie and I had plenty of things we disagreed on, but the one thing that I think everybody appreciates was his desire",
+      "zh": "查理和我有许多分歧，但我认为大家都欣赏他的一点，那就是他的意愿："
+    },
+    {
+      "id": 185,
+      "startMs": 1076160,
+      "endMs": 1080080,
+      "en": "to engage in the dialectic, ask questions, and answer questions,",
+      "zh": "参与辩证讨论，提出问题，也回答问题，"
+    },
+    {
+      "id": 186,
+      "startMs": 1080240,
+      "endMs": 1084240,
+      "en": "and let's talk about what our differences are and why they might be.",
+      "zh": "并且讨论我们有哪些分歧，以及分歧可能缘何而起。"
+    },
+    {
+      "id": 187,
+      "startMs": 1084240,
+      "endMs": 1087520,
+      "en": "And I think that did the US and the world a service.",
+      "zh": "我认为这对美国和世界都有益。"
+    },
+    {
+      "id": 188,
+      "startMs": 1087840,
+      "endMs": 1092720,
+      "en": "He was always optimistic, and he changed the way youth politics was thought about in America.",
+      "zh": "他始终乐观，也改变了美国思考青年政治的方式。"
+    },
+    {
+      "id": 189,
+      "startMs": 1092720,
+      "endMs": 1096480,
+      "en": "So I think he has a lasting legacy. And what convinced you he could have been",
+      "zh": "所以我认为，他留下了持久的遗产。那么，是什么让你相信他本可以成为……"
+    },
+    {
+      "id": 190,
+      "startMs": 1096480,
+      "endMs": 1101680,
+      "en": "President of the US one day? I've met the last, I don't know, four or five presidents in America.",
+      "zh": "有一天成为美国总统？我见过美国最近四五位总统，我也说不准。"
+    },
+    {
+      "id": 191,
+      "startMs": 1102240,
+      "endMs": 1110320,
+      "en": "And when you meet someone whose life mission is to make things better, and he has that charisma, he has that",
+      "zh": "当你遇到一个毕生使命是让世界变得更好的人，他有那种魅力，也有那种"
+    },
+    {
+      "id": 192,
+      "startMs": 1110320,
+      "endMs": 1115280,
+      "en": "presence, that gravitas, when he walked into a room, when he was 21 years old, he had it. And I",
+      "zh": "气场和分量。他21岁走进房间时就已经具备这些。我认为"
+    },
+    {
+      "id": 193,
+      "startMs": 1115280,
+      "endMs": 1122900,
+      "en": "think that's why he was so successful, having that constancy of purpose and the desire to. As he always said,",
+      "zh": "这就是他如此成功的原因：始终如一的目标。正如他常说的，"
+    },
+    {
+      "id": 194,
+      "startMs": 1123300,
+      "endMs": 1127300,
+      "en": "trying to get America back to the America that let's",
+      "zh": "努力让美国回到我们曾经拥有的那个美国，"
+    },
+    {
+      "id": 195,
+      "startMs": 1127300,
+      "endMs": 1132740,
+      "en": "say we once had, the America that we had before the 11th of September, and I think that's why he",
+      "zh": "也就是9月11日之前的美国。我认为这就是他"
+    },
+    {
+      "id": 196,
+      "startMs": 1132740,
+      "endMs": 1138980,
+      "en": "had such a broad reach across America. What do you think Charlie Kirk would make of his legacy now?",
+      "zh": "能在美国各地产生如此广泛影响的原因。你认为查理·柯克如今会如何看待自己的政治遗产？"
+    },
+    {
+      "id": 197,
+      "startMs": 1139460,
+      "endMs": 1147620,
+      "en": "He changed the way US conservatives talk to Gen Z and future generations, and I think his legacy will be this",
+      "zh": "他改变了美国保守派与Z世代及未来几代人的交流方式。我认为他的遗产将是"
+    },
+    {
+      "id": 198,
+      "startMs": 1147620,
+      "endMs": 1151780,
+      "en": "concept of having an open dialogue is a good thing.",
+      "zh": "相信开放对话是一件好事这一理念。"
+    },
+    {
+      "id": 199,
+      "startMs": 1152780,
+      "endMs": 1157020,
+      "en": "Kyle Bass. And finally, Manchester Museum in northwest England has",
+      "zh": "凯尔·巴斯。最后，英格兰西北部的曼彻斯特博物馆"
+    },
+    {
+      "id": 200,
+      "startMs": 1157100,
+      "endMs": 1164460,
+      "en": "removed its ancient Egyptian mummy from public display to reflect what it describes as changing views. The remains of the",
+      "zh": "将一具古埃及木乃伊撤出公开展览，以反映其所说的观念变化。这名"
+    },
+    {
+      "id": 201,
+      "startMs": 1164460,
+      "endMs": 1170940,
+      "en": "woman known as Asru have been on show in the city for 200 years. The woman lived and died in",
+      "zh": "名叫阿斯鲁的女性遗骸已在这座城市展出200年。她生活并死于"
+    },
+    {
+      "id": 202,
+      "startMs": 1170940,
+      "endMs": 1177180,
+      "en": "ancient Egypt more than 2,000 years ago. The museum said it had carried out research that showed she",
+      "zh": "两千多年前的古埃及。博物馆称，研究显示她"
+    },
+    {
+      "id": 203,
+      "startMs": 1177180,
+      "endMs": 1184860,
+      "en": "would not have wanted her body to be on public display. Rowan Bridge reports. Since being unwrapped, Asru's been on",
+      "zh": "不会希望自己的遗体公开展出。罗文·布里奇报道。阿斯鲁被打开裹尸布后，几乎一直"
+    },
+    {
+      "id": 204,
+      "startMs": 1184860,
+      "endMs": 1193500,
+      "en": "almost constant public display, most recently at Manchester Museum, but no longer. Last year, the museum launched a public consultation",
+      "zh": "处于公开展出状态，最近一次是在曼彻斯特博物馆，但现在不再展出。去年，博物馆发起公众咨询，"
+    },
+    {
+      "id": 205,
+      "startMs": 1193500,
+      "endMs": 1200780,
+      "en": "on whether her mummified body should continue to be seen by visitors. Around 8,000 people responded, with views roughly evenly",
+      "zh": "询问她的木乃伊遗体是否应继续供游客观看。约8000人作答，意见大致各半，"
+    },
+    {
+      "id": 206,
+      "startMs": 1200780,
+      "endMs": 1204060,
+      "en": "divided. And today, these visitors to the museum gave their",
+      "zh": "今天，博物馆的这些访客表达了他们对这一决定的"
+    },
+    {
+      "id": 207,
+      "startMs": 1204140,
+      "endMs": 1209980,
+      "en": "reaction to the decision. Might as well leave it. It's half of an exhibit if you just have the exterior",
+      "zh": "看法。还是留下它吧。如果只有外部而没有内部，那就只剩半个展品了。"
+    },
+    {
+      "id": 208,
+      "startMs": 1209980,
+      "endMs": 1214400,
+      "en": "without its interior. You're missing out on kids coming in to learn what mummies looked like.",
+      "zh": "没有内部。孩子们来这里就无法了解木乃伊是什么样子。"
+    },
+    {
+      "id": 209,
+      "startMs": 1214560,
+      "endMs": 1221760,
+      "en": "I do understand the point of view of the people who it's been taken from. Yeah, it definitely was the right decision to take it off.",
+      "zh": "我理解那些认为它被从自己所属之地带走的人的看法。是的，把它撤下绝对是正确决定。"
+    },
+    {
+      "id": 210,
+      "startMs": 1222240,
+      "endMs": 1226560,
+      "en": "In a separate room, so you can choose whether to see it or not,",
+      "zh": "把它放在单独的房间里，让人们自行决定是否去看，"
+    },
+    {
+      "id": 211,
+      "startMs": 1227040,
+      "endMs": 1233440,
+      "en": "I think that would be a good compromise because I think some people would want to see it and we learn from the artifacts",
+      "zh": "我认为这会是个很好的折中方案，因为有些人想看，而且我们能从博物馆里的文物中学习，"
+    },
+    {
+      "id": 212,
+      "startMs": 1233440,
+      "endMs": 1237280,
+      "en": "in museums. That's part of why we have museums, isn't it?",
+      "zh": "这正是博物馆存在的部分原因，不是吗？"
+    },
+    {
+      "id": 213,
+      "startMs": 1237680,
+      "endMs": 1242560,
+      "en": "But the museum said the move reflected changing views about its responsibilities towards ancestors",
+      "zh": "但博物馆表示，这一举措反映了人们对其应当如何对待祖先的看法变化，"
+    },
+    {
+      "id": 214,
+      "startMs": 1242560,
+      "endMs": 1246400,
+      "en": "and the communities they represented, and most closely reflects what",
+      "zh": "以及他们所代表的社群，也最符合"
+    },
+    {
+      "id": 215,
+      "startMs": 1246480,
+      "endMs": 1253080,
+      "en": "Asru herself would have wanted. The museum's now considering what should happen to her in the long term.",
+      "zh": "阿斯鲁本人的意愿。博物馆目前正在考虑长远来看应如何处置她的遗体。"
+    },
+    {
+      "id": 216,
+      "startMs": 1253080,
+      "endMs": 1260040,
+      "en": "The question of whether mummies should be publicly displayed is a live issue among museums. The British Museum still displays mummies, saying",
+      "zh": "木乃伊是否应公开展出，是博物馆界正在讨论的问题。大英博物馆仍展出木乃伊，并表示"
+    },
+    {
+      "id": 217,
+      "startMs": 1260040,
+      "endMs": 1263640,
+      "en": "they provide an opportunity to examine how past societies understood",
+      "zh": "这提供了研究过去社会如何理解"
+    },
+    {
+      "id": 218,
+      "startMs": 1263720,
+      "endMs": 1269160,
+      "en": "death. Rowan Bridge. And that's all from us for now.",
+      "zh": "死亡的机会。罗文·布里奇。我们今天的节目就到这里。"
+    },
+    {
+      "id": 219,
+      "startMs": 1269240,
+      "endMs": 1276820,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk. This edition of the",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。本期"
+    },
+    {
+      "id": 220,
+      "startMs": 1276820,
+      "endMs": 1283540,
+      "en": "Global News Podcast was mixed by Hannah Montgomery. The producer was Emma Joseph. The editor is Karen Martin.",
+      "zh": "《全球新闻播客》由汉娜·蒙哥马利混音。制片人是艾玛·约瑟夫，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 221,
+      "startMs": 1283940,
+      "endMs": 1286420,
+      "en": "I'm Janet Jalil. Until next time, goodbye.",
+      "zh": "我是珍妮特·贾利勒。下次再见。"
+    }
+  ]
+}

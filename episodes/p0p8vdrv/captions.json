@@ -1,0 +1,2104 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "10 September 2026"
+  },
+  "durationMs": 1597100,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 5120,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6480,
+      "endMs": 12160,
+      "en": "I'm Janet Jalil, and at 04:00 GMT on Wednesday the 10th of September, these are our main stories.",
+      "zh": "我是珍妮特·贾利勒。格林尼治时间9月10日星期三凌晨4点，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12800,
+      "endMs": 18000,
+      "en": "President Trump says he will pay every adult American $5,000",
+      "zh": "特朗普总统说，他将向每名成年美国人支付5000美元，"
+    },
+    {
+      "id": 4,
+      "startMs": 18400,
+      "endMs": 22880,
+      "en": "if the Republicans keep control of Congress in November's midterm elections.",
+      "zh": "前提是共和党在11月中期选举中继续控制国会。"
+    },
+    {
+      "id": 5,
+      "startMs": 23600,
+      "endMs": 30560,
+      "en": "More than 80 people are missing after a fire broke out on a passenger ferry in a popular tourist area in the Philippines.",
+      "zh": "菲律宾一个热门旅游区的客轮起火，80多人失踪。"
+    },
+    {
+      "id": 6,
+      "startMs": 31400,
+      "endMs": 37000,
+      "en": "Apple launches its new foldable iPhone, but would you pay $2,000 for it?",
+      "zh": "苹果发布新款折叠 iPhone，你愿意花2000美元买吗？"
+    },
+    {
+      "id": 7,
+      "startMs": 40060,
+      "endMs": 46220,
+      "en": "Also in this podcast, we know about leap years, but have you heard about leap seconds?",
+      "zh": "本期还将谈谈闰年。你听说过闰秒吗？"
+    },
+    {
+      "id": 8,
+      "startMs": 46460,
+      "endMs": 51900,
+      "en": "Instead of having to apply a leap second every few years, we can let them drift further apart.",
+      "zh": "我们可以让闰秒之间的间隔逐渐拉长，而不必每隔几年就增加一闰秒。"
+    },
+    {
+      "id": 9,
+      "startMs": 52060,
+      "endMs": 55980,
+      "en": "It'll be many thousands of years before that drift becomes up to an hour.",
+      "zh": "要过几千年，这种偏差才会达到一小时。"
+    },
+    {
+      "id": 10,
+      "startMs": 61200,
+      "endMs": 65600,
+      "en": "The US Republicans have kicked off their first-ever midterm convention.",
+      "zh": "美国共和党启动了首次中期选举大会。"
+    },
+    {
+      "id": 11,
+      "startMs": 65920,
+      "endMs": 71120,
+      "en": "This comes amid growing concern that they could lose control of one or both Houses of Congress.",
+      "zh": "此举正值外界越来越担心共和党可能失去国会一院或两院的控制权。"
+    },
+    {
+      "id": 12,
+      "startMs": 71760,
+      "endMs": 76080,
+      "en": "Usually, conventions are held before presidential elections, not midterms.",
+      "zh": "通常，大会在总统选举前举行，而不是在中期选举前。"
+    },
+    {
+      "id": 13,
+      "startMs": 76640,
+      "endMs": 84320,
+      "en": "The hope is that this unusual two-day gathering in Dallas, Texas will enthuse voters and boost turnout in November's elections.",
+      "zh": "人们希望这场在得州达拉斯举行的非同寻常的两天大会能激发选民热情，提高11月选举的投票率。"
+    },
+    {
+      "id": 14,
+      "startMs": 84720,
+      "endMs": 92960,
+      "en": "That is despite Americans' concerns about rising prices, dissatisfaction with the Iran war, and Donald Trump's low approval ratings.",
+      "zh": "与此同时，美国人担忧物价上涨，对伊朗战争感到不满，唐纳德·特朗普的支持率也处于低位。"
+    },
+    {
+      "id": 15,
+      "startMs": 93520,
+      "endMs": 98000,
+      "en": "Taking to the stage, the president made an impassioned plea to voters.",
+      "zh": "总统走上台，向选民发出激昂的呼吁。"
+    },
+    {
+      "id": 16,
+      "startMs": 98480,
+      "endMs": 105280,
+      "en": "In 55 days, Americans will be going to the polls in one of the most important elections in our country's history.",
+      "zh": "55天后，美国人将投票，这将是我国历史上最重要的选举之一。"
+    },
+    {
+      "id": 17,
+      "startMs": 105840,
+      "endMs": 112000,
+      "en": "Your vote will decide whether our country stumbles at the starting gate of the next 250 years",
+      "zh": "你们的选票将决定我们的国家是在未来250年的起点跌倒，"
+    },
+    {
+      "id": 18,
+      "startMs": 112080,
+      "endMs": 116640,
+      "en": "or surges forward and never, ever looks back.",
+      "zh": "还是奋勇向前，永远不再回头。"
+    },
+    {
+      "id": 19,
+      "startMs": 118800,
+      "endMs": 125360,
+      "en": "Mr. Trump urged voters to pretend that he was on the ballot. He then went one step further with this promise:",
+      "zh": "特朗普先生敦促选民假装他就在选票上。随后，他进一步作出承诺："
+    },
+    {
+      "id": 20,
+      "startMs": 125840,
+      "endMs": 131760,
+      "en": "If the Republicans win the House of Representatives and the United States Senate, both of them,",
+      "zh": "如果共和党赢得众议院和美国参议院，也就是两院，"
+    },
+    {
+      "id": 21,
+      "startMs": 132480,
+      "endMs": 136640,
+      "en": "because of our tremendous strength and success economically,",
+      "zh": "因为我们在经济上的巨大实力和成功，"
+    },
+    {
+      "id": 22,
+      "startMs": 137540,
+      "endMs": 145540,
+      "en": "I will issue a dividend to every adult citizen in the United States of America for $5,000.",
+      "zh": "我将向美国每位成年公民发放5000美元的红利。"
+    },
+    {
+      "id": 23,
+      "startMs": 147580,
+      "endMs": 153820,
+      "en": "I put it to our correspondent at the convention, Daniel Bush, that this was an extraordinary plea from President Trump.",
+      "zh": "我对大会现场记者丹尼尔·布什说，这是特朗普总统一次非同寻常的呼吁。"
+    },
+    {
+      "id": 24,
+      "startMs": 154460,
+      "endMs": 159900,
+      "en": "It certainly was, Janet, and on a number of fronts—not the least of which was this $5,000 dividend,",
+      "zh": "确实如此，珍妮特，而且体现在多个方面，其中最突出的是这5000美元的红利，"
+    },
+    {
+      "id": 25,
+      "startMs": 160380,
+      "endMs": 166300,
+      "en": "which it's important to note there are some 270 million American adults.",
+      "zh": "需要指出的是，美国成年人口约有2.7亿。"
+    },
+    {
+      "id": 26,
+      "startMs": 166300,
+      "endMs": 171420,
+      "en": "That would be some $1.3 trillion, and it's unclear where that money would come from,",
+      "zh": "这将达到约1.3万亿美元，而且尚不清楚这笔钱从何而来，"
+    },
+    {
+      "id": 27,
+      "startMs": 171420,
+      "endMs": 175580,
+      "en": "whether it's even legal for the US government to issue such a payout.",
+      "zh": "美国政府发放这类款项是否合法也不明确。"
+    },
+    {
+      "id": 28,
+      "startMs": 175820,
+      "endMs": 183420,
+      "en": "And critics immediately seized on it to say that it was essentially a bribe on the part of the president to try and get voters out to the polls.",
+      "zh": "批评者立即抓住这一点，称这实际上是总统试图用钱诱使选民投票的贿赂。"
+    },
+    {
+      "id": 29,
+      "startMs": 183420,
+      "endMs": 188060,
+      "en": "He framed it as an economic incentive, promising voters a cash reward.",
+      "zh": "他把这说成经济激励，承诺给选民现金奖励。"
+    },
+    {
+      "id": 30,
+      "startMs": 188060,
+      "endMs": 192540,
+      "en": "That was just one part of this extraordinary speech, nearly two hours long,",
+      "zh": "这场近两小时的非同寻常演讲中，这只是其中一部分，"
+    },
+    {
+      "id": 31,
+      "startMs": 193100,
+      "endMs": 199340,
+      "en": "in which the president argued that the country is better off under him, stronger economically and more secure at the border.",
+      "zh": "总统在演讲中称，在他的领导下国家状况更好，经济更强，边境也更安全。"
+    },
+    {
+      "id": 32,
+      "startMs": 199660,
+      "endMs": 202940,
+      "en": "Notably, however, some things were absent from the speech.",
+      "zh": "不过，演讲中也有一些事情没有提到。"
+    },
+    {
+      "id": 33,
+      "startMs": 203020,
+      "endMs": 207020,
+      "en": "Janet, for example, not much attention was paid to the war in Iran.",
+      "zh": "珍妮特，例如，演讲并没有花多少篇幅谈伊朗战争。"
+    },
+    {
+      "id": 34,
+      "startMs": 207120,
+      "endMs": 215520,
+      "en": "He mentioned it a little bit, the president did, but largely did not offer any new roadmap for how to end this conflict,",
+      "zh": "总统确实略有提及，但基本没有提出结束这场冲突的新路线图，"
+    },
+    {
+      "id": 35,
+      "startMs": 215520,
+      "endMs": 217920,
+      "en": "for how to get Iran to the negotiating table.",
+      "zh": "也没有说明如何让伊朗回到谈判桌前。"
+    },
+    {
+      "id": 36,
+      "startMs": 218240,
+      "endMs": 220880,
+      "en": "It's something that a lot of supporters are concerned about.",
+      "zh": "这是许多支持者担心的问题。"
+    },
+    {
+      "id": 37,
+      "startMs": 221120,
+      "endMs": 227840,
+      "en": "So, it was a speech with a lot of sort of vague promises about what he might do, but not a lot of concrete specifics.",
+      "zh": "所以，这场演讲充满关于他可能采取何种行动的模糊承诺，却没有多少具体细节。"
+    },
+    {
+      "id": 38,
+      "startMs": 227840,
+      "endMs": 233760,
+      "en": "There were not many specifics on how Republicans would continue to run the country if they keep control of the House and the Senate.",
+      "zh": "对于共和党若继续控制众议院和参议院将如何治理国家，演讲没有多少具体说明。"
+    },
+    {
+      "id": 39,
+      "startMs": 234320,
+      "endMs": 237040,
+      "en": "Yeah, a thorny issue for him because ahead of this speech,",
+      "zh": "是的，这对他来说是个棘手问题，因为在演讲前，"
+    },
+    {
+      "id": 40,
+      "startMs": 237040,
+      "endMs": 239840,
+      "en": "he did say that he didn't think the Iran war would be over.",
+      "zh": "他曾说过，他认为伊朗战争不会结束。"
+    },
+    {
+      "id": 41,
+      "startMs": 239840,
+      "endMs": 246560,
+      "en": "He said it would not be over until after the midterm elections, and we've already seen oil prices going above $100 a barrel again.",
+      "zh": "他说战争要到中期选举之后才会结束，而油价已经再次超过每桶100美元。"
+    },
+    {
+      "id": 42,
+      "startMs": 247040,
+      "endMs": 249680,
+      "en": "Given all this, what kind of reception did he get?",
+      "zh": "鉴于这一切，他得到了怎样的反响？"
+    },
+    {
+      "id": 43,
+      "startMs": 250160,
+      "endMs": 258000,
+      "en": "Well, he got a very positive reception, but that's primarily because the audience at this unprecedented midterm convention",
+      "zh": "他的反响非常积极，但主要是因为这场史无前例的中期大会现场观众"
+    },
+    {
+      "id": 44,
+      "startMs": 258000,
+      "endMs": 266400,
+      "en": "was largely made up of loyalists, of party supporters who are deeply loyal to the president himself, the core MAGA supporters,",
+      "zh": "大多是忠于总统本人的党内支持者，也就是核心 MAGA 支持者，"
+    },
+    {
+      "id": 45,
+      "startMs": 266640,
+      "endMs": 274180,
+      "en": "Those are the folks who came to this convention, and so it's not necessarily indicative of the broader Republican electorate.",
+      "zh": "到场的就是这些人，因此这未必能代表更广泛的共和党选民。"
+    },
+    {
+      "id": 46,
+      "startMs": 274180,
+      "endMs": 279620,
+      "en": "And in fact, the president still has his work cut out for him getting moderates and independents",
+      "zh": "事实上，总统仍需争取中间派和独立选民，"
+    },
+    {
+      "id": 47,
+      "startMs": 279620,
+      "endMs": 285940,
+      "en": "that polls show are not pleased with his handling of Iran, the economy or other issues, out to the polls.",
+      "zh": "民调显示，他们对他处理伊朗、经济和其他问题的方式并不满意。"
+    },
+    {
+      "id": 48,
+      "startMs": 285940,
+      "endMs": 289380,
+      "en": "And there was not much in this speech for that audience in particular.",
+      "zh": "而这场演讲并没有多少内容是针对这些选民的。"
+    },
+    {
+      "id": 49,
+      "startMs": 289380,
+      "endMs": 294980,
+      "en": "It was loaded more with culture war issues and talking points that are popular with his base,",
+      "zh": "演讲更多充斥着文化战争议题，以及其基本盘喜欢的论点，"
+    },
+    {
+      "id": 50,
+      "startMs": 295060,
+      "endMs": 299860,
+      "en": "but there was not a lot of reach out to that broader electorate that Republicans need in November.",
+      "zh": "却没有多少内容去争取共和党在11月需要的更广泛选民。"
+    },
+    {
+      "id": 51,
+      "startMs": 300020,
+      "endMs": 308100,
+      "en": "And there are quite a few close races in November's election, and some of those Republicans in those close races decided to skip this event entirely.",
+      "zh": "11月选举有不少势均力敌的选区，而其中一些共和党候选人决定完全跳过这场活动。"
+    },
+    {
+      "id": 52,
+      "startMs": 309240,
+      "endMs": 313400,
+      "en": "That's right. Some Republican candidates in House and Senate races were here,",
+      "zh": "没错。这里确实有一些参加众议院和参议院竞选的共和党候选人，"
+    },
+    {
+      "id": 53,
+      "startMs": 313400,
+      "endMs": 321800,
+      "en": "but the vast majority of Republicans in tight races that are actually going to determine the outcome of the House and the Senate stayed away.",
+      "zh": "但绝大多数身处胶着选区、将实际决定两院结果的共和党人都没有到场。"
+    },
+    {
+      "id": 54,
+      "startMs": 321800,
+      "endMs": 328280,
+      "en": "Many of them claimed that they had scheduling conflicts or simply had chosen to remain campaigning at home in their districts.",
+      "zh": "他们许多人称日程冲突，或只是选择留在本选区竞选。"
+    },
+    {
+      "id": 55,
+      "startMs": 328360,
+      "endMs": 335000,
+      "en": "But their absence was glaring, and it pointed to, number one, how much the Republican Party has changed under Trump,",
+      "zh": "但他们的缺席十分醒目，这首先说明共和党在特朗普治下发生了多大变化，"
+    },
+    {
+      "id": 56,
+      "startMs": 335080,
+      "endMs": 338440,
+      "en": "and the dwindling Republican establishment over the last decade,",
+      "zh": "以及共和党建制派在过去十年中逐渐式微，"
+    },
+    {
+      "id": 57,
+      "startMs": 338440,
+      "endMs": 342600,
+      "en": "and number two, how polarizing a figure he remains within even his own party,",
+      "zh": "其次说明即使在自己的党内，他仍是多么具有分裂性的人物，"
+    },
+    {
+      "id": 58,
+      "startMs": 342600,
+      "endMs": 346760,
+      "en": "and the extent to which some Republicans, at least, are eager to move on from the Trump era.",
+      "zh": "也说明至少有些共和党人多么急于走出特朗普时代。"
+    },
+    {
+      "id": 59,
+      "startMs": 347840,
+      "endMs": 350640,
+      "en": "Daniel Bush at the Republican Convention in Dallas.",
+      "zh": "丹尼尔·布什报道于达拉斯的共和党大会。"
+    },
+    {
+      "id": 60,
+      "startMs": 351440,
+      "endMs": 358560,
+      "en": "As we record this podcast, at least five people are known to have died after a fire broke out on a passenger ferry in the Philippines.",
+      "zh": "截至我们录制这期播客时，已知至少有5人在菲律宾一艘客轮起火后死亡。"
+    },
+    {
+      "id": 61,
+      "startMs": 359120,
+      "endMs": 363600,
+      "en": "More than 80 others remain unaccounted for, according to the country's Coast Guard.",
+      "zh": "据菲律宾海岸警卫队称，另有80多人下落不明。"
+    },
+    {
+      "id": 62,
+      "startMs": 364160,
+      "endMs": 373440,
+      "en": "Video footage shows the vessel completely engulfed in flames during the nighttime, as rescuers in nearby boats pull people out of the water.",
+      "zh": "视频显示，夜间这艘船完全被火焰吞没，附近船只上的救援人员正把人从水中拉出来。"
+    },
+    {
+      "id": 63,
+      "startMs": 374080,
+      "endMs": 379680,
+      "en": "The ferry was heading to Coron, a popular tourist destination, when the disaster occurred.",
+      "zh": "灾难发生时，这艘渡轮正驶往热门旅游目的地科隆岛。"
+    },
+    {
+      "id": 64,
+      "startMs": 380080,
+      "endMs": 384160,
+      "en": "Our reporter, Jake Kwon, is following developments from Seoul in South Korea.",
+      "zh": "我们的记者杰克·权正在韩国首尔跟进事态发展。"
+    },
+    {
+      "id": 65,
+      "startMs": 384880,
+      "endMs": 390240,
+      "en": "This is shaping up to be one of the worst disasters in recent memory.",
+      "zh": "这正逐渐成为近来记忆中最严重的灾难之一。"
+    },
+    {
+      "id": 66,
+      "startMs": 390640,
+      "endMs": 395760,
+      "en": "I mean, they're saying that they're still investigating the cause of the fire.",
+      "zh": "我的意思是，他们说仍在调查火灾原因。"
+    },
+    {
+      "id": 67,
+      "startMs": 396080,
+      "endMs": 399840,
+      "en": "Because the fire happened on a ship in the middle of the night...",
+      "zh": "因为火灾发生在深夜的船上……"
+    },
+    {
+      "id": 68,
+      "startMs": 399920,
+      "endMs": 409140,
+      "en": "The darkness and the water conditions, with a very strong current, high wind and high waves, are complicating the rescue efforts.",
+      "zh": "黑暗和水况，加上强劲的水流、大风和巨浪，都让救援工作更加困难。"
+    },
+    {
+      "id": 69,
+      "startMs": 409460,
+      "endMs": 413780,
+      "en": "Now, this ship was carrying 134 passengers",
+      "zh": "这艘船当时载有134名乘客，"
+    },
+    {
+      "id": 70,
+      "startMs": 414500,
+      "endMs": 418100,
+      "en": "from Manila, the capital Manila, to the island of Coron,",
+      "zh": "从首都马尼拉前往科隆岛，"
+    },
+    {
+      "id": 71,
+      "startMs": 418100,
+      "endMs": 422900,
+      "en": "where this is a very popular spot for many tourists, both locals and foreigners alike.",
+      "zh": "那里是非常受欢迎的旅游地，当地人和外国游客都常去。"
+    },
+    {
+      "id": 72,
+      "startMs": 423460,
+      "endMs": 426500,
+      "en": "So what the authorities are saying is that time is of the essence.",
+      "zh": "当局表示，时间至关重要。"
+    },
+    {
+      "id": 73,
+      "startMs": 426500,
+      "endMs": 432180,
+      "en": "And they're using all resources, including volunteer fishermen, to pull as many people out of the water as possible.",
+      "zh": "他们正在动用一切资源，包括志愿渔民，尽可能多地把人从水中救出。"
+    },
+    {
+      "id": 74,
+      "startMs": 432660,
+      "endMs": 434740,
+      "en": "And there were some harrowing images, weren't there?",
+      "zh": "现场还有一些令人揪心的画面，对吧？"
+    },
+    {
+      "id": 75,
+      "startMs": 435300,
+      "endMs": 444020,
+      "en": "There are. And I think the question is how many children were on board, as well as how many foreigners were on board.",
+      "zh": "确实如此。我想问题在于，船上有多少儿童，又有多少外国人。"
+    },
+    {
+      "id": 76,
+      "startMs": 444260,
+      "endMs": 448420,
+      "en": "There are still a lot of questions about how exactly something like this happened.",
+      "zh": "关于这种事情究竟如何发生，仍有很多疑问。"
+    },
+    {
+      "id": 77,
+      "startMs": 448820,
+      "endMs": 453060,
+      "en": "This is an island nation of more than 7,000 islands, and ferries are very common.",
+      "zh": "菲律宾是一个拥有7000多个岛屿的岛国，渡轮十分普遍。"
+    },
+    {
+      "id": 78,
+      "startMs": 453380,
+      "endMs": 458180,
+      "en": "And unfortunately, this is a country that is no stranger to these kinds of ferry disasters.",
+      "zh": "遗憾的是，这个国家对这类渡轮灾难并不陌生。"
+    },
+    {
+      "id": 79,
+      "startMs": 458820,
+      "endMs": 463540,
+      "en": "Back in 2023, 31 people died in a ferry fire as well.",
+      "zh": "早在2023年，就有31人在一场渡轮火灾中死亡。"
+    },
+    {
+      "id": 80,
+      "startMs": 463940,
+      "endMs": 476840,
+      "en": "Whenever these kinds of things happen, a lax attitude towards safety, weak enforcement and poor maintenance have been blamed for these events.",
+      "zh": "每当发生这类事故，人们都会将其归咎于对安全的松懈态度、执法不力和维护不善。"
+    },
+    {
+      "id": 81,
+      "startMs": 477320,
+      "endMs": 483160,
+      "en": "One other interesting thing about this incident is Coron.",
+      "zh": "这起事故的另一个有趣之处是科隆岛。"
+    },
+    {
+      "id": 82,
+      "startMs": 483160,
+      "endMs": 489160,
+      "en": "It's known for its very clear waters and white sandy beaches.",
+      "zh": "这里以清澈的海水和白色沙滩闻名。"
+    },
+    {
+      "id": 83,
+      "startMs": 489160,
+      "endMs": 495400,
+      "en": "This is a very popular tourist destination, and it is where a lot of people go to do scuba diving.",
+      "zh": "这里是热门旅游目的地，很多人会来此进行水肺潜水。"
+    },
+    {
+      "id": 84,
+      "startMs": 495800,
+      "endMs": 501960,
+      "en": "And the understanding is that a lot of people on that boat are probably holidaymakers.",
+      "zh": "据了解，船上很多人可能是度假游客。"
+    },
+    {
+      "id": 85,
+      "startMs": 502120,
+      "endMs": 511000,
+      "en": "And it's just unfortunate and awful to see this image of people who are about to start their holiday season with this tragedy.",
+      "zh": "看到这些原本即将开始假期、却遭遇这场悲剧的人们，实在令人遗憾和痛心。"
+    },
+    {
+      "id": 86,
+      "startMs": 511680,
+      "endMs": 512560,
+      "en": "Jake Kwon.",
+      "zh": "杰克·权。"
+    },
+    {
+      "id": 87,
+      "startMs": 513600,
+      "endMs": 516480,
+      "en": "Apple has unveiled its latest iPhone.",
+      "zh": "苹果发布了最新款iPhone。"
+    },
+    {
+      "id": 88,
+      "startMs": 517120,
+      "endMs": 521120,
+      "en": "This is an iPhone. It's not the first iPhone to have your favorite apps.",
+      "zh": "这是iPhone。它不是第一款能运行你喜爱应用的iPhone。"
+    },
+    {
+      "id": 89,
+      "startMs": 522000,
+      "endMs": 528240,
+      "en": "Or the first to fit comfortably in your hand. It is the first iPhone to do this.",
+      "zh": "也不是第一款能舒适握在手中的iPhone。但它是第一款做到这一点的iPhone。"
+    },
+    {
+      "id": 90,
+      "startMs": 529700,
+      "endMs": 535620,
+      "en": "This is Apple's first foldable smartphone. It's called the Duo and it's been years in development.",
+      "zh": "这是苹果首款折叠智能手机，名为Duo，已经开发多年。"
+    },
+    {
+      "id": 91,
+      "startMs": 536020,
+      "endMs": 540020,
+      "en": "Our North America technology correspondent, Lily Jamali, was at the launch in California.",
+      "zh": "我们的北美科技记者莉莉·贾马利在加州发布会现场。"
+    },
+    {
+      "id": 92,
+      "startMs": 540500,
+      "endMs": 544820,
+      "en": "I put it to her that this was the first major change to the iPhone in years.",
+      "zh": "我问她，这是否是多年来iPhone的首次重大变化。"
+    },
+    {
+      "id": 93,
+      "startMs": 545460,
+      "endMs": 552340,
+      "en": "Yeah, the first major change since the release of the iPhone, if you can believe it, that was almost two decades ago.",
+      "zh": "是的，信不信由你，这是自iPhone发布以来的首次重大变化，而那已经是近20年前的事了。"
+    },
+    {
+      "id": 94,
+      "startMs": 552420,
+      "endMs": 556260,
+      "en": "Steve Jobs, of course, was the person who did that unveiling.",
+      "zh": "当然，当年负责发布iPhone的是史蒂夫·乔布斯。"
+    },
+    {
+      "id": 95,
+      "startMs": 556260,
+      "endMs": 563860,
+      "en": "Today, here at Apple Park in Cupertino, California, it was new CEO John Ternus who did the unveiling of the iPhone Duo.",
+      "zh": "今天，在加州库比蒂诺的苹果园区，新任首席执行官约翰·特努斯发布了iPhone Duo。"
+    },
+    {
+      "id": 96,
+      "startMs": 563860,
+      "endMs": 569940,
+      "en": "He said that, in his view, it would fundamentally alter how consumers experience foldables.",
+      "zh": "他说，在他看来，这将从根本上改变消费者体验折叠手机的方式。"
+    },
+    {
+      "id": 97,
+      "startMs": 569940,
+      "endMs": 572340,
+      "en": "I got to test it out a bit earlier.",
+      "zh": "我稍早前试用了一下。"
+    },
+    {
+      "id": 98,
+      "startMs": 572820,
+      "endMs": 575780,
+      "en": "It's actually a lot of fun. It is the size of a passport.",
+      "zh": "它其实很有趣，大小和护照差不多。"
+    },
+    {
+      "id": 99,
+      "startMs": 575780,
+      "endMs": 580580,
+      "en": "It's not all that much heavier than your standard iPhone, the smaller version now.",
+      "zh": "它并没有比现在的小款标准iPhone重多少。"
+    },
+    {
+      "id": 100,
+      "startMs": 581060,
+      "endMs": 583540,
+      "en": "And when you open it up, you get a 7.6-inch screen.",
+      "zh": "打开后，你会得到一块7.6英寸的屏幕。"
+    },
+    {
+      "id": 101,
+      "startMs": 583540,
+      "endMs": 590360,
+      "en": "It's the thinnest iPhone that Apple has ever made when it is open, but it is expensive.",
+      "zh": "打开时，它是苹果制造过的最薄iPhone，但价格昂贵。"
+    },
+    {
+      "id": 102,
+      "startMs": 590840,
+      "endMs": 594360,
+      "en": "Absolutely, a hefty price tag of some $2,000.",
+      "zh": "确实，价格高达约2000美元。"
+    },
+    {
+      "id": 103,
+      "startMs": 595480,
+      "endMs": 600280,
+      "en": "That's right. So, it's $2,000 to start. That's just the base price.",
+      "zh": "没错。起售价是2000美元，这只是基础价格。"
+    },
+    {
+      "id": 104,
+      "startMs": 600280,
+      "endMs": 605560,
+      "en": "The price can rise considerably depending on how much storage a consumer is willing to buy.",
+      "zh": "价格会根据消费者愿意购买的存储容量大幅上涨。"
+    },
+    {
+      "id": 105,
+      "startMs": 605880,
+      "endMs": 611000,
+      "en": "So you could end up spending north of $3,000 US dollars for this phone.",
+      "zh": "所以，买这部手机最终可能要花费超过3000美元。"
+    },
+    {
+      "id": 106,
+      "startMs": 611400,
+      "endMs": 618680,
+      "en": "And it's worth noting that smartphones within that segment, foldables make up just 2% of sales.",
+      "zh": "值得注意的是，在这一市场中，折叠手机只占智能手机销量的2%。"
+    },
+    {
+      "id": 107,
+      "startMs": 618840,
+      "endMs": 624280,
+      "en": "That was the stat from 2025, according to a number of different analysts we've been speaking to.",
+      "zh": "这是我们采访的多位分析师提供的2025年数据。"
+    },
+    {
+      "id": 108,
+      "startMs": 624600,
+      "endMs": 628280,
+      "en": "So it's not something that consumers are clamoring for.",
+      "zh": "因此，消费者并没有热切追捧这类产品。"
+    },
+    {
+      "id": 109,
+      "startMs": 628600,
+      "endMs": 634360,
+      "en": "But we have seen Apple enter these spaces later, the smartphone itself, that category being a great example,",
+      "zh": "但我们看到苹果后来进入这些领域，智能手机本身就是一个很好的例子，"
+    },
+    {
+      "id": 110,
+      "startMs": 634680,
+      "endMs": 641960,
+      "en": "and coming to dominate it because, in their view, they might take a little bit longer, but they are the ones who will ultimately get it right.",
+      "zh": "并最终占据主导地位；按他们的看法，虽然可能会多花一点时间，但最终会把它做好。"
+    },
+    {
+      "id": 111,
+      "startMs": 642040,
+      "endMs": 648920,
+      "en": "And Lily, iPhone launches used to be highly anticipated events under Steve Jobs. How does this one compare?",
+      "zh": "莉莉，史蒂夫·乔布斯时代，iPhone发布会曾备受期待。这次发布会如何？"
+    },
+    {
+      "id": 112,
+      "startMs": 649900,
+      "endMs": 654860,
+      "en": "Yeah, in recent years, the company has shifted away from these live events.",
+      "zh": "是的，近年来公司已经不再举办这类现场活动。"
+    },
+    {
+      "id": 113,
+      "startMs": 654860,
+      "endMs": 662140,
+      "en": "Because it was the company's 50th anniversary earlier, I spent a lot of time looking through Steve Jobs's archival videos.",
+      "zh": "由于公司早些时候迎来成立50周年，我花了很多时间观看史蒂夫·乔布斯的档案视频。"
+    },
+    {
+      "id": 114,
+      "startMs": 662140,
+      "endMs": 667900,
+      "en": "And he was just a spectacular showman, with live demos and jokes cracked on the fly.",
+      "zh": "他确实是出色的表演者，会进行现场演示，还能即兴讲笑话。"
+    },
+    {
+      "id": 115,
+      "startMs": 668860,
+      "endMs": 676300,
+      "en": "We have a much more curated, carefully choreographed set of launch events these days.",
+      "zh": "如今的发布活动更加精心策划、安排周密。"
+    },
+    {
+      "id": 116,
+      "startMs": 676540,
+      "endMs": 678620,
+      "en": "In fact, it was released by video, effectively.",
+      "zh": "事实上，这次基本上是通过视频发布的。"
+    },
+    {
+      "id": 117,
+      "startMs": 678780,
+      "endMs": 681660,
+      "en": "We sat together and watched a video for an hour and 20 minutes.",
+      "zh": "我们都坐在一个房间里，看了一个小时20分钟的视频。"
+    },
+    {
+      "id": 118,
+      "startMs": 681820,
+      "endMs": 687260,
+      "en": "It's a little different, but that does represent some of the bigger shifts under Tim Cook and now John Ternus.",
+      "zh": "这有些不同，但也体现了蒂姆·库克以及如今约翰·特努斯领导下的一些重大转变。"
+    },
+    {
+      "id": 119,
+      "startMs": 687260,
+      "endMs": 689900,
+      "en": "It's a little bit more careful, perhaps, than it used to be.",
+      "zh": "或许，这比过去更加谨慎一些。"
+    },
+    {
+      "id": 120,
+      "startMs": 690700,
+      "endMs": 691500,
+      "en": "Lily Jamali.",
+      "zh": "莉莉·贾马利。"
+    },
+    {
+      "id": 121,
+      "startMs": 692400,
+      "endMs": 696400,
+      "en": "The German car manufacturer Volkswagen is having a tough time.",
+      "zh": "德国汽车制造商大众汽车正面临困境。"
+    },
+    {
+      "id": 122,
+      "startMs": 696480,
+      "endMs": 702160,
+      "en": "Competition from Chinese competitors is causing it and other German carmakers a big headache.",
+      "zh": "来自中国竞争者的竞争，让大众及其他德国汽车制造商十分头疼。"
+    },
+    {
+      "id": 123,
+      "startMs": 702640,
+      "endMs": 706560,
+      "en": "With the future of several factories in jeopardy, one VW plant",
+      "zh": "几家工厂的未来岌岌可危，其中一家大众工厂"
+    },
+    {
+      "id": 124,
+      "startMs": 706560,
+      "endMs": 708080,
+      "en": "is on the brink of being shut down.",
+      "zh": "正濒临关闭。"
+    },
+    {
+      "id": 125,
+      "startMs": 708560,
+      "endMs": 712960,
+      "en": "It will now be repurposed in what might well be a blueprint for the future.",
+      "zh": "如今它将改作他用，这很可能会成为未来的一种模式。"
+    },
+    {
+      "id": 126,
+      "startMs": 713440,
+      "endMs": 717360,
+      "en": "Rather than making cars, it will now manufacture weapons.",
+      "zh": "它将不再生产汽车，而是改为制造武器。"
+    },
+    {
+      "id": 127,
+      "startMs": 717920,
+      "endMs": 724960,
+      "en": "The Financial Times' Berlin correspondent covering German defence, Laura Pitel, told Evan Davis more about the plan.",
+      "zh": "《金融时报》驻柏林、负责报道德国防务的记者劳拉·皮特尔向埃文·戴维斯介绍了这项计划。"
+    },
+    {
+      "id": 128,
+      "startMs": 725680,
+      "endMs": 730480,
+      "en": "VW, which is obviously one of Germany's most iconic carmakers, has been in real trouble.",
+      "zh": "大众汽车显然是德国最具代表性的汽车制造商之一，但一直深陷困境。"
+    },
+    {
+      "id": 129,
+      "startMs": 730480,
+      "endMs": 735520,
+      "en": "It's been suffering from all the factors that have been putting the German car industry under pressure.",
+      "zh": "德国汽车业承受的各种压力，也一直影响着大众。"
+    },
+    {
+      "id": 130,
+      "startMs": 735840,
+      "endMs": 740880,
+      "en": "They had said that they might have to close up to four of their factories sometime in the next decade.",
+      "zh": "大众曾表示，未来十年内可能不得不关闭至多四家工厂。"
+    },
+    {
+      "id": 131,
+      "startMs": 741120,
+      "endMs": 745520,
+      "en": "They were looking together with unions and others to find a deal to save it.",
+      "zh": "他们正与工会和其他方面共同寻找拯救工厂的方案。"
+    },
+    {
+      "id": 132,
+      "startMs": 745840,
+      "endMs": 750640,
+      "en": "And this is where the Israeli defence company Rafael comes in. It makes the Iron Dome system.",
+      "zh": "这正是以色列防务公司拉斐尔介入的原因。该公司制造铁穹系统。"
+    },
+    {
+      "id": 133,
+      "startMs": 750640,
+      "endMs": 756980,
+      "en": "That's protected Israel from rockets from Hamas for many years.",
+      "zh": "多年来，这套系统一直保护以色列免受哈马斯火箭弹袭击。"
+    },
+    {
+      "id": 134,
+      "startMs": 757060,
+      "endMs": 762420,
+      "en": "They have now struck a deal which will see Rafael come in and use the factory.",
+      "zh": "如今双方已达成协议，由拉斐尔进驻并使用这家工厂。"
+    },
+    {
+      "id": 135,
+      "startMs": 762420,
+      "endMs": 767940,
+      "en": "It will use most of the workforce to produce components for that system, which they hope to sell in Europe.",
+      "zh": "公司将利用大部分员工为该系统生产组件，并希望在欧洲销售。"
+    },
+    {
+      "id": 136,
+      "startMs": 768020,
+      "endMs": 773780,
+      "en": "I mean, is a car plant easy to convert to, if you like, a military purpose?",
+      "zh": "我的意思是，汽车工厂容易改作军事用途吗？"
+    },
+    {
+      "id": 137,
+      "startMs": 773780,
+      "endMs": 777940,
+      "en": "You obviously take out the cars and the machines making cars. Are they convertible?",
+      "zh": "显然要撤掉汽车和制造汽车的机器。它们能改用吗？"
+    },
+    {
+      "id": 138,
+      "startMs": 778420,
+      "endMs": 783060,
+      "en": "Well, it depends who you ask. I hear very different views on this from across the German defence industry.",
+      "zh": "这要看你问的是谁。我从德国防务业各方听到了截然不同的看法。"
+    },
+    {
+      "id": 139,
+      "startMs": 783300,
+      "endMs": 787620,
+      "en": "I think some in the sector are maybe a little bit defensive or protective, and they say, well, you know,",
+      "zh": "我认为，这个行业有些人或许有些防备或护短，他们会说："
+    },
+    {
+      "id": 140,
+      "startMs": 788180,
+      "endMs": 792020,
+      "en": "incredibly difficult to make our products, some of which are obviously incredibly complicated,",
+      "zh": "我们的产品极难制造，其中一些显然极其复杂，"
+    },
+    {
+      "id": 141,
+      "startMs": 792340,
+      "endMs": 798180,
+      "en": "high-security, complex, with specialised, fortified steel and security clearances for their workers.",
+      "zh": "涉及高度安全要求、专业加固钢材，以及员工的安全许可。"
+    },
+    {
+      "id": 142,
+      "startMs": 798500,
+      "endMs": 801700,
+      "en": "But I think if we look at the practical examples, it is actually happening.",
+      "zh": "但我认为，从实际例子来看，这确实正在发生。"
+    },
+    {
+      "id": 143,
+      "startMs": 802020,
+      "endMs": 809380,
+      "en": "So KNDS, which is the Franco-German maker of the Leopard 2 tank, which is used across Europe,",
+      "zh": "例如法德合资的豹2坦克制造商KNDS，这种坦克在欧洲各地都有使用，"
+    },
+    {
+      "id": 144,
+      "startMs": 809380,
+      "endMs": 813780,
+      "en": "has taken over a factory that used to make railway carriages in East Germany.",
+      "zh": "就接管了一家位于东德、过去生产铁路车厢的工厂。"
+    },
+    {
+      "id": 145,
+      "startMs": 814100,
+      "endMs": 821700,
+      "en": "A few months ago, I visited a small, growing startup called ARX Robotics, and they've done a deal with a former auto supplier.",
+      "zh": "几个月前，我走访了一家名为ARX Robotics、正在成长中的小型初创企业；它已与一家前汽车供应商达成协议。"
+    },
+    {
+      "id": 146,
+      "startMs": 821700,
+      "endMs": 827620,
+      "en": "They could make up to 60 of their kind of ground-based military robots per day.",
+      "zh": "那家供应商每天最多可以生产60台这类地面军用机器人。"
+    },
+    {
+      "id": 147,
+      "startMs": 828500,
+      "endMs": 836760,
+      "en": "What's going to happen at the VW plant in Osnabrück is that they will make things like launchers and vehicles for this Iron Dome system.",
+      "zh": "奥斯纳布吕克的大众工厂将生产铁穹系统的发射器和车辆等设备。"
+    },
+    {
+      "id": 148,
+      "startMs": 836760,
+      "endMs": 841000,
+      "en": "They're not actually going to make the missiles, which are both the most sensitive and the most difficult part.",
+      "zh": "他们实际上不会制造导弹，因为导弹既是最敏感、也是最难制造的部分。"
+    },
+    {
+      "id": 149,
+      "startMs": 841160,
+      "endMs": 844440,
+      "en": "But I think it shows you how there can be some overlap.",
+      "zh": "但我认为，这说明双方确实存在一些交集。"
+    },
+    {
+      "id": 150,
+      "startMs": 844680,
+      "endMs": 852840,
+      "en": "Germany is leading the way in European defence spending, with a budget set to be bigger than France and the UK's put together.",
+      "zh": "德国正引领欧洲防务支出，其预算将超过法国和英国两国之和。"
+    },
+    {
+      "id": 151,
+      "startMs": 853080,
+      "endMs": 859080,
+      "en": "At the same time, Germany has been incredibly dependent on the car industry, which is doing very, very badly right now.",
+      "zh": "与此同时，德国一直高度依赖汽车业，而该行业目前的表现非常糟糕。"
+    },
+    {
+      "id": 152,
+      "startMs": 859160,
+      "endMs": 862920,
+      "en": "You have this booming defence sector, and so you have this sort of unique convergence",
+      "zh": "如今防务业蓬勃发展，因此出现了这样一种独特的汇合："
+    },
+    {
+      "id": 153,
+      "startMs": 863000,
+      "endMs": 868680,
+      "en": "of a very large, advanced manufacturing sector with lots of skilled workers, lots of engineers",
+      "zh": "规模庞大且先进的制造业拥有大量熟练工人和工程师，"
+    },
+    {
+      "id": 154,
+      "startMs": 868760,
+      "endMs": 872680,
+      "en": "that just at this moment is looking for ways to diversify",
+      "zh": "而它此刻正寻求多元化发展，"
+    },
+    {
+      "id": 155,
+      "startMs": 872920,
+      "endMs": 875720,
+      "en": "and things to do with its spare capacity and its spare workers",
+      "zh": "为闲置产能和多余工人寻找出路，"
+    },
+    {
+      "id": 156,
+      "startMs": 875720,
+      "endMs": 878120,
+      "en": "just as the defence sector is really booming.",
+      "zh": "恰逢防务业真正蓬勃兴起。"
+    },
+    {
+      "id": 157,
+      "startMs": 878440,
+      "endMs": 881320,
+      "en": "I think Germany is trying to lead the way in showing how it can be done.",
+      "zh": "我认为，德国正试图带头展示这件事可以如何实现。"
+    },
+    {
+      "id": 158,
+      "startMs": 881320,
+      "endMs": 884920,
+      "en": "German officials, you can imagine, are very, very keen for it to happen",
+      "zh": "德国官员可想而知非常希望它实现，"
+    },
+    {
+      "id": 159,
+      "startMs": 884920,
+      "endMs": 888920,
+      "en": "because they're very worried about sluggish growth here and trying to help it pick up.",
+      "zh": "因为他们非常担心当地经济增长乏力，正努力帮助经济复苏。"
+    },
+    {
+      "id": 160,
+      "startMs": 889720,
+      "endMs": 891340,
+      "en": "That was Laura Pitel.",
+      "zh": "以上是劳拉·皮特尔的报道。"
+    },
+    {
+      "id": 161,
+      "startMs": 894380,
+      "endMs": 895660,
+      "en": "Still to come in this podcast:",
+      "zh": "本期节目稍后还将介绍："
+    },
+    {
+      "id": 162,
+      "startMs": 896300,
+      "endMs": 898060,
+      "en": "You have seen cockroaches and rats.",
+      "zh": "你们发现过蟑螂和老鼠。"
+    },
+    {
+      "id": 163,
+      "startMs": 898220,
+      "endMs": 902220,
+      "en": "The actions which you are taking are in the public health interest, and they will continue,",
+      "zh": "你们采取的行动符合公共卫生利益，而且还会继续，"
+    },
+    {
+      "id": 164,
+      "startMs": 902300,
+      "endMs": 905340,
+      "en": "so that whatever we eat and whatever we purchase is safer food.",
+      "zh": "这样我们吃的和购买的任何食物都会更安全。"
+    },
+    {
+      "id": 165,
+      "startMs": 906140,
+      "endMs": 909900,
+      "en": "The food inspector in India who's become an unlikely celebrity.",
+      "zh": "印度一名意外走红的食品检查员。"
+    },
+    {
+      "id": 166,
+      "startMs": 909900,
+      "endMs": 912060,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 167,
+      "startMs": 912540,
+      "endMs": 916060,
+      "en": "Let's turn now to a disturbing case in the US state of Mississippi.",
+      "zh": "现在来看美国密西西比州一宗令人不安的案件。"
+    },
+    {
+      "id": 168,
+      "startMs": 916620,
+      "endMs": 921260,
+      "en": "The mother of a Black woman whose body was found hanging from a tree in the city of Jackson",
+      "zh": "一名黑人女子的遗体被发现吊在杰克逊市一棵树上。"
+    },
+    {
+      "id": 169,
+      "startMs": 921580,
+      "endMs": 927660,
+      "en": "has told the BBC she is still waiting for answers from officials more than a month later.",
+      "zh": "她的母亲告诉 BBC，一个多月后她仍在等待官员给出答案。"
+    },
+    {
+      "id": 170,
+      "startMs": 928520,
+      "endMs": 935720,
+      "en": "Christie Spivey said, despite repeated inquiries, police had not given her any information about the investigation",
+      "zh": "克里斯蒂·斯皮维说，尽管她一再询问，警方仍未向她提供任何调查信息。"
+    },
+    {
+      "id": 171,
+      "startMs": 935720,
+      "endMs": 940200,
+      "en": "into the death of her daughter, 29-year-old Tasia Fortenberry, for weeks.",
+      "zh": "调查她29岁的女儿塔西亚·福滕贝里的死亡，已经数周了。"
+    },
+    {
+      "id": 172,
+      "startMs": 940960,
+      "endMs": 943920,
+      "en": "She said the first update she received came on Tuesday,",
+      "zh": "她说，自己收到的第一次更新是在周二。"
+    },
+    {
+      "id": 173,
+      "startMs": 944160,
+      "endMs": 950320,
+      "en": "when officials at a public meeting finally announced they were investigating her death as a potential homicide.",
+      "zh": "官员在一次公开会议上终于宣布，他们正把她的死作为潜在他杀案调查。"
+    },
+    {
+      "id": 174,
+      "startMs": 951180,
+      "endMs": 959100,
+      "en": "Many people in the Black-majority city say they are fearful, given Mississippi's long history of racial violence and lynchings.",
+      "zh": "这座黑人占多数的城市有许多人感到害怕，因为密西西比州有长期的种族暴力和私刑历史。"
+    },
+    {
+      "id": 175,
+      "startMs": 959500,
+      "endMs": 962140,
+      "en": "With more, here is our reporter, Brandon Drenon.",
+      "zh": "下面请听本台记者布兰登·德雷农的报道。"
+    },
+    {
+      "id": 176,
+      "startMs": 962860,
+      "endMs": 967420,
+      "en": "Police discovered the body on August 3rd hanging from a tree in the lot of an abandoned home.",
+      "zh": "警方8月3日在一座废弃房屋的院子里发现了吊在树上的遗体。"
+    },
+    {
+      "id": 177,
+      "startMs": 967900,
+      "endMs": 974140,
+      "en": "They initially said they're classifying it as a death investigation and hadn't really said much since then",
+      "zh": "警方最初说这是死亡调查，此后基本没有透露太多信息。"
+    },
+    {
+      "id": 178,
+      "startMs": 974140,
+      "endMs": 979900,
+      "en": "until the city council meeting where they announced they were investigating it as a possible homicide.",
+      "zh": "直到市议会会议上，他们宣布正把此案作为可能的他杀案调查。"
+    },
+    {
+      "id": 179,
+      "startMs": 980220,
+      "endMs": 983340,
+      "en": "The mother herself said she felt a bit stonewalled by police.",
+      "zh": "这位母亲说，她觉得警方有些拒绝回应。"
+    },
+    {
+      "id": 180,
+      "startMs": 983340,
+      "endMs": 989980,
+      "en": "She told me yesterday she'd made multiple phone calls, left voicemails over the last two weeks and hasn't heard back anything.",
+      "zh": "她昨天告诉我，过去两周她多次打电话、留言，却没有得到任何回复。"
+    },
+    {
+      "id": 181,
+      "startMs": 990140,
+      "endMs": 993020,
+      "en": "This morning, when I texted her, she said, \"Not a word.\"",
+      "zh": "今天早上我给她发短信，她说：“一句话也没有。”"
+    },
+    {
+      "id": 182,
+      "startMs": 993340,
+      "endMs": 995660,
+      "en": "So, she's still just really looking for closure,",
+      "zh": "所以，她仍在寻求一个了结，"
+    },
+    {
+      "id": 183,
+      "startMs": 995660,
+      "endMs": 1003580,
+      "en": "wanting to know how her daughter died, in total disbelief of a possibility of suicide, but that hasn't been suggested. We just don't know.",
+      "zh": "想知道女儿是怎么死的；她完全不相信可能是自杀，但目前也没人这样说。我们只是不得而知。"
+    },
+    {
+      "id": 184,
+      "startMs": 1004140,
+      "endMs": 1010380,
+      "en": "One of the other things about this particular case is that it is the third instance of a person found dead and hanged from a tree in Mississippi.",
+      "zh": "这起案件还有一点值得注意：这是密西西比州第三起有人死亡并被吊在树上的事件。"
+    },
+    {
+      "id": 185,
+      "startMs": 1010700,
+      "endMs": 1014560,
+      "en": "All three occurred in less than a year; the other two happened in 2025 on the exact same day.",
+      "zh": "三起事件都发生在不到一年内；另外两起发生于2025年的同一天。"
+    },
+    {
+      "id": 186,
+      "startMs": 1014880,
+      "endMs": 1018560,
+      "en": "One white man, one Black man, both considered suicides.",
+      "zh": "一名白人男子、一名黑人男子，两人都被认定为自杀。"
+    },
+    {
+      "id": 187,
+      "startMs": 1018880,
+      "endMs": 1021760,
+      "en": "And the mother of one of those contests those findings.",
+      "zh": "其中一人的母亲对这一认定提出异议。"
+    },
+    {
+      "id": 188,
+      "startMs": 1021760,
+      "endMs": 1024640,
+      "en": "So, there's institutional distrust going on.",
+      "zh": "因此，人们对机构产生了不信任。"
+    },
+    {
+      "id": 189,
+      "startMs": 1024960,
+      "endMs": 1028800,
+      "en": "People are saying the slow drip of information just feeds that distrust,",
+      "zh": "人们说，信息缓慢滴出只会加深这种不信任，"
+    },
+    {
+      "id": 190,
+      "startMs": 1029120,
+      "endMs": 1033120,
+      "en": "and they're worried: is this the beginning of a new, horrifying trend? And they want answers.",
+      "zh": "他们担心这是否是可怕新趋势的开始。他们想要答案。"
+    },
+    {
+      "id": 191,
+      "startMs": 1033520,
+      "endMs": 1039600,
+      "en": "Looking at Mississippi's dark racial history and the lynchings that have occurred there over the years, many years ago.",
+      "zh": "鉴于密西西比州黑暗的种族历史，以及多年前那里发生过的私刑，"
+    },
+    {
+      "id": 192,
+      "startMs": 1039600,
+      "endMs": 1044400,
+      "en": "Fortunately, in this predominantly Black town, roughly 80% of the population is African American.",
+      "zh": "幸运的是，在这个黑人占多数的城镇，约80%的人口是非裔美国人。"
+    },
+    {
+      "id": 193,
+      "startMs": 1044400,
+      "endMs": 1048800,
+      "en": "People are worried: did race play a role in her death? Was she killed?",
+      "zh": "人们担心：种族是否影响了她的死亡？她是被杀的吗？"
+    },
+    {
+      "id": 194,
+      "startMs": 1049200,
+      "endMs": 1053280,
+      "en": "These are all some of their worst suspicions that are born out of knowledge of that",
+      "zh": "这些都是他们最糟糕的猜疑，源于他们对那段历史的了解；"
+    },
+    {
+      "id": 195,
+      "startMs": 1053460,
+      "endMs": 1060020,
+      "en": "history by some of them, and until they get answers from police, they just feel kind of stuck, worrying the worst.",
+      "zh": "在警方给出答案前，他们感到无所适从，只能担心最坏的情况。"
+    },
+    {
+      "id": 196,
+      "startMs": 1060900,
+      "endMs": 1071460,
+      "en": "Brandon Drenon, let's turn now to Germany, where the resounding victory of the far-right party, the AfD, in a regional election this week has sparked alarm.",
+      "zh": "布兰登·德雷农的报道。现在转向德国，极右翼政党德国选择党本周在地方选举中大获全胜，引发了警报。"
+    },
+    {
+      "id": 197,
+      "startMs": 1071940,
+      "endMs": 1078340,
+      "en": "It rejects comparisons with the Nazis, but in a stormy debate in the German parliament, the Chancellor, Friedrich Merz,",
+      "zh": "该党拒绝与纳粹相提并论，但在德国议会一场激烈辩论中，总理弗里德里希·默茨"
+    },
+    {
+      "id": 198,
+      "startMs": 1078660,
+      "endMs": 1082580,
+      "en": "clashed with the AfD leader, Alice Weidel, saying her party's",
+      "zh": "与德国选择党领导人爱丽丝·魏德尔交锋，称其党派的"
+    },
+    {
+      "id": 199,
+      "startMs": 1082580,
+      "endMs": 1088900,
+      "en": "migration policies amounted to ethnic cleansing that would affect millions of workers.",
+      "zh": "移民政策构成会影响数百万工人的种族清洗。"
+    },
+    {
+      "id": 200,
+      "startMs": 1089300,
+      "endMs": 1095060,
+      "en": "Ms Weidel dismissed the claims and told the Bundestag that the days of the Merz coalition were over.",
+      "zh": "魏德尔女士驳斥这些说法，并告诉联邦议院，默茨联盟的日子已经结束。"
+    },
+    {
+      "id": 201,
+      "startMs": 1095780,
+      "endMs": 1098260,
+      "en": "\"Mr Chancellor, ladies and gentlemen.\"",
+      "zh": "“总理先生，女士们、先生们。”"
+    },
+    {
+      "id": 202,
+      "startMs": 1098420,
+      "endMs": 1102900,
+      "en": "Mr Chancellor, the voters in Saxony-Anhalt have made it crystal clear to you in the language",
+      "zh": "总理先生，萨克森-安哈尔特的选民已经用民主主权的语言向您说得很清楚："
+    },
+    {
+      "id": 203,
+      "startMs": 1102900,
+      "endMs": 1105940,
+      "en": "of the democratic sovereign: your coalition is done.",
+      "zh": "您的联盟已经完了。"
+    },
+    {
+      "id": 204,
+      "startMs": 1106420,
+      "endMs": 1110100,
+      "en": "People finally want a change of policy, and they do not want more of the same.",
+      "zh": "人们终于想要政策改变，不想再重复过去。"
+    },
+    {
+      "id": 205,
+      "startMs": 1110820,
+      "endMs": 1114260,
+      "en": "With more on what she had to say, here's our reporter, Joanna Keen.",
+      "zh": "下面请听本台记者乔安娜·基恩的报道。"
+    },
+    {
+      "id": 206,
+      "startMs": 1114900,
+      "endMs": 1120180,
+      "en": "She told Friedrich Merz his coalition government was a total failure and his time was up.",
+      "zh": "她告诉弗里德里希·默茨，他的联合政府彻底失败，他的任期已经到头。"
+    },
+    {
+      "id": 207,
+      "startMs": 1120680,
+      "endMs": 1126360,
+      "en": "Christian Democrats had been pulverized, she said, in the recent Saxony-Anhalt elections.",
+      "zh": "她说，基民盟在最近的萨克森-安哈尔特选举中已被彻底击溃。"
+    },
+    {
+      "id": 208,
+      "startMs": 1126760,
+      "endMs": 1128600,
+      "en": "So this was when he hit back.",
+      "zh": "于是他进行了反击。"
+    },
+    {
+      "id": 209,
+      "startMs": 1128920,
+      "endMs": 1132680,
+      "en": "He said the AfD party was a destructive force.",
+      "zh": "他说，德国选择党是一股破坏性力量。"
+    },
+    {
+      "id": 210,
+      "startMs": 1132840,
+      "endMs": 1140200,
+      "en": "If what you are advocating here, namely remigration, were to become a reality,",
+      "zh": "如果你们在这里主张的所谓“再移民”成为现实，"
+    },
+    {
+      "id": 211,
+      "startMs": 1140200,
+      "endMs": 1148200,
+      "en": "it would be nothing other than ethnic cleansing, based on skin colour and origin, nothing else.",
+      "zh": "那将只不过是基于肤色和出身的种族清洗，仅此而已。"
+    },
+    {
+      "id": 212,
+      "startMs": 1149180,
+      "endMs": 1156620,
+      "en": "Ladies and gentlemen, the word \"remigration\" is nothing other than a synonym for ethnic cleansing.",
+      "zh": "女士们、先生们，“再移民”这个词不过是种族清洗的同义词。"
+    },
+    {
+      "id": 213,
+      "startMs": 1156700,
+      "endMs": 1162140,
+      "en": "He claims that their policies will affect millions.",
+      "zh": "他说，他们的政策将影响数百万人。"
+    },
+    {
+      "id": 214,
+      "startMs": 1162140,
+      "endMs": 1165420,
+      "en": "He talks about skilled workers being forced to leave the country,",
+      "zh": "他谈到熟练工人被迫离开这个国家，"
+    },
+    {
+      "id": 215,
+      "startMs": 1165900,
+      "endMs": 1171740,
+      "en": "and he's claiming this will leave a skills gap, saying not a single hospital, nursing home will be able to function.",
+      "zh": "并称这会造成技能缺口，使任何一家医院或护理院都无法运转。"
+    },
+    {
+      "id": 216,
+      "startMs": 1172140,
+      "endMs": 1177740,
+      "en": "Then he went on to accuse the AfD of being on Russia's side during the war in Ukraine.",
+      "zh": "随后他指责德国选择党在乌克兰战争中站在俄罗斯一边。"
+    },
+    {
+      "id": 217,
+      "startMs": 1178920,
+      "endMs": 1187880,
+      "en": "The disruption by AfD MPs became so loud at one point that the Bundestag president threatened to start expelling people.",
+      "zh": "德国选择党议员的喧闹一度达到如此程度，以至于联邦议院议长威胁要开始驱逐议员。"
+    },
+    {
+      "id": 218,
+      "startMs": 1189160,
+      "endMs": 1193160,
+      "en": "Now, I think we should talk a bit about the AfD's response to all of these claims.",
+      "zh": "现在，我们来谈谈德国选择党对所有这些指控的回应。"
+    },
+    {
+      "id": 219,
+      "startMs": 1193160,
+      "endMs": 1195560,
+      "en": "It's denied the ethnic cleansing.",
+      "zh": "该党否认种族清洗的说法。"
+    },
+    {
+      "id": 220,
+      "startMs": 1195960,
+      "endMs": 1199000,
+      "en": "It advocated for remigration policies.",
+      "zh": "它主张实行“再移民”政策。"
+    },
+    {
+      "id": 221,
+      "startMs": 1199000,
+      "endMs": 1206440,
+      "en": "It calls them remigration, but it says it just wants to speed up deportations of rejected asylum seekers and foreign criminals.",
+      "zh": "它称之为“再移民”，但表示只是想加快遣返被拒的庇护申请者和外国罪犯。"
+    },
+    {
+      "id": 222,
+      "startMs": 1206840,
+      "endMs": 1211000,
+      "en": "And it says it wants to incentivize people to leave voluntarily.",
+      "zh": "它还说，想鼓励人们自愿离开。"
+    },
+    {
+      "id": 223,
+      "startMs": 1211320,
+      "endMs": 1216280,
+      "en": "It also wants the children of refugees to be taught in segregated classes.",
+      "zh": "它还希望难民子女在隔离的班级中接受教育。"
+    },
+    {
+      "id": 224,
+      "startMs": 1216760,
+      "endMs": 1224040,
+      "en": "Now, the AfD says by remigration it means deportation in accordance with the law. Those are its words.",
+      "zh": "德国选择党称，“再移民”是依法驱逐出境。这是该党的原话。"
+    },
+    {
+      "id": 225,
+      "startMs": 1224520,
+      "endMs": 1229720,
+      "en": "And just a reminder for a bit of context here, the AfD in Saxony-Anhalt",
+      "zh": "补充一点背景：萨克森-安哈尔特的德国选择党"
+    },
+    {
+      "id": 226,
+      "startMs": 1229880,
+      "endMs": 1235080,
+      "en": "has been labelled as right-wing extremist by German domestic intelligence.",
+      "zh": "已被德国国内情报部门列为右翼极端组织。"
+    },
+    {
+      "id": 227,
+      "startMs": 1235880,
+      "endMs": 1236600,
+      "en": "Joanna Keen.",
+      "zh": "乔安娜·基恩。"
+    },
+    {
+      "id": 228,
+      "startMs": 1237240,
+      "endMs": 1241080,
+      "en": "Now, we all know about leap years, but have you heard about leap seconds?",
+      "zh": "我们都知道闰年，但你听说过闰秒吗？"
+    },
+    {
+      "id": 229,
+      "startMs": 1241400,
+      "endMs": 1247720,
+      "en": "Every now and then, an extra second is added to a day to keep the world's clocks aligned with the Earth's rotation.",
+      "zh": "时不时会在一天中增加一秒，让世界各地的时钟与地球自转保持一致。"
+    },
+    {
+      "id": 230,
+      "startMs": 1248440,
+      "endMs": 1256780,
+      "en": "However, because our planet's speed varies in response to climatic events, there is now a possibility of a leap second being taken away.",
+      "zh": "不过，由于气候事件会导致地球自转速度变化，现在有可能要取消闰秒。"
+    },
+    {
+      "id": 231,
+      "startMs": 1257260,
+      "endMs": 1264540,
+      "en": "But that could pose all kinds of risks, from telecoms to satellites, if computer systems are not programmed to deal with this.",
+      "zh": "但如果计算机系统没有为此编程，就可能带来从电信到卫星等各种风险。"
+    },
+    {
+      "id": 232,
+      "startMs": 1265020,
+      "endMs": 1270700,
+      "en": "Next month, the General Conference on Weights and Measures—yes, that is a thing—will consider how to deal with this.",
+      "zh": "下个月，国际计量大会——确实有这样一个会议——将讨论如何处理这个问题。"
+    },
+    {
+      "id": 233,
+      "startMs": 1271020,
+      "endMs": 1280460,
+      "en": "Dr. Setnam Shemar, the principal scientist for the National Time Scale Group at the UK's National Physical Laboratory, explains the problem and a possible solution.",
+      "zh": "英国国家物理实验室国家时间尺度组首席科学家塞特南·谢马尔博士解释了问题和可能的解决方案。"
+    },
+    {
+      "id": 234,
+      "startMs": 1281100,
+      "endMs": 1288300,
+      "en": "The problem is that whenever we insert these leap seconds to keep atomic time or the time on our everyday clocks,",
+      "zh": "问题在于，为了保持原子时或日常时钟的时间，插入闰秒时，"
+    },
+    {
+      "id": 235,
+      "startMs": 1288700,
+      "endMs": 1293260,
+      "en": "we do so in order to keep that aligned with solar time, which is based on the rotation of the Earth.",
+      "zh": "我们是要让它与以地球自转为基础的太阳时保持一致。"
+    },
+    {
+      "id": 236,
+      "startMs": 1293740,
+      "endMs": 1298700,
+      "en": "Modern technology systems and the timing networks in them can have discrepancies",
+      "zh": "现代技术系统及其中的计时网络可能会出现差异，"
+    },
+    {
+      "id": 237,
+      "startMs": 1298700,
+      "endMs": 1304860,
+      "en": "in the way the leap seconds are applied, and this can cause inconsistencies or a system crash.",
+      "zh": "闰秒的应用方式可能不一致，导致系统发生不一致甚至崩溃。"
+    },
+    {
+      "id": 238,
+      "startMs": 1305260,
+      "endMs": 1313440,
+      "en": "So, this could involve a telecom system or an electrical grid system, or a system inside the financial sector, and this is the concern",
+      "zh": "这可能涉及电信系统、电网系统，或金融领域内部的系统，这正是人们担心的地方，"
+    },
+    {
+      "id": 239,
+      "startMs": 1313440,
+      "endMs": 1318240,
+      "en": "why leap seconds are being considered to be replaced by the leap hour.",
+      "zh": "所以人们考虑用闰时取代闰秒。"
+    },
+    {
+      "id": 240,
+      "startMs": 1318640,
+      "endMs": 1328160,
+      "en": "The current proposal put forward by the international timekeeping community is to replace leap seconds by the leap hour.",
+      "zh": "国际计时界目前提出的方案，是用闰时取代闰秒。"
+    },
+    {
+      "id": 241,
+      "startMs": 1328560,
+      "endMs": 1336240,
+      "en": "This means that instead of having to apply a leap second every few years because the world time system has drifted from solar time,",
+      "zh": "这意味着，世界时间系统与太阳时发生一秒偏差时，不必每隔几年增加一个闰秒，"
+    },
+    {
+      "id": 242,
+      "startMs": 1336240,
+      "endMs": 1344560,
+      "en": "we can let them drift further apart by up to an hour before a leap hour is applied.",
+      "zh": "而是可以让两者最多相差一小时，再施加一个闰时。"
+    },
+    {
+      "id": 243,
+      "startMs": 1344800,
+      "endMs": 1352000,
+      "en": "However, it'll be many thousands of years before that drift becomes up to an hour and then the leap hour needs to be applied.",
+      "zh": "不过，要等到这种偏差达到一小时还要数千年，届时才需要施加闰时。"
+    },
+    {
+      "id": 244,
+      "startMs": 1352320,
+      "endMs": 1356080,
+      "en": "So, you know, we don't need to worry about applying one for thousands of years.",
+      "zh": "所以，数千年内我们不用担心要施加闰时。"
+    },
+    {
+      "id": 245,
+      "startMs": 1356320,
+      "endMs": 1361600,
+      "en": "And by that time, things will be so different on Earth that it may not matter anyway.",
+      "zh": "而到那时，地球上的一切都会大不相同，也许根本无关紧要了。"
+    },
+    {
+      "id": 246,
+      "startMs": 1362080,
+      "endMs": 1364880,
+      "en": "So the international consensus is the leap hour.",
+      "zh": "因此，国际共识是采用闰时。"
+    },
+    {
+      "id": 247,
+      "startMs": 1365280,
+      "endMs": 1374020,
+      "en": "And this is where, in October next month, national delegates from many different countries will meet at the General Conference for Weights and Measures.",
+      "zh": "今年10月，也就是下个月，许多国家的代表将参加国际计量大会。"
+    },
+    {
+      "id": 248,
+      "startMs": 1374180,
+      "endMs": 1381060,
+      "en": "In Paris, they'll be voting, and if it's passed, leap seconds will be abandoned and we'll move to the leap hour.",
+      "zh": "会议将在巴黎举行并进行投票；如果通过，闰秒将被弃用，我们将转向闰时。"
+    },
+    {
+      "id": 249,
+      "startMs": 1381860,
+      "endMs": 1388180,
+      "en": "Dr. Setnam Shemar. A bureaucrat on a mission has become an unlikely celebrity in India.",
+      "zh": "塞特南·谢马尔博士。印度一名肩负使命的官员意外成了名人。"
+    },
+    {
+      "id": 250,
+      "startMs": 1388580,
+      "endMs": 1390580,
+      "en": "The food inspector's crackdown on restaurants",
+      "zh": "这名食品检查员正在整治餐馆，"
+    },
+    {
+      "id": 251,
+      "startMs": 1390580,
+      "endMs": 1391780,
+      "en": "and stores across Mumbai.",
+      "zh": "以及孟买各地的商店。"
+    },
+    {
+      "id": 252,
+      "startMs": 1391940,
+      "endMs": 1396500,
+      "en": "It has captured the public's imagination, with footage from the raids going viral.",
+      "zh": "这引发了公众关注，检查行动的画面正在网上走红。"
+    },
+    {
+      "id": 253,
+      "startMs": 1396980,
+      "endMs": 1399220,
+      "en": "But along with the fame has come controversy.",
+      "zh": "但伴随名气而来的还有争议。"
+    },
+    {
+      "id": 254,
+      "startMs": 1399620,
+      "endMs": 1405860,
+      "en": "Our reporter, Archana Shukla, met the man who's shaken and stirred Mumbai's food industry.",
+      "zh": "我们的记者阿尔查娜·舒克拉见到了这位搅动孟买食品业的人。"
+    },
+    {
+      "id": 255,
+      "startMs": 1406780,
+      "endMs": 1408140,
+      "en": "Do you have filter coffee? Yes, yes.",
+      "zh": "有过滤咖啡吗？有，有。"
+    },
+    {
+      "id": 256,
+      "startMs": 1409340,
+      "endMs": 1412060,
+      "en": "Yeah? Can I get one filter coffee and a plate of idli sambar, please?",
+      "zh": "是吗？请给我一杯过滤咖啡和一盘伊德利配桑巴酱，好吗？"
+    },
+    {
+      "id": 257,
+      "startMs": 1412060,
+      "endMs": 1413420,
+      "en": "Yes, yes, ma'am. Thank you.",
+      "zh": "好的，好的，女士。谢谢。"
+    },
+    {
+      "id": 258,
+      "startMs": 1414140,
+      "endMs": 1416540,
+      "en": "I've popped into this restaurant near our Mumbai office, and",
+      "zh": "我来到孟买办公室附近的这家餐馆，"
+    },
+    {
+      "id": 259,
+      "startMs": 1416540,
+      "endMs": 1419580,
+      "en": "this place looks different from the last time I was there.",
+      "zh": "这里看起来和我上次来时不一样了。"
+    },
+    {
+      "id": 260,
+      "startMs": 1419900,
+      "endMs": 1422300,
+      "en": "There's a fresh coat of paint on the walls,",
+      "zh": "墙上刷了新漆，"
+    },
+    {
+      "id": 261,
+      "startMs": 1422380,
+      "endMs": 1426540,
+      "en": "there are new bins, and the open kitchen counters that I can actually see from here",
+      "zh": "有了新的垃圾桶；从这里能看到的开放式厨房操作台，"
+    },
+    {
+      "id": 262,
+      "startMs": 1426540,
+      "endMs": 1432380,
+      "en": "are being wiped down after every task, and the staff here also seems to be double checking everything.",
+      "zh": "每完成一项工作都会擦拭，员工似乎也在反复检查一切。"
+    },
+    {
+      "id": 263,
+      "startMs": 1432780,
+      "endMs": 1435340,
+      "en": "Like, nobody wants to end up in the next viral video.",
+      "zh": "毕竟谁也不想出现在下一段走红视频里。"
+    },
+    {
+      "id": 264,
+      "startMs": 1436280,
+      "endMs": 1442760,
+      "en": "And that's not really a joke, because the recent photos and videos coming out of the food safety raids across Maharashtra,",
+      "zh": "这可不完全是玩笑，因为马哈拉施特拉邦各地食品安全检查中出现的照片和视频，"
+    },
+    {
+      "id": 265,
+      "startMs": 1443240,
+      "endMs": 1446120,
+      "en": "that's the state Mumbai sits in, have been hard to ignore.",
+      "zh": "孟买所在的邦，实在让人无法忽视。"
+    },
+    {
+      "id": 266,
+      "startMs": 1446520,
+      "endMs": 1450440,
+      "en": "Cockroaches on kitchen floors, spiderwebs on the walls, rotting vegetables.",
+      "zh": "厨房地板上的蟑螂、墙上的蜘蛛网、腐烂的蔬菜。"
+    },
+    {
+      "id": 267,
+      "startMs": 1452400,
+      "endMs": 1456720,
+      "en": "And behind it all is Tukaram Mundhe, the state's new food safety commissioner.",
+      "zh": "这一切背后是该邦新任食品安全专员图卡拉姆·蒙德。"
+    },
+    {
+      "id": 268,
+      "startMs": 1457280,
+      "endMs": 1461760,
+      "en": "Since he took over in May, his teams have raided more than 4,000 food businesses.",
+      "zh": "自他五月上任以来，其团队已突击检查超过4000家食品企业。"
+    },
+    {
+      "id": 269,
+      "startMs": 1462160,
+      "endMs": 1463440,
+      "en": "That's over 40 raids a day.",
+      "zh": "平均每天超过40次检查。"
+    },
+    {
+      "id": 270,
+      "startMs": 1464080,
+      "endMs": 1467200,
+      "en": "Three hundred licenses have been suspended so far for violations.",
+      "zh": "截至目前，已有300张许可证因违规被暂停。"
+    },
+    {
+      "id": 271,
+      "startMs": 1467520,
+      "endMs": 1469680,
+      "en": "When I joined, I never anticipated this would be like this.",
+      "zh": "我入职时从没想到会是这样。"
+    },
+    {
+      "id": 272,
+      "startMs": 1470300,
+      "endMs": 1471980,
+      "en": "It turned out that way. That's fine.",
+      "zh": "结果确实如此。没关系。"
+    },
+    {
+      "id": 273,
+      "startMs": 1472620,
+      "endMs": 1475020,
+      "en": "I met him at his office in the city's business district.",
+      "zh": "我在市中心商业区的办公室见到了他。"
+    },
+    {
+      "id": 274,
+      "startMs": 1475500,
+      "endMs": 1477580,
+      "en": "I did not expect this many violations.",
+      "zh": "我没想到会有这么多违规问题。"
+    },
+    {
+      "id": 275,
+      "startMs": 1478300,
+      "endMs": 1481340,
+      "en": "Infestation. We have seen cockroaches and rats.",
+      "zh": "到处都是虫害。我们看到了蟑螂和老鼠。"
+    },
+    {
+      "id": 276,
+      "startMs": 1481740,
+      "endMs": 1484220,
+      "en": "We just cannot think. It's filthy conditions.",
+      "zh": "我们简直无法想象，环境脏得不堪入目。"
+    },
+    {
+      "id": 277,
+      "startMs": 1484920,
+      "endMs": 1487720,
+      "en": "And it's across from multinational food chains",
+      "zh": "从跨国食品连锁店，"
+    },
+    {
+      "id": 278,
+      "startMs": 1487800,
+      "endMs": 1491240,
+      "en": "to a hundred-year-old dairy to the iconic and elite clubs,",
+      "zh": "到有百年历史的乳品店，再到知名的高档俱乐部，"
+    },
+    {
+      "id": 279,
+      "startMs": 1491640,
+      "endMs": 1493320,
+      "en": "all have had their kitchens shut down.",
+      "zh": "所有这些地方的厨房都被关停了。"
+    },
+    {
+      "id": 280,
+      "startMs": 1493720,
+      "endMs": 1497720,
+      "en": "This has made the new food commissioner popular, but also controversial.",
+      "zh": "这让新任食品专员广受欢迎，却也颇具争议。"
+    },
+    {
+      "id": 281,
+      "startMs": 1498120,
+      "endMs": 1501800,
+      "en": "Some businesses say they were shut without warning and have taken legal action.",
+      "zh": "一些商家称自己在没有警告的情况下被关停，并已采取法律行动。"
+    },
+    {
+      "id": 282,
+      "startMs": 1502120,
+      "endMs": 1507960,
+      "en": "Courts have at times fined Mundhe's department, called their actions overboard, and even reversed some decisions.",
+      "zh": "法院有时会对蒙德的部门处以罚款，称其行动过火，甚至推翻部分决定。"
+    },
+    {
+      "id": 283,
+      "startMs": 1508280,
+      "endMs": 1516360,
+      "en": "There's been some amount of criticism as well, with some establishments saying that the actions are more strict than needed.",
+      "zh": "这也引发了一些批评，一些商家认为这些行动过于严格。"
+    },
+    {
+      "id": 284,
+      "startMs": 1516680,
+      "endMs": 1520600,
+      "en": "The actions which you are taking are as per the law. It is in the public health interest, and",
+      "zh": "你们采取的行动符合法律，是为了公共健康，"
+    },
+    {
+      "id": 285,
+      "startMs": 1521560,
+      "endMs": 1525880,
+      "en": "it will continue, so that whatever we eat and whatever we purchase is safer food.",
+      "zh": "而且还会继续，以确保我们吃到和买到的食物更加安全。"
+    },
+    {
+      "id": 286,
+      "startMs": 1526120,
+      "endMs": 1530520,
+      "en": "But Mundhe has tapped into the shared public frustration over food safety in India,",
+      "zh": "但蒙德触及了印度公众对食品安全的共同不满，"
+    },
+    {
+      "id": 287,
+      "startMs": 1531000,
+      "endMs": 1537320,
+      "en": "where government data shows one in five food samples tested were found unsafe, substandard or mislabeled.",
+      "zh": "政府数据显示，印度每五份受检食品样本中就有一份不安全、不合格或标签错误。"
+    },
+    {
+      "id": 288,
+      "startMs": 1537960,
+      "endMs": 1541560,
+      "en": "And that's why Mundhe's hard enforcement style has made him popular.",
+      "zh": "这就是蒙德强硬执法风格令他走红的原因。"
+    },
+    {
+      "id": 289,
+      "startMs": 1542040,
+      "endMs": 1546220,
+      "en": "There are selfies, fan crowds, close to 4 million Instagram followers.",
+      "zh": "人们争相与他自拍，粉丝成群，他在 Instagram 上有近400万粉丝。"
+    },
+    {
+      "id": 290,
+      "startMs": 1546620,
+      "endMs": 1552060,
+      "en": "Experts, however, say that while this has raised awareness, one officer can't sustain it all.",
+      "zh": "但专家说，虽然这提高了意识，一个官员不可能长期独自维持这一切。"
+    },
+    {
+      "id": 291,
+      "startMs": 1552060,
+      "endMs": 1555420,
+      "en": "Building a system that outlasts him is the real challenge.",
+      "zh": "建立一个能超越其任期持续运作的体系，才是真正的挑战。"
+    },
+    {
+      "id": 292,
+      "startMs": 1555420,
+      "endMs": 1560300,
+      "en": "For now, the change is reflecting even in street stalls",
+      "zh": "目前，这种变化甚至反映在街头摊位上，"
+    },
+    {
+      "id": 293,
+      "startMs": 1560380,
+      "endMs": 1566460,
+      "en": "like the one selling sandwiches here that have stopped using old newspapers, where the ink can seep into food.",
+      "zh": "比如这里卖三明治的摊位已经不再使用旧报纸，因为油墨可能渗入食物。"
+    },
+    {
+      "id": 294,
+      "startMs": 1566940,
+      "endMs": 1574060,
+      "en": "After Mundhe banned it among many other unsafe items, today I actually got my sandwich wrapped in plain, greaseproof paper.",
+      "zh": "蒙德把旧报纸与许多其他不安全物品一并禁用后，今天我的三明治确实是用普通防油纸包的。"
+    },
+    {
+      "id": 295,
+      "startMs": 1575180,
+      "endMs": 1579180,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是我们目前的全部内容。"
+    },
+    {
+      "id": 296,
+      "startMs": 1579660,
+      "endMs": 1586060,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 297,
+      "startMs": 1586940,
+      "endMs": 1590380,
+      "en": "This edition of the Global News Podcast was mixed by Nicky Bruff.",
+      "zh": "本期《全球新闻播客》由妮基·布鲁夫混音。"
+    },
+    {
+      "id": 298,
+      "startMs": 1590780,
+      "endMs": 1594380,
+      "en": "The producer was Adrian White. The editor is Karen Martin.",
+      "zh": "制片人是阿德里安·怀特，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 299,
+      "startMs": 1594700,
+      "endMs": 1597100,
+      "en": "I am Janet Jalil. Until next time, goodbye.",
+      "zh": "我是珍妮特·贾利勒。下次见，再会。"
+    }
+  ]
+}

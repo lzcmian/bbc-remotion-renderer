@@ -1,0 +1,2090 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "12 September 2026"
+  },
+  "durationMs": 1754860,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4240,
+      "en": "This is the Happy Pod from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《快乐播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 9280,
+      "endMs": 11520,
+      "en": "I'm Chantal Hartle, and in this edition...",
+      "zh": "我是钱塔尔·哈特尔，本期节目中……"
+    },
+    {
+      "id": 3,
+      "startMs": 12000,
+      "endMs": 17920,
+      "en": "It's just so much fun, and we laugh, and nobody cares. Yeah, we can't sing, but nobody cares.",
+      "zh": "这里真的很有趣，我们欢笑，没人介意。没错，我们不会唱歌，但没人介意。"
+    },
+    {
+      "id": 4,
+      "startMs": 17920,
+      "endMs": 22640,
+      "en": "You come here and, you know, when they say, ‘Sing and dance as if no one's watching you,’ that's what we do here.",
+      "zh": "来到这里，你知道，就像人们说的那样：“唱歌跳舞，仿佛没人看着你。”我们就是这么做的。"
+    },
+    {
+      "id": 5,
+      "startMs": 22640,
+      "endMs": 27440,
+      "en": "The choir with the off-key selling point: we can't sing, but we love to do it anyway.",
+      "zh": "这个合唱团的卖点就是唱不准：我们不会唱歌，但我们还是乐在其中。"
+    },
+    {
+      "id": 6,
+      "startMs": 28000,
+      "endMs": 32960,
+      "en": "A project to help animals safely navigate the vast Amazon rainforest pays off.",
+      "zh": "一项帮助动物安全穿越广阔亚马孙雨林的计划初见成效。"
+    },
+    {
+      "id": 7,
+      "startMs": 33440,
+      "endMs": 42080,
+      "en": "We have recorded 17,000 crossings, so all six monkey species are using the canopy bridges.",
+      "zh": "我们记录到 17,000 次穿越，因此六种猴子都在使用树冠桥。"
+    },
+    {
+      "id": 8,
+      "startMs": 42640,
+      "endMs": 49680,
+      "en": "How 3D ultrasound models are allowing expectant parents with sight loss to experience a precious moment.",
+      "zh": "3D 超声模型如何让视力受损的准父母感受珍贵时刻。"
+    },
+    {
+      "id": 9,
+      "startMs": 50000,
+      "endMs": 55120,
+      "en": "You can feel the outline of her head, and her little tiny ear, and her nose, and her mouth.",
+      "zh": "你能摸到她头部的轮廓、小小的耳朵、鼻子和嘴巴。"
+    },
+    {
+      "id": 10,
+      "startMs": 55760,
+      "endMs": 61680,
+      "en": "To be able to get that information first-hand is really powerful, and it gives you that sense of independence back.",
+      "zh": "能够亲手获得这些信息，真的很有力量，也让你重新找回独立感。"
+    },
+    {
+      "id": 11,
+      "startMs": 62160,
+      "endMs": 68080,
+      "en": "And the unconventional video game therapy helping stroke survivors to regain mobility.",
+      "zh": "以及帮助中风幸存者恢复行动能力的非传统电子游戏疗法。"
+    },
+    {
+      "id": 12,
+      "startMs": 68820,
+      "endMs": 72020,
+      "en": "The patient has to hold the leg out straight, and the player controls a cannon.",
+      "zh": "患者必须伸直腿，玩家控制一门大炮。"
+    },
+    {
+      "id": 13,
+      "startMs": 72420,
+      "endMs": 75220,
+      "en": "It simulates being in a bay with pirate ships coming in.",
+      "zh": "游戏模拟身处海湾、海盗船驶来的场景。"
+    },
+    {
+      "id": 14,
+      "startMs": 75700,
+      "endMs": 79380,
+      "en": "The cannon fires continuously, and the player aims it by moving the leg.",
+      "zh": "大炮会持续开火，玩家通过移动腿来瞄准。"
+    },
+    {
+      "id": 15,
+      "startMs": 85340,
+      "endMs": 88060,
+      "en": "‘If you can't sing, come and join my choir.’",
+      "zh": "“如果你不会唱歌，就来加入我的合唱团。”"
+    },
+    {
+      "id": 16,
+      "startMs": 88540,
+      "endMs": 95020,
+      "en": "That was the unusual advert Diane Chapman posted in a local newspaper in the north of England eight years ago.",
+      "zh": "这是 Dianne Chapman 八年前刊登在英格兰北部地方报纸上的一则特别广告。"
+    },
+    {
+      "id": 17,
+      "startMs": 95660,
+      "endMs": 102540,
+      "en": "Diane didn't expect many people to turn up, but now around 80 enthusiastic members come together each week.",
+      "zh": "Dianne 没想到会有很多人来，但如今每周约有 80 名热情成员聚在一起。"
+    },
+    {
+      "id": 18,
+      "startMs": 102780,
+      "endMs": 107020,
+      "en": "They sing at the top of their lungs without the pressure to sound pitch-perfect.",
+      "zh": "他们放声歌唱，不必承受唱准音高的压力。"
+    },
+    {
+      "id": 19,
+      "startMs": 107500,
+      "endMs": 111660,
+      "en": "The Off-Key Choir has become so popular, it has a waiting list to join.",
+      "zh": "Off-Key Choir 如今大受欢迎，加入还要排队。"
+    },
+    {
+      "id": 20,
+      "startMs": 112220,
+      "endMs": 118940,
+      "en": "One member, Sheila, gets so much enjoyment from it that she even moved house to be closer to where the choir meets.",
+      "zh": "其中一名成员 Sheila 非常享受合唱团的活动，甚至搬家住到离排练地点更近的地方。"
+    },
+    {
+      "id": 21,
+      "startMs": 119420,
+      "endMs": 122860,
+      "en": "Our reporter Jane McCubbin has been to one of their rehearsals.",
+      "zh": "我们的记者 Jane McCubbin 参加了他们的一次排练。"
+    },
+    {
+      "id": 22,
+      "startMs": 125480,
+      "endMs": 133360,
+      "en": "Hello, everybody. Come on in. Nice to meet you. Debbie, you can sit down there.",
+      "zh": "大家好。请进。很高兴见到你。Debbie，你可以坐在那里。"
+    },
+    {
+      "id": 23,
+      "startMs": 133520,
+      "endMs": 140800,
+      "en": "Let me introduce the Off-Key Choir. Hello, welcome. Don't worry, we won't sing.",
+      "zh": "让我来介绍 Off-Key Choir。大家好，欢迎。别担心，我们不会唱歌。"
+    },
+    {
+      "id": 24,
+      "startMs": 141840,
+      "endMs": 144960,
+      "en": "Has anybody ever told you that you can't sing?",
+      "zh": "有人告诉过你不会唱歌吗？"
+    },
+    {
+      "id": 25,
+      "startMs": 145720,
+      "endMs": 152120,
+      "en": "Di has the answer and a motto: ‘Just because you can't doesn't mean you shouldn't.’",
+      "zh": "Di 有答案，也有一句座右铭：“你不会做，不代表你就不该做。”"
+    },
+    {
+      "id": 26,
+      "startMs": 153260,
+      "endMs": 158700,
+      "en": "Di is Diane Chapman, who set up the Off-Key Choir eight years ago.",
+      "zh": "Di 就是 Dianne Chapman，她在八年前创办了 Off-Key Choir。"
+    },
+    {
+      "id": 27,
+      "startMs": 158940,
+      "endMs": 160700,
+      "en": "This is Jane. Hi, everybody.",
+      "zh": "这是 Jane。大家好。"
+    },
+    {
+      "id": 28,
+      "startMs": 162060,
+      "endMs": 168140,
+      "en": "Here, no one believes they can sing, so no one ever sings alone, until today.",
+      "zh": "在这里，没有人觉得自己会唱歌，所以从来没人独唱——直到今天。"
+    },
+    {
+      "id": 29,
+      "startMs": 168380,
+      "endMs": 171340,
+      "en": "And I know some of you feel a bit nervous about this, Sheila,",
+      "zh": "我知道你们有些人对此感到紧张，Sheila，"
+    },
+    {
+      "id": 30,
+      "startMs": 172060,
+      "endMs": 179900,
+      "en": "but could we just do a few little solos, just to show people the power of when you come together?",
+      "zh": "但我们能不能来几段小独唱，让大家看看你们齐聚时的力量？"
+    },
+    {
+      "id": 31,
+      "startMs": 180460,
+      "endMs": 187020,
+      "en": "I love going to choir. I do. I look forward to going to choir on a Wednesday, even though I can't sing. This is Sheila Byrne.",
+      "zh": "我喜欢去合唱团，真的。我期待每周三去合唱团，尽管我不会唱歌。这是 Sheila Byrne。"
+    },
+    {
+      "id": 32,
+      "startMs": 187100,
+      "endMs": 187980,
+      "en": "Can we get you to do a solo?",
+      "zh": "能请你独唱一段吗？"
+    },
+    {
+      "id": 33,
+      "startMs": 188220,
+      "endMs": 195180,
+      "en": "Oh, God, no. Oh, go on. Oh, go on, Sheila. Oh, I'll sound awful. Well, you know, isn't that the point?",
+      "zh": "哦，天哪，不要。哦，来吧。来吧，Sheila。可我听起来会很糟。你知道，这不正是重点吗？"
+    },
+    {
+      "id": 34,
+      "startMs": 195340,
+      "endMs": 200140,
+      "en": "I know. Because when you are all together, you don't sound awful. Yeah. Would you do it?",
+      "zh": "我知道。因为你们在一起时，听起来并不糟。是的。你愿意试试吗？"
+    },
+    {
+      "id": 35,
+      "startMs": 201020,
+      "endMs": 213580,
+      "en": "Alone, they might wobble. When the night has come, and the land is dark, alone they're exposed.",
+      "zh": "独唱时，她们的声音也许会摇摆不稳。夜幕降临、大地陷入黑暗时，独自一人便暴露无遗。"
+    },
+    {
+      "id": 36,
+      "startMs": 213820,
+      "endMs": 219340,
+      "en": "Is the only light we'll see. No, I won't be afraid.",
+      "zh": "那是我们唯一能看见的光。不，我不会害怕。"
+    },
+    {
+      "id": 37,
+      "startMs": 220700,
+      "endMs": 224700,
+      "en": "But they're not chasing perfect pitch here; they're chasing joy.",
+      "zh": "但她们在这里追求的不是绝对音准，而是快乐。"
+    },
+    {
+      "id": 38,
+      "startMs": 224700,
+      "endMs": 231100,
+      "en": "And when they come together, shoulder to shoulder, once every week...",
+      "zh": "而当她们每周一次肩并肩聚在一起时……"
+    },
+    {
+      "id": 39,
+      "startMs": 231580,
+      "endMs": 240200,
+      "en": "That is when the magic happens.",
+      "zh": "那就是奇迹发生的时刻。"
+    },
+    {
+      "id": 40,
+      "startMs": 244800,
+      "endMs": 252800,
+      "en": "Stand by me, stand by me. Stand by me, stand by me.",
+      "zh": "与我站在一起，与我站在一起。与我站在一起，与我站在一起。"
+    },
+    {
+      "id": 41,
+      "startMs": 255420,
+      "endMs": 261420,
+      "en": "Ladies, I'm just the proudest choir mom ever. It's amazing.",
+      "zh": "女士们，我真是世上最自豪的合唱团妈妈。太棒了。"
+    },
+    {
+      "id": 42,
+      "startMs": 263620,
+      "endMs": 269860,
+      "en": "Debbie, you love it. I do. Adore it? I do. It's made a big difference to my life.",
+      "zh": "Debbie，你喜欢这里吗？喜欢。非常喜欢？是的。这给我的生活带来了很大改变。"
+    },
+    {
+      "id": 43,
+      "startMs": 270900,
+      "endMs": 277860,
+      "en": "Lost a few of my cat lives this year. The choir's really been there for me and got me through, you know, some tough times.",
+      "zh": "我今年失去了几条“猫命”。合唱团一直陪着我，帮我熬过了一些艰难时光。"
+    },
+    {
+      "id": 44,
+      "startMs": 277860,
+      "endMs": 283860,
+      "en": "And it's just so much fun, and we laugh, and nobody cares. Yeah, we can't sing, but nobody cares.",
+      "zh": "这里真的很有趣，我们欢笑，没人介意。没错，我们不会唱歌，但没人介意。"
+    },
+    {
+      "id": 45,
+      "startMs": 283860,
+      "endMs": 287780,
+      "en": "You come here and, you know, when they say, ‘Sing and dance as if no one's watching you,’ that's what we do here.",
+      "zh": "来到这里，你知道，就像人们说的：“唱歌跳舞，仿佛没人看着你。”我们就是这么做的。"
+    },
+    {
+      "id": 46,
+      "startMs": 288660,
+      "endMs": 293940,
+      "en": "Sheila's amazing. Got loads of confidence since she's been with us. But what do we believe anyway?",
+      "zh": "Sheila 太棒了。加入我们后，她自信了很多。但我们到底相信什么呢？"
+    },
+    {
+      "id": 47,
+      "startMs": 294260,
+      "endMs": 295540,
+      "en": "Just because you can't...",
+      "zh": "你不会做……"
+    },
+    {
+      "id": 48,
+      "startMs": 299880,
+      "endMs": 306920,
+      "en": "You put an advert in the paper, not knowing what would happen, and this has happened!",
+      "zh": "你在报纸上刊登了一则广告，不知道会发生什么，而这一切真的发生了！"
+    },
+    {
+      "id": 49,
+      "startMs": 308000,
+      "endMs": 311680,
+      "en": "And it said, ‘If you can't sing, come and join my choir.’",
+      "zh": "上面写着：“如果你不会唱歌，就来加入我的合唱团。”"
+    },
+    {
+      "id": 50,
+      "startMs": 311840,
+      "endMs": 316560,
+      "en": "I put 15 chairs out on the first night, and 52 people turned up.",
+      "zh": "第一晚我摆了 15 把椅子，结果来了 52 个人。"
+    },
+    {
+      "id": 51,
+      "startMs": 317120,
+      "endMs": 321440,
+      "en": "This is Joy Garvin. You'd just lost your husband when you saw that advert, yes?",
+      "zh": "这是 Joy Garvin。你看到那则广告时刚刚失去丈夫，对吗？"
+    },
+    {
+      "id": 52,
+      "startMs": 322200,
+      "endMs": 334200,
+      "en": "Close my eyes, draw back the curtain to see for certain. And I made friends, and I've never looked back. I just love it. I love every minute of it.",
+      "zh": "闭上双眼，拉开帷幕去看个究竟。我交到了朋友，再也没有回头。我就是喜欢这里，享受其中的每一分钟。"
+    },
+    {
+      "id": 53,
+      "startMs": 334280,
+      "endMs": 334840,
+      "en": "Far away, far away.",
+      "zh": "远方，远方。"
+    },
+    {
+      "id": 54,
+      "startMs": 340200,
+      "endMs": 348200,
+      "en": "So why should you let not being able to do something stand in your way?",
+      "zh": "那么，为什么要让自己不会做某件事阻挡你的脚步？"
+    },
+    {
+      "id": 55,
+      "startMs": 350820,
+      "endMs": 356180,
+      "en": "Whatever it is, I can't bake, and I can't dance, and I can't sing, but do it anyway.",
+      "zh": "不管是什么，我不会烘焙，不会跳舞，也不会唱歌，但还是去做吧。"
+    },
+    {
+      "id": 56,
+      "startMs": 362940,
+      "endMs": 370460,
+      "en": "Because it's just so joyous, and you never know what adventures and what opportunities might come along if you do.",
+      "zh": "因为这实在太快乐了，而且只要去做，你永远不知道会遇到什么冒险和机会。"
+    },
+    {
+      "id": 57,
+      "startMs": 372440,
+      "endMs": 379160,
+      "en": "If anybody out there has been told they can't sing, what do you say to them?",
+      "zh": "如果在座有人被告知不会唱歌，你想对他们说什么？"
+    },
+    {
+      "id": 58,
+      "startMs": 379400,
+      "endMs": 383240,
+      "en": "Absolute rubbish! Definite rubbish! Just sing your heart out.",
+      "zh": "完全胡说！绝对胡说！尽情唱出你的心声。"
+    },
+    {
+      "id": 59,
+      "startMs": 383320,
+      "endMs": 388680,
+      "en": "It just makes every day worth living. Go out and sing and enjoy it.",
+      "zh": "这会让每一天都值得生活。走出去，唱歌，享受其中吧。"
+    },
+    {
+      "id": 60,
+      "startMs": 390260,
+      "endMs": 398260,
+      "en": "In a world obsessed with polish and perfection, this choir reminds us the only thing that matters is coming together and giving it a go.",
+      "zh": "在一个痴迷于精致和完美的世界里，这个合唱团提醒我们，最重要的只有走到一起、勇敢尝试。"
+    },
+    {
+      "id": 61,
+      "startMs": 401520,
+      "endMs": 404720,
+      "en": "Jane McCubbin meeting the Off-Key Choir.",
+      "zh": "Jane McCubbin 采访 Off-Key Choir。"
+    },
+    {
+      "id": 62,
+      "startMs": 406000,
+      "endMs": 410800,
+      "en": "The Amazon rainforest is home to more primate species than anywhere else on Earth.",
+      "zh": "亚马孙雨林的灵长类动物物种比地球其他任何地方都多。"
+    },
+    {
+      "id": 63,
+      "startMs": 411280,
+      "endMs": 417360,
+      "en": "But traffic on the roads cutting through the vast forest is one of the major threats to the many animals that live there.",
+      "zh": "但穿过这片辽阔森林的道路上，车辆往来是那里许多动物面临的主要威胁之一。"
+    },
+    {
+      "id": 64,
+      "startMs": 417840,
+      "endMs": 422800,
+      "en": "One Brazilian conservationist has made it her mission to change that, building rope bridges",
+      "zh": "一位巴西自然保护主义者决心改变这一状况，修建绳桥"
+    },
+    {
+      "id": 65,
+      "startMs": 422880,
+      "endMs": 425360,
+      "en": "to help monkeys and other animals cross safely.",
+      "zh": "帮助猴子和其他动物安全穿越。"
+    },
+    {
+      "id": 66,
+      "startMs": 425760,
+      "endMs": 427840,
+      "en": "And it's proving to be very effective.",
+      "zh": "事实证明，这种做法非常有效。"
+    },
+    {
+      "id": 67,
+      "startMs": 428400,
+      "endMs": 432320,
+      "en": "The Happy Pod's Helena Burke spoke to the woman behind this pioneering project.",
+      "zh": "《The Happy Pod》的海伦娜·伯克采访了这项先锋项目的负责人。"
+    },
+    {
+      "id": 68,
+      "startMs": 433040,
+      "endMs": 443840,
+      "en": "In 2021, Dr. Fernanda Abra assessed road mortality among wildlife in an Amazon section of northern Brazil. The results shocked her.",
+      "zh": "2021年，费尔南达·阿布拉博士对巴西北部亚马孙一片区域的野生动物开展了道路死亡率评估，结果令她震惊。"
+    },
+    {
+      "id": 69,
+      "startMs": 444400,
+      "endMs": 449360,
+      "en": "I recorded dozens and hundreds of primate roadkill,",
+      "zh": "我记录到数十、数百起灵长类动物遭车辆撞死的事件，"
+    },
+    {
+      "id": 70,
+      "startMs": 449360,
+      "endMs": 451440,
+      "en": "especially the golden-handed tamarin,",
+      "zh": "尤其是金手绢尾猴，"
+    },
+    {
+      "id": 71,
+      "startMs": 451520,
+      "endMs": 459680,
+      "en": "but I also recorded threatened spider monkeys, squirrel monkeys and many other arboreal species",
+      "zh": "但我还记录到受威胁的蜘蛛猴、松鼠猴，以及许多其他树栖物种，"
+    },
+    {
+      "id": 72,
+      "startMs": 459680,
+      "endMs": 462980,
+      "en": "such as sloths, porcupines, and so on.",
+      "zh": "比如树懒、豪猪等等。"
+    },
+    {
+      "id": 73,
+      "startMs": 463380,
+      "endMs": 467460,
+      "en": "So I also had a very bad experience where I found",
+      "zh": "我还遇到过一次很糟糕的经历：我发现"
+    },
+    {
+      "id": 74,
+      "startMs": 467940,
+      "endMs": 473940,
+      "en": "a primate that was hit by a car, and it was a very traumatic experience.",
+      "zh": "一只灵长类动物被汽车撞了，那是一次非常创伤性的经历。"
+    },
+    {
+      "id": 75,
+      "startMs": 474340,
+      "endMs": 480580,
+      "en": "Dr. Abra knew something had to be done to stop this, so the Reconnector project was born.",
+      "zh": "阿布拉博士知道必须采取行动阻止这种情况，于是 Reconnector 项目诞生了。"
+    },
+    {
+      "id": 76,
+      "startMs": 481060,
+      "endMs": 489940,
+      "en": "Alongside engineers, architects and biologists, she designed a special bridge for animals to get from one section of the rainforest to another,",
+      "zh": "她与工程师、建筑师和生物学家组成的团队一起，为动物设计了一座特殊的桥，让它们从雨林的一片区域到达另一片区域，"
+    },
+    {
+      "id": 77,
+      "startMs": 490340,
+      "endMs": 492020,
+      "en": "and avoid walking on the road.",
+      "zh": "避免走上公路。"
+    },
+    {
+      "id": 78,
+      "startMs": 492340,
+      "endMs": 496260,
+      "en": "Our canopy bridge is very solid, resistant.",
+      "zh": "我们的树冠桥非常坚固、耐用。"
+    },
+    {
+      "id": 79,
+      "startMs": 496260,
+      "endMs": 504020,
+      "en": "We tested all the materials for the Amazon weather because we have a lot of rain, high temperatures.",
+      "zh": "我们针对亚马孙的天气测试了所有材料，因为那里雨水多、气温高。"
+    },
+    {
+      "id": 80,
+      "startMs": 504340,
+      "endMs": 510820,
+      "en": "So basically, we install our bridges on two concrete posts.",
+      "zh": "所以基本上，我们把桥安装在两根混凝土柱上。"
+    },
+    {
+      "id": 81,
+      "startMs": 511380,
+      "endMs": 516980,
+      "en": "The core of the bridge is based on steel cables, ropes.",
+      "zh": "桥的核心结构是钢缆和绳索。"
+    },
+    {
+      "id": 82,
+      "startMs": 517380,
+      "endMs": 521540,
+      "en": "The bridges cater for a wide range of species, from porcupines using the walkway below",
+      "zh": "这些桥适用于各种物种，从在下方步道上行走的豪猪"
+    },
+    {
+      "id": 83,
+      "startMs": 521560,
+      "endMs": 525400,
+      "en": "to monkeys swinging across the ropes overhead.",
+      "zh": "到在上方绳索间荡行的猴子。"
+    },
+    {
+      "id": 84,
+      "startMs": 525960,
+      "endMs": 529880,
+      "en": "Dozens of these bridges have been installed across the Amazon over the past six years,",
+      "zh": "过去六年里，亚马孙各地已安装了数十座这样的桥，"
+    },
+    {
+      "id": 85,
+      "startMs": 530200,
+      "endMs": 534920,
+      "en": "but the project around the town of Alta Floresta has arguably been the most successful.",
+      "zh": "但阿尔塔弗洛雷斯镇周边的项目可以说是最成功的。"
+    },
+    {
+      "id": 86,
+      "startMs": 535160,
+      "endMs": 540920,
+      "en": "In October 2024, we installed the first seven bridges,",
+      "zh": "2024年10月，我们安装了最初的七座桥，"
+    },
+    {
+      "id": 87,
+      "startMs": 541320,
+      "endMs": 549480,
+      "en": "and it was a very nice experience because we saw the whole city embracing the project.",
+      "zh": "那是一次非常美好的经历，因为我们看到全城都在支持这个项目。"
+    },
+    {
+      "id": 88,
+      "startMs": 549480,
+      "endMs": 557880,
+      "en": "So many different sectors of the city, together with universities, private owners, the whole city hall",
+      "zh": "城市中许多不同领域都参与其中，包括大学、私人业主和整个市政机构，"
+    },
+    {
+      "id": 89,
+      "startMs": 558360,
+      "endMs": 563880,
+      "en": "involved in reducing the impact of road mortality for the species they have there.",
+      "zh": "共同减少当地物种遭遇道路死亡的影响。"
+    },
+    {
+      "id": 90,
+      "startMs": 564440,
+      "endMs": 569480,
+      "en": "And then we, of course, at the moment we installed the canopy bridges,",
+      "zh": "然后，当然，我们安装树冠桥的那一刻，"
+    },
+    {
+      "id": 91,
+      "startMs": 569480,
+      "endMs": 576280,
+      "en": "we started to monitor all the seven full-time using camera traps full-time,",
+      "zh": "就开始使用红外相机全天候监测这七座桥，"
+    },
+    {
+      "id": 92,
+      "startMs": 576600,
+      "endMs": 584540,
+      "en": "and in 19 months of monitoring, we have recorded 17,000 crossings,",
+      "zh": "在19个月的监测中，我们记录到1.7万次过桥，"
+    },
+    {
+      "id": 93,
+      "startMs": 584780,
+      "endMs": 588860,
+      "en": "so all the six monkey species are using the canopy bridges.",
+      "zh": "所以六种猴类都在使用这些树冠桥。"
+    },
+    {
+      "id": 94,
+      "startMs": 589180,
+      "endMs": 595820,
+      "en": "Since those bridges were installed in 2024, not a single primate has been killed on the roads around Alta Floresta.",
+      "zh": "自2024年安装这些桥以来，阿尔塔弗洛雷斯周边道路上没有一只灵长类动物死亡。"
+    },
+    {
+      "id": 95,
+      "startMs": 596380,
+      "endMs": 602860,
+      "en": "After 19 months of monitoring, we have recorded zero road mortality.",
+      "zh": "经过19个月监测，我们记录到零起道路死亡。"
+    },
+    {
+      "id": 96,
+      "startMs": 603100,
+      "endMs": 606780,
+      "en": "So I think this is an amazing milestone.",
+      "zh": "所以我认为这是一个了不起的里程碑。"
+    },
+    {
+      "id": 97,
+      "startMs": 606860,
+      "endMs": 613900,
+      "en": "I think this project is something that really touches me because it's not only research,",
+      "zh": "我认为这个项目真的触动了我，因为它不只是研究，"
+    },
+    {
+      "id": 98,
+      "startMs": 614220,
+      "endMs": 619580,
+      "en": "this is applied ecology, this is pure conservation, right?",
+      "zh": "这是应用生态学，是纯粹的自然保护，对吧？"
+    },
+    {
+      "id": 99,
+      "startMs": 619580,
+      "endMs": 628460,
+      "en": "So we are saving animals' lives, and not only animals' lives, we are promoting better traffic for everybody.",
+      "zh": "所以我们正在拯救动物的生命，而且不只是动物的生命，我们也在让所有人的交通更加顺畅。"
+    },
+    {
+      "id": 100,
+      "startMs": 628780,
+      "endMs": 633260,
+      "en": "Dr. Abra's project has been so successful that it's now going global,",
+      "zh": "阿布拉博士的项目非常成功，如今已经走向全球，"
+    },
+    {
+      "id": 101,
+      "startMs": 633580,
+      "endMs": 637020,
+      "en": "with the first canopy bridges outside Brazil about to be built.",
+      "zh": "巴西境外的第一批树冠桥即将建成。"
+    },
+    {
+      "id": 102,
+      "startMs": 637500,
+      "endMs": 644080,
+      "en": "So Suriname is going to be the first country where we're going to really expand, installing new bridges,",
+      "zh": "苏里南将成为我们真正扩展项目、安装新桥的第一个国家，"
+    },
+    {
+      "id": 103,
+      "startMs": 644480,
+      "endMs": 649200,
+      "en": "but we are also collaborating with other initiatives from other countries.",
+      "zh": "但我们也在与其他国家的相关项目合作。"
+    },
+    {
+      "id": 104,
+      "startMs": 649520,
+      "endMs": 656080,
+      "en": "So, for example, we already shared the design we use for our canopy bridges with people",
+      "zh": "例如，我们已经把树冠桥的设计分享给了"
+    },
+    {
+      "id": 105,
+      "startMs": 656080,
+      "endMs": 661600,
+      "en": "from Costa Rica, Colombia, Peru, and also from Nepal.",
+      "zh": "哥斯达黎加、哥伦比亚、秘鲁以及尼泊尔的相关人士。"
+    },
+    {
+      "id": 106,
+      "startMs": 661760,
+      "endMs": 667440,
+      "en": "So I think we have a lot of potential to scale up our solution,",
+      "zh": "所以我认为，我们有很大潜力扩大这一方案，"
+    },
+    {
+      "id": 107,
+      "startMs": 667840,
+      "endMs": 673040,
+      "en": "not only inside Brazil, but also to many other countries in Latin America",
+      "zh": "不仅在巴西境内，也推广到拉丁美洲的许多其他国家，"
+    },
+    {
+      "id": 108,
+      "startMs": 673040,
+      "endMs": 676640,
+      "en": "and, who knows, other tropical countries worldwide.",
+      "zh": "以及世界各地其他热带国家。"
+    },
+    {
+      "id": 109,
+      "startMs": 676960,
+      "endMs": 683680,
+      "en": "So 2027 is going to be a busy, busy year here for the Reconnector project.",
+      "zh": "因此，2027年对 Reconnector 项目来说将是忙碌、忙碌的一年。"
+    },
+    {
+      "id": 110,
+      "startMs": 684460,
+      "endMs": 688060,
+      "en": "Dr. Fernanda Abra ending that report by Helena Burke.",
+      "zh": "费尔南达·阿布拉博士的报道，由海伦娜·伯克采制。"
+    },
+    {
+      "id": 111,
+      "startMs": 689180,
+      "endMs": 694220,
+      "en": "Now, twenty-seven years ago, young and maybe not so young readers around the world",
+      "zh": "27年前，世界各地年轻或不那么年轻的读者"
+    },
+    {
+      "id": 112,
+      "startMs": 694220,
+      "endMs": 700220,
+      "en": "were first introduced to the brown, furry creature with purple prickles known as the Gruffalo.",
+      "zh": "第一次认识了这只长着紫色刺毛、棕色毛茸茸的生物——毛毛怪。"
+    },
+    {
+      "id": 113,
+      "startMs": 700980,
+      "endMs": 705860,
+      "en": "He has terrible tusks.",
+      "zh": "他有可怕的獠牙。"
+    },
+    {
+      "id": 114,
+      "startMs": 706760,
+      "endMs": 716840,
+      "en": "And, uh, terrible claws. And terrible teeth in his terrible jaws.",
+      "zh": "还有可怕的爪子，以及可怕的大嘴里那一口可怕的牙齿。"
+    },
+    {
+      "id": 115,
+      "startMs": 719560,
+      "endMs": 725880,
+      "en": "Well, if you've raised a child since the millennium, you'll most probably know exactly how the rest of that description goes.",
+      "zh": "如果你从千禧年以来养育过孩子，大概很清楚这段描述接下来怎么说。"
+    },
+    {
+      "id": 116,
+      "startMs": 726360,
+      "endMs": 732120,
+      "en": "The original picture book, written by the author Julia Donaldson, has sold millions of copies worldwide",
+      "zh": "作者朱莉娅·唐纳森创作的原版绘本已在全球售出数百万册。"
+    },
+    {
+      "id": 117,
+      "startMs": 732440,
+      "endMs": 735240,
+      "en": "and it's been translated into more than 100 languages.",
+      "zh": "并被翻译成100多种语言。"
+    },
+    {
+      "id": 118,
+      "startMs": 735640,
+      "endMs": 741400,
+      "en": "Well, now a long-awaited third book has just been released with a new character, Gruffalo Granny.",
+      "zh": "如今，期待已久的第三本书刚刚出版，还加入了新角色毛毛怪奶奶。"
+    },
+    {
+      "id": 119,
+      "startMs": 742040,
+      "endMs": 749160,
+      "en": "But in a world increasingly dominated by screens, what is it that makes the Gruffalo so popular even all these years later?",
+      "zh": "但在屏幕日益主导的世界里，毛毛怪为何多年后仍如此受欢迎？"
+    },
+    {
+      "id": 120,
+      "startMs": 749240,
+      "endMs": 755160,
+      "en": "Luke Jones brought together the American author Dana Huttaway and Jaya Bhattacharji Rose,",
+      "zh": "卢克·琼斯邀请了美国作家达娜·赫塔韦，以及"
+    },
+    {
+      "id": 121,
+      "startMs": 755160,
+      "endMs": 760120,
+      "en": "a book publisher in the Indian capital, Delhi, who has worked with Julia Donaldson.",
+      "zh": "在印度首都新德里从事图书出版、并与朱莉娅·唐纳森合作过的贾娅·巴塔查吉·罗斯。"
+    },
+    {
+      "id": 122,
+      "startMs": 760920,
+      "endMs": 768120,
+      "en": "She was full of boundless energy and she was always so full of joy and rhythm and colour.",
+      "zh": "她总是充满无限活力，洋溢着喜悦、节奏感和色彩。"
+    },
+    {
+      "id": 123,
+      "startMs": 768360,
+      "endMs": 778200,
+      "en": "I mean, you can understand why the Gruffalo has had the kind of success that it has, because at the core of it is the happiness and the joy that",
+      "zh": "你可以理解毛毛怪为何取得这样的成功，因为它的核心是那份幸福与喜悦，"
+    },
+    {
+      "id": 124,
+      "startMs": 778220,
+      "endMs": 780860,
+      "en": "reverberates through her words.",
+      "zh": "在她的话语中回荡。"
+    },
+    {
+      "id": 125,
+      "startMs": 781340,
+      "endMs": 786300,
+      "en": "Dana, how would you explain why her work has been such a sort of global hit",
+      "zh": "达娜，你如何解释她的作品为何能风靡全球，"
+    },
+    {
+      "id": 126,
+      "startMs": 786300,
+      "endMs": 790540,
+      "en": "and is something that so many children seem to take up and read?",
+      "zh": "让这么多孩子都拿起来阅读？"
+    },
+    {
+      "id": 127,
+      "startMs": 790540,
+      "endMs": 799820,
+      "en": "I discovered The Gruffalo during my teaching years, and of course, when you're in that industry, the highlight of the day was read-alouds.",
+      "zh": "我在从教期间认识了《毛毛怪》。当然，在这个行业里，每天最精彩的时刻就是为孩子们朗读。"
+    },
+    {
+      "id": 128,
+      "startMs": 799820,
+      "endMs": 803660,
+      "en": "You know, kids would sit down and listen when it was time for us to read a book.",
+      "zh": "孩子们会坐下来，在我们读书时认真聆听。"
+    },
+    {
+      "id": 129,
+      "startMs": 804060,
+      "endMs": 807340,
+      "en": "So no one should underestimate the power of read-alouds, 100 percent.",
+      "zh": "所以，绝对不能低估朗读的力量。"
+    },
+    {
+      "id": 130,
+      "startMs": 808140,
+      "endMs": 817260,
+      "en": "And that day, The Gruffalo was on the shelf, and this one boy, Josiah, he kept insisting we read that book, and the rest was history.",
+      "zh": "那天，《毛毛怪》摆在书架上，一个叫乔赛亚的男孩一直坚持要我们读这本书，之后一切就顺理成章了。"
+    },
+    {
+      "id": 131,
+      "startMs": 817260,
+      "endMs": 821340,
+      "en": "And I think I've probably read that book hundreds of times.",
+      "zh": "我想我大概已经读过那本书几百遍了。"
+    },
+    {
+      "id": 132,
+      "startMs": 821500,
+      "endMs": 826620,
+      "en": "It was the most requested book, and kids even asked if they could take our copy home.",
+      "zh": "那是孩子们点读最多的书，他们甚至问能不能把我们的那本带回家。"
+    },
+    {
+      "id": 133,
+      "startMs": 826860,
+      "endMs": 830380,
+      "en": "It was so easy for me to do the voices because of the rhyming patterns,",
+      "zh": "因为押韵的节奏，我很容易为书中角色配音，"
+    },
+    {
+      "id": 134,
+      "startMs": 830380,
+      "endMs": 834940,
+      "en": "and then it made it easy for the kids to memorize the beats of the story.",
+      "zh": "孩子们也因此很容易记住故事的节拍。"
+    },
+    {
+      "id": 135,
+      "startMs": 835340,
+      "endMs": 837820,
+      "en": "So everyone loved that clever mouse.",
+      "zh": "所以大家都喜欢那只聪明的老鼠。"
+    },
+    {
+      "id": 136,
+      "startMs": 838240,
+      "endMs": 840640,
+      "en": "That's one thing that they wanted to be.",
+      "zh": "那正是他们想成为的样子。"
+    },
+    {
+      "id": 137,
+      "startMs": 840640,
+      "endMs": 842480,
+      "en": "They wanted to be like that mouse",
+      "zh": "他们想成为那只老鼠一样的角色，"
+    },
+    {
+      "id": 138,
+      "startMs": 842480,
+      "endMs": 850240,
+      "en": "who could pretty much trick all these other predators into, like, thinking, \"Well, I am the most dangerous thing around here.\"",
+      "zh": "它几乎能把其他捕食者都骗得以为：‘我才是这里最危险的家伙。’"
+    },
+    {
+      "id": 139,
+      "startMs": 850560,
+      "endMs": 855280,
+      "en": "And yet, the unfortunate thing is we do know that kids increasingly are reading less.",
+      "zh": "然而遗憾的是，我们确实知道孩子们越来越少读书了。"
+    },
+    {
+      "id": 140,
+      "startMs": 855520,
+      "endMs": 857760,
+      "en": "Dana, are you worried about that phenomenon?",
+      "zh": "达娜，你担心这种现象吗？"
+    },
+    {
+      "id": 141,
+      "startMs": 857920,
+      "endMs": 861680,
+      "en": "And how important are some of these big, key books, be it the Gruffalo",
+      "zh": "那么，《毛毛怪》这样的重要经典书籍，"
+    },
+    {
+      "id": 142,
+      "startMs": 861680,
+      "endMs": 866640,
+      "en": "or Harry Potter or Philip Pullman, to get kids interested in reading?",
+      "zh": "或《哈利·波特》、菲利普·普尔曼的作品，对激发孩子的阅读兴趣有多重要？"
+    },
+    {
+      "id": 143,
+      "startMs": 867360,
+      "endMs": 869200,
+      "en": "Oh, yeah, definitely worried about that.",
+      "zh": "当然，我确实担心。"
+    },
+    {
+      "id": 144,
+      "startMs": 869280,
+      "endMs": 877200,
+      "en": "I currently work as a digital product manager at Reading Is Fundamental, which is the leading children's literacy nonprofit here in the United States.",
+      "zh": "我目前是美国领先的儿童读写能力非营利组织 Reading Is Fundamental 的数字产品经理。"
+    },
+    {
+      "id": 145,
+      "startMs": 877200,
+      "endMs": 883760,
+      "en": "And our goal has always been to fight the literacy crisis, and the way that we do that is",
+      "zh": "我们的目标一直是应对读写危机，而我们采取的方式是"
+    },
+    {
+      "id": 146,
+      "startMs": 883840,
+      "endMs": 885920,
+      "en": "to get, you know, books in the hands of children.",
+      "zh": "把书送到孩子们手中。"
+    },
+    {
+      "id": 147,
+      "startMs": 886160,
+      "endMs": 893280,
+      "en": "For the past 60 years, we've been doing that, and I think, you know, legacy books like the Gruffalo",
+      "zh": "60年来我们一直这样做。我认为，《毛毛怪》这样的经典作品"
+    },
+    {
+      "id": 148,
+      "startMs": 893440,
+      "endMs": 898160,
+      "en": "do make a good impact in terms of children's literacy, you know.",
+      "zh": "确实能对儿童读写能力产生积极影响。"
+    },
+    {
+      "id": 149,
+      "startMs": 898260,
+      "endMs": 904100,
+      "en": "As a young child, the way that adults read with them is something that builds these literacy practices",
+      "zh": "孩子年幼时，成年人陪他们阅读的方式，会培养读写习惯，"
+    },
+    {
+      "id": 150,
+      "startMs": 904180,
+      "endMs": 908580,
+      "en": "that they continue to take as they grow up.",
+      "zh": "而这些习惯会伴随他们长大。"
+    },
+    {
+      "id": 151,
+      "startMs": 909440,
+      "endMs": 911600,
+      "en": "Jaya, is that a phenomenon that worries you?",
+      "zh": "贾娅，这种现象让你担心吗？"
+    },
+    {
+      "id": 152,
+      "startMs": 912480,
+      "endMs": 919760,
+      "en": "Well, yes and no, in the sense that from the time that I've been in publishing and witnessed quite a transformation.",
+      "zh": "是，也不是。因为自从我进入出版业以来，见证了巨大的变化。"
+    },
+    {
+      "id": 153,
+      "startMs": 919760,
+      "endMs": 926480,
+      "en": "From traditional publishing houses which didn't have dedicated children's literature departments, now they do.",
+      "zh": "传统出版社过去没有专门的儿童文学部门，如今已经有了。"
+    },
+    {
+      "id": 154,
+      "startMs": 926800,
+      "endMs": 930880,
+      "en": "We now see entire generations of children coming up, remembering book fairs.",
+      "zh": "现在，一代代孩子成长起来，记得那些书展。"
+    },
+    {
+      "id": 155,
+      "startMs": 931120,
+      "endMs": 934560,
+      "en": "We have author outreach programs, we have workshops.",
+      "zh": "我们有作者推广项目，也有工作坊。"
+    },
+    {
+      "id": 156,
+      "startMs": 934800,
+      "endMs": 943840,
+      "en": "The new education policy of 2022 of the government, in fact, states very clearly that we should have storytelling in classrooms.",
+      "zh": "政府2022年的新教育政策明确规定，课堂上应开展讲故事活动。"
+    },
+    {
+      "id": 157,
+      "startMs": 944240,
+      "endMs": 951920,
+      "en": "We have, at the lowest administrative level in certain states, like in South India, Karnataka, Pratham Books",
+      "zh": "在一些邦的基层行政单位，比如南印度的卡纳塔克邦，Pratham Books"
+    },
+    {
+      "id": 158,
+      "startMs": 952000,
+      "endMs": 957360,
+      "en": "partnered with the smallest administrative unit called the Gram Panchayat and set up 6,000 libraries,",
+      "zh": "与名为 Gram Panchayat 的最小行政单位合作，建起了6000座图书馆，"
+    },
+    {
+      "id": 159,
+      "startMs": 957360,
+      "endMs": 964400,
+      "en": "of which the hundred books in the seed library, 10% are dedicated to Braille books.",
+      "zh": "其中种子图书馆的100本书里，有10%是盲文书籍。"
+    },
+    {
+      "id": 160,
+      "startMs": 964720,
+      "endMs": 969280,
+      "en": "In 2008, we had the first children's book festival come up, a literature festival.",
+      "zh": "2008年，我们举办了首届儿童图书节，也就是文学节。"
+    },
+    {
+      "id": 161,
+      "startMs": 969940,
+      "endMs": 974100,
+      "en": "Called Bookaroo, it is incredibly popular.",
+      "zh": "它名为 Bookaroo，极受欢迎。"
+    },
+    {
+      "id": 162,
+      "startMs": 974900,
+      "endMs": 979860,
+      "en": "Dana Huttaway and Jaya Bhattacharji Rose on the popularity of the Gruffalo.",
+      "zh": "达娜·赫塔韦和贾娅·巴塔查吉·罗斯谈《毛毛怪》的受欢迎程度。"
+    },
+    {
+      "id": 163,
+      "startMs": 985080,
+      "endMs": 992920,
+      "en": "Still to come on the Happy Pod, campaigners celebrate a UN vote to adopt a new map reflecting Africa's true size.",
+      "zh": "《快乐播客》稍后：活动人士庆祝联合国投票通过采用一幅准确反映非洲真实面积的新地图。"
+    },
+    {
+      "id": 164,
+      "startMs": 993320,
+      "endMs": 999000,
+      "en": "It really made Africa and Africans stand a little bit taller, a little bit prouder.",
+      "zh": "这确实让非洲和非洲人更加昂首挺胸、更加自豪。"
+    },
+    {
+      "id": 165,
+      "startMs": 999240,
+      "endMs": 1003800,
+      "en": "We asked the world to take a fresh look at Africa. That's actually the most important thing.",
+      "zh": "我们要求世界重新审视非洲，这才是最重要的事。"
+    },
+    {
+      "id": 166,
+      "startMs": 1003800,
+      "endMs": 1005480,
+      "en": "Welcome back to the Happy Pod.",
+      "zh": "欢迎回到《快乐播客》。"
+    },
+    {
+      "id": 167,
+      "startMs": 1006040,
+      "endMs": 1010680,
+      "en": "For many expectant parents, seeing that first ultrasound scan of their baby is a huge moment,",
+      "zh": "对许多准父母来说，看到宝宝的第一次超声波扫描是一个重要时刻，"
+    },
+    {
+      "id": 168,
+      "startMs": 1010680,
+      "endMs": 1015480,
+      "en": "but those with sight loss will have a very different experience.",
+      "zh": "但失明或视力受损的人，经历会非常不同。"
+    },
+    {
+      "id": 169,
+      "startMs": 1015800,
+      "endMs": 1022440,
+      "en": "Clinics in Brazil and France have previously transformed 20-week scans into tactile 3D models,",
+      "zh": "巴西和法国的诊所此前已把孕20周的扫描转成可触摸的3D模型，"
+    },
+    {
+      "id": 170,
+      "startMs": 1022680,
+      "endMs": 1026440,
+      "en": "allowing parents who can't see to feel their baby's features.",
+      "zh": "让无法视物的父母能够触摸宝宝的面部特征。"
+    },
+    {
+      "id": 171,
+      "startMs": 1026840,
+      "endMs": 1031000,
+      "en": "The charity Guide Dogs recently launched a similar pilot scheme in the UK.",
+      "zh": "慈善机构导盲犬协会最近在英国启动了类似的试点项目。"
+    },
+    {
+      "id": 172,
+      "startMs": 1031560,
+      "endMs": 1036760,
+      "en": "Here's the moment mum-to-be Ray Walker got to touch her baby girl's shape for the first time.",
+      "zh": "准妈妈Ray Walker第一次触摸到女儿轮廓的那一刻。"
+    },
+    {
+      "id": 173,
+      "startMs": 1037780,
+      "endMs": 1041780,
+      "en": "Oh, that's her head. Wait, is that an ear?",
+      "zh": "哦，那是她的头。等等，那是耳朵吗？"
+    },
+    {
+      "id": 174,
+      "startMs": 1042420,
+      "endMs": 1044740,
+      "en": "That's an ear. Wait, that's her arm?",
+      "zh": "那是耳朵。等等，那是她的手臂吗？"
+    },
+    {
+      "id": 175,
+      "startMs": 1044820,
+      "endMs": 1047620,
+      "en": "It's like she's got it up like she's waving.",
+      "zh": "好像她抬起手臂在挥手。"
+    },
+    {
+      "id": 176,
+      "startMs": 1048180,
+      "endMs": 1049380,
+      "en": "Oh, she's cute.",
+      "zh": "哦，她真可爱。"
+    },
+    {
+      "id": 177,
+      "startMs": 1050560,
+      "endMs": 1055920,
+      "en": "Ray has been telling Peter White what she could feel on the 3D mould and why it meant so much to her.",
+      "zh": "Rae向Peter White讲述了她在3D模型上摸到的感觉，以及这对她为何意义重大。"
+    },
+    {
+      "id": 178,
+      "startMs": 1056560,
+      "endMs": 1063040,
+      "en": "It literally is like a little baby, and you can feel the outline of her head and her little tiny ear, and her nose and her mouth,",
+      "zh": "它真的就像一个小宝宝，你能摸到她头部的轮廓、小耳朵、鼻子和嘴巴，"
+    },
+    {
+      "id": 179,
+      "startMs": 1063040,
+      "endMs": 1069520,
+      "en": "and her little hands, and she's all curled up, and she just seems really happy.",
+      "zh": "还有她的小手；她蜷缩着，看起来真的很开心。"
+    },
+    {
+      "id": 180,
+      "startMs": 1069920,
+      "endMs": 1078480,
+      "en": "And it was really lovely to feel it because when you go for an ultrasound, I'll have it audio described via the sonographer or my partner,",
+      "zh": "摸到它真的很美好，因为做超声检查时，通常由超声医师或伴侣为我口述，"
+    },
+    {
+      "id": 181,
+      "startMs": 1078720,
+      "endMs": 1088640,
+      "en": "but in a sense it's second-hand information, so it's always going to be a little bit biased because it's what they perceive.",
+      "zh": "但那在某种意义上是二手信息，总会有些偏差，因为那是他们感知到的内容。"
+    },
+    {
+      "id": 182,
+      "startMs": 1089280,
+      "endMs": 1098000,
+      "en": "Having that model in your hand and getting information first-hand is powerful; it gives you that sense of independence back.",
+      "zh": "把模型拿在手里、亲自获得信息很有力量，也让你重新获得独立感。"
+    },
+    {
+      "id": 183,
+      "startMs": 1098720,
+      "endMs": 1109520,
+      "en": "How much does it actually feel like a baby? I mean, arms, legs, its shape, the way it's curled, all that sort of thing.",
+      "zh": "它摸起来到底有多像宝宝？比如手臂、腿、形状和蜷曲的样子之类。"
+    },
+    {
+      "id": 184,
+      "startMs": 1109520,
+      "endMs": 1119620,
+      "en": "How much can you do that from what is effectively something on an embossed surface? It literally does feel like an actual baby.",
+      "zh": "在一件本质上是浮雕表面的东西上，能做到什么程度？它真的摸起来就像一个真实的宝宝。"
+    },
+    {
+      "id": 185,
+      "startMs": 1119620,
+      "endMs": 1130420,
+      "en": "So mine, she was curled up kind of like in the foetus position, and you can feel her head and you can feel the outline of her ear.",
+      "zh": "我的宝宝蜷缩着，有点像胎儿姿势；你能摸到她的头，也能摸到耳朵的轮廓。"
+    },
+    {
+      "id": 186,
+      "startMs": 1130660,
+      "endMs": 1134820,
+      "en": "Running down the side of her face, you can feel the little indent where her eyes would be,",
+      "zh": "沿着她脸的一侧向下摸，你能感觉到眼睛所在位置的小凹陷，"
+    },
+    {
+      "id": 187,
+      "startMs": 1134900,
+      "endMs": 1138900,
+      "en": "and then the little indent where her nose and mouth are.",
+      "zh": "还有鼻子和嘴巴所在位置的小凹陷。"
+    },
+    {
+      "id": 188,
+      "startMs": 1139300,
+      "endMs": 1150340,
+      "en": "It really is like a 3D model. It's not like an ultrasound with abstract ink blots on a screen; it's much clearer than you would think.",
+      "zh": "它真的像一个3D模型，不像屏幕上满是抽象墨迹的超声图像；它比你想象的清晰得多。"
+    },
+    {
+      "id": 189,
+      "startMs": 1150660,
+      "endMs": 1155540,
+      "en": "Has this made what is after all an exciting event anyway, has it made it more exciting for you?",
+      "zh": "这本来就是令人兴奋的事情，这让它对你来说更令人兴奋了吗？"
+    },
+    {
+      "id": 190,
+      "startMs": 1156500,
+      "endMs": 1162580,
+      "en": "Yeah, it was lovely to get to see and feel her again. I had no idea what to expect.",
+      "zh": "是的，能再次看到并触摸她感觉很美好。我完全不知道会是什么样。"
+    },
+    {
+      "id": 191,
+      "startMs": 1162660,
+      "endMs": 1172660,
+      "en": "I was almost a little bit scared because I didn't know what my initial reaction was going to be like and how medical it was going to be,",
+      "zh": "我几乎有点害怕，因为不知道自己的第一反应会怎样，也不知道它会有多像医疗操作，"
+    },
+    {
+      "id": 192,
+      "startMs": 1172660,
+      "endMs": 1177220,
+      "en": "but it's not. It's lovely to know that I've got something like that as a wee keepsake",
+      "zh": "但并不是那样。想到我有这样一个小纪念品，"
+    },
+    {
+      "id": 193,
+      "startMs": 1177220,
+      "endMs": 1180100,
+      "en": "that I can keep forever and ever is really sweet.",
+      "zh": "可以永远保存，真的很甜蜜。"
+    },
+    {
+      "id": 194,
+      "startMs": 1180340,
+      "endMs": 1186660,
+      "en": "We've mentioned you're having a girl, but your partner came up with a creative way for you to find out your baby's gender,",
+      "zh": "我们提到过你怀的是女孩，但你的伴侣想出了一个创意办法，让你亲自得知宝宝的性别，"
+    },
+    {
+      "id": 195,
+      "startMs": 1186820,
+      "endMs": 1193220,
+      "en": "not just to be told, but finding out for yourself.",
+      "zh": "而不是只听别人告诉你。"
+    },
+    {
+      "id": 196,
+      "startMs": 1193700,
+      "endMs": 1201700,
+      "en": "It was my partner who said, 'Let's make it really simple,' and he came up with an ingenious idea of getting a nice little box.",
+      "zh": "是我的伴侣说“让我们把事情变得简单些”，他想出了准备一个漂亮小盒子的妙招。"
+    },
+    {
+      "id": 197,
+      "startMs": 1202020,
+      "endMs": 1211380,
+      "en": "And there are these things called Wikki Stix, like pipe cleaners, but they're sticky, so you can stick them onto pieces of paper and things.",
+      "zh": "有一种东西叫Wikki Stix，像绒条，但带黏性，可以把它们粘在纸张之类的东西上。"
+    },
+    {
+      "id": 198,
+      "startMs": 1211940,
+      "endMs": 1216260,
+      "en": "And we literally said to the sonographer, 'Can you put an X in the box',",
+      "zh": "我们直接对超声医师说：“如果是男孩，能在盒底画个X吗”，"
+    },
+    {
+      "id": 199,
+      "startMs": 1216280,
+      "endMs": 1219080,
+      "en": "if it's a boy, or a circle if it's a girl?",
+      "zh": "如果是男孩就画X，是女孩就画圆圈。"
+    },
+    {
+      "id": 200,
+      "startMs": 1219320,
+      "endMs": 1227080,
+      "en": "So she handed me the box, and I got to feel inside to see what it was before anyone else did, and it was such a lovely surprise.",
+      "zh": "她把盒子递给我，我在其他人之前摸到里面的答案，真是个美好的惊喜。"
+    },
+    {
+      "id": 201,
+      "startMs": 1227800,
+      "endMs": 1232680,
+      "en": "Mum-to-be Ray Walker speaking to Peter White for the BBC's In Touch series.",
+      "zh": "准妈妈Ray Walker接受Peter White采访，来自BBC《In Touch》系列。"
+    },
+    {
+      "id": 202,
+      "startMs": 1233960,
+      "endMs": 1240360,
+      "en": "Campaigners across Africa are celebrating a significant step forward in the way the world sees the continent.",
+      "zh": "非洲各地的倡导者正在庆祝世界看待这片大陆的方式取得重大进展。"
+    },
+    {
+      "id": 203,
+      "startMs": 1240520,
+      "endMs": 1246360,
+      "en": "Quite literally, the UN General Assembly has overwhelmingly voted in favour of phasing out the traditional world map,",
+      "zh": "联合国大会以压倒性票数支持逐步弃用传统世界地图，"
+    },
+    {
+      "id": 204,
+      "startMs": 1246360,
+      "endMs": 1251080,
+      "en": "with one that more accurately reflects the size of Africa.",
+      "zh": "改用更准确反映非洲面积的地图。"
+    },
+    {
+      "id": 205,
+      "startMs": 1251640,
+      "endMs": 1261480,
+      "en": "This is not a minor discrepancy. On common maps, Africa appears similar in size to Greenland, despite being 14 times larger.",
+      "zh": "这不是小小的差异。在常见地图上，非洲看起来和格陵兰岛差不多大，尽管它大14倍。"
+    },
+    {
+      "id": 206,
+      "startMs": 1261880,
+      "endMs": 1269640,
+      "en": "Moky Makura from the advocacy organisation Africa No Filter told us how she felt about this long-awaited recognition for change.",
+      "zh": "倡导组织Africa No Filter的Moky Makura告诉我们，她对这一期待已久的改变如何看待。"
+    },
+    {
+      "id": 207,
+      "startMs": 1270280,
+      "endMs": 1277640,
+      "en": "Excitement, I would say, is a huge part of how I felt because it was nearly two years of work to get to that point.",
+      "zh": "我想，兴奋是我感受中很重要的一部分，因为我们为此努力了将近两年。"
+    },
+    {
+      "id": 208,
+      "startMs": 1277720,
+      "endMs": 1285480,
+      "en": "It was almost unanimous. 164 countries voted in our favour, and you cannot be anything but pleased.",
+      "zh": "这几乎是一致通过的。164个国家投了赞成票，除了高兴你不可能有别的感受。"
+    },
+    {
+      "id": 209,
+      "startMs": 1285720,
+      "endMs": 1291560,
+      "en": "It really made Africa and Africans stand a little bit taller, a little bit prouder.",
+      "zh": "这确实让非洲和非洲人更加挺直腰板，也更加自豪。"
+    },
+    {
+      "id": 210,
+      "startMs": 1291800,
+      "endMs": 1299740,
+      "en": "First of all, 54 African countries came together because we first of all signed an AU resolution and then we took it to the UN.",
+      "zh": "首先，54个非洲国家团结起来，先签署了非盟决议，然后把它提交给联合国。"
+    },
+    {
+      "id": 211,
+      "startMs": 1299820,
+      "endMs": 1307980,
+      "en": "And it shows that when we get together as a continent behind a single issue and we all agree, things happen because the world takes you seriously.",
+      "zh": "这说明，当整个大陆围绕一个议题团结起来并达成共识时，事情就会发生，因为世界会认真对待你们。"
+    },
+    {
+      "id": 212,
+      "startMs": 1308060,
+      "endMs": 1315740,
+      "en": "And I think the second symbolic part to this is that this map we've been looking at for over 400 years has been wrong. We changed that.",
+      "zh": "我认为，第二个象征意义在于，我们看了400多年的这张地图一直是错的。我们改变了这一点。"
+    },
+    {
+      "id": 213,
+      "startMs": 1315820,
+      "endMs": 1324460,
+      "en": "We got the world to agree to use a new map for us, a new projection. And to me, that means that we asked the world to take a fresh look at Africa.",
+      "zh": "我们让世界同意为我们使用一张新地图、新的投影。在我看来，这意味着我们请世界重新审视非洲。"
+    },
+    {
+      "id": 214,
+      "startMs": 1324620,
+      "endMs": 1329660,
+      "en": "That's the most important thing because we've been looking at Africa in the wrong way for such a long time.",
+      "zh": "这最重要，因为我们长期以来一直以错误的方式看待非洲。"
+    },
+    {
+      "id": 215,
+      "startMs": 1329740,
+      "endMs": 1334300,
+      "en": "What else? What else have we taken for granted? What else do we not know about the continent?",
+      "zh": "还有什么？我们还把什么当成理所当然？关于这片大陆，我们还有什么不了解？"
+    },
+    {
+      "id": 216,
+      "startMs": 1334300,
+      "endMs": 1341900,
+      "en": "And this resolution, this global moment we had, is asking the world to look at us differently. And those are the symbolic parts of it.",
+      "zh": "这项决议、这个全球性时刻，正在请求世界以不同方式看待我们。这些是它的象征性意义。"
+    },
+    {
+      "id": 217,
+      "startMs": 1341900,
+      "endMs": 1345180,
+      "en": "But the practical aspect to me is one very clear and very simple.",
+      "zh": "但在我看来，实际层面非常清楚，也非常简单。"
+    },
+    {
+      "id": 218,
+      "startMs": 1345180,
+      "endMs": 1349100,
+      "en": "The map that we were using for 400 years was wrong, factually wrong.",
+      "zh": "我们使用了400年的那张地图是错的，事实层面就是错的。"
+    },
+    {
+      "id": 219,
+      "startMs": 1349260,
+      "endMs": 1353500,
+      "en": "The one we're asking you to use now is right because we want to make sure our children",
+      "zh": "我们现在请你们使用的地图才是正确的，因为我们希望确保我们的孩子，"
+    },
+    {
+      "id": 220,
+      "startMs": 1354080,
+      "endMs": 1358560,
+      "en": "the education system, our schools, are teaching our children the right thing.",
+      "zh": "教育体系和学校教给孩子们正确的知识。"
+    },
+    {
+      "id": 221,
+      "startMs": 1359280,
+      "endMs": 1362720,
+      "en": "Moky Makura, the executive director of Africa No Filter.",
+      "zh": "Moky Makura，Africa No Filter的执行主任。"
+    },
+    {
+      "id": 222,
+      "startMs": 1364040,
+      "endMs": 1370040,
+      "en": "To Mexico now, where researchers think they've come up with a solution to make physiotherapy more enjoyable.",
+      "zh": "现在来到墨西哥。研究人员认为，他们找到了让物理治疗更有趣的方法。"
+    },
+    {
+      "id": 223,
+      "startMs": 1370040,
+      "endMs": 1376600,
+      "en": "For people recovering from a brain injury, they've developed a video game that allows patients to do exercises.",
+      "zh": "他们为脑损伤康复者开发了一款电子游戏，让患者可以做康复练习。"
+    },
+    {
+      "id": 224,
+      "startMs": 1376840,
+      "endMs": 1382680,
+      "en": "Similar to those in conventional therapy, but in a more engaging, accessible and consistent way.",
+      "zh": "练习与传统治疗相似，但方式更有趣、更易使用，也更稳定。"
+    },
+    {
+      "id": 225,
+      "startMs": 1383160,
+      "endMs": 1387160,
+      "en": "Rogelio Navarro in Mexico City has been finding out how it works.",
+      "zh": "墨西哥城的罗赫略·纳瓦罗了解了它的运作方式。"
+    },
+    {
+      "id": 226,
+      "startMs": 1394740,
+      "endMs": 1397300,
+      "en": "That sound is a cannon sinking a pirate ship.",
+      "zh": "那是大炮击沉海盗船的声音。"
+    },
+    {
+      "id": 227,
+      "startMs": 1400140,
+      "endMs": 1403500,
+      "en": "It is also the sound of a leg learning to walk again.",
+      "zh": "这也是一条腿重新学会走路的声音。"
+    },
+    {
+      "id": 228,
+      "startMs": 1403980,
+      "endMs": 1411580,
+      "en": "Sylvia Salinas is 45 and she lives in Mexico City. She's in rehabilitation after a life-altering health incident.",
+      "zh": "45岁的西尔维娅·萨利纳斯住在墨西哥城。一次改变人生的健康事故后，她正在康复。"
+    },
+    {
+      "id": 229,
+      "startMs": 1411580,
+      "endMs": 1417420,
+      "en": "A little over two years ago, I had a cerebrovascular event.",
+      "zh": "两年多以前，我经历了一次脑血管事件。"
+    },
+    {
+      "id": 230,
+      "startMs": 1418160,
+      "endMs": 1420880,
+      "en": "What we usually call a stroke. I had the stroke.",
+      "zh": "也就是我们通常所说的中风。我当时中风了。"
+    },
+    {
+      "id": 231,
+      "startMs": 1421200,
+      "endMs": 1423600,
+      "en": "And I lost all movement on the left side of my body.",
+      "zh": "我的身体左侧完全失去了活动能力。"
+    },
+    {
+      "id": 232,
+      "startMs": 1423680,
+      "endMs": 1425440,
+      "en": "From my face down to my leg.",
+      "zh": "从脸部一直到腿部。"
+    },
+    {
+      "id": 233,
+      "startMs": 1426320,
+      "endMs": 1429360,
+      "en": "I woke up from surgery realizing I've lost sensation.",
+      "zh": "手术醒来后，我意识到自己失去了感觉。"
+    },
+    {
+      "id": 234,
+      "startMs": 1429360,
+      "endMs": 1434240,
+      "en": "And movement in my arm, and my hand, and in my leg, so I couldn't walk.",
+      "zh": "手臂、手和腿也无法活动，所以我不能走路。"
+    },
+    {
+      "id": 235,
+      "startMs": 1434240,
+      "endMs": 1441760,
+      "en": "What Sylvia was given in rehabilitation was not a standard prescription. It was a video game.",
+      "zh": "西尔维娅接受的康复治疗不是标准处方，而是一款电子游戏。"
+    },
+    {
+      "id": 236,
+      "startMs": 1442400,
+      "endMs": 1451360,
+      "en": "It is called Cañonazo, roughly cannon shot, and it was built at the Laboratory of Interactive Applications for Neurorehabilitation.",
+      "zh": "它叫 Cañonazo，大致意为“炮击”，由互动神经康复应用实验室研发。"
+    },
+    {
+      "id": 237,
+      "startMs": 1451600,
+      "endMs": 1454320,
+      "en": "At the National Autonomous University of Mexico.",
+      "zh": "实验室位于墨西哥国立自治大学。"
+    },
+    {
+      "id": 238,
+      "startMs": 1455020,
+      "endMs": 1460220,
+      "en": "This is the man who runs it, Yoás Ramírez, a computer scientist.",
+      "zh": "这是负责运营实验室的计算机科学家尤阿斯·拉米雷斯。"
+    },
+    {
+      "id": 239,
+      "startMs": 1460700,
+      "endMs": 1465740,
+      "en": "Once the calibration is done, the patient has to hold the leg out straight.",
+      "zh": "校准完成后，患者必须把腿伸直。"
+    },
+    {
+      "id": 240,
+      "startMs": 1465740,
+      "endMs": 1469660,
+      "en": "And the player controls a cannon. It simulates being in a bay.",
+      "zh": "玩家控制一门大炮，游戏模拟身处海湾。"
+    },
+    {
+      "id": 241,
+      "startMs": 1469740,
+      "endMs": 1475500,
+      "en": "With pirate ships coming in. The cannon fires continuously and the player aims it by moving the leg.",
+      "zh": "海盗船驶来，大炮不断开火，玩家通过移动腿部瞄准。"
+    },
+    {
+      "id": 242,
+      "startMs": 1476220,
+      "endMs": 1479100,
+      "en": "The idea is to destroy all the pirate ships.",
+      "zh": "目标是摧毁所有海盗船。"
+    },
+    {
+      "id": 243,
+      "startMs": 1479100,
+      "endMs": 1486700,
+      "en": "The controller is not a joystick or a gamepad. It is a 3D-printed knee brace.",
+      "zh": "控制器不是摇杆或游戏手柄，而是一个3D打印的膝关节支具。"
+    },
+    {
+      "id": 244,
+      "startMs": 1486860,
+      "endMs": 1490940,
+      "en": "That measures, in real time, the angle at which the knee bends.",
+      "zh": "它会实时测量膝盖弯曲的角度。"
+    },
+    {
+      "id": 245,
+      "startMs": 1491180,
+      "endMs": 1498220,
+      "en": "Before play begins, the system calibrates how far each patient can move the leg and scales the game to that.",
+      "zh": "开始游戏前，系统会校准每位患者腿部的活动范围，并据此调整游戏。"
+    },
+    {
+      "id": 246,
+      "startMs": 1498940,
+      "endMs": 1500860,
+      "en": "This is how Silvia describes it.",
+      "zh": "西尔维娅这样描述它。"
+    },
+    {
+      "id": 247,
+      "startMs": 1501180,
+      "endMs": 1506073,
+      "en": "The mission is to hit a ship and knock it down.",
+      "zh": "任务是击中一艘船，把它击沉。"
+    },
+    {
+      "id": 248,
+      "startMs": 1506246,
+      "endMs": 1511980,
+      "en": "There's a steel ball, a cannonball, and with my foot using a device they fit on my knee.",
+      "zh": "有一个钢球，也就是炮弹；他们把装置安装在我的膝盖上，我用脚操作。"
+    },
+    {
+      "id": 249,
+      "startMs": 1511980,
+      "endMs": 1516780,
+      "en": "I make the movement of kicking it, but sitting down. I line my foot up.",
+      "zh": "我坐着做出踢球的动作，把脚对准目标。"
+    },
+    {
+      "id": 250,
+      "startMs": 1516860,
+      "endMs": 1519100,
+      "en": "Visually with the ball I can see on the screen.",
+      "zh": "我在屏幕上用眼睛对准看得到的球。"
+    },
+    {
+      "id": 251,
+      "startMs": 1519420,
+      "endMs": 1521900,
+      "en": "I kick it and the ball is launched at the ship.",
+      "zh": "我踢出球，球就射向船。"
+    },
+    {
+      "id": 252,
+      "startMs": 1521980,
+      "endMs": 1526540,
+      "en": "And knocks it over. If I do it well, the ship never reaches its target.",
+      "zh": "它会把船击倒。做得好时，船永远到不了目标。"
+    },
+    {
+      "id": 253,
+      "startMs": 1528800,
+      "endMs": 1532480,
+      "en": "Conventional physiotherapy is repetitive and people give up on it.",
+      "zh": "传统物理治疗重复性强，人们会放弃。"
+    },
+    {
+      "id": 254,
+      "startMs": 1533040,
+      "endMs": 1539840,
+      "en": "The window in which the brain recovers best is the first few months after the damage.",
+      "zh": "大脑恢复最好的窗口期，是损伤后的最初几个月。"
+    },
+    {
+      "id": 255,
+      "startMs": 1540000,
+      "endMs": 1545840,
+      "en": "And that is precisely the time many Mexican patients spend waiting. In Mexico, the university's own laboratory.",
+      "zh": "而许多墨西哥患者恰恰在这段时间等待。在墨西哥，这所大学自己的实验室。"
+    },
+    {
+      "id": 256,
+      "startMs": 1546080,
+      "endMs": 1552880,
+      "en": "Has said publicly that treatment can be delayed by as much as five months because there aren't enough therapists or rehabilitation units.",
+      "zh": "曾公开表示，治疗最多可能延误五个月，因为治疗师和康复机构不足。"
+    },
+    {
+      "id": 257,
+      "startMs": 1553280,
+      "endMs": 1555440,
+      "en": "And the ones that exist are overloaded.",
+      "zh": "现有的机构也不堪重负。"
+    },
+    {
+      "id": 258,
+      "startMs": 1555920,
+      "endMs": 1561920,
+      "en": "Since 2021, the project's objective has been to fill that availability gap.",
+      "zh": "自2021年以来，该项目的目标就是填补这一可用性缺口。"
+    },
+    {
+      "id": 259,
+      "startMs": 1562560,
+      "endMs": 1565120,
+      "en": "Monserrat Cano is the project's neuroscientist.",
+      "zh": "蒙塞拉特·卡诺是该项目的神经科学家。"
+    },
+    {
+      "id": 260,
+      "startMs": 1565120,
+      "endMs": 1571200,
+      "en": "Another of the laboratory's objectives is to take the video games into telerehabilitation.",
+      "zh": "实验室的另一个目标，是把电子游戏带入远程康复。"
+    },
+    {
+      "id": 261,
+      "startMs": 1571440,
+      "endMs": 1574880,
+      "en": "So that patients can have them at home and start their therapy from home.",
+      "zh": "这样患者在家就能使用，在家开始治疗。"
+    },
+    {
+      "id": 262,
+      "startMs": 1575280,
+      "endMs": 1580000,
+      "en": "Without needing to travel to a rehabilitation center or to have specialized equipment.",
+      "zh": "无需前往康复中心，也不需要专业设备。"
+    },
+    {
+      "id": 263,
+      "startMs": 1580480,
+      "endMs": 1586240,
+      "en": "As long as they have a computer, a laptop, and the software, they can begin their rehabilitation at home.",
+      "zh": "只要有电脑、笔记本电脑和软件，他们就能在家开始康复。"
+    },
+    {
+      "id": 264,
+      "startMs": 1588340,
+      "endMs": 1594260,
+      "en": "One of around 15 games this laboratory has built, the laboratory has two peer-reviewed papers.",
+      "zh": "这是该实验室开发的约15款游戏之一；实验室有两篇同行评审论文。"
+    },
+    {
+      "id": 265,
+      "startMs": 1594820,
+      "endMs": 1597780,
+      "en": "Cañonazo, the leg game, has no published results yet.",
+      "zh": "腿部游戏 Cañonazo 还没有发表研究结果。"
+    },
+    {
+      "id": 266,
+      "startMs": 1598580,
+      "endMs": 1600740,
+      "en": "What Silvia can describe is her own body.",
+      "zh": "西尔维娅能描述的是自己身体的变化。"
+    },
+    {
+      "id": 267,
+      "startMs": 1601140,
+      "endMs": 1605940,
+      "en": "My walking improved to the point where I now step over obstacles.",
+      "zh": "我的行走能力有所改善，现在可以跨过障碍物。"
+    },
+    {
+      "id": 268,
+      "startMs": 1606420,
+      "endMs": 1608660,
+      "en": "I can walk with far more confidence now.",
+      "zh": "现在我走路自信多了。"
+    },
+    {
+      "id": 269,
+      "startMs": 1609140,
+      "endMs": 1615460,
+      "en": "If I am out on the street, I have to be able to step around an open drain or dodge a dog if one runs across me.",
+      "zh": "在街上时，我得能绕过敞开的排水沟，或躲开突然冲向我的狗。"
+    },
+    {
+      "id": 270,
+      "startMs": 1616180,
+      "endMs": 1621700,
+      "en": "Sylvia is still recovering from her stroke, but she does rehabilitation every day.",
+      "zh": "西尔维娅仍在中风后康复，但她每天都做康复训练。"
+    },
+    {
+      "id": 271,
+      "startMs": 1622100,
+      "endMs": 1624340,
+      "en": "And this is what she wants people to know.",
+      "zh": "这就是她希望人们知道的事。"
+    },
+    {
+      "id": 272,
+      "startMs": 1624340,
+      "endMs": 1629780,
+      "en": "Even if the change is tiny, the brain is recovering.",
+      "zh": "即使变化很小，大脑也在恢复。"
+    },
+    {
+      "id": 273,
+      "startMs": 1629780,
+      "endMs": 1633780,
+      "en": "It isn't like a wound. When you cut yourself, the wound heals.",
+      "zh": "这不像伤口。割伤自己时，伤口会愈合。"
+    },
+    {
+      "id": 274,
+      "startMs": 1633780,
+      "endMs": 1635700,
+      "en": "And I can see it, because a scab forms.",
+      "zh": "我能看到这一点，因为会结痂。"
+    },
+    {
+      "id": 275,
+      "startMs": 1636180,
+      "endMs": 1640420,
+      "en": "With this, the brain doesn't tell us how we're doing or how far along we are.",
+      "zh": "但大脑不会告诉我们恢复得怎样、进展到哪一步。"
+    },
+    {
+      "id": 276,
+      "startMs": 1640420,
+      "endMs": 1642980,
+      "en": "Or how much is left or at what speed.",
+      "zh": "也不会告诉我们还剩多少、速度有多快。"
+    },
+    {
+      "id": 277,
+      "startMs": 1643620,
+      "endMs": 1647780,
+      "en": "But if I can't move my hand and one day I notice that my finger has done this.",
+      "zh": "但如果我的手动不了，有一天我发现手指能这样动了。"
+    },
+    {
+      "id": 278,
+      "startMs": 1647780,
+      "endMs": 1651720,
+      "en": "Then I'm on my way. So, patience.",
+      "zh": "那就说明我正在好转。所以，要有耐心。"
+    },
+    {
+      "id": 279,
+      "startMs": 1654920,
+      "endMs": 1658120,
+      "en": "That report by Rogelio Navarro in Mexico City.",
+      "zh": "以上是墨西哥城的罗赫略·纳瓦罗报道。"
+    },
+    {
+      "id": 280,
+      "startMs": 1658760,
+      "endMs": 1663880,
+      "en": "Before I sign off, I would like to wish any Ethiopians listening a happy new year.",
+      "zh": "结束前，我祝所有正在收听的埃塞俄比亚人新年快乐。"
+    },
+    {
+      "id": 281,
+      "startMs": 1663880,
+      "endMs": 1668920,
+      "en": "Now, that might sound a bit odd considering it's September, but Ethiopia follows its own calendar.",
+      "zh": "现在是9月，这听起来或许有些奇怪，但埃塞俄比亚使用自己的历法。"
+    },
+    {
+      "id": 282,
+      "startMs": 1669160,
+      "endMs": 1675400,
+      "en": "Which is rooted in ancient religious traditions and it runs around seven to eight years behind the Gregorian calendar.",
+      "zh": "它源于古老的宗教传统，比公历大约晚七到八年。"
+    },
+    {
+      "id": 283,
+      "startMs": 1675960,
+      "endMs": 1679560,
+      "en": "Well, as of the 11th of September, Ethiopians have entered the year 2017.",
+      "zh": "截至9月11日，埃塞俄比亚人已经进入2017年。"
+    },
+    {
+      "id": 284,
+      "startMs": 1679880,
+      "endMs": 1683400,
+      "en": "And it is a time of great celebration.",
+      "zh": "这是一个盛大的庆祝时刻。"
+    },
+    {
+      "id": 285,
+      "startMs": 1683560,
+      "endMs": 1687880,
+      "en": "As Daniel Seifmichael, a theology professor in Addis Ababa, explains.",
+      "zh": "亚的斯亚贝巴的神学教授丹尼尔·塞夫迈克尔对此作出解释。"
+    },
+    {
+      "id": 286,
+      "startMs": 1688520,
+      "endMs": 1694200,
+      "en": "Our new year is kind of a unity of nature, culture and religion.",
+      "zh": "我们的新年可以说是自然、文化和宗教的统一。"
+    },
+    {
+      "id": 287,
+      "startMs": 1694200,
+      "endMs": 1700040,
+      "en": "And also some of the major events in the solar and lunar calendar, where we think that it's the beginning.",
+      "zh": "它也涵盖太阳历和太阴历中的一些重大事件，我们认为这是一年的开始。"
+    },
+    {
+      "id": 288,
+      "startMs": 1700040,
+      "endMs": 1703720,
+      "en": "Of a new revolving of the year.",
+      "zh": "是新一年轮回的开始。"
+    },
+    {
+      "id": 289,
+      "startMs": 1703960,
+      "endMs": 1709880,
+      "en": "It is the end of the rainy season, and then we have flowers everywhere in the mountains.",
+      "zh": "这是雨季结束的时候，山间到处都是鲜花。"
+    },
+    {
+      "id": 290,
+      "startMs": 1709880,
+      "endMs": 1712600,
+      "en": "These yellow flowers which we call Adey Abeba, which is a very beautiful flower.",
+      "zh": "这些黄色的花叫 Adey Abeba，是一种非常美丽的花。"
+    },
+    {
+      "id": 291,
+      "startMs": 1714780,
+      "endMs": 1722780,
+      "en": "Which happens only in September. Girls and boys sing a song of flowers, welcoming the time of flower.",
+      "zh": "它只在9月盛开。孩子们会唱花之歌，欢迎鲜花的时节。"
+    },
+    {
+      "id": 292,
+      "startMs": 1723020,
+      "endMs": 1727500,
+      "en": "And actually in some places in the north, in the northern part of our country.",
+      "zh": "实际上，在我国北部的一些地方。"
+    },
+    {
+      "id": 293,
+      "startMs": 1727580,
+      "endMs": 1734940,
+      "en": "They have also a culture of singing together, all the members of the family in the village, in the neighborhood, to welcome the new year.",
+      "zh": "那里还有合唱的传统：村庄和社区里的全家人一起歌唱，迎接新年。"
+    },
+    {
+      "id": 294,
+      "startMs": 1739580,
+      "endMs": 1741660,
+      "en": "And that's all from the Happy Pod for this week.",
+      "zh": "本周的《快乐播客》就到这里。"
+    },
+    {
+      "id": 295,
+      "startMs": 1742140,
+      "endMs": 1747260,
+      "en": "If you'd like to get in touch, our email is globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，邮箱是 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 296,
+      "startMs": 1748060,
+      "endMs": 1751900,
+      "en": "This edition was mixed by Lee Wilson and the editor is Karen Martin.",
+      "zh": "本期由李·威尔逊混音，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 297,
+      "startMs": 1752300,
+      "endMs": 1754860,
+      "en": "I'm Chantal Hartle. Until next time, goodbye.",
+      "zh": "我是钱塔尔·哈特尔。下期再见。"
+    }
+  ]
+}

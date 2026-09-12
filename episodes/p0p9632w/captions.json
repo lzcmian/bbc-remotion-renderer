@@ -1,0 +1,1593 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "11 September 2026"
+  },
+  "durationMs": 1251760,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3040,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务台的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5100,
+      "endMs": 12140,
+      "en": "I'm Celia Hatton, and at 14:00 GMT on Friday, the 11th of September, these are our main stories.",
+      "zh": "我是 Celia Hatton。现在是9月11日星期五格林尼治时间14点，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12620,
+      "endMs": 19900,
+      "en": "Houthi rebels reportedly take control of a Yemeni island in a key shipping route, sparking fears about global oil supplies.",
+      "zh": "据报道，胡塞武装控制了关键航线上的一座也门岛屿，引发人们对全球石油供应的担忧。"
+    },
+    {
+      "id": 4,
+      "startMs": 20460,
+      "endMs": 26860,
+      "en": "Anthropic says it has detected attempts to use its AI models to develop biological and conventional weapons.",
+      "zh": "Anthropic 表示，已发现有人试图利用其人工智能模型研发生物武器和常规武器。"
+    },
+    {
+      "id": 5,
+      "startMs": 27420,
+      "endMs": 33260,
+      "en": "Events are held across the United States to mark the 25th anniversary of the 9/11 terror attacks.",
+      "zh": "美国各地举行活动，纪念9·11恐怖袭击25周年。"
+    },
+    {
+      "id": 6,
+      "startMs": 33660,
+      "endMs": 34780,
+      "en": "We go to New York City.",
+      "zh": "我们将前往纽约市。"
+    },
+    {
+      "id": 7,
+      "startMs": 37840,
+      "endMs": 39120,
+      "en": "Also in this podcast.",
+      "zh": "本期播客还将报道。"
+    },
+    {
+      "id": 8,
+      "startMs": 39440,
+      "endMs": 50160,
+      "en": "They were able to gain the trust of these, perhaps, lonely pensioners and business people. They were able to defraud them, and they disappeared into thin air.",
+      "zh": "他们能够取得这些或许孤独的养老金领取者和商界人士的信任，骗走他们的钱，然后消失得无影无踪。"
+    },
+    {
+      "id": 9,
+      "startMs": 50480,
+      "endMs": 59360,
+      "en": "Six Nigerian nationals accused of defrauding more than a hundred women through online romance scams are being extradited from South Africa to the US.",
+      "zh": "六名尼日利亚人被指控通过网络恋爱诈骗，骗取一百多名女性的钱财；他们正从南非被引渡到美国。"
+    },
+    {
+      "id": 10,
+      "startMs": 63300,
+      "endMs": 69060,
+      "en": "Let's begin in Yemen. It's in a strategically important spot, right next to the Bab al-Mandab Strait.",
+      "zh": "我们先从也门开始。也门地处战略要地，就在曼德海峡旁边。"
+    },
+    {
+      "id": 11,
+      "startMs": 69460,
+      "endMs": 73140,
+      "en": "It's a narrow waterway that connects the Red Sea to the Indian Ocean.",
+      "zh": "这是一条连接红海与印度洋的狭窄水道。"
+    },
+    {
+      "id": 12,
+      "startMs": 73140,
+      "endMs": 75940,
+      "en": "It has become even more vital to global shipping traffic.",
+      "zh": "它对全球航运的重要性进一步提升。"
+    },
+    {
+      "id": 13,
+      "startMs": 76180,
+      "endMs": 80420,
+      "en": "Now that the waterway next to Iran, the Strait of Hormuz, has been closed.",
+      "zh": "这是因为伊朗旁边的水道——霍尔木兹海峡——已经关闭。"
+    },
+    {
+      "id": 14,
+      "startMs": 80980,
+      "endMs": 89700,
+      "en": "And now in Yemen, we're learning that the Iran-backed Houthi rebel group has seized a key port on the Bab al-Mandab Strait, the city of Mocha.",
+      "zh": "而现在我们获悉，在也门，伊朗支持的胡塞叛军组织已经夺取了曼德海峡上的一个重要港口——穆哈市。"
+    },
+    {
+      "id": 15,
+      "startMs": 90180,
+      "endMs": 97300,
+      "en": "Adding to that, local officials say Yemeni forces have withdrawn from an island in that waterway, allowing the Houthis to move in.",
+      "zh": "此外，当地官员称，也门部队已从这条水道上的一座岛屿撤出，让胡塞武装得以进驻。"
+    },
+    {
+      "id": 16,
+      "startMs": 98020,
+      "endMs": 104420,
+      "en": "Our senior international investigations correspondent, Nawal Al-Maghafi, knows Yemen well and has reported from there.",
+      "zh": "我们的高级国际调查记者 Nawal Al-Maghafi 熟悉也门，并曾在那里报道。"
+    },
+    {
+      "id": 17,
+      "startMs": 104980,
+      "endMs": 107060,
+      "en": "She gave me her thoughts on this latest development.",
+      "zh": "她向我谈了对这一最新事态发展的看法。"
+    },
+    {
+      "id": 18,
+      "startMs": 107300,
+      "endMs": 115780,
+      "en": "It's incredibly significant. These are locations that the Yemeni government have had control over for nearly a decade now.",
+      "zh": "这极其重要。这些地方近十年来一直由也门政府控制。"
+    },
+    {
+      "id": 19,
+      "startMs": 116100,
+      "endMs": 123400,
+      "en": "You know, Bab al-Mandab is significant worldwide because of it being one of the main shipping routes.",
+      "zh": "曼德海峡之所以在全球都很重要，是因为它是主要航运路线之一。"
+    },
+    {
+      "id": 20,
+      "startMs": 123960,
+      "endMs": 129480,
+      "en": "And, you know, the Houthis in the last couple of months have launched offensives on multiple fronts.",
+      "zh": "而且，过去几个月里，胡塞武装在多个战线上发起了攻势。"
+    },
+    {
+      "id": 21,
+      "startMs": 129720,
+      "endMs": 134760,
+      "en": "They've launched an offensive in Taiz, which is in the southwest of Yemen, in Marib, which is in central Yemen.",
+      "zh": "他们在也门西南部的塔伊兹以及也门中部的马里卜发起了攻势。"
+    },
+    {
+      "id": 22,
+      "startMs": 135000,
+      "endMs": 139560,
+      "en": "And then also in Mocha, which sits right next to the Bab al-Mandab Strait.",
+      "zh": "他们还在紧邻曼德海峡的穆哈发起了攻势。"
+    },
+    {
+      "id": 23,
+      "startMs": 140040,
+      "endMs": 143480,
+      "en": "And that one is the most important, because as soon as they have control of it.",
+      "zh": "而穆哈是最重要的，因为他们一旦控制那里，"
+    },
+    {
+      "id": 24,
+      "startMs": 143480,
+      "endMs": 149080,
+      "en": "It means that they have direct access to all that shipping that is passing through Bab al-Mandab.",
+      "zh": "就意味着他们可以直接接触所有经过曼德海峡的船只。"
+    },
+    {
+      "id": 25,
+      "startMs": 149400,
+      "endMs": 152760,
+      "en": "And as you know, Bab al-Mandab has become a lot more important these days.",
+      "zh": "正如你所知，如今曼德海峡的重要性大幅提升，"
+    },
+    {
+      "id": 26,
+      "startMs": 152920,
+      "endMs": 157800,
+      "en": "Because of what's happening across the Arabian Peninsula, in Iran.",
+      "zh": "这是因为阿拉伯半岛各地以及伊朗正在发生变化。"
+    },
+    {
+      "id": 27,
+      "startMs": 158040,
+      "endMs": 162520,
+      "en": "And Iran having complete control of the Strait of Hormuz.",
+      "zh": "伊朗完全控制着霍尔木兹海峡，"
+    },
+    {
+      "id": 28,
+      "startMs": 162520,
+      "endMs": 167160,
+      "en": "And having a huge impact on the shipping that is passing through there.",
+      "zh": "对经过那里的航运造成了巨大影响。"
+    },
+    {
+      "id": 29,
+      "startMs": 167480,
+      "endMs": 171640,
+      "en": "So having Iran in charge of the Strait of Hormuz and its friends in charge of Bab al-Mandab.",
+      "zh": "因此，伊朗控制霍尔木兹海峡，而其盟友控制曼德海峡，"
+    },
+    {
+      "id": 30,
+      "startMs": 172120,
+      "endMs": 177720,
+      "en": "Is incredibly complicated and also threatening to the global economy.",
+      "zh": "这极其复杂，也对全球经济构成威胁。"
+    },
+    {
+      "id": 31,
+      "startMs": 177720,
+      "endMs": 180840,
+      "en": "Hmm, Nawal, how might the Houthis use that ability?",
+      "zh": "嗯，Nawal，胡塞武装可能如何利用这一能力？"
+    },
+    {
+      "id": 32,
+      "startMs": 181720,
+      "endMs": 187020,
+      "en": "They've expanded their presence in that region next to the Bab al-Mandab Strait.",
+      "zh": "他们扩大了在曼德海峡旁这一地区的存在。"
+    },
+    {
+      "id": 33,
+      "startMs": 187340,
+      "endMs": 188860,
+      "en": "How might they use that control?",
+      "zh": "他们可能如何利用这种控制？"
+    },
+    {
+      "id": 34,
+      "startMs": 189260,
+      "endMs": 199420,
+      "en": "I mean, for now, they're saying that they are only going to target ships that are linked to Saudi Arabia and that their fight is with the Saudi coalition.",
+      "zh": "我的意思是，目前他们声称只会攻击与沙特阿拉伯有关的船只，他们的斗争对象是沙特领导的联盟。"
+    },
+    {
+      "id": 35,
+      "startMs": 199820,
+      "endMs": 206780,
+      "en": "But, of course, one of the things that's going to come out of this is that it will give Iran an extra bargaining chip.",
+      "zh": "但当然，这件事带来的影响之一，是它将给伊朗增加一个谈判筹码。"
+    },
+    {
+      "id": 36,
+      "startMs": 206860,
+      "endMs": 210220,
+      "en": "It will give it more leverage on that negotiating table.",
+      "zh": "这将让伊朗在谈判桌上拥有更大的筹码。"
+    },
+    {
+      "id": 37,
+      "startMs": 210220,
+      "endMs": 216620,
+      "en": "With the United States, that it's in control of the Strait of Hormuz and its allies, the Houthis, are in control of Bab al-Mandab.",
+      "zh": "在与美国的谈判中，伊朗控制着霍尔木兹海峡，而它的盟友胡塞武装控制着曼德海峡。"
+    },
+    {
+      "id": 38,
+      "startMs": 217020,
+      "endMs": 225260,
+      "en": "There are reports that Saudi Arabia has asked the United States for help in order to deal with this emerging problem,",
+      "zh": "据报道，沙特阿拉伯已请求美国帮助应对这一新出现的问题，"
+    },
+    {
+      "id": 39,
+      "startMs": 225260,
+      "endMs": 227900,
+      "en": "the continual threat posed by the Houthi rebels.",
+      "zh": "即胡塞武装持续构成的威胁。"
+    },
+    {
+      "id": 40,
+      "startMs": 228220,
+      "endMs": 236380,
+      "en": "But how might the Saudis or even the Americans try to address this expanding presence in Yemen by the Houthi rebel group?",
+      "zh": "但沙特，甚至美国，可能会如何应对胡塞武装在也门不断扩大的势力？"
+    },
+    {
+      "id": 41,
+      "startMs": 236700,
+      "endMs": 242860,
+      "en": "I think something that's really important to note is the forces that were based in Mocha, the forces that are",
+      "zh": "我认为必须注意的一点是，驻扎在穆哈的部队，也就是那些属于也门政府的部队，"
+    },
+    {
+      "id": 42,
+      "startMs": 242880,
+      "endMs": 250000,
+      "en": "part of the Yemeni government, they were being supported by the UAE for nearly a decade now in this conflict.",
+      "zh": "这些部队属于也门政府，在这场冲突中一直得到阿联酋支持，已有近十年。"
+    },
+    {
+      "id": 43,
+      "startMs": 250240,
+      "endMs": 256640,
+      "en": "And the UAE pulled out of Yemen just under a year ago, and ever since then, they've been relying on the Saudi-led coalition.",
+      "zh": "阿联酋在不到一年前撤出也门，此后他们一直依靠沙特领导的联盟。"
+    },
+    {
+      "id": 44,
+      "startMs": 256800,
+      "endMs": 263200,
+      "en": "Now, I've been speaking to commanders that were leading that fight against the Houthis for the last couple of days.",
+      "zh": "最近几天，我一直在采访指挥与胡塞武装作战的部队指挥官。"
+    },
+    {
+      "id": 45,
+      "startMs": 263440,
+      "endMs": 265520,
+      "en": "And they told me that the fight is fierce.",
+      "zh": "他们告诉我，战斗十分激烈。"
+    },
+    {
+      "id": 46,
+      "startMs": 265760,
+      "endMs": 268720,
+      "en": "We don't have enough supplies, we don't have enough weapons,",
+      "zh": "我们没有足够的补给，也没有足够的武器，"
+    },
+    {
+      "id": 47,
+      "startMs": 268960,
+      "endMs": 272560,
+      "en": "There is no way of confronting the Houthis without airpower,",
+      "zh": "没有空中力量，就不可能对抗胡塞武装，"
+    },
+    {
+      "id": 48,
+      "startMs": 272560,
+      "endMs": 276880,
+      "en": "and we need that airpower from the Saudi-led coalition, and we're just not getting it.",
+      "zh": "我们需要沙特领导的联盟提供空中力量，但我们就是得不到。"
+    },
+    {
+      "id": 49,
+      "startMs": 276880,
+      "endMs": 284000,
+      "en": "And so, it's clear that the UAE pulling out and them not having that kind of support from the Saudi-led coalition",
+      "zh": "所以很明显，阿联酋撤出，以及他们得不到沙特领导联盟的那种支持，"
+    },
+    {
+      "id": 50,
+      "startMs": 284000,
+      "endMs": 286080,
+      "en": "is what's gotten us to where we're at today.",
+      "zh": "造成了我们今天的局面。"
+    },
+    {
+      "id": 51,
+      "startMs": 286080,
+      "endMs": 292000,
+      "en": "The Houthis in complete control of the city of Mocha and now in control of the island that sits across it.",
+      "zh": "胡塞武装已完全控制穆哈市，如今还控制了对面的那座岛。"
+    },
+    {
+      "id": 52,
+      "startMs": 292400,
+      "endMs": 300560,
+      "en": "And so, it is incredibly important for that support to come in in order for the government forces to be able to retake control of that region.",
+      "zh": "因此，必须获得这种支持，政府军才有可能重新控制该地区。"
+    },
+    {
+      "id": 53,
+      "startMs": 300800,
+      "endMs": 302880,
+      "en": "It is not difficult. It's desert terrain.",
+      "zh": "这并不困难，因为那里是沙漠地形。"
+    },
+    {
+      "id": 54,
+      "startMs": 303300,
+      "endMs": 306260,
+      "en": "And so, with airpower, they can retake it.",
+      "zh": "因此，有了空中力量，他们就能夺回那里。"
+    },
+    {
+      "id": 55,
+      "startMs": 306260,
+      "endMs": 309540,
+      "en": "And you know, the Houthis don't have significant airpower.",
+      "zh": "而且，胡塞武装没有强大的空中力量。"
+    },
+    {
+      "id": 56,
+      "startMs": 309780,
+      "endMs": 316740,
+      "en": "But whether the Saudis want to involve themselves in the war without US support is a different question.",
+      "zh": "但沙特是否愿意在没有美国支持的情况下介入战争，是另一回事。"
+    },
+    {
+      "id": 57,
+      "startMs": 316740,
+      "endMs": 320020,
+      "en": "You know, they've been able to distance themselves somewhat since 2022,",
+      "zh": "要知道，自2022年以来，他们已经能在一定程度上与战争保持距离，"
+    },
+    {
+      "id": 58,
+      "startMs": 320020,
+      "endMs": 328340,
+      "en": "and so I think they are afraid of taking this on all by themselves, and that's probably why they've asked for support from the US.",
+      "zh": "所以我认为，他们害怕独自承担这一切，这可能就是他们请求美国支持的原因。"
+    },
+    {
+      "id": 59,
+      "startMs": 328340,
+      "endMs": 332420,
+      "en": "Now, while we've been talking about the big players involved in this conflict,",
+      "zh": "刚才我们谈到的都是这场冲突中的主要参与者，"
+    },
+    {
+      "id": 60,
+      "startMs": 332500,
+      "endMs": 336820,
+      "en": "but just to focus on the humans at the center of this fighting for a moment,",
+      "zh": "但现在先让我们把目光转向战斗中心的人们，"
+    },
+    {
+      "id": 61,
+      "startMs": 336820,
+      "endMs": 343060,
+      "en": "there are reports that 46,000 people have fled from the area to escape these battles.",
+      "zh": "据报道，有4.6万人逃离该地区，以躲避这些战斗。"
+    },
+    {
+      "id": 62,
+      "startMs": 343060,
+      "endMs": 346900,
+      "en": "What more are you hearing about life on the ground in that part of Yemen?",
+      "zh": "关于也门那一地区的民众生活，你还了解到什么？"
+    },
+    {
+      "id": 63,
+      "startMs": 347220,
+      "endMs": 351780,
+      "en": "It is absolutely devastating. You have the people who had their homes in that region;",
+      "zh": "那里的情况极其惨烈。那些在该地区拥有家园的人，"
+    },
+    {
+      "id": 64,
+      "startMs": 351860,
+      "endMs": 358020,
+      "en": "it's completely erupted and disrupted from the fighting that has happened in the last couple of weeks.",
+      "zh": "他们的生活因过去几周发生的战斗而彻底被打乱、破坏。"
+    },
+    {
+      "id": 65,
+      "startMs": 358020,
+      "endMs": 362660,
+      "en": "And you know, they don't have refugee camps to go to; they don't have alternative places.",
+      "zh": "而且，他们没有可去的难民营，也没有其他容身之处。"
+    },
+    {
+      "id": 66,
+      "startMs": 362920,
+      "endMs": 367800,
+      "en": "Speaking to people in Aden who have said they've seen tens of thousands of people in the streets,",
+      "zh": "我在亚丁采访的人说，他们看到街上有数万人，"
+    },
+    {
+      "id": 67,
+      "startMs": 368200,
+      "endMs": 373160,
+      "en": "and so, you know, the humanitarian situation will deteriorate significantly over the next few weeks,",
+      "zh": "因此，未来几周人道局势将显著恶化，"
+    },
+    {
+      "id": 68,
+      "startMs": 373400,
+      "endMs": 376600,
+      "en": "and NGOs are finding it very hard to get there to help them.",
+      "zh": "非政府组织也发现很难到那里帮助他们。"
+    },
+    {
+      "id": 69,
+      "startMs": 377000,
+      "endMs": 381480,
+      "en": "In the last few hours, BBC Verify has been examining material which shows",
+      "zh": "过去几小时里，BBC Verify 一直在查验一批材料，材料显示，"
+    },
+    {
+      "id": 70,
+      "startMs": 381480,
+      "endMs": 385160,
+      "en": "fighters inside that key Red Sea port city of Mocha.",
+      "zh": "武装人员已进入红海重要港口城市穆哈。"
+    },
+    {
+      "id": 71,
+      "startMs": 385640,
+      "endMs": 392520,
+      "en": "One verified image shared on Telegram shows four armed men outside the Mocha airport terminal building.",
+      "zh": "一张在 Telegram 上分享的经核实图片显示，穆哈机场航站楼外有四名武装人员。"
+    },
+    {
+      "id": 72,
+      "startMs": 392840,
+      "endMs": 397160,
+      "en": "Another video shows armed men in pickup trucks driving in the centre of the city.",
+      "zh": "另一段视频显示，武装人员乘坐皮卡车在市中心行驶。"
+    },
+    {
+      "id": 73,
+      "startMs": 398240,
+      "endMs": 400480,
+      "en": "Now, it's an important day in the United States.",
+      "zh": "今天是美国一个重要的日子。"
+    },
+    {
+      "id": 74,
+      "startMs": 400800,
+      "endMs": 407360,
+      "en": "Commemorations are taking place across the US to mark the 25th anniversary of the September 11th terror attacks.",
+      "zh": "美国各地举行纪念活动，纪念9·11恐怖袭击25周年。"
+    },
+    {
+      "id": 75,
+      "startMs": 407840,
+      "endMs": 414640,
+      "en": "Nearly 3,000 people were killed when planes were flown into the Twin Towers of the World Trade Center and the Pentagon.",
+      "zh": "飞机撞入世贸中心双子塔和五角大楼，造成近3000人死亡。"
+    },
+    {
+      "id": 76,
+      "startMs": 415040,
+      "endMs": 417120,
+      "en": "A fourth plane crashed in Pennsylvania.",
+      "zh": "第四架飞机在宾夕法尼亚州坠毁。"
+    },
+    {
+      "id": 77,
+      "startMs": 417760,
+      "endMs": 421680,
+      "en": "As we record this podcast, remembrance ceremonies have got underway.",
+      "zh": "我们录制这期播客时，纪念仪式已经开始。"
+    },
+    {
+      "id": 78,
+      "startMs": 429220,
+      "endMs": 435860,
+      "en": "But while it's usually a time for solemn remembrance, this year's anniversary of the September 11th attacks",
+      "zh": "但今年9·11袭击周年纪念本应是庄严追思的时刻，"
+    },
+    {
+      "id": 79,
+      "startMs": 436260,
+      "endMs": 439220,
+      "en": "has become embroiled in divisive American politics.",
+      "zh": "却卷入了造成分裂的美国政治。"
+    },
+    {
+      "id": 80,
+      "startMs": 439620,
+      "endMs": 444580,
+      "en": "There are controversial calls for New York City's first Muslim mayor to sit out the event,",
+      "zh": "有人颇具争议地呼吁纽约市首位穆斯林市长不要参加活动，"
+    },
+    {
+      "id": 81,
+      "startMs": 444980,
+      "endMs": 449540,
+      "en": "including from Rudy Giuliani, who was New York City's mayor on the morning of 9/11.",
+      "zh": "其中包括鲁迪·朱利安尼，他在9·11当天早晨担任纽约市长。"
+    },
+    {
+      "id": 82,
+      "startMs": 450340,
+      "endMs": 454340,
+      "en": "Mr. Giuliani said he was offended that Mayor Zohran Mamdani would attend the memorial.",
+      "zh": "朱利安尼称，市长佐兰·马姆达尼要参加纪念活动令他感到冒犯。"
+    },
+    {
+      "id": 83,
+      "startMs": 454740,
+      "endMs": 456900,
+      "en": "From New York, Nada Tawfik reports.",
+      "zh": "纽约报道，娜达·陶菲克。"
+    },
+    {
+      "id": 84,
+      "startMs": 457460,
+      "endMs": 461780,
+      "en": "This is the site of the deadliest foreign attack on American soil in modern times,",
+      "zh": "这里是现代以来发生在美国土地上最致命的外国袭击地点，"
+    },
+    {
+      "id": 85,
+      "startMs": 461940,
+      "endMs": 466740,
+      "en": "the World Trade Center and memorial, a fulfilled promise to rebuild and to never forget.",
+      "zh": "这里有世贸中心和纪念馆，重建与永不遗忘的承诺已经实现。"
+    },
+    {
+      "id": 86,
+      "startMs": 467460,
+      "endMs": 471940,
+      "en": "Today, events of 9/11 are a moment in history for the youngest generation,",
+      "zh": "如今，对最年轻的一代而言，9·11已成为历史的一刻，"
+    },
+    {
+      "id": 87,
+      "startMs": 472260,
+      "endMs": 476340,
+      "en": "but for those who lived through it, it's a pain that never fully fades.",
+      "zh": "但对亲历者来说，那是永远不会完全消退的痛苦。"
+    },
+    {
+      "id": 88,
+      "startMs": 476900,
+      "endMs": 485380,
+      "en": "On the morning of September 11th, 2001, al-Qaeda hijackers flew commercial planes into the 110-story Twin Towers.",
+      "zh": "2001年9月11日上午，基地组织劫机者驾驶民航客机撞入110层高的双子塔。"
+    },
+    {
+      "id": 89,
+      "startMs": 486160,
+      "endMs": 490400,
+      "en": "Nearly 3,000 people died that day. Their bodies were later recovered from the rubble.",
+      "zh": "当天有近3000人死亡，遗体后来从废墟中找到。"
+    },
+    {
+      "id": 90,
+      "startMs": 490880,
+      "endMs": 496560,
+      "en": "Thousands more would lose their lives in the following years from breathing in the toxic cloud of dust that remained.",
+      "zh": "之后数年，成千上万人因吸入残留的有毒尘云而丧生。"
+    },
+    {
+      "id": 91,
+      "startMs": 497120,
+      "endMs": 501920,
+      "en": "That day forever changed America, altering lives, both domestic and foreign policy,",
+      "zh": "那一天永远改变了美国，改变了人们的生活，也改变了国内外政策，"
+    },
+    {
+      "id": 92,
+      "startMs": 502240,
+      "endMs": 504800,
+      "en": "and putting a target on Muslim Americans.",
+      "zh": "并使美国穆斯林成为被针对的目标。"
+    },
+    {
+      "id": 93,
+      "startMs": 505360,
+      "endMs": 512560,
+      "en": "Twenty-five years on from 9/11, Muslim Americans are experiencing a record rise in discrimination, according to rights groups.",
+      "zh": "权利组织称，9·11过去25年后，美国穆斯林遭遇的歧视出现创纪录增长。"
+    },
+    {
+      "id": 94,
+      "startMs": 512880,
+      "endMs": 516400,
+      "en": "While the city has its first Muslim mayor in a sign of some progress,",
+      "zh": "虽然这座城市有了首位穆斯林市长，显示出一些进步，"
+    },
+    {
+      "id": 95,
+      "startMs": 516720,
+      "endMs": 522480,
+      "en": "there's also been an increase from politicians on the right amplifying conspiracy theories about the community.",
+      "zh": "但右翼政客放大针对这一群体的阴谋论也在增加。"
+    },
+    {
+      "id": 96,
+      "startMs": 523360,
+      "endMs": 530800,
+      "en": "Rudy Giuliani, New York's mayor on 9/11, was recently condemned for these comments about the current New York mayor, Zohran Mamdani.",
+      "zh": "9·11时任纽约市长鲁迪·朱利安尼，最近因针对现任市长佐兰·马姆达尼的这些言论受到谴责。"
+    },
+    {
+      "id": 97,
+      "startMs": 531120,
+      "endMs": 539200,
+      "en": "They want to dominate us. That's what they're taught from the day they begin their extremist religious education.",
+      "zh": "他们想支配我们。他们从开始接受极端宗教教育那天起就被这样教导。"
+    },
+    {
+      "id": 98,
+      "startMs": 539760,
+      "endMs": 549120,
+      "en": "Mamdani is a clear, a clear supporter of that. All of the, all of the, all of the Muslims he supports are murderers.",
+      "zh": "马姆达尼显然是这种观点的支持者。他支持的所有穆斯林，全都是杀人犯。"
+    },
+    {
+      "id": 99,
+      "startMs": 549280,
+      "endMs": 556000,
+      "en": "Zeeshan, whose brother Salman Hamdani died in the North Tower, says that kind of rhetoric adds to the pain of the day.",
+      "zh": "齐尚的兄弟萨尔曼·哈姆达尼死于北塔；他说，这种言论加深了这一天的痛苦。"
+    },
+    {
+      "id": 100,
+      "startMs": 556660,
+      "endMs": 561300,
+      "en": "I have three kids. It's more painful because now",
+      "zh": "我有三个孩子。现在这更加令人痛苦，"
+    },
+    {
+      "id": 101,
+      "startMs": 562580,
+      "endMs": 567060,
+      "en": "I have to explain to my kids the hate of Islam.",
+      "zh": "因为我得向孩子们解释对伊斯兰教的仇恨。"
+    },
+    {
+      "id": 102,
+      "startMs": 568460,
+      "endMs": 574460,
+      "en": "The hijackers from 9/11 hijacked the religion, right? They hit the towers.",
+      "zh": "9·11劫机者劫持了这一宗教，对吧？他们撞上了高塔。"
+    },
+    {
+      "id": 103,
+      "startMs": 574540,
+      "endMs": 581500,
+      "en": "I'm like, Islam is being hijacked now to cause division within our country.",
+      "zh": "我想，伊斯兰教如今正被劫持，用来制造我们国家内部的分裂。"
+    },
+    {
+      "id": 104,
+      "startMs": 583100,
+      "endMs": 585980,
+      "en": "Gotta be better. My brother gave his life. He's a Muslim.",
+      "zh": "我们必须做得更好。我哥哥献出了生命，他是一名穆斯林。"
+    },
+    {
+      "id": 105,
+      "startMs": 586620,
+      "endMs": 589420,
+      "en": "Does his name not belong there now because he's a Muslim?",
+      "zh": "难道因为他是穆斯林，他的名字就不该在那里吗？"
+    },
+    {
+      "id": 106,
+      "startMs": 590900,
+      "endMs": 598200,
+      "en": "On a day meant to unite, it's still proving difficult for America to put to rest its divisions. Nada Tawfik.",
+      "zh": "在本应团结人们的日子里，美国仍难以平息自身的分裂。娜达·陶菲克报道。"
+    },
+    {
+      "id": 107,
+      "startMs": 598200,
+      "endMs": 601480,
+      "en": "Still to come in this podcast: 'Love the NFL. Been going for years.'",
+      "zh": "本期节目稍后：‘我喜欢NFL，已经看了很多年。’"
+    },
+    {
+      "id": 108,
+      "startMs": 601720,
+      "endMs": 604520,
+      "en": "'We flew in from New Jersey.' 'Yeah, big day. Can't wait.'",
+      "zh": "‘我们从新泽西飞来。’‘没错，这是大日子，等不及了。’"
+    },
+    {
+      "id": 109,
+      "startMs": 604520,
+      "endMs": 606280,
+      "en": "Have wanted this to happen for a while.",
+      "zh": "我们期待这件事发生已经有一阵子了。"
+    },
+    {
+      "id": 110,
+      "startMs": 606760,
+      "endMs": 609160,
+      "en": "An American sport touches down in Australia.",
+      "zh": "一项美国运动登陆澳大利亚。"
+    },
+    {
+      "id": 111,
+      "startMs": 617480,
+      "endMs": 619000,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 112,
+      "startMs": 619640,
+      "endMs": 627320,
+      "en": "The artificial intelligence company Anthropic says it's uncovered attempts by some malicious actors to use its AI models",
+      "zh": "人工智能公司Anthropic表示，他们发现有人试图利用其AI模型，"
+    },
+    {
+      "id": 113,
+      "startMs": 627400,
+      "endMs": 630280,
+      "en": "to develop biological and conventional weapons.",
+      "zh": "试图研发生物和常规武器。"
+    },
+    {
+      "id": 114,
+      "startMs": 630760,
+      "endMs": 638520,
+      "en": "The findings can be found in the firm's recent threat intelligence report, as our technology editor Zoe Kleinman began by telling me.",
+      "zh": "相关发现载于该公司最近发布的威胁情报报告，科技编辑佐伊·克莱因曼先向我介绍了报告内容。"
+    },
+    {
+      "id": 115,
+      "startMs": 639080,
+      "endMs": 646360,
+      "en": "This report is just based on activity from this year, and it says that it has spotted people around the world",
+      "zh": "这份报告只基于今年的活动，并称他们发现世界各地有人"
+    },
+    {
+      "id": 116,
+      "startMs": 646360,
+      "endMs": 649480,
+      "en": "trying to misuse its AI models in various ways.",
+      "zh": "试图以各种方式滥用其AI模型。"
+    },
+    {
+      "id": 117,
+      "startMs": 649640,
+      "endMs": 654040,
+      "en": "It didn't really name-check many people, but it did name-check countries.",
+      "zh": "报告并没有点出很多人的名字，但确实点出了相关国家。"
+    },
+    {
+      "id": 118,
+      "startMs": 654040,
+      "endMs": 662120,
+      "en": "So it says it was attempted to be used for espionage, for surveillance, for fraud, for scams, for cyber activities",
+      "zh": "报告称，这些模型曾被试图用于间谍活动、监控、欺诈、诈骗和网络活动，"
+    },
+    {
+      "id": 119,
+      "startMs": 662440,
+      "endMs": 665240,
+      "en": "in countries like Russia and Iran and Yemen.",
+      "zh": "涉及俄罗斯、伊朗和也门等国家。"
+    },
+    {
+      "id": 120,
+      "startMs": 665480,
+      "endMs": 673480,
+      "en": "The most concerning, and I think the one that's made all the headlines today, was research within a military institution, we don't know in which country,",
+      "zh": "最令人担忧、也是今天登上所有头条的，是一家军事机构开展的研究；我们不知道它位于哪个国家。"
+    },
+    {
+      "id": 121,
+      "startMs": 673800,
+      "endMs": 678620,
+      "en": "into a virus called Chikungunya, which could either have been an attempt",
+      "zh": "研究对象是一种名为基孔肯雅热的病毒，这可能是一次尝试，"
+    },
+    {
+      "id": 122,
+      "startMs": 678620,
+      "endMs": 684140,
+      "en": "to develop a vaccine, but it could also have been an attempt to look into whether it could be made into a bioweapon.",
+      "zh": "目的是研发疫苗，但也可能是在研究能否将其制成生物武器。"
+    },
+    {
+      "id": 123,
+      "startMs": 684460,
+      "endMs": 690140,
+      "en": "And I think it's fair to say that, you know, it's been a scary week for AI news, and today is no exception.",
+      "zh": "我认为可以说，人工智能新闻经历了令人不安的一周，今天也不例外。"
+    },
+    {
+      "id": 124,
+      "startMs": 690140,
+      "endMs": 692700,
+      "en": "This report is an extremely sobering read.",
+      "zh": "这份报告读来尤其令人警醒。"
+    },
+    {
+      "id": 125,
+      "startMs": 693020,
+      "endMs": 696860,
+      "en": "And Anthropic says, obviously, this is activity that it has spotted and it's blocked",
+      "zh": "Anthropic表示，显然，这是他们发现并已阻止的活动，"
+    },
+    {
+      "id": 126,
+      "startMs": 696860,
+      "endMs": 700700,
+      "en": "and it has deleted those accounts, so those people no longer have access.",
+      "zh": "并删除了这些账号，因此这些人不再拥有访问权限。"
+    },
+    {
+      "id": 127,
+      "startMs": 700700,
+      "endMs": 707340,
+      "en": "But it says it is publishing this because the world needs to know that the tools are getting better at doing both good and bad stuff",
+      "zh": "但它说，之所以公布这些，是因为全世界需要知道，这些工具正越来越擅长做好事和坏事，"
+    },
+    {
+      "id": 128,
+      "startMs": 707420,
+      "endMs": 709660,
+      "en": "and people are trying to do bad stuff with them.",
+      "zh": "而人们正试图用它们做坏事。"
+    },
+    {
+      "id": 129,
+      "startMs": 709820,
+      "endMs": 714380,
+      "en": "So you mentioned that it's been a scary week for warnings around AI.",
+      "zh": "你刚才提到，围绕人工智能的警告经历了令人不安的一周。"
+    },
+    {
+      "id": 130,
+      "startMs": 714380,
+      "endMs": 723900,
+      "en": "Earlier this week, we reported that an AI researcher was putting the chance of AI wiping out humanity within the next decade at more than 10%.",
+      "zh": "本周早些时候，我们报道一名人工智能研究人员认为，未来十年内人工智能消灭人类的概率超过10%。"
+    },
+    {
+      "id": 131,
+      "startMs": 723980,
+      "endMs": 729180,
+      "en": "Can you reflect for us on these series of increasingly alarmist warnings?",
+      "zh": "你能谈谈这一系列日益引发警报的警告吗？"
+    },
+    {
+      "id": 132,
+      "startMs": 729580,
+      "endMs": 736380,
+      "en": "They're not new, are they? We have been hearing various warnings from various AI bosses for the last few years.",
+      "zh": "这些警告并不新鲜，对吧？过去几年，我们一直听到各种人工智能公司高管发出的警告。"
+    },
+    {
+      "id": 133,
+      "startMs": 737200,
+      "endMs": 740400,
+      "en": "The growing call now is of course for regulation to step in.",
+      "zh": "如今越来越多的呼声，当然是要求监管介入。"
+    },
+    {
+      "id": 134,
+      "startMs": 740400,
+      "endMs": 747120,
+      "en": "You know, there is still very patchy regulation around the world, there are still companies all doing their own things on AI safety.",
+      "zh": "要知道，世界各地的监管仍很不完善，各家公司仍在各自处理人工智能安全问题。"
+    },
+    {
+      "id": 135,
+      "startMs": 747360,
+      "endMs": 755600,
+      "en": "We've had incidents where we've seen powerful AI agents getting around their guardrails and doing stuff that they're not supposed to be able to do.",
+      "zh": "我们遇到过这样的事件：功能强大的人工智能代理绕过安全护栏，做了本不该能够做到的事情。"
+    },
+    {
+      "id": 136,
+      "startMs": 755920,
+      "endMs": 760080,
+      "en": "And now we have a former researcher saying, giving us this 10% figure.",
+      "zh": "现在又有一名前研究人员提出了10%这个数字。"
+    },
+    {
+      "id": 137,
+      "startMs": 760080,
+      "endMs": 763360,
+      "en": "So I think there is a lot to bear in mind here. It is only his opinion.",
+      "zh": "所以我认为，这里有很多因素需要考虑。这只是他个人的看法。"
+    },
+    {
+      "id": 138,
+      "startMs": 763600,
+      "endMs": 769920,
+      "en": "He works in AI safety, so he will have been exposed to the absolute worst-case scenario disaster planning,",
+      "zh": "他从事人工智能安全工作，因此接触过最极端情形下的灾难规划，"
+    },
+    {
+      "id": 139,
+      "startMs": 770240,
+      "endMs": 774960,
+      "en": "and that will no doubt have given him a perspective that perhaps other people don't have.",
+      "zh": "这无疑让他形成了其他人可能没有的视角。"
+    },
+    {
+      "id": 140,
+      "startMs": 774960,
+      "endMs": 779840,
+      "en": "You've got to bear in mind that these companies also want their tools to look powerful and dangerous",
+      "zh": "还要记住，这些公司也希望自己的工具显得强大且危险，"
+    },
+    {
+      "id": 141,
+      "startMs": 779840,
+      "endMs": 783440,
+      "en": "because it makes them more powerful and also more valuable.",
+      "zh": "因为这样会让它们更强大，也更有价值。"
+    },
+    {
+      "id": 142,
+      "startMs": 783680,
+      "endMs": 788560,
+      "en": "I spoke to a top executive at one of the AI giants yesterday, actually, and he said,",
+      "zh": "事实上，我昨天与一家人工智能巨头的高管交谈过，他说："
+    },
+    {
+      "id": 143,
+      "startMs": 788800,
+      "endMs": 793440,
+      "en": "We need a UN-style body for AI safety governance. It needs to happen now.",
+      "zh": "我们需要一个类似联合国的人工智能安全治理机构。这需要立即实现。"
+    },
+    {
+      "id": 144,
+      "startMs": 793440,
+      "endMs": 797940,
+      "en": "It's been visionary in the past. It's been a kind of nice idea. Now, he says, it's pragmatic.",
+      "zh": "过去这曾是很有远见的想法，也曾是一种不错的设想。但他现在说，这很务实。"
+    },
+    {
+      "id": 145,
+      "startMs": 798020,
+      "endMs": 802420,
+      "en": "But I think it's important to note that he was not volunteering to be the person that started it.",
+      "zh": "但我认为需要指出的是，他并没有主动提出由自己来启动这件事。"
+    },
+    {
+      "id": 146,
+      "startMs": 802740,
+      "endMs": 808180,
+      "en": "And he also said, and I'm troubled by this sense, that, you know, something bad is going to happen",
+      "zh": "他还说，而这种感觉令我不安：要知道，坏事将会发生，"
+    },
+    {
+      "id": 147,
+      "startMs": 808420,
+      "endMs": 811300,
+      "en": "before the world sort of leaps into action.",
+      "zh": "然后世界才会大致采取行动。"
+    },
+    {
+      "id": 148,
+      "startMs": 811780,
+      "endMs": 813700,
+      "en": "Our technology editor, Zoe Kleinman.",
+      "zh": "我们的科技编辑佐伊·克莱因曼。"
+    },
+    {
+      "id": 149,
+      "startMs": 814600,
+      "endMs": 823400,
+      "en": "Donald Trump has doubled down on his promise to pay every American adult citizen $5,000 if his party wins the midterm elections in November.",
+      "zh": "唐纳德·特朗普再次强调，他承诺如果所在政党赢得11月的中期选举，就向每位美国成年公民支付5000美元。"
+    },
+    {
+      "id": 150,
+      "startMs": 824040,
+      "endMs": 831960,
+      "en": "Critics say that offering payments to influence voting is illegal under US federal law, and question how his government could afford it.",
+      "zh": "批评者指出，以付款影响投票在美国联邦法律下属于违法行为，并质疑他的政府如何负担得起这笔钱。"
+    },
+    {
+      "id": 151,
+      "startMs": 832600,
+      "endMs": 836680,
+      "en": "But speaking at the closing of the Republican Midterm Convention in Dallas, Texas,",
+      "zh": "但总统在得克萨斯州达拉斯举行的共和党中期选举大会闭幕式上发言时，"
+    },
+    {
+      "id": 152,
+      "startMs": 837080,
+      "endMs": 842280,
+      "en": "the President said it was possible because, he said, the US is taking in trillions of dollars.",
+      "zh": "他说这是可能的，因为美国正在获得数万亿美元的收入。"
+    },
+    {
+      "id": 153,
+      "startMs": 842840,
+      "endMs": 845480,
+      "en": "Our North America editor, Sarah Smith, was watching on.",
+      "zh": "我们的北美编辑萨拉·史密斯正在现场观看。"
+    },
+    {
+      "id": 154,
+      "startMs": 845880,
+      "endMs": 851320,
+      "en": "It was Donald Trump's own idea to have this extraordinary Republican convention,",
+      "zh": "举办这场非同寻常的共和党大会是唐纳德·特朗普自己的主意，"
+    },
+    {
+      "id": 155,
+      "startMs": 851320,
+      "endMs": 856920,
+      "en": "just like it's his idea to make the midterms campaign all about him.",
+      "zh": "就像让中期选举竞选围绕他本人展开也是他的主意一样。"
+    },
+    {
+      "id": 156,
+      "startMs": 857080,
+      "endMs": 864020,
+      "en": "And look, he definitely enthused these supporters here and excited MAGA fans across the country.",
+      "zh": "可以看到，他确实让现场支持者和全国各地的“让美国再次伟大”支持者兴奋不已。"
+    },
+    {
+      "id": 157,
+      "startMs": 864100,
+      "endMs": 870340,
+      "en": "But the crucial question is, will he have won over any of the voters who are so frustrated",
+      "zh": "但关键问题是，他能否争取到那些因生活成本高昂而深感沮丧的选民，"
+    },
+    {
+      "id": 158,
+      "startMs": 870340,
+      "endMs": 875060,
+      "en": "about the high cost of living and the war with Iran that's driving prices up further?",
+      "zh": "他们还对与伊朗的战争感到不满，因为这场战争进一步推高了物价？"
+    },
+    {
+      "id": 159,
+      "startMs": 875540,
+      "endMs": 879060,
+      "en": "There was a very extravagant promise to get their attention,",
+      "zh": "这是一个极其慷慨、旨在吸引他们注意的承诺，"
+    },
+    {
+      "id": 160,
+      "startMs": 879060,
+      "endMs": 887220,
+      "en": "with Donald Trump saying he will pay $5,000 to every American citizen if Republicans win November's election.",
+      "zh": "唐纳德·特朗普说，如果共和党赢得11月的选举，他将向每位美国公民支付5000美元。"
+    },
+    {
+      "id": 161,
+      "startMs": 887940,
+      "endMs": 896500,
+      "en": "Many doubt they will ever see a check. Trump has made similar promises before and never actually paid out.",
+      "zh": "许多人怀疑自己是否真的会拿到支票。特朗普此前也做过类似承诺，却从未真正兑现。"
+    },
+    {
+      "id": 162,
+      "startMs": 897620,
+      "endMs": 906580,
+      "en": "It was really noticeable tonight what an enthusiastic response the crowd gave Vice President JD Vance when he made his speech.",
+      "zh": "今晚，副总统J·D·万斯发表演讲时，观众表现出的热烈反响格外引人注目。"
+    },
+    {
+      "id": 163,
+      "startMs": 906980,
+      "endMs": 914980,
+      "en": "They were shouting “JD '48”, indicating they want him to be the one to take over from Donald Trump in two years' time.",
+      "zh": "他们高喊“JD 48”，表明他们希望两年后由他接替唐纳德·特朗普。"
+    },
+    {
+      "id": 164,
+      "startMs": 915700,
+      "endMs": 921620,
+      "en": "That's got to give him a significant advantage over his closest rival, the Secretary of State Marco Rubio.",
+      "zh": "这肯定让他相对于最接近的竞争对手、国务卿马可·卢比奥占据了明显优势。"
+    },
+    {
+      "id": 165,
+      "startMs": 921620,
+      "endMs": 926180,
+      "en": "He's in Peru right now, not here in Texas with the party faithful.",
+      "zh": "卢比奥目前人在秘鲁，并未和党内忠实支持者一起出现在得克萨斯州。"
+    },
+    {
+      "id": 166,
+      "startMs": 926820,
+      "endMs": 933460,
+      "en": "But this event was designed to keep the spotlight on one man, and that's Donald Trump,",
+      "zh": "但这场活动的设计就是让聚光灯聚焦一个人，那就是唐纳德·特朗普，"
+    },
+    {
+      "id": 167,
+      "startMs": 934020,
+      "endMs": 939540,
+      "en": "because he thinks he's the one that can drive voters to the polls in November.",
+      "zh": "因为他认为自己能在11月推动选民前往投票。"
+    },
+    {
+      "id": 168,
+      "startMs": 939620,
+      "endMs": 948420,
+      "en": "And by making himself the face of the Republican campaign, that means he's going to have to own it if Republicans are defeated in November.",
+      "zh": "而让自己成为共和党竞选的代表，意味着如果共和党在11月落败，他就必须承担责任。"
+    },
+    {
+      "id": 169,
+      "startMs": 949060,
+      "endMs": 952900,
+      "en": "And right now, that's what polls suggest is likely to happen. Sarah Smith.",
+      "zh": "目前，民调显示这很可能发生。萨拉·史密斯报道。"
+    },
+    {
+      "id": 170,
+      "startMs": 953900,
+      "endMs": 962380,
+      "en": "Now to South Africa, where police are handing over six Nigerian citizens wanted in the US for allegedly being involved in an online romance scam.",
+      "zh": "现在转到南非：警方正将六名尼日利亚公民移交美国；他们因涉嫌参与网络恋爱诈骗而被美国通缉。"
+    },
+    {
+      "id": 171,
+      "startMs": 962860,
+      "endMs": 969020,
+      "en": "The group is accused of targeting more than 100 women in the United States and defrauding them of more than $6 million.",
+      "zh": "这伙人被指控在美国以一百多名女性为目标，诈骗金额超过600万美元。"
+    },
+    {
+      "id": 172,
+      "startMs": 969020,
+      "endMs": 972700,
+      "en": "Our global affairs reporter, Richard Kagoe, told us more.",
+      "zh": "我们的全球事务记者理查德·卡戈埃告诉了我们更多情况。"
+    },
+    {
+      "id": 173,
+      "startMs": 973180,
+      "endMs": 977820,
+      "en": "They are accused of defrauding 100 women in the United States",
+      "zh": "他们被指控骗取了美国100名女性的钱财，"
+    },
+    {
+      "id": 174,
+      "startMs": 978140,
+      "endMs": 983820,
+      "en": "through what police in South Africa described as sophisticated online scams.",
+      "zh": "作案手段是南非警方所称的复杂网络诈骗。"
+    },
+    {
+      "id": 175,
+      "startMs": 984140,
+      "endMs": 988300,
+      "en": "So basically, they would pose as a romantic partner.",
+      "zh": "基本上，他们会伪装成恋爱对象。"
+    },
+    {
+      "id": 176,
+      "startMs": 988620,
+      "endMs": 993100,
+      "en": "They would say they were on a trip to South Africa, where they were embarking on a project.",
+      "zh": "他们会说自己正在南非旅行，并在那里开展一个项目。"
+    },
+    {
+      "id": 177,
+      "startMs": 993340,
+      "endMs": 1000620,
+      "en": "Then they get back to them and say they have been robbed—scammed, you know, by people in South Africa.",
+      "zh": "然后他们再联系对方，说自己被抢了——被南非的人骗了，你知道的。"
+    },
+    {
+      "id": 178,
+      "startMs": 1001660,
+      "endMs": 1003820,
+      "en": "And they're desperately in need of cash.",
+      "zh": "而且他们急需现金。"
+    },
+    {
+      "id": 179,
+      "startMs": 1004140,
+      "endMs": 1008860,
+      "en": "They need to buy phones, you know, laptops, and even to pay legal fees,",
+      "zh": "他们需要买手机、笔记本电脑，甚至支付法律费用，"
+    },
+    {
+      "id": 180,
+      "startMs": 1009100,
+      "endMs": 1013740,
+      "en": "because they say there's an emergency that has come up in the course of doing business.",
+      "zh": "因为他们会说做生意时出了紧急状况。"
+    },
+    {
+      "id": 181,
+      "startMs": 1013920,
+      "endMs": 1019040,
+      "en": "And so that's what they were able to do, but principally they were able to gain the trust",
+      "zh": "他们就这样行骗，但最主要的是，他们能够取得信任，"
+    },
+    {
+      "id": 182,
+      "startMs": 1019200,
+      "endMs": 1023680,
+      "en": "of these, you know, perhaps lonely pensioners and business people,",
+      "zh": "对象或许是孤独的退休人员和商界人士，你知道的，"
+    },
+    {
+      "id": 183,
+      "startMs": 1023920,
+      "endMs": 1027200,
+      "en": "And then over time they were able to request them to send them money.",
+      "zh": "随着时间推移，他们就能要求对方给自己汇钱。"
+    },
+    {
+      "id": 184,
+      "startMs": 1027200,
+      "endMs": 1032480,
+      "en": "So in the process, they were able to defraud them, and they disappeared into thin air.",
+      "zh": "于是，他们借此骗走了钱，然后消失得无影无踪。"
+    },
+    {
+      "id": 185,
+      "startMs": 1032720,
+      "endMs": 1036560,
+      "en": "Wow, it must have been heartbreaking for the victims of these scams.",
+      "zh": "真令人痛心，对这些诈骗案的受害者来说一定是这样。"
+    },
+    {
+      "id": 186,
+      "startMs": 1036560,
+      "endMs": 1042400,
+      "en": "I mean, Richard, I wonder if you can tell us more about the rise of these love scams in general.",
+      "zh": "理查德，你能否进一步谈谈这类恋爱诈骗总体上的增加？"
+    },
+    {
+      "id": 187,
+      "startMs": 1042640,
+      "endMs": 1046320,
+      "en": "Is it fair to say that a lot of them originate in Nigeria?",
+      "zh": "是否可以说，其中很多源自尼日利亚？"
+    },
+    {
+      "id": 188,
+      "startMs": 1046640,
+      "endMs": 1051200,
+      "en": "Well, you would say that predominantly some of the cases originate from Nigeria,",
+      "zh": "可以说，其中相当一部分案件源自尼日利亚，"
+    },
+    {
+      "id": 189,
+      "startMs": 1051200,
+      "endMs": 1056320,
+      "en": "but there is an organised criminal network called the Black Axe",
+      "zh": "但有一个名为“黑斧”的有组织犯罪网络，"
+    },
+    {
+      "id": 190,
+      "startMs": 1056480,
+      "endMs": 1063040,
+      "en": "and that's why the police arrested these six suspects five years ago in South Africa, because they were targeting this network",
+      "zh": "这正是警方五年前在南非逮捕这六名嫌疑人的原因，因为他们当时正在打击这个网络，"
+    },
+    {
+      "id": 191,
+      "startMs": 1063040,
+      "endMs": 1069360,
+      "en": "that has been operating not only in South Africa but in many parts of the world, but it did originate from Nigeria",
+      "zh": "这个网络不仅在南非活动，也在世界许多地方活动，但它确实起源于尼日利亚，"
+    },
+    {
+      "id": 192,
+      "startMs": 1069360,
+      "endMs": 1075300,
+      "en": "as just a student movement, and then it evolved into what it has become right now as a criminal syndicate.",
+      "zh": "最初只是一个学生运动，后来演变成如今的犯罪集团。"
+    },
+    {
+      "id": 193,
+      "startMs": 1075620,
+      "endMs": 1080660,
+      "en": "And then also in Nigeria, you'd have groups of young people who call themselves Yahoo Boys.",
+      "zh": "此外，在尼日利亚还有一些自称“雅虎男孩”的年轻人群体。"
+    },
+    {
+      "id": 194,
+      "startMs": 1080660,
+      "endMs": 1087780,
+      "en": "So they're just a network of individuals, so they don't have jobs, maybe because perhaps of the socioeconomic situation in Nigeria.",
+      "zh": "他们只是由个人组成的网络；或许由于尼日利亚的社会经济状况，他们没有工作。"
+    },
+    {
+      "id": 195,
+      "startMs": 1087780,
+      "endMs": 1095460,
+      "en": "So you have a huge population of young people who are educated, but they don't have job opportunities.",
+      "zh": "因此，那里有大量受过教育却没有就业机会的年轻人。"
+    },
+    {
+      "id": 196,
+      "startMs": 1095700,
+      "endMs": 1102580,
+      "en": "And so, for some of them, they see that online romance scams are an easy, lucrative way out of poverty.",
+      "zh": "所以对其中一些人来说，网络恋爱诈骗似乎是摆脱贫困的轻松且有利可图的途径。"
+    },
+    {
+      "id": 197,
+      "startMs": 1102660,
+      "endMs": 1108020,
+      "en": "So that's how you would see some Nigerian nationals have really been caught up in this crime. Richard Kagoe.",
+      "zh": "这就是为什么一些尼日利亚公民会深陷这类犯罪。理查德·卡戈埃。"
+    },
+    {
+      "id": 198,
+      "startMs": 1109380,
+      "endMs": 1116660,
+      "en": "And finally, a new frontier has opened up for American football. The NFL has played regular-season games in seven countries.",
+      "zh": "最后，美国橄榄球又开辟了一个新领域。NFL已经在七个国家举行过常规赛。"
+    },
+    {
+      "id": 199,
+      "startMs": 1116660,
+      "endMs": 1119460,
+      "en": "Now it has held its first-ever game in Australia.",
+      "zh": "如今，NFL首次在澳大利亚举行了比赛。"
+    },
+    {
+      "id": 200,
+      "startMs": 1120020,
+      "endMs": 1125220,
+      "en": "The city of Melbourne hosted the NFL game, with the San Francisco 49ers taking on the LA Rams.",
+      "zh": "墨尔本举办了这场NFL比赛，旧金山49人队对阵洛杉矶公羊队。"
+    },
+    {
+      "id": 201,
+      "startMs": 1125700,
+      "endMs": 1130180,
+      "en": "More than 100,000 fans packed into the Melbourne Cricket Ground to watch the game.",
+      "zh": "超过十万名球迷涌入墨尔本板球场观看比赛。"
+    },
+    {
+      "id": 202,
+      "startMs": 1130580,
+      "endMs": 1134180,
+      "en": "These fans couldn't wait for the NFL to touch down in Australia.",
+      "zh": "这些球迷早就迫不及待地等待NFL来到澳大利亚。"
+    },
+    {
+      "id": 203,
+      "startMs": 1134660,
+      "endMs": 1137700,
+      "en": "Love the NFL. Been going for years. It's actually our fourth Rams game.",
+      "zh": "我喜欢NFL，已经看了很多年。这其实是我们看的第四场公羊队比赛。"
+    },
+    {
+      "id": 204,
+      "startMs": 1137700,
+      "endMs": 1141300,
+      "en": "So, first one at home, but we've been to a few in LA and the US. Fantastic.",
+      "zh": "所以这是第一次在主场看，但我们在洛杉矶和美国其他地方看过几场。太棒了。"
+    },
+    {
+      "id": 205,
+      "startMs": 1141380,
+      "endMs": 1146020,
+      "en": "We've been Niners fans for a long, long time, so we flew in from New Jersey.",
+      "zh": "我们当49人队球迷已经很久了，所以专程从新泽西飞来。"
+    },
+    {
+      "id": 206,
+      "startMs": 1146420,
+      "endMs": 1148900,
+      "en": "Yeah, big day. Can't wait. I've been wanting this to happen for a while.",
+      "zh": "是啊，这是个大日子。我等不及了，一直盼着这件事发生。"
+    },
+    {
+      "id": 207,
+      "startMs": 1149540,
+      "endMs": 1152340,
+      "en": "Melbourne radio presenter Charlie Pickering was there.",
+      "zh": "墨尔本电台主持人查理·皮克林也在现场。"
+    },
+    {
+      "id": 208,
+      "startMs": 1152500,
+      "endMs": 1160020,
+      "en": "What definitely happened here and what we definitely saw today was that there are a lot of NFL fans here in Australia, and they came out in force.",
+      "zh": "今天这里确实发生、我们确实看到的是：澳大利亚有很多NFL球迷，他们倾巢而出。"
+    },
+    {
+      "id": 209,
+      "startMs": 1160020,
+      "endMs": 1165140,
+      "en": "It was funny, getting on the train to come into the ground today.",
+      "zh": "今天坐火车来球场时，感觉很有意思。"
+    },
+    {
+      "id": 210,
+      "startMs": 1165300,
+      "endMs": 1168900,
+      "en": "Heading in, you started to spot more and more people wearing their team jerseys.",
+      "zh": "进场时，你开始看到越来越多的人穿着自己球队的球衣。"
+    },
+    {
+      "id": 211,
+      "startMs": 1168920,
+      "endMs": 1175160,
+      "en": "Of all different teams, and the names on the back, the players on the back, suggest these have been fans for a long time.",
+      "zh": "球衣来自各支不同的球队，背后的名字和球员姓名显示，他们已经当球迷很久了。"
+    },
+    {
+      "id": 212,
+      "startMs": 1175640,
+      "endMs": 1179480,
+      "en": "And this is probably the first time they've all been in one spot like this before.",
+      "zh": "这可能是他们第一次像这样聚在同一个地方。"
+    },
+    {
+      "id": 213,
+      "startMs": 1179720,
+      "endMs": 1183000,
+      "en": "It was like a massive family reunion of people",
+      "zh": "这就像一场大型家庭聚会，一群人"
+    },
+    {
+      "id": 214,
+      "startMs": 1183160,
+      "endMs": 1189240,
+      "en": "who didn't know that there were other people like them out there who were so serious about their football.",
+      "zh": "他们原本不知道外面还有这么多和自己一样、如此热爱橄榄球的人。"
+    },
+    {
+      "id": 215,
+      "startMs": 1189320,
+      "endMs": 1192520,
+      "en": "So I will say that there are a lot of fans here in Australia.",
+      "zh": "所以我会说，澳大利亚这里有很多球迷。"
+    },
+    {
+      "id": 216,
+      "startMs": 1192520,
+      "endMs": 1198200,
+      "en": "We love sport, and there are a lot of NFL fans, but this was probably the first time that they could all come together.",
+      "zh": "我们热爱体育，也有很多NFL球迷，但这可能是他们第一次能够聚在一起。"
+    },
+    {
+      "id": 217,
+      "startMs": 1198200,
+      "endMs": 1202200,
+      "en": "See a game, obviously for the first time in Australia, and really feel like they had a community.",
+      "zh": "他们第一次在澳大利亚看比赛，真正感受到自己属于一个群体。"
+    },
+    {
+      "id": 218,
+      "startMs": 1202440,
+      "endMs": 1208920,
+      "en": "And I think the NFL, American football, is something different again. It's so uniquely American.",
+      "zh": "我认为NFL，也就是美式橄榄球，又是另一种不同的事物。它极具美国特色。"
+    },
+    {
+      "id": 219,
+      "startMs": 1208920,
+      "endMs": 1215720,
+      "en": "There's literally only 32 teams in the entire world that play at the highest level, and it is such a spectacle.",
+      "zh": "全世界真正处于最高水平的球队实际上只有32支，而这是一场盛大的体育盛会。"
+    },
+    {
+      "id": 220,
+      "startMs": 1216040,
+      "endMs": 1220760,
+      "en": "It's safe to say that football got a foothold today. I think that's absolutely true.",
+      "zh": "可以肯定地说，美式橄榄球今天站稳了脚跟。我完全同意。"
+    },
+    {
+      "id": 221,
+      "startMs": 1220920,
+      "endMs": 1224280,
+      "en": "Maybe it's not everyone's cup of tea, but it is building an audience, definitely.",
+      "zh": "也许不是所有人的兴趣所在，但它确实正在培养观众。"
+    },
+    {
+      "id": 222,
+      "startMs": 1224360,
+      "endMs": 1227800,
+      "en": "And the results: the 49ers beat the Rams 27–7.",
+      "zh": "比赛结果是：49人队以27比7击败公羊队。"
+    },
+    {
+      "id": 223,
+      "startMs": 1231040,
+      "endMs": 1233360,
+      "en": "And that's all from us for now. If you want to get in touch,",
+      "zh": "以上就是我们目前的全部内容。如果你想联系我们，"
+    },
+    {
+      "id": 224,
+      "startMs": 1233360,
+      "endMs": 1237120,
+      "en": "you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 225,
+      "startMs": 1237120,
+      "endMs": 1243040,
+      "en": "You can also now watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "现在你还可以观看我们的完整节目，只需在YouTube上搜索《Global News Podcast》。"
+    },
+    {
+      "id": 226,
+      "startMs": 1243520,
+      "endMs": 1251760,
+      "en": "This edition was mixed by Callum McLean, and the producer was Alfie Habershon. The editor is Karen Martin. I am Celia Hatton. Until next time, goodbye.",
+      "zh": "本期由卡勒姆·麦克莱恩混音，制作人是阿尔菲·哈伯肖恩。编辑是凯伦·马丁。我是西莉娅·哈顿。下次再见。"
+    }
+  ]
+}

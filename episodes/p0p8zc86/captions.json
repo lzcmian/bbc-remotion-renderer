@@ -1,0 +1,2139 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "10 September 2026"
+  },
+  "durationMs": 1668960,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3360,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5640,
+      "endMs": 11960,
+      "en": "I'm Celia Hatton, and at 14:00 GMT on Thursday, the 10th of September, these are our main stories.",
+      "zh": "我是西莉亚·哈顿。现在是9月10日星期四格林尼治时间14点，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12520,
+      "endMs": 20360,
+      "en": "A massive search operation is continuing in the waters off the Philippines following an explosion on board a ferry. Dozens of people are missing.",
+      "zh": "菲律宾近海一艘渡轮发生爆炸后，大规模搜救行动仍在继续。数十人失踪。"
+    },
+    {
+      "id": 4,
+      "startMs": 21360,
+      "endMs": 29920,
+      "en": "A port city in Yemen has just been captured by the Houthi rebel group, a major blow to the Yemeni government which has been fighting the Houthis for more than a decade.",
+      "zh": "也门一座港口城市刚被胡塞叛军夺取，这是对与胡塞武装交战十多年的也门政府的重大打击。"
+    },
+    {
+      "id": 5,
+      "startMs": 30400,
+      "endMs": 31280,
+      "en": "We'll hear from the region.",
+      "zh": "我们将听取来自该地区的报道。"
+    },
+    {
+      "id": 6,
+      "startMs": 33540,
+      "endMs": 39220,
+      "en": "Also in this podcast, you might remember the excitement around the Artemis Moon Mission in April.",
+      "zh": "本期还将报道：你或许还记得4月阿耳忒弥斯登月任务引发的轰动。"
+    },
+    {
+      "id": 7,
+      "startMs": 39460,
+      "endMs": 40900,
+      "en": "I have absolutely no idea what to say.",
+      "zh": "我完全不知道该说什么。"
+    },
+    {
+      "id": 8,
+      "startMs": 41140,
+      "endMs": 47420,
+      "en": "This is... 24 hours ago, the Earth was that big out the window and we were doing Mach 39, and here we are back at Ellington at home.",
+      "zh": "这真是……24小时前，窗外的地球还那么大，而我们正以39马赫飞行；现在我们已经回到埃灵顿的家中。"
+    },
+    {
+      "id": 9,
+      "startMs": 52040,
+      "endMs": 56520,
+      "en": "Two of the astronauts involved with that say they won't be involved in spaceflight again.",
+      "zh": "参与该任务的四名宇航员中，有两人表示不会再参与太空飞行。"
+    },
+    {
+      "id": 10,
+      "startMs": 56760,
+      "endMs": 57560,
+      "en": "We'll tell you more.",
+      "zh": "稍后为你详细介绍。"
+    },
+    {
+      "id": 11,
+      "startMs": 61500,
+      "endMs": 69660,
+      "en": "Now to the Philippines. It's nighttime there as we record this podcast, and rescuers are frantically searching for around 90 people missing.",
+      "zh": "现在来看菲律宾的消息。我们录制本期播客时，当地正值夜间，救援人员正在拼命搜寻约90名失踪人员。"
+    },
+    {
+      "id": 12,
+      "startMs": 69660,
+      "endMs": 73020,
+      "en": "A passenger ferry caught fire after an explosion.",
+      "zh": "一艘客轮在爆炸后起火。"
+    },
+    {
+      "id": 13,
+      "startMs": 73660,
+      "endMs": 75340,
+      "en": "Five have already been found dead.",
+      "zh": "已有5人被发现死亡。"
+    },
+    {
+      "id": 14,
+      "startMs": 75740,
+      "endMs": 80780,
+      "en": "The ferry, the MV June Aster, is afloat but tilting heavily to one side.",
+      "zh": "这艘名为 MV June Aster 的渡轮仍漂浮在水面上，但严重向一侧倾斜。"
+    },
+    {
+      "id": 15,
+      "startMs": 81260,
+      "endMs": 87340,
+      "en": "The Philippine Coast Guard has held a news conference. Its spokesperson, Commodore Noemie Cayabyab, said thick smoke continues to billow from the vessel.",
+      "zh": "菲律宾海岸警卫队举行了新闻发布会。其发言人诺埃米·卡亚比亚布准将说，船只仍不断冒出浓烟。"
+    },
+    {
+      "id": 16,
+      "startMs": 87420,
+      "endMs": 92700,
+      "en": "That's preventing rescuers from boarding the ship.",
+      "zh": "浓烟阻碍救援人员登船。"
+    },
+    {
+      "id": 17,
+      "startMs": 92940,
+      "endMs": 99980,
+      "en": "The challenge we're seeing right now is the strong winds. So that is limiting our response.",
+      "zh": "我们眼下遇到的挑战是强风，这限制了我们的应对行动。"
+    },
+    {
+      "id": 18,
+      "startMs": 100540,
+      "endMs": 105100,
+      "en": "No matter how much we put out the fire, there are external factors that could reignite fire.",
+      "zh": "无论我们扑灭多少火，外部因素都可能让火势复燃。"
+    },
+    {
+      "id": 19,
+      "startMs": 105340,
+      "endMs": 110380,
+      "en": "According to our Coast Guard station commander in the area, there are no longer flames inside the ship.",
+      "zh": "据当地海岸警卫队站长说，船内已经没有火焰。"
+    },
+    {
+      "id": 20,
+      "startMs": 111100,
+      "endMs": 114220,
+      "en": "What we are taking into consideration is smoke in the ship.",
+      "zh": "我们需要考虑的是船内的烟雾。"
+    },
+    {
+      "id": 21,
+      "startMs": 114940,
+      "endMs": 117900,
+      "en": "If our personnel get on board, they could be suffocated.",
+      "zh": "如果我们的人员登船，可能会窒息。"
+    },
+    {
+      "id": 22,
+      "startMs": 118220,
+      "endMs": 121680,
+      "en": "So we are ensuring the safety on the ship before we go on board.",
+      "zh": "因此，在登船前，我们要先确保船上安全。"
+    },
+    {
+      "id": 23,
+      "startMs": 122160,
+      "endMs": 127200,
+      "en": "The Philippines is an archipelago of thousands of islands, so it's dependent on boat travel.",
+      "zh": "菲律宾是由数千座岛屿组成的群岛国家，因此依赖船运。"
+    },
+    {
+      "id": 24,
+      "startMs": 127520,
+      "endMs": 133840,
+      "en": "Ferries are a cheap way to move people and cargo between islands, some of which are inaccessible by air.",
+      "zh": "渡轮是岛屿之间运送人员和货物的廉价方式，其中一些岛屿无法通过航空抵达。"
+    },
+    {
+      "id": 25,
+      "startMs": 134320,
+      "endMs": 139040,
+      "en": "But as we'll hear, it also has a very bad record for deadly marine accidents.",
+      "zh": "但正如我们将听到的，菲律宾致命海上事故频发，记录相当糟糕。"
+    },
+    {
+      "id": 26,
+      "startMs": 139680,
+      "endMs": 142320,
+      "en": "Karen Lema is the Reuters bureau chief in Manila.",
+      "zh": "Karen Lema 是路透社驻马尼拉分社社长。"
+    },
+    {
+      "id": 27,
+      "startMs": 142800,
+      "endMs": 146240,
+      "en": "When I spoke with her, she began by telling me more about the news conference.",
+      "zh": "我与她交谈时，她先进一步介绍了那场新闻发布会。"
+    },
+    {
+      "id": 28,
+      "startMs": 146400,
+      "endMs": 152880,
+      "en": "The Philippine Coast Guard just ended a press conference a while ago where we heard from the spokesperson.",
+      "zh": "菲律宾海岸警卫队刚刚结束新闻发布会，我们听取了发言人的介绍。"
+    },
+    {
+      "id": 29,
+      "startMs": 153280,
+      "endMs": 163600,
+      "en": "It was about their conversation with one of the survivors, who reported hearing an explosion before the blaze quickly spread in the ferry.",
+      "zh": "内容涉及他们与一名幸存者的谈话；这名幸存者说，他听到爆炸声，随后火焰迅速在渡轮上蔓延。"
+    },
+    {
+      "id": 30,
+      "startMs": 164000,
+      "endMs": 167600,
+      "en": "That is the thing. It still remains unclear what caused it.",
+      "zh": "问题就在这里：目前仍不清楚是什么引发了爆炸。"
+    },
+    {
+      "id": 31,
+      "startMs": 168400,
+      "endMs": 173440,
+      "en": "She didn't want to speculate, obviously, on what might have been the reason behind the explosion.",
+      "zh": "显然，她不愿猜测爆炸背后的原因。"
+    },
+    {
+      "id": 32,
+      "startMs": 173520,
+      "endMs": 177920,
+      "en": "That is still a question that remains to be answered by the Philippine Coast Guard.",
+      "zh": "这仍是菲律宾海岸警卫队有待回答的问题。"
+    },
+    {
+      "id": 33,
+      "startMs": 178080,
+      "endMs": 184340,
+      "en": "And what more can you tell us about the rescue effort? Have emergency crews made it on board the ship yet?",
+      "zh": "关于救援行动，你还能告诉我们什么？应急人员已经登船了吗？"
+    },
+    {
+      "id": 34,
+      "startMs": 185060,
+      "endMs": 193780,
+      "en": "Interestingly, they have definitely deployed a lot of vessels. It's become a comprehensive rescue and search.",
+      "zh": "有意思的是，他们确实部署了大量船只，已经展开全面的搜救行动。"
+    },
+    {
+      "id": 35,
+      "startMs": 194260,
+      "endMs": 201380,
+      "en": "The problem is they could not approach the vessel at this point until the fire has been completely extinguished.",
+      "zh": "问题是，在火势完全扑灭前，他们目前还无法靠近船只。"
+    },
+    {
+      "id": 36,
+      "startMs": 201940,
+      "endMs": 206740,
+      "en": "I don't know if you've seen some of the drone footage that the Coast Guard has handed out.",
+      "zh": "不知道你是否看过海岸警卫队发布的一些无人机画面。"
+    },
+    {
+      "id": 37,
+      "startMs": 206900,
+      "endMs": 212420,
+      "en": "But you can see from these images how charred the vessel is.",
+      "zh": "但从这些画面可以看到，船只被烧得面目全非。"
+    },
+    {
+      "id": 38,
+      "startMs": 212660,
+      "endMs": 216980,
+      "en": "And there's still thick smoke that continues to billow from the vessel.",
+      "zh": "船只仍在不断冒出浓烟。"
+    },
+    {
+      "id": 39,
+      "startMs": 217060,
+      "endMs": 224260,
+      "en": "That's making it difficult for the rescuers to attempt to enter the vessel, complicating and hampering the rescue efforts.",
+      "zh": "这让救援人员难以尝试进入船内，使救援工作复杂化并受到阻碍。"
+    },
+    {
+      "id": 40,
+      "startMs": 224500,
+      "endMs": 233140,
+      "en": "They're worried about the extreme heat that rescuers might experience, and they're also concerned that there might be explosions inside the vessel.",
+      "zh": "他们担心救援人员会遭遇极端高温，也担心船内可能发生爆炸。"
+    },
+    {
+      "id": 41,
+      "startMs": 233220,
+      "endMs": 234900,
+      "en": "So we're still waiting on that.",
+      "zh": "所以我们仍在等待消息。"
+    },
+    {
+      "id": 42,
+      "startMs": 234980,
+      "endMs": 240340,
+      "en": "According to the Coast Guard, they're hoping that they could do that before the end of the day.",
+      "zh": "海岸警卫队表示，他们希望能在当天结束前做到这一点。"
+    },
+    {
+      "id": 43,
+      "startMs": 240660,
+      "endMs": 242920,
+      "en": "But yeah, it's been complicated by that.",
+      "zh": "不过，是的，这让事情变得复杂。"
+    },
+    {
+      "id": 44,
+      "startMs": 242920,
+      "endMs": 250840,
+      "en": "Karen, why are marine accidents a recurring problem in the Philippines, a country that is so dependent on boat travel?",
+      "zh": "Karen，菲律宾如此依赖船运，为什么海上事故却一再发生？"
+    },
+    {
+      "id": 45,
+      "startMs": 251160,
+      "endMs": 255800,
+      "en": "A ferry capsized in January, killing at least 65 people.",
+      "zh": "今年1月一艘渡轮倾覆，造成至少65人死亡。"
+    },
+    {
+      "id": 46,
+      "startMs": 256040,
+      "endMs": 259080,
+      "en": "Why can't the authorities get a handle on this issue?",
+      "zh": "当局为什么无法控制这一问题？"
+    },
+    {
+      "id": 47,
+      "startMs": 259240,
+      "endMs": 268200,
+      "en": "You know that the Philippines is an archipelago of more than 7,600 islands, so inter-island travel is very common.",
+      "zh": "菲律宾是由7600多座岛屿组成的群岛国家，岛际交通十分普遍。"
+    },
+    {
+      "id": 48,
+      "startMs": 268200,
+      "endMs": 273160,
+      "en": "A lot of people rely on it as a means of transportation, and obviously it's a cheaper option.",
+      "zh": "许多人依靠这种交通方式出行，而且它显然更便宜。"
+    },
+    {
+      "id": 49,
+      "startMs": 273720,
+      "endMs": 278440,
+      "en": "But if we've seen the track record of the country, it's a bit patchy.",
+      "zh": "但从这个国家的历史记录来看，情况并不理想。"
+    },
+    {
+      "id": 50,
+      "startMs": 278840,
+      "endMs": 285720,
+      "en": "A lot of it is due to overloading, overcrowding, lax regulations in terms of enforcement.",
+      "zh": "很大一部分原因在于超载、过度拥挤，以及监管规定执行不力。"
+    },
+    {
+      "id": 51,
+      "startMs": 286120,
+      "endMs": 289800,
+      "en": "But of course, we hear from officials that they've been trying to tighten this.",
+      "zh": "当然，官员们表示一直在努力加强监管。"
+    },
+    {
+      "id": 52,
+      "startMs": 290120,
+      "endMs": 295480,
+      "en": "They've been doing a lot of screening, and in fact the Coast Guard official just told us today.",
+      "zh": "他们一直在进行大量检查；事实上，海岸警卫队官员今天刚告诉我们。"
+    },
+    {
+      "id": 53,
+      "startMs": 295560,
+      "endMs": 301740,
+      "en": "The vessel actually passed a safety compliance assessment that they've conducted.",
+      "zh": "这艘船确实通过了他们进行的安全合规评估。"
+    },
+    {
+      "id": 54,
+      "startMs": 302620,
+      "endMs": 309820,
+      "en": "It should have enough. When they did the checks, it says that they've had enough life vests for the passengers.",
+      "zh": "按理说应该足够。检查时的记录显示，船上有足够乘客使用的救生衣。"
+    },
+    {
+      "id": 55,
+      "startMs": 310220,
+      "endMs": 312300,
+      "en": "But that has often been the case.",
+      "zh": "但过去经常都是这种情况。"
+    },
+    {
+      "id": 56,
+      "startMs": 312380,
+      "endMs": 318060,
+      "en": "Overcrowding, overloading was a common reason, and the other enforcement of regulations.",
+      "zh": "过度拥挤、超载是常见原因，另一个原因是法规执行问题。"
+    },
+    {
+      "id": 57,
+      "startMs": 318060,
+      "endMs": 321180,
+      "en": "Officials are saying that they've been trying to address that.",
+      "zh": "官员们表示，他们一直在努力解决这些问题。"
+    },
+    {
+      "id": 58,
+      "startMs": 321180,
+      "endMs": 326060,
+      "en": "So that's why, if you look at the history of the Philippines and marine record, you see this.",
+      "zh": "因此，如果你看看菲律宾的历史和海上事故记录，就会看到这种情况。"
+    },
+    {
+      "id": 59,
+      "startMs": 326140,
+      "endMs": 330140,
+      "en": "These tragedies occurring, which is of course very unfortunate.",
+      "zh": "悲剧不断发生，这当然非常令人遗憾。"
+    },
+    {
+      "id": 60,
+      "startMs": 330620,
+      "endMs": 332620,
+      "en": "Karen Lema, speaking to us from Manila.",
+      "zh": "Karen Lema 从马尼拉为我们报道。"
+    },
+    {
+      "id": 61,
+      "startMs": 333660,
+      "endMs": 336540,
+      "en": "Now to a major military development in Yemen.",
+      "zh": "现在来看也门的一项重大军事进展。"
+    },
+    {
+      "id": 62,
+      "startMs": 337020,
+      "endMs": 344540,
+      "en": "The government there has been battling the Houthi rebel group for more than ten years, and today a strategic port hub has fallen to the rebels.",
+      "zh": "也门政府与胡塞叛军已交战十多年。今天，一个战略港口枢纽落入叛军手中。"
+    },
+    {
+      "id": 63,
+      "startMs": 345020,
+      "endMs": 351820,
+      "en": "Houthi fighters have seized the city of Mocha on the coast of a key shipping route linking the Red Sea and the Indian Ocean.",
+      "zh": "胡塞武装夺取了穆哈市。该市位于连接红海与印度洋的重要航道沿岸。"
+    },
+    {
+      "id": 64,
+      "startMs": 352460,
+      "endMs": 360860,
+      "en": "That change comes after days of increased escalation and fighting between the government, backed by Saudi Arabia, and the Houthis, who are backed by Iran.",
+      "zh": "这一变化发生在战事升级数日之后。也门政府获沙特支持，胡塞武装则获伊朗支持。"
+    },
+    {
+      "id": 65,
+      "startMs": 361180,
+      "endMs": 363500,
+      "en": "Our global affairs reporter is Richard Kagoe.",
+      "zh": "我们的全球事务记者是理查德·卡戈。"
+    },
+    {
+      "id": 66,
+      "startMs": 363740,
+      "endMs": 374940,
+      "en": "So what we have, the latest from Yemen, is that the port city of Mocha has been overrun by the Houthi fighters.",
+      "zh": "也门的最新情况是，港口城市穆哈已被胡塞武装占领。"
+    },
+    {
+      "id": 67,
+      "startMs": 375260,
+      "endMs": 379500,
+      "en": "The city fell to the Houthi fighters on Thursday morning.",
+      "zh": "这座城市于周四上午落入胡塞武装手中。"
+    },
+    {
+      "id": 68,
+      "startMs": 379820,
+      "endMs": 385420,
+      "en": "Government forces have reportedly withdrawn from the city.",
+      "zh": "据报道，政府军已撤出这座城市。"
+    },
+    {
+      "id": 69,
+      "startMs": 385660,
+      "endMs": 390940,
+      "en": "Together with their allied fighters, they are heading south to a town called Dhubab.",
+      "zh": "他们与盟军一起向南撤往一座名为杜巴卜的城镇。"
+    },
+    {
+      "id": 70,
+      "startMs": 391260,
+      "endMs": 395440,
+      "en": "So this is a very strategic town on the Red Sea coast in Yemen.",
+      "zh": "这是一座位于也门红海沿岸、极具战略意义的城镇。"
+    },
+    {
+      "id": 71,
+      "startMs": 396160,
+      "endMs": 403520,
+      "en": "Tell us more about the importance of this port and why there has been so much fighting over its status.",
+      "zh": "请详细介绍这个港口的重要性，以及围绕其归属爆发激烈战斗的原因。"
+    },
+    {
+      "id": 72,
+      "startMs": 403760,
+      "endMs": 413360,
+      "en": "There has been fighting, actually, and this was reignited last week, on Thursday, between government forces and the Houthi fighters.",
+      "zh": "事实上一直在交战，而且上周四政府军与胡塞武装之间的战斗再次爆发。"
+    },
+    {
+      "id": 73,
+      "startMs": 413440,
+      "endMs": 422800,
+      "en": "What has happened is that the militants have been targeting to gain more control of strategic towns along the Red Sea coast.",
+      "zh": "发生的情况是，武装分子一直试图控制红海沿岸更多战略城镇。"
+    },
+    {
+      "id": 74,
+      "startMs": 423120,
+      "endMs": 428160,
+      "en": "So their endgame, basically, is to gain control of the Bab al-Mandab Strait.",
+      "zh": "所以，他们的最终目标基本上是控制曼德海峡。"
+    },
+    {
+      "id": 75,
+      "startMs": 429760,
+      "endMs": 437840,
+      "en": "It is on the Red Sea coast, and it is a very key passage that links the Red Sea to the Indian Ocean.",
+      "zh": "它位于红海沿岸，是连接红海与印度洋的关键通道。"
+    },
+    {
+      "id": 76,
+      "startMs": 437840,
+      "endMs": 442000,
+      "en": "It is an important shipping lane where ships transiting from the Gulf with goods, and also heading to Europe, normally pass through.",
+      "zh": "这是一条重要航道，来自海湾、载着货物前往欧洲的船只通常会经过这里。"
+    },
+    {
+      "id": 77,
+      "startMs": 444400,
+      "endMs": 448560,
+      "en": "Ships also heading to Asia normally pass through.",
+      "zh": "前往亚洲的船只通常也会经过这里。"
+    },
+    {
+      "id": 78,
+      "startMs": 448720,
+      "endMs": 453200,
+      "en": "This has been a spillover of the conflict that we have been seeing in the other strait.",
+      "zh": "这是我们在另一条海峡看到的冲突外溢。"
+    },
+    {
+      "id": 79,
+      "startMs": 453380,
+      "endMs": 460340,
+      "en": "That is the Strait of Hormuz, where we have been seeing fighting between US forces and Iran.",
+      "zh": "那就是霍尔木兹海峡，那里一直有美军与伊朗之间的战斗。"
+    },
+    {
+      "id": 80,
+      "startMs": 460580,
+      "endMs": 467140,
+      "en": "So this has been a strategy for them to push and to gain control over this strategic pathway.",
+      "zh": "因此，这是他们推进并控制这一战略通道的一项策略。"
+    },
+    {
+      "id": 81,
+      "startMs": 467540,
+      "endMs": 476420,
+      "en": "It is because they have also intensified attacks across the border in Saudi Arabia, within these southwestern regions.",
+      "zh": "这也因为他们加强了对沙特阿拉伯西南部地区的越境袭击。"
+    },
+    {
+      "id": 82,
+      "startMs": 476660,
+      "endMs": 484820,
+      "en": "Richard, as you have been reflecting, this conflict has global implications, doesn't it? What has it been doing to the price of oil?",
+      "zh": "理查德，正如你所说，这场冲突影响全球，对油价造成了什么影响？"
+    },
+    {
+      "id": 83,
+      "startMs": 485060,
+      "endMs": 494740,
+      "en": "Absolutely. The price of oil has risen sharply in the past couple of days and is now slightly over $100 per barrel.",
+      "zh": "确实如此。过去几天油价大幅上涨，目前略高于每桶100美元。"
+    },
+    {
+      "id": 84,
+      "startMs": 495460,
+      "endMs": 503780,
+      "en": "What this really means is that we are going to see global inflation, also the delivery of this critical supply.",
+      "zh": "这意味着全球通胀将会出现，关键供应的运输也会受到影响。"
+    },
+    {
+      "id": 85,
+      "startMs": 503780,
+      "endMs": 506980,
+      "en": "Because of the fighting in the Strait of Hormuz, what has happened is that...",
+      "zh": "由于霍尔木兹海峡的战斗，情况是……"
+    },
+    {
+      "id": 86,
+      "startMs": 507940,
+      "endMs": 516120,
+      "en": "The Saudi Arabian authorities have been shipping out the precious commodity now through the Red Sea.",
+      "zh": "沙特当局现在一直通过红海运出这种珍贵商品。"
+    },
+    {
+      "id": 87,
+      "startMs": 516280,
+      "endMs": 521720,
+      "en": "But with these sorts of disruptions, you are likely to see a rise in global inflation.",
+      "zh": "但有了这些干扰，全球通胀可能会上升。"
+    },
+    {
+      "id": 88,
+      "startMs": 521960,
+      "endMs": 527960,
+      "en": "We are expecting to hear from the European Union Central Bank if they are going to be announcing a new interest rate.",
+      "zh": "我们正等待欧洲联盟中央银行宣布是否调整利率。"
+    },
+    {
+      "id": 89,
+      "startMs": 527960,
+      "endMs": 532600,
+      "en": "So everybody at the moment is watching, and I was really hoping for a bit of relief.",
+      "zh": "所以现在所有人都在关注，我原本真的希望能得到一点缓解。"
+    },
+    {
+      "id": 90,
+      "startMs": 532600,
+      "endMs": 537160,
+      "en": "But now, with the surge in fighting in the entire region, it is really going to cause massive disruptions.",
+      "zh": "但如今整个地区战事升级，势必造成大规模 disruption。"
+    },
+    {
+      "id": 91,
+      "startMs": 537400,
+      "endMs": 543400,
+      "en": "It is going to cause massive disruptions in terms of logistics and also the supply of oil.",
+      "zh": "这将严重扰乱物流，也会影响石油供应。"
+    },
+    {
+      "id": 92,
+      "startMs": 544220,
+      "endMs": 545740,
+      "en": "Richard Kagoe in Nairobi.",
+      "zh": "理查德·卡戈从内罗毕报道。"
+    },
+    {
+      "id": 93,
+      "startMs": 547420,
+      "endMs": 555420,
+      "en": "To the US now. President Trump has promised $5,000 to every adult American citizen if the Republicans win the midterm elections.",
+      "zh": "现在转向美国。特朗普承诺，如果共和党赢得中期选举，每位成年美国公民都能得到5000美元。"
+    },
+    {
+      "id": 94,
+      "startMs": 555900,
+      "endMs": 564220,
+      "en": "It is unclear where the money, totaling around $1.3 trillion, would come from, or if President Trump is breaking the law by offering it.",
+      "zh": "目前不清楚这笔总额约1.3万亿美元的钱从何而来，也不清楚特朗普总统这样提供是否违法。"
+    },
+    {
+      "id": 95,
+      "startMs": 564700,
+      "endMs": 572860,
+      "en": "He made the announcement at a Republican Party convention in Texas, which the Democratic Party has described as a flashy distraction from real issues.",
+      "zh": "他在得州共和党大会上宣布了这一消息。民主党称这是转移现实问题的华丽噱头。"
+    },
+    {
+      "id": 96,
+      "startMs": 573340,
+      "endMs": 575980,
+      "en": "Our North America editor Sarah Smith was at the convention.",
+      "zh": "我们的北美编辑莎拉·史密斯在大会现场。"
+    },
+    {
+      "id": 97,
+      "startMs": 576380,
+      "endMs": 584060,
+      "en": "Donald Trump has just finished his big speech to supporters at this Republican convention, and he told them the midterm elections coming up in November.",
+      "zh": "唐纳德·特朗普刚在共和党大会上向支持者发表演讲，并告诉他们中期选举将在11月举行。"
+    },
+    {
+      "id": 98,
+      "startMs": 584060,
+      "endMs": 589340,
+      "en": "They are going to be one of the most important elections in American history.",
+      "zh": "他说，这将是美国历史上最重要的选举之一。"
+    },
+    {
+      "id": 99,
+      "startMs": 589980,
+      "endMs": 596620,
+      "en": "Then, to try to guarantee a Republican victory in those elections, he made a rather surprising promise.",
+      "zh": "随后，为了确保共和党赢得选举，他作出了一项相当令人意外的承诺。"
+    },
+    {
+      "id": 100,
+      "startMs": 596620,
+      "endMs": 606800,
+      "en": "He said he would pay $5,000 to every adult in America if, and only if, the Republicans win those midterm elections.",
+      "zh": "他说，只有共和党赢得中期选举，他才会向每位美国成年人支付5000美元。"
+    },
+    {
+      "id": 101,
+      "startMs": 606960,
+      "endMs": 612160,
+      "en": "So if the Republicans win, you win with us and you get $5,000.",
+      "zh": "所以，如果共和党获胜，你就和我们一起赢，还能得到5000美元。"
+    },
+    {
+      "id": 102,
+      "startMs": 612160,
+      "endMs": 617800,
+      "en": "It will be called the Trump dividend. We will call it the Trump dividend.",
+      "zh": "这将被称为“特朗普红利”。我们就叫它“特朗普红利”。"
+    },
+    {
+      "id": 103,
+      "startMs": 618920,
+      "endMs": 627720,
+      "en": "But the only condition on the payment of this dividend that we are going to be making is $5,000 to every adult.",
+      "zh": "但我们发放这项红利的唯一条件是：每位成年人获得5000美元。"
+    },
+    {
+      "id": 104,
+      "startMs": 628440,
+      "endMs": 636600,
+      "en": "The only caveat I have is that the dividend that we are making must be spent in the United States of America.",
+      "zh": "我唯一的限制是，这笔红利必须在美国境内消费。"
+    },
+    {
+      "id": 105,
+      "startMs": 636760,
+      "endMs": 646040,
+      "en": "It is not clear that it is legal to make a promise like that, because it is against the law to offer a payment to anybody to influence how they are going to vote.",
+      "zh": "不清楚作出这种承诺是否合法，因为以金钱影响他人投票方式是违法的。"
+    },
+    {
+      "id": 106,
+      "startMs": 646520,
+      "endMs": 651720,
+      "en": "Donald Trump may say that this is an election promise rather than an election bribe.",
+      "zh": "唐纳德·特朗普或许会说这是竞选承诺，而不是竞选贿赂。"
+    },
+    {
+      "id": 107,
+      "startMs": 652360,
+      "endMs": 655640,
+      "en": "But he did not give any details at all as to how he would pay for this.",
+      "zh": "但他完全没有说明将如何支付这笔钱。"
+    },
+    {
+      "id": 108,
+      "startMs": 655640,
+      "endMs": 662760,
+      "en": "It could cost a trillion dollars to pay a $5,000 dividend to every American.",
+      "zh": "向每位美国人支付5000美元红利，可能要花费一万亿美元。"
+    },
+    {
+      "id": 109,
+      "startMs": 662760,
+      "endMs": 665240,
+      "en": "No details of where that money would come from.",
+      "zh": "没有说明这笔钱从何而来。"
+    },
+    {
+      "id": 110,
+      "startMs": 665880,
+      "endMs": 675560,
+      "en": "But Donald Trump clearly knows that the cost of living is weighing heavily on people's minds, and the war in Iran is helping drive prices up.",
+      "zh": "但特朗普显然知道，生活成本沉重压在民众心头，而伊朗战争正助推物价上涨。"
+    },
+    {
+      "id": 111,
+      "startMs": 675640,
+      "endMs": 680520,
+      "en": "So he said that he thinks the war in Iran will not be over before the midterm elections.",
+      "zh": "所以他说，他认为伊朗战争不会在中期选举前结束。"
+    },
+    {
+      "id": 112,
+      "startMs": 680520,
+      "endMs": 686600,
+      "en": "But very shortly after that, he promised prices would plummet as soon as that conflict is wrapped up.",
+      "zh": "但他承诺，选举后不久，冲突一结束，物价就会暴跌。"
+    },
+    {
+      "id": 113,
+      "startMs": 687560,
+      "endMs": 693400,
+      "en": "And then, in a sign that he clearly thinks he is still a big vote winner for the Republican Party...",
+      "zh": "随后，他显然仍认为自己是共和党的重要得票利器……"
+    },
+    {
+      "id": 114,
+      "startMs": 693400,
+      "endMs": 696920,
+      "en": "He asks voters to pretend that he is running for election.",
+      "zh": "他要求选民假装自己正在参选。"
+    },
+    {
+      "id": 115,
+      "startMs": 696920,
+      "endMs": 702840,
+      "en": "Pretend that his name is on the ballot, and come out and vote accordingly in November. Next to",
+      "zh": "假装他的名字在选票上，并在11月出来投票。接下来是……"
+    },
+    {
+      "id": 116,
+      "startMs": 702840,
+      "endMs": 709800,
+      "en": "The news that two of the four astronauts who served on the Artemis II space mission are retiring from spaceflight.",
+      "zh": "最新消息是，曾执行阿耳忒弥斯二号太空任务的四名宇航员中，有两人将退出航天飞行。"
+    },
+    {
+      "id": 117,
+      "startMs": 710280,
+      "endMs": 717320,
+      "en": "Back in April, the crew broke a major record in human spaceflight, traveling further away from Earth than ever before.",
+      "zh": "今年四月，这支乘组创造了载人航天的新纪录，飞到了人类迄今距地球最远的位置。"
+    },
+    {
+      "id": 118,
+      "startMs": 718040,
+      "endMs": 720760,
+      "en": "Reid, Victor, Christina, and Jeremy.",
+      "zh": "里德、维克多、克里斯蒂娜和杰里米。"
+    },
+    {
+      "id": 119,
+      "startMs": 721560,
+      "endMs": 727400,
+      "en": "We are going for our families. We are going for our teammates. We are going for all humanity.",
+      "zh": "我们是为了家人、队友和全人类而去。"
+    },
+    {
+      "id": 120,
+      "startMs": 727400,
+      "endMs": 732380,
+      "en": "Engines lit. Four, three, two, one.",
+      "zh": "发动机启动。四、三、二、一。"
+    },
+    {
+      "id": 121,
+      "startMs": 732940,
+      "endMs": 735420,
+      "en": "Booster ignition and lift-off.",
+      "zh": "助推器点火，升空。"
+    },
+    {
+      "id": 122,
+      "startMs": 736100,
+      "endMs": 738660,
+      "en": "The crew of Artemis II, now bound for the Moon.",
+      "zh": "阿耳忒弥斯二号乘组如今正飞向月球。"
+    },
+    {
+      "id": 123,
+      "startMs": 739140,
+      "endMs": 748020,
+      "en": "The Artemis project eventually aims to reach Mars, but now only one of the four astronauts originally on board will continue with spaceflight.",
+      "zh": "阿耳忒弥斯计划最终目标是抵达火星，但如今四名原先在乘组中的宇航员只有一人会继续从事航天飞行。"
+    },
+    {
+      "id": 124,
+      "startMs": 748580,
+      "endMs": 753780,
+      "en": "So why would the others stop now after the mission around the Moon was such a success?",
+      "zh": "既然绕月任务如此成功，其他人为什么现在要停止飞行？"
+    },
+    {
+      "id": 125,
+      "startMs": 754180,
+      "endMs": 759140,
+      "en": "I asked our reporter Alfie Habershon. You could be eventually going to Mars, so why quit now?",
+      "zh": "我向本台记者阿尔菲·哈伯森询问：你们最终可能要去火星，那为什么现在退出？"
+    },
+    {
+      "id": 126,
+      "startMs": 759220,
+      "endMs": 764340,
+      "en": "We're going to deal with that in a second, but first let's look at who's quit. One is the pilot, Victor Glover.",
+      "zh": "这个问题稍后回答，但我们先看看是谁退出了。其中一位是飞行员维克多·格洛弗。"
+    },
+    {
+      "id": 127,
+      "startMs": 764340,
+      "endMs": 768420,
+      "en": "He's going to be taking on a teaching job at a university in California now.",
+      "zh": "他现在将到加州一所大学担任教学工作。"
+    },
+    {
+      "id": 128,
+      "startMs": 768900,
+      "endMs": 773780,
+      "en": "And the other one, the commander, Reid Wiseman, he's going to be continuing on more at base camp.",
+      "zh": "另一位是指挥官里德·怀斯曼，他将继续在基地营负责更多工作。"
+    },
+    {
+      "id": 129,
+      "startMs": 774020,
+      "endMs": 777620,
+      "en": "He'll help with operations and planning, but he won't fly himself.",
+      "zh": "他会协助运行和规划，但不再亲自飞行。"
+    },
+    {
+      "id": 130,
+      "startMs": 778100,
+      "endMs": 782260,
+      "en": "As you said, another is the Canadian astronaut Jeremy Hansen,",
+      "zh": "正如你所说，另一位是加拿大宇航员杰里米·汉森，"
+    },
+    {
+      "id": 131,
+      "startMs": 782500,
+      "endMs": 788100,
+      "en": "he was also part of this fantastic four, let's call them, he retired earlier this year as well.",
+      "zh": "也是这支“梦之四人组”的成员；他今年早些时候也退役了。"
+    },
+    {
+      "id": 132,
+      "startMs": 788340,
+      "endMs": 790340,
+      "en": "So we've only got one left, Christina Koch.",
+      "zh": "所以现在只剩一人：克里斯蒂娜·科赫。"
+    },
+    {
+      "id": 133,
+      "startMs": 790340,
+      "endMs": 792660,
+      "en": "She's the only woman to travel around the Moon.",
+      "zh": "她是唯一一位绕月飞行的女性。"
+    },
+    {
+      "id": 134,
+      "startMs": 793060,
+      "endMs": 798920,
+      "en": "In terms of why, why is there only one left now who's still willing to fly? Well, it's actually not unusual after",
+      "zh": "至于原因，为什么现在只有一人还愿意飞行？其实，在这种任务之后，宇航员停止飞行并不罕见，"
+    },
+    {
+      "id": 135,
+      "startMs": 798920,
+      "endMs": 802680,
+      "en": "sort of a major space mission like this for astronauts to stop.",
+      "zh": "这类重大的太空任务结束后，宇航员退出是很常见的。"
+    },
+    {
+      "id": 136,
+      "startMs": 803080,
+      "endMs": 808280,
+      "en": "And part of the reason for that is even the training to get to this point can take over a decade",
+      "zh": "部分原因在于，仅为走到这一步而接受的训练就可能超过十年，"
+    },
+    {
+      "id": 137,
+      "startMs": 808280,
+      "endMs": 810920,
+      "en": "or even longer for something this complicated.",
+      "zh": "如此复杂的任务，训练时间甚至可能更长。"
+    },
+    {
+      "id": 138,
+      "startMs": 810920,
+      "endMs": 817560,
+      "en": "If you think about the operational equipment, the medical training, understanding the kind of scientific side of space,",
+      "zh": "想想运行设备、医疗训练，以及理解太空的科学层面，"
+    },
+    {
+      "id": 139,
+      "startMs": 817560,
+      "endMs": 822760,
+      "en": "and then preparing your body as well, when you are up there in space, your bone density can change,",
+      "zh": "还要锻炼身体；人在太空时，骨密度会发生变化，"
+    },
+    {
+      "id": 140,
+      "startMs": 823000,
+      "endMs": 828200,
+      "en": "your muscles can shrink, you are exposed to radiation, and that's not even to mention the mental side.",
+      "zh": "肌肉会萎缩，还会受到辐射影响，更不用说心理层面了。"
+    },
+    {
+      "id": 141,
+      "startMs": 828200,
+      "endMs": 831240,
+      "en": "It's hard for me and you to imagine here in London what it is like",
+      "zh": "在伦敦的我们很难想象，那会是什么感受，"
+    },
+    {
+      "id": 142,
+      "startMs": 831480,
+      "endMs": 835160,
+      "en": "being in darkness with three colleagues for so long, staring at the Earth,",
+      "zh": "和三位同事长时间置身黑暗中，凝望地球，"
+    },
+    {
+      "id": 143,
+      "startMs": 835320,
+      "endMs": 838600,
+      "en": "looking so small, like a sort of tennis ball or smaller than that.",
+      "zh": "看着它小得像网球，甚至比网球还小。"
+    },
+    {
+      "id": 144,
+      "startMs": 838920,
+      "endMs": 844280,
+      "en": "Retired commander Reid Wiseman spoke to the media the day after landing.",
+      "zh": "退役的指挥官里德·怀斯曼在着陆次日接受了媒体采访。"
+    },
+    {
+      "id": 145,
+      "startMs": 844280,
+      "endMs": 851440,
+      "en": "He said: I have absolutely no idea what to say. This is... 24 hours ago, the Earth was that big out the window, and we were doing Mach 39.",
+      "zh": "他说：我完全不知道该说什么。就在24小时前，窗外的地球还那么大，而我们正以39马赫飞行。"
+    },
+    {
+      "id": 146,
+      "startMs": 851440,
+      "endMs": 861980,
+      "en": "And here we are back at Ellington, at home. Victor, Christina, and Jeremy,",
+      "zh": "而现在我们回到了埃灵顿，回到了家。维克多、克里斯蒂娜和杰里米，"
+    },
+    {
+      "id": 147,
+      "startMs": 863340,
+      "endMs": 865020,
+      "en": "We are bonded forever,",
+      "zh": "我们永远紧密相连，"
+    },
+    {
+      "id": 148,
+      "startMs": 865900,
+      "endMs": 869660,
+      "en": "and no one down here is ever going to know what the four of us just went through.",
+      "zh": "地面上的人永远不会知道我们四个人刚刚经历了什么。"
+    },
+    {
+      "id": 149,
+      "startMs": 870540,
+      "endMs": 873180,
+      "en": "And it was the most special thing that will ever happen in my life.",
+      "zh": "那是我一生中最特别的经历。"
+    },
+    {
+      "id": 150,
+      "startMs": 874300,
+      "endMs": 877980,
+      "en": "Boggles the mind, doesn't it, Alfie? So, what now?",
+      "zh": "真让人难以想象，对吧，阿尔菲？那么，接下来呢？"
+    },
+    {
+      "id": 151,
+      "startMs": 877980,
+      "endMs": 883180,
+      "en": "A new crew is set for this project. What are the next steps?",
+      "zh": "这个项目已经确定了新的乘组。下一步是什么？"
+    },
+    {
+      "id": 152,
+      "startMs": 883260,
+      "endMs": 888460,
+      "en": "When will it set foot on the Moon and eventually Mars? Okay, let me take you through the grand plan.",
+      "zh": "他们什么时候会登上月球，最终前往火星？好，我来介绍一下总体计划。"
+    },
+    {
+      "id": 153,
+      "startMs": 888460,
+      "endMs": 891900,
+      "en": "So, first of all, we've got a bit of a dress rehearsal that's next year.",
+      "zh": "首先，明年会进行一次演练。"
+    },
+    {
+      "id": 154,
+      "startMs": 891900,
+      "endMs": 896700,
+      "en": "That's Artemis III. It will stay near the Earth's surface rather than go to the Moon,",
+      "zh": "那就是阿耳忒弥斯三号。它不会前往月球，而是会停留在接近地球表面的区域，"
+    },
+    {
+      "id": 155,
+      "startMs": 896700,
+      "endMs": 901100,
+      "en": "but really practice some of these operational challenges like docking to lunar landers.",
+      "zh": "真正演练对接月球着陆器等运行挑战。"
+    },
+    {
+      "id": 156,
+      "startMs": 901100,
+      "endMs": 907980,
+      "en": "Then the big one, 2028—that's when humans are planned to set foot on the Moon for the first time in over 50 years.",
+      "zh": "然后是重头戏：2028年，计划让人类登上月球，这是五十多年后的第一次。"
+    },
+    {
+      "id": 157,
+      "startMs": 907980,
+      "endMs": 911500,
+      "en": "You know, it's since Apollo 17 in 1972, so it really is a big deal.",
+      "zh": "上一次还是1972年的阿波罗17号，所以这确实意义重大。"
+    },
+    {
+      "id": 158,
+      "startMs": 911740,
+      "endMs": 914860,
+      "en": "But you don't want to spend billions repeating what's been done.",
+      "zh": "但没人想花费数十亿美元重复已经做过的事。"
+    },
+    {
+      "id": 159,
+      "startMs": 914860,
+      "endMs": 916940,
+      "en": "It wants to go much, much further than that.",
+      "zh": "这个计划希望走得远得多。"
+    },
+    {
+      "id": 160,
+      "startMs": 917180,
+      "endMs": 922080,
+      "en": "They want to set up a permanent base on the Moon and really carry out experiments to understand",
+      "zh": "他们想在月球建立永久基地，并开展实验来了解"
+    },
+    {
+      "id": 161,
+      "startMs": 922080,
+      "endMs": 926880,
+      "en": "what it is like for humanity to live somewhere that's not Earth with Mars on the horizon.",
+      "zh": "人类生活在地球之外、以火星为目标的地方会是什么样。"
+    },
+    {
+      "id": 162,
+      "startMs": 927360,
+      "endMs": 935680,
+      "en": "So very, very ambitious, a little bit far-fetched, Celia, I would say, but undoubtedly very exciting, undoubtedly pretty whimsical. Alfie Habershon.",
+      "zh": "所以这非常宏大，我觉得也有点不切实际，西莉亚；但无疑令人兴奋，也相当异想天开。阿尔菲·哈伯森。"
+    },
+    {
+      "id": 163,
+      "startMs": 938020,
+      "endMs": 939380,
+      "en": "Still to come in this podcast.",
+      "zh": "本期播客稍后内容。"
+    },
+    {
+      "id": 164,
+      "startMs": 939620,
+      "endMs": 944180,
+      "en": "I think people are struck by its humanity and by how they recognise their own experiences.",
+      "zh": "我想，人们会被其中的人性，以及人们能够认出自身经历的方式所打动。"
+    },
+    {
+      "id": 165,
+      "startMs": 944180,
+      "endMs": 948020,
+      "en": "Whether it's cooking a kebab or, you know, struggling with a dog.",
+      "zh": "无论是烤肉串，还是——你知道——和一条狗相处得很辛苦。"
+    },
+    {
+      "id": 166,
+      "startMs": 948260,
+      "endMs": 954340,
+      "en": "The famous medieval work, the Bayeux Tapestry, goes on public display in the UK to sold-out crowds.",
+      "zh": "著名的中世纪作品贝叶挂毯将在英国公开展出，门票已售罄。"
+    },
+    {
+      "id": 167,
+      "startMs": 954340,
+      "endMs": 955940,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 168,
+      "startMs": 956820,
+      "endMs": 960100,
+      "en": "Now to a story in the city of Portsmouth here in the UK,",
+      "zh": "现在来看英国朴次茅斯的一则消息，"
+    },
+    {
+      "id": 169,
+      "startMs": 960180,
+      "endMs": 968260,
+      "en": "where over 30 angry demonstrators gathered outside a hotel after hearing false rumours that a group of migrants had arrived there by bus.",
+      "zh": "有30多名愤怒的示威者听信一群移民乘巴士抵达那里的错误传言后，聚集在一家酒店外。"
+    },
+    {
+      "id": 170,
+      "startMs": 968740,
+      "endMs": 973460,
+      "en": "It was, in fact, Pakistan's Under-19 cricket team that are on tour in England.",
+      "zh": "事实上，那是正在英格兰巡回比赛的巴基斯坦19岁以下板球队。"
+    },
+    {
+      "id": 171,
+      "startMs": 974340,
+      "endMs": 977940,
+      "en": "Portsmouth has been shaken by anti-migrant protests since Sunday.",
+      "zh": "自周日以来，反移民抗议一直令朴次茅斯受到震动。"
+    },
+    {
+      "id": 172,
+      "startMs": 978260,
+      "endMs": 986740,
+      "en": "Hundreds, many wearing face coverings, clashed with police and blocked roads to stop buses carrying migrants leaving the city.",
+      "zh": "数百人——其中许多人戴着面罩——与警方冲突并堵塞道路，试图阻止载有移民的巴士离城。"
+    },
+    {
+      "id": 173,
+      "startMs": 987460,
+      "endMs": 991140,
+      "en": "Our Pakistan correspondent Kerry Davies told me more about the incident.",
+      "zh": "我们的巴基斯坦记者克里·戴维斯向我进一步介绍了这起事件。"
+    },
+    {
+      "id": 174,
+      "startMs": 991300,
+      "endMs": 997780,
+      "en": "This information that I have received came through Pakistan Cricket Board's chief operating officer, whom I spoke to this morning.",
+      "zh": "我收到的信息来自巴基斯坦板球委员会首席运营官，我今天早上与他交谈过。"
+    },
+    {
+      "id": 175,
+      "startMs": 997840,
+      "endMs": 1005700,
+      "en": "He got this from the Under-19s team manager. According to him, outsiders came on Tuesday night",
+      "zh": "他说，这来自19岁以下球队领队。据他所说，周二晚上有外来人员"
+    },
+    {
+      "id": 176,
+      "startMs": 1005780,
+      "endMs": 1010900,
+      "en": "who had come to the floor where the team were staying and then began to knock on the team's doors.",
+      "zh": "来到球队下榻的楼层，随后开始敲球队成员的房门。"
+    },
+    {
+      "id": 177,
+      "startMs": 1010900,
+      "endMs": 1015720,
+      "en": "Now he said that the cricket team had responded responsibly and they hadn't escalated the situation.",
+      "zh": "他说，板球队作出了负责任的回应，没有让局势升级。"
+    },
+    {
+      "id": 178,
+      "startMs": 1015960,
+      "endMs": 1022200,
+      "en": "Now, the BBC has also been speaking to a local politician, a Reform politician on the county council.",
+      "zh": "BBC还采访了一名当地政治人物——郡议会的一名改革党议员。"
+    },
+    {
+      "id": 179,
+      "startMs": 1022600,
+      "endMs": 1025240,
+      "en": "He went there to help defuse the situation.",
+      "zh": "他前往那里帮助缓和局势。"
+    },
+    {
+      "id": 180,
+      "startMs": 1025320,
+      "endMs": 1029640,
+      "en": "He described what was about 30 or 40 people outside the hotel by the time he got there,",
+      "zh": "他说，等他到达时，酒店外大约有30到40人，"
+    },
+    {
+      "id": 181,
+      "startMs": 1029640,
+      "endMs": 1032840,
+      "en": "about an hour, an hour and a half or so after they'd first arrived.",
+      "zh": "那是在他们最初到达约一小时、一小时半之后。"
+    },
+    {
+      "id": 182,
+      "startMs": 1033160,
+      "endMs": 1043000,
+      "en": "He said it developed after someone saw, photographed and posted online the cricket team arriving at this hotel in their coach.",
+      "zh": "他说，事件起因是有人看到板球队乘大巴抵达这家酒店，拍照后发到了网上。"
+    },
+    {
+      "id": 183,
+      "startMs": 1043080,
+      "endMs": 1050840,
+      "en": "And they had made the assumption that this was a coachload of migrants that had come to this hotel, and that's what spread online.",
+      "zh": "他们以为这是一车来到该酒店的移民，这一说法便在网上传播开来。"
+    },
+    {
+      "id": 184,
+      "startMs": 1050840,
+      "endMs": 1057360,
+      "en": "And led to people coming to the hotel to protest against, as you say, this backdrop of anti-migrant protests",
+      "zh": "并导致人们来到酒店抗议；正如你所说，这发生在反移民抗议的背景下，"
+    },
+    {
+      "id": 185,
+      "startMs": 1057360,
+      "endMs": 1063200,
+      "en": "that we've seen, particularly in Portsmouth this past week. So, according to both sides, that's what happened.",
+      "zh": "尤其是过去一周在朴次茅斯所见的抗议。根据双方说法，事情就是这样发生的。"
+    },
+    {
+      "id": 186,
+      "startMs": 1063200,
+      "endMs": 1069920,
+      "en": "The local politician also said that he'd spoken to the hotel, and the hotel had told him at the time that no one had gone inside the hotel.",
+      "zh": "这名地方政治人物还说，他与酒店谈过，当时酒店告诉他没有人进入酒店。"
+    },
+    {
+      "id": 187,
+      "startMs": 1070320,
+      "endMs": 1074800,
+      "en": "So slightly different messages coming through, but ultimately we know that this protest did happen.",
+      "zh": "所以传来的信息略有不同，但我们最终知道这场抗议确实发生了。"
+    },
+    {
+      "id": 188,
+      "startMs": 1074960,
+      "endMs": 1079520,
+      "en": "Now, according to the Pakistan Cricket Board, they say that it's the responsibility of the board",
+      "zh": "据巴基斯坦板球委员会说，确保安全是邀请巴基斯坦前来的委员会的责任，"
+    },
+    {
+      "id": 189,
+      "startMs": 1079520,
+      "endMs": 1084320,
+      "en": "that are inviting Pakistan over to make sure that the security and safety is paramount.",
+      "zh": "他们必须确保安保和安全是最重要的。"
+    },
+    {
+      "id": 190,
+      "startMs": 1084320,
+      "endMs": 1087840,
+      "en": "They've been speaking to the England Cricket Board and say they think",
+      "zh": "他们一直在与英格兰板球委员会沟通，并认为"
+    },
+    {
+      "id": 191,
+      "startMs": 1088000,
+      "endMs": 1092480,
+      "en": "it's being treated responsibly, and they hope something like this doesn't happen again.",
+      "zh": "此事得到了负责任的处理，也希望类似事件不再发生。"
+    },
+    {
+      "id": 192,
+      "startMs": 1092800,
+      "endMs": 1098800,
+      "en": "Meanwhile, this two-and-a-half-week-or-so tour that the Under-19s have been on of England has been continuing.",
+      "zh": "与此同时，19岁以下球队在英格兰进行的约两个半星期的巡回赛仍在继续。"
+    },
+    {
+      "id": 193,
+      "startMs": 1098880,
+      "endMs": 1104720,
+      "en": "They played a match the following day after this incident happened, and they're still in the UK for the next few days as well.",
+      "zh": "事件发生后的第二天，他们照常参加了一场比赛，接下来几天也仍会留在英国。"
+    },
+    {
+      "id": 194,
+      "startMs": 1104880,
+      "endMs": 1112960,
+      "en": "Do we know more about how the false information spread that these people were migrants when they were actually young cricket players?",
+      "zh": "我们是否知道更多关于这个错误信息如何传播的情况？这些人其实是年轻的板球运动员，却被说成了移民。"
+    },
+    {
+      "id": 195,
+      "startMs": 1113140,
+      "endMs": 1120900,
+      "en": "I think the only information we've had from this local politician is that this photograph was taken as they came off a coach.",
+      "zh": "我想，这名地方政治人物给出的唯一解释是：这张照片拍的是他们从大巴上下来的情景。"
+    },
+    {
+      "id": 196,
+      "startMs": 1120900,
+      "endMs": 1128980,
+      "en": "Now, according to him, he says that the coach that was used was the same company that had also been transporting migrants from when they'd come ashore",
+      "zh": "据他所说，使用的大巴来自同一家公司；移民上岸后，这家公司也曾运送他们"
+    },
+    {
+      "id": 197,
+      "startMs": 1129380,
+      "endMs": 1135540,
+      "en": "to other facilities, and so that's where some of this confusion had come in and where all of these rumours had begun to spread.",
+      "zh": "前往其他设施。因此，部分混淆由此产生，所有这些传言也开始传播。"
+    },
+    {
+      "id": 198,
+      "startMs": 1135540,
+      "endMs": 1142820,
+      "en": "But this also shows how quickly things posted online can get out of hand. People are on high alert, he said,",
+      "zh": "但这也说明，网上发布的事情可能迅速失控。他说，人们处于高度警觉之中，"
+    },
+    {
+      "id": 199,
+      "startMs": 1142820,
+      "endMs": 1150740,
+      "en": "and there's such a sort of strong sense of tension, I think, in the city of Portsmouth about a lot of these incidents at the moment.",
+      "zh": "而且我认为，朴次茅斯市目前对许多这类事件存在一种强烈的紧张感。"
+    },
+    {
+      "id": 200,
+      "startMs": 1151140,
+      "endMs": 1154580,
+      "en": "That's how quickly and feverishly something like this can happen and build.",
+      "zh": "类似的事情就是这样迅速而激烈地发生并不断升级的。"
+    },
+    {
+      "id": 201,
+      "startMs": 1155060,
+      "endMs": 1162660,
+      "en": "Kerry, you're speaking to us from Islamabad. Has there been any reaction to this story so far in Pakistan? I haven't seen any major reaction yet.",
+      "zh": "克里，你正在伊斯兰堡接受我们的采访。到目前为止，巴基斯坦对此事有何反应？我还没有看到重大反应。"
+    },
+    {
+      "id": 202,
+      "startMs": 1162660,
+      "endMs": 1169060,
+      "en": "I did notice that the story had been picked up by Dawn, which is the English-language newspaper here in Pakistan, one of the largest ones.",
+      "zh": "我注意到，《黎明报》已经报道了此事；这是巴基斯坦最大的英文报纸之一。"
+    },
+    {
+      "id": 203,
+      "startMs": 1169380,
+      "endMs": 1172980,
+      "en": "There will surely be more social-media discussion.",
+      "zh": "社交媒体上肯定会有更多讨论。"
+    },
+    {
+      "id": 204,
+      "startMs": 1173320,
+      "endMs": 1181640,
+      "en": "People will send it on WhatsApp, because Pakistan has strong ties with the UK and a large Pakistani diaspora lives there.",
+      "zh": "人们会通过WhatsApp转发，因为巴基斯坦与英国联系紧密，那里有庞大的巴基斯坦侨民群体。"
+    },
+    {
+      "id": 205,
+      "startMs": 1181640,
+      "endMs": 1187560,
+      "en": "So I'm sure many people will be looking at this and thinking: how did something that was intended to be, presumably, about sharing",
+      "zh": "所以我相信，很多人都会关注此事并思考：一件原本大概是为了促进"
+    },
+    {
+      "id": 206,
+      "startMs": 1187560,
+      "endMs": 1193240,
+      "en": "sport between the two countries has descended into something like this? Kerry Davies in Islamabad.",
+      "zh": "两国体育交流的事情，怎么会演变成这样？克里·戴维斯在伊斯兰堡报道。"
+    },
+    {
+      "id": 207,
+      "startMs": 1194080,
+      "endMs": 1201120,
+      "en": "We've reported a lot on the damage left behind by the alarming number of severe wildfires breaking out in Europe this summer.",
+      "zh": "我们大量报道了今年夏季欧洲频发的严重野火所造成的破坏。"
+    },
+    {
+      "id": 208,
+      "startMs": 1201600,
+      "endMs": 1210320,
+      "en": "Climate change and the effect of El Niño, the periodic natural warming of the Pacific Ocean, are thought to be behind the unusually high temperatures.",
+      "zh": "气候变化和厄尔尼诺——太平洋周期性自然变暖现象——被认为是异常高温的原因。"
+    },
+    {
+      "id": 209,
+      "startMs": 1210880,
+      "endMs": 1217600,
+      "en": "Now the European Union's climate service says August this year was the joint hottest month ever recorded.",
+      "zh": "欧盟气候监测机构称，今年8月并列成为有记录以来最热的月份。"
+    },
+    {
+      "id": 210,
+      "startMs": 1218240,
+      "endMs": 1221920,
+      "en": "For more on this, I spoke to our environment correspondent Matt McGrath.",
+      "zh": "关于这一点，我采访了环境事务记者马特·麦格拉思。"
+    },
+    {
+      "id": 211,
+      "startMs": 1222240,
+      "endMs": 1230880,
+      "en": "Anyone who's been in the UK, Europe, parts of America, Asia or Africa in recent months will have recognised the intense heat that",
+      "zh": "过去几个月，英国、欧洲、美国、亚洲和非洲部分地区的人都感受到了强烈高温。"
+    },
+    {
+      "id": 212,
+      "startMs": 1230880,
+      "endMs": 1238640,
+      "en": "many parts of the world have been suffering from, and the related extreme events such as storms, droughts that have accompanied all those.",
+      "zh": "世界许多地区一直在遭受这种高温，以及伴随而来的风暴、干旱等极端事件。"
+    },
+    {
+      "id": 213,
+      "startMs": 1238640,
+      "endMs": 1245520,
+      "en": "So it's no real surprise that the data for August shows that the global temperature for the whole of the world was the warmest on record.",
+      "zh": "因此，8月数据表明全球平均气温创下有记录以来最高，并不令人真正意外。"
+    },
+    {
+      "id": 214,
+      "startMs": 1245760,
+      "endMs": 1251040,
+      "en": "I think what is surprising for scientists in some respects is the margin of the scale of the warming.",
+      "zh": "我认为，在某些方面令科学家惊讶的是升温的幅度。"
+    },
+    {
+      "id": 215,
+      "startMs": 1251280,
+      "endMs": 1257460,
+      "en": "The Copernicus unit is saying that basically it's 1.65 degrees higher than pre-industrial times,",
+      "zh": "哥白尼气候变化服务称，这一数字基本上比前工业化时期高出1.65摄氏度。"
+    },
+    {
+      "id": 216,
+      "startMs": 1257780,
+      "endMs": 1262580,
+      "en": "and that number is really important because politicians in Paris in 2015",
+      "zh": "这个数字非常重要，因为2015年在巴黎，"
+    },
+    {
+      "id": 217,
+      "startMs": 1262580,
+      "endMs": 1266340,
+      "en": "agreed that they would try and keep the global temperature under that 1.5-degree level.",
+      "zh": "各国政治领导人同意努力把全球气温控制在1.5摄氏度以内。"
+    },
+    {
+      "id": 218,
+      "startMs": 1266900,
+      "endMs": 1269940,
+      "en": "And now we see in this particular month it's gone past that.",
+      "zh": "而现在我们看到，仅这个月就超过了这一水平。"
+    },
+    {
+      "id": 219,
+      "startMs": 1269940,
+      "endMs": 1274660,
+      "en": "Now it's not a breach; usually that temperature is measured over ten or maybe 20 years,",
+      "zh": "但这还不算突破，因为通常要按十年或可能二十年的时间衡量这一温度。"
+    },
+    {
+      "id": 220,
+      "startMs": 1274980,
+      "endMs": 1280340,
+      "en": "but it's significant because of the direction of travel and the scale of it. And I think that's what's worrying scientists.",
+      "zh": "但它意义重大，因为升温趋势和幅度都令人担忧。我认为这正是科学家担心的地方。"
+    },
+    {
+      "id": 221,
+      "startMs": 1280580,
+      "endMs": 1285940,
+      "en": "Matt, we've been hearing this kind of news a lot—the hottest day on record, the hottest month on record.",
+      "zh": "马特，我们经常听到这类消息：有记录以来最热的一天、最热的一个月。"
+    },
+    {
+      "id": 222,
+      "startMs": 1286180,
+      "endMs": 1289220,
+      "en": "Can you put this into context for us? How worried should we be?",
+      "zh": "你能为我们解释一下背景吗？我们应该有多担心？"
+    },
+    {
+      "id": 223,
+      "startMs": 1289300,
+      "endMs": 1292980,
+      "en": "Several things are different about this particular data.",
+      "zh": "我认为，这组数据有几个不同寻常之处。"
+    },
+    {
+      "id": 224,
+      "startMs": 1292980,
+      "endMs": 1298100,
+      "en": "I think the scale of the intense events that we've seen, what used to be normal,",
+      "zh": "我认为，我们看到的极端事件规模，与过去的常态相比，"
+    },
+    {
+      "id": 225,
+      "startMs": 1298100,
+      "endMs": 1302180,
+      "en": "I guess back in ten, 15 years ago, you might have one heatwave in the summer or two.",
+      "zh": "大约十到十五年前，一个夏天可能只有一两次热浪。"
+    },
+    {
+      "id": 226,
+      "startMs": 1302500,
+      "endMs": 1307860,
+      "en": "Across Europe and the UK, we've had four, potentially five big heatwaves, and elsewhere too.",
+      "zh": "你看，欧洲和英国经历了四次、甚至五次大热浪，世界其他地区也是如此。"
+    },
+    {
+      "id": 227,
+      "startMs": 1307860,
+      "endMs": 1313940,
+      "en": "It's the intensity and severity, with events continuing one after another.",
+      "zh": "问题在于强度、严重程度，以及这些事件接连不断地发生。"
+    },
+    {
+      "id": 228,
+      "startMs": 1314760,
+      "endMs": 1322440,
+      "en": "And I guess behind all this is what the scientists say is the onward rise of carbon emissions that are doing the most damage here.",
+      "zh": "科学家认为，这一切背后是碳排放持续上升，而碳排放造成了最大的损害。"
+    },
+    {
+      "id": 229,
+      "startMs": 1322680,
+      "endMs": 1326200,
+      "en": "They are the key factor in driving up this heat and keeping that heat high.",
+      "zh": "碳排放是推高并维持高温的关键因素。"
+    },
+    {
+      "id": 230,
+      "startMs": 1326520,
+      "endMs": 1330760,
+      "en": "We're seeing this around the world this summer, perhaps like never before.",
+      "zh": "今年夏天，这种情况在全球各地显现，或许前所未有。"
+    },
+    {
+      "id": 231,
+      "startMs": 1330920,
+      "endMs": 1339960,
+      "en": "I mentioned Europe's wildfires this summer. Are European governments waking up to the dangers of climate change?",
+      "zh": "我提到今年夏天席卷欧洲的野火。你认为，欧洲各国政府尤其是现在，开始意识到气候变化带来的危险了吗？"
+    },
+    {
+      "id": 232,
+      "startMs": 1340120,
+      "endMs": 1342280,
+      "en": "It's interesting. Governments are responding.",
+      "zh": "有意思。各国政府正在应对。"
+    },
+    {
+      "id": 233,
+      "startMs": 1342280,
+      "endMs": 1348440,
+      "en": "Governments everywhere are very concerned by the scale of heatwaves overwhelming parts of Europe.",
+      "zh": "各国政府看到席卷欧洲部分地区的热浪规模后，都非常担忧。"
+    },
+    {
+      "id": 234,
+      "startMs": 1348440,
+      "endMs": 1353960,
+      "en": "You know, nuclear power stations in France that couldn't run because the level of the water in the rivers was too low or too hot.",
+      "zh": "比如法国的核电站，就曾因河流水位过低或水温过高而无法运行。"
+    },
+    {
+      "id": 235,
+      "startMs": 1354360,
+      "endMs": 1357800,
+      "en": "We've seen so many aspects of this, governments reacting to the events,",
+      "zh": "我们看到了许多方面：政府在应对这些事件，"
+    },
+    {
+      "id": 236,
+      "startMs": 1358040,
+      "endMs": 1364360,
+      "en": "but the bigger question of whether they're taking action on the driving force of this, the emissions of carbon dioxide, that is still in play.",
+      "zh": "但更大的问题是，他们是否在应对背后的驱动力，也就是二氧化碳排放；这一问题仍悬而未决。"
+    },
+    {
+      "id": 237,
+      "startMs": 1364680,
+      "endMs": 1367880,
+      "en": "And governments are less, shall we say, committed than they were.",
+      "zh": "可以说，各国政府的承诺不如从前。"
+    },
+    {
+      "id": 238,
+      "startMs": 1368360,
+      "endMs": 1372200,
+      "en": "They're more distracted by other things, the cost of living crisis, wars in various places.",
+      "zh": "它们更多地被其他问题分散了注意力，比如生活成本危机和各地战争。"
+    },
+    {
+      "id": 239,
+      "startMs": 1372520,
+      "endMs": 1377660,
+      "en": "In the next few months, when leaders meet, we'll see how stuck they are on this issue.",
+      "zh": "我想，未来几个月政治领导人会聚在一起，到时我们就会看到他们在这个问题上究竟有多僵持。"
+    },
+    {
+      "id": 240,
+      "startMs": 1377660,
+      "endMs": 1385340,
+      "en": "And Matt, I mentioned the El Niño weather phenomenon; it's also playing a role, but the biggest impact of it is still to come. Yes, that's right.",
+      "zh": "马特，我提到过厄尔尼诺天气现象；它也在发挥作用，但其最大影响还未到来。是的，确实如此。"
+    },
+    {
+      "id": 241,
+      "startMs": 1385340,
+      "endMs": 1389820,
+      "en": "I mean, the scientists were saying that we're seeing a rising, a rapidly rising El Niño,",
+      "zh": "我的意思是，科学家说厄尔尼诺正在增强，而且增强得很快，"
+    },
+    {
+      "id": 242,
+      "startMs": 1389820,
+      "endMs": 1393180,
+      "en": "It could be one of the strongest El Niños ever felt, possibly the strongest.",
+      "zh": "它可能是全球有记录以来最强的厄尔尼诺之一，甚至可能是最强的一次。"
+    },
+    {
+      "id": 243,
+      "startMs": 1393660,
+      "endMs": 1396700,
+      "en": "We aren't yet seeing its full impact on temperatures.",
+      "zh": "但我们还没有真正看到它对气温的全部影响。"
+    },
+    {
+      "id": 244,
+      "startMs": 1396700,
+      "endMs": 1401180,
+      "en": "That's likely to be at the peak when it's November, December later this year and into next year",
+      "zh": "这种影响可能在今年晚些时候的11月、12月以及明年达到峰值，"
+    },
+    {
+      "id": 245,
+      "startMs": 1401180,
+      "endMs": 1405820,
+      "en": "that we'll see that heat coming up out of the oceans, mostly in the Pacific, and impacting the atmosphere.",
+      "zh": "届时我们会看到海洋中的热量，主要是太平洋的热量，上升并影响大气。"
+    },
+    {
+      "id": 246,
+      "startMs": 1406140,
+      "endMs": 1409340,
+      "en": "But we're already seeing it in monsoons in various parts of the world.",
+      "zh": "但我们已经在世界各地的季风中看到它的影响。"
+    },
+    {
+      "id": 247,
+      "startMs": 1409340,
+      "endMs": 1411580,
+      "en": "We're already seeing its fingerprints.",
+      "zh": "我们已经从这些现象中看到它留下的痕迹。"
+    },
+    {
+      "id": 248,
+      "startMs": 1411580,
+      "endMs": 1413980,
+      "en": "So I think much more is to come from it.",
+      "zh": "所以我认为，厄尔尼诺的规模还会带来更多影响。"
+    },
+    {
+      "id": 249,
+      "startMs": 1413980,
+      "endMs": 1416940,
+      "en": "El Niño will affect temperatures over the next few months.",
+      "zh": "未来几个月，厄尔尼诺及其对气温的影响还会持续显现。"
+    },
+    {
+      "id": 250,
+      "startMs": 1417500,
+      "endMs": 1422060,
+      "en": "Matt McGrath. And lastly, the Bayeux Tapestry, which tells the story of",
+      "zh": "马特·麦格拉思。最后，贝叶挂毯讲述了"
+    },
+    {
+      "id": 251,
+      "startMs": 1422060,
+      "endMs": 1427740,
+      "en": "the Norman Conquest of Britain in 1066, and it has just gone on public display in London.",
+      "zh": "1066年诺曼征服英格兰的历史，刚刚在伦敦公开展出。"
+    },
+    {
+      "id": 252,
+      "startMs": 1428300,
+      "endMs": 1431820,
+      "en": "It's the first time it's left France since the 11th century.",
+      "zh": "这是它自11世纪以来首次离开法国。"
+    },
+    {
+      "id": 253,
+      "startMs": 1432300,
+      "endMs": 1435760,
+      "en": "The tapestry has been loaned to the British Museum until next July,",
+      "zh": "这幅挂毯已借展给大英博物馆，展出至明年7月，"
+    },
+    {
+      "id": 254,
+      "startMs": 1436480,
+      "endMs": 1439680,
+      "en": "John McGuire was at the exhibition just before it opened to visitors.",
+      "zh": "约翰·麦奎尔在展览向参观者开放前到访现场。"
+    },
+    {
+      "id": 255,
+      "startMs": 1440080,
+      "endMs": 1442000,
+      "en": "He spoke to some of the main people",
+      "zh": "他采访了展览的几位主要负责人。"
+    },
+    {
+      "id": 256,
+      "startMs": 1442080,
+      "endMs": 1447280,
+      "en": "At the heart of the show, the Bayeux Tapestry is laid out in a straight line.",
+      "zh": "展览的核心是贝叶挂毯，它首次沿直线铺展开来。"
+    },
+    {
+      "id": 257,
+      "startMs": 1447280,
+      "endMs": 1451920,
+      "en": "For the first time. If you've seen it in Normandy on a school trip, it's in a horseshoe.",
+      "zh": "这是第一次这样展示。它在诺曼底通常呈马蹄形。"
+    },
+    {
+      "id": 258,
+      "startMs": 1451920,
+      "endMs": 1455440,
+      "en": "But here, it's in a 70-metre-long run.",
+      "zh": "但在这里，它沿着一条70米长的直线展开。"
+    },
+    {
+      "id": 259,
+      "startMs": 1455760,
+      "endMs": 1462480,
+      "en": "Along the back, there are representations that correspond with what's going on in the panel with the Norman Conquest.",
+      "zh": "背后还有与诺曼征服图案相对应的图像。"
+    },
+    {
+      "id": 260,
+      "startMs": 1462480,
+      "endMs": 1467920,
+      "en": "That tells you exactly what's happening underneath. This is the first chance that members of the public will get.",
+      "zh": "它准确说明下方发生了什么。这是公众首次有机会观看。"
+    },
+    {
+      "id": 261,
+      "startMs": 1467920,
+      "endMs": 1472880,
+      "en": "Friends of the museum will get to see the tapestry in all its glory.",
+      "zh": "博物馆的朋友们将有机会欣赏完整的挂毯。"
+    },
+    {
+      "id": 262,
+      "startMs": 1473280,
+      "endMs": 1477120,
+      "en": "Two people look remarkably relaxed, considering what you've been through.",
+      "zh": "考虑到你们经历的一切，两位看起来异常放松。"
+    },
+    {
+      "id": 263,
+      "startMs": 1477360,
+      "endMs": 1483120,
+      "en": "In the last couple of months and years: Millie Horton-Insch and Nicholas Cullinan, both from the British Museum.",
+      "zh": "过去几个月乃至几年里：大英博物馆的米莉·霍顿-英施和尼古拉斯·卡利南。"
+    },
+    {
+      "id": 264,
+      "startMs": 1483520,
+      "endMs": 1487280,
+      "en": "Are you relaxed? I'm excited. I'm mainly very, very excited.",
+      "zh": "你们放松吗？我很兴奋，主要是非常非常兴奋。"
+    },
+    {
+      "id": 265,
+      "startMs": 1487280,
+      "endMs": 1491360,
+      "en": "For the first visitors to experience the exhibition and see the tapestry themselves.",
+      "zh": "因为首批访客即将亲自体验展览、观看挂毯。"
+    },
+    {
+      "id": 266,
+      "startMs": 1491680,
+      "endMs": 1498180,
+      "en": "I asked you, let's stand somewhere where your favorite part of the tapestry is. You chose Harold's coronation.",
+      "zh": "我请你站在最喜欢的部分旁边。你选的是哈罗德加冕礼。"
+    },
+    {
+      "id": 267,
+      "startMs": 1498580,
+      "endMs": 1504100,
+      "en": "Why do you like this bit in particular? It's the moment that the tone of the tapestry completely shifts.",
+      "zh": "你为什么特别喜欢这一段？这是挂毯基调完全转变的时刻。"
+    },
+    {
+      "id": 268,
+      "startMs": 1504100,
+      "endMs": 1507300,
+      "en": "King Edward the Confessor has died, and his most powerful earl, Harold.",
+      "zh": "忏悔者爱德华国王去世了，他最有权势的伯爵哈罗德……"
+    },
+    {
+      "id": 269,
+      "startMs": 1507700,
+      "endMs": 1510420,
+      "en": "He was crowned, breaking an oath made to Duke William.",
+      "zh": "他违背对威廉公爵许下的誓言，加冕为王。"
+    },
+    {
+      "id": 270,
+      "startMs": 1510500,
+      "endMs": 1515620,
+      "en": "And he pretty quickly realizes it's a bad idea when a comet appears in the sky as an ill omen.",
+      "zh": "当彗星作为不祥征兆出现在天空时，他很快意识到这不是好主意。"
+    },
+    {
+      "id": 271,
+      "startMs": 1516340,
+      "endMs": 1520820,
+      "en": "Suggesting that bad things lie ahead. Do you see something new every time?",
+      "zh": "这暗示前方将有坏事发生。你每次看都会发现新东西吗？"
+    },
+    {
+      "id": 272,
+      "startMs": 1521460,
+      "endMs": 1523140,
+      "en": "You get a chance to have a look at it.",
+      "zh": "每次有机会观看时，都会如此吗？"
+    },
+    {
+      "id": 273,
+      "startMs": 1523620,
+      "endMs": 1529380,
+      "en": "Oh, absolutely. Every single time I look at it, I see more details, particularly in the borders or the way the colors shift.",
+      "zh": "当然。每次看我都会发现更多细节，尤其是边饰和色彩的变化。"
+    },
+    {
+      "id": 274,
+      "startMs": 1529700,
+      "endMs": 1533380,
+      "en": "I've studied it closely, but its makers studied it even more closely.",
+      "zh": "尽管我已仔细看过，它的制作者观察得还要细致得多。"
+    },
+    {
+      "id": 275,
+      "startMs": 1533380,
+      "endMs": 1538420,
+      "en": "Which blows my mind every single time I think about it. Nick, it's been an incredible journey.",
+      "zh": "每次想到这一点我都惊叹不已。尼克，这是一段非凡的历程。"
+    },
+    {
+      "id": 276,
+      "startMs": 1538500,
+      "endMs": 1543220,
+      "en": "But today's the day that the people who it's intended for, I suppose, get to see it.",
+      "zh": "但今天是它原本面向的人们终于能看到它的日子。"
+    },
+    {
+      "id": 277,
+      "startMs": 1543300,
+      "endMs": 1547940,
+      "en": "Today's the day that we've all been waiting for, which is to welcome visitors to see the tapestry.",
+      "zh": "今天是我们一直等待的日子，欢迎访客来观看挂毯。"
+    },
+    {
+      "id": 278,
+      "startMs": 1548260,
+      "endMs": 1553060,
+      "en": "It is here for the first time in almost a thousand years—a historic, momentous day.",
+      "zh": "它近千年来首次来到这个国家，今天确实历史性且意义重大。"
+    },
+    {
+      "id": 279,
+      "startMs": 1553060,
+      "endMs": 1556360,
+      "en": "So we're thrilled. Why is it still so significant?",
+      "zh": "所以我们非常激动。它为何仍如此重要？"
+    },
+    {
+      "id": 280,
+      "startMs": 1556520,
+      "endMs": 1560120,
+      "en": "It's the change of context: it will be seen here in London.",
+      "zh": "只是语境变了：它将在伦敦这里被人们看到。"
+    },
+    {
+      "id": 281,
+      "startMs": 1560120,
+      "endMs": 1562840,
+      "en": "You know, on these shores for the first time in a thousand years.",
+      "zh": "也就是千年来首次在这片英国土地上展出。"
+    },
+    {
+      "id": 282,
+      "startMs": 1563160,
+      "endMs": 1565640,
+      "en": "When I first saw it here this summer...",
+      "zh": "今年夏天我第一次在这里见到它时，……"
+    },
+    {
+      "id": 283,
+      "startMs": 1565720,
+      "endMs": 1571320,
+      "en": "Being condition checked, having seen it of course in Bayeux, I wasn't quite prepared for how moving it was.",
+      "zh": "在进行状况检查时，我当然曾在巴约见过它，却没料到它如此感人。"
+    },
+    {
+      "id": 284,
+      "startMs": 1571640,
+      "endMs": 1575880,
+      "en": "People are excited to be part of this historic, momentous occasion.",
+      "zh": "人们都很激动能参与这一历史性、意义重大的时刻。"
+    },
+    {
+      "id": 285,
+      "startMs": 1576280,
+      "endMs": 1578120,
+      "en": "What makes it moving? It's part of our history.",
+      "zh": "是什么让它如此感人？它是我们历史的一部分。"
+    },
+    {
+      "id": 286,
+      "startMs": 1578600,
+      "endMs": 1585480,
+      "en": "It's part of a shared history, interestingly with France. We all learn about it, and it's still incredibly relevant.",
+      "zh": "它是我们与法国共享的历史，我觉得很有意思。我们都学过它，如今依然极其相关。"
+    },
+    {
+      "id": 287,
+      "startMs": 1585560,
+      "endMs": 1589720,
+      "en": "To think about all of these themes that are woven literally into the tapestry.",
+      "zh": "值得思考的是，这些主题都被真实地织进了挂毯。"
+    },
+    {
+      "id": 288,
+      "startMs": 1590360,
+      "endMs": 1597000,
+      "en": "Including scenes of daily life, which I personally find very moving, like the impacts the Norman Conquest had on everyday people.",
+      "zh": "包括日常生活场景，我尤其感动于诺曼征服对普通人的影响。"
+    },
+    {
+      "id": 289,
+      "startMs": 1597000,
+      "endMs": 1599560,
+      "en": "Including women and children. What have visitors said?",
+      "zh": "包括妇女和儿童。访客们都说了什么？"
+    },
+    {
+      "id": 290,
+      "startMs": 1599640,
+      "endMs": 1605160,
+      "en": "Millie, what have visitors said, and what do you hope they take away from seeing it here?",
+      "zh": "米莉，他们都说了什么？你希望访客首次在这里观看后有什么收获？"
+    },
+    {
+      "id": 291,
+      "startMs": 1605240,
+      "endMs": 1609880,
+      "en": "Everyone seems to take away something different. I've never heard the same comment twice.",
+      "zh": "奇妙的是，每个人似乎都有不同收获。我从未听过两次相同的评论。"
+    },
+    {
+      "id": 292,
+      "startMs": 1610440,
+      "endMs": 1613320,
+      "en": "Everyone has, as Nick said, been very moved who's seen it.",
+      "zh": "正如尼克所说，看过它的人都深受感动。"
+    },
+    {
+      "id": 293,
+      "startMs": 1613320,
+      "endMs": 1615500,
+      "en": "I've been really sort of not surprised.",
+      "zh": "我其实并不怎么意外。"
+    },
+    {
+      "id": 294,
+      "startMs": 1615580,
+      "endMs": 1620860,
+      "en": "But pleased by the emotional responses that people have had, and I think people are struck by the humanity of it.",
+      "zh": "但人们的情感反应让我欣慰，我想大家都被其中的人性打动。"
+    },
+    {
+      "id": 295,
+      "startMs": 1620860,
+      "endMs": 1627020,
+      "en": "And the way that they can recognize their own experiences, whether it's cooking a kebab or struggling with a dog.",
+      "zh": "以及他们能从中认出自己的经历，比如做烤肉，或和狗相处得很艰难。"
+    },
+    {
+      "id": 296,
+      "startMs": 1627960,
+      "endMs": 1633480,
+      "en": "Also I think they've been struck by the brutality and the fact it doesn't shy away from how brutal medieval battle was.",
+      "zh": "我还认为，大家也被它的残酷打动；它没有回避中世纪战斗的惨烈。"
+    },
+    {
+      "id": 297,
+      "startMs": 1633480,
+      "endMs": 1637400,
+      "en": "It's not a straightforward piece of Norman propaganda; it's a very complex work of art.",
+      "zh": "它不是直白的诺曼宣传品，而是一件非常复杂的艺术作品。"
+    },
+    {
+      "id": 298,
+      "startMs": 1638120,
+      "endMs": 1642040,
+      "en": "The Bayeux Tapestry is on display until next July at the British Museum.",
+      "zh": "贝叶挂毯将在大英博物馆展出至明年7月。"
+    },
+    {
+      "id": 299,
+      "startMs": 1642040,
+      "endMs": 1646440,
+      "en": "Although all of the currently available tickets are sold out, more will be released.",
+      "zh": "虽然目前所有可售门票已售罄，但还会放出更多票。"
+    },
+    {
+      "id": 300,
+      "startMs": 1646760,
+      "endMs": 1647560,
+      "en": "Something to keep an eye on.",
+      "zh": "值得留意。"
+    },
+    {
+      "id": 301,
+      "startMs": 1649920,
+      "endMs": 1655600,
+      "en": "That's all from us for now. If you want to get in touch, email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是我们目前的全部内容。如想联系我们，请发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 302,
+      "startMs": 1655840,
+      "endMs": 1661920,
+      "en": "You can also now watch our episodes in full. Just search for the Global News Podcast on YouTube.",
+      "zh": "现在也可以观看完整节目，只需在YouTube搜索Global News Podcast。"
+    },
+    {
+      "id": 303,
+      "startMs": 1662480,
+      "endMs": 1666160,
+      "en": "This edition was mixed by Chris Cazares, and the editor is Karen Martin.",
+      "zh": "本期由克里斯·卡萨雷斯混音，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 304,
+      "startMs": 1666560,
+      "endMs": 1668960,
+      "en": "I'm Celia Hatton. Until next time, goodbye.",
+      "zh": "我是西莉亚·哈顿。下期再见。"
+    }
+  ]
+}
