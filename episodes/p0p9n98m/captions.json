@@ -1,0 +1,1222 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "15 September 2026"
+  },
+  "durationMs": 1047860,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4160,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 5860,
+      "endMs": 12580,
+      "en": "I'm Alex Ritson, and in the early hours of Tuesday, 15 September, these are our main stories.",
+      "zh": "我是亚历克斯·里特森。9月15日星期二凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12580,
+      "endMs": 19620,
+      "en": "Police in Turkey fire tear gas at protesters following a crackdown on gay bars and LGBTQ activists.",
+      "zh": "土耳其警方在打击同性恋酒吧和 LGBTQ 活动人士后，向抗议者发射催泪瓦斯。"
+    },
+    {
+      "id": 4,
+      "startMs": 22400,
+      "endMs": 28640,
+      "en": "Also in this podcast: more than 60% died, but now it's less than 30%.",
+      "zh": "本期节目还将讲述：过去死亡率超过60%，如今已低于30%。"
+    },
+    {
+      "id": 5,
+      "startMs": 28960,
+      "endMs": 36160,
+      "en": "It's one of the most dramatic stories in all of medicine: winning the fight against breast cancer over the last 50 years.",
+      "zh": "这是医学领域最具戏剧性的故事之一：过去50年来，人们如何赢得抗击乳腺癌之战。"
+    },
+    {
+      "id": 6,
+      "startMs": 36160,
+      "endMs": 41920,
+      "en": "To Turkey, where police have fired tear gas at protesters in the western city of Izmir.",
+      "zh": "转到土耳其：警方在西部城市伊兹密尔向抗议者发射催泪瓦斯。"
+    },
+    {
+      "id": 7,
+      "startMs": 49040,
+      "endMs": 54000,
+      "en": "The demonstrators, chanting slogans such as 'Hate kills, not love,'...",
+      "zh": "示威者高喊“仇恨致命，爱不会”之类的口号……"
+    },
+    {
+      "id": 8,
+      "startMs": 54560,
+      "endMs": 60880,
+      "en": "...were marching against the increasing targeting of the LGBTQ community in Turkey.",
+      "zh": "……他们游行抗议土耳其对LGBTQ群体日益加剧的打压。"
+    },
+    {
+      "id": 9,
+      "startMs": 60960,
+      "endMs": 66240,
+      "en": "On Sunday, dozens were arrested in nationwide raids on gay bars and private homes.",
+      "zh": "周日，全国范围内突袭同性恋酒吧和私人住宅，数十人被捕。"
+    },
+    {
+      "id": 10,
+      "startMs": 66240,
+      "endMs": 74640,
+      "en": "A court has suspended the social media accounts of human rights groups, journalists and campaigners, citing national security concerns.",
+      "zh": "法院以国家安全为由，暂停了人权团体、记者和活动人士的社交媒体账号。"
+    },
+    {
+      "id": 11,
+      "startMs": 75040,
+      "endMs": 78480,
+      "en": "Our correspondent in Istanbul, Orla Guerin, has more.",
+      "zh": "我们驻伊斯坦布尔记者奥拉·格林带来更多报道。"
+    },
+    {
+      "id": 12,
+      "startMs": 78880,
+      "endMs": 84080,
+      "en": "Step by step, Turkey is cracking down harder on familiar targets.",
+      "zh": "土耳其正逐步加大对老目标的打压力度。"
+    },
+    {
+      "id": 13,
+      "startMs": 84640,
+      "endMs": 90560,
+      "en": "First, police raids and arrests. Now, the blocking of social media accounts.",
+      "zh": "先是警方突袭和逮捕，如今又封锁社交媒体账号。"
+    },
+    {
+      "id": 14,
+      "startMs": 91120,
+      "endMs": 99200,
+      "en": "Amnesty's director in Turkey told the BBC this was a first for the organisation and said it was very concerning.",
+      "zh": "国际特赦组织土耳其主任告诉BBC，这是该组织首次遇到这种情况，并称其令人非常担忧。"
+    },
+    {
+      "id": 15,
+      "startMs": 99600,
+      "endMs": 104320,
+      "en": "But she added, 'It's not just us; it's part of a broader operation.'",
+      "zh": "但她补充说：“不只是我们，这是更大范围行动的一部分。”"
+    },
+    {
+      "id": 16,
+      "startMs": 105040,
+      "endMs": 108880,
+      "en": "Turkey says it is protecting family values and social order.",
+      "zh": "土耳其称此举是在保护家庭价值观和社会秩序。"
+    },
+    {
+      "id": 17,
+      "startMs": 110020,
+      "endMs": 115860,
+      "en": "Human rights activists say the state is intensifying a campaign of discrimination.",
+      "zh": "人权活动人士称，国家正在加剧一场歧视行动。"
+    },
+    {
+      "id": 18,
+      "startMs": 116100,
+      "endMs": 125380,
+      "en": "President Recep Tayyip Erdoğan has blamed LGBTQ people for the country's falling birth rate and called them perverts.",
+      "zh": "雷杰普·塔伊普·埃尔多安总统将该国出生率下降归咎于LGBTQ群体，并称他们是变态。"
+    },
+    {
+      "id": 19,
+      "startMs": 126020,
+      "endMs": 129540,
+      "en": "Pride parades have been banned since 2015.",
+      "zh": "骄傲游行自2015年以来一直被禁止。"
+    },
+    {
+      "id": 20,
+      "startMs": 130360,
+      "endMs": 136440,
+      "en": "Critics see the authorities' latest moves as an attack on human rights and free speech.",
+      "zh": "批评者认为，当局的最新举措是在侵犯人权和言论自由。"
+    },
+    {
+      "id": 21,
+      "startMs": 137160,
+      "endMs": 144360,
+      "en": "The European Parliament's rapporteur on Turkey said the arrests were a shocking escalation of repression.",
+      "zh": "欧洲议会土耳其问题报告员称，这些逮捕行动标志着镇压惊人升级。"
+    },
+    {
+      "id": 22,
+      "startMs": 144920,
+      "endMs": 147080,
+      "en": "Orla Guerin in Istanbul.",
+      "zh": "奥拉·格林，伊斯坦布尔。"
+    },
+    {
+      "id": 23,
+      "startMs": 149720,
+      "endMs": 151800,
+      "en": "Still to come in this podcast:",
+      "zh": "本期节目稍后还有："
+    },
+    {
+      "id": 24,
+      "startMs": 151960,
+      "endMs": 159000,
+      "en": "Lately, we've taken huge steps forward in female athletes being taken seriously, but this feels like a big step backwards.",
+      "zh": "近来，女性运动员受到认真对待方面已有巨大进步，但这感觉像是大幅倒退。"
+    },
+    {
+      "id": 25,
+      "startMs": 159640,
+      "endMs": 164440,
+      "en": "The Sydney Sweeney advert that's caused an uproar in women's sport.",
+      "zh": "西德妮·斯威尼的广告在女子体育界引发轩然大波。"
+    },
+    {
+      "id": 26,
+      "startMs": 164440,
+      "endMs": 166600,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 27,
+      "startMs": 167480,
+      "endMs": 175320,
+      "en": "The US Environmental Protection Agency, the EPA, is scrapping limits on emissions from coal- and gas-fired power plants.",
+      "zh": "美国环境保护署（EPA）正取消对燃煤和燃气发电厂排放的限制。"
+    },
+    {
+      "id": 28,
+      "startMs": 175640,
+      "endMs": 185880,
+      "en": "The move is expected to face immediate legal challenges. Environmental groups say removing the rules will badly harm Americans' health and the planet.",
+      "zh": "这项举措预计将立即面临法律挑战。环保团体称，取消这些规定将严重损害美国民众的健康和地球环境。"
+    },
+    {
+      "id": 29,
+      "startMs": 186280,
+      "endMs": 187640,
+      "en": "Samira Hussein reports.",
+      "zh": "萨米拉·侯赛因报道。"
+    },
+    {
+      "id": 30,
+      "startMs": 187880,
+      "endMs": 194360,
+      "en": "President Trump has called man-made climate change the greatest con job ever perpetrated on the world.",
+      "zh": "特朗普总统称，人为气候变化是有史以来对全世界实施的最大骗局。"
+    },
+    {
+      "id": 31,
+      "startMs": 194840,
+      "endMs": 202120,
+      "en": "His administration has long signalled that it wants to scrap restrictions imposed by his predecessors.",
+      "zh": "他的政府早已表明，想要废除前任政府设下的限制。"
+    },
+    {
+      "id": 32,
+      "startMs": 202120,
+      "endMs": 207080,
+      "en": "Those limits govern how much greenhouse gas coal- and natural-gas-fired power stations can emit.",
+      "zh": "这些限制规定了燃煤和天然气发电站可以排放多少温室气体。"
+    },
+    {
+      "id": 33,
+      "startMs": 207640,
+      "endMs": 210440,
+      "en": "EPA Administrator Lee Zeldin announced the rule change.",
+      "zh": "美国环保署署长李·泽尔丁宣布了这项规则变更。"
+    },
+    {
+      "id": 34,
+      "startMs": 210680,
+      "endMs": 219880,
+      "en": "It will allow power producers to put many more of the gases that cause global warming into the atmosphere.",
+      "zh": "这将允许发电行业向大气中排放更多导致全球变暖的气体。"
+    },
+    {
+      "id": 35,
+      "startMs": 220120,
+      "endMs": 230140,
+      "en": "“Today, we're repealing the majority of the burdensome 24 requirements so Americans can benefit from our nation's full energy potential.”",
+      "zh": "“今天，我们将废除24项繁重要求中的大部分，让美国民众受益于国家全部的能源潜力。”"
+    },
+    {
+      "id": 36,
+      "startMs": 231360,
+      "endMs": 234320,
+      "en": "“We're not just stopping the Biden administration's overreach.”",
+      "zh": "“我们不只是要制止拜登政府的越权行为。”"
+    },
+    {
+      "id": 37,
+      "startMs": 235520,
+      "endMs": 242720,
+      "en": "“We're also proposing to rescind all remaining greenhouse-gas emissions standards for power plants—all of them.”",
+      "zh": "“我们还提议废除所有剩余的发电厂温室气体排放标准，一个不留。”"
+    },
+    {
+      "id": 38,
+      "startMs": 243200,
+      "endMs": 249280,
+      "en": "“The reality is that America produces energy better and cleaner than anywhere else in the world.”",
+      "zh": "“事实是，美国的能源生产比世界其他任何地方都更好、更清洁。”"
+    },
+    {
+      "id": 39,
+      "startMs": 249600,
+      "endMs": 255920,
+      "en": "The power-generating sector is already America's second-largest source of greenhouse gases, after transportation.",
+      "zh": "在美国，发电行业已经是温室气体的第二大来源，仅次于交通运输。"
+    },
+    {
+      "id": 40,
+      "startMs": 256400,
+      "endMs": 261840,
+      "en": "Mr Zeldin says his changes will save the industry more than $300 billion.",
+      "zh": "泽尔丁先生称，这些变更将为该行业节省超过3000亿美元。"
+    },
+    {
+      "id": 41,
+      "startMs": 261840,
+      "endMs": 264240,
+      "en": "“It's a different day under President Trump.”",
+      "zh": "“特朗普总统执政，时代已经不同了。”"
+    },
+    {
+      "id": 42,
+      "startMs": 264800,
+      "endMs": 272480,
+      "en": "“Previous administrations sought overbearing, often unlawful rules to destroy reliable baseload power.”",
+      "zh": "“前几届政府试图用专横且往往违法的规则摧毁可靠的基荷电力。”"
+    },
+    {
+      "id": 43,
+      "startMs": 273900,
+      "endMs": 281260,
+      "en": "“They made energy prices skyrocket and threatened communities and states across the country.”",
+      "zh": "“这些规则推高了能源价格，也威胁到全国各地的社区和州。”"
+    },
+    {
+      "id": 44,
+      "startMs": 281820,
+      "endMs": 288780,
+      "en": "This comes as rapid data-centre construction has created huge new demand for electricity.",
+      "zh": "与此同时，数据中心迅速建设，带来了巨大的新增用电需求。"
+    },
+    {
+      "id": 45,
+      "startMs": 289260,
+      "endMs": 292380,
+      "en": "Our business correspondent, Samira Hussein, in New York.",
+      "zh": "本台驻纽约商业记者萨米拉·侯赛因报道。"
+    },
+    {
+      "id": 46,
+      "startMs": 293780,
+      "endMs": 299220,
+      "en": "Prince Harry, King Charles's youngest son, has just moved back to the UK with his family.",
+      "zh": "查尔斯国王的小儿子哈里王子刚刚和家人搬回英国。"
+    },
+    {
+      "id": 47,
+      "startMs": 299220,
+      "endMs": 310260,
+      "en": "But now it has emerged that Harry and his wife Meghan changed their children's school just days after they started, over security concerns about Archie and Lilibet's school run.",
+      "zh": "但如今有消息称，哈里和妻子梅根因担心阿奇和莉莉贝特上学途中的安全，在孩子入学几天后就为他们换了学校。"
+    },
+    {
+      "id": 48,
+      "startMs": 310660,
+      "endMs": 316420,
+      "en": "A big question after the family's return to Britain is: who should pay for the Sussexes' security?",
+      "zh": "一家人返回英国后，一个重大问题是：谁该为萨塞克斯夫妇的安保买单？"
+    },
+    {
+      "id": 49,
+      "startMs": 316420,
+      "endMs": 322100,
+      "en": "Their status was downgraded six years ago after they stepped back from being working royals.",
+      "zh": "六年前，他们退出王室公务后，安保级别随之下调。"
+    },
+    {
+      "id": 50,
+      "startMs": 322340,
+      "endMs": 330500,
+      "en": "But their publicly funded protection is understood to be under review now that they and their two children live in the UK full-time.",
+      "zh": "不过，据了解，既然他们和两个孩子已在英国长期居住，公费安保将接受重新审查。"
+    },
+    {
+      "id": 51,
+      "startMs": 330820,
+      "endMs": 337300,
+      "en": "I asked our royal correspondent Sean Coughlan why their security had become such a talked-about subject in Britain.",
+      "zh": "我问了本台王室事务记者肖恩·考夫兰，为什么他们的安保在英国成了热门话题。"
+    },
+    {
+      "id": 52,
+      "startMs": 337700,
+      "endMs": 344260,
+      "en": "Well, in the past it was controversial when they lived in California, particularly for Prince Harry.",
+      "zh": "过去，他们住在加利福尼亚时，这件事颇有争议，尤其是对哈里王子而言。"
+    },
+    {
+      "id": 53,
+      "startMs": 344260,
+      "endMs": 349220,
+      "en": "He was particularly upset that, on returning to the UK, he didn't have the level of security he felt he should have.",
+      "zh": "他尤其不满的是，回到英国后，他没有得到自己认为理应享有的安保级别。"
+    },
+    {
+      "id": 54,
+      "startMs": 349220,
+      "endMs": 353800,
+      "en": "He thought the risks hadn't really changed.",
+      "zh": "他认为，风险其实并没有改变。"
+    },
+    {
+      "id": 55,
+      "startMs": 353800,
+      "endMs": 358120,
+      "en": "He was still a member of the royal family, still the son of the king.",
+      "zh": "他仍是王室成员，仍然是国王的儿子。"
+    },
+    {
+      "id": 56,
+      "startMs": 358200,
+      "endMs": 362600,
+      "en": "What's changed is that they're now full-time residents of the UK.",
+      "zh": "如今的变化是，他们现在长期居住在英国。"
+    },
+    {
+      "id": 57,
+      "startMs": 362760,
+      "endMs": 366600,
+      "en": "Arrangements that used to cover occasional trips have changed.",
+      "zh": "过去针对偶尔出行的安排也发生了变化。"
+    },
+    {
+      "id": 58,
+      "startMs": 366680,
+      "endMs": 370840,
+      "en": "A committee considers these matters; it's known as RAVEC.",
+      "zh": "有个委员会负责审议这些事项，名为 RAVEC。"
+    },
+    {
+      "id": 59,
+      "startMs": 371560,
+      "endMs": 382280,
+      "en": "It's the Executive Committee for the Protection of Royalty and Public Figures, which decides what protection royalty or VIPs should receive.",
+      "zh": "它是王室及公众人物保护执行委员会，负责决定王室成员或贵宾应获得何种公共保护。"
+    },
+    {
+      "id": 60,
+      "startMs": 382680,
+      "endMs": 392520,
+      "en": "It now seems the committee has met and wants to reconsider the security given to Prince Harry, Meghan and their children.",
+      "zh": "目前看来，委员会已经开会，并希望重新考虑哈里王子、梅根及其子女应获的安保级别。"
+    },
+    {
+      "id": 61,
+      "startMs": 392520,
+      "endMs": 400360,
+      "en": "Their circumstances have changed, so a review is under way to consider whether their security should change too.",
+      "zh": "他们的情况已经改变，因此正在审查安保是否也应随之调整。"
+    },
+    {
+      "id": 62,
+      "startMs": 400440,
+      "endMs": 403160,
+      "en": "They're not proposing to pay for it themselves, are they?",
+      "zh": "他们并不打算自己出钱，对吧？"
+    },
+    {
+      "id": 63,
+      "startMs": 403160,
+      "endMs": 406840,
+      "en": "They want the British taxpayer to fund it.",
+      "zh": "他们希望由英国纳税人出资。"
+    },
+    {
+      "id": 64,
+      "startMs": 407080,
+      "endMs": 413000,
+      "en": "That would be public funding, perhaps alongside their own private security; we don't know.",
+      "zh": "那将是公共资金，也可能是在他们自己的私人安保之外另行提供；我们并不清楚。"
+    },
+    {
+      "id": 65,
+      "startMs": 413500,
+      "endMs": 418540,
+      "en": "As is usual in such cases, security levels are always confidential.",
+      "zh": "像这类情况通常一样，安保级别始终是保密的。"
+    },
+    {
+      "id": 66,
+      "startMs": 418620,
+      "endMs": 425980,
+      "en": "The Home Office will never say exactly what protection was provided or what risks it relates to.",
+      "zh": "英国内政部绝不会具体说明提供了什么保护，或相关风险是什么。"
+    },
+    {
+      "id": 67,
+      "startMs": 425980,
+      "endMs": 429420,
+      "en": "So it all sits under a cloud of confidentiality.",
+      "zh": "所以这一切都笼罩在保密之中。"
+    },
+    {
+      "id": 68,
+      "startMs": 429500,
+      "endMs": 432620,
+      "en": "Their security is in the news for more than one reason.",
+      "zh": "他们的安保问题不止一个方面登上了新闻。"
+    },
+    {
+      "id": 69,
+      "startMs": 432620,
+      "endMs": 438620,
+      "en": "Their children briefly attended school in the UK, then had to move to another school over security concerns.",
+      "zh": "他们的孩子曾短暂在英国上学，后来因安保顾虑不得不转到另一所学校。"
+    },
+    {
+      "id": 70,
+      "startMs": 438780,
+      "endMs": 442860,
+      "en": "Yes, that's a rather strange twist in the story we've heard this evening.",
+      "zh": "是的，这给我们今晚听到的故事添了一个相当奇怪的转折。"
+    },
+    {
+      "id": 71,
+      "startMs": 443180,
+      "endMs": 448700,
+      "en": "The children had started a new school after moving from the US to the UK.",
+      "zh": "孩子们从美国搬到英国后，已经开始在一所新学校上学。"
+    },
+    {
+      "id": 72,
+      "startMs": 448700,
+      "endMs": 452460,
+      "en": "They'd gone through the difficult experience of starting at a new school.",
+      "zh": "他们经历了转学、重新开始上学的艰难过程。"
+    },
+    {
+      "id": 73,
+      "startMs": 452460,
+      "endMs": 455580,
+      "en": "That's always tough for any family, and for any child.",
+      "zh": "这对任何家庭、任何孩子来说都不容易。"
+    },
+    {
+      "id": 74,
+      "startMs": 455660,
+      "endMs": 461420,
+      "en": "They'd only been there a couple of days when it was decided they'd have to move school again.",
+      "zh": "他们在那里才上了几天学，就决定必须再次转学。"
+    },
+    {
+      "id": 75,
+      "startMs": 461420,
+      "endMs": 470580,
+      "en": "And the thinking behind it, it seems, is that their private security team worried the school run might not be secure enough,",
+      "zh": "而他们这么决定的原因似乎是，私人安保团队担心无法确保孩子上学路上的安全，"
+    },
+    {
+      "id": 76,
+      "startMs": 470980,
+      "endMs": 477620,
+      "en": "and there seemed to be specific worries about heavy traffic on the school run and the distance they had to travel.",
+      "zh": "尤其担心上学路上交通繁忙，以及他们需要走多远。"
+    },
+    {
+      "id": 77,
+      "startMs": 477620,
+      "endMs": 479780,
+      "en": "We don't know exactly which school it is,",
+      "zh": "我们不知道具体是哪所学校，"
+    },
+    {
+      "id": 78,
+      "startMs": 479860,
+      "endMs": 484820,
+      "en": "or how far the children had to travel, but this was enough to worry their security advisers,",
+      "zh": "也不知道孩子们要走多远；但这足以让他们的安保顾问担忧，"
+    },
+    {
+      "id": 79,
+      "startMs": 484820,
+      "endMs": 488740,
+      "en": "who thought the journey wasn't safe, so the children will now go to another school.",
+      "zh": "顾问认为这段路不安全，因此孩子们现在要转去另一所学校。"
+    },
+    {
+      "id": 80,
+      "startMs": 488820,
+      "endMs": 500260,
+      "en": "It does feel, Sean, that there are real tensions between Harry and Meghan and the royal family, or the Firm, since their return to the UK.",
+      "zh": "肖恩，他们回到英国后，哈里和梅根与王室——也就是人们常说的“王室机构”——之间似乎确实存在紧张关系。"
+    },
+    {
+      "id": 81,
+      "startMs": 500420,
+      "endMs": 506100,
+      "en": "Well, I think that's right. Questions about security are part of a wider swirl of questions about what their role is.",
+      "zh": "嗯，我认为确实如此。安保问题只是围绕他们定位的一系列疑问之一。"
+    },
+    {
+      "id": 82,
+      "startMs": 506260,
+      "endMs": 512340,
+      "en": "They'll soon appear at major public events, and many people will see these as royal occasions.",
+      "zh": "他们很快会出席大型公共活动，很多人会把这些场合看作王室活动。"
+    },
+    {
+      "id": 83,
+      "startMs": 512340,
+      "endMs": 518260,
+      "en": "They'll be waving, smiling, having photographs taken, and treated a bit like a royal visit.",
+      "zh": "他们会挥手、微笑、合影，受到的对待也有点像王室出访。"
+    },
+    {
+      "id": 84,
+      "startMs": 518260,
+      "endMs": 520980,
+      "en": "But Buckingham Palace will say that's completely wrong.",
+      "zh": "但白金汉宫会说，这种看法完全错了。"
+    },
+    {
+      "id": 85,
+      "startMs": 520980,
+      "endMs": 527160,
+      "en": "These are just people carrying out events like celebrities, and I think there's a kind of tension there.",
+      "zh": "他们不过是像名人一样参加活动；我认为这其中存在某种紧张关系。"
+    },
+    {
+      "id": 86,
+      "startMs": 527480,
+      "endMs": 532360,
+      "en": "There's possibly a battle for media attention, and a battle for public opinion as well.",
+      "zh": "这可能既是一场争夺媒体关注的较量，也是一场争取公众舆论的较量。"
+    },
+    {
+      "id": 87,
+      "startMs": 532360,
+      "endMs": 534600,
+      "en": "I think these things will play out this autumn.",
+      "zh": "我认为这些事会在今年秋天继续发展。"
+    },
+    {
+      "id": 88,
+      "startMs": 534920,
+      "endMs": 538600,
+      "en": "They've been away a long time; their return is like a soap opera, you know.",
+      "zh": "他们离开了很久。你知道，他们这次回来有点像肥皂剧的剧情。"
+    },
+    {
+      "id": 89,
+      "startMs": 538600,
+      "endMs": 543880,
+      "en": "The character who left has turned up again, and that always means conflict. Sean Coughlan.",
+      "zh": "离开的角色再次登场，这总意味着冲突。肖恩·考夫兰。"
+    },
+    {
+      "id": 90,
+      "startMs": 545080,
+      "endMs": 549080,
+      "en": "A breast cancer diagnosis was once regarded as a death sentence.",
+      "zh": "乳腺癌曾一度被视为绝症判决。"
+    },
+    {
+      "id": 91,
+      "startMs": 549080,
+      "endMs": 553960,
+      "en": "But over the past 50 years, treatment and outcomes have been transformed.",
+      "zh": "但过去50年来，治疗手段和治疗效果已发生巨大变化。"
+    },
+    {
+      "id": 92,
+      "startMs": 554120,
+      "endMs": 558600,
+      "en": "Professor Ian Smith, an oncologist and a world-leading expert on the disease,",
+      "zh": "肿瘤科医生、该疾病领域的世界顶尖专家伊恩·史密斯教授，"
+    },
+    {
+      "id": 93,
+      "startMs": 559000,
+      "endMs": 566200,
+      "en": "has just published a book, Doctor I Found a Lump, which he calls the pioneering story of breast cancer medicine.",
+      "zh": "刚出版了《医生，我发现了肿块》一书，他称这本书讲述了乳腺癌医学的开创历程。"
+    },
+    {
+      "id": 94,
+      "startMs": 566680,
+      "endMs": 573320,
+      "en": "A former patient, Debbie McMenamin, and Professor Smith have been speaking to the BBC about their experiences.",
+      "zh": "曾接受治疗的患者黛比·麦克梅纳明和史密斯教授向 BBC 讲述了他们的经历。"
+    },
+    {
+      "id": 95,
+      "startMs": 573720,
+      "endMs": 579720,
+      "en": "When I began, more than 60% of patients died of breast cancer—the majority.",
+      "zh": "我刚入行时，超过60%的乳腺癌患者会死亡，占了大多数。"
+    },
+    {
+      "id": 96,
+      "startMs": 580280,
+      "endMs": 583000,
+      "en": "But now it's less than 30%.",
+      "zh": "如今这个比例不到30%。"
+    },
+    {
+      "id": 97,
+      "startMs": 583480,
+      "endMs": 587400,
+      "en": "It's one of the most dramatic stories in all of medicine, I think.",
+      "zh": "我认为，这是整个医学领域最显著的进步之一。"
+    },
+    {
+      "id": 98,
+      "startMs": 587400,
+      "endMs": 591720,
+      "en": "I think the key was what we didn't realize.",
+      "zh": "我认为，关键在于我们过去没有意识到这一点。"
+    },
+    {
+      "id": 99,
+      "startMs": 591800,
+      "endMs": 597640,
+      "en": "Microscopic cancer cells develop very early in breast cancer.",
+      "zh": "乳腺癌的微小癌细胞很早就会形成。"
+    },
+    {
+      "id": 100,
+      "startMs": 597640,
+      "endMs": 604380,
+      "en": "By the time a patient comes to hospital with a lump, those microscopic cancer cells have often spread.",
+      "zh": "患者发现肿块、来到医院时，这些微小癌细胞往往已经扩散。"
+    },
+    {
+      "id": 101,
+      "startMs": 604460,
+      "endMs": 607900,
+      "en": "So it doesn't matter how skillful the surgeon is; it's too late.",
+      "zh": "所以，无论外科医生技术多么高超，都已经太迟了。"
+    },
+    {
+      "id": 102,
+      "startMs": 608220,
+      "endMs": 614540,
+      "en": "Once we understood this, we began giving treatment after surgery to kill those cells off,",
+      "zh": "明白这一点后，我们开始在手术后给予治疗，以杀灭这些癌细胞，"
+    },
+    {
+      "id": 103,
+      "startMs": 614540,
+      "endMs": 620620,
+      "en": "what we call adjuvant medical therapy. That was the biggest transformation.",
+      "zh": "这就是所谓的辅助药物治疗，也是最大的变革。"
+    },
+    {
+      "id": 104,
+      "startMs": 621020,
+      "endMs": 628540,
+      "en": "Debbie, can I bring you in? You went to Professor Smith and said, 'Doctor, I found a lump.'",
+      "zh": "黛比，我来问问你。你曾去找史密斯教授，说：“医生，我发现了一个肿块。”"
+    },
+    {
+      "id": 105,
+      "startMs": 628860,
+      "endMs": 632620,
+      "en": "The lump was diagnosed as an aggressive form of breast cancer.",
+      "zh": "肿块被确诊为一种侵袭性乳腺癌。"
+    },
+    {
+      "id": 106,
+      "startMs": 632860,
+      "endMs": 641260,
+      "en": "I was advised to have chemotherapy, radiotherapy and five years of endocrine therapy, tamoxifen.",
+      "zh": "我被建议接受化疗、放疗，以及为期五年的内分泌治疗——他莫昔芬。"
+    },
+    {
+      "id": 107,
+      "startMs": 641740,
+      "endMs": 649420,
+      "en": "I benefited from real-time research and was prescribed tamoxifen for five years.",
+      "zh": "我也受益于实时推进的研究，并接受了五年的他莫昔芬治疗。"
+    },
+    {
+      "id": 108,
+      "startMs": 649900,
+      "endMs": 655660,
+      "en": "At the end of those five years, I learned that research conducted during that first five-year period...",
+      "zh": "五年疗程结束时，我得知在那前五年进行的研究……"
+    },
+    {
+      "id": 109,
+      "startMs": 655660,
+      "endMs": 660300,
+      "en": "showed that people like me would benefit from taking it for ten years.",
+      "zh": "显示像我这样的人服用十年会更有益。"
+    },
+    {
+      "id": 110,
+      "startMs": 660620,
+      "endMs": 665520,
+      "en": "So I was very conscious that I was benefiting from the research.",
+      "zh": "所以我很清楚，自己正受益于这项研究。"
+    },
+    {
+      "id": 111,
+      "startMs": 665600,
+      "endMs": 668320,
+      "en": "One of the best pieces of advice Ian gave me was,",
+      "zh": "伊恩给过我的最好建议之一是："
+    },
+    {
+      "id": 112,
+      "startMs": 668720,
+      "endMs": 673280,
+      "en": "'Don't look at the packet or read the side effects, because most people don't have any.'",
+      "zh": "“别看药盒，也别读副作用说明，因为大多数人都不会出现副作用。”"
+    },
+    {
+      "id": 113,
+      "startMs": 673680,
+      "endMs": 679760,
+      "en": "There have been major advances in screening, but is there a risk of overdiagnosis?",
+      "zh": "筛查已取得重大进展，但会不会有过度诊断的风险？"
+    },
+    {
+      "id": 114,
+      "startMs": 680000,
+      "endMs": 687360,
+      "en": "Breast cancer screening is very controversial; in my view, it has never convincingly been shown to save lives.",
+      "zh": "乳腺癌筛查颇具争议；在我看来，它从未被令人信服地证明能够挽救生命。"
+    },
+    {
+      "id": 115,
+      "startMs": 687600,
+      "endMs": 695040,
+      "en": "The improvement in survival is just as high in younger women, who were never screened, as in older women.",
+      "zh": "年轻女性即使从未接受筛查，生存率的改善也和年长女性一样显著。"
+    },
+    {
+      "id": 116,
+      "startMs": 695280,
+      "endMs": 702400,
+      "en": "Early detection is very important. If a woman finds a lump, what next steps excite you?",
+      "zh": "早期发现非常重要。如果女性发现肿块，接下来有哪些进展让你感到振奋？"
+    },
+    {
+      "id": 117,
+      "startMs": 702800,
+      "endMs": 709760,
+      "en": "We now have the technology to identify the specific gene mutations in a cancer.",
+      "zh": "如今我们已有技术，可以识别癌症中的特定基因突变。"
+    },
+    {
+      "id": 118,
+      "startMs": 710320,
+      "endMs": 714320,
+      "en": "You can design a drug to target the mutation and switch it off.",
+      "zh": "我们可以设计药物，针对这种突变并将其关闭。"
+    },
+    {
+      "id": 119,
+      "startMs": 714640,
+      "endMs": 717280,
+      "en": "So we're now in an era of targeted therapy.",
+      "zh": "因此，我们现在进入了靶向治疗时代。"
+    },
+    {
+      "id": 120,
+      "startMs": 717840,
+      "endMs": 721520,
+      "en": "And another thing is liquid biopsies.",
+      "zh": "另一个进展是液体活检。"
+    },
+    {
+      "id": 121,
+      "startMs": 722020,
+      "endMs": 725860,
+      "en": "In the past, we couldn't detect these microscopic cells.",
+      "zh": "过去，我们无法检测这些微小细胞。"
+    },
+    {
+      "id": 122,
+      "startMs": 725860,
+      "endMs": 734500,
+      "en": "Now we can detect tiny bits of DNA—the cancer's genetic material—in the bloodstream.",
+      "zh": "现在，我们能在血液中检测到微量 DNA，也就是癌症的遗传物质。"
+    },
+    {
+      "id": 123,
+      "startMs": 734900,
+      "endMs": 738900,
+      "en": "If it's there, it means the patient needs treatment to get rid of it.",
+      "zh": "如果检测到这些 DNA，就意味着患者需要治疗来清除它。"
+    },
+    {
+      "id": 124,
+      "startMs": 739780,
+      "endMs": 745940,
+      "en": "And if you start treatment and the DNA goes away, that shows the treatment is working.",
+      "zh": "如果开始治疗后 DNA 消失，就说明治疗正在起效。"
+    },
+    {
+      "id": 125,
+      "startMs": 746660,
+      "endMs": 751940,
+      "en": "So we'll be much more confident that an individual patient is on the right drug.",
+      "zh": "这样，我们就能更有把握地确认每位患者用对了药。"
+    },
+    {
+      "id": 126,
+      "startMs": 752260,
+      "endMs": 756800,
+      "en": "And Debbie, the fundraising you've been involved in suggests that you're fully recovered.",
+      "zh": "黛比，你参与筹款活动，这似乎说明你已经完全康复。"
+    },
+    {
+      "id": 127,
+      "startMs": 756960,
+      "endMs": 759600,
+      "en": "Through Ian, I've got involved in a big cycling event.",
+      "zh": "通过伊恩，我参与了一项大型骑行活动。"
+    },
+    {
+      "id": 128,
+      "startMs": 759840,
+      "endMs": 764480,
+      "en": "We go to the Alps and cycle for four days up mountains.",
+      "zh": "我们去阿尔卑斯山区，连续四天骑车爬山。"
+    },
+    {
+      "id": 129,
+      "startMs": 764720,
+      "endMs": 770320,
+      "en": "We aim to climb an elevation equal to the height of Everest on our bikes.",
+      "zh": "我们骑车爬升的海拔总高度，要相当于珠穆朗玛峰的高度。"
+    },
+    {
+      "id": 130,
+      "startMs": 770800,
+      "endMs": 772880,
+      "en": "It's very arduous, but great fun.",
+      "zh": "这非常艰苦，但也很有趣。"
+    },
+    {
+      "id": 131,
+      "startMs": 773120,
+      "endMs": 775120,
+      "en": "But it suggests that you're in good shape.",
+      "zh": "但这说明你的身体状况很好。"
+    },
+    {
+      "id": 132,
+      "startMs": 775840,
+      "endMs": 781720,
+      "en": "Well, to an extent. But I have to say, having just read the book last night,",
+      "zh": "嗯，在某种程度上是。但我得说，我昨晚刚读完这本书，"
+    },
+    {
+      "id": 133,
+      "startMs": 781720,
+      "endMs": 788680,
+      "en": "Ian talks about how exercise reduces the risk of recurrence by up to 40%.",
+      "zh": "伊恩提到，运动最多能将癌症复发风险降低40%。"
+    },
+    {
+      "id": 134,
+      "startMs": 789640,
+      "endMs": 798520,
+      "en": "So, dare I say it, any fit and healthy post-treatment breast cancer patient should do this with us, because it's good for them and for research.",
+      "zh": "所以我敢说，任何身体健康、完成乳腺癌治疗的患者都该和我们一起参加，这对他们和研究都有好处。"
+    },
+    {
+      "id": 135,
+      "startMs": 798520,
+      "endMs": 807160,
+      "en": "Breast cancer survivor Debbie McMenamin and British oncologist Professor Ian Smith speaking to Tim Franks.",
+      "zh": "乳腺癌康复者黛比·麦克梅纳明和英国肿瘤科医生伊恩·史密斯教授接受了蒂姆·弗兰克斯采访。"
+    },
+    {
+      "id": 136,
+      "startMs": 808500,
+      "endMs": 816500,
+      "en": "US actress Sydney Sweeney has a history of controversial marketing campaigns, selling soap infused with her own bathwater.",
+      "zh": "美国女演员西德妮·斯威尼曾有过颇具争议的营销活动，比如出售浸有她本人洗澡水的肥皂。"
+    },
+    {
+      "id": 137,
+      "startMs": 817140,
+      "endMs": 820660,
+      "en": "She also posed in a jeans advert that hinted at eugenics.",
+      "zh": "她还为一则牛仔裤广告摆拍，该广告暗示了优生学。"
+    },
+    {
+      "id": 138,
+      "startMs": 820980,
+      "endMs": 829700,
+      "en": "Her latest ad, promoting a betting app, is ruffling feathers in sport after showing her in highly revealing poses.",
+      "zh": "她最新的一则博彩应用广告因展示她穿着暴露的姿势，在体育界引发争议。"
+    },
+    {
+      "id": 139,
+      "startMs": 829940,
+      "endMs": 836420,
+      "en": "Dozens of female athletes say it objectifies women in sport. Helena Burke has the story.",
+      "zh": "数十名女运动员称，该广告把女性体育运动员物化了。海伦娜·伯克报道。"
+    },
+    {
+      "id": 140,
+      "startMs": 836420,
+      "endMs": 845540,
+      "en": "This Novig sports betting ad shows Sydney Sweeney completely naked, with sports equipment strategically covering certain parts of her body.",
+      "zh": "这则 Novig 体育博彩广告中，西德妮·斯威尼全裸出镜，用运动器材巧妙遮住身体的部分部位。"
+    },
+    {
+      "id": 141,
+      "startMs": 845940,
+      "endMs": 850820,
+      "en": "Since it was posted on Instagram last week, the video has received nearly 40 million views.",
+      "zh": "这段视频上周发布到 Instagram 后，浏览量已接近4,000万。"
+    },
+    {
+      "id": 142,
+      "startMs": 850820,
+      "endMs": 852980,
+      "en": "But not everyone is a fan.",
+      "zh": "但并非所有人都喜欢这则广告。"
+    },
+    {
+      "id": 143,
+      "startMs": 853300,
+      "endMs": 860740,
+      "en": "A string of athletes have criticised the video, saying it sets women's sport back by framing female athletes as sexual objects.",
+      "zh": "许多运动员批评这段视频，称它把女运动员塑造成性对象，让女子体育倒退。"
+    },
+    {
+      "id": 144,
+      "startMs": 861220,
+      "endMs": 867380,
+      "en": "After finishing her race at the World Athletics Ultimate Championship, British sprinter Amy Hunt joined the chorus.",
+      "zh": "英国短跑运动员艾米·亨特在世界田径终极锦标赛完成比赛后，也加入了批评声浪。"
+    },
+    {
+      "id": 145,
+      "startMs": 867620,
+      "endMs": 874740,
+      "en": "Sydney Sweeney, this is what women in sport look like: 21.4. Muscles, hard work, sweat, blood and tears.",
+      "zh": "西德妮·斯威尼，这才是女性体育的样子：21.4秒。肌肉、努力、汗水、鲜血和泪水。"
+    },
+    {
+      "id": 146,
+      "startMs": 875140,
+      "endMs": 882100,
+      "en": "In response to the ad, dozens of videos have been posted online by female athletes showing themselves training and competing.",
+      "zh": "针对这则广告，数十名女运动员在网上发布了自己训练和比赛的视频。"
+    },
+    {
+      "id": 147,
+      "startMs": 882500,
+      "endMs": 887140,
+      "en": "Olympic water polo player Tilly Kearns told the Australian Broadcasting Corporation",
+      "zh": "奥运会水球运动员蒂莉·卡恩斯对澳大利亚广播公司表示，"
+    },
+    {
+      "id": 148,
+      "startMs": 887380,
+      "endMs": 892740,
+      "en": "She believes the ad undermines progress in changing public perceptions of women's sport.",
+      "zh": "她认为，这则广告损害了改变公众对女子体育看法的进展。"
+    },
+    {
+      "id": 149,
+      "startMs": 892980,
+      "endMs": 901700,
+      "en": "It's something I, like most female athletes, spend my whole career trying to rebut: we're obviously much more than our bodies.",
+      "zh": "这正是我和许多女运动员整个职业生涯都在努力反驳的观点：显然，我们远不只是自己的身体。"
+    },
+    {
+      "id": 150,
+      "startMs": 902180,
+      "endMs": 909240,
+      "en": "Lately we've taken huge steps forward in female athletes being taken seriously, but this feels like a big step backwards.",
+      "zh": "近来，女运动员获得了更多重视，这是巨大进步；但这件事让人觉得倒退了一大步。"
+    },
+    {
+      "id": 151,
+      "startMs": 909400,
+      "endMs": 915720,
+      "en": "In recent years, a number of sports have relaxed uniform requirements for women, giving athletes more freedom over what they wear.",
+      "zh": "近年来，许多运动放宽了女性的着装规定，让运动员在穿着上有更多自由。"
+    },
+    {
+      "id": 152,
+      "startMs": 916280,
+      "endMs": 924440,
+      "en": "Female beach volleyball players may now wear shorts instead of bikini bottoms, while French gymnasts no longer have to wear high-cut leotards.",
+      "zh": "女子沙滩排球选手现在可以穿短裤而非比基尼下装，法国体操运动员也不再被要求穿高叉紧身衣。"
+    },
+    {
+      "id": 153,
+      "startMs": 924920,
+      "endMs": 933000,
+      "en": "Sydney Sweeney responded to the backlash by posting photos from ESPN magazine featuring athletes either naked or semi-nude.",
+      "zh": "西德妮·斯威尼发布了 ESPN 杂志上运动员全裸或半裸的照片，以回应外界批评。"
+    },
+    {
+      "id": 154,
+      "startMs": 933480,
+      "endMs": 936440,
+      "en": "But Tilly Kearns believes that's not a fair comparison.",
+      "zh": "但蒂莉·卡恩斯认为，这样比较并不公平。"
+    },
+    {
+      "id": 155,
+      "startMs": 936760,
+      "endMs": 941880,
+      "en": "She's posted the athletes, but they're posed for this magazine as athletes first,",
+      "zh": "她发布了那些运动员的照片，但她们为这本杂志摆拍时，首先是以运动员的身份，"
+    },
+    {
+      "id": 156,
+      "startMs": 941880,
+      "endMs": 947400,
+      "en": "and I think the way they're posed is: “Look at what my body can do for me in whatever sport it is.”",
+      "zh": "我认为她们的姿势表达的是：“看看我的身体能在这项运动中做到什么。”"
+    },
+    {
+      "id": 157,
+      "startMs": 947640,
+      "endMs": 955080,
+      "en": "And I think it's vastly different from her ad, where she was posed to say, “Look at my body,” instead of what it can do.",
+      "zh": "我认为这与她的广告截然不同：她摆出的姿势像是在说“看我的身体”，而不是看它能做到什么。"
+    },
+    {
+      "id": 158,
+      "startMs": 955480,
+      "endMs": 959320,
+      "en": "As the old saying goes, all publicity is good publicity.",
+      "zh": "俗话说，所有宣传都是好宣传。"
+    },
+    {
+      "id": 159,
+      "startMs": 959720,
+      "endMs": 961640,
+      "en": "Many people online have praised the ad,",
+      "zh": "许多网友称赞这则广告，"
+    },
+    {
+      "id": 160,
+      "startMs": 961720,
+      "endMs": 965720,
+      "en": "while others claim that the negative reaction is actually helping promote the brand.",
+      "zh": "另一些人则称，负面反应反而在帮助这个品牌推广。"
+    },
+    {
+      "id": 161,
+      "startMs": 966200,
+      "endMs": 973900,
+      "en": "Dr Cheri Bradish, a sports marketing expert from Toronto Metropolitan University, isn't convinced the backlash will help the betting app.",
+      "zh": "多伦多都会大学体育营销专家谢丽·布拉迪什博士并不认为，这场反弹会帮助这款博彩应用。"
+    },
+    {
+      "id": 162,
+      "startMs": 974300,
+      "endMs": 979340,
+      "en": "I think they'll realise in a post-mortem how this really didn't hit the mark,",
+      "zh": "我认为，事后复盘时他们会意识到，这次推广确实没有达到预期，"
+    },
+    {
+      "id": 163,
+      "startMs": 979340,
+      "endMs": 985500,
+      "en": "with so many key demographics and the women's sports marketplace in particular.",
+      "zh": "尤其没有打动许多关键受众群体，以及女子体育市场。"
+    },
+    {
+      "id": 164,
+      "startMs": 985980,
+      "endMs": 992300,
+      "en": "I do feel we have a healthier marketplace that's beginning in very sophisticated ways.",
+      "zh": "我确实觉得，我们正迎来一个更健康的市场，开始以非常成熟的方式发展。"
+    },
+    {
+      "id": 165,
+      "startMs": 992460,
+      "endMs": 1001020,
+      "en": "It is addressing who the true female athlete is, and representing women in sport in a really healthy, accurate way.",
+      "zh": "它正致力于呈现真正的女性运动员，并以健康、准确的方式展现体育中的女性。"
+    },
+    {
+      "id": 166,
+      "startMs": 1001340,
+      "endMs": 1004700,
+      "en": "The BBC has contacted Sydney Sweeney and Novig for comment.",
+      "zh": "BBC 已联系西德妮·斯威尼和 Novig 征求回应。"
+    },
+    {
+      "id": 167,
+      "startMs": 1005500,
+      "endMs": 1006780,
+      "en": "Helena Burke.",
+      "zh": "海伦娜·伯克。"
+    },
+    {
+      "id": 168,
+      "startMs": 1009380,
+      "endMs": 1012260,
+      "en": "And that's all from us for now.",
+      "zh": "我们今天的节目就到这里。"
+    },
+    {
+      "id": 169,
+      "startMs": 1012420,
+      "endMs": 1017540,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 170,
+      "startMs": 1018740,
+      "endMs": 1025860,
+      "en": "You can also find us on X at BBC World Service. Use the hashtag Global News Pod.",
+      "zh": "你也可以在 X 上关注 BBC World Service，并使用话题标签 Global News Pod。"
+    },
+    {
+      "id": 171,
+      "startMs": 1026020,
+      "endMs": 1034900,
+      "en": "And don't forget our sibling podcast, The Global Story, which goes in-depth and beyond the headlines on one big story.",
+      "zh": "别忘了我们的姊妹播客《The Global Story》，它会围绕一个重大话题深入报道，超越新闻标题。"
+    },
+    {
+      "id": 172,
+      "startMs": 1035460,
+      "endMs": 1044980,
+      "en": "This edition of The Global News Podcast was mixed by Darcy O'Bree, produced by Stephanie Zakreson, and edited by Karen Martin.",
+      "zh": "本期《Global News Podcast》由达西·奥布里混音，斯蒂芬妮·扎克雷森制作，凯伦·马丁编辑。"
+    },
+    {
+      "id": 173,
+      "startMs": 1045300,
+      "endMs": 1047860,
+      "en": "I'm Alex Ritson. Until next time, goodbye.",
+      "zh": "我是亚历克斯·里特森。下次再见。"
+    }
+  ]
+}

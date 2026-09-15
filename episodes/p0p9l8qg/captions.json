@@ -1,0 +1,2153 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "14 September 2026"
+  },
+  "durationMs": 1586420,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4240,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6860,
+      "endMs": 13660,
+      "en": "I'm Charlotte Gallagher, and at 14:00 GMT on Monday, the 14th of September, these are our main stories.",
+      "zh": "我是夏洛特·加拉格尔。现在是周一格林尼治时间14点，9月14日。以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 13980,
+      "endMs": 17100,
+      "en": "As Moscow attacks a train station near the Polish border,",
+      "zh": "莫斯科袭击了波兰边境附近的一座火车站，"
+    },
+    {
+      "id": 4,
+      "startMs": 17500,
+      "endMs": 21740,
+      "en": "there's a call for NATO to shoot down Russian drones over Ukraine.",
+      "zh": "有人呼吁北约击落乌克兰上空的俄罗斯无人机。"
+    },
+    {
+      "id": 5,
+      "startMs": 22220,
+      "endMs": 25500,
+      "en": "We hear about Africa's biggest-ever share sale,",
+      "zh": "我们将了解非洲有史以来最大规模的股票发售，"
+    },
+    {
+      "id": 6,
+      "startMs": 25580,
+      "endMs": 28620,
+      "en": "with thousands of Nigerians expected to invest.",
+      "zh": "预计将有数千名尼日利亚人参与投资。"
+    },
+    {
+      "id": 7,
+      "startMs": 29100,
+      "endMs": 32620,
+      "en": "And as Canada's trade war with the US intensifies,",
+      "zh": "随着加拿大与美国的贸易战不断升级，"
+    },
+    {
+      "id": 8,
+      "startMs": 33020,
+      "endMs": 37340,
+      "en": "Prime Minister Mark Carney says he wants to form a special alliance with the EU.",
+      "zh": "总理马克·卡尼表示，他希望与欧盟建立特殊联盟。"
+    },
+    {
+      "id": 9,
+      "startMs": 40560,
+      "endMs": 46080,
+      "en": "Also in this podcast, the trove of historical artefacts found in Buckingham Palace,",
+      "zh": "本期还将关注白金汉宫发现的大批历史文物，"
+    },
+    {
+      "id": 10,
+      "startMs": 46400,
+      "endMs": 49200,
+      "en": "and the man who made Jane Austen raunchy.",
+      "zh": "以及那位让简·奥斯汀作品变得大胆挑逗的男人。"
+    },
+    {
+      "id": 11,
+      "startMs": 49440,
+      "endMs": 54400,
+      "en": "Are you content to be known as the man who sexed up Jane Austen?",
+      "zh": "你愿意被称为那个给简·奥斯汀作品增添情色意味的人吗？"
+    },
+    {
+      "id": 12,
+      "startMs": 54880,
+      "endMs": 57200,
+      "en": "Yeah, I don't mind it at all.",
+      "zh": "是的，我一点也不介意。"
+    },
+    {
+      "id": 13,
+      "startMs": 61640,
+      "endMs": 63720,
+      "en": "We start with developments in Ukraine.",
+      "zh": "我们先来看乌克兰的最新进展。"
+    },
+    {
+      "id": 14,
+      "startMs": 63720,
+      "endMs": 72920,
+      "en": "As a US-based research group, the Institute for the Study of War says NATO should consider intercepting Russian drones in Ukrainian airspace.",
+      "zh": "总部位于美国的战争研究所表示，北约应考虑在乌克兰领空拦截俄罗斯无人机。"
+    },
+    {
+      "id": 15,
+      "startMs": 73320,
+      "endMs": 77560,
+      "en": "The call comes a day after Russia attacked a railway station near the Polish border.",
+      "zh": "这一呼吁是在俄罗斯袭击波兰边境附近一座火车站的次日提出的。"
+    },
+    {
+      "id": 16,
+      "startMs": 77960,
+      "endMs": 82120,
+      "en": "There were senior European officials on the trains who had just passed through the same area,",
+      "zh": "列车上有欧洲高级官员，他们刚刚经过同一地区，"
+    },
+    {
+      "id": 17,
+      "startMs": 82440,
+      "endMs": 85080,
+      "en": "including the former British Prime Minister Boris Johnson.",
+      "zh": "其中包括英国前首相鲍里斯·约翰逊。"
+    },
+    {
+      "id": 18,
+      "startMs": 85480,
+      "endMs": 87880,
+      "en": "The EU foreign policy chief, Kaja Kallas,",
+      "zh": "欧盟外交政策负责人卡娅·卡拉斯"
+    },
+    {
+      "id": 19,
+      "startMs": 88120,
+      "endMs": 91240,
+      "en": "said the attack was aimed at frightening Western countries.",
+      "zh": "表示，这次袭击意在恐吓西方国家。"
+    },
+    {
+      "id": 20,
+      "startMs": 91400,
+      "endMs": 98120,
+      "en": "It is clearly meant to scare Western countries from supporting Ukraine, from going to Ukraine.",
+      "zh": "这显然是要吓阻西方国家支持乌克兰、前往乌克兰。"
+    },
+    {
+      "id": 21,
+      "startMs": 98120,
+      "endMs": 101480,
+      "en": "It was clearly a message to the Western world.",
+      "zh": "这显然是向西方世界传递的信息。"
+    },
+    {
+      "id": 22,
+      "startMs": 101880,
+      "endMs": 103880,
+      "en": "I think we should act the opposite.",
+      "zh": "我认为我们应该采取相反的行动。"
+    },
+    {
+      "id": 23,
+      "startMs": 104040,
+      "endMs": 107720,
+      "en": "We should show that we are there for Ukraine and we are not scared off,",
+      "zh": "我们应该表明，我们会支持乌克兰，不会被吓退，"
+    },
+    {
+      "id": 24,
+      "startMs": 107880,
+      "endMs": 111320,
+      "en": "because otherwise, you know, Russia will just achieve what they want.",
+      "zh": "因为否则的话，你知道，俄罗斯就会得逞。"
+    },
+    {
+      "id": 25,
+      "startMs": 111800,
+      "endMs": 117400,
+      "en": "And NATO's Secretary General, Mark Rutte, called the attack on the Ukrainian train reckless.",
+      "zh": "北约秘书长马克·吕特称，袭击乌克兰列车的行为鲁莽。"
+    },
+    {
+      "id": 26,
+      "startMs": 117800,
+      "endMs": 124540,
+      "en": "Russia is struggling in Ukraine and continues to lash out with reckless and dangerous attacks,",
+      "zh": "俄罗斯在乌克兰陷入困境，仍不断发动鲁莽而危险的袭击，"
+    },
+    {
+      "id": 27,
+      "startMs": 124940,
+      "endMs": 129100,
+      "en": "including on civilian infrastructure close to NATO territory.",
+      "zh": "包括袭击靠近北约领土的民用基础设施。"
+    },
+    {
+      "id": 28,
+      "startMs": 130420,
+      "endMs": 136420,
+      "en": "The strike on a passenger train in Ukraine yesterday shows how desperate Putin has become.",
+      "zh": "昨天对乌克兰一列客运火车的袭击，显示普京已变得多么孤注一掷。"
+    },
+    {
+      "id": 29,
+      "startMs": 137460,
+      "endMs": 140660,
+      "en": "He thinks that he can stop us from supporting Ukraine,",
+      "zh": "他以为自己能阻止我们支持乌克兰，"
+    },
+    {
+      "id": 30,
+      "startMs": 141380,
+      "endMs": 143620,
+      "en": "and that he can undermine our unity.",
+      "zh": "还能破坏我们的团结。"
+    },
+    {
+      "id": 31,
+      "startMs": 144940,
+      "endMs": 149100,
+      "en": "He is wrong. Our answer is to increase support to Ukraine,",
+      "zh": "他错了。我们的回应是加大对乌克兰的支持，"
+    },
+    {
+      "id": 32,
+      "startMs": 149180,
+      "endMs": 151660,
+      "en": "so it has what it needs to defend itself.",
+      "zh": "让乌克兰拥有自卫所需的一切。"
+    },
+    {
+      "id": 33,
+      "startMs": 152720,
+      "endMs": 157120,
+      "en": "And our commitment to NATO's collective defence is ironclad.",
+      "zh": "我们对北约集体防御的承诺坚如磐石。"
+    },
+    {
+      "id": 34,
+      "startMs": 157120,
+      "endMs": 163520,
+      "en": "We will always do what is necessary to protect every inch of Allied territory.",
+      "zh": "我们将始终采取必要行动，保护盟国领土的每一寸土地。"
+    },
+    {
+      "id": 35,
+      "startMs": 163920,
+      "endMs": 167200,
+      "en": "As for NATO intercepting Russian drones in Ukraine,",
+      "zh": "至于北约在乌克兰拦截俄罗斯无人机一事，"
+    },
+    {
+      "id": 36,
+      "startMs": 167200,
+      "endMs": 170480,
+      "en": "Yuri Sak, a former adviser to the Ministry of Defence in Ukraine,",
+      "zh": "乌克兰国防部前顾问尤里·萨克"
+    },
+    {
+      "id": 37,
+      "startMs": 170720,
+      "endMs": 172960,
+      "en": "said he didn't think that would be possible.",
+      "zh": "表示，他认为这不可能实现。"
+    },
+    {
+      "id": 38,
+      "startMs": 173120,
+      "endMs": 175040,
+      "en": "Of course, NATO should get involved in our view,",
+      "zh": "当然，在我们看来，北约应该介入，"
+    },
+    {
+      "id": 39,
+      "startMs": 175520,
+      "endMs": 181120,
+      "en": "but at this stage, I don't think NATO has the capacity or capability to actually deal with these kind of threats.",
+      "zh": "但现阶段，我认为北约没有能力或本领真正应对这类威胁。"
+    },
+    {
+      "id": 40,
+      "startMs": 181600,
+      "endMs": 187200,
+      "en": "And what is more possible and plausible is for NATO countries to closely cooperate with Ukraine,",
+      "zh": "更有可能、也更可行的是北约国家与乌克兰密切合作，"
+    },
+    {
+      "id": 41,
+      "startMs": 187520,
+      "endMs": 191280,
+      "en": "with a view to finding and beginning mass production of interceptors,",
+      "zh": "以寻找并开始大规模生产拦截器，"
+    },
+    {
+      "id": 42,
+      "startMs": 191360,
+      "endMs": 194560,
+      "en": "that will allow us to deal with this new threat of jet-powered drones.",
+      "zh": "从而应对喷气动力无人机这一新威胁。"
+    },
+    {
+      "id": 43,
+      "startMs": 194880,
+      "endMs": 199760,
+      "en": "So, how influential is the Institute for the Study of War, which released the report?",
+      "zh": "那么，发布这份报告的战争研究所有多大影响力？"
+    },
+    {
+      "id": 44,
+      "startMs": 200080,
+      "endMs": 203920,
+      "en": "I've been speaking to our diplomatic correspondent James Landale, who's in Kyiv.",
+      "zh": "我刚才采访了身在基辅的外交事务记者詹姆斯·兰代尔。"
+    },
+    {
+      "id": 45,
+      "startMs": 204480,
+      "endMs": 207200,
+      "en": "This institute is a respected body. It's non-partisan,",
+      "zh": "这家研究所颇受尊重，不带党派立场，"
+    },
+    {
+      "id": 46,
+      "startMs": 207360,
+      "endMs": 209840,
+      "en": "it's a non-profit, it's based in the US,",
+      "zh": "它是非营利机构，总部设在美国，"
+    },
+    {
+      "id": 47,
+      "startMs": 209840,
+      "endMs": 217220,
+      "en": "and it has studied this war in minute forensic detail since the full-scale invasion four and a half years ago,",
+      "zh": "自四年半前全面入侵以来，它一直以极其细致的方式研究这场战争，"
+    },
+    {
+      "id": 48,
+      "startMs": 217460,
+      "endMs": 221060,
+      "en": "so its reports and its analysis are respected.",
+      "zh": "因此，其报告和分析受到认可。"
+    },
+    {
+      "id": 49,
+      "startMs": 221460,
+      "endMs": 225380,
+      "en": "Now, when it makes a policy recommendation or suggestion like this,",
+      "zh": "不过，当它提出这样的政策建议或主张时，"
+    },
+    {
+      "id": 50,
+      "startMs": 225860,
+      "endMs": 229940,
+      "en": "it is just another voice in the debate that is taking place.",
+      "zh": "它只是当前这场辩论中的一种声音。"
+    },
+    {
+      "id": 51,
+      "startMs": 229940,
+      "endMs": 232660,
+      "en": "But it is a debate that is definitely happening,",
+      "zh": "但这场辩论确实正在进行，"
+    },
+    {
+      "id": 52,
+      "startMs": 232660,
+      "endMs": 235380,
+      "en": "here in Kyiv and other European capitals.",
+      "zh": "就在基辅和其他欧洲首都。"
+    },
+    {
+      "id": 53,
+      "startMs": 235380,
+      "endMs": 237220,
+      "en": "And the argument is essentially like this:",
+      "zh": "论点大致如下："
+    },
+    {
+      "id": 54,
+      "startMs": 237540,
+      "endMs": 242100,
+      "en": "that Russia is increasingly targeting Ukraine's borders, particularly with Poland.",
+      "zh": "俄罗斯正越来越多地以乌克兰边境为目标，尤其是与波兰接壤的边境。"
+    },
+    {
+      "id": 55,
+      "startMs": 242420,
+      "endMs": 247140,
+      "en": "And there is an argument for NATO to change its rules, to relax its rules,",
+      "zh": "有人主张北约改变规则、放宽规则，"
+    },
+    {
+      "id": 56,
+      "startMs": 247620,
+      "endMs": 254740,
+      "en": "so that NATO forces can operate in some kind of buffer zone just inside Ukrainian territory,",
+      "zh": "让北约部队能在乌克兰境内、紧贴边界的某种缓冲区行动，"
+    },
+    {
+      "id": 57,
+      "startMs": 255140,
+      "endMs": 259300,
+      "en": "to bring down Russian drones before they come close to NATO borders.",
+      "zh": "在俄罗斯无人机接近北约边境前将其击落。"
+    },
+    {
+      "id": 58,
+      "startMs": 259780,
+      "endMs": 265140,
+      "en": "Now, that is something that's supported by the institute; it's supported by some Polish politicians.",
+      "zh": "研究所支持这一做法，一些波兰政界人士也支持。"
+    },
+    {
+      "id": 59,
+      "startMs": 265300,
+      "endMs": 270180,
+      "en": "But the counterargument put by other members is that there's a risk, and that's a risk of escalation.",
+      "zh": "但其他成员提出的反方观点是，这有风险，可能导致局势升级。"
+    },
+    {
+      "id": 60,
+      "startMs": 270500,
+      "endMs": 273880,
+      "en": "There's a risk of direct NATO–Russia confrontation.",
+      "zh": "这可能导致北约与俄罗斯直接对抗。"
+    },
+    {
+      "id": 61,
+      "startMs": 274200,
+      "endMs": 277400,
+      "en": "And not all NATO members would agree on this.",
+      "zh": "而且并非所有北约成员国都会同意。"
+    },
+    {
+      "id": 62,
+      "startMs": 278160,
+      "endMs": 283600,
+      "en": "Well, look, there is a broader argument here, which is that Russia is testing NATO at the moment.",
+      "zh": "不过，这里还有一个更广泛的论点：俄罗斯目前正在试探北约。"
+    },
+    {
+      "id": 63,
+      "startMs": 283600,
+      "endMs": 286080,
+      "en": "It's probing NATO, not just on the border,",
+      "zh": "它正在试探北约，不只是在边境上，"
+    },
+    {
+      "id": 64,
+      "startMs": 286080,
+      "endMs": 289200,
+      "en": "you know, in this conflict in Ukraine and the border with Poland,",
+      "zh": "你知道，比如乌克兰战事和波兰边境一线，"
+    },
+    {
+      "id": 65,
+      "startMs": 289760,
+      "endMs": 294880,
+      "en": "but also in other areas with its hybrid activities, its gray zone activities as they're known.",
+      "zh": "还在其他领域采取所谓的混合行动，也就是灰色地带行动。"
+    },
+    {
+      "id": 66,
+      "startMs": 295280,
+      "endMs": 298400,
+      "en": "We're talking undersea cable threats and cyber attacks,",
+      "zh": "比如海底电缆受到威胁、网络攻击，"
+    },
+    {
+      "id": 67,
+      "startMs": 298400,
+      "endMs": 303360,
+      "en": "we're talking unexpected explosions in distribution warehouses,",
+      "zh": "仓储配送中心发生意外爆炸，"
+    },
+    {
+      "id": 68,
+      "startMs": 303760,
+      "endMs": 307760,
+      "en": "targeting of individuals, assassination attempts, all of that.",
+      "zh": "针对个人的袭击、暗杀企图，诸如此类。"
+    },
+    {
+      "id": 69,
+      "startMs": 308560,
+      "endMs": 314400,
+      "en": "Within that debate, there is an argument that NATO should be more proactive in pushing back on Russia.",
+      "zh": "在这场辩论中，有人认为北约应更积极地回击俄罗斯。"
+    },
+    {
+      "id": 70,
+      "startMs": 314400,
+      "endMs": 316480,
+      "en": "But yes, there are definitely concerns about it.",
+      "zh": "不过，确实有人对此表示担忧。"
+    },
+    {
+      "id": 71,
+      "startMs": 317040,
+      "endMs": 322720,
+      "en": "How likely do you think it is that NATO would get involved at this stage?",
+      "zh": "你认为北约现阶段介入的可能性有多大？"
+    },
+    {
+      "id": 72,
+      "startMs": 323120,
+      "endMs": 327920,
+      "en": "Well, NATO sort of has to act in concert, largely through unanimity.",
+      "zh": "北约在某种程度上必须协调一致地行动，主要通过全体一致来决策。"
+    },
+    {
+      "id": 73,
+      "startMs": 327920,
+      "endMs": 329840,
+      "en": "There are 32 members.",
+      "zh": "北约有32个成员国。"
+    },
+    {
+      "id": 74,
+      "startMs": 330000,
+      "endMs": 332080,
+      "en": "Obviously, the US is a key player.",
+      "zh": "显然，美国在其中发挥着关键作用。"
+    },
+    {
+      "id": 75,
+      "startMs": 332080,
+      "endMs": 337920,
+      "en": "And you have a US president who has declared that he's the peace president, who's going to end wars.",
+      "zh": "而现任美国总统宣称自己是“和平总统”，要结束战争。"
+    },
+    {
+      "id": 76,
+      "startMs": 338340,
+      "endMs": 340500,
+      "en": "Yet he's started a big war in the Middle East.",
+      "zh": "然而，他在中东挑起了一场大规模战争。"
+    },
+    {
+      "id": 77,
+      "startMs": 340500,
+      "endMs": 348900,
+      "en": "And I think his administration would be very cautious about direct NATO-Russia combat over Ukraine.",
+      "zh": "我认为他的政府在乌克兰问题上会非常谨慎，避免北约与俄罗斯直接交战。"
+    },
+    {
+      "id": 78,
+      "startMs": 349140,
+      "endMs": 358340,
+      "en": "The counterargument is: all you're talking about is bringing down unmanned drones a few miles over Polish territory.",
+      "zh": "反方的说法是：你们谈的不过是在波兰领土上空几英里处击落无人机。"
+    },
+    {
+      "id": 79,
+      "startMs": 358420,
+      "endMs": 360740,
+      "en": "The advantage is that it better defends NATO.",
+      "zh": "这样做的好处是能更好地保卫北约。"
+    },
+    {
+      "id": 80,
+      "startMs": 360740,
+      "endMs": 365700,
+      "en": "It also frees up Ukrainian air defences that can be used elsewhere.",
+      "zh": "这也能腾出乌克兰的防空力量，用于其他地方。"
+    },
+    {
+      "id": 81,
+      "startMs": 365700,
+      "endMs": 368980,
+      "en": "They also say it would put Russia back in its box.",
+      "zh": "他们还说，这会让俄罗斯收敛行动。"
+    },
+    {
+      "id": 82,
+      "startMs": 369060,
+      "endMs": 373700,
+      "en": "If NATO doesn't draw a red line like this, Russia will continue pushing ever further.",
+      "zh": "如果北约不划下这样的红线，俄罗斯就会继续得寸进尺。"
+    },
+    {
+      "id": 83,
+      "startMs": 374180,
+      "endMs": 375780,
+      "en": "That was James Landale in Kyiv.",
+      "zh": "以上是詹姆斯·兰代尔在基辅的报道。"
+    },
+    {
+      "id": 84,
+      "startMs": 376700,
+      "endMs": 386060,
+      "en": "Russia has been stepping up its attacks on Ukraine, and one of the hardest-hit regions is Donbas in the east.",
+      "zh": "俄罗斯一直在加大对乌克兰的袭击力度，东部的顿巴斯是受打击最严重的地区之一。"
+    },
+    {
+      "id": 85,
+      "startMs": 386380,
+      "endMs": 391820,
+      "en": "The area has been a major stumbling block in US-led talks on ending the war.",
+      "zh": "在美国主导的结束战争谈判中，该地区一直是主要障碍。"
+    },
+    {
+      "id": 86,
+      "startMs": 392220,
+      "endMs": 393900,
+      "en": "Vitaliy Shevchenko reports.",
+      "zh": "维塔利·舍甫琴科报道。"
+    },
+    {
+      "id": 87,
+      "startMs": 394220,
+      "endMs": 400620,
+      "en": "Kramatorsk and Sloviansk are the two biggest cities still under Ukrainian control in Donbas.",
+      "zh": "克拉马托尔斯克和斯洛维扬斯克是顿巴斯仍由乌克兰控制的两座最大城市。"
+    },
+    {
+      "id": 88,
+      "startMs": 400940,
+      "endMs": 404940,
+      "en": "They are pounded relentlessly every day by Russia.",
+      "zh": "它们每天都遭到俄罗斯的猛烈轰炸。"
+    },
+    {
+      "id": 89,
+      "startMs": 411420,
+      "endMs": 420300,
+      "en": "BBC data shows that Russia's glide-bomb launches at them more than doubled over the summer,",
+      "zh": "BBC研究数据显示，俄罗斯夏季对这两座城市发射的滑翔炸弹数量增加了一倍多，"
+    },
+    {
+      "id": 90,
+      "startMs": 420380,
+      "endMs": 423740,
+      "en": "while the number of wounded civilians tripled.",
+      "zh": "而受伤平民人数则增至原来的三倍。"
+    },
+    {
+      "id": 91,
+      "startMs": 423980,
+      "endMs": 430060,
+      "en": "Local police spokesman Pavlo Dyachenko says the devastation is immense.",
+      "zh": "当地警方发言人帕夫洛·迪亚琴科说，破坏程度极其严重。"
+    },
+    {
+      "id": 92,
+      "startMs": 430380,
+      "endMs": 443180,
+      "en": "It's the same tactic: whenever Russians approach a settlement they can hit with these weapons, they raise it to the ground.",
+      "zh": "战术还是一样：俄罗斯人一旦靠近某个居民点，只要能用这种武器打到，就会把那里夷为平地。"
+    },
+    {
+      "id": 93,
+      "startMs": 443180,
+      "endMs": 450540,
+      "en": "Their tactic is to destroy everything they see. The destruction is significant; glide bombs are powerful weapons.",
+      "zh": "他们的战术就是摧毁所见的一切。破坏十分严重，滑翔炸弹威力很大。"
+    },
+    {
+      "id": 94,
+      "startMs": 451180,
+      "endMs": 458300,
+      "en": "We're calling on families with children, everyone, to evacuate. This is the best way to protect yourself and save your life.",
+      "zh": "我们呼吁有孩子的家庭以及所有人撤离。这是保护自己、保住性命的最好办法。"
+    },
+    {
+      "id": 95,
+      "startMs": 458300,
+      "endMs": 462780,
+      "en": "Currently, Russia occupies almost 80% of Donbas,",
+      "zh": "目前，俄罗斯占领了顿巴斯近80%的地区，"
+    },
+    {
+      "id": 96,
+      "startMs": 462860,
+      "endMs": 469260,
+      "en": "and wants Ukraine to withdraw from the rest, including Kramatorsk and Sloviansk.",
+      "zh": "并要求乌克兰从其余地区撤出，包括克拉马托尔斯克和斯洛维扬斯克。"
+    },
+    {
+      "id": 97,
+      "startMs": 469660,
+      "endMs": 475600,
+      "en": "American negotiators who recently visited Moscow and Kyiv seem to favour the idea,",
+      "zh": "最近访问莫斯科和基辅的美国谈判代表似乎赞成这一想法，"
+    },
+    {
+      "id": 98,
+      "startMs": 475680,
+      "endMs": 480080,
+      "en": "but President Zelenskyy refuses to abandon the territory",
+      "zh": "但泽连斯基总统拒绝放弃这片领土，"
+    },
+    {
+      "id": 99,
+      "startMs": 480320,
+      "endMs": 483760,
+      "en": "which Russia has been unable to take by force,",
+      "zh": "俄罗斯一直未能靠武力夺取这里，"
+    },
+    {
+      "id": 100,
+      "startMs": 484000,
+      "endMs": 486400,
+      "en": "and it has been using a lot of force.",
+      "zh": "而且俄罗斯已经动用了大量武力。"
+    },
+    {
+      "id": 101,
+      "startMs": 486640,
+      "endMs": 492080,
+      "en": "John Auckland Abbey is a British volunteer who has just delivered medical aid to Sloviansk.",
+      "zh": "英国志愿者约翰·奥克兰·阿比刚刚向斯洛维扬斯克运送了医疗物资。"
+    },
+    {
+      "id": 102,
+      "startMs": 492640,
+      "endMs": 498240,
+      "en": "The level of attacks has definitely increased since the last time I was there.",
+      "zh": "我上次去那里之后，袭击明显增多了。"
+    },
+    {
+      "id": 103,
+      "startMs": 498720,
+      "endMs": 507760,
+      "en": "I've been all over Ukraine, and I've never experienced the constant fear one feels at night in Sloviansk.",
+      "zh": "我去过乌克兰各地，从未感受过斯洛维扬斯克夜里那种持续的恐惧。"
+    },
+    {
+      "id": 104,
+      "startMs": 507920,
+      "endMs": 510560,
+      "en": "In daytime, you can kind of survive it; it's manageable.",
+      "zh": "白天还能勉强应付，情况尚可控制。"
+    },
+    {
+      "id": 105,
+      "startMs": 511040,
+      "endMs": 516640,
+      "en": "But at night, when it's pitch black—and it is, because there are no lights on anywhere—",
+      "zh": "但到了夜里，四周漆黑一片——确实如此，因为到处都没有灯光——"
+    },
+    {
+      "id": 106,
+      "startMs": 517280,
+      "endMs": 521040,
+      "en": "that's when the Russians begin bombarding the city.",
+      "zh": "就在那时，俄罗斯开始轰炸这座城市。"
+    },
+    {
+      "id": 107,
+      "startMs": 521520,
+      "endMs": 526720,
+      "en": "That is normally with glide bombs, drones, and other rockets and missiles.",
+      "zh": "通常使用滑翔炸弹、无人机以及其他火箭弹和导弹。"
+    },
+    {
+      "id": 108,
+      "startMs": 526880,
+      "endMs": 534980,
+      "en": "You're woken every night at about 3:00 or 3:30 in the morning by the whole building shaking. That's my experience.",
+      "zh": "你每晚大约凌晨3点或3点半都会被震醒，整栋楼都在摇晃。这是我的亲身经历。"
+    },
+    {
+      "id": 109,
+      "startMs": 534980,
+      "endMs": 540900,
+      "en": "And 100 metres from where I was staying, an apartment block was hit and half of it demolished.",
+      "zh": "离我住处100米的地方，一栋公寓楼遭到袭击，半栋楼被夷为平地。"
+    },
+    {
+      "id": 110,
+      "startMs": 541380,
+      "endMs": 547220,
+      "en": "Vlada Terapakina is a Ukrainian volunteer who evacuates animals from frontline areas.",
+      "zh": "乌克兰志愿者弗拉达·捷拉帕基娜负责从前线地区转移动物。"
+    },
+    {
+      "id": 111,
+      "startMs": 547540,
+      "endMs": 551780,
+      "en": "She says staying in Kramatorsk means dicing with death.",
+      "zh": "她说，留在克拉马托尔斯克无异于拿生命冒险。"
+    },
+    {
+      "id": 112,
+      "startMs": 551780,
+      "endMs": 560100,
+      "en": "It hurts when you visit a shopping centre where you knew every saleswoman,",
+      "zh": "当你走进曾经熟悉的购物中心，想起认识那里的每一位女店员，心里就很难受，"
+    },
+    {
+      "id": 113,
+      "startMs": 560420,
+      "endMs": 563140,
+      "en": "where you used to shop for food or, say, shampoo,",
+      "zh": "那里曾是你买食物或洗发水之类东西的地方，"
+    },
+    {
+      "id": 114,
+      "startMs": 563940,
+      "endMs": 567220,
+      "en": "and then find out it was attacked with glide bombs,",
+      "zh": "后来却得知它遭到了滑翔炸弹袭击，"
+    },
+    {
+      "id": 115,
+      "startMs": 567460,
+      "endMs": 570580,
+      "en": "and people you knew are buried under the rubble.",
+      "zh": "你认识的人被埋在废墟之下。"
+    },
+    {
+      "id": 116,
+      "startMs": 571220,
+      "endMs": 575580,
+      "en": "People you've seen and hugged were killed or wounded.",
+      "zh": "那些你见过、拥抱过的人，有的被杀害，有的受了伤。"
+    },
+    {
+      "id": 117,
+      "startMs": 576140,
+      "endMs": 582620,
+      "en": "It's a pile of bricks now. You may be alive and well today, but dead tomorrow.",
+      "zh": "那里如今只剩一堆砖石。你今天或许还平安无事，明天却可能丧命。"
+    },
+    {
+      "id": 118,
+      "startMs": 583020,
+      "endMs": 587900,
+      "en": "Kramatorsk and Sloviansk are a key part of Ukraine's so-called fortress belt,",
+      "zh": "克拉马托尔斯克和斯洛维扬斯克是乌克兰所谓“堡垒带”的重要组成部分，"
+    },
+    {
+      "id": 119,
+      "startMs": 588220,
+      "endMs": 591660,
+      "en": "a system of heavily reinforced defensive lines in the east.",
+      "zh": "这是一套位于东部、经过大幅加固的防线体系。"
+    },
+    {
+      "id": 120,
+      "startMs": 591980,
+      "endMs": 596220,
+      "en": "Losing them would make it much easier for Russia to advance westward.",
+      "zh": "如果失守，俄罗斯向西推进就会容易得多。"
+    },
+    {
+      "id": 121,
+      "startMs": 596460,
+      "endMs": 601180,
+      "en": "As one general told Ukrainian TV, this isn't just a battle for Donbas.",
+      "zh": "正如一位将军对乌克兰电视台所说，这不只是顿巴斯之战。"
+    },
+    {
+      "id": 122,
+      "startMs": 601500,
+      "endMs": 606780,
+      "en": "It's probably the main battle for Ukraine this year and next. Vitaliy Shevchenko.",
+      "zh": "这很可能是乌克兰今年和明年的主要战役。维塔利·舍甫琴科报道。"
+    },
+    {
+      "id": 123,
+      "startMs": 608060,
+      "endMs": 616300,
+      "en": "Nigerian businessman Aliko Dangote is Africa's richest man, with an estimated net worth of around $35 billion.",
+      "zh": "尼日利亚商人阿利科·丹格特是非洲首富，估计身家约350亿美元。"
+    },
+    {
+      "id": 124,
+      "startMs": 616300,
+      "endMs": 623100,
+      "en": "Now, he's launched Africa's largest-ever share sale through the initial public offering of his oil refinery.",
+      "zh": "如今，他通过旗下炼油厂首次公开募股，发起了非洲有史以来规模最大的股票发行。"
+    },
+    {
+      "id": 125,
+      "startMs": 623500,
+      "endMs": 626860,
+      "en": "Our correspondent in Lagos, Simi Jolaoso, told me more.",
+      "zh": "我们驻拉各斯记者西米·乔拉索向我作了进一步介绍。"
+    },
+    {
+      "id": 126,
+      "startMs": 627180,
+      "endMs": 632940,
+      "en": "This is significant because it's the biggest public share sale Africa has ever seen.",
+      "zh": "这意义重大，因为这是非洲有史以来规模最大的公开股票发行。"
+    },
+    {
+      "id": 127,
+      "startMs": 633260,
+      "endMs": 637580,
+      "en": "They're offering around 4 billion shares at about 525 naira each.",
+      "zh": "此次发行约40亿股，每股约525奈拉。"
+    },
+    {
+      "id": 128,
+      "startMs": 637900,
+      "endMs": 639568,
+      "en": "That's around 40 cents.",
+      "zh": "约合40美分。"
+    },
+    {
+      "id": 129,
+      "startMs": 639945,
+      "endMs": 646220,
+      "en": "And this could raise $1.6 billion, but would value the company at $47 billion.",
+      "zh": "此举可能筹集16亿美元，但将使公司估值达到470亿美元。"
+    },
+    {
+      "id": 130,
+      "startMs": 646460,
+      "endMs": 650540,
+      "en": "So this is quite a small portion of the company.",
+      "zh": "所以，这只是该公司很小的一部分。"
+    },
+    {
+      "id": 131,
+      "startMs": 650540,
+      "endMs": 658460,
+      "en": "But Dangote has said he really wants to encourage ordinary Nigerians to buy into the company and own part of the refinery.",
+      "zh": "但丹格特表示，他确实希望鼓励普通尼日利亚人投资这家公司，拥有炼油厂的一部分。"
+    },
+    {
+      "id": 132,
+      "startMs": 660060,
+      "endMs": 663100,
+      "en": "And what is he planning to do with this money that's raised?",
+      "zh": "那么，他打算如何使用这笔筹集来的资金？"
+    },
+    {
+      "id": 133,
+      "startMs": 663500,
+      "endMs": 666460,
+      "en": "Well, the big ambition there is expansion.",
+      "zh": "嗯，最大的目标是扩大规模。"
+    },
+    {
+      "id": 134,
+      "startMs": 666460,
+      "endMs": 672940,
+      "en": "So currently the refinery processes around 700,000 barrels of crude a day.",
+      "zh": "目前，这家炼油厂每天加工约70万桶原油。"
+    },
+    {
+      "id": 135,
+      "startMs": 673260,
+      "endMs": 679500,
+      "en": "Dangote has said he hopes to double that to 1.4 million barrels of crude a day,",
+      "zh": "丹格特表示，他希望将产能翻倍至每天140万桶原油，"
+    },
+    {
+      "id": 136,
+      "startMs": 679580,
+      "endMs": 683340,
+      "en": "and plans to spend around $14 billion doing so.",
+      "zh": "并计划为此投入约140亿美元。"
+    },
+    {
+      "id": 137,
+      "startMs": 683340,
+      "endMs": 689260,
+      "en": "And if they were to achieve that, this would make the refinery one of the biggest in the world.",
+      "zh": "如果他们能实现这一目标，这家炼油厂将跻身全球规模最大的炼油厂之列。"
+    },
+    {
+      "id": 138,
+      "startMs": 689980,
+      "endMs": 695260,
+      "en": "Does the growth of this refinery mean cheaper fuel for ordinary Nigerians?",
+      "zh": "这家炼油厂的发展是否意味着普通尼日利亚人能买到更便宜的燃料？"
+    },
+    {
+      "id": 139,
+      "startMs": 695980,
+      "endMs": 698300,
+      "en": "Well, not necessarily. For years,",
+      "zh": "嗯，不一定。多年来，"
+    },
+    {
+      "id": 140,
+      "startMs": 698300,
+      "endMs": 706140,
+      "en": "Nigeria has exported its crude and then spent foreign currency buying back processed fuel.",
+      "zh": "尼日利亚一直出口原油，再花外汇买回加工后的燃料。"
+    },
+    {
+      "id": 141,
+      "startMs": 706140,
+      "endMs": 715900,
+      "en": "So being able to get rid of that cost and produce more fuel at home may, at least, remove those import costs and may bring fuel prices down there.",
+      "zh": "因此，在国内生产更多燃料或许能免去这些进口成本，也可能降低燃料价格。"
+    },
+    {
+      "id": 142,
+      "startMs": 715900,
+      "endMs": 724240,
+      "en": "But many factors affect how much ordinary Nigerians pay at the pump, including distribution costs,",
+      "zh": "但普通尼日利亚人在加油站支付多少，还受许多因素影响，包括配送成本，"
+    },
+    {
+      "id": 143,
+      "startMs": 724640,
+      "endMs": 729520,
+      "en": "the global price of crude, as well as the value of the local currency.",
+      "zh": "全球原油价格，以及当地货币的价值。"
+    },
+    {
+      "id": 144,
+      "startMs": 730000,
+      "endMs": 736320,
+      "en": "Extensive restoration work on Buckingham Palace has uncovered a cluster of curious historical items.",
+      "zh": "白金汉宫的大规模修缮工程发现了一批有趣的历史物品。"
+    },
+    {
+      "id": 145,
+      "startMs": 736720,
+      "endMs": 741040,
+      "en": "Among the finds is a ticket to a social event for royal household staff.",
+      "zh": "其中包括一张王室工作人员社交活动的入场券。"
+    },
+    {
+      "id": 146,
+      "startMs": 741520,
+      "endMs": 742960,
+      "en": "Richard Hamilton reports.",
+      "zh": "理查德·汉密尔顿报道。"
+    },
+    {
+      "id": 147,
+      "startMs": 750000,
+      "endMs": 758960,
+      "en": "A special ceremony of the changing of the guard outside Buckingham Palace on Friday commemorated the 9/11 attacks in the US.",
+      "zh": "周五，白金汉宫外举行了特别的换岗仪式，以纪念美国“9·11”袭击事件。"
+    },
+    {
+      "id": 148,
+      "startMs": 759600,
+      "endMs": 765840,
+      "en": "But behind the palace walls and under the floorboards, a quirky collection has been uncovered.",
+      "zh": "但在宫墙之后、地板之下，人们发现了一批奇特的藏品。"
+    },
+    {
+      "id": 149,
+      "startMs": 766480,
+      "endMs": 771920,
+      "en": "The misplaced items are thought to belong to staff who worked at the palace decades ago.",
+      "zh": "这些遗失物品据信属于数十年前在宫中工作的员工。"
+    },
+    {
+      "id": 150,
+      "startMs": 772240,
+      "endMs": 777520,
+      "en": "Workers found them during the $500 million refurbishment.",
+      "zh": "工人进行这项耗资5亿美元的翻修时发现了它们。"
+    },
+    {
+      "id": 151,
+      "startMs": 778000,
+      "endMs": 782960,
+      "en": "These provide glimpses of behind-the-scenes life inside the palace.",
+      "zh": "这些物品让人得以一窥宫中的幕后生活。"
+    },
+    {
+      "id": 152,
+      "startMs": 783440,
+      "endMs": 789040,
+      "en": "Embedded in a lump of brick was a ticket to an evening of playing cards or whist.",
+      "zh": "一块砖里嵌着一张入场券，邀请人参加一场扑克牌或惠斯特牌之夜。"
+    },
+    {
+      "id": 153,
+      "startMs": 789040,
+      "endMs": 794080,
+      "en": "The event was run by the Royal Household Social Club nearly 80 years ago.",
+      "zh": "这场活动由王室社交俱乐部主办，距今近80年。"
+    },
+    {
+      "id": 154,
+      "startMs": 794960,
+      "endMs": 802640,
+      "en": "Other items in this unexpected time capsule include betting slips for the football pools from 1957.",
+      "zh": "这批意外发现的“时间胶囊”中，还有1957年的足球博彩彩票。"
+    },
+    {
+      "id": 155,
+      "startMs": 802640,
+      "endMs": 806400,
+      "en": "The finds included a pair of battered black hobnail boots.",
+      "zh": "发现物还包括一双破旧的黑色钉靴。"
+    },
+    {
+      "id": 156,
+      "startMs": 806720,
+      "endMs": 814020,
+      "en": "There was also an empty Silk Cut cigarette packet and theatre listings from the Standard newspaper in 1889.",
+      "zh": "还有一个空的 Silk Cut 香烟盒，以及1889年《标准报》的剧院演出信息。"
+    },
+    {
+      "id": 157,
+      "startMs": 814020,
+      "endMs": 822820,
+      "en": "There is also a schedule detailing Queen Elizabeth II's plans for a diplomatic reception in 1977.",
+      "zh": "这里还有一份日程表，记录了伊丽莎白二世女王1977年举行外交招待会的安排。"
+    },
+    {
+      "id": 158,
+      "startMs": 824100,
+      "endMs": 828900,
+      "en": "The schedule revealed that the monarch would work the room in a clockwise direction.",
+      "zh": "日程表显示，女王会按顺时针方向与在场宾客交谈。"
+    },
+    {
+      "id": 159,
+      "startMs": 829620,
+      "endMs": 835780,
+      "en": "Also discovered were pages from the Daily Express newspaper in 1966.",
+      "zh": "人们还发现了1966年《每日快报》的报纸页面。"
+    },
+    {
+      "id": 160,
+      "startMs": 835940,
+      "endMs": 842500,
+      "en": "They described conditions in the maximum-security prison where the Great Train Robbers were incarcerated.",
+      "zh": "这些页面描述了“大火车劫案”罪犯被关押的最高戒备监狱条件。"
+    },
+    {
+      "id": 161,
+      "startMs": 843400,
+      "endMs": 848200,
+      "en": "Until now, many of the items have remained hidden within the building's infrastructure.",
+      "zh": "直到现在，这些物品中的许多仍藏在建筑设施内部。"
+    },
+    {
+      "id": 162,
+      "startMs": 848760,
+      "endMs": 858520,
+      "en": "Ageing cables, lead pipes, wiring and boilers are set to be replaced because of concerns about fire risks and water damage.",
+      "zh": "老化的电缆、铅管、线路和锅炉将被更换，以应对火灾风险和水损隐患。"
+    },
+    {
+      "id": 163,
+      "startMs": 859000,
+      "endMs": 863880,
+      "en": "King Charles and Queen Camilla are currently living in neighbouring Clarence House.",
+      "zh": "查尔斯国王和卡米拉王后目前住在附近的克拉伦斯宫。"
+    },
+    {
+      "id": 164,
+      "startMs": 864280,
+      "endMs": 873000,
+      "en": "They will not return to the official residence until the 10-year refurbishment is completed next March. That was Richard Hamilton.",
+      "zh": "这项为期10年的翻修工程要到明年3月完成，他们届时才会回到正式居所。以上是理查德·汉密尔顿的报道。"
+    },
+    {
+      "id": 165,
+      "startMs": 875800,
+      "endMs": 884280,
+      "en": "Still to come in this podcast, the US medical drama The Pitt is up for 25 Emmys, but its biggest fans are real-life doctors.",
+      "zh": "本期节目稍后还将介绍美国医疗剧《匹兹堡医魂》角逐25项艾美奖的消息，以及它最忠实的观众——现实中的医生。"
+    },
+    {
+      "id": 166,
+      "startMs": 884680,
+      "endMs": 888920,
+      "en": "What they've created with The Pitt is more than just about a good television show.",
+      "zh": "他们通过《匹兹堡医魂》创造的，不只是一个好看的电视节目。"
+    },
+    {
+      "id": 167,
+      "startMs": 889320,
+      "endMs": 894840,
+      "en": "We finally feel validated for everything that we do and everything that we go through every day.",
+      "zh": "我们终于觉得，自己每天所做的一切、所经历的一切都得到了认可。"
+    },
+    {
+      "id": 168,
+      "startMs": 894840,
+      "endMs": 896920,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 169,
+      "startMs": 897160,
+      "endMs": 902680,
+      "en": "As the trade war with the US intensifies, the Canadian Prime Minister Mark Carney says:",
+      "zh": "随着对美贸易战加剧，加拿大总理马克·卡尼表示："
+    },
+    {
+      "id": 170,
+      "startMs": 902680,
+      "endMs": 908120,
+      "en": "He wants a unique alliance with the European Union, but is not seeking membership of the bloc.",
+      "zh": "他希望与欧盟建立一种独特的联盟关系，但并不寻求加入欧盟。"
+    },
+    {
+      "id": 171,
+      "startMs": 908520,
+      "endMs": 914040,
+      "en": "He says Canada and the EU share common values and interests and should work more closely together.",
+      "zh": "他说，加拿大与欧盟拥有共同的价值观和利益，双方应加强合作。"
+    },
+    {
+      "id": 172,
+      "startMs": 914600,
+      "endMs": 919240,
+      "en": "I asked the BBC's Moira Fogerty what sort of alliance Mark Carney had in mind.",
+      "zh": "我问了 BBC 的莫伊拉·福格蒂，马克·卡尼设想的联盟会是什么样。"
+    },
+    {
+      "id": 173,
+      "startMs": 919480,
+      "endMs": 925320,
+      "en": "He specifically refers to the fact that Canada is not looking to become a member of the European Union.",
+      "zh": "他特别提到，加拿大并不打算成为欧盟成员国。"
+    },
+    {
+      "id": 174,
+      "startMs": 925320,
+      "endMs": 932920,
+      "en": "Instead, he wants this unique alliance or, in some ways, better trade and perhaps special access to certain types of industries.",
+      "zh": "相反，他希望建立这种独特联盟，或在某些方面实现更好的贸易，并可能获得特定行业的特殊准入。"
+    },
+    {
+      "id": 175,
+      "startMs": 933240,
+      "endMs": 938760,
+      "en": "It comes after a report in the Wall Street Journal that used the term “associate member status”.",
+      "zh": "此前，《华尔街日报》的一篇报道使用了“准成员身份”这一说法。"
+    },
+    {
+      "id": 176,
+      "startMs": 938760,
+      "endMs": 945880,
+      "en": "The report referred to Canada's talks with the European Union to become much closer to that huge trading and political bloc.",
+      "zh": "该报道谈到，加拿大正与欧盟协商，希望与这个庞大的贸易和政治集团走得更近。"
+    },
+    {
+      "id": 177,
+      "startMs": 946200,
+      "endMs": 953960,
+      "en": "Now, a few areas in which he's looking to enhance cooperation and collaboration with the EU across several key strategic industries include:",
+      "zh": "他希望加强与欧盟合作与协作的若干领域，涉及多个关键战略产业，包括："
+    },
+    {
+      "id": 178,
+      "startMs": 954380,
+      "endMs": 958460,
+      "en": "Energy, for example, artificial intelligence, and defence.",
+      "zh": "例如能源、人工智能和国防。"
+    },
+    {
+      "id": 179,
+      "startMs": 958860,
+      "endMs": 966060,
+      "en": "And finally, the critical supply chain for minerals used in semiconductor chips and batteries.",
+      "zh": "最后，还有用于制造半导体芯片和电池的关键矿产供应链。"
+    },
+    {
+      "id": 180,
+      "startMs": 966860,
+      "endMs": 973340,
+      "en": "And is it the relationship, the strained relationship with the US, that's driving Canada further towards the EU?",
+      "zh": "那么，是否正是与美国紧张的关系，推动加拿大进一步靠向欧盟？"
+    },
+    {
+      "id": 181,
+      "startMs": 974220,
+      "endMs": 982780,
+      "en": "It definitely is the escalating trade war with the United States that's causing Canada to strategically pivot towards other partners around the world.",
+      "zh": "确实是与美国不断升级的贸易战，促使加拿大战略性地转向世界各地的其他伙伴。"
+    },
+    {
+      "id": 182,
+      "startMs": 982780,
+      "endMs": 985180,
+      "en": "And look, the EU is just one of them, all right?",
+      "zh": "而且，欧盟只是其中之一，对吧？"
+    },
+    {
+      "id": 183,
+      "startMs": 985660,
+      "endMs": 990540,
+      "en": "But we do know that Mr Carney has longstanding ties with the European Union,",
+      "zh": "不过我们确实知道，卡尼先生与欧盟渊源已久，"
+    },
+    {
+      "id": 184,
+      "startMs": 990540,
+      "endMs": 995580,
+      "en": "because he was the Bank of England governor before entering politics.",
+      "zh": "因为他从政前曾任英格兰银行行长。"
+    },
+    {
+      "id": 185,
+      "startMs": 995900,
+      "endMs": 1000620,
+      "en": "We also know that, you know, if you've been a trading partner with the US, which Canada has been,",
+      "zh": "我们也知道，如果你一直是美国的贸易伙伴——加拿大确实如此——"
+    },
+    {
+      "id": 186,
+      "startMs": 1000940,
+      "endMs": 1005980,
+      "en": "and trade with your southern neighbour is worth about $870 billion,",
+      "zh": "而且与南边邻国的贸易额约为8700亿美元，"
+    },
+    {
+      "id": 187,
+      "startMs": 1006460,
+      "endMs": 1010380,
+      "en": "you're starting to think: how do I diversify my trading partners around the world?",
+      "zh": "你就会开始考虑：如何让自己的贸易伙伴遍布世界各地？"
+    },
+    {
+      "id": 188,
+      "startMs": 1010700,
+      "endMs": 1014300,
+      "en": "And so the EU is Canada's second-largest trading partner.",
+      "zh": "因此，欧盟是加拿大第二大贸易伙伴。"
+    },
+    {
+      "id": 189,
+      "startMs": 1014640,
+      "endMs": 1021280,
+      "en": "That figure, though, is much lower, at about $178 billion between the two trading blocs, Canada and the EU.",
+      "zh": "不过，这一数字要低得多：加拿大与欧盟这两个贸易集团之间的贸易额约为1780亿美元。"
+    },
+    {
+      "id": 190,
+      "startMs": 1021600,
+      "endMs": 1027200,
+      "en": "But clearly, he's looking to diversify, deepen and strengthen his allies and friends around the world,",
+      "zh": "但显然，他希望拓展贸易、深化合作，并加强与世界各地盟友和伙伴的关系，"
+    },
+    {
+      "id": 191,
+      "startMs": 1027680,
+      "endMs": 1030640,
+      "en": "again, because of this escalating trade war with the United States.",
+      "zh": "同样是因为这场与美国不断升级的贸易战。"
+    },
+    {
+      "id": 192,
+      "startMs": 1030960,
+      "endMs": 1039520,
+      "en": "I was wondering how the US would see this if Canada started moving closer to the European Union. Well, it's not necessarily a done deal.",
+      "zh": "我想知道，如果加拿大进一步靠近欧盟，美国会怎么看？嗯，这件事还不一定会成。"
+    },
+    {
+      "id": 193,
+      "startMs": 1039520,
+      "endMs": 1047120,
+      "en": "So the Wall Street Journal report and Mr Carney's comments show that he is keen to develop much closer ties with the European Union.",
+      "zh": "《华尔街日报》的报道和卡尼先生的表态都显示，他很希望与欧盟发展更紧密的关系。"
+    },
+    {
+      "id": 194,
+      "startMs": 1047120,
+      "endMs": 1050480,
+      "en": "But don't forget, the EU is very rules-bound.",
+      "zh": "但别忘了，欧盟受到严格规则约束。"
+    },
+    {
+      "id": 195,
+      "startMs": 1050560,
+      "endMs": 1056800,
+      "en": "If you become a full member, you've got to pay into the EU budget and follow all its regulations,",
+      "zh": "如果成为正式成员，就必须向欧盟预算缴款，并遵守欧盟的所有规定，"
+    },
+    {
+      "id": 196,
+      "startMs": 1057120,
+      "endMs": 1063200,
+      "en": "and, to some extent, give up some political decision-making to the EU, I should say, the EU body.",
+      "zh": "而且在一定程度上，要把部分政治决策权交给欧盟机构。"
+    },
+    {
+      "id": 197,
+      "startMs": 1063840,
+      "endMs": 1070080,
+      "en": "That's not exactly what Mr Carney is looking for, but there are hurdles to developing the ties he wants.",
+      "zh": "这并非卡尼先生真正想要的，不过要建立他所期望的关系仍有障碍。"
+    },
+    {
+      "id": 198,
+      "startMs": 1070480,
+      "endMs": 1075460,
+      "en": "Don't forget, too, that about nine years ago Canada signed a trade agreement with the European Union,",
+      "zh": "另外别忘了，大约九年前加拿大与欧盟签署了一项贸易协定，"
+    },
+    {
+      "id": 199,
+      "startMs": 1075860,
+      "endMs": 1081620,
+      "en": "but that deal has not been ratified by about ten EU member states. That was Maura Fogarty.",
+      "zh": "但欧盟约有十个成员国尚未批准该协定。以上是莫拉·福格蒂的报道。"
+    },
+    {
+      "id": 200,
+      "startMs": 1082100,
+      "endMs": 1092020,
+      "en": "The 78th annual Emmy Awards are in LA; this year's most-nominated programme is medical drama The Pitt, with 25 nominations.",
+      "zh": "第78届艾美奖正在洛杉矶举行；今年获提名最多的节目是医疗剧《匹兹堡医魂》，共获25项提名。"
+    },
+    {
+      "id": 201,
+      "startMs": 1092500,
+      "endMs": 1097380,
+      "en": "But as well as the critical praise, the programme has been very well received by some doctors",
+      "zh": "除了获得评论界好评，这部剧也深受一些医生欢迎，"
+    },
+    {
+      "id": 202,
+      "startMs": 1097780,
+      "endMs": 1103940,
+      "en": "so the lead actor and executive producer Noah Wyle has been invited to a medical conference in the US.",
+      "zh": "因此，主演兼执行制片人诺亚·怀尔受邀参加美国的一场医学会议。"
+    },
+    {
+      "id": 203,
+      "startMs": 1104180,
+      "endMs": 1106980,
+      "en": "Our health editor Hugh Pym has been finding out more.",
+      "zh": "我们的健康事务编辑休·皮姆进一步了解了情况。"
+    },
+    {
+      "id": 204,
+      "startMs": 1107460,
+      "endMs": 1110260,
+      "en": "Dana, the trauma team got their head CT before he went down.",
+      "zh": "达娜，创伤小组在他倒下前给他做了头部CT。"
+    },
+    {
+      "id": 205,
+      "startMs": 1110260,
+      "endMs": 1114340,
+      "en": "No results yet. All right, let's send a reminder. Hey, Dana. Hang on.",
+      "zh": "还没有结果。好，我们发个提醒。嘿，达娜，等一下。"
+    },
+    {
+      "id": 206,
+      "startMs": 1114340,
+      "endMs": 1121860,
+      "en": "A crowded waiting room, trolleys in corridors, highly stressed staff—but this isn't a typical NHS A&E unit.",
+      "zh": "候诊室挤满了人，走廊里停着病床，工作人员压力巨大；但这并非普通的英国国民医疗服务体系急诊室。"
+    },
+    {
+      "id": 207,
+      "startMs": 1122180,
+      "endMs": 1128100,
+      "en": "It's a Hollywood set, with actors recreating the pressure-cooker atmosphere of an emergency department.",
+      "zh": "这是好莱坞片场，演员们正在重现急诊室那种令人窒息的氛围。"
+    },
+    {
+      "id": 208,
+      "startMs": 1128260,
+      "endMs": 1132260,
+      "en": "Hey, Dana. Chem 7's not back on trauma two yet. Let me see the chart.",
+      "zh": "嘿，达娜。二号创伤病人的七项生化检查结果还没出来。让我看看病历。"
+    },
+    {
+      "id": 209,
+      "startMs": 1132740,
+      "endMs": 1135240,
+      "en": "And what's more, doctors love watching it.",
+      "zh": "更重要的是，医生们很喜欢看这部剧。"
+    },
+    {
+      "id": 210,
+      "startMs": 1135560,
+      "endMs": 1139240,
+      "en": "The most important things I've ever done in my life have been in this hospital.",
+      "zh": "我这辈子做过最重要的事，都是在这家医院完成的。"
+    },
+    {
+      "id": 211,
+      "startMs": 1139640,
+      "endMs": 1146640,
+      "en": "The lead part in The Pitt is Dr Michael Rabinovitch, known as Dr Robbie, an experienced emergency medicine consultant.",
+      "zh": "《匹兹堡医魂》的主角是迈克尔·拉比诺维奇医生，也就是罗比医生；他是一位经验丰富的急诊医学顾问。"
+    },
+    {
+      "id": 212,
+      "startMs": 1146960,
+      "endMs": 1151600,
+      "en": "He's played by Noah Wyle, previously in the cast of the earlier medical drama ER.",
+      "zh": "他由诺亚·怀尔饰演；怀尔此前出演过医疗剧《急诊室的故事》。"
+    },
+    {
+      "id": 213,
+      "startMs": 1152080,
+      "endMs": 1157280,
+      "en": "He's also an executive producer and part of the writing team, which includes several doctors.",
+      "zh": "他也是执行制片人，并参与编剧工作；编剧团队中还有几位医生。"
+    },
+    {
+      "id": 214,
+      "startMs": 1157280,
+      "endMs": 1163580,
+      "en": "And I've seen so many people die that I feel like it's leaching something from my soul.",
+      "zh": "我见过太多人死去，感觉这仿佛正在一点点侵蚀我的灵魂。"
+    },
+    {
+      "id": 215,
+      "startMs": 1164220,
+      "endMs": 1171500,
+      "en": "So impressed are the US medical profession that they invited him to take part in a platform discussion at a prestigious conference",
+      "zh": "美国医学界对这部剧印象深刻，因此邀请他在一场知名会议上参加专题讨论，"
+    },
+    {
+      "id": 216,
+      "startMs": 1171740,
+      "endMs": 1175500,
+      "en": "with more than 6,000 emergency medicine experts in the audience.",
+      "zh": "现场有6000多名急诊医学专家聆听。"
+    },
+    {
+      "id": 217,
+      "startMs": 1176140,
+      "endMs": 1181020,
+      "en": "Dr Tony Cirillo is president of the American College of Emergency Physicians.",
+      "zh": "托尼·西里洛医生是美国急诊医师学会主席。"
+    },
+    {
+      "id": 218,
+      "startMs": 1181180,
+      "endMs": 1183420,
+      "en": "People came up and just said thank you to him.",
+      "zh": "人们走上前来，只是对他说了声谢谢。"
+    },
+    {
+      "id": 219,
+      "startMs": 1184200,
+      "endMs": 1193320,
+      "en": "And it wasn't lost on him that what he does, and what they've created with The Pitt, is more than just a good TV show.",
+      "zh": "他也明白，他所做的以及他们共同打造的《匹兹堡医魂》，意义不止是一部好看的电视剧。"
+    },
+    {
+      "id": 220,
+      "startMs": 1193640,
+      "endMs": 1203000,
+      "en": "It's about—the term I use is validation. We finally feel validated for everything we do and go through every day.",
+      "zh": "它关乎一种认可。我用的词是“认可”：我们日常所做、所经历的一切，终于得到了肯定。"
+    },
+    {
+      "id": 221,
+      "startMs": 1203580,
+      "endMs": 1205900,
+      "en": "I don't care. Get someone out of here now.",
+      "zh": "我不在乎。现在就把人带出去。"
+    },
+    {
+      "id": 222,
+      "startMs": 1205900,
+      "endMs": 1208700,
+      "en": "No. You expect us to treat your officers as they arrive.",
+      "zh": "不行。你们的人一送来，就指望我们立刻救治。"
+    },
+    {
+      "id": 223,
+      "startMs": 1208700,
+      "endMs": 1211820,
+      "en": "You get a detective to pick these kids up ASAP. I gotta go.",
+      "zh": "你让警探尽快把这些孩子接走。我得走了。"
+    },
+    {
+      "id": 224,
+      "startMs": 1212380,
+      "endMs": 1216940,
+      "en": "Complex procedures and life-saving interventions are shown in graphic detail,",
+      "zh": "剧中以直观细致的方式呈现复杂的医疗程序和救命干预，"
+    },
+    {
+      "id": 225,
+      "startMs": 1217260,
+      "endMs": 1223180,
+      "en": "and social and ethical issues are aired, such as lack of social care and end-of-life decisions.",
+      "zh": "也探讨社会与伦理问题，例如社会照护不足和临终决策。"
+    },
+    {
+      "id": 226,
+      "startMs": 1223660,
+      "endMs": 1229420,
+      "en": "Professor Damian Roland of the University of Leicester says it puts the problems of the NHS in perspective.",
+      "zh": "莱斯特大学的达米安·罗兰教授说，这部剧让人们更全面地看待英国国民医疗服务体系面临的问题。"
+    },
+    {
+      "id": 227,
+      "startMs": 1229820,
+      "endMs": 1237980,
+      "en": "Virtually every emergency department in the world currently lacks enough space to see patients and move them through the hospital.",
+      "zh": "如今世界上几乎每家急诊科都缺乏足够空间接诊患者，并让他们顺利转入医院后续流程。"
+    },
+    {
+      "id": 228,
+      "startMs": 1238220,
+      "endMs": 1246540,
+      "en": "It's a very common theme in The Pitt: the central character argues with hospital management, saying, “I need more flow.”",
+      "zh": "《匹兹堡医魂》中一个很常见的情节是，主角与医院管理层争辩，说：“我需要更多患者周转。”"
+    },
+    {
+      "id": 229,
+      "startMs": 1246540,
+      "endMs": 1248940,
+      "en": "You can't just leave these patients there.",
+      "zh": "你不能就这样把这些患者留在那里。"
+    },
+    {
+      "id": 230,
+      "startMs": 1249260,
+      "endMs": 1253980,
+      "en": "That's a very common problem around the world, so we can all relate to that.",
+      "zh": "这是世界各地都很常见的问题，所以我们都能感同身受。"
+    },
+    {
+      "id": 231,
+      "startMs": 1254140,
+      "endMs": 1258620,
+      "en": "One of the stars of The Pitt is Gerran Howell, born and brought up in South Wales.",
+      "zh": "《匹兹堡医护前线》的主演之一是杰兰·豪厄尔，他在南威尔士出生长大。"
+    },
+    {
+      "id": 232,
+      "startMs": 1259020,
+      "endMs": 1265040,
+      "en": "With other actors, he was put through a medical boot camp for speed learning of medical techniques and jargon.",
+      "zh": "他和其他演员一起参加了医疗训练营，快速学习医疗技术和术语。"
+    },
+    {
+      "id": 233,
+      "startMs": 1265200,
+      "endMs": 1267280,
+      "en": "He was in the hall when he had a cardiac arrest.",
+      "zh": "他当时在大厅里，突然心脏骤停。"
+    },
+    {
+      "id": 234,
+      "startMs": 1269480,
+      "endMs": 1270600,
+      "en": "I couldn't save him.",
+      "zh": "我没能救活他。"
+    },
+    {
+      "id": 235,
+      "startMs": 1271640,
+      "endMs": 1276200,
+      "en": "In a BBC Wales interview, he was asked if he'd like to train to be a doctor.",
+      "zh": "在接受 BBC 威尔士采访时，有人问他是否想接受培训成为医生。"
+    },
+    {
+      "id": 236,
+      "startMs": 1276200,
+      "endMs": 1280120,
+      "en": "I have such a newfound respect for the medical profession.",
+      "zh": "我现在对医疗行业有了全新的敬意。"
+    },
+    {
+      "id": 237,
+      "startMs": 1280120,
+      "endMs": 1283240,
+      "en": "But yeah, it's, um, maybe made me more...",
+      "zh": "不过，是啊，这也许让我更加……"
+    },
+    {
+      "id": 238,
+      "startMs": 1283560,
+      "endMs": 1287480,
+      "en": "You know, realizing that, yeah, I—I don't know how I do this.",
+      "zh": "你知道，我意识到，是啊，我真不知道自己怎么能做这行。"
+    },
+    {
+      "id": 239,
+      "startMs": 1288040,
+      "endMs": 1289640,
+      "en": "I'll stick to acting.",
+      "zh": "我还是继续演戏吧。"
+    },
+    {
+      "id": 240,
+      "startMs": 1290540,
+      "endMs": 1292300,
+      "en": "And we do the best we can.",
+      "zh": "而我们会尽力而为。"
+    },
+    {
+      "id": 241,
+      "startMs": 1294220,
+      "endMs": 1294940,
+      "en": "But people die.",
+      "zh": "但人还是会死。"
+    },
+    {
+      "id": 242,
+      "startMs": 1297720,
+      "endMs": 1298760,
+      "en": "You ever get used to it?",
+      "zh": "你会习惯这一切吗？"
+    },
+    {
+      "id": 243,
+      "startMs": 1302600,
+      "endMs": 1307960,
+      "en": "Some doctors note that each episode compresses into an hour a number of serious trauma cases",
+      "zh": "一些医生指出，每集都把多起严重创伤病例压缩进一小时里"
+    },
+    {
+      "id": 244,
+      "startMs": 1308200,
+      "endMs": 1311000,
+      "en": "which would normally happen over 24 hours or more.",
+      "zh": "而这些病例通常要在24小时甚至更久的时间里才会发生。"
+    },
+    {
+      "id": 245,
+      "startMs": 1311480,
+      "endMs": 1316520,
+      "en": "Some viewers might find repeated hospital scenes and seriously ill patients off-putting,",
+      "zh": "有些观众可能会觉得反复出现的医院场景和病重患者令人不适，"
+    },
+    {
+      "id": 246,
+      "startMs": 1317080,
+      "endMs": 1322920,
+      "en": "but as a drama reflecting reality, it at least has the thumbs-up from medics and television critics.",
+      "zh": "但作为一部反映现实的剧集，它至少得到了医护人员和电视评论家的认可。"
+    },
+    {
+      "id": 247,
+      "startMs": 1323680,
+      "endMs": 1324960,
+      "en": "That was Hugh Pym.",
+      "zh": "以上是休·皮姆的报道。"
+    },
+    {
+      "id": 248,
+      "startMs": 1325600,
+      "endMs": 1330320,
+      "en": "Finally, Andrew Davies has long been regarded as the master of the screenplay.",
+      "zh": "最后，安德鲁·戴维斯长期以来被视为剧本大师。"
+    },
+    {
+      "id": 249,
+      "startMs": 1330640,
+      "endMs": 1335760,
+      "en": "The writer behind House of Cards, Pride and Prejudice, Bridget Jones's Diary, and many more.",
+      "zh": "他创作了《纸牌屋》《傲慢与偏见》《BJ单身日记》等众多作品。"
+    },
+    {
+      "id": 250,
+      "startMs": 1336160,
+      "endMs": 1337440,
+      "en": "He'll be 90 this week.",
+      "zh": "他本周将满90岁。"
+    },
+    {
+      "id": 251,
+      "startMs": 1337680,
+      "endMs": 1342000,
+      "en": "He's just written his autobiography and still has several projects on the go.",
+      "zh": "他刚写完自传，目前手头还有好几个项目。"
+    },
+    {
+      "id": 252,
+      "startMs": 1342560,
+      "endMs": 1344960,
+      "en": "Nicholas Danbridge went to meet him at his home.",
+      "zh": "尼古拉斯·丹布里奇前往他家中采访。"
+    },
+    {
+      "id": 253,
+      "startMs": 1348060,
+      "endMs": 1354060,
+      "en": "The opening scene is, of course, very calm, very peaceful: the educated English countryside.",
+      "zh": "开场当然十分平静、安宁：展现的是富有教养的英格兰乡间。"
+    },
+    {
+      "id": 254,
+      "startMs": 1354380,
+      "endMs": 1361260,
+      "en": "A few gentle chords of music tell us that everything is in its proper place in the Andrew Davies household.",
+      "zh": "几声轻柔的和弦告诉我们，安德鲁·戴维斯家里的一切都井然有序。"
+    },
+    {
+      "id": 255,
+      "startMs": 1363620,
+      "endMs": 1365460,
+      "en": "Could you take us inside your writing room?",
+      "zh": "能带我们看看你的写作间吗？"
+    },
+    {
+      "id": 256,
+      "startMs": 1365860,
+      "endMs": 1368180,
+      "en": "Yes, or the dining room.",
+      "zh": "可以——其实是餐厅。"
+    },
+    {
+      "id": 257,
+      "startMs": 1368820,
+      "endMs": 1372980,
+      "en": "I can see people going past in the street.",
+      "zh": "我能看到街上有人经过。"
+    },
+    {
+      "id": 258,
+      "startMs": 1373540,
+      "endMs": 1379140,
+      "en": "I just feel more at home here, which is where I started in 1970.",
+      "zh": "我只是觉得这里更自在；我1970年就是从这里起步的。"
+    },
+    {
+      "id": 259,
+      "startMs": 1379380,
+      "endMs": 1383140,
+      "en": "You call your autobiography An Unsuitable Boy. Explain.",
+      "zh": "你的自传叫《不合时宜的男孩》，能解释一下吗？"
+    },
+    {
+      "id": 260,
+      "startMs": 1383780,
+      "endMs": 1390180,
+      "en": "Growing up, I was a bit of an awkward squad. I must have been terrible to teach, really.",
+      "zh": "我小时候有点格格不入，肯定很难教，真的。"
+    },
+    {
+      "id": 261,
+      "startMs": 1390500,
+      "endMs": 1398500,
+      "en": "I wanted to be a writer like Dylan Thomas: very funny, very detailed and accurate,",
+      "zh": "我想成为像迪伦·托马斯那样的作家，风趣、细致而准确，"
+    },
+    {
+      "id": 262,
+      "startMs": 1398740,
+      "endMs": 1402340,
+      "en": "and it's still there in a lot of things that I write.",
+      "zh": "这些特点至今仍体现在我写的许多作品里。"
+    },
+    {
+      "id": 263,
+      "startMs": 1402580,
+      "endMs": 1410020,
+      "en": "This is also where you wrote your 1995 screenplay for Jane Austen's Pride and Prejudice. That's right, yes.",
+      "zh": "你1995年改编简·奥斯汀《傲慢与偏见》的剧本也是在这里写的。没错，是的。"
+    },
+    {
+      "id": 264,
+      "startMs": 1410180,
+      "endMs": 1413540,
+      "en": "We can say that you modernised British period drama,",
+      "zh": "可以说，你让英国古装剧焕然一新，"
+    },
+    {
+      "id": 265,
+      "startMs": 1413940,
+      "endMs": 1419540,
+      "en": "for instance, with Darcy swimming in a lake, emerging in a wet shirt and encountering Elizabeth Bennet.",
+      "zh": "比如让达西在湖中游泳后湿着衬衫上岸，与伊丽莎白·班纳特相遇。"
+    },
+    {
+      "id": 266,
+      "startMs": 1421360,
+      "endMs": 1422080,
+      "en": "Mr Darcy.",
+      "zh": "达西先生。"
+    },
+    {
+      "id": 267,
+      "startMs": 1422640,
+      "endMs": 1424320,
+      "en": "The comedy of embarrassment.",
+      "zh": "尴尬带来的喜剧效果。"
+    },
+    {
+      "id": 268,
+      "startMs": 1424880,
+      "endMs": 1425360,
+      "en": "Miss Bennet.",
+      "zh": "班纳特小姐。"
+    },
+    {
+      "id": 269,
+      "startMs": 1427000,
+      "endMs": 1430440,
+      "en": "I did not expect to see you, sir.",
+      "zh": "先生，没想到会见到您。"
+    },
+    {
+      "id": 270,
+      "startMs": 1430440,
+      "endMs": 1436120,
+      "en": "Are you content to be known as the man who sexed up Jane Austen?",
+      "zh": "你愿意被称为那个给简·奥斯汀作品增添情色意味的人吗？"
+    },
+    {
+      "id": 271,
+      "startMs": 1436600,
+      "endMs": 1439000,
+      "en": "Yeah, I don't mind it at all.",
+      "zh": "是啊，我一点也不介意。"
+    },
+    {
+      "id": 272,
+      "startMs": 1439240,
+      "endMs": 1444920,
+      "en": "I was just bringing out the sex that's inherent in it.",
+      "zh": "我只是把其中本来就有的情色意味表现出来。"
+    },
+    {
+      "id": 273,
+      "startMs": 1445160,
+      "endMs": 1447400,
+      "en": "The other thing, they're all funny.",
+      "zh": "还有一点，它们都很有趣。"
+    },
+    {
+      "id": 274,
+      "startMs": 1447560,
+      "endMs": 1449960,
+      "en": "That's inherently there as well.",
+      "zh": "这种趣味本来就存在。"
+    },
+    {
+      "id": 275,
+      "startMs": 1450360,
+      "endMs": 1451640,
+      "en": "What are you working on at the moment?",
+      "zh": "你现在在做什么项目？"
+    },
+    {
+      "id": 276,
+      "startMs": 1451880,
+      "endMs": 1456520,
+      "en": "An adaptation of The Watsons, which is a Jane Austen fragment.",
+      "zh": "我在改编《沃森一家》，这是简·奥斯汀的一部未完成作品。"
+    },
+    {
+      "id": 277,
+      "startMs": 1457080,
+      "endMs": 1462760,
+      "en": "You're also working on a piece about Guy Burgess of the Cambridge Spies. Is that right?",
+      "zh": "你还在创作一部关于“剑桥间谍”盖伊·伯吉斯的作品，是吗？"
+    },
+    {
+      "id": 278,
+      "startMs": 1462760,
+      "endMs": 1467240,
+      "en": "So there are echoes of power and betrayal from House of Cards there, a little bit.",
+      "zh": "所以其中多少也有些《纸牌屋》里权力与背叛的影子。"
+    },
+    {
+      "id": 279,
+      "startMs": 1467400,
+      "endMs": 1472200,
+      "en": "A little bit, but I've gone mostly for the outrageous comedy of it.",
+      "zh": "有一点，但我主要着眼于其中荒诞的喜剧性。"
+    },
+    {
+      "id": 280,
+      "startMs": 1472280,
+      "endMs": 1479640,
+      "en": "And, in a way, a very puzzling character because of his communist convictions; he went to Russia,",
+      "zh": "而且，他在某种程度上是个很令人费解的人物，因为他有共产主义信念；他去了俄罗斯，"
+    },
+    {
+      "id": 281,
+      "startMs": 1479640,
+      "endMs": 1482520,
+      "en": "but I don't think he actually liked it very much when he got there.",
+      "zh": "但我觉得他到了那里后其实并不怎么喜欢。"
+    },
+    {
+      "id": 282,
+      "startMs": 1483160,
+      "endMs": 1486280,
+      "en": "With Burgess, I thought I'd like to have known him.",
+      "zh": "至于伯吉斯，我想我会很愿意认识他。"
+    },
+    {
+      "id": 283,
+      "startMs": 1486540,
+      "endMs": 1491820,
+      "en": "Francis Urquhart was a horrible person who was great fun to write.",
+      "zh": "弗朗西斯·厄克特是个讨厌的人物，写起来却非常有趣。"
+    },
+    {
+      "id": 284,
+      "startMs": 1492300,
+      "endMs": 1493900,
+      "en": "You might think that, Matthew.",
+      "zh": "你可能会这么想，马修。"
+    },
+    {
+      "id": 285,
+      "startMs": 1495100,
+      "endMs": 1497740,
+      "en": "I'm afraid I couldn't possibly comment.",
+      "zh": "恐怕我无可奉告。"
+    },
+    {
+      "id": 286,
+      "startMs": 1498060,
+      "endMs": 1504060,
+      "en": "There have been hints of an upcoming slate of dark Austen projects.",
+      "zh": "外界已有迹象显示，一系列风格阴暗的奥斯汀作品即将推出。"
+    },
+    {
+      "id": 287,
+      "startMs": 1504060,
+      "endMs": 1505900,
+      "en": "You've already alluded to that a little.",
+      "zh": "你刚才已经稍微提到这一点了。"
+    },
+    {
+      "id": 288,
+      "startMs": 1506540,
+      "endMs": 1508620,
+      "en": "Slavery in Mansfield Park.",
+      "zh": "《曼斯菲尔德庄园》里的奴隶制。"
+    },
+    {
+      "id": 289,
+      "startMs": 1508940,
+      "endMs": 1518060,
+      "en": "It's crazy these days to adapt Mansfield Park without seeing what the plantation was like,",
+      "zh": "如今改编《曼斯菲尔德庄园》却不去看看种植园是什么样，简直不可思议，"
+    },
+    {
+      "id": 290,
+      "startMs": 1518540,
+      "endMs": 1521340,
+      "en": "which means, of course, inventing scenes,",
+      "zh": "这当然意味着要创作一些场景，"
+    },
+    {
+      "id": 291,
+      "startMs": 1521660,
+      "endMs": 1524620,
+      "en": "and of course a lot of people are not going to like that.",
+      "zh": "而且肯定会有很多人不喜欢这样。"
+    },
+    {
+      "id": 292,
+      "startMs": 1524780,
+      "endMs": 1527500,
+      "en": "Another version of Emma in which Emma might die in childbirth?",
+      "zh": "另一个版本的《爱玛》里，爱玛可能会死于难产？"
+    },
+    {
+      "id": 293,
+      "startMs": 1527500,
+      "endMs": 1532220,
+      "en": "I just wanted to write the Jane Fairfax story in Emma.",
+      "zh": "我只是想写《爱玛》里的简·费尔法克斯的故事。"
+    },
+    {
+      "id": 294,
+      "startMs": 1532620,
+      "endMs": 1535260,
+      "en": "I just put in a postscript, really.",
+      "zh": "说到底，我只是加了一段后记。"
+    },
+    {
+      "id": 295,
+      "startMs": 1535580,
+      "endMs": 1538780,
+      "en": "After a year or two, Emma dies in childbirth.",
+      "zh": "一两年后，爱玛死于难产。"
+    },
+    {
+      "id": 296,
+      "startMs": 1539100,
+      "endMs": 1544780,
+      "en": "Mr Knightley goes up to Yorkshire and brings back Jane Fairfax.",
+      "zh": "奈特利先生前往约克郡，把简·费尔法克斯带了回来。"
+    },
+    {
+      "id": 297,
+      "startMs": 1546360,
+      "endMs": 1552360,
+      "en": "This is the second time you've adapted Emma, but you're still finding more things to do with it.",
+      "zh": "这是你第二次改编《爱玛》，但你仍能从中发掘新的内容。"
+    },
+    {
+      "id": 298,
+      "startMs": 1552360,
+      "endMs": 1555320,
+      "en": "Yeah, it's a bit of an anti-Emma Emma.",
+      "zh": "是啊，这有点像一部反《爱玛》的《爱玛》。"
+    },
+    {
+      "id": 299,
+      "startMs": 1556040,
+      "endMs": 1558280,
+      "en": "Austen is inexhaustible, really.",
+      "zh": "奥斯汀真是取之不尽。"
+    },
+    {
+      "id": 300,
+      "startMs": 1562160,
+      "endMs": 1567780,
+      "en": "That was Nicholas Danbridge reporting. And that's all from us for now.",
+      "zh": "以上是尼古拉斯·丹布里奇的报道。我们今天的节目就到这里。"
+    },
+    {
+      "id": 301,
+      "startMs": 1567780,
+      "endMs": 1572420,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 302,
+      "startMs": 1572980,
+      "endMs": 1578020,
+      "en": "You can also watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "你也可以在 YouTube 搜索 Global News Podcast，观看完整节目。"
+    },
+    {
+      "id": 303,
+      "startMs": 1578340,
+      "endMs": 1582180,
+      "en": "This edition was mixed by Chris Ablakwa, and the producer was Judy Frankl.",
+      "zh": "本期节目由克里斯·阿布拉夸混音，朱迪·弗兰克尔制作。"
+    },
+    {
+      "id": 304,
+      "startMs": 1582420,
+      "endMs": 1583780,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是 Karen Martin。"
+    },
+    {
+      "id": 305,
+      "startMs": 1583940,
+      "endMs": 1584740,
+      "en": "I'm Charlotte Gallagher.",
+      "zh": "我是夏洛特·加拉格尔。"
+    },
+    {
+      "id": 306,
+      "startMs": 1585060,
+      "endMs": 1586420,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再会，再见。"
+    }
+  ]
+}

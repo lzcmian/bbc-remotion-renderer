@@ -1,0 +1,1992 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "13 September 2026"
+  },
+  "durationMs": 1654300,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4320,
+      "en": "Hi there, it's Asma Khalid. I'm one of the hosts of The Global Story podcast from the BBC.",
+      "zh": "大家好，我是阿斯玛·哈立德，是 BBC《全球故事》播客的主持人之一。"
+    },
+    {
+      "id": 2,
+      "startMs": 4720,
+      "endMs": 10400,
+      "en": "On our show, we tell one story in depth every weekday about where the world and America meet.",
+      "zh": "我们的节目每个工作日深入讲述一个故事，聚焦世界与美国交汇之处。"
+    },
+    {
+      "id": 3,
+      "startMs": 10560,
+      "endMs": 15040,
+      "en": "And as a bonus for your feed today, we are bringing you one of our favorite episodes of the past week.",
+      "zh": "今天我们特别为你的节目列表带来过去一周中我们最喜欢的一期节目。"
+    },
+    {
+      "id": 4,
+      "startMs": 15600,
+      "endMs": 22160,
+      "en": "We took a closer look at Dubai, the city that's supposed to be the land of luxury, a sort of playground for the wealthy.",
+      "zh": "我们深入观察了迪拜——这座被视为奢华之地、某种富人游乐场的城市。"
+    },
+    {
+      "id": 5,
+      "startMs": 22400,
+      "endMs": 27440,
+      "en": "But in recent months, it has faced very real threats in the wake of the war in Iran.",
+      "zh": "但近几个月来，随着伊朗战争爆发，迪拜面临着真实的威胁。"
+    },
+    {
+      "id": 6,
+      "startMs": 27760,
+      "endMs": 34320,
+      "en": "How is this conflict transforming the United Arab Emirates and the lives of the people who live there? That's what you'll hear today.",
+      "zh": "这场冲突正在如何改变阿联酋，以及当地居民的生活？这就是你今天会听到的内容。"
+    },
+    {
+      "id": 7,
+      "startMs": 34320,
+      "endMs": 38640,
+      "en": "All right, on to the show. When you think of Dubai, what do you imagine?",
+      "zh": "好，进入正题。想到迪拜，你会想到什么？"
+    },
+    {
+      "id": 8,
+      "startMs": 38800,
+      "endMs": 46080,
+      "en": "Let me guess: luxury hotels, endless shopping malls, sun-soaked beaches, gleaming towers, five-star restaurants—",
+      "zh": "让我猜猜：豪华酒店、逛不完的购物中心、阳光海滩、闪亮高楼、五星级餐厅——"
+    },
+    {
+      "id": 9,
+      "startMs": 46160,
+      "endMs": 49520,
+      "en": "essentially a resort-style oasis in the middle of the desert, right?",
+      "zh": "说到底，就是沙漠中央一座度假胜地般的绿洲，对吧？"
+    },
+    {
+      "id": 10,
+      "startMs": 50000,
+      "endMs": 53940,
+      "en": "Well, earlier this year, that image seemed to come crashing down.",
+      "zh": "然而，今年早些时候，这一形象似乎轰然崩塌。"
+    },
+    {
+      "id": 11,
+      "startMs": 54020,
+      "endMs": 58180,
+      "en": "The thing is, Dubai is part of the United Arab Emirates,",
+      "zh": "问题在于，迪拜是阿拉伯联合酋长国的一部分，"
+    },
+    {
+      "id": 12,
+      "startMs": 58700,
+      "endMs": 63340,
+      "en": "a little country in the Gulf that has built a reputation on being safe and luxe.",
+      "zh": "这是海湾地区一个小国，凭借安全与奢华建立起声誉。"
+    },
+    {
+      "id": 13,
+      "startMs": 63740,
+      "endMs": 67500,
+      "en": "It's also just south of Iran, near the Strait of Hormuz.",
+      "zh": "迪拜也正好位于伊朗以南，靠近霍尔木兹海峡。"
+    },
+    {
+      "id": 14,
+      "startMs": 67820,
+      "endMs": 75660,
+      "en": "And when the United States and Israel launched their war against Iran in late February, the UAE became the target of Iran's retaliation.",
+      "zh": "2月下旬，美国和以色列对伊朗发动战争后，阿联酋成为伊朗报复的目标。"
+    },
+    {
+      "id": 15,
+      "startMs": 76540,
+      "endMs": 81500,
+      "en": "The UAE has close ties with the US, and in recent years it has been cooperating more with Israel, too.",
+      "zh": "阿联酋与美国关系密切，近几年也加强了与以色列的合作。"
+    },
+    {
+      "id": 16,
+      "startMs": 81740,
+      "endMs": 88780,
+      "en": "During this war, it has been attacked by Iran more times than any other nation, including Israel.",
+      "zh": "在这场战争中，阿联酋遭到伊朗袭击的次数超过其他任何国家，包括以色列。"
+    },
+    {
+      "id": 17,
+      "startMs": 90420,
+      "endMs": 97540,
+      "en": "For years, Dubai has been a place that promised safety, security, and stability. But has that promise fallen apart?",
+      "zh": "多年来，迪拜一直以安全、保障与稳定作承诺。但这个承诺是否已经破灭？"
+    },
+    {
+      "id": 18,
+      "startMs": 98100,
+      "endMs": 101300,
+      "en": "From the BBC, I'm Asma Khalid in Washington, D.C.",
+      "zh": "这里是 BBC，我是身在华盛顿特区的阿斯玛·哈立德。"
+    },
+    {
+      "id": 19,
+      "startMs": 101700,
+      "endMs": 107940,
+      "en": "And today on The Global Story, six months after the war began: whatever happened to brand Dubai?",
+      "zh": "今天的《全球故事》，我们将在战争开始六个月后追问：迪拜品牌究竟怎么了？"
+    },
+    {
+      "id": 20,
+      "startMs": 113820,
+      "endMs": 119580,
+      "en": "I'm Samir Hashmi. I'm an independent journalist based here in Dubai. I cover the Gulf region.",
+      "zh": "我是萨米尔·哈什米，常驻迪拜的独立记者，报道海湾地区。"
+    },
+    {
+      "id": 21,
+      "startMs": 119580,
+      "endMs": 125340,
+      "en": "I used to be the BBC's Middle East correspondent based in Dubai until last year, but now I'm independent.",
+      "zh": "直到去年，我还是 BBC 驻迪拜的中东记者；现在我是一名独立记者。"
+    },
+    {
+      "id": 22,
+      "startMs": 125580,
+      "endMs": 128620,
+      "en": "Well, Samir Hashmi, welcome to The Global Story.",
+      "zh": "萨米尔·哈什米，欢迎来到《全球故事》。"
+    },
+    {
+      "id": 23,
+      "startMs": 128700,
+      "endMs": 131100,
+      "en": "You live and report in Dubai,",
+      "zh": "你在迪拜生活和报道，"
+    },
+    {
+      "id": 24,
+      "startMs": 131180,
+      "endMs": 136060,
+      "en": "and in late February, when the United States and Israel began attacking Iran,",
+      "zh": "2月下旬，美国和以色列开始袭击伊朗时，"
+    },
+    {
+      "id": 25,
+      "startMs": 136620,
+      "endMs": 145100,
+      "en": "we saw Iran retaliate very quickly, specifically aiming many missiles and drones at the United Arab Emirates.",
+      "zh": "我们看到伊朗迅速展开报复，专门向阿拉伯联合酋长国发射大量导弹和无人机。"
+    },
+    {
+      "id": 26,
+      "startMs": 145420,
+      "endMs": 152380,
+      "en": "And Samir, sitting here in Washington, I certainly saw the images—the image, say, of a luxury hotel on fire.",
+      "zh": "萨米尔，我当时身在华盛顿，确实看到了那些画面，比如一家豪华酒店起火的影像。"
+    },
+    {
+      "id": 27,
+      "startMs": 152620,
+      "endMs": 154540,
+      "en": "We saw these social media videos.",
+      "zh": "我们看到了这些社交媒体视频。"
+    },
+    {
+      "id": 28,
+      "startMs": 154620,
+      "endMs": 157660,
+      "en": "I'm actually so scared. I'm in JDC right now, and I can see it.",
+      "zh": "我真的很害怕。我现在在 JDC，能看到那里。"
+    },
+    {
+      "id": 29,
+      "startMs": 160380,
+      "endMs": 163260,
+      "en": "Expats who thought they were living their best lives.",
+      "zh": "那些以为自己过着最美好生活的外籍居民。"
+    },
+    {
+      "id": 30,
+      "startMs": 163260,
+      "endMs": 164140,
+      "en": "Right now I'm in Dubai.",
+      "zh": "我现在在迪拜。"
+    },
+    {
+      "id": 31,
+      "startMs": 164860,
+      "endMs": 165740,
+      "en": "This is my house.",
+      "zh": "这是我家。"
+    },
+    {
+      "id": 32,
+      "startMs": 166860,
+      "endMs": 168860,
+      "en": "There have been missiles for the last 20 hours.",
+      "zh": "过去20个小时里一直有导弹袭来。"
+    },
+    {
+      "id": 33,
+      "startMs": 168940,
+      "endMs": 170540,
+      "en": "We have just been hit by a drone.",
+      "zh": "我们刚刚遭到一架无人机袭击。"
+    },
+    {
+      "id": 34,
+      "startMs": 171100,
+      "endMs": 174220,
+      "en": "It stinks of oil in here. I didn't even finish my cup of tea.",
+      "zh": "这里一股石油味。我连一杯茶都还没喝完。"
+    },
+    {
+      "id": 35,
+      "startMs": 174380,
+      "endMs": 177100,
+      "en": "Well, that got my heart racing. What a time to be alive, eh?",
+      "zh": "这可真让我心跳加速。真是个活着就有戏看的时代啊，是吧？"
+    },
+    {
+      "id": 36,
+      "startMs": 177900,
+      "endMs": 182460,
+      "en": "There was one video in particular on social media that struck a nerve with people.",
+      "zh": "社交媒体上有一段视频尤其触动了人们。"
+    },
+    {
+      "id": 37,
+      "startMs": 182780,
+      "endMs": 184300,
+      "en": "Not meant to be happening here.",
+      "zh": "这种事不该发生在这里。"
+    },
+    {
+      "id": 38,
+      "startMs": 185640,
+      "endMs": 190600,
+      "en": "We're supposed to be in the safest place. Like, please, just stop.",
+      "zh": "我们本该身处最安全的地方。拜托了，快停下来吧。"
+    },
+    {
+      "id": 39,
+      "startMs": 191320,
+      "endMs": 199240,
+      "en": "And I want to understand from you, Samir, why were these images or videos so disorienting to people around the world?",
+      "zh": "萨米尔，我想请你谈谈，为什么这些画面和视频会让世界各地的人们感到如此错愕？"
+    },
+    {
+      "id": 40,
+      "startMs": 199480,
+      "endMs": 204120,
+      "en": "We have to take a step back and talk about Dubai's perception globally.",
+      "zh": "我们得先退一步，谈谈迪拜在全球的形象。"
+    },
+    {
+      "id": 41,
+      "startMs": 204280,
+      "endMs": 208440,
+      "en": "Yes. Before the war started, Dubai was considered the safe oasis",
+      "zh": "是的。战争开始前，迪拜被视为安全的绿洲，"
+    },
+    {
+      "id": 42,
+      "startMs": 209000,
+      "endMs": 212520,
+      "en": "a hub for tourism, business, and luxury hotels.",
+      "zh": "也是旅游、商业和豪华酒店中心。"
+    },
+    {
+      "id": 43,
+      "startMs": 212520,
+      "endMs": 217400,
+      "en": "This was the picture painted globally about Dubai, which was partly true, of course.",
+      "zh": "这就是全球描绘的迪拜形象；当然，这种说法有一部分确实如此。"
+    },
+    {
+      "id": 44,
+      "startMs": 217640,
+      "endMs": 222680,
+      "en": "Travel and lifestyle influencers projected a lifestyle of opulence,",
+      "zh": "旅游和生活方式类网红展现出一种奢华生活，"
+    },
+    {
+      "id": 45,
+      "startMs": 223000,
+      "endMs": 227080,
+      "en": "as if they were living in fancy villas and going to the beachside for a swim,",
+      "zh": "仿佛他们住在豪华别墅里，还会去海边游泳，"
+    },
+    {
+      "id": 46,
+      "startMs": 227240,
+      "endMs": 232360,
+      "en": "going to five- and seven-star hotels, somehow projecting that image of Dubai.",
+      "zh": "出入五星级、七星级酒店，就这样塑造了迪拜的形象。"
+    },
+    {
+      "id": 47,
+      "startMs": 233080,
+      "endMs": 235080,
+      "en": "Some of it is true. Some of it is not, Asma.",
+      "zh": "有些确实如此，有些则并非如此，阿斯玛。"
+    },
+    {
+      "id": 48,
+      "startMs": 235400,
+      "endMs": 237640,
+      "en": "Yeah, I was going to say, Samir, do you live in a fancy villa?",
+      "zh": "是啊，我正想说呢，萨米尔，你住在豪华别墅里吗？"
+    },
+    {
+      "id": 49,
+      "startMs": 237640,
+      "endMs": 239960,
+      "en": "I mean, that's the image we always see of Dubai.",
+      "zh": "我的意思是，我们总是看到这样的迪拜形象。"
+    },
+    {
+      "id": 50,
+      "startMs": 239960,
+      "endMs": 241240,
+      "en": "I was like, show us your crib.",
+      "zh": "我当时就想：带我们看看你的豪宅吧。"
+    },
+    {
+      "id": 51,
+      "startMs": 241480,
+      "endMs": 245240,
+      "en": "Unfortunately, no. But that's the case for most of the city, actually, Asma.",
+      "zh": "可惜我没有。其实，城里大多数人也都是这样，阿斯玛。"
+    },
+    {
+      "id": 52,
+      "startMs": 245260,
+      "endMs": 250700,
+      "en": "I think what these influencers show or project is not even one percent of Dubai's population.",
+      "zh": "我认为这些网红展示或塑造的生活，连迪拜人口的百分之一都代表不了。"
+    },
+    {
+      "id": 53,
+      "startMs": 252640,
+      "endMs": 253920,
+      "en": "Why was it glaring?",
+      "zh": "为什么这些画面格外刺眼？"
+    },
+    {
+      "id": 54,
+      "startMs": 254000,
+      "endMs": 258560,
+      "en": "Yeah, the images coming out, because Dubai has never been under attack,",
+      "zh": "是啊，这些画面之所以刺眼，是因为迪拜从未遭到过袭击，"
+    },
+    {
+      "id": 55,
+      "startMs": 259280,
+      "endMs": 263280,
+      "en": "even during the 1990–91 Gulf War,",
+      "zh": "即便是在1990至1991年的海湾战争期间，"
+    },
+    {
+      "id": 56,
+      "startMs": 263680,
+      "endMs": 273440,
+      "en": "Saddam Hussein's Iraq invaded Kuwait at the time, and many countries in the Gulf region, including Saudi Arabia, were under attack.",
+      "zh": "当时萨达姆·侯赛因领导的伊拉克入侵科威特，海湾地区包括沙特阿拉伯在内的许多国家都遭到攻击。"
+    },
+    {
+      "id": 57,
+      "startMs": 273440,
+      "endMs": 277120,
+      "en": "And I was a child living in Saudi Arabia then, so I witnessed that war as well.",
+      "zh": "那时我还是个住在沙特阿拉伯的孩子，所以我也亲历了那场战争。"
+    },
+    {
+      "id": 58,
+      "startMs": 277440,
+      "endMs": 288560,
+      "en": "Even then, Dubai never came under attack. Even though this region has seen turmoil, Dubai has always remained a safe place—isolated, insulated.",
+      "zh": "即使在那时，迪拜也从未遭到攻击。尽管这个地区历经动荡，迪拜始终像一处安全之地，与外界隔绝、免受波及。"
+    },
+    {
+      "id": 59,
+      "startMs": 288960,
+      "endMs": 297280,
+      "en": "So when people saw images of the luxury hotel on Palm Island, one of the poshest areas there, coming under attack,",
+      "zh": "所以，当人们看到棕榈岛上那家豪华酒店——当地最奢华的区域之一——遭到攻击时，"
+    },
+    {
+      "id": 60,
+      "startMs": 297280,
+      "endMs": 302800,
+      "en": "or some commercial buildings, civilian areas, Dubai airport and the Dubai port,",
+      "zh": "以及一些商业建筑、民用区域、迪拜机场和迪拜港遭到攻击时，"
+    },
+    {
+      "id": 61,
+      "startMs": 303040,
+      "endMs": 312240,
+      "en": "that really stood out, because people have always associated Dubai with safety, luxury, tourism and a good lifestyle.",
+      "zh": "这确实格外引人注目，因为人们一直把迪拜与安全、奢华、旅游和优质生活联系在一起。"
+    },
+    {
+      "id": 62,
+      "startMs": 312180,
+      "endMs": 319860,
+      "en": "Was it a shock to you that Dubai was caught up in this war? Did you see it as a safe haven?",
+      "zh": "迪拜卷入这场战争让你感到震惊吗？你曾把它视为安全避风港吗？"
+    },
+    {
+      "id": 63,
+      "startMs": 320180,
+      "endMs": 322260,
+      "en": "I think it did come as a shock for many.",
+      "zh": "我想，这确实让很多人感到震惊。"
+    },
+    {
+      "id": 64,
+      "startMs": 322580,
+      "endMs": 330020,
+      "en": "I witnessed drones and missiles being intercepted by the UAE government, and there were a lot of them, Samir, right?",
+      "zh": "我亲眼看到阿联酋政府拦截无人机和导弹，而且数量很多，对吧，萨米尔？"
+    },
+    {
+      "id": 65,
+      "startMs": 330020,
+      "endMs": 335300,
+      "en": "I mean, the sheer scale of it, as I was preparing for this episode, is staggering.",
+      "zh": "我是说，准备这一期节目时我才意识到，袭击的规模之大令人震惊。"
+    },
+    {
+      "id": 66,
+      "startMs": 335380,
+      "endMs": 340180,
+      "en": "Well, that's right. In the first two months of the war, which started on 28 February,",
+      "zh": "没错。战争于2月28日开始，在最初两个月里，"
+    },
+    {
+      "id": 67,
+      "startMs": 340820,
+      "endMs": 351060,
+      "en": "through to May—especially in March and April—drones, missiles, all kinds of missiles, a little over 2,800, were shot towards the UAE.",
+      "zh": "一直到5月，尤其是3月和4月，各种无人机和导弹——略多于2,800枚——射向了阿联酋。"
+    },
+    {
+      "id": 68,
+      "startMs": 351300,
+      "endMs": 357300,
+      "en": "At one point, among attacks across the region—including Saudi Arabia, Qatar, Bahrain and Kuwait—",
+      "zh": "在某个阶段，整个地区的袭击中——包括沙特阿拉伯、卡塔尔、巴林和科威特——"
+    },
+    {
+      "id": 69,
+      "startMs": 357380,
+      "endMs": 365940,
+      "en": "more than 40% of the attacks, or those missiles and drones, were directed towards the UAE.",
+      "zh": "超过40%的袭击，也就是那些导弹和无人机，是射向阿联酋的。"
+    },
+    {
+      "id": 70,
+      "startMs": 366100,
+      "endMs": 372100,
+      "en": "More than Israel as well—much more, because Israel is much further from Iran.",
+      "zh": "也比以色列遭受的袭击多得多，因为以色列离伊朗远得多。"
+    },
+    {
+      "id": 71,
+      "startMs": 372360,
+      "endMs": 379960,
+      "en": "So Iran cannot send a drone towards Israel; it can only launch cruise or ballistic missiles, which take much longer.",
+      "zh": "所以，伊朗无法向以色列发射无人机，只能发射巡航导弹或弹道导弹，而它们需要更长时间才能抵达。"
+    },
+    {
+      "id": 72,
+      "startMs": 380360,
+      "endMs": 389560,
+      "en": "Geographically, the UAE is just across the sea. Iran is very close, so it can send a drone that would land on UAE territory.",
+      "zh": "从地理位置看，阿联酋就在海的另一边，离伊朗很近，无人机可以直接飞到阿联酋境内。"
+    },
+    {
+      "id": 73,
+      "startMs": 389800,
+      "endMs": 398280,
+      "en": "What was it like? What were the days and nights like? It was staggering; we usually picture people, you know, fleeing their homes in war.",
+      "zh": "那是什么感受？日夜生活又是什么样？这令人震惊；我们通常会把战争想象成有人逃离家园，你知道的。"
+    },
+    {
+      "id": 74,
+      "startMs": 398760,
+      "endMs": 407960,
+      "en": "That didn't happen. But you constantly had alerts on your phone from the UAE government saying the country was under attack.",
+      "zh": "但人们并没有逃离。你的手机却不断收到阿联酋政府发来的警报，说国家正遭受攻击。"
+    },
+    {
+      "id": 75,
+      "startMs": 407960,
+      "endMs": 413160,
+      "en": "The Ministry of Defense was intercepting missiles. Your phone made a blaring sound every day",
+      "zh": "国防部正在拦截导弹。每一天，你的手机都会响起刺耳警报，"
+    },
+    {
+      "id": 76,
+      "startMs": 413880,
+      "endMs": 420360,
+      "en": "whenever the city or country was under attack. Imagine everyone getting it on their phone at the same time.",
+      "zh": "每当城市或国家遭到攻击，所有人的手机都会同时收到警报。"
+    },
+    {
+      "id": 77,
+      "startMs": 420360,
+      "endMs": 425160,
+      "en": "So if you're in a public place or an office, everyone's phone suddenly starts buzzing.",
+      "zh": "所以，如果你在公共场所或办公室里，所有人的手机会突然开始震动。"
+    },
+    {
+      "id": 78,
+      "startMs": 425400,
+      "endMs": 429720,
+      "en": "There were no shelter rooms as such. So what do you do if an alert comes through your phone?",
+      "zh": "那里没有真正意义上的避难室。那么，手机收到警报时该怎么办？"
+    },
+    {
+      "id": 79,
+      "startMs": 429960,
+      "endMs": 437020,
+      "en": "I think in the first few weeks, people were moving away from glass windows, because many buildings in Dubai are made of glass.",
+      "zh": "我想，最初几周人们会远离玻璃窗，因为迪拜许多建筑都是玻璃结构。"
+    },
+    {
+      "id": 80,
+      "startMs": 437260,
+      "endMs": 440700,
+      "en": "This happened during the first two or three weeks, but then it changed.",
+      "zh": "这种情况持续了最初两三周，后来就变了。"
+    },
+    {
+      "id": 81,
+      "startMs": 440700,
+      "endMs": 449980,
+      "en": "I think people then got used to it because, as I said, more than 2,800 projectiles were shot towards the UAE and most were intercepted.",
+      "zh": "我想，后来人们逐渐习惯了，因为正如我所说，射向阿联酋的弹药超过2,800枚，大多数都被拦截了。"
+    },
+    {
+      "id": 82,
+      "startMs": 449980,
+      "endMs": 454140,
+      "en": "Samir, but some targets were hit, right? I mean, I recall hearing the airport was struck.",
+      "zh": "萨米尔，但也有一些目标被击中，对吧？我记得听说机场遭到袭击。"
+    },
+    {
+      "id": 83,
+      "startMs": 454700,
+      "endMs": 462700,
+      "en": "Yeah, more than 90%, according to official figures from the military and the Ministry of Defense, were intercepted successfully.",
+      "zh": "是的，根据军方和国防部的官方数据，超过90%的袭击目标都被成功拦截。"
+    },
+    {
+      "id": 84,
+      "startMs": 463100,
+      "endMs": 472300,
+      "en": "But yes, a number of locations were affected, including civilian infrastructure such as the airports in Dubai and Abu Dhabi; both were hit.",
+      "zh": "不过，确实有一些地点受到影响，包括民用基础设施，例如迪拜和阿布扎比的机场；两座机场都遭到袭击。"
+    },
+    {
+      "id": 85,
+      "startMs": 472300,
+      "endMs": 480300,
+      "en": "Samir, no, because I recall hearing that Dubai airport is one of the world's most popular, well-connected airports for international travel.",
+      "zh": "萨米尔，不是，我记得听说迪拜机场是世界上最受欢迎、国际航线最繁忙的机场之一。"
+    },
+    {
+      "id": 86,
+      "startMs": 480460,
+      "endMs": 487660,
+      "en": "It's the world's busiest airport for international travelers. In 2025, 95 million people passed through it.",
+      "zh": "它是全球国际旅客吞吐量最大的机场。2025年，有9,500万人次经由该机场出行。"
+    },
+    {
+      "id": 87,
+      "startMs": 487660,
+      "endMs": 494800,
+      "en": "Wow. Yeah, that was struck on a few occasions, though officially the government didn't confirm all those incidents.",
+      "zh": "哇。是的，机场曾数次遭到袭击，不过官方方面并未确认所有这些事件。"
+    },
+    {
+      "id": 88,
+      "startMs": 494880,
+      "endMs": 501280,
+      "en": "But yes, a number of videos emerged, especially in the initial days, showing that the airport did come under attack.",
+      "zh": "不过，确实有不少视频流出，尤其是在最初几天，显示机场确实遭到了攻击。"
+    },
+    {
+      "id": 89,
+      "startMs": 501440,
+      "endMs": 506720,
+      "en": "As a result, Dubai airport had to suspend flights or flight operations for a few hours.",
+      "zh": "因此，迪拜机场不得不暂停航班或飞行运营数小时。"
+    },
+    {
+      "id": 90,
+      "startMs": 507040,
+      "endMs": 512240,
+      "en": "But even the Dubai port, Asma, is one of the world's largest ports—the largest in this region.",
+      "zh": "不过，阿斯玛，迪拜港也是世界上最大的港口之一，更是本地区最大的港口。"
+    },
+    {
+      "id": 91,
+      "startMs": 512240,
+      "endMs": 521280,
+      "en": "It's a very important engine of Dubai's economy, with vessels coming and going for trade. So even that was a big shock.",
+      "zh": "它是迪拜经济的重要引擎，船只往来进行贸易。所以，就连港口受袭也令人震惊。"
+    },
+    {
+      "id": 92,
+      "startMs": 521440,
+      "endMs": 529360,
+      "en": "It strikes me that some people come to Dubai for a luxe lifestyle; others might move there for legitimate economic opportunities.",
+      "zh": "我注意到，有些人为了奢华生活来到迪拜，另一些人则可能为了正当的经济机会搬到那里。"
+    },
+    {
+      "id": 93,
+      "startMs": 529680,
+      "endMs": 539360,
+      "en": "There are many versions of life in Dubai, but I want to understand why so many people want to uproot their lives and move there.",
+      "zh": "迪拜生活有很多种样貌，但我想了解，为什么这么多人愿意离开原来的生活，搬到迪拜。"
+    },
+    {
+      "id": 94,
+      "startMs": 539760,
+      "endMs": 542080,
+      "en": "It is a city full of people from all over the world.",
+      "zh": "这是一座汇聚了世界各地人口的城市。"
+    },
+    {
+      "id": 95,
+      "startMs": 542320,
+      "endMs": 548320,
+      "en": "Dubai's latest figure is 4.7 million people living there.",
+      "zh": "迪拜最新数据显示，那里有470万人。"
+    },
+    {
+      "id": 96,
+      "startMs": 549000,
+      "endMs": 552840,
+      "en": "Of those, 60%, or 60 to 65%, are South Asians.",
+      "zh": "其中60%，也就是60%至65%，是南亚人。"
+    },
+    {
+      "id": 97,
+      "startMs": 552840,
+      "endMs": 559560,
+      "en": "By South Asian nationals, I mean Indians, Pakistanis and Bangladeshis who have relocated there.",
+      "zh": "我说的南亚国籍人士，包括迁居当地的印度人、巴基斯坦人和孟加拉国人。"
+    },
+    {
+      "id": 98,
+      "startMs": 559880,
+      "endMs": 565240,
+      "en": "There are also significant populations from other countries, like Egypt and the Philippines.",
+      "zh": "此外还有来自其他国家的大量人口，比如埃及和菲律宾。"
+    },
+    {
+      "id": 99,
+      "startMs": 565960,
+      "endMs": 568920,
+      "en": "An estimated 240,000 Britons live across the UAE.",
+      "zh": "据估计，阿联酋有24万英国人。"
+    },
+    {
+      "id": 100,
+      "startMs": 569400,
+      "endMs": 577800,
+      "en": "The Western expat population across the UAE is estimated at about half a million. Overall, the expatriate population is predominantly South Asian.",
+      "zh": "阿联酋的西方外籍人口估计约为50万；整体而言，外籍人口主要来自南亚。"
+    },
+    {
+      "id": 101,
+      "startMs": 578120,
+      "endMs": 583480,
+      "en": "The UAE's local population, meaning the Emirati population...",
+      "zh": "阿联酋的本地人口，也就是阿联酋公民……"
+    },
+    {
+      "id": 102,
+      "startMs": 583960,
+      "endMs": 588040,
+      "en": "UAE nationals make up just about 10% of the population.",
+      "zh": "阿联酋公民只占总人口的约10%。"
+    },
+    {
+      "id": 103,
+      "startMs": 588680,
+      "endMs": 598520,
+      "en": "That's why the country relies heavily on migrant workers or expatriates who come to work there and keep the country moving.",
+      "zh": "这就是该国高度依赖移民劳工或外籍人士前来工作、维持国家运转的原因。"
+    },
+    {
+      "id": 104,
+      "startMs": 599160,
+      "endMs": 602840,
+      "en": "Now, unlike many Western countries, the UAE does not give citizenship.",
+      "zh": "与许多西方国家不同，阿联酋不授予公民身份。"
+    },
+    {
+      "id": 105,
+      "startMs": 603160,
+      "endMs": 606600,
+      "en": "There is no straightforward pathway to get a passport or nationality.",
+      "zh": "想要获得护照或国籍，并没有简单直接的途径。"
+    },
+    {
+      "id": 106,
+      "startMs": 606920,
+      "endMs": 608920,
+      "en": "Very few people get that.",
+      "zh": "真正获得的人很少。"
+    },
+    {
+      "id": 107,
+      "startMs": 609020,
+      "endMs": 614940,
+      "en": "There are long-term visas now. People would come, spend a few years, earn good money and return to their home country.",
+      "zh": "如今有长期签证。人们会来这里住几年、挣些钱，然后回国。"
+    },
+    {
+      "id": 108,
+      "startMs": 615500,
+      "endMs": 618060,
+      "en": "But for many people, this has become a long-term home.",
+      "zh": "但对很多人来说，这里已经成了长期的家。"
+    },
+    {
+      "id": 109,
+      "startMs": 618380,
+      "endMs": 624620,
+      "en": "Yes, some of the population is affluent, but it is a very small group.",
+      "zh": "是的，有一部分人很富裕，但这部分人占比很小。"
+    },
+    {
+      "id": 110,
+      "startMs": 624860,
+      "endMs": 632380,
+      "en": "By affluent, I mean millionaires. They would be 2% or 3% of the population, or 4% or 5% at most.",
+      "zh": "我说的富裕人群是百万富翁，约占总人口的2%至3%，最多也就4%至5%。"
+    },
+    {
+      "id": 111,
+      "startMs": 632940,
+      "endMs": 639420,
+      "en": "And it's true: interestingly, after COVID, the UAE became the number one country for millionaire migration.",
+      "zh": "确实如此：有意思的是，疫情后阿联酋成了百万富翁移居的首选国家。"
+    },
+    {
+      "id": 112,
+      "startMs": 639580,
+      "endMs": 643660,
+      "en": "And what's the attraction? The attraction is safety. The crime rate is very low.",
+      "zh": "吸引力是什么？是安全。这里的犯罪率很低。"
+    },
+    {
+      "id": 113,
+      "startMs": 643900,
+      "endMs": 651180,
+      "en": "You will barely hear stories about people getting mugged on the streets. I mean, I've never heard that story, actually.",
+      "zh": "你几乎听不到有人在街上遭抢劫的消息。其实，我确实从没听说过这样的事。"
+    },
+    {
+      "id": 114,
+      "startMs": 651180,
+      "endMs": 652940,
+      "en": "I've never heard of anyone getting mugged there.",
+      "zh": "我没听说过有人在那里遭抢劫。"
+    },
+    {
+      "id": 115,
+      "startMs": 653420,
+      "endMs": 658140,
+      "en": "Yes, some petty crimes have happened, but the rate is very low.",
+      "zh": "是的，发生过一些轻微犯罪，但犯罪率很低。"
+    },
+    {
+      "id": 116,
+      "startMs": 658540,
+      "endMs": 664380,
+      "en": "And there are a lot of surveillance cameras across the city. It's one of the most closely watched cities in that sense.",
+      "zh": "全城有很多监控摄像头；从这个意义上说，这是一座监控最严密的城市之一。"
+    },
+    {
+      "id": 117,
+      "startMs": 664780,
+      "endMs": 668540,
+      "en": "Plus, the lifestyle it offers: it's a very clean, very modern city.",
+      "zh": "此外还有这里的生活方式：城市非常干净、现代。"
+    },
+    {
+      "id": 118,
+      "startMs": 669040,
+      "endMs": 671680,
+      "en": "You can get all the convenience you want.",
+      "zh": "你想要的各种便利这里都有。"
+    },
+    {
+      "id": 119,
+      "startMs": 672400,
+      "endMs": 677760,
+      "en": "The average salary in Dubai—and there is no government data published on it—",
+      "zh": "迪拜的平均工资——政府没有公布相关数据——"
+    },
+    {
+      "id": 120,
+      "startMs": 678080,
+      "endMs": 683840,
+      "en": "so a lot of it is based on surveys by institutions and things like that.",
+      "zh": "所以很多数据都来自机构开展的调查之类的。"
+    },
+    {
+      "id": 121,
+      "startMs": 684160,
+      "endMs": 687600,
+      "en": "The average salary is about $5,000.",
+      "zh": "平均工资约为5,000美元。"
+    },
+    {
+      "id": 122,
+      "startMs": 687760,
+      "endMs": 693520,
+      "en": "That's nowhere close to, let's say, someone projecting an image of opulence or luxury.",
+      "zh": "这远低于那些营造奢华形象的人所展现的水平。"
+    },
+    {
+      "id": 123,
+      "startMs": 694400,
+      "endMs": 702320,
+      "en": "But surveys suggest 60% of the population earn less than $1,500 a month in the city.",
+      "zh": "但调查显示，城里60%的人月收入不到1,500美元。"
+    },
+    {
+      "id": 124,
+      "startMs": 702320,
+      "endMs": 708400,
+      "en": "That's because a huge section are blue-collar workers, and there is no minimum-wage system in the country.",
+      "zh": "因为其中很大一部分是蓝领工人，而该国没有最低工资制度。"
+    },
+    {
+      "id": 125,
+      "startMs": 708880,
+      "endMs": 712560,
+      "en": "So, you know, there is a lot of disparity. Nevertheless, having said that...",
+      "zh": "所以，贫富差距很大。不过，话虽如此……"
+    },
+    {
+      "id": 126,
+      "startMs": 713280,
+      "endMs": 715840,
+      "en": "There is 0% tax on your personal income.",
+      "zh": "个人所得税税率为0%。"
+    },
+    {
+      "id": 127,
+      "startMs": 716320,
+      "endMs": 719360,
+      "en": "Samir, if we can go back to the start of the war...",
+      "zh": "萨米尔，我们回到战争刚开始的时候……"
+    },
+    {
+      "id": 128,
+      "startMs": 719840,
+      "endMs": 725040,
+      "en": "when Iran first started aiming missiles at the UAE,",
+      "zh": "伊朗开始向阿联酋发射导弹时，"
+    },
+    {
+      "id": 129,
+      "startMs": 725520,
+      "endMs": 728560,
+      "en": "some people were sharing all of this on social media.",
+      "zh": "有人把这些情况发到了社交媒体上。"
+    },
+    {
+      "id": 130,
+      "startMs": 729360,
+      "endMs": 732560,
+      "en": "How did the Emirati government respond to those posts?",
+      "zh": "阿联酋政府如何回应这些帖子？"
+    },
+    {
+      "id": 131,
+      "startMs": 732960,
+      "endMs": 738480,
+      "en": "I think in the first day or two, the government issued statements asking people not to post these videos.",
+      "zh": "我想，头一两天政府发表声明，要求人们不要发布这些视频。"
+    },
+    {
+      "id": 132,
+      "startMs": 738880,
+      "endMs": 743680,
+      "en": "Now, the thing is, Asma, there are some rules and regulations in the country.",
+      "zh": "阿斯玛，问题是这个国家有一些规章制度。"
+    },
+    {
+      "id": 133,
+      "startMs": 744000,
+      "endMs": 748320,
+      "en": "That is especially true of social media and what you can post. The law is very clear.",
+      "zh": "尤其是社交媒体上能发布什么，法律规定得很明确。"
+    },
+    {
+      "id": 134,
+      "startMs": 748560,
+      "endMs": 754880,
+      "en": "Anything seen as disrespecting the country's sovereignty, symbols or institutions...",
+      "zh": "任何被视为不尊重国家主权、象征或机构的内容……"
+    },
+    {
+      "id": 135,
+      "startMs": 755360,
+      "endMs": 758240,
+      "en": "...or its supreme interests or society.",
+      "zh": "……或国家最高利益及其社会的内容。"
+    },
+    {
+      "id": 136,
+      "startMs": 758480,
+      "endMs": 764400,
+      "en": "These are very broad terms: the culture, national identity or values...",
+      "zh": "这些说法非常宽泛：文化、国家认同或价值观……"
+    },
+    {
+      "id": 137,
+      "startMs": 764800,
+      "endMs": 773120,
+      "en": "...or circulating information that may compromise national unity or social security, or incite violence or panic.",
+      "zh": "……或传播可能损害国家团结、社会安全，或煽动暴力、引发恐慌的信息。"
+    },
+    {
+      "id": 138,
+      "startMs": 774100,
+      "endMs": 778100,
+      "en": "You know, those were the general rules. But I think what happened during the war was because of the videos.",
+      "zh": "那些是一般规定。但我认为，战争期间的情况是由这些视频引起的。"
+    },
+    {
+      "id": 139,
+      "startMs": 778500,
+      "endMs": 785220,
+      "en": "The government came out and categorically said these videos were impacting national security...",
+      "zh": "政府明确表示，这些视频正在影响国家安全……"
+    },
+    {
+      "id": 140,
+      "startMs": 785220,
+      "endMs": 787140,
+      "en": "...because they gave away sensitive information.",
+      "zh": "……因为它们泄露了敏感信息。"
+    },
+    {
+      "id": 141,
+      "startMs": 787540,
+      "endMs": 789700,
+      "en": "In some cases, they were disseminating misinformation.",
+      "zh": "有些情况下，它们传播了错误信息。"
+    },
+    {
+      "id": 142,
+      "startMs": 791140,
+      "endMs": 795780,
+      "en": "Some were said to be AI-generated videos, which wasn't true; some were actual videos.",
+      "zh": "有些视频被说成是人工智能生成的，但并非如此；其中一些是真实拍摄的。"
+    },
+    {
+      "id": 143,
+      "startMs": 796100,
+      "endMs": 799860,
+      "en": "But they really wanted to clamp down on the information going out...",
+      "zh": "但他们确实想要严控外传的信息……"
+    },
+    {
+      "id": 144,
+      "startMs": 800340,
+      "endMs": 802820,
+      "en": "...because they said it could compromise national security.",
+      "zh": "……因为他们说这可能危及国家安全。"
+    },
+    {
+      "id": 145,
+      "startMs": 802900,
+      "endMs": 810260,
+      "en": "So they essentially wanted the public to share only government information about the war and the strikes.",
+      "zh": "所以他们实际上希望公众只分享政府发布的战争和袭击信息。"
+    },
+    {
+      "id": 146,
+      "startMs": 810500,
+      "endMs": 818340,
+      "en": "That's correct. And did they threaten legal action if people chose to, say, publish, share or circulate images of their own?",
+      "zh": "没错。如果有人选择发布、分享或传播自己拍摄的画面，他们是否威胁要采取法律行动？"
+    },
+    {
+      "id": 147,
+      "startMs": 818580,
+      "endMs": 822420,
+      "en": "Yes, they did say this could lead to imprisonment or a heavy fine.",
+      "zh": "是的，他们说这可能导致监禁或高额罚款。"
+    },
+    {
+      "id": 148,
+      "startMs": 822420,
+      "endMs": 830980,
+      "en": "A lot of people were detained. The official figure was about 375 people across the country, detained for different violations.",
+      "zh": "很多人遭到拘留。官方数字是全国约有375人因不同违规行为被拘留。"
+    },
+    {
+      "id": 149,
+      "startMs": 831380,
+      "endMs": 836200,
+      "en": "Not all were detained just for posting videos, but a sizable number were.",
+      "zh": "他们并非全都只因发布视频被拘留，但相当一部分确实如此。"
+    },
+    {
+      "id": 150,
+      "startMs": 836280,
+      "endMs": 840520,
+      "en": "One organization claimed that more than 20 Britons were detained.",
+      "zh": "有一家机构称，超过20名英国人遭到拘留。"
+    },
+    {
+      "id": 151,
+      "startMs": 840520,
+      "endMs": 847800,
+      "en": "Actually, so can I pause and understand this a little? It seems so normal in many environments, right?",
+      "zh": "我想先停一下，弄清楚这件事。因为在很多地方，这似乎再平常不过了，对吧？"
+    },
+    {
+      "id": 152,
+      "startMs": 847800,
+      "endMs": 851560,
+      "en": "I've often covered breaking news in the United States.",
+      "zh": "我经常在美国报道突发新闻。"
+    },
+    {
+      "id": 153,
+      "startMs": 851640,
+      "endMs": 858440,
+      "en": "And if a crisis happens, documenting it by phone is just part of how we operate.",
+      "zh": "危机发生时，用手机记录现场是我们行事方式中再自然不过的一部分。"
+    },
+    {
+      "id": 154,
+      "startMs": 858440,
+      "endMs": 861800,
+      "en": "People pull out their phones to document what is happening.",
+      "zh": "人们会拿出手机记录正在发生的事。"
+    },
+    {
+      "id": 155,
+      "startMs": 862040,
+      "endMs": 868920,
+      "en": "You're right. In many countries, people are free to take out their phones and film almost anything.",
+      "zh": "你说得对。在许多国家，人们可以自由拿出手机，几乎想拍什么就拍什么。"
+    },
+    {
+      "id": 156,
+      "startMs": 869160,
+      "endMs": 875400,
+      "en": "Basically, the challenge isn't limited to the UAE; it affects much of this region.",
+      "zh": "基本上，这个问题不只存在于阿联酋，也影响本地区许多地方。"
+    },
+    {
+      "id": 157,
+      "startMs": 875400,
+      "endMs": 880040,
+      "en": "Countries like Saudi Arabia, Kuwait and Bahrain are also autocracies.",
+      "zh": "沙特、科威特和巴林等国也都是专制政体。"
+    },
+    {
+      "id": 158,
+      "startMs": 880040,
+      "endMs": 885000,
+      "en": "There is no democracy here. These countries are usually ruled by families—royal families.",
+      "zh": "这里没有民主。这些国家通常由家族统治，也就是王室。"
+    },
+    {
+      "id": 159,
+      "startMs": 885480,
+      "endMs": 893240,
+      "en": "They have absolute say over what is published in the press, including the local press, and over what goes out publicly.",
+      "zh": "他们对媒体刊发什么，包括本地媒体的报道，以及公开传播什么，都有绝对决定权。"
+    },
+    {
+      "id": 160,
+      "startMs": 893340,
+      "endMs": 901420,
+      "en": "So they try to manage the country's image by keeping a tight hold on the media as a whole.",
+      "zh": "因此，他们试图通过全面严控媒体来管理国家形象。"
+    },
+    {
+      "id": 161,
+      "startMs": 901820,
+      "endMs": 907180,
+      "en": "By media, I mean both social media and mainstream media.",
+      "zh": "我说的媒体，既包括社交媒体，也包括主流媒体。"
+    },
+    {
+      "id": 162,
+      "startMs": 907180,
+      "endMs": 912140,
+      "en": "And those rules apply, you're saying, to individuals posting social-media videos and to journalists in Dubai?",
+      "zh": "你的意思是，这些规定既适用于个人在社交媒体发布视频，也适用于迪拜的记者？"
+    },
+    {
+      "id": 163,
+      "startMs": 912140,
+      "endMs": 917740,
+      "en": "And so, yeah, Samir, I imagine many listeners are wondering: here we are, having this conversation with you as a journalist.",
+      "zh": "那么，萨米尔，我想很多听众都会好奇：我们正在和身为记者的你进行这番对话。"
+    },
+    {
+      "id": 164,
+      "startMs": 918300,
+      "endMs": 920940,
+      "en": "Are you restrained in some capacity?",
+      "zh": "你是否在某些方面受到限制？"
+    },
+    {
+      "id": 165,
+      "startMs": 920940,
+      "endMs": 924540,
+      "en": "I want listeners to understand the transparency we're having here with you.",
+      "zh": "我希望听众理解，我们正在与你坦诚地进行这场对话。"
+    },
+    {
+      "id": 166,
+      "startMs": 925020,
+      "endMs": 932060,
+      "en": "Yes, there are clear guidelines for how the press must operate, and they became even stricter during the war.",
+      "zh": "是的，新闻媒体的运作有明确规定，而且战时这些规定变得更加严格。"
+    },
+    {
+      "id": 167,
+      "startMs": 932460,
+      "endMs": 934140,
+      "en": "It hasn't happened to me personally.",
+      "zh": "我本人没有遇到这种情况。"
+    },
+    {
+      "id": 168,
+      "startMs": 934460,
+      "endMs": 944220,
+      "en": "But colleagues at other international outlets faced a lot of pressure from authorities after posting videos in their news stories.",
+      "zh": "但其他国际媒体的同事在新闻报道中发布视频后，遭到了当局很大压力。"
+    },
+    {
+      "id": 169,
+      "startMs": 944300,
+      "endMs": 946620,
+      "en": "Can I ask you about those videos, Samir?",
+      "zh": "萨米尔，我能问问那些视频的事吗？"
+    },
+    {
+      "id": 170,
+      "startMs": 946700,
+      "endMs": 952380,
+      "en": "You said the port was hit, and people shared images of it.",
+      "zh": "你说港口遭到袭击，人们也分享了相关影像。"
+    },
+    {
+      "id": 171,
+      "startMs": 952460,
+      "endMs": 958480,
+      "en": "But if I understood you correctly, are you saying the government didn't acknowledge it, at least initially?",
+      "zh": "如果我理解得对，你是说政府没有承认此事，至少一开始没有？"
+    },
+    {
+      "id": 172,
+      "startMs": 958960,
+      "endMs": 967200,
+      "en": "The port came under attack a number of times. Videos circulated, but the government never explicitly said whether it had been attacked.",
+      "zh": "港口多次遭到袭击。相关视频在流传，但政府始终没有明确说明港口是否遇袭。"
+    },
+    {
+      "id": 173,
+      "startMs": 967760,
+      "endMs": 976160,
+      "en": "What they did confirm each day was the alert figures: how many missiles were fired and how many they intercepted.",
+      "zh": "他们每天确实会公布警报数据：发射了多少枚导弹，又拦截了多少枚。"
+    },
+    {
+      "id": 174,
+      "startMs": 976720,
+      "endMs": 984320,
+      "en": "They also gave casualty figures: more than 230 people were injured during the war, and 13 lost their lives.",
+      "zh": "他们也公布了伤亡数字：战时有230多人受伤，13人丧生。"
+    },
+    {
+      "id": 175,
+      "startMs": 984800,
+      "endMs": 993680,
+      "en": "That was the figure they gave. They also released photos and footage of the injured, including when the president visited them.",
+      "zh": "这是他们公布的数字。他们还发布了伤者的照片和影像，包括总统探望伤者时的画面。"
+    },
+    {
+      "id": 176,
+      "startMs": 993840,
+      "endMs": 1001360,
+      "en": "But they were strict about videos. Were some people arrested for that, and have they been prosecuted?",
+      "zh": "不过，他们对视频管控很严。有人因此被捕吗？他们受到起诉了吗？"
+    },
+    {
+      "id": 177,
+      "startMs": 1001600,
+      "endMs": 1003600,
+      "en": "That's tough to answer, Asma.",
+      "zh": "阿斯玛，这个问题很难回答。"
+    },
+    {
+      "id": 178,
+      "startMs": 1003600,
+      "endMs": 1011920,
+      "en": "The courts and police don't release public data or comment on specific cases.",
+      "zh": "法院和警方不会公开数据，也不会评论具体案件。"
+    },
+    {
+      "id": 179,
+      "startMs": 1011920,
+      "endMs": 1018260,
+      "en": "If you contact them as a journalist, they will never answer. That's not just because of the war; it's generally the case.",
+      "zh": "如果你以记者身份联系他们，他们绝不会答复。这不只是战时如此，平时也是这样。"
+    },
+    {
+      "id": 180,
+      "startMs": 1018740,
+      "endMs": 1023700,
+      "en": "I can't sit in on a court hearing here; as a journalist, that's against the law.",
+      "zh": "我不能在这里旁听庭审；作为记者，这么做是违法的。"
+    },
+    {
+      "id": 181,
+      "startMs": 1024180,
+      "endMs": 1032100,
+      "en": "But my understanding, Asma, from sources who've spoken to the government is that a number of those detained were let off.",
+      "zh": "不过，阿斯玛，据我从与政府沟通过的消息人士了解，一些被拘留者获释了。"
+    },
+    {
+      "id": 182,
+      "startMs": 1032500,
+      "endMs": 1038580,
+      "en": "Most of their home countries' embassies did not comment publicly; I think that was part of the understanding.",
+      "zh": "这些人大多数所属国家的使馆没有公开置评；我认为这是默契的一部分。"
+    },
+    {
+      "id": 183,
+      "startMs": 1038580,
+      "endMs": 1046740,
+      "en": "But many cases were dropped, and some detainees were released.",
+      "zh": "不过，许多案件被撤销，一些被拘留者也获释了。"
+    },
+    {
+      "id": 184,
+      "startMs": 1048460,
+      "endMs": 1053340,
+      "en": "I think that was also part of what was happening. I'm not defending the UAE government.",
+      "zh": "我认为这也是当时情况的一部分。我并不是在为阿联酋政府辩护。"
+    },
+    {
+      "id": 185,
+      "startMs": 1054220,
+      "endMs": 1061340,
+      "en": "The problem, as I saw it, was Western publications, especially tabloids.",
+      "zh": "我认为，问题在于西方媒体，尤其是小报。"
+    },
+    {
+      "id": 186,
+      "startMs": 1061820,
+      "endMs": 1071020,
+      "en": "They ran headlines claiming Dubai was under attack and its bubble had burst, painting a picture that didn't truly reflect events on the ground.",
+      "zh": "他们刊登迪拜遭袭、泡沫破灭的标题，描绘的景象并未真实反映当地情况。"
+    },
+    {
+      "id": 187,
+      "startMs": 1071340,
+      "endMs": 1074700,
+      "en": "That gave the impression of a full-scale war.",
+      "zh": "这让人觉得战事全面爆发。"
+    },
+    {
+      "id": 188,
+      "startMs": 1075020,
+      "endMs": 1081980,
+      "en": "People were panicking and trying to flee the country, as if Dubai's story were over.",
+      "zh": "人们惊慌失措、试图逃离这个国家，仿佛迪拜的故事已经结束。"
+    },
+    {
+      "id": 189,
+      "startMs": 1081980,
+      "endMs": 1088860,
+      "en": "I understand the attacks are not over, but some people were certainly trying to leave in those early days.",
+      "zh": "我知道袭击尚未结束，但在最初那些日子里，确实有人试图离开。"
+    },
+    {
+      "id": 190,
+      "startMs": 1089180,
+      "endMs": 1091660,
+      "en": "Some people, yes. That qualification matters.",
+      "zh": "是有一些人离开了。我认为这个限定很重要。"
+    },
+    {
+      "id": 191,
+      "startMs": 1091660,
+      "endMs": 1097180,
+      "en": "I myself have reported about it. I know people who left the city; they didn't leave the country for good.",
+      "zh": "我自己也报道过这件事。我认识一些离开这座城市的人；他们并没有永远离开这个国家。"
+    },
+    {
+      "id": 192,
+      "startMs": 1097740,
+      "endMs": 1108220,
+      "en": "But official data show that only 61,000 people left the country during the war, out of a population of 4.7 million.",
+      "zh": "不过官方数据显示，战争期间只有6.1万人离开了这个国家，而人口总数为470万。"
+    },
+    {
+      "id": 193,
+      "startMs": 1108540,
+      "endMs": 1111420,
+      "en": "So that's about 5% during the war.",
+      "zh": "所以战争期间大约是5%。"
+    },
+    {
+      "id": 194,
+      "startMs": 1111500,
+      "endMs": 1114860,
+      "en": "And now the population has returned to that same level.",
+      "zh": "现在人口又回到了同一水平。"
+    },
+    {
+      "id": 195,
+      "startMs": 1115020,
+      "endMs": 1121100,
+      "en": "The latest data, released in August, show the population has slightly increased to its pre-war level.",
+      "zh": "8月公布的最新数据显示，人口略有回升，已达到战前水平。"
+    },
+    {
+      "id": 196,
+      "startMs": 1121660,
+      "endMs": 1128320,
+      "en": "So it's in that context that the government cites national-security concerns,",
+      "zh": "所以，政府正是在这样的背景下以国家安全为由，"
+    },
+    {
+      "id": 197,
+      "startMs": 1128640,
+      "endMs": 1133760,
+      "en": "as you say, to clamp down on sharing videos or photos on social media.",
+      "zh": "如你所说，打压在社交媒体上分享视频或照片的行为。"
+    },
+    {
+      "id": 198,
+      "startMs": 1134240,
+      "endMs": 1140600,
+      "en": "And yet shortly after that, I recall seeing a wave of videos online.",
+      "zh": "然而就在那之后不久，我记得网上出现了一波视频。"
+    },
+    {
+      "id": 199,
+      "startMs": 1140600,
+      "endMs": 1147240,
+      "en": "Influencers across the UAE, particularly in Dubai, began posting near-identical videos on social media.",
+      "zh": "阿联酋各地、尤其是迪拜的网红，开始在社交媒体发布几乎一模一样的视频。"
+    },
+    {
+      "id": 200,
+      "startMs": 1148340,
+      "endMs": 1151780,
+      "en": "Many commenters remarked on how many similar videos they'd seen.",
+      "zh": "许多评论者都提到，他们看到了很多类似的视频。"
+    },
+    {
+      "id": 201,
+      "startMs": 1151860,
+      "endMs": 1157220,
+      "en": "The videos had nearly identical formats, soundtracks and even stock footage.",
+      "zh": "这些视频的格式、配乐，甚至使用的库存素材都几乎完全相同。"
+    },
+    {
+      "id": 202,
+      "startMs": 1157620,
+      "endMs": 1160900,
+      "en": "They seemed to project a very similar counter-message.",
+      "zh": "它们似乎都在传达一种非常相似的反向信息。"
+    },
+    {
+      "id": 203,
+      "startMs": 1160900,
+      "endMs": 1164260,
+      "en": "They all follow the same pattern, the same template.",
+      "zh": "它们都遵循同一种模式、同一个模板。"
+    },
+    {
+      "id": 204,
+      "startMs": 1164260,
+      "endMs": 1170340,
+      "en": "They start with a content creator against a picture-perfect Dubai backdrop, with this caption:",
+      "zh": "开头是一位内容创作者站在风景如画的迪拜背景前，配上这样的文字："
+    },
+    {
+      "id": 205,
+      "startMs": 1170340,
+      "endMs": 1173780,
+      "en": "“You live in Dubai, aren't you scared?” “You live in Dubai, aren't you scared?”",
+      "zh": "“你住在迪拜，难道不害怕吗？”“你住在迪拜，难道不害怕吗？”"
+    },
+    {
+      "id": 206,
+      "startMs": 1173780,
+      "endMs": 1176042,
+      "en": "“You live in Dubai, aren't you scared?”",
+      "zh": "“你住在迪拜，难道不害怕吗？”"
+    },
+    {
+      "id": 207,
+      "startMs": 1176340,
+      "endMs": 1179940,
+      "en": "Then it shows a montage of photos of Emirati authorities.",
+      "zh": "接着画面展示了一组阿联酋官员的照片。"
+    },
+    {
+      "id": 208,
+      "startMs": 1179940,
+      "endMs": 1182980,
+      "en": "Adding: “No, no, because I know who protects us.”",
+      "zh": "并配文：“不，不，因为我知道谁在保护我们。”"
+    },
+    {
+      "id": 209,
+      "startMs": 1183300,
+      "endMs": 1184820,
+      "en": "“No, because I know who protects us.”",
+      "zh": "“不，因为我知道谁在保护我们。”"
+    },
+    {
+      "id": 210,
+      "startMs": 1186620,
+      "endMs": 1192860,
+      "en": "I mean, who knows? I wonder whether these were really organic or in some way promoted within Dubai.",
+      "zh": "不过，谁知道呢？我怀疑这些内容是否真是自发的，或是在迪拜以某种方式受到推广。"
+    },
+    {
+      "id": 211,
+      "startMs": 1192860,
+      "endMs": 1199260,
+      "en": "But these images all seemed to project a similar message about Dubai's safety and security.",
+      "zh": "但这些画面似乎都在传达相似的信息：迪拜是安全、有保障的。"
+    },
+    {
+      "id": 212,
+      "startMs": 1199340,
+      "endMs": 1201100,
+      "en": "How do you understand that?",
+      "zh": "你如何理解这一点？"
+    },
+    {
+      "id": 213,
+      "startMs": 1201340,
+      "endMs": 1203660,
+      "en": "There was a lot of controversy around that video.",
+      "zh": "那段视频引发了很多争议。"
+    },
+    {
+      "id": 214,
+      "startMs": 1203820,
+      "endMs": 1209660,
+      "en": "I spoke to a number of people in the government and to a lot of influencers, Asma.",
+      "zh": "阿斯玛，我采访了政府内部的一些人，也采访了不少网红。"
+    },
+    {
+      "id": 215,
+      "startMs": 1211080,
+      "endMs": 1216600,
+      "en": "I didn't find a single influencer who said anyone had paid them to post that video.",
+      "zh": "我没遇到任何一位网红说有人付钱让他们发布那段视频。"
+    },
+    {
+      "id": 216,
+      "startMs": 1217240,
+      "endMs": 1221320,
+      "en": "Government sources told me they hadn't sanctioned any campaign.",
+      "zh": "政府方面的消息人士告诉我，他们没有批准任何宣传活动。"
+    },
+    {
+      "id": 217,
+      "startMs": 1221720,
+      "endMs": 1227800,
+      "en": "However, I should add that many influencers are more aligned with the government, right?",
+      "zh": "不过我想补充一点，许多网红与政府的立场更为接近，对吧？"
+    },
+    {
+      "id": 218,
+      "startMs": 1228280,
+      "endMs": 1231880,
+      "en": "That happens in many countries. I'm from India, and I see it there too.",
+      "zh": "很多国家都会出现这种情况。我来自印度，在印度也能看到。"
+    },
+    {
+      "id": 219,
+      "startMs": 1232200,
+      "endMs": 1237000,
+      "en": "The government may have nudged some influencers to put the video out.",
+      "zh": "政府可能曾暗示一些网红把这段视频发出来。"
+    },
+    {
+      "id": 220,
+      "startMs": 1237400,
+      "endMs": 1244840,
+      "en": "But I also saw regular influencers with no government ties start posting that video.",
+      "zh": "但我也看到一些与政府无关的普通网红开始发布那段视频。"
+    },
+    {
+      "id": 221,
+      "startMs": 1248400,
+      "endMs": 1251600,
+      "en": "I asked why they were doing it if they weren't being paid.",
+      "zh": "我问他们：如果没有报酬，为什么要这么做？"
+    },
+    {
+      "id": 222,
+      "startMs": 1251920,
+      "endMs": 1259920,
+      "en": "I got mixed answers. One influencer, based there for about 10 to 15 years, told me:",
+      "zh": "我得到的回答各不相同。一位在当地生活了大约10到15年的网红告诉我："
+    },
+    {
+      "id": 223,
+      "startMs": 1259920,
+      "endMs": 1263600,
+      "en": "“I did it because Dubai is home to me. I've spent 15 years of my life here.”",
+      "zh": "“我这么做是因为迪拜就是我的家。我人生中有15年是在这里度过的。”"
+    },
+    {
+      "id": 224,
+      "startMs": 1264240,
+      "endMs": 1269840,
+      "en": "“I just want to show my support and solidarity, because this city and country have given me so much.”",
+      "zh": "“我只是想表达支持与团结，因为这座城市和这个国家给了我很多。”"
+    },
+    {
+      "id": 225,
+      "startMs": 1270160,
+      "endMs": 1273920,
+      "en": "One influencer who'd been there just two or three years told me:",
+      "zh": "一位在那里只住了两三年的网红告诉我："
+    },
+    {
+      "id": 226,
+      "startMs": 1273920,
+      "endMs": 1283280,
+      "en": "“As a social-media influencer, whatever I see trending, I try to make similar Reels, which will probably get me more followers.”",
+      "zh": "“作为社交媒体网红，什么内容火了，我就试着做类似的短视频，这大概能帮我涨粉。”"
+    },
+    {
+      "id": 227,
+      "startMs": 1283840,
+      "endMs": 1291280,
+      "en": "Another influencer, who had moved here less than a year earlier, said they planned to live and work here.",
+      "zh": "另一位网红不到一年前才搬来这里，并说自己计划在此生活和工作。"
+    },
+    {
+      "id": 228,
+      "startMs": 1291760,
+      "endMs": 1297760,
+      "en": "They wanted to publicly show the government: “You know, we're very much here with you, standing with you.”",
+      "zh": "他们想公开向政府表明：“你知道，我们坚定地留在这里支持你们，与你们站在一起。”"
+    },
+    {
+      "id": 229,
+      "startMs": 1297920,
+      "endMs": 1300080,
+      "en": "I mean, I'm very clear that it wasn't paid.",
+      "zh": "我的意思是，我很确定这不是有偿的。"
+    },
+    {
+      "id": 230,
+      "startMs": 1300080,
+      "endMs": 1301680,
+      "en": "I don't think it was a paid campaign at all.",
+      "zh": "我认为这根本不是一场付费宣传活动。"
+    },
+    {
+      "id": 231,
+      "startMs": 1302000,
+      "endMs": 1307520,
+      "en": "You could argue the government may have nudged some influencers.",
+      "zh": "可以说，政府或许曾暗中推动一些网红参与。"
+    },
+    {
+      "id": 232,
+      "startMs": 1307940,
+      "endMs": 1312900,
+      "en": "Those close to the government may have started this trend, but we don't know how it began.",
+      "zh": "与政府关系密切的人或许开启了这股风潮，但我们不知道它是如何开始的。"
+    },
+    {
+      "id": 233,
+      "startMs": 1313300,
+      "endMs": 1314820,
+      "en": "So, yeah, it's a mix of answers, really.",
+      "zh": "所以，确实是各种原因都有。"
+    },
+    {
+      "id": 234,
+      "startMs": 1315460,
+      "endMs": 1318100,
+      "en": "Samir, earlier you mentioned tourism.",
+      "zh": "萨米尔，你刚才提到了旅游业。"
+    },
+    {
+      "id": 235,
+      "startMs": 1318740,
+      "endMs": 1329700,
+      "en": "I think, regardless of what people post online, the regional war is still ongoing.",
+      "zh": "我认为，无论人们在网上发布什么，这场地区战争仍在持续。"
+    },
+    {
+      "id": 236,
+      "startMs": 1329700,
+      "endMs": 1337540,
+      "en": "That undoubtedly affects how many foreigners might visit as tourists.",
+      "zh": "这无疑会影响可能前来旅游的外国游客人数。"
+    },
+    {
+      "id": 237,
+      "startMs": 1337540,
+      "endMs": 1341540,
+      "en": "And to what degree has Dubai seen a drop-off in tourism?",
+      "zh": "那么迪拜的旅游业下滑到了什么程度？"
+    },
+    {
+      "id": 238,
+      "startMs": 1342340,
+      "endMs": 1346420,
+      "en": "Tourism has been completely battered since the war began.",
+      "zh": "自战争开始以来，旅游业遭受了沉重打击。"
+    },
+    {
+      "id": 239,
+      "startMs": 1347060,
+      "endMs": 1353620,
+      "en": "Tourism is a main pillar of the economy. Dubai is a business hub, and many industries rely on tourism.",
+      "zh": "旅游业是当地经济的重要支柱。迪拜是商业中心，许多行业都依赖旅游业。"
+    },
+    {
+      "id": 240,
+      "startMs": 1354100,
+      "endMs": 1357380,
+      "en": "The war has taken a toll on the tourism economy.",
+      "zh": "战争冲击了旅游经济。"
+    },
+    {
+      "id": 241,
+      "startMs": 1357860,
+      "endMs": 1365140,
+      "en": "The worst part for tourism was that this happened during the peak season, from November through April.",
+      "zh": "对旅游业最不利的是，战事发生在11月至次年4月的旅游旺季。"
+    },
+    {
+      "id": 242,
+      "startMs": 1365300,
+      "endMs": 1372520,
+      "en": "That's the busy period. The war began on February 28, with March and April still in peak season.",
+      "zh": "那正是繁忙时段。战争于2月28日开始，而3月和4月仍处于旺季。"
+    },
+    {
+      "id": 243,
+      "startMs": 1372520,
+      "endMs": 1375960,
+      "en": "Flights were suddenly cancelled, causing a significant drop.",
+      "zh": "航班突然取消，导致客流大幅下降。"
+    },
+    {
+      "id": 244,
+      "startMs": 1376520,
+      "endMs": 1378440,
+      "en": "And it's still playing out, even during the summer.",
+      "zh": "这种影响仍在持续，即使到了夏季也是如此。"
+    },
+    {
+      "id": 245,
+      "startMs": 1379000,
+      "endMs": 1383000,
+      "en": "A number of carriers, especially Western carriers, are still not flying.",
+      "zh": "多家航空公司，尤其是西方航空公司，仍未恢复航班。"
+    },
+    {
+      "id": 246,
+      "startMs": 1383000,
+      "endMs": 1392520,
+      "en": "British Airways is one. Many Western governments, including the United States, still advise people not to travel to the region.",
+      "zh": "英国航空就是其中一家。包括美国在内的许多西方政府仍发布旅行警示，建议民众不要前往该地区。"
+    },
+    {
+      "id": 247,
+      "startMs": 1393080,
+      "endMs": 1399400,
+      "en": "So if you look at the first half of the year, between January and June, air traffic or passenger traffic, as it's called,",
+      "zh": "今年上半年，也就是1月至6月，航空客运量——也就是旅客运输量——"
+    },
+    {
+      "id": 248,
+      "startMs": 1399880,
+      "endMs": 1403720,
+      "en": "dropped by 30% compared with last year, the same period last year.",
+      "zh": "与去年同期相比下降了30%。"
+    },
+    {
+      "id": 249,
+      "startMs": 1404500,
+      "endMs": 1411460,
+      "en": "So that's a significant drop, because there are fewer flights and fewer people flying for tourism.",
+      "zh": "这是显著下滑，因为航班减少了，出于旅游目的乘机的人也少了。"
+    },
+    {
+      "id": 250,
+      "startMs": 1411940,
+      "endMs": 1424500,
+      "en": "So that's one part. Second, hotels and restaurants are struggling; occupancy is down to 20–25%. Tourism-related industries have also seen layoffs.",
+      "zh": "这是一个方面。其次，酒店和餐馆经营艰难，入住率降至20%至25%。旅游相关行业也出现了不少裁员。"
+    },
+    {
+      "id": 251,
+      "startMs": 1424980,
+      "endMs": 1432740,
+      "en": "The second half of the year is worrying because the war, Asma, hasn't stopped, although the situation is no longer like March and April.",
+      "zh": "令人担忧的是今年下半年，因为战争目前还没有结束，阿斯玛，尽管局势已不像3月和4月那样。"
+    },
+    {
+      "id": 252,
+      "startMs": 1432900,
+      "endMs": 1435940,
+      "en": "Yeah, I was going to ask: are the attacks on the UAE continuing?",
+      "zh": "是啊，我正想问：针对阿联酋的袭击还在继续吗？"
+    },
+    {
+      "id": 253,
+      "startMs": 1436100,
+      "endMs": 1439860,
+      "en": "No, actually, we haven't seen much, except for one occasion in the last month.",
+      "zh": "没有，实际上，过去一个月里除了那一次，我们没看到多少袭击。"
+    },
+    {
+      "id": 254,
+      "startMs": 1440660,
+      "endMs": 1445140,
+      "en": "Just two weeks ago, an alert was issued that two missiles had been fired towards the UAE,",
+      "zh": "就在两周前，当局发布警报称，有两枚导弹射向阿联酋，"
+    },
+    {
+      "id": 255,
+      "startMs": 1445140,
+      "endMs": 1451060,
+      "en": "but one fell into the water and one fell on a non-civilian area on land; no one was hurt.",
+      "zh": "但一枚落入海中，另一枚落在陆上的非民用区域；无人受伤。"
+    },
+    {
+      "id": 256,
+      "startMs": 1451620,
+      "endMs": 1454020,
+      "en": "But that uncertainty is still there, right, Asma?",
+      "zh": "不过，不确定性依然存在，对吧，阿斯玛？"
+    },
+    {
+      "id": 257,
+      "startMs": 1454340,
+      "endMs": 1464020,
+      "en": "Last year, 19.5 million tourists visited Dubai, putting it among the ten most visited cities in the world.",
+      "zh": "去年有1,950万游客到访迪拜，使其跻身全球游客最多的十座城市之列。"
+    },
+    {
+      "id": 258,
+      "startMs": 1464760,
+      "endMs": 1468280,
+      "en": "But this year, that number could fall dramatically, as it did during COVID.",
+      "zh": "但今年这个数字可能大幅下降，就像新冠疫情期间一样。"
+    },
+    {
+      "id": 259,
+      "startMs": 1468680,
+      "endMs": 1476120,
+      "en": "Samir, you're describing a city that still feels very much as if it's living through uncertain days.",
+      "zh": "萨米尔，你描述的这座城市，依然仿佛正经历着一段充满不确定性的时期。"
+    },
+    {
+      "id": 260,
+      "startMs": 1476440,
+      "endMs": 1485560,
+      "en": "When this war began, I think Dubai's image as a safe, secure oasis in the Middle East was punctured.",
+      "zh": "我认为，这场战争开始时，迪拜作为中东安全绿洲的形象受到了冲击。"
+    },
+    {
+      "id": 261,
+      "startMs": 1486120,
+      "endMs": 1494840,
+      "en": "Is it your sense that this promise of safety, security and, importantly, stability has fallen apart? And if so, what does that mean?",
+      "zh": "你是否觉得，安全、安保，尤其是稳定的承诺已经破灭？如果是，这意味着什么？"
+    },
+    {
+      "id": 262,
+      "startMs": 1495320,
+      "endMs": 1501560,
+      "en": "I mean, look, there's no doubt that when you talk about brand Dubai, it has definitely cracked.",
+      "zh": "我是说，谈到“迪拜品牌”，毫无疑问，它确实已经出现裂痕。"
+    },
+    {
+      "id": 263,
+      "startMs": 1502520,
+      "endMs": 1507800,
+      "en": "I think there are two things here. One is Dubai's long-term stability.",
+      "zh": "我认为这里有两件事。其一是迪拜的长期稳定性。"
+    },
+    {
+      "id": 264,
+      "startMs": 1508280,
+      "endMs": 1519240,
+      "en": "People still believe in that, because they feel this war will eventually end and the UAE will be able to rebuild or repair that image.",
+      "zh": "人们仍然相信这一点，因为他们觉得战争终会结束，阿联酋也能重建或修复这一形象。"
+    },
+    {
+      "id": 265,
+      "startMs": 1519880,
+      "endMs": 1528940,
+      "en": "But having said that, Asma, it's also important to remember that, by and large, the population here are South Asians and Asians.",
+      "zh": "不过，阿斯玛，同样重要的是要记住，这里的人口总体上以南亚裔和其他亚洲人为主。"
+    },
+    {
+      "id": 266,
+      "startMs": 1530760,
+      "endMs": 1538680,
+      "en": "For them, despite this war, Dubai remains a very attractive destination because it offers better opportunities.",
+      "zh": "对他们而言，尽管发生了这场战争，迪拜仍很有吸引力，因为这里能提供更好的机会。"
+    },
+    {
+      "id": 267,
+      "startMs": 1539160,
+      "endMs": 1547320,
+      "en": "They rely on remittances—the money people earn here and send back to their home countries, including India, Pakistan and Bangladesh.",
+      "zh": "他们依靠汇款生活，也就是人们在这里挣钱后寄回祖国的钱，包括印度、巴基斯坦和孟加拉国。"
+    },
+    {
+      "id": 268,
+      "startMs": 1548160,
+      "endMs": 1556880,
+      "en": "Nepal, too, receives sizable remittances from the Gulf, as people working here earn money and send it back home.",
+      "zh": "尼泊尔也从海湾地区获得大量汇款，因为在这里工作的人挣钱后会寄回家乡。"
+    },
+    {
+      "id": 269,
+      "startMs": 1557520,
+      "endMs": 1566960,
+      "en": "So I don't think Dubai is going anywhere for the Global South; even today, it is the region's business hub.",
+      "zh": "所以我认为，迪拜对全球南方而言仍不可替代；直到今天，它依然是该地区的商业中心。"
+    },
+    {
+      "id": 270,
+      "startMs": 1567120,
+      "endMs": 1574000,
+      "en": "There is no replacement yet. Riyadh is coming up, and Doha to an extent, but Dubai remains the undisputed business hub.",
+      "zh": "目前还没有替代者。利雅得正在崛起，多哈也有一定发展，但迪拜仍是无可争议的商业中心。"
+    },
+    {
+      "id": 271,
+      "startMs": 1574480,
+      "endMs": 1583040,
+      "en": "But there are definitely short-term challenges over whether Dubai can return to what it was before, in terms of its image.",
+      "zh": "不过，短期内迪拜能否恢复往日形象，显然仍面临挑战。"
+    },
+    {
+      "id": 272,
+      "startMs": 1583440,
+      "endMs": 1591760,
+      "en": "I think that will take time, and a lot will depend on how long this war takes to end. That is the great unknown, Samir.",
+      "zh": "我认为这需要时间，而且很大程度上取决于战争还要持续多久。这正是最大的未知数，萨米尔。"
+    },
+    {
+      "id": 273,
+      "startMs": 1591760,
+      "endMs": 1592880,
+      "en": "It is.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 274,
+      "startMs": 1595700,
+      "endMs": 1601140,
+      "en": "Well, on that note, thank you for joining us on The Global Story. I really appreciate it. Thanks, Asma.",
+      "zh": "那么，就此感谢你参加《全球故事》。我非常感谢。谢谢你，阿斯玛。"
+    },
+    {
+      "id": 275,
+      "startMs": 1604780,
+      "endMs": 1612060,
+      "en": "That was Samir Hashmi, who spent more than a decade reporting for the BBC. He's now an independent journalist based in Dubai.",
+      "zh": "刚才是萨米尔·哈什米，他曾为BBC报道十余年。如今他是常驻迪拜的独立记者。"
+    },
+    {
+      "id": 276,
+      "startMs": 1612460,
+      "endMs": 1619820,
+      "en": "For feedback, story ideas or questions, email us at theglobalstory@bbc.com.",
+      "zh": "欢迎发送反馈、选题建议或问题至 theglobalstory@bbc.com。"
+    },
+    {
+      "id": 277,
+      "startMs": 1620540,
+      "endMs": 1622860,
+      "en": "A quick recommendation before we wrap up.",
+      "zh": "节目结束前，再快速推荐一档节目。"
+    },
+    {
+      "id": 278,
+      "startMs": 1623100,
+      "endMs": 1631100,
+      "en": "As you know by now, here at The Global Story we dive deep every weekday into one big story about where the world and America meet.",
+      "zh": "如你所知，《全球故事》每个工作日都会深入讲述一个世界与美国交汇的大故事。"
+    },
+    {
+      "id": 279,
+      "startMs": 1631580,
+      "endMs": 1638060,
+      "en": "If you're also looking to catch up on the latest headlines, we recommend our sister show, The Global News Podcast.",
+      "zh": "如果你也想了解最新新闻，我们推荐姊妹节目《全球新闻播客》。"
+    },
+    {
+      "id": 280,
+      "startMs": 1638700,
+      "endMs": 1641980,
+      "en": "Today's show was produced by Xandra Ellin and Vary McKenzie.",
+      "zh": "今天的节目由赞德拉·埃林和瓦里·麦肯齐制作。"
+    },
+    {
+      "id": 281,
+      "startMs": 1642220,
+      "endMs": 1645820,
+      "en": "It was mixed by Travis Evans. Our digital producer is Charlie Firth.",
+      "zh": "混音由特拉维斯·埃文斯完成，数字制作人是查理·弗思。"
+    },
+    {
+      "id": 282,
+      "startMs": 1645980,
+      "endMs": 1650860,
+      "en": "Our executive producer was Martine Powers, and our senior news editor is China Collins.",
+      "zh": "执行制片人是马蒂娜·鲍尔斯，资深新闻编辑是秦娜·柯林斯。"
+    },
+    {
+      "id": 283,
+      "startMs": 1651340,
+      "endMs": 1654300,
+      "en": "Thanks, as always, for spending some time with us, and we'll talk to you again soon.",
+      "zh": "一如既往，感谢你收听我们的节目，我们很快再见。"
+    }
+  ]
+}
