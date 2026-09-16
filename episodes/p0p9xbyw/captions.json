@@ -1,0 +1,1341 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "16 September 2026"
+  },
+  "durationMs": 1083260,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3280,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5200,
+      "endMs": 9920,
+      "en": "I'm Celia Hatton, and on Wednesday, the 16th of September, these are our main stories.",
+      "zh": "我是西莉亚·哈顿。今天是9月16日星期三，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 9920,
+      "endMs": 19760,
+      "en": "Gaza's Civil Defence Agency says at least 20 people, including five children, died after an Israeli-airstrike-damaged apartment block collapsed.",
+      "zh": "加沙民防机构称，一栋遭以色列空袭而受损的公寓楼倒塌后，至少20人死亡，其中包括5名儿童。"
+    },
+    {
+      "id": 4,
+      "startMs": 19760,
+      "endMs": 20960,
+      "en": "Also in this podcast...",
+      "zh": "本期播客还将报道……"
+    },
+    {
+      "id": 5,
+      "startMs": 21280,
+      "endMs": 30080,
+      "en": "Four years ago, if someone had told me that one day I would see women walking down the streets bravely and without the hijab,",
+      "zh": "四年前，如果有人告诉我，有一天我会看到女性勇敢地走在街上、不戴头巾，"
+    },
+    {
+      "id": 6,
+      "startMs": 30480,
+      "endMs": 32720,
+      "en": "I probably wouldn't have believed them.",
+      "zh": "我可能不会相信。"
+    },
+    {
+      "id": 7,
+      "startMs": 33120,
+      "endMs": 38000,
+      "en": "It's been four years since the death of Mahsa Amini at the hands of morality police in Iran.",
+      "zh": "马赫萨·阿米尼死于伊朗道德警察之手，至今已有四年。"
+    },
+    {
+      "id": 8,
+      "startMs": 38480,
+      "endMs": 46780,
+      "en": "Her death sparked huge protests. What's changed since then?",
+      "zh": "她的死亡引发了大规模抗议。此后发生了什么变化？"
+    },
+    {
+      "id": 9,
+      "startMs": 46780,
+      "endMs": 51420,
+      "en": "To Gaza now. A multi-storey building has collapsed in Gaza City with people inside.",
+      "zh": "现在转向加沙。一栋多层建筑在加沙城倒塌，里面还有人。"
+    },
+    {
+      "id": 10,
+      "startMs": 51980,
+      "endMs": 57260,
+      "en": "Before the structure crumbled, it had been functioning as a makeshift home for several displaced families.",
+      "zh": "在建筑坍塌前，这里一直是几个流离失所家庭的临时住所。"
+    },
+    {
+      "id": 11,
+      "startMs": 57660,
+      "endMs": 62780,
+      "en": "The large building had been previously attacked by an Israeli air strike, which had left it damaged.",
+      "zh": "这栋大型建筑此前遭到以色列空袭，受到损坏。"
+    },
+    {
+      "id": 12,
+      "startMs": 63260,
+      "endMs": 67420,
+      "en": "The territory's civil defence agency says dozens of people are missing.",
+      "zh": "加沙地带民防部门说，有数十人失踪。"
+    },
+    {
+      "id": 13,
+      "startMs": 67500,
+      "endMs": 70540,
+      "en": "At least 20 people, including five children, have died.",
+      "zh": "至少有20人死亡，其中包括5名儿童。"
+    },
+    {
+      "id": 14,
+      "startMs": 71020,
+      "endMs": 75660,
+      "en": "Despite the Israel-Gaza ceasefire, conditions inside Gaza do not appear to have improved.",
+      "zh": "尽管以色列与加沙停火，加沙境内的状况似乎并未改善。"
+    },
+    {
+      "id": 15,
+      "startMs": 76220,
+      "endMs": 83660,
+      "en": "The U.S.-created Board of Peace was meant to oversee the ceasefire and initiate reconstruction, as well as a gradual withdrawal",
+      "zh": "美国主导成立的和平委员会原本要监督停火并启动重建，以及逐步撤军"
+    },
+    {
+      "id": 16,
+      "startMs": 83660,
+      "endMs": 85580,
+      "en": "of Israeli troops from the territory.",
+      "zh": "让以色列军队逐步撤出该地区。"
+    },
+    {
+      "id": 17,
+      "startMs": 86060,
+      "endMs": 91980,
+      "en": "But Israel has expanded its control and still limits what reconstruction materials go into the Strip.",
+      "zh": "但以色列扩大了控制范围，仍限制重建物资进入加沙地带。"
+    },
+    {
+      "id": 18,
+      "startMs": 92620,
+      "endMs": 95500,
+      "en": "Our Middle East correspondent Yolande Knell told me the latest.",
+      "zh": "我们的中东记者约兰德·内尔告诉我最新情况。"
+    },
+    {
+      "id": 19,
+      "startMs": 95580,
+      "endMs": 100860,
+      "en": "We're speaking to local journalists there, and they're saying that this building collapsed overnight.",
+      "zh": "我们正在和当地记者交谈，他们说这栋建筑是在夜间倒塌的。"
+    },
+    {
+      "id": 20,
+      "startMs": 100860,
+      "endMs": 106540,
+      "en": "It's one which was known to have structural damage, according to Gaza's civil defence.",
+      "zh": "据加沙民防部门称，这栋建筑已知存在结构性损坏。"
+    },
+    {
+      "id": 21,
+      "startMs": 107040,
+      "endMs": 114960,
+      "en": "Yet families had been living there, really because of the very harsh conditions and the lack of suitable shelters around.",
+      "zh": "然而，一些家庭一直住在那里，确实是因为当地条件非常恶劣，周围又缺乏合适的避难所。"
+    },
+    {
+      "id": 22,
+      "startMs": 115200,
+      "endMs": 119200,
+      "en": "People had chosen to live in a building that they knew was unsafe.",
+      "zh": "人们选择住在一栋他们明知不安全的建筑里。"
+    },
+    {
+      "id": 23,
+      "startMs": 119680,
+      "endMs": 123040,
+      "en": "rather than living in the tents around them, to try to take shelter",
+      "zh": "而不是住在周围的帐篷里，因为他们想在那里躲避"
+    },
+    {
+      "id": 24,
+      "startMs": 123120,
+      "endMs": 127600,
+      "en": "from the strong sun during the summer, from the wind and the elements.",
+      "zh": "夏日的烈日、风和各种恶劣天气。"
+    },
+    {
+      "id": 25,
+      "startMs": 128000,
+      "endMs": 131840,
+      "en": "And we're hearing that there were ten families that had been living in this building,",
+      "zh": "我们听说，曾有10个家庭住在这栋建筑里，"
+    },
+    {
+      "id": 26,
+      "startMs": 132160,
+      "endMs": 136800,
+      "en": "and that dozens of people are still unaccounted for, many of them children.",
+      "zh": "仍有数十人下落不明，其中许多是儿童。"
+    },
+    {
+      "id": 27,
+      "startMs": 137040,
+      "endMs": 144480,
+      "en": "But there are rescuers there saying that they can hear voices from within the rubble, so there is some hope of finding some more survivors.",
+      "zh": "但现场的救援人员说，他们能听到瓦砾中的声音，因此仍有希望找到更多幸存者。"
+    },
+    {
+      "id": 28,
+      "startMs": 144480,
+      "endMs": 152720,
+      "en": "So emergency teams are on site, but what kinds of challenges do rescuers face when this kind of collapse happens?",
+      "zh": "所以，紧急救援队已经到场，但发生这种坍塌时，救援人员会面临哪些挑战？"
+    },
+    {
+      "id": 29,
+      "startMs": 152880,
+      "endMs": 159440,
+      "en": "I mean, you can see from some of the video footage that people are just using their bare hands to try to go through",
+      "zh": "我的意思是，从一些视频画面可以看到，人们只能徒手试图穿过"
+    },
+    {
+      "id": 30,
+      "startMs": 159440,
+      "endMs": 164720,
+      "en": "the rubble of at least six floors of this building that have now been sandwiched together.",
+      "zh": "这栋如今被压成一团的建筑，至少有六层楼的瓦砾。"
+    },
+    {
+      "id": 31,
+      "startMs": 165120,
+      "endMs": 168660,
+      "en": "There are some heavy equipment teams arriving there.",
+      "zh": "一些重型设备救援队正在抵达。"
+    },
+    {
+      "id": 32,
+      "startMs": 169140,
+      "endMs": 173220,
+      "en": "They are from the UN and also from an Egyptian relief agency.",
+      "zh": "他们来自联合国和一家埃及救援机构。"
+    },
+    {
+      "id": 33,
+      "startMs": 173540,
+      "endMs": 180660,
+      "en": "The civil defence told the BBC that it's really struggling to get heavy equipment for any kinds of jobs like this.",
+      "zh": "民防部门告诉BBC，他们很难获得进行这类工作的重型设备。"
+    },
+    {
+      "id": 34,
+      "startMs": 181060,
+      "endMs": 186420,
+      "en": "because of Israel's tight border restrictions, which it says are in place for security reasons,",
+      "zh": "因为以色列严格的边境限制，据以色列称，这些限制出于安全原因，"
+    },
+    {
+      "id": 35,
+      "startMs": 186500,
+      "endMs": 196020,
+      "en": "to stop Hamas and other Palestinian armed groups being able to use this equipment, being able to rearm, to re-establish tunnels in the Strip.",
+      "zh": "旨在阻止哈马斯和其他巴勒斯坦武装组织使用这些设备、重新武装，以及在加沙地带重建隧道。"
+    },
+    {
+      "id": 36,
+      "startMs": 196340,
+      "endMs": 202340,
+      "en": "But there's also a shortage of spare parts for machinery, a shortage of fuel to run the machinery,",
+      "zh": "但机械设备还缺少备件，也缺少运行设备所需的燃料，"
+    },
+    {
+      "id": 37,
+      "startMs": 202500,
+      "endMs": 205940,
+      "en": "and that causes real problems with events like this happening.",
+      "zh": "这让应对这样的事件变得非常困难。"
+    },
+    {
+      "id": 38,
+      "startMs": 206180,
+      "endMs": 211940,
+      "en": "And the civil defence is saying that there are about 2,000 buildings where people have been told not to live in them,",
+      "zh": "民防部门还说，大约有2,000栋建筑已被告知不适合居住，"
+    },
+    {
+      "id": 39,
+      "startMs": 212180,
+      "endMs": 214740,
+      "en": "but they know that there are families inside.",
+      "zh": "但他们知道里面仍住着一些家庭。"
+    },
+    {
+      "id": 40,
+      "startMs": 214740,
+      "endMs": 218420,
+      "en": "With this next story, we'll go back to something that happened four years ago:",
+      "zh": "接下来的报道，我们要回到四年前发生的一件事："
+    },
+    {
+      "id": 41,
+      "startMs": 218740,
+      "endMs": 222100,
+      "en": "the death of a young woman in Iran, Mahsa Amini.",
+      "zh": "伊朗一名年轻女子马赫萨·阿米尼的死亡。"
+    },
+    {
+      "id": 42,
+      "startMs": 222180,
+      "endMs": 229060,
+      "en": "Three days after she was arrested by Iran's morality police for allegedly wearing her hijab improperly,",
+      "zh": "她因被指控不当佩戴头巾而遭伊朗道德警察逮捕，三天后，"
+    },
+    {
+      "id": 43,
+      "startMs": 229540,
+      "endMs": 235380,
+      "en": "the 22-year-old's death sparked huge protests and the ongoing \"Woman, Life, Freedom\" movement.",
+      "zh": "这名22岁女子的死亡引发了大规模抗议，以及持续至今的“女性、生命、自由”运动。"
+    },
+    {
+      "id": 44,
+      "startMs": 235940,
+      "endMs": 239380,
+      "en": "So what's changed for women's rights since those demonstrations?",
+      "zh": "那么，自那场示威以来，女性权利发生了什么变化？"
+    },
+    {
+      "id": 45,
+      "startMs": 239380,
+      "endMs": 246100,
+      "en": "And now, with the US war with Iran, the BBC Persian Service's Ghoncheh Habibiazad sent this report.",
+      "zh": "现在，随着美国与伊朗的战争，BBC波斯语部的贡切·哈比比亚扎德发来了这篇报道。"
+    },
+    {
+      "id": 46,
+      "startMs": 250200,
+      "endMs": 258840,
+      "en": "Woman, Life, Freedom. It was the defining chant of a protest movement sparked by a young woman's death while in custody of Iran's morality police.",
+      "zh": "“女性、生命、自由”。这是由一名年轻女子在伊朗道德警察羁押期间死亡引发的抗议运动的标志性口号。"
+    },
+    {
+      "id": 47,
+      "startMs": 262200,
+      "endMs": 268600,
+      "en": "After the death of Mahsa Amini, videos of women dancing and appearing in public without mandatory hijabs went viral.",
+      "zh": "Mahsa Amini 去世后，女性跳舞、在公共场合不戴强制要求的头巾的视频在网上广泛传播。"
+    },
+    {
+      "id": 48,
+      "startMs": 270400,
+      "endMs": 274320,
+      "en": "Across Iran, women ripped off and burned their headscarves in solidarity.",
+      "zh": "在伊朗各地，女性摘下并焚烧头巾，以示声援。"
+    },
+    {
+      "id": 49,
+      "startMs": 277500,
+      "endMs": 283580,
+      "en": "The authorities responded with a brutal crackdown. The UN says more than 500 protesters were killed.",
+      "zh": "当局以残酷镇压回应。联合国称，超过500名抗议者被杀害。"
+    },
+    {
+      "id": 50,
+      "startMs": 285640,
+      "endMs": 291320,
+      "en": "The mass protests eventually subsided, but the movement did not simply disappear from Iranian society.",
+      "zh": "大规模抗议最终平息，但这场运动并没有就此从伊朗社会中消失。"
+    },
+    {
+      "id": 51,
+      "startMs": 292400,
+      "endMs": 300000,
+      "en": "Speaking out is not safe, so all the voices you'll hear have been voiced by BBC Persian producers, like this 20-year-old from Tehran.",
+      "zh": "公开发声并不安全，因此你将听到的所有声音，都是由BBC波斯语部的制作人代为讲述的，例如这位来自德黑兰的20岁女性。"
+    },
+    {
+      "id": 52,
+      "startMs": 300080,
+      "endMs": 305360,
+      "en": "I think what connected us to Mahsa was the fact that she was one of us.",
+      "zh": "我认为，我们与Mahsa的联系在于，她就是我们中的一员。"
+    },
+    {
+      "id": 53,
+      "startMs": 305760,
+      "endMs": 317760,
+      "en": "Four years ago, if someone had told me that one day I would see women walking down the streets bravely and without the hijab, I probably wouldn't have believed them.",
+      "zh": "四年前，如果有人告诉我，有一天我会看到女性勇敢地走在街上、不戴头巾，我可能不会相信。"
+    },
+    {
+      "id": 54,
+      "startMs": 318160,
+      "endMs": 320080,
+      "en": "And these changes are not limited to the capital.",
+      "zh": "而且，这些变化并不局限于首都。"
+    },
+    {
+      "id": 55,
+      "startMs": 320640,
+      "endMs": 323760,
+      "en": "A young woman in Rasht, a city in northern Iran, told us:",
+      "zh": "伊朗北部城市拉什特的一名年轻女性告诉我们："
+    },
+    {
+      "id": 56,
+      "startMs": 323840,
+      "endMs": 328720,
+      "en": "You can see it in the way the city looks. Some families have become a bit more open-minded, too.",
+      "zh": "从城市的面貌就能看出来。有些家庭也变得更加开明。"
+    },
+    {
+      "id": 57,
+      "startMs": 329120,
+      "endMs": 333600,
+      "en": "These days, they let their daughters go out wearing tops or even shorter skirts.",
+      "zh": "如今，他们允许女儿穿着上衣、甚至更短的裙子出门。"
+    },
+    {
+      "id": 58,
+      "startMs": 334000,
+      "endMs": 337920,
+      "en": "There is more freedom than before, in shops, in taxis and cars.",
+      "zh": "在商店、出租车和汽车里，人们比以前更自由。"
+    },
+    {
+      "id": 59,
+      "startMs": 338160,
+      "endMs": 342080,
+      "en": "But that greater sense of freedom does not mean the mandatory hijab law has gone away.",
+      "zh": "但这种更强的自由感，并不意味着强制佩戴头巾的法律已经消失。"
+    },
+    {
+      "id": 60,
+      "startMs": 343640,
+      "endMs": 347000,
+      "en": "You won't take my daughter anywhere! a distressed mother shouts.",
+      "zh": "“你休想把我女儿带走！”一位悲痛的母亲喊道。"
+    },
+    {
+      "id": 61,
+      "startMs": 349660,
+      "endMs": 356380,
+      "en": "This video was sent to us from Tehran two years ago. A woman is being taken away by the morality police, just like Mahsa.",
+      "zh": "这段视频是两年前从德黑兰发给我们的。一名女性正像Mahsa一样被道德警察带走。"
+    },
+    {
+      "id": 62,
+      "startMs": 357500,
+      "endMs": 360860,
+      "en": "Away from the streets, women are still being monitored online.",
+      "zh": "离开街头后，女性仍受到网络监控。"
+    },
+    {
+      "id": 63,
+      "startMs": 361420,
+      "endMs": 366540,
+      "en": "And while arrests in public appear to be less frequent, some fear they could flare up again.",
+      "zh": "尽管公开场合的逮捕似乎减少了，但有人担心逮捕可能再次激增。"
+    },
+    {
+      "id": 64,
+      "startMs": 366860,
+      "endMs": 370460,
+      "en": "They stopped my friend's car and asked, \"Where's your headscarf?\"",
+      "zh": "他们拦下我朋友的车，问道：“你的头巾呢？”"
+    },
+    {
+      "id": 65,
+      "startMs": 371020,
+      "endMs": 378620,
+      "en": "I'm scared. I'm scared the crackdown will happen all over again, and honestly, I don't have the mental capacity for it.",
+      "zh": "我很害怕。我害怕镇压会卷土重来。说实话，我没有心理承受能力再面对这一切。"
+    },
+    {
+      "id": 66,
+      "startMs": 380860,
+      "endMs": 385180,
+      "en": "The war with the US and Israel appears to have changed the government's priorities.",
+      "zh": "与美国和以色列的战争似乎改变了政府的优先事项。"
+    },
+    {
+      "id": 67,
+      "startMs": 385660,
+      "endMs": 390940,
+      "en": "One senior Iranian figure says enforcing the hijab law is currently a lower priority.",
+      "zh": "一名伊朗高级人士称，目前执行头巾法的优先级较低。"
+    },
+    {
+      "id": 68,
+      "startMs": 391660,
+      "endMs": 399580,
+      "en": "The changes have also sparked a backlash. One young man I spoke to, who lives near Tehran, said the issues had become polarising.",
+      "zh": "这些变化也引发了反弹。我采访的一名住在德黑兰附近的年轻男子说，这些问题已经变得两极化。"
+    },
+    {
+      "id": 69,
+      "startMs": 399980,
+      "endMs": 403500,
+      "en": "Dressing appropriately is different from wearing the hijab, in my opinion.",
+      "zh": "在我看来，得体穿着不同于佩戴头巾。"
+    },
+    {
+      "id": 70,
+      "startMs": 403900,
+      "endMs": 408540,
+      "en": "But it feels like some women are taking their resentment towards the hijab to an extreme.",
+      "zh": "但感觉有些女性把对头巾的怨恨推向了极端。"
+    },
+    {
+      "id": 71,
+      "startMs": 408540,
+      "endMs": 413020,
+      "en": "And opposition to the changes now seen on Iranian streets isn't confined to men.",
+      "zh": "而且，如今在伊朗街头可见的反对这些变化的声音，并不只来自男性。"
+    },
+    {
+      "id": 72,
+      "startMs": 413340,
+      "endMs": 423420,
+      "en": "A group of religious women gathered in Central Province of Isfahan recently. \"Man, where is your dignity? Where is your wife's hijab?\"",
+      "zh": "最近，一群虔诚信教的女性聚集在伊斯法罕省中部。她们喊道：“男人，你的尊严在哪里？你妻子的头巾在哪里？”"
+    },
+    {
+      "id": 73,
+      "startMs": 423900,
+      "endMs": 431000,
+      "en": "They chant, \"The hijab law must be enforced,\" another chant says.",
+      "zh": "她们高喊：“必须执行头巾法。”另一句口号这样说道。"
+    },
+    {
+      "id": 74,
+      "startMs": 432420,
+      "endMs": 439460,
+      "en": "But their views are far from universal inside Iran, and this young woman from Tehran echoed many of those we spoke to.",
+      "zh": "但她们的观点在伊朗远非普遍，这位来自德黑兰的年轻女性也表达了许多受访者的看法。"
+    },
+    {
+      "id": 75,
+      "startMs": 439860,
+      "endMs": 445860,
+      "en": "Women are taken much more seriously now. They seem more confident and more willing to push boundaries.",
+      "zh": "如今，女性受到的重视多得多。她们似乎更自信，也更愿意突破界限。"
+    },
+    {
+      "id": 76,
+      "startMs": 446100,
+      "endMs": 454900,
+      "en": "It's almost like people have learned that women can be important too, and that they can do whatever they want, wear whatever they want.",
+      "zh": "人们似乎已经认识到，女性也很重要，她们可以做自己想做的事，穿自己想穿的衣服。"
+    },
+    {
+      "id": 77,
+      "startMs": 455540,
+      "endMs": 456740,
+      "en": "Ghoncheh Habibiazad.",
+      "zh": "Ghoncheh Habibiazad报道。"
+    },
+    {
+      "id": 78,
+      "startMs": 458520,
+      "endMs": 465720,
+      "en": "Still to come in this podcast: we've got one of the oldest figures in the world, about 40,000 years old.",
+      "zh": "本期节目稍后将介绍：世界上最古老的雕像之一，距今约4万年。"
+    },
+    {
+      "id": 79,
+      "startMs": 466120,
+      "endMs": 471720,
+      "en": "Made out of mammoth tusk, the Lion-man, and we've put it next to this little Star Wars figurine.",
+      "zh": "它由猛犸象牙制成，是“狮人”；我们把它放在这个小小的《星球大战》人偶旁边。"
+    },
+    {
+      "id": 80,
+      "startMs": 472040,
+      "endMs": 479480,
+      "en": "London's world-famous Natural History Museum reopens a gallery that's been sealed off to the public for 80 years. We'll tell you what's there now.",
+      "zh": "伦敦举世闻名的自然历史博物馆重新开放一间已对公众关闭80年的展厅。我们将告诉你那里如今有什么。"
+    },
+    {
+      "id": 81,
+      "startMs": 479480,
+      "endMs": 491280,
+      "en": "Paul Moss. To Germany now. Chancellor Friedrich Merz is under growing pressure following major electoral losses in the Saxony-Anhalt state elections to the far-right AfD party.",
+      "zh": "保罗·莫斯。现在转向德国。总理弗里德里希·梅尔茨因在萨克森-安哈尔特州选举中大败于极右翼选择党而承受越来越大的压力。"
+    },
+    {
+      "id": 82,
+      "startMs": 491680,
+      "endMs": 501600,
+      "en": "Amid the pressure, the chancellor cancelled his trip to the United Nations General Assembly in New York to attend a crisis meeting of the Christian Democratic Union alliance.",
+      "zh": "在压力之下，这位总理取消了即将前往纽约参加联合国大会的行程，以参加其基民盟联盟的危机会议。"
+    },
+    {
+      "id": 83,
+      "startMs": 502160,
+      "endMs": 505840,
+      "en": "Questions have been raised over whether he's too much of an electoral liability.",
+      "zh": "有人质疑，他是否已经成为选举中的重大负担。"
+    },
+    {
+      "id": 84,
+      "startMs": 506480,
+      "endMs": 513440,
+      "en": "He's vowed to carry on, but two further state elections this Sunday are being seen as an important moment for the chancellor.",
+      "zh": "他发誓会继续任职，但本周日的另外两场州选举被视为总理面临的重要时刻。"
+    },
+    {
+      "id": 85,
+      "startMs": 514600,
+      "endMs": 520680,
+      "en": "A resignation mid-term in Germany would be highly unusual. So how likely is it that Merz could go?",
+      "zh": "德国总理中途辞职将极不寻常。那么梅尔茨下台的可能性有多大？"
+    },
+    {
+      "id": 86,
+      "startMs": 521160,
+      "endMs": 523480,
+      "en": "I asked our Berlin correspondent Jessica Parker.",
+      "zh": "我询问了驻柏林记者杰西卡·帕克。"
+    },
+    {
+      "id": 87,
+      "startMs": 523720,
+      "endMs": 526040,
+      "en": "Obviously, Merz is saying that he's going to carry on.",
+      "zh": "显然，梅尔茨表示他会继续任职。"
+    },
+    {
+      "id": 88,
+      "startMs": 526120,
+      "endMs": 533320,
+      "en": "There's a lot of questions over how this would even happen, because this is not really something that German politics is known for.",
+      "zh": "人们有很多疑问：这究竟如何实现？因为德国政坛并不以此闻名。"
+    },
+    {
+      "id": 89,
+      "startMs": 534200,
+      "endMs": 542600,
+      "en": "But this idea of a chancellor swap has been circulating through the summer and seems to have ratcheted up in the last few days.",
+      "zh": "但总理更替的想法整个夏天都在流传，过去几天似乎愈演愈烈。"
+    },
+    {
+      "id": 90,
+      "startMs": 542920,
+      "endMs": 552200,
+      "en": "Is there somebody within the conservative CDU party who could replace Chancellor Merz and perhaps be a more successful leader for the party?",
+      "zh": "保守派基民盟内部是否有人能取代梅尔茨，成为更成功的党派领导人？"
+    },
+    {
+      "id": 91,
+      "startMs": 552360,
+      "endMs": 557880,
+      "en": "And then, this Sunday, the AfD could again top the polls in another eastern state",
+      "zh": "此外，本周日选择党可能再次在另一个东部州的民调中领先，"
+    },
+    {
+      "id": 92,
+      "startMs": 557960,
+      "endMs": 564600,
+      "en": "while the conservative CDU are hovering at around 7% in that state, Mecklenburg-Vorpommern.",
+      "zh": "而保守派基民盟在该州梅克伦堡-前波美拉尼亚的支持率徘徊在约7%。"
+    },
+    {
+      "id": 93,
+      "startMs": 564920,
+      "endMs": 569960,
+      "en": "And that puts them in danger of possibly falling out of parliament altogether if they fall below the 5% threshold",
+      "zh": "这使他们面临彻底失去议会席位的危险，一旦支持率跌破5%的门槛，"
+    },
+    {
+      "id": 94,
+      "startMs": 569960,
+      "endMs": 574040,
+      "en": "and they could lose power in Berlin, an election happening there as well.",
+      "zh": "他们还可能在柏林失去执政权，那里也将举行选举。"
+    },
+    {
+      "id": 95,
+      "startMs": 574140,
+      "endMs": 580060,
+      "en": "So, whilst the chancellery and government sources have not given a precise reason as to why",
+      "zh": "因此，尽管总理府和政府消息人士没有说明原因，"
+    },
+    {
+      "id": 96,
+      "startMs": 580140,
+      "endMs": 586780,
+      "en": "Merz has cancelled his trip to New York, it is being widely read as the chancellery taking the situation quite seriously",
+      "zh": "梅尔茨取消纽约之行仍被广泛解读为总理府高度重视局势，"
+    },
+    {
+      "id": 97,
+      "startMs": 586780,
+      "endMs": 591020,
+      "en": "and wanting Merz to be around in the aftermath of those votes on Sunday.",
+      "zh": "并希望梅尔茨在周日投票结束后留在国内。"
+    },
+    {
+      "id": 98,
+      "startMs": 591660,
+      "endMs": 593580,
+      "en": "Jessica Parker speaking to me from Berlin.",
+      "zh": "Jessica Parker 从柏林报道。"
+    },
+    {
+      "id": 99,
+      "startMs": 594960,
+      "endMs": 599360,
+      "en": "To the US now, and some trouble ahead for the British singer-songwriter Ed Sheeran.",
+      "zh": "现在转向美国，英国创作歌手埃德·希兰将面临一些麻烦。"
+    },
+    {
+      "id": 100,
+      "startMs": 599840,
+      "endMs": 604400,
+      "en": "He's currently touring the United States, but now all his supporting acts have quit.",
+      "zh": "他目前正在美国巡演，但所有助演艺人如今都退出了。"
+    },
+    {
+      "id": 101,
+      "startMs": 604880,
+      "endMs": 608160,
+      "en": "The artists say it's in solidarity with the rapper Macklemore,",
+      "zh": "这些艺人说，这是为了声援说唱歌手麦克勒莫，"
+    },
+    {
+      "id": 102,
+      "startMs": 608400,
+      "endMs": 616160,
+      "en": "who was dropped from the concert line-up after making pro-Palestinian comments when playing at an Ed Sheeran concert in New Jersey.",
+      "zh": "他在新泽西参加埃德·希兰演唱会时发表亲巴勒斯坦言论，随后被从演出阵容中撤下。"
+    },
+    {
+      "id": 103,
+      "startMs": 616320,
+      "endMs": 618560,
+      "en": "I've been trying to figure out a way to say this all day.",
+      "zh": "我一整天都在想办法说出这句话。"
+    },
+    {
+      "id": 104,
+      "startMs": 619200,
+      "endMs": 624560,
+      "en": "One of the reasons why I wanted to come on this tour was because I wanted to stand up here",
+      "zh": "我想参加这次巡演，其中一个原因是，我想站在这里，"
+    },
+    {
+      "id": 105,
+      "startMs": 625740,
+      "endMs": 634620,
+      "en": "on stages and stadiums across America and say two words that are very near and dear to my heart:",
+      "zh": "站在美国各地的舞台和体育场上，说出两个对我非常重要的词："
+    },
+    {
+      "id": 106,
+      "startMs": 635260,
+      "endMs": 637020,
+      "en": "Free Palestine.",
+      "zh": "解放巴勒斯坦。"
+    },
+    {
+      "id": 107,
+      "startMs": 643280,
+      "endMs": 646320,
+      "en": "I said, \"Free Palestine!\"",
+      "zh": "我说：“解放巴勒斯坦！”"
+    },
+    {
+      "id": 108,
+      "startMs": 650880,
+      "endMs": 652640,
+      "en": "The words of the rapper Macklemore.",
+      "zh": "这是说唱歌手麦克勒莫说的话。"
+    },
+    {
+      "id": 109,
+      "startMs": 653120,
+      "endMs": 656720,
+      "en": "For more on the story, I spoke to our music correspondent Mark Savage.",
+      "zh": "关于这则新闻，我采访了我们的音乐记者马克·萨维奇。"
+    },
+    {
+      "id": 110,
+      "startMs": 656800,
+      "endMs": 664160,
+      "en": "So, this all started two weeks ago when, as you heard, Macklemore was on stage in New Jersey, the opening night of Ed Sheeran's US tour,",
+      "zh": "这一切始于两周前，正如你听到的，麦克勒莫在新泽西登台，那是埃德·希兰美国巡演的首场演出，"
+    },
+    {
+      "id": 111,
+      "startMs": 664480,
+      "endMs": 667120,
+      "en": "and he made these statements about Palestine.",
+      "zh": "他在台上发表了这些关于巴勒斯坦的言论。"
+    },
+    {
+      "id": 112,
+      "startMs": 667120,
+      "endMs": 670240,
+      "en": "The second night he came out and doubled down on those statements.",
+      "zh": "第二晚他再次登台，并进一步坚持了那些言论。"
+    },
+    {
+      "id": 113,
+      "startMs": 670240,
+      "endMs": 677840,
+      "en": "He called Israel's action in Gaza a genocide, which, of course, is a term that Israel contests, but that other people have endorsed.",
+      "zh": "他称以色列在加沙的行动是种族灭绝；当然，以色列反对这一说法，但其他一些人支持这种表述。"
+    },
+    {
+      "id": 114,
+      "startMs": 678320,
+      "endMs": 687360,
+      "en": "That kicked off a huge wave of criticism. Pro-Israeli groups in America said that Macklemore had ambushed fans with these images and with these words.",
+      "zh": "这引发了巨大的批评浪潮。美国亲以色列团体称，麦克勒莫用这些画面和言论让歌迷措手不及。"
+    },
+    {
+      "id": 115,
+      "startMs": 687680,
+      "endMs": 690240,
+      "en": "There were petitions calling for him to be dropped from the tour.",
+      "zh": "有人发起请愿，要求把他从巡演中撤下。"
+    },
+    {
+      "id": 116,
+      "startMs": 690240,
+      "endMs": 692080,
+      "en": "And what we understand happened next",
+      "zh": "据我们了解，接下来发生的是，"
+    },
+    {
+      "id": 117,
+      "startMs": 692480,
+      "endMs": 696160,
+      "en": "was that venue owners for future dates on the rest of this tour",
+      "zh": "这次巡演剩余场次的场馆经营者，"
+    },
+    {
+      "id": 118,
+      "startMs": 696160,
+      "endMs": 701840,
+      "en": "started phoning up Ed Sheeran's team and his promoters and putting pressure on him to drop Macklemore.",
+      "zh": "开始打电话给埃德·希兰的团队和推广方，向他施压，要求撤下麦克勒莫。"
+    },
+    {
+      "id": 119,
+      "startMs": 702160,
+      "endMs": 709120,
+      "en": "Now, in a statement on Tuesday, Ed said that he had spent a week trying to negotiate this, trying to build bridges between the different sides,",
+      "zh": "埃德在周二的一份声明中说，他花了一周时间试图谈判，试图在各方之间搭建沟通的桥梁，"
+    },
+    {
+      "id": 120,
+      "startMs": 709200,
+      "endMs": 714180,
+      "en": "but the ultimate result, taken by his promoters, was to drop Macklemore from the bill.",
+      "zh": "但最终由他的推广方作出的决定，是把麦克勒莫从演出名单中撤下。"
+    },
+    {
+      "id": 121,
+      "startMs": 714580,
+      "endMs": 718900,
+      "en": "And in a very long statement, it was almost 500 words, Ed Sheeran was trying to say",
+      "zh": "在一份近500字的长篇声明中，埃德·希兰试图表达，"
+    },
+    {
+      "id": 122,
+      "startMs": 719300,
+      "endMs": 724340,
+      "en": "\"I don't like this. I have my own views on Gaza. I try not to speak about them publicly.\"",
+      "zh": "“我不喜欢这样。我对加沙有自己的看法，但我尽量不公开谈论。”"
+    },
+    {
+      "id": 123,
+      "startMs": 724900,
+      "endMs": 734100,
+      "en": "But kind of saying his hands were tied, it wasn't a very convincing statement. It felt like he was trying to keep the peace, but not really doing it very successfully.",
+      "zh": "但他有点像是在说自己无能为力，这份声明并不太有说服力。感觉他想维持和平，却没有真正成功。"
+    },
+    {
+      "id": 124,
+      "startMs": 734500,
+      "endMs": 740900,
+      "en": "And within hours of that statement dropping, all of the support acts for the rest of the tour dropped out.",
+      "zh": "声明发布后几小时内，巡演剩余场次的所有助演艺人都退出了。"
+    },
+    {
+      "id": 125,
+      "startMs": 741220,
+      "endMs": 748180,
+      "en": "And not only that, but Ed's backing band, who played with him on songs like Galway Girl and Nancy Mulligan, they also dropped out.",
+      "zh": "不仅如此，埃德的伴奏乐队也退出了；他们曾与他合作演出《Galway Girl》和《Nancy Mulligan》等歌曲。"
+    },
+    {
+      "id": 126,
+      "startMs": 748580,
+      "endMs": 753460,
+      "en": "And so basically now, he's left doing these 18 stadium shows completely on his own.",
+      "zh": "所以现在基本上，他只能独自完成这18场体育场演出。"
+    },
+    {
+      "id": 127,
+      "startMs": 753860,
+      "endMs": 758020,
+      "en": "Wow. So, as you said, this started right at the start of a big tour.",
+      "zh": "哇。正如你所说，这件事恰好发生在大型巡演开始之际。"
+    },
+    {
+      "id": 128,
+      "startMs": 758420,
+      "endMs": 766900,
+      "en": "So, what does he face now? Will he struggle to find any other supporting acts, any other backup singers, or musicians?",
+      "zh": "那么他现在面临什么？他会难以找到其他助演艺人、和声歌手或乐手吗？"
+    },
+    {
+      "id": 129,
+      "startMs": 766900,
+      "endMs": 772200,
+      "en": "I mean, I think it would be very difficult for anyone to join this tour. I mean, look, there are a lot of artists who would love that exposure,",
+      "zh": "我是说，我认为任何人要加入这次巡演都会非常困难。当然，有很多艺人会希望获得这样的曝光，"
+    },
+    {
+      "id": 130,
+      "startMs": 772920,
+      "endMs": 783640,
+      "en": "but I think as soon as you sign up to it, you're going to get caught up in this controversy and you're going to face torrents of abuse online",
+      "zh": "但我认为，一旦你加入，就会卷入这场争议，并在网上遭受铺天盖地的辱骂，"
+    },
+    {
+      "id": 131,
+      "startMs": 783960,
+      "endMs": 787880,
+      "en": "because it will be interpreted as supporting Ed Sheeran or rejecting Macklemore.",
+      "zh": "因为这会被解读为支持埃德·希兰，或是拒绝麦克勒莫。"
+    },
+    {
+      "id": 132,
+      "startMs": 787880,
+      "endMs": 791480,
+      "en": "It's a hard situation to get yourself involved in. You'd have to have tough skin for that.",
+      "zh": "这是个很难让自己卷入的局面。你得有很强的心理承受力。"
+    },
+    {
+      "id": 133,
+      "startMs": 791960,
+      "endMs": 796120,
+      "en": "As for Ed, he has a lot of experience of playing shows on his own.",
+      "zh": "至于埃德，他有丰富的独自演出的经验。"
+    },
+    {
+      "id": 134,
+      "startMs": 796200,
+      "endMs": 800040,
+      "en": "I once saw him at Wembley Stadium and he was the only musician on stage for two hours.",
+      "zh": "我曾在温布利球场看过他的演出，他两个小时里是台上唯一的乐手。"
+    },
+    {
+      "id": 135,
+      "startMs": 800600,
+      "endMs": 806440,
+      "en": "He just plays his guitar and then uses what's called a loop pedal to kind of sample himself and build up tracks.",
+      "zh": "他只弹吉他，然后用一种叫循环踏板的设备采样自己的声音，逐步构建曲目。"
+    },
+    {
+      "id": 136,
+      "startMs": 806600,
+      "endMs": 811960,
+      "en": "He's very capable of holding 80,000 people in the palm of his hand for that amount of time.",
+      "zh": "他完全有能力在这段时间里让八万名观众全神贯注。"
+    },
+    {
+      "id": 137,
+      "startMs": 812280,
+      "endMs": 817560,
+      "en": "But I do think for the remaining three months of the year while he's on the road, it's just going to be him.",
+      "zh": "但我确实认为，今年剩下的三个月巡演期间，台上将只有他一人。"
+    },
+    {
+      "id": 138,
+      "startMs": 817960,
+      "endMs": 818760,
+      "en": "Mark Savage.",
+      "zh": "马克·萨维奇。"
+    },
+    {
+      "id": 139,
+      "startMs": 819900,
+      "endMs": 826540,
+      "en": "And last, let's end here in London. The Natural History Museum is the UK's most popular tourist attraction.",
+      "zh": "最后，我们把目光转向伦敦。自然历史博物馆是英国最受欢迎的旅游景点。"
+    },
+    {
+      "id": 140,
+      "startMs": 827020,
+      "endMs": 829980,
+      "en": "Last year, more than 7 million people visited the site.",
+      "zh": "去年，超过700万人参观了这里。"
+    },
+    {
+      "id": 141,
+      "startMs": 830380,
+      "endMs": 832540,
+      "en": "And now, they'll have good reasons to return.",
+      "zh": "现在，他们又有了充分的理由再来。"
+    },
+    {
+      "id": 142,
+      "startMs": 832860,
+      "endMs": 838140,
+      "en": "Today, the museum reopened a gallery that has been sealed off to the public for 80 years.",
+      "zh": "今天，博物馆重新开放了一个对公众封闭了80年的展厅。"
+    },
+    {
+      "id": 143,
+      "startMs": 838540,
+      "endMs": 845500,
+      "en": "In it is a new exhibition, which explores our evolving relationship with the natural world through 50 objects.",
+      "zh": "展厅内有一场新展览，通过50件物品探索我们与自然世界不断变化的关系。"
+    },
+    {
+      "id": 144,
+      "startMs": 845980,
+      "endMs": 848060,
+      "en": "Evan Davis went to the museum to find out more.",
+      "zh": "埃文·戴维斯前往博物馆了解更多情况。"
+    },
+    {
+      "id": 145,
+      "startMs": 851280,
+      "endMs": 855280,
+      "en": "Welcome to the Natural History Museum. My name's Doug Gurr and I'm the director of the museum.",
+      "zh": "欢迎来到自然历史博物馆。我叫道格·格尔，是博物馆馆长。"
+    },
+    {
+      "id": 146,
+      "startMs": 855760,
+      "endMs": 864640,
+      "en": "Five years to go to your 150th anniversary at the Natural History Museum, and you've got a new exhibition opening, Nature and Us.",
+      "zh": "距离自然历史博物馆成立150周年还有五年，而你们要推出一个新展览《自然与我们》。"
+    },
+    {
+      "id": 147,
+      "startMs": 864640,
+      "endMs": 871120,
+      "en": "Absolutely, yes, Nature and Us, which is really all about that: what is our relationship between humanity and nature over time and space?",
+      "zh": "当然，是的。《自然与我们》正是探讨这一点：人类与自然跨越时间和空间的关系是什么？"
+    },
+    {
+      "id": 148,
+      "startMs": 871440,
+      "endMs": 872080,
+      "en": "Let's go and have a look.",
+      "zh": "我们去看看吧。"
+    },
+    {
+      "id": 149,
+      "startMs": 873520,
+      "endMs": 880880,
+      "en": "Okay, so we're going behind the black screens that are currently covering the entrance to this gallery.",
+      "zh": "好，我们现在要走到遮住这个展厅入口的黑色屏幕后面。"
+    },
+    {
+      "id": 150,
+      "startMs": 880880,
+      "endMs": 881760,
+      "en": "We've got some staff here.",
+      "zh": "这里还有一些工作人员。"
+    },
+    {
+      "id": 151,
+      "startMs": 884180,
+      "endMs": 888020,
+      "en": "So what you're in here is an enormous, long, spacious gallery.",
+      "zh": "你们现在所在的是一个巨大、狭长而宽敞的展厅。"
+    },
+    {
+      "id": 152,
+      "startMs": 888020,
+      "endMs": 890740,
+      "en": "It's actually on the second floor, and because, as you say,",
+      "zh": "它其实在二楼。正如你所说，"
+    },
+    {
+      "id": 153,
+      "startMs": 890740,
+      "endMs": 896180,
+      "en": "for the last sort of 70 or 80 years it's been used as a collections store, so you can see all these rather wonderful cabinets.",
+      "zh": "过去大约70到80年一直被用作藏品库，所以你能看到这些相当精美的柜子。"
+    },
+    {
+      "id": 154,
+      "startMs": 896260,
+      "endMs": 900820,
+      "en": "So we're bringing in a lot more global perspectives, bringing back a lot of historical perspectives,",
+      "zh": "我们将加入更多全球视角，也重新带回许多历史视角，"
+    },
+    {
+      "id": 155,
+      "startMs": 901140,
+      "endMs": 904340,
+      "en": "and of course, at the heart of it, we have some pretty cool specimens in here.",
+      "zh": "当然，展览的核心是这里一些非常酷的标本。"
+    },
+    {
+      "id": 156,
+      "startMs": 908020,
+      "endMs": 914980,
+      "en": "Well, also with me here in the gallery is Isabelle Davis, who's one of the science leads in this exhibition.",
+      "zh": "和我一起在展厅里的还有伊莎贝尔·戴维斯，她是这次展览的科学负责人之一。"
+    },
+    {
+      "id": 157,
+      "startMs": 915460,
+      "endMs": 920980,
+      "en": "Now, one thing that caught my eye: Star Wars figurine. What's this? Talk to me about this.",
+      "zh": "有一样东西吸引了我的注意：一尊《星球大战》人偶。这是什么？给我讲讲。"
+    },
+    {
+      "id": 158,
+      "startMs": 921620,
+      "endMs": 924740,
+      "en": "So this gallery is trying to put interesting things together.",
+      "zh": "这个展厅试图把有趣的东西放在一起。"
+    },
+    {
+      "id": 159,
+      "startMs": 924820,
+      "endMs": 932020,
+      "en": "So we've got one of the oldest figures in the world, about 40,000 years old, made out of mammoth tusk, the Lion-man,",
+      "zh": "这里有世界上最古老的人形雕像之一，大约有4万年历史，由猛犸象牙制成，名为“狮人”，"
+    },
+    {
+      "id": 160,
+      "startMs": 932020,
+      "endMs": 936340,
+      "en": "and we've put it next to this little Star Wars figurine,",
+      "zh": "我们把它放在这尊小小的《星球大战》人偶旁边，"
+    },
+    {
+      "id": 161,
+      "startMs": 936580,
+      "endMs": 941220,
+      "en": "which has been brought up from the bottom of the sea and colonised by bryozoans.",
+      "zh": "那尊人偶从海底打捞上来后，被苔藓虫群落占据了。"
+    },
+    {
+      "id": 162,
+      "startMs": 941380,
+      "endMs": 947140,
+      "en": "So these are microscopic animals, one of the animals that can actually thrive on plastic.",
+      "zh": "这些是微小的动物，其中一种甚至能在塑料上生存繁衍。"
+    },
+    {
+      "id": 163,
+      "startMs": 947540,
+      "endMs": 953300,
+      "en": "You know, we talk a lot about plastic in the sea, of course, but this is one animal that's made it its home.",
+      "zh": "我们当然经常谈到海洋中的塑料，但这种动物却把塑料当成了自己的家。"
+    },
+    {
+      "id": 164,
+      "startMs": 953300,
+      "endMs": 956060,
+      "en": "Right, so it doesn't really look like a TIE fighter anymore.",
+      "zh": "对，所以它已经不太像TIE战机了。"
+    },
+    {
+      "id": 165,
+      "startMs": 956420,
+      "endMs": 960260,
+      "en": "No, no, it doesn't. It's been transformed by nature.",
+      "zh": "不，不像了。它已经被自然改变。"
+    },
+    {
+      "id": 166,
+      "startMs": 960260,
+      "endMs": 965220,
+      "en": "And this curious-looking scythe-type object, what is this?",
+      "zh": "那这个看起来很奇特、像镰刀一样的东西是什么？"
+    },
+    {
+      "id": 167,
+      "startMs": 965780,
+      "endMs": 971480,
+      "en": "So this is a whaler's flensing knife, and this really speaks to the social history of whaling.",
+      "zh": "这是一把捕鲸船上的剖鲸刀，充分体现了捕鲸的社会历史。"
+    },
+    {
+      "id": 168,
+      "startMs": 971720,
+      "endMs": 979560,
+      "en": "Obviously, it was terrible, fatal for whales, but for the actual people working as whalers, it was not an easy life.",
+      "zh": "显然，捕鲸对鲸来说是可怕且致命的；但对实际从事捕鲸的人来说，那也不是轻松的生活。"
+    },
+    {
+      "id": 169,
+      "startMs": 980200,
+      "endMs": 986920,
+      "en": "Here we've got one of their tools, and at the bottom it's actually got a merchant mark, so the kind of good luck charm.",
+      "zh": "这里有他们使用的一件工具，底部实际上有一个商人标记，也就是一种护身符。"
+    },
+    {
+      "id": 170,
+      "startMs": 987320,
+      "endMs": 991880,
+      "en": "Where would this have come from then? I mean, we associate whaling with one or two countries now.",
+      "zh": "那它来自哪里？我的意思是，现在我们把捕鲸和一两个国家联系在一起。"
+    },
+    {
+      "id": 171,
+      "startMs": 991880,
+      "endMs": 993720,
+      "en": "Well, this one comes from South Georgia.",
+      "zh": "这件来自南乔治亚岛。"
+    },
+    {
+      "id": 172,
+      "startMs": 993800,
+      "endMs": 997320,
+      "en": "So Falkland Islands, sort of round that part, South Atlantic, South Georgia.",
+      "zh": "也就是福克兰群岛附近、南大西洋的南乔治亚岛。"
+    },
+    {
+      "id": 173,
+      "startMs": 997480,
+      "endMs": 1004280,
+      "en": "And we had a library open day recently, and there were quite a few young people who had no idea that whaling was a thing,",
+      "zh": "我们最近举办了图书馆开放日，不少年轻人完全不知道捕鲸曾经存在，"
+    },
+    {
+      "id": 174,
+      "startMs": 1004760,
+      "endMs": 1010600,
+      "en": "and the extraordinary international efforts that were made in the 20th century to bring those numbers down.",
+      "zh": "也不知道20世纪各国为降低捕鲸数量所作出的非凡国际努力。"
+    },
+    {
+      "id": 175,
+      "startMs": 1010600,
+      "endMs": 1013560,
+      "en": "So there is a kind of positive end to this.",
+      "zh": "所以，这件事也有一个相对积极的结局。"
+    },
+    {
+      "id": 176,
+      "startMs": 1016260,
+      "endMs": 1022820,
+      "en": "Coming back to Doug, the director, 150 years in South Kensington as the Natural History Museum,",
+      "zh": "回到博物馆馆长道格这里；自然历史博物馆在南肯辛顿已有150年历史，"
+    },
+    {
+      "id": 177,
+      "startMs": 1023460,
+      "endMs": 1026980,
+      "en": "what would you say is the big difference between museums as they were then and now?",
+      "zh": "你认为博物馆今昔最大的区别是什么？"
+    },
+    {
+      "id": 178,
+      "startMs": 1027540,
+      "endMs": 1032500,
+      "en": "Look, I mean, some things have not changed at all. And what has not changed is museums are all about the collection.",
+      "zh": "有些事情完全没有改变。没有改变的是，博物馆始终以藏品为核心。"
+    },
+    {
+      "id": 179,
+      "startMs": 1032580,
+      "endMs": 1039940,
+      "en": "What's also not changed for our museum is that collection was put there for a dual purpose, for public display and also for scientific research.",
+      "zh": "对我们博物馆来说，未变的还有藏品的双重用途：用于公众展览，也用于科学研究。"
+    },
+    {
+      "id": 180,
+      "startMs": 1040180,
+      "endMs": 1041060,
+      "en": "But here's what's changed.",
+      "zh": "但改变的是这一点。"
+    },
+    {
+      "id": 181,
+      "startMs": 1041460,
+      "endMs": 1048900,
+      "en": "Go back even to when this building started, opened in 1881, the scientific mission was, how do we classify and understand the natural world?",
+      "zh": "回到这座建筑始建并于1881年开放时，科学使命是：我们如何分类并理解自然世界？"
+    },
+    {
+      "id": 182,
+      "startMs": 1049460,
+      "endMs": 1053940,
+      "en": "That's not the mission today. The mission today is, how do we protect and restore nature?",
+      "zh": "这已不是今天的使命。今天的使命是：我们如何保护并修复自然？"
+    },
+    {
+      "id": 183,
+      "startMs": 1053940,
+      "endMs": 1056100,
+      "en": "And that is what this gallery is challenging.",
+      "zh": "这正是这个展厅提出的挑战。"
+    },
+    {
+      "id": 184,
+      "startMs": 1059320,
+      "endMs": 1060040,
+      "en": "Evan Davis.",
+      "zh": "埃文·戴维斯报道。"
+    },
+    {
+      "id": 185,
+      "startMs": 1062860,
+      "endMs": 1063980,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是本期节目的全部内容。"
+    },
+    {
+      "id": 186,
+      "startMs": 1064300,
+      "endMs": 1068860,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 187,
+      "startMs": 1068940,
+      "endMs": 1074540,
+      "en": "You can also now watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "现在也可以在YouTube上搜索《全球新闻播客》，观看完整节目。"
+    },
+    {
+      "id": 188,
+      "startMs": 1075100,
+      "endMs": 1078940,
+      "en": "This edition was mixed by Chris Kouzaris and the producer was Ira Khan.",
+      "zh": "本期节目由克里斯·库扎里斯混音，制片人是伊拉·汗。"
+    },
+    {
+      "id": 189,
+      "startMs": 1079340,
+      "endMs": 1081820,
+      "en": "The editor is Karen Martin. I'm Celia Hatton.",
+      "zh": "编辑是凯伦·马丁。我是西莉娅·哈顿。"
+    },
+    {
+      "id": 190,
+      "startMs": 1081820,
+      "endMs": 1083260,
+      "en": "Until next time, goodbye.",
+      "zh": "下期再见。"
+    }
+  ]
+}
