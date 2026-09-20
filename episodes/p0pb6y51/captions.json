@@ -1,0 +1,2132 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "18 September 2026"
+  },
+  "durationMs": 1667480,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3360,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5580,
+      "endMs": 11660,
+      "en": "I'm Celia Hatton, and in the early hours of Friday, the 18th of September, these are our main stories.",
+      "zh": "我是西莉亚·哈顿。现在是9月18日星期五凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12060,
+      "endMs": 20460,
+      "en": "Washington has rejected a UN report alleging the US military may have committed war crimes in the early days of the war on Iran.",
+      "zh": "华盛顿驳回了一份联合国报告。报告称，美国军方在对伊朗战争初期可能犯下了战争罪。"
+    },
+    {
+      "id": 4,
+      "startMs": 21420,
+      "endMs": 28140,
+      "en": "NATO's secretary general tells us why he thinks Russia's Vladimir Putin is becoming increasingly desperate over Ukraine.",
+      "zh": "北约秘书长将解释，他为何认为俄罗斯的弗拉基米尔·普京在乌克兰问题上越来越绝望。"
+    },
+    {
+      "id": 5,
+      "startMs": 28780,
+      "endMs": 33180,
+      "en": "And new research explains why caffeine affects some people more than others.",
+      "zh": "新研究解释了为什么咖啡因对一些人的影响比对另一些人更大。"
+    },
+    {
+      "id": 6,
+      "startMs": 35280,
+      "endMs": 42160,
+      "en": "Also in this podcast: it is largely drawn in black ink and decorated in reds and oranges and yellows, sort of burnt colors, if you will.",
+      "zh": "本期还将听到：这份手稿主要用黑墨水绘制，并以红色、橙色和黄色装饰，若要形容的话，像是焦灼的色彩。"
+    },
+    {
+      "id": 7,
+      "startMs": 42240,
+      "endMs": 50800,
+      "en": "A manuscript telling the story of the Aztecs returns to Mexico after more than 180 years.",
+      "zh": "一份讲述阿兹特克人历史的手稿，在离开墨西哥180多年后回到故土。"
+    },
+    {
+      "id": 8,
+      "startMs": 55500,
+      "endMs": 59900,
+      "en": "We'll begin with a new report from the United Nations that's getting a lot of attention.",
+      "zh": "我们先从一份受到广泛关注的联合国新报告说起。"
+    },
+    {
+      "id": 9,
+      "startMs": 60300,
+      "endMs": 66140,
+      "en": "Investigators with the UN Human Rights Council say there are reasonable grounds to believe that",
+      "zh": "联合国人权理事会的调查人员说，有合理理由相信，"
+    },
+    {
+      "id": 10,
+      "startMs": 66220,
+      "endMs": 70860,
+      "en": "the United States carried out war crimes in the early days of its war on Iran.",
+      "zh": "美国在对伊朗战争初期实施了战争罪行。"
+    },
+    {
+      "id": 11,
+      "startMs": 71420,
+      "endMs": 77980,
+      "en": "A fact-finding mission looked at two deadly missile strikes in February that killed more than 170 people.",
+      "zh": "一个事实调查团调查了2月发生的两次致命导弹袭击，袭击造成170多人死亡。"
+    },
+    {
+      "id": 12,
+      "startMs": 78380,
+      "endMs": 81660,
+      "en": "One was on a primary school in the southern town of Minab.",
+      "zh": "其中一次袭击了南部城镇米纳卜的一所小学。"
+    },
+    {
+      "id": 13,
+      "startMs": 82140,
+      "endMs": 86860,
+      "en": "Another air strike hit a sports complex in the town of Lamerd, also in the south.",
+      "zh": "另一次空袭击中了同在南部的拉梅尔德镇一座体育场馆。"
+    },
+    {
+      "id": 14,
+      "startMs": 87580,
+      "endMs": 91740,
+      "en": "The Iranian authorities were also mentioned by UN investigators.",
+      "zh": "联合国调查人员也提到了伊朗当局。"
+    },
+    {
+      "id": 15,
+      "startMs": 92220,
+      "endMs": 100220,
+      "en": "Tehran's accused of committing crimes against humanity during its violent repression of anti-government protests that started last December.",
+      "zh": "报告指责德黑兰在暴力镇压去年12月开始的反政府抗议活动时犯下了反人类罪。"
+    },
+    {
+      "id": 16,
+      "startMs": 100860,
+      "endMs": 106380,
+      "en": "Iran has previously denied wrongdoing, though it's yet to say anything about this latest report.",
+      "zh": "伊朗此前否认有不当行为，但尚未就这份最新报告发表任何看法。"
+    },
+    {
+      "id": 17,
+      "startMs": 106780,
+      "endMs": 109580,
+      "en": "As we'll hear in a moment, the US has responded.",
+      "zh": "正如我们稍后将听到的，美国已经作出回应。"
+    },
+    {
+      "id": 18,
+      "startMs": 110300,
+      "endMs": 113420,
+      "en": "Tom Bateman is our State Department correspondent in Washington.",
+      "zh": "汤姆·贝特曼是我们驻华盛顿的国务院记者。"
+    },
+    {
+      "id": 19,
+      "startMs": 113740,
+      "endMs": 115020,
+      "en": "He told me more about the findings.",
+      "zh": "他向我进一步介绍了调查结果。"
+    },
+    {
+      "id": 20,
+      "startMs": 115040,
+      "endMs": 122320,
+      "en": "Starting with that strike on the primary school in Minab, what this UN fact-finding mission says",
+      "zh": "先说米纳卜小学遭袭一事。联合国事实调查团表示，"
+    },
+    {
+      "id": 21,
+      "startMs": 122400,
+      "endMs": 126480,
+      "en": "is that it believes, like much of the reporting the US has backed as well,",
+      "zh": "调查团认为，正如美国支持的许多报道所说，"
+    },
+    {
+      "id": 22,
+      "startMs": 126800,
+      "endMs": 129360,
+      "en": "that there was a targeting database error.",
+      "zh": "这起事件源于目标数据库错误。"
+    },
+    {
+      "id": 23,
+      "startMs": 129360,
+      "endMs": 132160,
+      "en": "Basically, the Americans were using out-of-date information.",
+      "zh": "基本上，美国人使用的是过时的信息。"
+    },
+    {
+      "id": 24,
+      "startMs": 132160,
+      "endMs": 138720,
+      "en": "It suggests about the school building itself, in effect believing that it was still a part of a military compound,",
+      "zh": "报告暗示，他们实际上认为那栋校舍仍属于军事基地的一部分，"
+    },
+    {
+      "id": 25,
+      "startMs": 138720,
+      "endMs": 140960,
+      "en": "which it wasn't and hadn't been for many years.",
+      "zh": "但事实并非如此，而且多年来一直不是。"
+    },
+    {
+      "id": 26,
+      "startMs": 141200,
+      "endMs": 146080,
+      "en": "So the report says this amounted to more than mere negligence, going on to say that the",
+      "zh": "因此，报告称这不只是单纯的疏忽，并进一步表示，"
+    },
+    {
+      "id": 27,
+      "startMs": 146960,
+      "endMs": 151920,
+      "en": "US acted recklessly and this gave the fact-finding mission reasonable grounds",
+      "zh": "美国的行为鲁莽，这让事实调查团有合理理由认定，"
+    },
+    {
+      "id": 28,
+      "startMs": 152000,
+      "endMs": 157600,
+      "en": "to believe the US committed a war crime under international law. So that's as related to Minab.",
+      "zh": "美国根据国际法犯下了一项战争罪。以上是关于米纳卜的情况。"
+    },
+    {
+      "id": 29,
+      "startMs": 157600,
+      "endMs": 164400,
+      "en": "It then goes on to talk about the strike on a sports centre in Lamerd in Iran the same day, which killed 22 civilians,",
+      "zh": "报告随后谈到同一天伊朗拉梅尔德体育中心遭袭一事，造成22名平民死亡，"
+    },
+    {
+      "id": 30,
+      "startMs": 164720,
+      "endMs": 170000,
+      "en": "also describing this as indiscriminate and therefore saying that they believe that, too, constituted a war crime.",
+      "zh": "并称这是无差别袭击，因此也认定其构成战争罪。"
+    },
+    {
+      "id": 31,
+      "startMs": 170240,
+      "endMs": 173920,
+      "en": "And Tom, I understand there's already been a response from the US State Department?",
+      "zh": "汤姆，我了解到美国国务院已经作出回应？"
+    },
+    {
+      "id": 32,
+      "startMs": 174320,
+      "endMs": 182400,
+      "en": "Well, the State Department has put out a response to this because the fact-finding mission is appointed by the UN's Human Rights Council.",
+      "zh": "国务院已经对此作出回应，因为这个事实调查团由联合国人权理事会任命。"
+    },
+    {
+      "id": 33,
+      "startMs": 182800,
+      "endMs": 189120,
+      "en": "The US has long had an issue with the Human Rights Council. It withdrew from the council some time ago and says in response to this report",
+      "zh": "美国长期以来就对人权理事会有意见。美国不久前退出了理事会，并在回应这份报告时表示，"
+    },
+    {
+      "id": 34,
+      "startMs": 189120,
+      "endMs": 197440,
+      "en": "that the council pushes, it says, anti-American rhetoric and anti-Semitism, all the while appeasing repressive regimes.",
+      "zh": "该理事会宣扬反美言论和反犹太主义，同时一直在纵容实行压制的政权。"
+    },
+    {
+      "id": 35,
+      "startMs": 197840,
+      "endMs": 202320,
+      "en": "As such, say the Americans, we do not give credibility to the findings of this report.",
+      "zh": "美国人因此表示，他们不认为这份报告的调查结果可信。"
+    },
+    {
+      "id": 36,
+      "startMs": 202880,
+      "endMs": 211760,
+      "en": "Interesting: the State Department mentions anti-American rhetoric, but this UN report also criticized Iran's actions.",
+      "zh": "有意思的是，国务院提到反美言论，但这份联合国报告也批评了伊朗的行为。"
+    },
+    {
+      "id": 37,
+      "startMs": 211840,
+      "endMs": 212880,
+      "en": "Can you take us through that?",
+      "zh": "你能为我们详细介绍一下吗？"
+    },
+    {
+      "id": 38,
+      "startMs": 213280,
+      "endMs": 217280,
+      "en": "Absolutely. The report has two parts; the fact-finding mission was established in 2022.",
+      "zh": "当然。这份报告分为两部分；这个事实调查团成立于2022年。"
+    },
+    {
+      "id": 39,
+      "startMs": 217280,
+      "endMs": 223600,
+      "en": "and it was largely to look at human rights abuses in Iran carried out by the regime.",
+      "zh": "主要负责调查伊朗政权实施的侵犯人权行为。"
+    },
+    {
+      "id": 40,
+      "startMs": 224000,
+      "endMs": 229120,
+      "en": "And so there is a very lengthy section on the uprising and the protests that took place at the",
+      "zh": "因此，报告有很长一部分讨论去年发生的起义和抗议活动，"
+    },
+    {
+      "id": 41,
+      "startMs": 229120,
+      "endMs": 234240,
+      "en": "very end of last year, late December into the new year, which",
+      "zh": "这些活动发生在去年年底，从12月下旬一直延续到新年，而这"
+    },
+    {
+      "id": 42,
+      "startMs": 234420,
+      "endMs": 242580,
+      "en": "the report says involved a widespread and systematic attack by the Iranian authorities against their own civilians.",
+      "zh": "份报告称，这是伊朗当局对本国平民发动的广泛而系统的攻击。"
+    },
+    {
+      "id": 43,
+      "startMs": 242900,
+      "endMs": 250580,
+      "en": "It talks about this having amounted to crimes against humanity, in the view of the fact-finding mission, and",
+      "zh": "报告称，在事实调查团看来，这已构成反人类罪，并"
+    },
+    {
+      "id": 44,
+      "startMs": 250900,
+      "endMs": 258420,
+      "en": "goes into some detail about what took place, involving unlawful killings, torture, arbitrary detention and enforced disappearances.",
+      "zh": "详细说明了其中发生的非法杀戮、酷刑、任意拘留和强迫失踪。"
+    },
+    {
+      "id": 45,
+      "startMs": 258740,
+      "endMs": 265380,
+      "en": "It talks about the official death toll: the Iranians had said that more than 3,000 people had been killed in these clashes.",
+      "zh": "报告谈到官方死亡人数：伊朗方面称，这些冲突造成了3000多人死亡。"
+    },
+    {
+      "id": 46,
+      "startMs": 265460,
+      "endMs": 270500,
+      "en": "It says that the actual death toll was likely to be far higher than that official figure.",
+      "zh": "报告称，实际死亡人数可能远高于这一官方数字。"
+    },
+    {
+      "id": 47,
+      "startMs": 270500,
+      "endMs": 277300,
+      "en": "It also says that at least 221 children were reportedly killed, some as young as two years old.",
+      "zh": "报告还称，据报道至少有221名儿童遇害，其中一些年仅两岁。"
+    },
+    {
+      "id": 48,
+      "startMs": 278660,
+      "endMs": 282980,
+      "en": "Tom, I wonder our listeners might be thinking, well, what next for these findings then?",
+      "zh": "汤姆，我想听众可能会问，那么这些调查结果接下来会怎样？"
+    },
+    {
+      "id": 49,
+      "startMs": 283060,
+      "endMs": 288100,
+      "en": "If human rights experts at the UN say there are grounds to believe the US committed war crimes",
+      "zh": "如果联合国人权专家说，有理由相信美国犯下了战争罪，"
+    },
+    {
+      "id": 50,
+      "startMs": 288180,
+      "endMs": 293700,
+      "en": "and that the Iranians committed crimes against humanity, what can be done with those accusations?",
+      "zh": "并且伊朗人犯下了反人类罪，那么这些指控能得到怎样的处理？"
+    },
+    {
+      "id": 51,
+      "startMs": 294020,
+      "endMs": 298760,
+      "en": "Well, largely because of the countries involved, these things really reach an endpoint with these reports.",
+      "zh": "嗯，主要由于涉及的国家，这些事情最终往往止步于这些报告。"
+    },
+    {
+      "id": 52,
+      "startMs": 298760,
+      "endMs": 307240,
+      "en": "Because, for example, as far as the US is concerned, I mean, the US has largely tried to disempower multilateral institutions",
+      "zh": "因为，以美国为例，美国基本上一直试图削弱多边机构的权力，"
+    },
+    {
+      "id": 53,
+      "startMs": 307320,
+      "endMs": 311640,
+      "en": "that have the ability to investigate and also to adjudicate,",
+      "zh": "这些机构有能力进行调查和裁决，"
+    },
+    {
+      "id": 54,
+      "startMs": 311640,
+      "endMs": 315640,
+      "en": "basically, in instances where countries themselves won't do that.",
+      "zh": "尤其是在有关国家自己不愿这样做的情况下。"
+    },
+    {
+      "id": 55,
+      "startMs": 315960,
+      "endMs": 322440,
+      "en": "You know, these reports are significant because they put this information and these findings into the public domain.",
+      "zh": "你知道，这些报告很重要，因为它们把这些信息和调查结果公之于众。"
+    },
+    {
+      "id": 56,
+      "startMs": 322440,
+      "endMs": 327720,
+      "en": "But in terms of any further action, well, that, I think, is likely to be extremely limited, if not nonexistent.",
+      "zh": "但就后续行动而言，我认为可能会极其有限，甚至根本不会有。"
+    },
+    {
+      "id": 57,
+      "startMs": 327720,
+      "endMs": 330840,
+      "en": "But what about the court of public opinion? I mean, this comes at a time",
+      "zh": "但舆论法庭又会怎样？我的意思是，这发生在这样一个时期："
+    },
+    {
+      "id": 58,
+      "startMs": 330840,
+      "endMs": 334600,
+      "en": "when the US war with Iran is relatively unpopular with American voters.",
+      "zh": "美国选民相对不支持美国与伊朗的战争。"
+    },
+    {
+      "id": 59,
+      "startMs": 335000,
+      "endMs": 339640,
+      "en": "Can the Trump administration brush off accusations of war crimes so easily?",
+      "zh": "特朗普政府能如此轻易地对战争罪指控置之不理吗？"
+    },
+    {
+      "id": 60,
+      "startMs": 340280,
+      "endMs": 343800,
+      "en": "Well, I think particularly over the issue of the Minab school strike,",
+      "zh": "嗯，我认为尤其是关于米纳卜学校遭袭一事，"
+    },
+    {
+      "id": 61,
+      "startMs": 343800,
+      "endMs": 350680,
+      "en": "it is something that has received coverage within the US and across US media.",
+      "zh": "这件事已经在美国国内和美国各家媒体得到报道。"
+    },
+    {
+      "id": 62,
+      "startMs": 350828,
+      "endMs": 355260,
+      "en": "What has been very notable about that is the degree to which the Pentagon",
+      "zh": "其中非常值得注意的是，五角大楼在多大程度上"
+    },
+    {
+      "id": 63,
+      "startMs": 355260,
+      "endMs": 360860,
+      "en": "under Defense Secretary Pete Hegseth has simply declined to say anything beyond",
+      "zh": "在国防部长皮特·赫格塞思领导下，除了说正在调查，始终不愿透露任何信息，"
+    },
+    {
+      "id": 64,
+      "startMs": 361020,
+      "endMs": 367580,
+      "en": "it's investigating, and there has not been any publication of any findings.",
+      "zh": "而且也没有公布任何调查结果。"
+    },
+    {
+      "id": 65,
+      "startMs": 367580,
+      "endMs": 372460,
+      "en": "And it was widely understood that there was an initial probe that found it likely",
+      "zh": "人们普遍认为，最初的调查认定很可能"
+    },
+    {
+      "id": 66,
+      "startMs": 372540,
+      "endMs": 376380,
+      "en": "that a US missile, a Tomahawk missile, was the cause of the strike on the school in the first place.",
+      "zh": "是美国的一枚导弹——一枚战斧导弹——造成了对该学校的袭击。"
+    },
+    {
+      "id": 67,
+      "startMs": 376380,
+      "endMs": 381020,
+      "en": "But the Trump administration has simply not wanted to talk about these things.",
+      "zh": "但特朗普政府就是不愿谈论这些事情。"
+    },
+    {
+      "id": 68,
+      "startMs": 381340,
+      "endMs": 384380,
+      "en": "And I think, you know, that has been noted among the public.",
+      "zh": "我认为，公众已经注意到了这一点。"
+    },
+    {
+      "id": 69,
+      "startMs": 384380,
+      "endMs": 390940,
+      "en": "But I think largely what the opinion polling suggests is that, for Americans at the moment, in the run-up to the midterm elections,",
+      "zh": "但我认为，民调大体显示，在中期选举临近之际，美国人目前"
+    },
+    {
+      "id": 70,
+      "startMs": 390940,
+      "endMs": 394460,
+      "en": "this war is unpopular, but the doorstep issue",
+      "zh": "并不支持这场战争，但他们最切身的问题"
+    },
+    {
+      "id": 71,
+      "startMs": 394780,
+      "endMs": 401020,
+      "en": "for Americans is that this has led to a rise in the price of gasoline and petrol, and that has made Mr. Trump unpopular.",
+      "zh": "是这场战争导致汽油价格上涨，而这让特朗普先生变得不受欢迎。"
+    },
+    {
+      "id": 72,
+      "startMs": 401020,
+      "endMs": 409020,
+      "en": "Beyond that, he had said, you know, that he gained election on the basis of not taking America into what he and others have called forever wars,",
+      "zh": "此外，他曾说自己当选的依据是不会让美国陷入他和其他人所谓的无休止战争，"
+    },
+    {
+      "id": 73,
+      "startMs": 409420,
+      "endMs": 412940,
+      "en": "these kinds of foreign entanglements. For parts even of his own base",
+      "zh": "不会陷入这类外交纠葛。他自己的部分支持者"
+    },
+    {
+      "id": 74,
+      "startMs": 412940,
+      "endMs": 417680,
+      "en": "who feel pretty aghast that he then appears to have done that in their view",
+      "zh": "对此感到相当震惊，因为在他们看来，他似乎反而做了同样的事，"
+    },
+    {
+      "id": 75,
+      "startMs": 418080,
+      "endMs": 422720,
+      "en": "that will cause him, and is causing him, some problems in terms of the perception of his foreign policy.",
+      "zh": "这会、也正在给他在外交政策形象方面造成一些问题。"
+    },
+    {
+      "id": 76,
+      "startMs": 423120,
+      "endMs": 424560,
+      "en": "Tom Bateman in Washington.",
+      "zh": "华盛顿的汤姆·贝特曼报道。"
+    },
+    {
+      "id": 77,
+      "startMs": 425120,
+      "endMs": 434320,
+      "en": "On Thursday, sirens sounded in eastern Poland. Military aircraft were scrambled, and two airports temporarily suspended flights",
+      "zh": "周四，波兰东部响起警报。军机紧急升空，两座机场暂时停飞，"
+    },
+    {
+      "id": 78,
+      "startMs": 434320,
+      "endMs": 438480,
+      "en": "after Russian strikes on Ukraine landed close to the Polish border.",
+      "zh": "此前俄罗斯对乌克兰的袭击落在波兰边境附近。"
+    },
+    {
+      "id": 79,
+      "startMs": 439120,
+      "endMs": 445440,
+      "en": "This is just the latest example of Russian military activity edging closer to NATO territory.",
+      "zh": "这只是俄罗斯军事活动不断逼近北约领土的最新例证。"
+    },
+    {
+      "id": 80,
+      "startMs": 446080,
+      "endMs": 455440,
+      "en": "Speaking to the BBC's Chris Mason, NATO's Secretary General Mark Rutte said this all points towards an increasingly rattled Vladimir Putin.",
+      "zh": "北约秘书长马克·吕特在接受 BBC 的克里斯·梅森采访时说，这一切都表明弗拉基米尔·普京越来越惊慌失措。"
+    },
+    {
+      "id": 81,
+      "startMs": 455920,
+      "endMs": 465280,
+      "en": "It's a clear example of increasingly reckless behavior by Russia and its president, but also evidence of him being increasingly desperate.",
+      "zh": "这清楚表明俄罗斯及其总统的行为越来越鲁莽，也证明他越来越走投无路。"
+    },
+    {
+      "id": 82,
+      "startMs": 465440,
+      "endMs": 472800,
+      "en": "Should NATO intercept Russian drones that are over Ukrainian territory if they are approaching a NATO border?",
+      "zh": "如果俄罗斯无人机飞越乌克兰领土并逼近北约边境，北约是否应拦截？"
+    },
+    {
+      "id": 83,
+      "startMs": 473120,
+      "endMs": 476820,
+      "en": "There is a limit to what I can go into in a public interview",
+      "zh": "在公开采访中，我能谈到的内容有限，"
+    },
+    {
+      "id": 84,
+      "startMs": 476820,
+      "endMs": 485060,
+      "en": "but I can assure you we do everything to make sure that NATO stays safe, NATO territory stays safe, that we can defend every inch of NATO territory.",
+      "zh": "但我可以向你保证，我们会竭尽全力确保北约和北约领土安全，保卫北约领土的每一寸土地。"
+    },
+    {
+      "id": 85,
+      "startMs": 486100,
+      "endMs": 488500,
+      "en": "Again, I can never get into those operational details.",
+      "zh": "我还是不能透露那些行动细节。"
+    },
+    {
+      "id": 86,
+      "startMs": 489140,
+      "endMs": 495940,
+      "en": "I was told afterwards drones were not, at least yet, intercepted by NATO while still over Ukraine.",
+      "zh": "事后有人告诉我，无人机至少当时还没有在乌克兰上空被北约拦截。"
+    },
+    {
+      "id": 87,
+      "startMs": 496820,
+      "endMs": 505220,
+      "en": "How worried are you? How worried should we all be that Russia will attack or invade a NATO country in the coming years?",
+      "zh": "你有多担心？我们是否都该担心俄罗斯未来几年会攻击或入侵北约国家？"
+    },
+    {
+      "id": 88,
+      "startMs": 505620,
+      "endMs": 513460,
+      "en": "If you are willing to sacrifice 1.2 million of your own people in this crazy, unprovoked fight, let's not be naive about what Putin could do.",
+      "zh": "如果你愿意在这场疯狂且无端的战争中牺牲自己的一百二十万人，我们就不能天真地看待普京可能采取的行动。"
+    },
+    {
+      "id": 89,
+      "startMs": 514260,
+      "endMs": 515940,
+      "en": "But we are stronger. I mean, we are so strong.",
+      "zh": "但我们更强大。我的意思是，我们非常强大。"
+    },
+    {
+      "id": 90,
+      "startMs": 516420,
+      "endMs": 522180,
+      "en": "It could happen. It could happen in the coming years. I don't think so, because we are strong, so strong that he will not try.",
+      "zh": "这可能发生，未来几年内可能发生。但我不这么认为，因为我们很强大，强大到他不会尝试。"
+    },
+    {
+      "id": 91,
+      "startMs": 522180,
+      "endMs": 527060,
+      "en": "But what we have to make sure of is that we are as strong in two, three, five years from now.",
+      "zh": "但我们必须确保，两年、三年、五年后，我们仍然同样强大。"
+    },
+    {
+      "id": 92,
+      "startMs": 527540,
+      "endMs": 531060,
+      "en": "NATO Secretary General Mark Rutte, speaking to Chris Mason.",
+      "zh": "北约秘书长马克·吕特接受克里斯·梅森采访。"
+    },
+    {
+      "id": 93,
+      "startMs": 531780,
+      "endMs": 540120,
+      "en": "Now, are you someone who needs a cup of coffee in the morning to get going, but if you have a coffee after 3 p.m., you're up all night?",
+      "zh": "你是否需要早晨喝一杯咖啡才能开始一天，但下午3点后喝咖啡就会彻夜难眠？"
+    },
+    {
+      "id": 94,
+      "startMs": 540680,
+      "endMs": 545720,
+      "en": "Why does caffeine make some people buzz and others barely notice its effects?",
+      "zh": "为什么咖啡因让一些人兴奋不已，另一些人却几乎感觉不到它的作用？"
+    },
+    {
+      "id": 95,
+      "startMs": 546280,
+      "endMs": 553080,
+      "en": "Our health reporter has been looking into this, but we also asked listeners to send us voice messages about their coffee drinking.",
+      "zh": "我们的健康记者一直在调查这个问题，我们还请听众发来语音，分享他们喝咖啡的经历。"
+    },
+    {
+      "id": 96,
+      "startMs": 553400,
+      "endMs": 556120,
+      "en": "Here is two from Egypt and then Tenerife.",
+      "zh": "下面是来自埃及和特内里费岛的两段留言。"
+    },
+    {
+      "id": 97,
+      "startMs": 556680,
+      "endMs": 560120,
+      "en": "I do like coffee, and I'm a little bit of a coffee addict.",
+      "zh": "我确实喜欢咖啡，有点算是咖啡成瘾者。"
+    },
+    {
+      "id": 98,
+      "startMs": 561380,
+      "endMs": 568420,
+      "en": "In Egypt, for instance, I'm always like to have two to three cups, which is a lot,",
+      "zh": "比如在埃及，我总是想喝两到三杯，这算很多了，"
+    },
+    {
+      "id": 99,
+      "startMs": 568740,
+      "endMs": 575860,
+      "en": "and it has also changed with age, because in the past, you know, I didn't really feel anything, but now I'm feeling the caffeine,",
+      "zh": "而且这种感觉也随年龄变化，因为过去我并没有什么感觉，但现在我能感受到咖啡因，"
+    },
+    {
+      "id": 100,
+      "startMs": 576260,
+      "endMs": 579140,
+      "en": "maybe because my consumption has increased.",
+      "zh": "可能是因为我的摄入量增加了。"
+    },
+    {
+      "id": 101,
+      "startMs": 579300,
+      "endMs": 584580,
+      "en": "Almost everybody takes a cup of coffee in the morning with breakfast.",
+      "zh": "几乎每个人早上吃早餐时都会喝一杯咖啡。"
+    },
+    {
+      "id": 102,
+      "startMs": 584820,
+      "endMs": 590260,
+      "en": "It is very important because it is a stimulant to have energy.",
+      "zh": "咖啡很重要，因为它是一种能让人精力充沛的兴奋剂。"
+    },
+    {
+      "id": 103,
+      "startMs": 591060,
+      "endMs": 598660,
+      "en": "And to finish waking up, as I mentioned, our health reporter Jim Reed has been investigating coffee and caffeine.",
+      "zh": "正如我提到的，健康事务记者吉姆·里德一直在调查咖啡和咖啡因，以帮助人们彻底清醒。"
+    },
+    {
+      "id": 104,
+      "startMs": 599140,
+      "endMs": 603460,
+      "en": "He spoke to James Reynolds and began by telling him who drinks the most coffee.",
+      "zh": "他采访了詹姆斯·雷诺兹，先告诉他哪些人喝咖啡最多。"
+    },
+    {
+      "id": 105,
+      "startMs": 603700,
+      "endMs": 610820,
+      "en": "These figures are from the International Coffee Organization, so take that as you will. But two billion cups a day is the figure.",
+      "zh": "这些数字来自国际咖啡组织，大家可以自行判断。不过，每天20亿杯是他们给出的数字。"
+    },
+    {
+      "id": 106,
+      "startMs": 611140,
+      "endMs": 615460,
+      "en": "When you think there's only eight billion people in the world, that is—it's an awful lot of coffee.",
+      "zh": "想想全世界只有80亿人，就会发现这真是多得惊人的咖啡。"
+    },
+    {
+      "id": 107,
+      "startMs": 615460,
+      "endMs": 622500,
+      "en": "I think it works out at around 26,000 cups a second that are consumed around the world.",
+      "zh": "我算过，这相当于全世界每秒消费大约2.6万杯。"
+    },
+    {
+      "id": 108,
+      "startMs": 623380,
+      "endMs": 628820,
+      "en": "In terms of which countries, when you look at the figures, Scandinavia and Northern Europe top the list.",
+      "zh": "从国家来看，按这些数字，斯堪的纳维亚和北欧位居榜首。"
+    },
+    {
+      "id": 109,
+      "startMs": 629220,
+      "endMs": 633940,
+      "en": "So Finland is number one—four cups of coffee a day on average in Finland.",
+      "zh": "芬兰排名第一，平均每天喝四杯咖啡。"
+    },
+    {
+      "id": 110,
+      "startMs": 634260,
+      "endMs": 641940,
+      "en": "Norway, Iceland, Denmark, then you get the other big European countries: the UK, Germany and France come down a little bit further down the list.",
+      "zh": "接下来是挪威、冰岛和丹麦；其他欧洲大国英国、德国和法国的排名稍靠后。"
+    },
+    {
+      "id": 111,
+      "startMs": 642020,
+      "endMs": 650340,
+      "en": "The USA. Asian countries tend to be much lower. There are exceptions, but Japan and China are much lower in coffee consumption.",
+      "zh": "美国也在其中。亚洲国家的排名通常低得多，当然也有例外，但日本和中国的咖啡消费量明显较低。"
+    },
+    {
+      "id": 112,
+      "startMs": 650340,
+      "endMs": 654200,
+      "en": "Partly because there's more of a culture of tea drinking in large parts of Asia.",
+      "zh": "部分原因是亚洲很多地区都有更浓厚的饮茶文化。"
+    },
+    {
+      "id": 113,
+      "startMs": 654840,
+      "endMs": 656840,
+      "en": "So let's get to one of the points of the story.",
+      "zh": "下面说说这则报道的一个重点。"
+    },
+    {
+      "id": 114,
+      "startMs": 657160,
+      "endMs": 662600,
+      "en": "Does coffee affect people differently? And clearly it does. Looking at the different personalities in this newsroom, if so, how?",
+      "zh": "咖啡对人的影响会不同吗？显然会。看看编辑部里形形色色的人，如果确实不同，原因是什么？"
+    },
+    {
+      "id": 115,
+      "startMs": 663420,
+      "endMs": 667500,
+      "en": "The interesting thing with caffeine is it's a very weird drug for that reason.",
+      "zh": "咖啡因有趣之处在于，正因为这个原因，它是一种非常奇特的药物。"
+    },
+    {
+      "id": 116,
+      "startMs": 667500,
+      "endMs": 672380,
+      "en": "I spoke to researchers at Northwestern University in Chicago about this. They've done some work pretty recently.",
+      "zh": "我就此采访了芝加哥西北大学的研究人员。他们最近开展了一些研究。"
+    },
+    {
+      "id": 117,
+      "startMs": 672780,
+      "endMs": 679020,
+      "en": "And a lot depends on how quickly you can metabolize or break down that coffee in your body, and that can",
+      "zh": "这很大程度取决于身体代谢或分解咖啡的速度，而这个过程可能"
+    },
+    {
+      "id": 118,
+      "startMs": 679020,
+      "endMs": 683740,
+      "en": "take from six hours to 20 hours, depending on the individual.",
+      "zh": "需要6到20小时，因人而异。"
+    },
+    {
+      "id": 119,
+      "startMs": 684140,
+      "endMs": 687980,
+      "en": "The interesting thing with caffeine is it doesn't give you more energy.",
+      "zh": "咖啡因有趣之处在于，它并不会让你获得更多能量。"
+    },
+    {
+      "id": 120,
+      "startMs": 688460,
+      "endMs": 695580,
+      "en": "All it's doing is that there is a chemical that builds up in your brain all day called adenosine, that makes you feel more sleepy.",
+      "zh": "它做的只是阻挡一种整天在大脑中积累的化学物质——腺苷；腺苷会让人更困。"
+    },
+    {
+      "id": 121,
+      "startMs": 695740,
+      "endMs": 699500,
+      "en": "And all the caffeine is doing is blocking that chemical coming through.",
+      "zh": "咖啡因所做的，就是阻止这种化学物质发挥作用。"
+    },
+    {
+      "id": 122,
+      "startMs": 699500,
+      "endMs": 704620,
+      "en": "So it's not giving you really a boost in that sense; it's just stopping you being more tired.",
+      "zh": "所以从这个意义上说，它并没有真正给你提神，只是阻止你变得更疲惫。"
+    },
+    {
+      "id": 123,
+      "startMs": 704780,
+      "endMs": 706380,
+      "en": "Tell us about building up a tolerance.",
+      "zh": "请谈谈耐受性的形成。"
+    },
+    {
+      "id": 124,
+      "startMs": 706860,
+      "endMs": 711100,
+      "en": "That's definitely something you can do, and this is where the body, James, is pretty amazing.",
+      "zh": "这确实可能发生，而这正体现了身体的奇妙，詹姆斯。"
+    },
+    {
+      "id": 125,
+      "startMs": 711100,
+      "endMs": 718460,
+      "en": "So if you drink coffee over time, your brain can actually form more of the receptors",
+      "zh": "如果长期喝咖啡，大脑实际上会形成更多受体，"
+    },
+    {
+      "id": 126,
+      "startMs": 718620,
+      "endMs": 724960,
+      "en": "that let that tiredness chemical, adenosine, get through. So caffeine seems to have less of an effect.",
+      "zh": "让这种使人疲倦的化学物质腺苷通过，因此咖啡因的作用似乎减弱了。"
+    },
+    {
+      "id": 127,
+      "startMs": 725360,
+      "endMs": 728800,
+      "en": "Then if you suddenly sort of give up coffee for a couple of weeks,",
+      "zh": "但如果你突然停止喝咖啡几个星期，"
+    },
+    {
+      "id": 128,
+      "startMs": 729200,
+      "endMs": 733600,
+      "en": "your brain can actually revert very quickly, just in a matter of days or weeks, to its normal state.",
+      "zh": "大脑实际上会很快恢复正常，只需几天或几周。"
+    },
+    {
+      "id": 129,
+      "startMs": 734240,
+      "endMs": 737840,
+      "en": "Then you suddenly have a coffee again after a period of not drinking for a couple of weeks,",
+      "zh": "然后，停喝几周后突然再喝一杯咖啡，"
+    },
+    {
+      "id": 130,
+      "startMs": 738080,
+      "endMs": 742880,
+      "en": "and that is when it can really hit you, because your brain and your body's just not used to it.",
+      "zh": "这时咖啡因就会强烈影响你，因为你的大脑和身体已经不习惯它了。"
+    },
+    {
+      "id": 131,
+      "startMs": 742880,
+      "endMs": 745200,
+      "en": "So it's amazing how quickly your body can adapt to these things.",
+      "zh": "所以，身体适应这些东西的速度之快令人惊叹。"
+    },
+    {
+      "id": 132,
+      "startMs": 745760,
+      "endMs": 750000,
+      "en": "How much is the limit? I mean, do people in Finland, are they getting close to that limit?",
+      "zh": "上限是多少？我的意思是，芬兰人是否已经接近这个上限？"
+    },
+    {
+      "id": 133,
+      "startMs": 750000,
+      "endMs": 751920,
+      "en": "They're on four cups of coffee a day.",
+      "zh": "他们每天喝四杯咖啡。"
+    },
+    {
+      "id": 134,
+      "startMs": 752400,
+      "endMs": 756800,
+      "en": "It's pretty difficult because there is no great answer to that. It does depend on individuals.",
+      "zh": "这很难回答，因为没有一个明确答案，确实因人而异。"
+    },
+    {
+      "id": 135,
+      "startMs": 757120,
+      "endMs": 763040,
+      "en": "The exception is pregnant women, because there is pretty decent evidence that intake of caffeine can be linked",
+      "zh": "孕妇是例外，因为有相当充分的证据表明，摄入咖啡因可能与"
+    },
+    {
+      "id": 136,
+      "startMs": 763120,
+      "endMs": 769120,
+      "en": "to low birth weight and other complications. So there, the advice from most health regulators is 200 milligrams of caffeine",
+      "zh": "出生体重偏低及其他并发症有关。因此，多数卫生监管机构建议孕妇摄入200毫克咖啡因"
+    },
+    {
+      "id": 137,
+      "startMs": 769360,
+      "endMs": 772160,
+      "en": "a day. That's about the same as two cups of filter coffee.",
+      "zh": "每天，这大约相当于两杯滴滤咖啡。"
+    },
+    {
+      "id": 138,
+      "startMs": 772720,
+      "endMs": 780880,
+      "en": "For healthy adults, the advice again from regulators is anything under four cups of filter coffee, you are pretty safe.",
+      "zh": "对健康成年人，监管机构同样建议，只要每天少于四杯滴滤咖啡，就基本安全。"
+    },
+    {
+      "id": 139,
+      "startMs": 781440,
+      "endMs": 787060,
+      "en": "To be honest, you're only going to really have a major health problem if you consume a lot more caffeine,",
+      "zh": "坦白说，只有摄入多得多的咖啡因，才可能真正造成严重健康问题，"
+    },
+    {
+      "id": 140,
+      "startMs": 787460,
+      "endMs": 790740,
+      "en": "and that is unlikely with coffee because you'll simply get jittery and stop drinking it.",
+      "zh": "而喝咖啡不太可能达到这种程度，因为你会先感到紧张不安，然后停止饮用。"
+    },
+    {
+      "id": 141,
+      "startMs": 791220,
+      "endMs": 798100,
+      "en": "It is possible, though, with things. Recently there's been a big fad for caffeine powders and supplements,",
+      "zh": "不过，其他东西可能做到这一点。最近咖啡因粉末和补充剂一度很流行，"
+    },
+    {
+      "id": 142,
+      "startMs": 798100,
+      "endMs": 801940,
+      "en": "and that's where you can get in trouble because it's difficult to regulate how much you're taking in,",
+      "zh": "这就可能带来麻烦，因为很难控制自己的摄入量，"
+    },
+    {
+      "id": 143,
+      "startMs": 802260,
+      "endMs": 805780,
+      "en": "and you can overdose on those. And there have been a handful, not very many, but",
+      "zh": "而且可能过量。已经有少数人因此死亡，虽然人数不多，但"
+    },
+    {
+      "id": 144,
+      "startMs": 805780,
+      "endMs": 809140,
+      "en": "a handful of deaths connected with that in some European countries.",
+      "zh": "一些欧洲国家确实出现过相关死亡案例。"
+    },
+    {
+      "id": 145,
+      "startMs": 809140,
+      "endMs": 815620,
+      "en": "So for the most part, completely safe, but in isolation, in rare cases, it can be quite dangerous.",
+      "zh": "所以总体而言咖啡因很安全，但单独大量摄入时，极少数情况下可能相当危险。"
+    },
+    {
+      "id": 146,
+      "startMs": 816100,
+      "endMs": 817620,
+      "en": "Health reporter Jim Reed.",
+      "zh": "健康事务记者吉姆·里德报道。"
+    },
+    {
+      "id": 147,
+      "startMs": 818460,
+      "endMs": 823500,
+      "en": "Let's focus now on a manuscript from the 16th century which tells the story",
+      "zh": "现在关注一份16世纪的手稿，它讲述了"
+    },
+    {
+      "id": 148,
+      "startMs": 823740,
+      "endMs": 829260,
+      "en": "of what happened to the Aztec people who lived in what's now central and southern Mexico.",
+      "zh": "生活在如今墨西哥中部和南部的阿兹特克人所经历的故事。"
+    },
+    {
+      "id": 149,
+      "startMs": 829580,
+      "endMs": 835740,
+      "en": "The Codex Azcatitlan depicts the fall of the Aztecs after the arrival of the Spanish conquistadors.",
+      "zh": "《阿兹卡蒂特兰抄本》描绘了西班牙征服者到来后阿兹特克人的覆亡。"
+    },
+    {
+      "id": 150,
+      "startMs": 836140,
+      "endMs": 842780,
+      "en": "It's widely considered to be among the most valuable and insightful tellings of the history of Aztec civilization.",
+      "zh": "它被广泛认为是关于阿兹特克文明历史最有价值、最有洞察力的叙述之一。"
+    },
+    {
+      "id": 151,
+      "startMs": 843580,
+      "endMs": 849100,
+      "en": "Now, the codex is going on display in Mexico after more than 180 years abroad.",
+      "zh": "如今，这部手稿在海外辗转180多年后，将在墨西哥展出。"
+    },
+    {
+      "id": 152,
+      "startMs": 849580,
+      "endMs": 855900,
+      "en": "It had been held in France since 1898, and it had already spent decades outside Mexico before that.",
+      "zh": "自1898年以来它一直收藏在法国，而在那之前也已经离开墨西哥数十年。"
+    },
+    {
+      "id": 153,
+      "startMs": 856840,
+      "endMs": 859720,
+      "en": "Camilla Townsend told Paul Henley about the codex.",
+      "zh": "卡米拉·汤森德向保罗·亨利介绍了这部手稿。"
+    },
+    {
+      "id": 154,
+      "startMs": 860120,
+      "endMs": 866200,
+      "en": "She's a professor of history at Rutgers University in the US and she's a specialist on the Aztecs.",
+      "zh": "她是美国罗格斯大学历史学教授，也是阿兹特克研究专家。"
+    },
+    {
+      "id": 155,
+      "startMs": 866600,
+      "endMs": 872440,
+      "en": "The Codex Azcatitlan is a really beautiful work of art, one of the loveliest of the Mexican codices.",
+      "zh": "《阿兹卡蒂特兰抄本》是一件非常美丽的艺术品，是墨西哥各部抄本中最精美的作品之一。"
+    },
+    {
+      "id": 156,
+      "startMs": 872840,
+      "endMs": 879640,
+      "en": "It is largely drawn in black ink and decorated in reds and oranges and yellows, sort of burnt colors, if you will.",
+      "zh": "它主要用黑墨绘制，并以红色、橙色和黄色装饰，算是些焦糖般的色彩。"
+    },
+    {
+      "id": 157,
+      "startMs": 879640,
+      "endMs": 883800,
+      "en": "And it proceeds in a very beautiful way through their history",
+      "zh": "它以非常优美的方式讲述他们的历史，"
+    },
+    {
+      "id": 158,
+      "startMs": 884120,
+      "endMs": 888360,
+      "en": "from their earliest legends up to the period of the arrival of the Spanish.",
+      "zh": "从最早的传说一直讲到西班牙人到来的时期。"
+    },
+    {
+      "id": 159,
+      "startMs": 888600,
+      "endMs": 895160,
+      "en": "It is illustrating all sorts of aspects of Mexica, as they called themselves, Aztec history,",
+      "zh": "它描绘了墨西加人——他们对自己的称呼——阿兹特克历史的方方面面，"
+    },
+    {
+      "id": 160,
+      "startMs": 895480,
+      "endMs": 898440,
+      "en": "some warlike, and some times of peace.",
+      "zh": "有些是战争场面，也有些是和平时期。"
+    },
+    {
+      "id": 161,
+      "startMs": 898600,
+      "endMs": 904440,
+      "en": "For example, just describe what the figures look like. They're fairly primitive to some modern eyes, aren't they?",
+      "zh": "比如说，请描述一下这些人物的样子。对一些现代人来说，他们看起来相当原始，对吧？"
+    },
+    {
+      "id": 162,
+      "startMs": 904680,
+      "endMs": 909560,
+      "en": "Yes, they are. I guess you might use the word cartoon, but I don't mean cartoonish.",
+      "zh": "是的。我想你可以用“卡通”这个词，但我不是说它们像卡通画。"
+    },
+    {
+      "id": 163,
+      "startMs": 909960,
+      "endMs": 912520,
+      "en": "They are two-dimensional but suggest three-dimensional.",
+      "zh": "它们是二维的，却呈现出三维的感觉。"
+    },
+    {
+      "id": 164,
+      "startMs": 912520,
+      "endMs": 916600,
+      "en": "These are, it's clearly, by artists Nahuatl or native, indigenous artists",
+      "zh": "这些作品显然出自纳瓦特尔人，也就是本土原住民艺术家之手，"
+    },
+    {
+      "id": 165,
+      "startMs": 916700,
+      "endMs": 920620,
+      "en": "artists who had gone to school with the friars and learned about Western perspective.",
+      "zh": "这些艺术家曾跟随修士学习，并了解西方透视法。"
+    },
+    {
+      "id": 166,
+      "startMs": 920700,
+      "endMs": 924620,
+      "en": "One has the impression that they've learned to draw Western style quite recently,",
+      "zh": "给人的感觉是，他们不久前才学会用西方风格绘画，"
+    },
+    {
+      "id": 167,
+      "startMs": 924620,
+      "endMs": 930380,
+      "en": "and so they're mixing Western presentation of the human body with all sorts of indigenous images and artwork.",
+      "zh": "所以他们把西方的人体表现方式，与各种原住民图像和艺术融合在一起。"
+    },
+    {
+      "id": 168,
+      "startMs": 930780,
+      "endMs": 935900,
+      "en": "They show a road with a human footprint going along the path to indicate motion",
+      "zh": "画中用一条路和沿路延伸的人类脚印来表示运动，"
+    },
+    {
+      "id": 169,
+      "startMs": 935900,
+      "endMs": 941500,
+      "en": "and there and there they do stop and war with their neighbours, but also do dances, sing songs, etc.",
+      "zh": "他们有时停下来与邻人交战，但也会跳舞、唱歌等等。"
+    },
+    {
+      "id": 170,
+      "startMs": 941900,
+      "endMs": 944940,
+      "en": "So there they are living their lives when the Spaniards arrive.",
+      "zh": "所以，西班牙人到来时，他们正过着自己的生活。"
+    },
+    {
+      "id": 171,
+      "startMs": 945180,
+      "endMs": 949260,
+      "en": "And do we know for sure that it was Aztec artists that did it?",
+      "zh": "我们能确定这部作品是阿兹特克艺术家创作的吗？"
+    },
+    {
+      "id": 172,
+      "startMs": 949260,
+      "endMs": 953500,
+      "en": "And were these pictures drawn at the time or as historical documents?",
+      "zh": "这些画是在当时绘制的，还是作为历史文献绘制的？"
+    },
+    {
+      "id": 173,
+      "startMs": 953900,
+      "endMs": 958140,
+      "en": "We are certain that these were Aztec artists, indigenous artists",
+      "zh": "我们确定这些是阿兹特克艺术家，也就是原住民艺术家，"
+    },
+    {
+      "id": 174,
+      "startMs": 958380,
+      "endMs": 966380,
+      "en": "because the imagery is so loaded with native iconography, with stories that the Spaniards didn't even know.",
+      "zh": "因为这些图像充满了本土图腾，也包含西班牙人甚至不了解的故事。"
+    },
+    {
+      "id": 175,
+      "startMs": 966780,
+      "endMs": 972860,
+      "en": "There would be no way for a Spanish person really to have created this piece of work in the colonial era.",
+      "zh": "西班牙人在殖民时代几乎不可能创作出这件作品。"
+    },
+    {
+      "id": 176,
+      "startMs": 972860,
+      "endMs": 976700,
+      "en": "This is based on legends and histories that were passed orally.",
+      "zh": "这部作品基于口头流传的传说和历史。"
+    },
+    {
+      "id": 177,
+      "startMs": 976720,
+      "endMs": 983040,
+      "en": "Amongst the Nahuas, and we know these stories because they sometimes stopped and wrote them down in their own language for each other.",
+      "zh": "在纳瓦人中，人们有时会停下来，用自己的语言把这些故事写下来，彼此传阅，所以我们才知道这些故事。"
+    },
+    {
+      "id": 178,
+      "startMs": 983200,
+      "endMs": 985360,
+      "en": "So the codex is coming home.",
+      "zh": "所以，这部手稿要回家了。"
+    },
+    {
+      "id": 179,
+      "startMs": 985360,
+      "endMs": 988240,
+      "en": "How big a deal is that? It's a very big deal.",
+      "zh": "这有多重要？这非常重要。"
+    },
+    {
+      "id": 180,
+      "startMs": 988320,
+      "endMs": 993360,
+      "en": "The Mexicans know on some level they all know what a grand history they have.",
+      "zh": "墨西哥人或多或少都知道，他们拥有多么伟大的历史。"
+    },
+    {
+      "id": 181,
+      "startMs": 993360,
+      "endMs": 998960,
+      "en": "They have the extraordinary nature of the civilizations that existed in Mexico before the conquest.",
+      "zh": "他们拥有征服前曾存在于墨西哥的那些文明，而这些文明非同寻常。"
+    },
+    {
+      "id": 182,
+      "startMs": 999360,
+      "endMs": 1004800,
+      "en": "But very few of them have the time, energy, resources, you know, to go and get their PhDs in this subject,",
+      "zh": "但他们中很少有人有时间、精力和资源去攻读这一领域的博士学位，"
+    },
+    {
+      "id": 183,
+      "startMs": 1004800,
+      "endMs": 1010000,
+      "en": "so they don't know much about it. And of course, making matters worse, much of their heritage",
+      "zh": "所以他们对这段历史知之不多。当然，更糟的是，他们的大量遗产"
+    },
+    {
+      "id": 184,
+      "startMs": 1010240,
+      "endMs": 1016400,
+      "en": "was taken from them, literally removed from the country, largely by the French, although some by English and Americans.",
+      "zh": "被夺走了，确实被带离了这个国家，主要是被法国人带走的，也有一部分被英国人和美国人带走。"
+    },
+    {
+      "id": 185,
+      "startMs": 1016800,
+      "endMs": 1022640,
+      "en": "Is there implied criticism of the Spanish, which wouldn't be surprising given that they were the invaders, the killers?",
+      "zh": "这是否暗含对西班牙人的批评？鉴于他们是入侵者和杀戮者，这并不奇怪。"
+    },
+    {
+      "id": 186,
+      "startMs": 1022880,
+      "endMs": 1026960,
+      "en": "The Spaniards do not appear to good advantage on several occasions.",
+      "zh": "西班牙人在其中几处并未以正面形象出现。"
+    },
+    {
+      "id": 187,
+      "startMs": 1027280,
+      "endMs": 1032320,
+      "en": "They are violent. The people, even women and children, are having their limbs cut off.",
+      "zh": "他们十分暴力。当地人，甚至妇女和儿童，都被砍断了四肢。"
+    },
+    {
+      "id": 188,
+      "startMs": 1032480,
+      "endMs": 1039380,
+      "en": "The very last page shows friars involved in torturing Indigenous people who are tied to wooden sticks.",
+      "zh": "最后一页画的是修士参与折磨被绑在木桩上的原住民。"
+    },
+    {
+      "id": 189,
+      "startMs": 1039620,
+      "endMs": 1040580,
+      "en": "Camilla Townsend.",
+      "zh": "卡米拉·汤森德。"
+    },
+    {
+      "id": 190,
+      "startMs": 1042660,
+      "endMs": 1044660,
+      "en": "Still to come in this podcast: for me, it's",
+      "zh": "本期节目稍后还将听到：在我看来，"
+    },
+    {
+      "id": 191,
+      "startMs": 1044740,
+      "endMs": 1047060,
+      "en": "Amazing: new species are still being discovered.",
+      "zh": "新物种仍在不断被发现，真是令人惊叹。"
+    },
+    {
+      "id": 192,
+      "startMs": 1047060,
+      "endMs": 1052180,
+      "en": "So, we don't have to go to a volcano or an island or deep in the sea. We have it around us.",
+      "zh": "所以，我们不必去火山、岛屿或深海寻找；它们就在我们身边。"
+    },
+    {
+      "id": 193,
+      "startMs": 1052420,
+      "endMs": 1058180,
+      "en": "A new type of cat hiding in plain sight in Bolivia.",
+      "zh": "一种新型猫科动物就藏身于玻利维亚，近在眼前。"
+    },
+    {
+      "id": 194,
+      "startMs": 1058180,
+      "endMs": 1059700,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 195,
+      "startMs": 1060340,
+      "endMs": 1070340,
+      "en": "A major new study has found that since 1979, more than 11 trillion tons of ice has melted into the oceans from ice sheets in Greenland and Antarctica.",
+      "zh": "一项重要新研究发现，自1979年以来，格陵兰和南极洲冰盖已有超过11万亿吨冰融入海洋。"
+    },
+    {
+      "id": 196,
+      "startMs": 1070900,
+      "endMs": 1076820,
+      "en": "And researchers say all that melted water has led to an average sea level rise of 3 cm.",
+      "zh": "研究人员说，所有这些融水已导致平均海平面上升3厘米。"
+    },
+    {
+      "id": 197,
+      "startMs": 1076820,
+      "endMs": 1083780,
+      "en": "That might not sound like a lot, but that water is distributed unevenly across the planet, and it means",
+      "zh": "这听起来或许不算多，但这些水在全球分布不均，这意味着"
+    },
+    {
+      "id": 198,
+      "startMs": 1083780,
+      "endMs": 1088660,
+      "en": "tens of millions of people in coastal communities face increased risks from flooding.",
+      "zh": "数千万沿海社区居民面临更高的洪水风险。"
+    },
+    {
+      "id": 199,
+      "startMs": 1089220,
+      "endMs": 1095700,
+      "en": "And as the climate continues to warm, the rate of melting could accelerate, raising sea levels even higher.",
+      "zh": "随着气候继续变暖，融化速度可能加快，使海平面进一步上升。"
+    },
+    {
+      "id": 200,
+      "startMs": 1096340,
+      "endMs": 1101540,
+      "en": "Enya Otosaka, an ice scientist at Northumbria University in England, led the research.",
+      "zh": "英格兰诺森比亚大学冰川科学家恩娅·奥托萨卡领导了这项研究。"
+    },
+    {
+      "id": 201,
+      "startMs": 1101860,
+      "endMs": 1110020,
+      "en": "11.3 trillion tons of ice is a very large amount of ice, and if you convert that to sea level rise equivalent, that's 3 cm.",
+      "zh": "11.3万亿吨冰是非常巨大的数量，换算成海平面上升量，相当于3厘米。"
+    },
+    {
+      "id": 202,
+      "startMs": 1110020,
+      "endMs": 1113540,
+      "en": "We know that for every centimeter of sea level rise,",
+      "zh": "我们知道，海平面每上升1厘米，"
+    },
+    {
+      "id": 203,
+      "startMs": 1113940,
+      "endMs": 1115460,
+      "en": "about two to three million",
+      "zh": "约有200万至300万"
+    },
+    {
+      "id": 204,
+      "startMs": 1115460,
+      "endMs": 1119560,
+      "en": "people around the planet are put at further risk of annual coastal flooding.",
+      "zh": "全球各地的人们面临更高的年度沿海洪灾风险。"
+    },
+    {
+      "id": 205,
+      "startMs": 1120120,
+      "endMs": 1126200,
+      "en": "So that's obviously something that's very important, and we really need to keep on tracking ice sheet melting.",
+      "zh": "这显然非常重要，我们确实需要持续追踪冰盖融化。"
+    },
+    {
+      "id": 206,
+      "startMs": 1126520,
+      "endMs": 1133160,
+      "en": "Can you take us through that a little bit? Because when I think about 3 cm of water rising, it doesn't sound like much.",
+      "zh": "能请你进一步解释一下吗？因为想到水位上升3厘米，听起来似乎并不多。"
+    },
+    {
+      "id": 207,
+      "startMs": 1133160,
+      "endMs": 1136600,
+      "en": "Why does it affect so many people around the world? How does that work?",
+      "zh": "为什么这会影响全世界这么多人？这是怎么回事？"
+    },
+    {
+      "id": 208,
+      "startMs": 1137240,
+      "endMs": 1141480,
+      "en": "So here we're talking about 3 cm of global mean sea level.",
+      "zh": "这里说的是全球平均海平面上升3厘米。"
+    },
+    {
+      "id": 209,
+      "startMs": 1141960,
+      "endMs": 1149000,
+      "en": "So that's really when you project all of the water that's being released by the ice sheet when they melt onto the planet.",
+      "zh": "也就是说，把冰盖融化释放的全部水量投射到地球上来计算。"
+    },
+    {
+      "id": 210,
+      "startMs": 1149480,
+      "endMs": 1155080,
+      "en": "And because of the effect of gravity, it's not redistributed uniformly across the world.",
+      "zh": "由于重力的作用，这些水不会均匀分布到世界各地。"
+    },
+    {
+      "id": 211,
+      "startMs": 1155160,
+      "endMs": 1158040,
+      "en": "So it doesn't mean that everywhere it will rise by 3 cm.",
+      "zh": "所以这并不意味着各地都会上升3厘米。"
+    },
+    {
+      "id": 212,
+      "startMs": 1158040,
+      "endMs": 1162360,
+      "en": "There will be areas around the planet where it's going to be much more than 3 cm.",
+      "zh": "地球上有些地区的上升幅度会远超3厘米。"
+    },
+    {
+      "id": 213,
+      "startMs": 1162360,
+      "endMs": 1167160,
+      "en": "And some area, for instance very close to the ice sheet, where it will actually be a sea level fall.",
+      "zh": "例如非常靠近冰盖的某些地区，海平面实际上会下降。"
+    },
+    {
+      "id": 214,
+      "startMs": 1167400,
+      "endMs": 1174200,
+      "en": "Hmm, I see. Okay, so tell us more about the report and how you collected the data in it.",
+      "zh": "嗯，我明白了。那么请进一步介绍这份报告，以及你们如何收集其中的数据。"
+    },
+    {
+      "id": 215,
+      "startMs": 1174280,
+      "endMs": 1177800,
+      "en": "How can we be sure it's accurate? Yes, so we have used satellite data.",
+      "zh": "我们怎么能确认数据准确呢？是的，我们使用了卫星数据。"
+    },
+    {
+      "id": 216,
+      "startMs": 1177740,
+      "endMs": 1180460,
+      "en": "From 27 different satellite missions,",
+      "zh": "数据来自27项不同的卫星任务，"
+    },
+    {
+      "id": 217,
+      "startMs": 1180780,
+      "endMs": 1186620,
+      "en": "we are tracking how much ice the ice sheets in Greenland and Antarctica are losing from year to year.",
+      "zh": "我们逐年追踪格陵兰和南极冰盖的冰量损失。"
+    },
+    {
+      "id": 218,
+      "startMs": 1187020,
+      "endMs": 1192780,
+      "en": "And now we have extended the satellite data record backward in time to the 1970s.",
+      "zh": "现在我们已将卫星数据记录向前追溯到20世纪70年代。"
+    },
+    {
+      "id": 219,
+      "startMs": 1193240,
+      "endMs": 1199480,
+      "en": "And this really confirmed that ice loss started around the 1990s and has increased since then.",
+      "zh": "这确实证实冰量损失始于20世纪90年代左右，此后一直在增加。"
+    },
+    {
+      "id": 220,
+      "startMs": 1199480,
+      "endMs": 1206280,
+      "en": "In fact, we found that the pace of ice loss increased by a factor of four between the 1980s and 2010s.",
+      "zh": "事实上，我们发现冰量损失速度在20世纪80年代至2010年代间增加了四倍。"
+    },
+    {
+      "id": 221,
+      "startMs": 1206280,
+      "endMs": 1209560,
+      "en": "So how should we think about all of this then, the findings?",
+      "zh": "那么，我们应该如何理解这些发现？"
+    },
+    {
+      "id": 222,
+      "startMs": 1209560,
+      "endMs": 1217560,
+      "en": "What are the long-term consequences for sea levels if this trend continues and actually speeds up as you've indicated?",
+      "zh": "正如你所说，如果这一趋势持续并加速，海平面会受到哪些长期影响？"
+    },
+    {
+      "id": 223,
+      "startMs": 1217880,
+      "endMs": 1223160,
+      "en": "There's a really clear long-term trend showing that glaciers are flowing faster into the ocean.",
+      "zh": "一个非常明确的长期趋势表明，冰川正更快地流入海洋。"
+    },
+    {
+      "id": 224,
+      "startMs": 1223720,
+      "endMs": 1229880,
+      "en": "If we cross certain warming thresholds, then we could have even higher sea level rise than currently planned for.",
+      "zh": "如果越过某些升温阈值，海平面上升幅度可能会高于目前的规划。"
+    },
+    {
+      "id": 225,
+      "startMs": 1230200,
+      "endMs": 1234760,
+      "en": "So, for instance, by 2100, depending on the warming scenarios that we're going to follow,",
+      "zh": "例如，到2100年，取决于我们采用的升温情景，"
+    },
+    {
+      "id": 226,
+      "startMs": 1234760,
+      "endMs": 1242840,
+      "en": "in a low-emission scenario, total sea level could be between 28 and 55 centimetres.",
+      "zh": "在低排放情景下，海平面总升幅可能在28至55厘米之间。"
+    },
+    {
+      "id": 227,
+      "startMs": 1242840,
+      "endMs": 1247400,
+      "en": "But then if you look at high-emission scenarios, by the end of that century that's around 2 metres.",
+      "zh": "但在高排放情景下，到本世纪末升幅约为2米。"
+    },
+    {
+      "id": 228,
+      "startMs": 1247400,
+      "endMs": 1253240,
+      "en": "And then if you look at an even longer time scale, by 2300, 15 metres.",
+      "zh": "如果看更长的时间尺度，到2300年，可能上升15米。"
+    },
+    {
+      "id": 229,
+      "startMs": 1253260,
+      "endMs": 1260940,
+      "en": "Wow, I mean, Inez, as you're talking, the numbers that you're throwing out there just sound quite mind-boggling.",
+      "zh": "哇，伊内丝，你说的这些数字听起来确实令人难以置信。"
+    },
+    {
+      "id": 230,
+      "startMs": 1261180,
+      "endMs": 1265500,
+      "en": "Yeah, and it will have really large implications for coastal communities around the world.",
+      "zh": "是的，这将对世界各地的沿海社区产生巨大影响。"
+    },
+    {
+      "id": 231,
+      "startMs": 1265580,
+      "endMs": 1270620,
+      "en": "Because we know that about 40% of the global population are living in coastal areas.",
+      "zh": "因为我们知道全球约有40%的人口生活在沿海地区。"
+    },
+    {
+      "id": 232,
+      "startMs": 1271180,
+      "endMs": 1278220,
+      "en": "So it really shows that we urgently need to develop plans for protecting our coastal communities from the impact of ice melting.",
+      "zh": "这表明我们迫切需要制定计划，保护沿海社区免受冰盖融化的影响。"
+    },
+    {
+      "id": 233,
+      "startMs": 1278780,
+      "endMs": 1280780,
+      "en": "Ice scientist Ines Otosaka.",
+      "zh": "冰川科学家伊内丝·奥托萨卡。"
+    },
+    {
+      "id": 234,
+      "startMs": 1282120,
+      "endMs": 1288840,
+      "en": "Scientists have discovered a new species of wildcat hiding in plain sight in the forests of Bolivia.",
+      "zh": "科学家在玻利维亚森林中发现了一种一直隐藏在眼前的新野猫物种。"
+    },
+    {
+      "id": 235,
+      "startMs": 1289320,
+      "endMs": 1297000,
+      "en": "The small feline with leopard-like spots was long mistaken for another kind of tiger cat normally found in Brazil,",
+      "zh": "这种带有豹状斑纹的小型猫科动物长期被误认为是巴西常见的另一种虎猫，直到DNA检测显示这只玻利维亚猫是独立物种。"
+    },
+    {
+      "id": 236,
+      "startMs": 1297400,
+      "endMs": 1302200,
+      "en": "Until DNA testing revealed the Bolivian cat was a species all of its own.",
+      "zh": "直到DNA检测显示，这只玻利维亚猫是独立物种。"
+    },
+    {
+      "id": 237,
+      "startMs": 1302600,
+      "endMs": 1309880,
+      "en": "Helen Briggs tells us more. The story starts with a cat nicknamed Tigrino living at a rescue sanctuary in Bolivia.",
+      "zh": "海伦·布里格斯带来更多报道。故事始于一只住在玻利维亚救助站、绰号为蒂格里诺的猫。"
+    },
+    {
+      "id": 238,
+      "startMs": 1310200,
+      "endMs": 1317160,
+      "en": "Researchers noticed something unusual about his markings, but since tiger cats have very similar spots and stripes,",
+      "zh": "研究人员注意到它的斑纹不同寻常，但虎猫的斑点和条纹非常相似，"
+    },
+    {
+      "id": 239,
+      "startMs": 1317320,
+      "endMs": 1320040,
+      "en": "even experts can struggle to tell them apart.",
+      "zh": "连专家也很难分辨。"
+    },
+    {
+      "id": 240,
+      "startMs": 1320520,
+      "endMs": 1327640,
+      "en": "To solve the mystery, the scientists compared DNA from living tiger cats with samples from museum collections,",
+      "zh": "为解开谜团，科学家将现存虎猫的DNA与博物馆藏品样本进行比较，"
+    },
+    {
+      "id": 241,
+      "startMs": 1327960,
+      "endMs": 1335160,
+      "en": "and the results show that Tigrino belongs to a distinct species, now named Leopardus pardinoides.",
+      "zh": "结果显示，蒂格里诺属于一个独立物种，现命名为 Leopardus pardinoides。"
+    },
+    {
+      "id": 242,
+      "startMs": 1335480,
+      "endMs": 1342620,
+      "en": "He's the only known living tiger cat of his kind, though there are thought to be more living wild in the forests.",
+      "zh": "它是目前已知唯一存活的同类虎猫，不过野外森林中可能还有更多。"
+    },
+    {
+      "id": 243,
+      "startMs": 1342860,
+      "endMs": 1349500,
+      "en": "Dr. Paola Nogales-Ascarrunz says it shows how much we still have left to discover.",
+      "zh": "保拉·诺加莱斯-阿斯卡伦斯博士说，这说明我们仍有许多未知事物等待发现。"
+    },
+    {
+      "id": 244,
+      "startMs": 1349740,
+      "endMs": 1353900,
+      "en": "For me, it's amazing that there are still new species waiting to be discovered.",
+      "zh": "对我来说，仍有新物种等待发现，实在令人惊叹。"
+    },
+    {
+      "id": 245,
+      "startMs": 1354220,
+      "endMs": 1360300,
+      "en": "So we don't have to go to a volcano or an island or deep in the sea; we have it around us.",
+      "zh": "所以我们不必去火山、岛屿或深海寻找；它们就在我们身边。"
+    },
+    {
+      "id": 246,
+      "startMs": 1360540,
+      "endMs": 1363180,
+      "en": "Researchers say this is only the first step.",
+      "zh": "研究人员说，这只是第一步。"
+    },
+    {
+      "id": 247,
+      "startMs": 1363340,
+      "endMs": 1368060,
+      "en": "They need to find how many of these tiger cats exist and how to protect them.",
+      "zh": "他们需要查明这种虎猫有多少只，以及如何保护它们。"
+    },
+    {
+      "id": 248,
+      "startMs": 1368900,
+      "endMs": 1380100,
+      "en": "Helen Briggs. One of Syria's biggest stars, the singer Assala, has performed in the capital Damascus on her first return to the country for 15 years.",
+      "zh": "海伦·布里格斯报道。叙利亚最知名的明星之一、歌手阿萨拉，在离开叙利亚15年后首次回国，在首都大马士革演出。"
+    },
+    {
+      "id": 249,
+      "startMs": 1380580,
+      "endMs": 1388580,
+      "en": "Assala openly expressed her fierce opposition to the regime of Bashar al-Assad as the uprising against his rule began.",
+      "zh": "叙利亚反对其统治的起义开始时，阿萨拉公开表达了对巴沙尔·阿萨德政权的强烈反对。"
+    },
+    {
+      "id": 250,
+      "startMs": 1389060,
+      "endMs": 1396340,
+      "en": "She was not based in Syria at the time, but her opposition led to what was effectively a ban on her return to the country.",
+      "zh": "当时她并不在叙利亚，但她的反对立场实际上导致她被禁止回国。"
+    },
+    {
+      "id": 251,
+      "startMs": 1396900,
+      "endMs": 1400500,
+      "en": "Our Middle East analyst Sebastian Usher told Pete Ross more about her.",
+      "zh": "我们的中东分析员塞巴斯蒂安·厄舍向皮特·罗斯进一步介绍了她的情况。"
+    },
+    {
+      "id": 252,
+      "startMs": 1400980,
+      "endMs": 1406340,
+      "en": "These are big, big stars, the Arab female pop singers, and she's one of the biggest.",
+      "zh": "阿拉伯女歌手都是大明星，而她是其中最顶尖的之一。"
+    },
+    {
+      "id": 253,
+      "startMs": 1406340,
+      "endMs": 1413140,
+      "en": "I mean, as she's known by one name, Assala. She has an extraordinary voice.",
+      "zh": "她以一个名字为人所知，那就是阿萨拉。她拥有非凡的嗓音。"
+    },
+    {
+      "id": 254,
+      "startMs": 1413460,
+      "endMs": 1420420,
+      "en": "She's a little different in her sound from a lot of the other big Arab singers who sound a little bit the same.",
+      "zh": "她的声音与许多听起来有些相似的其他阿拉伯大牌歌手略有不同。"
+    },
+    {
+      "id": 255,
+      "startMs": 1420420,
+      "endMs": 1422020,
+      "en": "She's got a special timbre to her.",
+      "zh": "她的音色很特别。"
+    },
+    {
+      "id": 256,
+      "startMs": 1422820,
+      "endMs": 1425780,
+      "en": "And she has been out of Syria for quite some time now.",
+      "zh": "她已经离开叙利亚相当长一段时间了。"
+    },
+    {
+      "id": 257,
+      "startMs": 1425780,
+      "endMs": 1428580,
+      "en": "What were the circumstances that led to her leaving the country?",
+      "zh": "是什么情况导致她离开了这个国家？"
+    },
+    {
+      "id": 258,
+      "startMs": 1428840,
+      "endMs": 1433240,
+      "en": "Before the uprising began in 2011, she was able to come and go to Syria.",
+      "zh": "2011年起义开始前，她可以自由往返叙利亚。"
+    },
+    {
+      "id": 259,
+      "startMs": 1433480,
+      "endMs": 1441240,
+      "en": "That stopped when the uprising began against President Assad. He tried to put it down, and she spoke out against it.",
+      "zh": "起义反对阿萨德总统后，这种往返停止了。他试图镇压起义，她则公开反对。"
+    },
+    {
+      "id": 260,
+      "startMs": 1441480,
+      "endMs": 1446200,
+      "en": "And one of her songs became one of those sounds.",
+      "zh": "她的一首歌成了那场起义的声音之一。"
+    },
+    {
+      "id": 261,
+      "startMs": 1446520,
+      "endMs": 1450600,
+      "en": "People involved in the uprising at the time played and sang along to that sound.",
+      "zh": "当时参与起义的人播放这首歌，并跟着一起唱。"
+    },
+    {
+      "id": 262,
+      "startMs": 1450840,
+      "endMs": 1455640,
+      "en": "So she wasn't welcome back in Syria.",
+      "zh": "所以她不受欢迎，无法回到叙利亚。"
+    },
+    {
+      "id": 263,
+      "startMs": 1456040,
+      "endMs": 1459320,
+      "en": "She even faced trouble when she was passing through Beirut Airport.",
+      "zh": "她途经贝鲁特机场时甚至遇到了麻烦。"
+    },
+    {
+      "id": 264,
+      "startMs": 1459560,
+      "endMs": 1466520,
+      "en": "Beirut Airport has been at certain times pretty much under the control of Hezbollah, which obviously was backing President Assad.",
+      "zh": "贝鲁特机场有时几乎处于真主党控制之下，而真主党显然支持阿萨德总统。"
+    },
+    {
+      "id": 265,
+      "startMs": 1467000,
+      "endMs": 1471400,
+      "en": "That gives a sense of how the tentacles of the Assad regime were reaching out to her.",
+      "zh": "这让人感受到阿萨德政权的触角是如何伸向她的。"
+    },
+    {
+      "id": 266,
+      "startMs": 1471960,
+      "endMs": 1477240,
+      "en": "So this is a big moment. She's been in Damascus for the past couple of days, and she'll play a couple more concerts.",
+      "zh": "所以这是一个重要时刻。她过去几天一直在大马士革，还将再举办几场音乐会。"
+    },
+    {
+      "id": 267,
+      "startMs": 1477240,
+      "endMs": 1480600,
+      "en": "But there have been moments of emotional significance for her.",
+      "zh": "但这段经历中也有一些对她意义深重的感人时刻。"
+    },
+    {
+      "id": 268,
+      "startMs": 1480600,
+      "endMs": 1485480,
+      "en": "She needs to be back. One particular moment involved her father, who was a very well-known oud player.",
+      "zh": "她需要回到这里。其中一个特别的时刻与她的父亲有关；她的父亲是一位非常知名的乌德琴演奏家。"
+    },
+    {
+      "id": 269,
+      "startMs": 1485960,
+      "endMs": 1489020,
+      "en": "And I don't know if this was set up or stage-managed.",
+      "zh": "我不知道这是否是安排好的，或经过了幕后策划。"
+    },
+    {
+      "id": 270,
+      "startMs": 1489660,
+      "endMs": 1495340,
+      "en": "But she went into the old souk, the old market in Damascus, and there was a guy there in an antique shop.",
+      "zh": "但她走进了大马士革的老苏克，也就是老市场；那里一家古董店里有个人。"
+    },
+    {
+      "id": 271,
+      "startMs": 1495420,
+      "endMs": 1498140,
+      "en": "He said, 'I've got something for you,' and it was the oud.",
+      "zh": "他说：“我有样东西要给你。”那正是那把乌德琴。"
+    },
+    {
+      "id": 272,
+      "startMs": 1498380,
+      "endMs": 1502300,
+      "en": "It was the oud that her father played, which she hadn't seen for all those years.",
+      "zh": "那是她父亲演奏过的乌德琴，她已经多年未曾见到。"
+    },
+    {
+      "id": 273,
+      "startMs": 1502300,
+      "endMs": 1504140,
+      "en": "He said, 'I've kept it for 13 years.'",
+      "zh": "他说：“我替你保存了13年。”"
+    },
+    {
+      "id": 274,
+      "startMs": 1504300,
+      "endMs": 1509260,
+      "en": "So that's the kind of thing that kind of points to this sort of artistic and cultural renewal.",
+      "zh": "所以，这类事情似乎体现了某种艺术和文化复兴。"
+    },
+    {
+      "id": 275,
+      "startMs": 1509340,
+      "endMs": 1512460,
+      "en": "That's perhaps happening in Syria, but it's not all that, though, is it?",
+      "zh": "这或许正在叙利亚发生，但事情并不完全如此，对吧？"
+    },
+    {
+      "id": 276,
+      "startMs": 1512860,
+      "endMs": 1518460,
+      "en": "As you can imagine, the culture ministry is very much selling this as being part of that renewal.",
+      "zh": "可以想见，文化部正大力宣传这是复兴的一部分。"
+    },
+    {
+      "id": 277,
+      "startMs": 1518700,
+      "endMs": 1524060,
+      "en": "And the more big names you can bring back, it's also part of trying to make Syria seem like a normal country again.",
+      "zh": "能带回的名人越多，也越能让叙利亚重新显得像一个正常国家。"
+    },
+    {
+      "id": 278,
+      "startMs": 1524380,
+      "endMs": 1529660,
+      "en": "They want people to go back. They want tourism, but it's not all roses for her being there.",
+      "zh": "他们希望人们回去，也希望发展旅游业，但她在那里并非一切顺利。"
+    },
+    {
+      "id": 279,
+      "startMs": 1530060,
+      "endMs": 1538860,
+      "en": "One concern when the new leadership took over was its roots in jihadism and extreme Islamic ideology.",
+      "zh": "新领导层接管后，人们担心其根源在于圣战主义和极端伊斯兰意识形态。"
+    },
+    {
+      "id": 280,
+      "startMs": 1539340,
+      "endMs": 1541900,
+      "en": "People feared, you know, that alcohol would be banned.",
+      "zh": "人们担心酒精饮品会被禁，当然，你知道。"
+    },
+    {
+      "id": 281,
+      "startMs": 1542220,
+      "endMs": 1546380,
+      "en": "Singing, dancing, all that kind of thing hasn't happened to any major degree.",
+      "zh": "唱歌、跳舞之类的事，并未在很大程度上受到禁止。"
+    },
+    {
+      "id": 282,
+      "startMs": 1546380,
+      "endMs": 1551600,
+      "en": "It has happened to some degree, and so you do have voices that are speaking out against her being there.",
+      "zh": "这种情况确实在一定程度上发生了，所以确实有声音公开反对她出现在那里。"
+    },
+    {
+      "id": 283,
+      "startMs": 1552160,
+      "endMs": 1558480,
+      "en": "Another major thing Syria's new leadership is trying to do is bring back a sense of unity to the fractured country.",
+      "zh": "叙利亚新领导层正在努力做的另一件大事，是让这个四分五裂的国家重新找回团结感。"
+    },
+    {
+      "id": 284,
+      "startMs": 1559040,
+      "endMs": 1563200,
+      "en": "And Assala plays into this very well because her latest album is called The Syrian Album.",
+      "zh": "阿萨拉很好地契合了这一点，因为她的最新专辑名为《叙利亚专辑》。"
+    },
+    {
+      "id": 285,
+      "startMs": 1563680,
+      "endMs": 1568320,
+      "en": "You even hear her when she sings; she sings in different dialects, and her voice changes.",
+      "zh": "她唱歌时甚至能听出这一点：她用不同方言演唱，声音也会改变。"
+    },
+    {
+      "id": 286,
+      "startMs": 1568480,
+      "endMs": 1571520,
+      "en": "There's a kind of texture to it that changes according to those regions.",
+      "zh": "她的声音有一种质感，会随这些地区而变化。"
+    },
+    {
+      "id": 287,
+      "startMs": 1571920,
+      "endMs": 1579200,
+      "en": "So she is trying to represent a sense, both personally, of her reconnection with those roots, but potentially a model for Syria.",
+      "zh": "所以她既是在个人层面重新连接自己的根，也可能是在为叙利亚提供一种模式。"
+    },
+    {
+      "id": 288,
+      "startMs": 1579280,
+      "endMs": 1581040,
+      "en": "To follow. Sebastian Usher.",
+      "zh": "值得叙利亚效仿。塞巴斯蒂安·厄舍。"
+    },
+    {
+      "id": 289,
+      "startMs": 1582240,
+      "endMs": 1590800,
+      "en": "And finally, the late Dolly Parton has been recognized with a posthumous Lifetime Achievement Award after her death last month.",
+      "zh": "最后，已故的多莉·帕顿在上月去世后，获追授终身成就奖。"
+    },
+    {
+      "id": 290,
+      "startMs": 1590880,
+      "endMs": 1596080,
+      "en": "She was 80 years old when the Americana Music Honors & Awards took place in Nashville on Wednesday.",
+      "zh": "周三在纳什维尔举行 Americana Music Honors & Awards 时，她已享年80岁。"
+    },
+    {
+      "id": 291,
+      "startMs": 1596480,
+      "endMs": 1600000,
+      "en": "She was remembered for her songwriting and pure mountain voice.",
+      "zh": "人们缅怀她的歌曲创作和纯粹的山地嗓音。"
+    },
+    {
+      "id": 292,
+      "startMs": 1600560,
+      "endMs": 1606640,
+      "en": "As well as her Imagination Library book-giving initiative and her funding of COVID vaccine research.",
+      "zh": "也缅怀她发起的 Imagination Library 赠书计划，以及她对新冠疫苗研究的资助。"
+    },
+    {
+      "id": 293,
+      "startMs": 1607360,
+      "endMs": 1613680,
+      "en": "The award was obviously planned some time ago, because midway through the ceremony there was a gasp in the audience.",
+      "zh": "这个奖项显然早已计划，因为典礼进行到一半时，观众席传来一阵惊呼。"
+    },
+    {
+      "id": 294,
+      "startMs": 1613760,
+      "endMs": 1622240,
+      "en": "When organizers played a video message from Dolly Parton, recorded before her death, accepting the Lifetime Achievement Prize.",
+      "zh": "主办方播放了多莉·帕顿生前录制的视频，她在其中接受终身成就奖。"
+    },
+    {
+      "id": 295,
+      "startMs": 1622640,
+      "endMs": 1629280,
+      "en": "Roots music, or what is now called Americana music, is what I grew up playing back in the Smoky Mountains.",
+      "zh": "根源音乐，也就是现在所称的 Americana 音乐，是我在大烟山长大时演奏的音乐。"
+    },
+    {
+      "id": 296,
+      "startMs": 1629960,
+      "endMs": 1635800,
+      "en": "And I want to thank everybody at the AMA for recognizing me with this award.",
+      "zh": "我要感谢 AMA 的每一个人授予我这个奖项。"
+    },
+    {
+      "id": 297,
+      "startMs": 1636120,
+      "endMs": 1640200,
+      "en": "It's a great honor, truly. And just know that I will always love you.",
+      "zh": "这确实是莫大的荣誉。请知道，我永远爱你们。"
+    },
+    {
+      "id": 298,
+      "startMs": 1640200,
+      "endMs": 1642760,
+      "en": "The late, great Dolly Parton.",
+      "zh": "已故的伟大歌手多莉·帕顿。"
+    },
+    {
+      "id": 299,
+      "startMs": 1645080,
+      "endMs": 1652120,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是我们目前的全部内容。如果你想联系我们，可以发送电子邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 300,
+      "startMs": 1652120,
+      "endMs": 1655560,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "也可以在 X 上找到 BBC World Service。"
+    },
+    {
+      "id": 301,
+      "startMs": 1655960,
+      "endMs": 1658040,
+      "en": "Use the hashtag #GlobalNewsPod.",
+      "zh": "请使用话题标签 #GlobalNewsPod。"
+    },
+    {
+      "id": 302,
+      "startMs": 1658040,
+      "endMs": 1662600,
+      "en": "This edition of the Global News Podcast was mixed by Johnny Hall, and the producer was Rebecca Wood.",
+      "zh": "本期《全球新闻播客》由约翰尼·霍尔混音，制片人是丽贝卡·伍德。"
+    },
+    {
+      "id": 303,
+      "startMs": 1663080,
+      "endMs": 1667480,
+      "en": "The editor is Karen Martin. I am Celia Hatton. Until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁。我是西莉娅·哈顿。下次再见。"
+    }
+  ]
+}

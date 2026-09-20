@@ -1,0 +1,1628 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "19 September 2026"
+  },
+  "durationMs": 1315620,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3440,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是BBC世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5880,
+      "endMs": 11800,
+      "en": "I'm Celia Hatton, and in the early hours of Saturday, September 19th, these are our main stories.",
+      "zh": "我是西莉亚·哈顿。现在是9月19日星期六凌晨，以下是本台主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11800,
+      "endMs": 18920,
+      "en": "And the governor of California, Gavin Newsom, wants more safety rules around AI, perhaps even a kill switch.",
+      "zh": "加州州长加文·纽瑟姆希望加强人工智能安全规则，甚至可能设置“关闭开关”。"
+    },
+    {
+      "id": 4,
+      "startMs": 21120,
+      "endMs": 28720,
+      "en": "Also in this podcast: if anyone finds that fun, I'm not sure they understand games in the conventional definition.",
+      "zh": "本期还将谈到：如果有人觉得那很有趣，我不确定他们是否理解通常定义下的游戏。"
+    },
+    {
+      "id": 5,
+      "startMs": 29440,
+      "endMs": 34560,
+      "en": "A board game that's being played in England that's so complex, no one has ever finished it.",
+      "zh": "英国有人正在玩一种极其复杂的桌游，从来没人完成过一局。"
+    },
+    {
+      "id": 6,
+      "startMs": 34560,
+      "endMs": 38480,
+      "en": "We'll begin in Washington, where there's been a series of announcements from the White House.",
+      "zh": "我们先从华盛顿开始，白宫接连发布了多项消息。"
+    },
+    {
+      "id": 7,
+      "startMs": 38480,
+      "endMs": 45840,
+      "en": "And in another potentially important move, Mr Trump has banned a number of major media organizations from the White House.",
+      "zh": "另一项可能重要的举动是，特朗普禁止多家主要媒体机构进入白宫。"
+    },
+    {
+      "id": 8,
+      "startMs": 45840,
+      "endMs": 49760,
+      "en": "And Sarah, we are speaking to you on a big day for the White House press pool.",
+      "zh": "莎拉，今天对白宫记者团来说是重要的一天。"
+    },
+    {
+      "id": 9,
+      "startMs": 49760,
+      "endMs": 57860,
+      "en": "President Trump appears to have banned three news organizations, CNN, Politico, and MSNBC, from reporting from the White House.",
+      "zh": "特朗普总统似乎禁止三家新闻机构——CNN、《政客》和MSNBC——在白宫进行报道。"
+    },
+    {
+      "id": 10,
+      "startMs": 57860,
+      "endMs": 58820,
+      "en": "What more do you know?",
+      "zh": "你还了解到什么？"
+    },
+    {
+      "id": 11,
+      "startMs": 59220,
+      "endMs": 66260,
+      "en": "Well, he announced this in a Truth Social post on social media, saying that he was sick of their constant fake news reporting",
+      "zh": "他在社交媒体Truth Social上发帖宣布此事，说自己受够了这些媒体持续不断的假新闻报道。"
+    },
+    {
+      "id": 12,
+      "startMs": 66580,
+      "endMs": 70020,
+      "en": "and that these three media organizations would be banned from the White House.",
+      "zh": "并称这三家媒体机构将被禁止进入白宫。"
+    },
+    {
+      "id": 13,
+      "startMs": 70020,
+      "endMs": 76740,
+      "en": "And then he took questions in the Oval Office from some other reporters who were in there and didn't give us a huge amount of detail.",
+      "zh": "随后，他在椭圆形办公室接受了在场其他记者的提问，但没有向我们透露太多细节。"
+    },
+    {
+      "id": 14,
+      "startMs": 76740,
+      "endMs": 81860,
+      "en": "So we don't know whether these organizations are banned from the grounds of the White House",
+      "zh": "所以我们不知道，这些机构是否被禁止进入白宫园区，"
+    },
+    {
+      "id": 15,
+      "startMs": 82020,
+      "endMs": 90500,
+      "en": "and from the press briefing room, or whether it is only from the Oval Office, from press conferences, and traveling with President Trump on Air Force One.",
+      "zh": "还是只被禁止进入椭圆形办公室、参加新闻发布会以及乘坐空军一号随特朗普总统出行。"
+    },
+    {
+      "id": 16,
+      "startMs": 90980,
+      "endMs": 94580,
+      "en": "He also said there was no particular reason why he was doing this now.",
+      "zh": "他还说，自己现在这样做没有什么特别的原因。"
+    },
+    {
+      "id": 17,
+      "startMs": 94660,
+      "endMs": 99700,
+      "en": "There was no individual story that he was taking objection to that had prompted him to do this move.",
+      "zh": "也没有哪一篇具体报道引起他的反感，促使他采取这一行动。"
+    },
+    {
+      "id": 18,
+      "startMs": 99700,
+      "endMs": 106420,
+      "en": "He just said that the constant negative and fake reporting had annoyed him so much he wanted to take this action",
+      "zh": "他只是说，持续不断的负面和虚假报道让他非常恼火，因此想采取这一行动，"
+    },
+    {
+      "id": 19,
+      "startMs": 106420,
+      "endMs": 110660,
+      "en": "because he said it was diminishing his Republican Party.",
+      "zh": "因为他说，这正在削弱共和党。"
+    },
+    {
+      "id": 20,
+      "startMs": 110660,
+      "endMs": 115960,
+      "en": "And, of course, it is worth remembering that we're only a few weeks away from some crucial midterm elections.",
+      "zh": "当然，值得记住的是，距离几场关键的中期选举已经只有几周时间。"
+    },
+    {
+      "id": 21,
+      "startMs": 115960,
+      "endMs": 121240,
+      "en": "He did mention the possibility that he might want to go on and ban other organizations.",
+      "zh": "他确实提到，可能还想继续禁止其他机构。"
+    },
+    {
+      "id": 22,
+      "startMs": 121240,
+      "endMs": 127480,
+      "en": "He mentioned off the top of his head the New York Times, the Washington Post and ourselves, and the BBC",
+      "zh": "有人问到时，他脱口提到了《纽约时报》、《华盛顿邮报》、我们以及BBC，"
+    },
+    {
+      "id": 23,
+      "startMs": 127480,
+      "endMs": 131160,
+      "en": "all of whom he said were purveyors of fake news,",
+      "zh": "他说这些都是假新闻的传播者，"
+    },
+    {
+      "id": 24,
+      "startMs": 131240,
+      "endMs": 136120,
+      "en": "but he doesn't appear to be making a move in that direction at the moment. Our North America editor, Sarah Smith.",
+      "zh": "但目前看来，他并没有朝这个方向采取行动。我们的北美编辑莎拉·史密斯。"
+    },
+    {
+      "id": 25,
+      "startMs": 136120,
+      "endMs": 144040,
+      "en": "For weeks now, we've heard warning after warning about artificial intelligence and the potential threat it poses to humanity.",
+      "zh": "几周以来，我们不断听到关于人工智能及其可能对人类构成威胁的警告。"
+    },
+    {
+      "id": 26,
+      "startMs": 144680,
+      "endMs": 148040,
+      "en": "Many of the world's biggest AI companies are based in California",
+      "zh": "世界上许多最大的人工智能公司都位于加利福尼亚，"
+    },
+    {
+      "id": 27,
+      "startMs": 148280,
+      "endMs": 157480,
+      "en": "and now the state's Democratic Governor, Gavin Newsom, has announced he's setting up a panel to look at ways to strengthen safety rules around the technology",
+      "zh": "如今该州的民主党州长加文·纽森宣布，将成立一个小组，研究加强这项技术安全规则的方法，"
+    },
+    {
+      "id": 28,
+      "startMs": 158040,
+      "endMs": 161480,
+      "en": "including the possibility of what's being called a kill switch.",
+      "zh": "其中包括设立所谓“关闭开关”的可能性。"
+    },
+    {
+      "id": 29,
+      "startMs": 161800,
+      "endMs": 168760,
+      "en": "In a video posted to social media, he called on Mike Johnson, the Republican House Speaker in Washington, to do the same.",
+      "zh": "他在社交媒体发布的一段视频中呼吁共和党籍众议院议长迈克·约翰逊也这样做。"
+    },
+    {
+      "id": 30,
+      "startMs": 169400,
+      "endMs": 173480,
+      "en": "We're going to convene experts to figure out the right path forward.",
+      "zh": "我们将召集专家，找出正确的前进方向。"
+    },
+    {
+      "id": 31,
+      "startMs": 173720,
+      "endMs": 181800,
+      "en": "California will do what it can, but this nation needs to get in the game. Washington, D.C. needs to do its job.",
+      "zh": "加州会尽其所能，但美国需要行动起来。华盛顿特区需要履行职责。"
+    },
+    {
+      "id": 32,
+      "startMs": 182040,
+      "endMs": 185240,
+      "en": "Remarkably, they left for a summer break.",
+      "zh": "令人惊讶的是，他们去过暑假了。"
+    },
+    {
+      "id": 33,
+      "startMs": 185240,
+      "endMs": 193240,
+      "en": "Mike Johnson should return from vacation and follow California's lead by passing national legislation. Get it done.",
+      "zh": "迈克·约翰逊应该结束休假，效仿加州通过全国性立法。把这件事办成。"
+    },
+    {
+      "id": 34,
+      "startMs": 193480,
+      "endMs": 200940,
+      "en": "Earlier in the week, Donald Trump said that fears about the safety of AI are a hoax and rejected calls for greater safeguards.",
+      "zh": "本周早些时候，唐纳德·特朗普称对人工智能安全的担忧是骗局，并拒绝了加强防护措施的呼吁。"
+    },
+    {
+      "id": 35,
+      "startMs": 201580,
+      "endMs": 209020,
+      "en": "Callie Hayes is our tech reporter in San Francisco. She told me more about what this panel in California might be exploring.",
+      "zh": "卡莉·海斯是我们驻旧金山的科技记者。她向我介绍了加州这个委员会可能探讨的内容。"
+    },
+    {
+      "id": 36,
+      "startMs": 209740,
+      "endMs": 215980,
+      "en": "I think some of the key things that they would be looking at would be, one,",
+      "zh": "我认为，他们要研究的几个关键事项之一是，"
+    },
+    {
+      "id": 37,
+      "startMs": 216300,
+      "endMs": 220620,
+      "en": "getting third parties to come in and actually look at these models as they're developed.",
+      "zh": "让第三方参与进来，实际查看这些模型的开发过程。"
+    },
+    {
+      "id": 38,
+      "startMs": 221020,
+      "endMs": 224380,
+      "en": "The models are the basis of, you know, things like AI chatbots.",
+      "zh": "这些模型是人工智能聊天机器人等事物的基础。"
+    },
+    {
+      "id": 39,
+      "startMs": 224940,
+      "endMs": 233260,
+      "en": "So just getting somebody that is not inside one of these companies coming in and being able to look at what is going into the training",
+      "zh": "所以，就是让不属于这些公司的外部人士参与进来，查看训练数据中加入了什么，"
+    },
+    {
+      "id": 40,
+      "startMs": 233660,
+      "endMs": 239020,
+      "en": "and saying, hey, that's maybe not the best idea, or don't you think that behavior is weird, that kind of a thing.",
+      "zh": "并指出：这或许不是最好的做法，或者说，这种行为难道不奇怪吗？大概就是这样。"
+    },
+    {
+      "id": 41,
+      "startMs": 239500,
+      "endMs": 246460,
+      "en": "But one of the biggest things that I think that people are starting to take seriously is this idea of a quote-unquote kill switch.",
+      "zh": "但我认为，人们开始认真对待的最大问题之一，就是所谓的“关闭开关”。"
+    },
+    {
+      "id": 42,
+      "startMs": 247100,
+      "endMs": 255980,
+      "en": "which sounds very dramatic, and it kind of is, but basically governments and authorities want some way to actually force",
+      "zh": "这听起来非常戏剧化，某种程度上确实如此；但基本上，各国政府和主管机构希望能强制"
+    },
+    {
+      "id": 43,
+      "startMs": 256000,
+      "endMs": 262960,
+      "en": "an AI company to turn off or shut down an AI tool that has started acting improperly.",
+      "zh": "人工智能公司关闭或停止一个已经开始不当运行的人工智能工具。"
+    },
+    {
+      "id": 44,
+      "startMs": 263200,
+      "endMs": 268800,
+      "en": "Do you think that this panel could reach any kind of agreement on this huge issue?",
+      "zh": "你认为这个委员会能就这一重大问题达成某种共识吗？"
+    },
+    {
+      "id": 45,
+      "startMs": 269120,
+      "endMs": 275440,
+      "en": "Tech bosses appear to be very split on how much regulation they'd like to see happen when it comes to AI.",
+      "zh": "科技公司老板们对于人工智能需要多少监管，似乎存在严重分歧。"
+    },
+    {
+      "id": 46,
+      "startMs": 275840,
+      "endMs": 279200,
+      "en": "I think any kind of broad agreement would be next to impossible.",
+      "zh": "我认为，达成任何广泛共识都几乎不可能。"
+    },
+    {
+      "id": 47,
+      "startMs": 279520,
+      "endMs": 283920,
+      "en": "I think they would definitely also fight tooth and nail against the idea of a kill switch.",
+      "zh": "我认为，他们肯定也会竭力反对设置关闭开关。"
+    },
+    {
+      "id": 48,
+      "startMs": 284480,
+      "endMs": 289920,
+      "en": "They really do not want outside people being able to tell them what to do, when.",
+      "zh": "他们确实不希望外部人士能够告诉他们该做什么、何时去做。"
+    },
+    {
+      "id": 49,
+      "startMs": 291020,
+      "endMs": 300220,
+      "en": "But that said, my cynical side coming out, there are things already agreed on regarding what needs to be done with AI safety,",
+      "zh": "不过，话虽如此，我悲观的一面认为，在人工智能安全需要做什么这件事上，已经有一些共识，"
+    },
+    {
+      "id": 50,
+      "startMs": 300620,
+      "endMs": 308460,
+      "en": "and the idea of third parties looking at models and having a say in what goes into them is gaining a lot of traction,",
+      "zh": "让第三方查看模型，并对模型中加入什么发表意见的想法，正获得越来越多支持，"
+    },
+    {
+      "id": 51,
+      "startMs": 308460,
+      "endMs": 313740,
+      "en": "and I think there has already kind of turned up a consensus that this would be a good idea.",
+      "zh": "我认为，人们已经逐渐形成共识，认为这会是个好主意。"
+    },
+    {
+      "id": 52,
+      "startMs": 314140,
+      "endMs": 319980,
+      "en": "But President Trump doesn't appear keen to regulate the market at all, and we also have to remember that",
+      "zh": "但特朗普总统似乎完全不愿监管市场；还要记住，"
+    },
+    {
+      "id": 53,
+      "startMs": 320060,
+      "endMs": 325980,
+      "en": "President Trump and Gavin Newsom, the governor of California, are political rivals.",
+      "zh": "特朗普总统和加州州长加文·纽森是政治对手。"
+    },
+    {
+      "id": 54,
+      "startMs": 326460,
+      "endMs": 331260,
+      "en": "They are political rivals, but it's funny that they tend to listen to the same people.",
+      "zh": "他们是政治对手，但有趣的是，他们往往听取同一批人的意见。"
+    },
+    {
+      "id": 55,
+      "startMs": 331900,
+      "endMs": 339660,
+      "en": "I mean, Trump definitely has been vehement that he does not want to have any involvement in regulating AI at all,",
+      "zh": "我的意思是，特朗普一直强烈表示，他完全不想参与人工智能监管，"
+    },
+    {
+      "id": 56,
+      "startMs": 340300,
+      "endMs": 344700,
+      "en": "and he has a lot of very powerful, very wealthy people in tech.",
+      "zh": "而科技行业有许多权势显赫、极其富有的人，"
+    },
+    {
+      "id": 57,
+      "startMs": 345260,
+      "endMs": 351440,
+      "en": "speaking to him directly quite often and kind of pleading their case that they, you know, really can handle this themselves.",
+      "zh": "经常直接与他交谈，替自己陈情，说他们确实可以自行处理。"
+    },
+    {
+      "id": 58,
+      "startMs": 352000,
+      "endMs": 355200,
+      "en": "But, you know, Newsom definitely has ties to big tech.",
+      "zh": "不过，纽森显然与大型科技企业有联系。"
+    },
+    {
+      "id": 59,
+      "startMs": 355200,
+      "endMs": 357600,
+      "en": "He has ties to Meta, he has ties to Google.",
+      "zh": "他与Meta和谷歌都有联系。"
+    },
+    {
+      "id": 60,
+      "startMs": 358000,
+      "endMs": 367040,
+      "en": "He takes money from these places, so they are political rivals, but they're kind of coming at this from the same group of people.",
+      "zh": "他从这些地方获得资金，所以他们虽是政治对手，却似乎都在回应同一群人的诉求。"
+    },
+    {
+      "id": 61,
+      "startMs": 367040,
+      "endMs": 373200,
+      "en": "So it will be interesting to see where California actually ends up landing on this, especially as Newsom is leaving office.",
+      "zh": "因此，加州最终会在这个问题上采取什么立场，值得关注，尤其是纽森即将离任。"
+    },
+    {
+      "id": 62,
+      "startMs": 373440,
+      "endMs": 374160,
+      "en": "Callie Hayes.",
+      "zh": "卡莉·海斯。"
+    },
+    {
+      "id": 63,
+      "startMs": 376700,
+      "endMs": 383820,
+      "en": "Still to come in this podcast, he has proselytized for years the notion of long-term value investing.",
+      "zh": "本期节目稍后：他多年来一直倡导长期价值投资理念。"
+    },
+    {
+      "id": 64,
+      "startMs": 383820,
+      "endMs": 388700,
+      "en": "So the whole idea is to hold on to companies and investments for decades.",
+      "zh": "这一理念就是长期持有公司和投资数十年。"
+    },
+    {
+      "id": 65,
+      "startMs": 389340,
+      "endMs": 396380,
+      "en": "The sage of Omaha, Warren Buffett, is stepping down from the investment company he's led for more than six decades.",
+      "zh": "“奥马哈先知”沃伦·巴菲特将卸任这家由他领导了六十多年的投资公司。"
+    },
+    {
+      "id": 66,
+      "startMs": 396380,
+      "endMs": 398140,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 67,
+      "startMs": 398140,
+      "endMs": 402140,
+      "en": "Protesters outside Turkey's embassy in London on Friday.",
+      "zh": "周五，抗议者聚集在土耳其驻伦敦大使馆外。"
+    },
+    {
+      "id": 68,
+      "startMs": 402540,
+      "endMs": 409580,
+      "en": "They're angry at a crackdown on the LGBTQ community ordered by the Turkish president, Recep Tayyip Erdogan.",
+      "zh": "他们对土耳其总统雷杰普·塔伊普·埃尔多安下令打压LGBTQ群体感到愤怒。"
+    },
+    {
+      "id": 69,
+      "startMs": 409740,
+      "endMs": 415420,
+      "en": "Hundreds of people have been detained across Turkey this week following sweeping government raids.",
+      "zh": "本周，土耳其各地在政府大规模突袭后已有数百人被拘留。"
+    },
+    {
+      "id": 70,
+      "startMs": 416060,
+      "endMs": 420540,
+      "en": "Emily Withers is a journalist covering the story in Turkey. She spoke to Sean Lay.",
+      "zh": "艾米莉·威瑟斯是一名报道土耳其这起事件的记者。她接受了肖恩·莱的采访。"
+    },
+    {
+      "id": 71,
+      "startMs": 421100,
+      "endMs": 427980,
+      "en": "Well, I should start by saying, Sean, that life has been pretty tough for LGBTQI+ people here for some time.",
+      "zh": "肖恩，我首先要说的是，LGBTQI+群体在这里的生活艰难已经有一段时间了。"
+    },
+    {
+      "id": 72,
+      "startMs": 428300,
+      "endMs": 432540,
+      "en": "So, Pride, for example, in this country has been banned since 2015.",
+      "zh": "比如，这个国家的骄傲游行自2015年以来就一直被禁止。"
+    },
+    {
+      "id": 73,
+      "startMs": 433020,
+      "endMs": 438460,
+      "en": "Turkey doesn't recognize same-sex marriage, but same-sex relations are not illegal here.",
+      "zh": "土耳其不承认同性婚姻，但同性关系在这里并不违法。"
+    },
+    {
+      "id": 74,
+      "startMs": 439020,
+      "endMs": 444300,
+      "en": "But what we saw over the weekend and into the start of this week is really unprecedented.",
+      "zh": "但我们在上周末和本周初看到的情况确实前所未有。"
+    },
+    {
+      "id": 75,
+      "startMs": 444380,
+      "endMs": 447500,
+      "en": "This is a massive crackdown on this community.",
+      "zh": "这是对这一群体的大规模打压。"
+    },
+    {
+      "id": 76,
+      "startMs": 447740,
+      "endMs": 450540,
+      "en": "So over 160 people were detained.",
+      "zh": "超过160人被拘留。"
+    },
+    {
+      "id": 77,
+      "startMs": 450940,
+      "endMs": 457500,
+      "en": "Associations were raided, bars which are LGBTQ+ friendly were raided, and then there was this.",
+      "zh": "一些协会遭到突袭，支持LGBTQ+群体的酒吧也被突袭，随后出现了这段画面。"
+    },
+    {
+      "id": 78,
+      "startMs": 457680,
+      "endMs": 465840,
+      "en": "That was released from the Justice Ministry, which showed police officers searching offices and confiscating rainbow flags.",
+      "zh": "画面由司法部发布，显示警察搜查办公室并没收彩虹旗。"
+    },
+    {
+      "id": 79,
+      "startMs": 466640,
+      "endMs": 468960,
+      "en": "They say to protect children and family.",
+      "zh": "他们称这是为了保护儿童和家庭。"
+    },
+    {
+      "id": 80,
+      "startMs": 469280,
+      "endMs": 475680,
+      "en": "And then later in this week, when some of these court cases started happening, these people were being held in pre-trial detention.",
+      "zh": "本周晚些时候，随着一些案件开始审理，这些人被拘留候审。"
+    },
+    {
+      "id": 81,
+      "startMs": 476160,
+      "endMs": 485360,
+      "en": "There were small protests outside courtrooms in Ankara and Istanbul, and the authorities arrested over 100 people who came out to show solidarity.",
+      "zh": "安卡拉和伊斯坦布尔的法庭外出现小规模抗议，当局随后逮捕了100多名声援者。"
+    },
+    {
+      "id": 82,
+      "startMs": 485680,
+      "endMs": 493280,
+      "en": "So these events have really sent a chill through the LGBTQ society here, that life for them is about to get a lot harder.",
+      "zh": "所以，这些事件让这里的 LGBTQ 群体感到寒意，他们的生活将变得更加艰难。"
+    },
+    {
+      "id": 83,
+      "startMs": 493520,
+      "endMs": 502640,
+      "en": "Last year, President Recep Tayyip Erdogan designated 2025 as the Year of the Family, encouraging people to have more children.",
+      "zh": "去年，雷杰普·塔伊普·埃尔多安总统将2025年定为“家庭年”，鼓励人们多生孩子。"
+    },
+    {
+      "id": 84,
+      "startMs": 502960,
+      "endMs": 509600,
+      "en": "Is he kind of blaming the LGBTQ community in some way for the fact that the birth rate in Turkey has been falling?",
+      "zh": "他是否在某种程度上把土耳其出生率下降归咎于 LGBTQ 群体？"
+    },
+    {
+      "id": 85,
+      "startMs": 510240,
+      "endMs": 517520,
+      "en": "Yes, that's right. So, like many countries around the world, people in Turkey are not having as many babies as the government would like.",
+      "zh": "是的。和世界许多国家一样，土耳其人的生育数量没有达到政府希望的水平。"
+    },
+    {
+      "id": 86,
+      "startMs": 517700,
+      "endMs": 522340,
+      "en": "So there's been this Year of the Family last year, that's now been extended by the government here.",
+      "zh": "去年有“家庭年”，如今这里的政府又延长了这一活动。"
+    },
+    {
+      "id": 87,
+      "startMs": 522660,
+      "endMs": 526740,
+      "en": "So it's a decade where they're going to be pushing people to have at least three children.",
+      "zh": "这意味着未来十年，他们将推动人们至少生育三个孩子。"
+    },
+    {
+      "id": 88,
+      "startMs": 527060,
+      "endMs": 533060,
+      "en": "And they've partly blamed the drop in people having children here on the LGBTQ+ community.",
+      "zh": "他们还把这里生育人数的下降部分归咎于 LGBTQ+ 群体。"
+    },
+    {
+      "id": 89,
+      "startMs": 534020,
+      "endMs": 541540,
+      "en": "Erdogan has made many speeches over the last year or so, where he has warned that society risks moral decay",
+      "zh": "过去一年左右，埃尔多安多次发表演讲，警告社会面临道德堕落的风险，"
+    },
+    {
+      "id": 90,
+      "startMs": 541540,
+      "endMs": 547380,
+      "en": "and that this decay is spreading from individuals to families, and then from families to society.",
+      "zh": "并称这种堕落正从个人蔓延到家庭，再从家庭蔓延到社会。"
+    },
+    {
+      "id": 91,
+      "startMs": 547620,
+      "endMs": 554660,
+      "en": "The language that the politicians use here now against this community is really quite shocking. It is effectively hate speech.",
+      "zh": "如今这里政客针对这一群体使用的语言令人震惊，实际上就是仇恨言论。"
+    },
+    {
+      "id": 92,
+      "startMs": 554740,
+      "endMs": 560420,
+      "en": "I mean, President Recep Tayyip Erdogan has called LGBTQI people \"perverts\".",
+      "zh": "我的意思是，雷杰普·塔伊普·埃尔多安总统称 LGBTQI 人群为“变态”。"
+    },
+    {
+      "id": 93,
+      "startMs": 560420,
+      "endMs": 563460,
+      "en": "We also heard this week from the Justice Minister.",
+      "zh": "本周我们还听到了司法部长的说法。"
+    },
+    {
+      "id": 94,
+      "startMs": 563540,
+      "endMs": 569620,
+      "en": "He made a statement on his social media account that he had let all police force operations know in the country",
+      "zh": "他在社交媒体账号上声明，已通知全国所有警察部门，"
+    },
+    {
+      "id": 95,
+      "startMs": 569700,
+      "endMs": 576660,
+      "en": "that they had to look out for any activity that might endanger children, might endanger the family.",
+      "zh": "要求他们留意任何可能危害儿童、可能危害家庭的活动。"
+    },
+    {
+      "id": 96,
+      "startMs": 577140,
+      "endMs": 585960,
+      "en": "And we have seen the language around this community tightening, life getting harder for them, people being attacked more, they say, on the street.",
+      "zh": "我们刚刚看到，针对这一群体的言论正在收紧；他们说，生活更艰难了，街头遭受攻击的人也更多了。"
+    },
+    {
+      "id": 97,
+      "startMs": 586200,
+      "endMs": 590200,
+      "en": "I mean, just this week, I went to an LGBTQ+ friendly bar.",
+      "zh": "就在本周，我去了一个对 LGBTQ+ 友好的酒吧。"
+    },
+    {
+      "id": 98,
+      "startMs": 590200,
+      "endMs": 594520,
+      "en": "I watched a band play that was made up of queer and trans people,",
+      "zh": "我看了一支由酷儿和跨性别者组成的乐队演出，"
+    },
+    {
+      "id": 99,
+      "startMs": 594760,
+      "endMs": 598600,
+      "en": "and they said that they used to play in venues all around the country,",
+      "zh": "他们说，过去曾在全国各地的场所演出，"
+    },
+    {
+      "id": 100,
+      "startMs": 598840,
+      "endMs": 604200,
+      "en": "and they're now really struggling to find places to perform because bars simply won't have them.",
+      "zh": "但现在很难找到演出场所，因为酒吧根本不愿接纳他们。"
+    },
+    {
+      "id": 101,
+      "startMs": 604440,
+      "endMs": 606920,
+      "en": "Emily Withers. Father time always wins.",
+      "zh": "艾米莉·威瑟斯。时间老人总会获胜。"
+    },
+    {
+      "id": 102,
+      "startMs": 607160,
+      "endMs": 616360,
+      "en": "The words of the billionaire investor and philanthropist, Warren Buffett, in a note to shareholders announcing that he's stepping down as chairman",
+      "zh": "亿万富翁投资家兼慈善家沃伦·巴菲特在致股东的信中宣布，他将卸任董事长，"
+    },
+    {
+      "id": 103,
+      "startMs": 616440,
+      "endMs": 621480,
+      "en": "of Berkshire Hathaway, the firm he took control of 61 years ago.",
+      "zh": "他61年前接手的伯克希尔·哈撒韦公司董事长一职。"
+    },
+    {
+      "id": 104,
+      "startMs": 622040,
+      "endMs": 624600,
+      "en": "Mr. Buffett is now 96 years old.",
+      "zh": "巴菲特先生如今96岁。"
+    },
+    {
+      "id": 105,
+      "startMs": 624920,
+      "endMs": 629480,
+      "en": "He'll remain a member of the board while his son, Howard, becomes the new chairman,",
+      "zh": "他将继续担任董事，而他的儿子霍华德将成为新任董事长，"
+    },
+    {
+      "id": 106,
+      "startMs": 629960,
+      "endMs": 634680,
+      "en": "overseeing what's now a huge conglomerate worth more than a trillion dollars.",
+      "zh": "负责管理如今这家市值超过一万亿美元的大型企业集团。"
+    },
+    {
+      "id": 107,
+      "startMs": 635240,
+      "endMs": 639660,
+      "en": "Here's the Sage of Omaha, as he's often called, speaking to the BBC a few years ago.",
+      "zh": "以下是几年前接受 BBC 采访的“奥马哈先知”，人们常这样称呼他。"
+    },
+    {
+      "id": 108,
+      "startMs": 640380,
+      "endMs": 644060,
+      "en": "the first books I read on investment were actually in my dad's office.",
+      "zh": "我最初读的投资书籍，其实都在我父亲的办公室里。"
+    },
+    {
+      "id": 109,
+      "startMs": 646540,
+      "endMs": 650220,
+      "en": "Pretty soon, I'd read all the books in the office, and read some of them more than once.",
+      "zh": "很快，我读完了办公室里的所有书，有些还读了不止一遍。"
+    },
+    {
+      "id": 110,
+      "startMs": 652600,
+      "endMs": 654440,
+      "en": "My dad had various nicknames for me.",
+      "zh": "我父亲给我起过各种绰号。"
+    },
+    {
+      "id": 111,
+      "startMs": 654600,
+      "endMs": 657960,
+      "en": "He'd call me Fireball sometimes, because I'd start little businesses.",
+      "zh": "他有时叫我“火球”，因为我会创办一些小企业。"
+    },
+    {
+      "id": 112,
+      "startMs": 659040,
+      "endMs": 660320,
+      "en": "He didn't care about money at all.",
+      "zh": "他一点也不在乎钱。"
+    },
+    {
+      "id": 113,
+      "startMs": 661440,
+      "endMs": 667280,
+      "en": "He believed very much in having an inner scorecard and never worry about what other people are thinking about you.",
+      "zh": "他非常相信要有一份内在的评分表，永远不要担心别人怎么看你。"
+    },
+    {
+      "id": 114,
+      "startMs": 667280,
+      "endMs": 672480,
+      "en": "You know, just, just, if you know why you're doing what you're doing, that's good enough.",
+      "zh": "你知道，只要你明白自己为什么这样做，那就足够了。"
+    },
+    {
+      "id": 115,
+      "startMs": 673760,
+      "endMs": 678720,
+      "en": "I admired everything about him, to the extent that I was absorbing lessons from him without knowing it.",
+      "zh": "我钦佩他的一切，不知不觉间一直在吸收他教给我的道理。"
+    },
+    {
+      "id": 116,
+      "startMs": 679440,
+      "endMs": 685680,
+      "en": "And the idea that all lives have equal value is something that all three of his children felt since I can remember.",
+      "zh": "在我的记忆中，他的三个孩子都认同生命具有同等价值。"
+    },
+    {
+      "id": 117,
+      "startMs": 686320,
+      "endMs": 690640,
+      "en": "Amelia Pollard is the US investment correspondent for the Financial Times.",
+      "zh": "艾米莉娅·波拉德是《金融时报》驻美国投资记者。"
+    },
+    {
+      "id": 118,
+      "startMs": 691040,
+      "endMs": 694320,
+      "en": "She spoke to James Menendez about Warren Buffett's retirement.",
+      "zh": "她就沃伦·巴菲特退休一事采访了詹姆斯·梅嫩德斯。"
+    },
+    {
+      "id": 119,
+      "startMs": 694720,
+      "endMs": 700480,
+      "en": "Warren Buffett's been planning his succession for decades, and even back in 2011,",
+      "zh": "沃伦·巴菲特几十年来一直在规划接班事宜，早在2011年，"
+    },
+    {
+      "id": 120,
+      "startMs": 701040,
+      "endMs": 705200,
+      "en": "Howard spoke publicly on 60 Minutes about what that plan would look like",
+      "zh": "霍华德就在《60分钟》节目中公开谈到过这项计划，"
+    },
+    {
+      "id": 121,
+      "startMs": 705520,
+      "endMs": 710240,
+      "en": "and knew even then that this was the eventual role he would take on with the company.",
+      "zh": "那时他就知道，这将是自己最终在公司承担的职责。"
+    },
+    {
+      "id": 122,
+      "startMs": 710560,
+      "endMs": 716560,
+      "en": "What can you tell us about Howard? I mean, is he able to fill his father's very big shoes?",
+      "zh": "关于霍华德，你能告诉我们什么？他能否胜任父亲留下的重任？"
+    },
+    {
+      "id": 123,
+      "startMs": 717720,
+      "endMs": 722680,
+      "en": "Yeah, I mean, I think an important distinction here is that Howard's becoming, you know, head of the board,",
+      "zh": "是的，这里一个重要区别是，霍华德将成为董事会负责人，"
+    },
+    {
+      "id": 124,
+      "startMs": 722680,
+      "endMs": 727080,
+      "en": "but Greg Abel is already CEO, and took on that role at the beginning of the year.",
+      "zh": "但格雷格·阿贝尔已经是首席执行官，并在年初接任了这一职位。"
+    },
+    {
+      "id": 125,
+      "startMs": 727160,
+      "endMs": 732920,
+      "en": "So the vision is basically to have Abel running the capital allocation and the business side of things,",
+      "zh": "所以总体设想是由阿贝尔负责资本配置和业务方面的工作，"
+    },
+    {
+      "id": 126,
+      "startMs": 732920,
+      "endMs": 735880,
+      "en": "you know, all of the operations and the sprawling conglomerate,",
+      "zh": "也就是负责所有运营，以及这个庞大的企业集团，"
+    },
+    {
+      "id": 127,
+      "startMs": 735960,
+      "endMs": 740440,
+      "en": "you know, that is probably the most famous company in the US at this point, or one of them.",
+      "zh": "它如今可能是美国最知名的公司，至少是其中之一。"
+    },
+    {
+      "id": 128,
+      "startMs": 740840,
+      "endMs": 745960,
+      "en": "And then Howard's job is more to steward the culture and values of Berkshire.",
+      "zh": "而霍华德的工作更多是守护伯克希尔的文化和价值观。"
+    },
+    {
+      "id": 129,
+      "startMs": 746360,
+      "endMs": 752760,
+      "en": "And so, you know, Berkshire is a really unique company in that there's a cult-like group of shareholders and investors,",
+      "zh": "所以，伯克希尔是一家非常独特的公司，拥有一群近乎狂热的股东和投资者，"
+    },
+    {
+      "id": 130,
+      "startMs": 752840,
+      "endMs": 756600,
+      "en": "you know, that travel to Omaha every year for the annual shareholder meeting.",
+      "zh": "他们每年都会前往奥马哈参加年度股东大会。"
+    },
+    {
+      "id": 131,
+      "startMs": 756600,
+      "endMs": 759960,
+      "en": "And that is part of the responsibility that Howard will take on.",
+      "zh": "这也是霍华德将承担的职责之一。"
+    },
+    {
+      "id": 132,
+      "startMs": 760360,
+      "endMs": 765000,
+      "en": "And obviously, you know, the Buffett name is synonymous, at this point, with Berkshire Hathaway.",
+      "zh": "显然，如今巴菲特这个名字已与伯克希尔·哈撒韦密不可分。"
+    },
+    {
+      "id": 133,
+      "startMs": 765000,
+      "endMs": 772520,
+      "en": "So I think, to some extent, it's to have a sense of continuity for investors and shareholders, and in who's leading the company behind the scenes.",
+      "zh": "所以我认为，这在一定程度上是为了让投资者和股东感到延续性，也让他们知道谁在幕后领导公司。"
+    },
+    {
+      "id": 134,
+      "startMs": 772920,
+      "endMs": 777160,
+      "en": "The Buffett name is also synonymous with a certain style of investing.",
+      "zh": "巴菲特这个名字也与某种特定的投资风格同义。"
+    },
+    {
+      "id": 135,
+      "startMs": 777260,
+      "endMs": 787100,
+      "en": "I mean, for those who don't follow the ins and outs of Berkshire Hathaway, why did Warren Buffett become such a big name?",
+      "zh": "我的意思是，对那些不了解伯克希尔·哈撒韦来龙去脉的人来说，沃伦·巴菲特为什么会成为如此响亮的名字？"
+    },
+    {
+      "id": 136,
+      "startMs": 788380,
+      "endMs": 793980,
+      "en": "So he has proselytized for years the notion of long-term value investing.",
+      "zh": "多年来，他一直在倡导长期价值投资的理念。"
+    },
+    {
+      "id": 137,
+      "startMs": 794060,
+      "endMs": 801900,
+      "en": "So the whole idea is to hold on to companies and investments for decades, to think about the long-term evolution of the economy,",
+      "zh": "所以，核心理念是持有公司和投资数十年，思考经济的长期演变，"
+    },
+    {
+      "id": 138,
+      "startMs": 802060,
+      "endMs": 806780,
+      "en": "and not about what quick-hit wonders might be popular this year or this month.",
+      "zh": "而不是关注今年或本月可能流行的短期热门。"
+    },
+    {
+      "id": 139,
+      "startMs": 807260,
+      "endMs": 812060,
+      "en": "And that has really been the spirit and the ethos of the company for many, many years,",
+      "zh": "这多年来一直是这家公司的精神和理念，"
+    },
+    {
+      "id": 140,
+      "startMs": 812060,
+      "endMs": 818060,
+      "en": "and has really brought on legions of shareholders and investors to also subscribe to that philosophy.",
+      "zh": "也确实吸引了大批股东和投资者认同这一理念。"
+    },
+    {
+      "id": 141,
+      "startMs": 818540,
+      "endMs": 823740,
+      "en": "Obviously, in 2026, that sort of philosophy has a lot more resonance,",
+      "zh": "显然，在2026年，这种理念更有共鸣，"
+    },
+    {
+      "id": 142,
+      "startMs": 823980,
+      "endMs": 828140,
+      "en": "and it's quite unique in the age of crypto and AI,",
+      "zh": "而且在加密货币和人工智能的时代，这种理念相当独特，"
+    },
+    {
+      "id": 143,
+      "startMs": 828140,
+      "endMs": 831820,
+      "en": "and in the world we have seen now, in which the S&P 500 and the broader stock market",
+      "zh": "在我们如今所处的这个世界里，标普500指数和更广泛的股市"
+    },
+    {
+      "id": 144,
+      "startMs": 831820,
+      "endMs": 839100,
+      "en": "is so intensely driven by these high-value, high-growth AI and tech companies,",
+      "zh": "都受到这些高估值、高增长的人工智能和科技公司强力驱动，"
+    },
+    {
+      "id": 145,
+      "startMs": 839100,
+      "endMs": 845020,
+      "en": "and Berkshire is a bit antithetical to that model and is in much more the longer-term camp.",
+      "zh": "而伯克希尔与这种模式有些相反，更属于长期主义阵营。"
+    },
+    {
+      "id": 146,
+      "startMs": 845020,
+      "endMs": 850560,
+      "en": "Yes, and has that meant that the company has suffered relative to others?",
+      "zh": "是的。那么这是否意味着公司相较其他企业受到了影响？"
+    },
+    {
+      "id": 147,
+      "startMs": 850640,
+      "endMs": 855840,
+      "en": "I mean, it has underperformed compared to the main S&P 500 index, hasn't it?",
+      "zh": "我的意思是，它的表现不如标普500主指数，对吧？"
+    },
+    {
+      "id": 148,
+      "startMs": 855840,
+      "endMs": 857360,
+      "en": "By quite a margin.",
+      "zh": "而且差距相当大。"
+    },
+    {
+      "id": 149,
+      "startMs": 857360,
+      "endMs": 858080,
+      "en": "Is that a problem?",
+      "zh": "这是个问题吗？"
+    },
+    {
+      "id": 150,
+      "startMs": 859360,
+      "endMs": 863760,
+      "en": "It has this year, and I think there are a lot of eyes on Berkshire's stock price.",
+      "zh": "今年确实如此，我认为很多人都在关注伯克希尔的股价。"
+    },
+    {
+      "id": 151,
+      "startMs": 864080,
+      "endMs": 870480,
+      "en": "The investors that I've spoken to today and in recent months have all said that they are believers",
+      "zh": "我今天以及近几个月采访过的投资者都说，他们相信"
+    },
+    {
+      "id": 152,
+      "startMs": 870480,
+      "endMs": 877600,
+      "en": "in the long-term plan here and think that Berkshire, historically Buffett and now Greg Abel, are stewards",
+      "zh": "这里的长期计划，并认为伯克希尔——过去是巴菲特、现在是格雷格·阿贝尔——是他们资金的守护者，"
+    },
+    {
+      "id": 153,
+      "startMs": 877600,
+      "endMs": 884000,
+      "en": "of their money, and they believe there's a longer-term vision beyond just what the stock market's doing this year.",
+      "zh": "他们相信，公司有超越股市今年表现的长期愿景。"
+    },
+    {
+      "id": 154,
+      "startMs": 884000,
+      "endMs": 890720,
+      "en": "Obviously, there's been intense growth with the S&P 500 index this year and the broader market.",
+      "zh": "显然，今年标普500指数和更广泛的市场都经历了强劲增长。"
+    },
+    {
+      "id": 155,
+      "startMs": 890720,
+      "endMs": 892240,
+      "en": "There's also been a lot of volatility.",
+      "zh": "市场也经历了很大波动。"
+    },
+    {
+      "id": 156,
+      "startMs": 892400,
+      "endMs": 898880,
+      "en": "So I think there is the camp of shareholders that are still believers in Berkshire and what's to come,",
+      "zh": "所以我认为，有一部分股东仍然相信伯克希尔以及它的未来，"
+    },
+    {
+      "id": 157,
+      "startMs": 899440,
+      "endMs": 904320,
+      "en": "and believe not to just focus on what the stock and the shares have done this year.",
+      "zh": "相信不应只关注股票和股价今年的表现。"
+    },
+    {
+      "id": 158,
+      "startMs": 904640,
+      "endMs": 910400,
+      "en": "Many of them have held shares since the 70s or 80s and 90s, and they want to see",
+      "zh": "其中许多人从上世纪70年代、80年代或90年代就持有股票，他们想看看"
+    },
+    {
+      "id": 159,
+      "startMs": 910480,
+      "endMs": 918800,
+      "en": "what Greg Abel can do in passing the baton from Warren to this new era, and haven't been, from my understanding so far, too quick to judge.",
+      "zh": "格雷格·阿贝尔如何把沃伦的接力棒交给这个新时代；据我目前了解，他们并没有急于下定论。"
+    },
+    {
+      "id": 160,
+      "startMs": 918900,
+      "endMs": 921540,
+      "en": "You know, too quick to judge on the share price alone.",
+      "zh": "也就是说，不会仅凭股价就过早作出判断。"
+    },
+    {
+      "id": 161,
+      "startMs": 921780,
+      "endMs": 925940,
+      "en": "Amelia Pollard, US investment correspondent for the Financial Times.",
+      "zh": "《金融时报》美国投资记者阿米莉娅·波拉德的报道。"
+    },
+    {
+      "id": 162,
+      "startMs": 926880,
+      "endMs": 928800,
+      "en": "Well, it's happened before, of course.",
+      "zh": "当然，这种事以前也发生过。"
+    },
+    {
+      "id": 163,
+      "startMs": 928800,
+      "endMs": 935760,
+      "en": "Sometimes with embarrassing results, but officials at the Asian Games in Japan had to apologize quickly after they",
+      "zh": "有时结果很尴尬。日本亚运会的官员就曾在他们"
+    },
+    {
+      "id": 164,
+      "startMs": 935760,
+      "endMs": 941600,
+      "en": "played the wrong national anthem ahead of a field hockey match, and not any anthem, but the",
+      "zh": "在一场曲棍球比赛前播放了错误的国歌后迅速道歉；而且不是任意一首国歌，而是"
+    },
+    {
+      "id": 165,
+      "startMs": 941600,
+      "endMs": 945520,
+      "en": "North Korean one, when the team on the pitch were from South Korea.",
+      "zh": "朝鲜的国歌，场上的球队却来自韩国。"
+    },
+    {
+      "id": 166,
+      "startMs": 945840,
+      "endMs": 946960,
+      "en": "Carla Conte reports.",
+      "zh": "卡拉·孔蒂报道。"
+    },
+    {
+      "id": 167,
+      "startMs": 947520,
+      "endMs": 955120,
+      "en": "Lined up before the match, the players from the South Korean men's hockey team looked around in confusion as the wrong anthem rang out",
+      "zh": "比赛开始前列队时，韩国男子曲棍球队的球员困惑地环顾四周，错误的国歌在"
+    },
+    {
+      "id": 168,
+      "startMs": 955120,
+      "endMs": 960720,
+      "en": "around the arena, while others, not realizing what had happened, kept a hand on their chest.",
+      "zh": "场馆内响起；其他人没有意识到发生了什么，仍把手放在胸前。"
+    },
+    {
+      "id": 169,
+      "startMs": 961040,
+      "endMs": 964240,
+      "en": "The stadium announcer was quick to apologize for the mistake.",
+      "zh": "体育场播音员很快为这一错误道歉。"
+    },
+    {
+      "id": 170,
+      "startMs": 964560,
+      "endMs": 966880,
+      "en": "We are really sorry, terribly sorry.",
+      "zh": "我们真的很抱歉，非常抱歉。"
+    },
+    {
+      "id": 171,
+      "startMs": 966880,
+      "endMs": 973840,
+      "en": "National anthem for Republic of Korea, we played a different song.",
+      "zh": "这是大韩民国的国歌，我们播放了另一首歌。"
+    },
+    {
+      "id": 172,
+      "startMs": 974160,
+      "endMs": 980560,
+      "en": "This comes off the back of an earlier incident in the Asian Games, where a Japanese warlord, Toyotomi Hideyoshi, was",
+      "zh": "此前亚运会还发生过一件事：一名日本军阀丰臣秀吉被"
+    },
+    {
+      "id": 173,
+      "startMs": 980560,
+      "endMs": 983280,
+      "en": "featured during a welcoming ceremony in Nagoya.",
+      "zh": "安排出现在名古屋的一场欢迎仪式上。"
+    },
+    {
+      "id": 174,
+      "startMs": 983920,
+      "endMs": 990740,
+      "en": "This prompted South Korea's Olympic Committee to file a complaint with the organizers, as Hideyoshi's invasions",
+      "zh": "这促使韩国奥委会向主办方提出投诉，因为丰臣秀吉入侵"
+    },
+    {
+      "id": 175,
+      "startMs": 990740,
+      "endMs": 994260,
+      "en": "of Korea in the 16th century remain a sensitive chapter for Seoul.",
+      "zh": "16世纪的韩国，至今仍是首尔敏感的一段历史。"
+    },
+    {
+      "id": 176,
+      "startMs": 994900,
+      "endMs": 998900,
+      "en": "But these are just the latest of a number of controversies emerging from this year's",
+      "zh": "但这只是今年亚运会出现的众多争议中最新的一起，"
+    },
+    {
+      "id": 177,
+      "startMs": 998900,
+      "endMs": 1004820,
+      "en": "Asian Games, where organizers have sought to cut costs by ditching the traditional athletes' village.",
+      "zh": "主办方为削减成本，放弃了传统的运动员村。"
+    },
+    {
+      "id": 178,
+      "startMs": 1005140,
+      "endMs": 1011220,
+      "en": "Instead, some 17,000 competitors and officials are being housed in alternative accommodations,",
+      "zh": "相反，大约1.7万名运动员和官员被安排在替代性住宿中，"
+    },
+    {
+      "id": 179,
+      "startMs": 1011460,
+      "endMs": 1015780,
+      "en": "including an Italian cruise ship and shipping-container-style cabins.",
+      "zh": "包括一艘意大利邮轮和集装箱式客舱。"
+    },
+    {
+      "id": 180,
+      "startMs": 1015940,
+      "endMs": 1020820,
+      "en": "This has led to massive delays and chaos for the teams arriving from all over Asia,",
+      "zh": "这给从亚洲各地抵达的队伍造成了严重延误和混乱，"
+    },
+    {
+      "id": 181,
+      "startMs": 1020900,
+      "endMs": 1028100,
+      "en": "with players experiencing grueling waits upon arrival, and some being forced to sleep on the floor while their rooms were being prepared.",
+      "zh": "运动员抵达后要经历漫长等待，有些人在房间准备好前被迫睡在地板上。"
+    },
+    {
+      "id": 182,
+      "startMs": 1028420,
+      "endMs": 1036580,
+      "en": "Basketball players also voiced their discomfort, with athletes over two metres tall complaining that their beds were not big enough to accommodate them.",
+      "zh": "篮球运动员也表达了不适：身高超过两米的运动员抱怨床铺不够大，无法容纳他们。"
+    },
+    {
+      "id": 183,
+      "startMs": 1037220,
+      "endMs": 1041780,
+      "en": "Carla Conti with that report, and we should add that hearing the wrong national anthem",
+      "zh": "卡拉·孔蒂的报道。我们还应补充说，听到错误的国歌"
+    },
+    {
+      "id": 184,
+      "startMs": 1041780,
+      "endMs": 1046740,
+      "en": "didn't ruin things for the South Korean men's field hockey team; they won their match against",
+      "zh": "并没有影响韩国男子场地曲棍球队的发挥；他们赢下了对阵"
+    },
+    {
+      "id": 185,
+      "startMs": 1046760,
+      "endMs": 1047960,
+      "en": "Bangladesh 5-0.",
+      "zh": "孟加拉国队的比赛，以5比0获胜。"
+    },
+    {
+      "id": 186,
+      "startMs": 1049240,
+      "endMs": 1052920,
+      "en": "Now let's stick to the topic of games, but games of another kind.",
+      "zh": "现在让我们继续谈游戏，不过是另一种游戏。"
+    },
+    {
+      "id": 187,
+      "startMs": 1053480,
+      "endMs": 1061080,
+      "en": "Some believe the board game Monopoly takes too long to play because it can go on for hours or even days with no clear winner.",
+      "zh": "有人认为，桌游《大富翁》耗时太久，因为它可能持续数小时甚至数天，却没有明确的赢家。"
+    },
+    {
+      "id": 188,
+      "startMs": 1061640,
+      "endMs": 1068200,
+      "en": "But there is another game that's so detailed and complex that it's almost certain that no one has ever completed it.",
+      "zh": "但还有另一款游戏，它如此详尽复杂，几乎可以肯定从来没人完成过。"
+    },
+    {
+      "id": 189,
+      "startMs": 1068840,
+      "endMs": 1077640,
+      "en": "The game in question is called Campaign for North Africa, and two friends in Britain have taken on the task of playing it to its conclusion—",
+      "zh": "这款游戏名为《北非战役》，英国的两位朋友决定把它玩到最后——"
+    },
+    {
+      "id": 190,
+      "startMs": 1078120,
+      "endMs": 1082840,
+      "en": "something they estimate could take several years, or even decades.",
+      "zh": "他们估计这可能要花上数年，甚至数十年。"
+    },
+    {
+      "id": 191,
+      "startMs": 1083400,
+      "endMs": 1085560,
+      "en": "The newsroom's Pete Ross picks up the story.",
+      "zh": "新闻编辑部的皮特·罗斯继续报道。"
+    },
+    {
+      "id": 192,
+      "startMs": 1085960,
+      "endMs": 1091800,
+      "en": "You've perhaps been there. Someone gets a new board game, maybe for Christmas, and one of the family takes it upon themselves.",
+      "zh": "你或许经历过这种情况：有人得到一款新桌游，也许是圣诞节礼物，于是家里有个人主动承担起这件事。"
+    },
+    {
+      "id": 193,
+      "startMs": 1091800,
+      "endMs": 1094280,
+      "en": "To read the rules and explain them to everybody else.",
+      "zh": "他要读懂规则，再向其他人解释。"
+    },
+    {
+      "id": 194,
+      "startMs": 1094520,
+      "endMs": 1101880,
+      "en": "You're hopefully up and playing within a few minutes, until everyone gets bored or falls out. If you're very lucky, you might play to the end.",
+      "zh": "希望几分钟内大家就能开始玩，直到所有人感到无聊或闹翻。如果你非常走运，也许能玩到最后。"
+    },
+    {
+      "id": 195,
+      "startMs": 1102120,
+      "endMs": 1106680,
+      "en": "Well, what about a game that's so convoluted and cumbersome that it can take years—",
+      "zh": "那么，有没有一款游戏复杂又笨重，可能要花上好几年——"
+    },
+    {
+      "id": 196,
+      "startMs": 1106780,
+      "endMs": 1111020,
+      "en": "just to learn the rules, I think? Why were we mad enough to do it, I think?",
+      "zh": "我想，光是学会规则就要好几年。我们到底为什么会疯狂到要做这件事？"
+    },
+    {
+      "id": 197,
+      "startMs": 1111020,
+      "endMs": 1116860,
+      "en": "If we understood wargames better, or the scale of it, we might have been scared off. That's Andrew Tiger.",
+      "zh": "如果我们更了解兵棋，或者了解它的规模，可能早就被吓退了。这是安德鲁·泰格。"
+    },
+    {
+      "id": 198,
+      "startMs": 1117020,
+      "endMs": 1125180,
+      "en": "He and James Purcell, friends from Newcastle upon Tyne in northern England, have spent nearly two years mastering the rules and preparing to play it.",
+      "zh": "他和来自英格兰北部泰恩河畔纽卡斯尔的朋友詹姆斯·珀塞尔，花了近两年熟悉规则，准备开始这款游戏。"
+    },
+    {
+      "id": 199,
+      "startMs": 1125180,
+      "endMs": 1128860,
+      "en": "It covers the conflict in North Africa during the Second World War.",
+      "zh": "它涵盖第二次世界大战期间的北非战事。"
+    },
+    {
+      "id": 200,
+      "startMs": 1129180,
+      "endMs": 1136940,
+      "en": "Only now do the pair feel confident they know the rules of this military strategy game, first released in the 1970s, well enough to play for real.",
+      "zh": "直到现在，两人才确信自己已经熟悉这款军事策略游戏的规则，足以真正开始对局；它最早在20世纪70年代发行。"
+    },
+    {
+      "id": 201,
+      "startMs": 1137100,
+      "endMs": 1140700,
+      "en": "The two are, it'll come as no surprise, board-game enthusiasts.",
+      "zh": "不出所料，两人都是桌游爱好者。"
+    },
+    {
+      "id": 202,
+      "startMs": 1141100,
+      "endMs": 1148140,
+      "en": "And while discussing their hobby with a friend one night, they learned about a game that legend claimed had never been completed, explains James.",
+      "zh": "一天晚上，他们和朋友聊起这个爱好，得知有一款传说中从未被完成的游戏，詹姆斯解释道。"
+    },
+    {
+      "id": 203,
+      "startMs": 1148140,
+      "endMs": 1155180,
+      "en": "And we thought nothing of it until a few weeks later. One of us said to the other, \"Have you been thinking about that game a lot?\"",
+      "zh": "我们当时没太在意，直到几周后，其中一人问另一人：“你是不是一直在想那款游戏？”"
+    },
+    {
+      "id": 204,
+      "startMs": 1155420,
+      "endMs": 1161580,
+      "en": "And over the course of the next couple of hours, we decided we were going to buy the game, play the game in its entirety,",
+      "zh": "接下来几个小时里，我们决定买下这款游戏，把它完整玩一遍，"
+    },
+    {
+      "id": 205,
+      "startMs": 1161900,
+      "endMs": 1169440,
+      "en": "and record a podcast alongside it, so that we had a reason to stay on topic and be really accountable to finish it.",
+      "zh": "同时录制一档播客，这样就有理由专注于游戏，并真正对完成它负责。"
+    },
+    {
+      "id": 206,
+      "startMs": 1169520,
+      "endMs": 1175680,
+      "en": "Given just how much detail the game goes into, it's perhaps not surprising that no one has ever seen it through to the end.",
+      "zh": "考虑到这款游戏的细节如此之多，难怪从来没人玩到过最后。"
+    },
+    {
+      "id": 207,
+      "startMs": 1176160,
+      "endMs": 1181360,
+      "en": "Much of the time playing the game is spent on logistical concerns. Do your troops have enough ammunition?",
+      "zh": "玩这款游戏的大部分时间都花在后勤问题上：你的部队有足够弹药吗？"
+    },
+    {
+      "id": 208,
+      "startMs": 1181520,
+      "endMs": 1186480,
+      "en": "And don't forget to supply them with sufficient rations, as you keep track of food and water supplies.",
+      "zh": "别忘了给他们提供足够的口粮，还要记录食物和水的供应。"
+    },
+    {
+      "id": 209,
+      "startMs": 1187040,
+      "endMs": 1189360,
+      "en": "It can all get a bit much, says James.",
+      "zh": "詹姆斯说，这一切有时会让人不堪重负。"
+    },
+    {
+      "id": 210,
+      "startMs": 1189760,
+      "endMs": 1195920,
+      "en": "I've had many a time when I've been invited to a social event and had to tell them that I can't, because—",
+      "zh": "很多次有人邀请我参加社交活动，我却不得不告诉他们我去不了，因为——"
+    },
+    {
+      "id": 211,
+      "startMs": 1195920,
+      "endMs": 1200560,
+      "en": "I've got to go and play a game that I don't particularly enjoy playing, and fill out some spreadsheets.",
+      "zh": "我得去玩一款其实不太喜欢的游戏，还要填一些电子表格。"
+    },
+    {
+      "id": 212,
+      "startMs": 1200800,
+      "endMs": 1208480,
+      "en": "If you're playing as an Italian unit, you'll need more water than troops from other nations, as you need it, according to the rules, to boil pasta.",
+      "zh": "如果你扮演意大利部队，所需的水会比其他国家的部队更多，因为按规则你需要用水煮意大利面。"
+    },
+    {
+      "id": 213,
+      "startMs": 1208880,
+      "endMs": 1214880,
+      "en": "And that water can also evaporate at varying rates, depending on how hot or cold the weather is that turn.",
+      "zh": "而且水的蒸发速度也会不同，取决于该回合的天气冷热。"
+    },
+    {
+      "id": 214,
+      "startMs": 1215200,
+      "endMs": 1217920,
+      "en": "And those are just some of the less puzzling rules.",
+      "zh": "这些还只是没那么令人费解的规则。"
+    },
+    {
+      "id": 215,
+      "startMs": 1218240,
+      "endMs": 1223280,
+      "en": "The small moments, like the air combat, are quite fun, where you get to have dogfights between planes,",
+      "zh": "其中也有一些小片段很有趣，比如空战，你可以让飞机之间展开缠斗，"
+    },
+    {
+      "id": 216,
+      "startMs": 1223680,
+      "endMs": 1228100,
+      "en": "but since most of it is just a logistics simulator, I think, if—",
+      "zh": "但大部分内容只是后勤模拟器，我想，如果——"
+    },
+    {
+      "id": 217,
+      "startMs": 1228100,
+      "endMs": 1234100,
+      "en": "anyone finds that fun, I'm not sure they understand games in the conventional definition.",
+      "zh": "有人觉得这很有趣，我不确定他们是否理解通常所说的游戏。"
+    },
+    {
+      "id": 218,
+      "startMs": 1234180,
+      "endMs": 1237300,
+      "en": "James there again. There's an awful lot to get your head around.",
+      "zh": "詹姆斯又说道，这款游戏有太多东西需要理解。"
+    },
+    {
+      "id": 219,
+      "startMs": 1237460,
+      "endMs": 1242740,
+      "en": "But if you fancy playing yourself and need guidance or help with the rules, there aren't many resources out there.",
+      "zh": "但如果你想亲自玩，又需要规则指导或帮助，网上可用的资源并不多。"
+    },
+    {
+      "id": 220,
+      "startMs": 1242980,
+      "endMs": 1248180,
+      "en": "The game itself has been out of print for years, and its publisher went out of business some time ago.",
+      "zh": "这款游戏已经绝版多年，而它的出版商也早已倒闭。"
+    },
+    {
+      "id": 221,
+      "startMs": 1248420,
+      "endMs": 1253940,
+      "en": "The game's designer, Richard Berg, who admitted he'd never finished the game, died in 2019.",
+      "zh": "这款游戏的设计师理查德·伯格曾承认自己从未完成它，并于2019年去世。"
+    },
+    {
+      "id": 222,
+      "startMs": 1254180,
+      "endMs": 1259460,
+      "en": "So, James and Andrew will be pretty much on their own when they begin playing the game for real later this month.",
+      "zh": "所以，詹姆斯和安德鲁本月晚些时候真正开始游戏时，基本只能靠自己。"
+    },
+    {
+      "id": 223,
+      "startMs": 1259940,
+      "endMs": 1267700,
+      "en": "But they'll have plenty of time to learn the game as they play, says Andrew. At our current pace, it'll probably take about two decades.",
+      "zh": "但正如安德鲁解释的，他们可以边玩边学习，有充足时间。按目前的速度，可能要花大约二十年。"
+    },
+    {
+      "id": 224,
+      "startMs": 1267700,
+      "endMs": 1273300,
+      "en": "We hopefully speed that up a little bit, but if we get it done in less than 10 years, we've done very well.",
+      "zh": "希望我们能把进度稍微加快，但如果能在十年内完成，就已经非常成功了。"
+    },
+    {
+      "id": 225,
+      "startMs": 1273460,
+      "endMs": 1279140,
+      "en": "Given their one practice game, which in comparison took just a few weeks to complete, ended in a draw,",
+      "zh": "他们曾进行过一场练习赛，只花了几周就完成，最后以平局收场，"
+    },
+    {
+      "id": 226,
+      "startMs": 1279620,
+      "endMs": 1282340,
+      "en": "they'll be hoping for a more satisfying conclusion.",
+      "zh": "他们希望这次能有更令人满意的结局。"
+    },
+    {
+      "id": 227,
+      "startMs": 1282660,
+      "endMs": 1288920,
+      "en": "I mean, the main question I get is, \"Why?\" Like, \"Just why are you doing this?\" And I don't have a great answer.",
+      "zh": "我最常被问的问题是：“为什么？”比如：“你到底为什么要做这件事？”我没有很好的答案。"
+    },
+    {
+      "id": 228,
+      "startMs": 1289720,
+      "endMs": 1292840,
+      "en": "Just don't ask if they're up for a rematch. Pete Ross.",
+      "zh": "只是别问他们是否想再来一局。皮特·罗斯报道。"
+    },
+    {
+      "id": 229,
+      "startMs": 1295300,
+      "endMs": 1302020,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部内容。如需联系我们，可发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 230,
+      "startMs": 1302020,
+      "endMs": 1308100,
+      "en": "You can also find us on X at BBC World Service. Use the hashtag #GlobalNewsPod.",
+      "zh": "你也可以在 X 上关注 BBC World Service。请使用话题标签 #GlobalNewsPod。"
+    },
+    {
+      "id": 231,
+      "startMs": 1308100,
+      "endMs": 1315620,
+      "en": "This edition of the Global News Podcast was mixed by Johnny Hall. The editor is Karen Martin. I'm Celia Hatton. Until next time, goodbye.",
+      "zh": "本期《Global News Podcast》由约翰尼·霍尔混音。编辑是凯伦·马丁。我是西莉娅·哈顿。下次再见。"
+    }
+  ]
+}

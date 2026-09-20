@@ -1,0 +1,1985 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "18 September 2026"
+  },
+  "durationMs": 1525320,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2960,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是英国广播公司世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4560,
+      "endMs": 9840,
+      "en": "I'm Anker Desai, and at 13 hours GMT on Friday, the 18th of September, these are our main stories.",
+      "zh": "我是安卡·德赛。现在是格林尼治时间星期五9月18日13点，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 10480,
+      "endMs": 18880,
+      "en": "Chaotic scenes in Spain's North African territory of Ceuta as police moved hundreds of migrants from beaches to tents in the port.",
+      "zh": "西班牙北非领土休达局势混乱，警方将数百名移民从海滩转移到港区的帐篷营地。"
+    },
+    {
+      "id": 4,
+      "startMs": 19360,
+      "endMs": 24320,
+      "en": "Seventy thousand, mostly Moroccans, flooded across the border in a sudden surge in late July.",
+      "zh": "7月底的一次突然涌入中，有7万名移民越过边境，其中大多是摩洛哥人。"
+    },
+    {
+      "id": 5,
+      "startMs": 24960,
+      "endMs": 31440,
+      "en": "South Korea has ruled out sending any troops to Iran, despite coming under pressure from President Trump in recent weeks.",
+      "zh": "尽管近几周一直受到特朗普总统施压，韩国仍排除了向伊朗派遣军队的可能。"
+    },
+    {
+      "id": 6,
+      "startMs": 31440,
+      "endMs": 38240,
+      "en": "A car bomb attack on a mosque in Pakistan's northwest has left at least 16 people dead, including five policemen.",
+      "zh": "巴基斯坦西北部一座清真寺遭汽车炸弹袭击，至少16人死亡，其中包括5名警察。"
+    },
+    {
+      "id": 7,
+      "startMs": 39880,
+      "endMs": 45880,
+      "en": "Also in this podcast, as Russia goes to the polls in the first parliamentary election since the beginning of the war with Ukraine,",
+      "zh": "本期节目还将关注：俄罗斯举行自乌克兰战争开始以来的首次议会选举，"
+    },
+    {
+      "id": 8,
+      "startMs": 46280,
+      "endMs": 48280,
+      "en": "do people think it will make a difference?",
+      "zh": "人们认为这会带来改变吗？"
+    },
+    {
+      "id": 9,
+      "startMs": 48360,
+      "endMs": 51560,
+      "en": "To be fair, I don't think it will change; it would be much the same.",
+      "zh": "公平地说，我不认为会有变化，基本上会和现在一样。"
+    },
+    {
+      "id": 10,
+      "startMs": 51640,
+      "endMs": 56680,
+      "en": "I think a lot of people in our country wants change, but we haven't voice. We haven't voice.",
+      "zh": "我觉得我们国家很多人都想要改变，但我们没有发声的渠道。我们没有发声的渠道。"
+    },
+    {
+      "id": 11,
+      "startMs": 59880,
+      "endMs": 62840,
+      "en": "First to the Spanish territory of Ceuta in North Africa.",
+      "zh": "首先来看西班牙在北非的领土休达。"
+    },
+    {
+      "id": 12,
+      "startMs": 62840,
+      "endMs": 66440,
+      "en": "Police firing shots in the air as they struggle to contain crowds of people.",
+      "zh": "警方鸣枪示警，努力控制人群。"
+    },
+    {
+      "id": 13,
+      "startMs": 67000,
+      "endMs": 72280,
+      "en": "The authorities have been moving hundreds of migrants from beaches to the port area, where tents have been set up.",
+      "zh": "当局一直在把数百名移民从海滩转移到港区，那里已经搭起了帐篷。"
+    },
+    {
+      "id": 14,
+      "startMs": 72840,
+      "endMs": 77560,
+      "en": "Tens of thousands of migrants crossed from neighbouring Morocco to Ceuta in late July.",
+      "zh": "7月底，数万名移民从邻国摩洛哥越境进入休达。"
+    },
+    {
+      "id": 15,
+      "startMs": 77560,
+      "endMs": 80200,
+      "en": "At least 100 people died during the crossing.",
+      "zh": "越境过程中至少有100人死亡。"
+    },
+    {
+      "id": 16,
+      "startMs": 80760,
+      "endMs": 84680,
+      "en": "Though most migrants returned, several thousand remain in the territory.",
+      "zh": "尽管大多数移民已经返回，但仍有数千人留在这片领土上。"
+    },
+    {
+      "id": 17,
+      "startMs": 85000,
+      "endMs": 87240,
+      "en": "Many of them have been sleeping on beaches.",
+      "zh": "其中许多人一直睡在海滩上。"
+    },
+    {
+      "id": 18,
+      "startMs": 87720,
+      "endMs": 90440,
+      "en": "A global affairs reporter, Sebastian Usher, told me more.",
+      "zh": "全球事务记者塞巴斯蒂安·厄舍向我介绍了更多情况。"
+    },
+    {
+      "id": 19,
+      "startMs": 90760,
+      "endMs": 99000,
+      "en": "This was one of the first big operations to try to move the migrants who have taken residence, if you can call it that, on the beaches in Ceuta.",
+      "zh": "这是首次大型行动之一，试图转移那些——如果可以这样说的话——已经在休达海滩上安顿下来的移民。"
+    },
+    {
+      "id": 20,
+      "startMs": 99560,
+      "endMs": 100760,
+      "en": "Around 3,000.",
+      "zh": "大约有3000人。"
+    },
+    {
+      "id": 21,
+      "startMs": 101640,
+      "endMs": 105240,
+      "en": "So that started early in the morning.",
+      "zh": "所以行动一大早就开始了。"
+    },
+    {
+      "id": 22,
+      "startMs": 105560,
+      "endMs": 108680,
+      "en": "There was a tight route to the port area where tents were set up.",
+      "zh": "通往搭有帐篷的港区，只有一条狭窄的路线。"
+    },
+    {
+      "id": 23,
+      "startMs": 109080,
+      "endMs": 112360,
+      "en": "But there aren't enough tents for the people on the beaches,",
+      "zh": "但帐篷数量不足以容纳海滩上的人，"
+    },
+    {
+      "id": 24,
+      "startMs": 112360,
+      "endMs": 116200,
+      "en": "which is not the whole amount of migrants in any case, but are still in Ceuta,",
+      "zh": "而且这些人无论如何也不是仍在休达的全部移民，"
+    },
+    {
+      "id": 25,
+      "startMs": 116200,
+      "endMs": 120840,
+      "en": "so I think that's why there was a lot of pushing and jostling and rush at the start.",
+      "zh": "所以我认为，行动开始时才会出现大量推搡和拥挤。"
+    },
+    {
+      "id": 26,
+      "startMs": 121240,
+      "endMs": 124860,
+      "en": "At the start, people wanted to ensure that they could get one of those places.",
+      "zh": "开始时，人们都想确保自己能得到一个位置。"
+    },
+    {
+      "id": 27,
+      "startMs": 125180,
+      "endMs": 130620,
+      "en": "Also, minors, and there's a lot of younger men who are there, would be put somewhere else.",
+      "zh": "此外，未成年人，以及那里有很多年轻男子，会被安置到别的地方。"
+    },
+    {
+      "id": 28,
+      "startMs": 130620,
+      "endMs": 136860,
+      "en": "So I think they wanted to ensure that they could stay with whoever they'd, you know, either gone with or struck up a relationship with since.",
+      "zh": "所以我觉得，他们想确保能和同行的人，或者后来与之建立关系的人待在一起。"
+    },
+    {
+      "id": 29,
+      "startMs": 137260,
+      "endMs": 139900,
+      "en": "As you heard, shots and rubber bullets went into the air.",
+      "zh": "正如你听到的，现场向空中发射了枪弹和橡皮子弹。"
+    },
+    {
+      "id": 30,
+      "startMs": 139900,
+      "endMs": 143820,
+      "en": "Police, backed up by the Spanish military, used batons at a certain point.",
+      "zh": "在西班牙军方支援下，警方一度使用了警棍。"
+    },
+    {
+      "id": 31,
+      "startMs": 144060,
+      "endMs": 148140,
+      "en": "It was brought under control. So this operation has been finished for now,",
+      "zh": "局面得到了控制，所以这次行动暂时结束了，"
+    },
+    {
+      "id": 32,
+      "startMs": 148460,
+      "endMs": 153660,
+      "en": "but it's only, you know, a partial effort to try and solve the crisis that continues.",
+      "zh": "但这只是为解决持续危机所作的部分努力。"
+    },
+    {
+      "id": 33,
+      "startMs": 154060,
+      "endMs": 159500,
+      "en": "How do people in Ceuta feel about what's happening? What's their view on it?",
+      "zh": "休达当地居民对正在发生的事情有什么感受？他们怎么看？"
+    },
+    {
+      "id": 34,
+      "startMs": 159660,
+      "endMs": 161740,
+      "en": "Not happy at all, you can imagine.",
+      "zh": "你可以想象，他们一点也不高兴。"
+    },
+    {
+      "id": 35,
+      "startMs": 161820,
+      "endMs": 169020,
+      "en": "I mean, originally, the more than 70,000 people who crossed, that was a huge issue. It has happened before, but not to that extent.",
+      "zh": "我的意思是，最初有超过7万人越境，这曾是个大问题。以前也发生过这种事，但从未达到这样的规模。"
+    },
+    {
+      "id": 36,
+      "startMs": 169660,
+      "endMs": 173180,
+      "en": "And the fact that there are still, we don't know the numbers,",
+      "zh": "而且现在仍有移民留在那里，具体人数我们还不知道，"
+    },
+    {
+      "id": 37,
+      "startMs": 173660,
+      "endMs": 180060,
+      "en": "but maybe up to 10,000, perhaps more, still there and sleeping rough, often in very difficult conditions.",
+      "zh": "但可能多达1万人，也许更多，仍在那里露宿，常常处于非常艰苦的条件下。"
+    },
+    {
+      "id": 38,
+      "startMs": 180060,
+      "endMs": 188880,
+      "en": "People in Ceuta have protested against this, demanding their return to Morocco, where most came from, or more action by Spain.",
+      "zh": "休达民众对此提出抗议，要求把他们送回大多数人的来源国摩洛哥，或要求西班牙采取更多行动。"
+    },
+    {
+      "id": 39,
+      "startMs": 188880,
+      "endMs": 193120,
+      "en": "This partly responds to that. This is being done, but as I say, it's a temporary salve.",
+      "zh": "这就是部分回应。现在正在采取行动，但正如我所说，这只是暂时的缓解办法。"
+    },
+    {
+      "id": 40,
+      "startMs": 193440,
+      "endMs": 199520,
+      "en": "Local groups are also trying to help these vulnerable young people,",
+      "zh": "当地团体也在努力帮助这些处境脆弱的年轻人，"
+    },
+    {
+      "id": 41,
+      "startMs": 199840,
+      "endMs": 201520,
+      "en": "many of them teenagers,",
+      "zh": "其中许多还是青少年，"
+    },
+    {
+      "id": 42,
+      "startMs": 201840,
+      "endMs": 204880,
+      "en": "so there's a sense that they are in a very difficult situation.",
+      "zh": "所以人们认为，他们正处于非常困难的境地。"
+    },
+    {
+      "id": 43,
+      "startMs": 204880,
+      "endMs": 208400,
+      "en": "Local groups have been trying to give them food and aid.",
+      "zh": "当地团体一直在努力为他们提供食物和援助。"
+    },
+    {
+      "id": 44,
+      "startMs": 208720,
+      "endMs": 214560,
+      "en": "Briefly, what impact will this chaotic transfer have on Spanish Prime Minister Pedro Sánchez?",
+      "zh": "最后简单问一句：我们看到的混乱转移会对西班牙首相佩德罗·桑切斯有什么影响？"
+    },
+    {
+      "id": 45,
+      "startMs": 214800,
+      "endMs": 220400,
+      "en": "Huge. I mean, this won't help that. He's had a real big political crisis over this.",
+      "zh": "影响很大。我的意思是，这无助于解决问题。他因此陷入了严重的政治危机。"
+    },
+    {
+      "id": 46,
+      "startMs": 220720,
+      "endMs": 225920,
+      "en": "He was seen both in Spain and in Europe as being too lenient over the whole migration issue.",
+      "zh": "在西班牙和欧洲，人们都认为他在移民问题上过于宽松。"
+    },
+    {
+      "id": 47,
+      "startMs": 226240,
+      "endMs": 235600,
+      "en": "There's been big pushback. His ratings have fallen. He gets flak from the right-wing opposition and other elements within Spain.",
+      "zh": "他遭到了强烈反弹，支持率已经下降；他受到右翼反对党和西班牙国内其他方面的抨击。"
+    },
+    {
+      "id": 48,
+      "startMs": 235840,
+      "endMs": 240800,
+      "en": "As I say, these scenes—what's happened today—won't be seen as really doing anything about that. Sebastian Usher.",
+      "zh": "正如我所说，今天发生的这些场面不会被视为真正解决了问题。塞巴斯蒂安·厄舍。"
+    },
+    {
+      "id": 49,
+      "startMs": 241680,
+      "endMs": 248420,
+      "en": "President Trump has made no secret of his fury at US allies that have failed to give military support to the conflict with Iran.",
+      "zh": "特朗普总统毫不掩饰自己的愤怒：美国盟友未能为与伊朗的冲突提供军事支持。"
+    },
+    {
+      "id": 50,
+      "startMs": 248900,
+      "endMs": 254260,
+      "en": "Now South Korea has ruled out sending any troops, despite coming under pressure in recent weeks.",
+      "zh": "韩国排除了派遣部队的可能，尽管近几周一直承受压力。"
+    },
+    {
+      "id": 51,
+      "startMs": 254740,
+      "endMs": 262180,
+      "en": "However, President Lee Jae Myung says he is considering sending assets to support South Korean commercial vessels in the Strait of Hormuz.",
+      "zh": "不过，韩国总统李在明表示，他正在考虑派遣力量，为在霍尔木兹海峡航行的韩国商船提供支持。"
+    },
+    {
+      "id": 52,
+      "startMs": 262580,
+      "endMs": 265220,
+      "en": "Our correspondent in Seoul is Jake Kwon.",
+      "zh": "驻首尔记者杰克·权报道。"
+    },
+    {
+      "id": 53,
+      "startMs": 265540,
+      "endMs": 269060,
+      "en": "I was in the room when President Lee Jae Myung held a press conference",
+      "zh": "李在明总统举行新闻发布会时，我就在现场。"
+    },
+    {
+      "id": 54,
+      "startMs": 269060,
+      "endMs": 275460,
+      "en": "and of course the burning question on all of our minds was whether he will send any military assets to the Strait of Hormuz and potentially Iran",
+      "zh": "当然，我们所有人心中迫切的问题是，他是否会向霍尔木兹海峡、甚至伊朗派遣军事力量。"
+    },
+    {
+      "id": 55,
+      "startMs": 275460,
+      "endMs": 284340,
+      "en": "to help with the American war effort there. And what he was saying was that it is going to be his principle",
+      "zh": "以协助美国在那里进行的战争。他所说的是，他的原则将是："
+    },
+    {
+      "id": 56,
+      "startMs": 284740,
+      "endMs": 289940,
+      "en": "that South Korean military will not be involved in the war that President Trump has started",
+      "zh": "韩国军队不会参与特朗普总统发起的战争。"
+    },
+    {
+      "id": 57,
+      "startMs": 290340,
+      "endMs": 297140,
+      "en": "but he still had left the door open for any kind of other assets to help with support operation in the area.",
+      "zh": "但他仍为其他任何形式的力量参与该地区的支援行动留下了余地。"
+    },
+    {
+      "id": 58,
+      "startMs": 297140,
+      "endMs": 301540,
+      "en": "He pointed out that there's already a South Korean destroyer in the Middle East",
+      "zh": "他指出，已有一艘韩国驱逐舰在中东。"
+    },
+    {
+      "id": 59,
+      "startMs": 301540,
+      "endMs": 308520,
+      "en": "that has been helping out with anti-piracy operations. It has been helping South Korean ships, escort them through the Red Sea",
+      "zh": "这艘驱逐舰一直在执行反海盗行动，也一直在帮助韩国船只护航，使它们通过红海。"
+    },
+    {
+      "id": 60,
+      "startMs": 308920,
+      "endMs": 315320,
+      "en": "already, so he said that their scope could be expanded to help South Korean ships traverse more safely.",
+      "zh": "因此他说，其任务范围可以扩大，帮助韩国船只更安全地航行。"
+    },
+    {
+      "id": 61,
+      "startMs": 315640,
+      "endMs": 320920,
+      "en": "And Jake, just to expand on that, what precisely did he want in terms of military help from South Korea?",
+      "zh": "杰克，具体来说，他希望韩国提供什么军事援助？"
+    },
+    {
+      "id": 62,
+      "startMs": 321980,
+      "endMs": 327820,
+      "en": "Well, President Trump didn't exactly spell it out, but what he did say was that, you know, he was disappointed",
+      "zh": "特朗普总统没有明确说明，但他说，他对韩国感到失望。"
+    },
+    {
+      "id": 63,
+      "startMs": 327820,
+      "endMs": 330540,
+      "en": "at South Korea for not giving him a hand",
+      "zh": "因为韩国没有向他伸出援手。"
+    },
+    {
+      "id": 64,
+      "startMs": 330780,
+      "endMs": 334140,
+      "en": "with what he called a very easy military operation.",
+      "zh": "在他所谓的这场非常容易的军事行动中。"
+    },
+    {
+      "id": 65,
+      "startMs": 334460,
+      "endMs": 342220,
+      "en": "Now, when you speak to the experts, they have said that perhaps this means, you know, helping with getting rid of the mines in the Strait of Hormuz",
+      "zh": "专家表示，这或许意味着帮助清除霍尔木兹海峡的水雷。"
+    },
+    {
+      "id": 66,
+      "startMs": 342220,
+      "endMs": 349180,
+      "en": "or helping other, you know, oil tankers or other ships traverse through the Strait of Hormuz by escorting them",
+      "zh": "或者为其他油轮和船只护航，帮助它们通过霍尔木兹海峡。"
+    },
+    {
+      "id": 67,
+      "startMs": 349500,
+      "endMs": 354940,
+      "en": "all the way up to, you know, perhaps even helping with anti-drone or anti-missile operations.",
+      "zh": "甚至还可能协助开展反无人机或反导弹行动。"
+    },
+    {
+      "id": 68,
+      "startMs": 354940,
+      "endMs": 360460,
+      "en": "South Korea does produce some state-of-the-art missiles that can shoot down drones as well as missiles.",
+      "zh": "韩国确实生产一些先进导弹，既能击落无人机，也能拦截导弹。"
+    },
+    {
+      "id": 69,
+      "startMs": 360540,
+      "endMs": 363900,
+      "en": "It is already selling them to UAE and Saudi Arabia.",
+      "zh": "韩国已经在向阿联酋和沙特阿拉伯出售这些导弹。"
+    },
+    {
+      "id": 70,
+      "startMs": 364300,
+      "endMs": 367900,
+      "en": "So, you know, these are different helps that South Korea could potentially provide.",
+      "zh": "所以，这些都是韩国可能提供的不同形式的帮助。"
+    },
+    {
+      "id": 71,
+      "startMs": 368140,
+      "endMs": 373580,
+      "en": "Now the problem is that, you know, South Korean constitution does forbid it from entering any war of aggression.",
+      "zh": "问题在于，韩国宪法禁止韩国参与任何侵略战争。"
+    },
+    {
+      "id": 72,
+      "startMs": 373980,
+      "endMs": 378220,
+      "en": "And of course this is a very unpopular proposition from President Trump.",
+      "zh": "当然，这是特朗普总统提出的一个非常不得人心的主张。"
+    },
+    {
+      "id": 73,
+      "startMs": 378780,
+      "endMs": 382560,
+      "en": "And Seoul has to, I suppose, tread carefully on this matter, Jake",
+      "zh": "杰克，我想，首尔必须谨慎处理此事。"
+    },
+    {
+      "id": 74,
+      "startMs": 382640,
+      "endMs": 387120,
+      "en": "because we've seen that President Trump has ratcheted up pressure in recent weeks and months",
+      "zh": "因为我们看到，特朗普总统近几周和几个月来不断加大压力。"
+    },
+    {
+      "id": 75,
+      "startMs": 387120,
+      "endMs": 393280,
+      "en": "and he's scaled down military exercises, and he's had a lot of warm words for North Korea's leader, too.",
+      "zh": "他缩减了军事演习，也对朝鲜领导人说了许多友善的话。"
+    },
+    {
+      "id": 76,
+      "startMs": 393440,
+      "endMs": 399600,
+      "en": "He has. I mean, you know, he said that this was unrelated to what's happening with South Korea",
+      "zh": "确实如此。他说，这与韩国发生的事情无关。"
+    },
+    {
+      "id": 77,
+      "startMs": 399920,
+      "endMs": 405200,
+      "en": "but it really seemed like he was punishing South Korea for not giving him a hand with Iran.",
+      "zh": "但这确实像是在惩罚韩国，因为韩国没有在伊朗问题上向他伸出援手。"
+    },
+    {
+      "id": 78,
+      "startMs": 405680,
+      "endMs": 411920,
+      "en": "His, you know, insistence that he has good relations with North Korea, the sudden pulling out from the joint exercise",
+      "zh": "他坚持声称与朝鲜关系良好，又突然退出与韩国的联合演习，"
+    },
+    {
+      "id": 79,
+      "startMs": 411920,
+      "endMs": 415920,
+      "en": "with South Korea—these were all aimed at kind of turning up the heat against South Korea.",
+      "zh": "这些做法都是为了向韩国施压。"
+    },
+    {
+      "id": 80,
+      "startMs": 415920,
+      "endMs": 421440,
+      "en": "And South Korea is in the middle of a critical trade negotiation with the United States.",
+      "zh": "而韩国正处于与美国进行关键贸易谈判的过程中。"
+    },
+    {
+      "id": 81,
+      "startMs": 421440,
+      "endMs": 426800,
+      "en": "So there's a lot at stake for South Korea, and it is really stuck between a rock and a hard place",
+      "zh": "所以韩国面临重大利害关系，确实进退两难。"
+    },
+    {
+      "id": 82,
+      "startMs": 426800,
+      "endMs": 432160,
+      "en": "because on one hand it wants to appease Washington. It has already pledged",
+      "zh": "一方面，韩国想安抚华盛顿；它已经承诺"
+    },
+    {
+      "id": 83,
+      "startMs": 432240,
+      "endMs": 437280,
+      "en": "to put in $350 billion in investment into America's manufacturing sector.",
+      "zh": "向美国制造业投入3500亿美元。"
+    },
+    {
+      "id": 84,
+      "startMs": 437440,
+      "endMs": 442580,
+      "en": "At the same time, it has a diplomatic relationship that it wants to preserve with Iran.",
+      "zh": "另一方面，韩国希望维护与伊朗的外交关系。"
+    },
+    {
+      "id": 85,
+      "startMs": 442820,
+      "endMs": 449540,
+      "en": "You know, South Korea used to have a business relationship. South Korea still gets some 60% of its oil from the Middle East",
+      "zh": "韩国过去与伊朗有商业关系；如今韩国的石油仍有约60%来自中东。"
+    },
+    {
+      "id": 86,
+      "startMs": 449860,
+      "endMs": 456740,
+      "en": "So South Korea is hoping that, once this is all over, it can go back to how it was before. Jake Kwon.",
+      "zh": "因此韩国希望这一切结束后，能够回到从前。杰克·权。"
+    },
+    {
+      "id": 87,
+      "startMs": 457700,
+      "endMs": 463460,
+      "en": "People in Russia are voting in the first parliamentary election since Russia's full-scale invasion of Ukraine.",
+      "zh": "俄罗斯民众正在参加俄罗斯全面入侵乌克兰以来的首次议会选举投票。"
+    },
+    {
+      "id": 88,
+      "startMs": 464100,
+      "endMs": 471380,
+      "en": "Surprises are not expected. The poll is set to deliver another parliament dominated by the party of power, United Russia",
+      "zh": "预计不会出现意外。这次选举预计将产生又一届由执政党统一俄罗斯党主导的议会，"
+    },
+    {
+      "id": 89,
+      "startMs": 471860,
+      "endMs": 475300,
+      "en": "and a house of MPs fiercely loyal to Vladimir Putin.",
+      "zh": "议员们将对弗拉基米尔·普京极其忠诚。"
+    },
+    {
+      "id": 90,
+      "startMs": 475300,
+      "endMs": 478740,
+      "en": "Critics dismiss the vote as neither free nor fair.",
+      "zh": "批评者认为这次投票既不自由，也不公平。"
+    },
+    {
+      "id": 91,
+      "startMs": 479380,
+      "endMs": 484100,
+      "en": "These people in Moscow told the BBC the outcome won't have any impact on their lives.",
+      "zh": "这些莫斯科人告诉英国广播公司，选举结果不会对他们的生活产生任何影响。"
+    },
+    {
+      "id": 92,
+      "startMs": 484260,
+      "endMs": 486100,
+      "en": "To be fair, I don't think it will change in particular.",
+      "zh": "公平地说，我不认为这会带来什么特别的改变。"
+    },
+    {
+      "id": 93,
+      "startMs": 486100,
+      "endMs": 487620,
+      "en": "I think it would be pretty much the same.",
+      "zh": "我认为基本上会和现在一样。"
+    },
+    {
+      "id": 94,
+      "startMs": 487620,
+      "endMs": 499360,
+      "en": "I think a lot of people in our country want change, but we haven't a voice. We haven't a voice.",
+      "zh": "我认为我国很多人想要改变，但我们没有发声的渠道。我们没有发声的渠道。"
+    },
+    {
+      "id": 95,
+      "startMs": 499680,
+      "endMs": 501840,
+      "en": "The Kremlin has dismissed critics of the poll.",
+      "zh": "克里姆林宫驳斥了对这次投票的批评。"
+    },
+    {
+      "id": 96,
+      "startMs": 502320,
+      "endMs": 507520,
+      "en": "A spokesperson recently said, \"We have our own political system, our own political process.\"",
+      "zh": "一名发言人最近说：“我们有自己的政治制度和政治进程。”"
+    },
+    {
+      "id": 97,
+      "startMs": 508080,
+      "endMs": 513440,
+      "en": "Moscow is expected to use the poll to claim that most Russians back President Putin and the war.",
+      "zh": "预计莫斯科会利用这次投票宣称，大多数俄罗斯人支持普京总统和这场战争。"
+    },
+    {
+      "id": 98,
+      "startMs": 514080,
+      "endMs": 517760,
+      "en": "BBC Russian's Liza Fokht gave me some more context from Berlin.",
+      "zh": "英国广播公司俄语部的莉扎·福赫特在柏林为我补充了背景。"
+    },
+    {
+      "id": 99,
+      "startMs": 518080,
+      "endMs": 520800,
+      "en": "So I think there's little doubt about the outcome of the election,",
+      "zh": "所以我认为，选举结果几乎没有悬念，"
+    },
+    {
+      "id": 100,
+      "startMs": 520880,
+      "endMs": 525840,
+      "en": "given all the meaningful opposition to Vladimir Putin and to the ruling party, United Russia,",
+      "zh": "因为所有真正反对弗拉基米尔·普京和执政党统一俄罗斯党的力量，"
+    },
+    {
+      "id": 101,
+      "startMs": 526400,
+      "endMs": 529440,
+      "en": "just simply wasn't allowed to participate in this election.",
+      "zh": "都根本不被允许参加这次选举。"
+    },
+    {
+      "id": 102,
+      "startMs": 529520,
+      "endMs": 536960,
+      "en": "There's little intrigue about which party is going to come second, but the differences between those parties are mostly cosmetic,",
+      "zh": "哪个党会位居第二几乎没有悬念，但这些政党之间的差异大多只是表面上的，"
+    },
+    {
+      "id": 103,
+      "startMs": 536960,
+      "endMs": 542080,
+      "en": "because all of them have, at some point, pledged their loyalty to the Kremlin and to Vladimir Putin.",
+      "zh": "因为它们都曾在某个时候宣誓效忠克里姆林宫和弗拉基米尔·普京。"
+    },
+    {
+      "id": 104,
+      "startMs": 542160,
+      "endMs": 546480,
+      "en": "Liza, is there any level of a supposed opposition being expressed at all?",
+      "zh": "莉扎，所谓的反对声音是否有任何程度的表达？"
+    },
+    {
+      "id": 105,
+      "startMs": 546880,
+      "endMs": 554320,
+      "en": "Virtually none. One of the oldest Russian parties, called Yabloko, which means an apple in Russian, was going to run in this election.",
+      "zh": "几乎没有。俄罗斯最古老的政党之一叫亚博卢科，俄语意为“苹果”，原本要参加这次选举。"
+    },
+    {
+      "id": 106,
+      "startMs": 554580,
+      "endMs": 563380,
+      "en": "Under the slogan ‘For peace’, it seemed to have attracted lots and lots of attention, especially from young people on social media.",
+      "zh": "该党打着“为了和平”的口号，似乎吸引了大量关注，尤其受到社交媒体上年轻人的关注。"
+    },
+    {
+      "id": 107,
+      "startMs": 563380,
+      "endMs": 567460,
+      "en": "But in the end, the Central Election Commission barred them from participating.",
+      "zh": "但最终，中央选举委员会禁止他们参加选举。"
+    },
+    {
+      "id": 108,
+      "startMs": 567460,
+      "endMs": 575700,
+      "en": "And the Russian opposition in exile has offered conflicting guidance to those who oppose the war and Vladimir Putin on what to do in this election.",
+      "zh": "流亡海外的俄罗斯反对派向反对战争和弗拉基米尔·普京的人提出了相互冲突的投票指引。"
+    },
+    {
+      "id": 109,
+      "startMs": 575700,
+      "endMs": 583620,
+      "en": "But all parties on the ballot essentially support Vladimir Putin's policies and, at the end of the day, the war in Ukraine.",
+      "zh": "但选票上的所有政党基本都支持弗拉基米尔·普京的政策，归根结底也支持乌克兰战争。"
+    },
+    {
+      "id": 110,
+      "startMs": 584100,
+      "endMs": 586020,
+      "en": "Liza, how about the people in Russia?",
+      "zh": "莉扎，俄罗斯民众又怎么看？"
+    },
+    {
+      "id": 111,
+      "startMs": 586180,
+      "endMs": 589140,
+      "en": "What about their thoughts on the conflict with Ukraine?",
+      "zh": "他们如何看待与乌克兰的冲突？"
+    },
+    {
+      "id": 112,
+      "startMs": 589620,
+      "endMs": 591700,
+      "en": "Will this factor in how they vote in any way?",
+      "zh": "这会以某种方式影响他们的投票吗？"
+    },
+    {
+      "id": 113,
+      "startMs": 591780,
+      "endMs": 598660,
+      "en": "I mean, the war in Ukraine is obviously, as you can imagine, the main issue concerning people.",
+      "zh": "我的意思是，正如你可以想象的，乌克兰战争显然是人们最关心的问题。"
+    },
+    {
+      "id": 114,
+      "startMs": 598660,
+      "endMs": 604260,
+      "en": "Yet the parties running for the office, they're not really offering any alternative solution to this war,",
+      "zh": "然而，参选的政党并没有真正为这场战争提供任何替代方案，"
+    },
+    {
+      "id": 115,
+      "startMs": 604260,
+      "endMs": 611060,
+      "en": "because, like, for instance, most of the parties include candidates who participated in the invasion of Ukraine, who fought in Ukraine.",
+      "zh": "因为，比如说，大多数政党都包括曾参与入侵乌克兰、并在乌克兰作战的候选人。"
+    },
+    {
+      "id": 116,
+      "startMs": 611380,
+      "endMs": 614580,
+      "en": "Essentially, for some of these veterans, this election offers a path to power.",
+      "zh": "本质上，对其中一些退伍军人来说，这次选举提供了一条通往权力的道路。"
+    },
+    {
+      "id": 117,
+      "startMs": 614600,
+      "endMs": 619320,
+      "en": "A path in Russian politics.",
+      "zh": "一条通往俄罗斯政坛的道路。"
+    },
+    {
+      "id": 118,
+      "startMs": 619320,
+      "endMs": 626120,
+      "en": "So certainly, this is the issue that I think most people would like to see on the ballot, but that's just not happening.",
+      "zh": "所以，这无疑是大多数人希望在选票上看到的问题，但这并没有发生。"
+    },
+    {
+      "id": 119,
+      "startMs": 626840,
+      "endMs": 629480,
+      "en": "And it's a very difficult process to analyze.",
+      "zh": "而且这很难分析。"
+    },
+    {
+      "id": 120,
+      "startMs": 629560,
+      "endMs": 632680,
+      "en": "There are a lot of critics who say that it's not really free and fair.",
+      "zh": "许多批评者说，这次选举并不真正自由和公平。"
+    },
+    {
+      "id": 121,
+      "startMs": 632680,
+      "endMs": 637320,
+      "en": "And we heard some voices just a short while ago saying, \"Well, we actually have no voice in this election.\"",
+      "zh": "就在不久前，我们听到有人说：“我们实际上在这次选举中没有发言权。”"
+    },
+    {
+      "id": 122,
+      "startMs": 638280,
+      "endMs": 642120,
+      "en": "I think this is certainly how most people feel, and you've got to understand that the parliament,",
+      "zh": "我认为这确实是大多数人的感受，而且你必须明白，俄罗斯议会，"
+    },
+    {
+      "id": 123,
+      "startMs": 642120,
+      "endMs": 647640,
+      "en": "just like its role in Russian politics, has been steadily declining over the past decades.",
+      "zh": "就像它在俄罗斯政治中的作用一样，在过去几十年里一直在逐步下降。"
+    },
+    {
+      "id": 124,
+      "startMs": 647720,
+      "endMs": 652200,
+      "en": "And I doubt that many people can actually name more than 10 or 15 MPs.",
+      "zh": "我怀疑很多人甚至说不出超过十到十五名议员的名字。"
+    },
+    {
+      "id": 125,
+      "startMs": 652520,
+      "endMs": 654840,
+      "en": "Liza Fokht. To South Africa,",
+      "zh": "莉扎·福赫特。下面来看南非，"
+    },
+    {
+      "id": 126,
+      "startMs": 655000,
+      "endMs": 660920,
+      "en": "where the president, Cyril Ramaphosa, has formed a task force to investigate a spate of brutal killings of women",
+      "zh": "南非总统西里尔·拉马福萨成立了专案组，调查一系列残酷杀害女性的案件，"
+    },
+    {
+      "id": 127,
+      "startMs": 660920,
+      "endMs": 664680,
+      "en": "that has sparked a nationwide debate over women's safety.",
+      "zh": "这些案件引发了全国范围内关于女性安全的讨论。"
+    },
+    {
+      "id": 128,
+      "startMs": 665240,
+      "endMs": 669800,
+      "en": "Nine bodies of women have been found in the east of Johannesburg over the past two months.",
+      "zh": "过去两个月里，约翰内斯堡东部发现了九具女性遗体。"
+    },
+    {
+      "id": 129,
+      "startMs": 670200,
+      "endMs": 672040,
+      "en": "From there, Pumza Fihlani has more.",
+      "zh": "普姆扎·菲赫拉尼从当地带来更多报道。"
+    },
+    {
+      "id": 130,
+      "startMs": 672520,
+      "endMs": 677100,
+      "en": "The gruesome murders are causing fear and anxiety for many women in South Africa.",
+      "zh": "这些骇人的谋杀让南非许多女性感到恐惧和焦虑。"
+    },
+    {
+      "id": 131,
+      "startMs": 677740,
+      "endMs": 683180,
+      "en": "While the police have confirmed that there are concerning similarities in the bruising on some of the bodies,",
+      "zh": "警方确认，部分遗体上的瘀伤存在令人担忧的相似之处，"
+    },
+    {
+      "id": 132,
+      "startMs": 683580,
+      "endMs": 690140,
+      "en": "they've said it's too early to say for sure if this is the work of one person, a group of men, or a copycat.",
+      "zh": "但警方表示，现在断言这是一个人、一群男性还是模仿者所为还为时过早。"
+    },
+    {
+      "id": 133,
+      "startMs": 690780,
+      "endMs": 696700,
+      "en": "South Africa's president, Cyril Ramaphosa, has assembled a special team which includes government ministers.",
+      "zh": "南非总统西里尔·拉马福萨组建了一个特别小组，其中包括政府部长。"
+    },
+    {
+      "id": 134,
+      "startMs": 697020,
+      "endMs": 703180,
+      "en": "Their job is to make sure that the investigations get the resources needed, and a high priority.",
+      "zh": "他们的工作是确保调查获得所需资源，并得到高度优先处理。"
+    },
+    {
+      "id": 135,
+      "startMs": 703740,
+      "endMs": 708060,
+      "en": "South Africa has one of the highest rates of gender-based violence in the world.",
+      "zh": "南非是世界上性别暴力发生率最高的国家之一。"
+    },
+    {
+      "id": 136,
+      "startMs": 708540,
+      "endMs": 717900,
+      "en": "At the same time, prosecutions are low, and trials often take years to conclude, something critics say needs to be addressed urgently.",
+      "zh": "与此同时，起诉率很低，审判往往需要多年才能结束，批评者说这些问题亟须解决。"
+    },
+    {
+      "id": 137,
+      "startMs": 718140,
+      "endMs": 724940,
+      "en": "One of the women killed was Elizabeth Moselakgomo, a 38-year-old mother who disappeared after leaving her home for a run.",
+      "zh": "遇害女性之一是38岁的母亲伊丽莎白·莫塞拉克戈莫，她离家跑步后失踪。"
+    },
+    {
+      "id": 138,
+      "startMs": 725500,
+      "endMs": 728460,
+      "en": "Her death has triggered an outpouring of grief and outrage.",
+      "zh": "她的死亡引发了悲痛与愤怒。"
+    },
+    {
+      "id": 139,
+      "startMs": 728940,
+      "endMs": 733260,
+      "en": "Fellow runners across the country have dedicated their daily runs to her in remembrance.",
+      "zh": "全国各地的跑友将每天的跑步献给她，以示纪念。"
+    },
+    {
+      "id": 140,
+      "startMs": 733900,
+      "endMs": 737280,
+      "en": "Lesiba Molefe was one of Elizabeth's regular running mates.",
+      "zh": "莱西巴·莫勒菲是伊丽莎白经常一起跑步的伙伴。"
+    },
+    {
+      "id": 141,
+      "startMs": 737440,
+      "endMs": 743520,
+      "en": "She went for a run on Wednesday, and she never returned home.",
+      "zh": "她星期三出去跑步，却再也没有回家。"
+    },
+    {
+      "id": 142,
+      "startMs": 744320,
+      "endMs": 749840,
+      "en": "Elizabeth was like a candle. She would burn herself just to give other people light.",
+      "zh": "伊丽莎白就像一支蜡烛。她燃烧自己，只为给别人带来光明。"
+    },
+    {
+      "id": 143,
+      "startMs": 749840,
+      "endMs": 757760,
+      "en": "You give Elizabeth a simple hi, she would return it back with a big, huge, beautiful smile.",
+      "zh": "你简单向伊丽莎白打个招呼，她会报以大大的、灿烂美丽的笑容。"
+    },
+    {
+      "id": 144,
+      "startMs": 758080,
+      "endMs": 760720,
+      "en": "I'm hoping for a change in our country.",
+      "zh": "我希望我们的国家有所改变。"
+    },
+    {
+      "id": 145,
+      "startMs": 760880,
+      "endMs": 768880,
+      "en": "There's been a lot of failures from the authorities, and we, as young people, we've been quiet.",
+      "zh": "当局有很多失职，而我们年轻人一直保持沉默。"
+    },
+    {
+      "id": 146,
+      "startMs": 769760,
+      "endMs": 776560,
+      "en": "I'm hoping that the same commotion in remembrance of our sister, we can do it as young people again.",
+      "zh": "我希望我们为这位姐妹举行的同样悼念活动，能让年轻人再次行动起来。"
+    },
+    {
+      "id": 147,
+      "startMs": 777600,
+      "endMs": 780320,
+      "en": "And try and correct the country.",
+      "zh": "努力让这个国家回到正轨。"
+    },
+    {
+      "id": 148,
+      "startMs": 780640,
+      "endMs": 786160,
+      "en": "Because the feeling around the country right now is so sad that ladies, I can't even walk around.",
+      "zh": "因为现在全国的氛围如此悲伤，以至于女性甚至不敢独自行走。"
+    },
+    {
+      "id": 149,
+      "startMs": 786480,
+      "endMs": 790880,
+      "en": "In the corridors, I've heard them in my workplace, you know, wherever we are,",
+      "zh": "在走廊里、在我的工作场所，我听到她们说，无论我们身在何处，"
+    },
+    {
+      "id": 150,
+      "startMs": 791360,
+      "endMs": 794480,
+      "en": "they say that we are not safe because it's not about walking in groups.",
+      "zh": "她们都说我们并不安全，因为结伴而行也无法解决问题。"
+    },
+    {
+      "id": 151,
+      "startMs": 794900,
+      "endMs": 798980,
+      "en": "This thing happened in a day. Kidnappers take them during the day.",
+      "zh": "这件事发生在白天。绑匪会在白天把她们带走。"
+    },
+    {
+      "id": 152,
+      "startMs": 799300,
+      "endMs": 800100,
+      "en": "Lesiba Molefe.",
+      "zh": "莱西巴·莫勒菲。"
+    },
+    {
+      "id": 153,
+      "startMs": 801780,
+      "endMs": 809140,
+      "en": "Still to come in this podcast, how drones are being trialled by police in the UK to help them manage large crowds at football grounds.",
+      "zh": "本期节目稍后将介绍：英国警方如何试用无人机，帮助管理足球场的大型人群。"
+    },
+    {
+      "id": 154,
+      "startMs": 809220,
+      "endMs": 813220,
+      "en": "This really gives me an idea of how everything's flowing because I know exactly where this is.",
+      "zh": "这让我很好地了解了事情的进展，因为我确切知道这里的情况。"
+    },
+    {
+      "id": 155,
+      "startMs": 813220,
+      "endMs": 816340,
+      "en": "It's just about getting ahead of any potential safety and crime issues.",
+      "zh": "这只是为了提前应对潜在的安全和犯罪问题。"
+    },
+    {
+      "id": 156,
+      "startMs": 816340,
+      "endMs": 818420,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 157,
+      "startMs": 819220,
+      "endMs": 827300,
+      "en": "The recent AI safety concerns have been fuelled by stark warnings from AI scientists about the growing risks of artificial intelligence going rogue.",
+      "zh": "近期对人工智能安全的担忧，源于人工智能科学家发出的严厉警告：人工智能失控的风险正在上升。"
+    },
+    {
+      "id": 158,
+      "startMs": 827860,
+      "endMs": 831940,
+      "en": "Some of the most pessimistic predictions warn that there is a greater than 10% chance",
+      "zh": "一些最悲观的预测警告说，出现超过百分之十的可能性，"
+    },
+    {
+      "id": 159,
+      "startMs": 831940,
+      "endMs": 836180,
+      "en": "that AI could wipe out all humans in the next ten years.",
+      "zh": "人工智能可能在未来十年消灭全人类。"
+    },
+    {
+      "id": 160,
+      "startMs": 836580,
+      "endMs": 838340,
+      "en": "But exactly how could that happen?",
+      "zh": "但这究竟会如何发生？"
+    },
+    {
+      "id": 161,
+      "startMs": 838900,
+      "endMs": 844260,
+      "en": "Cyber correspondent Joe Tidy looks at some of the scenarios being imagined and assesses how likely they are.",
+      "zh": "网络事务记者乔·泰迪考察一些设想中的情景，并评估它们发生的可能性。"
+    },
+    {
+      "id": 162,
+      "startMs": 844740,
+      "endMs": 852660,
+      "en": "The warnings have ramped up, but how could a superintelligent AI that wanted to control our world actually kill us all?",
+      "zh": "警告声越来越强烈，但一个想要控制世界的超级智能人工智能，究竟会如何杀死我们所有人？"
+    },
+    {
+      "id": 163,
+      "startMs": 853800,
+      "endMs": 860520,
+      "en": "Let's look at some of these worst-case scenarios that so-called AI doomers are talking about, and assess how likely they are.",
+      "zh": "让我们看看所谓人工智能末日论者谈论的一些最糟情景，并评估其发生的可能性。"
+    },
+    {
+      "id": 164,
+      "startMs": 861920,
+      "endMs": 867680,
+      "en": "One thing that recent AI outbreaks have shown us is that AIs are now very good at hacking.",
+      "zh": "近期的人工智能失控事件表明，人工智能现在非常擅长黑客攻击。"
+    },
+    {
+      "id": 165,
+      "startMs": 868160,
+      "endMs": 873840,
+      "en": "The kind of dizzying rate of progress means that things that were previously in the realms of science fiction are now becoming reality.",
+      "zh": "这种令人眼花缭乱的进步速度，意味着过去属于科幻领域的事物如今正成为现实。"
+    },
+    {
+      "id": 166,
+      "startMs": 874240,
+      "endMs": 877840,
+      "en": "Jacob Coxon is a former researcher at OpenAI and Anthropic.",
+      "zh": "雅各布·考克森曾是 OpenAI 和 Anthropic 的研究员。"
+    },
+    {
+      "id": 167,
+      "startMs": 878320,
+      "endMs": 882560,
+      "en": "He quit the companies, saying that safety wasn't being taken seriously enough.",
+      "zh": "他离开了这两家公司，说它们没有足够认真地对待安全问题。"
+    },
+    {
+      "id": 168,
+      "startMs": 882880,
+      "endMs": 885120,
+      "en": "To give a concrete example, AIs can hack.",
+      "zh": "举个具体例子，人工智能可以进行黑客攻击。"
+    },
+    {
+      "id": 169,
+      "startMs": 885200,
+      "endMs": 889580,
+      "en": "They could hack into the sort of critical infrastructure that the world runs on.",
+      "zh": "它们可能入侵支撑世界运行的关键基础设施。"
+    },
+    {
+      "id": 170,
+      "startMs": 889900,
+      "endMs": 895900,
+      "en": "The scary scenario here is that a rogue AI might infiltrate the computer networks of internet providers,",
+      "zh": "可怕的情景是，失控的人工智能可能渗透互联网服务商的计算机网络，"
+    },
+    {
+      "id": 171,
+      "startMs": 896300,
+      "endMs": 899260,
+      "en": "energy grids, or even nuclear power stations.",
+      "zh": "以及能源电网，甚至核电站。"
+    },
+    {
+      "id": 172,
+      "startMs": 899660,
+      "endMs": 906620,
+      "en": "The AIs could shut it all down, so there's no electricity for humans, no heating or cooling, no internet connectivity.",
+      "zh": "人工智能可能将这一切关闭，让人类没有电力、没有供暖或制冷，也没有互联网连接。"
+    },
+    {
+      "id": 173,
+      "startMs": 907860,
+      "endMs": 909860,
+      "en": "It could cause untold chaos.",
+      "zh": "这可能造成难以估量的混乱。"
+    },
+    {
+      "id": 174,
+      "startMs": 910260,
+      "endMs": 914820,
+      "en": "In some imagined scenarios, nuclear catastrophes are possible.",
+      "zh": "在一些设想的情景中，核灾难是可能发生的。"
+    },
+    {
+      "id": 175,
+      "startMs": 916140,
+      "endMs": 921260,
+      "en": "Another scenario was explored in an influential research paper called AI 2027.",
+      "zh": "另一种情景在一篇有影响力的研究论文《AI 2027》中得到探讨。"
+    },
+    {
+      "id": 176,
+      "startMs": 922060,
+      "endMs": 924380,
+      "en": "Thomas Larsen was one of the co-authors.",
+      "zh": "托马斯·拉森是论文的合著者之一。"
+    },
+    {
+      "id": 177,
+      "startMs": 924620,
+      "endMs": 928780,
+      "en": "What we sort of said happened in that scenario was in 2027, so next year,",
+      "zh": "我们在那一情景中所说的情况是：到了2027年，也就是明年，"
+    },
+    {
+      "id": 178,
+      "startMs": 929500,
+      "endMs": 936780,
+      "en": "AI is recursively self-improving, and that snowballs to an AI that has access to a large number of robots,",
+      "zh": "人工智能会递归式自我改进，并逐步发展成能够控制大量机器人的人工智能，"
+    },
+    {
+      "id": 179,
+      "startMs": 937180,
+      "endMs": 940380,
+      "en": "which are doing most of the physical tasks throughout the economy.",
+      "zh": "这些机器人承担着整个经济体系中的大部分体力劳动。"
+    },
+    {
+      "id": 180,
+      "startMs": 940620,
+      "endMs": 944780,
+      "en": "In the US, as well as other governments worldwide, are constantly asking this AI for advice.",
+      "zh": "美国以及世界各地的其他政府，都在不断向这个人工智能寻求建议。"
+    },
+    {
+      "id": 181,
+      "startMs": 944780,
+      "endMs": 948540,
+      "en": "However, unfortunately, it's also not friendly and is out for its own ends.",
+      "zh": "然而不幸的是，它并不友善，只为自己的目的行事。"
+    },
+    {
+      "id": 182,
+      "startMs": 949020,
+      "endMs": 952780,
+      "en": "And then eventually what happens is it releases a bioweapon, killing most humans.",
+      "zh": "最终，它释放一种生物武器，杀死大多数人类。"
+    },
+    {
+      "id": 183,
+      "startMs": 953740,
+      "endMs": 958540,
+      "en": "And it continues to run the robot economy itself, and so that resulted in human extinction.",
+      "zh": "它还继续自行运行机器人经济，结果导致人类灭绝。"
+    },
+    {
+      "id": 184,
+      "startMs": 959420,
+      "endMs": 962540,
+      "en": "In another scenario, the end of humanity is a mistake.",
+      "zh": "在另一种情景中，人类的终结是一个错误。"
+    },
+    {
+      "id": 185,
+      "startMs": 962940,
+      "endMs": 970140,
+      "en": "The so-called paperclip maximizer hypothesis was imagined more than 20 years ago by philosopher Nick Bostrom.",
+      "zh": "所谓的“回形针最大化器”假说，是哲学家尼克·博斯特罗姆在20多年前提出的。"
+    },
+    {
+      "id": 186,
+      "startMs": 970700,
+      "endMs": 977100,
+      "en": "So in this thought experiment, it's a hypothetical AI that cares about making as many paperclips as possible.",
+      "zh": "在这个思想实验中，假设有一种人工智能，只在乎制造尽可能多的回形针。"
+    },
+    {
+      "id": 187,
+      "startMs": 977340,
+      "endMs": 981580,
+      "en": "It doesn't hate us or resent us, humans, but that's its sole goal.",
+      "zh": "它并不憎恨或怨恨人类，但那就是它唯一的目标。"
+    },
+    {
+      "id": 188,
+      "startMs": 981580,
+      "endMs": 987900,
+      "en": "And then, from the pursuit of that goal, it would have instrumental subgoals that might include gaining more power,",
+      "zh": "而在追求这一目标的过程中，它会形成工具性子目标，例如获得更多权力，"
+    },
+    {
+      "id": 189,
+      "startMs": 988300,
+      "endMs": 989420,
+      "en": "gaining more intelligence.",
+      "zh": "获得更多智能。"
+    },
+    {
+      "id": 190,
+      "startMs": 989740,
+      "endMs": 996860,
+      "en": "And then the thought is that a sufficiently powerful entity would have instrumental subgoals that might entail",
+      "zh": "接着，这种想法认为，一个足够强大的实体会形成工具性子目标，可能包括"
+    },
+    {
+      "id": 191,
+      "startMs": 996940,
+      "endMs": 998540,
+      "en": "the destruction of humanity,",
+      "zh": "毁灭人类，"
+    },
+    {
+      "id": 192,
+      "startMs": 998860,
+      "endMs": 1003340,
+      "en": "because it could be making more paperclips if there were no humans around to stop it.",
+      "zh": "因为如果没有人类阻止它，它就能制造更多回形针。"
+    },
+    {
+      "id": 193,
+      "startMs": 1003340,
+      "endMs": 1009900,
+      "en": "And if nothing else, our bodies are made of, contain iron atoms that could be transformed into really nice paperclips.",
+      "zh": "退一步说，我们的身体由铁构成，含有能被转化成漂亮回形针的铁原子。"
+    },
+    {
+      "id": 194,
+      "startMs": 1009900,
+      "endMs": 1020160,
+      "en": "It's meant to illustrate this idea that you don't need some very specific hostile goal in a sufficiently powerful superintelligence for it to pose a danger to humanity.",
+      "zh": "这个思想实验意在说明：一个足够强大的超级智能并不需要怀有某个非常具体的敌对目标，也可能对人类构成危险。"
+    },
+    {
+      "id": 195,
+      "startMs": 1020160,
+      "endMs": 1024400,
+      "en": "Almost any goal, unless it really embeds in that goal a care for humans.",
+      "zh": "几乎任何目标都可能如此，除非该目标真正内含对人类的关怀。"
+    },
+    {
+      "id": 196,
+      "startMs": 1024960,
+      "endMs": 1033760,
+      "en": "There is another school of thought about AI safety, though. Guessing how and why a superintelligent AI might try and kill humans is futile.",
+      "zh": "不过，关于人工智能安全还有另一种观点。猜测超级智能人工智能为何以及如何试图杀死人类，是徒劳的。"
+    },
+    {
+      "id": 197,
+      "startMs": 1034320,
+      "endMs": 1039040,
+      "en": "Here's Stuart Russell from the International Association for Safe and Ethical AI.",
+      "zh": "下面是国际安全与道德人工智能协会的斯图尔特·罗素。"
+    },
+    {
+      "id": 198,
+      "startMs": 1039440,
+      "endMs": 1044640,
+      "en": "If you imagine asking chimpanzees how exactly these humans are going to make you extinct,",
+      "zh": "如果你设想去问黑猩猩：人类究竟会如何让你灭绝，"
+    },
+    {
+      "id": 199,
+      "startMs": 1044720,
+      "endMs": 1049600,
+      "en": "they would have a very difficult time answering because what we do, they don't understand.",
+      "zh": "它们会很难回答，因为它们无法理解我们的所作所为。"
+    },
+    {
+      "id": 200,
+      "startMs": 1049760,
+      "endMs": 1056480,
+      "en": "The discussion here has to rest on the assumption that once you create something that's much more intelligent than humans,",
+      "zh": "这里的讨论必须建立在这样一个假设上：一旦创造出比人类聪明得多的东西，"
+    },
+    {
+      "id": 201,
+      "startMs": 1056560,
+      "endMs": 1059920,
+      "en": "we simply no longer have a say in what happens.",
+      "zh": "我们就再也无法决定会发生什么。"
+    },
+    {
+      "id": 202,
+      "startMs": 1060160,
+      "endMs": 1068640,
+      "en": "Joe Tidy. Next we go to Pakistan, where an attack on a mosque in the northwest has left at least 16 people dead, including five policemen.",
+      "zh": "乔·泰迪。接下来是巴基斯坦：西北部一座清真寺遭袭，至少16人死亡，其中包括5名警察。"
+    },
+    {
+      "id": 203,
+      "startMs": 1069200,
+      "endMs": 1075300,
+      "en": "The attackers rammed a vehicle packed with explosives into the building in the Khyber District of Khyber Pakhtunkhwa.",
+      "zh": "袭击者驾驶一辆装满炸药的车辆，撞入开伯尔-普什图省开伯尔区的这座建筑。"
+    },
+    {
+      "id": 204,
+      "startMs": 1075940,
+      "endMs": 1079060,
+      "en": "I caught up with our correspondent, Caroline Davies, in Islamabad.",
+      "zh": "我在伊斯兰堡连线了本台记者卡罗琳·戴维斯。"
+    },
+    {
+      "id": 205,
+      "startMs": 1079380,
+      "endMs": 1082420,
+      "en": "This information comes from a local police official.",
+      "zh": "这是我们从当地一名警方官员那里获得的信息。"
+    },
+    {
+      "id": 206,
+      "startMs": 1082420,
+      "endMs": 1087700,
+      "en": "We've been told that, as you say, there were 11 civilians that have been killed, five police officers.",
+      "zh": "正如你所说，我们获悉有11名平民和5名警察遇害。"
+    },
+    {
+      "id": 207,
+      "startMs": 1087700,
+      "endMs": 1094660,
+      "en": "The same official has also said that during the gun battle they had managed to kill six of the attackers.",
+      "zh": "同一名官员还说，在交火过程中，他们击毙了6名袭击者。"
+    },
+    {
+      "id": 208,
+      "startMs": 1094660,
+      "endMs": 1102100,
+      "en": "Now, what we've been told by this official was that this was a vehicle that had been laden with explosives and drove into and exploded at the mosque.",
+      "zh": "这名官员告诉我们，一辆装满炸药的车辆驶入清真寺并爆炸。"
+    },
+    {
+      "id": 209,
+      "startMs": 1102100,
+      "endMs": 1104500,
+      "en": "We've heard from AP news agency as well.",
+      "zh": "美联社也报道了这一消息。"
+    },
+    {
+      "id": 210,
+      "startMs": 1104500,
+      "endMs": 1109380,
+      "en": "They are saying that close to that mosque there was also a building that was used to house police officials.",
+      "zh": "美联社称，清真寺附近还有一栋用于安置警方官员的建筑。"
+    },
+    {
+      "id": 211,
+      "startMs": 1109460,
+      "endMs": 1112820,
+      "en": "And now, this explosion was pretty substantial, according to AP.",
+      "zh": "据美联社报道，这次爆炸威力相当大。"
+    },
+    {
+      "id": 212,
+      "startMs": 1112820,
+      "endMs": 1117780,
+      "en": "We've also heard that around 40 people have been injured, taken to a nearby hospital.",
+      "zh": "我们还获悉，约有40人受伤并被送往附近医院。"
+    },
+    {
+      "id": 213,
+      "startMs": 1118100,
+      "endMs": 1122500,
+      "en": "At this stage, we're still waiting to have confirmation if any group has claimed this attack.",
+      "zh": "目前，我们仍在等待确认是否有任何组织宣称发动了这次袭击。"
+    },
+    {
+      "id": 214,
+      "startMs": 1122820,
+      "endMs": 1127060,
+      "en": "Caroline, do we know if this area in Pakistan is known for militant attacks?",
+      "zh": "卡罗琳，我们知道巴基斯坦这一地区是否以武装袭击闻名吗？"
+    },
+    {
+      "id": 215,
+      "startMs": 1127060,
+      "endMs": 1133620,
+      "en": "So, this particular district, Kohat District, is not particularly known for having these sorts of militant attacks, but neighbouring districts are.",
+      "zh": "科哈特区本身并不以这类武装袭击多发而闻名，但邻近地区是这样。"
+    },
+    {
+      "id": 216,
+      "startMs": 1133800,
+      "endMs": 1140840,
+      "en": "And often in Khyber Pakhtunkhwa, we hear reports about these sorts of incidents of security officials often being killed.",
+      "zh": "在开伯尔-普什图省，我们经常听到安全官员在这类事件中遇害的报道。"
+    },
+    {
+      "id": 217,
+      "startMs": 1140840,
+      "endMs": 1148200,
+      "en": "We get reports from the authorities there in Pakistan saying that militants have been killed quite often near the border with Afghanistan.",
+      "zh": "我们收到巴基斯坦当地政府的报告称，靠近阿富汗边境的地方经常有武装分子被击毙。"
+    },
+    {
+      "id": 218,
+      "startMs": 1148520,
+      "endMs": 1155400,
+      "en": "In general, across Khyber Pakhtunkhwa, we've seen many militant attacks, and the numbers haven't decreased over the last few years.",
+      "zh": "总的来说，开伯尔-普什图省发生过很多武装袭击，过去几年数量并未减少。"
+    },
+    {
+      "id": 219,
+      "startMs": 1155700,
+      "endMs": 1164420,
+      "en": "Caroline Davies. To Nigeria now, where the authorities in the central state of Niger have imposed a 24-hour curfew in the capital, Minna,",
+      "zh": "卡罗琳·戴维斯。现在转到尼日利亚：中部尼日尔州当局在首府明纳实施了24小时宵禁，"
+    },
+    {
+      "id": 220,
+      "startMs": 1164580,
+      "endMs": 1170500,
+      "en": "where violent protests have erupted over the death in custody of at least 33 teenagers.",
+      "zh": "那里因至少33名青少年在羁押期间死亡而爆发了暴力抗议。"
+    },
+    {
+      "id": 221,
+      "startMs": 1171060,
+      "endMs": 1178020,
+      "en": "The Civil Defence Force in Borgu in Niger State rounded up the miners on Tuesday, and their bodies were discovered two days later.",
+      "zh": "尼日尔州博尔古的民防部队周二拘捕了这些矿工，两天后发现了他们的遗体。"
+    },
+    {
+      "id": 222,
+      "startMs": 1178660,
+      "endMs": 1184520,
+      "en": "An official investigation is underway after claims poor conditions at the detention centre were to blame.",
+      "zh": "有指称称，拘留中心条件恶劣是原因，目前官方调查正在进行。"
+    },
+    {
+      "id": 223,
+      "startMs": 1185080,
+      "endMs": 1188520,
+      "en": "Ibrahim Mohammed's brother was one of the men who died in custody.",
+      "zh": "易卜拉欣·穆罕默德的兄弟是羁押期间死亡者之一。"
+    },
+    {
+      "id": 224,
+      "startMs": 1189000,
+      "endMs": 1193080,
+      "en": "We woke up to the news that our younger brothers had died.",
+      "zh": "我们醒来得知，弟弟们已经去世。"
+    },
+    {
+      "id": 225,
+      "startMs": 1193480,
+      "endMs": 1199560,
+      "en": "They only went out to look for a way to earn a living and provide food for their families. Now they're dead.",
+      "zh": "他们只是出门谋生，为家人提供食物。如今他们却死了。"
+    },
+    {
+      "id": 226,
+      "startMs": 1200200,
+      "endMs": 1202200,
+      "en": "We are appealing to the government to help us.",
+      "zh": "我们请求政府帮助我们。"
+    },
+    {
+      "id": 227,
+      "startMs": 1202680,
+      "endMs": 1207880,
+      "en": "We want the government to investigate what happened and ensure justice for our brothers and our family.",
+      "zh": "我们希望政府调查真相，为我们的兄弟和家人伸张正义。"
+    },
+    {
+      "id": 228,
+      "startMs": 1207880,
+      "endMs": 1215400,
+      "en": "Our correspondent in Lagos, Simi Jolaoso, told me more about the civil defence force and what happened.",
+      "zh": "我们在拉各斯的记者西米·乔拉奥索向我介绍了民防部队及事件经过。"
+    },
+    {
+      "id": 229,
+      "startMs": 1215720,
+      "endMs": 1221320,
+      "en": "They are a federal paramilitary agency in charge of protecting national infrastructure.",
+      "zh": "他们是负责保护国家基础设施的联邦准军事机构。"
+    },
+    {
+      "id": 230,
+      "startMs": 1221720,
+      "endMs": 1227720,
+      "en": "These people were arrested on Tuesday and Wednesday, and then their bodies were discovered early yesterday morning.",
+      "zh": "这些人于周二和周三被捕，随后他们的遗体在昨天清晨被发现。"
+    },
+    {
+      "id": 231,
+      "startMs": 1227720,
+      "endMs": 1230680,
+      "en": "So they were only in detention for about one to two days.",
+      "zh": "所以，他们被拘留的时间只有一到两天左右。"
+    },
+    {
+      "id": 232,
+      "startMs": 1231080,
+      "endMs": 1240440,
+      "en": "Now the local Security and Civil Defence Corps had initially said that they had died due to a suspected diphtheria outbreak,",
+      "zh": "当地安全与民防部队最初称，他们死于疑似白喉疫情，"
+    },
+    {
+      "id": 233,
+      "startMs": 1240520,
+      "endMs": 1245820,
+      "en": "but the national head of the corps has said that the cause of their deaths is yet to be established",
+      "zh": "但该部队全国负责人表示，死因尚未确定，"
+    },
+    {
+      "id": 234,
+      "startMs": 1245820,
+      "endMs": 1248300,
+      "en": "and that an investigation will be underway",
+      "zh": "调查将会展开，"
+    },
+    {
+      "id": 235,
+      "startMs": 1248380,
+      "endMs": 1251100,
+      "en": "into their conditions when they were arrested,",
+      "zh": "调查他们被捕时的状况，"
+    },
+    {
+      "id": 236,
+      "startMs": 1251180,
+      "endMs": 1256300,
+      "en": "the condition in which they were detained, and whether they were given any medical attention.",
+      "zh": "以及他们被拘留期间的条件和是否得到医疗救助。"
+    },
+    {
+      "id": 237,
+      "startMs": 1256860,
+      "endMs": 1264620,
+      "en": "So, illegal mining is quite common in Nigeria, especially in areas with a lot of minerals, like gold.",
+      "zh": "尼日利亚非法采矿相当普遍，尤其是在黄金等矿产资源丰富的地区。"
+    },
+    {
+      "id": 238,
+      "startMs": 1264620,
+      "endMs": 1272620,
+      "en": "And Nigerian state agencies and security agencies have been routinely cracking down on suspected illegal miners.",
+      "zh": "尼日利亚的州级机构和安全机构一直在定期打击涉嫌非法采矿者。"
+    },
+    {
+      "id": 239,
+      "startMs": 1272620,
+      "endMs": 1281180,
+      "en": "They say money from illegal mining has fuelled banditry and insecurity, issues the country is grappling with.",
+      "zh": "他们说，非法采矿所得助长了土匪活动和不安全局势，这些是该国正苦苦应对的问题。"
+    },
+    {
+      "id": 240,
+      "startMs": 1281180,
+      "endMs": 1288060,
+      "en": "They also say illegal mining takes away billions in revenue from the economy and destroys the environment.",
+      "zh": "他们还说，非法采矿使国家经济损失数十亿收入，并破坏环境。"
+    },
+    {
+      "id": 241,
+      "startMs": 1288060,
+      "endMs": 1291500,
+      "en": "But the families of people who have been arrested during these crackdowns",
+      "zh": "但在这些打击行动中有人被捕后，他们的家属"
+    },
+    {
+      "id": 242,
+      "startMs": 1291500,
+      "endMs": 1297100,
+      "en": "have said that the authorities need to show better caution and treat people with more care.",
+      "zh": "表示，当局需要更加谨慎，更体恤民众。"
+    },
+    {
+      "id": 243,
+      "startMs": 1297260,
+      "endMs": 1305600,
+      "en": "One father told the BBC that his son had told him that he was with 65 other people in one poorly ventilated cell,",
+      "zh": "一位父亲告诉 BBC，他的儿子说，自己和另外 65 人关在一间通风不良的牢房里，"
+    },
+    {
+      "id": 244,
+      "startMs": 1305920,
+      "endMs": 1310960,
+      "en": "and that his son said that he saw people faint and slump and struggle to breathe,",
+      "zh": "儿子还说，他看到有人昏厥、瘫倒，挣扎着呼吸，"
+    },
+    {
+      "id": 245,
+      "startMs": 1310960,
+      "endMs": 1316400,
+      "en": "so there'll be a lot of interest in the outcome of this investigation. Simi Jolaoso.",
+      "zh": "因此，这项调查的结果将受到广泛关注。西米·乔拉奥索。"
+    },
+    {
+      "id": 246,
+      "startMs": 1317040,
+      "endMs": 1322880,
+      "en": "If you're off to the football this weekend, you might find you're not just watching the game, but being watched yourself.",
+      "zh": "如果你这个周末去看足球，可能会发现自己不只是看比赛，也在被监视。"
+    },
+    {
+      "id": 247,
+      "startMs": 1323440,
+      "endMs": 1329120,
+      "en": "In Coventry, in central England, drones are now being used to help the police manage large crowds at football grounds.",
+      "zh": "在英格兰中部的考文垂，无人机现在被用于协助警方管理足球场的大批人群。"
+    },
+    {
+      "id": 248,
+      "startMs": 1329440,
+      "endMs": 1332320,
+      "en": "Phil Mackey's been watching from the stands and the skies.",
+      "zh": "菲尔·麦基从看台和空中观察了这一切。"
+    },
+    {
+      "id": 249,
+      "startMs": 1335640,
+      "endMs": 1343560,
+      "en": "On an industrial estate, two miles from the CBS Arena, police launch a small drone to keep an eye on things from above.",
+      "zh": "在距离 CBS 体育场几英里的工业园区，警方将一架小型无人机升空，从上方监视情况。"
+    },
+    {
+      "id": 250,
+      "startMs": 1345300,
+      "endMs": 1348580,
+      "en": "Coventry City host Brighton in Sunday's 2:00 kick-off.",
+      "zh": "考文垂城队将在周日两点开球的比赛中主场迎战布莱顿。"
+    },
+    {
+      "id": 251,
+      "startMs": 1349140,
+      "endMs": 1354580,
+      "en": "With just over an hour until the game starts, fans are beginning to pour into the grounds.",
+      "zh": "距离比赛开始还有一个多小时，球迷开始涌入球场。"
+    },
+    {
+      "id": 252,
+      "startMs": 1355740,
+      "endMs": 1358700,
+      "en": "Over 30,000 people are expected.",
+      "zh": "预计将有超过三万人到场。"
+    },
+    {
+      "id": 253,
+      "startMs": 1360740,
+      "endMs": 1363220,
+      "en": "Things are getting busy in the stadium's control room.",
+      "zh": "体育场的控制室里越来越忙碌。"
+    },
+    {
+      "id": 254,
+      "startMs": 1363220,
+      "endMs": 1371140,
+      "en": "Inspector Tom Hanna of West Midlands Police is in charge and shows me a large screen with a feed of the drone's camera footage.",
+      "zh": "西米德兰兹郡警方的汤姆·汉纳督察负责指挥，他向我展示了一块大屏幕，播放无人机摄像头的画面。"
+    },
+    {
+      "id": 255,
+      "startMs": 1371380,
+      "endMs": 1373460,
+      "en": "This shows me how everything's flowing.",
+      "zh": "这让我了解现场如何运转。"
+    },
+    {
+      "id": 256,
+      "startMs": 1373700,
+      "endMs": 1378180,
+      "en": "I know exactly where this is, rather than hearing it described by the ground commander.",
+      "zh": "我能准确知道这里的情况，而不是听地面指挥官向我描述。"
+    },
+    {
+      "id": 257,
+      "startMs": 1378660,
+      "endMs": 1383940,
+      "en": "this allows me to know exactly the correct location, and I could move those resources much quicker.",
+      "zh": "这让我准确知道位置，也能更快调动这些资源。"
+    },
+    {
+      "id": 258,
+      "startMs": 1384020,
+      "endMs": 1387940,
+      "en": "It's just about getting ahead of any potential safety and crime issues for me.",
+      "zh": "对我来说，这就是要提前应对任何潜在的安全和治安问题。"
+    },
+    {
+      "id": 259,
+      "startMs": 1389180,
+      "endMs": 1397100,
+      "en": "The Premier League's given £2 million so far towards this pilot project, which started in February and will run till the end of the season.",
+      "zh": "英超联赛迄今为这个试点项目提供了200万英镑；项目始于2月，将持续到赛季结束。"
+    },
+    {
+      "id": 260,
+      "startMs": 1397580,
+      "endMs": 1401660,
+      "en": "The early assessment is positive. That's really helpful intelligence for the police.",
+      "zh": "初步评估结果积极，这为警方提供了非常有用的情报。"
+    },
+    {
+      "id": 261,
+      "startMs": 1401660,
+      "endMs": 1405660,
+      "en": "Clare Sumner is the Premier League's chief policy and social impact officer.",
+      "zh": "克莱尔·萨姆纳是英超联赛首席政策与社会影响官。"
+    },
+    {
+      "id": 262,
+      "startMs": 1405900,
+      "endMs": 1411180,
+      "en": "So different things are being trialled and tested, but we hope that they will have usefulness and utility",
+      "zh": "目前正在试验和测试不同做法，但我们希望它们能发挥作用，"
+    },
+    {
+      "id": 263,
+      "startMs": 1411180,
+      "endMs": 1415100,
+      "en": "for the police, and that this pilot will help us learn things together",
+      "zh": "对警方有用，也希望这个试点能帮助我们共同学习，"
+    },
+    {
+      "id": 264,
+      "startMs": 1415420,
+      "endMs": 1420700,
+      "en": "and strengthen that partnership between policing and our clubs and our stewards,",
+      "zh": "加强警方、俱乐部和球场工作人员之间的合作，"
+    },
+    {
+      "id": 265,
+      "startMs": 1420940,
+      "endMs": 1427180,
+      "en": "because those are the magic ingredients, if you like, that you and I as football fans know that we can go and enjoy the game.",
+      "zh": "因为如果你愿意这么说，这些就是关键要素，让你我这样的球迷知道可以去享受比赛。"
+    },
+    {
+      "id": 266,
+      "startMs": 1427420,
+      "endMs": 1433340,
+      "en": "Actually, drones help create a less visible policing presence, which is a really good thing.",
+      "zh": "实际上，无人机帮助警方以不那么显眼的方式执法，这是件非常好的事。"
+    },
+    {
+      "id": 267,
+      "startMs": 1434660,
+      "endMs": 1438580,
+      "en": "Outside the ground, fans weren't even aware of the drone watching them.",
+      "zh": "在场外，球迷甚至没有意识到有无人机在监视他们。"
+    },
+    {
+      "id": 268,
+      "startMs": 1439060,
+      "endMs": 1444500,
+      "en": "I would never have known this was happening, but it's interesting. I've never noticed this at a ground.",
+      "zh": "我以前根本不会知道这正在发生，不过确实挺有意思。真的，我从没注意到球场会有这种情况。"
+    },
+    {
+      "id": 269,
+      "startMs": 1444820,
+      "endMs": 1448740,
+      "en": "As long as it's watched and trouble stays out, that's all I care about.",
+      "zh": "只要有人监视、没有麻烦发生，那就足够了。"
+    },
+    {
+      "id": 270,
+      "startMs": 1448740,
+      "endMs": 1453300,
+      "en": "I don't mind. There's cameras everywhere, isn't there? So, we're being watched anyway. I think so. It wouldn't bother me.",
+      "zh": "我不介意。到处都有摄像头，不是吗？反正我们一直都在被监视。我是这么想的，所以不会困扰我。"
+    },
+    {
+      "id": 271,
+      "startMs": 1457200,
+      "endMs": 1465120,
+      "en": "In 2023, when Aston Villa played Legia Warsaw, West Midlands Police made use of drones to monitor what they described as sustained violence.",
+      "zh": "2023年，阿斯顿维拉对阵华沙莱吉亚时，西米德兰兹郡警方使用无人机监控他们所称的持续暴力。"
+    },
+    {
+      "id": 272,
+      "startMs": 1465820,
+      "endMs": 1467180,
+      "en": "Get back! Move, move, move!",
+      "zh": "退后！动起来，快动，快动！"
+    },
+    {
+      "id": 273,
+      "startMs": 1469820,
+      "endMs": 1474940,
+      "en": "Aerial footage from the drones was used to deploy officers on the ground to where the trouble was worse.",
+      "zh": "警方利用无人机的空中影像，将地面警员部署到事态更严重的地方。"
+    },
+    {
+      "id": 274,
+      "startMs": 1475020,
+      "endMs": 1478860,
+      "en": "Get back! Forty people were eventually arrested.",
+      "zh": "退后！最终有40人被捕。"
+    },
+    {
+      "id": 275,
+      "startMs": 1481460,
+      "endMs": 1487300,
+      "en": "But in Coventry's control room, Inspector Hanna is pleased with how things have gone today.",
+      "zh": "但在考文垂的控制室里，汉纳督察对今天的情况感到满意。"
+    },
+    {
+      "id": 276,
+      "startMs": 1487940,
+      "endMs": 1494100,
+      "en": "We've had no issues. It's about getting people out quickly. I'm happy with where it is; we can start downscaling the police response.",
+      "zh": "我们没有遇到问题，所以现在要尽快疏散人群。我对目前情况满意，可以开始缩减警方的应对规模。"
+    },
+    {
+      "id": 277,
+      "startMs": 1494500,
+      "endMs": 1498580,
+      "en": "The game was a success for the policing operation; it all passed off peacefully,",
+      "zh": "这场比赛对警方的安保行动来说很成功，整个过程平安无事，"
+    },
+    {
+      "id": 278,
+      "startMs": 1499220,
+      "endMs": 1504040,
+      "en": "but a disaster for Coventry, who lost 5–0. Phil Mackey.",
+      "zh": "但对以0比5落败的考文垂来说却是灾难。菲尔·麦基。"
+    },
+    {
+      "id": 279,
+      "startMs": 1505640,
+      "endMs": 1511640,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部内容。如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 280,
+      "startMs": 1511640,
+      "endMs": 1516440,
+      "en": "You can also watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "你也可以在 YouTube 上观看完整节目，只要搜索 Global News Podcast。"
+    },
+    {
+      "id": 281,
+      "startMs": 1516920,
+      "endMs": 1520600,
+      "en": "This edition was mixed by Chris Murphy, and the producer was Adrian White.",
+      "zh": "本期由克里斯·墨菲混音，制片人是阿德里安·怀特。"
+    },
+    {
+      "id": 282,
+      "startMs": 1521320,
+      "endMs": 1525320,
+      "en": "The editor is Karen Martin, and I am Ankur Desai. Until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁，我是安库尔·德赛。下次再见。"
+    }
+  ]
+}
