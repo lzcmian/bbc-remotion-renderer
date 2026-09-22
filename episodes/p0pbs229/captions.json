@@ -1,0 +1,1530 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "21 September 2026"
+  },
+  "durationMs": 1168380,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2800,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5280,
+      "endMs": 11040,
+      "en": "I'm Ankur Desai, and at 4:00 GMT on Monday, the 21st of September, these are our main stories.",
+      "zh": "我是安库尔·德赛。现在是格林尼治时间9月21日星期一凌晨4点，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11600,
+      "endMs": 18960,
+      "en": "A powerful typhoon is being felt in Tokyo, with police urging more than 1.5 million people in the Tokyo area to evacuate.",
+      "zh": "强台风影响东京，警方敦促东京地区150多万人撤离。"
+    },
+    {
+      "id": 4,
+      "startMs": 18960,
+      "endMs": 27280,
+      "en": "A huge Belgian-led international police operation targeting drug gangs has seen nearly 500 people arrested, mainly in Latin America.",
+      "zh": "一场由比利时牵头、针对贩毒团伙的大规模国际警方行动，已逮捕近500人，主要在拉丁美洲。"
+    },
+    {
+      "id": 5,
+      "startMs": 27920,
+      "endMs": 34880,
+      "en": "Officials in Gaza have announced plans to evacuate and demolish more than 250 buildings because they're at risk of collapsing.",
+      "zh": "加沙官员宣布计划疏散并拆除250多栋有坍塌风险的建筑。"
+    },
+    {
+      "id": 6,
+      "startMs": 37180,
+      "endMs": 43100,
+      "en": "Also in this podcast, as expected in Russia's parliamentary elections, President Putin's United Russia party.",
+      "zh": "本期还将报道：正如预期，在俄罗斯议会选举中，普京总统领导的统一俄罗斯党，"
+    },
+    {
+      "id": 7,
+      "startMs": 43420,
+      "endMs": 46220,
+      "en": "It is on course to retain its constitutional majority.",
+      "zh": "有望保持宪法多数。"
+    },
+    {
+      "id": 8,
+      "startMs": 46620,
+      "endMs": 54700,
+      "en": "So what impact will this result have? And a trial in the UK monitors how gadgets and sensors might help people with dementia live in their own homes.",
+      "zh": "这一结果会产生什么影响？英国一项试验正在监测小设备和传感器如何帮助失智症患者在自己家中生活。"
+    },
+    {
+      "id": 9,
+      "startMs": 54940,
+      "endMs": 63740,
+      "en": "That's the power of technology. We're trying to spot early signs that things might be going wrong, and we can keep people at home and out of hospital.",
+      "zh": "这就是科技的力量。我们试图及早发现可能出现问题的迹象，让人们留在家中而不必住院。"
+    },
+    {
+      "id": 10,
+      "startMs": 67780,
+      "endMs": 72260,
+      "en": "We begin in Japan, where a powerful typhoon is battering the country's capital, Tokyo.",
+      "zh": "我们从日本开始报道：强台风正在袭击日本首都东京。"
+    },
+    {
+      "id": 11,
+      "startMs": 77080,
+      "endMs": 83560,
+      "en": "Typhoon Dujuan has forced the cancellation of hundreds of flights and prompted warnings of record-breaking rainfall.",
+      "zh": "台风杜鹃已导致数百架航班取消，并引发创纪录降雨警报。"
+    },
+    {
+      "id": 12,
+      "startMs": 84120,
+      "endMs": 89400,
+      "en": "1.9 million people have been urged to evacuate, and several major events have been cancelled.",
+      "zh": "190万人被敦促撤离，多项大型活动被取消。"
+    },
+    {
+      "id": 13,
+      "startMs": 89880,
+      "endMs": 96040,
+      "en": "This typhoon is the latest in a wave of storms in the Pacific, made more intense by this year's super El Niño.",
+      "zh": "这场台风是太平洋一系列风暴中的最新一场，而今年的超级厄尔尼诺使风暴更加强烈。"
+    },
+    {
+      "id": 14,
+      "startMs": 96040,
+      "endMs": 99640,
+      "en": "I've got the latest from our correspondent in Tokyo, Kurumi Mori.",
+      "zh": "东京记者森久留美带来最新消息。"
+    },
+    {
+      "id": 15,
+      "startMs": 100040,
+      "endMs": 108920,
+      "en": "It sure is powerful. I woke up this morning to quite light rains here in Shibuya, where the Tokyo BBC studios are located.",
+      "zh": "这场台风确实很强。我今天早上醒来时，涩谷这里的雨还很小，BBC 东京演播室就在这里。"
+    },
+    {
+      "id": 16,
+      "startMs": 109080,
+      "endMs": 113480,
+      "en": "And it turned. I mean, it was heavy rains and strong winds this afternoon.",
+      "zh": "但天气转变了。今天下午雨势很大、风力很强。"
+    },
+    {
+      "id": 17,
+      "startMs": 113480,
+      "endMs": 119560,
+      "en": "In the past hour it's gotten way dark, and the rain has been stronger and stronger.",
+      "zh": "就在过去一小时里，天色突然变得很暗，雨也越来越大。"
+    },
+    {
+      "id": 18,
+      "startMs": 119800,
+      "endMs": 125720,
+      "en": "There have been special warnings all day coming from the government. I've had mobile alerts go off all day.",
+      "zh": "政府一整天都在发布特别警报，我的手机警报也响了一整天。"
+    },
+    {
+      "id": 19,
+      "startMs": 125720,
+      "endMs": 129800,
+      "en": "Something we are watching right now is this river called Meguro River.",
+      "zh": "我们目前关注的是一条名为目黑川的河流。"
+    },
+    {
+      "id": 20,
+      "startMs": 129800,
+      "endMs": 136200,
+      "en": "It runs through Tokyo from Shibuya, Setagaya, Meguro, and into Tokyo Bay.",
+      "zh": "它流经东京的涩谷、世田谷和目黑，最后汇入东京湾。"
+    },
+    {
+      "id": 21,
+      "startMs": 136620,
+      "endMs": 141100,
+      "en": "I just spoke to a resident who lives near there, and he's been seeing",
+      "zh": "我刚和一名住在附近的居民交谈过，他一直看到"
+    },
+    {
+      "id": 22,
+      "startMs": 141100,
+      "endMs": 145820,
+      "en": "the level of this river rise over the past two hours.",
+      "zh": "过去两小时里，这条河的水位不断上涨。"
+    },
+    {
+      "id": 23,
+      "startMs": 145980,
+      "endMs": 150540,
+      "en": "And so he's concerned. We want to make sure residents are evacuating if they are on",
+      "zh": "所以他很担心。我们要确保居民撤离，尤其是住在"
+    },
+    {
+      "id": 24,
+      "startMs": 150540,
+      "endMs": 155980,
+      "en": "the ground floor and the elderly. But it's definitely something we're watching here in Tokyo today.",
+      "zh": "底层的居民和老年人。这确实是今天东京密切关注的情况。"
+    },
+    {
+      "id": 25,
+      "startMs": 156380,
+      "endMs": 161340,
+      "en": "And Kurumi, I guess the wider impact is it's impacting rail services and air services.",
+      "zh": "久留美，我想更广泛的影响还包括铁路和航空服务。"
+    },
+    {
+      "id": 26,
+      "startMs": 161340,
+      "endMs": 163580,
+      "en": "Big events are also affected.",
+      "zh": "大型活动也受到影响。"
+    },
+    {
+      "id": 27,
+      "startMs": 163580,
+      "endMs": 166380,
+      "en": "We've got the Tokyo Game Show and, of course, the Asian Games.",
+      "zh": "东京电玩展当然也受到影响，还有亚运会。"
+    },
+    {
+      "id": 28,
+      "startMs": 166620,
+      "endMs": 169340,
+      "en": "Athletes from over 40 countries are attending.",
+      "zh": "参赛运动员来自40多个国家。"
+    },
+    {
+      "id": 29,
+      "startMs": 169980,
+      "endMs": 175020,
+      "en": "That's right, a lot of impact here. This is Silver Week, which is a holiday week for Japan.",
+      "zh": "没错，这里的影响很大。现在是日本的“银周”，也就是假期周。"
+    },
+    {
+      "id": 30,
+      "startMs": 175020,
+      "endMs": 178140,
+      "en": "Today, tomorrow, and Wednesday are their public holidays.",
+      "zh": "今天、明天和星期三都是日本的公共假日。"
+    },
+    {
+      "id": 31,
+      "startMs": 178460,
+      "endMs": 185260,
+      "en": "So although there are not many commuters out on the streets, thankfully there are a lot of tourists here, and a lot of people hoping to travel.",
+      "zh": "因此，虽然街上的通勤者不多，但幸运的是这里有很多游客，也有许多人希望出行。"
+    },
+    {
+      "id": 32,
+      "startMs": 185260,
+      "endMs": 192940,
+      "en": "But there are a lot of cancellations happening, whether it's the local trains, the bullet trains, the Shinkansen bullet trains, and also flights.",
+      "zh": "但取消情况很多，无论是地方列车、新干线高速列车，还是航班都受到影响。"
+    },
+    {
+      "id": 33,
+      "startMs": 192940,
+      "endMs": 199840,
+      "en": "Now we're seeing about 400 cancellations at two of Tokyo's major airports, Haneda and Narita.",
+      "zh": "目前东京两座主要机场羽田和成田约有400架次航班取消。"
+    },
+    {
+      "id": 34,
+      "startMs": 200240,
+      "endMs": 203200,
+      "en": "Also Prime Minister Takaichi was set to leave for New York.",
+      "zh": "此外，首相高市早苗原定前往纽约。"
+    },
+    {
+      "id": 35,
+      "startMs": 203200,
+      "endMs": 207200,
+      "en": "Her flight has been delayed to 11:00 p.m. tonight for the UNGA.",
+      "zh": "她前往联合国大会的航班已延误至今晚11点。"
+    },
+    {
+      "id": 36,
+      "startMs": 208000,
+      "endMs": 213600,
+      "en": "And then events: Tokyo Game Show cancelled its last day today because of the typhoon.",
+      "zh": "至于活动，东京电玩展因台风取消了今天这个最后一天。"
+    },
+    {
+      "id": 37,
+      "startMs": 213920,
+      "endMs": 218720,
+      "en": "The Nagoya Asian Games have some events in Tokyo, like swimming and equestrian.",
+      "zh": "名古屋亚运会有些项目在东京举行，例如游泳和马术。"
+    },
+    {
+      "id": 38,
+      "startMs": 218720,
+      "endMs": 223040,
+      "en": "Equestrian delayed its events today and pushed them to tomorrow.",
+      "zh": "马术项目将今天的比赛推迟到明天。"
+    },
+    {
+      "id": 39,
+      "startMs": 223280,
+      "endMs": 227280,
+      "en": "And Kurumi, are we likely to see an impact across East Asia with this typhoon?",
+      "zh": "久留美，这场台风可能影响整个东亚吗？"
+    },
+    {
+      "id": 40,
+      "startMs": 227840,
+      "endMs": 234160,
+      "en": "As of now, what we're tracking is that after it hits the Kanto region, the central area near Tokyo.",
+      "zh": "目前我们掌握的情况是，台风袭击东京附近的关东中部地区后，"
+    },
+    {
+      "id": 41,
+      "startMs": 234400,
+      "endMs": 240720,
+      "en": "It's supposed to kind of swerve up and away into the ocean, so it's not set to impact other parts of Asia",
+      "zh": "预计会转向并远离陆地进入海洋，因此不会影响亚洲其他地区，"
+    },
+    {
+      "id": 42,
+      "startMs": 240720,
+      "endMs": 244800,
+      "en": "at the moment. But you never know because some of the trajectory may change.",
+      "zh": "至少目前看来是这样。但谁也无法确定，因为路径可能改变。"
+    },
+    {
+      "id": 43,
+      "startMs": 245120,
+      "endMs": 246720,
+      "en": "Kurumi Mori in Tokyo.",
+      "zh": "东京记者森久留美报道。"
+    },
+    {
+      "id": 44,
+      "startMs": 246960,
+      "endMs": 252640,
+      "en": "Nearly 500 people have been arrested in a major transatlantic operation against criminal gangs.",
+      "zh": "在一场针对犯罪团伙的大规模跨大西洋行动中，近500人被捕。"
+    },
+    {
+      "id": 45,
+      "startMs": 253120,
+      "endMs": 258980,
+      "en": "Belgian federal police, which led the raids, say large amounts of drugs, firearms and ammunition",
+      "zh": "牵头突袭行动的比利时联邦警察说，大量毒品、枪支和弹药"
+    },
+    {
+      "id": 46,
+      "startMs": 258980,
+      "endMs": 261460,
+      "en": "were seized, mainly in Latin America.",
+      "zh": "已被缴获，地点主要在拉丁美洲。"
+    },
+    {
+      "id": 47,
+      "startMs": 262020,
+      "endMs": 264340,
+      "en": "Our Europe correspondent, Nick Beake, reports.",
+      "zh": "欧洲记者尼克·比克报道。"
+    },
+    {
+      "id": 48,
+      "startMs": 264580,
+      "endMs": 270740,
+      "en": "More than 370 of these arrests were made in Costa Rica, where raids targeted a criminal network",
+      "zh": "其中370多人在哥斯达黎加被捕，突袭行动针对一个犯罪网络，"
+    },
+    {
+      "id": 49,
+      "startMs": 270900,
+      "endMs": 274900,
+      "en": "allegedly being protected by senior judicial and security figures,",
+      "zh": "据称受到司法和安全部门高层人士保护；"
+    },
+    {
+      "id": 50,
+      "startMs": 275220,
+      "endMs": 277940,
+      "en": "the network was sending vast amounts of drugs to Europe.",
+      "zh": "该网络向欧洲运送大量毒品。"
+    },
+    {
+      "id": 51,
+      "startMs": 278340,
+      "endMs": 281940,
+      "en": "In Paraguay, a record amount of cannabis was said to have been seized.",
+      "zh": "在巴拉圭，据称缴获了创纪录数量的大麻。"
+    },
+    {
+      "id": 52,
+      "startMs": 282260,
+      "endMs": 288660,
+      "en": "In Ireland, police dismantled what is believed to be the country's first known cocaine processing laboratory.",
+      "zh": "在爱尔兰，警方捣毁了据信是该国已知的首个可卡因加工实验室。"
+    },
+    {
+      "id": 53,
+      "startMs": 289220,
+      "endMs": 294340,
+      "en": "Europe has been battling to stem the flow of cocaine, in particular coming from South America,",
+      "zh": "欧洲一直在努力遏制可卡因的流入，尤其是来自南美的可卡因；"
+    },
+    {
+      "id": 54,
+      "startMs": 294740,
+      "endMs": 298980,
+      "en": "which has enriched crime bosses and fuelled increased gang violence.",
+      "zh": "这种流入让犯罪头目获利，也助长了日益严重的帮派暴力。"
+    },
+    {
+      "id": 55,
+      "startMs": 299140,
+      "endMs": 300100,
+      "en": "Nick Beake reporting.",
+      "zh": "尼克·比克报道。"
+    },
+    {
+      "id": 56,
+      "startMs": 300900,
+      "endMs": 306660,
+      "en": "According to the UN agency that supports the relief and human development of Palestinian refugees, UNRWA,",
+      "zh": "联合国近东巴勒斯坦难民救济和工程处（UNRWA）负责援助巴勒斯坦难民并促进其人类发展，该机构说，"
+    },
+    {
+      "id": 57,
+      "startMs": 307140,
+      "endMs": 310100,
+      "en": "more than 80% of all structures in the Gaza Strip",
+      "zh": "加沙地带超过80%的建筑"
+    },
+    {
+      "id": 58,
+      "startMs": 310100,
+      "endMs": 314100,
+      "en": "were damaged or destroyed during the war between Israel and Hamas.",
+      "zh": "在以色列与哈马斯之间的战争中受损或被毁。"
+    },
+    {
+      "id": 59,
+      "startMs": 314740,
+      "endMs": 316660,
+      "en": "The Gaza war was triggered by the Hamas-led attack",
+      "zh": "加沙战争由哈马斯主导的袭击引发，"
+    },
+    {
+      "id": 60,
+      "startMs": 316680,
+      "endMs": 320520,
+      "en": "on southern Israel on the 7th of October 2023,",
+      "zh": "袭击于2023年10月7日发生在以色列南部，"
+    },
+    {
+      "id": 61,
+      "startMs": 320920,
+      "endMs": 323480,
+      "en": "when about 1,200 people were killed.",
+      "zh": "约有1200人丧生。"
+    },
+    {
+      "id": 62,
+      "startMs": 324040,
+      "endMs": 331720,
+      "en": "Now officials in Gaza have announced plans to evacuate and demolish more than 250 buildings because they're at risk of collapsing.",
+      "zh": "加沙官员宣布计划疏散并拆除250多栋建筑，因为这些建筑有坍塌风险。"
+    },
+    {
+      "id": 63,
+      "startMs": 332360,
+      "endMs": 337720,
+      "en": "Our Middle East correspondent, Yolande Knell, told us this move follows a series of collapses in recent days.",
+      "zh": "中东记者约兰德·奈尔告诉我们，这一行动是在近几天发生一连串坍塌之后作出的。"
+    },
+    {
+      "id": 64,
+      "startMs": 337960,
+      "endMs": 345160,
+      "en": "In the past week, at least 21 people were killed in Gaza City when a residential building came down.",
+      "zh": "过去一周，加沙城一栋住宅楼倒塌，至少21人死亡。"
+    },
+    {
+      "id": 65,
+      "startMs": 345400,
+      "endMs": 351800,
+      "en": "Locals who had been living in that area told the BBC that it had been tilting to one side, and that families knew it was unsafe.",
+      "zh": "住在当地的居民告诉BBC，这栋楼一直向一侧倾斜，家人们都知道它不安全。"
+    },
+    {
+      "id": 66,
+      "startMs": 352040,
+      "endMs": 357320,
+      "en": "One relative who was bereaved said that buildings like that had become a ticking time bomb.",
+      "zh": "一名失去亲人的家属说，这样的建筑已经变成一颗定时炸弹。"
+    },
+    {
+      "id": 67,
+      "startMs": 357560,
+      "endMs": 363000,
+      "en": "But really, because of the lack of safe places to go, the lack of durable shelters in Gaza,",
+      "zh": "但实际上，由于没有安全的去处，加沙也缺乏坚固的避难所，"
+    },
+    {
+      "id": 68,
+      "startMs": 363000,
+      "endMs": 367400,
+      "en": "it is forcing people to go into some of these unsafe buildings.",
+      "zh": "人们只能被迫进入一些这样的不安全建筑。"
+    },
+    {
+      "id": 69,
+      "startMs": 367480,
+      "endMs": 371960,
+      "en": "And as well as that building in the south of Gaza City that really fully came down,",
+      "zh": "除了加沙城南部那栋完全倒塌的建筑外，"
+    },
+    {
+      "id": 70,
+      "startMs": 372200,
+      "endMs": 377420,
+      "en": "on Friday there was another partial collapse in which five children got minor injuries.",
+      "zh": "星期五还有一栋建筑部分坍塌，造成五名儿童轻伤。"
+    },
+    {
+      "id": 71,
+      "startMs": 377660,
+      "endMs": 381740,
+      "en": "And this came after the first rains of the season in Gaza last week,",
+      "zh": "这发生在上周加沙迎来本季第一场降雨之后，"
+    },
+    {
+      "id": 72,
+      "startMs": 381980,
+      "endMs": 384860,
+      "en": "which really accelerated the warnings once again",
+      "zh": "降雨再次加剧了人们的警告，"
+    },
+    {
+      "id": 73,
+      "startMs": 384860,
+      "endMs": 389740,
+      "en": "about the dangers of some of these places where people displaced by the fighting",
+      "zh": "提醒人们注意这些地方的危险；因战事流离失所的人们"
+    },
+    {
+      "id": 74,
+      "startMs": 389740,
+      "endMs": 392540,
+      "en": "now, with no homes of their own, have been sheltering.",
+      "zh": "如今没有自己的家，只能在那里避难。"
+    },
+    {
+      "id": 75,
+      "startMs": 393100,
+      "endMs": 396460,
+      "en": "And Yolande, just tell us about the challenges the authorities are facing",
+      "zh": "约兰德，请告诉我们，当局在面对这些挑战时"
+    },
+    {
+      "id": 76,
+      "startMs": 396460,
+      "endMs": 398780,
+      "en": "in terms of trying to implement this demolition plan.",
+      "zh": "要如何实施这项拆除计划。"
+    },
+    {
+      "id": 77,
+      "startMs": 399420,
+      "endMs": 401420,
+      "en": "There are going to be so many challenges.",
+      "zh": "这将面临重重挑战。"
+    },
+    {
+      "id": 78,
+      "startMs": 401420,
+      "endMs": 408060,
+      "en": "This statement from the Hamas-run media office says that local authorities will be going to families",
+      "zh": "哈马斯控制的媒体办公室发表声明说，地方当局将前往各家各户，"
+    },
+    {
+      "id": 79,
+      "startMs": 408380,
+      "endMs": 416380,
+      "en": "and asking them to leave these more than 250 buildings which are at risk of collapse, where the situation is urgent.",
+      "zh": "要求他们离开这250多栋有坍塌风险、情况紧急的建筑。"
+    },
+    {
+      "id": 80,
+      "startMs": 416380,
+      "endMs": 419420,
+      "en": "Of course, many of those families will not have places to go.",
+      "zh": "当然，其中许多家庭无处可去。"
+    },
+    {
+      "id": 81,
+      "startMs": 419500,
+      "endMs": 426700,
+      "en": "They'll also need to evacuate areas around where the buildings are going to be pulled down, and that is another danger.",
+      "zh": "他们还需要疏散建筑拆除区域周边的人，这又是另一重危险。"
+    },
+    {
+      "id": 82,
+      "startMs": 427100,
+      "endMs": 429420,
+      "en": "Many families may be refusing to go.",
+      "zh": "许多家庭可能拒绝离开。"
+    },
+    {
+      "id": 83,
+      "startMs": 429820,
+      "endMs": 436620,
+      "en": "Then you've also got the fact that many authorities, they're talking about police and other services",
+      "zh": "此外，许多当局部门——这里说的是警察及其他服务机构——"
+    },
+    {
+      "id": 84,
+      "startMs": 436620,
+      "endMs": 439200,
+      "en": "that are aligned with Hamas will have to be working on this.",
+      "zh": "与哈马斯结盟的机构也必须参与这项工作。"
+    },
+    {
+      "id": 85,
+      "startMs": 439200,
+      "endMs": 446160,
+      "en": "Israel has opposed fully the signs that Hamas has been trying to sort of reassert itself in Gaza.",
+      "zh": "以色列坚决反对哈马斯试图在加沙重新确立影响力的迹象。"
+    },
+    {
+      "id": 86,
+      "startMs": 446480,
+      "endMs": 453760,
+      "en": "I've not been able to get some clarification from local UN officials about what their role is going to be here,",
+      "zh": "我还没能从当地联合国官员那里确认，他们将在这里扮演什么角色，"
+    },
+    {
+      "id": 87,
+      "startMs": 453760,
+      "endMs": 460320,
+      "en": "but certainly this statement is saying that the plan involves UN agencies and other international organizations.",
+      "zh": "但这份声明明确说，计划涉及联合国机构和其他国际组织。"
+    },
+    {
+      "id": 88,
+      "startMs": 460720,
+      "endMs": 466080,
+      "en": "They're the ones really with the heavy lifting equipment that will be able to do some of this work.",
+      "zh": "真正拥有能够完成部分工作的重型设备的，正是这些机构。"
+    },
+    {
+      "id": 89,
+      "startMs": 466160,
+      "endMs": 475040,
+      "en": "But you've had the UN in recent days really underlining how Israeli officials control the border crossings,",
+      "zh": "但联合国近几天一直强调，以色列官员控制着边境口岸，"
+    },
+    {
+      "id": 90,
+      "startMs": 475200,
+      "endMs": 484000,
+      "en": "how restrictions from Israel limit the work they can do, including bringing in heavy equipment that's so important for rubble removal,",
+      "zh": "以色列的限制也妨碍他们开展工作，包括运入清理瓦砾所必需的重型设备，"
+    },
+    {
+      "id": 91,
+      "startMs": 484320,
+      "endMs": 488240,
+      "en": "the fuel and the oil needed to run these machines.",
+      "zh": "以及运行这些机器所需的燃料和石油。"
+    },
+    {
+      "id": 92,
+      "startMs": 488640,
+      "endMs": 493040,
+      "en": "And then on top of that, there aren't enough durable shelters in Gaza.",
+      "zh": "除此之外，加沙也没有足够的坚固避难所。"
+    },
+    {
+      "id": 93,
+      "startMs": 493200,
+      "endMs": 497200,
+      "en": "They're looking for things like caravans to be allowed into Gaza.",
+      "zh": "他们希望活动房屋等物资获准运入加沙。"
+    },
+    {
+      "id": 94,
+      "startMs": 496820,
+      "endMs": 500260,
+      "en": "That would give people better protection as we go into the winter.",
+      "zh": "随着冬季临近，这能为人们提供更好的保护。"
+    },
+    {
+      "id": 95,
+      "startMs": 500980,
+      "endMs": 504980,
+      "en": "And Yolande, then we've got the issue of the wider infrastructure in Gaza as well.",
+      "zh": "约兰德，另外，加沙更广泛的基础设施也面临问题。"
+    },
+    {
+      "id": 96,
+      "startMs": 505460,
+      "endMs": 510740,
+      "en": "That's right, and there are big UN longer-term plans to try to improve the infrastructure.",
+      "zh": "没错，联合国有大规模的长期计划，试图改善基础设施。"
+    },
+    {
+      "id": 97,
+      "startMs": 510740,
+      "endMs": 517220,
+      "en": "Gaza's health ministry has talked about how there are about 3,000 buildings that they class as being dangerous",
+      "zh": "加沙卫生部说，大约有3000栋建筑被他们列为危险建筑，"
+    },
+    {
+      "id": 98,
+      "startMs": 517220,
+      "endMs": 520340,
+      "en": "and in many cases families are living in those.",
+      "zh": "而且在许多情况下，仍有家庭住在其中。"
+    },
+    {
+      "id": 99,
+      "startMs": 520340,
+      "endMs": 525300,
+      "en": "You've also got inadequate roads, problems with waste and sanitation.",
+      "zh": "此外，道路状况不佳，废弃物和卫生设施也存在问题。"
+    },
+    {
+      "id": 100,
+      "startMs": 525620,
+      "endMs": 534740,
+      "en": "All of these are going to be highlighted once again, particularly as the weather conditions become more difficult with increased rain.",
+      "zh": "随着降雨增多、天气状况变得更加恶劣，所有这些问题都将再次凸显。"
+    },
+    {
+      "id": 101,
+      "startMs": 535060,
+      "endMs": 535620,
+      "en": "Yolande Knell.",
+      "zh": "约兰德·奈尔报道。"
+    },
+    {
+      "id": 102,
+      "startMs": 536420,
+      "endMs": 544260,
+      "en": "A refugee crisis in Djibouti is worsening as people flee renewed conflict in Yemen between the Iranian-backed Houthis and Saudi Arabia.",
+      "zh": "随着人们逃离伊朗支持的胡塞武装与沙特阿拉伯在也门重新爆发的冲突，吉布提的难民危机正在恶化。"
+    },
+    {
+      "id": 103,
+      "startMs": 544740,
+      "endMs": 550580,
+      "en": "Several thousand have made the dangerous sea crossing, many arriving in Djibouti's northern town of Obock.",
+      "zh": "数千人完成了危险的海上横渡，许多人抵达吉布提北部的奥博克镇。"
+    },
+    {
+      "id": 104,
+      "startMs": 551060,
+      "endMs": 553460,
+      "en": "Our security correspondent, Frank Gardner, is there.",
+      "zh": "我们的安全事务记者弗兰克·加德纳就在当地。"
+    },
+    {
+      "id": 105,
+      "startMs": 553780,
+      "endMs": 557720,
+      "en": "I'm in a very crowded, noisy refugee camp.",
+      "zh": "我在一个非常拥挤、嘈杂的难民营里。"
+    },
+    {
+      "id": 106,
+      "startMs": 557880,
+      "endMs": 559720,
+      "en": "I'm in a warehouse at a place called Obock,",
+      "zh": "我在一个叫奥博克的地方，这里有一座仓库，"
+    },
+    {
+      "id": 107,
+      "startMs": 560280,
+      "endMs": 567880,
+      "en": "which is just on the African side of the Bab el-Mandeb Strait that separates Yemen from Djibouti.",
+      "zh": "它就在曼德海峡的非洲一侧；这条海峡把也门和吉布提分隔开来。"
+    },
+    {
+      "id": 108,
+      "startMs": 568440,
+      "endMs": 573960,
+      "en": "And this warehouse is absolutely full of Yemeni families who fled across the water.",
+      "zh": "这座仓库里挤满了渡海逃来的也门家庭。"
+    },
+    {
+      "id": 109,
+      "startMs": 573960,
+      "endMs": 575560,
+      "en": "It takes several hours to get across.",
+      "zh": "渡海需要几个小时。"
+    },
+    {
+      "id": 110,
+      "startMs": 576200,
+      "endMs": 580280,
+      "en": "And they're telling me that the thing they've been fleeing most from are the air strikes.",
+      "zh": "他们告诉我，他们最想逃离的是空袭。"
+    },
+    {
+      "id": 111,
+      "startMs": 580360,
+      "endMs": 586520,
+      "en": "They don't care, they tell me, whether these are Saudi planes or Yemeni or whether it's the Houthis.",
+      "zh": "他们告诉我，他们不在乎那些飞机是沙特的、也门的，还是胡塞武装的。"
+    },
+    {
+      "id": 112,
+      "startMs": 586760,
+      "endMs": 588520,
+      "en": "They're just terrified of the bombs.",
+      "zh": "他们只是被炸弹吓坏了。"
+    },
+    {
+      "id": 113,
+      "startMs": 589080,
+      "endMs": 594200,
+      "en": "So the situation on their side, on the Yemeni side, is still extremely fluid.",
+      "zh": "所以，他们那边，也就是也门一侧的局势仍然极不稳定。"
+    },
+    {
+      "id": 114,
+      "startMs": 594360,
+      "endMs": 599480,
+      "en": "Because we don't know, they don't know, whether the Saudis are going to escalate this or not.",
+      "zh": "因为我们不知道，他们也不知道，沙特是否会让局势升级。"
+    },
+    {
+      "id": 115,
+      "startMs": 599880,
+      "endMs": 602840,
+      "en": "Because the Saudis have got a difficult decision to make.",
+      "zh": "因为沙特正面临艰难的抉择。"
+    },
+    {
+      "id": 116,
+      "startMs": 603400,
+      "endMs": 606360,
+      "en": "They can't get their ships safely through the Bab el-Mandeb Strait",
+      "zh": "他们无法让船只安全通过曼德海峡，"
+    },
+    {
+      "id": 117,
+      "startMs": 606360,
+      "endMs": 610840,
+      "en": "with their oil out, and that poses an existential threat to their economy.",
+      "zh": "把石油运出去；这对其经济构成生死攸关的威胁。"
+    },
+    {
+      "id": 118,
+      "startMs": 611160,
+      "endMs": 616440,
+      "en": "And it will impact on the world economy because it'll mean shorter oil supplies, higher prices.",
+      "zh": "这也会影响世界经济，意味着石油供应减少、价格上涨。"
+    },
+    {
+      "id": 119,
+      "startMs": 617020,
+      "endMs": 624620,
+      "en": "Or do they escalate this and increase the air strikes, increase the misery on the Yemeni side,",
+      "zh": "还是说，他们要升级局势、增加空袭，让也门一侧更加痛苦，"
+    },
+    {
+      "id": 120,
+      "startMs": 625020,
+      "endMs": 629020,
+      "en": "bring more than the 3,000 refugees we've already got here in this camp?",
+      "zh": "让来到这个难民营的难民超过已有的三千人？"
+    },
+    {
+      "id": 121,
+      "startMs": 629580,
+      "endMs": 633180,
+      "en": "Or do they try and mediate it through a country like Pakistan, Turkey?",
+      "zh": "还是通过巴基斯坦、土耳其这样的国家来调解？"
+    },
+    {
+      "id": 122,
+      "startMs": 633820,
+      "endMs": 636700,
+      "en": "The Saudis are looking around wondering where their friends are right now,",
+      "zh": "沙特现在环顾四周，想知道自己的朋友在哪里，"
+    },
+    {
+      "id": 123,
+      "startMs": 637100,
+      "endMs": 646380,
+      "en": "because the Americans so far are not prepared to do the air strikes and join in what the Saudis may be asking for. Frank Gardner.",
+      "zh": "因为美国目前还不准备实施空袭，也不愿加入沙特可能要求的行动。弗兰克·加德纳报道。"
+    },
+    {
+      "id": 124,
+      "startMs": 649080,
+      "endMs": 656760,
+      "en": "Still to come in this podcast, some of the videos online of this mad dash to the sun loungers around pools and beaches are just extraordinary.",
+      "zh": "本期节目稍后还将听到：网上那些人们疯狂冲向泳池和海滩躺椅的视频，实在令人惊叹。"
+    },
+    {
+      "id": 125,
+      "startMs": 657000,
+      "endMs": 661560,
+      "en": "Crowds of people can be seen lining up at the gates in the morning at resorts waiting to get into the pool.",
+      "zh": "在度假村，人们一早就排在门口，等待进入泳池。"
+    },
+    {
+      "id": 126,
+      "startMs": 661800,
+      "endMs": 665480,
+      "en": "We hear about how the so-called sunbed wars in Europe have turned deadly.",
+      "zh": "我们将听到欧洲所谓的“躺椅大战”如何演变成致命事件。"
+    },
+    {
+      "id": 127,
+      "startMs": 665480,
+      "endMs": 667480,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 128,
+      "startMs": 667480,
+      "endMs": 671720,
+      "en": "From one set of polls in Germany to another. In Russia's parliamentary elections,",
+      "zh": "从德国的一组民调转到另一场投票。在俄罗斯议会选举中，"
+    },
+    {
+      "id": 129,
+      "startMs": 671880,
+      "endMs": 677420,
+      "en": "President Putin's United Russia party is on course to retain its constitutional majority.",
+      "zh": "普京总统领导的统一俄罗斯党预计将保住宪法多数席位。"
+    },
+    {
+      "id": 130,
+      "startMs": 678060,
+      "endMs": 681340,
+      "en": "It has won a record number of seats, and the near-complete results",
+      "zh": "该党赢得创纪录的席位数，几乎完整的结果"
+    },
+    {
+      "id": 131,
+      "startMs": 681340,
+      "endMs": 687420,
+      "en": "will ensure it can continue to make changes to the constitution without support from other parties.",
+      "zh": "将确保它无需其他政党支持，就能继续修改宪法。"
+    },
+    {
+      "id": 132,
+      "startMs": 687900,
+      "endMs": 689740,
+      "en": "The victory was widely expected.",
+      "zh": "这场胜利完全在预料之中。"
+    },
+    {
+      "id": 133,
+      "startMs": 690220,
+      "endMs": 695420,
+      "en": "Only pro-Kremlin parties were allowed to stand; those opposing the war with Ukraine were not.",
+      "zh": "只有亲克里姆林宫的政党获准参选；反对与乌克兰战争的政党则不被允许。"
+    },
+    {
+      "id": 134,
+      "startMs": 695740,
+      "endMs": 698460,
+      "en": "In elections described as neither free nor fair,",
+      "zh": "在这场被形容为既不自由也不公平的选举中，"
+    },
+    {
+      "id": 135,
+      "startMs": 698940,
+      "endMs": 701900,
+      "en": "from Moscow, our Russia editor, Steve Rosenberg, reports.",
+      "zh": "我们的俄罗斯事务编辑史蒂夫·罗森伯格从莫斯科报道。"
+    },
+    {
+      "id": 136,
+      "startMs": 702140,
+      "endMs": 707100,
+      "en": "Many things about Russia are unpredictable. The results of this election weren't.",
+      "zh": "俄罗斯有很多事情不可预测，但这次选举的结果并非如此。"
+    },
+    {
+      "id": 137,
+      "startMs": 707660,
+      "endMs": 713660,
+      "en": "In a political system tightly controlled by the Kremlin, as expected, the ruling party, United Russia,",
+      "zh": "在克里姆林宫严密控制的政治体系中，不出所料，执政党统一俄罗斯党"
+    },
+    {
+      "id": 138,
+      "startMs": 714060,
+      "endMs": 717020,
+      "en": "which is backed by Vladimir Putin, is well out in front.",
+      "zh": "由弗拉基米尔·普京支持，遥遥领先。"
+    },
+    {
+      "id": 139,
+      "startMs": 717800,
+      "endMs": 721880,
+      "en": "Preliminary results suggest it has retained its constitutional majority.",
+      "zh": "初步结果显示，该党保住了宪法多数席位。"
+    },
+    {
+      "id": 140,
+      "startMs": 722280,
+      "endMs": 728920,
+      "en": "As for those parties that are trailing far behind, but which have cleared the 5% threshold and made it into parliament,",
+      "zh": "至于那些远远落后的政党，虽然它们越过5%的门槛进入议会，"
+    },
+    {
+      "id": 141,
+      "startMs": 728920,
+      "endMs": 734840,
+      "en": "experience shows that their MPs in the Duma normally support Kremlin initiatives.",
+      "zh": "但经验表明，它们在杜马的议员通常支持克里姆林宫的倡议。"
+    },
+    {
+      "id": 142,
+      "startMs": 735320,
+      "endMs": 741480,
+      "en": "President Putin is likely to use the results to claim that the country is full square behind his policies,",
+      "zh": "普京总统很可能利用这一结果，声称全国完全支持他的政策，"
+    },
+    {
+      "id": 143,
+      "startMs": 741880,
+      "endMs": 746760,
+      "en": "particularly the so-called special military operation, Russia's war on Ukraine.",
+      "zh": "尤其是所谓的“特别军事行动”，也就是俄罗斯对乌克兰的战争。"
+    },
+    {
+      "id": 144,
+      "startMs": 747160,
+      "endMs": 752280,
+      "en": "This was the first parliamentary election in Russia since the country's full-scale invasion of Ukraine,",
+      "zh": "这是俄罗斯全面入侵乌克兰以来的首次议会选举，"
+    },
+    {
+      "id": 145,
+      "startMs": 753080,
+      "endMs": 761560,
+      "en": "and from it the authorities will claim a mandate from the people to justify any future decisions on the course of the war. Steve Rosenberg.",
+      "zh": "当局将以此声称获得人民授权，为未来有关战争走向的任何决定辩护。史蒂夫·罗森伯格报道。"
+    },
+    {
+      "id": 146,
+      "startMs": 761560,
+      "endMs": 769720,
+      "en": "Hundreds of families are taking part in a study that uses the latest technology to keep people with dementia safer in their own homes in the UK.",
+      "zh": "数百个家庭正在参加一项研究，利用最新技术让英国失智症患者在自己的家中更安全。"
+    },
+    {
+      "id": 147,
+      "startMs": 769720,
+      "endMs": 779400,
+      "en": "Scientists at the Dementia Research Institute have kitted out houses with smart gadgets and sensors to try to cut care home and hospital admissions.",
+      "zh": "失智症研究所的科学家为房屋配备智能设备和传感器，尝试减少入住护理院和住院的次数。"
+    },
+    {
+      "id": 148,
+      "startMs": 780040,
+      "endMs": 784360,
+      "en": "The UK's National Health Service, the NHS, says it's following the trial closely",
+      "zh": "英国国家医疗服务体系（NHS）表示，正密切关注这项试验，"
+    },
+    {
+      "id": 149,
+      "startMs": 784600,
+      "endMs": 790520,
+      "en": "to see if it can reduce trips to the hospital and give families peace of mind that their loved ones are safe.",
+      "zh": "以了解它能否减少就医次数，让家人放心亲人是安全的。"
+    },
+    {
+      "id": 150,
+      "startMs": 791080,
+      "endMs": 794360,
+      "en": "Our health reporter, Jim Reed, has been to meet one of the couples involved.",
+      "zh": "我们的健康事务记者吉姆·里德去见了参与试验的一对夫妇。"
+    },
+    {
+      "id": 151,
+      "startMs": 794840,
+      "endMs": 798140,
+      "en": "Will you please welcome back, fantastic, Bharat Patel and Jyoti.",
+      "zh": "请欢迎回到节目，精彩的巴拉特·帕特尔和乔蒂。"
+    },
+    {
+      "id": 152,
+      "startMs": 801960,
+      "endMs": 807400,
+      "en": "Jyoti Patel has spent decades on stage, always alongside her husband Bharat.",
+      "zh": "乔蒂·帕特尔数十年来一直登台演出，总是与丈夫巴拉特并肩。"
+    },
+    {
+      "id": 153,
+      "startMs": 807560,
+      "endMs": 813880,
+      "en": "Bharat. The couple travelled the world as a magical double act. That's the real magic.",
+      "zh": "巴拉特。这对夫妇以神奇的双人组合走遍世界。这就是真正的魔力。"
+    },
+    {
+      "id": 154,
+      "startMs": 816280,
+      "endMs": 821560,
+      "en": "A few years ago, some routines became harder for Jyoti to remember.",
+      "zh": "几年前，乔蒂开始更难记住一些表演套路。"
+    },
+    {
+      "id": 155,
+      "startMs": 822280,
+      "endMs": 828840,
+      "en": "Three years back, I saw something I was looking for on the stage and it wasn't there, so I thought something was wrong.",
+      "zh": "三年前，我在舞台上找一样东西，却发现它不在那里，于是我觉得出了问题。"
+    },
+    {
+      "id": 156,
+      "startMs": 829480,
+      "endMs": 833560,
+      "en": "I wasn't sure it was dementia, because I thought she might have forgotten it.",
+      "zh": "我不确定那是不是失智症，因为我以为她可能只是忘了。"
+    },
+    {
+      "id": 157,
+      "startMs": 834200,
+      "endMs": 838600,
+      "en": "But we saw the doctor and they said it was coming, it was starting, you know.",
+      "zh": "但我们去看了医生，他们说这种情况正在出现，已经开始了。"
+    },
+    {
+      "id": 158,
+      "startMs": 839000,
+      "endMs": 845080,
+      "en": "If I was going out, if I just didn't look around, then I would find that I'm lost, yeah.",
+      "zh": "如果我出门时不四处看看，就会发现自己迷路了。"
+    },
+    {
+      "id": 159,
+      "startMs": 845240,
+      "endMs": 853560,
+      "en": "Two years after her Alzheimer's diagnosis, the couple are now one of 250 families involved in a new project",
+      "zh": "在她被诊断出阿尔茨海默病两年后，这对夫妇成为参与一项新项目的250个家庭之一，"
+    },
+    {
+      "id": 160,
+      "startMs": 853720,
+      "endMs": 857720,
+      "en": "using technology to help people live at home with dementia.",
+      "zh": "该项目利用技术帮助失智症患者居家生活。"
+    },
+    {
+      "id": 161,
+      "startMs": 858120,
+      "endMs": 861720,
+      "en": "You're looking at the sensors for the door.",
+      "zh": "你现在看到的是门上的传感器。"
+    },
+    {
+      "id": 162,
+      "startMs": 861720,
+      "endMs": 866920,
+      "en": "Their house in west London is fitted out with door or movement sensors in every room.",
+      "zh": "他们位于伦敦西部的房子里，每个房间都装有门传感器或动作传感器。"
+    },
+    {
+      "id": 163,
+      "startMs": 867320,
+      "endMs": 871720,
+      "en": "If the door is left open for a longer time, I'll get a phone call.",
+      "zh": "如果门长时间敞开，我就会接到电话。"
+    },
+    {
+      "id": 164,
+      "startMs": 871720,
+      "endMs": 876200,
+      "en": "If Jyoti tries to leave in the middle of the night, or just suddenly starts",
+      "zh": "如果乔蒂试图在半夜离开，或突然开始"
+    },
+    {
+      "id": 165,
+      "startMs": 876200,
+      "endMs": 880220,
+      "en": "making more trips to the bathroom, the system can alert her carers.",
+      "zh": "更频繁地去洗手间，系统就会提醒她的照护人员。"
+    },
+    {
+      "id": 166,
+      "startMs": 880460,
+      "endMs": 883340,
+      "en": "So you can see much more comfortable and safer.",
+      "zh": "这样显然会更舒适、更安全。"
+    },
+    {
+      "id": 167,
+      "startMs": 886040,
+      "endMs": 893880,
+      "en": "Then upstairs in the bedroom, under this mattress, is a sensor which can record Jyoti's heart rate and breathing.",
+      "zh": "楼上卧室的床垫下有一个传感器，可以记录乔蒂的心率和呼吸。"
+    },
+    {
+      "id": 168,
+      "startMs": 893960,
+      "endMs": 897880,
+      "en": "As she sleeps, it tries to spot early signs of infection.",
+      "zh": "她睡觉时，传感器会尝试发现感染的早期迹象。"
+    },
+    {
+      "id": 169,
+      "startMs": 900820,
+      "endMs": 907860,
+      "en": "And back downstairs in the kitchen, there are more sensors on the fridge, the kettle, the microwave, even the toaster.",
+      "zh": "回到楼下厨房，冰箱、水壶、微波炉，甚至烤面包机上也装有传感器。"
+    },
+    {
+      "id": 170,
+      "startMs": 908180,
+      "endMs": 914420,
+      "en": "The idea is they can help check whether she's sticking to her daily routine and eating properly.",
+      "zh": "这些设备可以帮助检查她是否遵循日常作息、正常进食。"
+    },
+    {
+      "id": 171,
+      "startMs": 916040,
+      "endMs": 919240,
+      "en": "You can see here a feed of her heart rate.",
+      "zh": "这里可以看到她的心率数据。"
+    },
+    {
+      "id": 172,
+      "startMs": 919400,
+      "endMs": 924520,
+      "en": "All this data can then be shared with doctors and care staff in near real time.",
+      "zh": "所有这些数据都能近乎实时地与医生和护理人员共享。"
+    },
+    {
+      "id": 173,
+      "startMs": 924680,
+      "endMs": 932520,
+      "en": "We'll get that feed from the sleep mat. The team behind the project say the total cost works out at around £2,000 a year.",
+      "zh": "我们会从睡眠垫获取这些数据。项目团队说，总成本约为每年2,000英镑。"
+    },
+    {
+      "id": 174,
+      "startMs": 933160,
+      "endMs": 937880,
+      "en": "I'm Sarah Daniels. I'm an occupational therapist and I work at Imperial College London.",
+      "zh": "我是莎拉·丹尼尔斯，一名职业治疗师，在伦敦帝国理工学院工作。"
+    },
+    {
+      "id": 175,
+      "startMs": 938120,
+      "endMs": 947000,
+      "en": "That's the power of technology. We're trying to spot early signs that things might be going wrong. There may be risks that are changing.",
+      "zh": "这就是技术的力量。我们试图发现情况可能恶化的早期迹象，风险或许正在变化。"
+    },
+    {
+      "id": 176,
+      "startMs": 947000,
+      "endMs": 952600,
+      "en": "We spot them early, we can intervene earlier, and we can keep people at home and out of hospital.",
+      "zh": "及早发现后，我们就能更早干预，让人们留在家中而不必住院。"
+    },
+    {
+      "id": 177,
+      "startMs": 952840,
+      "endMs": 956760,
+      "en": "So this kind of system might cost what, perhaps a couple of thousand pounds?",
+      "zh": "那么，这种系统可能要多少钱，也许几千英镑？"
+    },
+    {
+      "id": 178,
+      "startMs": 957240,
+      "endMs": 962120,
+      "en": "Is that kind of money justified when there's pressure elsewhere on the health service?",
+      "zh": "医疗服务其他方面都承受压力时，这笔钱值得花吗？"
+    },
+    {
+      "id": 179,
+      "startMs": 962280,
+      "endMs": 970200,
+      "en": "So really we only need to delay someone's admission to a care home by a month or reduce the days that they spend in hospital.",
+      "zh": "其实，只要让某人延迟一个月入住护理院，或减少住院天数，"
+    },
+    {
+      "id": 180,
+      "startMs": 970600,
+      "endMs": 975560,
+      "en": "By 20%, and we've more than covered our costs for a year of tech and monitoring.",
+      "zh": "减少20%，就足以抵消一年的技术和监测成本。"
+    },
+    {
+      "id": 181,
+      "startMs": 975580,
+      "endMs": 978780,
+      "en": "So that's the kind of equation that we're looking at.",
+      "zh": "这就是我们考虑的成本效益关系。"
+    },
+    {
+      "id": 182,
+      "startMs": 979580,
+      "endMs": 982540,
+      "en": "Okay, so that's the socks. I'll just put it on.",
+      "zh": "好，这就是袜子。我把它穿上。"
+    },
+    {
+      "id": 183,
+      "startMs": 982780,
+      "endMs": 991100,
+      "en": "Back in the living room, Jyoti is now trialing wearable technology, a smart watch and smart socks, to spot signs she's at risk of falling.",
+      "zh": "回到客厅，乔蒂正在试用可穿戴技术：智能手表和智能袜子，用来发现她有跌倒风险的迹象。"
+    },
+    {
+      "id": 184,
+      "startMs": 991260,
+      "endMs": 999100,
+      "en": "For this couple, it's about reassurance and in the longer term about keeping Jyoti in her own home as long as possible.",
+      "zh": "对这对夫妇来说，这带来安心；长远而言，则是让乔蒂尽可能久地住在自己家中。"
+    },
+    {
+      "id": 185,
+      "startMs": 999420,
+      "endMs": 1003180,
+      "en": "Oh, peace of mind, definitely. Definitely it is a peace of mind.",
+      "zh": "哦，肯定让人安心。确实让人安心。"
+    },
+    {
+      "id": 186,
+      "startMs": 1003500,
+      "endMs": 1005020,
+      "en": "That report from Jim Reed.",
+      "zh": "以上是吉姆·里德的报道。"
+    },
+    {
+      "id": 187,
+      "startMs": 1005660,
+      "endMs": 1013180,
+      "en": "Now, if you've ever spent time in Europe during the summer, you've probably experienced fierce competition for sunbeds at pools and beaches.",
+      "zh": "如果你夏天在欧洲待过，可能体验过泳池和海滩上争抢日光浴床的激烈竞争。"
+    },
+    {
+      "id": 188,
+      "startMs": 1013580,
+      "endMs": 1017740,
+      "en": "But in Greece, a dispute over one of those coveted spots has turned deadly.",
+      "zh": "但在希腊，一场争夺热门位置的争执酿成了死亡。"
+    },
+    {
+      "id": 189,
+      "startMs": 1018300,
+      "endMs": 1025180,
+      "en": "An 82-year-old man has died after getting into a fight with another man over a sun lounger on a beach near Athens.",
+      "zh": "一名82岁男子因在雅典附近海滩为一张躺椅与人争斗后死亡。"
+    },
+    {
+      "id": 190,
+      "startMs": 1025660,
+      "endMs": 1031260,
+      "en": "I spoke to our reporter, Helena Burke, about what happened. According to witnesses at Vouliagmeni Beach,",
+      "zh": "我询问了记者海伦娜·伯克。据沃利亚格迈尼海滩的目击者说，"
+    },
+    {
+      "id": 191,
+      "startMs": 1031340,
+      "endMs": 1035900,
+      "en": "which is about an hour south of Athens, this man had tried to reserve a few sun loungers.",
+      "zh": "这里位于雅典以南约一小时车程；这名男子试图预留几张躺椅。"
+    },
+    {
+      "id": 192,
+      "startMs": 1035600,
+      "endMs": 1038240,
+      "en": "And was waiting for his companions to join him.",
+      "zh": "他在等同伴来会合。"
+    },
+    {
+      "id": 193,
+      "startMs": 1038640,
+      "endMs": 1043040,
+      "en": "This then sparked a dispute with another man on the beach, aged in his 70s.",
+      "zh": "这随后引发了他与海滩上一名70多岁男子的争执。"
+    },
+    {
+      "id": 194,
+      "startMs": 1043360,
+      "endMs": 1048800,
+      "en": "The dispute eventually escalated into a physical fight between the two, and eventually other people got involved as well.",
+      "zh": "争执最终升级为两人之间的肢体冲突，后来还有其他人卷入。"
+    },
+    {
+      "id": 195,
+      "startMs": 1049200,
+      "endMs": 1054960,
+      "en": "One eyewitness told local media the scene became so chaotic that screams could be heard at the other end of the beach.",
+      "zh": "一名目击者告诉当地媒体，现场混乱不堪，尖叫声在海滩另一端都能听见。"
+    },
+    {
+      "id": 196,
+      "startMs": 1055440,
+      "endMs": 1059360,
+      "en": "While these two men were fighting, the older man, aged in his 80s, collapsed.",
+      "zh": "两人打斗时，那名80多岁的老人倒下了。"
+    },
+    {
+      "id": 197,
+      "startMs": 1059680,
+      "endMs": 1064560,
+      "en": "According to various reports, he received CPR and a defibrillator was used on him.",
+      "zh": "据多家报道，他接受了心肺复苏，还使用了除颤器。"
+    },
+    {
+      "id": 198,
+      "startMs": 1064960,
+      "endMs": 1067440,
+      "en": "He had to be taken to hospital, where he later died.",
+      "zh": "他被送往医院，后来在那里去世。"
+    },
+    {
+      "id": 199,
+      "startMs": 1067840,
+      "endMs": 1071280,
+      "en": "And the other man involved in the fight has now reportedly been arrested.",
+      "zh": "据报道，涉入打斗的另一名男子现已被捕。"
+    },
+    {
+      "id": 200,
+      "startMs": 1071760,
+      "endMs": 1077600,
+      "en": "Helena, there seems to be a growing issue in Europe around this as well. Like during the summer, it feels as though it's got",
+      "zh": "海伦娜，欧洲似乎也越来越常见这种问题。就像夏天时，情况仿佛已经"
+    },
+    {
+      "id": 201,
+      "startMs": 1077680,
+      "endMs": 1080560,
+      "en": "completely out of hand, people competing for a spot on a sun lounger.",
+      "zh": "完全失控，人们为一个躺椅位置争抢。"
+    },
+    {
+      "id": 202,
+      "startMs": 1081120,
+      "endMs": 1087920,
+      "en": "Yeah, some of the videos online of this kind of mad dash to the sun loungers around pools and beaches are just extraordinary.",
+      "zh": "是的，网上一些人们在泳池和海滩疯狂冲抢躺椅的视频，实在令人咋舌。"
+    },
+    {
+      "id": 203,
+      "startMs": 1088160,
+      "endMs": 1093840,
+      "en": "Crowds of people can be seen lining up at the gates in the morning at resorts, waiting to get into the pool as soon as possible.",
+      "zh": "度假村早晨可见人群在门口排队，等着尽快进入泳池。"
+    },
+    {
+      "id": 204,
+      "startMs": 1094240,
+      "endMs": 1098320,
+      "en": "There are also reports of people fighting over sun loungers at various European beaches.",
+      "zh": "欧洲各地海滩也有报道称，人们会为躺椅争斗。"
+    },
+    {
+      "id": 205,
+      "startMs": 1098800,
+      "endMs": 1102800,
+      "en": "The market research firm YouGov actually did a poll about this recently, and they found",
+      "zh": "市场研究公司YouGov最近就此进行了一项民调，发现"
+    },
+    {
+      "id": 206,
+      "startMs": 1102880,
+      "endMs": 1108880,
+      "en": "that about 57% of people in Europe say they've found themselves deprived of a sunbed because they were all taken.",
+      "zh": "欧洲约57%的人说，自己曾因日光浴床全被占用而无处可躺。"
+    },
+    {
+      "id": 207,
+      "startMs": 1109280,
+      "endMs": 1114400,
+      "en": "The poll also found that the majority of holidaymakers think it's unacceptable to try and reserve the loungers",
+      "zh": "民调还发现，多数度假者认为，试图预留躺椅是不可接受的，"
+    },
+    {
+      "id": 208,
+      "startMs": 1114400,
+      "endMs": 1117120,
+      "en": "by leaving your towel on top of them and then leaving.",
+      "zh": "把毛巾放在躺椅上后自己离开。"
+    },
+    {
+      "id": 209,
+      "startMs": 1117600,
+      "endMs": 1124900,
+      "en": "This isn't only an issue in Europe. There are reports of similar tensions over sun lounges at resorts in North Africa and the Middle East.",
+      "zh": "这不只是欧洲的问题。据报道，北非和中东的度假村也有类似的躺椅紧张局面。"
+    },
+    {
+      "id": 210,
+      "startMs": 1125380,
+      "endMs": 1132900,
+      "en": "Anecdotally, as someone from Australia who's spent time in Southeast Asia, this isn't as much of a problem in that part of the world.",
+      "zh": "不过凭个人观察，我来自澳大利亚，也在东南亚待过很长时间；在那里这没那么严重。"
+    },
+    {
+      "id": 211,
+      "startMs": 1133300,
+      "endMs": 1140660,
+      "en": "I think some of that is cultural differences, but it's also because there's generally more space on the beach in that part of the world.",
+      "zh": "我认为部分原因是文化差异，但也因为那一带的海滩通常有更多空间。"
+    },
+    {
+      "id": 212,
+      "startMs": 1141220,
+      "endMs": 1144820,
+      "en": "The number of tourists going to Europe is increasing every single year,",
+      "zh": "前往欧洲的游客人数年年增加，"
+    },
+    {
+      "id": 213,
+      "startMs": 1144820,
+      "endMs": 1150260,
+      "en": "so it seems like these so-called sunbed wars are only going to become a bigger and bigger problem there.",
+      "zh": "所以这些所谓的“躺椅大战”似乎只会成为越来越严重的问题。"
+    },
+    {
+      "id": 214,
+      "startMs": 1150260,
+      "endMs": 1151860,
+      "en": "Helena Burke reporting.",
+      "zh": "海伦娜·伯克报道。"
+    },
+    {
+      "id": 215,
+      "startMs": 1154460,
+      "endMs": 1160220,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部内容。如需联系我们，请发邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 216,
+      "startMs": 1160220,
+      "endMs": 1166620,
+      "en": "This edition was mixed by Darcy O'Brien and the producer was Rachel Wright. The editor is Karen Martin and I'm Ankur Desai.",
+      "zh": "本期由达西·奥布莱恩混音，制片人是瑞秋·赖特。编辑是凯伦·马丁，我是安库尔·德赛。"
+    },
+    {
+      "id": 217,
+      "startMs": 1166940,
+      "endMs": 1168380,
+      "en": "Until next time, goodbye.",
+      "zh": "下期再见。"
+    }
+  ]
+}
