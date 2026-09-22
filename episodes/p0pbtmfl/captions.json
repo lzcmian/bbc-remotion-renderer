@@ -1,0 +1,2006 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "22 September 2026"
+  },
+  "durationMs": 1598460,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3680,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5660,
+      "endMs": 12380,
+      "en": "I'm Alex Ritson, and in the early hours of Tuesday, September the 22nd, these are our main stories.",
+      "zh": "我是亚历克斯·里特森。这里是9月22日星期二凌晨的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12860,
+      "endMs": 18540,
+      "en": "America's major TV networks jointly suspend their pooled coverage of events at the White House.",
+      "zh": "美国主要电视网联合暂停白宫活动的共享报道。"
+    },
+    {
+      "id": 4,
+      "startMs": 18940,
+      "endMs": 22780,
+      "en": "This is in response to Donald Trump's banning of three major outlets.",
+      "zh": "这是为了回应唐纳德·特朗普禁止三家主要媒体进入白宫。"
+    },
+    {
+      "id": 5,
+      "startMs": 23340,
+      "endMs": 30940,
+      "en": "Thousands flee Yemen as the war between the Iranian-backed Houthis and Saudi-backed forces escalates. We have a special report.",
+      "zh": "随着伊朗支持的胡塞武装与沙特支持的部队之间的战争升级，数千人逃离也门。我们将带来特别报道。"
+    },
+    {
+      "id": 6,
+      "startMs": 31500,
+      "endMs": 38620,
+      "en": "And there's a new attempt by FIFA president Gianni Infantino to win back support for his leadership of global football.",
+      "zh": "国际足联主席詹尼·因凡蒂诺又一次尝试，为其领导世界足坛重新赢得支持。"
+    },
+    {
+      "id": 7,
+      "startMs": 40480,
+      "endMs": 49120,
+      "en": "Also in this podcast. In case we're attacked, we will not surrender. There are plans prepared for evacuation.",
+      "zh": "本期还将报道：如果遭到攻击，我们不会投降；我们已经制定了疏散计划。"
+    },
+    {
+      "id": 8,
+      "startMs": 49360,
+      "endMs": 55600,
+      "en": "The Lithuanian prime minister tells the BBC local people feel they're under constant threat of a Russian attack.",
+      "zh": "立陶宛总理告诉 BBC，当地人感觉始终面临俄罗斯袭击的威胁。"
+    },
+    {
+      "id": 9,
+      "startMs": 56080,
+      "endMs": 62000,
+      "en": "And the row involving teenage darts sensation Luke Littler and booing crowds.",
+      "zh": "以及飞镖神童卢克·利特勒与嘘声观众之间的争议。"
+    },
+    {
+      "id": 10,
+      "startMs": 64980,
+      "endMs": 71540,
+      "en": "We begin in the United States, where television networks have been staging an extraordinary collective revolt.",
+      "zh": "我们从美国开始。美国电视网正在发起一场非同寻常的集体抗议。"
+    },
+    {
+      "id": 11,
+      "startMs": 71620,
+      "endMs": 76260,
+      "en": "They're effectively boycotting their shared coverage of President Donald Trump.",
+      "zh": "它们实际上是在抵制对唐纳德·特朗普总统的共享报道。"
+    },
+    {
+      "id": 12,
+      "startMs": 76660,
+      "endMs": 81380,
+      "en": "They're acting in protest at his decision to ban three news outlets from the White House.",
+      "zh": "这是在抗议特朗普决定禁止三家新闻媒体进入白宫。"
+    },
+    {
+      "id": 13,
+      "startMs": 81940,
+      "endMs": 88340,
+      "en": "Those outlets, CNN, MS NOW, and Politico, have filed a lawsuit against the administration.",
+      "zh": "这三家媒体 CNN、MS NOW 和 Politico 已对政府提起诉讼。"
+    },
+    {
+      "id": 14,
+      "startMs": 88820,
+      "endMs": 97780,
+      "en": "Mr. Trump, who's in New York ahead of his speech at the UN General Assembly, spoke about the boycott after he met the city's mayor, Zohran Mamdani.",
+      "zh": "特朗普先生正在纽约，准备在联合国大会发表演讲；他会见纽约市市长佐赫兰·马姆达尼后谈到了这场抵制。"
+    },
+    {
+      "id": 15,
+      "startMs": 98180,
+      "endMs": 105620,
+      "en": "It's interesting because they said they were going to boycott me, but they never boycotted me, so I wasn't very worried about that.",
+      "zh": "这很有意思，因为他们说要抵制我，但从未真正抵制过，所以我并不太担心。"
+    },
+    {
+      "id": 16,
+      "startMs": 105620,
+      "endMs": 108420,
+      "en": "Look at all that press. And I think I have an obligation.",
+      "zh": "看看那些媒体。我认为自己有义务这样做。"
+    },
+    {
+      "id": 17,
+      "startMs": 108420,
+      "endMs": 113460,
+      "en": "Not to let fake news. They're very bad for the country, very bad for national security.",
+      "zh": "不能让假新闻继续传播。它们对国家非常不利，也严重危害国家安全。"
+    },
+    {
+      "id": 18,
+      "startMs": 113700,
+      "endMs": 116180,
+      "en": "So I have that obligation. So we'll see how it works out.",
+      "zh": "所以我负有这样的义务。我们会看看结果如何。"
+    },
+    {
+      "id": 19,
+      "startMs": 116580,
+      "endMs": 121300,
+      "en": "By Monday evening, the White House had launched a streaming channel in response, saying.",
+      "zh": "到周一晚间，白宫作出回应，开通了一个流媒体频道，并称："
+    },
+    {
+      "id": 20,
+      "startMs": 121460,
+      "endMs": 128520,
+      "en": "Trump TV would stream top videos, major remarks, and must-see highlights 24/7.",
+      "zh": "特朗普电视台将全天候直播重要视频、重大讲话和必看精彩片段。"
+    },
+    {
+      "id": 21,
+      "startMs": 129080,
+      "endMs": 133960,
+      "en": "On Monday it was CNN's turn to film White House proceedings, but because of the row.",
+      "zh": "周一轮到 CNN 拍摄白宫活动，但由于这场争议，"
+    },
+    {
+      "id": 22,
+      "startMs": 134280,
+      "endMs": 139560,
+      "en": "Major networks kept their cameras away as President Trump opened his new helipad.",
+      "zh": "特朗普总统启用新直升机停机坪时，主要电视网都没有派出摄像机。"
+    },
+    {
+      "id": 23,
+      "startMs": 139560,
+      "endMs": 143320,
+      "en": "Perhaps not what Donald Trump intended to happen.",
+      "zh": "这或许不是唐纳德·特朗普想看到的结果。"
+    },
+    {
+      "id": 24,
+      "startMs": 143640,
+      "endMs": 146600,
+      "en": "I got more from our North America editor, Sarah Smith.",
+      "zh": "我们的北美编辑萨拉·史密斯带来更多报道。"
+    },
+    {
+      "id": 25,
+      "startMs": 147320,
+      "endMs": 152520,
+      "en": "No, I don't think he intended this, because Donald Trump relishes being on television.",
+      "zh": "不，我不认为这是他想要的，因为唐纳德·特朗普很喜欢上电视。"
+    },
+    {
+      "id": 26,
+      "startMs": 152600,
+      "endMs": 156760,
+      "en": "And he dominates the media even more than your average politician does.",
+      "zh": "而且他比普通政治人物更喜欢主导媒体。"
+    },
+    {
+      "id": 27,
+      "startMs": 156760,
+      "endMs": 162280,
+      "en": "And yet we've got a situation where there is no network television coverage of him at all.",
+      "zh": "然而现在的情况是，电视网完全没有对他的电视报道。"
+    },
+    {
+      "id": 28,
+      "startMs": 162440,
+      "endMs": 167560,
+      "en": "So no pictures of him boarding Marine One, the helicopter, as he was leaving the White House.",
+      "zh": "因此，没有他离开白宫、登上“海军陆战队一号”直升机的画面。"
+    },
+    {
+      "id": 29,
+      "startMs": 167640,
+      "endMs": 172680,
+      "en": "No images of him arriving in New York or of any of the events he's taking part in.",
+      "zh": "也没有他抵达纽约或参加任何活动的画面。"
+    },
+    {
+      "id": 30,
+      "startMs": 172680,
+      "endMs": 177960,
+      "en": "And not only is there not any moving footage, there aren't even any still photographs.",
+      "zh": "不仅没有动态影像，甚至连静态照片也没有。"
+    },
+    {
+      "id": 31,
+      "startMs": 177960,
+      "endMs": 184060,
+      "en": "All the White House photographers also agreed not to release their images in protest at the ban.",
+      "zh": "白宫的所有摄影记者也同意不发布照片，以抗议这项禁令。"
+    },
+    {
+      "id": 32,
+      "startMs": 184940,
+      "endMs": 190620,
+      "en": "Because it was on Friday that he picked three media outlets, CNN, MS NOW, and Politico.",
+      "zh": "因为就在周五，他点名了三家媒体：CNN、MS NOW 和 Politico。"
+    },
+    {
+      "id": 33,
+      "startMs": 191180,
+      "endMs": 194060,
+      "en": "And barred them from the White House.",
+      "zh": "并禁止它们进入白宫。"
+    },
+    {
+      "id": 34,
+      "startMs": 194060,
+      "endMs": 198140,
+      "en": "To cover events there, because he said that they put out fake news and lies.",
+      "zh": "不能在那里报道活动，因为他称它们发布假新闻和谎言。"
+    },
+    {
+      "id": 35,
+      "startMs": 199020,
+      "endMs": 204700,
+      "en": "It just so happened that CNN were supposed to be the pool, or shared television crew.",
+      "zh": "碰巧当时本应由 CNN 作为共享电视摄制组。"
+    },
+    {
+      "id": 36,
+      "startMs": 204700,
+      "endMs": 208860,
+      "en": "They were covering the president, and the White House took them off that pool rota.",
+      "zh": "他们本来负责报道总统，而白宫把他们从这份轮值表上撤了下来。"
+    },
+    {
+      "id": 37,
+      "startMs": 209520,
+      "endMs": 216720,
+      "en": "So the other four major television networks all said they would refuse to put in a replacement crew in protest at this ban.",
+      "zh": "因此，另外四家主要电视网都表示，作为对这项禁令的抗议，它们拒绝派出替代摄制组。"
+    },
+    {
+      "id": 38,
+      "startMs": 216720,
+      "endMs": 224880,
+      "en": "On CNN. Extraordinary level of solidarity from the other TV networks, including Fox News.",
+      "zh": "围绕 CNN 的这场行动得到了其他电视网，包括福克斯新闻在内的空前团结。"
+    },
+    {
+      "id": 39,
+      "startMs": 225560,
+      "endMs": 235000,
+      "en": "Will it continue? A gesture is fine, but in the long term, won't they lose coverage of events they want?",
+      "zh": "这会继续下去吗？表达立场当然可以，但从长远看，它们不会失去想报道的事件吗？"
+    },
+    {
+      "id": 40,
+      "startMs": 235000,
+      "endMs": 241080,
+      "en": "It's definitely going to continue any day that CNN was down to be the shared pool TV crew.",
+      "zh": "只要当天轮到 CNN 担任共享电视摄制组，这种行动肯定会继续。"
+    },
+    {
+      "id": 41,
+      "startMs": 241080,
+      "endMs": 243960,
+      "en": "It's unclear what happens on other days.",
+      "zh": "其他日子会怎样，还不清楚。"
+    },
+    {
+      "id": 42,
+      "startMs": 243960,
+      "endMs": 248200,
+      "en": "They have not been banned, and were supposed to be providing coverage of Donald Trump.",
+      "zh": "这些电视网没有被禁，原本应负责报道唐纳德·特朗普。"
+    },
+    {
+      "id": 43,
+      "startMs": 248200,
+      "endMs": 254840,
+      "en": "But what is obvious is that the media are pretty united in their condemnation of this ban.",
+      "zh": "但显而易见的是，媒体在谴责这项禁令方面相当团结。"
+    },
+    {
+      "id": 44,
+      "startMs": 255240,
+      "endMs": 260760,
+      "en": "The three prohibited outlets have also launched a legal challenge that will be heard later this week.",
+      "zh": "这三家被禁媒体也提起了法律挑战，案件将于本周晚些时候审理。"
+    },
+    {
+      "id": 45,
+      "startMs": 261080,
+      "endMs": 269080,
+      "en": "They say that banning them from the White House is not only an assault on the freedom of the press, which is constitutionally protected in the United States",
+      "zh": "他们说，禁止这些媒体进入白宫不仅是对新闻自由的攻击，而新闻自由受美国宪法保护。"
+    },
+    {
+      "id": 46,
+      "startMs": 269080,
+      "endMs": 274600,
+      "en": "but it also interferes with the public's right to independent journalism free from government interference.",
+      "zh": "这也妨碍公众获得不受政府干预的独立新闻报道的权利。"
+    },
+    {
+      "id": 47,
+      "startMs": 274680,
+      "endMs": 278520,
+      "en": "And how much does President Trump need this coverage?",
+      "zh": "那么，特朗普总统有多需要这种报道？"
+    },
+    {
+      "id": 48,
+      "startMs": 278520,
+      "endMs": 285080,
+      "en": "I understand he's already looking at ways of creating essentially his own pool coverage of his movements.",
+      "zh": "据我了解，他已经在考虑如何基本上为自己的行踪建立专属的联合采访报道。"
+    },
+    {
+      "id": 49,
+      "startMs": 285900,
+      "endMs": 288620,
+      "en": "Well, there was an attempt at that today.",
+      "zh": "今天确实有过这样的尝试。"
+    },
+    {
+      "id": 50,
+      "startMs": 288620,
+      "endMs": 293660,
+      "en": "So on the White House YouTube channel and on the new White House mobile phone app",
+      "zh": "白宫在其 YouTube 频道和新的白宫手机应用上，"
+    },
+    {
+      "id": 51,
+      "startMs": 294220,
+      "endMs": 296700,
+      "en": "they put out some pictures of a ribbon-cutting ceremony.",
+      "zh": "发布了一些剪彩仪式的画面。"
+    },
+    {
+      "id": 52,
+      "startMs": 296780,
+      "endMs": 302300,
+      "en": "Donald Trump was opening the new helipad that he's had installed on the South Lawn of the White House.",
+      "zh": "唐纳德·特朗普当时正在启用他下令建在白宫南草坪上的新直升机停机坪。"
+    },
+    {
+      "id": 53,
+      "startMs": 302380,
+      "endMs": 308140,
+      "en": "But it was utterly inaudible. You could barely see him. The camera seemed to be kept very, very far away from him.",
+      "zh": "但现场完全听不清。几乎看不见他，镜头似乎被放在离他非常非常远的地方。"
+    },
+    {
+      "id": 54,
+      "startMs": 308140,
+      "endMs": 314060,
+      "en": "It was an example of the way in which actually you need professional television crews to provide decent coverage.",
+      "zh": "这说明，要提供像样的报道，实际上需要专业电视摄制团队。"
+    },
+    {
+      "id": 55,
+      "startMs": 314060,
+      "endMs": 321020,
+      "en": "But also all the major networks, including the BBC, have said they're not going to air any of that footage supplied by the White House.",
+      "zh": "而且，包括 BBC 在内的所有主要电视网都表示，不会播出白宫提供的任何画面。"
+    },
+    {
+      "id": 56,
+      "startMs": 321180,
+      "endMs": 326540,
+      "en": "And if people are filming things on their mobile phone or some of the other TV outlets were to provide some pictures",
+      "zh": "如果有人用手机拍摄，或其他电视媒体提供一些画面，"
+    },
+    {
+      "id": 57,
+      "startMs": 326540,
+      "endMs": 331500,
+      "en": "the major networks will not be using them on any day we've withdrawn network TV coverage.",
+      "zh": "在我们撤回电视网报道的任何一天，主要电视网都不会使用这些画面。"
+    },
+    {
+      "id": 58,
+      "startMs": 331660,
+      "endMs": 336780,
+      "en": "Of course, the president has other ways of reaching people. He can post on Truth Social.",
+      "zh": "当然，总统还有其他方式接触公众。他可以在 Truth Social 上发帖。"
+    },
+    {
+      "id": 59,
+      "startMs": 336780,
+      "endMs": 339820,
+      "en": "He can put out a video on social media channels.",
+      "zh": "他可以在社交媒体平台发布视频。"
+    },
+    {
+      "id": 60,
+      "startMs": 339820,
+      "endMs": 344860,
+      "en": "You know, I think even if he does have other ways of getting this message out, he will miss being on television.",
+      "zh": "我想，即使他有其他方式传达信息，他也会想念出现在电视上的感觉。"
+    },
+    {
+      "id": 61,
+      "startMs": 345600,
+      "endMs": 347520,
+      "en": "North America editor, Sarah Smith.",
+      "zh": "北美编辑莎拉·史密斯报道。"
+    },
+    {
+      "id": 62,
+      "startMs": 348720,
+      "endMs": 356080,
+      "en": "Presidents, prime ministers, and the world's top diplomats are coming together in New York for the UN General Assembly.",
+      "zh": "各国总统、总理和世界各国的最高级别外交官齐聚纽约，参加联合国大会。"
+    },
+    {
+      "id": 63,
+      "startMs": 356160,
+      "endMs": 365120,
+      "en": "But with the backdrop of wars in the Middle East and the ongoing conflict between Russia and Ukraine, there will no doubt be some tense exchanges.",
+      "zh": "但在中东战争以及俄乌持续冲突的背景下，毫无疑问会有一些紧张交锋。"
+    },
+    {
+      "id": 64,
+      "startMs": 365440,
+      "endMs": 368800,
+      "en": "Iran is reportedly sending a delegation to the assembly",
+      "zh": "据报道，伊朗将派代表团参加大会，"
+    },
+    {
+      "id": 65,
+      "startMs": 369360,
+      "endMs": 375200,
+      "en": "but there's no word on whether talks with President Trump are scheduled to take place on the sidelines.",
+      "zh": "但目前没有消息表明，伊朗是否安排在会议期间与特朗普总统举行会谈。"
+    },
+    {
+      "id": 66,
+      "startMs": 375600,
+      "endMs": 378880,
+      "en": "Our State Department correspondent, Tom Bateman, said:",
+      "zh": "本台国务院记者汤姆·贝特曼说："
+    },
+    {
+      "id": 67,
+      "startMs": 378880,
+      "endMs": 384240,
+      "en": "There's a lot of ground to cover. One of the things we've done here is to check out the escalators.",
+      "zh": "这里有很多议题值得报道。我们在这里做的事情之一，就是检查自动扶梯。"
+    },
+    {
+      "id": 68,
+      "startMs": 384400,
+      "endMs": 388560,
+      "en": "They are working inside because, remember, it was last year",
+      "zh": "里面的自动扶梯正在运行，因为别忘了，去年"
+    },
+    {
+      "id": 69,
+      "startMs": 388640,
+      "endMs": 393680,
+      "en": "that President Trump, when he came to make his big speech here, got stuck on the escalator on the way in",
+      "zh": "特朗普总统来这里发表重要演讲时，曾在进场路上被困在自动扶梯上，"
+    },
+    {
+      "id": 70,
+      "startMs": 393680,
+      "endMs": 401600,
+      "en": "with the First Lady Melania Trump, and used that really in his view as a symbol of what he saw as the UN's dysfunction.",
+      "zh": "当时第一夫人梅拉尼娅·特朗普也在旁边；在他看来，这成了联合国运作失灵的象征。"
+    },
+    {
+      "id": 71,
+      "startMs": 402080,
+      "endMs": 409620,
+      "en": "Then proceeded a year ago to rail against countries and the organization itself, particularly over the issue of immigration",
+      "zh": "随后，他在一年前继续猛烈抨击各国以及联合国这一组织本身，尤其针对移民问题，"
+    },
+    {
+      "id": 72,
+      "startMs": 409860,
+      "endMs": 413300,
+      "en": "saying that countries were, in his words, going to hell.",
+      "zh": "并用他自己的话说，各国正走向地狱。"
+    },
+    {
+      "id": 73,
+      "startMs": 413700,
+      "endMs": 418100,
+      "en": "Now will we get a similar kind of sense from Mr. Trump? Probably",
+      "zh": "那么，我们会从特朗普先生那里听到类似的语气吗？可能会，"
+    },
+    {
+      "id": 74,
+      "startMs": 418100,
+      "endMs": 424420,
+      "en": "but also there's some really important diplomacy happening here. Again, he will meet President Zelenskyy of Ukraine.",
+      "zh": "但这里也在进行一些非常重要的外交活动。他还将再次会见乌克兰总统泽连斯基。"
+    },
+    {
+      "id": 75,
+      "startMs": 424660,
+      "endMs": 432100,
+      "en": "He desperately needs some kind of resolution on the issue of both Russia and Ukraine targeting each other's energy targets.",
+      "zh": "在俄罗斯和乌克兰相互袭击对方能源目标的问题上，他迫切需要达成某种解决方案。"
+    },
+    {
+      "id": 76,
+      "startMs": 432340,
+      "endMs": 436820,
+      "en": "That's causing further problems when it comes to diesel and the cost of that in the United States.",
+      "zh": "这进一步造成了柴油供应以及美国柴油价格方面的问题。"
+    },
+    {
+      "id": 77,
+      "startMs": 436980,
+      "endMs": 438340,
+      "en": "Political problem for him.",
+      "zh": "这对他来说是一个政治问题。"
+    },
+    {
+      "id": 78,
+      "startMs": 438580,
+      "endMs": 447140,
+      "en": "He will also meet Gulf leaders as again he desperately needs some kind of resolution over oil exports via the Strait of Hormuz and elsewhere in the Middle East.",
+      "zh": "他还将会见海湾国家领导人，因为在经由霍尔木兹海峡及中东其他地区的石油出口问题上，他同样迫切需要某种解决方案。"
+    },
+    {
+      "id": 79,
+      "startMs": 447540,
+      "endMs": 450540,
+      "en": "And then he'll have that meeting with Prime Minister Andy Burnham.",
+      "zh": "随后，他将与首相安迪·伯恩汉姆会面。"
+    },
+    {
+      "id": 80,
+      "startMs": 450600,
+      "endMs": 455460,
+      "en": "A question about how much these behind-the-scenes meetings will actually even be seen",
+      "zh": "问题在于，这些幕后会谈究竟有多少能被公众看到，"
+    },
+    {
+      "id": 81,
+      "startMs": 455540,
+      "endMs": 464660,
+      "en": "because of his current huge, escalating dispute with the media in the United States. Our State Department correspondent, Tom Bateman.",
+      "zh": "因为他目前与美国媒体的争端正在不断升级。本台国务院记者汤姆·贝特曼报道。"
+    },
+    {
+      "id": 82,
+      "startMs": 465740,
+      "endMs": 472780,
+      "en": "We've reported recently on the rapid advance made by Iran-backed Houthis in Yemen to the country's Red Sea coast.",
+      "zh": "我们最近报道过伊朗支持的胡塞武装在也门迅速推进至该国红海沿岸。"
+    },
+    {
+      "id": 83,
+      "startMs": 473180,
+      "endMs": 483740,
+      "en": "It's marked an escalation in their war with Saudi-backed forces and placed the Houthis in a position to control the Bab al-Mandab Strait, a crucial shipping route.",
+      "zh": "这标志着他们与沙特支持的部队之间的战争升级，也使胡塞武装处于可以控制曼德海峡的地位；那里是一条关键航运通道。"
+    },
+    {
+      "id": 84,
+      "startMs": 483820,
+      "endMs": 493740,
+      "en": "Now the British Prime Minister Andy Burnham has said the UK will provide support to Saudi Arabia in response to attacks the country has faced from the Houthis.",
+      "zh": "英国首相安迪·伯恩汉姆表示，针对沙特遭到胡塞武装袭击的情况，英国将向沙特阿拉伯提供支持。"
+    },
+    {
+      "id": 85,
+      "startMs": 494060,
+      "endMs": 499660,
+      "en": "Mr. Burnham said the UK would provide what he called defensive air-to-air refuelling.",
+      "zh": "伯恩汉姆称，英国将提供他所说的防御性空中加油支持。"
+    },
+    {
+      "id": 86,
+      "startMs": 499980,
+      "endMs": 502380,
+      "en": "Here's our political correspondent, Chris Mason.",
+      "zh": "下面请听本台政治记者克里斯·梅森的报道。"
+    },
+    {
+      "id": 87,
+      "startMs": 503100,
+      "endMs": 513420,
+      "en": "It's understood this refuelling support will begin in the coming days and will involve a single British aircraft, a Voyager based out of RAF Akrotiri in Cyprus.",
+      "zh": "据悉，这项加油支持将在未来几天开始，将涉及一架英国飞机，即一架从塞浦路斯阿克罗蒂里皇家空军基地起飞的 Voyager。"
+    },
+    {
+      "id": 88,
+      "startMs": 514060,
+      "endMs": 520220,
+      "en": "Government officials say the offer is time-limited and likely in the first instance to last for weeks.",
+      "zh": "政府官员表示，这项支持的期限有限，初步预计将持续数周。"
+    },
+    {
+      "id": 89,
+      "startMs": 520700,
+      "endMs": 525340,
+      "en": "What is described as defensive support is seen as aiding Saudi Air Force jets.",
+      "zh": "所谓的防御性支援，被认为是在帮助沙特空军战机。"
+    },
+    {
+      "id": 90,
+      "startMs": 525600,
+      "endMs": 529120,
+      "en": "Attempting to shoot down incoming Houthi missiles and drones.",
+      "zh": "这些战机试图击落来袭的胡塞导弹和无人机。"
+    },
+    {
+      "id": 91,
+      "startMs": 529680,
+      "endMs": 534960,
+      "en": "In recent days, Houthi militants in Yemen say they have carried out attacks on the Saudi capital Riyadh.",
+      "zh": "近日，也门胡塞武装称，他们袭击了沙特首都利雅得。"
+    },
+    {
+      "id": 92,
+      "startMs": 535360,
+      "endMs": 538720,
+      "en": "As well as energy sites on the country's Red Sea coast.",
+      "zh": "他们还袭击了该国红海沿岸的能源设施。"
+    },
+    {
+      "id": 93,
+      "startMs": 539200,
+      "endMs": 545600,
+      "en": "Meanwhile, more than 3,000 Yemenis have fled across the Red Sea to Djibouti to escape the fighting.",
+      "zh": "与此同时，超过3000名也门人逃过红海，前往吉布提躲避战火。"
+    },
+    {
+      "id": 94,
+      "startMs": 545600,
+      "endMs": 551120,
+      "en": "Between the Houthis and the Saudi-backed forces, and many more are likely to follow their lead.",
+      "zh": "他们逃离胡塞武装与沙特支持部队之间的战斗，可能还有更多人跟随。"
+    },
+    {
+      "id": 95,
+      "startMs": 551360,
+      "endMs": 557120,
+      "en": "The BBC's Frank Gardner visited a refugee camp in Obock, a small port town",
+      "zh": "BBC记者弗兰克·加德纳走访了奥博克的一个难民营；奥博克是一座小港镇，"
+    },
+    {
+      "id": 96,
+      "startMs": 557120,
+      "endMs": 560400,
+      "en": "where officials are preparing for the arrival of up to 10,000 refugees.",
+      "zh": "当地官员正准备迎接最多一万名难民。"
+    },
+    {
+      "id": 97,
+      "startMs": 566900,
+      "endMs": 572180,
+      "en": "I'm inside a warehouse here at a place called Obock, which is on the Djiboutian",
+      "zh": "我现在在奥博克这个地方的一座仓库里，这里位于吉布提一侧，"
+    },
+    {
+      "id": 98,
+      "startMs": 572420,
+      "endMs": 578180,
+      "en": "that's the African side of the Bab al-Mandab Strait that separates Africa from the Arabian Peninsula.",
+      "zh": "也就是曼德海峡的非洲一侧；这条海峡分隔非洲与阿拉伯半岛。"
+    },
+    {
+      "id": 99,
+      "startMs": 578740,
+      "endMs": 586260,
+      "en": "And this warehouse is full of families, hundreds of people here, actually all together more than 3,000 Yemenis",
+      "zh": "这座仓库里挤满了家庭，有数百人；这里总共有超过3000名也门人，"
+    },
+    {
+      "id": 100,
+      "startMs": 586260,
+      "endMs": 591380,
+      "en": "who've come across in boats in the last few days, fleeing the fighting in Yemen.",
+      "zh": "他们在过去几天乘船渡海而来，逃离也门的战斗。"
+    },
+    {
+      "id": 101,
+      "startMs": 591700,
+      "endMs": 597940,
+      "en": "There's sand and tarpaulins on the floor, goats feeding amongst everybody, but people are at least getting food.",
+      "zh": "地上铺着沙土和篷布，山羊在人群中觅食；但人们至少还能得到食物。"
+    },
+    {
+      "id": 102,
+      "startMs": 598500,
+      "endMs": 603220,
+      "en": "They fled hungry and literally the clothes they're standing up in.",
+      "zh": "他们饥饿地逃来，身上只穿着此刻的衣服。"
+    },
+    {
+      "id": 103,
+      "startMs": 603220,
+      "endMs": 606580,
+      "en": "And the thing that they're terrified of most are the airstrikes",
+      "zh": "他们最害怕的是空袭，"
+    },
+    {
+      "id": 104,
+      "startMs": 606580,
+      "endMs": 610820,
+      "en": "the bombs that fall on their houses, on their children, on their families.",
+      "zh": "以及落在房屋、孩子和家人身上的炸弹。"
+    },
+    {
+      "id": 105,
+      "startMs": 613980,
+      "endMs": 618060,
+      "en": "One of those I met here is Qasim Ibrahim Absi, a former fisherman.",
+      "zh": "我在这里遇到的一个人叫卡西姆·易卜拉欣·阿卜西，曾是渔民。"
+    },
+    {
+      "id": 106,
+      "startMs": 618300,
+      "endMs": 622540,
+      "en": "He's old and frail. In fact, his ID card says he was born 100 years ago.",
+      "zh": "他年迈而虚弱。事实上，他的身份证显示他出生于100年前。"
+    },
+    {
+      "id": 107,
+      "startMs": 622540,
+      "endMs": 628140,
+      "en": "I found him sitting on a tarpaulin, having arrived last Friday, and he was eager to talk.",
+      "zh": "我发现他坐在一块篷布上；他上周五抵达，急切地想要交谈。"
+    },
+    {
+      "id": 108,
+      "startMs": 628140,
+      "endMs": 630860,
+      "en": "I asked him what brought him to this place.",
+      "zh": "我问他是什么把他带到了这里。"
+    },
+    {
+      "id": 109,
+      "startMs": 630860,
+      "endMs": 633260,
+      "en": "What led us to come here?",
+      "zh": "是什么让我们来到这里？"
+    },
+    {
+      "id": 110,
+      "startMs": 633260,
+      "endMs": 637580,
+      "en": "It was the plane. The sound of the planes. Boom.",
+      "zh": "是飞机。飞机的声音。轰！"
+    },
+    {
+      "id": 111,
+      "startMs": 642840,
+      "endMs": 645640,
+      "en": "Sitting next to him is his wife, Aisha Abdulqader.",
+      "zh": "坐在他身旁的是他的妻子阿伊莎·阿卜杜勒卡迪尔。"
+    },
+    {
+      "id": 112,
+      "startMs": 646280,
+      "endMs": 653240,
+      "en": "She's apparently the same age, and yet despite her ordeal, she hasn't given up on going back to Yemen and the life they had before.",
+      "zh": "据说她也同样年迈，但尽管历经磨难，她仍未放弃回到也门、回到他们从前的生活。"
+    },
+    {
+      "id": 113,
+      "startMs": 653640,
+      "endMs": 663480,
+      "en": "We are willing to go back if there's peace, and we are praying to God that peace does return.",
+      "zh": "如果有和平，我们愿意回去；我们祈求上帝让和平重新降临。"
+    },
+    {
+      "id": 114,
+      "startMs": 664040,
+      "endMs": 666360,
+      "en": "All we need is peace, even for our children's future.",
+      "zh": "我们所需要的只是和平，也为了孩子们的未来。"
+    },
+    {
+      "id": 115,
+      "startMs": 666600,
+      "endMs": 670920,
+      "en": "They get safety first, then food, water, and an education.",
+      "zh": "他们首先需要安全，然后是食物、水和教育。"
+    },
+    {
+      "id": 116,
+      "startMs": 671560,
+      "endMs": 676200,
+      "en": "As you see, we just fled with our clothes and left everything behind because there is no peace.",
+      "zh": "如你所见，我们只穿着身上的衣服逃走，因没有和平而抛下了一切。"
+    },
+    {
+      "id": 117,
+      "startMs": 679800,
+      "endMs": 682680,
+      "en": "Not all the refugees here in this camp are new arrivals.",
+      "zh": "这个营地里的难民并不都是新近抵达的。"
+    },
+    {
+      "id": 118,
+      "startMs": 683240,
+      "endMs": 691640,
+      "en": "Just under 3,000 Yemenis were already here, having fled when fighting first flared up between the Houthis and a Saudi-backed coalition in 2015.",
+      "zh": "这里原已有近3000名也门人；他们在2015年胡塞武装与沙特支持的联盟首次爆发战斗时逃来。"
+    },
+    {
+      "id": 119,
+      "startMs": 691640,
+      "endMs": 695960,
+      "en": "Mohammed Abdulkarim has been here in this camp ever since.",
+      "zh": "穆罕默德·阿卜杜勒卡里姆从那时起就一直住在这个营地。"
+    },
+    {
+      "id": 120,
+      "startMs": 696280,
+      "endMs": 704600,
+      "en": "Most of the people here are in the worst condition inside the tents here. I'm very touched.",
+      "zh": "这里大多数人住在帐篷里，处境非常糟糕。我深受触动。"
+    },
+    {
+      "id": 121,
+      "startMs": 704840,
+      "endMs": 708040,
+      "en": "I'm crying for these people, for my people, for their suffering.",
+      "zh": "我为这些人、为我的同胞、为他们的苦难而哭泣。"
+    },
+    {
+      "id": 122,
+      "startMs": 708040,
+      "endMs": 714280,
+      "en": "I want our voices to be heard by the NGOs and the Djibouti government, and I'm thankful to them for accepting us.",
+      "zh": "我希望非政府组织和吉布提政府听到我们的声音，也感谢他们接纳我们。"
+    },
+    {
+      "id": 123,
+      "startMs": 719340,
+      "endMs": 722060,
+      "en": "Mohammed breaks off, turning his face away.",
+      "zh": "穆罕默德说到这里停了下来，转过脸去。"
+    },
+    {
+      "id": 124,
+      "startMs": 722780,
+      "endMs": 724860,
+      "en": "I can see he's choking back tears.",
+      "zh": "我看得出他强忍着泪水。"
+    },
+    {
+      "id": 125,
+      "startMs": 725640,
+      "endMs": 730520,
+      "en": "This country, Yemen, was once called Arabia Felix by the Romans, Happy Arabia.",
+      "zh": "也门这个国家曾被罗马人称为“阿拉伯乐土”，即幸福的阿拉伯。"
+    },
+    {
+      "id": 126,
+      "startMs": 731160,
+      "endMs": 735760,
+      "en": "Today, it's anything but. Frank Gardner in Djibouti.",
+      "zh": "如今却完全不是这样。吉布提的弗兰克·加德纳报道。"
+    },
+    {
+      "id": 127,
+      "startMs": 735760,
+      "endMs": 742720,
+      "en": "The FIFA President Gianni Infantino sparked an international outcry earlier this year",
+      "zh": "国际足联主席詹尼·因凡蒂诺今年早些时候引发国际抗议，"
+    },
+    {
+      "id": 128,
+      "startMs": 742720,
+      "endMs": 745840,
+      "en": "with his proposal to privatize the football World Cup.",
+      "zh": "起因是他提议将足球世界杯私有化。"
+    },
+    {
+      "id": 129,
+      "startMs": 745920,
+      "endMs": 751600,
+      "en": "Now he's following up on that by saying he's open to reforms at football's governing body.",
+      "zh": "现在，他进一步表示愿意改革足球管理机构。"
+    },
+    {
+      "id": 130,
+      "startMs": 752000,
+      "endMs": 756720,
+      "en": "In a letter sent to all member associations, he suggested an external review",
+      "zh": "他在致所有成员协会的信中，提议进行外部审查，"
+    },
+    {
+      "id": 131,
+      "startMs": 756720,
+      "endMs": 760640,
+      "en": "of how FIFA makes its decisions and who should have a say.",
+      "zh": "审查国际足联如何决策，以及谁应当拥有发言权。"
+    },
+    {
+      "id": 132,
+      "startMs": 760960,
+      "endMs": 764640,
+      "en": "Our sports correspondent Ben Croucher has been telling me more.",
+      "zh": "我们的体育记者本·克劳彻将为我进一步介绍。"
+    },
+    {
+      "id": 133,
+      "startMs": 765280,
+      "endMs": 768560,
+      "en": "I think there's three interesting things to come out of this letter.",
+      "zh": "我认为这封信有三点值得关注。"
+    },
+    {
+      "id": 134,
+      "startMs": 768640,
+      "endMs": 775760,
+      "en": "One, the confirmation, if we really needed it, that the proposals to sell off stakes in major tournaments would not proceed.",
+      "zh": "第一，若确实还需要确认的话，那就是出售重大赛事股份的提议不会推进。"
+    },
+    {
+      "id": 135,
+      "startMs": 775760,
+      "endMs": 781680,
+      "en": "He insisted that FIFA's democratic processes and independence and sporting authority were never for sale.",
+      "zh": "他坚持说，国际足联的民主程序、独立性和体育权威绝不会出售。"
+    },
+    {
+      "id": 136,
+      "startMs": 781760,
+      "endMs": 787760,
+      "en": "He added, I recognise without the full context it had caused concern and created the impression that decisions had already been taken.",
+      "zh": "他还说：“我承认，缺少完整背景导致了担忧，也造成决定已经作出的印象。”"
+    },
+    {
+      "id": 137,
+      "startMs": 788160,
+      "endMs": 789760,
+      "en": "They had not.",
+      "zh": "其实并没有。"
+    },
+    {
+      "id": 138,
+      "startMs": 790160,
+      "endMs": 798740,
+      "en": "A couple of other interesting things. One, he's proposing to create an independent external review into the way FIFA is run.",
+      "zh": "还有另外两点有意思。第一，他提议对国际足联的运作方式进行独立的外部审查。"
+    },
+    {
+      "id": 139,
+      "startMs": 798900,
+      "endMs": 805940,
+      "en": "And perhaps the most crucial for football associations around the world is proposed direct consultation with the confederations themselves",
+      "zh": "而对全世界足球协会而言，最关键的或许是提议直接与各联合会协商，"
+    },
+    {
+      "id": 140,
+      "startMs": 806260,
+      "endMs": 814180,
+      "en": "member associations, i.e. the different countries' football associations and stakeholders in FIFA's decision-making processes.",
+      "zh": "以及成员协会，也就是各国足球协会和国际足联决策过程中的利益相关方。"
+    },
+    {
+      "id": 141,
+      "startMs": 814180,
+      "endMs": 818260,
+      "en": "Now this letter has been sent to all 211 member associations",
+      "zh": "这封信现已发给全部211个成员协会，"
+    },
+    {
+      "id": 142,
+      "startMs": 818340,
+      "endMs": 821460,
+      "en": "ahead of a FIFA Council meeting on the 15th of October next month.",
+      "zh": "就在下月10月15日的国际足联理事会会议之前。"
+    },
+    {
+      "id": 143,
+      "startMs": 822020,
+      "endMs": 827380,
+      "en": "He nearly lost his job over the last proposals that you just talked about.",
+      "zh": "他差点因你刚才谈到的那些提案而丢掉职位。"
+    },
+    {
+      "id": 144,
+      "startMs": 827620,
+      "endMs": 830260,
+      "en": "Is this enough? Is he back in the fold?",
+      "zh": "这够了吗？他重新得到接纳了吗？"
+    },
+    {
+      "id": 145,
+      "startMs": 830660,
+      "endMs": 834500,
+      "en": "Has there been any response yet? So there's been no response just yet.",
+      "zh": "目前有任何回应吗？所以目前还没有回应。"
+    },
+    {
+      "id": 146,
+      "startMs": 834580,
+      "endMs": 837940,
+      "en": "The key response, I think, that we're all looking out for is the way that",
+      "zh": "我认为，我们都在等待的关键回应，取决于"
+    },
+    {
+      "id": 147,
+      "startMs": 837940,
+      "endMs": 840500,
+      "en": "European football's governing body, UEFA, responds to this.",
+      "zh": "欧洲足坛管理机构欧洲足联对此会如何回应。"
+    },
+    {
+      "id": 148,
+      "startMs": 840500,
+      "endMs": 844580,
+      "en": "They were probably Infantino's harshest critic over this.",
+      "zh": "他们可能是对此批评因凡蒂诺最严厉的一方。"
+    },
+    {
+      "id": 149,
+      "startMs": 844580,
+      "endMs": 848820,
+      "en": "They united all of their members, essentially slamming the initial proposals.",
+      "zh": "他们团结所有成员，基本上严厉抨击了最初的提案。"
+    },
+    {
+      "id": 150,
+      "startMs": 848820,
+      "endMs": 851620,
+      "en": "And especially the way that Infantino conducted himself.",
+      "zh": "尤其是因凡蒂诺处理此事的方式。"
+    },
+    {
+      "id": 151,
+      "startMs": 852100,
+      "endMs": 860680,
+      "en": "The important subtext to all of this is that Infantino is running for re-election as FIFA president next March.",
+      "zh": "其中重要的潜台词是，因凡蒂诺正竞选明年三月连任国际足联主席。"
+    },
+    {
+      "id": 152,
+      "startMs": 861080,
+      "endMs": 864440,
+      "en": "Now this letter appears to be a slight softening of his stance.",
+      "zh": "如今，这封信似乎显示他的立场略有软化。"
+    },
+    {
+      "id": 153,
+      "startMs": 864440,
+      "endMs": 868600,
+      "en": "He's admitted to causing concern. He says it was only a proposal; it wasn't set in stone.",
+      "zh": "他承认引发了担忧。他说那只是提案，并非板上钉钉。"
+    },
+    {
+      "id": 154,
+      "startMs": 868600,
+      "endMs": 874280,
+      "en": "But given animosity towards Infantino and his handling of the initial proposals,",
+      "zh": "但鉴于人们对因凡蒂诺的敌意，以及他处理最初提案的方式，"
+    },
+    {
+      "id": 155,
+      "startMs": 874600,
+      "endMs": 879480,
+      "en": "it's going to be really interesting now to see how the confederations line themselves up.",
+      "zh": "各联合会将如何排定立场，接下来会非常值得关注。"
+    },
+    {
+      "id": 156,
+      "startMs": 879480,
+      "endMs": 887880,
+      "en": "Especially given the fact that the deadline to nominate oneself for the FIFA presidency doesn't come too far away in the middle of November.",
+      "zh": "尤其是提名国际足联主席候选人的截止日期就在不远的十一月中旬。"
+    },
+    {
+      "id": 157,
+      "startMs": 888440,
+      "endMs": 893720,
+      "en": "Would these proposals make real changes to the world of football",
+      "zh": "这些提案会给足坛带来真正的改变吗，"
+    },
+    {
+      "id": 158,
+      "startMs": 893720,
+      "endMs": 897800,
+      "en": "or if he did get re-elected, would we be just back to business as usual?",
+      "zh": "还是如果他成功连任，一切会照旧？"
+    },
+    {
+      "id": 159,
+      "startMs": 898520,
+      "endMs": 904840,
+      "en": "I think the general assumption around FIFA at the moment is what Infantino wants and Infantino gets.",
+      "zh": "我认为目前人们对国际足联的普遍看法是：因凡蒂诺想要什么，就能得到什么。"
+    },
+    {
+      "id": 160,
+      "startMs": 904840,
+      "endMs": 910120,
+      "en": "We saw the way that the World Cup was run and the difficulty that FIFA got into over their ticketing policies",
+      "zh": "我们看到世界杯的运作方式，以及国际足联因票务政策而陷入的困境，"
+    },
+    {
+      "id": 161,
+      "startMs": 910200,
+      "endMs": 916780,
+      "en": "and how their pricing was structured and the amount of money that they were generating—and was that necessarily good for fans?",
+      "zh": "还有定价方式和收入金额——这对球迷来说就一定是好事吗？"
+    },
+    {
+      "id": 162,
+      "startMs": 916780,
+      "endMs": 924220,
+      "en": "Whereas actually, by allowing the confederations and the football associations to have a greater say, the idea is that",
+      "zh": "而如果让各联合会和足球协会拥有更大的发言权，设想是，"
+    },
+    {
+      "id": 163,
+      "startMs": 924300,
+      "endMs": 927580,
+      "en": "The fans of those football associations—and bear in mind that",
+      "zh": "这些足球协会的球迷——请注意，"
+    },
+    {
+      "id": 164,
+      "startMs": 927580,
+      "endMs": 932940,
+      "en": "the English FA and the Spanish FA may have completely different priorities to, say, the Jamaican FA",
+      "zh": "英格兰足协和西班牙足协的优先事项，可能与牙买加足协完全不同，"
+    },
+    {
+      "id": 165,
+      "startMs": 933020,
+      "endMs": 937580,
+      "en": "or the New Zealand FA or some of the much smaller FIFA nations.",
+      "zh": "也可能与新西兰足协或一些规模小得多的国际足联成员国不同。"
+    },
+    {
+      "id": 166,
+      "startMs": 937580,
+      "endMs": 940780,
+      "en": "So by giving all of them a little bit more of a voice,",
+      "zh": "因此，让他们都拥有更多发言权，"
+    },
+    {
+      "id": 167,
+      "startMs": 940780,
+      "endMs": 944860,
+      "en": "the idea is that it should become a little bit more democratic.",
+      "zh": "理想情况下，体系应变得更加民主。"
+    },
+    {
+      "id": 168,
+      "startMs": 944860,
+      "endMs": 947580,
+      "en": "Whether that works in practice, only time will tell.",
+      "zh": "实际能否奏效，只有时间才能证明。"
+    },
+    {
+      "id": 169,
+      "startMs": 947900,
+      "endMs": 950380,
+      "en": "Our sports correspondent, Ben Croucher.",
+      "zh": "本台体育记者本·克劳彻的报道。"
+    },
+    {
+      "id": 170,
+      "startMs": 952700,
+      "endMs": 954700,
+      "en": "Still to come in this podcast.",
+      "zh": "本期节目稍后还有内容。"
+    },
+    {
+      "id": 171,
+      "startMs": 954940,
+      "endMs": 958620,
+      "en": "I want to be clear about something right up front.",
+      "zh": "我想一开始就明确一件事。"
+    },
+    {
+      "id": 172,
+      "startMs": 959580,
+      "endMs": 964620,
+      "en": "This settlement is not a vote of support for this merger.",
+      "zh": "这项和解并不代表支持这项合并。"
+    },
+    {
+      "id": 173,
+      "startMs": 964620,
+      "endMs": 968460,
+      "en": "It is not a blessing of the broader merger.",
+      "zh": "它也不是对更广泛合并的认可。"
+    },
+    {
+      "id": 174,
+      "startMs": 968940,
+      "endMs": 976860,
+      "en": "Paramount Skydance finally cuts a deal to unlock its $110 billion merger with Warner Brothers Discovery.",
+      "zh": "派拉蒙天空之舞终于达成协议，为其与华纳兄弟探索的1100亿美元合并扫清障碍。"
+    },
+    {
+      "id": 175,
+      "startMs": 976860,
+      "endMs": 979180,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 176,
+      "startMs": 979980,
+      "endMs": 987500,
+      "en": "More than three decades after the Rwanda genocide, a doctor in Britain has become the first person to be charged",
+      "zh": "卢旺达大屠杀三十多年后，一名英国医生成为首位被起诉的人，"
+    },
+    {
+      "id": 177,
+      "startMs": 987500,
+      "endMs": 995260,
+      "en": "in the UK in connection with the killing of around 800,000 ethnic Tutsis and politically moderate Hutus.",
+      "zh": "罪名与杀害约80万名图西族人和政治立场温和的胡图族人有关。"
+    },
+    {
+      "id": 178,
+      "startMs": 995660,
+      "endMs": 998860,
+      "en": "Vincent Brown is from the Rwandan capital Kigali,",
+      "zh": "文森特·布朗来自卢旺达首都基加利，"
+    },
+    {
+      "id": 179,
+      "startMs": 998860,
+      "endMs": 1006140,
+      "en": "where he is alleged to have directed and incited people to murder members of the Tutsi ethnic group.",
+      "zh": "据称他在那里指挥并煽动人们杀害图西族成员。"
+    },
+    {
+      "id": 180,
+      "startMs": 1006380,
+      "endMs": 1011020,
+      "en": "He was charged after a lengthy investigation by London's Metropolitan Police.",
+      "zh": "伦敦警察厅经过长期调查后对他提出指控。"
+    },
+    {
+      "id": 181,
+      "startMs": 1011420,
+      "endMs": 1012700,
+      "en": "Tom Simons has more.",
+      "zh": "汤姆·西蒙斯报道。"
+    },
+    {
+      "id": 182,
+      "startMs": 1013420,
+      "endMs": 1017500,
+      "en": "The 1994 killings in Rwanda lasted 100 days,",
+      "zh": "1994年卢旺达的杀戮持续了100天，"
+    },
+    {
+      "id": 183,
+      "startMs": 1018220,
+      "endMs": 1025340,
+      "en": "during which Hutu extremists carried out a campaign of slaughter against Tutsis and other moderate Hutus.",
+      "zh": "期间胡图族极端分子对图西族人及其他温和派胡图族人展开屠杀。"
+    },
+    {
+      "id": 184,
+      "startMs": 1025660,
+      "endMs": 1027820,
+      "en": "It followed a three-year civil war.",
+      "zh": "这场杀戮发生在一场持续三年的内战之后。"
+    },
+    {
+      "id": 185,
+      "startMs": 1028380,
+      "endMs": 1035420,
+      "en": "The Metropolitan Police War Crimes Team has been investigating since 2019 at the request of the government of Rwanda.",
+      "zh": "伦敦警察厅战争罪行调查组应卢旺达政府要求，自2019年起展开调查。"
+    },
+    {
+      "id": 186,
+      "startMs": 1035900,
+      "endMs": 1041072,
+      "en": "It has focused on genocide in the Rugenge district of Kigali in April 1994.",
+      "zh": "调查重点是1994年4月基加利鲁根盖区发生的种族灭绝。"
+    },
+    {
+      "id": 187,
+      "startMs": 1041584,
+      "endMs": 1047280,
+      "en": "Dr. Vincent Brown from Islington in North London, formerly Dr. Vincent Virginia,",
+      "zh": "来自伦敦北部伊斯灵顿的文森特·布朗医生，原名文森特·弗吉尼亚，"
+    },
+    {
+      "id": 188,
+      "startMs": 1047680,
+      "endMs": 1055760,
+      "en": "has been charged with one offence of conduct ancillary to genocide and six offences of conduct ancillary to murder",
+      "zh": "被控一项与种族灭绝有关的从属行为罪，以及六项与危害人类罪谋杀有关的从属行为罪，"
+    },
+    {
+      "id": 189,
+      "startMs": 1056000,
+      "endMs": 1059120,
+      "en": "as a crime against humanity under international law.",
+      "zh": "后者依据国际法属于危害人类罪。"
+    },
+    {
+      "id": 190,
+      "startMs": 1059520,
+      "endMs": 1066560,
+      "en": "Senior police officers have previously stressed the UK should not be a safe haven for alleged war criminals.",
+      "zh": "英国高级警官此前强调，英国不应成为涉嫌战争罪犯的避风港。"
+    },
+    {
+      "id": 191,
+      "startMs": 1066880,
+      "endMs": 1076320,
+      "en": "Investigators have been trained in international war crimes legislation and inquiries continue into other alleged genocide offences in Rwanda.",
+      "zh": "调查人员已接受国际战争罪法培训，对卢旺达其他涉嫌种族灭绝罪行的调查仍在继续。"
+    },
+    {
+      "id": 192,
+      "startMs": 1076800,
+      "endMs": 1078640,
+      "en": "Tom Simons reporting.",
+      "zh": "汤姆·西蒙斯报道。"
+    },
+    {
+      "id": 193,
+      "startMs": 1079680,
+      "endMs": 1087600,
+      "en": "European leaders are warning of the possibility that Russia might attack NATO territory with drones or missiles in the coming months.",
+      "zh": "欧洲领导人警告，俄罗斯未来几个月可能会用无人机或导弹攻击北约领土。"
+    },
+    {
+      "id": 194,
+      "startMs": 1088000,
+      "endMs": 1091200,
+      "en": "One country seen as a possible target is Lithuania.",
+      "zh": "立陶宛被视为可能的目标之一。"
+    },
+    {
+      "id": 195,
+      "startMs": 1091520,
+      "endMs": 1098120,
+      "en": "It borders the Kaliningrad region, the heavily militarized westernmost exclave of Russia,",
+      "zh": "立陶宛与加里宁格勒地区接壤；那里是俄罗斯高度军事化的最西端飞地。"
+    },
+    {
+      "id": 196,
+      "startMs": 1098280,
+      "endMs": 1104040,
+      "en": "and just last week, NATO fighter pilots shot down a drone that entered its airspace.",
+      "zh": "就在上周，北约战斗机飞行员击落了一架进入其领空的无人机。"
+    },
+    {
+      "id": 197,
+      "startMs": 1104200,
+      "endMs": 1112520,
+      "en": "Now the Lithuanian prime minister says his country has made evacuation plans in the face of military threats from Russia.",
+      "zh": "立陶宛总理说，面对来自俄罗斯的军事威胁，该国已经制定了疏散计划。"
+    },
+    {
+      "id": 198,
+      "startMs": 1113240,
+      "endMs": 1117320,
+      "en": "Mindaugas Sinkevičius was speaking in a BBC interview.",
+      "zh": "明道加斯·辛克维丘斯接受了 BBC 采访。"
+    },
+    {
+      "id": 199,
+      "startMs": 1118120,
+      "endMs": 1128760,
+      "en": "We're threatened, constantly threatened, not just by drones entering our airspace, but also by previous attempts involving meteorological balloons and cigarette smuggling,",
+      "zh": "我们一直受到威胁，不只是无人机进入领空的威胁，之前还有气象气球和走私香烟等企图。"
+    },
+    {
+      "id": 200,
+      "startMs": 1128760,
+      "endMs": 1132040,
+      "en": "but it is also a threat to our civil aviation.",
+      "zh": "这也对我们的民航构成威胁。"
+    },
+    {
+      "id": 201,
+      "startMs": 1132600,
+      "endMs": 1142520,
+      "en": "If a drone flies in and enters Lithuanian airspace, people in the area receive either a yellow or red alarm to go to the shelter.",
+      "zh": "如果无人机飞入立陶宛领空，当地居民会收到黄色或红色警报，前往避难所。"
+    },
+    {
+      "id": 202,
+      "startMs": 1142840,
+      "endMs": 1150520,
+      "en": "So it's alarming, you know, when in the middle of the night you receive an alarm; that's not a good emotional situation.",
+      "zh": "所以，半夜收到警报确实令人惊恐；那不是一种良好的心理状态。"
+    },
+    {
+      "id": 203,
+      "startMs": 1150920,
+      "endMs": 1157660,
+      "en": "In case we're attacked, we will not surrender. There are plans prepared for evacuation.",
+      "zh": "如果遭到攻击，我们不会投降。我们已经制定了疏散计划。"
+    },
+    {
+      "id": 204,
+      "startMs": 1158060,
+      "endMs": 1167100,
+      "en": "There will be groups of people, disabled and elderly people, who will be prioritized and will need assistance,",
+      "zh": "会有一些人群获得优先安排，包括残障人士和老年人，他们需要得到帮助。"
+    },
+    {
+      "id": 205,
+      "startMs": 1167100,
+      "endMs": 1173660,
+      "en": "and there will be routes that we're thinking over, because of course the evacuation starts from major cities.",
+      "zh": "我们也在考虑疏散路线，因为疏散当然要从主要城市开始。"
+    },
+    {
+      "id": 206,
+      "startMs": 1173900,
+      "endMs": 1183500,
+      "en": "In the worst-case scenario, we have to think over how we will proceed and how we will make it smoothly, not be stuck in a traffic jam, not moving anywhere.",
+      "zh": "在最坏的情况下，我们必须考虑如何行动、如何顺利完成疏散，不能堵在交通拥堵中一动不动。"
+    },
+    {
+      "id": 207,
+      "startMs": 1183500,
+      "endMs": 1186460,
+      "en": "So we're thinking about a variety of scenarios.",
+      "zh": "所以我们正在考虑各种情景。"
+    },
+    {
+      "id": 208,
+      "startMs": 1186460,
+      "endMs": 1188700,
+      "en": "Not all of them are being discussed publicly.",
+      "zh": "并非所有情景都会公开讨论。"
+    },
+    {
+      "id": 209,
+      "startMs": 1189100,
+      "endMs": 1194220,
+      "en": "We face concrete threats, not on a daily basis, but it's a true reality for us.",
+      "zh": "我们面临着具体威胁，虽然不是每天发生，但对我们来说确实是现实。"
+    },
+    {
+      "id": 210,
+      "startMs": 1194540,
+      "endMs": 1202860,
+      "en": "Drones flying in with 10 kilos of explosives, and we have to counter them with jets, attack them and hit the drone.",
+      "zh": "携带10公斤炸药的无人机飞来，我们必须用战斗机拦截、攻击并击落无人机。"
+    },
+    {
+      "id": 211,
+      "startMs": 1203180,
+      "endMs": 1204860,
+      "en": "So that's a real threat.",
+      "zh": "所以这是真实的威胁。"
+    },
+    {
+      "id": 212,
+      "startMs": 1205820,
+      "endMs": 1212380,
+      "en": "That was the Lithuanian Prime Minister Mindaugas Sinkevičius talking to the BBC's Newsnight programme.",
+      "zh": "以上是立陶宛总理明道加斯·辛克维丘斯接受 BBC《Newsnight》节目采访的内容。"
+    },
+    {
+      "id": 213,
+      "startMs": 1213500,
+      "endMs": 1219020,
+      "en": "After months of legal wrangling, the media giant Paramount Skydance has reached a settlement",
+      "zh": "经过数月的法律纠纷，媒体巨头派拉蒙天空之舞达成了一项和解协议，"
+    },
+    {
+      "id": 214,
+      "startMs": 1219020,
+      "endMs": 1224060,
+      "en": "with a California-led group of U.S. states and a Hollywood writers' union.",
+      "zh": "对象是由加利福尼亚州牵头的美国多个州以及好莱坞编剧工会。"
+    },
+    {
+      "id": 215,
+      "startMs": 1224140,
+      "endMs": 1230860,
+      "en": "They were suing it in order to block its proposed $110 billion merger with Warner Bros. Discovery.",
+      "zh": "这些方面曾起诉该公司，试图阻止它与华纳兄弟探索拟议的1100亿美元合并。"
+    },
+    {
+      "id": 216,
+      "startMs": 1231180,
+      "endMs": 1237420,
+      "en": "Announcing the agreement, California Attorney General Rob Bonta said he still had misgivings.",
+      "zh": "加利福尼亚州检察长罗布·邦塔宣布协议时说，他仍然心存疑虑。"
+    },
+    {
+      "id": 217,
+      "startMs": 1238060,
+      "endMs": 1241660,
+      "en": "I want to be clear about something right up front.",
+      "zh": "我想一开始就明确说明一件事。"
+    },
+    {
+      "id": 218,
+      "startMs": 1242700,
+      "endMs": 1247740,
+      "en": "This settlement is not a vote of support for this merger.",
+      "zh": "这项和解并不代表支持这宗合并。"
+    },
+    {
+      "id": 219,
+      "startMs": 1248420,
+      "endMs": 1251540,
+      "en": "It is not a blessing of the broader merger.",
+      "zh": "它也不是对更广泛合并的认可。"
+    },
+    {
+      "id": 220,
+      "startMs": 1252180,
+      "endMs": 1257700,
+      "en": "But opponents of the settlement have accused Rob Bonta of caving in to wealthy interests.",
+      "zh": "但和解协议的反对者指责罗布·邦塔向富裕利益集团屈服。"
+    },
+    {
+      "id": 221,
+      "startMs": 1258020,
+      "endMs": 1263460,
+      "en": "Ione Wells reports on the background to the dispute and what this settlement deal will mean.",
+      "zh": "伊恩·威尔斯报道这场争议的背景，以及这项和解协议意味着什么。"
+    },
+    {
+      "id": 222,
+      "startMs": 1264020,
+      "endMs": 1271780,
+      "en": "So these 12 U.S. states were unhappy about the idea of a merger between Paramount and Warner Bros. Discovery,",
+      "zh": "这12个美国州政府不满派拉蒙与华纳兄弟探索合并的想法，"
+    },
+    {
+      "id": 223,
+      "startMs": 1271780,
+      "endMs": 1278100,
+      "en": "essentially arguing that it would impact competition and also film production as well.",
+      "zh": "主要认为这会影响竞争，也会影响电影制作。"
+    },
+    {
+      "id": 224,
+      "startMs": 1278420,
+      "endMs": 1284500,
+      "en": "The states were pretty clear that this deal that's been reached now doesn't mean that they endorse the merger.",
+      "zh": "各州明确表示，如今达成的这项协议并不意味着它们支持合并。"
+    },
+    {
+      "id": 225,
+      "startMs": 1284500,
+      "endMs": 1295220,
+      "en": "They would still rather the merger didn't take place, but it has met certain criteria for them that will now pave the way essentially for this merger to continue.",
+      "zh": "它们仍然不希望合并发生，但协议满足了它们的某些标准，这基本上将为合并继续推进铺平道路。"
+    },
+    {
+      "id": 226,
+      "startMs": 1295620,
+      "endMs": 1301860,
+      "en": "Some of what Paramount has agreed to includes meeting certain minimum thresholds of film production",
+      "zh": "派拉蒙同意的部分条款包括达到电影制作的最低门槛，"
+    },
+    {
+      "id": 227,
+      "startMs": 1301860,
+      "endMs": 1307300,
+      "en": "to try and make sure that a minimum amount of film production is kept within the United States,",
+      "zh": "以确保美国境内保留最低数量的电影制作，"
+    },
+    {
+      "id": 228,
+      "startMs": 1307620,
+      "endMs": 1310600,
+      "en": "but also that a minimum number of films are produced,",
+      "zh": "同时也确保制作的电影数量达到最低要求；"
+    },
+    {
+      "id": 229,
+      "startMs": 1310600,
+      "endMs": 1315720,
+      "en": "and this includes committing to producing at least 30 films in the first two years of the deal,",
+      "zh": "这包括承诺在协议的前两年制作至少30部电影，"
+    },
+    {
+      "id": 230,
+      "startMs": 1315720,
+      "endMs": 1318760,
+      "en": "and 32 films for the next three years.",
+      "zh": "接下来三年制作32部。"
+    },
+    {
+      "id": 231,
+      "startMs": 1319080,
+      "endMs": 1324360,
+      "en": "A certain percentage of those will have to be independent films, a certain percentage also blockbusters.",
+      "zh": "其中有一定比例必须是独立电影，另有一定比例必须是大片。"
+    },
+    {
+      "id": 232,
+      "startMs": 1324680,
+      "endMs": 1329960,
+      "en": "Now, another aspect that was a concern for these U.S. states was about editorial independence",
+      "zh": "此外，这些美国州政府担忧的另一点是编辑独立性，"
+    },
+    {
+      "id": 233,
+      "startMs": 1329960,
+      "endMs": 1334680,
+      "en": "for some of the news brands, notably CBS News and CNN.",
+      "zh": "涉及一些新闻品牌，尤其是 CBS News 和 CNN。"
+    },
+    {
+      "id": 234,
+      "startMs": 1334680,
+      "endMs": 1342120,
+      "en": "So another part of this deal is that Paramount have agreed to essentially establish an independent",
+      "zh": "因此，协议的另一部分是派拉蒙同意设立一个独立的"
+    },
+    {
+      "id": 235,
+      "startMs": 1342120,
+      "endMs": 1350840,
+      "en": "editorial board to ensure that those two newsrooms retain their editorial independence and can still report impartially on the news.",
+      "zh": "编辑委员会，以确保这两家新闻编辑部保有编辑独立性，仍能公正地报道新闻。"
+    },
+    {
+      "id": 236,
+      "startMs": 1351480,
+      "endMs": 1352600,
+      "en": "Ione Wells.",
+      "zh": "伊恩·威尔斯报道。"
+    },
+    {
+      "id": 237,
+      "startMs": 1353620,
+      "endMs": 1359540,
+      "en": "As most professional athletes will know, dealing with hostile crowds is a big part of the job.",
+      "zh": "正如大多数职业运动员所知，应对敌意观众是这份工作的重要组成部分。"
+    },
+    {
+      "id": 238,
+      "startMs": 1359780,
+      "endMs": 1366420,
+      "en": "But when does booing stop being part of the fun and cross over into unacceptable abuse?",
+      "zh": "但嘘声何时会不再是乐趣的一部分，而越过界限成为不可接受的辱骂？"
+    },
+    {
+      "id": 239,
+      "startMs": 1366820,
+      "endMs": 1374820,
+      "en": "It's a question being asked in the world of darts right now after comments from the world champion, Britain's Luke Littler.",
+      "zh": "在飞镖界，人们正因世界冠军、英国选手卢克·利特勒的言论提出这个问题。"
+    },
+    {
+      "id": 240,
+      "startMs": 1375300,
+      "endMs": 1377380,
+      "en": "Will Chalk told me more about him.",
+      "zh": "威尔·查克向我进一步介绍了他。"
+    },
+    {
+      "id": 241,
+      "startMs": 1377940,
+      "endMs": 1383860,
+      "en": "If you're not a darts fan, I'd say here in the UK actually he's bordering on being a household name.",
+      "zh": "如果你不是飞镖迷，我想说，在英国，他其实已经几乎家喻户晓了。"
+    },
+    {
+      "id": 242,
+      "startMs": 1383860,
+      "endMs": 1388740,
+      "en": "I think if you went into a pub where people were watching sports on a Saturday, most people would have heard of Luke Littler.",
+      "zh": "我想，如果你周六走进一家正在播放体育比赛的酒吧，大多数人都听说过卢克·利特勒。"
+    },
+    {
+      "id": 243,
+      "startMs": 1389380,
+      "endMs": 1394500,
+      "en": "Which is slightly unusual for someone in the kind of relatively niche sport of darts.",
+      "zh": "对于一个来自相对小众的飞镖运动的人来说，这有些不寻常。"
+    },
+    {
+      "id": 244,
+      "startMs": 1394580,
+      "endMs": 1396660,
+      "en": "But then he is an unusual athlete.",
+      "zh": "但他确实是一名不寻常的运动员。"
+    },
+    {
+      "id": 245,
+      "startMs": 1396660,
+      "endMs": 1398100,
+      "en": "I mean, he turned pro at 16.",
+      "zh": "我的意思是，他16岁就转为职业选手。"
+    },
+    {
+      "id": 246,
+      "startMs": 1398420,
+      "endMs": 1404260,
+      "en": "He won the PDC World Championship at 17. That's the youngest anyone has ever done that.",
+      "zh": "他17岁赢得了 PDC 世界锦标赛，是有史以来做到这一点的最年轻选手。"
+    },
+    {
+      "id": 247,
+      "startMs": 1404580,
+      "endMs": 1410100,
+      "en": "He's now still just 19 years old and has won almost every major darts trophy there is.",
+      "zh": "如今他仍然只有19岁，却已经赢得了几乎所有重要的飞镖奖杯。"
+    },
+    {
+      "id": 248,
+      "startMs": 1410180,
+      "endMs": 1413140,
+      "en": "If you want a sense of how well he's thought of in the world of darts,",
+      "zh": "如果你想了解他在飞镖界多受推崇，"
+    },
+    {
+      "id": 249,
+      "startMs": 1414040,
+      "endMs": 1417000,
+      "en": "this is from a trailer for a BBC documentary about him.",
+      "zh": "请听一段 BBC 关于他的纪录片预告片。"
+    },
+    {
+      "id": 250,
+      "startMs": 1417320,
+      "endMs": 1420840,
+      "en": "There is certainly nothing that's ever been seen like it in darts before.",
+      "zh": "飞镖运动中确实从未出现过这样的情况。"
+    },
+    {
+      "id": 251,
+      "startMs": 1420840,
+      "endMs": 1422360,
+      "en": "What have you made of Luke's journey so far?",
+      "zh": "你如何看待卢克一路走来的经历？"
+    },
+    {
+      "id": 252,
+      "startMs": 1422760,
+      "endMs": 1428380,
+      "en": "Sick of talking about it. Every 17 years a star gets born, and he's one of them.",
+      "zh": "我都说烦了。每17年才会诞生一位明星，而他就是其中之一。"
+    },
+    {
+      "id": 253,
+      "startMs": 1428380,
+      "endMs": 1431660,
+      "en": "He has taken darts into the stratosphere.",
+      "zh": "他把飞镖运动带入了平流层。"
+    },
+    {
+      "id": 254,
+      "startMs": 1432540,
+      "endMs": 1438540,
+      "en": "So lots of massive praise there, but he is also a controversial figure in some circles.",
+      "zh": "可见他获得了巨大的赞誉，但在一些圈子里，他也是颇具争议的人物。"
+    },
+    {
+      "id": 255,
+      "startMs": 1438620,
+      "endMs": 1446540,
+      "en": "And over the weekend he was once again targeted by boos and whistles when he was playing at the World Series of Darts in Amsterdam.",
+      "zh": "上周末，他在阿姆斯特丹参加飞镖世界系列赛时，再次遭到嘘声和口哨声针对。"
+    },
+    {
+      "id": 256,
+      "startMs": 1446620,
+      "endMs": 1451260,
+      "en": "It got so bad that the ref had to stop at one point and tell the crowd to calm down.",
+      "zh": "情况糟糕到裁判一度不得不暂停比赛，让观众冷静下来。"
+    },
+    {
+      "id": 257,
+      "startMs": 1451740,
+      "endMs": 1458220,
+      "en": "He eventually got knocked out of the tournament, but crucially he's now said that he might not ever play in the Netherlands again.",
+      "zh": "他最终被淘汰出局，但关键是，他现在表示自己可能再也不会在荷兰参赛。"
+    },
+    {
+      "id": 258,
+      "startMs": 1458780,
+      "endMs": 1460860,
+      "en": "Now you might be thinking, empty threats?",
+      "zh": "你现在可能会想，这只是空头威胁？"
+    },
+    {
+      "id": 259,
+      "startMs": 1461580,
+      "endMs": 1464060,
+      "en": "Well, maybe not because he's got previous for this.",
+      "zh": "但也许并非如此，因为他以前就有过先例。"
+    },
+    {
+      "id": 260,
+      "startMs": 1464060,
+      "endMs": 1469660,
+      "en": "So after being booed in Germany earlier this year, he pulled out of some European Tour events there.",
+      "zh": "今年早些时候在德国遭到嘘声后，他退出了在那里举行的几场欧洲巡回赛。"
+    },
+    {
+      "id": 261,
+      "startMs": 1469740,
+      "endMs": 1477420,
+      "en": "So crazy as it might sound for someone at the start of their career, there are some now questioning whether this will seriously impact his future.",
+      "zh": "对一个处于职业生涯初期的人来说，这听起来或许很疯狂，但现在有人质疑，这是否会严重影响他的未来。"
+    },
+    {
+      "id": 262,
+      "startMs": 1477820,
+      "endMs": 1481980,
+      "en": "One of them is Samuel Gill, who is the editor of dartnews.com.",
+      "zh": "其中一位就是 dartnews.com 的编辑塞缪尔·吉尔。"
+    },
+    {
+      "id": 263,
+      "startMs": 1482700,
+      "endMs": 1488560,
+      "en": "I think there's a real fear that within a few years he won't, he'll just turn around and walk away from the sport really.",
+      "zh": "我认为，真正令人担忧的是，几年之内他可能会转身离开这项运动。"
+    },
+    {
+      "id": 264,
+      "startMs": 1489520,
+      "endMs": 1495760,
+      "en": "Especially nowadays, given you get like a million pounds for winning the World Championship, so he could be set up by the time he's 25.",
+      "zh": "尤其是如今，赢得世界锦标赛能拿到大约100万英镑，所以到25岁时他可能已经衣食无忧。"
+    },
+    {
+      "id": 265,
+      "startMs": 1495840,
+      "endMs": 1503520,
+      "en": "And then just decide, 'I'm not doing this anymore.' So it all sounds horrible, but why? Why are the fans booing him?",
+      "zh": "然后决定：‘我不再干了。’这一切听起来很糟糕，但为什么？观众为什么嘘他？"
+    },
+    {
+      "id": 266,
+      "startMs": 1504320,
+      "endMs": 1509440,
+      "en": "I mean, it's not very journalistic of me, Alex, but the short answer is you would have to ask the fans themselves.",
+      "zh": "我的意思是，亚历克斯，这么说不太像记者，但简短的答案是：你得去问观众自己。"
+    },
+    {
+      "id": 267,
+      "startMs": 1509440,
+      "endMs": 1515760,
+      "en": "There's no way I can look inside the head of a booing fan at the darts. I can offer some possible explanations.",
+      "zh": "我不可能看透飞镖比赛中一个嘘人的观众在想什么，但我可以给出一些可能的解释。"
+    },
+    {
+      "id": 268,
+      "startMs": 1516480,
+      "endMs": 1520560,
+      "en": "I mean, number one is that darts is known for its raucous atmosphere.",
+      "zh": "我的意思是，第一点，飞镖运动以喧闹的气氛著称。"
+    },
+    {
+      "id": 269,
+      "startMs": 1520560,
+      "endMs": 1526080,
+      "en": "And people also quite like to have a beer or two or three or four perhaps when they go to the darts.",
+      "zh": "而且人们去看飞镖比赛时，也很喜欢喝上一两杯、三四杯啤酒。"
+    },
+    {
+      "id": 270,
+      "startMs": 1526080,
+      "endMs": 1529280,
+      "en": "So booing is nothing unusual in that type of atmosphere.",
+      "zh": "所以在这种气氛下，嘘声并不罕见。"
+    },
+    {
+      "id": 271,
+      "startMs": 1529840,
+      "endMs": 1539120,
+      "en": "Luke Littler, though, clearly thinks he has been unfairly targeted, but that actually might be playing into this as well because he's made comments about the booing before.",
+      "zh": "不过，卢克·利特勒显然认为自己受到了不公平的针对，但这也可能反过来助推了此事，因为他之前曾评论过嘘声。"
+    },
+    {
+      "id": 272,
+      "startMs": 1539120,
+      "endMs": 1544000,
+      "en": "So there could be an argument that he's put a bit of a target on his back because the fans now know it gets to him.",
+      "zh": "所以可以说，他有点把靶子放在了自己背上，因为观众现在知道嘘声会影响他。"
+    },
+    {
+      "id": 273,
+      "startMs": 1544420,
+      "endMs": 1551940,
+      "en": "They're doing it even more. I can tell you from the comments we get on the BBC Sport website as well that there are people who think he's perhaps guilty",
+      "zh": "他们于是嘘得更厉害了。从 BBC Sport 网站收到的评论来看，也有人认为他或许有些"
+    },
+    {
+      "id": 274,
+      "startMs": 1551940,
+      "endMs": 1553620,
+      "en": "Of being a bit cocky at times.",
+      "zh": "比如有时有点自负。"
+    },
+    {
+      "id": 275,
+      "startMs": 1554180,
+      "endMs": 1555780,
+      "en": "He is still 19 years old though.",
+      "zh": "不过，他毕竟只有19岁。"
+    },
+    {
+      "id": 276,
+      "startMs": 1555780,
+      "endMs": 1561140,
+      "en": "It's a lot of pressure he's taken on and lots of people who know him think the problem is that he's simply too good.",
+      "zh": "他承受了很大压力，而许多了解他的人认为，问题在于他实在太优秀了。"
+    },
+    {
+      "id": 277,
+      "startMs": 1561140,
+      "endMs": 1562820,
+      "en": "He wins too much and that annoys people.",
+      "zh": "他赢得太多，这让人们恼火。"
+    },
+    {
+      "id": 278,
+      "startMs": 1563540,
+      "endMs": 1566580,
+      "en": "Never put a target on your back if you are a darts player.",
+      "zh": "如果你是飞镖选手，永远不要把目标放在自己背上。"
+    },
+    {
+      "id": 279,
+      "startMs": 1566740,
+      "endMs": 1568020,
+      "en": "Will Chalk reporting.",
+      "zh": "威尔·查克报道。"
+    },
+    {
+      "id": 280,
+      "startMs": 1570220,
+      "endMs": 1572460,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是目前的全部内容。"
+    },
+    {
+      "id": 281,
+      "startMs": 1572620,
+      "endMs": 1578300,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 282,
+      "startMs": 1578300,
+      "endMs": 1582460,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "你也可以在 X 上关注 BBC World Service。"
+    },
+    {
+      "id": 283,
+      "startMs": 1582540,
+      "endMs": 1585100,
+      "en": "Use the hashtag GlobalNewsPod.",
+      "zh": "请使用话题标签 GlobalNewsPod。"
+    },
+    {
+      "id": 284,
+      "startMs": 1585100,
+      "endMs": 1593020,
+      "en": "This edition of the Global News Podcast was mixed by Pat Sissons and produced by Stephen Jensen and Wendy Urquhart.",
+      "zh": "本期《Global News Podcast》由帕特·西松斯混音，斯蒂芬·延森和温迪·厄克特制作。"
+    },
+    {
+      "id": 285,
+      "startMs": 1593420,
+      "endMs": 1598460,
+      "en": "The editor is Karen Martin. I'm Alex Ritson. Until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁。我是亚历克斯·里特森。下次再见。"
+    }
+  ]
+}
