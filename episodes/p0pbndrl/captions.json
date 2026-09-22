@@ -1,0 +1,1516 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "21 September 2026"
+  },
+  "durationMs": 1287760,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 9800,
+      "en": "This is the Global News Podcast from the BBC World Service. I'm Pete Ross, and in the early hours of Monday, the 21st of September, these are our main stories.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。我是皮特·罗斯。9月21日星期一凌晨，今天的主要新闻如下。"
+    },
+    {
+      "id": 2,
+      "startMs": 10440,
+      "endMs": 19720,
+      "en": "Germany's Chancellor Friedrich Merz has described the results of a state election as a disaster for his party as the far-right AfD continues to make gains.",
+      "zh": "德国总理弗里德里希·默茨称一次州选举的结果对其政党是场灾难，而极右翼德国选择党 AfD 继续扩大优势。"
+    },
+    {
+      "id": 3,
+      "startMs": 19720,
+      "endMs": 28600,
+      "en": "US officials say 18 suspects in the assassination of Haitian President Jovenel Moïse five years ago have been flown from Haiti to Florida for trial.",
+      "zh": "美国官员称，五年前海地总统若弗内尔·莫伊兹遇刺案的18名嫌疑人已从海地被押送至佛罗里达州受审。"
+    },
+    {
+      "id": 4,
+      "startMs": 29800,
+      "endMs": 34440,
+      "en": "Also in this podcast, there's an outcry in Barcelona over plans to expand the airport.",
+      "zh": "本期还将关注巴塞罗那民众对机场扩建计划的强烈抗议。"
+    },
+    {
+      "id": 5,
+      "startMs": 34840,
+      "endMs": 41800,
+      "en": "The quality of the air and the quality of the water of our natural area has decreased and decreased and decreased.",
+      "zh": "我们这片自然区域的空气质量和水质一直在下降、下降、再下降。"
+    },
+    {
+      "id": 6,
+      "startMs": 42600,
+      "endMs": 49080,
+      "en": "And Donald Trump reveals more details about his controversial plans to build a triumphal arch in Washington, D.C.",
+      "zh": "唐纳德·特朗普还透露了在华盛顿特区建造凯旋门的争议计划详情。"
+    },
+    {
+      "id": 7,
+      "startMs": 52160,
+      "endMs": 58000,
+      "en": "We begin in Germany, where the embattled Chancellor Friedrich Merz is fighting for his political survival.",
+      "zh": "我们先看德国：陷入困境的总理弗里德里希·默茨正在为政治生存而战。"
+    },
+    {
+      "id": 8,
+      "startMs": 58560,
+      "endMs": 64640,
+      "en": "As we record this podcast, preliminary results from two state elections on Sunday suggest damaging",
+      "zh": "录制本播客时，周日两场州选举的初步结果显示，"
+    },
+    {
+      "id": 9,
+      "startMs": 64640,
+      "endMs": 68160,
+      "en": "defeats for his centre-right Christian Democratic Union party.",
+      "zh": "他的中右翼基民盟遭遇重大挫败。"
+    },
+    {
+      "id": 10,
+      "startMs": 68640,
+      "endMs": 72320,
+      "en": "In one of them, in the north-eastern state of Mecklenburg-Western Pomerania,",
+      "zh": "其中一场在德国东北部的梅克伦堡-前波美拉尼亚州举行，"
+    },
+    {
+      "id": 11,
+      "startMs": 72800,
+      "endMs": 76640,
+      "en": "The CDU may have dipped below the threshold needed to stay in parliament.",
+      "zh": "基民盟可能跌破进入州议会所需的门槛。"
+    },
+    {
+      "id": 12,
+      "startMs": 77360,
+      "endMs": 83360,
+      "en": "The far-right Alternative für Deutschland, or AfD, is on track to win the most votes there.",
+      "zh": "极右翼的德国选择党，即 AfD，有望在当地赢得最多选票。"
+    },
+    {
+      "id": 13,
+      "startMs": 84160,
+      "endMs": 87120,
+      "en": "Not long ago, the party was on the fringes of German politics,",
+      "zh": "不久前，该党还处于德国政治的边缘，"
+    },
+    {
+      "id": 14,
+      "startMs": 87200,
+      "endMs": 93120,
+      "en": "But its anti-immigration agenda has proved popular, and it's fast emerging as a major force.",
+      "zh": "但其反移民议程已证明颇受欢迎，而且正迅速成为一股重要力量。"
+    },
+    {
+      "id": 15,
+      "startMs": 93760,
+      "endMs": 99200,
+      "en": "Mr Merz admitted that the result was hugely damaging for his party but has vowed to stay in office.",
+      "zh": "默茨承认这一结果对其政党造成了巨大损害，但发誓将继续任职。"
+    },
+    {
+      "id": 16,
+      "startMs": 99680,
+      "endMs": 112020,
+      "en": "Today we've seen two elections with very different results. We can't sugarcoat the results in Mecklenburg-Western Pomerania. It's a disaster.",
+      "zh": "今天我们看到两场结果截然不同的选举。我们不能粉饰梅克伦堡-前波美拉尼亚州的结果，这是一场灾难。"
+    },
+    {
+      "id": 17,
+      "startMs": 112020,
+      "endMs": 118500,
+      "en": "The CDU fought but ultimately got squeezed between the SPD and the AfD.",
+      "zh": "基民盟努力争取，但最终被社民党和 AfD 两面夹击。"
+    },
+    {
+      "id": 18,
+      "startMs": 118900,
+      "endMs": 126660,
+      "en": "Leif-Erik Holm is the AfD candidate for premier in the state. We've seen that people want change.",
+      "zh": "莱夫-埃里克·霍尔姆是 AfD 在该州的州长候选人。我们看到民众希望改变。"
+    },
+    {
+      "id": 19,
+      "startMs": 127380,
+      "endMs": 131220,
+      "en": "That too is clearly reflected in the numbers. We are in the lead.",
+      "zh": "这一点也清楚地反映在数字中。我们目前领先。"
+    },
+    {
+      "id": 20,
+      "startMs": 131540,
+      "endMs": 134660,
+      "en": "Of course we want to remain in the lead by the end of the evening.",
+      "zh": "当然，我们希望在今晚结束时仍然保持领先。"
+    },
+    {
+      "id": 21,
+      "startMs": 134900,
+      "endMs": 141860,
+      "en": "We want to become the strongest force. We have the mandate to govern here in Mecklenburg-Western Pomerania.",
+      "zh": "我们希望成为最强的力量。我们拥有在梅克伦堡-前波美拉尼亚州执政的授权。"
+    },
+    {
+      "id": 22,
+      "startMs": 142180,
+      "endMs": 147460,
+      "en": "The other state election was in Berlin, where the CDU also performed poorly.",
+      "zh": "另一场州选举在柏林举行，基民盟表现同样不佳。"
+    },
+    {
+      "id": 23,
+      "startMs": 147700,
+      "endMs": 153380,
+      "en": "Our Berlin correspondent Jessica Parker spoke to us from the capital as results were coming in.",
+      "zh": "我们的柏林记者杰西卡·帕克在结果陆续公布时从首都发回报道。"
+    },
+    {
+      "id": 24,
+      "startMs": 153620,
+      "endMs": 159860,
+      "en": "The initial exit poll drops showed Die Linke, the Left party, coming out ahead in Berlin.",
+      "zh": "最初公布的出口民调显示，左翼党 Die Linke 在柏林领先。"
+    },
+    {
+      "id": 25,
+      "startMs": 159860,
+      "endMs": 165780,
+      "en": "That could potentially squeeze the second-place conservative CDU party out of a future coalition.",
+      "zh": "这可能把排名第二的保守派基民盟排除在未来的执政联盟之外。"
+    },
+    {
+      "id": 26,
+      "startMs": 165780,
+      "endMs": 171060,
+      "en": "Talks will obviously now need to happen, as is per usual in German politics.",
+      "zh": "显然，接下来需要展开谈判，这在德国政治中一向如此。"
+    },
+    {
+      "id": 27,
+      "startMs": 171720,
+      "endMs": 176200,
+      "en": "In Mecklenburg-Pomerania, as we've been hearing, no one expected the CDU to do well.",
+      "zh": "正如我们听到的，在梅克伦堡-前波美拉尼亚州，没人预期基民盟会表现良好。"
+    },
+    {
+      "id": 28,
+      "startMs": 176200,
+      "endMs": 180600,
+      "en": "It's not a strong state for them, but being around that 5% threshold is precarious.",
+      "zh": "那不是他们的强州，而在5%的门槛附近徘徊十分危险。"
+    },
+    {
+      "id": 29,
+      "startMs": 180600,
+      "endMs": 183320,
+      "en": "If you fall below it, you don't even get into the state parliament.",
+      "zh": "如果跌破这一门槛，甚至无法进入州议会。"
+    },
+    {
+      "id": 30,
+      "startMs": 183800,
+      "endMs": 187720,
+      "en": "That's pretty disastrous for the CDU and a record-low result.",
+      "zh": "这对基民盟来说相当灾难性，也是创纪录的低位结果。"
+    },
+    {
+      "id": 31,
+      "startMs": 187960,
+      "endMs": 197800,
+      "en": "And I think the one that Friedrich Merz has basically described as a disaster for them, a lot of people are saying he needs to answer for this as the leader of his party.",
+      "zh": "我认为，弗里德里希·默茨基本上称其为他们的灾难，许多人说作为党魁他需要为此负责并作出交代。"
+    },
+    {
+      "id": 32,
+      "startMs": 198120,
+      "endMs": 202680,
+      "en": "One CDU official I spoke to earlier in the week said he thought it was a tricky situation,",
+      "zh": "本周早些时候我采访的一名基民盟官员说，局面很棘手，"
+    },
+    {
+      "id": 33,
+      "startMs": 202680,
+      "endMs": 212120,
+      "en": "but maybe Friedrich Merz did need to go. And this idea of a Kanzlertausch, a chancellor swap, where someone else within the CDU could maybe take Friedrich Merz's place.",
+      "zh": "但弗里德里希·默茨或许确实需要下台。这就是所谓 Kanzlertausch，即更换总理，由基民盟内部的其他人取代他。"
+    },
+    {
+      "id": 34,
+      "startMs": 213000,
+      "endMs": 219640,
+      "en": "I put basically the same question to Burkard Dregger, a member of the CDU in Berlin, and asked him if Merz should stay.",
+      "zh": "我向柏林基民盟成员布尔卡德·德雷格提出了基本相同的问题，问他默茨是否应该留任。"
+    },
+    {
+      "id": 35,
+      "startMs": 220280,
+      "endMs": 228200,
+      "en": "Yeah, of course he should. He has a lot of work to do, and we don't have time to waste to form a new government at the federal level.",
+      "zh": "当然应该。他还有很多工作要做，我们没有时间浪费在联邦层面组建新政府上。"
+    },
+    {
+      "id": 36,
+      "startMs": 229000,
+      "endMs": 232460,
+      "en": "So let him continue his job.",
+      "zh": "所以，让他继续履职。"
+    },
+    {
+      "id": 37,
+      "startMs": 232460,
+      "endMs": 241100,
+      "en": "It's very important, and I trust in him that he will be able to do the necessary reforms which are necessary to bring Germany again into the lead in Europe.",
+      "zh": "这非常重要。我相信他能够完成必要的改革，让德国再次在欧洲处于领先地位。"
+    },
+    {
+      "id": 38,
+      "startMs": 242180,
+      "endMs": 247460,
+      "en": "Aren't you worried that he is personally so unpopular and has failed to do what he wanted to do?",
+      "zh": "你不担心他个人如此不得人心，而且没能完成他想做的事吗？"
+    },
+    {
+      "id": 39,
+      "startMs": 247540,
+      "endMs": 252340,
+      "en": "What he wanted to do was to counter the rise of Alternative für Deutschland.",
+      "zh": "他想做的是遏制德国选择党的崛起。"
+    },
+    {
+      "id": 40,
+      "startMs": 253580,
+      "endMs": 258780,
+      "en": "Yeah, I think the Germans are very impatient at the moment.",
+      "zh": "是的，我认为德国人目前非常急躁。"
+    },
+    {
+      "id": 41,
+      "startMs": 258780,
+      "endMs": 263100,
+      "en": "The chancellor has been in office for a little bit more than one year.",
+      "zh": "这位总理上任才一年多一点。"
+    },
+    {
+      "id": 42,
+      "startMs": 264060,
+      "endMs": 274460,
+      "en": "It's not realistic to expect that every issue has been solved within one year. He has got four years, and we have to give him the four years.",
+      "zh": "不现实的是，期待一年内解决所有问题。他有四年任期，我们必须给他这四年。"
+    },
+    {
+      "id": 43,
+      "startMs": 274940,
+      "endMs": 279260,
+      "en": "I am very confident that they will deliver with the necessary reforms.",
+      "zh": "我非常确信，他们会完成必要的改革。"
+    },
+    {
+      "id": 44,
+      "startMs": 279500,
+      "endMs": 285260,
+      "en": "That was the CDU politician Burkard Dregger, ending that interview with Jessica Parker in Berlin.",
+      "zh": "以上是基民盟政治人物布尔卡德·德雷格在柏林接受杰西卡·帕克采访的结尾。"
+    },
+    {
+      "id": 45,
+      "startMs": 285900,
+      "endMs": 290540,
+      "en": "Well, two weeks ago, many analysts talked about a watershed moment for Germany.",
+      "zh": "两周前，许多分析人士谈论德国的一个分水岭时刻。"
+    },
+    {
+      "id": 46,
+      "startMs": 290700,
+      "endMs": 295100,
+      "en": "That was when the AfD won a stunning victory in a state election in Saxony-Anhalt.",
+      "zh": "当时，AfD 在萨克森-安哈尔特州选举中取得了惊人胜利。"
+    },
+    {
+      "id": 47,
+      "startMs": 295660,
+      "endMs": 302700,
+      "en": "So how did that compare with its performance on Sunday in Mecklenburg-Western Pomerania? Here is Jessica Parker once more.",
+      "zh": "那么，这与它周日在梅克伦堡-前波美拉尼亚州的表现相比如何？下面再次请听杰西卡·帕克。"
+    },
+    {
+      "id": 48,
+      "startMs": 303020,
+      "endMs": 306860,
+      "en": "Pretty different, actually, in the sense that in Saxony-Anhalt they were streets ahead.",
+      "zh": "其实差别很大：在萨克森-安哈尔特州，他们遥遥领先。"
+    },
+    {
+      "id": 49,
+      "startMs": 307180,
+      "endMs": 311420,
+      "en": "They nearly scored a parliamentary majority, which is a remarkable feat in German politics.",
+      "zh": "他们几乎赢得议会多数，这在德国政治中是了不起的成就。"
+    },
+    {
+      "id": 50,
+      "startMs": 311820,
+      "endMs": 315920,
+      "en": "However, they have now chalked up what looks like their third state win.",
+      "zh": "不过，他们现在似乎已经拿下第三场州选举胜利。"
+    },
+    {
+      "id": 51,
+      "startMs": 316080,
+      "endMs": 322640,
+      "en": "They did so by taking the most votes according to the initial exit polls in Mecklenburg-Western Pomerania, so they will be delighted by that.",
+      "zh": "根据梅克伦堡-前波美拉尼亚州最初的出口民调，他们赢得了最多选票，因此肯定会对此十分满意。"
+    },
+    {
+      "id": 52,
+      "startMs": 322640,
+      "endMs": 326160,
+      "en": "There was a bit of a catch-up campaign by the centre-left SPD.",
+      "zh": "中左翼社民党发起了一些追赶行动。"
+    },
+    {
+      "id": 53,
+      "startMs": 326480,
+      "endMs": 336240,
+      "en": "They're obviously unlikely to actually take power in Mecklenburg-Western Pomerania because most other parties won't work with the AfD, which the AfD says is deeply undemocratic.",
+      "zh": "他们显然不太可能在梅克伦堡-前波美拉尼亚州真正执政，因为其他大多数政党不会与 AfD 合作，而 AfD 称这极不民主。"
+    },
+    {
+      "id": 54,
+      "startMs": 336720,
+      "endMs": 338240,
+      "en": "Jessica Parker in Berlin.",
+      "zh": "杰西卡·帕克在柏林报道。"
+    },
+    {
+      "id": 55,
+      "startMs": 339540,
+      "endMs": 344100,
+      "en": "It's more than five years since the assassination of Haiti's president, Jovenel Moïse.",
+      "zh": "海地总统若弗内尔·莫伊兹遇刺已经五年多了。"
+    },
+    {
+      "id": 56,
+      "startMs": 344580,
+      "endMs": 350740,
+      "en": "He was shot at his home in the capital, Port-au-Prince, allegedly by a group of mainly Colombian mercenaries.",
+      "zh": "据称，他在首都太子港的住所遭一群主要来自哥伦比亚的雇佣兵射杀。"
+    },
+    {
+      "id": 57,
+      "startMs": 351220,
+      "endMs": 358500,
+      "en": "Now 18 people have been extradited from Haiti to Florida and are set to stand trial for their alleged involvement in the assassination.",
+      "zh": "目前，18人已从海地引渡到佛罗里达州，将因涉嫌参与这起刺杀而受审。"
+    },
+    {
+      "id": 58,
+      "startMs": 358980,
+      "endMs": 363620,
+      "en": "Previous Haitian investigations into the killing were stalled because of the lawlessness in the country.",
+      "zh": "此前海地方面对这起杀人案的调查因国内无法无天的局面而陷入停滞。"
+    },
+    {
+      "id": 59,
+      "startMs": 364420,
+      "endMs": 369380,
+      "en": "Our Central America correspondent Will Grant told me more about President Moïse's assassination.",
+      "zh": "我们的中美洲记者威尔·格兰特向我进一步介绍了莫伊兹总统遇刺的情况。"
+    },
+    {
+      "id": 60,
+      "startMs": 369780,
+      "endMs": 375940,
+      "en": "It was a truly shocking moment when Jovenel Moïse was killed in his residence.",
+      "zh": "若弗内尔·莫伊兹在住所遇害时，场面令人极为震惊。"
+    },
+    {
+      "id": 61,
+      "startMs": 375940,
+      "endMs": 379060,
+      "en": "His wife was injured in the attack.",
+      "zh": "他的妻子在袭击中受伤。"
+    },
+    {
+      "id": 62,
+      "startMs": 379140,
+      "endMs": 385380,
+      "en": "The gunmen simply seemed to walk in, and I think that was the bit that really shocked Haitians.",
+      "zh": "枪手似乎就那样径直走了进去，我认为这真正震惊了海地人。"
+    },
+    {
+      "id": 63,
+      "startMs": 385380,
+      "endMs": 389460,
+      "en": "The apparent ease with which the president was killed.",
+      "zh": "总统似乎轻而易举就被杀害了。"
+    },
+    {
+      "id": 64,
+      "startMs": 389460,
+      "endMs": 398020,
+      "en": "Now, of course, he was, you know, an important politician and businessman in Haiti before he became president.",
+      "zh": "当然，在成为总统之前，他曾是海地一位重要的政治人物和商人。"
+    },
+    {
+      "id": 65,
+      "startMs": 399080,
+      "endMs": 408840,
+      "en": "He'd had a pretty successful business career and had basically become the presidential candidate of a party that he had founded.",
+      "zh": "他的商业生涯相当成功，后来基本成为自己创立的政党的总统候选人。"
+    },
+    {
+      "id": 66,
+      "startMs": 408840,
+      "endMs": 414760,
+      "en": "Now, as you know as well as anybody, Haitian politics is very fractured, very, very violent.",
+      "zh": "如你我都知道，海地政治高度分裂，而且极其暴力。"
+    },
+    {
+      "id": 67,
+      "startMs": 414760,
+      "endMs": 419880,
+      "en": "There is a lot of political violence on the beleaguered Caribbean nation.",
+      "zh": "这个饱受困扰的加勒比国家存在大量政治暴力。"
+    },
+    {
+      "id": 68,
+      "startMs": 420200,
+      "endMs": 425160,
+      "en": "This was really its most definitive expression in recent history.",
+      "zh": "这确实是该国近代史上最典型的表现。"
+    },
+    {
+      "id": 69,
+      "startMs": 425800,
+      "endMs": 433960,
+      "en": "There were 18 suspects arrested. What more do we know about the operation that took place to do this?",
+      "zh": "有18名嫌疑人被捕。关于实施这次行动的情况，我们还知道些什么？"
+    },
+    {
+      "id": 70,
+      "startMs": 434360,
+      "endMs": 438120,
+      "en": "Some 30 people have been indicted in the United States.",
+      "zh": "大约30人在美国被起诉。"
+    },
+    {
+      "id": 71,
+      "startMs": 438200,
+      "endMs": 446360,
+      "en": "It's believed that the murder of Jovenel Moïse was masterminded in the Dominican Republic and in Miami.",
+      "zh": "据信，谋杀若弗内尔·莫伊兹的行动是在多米尼加共和国和迈阿密策划的。"
+    },
+    {
+      "id": 72,
+      "startMs": 446440,
+      "endMs": 454040,
+      "en": "It is no coincidence that these men are on their way to Florida or have been extradited to Florida, where they'll be facing charges.",
+      "zh": "这些人前往佛罗里达州，或被引渡到佛罗里达州，并非偶然；他们将在那里面临指控。"
+    },
+    {
+      "id": 73,
+      "startMs": 454360,
+      "endMs": 458920,
+      "en": "There are 17 former Colombian soldiers among the group.",
+      "zh": "这群人中有17名前哥伦比亚士兵。"
+    },
+    {
+      "id": 74,
+      "startMs": 458920,
+      "endMs": 466780,
+      "en": "There is also one man, Joseph Badio, a former Ministry of Justice employee involved in an anti-corruption unit.",
+      "zh": "其中还有约瑟夫·巴迪奥，他曾是司法部雇员，参与过一个反腐部门的工作。"
+    },
+    {
+      "id": 75,
+      "startMs": 466780,
+      "endMs": 472140,
+      "en": "The men from Colombia say they had to sign documents they didn't understand.",
+      "zh": "来自哥伦比亚的这些人说，他们被迫签署自己并不理解的文件。"
+    },
+    {
+      "id": 76,
+      "startMs": 472380,
+      "endMs": 476700,
+      "en": "They say they believed they were mercenaries working towards a coup.",
+      "zh": "他们说，自己以为是在充当雇佣兵，参与一场政变。"
+    },
+    {
+      "id": 77,
+      "startMs": 477020,
+      "endMs": 482060,
+      "en": "But they say they had no intention of murdering the president or being part of a plot to murder him.",
+      "zh": "但他们说，自己无意谋杀总统，也没有参与谋杀总统的阴谋。"
+    },
+    {
+      "id": 78,
+      "startMs": 482460,
+      "endMs": 492380,
+      "en": "Nevertheless, US prosecutors celebrate the extradition as the next major phase in pursuing accountability for the presidential assassination.",
+      "zh": "尽管如此，美国检察官仍庆祝这次引渡，称这是追究总统遇刺责任的重要下一阶段。"
+    },
+    {
+      "id": 79,
+      "startMs": 492860,
+      "endMs": 498700,
+      "en": "Before the assassination, the country was pretty volatile. What's the situation like there now?",
+      "zh": "遇刺之前，这个国家就相当动荡。现在那里的情况如何？"
+    },
+    {
+      "id": 80,
+      "startMs": 499100,
+      "endMs": 503020,
+      "en": "Since the murder, it has gotten significantly worse.",
+      "zh": "自那起谋杀以来，局势明显恶化。"
+    },
+    {
+      "id": 81,
+      "startMs": 503100,
+      "endMs": 509260,
+      "en": "Gang violence in Haiti has now spread well beyond the capital, Port-au-Prince.",
+      "zh": "海地的帮派暴力如今已经远远蔓延出首都太子港。"
+    },
+    {
+      "id": 82,
+      "startMs": 509500,
+      "endMs": 518940,
+      "en": "It's still believed that upwards of 80% of the capital's territory is controlled by major criminal gangs.",
+      "zh": "目前仍据信，首都超过80%的地区由大型犯罪团伙控制。"
+    },
+    {
+      "id": 83,
+      "startMs": 519120,
+      "endMs": 528160,
+      "en": "There are coalitions of criminal gangs, very high numbers of casualties, and a humanitarian impact that is not something we should fail to mention.",
+      "zh": "犯罪团伙还组成了联盟，伤亡人数居高不下；人道主义影响也不应被忽略。"
+    },
+    {
+      "id": 84,
+      "startMs": 528160,
+      "endMs": 533680,
+      "en": "It's believed that one and a half million people are internally displaced within Haiti.",
+      "zh": "据信，海地境内有150万人流离失所。"
+    },
+    {
+      "id": 85,
+      "startMs": 533920,
+      "endMs": 541920,
+      "en": "The need in terms of acute hunger in the nation is almost six million people, many, many of whom are children.",
+      "zh": "在这个国家，迫切面临饥饿问题的人近600万，其中很多很多是儿童。"
+    },
+    {
+      "id": 86,
+      "startMs": 542160,
+      "endMs": 548560,
+      "en": "Will Grant. The sister of Pakistan's imprisoned former prime minister Imran Khan has been arrested.",
+      "zh": "威尔·格兰特报道。巴基斯坦被监禁的前总理伊姆兰·汗的姐姐已被捕。"
+    },
+    {
+      "id": 87,
+      "startMs": 548560,
+      "endMs": 551760,
+      "en": "The arrest came ahead of planned protests about his continued detention.",
+      "zh": "这起逮捕发生在计划举行抗议、要求结束其持续羁押之前。"
+    },
+    {
+      "id": 88,
+      "startMs": 552320,
+      "endMs": 559520,
+      "en": "Mr Khan's political party, PTI, said the detention of Aleema Khanum was illegal and called for her immediate release.",
+      "zh": "伊姆兰·汗所属政党正义运动党称，阿莉玛·汗姆遭拘留是非法的，并要求立即释放她。"
+    },
+    {
+      "id": 89,
+      "startMs": 559680,
+      "endMs": 562880,
+      "en": "Mr Khan was jailed three years ago on corruption charges.",
+      "zh": "伊姆兰·汗三年前因腐败指控入狱。"
+    },
+    {
+      "id": 90,
+      "startMs": 563280,
+      "endMs": 565920,
+      "en": "His supporters say the charges were politically motivated.",
+      "zh": "他的支持者称，这些指控出于政治动机。"
+    },
+    {
+      "id": 91,
+      "startMs": 566320,
+      "endMs": 572080,
+      "en": "Here's our Pakistan correspondent Caroline Davies. A police official in Lahore confirmed the arrest to the BBC.",
+      "zh": "以下是我们的巴基斯坦记者卡罗琳·戴维斯的报道。拉合尔一名警官向BBC证实了这起逮捕。"
+    },
+    {
+      "id": 92,
+      "startMs": 572560,
+      "endMs": 577840,
+      "en": "The arrest order was made by Lahore's deputy commissioner under the Maintenance of Public Order Ordinance.",
+      "zh": "拉合尔副专员依据《维护公共秩序条例》签发了逮捕令。"
+    },
+    {
+      "id": 93,
+      "startMs": 578320,
+      "endMs": 586340,
+      "en": "It alleges that Ms Khanum is mobilising Imran Khan's supporters on social media and at public meetings to create a law and order situation.",
+      "zh": "命令指称，汗姆在社交媒体和公众集会上动员伊姆兰·汗的支持者，以制造治安问题。"
+    },
+    {
+      "id": 94,
+      "startMs": 586820,
+      "endMs": 589380,
+      "en": "It states that she will be detained for 30 days.",
+      "zh": "命令称，她将被拘留30天。"
+    },
+    {
+      "id": 95,
+      "startMs": 590020,
+      "endMs": 592660,
+      "en": "Aleema Khanum has been a vocal critic of her brother's detention.",
+      "zh": "阿莉玛·汗姆一直公开批评其兄长遭到拘留。"
+    },
+    {
+      "id": 96,
+      "startMs": 592980,
+      "endMs": 596340,
+      "en": "She has regularly spoken to supporters and the media over the last three years.",
+      "zh": "过去三年里，她经常对支持者和媒体发声。"
+    },
+    {
+      "id": 97,
+      "startMs": 596820,
+      "endMs": 600660,
+      "en": "Many are connecting her arrest to protests organised across the country.",
+      "zh": "许多人把她被捕与全国各地组织的抗议活动联系起来。"
+    },
+    {
+      "id": 98,
+      "startMs": 600660,
+      "endMs": 604260,
+      "en": "The protests are due to march to Pakistan's capital, Islamabad, next Sunday.",
+      "zh": "抗议者计划下周日向巴基斯坦首都伊斯兰堡进发。"
+    },
+    {
+      "id": 99,
+      "startMs": 604740,
+      "endMs": 610180,
+      "en": "In the city, streets are already lined with shipping containers ready to secure the city's government buildings.",
+      "zh": "在这座城市，街道上已经摆满集装箱，准备封锁政府大楼。"
+    },
+    {
+      "id": 100,
+      "startMs": 610740,
+      "endMs": 615860,
+      "en": "Local media reported Pakistan's interior minister saying that the protests harm the country.",
+      "zh": "当地媒体报道，巴基斯坦内政部长称，这些抗议会损害国家。"
+    },
+    {
+      "id": 101,
+      "startMs": 616180,
+      "endMs": 620260,
+      "en": "The government will do everything they can to stop them. Caroline Davies.",
+      "zh": "政府将竭尽所能阻止抗议。卡罗琳·戴维斯报道。"
+    },
+    {
+      "id": 102,
+      "startMs": 621100,
+      "endMs": 627740,
+      "en": "It was invented by the ancient Romans to celebrate military victories. Many cities around the world have one, and perhaps",
+      "zh": "它由古罗马人发明，用来庆祝军事胜利。世界各地许多城市都有一座，也许"
+    },
+    {
+      "id": 103,
+      "startMs": 627740,
+      "endMs": 631260,
+      "en": "the most famous example is the Arc de Triomphe in Paris.",
+      "zh": "最著名的例子就是巴黎的凯旋门。"
+    },
+    {
+      "id": 104,
+      "startMs": 631660,
+      "endMs": 637500,
+      "en": "And if Donald Trump gets his way, Washington, D.C. will be the next city to have a triumphal arch.",
+      "zh": "如果唐纳德·特朗普如愿，华盛顿特区将成为下一个拥有凯旋门的城市。"
+    },
+    {
+      "id": 105,
+      "startMs": 638060,
+      "endMs": 643740,
+      "en": "However, the president's plans to build the 76-metre-high structure are facing growing criticism.",
+      "zh": "然而，总统建造这座76米高建筑的计划正面临越来越多的批评。"
+    },
+    {
+      "id": 106,
+      "startMs": 644380,
+      "endMs": 649260,
+      "en": "This was how White House press secretary Caroline Levitt announced the plans in April.",
+      "zh": "白宫新闻秘书卡罗琳·莱维特在4月这样宣布了这项计划。"
+    },
+    {
+      "id": 107,
+      "startMs": 649500,
+      "endMs": 654860,
+      "en": "We celebrate America's 250th birthday in honour of this historic occasion.",
+      "zh": "我们庆祝美国建国250周年，以纪念这一历史时刻。"
+    },
+    {
+      "id": 108,
+      "startMs": 654940,
+      "endMs": 660380,
+      "en": "President Trump and the Department of the Interior will submit plans for the United States Triumphal Arch.",
+      "zh": "特朗普总统和内政部将提交美国凯旋门的规划。"
+    },
+    {
+      "id": 109,
+      "startMs": 660780,
+      "endMs": 666220,
+      "en": "It will be an architectural masterpiece to celebrate our history right here in Washington, D.C.",
+      "zh": "这将是一件建筑杰作，在华盛顿特区庆祝我们的历史。"
+    },
+    {
+      "id": 110,
+      "startMs": 666460,
+      "endMs": 673500,
+      "en": "Now President Trump has said the plans have been updated at the request of the US military for national security purposes.",
+      "zh": "特朗普总统说，应美军要求，计划已为国家安全目的作出更新。"
+    },
+    {
+      "id": 111,
+      "startMs": 673980,
+      "endMs": 681020,
+      "en": "In a social media post, he speaks about plans for a top-grade military complex and arch which will have the ability.",
+      "zh": "他在社交媒体上称，计划建造一座高规格军事综合设施和凯旋门，并具备相应能力。"
+    },
+    {
+      "id": 112,
+      "startMs": 681040,
+      "endMs": 685840,
+      "en": "To use large numbers of drones and hold large quantities of sniper ammunition.",
+      "zh": "它可以使用大量无人机，并储存大批狙击弹药。"
+    },
+    {
+      "id": 113,
+      "startMs": 686400,
+      "endMs": 691360,
+      "en": "James Menendez has been speaking to the historian Kevin Levin. What's his reaction?",
+      "zh": "詹姆斯·梅嫩德斯采访了历史学家凯文·莱文。他对此有何反应？"
+    },
+    {
+      "id": 114,
+      "startMs": 691680,
+      "endMs": 700080,
+      "en": "This is obviously new news, just announced this morning. I think part of this is an attempt to anticipate the challenges in the courts.",
+      "zh": "这显然是今天早上刚公布的新消息。我认为，这部分是在预判法院可能提出的挑战。"
+    },
+    {
+      "id": 115,
+      "startMs": 700080,
+      "endMs": 705760,
+      "en": "And so when you look at the construction of the ballroom on the White House grounds, you know he has used the argument that",
+      "zh": "因此，看看白宫园区舞厅的建设，你知道他曾提出这样一种论点："
+    },
+    {
+      "id": 116,
+      "startMs": 705760,
+      "endMs": 710240,
+      "en": "this is a matter of national security as a way to buttress his claim in the courts, and",
+      "zh": "这是国家安全问题，以此在法庭上支持自己的主张；而且"
+    },
+    {
+      "id": 117,
+      "startMs": 710320,
+      "endMs": 718400,
+      "en": "I suspect that this is along the same lines: he's anticipating additional challenges to the construction of the arch.",
+      "zh": "我猜这次也是同样的思路：他在预判凯旋门建设还会遭遇的其他法律挑战。"
+    },
+    {
+      "id": 118,
+      "startMs": 718560,
+      "endMs": 724960,
+      "en": "And this will allow the process to go through much more quickly. Do you think it will get final approval?",
+      "zh": "这样会让流程快得多。你认为它最终能获批吗？"
+    },
+    {
+      "id": 119,
+      "startMs": 724960,
+      "endMs": 732000,
+      "en": "You know, it's difficult to anticipate and make predictions at this point. I tend to think that it will.",
+      "zh": "现在很难预判或作出预测，但我倾向于认为会获批。"
+    },
+    {
+      "id": 120,
+      "startMs": 732160,
+      "endMs": 737840,
+      "en": "Whether it's completed before his second term is up, I think that's an interesting question.",
+      "zh": "能否在他的第二个任期结束前完工，我认为这是个有意思的问题。"
+    },
+    {
+      "id": 121,
+      "startMs": 737840,
+      "endMs": 745460,
+      "en": "But certainly he is pushing as quickly as he can, and he understands that the country's public opinion is against this.",
+      "zh": "但他确实在尽可能快地推进，也明白美国公众舆论反对这件事。"
+    },
+    {
+      "id": 122,
+      "startMs": 745460,
+      "endMs": 749060,
+      "en": "And I think he's just trying to steamroll it through. Kevin Levin.",
+      "zh": "我认为他只是想强行推动它通过。凯文·莱文。"
+    },
+    {
+      "id": 123,
+      "startMs": 749060,
+      "endMs": 750900,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 124,
+      "startMs": 751540,
+      "endMs": 756820,
+      "en": "The brother of the late Princess Diana, Charles Spencer, has told the BBC that the media's treatment of her son.",
+      "zh": "已故戴安娜王妃的兄长查尔斯·斯宾塞告诉BBC，媒体对她儿子的对待……"
+    },
+    {
+      "id": 125,
+      "startMs": 756820,
+      "endMs": 764420,
+      "en": "Prince Harry and his wife Meghan has echoes of what happened to his sister before she died in a car crash nearly 30 years ago.",
+      "zh": "他认为，媒体对哈里王子及其妻子梅根的对待，像极了近30年前姐姐车祸去世前所遭遇的一切。"
+    },
+    {
+      "id": 126,
+      "startMs": 764740,
+      "endMs": 769780,
+      "en": "If you look at an article in a tabloid about Diana or Harry and Meghan,",
+      "zh": "如果你看小报上关于戴安娜或哈里与梅根的文章，"
+    },
+    {
+      "id": 127,
+      "startMs": 770560,
+      "endMs": 776960,
+      "en": "they can be really, really unpleasant, and I think it would be really beholden on people to learn from Diana's example.",
+      "zh": "它们可能极其恶毒；我认为，人们确实应该从戴安娜的经历中吸取教训。"
+    },
+    {
+      "id": 128,
+      "startMs": 777360,
+      "endMs": 783760,
+      "en": "I'm not here to speak for Harry and Meghan, but for anyone who's being destroyed in this way daily.",
+      "zh": "我不是来替哈里和梅根说话的，但任何人每天这样被摧毁，都会受到影响。"
+    },
+    {
+      "id": 129,
+      "startMs": 783760,
+      "endMs": 786880,
+      "en": "It must be such a cancerous influence in their life.",
+      "zh": "这一定会对他们的生活造成像癌症般有害的影响。"
+    },
+    {
+      "id": 130,
+      "startMs": 787600,
+      "endMs": 791760,
+      "en": "I saw it with Diana. I saw Diana. I mentioned it in the eulogy: her tears of despair.",
+      "zh": "我在戴安娜身上看到了这一点。我在悼词中提到过她绝望的泪水。"
+    },
+    {
+      "id": 131,
+      "startMs": 792700,
+      "endMs": 796620,
+      "en": "One of the problems with Diana was she was very, very sensitive to criticism.",
+      "zh": "戴安娜的问题之一是，她对批评非常敏感。"
+    },
+    {
+      "id": 132,
+      "startMs": 797340,
+      "endMs": 801660,
+      "en": "And of course, I'm sure most of your viewers now think, oh, she had this splendid life.",
+      "zh": "当然，我相信现在大多数观众会想，她曾拥有如此美好的人生。"
+    },
+    {
+      "id": 133,
+      "startMs": 801660,
+      "endMs": 805740,
+      "en": "And it was all amazing, and she was so privileged and so perfect in so many ways.",
+      "zh": "一切都很美好，而她在许多方面都如此幸运、如此完美。"
+    },
+    {
+      "id": 134,
+      "startMs": 806680,
+      "endMs": 813400,
+      "en": "But she was really brought low by all that criticism, and yeah, I suppose it's a pity when I see echoes of that now.",
+      "zh": "但所有那些批评确实让她一蹶不振；如今看到类似情形，我想这很令人遗憾。"
+    },
+    {
+      "id": 135,
+      "startMs": 813800,
+      "endMs": 817800,
+      "en": "Earl Spencer has stood by his claims after Princess Diana's death.",
+      "zh": "戴安娜王妃去世后，斯宾塞伯爵仍坚持自己的说法。"
+    },
+    {
+      "id": 136,
+      "startMs": 818280,
+      "endMs": 826520,
+      "en": "Her ex-husband King Charles, then a prince, sounded giddily elated like a lottery winner and said she would be forgotten soon enough.",
+      "zh": "她的前夫查尔斯国王当时还是王子；据称他像彩票中奖者般兴高采烈，并说她很快就会被遗忘。"
+    },
+    {
+      "id": 137,
+      "startMs": 827160,
+      "endMs": 834120,
+      "en": "His book about his sister Diana is due to be published in the coming days and has caused a huge stir here in the UK.",
+      "zh": "他那本关于妹妹戴安娜的书将在未来几天出版，已在英国引起巨大轰动。"
+    },
+    {
+      "id": 138,
+      "startMs": 834760,
+      "endMs": 841080,
+      "en": "Buckingham Palace has strongly denied his claims about King Charles. Our royal correspondent Daniela Relph has more.",
+      "zh": "白金汉宫强烈否认他关于查尔斯国王的说法。我们的王室记者丹妮拉·雷尔夫带来更多报道。"
+    },
+    {
+      "id": 139,
+      "startMs": 841560,
+      "endMs": 847720,
+      "en": "The BBC interview is a pretty complete picture of the story that Earl Spencer wants to tell.",
+      "zh": "这次BBC采访相当完整地呈现了斯宾塞伯爵想讲述的故事。"
+    },
+    {
+      "id": 140,
+      "startMs": 848040,
+      "endMs": 851560,
+      "en": "In the interview, he's clearer than in the book extracts we've seen.",
+      "zh": "相比我们看到的书摘，他在采访中表达得更清楚。"
+    },
+    {
+      "id": 141,
+      "startMs": 851560,
+      "endMs": 856680,
+      "en": "He recognizes that this is his interpretation of events.",
+      "zh": "他承认，这只是他对事件的解读。"
+    },
+    {
+      "id": 142,
+      "startMs": 857000,
+      "endMs": 860600,
+      "en": "He's also described this as his swan song, that he's not going to say anything more",
+      "zh": "他还把这称作自己的告别之作，说自己不会再多说什么，"
+    },
+    {
+      "id": 143,
+      "startMs": 860680,
+      "endMs": 864200,
+      "en": "on the matter publicly, but that doesn't mean he's going to go quietly.",
+      "zh": "至少不会再公开谈论此事；但这不意味着他会悄然离场。"
+    },
+    {
+      "id": 144,
+      "startMs": 864200,
+      "endMs": 870700,
+      "en": "This week, the book is published on Tuesday. That's likely to prompt more interviews and comment.",
+      "zh": "本周，这本书将在周二出版，可能会引发更多采访和评论。"
+    },
+    {
+      "id": 145,
+      "startMs": 870700,
+      "endMs": 874860,
+      "en": "We know that an interview that he's done with a major American broadcaster is going to be aired.",
+      "zh": "我们知道，他接受一家美国大型广播机构的采访即将播出。"
+    },
+    {
+      "id": 146,
+      "startMs": 875180,
+      "endMs": 878060,
+      "en": "Now that won't be music to the ears of Buckingham Palace.",
+      "zh": "这对​​白金汉宫来说当然不会是悦耳的消息。"
+    },
+    {
+      "id": 147,
+      "startMs": 878060,
+      "endMs": 882780,
+      "en": "After last week's statement, they've made clear they won't say anything further.",
+      "zh": "在上周的声明后，他们已明确表示不会再作进一步回应。"
+    },
+    {
+      "id": 148,
+      "startMs": 883180,
+      "endMs": 887660,
+      "en": "The same is true for Princes William and Harry; their teams have made no comment.",
+      "zh": "威廉王子和哈里王子的情况也一样，他们的团队没有发表评论。"
+    },
+    {
+      "id": 149,
+      "startMs": 887740,
+      "endMs": 891660,
+      "en": "But it has been a really unsettling time for Buckingham Palace.",
+      "zh": "但这对​​白金汉宫来说确实是一段令人不安的时期。"
+    },
+    {
+      "id": 150,
+      "startMs": 891980,
+      "endMs": 900540,
+      "en": "They will really want to shift the focus now to a series of royal engagements scattered across the country this week. Daniela Relph.",
+      "zh": "他们现在很希望把焦点转向本周在全国各地陆续举行的一系列王室公务活动。丹妮拉·雷尔夫报道。"
+    },
+    {
+      "id": 151,
+      "startMs": 900540,
+      "endMs": 903900,
+      "en": "Overtourism is a growing global issue. It's a big concern",
+      "zh": "过度旅游是日益严重的全球问题，也是一个重大担忧，"
+    },
+    {
+      "id": 152,
+      "startMs": 903900,
+      "endMs": 910540,
+      "en": "in the Spanish city of Barcelona, where according to some figures, annual visitors outnumber locals by ten to one.",
+      "zh": "在西班牙城市巴塞罗那，据一些统计，年游客数与当地居民数之比达到十比一。"
+    },
+    {
+      "id": 153,
+      "startMs": 911340,
+      "endMs": 916060,
+      "en": "And that's one of the reasons why thousands took to the streets of the city on Sunday to protest",
+      "zh": "这也是数千人周日走上巴塞罗那街头抗议的原因之一，"
+    },
+    {
+      "id": 154,
+      "startMs": 916060,
+      "endMs": 918460,
+      "en": "against plans to expand the city's airport.",
+      "zh": "他们反对扩建该市机场的计划。"
+    },
+    {
+      "id": 155,
+      "startMs": 919180,
+      "endMs": 923820,
+      "en": "They're worried about a rise in visitor numbers and the environmental impact of more flights.",
+      "zh": "他们担心游客数量增加，以及更多航班带来的环境影响。"
+    },
+    {
+      "id": 156,
+      "startMs": 924380,
+      "endMs": 928780,
+      "en": "Alba Bou Jordà is the mayor of a municipality which borders the airport.",
+      "zh": "阿尔芭·博·若尔达是一个与机场接壤的市镇的市长。"
+    },
+    {
+      "id": 157,
+      "startMs": 929020,
+      "endMs": 932860,
+      "en": "She explained to James Menendez why she's opposed to the expansion plans.",
+      "zh": "她向詹姆斯·梅嫩德斯解释了自己反对扩建计划的原因。"
+    },
+    {
+      "id": 158,
+      "startMs": 933180,
+      "endMs": 941420,
+      "en": "We have the second biggest airport in Spain, and it is located in the middle of a natural area.",
+      "zh": "我们拥有西班牙第二大机场，而它位于一片自然区域的中央。"
+    },
+    {
+      "id": 159,
+      "startMs": 941740,
+      "endMs": 951520,
+      "en": "And in 1999, this airport, the airport of Barcelona-El Prat, began the latest enlargement and the construction of the third runway in the airport.",
+      "zh": "1999年，这座巴塞罗那—埃尔普拉特机场开始最近一次扩建，并在机场修建第三条跑道。"
+    },
+    {
+      "id": 160,
+      "startMs": 951680,
+      "endMs": 955600,
+      "en": "This third runway is located in the middle of a natural area",
+      "zh": "这第三条跑道位于一片自然区域的中央，"
+    },
+    {
+      "id": 161,
+      "startMs": 955760,
+      "endMs": 962560,
+      "en": "and since then we have not been compensated as the government said we were supposed to be.",
+      "zh": "自那以后，我们一直没有得到政府所说的应有补偿。"
+    },
+    {
+      "id": 162,
+      "startMs": 962960,
+      "endMs": 970640,
+      "en": "And the quality of the air and the quality of the water of our natural area has decreased and decreased and decreased.",
+      "zh": "我们自然区域的空气质量和水质一直下降、下降、再下降。"
+    },
+    {
+      "id": 163,
+      "startMs": 971680,
+      "endMs": 980240,
+      "en": "So we don't understand our Catalan and Spanish governments supporting another expansion.",
+      "zh": "所以我们不明白，加泰罗尼亚和西班牙政府为何支持再次扩建。"
+    },
+    {
+      "id": 164,
+      "startMs": 980480,
+      "endMs": 984560,
+      "en": "They have not compensated our city and natural area since 1999.",
+      "zh": "自1999年以来，他们一直没有补偿我们的城市和自然区域。"
+    },
+    {
+      "id": 165,
+      "startMs": 984560,
+      "endMs": 991440,
+      "en": "So we are opposing another enlargement of this runway",
+      "zh": "所以我们反对再次扩建这条跑道，"
+    },
+    {
+      "id": 166,
+      "startMs": 991760,
+      "endMs": 996240,
+      "en": "because it would definitely kill the natural area of El Delta.",
+      "zh": "因为那肯定会摧毁埃尔三角洲的自然区域。"
+    },
+    {
+      "id": 167,
+      "startMs": 996240,
+      "endMs": 1005840,
+      "en": "The government says that this expansion of the airport will not mean, for example, more flights in the area.",
+      "zh": "政府称，机场扩建不一定意味着该地区航班增加。"
+    },
+    {
+      "id": 168,
+      "startMs": 1005840,
+      "endMs": 1007760,
+      "en": "Well, I mean, what do you say to that?",
+      "zh": "那么，你对此怎么说？"
+    },
+    {
+      "id": 169,
+      "startMs": 1008600,
+      "endMs": 1015000,
+      "en": "Well, the expansion of the airport and the construction of the third runway means more flights every year.",
+      "zh": "机场扩建和第三条跑道的建设，意味着每年会有更多航班。"
+    },
+    {
+      "id": 170,
+      "startMs": 1015320,
+      "endMs": 1026200,
+      "en": "So if we have 7,000 flights increasing, for me it's obvious the air quality and the noise of our region will increase.",
+      "zh": "所以如果航班增加7000架次，在我看来，我们地区的空气污染和噪声显然都会加剧。"
+    },
+    {
+      "id": 171,
+      "startMs": 1026440,
+      "endMs": 1029480,
+      "en": "So that's exactly what we don't want.",
+      "zh": "这正是我们不希望看到的。"
+    },
+    {
+      "id": 172,
+      "startMs": 1029800,
+      "endMs": 1037080,
+      "en": "And after all, Barcelona and the metropolitan area of Barcelona doesn't need it for our economy.",
+      "zh": "毕竟，巴塞罗那及其大都会区的经济并不需要这些。"
+    },
+    {
+      "id": 173,
+      "startMs": 1037320,
+      "endMs": 1042280,
+      "en": "We don't need more flights, or more problems with housing,",
+      "zh": "我们不需要更多航班，也不需要更多住房问题，"
+    },
+    {
+      "id": 174,
+      "startMs": 1042520,
+      "endMs": 1051560,
+      "en": "because more flights mean exactly more tourists, more tourism, and more tourism means more problems with access to housing for Catalans.",
+      "zh": "因为更多航班恰恰意味着更多游客、更多旅游，而更多旅游意味着加泰罗尼亚人获得住房会面临更多问题。"
+    },
+    {
+      "id": 175,
+      "startMs": 1051800,
+      "endMs": 1054040,
+      "en": "And that's the opposite of what we want.",
+      "zh": "而这与我们的愿望恰恰相反。"
+    },
+    {
+      "id": 176,
+      "startMs": 1054440,
+      "endMs": 1057560,
+      "en": "Why do more tourists—I mean, why is that not good for the economy?",
+      "zh": "游客更多——我的意思是，为什么这对经济不好？"
+    },
+    {
+      "id": 177,
+      "startMs": 1058200,
+      "endMs": 1062520,
+      "en": "Does that not bring in more money, and mean more jobs for the people who live in your area?",
+      "zh": "这难道不会带来更多钱，也为你们当地居民带来更多工作吗？"
+    },
+    {
+      "id": 178,
+      "startMs": 1063240,
+      "endMs": 1068600,
+      "en": "Well, it's not the kind of jobs, and it's not the kind of economy we are supporting, because...",
+      "zh": "这不是我们所支持的那种工作，也不是我们所支持的那种经济，因为……"
+    },
+    {
+      "id": 179,
+      "startMs": 1068700,
+      "endMs": 1075100,
+      "en": "When the government built the third runway, they said, \"Oh, that will mean more economy, more jobs.\"",
+      "zh": "政府修建第三条跑道时说过：“这会带来更多经济活动和更多工作。”"
+    },
+    {
+      "id": 180,
+      "startMs": 1075420,
+      "endMs": 1079020,
+      "en": "But the jobs that they created were not well paid.",
+      "zh": "但他们创造的工作薪酬并不高。"
+    },
+    {
+      "id": 181,
+      "startMs": 1079340,
+      "endMs": 1084460,
+      "en": "And of course, when tourists come to Barcelona, this means more services for the tourists.",
+      "zh": "当然，游客来到巴塞罗那，就意味着要为游客提供更多服务。"
+    },
+    {
+      "id": 182,
+      "startMs": 1084780,
+      "endMs": 1089820,
+      "en": "But we want, for Catalonia and also for Spain, another kind of economy,",
+      "zh": "但我们希望加泰罗尼亚乃至西班牙拥有另一种经济，"
+    },
+    {
+      "id": 183,
+      "startMs": 1090060,
+      "endMs": 1095020,
+      "en": "not just for waiters and not just for people who work in the hotels.",
+      "zh": "而不只是服务员和酒店工作人员赖以谋生的经济。"
+    },
+    {
+      "id": 184,
+      "startMs": 1095340,
+      "endMs": 1101420,
+      "en": "We want a more modern economy, and that's what we are asking for. Alba Bou Jordà.",
+      "zh": "我们希望拥有更现代的经济，这正是我们的诉求。以上是阿尔芭·博·若尔达。"
+    },
+    {
+      "id": 185,
+      "startMs": 1101420,
+      "endMs": 1109580,
+      "en": "It's not often that tram drivers get to bask in the limelight, but one competition is allowing them to do just that.",
+      "zh": "有轨电车司机很少有机会成为聚光灯下的主角，但一项比赛让他们做到了。"
+    },
+    {
+      "id": 186,
+      "startMs": 1110220,
+      "endMs": 1115020,
+      "en": "The European Tram Driver Championship has been taking place in the Polish capital, Warsaw.",
+      "zh": "欧洲有轨电车驾驶大赛正在波兰首都华沙举行。"
+    },
+    {
+      "id": 187,
+      "startMs": 1115580,
+      "endMs": 1122940,
+      "en": "Twenty-six teams competed across various challenges, but it was the team from the Czech capital, Prague, that was the runaway winner.",
+      "zh": "26支队伍参加了各种挑战，但来自捷克首都布拉格的队伍遥遥领先，夺得冠军。"
+    },
+    {
+      "id": 188,
+      "startMs": 1123340,
+      "endMs": 1124700,
+      "en": "Helena Burke reports.",
+      "zh": "海伦娜·伯克报道。"
+    },
+    {
+      "id": 189,
+      "startMs": 1125100,
+      "endMs": 1131840,
+      "en": "You may have tried ten-pin bowling before, but what about knocking over giant bowling pins with a tram?",
+      "zh": "你或许玩过十柱保龄球，但用有轨电车撞倒巨大的保龄球瓶呢？"
+    },
+    {
+      "id": 190,
+      "startMs": 1138240,
+      "endMs": 1144240,
+      "en": "That's one of many challenges that participants have to complete at the European Tram Driver Championship.",
+      "zh": "这是欧洲有轨电车驾驶大赛中参赛者必须完成的众多挑战之一。"
+    },
+    {
+      "id": 191,
+      "startMs": 1144880,
+      "endMs": 1152240,
+      "en": "To determine the smoothest driver, bowls of water are attached to the front of the tram, with points deducted for every drop spilled.",
+      "zh": "为了评出驾驶最平稳的人，电车前方会放上水碗，每洒出一滴水就要扣分。"
+    },
+    {
+      "id": 192,
+      "startMs": 1152800,
+      "endMs": 1155200,
+      "en": "Next comes a measure of driver dexterity,",
+      "zh": "接下来考验的是司机的操作灵活性，"
+    },
+    {
+      "id": 193,
+      "startMs": 1155440,
+      "endMs": 1159920,
+      "en": "that sees competitors throwing balls into a basketball hoop while operating their vehicle.",
+      "zh": "参赛者要在驾驶车辆的同时，把球投进篮球框。"
+    },
+    {
+      "id": 194,
+      "startMs": 1166380,
+      "endMs": 1175740,
+      "en": "The European Tram Driver Championship has been running annually since 2012, and every year the event is growing in popularity.",
+      "zh": "欧洲有轨电车驾驶大赛自2012年起每年举行，而且每年的受欢迎程度都在上升。"
+    },
+    {
+      "id": 195,
+      "startMs": 1175980,
+      "endMs": 1185100,
+      "en": "We're pretty big tram fans, and so far we've travelled from Leipzig to every European and World Championship.",
+      "zh": "我们是有轨电车的忠实爱好者，迄今每届欧洲和世界锦标赛，我们都从莱比锡赶来观看。"
+    },
+    {
+      "id": 196,
+      "startMs": 1185660,
+      "endMs": 1188460,
+      "en": "There is always a great atmosphere, and it's a lot of fun.",
+      "zh": "现场总是气氛热烈，也非常有趣。"
+    },
+    {
+      "id": 197,
+      "startMs": 1189080,
+      "endMs": 1195000,
+      "en": "This year's competition in Warsaw saw 25 cities across Europe participate.",
+      "zh": "今年在华沙举行的比赛有来自欧洲各地的25座城市参加。"
+    },
+    {
+      "id": 198,
+      "startMs": 1195320,
+      "endMs": 1200600,
+      "en": "Plus the Australian city of Melbourne, which was allowed to enter because it has the largest tram network in the world.",
+      "zh": "此外还有澳大利亚城市墨尔本，因为它拥有世界最大的有轨电车网络，所以获准参赛。"
+    },
+    {
+      "id": 199,
+      "startMs": 1201160,
+      "endMs": 1203240,
+      "en": "But bigger isn't always better.",
+      "zh": "但规模更大并不总是更好。"
+    },
+    {
+      "id": 200,
+      "startMs": 1203560,
+      "endMs": 1207560,
+      "en": "Melbourne came second-last, finishing ahead of only London.",
+      "zh": "墨尔本排名倒数第二，只领先于伦敦。"
+    },
+    {
+      "id": 201,
+      "startMs": 1207960,
+      "endMs": 1212760,
+      "en": "The top performer across the eight challenges was the team from the Czech capital, Prague.",
+      "zh": "在八项挑战中表现最出色的是来自捷克首都布拉格的队伍。"
+    },
+    {
+      "id": 202,
+      "startMs": 1213080,
+      "endMs": 1217720,
+      "en": "Thanks to the skilled maneuvering of drivers Vendula Temelová and Zdeněk Klečák.",
+      "zh": "这要归功于车手文杜拉·特梅洛娃和兹德涅克·克莱恰克的娴熟操控。"
+    },
+    {
+      "id": 203,
+      "startMs": 1217720,
+      "endMs": 1225560,
+      "en": "We didn't expect it. Until the end, we didn't think we could win.",
+      "zh": "我们没想到会这样。直到最后，我们都没认为自己能赢。"
+    },
+    {
+      "id": 204,
+      "startMs": 1225960,
+      "endMs": 1229480,
+      "en": "We're a new team. This is our first time in a competition like this.",
+      "zh": "我们是一支新队伍。这是我们第一次参加这样的比赛。"
+    },
+    {
+      "id": 205,
+      "startMs": 1229560,
+      "endMs": 1233640,
+      "en": "We wanted to finish at least in the top ten, so I guess we did well.",
+      "zh": "我们希望至少进入前十名，所以我想我们的表现不错。"
+    },
+    {
+      "id": 206,
+      "startMs": 1233640,
+      "endMs": 1241080,
+      "en": "I made a mistake in the bowling event and thought, \"That's bad,\" but it wasn't, and it all worked out.",
+      "zh": "我在保龄球项目中犯了个错误，以为“糟了”，但其实没关系，最后一切顺利。"
+    },
+    {
+      "id": 207,
+      "startMs": 1241560,
+      "endMs": 1248200,
+      "en": "Tram lines were a cornerstone of public transport in cities across Europe and around the globe throughout the 19th century.",
+      "zh": "整个19世纪，有轨电车线路一直是欧洲及世界各地城市公共交通的基石。"
+    },
+    {
+      "id": 208,
+      "startMs": 1248600,
+      "endMs": 1253820,
+      "en": "After the Second World War, many networks were ripped up in favour of supposedly more modern alternatives.",
+      "zh": "第二次世界大战后，许多电车网络被拆除，取而代之的是所谓更现代的交通方式。"
+    },
+    {
+      "id": 209,
+      "startMs": 1254300,
+      "endMs": 1261580,
+      "en": "But as cities look for cleaner and more sustainable ways to move people, the electric-powered tram is making a major comeback.",
+      "zh": "但随着城市寻找更清洁、更可持续的客运方式，电力驱动的有轨电车正在大举复兴。"
+    },
+    {
+      "id": 210,
+      "startMs": 1263820,
+      "endMs": 1269660,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是我们目前的全部内容。如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 211,
+      "startMs": 1269740,
+      "endMs": 1273900,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "你也可以在X平台关注 BBC World Service。"
+    },
+    {
+      "id": 212,
+      "startMs": 1273980,
+      "endMs": 1275980,
+      "en": "Use the hashtag globalnewspod.",
+      "zh": "请使用话题标签 globalnewspod。"
+    },
+    {
+      "id": 213,
+      "startMs": 1276740,
+      "endMs": 1282420,
+      "en": "This edition of the Global News Podcast was mixed by Chris Murphy, and the producer was Muzaffar Shakir.",
+      "zh": "本期《全球新闻播客》由克里斯·墨菲混音，制片人是穆扎法尔·沙基尔。"
+    },
+    {
+      "id": 214,
+      "startMs": 1282820,
+      "endMs": 1285380,
+      "en": "The editor is Karen Martin. I'm Pete Ross.",
+      "zh": "编辑是凯伦·马丁。我是皮特·罗斯。"
+    },
+    {
+      "id": 215,
+      "startMs": 1286020,
+      "endMs": 1287760,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
