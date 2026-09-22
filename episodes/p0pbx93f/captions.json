@@ -1,0 +1,1614 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "22 September 2026"
+  },
+  "durationMs": 1280960,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3040,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5360,
+      "endMs": 11040,
+      "en": "Hello, I'm Oliver Conway. We're recording this at 14:00 GMT on Tuesday the 22nd of September.",
+      "zh": "你好，我是奥利弗·康韦。现在是9月22日星期二格林尼治时间14点，我们正在录制本期节目。"
+    },
+    {
+      "id": 3,
+      "startMs": 11040,
+      "endMs": 16160,
+      "en": "Scientists say the current super El Niño is approaching record-breaking levels, weeks before its peak.",
+      "zh": "科学家表示，目前的超强厄尔尼诺尚未到达峰值，却已接近破纪录水平。"
+    },
+    {
+      "id": 4,
+      "startMs": 16720,
+      "endMs": 20240,
+      "en": "And new research suggests baby girls are more sociable than boys.",
+      "zh": "一项新研究还显示，女婴比男婴更善于社交。"
+    },
+    {
+      "id": 5,
+      "startMs": 22600,
+      "endMs": 27560,
+      "en": "Also in this podcast: it looks like it's from a galaxy far, far away.",
+      "zh": "本期节目还将谈到：这看起来像是来自遥远星系的事物。"
+    },
+    {
+      "id": 6,
+      "startMs": 27880,
+      "endMs": 33800,
+      "en": "But the Lucas Museum of Narrative Art is right here on Earth. George Lucas's art collection goes on display.",
+      "zh": "但卢卡斯叙事艺术博物馆就在地球上。乔治·卢卡斯的艺术收藏即将展出。"
+    },
+    {
+      "id": 7,
+      "startMs": 34120,
+      "endMs": 39720,
+      "en": "Given the many images of the game on tiles, drawings and prints in this painting, you can imagine it started in the Netherlands.",
+      "zh": "从这幅画中瓷砖、图画和版画上大量出现的相关图像来看，可以想见它起源于荷兰。"
+    },
+    {
+      "id": 8,
+      "startMs": 39960,
+      "endMs": 44280,
+      "en": "The game of golf as we know it nowadays started out in the Netherlands.",
+      "zh": "如今我们所知的高尔夫运动起源于荷兰。"
+    },
+    {
+      "id": 9,
+      "startMs": 44680,
+      "endMs": 46680,
+      "en": "Who really invented the game of golf?",
+      "zh": "究竟是谁发明了高尔夫运动？"
+    },
+    {
+      "id": 10,
+      "startMs": 46680,
+      "endMs": 50840,
+      "en": "The El Niño weather pattern in the Pacific Ocean is still a few weeks from its peak,",
+      "zh": "太平洋上的厄尔尼诺天气模式距离峰值还有几周，"
+    },
+    {
+      "id": 11,
+      "startMs": 51240,
+      "endMs": 55100,
+      "en": "but it is already breaking records, according to the British Met Office.",
+      "zh": "但据英国气象局称，它已经打破纪录。"
+    },
+    {
+      "id": 12,
+      "startMs": 55500,
+      "endMs": 62780,
+      "en": "However, that conclusion hasn't yet been confirmed by all climate scientists, as our environment correspondent Matt McGrath explained.",
+      "zh": "不过，正如环境事务记者马特·麦格拉思所解释的，并非所有气候科学家都确认了这一结论。"
+    },
+    {
+      "id": 13,
+      "startMs": 63340,
+      "endMs": 71180,
+      "en": "There's pretty much a great consensus among scientists that this El Niño is likely to be the strongest we've seen, possibly ever on record.",
+      "zh": "科学家基本达成共识：这次厄尔尼诺可能是有记录以来最强的一次，或许史上最强。"
+    },
+    {
+      "id": 14,
+      "startMs": 71580,
+      "endMs": 77500,
+      "en": "But whether this is breaking records right now is still a bit unclear, because scientists use a number of different measures.",
+      "zh": "但它现在是否真的正在打破纪录仍不太明确，因为科学家使用多种不同的衡量标准。"
+    },
+    {
+      "id": 15,
+      "startMs": 77900,
+      "endMs": 87420,
+      "en": "They record how warm this El Niño is versus the rest of the ocean and versus historic temperatures from a few decades ago.",
+      "zh": "他们会记录这次厄尔尼诺的温度，与海洋其他区域以及几十年前的历史温度进行比较。"
+    },
+    {
+      "id": 16,
+      "startMs": 87740,
+      "endMs": 91980,
+      "en": "So, on some of these measures, it's close to or breaking a record.",
+      "zh": "所以按其中一些标准，它接近或已经打破纪录。"
+    },
+    {
+      "id": 17,
+      "startMs": 92300,
+      "endMs": 97180,
+      "en": "On others, it's quite a bit away. I think the direction of travel is very clear here.",
+      "zh": "按其他标准，它还差得很远。但我认为趋势非常清楚。"
+    },
+    {
+      "id": 18,
+      "startMs": 97340,
+      "endMs": 102940,
+      "en": "Scientists have signaled for a long time they believe this to be the strongest they'll see at this particular time in the record,",
+      "zh": "科学家长期以来一直表示，他们认为这将是有记录以来这一时段最强的厄尔尼诺，"
+    },
+    {
+      "id": 19,
+      "startMs": 103580,
+      "endMs": 107340,
+      "en": "and it hasn't reached the peak of the event just yet.",
+      "zh": "而这次事件还没有达到峰值。"
+    },
+    {
+      "id": 20,
+      "startMs": 107420,
+      "endMs": 111340,
+      "en": "So, I think it's likely to break records across the board.",
+      "zh": "所以我认为它很可能全面打破纪录。"
+    },
+    {
+      "id": 21,
+      "startMs": 111840,
+      "endMs": 113760,
+      "en": "We may or may not be there just yet.",
+      "zh": "不过现在可能还没有达到那个程度。"
+    },
+    {
+      "id": 22,
+      "startMs": 114080,
+      "endMs": 118240,
+      "en": "What sort of temperatures are we talking about, and what does it all mean?",
+      "zh": "我们说的到底是什么样的温度？这意味着什么？"
+    },
+    {
+      "id": 23,
+      "startMs": 119040,
+      "endMs": 126080,
+      "en": "An El Niño is measured when waters in the centre of the Pacific are about half a degree above the long-term average,",
+      "zh": "衡量厄尔尼诺的方法是：太平洋中部海水温度比长期平均值高约0.5度，"
+    },
+    {
+      "id": 24,
+      "startMs": 126080,
+      "endMs": 131280,
+      "en": "that's the start of an El Niño. Once they get above one degree, you're starting to get into more serious territory.",
+      "zh": "这就标志着厄尔尼诺开始了。超过1度，就进入更严重的阶段。"
+    },
+    {
+      "id": 25,
+      "startMs": 131520,
+      "endMs": 134400,
+      "en": "Above two degrees, then it's called a very strong El Niño.",
+      "zh": "超过2度，就称为非常强的厄尔尼诺。"
+    },
+    {
+      "id": 26,
+      "startMs": 134400,
+      "endMs": 137840,
+      "en": "Now we had the two-degree mark go past a few months ago.",
+      "zh": "几个月前，温度已经超过了2度这个标准。"
+    },
+    {
+      "id": 27,
+      "startMs": 137840,
+      "endMs": 140960,
+      "en": "It's been a strong El Niño for the last couple of months.",
+      "zh": "过去几个月一直是强厄尔尼诺。"
+    },
+    {
+      "id": 28,
+      "startMs": 141200,
+      "endMs": 145120,
+      "en": "The latest data show that it's around three degrees warmer than the long-term average.",
+      "zh": "最新数据显示，它比长期平均值高出约3度。"
+    },
+    {
+      "id": 29,
+      "startMs": 145440,
+      "endMs": 149600,
+      "en": "But how much precisely it is above the long-term average, we're not quite sure as yet.",
+      "zh": "但究竟高出长期平均值多少，目前还不完全确定。"
+    },
+    {
+      "id": 30,
+      "startMs": 150000,
+      "endMs": 158080,
+      "en": "Scientists fear this will continue, with projections putting it between three and four degrees above average.",
+      "zh": "科学家担心这种趋势会持续，预测显示温度可能比平均值高出3到4度。"
+    },
+    {
+      "id": 31,
+      "startMs": 158080,
+      "endMs": 162240,
+      "en": "Now, that is a phenomenal amount of heat and a phenomenal impact on the world.",
+      "zh": "这将是惊人的热量，也会对世界造成巨大影响。"
+    },
+    {
+      "id": 32,
+      "startMs": 162400,
+      "endMs": 164800,
+      "en": "We've never really seen anything like that before.",
+      "zh": "我们以前从未真正见过这样的情况。"
+    },
+    {
+      "id": 33,
+      "startMs": 165040,
+      "endMs": 167840,
+      "en": "We still don't know what the impacts will be across the world.",
+      "zh": "至于它将在全球造成什么影响，我们仍不确定。"
+    },
+    {
+      "id": 34,
+      "startMs": 168000,
+      "endMs": 174420,
+      "en": "But it'll be later this year and definitely in the middle of next year when we'll see the impact of all that heat much more clearly.",
+      "zh": "但要到今年晚些时候，尤其是明年年中，我们才会更清楚地看到这些热量的影响。"
+    },
+    {
+      "id": 35,
+      "startMs": 174580,
+      "endMs": 177700,
+      "en": "Yeah, what kind of thing could it be? More rain, more heat?",
+      "zh": "那会带来什么？更多降雨，还是更高温度？"
+    },
+    {
+      "id": 36,
+      "startMs": 178100,
+      "endMs": 183700,
+      "en": "All of the above. We're already seeing in some places, in the monsoon areas, perhaps less rain than normal.",
+      "zh": "都有可能。有些地方，尤其是季风区，降雨量可能已经低于正常水平。"
+    },
+    {
+      "id": 37,
+      "startMs": 183700,
+      "endMs": 192580,
+      "en": "In other places, in parts of California, they're preparing for greater deluges. We're likely to see greater floods and downpours.",
+      "zh": "而在加利福尼亚部分地区，人们正准备应对更大的暴雨。我们可能会看到更严重的洪水和倾盆大雨。"
+    },
+    {
+      "id": 38,
+      "startMs": 192820,
+      "endMs": 197620,
+      "en": "We're seeing the Panama Canal not at its peak or restricting traffic because of lower water levels.",
+      "zh": "巴拿马运河的水位较低，无法满负荷运行，甚至限制了通航。"
+    },
+    {
+      "id": 39,
+      "startMs": 198020,
+      "endMs": 203460,
+      "en": "So, all around the world, there'll be different impacts: impacts on food production, impacts on droughts, on heat and on floods.",
+      "zh": "所以全球各地都会受到不同影响：影响粮食生产、干旱、高温和洪水。"
+    },
+    {
+      "id": 40,
+      "startMs": 203940,
+      "endMs": 207300,
+      "en": "But by the middle of next year we'll see probably the bigger impact,",
+      "zh": "但到明年年中，我们可能会看到更大的影响，"
+    },
+    {
+      "id": 41,
+      "startMs": 207300,
+      "endMs": 211540,
+      "en": "which is on overall global temperatures, which are expected to break records by some distance.",
+      "zh": "那就是全球整体气温，预计将大幅打破纪录。"
+    },
+    {
+      "id": 42,
+      "startMs": 211860,
+      "endMs": 213940,
+      "en": "Our environment correspondent, Matt McGrath.",
+      "zh": "本台环境事务记者马特·麦格拉思报道。"
+    },
+    {
+      "id": 43,
+      "startMs": 213940,
+      "endMs": 221540,
+      "en": "Star Wars creator George Lucas has spent the past 20 years planning a museum to house his vast art collection.",
+      "zh": "《星球大战》的创作者乔治·卢卡斯过去20年一直在筹划一座博物馆，用来收藏他的庞大艺术藏品。"
+    },
+    {
+      "id": 44,
+      "startMs": 222020,
+      "endMs": 225940,
+      "en": "It finally opens today, following a star-studded party over the weekend,",
+      "zh": "博物馆今天终于开放，此前周末举行了一场明星云集的派对，"
+    },
+    {
+      "id": 45,
+      "startMs": 226260,
+      "endMs": 228900,
+      "en": "with Steven Spielberg and Oprah Winfrey among the guests.",
+      "zh": "史蒂文·斯皮尔伯格和奥普拉·温弗瑞都是嘉宾。"
+    },
+    {
+      "id": 46,
+      "startMs": 229380,
+      "endMs": 231860,
+      "en": "The BBC's Reagan Morris couldn't make it to the party.",
+      "zh": "BBC记者里根·莫里斯没能参加派对。"
+    },
+    {
+      "id": 47,
+      "startMs": 232440,
+      "endMs": 234920,
+      "en": "But she did get a sneak peek at the museum.",
+      "zh": "但她得以先睹博物馆的风采。"
+    },
+    {
+      "id": 48,
+      "startMs": 235400,
+      "endMs": 238920,
+      "en": "It looks like it's from a galaxy far, far away.",
+      "zh": "它看起来就像来自遥远的外太空。"
+    },
+    {
+      "id": 49,
+      "startMs": 239720,
+      "endMs": 245400,
+      "en": "But the Lucas Museum of Narrative Art is right here on Earth, in South Los Angeles, not too far from Hollywood.",
+      "zh": "但卢卡斯叙事艺术博物馆就在地球上，位于南洛杉矶，离好莱坞不远。"
+    },
+    {
+      "id": 50,
+      "startMs": 246200,
+      "endMs": 250440,
+      "en": "The new billion-dollar museum houses a Starfighter. I'm standing right underneath it.",
+      "zh": "这座耗资十亿美元的新博物馆里有一架星际战斗机。我正站在它下方。"
+    },
+    {
+      "id": 51,
+      "startMs": 251000,
+      "endMs": 257000,
+      "en": "It's got original C-3PO and R2-D2 droids and Luke Skywalker's landspeeder.",
+      "zh": "这里有原版的C-3PO和R2-D2机器人，以及卢克·天行者的陆行艇。"
+    },
+    {
+      "id": 52,
+      "startMs": 257640,
+      "endMs": 261000,
+      "en": "Some of the most iconic Star Wars memorabilia imaginable.",
+      "zh": "这里有各种最具标志性的《星球大战》纪念品。"
+    },
+    {
+      "id": 53,
+      "startMs": 262200,
+      "endMs": 264120,
+      "en": "But this is not a Star Wars museum.",
+      "zh": "但这不是一座《星球大战》博物馆。"
+    },
+    {
+      "id": 54,
+      "startMs": 264600,
+      "endMs": 268520,
+      "en": "The movie art takes up a fraction of the space in this collection from George Lucas,",
+      "zh": "电影艺术品只占乔治·卢卡斯这批收藏的一小部分，"
+    },
+    {
+      "id": 55,
+      "startMs": 268920,
+      "endMs": 272520,
+      "en": "the man who brought us both Star Wars and Indiana Jones movies.",
+      "zh": "他为我们带来了《星球大战》和《夺宝奇兵》系列电影。"
+    },
+    {
+      "id": 56,
+      "startMs": 273000,
+      "endMs": 278280,
+      "en": "The museum is dedicated to the history of visual storytelling, from cave paintings to ancient sculptures,",
+      "zh": "博物馆致力于呈现视觉叙事的历史，从洞穴壁画到古代雕塑，"
+    },
+    {
+      "id": 57,
+      "startMs": 278360,
+      "endMs": 281560,
+      "en": "to Norman Rockwell to Banksy's street art graffiti.",
+      "zh": "再到诺曼·洛克威尔和班克斯的街头涂鸦艺术。"
+    },
+    {
+      "id": 58,
+      "startMs": 282280,
+      "endMs": 285320,
+      "en": "George Lucas says it bothered him that illustrators he worked with on movies",
+      "zh": "乔治·卢卡斯说，有件事让他耿耿于怀：与他合作的电影插画师"
+    },
+    {
+      "id": 59,
+      "startMs": 285320,
+      "endMs": 289640,
+      "en": "were not considered serious artists and that their work was rarely displayed in museums.",
+      "zh": "因为他们不被视为严肃艺术家，作品也很少在博物馆展出。"
+    },
+    {
+      "id": 60,
+      "startMs": 289720,
+      "endMs": 296680,
+      "en": "It's something that I felt very, very strongly about in terms of honoring illustrators,",
+      "zh": "这是我一直强烈希望做到的，也就是尊重插画师，"
+    },
+    {
+      "id": 61,
+      "startMs": 297240,
+      "endMs": 303880,
+      "en": "people who, artists, I think, who illustrate stories that are already written,",
+      "zh": "他们是我认为的艺术家，为已经写好的故事配上插画，"
+    },
+    {
+      "id": 62,
+      "startMs": 304520,
+      "endMs": 306280,
+      "en": "and most of the stories are myths.",
+      "zh": "而且这些故事大多是神话。"
+    },
+    {
+      "id": 63,
+      "startMs": 307280,
+      "endMs": 311040,
+      "en": "They're not real, but the illustrations make them real.",
+      "zh": "它们并不真实，但插画让它们变得真实。"
+    },
+    {
+      "id": 64,
+      "startMs": 312160,
+      "endMs": 320080,
+      "en": "And as a result, in the beginning, especially for a few thousand years, that was the only way you could tell a story was with pictures.",
+      "zh": "因此在最初的几千年里，尤其是在早期，图片是讲述故事的唯一方式。"
+    },
+    {
+      "id": 65,
+      "startMs": 320320,
+      "endMs": 321360,
+      "en": "Thank you for being here.",
+      "zh": "谢谢你来到这里。"
+    },
+    {
+      "id": 66,
+      "startMs": 321360,
+      "endMs": 322720,
+      "en": "Thank you so much for doing this.",
+      "zh": "非常感谢你接受采访。"
+    },
+    {
+      "id": 67,
+      "startMs": 322720,
+      "endMs": 325360,
+      "en": "Tracey Bates, CEO of the Lucas Museum.",
+      "zh": "卢卡斯博物馆首席执行官特蕾西·贝茨。"
+    },
+    {
+      "id": 68,
+      "startMs": 325520,
+      "endMs": 329440,
+      "en": "I know this is not a Star Wars museum, but when I walk into this building,",
+      "zh": "我知道这不是一座《星球大战》博物馆，但每当我走进这栋建筑，"
+    },
+    {
+      "id": 69,
+      "startMs": 329440,
+      "endMs": 331120,
+      "en": "it does feel like I'm entering a spaceship.",
+      "zh": "确实感觉像是进入了一艘宇宙飞船。"
+    },
+    {
+      "id": 70,
+      "startMs": 331280,
+      "endMs": 333360,
+      "en": "How do you describe the Lucas Museum?",
+      "zh": "你会如何描述卢卡斯博物馆？"
+    },
+    {
+      "id": 71,
+      "startMs": 334200,
+      "endMs": 340040,
+      "en": "There's always been a plan that the building itself would be art. It would be a sculpture",
+      "zh": "一直以来的计划就是让建筑本身成为艺术，成为一件雕塑，"
+    },
+    {
+      "id": 72,
+      "startMs": 340360,
+      "endMs": 347320,
+      "en": "so that future generations, hopefully especially children, would look at the building and say, that looks really important.",
+      "zh": "让未来世代，尤其是孩子们，看到它时会说：这看起来真的很重要。"
+    },
+    {
+      "id": 73,
+      "startMs": 347480,
+      "endMs": 349560,
+      "en": "The art in it must be really important.",
+      "zh": "里面的艺术一定也非常重要。"
+    },
+    {
+      "id": 74,
+      "startMs": 349720,
+      "endMs": 352280,
+      "en": "We never put a value on any of the art here.",
+      "zh": "我们从不为这里的任何艺术品标价。"
+    },
+    {
+      "id": 75,
+      "startMs": 352280,
+      "endMs": 355320,
+      "en": "There's no hierarchy around the entire gallery space.",
+      "zh": "整个展厅空间没有高低之分。"
+    },
+    {
+      "id": 76,
+      "startMs": 355400,
+      "endMs": 359960,
+      "en": "We have a Van Gogh, we have a Picasso, we have many deemed incredible artists,",
+      "zh": "这里有梵高、毕加索，也有许多被认为极其杰出的艺术家作品，"
+    },
+    {
+      "id": 77,
+      "startMs": 360280,
+      "endMs": 364040,
+      "en": "but the thread through all of it is a story.",
+      "zh": "但贯穿这一切的线索，是故事。"
+    },
+    {
+      "id": 78,
+      "startMs": 364120,
+      "endMs": 369000,
+      "en": "So narrative art is a story in one frame, so you'll be able to look at it and understand a story.",
+      "zh": "所以叙事艺术就是一幅画面中的故事，你看着它就能理解其中的故事。"
+    },
+    {
+      "id": 79,
+      "startMs": 369000,
+      "endMs": 371160,
+      "en": "You don't need wall text to explain that.",
+      "zh": "不需要墙上的文字来解释。"
+    },
+    {
+      "id": 80,
+      "startMs": 371480,
+      "endMs": 374760,
+      "en": "And does George call it a Star Wars museum?",
+      "zh": "那么乔治会把它称为《星球大战》博物馆吗？"
+    },
+    {
+      "id": 81,
+      "startMs": 375560,
+      "endMs": 381880,
+      "en": "What he does want to make sure is that people understand that it isn't just a Star Wars museum.",
+      "zh": "他确实希望人们明白，这不只是一座《星球大战》博物馆。"
+    },
+    {
+      "id": 82,
+      "startMs": 381880,
+      "endMs": 385960,
+      "en": "It is only 7% of our entire gallery hang is Star Wars.",
+      "zh": "《星球大战》作品只占我们整个展厅展品的7%。"
+    },
+    {
+      "id": 83,
+      "startMs": 386120,
+      "endMs": 390760,
+      "en": "George Lucas is known for creating worlds adored by fans around the world.",
+      "zh": "乔治·卢卡斯因创造出受到全球影迷喜爱的世界而闻名。"
+    },
+    {
+      "id": 84,
+      "startMs": 391640,
+      "endMs": 394040,
+      "en": "It took him nearly 20 years to build this museum.",
+      "zh": "他用了将近20年建成这座博物馆。"
+    },
+    {
+      "id": 85,
+      "startMs": 394060,
+      "endMs": 402140,
+      "en": "And it's transformed the skyline of South Los Angeles and transfixed those of us lucky enough to get a sneak peek inside.",
+      "zh": "它改变了南洛杉矶的天际线，也让有幸一窥内部的我们深深着迷。"
+    },
+    {
+      "id": 86,
+      "startMs": 403680,
+      "endMs": 405440,
+      "en": "That report by Reagan Morris.",
+      "zh": "以上是里根·莫里斯的报道。"
+    },
+    {
+      "id": 87,
+      "startMs": 405920,
+      "endMs": 408320,
+      "en": "Now, who invented golf?",
+      "zh": "那么，高尔夫是谁发明的？"
+    },
+    {
+      "id": 88,
+      "startMs": 408400,
+      "endMs": 413920,
+      "en": "It's long thought to have started in Scotland, but the debate over its origins has been reignited",
+      "zh": "长期以来人们认为高尔夫起源于苏格兰，但关于其起源的争论再次被点燃，"
+    },
+    {
+      "id": 89,
+      "startMs": 413920,
+      "endMs": 416240,
+      "en": "by the purchase of a painting in the Netherlands,",
+      "zh": "原因是荷兰方面购入了一幅画，"
+    },
+    {
+      "id": 90,
+      "startMs": 416640,
+      "endMs": 420000,
+      "en": "a seventeenth-century picture called ‘Colf Players on the Ice.’",
+      "zh": "这是一幅17世纪的画作，名为《冰上打科尔夫球者》。"
+    },
+    {
+      "id": 91,
+      "startMs": 420320,
+      "endMs": 422960,
+      "en": "That's colf with a C. Richard Hamilton reports.",
+      "zh": "这里的colf以字母C开头。理查德·汉密尔顿报道。"
+    },
+    {
+      "id": 92,
+      "startMs": 422960,
+      "endMs": 429360,
+      "en": "While it's generally accepted that the modern form of golf developed in Scotland",
+      "zh": "人们普遍接受的观点是，现代高尔夫是在苏格兰发展起来的，"
+    },
+    {
+      "id": 93,
+      "startMs": 429360,
+      "endMs": 431760,
+      "en": "from the 15th century onwards,",
+      "zh": "时间始于15世纪，"
+    },
+    {
+      "id": 94,
+      "startMs": 432160,
+      "endMs": 441840,
+      "en": "the upcoming exhibition of Hendrick Avercamp's painting ‘Colf Players on the Ice’ has resurrected discussions about its earliest origins.",
+      "zh": "但即将举行的亨德里克·阿弗坎普画作《冰上打科尔夫球者》展览，又引发了对其最早起源的讨论。"
+    },
+    {
+      "id": 95,
+      "startMs": 442160,
+      "endMs": 449920,
+      "en": "The painting is considered a masterpiece and cost two museums, the Rijksmuseum in Amsterdam and the Mauritshuis",
+      "zh": "这幅画被视为杰作，由阿姆斯特丹国立博物馆和海牙莫瑞泰斯皇家美术馆两家博物馆共同斥资，"
+    },
+    {
+      "id": 96,
+      "startMs": 449920,
+      "endMs": 453840,
+      "en": "in The Hague, $13 million in a joint purchase.",
+      "zh": "以1300万美元联合购得。"
+    },
+    {
+      "id": 97,
+      "startMs": 454240,
+      "endMs": 458480,
+      "en": "Judith Niessen is head of collections and research at the Mauritshuis.",
+      "zh": "朱迪丝·尼森是莫瑞泰斯皇家美术馆馆藏与研究部负责人。"
+    },
+    {
+      "id": 98,
+      "startMs": 459120,
+      "endMs": 463200,
+      "en": "We can never, never be sure, but there is already mention of",
+      "zh": "我们永远无法完全确定，但已经有文献提到，"
+    },
+    {
+      "id": 99,
+      "startMs": 463300,
+      "endMs": 466420,
+      "en": "this game in the 1300s, which is quite early,",
+      "zh": "这种游戏在14世纪就已存在，这相当早，"
+    },
+    {
+      "id": 100,
+      "startMs": 466820,
+      "endMs": 471940,
+      "en": "given the amount of images we know already from the 16th, 17th century,",
+      "zh": "考虑到我们目前已知的图像大多来自16、17世纪，"
+    },
+    {
+      "id": 101,
+      "startMs": 472100,
+      "endMs": 478100,
+      "en": "at least it was really popular in the Netherlands and maybe even more popular than it was in Scotland.",
+      "zh": "至少它在荷兰非常流行，甚至可能比在苏格兰更受欢迎。"
+    },
+    {
+      "id": 102,
+      "startMs": 478580,
+      "endMs": 487140,
+      "en": "So we tend to say it was invented here, and there is a whole lot of variety in the way it was played already back then.",
+      "zh": "所以我们倾向于认为它是在这里发明的，而且当时的玩法已经非常多样。"
+    },
+    {
+      "id": 103,
+      "startMs": 487300,
+      "endMs": 491780,
+      "en": "But what I can imagine is it was really popular, and given the amount of images we know,",
+      "zh": "但我能想象它当时非常流行；从我们已知的大量图像来看，"
+    },
+    {
+      "id": 104,
+      "startMs": 492020,
+      "endMs": 497940,
+      "en": "on tiles, on drawings, on prints, in this painting, it is the subject of the painting.",
+      "zh": "无论是瓷砖、图画、版画，还是这幅画本身，科尔夫球都是描绘的主题。"
+    },
+    {
+      "id": 105,
+      "startMs": 498100,
+      "endMs": 502180,
+      "en": "You can imagine that it started out, the game of golf as we know it nowadays.",
+      "zh": "可以想象，我们今天所知的高尔夫运动就是从那时开始的。"
+    },
+    {
+      "id": 106,
+      "startMs": 502180,
+      "endMs": 503540,
+      "en": "It started out in the Netherlands.",
+      "zh": "它起源于荷兰。"
+    },
+    {
+      "id": 107,
+      "startMs": 503780,
+      "endMs": 509940,
+      "en": "Other Dutch historians have been even more adamant that golf was invented in the Netherlands,",
+      "zh": "其他荷兰历史学家更坚定地认为高尔夫是在荷兰发明的，"
+    },
+    {
+      "id": 108,
+      "startMs": 510260,
+      "endMs": 514500,
+      "en": "with some saying it actually began in the year 1297.",
+      "zh": "有人甚至说它早在1297年就已出现。"
+    },
+    {
+      "id": 109,
+      "startMs": 514500,
+      "endMs": 523060,
+      "en": "But Professor Neil Millar, who's a golf historian and author of the book Early Golf: Royal Myths and Ancient Histories,",
+      "zh": "但高尔夫历史学家、著作《早期高尔夫：皇家神话与古代历史》的作者尼尔·米拉教授，"
+    },
+    {
+      "id": 110,
+      "startMs": 523800,
+      "endMs": 525960,
+      "en": "is dismissive of that claim.",
+      "zh": "对这一说法不以为然。"
+    },
+    {
+      "id": 111,
+      "startMs": 526200,
+      "endMs": 530440,
+      "en": "There's absolutely no contemporary evidence for that.",
+      "zh": "对此完全没有同时代的证据。"
+    },
+    {
+      "id": 112,
+      "startMs": 530520,
+      "endMs": 532040,
+      "en": "The two games are quite similar.",
+      "zh": "这两种游戏非常相似。"
+    },
+    {
+      "id": 113,
+      "startMs": 532120,
+      "endMs": 537880,
+      "en": "Historians argue about whether stick-and-ball games originated in one country or another.",
+      "zh": "历史学家争论的是，杆球类游戏究竟起源于哪个国家。"
+    },
+    {
+      "id": 114,
+      "startMs": 538040,
+      "endMs": 542760,
+      "en": "Colf in Holland undoubtedly will have influenced golf in Scotland,",
+      "zh": "荷兰的科尔夫球无疑影响了苏格兰的高尔夫，"
+    },
+    {
+      "id": 115,
+      "startMs": 542760,
+      "endMs": 545800,
+      "en": "but I'm sure it happened the other way as well.",
+      "zh": "但我相信反过来也同样发生过影响。"
+    },
+    {
+      "id": 116,
+      "startMs": 545960,
+      "endMs": 554600,
+      "en": "And what is sometimes overlooked is that golf has a clear written history in Scotland that dates back long before paintings such as this.",
+      "zh": "有时人们忽视了，高尔夫在苏格兰有清晰的文字记载，其历史早在这类画作出现之前就已开始。"
+    },
+    {
+      "id": 117,
+      "startMs": 554840,
+      "endMs": 558680,
+      "en": "Golf was banned in Scotland in a Scottish Act of Parliament in 1457.",
+      "zh": "1457年，苏格兰的一项议会法案曾禁止高尔夫。"
+    },
+    {
+      "id": 118,
+      "startMs": 558680,
+      "endMs": 566360,
+      "en": "So, that tells us that golf must have been played in Scotland earlier than the mid-15th century.",
+      "zh": "这说明，高尔夫在苏格兰的出现一定早于15世纪中叶。"
+    },
+    {
+      "id": 119,
+      "startMs": 566600,
+      "endMs": 577480,
+      "en": "The origins of golf have long been lost in the mists of time, with some suggesting the Romans or even the ancient Chinese played an early form of the game.",
+      "zh": "高尔夫的起源早已湮没在历史迷雾中，有人认为罗马人甚至古代中国人曾玩过这种运动的早期形式。"
+    },
+    {
+      "id": 120,
+      "startMs": 577880,
+      "endMs": 583080,
+      "en": "And no doubt, the arguments will continue long into the night over a glass of whisky,",
+      "zh": "毫无疑问，人们还会端着一杯威士忌，争论到深夜。"
+    },
+    {
+      "id": 121,
+      "startMs": 583420,
+      "endMs": 591020,
+      "en": "perhaps as long as the search for the perfect swing or how long a putt should be before you concede it to your opponent.",
+      "zh": "或许争论的时间，会和寻找完美挥杆、讨论推杆多长才该向对手认输一样久。"
+    },
+    {
+      "id": 122,
+      "startMs": 591340,
+      "endMs": 592140,
+      "en": "Richard Hamilton.",
+      "zh": "理查德·汉密尔顿报道。"
+    },
+    {
+      "id": 123,
+      "startMs": 594740,
+      "endMs": 596100,
+      "en": "And still to come in this podcast,",
+      "zh": "本期节目接下来还将关注："
+    },
+    {
+      "id": 124,
+      "startMs": 600840,
+      "endMs": 605560,
+      "en": "Efforts to revive the only native cats still found in the wild in Britain.",
+      "zh": "人们努力拯救英国野外仅存的本土猫科动物。"
+    },
+    {
+      "id": 125,
+      "startMs": 605560,
+      "endMs": 608120,
+      "en": "You're listening to the Global News Podcast.",
+      "zh": "你正在收听《全球新闻播客》。"
+    },
+    {
+      "id": 126,
+      "startMs": 608760,
+      "endMs": 614120,
+      "en": "Baby girls tend to be more people-focused than boys from the very first hours of their lives.",
+      "zh": "女婴从出生后的最初几小时起，往往就比男婴更关注人。"
+    },
+    {
+      "id": 127,
+      "startMs": 614200,
+      "endMs": 621400,
+      "en": "That's according to research from Cambridge University, which also found that newborn boys generally show more interest in objects.",
+      "zh": "这是剑桥大学一项研究得出的结论。研究还发现，新生男婴通常对物体更感兴趣。"
+    },
+    {
+      "id": 128,
+      "startMs": 621960,
+      "endMs": 625880,
+      "en": "The study was led by Yumna Khan from the Autism Research Centre in Cambridge.",
+      "zh": "这项研究由剑桥大学自闭症研究中心的尤姆娜·汗带领。"
+    },
+    {
+      "id": 129,
+      "startMs": 626360,
+      "endMs": 633240,
+      "en": "In the experiment, we recruited newborn infants as soon after they were born as possible into the study.",
+      "zh": "在实验中，我们尽可能在新生儿出生后立即招募他们参加研究。"
+    },
+    {
+      "id": 130,
+      "startMs": 633560,
+      "endMs": 636120,
+      "en": "And as soon as they were awake and alert, we showed them a video clip",
+      "zh": "他们一醒来并保持清醒，我们就给他们播放一段视频，"
+    },
+    {
+      "id": 131,
+      "startMs": 636120,
+      "endMs": 644120,
+      "en": "of, on one side of the screen, a moving face, and on the other side of the screen, a moving object.",
+      "zh": "画面一侧是移动的人脸，另一侧是移动的物体。"
+    },
+    {
+      "id": 132,
+      "startMs": 644520,
+      "endMs": 651240,
+      "en": "We basically found that regardless of their sex, newborn infants preferred to look at the face,",
+      "zh": "我们基本发现，无论性别，新生儿都更喜欢看人脸，"
+    },
+    {
+      "id": 133,
+      "startMs": 651320,
+      "endMs": 657240,
+      "en": "which we believe is due to an innate social interest in humans and faces from birth.",
+      "zh": "我们认为，这是因为人类从出生起就对人和面孔具有天生的社交兴趣。"
+    },
+    {
+      "id": 134,
+      "startMs": 657320,
+      "endMs": 665980,
+      "en": "But what was really interesting was that we found that girls, on average, looked proportionately longer at the human face",
+      "zh": "但真正有意思的是，我们发现，平均而言，女孩看人脸的相对时间更长，"
+    },
+    {
+      "id": 135,
+      "startMs": 666300,
+      "endMs": 672460,
+      "en": "compared to boys, whereas boys, on average, looked proportionately longer at the object.",
+      "zh": "相比之下，男孩平均看物体的相对时间更长。"
+    },
+    {
+      "id": 136,
+      "startMs": 672620,
+      "endMs": 679660,
+      "en": "And why do you think that is? There's been quite a lot of discussion about this in the scientific community.",
+      "zh": "你认为这是为什么？科学界对此已经有相当多的讨论。"
+    },
+    {
+      "id": 137,
+      "startMs": 679740,
+      "endMs": 689900,
+      "en": "We know that sex differences are shaped by numerous, numerous different factors, such as upbringing, gender socialization, environmental factors.",
+      "zh": "我们知道，性别差异受到许多不同因素影响，例如成长经历、性别社会化和环境因素。"
+    },
+    {
+      "id": 138,
+      "startMs": 690220,
+      "endMs": 695500,
+      "en": "But there have also been theories that some early biological factors might play a role.",
+      "zh": "但也有理论认为，一些早期生物因素可能发挥作用。"
+    },
+    {
+      "id": 139,
+      "startMs": 695820,
+      "endMs": 702380,
+      "en": "For example, during pregnancy, males are exposed to higher levels of testosterone compared to females.",
+      "zh": "例如，在孕期，男性接触到的睾酮水平高于女性。"
+    },
+    {
+      "id": 140,
+      "startMs": 702700,
+      "endMs": 710940,
+      "en": "This is what creates sex differences in the body, but it's also hypothesized to create sex differences in the brain and behavior.",
+      "zh": "这会造成身体上的性别差异，但人们也推测，它会造成大脑和行为上的性别差异。"
+    },
+    {
+      "id": 141,
+      "startMs": 711340,
+      "endMs": 716140,
+      "en": "So, when we looked at these newborn babies, because it was so soon after birth,",
+      "zh": "因此，当我们观察这些新生儿时，由于观察时间离出生如此之近，"
+    },
+    {
+      "id": 142,
+      "startMs": 716460,
+      "endMs": 724940,
+      "en": "our findings suggest that potentially, these early prenatal biological factors might be playing some sort of a role in shaping sex differences.",
+      "zh": "我们的发现提示，这些早期的产前生物因素可能在塑造性别差异方面发挥某种作用。"
+    },
+    {
+      "id": 143,
+      "startMs": 725120,
+      "endMs": 731040,
+      "en": "And what does this tell us about the old nature versus nurture argument?",
+      "zh": "那么，这对传统的“先天还是后天”之争说明了什么？"
+    },
+    {
+      "id": 144,
+      "startMs": 731200,
+      "endMs": 740480,
+      "en": "I always say it's not nature versus nurture, but rather, it's nature and nurture. Both nature and nurture play important roles in shaping sex differences.",
+      "zh": "我总是说，这不是先天与后天的对立，而是先天和后天共同作用。两者在塑造性别差异时都很重要。"
+    },
+    {
+      "id": 145,
+      "startMs": 740960,
+      "endMs": 745760,
+      "en": "We know definitely that nurture plays a very, very large role,",
+      "zh": "我们确实知道，后天环境发挥着非常重要的作用，"
+    },
+    {
+      "id": 146,
+      "startMs": 746240,
+      "endMs": 753600,
+      "en": "but what this research suggests is that nature, early biological factors, might also play somewhat of a role.",
+      "zh": "但这项研究提示，先天因素，也就是早期生物因素，可能也发挥了一定作用。"
+    },
+    {
+      "id": 147,
+      "startMs": 754000,
+      "endMs": 761520,
+      "en": "Now, it's very important to note we did not directly test that, but this is the conclusion that we're reaching",
+      "zh": "需要特别指出的是，我们并没有直接检验这一点，但我们得出的结论是，"
+    },
+    {
+      "id": 148,
+      "startMs": 761760,
+      "endMs": 764800,
+      "en": "based on how early that we find these differences.",
+      "zh": "这些差异出现得非常早。"
+    },
+    {
+      "id": 149,
+      "startMs": 765200,
+      "endMs": 771360,
+      "en": "So we hypothesize that yes, these early biological factors might be playing some sort of a role,",
+      "zh": "因此，我们假设，这些早期生物因素可能确实发挥了某种作用，"
+    },
+    {
+      "id": 150,
+      "startMs": 771680,
+      "endMs": 779840,
+      "en": "but we need more research to confirm that it is definitely these prenatal factors rather than other external factors.",
+      "zh": "但我们还需要更多研究，才能确认起作用的确实是这些产前因素，而不是其他外部因素。"
+    },
+    {
+      "id": 151,
+      "startMs": 779920,
+      "endMs": 784000,
+      "en": "The fact that girls tend to favor looking at faces more than boys just after birth,",
+      "zh": "女孩刚出生后往往比男孩更喜欢看面孔，"
+    },
+    {
+      "id": 152,
+      "startMs": 784480,
+      "endMs": 788660,
+      "en": "does that play out later in life as they develop?",
+      "zh": "这种差异会在她们成长后的生活中延续吗？"
+    },
+    {
+      "id": 153,
+      "startMs": 789140,
+      "endMs": 795300,
+      "en": "This is something that we will better be able to understand from longitudinal research, which we are planning at the moment.",
+      "zh": "我们目前正计划开展纵向研究，届时会更好地理解这一点。"
+    },
+    {
+      "id": 154,
+      "startMs": 795700,
+      "endMs": 805460,
+      "en": "But what our hypothesis is right now is that we know later in infancy, girls acquire language and communication skills faster than boys on average.",
+      "zh": "但我们目前的假设是，进入婴儿期后，女孩平均比男孩更快获得语言和交流技能。"
+    },
+    {
+      "id": 155,
+      "startMs": 805540,
+      "endMs": 810980,
+      "en": "So what might be happening here is this social interest from birth",
+      "zh": "因此，这里可能发生的是，这种从出生起就有的社交兴趣"
+    },
+    {
+      "id": 156,
+      "startMs": 810980,
+      "endMs": 818500,
+      "en": "might be facilitating the development of earlier social and communication skills in females faster.",
+      "zh": "可能促进了女性更早、更快地发展社交和交流技能。"
+    },
+    {
+      "id": 157,
+      "startMs": 818820,
+      "endMs": 826100,
+      "en": "And does this say anything about the greater incidence of autism that tends to be found among boys rather than girls?",
+      "zh": "那么，这是否能解释自闭症发病率往往男孩高于女孩这一现象？"
+    },
+    {
+      "id": 158,
+      "startMs": 826260,
+      "endMs": 832260,
+      "en": "Yes, that is possible, and again, that's something that we will better be able to understand through future research.",
+      "zh": "有这种可能。同样，我们将通过未来的研究更好地理解这一点。"
+    },
+    {
+      "id": 159,
+      "startMs": 832660,
+      "endMs": 841220,
+      "en": "But one theory is that if males on average, let's say, show reduced social interest compared to females from early life,",
+      "zh": "但有一种理论认为，假设男性从生命早期起平均表现出比女性更低的社交兴趣，"
+    },
+    {
+      "id": 160,
+      "startMs": 841220,
+      "endMs": 847940,
+      "en": "then they might be at a higher likelihood of developing autism compared to females.",
+      "zh": "那么，他们患自闭症的可能性或许就会高于女性。"
+    },
+    {
+      "id": 161,
+      "startMs": 848260,
+      "endMs": 850340,
+      "en": "Yumna Khan from the University of Cambridge.",
+      "zh": "剑桥大学的尤姆娜·汗。"
+    },
+    {
+      "id": 162,
+      "startMs": 851140,
+      "endMs": 857380,
+      "en": "Ukraine's president Volodymyr Zelensky is due to meet President Trump on the sidelines of the UN General Assembly in New York.",
+      "zh": "乌克兰总统弗拉基米尔·泽连斯基将于联合国大会期间在纽约与特朗普总统会面。"
+    },
+    {
+      "id": 163,
+      "startMs": 857940,
+      "endMs": 864340,
+      "en": "It comes amid fears that Russia is planning to intensify attacks on Ukraine's heating and power facilities ahead of the winter.",
+      "zh": "此前有人担心，俄罗斯计划在冬季到来前加强对乌克兰供暖和电力设施的袭击。"
+    },
+    {
+      "id": 164,
+      "startMs": 864900,
+      "endMs": 872500,
+      "en": "To make matters worse, Russia has stepped up its use of jet-powered drones in recent months, and these are proving much harder to shoot down.",
+      "zh": "更糟糕的是，近几个月俄罗斯增加了喷气动力无人机的使用，而这类无人机很难被击落。"
+    },
+    {
+      "id": 165,
+      "startMs": 872980,
+      "endMs": 879140,
+      "en": "Our reporter Abdujalil Abdurasulov joined Ukrainian air defense units trying to combat this new threat.",
+      "zh": "我们的记者阿卜杜贾利勒·阿卜杜拉苏洛夫随乌克兰防空部队应对这一新威胁。"
+    },
+    {
+      "id": 166,
+      "startMs": 882500,
+      "endMs": 890180,
+      "en": "A missile shoots into the sky, leaving a long white tail behind. Seconds pass very slowly.",
+      "zh": "一枚导弹冲向天空，身后拖着长长的白色尾迹。时间一秒一秒缓慢流逝。"
+    },
+    {
+      "id": 167,
+      "startMs": 891260,
+      "endMs": 900300,
+      "en": "\"Destroyed,\" reports a Ukrainian soldier, having spotted in the distance a black plume of smoke from the explosion.",
+      "zh": "一名乌克兰士兵发现远处爆炸升起的黑烟，报告说：“摧毁了。”"
+    },
+    {
+      "id": 168,
+      "startMs": 901200,
+      "endMs": 905520,
+      "en": "His unit has successfully shot down a Russian jet-powered drone.",
+      "zh": "他的部队成功击落了一架俄罗斯喷气动力无人机。"
+    },
+    {
+      "id": 169,
+      "startMs": 910560,
+      "endMs": 913280,
+      "en": "These new drones are much harder to intercept.",
+      "zh": "这些新型无人机更难拦截。"
+    },
+    {
+      "id": 170,
+      "startMs": 913680,
+      "endMs": 920880,
+      "en": "So, for now, Ukrainian forces primarily use fighter jets or Western-provided air defense systems to stop them.",
+      "zh": "因此目前乌克兰部队主要使用战斗机或西方提供的防空系统来拦截它们。"
+    },
+    {
+      "id": 171,
+      "startMs": 921760,
+      "endMs": 927360,
+      "en": "They might be very effective, but far too costly to use against a much cheaper threat.",
+      "zh": "这些手段可能非常有效，但用来对付便宜得多的威胁，成本实在太高。"
+    },
+    {
+      "id": 172,
+      "startMs": 930360,
+      "endMs": 931240,
+      "en": "Accumulator, the battery.",
+      "zh": "Accumulator，也就是电池。"
+    },
+    {
+      "id": 173,
+      "startMs": 932280,
+      "endMs": 940440,
+      "en": "Soldiers from the 96th Air Defense Brigade show me their drone interceptors, regarded as breakthrough technology just a year ago.",
+      "zh": "第96防空旅的士兵向我展示无人机拦截器；就在一年前，这还被视为突破性技术。"
+    },
+    {
+      "id": 174,
+      "startMs": 943820,
+      "endMs": 950860,
+      "en": "A bullet-shaped device helped the Ukrainian military shoot down up to 95% of Russian drones.",
+      "zh": "一种子弹形装置曾帮助乌克兰军方击落多达95%的俄罗斯无人机。"
+    },
+    {
+      "id": 175,
+      "startMs": 951340,
+      "endMs": 956700,
+      "en": "But it's simply too slow against the new type of threat, says the crew commander, Madzi.",
+      "zh": "但面对这种新型威胁，它的速度实在太慢，机组指挥官马齐说。"
+    },
+    {
+      "id": 176,
+      "startMs": 956700,
+      "endMs": 963740,
+      "en": "The speed of jet-powered drones is 300 to 500 kilometers per hour,",
+      "zh": "喷气动力无人机的速度为每小时300至500公里，"
+    },
+    {
+      "id": 177,
+      "startMs": 964140,
+      "endMs": 966860,
+      "en": "which is twice as fast as our interceptors.",
+      "zh": "是我们拦截器速度的两倍。"
+    },
+    {
+      "id": 178,
+      "startMs": 970100,
+      "endMs": 979460,
+      "en": "This is like a cat-and-mouse game. We are inventing something, Russia is trying to invent a countermeasure, and vice versa.",
+      "zh": "这就像一场猫鼠游戏。我们发明一种东西，俄罗斯就设法发明反制手段，反之亦然。"
+    },
+    {
+      "id": 179,
+      "startMs": 979780,
+      "endMs": 984500,
+      "en": "Andrii Hrytseniuk, the head of Brave1, Ukraine's main defense technology alliance.",
+      "zh": "乌克兰主要防务技术联盟Brave1负责人安德里·赫里岑尤克。"
+    },
+    {
+      "id": 180,
+      "startMs": 984740,
+      "endMs": 992260,
+      "en": "And right now, more than 20 companies are building very fast drone interceptors at different levels of readiness.",
+      "zh": "目前有20多家公司正在制造高速无人机拦截器，准备程度各不相同。"
+    },
+    {
+      "id": 181,
+      "startMs": 992260,
+      "endMs": 997620,
+      "en": "Six companies, members of Brave1, have already deployed them in combat.",
+      "zh": "其中六家Brave1成员公司已经将其部署到战场。"
+    },
+    {
+      "id": 182,
+      "startMs": 998180,
+      "endMs": 999380,
+      "en": "And how effective are they?",
+      "zh": "它们的效果如何？"
+    },
+    {
+      "id": 183,
+      "startMs": 999620,
+      "endMs": 1008820,
+      "en": "We have already successfully destroyed a number of Shahed and other drones, so we see that the trend is positive.",
+      "zh": "我们已经成功摧毁了一些沙赫德无人机和其他无人机，因此趋势是积极的。"
+    },
+    {
+      "id": 184,
+      "startMs": 1009060,
+      "endMs": 1014740,
+      "en": "To deal with new threats, Ukraine is also trying to convert old weapons they no longer make.",
+      "zh": "为了应对新威胁，乌克兰也在尝试改造已经停产的旧武器。"
+    },
+    {
+      "id": 185,
+      "startMs": 1020120,
+      "endMs": 1027400,
+      "en": "Soldiers from the Bila Tserkva Air Defense Regiment are driving their anti-aircraft missile system, called Osa, into cover.",
+      "zh": "比拉采尔克瓦防空团的士兵正把名为Osa的防空导弹系统驶入掩体。"
+    },
+    {
+      "id": 186,
+      "startMs": 1028400,
+      "endMs": 1033440,
+      "en": "This giant Soviet armored vehicle on wheels is a lucrative target for Russian drones.",
+      "zh": "这辆巨大的苏制轮式装甲车是俄罗斯无人机的高价值目标。"
+    },
+    {
+      "id": 187,
+      "startMs": 1033920,
+      "endMs": 1041040,
+      "en": "It helps to defend Ukrainian cities from airstrikes. The problem is that there are massive shortages of ammunition for Osa.",
+      "zh": "它帮助乌克兰城市抵御空袭。但问题是，Osa系统的弹药严重短缺。"
+    },
+    {
+      "id": 188,
+      "startMs": 1041760,
+      "endMs": 1047760,
+      "en": "However, Ukraine has developed a new type of missile that can be used by this old system,",
+      "zh": "不过，乌克兰研发了一种可由这套旧系统使用的新型导弹，"
+    },
+    {
+      "id": 189,
+      "startMs": 1048240,
+      "endMs": 1051760,
+      "en": "and they are fast enough to shoot down Russian jet-powered drones.",
+      "zh": "其速度足以击落俄罗斯的喷气动力无人机。"
+    },
+    {
+      "id": 190,
+      "startMs": 1052560,
+      "endMs": 1059440,
+      "en": "Volodymyr, a crew member, explains. The new missiles performed well.",
+      "zh": "机组成员弗拉基米尔解释说，新导弹表现良好。"
+    },
+    {
+      "id": 191,
+      "startMs": 1060000,
+      "endMs": 1067040,
+      "en": "The first launches were not very successful, but then they were improved, and now they work even better than Soviet missiles.",
+      "zh": "最初几次发射并不成功，但之后导弹得到改进，如今甚至比苏制导弹更好用。"
+    },
+    {
+      "id": 192,
+      "startMs": 1067760,
+      "endMs": 1074960,
+      "en": "Ukrainian engineers believe that it's only a matter of time before they effectively shoot down jet-powered drones on a regular basis.",
+      "zh": "乌克兰工程师相信，他们持续有效击落喷气动力无人机只是时间问题。"
+    },
+    {
+      "id": 193,
+      "startMs": 1075360,
+      "endMs": 1081520,
+      "en": "But the challenge of this war is to predict and prepare for future threats that do not exist yet.",
+      "zh": "但这场战争的挑战在于，要预测并准备应对尚不存在的未来威胁。"
+    },
+    {
+      "id": 194,
+      "startMs": 1082000,
+      "endMs": 1084800,
+      "en": "Abdujalil Abdurasulov, reporting from Ukraine.",
+      "zh": "阿卜杜贾利勒·阿卜杜拉苏洛夫从乌克兰报道。"
+    },
+    {
+      "id": 195,
+      "startMs": 1084800,
+      "endMs": 1091760,
+      "en": "They are the only native cats still found in the wild in Britain; wildcats have long been considered functionally extinct.",
+      "zh": "它们是英国野外仍能找到的唯一原生猫科动物；野猫长期被认为实际上已经灭绝。"
+    },
+    {
+      "id": 196,
+      "startMs": 1092160,
+      "endMs": 1097680,
+      "en": "Their surviving populations are too small and heavily interbred with domestic cats to recover on their own.",
+      "zh": "幸存种群过于稀少，还与家猫严重杂交，无法自行恢复。"
+    },
+    {
+      "id": 197,
+      "startMs": 1098160,
+      "endMs": 1105120,
+      "en": "But a small population has now been successfully reintroduced to the Cairngorm Mountains in Scotland, as Lorna Gordon reports.",
+      "zh": "但如今，一小群野猫已成功重新引入苏格兰凯恩戈姆山脉，洛娜·戈登报道。"
+    },
+    {
+      "id": 198,
+      "startMs": 1106480,
+      "endMs": 1108640,
+      "en": "The call of a Scottish wildcat.",
+      "zh": "这是苏格兰野猫的叫声。"
+    },
+    {
+      "id": 199,
+      "startMs": 1109360,
+      "endMs": 1116160,
+      "en": "They're critically endangered, but for the past few years, experts have been breeding them for release into the Cairngorms.",
+      "zh": "它们极度濒危，但过去几年，专家一直在繁育这些野猫，以便将其放归凯恩戈姆山脉。"
+    },
+    {
+      "id": 200,
+      "startMs": 1116320,
+      "endMs": 1121920,
+      "en": "Luckily, the cats are not aware that we're watching them all the time, but it is a bit like Big Brother for cats.",
+      "zh": "幸运的是，这些猫不知道我们一直在监视它们，不过这有点像猫咪版的“老大哥”。"
+    },
+    {
+      "id": 201,
+      "startMs": 1122160,
+      "endMs": 1125760,
+      "en": "From behind a large bank of screens in a small, windowless room,",
+      "zh": "在一间没有窗户的小房间里，一大排屏幕后，"
+    },
+    {
+      "id": 202,
+      "startMs": 1126160,
+      "endMs": 1132400,
+      "en": "Estelle Morgan, who is the animal team leader for the Saving Wildcats Partnership, is keeping an eye on her charges.",
+      "zh": "“拯救野猫”合作项目的动物团队负责人艾斯特尔·摩根，正在监视她负责的这些野猫。"
+    },
+    {
+      "id": 203,
+      "startMs": 1132640,
+      "endMs": 1138000,
+      "en": "So, this is Crannachan, and he has fathered a number of kittens that have gone on to be released into the wild.",
+      "zh": "这只是克兰纳汉，它生育了多只幼崽，这些幼崽后来都被放归野外。"
+    },
+    {
+      "id": 204,
+      "startMs": 1138400,
+      "endMs": 1145760,
+      "en": "With 72 cameras, it is quite a surveillance programme. We want to know what the cats are actually doing, what they are actually like without us there.",
+      "zh": "这里有72个摄像头，称得上是一套严密的监测系统。我们想知道这些猫实际上在做什么，在没有我们时究竟是什么样。"
+    },
+    {
+      "id": 205,
+      "startMs": 1146080,
+      "endMs": 1148640,
+      "en": "Are they able to climb? Are they able to pounce?",
+      "zh": "它们会爬吗？会扑跃吗？"
+    },
+    {
+      "id": 206,
+      "startMs": 1148640,
+      "endMs": 1157040,
+      "en": "Are they active at natural times? The behavioural side tells us if that cat maybe has the potential to survive in the wild.",
+      "zh": "它们会在自然的时间活动吗？从行为方面，我们可以判断这只猫是否可能具备在野外生存的潜力。"
+    },
+    {
+      "id": 207,
+      "startMs": 1157040,
+      "endMs": 1162320,
+      "en": "46 wildcats have so far been released into the flats and foothills here in the Cairngorms.",
+      "zh": "到目前为止，已有46只野猫被放归凯恩戈姆山脉这里的平地和山麓。"
+    },
+    {
+      "id": 208,
+      "startMs": 1162800,
+      "endMs": 1168580,
+      "en": "The cats live in grassy shrubland with a forest edge, and the population, while small, is growing.",
+      "zh": "这些猫生活在森林边缘的草木灌丛中。种群虽然很小，但正在增长。"
+    },
+    {
+      "id": 209,
+      "startMs": 1169140,
+      "endMs": 1175540,
+      "en": "The plan to reintroduce wildcats to other areas in Scotland aims to build on the work being done here.",
+      "zh": "将野猫重新引入苏格兰其他地区的计划，旨在以这里的工作为基础继续推进。"
+    },
+    {
+      "id": 210,
+      "startMs": 1176180,
+      "endMs": 1180100,
+      "en": "Dr. Martin Gaywood is species projects manager for NatureScot.",
+      "zh": "马丁·盖伍德博士是苏格兰自然遗产机构的物种项目经理。"
+    },
+    {
+      "id": 211,
+      "startMs": 1180500,
+      "endMs": 1183780,
+      "en": "We've had an enormous amount of success here. It's only the first step.",
+      "zh": "我们在这里取得了巨大的成功，但这只是第一步。"
+    },
+    {
+      "id": 212,
+      "startMs": 1184100,
+      "endMs": 1190420,
+      "en": "In order to restore the wildcats to the whole of Scotland, we need to plan long term and at a big scale.",
+      "zh": "要让野猫遍布整个苏格兰，我们需要进行长期规划，并制定大规模计划。"
+    },
+    {
+      "id": 213,
+      "startMs": 1190740,
+      "endMs": 1197300,
+      "en": "Traffic, disease, and interbreeding all have the potential to limit wildcat numbers, as does climate change.",
+      "zh": "交通、疾病和杂交都可能限制野猫数量，气候变化也是如此。"
+    },
+    {
+      "id": 214,
+      "startMs": 1197780,
+      "endMs": 1203780,
+      "en": "The new national strategy aims to spread the risk by having wildcat populations in multiple areas.",
+      "zh": "新的国家战略旨在让多个地区都拥有野猫种群，从而分散风险。"
+    },
+    {
+      "id": 215,
+      "startMs": 1204100,
+      "endMs": 1210500,
+      "en": "Dr. Helen Senn, head of conservation and science at the Royal Zoological Society of Scotland, explains.",
+      "zh": "苏格兰皇家动物学会保护与科学部门负责人海伦·森博士对此作出解释。"
+    },
+    {
+      "id": 216,
+      "startMs": 1210900,
+      "endMs": 1213780,
+      "en": "The plan is to find new release sites for this species.",
+      "zh": "计划是为这个物种寻找新的放归地点。"
+    },
+    {
+      "id": 217,
+      "startMs": 1214180,
+      "endMs": 1220820,
+      "en": "We've had some really big climate incidents here in the Strath over the last couple of years, including major storms and flooding incidents.",
+      "zh": "过去几年，这里的斯特拉思地区发生过一些重大的气候事件，包括猛烈风暴和洪水。"
+    },
+    {
+      "id": 218,
+      "startMs": 1220980,
+      "endMs": 1225540,
+      "en": "We've also had, unfortunately, a very significant forest fire in the north of the release area.",
+      "zh": "遗憾的是，放归区北部还发生过一场非常严重的森林火灾。"
+    },
+    {
+      "id": 219,
+      "startMs": 1226040,
+      "endMs": 1228840,
+      "en": "All of these things have the potential to impact the population.",
+      "zh": "所有这些因素都可能影响种群。"
+    },
+    {
+      "id": 220,
+      "startMs": 1229080,
+      "endMs": 1234120,
+      "en": "Even after they're released, the wildcats now roaming the Cairngorms continue to be monitored.",
+      "zh": "即使被放归后，如今在凯恩戈姆山脉漫游的野猫仍会继续接受监测。"
+    },
+    {
+      "id": 221,
+      "startMs": 1234680,
+      "endMs": 1239160,
+      "en": "A tracker on a collar, which will eventually drop off, sends back information.",
+      "zh": "项圈上的追踪器会持续回传信息，最终会自动脱落。"
+    },
+    {
+      "id": 222,
+      "startMs": 1239960,
+      "endMs": 1246760,
+      "en": "The hope is that in years to come, this precious and elusive species of cat will, with a little help,",
+      "zh": "希望未来几年，这种珍贵而难以捉摸的猫科动物在一点帮助下，"
+    },
+    {
+      "id": 223,
+      "startMs": 1247240,
+      "endMs": 1251480,
+      "en": "make its home not just here in the Cairngorms, but throughout Scotland.",
+      "zh": "不仅能在凯恩戈姆山脉安家，还能遍布苏格兰。"
+    },
+    {
+      "id": 224,
+      "startMs": 1253860,
+      "endMs": 1256420,
+      "en": "That report by our Scotland correspondent, Lorna Gordon.",
+      "zh": "以上报道来自我们的苏格兰记者洛娜·戈登。"
+    },
+    {
+      "id": 225,
+      "startMs": 1259040,
+      "endMs": 1261840,
+      "en": "And that's all from us for now, but we'll be back very soon.",
+      "zh": "以上就是目前的全部内容，我们很快会再见。"
+    },
+    {
+      "id": 226,
+      "startMs": 1261840,
+      "endMs": 1263840,
+      "en": "If you want to get in touch, you can email us at",
+      "zh": "如果你想联系我们，可以发送邮件至"
+    },
+    {
+      "id": 227,
+      "startMs": 1265040,
+      "endMs": 1272800,
+      "en": "globalpodcast@bbc.co.uk, and you can also watch our episodes in full by searching for the Global News Podcast on YouTube.",
+      "zh": "globalpodcast@bbc.co.uk；YouTube搜索Global News Podcast看完整节目。"
+    },
+    {
+      "id": 228,
+      "startMs": 1273280,
+      "endMs": 1276560,
+      "en": "This edition was mixed by Robin Schroeder and produced by Adrian White.",
+      "zh": "本期节目由罗宾·施罗德混音，阿德里安·怀特制作。"
+    },
+    {
+      "id": 229,
+      "startMs": 1276640,
+      "endMs": 1280960,
+      "en": "Our editor is Karen Martin. I'm Oliver Conway. Until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁。我是奥利弗·康威。下次再见。"
+    }
+  ]
+}
