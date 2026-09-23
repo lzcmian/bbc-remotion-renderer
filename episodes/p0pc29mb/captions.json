@@ -1,0 +1,1964 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "23 September 2026"
+  },
+  "durationMs": 1499540,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4160,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是BBC世界服务部的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 6360,
+      "endMs": 11880,
+      "en": "Hello, I'm Oliver Conway. We're recording this at 14:00 GMT on Wednesday, the 23rd of September.",
+      "zh": "你好，我是奥利弗·康韦。现在是格林尼治时间9月23日星期三14点，我们正在录制本节目。"
+    },
+    {
+      "id": 3,
+      "startMs": 12280,
+      "endMs": 17960,
+      "en": "Gunmen kill 11 people at a house party near Durban as South Africa struggles to combat violent crime.",
+      "zh": "南非努力打击暴力犯罪之际，枪手在德班附近一场聚会上杀死11人。"
+    },
+    {
+      "id": 4,
+      "startMs": 18520,
+      "endMs": 28840,
+      "en": "Fears of a return to civil war in Ethiopia as Tigrayan fighters battle government forces. And the head of the IMF warns advanced economies to reduce their debt burdens.",
+      "zh": "提格雷武装与政府军交战，人们担心埃塞俄比亚会重返内战。国际货币基金组织负责人警告发达经济体降低债务负担。"
+    },
+    {
+      "id": 5,
+      "startMs": 28840,
+      "endMs": 33000,
+      "en": "And the archaeologists hoping to search for the tomb of Egyptian Queen Nefertiti.",
+      "zh": "还将报道希望寻找埃及女王奈菲尔提蒂陵墓的考古学家。"
+    },
+    {
+      "id": 6,
+      "startMs": 38720,
+      "endMs": 44080,
+      "en": "South Africa has one of the highest murder rates in the world, with around 60 people killed every day.",
+      "zh": "南非是世界上谋杀率最高的国家之一，每天约有60人被杀。"
+    },
+    {
+      "id": 7,
+      "startMs": 44400,
+      "endMs": 53440,
+      "en": "In one particularly deadly incident on Tuesday night, gunmen attacked a house party in a township outside Durban, killing 11 people, including a pregnant woman.",
+      "zh": "周二晚一起特别致命的事件中，枪手袭击了德班郊外小镇的一场聚会，造成11人死亡，其中包括一名孕妇。"
+    },
+    {
+      "id": 8,
+      "startMs": 53760,
+      "endMs": 57040,
+      "en": "I heard more from our correspondent in Johannesburg, Pumza Fihlani.",
+      "zh": "我从驻约翰内斯堡记者普姆扎·菲赫拉尼那里了解了更多情况。"
+    },
+    {
+      "id": 9,
+      "startMs": 57360,
+      "endMs": 62880,
+      "en": "The police have said, Oliver, that it's still very early in their investigation, but they are also following a lead.",
+      "zh": "奥利弗，警方表示调查还处于非常早期阶段，但他们也在追查一条线索。"
+    },
+    {
+      "id": 10,
+      "startMs": 63280,
+      "endMs": 69200,
+      "en": "Some of the victims, they say, had been on their crime watchlist.",
+      "zh": "据警方称，部分受害者曾在警方的犯罪监视名单上。"
+    },
+    {
+      "id": 11,
+      "startMs": 69280,
+      "endMs": 74400,
+      "en": "They are saying this may mean that there was a rival feud involved that was behind the killing.",
+      "zh": "他们说，这可能意味着此次杀戮背后存在敌对争斗。"
+    },
+    {
+      "id": 12,
+      "startMs": 74640,
+      "endMs": 78400,
+      "en": "It's something that's not that widely common in South Africa, mass shootings.",
+      "zh": "大规模枪击在南非并不常见。"
+    },
+    {
+      "id": 13,
+      "startMs": 78640,
+      "endMs": 86400,
+      "en": "Although the murder rate is high, it does still shock a lot of people in this country to see mass shootings happen anywhere.",
+      "zh": "虽然谋杀率很高，但看到任何地方发生大规模枪击，仍会让这个国家的许多人感到震惊。"
+    },
+    {
+      "id": 14,
+      "startMs": 86800,
+      "endMs": 92560,
+      "en": "But KZN, KwaZulu-Natal, that area where that happened in, there's just another insight that's important to share there.",
+      "zh": "但在发生枪击的夸祖鲁-纳塔尔省，还有一个重要情况值得分享。"
+    },
+    {
+      "id": 15,
+      "startMs": 92800,
+      "endMs": 100340,
+      "en": "It's a place where murder for hire is rife, the police have said, so they're also looking at whether that was behind the motive.",
+      "zh": "警方说，这里雇凶杀人现象猖獗，因此他们也在调查这是否是作案动机。"
+    },
+    {
+      "id": 16,
+      "startMs": 100340,
+      "endMs": 104740,
+      "en": "Whether somebody paid these gunmen to carry out the shooting last night.",
+      "zh": "也就是是否有人付钱让这些枪手实施昨晚的枪击。"
+    },
+    {
+      "id": 17,
+      "startMs": 105060,
+      "endMs": 110980,
+      "en": "Yeah, and tell us more about the high levels of violent crime that are affecting South Africa at the moment.",
+      "zh": "那么，请再谈谈目前影响南非的高水平暴力犯罪。"
+    },
+    {
+      "id": 18,
+      "startMs": 111460,
+      "endMs": 115460,
+      "en": "Certainly, it has one of the highest violent crime rates in the world.",
+      "zh": "当然，南非的暴力犯罪率位居世界最高之列。"
+    },
+    {
+      "id": 19,
+      "startMs": 115460,
+      "endMs": 123140,
+      "en": "The murder rate continues to be something that's very difficult for the authorities, from the government to the police, to get a handle on.",
+      "zh": "谋杀率持续成为政府到警方都难以控制的问题。"
+    },
+    {
+      "id": 20,
+      "startMs": 123460,
+      "endMs": 130980,
+      "en": "It's something that South Africans are widely concerned about, and that prosecution rate, they've said, isn't as high as it can be.",
+      "zh": "南非人普遍对此感到担忧，他们说，检控率并没有达到应有的水平。"
+    },
+    {
+      "id": 21,
+      "startMs": 131220,
+      "endMs": 136980,
+      "en": "It takes very long for cases to get through the courts, and in some instances for even arrests to happen.",
+      "zh": "案件进入法院需要很长时间，有些情况下甚至要等很久才会逮捕。"
+    },
+    {
+      "id": 22,
+      "startMs": 136980,
+      "endMs": 144100,
+      "en": "But it is something that is front of mind for a lot of South Africans because of how prevalent it is and just how widespread.",
+      "zh": "但这是许多南非人最关心的问题，因为它如此普遍、影响如此广泛。"
+    },
+    {
+      "id": 23,
+      "startMs": 144100,
+      "endMs": 150260,
+      "en": "There isn't one specific area, Oliver, that you can zero in on and say if we solve it here, it goes away everywhere.",
+      "zh": "奥利弗，这并非某一个具体地区的问题，你不能说只要在这里解决，其他地方就会消失。"
+    },
+    {
+      "id": 24,
+      "startMs": 150500,
+      "endMs": 153780,
+      "en": "It happens in each province and for various reasons.",
+      "zh": "它在每个省都会发生，原因也各不相同。"
+    },
+    {
+      "id": 25,
+      "startMs": 153780,
+      "endMs": 158420,
+      "en": "But the police have said that they are trying their level best in terms of renewing their training.",
+      "zh": "但警方表示，他们正在尽最大努力更新培训。"
+    },
+    {
+      "id": 26,
+      "startMs": 158360,
+      "endMs": 163080,
+      "en": "And getting as much resources as needed so they can get a handle on the situation.",
+      "zh": "并获得所需的资源，以控制住局面。"
+    },
+    {
+      "id": 27,
+      "startMs": 163240,
+      "endMs": 167000,
+      "en": "Yeah, the government even sent in the army earlier this year.",
+      "zh": "是的，政府甚至在今年早些时候派遣了军队。"
+    },
+    {
+      "id": 28,
+      "startMs": 167000,
+      "endMs": 168600,
+      "en": "Is there anything more they can do?",
+      "zh": "还有什么他们能做的吗？"
+    },
+    {
+      "id": 29,
+      "startMs": 168920,
+      "endMs": 171400,
+      "en": "That should tell you how serious of a problem it is.",
+      "zh": "这应该告诉你问题有多严重。"
+    },
+    {
+      "id": 30,
+      "startMs": 171480,
+      "endMs": 181560,
+      "en": "We don't see the army on the streets of South Africa often. They only are ever called in when there's been a spike, really, and they're there to help the police effect arrests.",
+      "zh": "我们很少在南非街头看到军队。只有在犯罪激增时，他们才会被召集来帮助警方实施逮捕。"
+    },
+    {
+      "id": 31,
+      "startMs": 181560,
+      "endMs": 185080,
+      "en": "So they don't effect arrests themselves, but they're there as extra backup.",
+      "zh": "他们自己不执行逮捕，而是作为额外支援。"
+    },
+    {
+      "id": 32,
+      "startMs": 185240,
+      "endMs": 190840,
+      "en": "There are certain parts of the country where even the police themselves cannot just willingly go in.",
+      "zh": "因为该国一些地区连警方都不能随意进入。"
+    },
+    {
+      "id": 33,
+      "startMs": 190840,
+      "endMs": 199880,
+      "en": "They need that added support in terms of gunfire. And we see in areas where that does happen, there is temporarily a reduction of violent crime.",
+      "zh": "他们需要这种额外的火力支援。在确实发生这种情况的地区，我们看到暴力犯罪暂时减少。"
+    },
+    {
+      "id": 34,
+      "startMs": 200200,
+      "endMs": 202120,
+      "en": "Pumza Fihlani in Johannesburg.",
+      "zh": "约翰内斯堡的普姆扎·菲赫拉尼。"
+    },
+    {
+      "id": 35,
+      "startMs": 202900,
+      "endMs": 207860,
+      "en": "The head of the International Monetary Fund has warned advanced economies to cut their borrowing.",
+      "zh": "国际货币基金组织负责人警告，发达经济体应削减借款。"
+    },
+    {
+      "id": 36,
+      "startMs": 208340,
+      "endMs": 212820,
+      "en": "Kristalina Georgieva said debt levels had been pushed up by global shocks,",
+      "zh": "克里斯塔利娜·格奥尔基耶娃说，全球冲击推高了债务水平，"
+    },
+    {
+      "id": 37,
+      "startMs": 213060,
+      "endMs": 216340,
+      "en": "but governments hadn't done enough to tackle the spiralling cost of interest.",
+      "zh": "但各国政府还没有采取足够措施，应对不断攀升的利息成本。"
+    },
+    {
+      "id": 38,
+      "startMs": 216740,
+      "endMs": 220500,
+      "en": "She spoke to our economics editor Faisal Islam at the UN General Assembly.",
+      "zh": "她在联合国大会期间接受了本台经济编辑费萨尔·伊斯兰的采访。"
+    },
+    {
+      "id": 39,
+      "startMs": 220820,
+      "endMs": 226820,
+      "en": "Our message to everybody is: you cannot control exogenous factors,",
+      "zh": "我们要传达给所有人的信息是：你们无法控制外部因素，"
+    },
+    {
+      "id": 40,
+      "startMs": 227380,
+      "endMs": 231140,
+      "en": "but you have control over your domestic policies.",
+      "zh": "但你们可以控制自己的国内政策。"
+    },
+    {
+      "id": 41,
+      "startMs": 231300,
+      "endMs": 234420,
+      "en": "So make sure you stay ahead of inflation, keep inflation back,",
+      "zh": "所以要确保走在通胀前面，把通胀压下去，"
+    },
+    {
+      "id": 42,
+      "startMs": 234740,
+      "endMs": 242100,
+      "en": "and governments need to get on top of their debt issue.",
+      "zh": "各国政府还需要妥善处理债务问题。"
+    },
+    {
+      "id": 43,
+      "startMs": 242180,
+      "endMs": 251160,
+      "en": "I have seen shock after shock pushing debt levels up like a staircase,",
+      "zh": "我看到一次又一次的冲击，把债务水平像楼梯一样推高，"
+    },
+    {
+      "id": 44,
+      "startMs": 251640,
+      "endMs": 258360,
+      "en": "not to heaven, and no action to contain the debt-service costs.",
+      "zh": "它并没有通向天堂，而且没有采取行动控制债务偿付成本。"
+    },
+    {
+      "id": 45,
+      "startMs": 258680,
+      "endMs": 260360,
+      "en": "So time to take that action.",
+      "zh": "所以，是时候采取行动了。"
+    },
+    {
+      "id": 46,
+      "startMs": 261000,
+      "endMs": 264840,
+      "en": "You are the world's financial and fiscal watchdog.",
+      "zh": "你们是全世界的金融和财政监督者。"
+    },
+    {
+      "id": 47,
+      "startMs": 264920,
+      "endMs": 270520,
+      "en": "You mark the homework, if you like, of entire governments, especially at times like this.",
+      "zh": "如果你愿意这么说，你们是在给各国政府批改作业，尤其是在这样的时刻。"
+    },
+    {
+      "id": 48,
+      "startMs": 271160,
+      "endMs": 279000,
+      "en": "There's been a government bond-market borrowing shock, frankly, over the summer, affecting the biggest nations in the world.",
+      "zh": "坦率地说，今年夏天政府债券市场出现了借款冲击，影响了世界上最大的几个国家。"
+    },
+    {
+      "id": 49,
+      "startMs": 279080,
+      "endMs": 283080,
+      "en": "The policy advice you're saying quite clearly is to respond to this shock with lower borrowing,",
+      "zh": "你明确提出的政策建议是，以减少借款来应对这次冲击，"
+    },
+    {
+      "id": 50,
+      "startMs": 283480,
+      "endMs": 286920,
+      "en": "potentially lower spending, potentially tax rises?",
+      "zh": "也可以减少支出，或者提高税收？"
+    },
+    {
+      "id": 51,
+      "startMs": 287080,
+      "endMs": 291480,
+      "en": "So there are these two things that must be done:",
+      "zh": "所以有两件事必须做到："
+    },
+    {
+      "id": 52,
+      "startMs": 291800,
+      "endMs": 297560,
+      "en": "bring debt levels down, put fiscal consolidation as a priority,",
+      "zh": "降低债务水平，把财政整顿放在首位，"
+    },
+    {
+      "id": 53,
+      "startMs": 297800,
+      "endMs": 303640,
+      "en": "and make sure that the central banks deliver on their mandate for price stability.",
+      "zh": "并确保各国央行履行维持价格稳定的职责。"
+    },
+    {
+      "id": 54,
+      "startMs": 303640,
+      "endMs": 306200,
+      "en": "IMF boss Kristalina Georgieva.",
+      "zh": "国际货币基金组织负责人克里斯塔利娜·格奥尔基耶娃。"
+    },
+    {
+      "id": 55,
+      "startMs": 306620,
+      "endMs": 309500,
+      "en": "Listening to that was our business reporter Ijeoma Ndukaife.",
+      "zh": "本台商业记者伊杰奥玛·恩杜凯费听取了这段采访。"
+    },
+    {
+      "id": 56,
+      "startMs": 309500,
+      "endMs": 313500,
+      "en": "I asked her first why debt costs were so high at the moment.",
+      "zh": "我先问她，为什么目前债务成本如此之高。"
+    },
+    {
+      "id": 57,
+      "startMs": 313740,
+      "endMs": 321020,
+      "en": "The war in Iran has certainly exacerbated this issue because it's disrupted the supply of oil.",
+      "zh": "伊朗战争确实加剧了这个问题，因为它扰乱了石油供应。"
+    },
+    {
+      "id": 58,
+      "startMs": 321340,
+      "endMs": 326700,
+      "en": "Of course, we've been hearing so much about the Strait of Hormuz and its blockade,",
+      "zh": "当然，我们一直听到许多关于霍尔木兹海峡及其封锁的消息，"
+    },
+    {
+      "id": 59,
+      "startMs": 327020,
+      "endMs": 335100,
+      "en": "and because it's restricted the flow of oil reaching international markets, that in turn has fuelled inflation,",
+      "zh": "由于这限制了流向国际市场的石油，这又推高了通胀，"
+    },
+    {
+      "id": 60,
+      "startMs": 335420,
+      "endMs": 338780,
+      "en": "which means government borrowing costs have gone up.",
+      "zh": "这意味着政府的借款成本上升了。"
+    },
+    {
+      "id": 61,
+      "startMs": 339020,
+      "endMs": 345420,
+      "en": "As you know, the government uses tools to bring down inflation, and one key tool is raising interest rates,",
+      "zh": "正如你所知，政府会采取措施降低通胀，其中一个关键手段就是提高利率，"
+    },
+    {
+      "id": 62,
+      "startMs": 345500,
+      "endMs": 349660,
+      "en": "and that makes it more expensive to borrow,",
+      "zh": "这会让借款变得更加昂贵，"
+    },
+    {
+      "id": 63,
+      "startMs": 349900,
+      "endMs": 353740,
+      "en": "and that in turn makes it more expensive for governments to service their debt.",
+      "zh": "进而让政府偿还债务的成本更高。"
+    },
+    {
+      "id": 64,
+      "startMs": 353740,
+      "endMs": 361500,
+      "en": "So, in the UK, for example, interest on government debt in August was the highest figure",
+      "zh": "例如在英国，8月的政府债务利息达到最高值，"
+    },
+    {
+      "id": 65,
+      "startMs": 361580,
+      "endMs": 364300,
+      "en": "since monthly records began in 1997.",
+      "zh": "是自1997年开始按月记录以来的最高水平。"
+    },
+    {
+      "id": 66,
+      "startMs": 364700,
+      "endMs": 370800,
+      "en": "And just looking at the US, another advanced economy, borrowing costs pushed up debt to more than",
+      "zh": "再看美国这个发达经济体，借款成本把债务推高到超过"
+    },
+    {
+      "id": 67,
+      "startMs": 370800,
+      "endMs": 375600,
+      "en": "$40 trillion, which has doubled in the space of a decade.",
+      "zh": "40万亿美元；这在十年间翻了一倍。"
+    },
+    {
+      "id": 68,
+      "startMs": 375920,
+      "endMs": 379200,
+      "en": "Okay, so a lot of interest that has to be paid.",
+      "zh": "好，也就是说有大量利息需要支付。"
+    },
+    {
+      "id": 69,
+      "startMs": 379280,
+      "endMs": 382880,
+      "en": "How can governments bring that down and will they take action?",
+      "zh": "政府如何降低这些成本？它们会采取行动吗？"
+    },
+    {
+      "id": 70,
+      "startMs": 382960,
+      "endMs": 388400,
+      "en": "I think one of the things that Ms Georgieva alluded to is this difficulty",
+      "zh": "我认为，格奥尔基耶娃女士提到的问题之一，就是这种困难"
+    },
+    {
+      "id": 71,
+      "startMs": 388400,
+      "endMs": 393520,
+      "en": "politically with trying to cut spending. I mean, what do governments cut?",
+      "zh": "在政治上削减支出很困难。我的意思是，政府要削减什么？"
+    },
+    {
+      "id": 72,
+      "startMs": 393920,
+      "endMs": 398640,
+      "en": "Here in the UK, we're expecting Prime Minister Andy Burnham's first budget next month,",
+      "zh": "在英国，我们预计首相安迪·伯纳姆的首份预算将在下月公布，"
+    },
+    {
+      "id": 73,
+      "startMs": 398640,
+      "endMs": 404800,
+      "en": "and speculation is already building over his tax policy and what spending policies will be.",
+      "zh": "外界已经开始猜测他的税收政策和支出政策会是什么。"
+    },
+    {
+      "id": 74,
+      "startMs": 405200,
+      "endMs": 412800,
+      "en": "I mean, the key thing here is that governments need to bring down their debt levels, and to do that, they have to cut government spending.",
+      "zh": "关键在于，各国政府需要降低债务水平，而这就必须削减政府支出。"
+    },
+    {
+      "id": 75,
+      "startMs": 412880,
+      "endMs": 420240,
+      "en": "She also talked about central banks stabilizing prices, which could mean raising interest even further, which isn't popular.",
+      "zh": "她还谈到央行稳定价格，这可能意味着进一步加息，而这并不受欢迎。"
+    },
+    {
+      "id": 76,
+      "startMs": 420320,
+      "endMs": 422880,
+      "en": "That means mortgage rates going up even more.",
+      "zh": "这意味着抵押贷款利率还会进一步上升。"
+    },
+    {
+      "id": 77,
+      "startMs": 423200,
+      "endMs": 426320,
+      "en": "Another mechanism is policy reform that encourages",
+      "zh": "另一个办法是通过政策改革，鼓励"
+    },
+    {
+      "id": 78,
+      "startMs": 426660,
+      "endMs": 433700,
+      "en": "the private sector to come in and invest, because governments simply don't have the cash to boost economic growth.",
+      "zh": "私营部门进入并投资，因为政府根本没有资金推动经济增长。"
+    },
+    {
+      "id": 79,
+      "startMs": 434180,
+      "endMs": 442100,
+      "en": "The IMF boss also warned about AI, huge amounts of investment going in, and the possible disruption it can cause.",
+      "zh": "国际货币基金组织负责人还警告了人工智能：大量资金正在涌入，而它可能造成颠覆性影响。"
+    },
+    {
+      "id": 80,
+      "startMs": 442500,
+      "endMs": 447460,
+      "en": "How worried should we be that a possible AI bubble could burst?",
+      "zh": "我们应该多担心人工智能泡沫可能破裂？"
+    },
+    {
+      "id": 81,
+      "startMs": 447460,
+      "endMs": 453140,
+      "en": "There are still concerns that companies might not—you know, investors might not realize",
+      "zh": "人们仍担心企业可能——你知道，投资者可能无法实现"
+    },
+    {
+      "id": 82,
+      "startMs": 453220,
+      "endMs": 458020,
+      "en": "the returns expected from investment in artificial intelligence,",
+      "zh": "人工智能投资所预期的回报，"
+    },
+    {
+      "id": 83,
+      "startMs": 458020,
+      "endMs": 464100,
+      "en": "because we've been seeing so much money funneled into developing the infrastructure,",
+      "zh": "因为我们看到大量资金被投入基础设施建设，"
+    },
+    {
+      "id": 84,
+      "startMs": 464420,
+      "endMs": 466500,
+      "en": "building things like data centers.",
+      "zh": "比如建设数据中心。"
+    },
+    {
+      "id": 85,
+      "startMs": 466500,
+      "endMs": 473860,
+      "en": "So there are concerns that perhaps the industry has exaggerated their abilities to boost their performance and profit.",
+      "zh": "所以有人担心，这个行业或许夸大了自身提升表现和利润的能力。"
+    },
+    {
+      "id": 86,
+      "startMs": 474100,
+      "endMs": 477860,
+      "en": "That's something we'll have to wait and see. Business reporter Ijeoma Ndukaife.",
+      "zh": "这还有待观察。本台商业记者伊杰奥玛·恩杜凯费。"
+    },
+    {
+      "id": 87,
+      "startMs": 477860,
+      "endMs": 483620,
+      "en": "Barbie, Saltburn, and Thelma and Louise, all successful films, all written by women.",
+      "zh": "《芭比》《萨特本》和《末路狂花》都是成功的电影，也都是由女性编写的。"
+    },
+    {
+      "id": 88,
+      "startMs": 483940,
+      "endMs": 492580,
+      "en": "A study analysing almost 200,000 films across three decades has found that productions with female screenwriters made higher profits",
+      "zh": "一项分析三十年间近20万部电影的研究发现，有女性编剧参与的作品利润更高，"
+    },
+    {
+      "id": 89,
+      "startMs": 492980,
+      "endMs": 496660,
+      "en": "and yet women remain underrepresented among filmmakers.",
+      "zh": "然而，女性在电影制作人中仍然比例不足。"
+    },
+    {
+      "id": 90,
+      "startMs": 497060,
+      "endMs": 498580,
+      "en": "Ella Bicknell has the details.",
+      "zh": "埃拉·比克内尔报道详情。"
+    },
+    {
+      "id": 91,
+      "startMs": 498660,
+      "endMs": 501620,
+      "en": "Frozen, Avatar: The Way of Water, and Mamma Mia.",
+      "zh": "《冰雪奇缘》《阿凡达：水之道》和《妈妈咪呀》。"
+    },
+    {
+      "id": 92,
+      "startMs": 501780,
+      "endMs": 506500,
+      "en": "Blockbuster films with one thing in common: they were written or directed by women.",
+      "zh": "这些大片有一个共同点：由女性编写或执导。"
+    },
+    {
+      "id": 93,
+      "startMs": 506980,
+      "endMs": 508900,
+      "en": "But such films remain a minority.",
+      "zh": "但这样的电影仍占少数。"
+    },
+    {
+      "id": 94,
+      "startMs": 509140,
+      "endMs": 514580,
+      "en": "Just 27% of those made over the past 30 years had a female director or screenwriter.",
+      "zh": "过去30年制作的电影中，只有27%有女性导演或编剧。"
+    },
+    {
+      "id": 95,
+      "startMs": 514580,
+      "endMs": 523140,
+      "en": "Researchers at the University of Mainz in Germany analysed earnings from the Internet Movie Database, known as IMDb, and concluded",
+      "zh": "德国美因茨大学的研究人员分析了互联网电影数据库（IMDb）的收益，并得出结论："
+    },
+    {
+      "id": 96,
+      "startMs": 523300,
+      "endMs": 525940,
+      "en": "there was no financial logic to the disparity.",
+      "zh": "这种差异没有财务上的合理性。"
+    },
+    {
+      "id": 97,
+      "startMs": 526580,
+      "endMs": 535460,
+      "en": "Among films with similar budgets, those written by women generated 34% higher median profits than those with all-male writing and directing teams.",
+      "zh": "在预算相近的电影中，女性编剧创作的作品，其利润中位数比全男性编剧和导演团队的作品高34%。"
+    },
+    {
+      "id": 98,
+      "startMs": 535860,
+      "endMs": 545240,
+      "en": "Greta Gerwig's Barbie is one example, taking almost $1.5 billion at the global box office, 2023's highest-grossing film.",
+      "zh": "格蕾塔·葛韦格的《芭比》就是一例，全球票房近15亿美元，是2023年票房最高的电影。"
+    },
+    {
+      "id": 99,
+      "startMs": 545400,
+      "endMs": 552600,
+      "en": "If I may be so honoured, to have all the female nominees in every category stand with me in this room tonight.",
+      "zh": "如果允许我这样说，我想请今晚在场的各类别女性提名者都站到我身边。"
+    },
+    {
+      "id": 100,
+      "startMs": 555620,
+      "endMs": 561460,
+      "en": "The filmmakers, the producers, at the 2018 Oscars, Frances McDormand used her best actress speech to call for greater inclusion.",
+      "zh": "在2018年奥斯卡颁奖礼上，演员弗朗西斯·麦克多蒙德在最佳女演员获奖感言中呼吁扩大包容。"
+    },
+    {
+      "id": 101,
+      "startMs": 561460,
+      "endMs": 567460,
+      "en": "Look around, ladies and gentlemen, because we all have stories to tell and projects we need finance.",
+      "zh": "女士们、先生们，请看看周围，因为我们都有故事要讲，也有项目需要资金。"
+    },
+    {
+      "id": 102,
+      "startMs": 567860,
+      "endMs": 571860,
+      "en": "The number of female directors and writers has grown in recent decades,",
+      "zh": "近几十年来，女性导演和编剧的数量有所增加，"
+    },
+    {
+      "id": 103,
+      "startMs": 572180,
+      "endMs": 581460,
+      "en": "but the researchers behind this latest analysis say risk-averse studio financing is enforcing the status quo, even when there's more money to be made.",
+      "zh": "但这项最新分析的研究人员说，即使有更多赚钱机会，规避风险的制片厂融资仍在维持现状。"
+    },
+    {
+      "id": 104,
+      "startMs": 581780,
+      "endMs": 582340,
+      "en": "Ella Bicknell.",
+      "zh": "埃拉·比克内尔。"
+    },
+    {
+      "id": 105,
+      "startMs": 583220,
+      "endMs": 588500,
+      "en": "Archaeologists are trying to get permission to drill into the rock next to the tomb of Tutankhamun.",
+      "zh": "考古学家正试图获准在图坦卡蒙墓旁的岩石上钻孔。"
+    },
+    {
+      "id": 106,
+      "startMs": 589060,
+      "endMs": 592900,
+      "en": "After new surveys suggested there may be other structures hidden behind it.",
+      "zh": "新的勘测显示，墓后可能还隐藏着其他结构。"
+    },
+    {
+      "id": 107,
+      "startMs": 593540,
+      "endMs": 597860,
+      "en": "They hope the chambers may house the tomb of the Egyptian Queen Nefertiti.",
+      "zh": "他们希望这些墓室里可能安葬着埃及女王奈菲尔提蒂。"
+    },
+    {
+      "id": 108,
+      "startMs": 598420,
+      "endMs": 603300,
+      "en": "When Tutankhamun's tomb was found more than a century ago, it contained remarkable treasures.",
+      "zh": "图坦卡蒙的墓在一个多世纪前被发现时，里面藏有非凡的宝藏。"
+    },
+    {
+      "id": 109,
+      "startMs": 603780,
+      "endMs": 607860,
+      "en": "The archaeologist Howard Carter described the moment of discovery to the BBC.",
+      "zh": "考古学家霍华德·卡特向 BBC 描述了发现墓穴的那一刻。"
+    },
+    {
+      "id": 110,
+      "startMs": 608500,
+      "endMs": 614200,
+      "en": "Light shone into the sarcophagus. A gasp of wonderment escaped our lips.",
+      "zh": "光线照进石棺，我们不禁惊叹出声。"
+    },
+    {
+      "id": 111,
+      "startMs": 615000,
+      "endMs": 618760,
+      "en": "So gorgeous was the sight that met our eyes.",
+      "zh": "映入眼帘的景象美得令人惊叹。"
+    },
+    {
+      "id": 112,
+      "startMs": 619320,
+      "endMs": 623320,
+      "en": "This was but the lid of a series of three coffins.",
+      "zh": "这只是一组三层棺椁的棺盖。"
+    },
+    {
+      "id": 113,
+      "startMs": 623880,
+      "endMs": 631000,
+      "en": "Nested one within the other, enclosing the mortal remains of the young King Tutankhamun.",
+      "zh": "棺椁层层相套，里面安放着年轻的图坦卡蒙王的遗骸。"
+    },
+    {
+      "id": 114,
+      "startMs": 631880,
+      "endMs": 634680,
+      "en": "Howard Carter in 1936.",
+      "zh": "霍华德·卡特，1936年。"
+    },
+    {
+      "id": 115,
+      "startMs": 634680,
+      "endMs": 641160,
+      "en": "Bettany Hughes is a historian and author of a new book about Egypt called A History of Egypt in Seven Treasures.",
+      "zh": "贝塔尼·休斯是历史学家，也是新书《埃及史：七件珍宝》的作者。"
+    },
+    {
+      "id": 116,
+      "startMs": 641560,
+      "endMs": 644920,
+      "en": "Sarah Montague asked her if she was excited about this new endeavour.",
+      "zh": "萨拉·蒙塔古问她是否对这项新探索感到兴奋。"
+    },
+    {
+      "id": 117,
+      "startMs": 645160,
+      "endMs": 648680,
+      "en": "I have to say I am constantly excited when it comes to ancient Egypt.",
+      "zh": "我得说，只要谈到古埃及，我总是感到兴奋。"
+    },
+    {
+      "id": 118,
+      "startMs": 649160,
+      "endMs": 653560,
+      "en": "There is definitely something interesting going on here at the back of Tutankhamun's tomb.",
+      "zh": "图坦卡蒙墓的后方确实有一些有趣的情况。"
+    },
+    {
+      "id": 119,
+      "startMs": 653560,
+      "endMs": 659080,
+      "en": "I really just want to qualify: we have no idea whether or not it's Queen Nefertiti.",
+      "zh": "我必须强调，我们完全不知道那里是否是奈菲尔提蒂的墓。"
+    },
+    {
+      "id": 120,
+      "startMs": 659080,
+      "endMs": 662760,
+      "en": "That was something that was posited around ten years ago.",
+      "zh": "这种说法大约在十年前就有人提出过。"
+    },
+    {
+      "id": 121,
+      "startMs": 663080,
+      "endMs": 671400,
+      "en": "It's not impossible, but what is more exciting is that it looks like there are chambers and corridors behind Tutankhamun's resting place.",
+      "zh": "这并非不可能；更令人兴奋的是，图坦卡蒙安息之所后方似乎有墓室和走廊。"
+    },
+    {
+      "id": 122,
+      "startMs": 672060,
+      "endMs": 673580,
+      "en": "And did we not know that before?",
+      "zh": "我们以前不知道这一点吗？"
+    },
+    {
+      "id": 123,
+      "startMs": 674220,
+      "endMs": 680540,
+      "en": "No, we didn't. We didn't. I mean, this is as a result of lots of very cutting-edge techniques.",
+      "zh": "不知道。以前确实不知道。这是许多尖端技术带来的结果。"
+    },
+    {
+      "id": 124,
+      "startMs": 680700,
+      "endMs": 686860,
+      "en": "So it's thermal imaging, ground-penetrating radar, geological mapping, tomography.",
+      "zh": "包括热成像、探地雷达、地质测绘和断层扫描。"
+    },
+    {
+      "id": 125,
+      "startMs": 687100,
+      "endMs": 695340,
+      "en": "So that means that the team working in the tomb have worked out it's not sheer bedrock behind the west wall of the tomb.",
+      "zh": "这意味着，在墓中工作的团队已经确定，墓室西墙后面并非坚硬的基岩。"
+    },
+    {
+      "id": 126,
+      "startMs": 695580,
+      "endMs": 698700,
+      "en": "But there is some kind of ancient structure there.",
+      "zh": "那里确实存在某种古代建筑结构。"
+    },
+    {
+      "id": 127,
+      "startMs": 698700,
+      "endMs": 703180,
+      "en": "And what's brilliant now is that because we can use all these new techniques.",
+      "zh": "现在最棒的是，我们可以运用所有这些新技术。"
+    },
+    {
+      "id": 128,
+      "startMs": 703180,
+      "endMs": 706380,
+      "en": "You can do this kind of work in a completely non-invasive way.",
+      "zh": "我们可以用完全无损的方式进行这类工作。"
+    },
+    {
+      "id": 129,
+      "startMs": 706380,
+      "endMs": 711980,
+      "en": "So you're not chiselling through the back of the beautiful decorations surrounding his sarcophagus.",
+      "zh": "所以，不必凿穿环绕他石棺的精美装饰。"
+    },
+    {
+      "id": 130,
+      "startMs": 712300,
+      "endMs": 715980,
+      "en": "So there is something interesting there. You know, surely.",
+      "zh": "所以那里确实有些有趣的东西。你看，肯定是这样。"
+    },
+    {
+      "id": 131,
+      "startMs": 715980,
+      "endMs": 722860,
+      "en": "Ultimately you do need to sort of make a hole and go in. Not, you know, this is the genius, Sarah. You don't need to now.",
+      "zh": "不过归根结底，你还是得凿个洞进去吧。不必——这正是高明之处，萨拉。现在不用了。"
+    },
+    {
+      "id": 132,
+      "startMs": 722940,
+      "endMs": 731500,
+      "en": "So we can now unwrap whole mummified bodies and look at the amulets left inside the bodies without raising a single bandage.",
+      "zh": "现在我们可以解开完整的木乃伊，查看尸体里的护身符，连一条绷带都不用揭开。"
+    },
+    {
+      "id": 133,
+      "startMs": 731680,
+      "endMs": 738080,
+      "en": "It's the polar opposite of dear Howard Carter and Lord Carnarvon when they did their work 100 years ago.",
+      "zh": "这与亲爱的霍华德·卡特和卡那封勋爵一百年前的做法截然相反。"
+    },
+    {
+      "id": 134,
+      "startMs": 738080,
+      "endMs": 742880,
+      "en": "They basically ripped it all apart. So no, no, no, that's what's truly exciting.",
+      "zh": "他们当时基本上把一切都拆开了。所以不、不、不，真正令人兴奋的正是这一点。"
+    },
+    {
+      "id": 135,
+      "startMs": 742880,
+      "endMs": 748320,
+      "en": "You've just been talking about artificial intelligence, and this is a way that we can use artificial intelligence.",
+      "zh": "你刚才一直在谈人工智能，而我们可以用人工智能。"
+    },
+    {
+      "id": 136,
+      "startMs": 748400,
+      "endMs": 751520,
+      "en": "To uncover ancestral intelligence in these tombs.",
+      "zh": "去揭开这些墓穴中的祖先智慧。"
+    },
+    {
+      "id": 137,
+      "startMs": 751520,
+      "endMs": 759280,
+      "en": "So it really could be possible that this is discovered completely remotely without moving a single brick.",
+      "zh": "所以，确实有可能完全远程发现这一切，不必移动一块砖。"
+    },
+    {
+      "id": 138,
+      "startMs": 759680,
+      "endMs": 768640,
+      "en": "Okay, and you might think this is a bit cheap, but Tutankhamun's tomb, didn't it have an enormous amount of gold treasures inside it?",
+      "zh": "好吧，你可能觉得这样问有点俗，但图坦卡蒙墓里不是有大量黄金宝藏吗？"
+    },
+    {
+      "id": 139,
+      "startMs": 769200,
+      "endMs": 771920,
+      "en": "And aren't people going to be excited at that prospect?",
+      "zh": "想到这一点，人们不是会很兴奋吗？"
+    },
+    {
+      "id": 140,
+      "startMs": 772240,
+      "endMs": 780800,
+      "en": "Oh, 100%. I mean, Tutankhamun's tomb had, at the latest count, 5,398 treasures within it.",
+      "zh": "当然，百分之百。我是说，按最近统计，图坦卡蒙墓里有5398件宝物。"
+    },
+    {
+      "id": 141,
+      "startMs": 780800,
+      "endMs": 785600,
+      "en": "So there was exquisite gold, and there were beautiful games that he used to play with as a child.",
+      "zh": "里面有精美的黄金，还有他小时候玩过的漂亮玩具。"
+    },
+    {
+      "id": 142,
+      "startMs": 785840,
+      "endMs": 794900,
+      "en": "Incredibly touching: his little socks with toes stitched in, duck lunch boxes in case he needed a snack on his way to the afterlife.",
+      "zh": "还有令人动容的物品：缝出脚趾的小袜子，以及他去往来世途中用来装零食的鸭形午餐盒。"
+    },
+    {
+      "id": 143,
+      "startMs": 795060,
+      "endMs": 798820,
+      "en": "So, I mean, it was, you know, it was the most astonishing find.",
+      "zh": "所以，那真是最令人惊叹的发现。"
+    },
+    {
+      "id": 144,
+      "startMs": 798820,
+      "endMs": 804180,
+      "en": "And of course, if there is something new in the Valley of the Kings, it will be game-changing and history-making.",
+      "zh": "当然，如果帝王谷有新的发现，那将改变游戏规则，也会载入史册。"
+    },
+    {
+      "id": 145,
+      "startMs": 804340,
+      "endMs": 807140,
+      "en": "We just don't know whether it's Nefertiti.",
+      "zh": "我们只是还不知道那是否是奈菲尔提蒂。"
+    },
+    {
+      "id": 146,
+      "startMs": 807380,
+      "endMs": 809540,
+      "en": "That's Bettany Hughes talking to Sarah Montague.",
+      "zh": "这是贝塔尼·休斯接受萨拉·蒙塔古采访。"
+    },
+    {
+      "id": 147,
+      "startMs": 812320,
+      "endMs": 816960,
+      "en": "And still to come on this podcast, this planet has literally just formed.",
+      "zh": "本期节目稍后还将介绍一颗刚刚形成的行星。"
+    },
+    {
+      "id": 148,
+      "startMs": 817120,
+      "endMs": 821200,
+      "en": "We normally can't see planets until they're about 10 million years old.",
+      "zh": "通常要等行星形成约一千万年后，我们才能看见它们。"
+    },
+    {
+      "id": 149,
+      "startMs": 821600,
+      "endMs": 826640,
+      "en": "It tells us so much about planet formation: the youngest planet ever discovered.",
+      "zh": "这将告诉我们许多关于行星形成的事情——这是迄今发现的最年轻行星。"
+    },
+    {
+      "id": 150,
+      "startMs": 826640,
+      "endMs": 828800,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 151,
+      "startMs": 828800,
+      "endMs": 836320,
+      "en": "Reports from Ethiopia say local forces in the northern region of Tigray have seized the airport in the regional capital, Mekelle.",
+      "zh": "来自埃塞俄比亚的报道说，北部提格雷地区的地方武装已夺取地区首府默克莱的机场。"
+    },
+    {
+      "id": 152,
+      "startMs": 836320,
+      "endMs": 844880,
+      "en": "The Tigrayan rebels said they were combating an invasion by federal forces, raising fears of a resumption of the two-year civil war in the area",
+      "zh": "提格雷叛军称，他们正在抵抗联邦军队的入侵，引发人们对该地区两年内战可能重燃的担忧，"
+    },
+    {
+      "id": 153,
+      "startMs": 845200,
+      "endMs": 848000,
+      "en": "which left as many as 600,000 people dead.",
+      "zh": "那场内战造成多达60万人死亡。"
+    },
+    {
+      "id": 154,
+      "startMs": 848400,
+      "endMs": 853360,
+      "en": "Catherine Byaruhanga got the latest from our former Ethiopia correspondent, Kalkidan Yibeltal.",
+      "zh": "凯瑟琳·拜亚鲁汉加请我们前埃塞俄比亚记者卡尔基丹·伊贝尔塔尔介绍最新情况。"
+    },
+    {
+      "id": 155,
+      "startMs": 853680,
+      "endMs": 856560,
+      "en": "All flights to and from Tigrayan cities have been suspended.",
+      "zh": "往返提格雷城市的所有航班均已暂停。"
+    },
+    {
+      "id": 156,
+      "startMs": 856960,
+      "endMs": 863520,
+      "en": "The flag carrier Ethiopian Airlines announced this morning that they have suspended all flights to the three major airports in the Tigray region.",
+      "zh": "埃塞俄比亚的旗舰航空公司埃塞俄比亚航空今天早上宣布，已暂停飞往提格雷地区三座主要机场的所有航班。"
+    },
+    {
+      "id": 157,
+      "startMs": 864000,
+      "endMs": 872720,
+      "en": "And, you know, local sources and residents in the city told us that Tigrayan forces have entered into the main airport in Mekelle city",
+      "zh": "当地消息人士和该市居民告诉我们，提格雷武装已经进入默克莱市的主机场，"
+    },
+    {
+      "id": 158,
+      "startMs": 872720,
+      "endMs": 874080,
+      "en": "and, you know, taking control of it.",
+      "zh": "并控制了那里。"
+    },
+    {
+      "id": 159,
+      "startMs": 874480,
+      "endMs": 882560,
+      "en": "That airport had been under the control of a few federal police forces, and it's not clear what happened to these federal police forces.",
+      "zh": "那座机场此前由少数联邦警察部队控制，但目前不清楚这些联邦警察部队发生了什么。"
+    },
+    {
+      "id": 160,
+      "startMs": 882800,
+      "endMs": 892660,
+      "en": "But this signals a major escalation, and it's coming in the backdrop of recent weeks of increasing tensions and increasing instances of drone strikes in Tigray",
+      "zh": "但这标志着局势大幅升级，背景是最近几周提格雷地区的紧张局势加剧、无人机袭击次数增加，"
+    },
+    {
+      "id": 161,
+      "startMs": 892900,
+      "endMs": 894100,
+      "en": "and around Tigray region.",
+      "zh": "以及提格雷地区周边。"
+    },
+    {
+      "id": 162,
+      "startMs": 894500,
+      "endMs": 901220,
+      "en": "And also it happens a few days after seven rebel armed groups have announced that they're forming an alliance",
+      "zh": "此外，这发生在七个叛军武装团体宣布组建联盟几天之后，"
+    },
+    {
+      "id": 163,
+      "startMs": 901780,
+      "endMs": 905060,
+      "en": "in an effort to try to overthrow the government of Prime Minister Abiy Ahmed.",
+      "zh": "它们试图推翻总理阿比·艾哈迈德领导的政府。"
+    },
+    {
+      "id": 164,
+      "startMs": 905220,
+      "endMs": 908660,
+      "en": "And just give us the context of this and why it's so worrying",
+      "zh": "请介绍一下这件事的背景，以及它为何令人如此担忧，"
+    },
+    {
+      "id": 165,
+      "startMs": 908660,
+      "endMs": 915860,
+      "en": "because this comes some four years after the civil war in Tigray, where hundreds of thousands of people were killed.",
+      "zh": "因为这距离提格雷内战已经过去大约四年，那场战争造成数十万人死亡。"
+    },
+    {
+      "id": 166,
+      "startMs": 915860,
+      "endMs": 917140,
+      "en": "This was a brutal conflict.",
+      "zh": "那是一场残酷的冲突。"
+    },
+    {
+      "id": 167,
+      "startMs": 917700,
+      "endMs": 919460,
+      "en": "Yes, it was indeed a brutal conflict",
+      "zh": "是的，那确实是一场残酷的冲突，"
+    },
+    {
+      "id": 168,
+      "startMs": 919540,
+      "endMs": 924580,
+      "en": "and it's one of the most devastating and the deadliest conflicts this century anywhere.",
+      "zh": "也是本世纪任何地方最具破坏性、最致命的冲突之一。"
+    },
+    {
+      "id": 169,
+      "startMs": 924580,
+      "endMs": 928580,
+      "en": "Some estimates put the number of people who were killed in the region at 600,000.",
+      "zh": "一些估计认为，该地区遇难人数达到60万。"
+    },
+    {
+      "id": 170,
+      "startMs": 928580,
+      "endMs": 932100,
+      "en": "That was the civil war in Tigray between 2020 and 2022.",
+      "zh": "那就是2020年至2022年的提格雷内战。"
+    },
+    {
+      "id": 171,
+      "startMs": 932180,
+      "endMs": 939300,
+      "en": "But in late 2022, there was a peace deal signed between Tigrayan forces and the federal government",
+      "zh": "但在2022年年底，提格雷武装与联邦政府签署了一项和平协议，"
+    },
+    {
+      "id": 172,
+      "startMs": 939620,
+      "endMs": 944020,
+      "en": "that silenced the guns. And, you know, normal activities have resumed to the region",
+      "zh": "枪声因此平息。该地区的正常活动也已经恢复，"
+    },
+    {
+      "id": 173,
+      "startMs": 944020,
+      "endMs": 946920,
+      "en": "and it seems that things were returning back to normality.",
+      "zh": "事情似乎正在恢复正常。"
+    },
+    {
+      "id": 174,
+      "startMs": 947240,
+      "endMs": 950920,
+      "en": "However, tensions remained and there were so many unresolved issues.",
+      "zh": "然而，紧张局势仍在，许多问题也没有解决。"
+    },
+    {
+      "id": 175,
+      "startMs": 951320,
+      "endMs": 958120,
+      "en": "In other parts of Ethiopia, there are other conflicts and it seems now that we're seeing all these are converging.",
+      "zh": "埃塞俄比亚其他地区也存在冲突，如今这些冲突似乎正在汇聚到一起。"
+    },
+    {
+      "id": 176,
+      "startMs": 958520,
+      "endMs": 963240,
+      "en": "The Tigrayan forces have repeatedly accused the federal government of breaching that peace deal",
+      "zh": "提格雷武装多次指责联邦政府违反和平协议，"
+    },
+    {
+      "id": 177,
+      "startMs": 963560,
+      "endMs": 967400,
+      "en": "while the federal government says that they are the ones who are breaching the peace deal",
+      "zh": "而联邦政府则称，违反和平协议的恰恰是提格雷武装，"
+    },
+    {
+      "id": 178,
+      "startMs": 967720,
+      "endMs": 974520,
+      "en": "by trying to forge an alliance with other armed actors as well as foreign countries, particularly the northern neighbor Eritrea.",
+      "zh": "因为它们正试图与其他武装力量以及外国结盟，尤其是北方邻国厄立特里亚。"
+    },
+    {
+      "id": 179,
+      "startMs": 974520,
+      "endMs": 977160,
+      "en": "And that was, as you said, very devastating.",
+      "zh": "正如你所说，那非常具有毁灭性。"
+    },
+    {
+      "id": 180,
+      "startMs": 977240,
+      "endMs": 980280,
+      "en": "The humanitarian crisis was very consequential.",
+      "zh": "人道主义危机造成了深远影响。"
+    },
+    {
+      "id": 181,
+      "startMs": 980280,
+      "endMs": 985800,
+      "en": "And if another war of a similar scale were to break out, it's going to be very destabilizing",
+      "zh": "如果再次爆发规模相近的战争，局势将极不稳定，"
+    },
+    {
+      "id": 182,
+      "startMs": 985800,
+      "endMs": 988760,
+      "en": "not only for Ethiopia but for the Horn of Africa region,",
+      "zh": "不仅会影响埃塞俄比亚，也会影响非洲之角地区，"
+    },
+    {
+      "id": 183,
+      "startMs": 988920,
+      "endMs": 993640,
+      "en": "which, as you know, is still, you know, plagued by other conflicts, including in neighboring Sudan.",
+      "zh": "那里仍饱受其他冲突困扰，包括邻国苏丹的冲突。"
+    },
+    {
+      "id": 184,
+      "startMs": 993640,
+      "endMs": 998200,
+      "en": "Our former Ethiopia correspondent, Kalkidan Yibeltal, talking to Catherine Byaruhanga.",
+      "zh": "前埃塞俄比亚记者卡尔基丹·伊贝尔塔尔接受了凯瑟琳·拜亚鲁汉加的采访。"
+    },
+    {
+      "id": 185,
+      "startMs": 998920,
+      "endMs": 1006040,
+      "en": "The civil war that Kalkidan mentioned in Sudan has also affected South Sudan, which split off 15 years ago.",
+      "zh": "卡尔基丹提到的苏丹内战也影响了南苏丹；南苏丹于15年前分离出去。"
+    },
+    {
+      "id": 186,
+      "startMs": 1006540,
+      "endMs": 1014620,
+      "en": "But since it gained independence, South Sudan has also suffered its own civil conflict, as well as widespread corruption and high levels of hunger.",
+      "zh": "但自独立以来，南苏丹也饱受自身内乱之苦，并面临普遍腐败和严重饥饿。"
+    },
+    {
+      "id": 187,
+      "startMs": 1015100,
+      "endMs": 1020860,
+      "en": "Now there is a political row in South Sudan after President Salva Kiir dissolved the government.",
+      "zh": "如今，南苏丹出现政治争端；总统萨尔瓦·基尔解散了政府。"
+    },
+    {
+      "id": 188,
+      "startMs": 1021020,
+      "endMs": 1025020,
+      "en": "And he removed all the vice presidents ahead of the country's first ever elections.",
+      "zh": "他还在该国首次大选前撤换了所有副总统。"
+    },
+    {
+      "id": 189,
+      "startMs": 1025420,
+      "endMs": 1027580,
+      "en": "His actions have been condemned by the opposition.",
+      "zh": "他的行动遭到反对派谴责。"
+    },
+    {
+      "id": 190,
+      "startMs": 1028060,
+      "endMs": 1032140,
+      "en": "South Sudan analyst Daniel Akech Thiong spoke to James Copnall.",
+      "zh": "南苏丹问题分析师丹尼尔·阿凯奇·蒂昂接受了詹姆斯·科普纳尔的采访。"
+    },
+    {
+      "id": 191,
+      "startMs": 1032460,
+      "endMs": 1036380,
+      "en": "We are watching July 2013 repeat itself.",
+      "zh": "我们正看到2013年7月的情形重演。"
+    },
+    {
+      "id": 192,
+      "startMs": 1036620,
+      "endMs": 1039100,
+      "en": "At that time, the president dissolved the whole cabinet.",
+      "zh": "当时，总统解散了整个内阁。"
+    },
+    {
+      "id": 193,
+      "startMs": 1039660,
+      "endMs": 1044060,
+      "en": "Within a few months, after exchanging harsh words with his rivals, the country went into civil war.",
+      "zh": "几个月内，他与对手激烈交锋，该国便陷入内战。"
+    },
+    {
+      "id": 194,
+      "startMs": 1044700,
+      "endMs": 1052940,
+      "en": "The 2018 peace agreement was the only guardrail against the absolute presidential powers hidden in the transitional constitutions of 2011.",
+      "zh": "2018年和平协议，是制约2011年过渡宪法所隐藏的总统绝对权力的唯一护栏。"
+    },
+    {
+      "id": 195,
+      "startMs": 1052940,
+      "endMs": 1059900,
+      "en": "So the parliament just stripped those guardrails away.",
+      "zh": "因此，议会刚刚拆除了这些护栏。"
+    },
+    {
+      "id": 196,
+      "startMs": 1060140,
+      "endMs": 1067120,
+      "en": "And allowed the president to legally purge his rivals and install a caretaker government of loyalists.",
+      "zh": "这让总统得以合法清洗对手，并建立一个由亲信组成的看守政府。"
+    },
+    {
+      "id": 197,
+      "startMs": 1067360,
+      "endMs": 1068960,
+      "en": "In a badly divided country.",
+      "zh": "而这个国家已经严重分裂。"
+    },
+    {
+      "id": 198,
+      "startMs": 1069360,
+      "endMs": 1072160,
+      "en": "So is that the concern then, a return to outright war?",
+      "zh": "所以，令人担忧的是会重新陷入全面战争吗？"
+    },
+    {
+      "id": 199,
+      "startMs": 1072160,
+      "endMs": 1077040,
+      "en": "Because there have been successive waves of conflict, power dynamics have shifted.",
+      "zh": "因为冲突一波接一波，权力格局已经发生变化。"
+    },
+    {
+      "id": 200,
+      "startMs": 1077040,
+      "endMs": 1085280,
+      "en": "You could argue the rebels are not as strong militarily as before, and people are fed up with fighting and the need for more conflict.",
+      "zh": "可以说，叛军已不如从前强大，民众也厌倦了战斗，不需要更多冲突。"
+    },
+    {
+      "id": 201,
+      "startMs": 1085520,
+      "endMs": 1089120,
+      "en": "You though seem to think that South Sudan could be heading back down that path.",
+      "zh": "但你似乎认为，南苏丹可能正走回那条路。"
+    },
+    {
+      "id": 202,
+      "startMs": 1090080,
+      "endMs": 1091840,
+      "en": "Yes, but that needs to be nuanced.",
+      "zh": "是的，但这需要更细致地看。"
+    },
+    {
+      "id": 203,
+      "startMs": 1092000,
+      "endMs": 1097440,
+      "en": "First is that the caretaker trap we are seeing now, it is a brilliantly engineered trap.",
+      "zh": "首先，我们现在看到的看守政府陷阱，是一个精心设计的陷阱。"
+    },
+    {
+      "id": 204,
+      "startMs": 1097600,
+      "endMs": 1108080,
+      "en": "That's how opposition and civil actors would see it. With absolute state control, the president's faction cannot lose even in elections.",
+      "zh": "反对派和公民社会人士会这样看：总统阵营绝对控制着国家机器，即使举行选举也不会输。"
+    },
+    {
+      "id": 205,
+      "startMs": 1108400,
+      "endMs": 1112400,
+      "en": "And I will say momentarily why that election might not be possible.",
+      "zh": "我马上会解释为什么那场选举可能无法举行。"
+    },
+    {
+      "id": 206,
+      "startMs": 1112720,
+      "endMs": 1116240,
+      "en": "And they will either push through a tightly controlled election and win it.",
+      "zh": "他们要么强行推动一场严密控制的选举并赢下它。"
+    },
+    {
+      "id": 207,
+      "startMs": 1116480,
+      "endMs": 1122880,
+      "en": "So that leaves no room for the opposition and other groups that want to participate in the democratic process.",
+      "zh": "这就不给反对派及其他希望参与民主进程的团体留下空间。"
+    },
+    {
+      "id": 208,
+      "startMs": 1123200,
+      "endMs": 1129940,
+      "en": "They could also cite logistical failures, which are known to everyone, to indefinitely extend this new loyalist mandate.",
+      "zh": "他们还可以以人人都知道的后勤问题为由，无限期延长这个新的亲信政府任期。"
+    },
+    {
+      "id": 209,
+      "startMs": 1129940,
+      "endMs": 1132100,
+      "en": "It is a win-win for the executive.",
+      "zh": "这对行政部门来说是双赢。"
+    },
+    {
+      "id": 210,
+      "startMs": 1132340,
+      "endMs": 1139380,
+      "en": "And a disaster for the transition, because it would exacerbate an existing conflict in the country, or it could make things even worse.",
+      "zh": "但对过渡进程却是灾难，因为这会加剧该国已有的冲突，甚至让局势恶化。"
+    },
+    {
+      "id": 211,
+      "startMs": 1139780,
+      "endMs": 1142660,
+      "en": "So that could lead to a return to more violence.",
+      "zh": "所以，这可能导致暴力再次增加。"
+    },
+    {
+      "id": 212,
+      "startMs": 1142980,
+      "endMs": 1145700,
+      "en": "Daniel Akech Thiong of the International Crisis Group.",
+      "zh": "国际危机组织的丹尼尔·阿凯奇·蒂昂。"
+    },
+    {
+      "id": 213,
+      "startMs": 1146800,
+      "endMs": 1152640,
+      "en": "When Dolly Parton died last month at the age of 80, the news was announced by her nephew Brian Seaver.",
+      "zh": "多莉·帕顿上月去世，享年80岁；消息由她的侄子布赖恩·西弗宣布。"
+    },
+    {
+      "id": 214,
+      "startMs": 1153040,
+      "endMs": 1157840,
+      "en": "He worked as the singer's head of security for more than two decades, taking over from his father.",
+      "zh": "他担任这位歌手的安保主管超过20年，接替了自己的父亲。"
+    },
+    {
+      "id": 215,
+      "startMs": 1158480,
+      "endMs": 1164480,
+      "en": "But now Dolly Parton's longtime manager has requested a restraining order against him in a growing row over the estate.",
+      "zh": "但现在，多莉·帕顿的长期经理因遗产纠纷升级，申请了针对他的限制令。"
+    },
+    {
+      "id": 216,
+      "startMs": 1164880,
+      "endMs": 1167600,
+      "en": "Our music correspondent Mark Savage told us more.",
+      "zh": "我们的音乐记者马克·萨维奇介绍了更多情况。"
+    },
+    {
+      "id": 217,
+      "startMs": 1167760,
+      "endMs": 1174160,
+      "en": "These were court papers filed in Nashville yesterday and they accuse Brian Seaver, Dolly Parton's nephew.",
+      "zh": "这些是昨天在纳什维尔提交的法庭文件，指控多莉·帕顿的侄子布赖恩·西弗。"
+    },
+    {
+      "id": 218,
+      "startMs": 1174480,
+      "endMs": 1180000,
+      "en": "Of what they call an intense and escalating campaign of threats against the estate.",
+      "zh": "文件称，他对遗产发起了激烈且不断升级的威胁行动。"
+    },
+    {
+      "id": 219,
+      "startMs": 1180400,
+      "endMs": 1185840,
+      "en": "And there are emails and text messages included in the court papers which appear to show him threatening",
+      "zh": "法庭文件还收录了电子邮件和短信，看起来显示他在威胁"
+    },
+    {
+      "id": 220,
+      "startMs": 1185920,
+      "endMs": 1190240,
+      "en": "Threatening the people who are looking after Dolly Parton's legacy.",
+      "zh": "负责照料多莉·帕顿遗产的人。"
+    },
+    {
+      "id": 221,
+      "startMs": 1190240,
+      "endMs": 1194640,
+      "en": "He says he will launch a podcast dedicated to ruining Dolly's brand.",
+      "zh": "他说将推出一档专门毁掉多莉品牌的播客。"
+    },
+    {
+      "id": 222,
+      "startMs": 1194960,
+      "endMs": 1201360,
+      "en": "He calls himself the hand of retribution for the Parton family and he says everyone needs to be worried.",
+      "zh": "他自称帕顿家族的复仇之手，并说所有人都该担心。"
+    },
+    {
+      "id": 223,
+      "startMs": 1201360,
+      "endMs": 1210260,
+      "en": "Now he has disputed his characterization in the lawsuit. He says that these messages were taken out of context and nothing that he said was a threat.",
+      "zh": "现在，他否认诉讼中的这种描述。他说这些信息被断章取义，他说的没有一句是威胁。"
+    },
+    {
+      "id": 224,
+      "startMs": 1210660,
+      "endMs": 1218420,
+      "en": "In a statement to TMZ, he said a lot of the messages are two guys rage talking and crying on the phone together while they were grieving.",
+      "zh": "他在给TMZ的声明中说，许多信息只是两个人在哀悼时通电话，情绪激动、边哭边说。"
+    },
+    {
+      "id": 225,
+      "startMs": 1218820,
+      "endMs": 1220500,
+      "en": "So what happens next?",
+      "zh": "那么接下来会怎样？"
+    },
+    {
+      "id": 226,
+      "startMs": 1220580,
+      "endMs": 1230580,
+      "en": "So Danny Nozell, who was Dolly Parton's manager for more than 20 years, has asked for a civil restraining order against Brian Seaver, her nephew.",
+      "zh": "多莉·帕顿的经理丹尼·诺泽尔任职超过20年，已申请针对她侄子布赖恩·西弗的民事限制令。"
+    },
+    {
+      "id": 227,
+      "startMs": 1231140,
+      "endMs": 1237220,
+      "en": "They've also requested a jury trial after the temporary restraining order is made in order to extend it.",
+      "zh": "他们还要求陪审团审判，以便在临时限制令签发后延长其期限。"
+    },
+    {
+      "id": 228,
+      "startMs": 1237220,
+      "endMs": 1239540,
+      "en": "That is of course if the restraining order is made.",
+      "zh": "当然，前提是限制令获准签发。"
+    },
+    {
+      "id": 229,
+      "startMs": 1240020,
+      "endMs": 1243060,
+      "en": "And they say, you know, this has affected their business already.",
+      "zh": "他们说，这已经影响了他们的业务。"
+    },
+    {
+      "id": 230,
+      "startMs": 1243060,
+      "endMs": 1246100,
+      "en": "They have lost lawyers and other employees.",
+      "zh": "他们失去了律师和其他员工。"
+    },
+    {
+      "id": 231,
+      "startMs": 1246100,
+      "endMs": 1248660,
+      "en": "As a result of what they call Seaver's threats.",
+      "zh": "原因是他们所称的西弗的威胁。"
+    },
+    {
+      "id": 232,
+      "startMs": 1248900,
+      "endMs": 1255140,
+      "en": "And they also say that some members of the company have had to take out private security because they're worried about their own safety.",
+      "zh": "他们还说，公司一些成员因担心自身安全，不得不雇用私人保安。"
+    },
+    {
+      "id": 233,
+      "startMs": 1255140,
+      "endMs": 1259780,
+      "en": "And again, I would have to say that Brian Seaver does deny that he poses a threat to these people.",
+      "zh": "还要再次说明，布赖恩·西弗否认自己对这些人构成威胁。"
+    },
+    {
+      "id": 234,
+      "startMs": 1259940,
+      "endMs": 1265540,
+      "en": "Of course, there was a huge outpouring of emotion when Dolly Parton died.",
+      "zh": "当然，多莉·帕顿去世时引发了巨大的情感反响。"
+    },
+    {
+      "id": 235,
+      "startMs": 1265540,
+      "endMs": 1268440,
+      "en": "Is this at risk of souring her legacy somewhat?",
+      "zh": "这会不会让她的遗产蒙上一些阴影？"
+    },
+    {
+      "id": 236,
+      "startMs": 1268840,
+      "endMs": 1276280,
+      "en": "I mean, I think, you know, obviously everybody loved Dolly Parton because she was so serene and peaceful and generous.",
+      "zh": "我的意思是，大家显然都爱多莉·帕顿，因为她宁静、平和而慷慨。"
+    },
+    {
+      "id": 237,
+      "startMs": 1276600,
+      "endMs": 1283560,
+      "en": "And the kind of ugliness of a family and an estate fighting over her $450 million fortune.",
+      "zh": "但家人和遗产为她4.5亿美元财产争斗的丑陋，"
+    },
+    {
+      "id": 238,
+      "startMs": 1283800,
+      "endMs": 1288360,
+      "en": "Is bound to sour people's opinions of those who are left to look after her legacy.",
+      "zh": "势必会影响人们对留下来照料她遗产之人的看法。"
+    },
+    {
+      "id": 239,
+      "startMs": 1288360,
+      "endMs": 1291240,
+      "en": "But I don't think it will make people think any worse of her.",
+      "zh": "但我不认为这会让人们对她的看法变差。"
+    },
+    {
+      "id": 240,
+      "startMs": 1291240,
+      "endMs": 1296120,
+      "en": "I think, you know, when money comes into families, it often turns pretty nasty.",
+      "zh": "我想，金钱一旦进入家庭，事情往往会变得相当难看。"
+    },
+    {
+      "id": 241,
+      "startMs": 1296360,
+      "endMs": 1303800,
+      "en": "But by all accounts, Dolly did leave her estate in such a way that there won't be a huge ongoing row.",
+      "zh": "但据各方说法，多莉确实妥善安排了遗产，不会引发长期争端。"
+    },
+    {
+      "id": 242,
+      "startMs": 1304120,
+      "endMs": 1310600,
+      "en": "She left a lot of her properties and a lot of her business interests in trusts, which makes the likelihood of legal action",
+      "zh": "她把许多房产和商业权益置于信托中，这大大降低了采取法律行动的可能性，"
+    },
+    {
+      "id": 243,
+      "startMs": 1310760,
+      "endMs": 1313080,
+      "en": "Much, much less than if she had died in probate.",
+      "zh": "远低于遗产必须经过遗嘱认证程序的情况。"
+    },
+    {
+      "id": 244,
+      "startMs": 1313320,
+      "endMs": 1315160,
+      "en": "BBC Music Correspondent Mark Savage.",
+      "zh": "BBC音乐记者马克·萨维奇。"
+    },
+    {
+      "id": 245,
+      "startMs": 1316220,
+      "endMs": 1319340,
+      "en": "Astronomers have discovered the youngest planet on record.",
+      "zh": "天文学家发现了有记录以来最年轻的行星。"
+    },
+    {
+      "id": 246,
+      "startMs": 1319740,
+      "endMs": 1325500,
+      "en": "Four hundred and 50 light years from Earth, Elias 2-24 b is less than a million years old.",
+      "zh": "Elias 2-24 b距离地球450光年，形成还不到一百万年。"
+    },
+    {
+      "id": 247,
+      "startMs": 1326060,
+      "endMs": 1328300,
+      "en": "Newborn planets can be difficult to find,",
+      "zh": "新生行星很难被发现，"
+    },
+    {
+      "id": 248,
+      "startMs": 1328460,
+      "endMs": 1334060,
+      "en": "as stars which provide the building materials are themselves born inside clouds of gas and dust.",
+      "zh": "因为提供建筑材料的恒星，本身也诞生于气体和尘埃组成的云团中。"
+    },
+    {
+      "id": 249,
+      "startMs": 1334620,
+      "endMs": 1339900,
+      "en": "This one could give scientists a way of studying what our own solar system may have been like billions of years ago.",
+      "zh": "这颗行星或许能让科学家研究数十亿年前我们太阳系可能的样子。"
+    },
+    {
+      "id": 250,
+      "startMs": 1340380,
+      "endMs": 1343340,
+      "en": "Astronomer Sarah Casewell spoke to Rick Edwards.",
+      "zh": "天文学家萨拉·凯斯韦尔接受了里克·爱德华兹的采访。"
+    },
+    {
+      "id": 251,
+      "startMs": 1343740,
+      "endMs": 1350460,
+      "en": "The original discovery of this planet was done through looking at the disc around this very young star.",
+      "zh": "最初发现这颗行星，是通过观测这颗非常年轻的恒星周围的盘状结构。"
+    },
+    {
+      "id": 252,
+      "startMs": 1350460,
+      "endMs": 1356460,
+      "en": "It's got a big disc, and we looked at the disc and we saw there were gaps in the disc,",
+      "zh": "它有一个巨大的盘。我们观测这个盘，发现盘中有一些空隙，"
+    },
+    {
+      "id": 253,
+      "startMs": 1356780,
+      "endMs": 1361580,
+      "en": "and those gaps are likely to be caused by a planet that's forming.",
+      "zh": "这些空隙很可能是由一颗正在形成的行星造成的。"
+    },
+    {
+      "id": 254,
+      "startMs": 1361820,
+      "endMs": 1366460,
+      "en": "And now people have used a technique called coronagraphy.",
+      "zh": "现在，人们使用了一种叫作日冕仪观测的技术。"
+    },
+    {
+      "id": 255,
+      "startMs": 1366460,
+      "endMs": 1370380,
+      "en": "They've covered up the star so they can see something that's very faint nearby,",
+      "zh": "他们遮住恒星，这样就能看到附近非常微弱的东西，"
+    },
+    {
+      "id": 256,
+      "startMs": 1370620,
+      "endMs": 1374700,
+      "en": "and they've seen the planet exactly where people predicted it to be.",
+      "zh": "并且他们看到，行星正好位于人们预测的位置。"
+    },
+    {
+      "id": 257,
+      "startMs": 1375180,
+      "endMs": 1378000,
+      "en": "This planet has literally just formed,",
+      "zh": "这颗行星才刚刚形成，"
+    },
+    {
+      "id": 258,
+      "startMs": 1378160,
+      "endMs": 1384560,
+      "en": "we normally can't see planets until they're about 10 million years old, and all that disc has been got rid of.",
+      "zh": "我们通常要等行星形成约1000万年、周围的盘消失后，才能看到它们。"
+    },
+    {
+      "id": 259,
+      "startMs": 1384800,
+      "endMs": 1389520,
+      "en": "And it tells us so much about planet formation and our model, whether our models were right.",
+      "zh": "这让我们对行星形成以及模型是否正确有了更多了解。"
+    },
+    {
+      "id": 260,
+      "startMs": 1389840,
+      "endMs": 1393600,
+      "en": "How long does it take for a planet to kind of like reach maturity?",
+      "zh": "一颗行星大概要多久才能成熟？"
+    },
+    {
+      "id": 261,
+      "startMs": 1393600,
+      "endMs": 1397520,
+      "en": "Like, is it fully developed at this point, or is it still going to be evolving?",
+      "zh": "也就是说，它现在已经完全形成，还是仍会继续演化？"
+    },
+    {
+      "id": 262,
+      "startMs": 1397680,
+      "endMs": 1405280,
+      "en": "At this point, it's still very hot, and it possibly is still grabbing all the dust and gas that it can.",
+      "zh": "目前它仍然非常炽热，可能还在吸收能吸收的尘埃和气体。"
+    },
+    {
+      "id": 263,
+      "startMs": 1405760,
+      "endMs": 1414480,
+      "en": "And after about 10 million years, the big disc around the star will disappear, and we'll be left with the star and the planet.",
+      "zh": "大约1000万年后，恒星周围的大盘会消失，只剩下恒星和行星。"
+    },
+    {
+      "id": 264,
+      "startMs": 1414720,
+      "endMs": 1419200,
+      "en": "And just to give us a kind of a benchmark, what's the oldest planet that we've identified?",
+      "zh": "作为一个参照，我们发现的最古老行星有多老？"
+    },
+    {
+      "id": 265,
+      "startMs": 1419440,
+      "endMs": 1421280,
+      "en": "Oh my goodness, that's a question and a half.",
+      "zh": "天啊，这可真是个问题。"
+    },
+    {
+      "id": 266,
+      "startMs": 1421760,
+      "endMs": 1429200,
+      "en": "So most planets that we tend to look at are about the same age as our sun, maybe a little bit older.",
+      "zh": "我们通常研究的行星，大多与太阳年龄相仿，可能还稍微古老一些。"
+    },
+    {
+      "id": 267,
+      "startMs": 1429200,
+      "endMs": 1432400,
+      "en": "So they're between five and 10 billion years old.",
+      "zh": "所以它们的年龄在50亿到100亿年之间。"
+    },
+    {
+      "id": 268,
+      "startMs": 1432720,
+      "endMs": 1438980,
+      "en": "And does this help us then understand more about the early stages of planet formation?",
+      "zh": "这能帮助我们更多了解行星形成的早期阶段吗？"
+    },
+    {
+      "id": 269,
+      "startMs": 1439140,
+      "endMs": 1448500,
+      "en": "It really does. Finding objects within these gaps in the rings where we can see them really allows us to understand",
+      "zh": "确实能。找到这些环中能看见的空隙内天体，真的能帮助我们理解"
+    },
+    {
+      "id": 270,
+      "startMs": 1448500,
+      "endMs": 1452420,
+      "en": "whether our theory of planet formation is correct.",
+      "zh": "我们的行星形成理论是否正确。"
+    },
+    {
+      "id": 271,
+      "startMs": 1452500,
+      "endMs": 1457620,
+      "en": "And in this case, it looks like this planet is doing exactly what it should be doing at this age.",
+      "zh": "在这个案例中，这颗行星似乎正在做它在这个年龄应该做的事。"
+    },
+    {
+      "id": 272,
+      "startMs": 1458340,
+      "endMs": 1464180,
+      "en": "All of why a lot of us do this is to understand how unique our solar system is",
+      "zh": "我们这样做，很大程度上是为了了解太阳系有多独特，"
+    },
+    {
+      "id": 273,
+      "startMs": 1464180,
+      "endMs": 1468820,
+      "en": "and whether there are other solar systems out there that look like ours.",
+      "zh": "以及宇宙中是否还有其他与我们相似的太阳系。"
+    },
+    {
+      "id": 274,
+      "startMs": 1468980,
+      "endMs": 1473140,
+      "en": "And trying to understand the early stages of planet formation is a big part of that.",
+      "zh": "努力理解行星形成的早期阶段，是其中重要的一部分。"
+    },
+    {
+      "id": 275,
+      "startMs": 1473860,
+      "endMs": 1476740,
+      "en": "Sarah Casewell, astronomer and lecturer at Leicester University.",
+      "zh": "萨拉·凯斯韦尔，莱斯特大学天文学家兼讲师。"
+    },
+    {
+      "id": 276,
+      "startMs": 1479540,
+      "endMs": 1485940,
+      "en": "And that is all from us for now. But if you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "本期节目到此结束。如有意见，欢迎发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 277,
+      "startMs": 1485940,
+      "endMs": 1491700,
+      "en": "You can also watch our episodes in full by searching for the Global News Podcast on YouTube.",
+      "zh": "你也可以在YouTube搜索Global News Podcast，观看完整节目。"
+    },
+    {
+      "id": 278,
+      "startMs": 1492260,
+      "endMs": 1496820,
+      "en": "This edition was mixed by Jack Wilfun and produced by Alice Adderley. Our editor is Karen Martin.",
+      "zh": "本期由杰克·威尔芬混音，爱丽丝·阿德利制作。编辑是凯伦·马丁。"
+    },
+    {
+      "id": 279,
+      "startMs": 1496820,
+      "endMs": 1499540,
+      "en": "I am Oliver Conway. Until next time, goodbye.",
+      "zh": "我是奥利弗·康威。下期再见。"
+    }
+  ]
+}
