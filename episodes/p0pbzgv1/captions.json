@@ -1,0 +1,1845 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "23 September 2026"
+  },
+  "durationMs": 1429400,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 5280,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 7520,
+      "endMs": 14320,
+      "en": "I'm Alex Ritson, and in the early hours of Wednesday the 23rd of September, these are our main stories.",
+      "zh": "我是亚历克斯·里特森。9月23日星期三凌晨，以下是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 14560,
+      "endMs": 21760,
+      "en": "Donald Trump hails what he calls a productive meeting with Iranian officials on the sidelines of the UN General Assembly.",
+      "zh": "唐纳德·特朗普称，他在联合国大会期间与伊朗官员举行了富有成效的会晤。"
+    },
+    {
+      "id": 4,
+      "startMs": 21760,
+      "endMs": 28800,
+      "en": "An organised crime group shuts down parts of Colombia's Caribbean coast, prompting the president to send in the army.",
+      "zh": "一个有组织犯罪团伙让哥伦比亚加勒比海沿岸部分地区停摆，总统因此派军队进入。"
+    },
+    {
+      "id": 5,
+      "startMs": 31640,
+      "endMs": 39080,
+      "en": "Also in this podcast, how an entrepreneur in Ghana turns waste plastic packaging into school desks.",
+      "zh": "本期还将介绍加纳一名创业者如何把废弃塑料包装变成课桌。"
+    },
+    {
+      "id": 6,
+      "startMs": 39160,
+      "endMs": 45480,
+      "en": "And the longer this book is on sale, the more egregious the damage from the defamation becomes.",
+      "zh": "而这本书销售得越久，诽谤造成的损害就越严重。"
+    },
+    {
+      "id": 7,
+      "startMs": 45720,
+      "endMs": 51480,
+      "en": "A call for Earl Spencer's book about Princess Diana to be pulped because of a factual error.",
+      "zh": "有人呼吁将厄尔·斯宾塞关于戴安娜王妃的书下架销毁，因为书中有事实错误。"
+    },
+    {
+      "id": 8,
+      "startMs": 56020,
+      "endMs": 61380,
+      "en": "The war in Iran was always going to dominate this year's United Nations General Assembly.",
+      "zh": "伊朗战争注定会成为今年联合国大会的主导议题。"
+    },
+    {
+      "id": 9,
+      "startMs": 61620,
+      "endMs": 66660,
+      "en": "The annual gathering of leaders and officials from around the world is an opportunity for diplomacy.",
+      "zh": "世界各地领导人和官员每年齐聚于此，为外交提供了机会。"
+    },
+    {
+      "id": 10,
+      "startMs": 67060,
+      "endMs": 72820,
+      "en": "On Tuesday there were direct talks between the US and Iran for the first time in months.",
+      "zh": "周二，美国和伊朗数月来首次举行了直接会谈。"
+    },
+    {
+      "id": 11,
+      "startMs": 73140,
+      "endMs": 83220,
+      "en": "But it's also an occasion for fiery speeches and rhetoric, and when President Trump addressed the assembly, he included a threat of extreme action against Iran.",
+      "zh": "但大会也常有激烈演讲和言辞；特朗普总统向大会发言时，威胁要对伊朗采取极端行动。"
+    },
+    {
+      "id": 12,
+      "startMs": 83380,
+      "endMs": 84980,
+      "en": "I have a big decision to make.",
+      "zh": "我有一个重大决定要作。"
+    },
+    {
+      "id": 13,
+      "startMs": 86740,
+      "endMs": 100180,
+      "en": "Will a deal be made with Iran that lets them rebuild and create a far greater country than it ever was before, maybe one of the greatest in the Middle East or even the world?",
+      "zh": "是否能与伊朗达成协议，让它重建，成为比以往强大得多的国家，或许成为中东乃至世界上最强大的国家之一？"
+    },
+    {
+      "id": 14,
+      "startMs": 101220,
+      "endMs": 111380,
+      "en": "Or do I annihilate the Islamic Republic and do it quickly, never giving them a chance to kill and destroy people and countries again?",
+      "zh": "还是要迅速摧毁伊斯兰共和国，绝不给它再次杀戮、摧毁人民和国家的机会？"
+    },
+    {
+      "id": 15,
+      "startMs": 112020,
+      "endMs": 118980,
+      "en": "Do I drive them into hell with no chance of survival and no hope of future greatness or generations?",
+      "zh": "我要把他们赶入地狱，让他们没有生存机会，也没有未来或后代兴盛的希望吗？"
+    },
+    {
+      "id": 16,
+      "startMs": 119700,
+      "endMs": 123220,
+      "en": "But I believe we'll make a deal right after the election.",
+      "zh": "但我相信，我们会在选举后立即达成协议。"
+    },
+    {
+      "id": 17,
+      "startMs": 123940,
+      "endMs": 135060,
+      "en": "Meanwhile, at the General Assembly, Trump's chief envoys Steve Witkoff and Jared Kushner spent three hours talking with Iran's foreign minister Abbas Araghchi.",
+      "zh": "与此同时，在联合国大会期间，特朗普的首席特使史蒂夫·威特科夫和贾里德·库什纳与伊朗外长阿巴斯·阿拉格齐会谈了三小时。"
+    },
+    {
+      "id": 18,
+      "startMs": 135380,
+      "endMs": 146100,
+      "en": "Mr. Trump said the talks were productive. Iranian state media said their main purpose was to convey Tehran's conditions for reopening the Strait of Hormuz.",
+      "zh": "特朗普称会谈富有成效。伊朗国家媒体则称，会谈主要是为了传达德黑兰重开霍尔木兹海峡的条件。"
+    },
+    {
+      "id": 19,
+      "startMs": 146680,
+      "endMs": 152040,
+      "en": "I asked our State Department correspondent Tom Bateman what else had come out of that meeting.",
+      "zh": "我询问了本台国务院记者汤姆·贝特曼，了解那次会晤还有哪些结果。"
+    },
+    {
+      "id": 20,
+      "startMs": 152360,
+      "endMs": 157320,
+      "en": "It was a three-hour meeting, so clearly it covered a lot of ground.",
+      "zh": "这是一次三小时的会晤，显然谈及了许多内容。"
+    },
+    {
+      "id": 21,
+      "startMs": 157640,
+      "endMs": 162120,
+      "en": "I think it is almost certain that the fate of the Strait of Hormuz was a key part of that.",
+      "zh": "我认为，霍尔木兹海峡的前途几乎肯定是其中的关键议题。"
+    },
+    {
+      "id": 22,
+      "startMs": 162600,
+      "endMs": 172360,
+      "en": "Now there is a sense from at least one Iranian official of a preparedness to lower the demands on the Iranian side with the Americans.",
+      "zh": "现在，至少有一名伊朗官员释放出信号，称伊朗方面准备降低对美国的要求。"
+    },
+    {
+      "id": 23,
+      "startMs": 172360,
+      "endMs": 179560,
+      "en": "That may be a result of the punishing economic blockade that the Americans have in place, which is continuing to put massive pressure on the regime.",
+      "zh": "这可能是美国实施严厉经济封锁的结果；封锁仍在持续给伊朗政权施加巨大压力。"
+    },
+    {
+      "id": 24,
+      "startMs": 179560,
+      "endMs": 186760,
+      "en": "This Iranian official says they would be prepared to reopen the Strait of Hormuz within a week",
+      "zh": "这名伊朗官员表示，他们准备在一周内重开霍尔木兹海峡。"
+    },
+    {
+      "id": 25,
+      "startMs": 186920,
+      "endMs": 192040,
+      "en": "if the Americans remove their naval blockade of Iranian ports plus some other measures.",
+      "zh": "前提是美国解除对伊朗港口的海上封锁，并采取其他措施。"
+    },
+    {
+      "id": 26,
+      "startMs": 192280,
+      "endMs": 199368,
+      "en": "But these are not the same extensive list of demands that the Iranians had previously in order to reopen the Strait of Hormuz.",
+      "zh": "但这并不是伊朗此前为重开霍尔木兹海峡提出的那份长长要求清单。"
+    },
+    {
+      "id": 27,
+      "startMs": 199512,
+      "endMs": 204920,
+      "en": "So there is a feeling of potential progress, although Donald Trump seems to be foreclosing the idea",
+      "zh": "因此，人们感觉事情可能取得进展，不过特朗普似乎排除了这种可能。"
+    },
+    {
+      "id": 28,
+      "startMs": 204920,
+      "endMs": 209820,
+      "en": "that there won't be a deal before the US midterm elections, which aren't until early November.",
+      "zh": "这种可能就是美国中期选举前不会达成协议，而选举要到11月初才举行。"
+    },
+    {
+      "id": 29,
+      "startMs": 210300,
+      "endMs": 217180,
+      "en": "Having said that, I was standing outside the UN building when Steve Witkoff walked out wearing sunglasses.",
+      "zh": "话虽如此，我当时站在联合国大楼外，史蒂夫·威特科夫戴着太阳镜走了出来。"
+    },
+    {
+      "id": 30,
+      "startMs": 217180,
+      "endMs": 221740,
+      "en": "My colleague Neda Torfik shouted to ask how the meeting with the Iranians had gone.",
+      "zh": "我的同事内达·托菲克喊住他，询问与伊朗人的会晤进展如何。"
+    },
+    {
+      "id": 31,
+      "startMs": 221740,
+      "endMs": 226940,
+      "en": "He gave us a big thumbs up, and he has certainly been briefing out that in his view the meeting went very well.",
+      "zh": "他向我们竖起大拇指，也一直对外宣称，在他看来会晤进展得非常顺利。"
+    },
+    {
+      "id": 32,
+      "startMs": 227180,
+      "endMs": 230860,
+      "en": "He does tend to put a positive spin on things, even if that isn't absolutely the case.",
+      "zh": "即使事实并非完全如此，他也确实倾向于把事情说得很乐观。"
+    },
+    {
+      "id": 33,
+      "startMs": 231420,
+      "endMs": 238220,
+      "en": "This meeting is significant because there hasn't been a meeting at that level between the Iranians and Americans since about June.",
+      "zh": "这次会晤意义重大，因为美伊双方自6月左右以来就没有举行过这一层级的会晤。"
+    },
+    {
+      "id": 34,
+      "startMs": 238220,
+      "endMs": 242780,
+      "en": "That was when Vice President JD Vance was meeting the Iranians in Pakistan.",
+      "zh": "当时是副总统 J.D.万斯在巴基斯坦与伊朗人会面。"
+    },
+    {
+      "id": 35,
+      "startMs": 243100,
+      "endMs": 247100,
+      "en": "So perhaps it looks like a potential for dialogue is back open.",
+      "zh": "所以，看来对话的可能性似乎重新开启了。"
+    },
+    {
+      "id": 36,
+      "startMs": 247260,
+      "endMs": 253900,
+      "en": "But we have been here many times before, where it has felt like the potential for progress is there and it simply hasn't materialized.",
+      "zh": "但我们以前多次经历过这种情况：进展似乎触手可及，最终却根本没有实现。"
+    },
+    {
+      "id": 37,
+      "startMs": 254220,
+      "endMs": 261020,
+      "en": "And on the other hand, you have Mr. Trump repeating the threat to annihilate, quote, and drive Iran into hell.",
+      "zh": "另一方面，特朗普再次重复了要“摧毁”伊朗、把它赶入地狱的威胁。"
+    },
+    {
+      "id": 38,
+      "startMs": 261020,
+      "endMs": 267760,
+      "en": "Now he's made those threats on social media and in the Oval Office. Here he's doing it in front of more than 190 countries.",
+      "zh": "此前他在社交媒体和椭圆形办公室发出过这些威胁，而这一次是在190多个国家面前。"
+    },
+    {
+      "id": 39,
+      "startMs": 267760,
+      "endMs": 271840,
+      "en": "At the body meant to seek peace and security through dialogue and diplomacy.",
+      "zh": "地点是在这个本应通过对话与外交寻求和平与安全的组织。"
+    },
+    {
+      "id": 40,
+      "startMs": 272080,
+      "endMs": 277520,
+      "en": "So it tells you something about where we are and also, frankly, how kind of normalized some of these threats have become now.",
+      "zh": "这说明了我们所处的局面，也坦率地说，说明其中一些威胁如今已经在某种程度上被常态化了。"
+    },
+    {
+      "id": 41,
+      "startMs": 278000,
+      "endMs": 283840,
+      "en": "But having said all that, it does feel like potentially the door opening on some diplomacy again.",
+      "zh": "不过话虽如此，外交之门似乎确实有可能再次打开。"
+    },
+    {
+      "id": 42,
+      "startMs": 284820,
+      "endMs": 293860,
+      "en": "Mr. Trump also held talks with President Zelensky on the sidelines of the United Nations General Assembly.",
+      "zh": "特朗普还在联合国大会期间与泽连斯基总统举行了会谈。"
+    },
+    {
+      "id": 43,
+      "startMs": 293860,
+      "endMs": 298740,
+      "en": "Do we know what they discussed, how the Ukraine war is playing into Donald Trump's thoughts?",
+      "zh": "我们知道他们讨论了什么吗？乌克兰战争如何影响唐纳德·特朗普的想法？"
+    },
+    {
+      "id": 44,
+      "startMs": 299620,
+      "endMs": 305860,
+      "en": "Well, I think it's almost certain that President Trump will have repeated his strong desire.",
+      "zh": "我认为，特朗普总统几乎肯定会再次强调他的强烈愿望。"
+    },
+    {
+      "id": 45,
+      "startMs": 305860,
+      "endMs": 312260,
+      "en": "That Ukrainian long-range drone and missile strikes against Russian energy facilities are brought to an end.",
+      "zh": "他希望乌克兰对俄罗斯能源设施发动的远程无人机和导弹袭击停止。"
+    },
+    {
+      "id": 46,
+      "startMs": 312900,
+      "endMs": 320740,
+      "en": "But the framework for that is now accepted to have to be some kind of arrangement or agreement between the Russians and the Ukrainians.",
+      "zh": "但现在普遍认为，实现这一点必须依靠俄乌之间某种安排或协议。"
+    },
+    {
+      "id": 47,
+      "startMs": 320740,
+      "endMs": 323300,
+      "en": "You know, Mr. Trump had said a couple of weeks ago.",
+      "zh": "你知道，特朗普几周前曾说过。"
+    },
+    {
+      "id": 48,
+      "startMs": 323300,
+      "endMs": 328420,
+      "en": "That Russia and Ukraine had reached an agreement on not striking each other's energy targets.",
+      "zh": "俄罗斯和乌克兰已经达成协议，不攻击对方的能源目标。"
+    },
+    {
+      "id": 49,
+      "startMs": 328500,
+      "endMs": 331860,
+      "en": "That just simply did not materialize. It just wasn't the case.",
+      "zh": "但这根本没有实现，事实并非如此。"
+    },
+    {
+      "id": 50,
+      "startMs": 331860,
+      "endMs": 337700,
+      "en": "But there's obviously pressure from the Americans, because Ukraine's been hitting energy targets.",
+      "zh": "但显然美国方面施加了压力，因为乌克兰一直在打击能源目标。"
+    },
+    {
+      "id": 51,
+      "startMs": 337700,
+      "endMs": 344500,
+      "en": "The Russians have been firing, as ever, at both civilian and energy targets and the power grid in Ukraine.",
+      "zh": "而俄罗斯一如既往地向乌克兰的民用目标、能源目标和电网开火。"
+    },
+    {
+      "id": 52,
+      "startMs": 345080,
+      "endMs": 351400,
+      "en": "The reason Mr. Trump is particularly concerned at the moment is because Russia has for some time stopped exporting diesel.",
+      "zh": "特朗普目前尤其担心，是因为俄罗斯已经停止出口柴油一段时间了。"
+    },
+    {
+      "id": 53,
+      "startMs": 351400,
+      "endMs": 354920,
+      "en": "It's the second-biggest exporter in the world after the United States.",
+      "zh": "俄罗斯是仅次于美国的全球第二大柴油出口国。"
+    },
+    {
+      "id": 54,
+      "startMs": 355240,
+      "endMs": 358440,
+      "en": "The cost of diesel here in the US is at record levels.",
+      "zh": "美国的柴油价格目前处于创纪录水平。"
+    },
+    {
+      "id": 55,
+      "startMs": 358760,
+      "endMs": 364200,
+      "en": "That's affecting the haulage industry and farming, and that is a political nightmare for Mr. Trump.",
+      "zh": "这影响了运输业和农业，对特朗普来说是一场政治噩梦。"
+    },
+    {
+      "id": 56,
+      "startMs": 364200,
+      "endMs": 368120,
+      "en": "Because it's simply making worse this cost-of-living issue for Americans.",
+      "zh": "因为这只会让美国人的生活成本问题更加严重。"
+    },
+    {
+      "id": 57,
+      "startMs": 368360,
+      "endMs": 375000,
+      "en": "Which, according to the polling, his party stands set to be punished for at the coming midterm elections in November.",
+      "zh": "根据民调，这个问题可能让他的政党在即将到来的11月中期选举中受到惩罚。"
+    },
+    {
+      "id": 58,
+      "startMs": 375240,
+      "endMs": 377960,
+      "en": "So that is a key political priority for Mr. Trump.",
+      "zh": "所以，这是特朗普的一项关键政治优先事项。"
+    },
+    {
+      "id": 59,
+      "startMs": 378360,
+      "endMs": 383560,
+      "en": "And beyond the ongoing aspiration to get an end to the war between Russia and Ukraine.",
+      "zh": "除了持续努力结束俄乌战争之外，"
+    },
+    {
+      "id": 60,
+      "startMs": 383560,
+      "endMs": 387560,
+      "en": "Stopping those strikes will have been a key part of those discussions.",
+      "zh": "停止这些袭击也将是会谈的重要内容。"
+    },
+    {
+      "id": 61,
+      "startMs": 387880,
+      "endMs": 391160,
+      "en": "Our State Department correspondent Tom Bateman.",
+      "zh": "本台国务院记者汤姆·贝特曼的报道。"
+    },
+    {
+      "id": 62,
+      "startMs": 391160,
+      "endMs": 399320,
+      "en": "Sri Lanka's High Court has given long prison sentences to 15 men charged with plotting the Easter Sunday bomb attacks in 2019.",
+      "zh": "斯里兰卡高等法院判处15名男子长期监禁，他们被控策划2019年复活节星期日爆炸案。"
+    },
+    {
+      "id": 63,
+      "startMs": 399800,
+      "endMs": 407000,
+      "en": "The coordinated blasts at churches and luxury hotels killed 270 people and injured more than 500.",
+      "zh": "教堂和豪华酒店发生的连环爆炸造成270人死亡、500多人受伤。"
+    },
+    {
+      "id": 64,
+      "startMs": 407000,
+      "endMs": 414520,
+      "en": "Our global affairs correspondent Anbarasan Ethirajan told Valerie Sanderson what happened on the day of the attack.",
+      "zh": "我们的全球事务记者安巴拉桑·埃蒂拉詹向瓦莱丽·桑德森讲述袭击当天的情况。"
+    },
+    {
+      "id": 65,
+      "startMs": 414840,
+      "endMs": 421400,
+      "en": "These nine suicide bombers belonged to one of the homegrown Islamist groups. They carried out these attacks.",
+      "zh": "这9名自杀式炸弹袭击者属于一个本土伊斯兰主义组织，他们实施了这些袭击。"
+    },
+    {
+      "id": 66,
+      "startMs": 421400,
+      "endMs": 427320,
+      "en": "So there was a sense of shock and disbelief in Sri Lanka because this was after the end of the civil war",
+      "zh": "斯里兰卡民众感到震惊和难以置信，因为内战结束后，"
+    },
+    {
+      "id": 67,
+      "startMs": 427320,
+      "endMs": 432120,
+      "en": "when Sri Lanka was more peaceful and it became one of the popular tourist destinations.",
+      "zh": "斯里兰卡更加和平，也成了热门旅游目的地之一。"
+    },
+    {
+      "id": 68,
+      "startMs": 432440,
+      "endMs": 436440,
+      "en": "All of a sudden this attack happened. It was well coordinated and well planned.",
+      "zh": "袭击突然发生了，而且组织严密、计划周详。"
+    },
+    {
+      "id": 69,
+      "startMs": 436440,
+      "endMs": 439480,
+      "en": "Because they were targeting foreigners in these five-star hotels.",
+      "zh": "因为袭击者的目标是这些五星级酒店里的外国人。"
+    },
+    {
+      "id": 70,
+      "startMs": 439880,
+      "endMs": 445320,
+      "en": "And also the Sunday mass was going on, Easter Sunday mass, and that is when they targeted these worshippers.",
+      "zh": "当时复活节星期日弥撒正在举行，袭击者就在那时向礼拜者下手。"
+    },
+    {
+      "id": 71,
+      "startMs": 445880,
+      "endMs": 448920,
+      "en": "And 45 foreigners were among those killed.",
+      "zh": "死者中有45名外国人。"
+    },
+    {
+      "id": 72,
+      "startMs": 449560,
+      "endMs": 453420,
+      "en": "And then the government went after these groupings.",
+      "zh": "随后政府开始追查这些团体。"
+    },
+    {
+      "id": 73,
+      "startMs": 453420,
+      "endMs": 461420,
+      "en": "In fact, the then president Maithripala Sirisena was accused of a security lapse. They did not follow up on intelligence provided by India.",
+      "zh": "事实上，时任总统迈特里帕拉·西里塞纳被指疏于安保；当局没有跟进印度提供的情报。"
+    },
+    {
+      "id": 74,
+      "startMs": 461740,
+      "endMs": 466620,
+      "en": "In fact, two senior officials were sentenced to death for criminal negligence last month.",
+      "zh": "事实上，两名高级官员上月因刑事疏忽被判处死刑。"
+    },
+    {
+      "id": 75,
+      "startMs": 467020,
+      "endMs": 475420,
+      "en": "Now here comes this verdict. This is the first direct court case involving those accused of supporting this Islamist group.",
+      "zh": "现在判决下来了。这是首宗直接审理支持该伊斯兰主义组织者的案件。"
+    },
+    {
+      "id": 76,
+      "startMs": 475980,
+      "endMs": 479100,
+      "en": "And tell us more about the men who've been convicted.",
+      "zh": "请介绍一下被定罪的这些人。"
+    },
+    {
+      "id": 77,
+      "startMs": 480060,
+      "endMs": 488620,
+      "en": "Now one of the main persons here is Naufer Moulavi. The prosecutors accused him of being the ringleader of this group",
+      "zh": "其中一名主要人物是瑙费尔·毛拉维。检方指控他是该组织的头目，"
+    },
+    {
+      "id": 78,
+      "startMs": 489020,
+      "endMs": 496220,
+      "en": "and he was also charged with providing support to these suicide bombers who carried out these attacks.",
+      "zh": "他还被控向实施袭击的自杀式炸弹袭击者提供支持。"
+    },
+    {
+      "id": 79,
+      "startMs": 496780,
+      "endMs": 501580,
+      "en": "And nine were found not guilty, they were released and one person died in custody.",
+      "zh": "9人被判无罪并获释，另有1人在羁押期间死亡。"
+    },
+    {
+      "id": 80,
+      "startMs": 501580,
+      "endMs": 505980,
+      "en": "Of course, during the trial process, all of them denied any involvement.",
+      "zh": "当然，审理期间他们都否认参与其中。"
+    },
+    {
+      "id": 81,
+      "startMs": 506620,
+      "endMs": 512620,
+      "en": "But they belonged to Sri Lanka's minority Muslim community, and the community was under intense scrutiny.",
+      "zh": "但他们属于斯里兰卡少数族裔穆斯林社群，该社群受到严密审视。"
+    },
+    {
+      "id": 82,
+      "startMs": 512620,
+      "endMs": 516220,
+      "en": "There were also lots of hate attacks after this incident happened.",
+      "zh": "事件发生后还出现了许多仇恨袭击。"
+    },
+    {
+      "id": 83,
+      "startMs": 516860,
+      "endMs": 525580,
+      "en": "But it also put the highlights on how far the Sri Lankan intelligence was prepared to listen to the warnings that these attacks could happen.",
+      "zh": "这也凸显出，斯里兰卡情报部门对可能发生袭击的警告究竟准备听取到什么程度。"
+    },
+    {
+      "id": 84,
+      "startMs": 525660,
+      "endMs": 527660,
+      "en": "Is it admitted now it was a big lapse?",
+      "zh": "现在是否承认这是一次严重疏忽？"
+    },
+    {
+      "id": 85,
+      "startMs": 527820,
+      "endMs": 531420,
+      "en": "They did admit, and that is why two of the senior officials",
+      "zh": "他们确实承认了，因此两名高级官员，"
+    },
+    {
+      "id": 86,
+      "startMs": 531420,
+      "endMs": 537340,
+      "en": "one was the former police chief and another was the defense secretary, were found guilty of criminal negligence",
+      "zh": "一人是前警察总长，另一人是国防秘书，两人被判犯有刑事疏忽，"
+    },
+    {
+      "id": 87,
+      "startMs": 537340,
+      "endMs": 540400,
+      "en": "and that's why they were given the death sentence. Ethirajan.",
+      "zh": "因此被判处死刑。埃蒂拉詹。"
+    },
+    {
+      "id": 88,
+      "startMs": 542400,
+      "endMs": 549040,
+      "en": "The British broadcaster Piers Morgan has called for a newly released book by Earl Spencer about Princess Diana",
+      "zh": "英国广播人皮尔斯·摩根呼吁将厄尔·斯宾塞关于戴安娜王妃的新书，"
+    },
+    {
+      "id": 89,
+      "startMs": 549120,
+      "endMs": 552560,
+      "en": "to be pulled from the shelves because of a factual error.",
+      "zh": "因书中有事实错误而下架。"
+    },
+    {
+      "id": 90,
+      "startMs": 552720,
+      "endMs": 561680,
+      "en": "Earl Spencer, who's Diana's brother, has apologised to Mr Morgan after wrongly describing him in the book as being editor of a British tabloid",
+      "zh": "戴安娜的弟弟厄尔·斯宾塞向摩根道歉，因为他在书中错误地称摩根是英国小报的编辑，"
+    },
+    {
+      "id": 91,
+      "startMs": 561920,
+      "endMs": 567520,
+      "en": "when it published covert photos of Diana in the gym in 1993.",
+      "zh": "而该报曾在1993年刊登戴安娜在健身房锻炼的偷拍照片。"
+    },
+    {
+      "id": 92,
+      "startMs": 567520,
+      "endMs": 572400,
+      "en": "Mr Morgan has threatened to sue for what he called fabricated inaccuracies.",
+      "zh": "摩根威胁要就他所谓的捏造性不实内容提起诉讼。"
+    },
+    {
+      "id": 93,
+      "startMs": 572800,
+      "endMs": 575440,
+      "en": "Our royal correspondent Sean Coughlan reports.",
+      "zh": "我们的王室记者肖恩·考夫兰报道。"
+    },
+    {
+      "id": 94,
+      "startMs": 575680,
+      "endMs": 580320,
+      "en": "Earl Spencer's controversial memoir has created some awkward headlines for the royal family.",
+      "zh": "厄尔·斯宾塞这本有争议的回忆录给王室制造了一些尴尬头条。"
+    },
+    {
+      "id": 95,
+      "startMs": 580880,
+      "endMs": 584240,
+      "en": "And on a visit, Prince William had to brush past questions.",
+      "zh": "访问期间，威廉王子不得不避开相关提问。"
+    },
+    {
+      "id": 96,
+      "startMs": 584540,
+      "endMs": 588060,
+      "en": "So how do you feel about your uncle's book? Have you read it? We love you.",
+      "zh": "你怎么看你叔叔的书？你读过吗？我们爱你。"
+    },
+    {
+      "id": 97,
+      "startMs": 588060,
+      "endMs": 595580,
+      "en": "But it was the author Earl Spencer who has faced more awkward questions as he's had to make an embarrassing apology to Piers Morgan",
+      "zh": "但作者厄尔·斯宾塞面临了更多尴尬提问，因为他不得不向皮尔斯·摩根作出难堪的道歉，"
+    },
+    {
+      "id": 98,
+      "startMs": 595820,
+      "endMs": 597580,
+      "en": "for a factual error in the book.",
+      "zh": "为书中的事实错误致歉。"
+    },
+    {
+      "id": 99,
+      "startMs": 598380,
+      "endMs": 607420,
+      "en": "In his account, Earl Spencer describes how he personally rang tabloid newspaper editors to withdraw the invitations to Diana's funeral in 1997.",
+      "zh": "厄尔·斯宾塞在书中写道，1997年他亲自致电小报编辑，要求撤回参加戴安娜葬礼的邀请。"
+    },
+    {
+      "id": 100,
+      "startMs": 608380,
+      "endMs": 612940,
+      "en": "This included Piers Morgan, who the book blames for a Mirror newspaper story",
+      "zh": "这其中包括皮尔斯·摩根，书中指责他要为《镜报》的一篇报道负责，"
+    },
+    {
+      "id": 101,
+      "startMs": 613180,
+      "endMs": 617740,
+      "en": "that intruded on Diana's privacy with pictures of her exercising in a gym.",
+      "zh": "该报道刊登戴安娜在健身房锻炼的照片，侵犯了她的隐私。"
+    },
+    {
+      "id": 102,
+      "startMs": 618720,
+      "endMs": 622400,
+      "en": "Except that Piers Morgan wasn't the paper's editor at the time",
+      "zh": "但当时皮尔斯·摩根并不是该报的编辑，"
+    },
+    {
+      "id": 103,
+      "startMs": 622720,
+      "endMs": 625280,
+      "en": "and he's calling for the publication to be stopped.",
+      "zh": "他因此呼吁停止出版这本书。"
+    },
+    {
+      "id": 104,
+      "startMs": 625520,
+      "endMs": 629600,
+      "en": "He's apologised this afternoon for getting it completely wrong.",
+      "zh": "厄尔·斯宾塞当天午后道歉，承认自己完全弄错了。"
+    },
+    {
+      "id": 105,
+      "startMs": 629920,
+      "endMs": 634800,
+      "en": "The Earl describes himself as a historian and says it's his duty to correct the record.",
+      "zh": "厄尔称自己是历史学家，并表示有责任纠正记录。"
+    },
+    {
+      "id": 106,
+      "startMs": 634800,
+      "endMs": 639120,
+      "en": "Well, in that case, I am asking for the book to be withdrawn.",
+      "zh": "那么，在这种情况下，我要求撤回这本书。"
+    },
+    {
+      "id": 107,
+      "startMs": 639360,
+      "endMs": 642960,
+      "en": "In a statement, the Earl said his account of his conversation with Mr Morgan",
+      "zh": "厄尔在声明中说，他对与摩根谈话的叙述，"
+    },
+    {
+      "id": 108,
+      "startMs": 642960,
+      "endMs": 645520,
+      "en": "was accurate, but he wished to apologise",
+      "zh": "内容准确，但他仍希望道歉，"
+    },
+    {
+      "id": 109,
+      "startMs": 645760,
+      "endMs": 649040,
+      "en": "that his assumption concerning his role at the Mirror was wrong.",
+      "zh": "因为他对摩根在《镜报》所任职务的判断是错误的。"
+    },
+    {
+      "id": 110,
+      "startMs": 649760,
+      "endMs": 656160,
+      "en": "It's understood the publishers Penguin are planning to make a correction in future editions. Sean Coughlan.",
+      "zh": "据悉，出版商企鹅兰登计划在未来版本中更正这一错误。肖恩·考夫兰。"
+    },
+    {
+      "id": 111,
+      "startMs": 658760,
+      "endMs": 660840,
+      "en": "Still to come in this podcast,",
+      "zh": "本期节目稍后将介绍，"
+    },
+    {
+      "id": 112,
+      "startMs": 665060,
+      "endMs": 669860,
+      "en": "the six-year-old who solved the Rubik's Cube in barely four seconds.",
+      "zh": "一名六岁儿童：他用不到四秒就还原了魔方。"
+    },
+    {
+      "id": 113,
+      "startMs": 669860,
+      "endMs": 672020,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 114,
+      "startMs": 672900,
+      "endMs": 676660,
+      "en": "To Colombia now, where videos circulating online have shown",
+      "zh": "现在来看哥伦比亚：网上流传的视频显示，"
+    },
+    {
+      "id": 115,
+      "startMs": 676740,
+      "endMs": 682260,
+      "en": "armed men on motorcycles setting fire to trucks in the northern city of Santa Marta.",
+      "zh": "武装人员骑着摩托车，在北部城市圣玛尔塔焚烧卡车。"
+    },
+    {
+      "id": 116,
+      "startMs": 682580,
+      "endMs": 685620,
+      "en": "They're said to be members of a group calling itself the ACSN",
+      "zh": "据称他们是一个自称 ACSN 的组织成员，"
+    },
+    {
+      "id": 117,
+      "startMs": 686340,
+      "endMs": 693060,
+      "en": "or the Conquering Self-Defense Forces of Sierra Nevada, which controls cocaine trafficking routes.",
+      "zh": "该组织名为内华达山征服自卫军，控制着可卡因贩运路线。"
+    },
+    {
+      "id": 118,
+      "startMs": 693460,
+      "endMs": 699060,
+      "en": "In response, the Colombian president Abelardo de la Espriella has sent troops to the city.",
+      "zh": "作为回应，哥伦比亚总统阿韦拉多·德拉埃斯普列亚已向该市派兵。"
+    },
+    {
+      "id": 119,
+      "startMs": 699620,
+      "endMs": 708020,
+      "en": "We're going to fortify Santa Marta and defend it to show the bandits that when the state is determined, it never loses.",
+      "zh": "我们将巩固并保卫圣玛尔塔，向匪徒表明，只要国家坚定，就绝不会失败。"
+    },
+    {
+      "id": 120,
+      "startMs": 708020,
+      "endMs": 713300,
+      "en": "Any bandit who refuses to surrender will be neutralized as the law requires.",
+      "zh": "任何拒绝投降的匪徒，都将依法被制服。"
+    },
+    {
+      "id": 121,
+      "startMs": 713780,
+      "endMs": 715460,
+      "en": "We stand firm for our country.",
+      "zh": "我们坚定捍卫国家。"
+    },
+    {
+      "id": 122,
+      "startMs": 715940,
+      "endMs": 723540,
+      "en": "Our Latin America expert from BBC Monitoring, Luis Fajardo, told me more about what happened in Santa Marta.",
+      "zh": "BBC Monitoring 的拉丁美洲事务专家路易斯·法哈多向我进一步介绍了圣玛尔塔的情况。"
+    },
+    {
+      "id": 123,
+      "startMs": 723700,
+      "endMs": 729880,
+      "en": "Alex, these are really disturbing images for many Colombians who have been seeing these things happening in Santa Marta,",
+      "zh": "亚历克斯，对许多哥伦比亚人来说，这些画面令人不安；他们一直看到圣玛尔塔发生这样的事情，"
+    },
+    {
+      "id": 124,
+      "startMs": 729880,
+      "endMs": 734840,
+      "en": "which is a fairly important tourist resort and a provincial capital.",
+      "zh": "那里是一个相当重要的旅游胜地，也是省会。"
+    },
+    {
+      "id": 125,
+      "startMs": 735480,
+      "endMs": 739480,
+      "en": "So not in the periphery, but a rather important city in Colombia,",
+      "zh": "所以这不是边远地区，而是哥伦比亚一座相当重要的城市，"
+    },
+    {
+      "id": 126,
+      "startMs": 739800,
+      "endMs": 743800,
+      "en": "they have seen scenes of violence and intimidation throughout the day.",
+      "zh": "人们一整天都在目睹暴力和恐吓场面。"
+    },
+    {
+      "id": 127,
+      "startMs": 744360,
+      "endMs": 747720,
+      "en": "This criminal group announced what it called a \"paro armado,\" armed strike,",
+      "zh": "这个犯罪团体宣布了他们所谓的“paro armado”，即武装罢工，"
+    },
+    {
+      "id": 128,
+      "startMs": 748340,
+      "endMs": 753060,
+      "en": "which meant that they were basically ordering the city to shut down.",
+      "zh": "意思是他们基本上是在命令这座城市停摆。"
+    },
+    {
+      "id": 129,
+      "startMs": 753620,
+      "endMs": 757940,
+      "en": "They were intimidating people in little shops, in buses.",
+      "zh": "他们在小商店和公交车上恐吓民众。"
+    },
+    {
+      "id": 130,
+      "startMs": 758260,
+      "endMs": 762660,
+      "en": "They have burned a few vehicles and they have threatened people with violence",
+      "zh": "他们烧毁了几辆车，并以暴力威胁民众，"
+    },
+    {
+      "id": 131,
+      "startMs": 762660,
+      "endMs": 767860,
+      "en": "if they did not accept their order to basically disrupt activities in the city.",
+      "zh": "如果民众不接受他们的命令，他们就要扰乱城市活动。"
+    },
+    {
+      "id": 132,
+      "startMs": 767940,
+      "endMs": 772340,
+      "en": "This was a result of the killing of a couple of leaders of this criminal organization.",
+      "zh": "这起事件源于该犯罪组织几名领导人被杀。"
+    },
+    {
+      "id": 133,
+      "startMs": 772660,
+      "endMs": 777380,
+      "en": "So, a substantial spike of violence in this city, and as the new government of",
+      "zh": "因此，这座城市的暴力事件大幅增加；新政府也"
+    },
+    {
+      "id": 134,
+      "startMs": 777460,
+      "endMs": 783300,
+      "en": "Abelardo de la Espriella has promised to intensify the combat against these illegal armed groups.",
+      "zh": "而且阿韦拉多·德拉埃斯普列亚政府已承诺加强打击这些非法武装团体。"
+    },
+    {
+      "id": 135,
+      "startMs": 783620,
+      "endMs": 786900,
+      "en": "What do we know about this group and its aims?",
+      "zh": "关于这个团体及其目标，我们知道些什么？"
+    },
+    {
+      "id": 136,
+      "startMs": 786900,
+      "endMs": 793460,
+      "en": "The so-called Conquistadores de la Sierra, Conquerors of the Sierra, operates as a regional criminal gang.",
+      "zh": "所谓的“山地征服者”，即内华达山征服者，是一个地区性犯罪团伙。"
+    },
+    {
+      "id": 137,
+      "startMs": 793460,
+      "endMs": 797060,
+      "en": "It is not the most powerful criminal organization in Colombia.",
+      "zh": "它不是哥伦比亚最强大的犯罪组织。"
+    },
+    {
+      "id": 138,
+      "startMs": 797140,
+      "endMs": 805620,
+      "en": "It is one of many criminal groups that have organized regional control in many parts of the country, using their armed force,",
+      "zh": "它是众多犯罪团体之一，这些团体在全国许多地区组织起地方控制，凭借武力，"
+    },
+    {
+      "id": 139,
+      "startMs": 805780,
+      "endMs": 811720,
+      "en": "their intimidation methods to advance in their illegal businesses, in this case, drug trafficking.",
+      "zh": "利用恐吓手段推进非法生意，在这里就是贩毒。"
+    },
+    {
+      "id": 140,
+      "startMs": 811720,
+      "endMs": 816600,
+      "en": "So again, not the most powerful of the criminal gangs, but certainly a gang that has been",
+      "zh": "所以再说一遍，它不是最强大的犯罪团伙，但确实一直是一个"
+    },
+    {
+      "id": 141,
+      "startMs": 816600,
+      "endMs": 822760,
+      "en": "very influential gang in this area in Santa Marta, also near the Venezuelan border in the northeastern part of the country.",
+      "zh": "在圣玛尔塔这一地区颇具影响力的团伙，也靠近该国东北部的委内瑞拉边境。"
+    },
+    {
+      "id": 142,
+      "startMs": 823080,
+      "endMs": 829640,
+      "en": "And they have been active, and the government has launched several attacks against them, which they are now retaliating against.",
+      "zh": "他们一直很活跃，政府也对其发动过数次攻击，如今他们正在进行报复。"
+    },
+    {
+      "id": 143,
+      "startMs": 829640,
+      "endMs": 834360,
+      "en": "And this despite there being a new right-wing president in charge who is a friend of Donald Trump.",
+      "zh": "尽管目前执政的是一位与唐纳德·特朗普友好的右翼总统。"
+    },
+    {
+      "id": 144,
+      "startMs": 834760,
+      "endMs": 840680,
+      "en": "Yes, certainly Abelardo de la Espriella, who became Colombian president on the 7th of August,",
+      "zh": "是的，阿韦拉多·德拉埃斯普列亚于8月7日就任哥伦比亚总统，"
+    },
+    {
+      "id": 145,
+      "startMs": 841000,
+      "endMs": 847160,
+      "en": "he is replacing a left-wing administration which had tried to conduct peace talks with many of these criminal organizations.",
+      "zh": "他取代了曾试图与许多犯罪组织进行和平谈判的左翼政府。"
+    },
+    {
+      "id": 146,
+      "startMs": 847400,
+      "endMs": 853800,
+      "en": "De la Espriella instead, he calls himself the Tiger, and he has promised a very strong military crackdown.",
+      "zh": "而德拉埃斯普列亚自称“老虎”，并承诺进行强力军事镇压。"
+    },
+    {
+      "id": 147,
+      "startMs": 853800,
+      "endMs": 860520,
+      "en": "He has, the armed forces have indeed started killing several of the leaders of this and many other organizations.",
+      "zh": "他已经——武装部队确实开始杀死该组织及其他许多组织的几名领导人。"
+    },
+    {
+      "id": 148,
+      "startMs": 860760,
+      "endMs": 865320,
+      "en": "But what has happened in Santa Marta in the last few hours makes it clear that these groups",
+      "zh": "但从过去几小时圣玛尔塔发生的这些行动可以清楚看出，这些团体"
+    },
+    {
+      "id": 149,
+      "startMs": 865480,
+      "endMs": 869660,
+      "en": "remain powerful and they remain capable of disrupting activities",
+      "zh": "仍然势力强大，仍有能力扰乱活动。"
+    },
+    {
+      "id": 150,
+      "startMs": 869660,
+      "endMs": 873660,
+      "en": "in large parts of Colombia. Luis Fajardo from BBC Monitoring.",
+      "zh": "在哥伦比亚大片地区制造混乱。BBC Monitoring 的路易斯·法哈多报道。"
+    },
+    {
+      "id": 151,
+      "startMs": 874660,
+      "endMs": 884580,
+      "en": "El Niño in the Pacific is still a few weeks from its peak, but it's already breaking records, with impacts likely around the world.",
+      "zh": "太平洋的厄尔尼诺天气模式距离峰值还有几周，但它已经打破纪录，可能给世界各地带来深远影响。"
+    },
+    {
+      "id": 152,
+      "startMs": 884980,
+      "endMs": 889700,
+      "en": "The UK's Met Office says it's now the strongest event in the observational record.",
+      "zh": "英国气象局说，这是有观测记录以来最强的一次厄尔尼诺事件。"
+    },
+    {
+      "id": 153,
+      "startMs": 890100,
+      "endMs": 893140,
+      "en": "Here's our environment correspondent, Matt McGrath.",
+      "zh": "下面请听本台环境事务记者马特·麦格拉思的报道。"
+    },
+    {
+      "id": 154,
+      "startMs": 893540,
+      "endMs": 899220,
+      "en": "An El Niño begins when waters in the central Pacific rise about half a degree above the long-term average",
+      "zh": "衡量厄尔尼诺的方法是：太平洋中部海水温度一旦比长期平均值高出约半摄氏度，"
+    },
+    {
+      "id": 155,
+      "startMs": 899220,
+      "endMs": 901380,
+      "en": "that's the start of an El Niño.",
+      "zh": "就标志着厄尔尼诺开始了。"
+    },
+    {
+      "id": 156,
+      "startMs": 901700,
+      "endMs": 905300,
+      "en": "Above one degree, it enters more serious territory.",
+      "zh": "一旦超过一度，就开始进入更严重的阶段。"
+    },
+    {
+      "id": 157,
+      "startMs": 905460,
+      "endMs": 908340,
+      "en": "Above two degrees, then it's called a very strong El Niño.",
+      "zh": "超过两度，就被称为非常强的厄尔尼诺。"
+    },
+    {
+      "id": 158,
+      "startMs": 908420,
+      "endMs": 911860,
+      "en": "Now we had the two-degree mark go past a few months ago.",
+      "zh": "几个月前，温度已经超过了两度这个关口。"
+    },
+    {
+      "id": 159,
+      "startMs": 911860,
+      "endMs": 914820,
+      "en": "It's been a strong El Niño for the last couple of months.",
+      "zh": "过去几个月一直是强厄尔尼诺。"
+    },
+    {
+      "id": 160,
+      "startMs": 915060,
+      "endMs": 918980,
+      "en": "The latest data show that it's around three degrees warmer than the long-term average.",
+      "zh": "最新数据显示，温度比长期平均值高出约三度。"
+    },
+    {
+      "id": 161,
+      "startMs": 919300,
+      "endMs": 923460,
+      "en": "But how much precisely it is above the long-term average, we're not quite sure as yet.",
+      "zh": "但究竟高出长期平均值多少，目前还不完全确定。"
+    },
+    {
+      "id": 162,
+      "startMs": 923860,
+      "endMs": 931460,
+      "en": "The fear, I guess, from scientists is that this will continue, with projections showing it somewhere between three and four degrees above average.",
+      "zh": "科学家担心这种趋势会继续，预测显示温度可能比平均值高出三到四度。"
+    },
+    {
+      "id": 163,
+      "startMs": 931460,
+      "endMs": 938280,
+      "en": "That's a phenomenal amount of heat and impact on the world. We've never seen anything like it.",
+      "zh": "这将是极其巨大的热量，也会对世界产生惊人的影响。我们以前从未真正见过这样的情况。"
+    },
+    {
+      "id": 164,
+      "startMs": 938520,
+      "endMs": 941320,
+      "en": "We're still not sure what the impacts will be across the world.",
+      "zh": "至于它将在世界各地造成什么影响，我们仍不确定。"
+    },
+    {
+      "id": 165,
+      "startMs": 941480,
+      "endMs": 945240,
+      "en": "We can already see some signals, but it'll be later this year",
+      "zh": "我们显然已经看到了一些迹象，但要到今年晚些时候，"
+    },
+    {
+      "id": 166,
+      "startMs": 945240,
+      "endMs": 950360,
+      "en": "especially by the middle of next year, when the heat's impact will be clearer.",
+      "zh": "尤其是明年年中，才能更清楚地看到这些热量的影响。"
+    },
+    {
+      "id": 167,
+      "startMs": 950520,
+      "endMs": 955480,
+      "en": "We're already seeing in some places in the monsoon areas perhaps less rain than normal.",
+      "zh": "在一些季风地区，我们已经看到降雨可能少于正常水平。"
+    },
+    {
+      "id": 168,
+      "startMs": 955480,
+      "endMs": 960120,
+      "en": "In other places, in parts of California, they're preparing for greater deluges.",
+      "zh": "而在加利福尼亚部分地区，人们正准备应对更大的暴雨。"
+    },
+    {
+      "id": 169,
+      "startMs": 960120,
+      "endMs": 962680,
+      "en": "We're likely to see greater floods and downpours.",
+      "zh": "我们很可能会看到更严重的洪水和暴雨。"
+    },
+    {
+      "id": 170,
+      "startMs": 962920,
+      "endMs": 967800,
+      "en": "We're seeing the Panama Canal not at its peak or restricting traffic because of lower water levels.",
+      "zh": "由于水位降低，巴拿马运河水位尚未达到峰值，或正在限制通行。"
+    },
+    {
+      "id": 171,
+      "startMs": 968120,
+      "endMs": 973560,
+      "en": "So all around the world there'll be different impacts: impacts on food production, impacts on droughts, on heat and on floods.",
+      "zh": "因此，世界各地将受到不同影响：粮食生产、干旱、高温和洪水都会受到波及。"
+    },
+    {
+      "id": 172,
+      "startMs": 974040,
+      "endMs": 981240,
+      "en": "By the middle of next year, we'll probably see the bigger impact on overall global temperatures, which are expected to break records by some distance.",
+      "zh": "但到明年年中，更大的影响可能会体现在全球整体气温上，预计气温将大幅打破纪录。"
+    },
+    {
+      "id": 173,
+      "startMs": 981480,
+      "endMs": 982360,
+      "en": "Matt McGrath.",
+      "zh": "马特·麦格拉思报道。"
+    },
+    {
+      "id": 174,
+      "startMs": 983320,
+      "endMs": 992200,
+      "en": "Now to Ghana, where an entrepreneur has worked out a way to solve two problems at once by turning waste plastic packaging into school desks.",
+      "zh": "下面来到加纳。一名企业家找到了一举解决两个问题的方法，把废弃塑料包装制成学校课桌。"
+    },
+    {
+      "id": 175,
+      "startMs": 992600,
+      "endMs": 994520,
+      "en": "Our reporter, Justice Baidu.",
+      "zh": "本台记者贾斯蒂斯·拜杜报道。"
+    },
+    {
+      "id": 176,
+      "startMs": 994700,
+      "endMs": 1000060,
+      "en": "Justice Baidu met Makafui Awuku in his workshop in the capital city, Accra.",
+      "zh": "贾斯蒂斯·拜杜在首都阿克拉的工作坊采访了马卡富伊·阿乌库。"
+    },
+    {
+      "id": 177,
+      "startMs": 1000700,
+      "endMs": 1005980,
+      "en": "Well, so this is Makintouch Africa. Welcome to Makintouch Africa. So let's walk around and let me show you some of them.",
+      "zh": "这里就是 Makintouch Africa。欢迎来到这里。我们四处看看，我给你介绍其中一些。"
+    },
+    {
+      "id": 178,
+      "startMs": 1006380,
+      "endMs": 1018280,
+      "en": "Yeah. Makafui Awuku, big and smiling, has an infectious passion for recycling plastic. He shows me his current stockpile.",
+      "zh": "好的。马卡富伊·阿乌库身材高大、笑容灿烂，对塑料回收有着感染力十足的热情。他向我展示了目前的库存。"
+    },
+    {
+      "id": 179,
+      "startMs": 1018440,
+      "endMs": 1025480,
+      "en": "So it's a huge heap of plastic bottles, sachet wrappers, that have been collected together.",
+      "zh": "这里是一大堆收集起来的塑料瓶和塑料袋包装。"
+    },
+    {
+      "id": 180,
+      "startMs": 1025800,
+      "endMs": 1027560,
+      "en": "How much plastic do we have here?",
+      "zh": "这里有多少塑料？"
+    },
+    {
+      "id": 181,
+      "startMs": 1028120,
+      "endMs": 1030760,
+      "en": "So what you see here looks like about 400 kilograms.",
+      "zh": "你看到的这些大约有400公斤。"
+    },
+    {
+      "id": 182,
+      "startMs": 1031920,
+      "endMs": 1040400,
+      "en": "Wow, that's a lot. We generate about 1.1 million metric tons of plastic waste in Ghana every year.",
+      "zh": "哇，真不少。加纳每年产生约110万吨塑料垃圾。"
+    },
+    {
+      "id": 183,
+      "startMs": 1040880,
+      "endMs": 1046400,
+      "en": "In Ghana, it is thought that just around 5% of plastic is collected for recycling.",
+      "zh": "据认为，加纳只有约5%的塑料被收集起来回收。"
+    },
+    {
+      "id": 184,
+      "startMs": 1046720,
+      "endMs": 1052480,
+      "en": "Makafui's latest project addresses another problem here in Ghana: a shortage of school desks.",
+      "zh": "马卡富伊的最新项目还解决了加纳的另一个问题：学校课桌短缺。"
+    },
+    {
+      "id": 185,
+      "startMs": 1052960,
+      "endMs": 1055760,
+      "en": "We have a lot of desk deficits in our schools.",
+      "zh": "我们的学校严重缺少课桌。"
+    },
+    {
+      "id": 186,
+      "startMs": 1055840,
+      "endMs": 1058000,
+      "en": "We have a desk deficit of close to 2 million.",
+      "zh": "我们缺少近200万张课桌。"
+    },
+    {
+      "id": 187,
+      "startMs": 1058480,
+      "endMs": 1064960,
+      "en": "Makafui makes desk tops from the plastic sachets that are commonly used for drinking water here in Ghana.",
+      "zh": "马卡富伊用加纳常见的饮水塑料袋制作课桌桌面。"
+    },
+    {
+      "id": 188,
+      "startMs": 1064960,
+      "endMs": 1069040,
+      "en": "He has 300 drop-off points for the sachets around the country.",
+      "zh": "他在全国设有300个塑料袋回收点。"
+    },
+    {
+      "id": 189,
+      "startMs": 1069040,
+      "endMs": 1074400,
+      "en": "And he supplements these by buying more that have been gathered by waste pickers.",
+      "zh": "此外，他还购买拾荒者收集的塑料袋作为补充。"
+    },
+    {
+      "id": 190,
+      "startMs": 1075120,
+      "endMs": 1082240,
+      "en": "So when the dry shreds come here, we have this heat-transfer equipment",
+      "zh": "干燥的碎料送到这里后，我们用这套热转印设备，"
+    },
+    {
+      "id": 191,
+      "startMs": 1082240,
+      "endMs": 1085760,
+      "en": "and then we have a hydraulic press that we use to press it.",
+      "zh": "然后用液压机把它们压制成型。"
+    },
+    {
+      "id": 192,
+      "startMs": 1089060,
+      "endMs": 1092420,
+      "en": "Okay, so we set it and then we wait.",
+      "zh": "好，我们把它设定好，然后等待。"
+    },
+    {
+      "id": 193,
+      "startMs": 1094560,
+      "endMs": 1098560,
+      "en": "So this looks to me like a big sandwich-making machine",
+      "zh": "这在我看来像一台大型三明治制作机，"
+    },
+    {
+      "id": 194,
+      "startMs": 1098640,
+      "endMs": 1105280,
+      "en": "but instead of sandwich, this is plastic material that's been put into this machine and then pressed together.",
+      "zh": "但里面放的不是三明治，而是塑料材料，经机器压在一起。"
+    },
+    {
+      "id": 195,
+      "startMs": 1105360,
+      "endMs": 1106400,
+      "en": "Yes, that's close enough.",
+      "zh": "对，差不多就是这样。"
+    },
+    {
+      "id": 196,
+      "startMs": 1108480,
+      "endMs": 1116480,
+      "en": "These sandwich machines can create a range of materials, from a leather-like fabric to these desk boards that are just like plywood.",
+      "zh": "这些机器能制造各种材料，从仿皮织物到这种和胶合板很像的课桌板。"
+    },
+    {
+      "id": 197,
+      "startMs": 1119480,
+      "endMs": 1126300,
+      "en": "They are sanded and drilled to the desk frames.",
+      "zh": "这些板材经过打磨并钻孔，装到课桌框架上。"
+    },
+    {
+      "id": 198,
+      "startMs": 1127180,
+      "endMs": 1132460,
+      "en": "So far, Makafui has supplied 600 desks to 12 schools around the country.",
+      "zh": "到目前为止，马卡富伊已向全国12所学校提供了600张课桌。"
+    },
+    {
+      "id": 199,
+      "startMs": 1133100,
+      "endMs": 1141340,
+      "en": "They cost about 60 US dollars each, but they're not paid for by the schools, but with grants and corporate donations.",
+      "zh": "每张课桌约60美元，但费用不是由学校支付，而是来自拨款和企业捐赠。"
+    },
+    {
+      "id": 200,
+      "startMs": 1142880,
+      "endMs": 1145920,
+      "en": "I travelled to a nearby school to see them for myself.",
+      "zh": "我前往附近的一所学校，亲自看看这些课桌。"
+    },
+    {
+      "id": 201,
+      "startMs": 1147040,
+      "endMs": 1156240,
+      "en": "So this is a classroom of about 60 pupils, and as I enter here I can see Makafui's desks lined up with the students sitting on them and using them.",
+      "zh": "这是一间约有60名学生的教室。我进来后看到马卡富伊制作的课桌整齐排列，学生们正坐在桌前使用。"
+    },
+    {
+      "id": 202,
+      "startMs": 1156240,
+      "endMs": 1157600,
+      "en": "I'm just going to go have a chat.",
+      "zh": "我去和他们聊聊。"
+    },
+    {
+      "id": 203,
+      "startMs": 1158800,
+      "endMs": 1163360,
+      "en": "When we are writing exams, you know, the wooden desks, they are not that smooth for the paper.",
+      "zh": "考试答题时，木桌的桌面不够平滑，纸张用起来不方便。"
+    },
+    {
+      "id": 204,
+      "startMs": 1163520,
+      "endMs": 1167200,
+      "en": "So when we are writing, the writing doesn't look smooth, but this one is good.",
+      "zh": "所以在上面写字时，字迹不够流畅；但这张桌子很好。"
+    },
+    {
+      "id": 205,
+      "startMs": 1167280,
+      "endMs": 1171740,
+      "en": "For us, it's really helpful. The wooden desks break easily.",
+      "zh": "对我们来说，这真的很有帮助。木桌很容易坏。"
+    },
+    {
+      "id": 206,
+      "startMs": 1171900,
+      "endMs": 1176300,
+      "en": "But these plastic desks, they don't decay and they don't break easily. They are very hard.",
+      "zh": "但这些塑料课桌不会腐烂，也不容易破损。它们非常坚固。"
+    },
+    {
+      "id": 207,
+      "startMs": 1177020,
+      "endMs": 1181420,
+      "en": "Well, I can't resist asking the students to test the strength of the desks.",
+      "zh": "我忍不住请学生们测试一下课桌的坚固程度。"
+    },
+    {
+      "id": 208,
+      "startMs": 1181740,
+      "endMs": 1184460,
+      "en": "Okay, so three, two, one, go.",
+      "zh": "好，三、二、一，开始。"
+    },
+    {
+      "id": 209,
+      "startMs": 1187860,
+      "endMs": 1188740,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 210,
+      "startMs": 1191220,
+      "endMs": 1193940,
+      "en": "Justice Baidu reporting from Accra.",
+      "zh": "贾斯蒂斯·拜杜从阿克拉报道。"
+    },
+    {
+      "id": 211,
+      "startMs": 1194740,
+      "endMs": 1204340,
+      "en": "Now, that's the clicking sound of a Rubik's Cube being speedily solved by a six-year-old.",
+      "zh": "现在听到的是一个六岁孩子飞速还原魔方的咔嗒声。"
+    },
+    {
+      "id": 212,
+      "startMs": 1204660,
+      "endMs": 1210980,
+      "en": "Lian Yunzi from China took just over 4 seconds, setting a woman's world record.",
+      "zh": "来自中国的梁云曦仅用4秒多，创造了女子世界纪录。"
+    },
+    {
+      "id": 213,
+      "startMs": 1211300,
+      "endMs": 1217700,
+      "en": "Her mother said Lian was first introduced to the Rubik's Cube as one of various extracurricular activities.",
+      "zh": "她的母亲说，梁云曦最初是在各种课外活动中接触到魔方的。"
+    },
+    {
+      "id": 214,
+      "startMs": 1218020,
+      "endMs": 1223780,
+      "en": "Alongside dance and music lessons, but how could she do it so quickly at such a young age?",
+      "zh": "除了舞蹈和音乐课，她年纪这么小，怎么能还原得这么快？"
+    },
+    {
+      "id": 215,
+      "startMs": 1224100,
+      "endMs": 1229860,
+      "en": "Professor Jessica Fridrich is considered one of the pioneers of what's known as speedcubing.",
+      "zh": "杰茜卡·弗里德里希教授被认为是竞速魔方运动的先驱之一。"
+    },
+    {
+      "id": 216,
+      "startMs": 1230180,
+      "endMs": 1233700,
+      "en": "Many cubers have adopted a method she devised for solving it.",
+      "zh": "许多魔方玩家采用了她设计的还原方法。"
+    },
+    {
+      "id": 217,
+      "startMs": 1233940,
+      "endMs": 1239940,
+      "en": "She gave her reaction to Lian Yunzi's record-beating time to the BBC's Rebecca Kesby.",
+      "zh": "她向BBC记者丽贝卡·凯斯比谈了对梁云曦破纪录成绩的看法。"
+    },
+    {
+      "id": 218,
+      "startMs": 1240100,
+      "endMs": 1243300,
+      "en": "It's absolutely mind-boggling. It's unbelievable.",
+      "zh": "这实在令人难以置信，太不可思议了。"
+    },
+    {
+      "id": 219,
+      "startMs": 1243300,
+      "endMs": 1246900,
+      "en": "If you look at the top six cubers, they're all from China.",
+      "zh": "排名前六的魔方玩家全都来自中国。"
+    },
+    {
+      "id": 220,
+      "startMs": 1246900,
+      "endMs": 1249460,
+      "en": "They are all very young, so it's a trend.",
+      "zh": "他们都非常年轻，所以这已经成为一种趋势。"
+    },
+    {
+      "id": 221,
+      "startMs": 1249940,
+      "endMs": 1255780,
+      "en": "And it's unbelievable that a six-year-old girl can do it in 4.27 seconds on average.",
+      "zh": "一个六岁女孩平均能在4.27秒内完成，这实在难以置信。"
+    },
+    {
+      "id": 222,
+      "startMs": 1256620,
+      "endMs": 1258700,
+      "en": "That is nothing short of a miracle.",
+      "zh": "这简直就是奇迹。"
+    },
+    {
+      "id": 223,
+      "startMs": 1258700,
+      "endMs": 1265180,
+      "en": "Basically, I mean, apparently she does spend two to three hours a day training on the Rubik's Cube.",
+      "zh": "也就是说，据说她每天确实花两到三个小时练习魔方。"
+    },
+    {
+      "id": 224,
+      "startMs": 1265420,
+      "endMs": 1269100,
+      "en": "Is that something that's normal for a cuber, as you call them?",
+      "zh": "正如你所说，这对魔方玩家来说正常吗？"
+    },
+    {
+      "id": 225,
+      "startMs": 1269820,
+      "endMs": 1271740,
+      "en": "I think she spends a lot more than that.",
+      "zh": "我认为她花的时间多得多。"
+    },
+    {
+      "id": 226,
+      "startMs": 1271820,
+      "endMs": 1275340,
+      "en": "Tell me why. Because you become a great speedcuber",
+      "zh": "告诉我为什么。因为要成为优秀的竞速魔方玩家，"
+    },
+    {
+      "id": 227,
+      "startMs": 1275500,
+      "endMs": 1277580,
+      "en": "only if you get possessed by the cube.",
+      "zh": "只有对魔方着了迷才行。"
+    },
+    {
+      "id": 228,
+      "startMs": 1278060,
+      "endMs": 1283020,
+      "en": "If it—if it spells the magic all over you and you can't do anything else, basically.",
+      "zh": "如果它——如果魔方的魔力笼罩了你，让你基本上什么别的事都做不了。"
+    },
+    {
+      "id": 229,
+      "startMs": 1283660,
+      "endMs": 1286300,
+      "en": "So I think two to three hours is an understatement.",
+      "zh": "所以我认为两到三个小时还是保守说法。"
+    },
+    {
+      "id": 230,
+      "startMs": 1286780,
+      "endMs": 1292380,
+      "en": "So what is your advice then? Would there be a trick to it, or a system maybe that works?",
+      "zh": "那么你的建议是什么？有什么诀窍或可行的系统吗？"
+    },
+    {
+      "id": 231,
+      "startMs": 1292700,
+      "endMs": 1297180,
+      "en": "There is no trick to it. It's a lot of work, an incredible",
+      "zh": "没有什么诀窍。这需要大量工作和惊人的"
+    },
+    {
+      "id": 232,
+      "startMs": 1297420,
+      "endMs": 1305740,
+      "en": "memorization that you have to be willing to undertake—to memorize probably over a thousand algorithms",
+      "zh": "记忆力；你得愿意投入其中，记住可能超过一千种算法。"
+    },
+    {
+      "id": 233,
+      "startMs": 1306220,
+      "endMs": 1308140,
+      "en": "to be able to do this fast.",
+      "zh": "这样才能还原得这么快。"
+    },
+    {
+      "id": 234,
+      "startMs": 1308460,
+      "endMs": 1311340,
+      "en": "It's like a magician, you know, like when you see a sleight of hand",
+      "zh": "这就像魔术师，你知道，就像你看到一个手法娴熟的魔术，"
+    },
+    {
+      "id": 235,
+      "startMs": 1311900,
+      "endMs": 1315820,
+      "en": "when you see a magician manipulate cards, they are doing tricks.",
+      "zh": "看到魔术师操纵纸牌时，他们其实是在施展技巧。"
+    },
+    {
+      "id": 236,
+      "startMs": 1316480,
+      "endMs": 1323200,
+      "en": "They are amazing. Your mind is completely blown because you have no explanation for what's happening.",
+      "zh": "他们令人惊叹。你完全看傻了，因为无法解释眼前发生的一切。"
+    },
+    {
+      "id": 237,
+      "startMs": 1323280,
+      "endMs": 1326800,
+      "en": "It looks natural, but it took years and years to practice.",
+      "zh": "看起来很自然，但那是多年苦练的结果。"
+    },
+    {
+      "id": 238,
+      "startMs": 1326960,
+      "endMs": 1330560,
+      "en": "Apparently there are cubing conventions as well as all these competitions.",
+      "zh": "据说除了各种比赛，还有魔方大会。"
+    },
+    {
+      "id": 239,
+      "startMs": 1330880,
+      "endMs": 1333040,
+      "en": "Has it changed much over the years?",
+      "zh": "这些年来变化大吗？"
+    },
+    {
+      "id": 240,
+      "startMs": 1333040,
+      "endMs": 1338640,
+      "en": "Because I mentioned this is a kind of classic 1980s toy, but it was actually invented in the seventies.",
+      "zh": "我刚才提到它有点像经典的20世纪80年代玩具，但其实它发明于70年代。"
+    },
+    {
+      "id": 241,
+      "startMs": 1338640,
+      "endMs": 1341520,
+      "en": "Wasn't it? It was invented in the seventies",
+      "zh": "不是吗？它发明于70年代，"
+    },
+    {
+      "id": 242,
+      "startMs": 1341520,
+      "endMs": 1344880,
+      "en": "and it took off right around 1980. Nineteen eighty-two",
+      "zh": "并在1980年前后流行起来。1982年，"
+    },
+    {
+      "id": 243,
+      "startMs": 1346240,
+      "endMs": 1349440,
+      "en": "was the first world championship in Rubik's Cube in Budapest.",
+      "zh": "首届魔方世界锦标赛在布达佩斯举行。"
+    },
+    {
+      "id": 244,
+      "startMs": 1350260,
+      "endMs": 1353220,
+      "en": "In Europe, I was representing Czechoslovakia at that time.",
+      "zh": "当时我代表捷克斯洛伐克参赛。"
+    },
+    {
+      "id": 245,
+      "startMs": 1353540,
+      "endMs": 1355940,
+      "en": "The cube is completely different nowadays.",
+      "zh": "如今的魔方完全不同了。"
+    },
+    {
+      "id": 246,
+      "startMs": 1356100,
+      "endMs": 1359940,
+      "en": "They are made in a way that allows a certain type of twisting the cube.",
+      "zh": "现在的魔方设计允许以特定方式扭转方块。"
+    },
+    {
+      "id": 247,
+      "startMs": 1360500,
+      "endMs": 1365220,
+      "en": "Certain type of handling that you would not be able to do back in the 1980s or 1970s",
+      "zh": "还有一些在20世纪80年代或70年代无法做到的操作方式，"
+    },
+    {
+      "id": 248,
+      "startMs": 1365220,
+      "endMs": 1368020,
+      "en": "because those cubes were hard to turn.",
+      "zh": "因为那时的魔方很难转动。"
+    },
+    {
+      "id": 249,
+      "startMs": 1368580,
+      "endMs": 1373300,
+      "en": "The difference between a speedcuber today and back in the 1970s, eighties, let's say,",
+      "zh": "比如说，今天的竞速魔方玩家与70、80年代相比，"
+    },
+    {
+      "id": 250,
+      "startMs": 1373380,
+      "endMs": 1376900,
+      "en": "is that there was no internet at that time",
+      "zh": "区别在于当时还没有互联网，"
+    },
+    {
+      "id": 251,
+      "startMs": 1377300,
+      "endMs": 1382900,
+      "en": "and every cuber had to also invent their own system, or their own version of a system",
+      "zh": "每个玩家还必须发明自己的系统，或自己的一套方法，"
+    },
+    {
+      "id": 252,
+      "startMs": 1382900,
+      "endMs": 1385700,
+      "en": "to solve and to be fast.",
+      "zh": "才能还原魔方并达到速度。"
+    },
+    {
+      "id": 253,
+      "startMs": 1385860,
+      "endMs": 1387620,
+      "en": "Professor Jessica Fridrich.",
+      "zh": "杰茜卡·弗里德里希教授。"
+    },
+    {
+      "id": 254,
+      "startMs": 1390680,
+      "endMs": 1393080,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是本期节目的全部内容。"
+    },
+    {
+      "id": 255,
+      "startMs": 1393240,
+      "endMs": 1398920,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 256,
+      "startMs": 1399000,
+      "endMs": 1402840,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "你也可以在X上关注BBC World Service。"
+    },
+    {
+      "id": 257,
+      "startMs": 1402920,
+      "endMs": 1405400,
+      "en": "Use the hashtag Global News Pod.",
+      "zh": "请使用话题标签Global News Pod。"
+    },
+    {
+      "id": 258,
+      "startMs": 1405880,
+      "endMs": 1413080,
+      "en": "And don't forget our sibling podcast, The Global Story, which goes in depth and beyond the headlines",
+      "zh": "别忘了我们的兄弟播客《全球故事》，它会深入讲述一条新闻，超越头条。"
+    },
+    {
+      "id": 259,
+      "startMs": 1413160,
+      "endMs": 1415080,
+      "en": "on one big story.",
+      "zh": "每期聚焦一个重大故事。"
+    },
+    {
+      "id": 260,
+      "startMs": 1415560,
+      "endMs": 1422360,
+      "en": "This edition of the Global News Podcast was mixed by Chris Ablakwa and the producer was",
+      "zh": "本期《全球新闻播客》由克里斯·阿布拉夸混音，制片人是"
+    },
+    {
+      "id": 261,
+      "startMs": 1422600,
+      "endMs": 1425880,
+      "en": "Marion Strawn. The editor is Karen Martin.",
+      "zh": "马里恩·斯特朗，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 262,
+      "startMs": 1426280,
+      "endMs": 1429400,
+      "en": "I'm Alex Ritson. Until next time, goodbye.",
+      "zh": "我是亚历克斯·里特森。下次再会。"
+    }
+  ]
+}
