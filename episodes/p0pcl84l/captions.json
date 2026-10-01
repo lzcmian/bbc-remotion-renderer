@@ -1,0 +1,1607 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "26 September 2026"
+  },
+  "durationMs": 1311280,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2800,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 5560,
+      "endMs": 11320,
+      "en": "Hello, I'm Ankur Desai, and in the early hours of Saturday the 26th of September, these are our main stories.",
+      "zh": "你好，我是安库尔·德赛。现在是9月26日星期六凌晨，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11880,
+      "endMs": 17400,
+      "en": "One of the world's richest football clubs, Manchester City, has been found guilty of dozens of breaches of financial rules.",
+      "zh": "世界上最富有的足球俱乐部之一曼彻斯特城，被判违反数十项财务规则。"
+    },
+    {
+      "id": 4,
+      "startMs": 18040,
+      "endMs": 25720,
+      "en": "Iran offers a deal to the US to reopen the Strait of Hormuz within seven days, linked to an end to all fighting in the region.",
+      "zh": "伊朗提出与美国达成协议，在七天内重开霍尔木兹海峡，条件是结束该地区的一切战斗。"
+    },
+    {
+      "id": 5,
+      "startMs": 26200,
+      "endMs": 32120,
+      "en": "And the UN says there has been a sharp increase of Sudanese refugees fleeing the country's civil war for neighbouring Chad.",
+      "zh": "联合国说，逃离苏丹内战、前往邻国乍得的苏丹难民人数大幅增加。"
+    },
+    {
+      "id": 6,
+      "startMs": 35180,
+      "endMs": 44220,
+      "en": "Also, FBI agents tell the BBC of their shock, fear, and anger following a hack that threatens to expose highly sensitive personal data.",
+      "zh": "联邦调查局探员向 BBC 讲述一次黑客攻击后的震惊、恐惧与愤怒；这次攻击可能暴露高度敏感的个人数据。"
+    },
+    {
+      "id": 7,
+      "startMs": 44780,
+      "endMs": 45820,
+      "en": "And we're in Paris",
+      "zh": "我们还将前往巴黎，"
+    },
+    {
+      "id": 8,
+      "startMs": 49340,
+      "endMs": 56460,
+      "en": "for day one of four of a state visit by Pope Leo, who warns followers against the dangers of artificial intelligence.",
+      "zh": "报道教皇良一世为期四天国事访问的第一天；他警告信徒人工智能的危险。"
+    },
+    {
+      "id": 9,
+      "startMs": 61100,
+      "endMs": 65740,
+      "en": "We start the podcast with the bombshell verdict that has rocked the world of English football.",
+      "zh": "我们先从震动英格兰足坛的爆炸性裁决说起。"
+    },
+    {
+      "id": 10,
+      "startMs": 66220,
+      "endMs": 72380,
+      "en": "The team that lit up television screens and dominated the Premier League for ten years under Pep Guardiola,",
+      "zh": "在佩普·瓜迪奥拉执教下点亮电视屏幕、称霸英超十年的球队，"
+    },
+    {
+      "id": 11,
+      "startMs": 72460,
+      "endMs": 76780,
+      "en": "Manchester City has been found guilty of repeatedly breaking financial rules.",
+      "zh": "曼彻斯特城被判屡次违反财务规则。"
+    },
+    {
+      "id": 12,
+      "startMs": 77260,
+      "endMs": 80460,
+      "en": "It marks the biggest disciplinary case in the history of the sport,",
+      "zh": "这标志着该项运动历史上最大的纪律案件，"
+    },
+    {
+      "id": 13,
+      "startMs": 80860,
+      "endMs": 86220,
+      "en": "with the club found guilty on almost all of the 115 charges against it.",
+      "zh": "俱乐部几乎被判定涉及针对它提出的全部115项指控。"
+    },
+    {
+      "id": 14,
+      "startMs": 86780,
+      "endMs": 88940,
+      "en": "With more, here is our sports editor, Dan Roan.",
+      "zh": "下面请体育编辑丹·罗恩带来更多报道。"
+    },
+    {
+      "id": 15,
+      "startMs": 90340,
+      "endMs": 94580,
+      "en": "Over the past decade, Manchester City have enjoyed an era of unprecedented success.",
+      "zh": "过去十年，曼彻斯特城享有前所未有的成功。"
+    },
+    {
+      "id": 16,
+      "startMs": 95220,
+      "endMs": 99700,
+      "en": "They are the only English club in history to have won the top division title four times in a row.",
+      "zh": "他们是英格兰历史上唯一连续四次赢得顶级联赛冠军的俱乐部。"
+    },
+    {
+      "id": 17,
+      "startMs": 100340,
+      "endMs": 102900,
+      "en": "But for years now, a cloud has hung above the Etihad.",
+      "zh": "但多年来，伊蒂哈德球场一直笼罩着阴云。"
+    },
+    {
+      "id": 18,
+      "startMs": 103140,
+      "endMs": 109060,
+      "en": "City were accused of a catalogue of financial rule violations by the very competition they dominated for so long.",
+      "zh": "曼城被他们长期称霸的赛事指控违反了一系列财务规则。"
+    },
+    {
+      "id": 19,
+      "startMs": 109980,
+      "endMs": 112540,
+      "en": "And today finally came seismic news.",
+      "zh": "今天，重大消息终于传来。"
+    },
+    {
+      "id": 20,
+      "startMs": 112620,
+      "endMs": 116220,
+      "en": "City were found guilty of the majority of 115 charges.",
+      "zh": "曼城被判定大多数115项指控成立。"
+    },
+    {
+      "id": 21,
+      "startMs": 117440,
+      "endMs": 123040,
+      "en": "In a statement, the club said the Premier League process remains ongoing, with significant elements to be completed.",
+      "zh": "俱乐部在声明中说，英超的程序仍在进行，还有重要环节有待完成。"
+    },
+    {
+      "id": 22,
+      "startMs": 123360,
+      "endMs": 127360,
+      "en": "The club has diligently respected due process for eight years, on the basis",
+      "zh": "俱乐部八年来一直认真遵守正当程序，因为他们相信"
+    },
+    {
+      "id": 23,
+      "startMs": 127360,
+      "endMs": 134640,
+      "en": "that the Premier League board and executive would behave as an independent, impartial, and fair-minded regulator, free from partisan influence.",
+      "zh": "英超董事会及管理层会成为独立、公正、公平的监管者，不受党派影响。"
+    },
+    {
+      "id": 24,
+      "startMs": 135520,
+      "endMs": 138000,
+      "en": "This was the reaction of fans outside the Etihad.",
+      "zh": "这是伊蒂哈德球场外球迷的反应。"
+    },
+    {
+      "id": 25,
+      "startMs": 138000,
+      "endMs": 145120,
+      "en": "Regardless, I'm a City fan first. Do I agree with the rules? No, but if they broke them, they broke them.",
+      "zh": "无论如何，我首先是曼城球迷。我同意这些规则吗？不同意，但如果他们违反了规则，那就是违反了规则。"
+    },
+    {
+      "id": 26,
+      "startMs": 145120,
+      "endMs": 149600,
+      "en": "I don't want to say something's been tainted when we're not at the bottom of this.",
+      "zh": "在事情还没有尘埃落定时，我不想说什么已经被玷污了。"
+    },
+    {
+      "id": 27,
+      "startMs": 149600,
+      "endMs": 152720,
+      "en": "There's still, you know, things that go on in the background.",
+      "zh": "你知道，幕后还有事情在进行。"
+    },
+    {
+      "id": 28,
+      "startMs": 152800,
+      "endMs": 159040,
+      "en": "It's a big club. They've got the infrastructure to fight it, and they've got the money. I think they'll be all right. So how did we get here?",
+      "zh": "这是家大俱乐部，有基础设施，也有资金来应对这件事。我想他们会没事的。那么事情是怎么走到这一步的？"
+    },
+    {
+      "id": 29,
+      "startMs": 159440,
+      "endMs": 165040,
+      "en": "In February 2023, City faced a catalogue of alleged breaches of the Premier League rulebook.",
+      "zh": "2023年2月，曼城面对一系列涉嫌违反英超规则的指控。"
+    },
+    {
+      "id": 30,
+      "startMs": 165200,
+      "endMs": 171040,
+      "en": "There were 54 charges over a failure to provide accurate financial information across nine seasons,",
+      "zh": "其中54项指控涉及九个赛季未能提供准确财务信息，"
+    },
+    {
+      "id": 31,
+      "startMs": 171040,
+      "endMs": 176960,
+      "en": "and 14 more over a failure to provide accurate details for player and manager payments over the same period.",
+      "zh": "另有14项涉及同期未能提供球员和主教练付款的准确信息。"
+    },
+    {
+      "id": 32,
+      "startMs": 177620,
+      "endMs": 183540,
+      "en": "They were also accused of 12 counts of failing to comply with both UEFA and Premier League financial rules,",
+      "zh": "他们还被指控有12项未遵守欧足联和英超财务规则的行为，"
+    },
+    {
+      "id": 33,
+      "startMs": 183540,
+      "endMs": 187540,
+      "en": "and 35 charges of failing to cooperate with the Premier League's investigation.",
+      "zh": "以及35项未配合英超调查的指控。"
+    },
+    {
+      "id": 34,
+      "startMs": 188180,
+      "endMs": 193460,
+      "en": "The saga began back in 2008, when City's fortunes were transformed after it",
+      "zh": "这场风波始于2008年，当时曼城被收购后命运发生了改变，"
+    },
+    {
+      "id": 35,
+      "startMs": 193460,
+      "endMs": 197140,
+      "en": "was bought by Sheikh Mansour, a billionaire member of Abu Dhabi's ruling family.",
+      "zh": "买家是阿布扎比统治家族的亿万富翁成员谢赫·曼苏尔。"
+    },
+    {
+      "id": 36,
+      "startMs": 197460,
+      "endMs": 201940,
+      "en": "His wealth secured some of the world's best players and a first Premier League title in 2012.",
+      "zh": "他的财富带来了世界上一些最优秀的球员，也带来了2012年的首座英超冠军。"
+    },
+    {
+      "id": 37,
+      "startMs": 204160,
+      "endMs": 207280,
+      "en": "Finally, football appears to have one of its biggest ever results.",
+      "zh": "足球界终于迎来了有史以来最重大的裁决之一。"
+    },
+    {
+      "id": 38,
+      "startMs": 207520,
+      "endMs": 212240,
+      "en": "But with no news of a sanction and City set to appeal, the saga is far from over.",
+      "zh": "但由于尚无处罚消息且曼城将提出上诉，这场风波远未结束。"
+    },
+    {
+      "id": 39,
+      "startMs": 212720,
+      "endMs": 218400,
+      "en": "So what next for Manchester City, and what could be the wider consequences for the English Premier League?",
+      "zh": "那么曼城接下来会怎样？这对英超可能带来哪些更广泛的后果？"
+    },
+    {
+      "id": 40,
+      "startMs": 218800,
+      "endMs": 220960,
+      "en": "I asked our football correspondent, Dale Johnson.",
+      "zh": "我询问了足球记者戴尔·约翰逊。"
+    },
+    {
+      "id": 41,
+      "startMs": 221280,
+      "endMs": 225280,
+      "en": "So this is going to be a severe punishment. It is an absolutely seismic case.",
+      "zh": "这将会是严厉的处罚，绝对是震撼性的案件。"
+    },
+    {
+      "id": 42,
+      "startMs": 225600,
+      "endMs": 232000,
+      "en": "It goes across nine years of continual misconduct, if it is indeed proven and they don't win an appeal.",
+      "zh": "如果这些持续九年的不当行为最终被证实且上诉失败，案件将涵盖整整九年。"
+    },
+    {
+      "id": 43,
+      "startMs": 232320,
+      "endMs": 235440,
+      "en": "So there are a few things that are open to the disciplinary panel.",
+      "zh": "纪律委员会有几种选择。"
+    },
+    {
+      "id": 44,
+      "startMs": 235760,
+      "endMs": 239600,
+      "en": "It's a points deduction, financial penalties, or removal from the Premier League.",
+      "zh": "包括扣分、罚款，或将其逐出英超。"
+    },
+    {
+      "id": 45,
+      "startMs": 239600,
+      "endMs": 241760,
+      "en": "Now, removal from the Premier League sounds unlikely,",
+      "zh": "将其逐出英超听起来不太可能，"
+    },
+    {
+      "id": 46,
+      "startMs": 242160,
+      "endMs": 248160,
+      "en": "but a points deduction, because of the gravity of this and because they have failed to comply throughout,",
+      "zh": "但鉴于事件的严重性以及他们一直未能遵守规定，扣分"
+    },
+    {
+      "id": 47,
+      "startMs": 248560,
+      "endMs": 254080,
+      "en": "it seems highly likely there will be a heavy points deduction that will be meted out by the disciplinary commission.",
+      "zh": "似乎很可能发生，而且纪律委员会会施以重罚。"
+    },
+    {
+      "id": 48,
+      "startMs": 254320,
+      "endMs": 262640,
+      "en": "Dale, the domino effect could be that once the formal process is done, wider implications may follow, with other clubs wanting to settle some scores.",
+      "zh": "戴尔，多米诺骨牌效应可能是，正式程序结束后会产生更广泛的影响，其他俱乐部可能想讨回公道。"
+    },
+    {
+      "id": 49,
+      "startMs": 262640,
+      "endMs": 272500,
+      "en": "They may feel they missed out on titles or income without European qualification, or lost money after relegation. Floodgates could open.",
+      "zh": "他们可能认为，自己因未获欧洲赛事资格而错失冠军或收入，或因降级而损失金钱，闸门可能就此打开。"
+    },
+    {
+      "id": 50,
+      "startMs": 272740,
+      "endMs": 279140,
+      "en": "Yeah, this is going to be absolutely massive, because if you look at two years ago, several Premier League clubs",
+      "zh": "是的，这将会影响巨大。两年前，几家英超俱乐部"
+    },
+    {
+      "id": 51,
+      "startMs": 279380,
+      "endMs": 286500,
+      "en": "said that they would reserve the right to take action to get financial compensation should Manchester City be found guilty.",
+      "zh": "就曾表示，如果曼城被判有罪，他们保留采取行动、寻求经济赔偿的权利。"
+    },
+    {
+      "id": 52,
+      "startMs": 286820,
+      "endMs": 295540,
+      "en": "We're not just talking about Manchester United and Liverpool, who missed out on the title in the three years Manchester City won it.",
+      "zh": "现在谈的不只是曼联和利物浦：曼城夺冠的三年里，它们错失了冠军。"
+    },
+    {
+      "id": 53,
+      "startMs": 295940,
+      "endMs": 302660,
+      "en": "It's about the teams that finished just outside the Champions League places, the teams that missed out in Europe, and the teams that were relegated.",
+      "zh": "还包括排名仅次于欧冠席位的球队、错失欧洲赛事资格的球队，以及被降级的球队。"
+    },
+    {
+      "id": 54,
+      "startMs": 303300,
+      "endMs": 308020,
+      "en": "There are so many implications here, and when you consider that earlier this year Burnley",
+      "zh": "这里牵涉的影响很多。想想今年早些时候，伯恩利"
+    },
+    {
+      "id": 55,
+      "startMs": 308020,
+      "endMs": 315460,
+      "en": "were awarded £35 million from Everton because they were relegated in one year when Everton had a PSR breach,",
+      "zh": "就因埃弗顿某年违反盈利和可持续性规则、导致其降级，而从埃弗顿获赔3500万英镑，"
+    },
+    {
+      "id": 56,
+      "startMs": 315860,
+      "endMs": 318740,
+      "en": "and that was just a few points, and that's one team.",
+      "zh": "而那只涉及几分，也只有一支球队。"
+    },
+    {
+      "id": 57,
+      "startMs": 319060,
+      "endMs": 323220,
+      "en": "Can you imagine the potential size of compensation Manchester City",
+      "zh": "你能想象曼城可能需要支付的赔偿金额吗？"
+    },
+    {
+      "id": 58,
+      "startMs": 323560,
+      "endMs": 330840,
+      "en": "might have to pay out if this does turn out as it seems to be, with them being found guilty and having to face these claims for compensation?",
+      "zh": "如果事情最终如目前所见，曼城被判有罪并必须面对这些赔偿要求，可能要付出多大代价？"
+    },
+    {
+      "id": 59,
+      "startMs": 331400,
+      "endMs": 333240,
+      "en": "Our football correspondent, Dale Johnson.",
+      "zh": "我们的足球记者戴尔·约翰逊。"
+    },
+    {
+      "id": 60,
+      "startMs": 334260,
+      "endMs": 343300,
+      "en": "Iran's foreign minister says his country has proposed a deal to the US to reopen the Strait of Hormuz within seven days if certain conditions are met.",
+      "zh": "伊朗外长说，如果满足某些条件，伊朗提议与美国达成协议，在七天内重新开放霍尔木兹海峡。"
+    },
+    {
+      "id": 61,
+      "startMs": 343940,
+      "endMs": 350660,
+      "en": "The closure of the waterway has caused oil and gas prices to soar, causing hardship for millions of people around the world.",
+      "zh": "这条水道关闭导致油气价格飙升，给世界各地数百万人带来困难。"
+    },
+    {
+      "id": 62,
+      "startMs": 351300,
+      "endMs": 356420,
+      "en": "Abbas Araghchi, speaking at the UN in New York, said the choice now rests with the United States.",
+      "zh": "阿巴斯·阿拉格齐在纽约联合国总部讲话时说，现在选择权在美国手中。"
+    },
+    {
+      "id": 63,
+      "startMs": 356900,
+      "endMs": 363600,
+      "en": "Iran has conveyed to the United States through Qatar a concrete seven-day plan.",
+      "zh": "伊朗已通过卡塔尔向美国传达一项具体的七日计划。"
+    },
+    {
+      "id": 64,
+      "startMs": 364960,
+      "endMs": 374280,
+      "en": "If the necessary conditions are met, the strait can be reopened, and normal maritime passage restored within seven days.",
+      "zh": "如果满足必要条件，海峡可以重新开放，正常海上通行可在七天内恢复。"
+    },
+    {
+      "id": 65,
+      "startMs": 375640,
+      "endMs": 378360,
+      "en": "The choice now rests with the United States.",
+      "zh": "现在选择权在美国手中。"
+    },
+    {
+      "id": 66,
+      "startMs": 379640,
+      "endMs": 382920,
+      "en": "Iran does not accept coercion, threat, or intimidation.",
+      "zh": "伊朗不接受胁迫、威胁或恐吓。"
+    },
+    {
+      "id": 67,
+      "startMs": 383960,
+      "endMs": 388040,
+      "en": "And Iran will not surrender its sovereign rights under pressure.",
+      "zh": "伊朗也不会在压力下放弃主权权利。"
+    },
+    {
+      "id": 68,
+      "startMs": 388760,
+      "endMs": 392200,
+      "en": "We got more on the plan from our UN correspondent, Neda Tawfik.",
+      "zh": "联合国记者内达·陶菲克将进一步介绍这项计划。"
+    },
+    {
+      "id": 69,
+      "startMs": 392680,
+      "endMs": 399160,
+      "en": "To cap off this busy week of diplomacy, Iran's foreign minister Abbas Araghchi delivered a statement to the press.",
+      "zh": "在这一外交活动繁忙的一周即将结束之际，伊朗外长阿巴斯·阿拉格齐向媒体发表声明。"
+    },
+    {
+      "id": 70,
+      "startMs": 399240,
+      "endMs": 408840,
+      "en": "He said Iran had delivered a concrete plan through Qatari mediators to the United States to get the Strait of Hormuz open within seven days.",
+      "zh": "他说，伊朗已通过卡塔尔调解方把具体计划交给美国，以便在七天内开放霍尔木兹海峡。"
+    },
+    {
+      "id": 71,
+      "startMs": 408840,
+      "endMs": 414280,
+      "en": "And he said if the US was serious about diplomacy, everything was now prepared.",
+      "zh": "他还说，如果美国认真对待外交，一切现在都已准备就绪。"
+    },
+    {
+      "id": 72,
+      "startMs": 414600,
+      "endMs": 424600,
+      "en": "In reality, it's not much different from the original memorandum of understanding reached between Iran and the US before that initial ceasefire broke down.",
+      "zh": "实际上，这与伊朗和美国在最初停火破裂前达成的谅解备忘录并没有太大不同。"
+    },
+    {
+      "id": 73,
+      "startMs": 425000,
+      "endMs": 431320,
+      "en": "Iran says that if their assets are unfrozen and the naval blockade in the Strait is lifted,",
+      "zh": "伊朗说，如果其资产解冻、海峡中的海上封锁解除，"
+    },
+    {
+      "id": 74,
+      "startMs": 431640,
+      "endMs": 437960,
+      "en": "and if a ceasefire includes Lebanon, they are ready to open the Strait of Hormuz from their end.",
+      "zh": "如果停火包括黎巴嫩，伊朗就准备从己方开放霍尔木兹海峡。"
+    },
+    {
+      "id": 75,
+      "startMs": 438280,
+      "endMs": 442120,
+      "en": "But this deal would now just shorten that timeline to seven days.",
+      "zh": "但这项协议只是把时间表缩短到七天。"
+    },
+    {
+      "id": 76,
+      "startMs": 442680,
+      "endMs": 446300,
+      "en": "It's unclear at the moment how the United States will respond to this.",
+      "zh": "目前尚不清楚美国将如何回应。"
+    },
+    {
+      "id": 77,
+      "startMs": 446380,
+      "endMs": 456860,
+      "en": "For the Iranian delegation, they are hoping that the upcoming midterm elections will provide an incentive for Donald Trump to declare some kind of deal and victory.",
+      "zh": "伊朗代表团希望即将到来的中期选举能促使唐纳德·特朗普宣布达成某种协议并取得胜利。"
+    },
+    {
+      "id": 78,
+      "startMs": 457100,
+      "endMs": 461660,
+      "en": "But President Trump has already told this assembly that he won't be swayed by the election,",
+      "zh": "但特朗普总统已告诉这次大会，选举不会左右他的决定，"
+    },
+    {
+      "id": 79,
+      "startMs": 461980,
+      "endMs": 468220,
+      "en": "and he still believes that crippling economic pressure will ultimately help the US with leverage.",
+      "zh": "他仍认为，造成重创的经济压力最终会帮助美国取得谈判筹码。"
+    },
+    {
+      "id": 80,
+      "startMs": 468540,
+      "endMs": 469500,
+      "en": "Neda Tawfik.",
+      "zh": "内达·陶菲克。"
+    },
+    {
+      "id": 81,
+      "startMs": 469660,
+      "endMs": 475180,
+      "en": "Almost all refugees going to America are now white Afrikaners from South Africa.",
+      "zh": "现在前往美国的难民几乎全是来自南非的白人阿非利卡人。"
+    },
+    {
+      "id": 82,
+      "startMs": 475900,
+      "endMs": 480300,
+      "en": "The US State Department says more than 17,000 could be admitted next year.",
+      "zh": "美国国务院说，明年可能有超过1.7万人获准入境。"
+    },
+    {
+      "id": 83,
+      "startMs": 480700,
+      "endMs": 489180,
+      "en": "It comes as a result of Donald Trump creating a refugee scheme for white Afrikaners after claiming there is a genocide against them in South Africa.",
+      "zh": "这源于唐纳德·特朗普设立了一个面向白人阿非利卡人的难民计划，此前他声称南非正在对他们实施种族灭绝。"
+    },
+    {
+      "id": 84,
+      "startMs": 489820,
+      "endMs": 498380,
+      "en": "But South Africa's new ambassador to Washington says there is no genocide against white Afrikaners like himself, and is pushing for the scheme to be scrapped.",
+      "zh": "但南非驻华盛顿新任大使说，不存在针对像他这样的白人阿非利卡人的种族灭绝，并正推动取消这项计划。"
+    },
+    {
+      "id": 85,
+      "startMs": 498780,
+      "endMs": 501660,
+      "en": "Our North America correspondent, Ione Wells, sent this report.",
+      "zh": "北美记者艾奥妮·韦尔斯发回报道。"
+    },
+    {
+      "id": 86,
+      "startMs": 504140,
+      "endMs": 513020,
+      "en": "In St Helena Bay on South Africa's west coast, the houses have an enviable view of long sand beaches, blue skies, and a gentle swell of waves.",
+      "zh": "在南非西海岸的圣赫勒拿湾，房屋可以俯瞰绵长的沙滩、蓝天和轻柔起伏的海浪。"
+    },
+    {
+      "id": 87,
+      "startMs": 513020,
+      "endMs": 516140,
+      "en": "The most important thing is your birth certificate.",
+      "zh": "最重要的是你的出生证明。"
+    },
+    {
+      "id": 88,
+      "startMs": 516380,
+      "endMs": 521740,
+      "en": "But this resident, S.E. Devenaha, wants to pack it all up and, in his words, flee.",
+      "zh": "但这位居民S.E.德维纳哈想收拾一切，用他的话说，就是逃离这里。"
+    },
+    {
+      "id": 89,
+      "startMs": 522300,
+      "endMs": 528300,
+      "en": "South Africa is a terrible country to live in for everybody at this stage, not just the Afrikaners.",
+      "zh": "现阶段，南非对所有人来说都是一个糟糕的居住地，不只是对阿非利卡人如此。"
+    },
+    {
+      "id": 90,
+      "startMs": 528780,
+      "endMs": 537980,
+      "en": "But the reality is that there's a political drive towards killing white people and killing the farmers on the farms.",
+      "zh": "但现实是，有一股政治力量在推动杀害白人和农场里的农民。"
+    },
+    {
+      "id": 91,
+      "startMs": 538300,
+      "endMs": 543900,
+      "en": "And that movement is a politically driven agenda to wipe us out.",
+      "zh": "这场运动是一个旨在消灭我们的政治议程。"
+    },
+    {
+      "id": 92,
+      "startMs": 544140,
+      "endMs": 547820,
+      "en": "Data shows most victims of farm violence in the country are black, not white,",
+      "zh": "数据显示，该国农场暴力事件的大多数受害者是黑人而非白人，"
+    },
+    {
+      "id": 93,
+      "startMs": 548140,
+      "endMs": 552060,
+      "en": "and farm attacks, while they do exist, only make up a small fraction of murders.",
+      "zh": "农场袭击确实存在，但只占谋杀案的一小部分。"
+    },
+    {
+      "id": 94,
+      "startMs": 553080,
+      "endMs": 558360,
+      "en": "And these are people that are officials, and they're saying that: kill the white farmer and take their land.",
+      "zh": "而且这些人是官员，他们说：杀掉白人农民，夺走他们的土地。"
+    },
+    {
+      "id": 95,
+      "startMs": 558360,
+      "endMs": 564520,
+      "en": "The data hasn't stopped US President Donald Trump seizing on this narrative and claiming white South Africans are victims of genocide.",
+      "zh": "这些数据并未阻止美国总统唐纳德·特朗普抓住这一说法，声称南非白人是种族灭绝的受害者。"
+    },
+    {
+      "id": 96,
+      "startMs": 564840,
+      "endMs": 572360,
+      "en": "He made this accusation to South Africa's President Cyril Ramaphosa at the White House last year and created a refugee scheme for white South Africans.",
+      "zh": "他去年在白宫向南非总统西里尔·拉马福萨提出这一指控，并为南非白人设立了难民计划。"
+    },
+    {
+      "id": 97,
+      "startMs": 572760,
+      "endMs": 579320,
+      "en": "We had three separate occasions where people came into the house, but",
+      "zh": "曾有三次不同的情况，有人闯入房屋，但是——"
+    },
+    {
+      "id": 98,
+      "startMs": 579640,
+      "endMs": 583640,
+      "en": "Lily, not her real name, moved her family to Texas through the scheme a year ago,",
+      "zh": "莉莉（化名）一年前通过这项计划把家人搬到了得克萨斯州，"
+    },
+    {
+      "id": 99,
+      "startMs": 583800,
+      "endMs": 586200,
+      "en": "leaving their farm and lives behind in South Africa.",
+      "zh": "把他们在南非的农场和生活都留在了身后。"
+    },
+    {
+      "id": 100,
+      "startMs": 586280,
+      "endMs": 589400,
+      "en": "Nothing was stolen. We weren't harmed,",
+      "zh": "没有东西被偷，我们也没有受伤，"
+    },
+    {
+      "id": 101,
+      "startMs": 589800,
+      "endMs": 598200,
+      "en": "but there are friends of my husband, people who lived around us, who were not fortunate enough to avoid harm.",
+      "zh": "但我丈夫的一些朋友、住在我们附近的人就没有这么幸运，他们没能躲过伤害。"
+    },
+    {
+      "id": 102,
+      "startMs": 598200,
+      "endMs": 603240,
+      "en": "They were brutally attacked with pangas and hammers, and that was very close to us.",
+      "zh": "他们遭到砍刀和锤子的残酷攻击，而那离我们非常近。"
+    },
+    {
+      "id": 103,
+      "startMs": 603240,
+      "endMs": 605160,
+      "en": "I'm working on my green card.",
+      "zh": "我正在办理绿卡。"
+    },
+    {
+      "id": 104,
+      "startMs": 605640,
+      "endMs": 611640,
+      "en": "In the last 10 months, nearly 13,000 refugees were admitted to the US. All but three of them were South African.",
+      "zh": "过去十个月里，近1.3万名难民获准进入美国，其中只有三人不是南非人。"
+    },
+    {
+      "id": 105,
+      "startMs": 611720,
+      "endMs": 622140,
+      "en": "To qualify for the US program, Larry Bartlett, the former director of the US refugee admissions program, fears they're taking refugee places reserved for those fleeing persecution.",
+      "zh": "要获得美国项目资格，美国难民接收项目的前负责人拉里·巴特利特担心，这些人会占用为逃离迫害者保留的难民名额。"
+    },
+    {
+      "id": 106,
+      "startMs": 622460,
+      "endMs": 634120,
+      "en": "It frankly would be laughable except for the fact that we are now denying legitimate refugees an opportunity to come to the United States,",
+      "zh": "坦率地说，这本来会很可笑，但事实是，我们现在正在剥夺真正的难民前往美国的机会，"
+    },
+    {
+      "id": 107,
+      "startMs": 634920,
+      "endMs": 645320,
+      "en": "and instead, what the Trump administration has chosen to do is to focus on a population of white people who, frankly, under US law, are unlikely to qualify for refugee status,",
+      "zh": "相反，特朗普政府选择把重点放在一群白人身上，而坦率地说，按美国法律，他们不太可能符合难民身份，"
+    },
+    {
+      "id": 108,
+      "startMs": 646520,
+      "endMs": 656280,
+      "en": "and they're taking scarce and precious places for people who have a real need to relocate,",
+      "zh": "他们还占用了本应给真正需要迁移者的稀缺而宝贵的名额，"
+    },
+    {
+      "id": 109,
+      "startMs": 656360,
+      "endMs": 664440,
+      "en": "for people who have fled war, for people who fled ethnic cleansing, is wrong, and I think is probably unlawful.",
+      "zh": "这些名额本应给逃离战争、逃离种族清洗的人；这样做是错误的，我认为很可能也是违法的。"
+    },
+    {
+      "id": 110,
+      "startMs": 664840,
+      "endMs": 673320,
+      "en": "From my perspective, South Africa's new ambassador in Washington, Roelf Meyer, negotiated an end to apartheid on behalf of the party responsible for it.",
+      "zh": "在我看来，南非驻华盛顿新任大使罗尔夫·迈耶曾代表负责实施种族隔离的政党谈判结束种族隔离。"
+    },
+    {
+      "id": 111,
+      "startMs": 673880,
+      "endMs": 676280,
+      "en": "Now he wants to negotiate an end to this scheme.",
+      "zh": "现在他想谈判终止这项计划。"
+    },
+    {
+      "id": 112,
+      "startMs": 676760,
+      "endMs": 689260,
+      "en": "The notion of a mass attack on the Afrikaner was misrepresented by those that might have conveyed the message.",
+      "zh": "有关大规模袭击阿非利卡人的说法，被那些可能传递这一信息的人歪曲了。"
+    },
+    {
+      "id": 113,
+      "startMs": 690060,
+      "endMs": 692540,
+      "en": "I mean, I'm an Afrikaner from South Africa myself.",
+      "zh": "我的意思是，我自己就是来自南非的阿非利卡人。"
+    },
+    {
+      "id": 114,
+      "startMs": 693260,
+      "endMs": 696540,
+      "en": "I can say that I've never experienced something of that kind.",
+      "zh": "我可以说，我从未经历过那种事情。"
+    },
+    {
+      "id": 115,
+      "startMs": 697020,
+      "endMs": 703580,
+      "en": "So the sources misrepresented, unfortunately, something that just doesn't exist.",
+      "zh": "所以很遗憾，消息来源歪曲了一个根本不存在的事情。"
+    },
+    {
+      "id": 116,
+      "startMs": 703900,
+      "endMs": 709660,
+      "en": "I made the point several times publicly that I would like to see the executive order being lifted.",
+      "zh": "我曾多次公开表示，希望看到这项行政命令被撤销。"
+    },
+    {
+      "id": 117,
+      "startMs": 710240,
+      "endMs": 714000,
+      "en": "But here in Washington, DC, pressure on the South African government is increasing.",
+      "zh": "但在华盛顿特区，对南非政府的压力正在增加。"
+    },
+    {
+      "id": 118,
+      "startMs": 714240,
+      "endMs": 720080,
+      "en": "The US has announced visa restrictions targeting people it accuses of discriminating against South Africa's white minority.",
+      "zh": "美国宣布了签证限制，针对被其指责歧视南非白人少数群体的人。"
+    },
+    {
+      "id": 119,
+      "startMs": 720720,
+      "endMs": 725440,
+      "en": "The number of those arriving here keeps growing, with some, like Lily, encouraging more to join her.",
+      "zh": "抵达这里的人数不断增加，其中一些人——比如莉莉——还在鼓励更多人加入她。"
+    },
+    {
+      "id": 120,
+      "startMs": 725600,
+      "endMs": 726880,
+      "en": "Our lives changed.",
+      "zh": "我们的生活改变了。"
+    },
+    {
+      "id": 121,
+      "startMs": 728480,
+      "endMs": 735360,
+      "en": "What I call the American Dream, okay, is we both have jobs, we live in a safe neighborhood.",
+      "zh": "我所说的美国梦，就是我们两个人都有工作，住在一个安全的社区。"
+    },
+    {
+      "id": 122,
+      "startMs": 735440,
+      "endMs": 738400,
+      "en": "This is home for me now. This is home for my family.",
+      "zh": "这里现在是我的家，也是我家人的家。"
+    },
+    {
+      "id": 123,
+      "startMs": 738560,
+      "endMs": 746080,
+      "en": "Lily has no desire to go back, but it's not clear if a future government after Donald Trump would continue to recognize her status here.",
+      "zh": "莉莉不想回去，但尚不清楚特朗普之后的未来政府是否会继续承认她在这里的身份。"
+    },
+    {
+      "id": 124,
+      "startMs": 746240,
+      "endMs": 747760,
+      "en": "That report from Ione Wells.",
+      "zh": "艾奥妮·韦尔斯的报道。"
+    },
+    {
+      "id": 125,
+      "startMs": 748480,
+      "endMs": 756160,
+      "en": "The United Nations says there's been a sharp rise this week in Sudanese refugees fleeing Sudan's civil war for neighbouring Chad.",
+      "zh": "联合国说，本周逃离苏丹内战、前往邻国乍得的苏丹难民人数大幅增加。"
+    },
+    {
+      "id": 126,
+      "startMs": 756640,
+      "endMs": 764640,
+      "en": "It said border crossings are around 20 times the usual rate, which could eventually mean more refugees trying to get to Europe.",
+      "zh": "联合国说，越境人数约为平时的20倍，这最终可能意味着会有更多难民试图前往欧洲。"
+    },
+    {
+      "id": 127,
+      "startMs": 765040,
+      "endMs": 767360,
+      "en": "Here's our global affairs reporter, Jacob Evans.",
+      "zh": "以下是我们的全球事务记者雅各布·埃文斯的报道。"
+    },
+    {
+      "id": 128,
+      "startMs": 771620,
+      "endMs": 778660,
+      "en": "At the dusty and dry processing centre in Adre, desperate refugees keep arriving from the Sudan border just a few kilometres to the east.",
+      "zh": "在阿德雷一处尘土飞扬、干燥的接收中心，绝望的难民不断从几公里外的苏丹边境抵达。"
+    },
+    {
+      "id": 129,
+      "startMs": 778980,
+      "endMs": 784900,
+      "en": "For the last few years of the gruelling civil war, almost a million Sudanese refugees have fled here for a chance of safety.",
+      "zh": "在这场艰苦内战持续的数年间，近百万苏丹难民逃到这里寻求安全。"
+    },
+    {
+      "id": 130,
+      "startMs": 786240,
+      "endMs": 790480,
+      "en": "But the UN's refugee agency says this week has seen a marked rise in arrivals.",
+      "zh": "但联合国难民机构说，本周抵达人数明显上升。"
+    },
+    {
+      "id": 131,
+      "startMs": 790880,
+      "endMs": 796640,
+      "en": "Around 400 people are crossing the border every day, people who have witnessed and lived through countless atrocities.",
+      "zh": "每天约有400人越过边境，他们亲眼目睹并经历了无数暴行。"
+    },
+    {
+      "id": 132,
+      "startMs": 797360,
+      "endMs": 800720,
+      "en": "Mamadou Dian Balde is the UN's refugee coordinator for the region.",
+      "zh": "马马杜·迪安·巴尔德是联合国驻该地区的难民协调员。"
+    },
+    {
+      "id": 133,
+      "startMs": 801120,
+      "endMs": 809200,
+      "en": "I was able to witness the arrival of new refugees, people who tell us that they flee the conflict.",
+      "zh": "我亲眼看到新难民抵达，他们告诉我们，自己是在逃离冲突。"
+    },
+    {
+      "id": 134,
+      "startMs": 809680,
+      "endMs": 815200,
+      "en": "They flee the aerial bombardments, they flee the drone attacks.",
+      "zh": "他们逃离空袭，逃离无人机攻击。"
+    },
+    {
+      "id": 135,
+      "startMs": 815200,
+      "endMs": 818160,
+      "en": "They flee the persecution, they flee the violence.",
+      "zh": "他们逃离迫害，逃离暴力。"
+    },
+    {
+      "id": 136,
+      "startMs": 818560,
+      "endMs": 824240,
+      "en": "And people who are also getting more vulnerable because of the impact of climate shocks.",
+      "zh": "还有一些人因气候冲击的影响而变得更加脆弱。"
+    },
+    {
+      "id": 137,
+      "startMs": 824240,
+      "endMs": 829680,
+      "en": "The ongoing power struggle between the Sudanese armed forces and the paramilitary Rapid Support Forces",
+      "zh": "苏丹武装部队与准军事组织快速支援部队之间持续的权力斗争"
+    },
+    {
+      "id": 138,
+      "startMs": 829680,
+      "endMs": 832880,
+      "en": "is into its fourth year. It's left millions dead and injured.",
+      "zh": "已进入第四年，造成数百万人死亡和受伤。"
+    },
+    {
+      "id": 139,
+      "startMs": 833360,
+      "endMs": 838080,
+      "en": "The UN estimates that more than 33 million people in Sudan need humanitarian assistance.",
+      "zh": "联合国估计，苏丹有超过3300万人需要人道援助。"
+    },
+    {
+      "id": 140,
+      "startMs": 838320,
+      "endMs": 842560,
+      "en": "There are also at least three and a half million Sudanese refugees living in neighbouring countries.",
+      "zh": "此外，至少有350万苏丹难民生活在邻国。"
+    },
+    {
+      "id": 141,
+      "startMs": 843040,
+      "endMs": 845760,
+      "en": "However, Mr Balde says the necessary aid is not available.",
+      "zh": "然而，巴尔德先生说，必要的援助并不到位。"
+    },
+    {
+      "id": 142,
+      "startMs": 845780,
+      "endMs": 854180,
+      "en": "The international community have given them around 20% of the required aid, but it means less food.",
+      "zh": "国际社会提供的援助约占所需援助的20%，但这意味着食物更少。"
+    },
+    {
+      "id": 143,
+      "startMs": 854580,
+      "endMs": 859540,
+      "en": "It means fewer resources for people to be relocated to safer areas.",
+      "zh": "这意味着人们被转移到更安全地区的资源更少。"
+    },
+    {
+      "id": 144,
+      "startMs": 859860,
+      "endMs": 868820,
+      "en": "It means fewer resources to shelter themselves, and it also means people remain in a very dire and vulnerable situation.",
+      "zh": "这意味着他们获得庇护的资源更少，也意味着许多人仍处于极其悲惨和脆弱的境地。"
+    },
+    {
+      "id": 145,
+      "startMs": 869220,
+      "endMs": 872900,
+      "en": "The consequences of declining support extend beyond the immediate region.",
+      "zh": "支持减少的后果将影响到这一地区之外。"
+    },
+    {
+      "id": 146,
+      "startMs": 873220,
+      "endMs": 880180,
+      "en": "Latest analysis shows the overall number of refugees travelling to North Africa's Mediterranean coast to try and reach Europe has decreased",
+      "zh": "最新分析显示，前往北非地中海沿岸、试图抵达欧洲的难民总数有所下降，"
+    },
+    {
+      "id": 147,
+      "startMs": 880580,
+      "endMs": 883860,
+      "en": "but the number of Sudanese arrivals by sea has risen significantly.",
+      "zh": "但乘船抵达的苏丹难民人数却大幅上升。"
+    },
+    {
+      "id": 148,
+      "startMs": 884260,
+      "endMs": 889060,
+      "en": "Over 14,000 were recorded in 2025, more than trebled the previous year.",
+      "zh": "2025年记录到的抵达人数超过1.4万，是前一年的三倍多。"
+    },
+    {
+      "id": 149,
+      "startMs": 889460,
+      "endMs": 894900,
+      "en": "Many of these new arrivals in Chad have a difficult dilemma. Do they stay in small, overrun camps",
+      "zh": "许多新抵达乍得的人面临艰难抉择：是留在拥挤不堪的小型营地，"
+    },
+    {
+      "id": 150,
+      "startMs": 895220,
+      "endMs": 899540,
+      "en": "try to return to war-ravaged Sudan, or do they attempt the perilous journey to Europe?",
+      "zh": "还是返回饱受战争蹂躏的苏丹，或尝试踏上前往欧洲的危险旅程？"
+    },
+    {
+      "id": 151,
+      "startMs": 899940,
+      "endMs": 901060,
+      "en": "Jacob Evans.",
+      "zh": "雅各布·埃文斯。"
+    },
+    {
+      "id": 152,
+      "startMs": 903820,
+      "endMs": 911100,
+      "en": "Still to come in this podcast, the boss of the BBC says artificial intelligence could be used to create and present programmes in the future.",
+      "zh": "本播客稍后将播出：BBC负责人说，未来人工智能可能被用于制作和主持节目。"
+    },
+    {
+      "id": 153,
+      "startMs": 911420,
+      "endMs": 915660,
+      "en": "We want to experiment with this technology and understand what it can and can't do.",
+      "zh": "我们希望试验这项技术，了解它能做什么、不能做什么。"
+    },
+    {
+      "id": 154,
+      "startMs": 915820,
+      "endMs": 918140,
+      "en": "I don't think our work should be replaced by AI.",
+      "zh": "我不认为我们做的任何事情都应该由人工智能取代。"
+    },
+    {
+      "id": 155,
+      "startMs": 918140,
+      "endMs": 926860,
+      "en": "I think AI can help in many places to make the licence fee go further, and help with our decision-making and creativity.",
+      "zh": "我认为，人工智能可以在许多方面帮助我们更有效地使用牌照费，也能帮助我们的决策和创作。"
+    },
+    {
+      "id": 156,
+      "startMs": 926940,
+      "endMs": 928620,
+      "en": "But it's not a substitute for humans.",
+      "zh": "但它不能替代人类。"
+    },
+    {
+      "id": 157,
+      "startMs": 936180,
+      "endMs": 938020,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 158,
+      "startMs": 938900,
+      "endMs": 944660,
+      "en": "Current and former FBI agents have spoken to BBC News of their shock, fear, and anger",
+      "zh": "美国联邦调查局现任和前任特工向BBC新闻讲述了他们的震惊、恐惧和愤怒，"
+    },
+    {
+      "id": 159,
+      "startMs": 944980,
+      "endMs": 952180,
+      "en": "following a hack on Monday that appears to have exposed the private and personal information of the agency's entire workforce.",
+      "zh": "此前周一的一次黑客攻击似乎暴露了该机构全体员工的私人和个人信息。"
+    },
+    {
+      "id": 160,
+      "startMs": 952660,
+      "endMs": 958740,
+      "en": "The cybercriminals are now threatening to publish an enormous tranche of personal, private, and sensitive data.",
+      "zh": "网络犯罪分子现正威胁要公布一大批个人、私人和敏感数据。"
+    },
+    {
+      "id": 161,
+      "startMs": 959060,
+      "endMs": 964820,
+      "en": "If their demands are not met, our cyber correspondent Joe Tidy has been speaking to concerned staff.",
+      "zh": "如果他们的要求得不到满足，我们的网络事务记者乔·泰迪已采访了忧心忡忡的员工。"
+    },
+    {
+      "id": 162,
+      "startMs": 965380,
+      "endMs": 969540,
+      "en": "So far, the FBI has said very little about this potentially dangerous hack.",
+      "zh": "目前，美国联邦调查局对这起可能造成危险的黑客攻击几乎没有透露任何信息。"
+    },
+    {
+      "id": 163,
+      "startMs": 969860,
+      "endMs": 976500,
+      "en": "It's refusing to respond to reporters, instead issuing a short statement online saying it is aggressively investigating.",
+      "zh": "该局拒绝回应记者，只在网上发表简短声明，称正在积极调查。"
+    },
+    {
+      "id": 164,
+      "startMs": 977060,
+      "endMs": 981620,
+      "en": "But inside the FBI community, there is a loud chorus of shock, anger, and fear.",
+      "zh": "但在联邦调查局内部，震惊、愤怒和恐惧的声音此起彼伏。"
+    },
+    {
+      "id": 165,
+      "startMs": 982100,
+      "endMs": 987540,
+      "en": "Former and current agents I've spoken to are extremely concerned about this highly sensitive data",
+      "zh": "我采访的现任和前任特工都非常担心这批高度敏感的数据，"
+    },
+    {
+      "id": 166,
+      "startMs": 987940,
+      "endMs": 992260,
+      "en": "set to be published on the dark net for any criminal with a grudge to download.",
+      "zh": "它可能被发布到暗网上，供任何怀有怨恨的罪犯下载。"
+    },
+    {
+      "id": 167,
+      "startMs": 992660,
+      "endMs": 997800,
+      "en": "That is likely to happen in four days' time, as the hackers ShinyHunters have been threatening.",
+      "zh": "黑客组织ShinyHunters威胁称，这很可能在四天后发生。"
+    },
+    {
+      "id": 168,
+      "startMs": 998360,
+      "endMs": 1001080,
+      "en": "We are particularly worried about our undercover agents.",
+      "zh": "我们尤其担心我们的卧底特工。"
+    },
+    {
+      "id": 169,
+      "startMs": 1001160,
+      "endMs": 1007560,
+      "en": "One insider told me the stolen tranche contains not only the personal contact details of tens of thousands of agents",
+      "zh": "一名内部人士告诉我，被盗数据不仅包含数万名特工的个人联系方式，"
+    },
+    {
+      "id": 170,
+      "startMs": 1007880,
+      "endMs": 1012920,
+      "en": "but also thousands of documents showing medical exams and test results of a private nature.",
+      "zh": "还包含数千份私人性质的体检和检测结果文件。"
+    },
+    {
+      "id": 171,
+      "startMs": 1013640,
+      "endMs": 1016920,
+      "en": "How did this happen, and why wasn't this information better protected?",
+      "zh": "这是怎么发生的？为什么这些信息没有得到更好的保护？"
+    },
+    {
+      "id": 172,
+      "startMs": 1017160,
+      "endMs": 1022840,
+      "en": "That is a feeling many agents expressed: anger at the agency for not having better cyber defences.",
+      "zh": "许多特工都表达了这种感受：他们因该机构没有更好的网络防御而愤怒。"
+    },
+    {
+      "id": 173,
+      "startMs": 1023400,
+      "endMs": 1028760,
+      "en": "But inside the FBI, there is a concerted effort to find and arrest this prolific hacking group.",
+      "zh": "但在联邦调查局内部，人们正共同努力寻找并逮捕这个屡次作案的黑客组织。"
+    },
+    {
+      "id": 174,
+      "startMs": 1029160,
+      "endMs": 1033560,
+      "en": "\"The bureau will make these criminals suffer,\" was a warning I heard repeatedly.",
+      "zh": "“联邦调查局会让这些罪犯付出代价。”这是我反复听到的警告。"
+    },
+    {
+      "id": 175,
+      "startMs": 1034200,
+      "endMs": 1034920,
+      "en": "Joe Tidy.",
+      "zh": "乔·泰迪。"
+    },
+    {
+      "id": 176,
+      "startMs": 1035920,
+      "endMs": 1042240,
+      "en": "The boss of the BBC says artificial intelligence could be used to create and present programmes in the future.",
+      "zh": "英国广播公司总裁表示，未来人工智能可能用于制作和主持节目。"
+    },
+    {
+      "id": 177,
+      "startMs": 1042800,
+      "endMs": 1048560,
+      "en": "Matt Brittin, a former executive at Google, took up the role of director general of the BBC in May.",
+      "zh": "马特·布里廷曾任谷歌高管，今年5月出任英国广播公司总裁。"
+    },
+    {
+      "id": 178,
+      "startMs": 1049120,
+      "endMs": 1053520,
+      "en": "Now he's been speaking to the BBC's Laura Kuenssberg about AI.",
+      "zh": "他接受英国广播公司的劳拉·昆斯伯格采访，谈论人工智能。"
+    },
+    {
+      "id": 179,
+      "startMs": 1053840,
+      "endMs": 1056320,
+      "en": "He discussed how the corporation could be better placed to deal with its potential.",
+      "zh": "他谈到英国广播公司如何更好地应对人工智能的潜力。"
+    },
+    {
+      "id": 180,
+      "startMs": 1056800,
+      "endMs": 1061120,
+      "en": "She asked Mr Brittin if he would allow a BBC programme to be made by AI.",
+      "zh": "她问布里廷先生，是否会允许人工智能制作英国广播公司的节目。"
+    },
+    {
+      "id": 181,
+      "startMs": 1061600,
+      "endMs": 1063440,
+      "en": "I would do within guardrails.",
+      "zh": "我会这么做，但必须设定防护边界。"
+    },
+    {
+      "id": 182,
+      "startMs": 1063680,
+      "endMs": 1069360,
+      "en": "And I think what we want to do is we want to experiment with this technology and understand what it can and can't do.",
+      "zh": "我认为我们希望试验这项技术，了解它能做什么、不能做什么。"
+    },
+    {
+      "id": 183,
+      "startMs": 1069760,
+      "endMs": 1072640,
+      "en": "But I think I'm there because I believe in human creativity.",
+      "zh": "但我之所以在这里，是因为我相信人的创造力。"
+    },
+    {
+      "id": 184,
+      "startMs": 1072880,
+      "endMs": 1079600,
+      "en": "I don't think anything we do should be replaced by AI. I think there are lots of places where AI can help us to make licence fee go further,",
+      "zh": "我不认为我们做的任何事都应该被人工智能取代。我认为人工智能可以在许多方面帮助我们，让许可费发挥更大作用。"
+    },
+    {
+      "id": 185,
+      "startMs": 1079920,
+      "endMs": 1085840,
+      "en": "but also help us in our decision-making and in our creativity. But it's not a substitute for humans.",
+      "zh": "它也能帮助我们作出决定、发挥创造力，但不能取代人类。"
+    },
+    {
+      "id": 186,
+      "startMs": 1086080,
+      "endMs": 1090160,
+      "en": "The BBC and our apps and services should be the antidote to the algorithm.",
+      "zh": "英国广播公司及其应用和服务，应成为算法的解毒剂。"
+    },
+    {
+      "id": 187,
+      "startMs": 1090560,
+      "endMs": 1095680,
+      "en": "Everywhere else you go is driven by some commercial interest, you know, watch more shows.",
+      "zh": "你去到其他任何地方，背后都有某种商业利益驱动，比如让你观看更多节目。"
+    },
+    {
+      "id": 188,
+      "startMs": 1095860,
+      "endMs": 1099860,
+      "en": "Sell more advertising, or take your data and give it to somebody who's building other things.",
+      "zh": "要么卖更多广告，要么拿走你的数据，交给正在开发其他产品的人。"
+    },
+    {
+      "id": 189,
+      "startMs": 1100580,
+      "endMs": 1103540,
+      "en": "And we're also in this moment where AI is in takeoff,",
+      "zh": "而且我们正处于人工智能起飞的阶段。"
+    },
+    {
+      "id": 190,
+      "startMs": 1103780,
+      "endMs": 1109300,
+      "en": "so I think there's a danger that six companies will control access to information in future",
+      "zh": "所以我认为，未来可能会出现这样的危险：六家公司控制信息获取渠道，"
+    },
+    {
+      "id": 191,
+      "startMs": 1109700,
+      "endMs": 1112100,
+      "en": "and the creation of information and misinformation.",
+      "zh": "以及信息和虚假信息的生产。"
+    },
+    {
+      "id": 192,
+      "startMs": 1112100,
+      "endMs": 1114740,
+      "en": "Six companies, none of them European, let alone British.",
+      "zh": "六家公司，没有一家来自欧洲，更不用说英国了。"
+    },
+    {
+      "id": 193,
+      "startMs": 1115380,
+      "endMs": 1119060,
+      "en": "In that world, here's the BBC; it's the most trusted organization.",
+      "zh": "在那样的世界里，这就是英国广播公司：最受信任的机构。"
+    },
+    {
+      "id": 194,
+      "startMs": 1119060,
+      "endMs": 1125460,
+      "en": "So you want the BBC to be a rival to those other big platforms, but also the BBC content is going on to those platforms.",
+      "zh": "所以，你希望英国广播公司成为其他大型平台的竞争者，但英国广播公司的内容也会发布到那些平台上。"
+    },
+    {
+      "id": 195,
+      "startMs": 1125460,
+      "endMs": 1128180,
+      "en": "Do you trust the other big tech platforms?",
+      "zh": "你信任其他大型科技平台吗？"
+    },
+    {
+      "id": 196,
+      "startMs": 1128580,
+      "endMs": 1130980,
+      "en": "I think what I'd say is we have to be where the audiences are.",
+      "zh": "我想说的是，我们必须出现在受众所在的地方。"
+    },
+    {
+      "id": 197,
+      "startMs": 1131300,
+      "endMs": 1134740,
+      "en": "So I was responsible for YouTube. That's not the question. Do you trust them?",
+      "zh": "我曾负责YouTube。但问题不是这个：你信任那些平台吗？"
+    },
+    {
+      "id": 198,
+      "startMs": 1134740,
+      "endMs": 1137620,
+      "en": "There's a lot of platforms out there, so I wouldn't trust any platform innately.",
+      "zh": "外面有很多平台，所以我不会天然信任任何一个平台。"
+    },
+    {
+      "id": 199,
+      "startMs": 1138020,
+      "endMs": 1141300,
+      "en": "And I think what you do is you keep under review how those things work",
+      "zh": "我认为，你要持续审视这些平台的运作方式，"
+    },
+    {
+      "id": 200,
+      "startMs": 1141300,
+      "endMs": 1146900,
+      "en": "and whether your content can show up in the right place and fulfil its mission. Matt Brittin.",
+      "zh": "以及你的内容能否出现在合适的地方、履行自身使命。马特·布里廷。"
+    },
+    {
+      "id": 201,
+      "startMs": 1146900,
+      "endMs": 1155380,
+      "en": "Pope Leo has finished day one of his four-day state visit to France, speaking to thousands of young Catholics at an evening service.",
+      "zh": "教皇良一世结束了对法国进行为期四天国事访问的第一天，并在晚间礼拜中向数千名年轻天主教徒发表讲话。"
+    },
+    {
+      "id": 202,
+      "startMs": 1161680,
+      "endMs": 1163200,
+      "en": "At earlier engagements in Paris,",
+      "zh": "当天早些时候在巴黎的活动中，"
+    },
+    {
+      "id": 203,
+      "startMs": 1162940,
+      "endMs": 1168140,
+      "en": "he was advocating for their future, warning against the dangers of artificial intelligence",
+      "zh": "他为年轻人的未来发声，警告人工智能的危险，"
+    },
+    {
+      "id": 204,
+      "startMs": 1168460,
+      "endMs": 1173340,
+      "en": "and the risks of losing our humanity amid a paradise of machines.",
+      "zh": "以及在机器构成的天堂中失去人性的风险。"
+    },
+    {
+      "id": 205,
+      "startMs": 1173660,
+      "endMs": 1175900,
+      "en": "Our religion editor, Aleem Maqbool, reports.",
+      "zh": "宗教事务编辑阿利姆·马克布尔报道。"
+    },
+    {
+      "id": 206,
+      "startMs": 1177300,
+      "endMs": 1184020,
+      "en": "The bells of churches across France rang out in concert to signal the arrival of Pope Leo.",
+      "zh": "法国各地教堂的钟声齐鸣，宣告教皇良一世抵达。"
+    },
+    {
+      "id": 207,
+      "startMs": 1186140,
+      "endMs": 1190940,
+      "en": "A striking welcome for a man visiting the country with a stark message.",
+      "zh": "这是对一位带着严峻讯息来访者的醒目欢迎。"
+    },
+    {
+      "id": 208,
+      "startMs": 1191740,
+      "endMs": 1198380,
+      "en": "Greeted by Emmanuel and Brigitte Macron, he started this four-day trip with a short visit to the Élysée Palace.",
+      "zh": "他受到埃马纽埃尔和布丽吉特·马克龙夫妇迎接，并以短暂访问爱丽舍宫开启四天行程。"
+    },
+    {
+      "id": 209,
+      "startMs": 1200640,
+      "endMs": 1204000,
+      "en": "His next stop, the headquarters of UNESCO.",
+      "zh": "他的下一站是联合国教科文组织总部。"
+    },
+    {
+      "id": 210,
+      "startMs": 1204640,
+      "endMs": 1209280,
+      "en": "The visit of an American pope, a boost for the UN agency at a time",
+      "zh": "一位美国籍教皇的到访，对这个联合国机构是一种提振，恰逢"
+    },
+    {
+      "id": 211,
+      "startMs": 1209360,
+      "endMs": 1213440,
+      "en": "when the American president has pulled the US out of the organization.",
+      "zh": "美国总统已让美国退出该组织。"
+    },
+    {
+      "id": 212,
+      "startMs": 1214400,
+      "endMs": 1219840,
+      "en": "His keynote speech there, filled with warnings about the dangers of AI.",
+      "zh": "他在那里发表主题演讲，充满了对人工智能危险的警告。"
+    },
+    {
+      "id": 213,
+      "startMs": 1221460,
+      "endMs": 1225220,
+      "en": "While intelligence is attributed to computational systems,",
+      "zh": "虽然人们把“智能”归于计算系统，"
+    },
+    {
+      "id": 214,
+      "startMs": 1226100,
+      "endMs": 1235140,
+      "en": "we struggle to recognize the inalienable dignity of human persons whose lives are judged according to the criterion of efficiency,",
+      "zh": "但我们却难以承认人的不可剥夺尊严；这些人的生命，正依据效率标准受到评判，"
+    },
+    {
+      "id": 215,
+      "startMs": 1235620,
+      "endMs": 1240180,
+      "en": "and when deemed no longer productive, they're rejected and discarded.",
+      "zh": "一旦被认为不再有生产力，就会遭到拒绝和抛弃。"
+    },
+    {
+      "id": 216,
+      "startMs": 1241180,
+      "endMs": 1248380,
+      "en": "He's long talked of the threats posed by AI, including in the significant teaching document he published this year.",
+      "zh": "他长期以来一直谈论人工智能带来的威胁，包括在今年发布的重要教导文件中。"
+    },
+    {
+      "id": 217,
+      "startMs": 1248780,
+      "endMs": 1254700,
+      "en": "In it, he warns of AI enslaving humanity through algorithms that commodify us,",
+      "zh": "他在文件中警告，人工智能可能通过把人商品化的算法奴役人类，"
+    },
+    {
+      "id": 218,
+      "startMs": 1255020,
+      "endMs": 1258380,
+      "en": "of it putting huge amounts of power in the hands of very few,",
+      "zh": "把巨大的权力交到极少数人手中，"
+    },
+    {
+      "id": 219,
+      "startMs": 1258780,
+      "endMs": 1262060,
+      "en": "and of reducing war to something like a video game.",
+      "zh": "并把战争变成类似电子游戏的东西。"
+    },
+    {
+      "id": 220,
+      "startMs": 1265040,
+      "endMs": 1272000,
+      "en": "He's brought those messages to France, reminding people what it means to be human, to interact, to come together.",
+      "zh": "他把这些讯息带到法国，提醒人们何谓人类，如何互动、彼此团结。"
+    },
+    {
+      "id": 221,
+      "startMs": 1273300,
+      "endMs": 1280100,
+      "en": "He visited Notre Dame Cathedral, its rebuilding after devastating fire, a celebration of human endeavour.",
+      "zh": "他参观了巴黎圣母院；这座大教堂在毁灭性火灾后重建，展现了人类的努力。"
+    },
+    {
+      "id": 222,
+      "startMs": 1280660,
+      "endMs": 1286020,
+      "en": "The result, he said, was a place that felt like it was where heaven and earth met.",
+      "zh": "他说，重建后的结果让人感觉这里是天堂与大地相遇之处。"
+    },
+    {
+      "id": 223,
+      "startMs": 1289360,
+      "endMs": 1290640,
+      "en": "Aleem Maqbool reporting.",
+      "zh": "阿利姆·马克布尔报道。"
+    },
+    {
+      "id": 224,
+      "startMs": 1290640,
+      "endMs": 1296080,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "以上就是目前的全部内容。如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 225,
+      "startMs": 1296400,
+      "endMs": 1298960,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "也可以在X上关注BBC World Service。"
+    },
+    {
+      "id": 226,
+      "startMs": 1299280,
+      "endMs": 1301200,
+      "en": "Use the hashtag globalnewspod.",
+      "zh": "请使用话题标签 globalnewspod。"
+    },
+    {
+      "id": 227,
+      "startMs": 1301200,
+      "endMs": 1308560,
+      "en": "This edition of the Global News Podcast was mixed by Derek Clark, and the producers were Alfie Habeshon and Ruby Gleason. The editor is Karen Martin.",
+      "zh": "本期《全球新闻播客》由德里克·克拉克混音，制片人是阿尔菲·哈比申和鲁比·格里森，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 228,
+      "startMs": 1308560,
+      "endMs": 1311280,
+      "en": "And I am Ankur Desai. Until next time, goodbye.",
+      "zh": "我是安库尔·德赛。下期再见。"
+    }
+  ]
+}
