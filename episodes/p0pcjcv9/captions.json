@@ -1,0 +1,1803 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "25 September 2026"
+  },
+  "durationMs": 1326960,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3120,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 5260,
+      "endMs": 11020,
+      "en": "Hello, I'm Oliver Conway. We're recording this at 14:00 GMT on Friday the 25th of September.",
+      "zh": "你好，我是奥利弗·康威。现在是9月25日星期五格林尼治标准时间14点，我们正在录制节目。"
+    },
+    {
+      "id": 3,
+      "startMs": 11500,
+      "endMs": 15340,
+      "en": "A new test for brain tumours can slash diagnosis time to just two hours.",
+      "zh": "一种脑肿瘤新检测可将诊断时间大幅缩短至仅两小时。"
+    },
+    {
+      "id": 4,
+      "startMs": 16300,
+      "endMs": 22220,
+      "en": "President Zelensky says the US will allow Ukraine to produce Patriot missiles despite a previous U-turn.",
+      "zh": "泽连斯基总统说，尽管此前政策反复，美国仍将允许乌克兰生产爱国者导弹。"
+    },
+    {
+      "id": 5,
+      "startMs": 22620,
+      "endMs": 27420,
+      "en": "And a Filipino maid who narrowly escaped execution in Indonesia has been pardoned.",
+      "zh": "一名在印度尼西亚险些被执行死刑的菲律宾女佣获赦。"
+    },
+    {
+      "id": 6,
+      "startMs": 29780,
+      "endMs": 37460,
+      "en": "Also in this podcast: toner, face wash, bronzer, blush and contour, mascara, lip glosses and lip balms.",
+      "zh": "本期还将讨论爽肤水、洗面奶、古铜粉、腮红和修容、睫毛膏、唇彩和润唇膏。"
+    },
+    {
+      "id": 7,
+      "startMs": 37700,
+      "endMs": 41860,
+      "en": "Campaigners call for better regulation of skincare and makeup for children.",
+      "zh": "活动人士呼吁加强对儿童护肤品和化妆品的监管。"
+    },
+    {
+      "id": 8,
+      "startMs": 45320,
+      "endMs": 49960,
+      "en": "A new rapid test for brain tumours can slash diagnosis time to just two hours,",
+      "zh": "一种脑肿瘤快速新检测可将诊断时间大幅缩短至仅两小时，"
+    },
+    {
+      "id": 9,
+      "startMs": 50280,
+      "endMs": 53080,
+      "en": "meaning patients no longer have to wait weeks for news.",
+      "zh": "这意味着患者不必再为结果等待数周。"
+    },
+    {
+      "id": 10,
+      "startMs": 53400,
+      "endMs": 56600,
+      "en": "It means surgeons can get results even while they're operating.",
+      "zh": "这意味着外科医生在手术过程中也能得到结果。"
+    },
+    {
+      "id": 11,
+      "startMs": 57080,
+      "endMs": 62360,
+      "en": "Hospitals in the UK are trialling the test, as our medical editor Fergus Walsh reports.",
+      "zh": "英国的医院正在试用这项检测，医学编辑弗格斯·沃尔什报道。"
+    },
+    {
+      "id": 12,
+      "startMs": 66640,
+      "endMs": 74560,
+      "en": "Steve Palmer is being wheeled to the operating theatres at Queen's Medical Centre, Nottingham, in the heart of the UK.",
+      "zh": "史蒂夫·帕尔默正被推往英国腹地诺丁汉的女王医疗中心手术室。"
+    },
+    {
+      "id": 13,
+      "startMs": 75200,
+      "endMs": 82960,
+      "en": "The 55-year-old collapsed a few weeks ago, was diagnosed with a brain tumour and is being prepped for surgery.",
+      "zh": "这名55岁男子几周前晕倒，被诊断出脑肿瘤，正在为手术做准备。"
+    },
+    {
+      "id": 14,
+      "startMs": 83360,
+      "endMs": 85520,
+      "en": "Hopefully all of it removed, would be great.",
+      "zh": "希望能把肿瘤全部切除，那就太好了。"
+    },
+    {
+      "id": 15,
+      "startMs": 86240,
+      "endMs": 92560,
+      "en": "Then I can get on with recovery and whatever comes next, and get back to hopefully some normality.",
+      "zh": "然后我就能继续康复、面对接下来的一切，希望回归某种正常生活。"
+    },
+    {
+      "id": 16,
+      "startMs": 93680,
+      "endMs": 96560,
+      "en": "So this is the scan of Stephen's head made by the computer system.",
+      "zh": "这是电脑系统生成的斯蒂芬头部扫描图。"
+    },
+    {
+      "id": 17,
+      "startMs": 96800,
+      "endMs": 101520,
+      "en": "In theatre, neurosurgeon Stuart Smith is reviewing MRI scans.",
+      "zh": "在手术室里，神经外科医生斯图尔特·史密斯正在查看 MRI 扫描图。"
+    },
+    {
+      "id": 18,
+      "startMs": 102080,
+      "endMs": 108480,
+      "en": "This is the right frontal lobe, where the white area represents the tumour within his brain that we're going to be operating on today.",
+      "zh": "这是右侧额叶，白色区域就是他脑中的肿瘤，也是我们今天要进行手术的部位。"
+    },
+    {
+      "id": 19,
+      "startMs": 108720,
+      "endMs": 113120,
+      "en": "How big is that? So this tumour is about five or six centimetres across in total.",
+      "zh": "有多大？这个肿瘤总共大约五到六厘米。"
+    },
+    {
+      "id": 20,
+      "startMs": 113680,
+      "endMs": 119520,
+      "en": "More than 12,000 people a year are diagnosed with a brain tumour in the UK alone.",
+      "zh": "仅在英国，每年就有超过1.2万人被诊断出脑肿瘤。"
+    },
+    {
+      "id": 21,
+      "startMs": 120160,
+      "endMs": 125040,
+      "en": "There are more than 150 different types, and a thorough genetic analysis",
+      "zh": "脑肿瘤有超过150种不同类型，全面的基因分析"
+    },
+    {
+      "id": 22,
+      "startMs": 125440,
+      "endMs": 131040,
+      "en": "means a definitive diagnosis can take six to eight weeks after surgery.",
+      "zh": "意味着手术后可能需要六到八周才能得到明确诊断。"
+    },
+    {
+      "id": 23,
+      "startMs": 131600,
+      "endMs": 140800,
+      "en": "Not this time. Once Steve's tumour is exposed, the surgeons carefully select tissue samples undamaged by any of the surgical techniques.",
+      "zh": "但这次不用。史蒂夫的肿瘤暴露后，外科医生仔细选取未被任何手术操作损伤的组织样本。"
+    },
+    {
+      "id": 24,
+      "startMs": 140960,
+      "endMs": 143200,
+      "en": "This all looks viable; it doesn't look necrotic.",
+      "zh": "这些看起来都有活性，不像坏死组织。"
+    },
+    {
+      "id": 25,
+      "startMs": 143680,
+      "endMs": 150720,
+      "en": "And then top right. These contain all the genetic information needed to grade and diagnose his tumour.",
+      "zh": "然后是右上方。这些样本包含对肿瘤分级和诊断所需的全部遗传信息。"
+    },
+    {
+      "id": 26,
+      "startMs": 151520,
+      "endMs": 154900,
+      "en": "They're bagged up and taken to the pathology labs.",
+      "zh": "样本装袋后被送往病理实验室。"
+    },
+    {
+      "id": 27,
+      "startMs": 155540,
+      "endMs": 163860,
+      "en": "The rapid genomic test was developed by scientists at the University of Nottingham in partnership with hospital clinicians.",
+      "zh": "这项快速基因组检测由诺丁汉大学科学家与医院临床医生合作开发。"
+    },
+    {
+      "id": 28,
+      "startMs": 164020,
+      "endMs": 172180,
+      "en": "And what we're hoping to have in 90 minutes or so will be a confident, comprehensive molecular classification.",
+      "zh": "我们希望在大约90分钟内得到可靠、全面的分子分类结果。"
+    },
+    {
+      "id": 29,
+      "startMs": 172660,
+      "endMs": 178580,
+      "en": "The samples are fed into an ultra-rapid sequencing machine the size of a shoebox.",
+      "zh": "样本被送入一台鞋盒大小的超快速测序仪。"
+    },
+    {
+      "id": 30,
+      "startMs": 179140,
+      "endMs": 188420,
+      "en": "Molecules of DNA pass through a nanopore, or tiny hole, which reveals the tumour's unique genomic fingerprint.",
+      "zh": "DNA 分子穿过纳米孔，也就是一个小孔，由此揭示肿瘤独特的基因组特征。"
+    },
+    {
+      "id": 31,
+      "startMs": 188820,
+      "endMs": 192340,
+      "en": "The nanopore is running now. It's been running for about 20 minutes.",
+      "zh": "纳米孔现在正在运行，已经运行了大约20分钟。"
+    },
+    {
+      "id": 32,
+      "startMs": 192820,
+      "endMs": 201940,
+      "en": "Dr Simon Payne, consultant neuropathologist at Nottingham University Hospitals, phones the operating theatre with the results.",
+      "zh": "诺丁汉大学医院顾问神经病理学家西蒙·佩恩医生打电话把结果告知手术室。"
+    },
+    {
+      "id": 33,
+      "startMs": 202180,
+      "endMs": 207780,
+      "en": "Given the bigger picture and those copy number changes, I think this would be most in keeping with a glioblastoma.",
+      "zh": "综合整体情况和这些拷贝数变化，我认为最符合胶质母细胞瘤的特征。"
+    },
+    {
+      "id": 34,
+      "startMs": 207780,
+      "endMs": 210660,
+      "en": "Neurosurgeon Stuart Smith has taken the call.",
+      "zh": "神经外科医生斯图尔特·史密斯接到了电话。"
+    },
+    {
+      "id": 35,
+      "startMs": 210820,
+      "endMs": 216040,
+      "en": "Yeah, I think we've probably done as much as we can in terms of taking out the visible tumour.",
+      "zh": "是的，我认为在切除可见肿瘤方面，我们大概已经尽力了。"
+    },
+    {
+      "id": 36,
+      "startMs": 218120,
+      "endMs": 222440,
+      "en": "Great, well, thank you very much. That's really helpful and that will help us finish up the operation. Yeah.",
+      "zh": "太好了，非常感谢。这很有帮助，能帮助我们完成手术。是的。"
+    },
+    {
+      "id": 37,
+      "startMs": 223080,
+      "endMs": 230360,
+      "en": "A definitive diagnosis has taken just two hours, with Steve Palmer still on the operating table.",
+      "zh": "明确诊断只用了两小时，而史蒂夫·帕尔默仍在手术台上。"
+    },
+    {
+      "id": 38,
+      "startMs": 230920,
+      "endMs": 235240,
+      "en": "Stuart Smith says it's an extraordinary medical advance.",
+      "zh": "斯图尔特·史密斯说，这是医学上的非凡进步。"
+    },
+    {
+      "id": 39,
+      "startMs": 235640,
+      "endMs": 242360,
+      "en": "It seems almost magical that you can do things that quickly, but this adds a whole new level of information that will guide the surgeon.",
+      "zh": "能如此迅速地完成这些事情，几乎像是魔法；但这带来了全新的信息层次，可以指导外科医生。"
+    },
+    {
+      "id": 40,
+      "startMs": 242360,
+      "endMs": 246360,
+      "en": "and allow us to make more accurate decisions about how much surgery we do.",
+      "zh": "让我们更准确地决定进行多少手术。"
+    },
+    {
+      "id": 41,
+      "startMs": 246360,
+      "endMs": 249400,
+      "en": "How extensive that operation is.",
+      "zh": "也就是手术要做到什么程度。"
+    },
+    {
+      "id": 42,
+      "startMs": 250320,
+      "endMs": 252320,
+      "en": "Hi Stephen, how are you? I'm okay.",
+      "zh": "你好，斯蒂芬，你感觉怎么样？我还好。"
+    },
+    {
+      "id": 43,
+      "startMs": 252800,
+      "endMs": 262320,
+      "en": "Neurosurgeon Stuart Smith is able to feed back the results and a treatment plan to Steve within days rather than many weeks.",
+      "zh": "神经外科医生斯图尔特·史密斯能在几天内，而不是数周后，把结果和治疗方案告诉史蒂夫。"
+    },
+    {
+      "id": 44,
+      "startMs": 262320,
+      "endMs": 266320,
+      "en": "I'm afraid it's not great news in terms of what type of tumour it is.",
+      "zh": "恐怕从肿瘤类型来看，这不是个好消息。"
+    },
+    {
+      "id": 45,
+      "startMs": 266560,
+      "endMs": 273060,
+      "en": "It is one of these grade four tumours, and the name for that type of tumour is glioblastoma.",
+      "zh": "这是四级肿瘤，这种肿瘤的名称是胶质母细胞瘤。"
+    },
+    {
+      "id": 46,
+      "startMs": 273780,
+      "endMs": 277620,
+      "en": "But it does mean chemo and radiotherapy can start sooner.",
+      "zh": "但这意味着化疗和放疗可以更早开始。"
+    },
+    {
+      "id": 47,
+      "startMs": 278100,
+      "endMs": 284900,
+      "en": "The other benefit of getting all the genetic diagnosis means that we have a full genetic profile of the tumour.",
+      "zh": "获得完整基因诊断的另一项好处，是我们能得到肿瘤的完整基因图谱。"
+    },
+    {
+      "id": 48,
+      "startMs": 285460,
+      "endMs": 288820,
+      "en": "And that hopefully will open the door to clinical trials for you.",
+      "zh": "这希望能为你参与临床试验打开大门。"
+    },
+    {
+      "id": 49,
+      "startMs": 288820,
+      "endMs": 290260,
+      "en": "There is a national programme being...",
+      "zh": "有一个全国性项目正在……"
+    },
+    {
+      "id": 50,
+      "startMs": 290940,
+      "endMs": 293260,
+      "en": "Obviously it wasn't what I wanted to hear.",
+      "zh": "显然，这不是我想听到的消息。"
+    },
+    {
+      "id": 51,
+      "startMs": 293660,
+      "endMs": 299420,
+      "en": "But for me, getting that quick diagnosis, let's go on to the next phase of treatment.",
+      "zh": "但对我来说，既然这么快得到了诊断，那就进入治疗的下一阶段吧。"
+    },
+    {
+      "id": 52,
+      "startMs": 299420,
+      "endMs": 304460,
+      "en": "And recovery, and get on to, you know, fighting whatever I've got to fight.",
+      "zh": "然后康复，继续去对抗我必须面对的一切。"
+    },
+    {
+      "id": 53,
+      "startMs": 304540,
+      "endMs": 308780,
+      "en": "So it did help remove potentially weeks of anxiety.",
+      "zh": "所以这确实帮助我消除了可能持续数周的焦虑。"
+    },
+    {
+      "id": 54,
+      "startMs": 308860,
+      "endMs": 310140,
+      "en": "Oh God, yeah, absolutely, yeah.",
+      "zh": "天哪，是的，当然。"
+    },
+    {
+      "id": 55,
+      "startMs": 313000,
+      "endMs": 316360,
+      "en": "Ukraine has been hit hard by Russia's current air campaign.",
+      "zh": "乌克兰受到俄罗斯当前空袭行动的重创。"
+    },
+    {
+      "id": 56,
+      "startMs": 316520,
+      "endMs": 319160,
+      "en": "Another three people were killed in Kyiv this afternoon.",
+      "zh": "今天下午，基辅又有三人死亡。"
+    },
+    {
+      "id": 57,
+      "startMs": 319720,
+      "endMs": 324760,
+      "en": "Part of the problem is a lack of missile interceptors, such as the US-supplied Patriots.",
+      "zh": "问题之一是缺少导弹拦截弹，例如美国提供的爱国者拦截弹。"
+    },
+    {
+      "id": 58,
+      "startMs": 325320,
+      "endMs": 329240,
+      "en": "In July, Donald Trump told Volodymyr Zelensky to 'make them yourself'.",
+      "zh": "今年7月，唐纳德·特朗普告诉弗拉基米尔·泽连斯基“自己制造”。"
+    },
+    {
+      "id": 59,
+      "startMs": 329560,
+      "endMs": 331160,
+      "en": "Only to then change his mind.",
+      "zh": "但随后他改变了主意。"
+    },
+    {
+      "id": 60,
+      "startMs": 331560,
+      "endMs": 335640,
+      "en": "Now, though, the Ukrainian president says the US leader has made a final decision",
+      "zh": "不过，乌克兰总统称，美国领导人已经作出最终决定，"
+    },
+    {
+      "id": 61,
+      "startMs": 335880,
+      "endMs": 337960,
+      "en": "to give Ukraine licences to produce them.",
+      "zh": "允许乌克兰生产这种拦截弹。"
+    },
+    {
+      "id": 62,
+      "startMs": 338440,
+      "endMs": 340040,
+      "en": "Sasha Schlichter told me more.",
+      "zh": "萨莎·施利希特告诉我更多详情。"
+    },
+    {
+      "id": 63,
+      "startMs": 340520,
+      "endMs": 344200,
+      "en": "I think President Zelensky is keeping his fingers crossed,",
+      "zh": "我想，泽连斯基总统正在祈祷一切顺利，"
+    },
+    {
+      "id": 64,
+      "startMs": 344200,
+      "endMs": 347800,
+      "en": "because we know Donald Trump can change his mind",
+      "zh": "因为我们知道，唐纳德·特朗普可能改变主意，"
+    },
+    {
+      "id": 65,
+      "startMs": 348360,
+      "endMs": 350600,
+      "en": "several times in one day. So",
+      "zh": "一天之内就可能变上好几次。因此，"
+    },
+    {
+      "id": 66,
+      "startMs": 350680,
+      "endMs": 354200,
+      "en": "his latest opinion, according to Mr Zelensky,",
+      "zh": "据泽连斯基先生说，他最新的意见是，"
+    },
+    {
+      "id": 67,
+      "startMs": 354280,
+      "endMs": 359160,
+      "en": "the final decision has been made and there will be permission",
+      "zh": "最终决定已经作出，乌克兰将获准，"
+    },
+    {
+      "id": 68,
+      "startMs": 359480,
+      "endMs": 365800,
+      "en": "its own Patriot interceptors.",
+      "zh": "也就是自己的爱国者拦截弹。"
+    },
+    {
+      "id": 69,
+      "startMs": 366360,
+      "endMs": 372520,
+      "en": "But it is funny that in July Mr Trump was so keen, he said it.",
+      "zh": "但有趣的是，特朗普先生7月还非常热心地这样说过。"
+    },
+    {
+      "id": 70,
+      "startMs": 372540,
+      "endMs": 375420,
+      "en": "It would be pretty cool to grant Ukraine the licences.",
+      "zh": "允许乌克兰获得许可，那会相当不错。"
+    },
+    {
+      "id": 71,
+      "startMs": 375740,
+      "endMs": 381740,
+      "en": "Three weeks later, he said America should be very careful before granting Ukraine authorization,",
+      "zh": "三周后，他却说，美国在授权乌克兰之前应该非常谨慎，"
+    },
+    {
+      "id": 72,
+      "startMs": 381980,
+      "endMs": 385900,
+      "en": "without any reference to the fact that he was very enthusiastic.",
+      "zh": "完全没有提及自己此前其实非常热心。"
+    },
+    {
+      "id": 73,
+      "startMs": 386300,
+      "endMs": 389020,
+      "en": "So what happened between these two events? Who knows?",
+      "zh": "那么，这两件事之间发生了什么？谁知道呢？"
+    },
+    {
+      "id": 74,
+      "startMs": 389260,
+      "endMs": 394380,
+      "en": "Maybe Mr Steve Witkoff had a conversation with his friend Vladimir Putin,",
+      "zh": "也许史蒂夫·威特科夫先生和他的朋友弗拉基米尔·普京谈过话，"
+    },
+    {
+      "id": 75,
+      "startMs": 394780,
+      "endMs": 397580,
+      "en": "and Mr Putin gave him another history lesson.",
+      "zh": "普京先生又给他上了一课历史课。"
+    },
+    {
+      "id": 76,
+      "startMs": 398300,
+      "endMs": 408300,
+      "en": "He said that interceptor missiles in the hands of that Nazi, as he calls Zelensky, are a very dangerous thing.",
+      "zh": "他说，拦截弹落在那个纳粹手里——他这样称呼泽连斯基——是非常危险的事。"
+    },
+    {
+      "id": 77,
+      "startMs": 408620,
+      "endMs": 412140,
+      "en": "And Mr Witkoff, of course, reported this straight to Mr Trump.",
+      "zh": "当然，威特科夫先生把这番话直接转告了特朗普先生。"
+    },
+    {
+      "id": 78,
+      "startMs": 412380,
+      "endMs": 415900,
+      "en": "So it is all about being very, very sure-footed,",
+      "zh": "所以，一切都要非常、非常稳妥，"
+    },
+    {
+      "id": 79,
+      "startMs": 415980,
+      "endMs": 420940,
+      "en": "and of course Mr Zelensky should be very careful not to antagonize Mr Trump.",
+      "zh": "当然，泽连斯基先生也应当非常小心，不要激怒特朗普先生。"
+    },
+    {
+      "id": 80,
+      "startMs": 420940,
+      "endMs": 426140,
+      "en": "So he never recalled him flipping over this issue; he just said it as it is.",
+      "zh": "所以他从未回忆起特朗普在这个问题上反复变卦，只是如实转述了情况。"
+    },
+    {
+      "id": 81,
+      "startMs": 426300,
+      "endMs": 431420,
+      "en": "But if and when Ukraine gets these licences, it will not be a magic bullet.",
+      "zh": "但即使乌克兰拿到了这些许可，也不会立刻解决问题。"
+    },
+    {
+      "id": 82,
+      "startMs": 432460,
+      "endMs": 437420,
+      "en": "No, it takes months and months, up to two years, to set up production.",
+      "zh": "不，建立生产线需要很长时间，最长可能要两年。"
+    },
+    {
+      "id": 83,
+      "startMs": 437420,
+      "endMs": 440780,
+      "en": "You know, building the engine and the rocket itself.",
+      "zh": "还要制造发动机和火箭本身。"
+    },
+    {
+      "id": 84,
+      "startMs": 441100,
+      "endMs": 444460,
+      "en": "The systems are there; it is just the rockets that are depleted.",
+      "zh": "系统已经具备，只是火箭弹库存已经耗尽。"
+    },
+    {
+      "id": 85,
+      "startMs": 444860,
+      "endMs": 450460,
+      "en": "And even if it wanted to, Washington could not supply Ukraine now with ready-made rockets,",
+      "zh": "而且，即便华盛顿想提供，也无法现在给乌克兰现成的火箭弹，"
+    },
+    {
+      "id": 86,
+      "startMs": 450460,
+      "endMs": 453900,
+      "en": "because its stocks have been depleted in the Middle East.",
+      "zh": "因为美国在中东的库存已经耗尽。"
+    },
+    {
+      "id": 87,
+      "startMs": 454220,
+      "endMs": 459020,
+      "en": "It is a very costly weapon. It costs billions and billions.",
+      "zh": "这是极其昂贵的武器，造价要几十亿、几十亿美元。"
+    },
+    {
+      "id": 88,
+      "startMs": 459020,
+      "endMs": 464860,
+      "en": "They used it on nothing in the Middle East because they were so keen to show",
+      "zh": "他们在中东动用了这些武器，却没有取得什么结果，因为他们急于展示，"
+    },
+    {
+      "id": 89,
+      "startMs": 465180,
+      "endMs": 471180,
+      "en": "that it was such a victorious war on Iran.",
+      "zh": "这是一场对伊朗取得压倒性胜利的战争。"
+    },
+    {
+      "id": 90,
+      "startMs": 471580,
+      "endMs": 474780,
+      "en": "So now the Pentagon has its own stocks depleted,",
+      "zh": "所以现在五角大楼自己的库存也耗尽了，"
+    },
+    {
+      "id": 91,
+      "startMs": 475180,
+      "endMs": 479420,
+      "en": "and all it can do is give Ukraine a licence to produce.",
+      "zh": "它能做的只有给乌克兰生产许可。"
+    },
+    {
+      "id": 92,
+      "startMs": 479580,
+      "endMs": 482940,
+      "en": "But I must say that the war has changed completely.",
+      "zh": "但我必须说，战争已经彻底改变。"
+    },
+    {
+      "id": 93,
+      "startMs": 483340,
+      "endMs": 487760,
+      "en": "Zelensky has said today that Ukraine is working",
+      "zh": "泽连斯基今天说，乌克兰正在研发"
+    },
+    {
+      "id": 94,
+      "startMs": 487920,
+      "endMs": 494960,
+      "en": "on its own anti-ballistic system, called Freya, with several European countries taking part.",
+      "zh": "自己的反弹道系统“弗雷娅”，并有几个欧洲国家参与其中。"
+    },
+    {
+      "id": 95,
+      "startMs": 495280,
+      "endMs": 497280,
+      "en": "Our Global Affairs reporter, Sasha Schlichter.",
+      "zh": "本台全球事务记者萨莎·施利希特报道。"
+    },
+    {
+      "id": 96,
+      "startMs": 498220,
+      "endMs": 502220,
+      "en": "Mary Jane Veloso spent nearly 15 years on death row in Indonesia,",
+      "zh": "玛丽·简·维洛索在印度尼西亚死囚牢房度过了近15年，"
+    },
+    {
+      "id": 97,
+      "startMs": 502380,
+      "endMs": 507020,
+      "en": "in a case that highlighted issues over the treatment of Filipino domestic workers abroad.",
+      "zh": "她的案件凸显了海外菲律宾籍家政工人所受待遇的问题。"
+    },
+    {
+      "id": 98,
+      "startMs": 507500,
+      "endMs": 514060,
+      "en": "The former maid narrowly escaped execution by firing squad after being found carrying heroin through an airport.",
+      "zh": "这名前女佣因被发现携带海洛因通过机场，险些被行刑队处决。"
+    },
+    {
+      "id": 99,
+      "startMs": 514460,
+      "endMs": 518700,
+      "en": "She says she was tricked into it, and she has now been pardoned by the Philippine president.",
+      "zh": "她说自己是被骗卷入此事的，如今已获菲律宾总统赦免。"
+    },
+    {
+      "id": 100,
+      "startMs": 519180,
+      "endMs": 523420,
+      "en": "Philippine congresswoman Sarah Elago said justice had finally been done.",
+      "zh": "菲律宾国会议员萨拉·埃拉戈说，正义终于得到了伸张。"
+    },
+    {
+      "id": 101,
+      "startMs": 523660,
+      "endMs": 529420,
+      "en": "The granting of an absolute pardon to Mary Jane Veloso is a victory of the people's movement",
+      "zh": "给予玛丽·简·维洛索绝对赦免，是人民运动的胜利，"
+    },
+    {
+      "id": 102,
+      "startMs": 529420,
+      "endMs": 537660,
+      "en": "which for the past 15 years has tirelessly fought and stood with her for justice.",
+      "zh": "过去15年来，人民运动一直不懈斗争、与她并肩争取正义。"
+    },
+    {
+      "id": 103,
+      "startMs": 538140,
+      "endMs": 542060,
+      "en": "I got the details from our Southeast Asia correspondent, Jonathan Head.",
+      "zh": "东南亚记者乔纳森·黑德向我介绍了详情。"
+    },
+    {
+      "id": 104,
+      "startMs": 542460,
+      "endMs": 544540,
+      "en": "She was always likely to be pardoned.",
+      "zh": "她最终获赦一直是很可能的。"
+    },
+    {
+      "id": 105,
+      "startMs": 544620,
+      "endMs": 549500,
+      "en": "There were long negotiations between the Philippines government and Indonesia over her case,",
+      "zh": "菲律宾政府与印度尼西亚就她的案件进行了长期谈判，"
+    },
+    {
+      "id": 106,
+      "startMs": 549900,
+      "endMs": 553180,
+      "en": "going right back to when she was first sentenced to death.",
+      "zh": "谈判最早可以追溯到她首次被判死刑之时。"
+    },
+    {
+      "id": 107,
+      "startMs": 553660,
+      "endMs": 557900,
+      "en": "President Marcos finally agreed on what you might call a prisoner transfer.",
+      "zh": "马科斯总统最终同意了一项可以称为囚犯移交的安排。"
+    },
+    {
+      "id": 108,
+      "startMs": 558320,
+      "endMs": 562560,
+      "en": "An arrangement which had not existed between the two countries back in 2024,",
+      "zh": "这项安排在2024年时两国之间还不存在，"
+    },
+    {
+      "id": 109,
+      "startMs": 562560,
+      "endMs": 567600,
+      "en": "and that allowed her to be moved back to the Philippines to serve the rest of her sentence.",
+      "zh": "它让她得以被转回菲律宾，服完余下刑期。"
+    },
+    {
+      "id": 110,
+      "startMs": 567920,
+      "endMs": 572560,
+      "en": "It was commuted from a death sentence to a life sentence because the Philippines did not have the death penalty.",
+      "zh": "由于菲律宾没有死刑，她的刑罚从死刑减为无期徒刑。"
+    },
+    {
+      "id": 111,
+      "startMs": 573040,
+      "endMs": 576880,
+      "en": "But given the enormous amount of sympathy for her in the Philippines,",
+      "zh": "但鉴于她在菲律宾获得了巨大的同情，"
+    },
+    {
+      "id": 112,
+      "startMs": 577280,
+      "endMs": 582400,
+      "en": "it was kind of inevitable that, after a decent interval, the president would pardon her.",
+      "zh": "总统在适当间隔后赦免她，几乎是不可避免的。"
+    },
+    {
+      "id": 113,
+      "startMs": 582560,
+      "endMs": 588160,
+      "en": "Widely expected, it is also a popular thing to do for a president who lacks popularity at the moment.",
+      "zh": "这既在预料之中，也很适合眼下缺乏人气的总统借此赢得支持。"
+    },
+    {
+      "id": 114,
+      "startMs": 588480,
+      "endMs": 593440,
+      "en": "I mean, inside the Philippines, she was seen very much as a victim of human trafficking.",
+      "zh": "我的意思是，在菲律宾国内，她被广泛视为人口贩运的受害者。"
+    },
+    {
+      "id": 115,
+      "startMs": 593520,
+      "endMs": 602480,
+      "en": "Those who arranged her journey to Indonesia have themselves been sentenced to life in the Philippines for people trafficking.",
+      "zh": "那些安排她前往印度尼西亚的人，也因人口贩运在菲律宾被判无期。"
+    },
+    {
+      "id": 116,
+      "startMs": 602960,
+      "endMs": 606800,
+      "en": "And of course, she has always said that the drugs were planted in the suitcase.",
+      "zh": "当然，她一直说毒品是被人放进手提箱的。"
+    },
+    {
+      "id": 117,
+      "startMs": 607200,
+      "endMs": 614320,
+      "en": "She came from a very poor background, as a migrant worker desperately seeking employment in other countries,",
+      "zh": "她出身贫困，作为急于在海外寻找工作的移民工人，"
+    },
+    {
+      "id": 118,
+      "startMs": 614640,
+      "endMs": 617920,
+      "en": "That resonates in the Philippines, which sends millions abroad.",
+      "zh": "这在每年有数百万人出国的菲律宾引起共鸣。"
+    },
+    {
+      "id": 119,
+      "startMs": 618100,
+      "endMs": 621540,
+      "en": "Every year to work, it is part of the economy.",
+      "zh": "他们每年外出工作，这已成为经济的一部分。"
+    },
+    {
+      "id": 120,
+      "startMs": 621780,
+      "endMs": 627860,
+      "en": "Everyone is used to it, but they also know that these people are very vulnerable to being exploited or trafficked.",
+      "zh": "人们都习以为常，但也知道这些人很容易遭到剥削或被贩运。"
+    },
+    {
+      "id": 121,
+      "startMs": 628180,
+      "endMs": 631460,
+      "en": "And so I think everyone knew this decision was coming,",
+      "zh": "所以我想，所有人都知道这个决定即将到来，"
+    },
+    {
+      "id": 122,
+      "startMs": 631700,
+      "endMs": 637860,
+      "en": "and President Marcos has done it, basically, after a decent number of months after her return from Indonesia.",
+      "zh": "马科斯总统在她从印度尼西亚回来几个月后，最终作出了这一决定。"
+    },
+    {
+      "id": 123,
+      "startMs": 638180,
+      "endMs": 641140,
+      "en": "Yeah, and how did she end up on death row in Indonesia?",
+      "zh": "是的，她是怎么在印度尼西亚被判死刑的？"
+    },
+    {
+      "id": 124,
+      "startMs": 641860,
+      "endMs": 646740,
+      "en": "She arrived in Yogyakarta, the Indonesian city, in April 2010.",
+      "zh": "她于2010年4月抵达印度尼西亚城市日惹。"
+    },
+    {
+      "id": 125,
+      "startMs": 646820,
+      "endMs": 652340,
+      "en": "Customs officers there found 2.6 kilos of heroin sewn into the lining of her suitcase.",
+      "zh": "海关人员在她行李箱的内衬里发现了2.6公斤缝入其中的海洛因。"
+    },
+    {
+      "id": 126,
+      "startMs": 652580,
+      "endMs": 659300,
+      "en": "She had worked overseas before, desperately looking for work, and said the job had been arranged for her.",
+      "zh": "她此前曾出国务工，急于寻找工作，并说有人为她安排了这份工作。"
+    },
+    {
+      "id": 127,
+      "startMs": 659300,
+      "endMs": 665060,
+      "en": "In fact, she thought she was going for a job in Malaysia, but the organisers suddenly told her to go to Indonesia.",
+      "zh": "实际上，她以为自己要去马来西亚工作，但组织者突然让她前往印度尼西亚。"
+    },
+    {
+      "id": 128,
+      "startMs": 665380,
+      "endMs": 670900,
+      "en": "She always said the suitcase was simply given to her because she didn't have one to put more clothes into.",
+      "zh": "她一直说，别人只是把行李箱给了她，因为她没有箱子放更多衣服。"
+    },
+    {
+      "id": 129,
+      "startMs": 670900,
+      "endMs": 673620,
+      "en": "The Indonesian court was unsympathetic.",
+      "zh": "印度尼西亚法院并不同情她。"
+    },
+    {
+      "id": 130,
+      "startMs": 673700,
+      "endMs": 678100,
+      "en": "At the time, Indonesia was running a very harsh anti-drugs campaign.",
+      "zh": "当时，印度尼西亚正在开展非常严厉的禁毒运动。"
+    },
+    {
+      "id": 131,
+      "startMs": 678120,
+      "endMs": 683400,
+      "en": "Under President Joko Widodo, the court—frankly, it was a very unfair trial.",
+      "zh": "佐科·维多多总统执政期间，这起审判坦率地说非常不公。"
+    },
+    {
+      "id": 132,
+      "startMs": 683400,
+      "endMs": 687160,
+      "en": "She didn't speak Indonesian and didn't understand much of what was happening.",
+      "zh": "她不会说印度尼西亚语，也不明白发生了许多事情。"
+    },
+    {
+      "id": 133,
+      "startMs": 687560,
+      "endMs": 693800,
+      "en": "But the appeals against her death sentence failed, and she was scheduled to be executed in 2015.",
+      "zh": "但她对死刑判决的上诉失败了，她原定于2015年被执行死刑。"
+    },
+    {
+      "id": 134,
+      "startMs": 695640,
+      "endMs": 702200,
+      "en": "Eight other convicts, including two Australians, were executed.",
+      "zh": "另外八名罪犯被执行死刑，其中包括两名澳大利亚人。"
+    },
+    {
+      "id": 135,
+      "startMs": 702440,
+      "endMs": 706280,
+      "en": "She wasn't, partly because there was also an anti-drugs campaign in the Philippines at the time.",
+      "zh": "她没有被执行死刑，部分原因是当时菲律宾也在开展禁毒运动。"
+    },
+    {
+      "id": 136,
+      "startMs": 706760,
+      "endMs": 712360,
+      "en": "President Duterte said for many years that he wouldn't intervene in her case.",
+      "zh": "杜特尔特总统多年来一直说，他不会干预她的案件。"
+    },
+    {
+      "id": 137,
+      "startMs": 712600,
+      "endMs": 719400,
+      "en": "Only recently has the new government in the Philippines really pushed to get her released.",
+      "zh": "直到最近，菲律宾新政府才真正推动让她获释。"
+    },
+    {
+      "id": 138,
+      "startMs": 719800,
+      "endMs": 722520,
+      "en": "Our Southeast Asia correspondent, Jonathan Head.",
+      "zh": "本台东南亚记者乔纳森·黑德报道。"
+    },
+    {
+      "id": 139,
+      "startMs": 724480,
+      "endMs": 725840,
+      "en": "Still to come in this podcast.",
+      "zh": "本播客稍后还有内容。"
+    },
+    {
+      "id": 140,
+      "startMs": 726000,
+      "endMs": 730480,
+      "en": "As we look into a world where human thought is being replaced by machines,",
+      "zh": "我们将探讨一个人类思想正被机器取代的世界，"
+    },
+    {
+      "id": 141,
+      "startMs": 730640,
+      "endMs": 738080,
+      "en": "it is so important that the conditions of human dignity",
+      "zh": "人类尊严的条件得到维护，至关重要；"
+    },
+    {
+      "id": 142,
+      "startMs": 738080,
+      "endMs": 740240,
+      "en": "must be respected and be at the forefront.",
+      "zh": "并且必须受到尊重、置于首要位置。"
+    },
+    {
+      "id": 143,
+      "startMs": 740800,
+      "endMs": 745120,
+      "en": "On a visit to France, Pope Leo gives his thoughts on artificial intelligence.",
+      "zh": "访问法国期间，教皇良十四世谈及他对人工智能的看法。"
+    },
+    {
+      "id": 144,
+      "startMs": 745120,
+      "endMs": 747200,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 145,
+      "startMs": 748000,
+      "endMs": 755840,
+      "en": "The World Health Organization has warned that the Democratic Republic of Congo is running short of health workers to treat the continuing Ebola outbreak there.",
+      "zh": "世界卫生组织警告说，刚果民主共和国缺少救治当地持续性埃博拉疫情所需的医护人员。"
+    },
+    {
+      "id": 146,
+      "startMs": 756240,
+      "endMs": 761120,
+      "en": "Cases have surged by 73% over the past three weeks in North Kivu province,",
+      "zh": "北基伍省的病例在过去三周激增了73%，"
+    },
+    {
+      "id": 147,
+      "startMs": 761440,
+      "endMs": 764400,
+      "en": "and there have now been more than 3,700 deaths.",
+      "zh": "目前死亡人数已超过3700人。"
+    },
+    {
+      "id": 148,
+      "startMs": 764960,
+      "endMs": 768640,
+      "en": "Dr Rupa Nara has worked for Médecins Sans Frontières for many years",
+      "zh": "鲁帕·纳拉医生为无国界医生工作多年，"
+    },
+    {
+      "id": 149,
+      "startMs": 769040,
+      "endMs": 775040,
+      "en": "and says nothing compares to what she witnessed while working for six weeks in Butembo, a city in northern Congo.",
+      "zh": "她说，在刚果北部城市布滕博工作六周期间所见的一切，都是无可比拟的。"
+    },
+    {
+      "id": 150,
+      "startMs": 775600,
+      "endMs": 778560,
+      "en": "Six weeks doesn't sound like a long time for me.",
+      "zh": "六周对我来说听起来并不长。"
+    },
+    {
+      "id": 151,
+      "startMs": 778800,
+      "endMs": 781360,
+      "en": "Normally my missions are about six months,",
+      "zh": "通常我的任务持续大约六个月，"
+    },
+    {
+      "id": 152,
+      "startMs": 781520,
+      "endMs": 787360,
+      "en": "but I will say this: those six weeks felt like six years at times.",
+      "zh": "但我要说，那六周有时感觉像六年。"
+    },
+    {
+      "id": 153,
+      "startMs": 787360,
+      "endMs": 791760,
+      "en": "It was probably the most difficult thing I've ever done in my life.",
+      "zh": "这可能是我一生中做过的最艰难的事情。"
+    },
+    {
+      "id": 154,
+      "startMs": 792980,
+      "endMs": 801220,
+      "en": "And luckily I had incredible Congolese staff and colleagues to work with, but it was a very challenging experience.",
+      "zh": "幸运的是，我有非常出色的刚果员工和同事一起工作，但这段经历极其艰难。"
+    },
+    {
+      "id": 155,
+      "startMs": 801380,
+      "endMs": 810180,
+      "en": "So in Butembo, we have a 30-bed Ebola treatment unit and isolation area.",
+      "zh": "在布滕博，我们有一所设有30张床位的埃博拉治疗和隔离病区。"
+    },
+    {
+      "id": 156,
+      "startMs": 811200,
+      "endMs": 818320,
+      "en": "And out of those beds, at least 20 to 30% of the cases were paediatric cases.",
+      "zh": "其中至少20%到30%的病例是儿科病例。"
+    },
+    {
+      "id": 157,
+      "startMs": 818320,
+      "endMs": 821280,
+      "en": "Most of these were children that were quite young.",
+      "zh": "其中大多数是年纪很小的孩子。"
+    },
+    {
+      "id": 158,
+      "startMs": 821520,
+      "endMs": 824160,
+      "en": "Most of them are children under five years of age,",
+      "zh": "他们大多是五岁以下的儿童，"
+    },
+    {
+      "id": 159,
+      "startMs": 824800,
+      "endMs": 827200,
+      "en": "on average, one and a half years.",
+      "zh": "平均年龄只有一岁半。"
+    },
+    {
+      "id": 160,
+      "startMs": 827280,
+      "endMs": 833680,
+      "en": "When you looked at all the kids we were receiving, including newborns, it was incredibly challenging.",
+      "zh": "当你看到我们收治的所有孩子，包括新生儿时，那真是极其艰难。"
+    },
+    {
+      "id": 161,
+      "startMs": 834920,
+      "endMs": 839880,
+      "en": "One patient in particular that comes into my mind was a young woman",
+      "zh": "我尤其想起一名年轻女性患者，"
+    },
+    {
+      "id": 162,
+      "startMs": 839880,
+      "endMs": 843720,
+      "en": "with her child, and she had one sandal on.",
+      "zh": "她带着孩子，脚上只穿着一只凉鞋。"
+    },
+    {
+      "id": 163,
+      "startMs": 844360,
+      "endMs": 849320,
+      "en": "And none of the papers had her name, where she was born, or details of her child,",
+      "zh": "她没有任何文件，写着自己的姓名、出生地或孩子的信息，"
+    },
+    {
+      "id": 164,
+      "startMs": 849800,
+      "endMs": 854280,
+      "en": "because she had just fled conflict in another area,",
+      "zh": "因为她刚从另一个地区的冲突中逃离，"
+    },
+    {
+      "id": 165,
+      "startMs": 854920,
+      "endMs": 858600,
+      "en": "and she had lost a lot of her family members to this conflict.",
+      "zh": "并且有许多家人死于这场冲突。"
+    },
+    {
+      "id": 166,
+      "startMs": 858600,
+      "endMs": 862120,
+      "en": "She came in, and both she and her child had Ebola.",
+      "zh": "她来到这里时，她和孩子都感染了埃博拉。"
+    },
+    {
+      "id": 167,
+      "startMs": 863100,
+      "endMs": 867740,
+      "en": "And to think about what this poor population is suffering,",
+      "zh": "想到这个贫困群体正在承受的一切，"
+    },
+    {
+      "id": 168,
+      "startMs": 867900,
+      "endMs": 877980,
+      "en": "it's impossible to understand and realise the pain, the suffering, but also the resilience in this incredible population.",
+      "zh": "我们无法真正体会他们的痛苦与磨难，也难以想象这个非凡群体所展现的坚韧。"
+    },
+    {
+      "id": 169,
+      "startMs": 879200,
+      "endMs": 884000,
+      "en": "And unfortunately, we did lose that child of hers.",
+      "zh": "遗憾的是，我们确实失去了她的孩子。"
+    },
+    {
+      "id": 170,
+      "startMs": 884160,
+      "endMs": 887520,
+      "en": "That baby died, and the woman did survive,",
+      "zh": "那个婴儿去世了，但那名女子活了下来，"
+    },
+    {
+      "id": 171,
+      "startMs": 887840,
+      "endMs": 893580,
+      "en": "but every day it felt impossible.",
+      "zh": "可每一天都让人感觉难以承受。"
+    },
+    {
+      "id": 172,
+      "startMs": 893980,
+      "endMs": 896300,
+      "en": "We lose a lot of those children.",
+      "zh": "我们失去了许多这样的孩子。"
+    },
+    {
+      "id": 173,
+      "startMs": 896380,
+      "endMs": 900940,
+      "en": "I think we lost between 80 to 90 percent of these kids while I was there.",
+      "zh": "我想，我在那里时失去了其中80%到90%的孩子。"
+    },
+    {
+      "id": 174,
+      "startMs": 900940,
+      "endMs": 904320,
+      "en": "It's incredibly challenging.",
+      "zh": "这极其艰难。"
+    },
+    {
+      "id": 175,
+      "startMs": 904560,
+      "endMs": 915440,
+      "en": "I was mainly there to work both as the paediatrician, but also to train our Congolese colleagues in paediatric management and critical care.",
+      "zh": "我主要在那里担任儿科医生，同时培训刚果同事进行儿科管理和重症护理。"
+    },
+    {
+      "id": 176,
+      "startMs": 916160,
+      "endMs": 921440,
+      "en": "And that was my silver lining, because I had really incredible staff",
+      "zh": "这算是我的一线希望，因为我有一群非常出色的员工，"
+    },
+    {
+      "id": 177,
+      "startMs": 921520,
+      "endMs": 924000,
+      "en": "that was risking their life every day.",
+      "zh": "他们每天都在冒着生命危险。"
+    },
+    {
+      "id": 178,
+      "startMs": 924720,
+      "endMs": 930320,
+      "en": "And although it was a very challenging six weeks, I just got home",
+      "zh": "虽然那六周极其艰难，但我刚刚回到家，"
+    },
+    {
+      "id": 179,
+      "startMs": 930320,
+      "endMs": 939460,
+      "en": "and I received several messages from my staff over the last two days because we had four kids admitted when I left.",
+      "zh": "过去两天我收到了员工的几条消息，因为我离开时还有四个孩子住院。"
+    },
+    {
+      "id": 180,
+      "startMs": 940240,
+      "endMs": 943760,
+      "en": "And two of those children have left cured.",
+      "zh": "其中两个孩子已经痊愈出院。"
+    },
+    {
+      "id": 181,
+      "startMs": 944080,
+      "endMs": 947840,
+      "en": "One was a two-and-a-half-year-old; one's a seven-year-old.",
+      "zh": "一个两岁半，另一个七岁。"
+    },
+    {
+      "id": 182,
+      "startMs": 948480,
+      "endMs": 953520,
+      "en": "And the two other children that were confirmed—one's a 15-month-old,",
+      "zh": "另外两个确诊的孩子中，一个是15个月大，"
+    },
+    {
+      "id": 183,
+      "startMs": 954320,
+      "endMs": 958240,
+      "en": "and the other one's another two-year-old—are actually stable and doing well.",
+      "zh": "另一个两岁；他们目前都很稳定，情况良好。"
+    },
+    {
+      "id": 184,
+      "startMs": 958720,
+      "endMs": 963360,
+      "en": "And it's really nice to hear and see my staff see some hope.",
+      "zh": "听到并看到我的员工看到了一些希望，真的很好。"
+    },
+    {
+      "id": 185,
+      "startMs": 964240,
+      "endMs": 965280,
+      "en": "Dr Rupa Nara.",
+      "zh": "鲁帕·纳拉医生。"
+    },
+    {
+      "id": 186,
+      "startMs": 965280,
+      "endMs": 973280,
+      "en": "Beauty products like skincare and makeup have become a big part of young people's lives in recent years, often driven by social media.",
+      "zh": "近年来，护肤品和化妆品已成为年轻人生活的重要部分，常常受到社交媒体的推动。"
+    },
+    {
+      "id": 187,
+      "startMs": 973680,
+      "endMs": 976480,
+      "en": "In some cases, children may even be harming themselves.",
+      "zh": "在某些情况下，孩子甚至可能正在伤害自己。"
+    },
+    {
+      "id": 188,
+      "startMs": 976960,
+      "endMs": 980720,
+      "en": "BBC reporter Nina Blissett asked some children what they use.",
+      "zh": "BBC记者妮娜·布利塞特询问了一些孩子使用什么产品。"
+    },
+    {
+      "id": 189,
+      "startMs": 980960,
+      "endMs": 984400,
+      "en": "Toner, face wash, bronzer, blush and contour.",
+      "zh": "爽肤水、洗面奶、古铜粉、腮红和修容。"
+    },
+    {
+      "id": 190,
+      "startMs": 984400,
+      "endMs": 987520,
+      "en": "Mascara. Lip glosses and lip balms.",
+      "zh": "睫毛膏。唇彩和润唇膏。"
+    },
+    {
+      "id": 191,
+      "startMs": 987680,
+      "endMs": 988720,
+      "en": "Stuff for my eyebrows.",
+      "zh": "还有画眉毛的东西。"
+    },
+    {
+      "id": 192,
+      "startMs": 988960,
+      "endMs": 992720,
+      "en": "Cleanser, moisturiser, blush and eyeshadow.",
+      "zh": "洁面乳、保湿霜、腮红和眼影。"
+    },
+    {
+      "id": 193,
+      "startMs": 992720,
+      "endMs": 995680,
+      "en": "Blush, maybe a bit of concealer and obviously mascara.",
+      "zh": "腮红，可能还有一点遮瑕，当然还有睫毛膏。"
+    },
+    {
+      "id": 194,
+      "startMs": 995760,
+      "endMs": 998160,
+      "en": "Where do you see all these makeup and skincare products?",
+      "zh": "你在哪里看到这些化妆品和护肤品？"
+    },
+    {
+      "id": 195,
+      "startMs": 998560,
+      "endMs": 1002400,
+      "en": "A lot of people, like, post about it, like their morning routines.",
+      "zh": "很多人会发帖介绍，比如他们的晨间护肤流程。"
+    },
+    {
+      "id": 196,
+      "startMs": 1002800,
+      "endMs": 1005760,
+      "en": "Idols, like the public, like social media, I would say.",
+      "zh": "我想说，偶像和公众都喜欢社交媒体。"
+    },
+    {
+      "id": 197,
+      "startMs": 1006080,
+      "endMs": 1011040,
+      "en": "I just saw, like, it around, like, TikTok and YouTube and stuff, and I just thought, why not try it?",
+      "zh": "我就是在TikTok、YouTube之类的平台上看到它，然后想，为什么不试试呢？"
+    },
+    {
+      "id": 198,
+      "startMs": 1011520,
+      "endMs": 1018560,
+      "en": "Well, Save Face, a British organisation that runs a register of approved beauty professionals, is calling for better regulation.",
+      "zh": "英国机构Save Face负责登记获认可的美容专业人员，如今呼吁加强监管。"
+    },
+    {
+      "id": 199,
+      "startMs": 1018960,
+      "endMs": 1020640,
+      "en": "Its founder is Ashton Collins.",
+      "zh": "该机构创始人是阿什顿·柯林斯。"
+    },
+    {
+      "id": 200,
+      "startMs": 1021040,
+      "endMs": 1024960,
+      "en": "It's becoming a huge, huge problem and it's only going to get worse.",
+      "zh": "这正成为一个极其严重的问题，而且只会越来越糟。"
+    },
+    {
+      "id": 201,
+      "startMs": 1024980,
+      "endMs": 1029540,
+      "en": "And that's why we're calling for this urgent intervention to have clear labelling on products",
+      "zh": "因此，我们呼吁紧急介入，在产品上明确标注，"
+    },
+    {
+      "id": 202,
+      "startMs": 1029620,
+      "endMs": 1035300,
+      "en": "to inform parents, children and retail staff that these are harmful ingredients",
+      "zh": "告知家长、孩子和零售工作人员，这些是有害成分，"
+    },
+    {
+      "id": 203,
+      "startMs": 1035300,
+      "endMs": 1038260,
+      "en": "for children and they're not suitable for people under 18.",
+      "zh": "不适合儿童，也不适合18岁以下人士。"
+    },
+    {
+      "id": 204,
+      "startMs": 1039060,
+      "endMs": 1048100,
+      "en": "Powerful active skincare ingredients like retinols and certain acids work by speeding up skin-cell turnover, and so they're exfoliants.",
+      "zh": "视黄醇等强效活性护肤成分和某些酸类，会加速皮肤细胞更新，因此属于去角质剂。"
+    },
+    {
+      "id": 205,
+      "startMs": 1048420,
+      "endMs": 1055540,
+      "en": "And for young skin, whose barriers are really sensitive, it damages their skin and damages it long term,",
+      "zh": "而儿童皮肤的屏障非常敏感，这会损伤皮肤，并造成长期伤害，"
+    },
+    {
+      "id": 206,
+      "startMs": 1055540,
+      "endMs": 1060900,
+      "en": "and so it can cause things like burning and contact dermatitis and eczema long term.",
+      "zh": "还可能长期引起灼热、接触性皮炎和湿疹。"
+    },
+    {
+      "id": 207,
+      "startMs": 1061300,
+      "endMs": 1066580,
+      "en": "And not just the physical impacts it has on our young children, it's also the mental health impact.",
+      "zh": "它影响的不只是孩子的身体，也会影响他们的心理健康。"
+    },
+    {
+      "id": 208,
+      "startMs": 1066900,
+      "endMs": 1070980,
+      "en": "Telling children as young as eight that you need these extensive skincare routines",
+      "zh": "告诉年仅八岁的孩子，他们需要这些繁复的护肤流程，"
+    },
+    {
+      "id": 209,
+      "startMs": 1070980,
+      "endMs": 1074260,
+      "en": "or you need to improve the way that you look, I think, is really harmful.",
+      "zh": "或者需要改善外貌，我认为这非常有害。"
+    },
+    {
+      "id": 210,
+      "startMs": 1074340,
+      "endMs": 1081300,
+      "en": "We probably naively thought that once these companies realised the impact they were having on young children's health and their mental health,",
+      "zh": "我们可能天真地以为，这些公司意识到它们对儿童身体和心理健康造成的影响后，"
+    },
+    {
+      "id": 211,
+      "startMs": 1081380,
+      "endMs": 1084980,
+      "en": "they would step up to the plate and actually, you know, do that.",
+      "zh": "就会挺身而出，真正采取行动。"
+    },
+    {
+      "id": 212,
+      "startMs": 1085000,
+      "endMs": 1091080,
+      "en": "Voluntarily, but that isn't the case, which is why we're now calling for government backing to better regulate social media companies",
+      "zh": "但事实并非如此，所以我们现在呼吁政府支持，加强对社交媒体公司的监管，"
+    },
+    {
+      "id": 213,
+      "startMs": 1091160,
+      "endMs": 1095880,
+      "en": "and influencers in terms of how they target young children with these types of products.",
+      "zh": "规范它们及网红利用这类产品面向儿童的方式。"
+    },
+    {
+      "id": 214,
+      "startMs": 1096440,
+      "endMs": 1098440,
+      "en": "Ashton Collins from Save Face.",
+      "zh": "Save Face的阿什顿·柯林斯。"
+    },
+    {
+      "id": 215,
+      "startMs": 1099640,
+      "endMs": 1106200,
+      "en": "Although it's a secular state, France remains a nominally Catholic country, albeit with low church attendance.",
+      "zh": "法国虽是世俗国家，但仍是名义上的天主教国家，只是教会出席率很低。"
+    },
+    {
+      "id": 216,
+      "startMs": 1106760,
+      "endMs": 1109560,
+      "en": "And there was a warm welcome for Pope Leo today.",
+      "zh": "今天，教皇良十四世受到了热烈欢迎。"
+    },
+    {
+      "id": 217,
+      "startMs": 1114560,
+      "endMs": 1120960,
+      "en": "The bells of Notre-Dame rang out as the pontiff landed at the airport to be greeted by President Macron and a military band.",
+      "zh": "教皇抵达机场时，巴黎圣母院钟声响起，马克龙总统和军乐队迎接了他。"
+    },
+    {
+      "id": 218,
+      "startMs": 1121440,
+      "endMs": 1127440,
+      "en": "The highlight is expected to be a giant mass attended by more than half a million people in the centre of Paris.",
+      "zh": "预计亮点将是巴黎市中心举行的一场大型弥撒，参加者超过五十万人。"
+    },
+    {
+      "id": 219,
+      "startMs": 1127920,
+      "endMs": 1134400,
+      "en": "But in his first engagement of the four-day trip at the Élysée Palace, he issued a warning about AI.",
+      "zh": "但在四天行程中于爱丽舍宫参加的首场活动上，他发出了关于人工智能的警告。"
+    },
+    {
+      "id": 220,
+      "startMs": 1134880,
+      "endMs": 1142000,
+      "en": "As we look into a world where human thought is being replaced by machines,",
+      "zh": "当我们展望一个人类思想正被机器取代的世界时，"
+    },
+    {
+      "id": 221,
+      "startMs": 1142000,
+      "endMs": 1149120,
+      "en": "it is so important that the conditions of human dignity must be respected and be at the forefront.",
+      "zh": "尊重人的尊严并将其置于首位至关重要。"
+    },
+    {
+      "id": 222,
+      "startMs": 1149200,
+      "endMs": 1158780,
+      "en": "It is a question of ethics: to know what morally is good or not. So what are we to make of that?",
+      "zh": "这是一个伦理问题：要知道什么在道德上是对的，什么不是。那么，我们该如何理解这番话？"
+    },
+    {
+      "id": 223,
+      "startMs": 1158860,
+      "endMs": 1161820,
+      "en": "I asked our correspondent Hugh Schofield in Paris.",
+      "zh": "我询问了在巴黎的记者休·斯科菲尔德。"
+    },
+    {
+      "id": 224,
+      "startMs": 1161980,
+      "endMs": 1165660,
+      "en": "We know that he holds AI as a theme very close to his heart.",
+      "zh": "我们知道，人工智能是他非常重视的主题。"
+    },
+    {
+      "id": 225,
+      "startMs": 1166060,
+      "endMs": 1171420,
+      "en": "He's issued his first-ever encyclical, that is, a papal pronouncement on this subject in May.",
+      "zh": "他在五月发布了首份通谕，也就是一份关于这一主题的教皇训令。"
+    },
+    {
+      "id": 226,
+      "startMs": 1171740,
+      "endMs": 1175660,
+      "en": "So he named himself Leo XIV after Leo XIII, who was the pope 100 years ago.",
+      "zh": "因此，他以一百年前的教皇良十三世为名，自称良十四世。"
+    },
+    {
+      "id": 227,
+      "startMs": 1176060,
+      "endMs": 1180700,
+      "en": "He made some very important pronouncements about changing society then, including industrialization.",
+      "zh": "良十三世曾就当时改变社会的问题发表重要论述，包括工业化。"
+    },
+    {
+      "id": 228,
+      "startMs": 1181020,
+      "endMs": 1185500,
+      "en": "He also addressed the proletariat and the need for human input into the changes then.",
+      "zh": "他还谈到无产阶级，以及这些变化中需要人类参与的问题。"
+    },
+    {
+      "id": 229,
+      "startMs": 1185820,
+      "endMs": 1192060,
+      "en": "He wants the same now. He wants human beings to consider very deeply the impact of AI.",
+      "zh": "如今，他也希望如此。他希望人类深入思考人工智能的影响。"
+    },
+    {
+      "id": 230,
+      "startMs": 1192540,
+      "endMs": 1196860,
+      "en": "And that's the burden of his speech here in Rome, all over the place.",
+      "zh": "这就是他在罗马以及各处演讲所承担的重任。"
+    },
+    {
+      "id": 231,
+      "startMs": 1197180,
+      "endMs": 1201420,
+      "en": "It's not unusual that he should say it here because he's got an audience now of France and the world.",
+      "zh": "他在这里这样说并不奇怪，因为他现在面对的是法国乃至全世界的听众。"
+    },
+    {
+      "id": 232,
+      "startMs": 1201500,
+      "endMs": 1210540,
+      "en": "And he's again insisting that AI in itself may not be immoral, but it is a dangerous thing which needs to be brought under control.",
+      "zh": "他再次强调，人工智能本身或许并不不道德，但它很危险，需要受到控制。"
+    },
+    {
+      "id": 233,
+      "startMs": 1210540,
+      "endMs": 1216480,
+      "en": "And the people who are in control of it need to be themselves ethically very, very conscientious.",
+      "zh": "而控制它的人自身也必须在伦理上极其谨慎负责。"
+    },
+    {
+      "id": 234,
+      "startMs": 1216640,
+      "endMs": 1226240,
+      "en": "Now in that speech in front of President Macron and assembled guests in the Élysée, he reiterated the church's opposition to assisted dying.",
+      "zh": "在爱丽舍宫面对马克龙总统和来宾发表讲话时，他重申了教会反对协助死亡的立场。"
+    },
+    {
+      "id": 235,
+      "startMs": 1226240,
+      "endMs": 1233680,
+      "en": "Two months after France approved euthanasia for those with incurable diseases, how might that message go down?",
+      "zh": "法国批准为不治之症患者实施安乐死两个月后，这一信息可能会得到怎样的反响？"
+    },
+    {
+      "id": 236,
+      "startMs": 1234080,
+      "endMs": 1237200,
+      "en": "It's the church's message. It doesn't vary a jot",
+      "zh": "这是教会的立场。教会的说法没有丝毫改变，"
+    },
+    {
+      "id": 237,
+      "startMs": 1237280,
+      "endMs": 1244240,
+      "en": "from everything that the church has said since this debate burst forth many decades ago, about assisted dying and so on.",
+      "zh": "自数十年前这场关于协助死亡的争论出现以来，关于协助死亡等等，始终如此。"
+    },
+    {
+      "id": 238,
+      "startMs": 1244240,
+      "endMs": 1248400,
+      "en": "So it is perfectly natural that the pope would say this in France.",
+      "zh": "所以教皇在法国这样说完全合乎情理。"
+    },
+    {
+      "id": 239,
+      "startMs": 1248400,
+      "endMs": 1253200,
+      "en": "In front of his audience, the pope's position, the church's position, is opposition to assisted dying.",
+      "zh": "在听众面前，教皇和教会的立场就是反对协助死亡。"
+    },
+    {
+      "id": 240,
+      "startMs": 1253200,
+      "endMs": 1258640,
+      "en": "Opposition to anything that detracts from this essential tenet of the sanctity of human life.",
+      "zh": "也反对任何有损人类生命神圣这一基本信条的事情。"
+    },
+    {
+      "id": 241,
+      "startMs": 1258880,
+      "endMs": 1263280,
+      "en": "He made the same point about surrogacy, the buying of organs as well.",
+      "zh": "他对代孕以及购买器官也表达了同样的观点。"
+    },
+    {
+      "id": 242,
+      "startMs": 1263520,
+      "endMs": 1268560,
+      "en": "These are things which the church has a very strong and known position about. So it's not surprising that he said it here.",
+      "zh": "这些都是教会立场非常明确且坚定的问题。因此，他在这里这样说并不令人意外。"
+    },
+    {
+      "id": 243,
+      "startMs": 1268560,
+      "endMs": 1271760,
+      "en": "It was listened to politely. The state, France, has a different view.",
+      "zh": "人们礼貌地听取了这番话。法国这个国家有不同看法。"
+    },
+    {
+      "id": 244,
+      "startMs": 1271760,
+      "endMs": 1276340,
+      "en": "It's passed a law, as you say, which allows some assisted dying in certain circumstances.",
+      "zh": "正如你所说，法国已经通过法律，允许在某些情况下实施协助死亡。"
+    },
+    {
+      "id": 245,
+      "startMs": 1276660,
+      "endMs": 1280260,
+      "en": "It's simply a stating of sides, and that's important.",
+      "zh": "这只是双方表明立场，而这很重要。"
+    },
+    {
+      "id": 246,
+      "startMs": 1280260,
+      "endMs": 1284180,
+      "en": "But of course the Pope only has so much influence in France.",
+      "zh": "但当然，教皇在法国的影响力也有限。"
+    },
+    {
+      "id": 247,
+      "startMs": 1284340,
+      "endMs": 1286900,
+      "en": "He says what he has to say. Some people listen, some people don't.",
+      "zh": "他只是说出自己必须说的话。有人听，有人不听。"
+    },
+    {
+      "id": 248,
+      "startMs": 1287140,
+      "endMs": 1292500,
+      "en": "Yeah, I mean, how popular is he in France? As things stand, he's very, very popular.",
+      "zh": "是的，我是说，他在法国有多受欢迎？就目前而言，他非常受欢迎。"
+    },
+    {
+      "id": 249,
+      "startMs": 1292500,
+      "endMs": 1298580,
+      "en": "I mean, obviously the faithful are extremely excited about him, but on the left as well, people are generally anti-clerical.",
+      "zh": "显然，信徒们对他非常兴奋，但左翼人士也同样如此，他们通常反对教权。"
+    },
+    {
+      "id": 250,
+      "startMs": 1298580,
+      "endMs": 1302980,
+      "en": "I think they approve of a lot of what he's had to say about poverty, migration and, of course, AI.",
+      "zh": "我认为，他们赞同他在贫困、移民以及人工智能方面所说的许多内容。"
+    },
+    {
+      "id": 251,
+      "startMs": 1303380,
+      "endMs": 1308960,
+      "en": "Hugh Schofield in Paris. And that is all from us for now.",
+      "zh": "巴黎的休·斯科菲尔德报道。以上就是我们目前的全部报道。"
+    },
+    {
+      "id": 252,
+      "startMs": 1308960,
+      "endMs": 1313920,
+      "en": "If you want to get in touch, email us at globalpodcast@bbc.co.uk.",
+      "zh": "如需联系我们，请发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 253,
+      "startMs": 1313920,
+      "endMs": 1318720,
+      "en": "You can watch our episodes in full by searching for the Global News Podcast on YouTube.",
+      "zh": "在YouTube上搜索 Global News Podcast，即可观看完整节目。"
+    },
+    {
+      "id": 254,
+      "startMs": 1319280,
+      "endMs": 1322400,
+      "en": "This edition was mixed by Mike Campbell and produced by Rebecca Wood.",
+      "zh": "本期由迈克·坎贝尔混音，丽贝卡·伍德制作。"
+    },
+    {
+      "id": 255,
+      "startMs": 1322720,
+      "endMs": 1325360,
+      "en": "Our editor is Karen Martin. I'm Oliver Conway.",
+      "zh": "编辑是凯伦·马丁。我是奥利弗·康威。"
+    },
+    {
+      "id": 256,
+      "startMs": 1325600,
+      "endMs": 1326960,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
