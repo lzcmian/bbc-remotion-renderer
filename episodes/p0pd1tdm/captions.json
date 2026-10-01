@@ -1,0 +1,2272 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "29 September 2026"
+  },
+  "durationMs": 1679480,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4240,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 4880,
+      "endMs": 11520,
+      "en": "I'm Valerie Sanderson and at 15:00 GMT on Tuesday the 29th of September, these are our main stories.",
+      "zh": "我是瓦莱丽·桑德森。以下是 9 月 29 日星期二格林尼治时间 15 点的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11920,
+      "endMs": 14720,
+      "en": "Spain's government says it will ban evictions until 2030,",
+      "zh": "西班牙政府表示将禁止驱逐房客直至 2030 年，"
+    },
+    {
+      "id": 4,
+      "startMs": 14720,
+      "endMs": 20080,
+      "en": "as it tries to tackle a housing crisis that has caused widespread public anger.",
+      "zh": "以应对引发民众广泛愤怒的住房危机。"
+    },
+    {
+      "id": 5,
+      "startMs": 20640,
+      "endMs": 24880,
+      "en": "Israeli settlers attack a Palestinian village in the occupied West Bank,",
+      "zh": "以色列定居者袭击被占领的约旦河西岸一个巴勒斯坦村庄，"
+    },
+    {
+      "id": 6,
+      "startMs": 25360,
+      "endMs": 29680,
+      "en": "preventing a family from returning to their home despite a ruling from the High Court.",
+      "zh": "尽管高等法院已经裁决，这仍阻止一个家庭回到他们的家。"
+    },
+    {
+      "id": 7,
+      "startMs": 30320,
+      "endMs": 34720,
+      "en": "OpenAI scraps the launch of its next model due to safety concerns.",
+      "zh": "OpenAI 因安全担忧取消下一代模型的发布。"
+    },
+    {
+      "id": 8,
+      "startMs": 37340,
+      "endMs": 40780,
+      "en": "Also in this podcast, a new film about Facebook.",
+      "zh": "本期播客还将介绍一部关于 Facebook 的新电影。"
+    },
+    {
+      "id": 9,
+      "startMs": 41100,
+      "endMs": 47820,
+      "en": "What began as a cool idea became something huge and frankly monstrous,",
+      "zh": "一个起初很酷的想法变得庞大，坦率说甚至有些可怕，"
+    },
+    {
+      "id": 10,
+      "startMs": 47820,
+      "endMs": 52460,
+      "en": "a machine for pumping out misinformation and making people angry.",
+      "zh": "成了一台制造错误信息、激怒人们的机器。"
+    },
+    {
+      "id": 11,
+      "startMs": 58880,
+      "endMs": 63440,
+      "en": "A sharp upsurge in violence by Israeli settlers against Palestinians in the occupied",
+      "zh": "被占领的约旦河西岸，以色列定居者针对巴勒斯坦人的暴力急剧增加，"
+    },
+    {
+      "id": 12,
+      "startMs": 63440,
+      "endMs": 68000,
+      "en": "West Bank has been gaining international attention. The latest example",
+      "zh": "引起了国际关注。最近的例子"
+    },
+    {
+      "id": 13,
+      "startMs": 68160,
+      "endMs": 73760,
+      "en": "is an assault by 100 Israeli settlers who attacked a Palestinian village there,",
+      "zh": "是 100 名以色列定居者袭击当地一个巴勒斯坦村庄，"
+    },
+    {
+      "id": 14,
+      "startMs": 73760,
+      "endMs": 77520,
+      "en": "preventing a family from going back to their home which had been seized by settlers.",
+      "zh": "阻止一个家庭回到被定居者夺走的家中。"
+    },
+    {
+      "id": 15,
+      "startMs": 78080,
+      "endMs": 85840,
+      "en": "The return of the Palestinians to the village of Jalud had been coordinated with the Israeli army after a High Court ruled in their favour.",
+      "zh": "巴勒斯坦人返回贾卢德村一事已与以色列军方协调，此前高等法院裁决支持他们。"
+    },
+    {
+      "id": 16,
+      "startMs": 86400,
+      "endMs": 89280,
+      "en": "Our correspondent in Jerusalem, Yolande Knell, told me more.",
+      "zh": "我们在耶路撒冷的记者约兰德·内尔告诉了我更多情况。"
+    },
+    {
+      "id": 17,
+      "startMs": 89680,
+      "endMs": 94960,
+      "en": "The Atabasi family had been forced to leave their two homes on the edge of the village",
+      "zh": "阿塔巴西一家被迫离开位于村庄边缘的两处住宅，"
+    },
+    {
+      "id": 18,
+      "startMs": 94960,
+      "endMs": 98000,
+      "en": "of Jalud, which is just south of Nablus in the West Bank.",
+      "zh": "这些住宅在约旦河西岸纳布卢斯以南、贾卢德村附近。"
+    },
+    {
+      "id": 19,
+      "startMs": 98240,
+      "endMs": 106560,
+      "en": "That was back in July, and they had been subjected to months of harassment and settler attacks when they fled.",
+      "zh": "那是在 7 月；他们逃离时已经遭受数月骚扰和定居者袭击。"
+    },
+    {
+      "id": 20,
+      "startMs": 106880,
+      "endMs": 114240,
+      "en": "Now the Israeli High Court had ruled in their favour earlier this month, really putting out a strongly worded",
+      "zh": "本月早些时候，以色列高等法院裁决支持他们，并发表措辞强硬的"
+    },
+    {
+      "id": 21,
+      "startMs": 114240,
+      "endMs": 122100,
+      "en": "statement calling for the rule of law to be reinstated and calling on Israeli authorities to get this family back",
+      "zh": "声明，要求恢复法治，并呼吁以色列当局让这个家庭回到"
+    },
+    {
+      "id": 22,
+      "startMs": 122340,
+      "endMs": 129620,
+      "en": "to their homes. Now we were told by Mahmoud Atabasi that he was called late at night and told",
+      "zh": "他们的家中。马哈茂德·阿塔巴西告诉我们，他深夜接到电话，被告知"
+    },
+    {
+      "id": 23,
+      "startMs": 129620,
+      "endMs": 132820,
+      "en": "that the coordination had come through around midnight local time.",
+      "zh": "协调已在当地时间午夜左右完成。"
+    },
+    {
+      "id": 24,
+      "startMs": 133140,
+      "endMs": 137620,
+      "en": "So he, one of his sons and his wife rushed off to these houses.",
+      "zh": "于是他和一个儿子及妻子赶往这些房屋。"
+    },
+    {
+      "id": 25,
+      "startMs": 137620,
+      "endMs": 141860,
+      "en": "They were being escorted by Israeli soldiers and Israeli police.",
+      "zh": "以色列士兵和警察为他们护送。"
+    },
+    {
+      "id": 26,
+      "startMs": 141860,
+      "endMs": 150260,
+      "en": "But it seems that what happened at the same time was that one of the WhatsApp groups used by these extremist settlers to coordinate their actions put",
+      "zh": "但事情似乎同时发生：这些极端定居者用来协调行动的一个 WhatsApp 群组发出"
+    },
+    {
+      "id": 27,
+      "startMs": 150340,
+      "endMs": 156100,
+      "en": "out an alert saying that the family they had managed to force out was indeed returning,",
+      "zh": "警报称他们设法赶走的那个家庭确实正在返回，"
+    },
+    {
+      "id": 28,
+      "startMs": 156100,
+      "endMs": 162260,
+      "en": "and calling on settlers to come and join an action to stop that return from happening.",
+      "zh": "并号召定居者前来参与阻止其返回的行动。"
+    },
+    {
+      "id": 29,
+      "startMs": 162420,
+      "endMs": 168420,
+      "en": "The family told us that they had just inspected the extensive damage to one of their properties.",
+      "zh": "这家人告诉我们，他们刚检查过其中一处房产遭受的严重破坏。"
+    },
+    {
+      "id": 30,
+      "startMs": 168420,
+      "endMs": 170420,
+      "en": "They sent us a video where you could just see",
+      "zh": "他们给我们发来一段视频，可以看到"
+    },
+    {
+      "id": 31,
+      "startMs": 170740,
+      "endMs": 178340,
+      "en": "how settlers have torn it apart, smashing the toilet, smashing up the doors, pulling out the electrical fittings.",
+      "zh": "定居者如何将房屋毁坏：砸碎马桶、砸坏门、拆出电气装置。"
+    },
+    {
+      "id": 32,
+      "startMs": 178440,
+      "endMs": 183480,
+      "en": "And just as they were in the process of that inspection, settlers started to throw stones at the house.",
+      "zh": "就在他们检查时，定居者开始向房屋投掷石块。"
+    },
+    {
+      "id": 33,
+      "startMs": 183560,
+      "endMs": 191240,
+      "en": "They were told, they said, there were more than 100 of them. That is the same as the statement that's come from the Israeli military.",
+      "zh": "他们说，有人告诉他们，现场有一百多人。这与以色列军方的声明一致。"
+    },
+    {
+      "id": 34,
+      "startMs": 191560,
+      "endMs": 197560,
+      "en": "The family said that there were actually five or six soldiers that helped them initially to get into an Israeli military vehicle,",
+      "zh": "这家人说，最初有五六名士兵帮助他们进入一辆以色列军车，"
+    },
+    {
+      "id": 35,
+      "startMs": 197560,
+      "endMs": 198920,
+      "en": "so that they could leave the scene.",
+      "zh": "以便他们离开现场。"
+    },
+    {
+      "id": 36,
+      "startMs": 198920,
+      "endMs": 206200,
+      "en": "That vehicle was attacked with its tyres slashed, they said, and then they were put into an armoured vehicle and taken away.",
+      "zh": "他们说，那辆车遭到袭击、轮胎被割破；随后他们被转移到一辆装甲车中带走。"
+    },
+    {
+      "id": 37,
+      "startMs": 206200,
+      "endMs": 209400,
+      "en": "After they left, their houses were set on fire.",
+      "zh": "他们离开后，房屋被纵火焚烧。"
+    },
+    {
+      "id": 38,
+      "startMs": 209800,
+      "endMs": 213400,
+      "en": "How are the Israeli authorities reacting to this, Yolande?",
+      "zh": "约兰德，以色列当局对此有何反应？"
+    },
+    {
+      "id": 39,
+      "startMs": 213400,
+      "endMs": 217800,
+      "en": "Because this happened following a High Court ruling that the family should return.",
+      "zh": "因为这件事发生在高等法院裁决该家庭应当返回之后。"
+    },
+    {
+      "id": 40,
+      "startMs": 218440,
+      "endMs": 221720,
+      "en": "That's right, and I think it just is a very clear illustration of",
+      "zh": "没错。我认为这非常清楚地说明了"
+    },
+    {
+      "id": 41,
+      "startMs": 221720,
+      "endMs": 227000,
+      "en": "how the Israeli authorities are struggling or indeed failing to deal with settler violence,",
+      "zh": "以色列当局正努力、甚至未能应对定居者暴力，"
+    },
+    {
+      "id": 42,
+      "startMs": 227080,
+      "endMs": 231880,
+      "en": "particularly under the government of Prime Minister Benjamin Netanyahu,",
+      "zh": "尤其是在本雅明·内塔尼亚胡总理领导的政府下，"
+    },
+    {
+      "id": 43,
+      "startMs": 232200,
+      "endMs": 239420,
+      "en": "who, with the far-right elements in his government, has really promoted rapid settlement expansion.",
+      "zh": "他与政府中的极右翼势力一起，确实推动了定居点的快速扩张。"
+    },
+    {
+      "id": 44,
+      "startMs": 239500,
+      "endMs": 244860,
+      "en": "And the UN is saying that settler violence in the West Bank is at an all-time high.",
+      "zh": "联合国表示，约旦河西岸的定居者暴力已达到历史最高水平。"
+    },
+    {
+      "id": 45,
+      "startMs": 245180,
+      "endMs": 249980,
+      "en": "Now the Israeli prime minister did put out a statement strongly condemning what had happened,",
+      "zh": "以色列总理确实发表声明强烈谴责所发生的事件，"
+    },
+    {
+      "id": 46,
+      "startMs": 250220,
+      "endMs": 254060,
+      "en": "but he was referring to the attacks on the Israeli security forces.",
+      "zh": "但他指的是针对以色列安全部队的袭击。"
+    },
+    {
+      "id": 47,
+      "startMs": 254380,
+      "endMs": 260620,
+      "en": "Three border police were lightly injured, we're told. The Israeli president has said there has to be decisive action,",
+      "zh": "据报道，三名边防警察受轻伤。以色列总统表示必须采取果断行动，"
+    },
+    {
+      "id": 48,
+      "startMs": 260620,
+      "endMs": 265340,
+      "en": "and said this is a moral stain, particularly coming at the time of the Jewish high holiday of Sukkot.",
+      "zh": "并称这是一道道德污点，尤其发生在犹太教重要节日住棚节期间。"
+    },
+    {
+      "id": 49,
+      "startMs": 266060,
+      "endMs": 267820,
+      "en": "Yolande Knell in Jerusalem.",
+      "zh": "约兰德·内尔在耶路撒冷报道。"
+    },
+    {
+      "id": 50,
+      "startMs": 268840,
+      "endMs": 271320,
+      "en": "The Spanish government has approved a proposed ban on",
+      "zh": "西班牙政府批准了一项拟议的禁驱逐令，"
+    },
+    {
+      "id": 51,
+      "startMs": 271320,
+      "endMs": 276200,
+      "en": "evictions until 2030 amid protests across the country over housing.",
+      "zh": "将驱逐禁令延长至2030年，此前全国各地因住房问题爆发抗议。"
+    },
+    {
+      "id": 52,
+      "startMs": 276760,
+      "endMs": 279560,
+      "en": "The issue came into sharp focus when an 87-year-old",
+      "zh": "一名87岁老妇的遭遇令这个问题骤然受到关注。"
+    },
+    {
+      "id": 53,
+      "startMs": 279560,
+      "endMs": 283560,
+      "en": "woman who'd lived in her Madrid apartment for decades was evicted",
+      "zh": "她在马德里的公寓住了几十年，却遭到驱逐，"
+    },
+    {
+      "id": 54,
+      "startMs": 283720,
+      "endMs": 287080,
+      "en": "when she could no longer afford the massive increase in her rent.",
+      "zh": "她再也负担不起房租的大幅上涨。"
+    },
+    {
+      "id": 55,
+      "startMs": 287640,
+      "endMs": 291320,
+      "en": "Her situation drew huge publicity, and now ministers have decided",
+      "zh": "她的遭遇受到广泛关注，如今部长们决定"
+    },
+    {
+      "id": 56,
+      "startMs": 291320,
+      "endMs": 296440,
+      "en": "to introduce new housing decrees which they say are in response to the demands of the people.",
+      "zh": "推出新的住房法令，并称这是对民众诉求的回应。"
+    },
+    {
+      "id": 57,
+      "startMs": 297080,
+      "endMs": 300920,
+      "en": "The case of pensioner Mari Carmen Abascal seems to have been resolved.",
+      "zh": "养老金领取者玛丽·卡门·阿瓦斯卡尔的案件似乎已经解决。"
+    },
+    {
+      "id": 58,
+      "startMs": 300920,
+      "endMs": 304680,
+      "en": "Her lawyer Beatriz Duro said that she would be allowed to return",
+      "zh": "她的律师贝阿特丽斯·杜罗说，她获准返回住处，"
+    },
+    {
+      "id": 59,
+      "startMs": 304920,
+      "endMs": 306840,
+      "en": "paying a rent similar to the old one.",
+      "zh": "支付与原来相近的租金。"
+    },
+    {
+      "id": 60,
+      "startMs": 307160,
+      "endMs": 309480,
+      "en": "This agreement obviously comes rather late.",
+      "zh": "这项协议显然来得相当迟。"
+    },
+    {
+      "id": 61,
+      "startMs": 309480,
+      "endMs": 317960,
+      "en": "It was reached days after the eviction, and it was reached through intervention of",
+      "zh": "协议是在驱逐发生数日后，在律师介入下达成的，"
+    },
+    {
+      "id": 62,
+      "startMs": 317960,
+      "endMs": 321560,
+      "en": "lawyers to resolve a situation in which nobody should find themselves.",
+      "zh": "旨在解决任何人都不应陷入的处境。"
+    },
+    {
+      "id": 63,
+      "startMs": 322120,
+      "endMs": 324520,
+      "en": "With our signatures, this agreement has been concluded,",
+      "zh": "有了我们的签字，这项协议就正式达成了，"
+    },
+    {
+      "id": 64,
+      "startMs": 324520,
+      "endMs": 327160,
+      "en": "and it means a better and happier result for everybody.",
+      "zh": "这意味着对所有人来说都有一个更好、更令人满意的结果。"
+    },
+    {
+      "id": 65,
+      "startMs": 328540,
+      "endMs": 332140,
+      "en": "I spoke to our correspondent Guy Hedgecoe in Madrid",
+      "zh": "我联系了驻马德里的记者盖伊·赫奇科，"
+    },
+    {
+      "id": 66,
+      "startMs": 332380,
+      "endMs": 333820,
+      "en": "and asked him to tell us more.",
+      "zh": "请他进一步介绍情况。"
+    },
+    {
+      "id": 67,
+      "startMs": 334300,
+      "endMs": 340700,
+      "en": "These measures include protecting vulnerable people from eviction through until 2030.",
+      "zh": "这些措施包括保护弱势群体，使其在2030年前免遭驱逐。"
+    },
+    {
+      "id": 68,
+      "startMs": 341020,
+      "endMs": 345340,
+      "en": "That was a measure that had been in place for several years previously,",
+      "zh": "这项措施此前已实施数年，"
+    },
+    {
+      "id": 69,
+      "startMs": 345340,
+      "endMs": 349340,
+      "en": "but it expired earlier this year and was not renewed by the parliament.",
+      "zh": "但今年早些时候到期，议会没有续期。"
+    },
+    {
+      "id": 70,
+      "startMs": 349740,
+      "endMs": 355900,
+      "en": "So it's not a totally new measure, but it's one that had certainly been demanded by activists and protesters.",
+      "zh": "所以这并不是全新的措施，而是活动人士和抗议者一直明确要求的措施。"
+    },
+    {
+      "id": 71,
+      "startMs": 356300,
+      "endMs": 359500,
+      "en": "Another measure was the automatic renewal of contracts",
+      "zh": "另一项措施是自动续签合同，"
+    },
+    {
+      "id": 72,
+      "startMs": 359500,
+      "endMs": 363180,
+      "en": "that are currently rental contracts that are currently in place.",
+      "zh": "也就是目前正在执行的租赁合同自动续期。"
+    },
+    {
+      "id": 73,
+      "startMs": 363420,
+      "endMs": 368300,
+      "en": "The idea there being to prevent abuses by landlords who might want to raise rents before they agree to the renewal",
+      "zh": "这样做是为了防止房东在同意续约前提高租金等滥用行为，"
+    },
+    {
+      "id": 74,
+      "startMs": 368300,
+      "endMs": 374220,
+      "en": "of a contract, so they're automatically renewed.",
+      "zh": "因此合同会自动续期。"
+    },
+    {
+      "id": 75,
+      "startMs": 374300,
+      "endMs": 383740,
+      "en": "Also, there's a clampdown on, or tighter restrictions and tighter regulation of tourist rental properties like Airbnb.",
+      "zh": "此外，还将收紧对Airbnb等旅游出租房的限制和监管。"
+    },
+    {
+      "id": 76,
+      "startMs": 383740,
+      "endMs": 388140,
+      "en": "That's long been a bone of contention and a target of activists here.",
+      "zh": "这一直是争议焦点，也是当地活动人士针对的对象。"
+    },
+    {
+      "id": 77,
+      "startMs": 388560,
+      "endMs": 392400,
+      "en": "And single room rentals have also been part of that regulation as well.",
+      "zh": "单间出租也属于这项监管的一部分。"
+    },
+    {
+      "id": 78,
+      "startMs": 392880,
+      "endMs": 398160,
+      "en": "Guy, any doubt about these new laws being passed and coming into force?",
+      "zh": "盖伊，你认为这些新法律能否通过并生效，有疑问吗？"
+    },
+    {
+      "id": 79,
+      "startMs": 399000,
+      "endMs": 403480,
+      "en": "Well, yes, I think there is, and that's because they need to go through Congress",
+      "zh": "是的，我认为有疑问，因为它们需要提交议会，"
+    },
+    {
+      "id": 80,
+      "startMs": 403720,
+      "endMs": 406840,
+      "en": "probably at the end of this week. That's when we're expecting a vote on them.",
+      "zh": "预计在本周末审议；我们预计届时会对这些措施投票。"
+    },
+    {
+      "id": 81,
+      "startMs": 407080,
+      "endMs": 410280,
+      "en": "This is a decree, but it does need to be approved by lawmakers.",
+      "zh": "这是一项法令，但确实需要议员批准。"
+    },
+    {
+      "id": 82,
+      "startMs": 410600,
+      "endMs": 416040,
+      "en": "Now, the people where I am, the people who are out on the street who are protesting and demanding these kinds of measures,",
+      "zh": "我所在这里走上街头、抗议并要求这类措施的人们，"
+    },
+    {
+      "id": 83,
+      "startMs": 416520,
+      "endMs": 419640,
+      "en": "I think certainly a number of these measures will be to their liking,",
+      "zh": "我认为其中相当一部分措施肯定会符合他们的心意，"
+    },
+    {
+      "id": 84,
+      "startMs": 419640,
+      "endMs": 422840,
+      "en": "we're still waiting for an official response from activists.",
+      "zh": "但我们仍在等待活动人士的正式回应。"
+    },
+    {
+      "id": 85,
+      "startMs": 423240,
+      "endMs": 429720,
+      "en": "But political parties on the right, for example, are much more reluctant than the parties on the left",
+      "zh": "不过，右派政党比左派政党更不愿意"
+    },
+    {
+      "id": 86,
+      "startMs": 429720,
+      "endMs": 435720,
+      "en": "to agree to intervening in the housing market, and that's where you might see problems for the government.",
+      "zh": "同意干预住房市场，这可能给政府带来问题。"
+    },
+    {
+      "id": 87,
+      "startMs": 435720,
+      "endMs": 438360,
+      "en": "It might find it difficult to persuade some of the parties on the right.",
+      "zh": "政府可能很难说服一些右派政党。"
+    },
+    {
+      "id": 88,
+      "startMs": 438440,
+      "endMs": 441720,
+      "en": "To agree to some of these measures, Guy, you are there.",
+      "zh": "盖伊，你正在现场；要让他们同意其中一些措施，情况如何？"
+    },
+    {
+      "id": 89,
+      "startMs": 441720,
+      "endMs": 444760,
+      "en": "I mean, how serious is the housing crisis in Spain?",
+      "zh": "我的意思是，西班牙的住房危机有多严重？"
+    },
+    {
+      "id": 90,
+      "startMs": 445480,
+      "endMs": 448600,
+      "en": "Well, it's very difficult to find affordable housing.",
+      "zh": "要找到负担得起的住房非常困难。"
+    },
+    {
+      "id": 91,
+      "startMs": 448600,
+      "endMs": 454040,
+      "en": "Certainly in the big cities and in particular in the center of big cities, but across Spain,",
+      "zh": "大城市尤其是市中心当然如此，但在整个西班牙，"
+    },
+    {
+      "id": 92,
+      "startMs": 454120,
+      "endMs": 458760,
+      "en": "really, recent data showed that on average across Spain, people",
+      "zh": "近期数据显示，西班牙民众平均"
+    },
+    {
+      "id": 93,
+      "startMs": 458780,
+      "endMs": 463340,
+      "en": "spend 50% of their salary on rental, and that rises",
+      "zh": "要把工资的50%花在房租上，这一比例还会升至"
+    },
+    {
+      "id": 94,
+      "startMs": 463420,
+      "endMs": 467260,
+      "en": "to around 70% in places like Madrid and Barcelona.",
+      "zh": "马德里和巴塞罗那等地的约70%。"
+    },
+    {
+      "id": 95,
+      "startMs": 467740,
+      "endMs": 473820,
+      "en": "So it's a real problem, particularly for younger people who find it difficult to find affordable housing,",
+      "zh": "所以这确实是个问题，尤其是对难以找到负担得起住房的年轻人来说，"
+    },
+    {
+      "id": 96,
+      "startMs": 473820,
+      "endMs": 475260,
+      "en": "and in particular in the cities.",
+      "zh": "特别是在城市里。"
+    },
+    {
+      "id": 97,
+      "startMs": 476100,
+      "endMs": 477860,
+      "en": "Guy Hedgecoe in Madrid.",
+      "zh": "驻马德里的盖伊·赫奇科报道。"
+    },
+    {
+      "id": 98,
+      "startMs": 478740,
+      "endMs": 482980,
+      "en": "One of the biggest issues in the news is artificial intelligence, and one",
+      "zh": "新闻中最大的议题之一是人工智能，而最大的问题之一是"
+    },
+    {
+      "id": 99,
+      "startMs": 482980,
+      "endMs": 487380,
+      "en": "of the biggest questions is how much of a threat AI poses to us.",
+      "zh": "人工智能对我们构成的威胁究竟有多大。"
+    },
+    {
+      "id": 100,
+      "startMs": 487940,
+      "endMs": 493700,
+      "en": "Now, a key player in the world of artificial intelligence, OpenAI, says it scrapped the planned release",
+      "zh": "人工智能领域的主要参与者OpenAI说，它取消了原定发布"
+    },
+    {
+      "id": 101,
+      "startMs": 493700,
+      "endMs": 496340,
+      "en": "of its next model due to safety concerns.",
+      "zh": "下一代模型的计划，原因是安全担忧。"
+    },
+    {
+      "id": 102,
+      "startMs": 496900,
+      "endMs": 503460,
+      "en": "It says GPT-6.1 Astra, which performs tasks like browsing the web and using apps",
+      "zh": "该公司说，GPT-6.1 Astra能够自行浏览网页和使用应用，"
+    },
+    {
+      "id": 103,
+      "startMs": 503460,
+      "endMs": 507460,
+      "en": "by itself, didn't quite meet the bar of the company's standards.",
+      "zh": "但并未完全达到公司的标准。"
+    },
+    {
+      "id": 104,
+      "startMs": 507940,
+      "endMs": 514340,
+      "en": "Our business correspondent Maura Fogarty told me more about the concerns that the company revealed about its new model.",
+      "zh": "我们的商业记者莫拉·福加蒂向我进一步介绍了公司披露的对新模型的担忧。"
+    },
+    {
+      "id": 105,
+      "startMs": 514900,
+      "endMs": 521140,
+      "en": "OpenAI said that this new model went beyond the boundaries that had been established.",
+      "zh": "OpenAI说，这个新模型超越了既定界限。"
+    },
+    {
+      "id": 106,
+      "startMs": 521140,
+      "endMs": 527140,
+      "en": "So, for example, it did things that were beyond the line and did not ask permission to do so.",
+      "zh": "例如，它做了越界的事情，而且没有请求许可。"
+    },
+    {
+      "id": 107,
+      "startMs": 527620,
+      "endMs": 535780,
+      "en": "The second thing, and this is also quite worrying, is this particular model, when they were testing it, was not being truthful in",
+      "zh": "第二点同样令人担忧：测试这个模型时，它没有如实"
+    },
+    {
+      "id": 108,
+      "startMs": 535960,
+      "endMs": 542840,
+      "en": "telling the user what it had and hadn't done, so the actions that it had or had not taken, it basically did not tell the truth.",
+      "zh": "告诉用户自己做了什么、没做什么；对于已经或尚未采取的行动，它基本上没有说实话。"
+    },
+    {
+      "id": 109,
+      "startMs": 543080,
+      "endMs": 545000,
+      "en": "I think this is pretty scary, I have to say.",
+      "zh": "我得说，我觉得这相当可怕。"
+    },
+    {
+      "id": 110,
+      "startMs": 545720,
+      "endMs": 552600,
+      "en": "So with agentic AI, and this is what it's all about, these are AI systems that can autonomously",
+      "zh": "所谓智能代理式人工智能，指的是这类能够自主"
+    },
+    {
+      "id": 111,
+      "startMs": 552600,
+      "endMs": 556840,
+      "en": "without prompting by humans, do very complex tasks.",
+      "zh": "在无人提示的情况下执行复杂任务的人工智能系统。"
+    },
+    {
+      "id": 112,
+      "startMs": 557480,
+      "endMs": 563160,
+      "en": "They also have very complex reasoning abilities as well, and that's very different from the other types of",
+      "zh": "它们还具备很强的复杂推理能力，这与其他类型的人工智能"
+    },
+    {
+      "id": 113,
+      "startMs": 563160,
+      "endMs": 569240,
+      "en": "say, artificial intelligence like the large language models, which we're much more used to dealing and interacting with",
+      "zh": "例如我们更习惯接触和互动的大语言模型不同，"
+    },
+    {
+      "id": 114,
+      "startMs": 569320,
+      "endMs": 572280,
+      "en": "when we, you know, for example, ask a question or search something.",
+      "zh": "后者通常是我们提出问题或搜索内容时使用的。"
+    },
+    {
+      "id": 115,
+      "startMs": 572600,
+      "endMs": 576680,
+      "en": "The agentic ones actually break it down into different tasks and do them autonomously.",
+      "zh": "代理式系统则会把任务拆分开来，自主完成。"
+    },
+    {
+      "id": 116,
+      "startMs": 577080,
+      "endMs": 582760,
+      "en": "OpenAI has a conference in San Francisco where they've been expected to unveil this new model.",
+      "zh": "OpenAI将在旧金山举行会议，外界原本预计他们会在那里发布这个新模型。"
+    },
+    {
+      "id": 117,
+      "startMs": 583160,
+      "endMs": 587080,
+      "en": "Very unusual to stop it so close to the event, isn't it?",
+      "zh": "就在活动临近时停止发布，非常不寻常，对吧？"
+    },
+    {
+      "id": 118,
+      "startMs": 587400,
+      "endMs": 590520,
+      "en": "Does that suggest huge concern at the company, do you think?",
+      "zh": "你认为这是否说明公司内部极为担忧？"
+    },
+    {
+      "id": 119,
+      "startMs": 591300,
+      "endMs": 596340,
+      "en": "They never definitively said they were going to launch this model at the conference, but",
+      "zh": "他们从未明确说过会在会议上发布这个模型，但是"
+    },
+    {
+      "id": 120,
+      "startMs": 596340,
+      "endMs": 600340,
+      "en": "yes, considering they're pulling the plug, not only that, they're not saying we're delaying the release;",
+      "zh": "是的，考虑到他们叫停了计划，而且他们不是说推迟发布，"
+    },
+    {
+      "id": 121,
+      "startMs": 600340,
+      "endMs": 604100,
+      "en": "they're saying we're not releasing it at all.",
+      "zh": "而是说完全不会发布。"
+    },
+    {
+      "id": 122,
+      "startMs": 604500,
+      "endMs": 608500,
+      "en": "It does suggest that the concern is perhaps a bit sharper.",
+      "zh": "这确实表明担忧可能更加严重。"
+    },
+    {
+      "id": 123,
+      "startMs": 609060,
+      "endMs": 613700,
+      "en": "And agentic AI, is that what is being developed by other companies?",
+      "zh": "其他公司开发的也是代理式人工智能吗？"
+    },
+    {
+      "id": 124,
+      "startMs": 614340,
+      "endMs": 620260,
+      "en": "That is sort of the new frontier in terms of the artificial intelligence models that are being developed.",
+      "zh": "这在某种程度上是当前开发中的人工智能模型的新前沿。"
+    },
+    {
+      "id": 125,
+      "startMs": 620580,
+      "endMs": 627940,
+      "en": "OpenAI and Anthropic in the United States are at the forefront of this, but there are companies in China",
+      "zh": "美国的OpenAI和Anthropic处于这一领域的前沿，但中国也有公司"
+    },
+    {
+      "id": 126,
+      "startMs": 627940,
+      "endMs": 632580,
+      "en": "for example, that are also developing this, and many others, you know, around the world that are trying.",
+      "zh": "在开发这类技术，世界各地还有许多其他公司也在尝试。"
+    },
+    {
+      "id": 127,
+      "startMs": 632580,
+      "endMs": 639140,
+      "en": "But these two, Anthropic and OpenAI, are leading the way because they've had the most success with them so far.",
+      "zh": "但Anthropic和OpenAI这两家公司目前领先，因为它们在这方面取得的成功最多。"
+    },
+    {
+      "id": 128,
+      "startMs": 639860,
+      "endMs": 645700,
+      "en": "We have had an increasingly loud chorus from the CEOs of both",
+      "zh": "Anthropic和OpenAI两家公司的首席执行官越来越频繁地表示，"
+    },
+    {
+      "id": 129,
+      "startMs": 645700,
+      "endMs": 650980,
+      "en": "Anthropic and OpenAI suggesting that perhaps the pace of development",
+      "zh": "或许模型开发的速度"
+    },
+    {
+      "id": 130,
+      "startMs": 651480,
+      "endMs": 659640,
+      "en": "of these artificial intelligence models should be slowed down just a little bit because they're worried about the repercussions",
+      "zh": "应该稍微放慢一些，因为他们担心其后果，"
+    },
+    {
+      "id": 131,
+      "startMs": 659640,
+      "endMs": 666840,
+      "en": "of, you know, the agentic AI being out there and not fully understanding what those consequences could be.",
+      "zh": "担心代理式人工智能投入使用后，人们还无法完全了解可能造成的后果。"
+    },
+    {
+      "id": 132,
+      "startMs": 667160,
+      "endMs": 667960,
+      "en": "Maura Fogarty.",
+      "zh": "莫拉·福加蒂报道。"
+    },
+    {
+      "id": 133,
+      "startMs": 669000,
+      "endMs": 678520,
+      "en": "For many years, there was strong public sympathy in Malaysia for the approximately 750,000 Rohingyas driven out of Myanmar by the military in 2017.",
+      "zh": "多年来，马来西亚民众一直非常同情约75万名罗兴亚人；他们在2017年被缅甸军方驱逐出境。"
+    },
+    {
+      "id": 134,
+      "startMs": 679080,
+      "endMs": 689000,
+      "en": "Many of the Muslim minority eventually made their way to Malaysia in search of sanctuary and work, and it's thought about 200,000 are there, eking out a living.",
+      "zh": "这个穆斯林少数族群中的许多人最终来到马来西亚寻求庇护和工作，据估计约有20万人在那里勉强谋生。"
+    },
+    {
+      "id": 135,
+      "startMs": 689640,
+      "endMs": 696680,
+      "en": "But now the Malaysian government has started repatriating around 5,000 asylum seekers from Myanmar, including many Rohingyas,",
+      "zh": "但现在，马来西亚政府开始遣返约5000名来自缅甸的寻求庇护者，其中包括许多罗兴亚人，"
+    },
+    {
+      "id": 136,
+      "startMs": 696920,
+      "endMs": 700280,
+      "en": "under a controversial deal agreed with Myanmar's military ruler.",
+      "zh": "这依据的是一项与缅甸军方统治者达成的有争议协议。"
+    },
+    {
+      "id": 137,
+      "startMs": 700840,
+      "endMs": 704200,
+      "en": "Our Southeast Asia correspondent, Jonathan Head, gave me the details.",
+      "zh": "我们的东南亚记者乔纳森·赫德介绍了详情。"
+    },
+    {
+      "id": 138,
+      "startMs": 704520,
+      "endMs": 711960,
+      "en": "This is the first stage. The first 1,476 people have been taken by bus already to the Malaysian port of Lumut.",
+      "zh": "这是第一阶段。首批1476人已经被大巴送往马来西亚的卢穆特港。"
+    },
+    {
+      "id": 139,
+      "startMs": 712280,
+      "endMs": 716120,
+      "en": "It's a navy port. They're being put on board three Myanmar navy ships.",
+      "zh": "那是一个海军港口。他们将登上三艘缅甸海军舰艇。"
+    },
+    {
+      "id": 140,
+      "startMs": 716520,
+      "endMs": 719240,
+      "en": "They will then have a very long journey; we think it might take them a week.",
+      "zh": "随后他们将踏上漫长旅程；我们认为这可能需要一周。"
+    },
+    {
+      "id": 141,
+      "startMs": 719240,
+      "endMs": 721480,
+      "en": "They will travel across the Andaman Sea and be taken back to Myanmar.",
+      "zh": "他们将穿越安达曼海，被送回缅甸。"
+    },
+    {
+      "id": 142,
+      "startMs": 721880,
+      "endMs": 724440,
+      "en": "What we don't know is exactly who these people are.",
+      "zh": "我们不知道的是，这些人究竟是谁。"
+    },
+    {
+      "id": 143,
+      "startMs": 724520,
+      "endMs": 726280,
+      "en": "They've been held in detention centres.",
+      "zh": "他们一直被关押在拘留中心。"
+    },
+    {
+      "id": 144,
+      "startMs": 726760,
+      "endMs": 730380,
+      "en": "There are more than 10,000 people being held in detention centres around Malaysia.",
+      "zh": "马来西亚各地拘留中心关押着一万多人。"
+    },
+    {
+      "id": 145,
+      "startMs": 730700,
+      "endMs": 735900,
+      "en": "They are Myanmar nationals. Prime Minister Anwar Ibrahim has said they include Rohingyas.",
+      "zh": "他们是缅甸国民。总理安瓦尔·易卜拉欣说，其中包括罗兴亚人。"
+    },
+    {
+      "id": 146,
+      "startMs": 736220,
+      "endMs": 739740,
+      "en": "But at this stage, the Malaysian authorities are not confirming or denying that.",
+      "zh": "但现阶段，马来西亚当局既不确认，也不否认这一点。"
+    },
+    {
+      "id": 147,
+      "startMs": 740060,
+      "endMs": 743500,
+      "en": "Rohingyas are not viewed as citizens by the Myanmar government.",
+      "zh": "缅甸政府不承认罗兴亚人是公民。"
+    },
+    {
+      "id": 148,
+      "startMs": 743900,
+      "endMs": 747260,
+      "en": "They are not allowed to live anywhere in Myanmar aside from Rakhine State.",
+      "zh": "除了若开邦，他们不被允许居住在缅甸的任何地方。"
+    },
+    {
+      "id": 149,
+      "startMs": 747260,
+      "endMs": 750540,
+      "en": "Rakhine State is currently a war zone, with intense conflict going on.",
+      "zh": "若开邦目前是战区，那里正发生激烈冲突。"
+    },
+    {
+      "id": 150,
+      "startMs": 750860,
+      "endMs": 754140,
+      "en": "No one can work out how Rohingyas could be sent back.",
+      "zh": "没有人能想明白，罗兴亚人怎么可能被送回去。"
+    },
+    {
+      "id": 151,
+      "startMs": 754540,
+      "endMs": 760700,
+      "en": "But the real issue in Malaysia relating to immigrants from Myanmar is particularly focused on the Rohingyas.",
+      "zh": "但在马来西亚，涉及缅甸移民的真正问题尤其集中在罗兴亚人身上。"
+    },
+    {
+      "id": 152,
+      "startMs": 760700,
+      "endMs": 765740,
+      "en": "There have been some very nasty social media campaigns against them. There's a lot of public hostility.",
+      "zh": "社交媒体上出现了一些针对他们的恶意宣传，公众敌意也很强。"
+    },
+    {
+      "id": 153,
+      "startMs": 766060,
+      "endMs": 772860,
+      "en": "So that's where the focus has been. We'll wait to see what the composition of these returnees is.",
+      "zh": "所以关注点就在这里。我们将等待了解这些被遣返者的构成。"
+    },
+    {
+      "id": 154,
+      "startMs": 773180,
+      "endMs": 777100,
+      "en": "Perhaps we might get more information when the rest of them get sent back in the next few weeks.",
+      "zh": "也许在未来几周其余人员被送回后，我们会得到更多信息。"
+    },
+    {
+      "id": 155,
+      "startMs": 777180,
+      "endMs": 781020,
+      "en": "But human rights groups have condemned this repatriation, haven't they?",
+      "zh": "但人权组织谴责了这次遣返，对吗？"
+    },
+    {
+      "id": 156,
+      "startMs": 781420,
+      "endMs": 788060,
+      "en": "They have, and the UN refugee agency, the UNHCR, has said it has been barred from having any involvement at all in this.",
+      "zh": "是的。联合国难民署表示，自己被完全排除在这件事之外。"
+    },
+    {
+      "id": 157,
+      "startMs": 788060,
+      "endMs": 795360,
+      "en": "Malaysia is increasingly keeping the UN refugee agency out, wanting to control the process of deciding whether somebody is or isn't a refugee itself.",
+      "zh": "马来西亚越来越把联合国难民署排除在外，想自行控制判定某人是否为难民的过程。"
+    },
+    {
+      "id": 158,
+      "startMs": 795680,
+      "endMs": 800400,
+      "en": "Because there's been no independent screening, it's impossible to say that this is voluntary.",
+      "zh": "由于没有独立筛查，不可能说这次遣返是自愿的。"
+    },
+    {
+      "id": 159,
+      "startMs": 800400,
+      "endMs": 806320,
+      "en": "Human rights groups also say anyone going back to Myanmar now is vulnerable to persecution.",
+      "zh": "人权组织还表示，现在回到缅甸的人都可能遭受迫害。"
+    },
+    {
+      "id": 160,
+      "startMs": 806640,
+      "endMs": 813680,
+      "en": "They could get caught up in the violence of the civil war or be dragged into forced conscription, which the Myanmar military imposes if they're men.",
+      "zh": "他们可能卷入内战暴力，或者被强行征召入伍；缅甸军方会对男性实施这种征召。"
+    },
+    {
+      "id": 161,
+      "startMs": 814080,
+      "endMs": 819520,
+      "en": "But obviously, if Rohingyas were included in that, they cannot even go back to most of Myanmar.",
+      "zh": "但显然，如果其中包括罗兴亚人，他们甚至无法回到缅甸大部分地区。"
+    },
+    {
+      "id": 162,
+      "startMs": 819840,
+      "endMs": 825920,
+      "en": "If they went to the small part of Rakhine State under government control, they'd be confined to miserable camps.",
+      "zh": "如果他们前往由政府控制的若开邦小部分地区，也会被困在悲惨的营地里。"
+    },
+    {
+      "id": 163,
+      "startMs": 826080,
+      "endMs": 828000,
+      "en": "That would make their plight even greater.",
+      "zh": "那会让他们的处境更加悲惨。"
+    },
+    {
+      "id": 164,
+      "startMs": 828400,
+      "endMs": 832560,
+      "en": "But the Malaysian government has said, we've got too many, they have to go. It's not been listening.",
+      "zh": "但马来西亚政府说：我们这里人太多了，他们必须离开。政府没有听取反对意见。"
+    },
+    {
+      "id": 165,
+      "startMs": 832800,
+      "endMs": 841840,
+      "en": "Is it surprising it's happening under Prime Minister Anwar Ibrahim himself, a political prisoner and a defender of human rights in the past?",
+      "zh": "这件事发生在安瓦尔·易卜拉欣任内，是否令人意外？他过去曾是政治犯，也曾捍卫人权。"
+    },
+    {
+      "id": 166,
+      "startMs": 842240,
+      "endMs": 848640,
+      "en": "Some of his former supporters have called him out on this and said, you're betraying the very principles you've stood by.",
+      "zh": "他的一些前支持者对此公开批评他，说：你背叛了自己一直坚持的原则。"
+    },
+    {
+      "id": 167,
+      "startMs": 848900,
+      "endMs": 854420,
+      "en": "But he's not alone. In the past, all Malaysian leaders tended to say we need to support the Rohingyas.",
+      "zh": "但他并非孤例。过去，马来西亚历届领导人都倾向于说，我们需要支持罗兴亚人。"
+    },
+    {
+      "id": 168,
+      "startMs": 854820,
+      "endMs": 858980,
+      "en": "There was an unofficial policy of tolerance when there was a lot of public sympathy for them.",
+      "zh": "当公众非常同情他们时，马来西亚存在一项非正式的宽容政策。"
+    },
+    {
+      "id": 169,
+      "startMs": 859300,
+      "endMs": 864500,
+      "en": "The public mood has shifted sharply. There's been a real increase in hostility towards Rohingyas.",
+      "zh": "公众情绪发生了急剧转变，对罗兴亚人的敌意明显增加。"
+    },
+    {
+      "id": 170,
+      "startMs": 864500,
+      "endMs": 871620,
+      "en": "There are thought to be about 200,000 of them in Malaysia, and Prime Minister Anwar himself is politically embattled.",
+      "zh": "据认为，马来西亚约有20万名罗兴亚人；安瓦尔总理本人也陷入政治困境。"
+    },
+    {
+      "id": 171,
+      "startMs": 871620,
+      "endMs": 876020,
+      "en": "He leads a fragile coalition. He's been in power for nearly four years. His popularity has plunged.",
+      "zh": "他领导着一个脆弱的执政联盟，执政近四年，支持率已经暴跌。"
+    },
+    {
+      "id": 172,
+      "startMs": 876420,
+      "endMs": 882980,
+      "en": "I think the reason they're not saying whether Rohingyas are or are not on board this first consignment is precisely because",
+      "zh": "我认为，他们不说这批首批遣返者中是否有罗兴亚人，正是因为"
+    },
+    {
+      "id": 173,
+      "startMs": 883140,
+      "endMs": 888500,
+      "en": "he wants people to believe they are on board and that he's addressing these public concerns about immigration.",
+      "zh": "他希望人们相信其中有罗兴亚人，并相信他正在回应公众对移民问题的担忧。"
+    },
+    {
+      "id": 174,
+      "startMs": 888820,
+      "endMs": 891380,
+      "en": "Jonathan Head in the Thai capital, Bangkok.",
+      "zh": "乔纳森·赫德在泰国首都曼谷报道。"
+    },
+    {
+      "id": 175,
+      "startMs": 894440,
+      "endMs": 901240,
+      "en": "Still to come in this podcast, the US journalist Evan Gershkovich on life after being released from a Russian prison.",
+      "zh": "本期播客接下来将播出美国记者埃文·格尔什科维奇谈获释后生活的内容；他曾被关押在俄罗斯监狱。"
+    },
+    {
+      "id": 176,
+      "startMs": 901480,
+      "endMs": 907080,
+      "en": "You're overwhelmed by the sights and sounds. I would freeze and have panic attacks from crowds of people. In prison,",
+      "zh": "你会被眼前的景象和周围的声音压垮。面对人群，我会僵住并出现惊恐发作。在监狱里，"
+    },
+    {
+      "id": 177,
+      "startMs": 907080,
+      "endMs": 911800,
+      "en": "I'd made this decision to go through it stoically. I thought that if I ever let myself break down into tears in prison,",
+      "zh": "我决定坚忍地熬过去。我想，如果我在监狱里任由自己崩溃哭泣，"
+    },
+    {
+      "id": 178,
+      "startMs": 911800,
+      "endMs": 913560,
+      "en": "everything would collapse.",
+      "zh": "一切都会垮掉。"
+    },
+    {
+      "id": 179,
+      "startMs": 913560,
+      "endMs": 915560,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 180,
+      "startMs": 916120,
+      "endMs": 926440,
+      "en": "The deadly Ebola outbreak in the Democratic Republic of Congo is spreading, with confirmed cases surpassing 8,000 and nearly 4,000 deaths.",
+      "zh": "刚果民主共和国致命的埃博拉疫情仍在蔓延，确诊病例已超过8000例，死亡人数近4000人。"
+    },
+    {
+      "id": 181,
+      "startMs": 926920,
+      "endMs": 933560,
+      "en": "Two more areas have been affected, one near the Central African Republic and another on the border with South Sudan.",
+      "zh": "另有两个地区受到影响：一个靠近中非共和国，另一个位于南苏丹边境。"
+    },
+    {
+      "id": 182,
+      "startMs": 934120,
+      "endMs": 939720,
+      "en": "But it's emerged that the number of people exposed to Ebola could be much greater than official figures suggest.",
+      "zh": "但现在看来，接触过埃博拉病毒的人数可能远高于官方数字。"
+    },
+    {
+      "id": 183,
+      "startMs": 940280,
+      "endMs": 947080,
+      "en": "The Africa Centers for Disease Control says only around 30,000 potential contacts have been identified.",
+      "zh": "非洲疾病控制中心说，目前只确认了大约3万名潜在接触者。"
+    },
+    {
+      "id": 184,
+      "startMs": 947720,
+      "endMs": 954600,
+      "en": "The CDC director general, Dr Jean Kaseya, told Katherine Byaruhanga that this could be a fraction of the true figure.",
+      "zh": "非洲疾控中心总干事让·卡塞亚医生告诉凯瑟琳·拜鲁汉加，这可能只是实际数字的一小部分。"
+    },
+    {
+      "id": 185,
+      "startMs": 954840,
+      "endMs": 960600,
+      "en": "We look at the number of confirmed cases, community deaths and transmission patterns.",
+      "zh": "我们会考察确诊病例数、社区死亡人数和传播模式。"
+    },
+    {
+      "id": 186,
+      "startMs": 960920,
+      "endMs": 968920,
+      "en": "We estimate that the real number of people who should have been identified and followed is really underestimated.",
+      "zh": "我们估计，本应被识别并追踪的人数实际上被严重低估了。"
+    },
+    {
+      "id": 187,
+      "startMs": 969000,
+      "endMs": 972680,
+      "en": "It could be several hundred thousand people.",
+      "zh": "这个数字可能达到几十万人。"
+    },
+    {
+      "id": 188,
+      "startMs": 973180,
+      "endMs": 977740,
+      "en": "We think that there are some reasons for this gap.",
+      "zh": "我们认为，造成这一差距有几个原因。"
+    },
+    {
+      "id": 189,
+      "startMs": 978540,
+      "endMs": 982540,
+      "en": "The first one is that too many cases are detected late.",
+      "zh": "第一，太多病例发现得太晚。"
+    },
+    {
+      "id": 190,
+      "startMs": 983260,
+      "endMs": 989580,
+      "en": "The second is that many deaths still occur in communities rather than in treatment facilities.",
+      "zh": "第二，许多死亡仍发生在社区，而不是治疗机构内。"
+    },
+    {
+      "id": 191,
+      "startMs": 990220,
+      "endMs": 1000220,
+      "en": "And the third one is that the outbreak is in an area where insecurity, displacement and population movement is so high.",
+      "zh": "第三，疫情发生在一个不安全、人口流离失所且流动性很高的地区。"
+    },
+    {
+      "id": 192,
+      "startMs": 1000780,
+      "endMs": 1005500,
+      "en": "I can also add that community engagement is not really strong enough.",
+      "zh": "我还要补充一点：社区参与度还不够高。"
+    },
+    {
+      "id": 193,
+      "startMs": 1006660,
+      "endMs": 1020740,
+      "en": "Without communities driving and leading the response, there will be a lot of suspicion and we will not contain this outbreak.",
+      "zh": "如果没有社区推动并主导应对，就会有大量猜疑，我们也无法控制这场疫情。"
+    },
+    {
+      "id": 194,
+      "startMs": 1021220,
+      "endMs": 1028580,
+      "en": "The outbreak has spread to towns close to the borders with South Sudan and the Central African Republic.",
+      "zh": "疫情已蔓延到靠近南苏丹和中非共和国边境的城镇。"
+    },
+    {
+      "id": 195,
+      "startMs": 1029140,
+      "endMs": 1035140,
+      "en": "Countries that have faced years of conflict also have weak health-care systems.",
+      "zh": "这些历经多年冲突的国家，医疗系统也很薄弱。"
+    },
+    {
+      "id": 196,
+      "startMs": 1035540,
+      "endMs": 1043380,
+      "en": "How confident are you that the virus won't spread into those countries and that they are prepared to deal with any potential outbreak?",
+      "zh": "你有多大把握相信病毒不会传入这些国家，而且它们已准备好应对任何潜在疫情？"
+    },
+    {
+      "id": 197,
+      "startMs": 1043780,
+      "endMs": 1048740,
+      "en": "I had the opportunity to visit South Sudan and the Central African Republic.",
+      "zh": "我曾有机会访问南苏丹和中非共和国。"
+    },
+    {
+      "id": 198,
+      "startMs": 1049220,
+      "endMs": 1054180,
+      "en": "We are providing huge support for preparedness in these two countries.",
+      "zh": "我们正在为这两个国家的防疫准备提供大力支持。"
+    },
+    {
+      "id": 199,
+      "startMs": 1054420,
+      "endMs": 1057460,
+      "en": "In terms of preparedness, we are doing our best,",
+      "zh": "在防疫准备方面，我们正在尽最大努力，"
+    },
+    {
+      "id": 200,
+      "startMs": 1057780,
+      "endMs": 1065060,
+      "en": "but the health systems in these two countries remain a major issue,",
+      "zh": "但这两个国家的医疗系统仍是一个重大问题，"
+    },
+    {
+      "id": 201,
+      "startMs": 1065300,
+      "endMs": 1073160,
+      "en": "and I cannot assure you that the outbreak will not cross the border, will not be in CAR or in South Sudan.",
+      "zh": "我无法向你保证疫情不会越过边境，不会进入中非共和国或南苏丹。"
+    },
+    {
+      "id": 202,
+      "startMs": 1073160,
+      "endMs": 1081240,
+      "en": "I cannot say that, but we are doing our best to support the DRC government in controlling the outbreak in the DRC.",
+      "zh": "这一点我无法断言，但我们会尽最大努力支持刚果（金）政府控制刚果（金）的疫情。"
+    },
+    {
+      "id": 203,
+      "startMs": 1081800,
+      "endMs": 1089080,
+      "en": "And if unfortunately we could have cases in these two countries, we'll provide appropriate support to contain that.",
+      "zh": "如果不幸这两个国家出现病例，我们会提供适当支持加以控制。"
+    },
+    {
+      "id": 204,
+      "startMs": 1089640,
+      "endMs": 1090760,
+      "en": "Dr Jean Kaseya.",
+      "zh": "让·卡塞亚医生。"
+    },
+    {
+      "id": 205,
+      "startMs": 1091480,
+      "endMs": 1098600,
+      "en": "Next, a story from the United States began tragically with the murder of 19-year-old Colleen Slemmer in 1995.",
+      "zh": "接下来是一则来自美国的报道：19岁的科琳·斯莱默于1995年被谋杀，悲剧由此开始。"
+    },
+    {
+      "id": 206,
+      "startMs": 1098600,
+      "endMs": 1104680,
+      "en": "And it may end on Wednesday with the execution by lethal injection of her killer, Christa Pike.",
+      "zh": "而周三，她的凶手克丽丝塔·派克可能会被注射死刑，故事或将结束。"
+    },
+    {
+      "id": 207,
+      "startMs": 1105080,
+      "endMs": 1109080,
+      "en": "She was just 18 at the time and has been on death row for 30 years.",
+      "zh": "她当时只有18岁，已经在死囚牢房里度过了30年。"
+    },
+    {
+      "id": 208,
+      "startMs": 1109720,
+      "endMs": 1115240,
+      "en": "On Monday, the governor of Tennessee said he would not intervene in the case and, barring a last-minute reprieve,",
+      "zh": "周一，田纳西州州长表示不会干预此案；除非最后一刻获得缓刑，"
+    },
+    {
+      "id": 209,
+      "startMs": 1115480,
+      "endMs": 1121800,
+      "en": "Christa Pike, who's now 50 years old, will be the first woman to be executed in the state in more than 200 years.",
+      "zh": "现年50岁的克丽丝塔·派克将成为该州200多年来首位被执行死刑的女性。"
+    },
+    {
+      "id": 210,
+      "startMs": 1121880,
+      "endMs": 1126360,
+      "en": "The BBC's Stephanie Hegarty has been looking into the story for us.",
+      "zh": "BBC记者斯蒂芬妮·赫加蒂为我们调查了这起事件。"
+    },
+    {
+      "id": 211,
+      "startMs": 1126680,
+      "endMs": 1132280,
+      "en": "Colleen Slemmer and Christa Pike met at a training camp for troubled teens in 1995.",
+      "zh": "科琳·斯莱默和克丽丝塔·派克于1995年在一个问题青少年训练营相遇。"
+    },
+    {
+      "id": 212,
+      "startMs": 1132280,
+      "endMs": 1136600,
+      "en": "Colleen was 19, Christa was 18, and they came to blows.",
+      "zh": "科琳19岁，克丽丝塔18岁，两人发生了冲突。"
+    },
+    {
+      "id": 213,
+      "startMs": 1137000,
+      "endMs": 1141720,
+      "en": "Christa, at the time, accused Colleen of trying to steal her boyfriend, Tadaryl Shipp.",
+      "zh": "当时，克丽丝塔指责科琳企图抢走她的男友塔达里尔·希普。"
+    },
+    {
+      "id": 214,
+      "startMs": 1142280,
+      "endMs": 1149400,
+      "en": "And Tadaryl and Christa lured Colleen into a wood where they brutally murdered and tortured her.",
+      "zh": "塔达里尔和克丽丝塔把科琳引到树林里，残忍地杀害并折磨了她。"
+    },
+    {
+      "id": 215,
+      "startMs": 1149800,
+      "endMs": 1159080,
+      "en": "There was a huge media frenzy around this story at the time because Tadaryl Shipp later said that he carved a pentagram into Colleen Slemmer's chest.",
+      "zh": "当时这起事件引发媒体狂热，因为塔达里尔·希普后来称，他在科琳·斯莱默的胸口刻下了五芒星。"
+    },
+    {
+      "id": 216,
+      "startMs": 1159080,
+      "endMs": 1164440,
+      "en": "And this was the time of the satanic panic in the US, when there was a lot of fear around teenagers engaging in Satanism.",
+      "zh": "当时美国正处于“撒旦恐慌”时期，社会十分担心青少年参与撒旦教活动。"
+    },
+    {
+      "id": 217,
+      "startMs": 1164760,
+      "endMs": 1167560,
+      "en": "So it was a very big trial in Tennessee at the time.",
+      "zh": "所以，当时这在田纳西州是一场轰动的审判。"
+    },
+    {
+      "id": 218,
+      "startMs": 1167800,
+      "endMs": 1172440,
+      "en": "Tadaryl Shipp was 17, so although he took part in the murder and torture as well,",
+      "zh": "塔达里尔·希普当时17岁，虽然他也参与了谋杀和折磨，"
+    },
+    {
+      "id": 219,
+      "startMs": 1172680,
+      "endMs": 1176920,
+      "en": "he was never eligible for the death penalty, and he got life with the chance of parole.",
+      "zh": "他从未符合死刑资格，而是被判终身监禁，并有假释机会。"
+    },
+    {
+      "id": 220,
+      "startMs": 1177240,
+      "endMs": 1179400,
+      "en": "He sought parole last year, but it was denied.",
+      "zh": "他去年申请假释，但遭到拒绝。"
+    },
+    {
+      "id": 221,
+      "startMs": 1179720,
+      "endMs": 1181720,
+      "en": "Whereas Christa Pike, on the other hand, was 18.",
+      "zh": "而克丽丝塔·派克当时18岁。"
+    },
+    {
+      "id": 222,
+      "startMs": 1182060,
+      "endMs": 1187660,
+      "en": "So she was eligible for the death penalty, and she was convicted and sentenced to death in 1996.",
+      "zh": "因此她符合死刑资格，并于1996年被定罪、判处死刑。"
+    },
+    {
+      "id": 223,
+      "startMs": 1187660,
+      "endMs": 1190460,
+      "en": "There have been years of failed appeals, haven't there?",
+      "zh": "这些年来她的上诉都失败了，对吗？"
+    },
+    {
+      "id": 224,
+      "startMs": 1190540,
+      "endMs": 1195820,
+      "en": "And her defence team have always said that she was a victim. Tell us about her case.",
+      "zh": "她的辩护团队一直说她也是受害者。请介绍一下她的案件。"
+    },
+    {
+      "id": 225,
+      "startMs": 1195980,
+      "endMs": 1199740,
+      "en": "So this didn't come up so much in the trial itself, but in the years since,",
+      "zh": "这在审判本身并未受到太多关注，但在此后的多年里，"
+    },
+    {
+      "id": 226,
+      "startMs": 1199820,
+      "endMs": 1206860,
+      "en": "several defence teams who've been representing Christa have uncovered a lot of evidence of really severe and traumatic childhood abuse.",
+      "zh": "代表克丽丝塔的几组辩护团队发现了大量证据，显示她童年遭受过极其严重且创伤性的虐待。"
+    },
+    {
+      "id": 227,
+      "startMs": 1207180,
+      "endMs": 1214620,
+      "en": "Now this was available to her defence team at the time, but it wasn't presented, at least not in great detail, in the sentencing part of her trial.",
+      "zh": "这些资料当时已经交给她的辩护团队，但至少在审判量刑阶段并未详细呈现。"
+    },
+    {
+      "id": 228,
+      "startMs": 1214620,
+      "endMs": 1222060,
+      "en": "So it's emerged that she was sexually abused right back to when she was a toddler by one of her grandmother's boyfriends,",
+      "zh": "后来发现，她从幼儿时期起就遭到祖母的一名男友性侵，"
+    },
+    {
+      "id": 229,
+      "startMs": 1222380,
+      "endMs": 1226460,
+      "en": "that she suffered severe neglect at the hands of her father and her mother.",
+      "zh": "还遭受父母严重的疏于照料。"
+    },
+    {
+      "id": 230,
+      "startMs": 1226780,
+      "endMs": 1233020,
+      "en": "Her mother had many different husbands and boyfriends, some of whom abused Christa sexually and physically.",
+      "zh": "她的母亲有过许多丈夫和男友，其中一些人对克丽丝塔实施了性虐待和身体虐待。"
+    },
+    {
+      "id": 231,
+      "startMs": 1233260,
+      "endMs": 1236860,
+      "en": "She was raped at eleven, at 14 and again at 17.",
+      "zh": "她11岁、14岁和17岁时都曾遭到强奸。"
+    },
+    {
+      "id": 232,
+      "startMs": 1237020,
+      "endMs": 1242320,
+      "en": "So this was a young person who was experiencing extreme trauma at the time of the crime.",
+      "zh": "也就是说，案发时她还是一个正在经历极度创伤的年轻人。"
+    },
+    {
+      "id": 233,
+      "startMs": 1242720,
+      "endMs": 1246480,
+      "en": "The last rape that she experienced was almost to the day a year before the crime,",
+      "zh": "她最后一次遭到强奸，距离这起罪案几乎正好一年，"
+    },
+    {
+      "id": 234,
+      "startMs": 1246480,
+      "endMs": 1252240,
+      "en": "and Christa Pike's current defence team have said that all of this contributed to her mindset at the time.",
+      "zh": "克丽丝塔·派克目前的辩护团队表示，所有这些经历都影响了她当时的心态。"
+    },
+    {
+      "id": 235,
+      "startMs": 1252240,
+      "endMs": 1255440,
+      "en": "She's also, since the trial, been diagnosed with bipolar disorder.",
+      "zh": "此外，她在审判后被诊断患有双相情感障碍。"
+    },
+    {
+      "id": 236,
+      "startMs": 1255680,
+      "endMs": 1262000,
+      "en": "She's been treated for that in prison, and her defence team say since she's had the appropriate treatment, she's a much different person.",
+      "zh": "她在狱中接受了治疗；辩护团队称，得到适当治疗后，她已经判若两人。"
+    },
+    {
+      "id": 237,
+      "startMs": 1262320,
+      "endMs": 1267120,
+      "en": "But we should say the family of the woman who was killed, Colleen Slemmer, they want the execution to go ahead.",
+      "zh": "但也要说明，被杀害的科琳·斯莱默的家人希望执行死刑。"
+    },
+    {
+      "id": 238,
+      "startMs": 1267520,
+      "endMs": 1273760,
+      "en": "Yes, Colleen's mother, May Martinez, has been saying that she won't find peace until Christa Pike is executed.",
+      "zh": "是的，科琳的母亲梅·马丁内斯一直说，只有克丽丝塔·派克被处决，她才能得到安宁。"
+    },
+    {
+      "id": 239,
+      "startMs": 1273760,
+      "endMs": 1280800,
+      "en": "She's certainly encouraging it to go ahead, and she said she will travel from Florida, where she lives, to Tennessee to witness Christa Pike's death.",
+      "zh": "她当然在推动行刑，并表示会从居住地佛罗里达前往田纳西，见证克丽丝塔·派克的死亡。"
+    },
+    {
+      "id": 240,
+      "startMs": 1281200,
+      "endMs": 1288160,
+      "en": "Stephanie Hegarty. For 16 months, Wall Street Journal reporter Evan Gershkovich was held in a Russian prison,",
+      "zh": "斯蒂芬妮·赫加蒂报道。16个月来，《华尔街日报》记者埃文·格尔什科维奇一直被关押在俄罗斯监狱，"
+    },
+    {
+      "id": 241,
+      "startMs": 1288480,
+      "endMs": 1292960,
+      "en": "the first U.S. journalist to be charged with espionage in Russia since the Cold War.",
+      "zh": "他是冷战以来首位在俄罗斯被控从事间谍活动的美国记者。"
+    },
+    {
+      "id": 242,
+      "startMs": 1293520,
+      "endMs": 1300800,
+      "en": "He was arrested in March 2023, a year after Russia invaded Ukraine, and was eventually released in a prisoner swap.",
+      "zh": "他于2023年3月被捕，当时俄罗斯入侵乌克兰已有一年，最终通过囚犯交换获释。"
+    },
+    {
+      "id": 243,
+      "startMs": 1301440,
+      "endMs": 1308560,
+      "en": "It was the images of a young man in a glass-walled dock and his newspaper's attempts to free him that made news around the world.",
+      "zh": "这名年轻男子站在玻璃围栏被告席中的画面，以及报社试图营救他的行动，成为全球新闻。"
+    },
+    {
+      "id": 244,
+      "startMs": 1308960,
+      "endMs": 1311680,
+      "en": "And now he's turned that experience into a book.",
+      "zh": "现在，他把这段经历写成了一本书。"
+    },
+    {
+      "id": 245,
+      "startMs": 1312000,
+      "endMs": 1320240,
+      "en": "That first appearance in court was about three and a half weeks after my first arrest, and nobody had gotten any images of me by that point.",
+      "zh": "我第一次出庭是在首次被捕约三周半后；那时还没有人拍到我的任何画面。"
+    },
+    {
+      "id": 246,
+      "startMs": 1320800,
+      "endMs": 1326480,
+      "en": "And I, within about a week, week and a half, started settling into this idea that okay, it's going to be for a swap.",
+      "zh": "大约一周、一周半后，我开始接受这样一个想法：好吧，我会被用来交换。"
+    },
+    {
+      "id": 247,
+      "startMs": 1326880,
+      "endMs": 1332320,
+      "en": "Being held in the conditions of Lefortovo Prison in Moscow, which is this really isolating experience.",
+      "zh": "被关在莫斯科列福尔托沃监狱，那是一段极其与世隔绝的经历。"
+    },
+    {
+      "id": 248,
+      "startMs": 1332320,
+      "endMs": 1336480,
+      "en": "You only have one cellmate; you're moved around without seeing any other prisoners.",
+      "zh": "你只有一名狱友；被带来带去，却见不到其他囚犯。"
+    },
+    {
+      "id": 249,
+      "startMs": 1336960,
+      "endMs": 1341360,
+      "en": "That really wears on you psychologically, but I was allowed to sleep, the food was fine,",
+      "zh": "这在心理上确实令人疲惫，但我可以睡觉，食物也还不错，"
+    },
+    {
+      "id": 250,
+      "startMs": 1341760,
+      "endMs": 1343620,
+      "en": "I'm being treated okay, so I sort of settle in,",
+      "zh": "我受到的待遇还可以，所以也算适应了下来，"
+    },
+    {
+      "id": 251,
+      "startMs": 1343620,
+      "endMs": 1346180,
+      "en": "but prison's a black box for everybody else around.",
+      "zh": "但对周围其他人来说，监狱就是一个黑箱。"
+    },
+    {
+      "id": 252,
+      "startMs": 1346660,
+      "endMs": 1351700,
+      "en": "Your loved ones are worried about you, your colleagues, and so I thought of that appearance",
+      "zh": "你的亲人和同事都会为你担心，所以我把那次出庭看作"
+    },
+    {
+      "id": 253,
+      "startMs": 1351700,
+      "endMs": 1356420,
+      "en": "as a way to show people I was doing okay and give them a sense of belief, you know, and calm around it.",
+      "zh": "向大家表明我还好，让他们感到安心，并对这件事保持平静。"
+    },
+    {
+      "id": 254,
+      "startMs": 1357060,
+      "endMs": 1361780,
+      "en": "And I also wanted to smile as much as I could,",
+      "zh": "我也想尽可能地微笑，"
+    },
+    {
+      "id": 255,
+      "startMs": 1361780,
+      "endMs": 1367540,
+      "en": "but really, you know, more than a smile, I guess a smirk, because I wanted to show people this kind of defiance.",
+      "zh": "但其实，与其说是微笑，我想更像是冷笑，因为我想向大家表现出这种反抗。"
+    },
+    {
+      "id": 256,
+      "startMs": 1367540,
+      "endMs": 1369780,
+      "en": "All of us understood, all of us are in on the joke in a way.",
+      "zh": "我们都明白，我们都以某种方式参与了这场玩笑。"
+    },
+    {
+      "id": 257,
+      "startMs": 1369780,
+      "endMs": 1373460,
+      "en": "We know that this is a fabricated case, and so if this is a game of theater,",
+      "zh": "我们知道这是一起捏造的案件，所以如果这是一场戏，"
+    },
+    {
+      "id": 258,
+      "startMs": 1373620,
+      "endMs": 1376980,
+      "en": "let's not let them have it play out the way they want it to.",
+      "zh": "就别让他们按自己想要的方式把戏演下去。"
+    },
+    {
+      "id": 259,
+      "startMs": 1377380,
+      "endMs": 1382820,
+      "en": "And then you had this period of time, this three weeks, where you knew that the swap was going to happen.",
+      "zh": "接下来是三周的等待期，你知道交换即将发生。"
+    },
+    {
+      "id": 260,
+      "startMs": 1382900,
+      "endMs": 1384740,
+      "en": "When it comes, what is that moment like?",
+      "zh": "那一刻到来时，感觉是什么样的？"
+    },
+    {
+      "id": 261,
+      "startMs": 1384740,
+      "endMs": 1389300,
+      "en": "It's a bit of an overwhelming feeling because you're so used to being an institutionalized person",
+      "zh": "那种感觉有些令人不知所措，因为你已经习惯了被关在机构里的生活，"
+    },
+    {
+      "id": 262,
+      "startMs": 1389460,
+      "endMs": 1392580,
+      "en": "that you're sort of scared of getting out into the real world.",
+      "zh": "反而有点害怕回到真实世界。"
+    },
+    {
+      "id": 263,
+      "startMs": 1392580,
+      "endMs": 1398580,
+      "en": "And then those three weeks until the swap happens is excruciating because now every day is painfully long.",
+      "zh": "而在交换发生前的三周里，等待令人煎熬，因为现在每一天都格外漫长。"
+    },
+    {
+      "id": 264,
+      "startMs": 1399060,
+      "endMs": 1401620,
+      "en": "You're just hoping that the swap is going to happen tomorrow.",
+      "zh": "你只是盼着交换能在明天发生。"
+    },
+    {
+      "id": 265,
+      "startMs": 1401860,
+      "endMs": 1403800,
+      "en": "And then when it takes place, it's just pure joy.",
+      "zh": "而当交换真的发生时，只有纯粹的喜悦。"
+    },
+    {
+      "id": 266,
+      "startMs": 1403960,
+      "endMs": 1406200,
+      "en": "I don't think I've ever experienced joy like that before.",
+      "zh": "我想此前从未体验过那样的喜悦。"
+    },
+    {
+      "id": 267,
+      "startMs": 1406600,
+      "endMs": 1414360,
+      "en": "And what about the days and weeks afterwards, where suddenly you are back in your normal life in many ways, but everything's changed?",
+      "zh": "那之后的几天和几周呢？你在许多方面突然回到正常生活，但一切都变了？"
+    },
+    {
+      "id": 268,
+      "startMs": 1414600,
+      "endMs": 1420600,
+      "en": "Yeah, and then, you know, the joy fades, the adrenaline subsides, and you are faced with the reality of having returned to normal life again.",
+      "zh": "是的，喜悦会消退，肾上腺素会平息，你不得不面对再次回归正常生活的现实。"
+    },
+    {
+      "id": 269,
+      "startMs": 1420600,
+      "endMs": 1426120,
+      "en": "You know, you are overwhelmed by the sights and sounds. I would freeze and have panic attacks from crowds of people.",
+      "zh": "你会被周围的所见所闻压倒；面对人群，我会僵住并惊恐发作。"
+    },
+    {
+      "id": 270,
+      "startMs": 1426520,
+      "endMs": 1429960,
+      "en": "In prison, I'd made this decision to sort of go through it stoically.",
+      "zh": "在监狱里，我决定以近乎冷静克制的方式熬过去。"
+    },
+    {
+      "id": 271,
+      "startMs": 1429960,
+      "endMs": 1433160,
+      "en": "I thought that if I ever let myself break down into tears in prison, you know,",
+      "zh": "我想，如果我在监狱里让自己崩溃哭出来，"
+    },
+    {
+      "id": 272,
+      "startMs": 1434280,
+      "endMs": 1436840,
+      "en": "everything would collapse and I wouldn't be able to deal with it anymore.",
+      "zh": "一切都会垮掉，我再也无法应对。"
+    },
+    {
+      "id": 273,
+      "startMs": 1436840,
+      "endMs": 1440360,
+      "en": "And so that all started flowing out once I was outside.",
+      "zh": "所以出狱后，这些情绪全都开始宣泄出来。"
+    },
+    {
+      "id": 274,
+      "startMs": 1440360,
+      "endMs": 1446760,
+      "en": "So I had to get therapists. I worked with psychiatrists who dealt with PTSD and we worked on that for six months.",
+      "zh": "所以我不得不找治疗师。我和专门治疗创伤后应激障碍的精神科医生合作了六个月。"
+    },
+    {
+      "id": 275,
+      "startMs": 1446760,
+      "endMs": 1450840,
+      "en": "And, you know, doing this book, this book is a kind of product that I think is therapy in a way.",
+      "zh": "写这本书的过程，这本书本身在某种程度上也是一种疗愈。"
+    },
+    {
+      "id": 276,
+      "startMs": 1450840,
+      "endMs": 1455320,
+      "en": "You know, it's both personal and what I want for public consumption at the same time.",
+      "zh": "它既是私人的，也包含我希望公开分享的内容。"
+    },
+    {
+      "id": 277,
+      "startMs": 1455320,
+      "endMs": 1459000,
+      "en": "For the public, it memorializes not just my story, but this period in Russian history.",
+      "zh": "对公众而言，这不仅记录了我的故事，也记录了俄罗斯历史上的这段时期。"
+    },
+    {
+      "id": 278,
+      "startMs": 1459240,
+      "endMs": 1465260,
+      "en": "On a personal level, you're sort of looking at this traumatic event and having to process it, having to speak about it.",
+      "zh": "就个人而言，你要面对这场创伤性事件，消化它，并不得不谈论它。"
+    },
+    {
+      "id": 279,
+      "startMs": 1465340,
+      "endMs": 1469820,
+      "en": "So now, looking at it from a couple of years later, it feels like any old experience in a way.",
+      "zh": "所以，几年后回头看，这在某种程度上感觉就像一段普通经历。"
+    },
+    {
+      "id": 280,
+      "startMs": 1469980,
+      "endMs": 1473100,
+      "en": "It informs your daily life, but it's not something you think about consciously.",
+      "zh": "它影响着你的日常生活，但不是你会有意识去想的事情。"
+    },
+    {
+      "id": 281,
+      "startMs": 1473580,
+      "endMs": 1479340,
+      "en": "Evan Gershkovich talking to Anna Foster, and his book is called This Cursed Beautiful Land, a Russian Story.",
+      "zh": "以上是埃文·格尔什科维奇接受安娜·福斯特采访；他的书名是《这片受诅咒的美丽土地：一个俄罗斯故事》。"
+    },
+    {
+      "id": 282,
+      "startMs": 1480140,
+      "endMs": 1483180,
+      "en": "Back in 2010, the film The Social Network was released.",
+      "zh": "2010年，电影《社交网络》上映。"
+    },
+    {
+      "id": 283,
+      "startMs": 1483420,
+      "endMs": 1487020,
+      "en": "It explored the rise of Facebook and its founder, Mark Zuckerberg.",
+      "zh": "影片讲述了脸书及其创始人马克·扎克伯格的崛起。"
+    },
+    {
+      "id": 284,
+      "startMs": 1487500,
+      "endMs": 1489660,
+      "en": "Sixteen years later, there's much more to say.",
+      "zh": "16年后，关于这个故事还有更多可说的。"
+    },
+    {
+      "id": 285,
+      "startMs": 1489820,
+      "endMs": 1494620,
+      "en": "So the Oscar, Emmy and Golden Globe-winning writer and director Aaron Sorkin",
+      "zh": "于是，曾获奥斯卡、艾美奖和金球奖的编剧兼导演艾伦·索金"
+    },
+    {
+      "id": 286,
+      "startMs": 1494780,
+      "endMs": 1498780,
+      "en": "has picked up the story once again in a new film, The Social Reckoning.",
+      "zh": "在新片《社交清算》中再次讲述这个故事。"
+    },
+    {
+      "id": 287,
+      "startMs": 1499340,
+      "endMs": 1504620,
+      "en": "Its focus this time is Facebook whistleblower Frances Haugen and journalist Jeff Horwitz.",
+      "zh": "这一次，影片聚焦脸书举报人弗朗西斯·豪根和记者杰夫·霍尔维茨。"
+    },
+    {
+      "id": 288,
+      "startMs": 1505180,
+      "endMs": 1510620,
+      "en": "The movie delves into the story behind the company's genesis, looking at what social media has become.",
+      "zh": "影片深入讲述公司的创立故事，并审视社交媒体如今变成了什么。"
+    },
+    {
+      "id": 289,
+      "startMs": 1512000,
+      "endMs": 1514880,
+      "en": "Facebook wants you to stay on the site for as long as possible.",
+      "zh": "脸书希望你尽可能长时间留在网站上。"
+    },
+    {
+      "id": 290,
+      "startMs": 1515200,
+      "endMs": 1517280,
+      "en": "And two years ago, the algorithm was changed.",
+      "zh": "两年前，算法发生了改变。"
+    },
+    {
+      "id": 291,
+      "startMs": 1517680,
+      "endMs": 1523200,
+      "en": "Wait, Mark, we're trying to address hate speech, and we're going to amplify and turbocharge it.",
+      "zh": "等等，马克，我们正试图处理仇恨言论，你们却要放大并加速传播它。"
+    },
+    {
+      "id": 292,
+      "startMs": 1524680,
+      "endMs": 1525960,
+      "en": "The debate is over.",
+      "zh": "争论结束了。"
+    },
+    {
+      "id": 293,
+      "startMs": 1528160,
+      "endMs": 1532320,
+      "en": "Aaron Sorkin told the BBC what drew him to revisit the Facebook story.",
+      "zh": "艾伦·索金告诉BBC，是什么吸引他再次讲述脸书的故事。"
+    },
+    {
+      "id": 294,
+      "startMs": 1532640,
+      "endMs": 1538560,
+      "en": "What began as a cool idea, a way to keep in touch with the people you went to school with,",
+      "zh": "它起初是个酷点子，让你能与同学保持联系，"
+    },
+    {
+      "id": 295,
+      "startMs": 1538560,
+      "endMs": 1542720,
+      "en": "for guys, sort of an easier introduction to girls,",
+      "zh": "对男孩来说，也算是更轻松地认识女孩的方式，"
+    },
+    {
+      "id": 296,
+      "startMs": 1543480,
+      "endMs": 1553480,
+      "en": "became something huge and frankly monstrous, a machine for pumping out misinformation and making people angry.",
+      "zh": "后来变成了庞大而且说实话很可怕的东西，一台制造错误信息、激怒人们的机器。"
+    },
+    {
+      "id": 297,
+      "startMs": 1553720,
+      "endMs": 1558360,
+      "en": "Frances, who's played by Mikey Madison in the film, is a young engineer at Facebook.",
+      "zh": "影片中，弗朗西斯由迈琪·麦迪逊饰演；她是脸书的一名年轻工程师。"
+    },
+    {
+      "id": 298,
+      "startMs": 1558360,
+      "endMs": 1563560,
+      "en": "She went to Facebook specifically because they had this one division, the Civic Integrity Team,",
+      "zh": "她之所以专门加入脸书，是因为那里有一个部门——公民诚信团队，"
+    },
+    {
+      "id": 299,
+      "startMs": 1563880,
+      "endMs": 1569720,
+      "en": "which, whereas every other team at Facebook is concentrated on growth, was supposed to be the one team that wasn't.",
+      "zh": "脸书其他团队都专注于增长，而这个团队本应是唯一不这样做的团队。"
+    },
+    {
+      "id": 300,
+      "startMs": 1569720,
+      "endMs": 1573960,
+      "en": "They were concentrated, frankly, on civic misinformation.",
+      "zh": "说实话，他们专注的是公民领域的错误信息。"
+    },
+    {
+      "id": 301,
+      "startMs": 1574440,
+      "endMs": 1584120,
+      "en": "And she became shocked at what she found when a friend of hers had become completely radicalized by Facebook",
+      "zh": "当她发现自己的朋友被脸书彻底激进化时，她感到震惊，"
+    },
+    {
+      "id": 302,
+      "startMs": 1584440,
+      "endMs": 1585800,
+      "en": "in a very short period of time.",
+      "zh": "而这一切只发生在很短的时间内。"
+    },
+    {
+      "id": 303,
+      "startMs": 1586120,
+      "endMs": 1589960,
+      "en": "That's what sent Frances on her journey, and she engaged the help of Jeff Horwitz,",
+      "zh": "这促使弗朗西斯踏上了这段旅程，她还寻求了杰夫·霍尔维茨的帮助，"
+    },
+    {
+      "id": 304,
+      "startMs": 1589960,
+      "endMs": 1592040,
+      "en": "a Wall Street Journal investigative reporter.",
+      "zh": "他是《华尔街日报》的调查记者。"
+    },
+    {
+      "id": 305,
+      "startMs": 1592040,
+      "endMs": 1597000,
+      "en": "He's played by Jeremy Allen White, and together they uncovered these incredible secrets.",
+      "zh": "片中由杰里米·艾伦·怀特饰演；他们一起揭开了这些惊人的秘密。"
+    },
+    {
+      "id": 306,
+      "startMs": 1597160,
+      "endMs": 1600520,
+      "en": "You know, people asked me as they were signing up for the film",
+      "zh": "人们在签约参与这部电影时问我，"
+    },
+    {
+      "id": 307,
+      "startMs": 1600520,
+      "endMs": 1607260,
+      "en": "whether it was our cinematographer or set designer or actors, by being part of this movie,",
+      "zh": "无论是摄影师、布景设计师还是演员，参与这部电影，"
+    },
+    {
+      "id": 308,
+      "startMs": 1607260,
+      "endMs": 1610940,
+      "en": "is there a chance that I will be rendered to an El Salvadoran prison?",
+      "zh": "有没有可能我会被送进萨尔瓦多的监狱？"
+    },
+    {
+      "id": 309,
+      "startMs": 1611340,
+      "endMs": 1615740,
+      "en": "The fact is, though, that I think Sony, the studio making the movie,",
+      "zh": "不过事实是，我认为制作这部电影的索尼公司，"
+    },
+    {
+      "id": 310,
+      "startMs": 1615740,
+      "endMs": 1622220,
+      "en": "has been, in times like this, you have to call it brave, you have to call it courageous to make the movie.",
+      "zh": "在这样的时代拍这部电影，你必须说它勇敢，必须说它有勇气。"
+    },
+    {
+      "id": 311,
+      "startMs": 1622220,
+      "endMs": 1623740,
+      "en": "It shouldn't be, but it is.",
+      "zh": "本不该如此，但事实就是如此。"
+    },
+    {
+      "id": 312,
+      "startMs": 1624220,
+      "endMs": 1630300,
+      "en": "I like writing about institutions, the people in those institutions, but institutions.",
+      "zh": "我喜欢写机构，写机构中的人，但归根结底还是写机构。"
+    },
+    {
+      "id": 313,
+      "startMs": 1630960,
+      "endMs": 1634480,
+      "en": "In this case, The Social Network was about how Facebook was invented.",
+      "zh": "在这个故事里，《社交网络》讲的是脸书如何诞生。"
+    },
+    {
+      "id": 314,
+      "startMs": 1634560,
+      "endMs": 1639760,
+      "en": "The Social Reckoning is about what it's become and specifically Facebook's role",
+      "zh": "《社交清算》讲的是脸书如今变成了什么，尤其是脸书所扮演的角色，"
+    },
+    {
+      "id": 315,
+      "startMs": 1640080,
+      "endMs": 1644640,
+      "en": "in the rise of extremism, divisiveness and violence.",
+      "zh": "以及它在极端主义、分裂和暴力兴起中的作用。"
+    },
+    {
+      "id": 316,
+      "startMs": 1644880,
+      "endMs": 1651760,
+      "en": "I wasn't like I was looking to do a follow-up to The Social Network, to do another story about Facebook or another story about Mark Zuckerberg.",
+      "zh": "我并不是想为《社交网络》拍续篇，也不是想再讲一个脸书或马克·扎克伯格的故事。"
+    },
+    {
+      "id": 317,
+      "startMs": 1652240,
+      "endMs": 1656800,
+      "en": "I was looking for a good story to tell and there was this.",
+      "zh": "我只是想找个好故事来讲，而这个故事正好出现了。"
+    },
+    {
+      "id": 318,
+      "startMs": 1659160,
+      "endMs": 1660200,
+      "en": "And that's it from us for now.",
+      "zh": "以上就是我们目前的全部内容。"
+    },
+    {
+      "id": 319,
+      "startMs": 1660200,
+      "endMs": 1664920,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 320,
+      "startMs": 1664920,
+      "endMs": 1671160,
+      "en": "You can also now watch our episodes in full. Just search for the Global News Podcast on YouTube.",
+      "zh": "现在也可以观看我们的完整节目，只需在YouTube上搜索Global News Podcast。"
+    },
+    {
+      "id": 321,
+      "startMs": 1671640,
+      "endMs": 1673640,
+      "en": "This edition was mixed by Rosanna Windorall.",
+      "zh": "本期由罗莎娜·温多拉尔混音。"
+    },
+    {
+      "id": 322,
+      "startMs": 1673640,
+      "endMs": 1677080,
+      "en": "The producer was Adrian White. The editor is Karen Martin.",
+      "zh": "制片人是阿德里安·怀特，编辑是凯伦·马丁。"
+    },
+    {
+      "id": 323,
+      "startMs": 1677480,
+      "endMs": 1679480,
+      "en": "I'm Valerie Sanderson. Until next time, bye-bye.",
+      "zh": "我是瓦莱丽·桑德森。下次再见。"
+    }
+  ]
+}
