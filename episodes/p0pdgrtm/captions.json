@@ -1,0 +1,1985 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "1 October 2026"
+  },
+  "durationMs": 1441861,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3840,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务部的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5160,
+      "endMs": 10520,
+      "en": "I'm Nick Miles, and at 13:00 GMT on Thursday the 1st of October, these are our main stories.",
+      "zh": "我是 Nick Miles。10月1日星期四格林尼治时间13点，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11160,
+      "endMs": 19720,
+      "en": "Christa Pike, a female prisoner on death row in the US state of Tennessee, has been taken to hospital after surviving two lethal injection attempts.",
+      "zh": "美国田纳西州一名死刑女囚 Christa Pike 在两次注射死刑均未成功后被送往医院。"
+    },
+    {
+      "id": 4,
+      "startMs": 20440,
+      "endMs": 26280,
+      "en": "Global bond markets come under pressure as US borrowing costs reach their highest level since 2002.",
+      "zh": "随着美国借贷成本升至2002年以来最高水平，全球债券市场承压。"
+    },
+    {
+      "id": 5,
+      "startMs": 27560,
+      "endMs": 36120,
+      "en": "Israel's Prime Minister Benjamin Netanyahu said it's too early to say who was behind the attempt by a co-pilot to crash a flight from Dubai to Israel.",
+      "zh": "以色列总理 Benjamin Netanyahu 说，现在断言是谁幕后策划副驾驶试图让一架从迪拜飞往以色列的航班坠毁还为时过早。"
+    },
+    {
+      "id": 6,
+      "startMs": 36120,
+      "endMs": 44520,
+      "en": "We begin in the US state of Tennessee, where the debate around the death penalty has been brought once again into focus in the most dramatic of ways.",
+      "zh": "我们先从美国田纳西州开始；在那里，围绕死刑的争论以最戏剧性的方式再次成为焦点。"
+    },
+    {
+      "id": 7,
+      "startMs": 45160,
+      "endMs": 55640,
+      "en": "Christa Pike, a female prisoner convicted of murder, had been due to be executed, but she survived not one but two lethal injections at a prison in Nashville.",
+      "zh": "被判谋杀罪的女囚 Christa Pike 原定被执行死刑，但她在纳什维尔一所监狱经历了两次注射后都活了下来。"
+    },
+    {
+      "id": 8,
+      "startMs": 56440,
+      "endMs": 60120,
+      "en": "The governor of Tennessee has ordered a temporary halt to executions.",
+      "zh": "田纳西州州长已下令暂时停止执行死刑。"
+    },
+    {
+      "id": 9,
+      "startMs": 60680,
+      "endMs": 65160,
+      "en": "Christa Pike was sentenced to death in 1996 for the murder of her classmate.",
+      "zh": "Christa Pike 于1996年因谋杀同学被判死刑。"
+    },
+    {
+      "id": 10,
+      "startMs": 65720,
+      "endMs": 71160,
+      "en": "If she'd been executed, she would have been the 1st woman put to death in Tennessee in more than 200 years.",
+      "zh": "如果她被执行死刑，她将成为田纳西州200多年来首位被处死的女性。"
+    },
+    {
+      "id": 11,
+      "startMs": 71800,
+      "endMs": 79400,
+      "en": "John North is a producer at WBIR television in Knoxville and was present as a witness at the attempted execution.",
+      "zh": "John North 是诺克斯维尔 WBIR 电视台的制片人，并作为见证人在现场目睹了这次执行死刑的尝试。"
+    },
+    {
+      "id": 12,
+      "startMs": 79720,
+      "endMs": 87160,
+      "en": "He had this to say at a press conference later on: It appeared this did not go like they thought it was supposed to go, but we don't know that.",
+      "zh": "他后来在新闻发布会上说：看起来事情没有按他们预想的方式进行，但我们并不知道事实是否如此。"
+    },
+    {
+      "id": 13,
+      "startMs": 87240,
+      "endMs": 91960,
+      "en": "When we left the building, so far as we knew, she was probably still alive.",
+      "zh": "我们离开大楼时，就我们所知，她很可能仍然活着。"
+    },
+    {
+      "id": 14,
+      "startMs": 91960,
+      "endMs": 94520,
+      "en": "You just saw the emergency vehicles pull up.",
+      "zh": "你刚刚看到急救车辆赶到。"
+    },
+    {
+      "id": 15,
+      "startMs": 94840,
+      "endMs": 99100,
+      "en": "We don't know her. And I think it's fair to say we have a lot of questions.",
+      "zh": "我们不知道她的情况。我认为可以说，我们有很多疑问。"
+    },
+    {
+      "id": 16,
+      "startMs": 99660,
+      "endMs": 104300,
+      "en": "Why was it that by the time the blinds went down for the 2nd time at 8:05, she was still breathing?",
+      "zh": "为什么到8点05分第二次放下百叶窗时，她仍然在呼吸？"
+    },
+    {
+      "id": 17,
+      "startMs": 104860,
+      "endMs": 108460,
+      "en": "And her breathing at points was very rhythmic?",
+      "zh": "而且她有时的呼吸非常有规律？"
+    },
+    {
+      "id": 18,
+      "startMs": 108460,
+      "endMs": 113900,
+      "en": "Now, at times it appeared labored; she was snoring at times, but she was still breathing.",
+      "zh": "当时她有时看起来呼吸困难，有时还在打鼾，但仍然在呼吸。"
+    },
+    {
+      "id": 19,
+      "startMs": 114460,
+      "endMs": 118380,
+      "en": "Prison officials say they followed every step of the state's protocol.",
+      "zh": "监狱官员称，他们遵循了州政府规定的每一步程序。"
+    },
+    {
+      "id": 20,
+      "startMs": 119020,
+      "endMs": 127180,
+      "en": "The attempted execution followed a day of legal limbo as the US Supreme Court overturned a reprieve granted by an appeals court hours earlier.",
+      "zh": "这次执行死刑的尝试前经历了一天的法律僵局：美国最高法院推翻了上诉法院数小时前批准的暂缓执行令。"
+    },
+    {
+      "id": 21,
+      "startMs": 127900,
+      "endMs": 131260,
+      "en": "Our World Service correspondent Stephanie Hegarty told me the latest.",
+      "zh": "本台记者 Stephanie Hegarty 告诉我最新情况。"
+    },
+    {
+      "id": 22,
+      "startMs": 131340,
+      "endMs": 133020,
+      "en": "We still don't know how she is right now.",
+      "zh": "我们仍不知道她现在的状况。"
+    },
+    {
+      "id": 23,
+      "startMs": 133020,
+      "endMs": 135100,
+      "en": "Her lawyers haven't been given any update.",
+      "zh": "她的律师没有得到任何最新消息。"
+    },
+    {
+      "id": 24,
+      "startMs": 135100,
+      "endMs": 139420,
+      "en": "Last I heard from them, they didn't know anything about her condition, just that she was in hospital and being treated.",
+      "zh": "我最后从他们那里听到的消息是，他们不知道她的状况，只知道她在医院接受治疗。"
+    },
+    {
+      "id": 25,
+      "startMs": 139900,
+      "endMs": 145420,
+      "en": "What one of the reporters who witnessed this botched execution said is that Christa Pike at one point said that she felt",
+      "zh": "一名目睹这次失败执行的记者说，Christa Pike 曾表示，她感到"
+    },
+    {
+      "id": 26,
+      "startMs": 145820,
+      "endMs": 151740,
+      "en": "a burning sensation in her arm, that it felt like it was about to explode, and she asked the room if this was normal.",
+      "zh": "手臂有灼烧感，仿佛快要爆炸，并问房间里的人这是否正常。"
+    },
+    {
+      "id": 27,
+      "startMs": 152140,
+      "endMs": 156800,
+      "en": "That may suggest that the doctors didn't manage to get the pentobarbital into her veins.",
+      "zh": "这可能表明医生没能把戊巴比妥注入她的静脉。"
+    },
+    {
+      "id": 28,
+      "startMs": 157120,
+      "endMs": 162240,
+      "en": "We know as well that Christa Pike's legal team had argued before this that she had small veins.",
+      "zh": "我们还知道，Christa Pike 的法律团队此前曾辩称，她的静脉很细。"
+    },
+    {
+      "id": 29,
+      "startMs": 162240,
+      "endMs": 165440,
+      "en": "They might struggle to find a vein, so that could be what happened here.",
+      "zh": "他们可能难以找到静脉，所以这里或许就是这种情况。"
+    },
+    {
+      "id": 30,
+      "startMs": 165600,
+      "endMs": 167440,
+      "en": "What happens to Christa Pike's case now?",
+      "zh": "Christa Pike 的案件现在会怎样？"
+    },
+    {
+      "id": 31,
+      "startMs": 167680,
+      "endMs": 174240,
+      "en": "The governor of Tennessee has issued a stay on any executions till the end of the year, so she won't be executed before the end of 2026.",
+      "zh": "田纳西州州长已下令暂停任何死刑执行直到年底，因此她不会在2026年底前被执行死刑。"
+    },
+    {
+      "id": 32,
+      "startMs": 174560,
+      "endMs": 182560,
+      "en": "But we know of a May case in Tennessee where Tony Carruthers also experienced a failed execution. They couldn't find a vein in his case.",
+      "zh": "但我们知道，田纳西州5月也有一宗案例：Tony Carruthers 同样经历了死刑执行失败。他们当时没能找到血管。"
+    },
+    {
+      "id": 33,
+      "startMs": 182560,
+      "endMs": 185440,
+      "en": "He received a stay of execution for one year.",
+      "zh": "他获准暂缓执行死刑一年。"
+    },
+    {
+      "id": 34,
+      "startMs": 185680,
+      "endMs": 189760,
+      "en": "We don't know exactly what will happen in Christa Pike's case, but that is the precedent there.",
+      "zh": "目前还不清楚克丽丝塔·派克的案件究竟会如何发展，但这就是当地的先例。"
+    },
+    {
+      "id": 35,
+      "startMs": 190000,
+      "endMs": 199120,
+      "en": "Now, even before this botched execution attempt, the case of Christa Pike had caused huge amounts of controversy across the United States and beyond.",
+      "zh": "现在，即使在这次失败的死刑执行尝试之前，克丽丝塔·派克的案件就已在美国及其他地方引发巨大争议。"
+    },
+    {
+      "id": 36,
+      "startMs": 199120,
+      "endMs": 205440,
+      "en": "Tell us why. Even yesterday, this execution had been delayed by several hours because of a last-minute plea.",
+      "zh": "请告诉我们原因。就在昨天，这次死刑执行还因最后时刻提出的请求而推迟了数小时。"
+    },
+    {
+      "id": 37,
+      "startMs": 205440,
+      "endMs": 211520,
+      "en": "So the Court of Appeals had issued a stay about an hour before the execution was about to take place at 10:00 a.m.",
+      "zh": "因此，上诉法院在原定上午10点执行死刑前约一小时发布了暂缓执行令。"
+    },
+    {
+      "id": 38,
+      "startMs": 211920,
+      "endMs": 215680,
+      "en": "And then the state of Tennessee appealed to the Supreme Court.",
+      "zh": "随后，田纳西州向最高法院提出上诉。"
+    },
+    {
+      "id": 39,
+      "startMs": 215700,
+      "endMs": 221300,
+      "en": "The Supreme Court vacated that stay really late, and the execution started at about 6:30 p.m.",
+      "zh": "最高法院在很晚的时候撤销了暂缓令，死刑执行于下午6点30分左右开始。"
+    },
+    {
+      "id": 40,
+      "startMs": 221540,
+      "endMs": 224340,
+      "en": "There was legal wrangling right to the end.",
+      "zh": "所以，法律争议一直持续到最后一刻。"
+    },
+    {
+      "id": 41,
+      "startMs": 224340,
+      "endMs": 230420,
+      "en": "The reason for the stay was that Christa Pike's lawyers argued:",
+      "zh": "上诉法院发布暂缓令的原因在于，克丽丝塔·派克的律师提出，"
+    },
+    {
+      "id": 42,
+      "startMs": 230740,
+      "endMs": 240740,
+      "en": "That her history of extreme neglect and sexual, psychological and physical abuse in childhood was never taken into account by the original trial jury.",
+      "zh": "她童年遭受的极端忽视以及性、心理和身体虐待，从未被原审陪审团考虑。"
+    },
+    {
+      "id": 43,
+      "startMs": 241140,
+      "endMs": 247140,
+      "en": "And also that the state of Tennessee had argued that she'd lied about that abuse throughout her childhood and in her trial.",
+      "zh": "田纳西州还辩称，她在整个童年时期以及审判中都对那些虐待经历撒了谎。"
+    },
+    {
+      "id": 44,
+      "startMs": 247540,
+      "endMs": 250260,
+      "en": "That became a key concern for the Court of Appeals.",
+      "zh": "这成为上诉法院关注的一个关键问题。"
+    },
+    {
+      "id": 45,
+      "startMs": 250260,
+      "endMs": 255620,
+      "en": "But the Supreme Court overruled that, leaving the appeals judges no time to consider those arguments.",
+      "zh": "但最高法院推翻了这一决定，没有给上诉法院的法官时间考虑这些论点。"
+    },
+    {
+      "id": 46,
+      "startMs": 255700,
+      "endMs": 262500,
+      "en": "Now, Stephanie, those are the specifics of her case, but what has happened over the last twelve to twenty-four hours?",
+      "zh": "那么，Stephanie，这些是她案件的具体情况；但在过去12到24小时里发生了什么？"
+    },
+    {
+      "id": 47,
+      "startMs": 262660,
+      "endMs": 267380,
+      "en": "To what extent will that feed into the debate about the death penalty as a whole across the states?",
+      "zh": "这将在多大程度上影响全美各州对死刑的整体辩论？"
+    },
+    {
+      "id": 48,
+      "startMs": 267540,
+      "endMs": 271060,
+      "en": "In Tennessee, there was an intense debate about the death penalty.",
+      "zh": "在田纳西州，人们一直在热烈讨论死刑问题。"
+    },
+    {
+      "id": 49,
+      "startMs": 271060,
+      "endMs": 280360,
+      "en": "The debate covered use of pentobarbital, how the state obtained it, and whether the drug was degraded. So this was already a very live debate.",
+      "zh": "讨论内容包括这种药物戊巴比妥的使用、州政府如何取得它，以及戊巴比妥是否已经变质。所以，这本来就是一场非常激烈的辩论。"
+    },
+    {
+      "id": 50,
+      "startMs": 280360,
+      "endMs": 284280,
+      "en": "This will only continue that debate, and perhaps it will widen across the US.",
+      "zh": "这只会让辩论继续下去，而且或许会扩大到全美国。"
+    },
+    {
+      "id": 51,
+      "startMs": 284600,
+      "endMs": 288120,
+      "en": "Stephanie Hegarty. Well, just before we recorded this podcast,",
+      "zh": "Stephanie Hegarty。就在我们录制这期播客前，"
+    },
+    {
+      "id": 52,
+      "startMs": 288200,
+      "endMs": 296440,
+      "en": "the UN human rights chief Volker Türk urged the Tennessee government not to make another attempt to execute Christa Pike.",
+      "zh": "联合国人权事务负责人沃尔克·图尔克敦促田纳西州政府不要再次尝试处决克丽丝塔·派克。"
+    },
+    {
+      "id": 53,
+      "startMs": 298020,
+      "endMs": 307620,
+      "en": "The US-Iran conflict and fears of an AI bubble bursting are two reasons the world economy is jittery at the moment.",
+      "zh": "美伊冲突，以及人们对人工智能泡沫即将破裂的担忧，只是当前世界经济颇为不安的两个原因。"
+    },
+    {
+      "id": 54,
+      "startMs": 308180,
+      "endMs": 314420,
+      "en": "Now those concerns have contributed to a key interest rate in the US reaching its highest level since 2002.",
+      "zh": "这些担忧促使美国一项关键利率升至2002年以来的最高水平。"
+    },
+    {
+      "id": 55,
+      "startMs": 314420,
+      "endMs": 318260,
+      "en": "Our economics editor, Dharshini David, told me more.",
+      "zh": "我们的经济编辑达希妮·戴维为我作了进一步解释。"
+    },
+    {
+      "id": 56,
+      "startMs": 318740,
+      "endMs": 324500,
+      "en": "What we're talking about here is the rate on the instruments governments use to borrow to fund their plans,",
+      "zh": "我们这里谈的是政府用来借款、为计划提供资金的金融工具利率，"
+    },
+    {
+      "id": 57,
+      "startMs": 324500,
+      "endMs": 328100,
+      "en": "As we know, they often spend more than they collect in tax.",
+      "zh": "因为正如我们所知，政府往往花得比实际收取的税款更多。"
+    },
+    {
+      "id": 58,
+      "startMs": 328100,
+      "endMs": 334500,
+      "en": "And what we're seeing is that the cost of borrowing is rising, and that is because of nerves about debt levels around the world,",
+      "zh": "我们看到，借贷成本正在上升，这是因为人们对全球债务水平感到担忧，"
+    },
+    {
+      "id": 59,
+      "startMs": 334820,
+      "endMs": 338500,
+      "en": "but also about inflation and interest rate prospects around the world as well.",
+      "zh": "同时也担心全球通胀和利率前景。"
+    },
+    {
+      "id": 60,
+      "startMs": 338500,
+      "endMs": 342180,
+      "en": "And that's why you've got this perfect storm which is pushing up those borrowing costs,",
+      "zh": "所以，种种因素形成了完美风暴，推高了借贷成本，"
+    },
+    {
+      "id": 61,
+      "startMs": 342500,
+      "endMs": 347860,
+      "en": "not just for the US government, but we should say for governments in Europe too, and here in the UK.",
+      "zh": "不仅是美国政府的借贷成本，欧洲各国政府以及英国的借贷成本也在上升。"
+    },
+    {
+      "id": 62,
+      "startMs": 347860,
+      "endMs": 354020,
+      "en": "So this is very much, you know, a little local trouble in the Middle East, you might like to say, causing very global implications,",
+      "zh": "所以，这可以说是中东一个小小的局部麻烦，却造成了全球性的影响，"
+    },
+    {
+      "id": 63,
+      "startMs": 354260,
+      "endMs": 357620,
+      "en": "That raises borrowing costs for governments and therefore for taxpayers.",
+      "zh": "它影响政府的借贷成本，进而影响纳税人。"
+    },
+    {
+      "id": 64,
+      "startMs": 357880,
+      "endMs": 362360,
+      "en": "Well, yes, you're going to say that about taxpayers as well. Interest rates go up.",
+      "zh": "是的，你也会说这同样关系到纳税人。利率上升。"
+    },
+    {
+      "id": 65,
+      "startMs": 362360,
+      "endMs": 366040,
+      "en": "Explain the process, how it filters down to you and me. Yeah, absolutely.",
+      "zh": "请解释一下，这个过程如何传导到你我身上。是的，当然。"
+    },
+    {
+      "id": 66,
+      "startMs": 366280,
+      "endMs": 369800,
+      "en": "The government says, this is what we want to do.",
+      "zh": "你看，政府会说：这就是我们想做的事。"
+    },
+    {
+      "id": 67,
+      "startMs": 369800,
+      "endMs": 373080,
+      "en": "These are our plans for the years ahead, but we might need extra money.",
+      "zh": "这是我们未来几年的计划，但我们可能需要筹集一些额外资金。"
+    },
+    {
+      "id": 68,
+      "startMs": 373160,
+      "endMs": 376840,
+      "en": "They borrow the money in financial markets for the long term.",
+      "zh": "政府会去金融市场借这笔钱，这是长期借款。"
+    },
+    {
+      "id": 69,
+      "startMs": 376840,
+      "endMs": 381000,
+      "en": "So sometimes you're paying back the interest to investors for decades.",
+      "zh": "所以，有时政府要用几十年向投资者偿还利息。"
+    },
+    {
+      "id": 70,
+      "startMs": 381000,
+      "endMs": 386120,
+      "en": "Interest costs have risen as governments borrowed more in recent years.",
+      "zh": "近年来，随着政府借款增加，这些利息成本实际上已经不断攀升。"
+    },
+    {
+      "id": 71,
+      "startMs": 386120,
+      "endMs": 388360,
+      "en": "Just to give you one snapshot, there in the UK,",
+      "zh": "以英国为例，"
+    },
+    {
+      "id": 72,
+      "startMs": 388680,
+      "endMs": 395000,
+      "en": "if the debt interest was a government department, we'd spend more on that than any other department apart from health.",
+      "zh": "如果债务利息是一个政府部门，我们在这上面的支出会超过除医疗部门以外的任何部门。"
+    },
+    {
+      "id": 73,
+      "startMs": 395480,
+      "endMs": 401800,
+      "en": "That's how big a problem it has become. So that means there is less money elsewhere to spend on other plans, public services, for example,",
+      "zh": "问题已经严重到这种程度。这意味着其他计划和公共服务等方面可支配的钱会减少，"
+    },
+    {
+      "id": 74,
+      "startMs": 401800,
+      "endMs": 406760,
+      "en": "and it tends to mean that governments have to raise taxes to cover those costs as well.",
+      "zh": "也意味着政府往往必须提高税收来弥补这些成本。"
+    },
+    {
+      "id": 75,
+      "startMs": 406760,
+      "endMs": 411960,
+      "en": "So, you know, what might seem an issue, a storm in a teacup in financial markets, has implications",
+      "zh": "所以，看似金融市场里的一件小事，却会影响公共服务和纳税人今后的生活。"
+    },
+    {
+      "id": 76,
+      "startMs": 412280,
+      "endMs": 416680,
+      "en": "both for public services and for taxpayers further down the line. So yeah, this is our problem, really.",
+      "zh": "也就是说，纳税人最终会为这些成本买单。这确实是我们的问题。"
+    },
+    {
+      "id": 77,
+      "startMs": 417000,
+      "endMs": 423420,
+      "en": "So taxpayers are going to have higher interest rates, that has an impact on mortgage rates and the rest of it as well.",
+      "zh": "所以，纳税人将面对更高的利率，这也会影响抵押贷款利率等。"
+    },
+    {
+      "id": 78,
+      "startMs": 423420,
+      "endMs": 430860,
+      "en": "Absolutely. You raise that really important point because again what happens in those bond markets tends to be linked to those costs",
+      "zh": "没错，你提出了一个非常重要的点：债券市场的变化往往会传导到这些成本。"
+    },
+    {
+      "id": 79,
+      "startMs": 430860,
+      "endMs": 433980,
+      "en": "when you take out mortgages that are fixed for any period of time.",
+      "zh": "当你办理在一段时间内固定利率的抵押贷款时，情况就是这样。"
+    },
+    {
+      "id": 80,
+      "startMs": 434300,
+      "endMs": 437420,
+      "en": "So if you are taking out a mortgage that is fixed for five years, ten years",
+      "zh": "如果你办理的是五年或十年期固定利率抵押贷款……"
+    },
+    {
+      "id": 81,
+      "startMs": 437660,
+      "endMs": 442860,
+      "en": "it is that bond, what they call the yield, the interest rate, which really influences those costs",
+      "zh": "影响这些成本的，正是债券收益率，也就是他们所说的利率。"
+    },
+    {
+      "id": 82,
+      "startMs": 443100,
+      "endMs": 450220,
+      "en": "which is why many borrowers around the world are saying, ‘Hang on a minute, why is it getting more expensive to take out a mortgage in this way?’",
+      "zh": "因此，世界各地许多借款人都会问：为什么这样办理抵押贷款越来越贵？"
+    },
+    {
+      "id": 83,
+      "startMs": 450300,
+      "endMs": 454540,
+      "en": "So how does this whole process get slowed down or even reversed?",
+      "zh": "那么，怎样才能让这个过程放缓，甚至逆转呢？"
+    },
+    {
+      "id": 84,
+      "startMs": 454940,
+      "endMs": 458140,
+      "en": "How does it get slowed down and have it reversed? You’ve got to calm the markets down ultimately.",
+      "zh": "怎样才能让它放缓并逆转？归根结底，必须让市场平静下来。"
+    },
+    {
+      "id": 85,
+      "startMs": 458300,
+      "endMs": 461420,
+      "en": "I mean, that is the answer. And when you look at what’s happening around the world",
+      "zh": "我的意思是，答案就在这里。看看世界各地正在发生的事情。"
+    },
+    {
+      "id": 86,
+      "startMs": 461420,
+      "endMs": 469580,
+      "en": "I mean, here in the UK, we’ve got a situation where the government is putting together its next budget and it’s trying to make sure it keeps the markets on side.",
+      "zh": "以英国为例，政府正在制定下一份预算，并努力安抚市场。"
+    },
+    {
+      "id": 87,
+      "startMs": 469580,
+      "endMs": 474380,
+      "en": "You know, make sure it doesn’t do anything too bold or drastic that’s going to make them worry about the amount you’re spending.",
+      "zh": "也就是说，他们不能采取过于大胆或激进的措施，以免市场担心支出规模。"
+    },
+    {
+      "id": 88,
+      "startMs": 474620,
+      "endMs": 480960,
+      "en": "In France, they are unveiling plans to talk about cutting the budget deficit, so those are the kind of ways they’re trying to change sentiment.",
+      "zh": "法国正公布削减预算赤字的计划，这些都是改变市场情绪的方式。"
+    },
+    {
+      "id": 89,
+      "startMs": 481280,
+      "endMs": 484880,
+      "en": "We should say there is no shortage of appetite for these bonds out there.",
+      "zh": "需要说明的是，市场对这些债券并不缺乏需求。"
+    },
+    {
+      "id": 90,
+      "startMs": 484880,
+      "endMs": 489520,
+      "en": "I mean, there’s no shortage of money, it’s just that we’re having to pay a higher price to get that money for governments to spend.",
+      "zh": "资金并不短缺，只是政府要获得这些资金，需要付出更高代价。"
+    },
+    {
+      "id": 91,
+      "startMs": 489840,
+      "endMs": 492880,
+      "en": "But ultimately, you know, what is really going to calm these markets down?",
+      "zh": "但归根结底，什么才能让市场平静下来？"
+    },
+    {
+      "id": 92,
+      "startMs": 493200,
+      "endMs": 495520,
+      "en": "Guess what? It’s going to be peace breaking out in the Middle East.",
+      "zh": "猜猜看？那就是中东实现和平。"
+    },
+    {
+      "id": 93,
+      "startMs": 495920,
+      "endMs": 497840,
+      "en": "Our economics editor, Dharshini David.",
+      "zh": "我们的经济编辑达尔希尼·戴维。"
+    },
+    {
+      "id": 94,
+      "startMs": 498740,
+      "endMs": 502580,
+      "en": "The northern Ethiopian region of Tigray has been fragile for decades.",
+      "zh": "埃塞俄比亚北部的提格雷地区几十年来一直动荡不安。"
+    },
+    {
+      "id": 95,
+      "startMs": 502900,
+      "endMs": 510900,
+      "en": "Militants there want far greater independence from Addis Ababa, and it looks like a peace deal signed four years ago is unravelling.",
+      "zh": "当地武装要求大幅提高自治程度，而一项四年前签署的和平协议似乎正在瓦解。"
+    },
+    {
+      "id": 96,
+      "startMs": 511300,
+      "endMs": 518660,
+      "en": "Since September, federal forces and Tigrayan fighters have been battling across three regions: Tigray, Amhara and Afar.",
+      "zh": "自9月以来，联邦军队与提格雷战士一直在提格雷、阿姆哈拉和阿法尔三个地区交战。"
+    },
+    {
+      "id": 97,
+      "startMs": 519220,
+      "endMs": 524260,
+      "en": "Now it appears government forces have captured the strategic town of Alamata.",
+      "zh": "现在看来，政府军已经占领了战略城镇阿拉马塔。"
+    },
+    {
+      "id": 98,
+      "startMs": 524820,
+      "endMs": 527460,
+      "en": "More than 50 people living there are said to have been killed.",
+      "zh": "据称，那里有50多名居民丧生。"
+    },
+    {
+      "id": 99,
+      "startMs": 528100,
+      "endMs": 532500,
+      "en": "I spoke to Derartu Gobena from BBC Monitoring, who's in Nairobi, for more.",
+      "zh": "我联系了 BBC 监测部驻内罗毕的 Derartu Gobena，请她介绍更多情况。"
+    },
+    {
+      "id": 100,
+      "startMs": 532500,
+      "endMs": 539540,
+      "en": "The latest we have in terms of the fighting is the reporting on the number of civilians that is increasing, of course, on a daily basis.",
+      "zh": "目前关于战事的最新消息是，平民伤亡人数每天都在增加。"
+    },
+    {
+      "id": 101,
+      "startMs": 540100,
+      "endMs": 546740,
+      "en": "The Ethiopian army and its allies, and on the other side, the rebels and their allied groups, continued fighting",
+      "zh": "埃塞俄比亚军及其盟友，以及另一方的叛军和盟军，一直在继续战斗。"
+    },
+    {
+      "id": 102,
+      "startMs": 547220,
+      "endMs": 550740,
+      "en": "specifically in Tigray, Amhara and Afar regions.",
+      "zh": "具体来说，战斗发生在提格雷、阿姆哈拉和阿法尔地区。"
+    },
+    {
+      "id": 103,
+      "startMs": 551060,
+      "endMs": 558580,
+      "en": "We have the first clashes break out on 23 September in those three regions, and the fighting, of course, continued intensifying.",
+      "zh": "我们知道，三个地区于9月23日爆发了首次冲突，战斗当然还在加剧。"
+    },
+    {
+      "id": 104,
+      "startMs": 558840,
+      "endMs": 566520,
+      "en": "Intensifying. We do not have numbers or casualties coming from the federal government side so far.",
+      "zh": "战斗仍在加剧，但目前没有联邦政府一方的数字或伤亡数据。"
+    },
+    {
+      "id": 105,
+      "startMs": 566520,
+      "endMs": 571000,
+      "en": "But the rebel groups continued claiming battlefield victories.",
+      "zh": "但叛军组织仍在宣称自己赢得了战场胜利。"
+    },
+    {
+      "id": 106,
+      "startMs": 571480,
+      "endMs": 576280,
+      "en": "And, of course, we have civilian casualties happening in those three regions so far.",
+      "zh": "当然，这三个地区目前也出现了平民伤亡。"
+    },
+    {
+      "id": 107,
+      "startMs": 576840,
+      "endMs": 583560,
+      "en": "And there was a dramatic instance where there was an attack as a live television broadcast was out.",
+      "zh": "还有一次非常戏剧性的事件：袭击发生时，电视台正在进行现场直播。"
+    },
+    {
+      "id": 108,
+      "startMs": 585540,
+      "endMs": 592420,
+      "en": "Yes, so a drone strike hit Tigray region’s main broadcaster, Tigray TV.",
+      "zh": "是的，一次无人机袭击击中了提格雷地区的主要广播机构提格雷电视台。"
+    },
+    {
+      "id": 109,
+      "startMs": 592820,
+      "endMs": 598260,
+      "en": "It also functions basically as the main information source coming out of Tigray.",
+      "zh": "它基本上也是提格雷地区对外发布信息的主要来源。"
+    },
+    {
+      "id": 110,
+      "startMs": 598260,
+      "endMs": 604500,
+      "en": "But unfortunately, since the drone strike hit the broadcaster on Sunday, 27th of September",
+      "zh": "但遗憾的是，9月27日星期日无人机袭击广播机构后，"
+    },
+    {
+      "id": 111,
+      "startMs": 604980,
+      "endMs": 609140,
+      "en": "the broadcaster also discontinued its broadcast, its news.",
+      "zh": "广播机构也停止了广播和新闻节目。"
+    },
+    {
+      "id": 112,
+      "startMs": 609540,
+      "endMs": 611940,
+      "en": "There hasn’t been anything coming out of Tigray TV.",
+      "zh": "提格雷电视台没有任何内容播出。"
+    },
+    {
+      "id": 113,
+      "startMs": 611940,
+      "endMs": 620260,
+      "en": "However, the next day, Monday, 28th of September, the TV station resumed its broadcast from a temporary studio.",
+      "zh": "不过，第二天，即9月28日星期一，电视台从临时演播室恢复了广播。"
+    },
+    {
+      "id": 114,
+      "startMs": 620740,
+      "endMs": 627780,
+      "en": "However, it was not able to continue its regular news and program services so far.",
+      "zh": "但到目前为止，它还无法恢复正常的新闻和节目服务。"
+    },
+    {
+      "id": 115,
+      "startMs": 627860,
+      "endMs": 635540,
+      "en": "But we continue to monitor how it will unfold, whether Tigray TV will be back on air again or it will continue like that.",
+      "zh": "不过，我们会继续关注事态发展，看看提格雷电视台能否恢复播出，还是维持现状。"
+    },
+    {
+      "id": 116,
+      "startMs": 636180,
+      "endMs": 642660,
+      "en": "As I mentioned, this conflict has been going on and off for 40 years or so. Why is it so difficult to resolve?",
+      "zh": "正如我提到的，这场冲突已经断断续续持续了大约40年。为什么如此难以解决？"
+    },
+    {
+      "id": 117,
+      "startMs": 643540,
+      "endMs": 649320,
+      "en": "You know, this conflict now is not something that just happened out of the blue.",
+      "zh": "你知道，这场冲突并不是突然发生的。"
+    },
+    {
+      "id": 118,
+      "startMs": 649320,
+      "endMs": 659560,
+      "en": "We’ve been seeing tensions escalating, specifically involving the Tigrayan forces led by the TPLF, the Tigray People’s Liberation Front.",
+      "zh": "我们一直看到局势日益紧张，尤其涉及提格雷人民解放阵线（TPLF）领导的提格雷武装。"
+    },
+    {
+      "id": 119,
+      "startMs": 660440,
+      "endMs": 668040,
+      "en": "The federal government is also involved, and there are indications that we might actually go back into the conflict.",
+      "zh": "联邦政府也卷入其中，有迹象表明我们可能重返冲突。"
+    },
+    {
+      "id": 120,
+      "startMs": 668680,
+      "endMs": 674280,
+      "en": "Remember, we also had the civil war that broke out between 2020 and 2022.",
+      "zh": "记住，我们还经历过一场在2020年至2022年爆发的内战。"
+    },
+    {
+      "id": 121,
+      "startMs": 674600,
+      "endMs": 681160,
+      "en": "We continue to have this conflict because of the Pretoria Agreement that ended the civil war in Tigray",
+      "zh": "我们之所以仍有这场冲突，是因为结束提格雷内战的《比勒陀利亚协议》"
+    },
+    {
+      "id": 122,
+      "startMs": 681560,
+      "endMs": 685160,
+      "en": "was signed in South Africa back in November 2022.",
+      "zh": "于2022年11月在南非签署。"
+    },
+    {
+      "id": 123,
+      "startMs": 685480,
+      "endMs": 689960,
+      "en": "The implementation of the Pretoria Agreement was not going well.",
+      "zh": "《比勒陀利亚协议》的落实并不顺利。"
+    },
+    {
+      "id": 124,
+      "startMs": 690360,
+      "endMs": 695320,
+      "en": "The two signatories, mainly the federal government and TPLF,",
+      "zh": "协议的两方签署者，主要是联邦政府和提格雷人民解放阵线，"
+    },
+    {
+      "id": 125,
+      "startMs": 695800,
+      "endMs": 700840,
+      "en": "accused each other over the failed implementation of the Pretoria Agreement,",
+      "zh": "互相指责对方导致《比勒陀利亚协议》落实失败，"
+    },
+    {
+      "id": 126,
+      "startMs": 700840,
+      "endMs": 707240,
+      "en": "which also led to the escalating confrontation and tension between the TPLF and the federal government.",
+      "zh": "这也导致提格雷人民解放阵线与联邦政府之间的对抗和紧张局势升级。"
+    },
+    {
+      "id": 127,
+      "startMs": 707800,
+      "endMs": 712632,
+      "en": "So all those tensions, the poor implementation of the Pretoria Agreement,",
+      "zh": "因此，所有这些紧张局势以及《比勒陀利亚协议》的糟糕落实，"
+    },
+    {
+      "id": 128,
+      "startMs": 712840,
+      "endMs": 717640,
+      "en": "and some of the fighters who were involved during the Tigray war",
+      "zh": "以及一些曾参与提格雷战争的战士"
+    },
+    {
+      "id": 129,
+      "startMs": 717720,
+      "endMs": 721340,
+      "en": "were also not involved in the Agreement,",
+      "zh": "也没有参与这项协议，"
+    },
+    {
+      "id": 130,
+      "startMs": 721340,
+      "endMs": 726860,
+      "en": "so you can imagine the animosities from everywhere, basically. Derartu Gobena.",
+      "zh": "所以可以想象，各方的敌意有多深。Derartu Gobena 报道。"
+    },
+    {
+      "id": 131,
+      "startMs": 726860,
+      "endMs": 728380,
+      "en": "Still to come in this podcast.",
+      "zh": "本期播客稍后还有："
+    },
+    {
+      "id": 132,
+      "startMs": 729020,
+      "endMs": 734940,
+      "en": "As Japan celebrates World Sake Day, we find out why sales of the national drink are in decline.",
+      "zh": "日本庆祝世界清酒日之际，我们来了解这种国民饮品销量下滑的原因。"
+    },
+    {
+      "id": 133,
+      "startMs": 735260,
+      "endMs": 741180,
+      "en": "After Japan opened up to foreign trade, beer, wine and whiskey entered the market.",
+      "zh": "日本开放对外贸易后，啤酒、葡萄酒和威士忌进入了市场。"
+    },
+    {
+      "id": 134,
+      "startMs": 741900,
+      "endMs": 744220,
+      "en": "This reduced the reliance on sake.",
+      "zh": "这降低了人们对清酒的依赖。"
+    },
+    {
+      "id": 135,
+      "startMs": 744700,
+      "endMs": 748540,
+      "en": "Also today, young generations don't drink as much as we did.",
+      "zh": "如今的年轻一代也不像我们当年那样常喝酒。"
+    },
+    {
+      "id": 136,
+      "startMs": 748541,
+      "endMs": 750221,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 137,
+      "startMs": 751181,
+      "endMs": 755901,
+      "en": "To Israel now, where the Prime Minister Benjamin Netanyahu has been talking about the apparent attempt",
+      "zh": "下面关注以色列：总理本雅明·内塔尼亚胡谈到了这起明显企图，"
+    },
+    {
+      "id": 138,
+      "startMs": 756221,
+      "endMs": 758781,
+      "en": "to crash a flight from Dubai to Tel Aviv.",
+      "zh": "有人企图让一架从迪拜飞往特拉维夫的航班坠毁。"
+    },
+    {
+      "id": 139,
+      "startMs": 759261,
+      "endMs": 765901,
+      "en": "The captain was stabbed as the plane was entering Israeli airspace, but was still able to open the door to the cockpit",
+      "zh": "飞机进入以色列领空时，机长遭到刺伤，但仍能打开驾驶舱舱门，"
+    },
+    {
+      "id": 140,
+      "startMs": 765981,
+      "endMs": 767781,
+      "en": "so the passengers could help him out.",
+      "zh": "让乘客能够把他扶出来。"
+    },
+    {
+      "id": 141,
+      "startMs": 768421,
+      "endMs": 771781,
+      "en": "Mr Netanyahu praised the captain in the highest way possible.",
+      "zh": "内塔尼亚胡先生以最高规格赞扬了机长。"
+    },
+    {
+      "id": 142,
+      "startMs": 772101,
+      "endMs": 780581,
+      "en": "I think what happened is a tremendous act of heroism that prevented another 9/11-style crash of an entire airplane.",
+      "zh": "我认为发生的一切是英勇之举，避免了又一次类似“9·11”的整架飞机坠毁。"
+    },
+    {
+      "id": 143,
+      "startMs": 780901,
+      "endMs": 785461,
+      "en": "Mr Netanyahu said he would present heroism awards to four of the passengers.",
+      "zh": "内塔尼亚胡先生说，他将向四名乘客颁发英勇奖。"
+    },
+    {
+      "id": 144,
+      "startMs": 785781,
+      "endMs": 787461,
+      "en": "He referred to one of them in particular.",
+      "zh": "他特别提到其中一人。"
+    },
+    {
+      "id": 145,
+      "startMs": 787861,
+      "endMs": 793701,
+      "en": "An Israeli passenger, a civilian. I met this guy. He's an incredible hero.",
+      "zh": "一名以色列乘客，一名平民。我见过这个人，他是了不起的英雄。"
+    },
+    {
+      "id": 146,
+      "startMs": 794101,
+      "endMs": 796661,
+      "en": "Look at what he did under impossible circumstances.",
+      "zh": "看看他在极端困难的情况下所做的一切。"
+    },
+    {
+      "id": 147,
+      "startMs": 796901,
+      "endMs": 800581,
+      "en": "I spoke earlier today with President Trump, who really was appreciative of this.",
+      "zh": "我今天早些时候和特朗普总统谈过，他对此十分赞赏。"
+    },
+    {
+      "id": 148,
+      "startMs": 800901,
+      "endMs": 806821,
+      "en": "And he said, you know, when a plane is nose-diving, the passengers, including 30 children, are already saying their prayers.",
+      "zh": "他说，一架飞机俯冲时，乘客们——其中包括30名儿童——已经在祈祷了。"
+    },
+    {
+      "id": 149,
+      "startMs": 806821,
+      "endMs": 808741,
+      "en": "They know they're gone from this world.",
+      "zh": "他们知道自己将离开这个世界。"
+    },
+    {
+      "id": 150,
+      "startMs": 809301,
+      "endMs": 817461,
+      "en": "And this young man just acts with incredible, incredible heroism and saves the day",
+      "zh": "而这个年轻人以非凡的英勇举动力挽狂澜，"
+    },
+    {
+      "id": 151,
+      "startMs": 817781,
+      "endMs": 821701,
+      "en": "along with the Indian pilot who was there and the others who came to help.",
+      "zh": "印度籍飞行员和其他前来帮忙的人也共同做到了这一点。"
+    },
+    {
+      "id": 152,
+      "startMs": 822101,
+      "endMs": 826901,
+      "en": "Well, the UAE says it has now begun an investigation into the incident.",
+      "zh": "阿联酋表示，已经开始调查这起事件。"
+    },
+    {
+      "id": 153,
+      "startMs": 827801,
+      "endMs": 831161,
+      "en": "Our correspondent Yolande Knell, who's in Jerusalem, gave us this update.",
+      "zh": "我们的记者 Yolande Knell 在耶路撒冷发来了最新消息。"
+    },
+    {
+      "id": 154,
+      "startMs": 831481,
+      "endMs": 835721,
+      "en": "The Israeli intelligence agencies have been looking into this, as you would expect.",
+      "zh": "正如预期，以色列情报机构一直在调查此事。"
+    },
+    {
+      "id": 155,
+      "startMs": 835801,
+      "endMs": 840441,
+      "en": "They have interviewed many of those Israeli passengers who came back on the flight",
+      "zh": "他们已经询问了许多乘坐该航班返回的以色列乘客，"
+    },
+    {
+      "id": 156,
+      "startMs": 840441,
+      "endMs": 842681,
+      "en": "from Saudi Arabia a short time ago.",
+      "zh": "这些乘客不久前从沙特阿拉伯返程。"
+    },
+    {
+      "id": 157,
+      "startMs": 842681,
+      "endMs": 851481,
+      "en": "The Israeli envoy to the United Arab Emirates said that at the moment the motivation of this alleged attacker is still not determined.",
+      "zh": "以色列驻阿联酋特使说，目前仍无法确定这名所谓袭击者的动机。"
+    },
+    {
+      "id": 158,
+      "startMs": 851801,
+      "endMs": 858841,
+      "en": "Now we understand that the Saudi authorities were the first ones to interrogate the co-pilot",
+      "zh": "目前我们了解到，沙特当局率先审问了副驾驶，"
+    },
+    {
+      "id": 159,
+      "startMs": 858841,
+      "endMs": 866601,
+      "en": "and an Israeli security source told us that there was initial information that was then passed across to the Israelis.",
+      "zh": "一名以色列安全部门消息人士告诉我们，最初获得的信息随后传给了以色列方面。"
+    },
+    {
+      "id": 160,
+      "startMs": 866681,
+      "endMs": 872041,
+      "en": "Even though Israel and Saudi Arabia do not have official diplomatic relations.",
+      "zh": "尽管以色列和沙特阿拉伯没有正式外交关系。"
+    },
+    {
+      "id": 161,
+      "startMs": 872281,
+      "endMs": 880041,
+      "en": "Mr Netanyahu said that he expected the pilot, the co-pilot to be handed back to the United Arab Emirates.",
+      "zh": "内塔尼亚胡先生说，他预计飞行员和副驾驶会被交还给阿联酋。"
+    },
+    {
+      "id": 162,
+      "startMs": 880361,
+      "endMs": 884281,
+      "en": "And of course, the questions that will be asked are about his background",
+      "zh": "当然，人们会询问他的背景，"
+    },
+    {
+      "id": 163,
+      "startMs": 884521,
+      "endMs": 889501,
+      "en": "whether he could have been working with any kind of an armed group or any state actor.",
+      "zh": "包括他是否可能与某个武装组织或国家行为体合作。"
+    },
+    {
+      "id": 164,
+      "startMs": 889821,
+      "endMs": 894301,
+      "en": "He is said to be an Omani national and that is very important too",
+      "zh": "据称他是阿曼国民，这一点也很重要，"
+    },
+    {
+      "id": 165,
+      "startMs": 894301,
+      "endMs": 899421,
+      "en": "because Oman is a country that does not have diplomatic relations with Israel either.",
+      "zh": "因为阿曼同样是一个与以色列没有外交关系的国家。"
+    },
+    {
+      "id": 166,
+      "startMs": 899421,
+      "endMs": 906461,
+      "en": "So there are questions being asked about why he was given approval to come on this flight to Israel.",
+      "zh": "因此，人们在追问他为何获准乘坐这趟飞往以色列的航班。"
+    },
+    {
+      "id": 167,
+      "startMs": 906701,
+      "endMs": 913101,
+      "en": "And at the moment Israel has said it's increasing the security checks that it carries out on pilots, on crews.",
+      "zh": "目前以色列表示，正在加强对飞行员和机组人员的安全检查。"
+    },
+    {
+      "id": 168,
+      "startMs": 913501,
+      "endMs": 918461,
+      "en": "And, you know, we haven't had more clarification about exactly who this man was.",
+      "zh": "我们还没有得到关于此人身份的进一步说明。"
+    },
+    {
+      "id": 169,
+      "startMs": 918461,
+      "endMs": 921261,
+      "en": "He's not even been named at the moment.",
+      "zh": "目前甚至还不知道他的名字。"
+    },
+    {
+      "id": 170,
+      "startMs": 921581,
+      "endMs": 926221,
+      "en": "But all of this is really feeding into a very sort of sensitive moment in Israel.",
+      "zh": "但这一切正发生在以色列一个十分敏感的时刻。"
+    },
+    {
+      "id": 171,
+      "startMs": 926541,
+      "endMs": 933661,
+      "en": "You've got, you know, the third anniversary coming up of the deadly Hamas-led attacks on Israel just next week",
+      "zh": "下周将迎来哈马斯主导的致命袭击以色列事件三周年，"
+    },
+    {
+      "id": 172,
+      "startMs": 933901,
+      "endMs": 936141,
+      "en": "and then at the end of this month, it's going into a",
+      "zh": "本月底还将进入一场"
+    },
+    {
+      "id": 173,
+      "startMs": 936141,
+      "endMs": 939341,
+      "en": "tightly fought election where security has been a major issue.",
+      "zh": "竞争激烈的选举，安全问题一直是重要议题。"
+    },
+    {
+      "id": 174,
+      "startMs": 939741,
+      "endMs": 941181,
+      "en": "Yolande Knell in Jerusalem.",
+      "zh": "Yolande Knell 在耶路撒冷报道。"
+    },
+    {
+      "id": 175,
+      "startMs": 942061,
+      "endMs": 947261,
+      "en": "Despite the US-brokered ceasefire in Gaza, people there face almost daily attacks.",
+      "zh": "尽管加沙有美国斡旋达成的停火，当地民众几乎每天仍面临袭击。"
+    },
+    {
+      "id": 176,
+      "startMs": 947821,
+      "endMs": 952061,
+      "en": "According to Gaza's health ministry, more than 1,400 Palestinians have been killed",
+      "zh": "据加沙卫生部门称，已有超过1400名巴勒斯坦人丧生"
+    },
+    {
+      "id": 177,
+      "startMs": 952061,
+      "endMs": 956461,
+      "en": "by Israeli strikes since the October 2025 ceasefire began.",
+      "zh": "他们死于以色列的袭击，时间始于2025年10月停火以来。"
+    },
+    {
+      "id": 178,
+      "startMs": 957261,
+      "endMs": 959821,
+      "en": "Much of Gaza's healthcare system has been destroyed.",
+      "zh": "加沙大部分医疗体系已经被摧毁。"
+    },
+    {
+      "id": 179,
+      "startMs": 960221,
+      "endMs": 965021,
+      "en": "Doctors who've been travelling to Gaza say Israel's restrictions on vital medical supplies",
+      "zh": "前往加沙的医生说，以色列对重要医疗物资的限制"
+    },
+    {
+      "id": 180,
+      "startMs": 965021,
+      "endMs": 967341,
+      "en": "have placed further strain on patients.",
+      "zh": "进一步加重了患者的负担。"
+    },
+    {
+      "id": 181,
+      "startMs": 967821,
+      "endMs": 973181,
+      "en": "Israel's authorities deny this and say that they do not place limits on medicine imports.",
+      "zh": "以色列当局否认这一点，称他们没有限制药品进口。"
+    },
+    {
+      "id": 182,
+      "startMs": 973741,
+      "endMs": 979901,
+      "en": "Dr Nareen Ahmed is a critical care physician who returned earlier this month from volunteering in Gaza.",
+      "zh": "纳琳·艾哈迈德医生是一名重症监护医生，本月早些时候结束在加沙的志愿工作返回。"
+    },
+    {
+      "id": 183,
+      "startMs": 980301,
+      "endMs": 983181,
+      "en": "He spoke to my colleague James Copnall about what he saw there.",
+      "zh": "他向我的同事詹姆斯·科普诺尔讲述了在那里看到的情况。"
+    },
+    {
+      "id": 184,
+      "startMs": 983821,
+      "endMs": 987981,
+      "en": "We're about one year out from the ceasefire, and every single day",
+      "zh": "停火已经过去近一年，而几乎每一天"
+    },
+    {
+      "id": 185,
+      "startMs": 988301,
+      "endMs": 994701,
+      "en": "I was seeing victims of airstrikes, of quadcopter shootings. I remember a four-and-a-half-year-old in particular who was shot in the head",
+      "zh": "我都看到空袭和四旋翼无人机射击的受害者。我尤其记得一个四岁半的孩子，他头部中枪"
+    },
+    {
+      "id": 186,
+      "startMs": 994701,
+      "endMs": 997581,
+      "en": "by a quadcopter, and",
+      "zh": "是被四旋翼无人机射中的，而且"
+    },
+    {
+      "id": 187,
+      "startMs": 997581,
+      "endMs": 1000701,
+      "en": "the CT scan showed the bullet is still in his brain.",
+      "zh": "CT扫描显示子弹仍在他的脑中。"
+    },
+    {
+      "id": 188,
+      "startMs": 1000941,
+      "endMs": 1003361,
+      "en": "I fall asleep seeing that image in my head.",
+      "zh": "我入睡时，脑海里总是浮现那幅画面。"
+    },
+    {
+      "id": 189,
+      "startMs": 1003361,
+      "endMs": 1005761,
+      "en": "This child had so much brain swelling",
+      "zh": "这个孩子的脑部严重肿胀"
+    },
+    {
+      "id": 190,
+      "startMs": 1005841,
+      "endMs": 1009921,
+      "en": "that unfortunately no neurosurgeon was able to do anything.",
+      "zh": "不幸的是，没有神经外科医生能够救治。"
+    },
+    {
+      "id": 191,
+      "startMs": 1010161,
+      "endMs": 1013601,
+      "en": "Unfortunately, he didn't survive, and he was not the only child.",
+      "zh": "不幸的是，他没有活下来；而且他不是唯一一个这样的孩子。"
+    },
+    {
+      "id": 192,
+      "startMs": 1013681,
+      "endMs": 1020641,
+      "en": "I remember being in the emergency room after an airstrike that happened close to the beach, and there was a two-year-old who was alive",
+      "zh": "我记得一次靠近海滩的空袭后，我在急诊室里，那里有一个两岁的孩子还活着"
+    },
+    {
+      "id": 193,
+      "startMs": 1020721,
+      "endMs": 1024481,
+      "en": "for maybe a brief few moments when I walked into the emergency room,",
+      "zh": "我走进急诊室时，他也许只短暂地活了几分钟，"
+    },
+    {
+      "id": 194,
+      "startMs": 1024801,
+      "endMs": 1027521,
+      "en": "and within minutes lost a pulse.",
+      "zh": "几分钟内就失去了脉搏。"
+    },
+    {
+      "id": 195,
+      "startMs": 1027601,
+      "endMs": 1032721,
+      "en": "His injuries were so severe that he didn't survive, and his body had to be moved",
+      "zh": "他的伤势太重，没能活下来，遗体不得不被移走"
+    },
+    {
+      "id": 196,
+      "startMs": 1032721,
+      "endMs": 1038241,
+      "en": "out of the resuscitation area to another area because we were so swamped that there wasn't even a moment to grieve.",
+      "zh": "从复苏区转移到另一个区域，因为我们忙得不可开交，甚至没有片刻时间悲伤。"
+    },
+    {
+      "id": 197,
+      "startMs": 1038641,
+      "endMs": 1042241,
+      "en": "What are the sorts of conditions you are working in,",
+      "zh": "你工作的环境是什么样的，"
+    },
+    {
+      "id": 198,
+      "startMs": 1042241,
+      "endMs": 1048081,
+      "en": "the facilities and medications and so on you have to deal with those kinds of cases?",
+      "zh": "你需要依靠怎样的设施、药物等条件来处理这些病例？"
+    },
+    {
+      "id": 199,
+      "startMs": 1048321,
+      "endMs": 1054241,
+      "en": "The hard thing is that we are at a point where we are not only just seeing death from traumatic injuries,",
+      "zh": "困难在于，我们现在看到的不只是创伤导致的死亡，"
+    },
+    {
+      "id": 200,
+      "startMs": 1054641,
+      "endMs": 1060561,
+      "en": "but we're also seeing death from non-violent injuries just because we don't have proper medications.",
+      "zh": "还看到非暴力伤害造成的死亡，仅仅因为我们没有合适的药物。"
+    },
+    {
+      "id": 201,
+      "startMs": 1061041,
+      "endMs": 1063621,
+      "en": "We had a patient that came in. She was forty-five years old.",
+      "zh": "我们曾接收过一名45岁的患者。"
+    },
+    {
+      "id": 202,
+      "startMs": 1063941,
+      "endMs": 1068101,
+      "en": "She was actively having a heart attack, and we didn't have the stents or the catheters",
+      "zh": "她正在经历心脏病发作，但我们没有支架或导管"
+    },
+    {
+      "id": 203,
+      "startMs": 1068421,
+      "endMs": 1071301,
+      "en": "to be able to save her life from having this heart attack.",
+      "zh": "无法挽救她的生命，让她挺过这次心脏病发作。"
+    },
+    {
+      "id": 204,
+      "startMs": 1071781,
+      "endMs": 1074501,
+      "en": "This was a common theme that we were seeing:",
+      "zh": "这是我们反复看到的共同情形："
+    },
+    {
+      "id": 205,
+      "startMs": 1074581,
+      "endMs": 1080261,
+      "en": "people coming in with cardiac arrest, meaning that their hearts had stopped because they didn't have access to medications.",
+      "zh": "人们因心脏骤停入院，也就是说，他们的心脏已经停止跳动，因为无法获得药物。"
+    },
+    {
+      "id": 206,
+      "startMs": 1080741,
+      "endMs": 1083701,
+      "en": "It's the moral injury that doctors and nurses are facing",
+      "zh": "医生和护士面对的是一种道德创伤，"
+    },
+    {
+      "id": 207,
+      "startMs": 1083781,
+      "endMs": 1089221,
+      "en": "from seeing death from incredibly preventable illnesses; it's another type of trauma.",
+      "zh": "他们眼看着本可避免的疾病导致死亡，这是另一种创伤。"
+    },
+    {
+      "id": 208,
+      "startMs": 1089621,
+      "endMs": 1093621,
+      "en": "I saw a woman die of a scalp infection, which is a treatable thing,",
+      "zh": "我见过一名女性死于头皮感染，这本来是可以治疗的，"
+    },
+    {
+      "id": 209,
+      "startMs": 1093701,
+      "endMs": 1096741,
+      "en": "but it was because she didn't have access to her diabetic medications.",
+      "zh": "但她无法获得治疗糖尿病的药物。"
+    },
+    {
+      "id": 210,
+      "startMs": 1097061,
+      "endMs": 1101141,
+      "en": "The infection became out of control because she was chronically malnourished,",
+      "zh": "感染失去控制，因为她长期营养不良，"
+    },
+    {
+      "id": 211,
+      "startMs": 1101461,
+      "endMs": 1103861,
+      "en": "which is another problem we're seeing in almost everybody.",
+      "zh": "这也是我们几乎在每个人身上都看到的另一个问题。"
+    },
+    {
+      "id": 212,
+      "startMs": 1104181,
+      "endMs": 1108821,
+      "en": "That infection went absolutely uncontrolled, and she died from multi-organ failure within days.",
+      "zh": "感染完全失控，她在几天内因多器官衰竭死亡。"
+    },
+    {
+      "id": 213,
+      "startMs": 1109381,
+      "endMs": 1115781,
+      "en": "Not one child I've seen looks their stated age, and so they're coming in with complex infections, pneumonias especially.",
+      "zh": "我见过的孩子没有一个看起来像其所说的年龄，他们入院时都有复杂感染，尤其是肺炎。"
+    },
+    {
+      "id": 214,
+      "startMs": 1115781,
+      "endMs": 1121461,
+      "en": "These are complications that happen when there's severe malnutrition from prolonged food deprivation.",
+      "zh": "这些并发症发生在长期缺乏食物导致严重营养不良时。"
+    },
+    {
+      "id": 215,
+      "startMs": 1121461,
+      "endMs": 1125081,
+      "en": "And so, very basic infections are completely out of control",
+      "zh": "因此，一些非常基本的感染也完全失控"
+    },
+    {
+      "id": 216,
+      "startMs": 1125081,
+      "endMs": 1129561,
+      "en": "because effectively, when your body is malnourished, your immune system doesn't work properly.",
+      "zh": "因为身体营养不良时，免疫系统实际上无法正常工作。"
+    },
+    {
+      "id": 217,
+      "startMs": 1129561,
+      "endMs": 1133241,
+      "en": "We're seeing that across the board on pretty much every age group,",
+      "zh": "我们几乎在各个年龄段都看到了这种情况，"
+    },
+    {
+      "id": 218,
+      "startMs": 1133561,
+      "endMs": 1137641,
+      "en": "but the age group most affected is children and the elderly,",
+      "zh": "但受影响最严重的是儿童和老年人，"
+    },
+    {
+      "id": 219,
+      "startMs": 1137641,
+      "endMs": 1141161,
+      "en": "and then pregnant women, especially. Dr Nareen Ahmed.",
+      "zh": "其次是孕妇，尤其如此。纳琳·艾哈迈德医生。"
+    },
+    {
+      "id": 220,
+      "startMs": 1142181,
+      "endMs": 1146741,
+      "en": "It seems there are few areas where AI has not become a source of controversy.",
+      "zh": "看来几乎没有哪个领域尚未受到人工智能争议的影响。"
+    },
+    {
+      "id": 221,
+      "startMs": 1147381,
+      "endMs": 1152581,
+      "en": "The winning entry of a prestigious scientific photography competition is being re-evaluated",
+      "zh": "一项著名科学摄影比赛的获奖作品正在被重新评估，"
+    },
+    {
+      "id": 222,
+      "startMs": 1152661,
+      "endMs": 1156421,
+      "en": "following criticism from other scientists that it was made with AI.",
+      "zh": "此前其他科学家批评它是用人工智能制作的。"
+    },
+    {
+      "id": 223,
+      "startMs": 1157061,
+      "endMs": 1162501,
+      "en": "The image is meant to show footage of tiny hair-like structures called cilia",
+      "zh": "这幅图像旨在展示一种名为纤毛的细小毛发状结构的影像"
+    },
+    {
+      "id": 224,
+      "startMs": 1162741,
+      "endMs": 1166261,
+      "en": "moving inside the airways of a child with a rare disease.",
+      "zh": "它们在一名罕见病患儿的气道内移动。"
+    },
+    {
+      "id": 225,
+      "startMs": 1166741,
+      "endMs": 1170181,
+      "en": "Our technology and AI editor Zoe Kleinman has the details.",
+      "zh": "我们的科技与人工智能编辑佐伊·克莱因曼将介绍详情。"
+    },
+    {
+      "id": 226,
+      "startMs": 1170501,
+      "endMs": 1174181,
+      "en": "To the uninitiated, it does look a bit like a few blades of grass waving about",
+      "zh": "对不了解情况的人来说，它看起来有点像几片摇曳的草叶"
+    },
+    {
+      "id": 227,
+      "startMs": 1174181,
+      "endMs": 1179941,
+      "en": "in this very short video, but it is in fact these very tiny hairs in the airways of a child.",
+      "zh": "在这段很短的视频中；但事实上，那是孩子气道内极其细小的毛发。"
+    },
+    {
+      "id": 228,
+      "startMs": 1180261,
+      "endMs": 1183061,
+      "en": "But there has been quite considerable backlash, actually.",
+      "zh": "不过，实际上这引发了相当大的反弹。"
+    },
+    {
+      "id": 229,
+      "startMs": 1183061,
+      "endMs": 1187061,
+      "en": "It won this competition run by Nikon, which is quite a prestigious award.",
+      "zh": "它赢得了由 Nikon 主办的这项比赛；这是一项颇具声望的奖项。"
+    },
+    {
+      "id": 230,
+      "startMs": 1187061,
+      "endMs": 1190981,
+      "en": "It's called Small World in Motion. It's run every year for the last 15 years.",
+      "zh": "比赛名为 Small World in Motion，已连续举办15年。"
+    },
+    {
+      "id": 231,
+      "startMs": 1190981,
+      "endMs": 1198421,
+      "en": "It was submitted by an optical engineer in China called Dr Ning Xu, who insists that he hasn't done anything wrong.",
+      "zh": "作品由中国的一名光学工程师 Ning Xu 博士提交；他坚称自己没有做错任何事。"
+    },
+    {
+      "id": 232,
+      "startMs": 1198421,
+      "endMs": 1201621,
+      "en": "He says AI was used in some of the processing after the event,",
+      "zh": "他说，活动结束后，部分处理环节使用了人工智能，"
+    },
+    {
+      "id": 233,
+      "startMs": 1202041,
+      "endMs": 1204361,
+      "en": "but was not used to generate the image.",
+      "zh": "但生成图像时并未使用人工智能。"
+    },
+    {
+      "id": 234,
+      "startMs": 1204681,
+      "endMs": 1210281,
+      "en": "That, however, is not satisfying a number of scientists who have taken to LinkedIn",
+      "zh": "不过，这无法令一些已经在领英上发声的科学家满意。"
+    },
+    {
+      "id": 235,
+      "startMs": 1210281,
+      "endMs": 1215401,
+      "en": "They say the image Nikon published has a number of things that don't look right.",
+      "zh": "他们说，尼康公布的这张图像有不少地方看起来不对劲。"
+    },
+    {
+      "id": 236,
+      "startMs": 1215481,
+      "endMs": 1220601,
+      "en": "The structures don't look right; they're not behaving the way things like nuclei usually behave.",
+      "zh": "这些结构看起来不对，它们的行为也不像细胞核通常的表现。"
+    },
+    {
+      "id": 237,
+      "startMs": 1220841,
+      "endMs": 1224201,
+      "en": "One scientist has commented that the cilia look exceptionally large.",
+      "zh": "一位科学家评论说，这些纤毛看起来异常巨大。"
+    },
+    {
+      "id": 238,
+      "startMs": 1224441,
+      "endMs": 1230441,
+      "en": "Now, of course, this is a cell from a child who's unwell, so of course it's quite possible that they're not behaving normally.",
+      "zh": "当然，这是来自一名患病儿童的细胞，所以它们的表现不正常也是完全可能的。"
+    },
+    {
+      "id": 239,
+      "startMs": 1230761,
+      "endMs": 1234921,
+      "en": "But the criticism has been so fierce, including from former judges of the competition itself.",
+      "zh": "但批评声非常猛烈，连这项比赛的前评委也加入其中。"
+    },
+    {
+      "id": 240,
+      "startMs": 1235401,
+      "endMs": 1240681,
+      "en": "Nikon says it's now re-evaluating. It says Dr Ning Xu is respectfully complying with its wishes.",
+      "zh": "尼康表示正在重新评估，并称 Ning Xu 博士正配合其要求。"
+    },
+    {
+      "id": 241,
+      "startMs": 1241001,
+      "endMs": 1245081,
+      "en": "He provided more documentation about how the image was created.",
+      "zh": "他提供了更多关于这张图像制作过程的文件。"
+    },
+    {
+      "id": 242,
+      "startMs": 1245401,
+      "endMs": 1250041,
+      "en": "They don't think the rules have been violated, but we should hear more by the end of the week, says Zoe Kleinman.",
+      "zh": "他们认为规则并未被违反，但到本周末应会有更多消息。佐伊·克莱因曼报道。"
+    },
+    {
+      "id": 243,
+      "startMs": 1251281,
+      "endMs": 1257681,
+      "en": "Sake is Japan's national drink, and on the 1st of October it is World Sake Day.",
+      "zh": "清酒是日本的国酒，而10月1日是世界清酒日。"
+    },
+    {
+      "id": 244,
+      "startMs": 1257921,
+      "endMs": 1261601,
+      "en": "It's celebrated every year to mark the start of the sake brewing season.",
+      "zh": "人们每年庆祝这一天，以标志清酒酿造季的开始。"
+    },
+    {
+      "id": 245,
+      "startMs": 1262081,
+      "endMs": 1264561,
+      "en": "But there is little to celebrate at the moment.",
+      "zh": "但眼下几乎没有什么值得庆祝的。"
+    },
+    {
+      "id": 246,
+      "startMs": 1264961,
+      "endMs": 1269681,
+      "en": "Since the 1970s, sales inside the country have fallen by more than two-thirds.",
+      "zh": "自20世纪70年代以来，日本国内的清酒销量已经下降了三分之二以上。"
+    },
+    {
+      "id": 247,
+      "startMs": 1270081,
+      "endMs": 1273121,
+      "en": "I found out more from our Tokyo correspondent Kurumi Mori.",
+      "zh": "东京记者森久留美作了进一步介绍。"
+    },
+    {
+      "id": 248,
+      "startMs": 1273281,
+      "endMs": 1277201,
+      "en": "Sake is Japan's traditional fermented rice alcohol.",
+      "zh": "清酒是日本传统的发酵米酒。"
+    },
+    {
+      "id": 249,
+      "startMs": 1277761,
+      "endMs": 1281681,
+      "en": "It's made with really four ingredients, so it's quite simple.",
+      "zh": "它实际上只用四种原料酿制，所以相当简单。"
+    },
+    {
+      "id": 250,
+      "startMs": 1282161,
+      "endMs": 1286161,
+      "en": "And it's the first traditional real alcohol that Japan had.",
+      "zh": "它是日本最早的传统酒类。"
+    },
+    {
+      "id": 251,
+      "startMs": 1286401,
+      "endMs": 1291441,
+      "en": "It's made with rice, water, yeast and koji, which is a type of mold that we use in Japan.",
+      "zh": "它用大米、水、酵母和曲霉制成；曲霉是日本使用的一种霉菌。"
+    },
+    {
+      "id": 252,
+      "startMs": 1291841,
+      "endMs": 1296241,
+      "en": "But the industry is facing quite a long-term decline in Japan.",
+      "zh": "但这个行业在日本正面临相当长期的衰退。"
+    },
+    {
+      "id": 253,
+      "startMs": 1296241,
+      "endMs": 1300321,
+      "en": "I don't necessarily simply want to say it's dying; I would say it's changing.",
+      "zh": "我不想简单地说它正在消亡，我会说它正在改变。"
+    },
+    {
+      "id": 254,
+      "startMs": 1300321,
+      "endMs": 1307921,
+      "en": "But of course, Japan has had falling domestic sake production year on year for more than a decade now.",
+      "zh": "当然，日本国内的清酒产量已经逐年下降，而且持续十多年了。"
+    },
+    {
+      "id": 255,
+      "startMs": 1308001,
+      "endMs": 1310881,
+      "en": "The number of sake breweries has really fallen.",
+      "zh": "清酒酿造厂的数量也大幅减少。"
+    },
+    {
+      "id": 256,
+      "startMs": 1310901,
+      "endMs": 1315861,
+      "en": "I mean, it used to be around 30,000, although that was in the early 19th century, so quite a long time ago.",
+      "zh": "我的意思是，早期曾有大约3万家，不过那是在19世纪初，已经是很久以前了。"
+    },
+    {
+      "id": 257,
+      "startMs": 1316181,
+      "endMs": 1319141,
+      "en": "But now we only have about 1,300 domestically.",
+      "zh": "但如今日本国内只剩下大约1300家。"
+    },
+    {
+      "id": 258,
+      "startMs": 1319381,
+      "endMs": 1322581,
+      "en": "When I spoke to some sake brewers, they said",
+      "zh": "我和一些清酒酿酒师交谈时，他们说"
+    },
+    {
+      "id": 259,
+      "startMs": 1322581,
+      "endMs": 1327381,
+      "en": "you know, it's just such a tough environment to be in,",
+      "zh": "你知道，眼下的环境实在太艰难了。"
+    },
+    {
+      "id": 260,
+      "startMs": 1327381,
+      "endMs": 1334821,
+      "en": "and not only that, there's a lot of craft involved, craftsmanship and teaching these toji, which are these sake masters.",
+      "zh": "不仅如此，这还涉及大量技艺和工艺，以及对这些酿酒大师——杜氏的培养。"
+    },
+    {
+      "id": 261,
+      "startMs": 1334821,
+      "endMs": 1340741,
+      "en": "It takes a long time to train them up, and so they feel like they're kind of in a pinch at the moment.",
+      "zh": "培养他们需要很长时间，所以他们觉得目前正处于困境之中。"
+    },
+    {
+      "id": 262,
+      "startMs": 1341141,
+      "endMs": 1344901,
+      "en": "But the biggest problems here are Japan's aging and shrinking population.",
+      "zh": "但这里最大的问题是日本人口老龄化和人口减少。"
+    },
+    {
+      "id": 263,
+      "startMs": 1344901,
+      "endMs": 1348981,
+      "en": "Right, fewer people make sake, and fewer people drink it.",
+      "zh": "没错，酿造清酒和饮用清酒的人都少了。"
+    },
+    {
+      "id": 264,
+      "startMs": 1348981,
+      "endMs": 1357141,
+      "en": "Karim, you spoke to Ishikawa Brewery's head in Tokyo, Yoshihiro Ishikawa.",
+      "zh": "卡里姆，你采访了东京石川酒造的负责人石川义博。"
+    },
+    {
+      "id": 265,
+      "startMs": 1358581,
+      "endMs": 1361061,
+      "en": "Let's hear what you discussed.",
+      "zh": "我们来听听你们谈了些什么。"
+    },
+    {
+      "id": 266,
+      "startMs": 1361061,
+      "endMs": 1368181,
+      "en": "After Japan opened up to foreign trade,",
+      "zh": "日本开放对外贸易后，"
+    },
+    {
+      "id": 267,
+      "startMs": 1368501,
+      "endMs": 1371641,
+      "en": "beer, wine and whiskey entered the market.",
+      "zh": "啤酒、葡萄酒和威士忌进入了市场。"
+    },
+    {
+      "id": 268,
+      "startMs": 1372361,
+      "endMs": 1374681,
+      "en": "That's reduced the reliance on sake.",
+      "zh": "这减少了人们对清酒的依赖。"
+    },
+    {
+      "id": 269,
+      "startMs": 1376041,
+      "endMs": 1379721,
+      "en": "Also, today young generations don't drink as much as we did.",
+      "zh": "此外，如今的年轻一代不像我们当年那样常喝酒。"
+    },
+    {
+      "id": 270,
+      "startMs": 1379721,
+      "endMs": 1387241,
+      "en": "Yeah, so when I was speaking to him, he really alluded to the fact that,",
+      "zh": "是的，我和他交谈时，他确实暗示，"
+    },
+    {
+      "id": 271,
+      "startMs": 1387241,
+      "endMs": 1389801,
+      "en": "you know, the trends have really shifted,",
+      "zh": "你知道，消费趋势已经发生了很大变化，"
+    },
+    {
+      "id": 272,
+      "startMs": 1390201,
+      "endMs": 1395481,
+      "en": "And he's doing many different things to try to revive this market. What kind of things is he trying to do?",
+      "zh": "他正在采取各种措施，试图重振这个市场。他在尝试做些什么呢？"
+    },
+    {
+      "id": 273,
+      "startMs": 1395721,
+      "endMs": 1399241,
+      "en": "Yeah, I mean, I think there are a few things that Japanese brewers are doing.",
+      "zh": "我想，日本酿酒商正在采取几项措施。"
+    },
+    {
+      "id": 274,
+      "startMs": 1399241,
+      "endMs": 1401401,
+      "en": "The first was going premium,",
+      "zh": "第一点是走高端路线，"
+    },
+    {
+      "id": 275,
+      "startMs": 1401401,
+      "endMs": 1406681,
+      "en": "so moving away from the cheaper everyday sake that a lot of people were drinking.",
+      "zh": "也就是摆脱许多人过去饮用的廉价日常清酒。"
+    },
+    {
+      "id": 276,
+      "startMs": 1406681,
+      "endMs": 1409721,
+      "en": "A bottle can cost twelve and a half thousand dollars.",
+      "zh": "这种酒一瓶可以卖到12500美元。"
+    },
+    {
+      "id": 277,
+      "startMs": 1409961,
+      "endMs": 1413801,
+      "en": "Before we go, do you like a little tipple—a little sake?",
+      "zh": "节目结束前我得问问你：喜欢小酌一杯清酒吗？"
+    },
+    {
+      "id": 278,
+      "startMs": 1414281,
+      "endMs": 1418921,
+      "en": "Absolutely, who doesn't? I am Japanese, so got to always have a taste. Kurumi Mori.",
+      "zh": "当然，谁不喜欢呢？我是日本人，所以总得尝上一口。森久留美。"
+    },
+    {
+      "id": 279,
+      "startMs": 1421541,
+      "endMs": 1427141,
+      "en": "And that's all from us for now. If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "今天的节目就到这里。如果想联系我们，可以发邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 280,
+      "startMs": 1427141,
+      "endMs": 1433381,
+      "en": "You can also watch our episodes in full; just search for the Global News Podcast on YouTube.",
+      "zh": "你也可以在YouTube上搜索Global News Podcast，观看完整节目。"
+    },
+    {
+      "id": 281,
+      "startMs": 1434101,
+      "endMs": 1437381,
+      "en": "This edition was mixed by Nicola Brough and the producer was Ira Khan.",
+      "zh": "本期节目由Nicola Brough混音，制片人是Ira Khan。"
+    },
+    {
+      "id": 282,
+      "startMs": 1437861,
+      "endMs": 1441861,
+      "en": "The editor is Karen Martin. I'm Nick Miles, and until next time, goodbye.",
+      "zh": "编辑是Karen Martin。我是Nick Miles，我们下期再见。"
+    }
+  ]
+}
