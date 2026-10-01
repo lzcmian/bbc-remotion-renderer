@@ -1,0 +1,1628 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "25 September 2026"
+  },
+  "durationMs": 1376980,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3600,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 4780,
+      "endMs": 11500,
+      "en": "I'm Alex Ritson, and in the early hours of Friday the 25th of September, these are our main stories.",
+      "zh": "我是亚历克斯·里特森。9月25日星期五凌晨，这些是我们的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11500,
+      "endMs": 17980,
+      "en": "A mass walkout at the UN as Benjamin Netanyahu gives a robust defence of Israel's actions in Gaza,",
+      "zh": "本雅明·内塔尼亚胡为以色列在加沙的行动强力辩护时，联合国出现大规模退场，"
+    },
+    {
+      "id": 4,
+      "startMs": 18460,
+      "endMs": 24140,
+      "en": "while Palestinian leader Mahmoud Abbas said Israel threatened the very existence of his people.",
+      "zh": "巴勒斯坦领导人马哈茂德·阿巴斯则说，以色列威胁到他的人民生存的根本。"
+    },
+    {
+      "id": 5,
+      "startMs": 24700,
+      "endMs": 29180,
+      "en": "Italy's parliament bans girls wearing the burqa and niqab in schools.",
+      "zh": "意大利议会禁止女生在学校穿戴罩袍和面纱。"
+    },
+    {
+      "id": 6,
+      "startMs": 32120,
+      "endMs": 40280,
+      "en": "Also in this podcast, this is an example for speech shaping the brain of a non-human animal.",
+      "zh": "本期节目还将介绍一个例子：语言如何塑造非人类动物的大脑。"
+    },
+    {
+      "id": 7,
+      "startMs": 40280,
+      "endMs": 44040,
+      "en": "Animals that don't have such complex linguistic abilities can get there.",
+      "zh": "没有如此复杂语言能力的动物也能做到这一点。"
+    },
+    {
+      "id": 8,
+      "startMs": 44520,
+      "endMs": 50440,
+      "en": "Forget walkies, new evidence dogs can tell the difference between consonants and vowels.",
+      "zh": "别只想到遛狗，新的证据显示，狗能分辨辅音和元音。"
+    },
+    {
+      "id": 9,
+      "startMs": 50440,
+      "endMs": 53720,
+      "en": "Reports say around 100 protesters have been detained.",
+      "zh": "据报道，约100名抗议者已被拘留。"
+    },
+    {
+      "id": 10,
+      "startMs": 53960,
+      "endMs": 59560,
+      "en": "After gathering en masse ahead of Benjamin Netanyahu's appearance before the UN General Assembly.",
+      "zh": "他们是在本雅明·内塔尼亚胡出席联合国大会前大规模集会后被拘留的。"
+    },
+    {
+      "id": 11,
+      "startMs": 61180,
+      "endMs": 66220,
+      "en": "If you refuse to use the sidewalk, you will be placed under arrest.",
+      "zh": "如果拒绝使用人行道，你将被逮捕。"
+    },
+    {
+      "id": 12,
+      "startMs": 67340,
+      "endMs": 76380,
+      "en": "Hollywood stars, including Susan Sarandon, were taken away by police after chanting for Mr Netanyahu's arrest outside the UN headquarters.",
+      "zh": "包括苏珊·萨兰登在内的好莱坞明星在联合国总部外高喊要求逮捕内塔尼亚胡，随后被警方带走。"
+    },
+    {
+      "id": 13,
+      "startMs": 76620,
+      "endMs": 86060,
+      "en": "Inside, protests too for the second year in a row, with delegations streaming out of the chambers as the Israeli prime minister took to the stage.",
+      "zh": "会场内也连续第二年发生抗议，以色列总理登台时，各国代表团纷纷走出会场。"
+    },
+    {
+      "id": 14,
+      "startMs": 86860,
+      "endMs": 91820,
+      "en": "Order in the hall, please. Order in the hall, please.",
+      "zh": "请保持会场秩序。请保持会场秩序。"
+    },
+    {
+      "id": 15,
+      "startMs": 95300,
+      "endMs": 101540,
+      "en": "If there are any other moral cowards who haven't yet left this hall, please do so now.",
+      "zh": "如果还有其他尚未离开会场的道德懦夫，请现在离开。"
+    },
+    {
+      "id": 16,
+      "startMs": 102660,
+      "endMs": 110340,
+      "en": "Benjamin Netanyahu responding there. He went on to give a robust defence of his actions in Gaza and elsewhere in the Middle East.",
+      "zh": "本雅明·内塔尼亚胡在回应。他随后为自己在加沙及中东其他地区的行动进行了有力辩护。"
+    },
+    {
+      "id": 17,
+      "startMs": 110740,
+      "endMs": 113540,
+      "en": "Our Middle East analyst, Sebastian Usher, was watching.",
+      "zh": "我们的中东分析师塞巴斯蒂安·厄舍正在关注。"
+    },
+    {
+      "id": 18,
+      "startMs": 113940,
+      "endMs": 118340,
+      "en": "That was a big walkout, a lot of delegations, more than 70.",
+      "zh": "那是一次大规模退场，有很多代表团，超过70个。"
+    },
+    {
+      "id": 19,
+      "startMs": 118340,
+      "endMs": 121380,
+      "en": "But he used it to his advantage, I think you could say, Mr Netanyahu.",
+      "zh": "但可以说，内塔尼亚胡利用了这一点。"
+    },
+    {
+      "id": 20,
+      "startMs": 121540,
+      "endMs": 128740,
+      "en": "I mean, he's very adept at this. It's his ability to articulate and his power as a presenter.",
+      "zh": "我的意思是，他非常擅长这一点。他善于表达，也很有演说者的感染力。"
+    },
+    {
+      "id": 21,
+      "startMs": 128740,
+      "endMs": 134100,
+      "en": "That has made him so dominant in Israeli politics and such a forceful spokesman for Israel for so many years.",
+      "zh": "这让他多年来一直主导以色列政坛，成为以色列强有力的代言人。"
+    },
+    {
+      "id": 22,
+      "startMs": 134260,
+      "endMs": 140260,
+      "en": "So, as we heard there, he called them moral cowards, saying that they were the ones who essentially are on the wrong side of history.",
+      "zh": "所以，正如我们听到的，他称他们为道德懦夫，说他们实际上站在历史错误的一边。"
+    },
+    {
+      "id": 23,
+      "startMs": 140340,
+      "endMs": 142180,
+      "en": "He said Israel is on the right side of history.",
+      "zh": "他说，以色列站在历史正确的一边。"
+    },
+    {
+      "id": 24,
+      "startMs": 142580,
+      "endMs": 150820,
+      "en": "And their moral failure has been exposed by Israel and its leadership.",
+      "zh": "而他们表现出的道德失败，反而凸显了以色列及其领导层。"
+    },
+    {
+      "id": 25,
+      "startMs": 150980,
+      "endMs": 155220,
+      "en": "He had choices to make, and they were the right choices.",
+      "zh": "他当时必须作出选择，而那些是正确的选择。"
+    },
+    {
+      "id": 26,
+      "startMs": 155320,
+      "endMs": 158120,
+      "en": "These are points that he's made many times before.",
+      "zh": "这些都是他以前多次提出过的观点。"
+    },
+    {
+      "id": 27,
+      "startMs": 158360,
+      "endMs": 165480,
+      "en": "That for Israel, it has no choice but to win a war like this; it's got nowhere else to go.",
+      "zh": "也就是说，以色列在这样的战争中别无选择，只能取胜；它没有别的路可走。"
+    },
+    {
+      "id": 28,
+      "startMs": 165800,
+      "endMs": 169720,
+      "en": "He praised the Israeli people for the sacrifices they've made.",
+      "zh": "他赞扬以色列人民作出的牺牲。"
+    },
+    {
+      "id": 29,
+      "startMs": 170040,
+      "endMs": 175400,
+      "en": "I pledge a sacred vow: your sacrifice will not be in vain.",
+      "zh": "我庄严承诺：你们的牺牲不会白费。"
+    },
+    {
+      "id": 30,
+      "startMs": 176040,
+      "endMs": 184600,
+      "en": "We will continue to defend our state. We will continue to win because we have no other choice.",
+      "zh": "我们将继续保卫我们的国家。我们将继续取胜，因为我们别无选择。"
+    },
+    {
+      "id": 31,
+      "startMs": 185560,
+      "endMs": 191400,
+      "en": "He talked about the seven wars that Israel's fighting, and the eighth being about information and the truth.",
+      "zh": "他谈到以色列正在进行的七场战争，以及第八场关于信息与真相的战争。"
+    },
+    {
+      "id": 32,
+      "startMs": 191640,
+      "endMs": 198120,
+      "en": "And he accused those who say that Israel has committed genocide of telling a terrible lie, of being hypocrites.",
+      "zh": "他指责那些说以色列实施了种族灭绝的人在撒下可怕的谎言，是伪君子。"
+    },
+    {
+      "id": 33,
+      "startMs": 198120,
+      "endMs": 203720,
+      "en": "Because they don't protest against Iran; they don't protest, you know, against other conflicts.",
+      "zh": "因为他们不抗议伊朗，也不抗议其他冲突。"
+    },
+    {
+      "id": 34,
+      "startMs": 204440,
+      "endMs": 213000,
+      "en": "But that's kind of exasperation in a way, and I think it's more directed to a domestic Israeli audience, a sense of uniting around this.",
+      "zh": "但这在某种程度上是一种恼怒；我认为，这更多是针对以色列国内受众，意在围绕此事团结起来。"
+    },
+    {
+      "id": 35,
+      "startMs": 213480,
+      "endMs": 214680,
+      "en": "It's a double-edged sword.",
+      "zh": "这是一把双刃剑。"
+    },
+    {
+      "id": 36,
+      "startMs": 214680,
+      "endMs": 222780,
+      "en": "The isolation that Israel is now experiencing diplomatically, in terms of public opinion across the world, is pretty much unprecedented.",
+      "zh": "以色列目前在外交上经历的孤立，以及在全球舆论中的孤立，几乎前所未有。"
+    },
+    {
+      "id": 37,
+      "startMs": 222860,
+      "endMs": 228780,
+      "en": "And Mr Netanyahu could be held, and is held by a large number of people in Israel, responsible for that.",
+      "zh": "许多以色列人可能、也确实认为内塔尼亚胡应对此负责。"
+    },
+    {
+      "id": 38,
+      "startMs": 228780,
+      "endMs": 235660,
+      "en": "But at the same time, playing that card is also a way of unifying Israel, saying the world is turning against us.",
+      "zh": "但与此同时，打这张牌也能团结以色列，传达世界正在与我们为敌的说法。"
+    },
+    {
+      "id": 39,
+      "startMs": 235820,
+      "endMs": 238700,
+      "en": "And this all in the end revolves around the word genocide.",
+      "zh": "而这一切最终都围绕着“种族灭绝”这个词。"
+    },
+    {
+      "id": 40,
+      "startMs": 238700,
+      "endMs": 247820,
+      "en": "He used that in answering the growing number of people defining Israel's actions in Gaza as genocide, saying that's the biggest lie of all.",
+      "zh": "面对越来越多将以色列在加沙的行动定义为种族灭绝的人，他以此回应，说那是最大的谎言。"
+    },
+    {
+      "id": 41,
+      "startMs": 247820,
+      "endMs": 255820,
+      "en": "And that, in fact, what Israel did on the 7th of October was to defeat a genocidal attempt by Hamas.",
+      "zh": "他还说，事实上，以色列在10月7日所做的是挫败哈马斯发动的种族灭绝企图。"
+    },
+    {
+      "id": 42,
+      "startMs": 256300,
+      "endMs": 257660,
+      "en": "Sebastian Usher.",
+      "zh": "塞巴斯蒂安·厄舍。"
+    },
+    {
+      "id": 43,
+      "startMs": 258460,
+      "endMs": 261900,
+      "en": "Hours before that speech, Palestinian President Mahmoud Abbas told the UN.",
+      "zh": "在那次演讲数小时前，巴勒斯坦总统马哈茂德·阿巴斯向联合国发言。"
+    },
+    {
+      "id": 44,
+      "startMs": 261900,
+      "endMs": 269180,
+      "en": "He said Israeli policies, in particular the illegal expansion of Jewish settlements in the occupied West Bank,",
+      "zh": "他说，以色列的政策，尤其是在被占领的约旦河西岸非法扩建犹太人定居点，"
+    },
+    {
+      "id": 45,
+      "startMs": 269420,
+      "endMs": 274220,
+      "en": "threatened the very life and existence of the Palestinian people on their homeland.",
+      "zh": "威胁到了巴勒斯坦人民在其家园的生存和存在。"
+    },
+    {
+      "id": 46,
+      "startMs": 274700,
+      "endMs": 278800,
+      "en": "He was speaking in a recorded message after being denied a US visa.",
+      "zh": "他是在被拒发美国签证后，通过一段录音信息发表讲话的。"
+    },
+    {
+      "id": 47,
+      "startMs": 279280,
+      "endMs": 284880,
+      "en": "Our State Department correspondent, Tom Bateman, sent this report from the UN in New York.",
+      "zh": "我们的国务院记者汤姆·贝特曼从纽约联合国总部发来报道。"
+    },
+    {
+      "id": 48,
+      "startMs": 285440,
+      "endMs": 292240,
+      "en": "Sitting in his office in Ramallah, Mahmoud Abbas said the American ban on his travel to the UN was unlawful and punitive.",
+      "zh": "马哈茂德·阿巴斯在拉姆安拉的办公室里说，美国禁止他前往联合国的做法既违法又带有惩罚性。"
+    },
+    {
+      "id": 49,
+      "startMs": 292640,
+      "endMs": 299040,
+      "en": "He argued it punished the Palestinian people for seeking accountability against an occupying force at the international courts.",
+      "zh": "他认为，此举惩罚了试图在国际法院追究占领方责任的巴勒斯坦人民。"
+    },
+    {
+      "id": 50,
+      "startMs": 299520,
+      "endMs": 305680,
+      "en": "He described Israel's actions in Gaza as a genocidal war and suggested, along with settler attacks in the West Bank,",
+      "zh": "他将以色列在加沙的行动描述为一场种族灭绝战争，并表示，再加上约旦河西岸定居者的袭击，"
+    },
+    {
+      "id": 51,
+      "startMs": 306000,
+      "endMs": 311120,
+      "en": "Palestinians were now at risk of the greatest wave of expulsions from their land since 1948.",
+      "zh": "巴勒斯坦人如今面临自1948年以来最大规模的土地驱逐风险。"
+    },
+    {
+      "id": 52,
+      "startMs": 311120,
+      "endMs": 312480,
+      "en": "We will not leave our homeland.",
+      "zh": "我们不会离开自己的家园。"
+    },
+    {
+      "id": 53,
+      "startMs": 315460,
+      "endMs": 317220,
+      "en": "We will not accept displacement.",
+      "zh": "我们不会接受被迫流离失所。"
+    },
+    {
+      "id": 54,
+      "startMs": 318580,
+      "endMs": 322500,
+      "en": "And we will not allow anyone to decide our future on our behalf.",
+      "zh": "我们不会让任何人替我们决定未来。"
+    },
+    {
+      "id": 55,
+      "startMs": 323220,
+      "endMs": 324580,
+      "en": "We decide for ourselves.",
+      "zh": "我们自己决定自己的命运。"
+    },
+    {
+      "id": 56,
+      "startMs": 325520,
+      "endMs": 332720,
+      "en": "We will extend our hands to a peace based on international legitimacy so that our freedom and independence can be achieved.",
+      "zh": "我们将伸出双手，寻求以国际合法性为基础的和平，从而实现自由与独立。"
+    },
+    {
+      "id": 57,
+      "startMs": 333040,
+      "endMs": 337680,
+      "en": "But the ninety-year-old leader, now twenty-one years into his elected four-year term,",
+      "zh": "但这位90岁的领导人，四年一届的当选任期如今已进入第21年，"
+    },
+    {
+      "id": 58,
+      "startMs": 338080,
+      "endMs": 346000,
+      "en": "heads an organisation facing a crisis of legitimacy among Palestinians themselves, who see it as powerless to deliver self-determination.",
+      "zh": "领导着一个在巴勒斯坦人中正面临合法性危机的组织；他们认为该组织无力实现民族自决。"
+    },
+    {
+      "id": 59,
+      "startMs": 346560,
+      "endMs": 347520,
+      "en": "Tom Bateman.",
+      "zh": "汤姆·贝特曼。"
+    },
+    {
+      "id": 60,
+      "startMs": 348240,
+      "endMs": 352880,
+      "en": "The Italian government has approved a ban on the burqa and niqab in schools,",
+      "zh": "意大利政府批准在学校禁穿罩袍和面纱，"
+    },
+    {
+      "id": 61,
+      "startMs": 352880,
+      "endMs": 357840,
+      "en": "along with a limit on the number of pupils who speak little Italian in any one class.",
+      "zh": "同时限制任何一个班级中意大利语水平较低的学生人数。"
+    },
+    {
+      "id": 62,
+      "startMs": 358160,
+      "endMs": 365520,
+      "en": "The prime minister, Giorgia Meloni, said the rules were tools of common sense that do not divide but truly help to integrate.",
+      "zh": "总理焦尔吉娅·梅洛尼说，这些规定是合乎常识的工具，不会造成分裂，反而真正有助于融合。"
+    },
+    {
+      "id": 63,
+      "startMs": 365920,
+      "endMs": 372480,
+      "en": "The leader of the opposition accused the government of a witch hunt at the expense of children. Stephanie Prentice reports.",
+      "zh": "反对党领袖指责政府以儿童为代价进行政治迫害。斯蒂芬妮·普伦蒂斯报道。"
+    },
+    {
+      "id": 64,
+      "startMs": 374320,
+      "endMs": 384640,
+      "en": "Italy's Prime Minister Giorgia Meloni, taking to the stage at Palazzo Chigi, announced the latest move to settle an integration debate that's been intensifying in Italian politics.",
+      "zh": "意大利总理焦尔吉娅·梅洛尼在基吉宫登台，宣布了平息这场日益激烈的融合问题争论的最新举措。"
+    },
+    {
+      "id": 65,
+      "startMs": 384640,
+      "endMs": 396560,
+      "en": "For us, anyone who comes to Italy and wants to build their future here must learn our language, understand our culture and respect our rules.",
+      "zh": "对我们来说，任何来到意大利并想在这里建设未来的人，都必须学习我们的语言、了解我们的文化并遵守我们的规则。"
+    },
+    {
+      "id": 66,
+      "startMs": 397440,
+      "endMs": 408320,
+      "en": "It is the only serious way to welcome them. How to manage a multi-ethnic school system and whether to allow Islamic face coverings has long been a source of political tension",
+      "zh": "这是欢迎他们的唯一认真方式。如何管理多民族学校体系、是否允许伊斯兰面部遮盖物，长期以来一直是政治紧张的来源，"
+    },
+    {
+      "id": 67,
+      "startMs": 408320,
+      "endMs": 409600,
+      "en": "for the coalition government.",
+      "zh": "也是联合政府面临的问题。"
+    },
+    {
+      "id": 68,
+      "startMs": 409600,
+      "endMs": 418240,
+      "en": "This measure introduces a requirement to learn Italian for parents of foreign students with serious difficulties integrating into the school system.",
+      "zh": "这项措施要求那些子女难以融入学校体系的外国学生家长学习意大利语。"
+    },
+    {
+      "id": 69,
+      "startMs": 418720,
+      "endMs": 421040,
+      "en": "And it bans the burqa and the niqab in schools.",
+      "zh": "同时禁止在学校穿戴罩袍和面纱。"
+    },
+    {
+      "id": 70,
+      "startMs": 421840,
+      "endMs": 431840,
+      "en": "Along with new rules on languages and children arriving at school without face coverings, a 30% cap will be imposed on pupils without Italian citizenship.",
+      "zh": "除了语言和到校时不遮盖面部儿童的新规定外，还将对没有意大利国籍的学生设定30%的上限。"
+    },
+    {
+      "id": 71,
+      "startMs": 432160,
+      "endMs": 434800,
+      "en": "or with poor knowledge of the Italian language.",
+      "zh": "或意大利语掌握不佳的学生设定上限。"
+    },
+    {
+      "id": 72,
+      "startMs": 436660,
+      "endMs": 441940,
+      "en": "Opinion on this was divided between parents at Di Donato Elementary School in Rome.",
+      "zh": "罗马迪多纳托小学的家长们对此意见不一。"
+    },
+    {
+      "id": 73,
+      "startMs": 442020,
+      "endMs": 446820,
+      "en": "with some calling the plans common sense,",
+      "zh": "有人认为这些计划合乎常识，"
+    },
+    {
+      "id": 74,
+      "startMs": 447044,
+      "endMs": 455860,
+      "en": "others questioning where children are supposed to be educated if their local school reaches the new limits on foreign students.",
+      "zh": "另一些人则质疑，如果当地学校达到外国学生的新上限，孩子们该去哪里接受教育。"
+    },
+    {
+      "id": 75,
+      "startMs": 457320,
+      "endMs": 462760,
+      "en": "Giorgia Meloni has offered reassurance the thresholds will primarily affect new arrivals,",
+      "zh": "焦尔吉娅·梅洛尼安抚称，这些门槛主要影响新来者，"
+    },
+    {
+      "id": 76,
+      "startMs": 463240,
+      "endMs": 468840,
+      "en": "and her government said the plans will improve educational outcomes and promote integration.",
+      "zh": "她的政府说，计划将改善教育成果并促进融合。"
+    },
+    {
+      "id": 77,
+      "startMs": 469400,
+      "endMs": 474440,
+      "en": "Opposition politicians and children's charities fear they'll broaden divisions.",
+      "zh": "反对党政客和儿童慈善机构担心，这些措施会扩大分歧。"
+    },
+    {
+      "id": 78,
+      "startMs": 474840,
+      "endMs": 485960,
+      "en": "What the public think more broadly could play out when they go to the polls in Italy's general election in 2027, with immigration set to be a significant campaign issue.",
+      "zh": "更广泛的民意将在2027年意大利大选投票时显现，移民问题将成为重要的竞选议题。"
+    },
+    {
+      "id": 79,
+      "startMs": 486280,
+      "endMs": 487480,
+      "en": "Stephanie Prentice.",
+      "zh": "斯蒂芬妮·普伦蒂斯。"
+    },
+    {
+      "id": 80,
+      "startMs": 490060,
+      "endMs": 492060,
+      "en": "Still to come in this podcast.",
+      "zh": "本期节目稍后还有。"
+    },
+    {
+      "id": 81,
+      "startMs": 492700,
+      "endMs": 501900,
+      "en": "They are inhuman. You can't make somebody live for seven years as I have done with a machete at my throat.",
+      "zh": "他们没有人性。你不能让一个人像我一样，在砍刀抵着喉咙的情况下生活七年。"
+    },
+    {
+      "id": 82,
+      "startMs": 502300,
+      "endMs": 510220,
+      "en": "How a corporation kicking an eighty-seven-year-old woman out of her home in Madrid revealed a systemic problem in Spain.",
+      "zh": "一家企业将一名87岁老妇赶出马德里的家，这如何揭示了西班牙的系统性问题。"
+    },
+    {
+      "id": 83,
+      "startMs": 510220,
+      "endMs": 512380,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 84,
+      "startMs": 513420,
+      "endMs": 522540,
+      "en": "To Venezuela's capital now, where hundreds of people have taken to the streets demanding the return of the exiled opposition figure Maria Corina Machado.",
+      "zh": "现在来到委内瑞拉首都，数百人走上街头，要求流亡的反对派人物玛丽亚·科里纳·马查多回国。"
+    },
+    {
+      "id": 85,
+      "startMs": 526580,
+      "endMs": 529220,
+      "en": "Come back, we are waiting for you.",
+      "zh": "回来吧，我们在等你。"
+    },
+    {
+      "id": 86,
+      "startMs": 529380,
+      "endMs": 534100,
+      "en": "One of the messages echoing through the streets of Caracas on Wednesday.",
+      "zh": "这是周三在加拉加斯街头回荡的口号之一。"
+    },
+    {
+      "id": 87,
+      "startMs": 534100,
+      "endMs": 538180,
+      "en": "Machado's team said she had tried three times over the course of the day",
+      "zh": "马查多的团队说，她当天曾三次尝试"
+    },
+    {
+      "id": 88,
+      "startMs": 538260,
+      "endMs": 545060,
+      "en": "to enter the country by both sea and air. Her boat was cancelled and neither of her flights were permitted to land.",
+      "zh": "通过海路和空路进入该国。她的船被取消，两趟航班也都不被允许降落。"
+    },
+    {
+      "id": 89,
+      "startMs": 545380,
+      "endMs": 553300,
+      "en": "This comes as the country's acting president, Delcy Rodriguez, met President Trump in what she described as a historic encounter.",
+      "zh": "这发生在该国代理总统德尔茜·罗德里格斯与特朗普总统会面之际，她称这次会面是历史性的。"
+    },
+    {
+      "id": 90,
+      "startMs": 553780,
+      "endMs": 561940,
+      "en": "It was their first meeting since US forces deposed her former boss Nicolas Maduro, who's being held in a prison cell a few kilometres away.",
+      "zh": "这是自美国军队推翻她的前任上司尼古拉斯·马杜罗以来两人的首次会面；马杜罗正被关押在几公里外的牢房里。"
+    },
+    {
+      "id": 91,
+      "startMs": 562340,
+      "endMs": 569860,
+      "en": "They were meeting at the UN General Assembly, where Delcy Rodriguez announced that Venezuelan elections would go ahead.",
+      "zh": "他们在联合国大会会面，德尔茜·罗德里格斯在那里宣布委内瑞拉将举行选举。"
+    },
+    {
+      "id": 92,
+      "startMs": 570260,
+      "endMs": 574420,
+      "en": "It's not clear when, and this Venezuelan called for a date to be set.",
+      "zh": "具体时间尚不清楚，一名委内瑞拉人呼吁敲定选举日期。"
+    },
+    {
+      "id": 93,
+      "startMs": 574740,
+      "endMs": 582340,
+      "en": "She said there will be elections in Venezuela. But when? When will those elections take place?",
+      "zh": "她说委内瑞拉将举行选举。但是什么时候？选举何时举行？"
+    },
+    {
+      "id": 94,
+      "startMs": 582660,
+      "endMs": 588760,
+      "en": "How long do they plan to wait before holding elections? We demand election now. Immediate elections.",
+      "zh": "他们打算等多久才举行选举？我们要求现在就选举，立即举行选举。"
+    },
+    {
+      "id": 95,
+      "startMs": 589160,
+      "endMs": 595720,
+      "en": "Maria Corina Machado smuggled her way out of the country in what was an extraordinary top-secret mission.",
+      "zh": "玛丽亚·科里纳·马查多通过一次非同寻常的绝密行动，秘密离开了该国。"
+    },
+    {
+      "id": 96,
+      "startMs": 596120,
+      "endMs": 598200,
+      "en": "Could she smuggle herself back in?",
+      "zh": "她能秘密回国吗？"
+    },
+    {
+      "id": 97,
+      "startMs": 598600,
+      "endMs": 601560,
+      "en": "I've been getting the views of BBC Monitoring's Luis Fajardo.",
+      "zh": "我采访了 BBC Monitoring 的路易斯·法哈多。"
+    },
+    {
+      "id": 98,
+      "startMs": 602440,
+      "endMs": 607560,
+      "en": "What she has been trying to do, of course, was very risky, at great personal danger for herself.",
+      "zh": "当然，她一直试图做的事情风险极高，也让她本人面临巨大危险。"
+    },
+    {
+      "id": 99,
+      "startMs": 607560,
+      "endMs": 614760,
+      "en": "When she left Venezuela in an operation which, from what we understand, had the active cooperation of US authorities.",
+      "zh": "她离开委内瑞拉的那次行动，据我们了解，得到了美国当局的积极配合。"
+    },
+    {
+      "id": 100,
+      "startMs": 615000,
+      "endMs": 618840,
+      "en": "And she has been exploring multiple options to return to Venezuela.",
+      "zh": "她一直在探索多种回到委内瑞拉的办法。"
+    },
+    {
+      "id": 101,
+      "startMs": 618920,
+      "endMs": 624840,
+      "en": "It would seem that the government of Delcy Rodriguez would be hostile in principle to her return.",
+      "zh": "看来，德尔茜·罗德里格斯政府原则上会反对她回国。"
+    },
+    {
+      "id": 102,
+      "startMs": 624840,
+      "endMs": 629960,
+      "en": "Of course, she is still by far the biggest figure of the Venezuelan opposition.",
+      "zh": "当然，她仍是委内瑞拉反对派中最重要的人物。"
+    },
+    {
+      "id": 103,
+      "startMs": 630120,
+      "endMs": 635560,
+      "en": "And of course, Delcy Rodriguez right now is basking in what will have been seen by many as a political triumph for her.",
+      "zh": "当然，德尔茜·罗德里格斯目前正沉浸在许多人视为政治胜利的局面中。"
+    },
+    {
+      "id": 104,
+      "startMs": 635560,
+      "endMs": 642920,
+      "en": "Her appearance at the United Nations and, of course, her appearance with President Trump.",
+      "zh": "她在联合国的亮相，以及她与特朗普总统的会面，都促成了这一点。"
+    },
+    {
+      "id": 105,
+      "startMs": 643080,
+      "endMs": 651020,
+      "en": "So certainly the Venezuelan government would not be happy in a circumstance in which she returned to Venezuela right now.",
+      "zh": "所以，假如她现在回到委内瑞拉，委内瑞拉政府显然不会高兴。"
+    },
+    {
+      "id": 106,
+      "startMs": 651020,
+      "endMs": 655340,
+      "en": "Particularly in this moment after she has obtained the recognition she wanted",
+      "zh": "尤其是在这个时刻，她已经获得了自己想要的认可，"
+    },
+    {
+      "id": 107,
+      "startMs": 655420,
+      "endMs": 659260,
+      "en": "in some form or another from President Trump agreeing to meet with her.",
+      "zh": "这种认可来自特朗普总统同意与她会面。"
+    },
+    {
+      "id": 108,
+      "startMs": 659340,
+      "endMs": 661340,
+      "en": "And, of course, her appearance in the United Nations.",
+      "zh": "当然，也来自她在联合国的亮相。"
+    },
+    {
+      "id": 109,
+      "startMs": 661660,
+      "endMs": 669180,
+      "en": "But again, there is so much speculation about what is going on in Venezuela that it is hard to know the actual facts about what is going on.",
+      "zh": "但话说回来，关于委内瑞拉正在发生什么的猜测太多，很难知道事情的真相。"
+    },
+    {
+      "id": 110,
+      "startMs": 669420,
+      "endMs": 675100,
+      "en": "Certainly there is a lot of demand among many sectors in Venezuela for a political change.",
+      "zh": "当然，委内瑞拉许多社会群体都强烈要求政治变革。"
+    },
+    {
+      "id": 111,
+      "startMs": 675100,
+      "endMs": 683580,
+      "en": "That is the political change so many people expected after the US intervention, and they've been growing louder in their demands for elections soon.",
+      "zh": "这正是许多人预期美国干预后会带来的政治变革，而他们要求尽快举行选举的声音也越来越大。"
+    },
+    {
+      "id": 112,
+      "startMs": 683900,
+      "endMs": 687020,
+      "en": "And Maria Corina Machado would presumably be a big part of that.",
+      "zh": "玛丽亚·科里纳·马查多想必会是其中的重要一员。"
+    },
+    {
+      "id": 113,
+      "startMs": 687340,
+      "endMs": 692940,
+      "en": "So there is understandably a lot of anticipation in Venezuela about what could be her next move.",
+      "zh": "因此，委内瑞拉民众自然十分期待她下一步会怎么做。"
+    },
+    {
+      "id": 114,
+      "startMs": 693260,
+      "endMs": 701500,
+      "en": "So, anticipation. Interim President Delcy Rodriguez has promised elections, but really, how likely are they?",
+      "zh": "所以，人们都在期待。代理总统德尔茜·罗德里格斯承诺举行选举，但选举真的有多大可能实现？"
+    },
+    {
+      "id": 115,
+      "startMs": 702140,
+      "endMs": 710960,
+      "en": "A lot of members of the Venezuelan opposition are growing very upset with the situation. They had great expectations of what could happen",
+      "zh": "许多委内瑞拉反对派成员对局势越来越不满。他们曾对可能发生的变化抱有很大期望，"
+    },
+    {
+      "id": 116,
+      "startMs": 710960,
+      "endMs": 720000,
+      "en": "After Nicolas Maduro was taken to the US, and they expected a move soon into full democracy for Venezuela.",
+      "zh": "马杜罗被带到美国后，他们原以为委内瑞拉很快会迈向全面民主。"
+    },
+    {
+      "id": 117,
+      "startMs": 720320,
+      "endMs": 726480,
+      "en": "What we have been seeing in their comments recently is that they are growing a lot more skeptical",
+      "zh": "但从他们最近的言论看，他们越来越怀疑，"
+    },
+    {
+      "id": 118,
+      "startMs": 726480,
+      "endMs": 731440,
+      "en": "about what the US could be thinking about this whole process.",
+      "zh": "美国可能如何考虑整个进程。"
+    },
+    {
+      "id": 119,
+      "startMs": 731440,
+      "endMs": 736000,
+      "en": "Of course, the United States has said that the end process of this would be elections",
+      "zh": "当然，美国表示，这一进程最终会以选举告终，"
+    },
+    {
+      "id": 120,
+      "startMs": 736480,
+      "endMs": 741440,
+      "en": "but they have been notoriously ambiguous about any possible date, any possible calendar.",
+      "zh": "但对于任何可能的日期、任何可能的时间表，美国一直含糊其辞。"
+    },
+    {
+      "id": 121,
+      "startMs": 741760,
+      "endMs": 746320,
+      "en": "And, of course, some people are pointing to President Trump's latest statement",
+      "zh": "当然，有些人指出了特朗普总统最近的声明，"
+    },
+    {
+      "id": 122,
+      "startMs": 746320,
+      "endMs": 749360,
+      "en": "about his intentions regarding Venezuela's oil.",
+      "zh": "内容涉及他对委内瑞拉石油的意图。"
+    },
+    {
+      "id": 123,
+      "startMs": 749360,
+      "endMs": 753520,
+      "en": "His phrase about saying that to the victor go the spoils of this situation",
+      "zh": "他提到“胜者获得战利品”这句话，指的是这场局势中的成果，"
+    },
+    {
+      "id": 124,
+      "startMs": 753680,
+      "endMs": 758160,
+      "en": "suggesting that this government gives a lot more priority to the situation with the oil",
+      "zh": "暗示这个政府更重视石油相关局势，"
+    },
+    {
+      "id": 125,
+      "startMs": 758240,
+      "endMs": 762000,
+      "en": "and obtaining control of natural resources in Venezuela",
+      "zh": "以及取得对委内瑞拉自然资源的控制权，"
+    },
+    {
+      "id": 126,
+      "startMs": 762320,
+      "endMs": 768240,
+      "en": "and that, in that sense, establishing elections and full democracy in Venezuela would not be much of a priority for them.",
+      "zh": "从这个意义上说，在委内瑞拉建立选举制度和全面民主，对他们而言并不是优先事项。"
+    },
+    {
+      "id": 127,
+      "startMs": 768560,
+      "endMs": 775760,
+      "en": "Once again, the US government insists that the end result of this will be democracy. But people certainly want to know.",
+      "zh": "美国政府再次坚持，最终结果将是民主。但人们当然想知道，何时才能实现。"
+    },
+    {
+      "id": 128,
+      "startMs": 775760,
+      "endMs": 782000,
+      "en": "A lot of people in Venezuela want to know when this democracy will be fully operative, and when these elections will occur.",
+      "zh": "许多委内瑞拉人想知道，民主何时才能完全运作，选举又将在何时举行。"
+    },
+    {
+      "id": 129,
+      "startMs": 782320,
+      "endMs": 789460,
+      "en": "They have been growing louder in their demands for a much more specific calendar of a return to democracy: return to elections in Venezuela.",
+      "zh": "他们越来越大声地要求制定更具体的民主回归日程，也就是恢复委内瑞拉的选举。"
+    },
+    {
+      "id": 130,
+      "startMs": 789780,
+      "endMs": 796580,
+      "en": "Luis Fajardo. Mari Carmen is an 87-year-old woman with mobility issues.",
+      "zh": "路易斯·法哈多。玛丽·卡门是一名87岁的行动不便女性。"
+    },
+    {
+      "id": 131,
+      "startMs": 796580,
+      "endMs": 804260,
+      "en": "She has lived in her home in an affluent part of Madrid since she was a child, taking the rental contract over from her parents.",
+      "zh": "她从小就一直住在马德里一个富裕地区的家中，并从父母那里接手了租约。"
+    },
+    {
+      "id": 132,
+      "startMs": 804340,
+      "endMs": 812500,
+      "en": "But this week she was dramatically evicted, taken out on a stretcher amid crowds of supporters who had gathered outside.",
+      "zh": "但本周她被强行驱逐，在聚集于门外的支持者人群中被担架抬了出来。"
+    },
+    {
+      "id": 133,
+      "startMs": 812660,
+      "endMs": 816020,
+      "en": "Three previous attempts to evict her were blocked by the courts.",
+      "zh": "此前三次驱逐她的尝试都被法院阻止。"
+    },
+    {
+      "id": 134,
+      "startMs": 816420,
+      "endMs": 823460,
+      "en": "The case has received increasing media attention and become emblematic of a broader problem across Spain.",
+      "zh": "此案受到越来越多媒体关注，成为西班牙一个更广泛问题的象征。"
+    },
+    {
+      "id": 135,
+      "startMs": 823700,
+      "endMs": 825700,
+      "en": "Guy Hedgecoe reports from Madrid.",
+      "zh": "盖伊·赫奇科从马德里报道。"
+    },
+    {
+      "id": 136,
+      "startMs": 832480,
+      "endMs": 836960,
+      "en": "The moment that Mari Carmen was evicted from her flat in central Madrid.",
+      "zh": "玛丽·卡门被逐出马德里市中心公寓的那一刻。"
+    },
+    {
+      "id": 137,
+      "startMs": 837840,
+      "endMs": 845640,
+      "en": "The home she had lived in for seven decades. Hundreds of supporters turned out to protest against the eviction.",
+      "zh": "那是她住了70年的家。数百名支持者到场抗议驱逐。"
+    },
+    {
+      "id": 138,
+      "startMs": 847240,
+      "endMs": 850600,
+      "en": "Mari Carmen had been paying rent of 500 euros per month.",
+      "zh": "玛丽·卡门此前每月支付500欧元租金。"
+    },
+    {
+      "id": 139,
+      "startMs": 851920,
+      "endMs": 858080,
+      "en": "But when a property company bought the flat a few years ago, it raised the rent to five times that amount.",
+      "zh": "但几年前一家房地产公司买下公寓后，把租金提高到原来的五倍。"
+    },
+    {
+      "id": 140,
+      "startMs": 858800,
+      "endMs": 864640,
+      "en": "It eventually settled on 1,650 euros, still way beyond her means.",
+      "zh": "最终租金定为1650欧元，仍远超她的支付能力。"
+    },
+    {
+      "id": 141,
+      "startMs": 866380,
+      "endMs": 869260,
+      "en": "The 87-year-old spoke just before her eviction.",
+      "zh": "这名87岁老人在被驱逐前接受了采访。"
+    },
+    {
+      "id": 142,
+      "startMs": 877460,
+      "endMs": 883460,
+      "en": "They are inhuman. You can't make somebody live for seven years as I have done, with a machete at my throat.",
+      "zh": "他们不人道。你不能让一个人像我这样，在砍刀架在脖子上的情况下生活七年。"
+    },
+    {
+      "id": 143,
+      "startMs": 884380,
+      "endMs": 888780,
+      "en": "And then they cut my throat, all just to make money at other people's expense.",
+      "zh": "然后他们割断我的喉咙，全都是为了靠牺牲他人来赚钱。"
+    },
+    {
+      "id": 144,
+      "startMs": 894900,
+      "endMs": 903700,
+      "en": "In the hours after the eviction, protesters took to the streets of Madrid and other cities, clashing with police who fired rubber bullets in the air.",
+      "zh": "驱逐发生后的几小时内，抗议者走上马德里和其他城市街头，与向空中发射橡皮子弹的警察发生冲突。"
+    },
+    {
+      "id": 145,
+      "startMs": 905140,
+      "endMs": 908980,
+      "en": "These people were angry, not just at the plight of this elderly woman.",
+      "zh": "这些人愤怒的不只是这位老妇人的困境。"
+    },
+    {
+      "id": 146,
+      "startMs": 909460,
+      "endMs": 913860,
+      "en": "They were angry at a housing market in which rental costs have soared in recent years.",
+      "zh": "他们还对近年租金飙升的住房市场感到愤怒。"
+    },
+    {
+      "id": 147,
+      "startMs": 914420,
+      "endMs": 917140,
+      "en": "That has left millions of Spaniards struggling to get by.",
+      "zh": "这让数百万西班牙人艰难度日。"
+    },
+    {
+      "id": 148,
+      "startMs": 919060,
+      "endMs": 924900,
+      "en": "Economist Javier Diaz Jimenez says a lack of supply of housing is at the root of the problem.",
+      "zh": "经济学家哈维尔·迪亚斯·希门尼斯说，住房供应不足是问题的根源。"
+    },
+    {
+      "id": 149,
+      "startMs": 926180,
+      "endMs": 931860,
+      "en": "Clearly, there's an excess demand for housing in the city centres.",
+      "zh": "显然，市中心对住房的需求过剩。"
+    },
+    {
+      "id": 150,
+      "startMs": 932020,
+      "endMs": 934900,
+      "en": "Lots of Spaniards own their houses.",
+      "zh": "许多西班牙人拥有自己的住房。"
+    },
+    {
+      "id": 151,
+      "startMs": 935460,
+      "endMs": 939780,
+      "en": "So this is a problem that affects especially young people.",
+      "zh": "所以这尤其是影响年轻人的问题。"
+    },
+    {
+      "id": 152,
+      "startMs": 940180,
+      "endMs": 944500,
+      "en": "The socialist-led government says it sympathises with those who are struggling.",
+      "zh": "社会党领导的政府说，它同情那些正在挣扎的人。"
+    },
+    {
+      "id": 153,
+      "startMs": 945220,
+      "endMs": 947860,
+      "en": "But many want to see it take drastic action.",
+      "zh": "但许多人希望政府采取激进措施。"
+    },
+    {
+      "id": 154,
+      "startMs": 948580,
+      "endMs": 955140,
+      "en": "As the crisis has worsened, more and more people, particularly youngsters, have become involved in activism.",
+      "zh": "随着危机恶化，越来越多人，尤其是年轻人，参与到行动主义中。"
+    },
+    {
+      "id": 155,
+      "startMs": 955860,
+      "endMs": 958740,
+      "en": "Welcome to El Barrio, Adrian.",
+      "zh": "欢迎来到《社区》节目，阿德里安。"
+    },
+    {
+      "id": 156,
+      "startMs": 961800,
+      "endMs": 966040,
+      "en": "This week Madrid is hosting an international conference on tenants' rights.",
+      "zh": "本周马德里正在举办国际租户权利会议。"
+    },
+    {
+      "id": 157,
+      "startMs": 966920,
+      "endMs": 971000,
+      "en": "One of the organisers is Myriam Bue of the local tenants' union.",
+      "zh": "组织者之一是当地租户联盟的米里亚姆·布埃。"
+    },
+    {
+      "id": 158,
+      "startMs": 971880,
+      "endMs": 975480,
+      "en": "She protested outside Mari Carmen's flat before her eviction.",
+      "zh": "她在玛丽·卡门被驱逐前，曾在公寓外抗议。"
+    },
+    {
+      "id": 159,
+      "startMs": 976200,
+      "endMs": 981160,
+      "en": "And she warns that anger is building. If this continues like this, the momentum is going to grow.",
+      "zh": "她警告说，民众的愤怒正在积聚。如果情况继续这样，势头将不断增长。"
+    },
+    {
+      "id": 160,
+      "startMs": 981240,
+      "endMs": 984920,
+      "en": "And this is going to become a civil problem in the streets.",
+      "zh": "这将演变成街头的社会问题。"
+    },
+    {
+      "id": 161,
+      "startMs": 985160,
+      "endMs": 988440,
+      "en": "Because we believe the laws are not legit anymore.",
+      "zh": "因为我们认为这些法律已经不再合法。"
+    },
+    {
+      "id": 162,
+      "startMs": 988920,
+      "endMs": 993240,
+      "en": "We are in a moment where not even a full salary is able to give you a space to live.",
+      "zh": "我们正处于这样的时刻：即使一份全职工资也无法让你拥有栖身之处。"
+    },
+    {
+      "id": 163,
+      "startMs": 993720,
+      "endMs": 996200,
+      "en": "If this is not solved soon enough, we promise you.",
+      "zh": "如果问题不能尽快解决，我们向你保证。"
+    },
+    {
+      "id": 164,
+      "startMs": 996680,
+      "endMs": 1000760,
+      "en": "We are going to organise for this rebellion to happen.",
+      "zh": "我们将组织起来，让这场反抗发生。"
+    },
+    {
+      "id": 165,
+      "startMs": 1001700,
+      "endMs": 1005860,
+      "en": "I'm outside the building where Mari Carmen lived for seven decades.",
+      "zh": "我就在玛丽·卡门居住了70年的那栋楼外。"
+    },
+    {
+      "id": 166,
+      "startMs": 1006500,
+      "endMs": 1011220,
+      "en": "And it's very quiet now, following the drama and tension that was seen here.",
+      "zh": "在这里经历了那场戏剧性事件和紧张局势后，现在非常安静。"
+    },
+    {
+      "id": 167,
+      "startMs": 1011620,
+      "endMs": 1012660,
+      "en": "During her eviction.",
+      "zh": "在她被驱逐期间。"
+    },
+    {
+      "id": 168,
+      "startMs": 1013660,
+      "endMs": 1016780,
+      "en": "So the big question now is whether this particular case.",
+      "zh": "所以现在最大的问题是，这起特殊案件是否会……"
+    },
+    {
+      "id": 169,
+      "startMs": 1017180,
+      "endMs": 1021500,
+      "en": "Which has moved so many Spaniards and triggered so much debate.",
+      "zh": "它让众多西班牙人行动起来，也引发了大量争论。"
+    },
+    {
+      "id": 170,
+      "startMs": 1022140,
+      "endMs": 1025980,
+      "en": "Whether it will have a broader impact on the country's housing crisis.",
+      "zh": "它是否会对该国的住房危机产生更广泛的影响。"
+    },
+    {
+      "id": 171,
+      "startMs": 1027520,
+      "endMs": 1029920,
+      "en": "Guy Hedgecoe reporting from Madrid.",
+      "zh": "盖伊·赫奇科从马德里报道。"
+    },
+    {
+      "id": 172,
+      "startMs": 1030880,
+      "endMs": 1036800,
+      "en": "More details have been emerging on the extent of the cyber attack on the FBI earlier this week.",
+      "zh": "本周早些时候美国联邦调查局遭网络攻击一事的规模，出现了更多细节。"
+    },
+    {
+      "id": 173,
+      "startMs": 1037120,
+      "endMs": 1042080,
+      "en": "It seems that hackers have stolen the personal information of every member of staff.",
+      "zh": "黑客似乎窃取了每一名工作人员的个人信息。"
+    },
+    {
+      "id": 174,
+      "startMs": 1042080,
+      "endMs": 1045200,
+      "en": "That works for the Federal Bureau of Investigation in the US.",
+      "zh": "这些人都在美国联邦调查局工作。"
+    },
+    {
+      "id": 175,
+      "startMs": 1045440,
+      "endMs": 1048800,
+      "en": "That's around 38,000 people.",
+      "zh": "总人数约为3.8万人。"
+    },
+    {
+      "id": 176,
+      "startMs": 1048880,
+      "endMs": 1054240,
+      "en": "Phone numbers, home addresses, photo IDs, all in the hands of a cybercrime gang.",
+      "zh": "电话号码、家庭住址、带照片的身份证件，全都落入了一个网络犯罪团伙手中。"
+    },
+    {
+      "id": 177,
+      "startMs": 1054720,
+      "endMs": 1061840,
+      "en": "In a statement on social media, FBI officials say they are actively and aggressively investigating the matter.",
+      "zh": "美国联邦调查局官员在社交媒体声明中说，他们正在积极且大力调查此事。"
+    },
+    {
+      "id": 178,
+      "startMs": 1062240,
+      "endMs": 1067760,
+      "en": "Rebecca Kesby spoke to the technology journalist Chris Stokel-Walker and asked him.",
+      "zh": "丽贝卡·凯斯比采访了科技记者克里斯·斯托克尔-沃克，并问他："
+    },
+    {
+      "id": 179,
+      "startMs": 1067840,
+      "endMs": 1072800,
+      "en": "What do we know about the group ShinyHunters that's thought to be behind the hack?",
+      "zh": "我们对被认为是这次攻击幕后黑手的ShinyHunters团伙了解多少？"
+    },
+    {
+      "id": 180,
+      "startMs": 1073760,
+      "endMs": 1077280,
+      "en": "A decent amount, although not everything that we would perhaps like to know.",
+      "zh": "了解得不少，尽管还不是我们可能想知道的全部。"
+    },
+    {
+      "id": 181,
+      "startMs": 1077360,
+      "endMs": 1083840,
+      "en": "So they're a loose international cybercrime group, really specialising in data extortion.",
+      "zh": "这是一个松散的国际网络犯罪团伙，主要专门从事数据勒索。"
+    },
+    {
+      "id": 182,
+      "startMs": 1083840,
+      "endMs": 1090320,
+      "en": "So taking information and then either extorting a ransom or extorting some sort of change from their victims.",
+      "zh": "他们窃取信息，然后向受害者勒索赎金，或迫使受害者作出某种改变。"
+    },
+    {
+      "id": 183,
+      "startMs": 1090720,
+      "endMs": 1094320,
+      "en": "They've been active for nearly a decade now, since around about 2019 or so.",
+      "zh": "他们至今已活跃近十年，大约从2019年前后开始。"
+    },
+    {
+      "id": 184,
+      "startMs": 1094640,
+      "endMs": 1098560,
+      "en": "And their modus operandi is effectively breaking into organisations.",
+      "zh": "他们的作案方式实际上是侵入各类组织。"
+    },
+    {
+      "id": 185,
+      "startMs": 1098960,
+      "endMs": 1105600,
+      "en": "Exfiltrating that data, then using the threat of publishing it or putting it up for sale to try and put victims under pressure.",
+      "zh": "把数据导出，再威胁公开或拿去出售，试图向受害者施压。"
+    },
+    {
+      "id": 186,
+      "startMs": 1105680,
+      "endMs": 1111200,
+      "en": "Yeah, now it doesn't seem as if they want cash for this particular hack. They want something else. Can you explain?",
+      "zh": "是的，现在看来，他们并不想从这次攻击中要钱。他们想要别的东西。你能解释一下吗？"
+    },
+    {
+      "id": 187,
+      "startMs": 1112000,
+      "endMs": 1117120,
+      "en": "They want effectively a retraction from the FBI. It is a really notable incident.",
+      "zh": "他们实际上希望联邦调查局撤回说法。这是一起非常值得注意的事件。"
+    },
+    {
+      "id": 188,
+      "startMs": 1117120,
+      "endMs": 1124160,
+      "en": "This one, alongside taking this data, managed to hack into the FBI website and put up a statement in place of what was originally there.",
+      "zh": "这伙人除了窃取这些数据，还成功入侵联邦调查局网站，发布声明取代原有内容。"
+    },
+    {
+      "id": 189,
+      "startMs": 1124160,
+      "endMs": 1133760,
+      "en": "It said they gave the FBI a week or so to correct or remove so-called false allegations made earlier this year.",
+      "zh": "声明称，联邦调查局有一周左右的时间，更正或删除今年早些时候提出的所谓虚假指控。"
+    },
+    {
+      "id": 190,
+      "startMs": 1133760,
+      "endMs": 1139760,
+      "en": "Those allegations described ShinyHunters as a cybercriminal group specialising in large-scale data breaches and extortion.",
+      "zh": "这些指控称 ShinyHunters 是一个专门从事大规模数据泄露和勒索的网络犯罪团伙。"
+    },
+    {
+      "id": 191,
+      "startMs": 1139760,
+      "endMs": 1147680,
+      "en": "They dispute that and want it changed. You would have thought the FBI had particularly strong cybersecurity.",
+      "zh": "他们对此提出异议，并要求修改。你本来会以为联邦调查局拥有特别强的网络安全防护。"
+    },
+    {
+      "id": 192,
+      "startMs": 1148320,
+      "endMs": 1153920,
+      "en": "How did they manage to do this? It is not entirely clear.",
+      "zh": "他们是怎么做到的？目前还不完全清楚。"
+    },
+    {
+      "id": 193,
+      "startMs": 1153920,
+      "endMs": 1160240,
+      "en": "The organisation themselves, ShinyHunters, say they managed to exploit what is called a zero-day exploit.",
+      "zh": "ShinyHunters 这个团伙称，他们利用了所谓的零日漏洞。"
+    },
+    {
+      "id": 194,
+      "startMs": 1160240,
+      "endMs": 1169120,
+      "en": "That means a previously unknown issue with a database used by the FBI to store this information.",
+      "zh": "这意味着，联邦调查局用于存储这些信息的数据库存在一个此前未知的问题。"
+    },
+    {
+      "id": 195,
+      "startMs": 1169520,
+      "endMs": 1173040,
+      "en": "Although with these sorts of things and cybercriminals, you always have to be very wary.",
+      "zh": "不过，面对这类事件和网络犯罪分子，始终都必须非常谨慎。"
+    },
+    {
+      "id": 196,
+      "startMs": 1173040,
+      "endMs": 1178480,
+      "en": "You have to be very wary of how they actually describe what they have done. They like to cover their tracks and perhaps mislead somewhat.",
+      "zh": "必须警惕他们对所作所为的描述。他们喜欢掩盖踪迹，也可能会在一定程度上误导外界。"
+    },
+    {
+      "id": 197,
+      "startMs": 1178480,
+      "endMs": 1181120,
+      "en": "So it may well have been the case that that has happened.",
+      "zh": "所以，事情很可能确实是这样发生的。"
+    },
+    {
+      "id": 198,
+      "startMs": 1181120,
+      "endMs": 1185520,
+      "en": "But likewise, what they tend to do, and what they have done in previous instances, is to use social engineering.",
+      "zh": "但同样，他们通常会采用、过去也曾采用过社会工程手段。"
+    },
+    {
+      "id": 199,
+      "startMs": 1185520,
+      "endMs": 1191840,
+      "en": "They mimic or replicate trusted processes and trusted individuals.",
+      "zh": "他们会模仿或复制可信的流程和可信的人。"
+    },
+    {
+      "id": 200,
+      "startMs": 1191840,
+      "endMs": 1194960,
+      "en": "They convince people to hand over, effectively, the keys to the kingdom.",
+      "zh": "他们说服人们交出实际上等同于王国钥匙的关键信息。"
+    },
+    {
+      "id": 201,
+      "startMs": 1195280,
+      "endMs": 1198560,
+      "en": "What is the fear that they might do with this hacked information?",
+      "zh": "人们担心他们会如何利用这些被盗信息？"
+    },
+    {
+      "id": 202,
+      "startMs": 1198960,
+      "endMs": 1203440,
+      "en": "Well, the 38,000 details that are available there include intensely personal information.",
+      "zh": "那里有3.8万人的资料，其中包括极其私人的信息。"
+    },
+    {
+      "id": 203,
+      "startMs": 1203440,
+      "endMs": 1206720,
+      "en": "Obviously, these agents operate often in the utmost secrecy.",
+      "zh": "显然，这些联邦调查局人员通常在极度保密的状态下工作。"
+    },
+    {
+      "id": 204,
+      "startMs": 1206720,
+      "endMs": 1211920,
+      "en": "So the concern is that it gets shared widely, both within cybercriminal networks and also beyond.",
+      "zh": "因此，人们担心这些信息会被广泛传播，不仅在网络犯罪团伙内部，也会扩散到更广的范围。"
+    },
+    {
+      "id": 205,
+      "startMs": 1212800,
+      "endMs": 1215680,
+      "en": "Technology journalist Chris Stokel-Walker.",
+      "zh": "科技记者克里斯·斯托克尔-沃克。"
+    },
+    {
+      "id": 206,
+      "startMs": 1216720,
+      "endMs": 1224960,
+      "en": "If you have ever wondered whether your dog actually understands what you are saying, scientists think they may be listening more closely than you realise.",
+      "zh": "如果你曾想过狗是否真的听得懂你说的话，科学家认为，它们可能比你意识到的更加认真地倾听。"
+    },
+    {
+      "id": 207,
+      "startMs": 1225360,
+      "endMs": 1233600,
+      "en": "Researchers in Hungary have found similarities in the way dogs and humans process spoken words.",
+      "zh": "匈牙利研究人员发现，狗和人类处理口语的方式存在相似之处。"
+    },
+    {
+      "id": 208,
+      "startMs": 1233840,
+      "endMs": 1239840,
+      "en": "They compared the brain activity of 20 people and 20 of our canine friends.",
+      "zh": "他们比较了20名人类和20只犬类伙伴的大脑活动。"
+    },
+    {
+      "id": 209,
+      "startMs": 1240320,
+      "endMs": 1249040,
+      "en": "Dogs usually understand a few crucial words, mostly relating to food, walks and balls, even if they do not always respond to them.",
+      "zh": "狗通常能理解一些关键的词语，主要与食物、散步和球有关，即使它们并不总是对此作出反应。"
+    },
+    {
+      "id": 210,
+      "startMs": 1249680,
+      "endMs": 1252960,
+      "en": "But what is going on in their brains when they are listening to our commands?",
+      "zh": "但它们听我们指令时，大脑里究竟发生了什么？"
+    },
+    {
+      "id": 211,
+      "startMs": 1253440,
+      "endMs": 1260560,
+      "en": "This research suggests striking similarities in the way dog brains and human brains decode the rhythm of words in speech.",
+      "zh": "这项研究表明，狗脑和人脑解读言语节奏的方式有着惊人的相似之处。"
+    },
+    {
+      "id": 212,
+      "startMs": 1261040,
+      "endMs": 1268720,
+      "en": "From the age of about one, humans use consonants to break up speech into manageable chunks, something called consonant bias.",
+      "zh": "从大约一岁起，人类会用辅音把语音分解成易于处理的片段，这被称为辅音偏向。"
+    },
+    {
+      "id": 213,
+      "startMs": 1269280,
+      "endMs": 1274420,
+      "en": "No other species, even closely related primates, have been found to have this trait.",
+      "zh": "尚未发现其他物种，包括亲缘关系接近的人类近亲，具有这一特征。"
+    },
+    {
+      "id": 214,
+      "startMs": 1274900,
+      "endMs": 1280020,
+      "en": "But the Hungarian study authors say they found the first evidence of consonant bias in dogs.",
+      "zh": "但这项匈牙利研究的作者称，他们首次发现了狗具有辅音偏向的证据。"
+    },
+    {
+      "id": 215,
+      "startMs": 1280740,
+      "endMs": 1285860,
+      "en": "Attila Andics is lead author and a brain researcher from ELTE University in Budapest.",
+      "zh": "阿提拉·安迪奇是论文第一作者，也是布达佩斯厄特沃什·洛兰德大学的脑科学研究人员。"
+    },
+    {
+      "id": 216,
+      "startMs": 1286100,
+      "endMs": 1292340,
+      "en": "The interesting thing is that this is an example of speech shaping the brain of a non-human animal.",
+      "zh": "有趣的是，这说明语言会塑造非人类动物的大脑。"
+    },
+    {
+      "id": 217,
+      "startMs": 1292900,
+      "endMs": 1301620,
+      "en": "Human speech shapes brain functions of a non-human animal, and this shows that to have a language-tuned, speech-tuned brain does not require complex linguistic abilities.",
+      "zh": "人类语言会塑造非人类动物的大脑功能，这说明拥有经过语言和语音调谐的大脑，并不需要复杂的语言能力。"
+    },
+    {
+      "id": 218,
+      "startMs": 1301940,
+      "endMs": 1309460,
+      "en": "Because animals that do not have such complex linguistic abilities can get there.",
+      "zh": "因为不具备这种复杂语言能力的动物也能达到这一点。"
+    },
+    {
+      "id": 219,
+      "startMs": 1309540,
+      "endMs": 1317620,
+      "en": "For the study, dogs and humans were played a continuous stream of speech-like sounds, and the pattern of their brain activity was analysed.",
+      "zh": "研究中，研究人员向狗和人连续播放类似语音的声音，并分析它们的大脑活动模式。"
+    },
+    {
+      "id": 220,
+      "startMs": 1318180,
+      "endMs": 1323540,
+      "en": "When consonant sounds dominated, the frequency of the pattern in dog brains was similar to humans.",
+      "zh": "当辅音占主导时，狗脑中这一模式的频率与人类相似。"
+    },
+    {
+      "id": 221,
+      "startMs": 1324260,
+      "endMs": 1331460,
+      "en": "Even dogs which had not been family pets from birth, or had not been exposed to human speech early in life, showed the same trait.",
+      "zh": "即使是从小没有作为家庭宠物、或早年没有接触人类语言的狗，也表现出了相同特征。"
+    },
+    {
+      "id": 222,
+      "startMs": 1332360,
+      "endMs": 1335960,
+      "en": "All languages are consonant-heavy, like Hungarian and English.",
+      "zh": "所有语言都以辅音为主，例如匈牙利语和英语。"
+    },
+    {
+      "id": 223,
+      "startMs": 1335960,
+      "endMs": 1340440,
+      "en": "However, the researchers say they would now love to carry out the same experiment.",
+      "zh": "不过，研究人员表示，他们现在很希望开展同样的实验。"
+    },
+    {
+      "id": 224,
+      "startMs": 1340760,
+      "endMs": 1346440,
+      "en": "In dogs used to hearing languages like Danish or Mandarin. Philippa Roxby.",
+      "zh": "对象是习惯听丹麦语或普通话等语言的狗。菲莉帕·罗克斯比。"
+    },
+    {
+      "id": 225,
+      "startMs": 1349380,
+      "endMs": 1351860,
+      "en": "And that is all from us for now.",
+      "zh": "以上就是目前的全部内容。"
+    },
+    {
+      "id": 226,
+      "startMs": 1352020,
+      "endMs": 1358180,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想与我们联系，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 227,
+      "startMs": 1358260,
+      "endMs": 1362340,
+      "en": "You can also find us on X at BBC World Service.",
+      "zh": "也可以在 X 上关注 BBC World Service。"
+    },
+    {
+      "id": 228,
+      "startMs": 1362420,
+      "endMs": 1365140,
+      "en": "Use the hashtag Global News Pod.",
+      "zh": "请使用话题标签 Global News Pod。"
+    },
+    {
+      "id": 229,
+      "startMs": 1365140,
+      "endMs": 1369380,
+      "en": "This edition of the Global News Podcast was mixed by Martin Baker.",
+      "zh": "本期《Global News Podcast》由马丁·贝克混音。"
+    },
+    {
+      "id": 230,
+      "startMs": 1370100,
+      "endMs": 1373860,
+      "en": "The producer was Charles Sanctuary. The editor is Karen Martin.",
+      "zh": "制作人是查尔斯·桑克蒂；编辑是凯伦·马丁。"
+    },
+    {
+      "id": 231,
+      "startMs": 1374260,
+      "endMs": 1376980,
+      "en": "I am Alex Ritson. Until next time, goodbye.",
+      "zh": "我是亚历克斯·里特森。下次再见。"
+    }
+  ]
+}

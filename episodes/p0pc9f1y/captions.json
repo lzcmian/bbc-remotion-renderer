@@ -1,0 +1,1712 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "24 September 2026"
+  },
+  "durationMs": 1308320,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 2960,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 5060,
+      "endMs": 10500,
+      "en": "Hello, I'm Oliver Conway. We're recording this at 14:00 GMT on Thursday, the 24th of September.",
+      "zh": "大家好，我是奥利弗·康威。现在是格林尼治时间9月24日星期四14点，我们正在录制节目。"
+    },
+    {
+      "id": 3,
+      "startMs": 10900,
+      "endMs": 16500,
+      "en": "Australia condemns OpenAI for a delay in reporting an AI hacking attack on a government website.",
+      "zh": "澳大利亚谴责 OpenAI 延迟报告一起针对政府网站的 AI 黑客攻击。"
+    },
+    {
+      "id": 4,
+      "startMs": 17140,
+      "endMs": 22500,
+      "en": "Three US news outlets are denied access to the White House despite a ruling from a US judge.",
+      "zh": "尽管美国法官已作出裁决，三家美国新闻机构仍被拒绝进入白宫。"
+    },
+    {
+      "id": 5,
+      "startMs": 23060,
+      "endMs": 26900,
+      "en": "And Tigrayan rebels say they are in a full-blown war with the Ethiopian government.",
+      "zh": "提格雷叛军称，他们正与埃塞俄比亚政府陷入全面战争。"
+    },
+    {
+      "id": 6,
+      "startMs": 29460,
+      "endMs": 33300,
+      "en": "Also in this podcast, this is a win for all Thai people.",
+      "zh": "本期节目还将报道：这是所有泰国人的胜利。"
+    },
+    {
+      "id": 7,
+      "startMs": 33540,
+      "endMs": 35700,
+      "en": "She has actually become breaking news in Thailand.",
+      "zh": "她确实已经成为泰国的突发新闻人物。"
+    },
+    {
+      "id": 8,
+      "startMs": 35700,
+      "endMs": 41780,
+      "en": "So we can say that what she won as a 16-year-old means so much for the Thai people and the country.",
+      "zh": "所以可以说，她16岁时赢得的这个奖项，对泰国人民和这个国家意义重大。"
+    },
+    {
+      "id": 9,
+      "startMs": 42180,
+      "endMs": 46420,
+      "en": "Joy back home after a young Thai singer wins America's Got Talent.",
+      "zh": "一名年轻的泰国歌手赢得《美国达人秀》后，家乡沉浸在喜悦之中。"
+    },
+    {
+      "id": 10,
+      "startMs": 52180,
+      "endMs": 59540,
+      "en": "There have been more than a dozen reported cases of artificial intelligence going rogue and getting into the computer systems of other companies.",
+      "zh": "据报道，已有十多起人工智能失控并进入其他公司计算机系统的案例。"
+    },
+    {
+      "id": 11,
+      "startMs": 60020,
+      "endMs": 64420,
+      "en": "Now comes news of the first known AI hacking attack on a foreign government.",
+      "zh": "现在传来消息，这是已知首起针对外国政府的 AI 黑客攻击。"
+    },
+    {
+      "id": 12,
+      "startMs": 64820,
+      "endMs": 70260,
+      "en": "Australia said an OpenAI agent breached its national health data portal in June.",
+      "zh": "澳大利亚称，OpenAI 的一个智能体在6月侵入了该国国家医疗数据门户。"
+    },
+    {
+      "id": 13,
+      "startMs": 70980,
+      "endMs": 76180,
+      "en": "The Australian Prime Minister, Anthony Albanese, said he was very unhappy with the US tech giant.",
+      "zh": "澳大利亚总理安东尼·阿尔巴尼斯表示，他对这家美国科技巨头非常不满。"
+    },
+    {
+      "id": 14,
+      "startMs": 76500,
+      "endMs": 84020,
+      "en": "I spoke with the CEO of OpenAI, Sam Altman, to express Australia's extreme concern about this incident.",
+      "zh": "我与 OpenAI 首席执行官萨姆·奥尔特曼交谈，表达了澳大利亚对这一事件的极度担忧。"
+    },
+    {
+      "id": 15,
+      "startMs": 84660,
+      "endMs": 92100,
+      "en": "And I also expressed my disappointment that it took the company way too long to inform the government what had occurred.",
+      "zh": "我还表达了失望：这家公司过了太久才告知政府究竟发生了什么。"
+    },
+    {
+      "id": 16,
+      "startMs": 92100,
+      "endMs": 98340,
+      "en": "And the nature of the way that that notification occurred as well was unacceptable.",
+      "zh": "而且，他们采用这种方式进行通知，同样不可接受。"
+    },
+    {
+      "id": 17,
+      "startMs": 98820,
+      "endMs": 102420,
+      "en": "Our Australia correspondent, Katie Watson, told me what happened.",
+      "zh": "我们的澳大利亚记者凯蒂·沃森告诉了我事情经过。"
+    },
+    {
+      "id": 18,
+      "startMs": 102980,
+      "endMs": 107780,
+      "en": "This AI agent breached a healthcare data portal.",
+      "zh": "这个 AI 智能体侵入了一个医疗数据门户。"
+    },
+    {
+      "id": 19,
+      "startMs": 107780,
+      "endMs": 111780,
+      "en": "So Medicare is the universal healthcare system here.",
+      "zh": "Medicare 是这里的全民医疗体系。"
+    },
+    {
+      "id": 20,
+      "startMs": 111800,
+      "endMs": 119000,
+      "en": "In Australia, it basically hacked into a portal with lots of data, numbers and statistics.",
+      "zh": "在澳大利亚，它基本上侵入了一个包含大量数据、数字和统计信息的门户。"
+    },
+    {
+      "id": 21,
+      "startMs": 119000,
+      "endMs": 122120,
+      "en": "So it wasn't sensitive data, it wasn't personal data.",
+      "zh": "所以那不是敏感数据，也不是个人数据。"
+    },
+    {
+      "id": 22,
+      "startMs": 122520,
+      "endMs": 131800,
+      "en": "This was about numbers, and in fact, the Deputy Prime Minister Richard Marles spoke earlier and said that this was relatively minor in terms of a breach, but of course.",
+      "zh": "这涉及的是数字；事实上，副总理理查德·马尔斯早些时候说，就数据泄露而言这相对轻微，但当然，"
+    },
+    {
+      "id": 23,
+      "startMs": 131880,
+      "endMs": 133480,
+      "en": "That doesn't make it not serious.",
+      "zh": "这并不意味着事情不严重。"
+    },
+    {
+      "id": 24,
+      "startMs": 133720,
+      "endMs": 138440,
+      "en": "It was still a big concern, especially with the growing capabilities of AI.",
+      "zh": "这仍然令人非常担忧，尤其是 AI 的能力正在不断增强。"
+    },
+    {
+      "id": 25,
+      "startMs": 138440,
+      "endMs": 147080,
+      "en": "What that could mean for the future, so they've set up a task force, and that's going to involve cyber security agencies and AI agencies.",
+      "zh": "这对未来可能意味着什么？因此，他们成立了一个特别工作组，将涉及网络安全机构和 AI 机构。"
+    },
+    {
+      "id": 26,
+      "startMs": 147080,
+      "endMs": 152360,
+      "en": "They're going to look into exactly what happened, and we know it happened in June.",
+      "zh": "他们将查清究竟发生了什么，而我们知道事情发生在6月。"
+    },
+    {
+      "id": 27,
+      "startMs": 152360,
+      "endMs": 157240,
+      "en": "In fact, OpenAI said that this is called a misaligned model activity.",
+      "zh": "事实上，OpenAI 称这被称为“模型失配活动”。"
+    },
+    {
+      "id": 28,
+      "startMs": 157240,
+      "endMs": 166360,
+      "en": "Effectively, instructions sent to their AI agent to get some data meant that they also did some activities that they didn't intend to happen.",
+      "zh": "实际上，发送给其 AI 智能体、要求获取数据的指令，导致它还执行了一些原本不打算执行的活动。"
+    },
+    {
+      "id": 29,
+      "startMs": 166680,
+      "endMs": 168520,
+      "en": "That's how OpenAI explained it.",
+      "zh": "OpenAI 是这样解释的。"
+    },
+    {
+      "id": 30,
+      "startMs": 168520,
+      "endMs": 169560,
+      "en": "So that happened in June.",
+      "zh": "所以事情发生在6月。"
+    },
+    {
+      "id": 31,
+      "startMs": 169960,
+      "endMs": 171800,
+      "en": "OpenAI became aware of the problem.",
+      "zh": "OpenAI 意识到了这个问题。"
+    },
+    {
+      "id": 32,
+      "startMs": 171820,
+      "endMs": 179740,
+      "en": "In August, and then it was in September, the 10th of September, that they sent an email to Services Australia, which basically looks after the portal.",
+      "zh": "OpenAI 在8月发现问题，随后在9月、也就是9月10日，向负责管理该门户的澳大利亚服务局发出了一封邮件。"
+    },
+    {
+      "id": 33,
+      "startMs": 180140,
+      "endMs": 189100,
+      "en": "And it was an email that's often used for academics and researchers to alert authorities about vulnerabilities in the system, which is what they did.",
+      "zh": "这类邮件通常供学者和研究人员用来提醒当局系统存在漏洞，而他们就是这样做的。"
+    },
+    {
+      "id": 34,
+      "startMs": 189180,
+      "endMs": 198540,
+      "en": "But of course, the Australian government has been pretty cross about the fact that they didn't escalate this and talk to the government at a quicker rate.",
+      "zh": "但当然，澳大利亚政府对此相当恼火，因为他们没有升级处理此事，也没有更快地与政府沟通。"
+    },
+    {
+      "id": 35,
+      "startMs": 198620,
+      "endMs": 205900,
+      "en": "Yeah, it's pretty extraordinary given the sensitivity of this issue that there wasn't contact at a higher level much earlier.",
+      "zh": "是的，考虑到这个问题的敏感性，很晚才进行高层接触，确实非常不寻常。"
+    },
+    {
+      "id": 36,
+      "startMs": 206060,
+      "endMs": 215900,
+      "en": "Yeah, OpenAI said they had to investigate what was going on, and they came to this because they were doing some investigations into this misaligned model activity.",
+      "zh": "是的，OpenAI 表示他们必须调查发生了什么，并且是在调查这种模型失配活动时得出了这一结论。"
+    },
+    {
+      "id": 37,
+      "startMs": 215900,
+      "endMs": 218060,
+      "en": "So it was one of the instances that came up.",
+      "zh": "所以这是调查中出现的一个案例。"
+    },
+    {
+      "id": 38,
+      "startMs": 218060,
+      "endMs": 223900,
+      "en": "In fact, I was talking to an expert earlier today who said that he'd been speaking to lots of people today since this news broke,",
+      "zh": "事实上，我今天早些时候和一位专家交谈过。他说，自这则新闻曝光以来，他今天一直在和许多人交谈。"
+    },
+    {
+      "id": 39,
+      "startMs": 224300,
+      "endMs": 232640,
+      "en": "and the impression he got was that actually Australia wasn't the only government entity to be targeted, and that there may have been other governments in this as well.",
+      "zh": "他的印象是，实际上澳大利亚并不是唯一遭到针对的政府实体，可能还有其他政府也牵涉其中。"
+    },
+    {
+      "id": 40,
+      "startMs": 232640,
+      "endMs": 239520,
+      "en": "But Australia is the only country that's actually spoken out about this, and it all adds to fears about AI.",
+      "zh": "但澳大利亚是唯一对此公开发声的国家，这加剧了人们对人工智能的担忧。"
+    },
+    {
+      "id": 41,
+      "startMs": 239520,
+      "endMs": 243840,
+      "en": "But will there be any international action on getting some regulation on this?",
+      "zh": "但国际社会会采取行动，对此进行监管吗？"
+    },
+    {
+      "id": 42,
+      "startMs": 244160,
+      "endMs": 251040,
+      "en": "Well, it's quite interesting because, you see, Australia knew about this last week, and obviously Albanese is now talking about it this week.",
+      "zh": "这很有意思，因为澳大利亚上周就知道了这件事，而阿尔巴尼斯显然是在本周谈论它。"
+    },
+    {
+      "id": 43,
+      "startMs": 251360,
+      "endMs": 259040,
+      "en": "And certainly I don't think it's a coincidence that he's talking about this with a whole bunch of global leaders in New York right now.",
+      "zh": "我当然不认为，他此刻在纽约与众多全球领导人谈论此事是巧合。"
+    },
+    {
+      "id": 44,
+      "startMs": 259040,
+      "endMs": 262880,
+      "en": "Especially as we've had Donald Trump playing down the threats of AI.",
+      "zh": "尤其是在唐纳德·特朗普一直淡化人工智能威胁的情况下。"
+    },
+    {
+      "id": 45,
+      "startMs": 263200,
+      "endMs": 269600,
+      "en": "Australia's been quite proud in being a world leader when it comes to standing up to big tech.",
+      "zh": "在抵制大型科技公司的问题上，澳大利亚一直很自豪能成为全球领先者。"
+    },
+    {
+      "id": 46,
+      "startMs": 270000,
+      "endMs": 273520,
+      "en": "So obviously it's got the world's first social media ban for under-16s.",
+      "zh": "所以，澳大利亚显然拥有全球首个针对16岁以下人群的社交媒体禁令。"
+    },
+    {
+      "id": 47,
+      "startMs": 273520,
+      "endMs": 278880,
+      "en": "It's announced what it calls the world's strongest controls on algorithms.",
+      "zh": "它还宣布了自称全球最严格的算法管控措施。"
+    },
+    {
+      "id": 48,
+      "startMs": 278880,
+      "endMs": 282880,
+      "en": "And now, of course, it's a world-first AI rogue breach.",
+      "zh": "现在，它当然又成为全球首起人工智能失控入侵事件。"
+    },
+    {
+      "id": 49,
+      "startMs": 283200,
+      "endMs": 288560,
+      "en": "And that's something that I think Australia is perhaps positioning itself to stand up to big tech",
+      "zh": "我认为，澳大利亚或许正借此表明自己要抵制大型科技公司，"
+    },
+    {
+      "id": 50,
+      "startMs": 288880,
+      "endMs": 293380,
+      "en": "and show that it's serious when it comes to digital safety, digital security.",
+      "zh": "并表明它认真对待数字安全和数字保障。"
+    },
+    {
+      "id": 51,
+      "startMs": 293700,
+      "endMs": 296340,
+      "en": "But it's certainly got the headlines, as we can see. We've been talking about it all day.",
+      "zh": "但正如我们所见，这件事确实登上了头条。我们一整天都在谈论它。"
+    },
+    {
+      "id": 52,
+      "startMs": 296980,
+      "endMs": 298500,
+      "en": "Katie Watson in Sydney.",
+      "zh": "悉尼的凯蒂·沃森报道。"
+    },
+    {
+      "id": 53,
+      "startMs": 298980,
+      "endMs": 305700,
+      "en": "The Trump administration appears to have defied a judge's order to lift a ban on three media outlets imposed by President Trump.",
+      "zh": "特朗普政府似乎违抗了法官解除禁令的命令；这项禁令由特朗普总统针对三家媒体发布。"
+    },
+    {
+      "id": 54,
+      "startMs": 306100,
+      "endMs": 311300,
+      "en": "CNN, MS Now and Politico all said their reporters were still barred from the White House.",
+      "zh": "CNN、MS Now和Politico都表示，其记者仍被禁止进入白宫。"
+    },
+    {
+      "id": 55,
+      "startMs": 311780,
+      "endMs": 313460,
+      "en": "The BBC's Katrina Perry is there.",
+      "zh": "BBC的卡特里娜·佩里正在现场。"
+    },
+    {
+      "id": 56,
+      "startMs": 313940,
+      "endMs": 319540,
+      "en": "We have had this ruling lifted by a judge here in Washington, DC.",
+      "zh": "华盛顿特区的一名法官已经裁定解除这项禁令。"
+    },
+    {
+      "id": 57,
+      "startMs": 319540,
+      "endMs": 326100,
+      "en": "The President had banned access from three outlets—CNN, MS Now and Politico—from coming here to the White House.",
+      "zh": "总统禁止CNN、MS Now和Politico这三家媒体的人员进入白宫。"
+    },
+    {
+      "id": 58,
+      "startMs": 326100,
+      "endMs": 335140,
+      "en": "And as a result of that, we saw the TV pool, the pooling arrangement between the major US networks, refusing to cover the President's movements.",
+      "zh": "因此，我们看到美国主要电视网组成的电视联合采访组拒绝报道总统的行程。"
+    },
+    {
+      "id": 59,
+      "startMs": 335300,
+      "endMs": 338660,
+      "en": "Now a judge ordered late last night that that be lifted.",
+      "zh": "法官昨晚很晚时候下令解除禁令。"
+    },
+    {
+      "id": 60,
+      "startMs": 338660,
+      "endMs": 346580,
+      "en": "However, I can tell you that when my colleagues from those outlets turned up here at the White House this morning, they were still not allowed to come into the building.",
+      "zh": "不过，我可以告诉你，今天早上这些媒体的同事来到白宫时，仍不被允许进入大楼。"
+    },
+    {
+      "id": 61,
+      "startMs": 347260,
+      "endMs": 353020,
+      "en": "And some of those who still had their credentials actually had those credentials removed.",
+      "zh": "其中一些仍持有证件的人，证件也确实被收走了。"
+    },
+    {
+      "id": 62,
+      "startMs": 353020,
+      "endMs": 359100,
+      "en": "Is Ethiopia on the brink of returning to the devastating civil war that left 600,000 people dead?",
+      "zh": "埃塞俄比亚是否濒临重返那场造成60万人死亡的毁灭性内战？"
+    },
+    {
+      "id": 63,
+      "startMs": 359580,
+      "endMs": 364460,
+      "en": "Fighting has broken out in the northern region of Tigray four years after a ceasefire there.",
+      "zh": "停火四年后，提格雷北部地区再次爆发战斗。"
+    },
+    {
+      "id": 64,
+      "startMs": 364860,
+      "endMs": 371900,
+      "en": "Now a leader of the Tigrayan rebels, known as the TPLF, says they are in a state of full-blown war with the federal government.",
+      "zh": "提格雷叛军领导人、被称为TPLF的组织表示，他们正与联邦政府处于全面战争状态。"
+    },
+    {
+      "id": 65,
+      "startMs": 372380,
+      "endMs": 377100,
+      "en": "Fitsum lives in the capital, Mekelle, and told us what the last 24 hours have been like there.",
+      "zh": "菲茨姆住在首都默克莱，向我们讲述了那里过去24小时的情况。"
+    },
+    {
+      "id": 66,
+      "startMs": 377660,
+      "endMs": 380380,
+      "en": "You never see Mekelle like this before.",
+      "zh": "你以前从未见过默克莱这样。"
+    },
+    {
+      "id": 67,
+      "startMs": 380380,
+      "endMs": 385100,
+      "en": "Like seven or eight o'clock in the evening, it's like a curfew has been placed.",
+      "zh": "晚上七八点左右，感觉就像已经实施了宵禁。"
+    },
+    {
+      "id": 68,
+      "startMs": 385340,
+      "endMs": 389280,
+      "en": "Nobody moves around like it used to be.",
+      "zh": "没有人像过去那样四处走动。"
+    },
+    {
+      "id": 69,
+      "startMs": 389440,
+      "endMs": 394160,
+      "en": "Business had been shut down since the TPLF took over.",
+      "zh": "自TPLF接管以来，商业活动一直处于停摆状态。"
+    },
+    {
+      "id": 70,
+      "startMs": 394320,
+      "endMs": 396080,
+      "en": "All the banks are running out of cash.",
+      "zh": "所有银行的现金都快用完了。"
+    },
+    {
+      "id": 71,
+      "startMs": 396640,
+      "endMs": 404400,
+      "en": "Many youngsters have been fleeing the region, and it's getting emptier than ever before.",
+      "zh": "许多年轻人一直在逃离该地区，这里比以往任何时候都更加空荡。"
+    },
+    {
+      "id": 72,
+      "startMs": 405200,
+      "endMs": 409040,
+      "en": "Our correspondent Thomas Mukhwana is following developments in Ethiopia.",
+      "zh": "本台记者托马斯·穆赫瓦纳正在跟进埃塞俄比亚局势。"
+    },
+    {
+      "id": 73,
+      "startMs": 409360,
+      "endMs": 413760,
+      "en": "This is the biggest escalation yet since the peace deal was signed.",
+      "zh": "这是和平协议签署以来最大的一次升级。"
+    },
+    {
+      "id": 74,
+      "startMs": 414080,
+      "endMs": 417600,
+      "en": "It features the TPLF, which is the Tigrayan People's Liberation Front.",
+      "zh": "其中包括TPLF，即提格雷人民解放阵线。"
+    },
+    {
+      "id": 75,
+      "startMs": 418000,
+      "endMs": 422480,
+      "en": "It operates in the northernmost part of Ethiopia, near the border with Eritrea.",
+      "zh": "该组织在埃塞俄比亚最北部、靠近厄立特里亚边境的地区活动。"
+    },
+    {
+      "id": 76,
+      "startMs": 422880,
+      "endMs": 429440,
+      "en": "And it's a mostly separatist and rebel movement that controls and runs a legitimate government, according to itself, in the Tigray region.",
+      "zh": "这是一个主要由分离主义者和叛军组成的运动，按其自身说法，在提格雷地区控制并运作着一个合法政府。"
+    },
+    {
+      "id": 77,
+      "startMs": 430000,
+      "endMs": 438080,
+      "en": "That is a region that they say is disgruntled and was removed from power by the central government of Ethiopia.",
+      "zh": "他们称，该地区心怀不满，并被埃塞俄比亚中央政府赶下了台。"
+    },
+    {
+      "id": 78,
+      "startMs": 438480,
+      "endMs": 444640,
+      "en": "They are saying that they formed this alliance of seven other armed groups within Ethiopia from other regions.",
+      "zh": "他们说，自己与来自埃塞俄比亚其他地区的另外七个武装团体组成了联盟。"
+    },
+    {
+      "id": 79,
+      "startMs": 445120,
+      "endMs": 448980,
+      "en": "And these seven armed groups are saying that they're going to topple the government in Addis Ababa.",
+      "zh": "这七个武装团体声称要推翻位于亚的斯亚贝巴的政府。"
+    },
+    {
+      "id": 80,
+      "startMs": 449060,
+      "endMs": 450820,
+      "en": "And that's why we're seeing this new escalation.",
+      "zh": "这就是我们看到局势再次升级的原因。"
+    },
+    {
+      "id": 81,
+      "startMs": 451060,
+      "endMs": 458660,
+      "en": "Of course, similar tensions led to that civil war, two years long, in which many, many people were killed.",
+      "zh": "当然，类似的紧张局势曾导致那场持续两年的内战，许多人惨遭杀害。"
+    },
+    {
+      "id": 82,
+      "startMs": 458900,
+      "endMs": 461780,
+      "en": "Is it the same tensions which are leading to this now?",
+      "zh": "现在导致这一局面的，是同样的紧张局势吗？"
+    },
+    {
+      "id": 83,
+      "startMs": 462180,
+      "endMs": 467860,
+      "en": "Yes, it's very similar. The only difference now is that TPLF is not doing it by themselves.",
+      "zh": "是的，非常相似。唯一的不同是，这次TPLF并非单独行动。"
+    },
+    {
+      "id": 84,
+      "startMs": 468020,
+      "endMs": 471300,
+      "en": "They have these six other groups that are also considerably powerful.",
+      "zh": "他们还有另外六个同样实力相当的团体。"
+    },
+    {
+      "id": 85,
+      "startMs": 471700,
+      "endMs": 478420,
+      "en": "Previously the Ethiopian army would be fighting on many fronts, and now they're fighting a unified force on the northern side.",
+      "zh": "此前，埃塞俄比亚军队要在多条战线上作战；如今，他们面对的是北部的一支统一武装。"
+    },
+    {
+      "id": 86,
+      "startMs": 478500,
+      "endMs": 485140,
+      "en": "And they're also saying that the Ethiopian government is claiming that the alliance is getting a lot of help from Egypt and Eritrea.",
+      "zh": "他们还说，埃塞俄比亚政府声称，该联盟得到了埃及和厄立特里亚的大量帮助。"
+    },
+    {
+      "id": 87,
+      "startMs": 485620,
+      "endMs": 490660,
+      "en": "Those are accusations that both countries have refused, and similarly Sudan has also been accused.",
+      "zh": "两国都否认了这些指控；苏丹也同样被指有牵连。"
+    },
+    {
+      "id": 88,
+      "startMs": 490660,
+      "endMs": 495140,
+      "en": "But if this goes into full-out war, like the TPLF is claiming,",
+      "zh": "但如果像提格雷人民解放阵线所说的那样，局势演变成全面战争，"
+    },
+    {
+      "id": 89,
+      "startMs": 495140,
+      "endMs": 500740,
+      "en": "we could see devastation much worse than what we saw in 2020 to 2022.",
+      "zh": "灾难可能会比2020年至2022年间的情况严重得多。"
+    },
+    {
+      "id": 90,
+      "startMs": 501620,
+      "endMs": 506980,
+      "en": "And until now, 4.7 million people are displaced in the country, and that is also part of the problem.",
+      "zh": "截至目前，该国已有470万人流离失所，这也是问题的一部分。"
+    },
+    {
+      "id": 91,
+      "startMs": 506980,
+      "endMs": 511160,
+      "en": "That's what the TPLF is citing as the grievances that are taking them to war.",
+      "zh": "提格雷人民解放阵线正以此为由，称这些不满正把他们带向战争。"
+    },
+    {
+      "id": 92,
+      "startMs": 511560,
+      "endMs": 514200,
+      "en": "This brought suffering to the people of Ethiopia in 2020 to 2022.",
+      "zh": "这场战争在2020年至2022年间给埃塞俄比亚人民带来了苦难。"
+    },
+    {
+      "id": 93,
+      "startMs": 514680,
+      "endMs": 520600,
+      "en": "Humanitarian aid couldn't reach where it was needed. Rape was prevalent, and people were murdered brutally.",
+      "zh": "人道援助无法送达需要它的地方；强奸事件普遍发生，人们遭到残酷杀害。"
+    },
+    {
+      "id": 94,
+      "startMs": 520920,
+      "endMs": 523480,
+      "en": "And what is happening on the ground?",
+      "zh": "地面局势又如何？"
+    },
+    {
+      "id": 95,
+      "startMs": 523560,
+      "endMs": 532760,
+      "en": "News broke that the TPLF has taken control of one of the largest airports in northern Ethiopia, which was under government control.",
+      "zh": "有消息称，提格雷人民解放阵线已控制埃塞俄比亚北部一座最大的机场，该机场原由政府控制。"
+    },
+    {
+      "id": 96,
+      "startMs": 532840,
+      "endMs": 536920,
+      "en": "But within the Tigray region, territory and real estate are very important.",
+      "zh": "但在提格雷地区，领土和地盘非常重要。"
+    },
+    {
+      "id": 97,
+      "startMs": 536920,
+      "endMs": 540920,
+      "en": "In the middle of a war, you want to take towns, and that's what we're seeing now.",
+      "zh": "战争之中，各方都想夺取城镇；我们现在看到的正是这种情况。"
+    },
+    {
+      "id": 98,
+      "startMs": 541000,
+      "endMs": 550680,
+      "en": "And drone strikes by the Ethiopian government and forces allied with the TPLF have caused 14 deaths and 22 injuries over the last few days.",
+      "zh": "过去几天，埃塞俄比亚政府及提格雷人民解放阵线的盟军发动无人机袭击，造成14人死亡、22人受伤。"
+    },
+    {
+      "id": 99,
+      "startMs": 551320,
+      "endMs": 559080,
+      "en": "And since we spoke to Thomas, the Ethiopian army has said it killed more than 270 Tigrayan fighters during clashes on Wednesday.",
+      "zh": "自我们采访托马斯以来，埃塞俄比亚军方称，周三的冲突中有270多名提格雷战士被杀。"
+    },
+    {
+      "id": 100,
+      "startMs": 559320,
+      "endMs": 561080,
+      "en": "Those figures haven't been verified.",
+      "zh": "这些数字尚未得到核实。"
+    },
+    {
+      "id": 101,
+      "startMs": 561880,
+      "endMs": 569420,
+      "en": "A female cyclist from Afghanistan who had to disguise herself as a man when training has won a silver medal at the Asian Games.",
+      "zh": "一名训练时不得不乔装成男性的阿富汗女自行车手，在亚运会上赢得银牌。"
+    },
+    {
+      "id": 102,
+      "startMs": 569740,
+      "endMs": 572300,
+      "en": "Fariba Hashimi came second in the women's road race.",
+      "zh": "法里巴·哈希米在女子公路赛中获得第二名。"
+    },
+    {
+      "id": 103,
+      "startMs": 572620,
+      "endMs": 575260,
+      "en": "I heard more from our sports presenter Isaac Fannin.",
+      "zh": "体育节目主持人艾萨克·范宁介绍了更多情况。"
+    },
+    {
+      "id": 104,
+      "startMs": 575820,
+      "endMs": 580380,
+      "en": "It's a really incredible story. So she's 23 years old, Fariba.",
+      "zh": "这是一个非常不可思议的故事。法里巴今年23岁。"
+    },
+    {
+      "id": 105,
+      "startMs": 580780,
+      "endMs": 589340,
+      "en": "She's been cycling since she was 15 years old in Faryab province, in northern Afghanistan on the border with Turkmenistan.",
+      "zh": "她15岁起就在法里亚布省骑自行车；那里位于阿富汗北部、与土库曼斯坦接壤。"
+    },
+    {
+      "id": 106,
+      "startMs": 589740,
+      "endMs": 595580,
+      "en": "And we've spoken at great length on the BBC about the difficulties facing many women in Afghanistan,",
+      "zh": "我们曾在BBC大量报道阿富汗许多女性面临的困境，"
+    },
+    {
+      "id": 107,
+      "startMs": 595820,
+      "endMs": 601660,
+      "en": "the repression of their rights there, especially since the Taliban took power back in 2021.",
+      "zh": "尤其是自塔利班于2021年重新掌权以来，她们的权利受到压制。"
+    },
+    {
+      "id": 108,
+      "startMs": 601660,
+      "endMs": 606220,
+      "en": "And she was actually forced to leave her home when the Taliban returned to power.",
+      "zh": "塔利班重新掌权后，她实际上被迫离开了家乡。"
+    },
+    {
+      "id": 109,
+      "startMs": 606220,
+      "endMs": 613980,
+      "en": "And she told us about the challenges she faced as a woman cycling in Afghanistan before the Taliban took over.",
+      "zh": "她向我们讲述了塔利班重新掌权前，自己作为女性在阿富汗骑行时面临的挑战。"
+    },
+    {
+      "id": 110,
+      "startMs": 614620,
+      "endMs": 618780,
+      "en": "Woman cycling for them is something strange, something they never see.",
+      "zh": "在他们看来，女性骑自行车很奇怪，是他们从未见过的事。"
+    },
+    {
+      "id": 111,
+      "startMs": 619260,
+      "endMs": 622540,
+      "en": "And of course they will try to stop you or hit you.",
+      "zh": "当然，他们会试图阻止你，甚至打你。"
+    },
+    {
+      "id": 112,
+      "startMs": 623020,
+      "endMs": 627980,
+      "en": "Most of the time I tried to cover myself completely because I had my dream inside me.",
+      "zh": "大多数时候，我尽量把自己完全遮住，因为我的心中怀有梦想。"
+    },
+    {
+      "id": 113,
+      "startMs": 628000,
+      "endMs": 635200,
+      "en": "My dream. And at the same time, when they recognized me, they tried to hit me with a stone. They tried to hit me with a bottle.",
+      "zh": "我的梦想。与此同时，他们认出我后，试图用石头砸我，还试图用瓶子砸我。"
+    },
+    {
+      "id": 114,
+      "startMs": 635680,
+      "endMs": 641520,
+      "en": "I mean, sometimes when they recognized I was a woman, they tried to get close with the car, like this—I would crash and fall down.",
+      "zh": "我的意思是，有时他们认出我是女性，就试图驾车靠近，像这样——我会被撞倒摔下去。"
+    },
+    {
+      "id": 115,
+      "startMs": 641920,
+      "endMs": 647520,
+      "en": "You can hear there a really, really difficult story for her, but she absolutely loves cycling.",
+      "zh": "可以听出，她的经历确实非常艰难，但她非常热爱骑自行车。"
+    },
+    {
+      "id": 116,
+      "startMs": 647520,
+      "endMs": 653520,
+      "en": "And I think that by winning this silver medal, she wants to use the victory as a symbol for Afghan women.",
+      "zh": "我认为，她想把赢得这枚银牌的胜利作为阿富汗女性的象征。"
+    },
+    {
+      "id": 117,
+      "startMs": 653520,
+      "endMs": 661760,
+      "en": "She wants it to be an opportunity for women to see in their own country that they can aspire to a lot more.",
+      "zh": "她希望这能让阿富汗女性在自己的国家看到，她们可以追求更多可能。"
+    },
+    {
+      "id": 118,
+      "startMs": 661840,
+      "endMs": 668800,
+      "en": "She actually got into cycling because her older sister Yildiz was a cyclist in her country.",
+      "zh": "她之所以开始骑车，是因为姐姐伊尔迪兹也是本国的自行车手。"
+    },
+    {
+      "id": 119,
+      "startMs": 669280,
+      "endMs": 672560,
+      "en": "They both competed at the Paris Olympics together,",
+      "zh": "姐妹俩曾共同参加巴黎奥运会，"
+    },
+    {
+      "id": 120,
+      "startMs": 672560,
+      "endMs": 680320,
+      "en": "and the plan for them is to have more success and compete at the 2028 Olympics in Los Angeles.",
+      "zh": "她们计划取得更多成功，并参加2028年洛杉矶奥运会。"
+    },
+    {
+      "id": 121,
+      "startMs": 680480,
+      "endMs": 687920,
+      "en": "Now, of course, Afghanistan is suffering lots of economic difficulties, not to mention all the years of conflict.",
+      "zh": "当然，阿富汗目前正遭受严重的经济困难，更不用说多年的冲突了。"
+    },
+    {
+      "id": 122,
+      "startMs": 688020,
+      "endMs": 692020,
+      "en": "But how successful in general are Afghan athletes?",
+      "zh": "但总体而言，阿富汗运动员的成绩如何？"
+    },
+    {
+      "id": 123,
+      "startMs": 692020,
+      "endMs": 695300,
+      "en": "For men, it's, I think, a lot easier to play and take part in sport.",
+      "zh": "我认为，男性参加体育运动要容易得多。"
+    },
+    {
+      "id": 124,
+      "startMs": 695380,
+      "endMs": 701300,
+      "en": "A few years ago, we saw the Afghanistan men's team reach the semi-final of the Cricket World Cup.",
+      "zh": "几年前，阿富汗男队在板球世界杯中打进了半决赛。"
+    },
+    {
+      "id": 125,
+      "startMs": 701300,
+      "endMs": 705460,
+      "en": "That was a really, really big moment for that team to reach a semi-final.",
+      "zh": "对那支球队来说，打进半决赛是一个非常重要的时刻。"
+    },
+    {
+      "id": 126,
+      "startMs": 705460,
+      "endMs": 712180,
+      "en": "But for women, there is a lot of repression, especially since the Taliban came back to power in 2021.",
+      "zh": "但女性受到许多压制，尤其是自塔利班于2021年重新掌权以来。"
+    },
+    {
+      "id": 127,
+      "startMs": 712180,
+      "endMs": 719520,
+      "en": "We saw a number of the Afghanistan women's football team flee the country and take refuge in other countries.",
+      "zh": "我们看到，阿富汗女足的一些队员逃离了祖国，前往其他国家避难。"
+    },
+    {
+      "id": 128,
+      "startMs": 719660,
+      "endMs": 727860,
+      "en": "And I suppose for people like Fariba Hashimi, she'll be hoping that winning this silver medal will give the women in Afghanistan a bit of hope.",
+      "zh": "我想，对法里巴·哈希米这样的人来说，她会希望这枚银牌给阿富汗女性带来一些希望。"
+    },
+    {
+      "id": 129,
+      "startMs": 727860,
+      "endMs": 733140,
+      "en": "That they can aspire, potentially, to do what she has done and achieve their dreams.",
+      "zh": "希望她们也能像她一样追求理想，实现自己的梦想。"
+    },
+    {
+      "id": 130,
+      "startMs": 733620,
+      "endMs": 735460,
+      "en": "BBC Sports presenter Isaac Fannin.",
+      "zh": "BBC体育节目主持人艾萨克·范宁。"
+    },
+    {
+      "id": 131,
+      "startMs": 738080,
+      "endMs": 745440,
+      "en": "And still to come on this podcast, we're beginning to, like, map out those complicated, interwoven vines.",
+      "zh": "本期节目稍后，我们将开始梳理那些复杂交织的藤蔓。"
+    },
+    {
+      "id": 132,
+      "startMs": 746160,
+      "endMs": 749360,
+      "en": "They weave between species—in this case, between ourselves and elephants.",
+      "zh": "它们在不同物种之间交织——这一次，连接的是人类与大象。"
+    },
+    {
+      "id": 133,
+      "startMs": 749600,
+      "endMs": 751920,
+      "en": "The self-medicating elephants in Kenya.",
+      "zh": "肯尼亚会自行用药的大象。"
+    },
+    {
+      "id": 134,
+      "startMs": 751920,
+      "endMs": 753840,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 135,
+      "startMs": 753840,
+      "endMs": 759040,
+      "en": "The US has invited President Putin to the G20 meeting in Miami in December.",
+      "zh": "美国邀请普京总统参加12月在迈阿密举行的二十国集团峰会。"
+    },
+    {
+      "id": 136,
+      "startMs": 759360,
+      "endMs": 763600,
+      "en": "The Kremlin said it would consider it, but it's not known how other countries will react.",
+      "zh": "克里姆林宫表示会考虑，但尚不清楚其他国家将如何回应。"
+    },
+    {
+      "id": 137,
+      "startMs": 763920,
+      "endMs": 770480,
+      "en": "And it comes as Russia hammers Kyiv with sustained drone attacks. Paul Adams reports from the Ukrainian capital.",
+      "zh": "与此同时，俄罗斯持续用无人机袭击基辅。保罗·亚当斯从乌克兰首都发来报道。"
+    },
+    {
+      "id": 138,
+      "startMs": 772740,
+      "endMs": 782020,
+      "en": "So after last night's ballistic missile strikes, the cleanup in Kyiv is well underway here by the side of a busy road on a rainy morning.",
+      "zh": "昨夜遭弹道导弹袭击后，基辅的清理工作已展开。现在是一个下雨的早晨，现场就在繁忙道路旁。"
+    },
+    {
+      "id": 139,
+      "startMs": 783260,
+      "endMs": 787900,
+      "en": "There's a crew digging a great big hole in the ground because a water pipe has been burst,",
+      "zh": "有一支施工队正在地上挖一个大洞，因为一根水管爆裂了，"
+    },
+    {
+      "id": 140,
+      "startMs": 788460,
+      "endMs": 793900,
+      "en": "and they're anxious to repair it because people in the local area are without water for the time being.",
+      "zh": "他们急于修好水管，因为当地居民暂时没有水用。"
+    },
+    {
+      "id": 141,
+      "startMs": 794380,
+      "endMs": 801740,
+      "en": "There's a stump of a lamp post here which has been peppered with shrapnel, and the trees around here have all been burned.",
+      "zh": "这里有一根路灯柱的残桩，布满了弹片；周围的树木也都被烧毁了。"
+    },
+    {
+      "id": 142,
+      "startMs": 801740,
+      "endMs": 804620,
+      "en": "Some of them have been chopped down already and taken away,",
+      "zh": "其中一些树已经被砍倒并运走了，"
+    },
+    {
+      "id": 143,
+      "startMs": 804620,
+      "endMs": 807660,
+      "en": "and that seems to have really angered the lady who was here a moment ago.",
+      "zh": "这似乎真的激怒了刚才还在这里的那位女士。"
+    },
+    {
+      "id": 144,
+      "startMs": 808300,
+      "endMs": 811180,
+      "en": "Clearly, everyone here is on edge after what happened last night.",
+      "zh": "显然，昨晚发生的事情让这里的每个人都感到紧张。"
+    },
+    {
+      "id": 145,
+      "startMs": 811840,
+      "endMs": 812800,
+      "en": "Is that what you are?",
+      "zh": "你也是这种感觉吗？"
+    },
+    {
+      "id": 146,
+      "startMs": 817760,
+      "endMs": 821360,
+      "en": "And just nearby is one of Kyiv's maternity hospitals,",
+      "zh": "附近就是基辅的一家妇产医院，"
+    },
+    {
+      "id": 147,
+      "startMs": 821360,
+      "endMs": 824400,
+      "en": "and it's a place that's quite important to a lady we just met called Christina.",
+      "zh": "这家医院对我们刚认识的一位名叫克里斯蒂娜的女士十分重要。"
+    },
+    {
+      "id": 148,
+      "startMs": 824960,
+      "endMs": 827200,
+      "en": "Tell me what happened here last night.",
+      "zh": "请告诉我昨晚这里发生了什么。"
+    },
+    {
+      "id": 149,
+      "startMs": 827200,
+      "endMs": 834960,
+      "en": "It seems that the part of the missile landed here, but it felt like the whole missile landed here.",
+      "zh": "导弹的一部分似乎落在了这里，但感觉就像整枚导弹都落在了这里。"
+    },
+    {
+      "id": 150,
+      "startMs": 835840,
+      "endMs": 839760,
+      "en": "Were you here when it happened? I live two apartment blocks from here.",
+      "zh": "事情发生时你在这里吗？我住在离这里两栋公寓楼远的地方。"
+    },
+    {
+      "id": 151,
+      "startMs": 840160,
+      "endMs": 844880,
+      "en": "But you could still feel it. Yes, I could see the light and I also heard.",
+      "zh": "但你还是能感觉到它。是的，我能看到亮光，也听到了声音。"
+    },
+    {
+      "id": 152,
+      "startMs": 844960,
+      "endMs": 847840,
+      "en": "I jumped out of my bed. I was frightened.",
+      "zh": "我从床上跳了起来。我当时很害怕。"
+    },
+    {
+      "id": 153,
+      "startMs": 847840,
+      "endMs": 855200,
+      "en": "My sister gave birth here last year in June, and she's due again next year in January.",
+      "zh": "我姐姐去年六月在这里生了孩子，明年一月又要生产。"
+    },
+    {
+      "id": 154,
+      "startMs": 855820,
+      "endMs": 858940,
+      "en": "We are very worried if everything would be okay.",
+      "zh": "我们非常担心一切是否会平安。"
+    },
+    {
+      "id": 155,
+      "startMs": 860020,
+      "endMs": 863300,
+      "en": "Do you think that the situation in Kyiv is getting worse at the moment?",
+      "zh": "你认为目前基辅的局势正在恶化吗？"
+    },
+    {
+      "id": 156,
+      "startMs": 863300,
+      "endMs": 866900,
+      "en": "Yeah, it's getting worse.",
+      "zh": "是的，情况正在恶化。"
+    },
+    {
+      "id": 157,
+      "startMs": 866980,
+      "endMs": 871460,
+      "en": "Also, like last winter, we didn't have heating, we didn't have electricity.",
+      "zh": "而且，和去年冬天一样，我们没有暖气，也没有电。"
+    },
+    {
+      "id": 158,
+      "startMs": 871460,
+      "endMs": 876820,
+      "en": "I lived in Obolon. The temperature was below zero in my apartment. So yeah, it's getting worse.",
+      "zh": "我住在奥博隆，公寓里的温度低于零度。所以，是的，情况正在恶化。"
+    },
+    {
+      "id": 159,
+      "startMs": 876820,
+      "endMs": 884580,
+      "en": "We've heard that some people are thinking about leaving the city for the winter. Is that something you're thinking of?",
+      "zh": "我们听说，有些人正在考虑离开这座城市去过冬。你也在考虑这样做吗？"
+    },
+    {
+      "id": 160,
+      "startMs": 884580,
+      "endMs": 889780,
+      "en": "We were thinking of moving to the Carpathian mountains,",
+      "zh": "我们原本考虑搬到喀尔巴阡山脉，"
+    },
+    {
+      "id": 161,
+      "startMs": 889860,
+      "endMs": 895620,
+      "en": "but I'm also scared to go there because here at least you have somewhere to hide and they're just mountains.",
+      "zh": "但我也害怕去那里，因为至少在这里你还有地方可以躲藏，而那里只有山。"
+    },
+    {
+      "id": 162,
+      "startMs": 897460,
+      "endMs": 900900,
+      "en": "After attacks like this, there are often brief power cuts.",
+      "zh": "发生这样的袭击后，经常会短暂停电。"
+    },
+    {
+      "id": 163,
+      "startMs": 901380,
+      "endMs": 904820,
+      "en": "There are apparently problems with the internet today in some parts of the city,",
+      "zh": "据说今天城里有些地方的互联网出了问题，"
+    },
+    {
+      "id": 164,
+      "startMs": 905380,
+      "endMs": 910900,
+      "en": "but so far we have not had the kind of widespread power cuts that we've seen in previous winters.",
+      "zh": "但到目前为止，还没有出现往年冬天那种大范围停电。"
+    },
+    {
+      "id": 165,
+      "startMs": 911060,
+      "endMs": 918020,
+      "en": "As the temperatures drop and winter arrives, those widespread power cuts are an absolute inevitability.",
+      "zh": "随着气温下降、冬季来临，大范围停电绝对不可避免。"
+    },
+    {
+      "id": 166,
+      "startMs": 918420,
+      "endMs": 920900,
+      "en": "The people of this city are acutely conscious of that.",
+      "zh": "这座城市的居民对此有着切身的认识。"
+    },
+    {
+      "id": 167,
+      "startMs": 921680,
+      "endMs": 925600,
+      "en": "But many of them who have been through this before are determined to stick it out.",
+      "zh": "但许多经历过这一切的人都决心坚持下去。"
+    },
+    {
+      "id": 168,
+      "startMs": 926560,
+      "endMs": 931180,
+      "en": "It'll be a hard winter for us.",
+      "zh": "这个冬天对我们来说会很艰难。"
+    },
+    {
+      "id": 169,
+      "startMs": 932700,
+      "endMs": 942240,
+      "en": "Every winter is hard for us because there's no electricity, it's so cold, and there are so, so many ballistic missiles.",
+      "zh": "每个冬天对我们来说都很艰难，因为没有电、天气严寒，还有那么多弹道导弹。"
+    },
+    {
+      "id": 170,
+      "startMs": 942480,
+      "endMs": 942880,
+      "en": "It's hard.",
+      "zh": "太难了。"
+    },
+    {
+      "id": 171,
+      "startMs": 944620,
+      "endMs": 953260,
+      "en": "It seems as though maybe this winter will be more difficult because you have the ballistic missiles and the new drones.",
+      "zh": "看来这个冬天可能会更艰难，因为有弹道导弹和新型无人机。"
+    },
+    {
+      "id": 172,
+      "startMs": 954420,
+      "endMs": 960240,
+      "en": "I think it will be more or less the same as before. This winter.",
+      "zh": "我觉得这个冬天会和以前差不多。"
+    },
+    {
+      "id": 173,
+      "startMs": 961280,
+      "endMs": 968880,
+      "en": "So you're going to stay here in Kyiv? Yes, stay in Kyiv, stay in Kyiv, 100% stay in Kyiv, 1 million percent stay in Kyiv.",
+      "zh": "所以你打算留在基辅？是的，留在基辅，留在基辅，百分之百留在基辅，百分之一百万留在基辅。"
+    },
+    {
+      "id": 174,
+      "startMs": 971040,
+      "endMs": 972320,
+      "en": "Paul Adams in Ukraine.",
+      "zh": "来自乌克兰的保罗·亚当斯报道。"
+    },
+    {
+      "id": 175,
+      "startMs": 973120,
+      "endMs": 981360,
+      "en": "African elephants in Kenya seem to use dozens of different medicinal plants to treat themselves and even provide medical care for sick calves.",
+      "zh": "肯尼亚的非洲象似乎会使用数十种不同的药用植物为自己治病，甚至为生病的小象提供医疗照护。"
+    },
+    {
+      "id": 176,
+      "startMs": 981760,
+      "endMs": 985760,
+      "en": "That's the conclusion after researchers interviewed local people.",
+      "zh": "研究人员采访了当地居民，得出了这个结论。"
+    },
+    {
+      "id": 177,
+      "startMs": 985760,
+      "endMs": 989120,
+      "en": "They spent decades living and working with elephants in Mount Elgon.",
+      "zh": "这些居民数十年来与埃尔贡山地区的大象共同生活和工作。"
+    },
+    {
+      "id": 178,
+      "startMs": 989520,
+      "endMs": 992000,
+      "en": "Here's our science correspondent Victoria Gill.",
+      "zh": "下面请听我们的科学记者维多利亚·吉尔报道。"
+    },
+    {
+      "id": 179,
+      "startMs": 992560,
+      "endMs": 998240,
+      "en": "The animals involved in this study have intrigued scientists for many years with their extraordinary behaviour.",
+      "zh": "这项研究中的动物因其非凡的行为，多年来一直令科学家着迷。"
+    },
+    {
+      "id": 180,
+      "startMs": 998720,
+      "endMs": 1001280,
+      "en": "Mount Elgon's elephants are known for their salt mining.",
+      "zh": "埃尔贡山的大象以开采盐分闻名。"
+    },
+    {
+      "id": 181,
+      "startMs": 1001440,
+      "endMs": 1007200,
+      "en": "The herds go into caves and scrape the rock with their tusks to extract salt and other minerals for their diet.",
+      "zh": "象群进入洞穴，用象牙刮擦岩石，获取盐和其他矿物质作为食物的一部分。"
+    },
+    {
+      "id": 182,
+      "startMs": 1007840,
+      "endMs": 1014640,
+      "en": "This newly published research suggests that the same elephants use several plants found in the forest for medicinal purposes.",
+      "zh": "这项新发表的研究表明，同一群大象会将森林中的几种植物用于药用。"
+    },
+    {
+      "id": 183,
+      "startMs": 1015620,
+      "endMs": 1022020,
+      "en": "The scientists interviewed local wildlife scouts and community elders, all of whom live and work closely with the animals.",
+      "zh": "科学家采访了当地野生动物巡护员和社区长者，他们都与这些动物长期密切生活和工作。"
+    },
+    {
+      "id": 184,
+      "startMs": 1022500,
+      "endMs": 1027780,
+      "en": "Their accounts described elephants seeking out and selecting particular plants when they seemed unwell,",
+      "zh": "他们描述说，大象感到不适时会寻找并挑选特定的植物，"
+    },
+    {
+      "id": 185,
+      "startMs": 1028180,
+      "endMs": 1031460,
+      "en": "and mothers reportedly giving medicinal plants to their calves.",
+      "zh": "据称，象妈妈还会把药用植物给小象。"
+    },
+    {
+      "id": 186,
+      "startMs": 1032480,
+      "endMs": 1036560,
+      "en": "The work was done in collaboration with the conservation charity, the Mount Elgon Foundation,",
+      "zh": "这项工作与保护组织埃尔贡山基金会合作开展，"
+    },
+    {
+      "id": 187,
+      "startMs": 1036800,
+      "endMs": 1041520,
+      "en": "and the scientists and the charity have already embarked on gathering more direct evidence of the behaviour,",
+      "zh": "科学家和该组织已经开始收集有关这种行为的更多直接证据，"
+    },
+    {
+      "id": 188,
+      "startMs": 1041760,
+      "endMs": 1044960,
+      "en": "giving local wildlife experts cameras to record what they witness.",
+      "zh": "他们给当地野生动物专家配备摄像机，记录他们看到的情况。"
+    },
+    {
+      "id": 189,
+      "startMs": 1045740,
+      "endMs": 1052380,
+      "en": "These scientists want to delve into exactly what we can learn from wild animals about the properties of plants in their forest habitat.",
+      "zh": "这些科学家想深入研究，我们究竟能从野生动物身上了解到其森林栖息地植物的哪些特性。"
+    },
+    {
+      "id": 190,
+      "startMs": 1052940,
+      "endMs": 1055980,
+      "en": "Here is Dr Elodie Freymann from Brown University in the US.",
+      "zh": "下面是美国布朗大学的埃洛迪·弗赖曼博士。"
+    },
+    {
+      "id": 191,
+      "startMs": 1056460,
+      "endMs": 1066300,
+      "en": "We're beginning to like map out those complicated interwoven vines that kind of weave between species, in this case between ourselves and elephants.",
+      "zh": "我们开始尝试描绘那些复杂交织的藤蔓般联系——在这个案例中，就是人类与大象之间的联系。"
+    },
+    {
+      "id": 192,
+      "startMs": 1066300,
+      "endMs": 1068700,
+      "en": "But that's kind of for me the biggest takeaway",
+      "zh": "但对我来说，最大的收获是，"
+    },
+    {
+      "id": 193,
+      "startMs": 1068860,
+      "endMs": 1074620,
+      "en": "of studies like this is just how entangled our medicines are with other animals on this planet.",
+      "zh": "这类研究让我们看到，人类的药物与这个星球上的其他动物是多么相互纠缠。"
+    },
+    {
+      "id": 194,
+      "startMs": 1075020,
+      "endMs": 1082540,
+      "en": "Professor Michael Huffman, who's a primatologist based in Japan, is considered a pioneer in this field of studying self-medication in wildlife.",
+      "zh": "迈克尔·霍夫曼教授是常驻日本的灵长类动物学家，被认为是野生动物自我用药研究领域的先驱。"
+    },
+    {
+      "id": 195,
+      "startMs": 1083180,
+      "endMs": 1088460,
+      "en": "He says that with every new species we study, we learn more about the wild roots of our own medical discovery.",
+      "zh": "他说，我们每研究一个新物种，就能更多了解人类医学发现的自然根源。"
+    },
+    {
+      "id": 196,
+      "startMs": 1089100,
+      "endMs": 1093100,
+      "en": "We now know that mosquitoes and Drosophila flies self-medicate under stress.",
+      "zh": "我们现在知道，蚊子和果蝇会在压力下自我用药。"
+    },
+    {
+      "id": 197,
+      "startMs": 1093820,
+      "endMs": 1103340,
+      "en": "Bees, ants and termites use antibacterial substances to protect their colonies, and many, many more species of animals treat parasite infections and wounds.",
+      "zh": "蜜蜂、蚂蚁和白蚁用抗菌物质保护群体，许多其他动物也会治疗寄生虫感染和伤口。"
+    },
+    {
+      "id": 198,
+      "startMs": 1104460,
+      "endMs": 1110060,
+      "en": "All the way up the evolutionary ladder to the great apes of Africa and Asia, there is still much to learn.",
+      "zh": "从进化阶梯底端直到非洲和亚洲的大猿类，我们仍有许多东西要学习。"
+    },
+    {
+      "id": 199,
+      "startMs": 1110300,
+      "endMs": 1119340,
+      "en": "And I think it would not be an exaggeration to say that when species become extinct, so do the living medicinal textbooks that they represent.",
+      "zh": "我认为，说物种灭绝时，它们所代表的活体药典也随之消失，并不夸张。"
+    },
+    {
+      "id": 200,
+      "startMs": 1119900,
+      "endMs": 1123500,
+      "en": "That for Dr. Freymann is a key lesson from this elephant study.",
+      "zh": "对埃洛迪·弗赖曼博士来说，这是这项大象研究的关键启示。"
+    },
+    {
+      "id": 201,
+      "startMs": 1123740,
+      "endMs": 1126940,
+      "en": "Protecting natural habitats, she says, is in our own interest.",
+      "zh": "她说，保护自然栖息地符合我们自身的利益。"
+    },
+    {
+      "id": 202,
+      "startMs": 1126940,
+      "endMs": 1132220,
+      "en": "I think it's quite an exciting story because it's one of those exciting moments",
+      "zh": "我认为这是个非常令人兴奋的故事，因为这是那些令人激动的时刻之一。"
+    },
+    {
+      "id": 203,
+      "startMs": 1132220,
+      "endMs": 1138940,
+      "en": "in which it's a win-win for us to keep those natural pharmacies around because they're also our medicines.",
+      "zh": "保护这些天然药房对我们来说是双赢，因为它们也是我们的药物来源。"
+    },
+    {
+      "id": 204,
+      "startMs": 1139340,
+      "endMs": 1142620,
+      "en": "And so the incentive is actually in the right place for us.",
+      "zh": "所以，这个激励机制实际上对我们很有利。"
+    },
+    {
+      "id": 205,
+      "startMs": 1142620,
+      "endMs": 1149820,
+      "en": "It's not, it doesn't take selflessness to want to save these forest pharmacies or these medicine cabinets",
+      "zh": "想要拯救这些森林药房或药物宝库，并不需要无私奉献，"
+    },
+    {
+      "id": 206,
+      "startMs": 1149820,
+      "endMs": 1156540,
+      "en": "because it's our well-being and the future of our healthcare systems as well rely on the protection of these natural products.",
+      "zh": "因为我们的福祉以及医疗体系的未来，也依赖于对这些天然产物的保护。"
+    },
+    {
+      "id": 207,
+      "startMs": 1157180,
+      "endMs": 1160220,
+      "en": "Dr. Elodie Freymann ending that report by Victoria Gill.",
+      "zh": "以上是维多利亚·吉尔的报道，受访者是埃洛迪·弗赖曼博士。"
+    },
+    {
+      "id": 208,
+      "startMs": 1161100,
+      "endMs": 1166720,
+      "en": "A Thai teenager called Nene Royal has been crowned winner of the latest series of America's Got Talent,",
+      "zh": "一名叫内内·罗亚尔的泰国少女赢得了最新一季《美国达人秀》的冠军，"
+    },
+    {
+      "id": 209,
+      "startMs": 1167280,
+      "endMs": 1172880,
+      "en": "the 16-year-old rock musician overcame magic acts, canine performers, and even a robot dance crew.",
+      "zh": "这名16岁的摇滚音乐人击败了魔术表演、犬类表演者，甚至还有机器人舞团。"
+    },
+    {
+      "id": 210,
+      "startMs": 1173360,
+      "endMs": 1177840,
+      "en": "I heard about the reaction back home from Panisa Amosha in the Thai capital, Bangkok.",
+      "zh": "我从身在泰国首都曼谷的Panisa Amosha那里听到了当地的反应。"
+    },
+    {
+      "id": 211,
+      "startMs": 1178240,
+      "endMs": 1180880,
+      "en": "This is a win for all Thai people.",
+      "zh": "这是所有泰国人的胜利。"
+    },
+    {
+      "id": 212,
+      "startMs": 1181200,
+      "endMs": 1183280,
+      "en": "She actually became breaking news in Thailand,",
+      "zh": "她确实成了泰国的突发新闻，"
+    },
+    {
+      "id": 213,
+      "startMs": 1183280,
+      "endMs": 1189360,
+      "en": "so we could say that what she won as a 16-year-old means so much for the Thai people and the country.",
+      "zh": "所以可以说，她以16岁之龄赢得冠军，对泰国人民和这个国家意义重大。"
+    },
+    {
+      "id": 214,
+      "startMs": 1189680,
+      "endMs": 1194640,
+      "en": "Breaking news, but many of her fans there had trouble watching the final on television.",
+      "zh": "这是重大新闻，但当地许多粉丝难以在电视上观看决赛。"
+    },
+    {
+      "id": 215,
+      "startMs": 1194640,
+      "endMs": 1201120,
+      "en": "Indeed, because it's not really that easy for a lot of Thai people to watch the television network like NBC from the US,",
+      "zh": "确实，许多泰国人不太容易观看美国NBC这样的电视网络，"
+    },
+    {
+      "id": 216,
+      "startMs": 1201360,
+      "endMs": 1204640,
+      "en": "so a lot of people had resorted to the live stream on YouTube.",
+      "zh": "所以很多人只能求助于YouTube直播。"
+    },
+    {
+      "id": 217,
+      "startMs": 1204960,
+      "endMs": 1210880,
+      "en": "But then on the last two, she, with another contestant, the live stream got abruptly cut,",
+      "zh": "但在最后两人比赛时，她和另一名选手的直播突然中断，"
+    },
+    {
+      "id": 218,
+      "startMs": 1210880,
+      "endMs": 1215440,
+      "en": "and people were just like fainting and wanting to know what's happened and wanting to know the result.",
+      "zh": "人们简直要晕倒了，急切想知道发生了什么以及比赛结果。"
+    },
+    {
+      "id": 219,
+      "startMs": 1215760,
+      "endMs": 1220480,
+      "en": "But then we heard a lot of results coming from people who posted on social media,",
+      "zh": "但后来我们从社交媒体发帖的人那里听到了许多结果消息，"
+    },
+    {
+      "id": 220,
+      "startMs": 1220480,
+      "endMs": 1224080,
+      "en": "and people started to feel relieved, and then the light came back.",
+      "zh": "人们开始感到宽慰，随后灯光也恢复了。"
+    },
+    {
+      "id": 221,
+      "startMs": 1224100,
+      "endMs": 1226340,
+      "en": "And then, once again, they celebrate the win.",
+      "zh": "然后，他们再次庆祝胜利。"
+    },
+    {
+      "id": 222,
+      "startMs": 1226580,
+      "endMs": 1228100,
+      "en": "She's only 16.",
+      "zh": "她只有16岁。"
+    },
+    {
+      "id": 223,
+      "startMs": 1228500,
+      "endMs": 1232180,
+      "en": "Tell us about her career so far and what it holds for her in the future.",
+      "zh": "请介绍一下她迄今的事业，以及未来将走向何方。"
+    },
+    {
+      "id": 224,
+      "startMs": 1232580,
+      "endMs": 1235140,
+      "en": "Her career started when she was seven years old.",
+      "zh": "她七岁时便开始了自己的事业。"
+    },
+    {
+      "id": 225,
+      "startMs": 1235140,
+      "endMs": 1237620,
+      "en": "And one thing that we can say is like a plot twist,",
+      "zh": "我们可以说，其中有一个情节转折，"
+    },
+    {
+      "id": 226,
+      "startMs": 1237860,
+      "endMs": 1242740,
+      "en": "which was that she was supposed to join a school club and wanted to join computer science,",
+      "zh": "那就是她本应加入一个学校社团，而且想加入计算机科学社团，"
+    },
+    {
+      "id": 227,
+      "startMs": 1242820,
+      "endMs": 1246340,
+      "en": "but she woke up late and then left with the music club.",
+      "zh": "但她起晚了，最后加入了音乐社团。"
+    },
+    {
+      "id": 228,
+      "startMs": 1246340,
+      "endMs": 1249380,
+      "en": "And then when she joined the music club, she chose the guitar.",
+      "zh": "加入音乐社团后，她选择了吉他。"
+    },
+    {
+      "id": 229,
+      "startMs": 1249780,
+      "endMs": 1253540,
+      "en": "And then the first song that she practiced on the guitar was \"Zombie.\"",
+      "zh": "她在吉他上练习的第一首歌是《Zombie》。"
+    },
+    {
+      "id": 230,
+      "startMs": 1253620,
+      "endMs": 1256820,
+      "en": "It was also the first song that she performed that went viral.",
+      "zh": "这也是她演唱并走红的第一首歌。"
+    },
+    {
+      "id": 231,
+      "startMs": 1257220,
+      "endMs": 1264580,
+      "en": "But she practiced, she loved rock music, she loved heavy metal, and she loved to become a rock star, a cool girl.",
+      "zh": "但她坚持练习；她喜欢摇滚和重金属，梦想成为一名酷酷的摇滚明星。"
+    },
+    {
+      "id": 232,
+      "startMs": 1264900,
+      "endMs": 1268420,
+      "en": "And that's what she's doing. She's not only cool, she's successful,",
+      "zh": "她正是这样做的。她不仅酷，也很成功，"
+    },
+    {
+      "id": 233,
+      "startMs": 1268660,
+      "endMs": 1274020,
+      "en": "and she's now become the daughter of Thailand, and she has a long road ahead of her career.",
+      "zh": "如今她成了泰国的女儿，事业前方还有很长的路。"
+    },
+    {
+      "id": 234,
+      "startMs": 1274100,
+      "endMs": 1276660,
+      "en": "She has a dream to perform internationally.",
+      "zh": "她梦想在国际舞台上演出。"
+    },
+    {
+      "id": 235,
+      "startMs": 1276660,
+      "endMs": 1282820,
+      "en": "And back in July, she also said that she's writing her own song, and we are eagerly awaiting her performance.",
+      "zh": "今年7月，她还说自己正在创作歌曲，我们热切期待她的演出。"
+    },
+    {
+      "id": 236,
+      "startMs": 1283300,
+      "endMs": 1285080,
+      "en": "Panisa Amosha in Bangkok.",
+      "zh": "曼谷的Panisa Amosha报道。"
+    },
+    {
+      "id": 237,
+      "startMs": 1288240,
+      "endMs": 1289680,
+      "en": "And that is all from us for now.",
+      "zh": "以上就是目前的全部报道。"
+    },
+    {
+      "id": 238,
+      "startMs": 1289840,
+      "endMs": 1294160,
+      "en": "If you want to get in touch, email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果想联系我们，请发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 239,
+      "startMs": 1294160,
+      "endMs": 1299920,
+      "en": "You can also watch our episodes in full by searching for the Global News Podcast on YouTube.",
+      "zh": "你也可以在YouTube搜索Global News Podcast，观看完整节目。"
+    },
+    {
+      "id": 240,
+      "startMs": 1300400,
+      "endMs": 1303600,
+      "en": "This edition was mixed by Rebecca Miller and produced by Nikki Verrico.",
+      "zh": "本期由Rebecca Miller混音，Nikki Verrico制作。"
+    },
+    {
+      "id": 241,
+      "startMs": 1303600,
+      "endMs": 1305680,
+      "en": "Our editor is Karen Martin.",
+      "zh": "编辑是Karen Martin。"
+    },
+    {
+      "id": 242,
+      "startMs": 1305680,
+      "endMs": 1306720,
+      "en": "I'm Oliver Conway.",
+      "zh": "我是Oliver Conway。"
+    },
+    {
+      "id": 243,
+      "startMs": 1306960,
+      "endMs": 1308320,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}

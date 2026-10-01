@@ -1,0 +1,1579 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "24 September 2026"
+  },
+  "durationMs": 1261220,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3840,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 5620,
+      "endMs": 12340,
+      "en": "I'm Alex Ritson, and in the early hours of Thursday, the 24th of September, these are our main stories.",
+      "zh": "我是亚历克斯·里森。现在是9月24日星期四凌晨，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12340,
+      "endMs": 17220,
+      "en": "A Gaza reconstruction plan is announced, but it's unclear how it would be implemented.",
+      "zh": "加沙重建计划公布，但尚不清楚将如何实施。"
+    },
+    {
+      "id": 4,
+      "startMs": 18260,
+      "endMs": 25300,
+      "en": "And Britain gains speed in the space arms race, while there are calls for the AI race to slow down.",
+      "zh": "英国在太空军备竞赛中加快脚步，同时有人呼吁放慢人工智能竞赛。"
+    },
+    {
+      "id": 5,
+      "startMs": 27700,
+      "endMs": 35860,
+      "en": "Also in this podcast, archaeologists discover a wall that shows what Paris may have looked like before the Romans arrived.",
+      "zh": "本期还将报道：考古学家发现一堵墙，展示出罗马人到来前巴黎可能的样貌。"
+    },
+    {
+      "id": 6,
+      "startMs": 35860,
+      "endMs": 43380,
+      "en": "It's the first time we found traces of the Gallic people of Lutetia, as potentially described by Julius Caesar.",
+      "zh": "这是我们首次发现卢泰西亚高卢人的遗迹，他们或许正如尤利乌斯·凯撒所描述的那样。"
+    },
+    {
+      "id": 7,
+      "startMs": 43700,
+      "endMs": 46420,
+      "en": "And France clamps down on Mont Blanc hikers.",
+      "zh": "法国还将收紧对勃朗峰徒步者的管理。"
+    },
+    {
+      "id": 8,
+      "startMs": 46420,
+      "endMs": 51140,
+      "en": "President Trump's Board of Peace, which was set up following the ceasefire agreement in Gaza,",
+      "zh": "特朗普总统的和平委员会是在加沙停火协议后成立的，"
+    },
+    {
+      "id": 9,
+      "startMs": 51380,
+      "endMs": 57300,
+      "en": "has announced a $2.45 billion partial recovery plan for the Palestinian territory.",
+      "zh": "它宣布了一项针对巴勒斯坦地区、金额为24.5亿美元的部分恢复计划。"
+    },
+    {
+      "id": 10,
+      "startMs": 57780,
+      "endMs": 62100,
+      "en": "The announcement at a meeting in New York coincides with increased criticism",
+      "zh": "这项计划在纽约一次会议上宣布之际，批评声也在增加"
+    },
+    {
+      "id": 11,
+      "startMs": 62100,
+      "endMs": 67540,
+      "en": "of Israel's continuing airstrikes in the strip and the worsening humanitarian situation.",
+      "zh": "外界批评以色列持续空袭加沙地带，人道局势也在恶化。"
+    },
+    {
+      "id": 12,
+      "startMs": 67860,
+      "endMs": 75220,
+      "en": "Michael Eisenberg is an Israeli businessman, an advisor to Benjamin Netanyahu, and a member of the Board of Peace.",
+      "zh": "迈克尔·艾森伯格是以色列商人、本雅明·内塔尼亚胡的顾问，也是和平委员会成员。"
+    },
+    {
+      "id": 13,
+      "startMs": 75780,
+      "endMs": 83720,
+      "en": "The Board of Peace presented a plan for a variety of sectors of life, sanitation, hygiene, and of course, some future building plans,",
+      "zh": "和平委员会提出了一项涵盖生活各领域的计划，包括环境卫生、个人卫生，当然还有未来的建设计划，"
+    },
+    {
+      "id": 14,
+      "startMs": 83720,
+      "endMs": 88920,
+      "en": "all of which is predicated on the full disarmament and demilitarization of the Gaza Strip.",
+      "zh": "而这一切都以加沙地带全面解除武装和非军事化为前提。"
+    },
+    {
+      "id": 15,
+      "startMs": 89160,
+      "endMs": 93960,
+      "en": "And so, there's a lot of ambitious plans as soon as Hamas decides to give up their weapons.",
+      "zh": "所以，只要哈马斯决定放下武器，就有许多雄心勃勃的计划可以启动。"
+    },
+    {
+      "id": 16,
+      "startMs": 94520,
+      "endMs": 101480,
+      "en": "The plan faces significant challenges, including securing funding, providing security for those operating in Gaza,",
+      "zh": "这项计划面临重大挑战，包括筹措资金、为在加沙开展工作的人提供安全保障，"
+    },
+    {
+      "id": 17,
+      "startMs": 101480,
+      "endMs": 106200,
+      "en": "and finding consensus between Israeli and Palestinian officials on the ground.",
+      "zh": "以及让以色列和巴勒斯坦当地官员达成共识。"
+    },
+    {
+      "id": 18,
+      "startMs": 106520,
+      "endMs": 111640,
+      "en": "Jonathan Kuttab is a Palestinian lawyer and a former international negotiator.",
+      "zh": "乔纳森·库塔布是巴勒斯坦律师，曾任国际谈判代表。"
+    },
+    {
+      "id": 19,
+      "startMs": 112280,
+      "endMs": 116520,
+      "en": "This board is not going to have any actual authority.",
+      "zh": "这个委员会不会拥有任何实际权力。"
+    },
+    {
+      "id": 20,
+      "startMs": 117160,
+      "endMs": 126440,
+      "en": "Right now, Israel is preventing even allowing toilet seats, wheelchairs, basic equipment to be brought in.",
+      "zh": "现在，以色列甚至阻止马桶座圈、轮椅和基本设备运入。"
+    },
+    {
+      "id": 21,
+      "startMs": 126680,
+      "endMs": 135720,
+      "en": "So how is this board going to operate if it doesn't have the freedom to allow the materials in to carry out its function?",
+      "zh": "那么，如果没有允许物资进入、履行职能的自由，这个委员会要如何运作？"
+    },
+    {
+      "id": 22,
+      "startMs": 136200,
+      "endMs": 139880,
+      "en": "So when might we see the start of reconstruction in Gaza?",
+      "zh": "那么，我们什么时候才能看到加沙重建开始？"
+    },
+    {
+      "id": 23,
+      "startMs": 139100,
+      "endMs": 143340,
+      "en": "I asked our Global Affairs reporter, Sebastian Usher.",
+      "zh": "我询问了本台全球事务记者塞巴斯蒂安·厄舍。"
+    },
+    {
+      "id": 24,
+      "startMs": 143820,
+      "endMs": 150700,
+      "en": "There's no sense that things have settled down to any level that there can be real movement in terms of reconstruction.",
+      "zh": "目前没有迹象表明局势已经稳定到可以真正推进重建的程度。"
+    },
+    {
+      "id": 25,
+      "startMs": 150940,
+      "endMs": 153660,
+      "en": "You hear that from both the people that have just been speaking.",
+      "zh": "刚才发言的双方都表达了这一点。"
+    },
+    {
+      "id": 26,
+      "startMs": 154060,
+      "endMs": 160380,
+      "en": "From a Board of Peace, the sense that the blame is with Hamas because they haven't committed to disarmament.",
+      "zh": "和平委员会方面认为，责任在于哈马斯，因为哈马斯没有承诺解除武装。"
+    },
+    {
+      "id": 27,
+      "startMs": 160860,
+      "endMs": 164620,
+      "en": "From the Palestinian side, it is that Israel has not begun to withdraw from",
+      "zh": "巴勒斯坦方面则认为，以色列尚未开始从其占据的"
+    },
+    {
+      "id": 28,
+      "startMs": 164620,
+      "endMs": 167420,
+      "en": "positions that it took. So that stalemate exists.",
+      "zh": "阵地撤出。因此，僵局依然存在。"
+    },
+    {
+      "id": 29,
+      "startMs": 167660,
+      "endMs": 171100,
+      "en": "And that means that whatever plans there are in place,",
+      "zh": "这意味着，无论现有何种计划，"
+    },
+    {
+      "id": 30,
+      "startMs": 171340,
+      "endMs": 179100,
+      "en": "and it was really a call for countries to put their money where their mouth is and actually start this process",
+      "zh": "这其实是在呼吁各国兑现承诺，真正启动这一进程"
+    },
+    {
+      "id": 31,
+      "startMs": 179580,
+      "endMs": 183180,
+      "en": "in a pretty limited way, that even that probably isn't going to get much traction.",
+      "zh": "但以相当有限的方式推进，恐怕连这也不会取得多大进展。"
+    },
+    {
+      "id": 32,
+      "startMs": 183820,
+      "endMs": 193660,
+      "en": "$2.45 billion, it sounds like a lot of money, but actually when 80% of the buildings in Gaza are damaged or destroyed, it goes nowhere, does it?",
+      "zh": "24.5亿美元听起来很多，但加沙80%的建筑受损或被毁，这笔钱实际上无济于事，对吧？"
+    },
+    {
+      "id": 33,
+      "startMs": 193660,
+      "endMs": 198460,
+      "en": "No, absolutely. I mean, it's about trying to get some kind of infrastructure in place again",
+      "zh": "不，确实如此。这是要设法重新建立某种基础设施"
+    },
+    {
+      "id": 34,
+      "startMs": 199440,
+      "endMs": 204160,
+      "en": "and to have better quality temporary housing. Most Gazans at the moment are living in tents.",
+      "zh": "并提供质量更好的临时住所。目前大多数加沙人住在帐篷里。"
+    },
+    {
+      "id": 35,
+      "startMs": 204160,
+      "endMs": 207680,
+      "en": "But we had a terrible incident just a week ago when a house collapsed.",
+      "zh": "但就在一周前发生了一起惨剧，一栋房屋倒塌。"
+    },
+    {
+      "id": 36,
+      "startMs": 208000,
+      "endMs": 214240,
+      "en": "More than 20 people were killed. So, I mean, it hasn't even scratched the surface so far and this would be the start of that.",
+      "zh": "20多人死亡。所以，到目前为止，这甚至还只是触及表面，而这将是重建的起点。"
+    },
+    {
+      "id": 37,
+      "startMs": 214320,
+      "endMs": 217760,
+      "en": "I mean, the estimate that the Board of Peace put out at this meeting that they held",
+      "zh": "和平委员会在这次会议上提出的估算是，"
+    },
+    {
+      "id": 38,
+      "startMs": 218320,
+      "endMs": 224720,
+      "en": "was that over a decade more than $70 billion is needed for full reconstruction. I've seen figures which are much higher than that.",
+      "zh": "全面重建十多年间需要超过700亿美元。我见过的数字还要高得多。"
+    },
+    {
+      "id": 39,
+      "startMs": 224960,
+      "endMs": 229040,
+      "en": "We heard that clip there of Jonathan Kuttab, a Palestinian lawyer.",
+      "zh": "刚才我们听到的是巴勒斯坦律师乔纳森·库塔布的录音。"
+    },
+    {
+      "id": 40,
+      "startMs": 229280,
+      "endMs": 235280,
+      "en": "The point he makes in reality is true on the ground in that he says they have no authority.",
+      "zh": "他在现实中提出的这一点，在当地确实如此：他说他们没有任何权力。"
+    },
+    {
+      "id": 41,
+      "startMs": 235280,
+      "endMs": 240960,
+      "en": "And if they can't get buy-in from people like him, from Palestinians on the ground, this will go nowhere.",
+      "zh": "如果他们无法获得像他这样的当地巴勒斯坦人的支持，这项计划将无从推进。"
+    },
+    {
+      "id": 42,
+      "startMs": 242100,
+      "endMs": 248820,
+      "en": "I mean, there's nothing to govern at the moment, but if there were, there are technocrats and Palestinians who've had nothing to do with Hamas.",
+      "zh": "我的意思是，目前根本没有什么可以治理；但如果有的话，那里有技术官僚，也有与哈马斯毫无关系的巴勒斯坦人。"
+    },
+    {
+      "id": 43,
+      "startMs": 249220,
+      "endMs": 258360,
+      "en": "But they would manage the day-to-day running of Gaza. That exists, they're in place, but they have no authority at the moment to do anything.",
+      "zh": "他们会负责管理加沙的日常运转。这些人确实存在，也已就位，但目前没有权力做任何事。"
+    },
+    {
+      "id": 44,
+      "startMs": 258360,
+      "endMs": 262200,
+      "en": "Hamas is in control in the 30% or so of Gaza where they are",
+      "zh": "哈马斯控制着加沙约30%的地区，也就是他们所在的地方，"
+    },
+    {
+      "id": 45,
+      "startMs": 262280,
+      "endMs": 268600,
+      "en": "and where the vast majority of Palestinians are, and the Israelis, of course, are in control of the 70% that they are in.",
+      "zh": "那里也是绝大多数巴勒斯坦人所在的地方，而以色列当然控制着其占据的70%地区。"
+    },
+    {
+      "id": 46,
+      "startMs": 269160,
+      "endMs": 273320,
+      "en": "But there's just total stalemate. That just isn't moving anywhere.",
+      "zh": "但局面完全陷入僵局，毫无进展。"
+    },
+    {
+      "id": 47,
+      "startMs": 273720,
+      "endMs": 278680,
+      "en": "So, even this, as you said, two and a half billion dollars does sound like a lot of money",
+      "zh": "所以，正如你所说，即便这25亿美元听起来很多，"
+    },
+    {
+      "id": 48,
+      "startMs": 278680,
+      "endMs": 286680,
+      "en": "but in terms of what's necessary, the Board of Peace has made clear this is just a starting point and would be over six months.",
+      "zh": "但就实际所需而言，和平委员会已明确表示，这只是起点，而且将在六个月内实施。"
+    },
+    {
+      "id": 49,
+      "startMs": 287320,
+      "endMs": 290120,
+      "en": "If that got going, then a momentum would build.",
+      "zh": "如果这能启动，就会形成势头。"
+    },
+    {
+      "id": 50,
+      "startMs": 290360,
+      "endMs": 296440,
+      "en": "The trouble is there is no momentum at the moment towards any progress on the ground in Gaza.",
+      "zh": "问题在于，目前没有任何推动加沙地面局势进展的势头。"
+    },
+    {
+      "id": 51,
+      "startMs": 296920,
+      "endMs": 298200,
+      "en": "Sebastian Usher.",
+      "zh": "塞巴斯蒂安·厄舍。"
+    },
+    {
+      "id": 52,
+      "startMs": 299000,
+      "endMs": 306200,
+      "en": "It's emerged that an AI agent developed by OpenAI hacked Australia's government health website earlier this year.",
+      "zh": "据披露，OpenAI开发的一款人工智能代理今年早些时候入侵了澳大利亚政府的卫生网站。"
+    },
+    {
+      "id": 53,
+      "startMs": 306200,
+      "endMs": 308040,
+      "en": "Without the company's knowledge.",
+      "zh": "而公司对此并不知情。"
+    },
+    {
+      "id": 54,
+      "startMs": 308360,
+      "endMs": 313000,
+      "en": "It's believed patient records were not compromised and an investigation is under way.",
+      "zh": "据信患者记录未遭泄露，目前正在调查。"
+    },
+    {
+      "id": 55,
+      "startMs": 313240,
+      "endMs": 316780,
+      "en": "But this is the latest in a worrying trend of autonomous breaches.",
+      "zh": "但这是令人担忧的自主入侵趋势中的最新一起。"
+    },
+    {
+      "id": 56,
+      "startMs": 317180,
+      "endMs": 327420,
+      "en": "As fears swirl over rapid AI development, the heads of leading AI firms have been talking about the future of the technology at the UN.",
+      "zh": "随着人们对人工智能快速发展的担忧蔓延，几家领先人工智能公司的负责人在联合国讨论了这项技术的未来。"
+    },
+    {
+      "id": 57,
+      "startMs": 327740,
+      "endMs": 330780,
+      "en": "Here's the bosses of OpenAI and Anthropic.",
+      "zh": "以下是OpenAI和Anthropic两家公司的负责人发言。"
+    },
+    {
+      "id": 58,
+      "startMs": 331340,
+      "endMs": 336700,
+      "en": "As AI systems become more capable and more autonomous, they could move faster than our institutions",
+      "zh": "随着人工智能系统能力更强、更加自主，它们的运行速度可能超过我们的机构，"
+    },
+    {
+      "id": 59,
+      "startMs": 337340,
+      "endMs": 343020,
+      "en": "concentrate power in too few hands, or make decisions that people no longer understand or control.",
+      "zh": "把权力集中在少数人手中，或作出人们不再理解或无法控制的决定。"
+    },
+    {
+      "id": 60,
+      "startMs": 343420,
+      "endMs": 345820,
+      "en": "We will slow down as much as necessary",
+      "zh": "我们会在必要时尽可能放慢脚步，"
+    },
+    {
+      "id": 61,
+      "startMs": 346140,
+      "endMs": 352140,
+      "en": "in order to make sure that every successive AI technology that we release is actually safe.",
+      "zh": "以确保我们发布的每一项后续人工智能技术确实安全。"
+    },
+    {
+      "id": 62,
+      "startMs": 352620,
+      "endMs": 356060,
+      "en": "Our technology editor, Zoe Kleinman, has this assessment.",
+      "zh": "我们的科技编辑佐伊·克莱因曼对此作出分析。"
+    },
+    {
+      "id": 63,
+      "startMs": 356540,
+      "endMs": 361980,
+      "en": "It's an unusual display of unity from those two, Sam Altman and Dario Amodei.",
+      "zh": "萨姆·奥尔特曼和达里奥·阿莫代伊这两人罕见地表现出了一致。"
+    },
+    {
+      "id": 64,
+      "startMs": 361980,
+      "endMs": 368780,
+      "en": "They are usually fierce and quite bitter rivals, but they are singing from the same hymn sheet at the UN Security Council.",
+      "zh": "他们通常是激烈且相当针锋相对的竞争者，但在联合国安理会上却站在同一立场。"
+    },
+    {
+      "id": 65,
+      "startMs": 369180,
+      "endMs": 372300,
+      "en": "They both want international regulation for the technology.",
+      "zh": "他们都希望对这项技术进行国际监管。"
+    },
+    {
+      "id": 66,
+      "startMs": 372540,
+      "endMs": 375420,
+      "en": "They both want AI development to slow down.",
+      "zh": "他们都希望放慢人工智能的发展。"
+    },
+    {
+      "id": 67,
+      "startMs": 375820,
+      "endMs": 384240,
+      "en": "And they are talking about the importance of making sure that AI remains under human control, developed by humans for the benefit of humanity.",
+      "zh": "他们还在谈论确保人工智能受人类控制的重要性：由人类开发，造福全人类。"
+    },
+    {
+      "id": 68,
+      "startMs": 384880,
+      "endMs": 393040,
+      "en": "If you wanted to be cynical, you might say both companies burned through enormous amounts of money and could use time to raise more cash.",
+      "zh": "如果对此持怀疑态度，你可能会说，这两家公司都烧掉了巨额资金，正需要争取时间筹集更多现金。"
+    },
+    {
+      "id": 69,
+      "startMs": 393040,
+      "endMs": 399520,
+      "en": "And you could also say if they get regulation done internationally, then it takes some of the responsibility off them.",
+      "zh": "你也可以说，如果国际监管得以建立，就能替他们分担一部分责任。"
+    },
+    {
+      "id": 70,
+      "startMs": 399600,
+      "endMs": 407360,
+      "en": "But the fact is that there is a race on, not only between these two companies but also among the rest of the world, China in particular.",
+      "zh": "但事实是，这是一场竞赛，不仅发生在这两家公司之间，也发生在世界其他地区之间，尤其是中国。"
+    },
+    {
+      "id": 71,
+      "startMs": 407760,
+      "endMs": 412880,
+      "en": "And with the tech evolving so quickly, perhaps now really is a moment to pause and slow down.",
+      "zh": "而科技发展如此迅速，也许现在确实到了暂停并放慢脚步的时候。"
+    },
+    {
+      "id": 72,
+      "startMs": 412960,
+      "endMs": 417440,
+      "en": "We're already seeing it's on the cusp of being able to train and improve itself.",
+      "zh": "我们已经看到，人工智能正接近能够自我训练和自我改进的阶段。"
+    },
+    {
+      "id": 73,
+      "startMs": 417760,
+      "endMs": 422160,
+      "en": "That's called recursive AI, and the bosses say that's just around the corner.",
+      "zh": "这被称为递归式人工智能，而这些公司负责人说它已近在眼前。"
+    },
+    {
+      "id": 74,
+      "startMs": 422400,
+      "endMs": 430560,
+      "en": "And we're also seeing, aren't we, increasingly unpredictable activity from frontier models, the most advanced ones out there.",
+      "zh": "我们还看到，这些前沿模型——目前最先进的模型——正表现出越来越难以预测的活动，不是吗？"
+    },
+    {
+      "id": 75,
+      "startMs": 430560,
+      "endMs": 438500,
+      "en": "And perhaps it is definitely a moment, but it'll only work if the whole world agrees for everyone to take a pause and calm down. Zoe Kleinman.",
+      "zh": "也许现在确实是一个时刻，但只有全世界同意共同暂停、冷静下来，这才会奏效。佐伊·克莱因曼。"
+    },
+    {
+      "id": 76,
+      "startMs": 439540,
+      "endMs": 444660,
+      "en": "Meta's AI-powered smart glasses with a tiny camera have been controversial",
+      "zh": "Meta配备微型摄像头的人工智能智能眼镜一直颇具争议，"
+    },
+    {
+      "id": 77,
+      "startMs": 444660,
+      "endMs": 449700,
+      "en": "and referred to by some as spy glasses or pervert glasses.",
+      "zh": "有人称其为“间谍眼镜”或“变态眼镜”。"
+    },
+    {
+      "id": 78,
+      "startMs": 450100,
+      "endMs": 452900,
+      "en": "It's now released a new version but without the camera.",
+      "zh": "如今，Meta发布了不带摄像头的新版本。"
+    },
+    {
+      "id": 79,
+      "startMs": 453220,
+      "endMs": 457620,
+      "en": "The tech giant denies that these glasses have been rushed out in response to public anger",
+      "zh": "这家科技巨头否认这些眼镜是为了回应公众愤怒而仓促推出的，"
+    },
+    {
+      "id": 80,
+      "startMs": 457940,
+      "endMs": 460660,
+      "en": "saying they've been in development for two years.",
+      "zh": "并称它们已经研发了两年。"
+    },
+    {
+      "id": 81,
+      "startMs": 461060,
+      "endMs": 464260,
+      "en": "And trying on the Ray-Ban style frames at the unveiling",
+      "zh": "在发布会上试戴雷朋风格镜框时，"
+    },
+    {
+      "id": 82,
+      "startMs": 464260,
+      "endMs": 469300,
+      "en": "Meta's head Mark Zuckerberg was keen to highlight the advantages of the new version.",
+      "zh": "Meta负责人马克·扎克伯格急于强调新版本的优势。"
+    },
+    {
+      "id": 83,
+      "startMs": 470020,
+      "endMs": 476340,
+      "en": "Without cameras, this opens up a lot of new design possibilities.",
+      "zh": "没有摄像头，就能实现许多新的设计可能。"
+    },
+    {
+      "id": 84,
+      "startMs": 477060,
+      "endMs": 479780,
+      "en": "They can look like any other glasses.",
+      "zh": "它们可以看起来和普通眼镜一样。"
+    },
+    {
+      "id": 85,
+      "startMs": 480420,
+      "endMs": 482980,
+      "en": "You can make them much lighter and slimmer.",
+      "zh": "还可以把它们做得更轻、更薄。"
+    },
+    {
+      "id": 86,
+      "startMs": 483700,
+      "endMs": 486820,
+      "en": "They have the longest battery of any of our glasses.",
+      "zh": "它们的续航时间是我们所有眼镜中最长的。"
+    },
+    {
+      "id": 87,
+      "startMs": 487540,
+      "endMs": 493540,
+      "en": "They're going to last for a full day of use, whether that's, you know, using Muse throughout the day or listening to music or making calls.",
+      "zh": "它们能续航一整天，无论你全天使用 Muse、听音乐还是打电话。"
+    },
+    {
+      "id": 88,
+      "startMs": 494340,
+      "endMs": 503240,
+      "en": "But some critics argue this is a desperate attempt to fix Meta's PR image as the company has continued to struggle with privacy concerns for years.",
+      "zh": "但一些批评者认为，这是 Meta 为挽救公关形象而作的孤注一掷之举，因为该公司多年来一直受隐私问题困扰。"
+    },
+    {
+      "id": 89,
+      "startMs": 503640,
+      "endMs": 508680,
+      "en": "Our North America technology correspondent, Lily Jamali, spoke to me from Meta HQ.",
+      "zh": "我们的北美科技记者莉莉·贾马利在 Meta 总部接受了我的采访。"
+    },
+    {
+      "id": 90,
+      "startMs": 509800,
+      "endMs": 519480,
+      "en": "The Ray-Ban Meta Audio Glasses are the headliner here. These are audio only, as you laid out, so no ability to videotape or photograph.",
+      "zh": "Ray-Ban Meta 音频眼镜是这里的主角。这些眼镜只能播放音频，正如你所说，无法录像或拍照。"
+    },
+    {
+      "id": 91,
+      "startMs": 519880,
+      "endMs": 532680,
+      "en": "And, obviously, this is linked to privacy concerns affecting Meta's traditional video glasses, released about two or three years ago.",
+      "zh": "而且，显然，这与隐私有关，Meta 约两三年前发布的传统录像眼镜一直受到这类问题困扰。"
+    },
+    {
+      "id": 92,
+      "startMs": 532840,
+      "endMs": 545000,
+      "en": "We've seen users, for example, tampering with them, putting tape over them to obscure the light indicating that a photo or video is being captured.",
+      "zh": "我们看到过这样的案例：用户动手改造眼镜，比如用胶带遮住指示灯，以掩盖正在拍照或录像的事实。"
+    },
+    {
+      "id": 93,
+      "startMs": 545720,
+      "endMs": 549320,
+      "en": "Meta says it has addressed those issues to the extent possible.",
+      "zh": "Meta 表示，已经尽可能解决了这些问题。"
+    },
+    {
+      "id": 94,
+      "startMs": 549320,
+      "endMs": 556040,
+      "en": "They've taken it seriously, sent out software updates to basically remove that functionality from those glasses.",
+      "zh": "他们认真对待此事，发出软件更新，基本移除了那些眼镜的相关功能。"
+    },
+    {
+      "id": 95,
+      "startMs": 556620,
+      "endMs": 561100,
+      "en": "This is a lighter option. It weighs less. It has longer battery life.",
+      "zh": "这是一款更轻便的选择，重量更轻，电池续航更长。"
+    },
+    {
+      "id": 96,
+      "startMs": 561100,
+      "endMs": 568460,
+      "en": "So those are some features. It's really for people who are fine with just using these smart glasses to make phone calls, to listen to music,",
+      "zh": "所以这些就是它的一些特点。它适合只想用智能眼镜打电话、听音乐的人。"
+    },
+    {
+      "id": 97,
+      "startMs": 568460,
+      "endMs": 573980,
+      "en": "and also people who are privacy conscious, not just for themselves, but want to be considerate of others.",
+      "zh": "也适合注重隐私的人——不仅为自己考虑，也希望体谅他人。"
+    },
+    {
+      "id": 98,
+      "startMs": 574060,
+      "endMs": 579900,
+      "en": "Yeah, so make phone calls, listen to music, but I mean if they don't have a camera, what do they do?",
+      "zh": "没错，打电话、听音乐；但如果没有摄像头，它们还能做什么？"
+    },
+    {
+      "id": 99,
+      "startMs": 580460,
+      "endMs": 584860,
+      "en": "Yeah, I mean, those two things are actually pretty useful functions.",
+      "zh": "是的，这两项功能其实相当实用。"
+    },
+    {
+      "id": 100,
+      "startMs": 584860,
+      "endMs": 590860,
+      "en": "So, I'm a podcast addict myself, so I pretty much always have a podcast on when I'm by myself,",
+      "zh": "我是个播客迷，独处时几乎总会播放播客。"
+    },
+    {
+      "id": 101,
+      "startMs": 591180,
+      "endMs": 596780,
+      "en": "streaming them through either AirPods or just off of my phone if I'm by myself.",
+      "zh": "独处时，我会用 AirPods 播放，或者直接用手机播放。"
+    },
+    {
+      "id": 102,
+      "startMs": 597020,
+      "endMs": 601580,
+      "en": "So I think there's plenty for people to do with these new smart glasses.",
+      "zh": "所以我认为，人们可以用这些新智能眼镜做很多事。"
+    },
+    {
+      "id": 103,
+      "startMs": 602060,
+      "endMs": 610860,
+      "en": "In general, Meta has had this issue with privacy, with what they do with user data, for example, how they monetize that.",
+      "zh": "总体而言，Meta 在隐私问题上存在问题，包括他们如何处理用户数据并将其变现。"
+    },
+    {
+      "id": 104,
+      "startMs": 610860,
+      "endMs": 612940,
+      "en": "That's a huge part of their business model.",
+      "zh": "这是其商业模式的重要组成部分。"
+    },
+    {
+      "id": 105,
+      "startMs": 613340,
+      "endMs": 620480,
+      "en": "What I heard from Mark Zuckerberg on stage today here in Menlo Park was a real nod to privacy, talking about",
+      "zh": "我今天在门洛帕克现场听到马克·扎克伯格谈话，感受到他对隐私的重视，他还谈到了……"
+    },
+    {
+      "id": 106,
+      "startMs": 620640,
+      "endMs": 626800,
+      "en": "also their Muse AI agent that has just been released in the last couple of days.",
+      "zh": "他们近几天刚发布的 Muse AI 智能代理。"
+    },
+    {
+      "id": 107,
+      "startMs": 627040,
+      "endMs": 636320,
+      "en": "How secure that is, how, you know, it's so secure that even Meta won't be able to see the information that is being exchanged there.",
+      "zh": "他们还谈到它有多安全——据称安全到连 Meta 也无法看到其中交换的信息。"
+    },
+    {
+      "id": 108,
+      "startMs": 636400,
+      "endMs": 642640,
+      "en": "They say so they really want to highlight that after years of getting negative press on that particular issue.",
+      "zh": "他们说是如此，所以在多年因这个问题受到负面报道后，他们确实想强调这一点。"
+    },
+    {
+      "id": 109,
+      "startMs": 642880,
+      "endMs": 645760,
+      "en": "Briefly, will this be enough for the critics? We'll see.",
+      "zh": "简单说，这足以说服批评者吗？让我们拭目以待。"
+    },
+    {
+      "id": 110,
+      "startMs": 645760,
+      "endMs": 651440,
+      "en": "I mean, I think what Meta at this point is most interested in is not the critics, but the consumer.",
+      "zh": "我的意思是，我认为 Meta 目前最关心的不是批评者，而是消费者。"
+    },
+    {
+      "id": 111,
+      "startMs": 651920,
+      "endMs": 657120,
+      "en": "And if they can win the day with consumers, I think the executives here will be very happy.",
+      "zh": "如果他们能赢得消费者，我想这里的高管会非常高兴。"
+    },
+    {
+      "id": 112,
+      "startMs": 657120,
+      "endMs": 666000,
+      "en": "This pair of glasses will retail for $349, goes on sale in the US, the UK in mid-October, and a number of other countries as well.",
+      "zh": "这副眼镜售价349美元，将于10月中旬在美国、英国及其他一些国家上市。"
+    },
+    {
+      "id": 113,
+      "startMs": 666560,
+      "endMs": 667520,
+      "en": "Lily Jamali.",
+      "zh": "莉莉·贾马利。"
+    },
+    {
+      "id": 114,
+      "startMs": 669580,
+      "endMs": 671900,
+      "en": "Still to come in this podcast:",
+      "zh": "本播客稍后还将播出："
+    },
+    {
+      "id": 115,
+      "startMs": 672140,
+      "endMs": 676940,
+      "en": "Imagine how nitpicky you have to be to have an issue with me bringing an iced coffee to an interview.",
+      "zh": "想想看，我带冰咖啡去采访，竟然也会有人对此挑刺。"
+    },
+    {
+      "id": 116,
+      "startMs": 677580,
+      "endMs": 681180,
+      "en": "The viral debate that's about more than just coffee.",
+      "zh": "这场病毒式争论不只是关于咖啡。"
+    },
+    {
+      "id": 117,
+      "startMs": 681180,
+      "endMs": 683340,
+      "en": "This is the Global News Podcast.",
+      "zh": "这里是《全球新闻播客》。"
+    },
+    {
+      "id": 118,
+      "startMs": 684140,
+      "endMs": 691260,
+      "en": "Britain has expanded its defence into space, with Defence Secretary Wes Streeting calling it the next battleground.",
+      "zh": "英国已将防务拓展到太空，国防大臣韦斯·斯特里廷称太空是下一个战场。"
+    },
+    {
+      "id": 119,
+      "startMs": 691660,
+      "endMs": 696140,
+      "en": "He was speaking at a conference alongside the head of the Air Force, Harv Smyth.",
+      "zh": "他在一次会议上发言，身边是空军司令哈夫·斯迈思。"
+    },
+    {
+      "id": 120,
+      "startMs": 696460,
+      "endMs": 700300,
+      "en": "Both men warned of hostile threats from adversaries in orbit.",
+      "zh": "两人都警告，轨道上的对手可能带来敌对威胁。"
+    },
+    {
+      "id": 121,
+      "startMs": 700780,
+      "endMs": 708860,
+      "en": "The RAF has formed a space squadron to protect satellites, and the BBC understands it's also jamming some signals from Earth.",
+      "zh": "英国皇家空军组建了太空中队保护卫星，BBC 得知该中队还在干扰来自地球的某些信号。"
+    },
+    {
+      "id": 122,
+      "startMs": 709180,
+      "endMs": 712540,
+      "en": "Our defence correspondent, Jonathan Beale, has this report.",
+      "zh": "我们的国防记者乔纳森·比尔带来报道。"
+    },
+    {
+      "id": 123,
+      "startMs": 713260,
+      "endMs": 719580,
+      "en": "The world's increasingly reliant on space, from the internet to bank transfers and GPS.",
+      "zh": "世界日益依赖太空，从互联网、银行转账到 GPS。"
+    },
+    {
+      "id": 124,
+      "startMs": 719580,
+      "endMs": 729660,
+      "en": "Space has become a new frontline for the military too, with warnings of devastating consequences if our satellites were attacked.",
+      "zh": "太空也成了军事新前线；有人警告，如果卫星遭到攻击，后果将是灾难性的。"
+    },
+    {
+      "id": 125,
+      "startMs": 730060,
+      "endMs": 734220,
+      "en": "Satnav systems would fail, congestion on the roads would create havoc,",
+      "zh": "卫星导航系统会失灵，道路拥堵将造成混乱，"
+    },
+    {
+      "id": 126,
+      "startMs": 734940,
+      "endMs": 740620,
+      "en": "our emergency services would take much, much longer to reach those in need. So,",
+      "zh": "我们的紧急服务抵达有需要的人那里会花更长时间。所以，"
+    },
+    {
+      "id": 127,
+      "startMs": 740720,
+      "endMs": 748720,
+      "en": "Make no mistake, the satellite services you may have taken for granted now face unprecedented threats.",
+      "zh": "务必注意：你可能习以为常的卫星服务如今面临前所未有的威胁。"
+    },
+    {
+      "id": 128,
+      "startMs": 749280,
+      "endMs": 754080,
+      "en": "The British military is already taking steps to protect itself in space.",
+      "zh": "英国军方已经在采取措施，保护自己在太空中的利益。"
+    },
+    {
+      "id": 129,
+      "startMs": 754400,
+      "endMs": 762240,
+      "en": "I've been told it's already using a ground-based system to jam signals from satellites operated by hostile states.",
+      "zh": "据我所知，英国军方已经在使用地面系统，干扰敌对国家运营的卫星信号。"
+    },
+    {
+      "id": 130,
+      "startMs": 762640,
+      "endMs": 767200,
+      "en": "The defence source said we've already used it to deter our adversaries.",
+      "zh": "这名国防消息人士说，我们已经用它来威慑对手。"
+    },
+    {
+      "id": 131,
+      "startMs": 767360,
+      "endMs": 772240,
+      "en": "He described this ground-based electronic warfare system as world-leading.",
+      "zh": "他称这种地面电子战系统处于世界领先水平。"
+    },
+    {
+      "id": 132,
+      "startMs": 772560,
+      "endMs": 776400,
+      "en": "As to why, well, blocking satellite signals could, for example,",
+      "zh": "至于原因，干扰卫星信号比如可以："
+    },
+    {
+      "id": 133,
+      "startMs": 776560,
+      "endMs": 781440,
+      "en": "stop Russia from tracking the movement of Britain's nuclear-armed submarines.",
+      "zh": "阻止俄罗斯追踪英国核武装潜艇的动向。"
+    },
+    {
+      "id": 134,
+      "startMs": 781960,
+      "endMs": 787640,
+      "en": "Or help hide the deployment of British troops and military jets.",
+      "zh": "或者帮助掩盖英国军队和军机的部署。"
+    },
+    {
+      "id": 135,
+      "startMs": 787640,
+      "endMs": 793960,
+      "en": "UK military personnel are already embedded with the US Space Force, the world's most powerful.",
+      "zh": "英国军方人员已经进驻世界上最强大的美国太空军。"
+    },
+    {
+      "id": 136,
+      "startMs": 794600,
+      "endMs": 797720,
+      "en": "America's now deployed a weapon in orbit.",
+      "zh": "美国如今已经在轨道上部署了武器。"
+    },
+    {
+      "id": 137,
+      "startMs": 798280,
+      "endMs": 802680,
+      "en": "The UK hasn't yet, but there are warnings of an arms race in space.",
+      "zh": "英国还没有，但有人警告太空中正在出现军备竞赛。"
+    },
+    {
+      "id": 138,
+      "startMs": 803160,
+      "endMs": 809640,
+      "en": "The defence secretary said Britain was standing up a new unit to protect its own interests in space.",
+      "zh": "国防大臣说，英国正在组建新部队，保护自己在太空中的利益。"
+    },
+    {
+      "id": 139,
+      "startMs": 809960,
+      "endMs": 817000,
+      "en": "It will have the ability to conduct offensive and defensive operations to strengthen deterrence,",
+      "zh": "该部队将能够开展进攻和防御行动，以加强威慑，"
+    },
+    {
+      "id": 140,
+      "startMs": 817240,
+      "endMs": 823640,
+      "en": "reduce opportunities for coercion, and enhance the resilience of our space capabilities.",
+      "zh": "减少胁迫的机会，并增强我们的太空能力韧性。"
+    },
+    {
+      "id": 141,
+      "startMs": 823960,
+      "endMs": 828200,
+      "en": "The US, China, and Russia can also block signals in space.",
+      "zh": "美国、中国和俄罗斯也能在太空中干扰信号。"
+    },
+    {
+      "id": 142,
+      "startMs": 828920,
+      "endMs": 833000,
+      "en": "Britain, with its handful of military satellites, is still a minor player.",
+      "zh": "英国只有少数军用卫星，仍是一个小角色。"
+    },
+    {
+      "id": 143,
+      "startMs": 833720,
+      "endMs": 837080,
+      "en": "But Russia's been trying to jam them every single week.",
+      "zh": "但俄罗斯一直每周都在试图干扰它们。"
+    },
+    {
+      "id": 144,
+      "startMs": 837640,
+      "endMs": 841800,
+      "en": "The UK doesn't want to be left behind in the space race, or left",
+      "zh": "英国不想在太空竞赛中落后，也不想被留下，"
+    },
+    {
+      "id": 145,
+      "startMs": 841900,
+      "endMs": 845740,
+      "en": "defenseless in what it calls this new warfighting domain.",
+      "zh": "在它所谓的新型作战领域中毫无防备。"
+    },
+    {
+      "id": 146,
+      "startMs": 846380,
+      "endMs": 849900,
+      "en": "Jonathan Beale. Back down to the ground now.",
+      "zh": "乔纳森·比尔报道。现在回到地面。"
+    },
+    {
+      "id": 147,
+      "startMs": 849900,
+      "endMs": 857180,
+      "en": "French archaeologists have discovered an ancient wall beneath a Paris hotel that could confirm the capital's origins.",
+      "zh": "法国考古学家在巴黎一家酒店下发现一堵古墙，或可证实这座首都的起源。"
+    },
+    {
+      "id": 148,
+      "startMs": 857580,
+      "endMs": 861820,
+      "en": "The charred 2,000-year-old wall, a stone's throw from Notre Dame,",
+      "zh": "这堵距巴黎圣母院一步之遥、烧焦的两千年古墙，"
+    },
+    {
+      "id": 149,
+      "startMs": 862060,
+      "endMs": 866540,
+      "en": "is thought to be a fragment of Lutetia, the city's first ever settlement.",
+      "zh": "被认为是卢泰西亚的残片，也就是这座城市最早的聚落。"
+    },
+    {
+      "id": 150,
+      "startMs": 866940,
+      "endMs": 870620,
+      "en": "Paul Henley spoke to Lucie Altenburg, who's been involved in the dig.",
+      "zh": "保罗·亨利采访了参与挖掘工作的露西·阿尔滕堡。"
+    },
+    {
+      "id": 151,
+      "startMs": 871180,
+      "endMs": 878300,
+      "en": "For the first time ever, we've been able to dig down to six or seven metres, therefore finding a layer",
+      "zh": "我们首次能够向下挖掘六到七米，从而发现了一层，"
+    },
+    {
+      "id": 152,
+      "startMs": 878380,
+      "endMs": 883740,
+      "en": "that predates Roman occupation of the city of Lutetia, during which we found a wall.",
+      "zh": "它早于罗马占领卢泰西亚的时期，我们在其中发现了一堵墙。"
+    },
+    {
+      "id": 153,
+      "startMs": 884140,
+      "endMs": 892940,
+      "en": "The type of wall is indicative of a Gallic wall, and so, that's very exciting for us because that would mean it's the first time we found traces of",
+      "zh": "这种墙的类型显示它是高卢式墙体，这让我们非常兴奋，因为这意味着我们首次发现了"
+    },
+    {
+      "id": 154,
+      "startMs": 892940,
+      "endMs": 899420,
+      "en": "the Gallic people of Lutetia as potentially described by Julius Caesar in his Gallic Wars texts.",
+      "zh": "卢泰西亚高卢人的踪迹，他们可能正如尤利乌斯·恺撒在《高卢战记》中所描述的那样。"
+    },
+    {
+      "id": 155,
+      "startMs": 899580,
+      "endMs": 907120,
+      "en": "Because he said in 52 BC, I believe, that Lutetia was a town situated on an island in the River Seine.",
+      "zh": "因为我记得他曾说，公元前52年，卢泰西亚是一座坐落在塞纳河一座岛上的城镇。"
+    },
+    {
+      "id": 156,
+      "startMs": 907120,
+      "endMs": 912480,
+      "en": "He also mentions that the town had been set on fire when the Romans were approaching.",
+      "zh": "他还提到，罗马人逼近时，这座城镇曾被付之一炬。"
+    },
+    {
+      "id": 157,
+      "startMs": 912880,
+      "endMs": 915120,
+      "en": "Burnt timber was one of your finds, wasn't it?",
+      "zh": "烧焦的木材是你们的发现之一，对吗？"
+    },
+    {
+      "id": 158,
+      "startMs": 915600,
+      "endMs": 922080,
+      "en": "That's right. So, we found burnt timbers that probably had collapsed onto burnt grain, so directly into the floor.",
+      "zh": "没错。我们发现烧焦的木料可能塌在烧焦的谷物上，直接落到了地面。"
+    },
+    {
+      "id": 159,
+      "startMs": 922640,
+      "endMs": 928800,
+      "en": "And one of the masonry details of Gallic walls is that they are built with stone and wood.",
+      "zh": "高卢式墙体的一个砌筑特点是由石头和木材建成。"
+    },
+    {
+      "id": 160,
+      "startMs": 928960,
+      "endMs": 932000,
+      "en": "In this case, we found a wooden structure completely carbonized.",
+      "zh": "在这里，我们发现了一处完全碳化的木结构。"
+    },
+    {
+      "id": 161,
+      "startMs": 932240,
+      "endMs": 937360,
+      "en": "So, we have deduced that there's been quite a violent fire that took place around the wall.",
+      "zh": "所以我们推断，墙体周围曾发生过相当猛烈的火灾。"
+    },
+    {
+      "id": 162,
+      "startMs": 937520,
+      "endMs": 946560,
+      "en": "Any other artifacts? Yes. One favourite is an iron spearhead, positively identified as Gallic rather than Roman.",
+      "zh": "还有其他文物吗？有。我最喜欢的是一枚铁矛头，已经基本确定是高卢人的矛头，而不是罗马人的。"
+    },
+    {
+      "id": 163,
+      "startMs": 946720,
+      "endMs": 954480,
+      "en": "And we found a couple of Gallic coins to sort of date the layer and a few pieces of ceramic that seem to be amphora.",
+      "zh": "我们还发现了几枚高卢硬币，可以帮助确定这一层的年代，以及一些似乎是双耳瓶的陶片。"
+    },
+    {
+      "id": 164,
+      "startMs": 954720,
+      "endMs": 957120,
+      "en": "How significant is all this, and why?",
+      "zh": "这一切有多重要？为什么？"
+    },
+    {
+      "id": 165,
+      "startMs": 957360,
+      "endMs": 962800,
+      "en": "This is extremely significant, not just for us as archaeologists, but for the history of the city of Paris because",
+      "zh": "这极其重要，不仅对我们考古学家如此，对巴黎这座城市的历史也意义重大，因为"
+    },
+    {
+      "id": 166,
+      "startMs": 963380,
+      "endMs": 970420,
+      "en": "For a long time there has been some debate as to what was this island that Julius Caesar was describing,",
+      "zh": "长期以来，人们一直在争论尤利乌斯·恺撒描述的这座岛究竟是什么，"
+    },
+    {
+      "id": 167,
+      "startMs": 970820,
+      "endMs": 975460,
+      "en": "and we had no evidence of Gallic occupation on Île de la Cité.",
+      "zh": "而我们没有证据表明西岱岛曾有高卢人居住。"
+    },
+    {
+      "id": 168,
+      "startMs": 975940,
+      "endMs": 982980,
+      "en": "You're literally in the beating heart of historical Paris on Île de la Cité, the centre of Paris,",
+      "zh": "这里正是历史巴黎的核心——西岱岛，巴黎的中心，"
+    },
+    {
+      "id": 169,
+      "startMs": 983140,
+      "endMs": 989300,
+      "en": "and we're now saying that we have found traces of occupation that predates the Romans.",
+      "zh": "而我们现在可以说，已经发现了早于罗马人的居住遗迹。"
+    },
+    {
+      "id": 170,
+      "startMs": 989700,
+      "endMs": 992260,
+      "en": "French archaeologist Lucie Altenburg.",
+      "zh": "法国考古学家露西·阿尔滕堡。"
+    },
+    {
+      "id": 171,
+      "startMs": 993140,
+      "endMs": 1002580,
+      "en": "Mont Blanc is Western Europe's highest mountain and attracts huge attention from winter skiers and summer hikers.",
+      "zh": "勃朗峰是西欧最高峰，因此吸引了大量冬季滑雪者和夏季徒步者。"
+    },
+    {
+      "id": 172,
+      "startMs": 1002740,
+      "endMs": 1010020,
+      "en": "But the French authorities are so worried it's attracting what many see as the wrong type of hiker",
+      "zh": "但法国当局担心，它吸引了许多人眼中不合适的徒步者，"
+    },
+    {
+      "id": 173,
+      "startMs": 1010340,
+      "endMs": 1014420,
+      "en": "that they've imposed restrictions on those planning to use the Mont Blanc trail.",
+      "zh": "因此对计划使用勃朗峰步道的人实施了限制。"
+    },
+    {
+      "id": 174,
+      "startMs": 1014820,
+      "endMs": 1016580,
+      "en": "Rachel Wright has the details.",
+      "zh": "瑞秋·赖特报道详情。"
+    },
+    {
+      "id": 175,
+      "startMs": 1017300,
+      "endMs": 1027560,
+      "en": "Photos advertising the 170-kilometer hiking trail show vast expanses of immaculate scenery in one of the world's most beautiful mountain ranges.",
+      "zh": "宣传这条170公里徒步路线的照片，展示了世界最美山脉之一的广阔纯净景色。"
+    },
+    {
+      "id": 176,
+      "startMs": 1027960,
+      "endMs": 1034280,
+      "en": "In reality, however, the French authorities say the areas around Mont Blanc, the highest mountain in the Alps,",
+      "zh": "然而法国当局说，阿尔卑斯山最高峰勃朗峰周边地区，"
+    },
+    {
+      "id": 177,
+      "startMs": 1034600,
+      "endMs": 1041240,
+      "en": "is tainted by toilet paper under every stone and SUVs transporting luggage from one stop to another.",
+      "zh": "每块石头下都有卫生纸，还有运送行李往返各站的SUV，环境因此受到破坏。"
+    },
+    {
+      "id": 178,
+      "startMs": 1041880,
+      "endMs": 1049480,
+      "en": "The numbers of people completing the tour, which usually takes at least a week and includes walking through France, Italy and Switzerland,",
+      "zh": "完成这条线路的人数；线路通常需至少一周，经过法国、意大利和瑞士，"
+    },
+    {
+      "id": 179,
+      "startMs": 1049800,
+      "endMs": 1055000,
+      "en": "has jumped from 60,000 in 2022 to 90,000 this summer.",
+      "zh": "已从2022年的6万人增加到今年夏天的9万人。"
+    },
+    {
+      "id": 180,
+      "startMs": 1055640,
+      "endMs": 1060360,
+      "en": "Jean-Marc Peillex, chairman of the Federation of Districts of Mont Blanc Country,",
+      "zh": "勃朗峰地区联合会主席让-马克·佩伊莱克说，"
+    },
+    {
+      "id": 181,
+      "startMs": 1060680,
+      "endMs": 1066600,
+      "en": "says the mountain has become a magnet for those with a desire to return to nature after the pandemic.",
+      "zh": "这座山吸引了许多疫情后渴望回归自然的人。"
+    },
+    {
+      "id": 182,
+      "startMs": 1067160,
+      "endMs": 1071320,
+      "en": "He says people are boasting to their friends about doing the Mont Blanc trail,",
+      "zh": "他说，人们向朋友炫耀自己走过勃朗峰线路，"
+    },
+    {
+      "id": 183,
+      "startMs": 1071640,
+      "endMs": 1074600,
+      "en": "when in reality they have only done a small part of it.",
+      "zh": "其实只走了其中很小一段。"
+    },
+    {
+      "id": 184,
+      "startMs": 1074920,
+      "endMs": 1077800,
+      "en": "He says the huge numbers of trekkers on the mountain",
+      "zh": "他说，山上徒步者数量过多，"
+    },
+    {
+      "id": 185,
+      "startMs": 1078120,
+      "endMs": 1082680,
+      "en": "mean that most people are just looking at the backside of the person in front of them.",
+      "zh": "意味着大多数人只能盯着前面那个人的背影。"
+    },
+    {
+      "id": 186,
+      "startMs": 1083420,
+      "endMs": 1088220,
+      "en": "On the Tour du Mont Blanc, there are also people who pretend they are doing the Tour du Mont Blanc,",
+      "zh": "在勃朗峰环线，还有人假装自己在走完整线路，"
+    },
+    {
+      "id": 187,
+      "startMs": 1088220,
+      "endMs": 1092860,
+      "en": "but do half of it by taxi.",
+      "zh": "实际上有一半路程是坐出租车。"
+    },
+    {
+      "id": 188,
+      "startMs": 1092940,
+      "endMs": 1097020,
+      "en": "By taxi, that too is a practice that I think must come to an end.",
+      "zh": "坐出租车走线路，我认为这种做法也必须结束。"
+    },
+    {
+      "id": 189,
+      "startMs": 1097020,
+      "endMs": 1103020,
+      "en": "There are people who have their suitcases transported by four-by-four taxis that climb the mountain",
+      "zh": "有人让四驱出租车爬上山，替他们运送行李，"
+    },
+    {
+      "id": 190,
+      "startMs": 1103020,
+      "endMs": 1106700,
+      "en": "to carry the little pink rolling suitcases of those doing a few stages.",
+      "zh": "运送那些只走几段路的徒步者的小型粉色拉杆箱。"
+    },
+    {
+      "id": 191,
+      "startMs": 1107580,
+      "endMs": 1109740,
+      "en": "So that also needs to be regulated.",
+      "zh": "所以这也需要监管。"
+    },
+    {
+      "id": 192,
+      "startMs": 1109980,
+      "endMs": 1117340,
+      "en": "The federation says overuse of the paths is having disastrous consequences for landowners, the environment, and safety.",
+      "zh": "联合会说，过度使用山路正给土地所有者、环境和安全带来灾难性后果。"
+    },
+    {
+      "id": 193,
+      "startMs": 1117820,
+      "endMs": 1122860,
+      "en": "So new rules have now been announced to allow only those trekkers with hotel bookings",
+      "zh": "因此，新规已宣布：只有预订了酒店的徒步者，"
+    },
+    {
+      "id": 194,
+      "startMs": 1123100,
+      "endMs": 1126620,
+      "en": "carrying trekking backpacks to complete the week-long trail.",
+      "zh": "携带徒步背包，才能走完这条为期一周的线路。"
+    },
+    {
+      "id": 195,
+      "startMs": 1127020,
+      "endMs": 1131580,
+      "en": "A so-called green brigade of officials will be able to implement fines.",
+      "zh": "所谓的绿色巡查队官员将有权实施罚款。"
+    },
+    {
+      "id": 196,
+      "startMs": 1132060,
+      "endMs": 1135260,
+      "en": "But not everyone in the valley is in favor of the changes.",
+      "zh": "但山谷里并非所有人都赞成这些变化。"
+    },
+    {
+      "id": 197,
+      "startMs": 1135580,
+      "endMs": 1143420,
+      "en": "Some local mayors are worried about the effects of restricting numbers on the local economy,",
+      "zh": "一些地方市长担心限制人数会影响当地经济，"
+    },
+    {
+      "id": 198,
+      "startMs": 1143440,
+      "endMs": 1147760,
+      "en": "and there's no indication that Swiss and Italian councils on the route will sign up to the plan.",
+      "zh": "也没有迹象表明沿线的瑞士和意大利地方议会会加入这项计划。"
+    },
+    {
+      "id": 199,
+      "startMs": 1148160,
+      "endMs": 1149280,
+      "en": "Rachel Wright.",
+      "zh": "瑞秋·赖特。"
+    },
+    {
+      "id": 200,
+      "startMs": 1150320,
+      "endMs": 1157360,
+      "en": "And finally, is bringing an iced coffee to a job interview acceptable or unprofessional?",
+      "zh": "最后，带冰咖啡去参加求职面试，合适还是不专业？"
+    },
+    {
+      "id": 201,
+      "startMs": 1157760,
+      "endMs": 1161840,
+      "en": "That's the question that's divided the internet after a recruiter advised",
+      "zh": "一名招聘人员建议之后，互联网因这个问题吵翻了："
+    },
+    {
+      "id": 202,
+      "startMs": 1161920,
+      "endMs": 1165600,
+      "en": "Gen Z candidates not to walk in with a cold brew.",
+      "zh": "她建议Z世代求职者别带着冷萃咖啡走进面试。"
+    },
+    {
+      "id": 203,
+      "startMs": 1165920,
+      "endMs": 1170880,
+      "en": "Twenty-three-year-old Ira Khan's report begins with the recruiter's video.",
+      "zh": "23岁的伊拉·汗报道，先从这名招聘人员的视频说起。"
+    },
+    {
+      "id": 204,
+      "startMs": 1171520,
+      "endMs": 1175920,
+      "en": "In my opinion, from a hiring standpoint,",
+      "zh": "从我的看法、从招聘角度来说，"
+    },
+    {
+      "id": 205,
+      "startMs": 1176000,
+      "endMs": 1178560,
+      "en": "when you show up with an iced coffee or an iced latte,",
+      "zh": "当你带着冰咖啡或冰拿铁出现时，"
+    },
+    {
+      "id": 206,
+      "startMs": 1178560,
+      "endMs": 1182800,
+      "en": "that this interview is just like a stop on your list of errands for the day.",
+      "zh": "这次面试看起来就像你当天办事清单中的一站。"
+    },
+    {
+      "id": 207,
+      "startMs": 1183120,
+      "endMs": 1185680,
+      "en": "It looks a little too casual to me.",
+      "zh": "在我看来，这显得有点太随意了。"
+    },
+    {
+      "id": 208,
+      "startMs": 1186400,
+      "endMs": 1192080,
+      "en": "Recruiter Caitlyn Weiniainen, with her view that showing up to a job interview at a big company",
+      "zh": "招聘人员凯特琳·韦尼艾宁认为，带着一杯冰咖啡去大公司面试，"
+    },
+    {
+      "id": 209,
+      "startMs": 1192400,
+      "endMs": 1198480,
+      "en": "with a cup of iced coffee suggests that you didn't have time to drink it beforehand and it could end up costing you the job.",
+      "zh": "说明你没时间提前喝完，最终可能让你丢掉这份工作。"
+    },
+    {
+      "id": 210,
+      "startMs": 1199120,
+      "endMs": 1202080,
+      "en": "Not surprisingly, Caitlyn has gotten a lot of pushback online",
+      "zh": "不出所料，凯特琳在网上遭到大量反对，"
+    },
+    {
+      "id": 211,
+      "startMs": 1202080,
+      "endMs": 1204560,
+      "en": "from Gen Zers, like this user, Savannah.",
+      "zh": "比如这位名叫萨凡纳的Z世代用户。"
+    },
+    {
+      "id": 212,
+      "startMs": 1204960,
+      "endMs": 1209840,
+      "en": "Imagine how nitpicky you have to be to have an issue with me bringing an iced coffee to an interview.",
+      "zh": "你得多爱挑剔，才会因为我带冰咖啡去面试而有意见。"
+    },
+    {
+      "id": 213,
+      "startMs": 1210100,
+      "endMs": 1212740,
+      "en": "I showed up 15 minutes early, dressed professionally.",
+      "zh": "我提前15分钟到场，穿着也很专业。"
+    },
+    {
+      "id": 214,
+      "startMs": 1212740,
+      "endMs": 1217460,
+      "en": "I have my resume in hand; it looks amazing. I am able to answer all of your questions incredibly well.",
+      "zh": "我手里拿着出色的简历，也能很好地回答你的所有问题。"
+    },
+    {
+      "id": 215,
+      "startMs": 1217460,
+      "endMs": 1219540,
+      "en": "My qualifications are outstanding,",
+      "zh": "我的资历非常出色，"
+    },
+    {
+      "id": 216,
+      "startMs": 1220100,
+      "endMs": 1224260,
+      "en": "yet you are upset because I walked in with an iced coffee.",
+      "zh": "可你却因为我带着冰咖啡进来而生气。"
+    },
+    {
+      "id": 217,
+      "startMs": 1224500,
+      "endMs": 1228420,
+      "en": "Another comment on the post, which had almost half a million views on TikTok,",
+      "zh": "这条帖子在TikTok上获得近50万次观看，另一条评论问道："
+    },
+    {
+      "id": 218,
+      "startMs": 1228820,
+      "endMs": 1231940,
+      "en": "asked the question, \"Do you guys want employees or not?\"",
+      "zh": "“你们到底想不想要员工？”"
+    },
+    {
+      "id": 219,
+      "startMs": 1232500,
+      "endMs": 1237380,
+      "en": "And some people added that iced coffee, a drink that has become synonymous with young people,",
+      "zh": "还有人说，冰咖啡这种已成为年轻人象征的饮料，"
+    },
+    {
+      "id": 220,
+      "startMs": 1237780,
+      "endMs": 1239700,
+      "en": "was the same as bringing water to an interview.",
+      "zh": "和带水去面试没有区别。"
+    },
+    {
+      "id": 221,
+      "startMs": 1240020,
+      "endMs": 1244100,
+      "en": "What the debate has really highlighted is that there is a big difference in culture",
+      "zh": "这场争论真正凸显的是，文化上存在巨大差异，"
+    },
+    {
+      "id": 222,
+      "startMs": 1244580,
+      "endMs": 1249940,
+      "en": "between people who are already in the workplace and Gen Z who are trying to get on the employment ladder.",
+      "zh": "一方是已进入职场的人，另一方是努力踏上就业阶梯的Z世代。"
+    },
+    {
+      "id": 223,
+      "startMs": 1250500,
+      "endMs": 1254660,
+      "en": "Priorities have changed for this newer generation, with a shift towards hybrid working,",
+      "zh": "对这一新一代而言，优先事项已改变，转向混合办公，"
+    },
+    {
+      "id": 224,
+      "startMs": 1255220,
+      "endMs": 1261220,
+      "en": "the use of artificial intelligence, and more importance being placed on having a work-life balance. Ira Khan.",
+      "zh": "使用人工智能，也更重视工作与生活的平衡。伊拉·汗报道。"
+    }
+  ]
+}
