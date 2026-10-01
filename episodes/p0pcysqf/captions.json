@@ -1,0 +1,2209 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "29 September 2026"
+  },
+  "durationMs": 1785720,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4160,
+      "en": "This is the Global News Podcast from the BBC World Service.",
+      "zh": "这里是 BBC World Service 的《全球新闻播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 6680,
+      "endMs": 12360,
+      "en": "Hi, I'm Ankur Desai, and in the early hours of Tuesday the 29th of September, these are our main stories.",
+      "zh": "你好，我是安库尔·德赛。现在是9月29日星期二凌晨，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12920,
+      "endMs": 22280,
+      "en": "A large-scale study of screen use by children finds that prolonged exposure can damage their well-being as much as poverty, premature birth or bad parenting.",
+      "zh": "一项大规模儿童屏幕使用研究发现，长时间接触屏幕对他们福祉的损害，可能不亚于贫困、早产或糟糕的养育。"
+    },
+    {
+      "id": 4,
+      "startMs": 23160,
+      "endMs": 31000,
+      "en": "Ukraine's National Academy of Sciences in the heart of Kyiv is hit by a drone strike as Russia increasingly focuses attacks on the city.",
+      "zh": "乌克兰国家科学院位于基辅市中心的建筑遭无人机袭击；俄罗斯正越来越多地把攻击集中在这座城市。"
+    },
+    {
+      "id": 5,
+      "startMs": 31640,
+      "endMs": 38040,
+      "en": "And US prosecutors reopen the case of an alleged gang rape at Cornell, one of the country's most prestigious universities.",
+      "zh": "美国检察官重新调查康奈尔大学涉嫌轮奸案；该校是美国最负盛名的大学之一。"
+    },
+    {
+      "id": 6,
+      "startMs": 40680,
+      "endMs": 48200,
+      "en": "Also in this podcast, why communities around the world are pushing back against AI data centers being built in their local area,",
+      "zh": "本期还将关注世界各地的社区为何反对在当地建设人工智能数据中心，"
+    },
+    {
+      "id": 7,
+      "startMs": 48200,
+      "endMs": 50840,
+      "en": "and we have the new queen of chess.",
+      "zh": "以及新一代国际象棋女王。"
+    },
+    {
+      "id": 8,
+      "startMs": 51320,
+      "endMs": 58520,
+      "en": "I'm happy to do it, but I want to keep going and keep making history as well instead of just stop here.",
+      "zh": "我很高兴做到这一点，但我想继续前进、继续创造历史，而不是止步于此。"
+    },
+    {
+      "id": 9,
+      "startMs": 59080,
+      "endMs": 61640,
+      "en": "Meet the youngest ever woman grandmaster.",
+      "zh": "认识史上最年轻的女子特级大师。"
+    },
+    {
+      "id": 10,
+      "startMs": 67320,
+      "endMs": 76600,
+      "en": "Kids aged 6 to 18 who spend too much time on social media, gaming or streaming are in danger of suffering the same kind of damage to their well-being",
+      "zh": "6至18岁儿童如果花太多时间使用社交媒体、玩游戏或看流媒体，可能面临福祉受到同样损害的风险，"
+    },
+    {
+      "id": 11,
+      "startMs": 76920,
+      "endMs": 81080,
+      "en": "that's caused by poverty, bad parenting or being born prematurely.",
+      "zh": "这种损害可能由贫困、糟糕的养育或早产造成。"
+    },
+    {
+      "id": 12,
+      "startMs": 81560,
+      "endMs": 87800,
+      "en": "The results of a new study also link excessive screen time to poor academic achievement and language development,",
+      "zh": "这项新研究还将过度使用屏幕与学业成绩不佳和语言发展受阻联系起来，"
+    },
+    {
+      "id": 13,
+      "startMs": 87960,
+      "endMs": 91640,
+      "en": "obesity, high blood pressure, diabetes, and even heart problems.",
+      "zh": "以及肥胖、高血压、糖尿病，甚至心脏问题。"
+    },
+    {
+      "id": 14,
+      "startMs": 92200,
+      "endMs": 101160,
+      "en": "Researchers at the University of Calgary in Canada analyzed the use of smartphones, televisions, and social media by millions of children all over the world.",
+      "zh": "加拿大卡尔加里大学的研究人员分析了全世界数百万儿童使用智能手机、电视和社交媒体的情况。"
+    },
+    {
+      "id": 15,
+      "startMs": 101640,
+      "endMs": 104600,
+      "en": "In what's being hailed as one of the biggest ever studies of its kind.",
+      "zh": "这被誉为同类研究中规模最大的一项。"
+    },
+    {
+      "id": 16,
+      "startMs": 105160,
+      "endMs": 115000,
+      "en": "Critics say the findings are not insignificant, but insist that screen time is not the only reason teenagers become emotionally distressed or fail to reach their academic goals.",
+      "zh": "批评者说这些发现不容忽视，但坚持认为，青少年出现情绪困扰或未能实现学业目标，原因不只是屏幕时间。"
+    },
+    {
+      "id": 17,
+      "startMs": 115320,
+      "endMs": 118280,
+      "en": "Dr. Sheri Madigan is the senior author of the review.",
+      "zh": "谢里·马迪根博士是这篇综述的高级作者。"
+    },
+    {
+      "id": 18,
+      "startMs": 118840,
+      "endMs": 124600,
+      "en": "This was what we call an umbrella review, which is essentially a review of all the reviews that have been done in the world.",
+      "zh": "这就是我们所说的“综述的综述”，本质上是对全世界已完成的所有综述进行回顾。"
+    },
+    {
+      "id": 19,
+      "startMs": 124600,
+      "endMs": 133420,
+      "en": "It gives us a real bird's-eye view of the evidence so far that's really accumulated on children's screen times and children's developmental outcomes.",
+      "zh": "它让我们得以从全局审视迄今积累的、关于儿童屏幕使用时间和发展结果的证据。"
+    },
+    {
+      "id": 20,
+      "startMs": 133580,
+      "endMs": 140380,
+      "en": "Instead of asking, you know, what one study found, we're really able to step back and ask what the evidence tells us as a whole.",
+      "zh": "我们不必只问某一项研究发现了什么，而是可以退一步，问证据整体告诉了我们什么。"
+    },
+    {
+      "id": 21,
+      "startMs": 140700,
+      "endMs": 149180,
+      "en": "And what we found is that overall greater screen use was associated with poorer outcomes across several domains of children's development.",
+      "zh": "我们发现，总体而言，更多的屏幕使用与儿童发展多个领域中较差的结果相关。"
+    },
+    {
+      "id": 22,
+      "startMs": 149260,
+      "endMs": 156300,
+      "en": "In particular, we saw associations with language and academic outcomes, as well as mental health outcomes and peer difficulties.",
+      "zh": "特别是，语言和学业结果、心理健康结果以及同伴交往困难，都与之存在关联。"
+    },
+    {
+      "id": 23,
+      "startMs": 156620,
+      "endMs": 162860,
+      "en": "But we actually didn't see significant associations with every outcome we examined, which I think is a really important part of the story too.",
+      "zh": "但我们并没有发现屏幕使用与所考察的每一种结果都有显著关联；我认为这也是非常重要的一点。"
+    },
+    {
+      "id": 24,
+      "startMs": 163180,
+      "endMs": 165740,
+      "en": "And we need to also drill down on the ages, right?",
+      "zh": "我们还需要进一步按年龄细看，对吧？"
+    },
+    {
+      "id": 25,
+      "startMs": 165740,
+      "endMs": 173420,
+      "en": "Does excessive screen time have an impact on children of all ages, differing ages, and is there an acceptable amount of screen time per age group maybe?",
+      "zh": "过度屏幕时间是否会影响所有年龄段的儿童？不同年龄组是否有可接受的屏幕使用时长？"
+    },
+    {
+      "id": 26,
+      "startMs": 174060,
+      "endMs": 180620,
+      "en": "We actually found that screen time across all ages was associated to some degree with these developmental outcomes,",
+      "zh": "我们发现，所有年龄段的屏幕使用都在一定程度上与这些发展结果相关，"
+    },
+    {
+      "id": 27,
+      "startMs": 181020,
+      "endMs": 185020,
+      "en": "but we found even stronger associations among older children.",
+      "zh": "但在年龄较大的儿童中，这种关联更强。"
+    },
+    {
+      "id": 28,
+      "startMs": 185580,
+      "endMs": 192160,
+      "en": "We can't say from this study exactly why that might be the case, but we can sort of speculate that as children are older,",
+      "zh": "我们无法从这项研究中确切得知原因，但可以推测，随着儿童长大，"
+    },
+    {
+      "id": 29,
+      "startMs": 192160,
+      "endMs": 195280,
+      "en": "they're actually on devices for longer periods of time,",
+      "zh": "他们使用设备的时间会更长，"
+    },
+    {
+      "id": 30,
+      "startMs": 195680,
+      "endMs": 202160,
+      "en": "and they also start to operate more independently on devices and they start to explore different device types.",
+      "zh": "也开始更独立地操作设备，并探索不同类型的设备。"
+    },
+    {
+      "id": 31,
+      "startMs": 202160,
+      "endMs": 206480,
+      "en": "So they get into platforms like social media, they start to do more gaming.",
+      "zh": "他们会接触社交媒体等平台，也开始玩更多游戏。"
+    },
+    {
+      "id": 32,
+      "startMs": 206800,
+      "endMs": 214080,
+      "en": "And when you go on those types of platforms, the digital media becomes more interactive and the content actually becomes more personalized.",
+      "zh": "而使用这类平台时，数字媒体会变得更具互动性，内容也会更加个性化。"
+    },
+    {
+      "id": 33,
+      "startMs": 214080,
+      "endMs": 221760,
+      "en": "So I think that what we can say is that as they get older, they get more independent and they get more curious and they actually just spend more time on devices,",
+      "zh": "所以我认为可以说，随着儿童长大，他们更独立、更好奇，实际上也会花更多时间使用设备，"
+    },
+    {
+      "id": 34,
+      "startMs": 221760,
+      "endMs": 225360,
+      "en": "and we might see a stronger effect in the older kids as a result.",
+      "zh": "因此我们可能会看到对年龄较大儿童的影响更强。"
+    },
+    {
+      "id": 35,
+      "startMs": 225360,
+      "endMs": 231840,
+      "en": "And Sheri, some critics have downplayed the results, saying that the only reason teenagers become emotionally distressed or fail to reach their academic goals",
+      "zh": "谢里，一些批评者淡化了研究结果，称青少年出现情绪困扰或未能实现学业目标，唯一原因"
+    },
+    {
+      "id": 36,
+      "startMs": 231920,
+      "endMs": 233680,
+      "en": "can't only be pinned down to screen time.",
+      "zh": "不可能只归咎于屏幕时间。"
+    },
+    {
+      "id": 37,
+      "startMs": 234320,
+      "endMs": 240960,
+      "en": "Yeah, I think this is a really fair point, and we don't want to overstate the findings, but I think it's also equally important not to dismiss them.",
+      "zh": "是的，我认为这是非常公平的观点。我们不想夸大研究结果，但同样重要的是不能将其置之不理。"
+    },
+    {
+      "id": 38,
+      "startMs": 240960,
+      "endMs": 246000,
+      "en": "So what this study is saying is that screen time plays a role in children's development,",
+      "zh": "所以，这项研究表明，屏幕时间会影响儿童的发展，"
+    },
+    {
+      "id": 39,
+      "startMs": 246480,
+      "endMs": 252100,
+      "en": "but in reality, children's development is also shaped by many influences, and I think we have to keep that in mind.",
+      "zh": "但实际上，儿童的发展还受到许多因素影响；我认为我们必须牢记这一点。"
+    },
+    {
+      "id": 40,
+      "startMs": 252500,
+      "endMs": 263540,
+      "en": "One of the important things to consider here is that screen time is nearly universal, so every child, everyone probably knows listening in, has one of these devices.",
+      "zh": "这里需要考虑的重要一点是，屏幕时间几乎无处不在；每个孩子，或者说正在收听的每个人，可能都有一台这样的设备。"
+    },
+    {
+      "id": 41,
+      "startMs": 263540,
+      "endMs": 268740,
+      "en": "And so when there is such a large number of the population who are using these devices,",
+      "zh": "因此，当有如此多的人口使用这些设备时，"
+    },
+    {
+      "id": 42,
+      "startMs": 268980,
+      "endMs": 274420,
+      "en": "I think we really have to think critically about how we support them in really developing healthy digital habits.",
+      "zh": "我认为我们必须认真思考，如何支持他们真正养成健康的数字习惯。"
+    },
+    {
+      "id": 43,
+      "startMs": 274580,
+      "endMs": 280740,
+      "en": "And just finally then, for advice for parents like myself of young children, what sort of conclusions have come out of this study and what advice is there?",
+      "zh": "最后，对于像我这样有年幼子女的家长，这项研究得出了什么结论？有什么建议？"
+    },
+    {
+      "id": 44,
+      "startMs": 281620,
+      "endMs": 286260,
+      "en": "Yeah, I think it's important to just think critically about how screen times are used in your home.",
+      "zh": "是的，我认为重要的是认真思考屏幕在家中如何被使用。"
+    },
+    {
+      "id": 45,
+      "startMs": 286260,
+      "endMs": 292820,
+      "en": "We're not saying don't use screen times. We're really just saying think thoughtfully and meaningfully about how they're used in the home.",
+      "zh": "我们不是说不要使用屏幕，而是说要认真、有意义地思考如何在家中使用屏幕。"
+    },
+    {
+      "id": 46,
+      "startMs": 292900,
+      "endMs": 301060,
+      "en": "Try to moderate their use, like we do many other things in children's development, like sugar, for example. We always say use in moderation",
+      "zh": "尽量适度使用，就像儿童成长中的许多其他事物一样，比如糖。我们总是说要适量，"
+    },
+    {
+      "id": 47,
+      "startMs": 301380,
+      "endMs": 307220,
+      "en": "and make sure that screen time isn't crowding out these other really important aspects of children's development.",
+      "zh": "并确保屏幕时间没有挤占儿童成长中的其他重要方面。"
+    },
+    {
+      "id": 48,
+      "startMs": 306920,
+      "endMs": 315960,
+      "en": "Like their sleep, their physical activity, and especially their time with peers and their parents, and these really important social interactions that happen face to face.",
+      "zh": "比如睡眠、体育活动，尤其是与同龄人和父母相处的时间，以及面对面发生的重要社会互动。"
+    },
+    {
+      "id": 49,
+      "startMs": 316280,
+      "endMs": 317640,
+      "en": "Dr. Sheri Madigan.",
+      "zh": "谢里·马迪根博士。"
+    },
+    {
+      "id": 50,
+      "startMs": 318560,
+      "endMs": 327680,
+      "en": "Loud explosions are reported in Kyiv early this morning. Several buildings are damaged as Russian strikes on Ukraine intensify.",
+      "zh": "清晨，基辅传出巨大的爆炸声。随着俄军对乌克兰的袭击持续加剧，多栋建筑受损。"
+    },
+    {
+      "id": 51,
+      "startMs": 328320,
+      "endMs": 337760,
+      "en": "President Zelenskyy says nine people were killed and more than 80 injured in Ukraine after another day of Russian drone and missile strikes on Monday.",
+      "zh": "泽连斯基总统说，乌克兰有9人死亡、80多人受伤；周一，该国又遭受了一天的俄军无人机和导弹袭击。"
+    },
+    {
+      "id": 52,
+      "startMs": 338320,
+      "endMs": 343760,
+      "en": "He's promised a response and said that greater international pressure could have prevented Russian attacks.",
+      "zh": "他承诺将作出回应，并说更大的国际压力本可阻止俄军袭击。"
+    },
+    {
+      "id": 53,
+      "startMs": 344240,
+      "endMs": 348400,
+      "en": "In Kyiv, the National Academy of Sciences was hit, sparking a huge fire.",
+      "zh": "在基辅，国家科学院遭到袭击，引发大火。"
+    },
+    {
+      "id": 54,
+      "startMs": 348960,
+      "endMs": 353280,
+      "en": "Our diplomatic correspondent Paul Adams is in the capital and witnessed the attacks.",
+      "zh": "我们的外交事务记者保罗·亚当斯正在首都，并目睹了这些袭击。"
+    },
+    {
+      "id": 55,
+      "startMs": 354000,
+      "endMs": 362880,
+      "en": "Frantic scenes outside Kyiv's revered National Academy of Sciences: staff escape upper-floor windows as thick black smoke billows around them.",
+      "zh": "基辅备受尊敬的国家科学院外一片慌乱：浓浓的黑烟四处升腾，工作人员从高层窗户逃出。"
+    },
+    {
+      "id": 56,
+      "startMs": 363360,
+      "endMs": 366720,
+      "en": "Emergency teams on the roof are working furiously to put out the fire.",
+      "zh": "紧急救援队在屋顶上奋力灭火。"
+    },
+    {
+      "id": 57,
+      "startMs": 367200,
+      "endMs": 369760,
+      "en": "An assault in broad daylight in the centre of the city.",
+      "zh": "光天化日之下，市中心遭到袭击。"
+    },
+    {
+      "id": 58,
+      "startMs": 370160,
+      "endMs": 378160,
+      "en": "Kyiv mayor Vitali Klitschko condemns the latest in a seemingly endless series of drone attacks. The target is every Ukrainian.",
+      "zh": "基辅市长维塔利·克利奇科谴责似乎无休无止的最新一轮无人机袭击。目标是每一个乌克兰人。"
+    },
+    {
+      "id": 59,
+      "startMs": 378420,
+      "endMs": 383940,
+      "en": "The Russians try to bring the whole society into a depressive mood, to destabilise the situation in Ukraine.",
+      "zh": "俄罗斯人试图让整个社会陷入消沉，以破坏乌克兰的局势稳定。"
+    },
+    {
+      "id": 60,
+      "startMs": 384260,
+      "endMs": 387060,
+      "en": "And that's why Kyiv is the main target for the Russians.",
+      "zh": "这就是为什么基辅是俄罗斯人的主要目标。"
+    },
+    {
+      "id": 61,
+      "startMs": 390700,
+      "endMs": 395020,
+      "en": "Within two hours, another attack, this time on a medical centre on a busy street.",
+      "zh": "两小时内，又发生了一次袭击，这次袭击的是繁忙街道上的一所医疗中心。"
+    },
+    {
+      "id": 62,
+      "startMs": 395500,
+      "endMs": 398780,
+      "en": "The building is on fire, and flaming debris falls to the ground.",
+      "zh": "大楼着火了，燃烧的碎片落到地面。"
+    },
+    {
+      "id": 63,
+      "startMs": 399680,
+      "endMs": 402800,
+      "en": "There's glass everywhere, and a bus has a shattered window.",
+      "zh": "到处都是玻璃碎片，一辆公交车的车窗也碎了。"
+    },
+    {
+      "id": 64,
+      "startMs": 403200,
+      "endMs": 406160,
+      "en": "Rescue workers are carrying an elderly woman away for treatment.",
+      "zh": "救援人员抬着一名老妇人去接受治疗。"
+    },
+    {
+      "id": 65,
+      "startMs": 407380,
+      "endMs": 408180,
+      "en": "But there's still danger.",
+      "zh": "但危险仍未消除。"
+    },
+    {
+      "id": 66,
+      "startMs": 409460,
+      "endMs": 413540,
+      "en": "Drones are in the air. With shell-shocked locals, we take cover under an archway.",
+      "zh": "空中还有无人机。我们和惊魂未定的当地人一起躲到拱门下。"
+    },
+    {
+      "id": 67,
+      "startMs": 414380,
+      "endMs": 419100,
+      "en": "There's another explosion, and we can also hear a little bit of air defence going off.",
+      "zh": "又发生了一次爆炸，我们还听到了一点防空火力的声音。"
+    },
+    {
+      "id": 68,
+      "startMs": 421840,
+      "endMs": 424000,
+      "en": "Okay, that wasn't far away.",
+      "zh": "好，那离我们并不远。"
+    },
+    {
+      "id": 69,
+      "startMs": 424560,
+      "endMs": 427040,
+      "en": "Some of the firemen sheltering with us look exhausted.",
+      "zh": "和我们一起避难的消防员有些看起来疲惫不堪。"
+    },
+    {
+      "id": 70,
+      "startMs": 427920,
+      "endMs": 429520,
+      "en": "They've been working flat out for a month.",
+      "zh": "他们已经连续一个月全力工作。"
+    },
+    {
+      "id": 71,
+      "startMs": 430880,
+      "endMs": 434400,
+      "en": "Russia's attacks are clearly designed to weaken and demoralise the city.",
+      "zh": "俄军的袭击显然意在削弱这座城市、打击其士气。"
+    },
+    {
+      "id": 72,
+      "startMs": 434800,
+      "endMs": 439840,
+      "en": "But as Lyubov watches the flames raging close to her apartment, she's quietly defiant.",
+      "zh": "柳博芙看着公寓附近熊熊燃烧的火焰，却默默地表现出不屈。"
+    },
+    {
+      "id": 73,
+      "startMs": 440160,
+      "endMs": 445760,
+      "en": "I never left Kyiv. I stayed here when Russia arrived. I stayed here through that occupation time.",
+      "zh": "我从未离开基辅。俄罗斯军队到来时我留在这里，在那段占领时期也留在这里。"
+    },
+    {
+      "id": 74,
+      "startMs": 446000,
+      "endMs": 447600,
+      "en": "It's just my city. I was born here.",
+      "zh": "这里就是我的城市。我出生在这里。"
+    },
+    {
+      "id": 75,
+      "startMs": 448180,
+      "endMs": 451540,
+      "en": "By early evening, Kyiv has been under alert for a total of 10 hours.",
+      "zh": "到傍晚，基辅处于警报状态的时间总计已达10小时。"
+    },
+    {
+      "id": 76,
+      "startMs": 451860,
+      "endMs": 455460,
+      "en": "The disruption to work, education and daily life is enormous.",
+      "zh": "工作、教育和日常生活受到的干扰极其严重。"
+    },
+    {
+      "id": 77,
+      "startMs": 455860,
+      "endMs": 457940,
+      "en": "But the people of this city are used to danger.",
+      "zh": "但这座城市的居民已经习惯了危险。"
+    },
+    {
+      "id": 78,
+      "startMs": 458420,
+      "endMs": 460500,
+      "en": "And so, once again, they adjust.",
+      "zh": "所以，他们再次调整自己，适应了这种情况。"
+    },
+    {
+      "id": 79,
+      "startMs": 460820,
+      "endMs": 470540,
+      "en": "Paul Adams. Young men's behaviour at sometimes wild fraternity parties on American college campuses is once again under the spotlight.",
+      "zh": "保罗·亚当斯报道。美国大学校园里年轻男性在有时十分狂野的兄弟会聚会中的行为，再次受到关注。"
+    },
+    {
+      "id": 80,
+      "startMs": 471100,
+      "endMs": 478380,
+      "en": "This is after a district attorney in New York reopened an investigation into an alleged crime from October 2024.",
+      "zh": "此前，纽约一名地方检察官重启了对一宗据称发生于2024年10月的犯罪案件的调查。"
+    },
+    {
+      "id": 81,
+      "startMs": 479500,
+      "endMs": 486220,
+      "en": "Men belonging to a fraternity chapter were accused of drugging and raping a 20-year-old female student.",
+      "zh": "一个兄弟会分会的成员被指控给一名20岁女学生下药并强奸她。"
+    },
+    {
+      "id": 82,
+      "startMs": 486780,
+      "endMs": 496380,
+      "en": "The woman, called Jane Doe in court documents, says seven men sexually assaulted her while she was intoxicated and that no consent was given.",
+      "zh": "法庭文件中化名为简·多伊的女子说，她醉酒时遭7名男子性侵，而且从未表示同意。"
+    },
+    {
+      "id": 83,
+      "startMs": 496380,
+      "endMs": 502140,
+      "en": "Our correspondent in New York, Neda Tofigh, told Celia Hatton more about the woman's case.",
+      "zh": "我们的纽约记者内达·托菲格向西莉亚·哈顿进一步介绍了这名女子的案件。"
+    },
+    {
+      "id": 84,
+      "startMs": 502620,
+      "endMs": 509580,
+      "en": "She said that she ended up going to the frat house to see a friend, but when she arrived, she was visibly intoxicated.",
+      "zh": "她说，自己去了兄弟会宿舍看朋友；但到达时，她明显已经醉了。"
+    },
+    {
+      "id": 85,
+      "startMs": 510140,
+      "endMs": 517020,
+      "en": "And there, according to the lawsuit, two of the fraternity members pressured her into snorting ketamine.",
+      "zh": "根据诉讼书，她在那里被两名兄弟会成员施压吸食氯胺酮。"
+    },
+    {
+      "id": 86,
+      "startMs": 517420,
+      "endMs": 522380,
+      "en": "They piled her with other drugs and alcohol and then sexually assaulted her.",
+      "zh": "他们还让她服用其他毒品和酒精，随后对她实施性侵。"
+    },
+    {
+      "id": 87,
+      "startMs": 522400,
+      "endMs": 531840,
+      "en": "At one point, the complaint even alleges that one of the men sent a vulgar message to the fraternity's Snapchat group.",
+      "zh": "诉状甚至指称，其中一人曾向兄弟会的 Snapchat 群组发送粗俗信息。"
+    },
+    {
+      "id": 88,
+      "startMs": 532320,
+      "endMs": 535920,
+      "en": "It said that she was available upstairs for sex.",
+      "zh": "信息称她在楼上可以供人发生性关系。"
+    },
+    {
+      "id": 89,
+      "startMs": 536640,
+      "endMs": 543120,
+      "en": "So this has obviously sparked a lot of concern because this happened two years ago.",
+      "zh": "因此，这显然引发了许多担忧，因为这件事发生在两年前。"
+    },
+    {
+      "id": 90,
+      "startMs": 543200,
+      "endMs": 551680,
+      "en": "And the background to this is that Cornell University says they have to investigate any cases of sexual assault under federal law.",
+      "zh": "事情的背景是，康奈尔大学说，根据联邦法律，他们必须调查任何性侵案件。"
+    },
+    {
+      "id": 91,
+      "startMs": 552080,
+      "endMs": 559280,
+      "en": "They say that they did that, and that they referred it to the district attorney to see whether criminal charges should be filed.",
+      "zh": "校方说，他们确实进行了调查，并将案件转交地方检察官，以判断是否应提出刑事指控。"
+    },
+    {
+      "id": 92,
+      "startMs": 559840,
+      "endMs": 564240,
+      "en": "The district attorney at the time did not think that this warranted criminal charges.",
+      "zh": "当时的地方检察官认为，这不足以提出刑事指控。"
+    },
+    {
+      "id": 93,
+      "startMs": 565040,
+      "endMs": 570480,
+      "en": "It's also worth pointing out that outside police never investigated this.",
+      "zh": "还值得指出的是，校外警方从未调查此事。"
+    },
+    {
+      "id": 94,
+      "startMs": 570880,
+      "endMs": 574960,
+      "en": "And so questions are now being asked about why that is.",
+      "zh": "因此，人们现在开始追问为何会这样。"
+    },
+    {
+      "id": 95,
+      "startMs": 575360,
+      "endMs": 579200,
+      "en": "What did the district attorney say about why the case was reopened?",
+      "zh": "地方检察官如何解释案件重启的原因？"
+    },
+    {
+      "id": 96,
+      "startMs": 579280,
+      "endMs": 582000,
+      "en": "Well, the district attorney has been quite defensive.",
+      "zh": "地方检察官对此一直态度强硬。"
+    },
+    {
+      "id": 97,
+      "startMs": 582000,
+      "endMs": 585920,
+      "en": "He says that for the last two weeks, many people have called his office,",
+      "zh": "他说，过去两周，许多人打电话到他的办公室，"
+    },
+    {
+      "id": 98,
+      "startMs": 585920,
+      "endMs": 587840,
+      "en": "left voicemails and sent emails.",
+      "zh": "留言并发来电子邮件。"
+    },
+    {
+      "id": 99,
+      "startMs": 588160,
+      "endMs": 590960,
+      "en": "Some have even threatened his office and his staff.",
+      "zh": "有些人甚至威胁他的办公室和工作人员。"
+    },
+    {
+      "id": 100,
+      "startMs": 591360,
+      "endMs": 596320,
+      "en": "And so he said he wanted to make it clear that the facts in this lawsuit were very different, he alleges,",
+      "zh": "因此，他说自己想明确指出，这起诉讼中的事实截然不同——他声称，"
+    },
+    {
+      "id": 101,
+      "startMs": 596420,
+      "endMs": 606180,
+      "en": "from the six-page statement that Jane Doe gave to Cornell University at the time, and he has actually published her statement.",
+      "zh": "与 Jane Doe 当时提交给康奈尔大学的六页陈述不同；他还公开了她的陈述。"
+    },
+    {
+      "id": 102,
+      "startMs": 606260,
+      "endMs": 612660,
+      "en": "And he characterizes her statement as not alleging that she was drugged against her will or gang raped,",
+      "zh": "他还称，她的陈述并没有指称自己被违意下药或遭到轮奸，"
+    },
+    {
+      "id": 103,
+      "startMs": 612900,
+      "endMs": 618820,
+      "en": "and he says that she described the sexual conduct as voluntary, conscious and consensual.",
+      "zh": "并称她描述那次性行为是自愿、清醒且双方同意的。"
+    },
+    {
+      "id": 104,
+      "startMs": 618900,
+      "endMs": 622340,
+      "en": "Now, her lawyer says she was intoxicated.",
+      "zh": "而她的律师说，她当时处于醉酒状态。"
+    },
+    {
+      "id": 105,
+      "startMs": 622340,
+      "endMs": 625300,
+      "en": "She was in no state to give consent at any point.",
+      "zh": "她在任何时候都没有具备同意的状态。"
+    },
+    {
+      "id": 106,
+      "startMs": 625940,
+      "endMs": 632740,
+      "en": "The university held hearings and they suspended two students, but the others, her lawyer claims,",
+      "zh": "大学举行了听证，并停学处分了两名学生；但她的律师称，其他人"
+    },
+    {
+      "id": 107,
+      "startMs": 633140,
+      "endMs": 636260,
+      "en": "only got lesser punishment by writing essays.",
+      "zh": "只因写了几篇文章而受到较轻的惩罚。"
+    },
+    {
+      "id": 108,
+      "startMs": 636740,
+      "endMs": 642180,
+      "en": "Because of the pressure, the district attorney is now going to present this case to a grand jury.",
+      "zh": "由于压力，地方检察官现在将把案件提交大陪审团。"
+    },
+    {
+      "id": 109,
+      "startMs": 642340,
+      "endMs": 646100,
+      "en": "As you mentioned before, Cornell is an Ivy League school.",
+      "zh": "正如你之前提到的，康奈尔是常春藤盟校。"
+    },
+    {
+      "id": 110,
+      "startMs": 646100,
+      "endMs": 649460,
+      "en": "It's a very prestigious university in the United States.",
+      "zh": "它是美国一所声望很高的大学。"
+    },
+    {
+      "id": 111,
+      "startMs": 649620,
+      "endMs": 656260,
+      "en": "Can you reflect on that and also that this alleged crime apparently took place at a fraternity?",
+      "zh": "你能谈谈这一点，以及这起被指称的犯罪显然发生在兄弟会住所一事吗？"
+    },
+    {
+      "id": 112,
+      "startMs": 657000,
+      "endMs": 665560,
+      "en": "There are several instances in Jane Doe's complaint where she reflects on just the responsibility that Cornell University",
+      "zh": "Jane Doe 在起诉书中多次谈到，康奈尔大学"
+    },
+    {
+      "id": 113,
+      "startMs": 665560,
+      "endMs": 673880,
+      "en": "has and also the fraternities have to make sure that the campus is a safe place for students.",
+      "zh": "以及各兄弟会都有责任确保校园对学生来说是安全的地方。"
+    },
+    {
+      "id": 114,
+      "startMs": 674280,
+      "endMs": 680200,
+      "en": "Jane Doe talks about coming from a small town and only dreaming of being able to go to Cornell University.",
+      "zh": "Jane Doe 说，自己来自小镇，曾一心梦想能够进入康奈尔大学。"
+    },
+    {
+      "id": 115,
+      "startMs": 680440,
+      "endMs": 683080,
+      "en": "She ended up dropping out of the university.",
+      "zh": "但她最终从这所大学退学。"
+    },
+    {
+      "id": 116,
+      "startMs": 683640,
+      "endMs": 690040,
+      "en": "Cornell University has said any suggestion that they didn't dole out harsh enough punishment just isn't true.",
+      "zh": "康奈尔大学表示，任何称他们没有给予足够严厉惩罚的说法都不属实。"
+    },
+    {
+      "id": 117,
+      "startMs": 690520,
+      "endMs": 696840,
+      "en": "This has gotten so much attention partly because Cornell University is an Ivy League school",
+      "zh": "此事受到如此多关注，部分原因是康奈尔大学属于常春藤盟校，"
+    },
+    {
+      "id": 118,
+      "startMs": 696840,
+      "endMs": 702280,
+      "en": "and because the issue of campus sexual assault has long been a problem here",
+      "zh": "还因为校园性侵问题长期以来一直是美国的一个问题，"
+    },
+    {
+      "id": 119,
+      "startMs": 702280,
+      "endMs": 708360,
+      "en": "in the United States, and yet this case kind of underlines some of the gaps perhaps that are still there",
+      "zh": "而这起案件似乎凸显了美国仍然存在的一些漏洞，"
+    },
+    {
+      "id": 120,
+      "startMs": 708440,
+      "endMs": 711880,
+      "en": "and that's why so many people have been outraged at this case.",
+      "zh": "这也正是许多人对案件感到愤怒的原因。"
+    },
+    {
+      "id": 121,
+      "startMs": 712360,
+      "endMs": 713800,
+      "en": "Neda Tofigh reporting.",
+      "zh": "Neda Tofigh 报道。"
+    },
+    {
+      "id": 122,
+      "startMs": 714740,
+      "endMs": 720180,
+      "en": "SpaceX's Starship rocket has successfully orbited Earth after liftoff from Texas.",
+      "zh": "SpaceX 的 Starship 火箭从得克萨斯州发射升空后，成功进入环绕地球的轨道。"
+    },
+    {
+      "id": 123,
+      "startMs": 720180,
+      "endMs": 727140,
+      "en": "Despite one of its engines shutting down unexpectedly, the mission was originally supposed to travel around the Earth",
+      "zh": "尽管其中一台发动机意外关闭，这次任务原计划绕地球飞行"
+    },
+    {
+      "id": 124,
+      "startMs": 727220,
+      "endMs": 731460,
+      "en": "six times over 10 hours, but returned early because of the problem.",
+      "zh": "六圈、持续十小时，但由于这一问题提前返回。"
+    },
+    {
+      "id": 125,
+      "startMs": 731940,
+      "endMs": 734420,
+      "en": "Our science editor Rebecca Morelle followed its journey.",
+      "zh": "我们的科学编辑 Rebecca Morelle 跟踪报道了飞行过程。"
+    },
+    {
+      "id": 126,
+      "startMs": 735380,
+      "endMs": 737540,
+      "en": "Three, two, one.",
+      "zh": "三、二、一。"
+    },
+    {
+      "id": 127,
+      "startMs": 740740,
+      "endMs": 748260,
+      "en": "The start of a critical test for the biggest and most powerful rocket ever built, as SpaceX's Starship blasted off.",
+      "zh": "这是有史以来最大、最强火箭的一次关键测试开始，SpaceX 的 Starship 发射升空。"
+    },
+    {
+      "id": 128,
+      "startMs": 748260,
+      "endMs": 754120,
+      "en": "All right. Thirty-five seconds into the flight, 33 out of 33 engines lit.",
+      "zh": "好，飞行三十五秒时，33 台发动机全部点火。"
+    },
+    {
+      "id": 129,
+      "startMs": 754440,
+      "endMs": 758280,
+      "en": "Its aim was to get into orbit around the Earth for the very first time.",
+      "zh": "它的目标是首次进入环绕地球的轨道。"
+    },
+    {
+      "id": 130,
+      "startMs": 758920,
+      "endMs": 762600,
+      "en": "A few minutes into the flight, the lower part of the rocket separated.",
+      "zh": "飞行几分钟后，火箭下部脱离。"
+    },
+    {
+      "id": 131,
+      "startMs": 763160,
+      "endMs": 769080,
+      "en": "The upper section, called the ship, continued, providing a bird's-eye view of the Earth far below.",
+      "zh": "被称为“飞船”的上部继续飞行，俯瞰下方遥远的地球。"
+    },
+    {
+      "id": 132,
+      "startMs": 769880,
+      "endMs": 775640,
+      "en": "One of its engines, though, had failed, but SpaceX decided to push on to meet its main mission objective.",
+      "zh": "不过，其中一台发动机发生故障，但 SpaceX 决定继续飞行，以完成主要任务目标。"
+    },
+    {
+      "id": 133,
+      "startMs": 775960,
+      "endMs": 780920,
+      "en": "Successful orbital insertion burn. Starship is in orbit.",
+      "zh": "轨道插入点火成功，Starship 已进入轨道。"
+    },
+    {
+      "id": 134,
+      "startMs": 781480,
+      "endMs": 786920,
+      "en": "It meant the 26 satellites on board could be deployed, in another first for the SpaceX team.",
+      "zh": "这意味着搭载的26颗卫星可以部署，这是 SpaceX 团队的又一个首次。"
+    },
+    {
+      "id": 135,
+      "startMs": 787160,
+      "endMs": 792280,
+      "en": "But 90 minutes into the planned 10-hour flight, SpaceX announced they were cutting the mission short.",
+      "zh": "但在原计划十小时飞行开始九十分钟后，SpaceX 宣布将缩短任务。"
+    },
+    {
+      "id": 136,
+      "startMs": 792760,
+      "endMs": 798120,
+      "en": "The spacecraft eventually landed in the Pacific Ocean with a big explosion as it hit the waves.",
+      "zh": "飞船最终降落在太平洋，撞上波浪时发生了剧烈爆炸。"
+    },
+    {
+      "id": 137,
+      "startMs": 798760,
+      "endMs": 801400,
+      "en": "So was this flight a success or a failure?",
+      "zh": "那么，这次飞行究竟成功还是失败？"
+    },
+    {
+      "id": 138,
+      "startMs": 802040,
+      "endMs": 806120,
+      "en": "Professor Malcolm Macdonald is the president of the Royal Aeronautical Society.",
+      "zh": "Malcolm Macdonald 教授是皇家航空学会主席。"
+    },
+    {
+      "id": 139,
+      "startMs": 806280,
+      "endMs": 808360,
+      "en": "I'd be inclined to say it's a success.",
+      "zh": "我倾向于认为这是一次成功。"
+    },
+    {
+      "id": 140,
+      "startMs": 808360,
+      "endMs": 810540,
+      "en": "I mean, they've achieved a lot of what they were trying to do.",
+      "zh": "我的意思是，他们完成了许多原本想做到的事情。"
+    },
+    {
+      "id": 141,
+      "startMs": 810540,
+      "endMs": 812540,
+      "en": "They got to orbit, which is a big thing.",
+      "zh": "他们进入了轨道，这是一件大事。"
+    },
+    {
+      "id": 142,
+      "startMs": 812940,
+      "endMs": 816380,
+      "en": "They got the Starlink satellites deployed, which again is a big thing for them.",
+      "zh": "他们还部署了 Starlink 卫星，这对他们来说同样是一件大事。"
+    },
+    {
+      "id": 143,
+      "startMs": 816860,
+      "endMs": 820860,
+      "en": "Yeah, okay, they've cut it short. They've not got the full number of orbits we're hoping for,",
+      "zh": "好吧，他们确实缩短了任务，没能完成我们期待的全部绕行圈数，"
+    },
+    {
+      "id": 144,
+      "startMs": 820860,
+      "endMs": 823180,
+      "en": "but I think they've still achieved an awful lot in this flight.",
+      "zh": "但我认为，他们在这次飞行中仍然取得了很多成果。"
+    },
+    {
+      "id": 145,
+      "startMs": 823180,
+      "endMs": 827260,
+      "en": "So it's hard to see. Maybe it's not 100% success, but it's pretty close to that.",
+      "zh": "所以很难简单判断。也许这不是百分之百的成功，但已经非常接近。"
+    },
+    {
+      "id": 146,
+      "startMs": 827500,
+      "endMs": 832860,
+      "en": "This was the 14th test flight for Starship, and NASA is keeping a close eye on its progress.",
+      "zh": "这是 Starship 的第14次试飞，NASA 正密切关注其进展。"
+    },
+    {
+      "id": 147,
+      "startMs": 833340,
+      "endMs": 841100,
+      "en": "The Starship rocket is providing a vital role in the US space agency's Artemis programme and its plans to put astronauts back on the moon by 2028.",
+      "zh": "Starship 火箭在美国航天局的阿耳忒弥斯计划中发挥着关键作用，该计划拟于2028年将宇航员送回月球。"
+    },
+    {
+      "id": 148,
+      "startMs": 841660,
+      "endMs": 843900,
+      "en": "There's still a long way to go.",
+      "zh": "但距离目标仍有很长的路要走。"
+    },
+    {
+      "id": 149,
+      "startMs": 844620,
+      "endMs": 846380,
+      "en": "Science editor Rebecca Morelle.",
+      "zh": "科学编辑 Rebecca Morelle。"
+    },
+    {
+      "id": 150,
+      "startMs": 849460,
+      "endMs": 853780,
+      "en": "Still to come in this podcast, climate crisis in a lot of countries is a thing of the future,",
+      "zh": "本期节目稍后：气候危机对许多国家来说还是未来之事，"
+    },
+    {
+      "id": 151,
+      "startMs": 853780,
+      "endMs": 857940,
+      "en": "but here in Nepal, it is a thing of now.",
+      "zh": "但在尼泊尔，它已经是当下的问题。"
+    },
+    {
+      "id": 152,
+      "startMs": 858260,
+      "endMs": 860820,
+      "en": "It is reality and it's a national emergency.",
+      "zh": "这是现实，也是国家紧急状态。"
+    },
+    {
+      "id": 153,
+      "startMs": 860820,
+      "endMs": 865380,
+      "en": "A special report about the impact of last month's deadly floods in Nepal.",
+      "zh": "特别报道：上月致命洪灾对尼泊尔造成的影响。"
+    },
+    {
+      "id": 154,
+      "startMs": 865380,
+      "endMs": 867380,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《Global News》播客。"
+    },
+    {
+      "id": 155,
+      "startMs": 868580,
+      "endMs": 874980,
+      "en": "The growing threat of kidnapping for ransom is a serious problem in parts of Nigeria, and it appears to be spreading.",
+      "zh": "索要赎金的绑架在尼日利亚部分地区是严重问题，而且似乎正在蔓延。"
+    },
+    {
+      "id": 156,
+      "startMs": 875620,
+      "endMs": 882660,
+      "en": "Increasingly, people in or near schools, mosques and rural communities are targeted by armed gangs.",
+      "zh": "武装团伙越来越多地把学校、清真寺附近以及农村社区的人作为目标。"
+    },
+    {
+      "id": 157,
+      "startMs": 883140,
+      "endMs": 888580,
+      "en": "Over the weekend, more than 80 people were reported to have been seized in two separate kidnappings in two northern states.",
+      "zh": "据报道，上周末北部两个州发生两起绑架案，超过80人被掳走。"
+    },
+    {
+      "id": 158,
+      "startMs": 888900,
+      "endMs": 898420,
+      "en": "Police have also found the bones of at least 20 people they believe may be victims of earlier abductions.",
+      "zh": "警方还发现至少20人的遗骨，他们认为这些人可能是此前绑架案的受害者。"
+    },
+    {
+      "id": 159,
+      "startMs": 898900,
+      "endMs": 901140,
+      "en": "The BBC's Maclean Okafor is in Lagos.",
+      "zh": "BBC记者麦克莱恩·奥卡福在拉各斯报道。"
+    },
+    {
+      "id": 160,
+      "startMs": 901300,
+      "endMs": 909060,
+      "en": "I have spoken to the police in Niger State, in the north-central region, and also to police in Zamfara, which borders Niger.",
+      "zh": "我采访了尼日尔州中北部地区的警方，也采访了与尼日尔接壤的扎姆法拉州警方。"
+    },
+    {
+      "id": 161,
+      "startMs": 909060,
+      "endMs": 912020,
+      "en": "Zamfara is in the upper northern part of the country.",
+      "zh": "扎姆法拉位于尼日利亚最北部地区。"
+    },
+    {
+      "id": 162,
+      "startMs": 912580,
+      "endMs": 918260,
+      "en": "The police said more than 20 people were taken in Niger State, but didn't give a specific number.",
+      "zh": "警方说尼日尔州有20多人被带走，但没有给出具体数字。"
+    },
+    {
+      "id": 163,
+      "startMs": 918260,
+      "endMs": 922740,
+      "en": "They said that was because they were still searching the villages where the attack happened.",
+      "zh": "警方说，这是因为他们仍在搜查发生袭击的村庄。"
+    },
+    {
+      "id": 164,
+      "startMs": 923060,
+      "endMs": 930200,
+      "en": "But local media and residents' reports have said that in Niger State, over 40 people were taken.",
+      "zh": "但当地媒体和居民报告称，尼日尔州有40多人被带走。"
+    },
+    {
+      "id": 165,
+      "startMs": 930680,
+      "endMs": 935000,
+      "en": "Similarly, in Zamfara State, over 40 people were taken.",
+      "zh": "同样在扎姆法拉州，也有40多人被带走。"
+    },
+    {
+      "id": 166,
+      "startMs": 935320,
+      "endMs": 941960,
+      "en": "I'll give you a bit of context. It's not so much news anymore, you know, hearing about kidnappings in northern Nigeria.",
+      "zh": "我补充一点背景。如今，听到尼日利亚北部发生绑架，已经不算什么新闻了。"
+    },
+    {
+      "id": 167,
+      "startMs": 942360,
+      "endMs": 950440,
+      "en": "But we're seeing these kidnappings spread, moving from the northern parts into the central region and now down south.",
+      "zh": "但我们看到绑架正在蔓延，从北部地区扩展到中部，如今又向南部发展。"
+    },
+    {
+      "id": 168,
+      "startMs": 950920,
+      "endMs": 959480,
+      "en": "A few weeks ago in Niger State, in central Nigeria, reports said over 500 people were taken in villages near a mosque.",
+      "zh": "几周前，在尼日利亚中部的尼日尔州，有报道称清真寺附近村庄的500多人被带走。"
+    },
+    {
+      "id": 169,
+      "startMs": 959480,
+      "endMs": 963480,
+      "en": "The police haven't confirmed this, but residents say many people were taken.",
+      "zh": "警方尚未证实这一说法，但居民称有许多人被带走。"
+    },
+    {
+      "id": 170,
+      "startMs": 963480,
+      "endMs": 966920,
+      "en": "While the police confirmed an attack did happen, they couldn't give a number.",
+      "zh": "警方确认确实发生了袭击，但无法给出被绑架人数。"
+    },
+    {
+      "id": 171,
+      "startMs": 967000,
+      "endMs": 970040,
+      "en": "So it kind of paints a picture of how this is spreading.",
+      "zh": "这多少展现了绑架如何蔓延。"
+    },
+    {
+      "id": 172,
+      "startMs": 970360,
+      "endMs": 976760,
+      "en": "There has been palpable fear. Most people can't even travel by road anymore because they're very worried.",
+      "zh": "人们明显感到恐惧。大多数人甚至不敢再走公路，因为他们非常担心。"
+    },
+    {
+      "id": 173,
+      "startMs": 976760,
+      "endMs": 985000,
+      "en": "Those who can afford to fly do so, while people in rural areas are left exposed; kidnappers take whoever they see, including farmers.",
+      "zh": "有能力的人会改乘飞机，而农村居民只能暴露在风险中；绑匪见人就抓，其中也包括农民。"
+    },
+    {
+      "id": 174,
+      "startMs": 984940,
+      "endMs": 988140,
+      "en": "They are being abducted on their way to the farm.",
+      "zh": "农民会在去农田的路上遭到绑架。"
+    },
+    {
+      "id": 175,
+      "startMs": 988220,
+      "endMs": 990380,
+      "en": "People are abducted in the marketplace now.",
+      "zh": "如今人们在市场里也会遭到绑架。"
+    },
+    {
+      "id": 176,
+      "startMs": 990380,
+      "endMs": 998940,
+      "en": "Authorities say they've stepped up efforts to clamp down on insurgency and kidnappings, but it's still happening across many parts of the country.",
+      "zh": "当局称已加大力度打击叛乱和绑架，但这种情况仍在全国许多地区发生。"
+    },
+    {
+      "id": 177,
+      "startMs": 999420,
+      "endMs": 1001660,
+      "en": "Maclean Okafor in Lagos.",
+      "zh": "麦克莱恩·奥卡福在拉各斯报道。"
+    },
+    {
+      "id": 178,
+      "startMs": 1002540,
+      "endMs": 1010780,
+      "en": "Google Earth has updated its satellite imagery of Gaza, giving a striking new view of the scale of destruction after almost three years of war.",
+      "zh": "谷歌地球更新了加沙的卫星影像，展现近三年战争造成的破坏规模。"
+    },
+    {
+      "id": 179,
+      "startMs": 1011500,
+      "endMs": 1019340,
+      "en": "Before-and-after images show entire neighbourhoods heavily damaged or destroyed since the conflict began in October 2023.",
+      "zh": "战前和战后的影像显示，自2023年10月冲突开始以来，整个街区都遭到严重破坏或摧毁。"
+    },
+    {
+      "id": 180,
+      "startMs": 1019660,
+      "endMs": 1026220,
+      "en": "Tent encampments have appeared around Khan Yunis as people have been repeatedly displaced.",
+      "zh": "随着人们一次次流离失所，汗尤尼斯周围出现了帐篷营地。"
+    },
+    {
+      "id": 181,
+      "startMs": 1026860,
+      "endMs": 1033100,
+      "en": "Benjamin Netanyahu's Israeli government has not allowed foreign journalists or independent investigators into the Strip.",
+      "zh": "本雅明·内塔尼亚胡领导的以色列政府不允许外国记者或独立调查人员进入加沙地带。"
+    },
+    {
+      "id": 182,
+      "startMs": 1033740,
+      "endMs": 1039900,
+      "en": "So what can satellite imagery tell us about how Gaza has changed, and what can we establish from these images?",
+      "zh": "那么，卫星影像能告诉我们加沙发生了怎样的变化？我们又能从这些影像中确认什么？"
+    },
+    {
+      "id": 183,
+      "startMs": 1040380,
+      "endMs": 1046860,
+      "en": "Ollie Ballinger is a lecturer in geocomputation at University College London. He spoke to the BBC's Claire MacDougall.",
+      "zh": "奥利·巴林格是伦敦大学学院地理计算学讲师。他接受了BBC记者克莱尔·麦克杜格尔的采访。"
+    },
+    {
+      "id": 184,
+      "startMs": 1047500,
+      "endMs": 1056620,
+      "en": "One of the most important things to note is that over 55% of the buildings in Gaza were already destroyed in the first year of the conflict.",
+      "zh": "最重要的一点是，冲突第一年，加沙超过55%的建筑就已经被摧毁。"
+    },
+    {
+      "id": 185,
+      "startMs": 1056700,
+      "endMs": 1062540,
+      "en": "So what we're seeing is Google updating its imagery and making that visible to the general public.",
+      "zh": "所以，我们现在看到的是谷歌更新影像，并将其公开给大众。"
+    },
+    {
+      "id": 186,
+      "startMs": 1062800,
+      "endMs": 1067680,
+      "en": "But there have been ways to measure this damage using different satellites.",
+      "zh": "不过，人们一直可以利用不同的卫星测量这些破坏。"
+    },
+    {
+      "id": 187,
+      "startMs": 1067680,
+      "endMs": 1072800,
+      "en": "For example, that has been a collective effort among many people for the past three years.",
+      "zh": "例如，过去三年来，许多人一直在共同开展这项工作。"
+    },
+    {
+      "id": 188,
+      "startMs": 1072960,
+      "endMs": 1080400,
+      "en": "The conditions we are seeing now on Google Maps are actually the conditions that have existed on the ground for years.",
+      "zh": "我们现在在谷歌地图上看到的情况，其实已经在当地存在多年。"
+    },
+    {
+      "id": 189,
+      "startMs": 1080640,
+      "endMs": 1087680,
+      "en": "Google does not take the imagery itself. Google buys or acquires imagery from commercial satellite-imagery providers.",
+      "zh": "谷歌并不自行拍摄影像，而是从商业卫星影像供应商那里购买或取得影像。"
+    },
+    {
+      "id": 190,
+      "startMs": 1087680,
+      "endMs": 1094720,
+      "en": "These are private companies that take pictures of the Earth, and Google buys imagery from them and periodically updates the basemap you see there.",
+      "zh": "这些私营公司负责拍摄地球影像，谷歌向它们购买影像，并定期更新你看到的底图。"
+    },
+    {
+      "id": 191,
+      "startMs": 1094960,
+      "endMs": 1103760,
+      "en": "The imagery Google included in its new basemap for Gaza is probably at least a few months old, if not older.",
+      "zh": "谷歌在加沙新底图中采用的影像，很可能至少已有几个月，甚至更久。"
+    },
+    {
+      "id": 192,
+      "startMs": 1104160,
+      "endMs": 1111440,
+      "en": "But we have had analyses from the UN and from academics such as myself tracking damage in Gaza.",
+      "zh": "但联合国以及我这样的学者一直在分析和追踪加沙的破坏情况。"
+    },
+    {
+      "id": 193,
+      "startMs": 1111520,
+      "endMs": 1121200,
+      "en": "Those numbers have plateaued around 80 to 82% now for buildings in Gaza being damaged or destroyed, and that's been the case for quite some time.",
+      "zh": "目前，加沙遭到破坏或摧毁的建筑比例已稳定在约80%至82%，这种情况已经持续相当一段时间了。"
+    },
+    {
+      "id": 194,
+      "startMs": 1121580,
+      "endMs": 1130540,
+      "en": "There has actually been relatively little new damage in the past year; it is just that we are now able to observe this damage publicly.",
+      "zh": "过去一年新增破坏其实相对较少，只是现在我们能够公开看到这些破坏。"
+    },
+    {
+      "id": 195,
+      "startMs": 1130780,
+      "endMs": 1138460,
+      "en": "If you split the screen and see the before and after, in many cases in suburbs in Rafah there is literally nothing there.",
+      "zh": "如果把画面分成战前和战后两部分，就会看到拉法许多郊区几乎什么都不剩。"
+    },
+    {
+      "id": 196,
+      "startMs": 1138540,
+      "endMs": 1143260,
+      "en": "You can see the homes before, and then you're looking at a wasteland afterwards.",
+      "zh": "你能看到原来的房屋，之后看到的却是一片荒地。"
+    },
+    {
+      "id": 197,
+      "startMs": 1143420,
+      "endMs": 1148540,
+      "en": "I mean, how much detail can you go into when you examine these images as to what has been lost?",
+      "zh": "我的意思是，查看这些影像时，能详细了解到失去了多少吗？"
+    },
+    {
+      "id": 198,
+      "startMs": 1148940,
+      "endMs": 1156140,
+      "en": "You can see that 82% of the buildings have been damaged or destroyed, but those are just the buildings you can see as rubble.",
+      "zh": "你可以看到82%的建筑受损或被毁，但那只是从影像上能看到的、已经成为废墟的建筑。"
+    },
+    {
+      "id": 199,
+      "startMs": 1156300,
+      "endMs": 1165180,
+      "en": "Of the remaining 15% or so that we can't determine have been destroyed from the top down, those are likely to be severely damaged.",
+      "zh": "剩下约15%的建筑，我们无法从俯视影像确定是否被摧毁，但它们很可能已严重受损。"
+    },
+    {
+      "id": 200,
+      "startMs": 1165180,
+      "endMs": 1170380,
+      "en": "In fact, two weeks ago, 21 Palestinians were killed when a building they were living in collapsed.",
+      "zh": "事实上，两周前，一栋他们居住的建筑倒塌，造成21名巴勒斯坦人死亡。"
+    },
+    {
+      "id": 201,
+      "startMs": 1170620,
+      "endMs": 1174620,
+      "en": "Many buildings still standing might appear undamaged in satellite images.",
+      "zh": "许多仍然矗立的建筑，从卫星影像看可能会显得没有受损。"
+    },
+    {
+      "id": 202,
+      "startMs": 1174620,
+      "endMs": 1181100,
+      "en": "But they are actually unsafe to inhabit and continue to cause deaths.",
+      "zh": "但实际上它们不适合居住，并且仍在不断造成死亡。"
+    },
+    {
+      "id": 203,
+      "startMs": 1181920,
+      "endMs": 1190080,
+      "en": "Gazans trying to shelter within them face this danger. About 94% of Gaza's population needs shelter assistance. Ollie Ballinger.",
+      "zh": "试图在其中避难的加沙人面临这种危险。加沙约94%的人口需要住所援助。奥利·巴林格。"
+    },
+    {
+      "id": 204,
+      "startMs": 1191660,
+      "endMs": 1198460,
+      "en": "Since last month's devastating floods in Nepal, there have been stark warnings about the impact of climate change on the Himalayas.",
+      "zh": "自上月尼泊尔发生毁灭性洪灾以来，人们一直严厉警告气候变化对喜马拉雅山脉的影响。"
+    },
+    {
+      "id": 205,
+      "startMs": 1198860,
+      "endMs": 1203100,
+      "en": "As glaciers melt, the landscape becomes increasingly unstable.",
+      "zh": "随着冰川融化，这片地貌变得越来越不稳定。"
+    },
+    {
+      "id": 206,
+      "startMs": 1203740,
+      "endMs": 1211740,
+      "en": "Antonia Bolingbroke-Kent reports from a thousand-year-old Himalayan village that now faces an existential threat from a melting glacier.",
+      "zh": "安东尼娅·博林布鲁克-肯特从一座有千年历史的喜马拉雅村庄发来报道，这里正面临融化冰川带来的生存威胁。"
+    },
+    {
+      "id": 207,
+      "startMs": 1214500,
+      "endMs": 1221860,
+      "en": "In a thousand-year-old Buddhist monastery in the remote village of Halji, high in the Himalayas, a monk recites prayers to protect the community.",
+      "zh": "在喜马拉雅山脉高处偏远的哈尔吉村，一座有千年历史的佛教寺院里，一名僧侣诵经祈求保护社区。"
+    },
+    {
+      "id": 208,
+      "startMs": 1222340,
+      "endMs": 1227780,
+      "en": "It takes hours and is done daily, and in recent years those prayers have been needed.",
+      "zh": "诵经每天进行，需要数小时；近年来，人们确实需要这些祈祷。"
+    },
+    {
+      "id": 209,
+      "startMs": 1228500,
+      "endMs": 1235540,
+      "en": "There are three things that could happen at any time. There are these massive boulders which you see there in the valley.",
+      "zh": "随时可能发生三种情况。你在山谷里看到的那些巨石，可能会滚落。"
+    },
+    {
+      "id": 210,
+      "startMs": 1236180,
+      "endMs": 1239860,
+      "en": "They fall from this side of the mountain, then over there to the south.",
+      "zh": "它们会从山的这一侧滚落，然后滚向南边那一带。"
+    },
+    {
+      "id": 211,
+      "startMs": 1240420,
+      "endMs": 1244340,
+      "en": "There have been recent landslides just beyond the school and in the Karnali River.",
+      "zh": "学校后方、卡尔纳利河附近最近发生了山体滑坡。"
+    },
+    {
+      "id": 212,
+      "startMs": 1244980,
+      "endMs": 1248260,
+      "en": "If one comes down and blocks the river, it will flood the valley.",
+      "zh": "如果山体滑下来堵住河道，山谷就会被洪水淹没。"
+    },
+    {
+      "id": 213,
+      "startMs": 1248820,
+      "endMs": 1253780,
+      "en": "There is the threat from these glacial lakes in the mountains that might cause a flood at any time.",
+      "zh": "山里的这些冰川湖也构成威胁，随时可能引发洪水。"
+    },
+    {
+      "id": 214,
+      "startMs": 1254260,
+      "endMs": 1258180,
+      "en": "So to live here is in a way to live in a state of constant fear.",
+      "zh": "所以，生活在这里，某种程度上就是生活在持续的恐惧中。"
+    },
+    {
+      "id": 215,
+      "startMs": 1258180,
+      "endMs": 1264340,
+      "en": "Paljor is the headman of Halji, a village of 70 stone houses at the mouth of a green valley.",
+      "zh": "帕尔乔尔是哈尔吉村的村长，这个村庄坐落在一座绿色山谷的入口处，有70座石屋。"
+    },
+    {
+      "id": 216,
+      "startMs": 1265220,
+      "endMs": 1269060,
+      "en": "High above, glaciers have melted, creating glacial lakes.",
+      "zh": "高处的冰川已经融化，形成了冰川湖。"
+    },
+    {
+      "id": 217,
+      "startMs": 1269460,
+      "endMs": 1273220,
+      "en": "When they burst, they can send a torrent of water and rock down the river valley.",
+      "zh": "冰川湖一旦溃决，就可能把水流和岩石冲入河谷。"
+    },
+    {
+      "id": 218,
+      "startMs": 1274060,
+      "endMs": 1279500,
+      "en": "In 2011, parts of the village were swept away, and last year a neighbouring community got hit.",
+      "zh": "2011年，村庄的一部分被冲走；去年，邻近社区也遭到洪水袭击。"
+    },
+    {
+      "id": 219,
+      "startMs": 1279820,
+      "endMs": 1285740,
+      "en": "They've seen the footage of the recent devastating floods in central Nepal and know something similar could happen here.",
+      "zh": "他们看过尼泊尔中部近期毁灭性洪灾的画面，知道这里也可能发生类似灾难。"
+    },
+    {
+      "id": 220,
+      "startMs": 1286220,
+      "endMs": 1290060,
+      "en": "Given all these dangers, why do you stay? What keeps you in Halji?",
+      "zh": "面对所有这些危险，你为什么还留下？是什么让你留在哈尔吉？"
+    },
+    {
+      "id": 221,
+      "startMs": 1290700,
+      "endMs": 1297100,
+      "en": "One is that we don't have the financial resources to move, and the second is the monastery.",
+      "zh": "一是我们没有搬迁所需的经济条件，二是因为这座寺院。"
+    },
+    {
+      "id": 222,
+      "startMs": 1297580,
+      "endMs": 1301420,
+      "en": "We rely on it because we don't get a lot of support from the state around here.",
+      "zh": "我们依靠它，因为当地没有得到国家太多支持。"
+    },
+    {
+      "id": 223,
+      "startMs": 1301740,
+      "endMs": 1307740,
+      "en": "If people get sick, need help, or even when there is a natural disaster, people just go and pray at the monastery.",
+      "zh": "如果有人生病、需要帮助，甚至发生自然灾害时，人们都会去寺院祈祷。"
+    },
+    {
+      "id": 224,
+      "startMs": 1308220,
+      "endMs": 1317100,
+      "en": "We believe that will save us. If you look at those mountain corridors, Halji or Limi Valley, none of them are safe now.",
+      "zh": "我们相信那会拯救我们。看看那些山间通道，无论是哈尔吉还是利米谷，如今都不安全。"
+    },
+    {
+      "id": 225,
+      "startMs": 1317340,
+      "endMs": 1320540,
+      "en": "Arun Shrestha is one of Nepal's top glaciologists.",
+      "zh": "阿伦·什雷斯塔是尼泊尔顶尖的冰川学家之一。"
+    },
+    {
+      "id": 226,
+      "startMs": 1321180,
+      "endMs": 1327020,
+      "en": "He says that as temperatures rise, the Himalayan landscape is changing and becoming more unstable.",
+      "zh": "他说，随着气温升高，喜马拉雅地貌正在改变，也变得更加不稳定。"
+    },
+    {
+      "id": 227,
+      "startMs": 1327660,
+      "endMs": 1332380,
+      "en": "The recent Rasuwa floods, which killed thousands, are an example of what can happen.",
+      "zh": "最近的拉苏瓦洪灾造成数千人死亡，就是可能发生的灾难之一。"
+    },
+    {
+      "id": 228,
+      "startMs": 1332780,
+      "endMs": 1342080,
+      "en": "It's not an isolated incident, because of rapid melting, a reduced cryosphere can also create disasters like glacial lake outburst flood.",
+      "zh": "这并非孤立事件；由于冰川快速融化，冰冻圈缩减也可能造成冰川湖溃决洪水等灾害。"
+    },
+    {
+      "id": 229,
+      "startMs": 1342560,
+      "endMs": 1348160,
+      "en": "Rock-ice collapse, avalanches of ice and snow, and landslides.",
+      "zh": "还可能发生岩冰崩塌、冰雪雪崩和山体滑坡。"
+    },
+    {
+      "id": 230,
+      "startMs": 1348480,
+      "endMs": 1352160,
+      "en": "The frequency and magnitude of hazards are increasing.",
+      "zh": "灾害发生的频率和规模正在增加。"
+    },
+    {
+      "id": 231,
+      "startMs": 1352640,
+      "endMs": 1355200,
+      "en": "It's not just Rasuwa, it's almost everywhere.",
+      "zh": "不只是拉苏瓦，几乎到处都是如此。"
+    },
+    {
+      "id": 232,
+      "startMs": 1355600,
+      "endMs": 1360720,
+      "en": "As a result, the government in Nepal says it wants reparations for the impacts of climate change.",
+      "zh": "因此，尼泊尔政府表示，希望就气候变化的影响获得赔偿。"
+    },
+    {
+      "id": 233,
+      "startMs": 1361360,
+      "endMs": 1366240,
+      "en": "Tashi Lhazom is a 26-year-old climate activist who's now a prominent member of the governing party.",
+      "zh": "塔希·拉宗是一名26岁的气候活动人士，如今是执政党的一名重要成员。"
+    },
+    {
+      "id": 234,
+      "startMs": 1366240,
+      "endMs": 1368560,
+      "en": "She's from Halji in Nepal.",
+      "zh": "她来自尼泊尔的哈尔吉。"
+    },
+    {
+      "id": 235,
+      "startMs": 1368800,
+      "endMs": 1375760,
+      "en": "The floods are becoming recurring issues in the Himalayas, and now people distrust the landscape that they love so much.",
+      "zh": "洪灾正在成为喜马拉雅山脉反复出现的问题，人们如今不再信任这片深爱的土地。"
+    },
+    {
+      "id": 236,
+      "startMs": 1376000,
+      "endMs": 1382000,
+      "en": "You never know when you're going to get hit. Everything that you know gets gone just like that, like you never exist.",
+      "zh": "你永远不知道什么时候会遭到袭击。你熟悉的一切就那样消失，仿佛你从未存在过。"
+    },
+    {
+      "id": 237,
+      "startMs": 1383080,
+      "endMs": 1389160,
+      "en": "Back in Halji, the villagers know the dangers, but to leave is not just to give up a house.",
+      "zh": "回到哈尔吉，村民们知道危险，但离开并不只是放弃一所房子。"
+    },
+    {
+      "id": 238,
+      "startMs": 1389640,
+      "endMs": 1394440,
+      "en": "They're among the last speakers of the Limi K language, an archaic form of Tibetan.",
+      "zh": "他们是利米克语最后的使用者之一，这是一种古老的藏语。"
+    },
+    {
+      "id": 239,
+      "startMs": 1395000,
+      "endMs": 1401000,
+      "en": "For some, like 65-year-old Tshering, leaving means abandoning a faith and the culture.",
+      "zh": "对一些人来说，比如65岁的次仁，离开就意味着放弃信仰和这种文化。"
+    },
+    {
+      "id": 240,
+      "startMs": 1401080,
+      "endMs": 1403160,
+      "en": "They've protected it for a thousand years.",
+      "zh": "他们守护这份文化已有一千年。"
+    },
+    {
+      "id": 241,
+      "startMs": 1403400,
+      "endMs": 1410120,
+      "en": "We've all been talking about the floods. We grandmothers have decided that we will never leave.",
+      "zh": "我们一直在谈论洪灾。我们这些祖母已经决定，永远不会离开。"
+    },
+    {
+      "id": 242,
+      "startMs": 1410200,
+      "endMs": 1416840,
+      "en": "So the only thing we can do is to try and be a better person than we were yesterday and pray at the monastery.",
+      "zh": "所以我们能做的，只有努力成为比昨天更好的人，并在寺院祈祷。"
+    },
+    {
+      "id": 243,
+      "startMs": 1417160,
+      "endMs": 1424280,
+      "en": "But we know that one day there will be a big flood, a big landslide, and that is how it will end for us.",
+      "zh": "但我们知道，总有一天会发生大洪水和大滑坡，我们的结局就会如此。"
+    },
+    {
+      "id": 244,
+      "startMs": 1424920,
+      "endMs": 1428840,
+      "en": "Antonia Bolingbroke-Kent, and you can hear more of her documentary.",
+      "zh": "安东尼娅·博林布鲁克-肯特；你可以收听她的更多纪录片内容。"
+    },
+    {
+      "id": 245,
+      "startMs": 1428920,
+      "endMs": 1436200,
+      "en": "Nepal in the Shadow of a Glacier, on Assignment and the Documentary Podcast from the BBC World Service.",
+      "zh": "《尼泊尔：冰川的阴影》，来自BBC World Service的《纪实报道》和《纪实播客》。"
+    },
+    {
+      "id": 246,
+      "startMs": 1436840,
+      "endMs": 1441480,
+      "en": "Here is a question for you. How would you feel about a data centre being built near your home?",
+      "zh": "这里有个问题想问你：如果你家附近要建一座数据中心，你会有什么感受？"
+    },
+    {
+      "id": 247,
+      "startMs": 1442120,
+      "endMs": 1445340,
+      "en": "Well, according to the polling company Gallup, 71%",
+      "zh": "根据民调机构盖洛普的数据，71%的"
+    },
+    {
+      "id": 248,
+      "startMs": 1445420,
+      "endMs": 1451340,
+      "en": "of people in the United States are opposed to the construction of AI data centres in their local area.",
+      "zh": "美国人反对在当地建设人工智能数据中心。"
+    },
+    {
+      "id": 249,
+      "startMs": 1451980,
+      "endMs": 1455980,
+      "en": "And it seems that sentiment is shared by many people in other parts of the world.",
+      "zh": "而世界其他地区的许多人似乎也有同样看法。"
+    },
+    {
+      "id": 250,
+      "startMs": 1456540,
+      "endMs": 1464220,
+      "en": "Plans to build a data centre in the Australian city of Sydney have just been scrapped following intense pushback by local residents.",
+      "zh": "澳大利亚城市悉尼建造数据中心的计划，因当地居民的强烈反对而刚刚被取消。"
+    },
+    {
+      "id": 251,
+      "startMs": 1464620,
+      "endMs": 1466860,
+      "en": "Our reporter Helena Burke told me what happened.",
+      "zh": "我们的记者海伦娜·伯克告诉了我事情经过。"
+    },
+    {
+      "id": 252,
+      "startMs": 1467420,
+      "endMs": 1473900,
+      "en": "Last year, a property developer submitted an application to build a large data center in Lane Cove,",
+      "zh": "去年，一家房地产开发商申请在莱恩湾建造一座大型数据中心。"
+    },
+    {
+      "id": 253,
+      "startMs": 1474060,
+      "endMs": 1477020,
+      "en": "a residential area of Sydney where a lot of families live.",
+      "zh": "莱恩湾是悉尼的住宅区，那里住着许多家庭。"
+    },
+    {
+      "id": 254,
+      "startMs": 1477580,
+      "endMs": 1482300,
+      "en": "This caused huge uproar in the local community, as the data center was proposed to be located",
+      "zh": "这在当地社区引发巨大骚动，因为数据中心拟建在"
+    },
+    {
+      "id": 255,
+      "startMs": 1482620,
+      "endMs": 1487100,
+      "en": "only about 20 meters from the nearest house and just around the corner from a school.",
+      "zh": "距离最近的住宅约20米、离一所学校仅隔一个街角的地方。"
+    },
+    {
+      "id": 256,
+      "startMs": 1487500,
+      "endMs": 1493740,
+      "en": "Residents spent months campaigning against this, with many raising concerns about the environmental and community impacts",
+      "zh": "居民花了数月反对这一计划，许多人担心在"
+    },
+    {
+      "id": 257,
+      "startMs": 1493740,
+      "endMs": 1497580,
+      "en": "of having such a large data center in a densely populated area.",
+      "zh": "人口稠密地区建造如此大型的数据中心会带来的环境和社区影响。"
+    },
+    {
+      "id": 258,
+      "startMs": 1497980,
+      "endMs": 1506240,
+      "en": "That one data center alone will use up to 10 to 15% of the whole of the Lane Cove local government area's water supply.",
+      "zh": "仅这一座数据中心就将占用莱恩湾地方政府区域全部供水的10%到15%。"
+    },
+    {
+      "id": 259,
+      "startMs": 1506720,
+      "endMs": 1511200,
+      "en": "It will use more electricity than the entire Lane Cove local government area.",
+      "zh": "它消耗的电力将超过整个莱恩湾地方政府区域。"
+    },
+    {
+      "id": 260,
+      "startMs": 1511360,
+      "endMs": 1515760,
+      "en": "I understand that we have a need for data centres. I agree they have got to be built somewhere,",
+      "zh": "我明白我们确实需要数据中心。我同意它们必须建在某处，"
+    },
+    {
+      "id": 261,
+      "startMs": 1516160,
+      "endMs": 1520800,
+      "en": "but the somewhere should not be so close to suburban homes and a primary school.",
+      "zh": "但不该离郊区住宅和一所小学如此之近。"
+    },
+    {
+      "id": 262,
+      "startMs": 1521040,
+      "endMs": 1525760,
+      "en": "This pushback from locals appears to have paid off because the developer has just announced",
+      "zh": "当地人的反对似乎奏效了，因为开发商刚刚宣布"
+    },
+    {
+      "id": 263,
+      "startMs": 1525840,
+      "endMs": 1531840,
+      "en": "it's withdrawing its plans, citing changes in regulation along with community feedback.",
+      "zh": "将撤回计划，理由是法规变化以及社区反馈。"
+    },
+    {
+      "id": 264,
+      "startMs": 1532080,
+      "endMs": 1539200,
+      "en": "And Helena, the success of community pushbacks against data center construction isn't just limited to this one that you mentioned in Sydney, is it?",
+      "zh": "海伦娜，社区反对数据中心建设取得成功，并不只限于你提到的悉尼这一例，对吗？"
+    },
+    {
+      "id": 265,
+      "startMs": 1539360,
+      "endMs": 1543840,
+      "en": "It's certainly not. The country with by far the largest number of data centers is the US.",
+      "zh": "当然不是。拥有数据中心数量最多的国家是美国。"
+    },
+    {
+      "id": 266,
+      "startMs": 1543840,
+      "endMs": 1549120,
+      "en": "There are more than 4,000 already built there, so that really is the hotbed of community resistance.",
+      "zh": "那里已经建成了4000多座，因此美国确实是社区抵制的热点。"
+    },
+    {
+      "id": 267,
+      "startMs": 1549520,
+      "endMs": 1555360,
+      "en": "According to the research group at Data Center Watch, at least 75 data center projects in the US",
+      "zh": "据研究机构数据中心观察称，美国至少有75个数据中心项目"
+    },
+    {
+      "id": 268,
+      "startMs": 1555360,
+      "endMs": 1560880,
+      "en": "were blocked or delayed due to community pushback just in the first quarter of this year.",
+      "zh": "仅今年第一季度就因社区反对而被阻止或推迟。"
+    },
+    {
+      "id": 269,
+      "startMs": 1561360,
+      "endMs": 1567300,
+      "en": "And even when these AI companies sweeten the deal a bit for locals, resistance appears to still remain strong.",
+      "zh": "即使这些人工智能公司为当地人稍微改善条件，抵制似乎仍然很强烈。"
+    },
+    {
+      "id": 270,
+      "startMs": 1567540,
+      "endMs": 1570180,
+      "en": "There's this ongoing case in a town in Pennsylvania",
+      "zh": "宾夕法尼亚州一座小镇目前就有这样一起案件，"
+    },
+    {
+      "id": 271,
+      "startMs": 1570180,
+      "endMs": 1575140,
+      "en": "where a company that wants to build a handful of data centers has offered every local family",
+      "zh": "一家想建几座数据中心的公司向每个当地家庭提供"
+    },
+    {
+      "id": 272,
+      "startMs": 1575380,
+      "endMs": 1581620,
+      "en": "$10,000 to get on board with the plan, but reportedly most residents are refusing to take the money.",
+      "zh": "1万美元以支持计划，但据报道，大多数居民拒绝收下这笔钱。"
+    },
+    {
+      "id": 273,
+      "startMs": 1581700,
+      "endMs": 1585140,
+      "en": "Why are people so opposed to having data centers built near their homes?",
+      "zh": "人们为什么如此反对在家附近建造数据中心？"
+    },
+    {
+      "id": 274,
+      "startMs": 1585220,
+      "endMs": 1586980,
+      "en": "Well, data centers are actually nothing new.",
+      "zh": "数据中心其实并不是什么新事物。"
+    },
+    {
+      "id": 275,
+      "startMs": 1586980,
+      "endMs": 1590980,
+      "en": "They've been around for decades and they're kind of like giant hard drives.",
+      "zh": "它们已经存在数十年，有点像巨型硬盘。"
+    },
+    {
+      "id": 276,
+      "startMs": 1591060,
+      "endMs": 1596420,
+      "en": "They hold servers to keep the internet running along with essential services like hospitals and banks.",
+      "zh": "它们存放服务器，让互联网以及医院、银行等重要服务得以运行。"
+    },
+    {
+      "id": 277,
+      "startMs": 1596820,
+      "endMs": 1601460,
+      "en": "A lot of the backlash we're seeing recently is to AI data centers specifically,",
+      "zh": "最近许多反弹针对的正是人工智能数据中心，"
+    },
+    {
+      "id": 278,
+      "startMs": 1601860,
+      "endMs": 1604900,
+      "en": "and that's because they tend to use a lot more power and water.",
+      "zh": "因为它们往往消耗更多电力和水。"
+    },
+    {
+      "id": 279,
+      "startMs": 1605300,
+      "endMs": 1609060,
+      "en": "Along with the environmental impact, people are also concerned about noise",
+      "zh": "除了环境影响，人们还担心噪音，"
+    },
+    {
+      "id": 280,
+      "startMs": 1609380,
+      "endMs": 1614340,
+      "en": "because of all the cooling systems, ventilation and backup generators within data centers.",
+      "zh": "因为数据中心内部有冷却系统、通风设备和备用发电机。"
+    },
+    {
+      "id": 281,
+      "startMs": 1614580,
+      "endMs": 1621060,
+      "en": "The buildings emit this constant low-frequency humming sound that some people find extremely disruptive.",
+      "zh": "这些建筑会发出持续的低频嗡鸣声，有些人觉得极其扰人。"
+    },
+    {
+      "id": 282,
+      "startMs": 1621620,
+      "endMs": 1623220,
+      "en": "Proponents of AI data centers",
+      "zh": "人工智能数据中心的支持者认为，"
+    },
+    {
+      "id": 283,
+      "startMs": 1623160,
+      "endMs": 1629160,
+      "en": "argue that they create jobs in the local community, but not everyone is convinced that this is the case.",
+      "zh": "它们能为当地社区创造就业，但并非所有人都相信情况确实如此。"
+    },
+    {
+      "id": 284,
+      "startMs": 1629480,
+      "endMs": 1636280,
+      "en": "This is Karen Ferridan, who's helping lead the pushback to the proposed data centers in that town in Pennsylvania that I mentioned earlier.",
+      "zh": "这是凯伦·费里丹，她正带头反对我之前提到的宾夕法尼亚州小镇拟建的数据中心。"
+    },
+    {
+      "id": 285,
+      "startMs": 1636280,
+      "endMs": 1640200,
+      "en": "Data centers themselves don't employ a lot of people,",
+      "zh": "数据中心本身并不雇用很多人，"
+    },
+    {
+      "id": 286,
+      "startMs": 1640200,
+      "endMs": 1646840,
+      "en": "and everything we're learning about generative AI is that it stands to take away more jobs than it creates,",
+      "zh": "而我们对生成式人工智能的了解表明，它可能夺走的工作多于创造的工作，"
+    },
+    {
+      "id": 287,
+      "startMs": 1647000,
+      "endMs": 1649320,
+      "en": "and so people are seeing it as a negative.",
+      "zh": "所以人们将其视为负面因素。"
+    },
+    {
+      "id": 288,
+      "startMs": 1649720,
+      "endMs": 1654440,
+      "en": "Because people are so opposed to data centers being built near their houses, the obvious question becomes, well,",
+      "zh": "既然人们如此反对在住宅附近建数据中心，显而易见的问题是："
+    },
+    {
+      "id": 289,
+      "startMs": 1654440,
+      "endMs": 1657800,
+      "en": "why don't we just put them in really remote areas where no one lives?",
+      "zh": "为什么不把它们建在无人居住的偏远地区？"
+    },
+    {
+      "id": 290,
+      "startMs": 1658120,
+      "endMs": 1663000,
+      "en": "But the companies that run these data centers say that that's too difficult and too expensive",
+      "zh": "但运营这些数据中心的公司说，那样太困难、成本也太高，"
+    },
+    {
+      "id": 291,
+      "startMs": 1663000,
+      "endMs": 1666760,
+      "en": "as the buildings need reliable power, fast internet and workers nearby.",
+      "zh": "因为这些建筑需要可靠电力、高速互联网以及附近的工作人员。"
+    },
+    {
+      "id": 292,
+      "startMs": 1667320,
+      "endMs": 1668600,
+      "en": "Helena Burke reporting.",
+      "zh": "海伦娜·伯克报道。"
+    },
+    {
+      "id": 293,
+      "startMs": 1669480,
+      "endMs": 1673800,
+      "en": "Let's finish this podcast with a record-breaking child chess prodigy.",
+      "zh": "让我们用一位创纪录的国际象棋神童来结束本期播客。"
+    },
+    {
+      "id": 294,
+      "startMs": 1674360,
+      "endMs": 1680280,
+      "en": "An 11-year-old British girl has become the youngest chess player in history to earn the Woman Grandmaster title.",
+      "zh": "一名11岁的英国女孩成为历史上获得女子特级大师称号的最年轻棋手。"
+    },
+    {
+      "id": 295,
+      "startMs": 1680840,
+      "endMs": 1688540,
+      "en": "Bodhana Sivanandan from London secured the title while representing England at the 46th Chess Olympiad in Uzbekistan.",
+      "zh": "来自伦敦的博德娜·西瓦南丹代表英格兰参加在乌兹别克斯坦举行的第46届国际象棋奥林匹克大会，并获得了这一称号。"
+    },
+    {
+      "id": 296,
+      "startMs": 1689020,
+      "endMs": 1690220,
+      "en": "Ellie Price reports.",
+      "zh": "埃莉·普莱斯报道。"
+    },
+    {
+      "id": 297,
+      "startMs": 1690780,
+      "endMs": 1699740,
+      "en": "Bodhana Sivanandan was already the UK's youngest women's chess champion and the youngest person to represent England internationally in any sport.",
+      "zh": "博德娜·西瓦南丹此前已是英国最年轻的女子国际象棋冠军，也是代表英格兰参加国际比赛的最年轻运动员。"
+    },
+    {
+      "id": 298,
+      "startMs": 1700220,
+      "endMs": 1703100,
+      "en": "But this weekend brought her the Woman Grandmaster title.",
+      "zh": "但就在这个周末，她一举获得了女子特级大师称号。"
+    },
+    {
+      "id": 299,
+      "startMs": 1703500,
+      "endMs": 1711580,
+      "en": "She played all 11 rounds on England's top board, the position assigned to the team's best player, and finished the tournament with eight points.",
+      "zh": "她在英格兰队的第一台下完了全部11轮比赛——这是分配给队中最佳棋手的位置——并以8分结束比赛。"
+    },
+    {
+      "id": 300,
+      "startMs": 1711980,
+      "endMs": 1714700,
+      "en": "She spoke to the International Chess Federation afterwards.",
+      "zh": "之后，她接受了国际棋联的采访。"
+    },
+    {
+      "id": 301,
+      "startMs": 1714860,
+      "endMs": 1722220,
+      "en": "I'm happy to do it, but I want to keep going and keep making history as well instead of just stop here.",
+      "zh": "我很高兴做到这一点，但我想继续前进、继续创造历史，而不是就此止步。"
+    },
+    {
+      "id": 302,
+      "startMs": 1722460,
+      "endMs": 1726060,
+      "en": "Bodhana first started playing chess when she was five during lockdown.",
+      "zh": "博德娜五岁居家封控期间开始学下国际象棋。"
+    },
+    {
+      "id": 303,
+      "startMs": 1726540,
+      "endMs": 1732220,
+      "en": "By the time she was eight, she became the youngest person to draw against a grandmaster at a European championship,",
+      "zh": "八岁时，她成为欧洲锦标赛上与特级大师战和的最年轻棋手，"
+    },
+    {
+      "id": 304,
+      "startMs": 1732700,
+      "endMs": 1735340,
+      "en": "a year later, the youngest female player to defeat one.",
+      "zh": "一年后又成为击败特级大师的最年轻女棋手。"
+    },
+    {
+      "id": 305,
+      "startMs": 1735820,
+      "endMs": 1742620,
+      "en": "Now at the ripe old age of 11, she's grown in stature, in reputation, clearly in centimeters a few.",
+      "zh": "如今她已到了“高龄”11岁：名气增长了，身高显然也增加了几厘米。"
+    },
+    {
+      "id": 306,
+      "startMs": 1743200,
+      "endMs": 1748640,
+      "en": "But Bodhana still needs to sit on a car booster seat at competitions so she can see the board properly.",
+      "zh": "但博德娜参加比赛时仍需要坐在汽车增高座椅上，才能看清棋盘。"
+    },
+    {
+      "id": 307,
+      "startMs": 1749280,
+      "endMs": 1755040,
+      "en": "Woman Grandmaster is the highest woman-only title a female player can attain, and the rank is held for life.",
+      "zh": "女子特级大师是女棋手能够获得的最高女子专属称号，而且该头衔终身保有。"
+    },
+    {
+      "id": 308,
+      "startMs": 1755360,
+      "endMs": 1760880,
+      "en": "But such an achievement doesn't mean she won't be back to play in her local chess club's annual tournament this Thursday.",
+      "zh": "但取得这样的成就并不意味着她不会在本周四回到当地棋俱乐部参加年度比赛。"
+    },
+    {
+      "id": 309,
+      "startMs": 1761360,
+      "endMs": 1765920,
+      "en": "On her way to her next target, International Master. Ellie Price.",
+      "zh": "她正朝着下一个目标——国际大师——前进。埃莉·普莱斯。"
+    },
+    {
+      "id": 310,
+      "startMs": 1768760,
+      "endMs": 1769880,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是目前的全部内容。"
+    },
+    {
+      "id": 311,
+      "startMs": 1769960,
+      "endMs": 1774840,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 312,
+      "startMs": 1775400,
+      "endMs": 1780760,
+      "en": "This edition of the Global News podcast was mixed by Tom Bartlett, and the producer was Emma Joseph.",
+      "zh": "本期《全球新闻》播客由汤姆·巴特利特混音，制片人是艾玛·约瑟夫。"
+    },
+    {
+      "id": 313,
+      "startMs": 1781400,
+      "endMs": 1783960,
+      "en": "The editor is Karen Martin, and I'm Ankur Desai.",
+      "zh": "编辑是凯伦·马丁，我是安库尔·德赛。"
+    },
+    {
+      "id": 314,
+      "startMs": 1784200,
+      "endMs": 1785720,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
