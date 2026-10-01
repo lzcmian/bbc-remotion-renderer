@@ -1,0 +1,1467 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "30 September 2026"
+  },
+  "durationMs": 1122200,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4000,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务部的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 5520,
+      "endMs": 11360,
+      "en": "I'm Charlotte Gallagher, and in the early hours of Wednesday, the 30th of September, these are our main stories.",
+      "zh": "我是夏洛特·加拉格尔。现在是9月30日星期三凌晨，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11360,
+      "endMs": 18000,
+      "en": "South Africa's President Cyril Ramaphosa addresses the nation amid growing alarm about violence against women,",
+      "zh": "南非总统西里尔·拉马福萨在针对女性暴力事件引发越来越多担忧之际向全国发表讲话，"
+    },
+    {
+      "id": 4,
+      "startMs": 18400,
+      "endMs": 25680,
+      "en": "and the English Premier League confirms Manchester City have been found guilty of serious breaches of financial rules.",
+      "zh": "英格兰足球超级联赛确认，曼彻斯特城队被判严重违反财务规定。"
+    },
+    {
+      "id": 5,
+      "startMs": 27240,
+      "endMs": 34760,
+      "en": "Also in this podcast, the UK's Prime Minister Andy Burnham sets out an ambitious agenda in a major speech to his party.",
+      "zh": "本期还将关注英国首相安迪·伯纳姆在对党内发表的重要演讲中提出的雄心勃勃议程。"
+    },
+    {
+      "id": 6,
+      "startMs": 35320,
+      "endMs": 41160,
+      "en": "Deregulation, privatisation, austerity, Brexit, and what has it given us?",
+      "zh": "放松监管、私有化、紧缩、脱欧——这些给我们带来了什么？"
+    },
+    {
+      "id": 7,
+      "startMs": 41900,
+      "endMs": 45580,
+      "en": "A country run for vested interests, not in the public interest.",
+      "zh": "这个国家为既得利益而运转，而不是为了公共利益。"
+    },
+    {
+      "id": 8,
+      "startMs": 46220,
+      "endMs": 51740,
+      "en": "And this is one of the last great masterpieces by him remaining in private hands.",
+      "zh": "这也是他仍由私人收藏的最后几幅伟大杰作之一。"
+    },
+    {
+      "id": 9,
+      "startMs": 51820,
+      "endMs": 52940,
+      "en": "And it's a view of Rome.",
+      "zh": "这是一幅描绘罗马的画作。"
+    },
+    {
+      "id": 10,
+      "startMs": 53580,
+      "endMs": 59020,
+      "en": "A rare painting by the renowned artist Turner returns to the Eternal City.",
+      "zh": "著名艺术家特纳的一幅稀有画作回到了永恒之城罗马。"
+    },
+    {
+      "id": 11,
+      "startMs": 59020,
+      "endMs": 65900,
+      "en": "In the last few months, 12 women have been murdered in just one district near the South African city of Johannesburg.",
+      "zh": "过去几个月，南非城市约翰内斯堡附近一个地区就有12名女性遭到杀害。"
+    },
+    {
+      "id": 12,
+      "startMs": 66380,
+      "endMs": 73580,
+      "en": "The discoveries have caused widespread alarm and come against the backdrop of longstanding concerns",
+      "zh": "这些发现引发了广泛恐慌，也发生在长期担忧"
+    },
+    {
+      "id": 13,
+      "startMs": 73580,
+      "endMs": 75980,
+      "en": "about high levels of violence against women.",
+      "zh": "女性遭受暴力问题严重的背景下。"
+    },
+    {
+      "id": 14,
+      "startMs": 76460,
+      "endMs": 82940,
+      "en": "Now the president Cyril Ramaphosa has been addressing the nation on the government's plans to tackle gender-based violence.",
+      "zh": "南非总统西里尔·拉马福萨正在向全国讲话，介绍政府应对性别暴力的计划。"
+    },
+    {
+      "id": 15,
+      "startMs": 83420,
+      "endMs": 89500,
+      "en": "He said the men and boys of South Africa had a responsibility to take women's safety seriously.",
+      "zh": "他说，南非男性和男孩有责任认真对待女性安全。"
+    },
+    {
+      "id": 16,
+      "startMs": 90380,
+      "endMs": 97020,
+      "en": "For too long, gender-based violence has been treated as a woman's problem to solve.",
+      "zh": "长期以来，性别暴力一直被当作女性需要解决的问题。"
+    },
+    {
+      "id": 17,
+      "startMs": 97580,
+      "endMs": 106780,
+      "en": "Women march, the women of our country organise, they speak out, they protest, and they comfort survivors.",
+      "zh": "女性游行；我国女性组织起来，发声、抗议，并安慰幸存者。"
+    },
+    {
+      "id": 18,
+      "startMs": 107260,
+      "endMs": 111580,
+      "en": "Women change their routes home, avoid going out at night,",
+      "zh": "女性改变回家的路线，避免夜间外出，"
+    },
+    {
+      "id": 19,
+      "startMs": 112060,
+      "endMs": 116860,
+      "en": "and warn one another about dangerous places and dangerous men.",
+      "zh": "并彼此提醒哪些地方和哪些男性很危险。"
+    },
+    {
+      "id": 20,
+      "startMs": 117420,
+      "endMs": 121340,
+      "en": "We have placed the burden of male violence on women.",
+      "zh": "我们把男性暴力的负担压在了女性身上。"
+    },
+    {
+      "id": 21,
+      "startMs": 121740,
+      "endMs": 124780,
+      "en": "That must change. That was Cyril Ramaphosa.",
+      "zh": "这种情况必须改变。这是西里尔·拉马福萨的讲话。"
+    },
+    {
+      "id": 22,
+      "startMs": 125260,
+      "endMs": 129340,
+      "en": "Pete Ross heard more from our correspondent in Johannesburg, Pumza Fihlani.",
+      "zh": "皮特·罗斯还听取了我们驻约翰内斯堡记者蓬扎·菲赫拉尼的报道。"
+    },
+    {
+      "id": 23,
+      "startMs": 129740,
+      "endMs": 136460,
+      "en": "One of the key things, the key takeaways that South Africans would have been looking out for here is what the next steps are.",
+      "zh": "南非人关注的一个重点、一个关键收获，是接下来会采取哪些措施。"
+    },
+    {
+      "id": 24,
+      "startMs": 136860,
+      "endMs": 143340,
+      "en": "And he identified four areas where he will be concentrating specific timelines of things that need to be done.",
+      "zh": "他确定了四个领域，并为需要完成的事项设定具体时间表。"
+    },
+    {
+      "id": 25,
+      "startMs": 143340,
+      "endMs": 149900,
+      "en": "So one of them is that he has given a directive for unresolved cases linked to gender-based violence",
+      "zh": "其中一项是，他已指示优先处理与性别暴力有关的未决案件"
+    },
+    {
+      "id": 26,
+      "startMs": 150300,
+      "endMs": 158400,
+      "en": "to be prioritised and reported on within 60 days. He's also called for an audit of municipalities to be done",
+      "zh": "要求在60天内确定优先级并报告进展；他还要求对各市政府进行审计"
+    },
+    {
+      "id": 27,
+      "startMs": 158480,
+      "endMs": 168160,
+      "en": "where public spaces are checked and cleaned up. This is in instances where some areas are overgrown or there aren't any street lights",
+      "zh": "检查并清理公共空间，尤其是杂草丛生或没有路灯的地方"
+    },
+    {
+      "id": 28,
+      "startMs": 168160,
+      "endMs": 174240,
+      "en": "Areas where women walking home or back and forth between home and work would be particularly vulnerable",
+      "zh": "女性在这些地方往返于家和工作地点时尤其容易受到伤害"
+    },
+    {
+      "id": 29,
+      "startMs": 174240,
+      "endMs": 179920,
+      "en": "That is because of previous cases where we've seen women targeted in this way",
+      "zh": "这是因为过去曾发生过女性在这种情况下成为袭击目标的案件"
+    },
+    {
+      "id": 30,
+      "startMs": 179920,
+      "endMs": 184000,
+      "en": "when they're trying to get between home and work in specific communities",
+      "zh": "她们在一些社区往返于家和工作地点时，就可能遭到袭击"
+    },
+    {
+      "id": 31,
+      "startMs": 184240,
+      "endMs": 189440,
+      "en": "So that's one of the things he said needs to be looked at within that 90-day period",
+      "zh": "所以，他说这是90天期限内需要处理的问题之一"
+    },
+    {
+      "id": 32,
+      "startMs": 189440,
+      "endMs": 193600,
+      "en": "and identified with the intention of these repairs being done where they're needed",
+      "zh": "并确定需要维修的地点，以便在那里完成维修"
+    },
+    {
+      "id": 33,
+      "startMs": 194080,
+      "endMs": 197920,
+      "en": "And do we have any indication as to how this speech has gone down in South Africa?",
+      "zh": "那么，这次演讲在南非引发了怎样的反响？"
+    },
+    {
+      "id": 34,
+      "startMs": 198000,
+      "endMs": 204000,
+      "en": "Will the president's comments help reassure people that these murders and women's safety are being taken seriously?",
+      "zh": "总统的讲话能否让人们相信，这些谋杀案和女性安全问题正受到认真对待？"
+    },
+    {
+      "id": 35,
+      "startMs": 204640,
+      "endMs": 210240,
+      "en": "It's difficult to imagine that many women would agree or feel that it has gone far enough",
+      "zh": "很难想象，许多女性会同意，或认为事情已经做得足够"
+    },
+    {
+      "id": 36,
+      "startMs": 210400,
+      "endMs": 213300,
+      "en": "in part because of what the president himself acknowledged",
+      "zh": "部分原因是总统本人也承认了这一点"
+    },
+    {
+      "id": 37,
+      "startMs": 213300,
+      "endMs": 217220,
+      "en": "when he was addressing the nation, saying he spoke to the nation seven years ago",
+      "zh": "他在向全国发表讲话时说，七年前他也曾向全国发表讲话"
+    },
+    {
+      "id": 38,
+      "startMs": 217540,
+      "endMs": 224900,
+      "en": "this month, precisely when there was a spate of killings, and made a range of promises of things that would be done",
+      "zh": "就在今年这个月，当时曾发生一连串杀戮，他也作出了一系列承诺"
+    },
+    {
+      "id": 39,
+      "startMs": 224900,
+      "endMs": 229620,
+      "en": "He acknowledged tonight that not enough had been done to turn things around",
+      "zh": "今晚他承认，为扭转局面所做的还远远不够"
+    },
+    {
+      "id": 40,
+      "startMs": 229860,
+      "endMs": 236740,
+      "en": "So a lot of women would probably walk away feeling that they were looking for more concrete solutions on what will be done",
+      "zh": "所以，许多女性可能会觉得，她们期待的是关于下一步措施的更具体方案"
+    },
+    {
+      "id": 41,
+      "startMs": 236820,
+      "endMs": 241940,
+      "en": "one around those harmful attitudes about women that are held by so many men in the country",
+      "zh": "第一，是如何改变这个国家许多男性对女性抱有的有害态度"
+    },
+    {
+      "id": 42,
+      "startMs": 241940,
+      "endMs": 250340,
+      "en": "but two, what's going to be done in communities where there is poor policing or minimal visible policing, and what's going to be done",
+      "zh": "第二，是在警力不足或几乎看不到警察的社区采取什么措施，以及将如何"
+    },
+    {
+      "id": 43,
+      "startMs": 250420,
+      "endMs": 257940,
+      "en": "about speeding up the prosecution of cases where women do report crimes, and those crimes take ages to go through the courts",
+      "zh": "加快女性报案案件的起诉程序，因为这些案件往往要很久才能进入法庭审理"
+    },
+    {
+      "id": 44,
+      "startMs": 258100,
+      "endMs": 262580,
+      "en": "Where are we with the current investigation into the murders taking place in Johannesburg?",
+      "zh": "目前约翰内斯堡发生的这些谋杀案，调查进展如何？"
+    },
+    {
+      "id": 45,
+      "startMs": 262660,
+      "endMs": 267540,
+      "en": "What the president shared this evening was that there was speculation that a serial killer may be involved",
+      "zh": "总统今晚透露，有人猜测可能有连环杀手涉案"
+    },
+    {
+      "id": 46,
+      "startMs": 267620,
+      "endMs": 273560,
+      "en": "He said that the police have no indication that that's the case, or even that the cases are linked",
+      "zh": "他说，警方没有迹象表明情况如此，甚至没有迹象表明这些案件彼此有关联"
+    },
+    {
+      "id": 47,
+      "startMs": 273560,
+      "endMs": 280680,
+      "en": "They are still following all possible leads and promised that those cases are receiving a high priority",
+      "zh": "警方仍在追查所有可能的线索，并承诺将这些案件列为重点"
+    },
+    {
+      "id": 48,
+      "startMs": 281000,
+      "endMs": 285960,
+      "en": "with the intention of solving them, so the family's fears are allayed",
+      "zh": "以期侦破案件，消除受害者家属的恐惧"
+    },
+    {
+      "id": 49,
+      "startMs": 285960,
+      "endMs": 288840,
+      "en": "but also the broader community. Pumza Fihlani.",
+      "zh": "也让更广泛的社区安心。普姆扎·菲拉尼报道。"
+    },
+    {
+      "id": 50,
+      "startMs": 289560,
+      "endMs": 293000,
+      "en": "Next to an update on a significant story from the world of football",
+      "zh": "接下来是足球界一则重要消息的最新进展"
+    },
+    {
+      "id": 51,
+      "startMs": 293000,
+      "endMs": 299160,
+      "en": "that we first heard about on Friday. The Premier League in England has officially confirmed",
+      "zh": "我们周五首次报道了这条消息。英格兰足球超级联赛正式确认"
+    },
+    {
+      "id": 52,
+      "startMs": 299160,
+      "endMs": 306440,
+      "en": "the findings of an independent commission which has been looking at Manchester City's alleged violations of financial rules",
+      "zh": "一个调查曼城涉嫌违反财务规则的独立委员会的调查结果"
+    },
+    {
+      "id": 53,
+      "startMs": 306760,
+      "endMs": 313480,
+      "en": "It's found the club guilty of all charges related to serious breaches of the league's financial rules",
+      "zh": "委员会认定该俱乐部被控的全部罪名成立，涉及严重违反联赛财务规则"
+    },
+    {
+      "id": 54,
+      "startMs": 313960,
+      "endMs": 316600,
+      "en": "This fan summed up the emotions of many",
+      "zh": "这名球迷概括了许多人的感受"
+    },
+    {
+      "id": 55,
+      "startMs": 317240,
+      "endMs": 322440,
+      "en": "The people, the fans, they'll never have the same trust in their owners and the club again",
+      "zh": "大家，尤其是球迷，再也不会像过去那样信任球队老板和俱乐部"
+    },
+    {
+      "id": 56,
+      "startMs": 322920,
+      "endMs": 326360,
+      "en": "There's the true fans that will stay with the club through thick and thin",
+      "zh": "真正的球迷无论顺境逆境都会支持俱乐部"
+    },
+    {
+      "id": 57,
+      "startMs": 326440,
+      "endMs": 328520,
+      "en": "but obviously they'll lose quite a few",
+      "zh": "但显然，俱乐部会失去不少球迷"
+    },
+    {
+      "id": 58,
+      "startMs": 329240,
+      "endMs": 331880,
+      "en": "So what exactly did the commission find?",
+      "zh": "那么，委员会究竟发现了什么？"
+    },
+    {
+      "id": 59,
+      "startMs": 332220,
+      "endMs": 338460,
+      "en": "Our sports editor Dan Roan is in Copenhagen, where the European Football Clubs Association has been meeting",
+      "zh": "我们的体育编辑丹·罗恩在哥本哈根，欧洲足球俱乐部协会正在那里开会"
+    },
+    {
+      "id": 60,
+      "startMs": 338940,
+      "endMs": 345900,
+      "en": "It says that City were guilty of all charges related to the breaches of financial rules",
+      "zh": "委员会称，曼城被控违反财务规则的全部罪名成立"
+    },
+    {
+      "id": 61,
+      "startMs": 345900,
+      "endMs": 348700,
+      "en": "over a nine-year period between 2009 and 2018",
+      "zh": "这些违规行为发生在2009年至2018年的九年间"
+    },
+    {
+      "id": 62,
+      "startMs": 348700,
+      "endMs": 356060,
+      "en": "and the majority of rules relating to a failure to cooperate with the Premier League's investigation",
+      "zh": "其中大多数指控与未能配合英超联赛调查有关"
+    },
+    {
+      "id": 63,
+      "startMs": 356060,
+      "endMs": 363020,
+      "en": "It refers to sham commercial deals which were designed, it says, to artificially inflate the club's revenues",
+      "zh": "委员会称，这些虚假商业交易旨在人为抬高俱乐部收入"
+    },
+    {
+      "id": 64,
+      "startMs": 363180,
+      "endMs": 365340,
+      "en": "and reduce costs by around £900 million",
+      "zh": "并将成本降低约9亿英镑"
+    },
+    {
+      "id": 65,
+      "startMs": 366620,
+      "endMs": 369020,
+      "en": "in order to comply with financial rules",
+      "zh": "以便遵守财务规则"
+    },
+    {
+      "id": 66,
+      "startMs": 369020,
+      "endMs": 373820,
+      "en": "It also says that the club had made concerted efforts to stop and frustrate the investigation",
+      "zh": "委员会还称，该俱乐部曾协同行动，试图阻止并妨碍调查"
+    },
+    {
+      "id": 67,
+      "startMs": 373820,
+      "endMs": 378940,
+      "en": "referencing egregious acts of non-cooperation and dishonest statements",
+      "zh": "并提到其严重不配合及作出不诚实陈述的行为"
+    },
+    {
+      "id": 68,
+      "startMs": 378940,
+      "endMs": 384940,
+      "en": "Now the Premier League have said that the club systematically broke their rules for nearly a decade",
+      "zh": "英超联赛现在表示，该俱乐部近十年来系统性地违反了规则"
+    },
+    {
+      "id": 69,
+      "startMs": 385420,
+      "endMs": 391900,
+      "en": "And a short while before this publication, I was able to catch up with the Manchester City chief executive Ferran Soriano",
+      "zh": "而就在节目播出前不久，我采访了曼城首席执行官费兰·索里亚诺"
+    },
+    {
+      "id": 70,
+      "startMs": 392080,
+      "endMs": 394880,
+      "en": "Who's a delegate here? Mr Soriano.",
+      "zh": "他是这里的代表。索里亚诺先生。"
+    },
+    {
+      "id": 71,
+      "startMs": 394960,
+      "endMs": 398480,
+      "en": "Hello, sir. Can I just ask about the guilty charges? How do you feel about that?",
+      "zh": "您好，先生。我能问问被判罪名成立的事吗？您对此有何感受？"
+    },
+    {
+      "id": 72,
+      "startMs": 399100,
+      "endMs": 403020,
+      "en": "Can you have any message for your fans who are concerned about the club being called cheats?",
+      "zh": "对于担心俱乐部被称为骗子的球迷，您有什么话要说吗？"
+    },
+    {
+      "id": 73,
+      "startMs": 404060,
+      "endMs": 405420,
+      "en": "How long do you think this will take, sir?",
+      "zh": "先生，您认为这会持续多久？"
+    },
+    {
+      "id": 74,
+      "startMs": 408200,
+      "endMs": 411400,
+      "en": "Why are you confident the club can prove its innocence?",
+      "zh": "您能解释一下，为什么相信俱乐部能够证明清白吗？"
+    },
+    {
+      "id": 75,
+      "startMs": 411720,
+      "endMs": 415400,
+      "en": "The club. Any message for the fans who are concerned? Thank you. Thank you.",
+      "zh": "俱乐部有什么话要对担心的球迷说吗？谢谢。谢谢。"
+    },
+    {
+      "id": 76,
+      "startMs": 416800,
+      "endMs": 419840,
+      "en": "You concerned about a points deduction or relegation, expulsion?",
+      "zh": "您是否担心被扣分、降级或逐出联赛？"
+    },
+    {
+      "id": 77,
+      "startMs": 420800,
+      "endMs": 425120,
+      "en": "No comment then from City's chief executive when I tried",
+      "zh": "我尝试追问时，曼城首席执行官没有发表评论"
+    },
+    {
+      "id": 78,
+      "startMs": 425120,
+      "endMs": 429600,
+      "en": "but they later issued a statement saying they were disappointed and surprised by the ruling",
+      "zh": "但随后俱乐部发表声明，称对这一裁决感到失望和意外"
+    },
+    {
+      "id": 79,
+      "startMs": 429840,
+      "endMs": 433120,
+      "en": "reiterating that the club is innocent and saying that they will appeal",
+      "zh": "重申俱乐部无罪，并表示将提出上诉"
+    },
+    {
+      "id": 80,
+      "startMs": 433120,
+      "endMs": 438000,
+      "en": "They have until Friday to do so, and the next stage of this saga is a sanctions hearing.",
+      "zh": "他们必须在周五前提出上诉，接下来将举行制裁听证会。"
+    },
+    {
+      "id": 81,
+      "startMs": 438000,
+      "endMs": 442240,
+      "en": "That is when we will discover how exactly the league intend to punish this club.",
+      "zh": "届时我们会知道联赛究竟打算如何惩罚这家俱乐部。"
+    },
+    {
+      "id": 82,
+      "startMs": 442960,
+      "endMs": 449200,
+      "en": "Dan Roan. A renowned painting has returned to the city that inspired it almost two centuries ago.",
+      "zh": "丹·罗恩报道。一幅著名画作回到了近两个世纪前为它带来灵感的城市。"
+    },
+    {
+      "id": 83,
+      "startMs": 449200,
+      "endMs": 457200,
+      "en": "A particularly well-preserved painting of Rome by the British artist J. M. W. Turner will be on display for three days.",
+      "zh": "英国艺术家J·M·W·特纳的一幅保存特别完好的罗马画作将展出三天。"
+    },
+    {
+      "id": 84,
+      "startMs": 457680,
+      "endMs": 466160,
+      "en": "Dating back to the 19th century, the painting was based on sketches made in the Italian capital. And Sarah Rainsford went to take a look for us.",
+      "zh": "这幅画可追溯至19世纪，创作依据是在意大利首都绘制的素描。莎拉·雷恩斯福德前去为我们一探究竟。"
+    },
+    {
+      "id": 85,
+      "startMs": 466800,
+      "endMs": 474000,
+      "en": "It's been called Turner's great love letter to Rome, a dreamy, golden-coloured landscape of the city viewed from the hills.",
+      "zh": "这幅画被称为特纳写给罗马的伟大情书：从山丘眺望这座城市的梦幻金色风景。"
+    },
+    {
+      "id": 86,
+      "startMs": 474320,
+      "endMs": 481620,
+      "en": "Now the oil painting that the artist began here in the 1820s has been returned to Rome and put on public display for the first time.",
+      "zh": "如今，这位艺术家在这里于19世纪20年代开始创作的油画已回到罗马，并首次向公众展出。"
+    },
+    {
+      "id": 87,
+      "startMs": 482260,
+      "endMs": 486740,
+      "en": "The masterpiece was brought here by Sotheby's auction house ahead of a sale later this year.",
+      "zh": "这幅杰作由苏富比拍卖行带到这里，为今年晚些时候的拍卖作准备。"
+    },
+    {
+      "id": 88,
+      "startMs": 487220,
+      "endMs": 491540,
+      "en": "And according to specialist Julian Gascoigne, it is an extraordinary work of art.",
+      "zh": "据专家朱利安·加斯科因介绍，这是一件非凡的艺术作品。"
+    },
+    {
+      "id": 89,
+      "startMs": 491700,
+      "endMs": 498100,
+      "en": "Turner is regarded as one of the most important and influential landscape painters in the Western tradition.",
+      "zh": "特纳被认为是西方传统中最重要、最具影响力的风景画家之一。"
+    },
+    {
+      "id": 90,
+      "startMs": 498260,
+      "endMs": 502900,
+      "en": "And this is one of the last great masterpieces by him remaining in private hands.",
+      "zh": "而这幅画是他仍由私人收藏的最后几件伟大杰作之一。"
+    },
+    {
+      "id": 91,
+      "startMs": 502980,
+      "endMs": 506500,
+      "en": "It's one of the best-preserved pictures by the artist to survive.",
+      "zh": "这是这位艺术家留存至今、保存最完好的画作之一。"
+    },
+    {
+      "id": 92,
+      "startMs": 506580,
+      "endMs": 509860,
+      "en": "And it's a view of Rome, a subject that was extremely dear to his heart.",
+      "zh": "它描绘的是罗马，这座城市是他极为珍爱的主题。"
+    },
+    {
+      "id": 93,
+      "startMs": 509860,
+      "endMs": 511940,
+      "en": "This subject inspired him throughout his career.",
+      "zh": "这一主题贯穿他的职业生涯，不断给予他灵感。"
+    },
+    {
+      "id": 94,
+      "startMs": 512100,
+      "endMs": 517940,
+      "en": "The painting, Rome from Mount Aventine, also contains important clues to the artist's technique.",
+      "zh": "《从阿文丁山眺望罗马》也包含这位艺术家绘画技法的重要线索。"
+    },
+    {
+      "id": 95,
+      "startMs": 518420,
+      "endMs": 522500,
+      "en": "Very unusually, it's not lined on the back, and it's thought it has never been restored,",
+      "zh": "这幅画非常少见地没有在背面加衬，而且据认为从未修复过，"
+    },
+    {
+      "id": 96,
+      "startMs": 522500,
+      "endMs": 527460,
+      "en": "which means that much of Turner's original working is still clear to see.",
+      "zh": "因此仍能清楚看到许多特纳最初的笔触。"
+    },
+    {
+      "id": 97,
+      "startMs": 527460,
+      "endMs": 532180,
+      "en": "You can see this very wet application of paint, which is almost sort of dribbling down the canvas.",
+      "zh": "你可以看到这种非常湿润的上色，颜料几乎像是沿着画布往下滴淌。"
+    },
+    {
+      "id": 98,
+      "startMs": 532260,
+      "endMs": 536500,
+      "en": "Equally in the clouds up here, these sort of clumps of paint at the end where the knife has stopped.",
+      "zh": "同样，在上方的云层中，也能看到刀锋停下处形成的这种一团团颜料。"
+    },
+    {
+      "id": 99,
+      "startMs": 536840,
+      "endMs": 543240,
+      "en": "And it's this rich surface that is one of the things that makes this painting so special.",
+      "zh": "正是这种丰富的表面质感，让这幅画如此特别。"
+    },
+    {
+      "id": 100,
+      "startMs": 543560,
+      "endMs": 551320,
+      "en": "There is also a sense of the artist himself. Beneath the original frame are his fingerprints left in paint where he held his canvas.",
+      "zh": "画中还仿佛留有艺术家本人的痕迹。原画框下方有他握住画布时在颜料中留下的指纹。"
+    },
+    {
+      "id": 101,
+      "startMs": 551880,
+      "endMs": 560280,
+      "en": "The work last sold over a decade ago for £30 million, but it's expected to reach £50 million at auction, smashing new records.",
+      "zh": "这幅作品十多年前以3000万英镑成交，但预计在拍卖会上达到5000万英镑，创下新纪录。"
+    },
+    {
+      "id": 102,
+      "startMs": 560520,
+      "endMs": 568840,
+      "en": "At least for the next three days, though, it is free to see here in the city that first inspired it. Sarah Rainsford reporting from Rome.",
+      "zh": "不过至少未来三天，在最初给予它灵感的这座城市里，公众可以免费观赏。莎拉·雷恩斯福德在罗马报道。"
+    },
+    {
+      "id": 103,
+      "startMs": 571020,
+      "endMs": 574220,
+      "en": "Still to come in this podcast, it was really electric.",
+      "zh": "本期播客稍后还有：现场气氛非常火热。"
+    },
+    {
+      "id": 104,
+      "startMs": 574780,
+      "endMs": 578380,
+      "en": "You know, there are a lot of dances that I see on TikTok and Instagram.",
+      "zh": "你知道，我在TikTok和Instagram上看到很多舞蹈。"
+    },
+    {
+      "id": 105,
+      "startMs": 578380,
+      "endMs": 581560,
+      "en": "He was doing them on stage, and it was fun.",
+      "zh": "他在舞台上跳了这些舞，现场很有趣。"
+    },
+    {
+      "id": 106,
+      "startMs": 582040,
+      "endMs": 585240,
+      "en": "A week-long danceathon in Nigeria.",
+      "zh": "尼日利亚一场为期一周的舞蹈马拉松。"
+    },
+    {
+      "id": 107,
+      "startMs": 585240,
+      "endMs": 587480,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 108,
+      "startMs": 588200,
+      "endMs": 593560,
+      "en": "A man who spent 41 years on death row in the US for murder has been released on bail.",
+      "zh": "一名因谋杀罪在美国死囚牢房度过41年的人获准保释。"
+    },
+    {
+      "id": 109,
+      "startMs": 593560,
+      "endMs": 598680,
+      "en": "This followed newly analysed DNA evidence that didn't link him to the crime.",
+      "zh": "此前重新分析的DNA证据显示，他与这起犯罪没有关联。"
+    },
+    {
+      "id": 110,
+      "startMs": 599080,
+      "endMs": 605640,
+      "en": "Douglas Stuart Carter, who's now 71, was convicted for the killing of Eva Oleson in Utah in 1985.",
+      "zh": "现年71岁的道格拉斯·斯图尔特·卡特于1985年在犹他州因杀害伊娃·奥莱森被定罪。"
+    },
+    {
+      "id": 111,
+      "startMs": 606280,
+      "endMs": 610920,
+      "en": "He always maintained his innocence, saying his confession was coerced.",
+      "zh": "他一直坚称自己无罪，并说认罪供述是在胁迫下作出的。"
+    },
+    {
+      "id": 112,
+      "startMs": 611400,
+      "endMs": 617960,
+      "en": "His son Tyler Angel spoke to reporters outside the prison as he waited for his father's conditional release.",
+      "zh": "他的儿子泰勒·安吉尔在监狱外接受记者采访，当时正等待父亲有条件获释。"
+    },
+    {
+      "id": 113,
+      "startMs": 618840,
+      "endMs": 624120,
+      "en": "Hopefully he doesn't get too jittery because it's been a while. I want him to see the stars.",
+      "zh": "希望他不会太紧张，毕竟已经过去很久了。我希望他能看看星星。"
+    },
+    {
+      "id": 114,
+      "startMs": 624820,
+      "endMs": 629060,
+      "en": "I'd like for him to just get a life that we all get to live.",
+      "zh": "我希望他能过上我们所有人都能过的普通生活。"
+    },
+    {
+      "id": 115,
+      "startMs": 629060,
+      "endMs": 635940,
+      "en": "None of us understand what this guy's going through, and how crazy it's going to be to step out here.",
+      "zh": "我们没人能理解这个人经历的一切，也无法想象他走出这里时会有多么不真实。"
+    },
+    {
+      "id": 116,
+      "startMs": 636660,
+      "endMs": 643860,
+      "en": "His lawyer Neil Hamilton was also there as his client walked out of jail. He spoke to the BBC's Rebecca Kesby.",
+      "zh": "他的律师尼尔·汉密尔顿也在那里，陪着当事人走出监狱。他接受了BBC丽贝卡·凯斯比的采访。"
+    },
+    {
+      "id": 117,
+      "startMs": 644660,
+      "endMs": 652520,
+      "en": "When he came out of the doors of the jail, he had the biggest smile I've ever seen on his face.",
+      "zh": "他走出监狱大门时，脸上露出了我见过的最灿烂的笑容。"
+    },
+    {
+      "id": 118,
+      "startMs": 653160,
+      "endMs": 657960,
+      "en": "It was surreal, it was wonderful and aggravating at the same time.",
+      "zh": "那感觉超现实、令人欣喜，同时又让人气恼。"
+    },
+    {
+      "id": 119,
+      "startMs": 658280,
+      "endMs": 661960,
+      "en": "He went home to his family. He hasn't seen them ever.",
+      "zh": "他回到了家人身边。他此前从未见过他们。"
+    },
+    {
+      "id": 120,
+      "startMs": 662360,
+      "endMs": 666520,
+      "en": "This was his first time even shaking his son's hand or giving him a hug.",
+      "zh": "这是他第一次和儿子握手，甚至第一次拥抱儿子。"
+    },
+    {
+      "id": 121,
+      "startMs": 667300,
+      "endMs": 670500,
+      "en": "It's aggravating because this didn't need to be.",
+      "zh": "这令人气恼，因为本来不必如此。"
+    },
+    {
+      "id": 122,
+      "startMs": 671060,
+      "endMs": 676100,
+      "en": "The state of Utah stole 41 years from Doug Carter, but the theft wasn't enough.",
+      "zh": "犹他州夺走了道格·卡特41年的人生，但这还不够。"
+    },
+    {
+      "id": 123,
+      "startMs": 676500,
+      "endMs": 677940,
+      "en": "They then put him on death row.",
+      "zh": "他们随后又把他送上了死囚牢房。"
+    },
+    {
+      "id": 124,
+      "startMs": 678580,
+      "endMs": 682580,
+      "en": "All the things we take for granted: choosing what to eat, choosing to open a door,",
+      "zh": "所有我们习以为常的事情：选择吃什么，选择打开一扇门，"
+    },
+    {
+      "id": 125,
+      "startMs": 682580,
+      "endMs": 686100,
+      "en": "turning your lights on, seeing the stars, breathing fresh air.",
+      "zh": "打开灯，看见星星，呼吸新鲜空气。"
+    },
+    {
+      "id": 126,
+      "startMs": 686660,
+      "endMs": 690180,
+      "en": "This is the first time he's done that in 41 years, and it is a lot.",
+      "zh": "这是他41年来第一次做这些事，意义非同寻常。"
+    },
+    {
+      "id": 127,
+      "startMs": 690660,
+      "endMs": 695060,
+      "en": "The world he has entered into is not the world that he was taken from.",
+      "zh": "他如今进入的世界，已不再是当年将他带走时的那个世界。"
+    },
+    {
+      "id": 128,
+      "startMs": 695460,
+      "endMs": 698580,
+      "en": "He was innocent. They framed an innocent young black man.",
+      "zh": "他是无辜的。他们诬陷了一名无辜的年轻黑人。"
+    },
+    {
+      "id": 129,
+      "startMs": 698900,
+      "endMs": 706820,
+      "en": "Right. Well, obviously this is a legal case, and other lawyers may disagree with your analysis of the situation.",
+      "zh": "好。显然，这是一个法律案件，其他律师可能不同意你对情况的分析。"
+    },
+    {
+      "id": 130,
+      "startMs": 706740,
+      "endMs": 714820,
+      "en": "But it does seem as if he has been released because they've reanalyzed DNA evidence.",
+      "zh": "但看起来，他获释似乎是因为他们重新分析了DNA证据。"
+    },
+    {
+      "id": 131,
+      "startMs": 714820,
+      "endMs": 722020,
+      "en": "The evidence was taken at the scene, and as far as we understand, they cannot link Mr Carter with that DNA.",
+      "zh": "这些证据取自现场，据我们了解，他们无法将卡特先生与那份DNA联系起来。"
+    },
+    {
+      "id": 132,
+      "startMs": 722020,
+      "endMs": 729780,
+      "en": "Can you explain this? Love to. When Eva was murdered, the man who killed her stabbed her ten times.",
+      "zh": "你能解释一下吗？当然可以。伊娃遇害时，杀害她的那个人刺了她十刀。"
+    },
+    {
+      "id": 133,
+      "startMs": 730260,
+      "endMs": 735220,
+      "en": "He used a knife with a low-profile blade, and the knife didn't have a good grip.",
+      "zh": "他用的是一把低矮刀刃的刀，而且刀柄抓握不牢。"
+    },
+    {
+      "id": 134,
+      "startMs": 735700,
+      "endMs": 739780,
+      "en": "There is affirmative evidence that the killer sliced his hand open.",
+      "zh": "有确凿证据表明，凶手割伤了自己的手。"
+    },
+    {
+      "id": 135,
+      "startMs": 740180,
+      "endMs": 745060,
+      "en": "When Eva was fatally shot, the killer used a pillow to muffle the sound of the gunshot.",
+      "zh": "伊娃遭枪击身亡时，凶手用枕头闷住了枪声。"
+    },
+    {
+      "id": 136,
+      "startMs": 745460,
+      "endMs": 749140,
+      "en": "Blood is on the handle, pillow, and back door.",
+      "zh": "刀柄上有血，枕头上有血，后门上也有血。"
+    },
+    {
+      "id": 137,
+      "startMs": 749220,
+      "endMs": 754100,
+      "en": "These are all instances where we can definitively point to and say that's the killer's blood.",
+      "zh": "这些地方都能让我们明确指出，那就是凶手的血。"
+    },
+    {
+      "id": 138,
+      "startMs": 754900,
+      "endMs": 758260,
+      "en": "That is what was tested, and Doug has now been affirmatively excluded.",
+      "zh": "检测的就是这些血迹，而道格现在已被明确排除在外。"
+    },
+    {
+      "id": 139,
+      "startMs": 758740,
+      "endMs": 766580,
+      "en": "So it also seems that the witness testimonies key to the conviction are now under review.",
+      "zh": "所以，看起来，对定罪至关重要的证人证词现在也在重新审查。"
+    },
+    {
+      "id": 140,
+      "startMs": 766920,
+      "endMs": 769800,
+      "en": "Well, that's the reason why we're here in 2012.",
+      "zh": "这就是我们在2012年来到这里的原因。"
+    },
+    {
+      "id": 141,
+      "startMs": 769800,
+      "endMs": 776360,
+      "en": "The Federal Public Defender of Arizona, the Capital Habeas Unit.",
+      "zh": "亚利桑那州联邦公设辩护机构的死刑人身保护令部门。"
+    },
+    {
+      "id": 142,
+      "startMs": 776360,
+      "endMs": 781000,
+      "en": "They filed a petition in state court to overturn Doug's conviction.",
+      "zh": "他们向州法院提交申请，要求推翻道格的定罪。"
+    },
+    {
+      "id": 143,
+      "startMs": 781560,
+      "endMs": 790840,
+      "en": "They learned the year previously that these key witnesses had been threatened, coerced, and bribed, then instructed to perjure themselves.",
+      "zh": "他们在前一年得知，这些关键证人曾受到威胁、胁迫和贿赂，随后被指示作伪证。"
+    },
+    {
+      "id": 144,
+      "startMs": 791240,
+      "endMs": 794920,
+      "en": "We're simply getting Doug released. We're standing on the backs of giants here.",
+      "zh": "我们只是要让道格获释。我们是站在巨人的肩膀上。"
+    },
+    {
+      "id": 145,
+      "startMs": 795080,
+      "endMs": 797880,
+      "en": "I think there has to be a retrial now, doesn't there?",
+      "zh": "我认为现在必须重审，不是吗？"
+    },
+    {
+      "id": 146,
+      "startMs": 797960,
+      "endMs": 804200,
+      "en": "And I understand that members of Eva Oleson's family didn't want Doug to be released.",
+      "zh": "我知道，伊娃·奥莱森的家人中有人不希望道格获释。"
+    },
+    {
+      "id": 147,
+      "startMs": 804440,
+      "endMs": 811960,
+      "en": "Yes, they have been very clear about that. And we have nothing but love, sympathy, and grace for them.",
+      "zh": "是的，他们对此一直说得很清楚。而我们对他们只有爱、同情和宽容。"
+    },
+    {
+      "id": 148,
+      "startMs": 812600,
+      "endMs": 820760,
+      "en": "They've been lied to for 41 years. They've lost their loved one, and they've been told by people they should trust that Doug did it.",
+      "zh": "他们被欺骗了41年。他们失去了亲人，还被那些本应信任的人告知是道格做的。"
+    },
+    {
+      "id": 149,
+      "startMs": 821320,
+      "endMs": 828060,
+      "en": "And now they're facing the realization that not only might it not be Doug, but also that their loved one's murder remains unsolved.",
+      "zh": "如今他们不得不面对这样的现实：凶手可能不是道格，而亲人的谋杀案仍未侦破。"
+    },
+    {
+      "id": 150,
+      "startMs": 828460,
+      "endMs": 829740,
+      "en": "That was Neil Hamilton.",
+      "zh": "刚才是尼尔·汉密尔顿。"
+    },
+    {
+      "id": 151,
+      "startMs": 829740,
+      "endMs": 836460,
+      "en": "The UK's new prime minister Andy Burnham has given an emotional first speech to his Labour Party's annual conference.",
+      "zh": "英国新任首相安迪·伯纳姆在工党年度大会上发表了情感充沛的首次演讲。"
+    },
+    {
+      "id": 152,
+      "startMs": 836860,
+      "endMs": 846380,
+      "en": "He promised greater public control over essential services and vowed to reverse decades of privatisation, as well as establish free social care.",
+      "zh": "他承诺让公众更大程度控制基本服务，并誓言扭转数十年的私有化进程，同时建立免费的社会照护体系。"
+    },
+    {
+      "id": 153,
+      "startMs": 846780,
+      "endMs": 850860,
+      "en": "Britain, he said, had been on the wrong path for a long time.",
+      "zh": "他说，英国长期以来一直走在错误的道路上。"
+    },
+    {
+      "id": 154,
+      "startMs": 851660,
+      "endMs": 859340,
+      "en": "Deindustrialisation, deregulation, privatisation, austerity, Brexit—and what has it given us?",
+      "zh": "去工业化、放松监管、私有化、紧缩政策、脱欧——这些给我们带来了什么？"
+    },
+    {
+      "id": 155,
+      "startMs": 860100,
+      "endMs": 868340,
+      "en": "A country run for vested interests, not in the public interest, with power held in too few hands and too many places left to drift.",
+      "zh": "一个为既得利益而非公共利益运行的国家，权力掌握在少数人手中，太多地方任其漂泊。"
+    },
+    {
+      "id": 156,
+      "startMs": 868340,
+      "endMs": 873940,
+      "en": "Left to drift. I am ready to do things my predecessors wouldn't.",
+      "zh": "任其漂泊。我准备做前任们不会做的事。"
+    },
+    {
+      "id": 157,
+      "startMs": 874740,
+      "endMs": 878900,
+      "en": "I will make a break with the direction of the past 40 years",
+      "zh": "我要与过去40年的方向决裂，"
+    },
+    {
+      "id": 158,
+      "startMs": 879140,
+      "endMs": 885220,
+      "en": "and put Britain on a new path, build a new economy and a new politics.",
+      "zh": "让英国走上新道路，建设新的经济和新的政治。"
+    },
+    {
+      "id": 159,
+      "startMs": 885540,
+      "endMs": 888660,
+      "en": "That is the case I make to you today.",
+      "zh": "这就是我今天向你们提出的主张。"
+    },
+    {
+      "id": 160,
+      "startMs": 892700,
+      "endMs": 896780,
+      "en": "Our UK political correspondent Rob Watson was watching the speech.",
+      "zh": "我们的英国政治记者罗布·沃森观看了这场演讲。"
+    },
+    {
+      "id": 161,
+      "startMs": 897500,
+      "endMs": 903740,
+      "en": "What stood out for me was what you just heard there: an ideological case, clearly and emotionally put,",
+      "zh": "让我印象深刻的是你们刚才听到的：一套清晰而充满感情阐述的意识形态主张，"
+    },
+    {
+      "id": 162,
+      "startMs": 903740,
+      "endMs": 911500,
+      "en": "that Britain has been on the wrong track since the 1980s and that the solution is more state intervention in the economy",
+      "zh": "即英国自20世纪80年代以来一直走在错误道路上，解决方案是让国家更多干预经济，"
+    },
+    {
+      "id": 163,
+      "startMs": 911580,
+      "endMs": 916380,
+      "en": "and to take a more, I think I would call it, a communitarian or left-wing approach to life in the UK",
+      "zh": "并在英国采取一种更偏社区主义，或者说更偏左翼的生活方式，"
+    },
+    {
+      "id": 164,
+      "startMs": 916540,
+      "endMs": 922140,
+      "en": "to recapture what Andy Burnham sees as the social solidarity that existed post-Second World War.",
+      "zh": "以重新找回安迪·伯恩汉姆眼中二战后曾经存在的社会团结。"
+    },
+    {
+      "id": 165,
+      "startMs": 922540,
+      "endMs": 929820,
+      "en": "And then on top of that overarching critique, there were some genuinely radical proposals",
+      "zh": "此外，在这一总体批评之上，还有一些真正激进的提议，"
+    },
+    {
+      "id": 166,
+      "startMs": 929820,
+      "endMs": 938140,
+      "en": "such as changing Britain's voting system, something that might end the centuries-old tradition of governments with clear majorities.",
+      "zh": "比如改变英国的投票制度，这可能终结政府拥有明确多数这一延续数百年的传统。"
+    },
+    {
+      "id": 167,
+      "startMs": 938140,
+      "endMs": 939900,
+      "en": "So, boring it was not.",
+      "zh": "所以，这场演讲一点也不乏味。"
+    },
+    {
+      "id": 168,
+      "startMs": 940460,
+      "endMs": 946860,
+      "en": "And he made an awful lot of promises, but can Britain afford to make such big economic changes now?",
+      "zh": "他作出了大量承诺，但英国现在负担得起如此重大的经济变革吗？"
+    },
+    {
+      "id": 169,
+      "startMs": 947500,
+      "endMs": 952300,
+      "en": "Well, that is the big question, Pete, particularly given that the UK has been stuck",
+      "zh": "好吧，这正是关键问题，皮特，尤其是英国一直陷于停滞，"
+    },
+    {
+      "id": 170,
+      "startMs": 952240,
+      "endMs": 954800,
+      "en": "and is forecast to be stuck in a pattern of very low growth",
+      "zh": "而且预计会陷入极低增长的模式，"
+    },
+    {
+      "id": 171,
+      "startMs": 954960,
+      "endMs": 957600,
+      "en": "and it is already highly indebted.",
+      "zh": "并且已经负债累累。"
+    },
+    {
+      "id": 172,
+      "startMs": 957600,
+      "endMs": 960640,
+      "en": "And I think that was why Andy Burnham was slightly cautious about what he promised.",
+      "zh": "我认为这就是安迪·伯恩汉姆对承诺内容略显谨慎的原因。"
+    },
+    {
+      "id": 173,
+      "startMs": 960640,
+      "endMs": 966320,
+      "en": "So despite that critique, a sort of left-wing-sounding critique, he was not suggesting",
+      "zh": "所以，尽管那是一种听起来偏左翼的批评，他并不是在主张"
+    },
+    {
+      "id": 174,
+      "startMs": 966640,
+      "endMs": 973120,
+      "en": "mass renationalization of huge swathes of the economy, but more public control.",
+      "zh": "将大部分经济全面重新国有化，而是加强公共控制。"
+    },
+    {
+      "id": 175,
+      "startMs": 973280,
+      "endMs": 978320,
+      "en": "So I guess the answer to your question is we'll wait and see what he actually delivers in policy terms, not just now, but of course",
+      "zh": "所以我想，对你问题的回答是：我们要等待并看看他在政策层面究竟能落实什么，不只是现在，当然"
+    },
+    {
+      "id": 176,
+      "startMs": 978640,
+      "endMs": 984960,
+      "en": "if he wins the next election, because a lot of this speech was about a radical plan, not for now, but for three years hence.",
+      "zh": "也要看他是否赢得下次选举，因为这场演讲谈到的激进计划不是现在实施，而是三年之后。"
+    },
+    {
+      "id": 177,
+      "startMs": 985200,
+      "endMs": 992000,
+      "en": "And there were lots of domestic policies in that speech, but his promise of a new long-term relationship",
+      "zh": "那场演讲还提出了许多国内政策，但他承诺建立新的长期关系，"
+    },
+    {
+      "id": 178,
+      "startMs": 992000,
+      "endMs": 995520,
+      "en": "with the EU is likely to raise eyebrows both at home and abroad.",
+      "zh": "与欧盟建立这种关系，可能会在国内外引发关注。"
+    },
+    {
+      "id": 179,
+      "startMs": 995840,
+      "endMs": 999920,
+      "en": "It is indeed, but if you think about it and go back to the clip that we heard at the beginning,",
+      "zh": "确实如此，但如果想一想，回到我们开头听到的那段录音，"
+    },
+    {
+      "id": 180,
+      "startMs": 1000000,
+      "endMs": 1005200,
+      "en": "Andy Burnham is someone who says very clearly that Brexit was a mistake, it has not turned out well",
+      "zh": "安迪·伯恩汉姆非常明确地说，英国脱欧是个错误，结果并不好，"
+    },
+    {
+      "id": 181,
+      "startMs": 1005200,
+      "endMs": 1012740,
+      "en": "and that there needs to be a big national debate about the relationship that the UK has with the European Union",
+      "zh": "而且英国与欧盟的关系需要进行一场全国性的大讨论，"
+    },
+    {
+      "id": 182,
+      "startMs": 1012820,
+      "endMs": 1018020,
+      "en": "for the century ahead. So he thinks that is the debate that, difficult though it might be, needs to be had.",
+      "zh": "讨论面向未来一个世纪的关系。所以他认为，尽管这场讨论可能很艰难，却必须进行。"
+    },
+    {
+      "id": 183,
+      "startMs": 1018660,
+      "endMs": 1021060,
+      "en": "That was Rob Watson speaking to Pete Ross.",
+      "zh": "以上是罗布·沃森接受皮特·罗斯采访时的谈话。"
+    },
+    {
+      "id": 184,
+      "startMs": 1021460,
+      "endMs": 1030820,
+      "en": "Finally, a Nigerian man has completed a 168-hour dance marathon in a bid to set a new world record.",
+      "zh": "最后，一名尼日利亚男子完成了168小时舞蹈马拉松，试图创造新的世界纪录。"
+    },
+    {
+      "id": 185,
+      "startMs": 1031140,
+      "endMs": 1035060,
+      "en": "Officials have to verify the evidence before they can confirm the record.",
+      "zh": "官员必须核实证据，才能确认这项纪录。"
+    },
+    {
+      "id": 186,
+      "startMs": 1035460,
+      "endMs": 1039780,
+      "en": "The attempt was live-streamed on social media and our reporter in Lagos",
+      "zh": "这次尝试在社交媒体上直播，我们驻拉各斯的记者"
+    },
+    {
+      "id": 187,
+      "startMs": 1039780,
+      "endMs": 1042500,
+      "en": "Mukwachi Okafor went along to watch.",
+      "zh": "穆克瓦奇·奥卡福前往现场观看。"
+    },
+    {
+      "id": 188,
+      "startMs": 1043220,
+      "endMs": 1044660,
+      "en": "It was really electric.",
+      "zh": "现场气氛非常热烈。"
+    },
+    {
+      "id": 189,
+      "startMs": 1044660,
+      "endMs": 1048420,
+      "en": "You see lots of young people supporting, cheering.",
+      "zh": "你可以看到许多年轻人在支持、欢呼。"
+    },
+    {
+      "id": 190,
+      "startMs": 1048420,
+      "endMs": 1053220,
+      "en": "He, the dancer, is Ben Daniel Gabriel, and he was dancing.",
+      "zh": "这名舞者叫本·丹尼尔·加布里埃尔，他当时正在跳舞。"
+    },
+    {
+      "id": 191,
+      "startMs": 1053220,
+      "endMs": 1056300,
+      "en": "You know, there are lots of dance steps that I see on TikTok and Instagram.",
+      "zh": "你知道，我在TikTok和Instagram上看到过许多舞步。"
+    },
+    {
+      "id": 192,
+      "startMs": 1056340,
+      "endMs": 1058260,
+      "en": "He was doing them on stage and it was fun.",
+      "zh": "他在台上跳这些舞步，气氛很有趣。"
+    },
+    {
+      "id": 193,
+      "startMs": 1059460,
+      "endMs": 1061940,
+      "en": "And it was fun, you know. There were lots of Afrobeat,",
+      "zh": "而且很有趣。现场有很多非洲节拍音乐，"
+    },
+    {
+      "id": 194,
+      "startMs": 1061940,
+      "endMs": 1066660,
+      "en": "which is a very popular music genre here in Nigeria. That is very high-power, very energetic.",
+      "zh": "这是尼日利亚非常流行的音乐类型，节奏强劲，充满活力。"
+    },
+    {
+      "id": 195,
+      "startMs": 1066900,
+      "endMs": 1071460,
+      "en": "And now he has, according to him, crossed the 168-hour mark.",
+      "zh": "据他所说，他现在已经跨过了168小时这一关。"
+    },
+    {
+      "id": 196,
+      "startMs": 1071460,
+      "endMs": 1076020,
+      "en": "Officially, he crossed that mark at 3:00 a.m. local time today,",
+      "zh": "正式来说，他今天当地时间凌晨3点跨过了这一关，"
+    },
+    {
+      "id": 197,
+      "startMs": 1076420,
+      "endMs": 1078820,
+      "en": "but he continued dancing until twelve noon.",
+      "zh": "但他一直跳到中午12点。"
+    },
+    {
+      "id": 198,
+      "startMs": 1078820,
+      "endMs": 1083060,
+      "en": "I was following the stream on his Instagram, the live stream.",
+      "zh": "我一直在Instagram上关注他的直播。"
+    },
+    {
+      "id": 199,
+      "startMs": 1083380,
+      "endMs": 1088420,
+      "en": "But now he's done dancing and he's gone to hospital for checkups because he's been dancing for seven days.",
+      "zh": "但现在他已经跳完舞，去了医院检查，因为他已经跳了整整七天。"
+    },
+    {
+      "id": 200,
+      "startMs": 1088980,
+      "endMs": 1094340,
+      "en": "But guess what? He's actually going to be back for an afterparty this evening to continue dancing with his friends.",
+      "zh": "但你猜怎么着？今晚他还要回来参加庆功派对，和朋友们继续跳舞。"
+    },
+    {
+      "id": 201,
+      "startMs": 1094900,
+      "endMs": 1097780,
+      "en": "I'm sorry, if someone has danced for 168 hours,",
+      "zh": "不好意思，如果有人跳了168小时的舞，"
+    },
+    {
+      "id": 202,
+      "startMs": 1097860,
+      "endMs": 1101460,
+      "en": "can you imagine then going, you know what, I am going to do a bit more dancing?",
+      "zh": "你能想象他接着说“知道吗，我还要再跳一会儿舞”吗？"
+    },
+    {
+      "id": 203,
+      "startMs": 1101860,
+      "endMs": 1103620,
+      "en": "That was Mukwachi Okafor.",
+      "zh": "以上是穆克瓦奇·奥卡福的报道。"
+    },
+    {
+      "id": 204,
+      "startMs": 1106200,
+      "endMs": 1108200,
+      "en": "And that's all from us for now.",
+      "zh": "我们暂时就播报到这里。"
+    },
+    {
+      "id": 205,
+      "startMs": 1108200,
+      "endMs": 1112760,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 206,
+      "startMs": 1112760,
+      "endMs": 1117720,
+      "en": "This edition of the Global News Podcast was mixed by Pete Wise and the producer was Nikki Furrico.",
+      "zh": "本期《全球新闻播客》由皮特·怀斯混音，制片人是妮基·弗里科。"
+    },
+    {
+      "id": 207,
+      "startMs": 1118200,
+      "endMs": 1120600,
+      "en": "The editor is Karen Martin and I am Charlotte Gallagher.",
+      "zh": "编辑是凯伦·马丁，我是夏洛特·加拉格尔。"
+    },
+    {
+      "id": 208,
+      "startMs": 1121000,
+      "endMs": 1122200,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
