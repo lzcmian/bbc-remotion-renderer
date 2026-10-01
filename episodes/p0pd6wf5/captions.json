@@ -1,0 +1,1831 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "30 September 2026"
+  },
+  "durationMs": 1490761,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4800,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是BBC世界服务的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 6900,
+      "endMs": 12020,
+      "en": "I'm Alex Ritson, and on Wednesday the 30th of September, these are our main stories.",
+      "zh": "我是亚历克斯·里特森。9月30日星期三，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 12500,
+      "endMs": 20100,
+      "en": "An Israel-bound passenger jet sends out a hijack alert as one pilot reportedly stabs the other before being overpowered.",
+      "zh": "一架飞往以色列的客机发出劫机警报，据报道一名飞行员刺伤另一名飞行员后被制服。"
+    },
+    {
+      "id": 4,
+      "startMs": 20500,
+      "endMs": 25380,
+      "en": "Russia pounds energy facilities in the Ukrainian capital Kyiv and surrounding areas.",
+      "zh": "俄罗斯猛烈袭击乌克兰首都基辅及周边地区的能源设施。"
+    },
+    {
+      "id": 5,
+      "startMs": 25860,
+      "endMs": 31140,
+      "en": "We hear how children in Gaza are coping in the territory which is still under near-daily attack.",
+      "zh": "我们将听到加沙儿童如何应对这个仍几乎每天遭受袭击的地区。"
+    },
+    {
+      "id": 6,
+      "startMs": 31140,
+      "endMs": 35780,
+      "en": "And we Africans will develop Africa, whether they like it or they don't like it.",
+      "zh": "我们非洲人将发展非洲，不管他们喜欢还是不喜欢。"
+    },
+    {
+      "id": 7,
+      "startMs": 35860,
+      "endMs": 46100,
+      "en": "We are moving. Africa's richest man leads a consortium to build an oil refinery on Kenya's coast, which he says will put Africa in charge of its own destiny.",
+      "zh": "我们正在前进。非洲首富带领一个财团在肯尼亚海岸建设炼油厂；他称这将让非洲掌握自己的命运。"
+    },
+    {
+      "id": 8,
+      "startMs": 50560,
+      "endMs": 60400,
+      "en": "A passenger plane flying from Dubai to Tel Aviv, carrying about 170 people, had to divert to Saudi Arabia after the pilot was reportedly stabbed.",
+      "zh": "一架载有约170人的迪拜飞往特拉维夫的客机，在飞行员据报遭刺伤后不得不转飞沙特阿拉伯。"
+    },
+    {
+      "id": 9,
+      "startMs": 60800,
+      "endMs": 67040,
+      "en": "Israeli and Saudi fighter jets were scrambled when the plane transmitted a code used to indicate a hijacking.",
+      "zh": "飞机发出用于表示劫机的代码后，以色列和沙特战斗机紧急升空。"
+    },
+    {
+      "id": 10,
+      "startMs": 67440,
+      "endMs": 73760,
+      "en": "Israeli media is reporting that the co-pilot is thought to have stabbed the pilot and attempted to crash the plane.",
+      "zh": "以色列媒体报道称，副驾驶被认为刺伤了机长，并试图让飞机坠毁。"
+    },
+    {
+      "id": 11,
+      "startMs": 74000,
+      "endMs": 79600,
+      "en": "Yasmin Abu Khassis was waiting at Tel Aviv airport for her daughter Miriam, who was on the flight.",
+      "zh": "亚斯敏·阿布·哈西斯在特拉维夫机场等待乘坐该航班的女儿米里亚姆。"
+    },
+    {
+      "id": 12,
+      "startMs": 80080,
+      "endMs": 85680,
+      "en": "The plane started to lose control, so all the people—they scream—they think they are going to die.",
+      "zh": "飞机开始失去控制，所有人都尖叫起来，以为自己要死了。"
+    },
+    {
+      "id": 13,
+      "startMs": 86000,
+      "endMs": 87920,
+      "en": "And after a few minutes,",
+      "zh": "几分钟后，"
+    },
+    {
+      "id": 14,
+      "startMs": 87920,
+      "endMs": 91360,
+      "en": "two other pilots took control.",
+      "zh": "另外两名飞行员接管了控制权。"
+    },
+    {
+      "id": 15,
+      "startMs": 91600,
+      "endMs": 101920,
+      "en": "A few Israelis ran over to the guy; he had a knife, they grabbed his hand and put him on the floor.",
+      "zh": "几名以色列人冲向那个人；他拿着刀，他们抓住他的手，把他按倒在地。"
+    },
+    {
+      "id": 16,
+      "startMs": 103160,
+      "endMs": 114040,
+      "en": "There was a lot of blood around. She said it's crazy, crazy time. It's very hard to explain what happened there, but it was big stress.",
+      "zh": "周围有很多血。她说，那是疯狂、疯狂的时刻。很难解释那里发生了什么，但压力非常大。"
+    },
+    {
+      "id": 17,
+      "startMs": 114520,
+      "endMs": 121640,
+      "en": "Almog Italli was also on the flight.",
+      "zh": "阿尔莫格·伊塔利也在这架航班上。"
+    },
+    {
+      "id": 18,
+      "startMs": 121880,
+      "endMs": 126600,
+      "en": "I spoke with several people who were in the cockpit, and there are quite a few versions. It's unclear how the cockpit door was opened,",
+      "zh": "我采访了几名在驾驶舱内的人，目前有多个说法。驾驶舱门如何打开尚不清楚，"
+    },
+    {
+      "id": 19,
+      "startMs": 127000,
+      "endMs": 134120,
+      "en": "whether someone from the crew opened it so help could come, or if it was forced open.",
+      "zh": "是机组人员开门让人来帮忙，还是被强行打开的。"
+    },
+    {
+      "id": 20,
+      "startMs": 134360,
+      "endMs": 142760,
+      "en": "It is unclear. What is clear is that there were two pilots in the front: one stabbed the other, and there were two spare pilots who were supposed to operate the next flight.",
+      "zh": "情况尚不清楚。可以确定的是，前舱有两名飞行员：一人刺伤了另一人；另有两名原本要执行下一趟航班的替补飞行员。"
+    },
+    {
+      "id": 21,
+      "startMs": 143240,
+      "endMs": 148840,
+      "en": "The relief pilots are European, one of them British, who entered and pulled the aircraft up,",
+      "zh": "替补飞行员是欧洲人，其中一人是英国人。他们进入驾驶舱，拉起飞机，"
+    },
+    {
+      "id": 22,
+      "startMs": 149240,
+      "endMs": 153320,
+      "en": "pulled the yoke, stabilized the plane and landed us in Saudi Arabia.",
+      "zh": "操纵驾驶杆稳定飞机，并让我们降落在沙特阿拉伯。"
+    },
+    {
+      "id": 23,
+      "startMs": 153880,
+      "endMs": 157880,
+      "en": "Our global affairs reporter Sebastian Usher told us what we know so far.",
+      "zh": "我们的全球事务记者塞巴斯蒂安·厄舍介绍了目前已知情况。"
+    },
+    {
+      "id": 24,
+      "startMs": 158200,
+      "endMs": 163080,
+      "en": "Everyone's trying to piece together the narrative at the moment from all the elements that are there. I mean, of course, passenger testimony—",
+      "zh": "现在每个人都在根据现有各项线索拼凑事情经过。当然，乘客证词——"
+    },
+    {
+      "id": 25,
+      "startMs": 163900,
+      "endMs": 166300,
+      "en": "being verified is going to be key to it.",
+      "zh": "得到核实将是关键。"
+    },
+    {
+      "id": 26,
+      "startMs": 166460,
+      "endMs": 178140,
+      "en": "This was something which was set off when there was an emergency warning code from this flight: one that there was trouble on board, and the other that it was a hijack code.",
+      "zh": "事件由这架航班发出的紧急警告代码引发：一个代码表示机上出现问题，另一个则是劫机代码。"
+    },
+    {
+      "id": 27,
+      "startMs": 178460,
+      "endMs": 187660,
+      "en": "So there was an immediate response, both from the Saudis and the Israelis. This was over Saudi airspace, to scramble jets to try and deal with that.",
+      "zh": "因此沙特和以色列都立即作出反应。飞机当时位于沙特领空，两国紧急出动战斗机应对。"
+    },
+    {
+      "id": 28,
+      "startMs": 188060,
+      "endMs": 194940,
+      "en": "As you were saying in your introduction there, it was brought down safely at a Saudi airport, Tabuk Airport.",
+      "zh": "正如你刚才在开场时所说，飞机安全降落在沙特的塔布克机场。"
+    },
+    {
+      "id": 29,
+      "startMs": 195420,
+      "endMs": 201980,
+      "en": "There is some damage to the back of the plane that's visible. It also plunged at one point by about 10,000 feet.",
+      "zh": "可以看到飞机尾部有些损伤。飞机还曾一度俯冲下降约1万英尺。"
+    },
+    {
+      "id": 30,
+      "startMs": 202140,
+      "endMs": 208140,
+      "en": "So this was an extraordinary incident, whatever the reason, whatever motivation behind it.",
+      "zh": "所以，无论原因是什么、背后动机是什么，这都是一起非同寻常的事件。"
+    },
+    {
+      "id": 31,
+      "startMs": 208140,
+      "endMs": 214540,
+      "en": "One of the videos that we've just verified at the BBC shows two bodies lying on the floor—",
+      "zh": "我们刚在BBC核实的一段视频显示地上躺着两个人——"
+    },
+    {
+      "id": 32,
+      "startMs": 214540,
+      "endMs": 218220,
+      "en": "not bodies, dead people, bodies of people who have been wounded.",
+      "zh": "不是尸体，不是死人，而是受伤人员的身体。"
+    },
+    {
+      "id": 33,
+      "startMs": 218220,
+      "endMs": 223100,
+      "en": "They appear to be the pilot, potentially the co-pilot. There is blood spattered around them.",
+      "zh": "他们似乎是机长，可能还有副驾驶。周围溅有血迹。"
+    },
+    {
+      "id": 34,
+      "startMs": 223120,
+      "endMs": 228480,
+      "en": "We've heard from the airport authorities that both the pilot and the co-pilot are in hospital and being treated.",
+      "zh": "机场当局告知我们，机长和副驾驶都在医院接受治疗。"
+    },
+    {
+      "id": 35,
+      "startMs": 228960,
+      "endMs": 233840,
+      "en": "So we know that a very serious incident happened. We know that there have been no actual deaths.",
+      "zh": "因此我们知道发生了一起非常严重的事件，也知道目前没有人员死亡。"
+    },
+    {
+      "id": 36,
+      "startMs": 234240,
+      "endMs": 240320,
+      "en": "We don't think, from what we know so far, that it involved other people directly in the confrontation,",
+      "zh": "根据目前所知，我们认为其他人没有直接参与这场冲突，"
+    },
+    {
+      "id": 37,
+      "startMs": 240720,
+      "endMs": 243200,
+      "en": "but we don't know 100% how it was subdued.",
+      "zh": "但我们还不能百分之百确定冲突是如何被平息的。"
+    },
+    {
+      "id": 38,
+      "startMs": 243200,
+      "endMs": 247440,
+      "en": "Report we heard there from that passenger has been backed up by other reports.",
+      "zh": "刚才那名乘客的说法，也得到我们听到的其他报道印证。"
+    },
+    {
+      "id": 39,
+      "startMs": 247520,
+      "endMs": 256720,
+      "en": "Other crew managed to get into the cabin and resolve the situation, and then the plane was able to be flown to a safe landing.",
+      "zh": "其他机组成员设法进入驾驶舱，解决了这一状况，随后飞机得以安全降落。"
+    },
+    {
+      "id": 40,
+      "startMs": 256960,
+      "endMs": 259440,
+      "en": "And that is an extraordinary thing in itself",
+      "zh": "这本身就是一件非同寻常的事。"
+    },
+    {
+      "id": 41,
+      "startMs": 259440,
+      "endMs": 263920,
+      "en": "because you're not supposed to be able to get from the main body of the aircraft into the cockpit.",
+      "zh": "因为按理说，人不应能从飞机主体进入驾驶舱。"
+    },
+    {
+      "id": 42,
+      "startMs": 264000,
+      "endMs": 267680,
+      "en": "Although in this instance, if what we're hearing is correct, well, this is the crew.",
+      "zh": "不过，如果我们听到的情况属实，这次进入的是机组人员。"
+    },
+    {
+      "id": 43,
+      "startMs": 268000,
+      "endMs": 270160,
+      "en": "This is the crew. Now I'm not an expert in aviation",
+      "zh": "是机组人员。我不是航空专家，"
+    },
+    {
+      "id": 44,
+      "startMs": 270160,
+      "endMs": 275760,
+      "en": "but one assumes that the crew has the ability to do that if there's something going on inside a cockpit.",
+      "zh": "但如果驾驶舱内发生了状况，机组应该有能力这样做。"
+    },
+    {
+      "id": 45,
+      "startMs": 276240,
+      "endMs": 278800,
+      "en": "Obviously passengers themselves wouldn't be able to do that",
+      "zh": "显然乘客自己无法做到这一点，"
+    },
+    {
+      "id": 46,
+      "startMs": 279280,
+      "endMs": 283200,
+      "en": "and there are some passengers who have talked about being involved in this as well, which may be the case.",
+      "zh": "也有乘客说自己参与其中，但情况也可能确实如此。"
+    },
+    {
+      "id": 47,
+      "startMs": 283140,
+      "endMs": 287060,
+      "en": "There's one still of the passenger with blood on his T-shirt.",
+      "zh": "有一张静态画面显示，一名乘客的T恤上有血迹。"
+    },
+    {
+      "id": 48,
+      "startMs": 287540,
+      "endMs": 296580,
+      "en": "There's video also of the landing, where the passengers, who would be almost all Israeli, are landing.",
+      "zh": "还有飞机降落的视频；乘客几乎全是以色列人。"
+    },
+    {
+      "id": 49,
+      "startMs": 296580,
+      "endMs": 301540,
+      "en": "I've flown between Dubai and Israel. It's a popular flight for Israelis visiting the UAE since it joined the Abraham Accords.",
+      "zh": "我坐过迪拜和以色列之间的这条航线。自阿联酋加入《亚伯拉罕协议》以来，这一直是以色列人前往阿联酋的热门航班。"
+    },
+    {
+      "id": 50,
+      "startMs": 302260,
+      "endMs": 306340,
+      "en": "And they are giving an Israeli prayer of thanksgiving as they land.",
+      "zh": "他们在降落时诵念以色列人的感恩祷告。"
+    },
+    {
+      "id": 51,
+      "startMs": 306660,
+      "endMs": 314980,
+      "en": "So, you know, we still don't know exactly what happened. We haven't had any really strong official statement from the Israeli authorities so far.",
+      "zh": "所以，我们仍不确切知道发生了什么。到目前为止，以色列官方还没有发布明确有力的声明。"
+    },
+    {
+      "id": 52,
+      "startMs": 314980,
+      "endMs": 321700,
+      "en": "But what we're hearing both in the Israeli media, from Israeli officials speaking anonymously to agencies,",
+      "zh": "不过，以色列媒体以及匿名向通讯社发言的以色列官员所说的是，"
+    },
+    {
+      "id": 53,
+      "startMs": 321940,
+      "endMs": 325140,
+      "en": "is that they believe that it may well have been a terror attempt.",
+      "zh": "他们认为，这很可能是一次恐怖袭击企图。"
+    },
+    {
+      "id": 54,
+      "startMs": 325540,
+      "endMs": 330900,
+      "en": "That whoever was in the cockpit who tried to take control, that may have been what their motive was.",
+      "zh": "也就是说，试图控制飞机的驾驶舱内人员，其动机可能就是如此。"
+    },
+    {
+      "id": 55,
+      "startMs": 331140,
+      "endMs": 337620,
+      "en": "This will play out in an already febrile atmosphere in Israel, where elections are due to take place in a month's time. Sebastian Usher.",
+      "zh": "这件事将在本已紧张的以色列局势中继续发展，而以色列将在一个月后举行选举。塞巴斯蒂安·厄舍尔。"
+    },
+    {
+      "id": 56,
+      "startMs": 338480,
+      "endMs": 345600,
+      "en": "President Zelensky says at least five people have been killed and 14 injured across Ukraine in the latest Russian overnight attacks.",
+      "zh": "泽连斯基总统说，俄罗斯最新一轮夜间袭击已造成乌克兰至少5人死亡、14人受伤。"
+    },
+    {
+      "id": 57,
+      "startMs": 346000,
+      "endMs": 351280,
+      "en": "They involved both drones and ballistic missiles, which the Ukrainian air defences tried to shoot down.",
+      "zh": "袭击涉及无人机和弹道导弹，乌克兰防空部队试图将其击落。"
+    },
+    {
+      "id": 58,
+      "startMs": 357440,
+      "endMs": 360640,
+      "en": "Lilian Bivings is business editor at the Kyiv Independent.",
+      "zh": "莉莲·比文斯是《基辅独立报》的商业编辑。"
+    },
+    {
+      "id": 59,
+      "startMs": 361120,
+      "endMs": 367680,
+      "en": "The last few hours everyone's been pretty exhausted here in Kyiv after another sleepless night.",
+      "zh": "又一个不眠之夜后，基辅这里的人们在过去几小时都非常疲惫。"
+    },
+    {
+      "id": 60,
+      "startMs": 367680,
+      "endMs": 372880,
+      "en": "It's been sleepless nights for the last several weeks, largely along with constant daytime attacks.",
+      "zh": "过去几周基本都是不眠之夜，白天也不断遭到袭击。"
+    },
+    {
+      "id": 61,
+      "startMs": 373280,
+      "endMs": 379520,
+      "en": "We were just talking in the newsroom about how this air raid alert, this last one, lasted 12 hours.",
+      "zh": "我们刚才还在编辑部谈到，最近一次空袭警报持续了12个小时。"
+    },
+    {
+      "id": 62,
+      "startMs": 379760,
+      "endMs": 388320,
+      "en": "So the attack continued well until late morning, and we have a brief pause right now, but I imagine attacks will start again as they have been.",
+      "zh": "袭击一直持续到上午很晚才停下，我们现在暂时喘息，但我想袭击会像之前一样再次开始。"
+    },
+    {
+      "id": 63,
+      "startMs": 388480,
+      "endMs": 395760,
+      "en": "That's an extraordinary length of time, 12 hours of air raid alerts. I mean, how on earth does life continue with that going on?",
+      "zh": "空袭警报持续12小时，时间长得惊人。发生这种事时，生活究竟如何继续？"
+    },
+    {
+      "id": 64,
+      "startMs": 396080,
+      "endMs": 398480,
+      "en": "It's very challenging. You know, even as a newsroom",
+      "zh": "这非常困难。就连我们这样的编辑部，"
+    },
+    {
+      "id": 65,
+      "startMs": 398480,
+      "endMs": 402880,
+      "en": "at an organization, we've had to shift how we work, where we work.",
+      "zh": "也不得不调整工作方式和工作地点。"
+    },
+    {
+      "id": 66,
+      "startMs": 402960,
+      "endMs": 406400,
+      "en": "It's very disruptive. It's very disruptive to daily life, of course,",
+      "zh": "这造成了很大干扰，当然也严重扰乱日常生活，"
+    },
+    {
+      "id": 67,
+      "startMs": 406480,
+      "endMs": 411760,
+      "en": "to businesses that rely on being able to stay open so that they have customers and things like that.",
+      "zh": "也影响那些依靠营业来吸引顾客的企业，诸如此类。"
+    },
+    {
+      "id": 68,
+      "startMs": 412320,
+      "endMs": 416720,
+      "en": "You know, I think as everyone has here for the last almost five years of war,",
+      "zh": "我想，这里的每个人经历了近五年的战争，"
+    },
+    {
+      "id": 69,
+      "startMs": 416800,
+      "endMs": 420900,
+      "en": "people have kind of found ways around it, found ways to continue living.",
+      "zh": "多少都找到了应对办法，设法继续生活。"
+    },
+    {
+      "id": 70,
+      "startMs": 420980,
+      "endMs": 428340,
+      "en": "To kind of, you know, as one of my colleagues put it recently, kind of stretch the limit of what we consider normal constantly",
+      "zh": "正如我的一位同事最近所说，我们不断把所谓正常的界限向外延伸，"
+    },
+    {
+      "id": 71,
+      "startMs": 428500,
+      "endMs": 432020,
+      "en": "and in doing so continuing to live life, which is, you know, what we all want to do.",
+      "zh": "在这个过程中继续生活，而这正是我们所有人想做的事。"
+    },
+    {
+      "id": 72,
+      "startMs": 432420,
+      "endMs": 437300,
+      "en": "But it has been complicated, and certainly people are exhausted,",
+      "zh": "但这一直很复杂，人们当然也都筋疲力尽，"
+    },
+    {
+      "id": 73,
+      "startMs": 437620,
+      "endMs": 441700,
+      "en": "People are certainly stressed, and more and more are making the decision",
+      "zh": "也承受着压力；显然，越来越多人正在决定"
+    },
+    {
+      "id": 74,
+      "startMs": 441780,
+      "endMs": 448020,
+      "en": "to relocate temporarily out of Kyiv to safer parts of the country in the west or abroad.",
+      "zh": "暂时离开基辅，前往该国西部更安全的地区或出国。"
+    },
+    {
+      "id": 75,
+      "startMs": 448740,
+      "endMs": 451860,
+      "en": "Lilian Bivings in Kyiv, speaking to Karen Giannone.",
+      "zh": "莉莲·比文斯在基辅接受凯伦·吉安诺内采访。"
+    },
+    {
+      "id": 76,
+      "startMs": 451860,
+      "endMs": 456340,
+      "en": "Vitaly Shevchenko from BBC Monitoring told me where the Russians had hit.",
+      "zh": "BBC监测部的维塔利·舍甫琴科告诉我，俄军袭击了哪里。"
+    },
+    {
+      "id": 77,
+      "startMs": 456740,
+      "endMs": 460340,
+      "en": "It was energy infrastructure first of all.",
+      "zh": "首先是能源基础设施。"
+    },
+    {
+      "id": 78,
+      "startMs": 460820,
+      "endMs": 464980,
+      "en": "In fact, the Ukrainian Prime Minister Serhiy Koretsky says",
+      "zh": "事实上，乌克兰总理谢尔希·科雷茨基说，"
+    },
+    {
+      "id": 79,
+      "startMs": 465060,
+      "endMs": 473780,
+      "en": "that this was the worst attack on Ukrainian energy infrastructure since the end of the previous heating season.",
+      "zh": "这是自上一供暖季结束以来，乌克兰能源基础设施遭受的最严重袭击。"
+    },
+    {
+      "id": 80,
+      "startMs": 473780,
+      "endMs": 482280,
+      "en": "So he says that Russia's relaunched its campaign against Ukrainian electricity, heating and water supplies.",
+      "zh": "他说，俄罗斯重新发起了针对乌克兰电力、供暖和供水的行动。"
+    },
+    {
+      "id": 81,
+      "startMs": 482680,
+      "endMs": 490920,
+      "en": "Electricity supplies have been restored to about 8,000 households in the Ukrainian capital.",
+      "zh": "乌克兰首都约8000户家庭已恢复供电。"
+    },
+    {
+      "id": 82,
+      "startMs": 491000,
+      "endMs": 497640,
+      "en": "The Russian Defense Ministry says that it hit the Trypilska power station",
+      "zh": "俄罗斯国防部称，其袭击了特里皮尔斯卡发电站，"
+    },
+    {
+      "id": 83,
+      "startMs": 497640,
+      "endMs": 503080,
+      "en": "outside of Kyiv, the largest supplier of electricity to the Ukrainian capital.",
+      "zh": "该电站位于基辅郊外，是乌克兰首都最大的供电来源。"
+    },
+    {
+      "id": 84,
+      "startMs": 503560,
+      "endMs": 509160,
+      "en": "Ukrainians, they knew that this coming winter is going to be really, really tough.",
+      "zh": "乌克兰人知道，即将到来的冬天会非常、非常艰难。"
+    },
+    {
+      "id": 85,
+      "startMs": 509560,
+      "endMs": 515960,
+      "en": "It looks like it's going to be much tougher than the previous winter, when the Russians also attacked energy infrastructure.",
+      "zh": "看起来，这次情况会比俄罗斯同样袭击能源基础设施的上一个冬天艰难得多。"
+    },
+    {
+      "id": 86,
+      "startMs": 515960,
+      "endMs": 522040,
+      "en": "But this time around, they're also hitting supply chains.",
+      "zh": "但这一次，他们还在打击供应链。"
+    },
+    {
+      "id": 87,
+      "startMs": 522040,
+      "endMs": 531000,
+      "en": "They've hit warehouses and supermarkets; over the past month and a half, they've also knocked out a key sector of Ukraine's economy: steelmaking.",
+      "zh": "他们还袭击了仓库和超市；在过去一个半月里，他们还摧毁了乌克兰经济的一个关键行业：钢铁业。"
+    },
+    {
+      "id": 88,
+      "startMs": 531000,
+      "endMs": 536040,
+      "en": "Before the war, steelmaking accounted for 10% of GDP.",
+      "zh": "战前，钢铁业占乌克兰国内生产总值的10%。"
+    },
+    {
+      "id": 89,
+      "startMs": 536040,
+      "endMs": 543020,
+      "en": "It employed half a million people, so things are looking pretty grim for Ukrainians.",
+      "zh": "它曾雇用50万人，因此乌克兰人的处境看起来相当严峻。"
+    },
+    {
+      "id": 90,
+      "startMs": 543580,
+      "endMs": 544860,
+      "en": "Vitaly Shevchenko.",
+      "zh": "维塔利·舍甫琴科。"
+    },
+    {
+      "id": 91,
+      "startMs": 545900,
+      "endMs": 550300,
+      "en": "Nearly a year after a ceasefire was supposed to end the fighting in Gaza.",
+      "zh": "加沙本应结束战事的停火已经过去近一年。"
+    },
+    {
+      "id": 92,
+      "startMs": 550300,
+      "endMs": 555740,
+      "en": "Israeli forces still conduct near-daily strikes against what it says are Hamas targets.",
+      "zh": "以色列军队仍几乎每天袭击其所称的哈马斯目标。"
+    },
+    {
+      "id": 93,
+      "startMs": 555900,
+      "endMs": 559180,
+      "en": "For ordinary Palestinians in Gaza, life is precarious.",
+      "zh": "对加沙的普通巴勒斯坦人来说，生活充满不确定性。"
+    },
+    {
+      "id": 94,
+      "startMs": 559180,
+      "endMs": 564140,
+      "en": "The Hamas-run health ministry says more than 1,400 people have been killed since last October.",
+      "zh": "哈马斯控制的卫生部称，自去年10月以来已有超过1400人死亡。"
+    },
+    {
+      "id": 95,
+      "startMs": 564700,
+      "endMs": 569580,
+      "en": "Doctors say Israel is restricting vital medical supplies to patients in hospitals.",
+      "zh": "医生说，以色列正在限制送给医院患者的重要医疗物资。"
+    },
+    {
+      "id": 96,
+      "startMs": 569980,
+      "endMs": 576380,
+      "en": "Israel denies this. The BBC's Emir Nader reports now on how children in particular are coping.",
+      "zh": "以色列否认这一说法。BBC记者埃米尔·纳德尔现在报道儿童尤其如何应对。"
+    },
+    {
+      "id": 97,
+      "startMs": 578760,
+      "endMs": 581800,
+      "en": "Six-year-old Raseel is getting ready for skin graft surgery.",
+      "zh": "6岁的拉塞尔正准备接受植皮手术。"
+    },
+    {
+      "id": 98,
+      "startMs": 583120,
+      "endMs": 588640,
+      "en": "Earlier, she had seizures caused by a shrapnel fragment in her brain, which her doctors cannot remove.",
+      "zh": "此前，她因脑中的一块弹片而癫痫发作，医生无法将其取出。"
+    },
+    {
+      "id": 99,
+      "startMs": 589520,
+      "endMs": 598640,
+      "en": "On July 30, Raseel was sleeping with her family in a tent in Al-Mawasi camp, southern Gaza, when witnesses say an Israeli airstrike hit them.",
+      "zh": "7月30日，拉塞尔和家人睡在加沙南部阿勒马瓦西营地的帐篷里；目击者称，他们遭到以色列空袭。"
+    },
+    {
+      "id": 100,
+      "startMs": 599780,
+      "endMs": 602860,
+      "en": "She was injured along with her mother and brother.",
+      "zh": "她和母亲、哥哥一起受了伤。"
+    },
+    {
+      "id": 101,
+      "startMs": 602880,
+      "endMs": 604900,
+      "en": "Her nine-year-old sister Ratil was killed.",
+      "zh": "她9岁的姐姐拉蒂尔遇难。"
+    },
+    {
+      "id": 102,
+      "startMs": 606040,
+      "endMs": 613240,
+      "en": "Raseel's father Mahmoud watches over her in the hospital bed, the distress palpable on both their faces.",
+      "zh": "拉塞尔的父亲马哈茂德守在病床旁，父女脸上的痛苦清晰可见。"
+    },
+    {
+      "id": 103,
+      "startMs": 613560,
+      "endMs": 622520,
+      "en": "I asked them, \"Where is Ratil?\" Nobody answered. I asked my wife's cousins, \"Where is Ratil?\" They said, \"In the morgue.\"",
+      "zh": "我问他们：“拉蒂尔在哪里？”没人回答。我问妻子的表亲：“拉蒂尔在哪里？”他们说：“在太平间。”"
+    },
+    {
+      "id": 104,
+      "startMs": 623080,
+      "endMs": 627000,
+      "en": "I couldn't hold myself together. They used to play together all the time.",
+      "zh": "我无法控制住自己。她们过去总是在一起玩。"
+    },
+    {
+      "id": 105,
+      "startMs": 627560,
+      "endMs": 631240,
+      "en": "It's only been two or three days since she started eating again.",
+      "zh": "她恢复进食才两三天。"
+    },
+    {
+      "id": 106,
+      "startMs": 631720,
+      "endMs": 634840,
+      "en": "I'm afraid that if my daughter stays in Gaza, she'll die.",
+      "zh": "我担心女儿留在加沙会死去。"
+    },
+    {
+      "id": 107,
+      "startMs": 634840,
+      "endMs": 642840,
+      "en": "Raseel has had more than 20 operations in order to clean wounds that keep getting infected.",
+      "zh": "拉塞尔已经接受了20多次手术，以清理不断感染的伤口。"
+    },
+    {
+      "id": 108,
+      "startMs": 643000,
+      "endMs": 647560,
+      "en": "MSF's doctor Awni Al-Jaafarawi at Nasser Hospital is looking after her.",
+      "zh": "无国界医生组织的阿乌尼·阿尔-贾法拉维医生在纳赛尔医院照料她。"
+    },
+    {
+      "id": 109,
+      "startMs": 647560,
+      "endMs": 652520,
+      "en": "Her current wounds have multi-drug-resistant bacteria.",
+      "zh": "她现在的伤口中有多重耐药细菌。"
+    },
+    {
+      "id": 110,
+      "startMs": 652920,
+      "endMs": 657000,
+      "en": "So the solution is to try and clean the wounds every day or every other day.",
+      "zh": "因此，解决办法是每天或隔天清理伤口。"
+    },
+    {
+      "id": 111,
+      "startMs": 657240,
+      "endMs": 661720,
+      "en": "Washing them in the operating room and trying as much as possible to control the infections.",
+      "zh": "在手术室清洗伤口，并尽可能控制感染。"
+    },
+    {
+      "id": 112,
+      "startMs": 661720,
+      "endMs": 669260,
+      "en": "Doctor Al-Jaafarawi explains the long-term consequences of the failure of key antibiotics he is seeing on this ward.",
+      "zh": "阿尔-贾法拉维医生解释了他在病房看到的关键抗生素失效所造成的长期后果。"
+    },
+    {
+      "id": 113,
+      "startMs": 669500,
+      "endMs": 677260,
+      "en": "In the long run, people's immunity weakens. A patient would need to undergo surgery every day or every other day.",
+      "zh": "从长远来看，人的免疫力会减弱。患者将需要每天或隔天接受手术。"
+    },
+    {
+      "id": 114,
+      "startMs": 677340,
+      "endMs": 682300,
+      "en": "Over the coming years, you will see the number of amputees rise daily, even if the war stops.",
+      "zh": "未来几年里，即使战争停止，截肢者的人数也会日益增加。"
+    },
+    {
+      "id": 115,
+      "startMs": 682300,
+      "endMs": 689420,
+      "en": "Israel says it allows medicines to enter Gaza without restriction, including antibiotics.",
+      "zh": "以色列称，包括抗生素在内的药物可以不受限制地进入加沙。"
+    },
+    {
+      "id": 116,
+      "startMs": 689500,
+      "endMs": 697500,
+      "en": "But multiple humanitarian organisations and medical staff across Gaza have told the BBC that there are major shortages of essential drugs.",
+      "zh": "但加沙各地的多个人道组织和医务人员告诉BBC，基本药物严重短缺。"
+    },
+    {
+      "id": 117,
+      "startMs": 697980,
+      "endMs": 703180,
+      "en": "Other factors that risk people's health are also at play. Rats and other pests have spread.",
+      "zh": "其他危害人们健康的因素也在起作用。老鼠和其他害虫已经蔓延。"
+    },
+    {
+      "id": 118,
+      "startMs": 703340,
+      "endMs": 707740,
+      "en": "Neighbourhood volunteer Mahmoud sprays pesticides around the rubble where he lives.",
+      "zh": "社区志愿者马哈茂德在居住地的废墟周围喷洒杀虫剂。"
+    },
+    {
+      "id": 119,
+      "startMs": 707820,
+      "endMs": 713420,
+      "en": "The kids have developed severe allergies from these rodents and insects.",
+      "zh": "孩子们因这些啮齿动物和昆虫患上了严重的过敏症。"
+    },
+    {
+      "id": 120,
+      "startMs": 713980,
+      "endMs": 717420,
+      "en": "They started bringing us diseases we had never heard of before.",
+      "zh": "它们开始给我们带来从未听说过的疾病。"
+    },
+    {
+      "id": 121,
+      "startMs": 717900,
+      "endMs": 720300,
+      "en": "Honestly, we are sick of this life.",
+      "zh": "说实话，我们受够了这样的生活。"
+    },
+    {
+      "id": 122,
+      "startMs": 723240,
+      "endMs": 726280,
+      "en": "For children in Gaza, bombardment is an ever-present threat.",
+      "zh": "对加沙的儿童来说，轰炸是始终存在的威胁。"
+    },
+    {
+      "id": 123,
+      "startMs": 727240,
+      "endMs": 732680,
+      "en": "On September 1, the Israel Defense Forces carried out a series of airstrikes during a raid near a school.",
+      "zh": "9月1日，以色列国防军在一所学校附近发动突袭，并实施了一系列空袭。"
+    },
+    {
+      "id": 124,
+      "startMs": 733000,
+      "endMs": 735640,
+      "en": "At least four people were killed, including two children.",
+      "zh": "至少4人遇难，其中包括两名儿童。"
+    },
+    {
+      "id": 125,
+      "startMs": 735960,
+      "endMs": 741560,
+      "en": "The IDF says that it was part of an operation to capture the head of Hamas's internal security service.",
+      "zh": "以色列国防军称，这是抓捕哈马斯内部安全部门负责人的行动的一部分。"
+    },
+    {
+      "id": 126,
+      "startMs": 741800,
+      "endMs": 743960,
+      "en": "Doaa Qudaih is a teacher at the school.",
+      "zh": "杜阿·库代赫是这所学校的一名教师。"
+    },
+    {
+      "id": 127,
+      "startMs": 745420,
+      "endMs": 750380,
+      "en": "What war is over? There were over 200 children in my kindergarten right now.",
+      "zh": "什么战争结束了？我的幼儿园里当时有200多名孩子。"
+    },
+    {
+      "id": 128,
+      "startMs": 750620,
+      "endMs": 753500,
+      "en": "We were all evacuated from the building under bombardment.",
+      "zh": "我们在轰炸中全部从大楼里撤了出来。"
+    },
+    {
+      "id": 129,
+      "startMs": 755620,
+      "endMs": 758820,
+      "en": "September 1 was also 14-year-old Lara's birthday.",
+      "zh": "9月1日也是14岁拉拉的生日。"
+    },
+    {
+      "id": 130,
+      "startMs": 759060,
+      "endMs": 764500,
+      "en": "She was supposed to go to school that day, but didn't because her mother wanted to celebrate with her at home.",
+      "zh": "她本该在那天去上学，但她的母亲想在家陪她庆祝，所以她没有去。"
+    },
+    {
+      "id": 131,
+      "startMs": 764580,
+      "endMs": 768820,
+      "en": "There's school tomorrow. Are you going to go?",
+      "zh": "明天要上学。你会去吗？"
+    },
+    {
+      "id": 132,
+      "startMs": 769140,
+      "endMs": 771940,
+      "en": "No. Seriously, you don't want to go? No.",
+      "zh": "不去。你真的不想去吗？不去。"
+    },
+    {
+      "id": 133,
+      "startMs": 772180,
+      "endMs": 773780,
+      "en": "Why? Just because.",
+      "zh": "为什么？就是不想去。"
+    },
+    {
+      "id": 134,
+      "startMs": 774580,
+      "endMs": 777380,
+      "en": "Lara's face is tearing up.",
+      "zh": "拉拉的脸上泛起泪水。"
+    },
+    {
+      "id": 135,
+      "startMs": 777700,
+      "endMs": 782100,
+      "en": "She has already lost her father, who was killed while trying to get food for the family a year ago.",
+      "zh": "她已经失去了父亲；父亲一年前在为家人寻找食物时遇难。"
+    },
+    {
+      "id": 136,
+      "startMs": 782260,
+      "endMs": 789620,
+      "en": "Her mother tries to comfort her. I mean, it'll be a day or two and after that things calm down.",
+      "zh": "她的母亲试图安慰她：“我的意思是，一两天后情况就会平静下来。”"
+    },
+    {
+      "id": 137,
+      "startMs": 790100,
+      "endMs": 792180,
+      "en": "Yes. What do you mean, yes?",
+      "zh": "是吗？你说“是”是什么意思？"
+    },
+    {
+      "id": 138,
+      "startMs": 792340,
+      "endMs": 794500,
+      "en": "Why are you crying? I'm fed up.",
+      "zh": "你为什么哭？我受够了。"
+    },
+    {
+      "id": 139,
+      "startMs": 795060,
+      "endMs": 796820,
+      "en": "What are you fed up with? Life.",
+      "zh": "你受够了什么？生活。"
+    },
+    {
+      "id": 140,
+      "startMs": 797460,
+      "endMs": 804020,
+      "en": "UNICEF says that almost every child in Gaza requires urgent mental health and psychosocial support.",
+      "zh": "联合国儿童基金会称，加沙几乎每个儿童都急需心理健康和社会心理支持。"
+    },
+    {
+      "id": 141,
+      "startMs": 804820,
+      "endMs": 810660,
+      "en": "Back at Nasser Hospital, Raseel, while waiting for a medical evacuation, has a new doll.",
+      "zh": "回到纳赛尔医院，等待医疗撤离的拉塞尔有了一个新娃娃。"
+    },
+    {
+      "id": 142,
+      "startMs": 811380,
+      "endMs": 813940,
+      "en": "She's named her after her dead sister, Ratil.",
+      "zh": "她以已故姐姐拉蒂尔的名字给娃娃取名。"
+    },
+    {
+      "id": 143,
+      "startMs": 814900,
+      "endMs": 820180,
+      "en": "The IDF says that they have no record of a strike that hit her family and regrets any harm to civilians.",
+      "zh": "以色列国防军称，没有记录显示有袭击击中她的家人，并对平民受到的任何伤害表示遗憾。"
+    },
+    {
+      "id": 144,
+      "startMs": 821980,
+      "endMs": 827820,
+      "en": "A few days ago, Raseel's father called the BBC to say they've been given permission to leave Gaza for treatment.",
+      "zh": "几天前，拉塞尔的父亲致电BBC，说他们获准离开加沙接受治疗。"
+    },
+    {
+      "id": 145,
+      "startMs": 828380,
+      "endMs": 836700,
+      "en": "But for the thousands of other children who are injured and traumatised, the wait for essential medicines or even a medical evacuation continues.",
+      "zh": "但对数千名受伤和心理受创的其他儿童来说，他们仍在等待必需药物，甚至等待医疗撤离。"
+    },
+    {
+      "id": 146,
+      "startMs": 840100,
+      "endMs": 842180,
+      "en": "That report by Emir Nader.",
+      "zh": "以上是埃米尔·纳德尔的报道。"
+    },
+    {
+      "id": 147,
+      "startMs": 844700,
+      "endMs": 849020,
+      "en": "Still to come in this podcast, Backpack tends to be an introverted bear.",
+      "zh": "本节目稍后还将介绍：Backpack 是一头内向的熊。"
+    },
+    {
+      "id": 148,
+      "startMs": 849100,
+      "endMs": 852780,
+      "en": "He's got quiet strength about him; that's one reason I like him.",
+      "zh": "它有一种沉静的力量，这也是我喜欢它的原因之一。"
+    },
+    {
+      "id": 149,
+      "startMs": 852860,
+      "endMs": 860140,
+      "en": "Eighty-nine Backpack wins the annual Fat Bear Week in Katmai National Park in Alaska.",
+      "zh": "89号Backpack赢得了阿拉斯加卡特迈国家公园年度胖熊周冠军。"
+    },
+    {
+      "id": 150,
+      "startMs": 860140,
+      "endMs": 862220,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 151,
+      "startMs": 862220,
+      "endMs": 869420,
+      "en": "After more than two decades of American military presence in Iraq, the last US troops to be stationed there have now withdrawn.",
+      "zh": "美国在伊拉克驻军20多年后，最后一批驻扎当地的美军如今已经撤出。"
+    },
+    {
+      "id": 152,
+      "startMs": 869580,
+      "endMs": 875180,
+      "en": "Iraq hailed the end of the US-led anti-jihadist mission as the start of a new chapter.",
+      "zh": "伊拉克称，由美国主导的反圣战行动结束，标志着新篇章的开始。"
+    },
+    {
+      "id": 153,
+      "startMs": 875420,
+      "endMs": 880380,
+      "en": "Here is Major General Tahseen Al-Khafaji from Iraq's Defence Ministry.",
+      "zh": "下面请听伊拉克国防部少将塔赫辛·阿尔-哈法吉。"
+    },
+    {
+      "id": 154,
+      "startMs": 880700,
+      "endMs": 884140,
+      "en": "Today is the completion of sovereignty for Iraq.",
+      "zh": "今天标志着伊拉克主权完整实现。"
+    },
+    {
+      "id": 155,
+      "startMs": 884700,
+      "endMs": 888940,
+      "en": "Today is the end of the international coalition's mission and the start of a new era,",
+      "zh": "今天是国际联盟任务的结束，也是新时代的开始，"
+    },
+    {
+      "id": 156,
+      "startMs": 889500,
+      "endMs": 896620,
+      "en": "an era of bilateral relations between us and the countries that supported Iraq, in its war against the Islamic State terrorist organisation.",
+      "zh": "这是我们与曾支持伊拉克对抗恐怖组织“伊斯兰国”的国家发展双边关系的时代。"
+    },
+    {
+      "id": 157,
+      "startMs": 896620,
+      "endMs": 903020,
+      "en": "This new era depends on investment, arming, training, building a strong economy and securing the borders.",
+      "zh": "这个新时代有赖于投资、武装、培训、建设强大经济和保障边境安全。"
+    },
+    {
+      "id": 158,
+      "startMs": 903580,
+      "endMs": 911020,
+      "en": "Today our security forces are able to carry out difficult operations, operations to preserve what we achieved through victory over Islamic State.",
+      "zh": "今天，我们的安全部队能够执行艰难行动，维护我们战胜“伊斯兰国”取得的成果。"
+    },
+    {
+      "id": 159,
+      "startMs": 911020,
+      "endMs": 919340,
+      "en": "Karen Giannone spoke to Toby Dodge, professor of International Relations at the London School of Economics",
+      "zh": "凯伦·贾诺内采访了伦敦政治经济学院国际关系教授托比·道奇，"
+    },
+    {
+      "id": 160,
+      "startMs": 919340,
+      "endMs": 923680,
+      "en": "and author of Iraq from War to a New Authoritarianism.",
+      "zh": "他也是《伊拉克：从战争走向新威权主义》一书的作者。"
+    },
+    {
+      "id": 161,
+      "startMs": 924160,
+      "endMs": 927920,
+      "en": "What did he make of the last few hundred US soldiers leaving the country?",
+      "zh": "他如何看待最后几百名美军士兵离开伊拉克？"
+    },
+    {
+      "id": 162,
+      "startMs": 928160,
+      "endMs": 934080,
+      "en": "I don't actually think it's a particularly big story in terms of the ramifications that it has for Iraq.",
+      "zh": "我并不认为，就对伊拉克的影响而言，这是一件特别重大的事。"
+    },
+    {
+      "id": 163,
+      "startMs": 934080,
+      "endMs": 940160,
+      "en": "Iraq's security services have been functioning pretty well for the last five, six years.",
+      "zh": "过去五六年，伊拉克的安全部门一直运转得相当不错。"
+    },
+    {
+      "id": 164,
+      "startMs": 940560,
+      "endMs": 944000,
+      "en": "Islamic radicalism is at a historic low level.",
+      "zh": "伊斯兰激进主义处于历史低位。"
+    },
+    {
+      "id": 165,
+      "startMs": 944480,
+      "endMs": 950880,
+      "en": "So the Iraqi system, for all its multiple weaknesses and flaws, is self-sustaining.",
+      "zh": "因此，伊拉克体制尽管存在诸多弱点和缺陷，仍能自我维系。"
+    },
+    {
+      "id": 166,
+      "startMs": 951200,
+      "endMs": 956320,
+      "en": "And whether the Americans go or not has not got much to do with the future trajectory of the country.",
+      "zh": "无论美国人是否离开，都与伊拉克未来的发展轨迹没有太大关系。"
+    },
+    {
+      "id": 167,
+      "startMs": 956800,
+      "endMs": 961280,
+      "en": "Right. So when we compare it, say, to the US withdrawal from Afghanistan in 2021,",
+      "zh": "好。比如，拿它与2021年美国撤出阿富汗相比，"
+    },
+    {
+      "id": 168,
+      "startMs": 961440,
+      "endMs": 966480,
+      "en": "we saw such a dramatic turn of events after that, with the Taliban sweeping back to power.",
+      "zh": "那之后局势发生了剧变，塔利班重新掌权。"
+    },
+    {
+      "id": 169,
+      "startMs": 966880,
+      "endMs": 969920,
+      "en": "That's an excellent comparison and is radically different.",
+      "zh": "这是一个很好的比较，但两种情况截然不同。"
+    },
+    {
+      "id": 170,
+      "startMs": 969920,
+      "endMs": 973520,
+      "en": "I think if you look at Al-Kazemi, the current prime minister,",
+      "zh": "我认为，如果看看现任总理卡迪米，"
+    },
+    {
+      "id": 171,
+      "startMs": 973760,
+      "endMs": 979680,
+      "en": "he's been in the United States twice, in July and in September,",
+      "zh": "他曾两次访问美国，分别是在七月和九月，"
+    },
+    {
+      "id": 172,
+      "startMs": 979840,
+      "endMs": 984160,
+      "en": "in New York and Washington, he's got good relations with President Trump.",
+      "zh": "去了纽约和华盛顿；他与特朗普总统关系良好。"
+    },
+    {
+      "id": 173,
+      "startMs": 984480,
+      "endMs": 991440,
+      "en": "So the current Iraqi government are attempting to build as close relations with the United States as possible.",
+      "zh": "所以，伊拉克现政府正努力与美国建立尽可能密切的关系。"
+    },
+    {
+      "id": 174,
+      "startMs": 991440,
+      "endMs": 995120,
+      "en": "They're offering oil deals to large United States companies.",
+      "zh": "他们向美国大型企业提供石油交易。"
+    },
+    {
+      "id": 175,
+      "startMs": 995120,
+      "endMs": 1000960,
+      "en": "So the departure of a few hundred, I think it's probably about 500 troops, here or there, doesn't make a difference.",
+      "zh": "所以，几百名、我想大约500名美军撤离，对局势并没有影响。"
+    },
+    {
+      "id": 176,
+      "startMs": 1000960,
+      "endMs": 1006080,
+      "en": "Now that's not to say that Iraq hasn't got profound problems. It's a deeply corrupt country.",
+      "zh": "当然，这不是说伊拉克没有严重问题；这是一个极度腐败的国家。"
+    },
+    {
+      "id": 177,
+      "startMs": 1006080,
+      "endMs": 1008560,
+      "en": "Its population has high unemployment.",
+      "zh": "其人口失业率很高。"
+    },
+    {
+      "id": 178,
+      "startMs": 1008880,
+      "endMs": 1014400,
+      "en": "I think 700,000 young people are joining the job market each year without jobs to go to.",
+      "zh": "我认为，每年有70万年轻人进入就业市场，却没有工作可做。"
+    },
+    {
+      "id": 179,
+      "startMs": 1014560,
+      "endMs": 1022160,
+      "en": "So there are profound problems, but I don't think American troops or US relations, good or bad, will make any difference.",
+      "zh": "所以问题很严重，但我不认为美军，或与美国关系的好坏，会造成任何影响。"
+    },
+    {
+      "id": 180,
+      "startMs": 1022160,
+      "endMs": 1027760,
+      "en": "Right, and you're not fearing any kind of security vacuum, as happened in 2011 when the US withdrew?",
+      "zh": "好，你不担心出现类似2011年美国撤军时的安全真空吗？"
+    },
+    {
+      "id": 181,
+      "startMs": 1027760,
+      "endMs": 1030560,
+      "en": "No, not at all. The two situations are not comparable.",
+      "zh": "不，完全不担心。两种情况不可相提并论。"
+    },
+    {
+      "id": 182,
+      "startMs": 1030560,
+      "endMs": 1038080,
+      "en": "Now there is a profound war going on, the war that the United States started with Iran in February. That's still very much ongoing.",
+      "zh": "目前正发生一场严重的战争，也就是美国在二月与伊朗开战的那场战争；冲突仍在持续。"
+    },
+    {
+      "id": 183,
+      "startMs": 1038240,
+      "endMs": 1043220,
+      "en": "What the Iraqi government have tried to do is work very hard not to get drawn in.",
+      "zh": "伊拉克政府一直努力避免被卷入其中。"
+    },
+    {
+      "id": 184,
+      "startMs": 1043220,
+      "endMs": 1052020,
+      "en": "There have been periodic uses of Iraqi territory to strike the Arab Gulf states and other sets of American allies,",
+      "zh": "伊拉克领土不时被用于打击阿拉伯海湾国家以及美国的其他盟友，"
+    },
+    {
+      "id": 185,
+      "startMs": 1052660,
+      "endMs": 1058420,
+      "en": "but the Iraqi government themselves really don't want anything to do with this conflict and are attempting to keep out.",
+      "zh": "但伊拉克政府本身并不想与这场冲突有任何关系，正试图置身事外。"
+    },
+    {
+      "id": 186,
+      "startMs": 1058580,
+      "endMs": 1064580,
+      "en": "You mentioned Iran, and I wonder: will there be those who portray this US withdrawal as a defeat for the US",
+      "zh": "你提到了伊朗。我想知道，会不会有人把这次美国撤军描述为美国的失败，"
+    },
+    {
+      "id": 187,
+      "startMs": 1064660,
+      "endMs": 1068500,
+      "en": "and I'm thinking of Iran trying to frame it in that way.",
+      "zh": "我想到的是，伊朗可能会试图这样解读。"
+    },
+    {
+      "id": 188,
+      "startMs": 1069060,
+      "endMs": 1074980,
+      "en": "Yeah, I think the Iraqi government's relations with Iran have been superb since 2003.",
+      "zh": "是的，我认为伊拉克政府自2003年以来与伊朗关系极佳。"
+    },
+    {
+      "id": 189,
+      "startMs": 1074980,
+      "endMs": 1080820,
+      "en": "The Iranian government have courted, anointed, made sure",
+      "zh": "伊朗政府拉拢并扶植，确保"
+    },
+    {
+      "id": 190,
+      "startMs": 1080820,
+      "endMs": 1086260,
+      "en": "that there is no one in the Iraqi government that isn't directly and very closely aligned to them.",
+      "zh": "伊拉克政府中没有人不与他们直接且紧密地结盟。"
+    },
+    {
+      "id": 191,
+      "startMs": 1086740,
+      "endMs": 1091300,
+      "en": "But the idea that a few hundred American troops can do anything about that, I think, is pie in the sky.",
+      "zh": "但认为几百名美军能改变这一点，我觉得只是异想天开。"
+    },
+    {
+      "id": 192,
+      "startMs": 1091860,
+      "endMs": 1101160,
+      "en": "I think Trump's America First agenda looks at the small number of American troops on the ground and thinks we can project as much influence",
+      "zh": "我认为，特朗普及其“美国优先”议程审视了当地少量美军，认为我们可以施加尽可能大的影响，"
+    },
+    {
+      "id": 193,
+      "startMs": 1101240,
+      "endMs": 1105400,
+      "en": "or as little influence as we want into Baghdad without our troops",
+      "zh": "也可以不派军队，却按意愿对巴格达施加尽可能小的影响，"
+    },
+    {
+      "id": 194,
+      "startMs": 1105400,
+      "endMs": 1108440,
+      "en": "and I think in this thing alone he's probably right.",
+      "zh": "我认为仅就这一点而言，他或许是对的。"
+    },
+    {
+      "id": 195,
+      "startMs": 1108680,
+      "endMs": 1110200,
+      "en": "Professor Toby Dodge.",
+      "zh": "托比·道奇教授。"
+    },
+    {
+      "id": 196,
+      "startMs": 1111240,
+      "endMs": 1117720,
+      "en": "Work is starting on constructing a $16 billion oil refinery in Kenya near the port of Lamu.",
+      "zh": "肯尼亚拉穆港附近一座160亿美元炼油厂开始动工。"
+    },
+    {
+      "id": 197,
+      "startMs": 1118120,
+      "endMs": 1124440,
+      "en": "When active, the site is expected to have a capacity of some 700,000 barrels of crude oil a day.",
+      "zh": "炼油厂投产后，预计每天可加工约70万桶原油。"
+    },
+    {
+      "id": 198,
+      "startMs": 1124760,
+      "endMs": 1128520,
+      "en": "But many residents of Lamu, which is a UNESCO World Heritage site, oppose the construction",
+      "zh": "但许多拉穆居民反对这项建设；拉穆是联合国教科文组织世界遗产，"
+    },
+    {
+      "id": 199,
+      "startMs": 1129000,
+      "endMs": 1136840,
+      "en": "saying the refinery is set to be built on land that they and their families have lived and farmed on for generations.",
+      "zh": "他们说，炼油厂将建在他们及家族世代居住耕作的土地上。"
+    },
+    {
+      "id": 200,
+      "startMs": 1137160,
+      "endMs": 1141480,
+      "en": "Waleed Ali is co-founder of the community-based organisation Save Lamu.",
+      "zh": "瓦利德·阿里是社区组织“拯救拉穆”的联合创始人。"
+    },
+    {
+      "id": 201,
+      "startMs": 1142040,
+      "endMs": 1147000,
+      "en": "Our community's concern as a civil society is an environmental issue.",
+      "zh": "我们社区作为公民社会关注的是环境问题。"
+    },
+    {
+      "id": 202,
+      "startMs": 1147000,
+      "endMs": 1152040,
+      "en": "Because we are very much concerned there will be an environmental impact.",
+      "zh": "因为我们非常担心这会造成环境影响。"
+    },
+    {
+      "id": 203,
+      "startMs": 1152840,
+      "endMs": 1159800,
+      "en": "And yet the investors, they have not yet done any comprehensive environmental and social assessment.",
+      "zh": "然而，投资者还没有进行全面的环境与社会影响评估。"
+    },
+    {
+      "id": 204,
+      "startMs": 1161000,
+      "endMs": 1168280,
+      "en": "So we are very scared. As a civil society, they will be neglecting the environmental law in Kenya.",
+      "zh": "所以我们非常害怕。作为公民社会，我们担心他们会忽视肯尼亚的环境法。"
+    },
+    {
+      "id": 205,
+      "startMs": 1169140,
+      "endMs": 1176180,
+      "en": "Nigerian billionaire Aliko Dangote, who is bankrolling the project, says it will go ahead whatever the protesters say.",
+      "zh": "为项目提供资金的尼日利亚亿万富翁阿利科·丹格特说，无论抗议者怎么说，项目都会推进。"
+    },
+    {
+      "id": 206,
+      "startMs": 1176420,
+      "endMs": 1183540,
+      "en": "Nobody wants Africa to develop. That's why we Africans will develop Africa, whether they like it or they don't like it.",
+      "zh": "没人希望非洲发展，所以我们非洲人要发展非洲，不管他们喜欢还是不喜欢。"
+    },
+    {
+      "id": 207,
+      "startMs": 1183620,
+      "endMs": 1185380,
+      "en": "We are moving. It's a moving train.",
+      "zh": "我们正在前进。这是一列前进中的火车。"
+    },
+    {
+      "id": 208,
+      "startMs": 1185940,
+      "endMs": 1190420,
+      "en": "Either you join it or you'll be crushed along the way. We don't have a problem with that.",
+      "zh": "要么加入，要么在途中被碾碎。对此我们不在乎。"
+    },
+    {
+      "id": 209,
+      "startMs": 1190820,
+      "endMs": 1196340,
+      "en": "Nkechi Ogbonna, the BBC's Africa Business Reporter in Nairobi, is following the story.",
+      "zh": "内罗毕的 BBC 非洲商业记者恩凯奇·奥博纳正在跟进此事。"
+    },
+    {
+      "id": 210,
+      "startMs": 1196500,
+      "endMs": 1202660,
+      "en": "This project aims to be a game changer for energy security in the East African region.",
+      "zh": "该项目旨在成为东非地区能源安全的改变者。"
+    },
+    {
+      "id": 211,
+      "startMs": 1202660,
+      "endMs": 1209940,
+      "en": "President William Ruto has said repeatedly that this is not a Kenyan project, that it belongs to the entire East African community.",
+      "zh": "威廉·鲁托总统多次表示，这不是肯尼亚项目，而是属于整个东非共同体。"
+    },
+    {
+      "id": 212,
+      "startMs": 1210260,
+      "endMs": 1216660,
+      "en": "It also hopes to encourage energy stability as well and ensure steady supply of oil.",
+      "zh": "该项目还希望促进能源稳定，确保石油供应稳定。"
+    },
+    {
+      "id": 213,
+      "startMs": 1216980,
+      "endMs": 1224020,
+      "en": "Following the fallout of the US-Israel war with Iran and how fuel prices soared,",
+      "zh": "在美以对伊战争的影响下，燃料价格飙升，"
+    },
+    {
+      "id": 214,
+      "startMs": 1224260,
+      "endMs": 1227300,
+      "en": "high in the region, impacting most African countries.",
+      "zh": "冲击了该地区大多数非洲国家。"
+    },
+    {
+      "id": 215,
+      "startMs": 1227860,
+      "endMs": 1231800,
+      "en": "But as we heard in that clip, many, many protests against it.",
+      "zh": "但正如我们在报道中听到的，许多人都在抗议这一项目。"
+    },
+    {
+      "id": 216,
+      "startMs": 1232360,
+      "endMs": 1238600,
+      "en": "Yes, yesterday in Lamu there were protests against the construction of the project.",
+      "zh": "是的，昨天拉穆发生了反对该项目建设的抗议。"
+    },
+    {
+      "id": 217,
+      "startMs": 1238680,
+      "endMs": 1246120,
+      "en": "Residents believe land is being grabbed, ancestral land in this case, or they also have environmental concerns.",
+      "zh": "居民认为土地正在被强占，这次涉及的是祖传土地；他们也担心环境问题。"
+    },
+    {
+      "id": 218,
+      "startMs": 1246120,
+      "endMs": 1251560,
+      "en": "And they actually approached Kenya's High Court to suspend the beginning of the construction.",
+      "zh": "他们还向肯尼亚高等法院提出申请，要求暂停开工。"
+    },
+    {
+      "id": 219,
+      "startMs": 1252040,
+      "endMs": 1260120,
+      "en": "But the court had said the status quo would continue, although there is a hearing on the 14th of October for the case.",
+      "zh": "但法院表示现状将维持不变，不过该案将于10月14日开庭审理。"
+    },
+    {
+      "id": 220,
+      "startMs": 1260680,
+      "endMs": 1263880,
+      "en": "And Lamu, it's a UNESCO heritage site, isn't it?",
+      "zh": "拉穆是联合国教科文组织世界遗产地，对吧？"
+    },
+    {
+      "id": 221,
+      "startMs": 1264440,
+      "endMs": 1269640,
+      "en": "Yes, it is. It's in the coastal part of Kenya, in the north eastern part of the country.",
+      "zh": "是的。它位于肯尼亚沿海、该国东北部。"
+    },
+    {
+      "id": 222,
+      "startMs": 1269640,
+      "endMs": 1277320,
+      "en": "It has beautiful beaches, it has huge tourist potential, and it generates a lot of visitors every year.",
+      "zh": "那里有美丽的海滩，旅游潜力巨大，每年吸引大量游客。"
+    },
+    {
+      "id": 223,
+      "startMs": 1277880,
+      "endMs": 1280520,
+      "en": "So residents are really very worried about this.",
+      "zh": "所以居民对此非常担忧。"
+    },
+    {
+      "id": 224,
+      "startMs": 1280520,
+      "endMs": 1288840,
+      "en": "Also, they say the population is about 160,000 people in the entire county, and they are worried what this new construction would do",
+      "zh": "他们还说，全县人口约16万，担心这项新建设会带来什么影响，"
+    },
+    {
+      "id": 225,
+      "startMs": 1289340,
+      "endMs": 1292300,
+      "en": "to already scarce resources in the region.",
+      "zh": "尤其是对该地区本已稀缺的资源。"
+    },
+    {
+      "id": 226,
+      "startMs": 1292860,
+      "endMs": 1297660,
+      "en": "Aliko Dangote is Africa's richest man.",
+      "zh": "阿利科·丹格特是非洲最富有的人。"
+    },
+    {
+      "id": 227,
+      "startMs": 1297820,
+      "endMs": 1301980,
+      "en": "Is the entire project funded essentially by African business?",
+      "zh": "整个项目基本上由非洲企业出资吗？"
+    },
+    {
+      "id": 228,
+      "startMs": 1302300,
+      "endMs": 1309660,
+      "en": "Well, he's spearheading the project, but it is believed that there is some funding from the Africa Finance Corporation, the AFC.",
+      "zh": "他是这个项目的牵头人，但据认为，非洲金融公司（AFC）也提供了部分资金。"
+    },
+    {
+      "id": 229,
+      "startMs": 1310060,
+      "endMs": 1315100,
+      "en": "It's also believed that Aliko is also going to work with regional governments.",
+      "zh": "据认为，阿利科还将与地区政府合作。"
+    },
+    {
+      "id": 230,
+      "startMs": 1315100,
+      "endMs": 1321820,
+      "en": "From the neighboring Ethiopia and South Sudan and Uganda as well.",
+      "zh": "包括邻国埃塞俄比亚、南苏丹和乌干达的政府。"
+    },
+    {
+      "id": 231,
+      "startMs": 1321900,
+      "endMs": 1331020,
+      "en": "There is also going to be a pipeline that will provide the crude oil from South Sudan along the Ethiopia-Tanzania corridor.",
+      "zh": "此外还将修建一条管道，沿埃塞俄比亚—坦桑尼亚走廊输送来自南苏丹的原油。"
+    },
+    {
+      "id": 232,
+      "startMs": 1331260,
+      "endMs": 1332700,
+      "en": "And Nkechi Ogbonna.",
+      "zh": "尼凯奇·奥博纳。"
+    },
+    {
+      "id": 233,
+      "startMs": 1333920,
+      "endMs": 1338880,
+      "en": "It's that time of the year when we get to find out the winner of the 2026 Fat Bear Week",
+      "zh": "又到了揭晓2026年胖熊周冠军的时节，"
+    },
+    {
+      "id": 234,
+      "startMs": 1339040,
+      "endMs": 1343280,
+      "en": "in Katmai National Park in Alaska.",
+      "zh": "比赛在阿拉斯加的卡特迈国家公园举行。"
+    },
+    {
+      "id": 235,
+      "startMs": 1343760,
+      "endMs": 1347920,
+      "en": "He is 89 Backpack and his name comes from his habit",
+      "zh": "它叫“89号背包”，名字源于它小时候的习惯，"
+    },
+    {
+      "id": 236,
+      "startMs": 1348000,
+      "endMs": 1351040,
+      "en": "as a cub of climbing onto the back of his mother Holly,",
+      "zh": "还是幼崽时常爬到母熊霍莉的背上，"
+    },
+    {
+      "id": 237,
+      "startMs": 1351520,
+      "endMs": 1354240,
+      "en": "who was a Fat Bear Week winner back in 2019.",
+      "zh": "霍莉曾在2019年赢得胖熊周冠军。"
+    },
+    {
+      "id": 238,
+      "startMs": 1354960,
+      "endMs": 1361680,
+      "en": "Sixteen bears took part in the contest, and more than 2 million votes were cast from 100 countries around the world.",
+      "zh": "共有16只熊参加比赛，来自全球100个国家的投票超过200万张。"
+    },
+    {
+      "id": 239,
+      "startMs": 1362160,
+      "endMs": 1370240,
+      "en": "The US National Park Service described the competition as a battle of size, skill, snack acquisition, and strategic loafing.",
+      "zh": "美国国家公园管理局将这场比赛称为体型、技巧、觅食能力和战略性躺平的较量。"
+    },
+    {
+      "id": 240,
+      "startMs": 1370400,
+      "endMs": 1374080,
+      "en": "Matt Johnson is one of the park rangers at Katmai National Park.",
+      "zh": "马特·约翰逊是卡特迈国家公园的一名护林员。"
+    },
+    {
+      "id": 241,
+      "startMs": 1374400,
+      "endMs": 1377440,
+      "en": "This contest has been going for 14 years,",
+      "zh": "这项比赛已经持续了14年，"
+    },
+    {
+      "id": 242,
+      "startMs": 1377440,
+      "endMs": 1381760,
+      "en": "and the webcams have been set up in the park for the same amount of time.",
+      "zh": "公园里的网络摄像头也已设置了同样长的时间。"
+    },
+    {
+      "id": 243,
+      "startMs": 1382240,
+      "endMs": 1388000,
+      "en": "And a lot of people tune in from wherever they are in the world to watch the bears.",
+      "zh": "许多人无论身在世界何处，都会收看这些熊的直播。"
+    },
+    {
+      "id": 244,
+      "startMs": 1388080,
+      "endMs": 1391680,
+      "en": "They're just so charming and fun. There is something new every day.",
+      "zh": "它们实在迷人又有趣，每天都会发生新鲜事。"
+    },
+    {
+      "id": 245,
+      "startMs": 1391920,
+      "endMs": 1396980,
+      "en": "The two finalists in the competition ended up being 89 Backpack",
+      "zh": "比赛的两名决赛选手最终是“89号背包”，"
+    },
+    {
+      "id": 246,
+      "startMs": 1397460,
+      "endMs": 1402500,
+      "en": "and also 910. Backpack tends to be an introverted bear.",
+      "zh": "以及“910号”。“背包”通常是一只内向的熊。"
+    },
+    {
+      "id": 247,
+      "startMs": 1402980,
+      "endMs": 1406980,
+      "en": "He's got quiet strength about him; that's one reason I like him.",
+      "zh": "它有一种沉静的力量，这也是我喜欢它的原因之一。"
+    },
+    {
+      "id": 248,
+      "startMs": 1407140,
+      "endMs": 1414980,
+      "en": "Also, 910 adopted a cub into her family, and she's had a strong story as well.",
+      "zh": "此外，910号还收养了一只幼崽，她也有着不平凡的经历。"
+    },
+    {
+      "id": 249,
+      "startMs": 1415220,
+      "endMs": 1424340,
+      "en": "Both bears were looming very large for this contest, and it ended up being number 89 voted as a champion.",
+      "zh": "两只熊在这场比赛中都备受瞩目，最终89号被投票选为冠军。"
+    },
+    {
+      "id": 250,
+      "startMs": 1424740,
+      "endMs": 1431140,
+      "en": "The key to survival for these bears and getting through the winter is the park's healthy ecosystem.",
+      "zh": "这些熊得以生存并熬过冬天的关键，是公园健康的生态系统。"
+    },
+    {
+      "id": 251,
+      "startMs": 1431860,
+      "endMs": 1440580,
+      "en": "Katmai National Park is a large park; it's the size of Yosemite and Yellowstone combined, over 4 million acres.",
+      "zh": "卡特迈国家公园面积很大，相当于约塞米蒂和黄石公园之和，超过400万英亩。"
+    },
+    {
+      "id": 252,
+      "startMs": 1441140,
+      "endMs": 1444100,
+      "en": "And there is clean water that comes down from the mountains.",
+      "zh": "那里还有从山上流下来的洁净水源。"
+    },
+    {
+      "id": 253,
+      "startMs": 1444500,
+      "endMs": 1454040,
+      "en": "There is a strong salmon run, and also these brown bears are one of the largest populations left on the planet,",
+      "zh": "那里有大量洄游鲑鱼，这些棕熊也是地球上现存数量最多的种群之一，"
+    },
+    {
+      "id": 254,
+      "startMs": 1454440,
+      "endMs": 1463240,
+      "en": "and here in Alaska and Katmai National Park, that ecosystem is intact, and the bears are taking advantage of that.",
+      "zh": "而在阿拉斯加的卡特迈国家公园，这一生态系统完好，熊得以从中受益。"
+    },
+    {
+      "id": 255,
+      "startMs": 1463240,
+      "endMs": 1467880,
+      "en": "That's the reason they're getting fat and they're surviving for another year.",
+      "zh": "这就是它们日益肥壮、又能存活一年的原因。"
+    },
+    {
+      "id": 256,
+      "startMs": 1468200,
+      "endMs": 1471880,
+      "en": "Matt Johnson from Katmai National Park in Alaska.",
+      "zh": "来自阿拉斯加卡特迈国家公园的马特·约翰逊报道。"
+    },
+    {
+      "id": 257,
+      "startMs": 1474360,
+      "endMs": 1476600,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是我们目前的全部内容。"
+    },
+    {
+      "id": 258,
+      "startMs": 1476760,
+      "endMs": 1481800,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如需联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 259,
+      "startMs": 1481801,
+      "endMs": 1489321,
+      "en": "This edition was mixed by Chris Ablakwa, and the producer was Judy Frankel. The editor is Karen Martin. I am Alex Ritson.",
+      "zh": "本期由克里斯·阿布拉夸混音，制片人是朱迪·弗兰克尔，编辑是凯伦·马丁。我是亚历克斯·里特森。"
+    },
+    {
+      "id": 260,
+      "startMs": 1489321,
+      "endMs": 1490761,
+      "en": "Until next time, goodbye.",
+      "zh": "下次再见。"
+    }
+  ]
+}
