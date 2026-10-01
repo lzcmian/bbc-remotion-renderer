@@ -1,0 +1,2146 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "26 September 2026"
+  },
+  "durationMs": 1513760,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3760,
+      "en": "This is The Happy Pod from the BBC World Service.",
+      "zh": "这里是BBC世界服务的《快乐播客》。"
+    },
+    {
+      "id": 2,
+      "startMs": 8980,
+      "endMs": 16260,
+      "en": "I'm Holly Gibbs, and in this edition, the new rapid test that's transforming brain tumour diagnosis.",
+      "zh": "我是霍莉·吉布斯。本期节目关注一种正在改变脑肿瘤诊断的新型快速检测。"
+    },
+    {
+      "id": 3,
+      "startMs": 16420,
+      "endMs": 19620,
+      "en": "I'm really excited. I think when we first ran this test",
+      "zh": "我真的非常激动。我记得我们第一次运行这项检测时，"
+    },
+    {
+      "id": 4,
+      "startMs": 20020,
+      "endMs": 24660,
+      "en": "and we got it to work in-house, and we got it to work really quickly.",
+      "zh": "我们让它在院内运行起来，而且速度非常快。"
+    },
+    {
+      "id": 5,
+      "startMs": 24660,
+      "endMs": 29540,
+      "en": "It felt completely unreal. I will never tire of seeing this approach work.",
+      "zh": "那感觉完全不真实。看到这种方法奏效，我永远不会厌倦。"
+    },
+    {
+      "id": 6,
+      "startMs": 30100,
+      "endMs": 32340,
+      "en": "We speak to some of the doctors behind it.",
+      "zh": "我们将采访参与研发的几位医生。"
+    },
+    {
+      "id": 7,
+      "startMs": 32740,
+      "endMs": 38180,
+      "en": "Also on this podcast, how one island is celebrating its first baby in more than three decades.",
+      "zh": "本期还将讲述一座岛屿如何庆祝三十多年来迎来的首名婴儿。"
+    },
+    {
+      "id": 8,
+      "startMs": 38580,
+      "endMs": 44340,
+      "en": "We have this beautiful home that's my family home, steeped in our history and ancestry.",
+      "zh": "我们有一座美丽的家园，那是我的家族故居，浸润着我们的历史与祖先的记忆。"
+    },
+    {
+      "id": 9,
+      "startMs": 44980,
+      "endMs": 49700,
+      "en": "So to be surrounded and supported by that felt very special.",
+      "zh": "因此，被这样的家园环绕并得到它的支持，感觉非常特别。"
+    },
+    {
+      "id": 10,
+      "startMs": 50020,
+      "endMs": 55460,
+      "en": "Plus, meet Gary. I thought if I was my daughter, I would be searching high and low.",
+      "zh": "此外，来认识一下加里。我想，如果那是我的女儿，我会四处寻找。"
+    },
+    {
+      "id": 11,
+      "startMs": 55460,
+      "endMs": 62820,
+      "en": "If we'd exhausted all our avenues through family and friends, I just thought this lady needs one of my kidneys more than I need two of them.",
+      "zh": "如果已经通过家人和朋友用尽了所有途径，我只是觉得，这位女士比起我需要两颗肾，更需要我的一颗。"
+    },
+    {
+      "id": 12,
+      "startMs": 63300,
+      "endMs": 68340,
+      "en": "He responded to a social media appeal from a woman who needed a life-saving transplant.",
+      "zh": "他回应了一名需要救命移植手术的女子在社交媒体上发出的求助。"
+    },
+    {
+      "id": 13,
+      "startMs": 69000,
+      "endMs": 72520,
+      "en": "And the six-year-old breaking records with a Rubik's Cube.",
+      "zh": "还有一名用魔方打破纪录的六岁儿童。"
+    },
+    {
+      "id": 14,
+      "startMs": 78560,
+      "endMs": 83600,
+      "en": "We start with a story of a medical breakthrough in the diagnosis and treatment of brain tumours.",
+      "zh": "我们先来看一项脑肿瘤诊断与治疗领域的医学突破。"
+    },
+    {
+      "id": 15,
+      "startMs": 83920,
+      "endMs": 86720,
+      "en": "We recently reported this on the Global News Podcast.",
+      "zh": "我们最近在《全球新闻播客》中报道过这件事。"
+    },
+    {
+      "id": 16,
+      "startMs": 86720,
+      "endMs": 93040,
+      "en": "And in this edition, I'm going to bring you a different interview so we can explore this scientific advancement a bit more.",
+      "zh": "本期我将带来另一段访谈，让我们更深入地了解这项科学进展。"
+    },
+    {
+      "id": 17,
+      "startMs": 93520,
+      "endMs": 100560,
+      "en": "It's a rapid test that can reduce the time it takes to get an accurate diagnosis from up to eight weeks to just two hours.",
+      "zh": "这项快速检测能把获得准确诊断所需的时间从最长八周缩短到仅两小时。"
+    },
+    {
+      "id": 18,
+      "startMs": 101120,
+      "endMs": 103840,
+      "en": "It's already been used on some patients",
+      "zh": "它已经用于一些患者，"
+    },
+    {
+      "id": 19,
+      "startMs": 103840,
+      "endMs": 107680,
+      "en": "and it was developed by a team here in England at Nottingham University Hospital.",
+      "zh": "由英国诺丁汉大学医院的一支团队研发。"
+    },
+    {
+      "id": 20,
+      "startMs": 108080,
+      "endMs": 113760,
+      "en": "Dr Stuart Smith, a consultant neurosurgeon, and Dr Simon Payne, a consultant neuropathologist.",
+      "zh": "斯图尔特·史密斯医生，神经外科顾问；以及西蒙·佩恩医生，神经病理学顾问。"
+    },
+    {
+      "id": 21,
+      "startMs": 114000,
+      "endMs": 119600,
+      "en": "I spoke to them both for this edition of The Happy Pod and started by asking Simon to explain the test.",
+      "zh": "我在本期《快乐播客》中采访了他们两位，先请西蒙解释这项检测。"
+    },
+    {
+      "id": 22,
+      "startMs": 120160,
+      "endMs": 124400,
+      "en": "It's an amazing test, and I think to understand why it's an amazing test",
+      "zh": "这是一项了不起的检测。要理解它为何如此了不起，"
+    },
+    {
+      "id": 23,
+      "startMs": 124400,
+      "endMs": 127920,
+      "en": "you need to know a little bit about brain tumours and how they're diagnosed.",
+      "zh": "你需要先了解脑肿瘤，以及它们如今是如何被诊断的。"
+    },
+    {
+      "id": 24,
+      "startMs": 127920,
+      "endMs": 133920,
+      "en": "They're really complex things, as you might guess. They are really difficult to diagnose with confidence.",
+      "zh": "正如你可能猜到的，它们非常复杂，也很难有把握地作出诊断。"
+    },
+    {
+      "id": 25,
+      "startMs": 133920,
+      "endMs": 138900,
+      "en": "You really need quite in-depth, comprehensive molecular testing to make a diagnosis these days.",
+      "zh": "如今，要作出诊断，确实需要相当深入、全面的分子检测。"
+    },
+    {
+      "id": 26,
+      "startMs": 139060,
+      "endMs": 145780,
+      "en": "And that takes a long time. It can be weeks, and it's certainly not something you can do within the time period of the operation.",
+      "zh": "这需要很长时间，可能要几周，当然不可能在手术进行期间完成。"
+    },
+    {
+      "id": 27,
+      "startMs": 145940,
+      "endMs": 151060,
+      "en": "This test that we've developed builds on work by colleagues, frankly, all over the world",
+      "zh": "我们研发的这项检测建立在全球各地同行工作的基础上，"
+    },
+    {
+      "id": 28,
+      "startMs": 151060,
+      "endMs": 156100,
+      "en": "but particularly with colleagues here in the university, Professor Matt Loose principal amongst them,",
+      "zh": "尤其是本校同行的工作，其中马特·卢斯教授发挥了主要作用，"
+    },
+    {
+      "id": 29,
+      "startMs": 156260,
+      "endMs": 158820,
+      "en": "and a PhD student called Simon Deacon.",
+      "zh": "还有一名叫西蒙·迪肯的博士生。"
+    },
+    {
+      "id": 30,
+      "startMs": 158900,
+      "endMs": 164100,
+      "en": "What we've developed is a test that allows you to condense all of those weeks of waiting",
+      "zh": "我们研发的是一种检测，能把数周的等待压缩为"
+    },
+    {
+      "id": 31,
+      "startMs": 164260,
+      "endMs": 167460,
+      "en": "into about an hour and a half, two hours for an initial result,",
+      "zh": "大约一个半小时至两小时得到初步结果，"
+    },
+    {
+      "id": 32,
+      "startMs": 167700,
+      "endMs": 170660,
+      "en": "and then all the other data that you need after 24 hours.",
+      "zh": "24小时后再得到所需的其他全部数据。"
+    },
+    {
+      "id": 33,
+      "startMs": 171060,
+      "endMs": 176660,
+      "en": "It's taking really complex genetic tests and putting them all in one test, and speeding it all up.",
+      "zh": "它把非常复杂的基因检测整合到一项检测中，并让整个过程加速。"
+    },
+    {
+      "id": 34,
+      "startMs": 176740,
+      "endMs": 179380,
+      "en": "That's amazing. How is this going to help patients?",
+      "zh": "太了不起了。这将如何帮助患者？"
+    },
+    {
+      "id": 35,
+      "startMs": 179460,
+      "endMs": 183300,
+      "en": "I assume it means that quicker diagnosis means you can catch the tumour early.",
+      "zh": "我想，这意味着更快诊断就能更早发现肿瘤。"
+    },
+    {
+      "id": 36,
+      "startMs": 183380,
+      "endMs": 187060,
+      "en": "Yeah, I think, as Simon correctly said, there are many, many different types",
+      "zh": "是的，正如西蒙准确指出的，脑肿瘤有许多不同类型，"
+    },
+    {
+      "id": 37,
+      "startMs": 187060,
+      "endMs": 190820,
+      "en": "of brain tumour, and some of them are more invasive into the brain than others.",
+      "zh": "其中一些比另一些更具侵袭性，会更深入地侵入大脑。"
+    },
+    {
+      "id": 38,
+      "startMs": 190820,
+      "endMs": 194980,
+      "en": "And we know that the extent and how sort of aggressive we are with the operation",
+      "zh": "我们知道，手术的范围以及手术采取多激进的程度，"
+    },
+    {
+      "id": 39,
+      "startMs": 194980,
+      "endMs": 200200,
+      "en": "in terms of how much we try and remove varies between tumour type, so that information in the operation",
+      "zh": "也就是我们尝试切除多少肿瘤，会因肿瘤类型而异。因此，手术中的这些信息"
+    },
+    {
+      "id": 40,
+      "startMs": 200200,
+      "endMs": 207400,
+      "en": "I think will help surgeons make better decisions and tailor the surgery much more specifically to an individual patient.",
+      "zh": "我认为将帮助外科医生作出更好的决定，为每位患者更有针对性地制定手术方案。"
+    },
+    {
+      "id": 41,
+      "startMs": 207480,
+      "endMs": 210600,
+      "en": "Well, Stuart, you've already used this on a patient, haven't you?",
+      "zh": "那么，斯图尔特，你们其实已经把它用于患者了，对吧？"
+    },
+    {
+      "id": 42,
+      "startMs": 210680,
+      "endMs": 213480,
+      "en": "Yes, we've used the technique on quite a few patients",
+      "zh": "是的，我们其实已经在不少患者身上使用了这项技术，"
+    },
+    {
+      "id": 43,
+      "startMs": 213480,
+      "endMs": 219240,
+      "en": "in the process of checking it. We've run this technique alongside the standard technique",
+      "zh": "在验证它的过程中，我们将这项技术与标准技术并行运行，"
+    },
+    {
+      "id": 44,
+      "startMs": 219240,
+      "endMs": 223400,
+      "en": "and it's pretty much always given us the same answer, so we're confident in its accuracy.",
+      "zh": "结果几乎总是相同，因此我们对它的准确性很有信心。"
+    },
+    {
+      "id": 45,
+      "startMs": 223400,
+      "endMs": 229480,
+      "en": "It's also important to say that there's an added benefit beyond the surgery in that",
+      "zh": "此外，必须指出，除了手术本身，这项技术还有额外益处，因为"
+    },
+    {
+      "id": 46,
+      "startMs": 229480,
+      "endMs": 235960,
+      "en": "the standard techniques we use, as Simon described, to diagnose the genetics—the DNA—in brain tumours are very good and powerful.",
+      "zh": "正如西蒙所说，我们用于检测脑肿瘤遗传信息、也就是DNA的标准技术非常好，也很强大。"
+    },
+    {
+      "id": 47,
+      "startMs": 236200,
+      "endMs": 243240,
+      "en": "But they can be quite slow, and it can take six to eight weeks to get a full result back for a patient.",
+      "zh": "但它们可能相当缓慢，患者要拿到完整结果可能需要六到八周。"
+    },
+    {
+      "id": 48,
+      "startMs": 243400,
+      "endMs": 251880,
+      "en": "Whereas this new technique will speed that up to a few days, allowing patients to progress onto the correct treatment more quickly.",
+      "zh": "而这项新技术能把时间缩短到几天，让患者更快接受正确治疗。"
+    },
+    {
+      "id": 49,
+      "startMs": 252040,
+      "endMs": 256840,
+      "en": "And Stuart, what's the feedback been from the patients that have already benefited from this test?",
+      "zh": "斯图尔特，已经受益于这项检测的患者反馈如何？"
+    },
+    {
+      "id": 50,
+      "startMs": 257420,
+      "endMs": 262300,
+      "en": "I think definitely people like answers quickly, whether that's good news or bad news.",
+      "zh": "我认为，人们确实希望尽快得到答案，无论是好消息还是坏消息。"
+    },
+    {
+      "id": 51,
+      "startMs": 262300,
+      "endMs": 270860,
+      "en": "I think people do appreciate hearing certainty quickly, being able to move on and come to terms with that knowledge.",
+      "zh": "我想，人们确实希望尽快得到确定的消息，能够继续生活并接受这个事实。"
+    },
+    {
+      "id": 52,
+      "startMs": 270940,
+      "endMs": 274380,
+      "en": "That wait can be very corrosive for patients' mental health.",
+      "zh": "等待本身可能严重损害患者的心理健康。"
+    },
+    {
+      "id": 53,
+      "startMs": 274380,
+      "endMs": 277180,
+      "en": "I want to ask you both this one, but Simon, maybe let's start with you.",
+      "zh": "我想问你们两位这个问题，不过西蒙，我们也许先从你开始。"
+    },
+    {
+      "id": 54,
+      "startMs": 277260,
+      "endMs": 280300,
+      "en": "How excited are you by this test?",
+      "zh": "这项检测让你有多兴奋？"
+    },
+    {
+      "id": 55,
+      "startMs": 280300,
+      "endMs": 281580,
+      "en": "I'm really excited.",
+      "zh": "我真的非常兴奋。"
+    },
+    {
+      "id": 56,
+      "startMs": 281580,
+      "endMs": 288620,
+      "en": "I think the first time we ran this test and got it to work in-house, and got it to work really quickly,",
+      "zh": "我想，我们第一次在内部运行这项检测并让它发挥作用，而且进展非常快时，"
+    },
+    {
+      "id": 57,
+      "startMs": 288700,
+      "endMs": 290380,
+      "en": "it felt completely unreal.",
+      "zh": "感觉完全不真实。"
+    },
+    {
+      "id": 58,
+      "startMs": 290540,
+      "endMs": 296060,
+      "en": "As a pathologist who's used to waiting a long time or having to go through lots of hoops to get an answer,",
+      "zh": "作为一名习惯长时间等待、或要经历许多关卡才能得到答案的病理学家，"
+    },
+    {
+      "id": 59,
+      "startMs": 296620,
+      "endMs": 303740,
+      "en": "to see the answer come up on the screen thanks to the software that Professor Loose has written was just remarkable.",
+      "zh": "看到答案通过卢斯教授编写的软件出现在屏幕上，真是非同寻常。"
+    },
+    {
+      "id": 60,
+      "startMs": 303820,
+      "endMs": 306780,
+      "en": "I will never tire of seeing this approach work.",
+      "zh": "看到这种方法奏效，我永远不会厌倦。"
+    },
+    {
+      "id": 61,
+      "startMs": 307340,
+      "endMs": 314620,
+      "en": "But I think the real excitement will come when I see it being used routinely, and we can have this really fantastic service",
+      "zh": "但我想，真正令人兴奋的是看到它被日常采用，让我们拥有这样出色的服务，"
+    },
+    {
+      "id": 62,
+      "startMs": 315020,
+      "endMs": 317260,
+      "en": "much quicker, much more accurate",
+      "zh": "速度更快，也更加准确。"
+    },
+    {
+      "id": 63,
+      "startMs": 317920,
+      "endMs": 325600,
+      "en": "than our microscopy methods, and it's making such an impact for all of our patients, not just one or two who are in our trial.",
+      "zh": "比我们的显微镜方法更快、更准确，而且它影响的是所有患者，不只是参加试验的一两个人。"
+    },
+    {
+      "id": 64,
+      "startMs": 325840,
+      "endMs": 327600,
+      "en": "Yeah, absolutely. Same from the surgical side.",
+      "zh": "是的，完全如此。手术方面也是一样。"
+    },
+    {
+      "id": 65,
+      "startMs": 327680,
+      "endMs": 333120,
+      "en": "I mean, I remember colleagues coming into theatre to see the process, going around to the laboratory,",
+      "zh": "我的意思是，我记得同事们来到手术室了解流程，再到实验室去，"
+    },
+    {
+      "id": 66,
+      "startMs": 333120,
+      "endMs": 338160,
+      "en": "going to see the data just appearing on the computer in seconds or minutes.",
+      "zh": "去看数据在几秒或几分钟内出现在电脑上。"
+    },
+    {
+      "id": 67,
+      "startMs": 338160,
+      "endMs": 339920,
+      "en": "You know, and it is incredible.",
+      "zh": "你知道，这真是不可思议。"
+    },
+    {
+      "id": 68,
+      "startMs": 340160,
+      "endMs": 342480,
+      "en": "As you've said, this has been developed in England.",
+      "zh": "正如你所说，这项技术是在英格兰开发的。"
+    },
+    {
+      "id": 69,
+      "startMs": 342560,
+      "endMs": 345040,
+      "en": "Is this something that could be rolled out across the world?",
+      "zh": "这项技术能推广到世界各地吗？"
+    },
+    {
+      "id": 70,
+      "startMs": 345280,
+      "endMs": 350400,
+      "en": "Yeah, there are certainly other hospitals around the world doing it in limited numbers.",
+      "zh": "是的，世界各地确实还有其他医院在有限范围内使用它。"
+    },
+    {
+      "id": 71,
+      "startMs": 350400,
+      "endMs": 355600,
+      "en": "I mean, I think certainly this is the sort of most advanced phase of it actually being rolled out",
+      "zh": "我的意思是，我认为这确实是它实际推广过程中最先进的阶段，"
+    },
+    {
+      "id": 72,
+      "startMs": 355600,
+      "endMs": 362320,
+      "en": "into more routine—or aiming to move to routine clinical practice—on a healthcare-wide system.",
+      "zh": "正逐步进入更常规的临床实践，目标是在整个医疗系统推广。"
+    },
+    {
+      "id": 73,
+      "startMs": 362720,
+      "endMs": 369600,
+      "en": "We've had inquiries from around the world. Many countries have contacted us and Professor Loose to see demonstrations of the system.",
+      "zh": "我们收到过世界各地的咨询。许多国家联系了我们和卢斯教授，希望观看系统演示。"
+    },
+    {
+      "id": 74,
+      "startMs": 369600,
+      "endMs": 375600,
+      "en": "So even as far afield as New Zealand, I think people have made inquiries and we've given them demonstrations of what it can do.",
+      "zh": "甚至远在新西兰，人们也来咨询过，我们向他们演示了这项技术的能力。"
+    },
+    {
+      "id": 75,
+      "startMs": 375600,
+      "endMs": 382660,
+      "en": "And so I think, yes, absolutely, there's a lot of excitement, but I'd be surprised if it wasn't taken up by other countries and other healthcare systems.",
+      "zh": "所以我认为，当然，人们非常期待；但如果其他国家和医疗系统不采用它，我反而会感到意外。"
+    },
+    {
+      "id": 76,
+      "startMs": 382660,
+      "endMs": 388580,
+      "en": "I think this is the sort of test that even in middle- to lower-income countries, perhaps,",
+      "zh": "我认为，这种检测或许甚至能在中低收入国家发挥作用，"
+    },
+    {
+      "id": 77,
+      "startMs": 389220,
+      "endMs": 397620,
+      "en": "because it provides all of those answers that we need in one test and bypasses much of the standard testing, which in itself is very expensive.",
+      "zh": "因为它能在一次检测中提供我们需要的所有答案，绕过许多本身就很昂贵的标准检测。"
+    },
+    {
+      "id": 78,
+      "startMs": 397780,
+      "endMs": 406900,
+      "en": "I think, yes, not just in the developed world economies similar to ours, but elsewhere this is exactly the sort of technology that has got enormous potential for them.",
+      "zh": "我认为，不仅是像我们这样的发达经济体，其他地方也一样；这项技术对它们有巨大潜力。"
+    },
+    {
+      "id": 79,
+      "startMs": 406980,
+      "endMs": 409140,
+      "en": "So what is next for this test?",
+      "zh": "那么，这项检测接下来会怎样？"
+    },
+    {
+      "id": 80,
+      "startMs": 409460,
+      "endMs": 415060,
+      "en": "So there's an initial rollout into centres in the UK in a couple of waves,",
+      "zh": "接下来，英国的几个中心将分两批开始初步推广，"
+    },
+    {
+      "id": 81,
+      "startMs": 415140,
+      "endMs": 421540,
+      "en": "and what we're really trying to do is to get the evidence that this test really does work as well as it does,",
+      "zh": "我们真正要做的是取得证据，证明这项检测确实能达到目前的效果，"
+    },
+    {
+      "id": 82,
+      "startMs": 422500,
+      "endMs": 425620,
+      "en": "which we have no doubts about, but that's the sort of hoop that you've got to go through.",
+      "zh": "对此我们毫不怀疑，但这是必须走过的程序。"
+    },
+    {
+      "id": 83,
+      "startMs": 425620,
+      "endMs": 428980,
+      "en": "Get those other centres using the test as we've been using it in Nottingham.",
+      "zh": "让其他中心像诺丁汉一样使用这项检测。"
+    },
+    {
+      "id": 84,
+      "startMs": 429140,
+      "endMs": 434100,
+      "en": "My final question is a personal one because this is the Happy Pod, so we talk about feelings on the Happy Pod.",
+      "zh": "我的最后一个问题关乎个人感受，因为这是《快乐播客》，我们会在这里谈感受。"
+    },
+    {
+      "id": 85,
+      "startMs": 434340,
+      "endMs": 437460,
+      "en": "My final question is how does it feel personally",
+      "zh": "我的最后一个问题是：你个人感觉如何，"
+    },
+    {
+      "id": 86,
+      "startMs": 437480,
+      "endMs": 441640,
+      "en": "for both of you to be working on something that can change people's lives?",
+      "zh": "对你们两位来说，参与改变人们生活的事业是什么感受？"
+    },
+    {
+      "id": 87,
+      "startMs": 441880,
+      "endMs": 442840,
+      "en": "Stuart, let's start with you.",
+      "zh": "斯图尔特，我们先从你开始。"
+    },
+    {
+      "id": 88,
+      "startMs": 443160,
+      "endMs": 446760,
+      "en": "It's massively rewarding—a massively positive thing for me.",
+      "zh": "这非常令人欣慰，对我来说是一件极其积极的事情。"
+    },
+    {
+      "id": 89,
+      "startMs": 446760,
+      "endMs": 450840,
+      "en": "You know, as a surgeon, I obviously usually deal with an individual patient",
+      "zh": "你知道，作为外科医生，我通常只负责一名患者，"
+    },
+    {
+      "id": 90,
+      "startMs": 450920,
+      "endMs": 455960,
+      "en": "and being able to do this project at a much more system-wide scale",
+      "zh": "而能够以更大范围、面向整个系统的规模开展这个项目，"
+    },
+    {
+      "id": 91,
+      "startMs": 455960,
+      "endMs": 462920,
+      "en": "and hopefully make a real improvement across the system, and hopefully a lasting improvement in care for brain tumours",
+      "zh": "并希望改善整个系统，为脑肿瘤患者带来持久的医疗改进，"
+    },
+    {
+      "id": 92,
+      "startMs": 462920,
+      "endMs": 467400,
+      "en": "you know, that's a real privilege and it's a real positivity.",
+      "zh": "那真是一种荣幸，也确实让人感到积极。"
+    },
+    {
+      "id": 93,
+      "startMs": 467480,
+      "endMs": 471320,
+      "en": "And it certainly gives you a sense that you've hopefully made change for the better,",
+      "zh": "这确实让你觉得自己或许带来了向好的改变，"
+    },
+    {
+      "id": 94,
+      "startMs": 471320,
+      "endMs": 474440,
+      "en": "which I think is a good thing positively for me as an individual",
+      "zh": "对我个人而言，我认为这是件积极的好事，"
+    },
+    {
+      "id": 95,
+      "startMs": 474520,
+      "endMs": 479000,
+      "en": "and I get a great deal of satisfaction from that.",
+      "zh": "也让我从中获得了巨大的满足感。"
+    },
+    {
+      "id": 96,
+      "startMs": 479400,
+      "endMs": 485880,
+      "en": "I think it's a real sense of privilege, actually, to work with such a great bunch of people who all pull together for a common good",
+      "zh": "我认为，能与这么多为共同目标齐心协力的优秀人士共事，确实是一种荣幸，"
+    },
+    {
+      "id": 97,
+      "startMs": 486040,
+      "endMs": 490680,
+      "en": "and to feel that you've had a couple of colleagues say to me, 'You've made a real difference here.'",
+      "zh": "而且有几位同事对我说：“你在这里带来了真正的改变。”这种感觉很好。"
+    },
+    {
+      "id": 98,
+      "startMs": 490920,
+      "endMs": 497480,
+      "en": "And yes, as doctors, we all will make a difference for individual patients, hopefully, but I think it's quite unusual when you can be",
+      "zh": "是的，作为医生，我们希望都能为个别患者带来改变；但能成为"
+    },
+    {
+      "id": 99,
+      "startMs": 497500,
+      "endMs": 504620,
+      "en": "part of something like this, which is going to make a step-change difference in the way that patients are treated",
+      "zh": "这样一个项目的一部分，在患者接受治疗的方式上带来跨越式改变，"
+    },
+    {
+      "id": 100,
+      "startMs": 504700,
+      "endMs": 509820,
+      "en": "and to see people working together for that common good, and it all working, is just fantastic.",
+      "zh": "并看到大家为共同目标协作，一切真正奏效，实在太棒了。"
+    },
+    {
+      "id": 101,
+      "startMs": 510620,
+      "endMs": 513340,
+      "en": "That was Dr Stuart Smith and Dr Simon Payne.",
+      "zh": "刚才是斯图尔特·史密斯医生和西蒙·佩恩医生。"
+    },
+    {
+      "id": 102,
+      "startMs": 513900,
+      "endMs": 520220,
+      "en": "A baby has been born on one of the most remote and northerly Scottish islands for the first time since 1992.",
+      "zh": "一名婴儿出生在苏格兰最偏远、最北端的岛屿之一；这是那里自1992年以来的首例。"
+    },
+    {
+      "id": 103,
+      "startMs": 520220,
+      "endMs": 524940,
+      "en": "David Delday has been to the Orkney Isles to meet little Duncan.",
+      "zh": "大卫·德尔迪前往奥克尼群岛，去见小邓肯。"
+    },
+    {
+      "id": 104,
+      "startMs": 527360,
+      "endMs": 531280,
+      "en": "Less than a week old, but already a history maker.",
+      "zh": "他还不到一周大，却已经成了历史创造者。"
+    },
+    {
+      "id": 105,
+      "startMs": 531280,
+      "endMs": 532800,
+      "en": "You're so good, Duncan.",
+      "zh": "你真乖，邓肯。"
+    },
+    {
+      "id": 106,
+      "startMs": 535180,
+      "endMs": 536460,
+      "en": "You're so good.",
+      "zh": "你真乖。"
+    },
+    {
+      "id": 107,
+      "startMs": 537180,
+      "endMs": 539900,
+      "en": "Far from the bright lights of a maternity ward,",
+      "zh": "远离产房的明亮灯光，"
+    },
+    {
+      "id": 108,
+      "startMs": 540460,
+      "endMs": 548940,
+      "en": "Baby Duncan entered the world with a view of green fields, cows and the sea at North Ronaldsay's South Bay.",
+      "zh": "小邓肯来到世间，映入眼帘的是北罗纳德赛岛南湾的绿野、牛群和大海。"
+    },
+    {
+      "id": 109,
+      "startMs": 549500,
+      "endMs": 554460,
+      "en": "For mum Alice Traill Ford, whose first two children were born in a hospital,",
+      "zh": "邓肯的妈妈爱丽丝·特雷尔·福特的前两个孩子都是在医院出生的，"
+    },
+    {
+      "id": 110,
+      "startMs": 554860,
+      "endMs": 558460,
+      "en": "The remote location just seemed like the right choice.",
+      "zh": "但这处偏远地点似乎正是她当时的正确选择。"
+    },
+    {
+      "id": 111,
+      "startMs": 558620,
+      "endMs": 562460,
+      "en": "At that stage, I felt safer in hospital with all the machines strapped to me",
+      "zh": "在人生那个阶段，我觉得在医院里更安全：身上连着各种仪器，"
+    },
+    {
+      "id": 112,
+      "startMs": 562860,
+      "endMs": 567980,
+      "en": "and being told what was happening.",
+      "zh": "有人告诉我发生了什么。"
+    },
+    {
+      "id": 113,
+      "startMs": 568620,
+      "endMs": 574860,
+      "en": "Then, 10 years later, I now feel safer being more in tune with my body",
+      "zh": "十年后，我现在觉得，和自己的身体更合拍会更安全。"
+    },
+    {
+      "id": 114,
+      "startMs": 574860,
+      "endMs": 584460,
+      "en": "and being able to listen intuitively and navigate birth instinctually as opposed to outsourcing what was happening.",
+      "zh": "能够凭直觉倾听身体、本能地应对分娩，而不是把正在发生的一切交给别人。"
+    },
+    {
+      "id": 115,
+      "startMs": 584940,
+      "endMs": 589580,
+      "en": "So it felt really right, and it was just such a blessing that that was supported here as well.",
+      "zh": "所以这感觉真的很对，而且这得到了这里的支持，真是一种祝福。"
+    },
+    {
+      "id": 116,
+      "startMs": 589740,
+      "endMs": 595600,
+      "en": "We have this beautiful home that's my family home, that's steeped in our history and ancestry.",
+      "zh": "我们有一所美丽的房子，那是我的家族故居，浸润着我们的历史和祖先记忆。"
+    },
+    {
+      "id": 117,
+      "startMs": 596160,
+      "endMs": 600960,
+      "en": "So to be surrounded and supported by that felt very special.",
+      "zh": "所以，有家人环绕并得到他们的支持，让我觉得非常特别。"
+    },
+    {
+      "id": 118,
+      "startMs": 601200,
+      "endMs": 603840,
+      "en": "A very special introduction for him to come to Earth.",
+      "zh": "对他来说，这是来到世间时非常特别的迎接。"
+    },
+    {
+      "id": 119,
+      "startMs": 604480,
+      "endMs": 608080,
+      "en": "So, Duncan, this is Duncan. This is your great-grandfather",
+      "zh": "邓肯，你看，这是邓肯。这是你的曾祖父，"
+    },
+    {
+      "id": 120,
+      "startMs": 608480,
+      "endMs": 611520,
+      "en": "who is the most amazingly kind, brave man in the world.",
+      "zh": "他是世上最善良、勇敢的人。"
+    },
+    {
+      "id": 121,
+      "startMs": 612960,
+      "endMs": 619520,
+      "en": "Alice's family, the Traills, once owned the island, with their connection stretching back hundreds of years.",
+      "zh": "爱丽丝的特雷尔家族曾拥有这座岛，家族与这里的联系延续了数百年。"
+    },
+    {
+      "id": 122,
+      "startMs": 619920,
+      "endMs": 624800,
+      "en": "Duncan takes his name from his great-granddad, once the laird of the island.",
+      "zh": "邓肯沿用了曾祖父的名字；他的曾祖父曾是这座岛的领主。"
+    },
+    {
+      "id": 123,
+      "startMs": 624960,
+      "endMs": 627440,
+      "en": "I didn't know I'd name him after Duncan",
+      "zh": "我到那儿时并不知道自己会用邓肯的名字给他命名，"
+    },
+    {
+      "id": 124,
+      "startMs": 627440,
+      "endMs": 632000,
+      "en": "when we arrived, but I was sitting on the sofa in the other room",
+      "zh": "但我坐在另一个房间的沙发上，"
+    },
+    {
+      "id": 125,
+      "startMs": 632080,
+      "endMs": 637120,
+      "en": "and right in front of me was a collage of his pictures with my grandmother.",
+      "zh": "正对着我的，是一幅他和我祖母的照片拼贴。"
+    },
+    {
+      "id": 126,
+      "startMs": 637120,
+      "endMs": 639200,
+      "en": "And so he's been very present with us.",
+      "zh": "所以他一直都像陪伴着我们。"
+    },
+    {
+      "id": 127,
+      "startMs": 639440,
+      "endMs": 642480,
+      "en": "He was an incredible man, so kind and really strong.",
+      "zh": "他是个非凡的人，善良，而且非常坚强。"
+    },
+    {
+      "id": 128,
+      "startMs": 642720,
+      "endMs": 646960,
+      "en": "Duncan's parents have praised the maternity team in Orkney for their support.",
+      "zh": "邓肯的父母称赞奥克尼的助产团队为他们提供了支持。"
+    },
+    {
+      "id": 129,
+      "startMs": 647440,
+      "endMs": 651760,
+      "en": "He came a bit earlier than anticipated, so two midwives",
+      "zh": "他比预期早出生了一点，所以两名助产士"
+    },
+    {
+      "id": 130,
+      "startMs": 651840,
+      "endMs": 656100,
+      "en": "were flown out shortly afterwards on the Coast Guard helicopter,",
+      "zh": "不久后乘海岸警卫队直升机飞了过来，"
+    },
+    {
+      "id": 131,
+      "startMs": 656580,
+      "endMs": 659540,
+      "en": "with the last baby born there in August 1992.",
+      "zh": "那里上一次有婴儿出生还是1992年8月的事。"
+    },
+    {
+      "id": 132,
+      "startMs": 659540,
+      "endMs": 662740,
+      "en": "It has been quite the wait.",
+      "zh": "这等待的时间确实很长。"
+    },
+    {
+      "id": 133,
+      "startMs": 663380,
+      "endMs": 667060,
+      "en": "Historically, when the laird was on the island, a flag was raised to let folk know,",
+      "zh": "过去，领主在岛上时，人们会升起一面旗帜来通知大家，"
+    },
+    {
+      "id": 134,
+      "startMs": 667620,
+      "endMs": 671940,
+      "en": "so there seemed an obvious way to inform residents of the birth.",
+      "zh": "所以这似乎是告知居民孩子出生的显而易见方式。"
+    },
+    {
+      "id": 135,
+      "startMs": 672260,
+      "endMs": 675140,
+      "en": "We gave all of the islanders a little bottle of whiskey.",
+      "zh": "我们给每位岛民送了一小瓶威士忌。"
+    },
+    {
+      "id": 136,
+      "startMs": 675620,
+      "endMs": 679620,
+      "en": "We found lots of magical four-leaf clovers over the years and have kept them in a book here",
+      "zh": "这些年来，我们发现了许多神奇的四叶草，把它们保存在这里的一本书里，"
+    },
+    {
+      "id": 137,
+      "startMs": 679940,
+      "endMs": 682100,
+      "en": "and I decided that this was the time to use them.",
+      "zh": "我觉得是时候用上它们了。"
+    },
+    {
+      "id": 138,
+      "startMs": 682420,
+      "endMs": 687620,
+      "en": "So we stuck a four-leaf clover onto a glass bottle, and also",
+      "zh": "于是，我们把一株四叶草粘在玻璃瓶上，并且还"
+    },
+    {
+      "id": 139,
+      "startMs": 687780,
+      "endMs": 691540,
+      "en": "taped—glued—a groatie buckie to the lid",
+      "zh": "用胶带——或者说粘住——一枚“groatie buckie”到瓶盖上，"
+    },
+    {
+      "id": 140,
+      "startMs": 691860,
+      "endMs": 694980,
+      "en": "and filled it with whiskey and we gave them to each of the islanders.",
+      "zh": "装满威士忌，再把它们送给每一位岛民。"
+    },
+    {
+      "id": 141,
+      "startMs": 695460,
+      "endMs": 699380,
+      "en": "So when the baby was born, we raised the flag",
+      "zh": "所以孩子出生时，我们升起旗帜，"
+    },
+    {
+      "id": 142,
+      "startMs": 699380,
+      "endMs": 703700,
+      "en": "and then everybody opened their whiskey and shared a dram, a celebratory drink together.",
+      "zh": "然后大家打开威士忌，共饮一小杯庆祝酒。"
+    },
+    {
+      "id": 143,
+      "startMs": 703940,
+      "endMs": 707220,
+      "en": "Oh yes, I was born on the island there myself.",
+      "zh": "哦，是的，我自己也是在这座岛上出生的。"
+    },
+    {
+      "id": 144,
+      "startMs": 708300,
+      "endMs": 710700,
+      "en": "Many years ago, in a box bed.",
+      "zh": "那是很多年前，我出生在一张箱式床上。"
+    },
+    {
+      "id": 145,
+      "startMs": 711260,
+      "endMs": 716220,
+      "en": "That's Billy Muir, a friend of the family and fellow North Ronaldsay man.",
+      "zh": "这是比利·缪尔，他是这个家族的朋友，也是北罗纳德赛岛人。"
+    },
+    {
+      "id": 146,
+      "startMs": 716460,
+      "endMs": 719100,
+      "en": "In the old days, it was just a regular thing",
+      "zh": "在过去，这本来就是常有的事，"
+    },
+    {
+      "id": 147,
+      "startMs": 719920,
+      "endMs": 721600,
+      "en": "and we would hear of stories",
+      "zh": "我们会听到这样的故事："
+    },
+    {
+      "id": 148,
+      "startMs": 722880,
+      "endMs": 725280,
+      "en": "when the birth became a bit difficult",
+      "zh": "如果分娩变得有些困难，"
+    },
+    {
+      "id": 149,
+      "startMs": 725280,
+      "endMs": 730240,
+      "en": "They would take a boat and go to Sanday for the doctor and get help.",
+      "zh": "他们就会坐船去桑迪岛找医生求助。"
+    },
+    {
+      "id": 150,
+      "startMs": 730640,
+      "endMs": 734320,
+      "en": "And I think in that age it was a pair of oars and a sail.",
+      "zh": "我想在那个年代，他们靠的就是一对桨和一张帆。"
+    },
+    {
+      "id": 151,
+      "startMs": 734560,
+      "endMs": 737440,
+      "en": "Duncan stays here till November, but the few months after that",
+      "zh": "邓肯会在这里待到十一月，但之后几个月，"
+    },
+    {
+      "id": 152,
+      "startMs": 737440,
+      "endMs": 740800,
+      "en": "will be, well, a bit different.",
+      "zh": "情况会有些不同。"
+    },
+    {
+      "id": 153,
+      "startMs": 741280,
+      "endMs": 747280,
+      "en": "Alice and partner Jorge will then head back to the Costa Rican jungle where they run a school.",
+      "zh": "爱丽丝和伴侣豪尔赫随后会回到哥斯达黎加的丛林，那里有他们办的一所学校。"
+    },
+    {
+      "id": 154,
+      "startMs": 747920,
+      "endMs": 749600,
+      "en": "David Delday reporting.",
+      "zh": "大卫·德尔迪报道。"
+    },
+    {
+      "id": 155,
+      "startMs": 750560,
+      "endMs": 757520,
+      "en": "Now let's turn to Ghana, where an entrepreneur has worked out a way to turn plastic packaging waste into school desks.",
+      "zh": "现在转到加纳，一位企业家想出了把塑料包装废物变成学校课桌的方法。"
+    },
+    {
+      "id": 156,
+      "startMs": 757980,
+      "endMs": 763020,
+      "en": "Justice Baidoo has been to the capital to meet Makafui Awuku in his workshop.",
+      "zh": "贾斯蒂斯·拜杜来到首都，去拜访工作室里的马卡富伊·阿乌库。"
+    },
+    {
+      "id": 157,
+      "startMs": 763500,
+      "endMs": 768860,
+      "en": "Well, so this is McKingtorch Africa. Welcome to McKingtorch Africa. So let's walk around and let me show you some of them.",
+      "zh": "这里是McKingtorch Africa，欢迎来到这里。我们四处看看，我给你展示一些产品。"
+    },
+    {
+      "id": 158,
+      "startMs": 769180,
+      "endMs": 778520,
+      "en": "Yeah. A big guy with a big smile, Makafui Awuku, has an infectious passion for recycling plastic.",
+      "zh": "是的。高大、满面笑容的马卡富伊·阿乌库对塑料回收有着感染力十足的热情。"
+    },
+    {
+      "id": 159,
+      "startMs": 778840,
+      "endMs": 781080,
+      "en": "He shows me this current stockpile.",
+      "zh": "他给我看了目前这堆库存。"
+    },
+    {
+      "id": 160,
+      "startMs": 781240,
+      "endMs": 788360,
+      "en": "So it's a huge heap of plastic bottles, sachet rubbers that have been collected together.",
+      "zh": "这是一大堆塑料瓶和收集到一起的小袋橡胶包装。"
+    },
+    {
+      "id": 161,
+      "startMs": 788600,
+      "endMs": 790360,
+      "en": "How much plastic do we have there?",
+      "zh": "那里有多少塑料？"
+    },
+    {
+      "id": 162,
+      "startMs": 791000,
+      "endMs": 795820,
+      "en": "So what you see there looks like about 400 kg. Wow, that's a lot.",
+      "zh": "你看到的这些看起来大约有400公斤。哇，真不少。"
+    },
+    {
+      "id": 163,
+      "startMs": 796460,
+      "endMs": 803180,
+      "en": "We generate about 1.1 million metric tons of plastic waste in Ghana every year.",
+      "zh": "加纳每年产生约110万吨塑料垃圾。"
+    },
+    {
+      "id": 164,
+      "startMs": 803740,
+      "endMs": 809260,
+      "en": "In Ghana, it is thought that just around 5% of plastic is collected for recycling.",
+      "zh": "据认为，加纳只有约5%的塑料会被收集回收。"
+    },
+    {
+      "id": 165,
+      "startMs": 809500,
+      "endMs": 815260,
+      "en": "Makafui's latest project addresses another problem there in Ghana: a shortage of school desks.",
+      "zh": "马卡富伊的最新项目还解决了加纳的另一个问题：学校课桌短缺。"
+    },
+    {
+      "id": 166,
+      "startMs": 815980,
+      "endMs": 821100,
+      "en": "We have a lot of desk deficit in our schools. We have a desk deficit of close to 2 million.",
+      "zh": "我们的学校严重缺少课桌，缺口接近200万张。"
+    },
+    {
+      "id": 167,
+      "startMs": 821660,
+      "endMs": 828060,
+      "en": "Makafui makes desktops from the plastic sachets that are commonly used for drinking water there in Ghana.",
+      "zh": "马卡富伊用加纳常见的饮用水塑料小袋制作桌面。"
+    },
+    {
+      "id": 168,
+      "startMs": 828540,
+      "endMs": 832140,
+      "en": "He has 300 drop-off points for the sachets around the country,",
+      "zh": "他在全国设有300个小袋投放点，"
+    },
+    {
+      "id": 169,
+      "startMs": 832700,
+      "endMs": 837580,
+      "en": "and he supplements these by buying more that have been gathered by waste pickers.",
+      "zh": "还通过购买拾荒者收集的更多小袋来补充。"
+    },
+    {
+      "id": 170,
+      "startMs": 838220,
+      "endMs": 843980,
+      "en": "So when the dry shreds come there, we have this heat transfer equipment, and",
+      "zh": "干碎片送来后，我们先用这台热传导设备，"
+    },
+    {
+      "id": 171,
+      "startMs": 844540,
+      "endMs": 849100,
+      "en": "then we have a hydraulic press that we use to press it.",
+      "zh": "再用液压机把它压制成形。"
+    },
+    {
+      "id": 172,
+      "startMs": 852160,
+      "endMs": 855600,
+      "en": "Okay, so we set it and then we wait.",
+      "zh": "好的，放好后我们等待。"
+    },
+    {
+      "id": 173,
+      "startMs": 857680,
+      "endMs": 861680,
+      "en": "So this looks to me like a big sandwich-making machine,",
+      "zh": "在我看来，这像一台大型三明治制作机，"
+    },
+    {
+      "id": 174,
+      "startMs": 861760,
+      "endMs": 868320,
+      "en": "but instead of sandwich, this is plastic materials that have been put into this machine and then being pressed together.",
+      "zh": "但放进去的不是三明治，而是塑料材料，然后在机器里压合在一起。"
+    },
+    {
+      "id": 175,
+      "startMs": 868400,
+      "endMs": 869520,
+      "en": "Yes, that's close enough.",
+      "zh": "对，差不多就是这样。"
+    },
+    {
+      "id": 176,
+      "startMs": 871560,
+      "endMs": 879560,
+      "en": "These sandwich machines can create a range of materials, from a leather-like fabric to these desk boards that are just like plywood.",
+      "zh": "这种三明治机能制造各种材料，从皮革般的织物到这种像胶合板一样的桌板。"
+    },
+    {
+      "id": 177,
+      "startMs": 882100,
+      "endMs": 883380,
+      "en": "They are sanded.",
+      "zh": "它们会经过打磨。"
+    },
+    {
+      "id": 178,
+      "startMs": 887420,
+      "endMs": 889580,
+      "en": "And drilled to the desk frames.",
+      "zh": "再钻孔固定到桌架上。"
+    },
+    {
+      "id": 179,
+      "startMs": 890300,
+      "endMs": 895580,
+      "en": "So far, Makafui has supplied 600 desks to twelve schools around the country.",
+      "zh": "目前，马卡富伊已向全国12所学校提供了600张课桌。"
+    },
+    {
+      "id": 180,
+      "startMs": 896220,
+      "endMs": 904460,
+      "en": "They cost about 60 US dollars each, but they are not paid for by the schools, but with grants and corporate donations.",
+      "zh": "每张课桌约60美元，但费用不是学校承担的，而是来自拨款和企业捐赠。"
+    },
+    {
+      "id": 181,
+      "startMs": 906100,
+      "endMs": 909220,
+      "en": "I travelled to a nearby school to see them for myself.",
+      "zh": "我去了附近一所学校亲自看看。"
+    },
+    {
+      "id": 182,
+      "startMs": 910340,
+      "endMs": 916500,
+      "en": "So this is a classroom of about 60 pupils, and as I enter here, I can see Makafui's desks",
+      "zh": "这是一个约有60名学生的教室，我走进来就看到马卡富伊的课桌"
+    },
+    {
+      "id": 183,
+      "startMs": 916820,
+      "endMs": 919540,
+      "en": "lined up with the students sitting on them and using them.",
+      "zh": "整齐排列着，学生们正坐在上面使用。"
+    },
+    {
+      "id": 184,
+      "startMs": 919540,
+      "endMs": 920820,
+      "en": "I'm just going to go have a chat.",
+      "zh": "我去和他们聊聊。"
+    },
+    {
+      "id": 185,
+      "startMs": 922100,
+      "endMs": 926740,
+      "en": "When we are writing exams, you know, the wooden desks—they are not that smooth for the pupils.",
+      "zh": "我们考试写字时，木桌对学生来说不够光滑。"
+    },
+    {
+      "id": 186,
+      "startMs": 926820,
+      "endMs": 929540,
+      "en": "So when we are writing, the writing don't look smooth.",
+      "zh": "所以写字时，字迹看起来不流畅。"
+    },
+    {
+      "id": 187,
+      "startMs": 929620,
+      "endMs": 931860,
+      "en": "But this one is good for us; it's really helpful.",
+      "zh": "但这种课桌对我们很好，真的很有帮助。"
+    },
+    {
+      "id": 188,
+      "startMs": 932840,
+      "endMs": 939560,
+      "en": "The wooden desks, they break easily, but these plastic desks, they don't decay and they don't break easily. They are very hard.",
+      "zh": "木桌很容易坏，但这些塑料桌不会腐烂，也不容易损坏，非常坚固。"
+    },
+    {
+      "id": 189,
+      "startMs": 940360,
+      "endMs": 944840,
+      "en": "Well, I can't resist asking the students to test the strength of the desks.",
+      "zh": "我忍不住请学生们测试课桌的坚固程度。"
+    },
+    {
+      "id": 190,
+      "startMs": 945460,
+      "endMs": 949860,
+      "en": "Three, two, one, go.",
+      "zh": "三、二、一，开始。"
+    },
+    {
+      "id": 191,
+      "startMs": 949860,
+      "endMs": 951780,
+      "en": "That report was from Justice Baidoo.",
+      "zh": "报道来自Justice Baidoo。"
+    },
+    {
+      "id": 192,
+      "startMs": 951780,
+      "endMs": 956980,
+      "en": "Coming up on The Happy Pod, the rising popularity of the Aufguss sauna.",
+      "zh": "接下来是《快乐播客》：越来越受欢迎的Aufguss桑拿。"
+    },
+    {
+      "id": 193,
+      "startMs": 957220,
+      "endMs": 962820,
+      "en": "You have all the amazing health benefits of being in the sauna, but you have that entertainment factor as well.",
+      "zh": "桑拿有各种惊人的健康益处，同时也兼具娱乐性。"
+    },
+    {
+      "id": 194,
+      "startMs": 962820,
+      "endMs": 966020,
+      "en": "So you kind of—it takes the mind off the heat as well.",
+      "zh": "所以它也能让人暂时忘记高温。"
+    },
+    {
+      "id": 195,
+      "startMs": 966020,
+      "endMs": 968020,
+      "en": "You're listening to The Happy Pod.",
+      "zh": "你正在收听《快乐播客》。"
+    },
+    {
+      "id": 196,
+      "startMs": 968660,
+      "endMs": 972420,
+      "en": "A woman in Wales has received a life-saving kidney transplant.",
+      "zh": "威尔士一名女子接受了挽救生命的肾脏移植。"
+    },
+    {
+      "id": 197,
+      "startMs": 972420,
+      "endMs": 975460,
+      "en": "Her plea on social media found a donor match.",
+      "zh": "她在社交媒体上的求助找到了匹配的捐赠者。"
+    },
+    {
+      "id": 198,
+      "startMs": 975940,
+      "endMs": 978340,
+      "en": "In her post, 41-year-old Karen Davey said",
+      "zh": "41岁的凯伦·戴维在帖子中说，"
+    },
+    {
+      "id": 199,
+      "startMs": 978340,
+      "endMs": 981220,
+      "en": "that she didn't want to leave her family without a mother.",
+      "zh": "她不想让家人失去母亲。"
+    },
+    {
+      "id": 200,
+      "startMs": 981700,
+      "endMs": 987300,
+      "en": "But luckily, a man called Gary Summerfield contacted her and turned out to be a match.",
+      "zh": "但幸运的是，一名叫加里·萨默菲尔德的男子联系了她，结果与她匹配。"
+    },
+    {
+      "id": 201,
+      "startMs": 987780,
+      "endMs": 989700,
+      "en": "Matt Murray has been to meet them.",
+      "zh": "马特·默里去见了他们。"
+    },
+    {
+      "id": 202,
+      "startMs": 989780,
+      "endMs": 993300,
+      "en": "They were strangers, but now they'll forever have a bond.",
+      "zh": "他们曾是陌生人，但如今将永远有一份纽带。"
+    },
+    {
+      "id": 203,
+      "startMs": 994140,
+      "endMs": 998620,
+      "en": "Gary Summerfield meets Karen for the first time since the transplant.",
+      "zh": "加里·萨默菲尔德在移植手术后首次与凯伦见面。"
+    },
+    {
+      "id": 204,
+      "startMs": 999100,
+      "endMs": 1006700,
+      "en": "Gary saw Karen's emotional Facebook plea for a living kidney donor and immediately volunteered to be tested.",
+      "zh": "加里看到凯伦在 Facebook 上为寻找活体肾脏捐赠者发出的情感求助后，立即自愿接受检测。"
+    },
+    {
+      "id": 205,
+      "startMs": 1007020,
+      "endMs": 1011420,
+      "en": "She had posted that she did not want to leave her family without a mother.",
+      "zh": "她发帖说，不想让家人失去母亲。"
+    },
+    {
+      "id": 206,
+      "startMs": 1011820,
+      "endMs": 1015580,
+      "en": "My main thing is the kids. I want to be around for the kids.",
+      "zh": "我最在意的是孩子们。我想陪在孩子们身边。"
+    },
+    {
+      "id": 207,
+      "startMs": 1015740,
+      "endMs": 1019420,
+      "en": "The fact that somebody came forward and has gone through all the testing",
+      "zh": "有人站出来并完成了全部检测，"
+    },
+    {
+      "id": 208,
+      "startMs": 1019660,
+      "endMs": 1023180,
+      "en": "because it's a lot of testing, I was just amazed.",
+      "zh": "而检测项目很多，我真的非常惊讶。"
+    },
+    {
+      "id": 209,
+      "startMs": 1023500,
+      "endMs": 1027420,
+      "en": "And Gary, it was the Facebook post which really struck home with you, wasn't it?",
+      "zh": "加里，真正触动你的是那篇 Facebook 帖子，对吗？"
+    },
+    {
+      "id": 210,
+      "startMs": 1027740,
+      "endMs": 1029980,
+      "en": "That's right. Karen being a very similar age",
+      "zh": "没错。凯伦和我的女儿年龄相仿，"
+    },
+    {
+      "id": 211,
+      "startMs": 1029980,
+      "endMs": 1032460,
+      "en": "to my daughter, and she mentioned the children.",
+      "zh": "而且她提到了孩子们。"
+    },
+    {
+      "id": 212,
+      "startMs": 1032460,
+      "endMs": 1037400,
+      "en": "And I thought, if I was my daughter, I would be searching high and low",
+      "zh": "我就想，如果那是我的女儿，我一定会四处寻找，"
+    },
+    {
+      "id": 213,
+      "startMs": 1037400,
+      "endMs": 1040120,
+      "en": "if we'd exhausted all avenues through the family and friends.",
+      "zh": "如果家人和朋友的所有途径都已经用尽。"
+    },
+    {
+      "id": 214,
+      "startMs": 1040360,
+      "endMs": 1044760,
+      "en": "And I just thought this lady needs one of my kidneys more than I need two of them.",
+      "zh": "我只是觉得，这位女士比我更需要我的两个肾中的一个。"
+    },
+    {
+      "id": 215,
+      "startMs": 1045480,
+      "endMs": 1049800,
+      "en": "Ten years ago, the mother of four from Brynna underwent a heart transplant",
+      "zh": "十年前，来自布林纳、育有四个孩子的凯伦接受了心脏移植，"
+    },
+    {
+      "id": 216,
+      "startMs": 1050040,
+      "endMs": 1053400,
+      "en": "after having a heart attack at 31 years of age.",
+      "zh": "此前她31岁时曾心脏病发作。"
+    },
+    {
+      "id": 217,
+      "startMs": 1053880,
+      "endMs": 1061240,
+      "en": "Patients must take anti-rejection drugs daily following the operation so their bodies do not attack the new organ",
+      "zh": "患者术后必须每天服用抗排斥药物，以免身体攻击新器官，"
+    },
+    {
+      "id": 218,
+      "startMs": 1061560,
+      "endMs": 1063320,
+      "en": "but they can damage the kidneys.",
+      "zh": "但这些药物可能损伤肾脏。"
+    },
+    {
+      "id": 219,
+      "startMs": 1063720,
+      "endMs": 1067560,
+      "en": "And Karen always knew she'd need another life-saving transplant.",
+      "zh": "凯伦一直知道自己还需要另一场挽救生命的移植手术。"
+    },
+    {
+      "id": 220,
+      "startMs": 1068040,
+      "endMs": 1071960,
+      "en": "They'd been deteriorating for a few years, probably about three years ago now.",
+      "zh": "病情已经恶化了几年，大概从三年前开始。"
+    },
+    {
+      "id": 221,
+      "startMs": 1072280,
+      "endMs": 1077000,
+      "en": "They said I was in stage three kidney failure, and it just gradually went from there.",
+      "zh": "他们说我处于三期肾衰竭，病情就这样逐渐发展下去。"
+    },
+    {
+      "id": 222,
+      "startMs": 1077480,
+      "endMs": 1082760,
+      "en": "Gary underwent extensive assessments for over a year and, at 60 years of age,",
+      "zh": "加里接受了为期一年多的全面评估；他60岁时，"
+    },
+    {
+      "id": 223,
+      "startMs": 1083000,
+      "endMs": 1085960,
+      "en": "he underwent the six-hour procedure in July.",
+      "zh": "于今年7月接受了这场持续六小时的手术。"
+    },
+    {
+      "id": 224,
+      "startMs": 1086680,
+      "endMs": 1092520,
+      "en": "So I thought I'm going to go for this. Like it would be selfish of me to want someone to come forward for my family",
+      "zh": "所以我想，我要接受这件事。若只希望有人为我的家人站出来，而不为凯伦着想，那就太自私了。"
+    },
+    {
+      "id": 225,
+      "startMs": 1092760,
+      "endMs": 1095260,
+      "en": "yet not be willing to think about doing it for Karen.",
+      "zh": "自己却不愿意考虑为凯伦这样做。"
+    },
+    {
+      "id": 226,
+      "startMs": 1096140,
+      "endMs": 1099260,
+      "en": "It's up there with getting married and having my children.",
+      "zh": "这和结婚、生孩子一样，是人生最重要的事情。"
+    },
+    {
+      "id": 227,
+      "startMs": 1100620,
+      "endMs": 1104380,
+      "en": "Seeing Karen like this, yeah, yeah, you know, donate my kidney to her, yeah.",
+      "zh": "看到凯伦这样，是的，是的，你知道，把我的肾捐给她，是的。"
+    },
+    {
+      "id": 228,
+      "startMs": 1104380,
+      "endMs": 1106380,
+      "en": "Yeah, it's up there with the top three for me.",
+      "zh": "是的，这对我来说是人生前三重要的事。"
+    },
+    {
+      "id": 229,
+      "startMs": 1106700,
+      "endMs": 1109020,
+      "en": "Very deserving lady, deserving family.",
+      "zh": "非常值得帮助的女士，值得帮助的家庭。"
+    },
+    {
+      "id": 230,
+      "startMs": 1109420,
+      "endMs": 1112160,
+      "en": "I would go through it again—no hesitation, no hesitation.",
+      "zh": "我愿意再经历一次，毫不犹豫，毫不犹豫。"
+    },
+    {
+      "id": 231,
+      "startMs": 1112800,
+      "endMs": 1119360,
+      "en": "With the average wait for a kidney transplant around three years, Karen felt she didn't have that time",
+      "zh": "肾脏移植的平均等待时间约为三年，凯伦觉得自己没有那么多时间，"
+    },
+    {
+      "id": 232,
+      "startMs": 1119600,
+      "endMs": 1124400,
+      "en": "mentally to be able to handle the stresses that transplant brings.",
+      "zh": "心理上无法承受移植带来的压力。"
+    },
+    {
+      "id": 233,
+      "startMs": 1124400,
+      "endMs": 1130560,
+      "en": "Karen's husband Matthew and her 17-year-old son Brandon say they will always be grateful to Gary.",
+      "zh": "凯伦的丈夫马修和17岁的儿子布兰登说，他们永远感激加里。"
+    },
+    {
+      "id": 234,
+      "startMs": 1130560,
+      "endMs": 1133840,
+      "en": "Everyone knows what's going on in the world at the moment.",
+      "zh": "每个人都知道此刻世界正在发生什么。"
+    },
+    {
+      "id": 235,
+      "startMs": 1133840,
+      "endMs": 1138640,
+      "en": "It's a horrible place at times, but it really does give you hope",
+      "zh": "世界有时很糟糕，但这确实给人希望，"
+    },
+    {
+      "id": 236,
+      "startMs": 1138720,
+      "endMs": 1143120,
+      "en": "that there is kindness in the world and you just got to look.",
+      "zh": "让人看到世界上仍有善意。"
+    },
+    {
+      "id": 237,
+      "startMs": 1143760,
+      "endMs": 1147120,
+      "en": "You know, and the kindness will come to you and it is just mind-blowing.",
+      "zh": "你知道，善意会来到你身边，这真的令人难以置信。"
+    },
+    {
+      "id": 238,
+      "startMs": 1147520,
+      "endMs": 1154160,
+      "en": "You know, and we'll never ever be able to repay Gary and the family for what they've done, and just giving Karen another chance.",
+      "zh": "你知道，我们永远无法偿还加里和他的家人为我们所做的一切，以及他们给凯伦的又一次机会。"
+    },
+    {
+      "id": 239,
+      "startMs": 1154720,
+      "endMs": 1161200,
+      "en": "It can be scary, obviously, when she's going into surgeries and stuff like that, but have hope.",
+      "zh": "她要接受手术等治疗时，显然会让人害怕，但要抱有希望。"
+    },
+    {
+      "id": 240,
+      "startMs": 1161600,
+      "endMs": 1163040,
+      "en": "Well, it's just an amazing feeling.",
+      "zh": "这真是一种奇妙的感觉。"
+    },
+    {
+      "id": 241,
+      "startMs": 1163520,
+      "endMs": 1167280,
+      "en": "Like you just know there's still good people out there.",
+      "zh": "你就是知道，世上仍有善良的人。"
+    },
+    {
+      "id": 242,
+      "startMs": 1167280,
+      "endMs": 1170000,
+      "en": "A lovely surprise has come through the post for Gary.",
+      "zh": "一份可爱的惊喜通过邮寄送到了加里手中。"
+    },
+    {
+      "id": 243,
+      "startMs": 1170020,
+      "endMs": 1174340,
+      "en": "It shows Karen the pin badge he's been presented with for being a living donor,",
+      "zh": "加里获授活体捐赠者徽章，他把这枚徽章给凯伦看，"
+    },
+    {
+      "id": 244,
+      "startMs": 1174740,
+      "endMs": 1178340,
+      "en": "but it's the gift of life which is the real reward for both.",
+      "zh": "但对他们两人来说，生命之礼才是真正的回报。"
+    },
+    {
+      "id": 245,
+      "startMs": 1179300,
+      "endMs": 1181140,
+      "en": "That report was from Matt Murray.",
+      "zh": "以上报道来自马特·默里。"
+    },
+    {
+      "id": 246,
+      "startMs": 1182020,
+      "endMs": 1185860,
+      "en": "Our next story is about a sauna with a difference.",
+      "zh": "我们的下一则报道讲的是一种与众不同的桑拿。"
+    },
+    {
+      "id": 247,
+      "startMs": 1186180,
+      "endMs": 1194660,
+      "en": "An Aufguss sauna is a multisensory ritual that uses sound, heat, lights, and even towel-based choreography.",
+      "zh": "Aufguss 桑拿是一种多感官仪式，运用声音、热力、灯光，甚至毛巾编排。"
+    },
+    {
+      "id": 248,
+      "startMs": 1195060,
+      "endMs": 1198500,
+      "en": "It's all designed to take the sweaty participants on a journey.",
+      "zh": "这一切都是为了带领汗流浃背的参与者踏上一段旅程。"
+    },
+    {
+      "id": 249,
+      "startMs": 1199060,
+      "endMs": 1206820,
+      "en": "The Aufguss World Championships has just taken place in Germany, and my colleague Celia Hatton has been speaking to one of the jurors, Deborah Carr.",
+      "zh": "Aufguss 世界锦标赛刚刚在德国举行，我的同事西莉亚·哈顿采访了评委之一黛博拉·卡尔。"
+    },
+    {
+      "id": 250,
+      "startMs": 1206980,
+      "endMs": 1210260,
+      "en": "It's growing globally and growing super, super fast.",
+      "zh": "它正在全球范围内迅速发展，速度非常快。"
+    },
+    {
+      "id": 251,
+      "startMs": 1210260,
+      "endMs": 1217700,
+      "en": "It's gone from something that we never even heard of sort of four or five years ago to something that's been embraced really well.",
+      "zh": "大约四五年前我们甚至从未听说过它，如今它已经广受欢迎。"
+    },
+    {
+      "id": 252,
+      "startMs": 1218500,
+      "endMs": 1223540,
+      "en": "Amazing. I mean, the first thought that came to mind when I started understanding what it was is—",
+      "zh": "真奇妙。我开始了解它时，脑海里的第一个想法是——"
+    },
+    {
+      "id": 253,
+      "startMs": 1223780,
+      "endMs": 1232420,
+      "en": "Isn't it uncomfortable for the performers to have to pull off something in a really hot, essentially very hot, sweaty box?",
+      "zh": "表演者要在一个非常炎热、实际上是滚烫又汗湿的箱子里完成表演，不会不舒服吗？"
+    },
+    {
+      "id": 254,
+      "startMs": 1233540,
+      "endMs": 1238260,
+      "en": "Yeah, it is a hot, sweaty box, and no, it's not uncomfortable at all.",
+      "zh": "是的，那是个炎热、汗湿的箱子；但不，一点也不难受。"
+    },
+    {
+      "id": 255,
+      "startMs": 1238340,
+      "endMs": 1242980,
+      "en": "It's part of their job and their role, and it's something that they do on a daily basis.",
+      "zh": "这是他们工作和职责的一部分，也是他们每天都会做的事。"
+    },
+    {
+      "id": 256,
+      "startMs": 1242980,
+      "endMs": 1247940,
+      "en": "So it's a little bit like a spa in that you build an endurance and your tolerance to the heat.",
+      "zh": "这有点像水疗，因为你会逐渐增强耐力和对高温的耐受力。"
+    },
+    {
+      "id": 257,
+      "startMs": 1248100,
+      "endMs": 1252500,
+      "en": "So tell me about some of the performances that did really well over this past weekend.",
+      "zh": "请告诉我一些上周末表现特别出色的表演。"
+    },
+    {
+      "id": 258,
+      "startMs": 1252660,
+      "endMs": 1263220,
+      "en": "It's amazing because it really allows the creative juices, if you like, to flow from the Aufguss masters, because what we want to see is them creating their own stories.",
+      "zh": "这很奇妙，因为它能让 Aufguss 大师充分发挥创意，创作出属于他们自己的故事。"
+    },
+    {
+      "id": 259,
+      "startMs": 1263540,
+      "endMs": 1265700,
+      "en": "And something that they've made themselves.",
+      "zh": "这些故事都是他们亲自创作的。"
+    },
+    {
+      "id": 260,
+      "startMs": 1266100,
+      "endMs": 1277620,
+      "en": "So it makes it really interesting because we've had stories from childhood to the team story this year was about an orphan who had an imaginary friend.",
+      "zh": "所以这非常有趣：故事题材从童年经历，到今年团队讲述的一个关于孤儿和想象中朋友的故事。"
+    },
+    {
+      "id": 261,
+      "startMs": 1278180,
+      "endMs": 1283700,
+      "en": "To stories about the savannah, to adaptations of movies and books.",
+      "zh": "还有关于热带草原的故事，以及改编自电影和书籍的作品。"
+    },
+    {
+      "id": 262,
+      "startMs": 1283700,
+      "endMs": 1287620,
+      "en": "So it's very wide, very varied and very creative.",
+      "zh": "所以题材非常广泛、多样，也很有创意。"
+    },
+    {
+      "id": 263,
+      "startMs": 1287620,
+      "endMs": 1297800,
+      "en": "Hmm. So how do the participants use the elements inside—the sauna, the heat, the steam—to build on the stories that they're trying to tell?",
+      "zh": "嗯。那么，参与者如何利用桑拿房里的元素——桑拿、热力和蒸汽——来展开他们要讲的故事？"
+    },
+    {
+      "id": 264,
+      "startMs": 1297960,
+      "endMs": 1301240,
+      "en": "So what they do is they try to make the story really immersive.",
+      "zh": "他们会努力让故事变得非常身临其境。"
+    },
+    {
+      "id": 265,
+      "startMs": 1301720,
+      "endMs": 1305080,
+      "en": "One of the things that is obviously the heat, but also is smell.",
+      "zh": "其中一个元素显然是热力，另一个则是气味。"
+    },
+    {
+      "id": 266,
+      "startMs": 1305160,
+      "endMs": 1310520,
+      "en": "So they use a lot of essential oils and aromas that help take us on that journey.",
+      "zh": "他们会使用许多精油和香气，帮助我们踏上那段旅程。"
+    },
+    {
+      "id": 267,
+      "startMs": 1310520,
+      "endMs": 1313480,
+      "en": "So they can kind of smell the journey as well.",
+      "zh": "这样一来，我们仿佛也能闻到旅程的气息。"
+    },
+    {
+      "id": 268,
+      "startMs": 1313800,
+      "endMs": 1317640,
+      "en": "It's very theatrical. So the sauna masters will wear a costume.",
+      "zh": "它非常戏剧化，桑拿大师会穿上戏服。"
+    },
+    {
+      "id": 269,
+      "startMs": 1318040,
+      "endMs": 1323000,
+      "en": "There'll be sounds and lights. Sometimes there's a screen in these big saunas as well.",
+      "zh": "现场会有声音和灯光；有时这些大型桑拿房里还会有屏幕。"
+    },
+    {
+      "id": 270,
+      "startMs": 1323000,
+      "endMs": 1328920,
+      "en": "So there's almost like a movie backdrop to it as well. So it becomes like almost like a 360 experience.",
+      "zh": "那里几乎像有电影背景一样，因此几乎成了一种 360 度的体验。"
+    },
+    {
+      "id": 271,
+      "startMs": 1328920,
+      "endMs": 1332760,
+      "en": "Wow. I mean, some people might say they just want to relax when they go to a sauna.",
+      "zh": "哇。我想，有些人去桑拿只是想放松。"
+    },
+    {
+      "id": 272,
+      "startMs": 1332760,
+      "endMs": 1334840,
+      "en": "Why do you think this is so popular?",
+      "zh": "你觉得它为什么这么受欢迎？"
+    },
+    {
+      "id": 273,
+      "startMs": 1335240,
+      "endMs": 1342920,
+      "en": "Because it is quite relaxing because you have all the amazing health benefits of being in the sauna, but you have that entertainment factor as well.",
+      "zh": "因为它相当放松；桑拿有各种惊人的健康益处，同时还兼具娱乐性。"
+    },
+    {
+      "id": 274,
+      "startMs": 1343000,
+      "endMs": 1345880,
+      "en": "So you kind of—it takes the mind off the heat as well.",
+      "zh": "所以某种程度上，它也能让人暂时忘却炎热。"
+    },
+    {
+      "id": 275,
+      "startMs": 1346920,
+      "endMs": 1349400,
+      "en": "Deborah Carr speaking to Celia Hatton.",
+      "zh": "黛博拉·卡尔接受西莉亚·哈顿采访。"
+    },
+    {
+      "id": 276,
+      "startMs": 1349640,
+      "endMs": 1357580,
+      "en": "We end in China where a six-year-old girl has made history with a Rubik's Cube. Kerry Allen has the details.",
+      "zh": "我们在中国的报道中收尾：一名六岁女孩凭借魔方创造了历史。凯莉·艾伦带来详情。"
+    },
+    {
+      "id": 277,
+      "startMs": 1357900,
+      "endMs": 1365660,
+      "en": "Earlier this week, a six-year-old girl from China made international headlines for breaking a world record twice in the space of three days.",
+      "zh": "本周早些时候，一名来自中国的六岁女孩登上国际新闻头条，在三天内两次打破世界纪录。"
+    },
+    {
+      "id": 278,
+      "startMs": 1368300,
+      "endMs": 1370620,
+      "en": "\"Look how big my trophy is,\" you can hear her saying.",
+      "zh": "你可以听到她说：“看我的奖杯有多大。”"
+    },
+    {
+      "id": 279,
+      "startMs": 1371180,
+      "endMs": 1375180,
+      "en": "This is Lian Yunzhi, who's from Chengdu in China's southwest Sichuan province.",
+      "zh": "这是来自中国西南部四川省成都市的 Lian Yunzhi。"
+    },
+    {
+      "id": 280,
+      "startMs": 1375420,
+      "endMs": 1380300,
+      "en": "She's now broken the women's world record for solving a standard Rubik's Cube,",
+      "zh": "她如今打破了标准魔方女子世界纪录，"
+    },
+    {
+      "id": 281,
+      "startMs": 1380380,
+      "endMs": 1384460,
+      "en": "with average times of 4.52 seconds and 4.27 seconds.",
+      "zh": "两次平均成绩分别为4.52秒和4.27秒。"
+    },
+    {
+      "id": 282,
+      "startMs": 1391080,
+      "endMs": 1395080,
+      "en": "These took place at two different World Cube Association events in China.",
+      "zh": "这两次成绩分别出现在中国举办的两场世界魔方协会赛事中。"
+    },
+    {
+      "id": 283,
+      "startMs": 1395720,
+      "endMs": 1401720,
+      "en": "Lian has become the only female competitor in the world with an average time of solving the cube in under 4.5 seconds.",
+      "zh": "Lian 成为全球唯一一名平均解出魔方用时低于 4.5 秒的女子选手。"
+    },
+    {
+      "id": 284,
+      "startMs": 1403080,
+      "endMs": 1407400,
+      "en": "And she has mastered more than 1,300 different solving algorithms.",
+      "zh": "她还掌握了超过 1,300 种不同的解法公式。"
+    },
+    {
+      "id": 285,
+      "startMs": 1408080,
+      "endMs": 1411520,
+      "en": "She first began learning how to use the Rubik's Cube when she was four years old.",
+      "zh": "她四岁时开始学习如何玩魔方。"
+    },
+    {
+      "id": 286,
+      "startMs": 1411760,
+      "endMs": 1419600,
+      "en": "After her parents bought her one as a gift, her mum told local media that around this time she enrolled little Zhizhi, as her daughter is known.",
+      "zh": "父母把魔方作为礼物买给她后，她的母亲告诉当地媒体，大约就在那时，她给小名芝芝的女儿报名参加了各种活动。"
+    },
+    {
+      "id": 287,
+      "startMs": 1419920,
+      "endMs": 1425200,
+      "en": "In lots of different activities, seeing if she was interested in dancing or musical instruments.",
+      "zh": "参加许多不同的活动，看看她是否对舞蹈或乐器感兴趣。"
+    },
+    {
+      "id": 288,
+      "startMs": 1425520,
+      "endMs": 1431520,
+      "en": "But the Rubik's Cube soon became a favourite toy, and she started spending two to three hours a day playing with one.",
+      "zh": "但魔方很快成了她最喜欢的玩具，她开始每天花两到三小时玩魔方。"
+    },
+    {
+      "id": 289,
+      "startMs": 1432080,
+      "endMs": 1436800,
+      "en": "By the time she had turned five, she was able to solve the Rubik's Cube in under 10 seconds.",
+      "zh": "五岁时，她已经能在 10 秒内还原魔方。"
+    },
+    {
+      "id": 290,
+      "startMs": 1436800,
+      "endMs": 1439600,
+      "en": "Her skills have gone down a storm with her classmates.",
+      "zh": "她的本领在同学中大受欢迎。"
+    },
+    {
+      "id": 291,
+      "startMs": 1445480,
+      "endMs": 1449160,
+      "en": "Lian has been competing in speedcubing events across China since 2024.",
+      "zh": "自 2024 年起，Lian 一直参加中国各地的速拧赛事。"
+    },
+    {
+      "id": 292,
+      "startMs": 1449160,
+      "endMs": 1454520,
+      "en": "Her wins this month are the third and fourth time she has broken the world record.",
+      "zh": "她本月的两次夺冠，是她第三次和第四次打破世界纪录。"
+    },
+    {
+      "id": 293,
+      "startMs": 1455240,
+      "endMs": 1459640,
+      "en": "So she's definitely become one to watch in the world of Rubik's Cube-solving prodigies.",
+      "zh": "所以，在魔方速解天才的世界里，她绝对值得关注。"
+    },
+    {
+      "id": 294,
+      "startMs": 1460280,
+      "endMs": 1462360,
+      "en": "But she's amongst fierce competition in China.",
+      "zh": "不过，她在中国也面临着激烈的竞争。"
+    },
+    {
+      "id": 295,
+      "startMs": 1462760,
+      "endMs": 1468040,
+      "en": "If you're a long-term listener of the Global News Podcast and The Happy Pod, you might remember back in 2023.",
+      "zh": "如果你长期收听《全球新闻播客》和《快乐播客》，或许还记得 2023 年的那则报道。"
+    },
+    {
+      "id": 296,
+      "startMs": 1468040,
+      "endMs": 1475960,
+      "en": "The story was about Cao Qixian, who at the time was age six, and she set the women's world record then at 5.97 seconds.",
+      "zh": "报道讲的是曹岂娴；当时她六岁，以 5.97 秒创造了女子世界纪录。"
+    },
+    {
+      "id": 297,
+      "startMs": 1476040,
+      "endMs": 1483880,
+      "en": "A Chinese boy also holds the world record for the fastest overall average, which is recorded from five different attempts.",
+      "zh": "一名中国男孩还保持着最快总平均成绩的世界纪录，该成绩取自五次不同的尝试。"
+    },
+    {
+      "id": 298,
+      "startMs": 1484440,
+      "endMs": 1488040,
+      "en": "An average time of 3.51 seconds has become the speed to beat.",
+      "zh": "3.51 秒的平均成绩成了有待超越的标准。"
+    },
+    {
+      "id": 299,
+      "startMs": 1488440,
+      "endMs": 1491640,
+      "en": "And this was set earlier this year by 12-year-old Wang Yiheng.",
+      "zh": "这一成绩由 12 岁的王艺衡于今年早些时候创造。"
+    },
+    {
+      "id": 300,
+      "startMs": 1491880,
+      "endMs": 1493480,
+      "en": "Kerry Allen reporting.",
+      "zh": "凯莉·艾伦报道。"
+    },
+    {
+      "id": 301,
+      "startMs": 1498960,
+      "endMs": 1501600,
+      "en": "And that's all from The Happy Pod for now.",
+      "zh": "以上就是本期《快乐播客》的全部内容。"
+    },
+    {
+      "id": 302,
+      "startMs": 1501920,
+      "endMs": 1503840,
+      "en": "We'd love to hear from you, as ever.",
+      "zh": "和往常一样，我们期待听到你的来信。"
+    },
+    {
+      "id": 303,
+      "startMs": 1503840,
+      "endMs": 1507120,
+      "en": "The address is globalpodcast@bbc.co.uk.",
+      "zh": "邮箱地址是 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 304,
+      "startMs": 1508080,
+      "endMs": 1510640,
+      "en": "The editor of this edition is Karen Martin.",
+      "zh": "本期编辑是凯伦·马丁。"
+    },
+    {
+      "id": 305,
+      "startMs": 1511200,
+      "endMs": 1513760,
+      "en": "I am Holly Gibbs. Until next time, goodbye.",
+      "zh": "我是霍莉·吉布斯。下期再见。"
+    }
+  ]
+}
