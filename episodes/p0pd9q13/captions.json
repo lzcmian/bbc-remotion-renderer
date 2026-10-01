@@ -1,0 +1,2090 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "1 October 2026"
+  },
+  "durationMs": 1586821,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 4480,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是BBC世界服务的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 7120,
+      "endMs": 13120,
+      "en": "I'm Charlotte Gallagher, and in the early hours of Thursday, the 1st of October, these are our main stories.",
+      "zh": "我是夏洛特·加拉格尔。10月1日星期四凌晨，以下是本节目的主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 13520,
+      "endMs": 18080,
+      "en": "Passengers on a flight to Israel describe how they overpowered the co-pilot",
+      "zh": "一架飞往以色列的航班上，乘客讲述了他们如何制服副驾驶；"
+    },
+    {
+      "id": 4,
+      "startMs": 18400,
+      "endMs": 22640,
+      "en": "after he stabbed the pilot and apparently tried to crash the plane.",
+      "zh": "这名副驾驶刺伤机长后，显然试图让飞机坠毁。"
+    },
+    {
+      "id": 5,
+      "startMs": 23120,
+      "endMs": 27760,
+      "en": "And new data shows Switzerland's glaciers lost more than 5%",
+      "zh": "新数据显示，瑞士冰川今年损失了超过5%的冰量，"
+    },
+    {
+      "id": 6,
+      "startMs": 27760,
+      "endMs": 31040,
+      "en": "of their ice this year as a result of climate change.",
+      "zh": "原因是气候变化。"
+    },
+    {
+      "id": 7,
+      "startMs": 34180,
+      "endMs": 40260,
+      "en": "Also in this podcast, how adults and children use different senses to perceive emotions,",
+      "zh": "本期还将讨论，成年人和儿童如何用不同感官感知情绪，"
+    },
+    {
+      "id": 8,
+      "startMs": 40740,
+      "endMs": 45700,
+      "en": "and why AI has resurrected the Hollywood actress Greta Garbo.",
+      "zh": "以及人工智能为何让好莱坞女演员葛丽泰·嘉宝重现。"
+    },
+    {
+      "id": 9,
+      "startMs": 46100,
+      "endMs": 49060,
+      "en": "Zero friction, remarkable speed.",
+      "zh": "零摩擦，速度惊人。"
+    },
+    {
+      "id": 10,
+      "startMs": 50740,
+      "endMs": 54500,
+      "en": "We look at the ethics of so-called ghostploitation.",
+      "zh": "我们将探讨所谓“亡灵剥削”的伦理问题。"
+    },
+    {
+      "id": 11,
+      "startMs": 59580,
+      "endMs": 65180,
+      "en": "Israeli passengers who were caught up in terrifying scenes on a flight from Dubai to Tel Aviv",
+      "zh": "在从迪拜飞往特拉维夫的航班上经历恐怖场面的以色列乘客，"
+    },
+    {
+      "id": 12,
+      "startMs": 65180,
+      "endMs": 68940,
+      "en": "have made an emotional return home to Ben Gurion Airport.",
+      "zh": "激动地返回了本·古里安机场。"
+    },
+    {
+      "id": 13,
+      "startMs": 69420,
+      "endMs": 74140,
+      "en": "The co-pilot stabbed the pilot and apparently attempted to crash the plane,",
+      "zh": "副驾驶刺伤机长，并显然试图让飞机坠毁；"
+    },
+    {
+      "id": 14,
+      "startMs": 74460,
+      "endMs": 77580,
+      "en": "which plummeted 5,000 metres in 2 minutes.",
+      "zh": "飞机在两分钟内骤降5000米。"
+    },
+    {
+      "id": 15,
+      "startMs": 78140,
+      "endMs": 84380,
+      "en": "Passengers then stormed the cockpit to subdue the attacker, and the plane was safely diverted to Saudi Arabia",
+      "zh": "随后乘客冲进驾驶舱制服袭击者，飞机在安全转向沙特阿拉伯；"
+    },
+    {
+      "id": 16,
+      "startMs": 84460,
+      "endMs": 86780,
+      "en": "by off-duty pilots who were on the flight.",
+      "zh": "由同机的休班飞行员操控。"
+    },
+    {
+      "id": 17,
+      "startMs": 87420,
+      "endMs": 92540,
+      "en": "The co-pilot who launched the attack has been arrested and is being questioned by Saudi authorities.",
+      "zh": "发动袭击的副驾驶已被逮捕，正接受沙特当局讯问。"
+    },
+    {
+      "id": 18,
+      "startMs": 92860,
+      "endMs": 96300,
+      "en": "The injured pilot is reported to be in a stable condition in hospital,",
+      "zh": "据报道，受伤机长在医院情况稳定，"
+    },
+    {
+      "id": 19,
+      "startMs": 96860,
+      "endMs": 99420,
+      "en": "but there are still many unanswered questions.",
+      "zh": "但仍有许多问题没有答案。"
+    },
+    {
+      "id": 20,
+      "startMs": 99580,
+      "endMs": 106860,
+      "en": "No information has been released about the identity of the attacker or how he was able to have access to a weapon on board.",
+      "zh": "目前尚未公布袭击者身份，也不清楚他如何能够在机上接触到武器。"
+    },
+    {
+      "id": 21,
+      "startMs": 107340,
+      "endMs": 110540,
+      "en": "Our correspondent Yoav Zitun reports from Tel Aviv.",
+      "zh": "本台记者约阿夫·齐顿从特拉维夫发回报道。"
+    },
+    {
+      "id": 22,
+      "startMs": 115340,
+      "endMs": 120620,
+      "en": "In Tel Aviv, families began arriving at the airport once they were told their loved ones",
+      "zh": "在特拉维夫，得知亲人即将从沙特回国后，家属开始抵达机场；"
+    },
+    {
+      "id": 23,
+      "startMs": 120780,
+      "endMs": 122940,
+      "en": "were on their way home from Saudi Arabia.",
+      "zh": "亲人正在从沙特返家。"
+    },
+    {
+      "id": 24,
+      "startMs": 123660,
+      "endMs": 128140,
+      "en": "When the passengers landed, Israel's Prime Minister Benjamin Netanyahu met them.",
+      "zh": "乘客抵达后，以色列总理本雅明·内塔尼亚胡接见了他们。"
+    },
+    {
+      "id": 25,
+      "startMs": 128700,
+      "endMs": 134540,
+      "en": "Some of them said the pilot who was stabbed managed to open the cockpit door despite his injuries.",
+      "zh": "一些乘客说，被刺伤的机长尽管身负伤势，仍设法打开了驾驶舱门。"
+    },
+    {
+      "id": 26,
+      "startMs": 135100,
+      "endMs": 139340,
+      "en": "Israel has identified him as Indian national Smit Machchhar.",
+      "zh": "以色列确认他是印度籍人士斯米特·马奇哈尔。"
+    },
+    {
+      "id": 27,
+      "startMs": 140220,
+      "endMs": 144620,
+      "en": "Finally, late in the evening, the passengers came out of the airport.",
+      "zh": "当天深夜，乘客终于走出机场。"
+    },
+    {
+      "id": 28,
+      "startMs": 151400,
+      "endMs": 157000,
+      "en": "Asaf Rajwan, who tackled the attacker, got a hero's welcome. I didn't think about it.",
+      "zh": "制服袭击者的阿萨夫·拉伊万受到英雄般的欢迎。“我当时没有想太多。”"
+    },
+    {
+      "id": 29,
+      "startMs": 157480,
+      "endMs": 160520,
+      "en": "It's, you know, it's just something that you do without thinking,",
+      "zh": "这就是一种下意识的行动，"
+    },
+    {
+      "id": 30,
+      "startMs": 160920,
+      "endMs": 163320,
+      "en": "just run into there and save your daughter's life,",
+      "zh": "冲进去，救下你女儿的性命，"
+    },
+    {
+      "id": 31,
+      "startMs": 163720,
+      "endMs": 166920,
+      "en": "your family, wife, and all the people in the plane.",
+      "zh": "以及你的家人、妻子和飞机上的所有人。"
+    },
+    {
+      "id": 32,
+      "startMs": 166920,
+      "endMs": 169240,
+      "en": "You don't think, you don't think, you just act.",
+      "zh": "你不会思考，不会多想，只会行动。"
+    },
+    {
+      "id": 33,
+      "startMs": 169800,
+      "endMs": 174120,
+      "en": "Moti Kona, another passenger, described his terrifying experience.",
+      "zh": "另一名乘客莫蒂·科纳讲述了自己的恐怖经历。"
+    },
+    {
+      "id": 34,
+      "startMs": 175100,
+      "endMs": 180460,
+      "en": "In my life, I've never seen death pass before my eyes. It was a frightening situation.",
+      "zh": "我这辈子从未见过死亡从眼前掠过，那是令人恐惧的处境。"
+    },
+    {
+      "id": 35,
+      "startMs": 180700,
+      "endMs": 185420,
+      "en": "The plane was swerving from side to side. At one stage, there were no pilots.",
+      "zh": "飞机左右摇摆。有一度，驾驶舱里没有飞行员。"
+    },
+    {
+      "id": 36,
+      "startMs": 185660,
+      "endMs": 188860,
+      "en": "One was neutralized and the other was in shock.",
+      "zh": "一人被制服，另一人陷入震惊。"
+    },
+    {
+      "id": 37,
+      "startMs": 190520,
+      "endMs": 193080,
+      "en": "Today there is much joy and celebration here.",
+      "zh": "今天这里充满喜悦和庆祝。"
+    },
+    {
+      "id": 38,
+      "startMs": 193560,
+      "endMs": 196360,
+      "en": "Tomorrow a search for answers must begin.",
+      "zh": "明天必须开始寻找答案。"
+    },
+    {
+      "id": 39,
+      "startMs": 197740,
+      "endMs": 202540,
+      "en": "The attack has prompted strong political reaction ahead of a hugely consequential election",
+      "zh": "这起袭击引发了强烈的政治反应，而以色列本月晚些时候将举行一场影响重大的选举；"
+    },
+    {
+      "id": 40,
+      "startMs": 202620,
+      "endMs": 204140,
+      "en": "in Israel later this month.",
+      "zh": "选举将在本月晚些时候举行。"
+    },
+    {
+      "id": 41,
+      "startMs": 204620,
+      "endMs": 210860,
+      "en": "As I heard from our Middle East specialist Sebastian Usher, the Israeli Prime Minister Benjamin Netanyahu was on the ropes.",
+      "zh": "正如我从中东事务专家塞巴斯蒂安·厄舍尔那里听到的，以色列总理本雅明·内塔尼亚胡正处于困境。"
+    },
+    {
+      "id": 42,
+      "startMs": 211020,
+      "endMs": 215980,
+      "en": "He'd always presented himself as Mr. Security, and of course, on his watch, the 7th of October happened.",
+      "zh": "他一直把自己塑造成“安全先生”，当然，在他的任期内发生了10月7日事件。"
+    },
+    {
+      "id": 43,
+      "startMs": 216300,
+      "endMs": 219180,
+      "en": "He has not allowed an independent investigation to take place.",
+      "zh": "他一直没有允许展开独立调查。"
+    },
+    {
+      "id": 44,
+      "startMs": 219180,
+      "endMs": 224700,
+      "en": "A lot of pressure from his rivals to do that, so he was in a difficult situation.",
+      "zh": "他的对手施加了很大压力要求调查，因此他处境艰难。"
+    },
+    {
+      "id": 45,
+      "startMs": 224860,
+      "endMs": 229100,
+      "en": "I think this makes the situation easier for now, at least. Obviously, it's a diversion.",
+      "zh": "我认为至少目前这让局势变得容易应对一些。显然，这是一种转移注意力。"
+    },
+    {
+      "id": 46,
+      "startMs": 229580,
+      "endMs": 233340,
+      "en": "It had nothing to do with him, but it ended well as far as Israel is concerned.",
+      "zh": "这与他毫无关系，但就以色列而言，结果是好的。"
+    },
+    {
+      "id": 47,
+      "startMs": 233340,
+      "endMs": 237660,
+      "en": "But he will benefit from that. This could have been a terrible disaster, obviously.",
+      "zh": "但他会从中受益。显然，这本可能是一场可怕的灾难。"
+    },
+    {
+      "id": 48,
+      "startMs": 238060,
+      "endMs": 244620,
+      "en": "And I think the messaging that he's trying to get across and his supporters trying to get across came through when he was at the airport.",
+      "zh": "我认为，他和支持者试图传达的信息，在他出现在机场时已经传达出来。"
+    },
+    {
+      "id": 49,
+      "startMs": 244620,
+      "endMs": 247980,
+      "en": "He was meeting the Israelis who were on the plane when they came back.",
+      "zh": "飞机上的以色列乘客回来时，他正在机场迎接他们。"
+    },
+    {
+      "id": 50,
+      "startMs": 248460,
+      "endMs": 260960,
+      "en": "And one of them, the passenger who says that he was one of those who was able to get into the cockpit and wrestle with the co-pilot, even said he took control of the plane briefly.",
+      "zh": "其中一名乘客说，自己是设法进入驾驶舱并与副驾驶搏斗的人之一；他甚至说自己曾短暂控制飞机。"
+    },
+    {
+      "id": 51,
+      "startMs": 261280,
+      "endMs": 263600,
+      "en": "He'd seen how to do it on TV.",
+      "zh": "他是在电视上看到过操作方法。"
+    },
+    {
+      "id": 52,
+      "startMs": 264000,
+      "endMs": 269280,
+      "en": "He greeted Mr. Netanyahu and was greeted by the Israeli prime minister as kind of equals",
+      "zh": "他向内塔尼亚胡先生致意，以色列总理也像对待平等的人一样回应他；"
+    },
+    {
+      "id": 53,
+      "startMs": 269520,
+      "endMs": 276400,
+      "en": "and used the same phraseology that Mr. Netanyahu has used a lot—that he rose like a lion essentially to the challenge—",
+      "zh": "他还使用了内塔尼亚胡经常使用的说法：他像狮子一样迎接挑战；"
+    },
+    {
+      "id": 54,
+      "startMs": 276720,
+      "endMs": 281600,
+      "en": "and this is something that echoes what Mr. Netanyahu used just last week at the UN General Assembly",
+      "zh": "这呼应了内塔尼亚胡上周在联合国大会上使用的话；"
+    },
+    {
+      "id": 55,
+      "startMs": 281840,
+      "endMs": 289280,
+      "en": "and very much in support of his strategy that Israel must not stop its fight until it's defeated its enemies.",
+      "zh": "也非常支持他的战略：以色列必须继续战斗，直到击败敌人。"
+    },
+    {
+      "id": 56,
+      "startMs": 289600,
+      "endMs": 294160,
+      "en": "He's received criticism from political rivals, but he's making political capital out of this.",
+      "zh": "他受到政治对手的批评，但也在借此积累政治资本。"
+    },
+    {
+      "id": 57,
+      "startMs": 294720,
+      "endMs": 300080,
+      "en": "The opposition leader Yair Lapid said that what happened with this flight",
+      "zh": "反对党领袖亚伊尔·拉皮德说，这趟航班发生的事"
+    },
+    {
+      "id": 58,
+      "startMs": 300480,
+      "endMs": 305680,
+      "en": "had nothing to do with what Mr. Netanyahu warned about a day ago, when he said there might be a major attack.",
+      "zh": "与内塔尼亚胡先生一天前警告可能发生重大袭击毫无关系。"
+    },
+    {
+      "id": 59,
+      "startMs": 305680,
+      "endMs": 308400,
+      "en": "He said you can't use it this way. This was different.",
+      "zh": "他的意思是不能这样利用这件事。这完全是另一回事。"
+    },
+    {
+      "id": 60,
+      "startMs": 308400,
+      "endMs": 313200,
+      "en": "You did not say this was going to happen, so don't try and play it up as if it was.",
+      "zh": "你并没有说这会发生，所以别把它说得好像真是那回事。"
+    },
+    {
+      "id": 61,
+      "startMs": 313680,
+      "endMs": 317280,
+      "en": "And they're now talking about more stringent checks for pilots.",
+      "zh": "他们现在还在讨论加强对飞行员的检查。"
+    },
+    {
+      "id": 62,
+      "startMs": 317540,
+      "endMs": 322020,
+      "en": "And cabin crew going to Israel, because going there as a passenger, you go through a lot of checks.",
+      "zh": "前往以色列的机组人员也会受到关注，因为乘客前往那里要经过多重检查。"
+    },
+    {
+      "id": 63,
+      "startMs": 322260,
+      "endMs": 327220,
+      "en": "But presumably they'll now tighten the checks they carry out on staff. One hundred percent.",
+      "zh": "但现在他们可能会收紧对机组人员的检查，百分之百会这样。"
+    },
+    {
+      "id": 64,
+      "startMs": 327300,
+      "endMs": 334100,
+      "en": "I mean, I think, you know, we know that if you're travelling on an Israeli airline, it's incredibly stringent.",
+      "zh": "我的意思是，如果你乘坐以色列航空公司的航班，安检会极其严格。"
+    },
+    {
+      "id": 65,
+      "startMs": 334100,
+      "endMs": 337300,
+      "en": "They have air marshals; they have probably the highest security in the world.",
+      "zh": "他们配有空警，安保水平可能是世界最高的。"
+    },
+    {
+      "id": 66,
+      "startMs": 337700,
+      "endMs": 341860,
+      "en": "The issue is planes that are carrying Israelis but are not Israeli planes.",
+      "zh": "问题在于，有些飞机载着以色列人，却不是以色列的飞机。"
+    },
+    {
+      "id": 67,
+      "startMs": 342100,
+      "endMs": 344660,
+      "en": "You don't have the same stringent security now.",
+      "zh": "这些飞机目前没有同样严格的安保。"
+    },
+    {
+      "id": 68,
+      "startMs": 344980,
+      "endMs": 350180,
+      "en": "Obviously, Israel does have, you know, as much control as it can over that, but it doesn't have final say.",
+      "zh": "显然，以色列会尽可能加以控制，但它没有最终决定权。"
+    },
+    {
+      "id": 69,
+      "startMs": 350580,
+      "endMs": 355060,
+      "en": "So what has been announced by the Israeli authorities is they're going to try.",
+      "zh": "所以，以色列当局宣布，他们会尝试这样做。"
+    },
+    {
+      "id": 70,
+      "startMs": 355060,
+      "endMs": 360980,
+      "en": "I don't know quite how they're going to do it, but bring that sort of level of control into non-Israeli airlines as well.",
+      "zh": "我不太清楚他们会怎么做，但会把这种程度的管控也带到非以色列航空公司。"
+    },
+    {
+      "id": 71,
+      "startMs": 360980,
+      "endMs": 365860,
+      "en": "I think that will be very difficult: you can't put air marshals on every plane going there.",
+      "zh": "我认为这会很困难，因为不可能在每架飞往那里的飞机上都安排空警等人员。"
+    },
+    {
+      "id": 72,
+      "startMs": 366260,
+      "endMs": 371940,
+      "en": "And as you say, focusing on the air crew as well, more perhaps than before.",
+      "zh": "正如你所说，他们也会比以前更加关注机组人员。"
+    },
+    {
+      "id": 73,
+      "startMs": 372420,
+      "endMs": 376900,
+      "en": "But I think across the political divide in Israel there's unity about",
+      "zh": "但我认为，在以色列的政治阵营之间，大家都同意"
+    },
+    {
+      "id": 74,
+      "startMs": 377320,
+      "endMs": 384760,
+      "en": "praising the passengers on board as great heroes, and that security needs to be increased,",
+      "zh": "应该称赞机上乘客是英雄，并加强安保，"
+    },
+    {
+      "id": 75,
+      "startMs": 385240,
+      "endMs": 389320,
+      "en": "but division over how this is going to play out politically.",
+      "zh": "但对于政治上会如何发展，大家存在分歧。"
+    },
+    {
+      "id": 76,
+      "startMs": 389640,
+      "endMs": 395160,
+      "en": "As I say, Netanyahu's political rivals can see that this is doing him good at the moment.",
+      "zh": "正如我所说，内塔尼亚胡的政治对手看得出，这件事目前对他有利。"
+    },
+    {
+      "id": 77,
+      "startMs": 395480,
+      "endMs": 399160,
+      "en": "This could potentially see him over the line. We'll have to see.",
+      "zh": "这可能帮助他越过胜选门槛，但还要拭目以待。"
+    },
+    {
+      "id": 78,
+      "startMs": 399640,
+      "endMs": 406360,
+      "en": "Sebastian Usher. New data reveals Switzerland's glaciers suffered a near-record loss of ice",
+      "zh": "塞巴斯蒂安·厄舍尔。新数据显示，瑞士冰川的冰量损失接近历史纪录，"
+    },
+    {
+      "id": 79,
+      "startMs": 406360,
+      "endMs": 411480,
+      "en": "this year as intense summer heat waves led to unusually rapid melting.",
+      "zh": "今年夏季的强烈热浪导致冰层异常快速消融。"
+    },
+    {
+      "id": 80,
+      "startMs": 411560,
+      "endMs": 416920,
+      "en": "The figures from Glacier Monitoring Switzerland have been called devastating by experts.",
+      "zh": "瑞士冰川监测机构的数据被专家称为灾难性的。"
+    },
+    {
+      "id": 81,
+      "startMs": 417160,
+      "endMs": 419640,
+      "en": "Our correspondent Imogen Foulkes told us more.",
+      "zh": "我们的记者伊莫金·福尔克斯为我们详细介绍。"
+    },
+    {
+      "id": 82,
+      "startMs": 419640,
+      "endMs": 427720,
+      "en": "The key findings for this year are that the glaciers have lost another five and a half percent of their volume.",
+      "zh": "今年的主要发现是，冰川体积又减少了百分之五点五。"
+    },
+    {
+      "id": 83,
+      "startMs": 428040,
+      "endMs": 433720,
+      "en": "That's almost the same. We had a record loss in 2022, close to 6%.",
+      "zh": "这几乎相同。2022年的损失创下纪录，接近百分之六。"
+    },
+    {
+      "id": 84,
+      "startMs": 434520,
+      "endMs": 442200,
+      "en": "And if you look at the last five years, these glaciers have lost 20%, a fifth of their volume.",
+      "zh": "过去五年里，这些冰川损失了百分之二十，也就是体积的五分之一。"
+    },
+    {
+      "id": 85,
+      "startMs": 442520,
+      "endMs": 447400,
+      "en": "And the bigger ones this year, your listeners might know the Rhône Glacier or the Aletsch,",
+      "zh": "至于今年较大的冰川，听众可能知道罗讷冰川或阿莱奇冰川，"
+    },
+    {
+      "id": 86,
+      "startMs": 447880,
+      "endMs": 453800,
+      "en": "this summer, with these successive heat waves, they have lost more than ever.",
+      "zh": "它们在今年夏天经历连续热浪，损失的冰量超过以往。"
+    },
+    {
+      "id": 87,
+      "startMs": 453880,
+      "endMs": 458520,
+      "en": "Now some people might be saying, well, why does that really matter?",
+      "zh": "有人可能会问，山顶上的冰，这真的有什么关系？"
+    },
+    {
+      "id": 88,
+      "startMs": 458600,
+      "endMs": 460200,
+      "en": "Ice on the top of a mountain.",
+      "zh": "不过是山顶上的冰而已。"
+    },
+    {
+      "id": 89,
+      "startMs": 460600,
+      "endMs": 465240,
+      "en": "I've been talking to Matthias Huss, who's the head of glacier monitoring here in Switzerland.",
+      "zh": "我采访了马蒂亚斯·胡斯，他是瑞士冰川监测部门负责人。"
+    },
+    {
+      "id": 90,
+      "startMs": 465720,
+      "endMs": 468120,
+      "en": "The long-term consequence is water shortage.",
+      "zh": "长期后果将是缺水。"
+    },
+    {
+      "id": 91,
+      "startMs": 468120,
+      "endMs": 474360,
+      "en": "We're not seeing it now because we're still getting a lot of water from the glaciers during these heat waves.",
+      "zh": "我们现在还没有看到这种情况，因为热浪期间冰川仍会释放大量水。"
+    },
+    {
+      "id": 92,
+      "startMs": 474760,
+      "endMs": 482360,
+      "en": "But if you repeat the same year 20 years from now, it will be much more critical in terms of water availability",
+      "zh": "但如果二十年后再出现同样的一年，水资源供应将变得严峻得多，"
+    },
+    {
+      "id": 93,
+      "startMs": 482520,
+      "endMs": 484840,
+      "en": "for irrigation, the food supply.",
+      "zh": "影响灌溉和粮食供应。"
+    },
+    {
+      "id": 94,
+      "startMs": 484840,
+      "endMs": 491640,
+      "en": "It's also all the transportation chains; nuclear power plants sometimes need to close down",
+      "zh": "交通运输链也会受到影响；核电站有时不得不关闭，"
+    },
+    {
+      "id": 95,
+      "startMs": 491960,
+      "endMs": 494200,
+      "en": "because the streams simply don't have enough water.",
+      "zh": "因为溪流里的水实在不够。"
+    },
+    {
+      "id": 96,
+      "startMs": 494380,
+      "endMs": 497580,
+      "en": "So it's really changing the whole situation.",
+      "zh": "所以，这确实正在改变整个局面。"
+    },
+    {
+      "id": 97,
+      "startMs": 497900,
+      "endMs": 502220,
+      "en": "Imagine the Alps are known for glaciers, but what could the future look like?",
+      "zh": "想想看，阿尔卑斯山以冰川闻名，但未来会是什么样？"
+    },
+    {
+      "id": 98,
+      "startMs": 502860,
+      "endMs": 509660,
+      "en": "Well, this is actually the thing that everybody in this part of the world is asking themselves.",
+      "zh": "这正是这一地区每个人都在问自己的问题。"
+    },
+    {
+      "id": 99,
+      "startMs": 509740,
+      "endMs": 513900,
+      "en": "Just two weeks ago, I drove up over the Alps from Italy.",
+      "zh": "就在两周前，我从意大利驾车翻越了阿尔卑斯山。"
+    },
+    {
+      "id": 100,
+      "startMs": 514220,
+      "endMs": 517660,
+      "en": "It's a trip I do almost every year in September,",
+      "zh": "我几乎每年九月都会走这趟路，"
+    },
+    {
+      "id": 101,
+      "startMs": 518060,
+      "endMs": 524540,
+      "en": "and this is the first time I have seen no snow, no ice, everything grey.",
+      "zh": "但这是我第一次看到没有雪、没有冰，一切都是灰色的。"
+    },
+    {
+      "id": 102,
+      "startMs": 524940,
+      "endMs": 534460,
+      "en": "Now Matthias Huss spends every year from June till September way up in the high Alps measuring the ice.",
+      "zh": "马蒂亚斯·胡斯每年六月到九月都会深入高山阿尔卑斯测量冰层。"
+    },
+    {
+      "id": 103,
+      "startMs": 534860,
+      "endMs": 539100,
+      "en": "This year he found a really different landscape.",
+      "zh": "今年，他发现了截然不同的景观。"
+    },
+    {
+      "id": 104,
+      "startMs": 539580,
+      "endMs": 544860,
+      "en": "I've just visited a large plateau that is now completely devoid of ice.",
+      "zh": "我刚参观了一片如今完全没有冰的巨大高原。"
+    },
+    {
+      "id": 105,
+      "startMs": 545100,
+      "endMs": 548060,
+      "en": "It's a moon landscape, dry and dead.",
+      "zh": "那里像月球表面，干燥而死寂。"
+    },
+    {
+      "id": 106,
+      "startMs": 548780,
+      "endMs": 554220,
+      "en": "There are some little remnants, some ice blocks still lying around and melting there on the hot rocks.",
+      "zh": "还有一些残留物，冰块仍散落在炙热的岩石上融化。"
+    },
+    {
+      "id": 107,
+      "startMs": 554800,
+      "endMs": 561040,
+      "en": "And interestingly, also the vegetation is coming back and trying to recolonize these deserts.",
+      "zh": "有趣的是，植被也在恢复，试图重新占据这些荒地。"
+    },
+    {
+      "id": 108,
+      "startMs": 561280,
+      "endMs": 564160,
+      "en": "So it's a shifting of the elevation boundaries.",
+      "zh": "所以，海拔边界正在发生位移。"
+    },
+    {
+      "id": 109,
+      "startMs": 564320,
+      "endMs": 567600,
+      "en": "The ice is getting lost and the vegetation is rising.",
+      "zh": "冰层正在消失，植被则向更高处扩展。"
+    },
+    {
+      "id": 110,
+      "startMs": 568000,
+      "endMs": 574320,
+      "en": "There we go, beautiful views that we all know about in the Alps, but these views are changing.",
+      "zh": "阿尔卑斯山那些美丽的景色仍在眼前，但景色正在改变。"
+    },
+    {
+      "id": 111,
+      "startMs": 574480,
+      "endMs": 582320,
+      "en": "And as we heard there from Matthias Huss, from the report published today, the consequences are going to be much more",
+      "zh": "正如我们从马蒂亚斯·胡斯和今天发布的报告中听到的，后果将远不止"
+    },
+    {
+      "id": 112,
+      "startMs": 582560,
+      "endMs": 586240,
+      "en": "than the postcards we send home from holiday in the Alps. The Alps are changing.",
+      "zh": "我们从阿尔卑斯山度假时寄回家的明信片所展现的。阿尔卑斯山正在改变。"
+    },
+    {
+      "id": 113,
+      "startMs": 586560,
+      "endMs": 593540,
+      "en": "Imogen Foulkes. The X2 roller coaster at California's Six Flags Magic Mountain theme park",
+      "zh": "伊莫金·福尔克斯。加州六旗魔术山主题公园的X2过山车"
+    },
+    {
+      "id": 114,
+      "startMs": 593780,
+      "endMs": 598500,
+      "en": "has been one of America's most popular rides, but it's now closing for good",
+      "zh": "曾是美国最受欢迎的游乐设施之一，但如今将永久关闭，"
+    },
+    {
+      "id": 115,
+      "startMs": 598740,
+      "endMs": 604420,
+      "en": "after more than 100 people came forward alleging they suffered brain injuries after riding it.",
+      "zh": "此前有超过100人站出来，称乘坐后遭受脑部损伤。"
+    },
+    {
+      "id": 116,
+      "startMs": 604900,
+      "endMs": 612100,
+      "en": "The park said the roller coaster had passed a range of safety tests, but conceded that visitors had lost confidence in the attraction.",
+      "zh": "公园方面称，这座过山车通过了一系列安全测试，但承认游客已经对这项游乐设施失去了信心。"
+    },
+    {
+      "id": 117,
+      "startMs": 612500,
+      "endMs": 615460,
+      "en": "CNN journalist Kyung Lah has been investigating.",
+      "zh": "CNN记者Kyung Lah一直在进行调查。"
+    },
+    {
+      "id": 118,
+      "startMs": 615940,
+      "endMs": 621300,
+      "en": "What the families or the victims themselves have described is that they have gone into the hospital.",
+      "zh": "家属或受害者本人描述说，他们曾经住进医院。"
+    },
+    {
+      "id": 119,
+      "startMs": 621460,
+      "endMs": 627060,
+      "en": "They had their skulls cut open, and their lawyers say that it was connected.",
+      "zh": "他们的头骨被切开，而他们的律师称，这与过山车有关。"
+    },
+    {
+      "id": 120,
+      "startMs": 627220,
+      "endMs": 630500,
+      "en": "They believe it was connected to this ride, three people that I saw.",
+      "zh": "他们认为这与这项游乐设施有关；我见到了其中三个人。"
+    },
+    {
+      "id": 121,
+      "startMs": 630820,
+      "endMs": 635780,
+      "en": "One was very small and young. The other woman was a little larger and ten years older.",
+      "zh": "一个人年纪很小，也很年轻；另一位女性稍年长一些，大了十岁。"
+    },
+    {
+      "id": 122,
+      "startMs": 635780,
+      "endMs": 640340,
+      "en": "So we have a 25-year-old woman, one who is 39, and then an older gentleman, probably in his sixties.",
+      "zh": "所以，一位是25岁的女性，另一位是39岁，还有一位年长男士，大概六十多岁。"
+    },
+    {
+      "id": 123,
+      "startMs": 640420,
+      "endMs": 647380,
+      "en": "And he was quite larger. So three very different types of people, different bodies and different ages.",
+      "zh": "而那位男士身材相当高大。三个人的体型和年龄都很不相同。"
+    },
+    {
+      "id": 124,
+      "startMs": 648120,
+      "endMs": 651400,
+      "en": "America correspondent Shaimaa Khalil told us more about the ride.",
+      "zh": "美国记者Shaimaa Khalil向我们进一步介绍了这项游乐设施。"
+    },
+    {
+      "id": 125,
+      "startMs": 651800,
+      "endMs": 657960,
+      "en": "You only have to look at YouTube: people filming themselves as they're sitting on those seats that rotate 360 degrees.",
+      "zh": "只要看看YouTube就知道了：人们拍下自己坐在那些会旋转360度的座椅上的画面。"
+    },
+    {
+      "id": 126,
+      "startMs": 657960,
+      "endMs": 661560,
+      "en": "They've been pulled backwards in that beginning of the ride.",
+      "zh": "在游乐设施启动时，他们会被向后拉。"
+    },
+    {
+      "id": 127,
+      "startMs": 661960,
+      "endMs": 667240,
+      "en": "And then cut into the, you know, the money shot of them plunging down head first.",
+      "zh": "随后进入那个你知道的精彩镜头：他们头朝下俯冲而下。"
+    },
+    {
+      "id": 128,
+      "startMs": 667560,
+      "endMs": 672200,
+      "en": "In some cases, lawyers have mentioned some needing emergency brain surgery.",
+      "zh": "律师提到，在一些案例中，有人需要接受紧急脑部手术。"
+    },
+    {
+      "id": 129,
+      "startMs": 672200,
+      "endMs": 675640,
+      "en": "You mentioned the 100 riders alleging brain injuries.",
+      "zh": "你提到了100名声称遭受脑部损伤的乘客。"
+    },
+    {
+      "id": 130,
+      "startMs": 675640,
+      "endMs": 681880,
+      "en": "But one law firm bringing several cases against the park said it was contacted by over 400 people.",
+      "zh": "但一家针对该公园提起多起诉讼的律师事务所称，有超过400人联系过他们。"
+    },
+    {
+      "id": 131,
+      "startMs": 682280,
+      "endMs": 685640,
+      "en": "They reported broader injuries they say are connected to the ride.",
+      "zh": "这些人报告了更广泛的伤情，并称伤情与这项游乐设施有关。"
+    },
+    {
+      "id": 132,
+      "startMs": 685640,
+      "endMs": 694680,
+      "en": "And while the lawyers have said their clients welcome the closure, it has come too late for some of them. This has been going on for a while.",
+      "zh": "律师们说，他们的客户欢迎关停，但对其中一些人来说，这来得太晚了。这种情况已经持续一段时间了。"
+    },
+    {
+      "id": 133,
+      "startMs": 694680,
+      "endMs": 701160,
+      "en": "We know of one family of a 22-year-old who died after riding the X2 about two years ago.",
+      "zh": "我们知道，有一个家庭的22岁家人在大约两年前乘坐X2后去世。"
+    },
+    {
+      "id": 134,
+      "startMs": 701160,
+      "endMs": 705640,
+      "en": "They had just settled a wrongful death case with the park in August.",
+      "zh": "他们直到8月才与公园就这起过失致死案达成和解。"
+    },
+    {
+      "id": 135,
+      "startMs": 705720,
+      "endMs": 712300,
+      "en": "So it has been going on for a while. Troubles with that very popular ride.",
+      "zh": "所以，这已经持续一段时间了，是那项非常受欢迎的游乐设施出了问题。"
+    },
+    {
+      "id": 136,
+      "startMs": 712380,
+      "endMs": 719260,
+      "en": "The park said they recognize that trust in that particular ride has just been dented.",
+      "zh": "公园方面称，他们认识到，游客对这项游乐设施的信任已经受损。"
+    },
+    {
+      "id": 137,
+      "startMs": 719260,
+      "endMs": 723180,
+      "en": "It's been affected, and they've taken that very seriously.",
+      "zh": "信任受到了影响，而他们对此高度重视。"
+    },
+    {
+      "id": 138,
+      "startMs": 723500,
+      "endMs": 728780,
+      "en": "They did reiterate: this is a very popular ride. It has passed a range of safety tests.",
+      "zh": "他们确实再次强调：这是一项非常受欢迎的游乐设施，也通过了一系列安全测试。"
+    },
+    {
+      "id": 139,
+      "startMs": 729100,
+      "endMs": 735340,
+      "en": "I would say, though, that we're talking about permanently closing that ride.",
+      "zh": "不过我想说的是，我们谈论的是永久关闭这项游乐设施。"
+    },
+    {
+      "id": 140,
+      "startMs": 735340,
+      "endMs": 740620,
+      "en": "It had been under investigation since July, so it's been closed since July.",
+      "zh": "它从7月起就一直在接受调查，因此也从7月起关闭。"
+    },
+    {
+      "id": 141,
+      "startMs": 740620,
+      "endMs": 747580,
+      "en": "After reports of two riders suffering brain haemorrhages, California safety regulatory officials have been investigating.",
+      "zh": "在有报道称两名乘客出现脑出血后，加州安全监管官员一直在调查。"
+    },
+    {
+      "id": 142,
+      "startMs": 747820,
+      "endMs": 753900,
+      "en": "The park says that 16 million people have ridden the X2 since it was relaunched in 2008.",
+      "zh": "公园方面称，自X2于2008年重新开放以来，已有1600万人乘坐过。"
+    },
+    {
+      "id": 143,
+      "startMs": 753900,
+      "endMs": 761260,
+      "en": "So yes, it's very popular. Yes, it's really an adrenaline rush and a real favourite among enthusiasts.",
+      "zh": "所以，它确实非常受欢迎。它确实令人肾上腺素飙升，也是爱好者的最爱。"
+    },
+    {
+      "id": 144,
+      "startMs": 761340,
+      "endMs": 765100,
+      "en": "But lawyers say some clients had gone in for a thrill.",
+      "zh": "但律师说，一些客户原本只是为了寻求刺激。"
+    },
+    {
+      "id": 145,
+      "startMs": 765100,
+      "endMs": 770640,
+      "en": "But they've suffered catastrophic brain injuries, and these are the things that are still ongoing.",
+      "zh": "但他们遭受了灾难性的脑部损伤，而这些情况仍在持续。"
+    },
+    {
+      "id": 146,
+      "startMs": 770640,
+      "endMs": 773520,
+      "en": "That have led to the permanent closure. Shaimaa Khalil.",
+      "zh": "这些情况最终导致了永久关停。Shaimaa Khalil报道。"
+    },
+    {
+      "id": 147,
+      "startMs": 773920,
+      "endMs": 777520,
+      "en": "Next, it's one of the most famous lines in cinema.",
+      "zh": "接下来，这是电影史上最著名的台词之一。"
+    },
+    {
+      "id": 148,
+      "startMs": 778460,
+      "endMs": 784540,
+      "en": "I want to be alone. Where have you been? I suppose I can cancel the Vienna contract.",
+      "zh": "我想一个人待着。你去哪儿了？我想我可以取消维也纳的合同。"
+    },
+    {
+      "id": 149,
+      "startMs": 785200,
+      "endMs": 789200,
+      "en": "I just want to be alone. You're going to be very much alone, my dear madam. This is the end.",
+      "zh": "我只是想一个人待着。你会彻底孤独的，亲爱的女士。这就是结局。"
+    },
+    {
+      "id": 150,
+      "startMs": 790280,
+      "endMs": 793880,
+      "en": "Greta Garbo in the 1932 film Grand Hotel.",
+      "zh": "这是葛丽泰·嘉宝在1932年电影《大饭店》中的台词。"
+    },
+    {
+      "id": 151,
+      "startMs": 794360,
+      "endMs": 800680,
+      "en": "But now the star has gone from the golden age of Hollywood to the new age of artificial intelligence.",
+      "zh": "但如今，这位明星已经从好莱坞黄金时代走进了人工智能的新时代。"
+    },
+    {
+      "id": 152,
+      "startMs": 801080,
+      "endMs": 805160,
+      "en": "More than a century after her screen debut and decades after her death.",
+      "zh": "她首次登上银幕已有一个多世纪，去世也已有数十年。"
+    },
+    {
+      "id": 153,
+      "startMs": 805640,
+      "endMs": 810760,
+      "en": "An AI version of the actress has starred in an advertisement for ball bearings.",
+      "zh": "这位女演员的人工智能版本出演了一则滚珠轴承广告。"
+    },
+    {
+      "id": 154,
+      "startMs": 811240,
+      "endMs": 819160,
+      "en": "Zero friction, remarkable speed. And it can be paid for like it's 1919 with your energy savings.",
+      "zh": "零摩擦，速度惊人。而且你可以用节省的能源费用来支付，就像回到了1919年。"
+    },
+    {
+      "id": 155,
+      "startMs": 821420,
+      "endMs": 824700,
+      "en": "Now, if you don't mind, I want to be alone.",
+      "zh": "现在，如果你不介意的话，我想一个人待着。"
+    },
+    {
+      "id": 156,
+      "startMs": 826220,
+      "endMs": 832780,
+      "en": "The rationale behind the ad is that when alive, Garbo featured in a promotional film for the same company.",
+      "zh": "这则广告的依据是，嘉宝在世时曾出演过这家公司的宣传片。"
+    },
+    {
+      "id": 157,
+      "startMs": 833260,
+      "endMs": 840300,
+      "en": "But the reappearance of an actress who retired in her 30s and lived much of her life as a recluse has raised eyebrows.",
+      "zh": "但这位三十多岁便息影、人生大部分时间过着隐居生活的女演员再次出现，引发了质疑。"
+    },
+    {
+      "id": 158,
+      "startMs": 840860,
+      "endMs": 847980,
+      "en": "Other late stars have also been given the AI resurrection treatment, and it's been labelled by some as ghostploitation.",
+      "zh": "其他已故明星也接受了人工智能复活式处理，有人将其称为“亡灵剥削”。"
+    },
+    {
+      "id": 159,
+      "startMs": 848380,
+      "endMs": 856060,
+      "en": "Dominic Lees is an associate professor of filmmaking at Britain's Reading University who specialises in generative AI.",
+      "zh": "Dominic Lees是英国雷丁大学电影制作副教授，专门研究生成式人工智能。"
+    },
+    {
+      "id": 160,
+      "startMs": 856380,
+      "endMs": 862140,
+      "en": "He says it's an ethical dilemma. It's in a very murky legal zone.",
+      "zh": "他说，这是一个伦理困境，也处在非常模糊的法律地带。"
+    },
+    {
+      "id": 161,
+      "startMs": 862700,
+      "endMs": 870860,
+      "en": "The big questions are who controls us after we're dead, and law internationally is yet to work out those questions.",
+      "zh": "关键问题是：我们死后由谁控制我们，而国际法律还需要解决这些问题。"
+    },
+    {
+      "id": 162,
+      "startMs": 870940,
+      "endMs": 875820,
+      "en": "Who controls our voice, who controls our faces and our images?",
+      "zh": "谁控制我们的声音，谁控制我们的面孔和形象？"
+    },
+    {
+      "id": 163,
+      "startMs": 876140,
+      "endMs": 880380,
+      "en": "We've got a new situation in which a celebrity's estate",
+      "zh": "我们面临一种新情况：名人的遗产管理机构"
+    },
+    {
+      "id": 164,
+      "startMs": 880860,
+      "endMs": 886160,
+      "en": "No longer just handles the financial affairs and so on after their death.",
+      "zh": "在名人去世后，它不再只是处理财务事务等事宜。"
+    },
+    {
+      "id": 165,
+      "startMs": 886400,
+      "endMs": 892640,
+      "en": "But now controls their likeness and can deploy that for financial gain.",
+      "zh": "如今，它还控制名人的肖像，并可以将其用于谋取经济利益。"
+    },
+    {
+      "id": 166,
+      "startMs": 893200,
+      "endMs": 901120,
+      "en": "And that would not have been something that Greta Garbo was aware of when her executors were appointed.",
+      "zh": "而在她的遗嘱执行人获任命时，这并不是葛丽泰·嘉宝能够预见的事情。"
+    },
+    {
+      "id": 167,
+      "startMs": 901600,
+      "endMs": 906000,
+      "en": "This is a huge question for the creative industries and for performers.",
+      "zh": "这对创意产业和表演者来说是一个重大问题。"
+    },
+    {
+      "id": 168,
+      "startMs": 906400,
+      "endMs": 913040,
+      "en": "We found that in the UK, voice actors have lost 70 or 80% of their income in the last couple of years.",
+      "zh": "我们发现，在英国，配音演员过去几年收入减少了70%或80%。"
+    },
+    {
+      "id": 169,
+      "startMs": 913360,
+      "endMs": 916960,
+      "en": "Because of the advent of voice cloning.",
+      "zh": "原因是语音克隆技术的出现。"
+    },
+    {
+      "id": 170,
+      "startMs": 917440,
+      "endMs": 923520,
+      "en": "And now we're moving on to the point where an actor's likeness can be reproduced visually.",
+      "zh": "现在我们正走向这样一个阶段：演员的肖像可以被视觉化地复制。"
+    },
+    {
+      "id": 171,
+      "startMs": 923920,
+      "endMs": 927840,
+      "en": "So this is a new situation we're encountering. Dominic Lees.",
+      "zh": "所以，这是我们正在面对的新情况。多米尼克·利斯。"
+    },
+    {
+      "id": 172,
+      "startMs": 930620,
+      "endMs": 932540,
+      "en": "Still to come in this podcast.",
+      "zh": "本期播客接下来还有更多内容。"
+    },
+    {
+      "id": 173,
+      "startMs": 932940,
+      "endMs": 941420,
+      "en": "We see a strong, robust face with prominent brow ridges, but many features are remarkably similar to ours.",
+      "zh": "我们看到一张坚实、强健的面孔，眉脊突出，但许多特征与我们惊人地相似。"
+    },
+    {
+      "id": 174,
+      "startMs": 942060,
+      "endMs": 948380,
+      "en": "Scientists digitally reconstruct the face of a human from more than 300,000 years ago.",
+      "zh": "科学家用数字技术重建一名30多万年前人类的面貌。"
+    },
+    {
+      "id": 175,
+      "startMs": 948380,
+      "endMs": 950540,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 176,
+      "startMs": 951260,
+      "endMs": 956380,
+      "en": "Russia's president Vladimir Putin will deliver his annual foreign policy speech today.",
+      "zh": "俄罗斯总统弗拉基米尔·普京今天将发表年度外交政策演说。"
+    },
+    {
+      "id": 177,
+      "startMs": 956780,
+      "endMs": 960780,
+      "en": "It will be closely watched for any signs and signals from the Kremlin",
+      "zh": "人们将密切关注克里姆林宫释放的任何迹象和信号，"
+    },
+    {
+      "id": 178,
+      "startMs": 960780,
+      "endMs": 966620,
+      "en": "about its war on Ukraine and about escalating tensions between Moscow and Europe.",
+      "zh": "看它对乌克兰战争以及莫斯科与欧洲日益紧张关系的态度。"
+    },
+    {
+      "id": 179,
+      "startMs": 966940,
+      "endMs": 969660,
+      "en": "Our Russia editor Steve Rosenberg will be there in the hall.",
+      "zh": "我们的俄罗斯事务编辑史蒂夫·罗森伯格将在现场。"
+    },
+    {
+      "id": 180,
+      "startMs": 970060,
+      "endMs": 973580,
+      "en": "He says all signals point to the conflict continuing.",
+      "zh": "他说，所有信号都表明冲突仍将继续。"
+    },
+    {
+      "id": 181,
+      "startMs": 975460,
+      "endMs": 980740,
+      "en": "Down at the Russian parliament, the standing ovation for President Putin is expected.",
+      "zh": "在俄罗斯议会，人们预计会起立鼓掌欢迎普京总统。"
+    },
+    {
+      "id": 182,
+      "startMs": 981220,
+      "endMs": 989540,
+      "en": "After an election his critics say was neither free nor fair, his supporters dominate the new Duma.",
+      "zh": "在一场批评者称既不自由也不公正的选举后，他的支持者控制了新一届国家杜马。"
+    },
+    {
+      "id": 183,
+      "startMs": 989540,
+      "endMs": 995700,
+      "en": "But Putin knows that in Russia, he's the one who runs the show, not them.",
+      "zh": "但普京知道，在俄罗斯，真正掌控局面的是他，而不是他们。"
+    },
+    {
+      "id": 184,
+      "startMs": 996500,
+      "endMs": 1001620,
+      "en": "So what decisions will he take on Ukraine and on tensions with Europe?",
+      "zh": "那么，他将如何处理乌克兰问题和与欧洲的紧张关系？"
+    },
+    {
+      "id": 185,
+      "startMs": 1001620,
+      "endMs": 1005140,
+      "en": "Will there be olive branches or escalation?",
+      "zh": "局势会出现橄榄枝，还是升级？"
+    },
+    {
+      "id": 186,
+      "startMs": 1005820,
+      "endMs": 1010300,
+      "en": "This week, I've been searching for clues. Steve Rosenberg, BBC News.",
+      "zh": "本周我一直在寻找线索。史蒂夫·罗森伯格，BBC新闻。"
+    },
+    {
+      "id": 187,
+      "startMs": 1010300,
+      "endMs": 1016540,
+      "en": "Clue number one, my brief encounter with Russia's foreign minister.",
+      "zh": "线索一：我与俄罗斯外交部长的短暂会面。"
+    },
+    {
+      "id": 188,
+      "startMs": 1016540,
+      "endMs": 1019260,
+      "en": "He doesn't sound very conciliatory.",
+      "zh": "他的语气听起来并不友善。"
+    },
+    {
+      "id": 189,
+      "startMs": 1020060,
+      "endMs": 1026300,
+      "en": "When I ask Sergey Lavrov, is Russia waging a hybrid war on Europe, he doesn't deny it.",
+      "zh": "我问谢尔盖·拉夫罗夫，俄罗斯是否在对欧洲发动混合战争；他没有否认。"
+    },
+    {
+      "id": 190,
+      "startMs": 1026300,
+      "endMs": 1028860,
+      "en": "By hybrid war, do you mean Russia",
+      "zh": "你所说的混合战争，是指俄罗斯"
+    },
+    {
+      "id": 191,
+      "startMs": 1028940,
+      "endMs": 1038140,
+      "en": "destroying drones and missiles that Britain and Europe are supplying Ukraine with?",
+      "zh": "摧毁英国和欧洲提供给乌克兰的无人机和导弹吗？"
+    },
+    {
+      "id": 192,
+      "startMs": 1038140,
+      "endMs": 1043480,
+      "en": "He says, call it what you want: this is a war Europe is waging against us. No mention that Russia launched a full-scale invasion of Ukraine in 2022.",
+      "zh": "他说，你爱怎么称呼都行，这是欧洲对我们发动的战争。他没有提到，是俄罗斯在2022年发动了对乌克兰的全面入侵。"
+    },
+    {
+      "id": 193,
+      "startMs": 1043620,
+      "endMs": 1047340,
+      "en": "Mr Lavrov goes on to accuse the West",
+      "zh": "拉夫罗夫还指责西方"
+    },
+    {
+      "id": 194,
+      "startMs": 1047340,
+      "endMs": 1057340,
+      "en": "of using brute force in Venezuela,",
+      "zh": "在委内瑞拉使用武力，"
+    },
+    {
+      "id": 195,
+      "startMs": 1057500,
+      "endMs": 1059340,
+      "en": "in Iran.",
+      "zh": "以及在伊朗使用武力。"
+    },
+    {
+      "id": 196,
+      "startMs": 1059740,
+      "endMs": 1062780,
+      "en": "When I point out that Russia uses brute force every day in Ukraine,",
+      "zh": "当我指出俄罗斯每天都在乌克兰使用武力时，"
+    },
+    {
+      "id": 197,
+      "startMs": 1065840,
+      "endMs": 1068240,
+      "en": "he doesn't deny that either.",
+      "zh": "他同样没有否认。"
+    },
+    {
+      "id": 198,
+      "startMs": 1068320,
+      "endMs": 1072960,
+      "en": "He says it's to eliminate a direct threat to Russia.",
+      "zh": "他说，这是为了消除对俄罗斯的直接威胁。"
+    },
+    {
+      "id": 199,
+      "startMs": 1072960,
+      "endMs": 1081040,
+      "en": "Peace feels a long way away, especially after my next conversation.",
+      "zh": "和平感觉遥不可及，尤其是在我接下来的谈话之后。"
+    },
+    {
+      "id": 200,
+      "startMs": 1081440,
+      "endMs": 1086800,
+      "en": "We shall finish off Ukraine as a viable state sooner or later.",
+      "zh": "我们迟早会终结乌克兰作为一个可行国家的存在。"
+    },
+    {
+      "id": 201,
+      "startMs": 1086960,
+      "endMs": 1090960,
+      "en": "Sergey Karaganov is a veteran foreign policy strategist.",
+      "zh": "谢尔盖·卡拉加诺夫是一名资深外交政策战略家。"
+    },
+    {
+      "id": 202,
+      "startMs": 1091560,
+      "endMs": 1096680,
+      "en": "He's also honorary chairman of Russia's Council for Foreign and Defence Policy.",
+      "zh": "他还是俄罗斯外交与国防政策委员会的名誉主席。"
+    },
+    {
+      "id": 203,
+      "startMs": 1096920,
+      "endMs": 1099880,
+      "en": "We'll not occupy all over the territory of Ukraine.",
+      "zh": "我们不会占领整个乌克兰领土。"
+    },
+    {
+      "id": 204,
+      "startMs": 1100040,
+      "endMs": 1105880,
+      "en": "We'll create a no-fly and non-militarized zone, central and western parts of Ukraine.",
+      "zh": "我们将在乌克兰中部和西部建立禁飞区和非军事区。"
+    },
+    {
+      "id": 205,
+      "startMs": 1106120,
+      "endMs": 1109640,
+      "en": "And if they do not agree, they will suffer.",
+      "zh": "如果他们不同意，就会遭受苦难。"
+    },
+    {
+      "id": 206,
+      "startMs": 1110280,
+      "endMs": 1115000,
+      "en": "That's not acceptable to Kiev, it's not acceptable to Europe, and it seems not acceptable to America.",
+      "zh": "这对基辅不可接受，对欧洲不可接受，看来对美国也不可接受。"
+    },
+    {
+      "id": 207,
+      "startMs": 1115160,
+      "endMs": 1118440,
+      "en": "Well, that's a problem. Then we'll have to go further.",
+      "zh": "那么，这是个问题。我们就得进一步行动。"
+    },
+    {
+      "id": 208,
+      "startMs": 1119240,
+      "endMs": 1124680,
+      "en": "And according to my scenarios, the first series of blows will be conventional.",
+      "zh": "根据我的设想，第一轮打击将使用常规武器。"
+    },
+    {
+      "id": 209,
+      "startMs": 1125080,
+      "endMs": 1129960,
+      "en": "But if Europe does not surrender, then unfortunately we'll have to go nuclear.",
+      "zh": "但如果欧洲不投降，很遗憾，我们就不得不动用核武器。"
+    },
+    {
+      "id": 210,
+      "startMs": 1130200,
+      "endMs": 1133400,
+      "en": "There will be little left of some European countries.",
+      "zh": "一些欧洲国家将所剩无几。"
+    },
+    {
+      "id": 211,
+      "startMs": 1133560,
+      "endMs": 1140360,
+      "en": "We've heard nuclear sabre-rattling before from Moscow, and plenty of it over the last four and a half years.",
+      "zh": "过去我们听到过莫斯科的核威胁，最近四年半更是屡屡如此。"
+    },
+    {
+      "id": 212,
+      "startMs": 1141000,
+      "endMs": 1147000,
+      "en": "Much of it has felt like an attempt to scare Europe into scaling back support for Ukraine.",
+      "zh": "其中许多听起来像是在吓唬欧洲，让它减少对乌克兰的支持。"
+    },
+    {
+      "id": 213,
+      "startMs": 1147640,
+      "endMs": 1151080,
+      "en": "It comes and goes, but never disappears completely.",
+      "zh": "这种威胁时有时无，却从未完全消失。"
+    },
+    {
+      "id": 214,
+      "startMs": 1151740,
+      "endMs": 1156780,
+      "en": "This week, Russia sent a letter to NATO, threatening to use nuclear weapons",
+      "zh": "本周，俄罗斯致信北约，威胁要使用核武器，"
+    },
+    {
+      "id": 215,
+      "startMs": 1157180,
+      "endMs": 1162060,
+      "en": "if any attempt was made to cut off its Baltic exclave of Kaliningrad.",
+      "zh": "如果有人试图切断其波罗的海飞地加里宁格勒。"
+    },
+    {
+      "id": 216,
+      "startMs": 1162860,
+      "endMs": 1166220,
+      "en": "NATO's response: stop the nuclear threats.",
+      "zh": "北约回应：停止核威胁。"
+    },
+    {
+      "id": 217,
+      "startMs": 1166780,
+      "endMs": 1169660,
+      "en": "So there is no sign of de-escalation.",
+      "zh": "所以没有任何缓和迹象。"
+    },
+    {
+      "id": 218,
+      "startMs": 1170140,
+      "endMs": 1175100,
+      "en": "And yet so many Russians I speak to about the war and about tensions with Europe",
+      "zh": "然而，我谈到战争和与欧洲的紧张关系时，许多俄罗斯人"
+    },
+    {
+      "id": 219,
+      "startMs": 1175740,
+      "endMs": 1178780,
+      "en": "seem to want to pretend that none of this is happening.",
+      "zh": "似乎想假装这一切都没有发生。"
+    },
+    {
+      "id": 220,
+      "startMs": 1179260,
+      "endMs": 1180540,
+      "en": "People like Tatyana.",
+      "zh": "比如塔季扬娜。"
+    },
+    {
+      "id": 221,
+      "startMs": 1180860,
+      "endMs": 1189020,
+      "en": "The big part of nation don't want to think about this situation. They want to escape these thoughts.",
+      "zh": "这个国家的大多数人不想思考这种局面，他们想逃避这些念头。"
+    },
+    {
+      "id": 222,
+      "startMs": 1189740,
+      "endMs": 1197820,
+      "en": "And maybe it's easy way to live because we don't think this horrible time every day.",
+      "zh": "也许这样生活更容易，因为我们不必每天想着这段可怕的时期。"
+    },
+    {
+      "id": 223,
+      "startMs": 1197820,
+      "endMs": 1200540,
+      "en": "Back in the Duma, President Putin is about to finish his speech.",
+      "zh": "回到国家杜马，普京总统即将结束演说。"
+    },
+    {
+      "id": 224,
+      "startMs": 1200540,
+      "endMs": 1205180,
+      "en": "His war on Ukraine has not gone to plan.",
+      "zh": "他对乌克兰发动的战争没有按计划进行。"
+    },
+    {
+      "id": 225,
+      "startMs": 1205260,
+      "endMs": 1215680,
+      "en": "And yet the Kremlin leader seems confident and in control, and determined",
+      "zh": "然而，这位克里姆林宫领导人似乎自信且掌控局面，并决心"
+    },
+    {
+      "id": 226,
+      "startMs": 1215680,
+      "endMs": 1218800,
+      "en": "not to give any ground on any front.",
+      "zh": "在任何战线上都不让步。"
+    },
+    {
+      "id": 227,
+      "startMs": 1219580,
+      "endMs": 1223420,
+      "en": "Steve Rosenberg.",
+      "zh": "史蒂夫·罗森伯格报道。"
+    },
+    {
+      "id": 228,
+      "startMs": 1224060,
+      "endMs": 1228540,
+      "en": "How do you work out how someone is feeling or if you're in danger?",
+      "zh": "你如何判断一个人的感受，或判断自己是否处于危险中？"
+    },
+    {
+      "id": 229,
+      "startMs": 1229020,
+      "endMs": 1236940,
+      "en": "Research from Durham University in the UK has found that adults and children rely on different senses to judge people and situations.",
+      "zh": "英国杜伦大学的研究发现，成人和儿童依靠不同感官来判断他人和情境。"
+    },
+    {
+      "id": 230,
+      "startMs": 1237420,
+      "endMs": 1242940,
+      "en": "The study was led by psychology professor Paddy Ross. He outlined his findings to Claudia Hammond.",
+      "zh": "这项研究由心理学教授帕迪·罗斯主持。他向克劳迪娅·哈蒙德介绍了研究发现。"
+    },
+    {
+      "id": 231,
+      "startMs": 1243420,
+      "endMs": 1247180,
+      "en": "There was a study back in the 70s called the Colavita study,",
+      "zh": "上世纪70年代有一项名为科拉维塔研究的实验，"
+    },
+    {
+      "id": 232,
+      "startMs": 1247180,
+      "endMs": 1250780,
+      "en": "in which if you saw a flash, you were meant to hit a button,",
+      "zh": "实验中，如果你看到闪光，就要按下一个按钮，"
+    },
+    {
+      "id": 233,
+      "startMs": 1250940,
+      "endMs": 1253420,
+      "en": "and if you heard a beep, you were meant to hit a different button.",
+      "zh": "如果听到哔声，就要按下另一个按钮。"
+    },
+    {
+      "id": 234,
+      "startMs": 1253740,
+      "endMs": 1257820,
+      "en": "But then what the experimenters did was on purpose played them both at the same time",
+      "zh": "但随后，实验人员故意让两种刺激同时出现，"
+    },
+    {
+      "id": 235,
+      "startMs": 1258060,
+      "endMs": 1260700,
+      "en": "and just said to people, hit whatever button you fancy.",
+      "zh": "只对参与者说：想按哪个按钮就按哪个。"
+    },
+    {
+      "id": 236,
+      "startMs": 1261020,
+      "endMs": 1266220,
+      "en": "And what they found was that predominantly adults hit the button for the flash, so the visual stimulus,",
+      "zh": "他们发现，成人大多按下代表闪光、也就是视觉刺激的按钮，"
+    },
+    {
+      "id": 237,
+      "startMs": 1266940,
+      "endMs": 1271980,
+      "en": "but they found the reverse in kids, that the children would primarily hit the button for the beep.",
+      "zh": "但儿童的情况相反，他们主要按下代表哔声的按钮。"
+    },
+    {
+      "id": 238,
+      "startMs": 1272620,
+      "endMs": 1277020,
+      "en": "So we wanted to know whether that Colavita effect extended to emotion recognition.",
+      "zh": "因此，我们想知道科拉维塔效应是否也适用于情绪识别。"
+    },
+    {
+      "id": 239,
+      "startMs": 1277260,
+      "endMs": 1279580,
+      "en": "So what we did was we showed kids and adults",
+      "zh": "于是，我们让儿童和成人观看"
+    },
+    {
+      "id": 240,
+      "startMs": 1280120,
+      "endMs": 1285240,
+      "en": "people moving in emotional ways, so maybe cowering in fear or with their fists up in anger.",
+      "zh": "人们以表达情绪的方式活动，比如因害怕而蜷缩，或愤怒地举起拳头。"
+    },
+    {
+      "id": 241,
+      "startMs": 1285800,
+      "endMs": 1292360,
+      "en": "But we played mismatched auditory stimuli, so someone was crying or laughing or shouting.",
+      "zh": "但我们播放了不匹配的听觉刺激，比如有人在哭、笑或喊叫。"
+    },
+    {
+      "id": 242,
+      "startMs": 1292680,
+      "endMs": 1298040,
+      "en": "And what happens is, if you show someone, for instance, cowering in fear, but you hear them laughing,",
+      "zh": "如果你让参与者看到一个人因恐惧而蜷缩，却听到这个人在笑，结果会怎样呢？"
+    },
+    {
+      "id": 243,
+      "startMs": 1298360,
+      "endMs": 1300920,
+      "en": "and you just say to participants, ‘How is that person feeling?’",
+      "zh": "然后你只问参与者：“那个人感觉如何？”"
+    },
+    {
+      "id": 244,
+      "startMs": 1301240,
+      "endMs": 1306040,
+      "en": "An adult will tend to say what they see: that the person's fearful, that they're scared.",
+      "zh": "成年人往往会根据看到的内容回答：那个人很害怕、受到了惊吓。"
+    },
+    {
+      "id": 245,
+      "startMs": 1306600,
+      "endMs": 1312120,
+      "en": "Whereas for exactly the same stimulus, a child will say that that person's happy if they hear them laughing.",
+      "zh": "但面对完全相同的刺激，如果听到笑声，孩子会说那个人很开心。"
+    },
+    {
+      "id": 246,
+      "startMs": 1312280,
+      "endMs": 1314440,
+      "en": "Why could it be? It seems really surprising.",
+      "zh": "为什么会这样？这确实令人非常意外。"
+    },
+    {
+      "id": 247,
+      "startMs": 1314440,
+      "endMs": 1319880,
+      "en": "You'd think that the most salient, obvious thing in front of you would be what someone's looking like.",
+      "zh": "你可能会以为，眼前最突出、最明显的东西应该是那个人的外表。"
+    },
+    {
+      "id": 248,
+      "startMs": 1320200,
+      "endMs": 1324360,
+      "en": "We know that the auditory system is the first to develop.",
+      "zh": "我们知道，听觉系统是最先发育的。"
+    },
+    {
+      "id": 249,
+      "startMs": 1324440,
+      "endMs": 1330680,
+      "en": "There's evidence of people being able to hear in utero.",
+      "zh": "有证据表明，人类在子宫内就能够听见声音。"
+    },
+    {
+      "id": 250,
+      "startMs": 1330680,
+      "endMs": 1335240,
+      "en": "So there's some studies where children will attend longer to their mother's voice",
+      "zh": "有研究发现，孩子听到母亲的声音时会专注更久，"
+    },
+    {
+      "id": 251,
+      "startMs": 1335240,
+      "endMs": 1338120,
+      "en": "Compared with a stranger reading the same thing, after hearing her in the womb.",
+      "zh": "相比陌生人朗读同样内容，因为他们在子宫里听过母亲的声音。"
+    },
+    {
+      "id": 252,
+      "startMs": 1338280,
+      "endMs": 1343500,
+      "en": "You know, children are little. They cannot see as far as someone who is 5 ft tall.",
+      "zh": "孩子个子小，视线达不到一个五英尺高的成年人那么远。"
+    },
+    {
+      "id": 253,
+      "startMs": 1343820,
+      "endMs": 1348380,
+      "en": "We as adults can see threat before we hear it. We can see much further. We are taller.",
+      "zh": "成年人能在听到威胁之前先看见它；我们看得更远，因为我们更高。"
+    },
+    {
+      "id": 254,
+      "startMs": 1348780,
+      "endMs": 1353020,
+      "en": "We have better eyesight than babies can; they can't see more than a few feet in front of their faces.",
+      "zh": "我们的视力比婴儿好；婴儿看不清面前几英尺以外的东西。"
+    },
+    {
+      "id": 255,
+      "startMs": 1353580,
+      "endMs": 1357020,
+      "en": "So I suppose they're exposed to all of this auditory stimuli.",
+      "zh": "所以我想，他们会接触到所有这些听觉刺激。"
+    },
+    {
+      "id": 256,
+      "startMs": 1357100,
+      "endMs": 1360860,
+      "en": "You can't really ignore what you're hearing. So it could be",
+      "zh": "你很难真正忽略听到的东西。所以，这可能是"
+    },
+    {
+      "id": 257,
+      "startMs": 1360860,
+      "endMs": 1366460,
+      "en": "an experience thing: that is what they are most experienced at doing, listening compared to seeing.",
+      "zh": "经验造成的：相比看，他们更习惯于听。"
+    },
+    {
+      "id": 258,
+      "startMs": 1366620,
+      "endMs": 1371020,
+      "en": "But it could be a fun evolutionary argument that actually it's much more",
+      "zh": "不过，也可以从有趣的进化论角度解释：从生存角度看，"
+    },
+    {
+      "id": 259,
+      "startMs": 1371020,
+      "endMs": 1376300,
+      "en": "useful from a survival point of view when you're young to be able to hear threat before you can see",
+      "zh": "年幼时，能在看见威胁之前先听见它，可能更有用。"
+    },
+    {
+      "id": 260,
+      "startMs": 1376300,
+      "endMs": 1379420,
+      "en": "it. Do we know what's going on in the brain that makes this happen?",
+      "zh": "它。我们知道大脑中是什么机制导致这种情况吗？"
+    },
+    {
+      "id": 261,
+      "startMs": 1379820,
+      "endMs": 1384060,
+      "en": "There's two schools of thought. One is that it's a thing called overshadowing,",
+      "zh": "有两种理论。一种认为，这是一种叫作“遮蔽效应”的现象，"
+    },
+    {
+      "id": 262,
+      "startMs": 1384380,
+      "endMs": 1391340,
+      "en": "which is where the kids are hearing something and seeing something, but they're processing that auditory information",
+      "zh": "孩子同时听到、看到某种信息，但他们处理听觉信息的程度"
+    },
+    {
+      "id": 263,
+      "startMs": 1391500,
+      "endMs": 1397100,
+      "en": "much, much more, so to speak, than the visual. And so when they go to recall",
+      "zh": "远远超过视觉信息。因此，当他们回忆"
+    },
+    {
+      "id": 264,
+      "startMs": 1397180,
+      "endMs": 1402080,
+      "en": "what they've seen, they just have access to way more auditory information than visual information.",
+      "zh": "自己看见的东西时，能够调用的听觉信息远多于视觉信息。"
+    },
+    {
+      "id": 265,
+      "startMs": 1402800,
+      "endMs": 1408720,
+      "en": "The other school of thought is something called response competition, and that's where they process both signals just fine,",
+      "zh": "另一种理论叫“反应竞争”，认为他们其实能很好地处理两种信号，"
+    },
+    {
+      "id": 266,
+      "startMs": 1408720,
+      "endMs": 1415120,
+      "en": "but when they get asked then to make a response, they just rely on what they hear",
+      "zh": "但当被要求作出回答时，他们只依赖听到的内容，"
+    },
+    {
+      "id": 267,
+      "startMs": 1415280,
+      "endMs": 1418800,
+      "en": "for whatever reason. Maybe it's a more salient emotional cue for them.",
+      "zh": "原因不明。也许对他们来说，听觉是更突出的情绪线索。"
+    },
+    {
+      "id": 268,
+      "startMs": 1419200,
+      "endMs": 1423040,
+      "en": "Professor Paddy Ross.",
+      "zh": "帕迪·罗斯教授。"
+    },
+    {
+      "id": 269,
+      "startMs": 1423040,
+      "endMs": 1429520,
+      "en": "Finally, scientists have pieced together what one of the world's first humans looked like, using fossil fragments to bring them to life in a new digital image.",
+      "zh": "最后，科学家利用化石碎片拼出了世界上最早的人类之一的面貌，并以新的数字图像让他重现。"
+    },
+    {
+      "id": 270,
+      "startMs": 1429520,
+      "endMs": 1435600,
+      "en": "The male face had been reconstructed after more than 300,000 years.",
+      "zh": "这张男性面孔是在三十多万年后重建出来的。"
+    },
+    {
+      "id": 271,
+      "startMs": 1435600,
+      "endMs": 1441520,
+      "en": "Scientists initially thought the remains, which were discovered in Morocco, belonged to a Neanderthal, but",
+      "zh": "科学家最初认为，在摩洛哥发现的遗骸属于尼安德特人，但"
+    },
+    {
+      "id": 272,
+      "startMs": 1441520,
+      "endMs": 1446640,
+      "en": "a reappraisal in 2017 showed it was the earliest Homo sapiens recorded.",
+      "zh": "2017年的重新评估表明，这是有记录以来最早的智人。"
+    },
+    {
+      "id": 273,
+      "startMs": 1447280,
+      "endMs": 1452880,
+      "en": "Professor Francesco Galassi from Italy's University of Pavia co-authored the groundbreaking study.",
+      "zh": "意大利帕维亚大学的弗朗切斯科·加拉西教授是这项突破性研究的共同作者。"
+    },
+    {
+      "id": 274,
+      "startMs": 1453360,
+      "endMs": 1459360,
+      "en": "I would say that what struck us was how recognisably human the face looked.",
+      "zh": "我想说，最让我们震撼的是，这张脸看起来是如此明显的人类面孔。"
+    },
+    {
+      "id": 275,
+      "startMs": 1459940,
+      "endMs": 1468500,
+      "en": "We see a strong, robust face with prominent brow ridges, but many features are remarkably similar to ours.",
+      "zh": "这是一张强健结实的脸，有突出的眉脊，但许多特征与我们惊人地相似。"
+    },
+    {
+      "id": 276,
+      "startMs": 1469060,
+      "endMs": 1473700,
+      "en": "The brain case still has a more archaic shape.",
+      "zh": "不过，颅脑仍呈现更为古老的形状。"
+    },
+    {
+      "id": 277,
+      "startMs": 1473700,
+      "endMs": 1480580,
+      "en": "Seeing the face on the screen brought us remarkably close to humans who lived more than 300,000 years ago.",
+      "zh": "在屏幕上看到这张脸，让我们真切接近了三十多万年前生活的人类。"
+    },
+    {
+      "id": 278,
+      "startMs": 1481060,
+      "endMs": 1487940,
+      "en": "Our story begins at Jebel Irhoud in Morocco, where the first skull was discovered during mining activities.",
+      "zh": "我们的故事始于摩洛哥的伊尔胡德山；第一具头骨是在采矿活动中发现的。"
+    },
+    {
+      "id": 279,
+      "startMs": 1487940,
+      "endMs": 1497300,
+      "en": "Later excavations uncovered more human fossils, stone tools and, above all, evidence of fire.",
+      "zh": "之后的发掘发现了更多人类化石、石器，最重要的是火的证据。"
+    },
+    {
+      "id": 280,
+      "startMs": 1497940,
+      "endMs": 1504100,
+      "en": "Heated flint tools from the site were dated to around 315,000 years ago.",
+      "zh": "该遗址的加热燧石工具经测定距今约31.5万年。"
+    },
+    {
+      "id": 281,
+      "startMs": 1504580,
+      "endMs": 1509940,
+      "en": "These discoveries revealed a very early stage in the evolution of Homo sapiens.",
+      "zh": "这些发现揭示了智人演化中一个非常早期的阶段。"
+    },
+    {
+      "id": 282,
+      "startMs": 1510260,
+      "endMs": 1514340,
+      "en": "This is particularly important because until a few years ago it was thought that Homo sapiens was",
+      "zh": "这尤其重要，因为直到几年前，人们还认为智人的出现时间"
+    },
+    {
+      "id": 283,
+      "startMs": 1514500,
+      "endMs": 1521560,
+      "en": "much more recent than these findings appear to suggest.",
+      "zh": "比这些发现所显示的要晚得多。"
+    },
+    {
+      "id": 284,
+      "startMs": 1521560,
+      "endMs": 1528120,
+      "en": "Bringing back to life the face of one of our ancestors is very important",
+      "zh": "让我们一位祖先的面孔重现，意义非常重大，"
+    },
+    {
+      "id": 285,
+      "startMs": 1528200,
+      "endMs": 1534840,
+      "en": "both scientifically and in terms of the popularization of science.",
+      "zh": "无论对科学研究还是科学普及都是如此。"
+    },
+    {
+      "id": 286,
+      "startMs": 1535800,
+      "endMs": 1541960,
+      "en": "Of course, there are some important limitations that we need to consider because we are not reconstructing",
+      "zh": "当然，我们也必须考虑一些重要局限，因为我们重建的并不是"
+    },
+    {
+      "id": 287,
+      "startMs": 1541960,
+      "endMs": 1548120,
+      "en": "just one complete individual. Ours is a digital skull which is a composite, so we should not",
+      "zh": "某一个完整的个体。这是一个数字化的复合头骨，所以不应"
+    },
+    {
+      "id": 288,
+      "startMs": 1548120,
+      "endMs": 1551720,
+      "en": "think of this as an exact portrait of one person.",
+      "zh": "把它看作某一个人的精确肖像。"
+    },
+    {
+      "id": 289,
+      "startMs": 1552200,
+      "endMs": 1557000,
+      "en": "We should call it an anatomically informed approximation of a",
+      "zh": "我们应该称之为一名伊尔胡德"
+    },
+    {
+      "id": 290,
+      "startMs": 1557000,
+      "endMs": 1560680,
+      "en": "Jebel Irhoud individual. So we are bringing back to life",
+      "zh": "个体的、基于解剖学信息的近似形象。因此，我们让"
+    },
+    {
+      "id": 291,
+      "startMs": 1560920,
+      "endMs": 1568280,
+      "en": "somebody—or, let's say, the anatomy of a potential individual from that site, from that prehistoric period.",
+      "zh": "某个人——或者说，让那个遗址、那个史前时期潜在个体的解剖结构重现。"
+    },
+    {
+      "id": 292,
+      "startMs": 1568280,
+      "endMs": 1570680,
+      "en": "Professor Francesco Galassi.",
+      "zh": "弗朗切斯科·加拉西教授。"
+    },
+    {
+      "id": 293,
+      "startMs": 1572820,
+      "endMs": 1575060,
+      "en": "And that's all from us for now. If you want",
+      "zh": "今天的节目就到这里。如果你想"
+    },
+    {
+      "id": 294,
+      "startMs": 1575060,
+      "endMs": 1579060,
+      "en": "to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 295,
+      "startMs": 1579061,
+      "endMs": 1582581,
+      "en": "This edition of the Global News Podcast was mixed by Rebecca Miller.",
+      "zh": "本期《全球新闻播客》由丽贝卡·米勒混音。"
+    },
+    {
+      "id": 296,
+      "startMs": 1582581,
+      "endMs": 1584981,
+      "en": "The editor is Karen Martin and I'm Charlotte Gallagher.",
+      "zh": "编辑是凯伦·马丁，我是夏洛特·加拉格尔。"
+    },
+    {
+      "id": 297,
+      "startMs": 1585461,
+      "endMs": 1586821,
+      "en": "Until next time, goodbye.",
+      "zh": "下期再见。"
+    }
+  ]
+}
