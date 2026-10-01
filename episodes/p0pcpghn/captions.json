@@ -1,0 +1,2209 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "27 September 2026"
+  },
+  "durationMs": 1684440,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3840,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是 BBC 世界服务的《全球新闻》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 6080,
+      "endMs": 11360,
+      "en": "I'm Nick Miles, and in the early hours of Sunday the 27th of September, these are our main stories.",
+      "zh": "我是尼克·迈尔斯。现在是9月27日星期日凌晨，以下是本期主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11840,
+      "endMs": 15440,
+      "en": "OpenAI informs dozens of global institutions.",
+      "zh": "OpenAI 通知全球数十家机构。"
+    },
+    {
+      "id": 4,
+      "startMs": 15440,
+      "endMs": 22080,
+      "en": "Their website may have been accessed improperly by its artificial intelligence agents that went rogue.",
+      "zh": "这些机构的网站可能被其失控的人工智能代理不当访问。"
+    },
+    {
+      "id": 5,
+      "startMs": 22820,
+      "endMs": 28260,
+      "en": "President Trump rejects an Iranian proposal to fully reopen the vital Strait of Hormuz.",
+      "zh": "特朗普总统拒绝了伊朗提出的全面重新开放重要的霍尔木兹海峡的提议。"
+    },
+    {
+      "id": 6,
+      "startMs": 28740,
+      "endMs": 34980,
+      "en": "We hear what's blocking progress, and a contentious march in Northern Ireland looks set to take place.",
+      "zh": "我们将听取谈判进展受阻的原因；北爱尔兰一场有争议的游行似乎将举行。"
+    },
+    {
+      "id": 7,
+      "startMs": 34980,
+      "endMs": 39460,
+      "en": "It's the latest twist in a court battle that's seen sectarian tensions rise.",
+      "zh": "这是一起导致宗派紧张加剧的法庭斗争出现的最新转折。"
+    },
+    {
+      "id": 8,
+      "startMs": 41780,
+      "endMs": 49220,
+      "en": "Also in this podcast, Bangladesh launches a nationwide vaccination campaign to combat its worst ever measles outbreak.",
+      "zh": "本期还将报道：孟加拉国发起全国疫苗接种行动，应对该国有史以来最严重的麻疹疫情。"
+    },
+    {
+      "id": 9,
+      "startMs": 49540,
+      "endMs": 56820,
+      "en": "And it's trying to basically mimic the ritual that we enjoy from shopping, the satisfaction and the rush we get after we place an order.",
+      "zh": "它基本上是在模拟购物的仪式感，以及下单后获得的满足感和兴奋感。"
+    },
+    {
+      "id": 10,
+      "startMs": 57220,
+      "endMs": 58980,
+      "en": "Without us actually having to pay for it.",
+      "zh": "却不必真的为此付款。"
+    },
+    {
+      "id": 11,
+      "startMs": 59300,
+      "endMs": 61860,
+      "en": "A fake purchase but a real dopamine hit.",
+      "zh": "虚假的购买，却是真实的多巴胺刺激。"
+    },
+    {
+      "id": 12,
+      "startMs": 65280,
+      "endMs": 74320,
+      "en": "Once again, the alarming activities of artificial intelligence agents, bots which can act autonomously, are dominating the headlines.",
+      "zh": "人工智能代理——能够自主行动的机器人——令人担忧的活动再次占据头条。"
+    },
+    {
+      "id": 13,
+      "startMs": 74720,
+      "endMs": 77600,
+      "en": "OpenAI says it's warned dozens of organizations.",
+      "zh": "OpenAI 表示，它已警告数十个组织。"
+    },
+    {
+      "id": 14,
+      "startMs": 77600,
+      "endMs": 79680,
+      "en": "Around the world, including government bodies.",
+      "zh": "这些组织遍布全球，包括政府机构。"
+    },
+    {
+      "id": 15,
+      "startMs": 80000,
+      "endMs": 84560,
+      "en": "Its software may have interfered with their websites without its knowledge.",
+      "zh": "其软件可能在 OpenAI 不知情的情况下干扰了这些组织的网站。"
+    },
+    {
+      "id": 16,
+      "startMs": 85280,
+      "endMs": 94640,
+      "en": "This announcement comes days after the Australian Prime Minister Anthony Albanese said that OpenAI agents had hacked into his government's healthcare system.",
+      "zh": "这一声明发布前几天，澳大利亚总理安东尼·阿尔巴内塞曾表示，OpenAI 的代理入侵了澳大利亚政府的医疗系统。"
+    },
+    {
+      "id": 17,
+      "startMs": 95120,
+      "endMs": 100400,
+      "en": "With more on these latest developments, here's our North America technology correspondent, Lily Jamali.",
+      "zh": "下面请听本台北美科技记者莉莉·贾马利的报道。"
+    },
+    {
+      "id": 18,
+      "startMs": 100800,
+      "endMs": 105680,
+      "en": "OpenAI is saying that its AI agents meddled with a whole host of websites.",
+      "zh": "OpenAI 表示，其人工智能代理干预了大量网站。"
+    },
+    {
+      "id": 19,
+      "startMs": 105680,
+      "endMs": 112560,
+      "en": "They belong to governments, universities and public agencies, along with other institutions around the world.",
+      "zh": "这些网站属于世界各地的政府、大学、公共机构及其他机构。"
+    },
+    {
+      "id": 20,
+      "startMs": 112560,
+      "endMs": 122240,
+      "en": "Here in the US, some of the websites included those operated by the US Securities and Exchange Commission, our main securities regulator.",
+      "zh": "在美国，其中一些网站由美国证券交易委员会运营，它是美国主要的证券监管机构。"
+    },
+    {
+      "id": 21,
+      "startMs": 122720,
+      "endMs": 124400,
+      "en": "The Department of Education.",
+      "zh": "还有教育部。"
+    },
+    {
+      "id": 22,
+      "startMs": 124420,
+      "endMs": 130980,
+      "en": "What's interesting is that the meddling sometimes involved the agents using pretty extreme methods.",
+      "zh": "有意思的是，这种干预有时涉及代理使用相当极端的方法。"
+    },
+    {
+      "id": 23,
+      "startMs": 130980,
+      "endMs": 136980,
+      "en": "They cited an example of one autonomously retrieving US census data.",
+      "zh": "他们举了一个例子：一个代理自主获取了美国人口普查数据。"
+    },
+    {
+      "id": 24,
+      "startMs": 137380,
+      "endMs": 140340,
+      "en": "It used online credentials that it found on its own.",
+      "zh": "它使用的是自行找到的在线凭据。"
+    },
+    {
+      "id": 25,
+      "startMs": 140580,
+      "endMs": 142820,
+      "en": "We're just hearing one incident after the next.",
+      "zh": "我们不断听到一个又一个事件。"
+    },
+    {
+      "id": 26,
+      "startMs": 142820,
+      "endMs": 146260,
+      "en": "I mean, just today there were sort of three major stories in this vein.",
+      "zh": "我的意思是，仅今天就有大约三起这类重大新闻。"
+    },
+    {
+      "id": 27,
+      "startMs": 146500,
+      "endMs": 154740,
+      "en": "Just involving OpenAI, and it feels like this is snowballing in a way that's making a lot of regulators very uncomfortable.",
+      "zh": "仅涉及 OpenAI 的就有这些；而且事态似乎正以滚雪球般的方式发展，让许多监管者非常不安。"
+    },
+    {
+      "id": 28,
+      "startMs": 154900,
+      "endMs": 158340,
+      "en": "It's making a lot of members of the public ask, what's going on here?",
+      "zh": "这让许多公众不禁问：到底发生了什么？"
+    },
+    {
+      "id": 29,
+      "startMs": 158420,
+      "endMs": 160500,
+      "en": "Does OpenAI have this under control?",
+      "zh": "OpenAI 能控制住局面吗？"
+    },
+    {
+      "id": 30,
+      "startMs": 160900,
+      "endMs": 166660,
+      "en": "You know, sometimes we talk about these rogue agents, but these things are programmed by people at a company.",
+      "zh": "有时我们谈到这些失控的代理，但这些东西是由公司员工编程的。"
+    },
+    {
+      "id": 31,
+      "startMs": 166980,
+      "endMs": 171460,
+      "en": "So I think that's where the concern lies: how are these things being programmed?",
+      "zh": "所以我认为，令人担忧的是：这些东西究竟是如何被编程的？"
+    },
+    {
+      "id": 32,
+      "startMs": 171460,
+      "endMs": 177540,
+      "en": "And why does this continue to happen even after we learned about Hugging Face and that breach you mentioned in Australia?",
+      "zh": "为什么在我们得知 Hugging Face 事件以及你提到的澳大利亚那起入侵后，这种事仍在发生？"
+    },
+    {
+      "id": 33,
+      "startMs": 178100,
+      "endMs": 182180,
+      "en": "I'm not sure how proactive some of these revelations really were.",
+      "zh": "我不确定这些披露有多少是真正主动进行的。"
+    },
+    {
+      "id": 34,
+      "startMs": 182180,
+      "endMs": 187400,
+      "en": "Some of it was the result of, I think, reporting by journalists that pressured them to some degree.",
+      "zh": "我认为，其中一些是记者报道在一定程度上施压的结果。"
+    },
+    {
+      "id": 35,
+      "startMs": 187560,
+      "endMs": 195480,
+      "en": "Something we haven't even gotten to is the fact that OpenAI said agents leaked a couple dozen images from users of its flagship product.",
+      "zh": "我们还没谈到的是，OpenAI 表示，代理泄露了其旗舰产品用户的二十多张图片。"
+    },
+    {
+      "id": 36,
+      "startMs": 195480,
+      "endMs": 199560,
+      "en": "ChatGPT, in the latest example of this kind of behavior.",
+      "zh": "这款产品就是 ChatGPT，这是此类行为的最新例子。"
+    },
+    {
+      "id": 37,
+      "startMs": 199800,
+      "endMs": 205880,
+      "en": "But we heard from the Australian Prime Minister this week saying they should have come forward more quickly.",
+      "zh": "但澳大利亚总理本周表示，他们本应更快公开此事。"
+    },
+    {
+      "id": 38,
+      "startMs": 206200,
+      "endMs": 214600,
+      "en": "Sam Altman, the boss over at OpenAI, said today on social media the company hasn't disclosed incidents as fast as they would have liked.",
+      "zh": "OpenAI 的老板萨姆·奥尔特曼今天在社交媒体上说，公司没有按希望的速度披露事件。"
+    },
+    {
+      "id": 39,
+      "startMs": 214600,
+      "endMs": 218280,
+      "en": "He's the boss of the company, so if he wants something to happen, it will happen.",
+      "zh": "他是公司的老板，所以如果他希望某件事发生，那它就会发生。"
+    },
+    {
+      "id": 40,
+      "startMs": 218680,
+      "endMs": 220600,
+      "en": "Lily Jamali in San Francisco.",
+      "zh": "莉莉·贾马利在旧金山报道。"
+    },
+    {
+      "id": 41,
+      "startMs": 220760,
+      "endMs": 224280,
+      "en": "So how do these attacks happen, and just how dangerous are they?",
+      "zh": "那么，这些攻击是如何发生的？它们究竟有多危险？"
+    },
+    {
+      "id": 42,
+      "startMs": 224920,
+      "endMs": 233480,
+      "en": "One of the first breaches to make headlines, which Lily mentioned, was when an OpenAI bot autonomously hacked the company Hugging Face.",
+      "zh": "莉莉提到的首批登上头条的入侵事件之一，是 OpenAI 的一个机器人自主入侵 Hugging Face 公司。"
+    },
+    {
+      "id": 43,
+      "startMs": 234040,
+      "endMs": 241800,
+      "en": "METR, which stands for Model Evaluation and Threat Research, is a California-based group that's been investigating that incident.",
+      "zh": "METR，即模型评估与威胁研究组织，是一个一直在调查该事件的加州机构。"
+    },
+    {
+      "id": 44,
+      "startMs": 241880,
+      "endMs": 244520,
+      "en": "It found that hundreds of AI agents had organized.",
+      "zh": "该组织发现，数百个 AI 代理已经组织起来。"
+    },
+    {
+      "id": 45,
+      "startMs": 244460,
+      "endMs": 248860,
+      "en": "And named themselves and were speaking to each other in a chat room.",
+      "zh": "它们还给自己命名，并在聊天室里彼此交谈。"
+    },
+    {
+      "id": 46,
+      "startMs": 249420,
+      "endMs": 253100,
+      "en": "METR's president, Chris Painter, told Rebecca Kesby about the research.",
+      "zh": "METR 总裁克里斯·佩因特向丽贝卡·凯斯比介绍了这项研究。"
+    },
+    {
+      "id": 47,
+      "startMs": 253740,
+      "endMs": 256940,
+      "en": "I would characterize these as loss-of-control incidents.",
+      "zh": "我会把这些称为失控事件。"
+    },
+    {
+      "id": 48,
+      "startMs": 257020,
+      "endMs": 262620,
+      "en": "It is very alarming to see signs of AI systems trying to figure out how to hide their tracks.",
+      "zh": "看到 AI 系统试图想办法隐藏踪迹的迹象，非常令人担忧。"
+    },
+    {
+      "id": 49,
+      "startMs": 262620,
+      "endMs": 269100,
+      "en": "And I think you are right to worry that as they get more capable, they will get better at hiding their tracks.",
+      "zh": "我认为，随着它们能力增强，它们会更善于隐藏踪迹，因此你有理由担忧。"
+    },
+    {
+      "id": 50,
+      "startMs": 269340,
+      "endMs": 278220,
+      "en": "Our investigators depended a lot on the fact that when you went in to do the investigation, you could see what's called the chain of thought, right?",
+      "zh": "我们的调查人员很大程度上依赖这样一个事实：调查时可以看到所谓的思维链，对吧？"
+    },
+    {
+      "id": 51,
+      "startMs": 278220,
+      "endMs": 284460,
+      "en": "The AI systems kind of think to themselves on a scratch pad about what action they're going to take next.",
+      "zh": "AI 系统会在类似草稿纸的地方自我思考下一步要采取什么行动。"
+    },
+    {
+      "id": 52,
+      "startMs": 284780,
+      "endMs": 293100,
+      "en": "One additional worry is that even that could become less faithful or informative about what AI agents are thinking.",
+      "zh": "另一个令人担忧的问题是，即使是思维链，也可能越来越不能忠实或有信息量地反映 AI 代理在想什么。"
+    },
+    {
+      "id": 53,
+      "startMs": 293420,
+      "endMs": 299500,
+      "en": "There's this idea inside the industry that it's possible that soon we could have AI systems.",
+      "zh": "业内有一种看法认为，我们可能很快就会拥有这样的 AI 系统。"
+    },
+    {
+      "id": 54,
+      "startMs": 299660,
+      "endMs": 304460,
+      "en": "To make them more capable, they move from reasoning in words to reasoning in numbers.",
+      "zh": "为了让它们更强大，它们会从用文字推理转向完全用数字推理。"
+    },
+    {
+      "id": 55,
+      "startMs": 304480,
+      "endMs": 309120,
+      "en": "Entirely. Then when we send investigators in the future to look at these incidents.",
+      "zh": "这样一来，未来我们派调查人员研究这些事件时，"
+    },
+    {
+      "id": 56,
+      "startMs": 309200,
+      "endMs": 312560,
+      "en": "When we say, okay, what was the AI agent thinking in this case?",
+      "zh": "当我们问：好，这次 AI 代理在想什么？"
+    },
+    {
+      "id": 57,
+      "startMs": 312800,
+      "endMs": 317520,
+      "en": "We'll find just a whole big room of numbers and no words about its reasoning process.",
+      "zh": "我们可能只会发现一整间屋子的数字，没有任何关于其推理过程的文字。"
+    },
+    {
+      "id": 58,
+      "startMs": 317520,
+      "endMs": 320560,
+      "en": "I sometimes describe it as like a gun that you can't aim.",
+      "zh": "我有时把它形容成一把无法瞄准的枪。"
+    },
+    {
+      "id": 59,
+      "startMs": 320800,
+      "endMs": 324640,
+      "en": "It's becoming more and more powerful, but you also are getting worse at aiming it.",
+      "zh": "它正变得越来越强大，但你也越来越难以瞄准它。"
+    },
+    {
+      "id": 60,
+      "startMs": 324880,
+      "endMs": 327680,
+      "en": "That sounds really dangerous, a gun that you can't aim.",
+      "zh": "听起来确实很危险——一把无法瞄准的枪。"
+    },
+    {
+      "id": 61,
+      "startMs": 327920,
+      "endMs": 335280,
+      "en": "I think it's going to be difficult, at least today, for there to be something where you say, like, we did testing and this model is certified safe.",
+      "zh": "我认为，至少目前，很难做到可以说：“我们做过测试，这个模型已获安全认证。”"
+    },
+    {
+      "id": 62,
+      "startMs": 335520,
+      "endMs": 342320,
+      "en": "My goal is trying to make sure that there's at least one institution that has the technical capacity to do this kind of testing.",
+      "zh": "我的目标是确保至少有一个机构具备开展这类测试的技术能力。"
+    },
+    {
+      "id": 63,
+      "startMs": 342400,
+      "endMs": 349200,
+      "en": "Yeah, I think having more actors that can do this kind of evaluation and inform the public debate, I think, is really valuable.",
+      "zh": "是的，我认为有更多参与者能够开展这类评估并为公众讨论提供信息，非常有价值。"
+    },
+    {
+      "id": 64,
+      "startMs": 349360,
+      "endMs": 358400,
+      "en": "People listening to this, they'll be aware of our impending doom potentially within the next 10 years as a result of uncontrollable AI.",
+      "zh": "听众会意识到，我们可能在未来十年内因失控的人工智能面临末日。"
+    },
+    {
+      "id": 65,
+      "startMs": 359040,
+      "endMs": 362960,
+      "en": "If the time is not now for regulation, we're going to lose it, aren't we?",
+      "zh": "如果现在还不是监管的时候，我们就要失去控制了，对吧？"
+    },
+    {
+      "id": 66,
+      "startMs": 363200,
+      "endMs": 365780,
+      "en": "Ten years, in some ways, even sounds kind of far out.",
+      "zh": "十年从某种意义上说，甚至听起来还有些遥远。"
+    },
+    {
+      "id": 67,
+      "startMs": 365940,
+      "endMs": 374100,
+      "en": "It's common to talk about the idea that we might soon speed up AI research by having AI systems do the research itself.",
+      "zh": "人们常谈到，我们可能很快让人工智能系统自己进行研究，从而加速人工智能研究。"
+    },
+    {
+      "id": 68,
+      "startMs": 374180,
+      "endMs": 380900,
+      "en": "That could mean that very quickly we could have it be that the AI systems are doing a lot of the work improving themselves.",
+      "zh": "这可能意味着，人工智能系统很快会承担大量改进自身的工作。"
+    },
+    {
+      "id": 69,
+      "startMs": 381140,
+      "endMs": 390420,
+      "en": "If AI systems are then doing a lot of actions in the economy for us, it could be that soon we have robots that they can interface with or actuate in the real world.",
+      "zh": "如果人工智能系统替我们在经济中执行大量行动，那么很快我们可能会有机器人，让它们接入或驱动现实世界。"
+    },
+    {
+      "id": 70,
+      "startMs": 390740,
+      "endMs": 398740,
+      "en": "And then the question is kind of if we have defective training processes when we have AI systems that are running large parts of the real world.",
+      "zh": "那么问题是，如果我们的训练过程存在缺陷，而人工智能系统又在运行现实世界的大部分事务，"
+    },
+    {
+      "id": 71,
+      "startMs": 398980,
+      "endMs": 404740,
+      "en": "They're running a lot of our cyber operations, you know, actuating robots and cars or whatever in the real world.",
+      "zh": "它们还在执行我们大量的网络行动，并在现实世界中驱动机器人、汽车之类的设备，"
+    },
+    {
+      "id": 72,
+      "startMs": 404980,
+      "endMs": 409300,
+      "en": "Then the stakes for losing control of those systems could be much higher.",
+      "zh": "那么失去对这些系统的控制，代价可能会高得多。"
+    },
+    {
+      "id": 73,
+      "startMs": 409300,
+      "endMs": 417140,
+      "en": "And I think a world where we're that level of reliant on AI systems could come very quickly, on the order of single-digit years.",
+      "zh": "我认为，若我们如此依赖人工智能系统，这样的世界可能很快到来，时间尺度可能只有几年。"
+    },
+    {
+      "id": 74,
+      "startMs": 417380,
+      "endMs": 419220,
+      "en": "That was the AI expert Chris Painter.",
+      "zh": "以上是人工智能专家克里斯·佩因特。"
+    },
+    {
+      "id": 75,
+      "startMs": 420380,
+      "endMs": 423740,
+      "en": "There's been another false start in the US-Iran peace process.",
+      "zh": "美伊和平进程再次遭遇挫折。"
+    },
+    {
+      "id": 76,
+      "startMs": 424140,
+      "endMs": 429100,
+      "en": "Donald Trump has rejected an Iranian proposal to reopen the Strait of Hormuz within a week.",
+      "zh": "唐纳德·特朗普拒绝了伊朗提出的在一周内重新开放霍尔木兹海峡的方案。"
+    },
+    {
+      "id": 77,
+      "startMs": 429660,
+      "endMs": 433260,
+      "en": "Speaking outside the White House, President Trump had this to say to reporters.",
+      "zh": "特朗普总统在白宫外对记者这样说。"
+    },
+    {
+      "id": 78,
+      "startMs": 433740,
+      "endMs": 439180,
+      "en": "Well, I'm rejecting their deal. They want to make a deal where they open the strait immediately because they're losing so badly.",
+      "zh": "好，我拒绝他们的协议。他们想达成一项协议，立即开放海峡，因为他们输得太惨了。"
+    },
+    {
+      "id": 79,
+      "startMs": 439180,
+      "endMs": 442220,
+      "en": "You know, you don't read that or you don't see that in the fake news.",
+      "zh": "你知道，你不会在假新闻中读到或看到这些。"
+    },
+    {
+      "id": 80,
+      "startMs": 442540,
+      "endMs": 446860,
+      "en": "But we're winning tremendously. We have total control of the Hormuz Strait.",
+      "zh": "但我们赢得非常彻底。我们完全控制着霍尔木兹海峡。"
+    },
+    {
+      "id": 81,
+      "startMs": 446860,
+      "endMs": 451020,
+      "en": "Massive amounts of oil are coming out of the Hormuz Strait.",
+      "zh": "大量石油正从霍尔木兹海峡运出。"
+    },
+    {
+      "id": 82,
+      "startMs": 451180,
+      "endMs": 453340,
+      "en": "Last night we had 29 ships come out.",
+      "zh": "昨晚有29艘船驶出。"
+    },
+    {
+      "id": 83,
+      "startMs": 453740,
+      "endMs": 456940,
+      "en": "They want to make a deal and I think that's fine. I like making a deal too.",
+      "zh": "他们想达成协议，我觉得没问题。我也喜欢达成协议。"
+    },
+    {
+      "id": 84,
+      "startMs": 456940,
+      "endMs": 464780,
+      "en": "Responding to that, the Iranian Foreign Minister Abbas Araghchi said only a negotiated solution can get America out of this deadlock.",
+      "zh": "伊朗外长阿巴斯·阿拉格齐回应说，只有通过谈判解决，才能让美国摆脱这一僵局。"
+    },
+    {
+      "id": 85,
+      "startMs": 465260,
+      "endMs": 467340,
+      "en": "So what was in Tehran's proposal?",
+      "zh": "那么，德黑兰的提议包含什么？"
+    },
+    {
+      "id": 86,
+      "startMs": 467980,
+      "endMs": 470300,
+      "en": "John Donnison is our correspondent in Jerusalem.",
+      "zh": "约翰·唐尼森是我们驻耶路撒冷记者。"
+    },
+    {
+      "id": 87,
+      "startMs": 470940,
+      "endMs": 479820,
+      "en": "We think it was very similar in many of its aspects to the memorandum of understanding that was done between Iran and the United States earlier in the year.",
+      "zh": "我们认为，这份提议在许多方面都很像伊朗与美国在今年早些时候达成的那份谅解备忘录。"
+    },
+    {
+      "id": 88,
+      "startMs": 480320,
+      "endMs": 483280,
+      "en": "Which quickly broke down with a resumption of violence.",
+      "zh": "但随着暴力重新爆发，协议很快破裂。"
+    },
+    {
+      "id": 89,
+      "startMs": 483280,
+      "endMs": 491840,
+      "en": "So included in this proposal from the Iranians was an end to sanctions on Iranian oil, the lifting",
+      "zh": "因此，伊朗提议的内容包括结束对伊朗石油的制裁，以及解除被冻结资产的限制，"
+    },
+    {
+      "id": 90,
+      "startMs": 492080,
+      "endMs": 497200,
+      "en": "of frozen assets, giving the Iranians access to that, a lifting of the US naval blockade,",
+      "zh": "让伊朗人可以使用这些资产，并解除美国的海上封锁，"
+    },
+    {
+      "id": 91,
+      "startMs": 497600,
+      "endMs": 503680,
+      "en": "and in this deal they were proposing a seven-week cessation of all hostilities",
+      "zh": "在这项协议中，他们提议停止一切敌对行动，为期七周，"
+    },
+    {
+      "id": 92,
+      "startMs": 503680,
+      "endMs": 508000,
+      "en": "from the US and Israel in the Middle East, including Lebanon.",
+      "zh": "停止范围涉及美国和以色列在中东（包括黎巴嫩）的行动。"
+    },
+    {
+      "id": 93,
+      "startMs": 508080,
+      "endMs": 512000,
+      "en": "Now, when this proposal was put forward by the Iranian foreign minister",
+      "zh": "伊朗外长昨晚提出这项方案时，"
+    },
+    {
+      "id": 94,
+      "startMs": 512080,
+      "endMs": 514640,
+      "en": "last night, it might have sounded like a bit of a breakthrough,",
+      "zh": "听起来可能像是取得了一点突破，"
+    },
+    {
+      "id": 95,
+      "startMs": 514640,
+      "endMs": 518000,
+      "en": "but really, I think we've not really moved any further forward.",
+      "zh": "但我认为，实际上我们并没有取得进一步进展。"
+    },
+    {
+      "id": 96,
+      "startMs": 518000,
+      "endMs": 523200,
+      "en": "It's very quickly been rejected pretty clearly by President Trump just in the last few hours.",
+      "zh": "就在过去几小时内，特朗普总统很快就明确拒绝了它。"
+    },
+    {
+      "id": 97,
+      "startMs": 523600,
+      "endMs": 526160,
+      "en": "And it's good that discussions are taking place.",
+      "zh": "讨论正在进行，这是好事。"
+    },
+    {
+      "id": 98,
+      "startMs": 526160,
+      "endMs": 535120,
+      "en": "We know that the Iranian foreign minister was talking to the US special envoy Steve Witkoff in New York in the last few days, but I'm not sure how much progress has been made.",
+      "zh": "我们知道，过去几天伊朗外长一直在纽约与美国特使史蒂夫·威特科夫交谈，但我不确定取得了多少进展。"
+    },
+    {
+      "id": 99,
+      "startMs": 535760,
+      "endMs": 544660,
+      "en": "So why, if the content of Iran's proposed deal was so close to the one President Trump agreed to back in June, has he now rejected it?",
+      "zh": "既然伊朗提议的内容与特朗普总统6月同意的方案如此接近，他为何现在拒绝？"
+    },
+    {
+      "id": 100,
+      "startMs": 545060,
+      "endMs": 549140,
+      "en": "Rob Malley was a US special envoy for Iran under President Biden.",
+      "zh": "罗布·马利曾在拜登总统任内担任美国驻伊朗特使。"
+    },
+    {
+      "id": 101,
+      "startMs": 549780,
+      "endMs": 556500,
+      "en": "I think the rejection was preordained. I mean, the minute I heard of the plan, I think it was pretty obvious that the US would reject it for several reasons.",
+      "zh": "我认为，拒绝早已注定。我的意思是，我一听到这项方案，就觉得美国会拒绝它，原因有好几个。"
+    },
+    {
+      "id": 102,
+      "startMs": 556500,
+      "endMs": 561780,
+      "en": "First, he didn't particularly like the MOU, which had collapsed, the framework on which this is based.",
+      "zh": "首先，他并不喜欢那份已经破裂的谅解备忘录，也就是这项方案所依据的框架。"
+    },
+    {
+      "id": 103,
+      "startMs": 562100,
+      "endMs": 569220,
+      "en": "And this one, if anything, was slightly even more favorable to Iran because they wanted to see the economic benefits upfront.",
+      "zh": "而这份方案如果说有什么不同，就是对伊朗更有利一些，因为他们希望先获得经济利益。"
+    },
+    {
+      "id": 104,
+      "startMs": 569540,
+      "endMs": 574420,
+      "en": "So it was in some ways worse than a deal that President Trump has decided he didn't like.",
+      "zh": "所以从某些方面看，它比特朗普总统已经决定不喜欢的那份协议还糟。"
+    },
+    {
+      "id": 105,
+      "startMs": 574900,
+      "endMs": 578260,
+      "en": "Added to that is the fact that the circumstances have changed since then.",
+      "zh": "此外，自那以后，情况也发生了变化。"
+    },
+    {
+      "id": 106,
+      "startMs": 578260,
+      "endMs": 583940,
+      "en": "The US's blockade has proven to be quite effective in terms of really strangulating Iran's economy.",
+      "zh": "美国的封锁已证明相当有效，确实让伊朗经济陷入窒息。"
+    },
+    {
+      "id": 107,
+      "startMs": 584020,
+      "endMs": 589300,
+      "en": "Other sanctions have been added. You now have basically an air blockade as well, more or less.",
+      "zh": "其他制裁也增加了。现在基本上还有一场空中封锁，或多或少如此。"
+    },
+    {
+      "id": 108,
+      "startMs": 589380,
+      "endMs": 595940,
+      "en": "The US and other countries have managed to get more oil through the Strait of Hormuz, but that doesn't mean things are back to normal.",
+      "zh": "美国以及其他国家已经设法让更多石油通过霍尔木兹海峡，但这并不意味着一切恢复正常。"
+    },
+    {
+      "id": 109,
+      "startMs": 596020,
+      "endMs": 600020,
+      "en": "A lot of essential, critical products are not getting through the Strait.",
+      "zh": "仍有许多重要的必需品无法通过霍尔木兹海峡。"
+    },
+    {
+      "id": 110,
+      "startMs": 600040,
+      "endMs": 605640,
+      "en": "But from a US perspective, the importance of reopening the Strait of Hormuz has lessened",
+      "zh": "但从美国的角度看，重新开放霍尔木兹海峡的重要性已下降，"
+    },
+    {
+      "id": 111,
+      "startMs": 605720,
+      "endMs": 608840,
+      "en": "and the economic pressure they put on Iran has increased.",
+      "zh": "而他们施加于伊朗的经济压力增加了，"
+    },
+    {
+      "id": 112,
+      "startMs": 609080,
+      "endMs": 612680,
+      "en": "The US feels it's in a stronger position, which means it's certainly not going to accept",
+      "zh": "美国认为自己处于更有利的位置，这意味着它当然不会接受"
+    },
+    {
+      "id": 113,
+      "startMs": 612680,
+      "endMs": 617960,
+      "en": "So it certainly won't accept anything worse than what they agreed two months ago, and will almost certainly ask for more.",
+      "zh": "所以它当然不会接受比两个月前达成的协议更糟的方案，而且几乎肯定会要求更多。"
+    },
+    {
+      "id": 114,
+      "startMs": 618040,
+      "endMs": 623320,
+      "en": "And everything we're hearing, and the Iranians, I think, have heard this directly or indirectly from the Americans,",
+      "zh": "我们听到的一切，以及伊朗人直接或间接从美国人那里听到的消息，"
+    },
+    {
+      "id": 115,
+      "startMs": 623480,
+      "endMs": 629000,
+      "en": "is that the US position now is that what they want upfront is a nuclear concession by Iran,",
+      "zh": "都表明美国目前的立场是：他们要求伊朗先作出核让步，"
+    },
+    {
+      "id": 116,
+      "startMs": 629080,
+      "endMs": 633320,
+      "en": "and that that's something that right now the Islamic Republic is dead set against offering.",
+      "zh": "而伊朗伊斯兰共和国目前坚决反对作出这种让步。"
+    },
+    {
+      "id": 117,
+      "startMs": 633640,
+      "endMs": 639400,
+      "en": "They're not prepared to give in, and certainly not now, when they feel like they have zero trust in the Trump administration.",
+      "zh": "他们不准备让步，尤其现在不会，因为他们觉得自己对特朗普政府完全不信任。"
+    },
+    {
+      "id": 118,
+      "startMs": 639480,
+      "endMs": 645960,
+      "en": "And an administration that has assassinated its leadership and that twice, in the middle of talks, went to war with Iran.",
+      "zh": "而这个政府暗杀了伊朗领导层，而且两次在谈判期间对伊朗开战。"
+    },
+    {
+      "id": 119,
+      "startMs": 645960,
+      "endMs": 654680,
+      "en": "So they will be prepared to endure enormous pain, particularly because most of the pain is being felt by ordinary citizens, not by the leadership. That was Rob Malley.",
+      "zh": "所以他们准备承受巨大的痛苦，尤其因为大部分痛苦由普通民众而非领导层承担。以上是罗布·马利。"
+    },
+    {
+      "id": 120,
+      "startMs": 655700,
+      "endMs": 663300,
+      "en": "From 2020 to 2022, a civil war in Ethiopia's northern Tigray region left at least 100,000 people dead.",
+      "zh": "从2020年到2022年，埃塞俄比亚北部提格雷地区的内战造成至少10万人死亡。"
+    },
+    {
+      "id": 121,
+      "startMs": 663300,
+      "endMs": 665460,
+      "en": "Either from the violence or from famine.",
+      "zh": "他们或死于暴力，或死于饥荒。"
+    },
+    {
+      "id": 122,
+      "startMs": 665940,
+      "endMs": 670500,
+      "en": "Now it looks like the area may well be falling back into a full-scale conflict.",
+      "zh": "现在看来，该地区很可能再次陷入全面冲突。"
+    },
+    {
+      "id": 123,
+      "startMs": 670900,
+      "endMs": 676260,
+      "en": "Fighting has erupted between the Ethiopian government and the Tigray People's Liberation Front party.",
+      "zh": "埃塞俄比亚政府与提格雷人民解放阵线党之间爆发了战斗。"
+    },
+    {
+      "id": 124,
+      "startMs": 676740,
+      "endMs": 681620,
+      "en": "There are reports of panic buying, and many internet, phone, and banking services are down.",
+      "zh": "有报道称民众恐慌性抢购，许多网络、电话和银行服务已经中断。"
+    },
+    {
+      "id": 125,
+      "startMs": 682180,
+      "endMs": 687620,
+      "en": "The Ethiopian journalist Zacharias Zelalem has been following developments from Canada.",
+      "zh": "埃塞俄比亚记者扎卡里亚斯·泽拉莱姆一直在加拿大跟踪事态发展。"
+    },
+    {
+      "id": 126,
+      "startMs": 688440,
+      "endMs": 695800,
+      "en": "There have been Tigray-wide communications outages, making it incredibly difficult to corroborate the claims and counterclaims",
+      "zh": "提格雷全境通信中断，使人难以核实各方关于战场胜利和推进的说法与反驳。"
+    },
+    {
+      "id": 127,
+      "startMs": 695800,
+      "endMs": 700120,
+      "en": "by the warring factions of battleground victories and advances.",
+      "zh": "这些说法和反驳来自交战各方，涉及战场胜利和推进。"
+    },
+    {
+      "id": 128,
+      "startMs": 700520,
+      "endMs": 705400,
+      "en": "The war broke out on Tuesday, and I've been unable to reach most of my sources since Thursday.",
+      "zh": "战争于星期二爆发，而自星期四以来我一直无法联系大多数消息来源。"
+    },
+    {
+      "id": 129,
+      "startMs": 705640,
+      "endMs": 710440,
+      "en": "The telecommunications provider Ethio Telecom has severed its services region-wide.",
+      "zh": "电信运营商埃塞俄比亚电信已经切断了全地区的服务。"
+    },
+    {
+      "id": 130,
+      "startMs": 710840,
+      "endMs": 716840,
+      "en": "Unfortunately, it's in many ways a repeat of the tragic scenario six years ago now.",
+      "zh": "遗憾的是，这在许多方面重演了六年前的悲惨局面。"
+    },
+    {
+      "id": 131,
+      "startMs": 717240,
+      "endMs": 724120,
+      "en": "A litany of horrific abuses were carried out by all of the warring factions, and it was incredibly difficult to document them in real time.",
+      "zh": "交战各方都实施了大量可怕的暴行，而且很难实时记录下来。"
+    },
+    {
+      "id": 132,
+      "startMs": 724520,
+      "endMs": 731480,
+      "en": "One could argue that the country has already plunged into a civil war. Of course, there's been lots of new realignments. There's a new rebel alliance.",
+      "zh": "当然，局势出现了许多新的重新结盟，也形成了新的反叛者联盟。"
+    },
+    {
+      "id": 133,
+      "startMs": 731480,
+      "endMs": 738200,
+      "en": "The Tigrayan rebels are now fighting alongside rebels in the Amhara region, and they are widely believed to be backed by Eritrea.",
+      "zh": "提格雷叛军如今与阿姆哈拉地区的叛军并肩作战，普遍被认为得到厄立特里亚支持。"
+    },
+    {
+      "id": 134,
+      "startMs": 738600,
+      "endMs": 741960,
+      "en": "It's just been a continuation of three years of deteriorating ties.",
+      "zh": "这只是三年来关系不断恶化的延续。"
+    },
+    {
+      "id": 135,
+      "startMs": 741960,
+      "endMs": 746600,
+      "en": "And so the outbreak of war and civil war didn't catch anyone off guard.",
+      "zh": "因此，战争和内战的爆发并没有让任何人感到意外。"
+    },
+    {
+      "id": 136,
+      "startMs": 746680,
+      "endMs": 749180,
+      "en": "And we're hearing reports of hundreds of deaths.",
+      "zh": "我们听到的报道称，已有数百人死亡。"
+    },
+    {
+      "id": 137,
+      "startMs": 749420,
+      "endMs": 756820,
+      "en": "Fighting is limited really to Tigray's frontier areas, bordering the neighboring regions of Amhara and Afar.",
+      "zh": "战斗目前确实局限于提格雷的边境地区，这些地区与阿姆哈拉和阿法尔两地接壤。"
+    },
+    {
+      "id": 138,
+      "startMs": 756960,
+      "endMs": 765180,
+      "en": "Unfortunately, all signs point to the fighting being set to spread Tigray-wide, something that may mimic what we saw four to six years ago.",
+      "zh": "遗憾的是，一切迹象都表明战斗将扩散至提格雷全境，可能重演四至六年前的局面。"
+    },
+    {
+      "id": 139,
+      "startMs": 765420,
+      "endMs": 773020,
+      "en": "And despite observers pleading with the international community to intervene, you could say a lot of them were too preoccupied with Iran or Ukraine.",
+      "zh": "尽管观察人士恳求国际社会介入，但可以说其中许多人过于忙于伊朗或乌克兰事务。"
+    },
+    {
+      "id": 140,
+      "startMs": 773100,
+      "endMs": 775820,
+      "en": "So a deterioration of the situation on the ground is imminent.",
+      "zh": "因此，局势恶化迫在眉睫。"
+    },
+    {
+      "id": 141,
+      "startMs": 776460,
+      "endMs": 777740,
+      "en": "Zacharias Zelalem there.",
+      "zh": "以上是扎卡里亚斯·泽拉莱姆的报道。"
+    },
+    {
+      "id": 142,
+      "startMs": 778860,
+      "endMs": 785180,
+      "en": "To France now, where Pope Leo has celebrated mass in central Paris at a giant open-air service.",
+      "zh": "现在转到法国，教皇良一世在巴黎市中心举行了一场大型露天弥撒。"
+    },
+    {
+      "id": 143,
+      "startMs": 785500,
+      "endMs": 791820,
+      "en": "He made special mention of young people and praised their enthusiasm and commitment within the Christian community.",
+      "zh": "他特别提到年轻人，赞扬他们在基督教团体中的热情和投入。"
+    },
+    {
+      "id": 144,
+      "startMs": 792300,
+      "endMs": 795740,
+      "en": "Our religion editor, Aleem Maqbool, was there and sent this report.",
+      "zh": "我们的宗教事务编辑阿利姆·马克布尔当时在现场，发回了这篇报道。"
+    },
+    {
+      "id": 145,
+      "startMs": 801540,
+      "endMs": 807220,
+      "en": "Everywhere he's gone during his visit to France, Pope Leo's been greeted by enthusiastic crowds.",
+      "zh": "教皇良一世访问法国期间所到之处，都受到热情人群的欢迎。"
+    },
+    {
+      "id": 146,
+      "startMs": 807540,
+      "endMs": 814580,
+      "en": "Today, a large area of central Paris was in effect turned into a vast open-air cathedral.",
+      "zh": "今天，巴黎市中心一大片区域实际上变成了一座巨大的露天大教堂。"
+    },
+    {
+      "id": 147,
+      "startMs": 814900,
+      "endMs": 821780,
+      "en": "At the Place de la Concorde, a towering stage and altar had been built, surrounded by a seated congregation.",
+      "zh": "协和广场上搭起了高耸的舞台和祭坛，周围坐满了会众。"
+    },
+    {
+      "id": 148,
+      "startMs": 822100,
+      "endMs": 830180,
+      "en": "But beyond that, with big screens set up along the Champs-Élysées, hundreds of thousands more participated in the papal mass.",
+      "zh": "此外，香榭丽舍大街沿线设置了大屏幕，数十万人参加了教皇弥撒。"
+    },
+    {
+      "id": 149,
+      "startMs": 832420,
+      "endMs": 840820,
+      "en": "France has had a complex relationship with the Catholic Church, from early adopter of Roman Catholicism to pioneer of strict secularism.",
+      "zh": "法国与天主教会的关系复杂：它曾早早接受罗马天主教，也曾率先实行严格世俗主义。"
+    },
+    {
+      "id": 150,
+      "startMs": 841140,
+      "endMs": 847220,
+      "en": "In his homily, the Pope told Catholics in modern France, where regular churchgoing has long been on the decline,",
+      "zh": "教皇在讲道中告诉现代法国的天主教徒，那里经常去教堂的人数长期在下降，"
+    },
+    {
+      "id": 151,
+      "startMs": 847620,
+      "endMs": 850100,
+      "en": "to be confident in expressing their faith.",
+      "zh": "要自信地表达自己的信仰。"
+    },
+    {
+      "id": 152,
+      "startMs": 850340,
+      "endMs": 853380,
+      "en": "Vous aspirez à redécouvrir nos horizons lumineux.",
+      "zh": "你们渴望重新发现充满光明的地平线。"
+    },
+    {
+      "id": 153,
+      "startMs": 853860,
+      "endMs": 859700,
+      "en": "You long to rediscover a horizon filled with light and to build a renewed nation upon roots nourished by faith.",
+      "zh": "你们渴望重新发现充满光明的地平线，并在信仰滋养的根基上建设一个焕新的国家。"
+    },
+    {
+      "id": 154,
+      "startMs": 860100,
+      "endMs": 862660,
+      "en": "Do not keep this faith in Jesus Christ to yourselves.",
+      "zh": "不要把对耶稣基督的信仰藏在自己心中。"
+    },
+    {
+      "id": 155,
+      "startMs": 862820,
+      "endMs": 867620,
+      "en": "You are called to bring hope wherever discouragement and spiritual dryness prevail.",
+      "zh": "无论哪里有沮丧和精神上的枯竭，你们都应在那里带来希望。"
+    },
+    {
+      "id": 156,
+      "startMs": 867620,
+      "endMs": 873700,
+      "en": "The Pope also had a broader message about the restlessness of modern life",
+      "zh": "教皇还谈到了现代生活的躁动不安，传达了更广泛的信息，"
+    },
+    {
+      "id": 157,
+      "startMs": 874020,
+      "endMs": 879140,
+      "en": "and talked of an inner emptiness people seek to fill with distractions and more possessions.",
+      "zh": "并谈到人们试图用消遣和更多物质来填补内心的空虚。"
+    },
+    {
+      "id": 158,
+      "startMs": 879700,
+      "endMs": 880580,
+      "en": "Aleem Maqbool.",
+      "zh": "阿利姆·马克布尔报道。"
+    },
+    {
+      "id": 159,
+      "startMs": 882180,
+      "endMs": 885860,
+      "en": "Still to come in this podcast: this is Tenzing.",
+      "zh": "本期节目稍后播出：这就是《丹增》。"
+    },
+    {
+      "id": 160,
+      "startMs": 886820,
+      "endMs": 890340,
+      "en": "I wanted to tell a different side of the story.",
+      "zh": "我想讲述这个故事的另一面。"
+    },
+    {
+      "id": 161,
+      "startMs": 890420,
+      "endMs": 894340,
+      "en": "He'd always been the supporting character as opposed to the hero of that narrative.",
+      "zh": "与那个叙事中的英雄相比，他一直只是配角。"
+    },
+    {
+      "id": 162,
+      "startMs": 894660,
+      "endMs": 898180,
+      "en": "Yeah, the unsung hero of the first ascent of Everest brought to the big screen.",
+      "zh": "没错，这位珠穆朗玛峰首次登顶的无名英雄被搬上了大银幕。"
+    },
+    {
+      "id": 163,
+      "startMs": 898180,
+      "endMs": 899780,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 164,
+      "startMs": 900740,
+      "endMs": 907300,
+      "en": "It is almost 30 years since a peace process brought relative calm to Northern Ireland after decades of violent conflict.",
+      "zh": "和平进程让北爱尔兰相对恢复平静，距今已近30年；此前那里经历了数十年的暴力冲突。"
+    },
+    {
+      "id": 165,
+      "startMs": 907780,
+      "endMs": 917860,
+      "en": "But tensions between many Catholics and Protestants remain, and they are particularly acute because a Protestant group is due to march through a Catholic area.",
+      "zh": "但许多天主教徒和新教徒之间的紧张关系仍在；如今局势尤其尖锐，因为一个新教团体即将穿过天主教徒聚居区游行。"
+    },
+    {
+      "id": 166,
+      "startMs": 918180,
+      "endMs": 923780,
+      "en": "The march in the town of Portadown is due to take place just a few hours after we record this podcast.",
+      "zh": "这场在波塔当举行的游行，将在我们录制本播客几小时后进行。"
+    },
+    {
+      "id": 167,
+      "startMs": 924260,
+      "endMs": 926580,
+      "en": "It will be the first such march there in decades.",
+      "zh": "这是那里数十年来首次举行这样的游行。"
+    },
+    {
+      "id": 168,
+      "startMs": 926900,
+      "endMs": 931860,
+      "en": "An application to block it was dismissed by judges who sat late into the night to make their ruling.",
+      "zh": "法官连夜开庭作出裁决，但阻止游行的申请被驳回。"
+    },
+    {
+      "id": 169,
+      "startMs": 932180,
+      "endMs": 944260,
+      "en": "Our correspondent Chris Page told me more from Belfast. The latest ruling means one of Northern Ireland's most contentious marches can go ahead at 8:00 on Sunday morning.",
+      "zh": "我们的记者克里斯·佩奇在贝尔法斯特告诉我更多情况。最新裁决意味着，北爱最具争议的游行之一可以在周日早上8点举行。"
+    },
+    {
+      "id": 170,
+      "startMs": 944500,
+      "endMs": 950740,
+      "en": "During the night, a large crowd gathered on the Garvaghy Road, including some men wearing masks.",
+      "zh": "夜间，一大群人聚集在加瓦吉路，其中一些人戴着面具。"
+    },
+    {
+      "id": 171,
+      "startMs": 951040,
+      "endMs": 959600,
+      "en": "It's understood that 200 extra police officers have come to Northern Ireland from Scotland to help with contingency planning.",
+      "zh": "据悉，200名增援警员已从苏格兰来到北爱尔兰，协助应急部署。"
+    },
+    {
+      "id": 172,
+      "startMs": 959840,
+      "endMs": 963040,
+      "en": "And really, there was a sense of tensions rising.",
+      "zh": "确实，人们感到紧张局势正在升级。"
+    },
+    {
+      "id": 173,
+      "startMs": 963040,
+      "endMs": 972160,
+      "en": "There have been appeals for calm from the British government in London, the Irish government in Dublin, and politicians in Northern Ireland.",
+      "zh": "英国伦敦政府、爱尔兰都柏林政府以及北爱尔兰政界人士都呼吁保持冷静。"
+    },
+    {
+      "id": 174,
+      "startMs": 972160,
+      "endMs": 976720,
+      "en": "Though the political reaction here has also been strong.",
+      "zh": "不过，这里的政治反应也很强烈。"
+    },
+    {
+      "id": 175,
+      "startMs": 976720,
+      "endMs": 984480,
+      "en": "Sinn Féin, the biggest Irish nationalist party here, described the decision to allow the march as a disgrace.",
+      "zh": "这里最大的爱尔兰民族主义政党新芬党称，允许游行举行的决定令人蒙羞。"
+    },
+    {
+      "id": 176,
+      "startMs": 984480,
+      "endMs": 991440,
+      "en": "The party's leader, Mary Lou McDonald, said the march is steeped in a history of hate, sectarian violence and murder.",
+      "zh": "该党领袖玛丽·卢·麦克唐纳说，这场游行深深浸染着仇恨、宗派暴力和谋杀的历史。"
+    },
+    {
+      "id": 177,
+      "startMs": 992080,
+      "endMs": 997440,
+      "en": "Unionist politicians, though, have welcomed the outcome of the court process.",
+      "zh": "但统一派政客对法院程序的结果表示欢迎。"
+    },
+    {
+      "id": 178,
+      "startMs": 997440,
+      "endMs": 1008400,
+      "en": "The local MP for Portadown, Carla Lockhart of the Democratic Unionist Party, said it had been a seismic evening for the rule of law.",
+      "zh": "波塔当当地议员、民主统一党成员卡拉·洛克哈特说，这是法治经历的一个地震般的夜晚。"
+    },
+    {
+      "id": 179,
+      "startMs": 1008400,
+      "endMs": 1015380,
+      "en": "So this is one of those issues in Northern Ireland where deep political divisions have been laid bare.",
+      "zh": "所以，这正是北爱尔兰深层政治分歧暴露无遗的议题之一。"
+    },
+    {
+      "id": 180,
+      "startMs": 1015620,
+      "endMs": 1019300,
+      "en": "And it's possible that the police could have a very difficult day ahead.",
+      "zh": "警方未来一天可能会非常难熬。"
+    },
+    {
+      "id": 181,
+      "startMs": 1019940,
+      "endMs": 1028980,
+      "en": "So how does the tension over this particular march reflect wider divisions between Catholics and Protestants in Northern Ireland?",
+      "zh": "那么，这场游行引发的紧张，如何反映北爱尔兰天主教徒和新教徒之间更广泛的分歧？"
+    },
+    {
+      "id": 182,
+      "startMs": 1029880,
+      "endMs": 1036120,
+      "en": "The history of conflict here has left a very long and difficult legacy.",
+      "zh": "这里的冲突历史留下了漫长而艰难的遗产。"
+    },
+    {
+      "id": 183,
+      "startMs": 1036520,
+      "endMs": 1044280,
+      "en": "More than 3,000 people were killed during the conflict known as the Troubles, which lasted from the late 1960s until the late 1990s.",
+      "zh": "在被称为“北爱尔兰问题”的冲突中，超过3000人丧生；冲突从20世纪60年代末持续到90年代末。"
+    },
+    {
+      "id": 184,
+      "startMs": 1044280,
+      "endMs": 1053160,
+      "en": "It was a complex conflict with various elements, and whenever a historical issue rears its head, people look back to the past.",
+      "zh": "那是一场包含多种因素的复杂冲突；每当历史问题重新出现，人们就会回望过去。"
+    },
+    {
+      "id": 185,
+      "startMs": 1053560,
+      "endMs": 1060200,
+      "en": "They talk about the past and the violence that happened.",
+      "zh": "他们谈论过去，以及曾经发生的暴力。"
+    },
+    {
+      "id": 186,
+      "startMs": 1060280,
+      "endMs": 1063480,
+      "en": "The Drumcree parade is one example of it.",
+      "zh": "德拉姆克里游行就是其中一例。"
+    },
+    {
+      "id": 187,
+      "startMs": 1064040,
+      "endMs": 1070040,
+      "en": "It's being discussed and debated on social media as well, drawing lots of comments.",
+      "zh": "这件事也在社交媒体上被讨论和争辩，引来大量评论。"
+    },
+    {
+      "id": 188,
+      "startMs": 1070360,
+      "endMs": 1073560,
+      "en": "It has created a new sense of division.",
+      "zh": "这造成了新的分裂感。"
+    },
+    {
+      "id": 189,
+      "startMs": 1073560,
+      "endMs": 1080680,
+      "en": "That said, most people in Northern Ireland are mindful that this is a very different place from what it was 30 years ago.",
+      "zh": "不过，北爱尔兰大多数人都清楚，这里已经与30年前大不相同。"
+    },
+    {
+      "id": 190,
+      "startMs": 1080760,
+      "endMs": 1087720,
+      "en": "The peace process has been largely successful and the peace has largely held, but those divisions are still a reality.",
+      "zh": "和平进程总体成功，和平大体得以维持，但这些分歧仍是现实。"
+    },
+    {
+      "id": 191,
+      "startMs": 1087720,
+      "endMs": 1100540,
+      "en": "The possibility of street violence is always considered by the police, politicians, and the governments in London and Dublin. Chris Page.",
+      "zh": "警方、政客以及伦敦和都柏林政府始终在考虑街头暴力的可能性。克里斯·佩奇。"
+    },
+    {
+      "id": 192,
+      "startMs": 1101520,
+      "endMs": 1105440,
+      "en": "Bangladesh is in the middle of its worst-ever measles outbreak.",
+      "zh": "孟加拉国正处于有史以来最严重的麻疹疫情之中。"
+    },
+    {
+      "id": 193,
+      "startMs": 1105520,
+      "endMs": 1110080,
+      "en": "The highly contagious disease has killed more than 1,000 people this year, most of them children.",
+      "zh": "这种传染性极强的疾病今年已导致1000多人死亡，其中大多数是儿童。"
+    },
+    {
+      "id": 194,
+      "startMs": 1110720,
+      "endMs": 1114720,
+      "en": "The government has launched a nationwide measles-rubella vaccination campaign.",
+      "zh": "政府已启动全国性的麻疹—风疹疫苗接种行动。"
+    },
+    {
+      "id": 195,
+      "startMs": 1115120,
+      "endMs": 1119600,
+      "en": "Amrasan Etirajan told us how it's being targeted in communities across the country.",
+      "zh": "阿姆拉桑·埃蒂拉詹介绍了这项行动如何覆盖全国各地社区。"
+    },
+    {
+      "id": 196,
+      "startMs": 1120320,
+      "endMs": 1129760,
+      "en": "This campaign is particularly important because, for the first time, they have reduced the vaccination age for children from nine months to six months.",
+      "zh": "这项行动尤其重要，因为他们首次将儿童接种年龄从9个月下调至6个月。"
+    },
+    {
+      "id": 197,
+      "startMs": 1130080,
+      "endMs": 1138880,
+      "en": "Usually measles is a two-dose vaccine, and this campaign aims to inoculate about 3.4 million children.",
+      "zh": "麻疹疫苗通常需要接种两剂；这项行动计划为约340万名儿童接种。"
+    },
+    {
+      "id": 198,
+      "startMs": 1139440,
+      "endMs": 1145920,
+      "en": "It's going to be a month-long campaign, with a lot of logistics involved in transporting these vaccines around the country.",
+      "zh": "这项行动将持续一个月，把疫苗运往全国各地需要大量后勤工作。"
+    },
+    {
+      "id": 199,
+      "startMs": 1146240,
+      "endMs": 1148000,
+      "en": "Now, what are the symptoms of measles?",
+      "zh": "那么，麻疹有哪些症状？"
+    },
+    {
+      "id": 200,
+      "startMs": 1148000,
+      "endMs": 1152160,
+      "en": "They include high fever, rashes and breathing difficulties.",
+      "zh": "症状包括高烧、皮疹和呼吸困难。"
+    },
+    {
+      "id": 201,
+      "startMs": 1152320,
+      "endMs": 1156400,
+      "en": "The vaccine was previously given to children from nine months up to five years old.",
+      "zh": "此前，这种疫苗接种对象是9个月至5岁的儿童。"
+    },
+    {
+      "id": 202,
+      "startMs": 1156640,
+      "endMs": 1161040,
+      "en": "Bangladesh has had a major outbreak since the beginning of this year.",
+      "zh": "孟加拉国今年年初以来一直发生大规模疫情。"
+    },
+    {
+      "id": 203,
+      "startMs": 1161440,
+      "endMs": 1163920,
+      "en": "Experts are attributing it to various reasons.",
+      "zh": "专家认为，这有多方面原因。"
+    },
+    {
+      "id": 204,
+      "startMs": 1163920,
+      "endMs": 1172320,
+      "en": "The first is that during the COVID period, many parents did not take their children to vaccination centres because transport was shut down.",
+      "zh": "第一个原因是新冠疫情期间交通停运，许多家长没有带孩子去接种中心。"
+    },
+    {
+      "id": 205,
+      "startMs": 1172400,
+      "endMs": 1176240,
+      "en": "It requires 95% of the children's population to be vaccinated.",
+      "zh": "这需要95%的儿童接种疫苗。"
+    },
+    {
+      "id": 206,
+      "startMs": 1176720,
+      "endMs": 1181360,
+      "en": "Bangladesh also witnessed a political upheaval in August 2024.",
+      "zh": "孟加拉国在2024年8月还经历了政治动荡。"
+    },
+    {
+      "id": 207,
+      "startMs": 1181760,
+      "endMs": 1187140,
+      "en": "The then Prime Minister Sheikh Hasina was overthrown following a student-led uprising.",
+      "zh": "时任总理谢赫·哈西娜在一场学生领导的起义后被推翻。"
+    },
+    {
+      "id": 208,
+      "startMs": 1187540,
+      "endMs": 1191860,
+      "en": "There was a lot of uncertainty and chaos during the interim government period.",
+      "zh": "临时政府时期充满了不确定性和混乱。"
+    },
+    {
+      "id": 209,
+      "startMs": 1191940,
+      "endMs": 1198340,
+      "en": "UN officials said the then interim government did not procure vaccines at the right time.",
+      "zh": "联合国官员说，当时的临时政府没有及时采购疫苗。"
+    },
+    {
+      "id": 210,
+      "startMs": 1198420,
+      "endMs": 1202340,
+      "en": "Because of the political violence, many health centres were closed.",
+      "zh": "由于政治暴力，许多医疗中心关闭。"
+    },
+    {
+      "id": 211,
+      "startMs": 1202660,
+      "endMs": 1204900,
+      "en": "Parents were not taking their children there.",
+      "zh": "家长没有带孩子前往接种。"
+    },
+    {
+      "id": 212,
+      "startMs": 1205300,
+      "endMs": 1210340,
+      "en": "That was one reason: there is a huge gap, and measles is highly contagious.",
+      "zh": "这是原因之一：接种存在巨大缺口，而麻疹传染性极强。"
+    },
+    {
+      "id": 213,
+      "startMs": 1210340,
+      "endMs": 1217860,
+      "en": "Experts point out that if one child is not vaccinated, another hundred could get the disease.",
+      "zh": "专家指出，如果有一个孩子未接种，可能会有另外100人感染。"
+    },
+    {
+      "id": 214,
+      "startMs": 1217860,
+      "endMs": 1224900,
+      "en": "That is why they insist on a watertight situation, but it will take time because of this gap.",
+      "zh": "因此他们坚持要做到万无一失，但由于存在这一缺口，还需要时间。"
+    },
+    {
+      "id": 215,
+      "startMs": 1225220,
+      "endMs": 1226980,
+      "en": "They are now trying to fill that gap.",
+      "zh": "他们现在正努力填补这一缺口。"
+    },
+    {
+      "id": 216,
+      "startMs": 1227780,
+      "endMs": 1228740,
+      "en": "I am Amrasan Etirajan.",
+      "zh": "我是阿姆拉桑·埃蒂拉詹。"
+    },
+    {
+      "id": 217,
+      "startMs": 1229760,
+      "endMs": 1238640,
+      "en": "Now a few hours ago I typed ‘list of unsung heroes’ into a search engine, and right at the very top came the name Tenzing Norgay.",
+      "zh": "几小时前，我在搜索引擎中输入‘无名英雄名单’，排在最前面的正是丹增·诺尔盖。"
+    },
+    {
+      "id": 218,
+      "startMs": 1238640,
+      "endMs": 1242640,
+      "en": "The Sherpa mountaineer who made the first ascent of Everest in 1953",
+      "zh": "这位夏尔巴登山家于1953年首次登上珠穆朗玛峰。"
+    },
+    {
+      "id": 219,
+      "startMs": 1243920,
+      "endMs": 1249840,
+      "en": "He's better known now, but for decades he was overshadowed by his climbing partner, the New Zealander Edmund Hillary.",
+      "zh": "如今他的知名度提高了，但几十年来一直被他的登山伙伴、新西兰人埃德蒙·希拉里遮蔽光芒。"
+    },
+    {
+      "id": 220,
+      "startMs": 1250400,
+      "endMs": 1257360,
+      "en": "Now a film doing the rounds of festivals around the world is highlighting Tenzing Norgay's unique part in conquering a peak",
+      "zh": "如今，一部在世界各地电影节巡展的影片，突出了丹增·诺尔盖征服一座山峰时所发挥的独特作用。"
+    },
+    {
+      "id": 221,
+      "startMs": 1257360,
+      "endMs": 1260240,
+      "en": "that Nepalis know as the Goddess of the Sky.",
+      "zh": "尼泊尔人称这座山为‘天空女神’。"
+    },
+    {
+      "id": 222,
+      "startMs": 1260640,
+      "endMs": 1262400,
+      "en": "From Canada, Tom Brook reports.",
+      "zh": "汤姆·布鲁克从加拿大报道。"
+    },
+    {
+      "id": 223,
+      "startMs": 1264920,
+      "endMs": 1269720,
+      "en": "The Toronto Film Festival, one of the stops for the historical drama Tenzing,",
+      "zh": "多伦多电影节是历史剧情片《丹增》巡展的一站。"
+    },
+    {
+      "id": 224,
+      "startMs": 1269720,
+      "endMs": 1274040,
+      "en": "which is being shown at several major festivals in the run-up to its release next month.",
+      "zh": "这部影片将在下月上映，目前正在几大电影节展映。"
+    },
+    {
+      "id": 225,
+      "startMs": 1274360,
+      "endMs": 1275640,
+      "en": "This is Tenzing.",
+      "zh": "这就是《丹增》。"
+    },
+    {
+      "id": 226,
+      "startMs": 1276580,
+      "endMs": 1283220,
+      "en": "The man we've all been waiting for. The film tells of the triumphant 1953 British Mount Everest expedition",
+      "zh": "我们一直等待的那个人。这部影片讲述了1953年英国珠穆朗玛峰探险队取得辉煌成就的故事。"
+    },
+    {
+      "id": 227,
+      "startMs": 1283540,
+      "endMs": 1290500,
+      "en": "in which New Zealander Edmund Hillary and Sherpa mountaineer Tenzing Norgay became the first men to reach the peak of Everest.",
+      "zh": "新西兰人埃德蒙·希拉里和夏尔巴登山家丹增·诺尔盖在这次探险中成为首批登上珠峰的人。"
+    },
+    {
+      "id": 228,
+      "startMs": 1292360,
+      "endMs": 1296200,
+      "en": "In Britain, news of the feat came through on the eve of Coronation Day",
+      "zh": "在英国，这一壮举的消息在加冕日的前夕传来。"
+    },
+    {
+      "id": 229,
+      "startMs": 1296200,
+      "endMs": 1300440,
+      "en": "in 1953, and it was perceived as a great British achievement.",
+      "zh": "那是1953年，人们将其视为英国的一项伟大成就。"
+    },
+    {
+      "id": 230,
+      "startMs": 1301180,
+      "endMs": 1302620,
+      "en": "Perhaps we should join forces.",
+      "zh": "也许我们应该联手。"
+    },
+    {
+      "id": 231,
+      "startMs": 1302780,
+      "endMs": 1308220,
+      "en": "In the film, Tom Hiddleston portrays Edmund Hillary and Tibetan actor Genden Phuntsok plays Tenzing.",
+      "zh": "片中，汤姆·希德勒斯顿饰演埃德蒙·希拉里，藏族演员更登彭措饰演丹增。"
+    },
+    {
+      "id": 232,
+      "startMs": 1310780,
+      "endMs": 1319100,
+      "en": "The cast has been promoting this picture along with Australian director Jennifer Peedom, who with the film is making her first narrative feature.",
+      "zh": "演员们与澳大利亚导演詹妮弗·皮多姆一起宣传这部影片；这是她首次执导剧情长片。"
+    },
+    {
+      "id": 233,
+      "startMs": 1319580,
+      "endMs": 1325580,
+      "en": "In this film, the story of the British Everest expedition puts the emphasis on Sherpa Tenzing Norgay.",
+      "zh": "这部影片讲述英国珠峰探险队的故事，重点放在夏尔巴人丹增·诺尔盖身上。"
+    },
+    {
+      "id": 234,
+      "startMs": 1325740,
+      "endMs": 1329100,
+      "en": "I wanted to tell a different side of the story.",
+      "zh": "我想讲述这个故事不同的一面。"
+    },
+    {
+      "id": 235,
+      "startMs": 1329100,
+      "endMs": 1333980,
+      "en": "Tenzing Norgay was one of the people that helped achieve that feat for the British.",
+      "zh": "丹增·诺尔盖是帮助英国人完成这一壮举的人之一。"
+    },
+    {
+      "id": 236,
+      "startMs": 1334060,
+      "endMs": 1336540,
+      "en": "And he'd always been the supporting character.",
+      "zh": "而且他一直都是配角。"
+    },
+    {
+      "id": 237,
+      "startMs": 1336540,
+      "endMs": 1341420,
+      "en": "He'd always been the Sherpa guide, Tenzing Norgay, as opposed to the hero of that narrative.",
+      "zh": "他一直只是夏尔巴向导丹增·诺尔盖，而不是那个叙事中的英雄。"
+    },
+    {
+      "id": 238,
+      "startMs": 1341580,
+      "endMs": 1346940,
+      "en": "It just felt to me time to redress that balance, or just to look at that story from a different point of view.",
+      "zh": "我只是觉得，是时候纠正这种失衡，或者换个角度看这个故事了。"
+    },
+    {
+      "id": 239,
+      "startMs": 1346940,
+      "endMs": 1349420,
+      "en": "And what it meant for him. I am on the climbing team.",
+      "zh": "以及这对他意味着什么。我在登山队里。"
+    },
+    {
+      "id": 240,
+      "startMs": 1349660,
+      "endMs": 1356380,
+      "en": "The movie conveys the difference in approach between how British members of the expedition viewed Everest as a mountain to be conquered",
+      "zh": "影片展现了两种不同的方式：英国探险队成员把珠峰视为要征服的山。"
+    },
+    {
+      "id": 241,
+      "startMs": 1356780,
+      "endMs": 1360940,
+      "en": "whereas Tenzing and the Himalayan Sherpa community revered Everest as sacred.",
+      "zh": "而丹增和喜马拉雅夏尔巴社群则将珠峰视为神圣之地。"
+    },
+    {
+      "id": 242,
+      "startMs": 1361420,
+      "endMs": 1367900,
+      "en": "For those people in that community, those mountains and those landscapes are the living embodiment of their gods.",
+      "zh": "对那个社群的人来说，那些山脉和景观就是他们所信奉神灵的活生生化身。"
+    },
+    {
+      "id": 243,
+      "startMs": 1367900,
+      "endMs": 1370780,
+      "en": "For Westerners, it's a symbol of achievement.",
+      "zh": "对西方人来说，它是成就的象征。"
+    },
+    {
+      "id": 244,
+      "startMs": 1370800,
+      "endMs": 1377520,
+      "en": "And so, I mean, there's various scenes in the film that the Sherpas describe the mountains as the bones and them as the blood.",
+      "zh": "所以，影片中有一些场景，夏尔巴人把这些山脉描述为骨骼，而他们则是血液。"
+    },
+    {
+      "id": 245,
+      "startMs": 1377840,
+      "endMs": 1384640,
+      "en": "It's a different relationship to landscape that we possibly don't understand. This was an opportunity to explore that idea.",
+      "zh": "这是我们可能无法理解的、与土地不同的关系。这是一次探索这种观念的机会。"
+    },
+    {
+      "id": 246,
+      "startMs": 1385880,
+      "endMs": 1391880,
+      "en": "Tenzing had its Canadian premiere here at the Toronto International Film Festival, and it took place",
+      "zh": "《丹增》在多伦多国际电影节举行了加拿大首映，首映发生在"
+    },
+    {
+      "id": 247,
+      "startMs": 1391960,
+      "endMs": 1399240,
+      "en": "less than a month after the huge devastation wrought by landslides and flash floods in the Nepal-Tibet region,",
+      "zh": "尼泊尔—西藏地区遭受山体滑坡和山洪造成的巨大破坏还不到一个月之后，"
+    },
+    {
+      "id": 248,
+      "startMs": 1399560,
+      "endMs": 1402680,
+      "en": "not far from where this Mount Everest epic was set.",
+      "zh": "而影片这部珠峰史诗的故事背景离那里并不远。"
+    },
+    {
+      "id": 249,
+      "startMs": 1403160,
+      "endMs": 1408120,
+      "en": "But it is seen as providing audiences with a positive and respectful portrait",
+      "zh": "但人们认为，这部影片为观众呈现了积极且尊重的形象，"
+    },
+    {
+      "id": 250,
+      "startMs": 1408120,
+      "endMs": 1414600,
+      "en": "of not just Tenzing Norgay and Edmund Hillary, but also the local population who live in the region.",
+      "zh": "不仅是丹增·诺尔盖和埃德蒙·希拉里，也包括生活在这个地区的当地居民。"
+    },
+    {
+      "id": 251,
+      "startMs": 1415080,
+      "endMs": 1420440,
+      "en": "One of the film's producers, Ian Canning, acknowledges the film is landing in the wake of a tragedy.",
+      "zh": "影片制片人之一伊恩·坎宁承认，这部电影是在一场悲剧发生后上映的。"
+    },
+    {
+      "id": 252,
+      "startMs": 1420440,
+      "endMs": 1429160,
+      "en": "I think the film can play some part in bringing that part of the world's culture to the screen and to audiences all around the world.",
+      "zh": "我认为，这部影片能发挥一定作用，把世界这一地区的文化带到银幕上，呈现给世界各地的观众。"
+    },
+    {
+      "id": 253,
+      "startMs": 1429400,
+      "endMs": 1436440,
+      "en": "And I think hopefully some sort of feeling of how turbulent and unpredictable the environment and landscape can be.",
+      "zh": "我也希望它能让人感受到，那里的环境和景观可能多么动荡、难以预测。"
+    },
+    {
+      "id": 254,
+      "startMs": 1436440,
+      "endMs": 1439640,
+      "en": "And I think that Tenzing in its small way also tells that story.",
+      "zh": "我认为，《丹增》也以自己的微小方式讲述了这个故事。"
+    },
+    {
+      "id": 255,
+      "startMs": 1440680,
+      "endMs": 1443160,
+      "en": "The film's cinematography is striking.",
+      "zh": "这部电影的摄影令人印象深刻。"
+    },
+    {
+      "id": 256,
+      "startMs": 1443320,
+      "endMs": 1447560,
+      "en": "The mountain climbing sequences shot in Nepal and New Zealand come across as authentic,",
+      "zh": "在尼泊尔和新西兰拍摄的登山场面看起来很真实，"
+    },
+    {
+      "id": 257,
+      "startMs": 1448040,
+      "endMs": 1451080,
+      "en": "and so does the story of the soft-spoken Tenzing,",
+      "zh": "温和寡言的丹增的故事也同样如此，"
+    },
+    {
+      "id": 258,
+      "startMs": 1451400,
+      "endMs": 1455720,
+      "en": "a man who contributed mightily to what was perceived as a great British triumph,",
+      "zh": "他为被视为英国伟大胜利的壮举作出了巨大贡献，"
+    },
+    {
+      "id": 259,
+      "startMs": 1456120,
+      "endMs": 1460200,
+      "en": "but who may through this film get people to understand his perspective",
+      "zh": "但通过这部影片，人们或许能理解他的视角，"
+    },
+    {
+      "id": 260,
+      "startMs": 1460520,
+      "endMs": 1464120,
+      "en": "and view mountains and mother nature in a rather different way.",
+      "zh": "以一种相当不同的方式看待山脉和大自然。"
+    },
+    {
+      "id": 261,
+      "startMs": 1466260,
+      "endMs": 1467700,
+      "en": "Tom Brook reporting.",
+      "zh": "汤姆·布鲁克报道。"
+    },
+    {
+      "id": 262,
+      "startMs": 1468580,
+      "endMs": 1474740,
+      "en": "Now, many of us have probably made a few impulse buys on the internet over the years and immediately regretted it.",
+      "zh": "如今，我们许多人可能都曾在网上冲动购物，之后立刻后悔。"
+    },
+    {
+      "id": 263,
+      "startMs": 1475060,
+      "endMs": 1479060,
+      "en": "So how about getting the excitement of buying something without spending any money?",
+      "zh": "那么，不花钱也能体验购物的兴奋感，怎么样？"
+    },
+    {
+      "id": 264,
+      "startMs": 1479300,
+      "endMs": 1482740,
+      "en": "You can, it seems, thanks to so-called dopamine websites.",
+      "zh": "看起来可以，这要归功于所谓的“多巴胺网站”。"
+    },
+    {
+      "id": 265,
+      "startMs": 1483220,
+      "endMs": 1487380,
+      "en": "They took off in South Korea some time ago, but now they can be accessed around the world.",
+      "zh": "这类网站一段时间前在韩国兴起，如今世界各地都能访问。"
+    },
+    {
+      "id": 266,
+      "startMs": 1487460,
+      "endMs": 1491860,
+      "en": "So what are these popular fake experience websites and how do they work?",
+      "zh": "那么，这些流行的虚拟体验网站是什么，又是如何运作的？"
+    },
+    {
+      "id": 267,
+      "startMs": 1492100,
+      "endMs": 1494500,
+      "en": "Celia Hatton asked our reporter Ira Khan.",
+      "zh": "塞莉娅·哈顿采访了我们的记者伊拉·汗。"
+    },
+    {
+      "id": 268,
+      "startMs": 1494900,
+      "endMs": 1499860,
+      "en": "These sites mimic the ritual of buying something without you actually paying for it.",
+      "zh": "这些网站模拟购物的仪式感，却不用你真的付款。"
+    },
+    {
+      "id": 269,
+      "startMs": 1500340,
+      "endMs": 1505060,
+      "en": "There's fake delivery sites, fake shopping sites. You can even get a fake holiday.",
+      "zh": "有虚假的外卖网站、购物网站，甚至还能安排一场虚假的假期。"
+    },
+    {
+      "id": 270,
+      "startMs": 1505380,
+      "endMs": 1508980,
+      "en": "For example, one of the sites is called Food Never Comes in India.",
+      "zh": "例如，其中一个网站叫作“印度永远收不到外卖”。"
+    },
+    {
+      "id": 271,
+      "startMs": 1509540,
+      "endMs": 1514180,
+      "en": "What you do, you open the site, there's a real-life menu with actual prices.",
+      "zh": "你打开网站，就会看到一份有真实价格的现实菜单。"
+    },
+    {
+      "id": 272,
+      "startMs": 1514660,
+      "endMs": 1518260,
+      "en": "You even get a call from the delivery driver telling you when he's outside.",
+      "zh": "你甚至会接到外卖员的电话，告诉你他已经在门外。"
+    },
+    {
+      "id": 273,
+      "startMs": 1518980,
+      "endMs": 1521620,
+      "en": "And it's actually an AI-generated delivery driver.",
+      "zh": "而且，那其实是一名由人工智能生成的外卖员。"
+    },
+    {
+      "id": 274,
+      "startMs": 1522180,
+      "endMs": 1526600,
+      "en": "The creators of this site say it's attracted almost 3 million visitors since June.",
+      "zh": "网站创建者说，自6月以来，它已经吸引了近300万名访客。"
+    },
+    {
+      "id": 275,
+      "startMs": 1527240,
+      "endMs": 1530760,
+      "en": "It's trying to basically mimic the ritual that we enjoy from shopping—",
+      "zh": "它基本上是在模拟我们从购物中享受的仪式感——"
+    },
+    {
+      "id": 276,
+      "startMs": 1531080,
+      "endMs": 1533960,
+      "en": "the satisfaction and the rush we get after we place an order",
+      "zh": "也就是下单后获得的满足感和兴奋感，"
+    },
+    {
+      "id": 277,
+      "startMs": 1534280,
+      "endMs": 1536120,
+      "en": "without us actually having to pay for it.",
+      "zh": "却不用我们真的付款。"
+    },
+    {
+      "id": 278,
+      "startMs": 1536360,
+      "endMs": 1538680,
+      "en": "How many times have you ordered something at night",
+      "zh": "你有多少次在夜里下单，"
+    },
+    {
+      "id": 279,
+      "startMs": 1539000,
+      "endMs": 1542680,
+      "en": "when you get the sort of delivery notification, you're like, \"Did I really even want that?\"",
+      "zh": "收到配送通知时，心想：“我真的想要那个吗？”"
+    },
+    {
+      "id": 280,
+      "startMs": 1543320,
+      "endMs": 1545480,
+      "en": "That's very true. Can you show me one of these sites?",
+      "zh": "确实如此。你能给我看看这类网站吗？"
+    },
+    {
+      "id": 281,
+      "startMs": 1545480,
+      "endMs": 1546760,
+      "en": "I want to see what one looks like.",
+      "zh": "我想看看它是什么样的。"
+    },
+    {
+      "id": 282,
+      "startMs": 1546920,
+      "endMs": 1549240,
+      "en": "So this site is called Dopamine Shop.",
+      "zh": "这个网站叫作“多巴胺商店”。"
+    },
+    {
+      "id": 283,
+      "startMs": 1549720,
+      "endMs": 1553560,
+      "en": "Can you show me the kinds of things that we might be able to choose from on Dopamine Shop?",
+      "zh": "你能给我看看我们可以在“多巴胺商店”里选择什么吗？"
+    },
+    {
+      "id": 284,
+      "startMs": 1554340,
+      "endMs": 1560180,
+      "en": "Ooh, okay, I see a fancy luxury watch, a very expensive-looking handbag.",
+      "zh": "哦，好，我看到一块漂亮的奢华手表，还有一个看起来非常昂贵的手提包。"
+    },
+    {
+      "id": 285,
+      "startMs": 1560500,
+      "endMs": 1563300,
+      "en": "Oh, I'm seeing my personal favorite, which is some water bottles.",
+      "zh": "哦，我看到了我个人最喜欢的东西：几只水瓶。"
+    },
+    {
+      "id": 286,
+      "startMs": 1563620,
+      "endMs": 1566420,
+      "en": "So say you click on one of these items, then what happens?",
+      "zh": "假设你点击其中一件商品，接下来会发生什么？"
+    },
+    {
+      "id": 287,
+      "startMs": 1566740,
+      "endMs": 1570180,
+      "en": "I'm personally really feeling this water bottle, so I'm going to add it to my cart,",
+      "zh": "我个人真的很喜欢这个水瓶，所以我要把它加入购物车，"
+    },
+    {
+      "id": 288,
+      "startMs": 1570340,
+      "endMs": 1574660,
+      "en": "and then I'm going to press the shopping icon just as you would on a regular site.",
+      "zh": "然后按下购物图标，就像在普通网站上一样。"
+    },
+    {
+      "id": 289,
+      "startMs": 1574820,
+      "endMs": 1576900,
+      "en": "It even shows you what the prices are.",
+      "zh": "它甚至会显示价格。"
+    },
+    {
+      "id": 290,
+      "startMs": 1576980,
+      "endMs": 1581700,
+      "en": "So I've got a gaming console in my cart and this water bottle that I actually really do want to buy,",
+      "zh": "我的购物车里有一台游戏机，还有这个我确实很想买的水瓶，"
+    },
+    {
+      "id": 291,
+      "startMs": 1582340,
+      "endMs": 1587540,
+      "en": "and the total is $744. So then presumably you would just click through.",
+      "zh": "总价是744美元。那么接下来，你大概只要点击继续。"
+    },
+    {
+      "id": 292,
+      "startMs": 1587700,
+      "endMs": 1589860,
+      "en": "I'm going to press checkout and let's see what happens.",
+      "zh": "我要点击结账，看看会发生什么。"
+    },
+    {
+      "id": 293,
+      "startMs": 1590100,
+      "endMs": 1591700,
+      "en": "Now it's going to continue to shipping.",
+      "zh": "现在要进入配送环节了。"
+    },
+    {
+      "id": 294,
+      "startMs": 1591940,
+      "endMs": 1594340,
+      "en": "We've managed to get free shipping, Celia, which is good.",
+      "zh": "塞莉娅，我们成功获得了免费配送，这很好。"
+    },
+    {
+      "id": 295,
+      "startMs": 1594340,
+      "endMs": 1596340,
+      "en": "Hey, we are spending a lot of fake money.",
+      "zh": "嘿，我们花了很多假钱。"
+    },
+    {
+      "id": 296,
+      "startMs": 1596340,
+      "endMs": 1600180,
+      "en": "Yes. Now I'm going to review my order and place order.",
+      "zh": "是的。现在我要查看订单并下单。"
+    },
+    {
+      "id": 297,
+      "startMs": 1600580,
+      "endMs": 1606500,
+      "en": "Okay, I've got an order number and they're saying the confirmation has been shared to my email.",
+      "zh": "好的，我拿到了订单号，他们说确认信息已经发到我的邮箱。"
+    },
+    {
+      "id": 298,
+      "startMs": 1606580,
+      "endMs": 1612660,
+      "en": "And there's even little confetti explosions across the screen like a celebration as if you've actually bought something.",
+      "zh": "屏幕上甚至飘起小彩纸，像是在庆祝你真的买了东西。"
+    },
+    {
+      "id": 299,
+      "startMs": 1612740,
+      "endMs": 1617960,
+      "en": "Yes, I'm really starting to feel excited as if this is actually coming to my home.",
+      "zh": "是的，我真的开始兴奋起来，仿佛它真的要送到我家。"
+    },
+    {
+      "id": 300,
+      "startMs": 1618280,
+      "endMs": 1622520,
+      "en": "So Ira, we've just gone through the process here. It took just a couple of seconds.",
+      "zh": "伊拉，我们刚刚走完了整个流程，只用了几秒钟。"
+    },
+    {
+      "id": 301,
+      "startMs": 1623080,
+      "endMs": 1625720,
+      "en": "Do these websites really work on a bigger scale?",
+      "zh": "这些网站在更大规模上真的有效吗？"
+    },
+    {
+      "id": 302,
+      "startMs": 1626120,
+      "endMs": 1634280,
+      "en": "What these websites are basically suggesting is when we want to go on a holiday or we want to order food, we're not actually craving the thing itself.",
+      "zh": "这些网站基本上是在说，当我们想去度假或点餐时，我们真正渴望的并不是那些东西本身。"
+    },
+    {
+      "id": 303,
+      "startMs": 1634840,
+      "endMs": 1637400,
+      "en": "We're mostly craving the rush that comes with it.",
+      "zh": "我们主要渴望的是随之而来的兴奋感。"
+    },
+    {
+      "id": 304,
+      "startMs": 1637800,
+      "endMs": 1642360,
+      "en": "You want to still experience that dopamine hit, which has become sort of a constant now in life,",
+      "zh": "人们仍想体验那种多巴胺刺激，它如今仿佛已成为生活中的常态，"
+    },
+    {
+      "id": 305,
+      "startMs": 1642840,
+      "endMs": 1645640,
+      "en": "without the downside, which is actually paying a lot of money.",
+      "zh": "却没有它的坏处，也就是实际花掉很多钱。"
+    },
+    {
+      "id": 306,
+      "startMs": 1645960,
+      "endMs": 1649480,
+      "en": "And although we aren't spending money right now buying these products,",
+      "zh": "虽然我们现在没有花钱购买这些产品，"
+    },
+    {
+      "id": 307,
+      "startMs": 1649960,
+      "endMs": 1654520,
+      "en": "the websites themselves are making money through the ads that they put on their websites.",
+      "zh": "但这些网站本身会通过投放在网站上的广告赚钱。"
+    },
+    {
+      "id": 308,
+      "startMs": 1654920,
+      "endMs": 1660520,
+      "en": "They're also sharing data about consumer spending and what products are doing well with people.",
+      "zh": "它们还会分享消费者支出以及哪些产品受欢迎的数据。"
+    },
+    {
+      "id": 309,
+      "startMs": 1661000,
+      "endMs": 1662760,
+      "en": "Ira Khan speaking to Celia Hatton.",
+      "zh": "伊拉·汗采访塞莉娅·哈顿。"
+    },
+    {
+      "id": 310,
+      "startMs": 1662760,
+      "endMs": 1664200,
+      "en": "And that's all from us for now.",
+      "zh": "现在，我们的节目就到这里。"
+    },
+    {
+      "id": 311,
+      "startMs": 1664360,
+      "endMs": 1669560,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 312,
+      "startMs": 1670200,
+      "endMs": 1675240,
+      "en": "You can also find us on X at BBC World Service. Use the hashtag GlobalNewsPod.",
+      "zh": "你也可以在X上通过@BBCWorldService找到我们，使用话题标签GlobalNewsPod。"
+    },
+    {
+      "id": 313,
+      "startMs": 1675240,
+      "endMs": 1680200,
+      "en": "This edition of the Global News Podcast was mixed by Chris Hansen and the producer was Emma Joseph.",
+      "zh": "本期《全球新闻播客》由克里斯·汉森混音，制片人是艾玛·约瑟夫。"
+    },
+    {
+      "id": 314,
+      "startMs": 1680680,
+      "endMs": 1684440,
+      "en": "The editor is Karen Martin. I am Nick Miles. And until next time, goodbye.",
+      "zh": "编辑是凯伦·马丁。我是尼克·迈尔斯。下期再见。"
+    }
+  ]
+}
