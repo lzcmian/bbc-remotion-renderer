@@ -1,0 +1,2146 @@
+{
+  "metadata": {
+    "brand": "BBC WORLD SERVICE",
+    "title": "Global News Podcast",
+    "episode": "28 September 2026"
+  },
+  "durationMs": 1604020,
+  "notices": [],
+  "cues": [
+    {
+      "id": 1,
+      "startMs": 0,
+      "endMs": 3040,
+      "en": "This is the Global News podcast from the BBC World Service.",
+      "zh": "这里是BBC World Service的《Global News》播客。"
+    },
+    {
+      "id": 2,
+      "startMs": 6060,
+      "endMs": 11260,
+      "en": "I'm Nick Miles and in the early hours of Monday the 28th of September, these are our main stories.",
+      "zh": "我是Nick Miles。现在是9月28日星期一凌晨，以下是主要新闻。"
+    },
+    {
+      "id": 3,
+      "startMs": 11820,
+      "endMs": 17020,
+      "en": "Five men are arrested in Britain on suspicion of explosives and terrorism offences.",
+      "zh": "英国逮捕5名男子，他们涉嫌犯有爆炸物和恐怖主义罪。"
+    },
+    {
+      "id": 4,
+      "startMs": 17500,
+      "endMs": 22300,
+      "en": "This follows reports of suspicious vehicles near an airbase used by the US military.",
+      "zh": "此前有人报告，在一处供美军使用的空军基地附近出现可疑车辆。"
+    },
+    {
+      "id": 5,
+      "startMs": 22860,
+      "endMs": 26540,
+      "en": "We have an exclusive report from Yemen, where fighting is intensifying.",
+      "zh": "我们将播出来自也门的独家报道，那里战斗正在加剧。"
+    },
+    {
+      "id": 6,
+      "startMs": 26620,
+      "endMs": 31260,
+      "en": "Iranian-backed Houthis continue to advance on the key city of Taiz.",
+      "zh": "伊朗支持的胡塞武装继续向重要城市塔伊兹推进。"
+    },
+    {
+      "id": 7,
+      "startMs": 31820,
+      "endMs": 39340,
+      "en": "Politics and sport collide as Ireland's football team beats Israel in a match overshadowed by the Gaza conflict.",
+      "zh": "爱尔兰足球队击败以色列，但这场比赛因加沙冲突而蒙上阴影，政治与体育发生碰撞。"
+    },
+    {
+      "id": 8,
+      "startMs": 42360,
+      "endMs": 49240,
+      "en": "Also in this podcast, Venezuelans take to the streets demanding the return of opposition leader Maria Corina Machado.",
+      "zh": "本期还将关注：委内瑞拉人走上街头，要求反对派领袖玛丽亚·科里娜·马查多回国。"
+    },
+    {
+      "id": 9,
+      "startMs": 49800,
+      "endMs": 51880,
+      "en": "Will she ever be allowed back in?",
+      "zh": "她究竟能否获准回国？"
+    },
+    {
+      "id": 10,
+      "startMs": 52120,
+      "endMs": 56520,
+      "en": "The early days of Route 66 are not a fun story.",
+      "zh": "66号公路早期的历史并不美好。"
+    },
+    {
+      "id": 11,
+      "startMs": 56520,
+      "endMs": 62280,
+      "en": "Where people really want to talk about it is that post-war the open road represented freedom.",
+      "zh": "人们真正想谈的是，战后这条开放公路曾代表自由。"
+    },
+    {
+      "id": 12,
+      "startMs": 62280,
+      "endMs": 65400,
+      "en": "And Route 66 just kept reinventing itself.",
+      "zh": "而66号公路不断重塑自身。"
+    },
+    {
+      "id": 13,
+      "startMs": 65800,
+      "endMs": 70360,
+      "en": "As the famous road celebrates its centenary, we take a ride down memory lane.",
+      "zh": "这条著名公路迎来百年之际，我们带你踏上怀旧之旅。"
+    },
+    {
+      "id": 14,
+      "startMs": 74120,
+      "endMs": 80760,
+      "en": "Speculation is growing over who was behind an attempted attack on an air force base here in the UK.",
+      "zh": "外界越来越猜测，究竟是谁策划了对英国一处空军基地的袭击。"
+    },
+    {
+      "id": 15,
+      "startMs": 81240,
+      "endMs": 83240,
+      "en": "The base is also used by the US military.",
+      "zh": "该基地也供美军使用。"
+    },
+    {
+      "id": 16,
+      "startMs": 83640,
+      "endMs": 88040,
+      "en": "Five men have been arrested on suspicion of explosives and terrorism offences.",
+      "zh": "5名男子因涉嫌爆炸物和恐怖主义罪已被逮捕。"
+    },
+    {
+      "id": 17,
+      "startMs": 88440,
+      "endMs": 92600,
+      "en": "The arrests followed reports of suspicious vehicles near the base in rural England.",
+      "zh": "此前有人报告，在英格兰乡村这处基地附近出现可疑车辆。"
+    },
+    {
+      "id": 18,
+      "startMs": 93240,
+      "endMs": 97880,
+      "en": "Earlier this year, the British government gave US warplanes permission to use RAF Fairford.",
+      "zh": "今年早些时候，英国政府允许美军战机使用RAF Fairford。"
+    },
+    {
+      "id": 19,
+      "startMs": 98280,
+      "endMs": 100840,
+      "en": "It was to be a staging post for strikes on Iran.",
+      "zh": "该基地将作为对伊朗发动打击的中转站。"
+    },
+    {
+      "id": 20,
+      "startMs": 101320,
+      "endMs": 104600,
+      "en": "Donald Trump praised British police for arresting the five men.",
+      "zh": "唐纳德·特朗普称赞英国警方逮捕这5名男子。"
+    },
+    {
+      "id": 21,
+      "startMs": 105160,
+      "endMs": 109160,
+      "en": "Working with Britain, it was an amazing job. We had them under investigation.",
+      "zh": "“与英国合作，这是了不起的工作。我们一直在调查他们。”"
+    },
+    {
+      "id": 22,
+      "startMs": 109160,
+      "endMs": 114040,
+      "en": "They were looking to do big damage to our fort.",
+      "zh": "“他们想重创我们的堡垒。”"
+    },
+    {
+      "id": 23,
+      "startMs": 114720,
+      "endMs": 117040,
+      "en": "Working with the British worked out great.",
+      "zh": "“与英国人合作非常顺利。”"
+    },
+    {
+      "id": 24,
+      "startMs": 117040,
+      "endMs": 119520,
+      "en": "It may have been Scotland Yard.",
+      "zh": "“可能是伦敦警察厅。”"
+    },
+    {
+      "id": 25,
+      "startMs": 119600,
+      "endMs": 121520,
+      "en": "I don't know. We worked with a lot of them.",
+      "zh": "“我不知道。我们和他们中的许多人合作过。”"
+    },
+    {
+      "id": 26,
+      "startMs": 122160,
+      "endMs": 124800,
+      "en": "We had them under view for a long time and we got them.",
+      "zh": "“我们监视他们很长时间，最终抓住了他们。”"
+    },
+    {
+      "id": 27,
+      "startMs": 125360,
+      "endMs": 129360,
+      "en": "President Trump claimed the men had been monitored for a long time.",
+      "zh": "特朗普总统称这些人曾被长期监视。"
+    },
+    {
+      "id": 28,
+      "startMs": 130000,
+      "endMs": 134640,
+      "en": "Local police have said the arrests occurred after a member of the public contacted them.",
+      "zh": "当地警方表示，逮捕行动是在一名公众联系他们后发生的。"
+    },
+    {
+      "id": 29,
+      "startMs": 134960,
+      "endMs": 139360,
+      "en": "Our diplomatic correspondent James Landale told us more about how this story unfolded.",
+      "zh": "我们的外交事务记者James Landale介绍了事件经过。"
+    },
+    {
+      "id": 30,
+      "startMs": 139840,
+      "endMs": 144720,
+      "en": "It began with a telephone call to the local police in the early hours of the morning.",
+      "zh": "事情始于凌晨，一名司机给当地警方打来电话。"
+    },
+    {
+      "id": 31,
+      "startMs": 144800,
+      "endMs": 152720,
+      "en": "A driver passing by saw three vans parked in a strange way and alerted the authorities.",
+      "zh": "一名路过的司机看到3辆面包车以奇怪方式停放，于是向当局报警。"
+    },
+    {
+      "id": 32,
+      "startMs": 152720,
+      "endMs": 154480,
+      "en": "And then it followed from there.",
+      "zh": "随后事情就这样发展下去。"
+    },
+    {
+      "id": 33,
+      "startMs": 154480,
+      "endMs": 164160,
+      "en": "It is a global story because this kind of threat against military infrastructure across Europe is now forming a pattern.",
+      "zh": "这是一起全球性事件，因为这种针对欧洲各地军事基础设施的威胁正在形成某种模式。"
+    },
+    {
+      "id": 34,
+      "startMs": 164480,
+      "endMs": 170400,
+      "en": "The idea is hostile activity spilling out of conflicts around the world.",
+      "zh": "这意味着敌对活动从世界各地的冲突中蔓延出来。"
+    },
+    {
+      "id": 35,
+      "startMs": 170400,
+      "endMs": 175300,
+      "en": "It reaches European capitals and countries, and even the United States.",
+      "zh": "它波及欧洲各国首都和国家，甚至波及美国。"
+    },
+    {
+      "id": 36,
+      "startMs": 175540,
+      "endMs": 179460,
+      "en": "The interesting questions are: what was the threat, and where did these men come from?",
+      "zh": "有意思的问题是：威胁究竟是什么？这些人来自哪里？"
+    },
+    {
+      "id": 37,
+      "startMs": 179460,
+      "endMs": 181460,
+      "en": "At the moment, we don't know an awful lot.",
+      "zh": "目前我们有很多事情并不知道。"
+    },
+    {
+      "id": 38,
+      "startMs": 181620,
+      "endMs": 188180,
+      "en": "We know that the Iranians have directly threatened the British authorities for allowing the Americans to use the base.",
+      "zh": "我们知道，伊朗曾直接威胁英国当局，原因是英国允许美国人使用该基地。"
+    },
+    {
+      "id": 39,
+      "startMs": 188500,
+      "endMs": 193620,
+      "en": "There was a formal statement by the Ministry of Foreign Affairs in Tehran in July making that threat.",
+      "zh": "7月，德黑兰外交部发表正式声明，作出了这一威胁。"
+    },
+    {
+      "id": 40,
+      "startMs": 194020,
+      "endMs": 206180,
+      "en": "In the last few days, UK Foreign Secretary Ed Miliband met Iranian Foreign Minister Mr Araghchi and explicitly warned him against hostile activity by foreign states in the UK.",
+      "zh": "过去几天，英国外交大臣埃德·米利班德会见伊朗外交部长阿巴斯·阿拉格齐，并明确警告他不要让外国在英国境内开展敌对活动。"
+    },
+    {
+      "id": 41,
+      "startMs": 206500,
+      "endMs": 212500,
+      "en": "He reinforced UK resolve against such threats.",
+      "zh": "他重申英国应对这类威胁的决心。"
+    },
+    {
+      "id": 42,
+      "startMs": 212820,
+      "endMs": 218740,
+      "en": "The idea of Iran being a potential line of inquiry for this investigation is clear and obvious.",
+      "zh": "显然，伊朗是这起调查的一个潜在线索方向。"
+    },
+    {
+      "id": 43,
+      "startMs": 218980,
+      "endMs": 220260,
+      "en": "Some people are looking to Moscow.",
+      "zh": "一些人将目光投向莫斯科。"
+    },
+    {
+      "id": 44,
+      "startMs": 220900,
+      "endMs": 227460,
+      "en": "Russia has been threatening to step up its hybrid activity and attacks against NATO countries.",
+      "zh": "俄罗斯一直威胁要加强混合行动，并对北约国家发动袭击。"
+    },
+    {
+      "id": 45,
+      "startMs": 227780,
+      "endMs": 230980,
+      "en": "Danish intelligence warned about that only a few days ago.",
+      "zh": "丹麦情报部门就在几天前对此发出警告。"
+    },
+    {
+      "id": 46,
+      "startMs": 231300,
+      "endMs": 238120,
+      "en": "Germany has formally blamed Russia for a drone attack against Leipzig airport.",
+      "zh": "德国已正式指责俄罗斯对莱比锡机场发动无人机袭击。"
+    },
+    {
+      "id": 47,
+      "startMs": 238600,
+      "endMs": 241240,
+      "en": "The Russian embassy in London also issued a warning over the summer.",
+      "zh": "俄罗斯驻伦敦大使馆今年夏天也发出警告。"
+    },
+    {
+      "id": 48,
+      "startMs": 241480,
+      "endMs": 249080,
+      "en": "It warned the UK of an increasingly higher price it would pay for its support for Ukraine.",
+      "zh": "大使馆警告英国，支持乌克兰将付出越来越高的代价。"
+    },
+    {
+      "id": 49,
+      "startMs": 249320,
+      "endMs": 252200,
+      "en": "That might be a line of inquiry too. James Landale.",
+      "zh": "这也可能是一条调查线索。James Landale报道。"
+    },
+    {
+      "id": 50,
+      "startMs": 252920,
+      "endMs": 257480,
+      "en": "Earlier this month, Houthi fighters made dramatic advances against government forces,",
+      "zh": "本月早些时候，胡塞武装战士对政府军取得了戏剧性的推进，"
+    },
+    {
+      "id": 51,
+      "startMs": 257800,
+      "endMs": 261000,
+      "en": "taking control of hundreds of kilometres of Yemen's coastline",
+      "zh": "控制了也门数百公里的海岸线，"
+    },
+    {
+      "id": 52,
+      "startMs": 261000,
+      "endMs": 263400,
+      "en": "close to the Bab al-Mandab Strait,",
+      "zh": "靠近曼德海峡，"
+    },
+    {
+      "id": 53,
+      "startMs": 263800,
+      "endMs": 267720,
+      "en": "declaring as it did so a naval blockade for Saudi shipping.",
+      "zh": "并宣布对驶往沙特的船只实施海上封锁。"
+    },
+    {
+      "id": 54,
+      "startMs": 268440,
+      "endMs": 271160,
+      "en": "That's a huge concern worldwide because Houthi advances",
+      "zh": "这在全球引发巨大担忧，因为胡塞武装的推进"
+    },
+    {
+      "id": 55,
+      "startMs": 271400,
+      "endMs": 276280,
+      "en": "mean they can threaten the millions of barrels of oil that flow through the strait every day.",
+      "zh": "意味着他们能够威胁每天经由这条海峡运输的数百万桶石油。"
+    },
+    {
+      "id": 56,
+      "startMs": 276920,
+      "endMs": 279560,
+      "en": "Yemeni government forces are now pushing back.",
+      "zh": "也门政府军目前正在反击。"
+    },
+    {
+      "id": 57,
+      "startMs": 279880,
+      "endMs": 283080,
+      "en": "Fighting is intensifying around the city of Taiz.",
+      "zh": "塔伊兹市周边的战斗正在加剧。"
+    },
+    {
+      "id": 58,
+      "startMs": 283640,
+      "endMs": 288200,
+      "en": "Our senior international investigations correspondent, Nawal Al-Maghafi, and her team",
+      "zh": "我们的国际调查事务高级记者纳瓦尔·阿尔-马加菲及其团队"
+    },
+    {
+      "id": 59,
+      "startMs": 288520,
+      "endMs": 291480,
+      "en": "are the first international news organization to reach Taiz",
+      "zh": "是胡塞武装推进以来首个抵达塔伊兹的国际新闻机构，"
+    },
+    {
+      "id": 60,
+      "startMs": 291720,
+      "endMs": 293480,
+      "en": "since those Houthi advances.",
+      "zh": "自那次胡塞武装推进以来。"
+    },
+    {
+      "id": 61,
+      "startMs": 293960,
+      "endMs": 297740,
+      "en": "She travelled with government forces to one of the closest positions to the Houthis.",
+      "zh": "她随政府军前往距离胡塞武装最近的阵地之一。"
+    },
+    {
+      "id": 62,
+      "startMs": 300920,
+      "endMs": 304440,
+      "en": "Locked and loaded, Yemeni troops are heading for battle,",
+      "zh": "也门部队全副武装，正奔赴战场，"
+    },
+    {
+      "id": 63,
+      "startMs": 304920,
+      "endMs": 306760,
+      "en": "unsure of whether they'll return.",
+      "zh": "不知道自己能否回来。"
+    },
+    {
+      "id": 64,
+      "startMs": 307480,
+      "endMs": 310040,
+      "en": "They're taking us with them through the valleys of Taiz.",
+      "zh": "他们带着我们穿过塔伊兹的山谷。"
+    },
+    {
+      "id": 65,
+      "startMs": 310680,
+      "endMs": 314120,
+      "en": "It's not long before we're confronted with the reality of this war.",
+      "zh": "没过多久，我们就面对了这场战争的现实。"
+    },
+    {
+      "id": 66,
+      "startMs": 315900,
+      "endMs": 320620,
+      "en": "The sound of artillery echoes from afar, but the threat is very close.",
+      "zh": "远处回荡着炮火声，但威胁近在咫尺。"
+    },
+    {
+      "id": 67,
+      "startMs": 321500,
+      "endMs": 327740,
+      "en": "Hit the deck, hit the deck. Go, go, go. We can hear a drone above,",
+      "zh": "卧倒，卧倒。走，走，走。我们能听到上空有无人机，"
+    },
+    {
+      "id": 68,
+      "startMs": 327900,
+      "endMs": 330460,
+      "en": "and we've been told that it's a Houthi drone, so we're just taking cover.",
+      "zh": "有人告诉我们那是胡塞武装的无人机，所以我们正在寻找掩护。"
+    },
+    {
+      "id": 69,
+      "startMs": 333040,
+      "endMs": 337200,
+      "en": "Go up the pathway there and come straight down to the road to the cars. Okay, come on, pick up, pick up.",
+      "zh": "沿那条小路上去，再直走下来，到有车辆的路上。好，来吧，捡起来，捡起来。"
+    },
+    {
+      "id": 70,
+      "startMs": 340600,
+      "endMs": 341560,
+      "en": "Go, go, go, go, go.",
+      "zh": "走，走，走，走，走。"
+    },
+    {
+      "id": 71,
+      "startMs": 343960,
+      "endMs": 347640,
+      "en": "As we're leaving, we came across Ali, who's chosen to stay.",
+      "zh": "我们离开时遇到了阿里，他选择留下。"
+    },
+    {
+      "id": 72,
+      "startMs": 348440,
+      "endMs": 352600,
+      "en": "He fears what would happen if the Houthis take over, and they're getting close.",
+      "zh": "他担心胡塞武装接管这里会发生什么，而他们正越来越近。"
+    },
+    {
+      "id": 73,
+      "startMs": 352600,
+      "endMs": 358520,
+      "en": "It's terrifying, but we can't afford to leave our home.",
+      "zh": "这很可怕，但我们不能离开家园。"
+    },
+    {
+      "id": 74,
+      "startMs": 359160,
+      "endMs": 362840,
+      "en": "Have they ever bombed close to your home?",
+      "zh": "他们曾在你家附近轰炸过吗？"
+    },
+    {
+      "id": 75,
+      "startMs": 363240,
+      "endMs": 367480,
+      "en": "Yes, the shells fell here down the valley behind the school.",
+      "zh": "是的，炮弹落在这里，沿着学校后面的山谷而下。"
+    },
+    {
+      "id": 76,
+      "startMs": 367800,
+      "endMs": 373960,
+      "en": "Aren't you afraid that any day they might take this area while you're here?",
+      "zh": "你不怕他们随时可能在你还在这里时占领这个地区吗？"
+    },
+    {
+      "id": 77,
+      "startMs": 373960,
+      "endMs": 376760,
+      "en": "It's in God's hands.",
+      "zh": "一切听凭上帝安排。"
+    },
+    {
+      "id": 78,
+      "startMs": 376965,
+      "endMs": 380200,
+      "en": "Nestled in these mountains, the Houthis lie in wait.",
+      "zh": "胡塞武装潜伏在这些山中。"
+    },
+    {
+      "id": 79,
+      "startMs": 381560,
+      "endMs": 385720,
+      "en": "Their recent capture of Mocha and the Bab al-Mandab Strait has transformed this battle.",
+      "zh": "他们最近夺取摩卡和曼德海峡，改变了这场战斗的局势。"
+    },
+    {
+      "id": 80,
+      "startMs": 386280,
+      "endMs": 388520,
+      "en": "Now they're pushing inland towards Taiz.",
+      "zh": "现在他们正向内陆的塔伊兹推进。"
+    },
+    {
+      "id": 81,
+      "startMs": 388520,
+      "endMs": 393880,
+      "en": "If this city falls, their grip on the western coast will be much harder to reverse,",
+      "zh": "如果这座城市陷落，他们对西海岸的控制将更难逆转，"
+    },
+    {
+      "id": 82,
+      "startMs": 394360,
+      "endMs": 396520,
+      "en": "and this war will be felt far beyond Yemen.",
+      "zh": "而这场战争的影响将远远超出也门。"
+    },
+    {
+      "id": 83,
+      "startMs": 396760,
+      "endMs": 403560,
+      "en": "The latest fighting has displaced more than 100,000 people to places like the Al-Mune camp.",
+      "zh": "最近的战斗已迫使超过十万人流离失所，许多人来到阿尔-穆内营地等地。"
+    },
+    {
+      "id": 84,
+      "startMs": 403740,
+      "endMs": 410060,
+      "en": "Around 20 kilometres from the front line, in just 10 days, 200 families arrived.",
+      "zh": "距离前线约20公里的地方，仅10天内就有200个家庭抵达。"
+    },
+    {
+      "id": 85,
+      "startMs": 411600,
+      "endMs": 413440,
+      "en": "Most of them had been displaced before.",
+      "zh": "他们中的大多数此前就曾流离失所。"
+    },
+    {
+      "id": 86,
+      "startMs": 414480,
+      "endMs": 417200,
+      "en": "It took Fatima two days to get here from Mokha.",
+      "zh": "法蒂玛花了两天才从摩卡来到这里。"
+    },
+    {
+      "id": 87,
+      "startMs": 417840,
+      "endMs": 424960,
+      "en": "As the fighting closed in, her sons were forced to make an impossible decision, leaving her behind to save their children.",
+      "zh": "随着战火逼近，她的儿子们被迫作出艰难决定，留下她去救自己的孩子。"
+    },
+    {
+      "id": 88,
+      "startMs": 425600,
+      "endMs": 429200,
+      "en": "I lost my sons.",
+      "zh": "我失去了儿子们。"
+    },
+    {
+      "id": 89,
+      "startMs": 429520,
+      "endMs": 432960,
+      "en": "I don't know where they are, and now I'm alone out here in the cold.",
+      "zh": "我不知道他们在哪里，现在我独自在这寒冷的地方。"
+    },
+    {
+      "id": 90,
+      "startMs": 435720,
+      "endMs": 437720,
+      "en": "The human cost doesn't end there.",
+      "zh": "人的代价还不止于此。"
+    },
+    {
+      "id": 91,
+      "startMs": 438440,
+      "endMs": 441640,
+      "en": "Racing towards the city, one ambulance after another,",
+      "zh": "一辆又一辆救护车飞驰进城，"
+    },
+    {
+      "id": 92,
+      "startMs": 441960,
+      "endMs": 446520,
+      "en": "24 casualties within 24 hours to this hospital alone.",
+      "zh": "仅这家医院在24小时内就收治了24名伤亡者。"
+    },
+    {
+      "id": 93,
+      "startMs": 447360,
+      "endMs": 452400,
+      "en": "We've just been told that a twelve-year-old girl was brought here two hours ago because she was hit by shrapnel.",
+      "zh": "刚有人告诉我们，一名12岁女孩两小时前被送到这里，因为她被弹片击中。"
+    },
+    {
+      "id": 94,
+      "startMs": 453220,
+      "endMs": 457300,
+      "en": "This war is costing lives, and it's not just militants; it's civilians too.",
+      "zh": "这场战争正在夺走生命，不只是武装人员，平民也一样。"
+    },
+    {
+      "id": 95,
+      "startMs": 458800,
+      "endMs": 460880,
+      "en": "Rana lies here alone.",
+      "zh": "拉娜独自躺在这里。"
+    },
+    {
+      "id": 96,
+      "startMs": 461600,
+      "endMs": 463520,
+      "en": "She was at home when the mortar hit.",
+      "zh": "迫击炮击中时，她正在家里。"
+    },
+    {
+      "id": 97,
+      "startMs": 464400,
+      "endMs": 471280,
+      "en": "But Yemen's battlefield doesn't have boundaries, and this war has a way of finding those who never chose to be a part of it.",
+      "zh": "但也门的战场没有边界，这场战争总能波及那些从未选择参与其中的人。"
+    },
+    {
+      "id": 98,
+      "startMs": 472080,
+      "endMs": 473840,
+      "en": "Nawal Al-Maghafi reporting.",
+      "zh": "纳瓦尔·阿尔-马加菲报道。"
+    },
+    {
+      "id": 99,
+      "startMs": 475240,
+      "endMs": 483880,
+      "en": "Ireland has beaten Israel 3-0 in a hugely controversial UEFA Nations League match that took place in Hungary.",
+      "zh": "爱尔兰在匈牙利举行的一场极具争议的欧足联国家联赛中以3比0击败以色列。"
+    },
+    {
+      "id": 100,
+      "startMs": 484860,
+      "endMs": 489020,
+      "en": "The game almost didn't go ahead because of opposition to Israel's war in Gaza.",
+      "zh": "由于反对以色列在加沙的战争，这场比赛险些无法举行。"
+    },
+    {
+      "id": 101,
+      "startMs": 489260,
+      "endMs": 494140,
+      "en": "But after days of intense discussions, most of the Irish football squad agreed to take part.",
+      "zh": "但经过数日激烈讨论后，大多数爱尔兰队员同意参赛。"
+    },
+    {
+      "id": 102,
+      "startMs": 494540,
+      "endMs": 497980,
+      "en": "The goalkeeper Gavin Bazunu refused to play.",
+      "zh": "守门员加文·巴祖努拒绝出场。"
+    },
+    {
+      "id": 103,
+      "startMs": 498060,
+      "endMs": 503900,
+      "en": "The rest of the team wore black armbands in honour of the tens of thousands of mainly Palestinians who've been killed in the conflict.",
+      "zh": "其余队员佩戴黑色臂章，悼念冲突中丧生的数万名巴勒斯坦人。"
+    },
+    {
+      "id": 104,
+      "startMs": 504380,
+      "endMs": 510380,
+      "en": "Before the match, the Israeli football association insisted that politics and sport should remain separate.",
+      "zh": "赛前，以色列足协坚持认为政治和体育应当分开。"
+    },
+    {
+      "id": 105,
+      "startMs": 510860,
+      "endMs": 516700,
+      "en": "Our sports correspondent Kevin Sharkey was at the match and told me more about the drama in the build-up to the game.",
+      "zh": "我们的体育记者凯文·沙基在现场，向我介绍了比赛前的这场风波。"
+    },
+    {
+      "id": 106,
+      "startMs": 517260,
+      "endMs": 521500,
+      "en": "The lead-up to this match was shrouded in controversy.",
+      "zh": "这场比赛的赛前准备笼罩在争议之中。"
+    },
+    {
+      "id": 107,
+      "startMs": 521820,
+      "endMs": 527340,
+      "en": "There was a clamour back home in Ireland for the footballers of the Republic of Ireland not to participate in this match.",
+      "zh": "爱尔兰国内强烈呼吁爱尔兰共和国队球员不要参加这场比赛。"
+    },
+    {
+      "id": 108,
+      "startMs": 527340,
+      "endMs": 533900,
+      "en": "This had gone on for weeks and indeed months beforehand, ever since the two sides were pitted together in this tournament.",
+      "zh": "这种呼声持续了数周甚至数月，自两队在本届赛事中被抽到一起后便一直如此。"
+    },
+    {
+      "id": 109,
+      "startMs": 534540,
+      "endMs": 540940,
+      "en": "It came to a head on Saturday, when the Republic of Ireland delayed a press conference and training as the players deliberated.",
+      "zh": "周六，球员们商议时，爱尔兰共和国队推迟了新闻发布会和训练，争议达到高潮。"
+    },
+    {
+      "id": 110,
+      "startMs": 541340,
+      "endMs": 544620,
+      "en": "They ultimately chose to play, but it wasn't easy.",
+      "zh": "他们最终选择参赛，但这并不容易。"
+    },
+    {
+      "id": 111,
+      "startMs": 544640,
+      "endMs": 547120,
+      "en": "A vote had to be taken among the players.",
+      "zh": "队员们必须进行投票。"
+    },
+    {
+      "id": 112,
+      "startMs": 547440,
+      "endMs": 551920,
+      "en": "One player left the squad because of the controversy.",
+      "zh": "一名球员因这场争议退出了球队。"
+    },
+    {
+      "id": 113,
+      "startMs": 552000,
+      "endMs": 558080,
+      "en": "The Republic of Ireland players came out, gave an emphatic performance, and won 3-0.",
+      "zh": "爱尔兰共和国队球员表现强势，以3比0获胜。"
+    },
+    {
+      "id": 114,
+      "startMs": 558080,
+      "endMs": 564960,
+      "en": "So perhaps from their point of view there will at least be some vindication in their decision to go ahead and play the match.",
+      "zh": "因此在他们看来，决定继续参赛至少得到了一些印证。"
+    },
+    {
+      "id": 115,
+      "startMs": 565040,
+      "endMs": 571280,
+      "en": "But notwithstanding that, the controversy leading up to this match will not have gone away.",
+      "zh": "但即便如此，围绕这场比赛的赛前争议并不会消失。"
+    },
+    {
+      "id": 116,
+      "startMs": 571600,
+      "endMs": 579360,
+      "en": "There are still very many fans of the Republic of Ireland who believe they should not be playing Israel under any circumstances.",
+      "zh": "仍有许多爱尔兰共和国队球迷认为，无论如何都不应与以色列比赛。"
+    },
+    {
+      "id": 117,
+      "startMs": 579680,
+      "endMs": 582160,
+      "en": "Kevin, tell us how the match actually went.",
+      "zh": "凯文，请告诉我们比赛实际进行得怎样。"
+    },
+    {
+      "id": 118,
+      "startMs": 582160,
+      "endMs": 584080,
+      "en": "Was it tense at times?",
+      "zh": "比赛有时紧张吗？"
+    },
+    {
+      "id": 119,
+      "startMs": 584240,
+      "endMs": 587920,
+      "en": "That was what was particularly noteworthy about the match.",
+      "zh": "这正是比赛特别值得注意之处。"
+    },
+    {
+      "id": 120,
+      "startMs": 588400,
+      "endMs": 591280,
+      "en": "There was none of the tension we had leading up to the match.",
+      "zh": "比赛中没有赛前那种紧张气氛。"
+    },
+    {
+      "id": 121,
+      "startMs": 591600,
+      "endMs": 598880,
+      "en": "In the actual match itself, on the field of play, it was very much a normal football match played in good spirits.",
+      "zh": "在球场上，这就是一场在友好气氛中进行的普通足球比赛。"
+    },
+    {
+      "id": 122,
+      "startMs": 598960,
+      "endMs": 603680,
+      "en": "There was one particular flashpoint, but it was over almost before it began.",
+      "zh": "有一个小小的冲突点，但几乎刚开始就结束了。"
+    },
+    {
+      "id": 123,
+      "startMs": 604900,
+      "endMs": 608820,
+      "en": "From a footballing point of view, it was a competitive match.",
+      "zh": "从足球角度看，这是一场竞争激烈的比赛。"
+    },
+    {
+      "id": 124,
+      "startMs": 609140,
+      "endMs": 614660,
+      "en": "Notwithstanding the fact that the Republic won by three goals to nil, it was played in a good spirit.",
+      "zh": "尽管爱尔兰共和国队以三比零获胜，比赛仍在友好气氛中进行。"
+    },
+    {
+      "id": 125,
+      "startMs": 615060,
+      "endMs": 620580,
+      "en": "But of course there were matters before the match where some traditional protocols were not adhered to.",
+      "zh": "当然，赛前有些传统礼仪并未遵守。"
+    },
+    {
+      "id": 126,
+      "startMs": 620980,
+      "endMs": 626100,
+      "en": "The Irish camp bowed their head during the playing of the Israeli national anthem.",
+      "zh": "奏响以色列国歌时，爱尔兰队全体低头。"
+    },
+    {
+      "id": 127,
+      "startMs": 626500,
+      "endMs": 633620,
+      "en": "There were no handshakes between the captains before the match, and no traditional pennants were exchanged.",
+      "zh": "赛前两队队长没有握手，也没有交换传统的队旗。"
+    },
+    {
+      "id": 128,
+      "startMs": 633780,
+      "endMs": 639140,
+      "en": "So it was clear that the Irish players, having decided to play the match, still wanted to register their protests.",
+      "zh": "显然，爱尔兰球员决定参赛后，仍想表达抗议。"
+    },
+    {
+      "id": 129,
+      "startMs": 639700,
+      "endMs": 642260,
+      "en": "They did so before the match and before kick-off.",
+      "zh": "他们在赛前、开球前这样做了。"
+    },
+    {
+      "id": 130,
+      "startMs": 642820,
+      "endMs": 645940,
+      "en": "And Kevin, the ground itself was relatively empty.",
+      "zh": "凯文，球场本身相当空。"
+    },
+    {
+      "id": 131,
+      "startMs": 645940,
+      "endMs": 648900,
+      "en": "Was that perhaps due to the controversy surrounding the match?",
+      "zh": "这或许是因为围绕比赛的争议吗？"
+    },
+    {
+      "id": 132,
+      "startMs": 649220,
+      "endMs": 656020,
+      "en": "The Football Association of Ireland had decided not to sell any tickets for the match, so that ruled out Republic of Ireland supporters.",
+      "zh": "爱尔兰足协决定不为比赛售票，因此爱尔兰共和国队球迷无法购票入场。"
+    },
+    {
+      "id": 133,
+      "startMs": 656340,
+      "endMs": 659380,
+      "en": "Israel had sold about 150 tickets.",
+      "zh": "以色列方面售出了约150张票。"
+    },
+    {
+      "id": 134,
+      "startMs": 660180,
+      "endMs": 669240,
+      "en": "But bizarrely, there were also at least a couple of dozen Republic of Ireland fans who somehow found the wherewithal to find tickets.",
+      "zh": "但奇怪的是，至少还有二十多名爱尔兰共和国队球迷不知通过什么办法弄到了票。"
+    },
+    {
+      "id": 135,
+      "startMs": 669480,
+      "endMs": 673720,
+      "en": "It was quite remarkable because the stands were by and large empty.",
+      "zh": "这相当令人惊讶，因为看台基本空无一人。"
+    },
+    {
+      "id": 136,
+      "startMs": 674120,
+      "endMs": 684840,
+      "en": "But for the 150 Israeli fans in one small section and then a couple of dozen Irish fans, 50 metres or so apart.",
+      "zh": "除了一个小看台区的150名以色列球迷，另一边还有二十多名爱尔兰球迷，两边相距约50米。"
+    },
+    {
+      "id": 137,
+      "startMs": 684920,
+      "endMs": 693720,
+      "en": "The small number of Irish fans were making quite a noise, but the Israeli fans were very vociferous in supporting their team.",
+      "zh": "爱尔兰球迷人数虽少却很喧闹，以色列球迷支持球队时也声势很大。"
+    },
+    {
+      "id": 138,
+      "startMs": 694360,
+      "endMs": 698920,
+      "en": "Kevin Sharkey. Israel and Ireland are set to have a rematch next week.",
+      "zh": "凯文·沙基报道：以色列和爱尔兰下周将再度交锋。"
+    },
+    {
+      "id": 139,
+      "startMs": 698920,
+      "endMs": 700840,
+      "en": "Still to come in this podcast.",
+      "zh": "本期节目稍后还有更多内容。"
+    },
+    {
+      "id": 140,
+      "startMs": 701160,
+      "endMs": 706920,
+      "en": "There's a very long history continuing up to the present of people who are being politically repressed by the government.",
+      "zh": "一段延续至今的漫长历史：人们受到政府政治压制。"
+    },
+    {
+      "id": 141,
+      "startMs": 707160,
+      "endMs": 710840,
+      "en": "People move deeper into the forest in order to evade political control.",
+      "zh": "人们深入森林，以躲避政治控制。"
+    },
+    {
+      "id": 142,
+      "startMs": 711160,
+      "endMs": 715640,
+      "en": "How a book about trees in Russia has picked up a special literary award.",
+      "zh": "一本关于俄罗斯树木的书如何获得特别文学奖。"
+    },
+    {
+      "id": 143,
+      "startMs": 715640,
+      "endMs": 717400,
+      "en": "This is the Global News podcast.",
+      "zh": "这里是《全球新闻》播客。"
+    },
+    {
+      "id": 144,
+      "startMs": 718200,
+      "endMs": 726360,
+      "en": "Protests have been held in Caracas and other parts of Venezuela demanding the return of Venezuela's exiled opposition leader Maria Corina Machado.",
+      "zh": "加拉加斯和委内瑞拉其他地区举行了抗议活动，要求流亡的委内瑞拉反对派领袖玛丽亚·科丽娜·马查多回国。"
+    },
+    {
+      "id": 145,
+      "startMs": 731380,
+      "endMs": 738740,
+      "en": "Well, that is the sound of dozens of motorbikes and cars full of demonstrators waving giant flags and banners in support of Ms Machado.",
+      "zh": "这就是数十辆摩托车和汽车的声音，车上挤满了挥舞巨型旗帜和横幅、支持马查多女士的示威者。"
+    },
+    {
+      "id": 146,
+      "startMs": 739220,
+      "endMs": 743860,
+      "en": "She left Venezuela secretly nine months ago to accept her Nobel Peace Prize award.",
+      "zh": "九个月前，她秘密离开委内瑞拉，去领取诺贝尔和平奖。"
+    },
+    {
+      "id": 147,
+      "startMs": 744260,
+      "endMs": 750100,
+      "en": "Her supporters say she's tried seven times to return since then but not been allowed back into the country.",
+      "zh": "她的支持者说，自那以后她曾七次尝试回国，但都未获准进入这个国家。"
+    },
+    {
+      "id": 148,
+      "startMs": 750420,
+      "endMs": 758580,
+      "en": "So, with elections promised by the country's interim president Delcy Rodriguez, how much broad support is there for Ms Machado to come home?",
+      "zh": "那么，随着该国临时总统德尔西·罗德里格斯承诺举行选举，马查多女士回国获得了多大范围的支持？"
+    },
+    {
+      "id": 149,
+      "startMs": 759140,
+      "endMs": 762500,
+      "en": "A question I put to our Latin America correspondent Will Grant.",
+      "zh": "这是我向拉丁美洲记者威尔·格兰特提出的问题。"
+    },
+    {
+      "id": 150,
+      "startMs": 762980,
+      "endMs": 768980,
+      "en": "Protests like this one tell us about two key elements of the complaints of the demonstrators.",
+      "zh": "这样的抗议让我们看到示威者诉求中的两个关键要素。"
+    },
+    {
+      "id": 151,
+      "startMs": 768980,
+      "endMs": 774260,
+      "en": "The first is, as you say, the support that still exists for Maria Corina Machado.",
+      "zh": "第一点，正如你所说，是对玛丽亚·科丽娜·马查多的支持依然存在。"
+    },
+    {
+      "id": 152,
+      "startMs": 774420,
+      "endMs": 781060,
+      "en": "The hopes of the opposition supporters in Venezuela are really pretty much solely pinned on her as an individual.",
+      "zh": "委内瑞拉反对派支持者的希望，几乎完全寄托在她个人身上。"
+    },
+    {
+      "id": 153,
+      "startMs": 781060,
+      "endMs": 786180,
+      "en": "She seems like the person who would be president, and they want to see that happen.",
+      "zh": "她似乎就是那个应该成为总统的人，而他们希望看到这件事发生。"
+    },
+    {
+      "id": 154,
+      "startMs": 786180,
+      "endMs": 790020,
+      "en": "We've known that she has support, and that support remains.",
+      "zh": "我们知道她拥有支持，而且这种支持依然存在。"
+    },
+    {
+      "id": 155,
+      "startMs": 790020,
+      "endMs": 791960,
+      "en": "I think that's what that demonstration does.",
+      "zh": "我认为，这正是那场示威所表明的。"
+    },
+    {
+      "id": 156,
+      "startMs": 792040,
+      "endMs": 793000,
+      "en": "It shows that it is still there.",
+      "zh": "它表明这种支持依然存在。"
+    },
+    {
+      "id": 157,
+      "startMs": 793240,
+      "endMs": 797480,
+      "en": "But of course, the other thing that it does is show the rejection of Delcy Rodriguez, the interim president,",
+      "zh": "当然，这场示威还表明，人们拒绝临时总统德尔西·罗德里格斯，"
+    },
+    {
+      "id": 158,
+      "startMs": 797480,
+      "endMs": 800840,
+      "en": "and her burgeoning relationship with Donald Trump.",
+      "zh": "也拒绝她与唐纳德·特朗普日益发展的关系。"
+    },
+    {
+      "id": 159,
+      "startMs": 800920,
+      "endMs": 805960,
+      "en": "It was no coincidence that Delcy Rodriguez was meeting with Donald Trump",
+      "zh": "德尔西·罗德里格斯与唐纳德·特朗普会面，并非巧合，"
+    },
+    {
+      "id": 160,
+      "startMs": 806120,
+      "endMs": 814120,
+      "en": "as Maria Corina Machado was unable to return to Venezuela for what we understand were the fifth, sixth and seventh attempts this year.",
+      "zh": "因为据我们了解，玛丽亚·科丽娜·马查多今年第五次、第六次和第七次尝试回到委内瑞拉时都未能成功。"
+    },
+    {
+      "id": 161,
+      "startMs": 814200,
+      "endMs": 820680,
+      "en": "So she's been attempting via sea, via air; she's constantly turned back.",
+      "zh": "所以她一直尝试从海上或空中返回，却不断被挡回去。"
+    },
+    {
+      "id": 162,
+      "startMs": 821000,
+      "endMs": 829320,
+      "en": "One thinks, given the key control that Washington continues to exert over Delcy Rodriguez, her administration and Venezuela as a whole,",
+      "zh": "有人认为，鉴于华盛顿仍在对德尔西·罗德里格斯、她的政府以及整个委内瑞拉施加关键控制，"
+    },
+    {
+      "id": 163,
+      "startMs": 829400,
+      "endMs": 833320,
+      "en": "there's clearly resistance coming from Washington as well as Caracas.",
+      "zh": "显然，阻力既来自华盛顿，也来自加拉加斯。"
+    },
+    {
+      "id": 164,
+      "startMs": 833880,
+      "endMs": 837240,
+      "en": "And I think that that is partly what these protesters were saying.",
+      "zh": "我认为，这也是这些抗议者所表达的部分意思。"
+    },
+    {
+      "id": 165,
+      "startMs": 837320,
+      "endMs": 841160,
+      "en": "You know, not only do we want Maria Corina Machado to come home to Venezuela,",
+      "zh": "你看，我们不仅希望玛丽亚·科丽娜·马查多回到委内瑞拉，"
+    },
+    {
+      "id": 166,
+      "startMs": 841480,
+      "endMs": 848120,
+      "en": "we want an end to this relationship which they see as simply the remnants of the Maduro regime",
+      "zh": "我们还希望终结这种关系；他们认为，这不过是马杜罗政权的残余"
+    },
+    {
+      "id": 167,
+      "startMs": 848360,
+      "endMs": 850440,
+      "en": "in bed now with the Trump administration.",
+      "zh": "如今与特朗普政府勾连在一起。"
+    },
+    {
+      "id": 168,
+      "startMs": 850520,
+      "endMs": 859660,
+      "en": "Having said that, there must be people in Venezuela, Will, who see the relative economic stability returning to Venezuela under this relationship",
+      "zh": "话虽如此，威尔，委内瑞拉一定有人看到，在这种关系下，委内瑞拉相对的经济稳定正在回归，"
+    },
+    {
+      "id": 169,
+      "startMs": 859660,
+      "endMs": 866380,
+      "en": "between Delcy Rodriguez and President Trump and say, 'Well, this is the situation. We don't want to rock the boat now.'",
+      "zh": "他们会说：‘好吧，情况就是这样。我们现在不想打破平衡。’"
+    },
+    {
+      "id": 170,
+      "startMs": 866620,
+      "endMs": 874780,
+      "en": "I think you are right. I think the problem is, though, that that pragmatism perhaps comes from a sense of stability, not necessarily economic stability,",
+      "zh": "我认为你说得对。不过问题在于，这种务实态度或许源于一种稳定感，而不一定是经济稳定，"
+    },
+    {
+      "id": 171,
+      "startMs": 875020,
+      "endMs": 880380,
+      "en": "because the country's economy is still in difficulties. It's not fixed yet,",
+      "zh": "因为这个国家的经济仍陷于困境，问题尚未解决，"
+    },
+    {
+      "id": 172,
+      "startMs": 880380,
+      "endMs": 888380,
+      "en": "but there is more calm in the international relationship with the most powerful nation in the hemisphere. Things feel more stable,",
+      "zh": "但与这个半球最强大国家的国际关系更加平静，局势感觉更稳定，"
+    },
+    {
+      "id": 173,
+      "startMs": 888380,
+      "endMs": 892860,
+      "en": "less prone to some of these shocking moments that Venezuelans have been through this year.",
+      "zh": "不太容易再出现委内瑞拉人今年经历过的那些震惊时刻。"
+    },
+    {
+      "id": 174,
+      "startMs": 893100,
+      "endMs": 897740,
+      "en": "Now, several days ago in New York at the United Nations, Delcy Rodriguez promised elections.",
+      "zh": "几天前，德尔西·罗德里格斯在纽约联合国承诺举行选举。"
+    },
+    {
+      "id": 175,
+      "startMs": 898940,
+      "endMs": 900860,
+      "en": "She didn't say when they would take place.",
+      "zh": "但她没有说选举何时举行。"
+    },
+    {
+      "id": 176,
+      "startMs": 901260,
+      "endMs": 905820,
+      "en": "What is your assessment as to when and if that will happen?",
+      "zh": "你认为这会在何时发生，或者是否会发生？"
+    },
+    {
+      "id": 177,
+      "startMs": 905980,
+      "endMs": 907420,
+      "en": "It's hard to read that one, isn't it?",
+      "zh": "这很难判断，不是吗？"
+    },
+    {
+      "id": 178,
+      "startMs": 907420,
+      "endMs": 915360,
+      "en": "My feeling is that this is simply something that the Trump administration needs to now be bringing to bear on Delcy Rodriguez and her administration.",
+      "zh": "我的感觉是，特朗普政府现在必须把这件事施加给德尔西·罗德里格斯及其政府。"
+    },
+    {
+      "id": 179,
+      "startMs": 915360,
+      "endMs": 922320,
+      "en": "They can't simply continue to work with her with absolutely no movement towards free and fair elections",
+      "zh": "他们不能在完全没有朝自由公正选举迈进的情况下，继续与她合作，"
+    },
+    {
+      "id": 180,
+      "startMs": 922400,
+      "endMs": 928240,
+      "en": "as pushed for by the diaspora community in Florida, which are so influential in terms of Donald Trump's support",
+      "zh": "而佛罗里达州的侨民团体一直推动这样的选举，他们对唐纳德·特朗普在该州获得的支持影响很大，"
+    },
+    {
+      "id": 181,
+      "startMs": 928240,
+      "endMs": 930560,
+      "en": "in that state and more broadly.",
+      "zh": "不仅在该州如此，更广泛地说也是如此。"
+    },
+    {
+      "id": 182,
+      "startMs": 930640,
+      "endMs": 937520,
+      "en": "The Trump administration has sent in troops to remove Nicolas Maduro from power and seems so comfortable working with his vice president",
+      "zh": "特朗普政府派兵推翻尼古拉斯·马杜罗，并且似乎很自在地与他的副总统合作，"
+    },
+    {
+      "id": 183,
+      "startMs": 937520,
+      "endMs": 939520,
+      "en": "that only gets them so far.",
+      "zh": "但这只能让他们走到这一步。"
+    },
+    {
+      "id": 184,
+      "startMs": 939520,
+      "endMs": 943200,
+      "en": "I think, and Marco Rubio, the Secretary of State, has been quite clear about that.",
+      "zh": "我认为，国务卿马可·卢比奥对此已经说得很清楚。"
+    },
+    {
+      "id": 185,
+      "startMs": 943520,
+      "endMs": 947200,
+      "en": "They've basically said, look, they don't consider Venezuela to be ready yet.",
+      "zh": "他们基本上是说，委内瑞拉还没有准备好。"
+    },
+    {
+      "id": 186,
+      "startMs": 947200,
+      "endMs": 954080,
+      "en": "As Donald Trump put it, ultimately Delcy Rodriguez and the Trump administration have to get it to a point eventually",
+      "zh": "正如唐纳德·特朗普所说，最终德尔西·罗德里格斯和特朗普政府必须让局势发展到一个阶段，"
+    },
+    {
+      "id": 187,
+      "startMs": 954320,
+      "endMs": 959680,
+      "en": "where those elections will take place. We don't yet know whether Delcy Rodriguez would be a candidate in them.",
+      "zh": "让选举得以举行。我们还不知道德尔西·罗德里格斯是否会参选。"
+    },
+    {
+      "id": 188,
+      "startMs": 960000,
+      "endMs": 964240,
+      "en": "We don't know if Maria Corina Machado will be able to get back for them and be a candidate.",
+      "zh": "我们不知道玛丽亚·科丽娜·马查多能否赶回去参加选举并成为候选人。"
+    },
+    {
+      "id": 189,
+      "startMs": 964480,
+      "endMs": 972740,
+      "en": "But I think we've seen all of the context around this is the huge energy deal between Washington and Venezuela",
+      "zh": "但我认为，我们已经看到这一切背后的全部背景：华盛顿与委内瑞拉之间那项巨大的能源协议，"
+    },
+    {
+      "id": 190,
+      "startMs": 973060,
+      "endMs": 976180,
+      "en": "to the tune of 65 billion barrels of oil.",
+      "zh": "规模相当于650亿桶石油。"
+    },
+    {
+      "id": 191,
+      "startMs": 976420,
+      "endMs": 981780,
+      "en": "So of course the Trump administration continues to be quite comfortable working with Delcy Rodriguez under those terms.",
+      "zh": "所以，当然，特朗普政府在这些条件下继续与德尔西·罗德里格斯合作，感到相当自在。"
+    },
+    {
+      "id": 192,
+      "startMs": 982100,
+      "endMs": 987940,
+      "en": "But Venezuelans are beginning to really clamor for the opportunity to choose their own country's leadership.",
+      "zh": "但委内瑞拉人开始强烈要求获得选择本国领导人的机会。"
+    },
+    {
+      "id": 193,
+      "startMs": 988420,
+      "endMs": 988740,
+      "en": "Will Grant.",
+      "zh": "威尔·格兰特报道。"
+    },
+    {
+      "id": 194,
+      "startMs": 990080,
+      "endMs": 994320,
+      "en": "Two mass shootings in South Africa have left 27 people dead.",
+      "zh": "南非发生两起大规模枪击事件，造成27人死亡。"
+    },
+    {
+      "id": 195,
+      "startMs": 994880,
+      "endMs": 999760,
+      "en": "Seventeen were killed when eight gunmen stormed a bar close to Johannesburg on Saturday night.",
+      "zh": "周六夜间，八名枪手闯入约翰内斯堡附近一家酒吧，造成17人死亡。"
+    },
+    {
+      "id": 196,
+      "startMs": 1000160,
+      "endMs": 1006320,
+      "en": "Then, in the early hours of Sunday, ten people died in another shooting outside an entertainment venue near Cape Town.",
+      "zh": "随后在周日凌晨，开普敦附近一家娱乐场所外发生另一起枪击，10人死亡。"
+    },
+    {
+      "id": 197,
+      "startMs": 1006800,
+      "endMs": 1011100,
+      "en": "Dozens were wounded in the two shootings. The motive is not yet known,",
+      "zh": "两起枪击共造成数十人受伤。动机尚不清楚，"
+    },
+    {
+      "id": 198,
+      "startMs": 1011100,
+      "endMs": 1016860,
+      "en": "but South Africa has a huge problem with gang-related gun violence and a very high murder rate.",
+      "zh": "但南非帮派相关枪支暴力问题严重，谋杀率也非常高。"
+    },
+    {
+      "id": 199,
+      "startMs": 1017260,
+      "endMs": 1020940,
+      "en": "The BBC's Thomas McWana gave us more details about these shootings.",
+      "zh": "BBC记者托马斯·姆夸纳介绍了这些枪击的更多详情。"
+    },
+    {
+      "id": 200,
+      "startMs": 1021420,
+      "endMs": 1026620,
+      "en": "The one in Johannesburg occurred in a tavern, and it said that eight gunmen in two vehicles",
+      "zh": "约翰内斯堡的枪击发生在一家小酒馆。据说八名枪手乘坐两辆车，"
+    },
+    {
+      "id": 201,
+      "startMs": 1026620,
+      "endMs": 1032220,
+      "en": "came out and shot at people outside the venue and then also entered and shot people inside.",
+      "zh": "下车向场所外的人开枪，随后又进入场所内向人群开枪。"
+    },
+    {
+      "id": 202,
+      "startMs": 1032380,
+      "endMs": 1038460,
+      "en": "And after taking the cell phones that they had, they escaped in those two unidentified vehicles.",
+      "zh": "他们拿走受害者的手机后，乘坐那两辆身份不明的车辆逃走。"
+    },
+    {
+      "id": 203,
+      "startMs": 1038460,
+      "endMs": 1043180,
+      "en": "And in Cape Town, there was an entertainment event happening, and they entered the venue",
+      "zh": "在开普敦，当时一场娱乐活动正在举行，他们进入场所，"
+    },
+    {
+      "id": 204,
+      "startMs": 1043180,
+      "endMs": 1046780,
+      "en": "and a similar shooting occurred, killing ten and injuring many more.",
+      "zh": "随后发生类似枪击，造成10人死亡、更多人受伤。"
+    },
+    {
+      "id": 205,
+      "startMs": 1047180,
+      "endMs": 1050940,
+      "en": "South Africa has one of the highest murder rates in the world.",
+      "zh": "南非拥有世界上最高的谋杀率之一。"
+    },
+    {
+      "id": 206,
+      "startMs": 1051180,
+      "endMs": 1057740,
+      "en": "Just between April and June this year, South African police said over 5,400 people have been murdered.",
+      "zh": "仅今年4月至6月，南非警方就说有超过5400人被谋杀。"
+    },
+    {
+      "id": 207,
+      "startMs": 1058140,
+      "endMs": 1059980,
+      "en": "Being murdered, a matter of malicious intent.",
+      "zh": "谋杀本身就是出于恶意的犯罪。"
+    },
+    {
+      "id": 208,
+      "startMs": 1060220,
+      "endMs": 1066140,
+      "en": "And then it compounds when you realize that the murder rates and the conviction rates",
+      "zh": "而当你意识到谋杀率和案件侦查后的定罪率"
+    },
+    {
+      "id": 209,
+      "startMs": 1066140,
+      "endMs": 1072960,
+      "en": "for investigations are much lower. So the investigations that lead to actual conviction for people who are murdered are much lower,",
+      "zh": "都低得多时，问题就更加严重。针对谋杀案、最终真正定罪的调查比例也低得多，"
+    },
+    {
+      "id": 210,
+      "startMs": 1072960,
+      "endMs": 1076960,
+      "en": "and that means basically justice isn't served to the victims of such shootings.",
+      "zh": "这基本意味着，这类枪击案的受害者无法得到公正。"
+    },
+    {
+      "id": 211,
+      "startMs": 1076960,
+      "endMs": 1084960,
+      "en": "And South Africa is awash with illegal weapons and gang activity that the police there have found hard to end.",
+      "zh": "南非还充斥着非法武器和帮派活动，当地警方一直难以遏制。"
+    },
+    {
+      "id": 212,
+      "startMs": 1084960,
+      "endMs": 1085360,
+      "en": "Thomas McWana.",
+      "zh": "托马斯·姆夸纳报道。"
+    },
+    {
+      "id": 213,
+      "startMs": 1086540,
+      "endMs": 1093580,
+      "en": "A book about the centrality of the forest in Russian culture has won a prestigious British literary award.",
+      "zh": "一本关于森林在俄罗斯文化中核心地位的书，赢得了一项英国著名文学奖。"
+    },
+    {
+      "id": 214,
+      "startMs": 1094060,
+      "endMs": 1098380,
+      "en": "The Pushkin House Book Prize was given to Sophie Pinkham's book,",
+      "zh": "普希金之家图书奖授予了苏菲·平克姆的著作："
+    },
+    {
+      "id": 215,
+      "startMs": 1098780,
+      "endMs": 1102940,
+      "en": "The Oak and the Larch: A Forest History of Russia and Its Empires.",
+      "zh": "《橡树与落叶松：俄罗斯及其帝国的森林史》。"
+    },
+    {
+      "id": 216,
+      "startMs": 1103340,
+      "endMs": 1109180,
+      "en": "There are lots of references to trees in Russian literature, from the gnarled oak in Tolstoy's War and Peace to Pushkin's reflections on pines.",
+      "zh": "俄罗斯文学中有许多关于树木的描写，从托尔斯泰《战争与和平》里的盘曲橡树，到普希金对松树的感悟。"
+    },
+    {
+      "id": 217,
+      "startMs": 1109580,
+      "endMs": 1117580,
+      "en": "But this prize is for the best nonfiction writing on Russia in the English language.",
+      "zh": "但这个奖项颁给的是英语世界关于俄罗斯的最佳非虚构作品。"
+    },
+    {
+      "id": 218,
+      "startMs": 1117980,
+      "endMs": 1125900,
+      "en": "Owen Bennett Jones asked Sophie Pinkham why she found the theme of Russian forests so interesting that she wanted to write a book about them.",
+      "zh": "欧文·贝内特-琼斯询问苏菲·平克姆，为什么她觉得俄罗斯森林这一主题如此有趣，以至于想写一本相关的书。"
+    },
+    {
+      "id": 219,
+      "startMs": 1126460,
+      "endMs": 1134460,
+      "en": "Well, I am a specialist in Russia, to some extent Ukraine, and the former Soviet Union—former Russian imperial territory.",
+      "zh": "我研究俄罗斯，也在一定程度上研究乌克兰，以及前苏联和昔日俄罗斯帝国的领土。"
+    },
+    {
+      "id": 220,
+      "startMs": 1134540,
+      "endMs": 1139980,
+      "en": "I started thinking back to all of the ways that forests appear in Russian literature.",
+      "zh": "我开始回想森林在俄罗斯文学中出现的各种方式。"
+    },
+    {
+      "id": 221,
+      "startMs": 1140140,
+      "endMs": 1145980,
+      "en": "So I'm primarily a specialist in literature and film, and I began to realize how absolutely",
+      "zh": "我主要研究文学和电影，后来开始意识到，森林是如此彻底地——"
+    },
+    {
+      "id": 222,
+      "startMs": 1146960,
+      "endMs": 1155360,
+      "en": "the forest was not only central to Russia's historical and political development, but also to its, we could say, national imagination,",
+      "zh": "森林不仅是俄罗斯历史和政治发展的核心，也可以说，是俄罗斯民族想象的核心。"
+    },
+    {
+      "id": 223,
+      "startMs": 1155680,
+      "endMs": 1164000,
+      "en": "sort of standing for fear, but also a sense of home and protection, for kind of nourishment and riches.",
+      "zh": "它某种程度上象征着恐惧，也象征着家的感觉和保护，象征着滋养与财富。"
+    },
+    {
+      "id": 224,
+      "startMs": 1164320,
+      "endMs": 1169520,
+      "en": "And also as a place from which Russian culture had arisen.",
+      "zh": "也是俄罗斯文化由此生发的地方。"
+    },
+    {
+      "id": 225,
+      "startMs": 1169520,
+      "endMs": 1176240,
+      "en": "The way that I structured my book, The Oak and the Larch, was as a kind of an alternative history of Russia before there even was a Russia.",
+      "zh": "我构思《橡树与落叶松》这本书的方式，是把它写成一部俄罗斯尚未存在之前的另类俄罗斯史。"
+    },
+    {
+      "id": 226,
+      "startMs": 1176480,
+      "endMs": 1179840,
+      "en": "So when you say it's a source of protection, what do you mean by that?",
+      "zh": "你说森林是保护的来源，具体是什么意思？"
+    },
+    {
+      "id": 227,
+      "startMs": 1180160,
+      "endMs": 1185840,
+      "en": "Well, over the centuries, the forests of Russia, which are of course immensely, immensely large even now,",
+      "zh": "几个世纪以来，俄罗斯的森林当然一直极其、极其广袤，即使在今天也是如此，"
+    },
+    {
+      "id": 228,
+      "startMs": 1185920,
+      "endMs": 1191440,
+      "en": "and many of them very remote, have often been a place of refuge.",
+      "zh": "其中许多还十分偏远，常常成为避难之所。"
+    },
+    {
+      "id": 229,
+      "startMs": 1191520,
+      "endMs": 1197360,
+      "en": "So sometimes they provided a place of refuge from the steppe invaders many centuries ago.",
+      "zh": "所以，许多世纪以前，森林有时为人们躲避草原入侵者提供了庇护。"
+    },
+    {
+      "id": 230,
+      "startMs": 1197760,
+      "endMs": 1202720,
+      "en": "Later on, they served as a very important place of escape from political repression.",
+      "zh": "后来，森林又成为逃避政治压迫的重要去处。"
+    },
+    {
+      "id": 231,
+      "startMs": 1203040,
+      "endMs": 1205680,
+      "en": "So there's a very long history continuing up to the present",
+      "zh": "因此，这段历史延续至今，"
+    },
+    {
+      "id": 232,
+      "startMs": 1206260,
+      "endMs": 1208980,
+      "en": "of people who are being politically repressed by the government",
+      "zh": "有些人受到政府的政治压迫，"
+    },
+    {
+      "id": 233,
+      "startMs": 1209220,
+      "endMs": 1212820,
+      "en": "moving deeper into the forest in order to evade political control.",
+      "zh": "便深入森林，以躲避政治控制。"
+    },
+    {
+      "id": 234,
+      "startMs": 1212980,
+      "endMs": 1216020,
+      "en": "I think it's fair to say that the communist Soviet period",
+      "zh": "我认为可以说，在共产主义苏联时期，"
+    },
+    {
+      "id": 235,
+      "startMs": 1216020,
+      "endMs": 1220900,
+      "en": "there was a policy of conquering nature to some extent. Did that extend to the forests?",
+      "zh": "在某种程度上存在征服自然的政策。这种政策也延伸到森林吗？"
+    },
+    {
+      "id": 236,
+      "startMs": 1220980,
+      "endMs": 1223060,
+      "en": "Were the Soviets big on deforestation?",
+      "zh": "苏联人大肆砍伐森林吗？"
+    },
+    {
+      "id": 237,
+      "startMs": 1223140,
+      "endMs": 1228980,
+      "en": "Absolutely, there was a moment under Stalin when they even declared a war on the forest.",
+      "zh": "当然。斯大林时期曾有一段时间，他们甚至向森林宣战。"
+    },
+    {
+      "id": 238,
+      "startMs": 1229060,
+      "endMs": 1236900,
+      "en": "Yeah, and the Soviet attitude towards nature was indeed as you say: it had to be completely subjugated to human ends.",
+      "zh": "是的，苏联对待自然的态度正如你所说：自然必须完全屈从于人类目的。"
+    },
+    {
+      "id": 239,
+      "startMs": 1237140,
+      "endMs": 1241780,
+      "en": "And this is not a uniquely Soviet idea. It's something that appears already in the Book of Genesis.",
+      "zh": "这并非苏联独有的观念，《创世记》中早已出现了这种思想。"
+    },
+    {
+      "id": 240,
+      "startMs": 1241780,
+      "endMs": 1250660,
+      "en": "Man is tasked with subjugating nature, but the Soviets, as was their wont, took it to a really extraordinary extreme, rerouting rivers",
+      "zh": "人被赋予征服自然的任务，但苏联人一如既往地把它推向了极端，改道河流，"
+    },
+    {
+      "id": 241,
+      "startMs": 1250660,
+      "endMs": 1254740,
+      "en": "e.g. draining seas and also deforesting very intensely.",
+      "zh": "例如排干海洋，并大规模砍伐森林。"
+    },
+    {
+      "id": 242,
+      "startMs": 1254740,
+      "endMs": 1260580,
+      "en": "The idea was that any part of nature that wasn't serving the Soviet project,",
+      "zh": "当时的想法是，自然中任何不服务于苏联事业的部分，"
+    },
+    {
+      "id": 243,
+      "startMs": 1260580,
+      "endMs": 1263220,
+      "en": "Soviet industrialization was lazy and useless.",
+      "zh": "也就是不服务于苏联工业化的部分，都是懒惰而无用的。"
+    },
+    {
+      "id": 244,
+      "startMs": 1263220,
+      "endMs": 1266180,
+      "en": "Yeah, but when Stalin said we've got to get rid of the forest",
+      "zh": "是的，但当斯大林说必须消灭森林时，"
+    },
+    {
+      "id": 245,
+      "startMs": 1266280,
+      "endMs": 1273560,
+      "en": "Did people see that at the time? They probably didn't dare say so, but would they have seen it as an attack on the Russian soul?",
+      "zh": "当时人们看到了这一点吗？他们可能不敢这样说，但会不会把这看作对俄罗斯灵魂的攻击？"
+    },
+    {
+      "id": 246,
+      "startMs": 1273800,
+      "endMs": 1277400,
+      "en": "Yes, they did see that and actually they did say it. And it's quite remarkable",
+      "zh": "是的，他们确实看到了，而且确实说了出来。这非常不寻常，"
+    },
+    {
+      "id": 247,
+      "startMs": 1277400,
+      "endMs": 1282360,
+      "en": "because although Stalin was so repressive, there were a lot of people",
+      "zh": "因为尽管斯大林实行高压统治，几十年间仍有许多人"
+    },
+    {
+      "id": 248,
+      "startMs": 1282360,
+      "endMs": 1292040,
+      "en": "who stood up to him. Some of them were foresters actually who opposed his practices and in fact risked their lives in order to try to protect forests.",
+      "zh": "站出来反对他。其中一些人其实是林务员，他们反对他的做法，甚至冒着生命危险保护森林。"
+    },
+    {
+      "id": 249,
+      "startMs": 1292360,
+      "endMs": 1296280,
+      "en": "I should add also that under Stalin there was a sort of a strange duality to it",
+      "zh": "我还应该补充，斯大林时期这件事存在某种奇怪的两面性，"
+    },
+    {
+      "id": 250,
+      "startMs": 1296440,
+      "endMs": 1301000,
+      "en": "because late in his life Stalin developed this bizarre plan called",
+      "zh": "因为斯大林晚年制定了一个奇怪的计划，叫作"
+    },
+    {
+      "id": 251,
+      "startMs": 1301320,
+      "endMs": 1306040,
+      "en": "Stalin's Great Plan for the Transformation of Nature. It was sort of typical Stalinist grandiosity",
+      "zh": "“斯大林改造自然大计划”。这带有典型的斯大林式宏大狂想，"
+    },
+    {
+      "id": 252,
+      "startMs": 1306280,
+      "endMs": 1313480,
+      "en": "and part of that plan was in fact to plant large numbers of trees in order to protect Russian land",
+      "zh": "计划的一部分确实是种植大量树木，保护俄罗斯的土地，"
+    },
+    {
+      "id": 253,
+      "startMs": 1313480,
+      "endMs": 1321000,
+      "en": "from what were imagined as the uncivilized Central Asian steppe winds and therefore thereby help agriculture.",
+      "zh": "抵御当时想象中的未开化中亚草原风，从而帮助农业。"
+    },
+    {
+      "id": 254,
+      "startMs": 1321000,
+      "endMs": 1326200,
+      "en": "But there too there was a very strange ideological element to it because at that point",
+      "zh": "但其中也有一个非常奇怪的意识形态因素，因为在那时，"
+    },
+    {
+      "id": 255,
+      "startMs": 1326300,
+      "endMs": 1334540,
+      "en": "They were relying on this bogus biological idea that you could even indoctrinate acorns",
+      "zh": "他们依赖一种虚假的生物学观念，认为甚至可以向橡果灌输思想，"
+    },
+    {
+      "id": 256,
+      "startMs": 1334780,
+      "endMs": 1340200,
+      "en": "to build these communist walls of trees. Sophie Pinkham.",
+      "zh": "让它们筑起这样的共产主义树墙。以上是苏菲·平克姆的介绍。"
+    },
+    {
+      "id": 257,
+      "startMs": 1341320,
+      "endMs": 1346600,
+      "en": "To the United States now, where the famous Route 66 turns a hundred this year.",
+      "zh": "现在来到美国，这里著名的66号公路今年迎来百年。"
+    },
+    {
+      "id": 258,
+      "startMs": 1347160,
+      "endMs": 1351560,
+      "en": "The highway weaves its way through towns all the way from Chicago to Los Angeles.",
+      "zh": "这条公路蜿蜒穿过沿途城镇，从芝加哥一路通往洛杉矶。"
+    },
+    {
+      "id": 259,
+      "startMs": 1351960,
+      "endMs": 1357960,
+      "en": "And helped create the classic American roadside economy with all its diners, neon signs, and quirky motels.",
+      "zh": "它还帮助塑造了美国经典的公路沿线经济：餐馆、霓虹招牌和风格各异的汽车旅馆。"
+    },
+    {
+      "id": 260,
+      "startMs": 1358760,
+      "endMs": 1367560,
+      "en": "But a century after it first captured our imagination, does the ultimate American road trip, which is also known as the Mother Road, still have the same pull?",
+      "zh": "但在它首次俘获我们的想象力一个世纪后，这场被称为“母亲之路”的终极美国公路旅行，是否仍有同样的吸引力？"
+    },
+    {
+      "id": 261,
+      "startMs": 1368040,
+      "endMs": 1377000,
+      "en": "Victoria Craig headed west across the United States to discover whether nostalgia is still drawing tourists and their dollars to towns along the route.",
+      "zh": "维多利亚·克雷格向西穿越美国，探寻怀旧情怀是否仍在把游客和他们的钱吸引到沿线城镇。"
+    },
+    {
+      "id": 262,
+      "startMs": 1378300,
+      "endMs": 1387020,
+      "en": "Route 66 is a 2,500-mile stretch of concrete and pavement that runs from the bustling metropolis of Chicago, Illinois,",
+      "zh": "66号公路是一段长达2500英里的混凝土和路面，从伊利诺伊州繁华的大都市芝加哥出发，"
+    },
+    {
+      "id": 263,
+      "startMs": 1387500,
+      "endMs": 1391740,
+      "en": "all the way to the sandy West Coast shores of Santa Monica, California.",
+      "zh": "一路延伸至加利福尼亚州圣莫尼卡的西海岸沙滩。"
+    },
+    {
+      "id": 264,
+      "startMs": 1392140,
+      "endMs": 1395580,
+      "en": "Our first stop is in Cuba, Missouri, and the Wagon Wheel Hotel.",
+      "zh": "我们的第一站是密苏里州的古巴镇，以及瓦贡轮酒店。"
+    },
+    {
+      "id": 265,
+      "startMs": 1395580,
+      "endMs": 1396140,
+      "en": "Hi.",
+      "zh": "嗨。"
+    },
+    {
+      "id": 266,
+      "startMs": 1397760,
+      "endMs": 1400240,
+      "en": "It's been operating here for more than 90 years.",
+      "zh": "它在这里营业已经超过90年。"
+    },
+    {
+      "id": 267,
+      "startMs": 1400640,
+      "endMs": 1404560,
+      "en": "It's where we meet Roamin' Rich Dinkela, a lifelong Route 66 enthusiast.",
+      "zh": "我们在这里遇到了“漫游者”里奇·丁克拉，一位终身热爱66号公路的人。"
+    },
+    {
+      "id": 268,
+      "startMs": 1404560,
+      "endMs": 1410800,
+      "en": "He bought this historic Mother Road property, which is his second, in April this year.",
+      "zh": "他今年4月买下了这处历史悠久的“母亲之路”房产，这是他买下的第二处房产。"
+    },
+    {
+      "id": 269,
+      "startMs": 1411360,
+      "endMs": 1413440,
+      "en": "This place represents so much.",
+      "zh": "这个地方承载着太多意义。"
+    },
+    {
+      "id": 270,
+      "startMs": 1413440,
+      "endMs": 1417760,
+      "en": "You've got the Ozark stone cottages, and people can come here.",
+      "zh": "这里有欧扎克石屋，人们可以来到这里。"
+    },
+    {
+      "id": 271,
+      "startMs": 1417760,
+      "endMs": 1420640,
+      "en": "They can get a glimpse of what it was like in the 30s and 40s.",
+      "zh": "他们可以一窥这里在20世纪30年代和40年代是什么样子。"
+    },
+    {
+      "id": 272,
+      "startMs": 1420640,
+      "endMs": 1424400,
+      "en": "Do you worry if there isn't more awareness raised,",
+      "zh": "你是否担心，如果没有更多人提高意识，"
+    },
+    {
+      "id": 273,
+      "startMs": 1424400,
+      "endMs": 1429360,
+      "en": "particularly for younger generations who will eventually be the ones staying in this motel and others?",
+      "zh": "尤其是年轻一代，他们最终会住在这家及其他汽车旅馆里？"
+    },
+    {
+      "id": 274,
+      "startMs": 1429520,
+      "endMs": 1435040,
+      "en": "I've been extremely worried about the centennial that we're going to see a lot of bad decisions, and we have.",
+      "zh": "我一直非常担心这次百年纪念，我们将会看到许多糟糕的决定，而事实确实如此。"
+    },
+    {
+      "id": 275,
+      "startMs": 1435360,
+      "endMs": 1437760,
+      "en": "Several hours west in Clinton, Oklahoma.",
+      "zh": "在俄克拉何马州克林顿以西几小时车程处，"
+    },
+    {
+      "id": 276,
+      "startMs": 1439540,
+      "endMs": 1443220,
+      "en": "There's been a boom in visitors to the city's Route 66 Museum.",
+      "zh": "这座城市的66号公路博物馆迎来了一波游客热潮。"
+    },
+    {
+      "id": 277,
+      "startMs": 1444020,
+      "endMs": 1451700,
+      "en": "The centennial gives us an opportunity to put our story back into a national conversation.",
+      "zh": "百年纪念给了我们一个机会，让我们的故事重新进入全国性的讨论。"
+    },
+    {
+      "id": 278,
+      "startMs": 1451780,
+      "endMs": 1453700,
+      "en": "That's museum director Corey Cart.",
+      "zh": "这是博物馆馆长科里·卡特。"
+    },
+    {
+      "id": 279,
+      "startMs": 1453940,
+      "endMs": 1457060,
+      "en": "Sales in our gift shop are up over 300%.",
+      "zh": "我们礼品店的销售额增长了超过300%。"
+    },
+    {
+      "id": 280,
+      "startMs": 1457460,
+      "endMs": 1464580,
+      "en": "We're also celebrating America's 250th, and that is giving us a chance to tell the story to audiences",
+      "zh": "我们也在庆祝美国建国250周年，这让我们有机会向一些观众讲述这个故事，"
+    },
+    {
+      "id": 281,
+      "startMs": 1464580,
+      "endMs": 1467060,
+      "en": "that before have never considered Route 66.",
+      "zh": "他们过去从未想过要了解66号公路。"
+    },
+    {
+      "id": 282,
+      "startMs": 1467940,
+      "endMs": 1470980,
+      "en": "Indeed, Oklahoma's relationship to the Mother Road runs deep.",
+      "zh": "的确，俄克拉何马州与“母亲之路”的渊源十分深厚。"
+    },
+    {
+      "id": 283,
+      "startMs": 1473500,
+      "endMs": 1478060,
+      "en": "Kansas and other states look like moonscapes after huge dark clouds.",
+      "zh": "在巨大的乌云过后，堪萨斯州和其他州看起来像月球表面。"
+    },
+    {
+      "id": 284,
+      "startMs": 1481540,
+      "endMs": 1489860,
+      "en": "During the depths of the Great Depression in the 1930s, an environmental disaster known as the Dust Bowl swept through America's southern plains.",
+      "zh": "在20世纪30年代大萧条最严重的时期，一场名为“沙尘暴”的环境灾难席卷了美国南部平原。"
+    },
+    {
+      "id": 285,
+      "startMs": 1490340,
+      "endMs": 1498180,
+      "en": "Tenant farmers, pushed deep into poverty by severe drought and rapid agricultural modernization, were forced off their land.",
+      "zh": "佃农因严重干旱和农业快速现代化而陷入赤贫，被迫离开自己的土地。"
+    },
+    {
+      "id": 286,
+      "startMs": 1498660,
+      "endMs": 1509060,
+      "en": "Many of them went west along Route 66, searching for a better life in California, but they faced bitter class prejudice and hostility every step of the way.",
+      "zh": "他们中的许多人沿66号公路向西前往加州寻找更好的生活，但一路都遭遇了尖锐的阶级偏见和敌意。"
+    },
+    {
+      "id": 287,
+      "startMs": 1509220,
+      "endMs": 1512820,
+      "en": "The early days of Route 66 are not a fun story.",
+      "zh": "66号公路的早期历史并不是一个轻松的故事。"
+    },
+    {
+      "id": 288,
+      "startMs": 1512900,
+      "endMs": 1521780,
+      "en": "Where people really want to talk about it is that post-war, that open road represented freedom, and Route 66 just kept reinventing itself.",
+      "zh": "人们真正想谈的是战后时期：那条开放的公路代表自由，而66号公路也一直在自我革新。"
+    },
+    {
+      "id": 289,
+      "startMs": 1522100,
+      "endMs": 1526420,
+      "en": "So how important now is Route 66 to Clinton's economy, would you say?",
+      "zh": "那么，你会说如今66号公路对克林顿的经济有多重要？"
+    },
+    {
+      "id": 290,
+      "startMs": 1526900,
+      "endMs": 1530900,
+      "en": "If you look at the amount of restaurants and gift shops and things here in town,",
+      "zh": "如果看看镇上餐馆、礼品店和其他店铺的数量，"
+    },
+    {
+      "id": 291,
+      "startMs": 1530900,
+      "endMs": 1536900,
+      "en": "that are either named after Route 66 or sell Route 66 souvenirs, it is a huge part of it.",
+      "zh": "它们要么以66号公路命名，要么出售66号公路纪念品，可见这条公路是这里的重要组成部分。"
+    },
+    {
+      "id": 292,
+      "startMs": 1536900,
+      "endMs": 1538580,
+      "en": "Lightning McQueen, the famous race car.",
+      "zh": "闪电麦坤，这辆著名的赛车。"
+    },
+    {
+      "id": 293,
+      "startMs": 1542080,
+      "endMs": 1550560,
+      "en": "Pixar's 2006 animated hit Cars captured the nostalgia of the 1950s-era road trip culture for a new generation.",
+      "zh": "皮克斯2006年的动画热门电影《赛车总动员》，让新一代感受到了20世纪50年代公路旅行文化的怀旧情怀。"
+    },
+    {
+      "id": 294,
+      "startMs": 1551360,
+      "endMs": 1556400,
+      "en": "Research from the National Travel Center Organization shows the power of heritage tourism.",
+      "zh": "国家旅行中心组织的研究显示了遗产旅游的力量。"
+    },
+    {
+      "id": 295,
+      "startMs": 1556880,
+      "endMs": 1560160,
+      "en": "It found that secondary roads like Route 66,",
+      "zh": "研究发现，像66号公路这样的次要公路，"
+    },
+    {
+      "id": 296,
+      "startMs": 1560160,
+      "endMs": 1566720,
+      "en": "if promoted, can drive up to $450,000 in visitor spending per mile each year.",
+      "zh": "如果加以推广，每英里每年最多可以带来45万美元的游客消费。"
+    },
+    {
+      "id": 297,
+      "startMs": 1567040,
+      "endMs": 1568640,
+      "en": "That's around $280,000 per kilometer.",
+      "zh": "这相当于每公里约28万美元。"
+    },
+    {
+      "id": 298,
+      "startMs": 1570720,
+      "endMs": 1577200,
+      "en": "Though for remote stretches of road, capturing even a fraction of that is still a constant battle.",
+      "zh": "不过，对于偏远路段来说，即使获得其中一小部分收益，仍是一场持续的战斗。"
+    },
+    {
+      "id": 299,
+      "startMs": 1577760,
+      "endMs": 1578800,
+      "en": "Victoria Craig.",
+      "zh": "维多利亚·克雷格。"
+    },
+    {
+      "id": 300,
+      "startMs": 1582020,
+      "endMs": 1583220,
+      "en": "And that's all from us for now.",
+      "zh": "以上就是本期节目的全部内容。"
+    },
+    {
+      "id": 301,
+      "startMs": 1583300,
+      "endMs": 1588260,
+      "en": "If you want to get in touch, you can email us at globalpodcast@bbc.co.uk.",
+      "zh": "如果你想联系我们，可以发送邮件至 globalpodcast@bbc.co.uk。"
+    },
+    {
+      "id": 302,
+      "startMs": 1588340,
+      "endMs": 1594340,
+      "en": "You can also find us on X at BBC World Service. Use the hashtag GlobalNewsPod.",
+      "zh": "你也可以在X平台通过BBC World Service找到我们。请使用话题标签GlobalNewsPod。"
+    },
+    {
+      "id": 303,
+      "startMs": 1594340,
+      "endMs": 1599620,
+      "en": "This edition of the Global News Podcast was mixed by Derek Clark and produced by Emma Joseph.",
+      "zh": "本期《全球新闻播客》由德里克·克拉克混音，艾玛·约瑟夫制作。"
+    },
+    {
+      "id": 304,
+      "startMs": 1600100,
+      "endMs": 1601540,
+      "en": "The editor is Karen Martin.",
+      "zh": "编辑是凯伦·马丁。"
+    },
+    {
+      "id": 305,
+      "startMs": 1601860,
+      "endMs": 1604020,
+      "en": "I am Nick Miles, and until next time, goodbye.",
+      "zh": "我是尼克·迈尔斯，我们下期再见。"
+    }
+  ]
+}
